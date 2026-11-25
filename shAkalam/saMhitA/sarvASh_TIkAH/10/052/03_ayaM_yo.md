@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अग्निः सौचीकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ devā́ḥ ← devá- (nominal stem)
 
 havyavā́ham ← havyavā́h- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं यो होता॒ किरु॒ स य॒मस्य॒ कमप्यू॑हे॒ यत्स॑म॒ञ्जन्ति॑ दे॒वाः ।  
+अह॑रहर्जायते मा॒सिमा॒स्यथा॑ दे॒वा द॑धिरे हव्य॒वाह॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “Agni; fire; sacrificial fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पृथुर्वैन्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ túbhyam ← tvám (pronoun)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्यो वा॒ गिरो॑ अ॒भ्य॑र्च वि॒द्वानृषी॑णां॒ विप्रः॑ सुम॒तिं च॑का॒नः ।  
+ते स्या॑म॒ ये र॒णय॑न्त॒ सोमै॑रे॒नोत तुभ्यं॑ रथोळ्ह भ॒क्षैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “food; eating; drink; beverage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

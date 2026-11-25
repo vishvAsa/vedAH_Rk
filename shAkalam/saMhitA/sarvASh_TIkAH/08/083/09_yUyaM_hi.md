@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -63,7 +64,12 @@ utá ← utá (invariable)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यं हि ष्ठा सु॑दानव॒ इन्द्र॑ज्येष्ठा अ॒भिद्य॑वः ।  
+अधा॑ चिद्व उ॒त ब्रु॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

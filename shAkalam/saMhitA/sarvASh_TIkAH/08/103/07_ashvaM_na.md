@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ párṣi ← √pr̥- (root)
 
 rā́dhaḥ ← rā́dhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वं॒ न गी॒र्भी र॒थ्यं॑ सु॒दान॑वो मर्मृ॒ज्यन्ते॑ देव॒यवः॑ ।  
+उ॒भे तो॒के तन॑ये दस्म विश्पते॒ पर्षि॒ राधो॑ म॒घोना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

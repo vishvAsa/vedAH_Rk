@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tvāyatáḥ ← √tvāy- (root)
 
 ūnayīḥ ← √ūnay- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शची॑व इन्द्र पुरुकृद्द्युमत्तम॒ तवेदि॒दम॒भित॑श्चेकिते॒ वसु॑ ।  
+अतः॑ सं॒गृभ्या॑भिभूत॒ आ भ॑र॒ मा त्वा॑य॒तो ज॑रि॒तुः काम॑मूनयीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - \[verb\], singular, Aorist inj. (proh.)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

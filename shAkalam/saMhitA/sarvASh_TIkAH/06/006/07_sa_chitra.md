@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ gr̥ṇaté ← √gr̥̄- 1 (root)
 
 yuvasva ← √yu- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स चि॑त्र चि॒त्रं चि॒तय॑न्तम॒स्मे चित्र॑क्षत्र चि॒त्रत॑मं वयो॒धाम् ।  
+च॒न्द्रं र॒यिं पु॑रु॒वीरं॑ बृ॒हन्तं॒ चन्द्र॑ च॒न्द्राभि॑र्गृण॒ते यु॑वस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “unite.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ naḥ ← ahám (pronoun)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒ह्य१॒॑न्यं ब॒ळाक॑रं मर्डि॒तारं॑ शतक्रतो ।  
+त्वं न॑ इन्द्र मृळय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “pardon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ sákhāyaḥ ← sákhi- (nominal stem)
 
 śíśumantaḥ ← śíśumant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यन्मा॑ वे॒ना अरु॑हन्नृ॒तस्यँ॒ एक॒मासी॑नं हर्य॒तस्य॑ पृ॒ष्ठे ।  
+मन॑श्चिन्मे हृ॒द आ प्रत्य॑वोच॒दचि॑क्रद॒ञ्छिशु॑मन्तः॒ सखा॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sthirā́ ← sthirá- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒द्यो जा॒तस्य॒ ददृ॑शान॒मोजो॒ यद॑स्य॒ वातो॑ अनु॒वाति॑ शो॒चिः ।  
+वृ॒णक्ति॑ ति॒ग्माम॑त॒सेषु॑ जि॒ह्वां स्थि॒रा चि॒दन्ना॑ दयते॒ वि जम्भैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

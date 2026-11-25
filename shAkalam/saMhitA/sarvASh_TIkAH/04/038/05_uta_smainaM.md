@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -95,7 +96,12 @@ paśumát ← paśumánt- (nominal stem)
 
 yūthám ← yūthá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्मै॑नं वस्त्र॒मथिं॒ न ता॒युमनु॑ क्रोशन्ति क्षि॒तयो॒ भरे॑षु ।  
+नी॒चाय॑मानं॒ जसु॑रिं॒ न श्ये॒नं श्रव॒श्चाच्छा॑ पशु॒मच्च॑ यू॒थम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “herd; troop; battalion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

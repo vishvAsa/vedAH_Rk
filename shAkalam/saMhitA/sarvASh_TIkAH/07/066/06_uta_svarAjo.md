@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -57,7 +58,12 @@ maháḥ ← máh- (nominal stem)
 
 rā́jānaḥ ← rā́jan- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्व॒राजो॒ अदि॑ति॒रद॑ब्धस्य व्र॒तस्य॒ ये ।  
+म॒हो राजा॑न ईशते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “govern; command; master; dominate; can; reign; control; own.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -55,7 +56,11 @@ sám ← sám (invariable)
 
 svaíḥ ← svá- (pronoun)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒च्छन्त॒ रेतो॑ मि॒थस्त॒नूषु॒ सं जा॑नत॒ स्वैर्दक्षै॒रमू॑राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +127,6 @@ _________
 - “wise; intelligent; apt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

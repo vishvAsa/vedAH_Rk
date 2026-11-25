@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्र्यरुणस्त्रैवृष्णस्त्रसदस्युः पौरुकुत्सः भारतोश्वमेधश्च राजानः भौमोत्रिर्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ tryàruṇāya ← tryàruṇa- (nominal stem)
 
 yácha ← √yam- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो मे॑ श॒ता च॑ विंश॒तिं च॒ गोनां॒ हरी॑ च यु॒क्ता सु॒धुरा॒ ददा॑ति ।  
+वैश्वा॑नर॒ सुष्टु॑तो वावृधा॒नोऽग्ने॒ यच्छ॒ त्र्य॑रुणाय॒ शर्म॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “protection; protective covering; refuge; joy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

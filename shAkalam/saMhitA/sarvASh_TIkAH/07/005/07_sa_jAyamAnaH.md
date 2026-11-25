@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ daśasyán ← √daśasy- (root)
 
 jātavedaḥ ← jātávedas- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स जाय॑मानः पर॒मे व्यो॑मन्वा॒युर्न पाथः॒ परि॑ पासि स॒द्यः ।  
+त्वं भुव॑ना ज॒नय॑न्न॒भि क्र॒न्नप॑त्याय जातवेदो दश॒स्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ ná ← ná (invariable)
 
 sidhrám ← sidhrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञो हि ष्मेन्द्रं॒ कश्चि॑दृ॒न्धञ्जु॑हुरा॒णश्चि॒न्मन॑सा परि॒यन् ।  
+ती॒र्थे नाच्छा॑ तातृषा॒णमोको॑ दी॒र्घो न सि॒ध्रमा कृ॑णो॒त्यध्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
     distance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

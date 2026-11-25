@@ -4,6 +4,7 @@ devataa = "कः (प्रजापतिः)"
 RShiH = "शुनःशेप आजीगर्तिः | कृत्रिमो वैश्वामित्रो देवरातः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कः (प्रजापतिः)
@@ -89,7 +90,12 @@ mātáram ← mātár- (nominal stem)
 
 pitáram ← pitár- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कस्य॑ नू॒नं क॑त॒मस्या॒मृता॑नां॒ मना॑महे॒ चारु॑ दे॒वस्य॒ नाम॑ ।  
+को नो॑ म॒ह्या अदि॑तये॒ पुन॑र्दात्पि॒तरं॑ च दृ॒शेयं॑ मा॒तरं॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

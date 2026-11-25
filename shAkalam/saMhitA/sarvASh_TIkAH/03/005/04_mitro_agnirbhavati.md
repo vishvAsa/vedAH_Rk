@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ síndhūnām ← síndhu- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रो अ॒ग्निर्भ॑वति॒ यत्समि॑द्धो मि॒त्रो होता॒ वरु॑णो जा॒तवे॑दाः ।  
+मि॒त्रो अ॑ध्व॒र्युरि॑षि॒रो दमू॑ना मि॒त्रः सिन्धू॑नामु॒त पर्व॑तानाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     height.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

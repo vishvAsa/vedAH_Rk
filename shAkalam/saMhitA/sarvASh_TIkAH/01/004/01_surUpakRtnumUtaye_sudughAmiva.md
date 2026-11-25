@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -51,7 +52,12 @@ dyávi-dyavi ← dyú- ~ div- (nominal stem)
 
 juhūmási ← √hū- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒रू॒प॒कृ॒त्नुमू॒तये॑ सु॒दुघा॑मिव गो॒दुहे॑ ।  
+जु॒हू॒मसि॒ द्यवि॑द्यवि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

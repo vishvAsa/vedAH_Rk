@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ krátve ← krátu- (nominal stem)
 
 pītā́ḥ ← √pā- 2 (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते वो॑ हृ॒दे मन॑से सन्तु य॒ज्ञा जुष्टा॑सो अ॒द्य घृ॒तनि॑र्णिजो गुः ।  
+प्र वः॑ सु॒तासो॑ हरयन्त पू॒र्णाः क्रत्वे॒ दक्षा॑य हर्षयन्त पी॒ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

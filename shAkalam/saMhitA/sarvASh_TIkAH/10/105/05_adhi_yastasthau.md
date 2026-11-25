@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कौत्सो दुर्मित्रो नाम्ना दुर्मित्रो गुणतो वा नाम्ना दुर्मित्रो गुणतः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ vyácasvantā ← vyácasvant- (nominal stem)
 
 vanóti ← √vanⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधि॒ यस्त॒स्थौ केश॑वन्ता॒ व्यच॑स्वन्ता॒ न पु॒ष्ट्यै ।  
+व॒नोति॒ शिप्रा॑भ्यां शि॒प्रिणी॑वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

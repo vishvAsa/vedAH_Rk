@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ náva ← náva- 1 (nominal stem)
 
 vayúnā ← vayúna- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमीं॑ हिन्वन्ति धी॒तयो॒ दश॒ व्रिशो॑ दे॒वं मर्ता॑स ऊ॒तये॑ हवामहे ।  
+धनो॒रधि॑ प्र॒वत॒ आ स ऋ॑ण्वत्यभि॒व्रज॑द्भिर्व॒युना॒ नवा॑धित ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

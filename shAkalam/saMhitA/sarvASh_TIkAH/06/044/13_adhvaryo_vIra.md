@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ gr̥ṇatā́m ← √gr̥̄- 1 (root)
 
 vāvr̥dhé ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध्व॑र्यो वीर॒ प्र म॒हे सु॒ताना॒मिन्द्रा॑य भर॒ स ह्य॑स्य॒ राजा॑ ।  
+यः पू॒र्व्याभि॑रु॒त नूत॑नाभिर्गी॒र्भिर्वा॑वृ॒धे गृ॑ण॒तामृषी॑णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -247,10 +252,6 @@ he who has grown strong by the previous and the present songs of  singing seers.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich contains disharmony of number in a constructio ad sensum: The priest is urged to offer of the pressed (soma-drink)s in the plural (sutā́nām); the reason for this is immediately given in the 2nd part of pāda b, sá hy àsya rā́jā “for he is its king.” Unaccented singular asya presupposes a referent already in the discourse, with “it” referring to soma, represented in the previous clause as a plural. The singular is then continued in the rest of the tṛca (asyá 14a, tám … sómam 14cd, sutám … sómam 15a, with sg. sutám picking up pl. sutā́nām of 13a).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -258,7 +259,6 @@ Another soma tṛca.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

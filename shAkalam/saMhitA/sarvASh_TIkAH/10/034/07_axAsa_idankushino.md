@@ -4,6 +4,7 @@ devataa = "अक्षकृषिप्रशंसा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकृषिप्रशंसा
@@ -74,7 +75,12 @@ mádhvā ← mádhu- (nominal stem)
 
 sámpr̥ktāḥ ← √pr̥c- (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒क्षास॒ इद॑ङ्कु॒शिनो॑ नितो॒दिनो॑ नि॒कृत्वा॑न॒स्तप॑नास्तापयि॒ष्णवः॑ ।  
+कु॒मा॒रदे॑ष्णा॒ जय॑तः पुन॒र्हणो॒ मध्वा॒ सम्पृ॑क्ताः कित॒वस्य॑ ब॒र्हणा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “power; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ mahiratna ← mahiratna- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने शशमा॒नाय॑ सुन्व॒ते रत्नं॑ यविष्ठ दे॒वता॑तिमिन्वसि ।  
+तं त्वा॒ नु नव्यं॑ सहसो युवन्व॒यं भगं॒ न का॒रे म॑हिरत्न धीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

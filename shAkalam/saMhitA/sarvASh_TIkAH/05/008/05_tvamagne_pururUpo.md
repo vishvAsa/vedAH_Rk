@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ titviṣāṇásya ← √tvíṣ- (root)
 
 tvíṣiḥ ← tvíṣi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने पुरु॒रूपो॑ वि॒शेवि॑शे॒ वयो॑ दधासि प्र॒त्नथा॑ पुरुष्टुत ।  
+पु॒रूण्यन्ना॒ सह॑सा॒ वि रा॑जसि॒ त्विषिः॒ सा ते॑ तित्विषा॒णस्य॒ नाधृषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “overcome; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

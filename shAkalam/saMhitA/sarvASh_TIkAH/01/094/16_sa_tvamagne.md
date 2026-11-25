@@ -4,6 +4,7 @@ devataa = "अग्निः;मित्रोवरुणोदितिः �
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः;मित्रोवरुणोदितिः सिन्धुः पृथिवी द्यौरग्निर्वा
@@ -95,7 +96,12 @@ síndhuḥ ← síndhu- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स त्वम॑ग्ने सौभग॒त्वस्य॑ वि॒द्वान॒स्माक॒मायुः॒ प्र ति॑रे॒ह दे॑व ।  
+तन्नो॑ मि॒त्रो वरु॑णो मामहन्ता॒मदि॑तिः॒ सिन्धुः॑ पृथि॒वी उ॒त द्यौः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -280,10 +285,6 @@ You, o Agni, knowing the quality of good fortune—for us extend our  lifetime h
 – This let Mitra and Varuṇa grant to us, and Aditi, River, and Earth  and Heaven.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Because sá with 2nd ps. reference is restricted by rule to imperatives (see Jamison 1992 [HS 105]), ab must be a single clause, pace Geldner
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/15-16.md">
 <details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -291,7 +292,6 @@ The meter here changes to Triṣṭubh, and the intra-hymnic refrain is dropped.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

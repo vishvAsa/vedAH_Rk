@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sá ← sá- ~ tá- (pronoun)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वाग्निर्गोत॑मेभिरृ॒तावा॒ विप्रे॑भिरस्तोष्ट जा॒तवे॑दाः ।  
+स ए॑षु द्यु॒म्नं पी॑पय॒त्स वाजं॒ स पु॒ष्टिं या॑ति॒ जोष॒मा चि॑कि॒त्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

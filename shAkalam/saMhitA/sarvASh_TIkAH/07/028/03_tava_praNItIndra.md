@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ cit ← cit (invariable)
 
 tū́tujiḥ ← tū́tuji- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ प्रणी॑तीन्द्र॒ जोहु॑वाना॒न्त्सं यन्नॄन्न रोद॑सी नि॒नेथ॑ ।  
+म॒हे क्ष॒त्राय॒ शव॑से॒ हि ज॒ज्ञेऽतू॑तुजिं चि॒त्तूतु॑जिरशिश्नत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “pierce; kill.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

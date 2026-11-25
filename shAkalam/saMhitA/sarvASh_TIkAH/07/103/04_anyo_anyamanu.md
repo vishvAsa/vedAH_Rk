@@ -4,6 +4,7 @@ devataa = "मंडूकाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मंडूकाः
@@ -83,7 +84,12 @@ sampr̥ṅkté ← √pr̥c- (root)
 
 vā́cam ← vā́c- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न्यो अ॒न्यमनु॑ गृभ्णात्येनोर॒पां प्र॑स॒र्गे यदम॑न्दिषाताम् ।  
+म॒ण्डूको॒ यद॒भिवृ॑ष्टः॒ कनि॑ष्क॒न्पृश्निः॑ सम्पृ॒ङ्क्ते हरि॑तेन॒ वाच॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     assurance; spell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "सतोबृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ carṣaṇíbhyaḥ ← carṣaṇí- (nominal stem)
 
 vásūni ← vásu- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा ते॒ राधां॑सि॒ मा त॑ ऊ॒तयो॑ वसो॒ऽस्मान्कदा॑ च॒ना द॑भन् ।  
+विश्वा॑ च न उपमिमी॒हि मा॑नुष॒ वसू॑नि चर्ष॒णिभ्य॒ आ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

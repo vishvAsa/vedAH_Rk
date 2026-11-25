@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वत्सप्रिर्भालन्दनः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ várivaḥ ← várivas- (nominal stem)
 
 vidat ← √vid- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं दि॒व इ॑यर्ति॒ विश्व॒मा रजः॒ सोमः॑ पुना॒नः क॒लशे॑षु सीदति ।  
+अ॒द्भिर्गोभि॑र्मृज्यते॒ अद्रि॑भिः सु॒तः पु॑ना॒न इन्दु॒र्वरि॑वो विदत्प्रि॒यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     good; liked; suitable; proper.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

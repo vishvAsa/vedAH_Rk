@@ -4,6 +4,7 @@ devataa = "वागांभृणी"
 RShiH = "वागांभृणी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वागांभृणी
@@ -83,7 +84,12 @@ dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)
 
 viveśa ← √viś- (root)  
 {number:SG, person:1, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं रु॒द्राय॒ धनु॒रा त॑नोमि ब्रह्म॒द्विषे॒ शर॑वे॒ हन्त॒वा उ॑ ।  
+अ॒हं जना॑य स॒मदं॑ कृणोम्य॒हं द्यावा॑पृथि॒वी आ वि॑वेश ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

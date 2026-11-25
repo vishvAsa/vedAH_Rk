@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गय आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -91,7 +92,12 @@ dhmātári ← dhmātár- (nominal stem)
 
 yathā ← yathā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॑ स्म॒ यस्या॒र्चयः॑ स॒म्यक्सं॒यन्ति॑ धू॒मिनः॑ ।  
+यदी॒मह॑ त्रि॒तो दि॒व्युप॒ ध्माते॑व॒ धम॑ति॒ शिशी॑ते ध्मा॒तरी॑ यथा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

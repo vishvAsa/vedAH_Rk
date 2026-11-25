@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ dāśvàdhvaram ← dāśvàdhvara- (nominal stem)
 
 sunvántaḥ ← √su- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+र॒थे॒ष्ठाया॑ध्वर्यवः॒ सोम॒मिन्द्रा॑य सोतन ।  
+अधि॑ ब्र॒ध्नस्याद्र॑यो॒ वि च॑क्षते सु॒न्वन्तो॑ दा॒श्व॑ध्वरम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

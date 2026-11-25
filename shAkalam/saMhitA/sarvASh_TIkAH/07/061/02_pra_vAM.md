@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -89,7 +90,12 @@ pr̥ṇaíthe ← √pr̥̄- 1 (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वां॒ स मि॑त्रावरुणावृ॒तावा॒ विप्रो॒ मन्मा॑नि दीर्घ॒श्रुदि॑यर्ति ।  
+यस्य॒ ब्रह्मा॑णि सुक्रतू॒ अवा॑थ॒ आ यत्क्रत्वा॒ न श॒रदः॑ पृ॒णैथे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -76,7 +77,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 svarvídam ← svarvíd- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू॒नं तदि॑न्द्र दद्धि नो॒ यत्त्वा॑ सु॒न्वन्त॒ ईम॑हे ।  
+र॒यिं न॑श्चि॒त्रमा भ॑रा स्व॒र्विद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “finding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

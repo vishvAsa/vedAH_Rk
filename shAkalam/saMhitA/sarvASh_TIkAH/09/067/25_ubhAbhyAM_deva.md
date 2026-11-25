@@ -4,6 +4,7 @@ devataa = "अग्निः सविता वा"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सविता वा
@@ -57,7 +58,12 @@ punīhi ← √pū- (root)
 
 viśvátas ← viśvátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भाभ्यां॑ देव सवितः प॒वित्रे॑ण स॒वेन॑ च ।  
+मां पु॑नीहि वि॒श्वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “everywhere; around; about.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -154,10 +159,6 @@ With both, god Savitar, with the filter and with your impulsion
 purify me all about.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In addition to the introduction of Savitar, we also get a slight rearrangement in word order. The conjoined phrase pavítreṇa savéna ca would not fit in the slot right before the impv. in c, a position it occupies in 23c, 24b, 24c, 26c, so the final enclitic naḥ is converted to a full prn. mā́m and placed in initial position. This prn. also has to be read as distracted máām to achieve 8 syllables. I wonder why the poet didn’t just use asmā́n, which would fit the meter and better match naḥ. One of the only instances in which I think I could compose the vs. better than the poet - though “me” (both tonic mā́m and enclitic mā) serves as insistent obj. in vs. 27.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details><summary><h2>22-27 ...{Loading}...</h2></summary>
 
@@ -167,7 +168,6 @@ The pavítra is mentioned in vss. 22-25, with other, non-physical means of purif
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

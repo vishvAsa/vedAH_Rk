@@ -4,6 +4,7 @@ devataa = "देवीर्द्वारः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवीर्द्वारः
@@ -86,7 +87,12 @@ rátham ← rátha- (nominal stem)
 
 rathayúḥ ← rathayú- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो वा॒ सानु॑ स्पृ॒शता॒ वरी॑यः पृथि॒व्या वा॒ मात्र॑या॒ वि श्र॑यध्वम् ।  
+उ॒श॒तीर्द्वा॑रो महि॒ना म॒हद्भि॑र्दे॒वं रथं॑ रथ॒युर्धा॑रयध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     understand; fixate; govern; restrain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

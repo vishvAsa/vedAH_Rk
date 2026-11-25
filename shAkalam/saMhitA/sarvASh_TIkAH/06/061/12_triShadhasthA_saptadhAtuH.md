@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -54,7 +55,12 @@ hávyā ← hávya- (nominal stem)
 
 vā́je-vāje ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रि॒ष॒धस्था॑ स॒प्तधा॑तुः॒ पञ्च॑ जा॒ता व॒र्धय॑न्ती ।  
+वाजे॑वाजे॒ हव्या॑ भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

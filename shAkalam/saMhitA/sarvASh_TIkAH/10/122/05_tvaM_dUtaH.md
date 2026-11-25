@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "चित्रमहा वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ tvā́m ← tvám (pronoun)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं दू॒तः प्र॑थ॒मो वरे॑ण्यः॒ स हू॒यमा॑नो अ॒मृता॑य मत्स्व ।  
+त्वां म॑र्जयन्म॒रुतो॑ दा॒शुषो॑ गृ॒हे त्वां स्तोमे॑भि॒र्भृग॑वो॒ वि रु॑रुचुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “please; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

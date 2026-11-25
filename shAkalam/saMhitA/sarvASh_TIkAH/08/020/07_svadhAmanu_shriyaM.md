@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ vŕ̥ṣapsavaḥ ← vŕ̥ṣapsu- (nominal stem)
 
 váhante ← √vah- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒धामनु॒ श्रियं॒ नरो॒ महि॑ त्वे॒षा अम॑वन्तो॒ वृष॑प्सवः ।  
+वह॑न्ते॒ अह्रु॑तप्सवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

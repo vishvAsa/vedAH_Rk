@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -80,7 +81,12 @@ sumanasyámānaḥ ← √sumanasy- (root)
 
 váha ← √vah- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एहि॒ मनु॑र्देव॒युर्य॒ज्ञका॑मोऽरं॒कृत्या॒ तम॑सि क्षेष्यग्ने ।  
+सु॒गान्प॒थः कृ॑णुहि देव॒याना॒न्वह॑ ह॒व्यानि॑ सुमन॒स्यमा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “favorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

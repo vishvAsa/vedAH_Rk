@@ -4,6 +4,7 @@ devataa = "सुबन्धोर्जीविताह्वानं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सुबन्धोर्जीविताह्वानं
@@ -82,7 +83,12 @@ ariṣṭátātaye ← ariṣṭátāti- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॑ यु॒गं व॑र॒त्रया॒ नह्य॑न्ति ध॒रुणा॑य॒ कम् ।  
+ए॒वा दा॑धार ते॒ मनो॑ जी॒वात॑वे॒ न मृ॒त्यवेऽथो॑ अरि॒ष्टता॑तये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “safeness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ samudré ← samudrá- (nominal stem)
 
 śravasyávaḥ ← śravasyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒वासो॒षा उ॒च्छाच्च॒ नु दे॒वी जी॒रा रथा॑नाम् ।  
+ये अ॑स्या आ॒चर॑णेषु दध्रि॒रे स॑मु॒द्रे न श्र॑व॒स्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “celebrated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

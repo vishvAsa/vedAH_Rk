@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -98,7 +99,12 @@ sīdan ← √sad- (root)
 
 váyaḥ ← ví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते॑ऽवर्धन्त॒ स्वत॑वसो महित्व॒ना नाकं॑ त॒स्थुरु॒रु च॑क्रिरे॒ सदः॑ ।  
+विष्णु॒र्यद्धाव॒द्वृष॑णं मद॒च्युतं॒ वयो॒ न सी॑द॒न्नधि॑ ब॒र्हिषि॑ प्रि॒ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +263,6 @@ _________
     good; liked; suitable; proper.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

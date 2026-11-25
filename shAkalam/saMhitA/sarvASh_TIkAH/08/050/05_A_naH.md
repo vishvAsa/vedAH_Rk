@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ hávam ← háva- (nominal stem)
 
 pauré ← paurá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नः॒ सोमे॑ स्वध्व॒र इ॑या॒नो अत्यो॒ न तो॑शते ।  
+यं ते॑ स्वदाव॒न्त्स्वद॑न्ति गू॒र्तयः॑ पौ॒रे छ॑न्दयसे॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

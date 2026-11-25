@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)
 
 yāthaḥ ← √yā- 1 (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं व॑रो सु॒षाम्णे॑ म॒हे तने॑ नासत्या ।  
+अवो॑भिर्याथो वृषणा वृषण्वसू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “affluent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

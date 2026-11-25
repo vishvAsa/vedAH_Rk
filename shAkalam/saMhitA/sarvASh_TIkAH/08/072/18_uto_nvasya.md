@@ -4,6 +4,7 @@ devataa = "अग्निर्हवींषि वा"
 RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्हवींषि वा
@@ -66,7 +67,12 @@ jihváyā ← jihvā́- (nominal stem)
 
 pári ← pári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तो न्व॑स्य॒ यत्प॒दं ह॑र्य॒तस्य॑ निधा॒न्य॑म् ।  
+परि॒ द्यां जि॒ह्वया॑तनत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
     speak; propagate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

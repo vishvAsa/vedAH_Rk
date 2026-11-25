@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ gotrásya ← gotrá- (nominal stem)
 
 índra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदू॒ नु ते॒ अनु॒ क्रतुं॒ स्वाहा॒ वर॑स्य॒ यज्य॑वः ।  
+श्वा॒त्रम॒र्का अ॑नूष॒तेन्द्र॑ गो॒त्रस्य॑ दा॒वने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

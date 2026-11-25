@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ vā́ryā ← vā́rya- (nominal stem)
 
 víśvāni ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे वसू॑नि धारय॒ सोम॑ दि॒व्यानि॒ पार्थि॑वा ।  
+इन्दो॒ विश्वा॑नि॒ वार्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “wealth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -153,12 +158,6 @@ In us, o Soma drop, secure goods—heavenly, earthly,
 all that are choice.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first pāda of this, the final vs., echoes the last pāda of the first vs.: 1c asmé śrávāṃsi dhāraya, 30a asmé vásūni dhāraya. It is also worth noting that this 2nd sg. impv.
-
-dhāraya ‘secure’ is phonologically almost identical to the instr. sg. dhā́rayā ‘with/in a stream’, which ends the first pāda of this tṛca (28a) and which is found four other times in the hymn (4c, 7a, 14b, 21b), always in the same metrical position.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -166,7 +165,6 @@ The páva- sequence found in the last two tṛcas is brought to an end with the 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

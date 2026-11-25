@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ dvíṣaḥ ← dvíṣ- (nominal stem)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नः॒ पप्रिः॑ पारयाति स्व॒स्ति ना॒वा पु॑रुहू॒तः ।  
+इन्द्रो॒ विश्वा॒ अति॒ द्विषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “hate; dviṣ; hostility; hostility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

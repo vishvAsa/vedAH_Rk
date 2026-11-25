@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ barhíṣi ← barhís- (nominal stem)
 
 mādayethām ← √mad- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑वरुणा॒ मधु॑मत्तमस्य॒ वृष्णः॒ सोम॑स्य वृष॒णा वृ॑षेथाम् ।  
+इ॒दं वा॒मन्धः॒ परि॑षिक्तम॒स्मे आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयेथाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -209,12 +214,6 @@ honeyed, bullish soma.
 This stalk has been poured all around for you here among us. Having  sat down on this ritual grass, bring yourselves to exhilaration.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The 2nd pāda has a rather insistent but elementary phonetic/etymological figure: vṛ́ṣṇaḥ … vṛṣanā́vṛṣethām, and the last word of the vs. mādayethām resonates with the long adj. qualifying soma in the 1st pāda, mádhumattamasya. ## 069 Indra and Viṣṇu Renou’s treatment is in EVP XV.43-46. He claims that the “thème indraique” dominates, though I find the hymn’s phraseology so bland that it’s difficult to assign qualities and deeds to one or the other, and in fact the most salient action in the hymn, the wide-striding of vs. 5, is Viṣṇu’s characteristic deed. See further in the published introduction.
-
-The hymn is (in my view) repetitive and pedestrian, with only a few striking images and phraseological tricks. This strikes me as an indication that the poet was “phoning it in” -- the composition of the hymn does not seem to have commanded his full attention. The question might then arise why the hymn was preserved in the Saṃhitā. This might be partially due to the rarity of Indra-Viṣṇu hymns (only the first three vss. of I.155 and the middle three vss. of VII.99 -- so this is the only hymn entirely dedicated to both) and in fact of Viṣṇu hymns in general. As Viṣṇu, a fairly recessive god in the RV, began to come to prominence in the post-RVic period, the assemblers of the RV collection may have gathered what scraps they could and exercised less critical judgment than usual in order to create a place in the text for this newly important deity. The O’Henry-type ending, sprung by the final vs. (8), might also account for its preservation.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md">
 <details><summary><h2>09-11 ...{Loading}...</h2></summary>
 
@@ -222,7 +221,6 @@ On the annunciatory forms of ayám in these three vss., see published introducti
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -62,7 +63,12 @@ aśvínam ← aśvín- (nominal stem)
 
 sadāsā́tamam ← sadāsā́tama- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒भुमृ॑भुक्षणो र॒यिं वाजे॑ वा॒जिन्त॑मं॒ युज॑म् ।  
+इन्द्र॑स्वन्तं हवामहे सदा॒सात॑मम॒श्विन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “rich in horses; horsy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

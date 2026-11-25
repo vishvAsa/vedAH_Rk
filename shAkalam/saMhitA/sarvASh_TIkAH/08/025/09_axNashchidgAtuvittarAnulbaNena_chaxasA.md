@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -63,7 +64,12 @@ ní ← ní (invariable)
 
 nicirā́ ← nicirá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒क्ष्णश्चि॑द्गातु॒वित्त॑रानुल्ब॒णेन॒ चक्ष॑सा ।  
+नि चि॑न्मि॒षन्ता॑ निचि॒रा नि चि॑क्यतुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “observe; detect; notice; heed; mind.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -182,14 +187,12 @@ even when blinking, the two attentive ones remain attentive.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 Both these verses have a subject / VP construction that’s an etymological figure: 8c … kṣatríyā kṣatrám āśatuḥ, 9c … nicirā́ní cikyatuḥ. The latter is reinforced phonologically by the pāda-opening ní cin miṣántā. The unusual tmesis of preverb and participle, interrupted by the particle cid, may be (partly) accounted for by the desire to produce a ni ci- sequence matching the two that follow in that pāda.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

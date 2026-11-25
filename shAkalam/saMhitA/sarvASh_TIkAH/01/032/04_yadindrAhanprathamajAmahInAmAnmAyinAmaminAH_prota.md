@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ tādī́tnā ← tādī́tnā (invariable)
 
 vivitse ← √vid- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॒न्द्राह॑न्प्रथम॒जामही॑ना॒मान्मा॒यिना॒ममि॑नाः॒ प्रोत मा॒याः ।  
+आत्सूर्यं॑ ज॒नय॒न्द्यामु॒षासं॑ ता॒दीत्ना॒ शत्रुं॒ न किला॑ विवित्से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “find; detect; marry; get; think.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

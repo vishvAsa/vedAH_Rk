@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ mādayasva ← √mad- (root)
 
 vimúcya ← √muc- (root)  
 {non-finite:CVB}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ सोमं॑ सोमपते॒ पिबे॒मं माध्यं॑दिनं॒ सव॑नं॒ चारु॒ यत्ते॑ ।  
+प्र॒प्रुथ्या॒ शिप्रे॑ मघवन्नृजीषिन्वि॒मुच्या॒ हरी॑ इ॒ह मा॑दयस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

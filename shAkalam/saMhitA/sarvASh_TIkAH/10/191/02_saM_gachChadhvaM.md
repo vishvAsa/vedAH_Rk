@@ -4,6 +4,7 @@ devataa = "संज्ञानं"
 RShiH = "संवननः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - संज्ञानं
@@ -74,7 +75,12 @@ saṁjānānā́ḥ ← √jñā- (root)
 
 upā́sate ← √ās- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं ग॑च्छध्वं॒ सं व॑दध्वं॒ सं वो॒ मनां॑सि जानताम् ।  
+दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “worship; attend; serve; get; approach; obtain; perform; expect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

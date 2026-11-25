@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -83,7 +84,12 @@ sumnám ← sumná- (nominal stem)
 
 vivāseyam ← √vanⁱ- (root)  
 {number:SG, person:1, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उन्मा॑ ममन्द वृष॒भो म॒रुत्वा॒न्त्वक्षी॑यसा॒ वय॑सा॒ नाध॑मानम् ।  
+घृणी॑व च्छा॒याम॑र॒पा अ॑शी॒या वि॑वासेयं रु॒द्रस्य॑ सु॒म्नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

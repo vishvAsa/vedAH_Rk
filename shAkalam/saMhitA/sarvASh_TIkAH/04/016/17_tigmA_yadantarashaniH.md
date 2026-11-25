@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sma ← sma (invariable)
 
 tanvàḥ ← tanū́- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒ग्मा यद॒न्तर॒शनिः॒ पता॑ति॒ कस्मि॑ञ्चिच्छूर मुहु॒के जना॑नाम् ।  
+घो॒रा यद॑र्य॒ समृ॑ति॒र्भवा॒त्यध॑ स्मा नस्त॒न्वो॑ बोधि गो॒पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “herder; defender.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

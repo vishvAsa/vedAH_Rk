@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ maháḥ ← máh- (nominal stem)
 
 pitúḥ ← pitár- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यज्जाय॑था॒स्तदह॑रस्य॒ कामें॒ऽशोः पी॒यूष॑मपिबो गिरि॒ष्ठाम् ।  
+तं ते॑ मा॒ता परि॒ योषा॒ जनि॑त्री म॒हः पि॒तुर्दम॒ आसि॑ञ्च॒दग्रे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     glans.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

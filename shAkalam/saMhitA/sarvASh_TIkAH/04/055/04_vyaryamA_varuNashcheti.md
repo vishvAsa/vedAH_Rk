@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ várūtham ← várūtha- (nominal stem)
 
 yantam ← √yam- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्य॑र्य॒मा वरु॑णश्चेति॒ पन्था॑मि॒षस्पतिः॑ सुवि॒तं गा॒तुम॒ग्निः ।  
+इन्द्रा॑विष्णू नृ॒वदु॒ षु स्तवा॑ना॒ शर्म॑ नो यन्त॒मम॑व॒द्वरू॑थम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “defense; protective covering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

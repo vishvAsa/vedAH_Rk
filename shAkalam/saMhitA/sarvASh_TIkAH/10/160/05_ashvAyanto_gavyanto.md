@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पूरणो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ tvā ← tvám (pronoun)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒श्वा॒यन्तो॑ ग॒व्यन्तो॑ वा॒जय॑न्तो॒ हवा॑महे॒ त्वोप॑गन्त॒वा उ॑ ।  
+आ॒भूष॑न्तस्ते सुम॒तौ नवा॑यां व॒यमि॑न्द्र त्वा शु॒नं हु॑वेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “sacrifice; offer; pour; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

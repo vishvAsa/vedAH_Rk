@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ ví ← ví (invariable)
 
 yóṣā ← yóṣā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्यू॒र्ण्व॒ती दि॒वो अन्ताँ॑ अबो॒ध्यप॒ स्वसा॑रं सनु॒तर्यु॑योति ।  
+प्र॒मि॒न॒ती म॑नु॒ष्या॑ यु॒गानि॒ योषा॑ जा॒रस्य॒ चक्ष॑सा॒ वि भा॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “look; shine; show; look like; glitter; reflect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

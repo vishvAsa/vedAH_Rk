@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ sómāsaḥ ← sóma- (nominal stem)
 
 vīrayā́ ← vīrayā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असृ॑क्षत॒ प्र वा॒जिनो॑ ग॒व्या सोमा॑सो अश्व॒या ।  
+शु॒क्रासो॑ वीर॒याशवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “quick; fast; immediate; agile.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -147,12 +152,6 @@ They have surged forth—the prize-seeking soma juices—with a yen for  cows an
 with a yen for heroes—the swift clear ones.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In addition to the link to vs. 3 just mentioned, pāda c contains a clever echo of 2a.
-
-That earlier pāda ends with the neut. s-stem śávaḥ ‘strength’; 4c ends vīrayā́śávaḥ, to be analyzed as two words vīrayā́āśávaḥ “with a yen for heroes the swift ones,” the latter being the nom. pl. m. of the adj. āśú-. But the final + initial vowels have entirely coalesced, and given the accentuation of both words and the underlying long final vowel of the first word, they could have been split vīrayā́*śávaḥ with the latter entirely matching the independent sstem form in 2a.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -160,7 +159,6 @@ No strong signs of unity. Vs. 4 does link to vs. 3 in the preceding tṛca throu
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

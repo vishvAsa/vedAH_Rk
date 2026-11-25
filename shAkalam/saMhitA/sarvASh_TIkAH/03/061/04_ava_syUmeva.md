@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ paprathe ← √prathⁱ- (root)
 
 pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॒ स्यूमे॑व चिन्व॒ती म॒घोन्यु॒षा या॑ति॒ स्वस॑रस्य॒ पत्नी॑ ।  
+स्व१॒॑र्जन॑न्ती सु॒भगा॑ सु॒दंसा॒ आन्ता॑द्दि॒वः प॑प्रथ॒ आ पृ॑थि॒व्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

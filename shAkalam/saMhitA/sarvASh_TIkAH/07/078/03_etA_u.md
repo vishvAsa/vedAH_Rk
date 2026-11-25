@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ apācī́nam ← apācī́na- (nominal stem)
 
 támaḥ ← támas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ता उ॒ त्याः प्रत्य॑दृश्रन्पु॒रस्ता॒ज्ज्योति॒र्यच्छ॑न्तीरु॒षसो॑ विभा॒तीः ।  
+अजी॑जन॒न्त्सूर्यं॑ य॒ज्ञम॒ग्निम॑पा॒चीनं॒ तमो॑ अगा॒दजु॑ष्टम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “unpleasant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

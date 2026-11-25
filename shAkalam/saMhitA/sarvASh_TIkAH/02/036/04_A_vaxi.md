@@ -4,6 +4,7 @@ devataa = "अग्निः शुचिश्च"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः शुचिश्च
@@ -101,7 +102,12 @@ táva ← tvám (pronoun)
 
 tr̥pṇuhi ← √tr̥p- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ व॑क्षि दे॒वाँ इ॒ह वि॑प्र॒ यक्षि॑ चो॒शन्हो॑त॒र्नि ष॑दा॒ योनि॑षु त्रि॒षु ।  
+प्रति॑ वीहि॒ प्रस्थि॑तं सो॒म्यं मधु॒ पिबाग्नी॑ध्रा॒त्तव॑ भा॒गस्य॑ तृप्णुहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
 - “satiate; enjoy; delight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

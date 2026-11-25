@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ nákṣamāṇā ← √nakṣ- (root)
 
 sahá ← sahá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ म॒रुत्व॑ती॒ परि॒ भुव॒द्वाणी॑ स॒याव॑री ।  
+नक्ष॑माणा स॒ह द्युभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -169,7 +174,6 @@ reaching you all together throughout the days.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -177,7 +181,6 @@ Echo between 7b svadhā́varī and 8b sayā́varī, though they occupy different
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

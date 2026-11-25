@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ mā́rutam ← mā́ruta- (nominal stem)
 
 tvā́m ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां विष्णु॑र्बृ॒हन्क्षयो॑ मि॒त्रो गृ॑णाति॒ वरु॑णः ।  
+त्वां शर्धो॑ मद॒त्यनु॒ मारु॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “Marut(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -176,10 +181,6 @@ _________
 Viṣṇu, the lofty dwelling place, hymns you, as do Mitra and Varuṇa. The Marut troop cheers you on.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Since kṣáya- otherwise means only ‘dwelling place’, the text as we have it means “Viṣṇu, the lofty dwelling place,” as in the published translation, not “der hohe Wohner” (my italics), as Geldner would have it. Already BR (see Grassmann s.v. kṣáya-) suggested that we read instead a bahuvrīhi *bṛhát-kṣayaḥ ‘having a lofty dwelling place’. This of course makes better immediate sense, but I think we can keep the text as we have it and also avoid making kṣáya- into a nonce agent noun (per Geldner). Given the flexibility of RVic diction, it is not difficult to identify a god with his most characteristic product —in this case, Viṣṇu’s three footsteps, particularly his highest one, which becomes an important locus in heaven (see, e.g., I.22.19-21) — and he elsewhere is said to create dwelling places: VII.100.4 ví cakrame pṛthivī́m eṣá etā́ṃ, kṣétrāya víṣṇur mā́nuṣe … / urukṣitím … cakāra “Quick Viṣṇu strode across this earth for a dwelling place for Manu … / He has made wide dwelling.” In the RVic conceptual realm it is just one step from creating a dwelling place to being a dwelling place. The identification of Soma with a dwelling place in vs. 13 below supports the literal reading here.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
 <details><summary><h2>07-10 ...{Loading}...</h2></summary>
 
@@ -187,7 +188,6 @@ Every half-verse in this tṛca but 7c and 10c opens with a form of the 2nd sg. 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

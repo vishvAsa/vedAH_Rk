@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 yajñáḥ ← yajñá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒भुरृ॑भु॒क्षा ऋ॒भुर्वि॑ध॒तो मद॒ आ ते॒ हरी॑ जूजुवा॒नस्य॑ वा॒जिना॑ ।  
+दु॒ष्टरं॒ यस्य॒ साम॑ चि॒दृध॑ग्य॒ज्ञो न मानु॑षः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “man; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

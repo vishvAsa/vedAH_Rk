@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ prá ← prá (invariable)
 
 yájyave ← yájyu- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ येष्ठा॑श्विना हु॒वध्यै॒ वात॑स्य॒ पत्म॒न्रथ्य॑स्य पु॒ष्टौ ।  
+उ॒त वा॑ दि॒वो असु॑राय॒ मन्म॒ प्रान्धां॑सीव॒ यज्य॑वे भरध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

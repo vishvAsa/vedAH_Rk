@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ uruṣyatām ← √uruṣy- (root)
 
 yā́man ← yā́man- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒नी॒षे वा॑मर॒क्षसं॑ मनी॒षां सोम॒मिन्द्रा॑य॒ वरु॑णाय॒ जुह्व॑त् ।  
+घृ॒तप्र॑तीकामु॒षसं॒ न दे॒वीं ता नो॒ याम॑न्नुरुष्यताम॒भीके॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “battle; meeting.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -63,7 +64,12 @@ prácetasaḥ ← prácetas- (nominal stem)
 
 vr̥dhā́saḥ ← vr̥dhá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते नः॑ सन्तु॒ युजः॒ सदा॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+वृ॒धास॑श्च॒ प्रचे॑तसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “intelligent; mindful; attentive; wise; apt; observant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

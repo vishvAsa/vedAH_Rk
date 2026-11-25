@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -69,7 +70,12 @@ vā́ram ← vā́ra- 1 (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्य मद्यो॒ रसोऽव॑ चष्टे दि॒वः शिशुः॑ ।  
+य इन्दु॒र्वार॒मावि॑शत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
     reach; wear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

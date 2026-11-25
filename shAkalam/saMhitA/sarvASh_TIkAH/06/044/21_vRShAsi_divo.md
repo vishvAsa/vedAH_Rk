@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ svādúḥ ← svādú- (nominal stem)
 
 várāya ← vára- 1 (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॑सि दि॒वो वृ॑ष॒भः पृ॑थि॒व्या वृषा॒ सिन्धू॑नां वृष॒भः स्तिया॑नाम् ।  
+वृष्णे॑ त॒ इन्दु॑र्वृषभ पीपाय स्वा॒दू रसो॑ मधु॒पेयो॒ वरा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “gift; favor; wish; privilege; varac; wages.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,10 +253,6 @@ O bull, for bullish you the drop has swelled, the sweet sap, the honeyed  drink,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Given the parallelism of the phrase vṛ́ṣā síndhūnāṃ vṛṣabhá stíyānām, it is clear that the gen. pl. stíyānām must be in semantic complementarity with síndhūnām ‘of the rivers’. Almost the same pair is found in VII.5.2, with a substitution for the first nom.: netā́síndhūnāṃ vṛṣabhá stíyānām. Grassmann glosses stíyā- ‘Schneefeld, Gletscher’, but, given the relative lack of attention to snow and the like in the RV once the Indo-Aryans had left the high mountains mostly behind, some other type of water contrasting with rivers seems more likely -- with Geldner’s “der stehenden Gewässer” a likely alternative (cf. also Lüders, Varuṇa I.144). Renou’s “eauxstagnantes” (EVP XIII.56 and 141), though expressing a similar contrast, is less appealing because of the negative implication of “stagnant waters”: would Indra really want to be their bull? The question then is what the form is derived from; EWA classifies it with the root √styā ‘be stiff’, of limited attestation in Skt. but found also in MIA, which seems reasonable. However, I am tempted to see a primary or secondary association with √sthā ‘stand’, since forms of this root (with the sense ‘stand still’) can be used of waters. Cf., e.g., the famous phrase describiing the rushing of the waters freed by Indra in the Vṛtra battle in I.32.10 átiṣṭḥantīnām “of those (waters) not standing still.” Renou (EVP XIII.141) in a lapidary comment -- “fait comme díya-” -- seems to hint at a direct derivation (díya- to √dā, then stíya- to √sthā) without pursuing it, and Lubotsky (System, 104) tentatively suggests that it belongs to an *-i-enlarged form of √*steh2, viz. *steh2-i-, but doesn’t further spell out the details. The trick of course is to keep the laryngeal from aspirating the t; if we start with Lubotsky’s root, the zero-grade *sth2-i- would presumably metathesize to *stih2 (as with √pā(y) ‘drink’: pītá-), which would yield stiy- before a vowel. But I have no commitment to such an analysis. In any case it is impossible to tell whether the form belongs to a short or a long a/ā stem, since it only shows up in the gen. pl.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -263,7 +264,6 @@ The concentration on the bull words leaves little room or energy for other poeti
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

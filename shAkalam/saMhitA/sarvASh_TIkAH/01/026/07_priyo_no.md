@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ svagnáyaḥ ← svagní- (nominal stem)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रि॒यो नो॑ अस्तु वि॒श्पति॒र्होता॑ म॒न्द्रो वरे॑ण्यः ।  
+प्रि॒याः स्व॒ग्नयो॑ व॒यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

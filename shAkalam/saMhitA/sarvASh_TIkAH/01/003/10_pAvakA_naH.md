@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -54,7 +55,12 @@ vaṣṭu ← √vaś- (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पा॒व॒का नः॒ सर॑स्वती॒ वाजे॑भिर्वा॒जिनी॑वती ।  
+य॒ज्ञं व॑ष्टु धि॒याव॑सुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “wise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 śivéna ← śivá- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॒ त्या वह्नी॑ गमतो॒ विशं॑ नो रक्षो॒हणा॒ सम्भृ॑ता वी॒ळुपा॑णी ।  
+समन्धां॑स्यग्मत मत्स॒राणि॒ मा नो॑ मर्धिष्ट॒मा ग॑तं शि॒वेन॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     benediction.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

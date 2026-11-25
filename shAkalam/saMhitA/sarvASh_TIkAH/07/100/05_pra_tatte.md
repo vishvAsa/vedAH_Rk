@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -89,7 +90,12 @@ parāké ← parāká- (nominal stem)
 
 rájasaḥ ← rájas- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र तत्ते॑ अ॒द्य शि॑पिविष्ट॒ नामा॒र्यः शं॑सामि व॒युना॑नि वि॒द्वान् ।  
+तं त्वा॑ गृणामि त॒वस॒मत॑व्या॒न्क्षय॑न्तम॒स्य रज॑सः परा॒के ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - \[noun\], locative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

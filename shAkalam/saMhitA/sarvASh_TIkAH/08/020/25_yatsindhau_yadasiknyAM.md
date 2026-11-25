@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ párvateṣu ← párvata- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्सिन्धौ॒ यदसि॑क्न्यां॒ यत्स॑मु॒द्रेषु॑ मरुतः सुबर्हिषः ।  
+यत्पर्व॑तेषु भेष॒जम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

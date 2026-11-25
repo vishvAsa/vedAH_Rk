@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -89,7 +90,12 @@ asya ← ayám (pronoun)
 
 sakhyé ← sakhyá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गी॒र्णं भुव॑नं॒ तम॒साप॑गूळ्हमा॒विः स्व॑रभवज्जा॒ते अ॒ग्नौ ।  
+तस्य॑ दे॒वाः पृ॑थि॒वी द्यौरु॒तापोऽर॑णय॒न्नोष॑धीः स॒ख्ये अ॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ sūnŕ̥tā ← sūnŕ̥ta- (nominal stem)
 
 víbhūtiḥ ← víbhūti- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तो॒त्रं रा॑धानां पते॒ गिर्वा॑हो वीर॒ यस्य॑ ते ।  
+विभू॑तिरस्तु सू॒नृता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “big; friendly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ taranti ← √tr̥̄- 1 (root)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं यो वज्रः॑ पुरु॒धा विवृ॑त्तो॒ऽवः सूर्य॑स्य बृह॒तः पुरी॑षात् ।  
+श्रव॒ इदे॒ना प॒रो अ॒न्यद॑स्ति॒ तद॑व्य॒थी ज॑रि॒माण॑स्तरन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

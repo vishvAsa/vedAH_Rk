@@ -5,13 +5,13 @@ RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -94,7 +94,12 @@ tasthúḥ ← √sthā- (root)
 
 tīrthé ← tīrthá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॒ प्र या॑हीन्द्र मी॒ळ्हुषो॒ नॄन्म॒हः पार्थि॑वे॒ सद॑ने यतस्व ।  
+अध॒ यदे॑षां पृथुबु॒ध्नास॒ एता॑स्ती॒र्थे नार्यः पौंस्या॑नि त॒स्थुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +240,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -296,8 +300,6 @@ Den gnäd'gen Männern schliess dich an, o Indra, und dringe kräftig hin zum Si
 Сейчас, когда их широкодонные  
 Антилопы остановились, словно боевые отряды врага у (речного) брода!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -89,7 +90,12 @@ viśvajinvā ← viśvajinva- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता वि॒ग्रं धै॑थे ज॒ठरं॑ पृ॒णध्या॒ आ यत्सद्म॒ सभृ॑तयः पृ॒णन्ति॑ ।  
+न मृ॑ष्यन्ते युव॒तयोऽवा॑ता॒ वि यत्पयो॑ विश्वजिन्वा॒ भर॑न्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

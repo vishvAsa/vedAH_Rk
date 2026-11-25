@@ -4,6 +4,7 @@ devataa = "अग्निर्विश्वेदेवा वा"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्विश्वेदेवा वा
@@ -71,7 +72,12 @@ mā ← ahám (pronoun)
 
 punīhí ← √pū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒नन्तु॒ मां दे॑वज॒नाः पु॒नन्तु॒ वस॑वो धि॒या ।  
+विश्वे॑ देवाः पुनी॒त मा॒ जात॑वेदः पुनी॒हि मा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -201,10 +206,6 @@ Worshippers: Or, the troop of gods, **Indra** and others
 Let the godly folk purify me; let the Vasus purify me with insight. O All Gods, purify me; o Jātavedas, purify me.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This last vs. of the purificatory spell is in a different meter (Anuṣṭubh) and makes reference to a larger variety of personnel - both often signs of finality.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details><summary><h2>22-27 ...{Loading}...</h2></summary>
 
@@ -214,7 +215,6 @@ The pavítra is mentioned in vss. 22-25, with other, non-physical means of purif
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

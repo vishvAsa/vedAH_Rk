@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -83,7 +84,12 @@ sukr̥tyáyā ← sukr̥tyā́- (nominal stem)
 
 viṣṭvī́ ← √viṣ- 2 (root)  
 {non-finite:CVB}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑स्य स॒ख्यमृ॒भवः॒ समा॑नशु॒र्मनो॒र्नपा॑तो अ॒पसो॑ दधन्विरे ।  
+सौ॒ध॒न्व॒नासो॑ अमृत॒त्वमेरि॑रे वि॒ष्ट्वी शमी॑भिः सु॒कृतः॑ सुकृ॒त्यया॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “magic; spirit; kṛtyā; Kṛtyā; witchcraft; act.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

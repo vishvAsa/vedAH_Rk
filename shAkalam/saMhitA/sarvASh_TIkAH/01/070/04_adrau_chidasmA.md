@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -58,7 +59,11 @@ viśā́m ← víś- (nominal stem)
 
 víśvaḥ ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद्रौ॑ चिदस्मा अ॒न्तर्दु॑रो॒णे वि॒शां न विश्वो॑ अ॒मृतः॑ स्वा॒धीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +133,6 @@ _________
 - “devout; heedful; prudent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

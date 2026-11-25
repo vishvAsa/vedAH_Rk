@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ nákṣate ← √nakṣ- (root)
 
 túmram ← túmra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं पृ॒च्छन्ती॒ वज्र॑हस्तं रथे॒ष्ठामिन्द्रं॒ वेपी॒ वक्व॑री॒ यस्य॒ नू गीः ।  
+तु॒वि॒ग्रा॒भं तु॑विकू॒र्मिं र॑भो॒दां गा॒तुमि॑षे॒ नक्ष॑ते॒ तुम्र॒मच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

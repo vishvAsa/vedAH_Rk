@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -72,7 +73,12 @@ yáḥ ← yá- (pronoun)
 
 yónau ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स यो वृषा॑ न॒रां न रोद॑स्योः॒ श्रवो॑भि॒रस्ति॑ जी॒वपी॑तसर्गः ।  
+प्र यः स॑स्रा॒णः शि॑श्री॒त योनौ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     birth; kind; caste; kinship; bed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

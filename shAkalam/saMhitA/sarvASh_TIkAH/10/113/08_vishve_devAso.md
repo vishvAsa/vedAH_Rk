@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शतप्रभेदनो वैरूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 tr̥ṣú ← tr̥ṣú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ दे॒वासो॒ अध॒ वृष्ण्या॑नि॒ तेऽव॑र्धय॒न्त्सोम॑वत्या वच॒स्यया॑ ।  
+र॒द्धं वृ॒त्रमहि॒मिन्द्र॑स्य॒ हन्म॑ना॒ग्निर्न जम्भै॑स्तृ॒ष्वन्न॑मावयत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “eat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

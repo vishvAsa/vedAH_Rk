@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ vyundánti ← √ud- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दिवा॑ चि॒त्तमः॑ कृण्वन्ति प॒र्जन्ये॑नोदवा॒हेन॑ ।  
+यत्पृ॑थि॒वीं व्यु॒न्दन्ति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - \[verb\], plural, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

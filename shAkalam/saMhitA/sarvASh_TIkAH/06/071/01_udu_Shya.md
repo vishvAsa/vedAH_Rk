@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -89,7 +90,12 @@ vídharmaṇi ← vídharman- (nominal stem)
 
 yúvā ← yúvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒ ष्य दे॒वः स॑वि॒ता हि॑र॒ण्यया॑ बा॒हू अ॑यंस्त॒ सव॑नाय सु॒क्रतुः॑ ।  
+घृ॒तेन॑ पा॒णी अ॒भि प्रु॑ष्णुते म॒खो युवा॑ सु॒दक्षो॒ रज॑सो॒ विध॑र्मणि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “receptacle; enclosure.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

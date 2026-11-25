@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -57,7 +58,12 @@ naya ← √nī- (root)
 
 vāmám ← vāmá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि नो॒ नर्यं॒ वसु॑ वी॒रं प्रय॑तदक्षिणम् ।  
+वा॒मं गृ॒हप॑तिं नय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

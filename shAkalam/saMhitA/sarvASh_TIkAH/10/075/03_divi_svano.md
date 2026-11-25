@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "सिन्धुक्षित् प्रैयमेधः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -95,7 +96,12 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वि स्व॒नो य॑तते॒ भूम्यो॒पर्य॑न॒न्तं शुष्म॒मुदि॑यर्ति भा॒नुना॑ ।  
+अ॒भ्रादि॑व॒ प्र स्त॑नयन्ति वृ॒ष्टयः॒ सिन्धु॒र्यदेति॑ वृष॒भो न रोरु॑वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “bellow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

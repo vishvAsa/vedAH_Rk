@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ rājasi ← √rāj- (root)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॒ धामा॑नि विश्वचक्ष॒ ऋभ्व॑सः प्र॒भोस्ते॑ स॒तः परि॑ यन्ति के॒तवः॑ ।  
+व्या॒न॒शिः प॑वसे सोम॒ धर्म॑भिः॒ पति॒र्विश्व॑स्य॒ भुव॑नस्य राजसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,14 +253,6 @@ advance—you ingenious one whose gaze is on all.
 Reaching through (the domains), you purify yourself, Soma, according  to your ordinances. You rule as lord of all creation.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As should be clear from the immed. preceding discussion, as elsewhere in IX I take dhā́māni ‘domains’ as referring to the filter and subsequent locales that the soma traverses, not, with Geldner, Soma’s forms. (What Renou means by “structures” is uninterpretable to me.) The physical locations on the ritual ground can also be viewed as the cosmic domains over which Soma has dominion - hence the hyperbolic statement in d, attributing universal rule to Soma.
-
-On víśvasya bhúvanasya rājasi, see the identical phrase in 28b.
-
-vyānaśí- belongs with the redupl. -í-stem type of cakrí-, etc. (cf. weak pf. vyā̀naś- to √(n)aś); see AiG II.2.292. It can therefore govern the acc., like other instances of this formation type, and we can easily supply dhā́māni from pāda a, strongly supported by the parallel later in the hymn: IX.86.15 yó asya dhā́ma prathamáṃ vyānaśe “who has reached through his first domain,” with the medial perfect to ví √(n)aś.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -273,7 +270,6 @@ As noted above, these two vss. have parallel structures in the crucial 2nd pāda
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

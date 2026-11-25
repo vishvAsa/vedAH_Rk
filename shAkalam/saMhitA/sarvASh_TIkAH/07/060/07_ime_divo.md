@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ parṣan ← √pr̥- (root)
 
 viṣpitásya ← viṣpitá- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे दि॒वो अनि॑मिषा पृथि॒व्याश्चि॑कि॒त्वांसो॑ अचे॒तसं॑ नयन्ति ।  
+प्र॒व्रा॒जे चि॑न्न॒द्यो॑ गा॒धम॑स्ति पा॒रं नो॑ अ॒स्य वि॑ष्पि॒तस्य॑ पर्षन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “protect; promote; rescue; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

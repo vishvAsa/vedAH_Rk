@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ vanuṣyatā́ ← √vanuṣ(y)- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मान वि॒दा र॒यिम॒स्मभ्यं॑ सोम दु॒ष्टर॑म् ।  
+यो दू॒णाशो॑ वनुष्य॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - \[verb noun\], instrumental, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -146,10 +151,6 @@ _________
 O self-purifying Soma, find wealth for us that is difficult to surpass, that is difficult to attain by one who craves it.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On vidā́as lengthened impv. rather than subjunctive vidā́(ḥ), see comm. ad IX.19.6. It is accented because it is preceded by a voc. in zero-position.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -157,7 +158,6 @@ No particular unity, though vss. 11-12 are concerned with wealth.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

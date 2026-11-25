@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ deváttam ← devátta- (nominal stem)
 
 gāyata ← √gā(y)- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र व॑ उ॒ग्राय॑ नि॒ष्टुरेऽषा॑ळ्हाय प्रस॒क्षिणे॑ ।  
+दे॒वत्तं॒ ब्रह्म॑ गायत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “sing; praise; jap; recite; describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -154,17 +159,12 @@ To the strong one who lays low, the invincible victor,
 sing your god-given formulation—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The “who lays low” of the published translation might be better “who lays (enemies [vel sim.]) low,” to make clear that a transitive sense is required.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/032/27-28.md">
 <details><summary><h2>27-28 ...{Loading}...</h2></summary>
 
 These two verses form a sort of ring with vs. 1. There gā́thayā / máde sómasya vocata “with a song proclaim … in the exhilaration of soma”; here bráhma gāyata // … sómasya máde “sing a formulation … in the exhilaration of soma.”
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

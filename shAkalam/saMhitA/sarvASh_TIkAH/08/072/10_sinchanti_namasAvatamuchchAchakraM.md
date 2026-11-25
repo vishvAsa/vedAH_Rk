@@ -4,6 +4,7 @@ devataa = "अग्निर्हवींषि वा"
 RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्हवींषि वा
@@ -51,7 +52,12 @@ uccā́cakram ← uccā́cakra- (nominal stem)
 
 nīcī́nabāram ← nīcī́nabāra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सि॒ञ्चन्ति॒ नम॑साव॒तमु॒च्चाच॑क्रं॒ परि॑ज्मानम् ।  
+नी॒चीन॑बार॒मक्षि॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +113,6 @@ _________
 - “undecaying; uninjured.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

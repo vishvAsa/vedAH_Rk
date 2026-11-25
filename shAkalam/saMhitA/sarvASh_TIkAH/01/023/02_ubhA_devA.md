@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -54,7 +55,12 @@ pītáye ← pītí- (nominal stem)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भा दे॒वा दि॑वि॒स्पृशे॑न्द्रवा॒यू ह॑वामहे ।  
+अ॒स्य सोम॑स्य पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

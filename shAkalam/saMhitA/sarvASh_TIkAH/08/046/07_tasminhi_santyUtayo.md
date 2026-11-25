@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ mádāya ← máda- (nominal stem)
 
 sutám ← √su- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मि॒न्हि सन्त्यू॒तयो॒ विश्वा॒ अभी॑रवः॒ सचा॑ ।  
+तमा व॑हन्तु॒ सप्त॑यः पुरू॒वसुं॒ मदा॑य॒ हर॑यः सु॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

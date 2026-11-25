@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -101,7 +102,12 @@ tā́ni ← sá- ~ tá- (pronoun)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं दू॒तं प्रति॒ यदब्र॑वीत॒नाश्वः॒ कर्त्वो॒ रथ॑ उ॒तेह कर्त्वः॑ ।  
+धे॒नुः कर्त्वा॑ युव॒शा कर्त्वा॒ द्वा तानि॑ भ्रात॒रनु॑ वः कृ॒त्व्येम॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -282,7 +288,6 @@ _________
 - “come; travel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

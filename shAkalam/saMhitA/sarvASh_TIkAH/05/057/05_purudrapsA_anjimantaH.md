@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -71,7 +72,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 nā́ma ← nā́man- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रु॒द्र॒प्सा अ॑ञ्जि॒मन्तः॑ सु॒दान॑वस्त्वे॒षसं॑दृशो अनव॒भ्ररा॑धसः ।  
+सु॒जा॒तासो॑ ज॒नुषा॑ रु॒क्मव॑क्षसो दि॒वो अ॒र्का अ॒मृतं॒ नाम॑ भेजिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
     one's share; partake; share; get; approach; love; use.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

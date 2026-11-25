@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ tvótaḥ ← tvóta- (nominal stem)
 
 vŕ̥kaḥ ← vŕ̥ka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पा॒र्ष॒द्वा॒णः प्रस्क॑ण्वं॒ सम॑सादय॒च्छया॑नं॒ जिव्रि॒मुद्धि॑तम् ।  
+स॒हस्रा॑ण्यसिषास॒द्गवा॒मृषि॒स्त्वोतो॒ दस्य॑वे॒ वृकः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

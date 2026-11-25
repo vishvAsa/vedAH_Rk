@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ gántārā ← gántar- (nominal stem)
 
 gr̥hám ← gr̥há- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ह त्या पु॑रु॒भूत॑मा दे॒वा नमो॑भिर॒श्विना॑ ।  
+अ॒र्वा॒ची॒ना स्वव॑से करामहे॒ गन्ता॑रा दा॒शुषो॑ गृ॒हम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “house; palace; temple; home; place; family; family; stable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

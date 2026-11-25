@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "जरत्कर्ण ऐरावतः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -83,7 +84,12 @@ vaḥ ← tvám (pronoun)
 
 vásu-vasu ← vásu- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते न॑रः॒ स्वप॑सो अभूतन॒ य इन्द्रा॑य सुनु॒थ सोम॑मद्रयः ।  
+वा॒मंवा॑मं वो दि॒व्याय॒ धाम्ने॒ वसु॑वसु वः॒ पार्थि॑वाय सुन्व॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -52,7 +53,11 @@ vr̥trā́ ← vr̥trá- (nominal stem)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बिभ॑र्ति॒ चार्विन्द्र॑स्य॒ नाम॒ येन॒ विश्वा॑नि वृ॒त्रा ज॒घान॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +120,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -142,16 +146,6 @@ He bears the name dear to Indra, with which he smashes all
 obstacles.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. presents a double ambiguity. On the one hand cā́ru índrasya nā́ma can mean either “the dear name of Indra” (as Geldner/Renou take it) or “the name dear to Indra”; the question is whether the name Soma bears is “Indra,” as the first alternative implies, or “Soma,” with the second. I prefer the second, since constructing a plausible reason why Soma would be called Indra is difficult: Geldner’s (n.
-
-14) “er wirkt in Indra and führt so dessen Namen” doesn’t seem sufficient to me.
-
-The second ambiguity is located in the 2nd hemistich and has two parts: what/who is the referent of yéna and who is the subj. of jaghā́na? The Geldner/Renou interpr.
-
-seems to take the referent of yéna to be “the name Indra” and the subj. of the verb to be Soma (though neither is explicit about it). I recognize that this would be a pleasing paradox, since Indra is the default agent in this formula. But I wonder if instead Indra is the subj. of his signature verb, and yéna refers to soma, with the name equivalent to the substance.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -159,7 +153,6 @@ The adj. cā́ru- ‘dear’ occurs in 13 and 14. The gods as recipients of soma
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

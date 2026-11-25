@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं दे॒वेषु॒ जागृ॑विः सु॒त ए॑ति प॒वित्र॒ आ ।  
+सोमो॑ याति॒ विच॑र्षणिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “excellent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "अतिशक्वरी"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - अतिशक्वरी
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -108,7 +108,12 @@ naḥ ← ahám (pronoun)
 
 vánate ← √vanⁱ- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निम॑ग्निं वः स॒मिधा॑ दुवस्यत प्रि॒यम्प्रि॑यं वो॒ अति॑थिं गृणी॒षणि॑ ।  
+उप॑ वो गी॒र्भिर॒मृतं॑ विवासत दे॒वो दे॒वेषु॒ वन॑ते॒ हि वार्यं॑ दे॒वो दे॒वेषु॒ वन॑ते॒ हि नो॒ दुवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -285,7 +290,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -338,8 +342,6 @@ Beschenkt den Agni stets mit eurem Flammenholz, und preiset hoch ihn euren liebe
 Ведь (этот) бог добывает у богов избранный дар,  
 Ведь (этот) бог добывает у богов для нас преимущество.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

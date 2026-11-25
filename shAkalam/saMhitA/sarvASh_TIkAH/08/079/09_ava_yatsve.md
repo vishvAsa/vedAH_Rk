@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "कृत्नुर्भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -77,7 +78,12 @@ sedha ← √sidh- (root)
 
 srídhaḥ ← srídh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॒ यत्स्वे स॒धस्थे॑ दे॒वानां॑ दुर्म॒तीरीक्षे॑ ।  
+राज॒न्नप॒ द्विषः॑ सेध॒ मीढ्वो॒ अप॒ स्रिधः॑ सेध ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “chase away; repel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

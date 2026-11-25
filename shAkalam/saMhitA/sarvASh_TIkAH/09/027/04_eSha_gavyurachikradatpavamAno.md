@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नृमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ pávamānaḥ ← √pū- (root)
 
 satrājít ← satrājít- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष ग॒व्युर॑चिक्रद॒त्पव॑मानो हिरण्य॒युः ।  
+इन्दुः॑ सत्रा॒जिदस्तृ॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +116,6 @@ _________
 - “durable; invincible.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

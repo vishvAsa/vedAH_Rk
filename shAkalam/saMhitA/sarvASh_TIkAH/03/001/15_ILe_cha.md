@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 rákṣa ← √rakṣⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ईळे॑ च त्वा॒ यज॑मानो ह॒विर्भि॒रीळे॑ सखि॒त्वं सु॑म॒तिं निका॑मः ।  
+दे॒वैरवो॑ मिमीहि॒ सं ज॑रि॒त्रे रक्षा॑ च नो॒ दम्ये॑भि॒रनी॑कैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “army; face; battalion; battlefront; point; appearance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

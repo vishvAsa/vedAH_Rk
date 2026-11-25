@@ -4,6 +4,7 @@ devataa = "रथाङ्गानि"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रथाङ्गानि
@@ -80,7 +81,12 @@ avasaí ← √sā- ~ si- (root)
 
 vimócanāt ← vimócana- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यम॒स्मान्वन॒स्पति॒र्मा च॒ हा मा च॑ रीरिषत् ।  
+स्व॒स्त्या गृ॒हेभ्य॒ आव॒सा आ वि॒मोच॑नात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - \[noun\], ablative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

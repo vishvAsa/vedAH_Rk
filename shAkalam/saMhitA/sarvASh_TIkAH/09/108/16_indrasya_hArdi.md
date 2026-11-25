@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शक्तिः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ uttamáḥ ← uttamá- (nominal stem)
 
 viṣṭambháḥ ← viṣṭambhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑स्य॒ हार्दि॑ सोम॒धान॒मा वि॑श समु॒द्रमि॑व॒ सिन्ध॑वः ।  
+जुष्टो॑ मि॒त्राय॒ वरु॑णाय वा॒यवे॑ दि॒वो वि॑ष्ट॒म्भ उ॑त्त॒मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
     finest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -219,7 +224,6 @@ Hymns in Assorted Meters: 109–114
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/15-16.md">
 <details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -227,7 +231,6 @@ No particular signs of cohesion, but see the ring compositional elements connect
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

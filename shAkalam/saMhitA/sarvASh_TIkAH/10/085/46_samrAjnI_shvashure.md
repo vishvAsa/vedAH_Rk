@@ -4,6 +4,7 @@ devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्या
@@ -68,7 +69,12 @@ devŕ̥ṣu ← devár- (nominal stem)
 
 samrā́jñī ← samrā́jñī- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒म्राज्ञी॒ श्वशु॑रे भव स॒म्राज्ञी॑ श्व॒श्र्वां भ॑व ।  
+नना॑न्दरि स॒म्राज्ञी॑ भव स॒म्राज्ञी॒ अधि॑ दे॒वृषु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - \[noun\], locative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शुनःशेपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ kr̥ṇoti ← √kr̥- (root)
 
 vagvanúm ← vagvanú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष दे॒वो र॑थर्यति॒ पव॑मानो दशस्यति ।  
+आ॒विष्कृ॑णोति वग्व॒नुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +111,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

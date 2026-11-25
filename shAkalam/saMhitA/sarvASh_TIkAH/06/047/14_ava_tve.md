@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ vajrin ← vajrín- (nominal stem)
 
 yuvase ← √yu- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॒ त्वे इ॑न्द्र प्र॒वतो॒ नोर्मिर्गिरो॒ ब्रह्मा॑णि नि॒युतो॑ धवन्ते ।  
+उ॒रू न राधः॒ सव॑ना पु॒रूण्य॒पो गा व॑ज्रिन्युवसे॒ समिन्दू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

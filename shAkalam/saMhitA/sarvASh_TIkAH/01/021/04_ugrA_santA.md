@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -63,7 +64,12 @@ ihá ← ihá (invariable)
 
 indrāgnī́ ← indrāgní- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ग्रा सन्ता॑ हवामह॒ उपे॒दं सव॑नं सु॒तम् ।  
+इ॒न्द्रा॒ग्नी एह ग॑च्छताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

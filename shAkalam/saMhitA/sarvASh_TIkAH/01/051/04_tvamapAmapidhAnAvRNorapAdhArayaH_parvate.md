@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ dr̥śé ← √dr̥ś- (root)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॒पाम॑पि॒धाना॑वृणो॒रपाधा॑रयः॒ पर्व॑ते॒ दानु॑म॒द्वसु॑ ।  
+वृ॒त्रं यदि॑न्द्र॒ शव॒साव॑धी॒रहि॒मादित्सूर्यं॑ दि॒व्यारो॑हयो दृ॒शे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
     know; know; understand; understand; follow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 tuviṣvaṇásaḥ ← tuviṣvaṇás- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये ह॒ त्ये ते॒ सह॑माना अ॒यास॑स्त्वे॒षासो॑ अग्ने अ॒र्चय॒श्चर॑न्ति ।  
+श्ये॒नासो॒ न दु॑वस॒नासो॒ अर्थं॑ तुविष्व॒णसो॒ मारु॑तं॒ न शर्धः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “troop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

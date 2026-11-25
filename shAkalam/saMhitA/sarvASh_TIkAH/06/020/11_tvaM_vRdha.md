@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ pitré ← pitár- (nominal stem)
 
 svám ← svá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं वृ॒ध इ॑न्द्र पू॒र्व्यो भू॑र्वरिव॒स्यन्नु॒शने॑ का॒व्याय॑ ।  
+परा॒ नव॑वास्त्वमनु॒देयं॑ म॒हे पि॒त्रे द॑दाथ॒ स्वं नपा॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “grandson; nephew; napāt \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

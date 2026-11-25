@@ -4,6 +4,7 @@ devataa = "अग्निः सूर्यो वापो वा गाव�
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
@@ -80,7 +81,12 @@ mádhye ← mádhya- (nominal stem)
 
 vetasáḥ ← vetasá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ता अ॑र्षन्ति॒ हृद्या॑त्समु॒द्राच्छ॒तव्र॑जा रि॒पुणा॒ नाव॒चक्षे॑ ।  
+घृ॒तस्य॒ धारा॑ अ॒भि चा॑कशीमि हिर॒ण्ययो॑ वेत॒सो मध्य॑ आसाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -228,10 +233,6 @@ These (streams) rush from the sea found in the heart. Having a hundred  barriers
 but I keep gazing upon the streams of ghee. A golden reed is in  their midst.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-“My” ability to see the ghee streams indirectly attests to my good character, since the cheat cannot see them.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details><summary><h2>05-10 ...{Loading}...</h2></summary>
 
@@ -239,7 +240,6 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ vrā́dhantam ← √vrādh- (root)
 
 vr̥dháḥ ← vr̥dhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शश्व॑द॒ग्निर्व॑ध्र्य॒श्वस्य॒ शत्रू॒न्नृभि॑र्जिगाय सु॒तसो॑मवद्भिः ।  
+सम॑नं चिददहश्चित्रभा॒नोऽव॒ व्राध॑न्तमभिनद्वृ॒धश्चि॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “even; indeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

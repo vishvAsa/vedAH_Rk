@@ -4,6 +4,7 @@ devataa = "केशिनः"
 RShiH = "विप्रजूतिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - केशिनः
@@ -71,7 +72,12 @@ mártāsaḥ ← márta- (nominal stem)
 
 paśyatha ← √paś- (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उन्म॑दिता॒ मौने॑येन॒ वाताँ॒ आ त॑स्थिमा व॒यम् ।  
+शरी॒रेद॒स्माकं॑ यू॒यं मर्ता॑सो अ॒भि प॑श्यथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

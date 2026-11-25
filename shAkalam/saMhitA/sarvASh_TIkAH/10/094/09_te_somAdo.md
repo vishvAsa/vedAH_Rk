@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -89,7 +90,12 @@ vardhate ← √vr̥dh- (root)
 
 vr̥ṣāyáte ← √vr̥ṣāy- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते सो॒मादो॒ हरी॒ इन्द्र॑स्य निंसतें॒ऽशुं दु॒हन्तो॒ अध्या॑सते॒ गवि॑ ।  
+तेभि॑र्दु॒ग्धं प॑पि॒वान्त्सो॒म्यं मध्विन्द्रो॑ वर्धते॒ प्रथ॑ते वृषा॒यते॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

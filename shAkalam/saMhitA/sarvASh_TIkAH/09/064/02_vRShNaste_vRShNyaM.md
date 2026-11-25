@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -69,7 +70,12 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 vr̥ṣan ← vŕ̥ṣan- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृष्ण॑स्ते॒ वृष्ण्यं॒ शवो॒ वृषा॒ वनं॒ वृषा॒ मदः॑ ।  
+स॒त्यं वृ॑ष॒न्वृषेद॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -187,7 +192,6 @@ In truth, o bull, you are really a bull.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -195,7 +199,6 @@ As noted in the published introduction, this opening tṛca is marked by the ide
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

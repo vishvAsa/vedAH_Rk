@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ prá ← prá (invariable)
 
 r̥jíśvānam ← r̥jíśvan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं मा॒याभि॒रप॑ मा॒यिनो॑ऽधमः स्व॒धाभि॒र्ये अधि॒ शुप्ता॒वजु॑ह्वत ।  
+त्वं पिप्रो॑र्नृमणः॒ प्रारु॑जः॒ पुरः॒ प्र ऋ॒जिश्वा॑नं दस्यु॒हत्ये॑ष्वाविथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

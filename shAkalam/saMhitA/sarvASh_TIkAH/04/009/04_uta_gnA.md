@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ sīdati ← √sad- (root)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त ग्ना अ॒ग्निर॑ध्व॒र उ॒तो गृ॒हप॑ति॒र्दमे॑ ।  
+उ॒त ब्र॒ह्मा नि षी॑दति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

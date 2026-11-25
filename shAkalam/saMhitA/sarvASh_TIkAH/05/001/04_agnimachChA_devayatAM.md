@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "बुधगविष्ठिरावात्रेयौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ jāyate ← √janⁱ- (root)
 
 vājī́ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निमच्छा॑ देवय॒तां मनां॑सि॒ चक्षूं॑षीव॒ सूर्ये॒ सं च॑रन्ति ।  
+यदीं॒ सुवा॑ते उ॒षसा॒ विरू॑पे श्वे॒तो वा॒जी जा॑यते॒ अग्रे॒ अह्ना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “day; day; ahar \[word\]; day; day.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

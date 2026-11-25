@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ nápātā ← nápat- (nominal stem)
 
 sudā́starāya ← sudā́stara- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता वा॑म॒द्य ताव॑प॒रं हु॑वेमो॒च्छन्त्या॑मु॒षसि॒ वह्नि॑रु॒क्थैः ।  
+नास॑त्या॒ कुह॑ चि॒त्सन्ता॑व॒र्यो दि॒वो नपा॑ता सु॒दास्त॑राय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - \[noun\], dative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

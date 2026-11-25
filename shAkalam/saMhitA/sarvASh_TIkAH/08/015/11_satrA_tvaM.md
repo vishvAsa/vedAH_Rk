@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ káraṇam ← káraṇa- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒त्रा त्वं पु॑रुष्टुतँ॒ एको॑ वृ॒त्राणि॑ तोशसे ।  
+नान्य इन्द्रा॒त्कर॑णं॒ भूय॑ इन्वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “bring; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

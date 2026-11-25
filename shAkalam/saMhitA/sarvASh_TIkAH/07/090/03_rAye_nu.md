@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -92,7 +93,12 @@ utá ← utá (invariable)
 
 vásudhitim ← vásudhiti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रा॒ये नु यं ज॒ज्ञतू॒ रोद॑सी॒मे रा॒ये दे॒वी धि॒षणा॑ धाति दे॒वम् ।  
+अध॑ वा॒युं नि॒युतः॑ सश्चत॒ स्वा उ॒त श्वे॒तं वसु॑धितिं निरे॒के ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

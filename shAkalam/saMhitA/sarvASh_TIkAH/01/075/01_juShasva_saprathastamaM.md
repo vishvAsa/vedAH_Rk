@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -51,7 +52,12 @@ havyā́ ← havyá- (nominal stem)
 
 júhvānaḥ ← √hu- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जु॒षस्व॑ स॒प्रथ॑स्तमं॒ वचो॑ दे॒वप्स॑रस्तमम् ।  
+ह॒व्या जुह्वा॑न आ॒सनि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +115,6 @@ _________
 - “mouth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -137,7 +142,6 @@ while pouring the oblations into your own mouth.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -146,7 +150,6 @@ Note the play between the two final words of these verses: āsáni / sānasí.
 The two verses also contain four superlatives in -tama-, each to a stem ending in -as.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "उपमश्रवा मैत्रातिथिः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उपमश्रवा मैत्रातिथिः
@@ -60,7 +61,12 @@ te ← tvám (pronoun)
 
 vanditā́ ← vanditár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधि॑ पुत्रोपमश्रवो॒ नपा॑न्मित्रातिथेरिहि ।  
+पि॒तुष्टे॑ अस्मि वन्दि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

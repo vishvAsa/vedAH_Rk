@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -68,7 +69,12 @@ cíketa ← √cit- (root)
 
 suṣṭutīnā́m ← suṣṭutí- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॒ त्यन्म॑हि॒त्वं वा॒ताप्य॑म॒यं जनः॑ ।  
+विप्र॒ आ वं॑सद्धी॒तिभि॒श्चिके॑त सुष्टुती॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “hymn; praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शतप्रभेदनो वैरूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ mitrā́ya ← mitrá- (nominal stem)
 
 váruṇāya ← váruṇa- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदिन्द्रः॑ स॒त्रा तवि॑षीरपत्यत॒ वरी॑यो॒ द्यावा॑पृथि॒वी अ॑बाधत ।  
+अवा॑भरद्धृषि॒तो वज्र॑माय॒सं शेवं॑ मि॒त्राय॒ वरु॑णाय दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

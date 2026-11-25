@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ mártaiḥ ← márta- (nominal stem)
 
 vásubhiḥ ← vásu- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॒स्या व्युषि॑ देव॒ पूर्वे॑ दू॒तं कृ॑ण्वा॒ना अ॑यजन्त ह॒व्यैः ।  
+सं॒स्थे यद॑ग्न॒ ईय॑से रयी॒णां दे॒वो मर्तै॒र्वसु॑भिरि॒ध्यमा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “kindle; ignite; set ablaze.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

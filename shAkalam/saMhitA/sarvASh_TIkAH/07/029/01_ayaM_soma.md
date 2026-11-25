@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ maghā́ni ← maghá- (nominal stem)
 
 maghavan ← maghávan- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं सोम॑ इन्द्र॒ तुभ्यं॑ सुन्व॒ आ तु प्र या॑हि हरिव॒स्तदो॑काः ।  
+पिबा॒ त्व१॒॑स्य सुषु॑तस्य॒ चारो॒र्ददो॑ म॒घानि॑ मघवन्निया॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

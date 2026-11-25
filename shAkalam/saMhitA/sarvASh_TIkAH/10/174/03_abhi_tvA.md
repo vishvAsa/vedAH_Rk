@@ -4,6 +4,7 @@ devataa = "राज्ञस्तुतिः"
 RShiH = "अभीवर्तः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राज्ञस्तुतिः
@@ -74,7 +75,12 @@ abhīvartáḥ ← abhīvartá- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि त्वा॑ दे॒वः स॑वि॒ताभि सोमो॑ अवीवृतत् ।  
+अ॒भि त्वा॒ विश्वा॑ भू॒तान्य॑भीव॒र्तो यथास॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

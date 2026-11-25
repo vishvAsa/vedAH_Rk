@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ táruṇīḥ ← táruṇa- (nominal stem)
 
 yán ← √i- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धा॒सिं कृ॑ण्वा॒न ओष॑धी॒र्बप्स॑द॒ग्निर्न वा॑यति ।  
+पुन॒र्यन्तरु॑णी॒रपि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
     assuredly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

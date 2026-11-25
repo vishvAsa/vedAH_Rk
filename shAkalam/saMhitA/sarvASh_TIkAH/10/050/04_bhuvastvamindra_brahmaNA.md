@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "अभिसारिणी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -86,7 +87,12 @@ mántraḥ ← mántra- (nominal stem)
 
 viśvacarṣaṇe ← viśvácarṣaṇi- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भुव॒स्त्वमि॑न्द्र॒ ब्रह्म॑णा म॒हान्भुवो॒ विश्वे॑षु॒ सव॑नेषु य॒ज्ञियः॑ ।  
+भुवो॒ नॄँश्च्यौ॒त्नो विश्व॑स्मि॒न्भरे॒ ज्येष्ठ॑श्च॒ मन्त्रो॑ विश्वचर्षणे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

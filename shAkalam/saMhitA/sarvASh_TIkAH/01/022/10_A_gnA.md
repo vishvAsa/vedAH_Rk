@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ vaha ← √vah- (root)
 
 várūtrīm ← várūtrī- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ग्ना अ॑ग्न इ॒हाव॑से॒ होत्रां॑ यविष्ठ॒ भार॑तीम् ।  
+वरू॑त्रीं धि॒षणां॑ वह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

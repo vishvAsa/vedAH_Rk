@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -92,7 +93,12 @@ sómaḥ ← sóma- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒वि॒ज्ञा॒नं चि॑कि॒तुषे॒ जना॑य॒ सच्चास॑च्च॒ वच॑सी पस्पृधाते ।  
+तयो॒र्यत्स॒त्यं य॑त॒रदृजी॑य॒स्तदित्सोमो॑ऽवति॒ हन्त्यास॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “nonexistent; bad; wrong; wrong; asat \[prefix\]; dissident; fake.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

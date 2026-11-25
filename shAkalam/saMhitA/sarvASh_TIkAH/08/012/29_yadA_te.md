@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ víśvā ← víśva- (nominal stem)
 
 yemire ← √yam- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒दा ते॒ मारु॑ती॒र्विश॒स्तुभ्य॑मिन्द्र नियेमि॒रे ।  
+आदित्ते॒ विश्वा॒ भुव॑नानि येमिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -191,10 +196,6 @@ When the Marutian clans held themselves down for you,
 just after that all these worlds held themselves in submission to you.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The doubling of te … túbhyam is presumably pleonastic+++(=redundant)+++ in ab, with the yadā́te simply repeated from 27a, 28a.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -204,7 +205,6 @@ For the only time in the hymn the Anhang is only three syllables, yemire, but th
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

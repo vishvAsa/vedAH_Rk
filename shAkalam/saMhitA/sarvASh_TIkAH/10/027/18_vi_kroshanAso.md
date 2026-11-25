@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sarpírannaḥ ← sarpíranna- (nominal stem)
 
 vanavat ← √vanⁱ- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि क्रो॑श॒नासो॒ विष्व॑ञ्च आय॒न्पचा॑ति॒ नेमो॑ न॒हि पक्ष॑द॒र्धः ।  
+अ॒यं मे॑ दे॒वः स॑वि॒ता तदा॑ह॒ द्र्व॑न्न॒ इद्व॑नवत्स॒र्पिर॑न्नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

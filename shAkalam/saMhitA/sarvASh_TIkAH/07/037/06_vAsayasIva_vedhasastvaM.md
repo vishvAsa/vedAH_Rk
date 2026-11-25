@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ uhīta ← √vah- (root)
 
 vājī́ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒सय॑सीव वे॒धस॒स्त्वं नः॑ क॒दा न॑ इन्द्र॒ वच॑सो बुबोधः ।  
+अस्तं॑ ता॒त्या धि॒या र॒यिं सु॒वीरं॑ पृ॒क्षो नो॒ अर्वा॒ न्यु॑हीत वा॒जी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “victorious; triumphant; strong; gainful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ tirāmasi ← √tr̥̄- 1 (root)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग॑न्निन्द्र॒ श्रवो॑ बृ॒हद्द्यु॒म्नं द॑धिष्व दु॒ष्टर॑म् ।  
+उत्ते॒ शुष्मं॑ तिरामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

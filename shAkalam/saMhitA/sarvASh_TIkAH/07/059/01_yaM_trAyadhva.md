@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ márutaḥ ← marút- (nominal stem)
 
 yachata ← √yam- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं त्राय॑ध्व इ॒दमि॑दं॒ देवा॑सो॒ यं च॒ नय॑थ ।  
+तस्मा॑ अग्ने॒ वरु॑ण॒ मित्रार्य॑म॒न्मरु॑तः॒ शर्म॑ यच्छत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

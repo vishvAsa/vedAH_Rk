@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "वसिष्ठः"
 ChandaH = "पुरउष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -63,7 +64,12 @@ jī́vema ← √jīv- (root)
 
 śatám ← śatá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तच्चक्षु॑र्दे॒वहि॑तं शु॒क्रमु॒च्चर॑त् ।  
+पश्ये॑म श॒रदः॑ श॒तं जीवे॑म श॒रदः॑ श॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “hundred; one-hundredth; śata \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

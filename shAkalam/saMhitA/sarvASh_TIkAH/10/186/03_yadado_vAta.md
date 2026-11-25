@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "उलो वातायनः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -66,7 +67,12 @@ naḥ ← ahám (pronoun)
 
 tátas ← tátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒दो वा॑त ते गृ॒हे॒३॒॑ऽमृत॑स्य नि॒धिर्हि॒तः ।  
+ततो॑ नो देहि जी॒वसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

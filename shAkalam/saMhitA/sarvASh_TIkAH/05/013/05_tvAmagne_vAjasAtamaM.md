@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ sá ← sá- ~ tá- (pronoun)
 
 suvī́ryam ← suvī́rya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने वाज॒सात॑मं॒ विप्रा॑ वर्धन्ति॒ सुष्टु॑तम् ।  
+स नो॑ रास्व सु॒वीर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

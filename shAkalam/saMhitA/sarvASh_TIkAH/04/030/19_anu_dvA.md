@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ tát ← sá- ~ tá- (pronoun)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॒ द्वा ज॑हि॒ता न॑यो॒ऽन्धं श्रो॒णं च॑ वृत्रहन् ।  
+न तत्ते॑ सु॒म्नमष्ट॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -195,12 +200,6 @@ You led along the two that had been abandoned, the blind man and the  lame, o Vr
 that favor of yours is not to be equaled.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The blind man and the lame one also figure in IV.19.9, along with the son of the unmarried woman; see vs. 16 above. The blind and the lame form a pair elsewhere in the RV, e.g., I.112.8; II.13.12, 15.7; VIII.79.3.
-
-The infinitival phrase ná … áṣṭave is rendered in the published translation “not to be equalled,” though it lit. means “not to be reached/attained.” The lit. tr. implies that no one can actually receive Indra’s favor, but I think the point is rather that favor such as Indra’s cannot be deployed by anyone else (that is, any other deity) -- hence the adjustment in the English. On this interpr, see Hoffmann (185). Geldner supplies “with words” (i.e., “not to be obtained [with words]”), presumably meaning that no poet can describe the extent of Indra’s favor.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details><summary><h2>08-21 ...{Loading}...</h2></summary>
 
@@ -208,7 +207,6 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

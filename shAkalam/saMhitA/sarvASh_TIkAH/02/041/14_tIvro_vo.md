@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -57,7 +58,12 @@ kā́myam ← kā́mya- (nominal stem)
 
 pibata ← √pā- 2 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ती॒व्रो वो॒ मधु॑माँ अ॒यं शु॒नहो॑त्रेषु मत्स॒रः ।  
+ए॒तं पि॑बत॒ काम्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “desirable; optional; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

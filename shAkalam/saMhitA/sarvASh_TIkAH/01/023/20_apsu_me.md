@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -71,7 +72,12 @@ ca ← ca (invariable)
 
 viśvábheṣajīḥ ← viśvábheṣaja- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒प्सु मे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा ।  
+अ॒ग्निं च॑ वि॒श्वश॑म्भुव॒माप॑श्च वि॒श्वभे॑षजीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “curative.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

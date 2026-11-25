@@ -4,6 +4,7 @@ devataa = "गावः"
 RShiH = "शबरः काक्षीवतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -89,7 +90,12 @@ tā́bhyaḥ ← sá- ~ tá- (pronoun)
 
 yacha ← √yam- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+याः सरू॑पा॒ विरू॑पा॒ एक॑रूपा॒ यासा॑म॒ग्निरिष्ट्या॒ नामा॑नि॒ वेद॑ ।  
+या अङ्गि॑रस॒स्तप॑से॒ह च॒क्रुस्ताभ्यः॑ पर्जन्य॒ महि॒ शर्म॑ यच्छ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ r̥té ← r̥tá- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रि॒ये सु॒दृशी॒रुप॑रस्य॒ याः स्व॑र्वि॒रोच॑मानः क॒कुभा॑मचो॒दते॑ ।  
+सु॒गो॒पा अ॑सि॒ न दभा॑य सुक्रतो प॒रो मा॒याभि॑रृ॒त आ॑स॒ नाम॑ ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

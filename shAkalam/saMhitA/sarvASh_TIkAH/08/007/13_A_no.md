@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 marutaḥ ← marút- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ र॒यिं म॑द॒च्युतं॑ पुरु॒क्षुं वि॒श्वधा॑यसम् ।  
+इय॑र्ता मरुतो दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

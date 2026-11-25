@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ tvé ← tvám (pronoun)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒भ्रेभि॑श्चि॒च्छशी॑यांसं॒ हंसि॒ व्राध॑न्त॒मोज॑सा ।  
+सखि॑भि॒र्ये त्वे सचा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “jointly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

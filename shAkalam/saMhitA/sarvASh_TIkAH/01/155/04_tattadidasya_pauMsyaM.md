@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -86,7 +87,12 @@ urú ← urú- (nominal stem)
 
 urugāyā́ya ← urugāyá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्त॒दिद॑स्य॒ पौंस्यं॑ गृणीमसी॒नस्य॑ त्रा॒तुर॑वृ॒कस्य॑ मी॒ळ्हुषः॑ ।  
+यः पार्थि॑वानि त्रि॒भिरिद्विगा॑मभिरु॒रु क्रमि॑ष्टोरुगा॒याय॑ जी॒वसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

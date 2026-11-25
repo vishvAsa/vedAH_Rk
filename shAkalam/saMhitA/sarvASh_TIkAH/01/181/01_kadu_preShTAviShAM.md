@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ janānām ← jána- (nominal stem)
 
 vásudhitī ← vásudhiti- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कदु॒ प्रेष्टा॑वि॒षां र॑यी॒णाम॑ध्व॒र्यन्ता॒ यदु॑न्निनी॒थो अ॒पाम् ।  
+अ॒यं वां॑ य॒ज्ञो अ॑कृत॒ प्रश॑स्तिं॒ वसु॑धिती॒ अवि॑तारा जनानाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ adakṣiṇā́saḥ ← adakṣiṇá- (nominal stem)
 
 dudukṣan ← √duh- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒क्षू क॒नायाः॑ स॒ख्यं नव॑ग्वा ऋ॒तं वद॑न्त ऋ॒तयु॑क्तिमग्मन् ।  
+द्वि॒बर्ह॑सो॒ य उप॑ गो॒पमागु॑रदक्षि॒णासो॒ अच्यु॑ता दुदुक्षन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - \[verb\], plural, Present injunctive
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

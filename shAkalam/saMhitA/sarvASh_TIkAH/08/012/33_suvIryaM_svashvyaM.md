@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -64,7 +65,12 @@ adhvaré ← adhvará- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒वीर्यं॒ स्वश्व्यं॑ सु॒गव्य॑मिन्द्र दद्धि नः ।  
+होते॑व पू॒र्वचि॑त्तये॒ प्राध्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -190,7 +195,6 @@ like a Hotar, (for us) to be first in your thought, while the ceremony is  pro(c
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/31-33.md">
 <details><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -198,7 +202,6 @@ This tṛca is unified by the 4-syllable pāda prā́dhvaré. This pāda appears
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

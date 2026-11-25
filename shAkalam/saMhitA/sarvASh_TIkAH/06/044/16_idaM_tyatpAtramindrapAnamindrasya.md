@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ ví ← ví (invariable)
 
 yuyávat ← √yu- 2 (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं त्यत्पात्र॑मिन्द्र॒पान॒मिन्द्र॑स्य प्रि॒यम॒मृत॑मपायि ।  
+मत्स॒द्यथा॑ सौमन॒साय॑ दे॒वं व्य१॒॑स्मद्द्वेषो॑ यु॒यव॒द्व्यंहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “trouble; sin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -245,10 +250,6 @@ so that it will exhilarate the god for the sake of his good favor and will  keep
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner takes índrasya as agent of apāyi (“Indra hat seinen lieben Göttertrank getrunken”), but finite passives, even verbs of consumption, don’t take genitive agents.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -256,7 +257,6 @@ Here the power of soma to rouse Indra to beneficial action is the general subjec
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

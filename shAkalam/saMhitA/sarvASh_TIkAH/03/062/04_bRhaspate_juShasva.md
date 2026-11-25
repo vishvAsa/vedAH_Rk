@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -54,7 +55,12 @@ rā́sva ← √rā- 1 (root)
 
 rátnāni ← rátna- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृह॑स्पते जु॒षस्व॑ नो ह॒व्यानि॑ विश्वदेव्य ।  
+रास्व॒ रत्ना॑नि दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

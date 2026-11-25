@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -83,7 +84,12 @@ sukr̥tyā́ ← sukr̥tyā́- (nominal stem)
 
 yā́n ← yá- (pronoun)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒तः सु॒तम॑पिबो हर्यश्व॒ माध्यं॑दिनं॒ सव॑नं॒ केव॑लं ते ।  
+समृ॒भुभिः॑ पिबस्व रत्न॒धेभिः॒ सखीँ॒र्याँ इ॑न्द्र चकृ॒षे सु॑कृ॒त्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “magic; spirit; kṛtyā; Kṛtyā; witchcraft; act.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

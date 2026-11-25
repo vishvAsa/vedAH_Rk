@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -57,7 +58,12 @@ mitráḥ ← mitrá- (nominal stem)
 
 sómapītaye ← sómapīti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+काव्ये॑भिरदा॒भ्या या॑तं वरुण द्यु॒मत् ।  
+मि॒त्रश्च॒ सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

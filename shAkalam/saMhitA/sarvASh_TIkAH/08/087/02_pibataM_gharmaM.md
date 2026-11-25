@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 védasā ← védas- 2 (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिब॑तं घ॒र्मं मधु॑मन्तमश्वि॒ना ब॒र्हिः सी॑दतं नरा ।  
+ता म॑न्दसा॒ना मनु॑षो दुरो॒ण आ नि पा॑तं॒ वेद॑सा॒ वयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     food.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -226,7 +231,6 @@ Drink the honeyed hot milk, o Aśvins; sit here on the ritual grass, o men. Reac
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/087/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -234,7 +238,6 @@ The d pādas of these two vss. apparently begin with the same verb: 1d pātám, 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

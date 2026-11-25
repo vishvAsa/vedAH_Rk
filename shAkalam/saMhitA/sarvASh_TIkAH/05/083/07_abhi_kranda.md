@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -89,7 +90,12 @@ samā́ḥ ← samá- (nominal stem)
 
 udvátaḥ ← udvát- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि क्र॑न्द स्त॒नय॒ गर्भ॒मा धा॑ उद॒न्वता॒ परि॑ दीया॒ रथे॑न ।  
+दृतिं॒ सु क॑र्ष॒ विषि॑तं॒ न्य॑ञ्चं स॒मा भ॑वन्तू॒द्वतो॑ निपा॒दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -247,14 +252,12 @@ lowlands become alike.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/083/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These two vss. ring changes in the oppositional pair úd ‘up and ní ‘down’: 7c ní añcam, 7d udváto nipādā́ḥ, 8a úd acā ní ṣiñca. Note that 7b udanvátā might seem to belong with this sequence, but udan- there is the ‘water’ word.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -5,13 +5,13 @@ RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "चतुष्पदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - चतुष्पदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -73,7 +73,12 @@ sātaú ← sātí- (nominal stem)
 
 svàrmīḷhasya ← svàrmīḷha- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अयु॑ज्रन्त इन्द्र वि॒श्वकृ॑ष्टीर्विदा॒नासो॑ नि॒ष्षिधो॑ मर्त्य॒त्रा ।  
+म॒रुतां॑ पृत्सु॒तिर्हास॑माना॒ स्व॑र्मीळ्हस्य प्र॒धन॑स्य सा॒तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +168,6 @@ _________
 - “victory; acquisition; contest.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -218,8 +222,6 @@ Du hast, o Indra, die erlangten Güter für alle Völker zugeführt den Menschen
 Войско Марутов приходит в возбуждение  
 Для захвата главной награды – завоевания солнца.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

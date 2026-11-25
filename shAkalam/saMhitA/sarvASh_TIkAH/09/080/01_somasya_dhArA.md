@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ sávanāni ← sávana- 1 (nominal stem)
 
 vivyacuḥ ← √vyac- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोम॑स्य॒ धारा॑ पवते नृ॒चक्ष॑स ऋ॒तेन॑ दे॒वान्ह॑वते दि॒वस्परि॑ ।  
+बृह॒स्पते॑ र॒वथे॑ना॒ वि दि॑द्युते समु॒द्रासो॒ न सव॑नानि विव्यचुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - \[verb\], plural, Present injunctive
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

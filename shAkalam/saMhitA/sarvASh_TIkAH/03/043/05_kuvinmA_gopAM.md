@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ me ← ahám (pronoun)
 
 vásvaḥ ← vásu- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कु॒विन्मा॑ गो॒पां कर॑से॒ जन॑स्य कु॒विद्राजा॑नं मघवन्नृजीषिन् ।  
+कु॒विन्म॒ ऋषिं॑ पपि॒वांसं॑ सु॒तस्य॑ कु॒विन्मे॒ वस्वो॑ अ॒मृत॑स्य॒ शिक्षाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “help; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

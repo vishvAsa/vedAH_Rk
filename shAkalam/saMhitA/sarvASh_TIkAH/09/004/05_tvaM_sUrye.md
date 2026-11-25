@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -69,7 +70,12 @@ naḥ ← ahám (pronoun)
 
 vásyasaḥ ← vásyaṁs- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं सूर्ये॑ न॒ आ भ॑ज॒ तव॒ क्रत्वा॒ तवो॒तिभिः॑ ।  
+अथा॑ नो॒ वस्य॑सस्कृधि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -195,7 +200,6 @@ Give us a share in the sun through your resolve and your help.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/004/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -203,7 +207,6 @@ These two vss. share not only the refrain pāda (c) found throughout the hymn, b
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -83,7 +84,12 @@ pitárā ← pitár- (nominal stem)
 
 yúvānā ← yúvan- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+निश्चर्म॑ण ऋभवो॒ गाम॑पिंशत॒ सं व॒त्सेना॑सृजता मा॒तरं॒ पुनः॑ ।  
+सौध॑न्वनासः स्वप॒स्यया॑ नरो॒ जिव्री॒ युवा॑ना पि॒तरा॑कृणोतन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

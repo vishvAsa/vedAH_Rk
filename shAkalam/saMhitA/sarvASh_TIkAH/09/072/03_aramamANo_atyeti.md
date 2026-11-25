@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हरिमन्तः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ sám ← sám (invariable)
 
 svásr̥bhiḥ ← svásar- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर॑ममाणो॒ अत्ये॑ति॒ गा अ॒भि सूर्य॑स्य प्रि॒यं दु॑हि॒तुस्ति॒रो रव॑म् ।  
+अन्व॑स्मै॒ जोष॑मभरद्विनङ्गृ॒सः सं द्व॒यीभिः॒ स्वसृ॑भिः क्षेति जा॒मिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “related; ancestral; customary; usual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

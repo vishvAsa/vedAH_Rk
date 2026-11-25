@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -89,7 +90,12 @@ jātávedāḥ ← jātávedas- (nominal stem)
 
 śvātrám ← śvātrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो होतासी॑त्प्रथ॒मो दे॒वजु॑ष्टो॒ यं स॒माञ्ज॒न्नाज्ये॑ना वृणा॒नाः ।  
+स प॑त॒त्री॑त्व॒रं स्था जग॒द्यच्छ्वा॒त्रम॒ग्निर॑कृणोज्जा॒तवे॑दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

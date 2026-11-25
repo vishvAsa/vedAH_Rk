@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ raṇayāmasi ← √ranⁱ- (root)
 
 ukthéṣu ← ukthá- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यमु॑ त्वा शतक्रतो॒ गावो॒ न यव॑से॒ष्वा ।  
+उ॒क्थेषु॑ रणयामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “delight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

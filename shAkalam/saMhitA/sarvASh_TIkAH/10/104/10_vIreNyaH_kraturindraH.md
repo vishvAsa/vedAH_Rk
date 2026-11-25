@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्टको वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ pŕ̥tanāḥ ← pŕ̥tanā- (nominal stem)
 
 sasāhé ← √sah- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॒रेण्यः॒ क्रतु॒रिन्द्रः॑ सुश॒स्तिरु॒तापि॒ धेना॑ पुरुहू॒तमी॑ट्टे ।  
+आर्द॑यद्वृ॒त्रमकृ॑णोदु लो॒कं स॑सा॒हे श॒क्रः पृत॑ना अभि॒ष्टिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

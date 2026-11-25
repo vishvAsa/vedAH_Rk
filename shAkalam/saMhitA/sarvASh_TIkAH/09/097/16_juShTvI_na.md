@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "व्याघ्रपाद्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ sā́no ← sā́nu- ~ snú- (nominal stem)
 
 snúnā ← sā́nu- ~ snú- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जु॒ष्ट्वी न॑ इन्दो सु॒पथा॑ सु॒गान्यु॒रौ प॑वस्व॒ वरि॑वांसि कृ॒ण्वन् ।  
+घ॒नेव॒ विष्व॑ग्दुरि॒तानि॑ वि॒घ्नन्नधि॒ ष्णुना॑ धन्व॒ सानो॒ अव्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -246,18 +251,6 @@ Having taken pleasure, o drop, (making) easy pathways easy to travel  for us, pu
 Smashing asunder obstacles to progress as if with a deadly weapon, run  along the back, on the sheep’s back.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The vs. contrasts easy travel (a: supáthā sugā́ni) with difficult travel (c: duritā́ni); the contrast is signaled by su- / duṣ-, while two different roots for ‘go’ serve as 2nd cmpd. member, √gā (or √gam?) versus √i.
-
-The part. kṛṇván in b should be supplied to govern supáthā sugā́ni in a.
-
-Pace Geldner and Renou, I do not think naḥ should be construed with the ger. juṣṭvī́; it is simply in Wackernagel’s position and goes better with supáthā sugā́ni.
-
-For the loc. uraú see III.54.9 uraú pathí.
-
-For ghanéva see comm. ad I.63.5.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -267,7 +260,6 @@ The Anukramaṇī names Vyāghrapād (‘Tigerfoot(ed)’) Vāsiṣṭha as the 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

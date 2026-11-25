@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ jaráyan ← √jr̥̄- ~ jūr- (root)
 
 cā́rupratīkaḥ ← cā́rupratīka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यः सु॑नी॒थो द॑दा॒शुषे॑ऽजु॒र्यो ज॒रय॑न्न॒रिम् ।  
+चारु॑प्रतीक॒ आहु॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “sacrifice; sprinkle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -151,14 +156,12 @@ whose countenance is lovely when he is bepoured,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">
 <details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
 The #ya(śástamasya) that opens 1c anticipates the forms of the relative pronoun yá- in the next 3 vss. (2a #yáḥ, 3a #yá(h), 3c #yásya, with the last, 4a #ā́ yáḥ, no longer in initial position), though of course it is entirely unrelated to the relative. The referent of all those rel. pronouns is Agni, who is also the referent of yaśástamasya. Phonology and syntax are thus wedded.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

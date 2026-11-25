@@ -4,6 +4,7 @@ devataa = "रोमशा"
 RShiH = "भावयव्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रोमशा
@@ -68,7 +69,12 @@ bhojyā̀ ← bhojyà- (nominal stem)
 
 yā́śūnām ← yā́śu- (nominal stem)  
 {case:GEN, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आग॑धिता॒ परि॑गधिता॒ या क॑शी॒केव॒ जङ्ग॑हे ।  
+ददा॑ति॒ मह्यं॒ यादु॑री॒ याशू॑नां भो॒ज्या॑ श॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “hundred; one-hundredth; śata \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

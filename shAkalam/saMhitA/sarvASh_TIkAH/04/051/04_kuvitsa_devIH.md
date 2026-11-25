@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ saptā́sye ← saptā́sya- (nominal stem)
 
 ūṣá ← √vas- 1 (root)  
 {number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कु॒वित्स दे॑वीः स॒नयो॒ नवो॑ वा॒ यामो॑ बभू॒यादु॑षसो वो अ॒द्य ।  
+येना॒ नव॑ग्वे॒ अङ्गि॑रे॒ दश॑ग्वे स॒प्तास्ये॑ रेवती रे॒वदू॒ष ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “dawn; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

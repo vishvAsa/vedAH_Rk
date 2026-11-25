@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ mádhunaḥ ← mádhu- (nominal stem)
 
 sukŕ̥ttamāḥ ← sukŕ̥ttama- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग॒न्ध॒र्व इ॒त्था प॒दम॑स्य रक्षति॒ पाति॑ दे॒वानां॒ जनि॑मा॒न्यद्भु॑तः ।  
+गृ॒भ्णाति॑ रि॒पुं नि॒धया॑ नि॒धाप॑तिः सु॒कृत्त॑मा॒ मधु॑नो भ॒क्षमा॑शत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

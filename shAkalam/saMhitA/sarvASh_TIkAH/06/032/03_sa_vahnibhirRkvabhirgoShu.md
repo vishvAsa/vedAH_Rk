@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ ruroja ← √ruj- (root)
 
 sán ← √as- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वह्नि॑भि॒रृक्व॑भि॒र्गोषु॒ शश्व॑न्मि॒तज्ञु॑भिः पुरु॒कृत्वा॑ जिगाय ।  
+पुरः॑ पुरो॒हा सखि॑भिः सखी॒यन्दृ॒ळ्हा रु॑रोज क॒विभिः॑ क॒विः सन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

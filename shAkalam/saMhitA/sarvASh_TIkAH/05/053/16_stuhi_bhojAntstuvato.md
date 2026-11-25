@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ gr̥ṇīhi ← √gr̥̄- 1 (root)
 
 kāmínaḥ ← kāmín- (nominal stem)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒हि भो॒जान्त्स्तु॑व॒तो अ॑स्य॒ याम॑नि॒ रण॒न्गावो॒ न यव॑से ।  
+य॒तः पूर्वाँ॑ इव॒ सखीँ॒रनु॑ ह्वय गि॒रा गृ॑णीहि का॒मिनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “desirous; aroused; loving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

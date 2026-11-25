@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ uruṣyet ← √uruṣy- (root)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ पर्व॑तस्य म॒रुता॒मवां॑सि दे॒वस्य॑ त्रा॒तुर॑व्रि॒ भग॑स्य ।  
+पात्पति॒र्जन्या॒दंह॑सो नो मि॒त्रो मि॒त्रिया॑दु॒त न॑ उरुष्येत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “protect; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

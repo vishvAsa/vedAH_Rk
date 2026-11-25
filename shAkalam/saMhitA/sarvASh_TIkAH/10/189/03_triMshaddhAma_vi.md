@@ -4,6 +4,7 @@ devataa = "सार्पराज्ञी सूर्यो वा"
 RShiH = "सार्पराज्ञी"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सार्पराज्ञी सूर्यो वा
@@ -63,7 +64,12 @@ práti ← práti (invariable)
 
 vástoḥ ← vástu- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिं॒शद्धाम॒ वि रा॑जति॒ वाक्प॑तं॒गाय॑ धीयते ।  
+प्रति॒ वस्तो॒रह॒ द्युभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सरमा"
 RShiH = "पणयोसुराः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरमा
@@ -95,7 +96,12 @@ tigmā́ ← tigmá- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा गावः॑ सरमे॒ या ऐच्छः॒ परि॑ दि॒वो अन्ता॑न्त्सुभगे॒ पत॑न्ती ।  
+कस्त॑ एना॒ अव॑ सृजा॒दयु॑ध्व्यु॒तास्माक॒मायु॑धा सन्ति ति॒ग्मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “sharp; pointed; fiery.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

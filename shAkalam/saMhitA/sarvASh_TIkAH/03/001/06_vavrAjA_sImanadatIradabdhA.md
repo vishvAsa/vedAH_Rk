@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ saptá ← saptá- (nominal stem)
 
 vā́ṇīḥ ← vā́ṇī- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒व्राजा॑ सी॒मन॑दती॒रद॑ब्धा दि॒वो य॒ह्वीरव॑साना॒ अन॑ग्नाः ।  
+सना॒ अत्र॑ युव॒तयः॒ सयो॑नी॒रेकं॒ गर्भं॑ दधिरे स॒प्त वाणीः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “voice; Sarasvati; words; language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

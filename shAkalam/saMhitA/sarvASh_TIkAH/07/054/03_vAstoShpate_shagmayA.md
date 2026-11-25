@@ -4,6 +4,7 @@ devataa = "वास्तोष्पतिः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वास्तोष्पतिः
@@ -89,7 +90,12 @@ svastíbhiḥ ← svastí- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वास्तो॑ष्पते श॒ग्मया॑ सं॒सदा॑ ते सक्षी॒महि॑ र॒ण्वया॑ गातु॒मत्या॑ ।  
+पा॒हि क्षेम॑ उ॒त योगे॒ वरं॑ नो यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

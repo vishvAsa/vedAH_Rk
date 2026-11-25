@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sátpatiḥ ← sátpati- (nominal stem)
 
 svàr ← svàr- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उज्जा॑यतां पर॒शुर्ज्योति॑षा स॒ह भू॒या ऋ॒तस्य॑ सु॒दुघा॑ पुराण॒वत् ।  
+वि रो॑चतामरु॒षो भा॒नुना॒ शुचिः॒ स्व१॒॑र्ण शु॒क्रं शु॑शुचीत॒ सत्प॑तिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “Indra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

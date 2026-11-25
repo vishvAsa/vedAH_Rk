@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ vanúṣaḥ ← vanús- (nominal stem)
 
 vanuṣyán ← √vanuṣ(y)- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ भा॒नुना॒ पार्थि॑वानि॒ ज्रयां॑सि म॒हस्तो॒दस्य॑ धृष॒ता त॑तन्थ ।  
+स बा॑ध॒स्वाप॑ भ॒या सहो॑भिः॒ स्पृधो॑ वनु॒ष्यन्व॒नुषो॒ नि जू॑र्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - \[verb\], singular, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

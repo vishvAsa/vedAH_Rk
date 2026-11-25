@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sukrátuḥ ← sukrátu- (nominal stem)
 
 ukthā́ ← ukthá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एन्द्र॑ याहि पी॒तये॒ मधु॑ शविष्ठ सो॒म्यम् ।  
+नायमच्छा॑ म॒घवा॑ शृ॒णव॒द्गिरो॒ ब्रह्मो॒क्था च॑ सु॒क्रतुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

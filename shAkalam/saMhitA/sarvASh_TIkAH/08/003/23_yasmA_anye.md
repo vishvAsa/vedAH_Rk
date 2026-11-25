@@ -4,6 +4,7 @@ devataa = "पाकस्थाम्नः कौरयाणस्य दा�
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पाकस्थाम्नः कौरयाणस्य दानस्तुतिः
@@ -63,7 +64,12 @@ túgryam ← túgrya- (nominal stem)
 
 váyaḥ ← ví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मा॑ अ॒न्ये दश॒ प्रति॒ धुरं॒ वह॑न्ति॒ वह्न॑यः ।  
+अस्तं॒ वयो॒ न तुग्र्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

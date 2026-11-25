@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ ruhat ← √ruh- (root)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वा धी॒तिः प्रत्य॑स्य॒ प्रया॑म॒न्यधा॑यि॒ शस्म॒न्त्सम॑यन्त॒ आ दिशः॑ ।  
+स्वदा॑मि घ॒र्मं प्रति॑ यन्त्यू॒तय॒ आ वा॑मू॒र्जानी॒ रथ॑मश्विनारुहत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

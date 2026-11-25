@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ várdhanam ← várdhana- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यच्चि॒द्धि त्वा॒ जना॑ इ॒मे नाना॒ हव॑न्त ऊ॒तये॑ ।  
+अ॒स्माकं॒ ब्रह्मे॒दमि॑न्द्र भूतु॒ तेऽहा॒ विश्वा॑ च॒ वर्ध॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “increase; increase.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

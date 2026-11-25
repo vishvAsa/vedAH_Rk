@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ devā́n ← devá- (nominal stem)
 
 yajatu ← √yaj- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वेषि॑ हो॒त्रमु॒त पो॒त्रं जना॑नां मन्धा॒तासि॑ द्रविणो॒दा ऋ॒तावा॑ ।  
+स्वाहा॑ व॒यं कृ॒णवा॑मा ह॒वींषि॑ दे॒वो दे॒वान्य॑जत्व॒ग्निरर्ह॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “should; may; rate; can; can; equal; necessitate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

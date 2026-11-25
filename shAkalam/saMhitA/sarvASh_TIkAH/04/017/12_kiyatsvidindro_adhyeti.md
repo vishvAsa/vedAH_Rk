@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ stanáyadbhiḥ ← √stanⁱ- (root)
 
 vā́taḥ ← vā́ta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किय॑त्स्वि॒दिन्द्रो॒ अध्ये॑ति मा॒तुः किय॑त्पि॒तुर्ज॑नि॒तुर्यो ज॒जान॑ ।  
+यो अ॑स्य॒ शुष्मं॑ मुहु॒कैरिय॑र्ति॒ वातो॒ न जू॒तः स्त॒नय॑द्भिर॒भ्रैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     cloudiness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

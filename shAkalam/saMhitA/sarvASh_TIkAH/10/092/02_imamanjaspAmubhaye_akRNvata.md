@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ niṁsate ← √nas- (root)
 
 tánūnápātam ← tánūnápāt- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मम॑ञ्ज॒स्पामु॒भये॑ अकृण्वत ध॒र्माण॑म॒ग्निं वि॒दथ॑स्य॒ साध॑नम् ।  
+अ॒क्तुं न य॒ह्वमु॒षसः॑ पु॒रोहि॑तं॒ तनू॒नपा॑तमरु॒षस्य॑ निंसते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “kiss.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

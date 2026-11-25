@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ hárī ← hári- (nominal stem)
 
 vartaya ← √vr̥t- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माकं॑ त्वा मती॒नामा स्तोम॑ इन्द्र यच्छतु ।  
+अ॒र्वागा व॑र्तया॒ हरी॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     haritāla; Hari; snake; frog.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

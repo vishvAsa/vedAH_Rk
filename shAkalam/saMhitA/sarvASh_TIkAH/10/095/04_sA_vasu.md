@@ -4,6 +4,7 @@ devataa = "पुरूरवा ऐळः"
 RShiH = "उर्वशी ऋषिका"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरूरवा ऐळः
@@ -83,7 +84,12 @@ náktam ← nákt- (nominal stem)
 
 vaitaséna ← vaitasá- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा वसु॒ दध॑ती॒ श्वशु॑राय॒ वय॒ उषो॒ यदि॒ वष्ट्यन्ति॑गृहात् ।  
+अस्तं॑ ननक्षे॒ यस्मि॑ञ्चा॒कन्दिवा॒ नक्तं॑ श्नथि॒ता वै॑त॒सेन॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “penis.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

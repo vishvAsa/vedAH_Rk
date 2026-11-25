@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ urviyā́ ← urviyā́ (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑ मन्ये बृ॒हद॑सु॒र्य॑मस्य॒ यानि॑ दा॒धार॒ नकि॒रा मि॑नाति ।  
+दि॒वेदि॑वे॒ सूर्यो॑ दर्श॒तो भू॒द्वि सद्मा॑न्युर्वि॒या सु॒क्रतु॑र्धात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

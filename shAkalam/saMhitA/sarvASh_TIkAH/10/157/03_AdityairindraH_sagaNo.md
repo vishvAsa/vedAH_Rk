@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भुवन आप्त्यः साधनो वा भौवनः"
 ChandaH = "द्विपदा त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -52,7 +53,11 @@ bhūtu ← √bhū- (root)
 
 tanū́nām ← tanū́- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒दि॒त्यैरिन्द्रः॒ सग॑णो म॒रुद्भि॑र॒स्माकं॑ भूत्ववि॒ता त॒नूना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +126,6 @@ _________
 - “body; embodiment; life; life; root; body; form.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

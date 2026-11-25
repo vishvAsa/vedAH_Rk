@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिप्रभ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ rátnam ← rátna- (nominal stem)
 
 vibhájantam ← √bhaj- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ प्र॒याण॒मसु॑रस्य वि॒द्वान्त्सू॒क्तैर्दे॒वं स॑वि॒तारं॑ दुवस्य ।  
+उप॑ ब्रुवीत॒ नम॑सा विजा॒नञ्ज्येष्ठं॑ च॒ रत्नं॑ वि॒भज॑न्तमा॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

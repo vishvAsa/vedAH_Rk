@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -80,7 +81,12 @@ gahi ← √gam- (root)
 
 sávanā ← sávana- 1 (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒क्ष्वा हि त्वं र॑था॒सहा॑ यु॒वस्व॒ पोष्या॑ वसो ।  
+आन्नो॑ वायो॒ मधु॑ पिबा॒स्माकं॒ सव॒ना ग॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

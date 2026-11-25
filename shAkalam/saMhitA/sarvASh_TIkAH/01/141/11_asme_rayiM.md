@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ r̥té ← r̥tá- (nominal stem)
 
 sukrátuḥ ← sukrátu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे र॒यिं न स्वर्थं॒ दमू॑नसं॒ भगं॒ दक्षं॒ न प॑पृचासि धर्ण॒सिम् ।  
+र॒श्मीँरि॑व॒ यो यम॑ति॒ जन्म॑नी उ॒भे दे॒वानां॒ शंस॑मृ॒त आ च॑ सु॒क्रतुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -259,7 +265,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

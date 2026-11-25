@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ pakvám ← pakvá- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॒द्नः फ॑लि॒गं भि॒नन्न्य१॒॑क्सिन्धूँ॑र॒वासृ॑जत् ।  
+यो गोषु॑ प॒क्वं धा॒रय॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
     understand; fixate; govern; restrain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

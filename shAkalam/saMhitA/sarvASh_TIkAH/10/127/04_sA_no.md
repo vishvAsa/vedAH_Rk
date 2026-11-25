@@ -4,6 +4,7 @@ devataa = "रात्रिः"
 RShiH = "कुशिकः सौभरो रात्रिर्वा भारद्वाजी"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रात्रिः
@@ -69,7 +70,12 @@ váyaḥ ← ví- (nominal stem)
 
 vr̥kṣé ← vr̥kṣá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा नो॑ अ॒द्य यस्या॑ व॒यं नि ते॒ याम॒न्नवि॑क्ष्महि ।  
+वृ॒क्षे न व॑स॒तिं वयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “vi; bird; vi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -68,7 +69,12 @@ nihā́kayā ← nihā́kā- (nominal stem)
 
 sākám ← sākám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा॒कं य॑क्ष्म॒ प्र प॑त॒ चाषे॑ण किकिदी॒विना॑ ।  
+सा॒कं वात॑स्य॒ ध्राज्या॑ सा॒कं न॑श्य नि॒हाक॑या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - \[noun\], instrumental, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

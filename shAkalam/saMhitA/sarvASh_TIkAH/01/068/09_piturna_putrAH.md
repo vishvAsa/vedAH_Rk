@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -60,7 +60,11 @@ turā́saḥ ← turá- 1 (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒तुर्न पु॒त्राः क्रतुं॑ जुषन्त॒ श्रोष॒न्ये अ॑स्य॒ शासं॑ तु॒रासः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +135,6 @@ _________
 - “powerful; noble; noble.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -177,10 +180,6 @@ Sie erfreuen sich deines Rates wie die Söhne des Vaters, die Mächtigen, die au
 
 Wie Söhne nutzten – des Vaters Kraft sie, die seiner Weisung – voll Eifer lauschten; Der Schätze Thüren – erschloss der reiche, den Himmel schmückte – der Freund mit Sternen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

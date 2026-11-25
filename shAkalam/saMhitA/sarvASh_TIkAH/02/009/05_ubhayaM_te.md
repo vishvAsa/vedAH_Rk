@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 svapatyásya ← svapatyá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भयं॑ ते॒ न क्षी॑यते वस॒व्यं॑ दि॒वेदि॑वे॒ जाय॑मानस्य दस्म ।  
+कृ॒धि क्षु॒मन्तं॑ जरि॒तार॑मग्ने कृ॒धि पतिं॑ स्वप॒त्यस्य॑ रा॒यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “wealth; possession; rai \[word\]; gold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

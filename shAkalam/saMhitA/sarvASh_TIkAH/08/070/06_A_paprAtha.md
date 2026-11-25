@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ citrā́bhiḥ ← citrá- (nominal stem)
 
 vájrin ← vajrín- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ प॑प्राथ महि॒ना वृष्ण्या॑ वृष॒न्विश्वा॑ शविष्ठ॒ शव॑सा ।  
+अ॒स्माँ अ॑व मघव॒न्गोम॑ति व्र॒जे वज्रि॑ञ्चि॒त्राभि॑रू॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

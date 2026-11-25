@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ pr̥chā́n ← √praś- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्त॒रीर्यत्सूत॑ स॒द्यो अ॒ज्यमा॑ना॒ व्यथि॑रव्य॒थीः कृ॑णुत॒ स्वगो॑पा ।  
+पु॒त्रो यत्पूर्वः॑ पि॒त्रोर्जनि॑ष्ट श॒म्यां गौर्ज॑गार॒ यद्ध॑ पृ॒च्छान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “ask; ask; ask; consult; interrogate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

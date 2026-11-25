@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ tanvàḥ ← tanū́- (nominal stem)
 
 yónau ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यो मू॒र्धानं॑ पि॒त्रोरर॑ब्ध॒ न्य॑ध्व॒रे द॑धिरे॒ सूरो॒ अर्णः॑ ।  
+अस्य॒ पत्म॒न्नरु॑षी॒रश्व॑बुध्ना ऋ॒तस्य॒ योनौ॑ त॒न्वो॑ जुषन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मृत्युः"
 RShiH = "सङ्कुसुको यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मृत्युः
@@ -89,7 +90,12 @@ mr̥tyúm ← mr̥tyú- (nominal stem)
 
 párvatena ← párvata- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं जी॒वेभ्यः॑ परि॒धिं द॑धामि॒ मैषां॒ नु गा॒दप॑रो॒ अर्थ॑मे॒तम् ।  
+श॒तं जी॑वन्तु श॒रदः॑ पुरू॒चीर॒न्तर्मृ॒त्युं द॑धतां॒ पर्व॑तेन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     height.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

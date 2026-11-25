@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ br̥hatā́ ← br̥hánt- (nominal stem)
 
 śuśukvániḥ ← śuśukváni- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॑ तिष्ठ स्वध्वर॒ स्तवा॑नो दे॒व्या कृ॒पा ।  
+अ॒भि॒ख्या भा॒सा बृ॑ह॒ता शु॑शु॒क्वनिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

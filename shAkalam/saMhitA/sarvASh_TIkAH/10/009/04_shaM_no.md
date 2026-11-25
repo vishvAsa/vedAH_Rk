@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वांबरीषः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -66,7 +67,12 @@ sravantu ← √sru- (root)
 
 yós ← yós (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवन्तु पी॒तये॑ ।  
+शं योर॒भि स्र॑वन्तु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

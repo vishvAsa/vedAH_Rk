@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -17,12 +18,12 @@ ChandaH = "गायत्री"
 समिधानो᳓ अ᳓मर्तियम्  
 हव्या᳓ देवे᳓षु नो दधत्
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒ग्निँ स्तोमे॑न बोधय समिधा॒नो अम॑र्त्यम् ।  
 ह॒व्या दे॒वेषु॑ नो दधत् ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -63,7 +64,12 @@ havyā́ ← havyá- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं स्तोमे॑न बोधय समिधा॒नो अम॑र्त्यम् ।  
+ह॒व्या दे॒वेषु॑ नो दधत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -148,7 +153,6 @@ _____________
 
 हे यजमान त्वं समिधानोऽग्निं दीपयन्नमर्त्यं मरण-रहितमग्निं स्विष्टकृद्रूपं स्तोमन स्तोत्रेण तोषयित्वाऽनेन प्रकारेण बोधय।   केन प्रकारे-णेति तदुच्यतेनोऽस्मदीयानि हव्या हवींषि देवेषु दधत्स्थापयेति।
 </details>
-
 
 <details><summary>Wilson</summary>
 

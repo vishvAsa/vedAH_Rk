@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -89,7 +90,12 @@ sasruḥ ← √sr̥- 1 (root)
 
 téṣām ← sá- ~ tá- (pronoun)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒च्छन्नु॒षसः॑ सु॒दिना॑ अरि॒प्रा उ॒रु ज्योति॑र्विविदु॒र्दीध्या॑नाः ।  
+गव्यं॑ चिदू॒र्वमु॒शिजो॒ वि व॑व्रु॒स्तेषा॒मनु॑ प्र॒दिवः॑ सस्रु॒रापः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

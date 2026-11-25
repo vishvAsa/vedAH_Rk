@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -72,7 +73,12 @@ u ← u (invariable)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि षु ब्रह्म॒ जना॑नां॒ यावि॑ष्टं॒ तूय॒मा ग॑तम् ।  
+मो ष्व१॒॑न्याँ उपा॑रतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
     begin; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

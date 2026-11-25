@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ tanū́ṣu ← tanū́- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप्र॑क्षितं॒ वसु॑ बिभर्षि॒ हस्त॑यो॒रषा॑ळ्हं॒ सह॑स्त॒न्वि॑ श्रु॒तो द॑धे ।  
+आवृ॑तासोऽव॒तासो॒ न क॒र्तृभि॑स्त॒नूषु॑ ते॒ क्रत॑व इन्द्र॒ भूर॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -69,7 +70,12 @@ mimītam ← √mā- 1 (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दु॒ही॒यन्मि॒त्रधि॑तये यु॒वाकु॑ रा॒ये च॑ नो मिमी॒तं वाज॑वत्यै ।  
+इ॒षे च॑ नो मिमीतं धेनु॒मत्यै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - \[noun\], dative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

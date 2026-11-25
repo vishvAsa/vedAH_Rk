@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ tirasi ← √tr̥̄- 1 (root)
 
 vedhásaḥ ← vedhás- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्व ऊ॒ षु णो॑ अध्वरस्य होत॒रग्ने॒ तिष्ठ॑ दे॒वता॑ता॒ यजी॑यान् ।  
+त्वं हि विश्व॑म॒भ्यसि॒ मन्म॒ प्र वे॒धस॑श्चित्तिरसि मनी॒षाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

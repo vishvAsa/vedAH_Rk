@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ maghávā ← maghávan- (nominal stem)
 
 riṣat ← √riṣ- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दा॒ता मे॒ पृष॑तीनां॒ राजा॑ हिरण्य॒वीना॑म् ।  
+मा दे॑वा म॒घवा॑ रिषत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “suffer; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

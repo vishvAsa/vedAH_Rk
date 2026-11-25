@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -92,7 +93,12 @@ vā́jān ← vā́ja- (nominal stem)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्म॑न्वती रीयते॒ सं र॑भध्व॒मुत्ति॑ष्ठत॒ प्र त॑रता सखायः ।  
+अत्रा॑ जहाम॒ ये अस॒न्नशे॑वाः शि॒वान्व॒यमुत्त॑रेमा॒भि वाजा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

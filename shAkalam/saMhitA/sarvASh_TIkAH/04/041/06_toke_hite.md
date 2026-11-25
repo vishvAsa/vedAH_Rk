@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ dasmā́ ← dasmá- (nominal stem)
 
 páritakmyāyām ← páritakmya- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तो॒के हि॒ते तन॑य उ॒र्वरा॑सु॒ सूरो॒ दृशी॑के॒ वृष॑णश्च॒ पौंस्ये॑ ।  
+इन्द्रा॑ नो॒ अत्र॒ वरु॑णा स्याता॒मवो॑भिर्द॒स्मा परि॑तक्म्यायाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - \[noun\], locative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

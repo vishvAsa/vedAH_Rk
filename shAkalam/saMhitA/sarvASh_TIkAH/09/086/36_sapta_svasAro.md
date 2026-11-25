@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ sómam ← sóma- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्त स्वसा॑रो अ॒भि मा॒तरः॒ शिशुं॒ नवं॑ जज्ञा॒नं जेन्यं॑ विप॒श्चित॑म् ।  
+अ॒पां ग॑न्ध॒र्वं दि॒व्यं नृ॒चक्ष॑सं॒ सोमं॒ विश्व॑स्य॒ भुव॑नस्य रा॒जसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -239,12 +244,6 @@ The seven sisters, as mothers, (go) to the newborn child of worthy birth,  who i
 the heavenly Gandharva of the waters, whose gaze is on men—to  Soma, for the regulation of all creation.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Who the seven sisters (bzw. mothers) are is a matter of dispute: Sāyaṇa.: the streams or rivers, Geldner: thoughts, Renou (flg. Lüders 246): celestial streams/rivers. No one seems to cite the seven milk-cows (saptá dhenávaḥ) in vs. 25 of this same hymn, or their multiplied number (thrice seven) in 21. But in this hymn “cows” seems the mostly likely immediate referent, esp. given the image of maternal care, whatever those cows may otherwise represent (beyond the milk-mixture).
-
-On the expression in the last pāda, see similar phrases in vss. 5 and 28.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/34-36.md">
 <details><summary><h2>34-36 ...{Loading}...</h2></summary>
 
@@ -252,7 +251,6 @@ Nothing much in the way of internal unity or external connection, beyond the obv
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

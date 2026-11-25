@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ kam ← kam (invariable)
 
 śr̥ṇávan ← √śru- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स न॑ ऊ॒र्जे व्य१॒॑व्ययं॑ प॒वित्रं॑ धाव॒ धार॑या ।  
+दे॒वासः॑ शृ॒णव॒न्हि क॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “kaṃ \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

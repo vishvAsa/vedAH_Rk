@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "एवयामरुदात्रेयः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -88,7 +89,12 @@ iṣmíṇaḥ ← iṣmín- (nominal stem)
 
 svāyudhā́saḥ ← svāyudhá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒नो न वोऽम॑वान्रेजय॒द्वृषा॑ त्वे॒षो य॒यिस्त॑वि॒ष ए॑व॒याम॑रुत् ।  
+येना॒ सह॑न्त ऋ॒ञ्जत॒ स्वरो॑चिषः॒ स्थार॑श्मानो हिर॒ण्ययाः॑ स्वायु॒धास॑ इ॒ष्मिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

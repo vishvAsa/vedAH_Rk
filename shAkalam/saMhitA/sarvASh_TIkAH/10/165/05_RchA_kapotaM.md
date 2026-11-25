@@ -4,6 +4,7 @@ devataa = "कपोपहतौ प्रायश्चित्तं वै�
 RShiH = "कपोतो नैऋतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कपोपहतौ प्रायश्चित्तं वैश्वदेवं
@@ -86,7 +87,12 @@ prá ← prá (invariable)
 
 ū́rjam ← ū́rj- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒चा क॒पोतं॑ नुदत प्र॒णोद॒मिषं॒ मद॑न्तः॒ परि॒ गां न॑यध्वम् ।  
+सं॒यो॒पय॑न्तो दुरि॒तानि॒ विश्वा॑ हि॒त्वा न॒ ऊर्जं॒ प्र प॑ता॒त्पति॑ष्ठः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

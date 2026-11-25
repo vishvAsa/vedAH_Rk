@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -72,7 +73,12 @@ jánasya ← jána- (nominal stem)
 
 manyúm ← manyú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद॑ग्ने द्यु॒म्नमा भ॑र॒ यत्सा॒सह॒त्सद॑ने॒ कं चि॑द॒त्रिण॑म् ।  
+म॒न्युं जन॑स्य दू॒ढ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “malevolent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

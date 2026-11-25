@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ satyámantrāḥ ← satyámantra- (nominal stem)
 
 uṣā́sam ← uṣás- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त इद्दे॒वानां॑ सध॒माद॑ आसन्नृ॒तावा॑नः क॒वयः॑ पू॒र्व्यासः॑ ।  
+गू॒ळ्हं ज्योतिः॑ पि॒तरो॒ अन्व॑विन्दन्त्स॒त्यम॑न्त्रा अजनयन्नु॒षास॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “Ushas; dawn; uṣas \[word\]; morning.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,12 +232,6 @@ Those were the feasting companions of the gods: the sage poets of old,  provided
 The Fathers discovered the hidden light. With their mantras that come  true, they generated the Dawn.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although this vs. begins in the same way as vs. 3, the syntax is quite straightforward, with no dependent clauses and the Fathers as subject throughout.
-
-Once again we might consider this an example of poetic repair, given the syntactic difficulties the previous vs. posed.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/076/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -240,7 +239,6 @@ As noted in the published introduction, these two vss. are defined as an omphalo
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

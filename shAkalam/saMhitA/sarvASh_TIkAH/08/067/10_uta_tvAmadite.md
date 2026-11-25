@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -60,7 +61,12 @@ abhíṣṭaye ← abhíṣṭi- (nominal stem)
 
 sumr̥ḷīkā́m ← sumr̥ḷīká- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्वाम॑दिते मह्य॒हं दे॒व्युप॑ ब्रुवे ।  
+सु॒मृ॒ळी॒काम॒भिष्ट॑ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “prevalence; protection.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्यावाश्वः"
 ChandaH = "महापङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -91,7 +92,12 @@ bráhmāṇi ← bráhman- (nominal stem)
 
 vardháyan ← √vr̥dh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्या॒वाश्व॑स्य सुन्व॒तस्तथा॑ शृणु॒ यथाशृ॑णो॒रत्रेः॒ कर्मा॑णि कृण्व॒तः ।  
+प्र त्र॒सद॑स्युमाविथ॒ त्वमेक॒ इन्नृ॒षाह्य॒ इन्द्र॒ ब्रह्मा॑णि व॒र्धय॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “increase; strengthen; promote; rear; add; greet; laud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

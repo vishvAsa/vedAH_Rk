@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ ná ← ná (invariable)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्यामि॑तानि वी॒र्या॒३॒॑ न राधः॒ पर्ये॑तवे ।  
+ज्योति॒र्न विश्व॑म॒भ्यस्ति॒ दक्षि॑णा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

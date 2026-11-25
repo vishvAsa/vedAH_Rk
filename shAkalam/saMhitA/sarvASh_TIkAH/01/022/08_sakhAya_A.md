@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -63,7 +64,12 @@ rā́dhāṁsi ← rā́dhas- (nominal stem)
 
 śumbhati ← √śubh- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सखा॑य॒ आ नि षी॑दत सवि॒ता स्तोम्यो॒ नु नः॑ ।  
+दाता॒ राधां॑सि शुम्भति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “look; shine; beautify.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

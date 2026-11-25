@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -60,7 +61,12 @@ priyáḥ ← priyá- (nominal stem)
 
 vāyáve ← vāyú- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं सोम॑श्च॒मू सु॒तोऽम॑त्रे॒ परि॑ षिच्यते ।  
+प्रि॒य इन्द्रा॑य वा॒यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     draft; vāyu \[word\]; Vāyu; Marut.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

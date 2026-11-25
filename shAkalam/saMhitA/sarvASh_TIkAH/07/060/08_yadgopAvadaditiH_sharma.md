@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ mā́ ← mā́ (invariable)
 
 turāsaḥ ← turá- 1 (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्गो॒पाव॒ददि॑तिः॒ शर्म॑ भ॒द्रं मि॒त्रो यच्छ॑न्ति॒ वरु॑णः सु॒दासे॑ ।  
+तस्मि॒न्ना तो॒कं तन॑यं॒ दधा॑ना॒ मा क॑र्म देव॒हेळ॑नं तुरासः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “powerful; noble; noble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

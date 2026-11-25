@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ várdhantaḥ ← √vr̥dh- (root)
 
 vīryàm ← vīryà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते सोमा॑ अ॒भि प्रि॒यमिन्द्र॑स्य॒ काम॑मक्षरन् ।  
+वर्ध॑न्तो अस्य वी॒र्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

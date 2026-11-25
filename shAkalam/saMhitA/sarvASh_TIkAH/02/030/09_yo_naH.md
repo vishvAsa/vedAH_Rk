@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -89,7 +90,12 @@ rājan ← rā́jan- (nominal stem)
 
 rī́ṣantam ← √riṣ- (root)  
 {case:ACC, gender:M, number:SG, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नः॒ सनु॑त्य उ॒त वा॑ जिघ॒त्नुर॑भि॒ख्याय॒ तं ति॑गि॒तेन॑ विध्य ।  
+बृह॑स्पत॒ आयु॑धैर्जेषि॒ शत्रू॑न्द्रु॒हे रीष॑न्तं॒ परि॑ धेहि राजन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

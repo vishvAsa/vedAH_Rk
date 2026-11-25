@@ -4,6 +4,7 @@ devataa = "मरुतो लिङ्गोक्तदेवता वा"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "पुरउष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतो लिङ्गोक्तदेवता वा
@@ -60,7 +61,12 @@ ca ← ca (invariable)
 
 viśvábhojasam ← viśvábhojas- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒रद्वा॑जा॒याव॑ धुक्षत द्वि॒ता ।  
+धे॒नुं च॑ वि॒श्वदो॑हस॒मिषं॑ च वि॒श्वभो॑जसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “advantage; utility; food.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -169,14 +174,6 @@ _________
 For Bharadvāja, once again, milk both a milk-cow yielding all milk and refreshment yielding all nourishment.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Geldner I take dhukṣata, identical save for the accent to dhúkṣata in 12b, as a 2nd pl. act. impv., not a 3rd sg. mid. injunc. In a n. (13a) Geldner allows the possibility of the latter analysis, which would produce the paradox that a cow is milking a cow.
-
-Renou opts for this latter analysis -- the cow milking herself. Although I am always quick to see paradox in the RV, in this case I think the poet is playing with morphology instead, while bringing the final vs. of this 3-vs. sequence back to the 2nd pl. impvs. of vs. 11.
-
-Note the direct object in balanced coordination, NOUN ca ADJ / NOUN ca ADJ, with both ca-s properly positioned (unlike 10cd above) and with each bahuvrīhi epithet having the shape viśvá-CoCasam.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md">
 <details><summary><h2>11-13 ...{Loading}...</h2></summary>
 
@@ -184,7 +181,6 @@ On these three vss., see published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

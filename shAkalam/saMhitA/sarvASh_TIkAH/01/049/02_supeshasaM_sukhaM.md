@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ duhitar ← duhitár- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒पेश॑सं सु॒खं रथं॒ यम॒ध्यस्था॑ उष॒स्त्वम् ।  
+तेना॑ सु॒श्रव॑सं॒ जनं॒ प्रावा॒द्य दु॑हितर्दिवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

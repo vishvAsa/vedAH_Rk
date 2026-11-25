@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ
@@ -89,7 +90,12 @@ sahásrā ← sahásra- (nominal stem)
 
 śárvā ← śáru- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अह॒न्निन्द्रो॒ अद॑हद॒ग्निरि॑न्दो पु॒रा दस्यू॑न्म॒ध्यन्दि॑नाद॒भीके॑ ।  
+दु॒र्गे दु॑रो॒णे क्रत्वा॒ न या॒तां पु॒रू स॒हस्रा॒ शर्वा॒ नि ब॑र्हीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - \[verb\], singular, Aorist inj. (proh.)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

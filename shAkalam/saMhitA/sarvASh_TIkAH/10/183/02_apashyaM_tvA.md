@@ -4,6 +4,7 @@ devataa = "यजमानपत्नी"
 RShiH = "प्रजावान् प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यजमानपत्नी
@@ -83,7 +84,12 @@ prajáyā ← prajā́- (nominal stem)
 
 putrakāme ← putrakāma- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप॑श्यं त्वा॒ मन॑सा॒ दीध्या॑नां॒ स्वायां॑ त॒नू ऋत्व्ये॒ नाध॑मानाम् ।  
+उप॒ मामु॒च्चा यु॑व॒तिर्ब॑भूयाः॒ प्र जा॑यस्व प्र॒जया॑ पुत्रकामे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

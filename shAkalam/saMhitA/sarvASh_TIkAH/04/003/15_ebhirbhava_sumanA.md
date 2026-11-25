@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sám ← sám (invariable)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒भिर्भ॑व सु॒मना॑ अग्ने अ॒र्कैरि॒मान्त्स्पृ॑श॒ मन्म॑भिः शूर॒ वाजा॑न् ।  
+उ॒त ब्रह्मा॑ण्यङ्गिरो जुषस्व॒ सं ते॑ श॒स्तिर्दे॒ववा॑ता जरेत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “sing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

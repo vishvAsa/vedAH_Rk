@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -86,7 +87,12 @@ vanúṣām ← vanús- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं यु॒वं दा॒श्व॑ध्वराय देवा र॒यिं ध॒त्थो वसु॑मन्तं पुरु॒क्षुम् ।  
+अ॒स्मे स इ॑न्द्रावरुणा॒वपि॑ ष्या॒त्प्र यो भ॒नक्ति॑ व॒नुषा॒मश॑स्तीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “hex.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

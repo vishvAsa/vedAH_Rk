@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -74,7 +75,12 @@ támasaḥ ← támas- (nominal stem)
 
 vímadhye ← vímadhya- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒च्छन्ती॑र॒द्य चि॑तयन्त भो॒जान्रा॑धो॒देया॑यो॒षसो॑ म॒घोनीः॑ ।  
+अ॒चि॒त्रे अ॒न्तः प॒णयः॑ सस॒न्त्वबु॑ध्यमाना॒स्तम॑सो॒ विम॑ध्ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “middle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

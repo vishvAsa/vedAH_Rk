@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -89,7 +90,12 @@ te ← tvám (pronoun)
 
 vapantu ← √vap- 2 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒हि श्रु॒तं ग॑र्त॒सदं॒ युवा॑नं मृ॒गं न भी॒ममु॑पह॒त्नुमु॒ग्रम् ।  
+मृ॒ळा ज॑रि॒त्रे रु॑द्र॒ स्तवा॑नो॒ऽन्यं ते॑ अ॒स्मन्नि व॑पन्तु॒ सेनाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “army; senā \[word\]; armament.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -54,7 +55,12 @@ vā́śībhiḥ ← vā́śī- (nominal stem)
 
 svábhānavaḥ ← svábhānu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये पृष॑तीभिरृ॒ष्टिभिः॑ सा॒कं वाशी॑भिर॒ञ्जिभिः॑ ।  
+अजा॑यन्त॒ स्वभा॑नवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
     copper; light; twelve; appearance; Bhānu; flare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

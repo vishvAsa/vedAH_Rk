@@ -5,13 +5,13 @@ RShiH = "श्रुतिविदात्रेयः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
 - ऋषिः - श्रुतिविदात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -88,7 +88,12 @@ mítra ← mitrá- (nominal stem)
 
 varuṇā ← váruṇa- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॑ श्रु॒ताम॒मतिं॒ वर्ध॑दु॒र्वीं ब॒र्हिरि॑व॒ यजु॑षा॒ रक्ष॑माणा ।  
+नम॑स्वन्ता धृतद॒क्षाधि॒ गर्ते॒ मित्रासा॑थे वरु॒णेळा॑स्व॒न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +211,6 @@ _________
 - “inside; in; antar \[word\]; midmost; between; among.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -256,8 +260,6 @@ Die ihr beschirmt, was wie die Streu mit Andacht dem hehren weiten Schimmer glei
 Принимая поклонения, о действующие твердо, вы сидите  
 На троне, о Митра, о Варуна, среди жертвенных возлияний.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

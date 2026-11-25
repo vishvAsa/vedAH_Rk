@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ r̥tā́vā ← ŕ̥tāvan- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जनो॒ यो मि॑त्रावरुणावभि॒ध्रुग॒पो न वां॑ सु॒नोत्य॑क्ष्णया॒ध्रुक् ।  
+स्व॒यं स यक्ष्मं॒ हृद॑ये॒ नि ध॑त्त॒ आप॒ यदीं॒ होत्रा॑भिरृ॒तावा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “law-abiding; faithful; righteous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

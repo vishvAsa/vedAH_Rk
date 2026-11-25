@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ vajrī́ ← vajrín- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमिन्द्रं॑ जोहवीमि म॒घवा॑नमु॒ग्रं स॒त्रा दधा॑न॒मप्र॑तिष्कुतं॒ शवां॑सि ।  
+मंहि॑ष्ठो गी॒र्भिरा च॑ य॒ज्ञियो॑ व॒वर्त॑द्रा॒ये नो॒ विश्वा॑ सु॒पथा॑ कृणोतु व॒ज्री ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vakṣati ← √vah- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि वेदा॒ वसु॑धितिं म॒हाँ आ॒रोध॑नं दि॒वः ।  
+स दे॒वाँ एह व॑क्षति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

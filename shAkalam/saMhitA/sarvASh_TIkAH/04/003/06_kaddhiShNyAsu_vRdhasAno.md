@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ nr̥ghné ← nr̥hán- (nominal stem)
 
 rudrā́ya ← rudrá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कद्धिष्ण्या॑सु वृधसा॒नो अ॑ग्ने॒ कद्वाता॑य॒ प्रत॑वसे शुभं॒ये ।  
+परि॑ज्मने॒ नास॑त्याय॒ क्षे ब्रवः॒ कद॑ग्ने रु॒द्राय॑ नृ॒घ्ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “killing; curative; destroying; removing; māraka; stabbing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -228,16 +233,6 @@ What (will you say), Agni, having grown strong on the holy places  [=ritual hear
 (what) to the earth-circling (chariot) of the Nāsatyas, for it to appear?  What will you say, Agni, to man-smiting Rudra?
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note that all four pādas rhyme: agne# (a), śubhaṃyé# (b), kṣé# (c), nṛghné (d); also 7ab pūṣṇé# … havirdé#, an unusual effect in RVic verse.
-
-The so-called “double stem” vṛdhasāná- is morphologically anomalous, but belongs to a fairly large group of stems with apparent middle part. in -asāná-. This is not the place to treat the origin of these stems at length, but, with Insler (KZ 82 [1968]), I think the starting point is sahasāná- (5x, 4x of Agni) ‘displaying might’, which he takes as a metathesized form of a pf. mid. part. *sasahāná-, beside sāsahāná- (1x) and the younger type sehāná- (3x). This metathesis was reinforced by the very common s-stem sáhas-, and several other -asāná-stems have s-stems alongside (śavasāná-: śávas-, rabhasāná-: rábhas-, jrayasāná-: jráyas-) and fall into the same general semantic field of strength, power, or violent action (though not one of the best attested, mandasāná- ‘becoming exhilarated’ nor, e.g., dhiyasāná- [2x]).
-
-There is unfortunately no neut. s-stem *vṛ́dhas-, though there is a single attestation of an infinitival dat. vṛdháse with suffixal accent. See also disc. of vṛdhasnú- ad IV.2.3.
-
-Pāda c is problematic, both metrically (it lacks a syllable) and grammatically: this is the only place in the RV where nā́satya- appears in the sg., not the du., and the identity of pāda-final kṣé is disputed. The metrical problem and the kṣé problem can be easily solved together if we adopt the suggestion of Hoffmann registered in Schindler (Root nouns, s.v. kṣā́-) that kṣé is a haplologized form of datival inf. *yakṣé ‘to appear’ in the environment (nā́sati )yāya [ya]kṣé. (Note that yakṣám ‘apparition’ appears in 13a.) This interpr. is also reflected in Witzel Gotō’s rendering, and one way or other it goes back to Ludwig; see Oldenberg (SBE, Noten). The published translation should have an asterisk before “to appear.” As for sg. nā́satyāya, although this analysis is emphatically rejected by both Oldenberg (Noten) and Debrunner (AiG II.2.136), I have adopted Henry’s old suggestion that the form is a vṛddhi adj. of appurtanance whose vṛddhi is invisible because the base already has initial-syllable vṛddhi. We would of course expect the accent to shift to the final syllable (AiG II.2.133ff.), hence *nāsatyá-, but the dominance of the initially accented noun could have altered the accent, possibly redactionally. I supply ‘chariot’ in this dat. expression, since the Aśvins’ chariot is esp. prominent and párijman- modifies their chariot elsewhere (I.20.3, X.41.1). Cf. esp. I.20.3 tákṣan nā́satyābhyām párijmanaṃ sukháṃ rátham “They fashioned the earth-circling wellnaved chariot for the Nāsatyas.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
 <details><summary><h2>05-08 ...{Loading}...</h2></summary>
 
@@ -249,7 +244,6 @@ Although we might have expected the Sun here, because he serves as the Ādityas�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

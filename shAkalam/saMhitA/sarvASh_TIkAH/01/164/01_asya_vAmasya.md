@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ saptáputram ← saptáputra- (nominal stem)
 
 viśpátim ← viśpáti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य वा॒मस्य॑ पलि॒तस्य॒ होतु॒स्तस्य॒ भ्राता॑ मध्य॒मो अ॒स्त्यश्नः॑ ।  
+तृ॒तीयो॒ भ्राता॑ घृ॒तपृ॑ष्ठो अ॒स्यात्रा॑पश्यं वि॒श्पतिं॑ स॒प्तपु॑त्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

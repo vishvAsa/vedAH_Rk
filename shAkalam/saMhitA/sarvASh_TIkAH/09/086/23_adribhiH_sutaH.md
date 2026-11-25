@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ gotrám ← gotrá- (nominal stem)
 
 sóma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद्रि॑भिः सु॒तः प॑वसे प॒वित्र॒ आँ इन्द॒विन्द्र॑स्य ज॒ठरे॑ष्वावि॒शन् ।  
+त्वं नृ॒चक्षा॑ अभवो विचक्षण॒ सोम॑ गो॒त्रमङ्गि॑रोभ्योऽवृणो॒रप॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “away.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -250,12 +255,6 @@ Pressed by the stones, you purify yourself in the filter, o drop, entering  the 
 You have become one whose gaze is on men, wide-gazing one. Soma,  you opened up the cowpen for the Aṅgirases.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The augmented impf. abhavaḥ is somewhat surprising in this context, because, at least in the published translation, it seems to refer to the recent past, rather than to the mythic past of the following (a)vṛṇoḥ. Perhaps, however, it opens the telling of the Vala myth continued in d (and possibly 24ab; see below).
-
-The augment in (a)vṛṇoḥ is quite insecure: the Pp restores it, but it is not found in the Saṃhitā text and is metrically de trop.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -269,7 +268,6 @@ It may also be that 22 continues the theme of 21: in 21a Soma made the dawns shi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

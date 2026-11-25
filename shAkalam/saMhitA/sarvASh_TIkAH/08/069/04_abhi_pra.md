@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ satyásya ← satyá- (nominal stem)
 
 sūnúm ← sūnú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्र गोप॑तिं गि॒रेन्द्र॑मर्च॒ यथा॑ वि॒दे ।  
+सू॒नुं स॒त्यस्य॒ सत्प॑तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “Indra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

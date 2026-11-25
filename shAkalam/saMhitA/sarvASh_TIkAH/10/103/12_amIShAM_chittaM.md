@@ -4,6 +4,7 @@ devataa = "अप्वा देवी"
 RShiH = "अप्रतिरथ ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अप्वा देवी
@@ -89,7 +90,12 @@ sacantām ← √sac- 1 (root)
 
 támasā ← támas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒मीषां॑ चि॒त्तं प्र॑तिलो॒भय॑न्ती गृहा॒णाङ्गा॑न्यप्वे॒ परे॑हि ।  
+अ॒भि प्रेहि॒ निर्द॑ह हृ॒त्सु शोकै॑र॒न्धेना॒मित्रा॒स्तम॑सा सचन्ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ viśvádevaḥ ← viśvádeva- (nominal stem)
 
 viśvákarmā ← viśvákarman- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमि॑न्द्राभि॒भूर॑सि॒ त्वं सूर्य॑मरोचयः ।  
+वि॒श्वक॑र्मा वि॒श्वदे॑वो म॒हाँ अ॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -180,7 +185,6 @@ Accomplishing all deeds, controlling all the gods, you are great.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/098/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -196,7 +200,6 @@ The bahuvrīhi epithet of Indra viśvákarmā (2c) is of course a play on the di
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

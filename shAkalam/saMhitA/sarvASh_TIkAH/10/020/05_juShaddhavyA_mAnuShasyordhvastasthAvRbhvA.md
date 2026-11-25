@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ purás ← purás (invariable)
 
 sádma ← sádman- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जु॒षद्ध॒व्या मानु॑षस्यो॒र्ध्वस्त॑स्था॒वृभ्वा॑ य॒ज्ञे ।  
+मि॒न्वन्त्सद्म॑ पु॒र ए॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

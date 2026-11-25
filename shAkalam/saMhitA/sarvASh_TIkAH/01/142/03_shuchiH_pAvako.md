@@ -4,6 +4,7 @@ devataa = "नराशंसः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नराशंसः
@@ -71,7 +72,12 @@ devéṣu ← devá- (nominal stem)
 
 yajñíyaḥ ← yajñíya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुचिः॑ पाव॒को अद्भु॑तो॒ मध्वा॑ य॒ज्ञं मि॑मिक्षति ।  
+नरा॒शंस॒स्त्रिरा दि॒वो दे॒वो दे॒वेषु॑ य॒ज्ञियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

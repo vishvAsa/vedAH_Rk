@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 
 r̥ñjase ← √r̥j- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ ने॒मिर॒राँ इ॑व दे॒वाँस्त्वं प॑रि॒भूर॑सि ।  
+आ राध॑श्चि॒त्रमृ॑ञ्जसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - \[verb noun\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

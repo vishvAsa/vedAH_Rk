@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -72,7 +73,12 @@ vīráḥ ← vīrá- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि षस्तव॒ नो मम॑ शा॒स्त्रे अ॒न्यस्य॒ रण्य॑ति ।  
+यो अ॒स्मान्वी॒र आन॑यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “bring; pull; take; collect; give; return; withdraw; extract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -194,10 +199,6 @@ _________
 the hero who led us hither.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I take the disgruntled speaker to be the poet and the subject of ráṇyati to be a rival ritualist, who has accepted the new doctrine. The “you or me” of pāda a is rather like the English expression “the likes of you and me,” meaning “ordinary people.” I take the nahí … nó (= ná u) as having domain only over táva and máma, not the anyásya of pāda b. By my rules (Jamison 1997) anyá- in this position should be definite (not Geldner’s indefinite “oder eines anderen…”), and I take its referent to be Indra. The referent of the yáḥ in the rel. clause in c I again take to be Indra (that is, anyásya), rather than the subject of ráṇyati, as Geldner does. The designation vīrá- is of course regularly applied to Indra, and “led us here” can refer both to Indra’s leadership in the acquisition of new territory and to his role in introducing the ritual innovation. And Indra starts off the next verse.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md">
 <details><summary><h2>16-19 ...{Loading}...</h2></summary>
 
@@ -207,7 +208,6 @@ These verses are extensively discussed by Oldenberg and Geldner, with Oldenberg 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

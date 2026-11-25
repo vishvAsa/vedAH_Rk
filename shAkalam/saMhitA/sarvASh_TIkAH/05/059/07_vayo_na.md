@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ párvatasya ← párvata- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वयो॒ न ये श्रेणीः॑ प॒प्तुरोज॒सान्ता॑न्दि॒वो बृ॑ह॒तः सानु॑न॒स्परि॑ ।  
+अश्वा॑स एषामु॒भये॒ यथा॑ वि॒दुः प्र पर्व॑तस्य नभ॒नूँर॑चुच्यवुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     dislodge; miss; deprive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

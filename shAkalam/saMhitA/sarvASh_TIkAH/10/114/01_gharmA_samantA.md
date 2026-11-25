@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सध्रिर्वैरूपो घर्मो वा तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ sahásāmānam ← sahásāman- (nominal stem)
 
 vidúḥ ← √vid- 2 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घ॒र्मा सम॑न्ता त्रि॒वृतं॒ व्या॑पतु॒स्तयो॒र्जुष्टिं॑ मात॒रिश्वा॑ जगाम ।  
+दि॒वस्पयो॒ दिधि॑षाणा अवेषन्वि॒दुर्दे॒वाः स॒हसा॑मानम॒र्कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     beam.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

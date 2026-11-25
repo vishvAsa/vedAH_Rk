@@ -4,6 +4,7 @@ devataa = "विश्वेदेवा ऋत्विजो वा"
 RShiH = "बुधः सौम्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -83,7 +84,12 @@ sakhāyaḥ ← sákhi- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒न्द्रा कृ॑णुध्वं॒ धिय॒ आ त॑नुध्वं॒ नाव॑मरित्र॒पर॑णीं कृणुध्वम् ।  
+इष्कृ॑णुध्व॒मायु॒धारं॑ कृणुध्वं॒ प्राञ्चं॑ य॒ज्ञं प्र ण॑यता सखायः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

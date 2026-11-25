@@ -4,6 +4,7 @@ devataa = "पितरः"
 RShiH = "शङ्खो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पितरः
@@ -83,7 +84,12 @@ té ← sá- ~ tá- (pronoun)
 
 yachata ← √yam- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आसी॑नासो अरु॒णीना॑मु॒पस्थे॑ र॒यिं ध॑त्त दा॒शुषे॒ मर्त्या॑य ।  
+पु॒त्रेभ्यः॑ पितर॒स्तस्य॒ वस्वः॒ प्र य॑च्छत॒ त इ॒होर्जं॑ दधात ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

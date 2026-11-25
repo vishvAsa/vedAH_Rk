@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ goṣā́ḥ ← goṣā́- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जघ्नि॑र्वृ॒त्रम॑मि॒त्रियं॒ सस्नि॒र्वाजं॑ दि॒वेदि॑वे ।  
+गो॒षा उ॑ अश्व॒सा अ॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,7 +183,6 @@ you are a winner of cows and of horses.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -186,7 +190,6 @@ Little evidence of unity, though 19 and 20 share ‘smashing’ and 20 and 21 co
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

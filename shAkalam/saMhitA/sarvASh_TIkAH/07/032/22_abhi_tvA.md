@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ indra ← índra- (nominal stem)
 
 tasthúṣaḥ ← √sthā- (root)  
 {case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि त्वा॑ शूर नोनु॒मोऽदु॑ग्धा इव धे॒नवः॑ ।  
+ईशा॑नम॒स्य जग॑तः स्व॒र्दृश॒मीशा॑नमिन्द्र त॒स्थुषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

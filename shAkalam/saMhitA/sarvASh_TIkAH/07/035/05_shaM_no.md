@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ rájasaḥ ← rájas- (nominal stem)
 
 śám ← śám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नो॒ द्यावा॑पृथि॒वी पू॒र्वहू॑तौ॒ शम॒न्तरि॑क्षं दृ॒शये॑ नो अस्तु ।  
+शं न॒ ओष॑धीर्व॒निनो॑ भवन्तु॒ शं नो॒ रज॑स॒स्पति॑रस्तु जि॒ष्णुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “victorious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

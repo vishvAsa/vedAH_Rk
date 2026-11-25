@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सस आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ devám ← devá- (nominal stem)
 
 yajñéṣu ← yajñá- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां विश्वे॑ स॒जोष॑सो दे॒वासो॑ दू॒तम॑क्रत ।  
+स॒प॒र्यन्त॑स्त्वा कवे य॒ज्ञेषु॑ दे॒वमी॑ळते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “praise; invite; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

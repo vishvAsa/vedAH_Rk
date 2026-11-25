@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "विषमपदा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ pū́rvyam ← pū́rvya- (nominal stem)
 
 vā́jeṣu ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सनि॑तः॒ सुस॑नित॒रुग्र॒ चित्र॒ चेति॑ष्ठ॒ सूनृ॑त ।  
+प्रा॒सहा॑ सम्रा॒ट् सहु॑रिं॒ सह॑न्तं भु॒ज्युं वाजे॑षु॒ पूर्व्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “first; precedent; age-old; excellent; former(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

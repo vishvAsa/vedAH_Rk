@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ sá ← sá- ~ tá- (pronoun)
 
 yakṣat ← √yaj- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्जु॑षत नो॒ गिरो॒ होता॒ यो मानु॑षे॒ष्वा ।  
+स य॑क्ष॒द्दैव्यं॒ जन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

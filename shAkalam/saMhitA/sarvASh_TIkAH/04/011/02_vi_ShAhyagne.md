@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ sumahaḥ ← sumahas- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि षा॑ह्यग्ने गृण॒ते म॑नी॒षां खं वेप॑सा तुविजात॒ स्तवा॑नः ।  
+विश्वे॑भि॒र्यद्वा॒वनः॑ शुक्र दे॒वैस्तन्नो॑ रास्व सुमहो॒ भूरि॒ मन्म॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “hymn; idea; purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -86,7 +87,12 @@ sā́han ← √sah- (root)
 
 śátrūn ← śátru- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जना॑य चि॒द्य ईव॑त उ लो॒कं बृह॒स्पति॑र्दे॒वहू॑तौ च॒कार॑ ।  
+घ्नन्वृ॒त्राणि॒ वि पुरो॑ दर्दरीति॒ जय॒ञ्छत्रूँ॑र॒मित्रा॑न्पृ॒त्सु साह॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “endure; overcome; habituate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

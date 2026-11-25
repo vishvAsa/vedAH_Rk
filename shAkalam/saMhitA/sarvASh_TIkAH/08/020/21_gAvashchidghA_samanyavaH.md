@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ mithás ← mithás (invariable)
 
 rihaté ← √rih- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गाव॑श्चिद्घा समन्यवः सजा॒त्ये॑न मरुतः॒ सब॑न्धवः ।  
+रि॒ह॒ते क॒कुभो॑ मि॒थः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “together; mutually; alternately.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

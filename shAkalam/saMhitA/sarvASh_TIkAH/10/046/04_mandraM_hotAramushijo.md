@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ havyavā́ham ← havyavā́h- (nominal stem)
 
 mā́nuṣeṣu ← mā́nuṣa- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒न्द्रं होता॑रमु॒शिजो॒ नमो॑भिः॒ प्राञ्चं॑ य॒ज्ञं ने॒तार॑मध्व॒राणा॑म् ।  
+वि॒शाम॑कृण्वन्नर॒तिं पा॑व॒कं ह॑व्य॒वाहं॒ दध॑तो॒ मानु॑षेषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “man; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

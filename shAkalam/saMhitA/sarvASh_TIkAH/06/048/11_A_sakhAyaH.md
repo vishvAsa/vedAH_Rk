@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ vácaḥ ← vácas- (nominal stem)
 
 sr̥jádhvam ← √sr̥j- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ स॑खायः सब॒र्दुघां॑ धे॒नुम॑जध्व॒मुप॒ नव्य॑सा॒ वचः॑ ।  
+सृ॒जध्व॒मन॑पस्फुराम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - \[noun\], accusative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,10 +165,6 @@ _________
 Comrades, drive near a juice-yielding milk-cow with your newer speech. Send one who doesn’t kick—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On návyasā vácaḥ # see comm. ad VIII.39.2, I.26.2.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md">
 <details><summary><h2>11-13 ...{Loading}...</h2></summary>
 
@@ -171,7 +172,6 @@ On these three vss., see published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

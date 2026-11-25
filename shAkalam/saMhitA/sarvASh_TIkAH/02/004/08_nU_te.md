@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ svapatyám ← svapatyá- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू ते॒ पूर्व॒स्याव॑सो॒ अधी॑तौ तृ॒तीये॑ वि॒दथे॒ मन्म॑ शंसि ।  
+अ॒स्मे अ॑ग्ने सं॒यद्वी॑रं बृ॒हन्तं॑ क्षु॒मन्तं॒ वाजं॑ स्वप॒त्यं र॒यिं दाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "पुरस्ताद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ ná ← ná (invariable)
 
 vajrivaḥ ← vajrivant- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे ता त॑ इन्द्र सन्तु स॒त्याहिं॑सन्तीरुप॒स्पृशः॑ ।  
+वि॒द्याम॒ यासां॒ भुजो॑ धेनू॒नां न व॑ज्रिवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

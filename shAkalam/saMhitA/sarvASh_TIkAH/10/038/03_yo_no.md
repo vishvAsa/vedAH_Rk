@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रो मुष्कवान्"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vanuyāma ← √vanⁱ- (root)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नो॒ दास॒ आर्यो॑ वा पुरुष्टु॒तादे॑व इन्द्र यु॒धये॒ चिके॑तति ।  
+अ॒स्माभि॑ष्टे सु॒षहाः॑ सन्तु॒ शत्र॑व॒स्त्वया॑ व॒यं तान्व॑नुयाम सङ्ग॒मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     battle; harmony; rendezvous; coupling; sexual activity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

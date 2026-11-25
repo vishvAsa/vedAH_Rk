@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ tmánā ← tmán- (nominal stem)
 
 víṣurūpā ← víṣurūpa- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॑ राजानावध्व॒रे व॑वृत्यां ह॒व्येभि॑रिन्द्रावरुणा॒ नमो॑भिः ।  
+प्र वां॑ घृ॒ताची॑ बा॒ह्वोर्दधा॑ना॒ परि॒ त्मना॒ विषु॑रूपा जिगाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

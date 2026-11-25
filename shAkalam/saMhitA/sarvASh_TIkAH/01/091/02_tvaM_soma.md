@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -83,7 +84,12 @@ dyumnī́ ← dyumnín- (nominal stem)
 
 nr̥cákṣāḥ ← nr̥cákṣas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं सो॑म॒ क्रतु॑भिः सु॒क्रतु॑र्भू॒स्त्वं दक्षैः॑ सु॒दक्षो॑ वि॒श्ववे॑दाः ।  
+त्वं वृषा॑ वृष॒त्वेभि॑र्महि॒त्वा द्यु॒म्नेभि॑र्द्यु॒म्न्य॑भवो नृ॒चक्षाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “eye; look; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ vām ← tvám (pronoun)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एक॑स्मि॒न्योगे॑ भुरणा समा॒ने परि॑ वां स॒प्त स्र॒वतो॒ रथो॑ गात् ।  
+न वा॑यन्ति सु॒भ्वो॑ दे॒वयु॑क्ता॒ ये वां॑ धू॒र्षु त॒रण॑यो॒ वह॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

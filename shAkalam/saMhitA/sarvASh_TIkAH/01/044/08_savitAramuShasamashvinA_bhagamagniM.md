@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ havyavā́ham ← havyavā́h- (nominal stem)
 
 svadhvara ← svadhvará- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒वि॒तार॑मु॒षस॑म॒श्विना॒ भग॑म॒ग्निं व्यु॑ष्टिषु॒ क्षपः॑ ।  
+कण्वा॑सस्त्वा सु॒तसो॑मास इन्धते हव्य॒वाहं॑ स्वध्वर ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

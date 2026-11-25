@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वामित्रजमदग्नी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ tápaḥ ← tápas- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्ये॒दमि॑न्द्र॒ परि॑ षिच्यते॒ मधु॒ त्वं सु॒तस्य॑ क॒लश॑स्य राजसि ।  
+त्वं र॒यिं पु॑रु॒वीरा॑मु नस्कृधि॒ त्वं तपः॑ परि॒तप्या॑जयः॒ स्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “sun; sky; sunlight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

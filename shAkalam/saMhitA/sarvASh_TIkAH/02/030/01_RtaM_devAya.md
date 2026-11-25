@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ prathamáḥ ← prathamá- (nominal stem)
 
 sárgaḥ ← sárga- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तं दे॒वाय॑ कृण्व॒ते स॑वि॒त्र इन्द्रा॑याहि॒घ्ने न र॑मन्त॒ आपः॑ ।  
+अह॑रहर्यात्य॒क्तुर॒पां किया॒त्या प्र॑थ॒मः सर्ग॑ आसाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

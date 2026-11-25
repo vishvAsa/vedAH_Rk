@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ vā ← vā (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वा॑ प्र॒स्रव॑णे दि॒वो मा॒दया॑से॒ स्व॑र्णरे ।  
+यद्वा॑ समु॒द्रे अन्ध॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “Soma; drink; amṛta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

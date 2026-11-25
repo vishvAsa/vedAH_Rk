@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ asti ← √as- 1 (root)
 
 vā́jaḥ ← vā́ja- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नकि॑रस्य सहन्त्य पर्ये॒ता कय॑स्य चित् ।  
+वाजो॑ अस्ति श्र॒वाय्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “celebrated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

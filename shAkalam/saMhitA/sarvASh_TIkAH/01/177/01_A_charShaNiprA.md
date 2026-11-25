@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ yāhi ← √yā- 1 (root)
 
 yuktvā́ ← √yuj- (root)  
 {non-finite:CVB}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ च॑र्षणि॒प्रा वृ॑ष॒भो जना॑नां॒ राजा॑ कृष्टी॒नां पु॑रुहू॒त इन्द्रः॑ ।  
+स्तु॒तः श्र॑व॒स्यन्नव॒सोप॑ म॒द्रिग्यु॒क्त्वा हरी॒ वृष॒णा या॑ह्य॒र्वाङ् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “approaching; facing; less.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ gr̥ṇánti ← √gr̥̄- 1 (root)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न यं हिंस॑न्ति धी॒तयो॒ न वाणी॒रिन्द्रं॒ नक्ष॒न्तीद॒भि व॒र्धय॑न्तीः ।  
+यदि॑ स्तो॒तारः॑ श॒तं यत्स॒हस्रं॑ गृ॒णन्ति॒ गिर्व॑णसं॒ शं तद॑स्मै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

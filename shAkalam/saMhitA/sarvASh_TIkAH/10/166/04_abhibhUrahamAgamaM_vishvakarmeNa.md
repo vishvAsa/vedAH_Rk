@@ -4,6 +4,7 @@ devataa = "सपत्नघ्नं"
 RShiH = "ऋषभो वैराजः शाक्वरो वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सपत्नघ्नं
@@ -83,7 +84,12 @@ sámitim ← sámiti- (nominal stem)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि॒भूर॒हमाग॑मं वि॒श्वक॑र्मेण॒ धाम्ना॑ ।  
+आ व॑श्चि॒त्तमा वो॑ व्र॒तमा वो॒ऽहं समि॑तिं ददे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

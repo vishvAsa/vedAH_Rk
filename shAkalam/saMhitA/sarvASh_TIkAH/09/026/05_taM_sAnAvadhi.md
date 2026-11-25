@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "इध्मवाहो दार्ढच्युतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ bhū́ricakṣasam ← bhū́ricakṣas- (nominal stem)
 
 haryatám ← haryatá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं साना॒वधि॑ जा॒मयो॒ हरिं॑ हिन्व॒न्त्यद्रि॑भिः ।  
+ह॒र्य॒तं भूरि॑चक्षसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “eye; look; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

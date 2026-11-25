@@ -4,6 +4,7 @@ devataa = "प्रस्कण्वस्य दानस्तुतिः (
 RShiH = "कृशः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)
@@ -63,7 +64,12 @@ ná ← ná (invariable)
 
 tastabhuḥ ← √stambhⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं श्वे॒तास॑ उ॒क्षणो॑ दि॒वि तारो॒ न रो॑चन्ते ।  
+म॒ह्ना दिवं॒ न त॑स्तभुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
     constipate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

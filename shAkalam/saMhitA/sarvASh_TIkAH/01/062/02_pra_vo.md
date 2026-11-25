@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ yéna ← yá- (pronoun)
 
 gā́ḥ ← gáv- ~ gó- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॑ म॒हे महि॒ नमो॑ भरध्वमाङ्गू॒ष्यं॑ शवसा॒नाय॒ साम॑ ।  
+येना॑ नः॒ पूर्वे॑ पि॒तरः॑ पद॒ज्ञा अर्च॑न्तो॒ अङ्गि॑रसो॒ गा अवि॑न्दन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “find; detect; marry; get; think.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

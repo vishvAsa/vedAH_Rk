@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ sárvayā ← sárva- (nominal stem)
 
 viśā́ ← víś- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वे॑पयन्ति॒ पर्व॑ता॒न्वि वि॑ञ्चन्ति॒ वन॒स्पती॑न् ।  
+प्रो आ॑रत मरुतो दु॒र्मदा॑ इव॒ देवा॑सः॒ सर्व॑या वि॒शा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

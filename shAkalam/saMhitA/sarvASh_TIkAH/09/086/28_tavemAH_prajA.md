@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ prathamáḥ ← prathamá- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तवे॒माः प्र॒जा दि॒व्यस्य॒ रेत॑स॒स्त्वं विश्व॑स्य॒ भुव॑नस्य राजसि ।  
+अथे॒दं विश्वं॑ पवमान ते॒ वशे॒ त्वमि॑न्दो प्रथ॒मो धा॑म॒धा अ॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -265,14 +270,6 @@ And all this here is under your will, self-purifying one. You are the
 foremost founder of foundations, o drop.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner and Renou (also Ober II.43) construe táva with rétasaḥ (e.g., Geldner “Von deinem himmlischen Samen sind diese Geschöpfe”). I am reluctant to do so because of the parallelism of távemā́ḥ (/ túbhyemā́ḥ) just noted: all three expressions should be rendered in the same general way. In addition Geldner’s tr. essentially assumes rétasaḥ is abl., but its companion adj. divyásya is stubbornly gen. I would therefore stick to my tr., though slightly modified for clarity to “Yours are these offspring of (your) heavenly semen.” For … víśvasya bhúvanasya rājasi, see 5d, which is identical, and 36d … víśvasya bhúvanasya rājáse, in an acc. + inf. phrase.
-
-Pāda c is essentially a restatement of b.
-
-Since dhāma-dhā́- is an etymological figure, I have rendered it as one, rather than ‘establisher of domains’, vel sim.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -282,7 +279,6 @@ In terms of contents, the tṛca insistently asserts Soma’s universal rule ove
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

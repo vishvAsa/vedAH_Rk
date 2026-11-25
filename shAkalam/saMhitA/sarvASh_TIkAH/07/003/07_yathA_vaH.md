@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ pūrbhíḥ ← púr- (nominal stem)
 
 śatám ← śatá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॑ वः॒ स्वाहा॒ग्नये॒ दाशे॑म॒ परीळा॑भिर्घृ॒तव॑द्भिश्च ह॒व्यैः ।  
+तेभि॑र्नो अग्ने॒ अमि॑तै॒र्महो॑भिः श॒तं पू॒र्भिराय॑सीभि॒र्नि पा॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “protect; govern.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

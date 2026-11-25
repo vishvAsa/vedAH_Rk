@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ nā́māni ← nā́man- (nominal stem)
 
 pravaṇé ← pravaṇá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र व॑ ए॒ते सु॒युजो॒ याम॑न्नि॒ष्टये॒ नीची॑र॒मुष्मै॑ य॒म्य॑ ऋता॒वृधः॑ ।  
+सु॒यन्तु॑भिः सर्वशा॒सैर॒भीशु॑भिः॒ क्रिवि॒र्नामा॑नि प्रव॒णे मु॑षायति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “steal; rob.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

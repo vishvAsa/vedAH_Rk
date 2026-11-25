@@ -4,6 +4,7 @@ devataa = "पृथुश्रवसः कानीतस्य दानस�
 RShiH = "वशोश्व्यः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पृथुश्रवसः कानीतस्य दानस्तुतिः
@@ -88,7 +89,12 @@ asyā́ḥ ← ayám (pronoun)
 
 vyúṣi ← vyúṣ- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ स ए॑तु॒ य ईव॒दाँ अदे॑वः पू॒र्तमा॑द॒दे ।  
+यथा॑ चि॒द्वशो॑ अ॒श्व्यः पृ॑थु॒श्रव॑सि कानी॒ते॒३॒॑ऽस्या व्युष्या॑द॒दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     impound; keep; eat; use; distill.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

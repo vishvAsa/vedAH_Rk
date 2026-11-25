@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ kumbhā́n ← kumbhá- (nominal stem)
 
 súrāyāḥ ← súrā- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं न॑रा स्तुव॒ते प॑ज्रि॒याय॑ क॒क्षीव॑ते अरदतं॒ पुरं॑धिम् ।  
+का॒रो॒त॒राच्छ॒फादश्व॑स्य॒ वृष्णः॑ श॒तं कु॒म्भाँ अ॑सिञ्चतं॒ सुरा॑याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “alcohol; surā; surā; surā \[word\]; Devi; wine; tavern.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

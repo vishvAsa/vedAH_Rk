@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -95,7 +96,12 @@ juratā́m ← √jr̥̄- ~ jūr- (root)
 
 tritám ← tritá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चि॒त्रं तद्वो॑ मरुतो॒ याम॑ चेकिते॒ पृश्न्या॒ यदूध॒रप्या॒पयो॑ दु॒हुः ।  
+यद्वा॑ नि॒दे नव॑मानस्य रुद्रियास्त्रि॒तं जरा॑य जुर॒ताम॑दाभ्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “trustworthy; disabused(p).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -271,10 +276,6 @@ or when (they have set) Trita [/the third (heaven)] to scorning (as does)  a roa
 undeceivable sons of Rudra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. strenuously develops the “golden” theme that appeared in 9d -- a color more descriptive of the fiery than the watery. An even stronger indication of the transition to Agni proper is the gerund niṣádyā ‘having sat down’: the lexeme ní √sad is closely associated with Agni’s installation on the ritual ground (see, e.g., the next hymn, II.36.4).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -282,7 +283,6 @@ The ends of the d pādas in these vss. are very similar: 10d … ánnam asmai, 1
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

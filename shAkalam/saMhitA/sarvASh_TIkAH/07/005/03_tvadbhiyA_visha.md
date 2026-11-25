@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -80,7 +81,12 @@ púraḥ ← púr- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वद्भि॒या विश॑ आय॒न्नसि॑क्नीरसम॒ना जह॑ती॒र्भोज॑नानि ।  
+वैश्वा॑नर पू॒रवे॒ शोशु॑चानः॒ पुरो॒ यद॑ग्ने द॒रय॒न्नदी॑देः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “shine; glitter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

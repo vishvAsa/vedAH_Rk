@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sám ← sám (invariable)
 
 vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रा स॑म्बा॒धाद॒भ्या व॑वृत्स्व नो धे॒नुर्न व॒त्सं यव॑सस्य पि॒प्युषी॑ ।  
+स॒कृत्सु ते॑ सुम॒तिभिः॑ शतक्रतो॒ सं पत्नी॑भि॒र्न वृष॑णो नसीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - \[verb\], plural, Aorist optative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उचथ्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ marútaḥ ← marút- (nominal stem)
 
 pávamānasya ← √pū- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ त्य इ॑न्दो॒ अन्ध॑सो दे॒वा मधो॒र्व्य॑श्नते ।  
+पव॑मानस्य म॒रुतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “Marut; vāta; wind; Vayu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

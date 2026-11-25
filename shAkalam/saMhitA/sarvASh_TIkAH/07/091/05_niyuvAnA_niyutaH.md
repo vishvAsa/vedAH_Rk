@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -86,7 +87,12 @@ prīṇānā́ ← √prī- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि॒यु॒वा॒ना नि॒युतः॑ स्पा॒र्हवी॑रा॒ इन्द्र॑वायू स॒रथं॑ यातम॒र्वाक् ।  
+इ॒दं हि वां॒ प्रभृ॑तं॒ मध्वो॒ अग्र॒मध॑ प्रीणा॒ना वि मु॑मुक्तम॒स्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -60,7 +61,12 @@ riṣat ← √riṣ- (root)
 
 tokásya ← toká- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पर्षि॑ दी॒ने ग॑भी॒र आँ उग्र॑पुत्रे॒ जिघां॑सतः ।  
+माकि॑स्तो॒कस्य॑ नो रिषत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “suffer; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

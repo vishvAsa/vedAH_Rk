@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ mahī́bhiḥ ← máh- (nominal stem)
 
 ūtíbhiḥ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ तू न॑ इन्द्र वृत्रहन्न॒स्माक॑म॒र्धमा ग॑हि ।  
+म॒हान्म॒हीभि॑रू॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

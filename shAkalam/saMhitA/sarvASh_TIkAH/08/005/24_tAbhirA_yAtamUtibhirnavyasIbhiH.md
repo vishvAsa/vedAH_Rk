@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ vr̥ṣaṇvasū ← vŕ̥ṣaṇvasu- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ताभि॒रा या॑तमू॒तिभि॒र्नव्य॑सीभिः सुश॒स्तिभिः॑ ।  
+यद्वां॑ वृषण्वसू हु॒वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

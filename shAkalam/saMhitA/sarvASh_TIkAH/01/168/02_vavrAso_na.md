@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ ukṣáṇaḥ ← ukṣán- (nominal stem)
 
 vándyāsaḥ ← vándya- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒व्रासो॒ न ये स्व॒जाः स्वत॑वस॒ इषं॒ स्व॑रभि॒जाय॑न्त॒ धूत॑यः ।  
+स॒ह॒स्रिया॑सो अ॒पां नोर्मय॑ आ॒सा गावो॒ वन्द्या॑सो॒ नोक्षणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “bull; ukṣan \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

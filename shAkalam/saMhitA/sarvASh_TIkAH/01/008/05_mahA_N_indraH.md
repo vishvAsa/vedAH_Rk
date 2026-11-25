@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ prathinā́ ← prathimán- (nominal stem)
 
 śávaḥ ← śávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हाँ इन्द्रः॑ प॒रश्च॒ नु म॑हि॒त्वम॑स्तु व॒ज्रिणे॑ ।  
+द्यौर्न प्र॑थि॒ना शवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

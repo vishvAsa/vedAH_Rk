@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ patheṣṭhā́m ← patheṣṭhā́- (nominal stem)
 
 sthāṇúm ← sthāṇú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता म॑न्दसा॒ना मनु॑षो दुरो॒ण आ ध॒त्तं र॒यिं स॒हवी॑रं वच॒स्यवे॑ ।  
+कृ॒तं ती॒र्थं सु॑प्रपा॒णं शु॑भस्पती स्था॒णुं प॑थे॒ष्ठामप॑ दुर्म॒तिं ह॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

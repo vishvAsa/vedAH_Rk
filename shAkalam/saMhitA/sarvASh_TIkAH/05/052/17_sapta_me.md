@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -88,7 +89,12 @@ ní ← ní (invariable)
 
 rā́dhaḥ ← rā́dhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्त मे॑ स॒प्त शा॒किन॒ एक॑मेका श॒ता द॑दुः ।  
+य॒मुना॑या॒मधि॑ श्रु॒तमुद्राधो॒ गव्यं॑ मृजे॒ नि राधो॒ अश्व्यं॑ मृजे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “purify; polish; rub; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

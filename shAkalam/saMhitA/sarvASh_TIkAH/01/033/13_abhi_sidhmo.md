@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ prá ← prá (invariable)
 
 svā́m ← svá- (pronoun)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि सि॒ध्मो अ॑जिगादस्य॒ शत्रू॒न्वि ति॒ग्मेन॑ वृष॒भेणा॒ पुरो॑ऽभेत् ।  
+सं वज्रे॑णासृजद्वृ॒त्रमिन्द्रः॒ प्र स्वां म॒तिम॑तिर॒च्छाश॑दानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “prevail.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

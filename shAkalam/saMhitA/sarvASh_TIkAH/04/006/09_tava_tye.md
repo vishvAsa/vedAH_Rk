@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ dasmā́ḥ ← dasmá- (nominal stem)
 
 devátātim ← devátāti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ त्ये अ॑ग्ने ह॒रितो॑ घृत॒स्ना रोहि॑तास ऋ॒ज्वञ्चः॒ स्वञ्चः॑ ।  
+अ॒रु॒षासो॒ वृष॑ण ऋजुमु॒ष्का आ दे॒वता॑तिमह्वन्त द॒स्माः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “overlord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

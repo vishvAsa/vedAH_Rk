@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -65,7 +66,12 @@ tvā ← tvám (pronoun)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हस्ता॑भ्यां॒ दश॑शाखाभ्यां जि॒ह्वा वा॒चः पु॑रोग॒वी ।  
+अ॒ना॒म॒यि॒त्नुभ्यां॑ त्वा॒ ताभ्यां॒ त्वोप॑ स्पृशामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “touch; enter (a state); reach; touch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

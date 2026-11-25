@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ stómaiḥ ← stóma- (nominal stem)
 
 vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अहे॑म य॒ज्ञं प॒थामु॑रा॒णा इ॒मां सु॑वृ॒क्तिं वृ॑षणा जुषेथाम् ।  
+श्रु॒ष्टी॒वेव॒ प्रेषि॑तो वामबोधि॒ प्रति॒ स्तोमै॒र्जर॑माणो॒ वसि॑ष्ठः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

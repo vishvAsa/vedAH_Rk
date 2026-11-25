@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ dáyamānaḥ ← √dā- 3 (root)
 
 vásu ← vásu- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमित्स॑खि॒त्व ई॑महे॒ तं रा॒ये तं सु॒वीर्ये॑ ।  
+स श॒क्र उ॒त नः॑ शक॒दिन्द्रो॒ वसु॒ दय॑मानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “share.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

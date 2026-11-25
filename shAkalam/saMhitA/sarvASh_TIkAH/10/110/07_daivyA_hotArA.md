@@ -4,6 +4,7 @@ devataa = "दैव्यौ होतारौ प्रचेतसौ"
 RShiH = "जमदग्निस्तत्सुतो वा रामः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दैव्यौ होतारौ प्रचेतसौ
@@ -77,7 +78,12 @@ prācī́nam ← prācī́na- (nominal stem)
 
 pradíśā ← pradíś- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दैव्या॒ होता॑रा प्रथ॒मा सु॒वाचा॒ मिमा॑ना य॒ज्ञं मनु॑षो॒ यज॑ध्यै ।  
+प्र॒चो॒दय॑न्ता वि॒दथे॑षु का॒रू प्रा॒चीनं॒ ज्योतिः॑ प्र॒दिशा॑ दि॒शन्ता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “describe; give; give; teach.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

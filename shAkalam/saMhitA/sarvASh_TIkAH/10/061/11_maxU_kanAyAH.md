@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sabardúghāyāḥ ← sabardúgha- (nominal stem)
 
 usríyāyāḥ ← usríya- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒क्षू क॒नायाः॑ स॒ख्यं नवी॑यो॒ राधो॒ न रेत॑ ऋ॒तमित्तु॑रण्यन् ।  
+शुचि॒ यत्ते॒ रेक्ण॒ आय॑जन्त सब॒र्दुघा॑याः॒ पय॑ उ॒स्रिया॑याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “cow; dairy product.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

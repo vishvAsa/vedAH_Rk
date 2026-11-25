@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कौत्सो दुर्मित्रो नाम्ना दुर्मित्रो गुणतो वा नाम्ना दुर्मित्रो गुणतः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ sajū́s ← sajū́s (invariable)
 
 sváyaśasam ← sváyaśas- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वा यत्ते॑ त्रे॒तिनी॒ भूद्य॒ज्ञस्य॑ धू॒र्षु सद्म॑न् ।  
+स॒जूर्नावं॒ स्वय॑शसं॒ सचा॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

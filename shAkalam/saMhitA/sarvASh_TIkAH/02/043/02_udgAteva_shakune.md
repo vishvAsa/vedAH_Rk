@@ -4,6 +4,7 @@ devataa = "इन्द्रः (कपिंजलरूपी)"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "अतिशक्वर्यष्टिर्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (कपिंजलरूपी)
@@ -112,7 +113,12 @@ vada ← √vadⁱ- (root)
 
 viśvátas ← viśvátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒द्गा॒तेव॑ शकुने॒ साम॑ गायसि ब्रह्मपु॒त्र इ॑व॒ सव॑नेषु शंससि ।  
+वृषे॑व वा॒जी शिशु॑मतीर॒पीत्या॑ स॒र्वतो॑ नः शकुने भ॒द्रमा व॑द वि॒श्वतो॑ नः शकुने॒ पुण्य॒मा व॑द ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -297,7 +303,6 @@ _________
     diagnose; address; say; pronounce; express; instruct; order.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

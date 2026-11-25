@@ -4,6 +4,7 @@ devataa = "आपो गावो वा"
 RShiH = "मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपो गावो वा
@@ -80,7 +81,12 @@ tiṣṭhatu ← √sthā- (root)
 
 yā́ ← yá- (pronoun)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पुन॑रे॒ता नि व॑र्तन्ताम॒स्मिन्पु॑ष्यन्तु॒ गोप॑तौ ।  
+इ॒हैवाग्ने॒ नि धा॑रये॒ह ति॑ष्ठतु॒ या र॒यिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

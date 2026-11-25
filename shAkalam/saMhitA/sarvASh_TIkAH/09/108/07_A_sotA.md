@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋजिश्वा"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ udaprútam ← udaprút- (nominal stem)
 
 vanakrakṣám ← vanakrakṣá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ सो॑ता॒ परि॑ षिञ्च॒ताश्वं॒ न स्तोम॑म॒प्तुरं॑ रज॒स्तुर॑म् ।  
+व॒न॒क्र॒क्षमु॑द॒प्रुत॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -169,10 +174,6 @@ realms,
 that is howling in the wood and swimming in the waters,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. contains two sleight-of-hand manoeuvres. The first involves the simile and frame with pári ṣiñcata ‘sprinkle around’. This verb ordinarily takes an acc. of the liquid sprinkled; see for ex. the immed. preceding hymn with the same lexeme: IX.107.1 pári … ṣiñcata sutám “sprinkle around the pressed (drink).” But the acc. in the simile, áśvaṃ ná is the target of the sprinkling, not the liquid. So although the cases agree (implicitly: there is no expressed acc. in the frame), they have different syntactic functions (the opposite of my “case disharmony”). So Geldner explicitly (n. 7a). For horses as obj. with √sic, see IV.43.6 síndhur ha vāṃ rasáyā siñcad áśvān “The Sindhu River sprinkles your [=Aśvins’] horses with the Rasā.” The 2nd sleight of hand follows immediately. Both the verb and the string of acc. that follow demand the obj. *sómam, but instead we find the near rhyme form stómam ‘praise’. Rather than emend this to the easier reading (as Oldenberg seems inclined to do, along with numerous others; see his comm.), it is better to accept the implicit equation of the two ritual elements: the offered liquid and the offered words. This is not the only place in the RV where this trope is found.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -180,7 +181,6 @@ Once again the 2nd vs. is syntactically dependent on the 1st in this pragātha: 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

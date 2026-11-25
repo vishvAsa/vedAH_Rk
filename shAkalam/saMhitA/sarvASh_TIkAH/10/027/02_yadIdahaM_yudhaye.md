@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sutám ← √su- (root)
 
 tīvrám ← tīvrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदीद॒हं यु॒धये॑ सं॒नया॒न्यदे॑वयून्त॒न्वा॒३॒॑ शूशु॑जानान् ।  
+अ॒मा ते॒ तुम्रं॑ वृष॒भं प॑चानि ती॒व्रं सु॒तं प॑ञ्चद॒शं नि षि॑ञ्चम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

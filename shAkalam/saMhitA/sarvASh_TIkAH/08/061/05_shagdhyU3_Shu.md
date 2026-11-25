@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ cárāmasi ← √carⁱ- (root)
 
 śūra ← śū́ra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒ग्ध्यू॒३॒॑ षु श॑चीपत॒ इन्द्र॒ विश्वा॑भिरू॒तिभिः॑ ।  
+भगं॒ न हि त्वा॑ य॒शसं॑ वसु॒विद॒मनु॑ शूर॒ चरा॑मसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     heed; process; administer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

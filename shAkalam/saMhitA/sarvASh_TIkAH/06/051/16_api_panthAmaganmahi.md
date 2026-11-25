@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -68,7 +69,12 @@ vindáte ← √vid- 1 (root)
 
 vr̥ṇákti ← √vr̥j- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपि॒ पन्था॑मगन्महि स्वस्ति॒गाम॑ने॒हस॑म् ।  
+येन॒ विश्वाः॒ परि॒ द्विषो॑ वृ॒णक्ति॑ वि॒न्दते॒ वसु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

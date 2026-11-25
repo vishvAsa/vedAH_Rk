@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -60,7 +61,12 @@ gatam ← √gam- (root)
 
 narā ← nár- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा जु॑षेथां॒ सव॑ना॒ येभि॑र्ह॒व्यान्यू॒हथुः॑ ।  
+इन्द्रा॑ग्नी॒ आ ग॑तं नरा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

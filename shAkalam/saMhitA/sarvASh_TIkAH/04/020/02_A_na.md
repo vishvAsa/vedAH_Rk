@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ vā́jasātau ← vā́jasāti- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ न॒ इन्द्रो॒ हरि॑भिर्या॒त्वच्छा॑र्वाची॒नोऽव॑से॒ राध॑से च ।  
+तिष्ठा॑ति व॒ज्री म॒घवा॑ विर॒प्शीमं य॒ज्ञमनु॑ नो॒ वाज॑सातौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “victory; battle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

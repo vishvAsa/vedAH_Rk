@@ -4,6 +4,7 @@ devataa = "विश्वामित्रः"
 RShiH = "नद्यः ऋषिकाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वामित्रः
@@ -92,7 +93,12 @@ máryāya ← márya- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ते॑ कारो शृणवामा॒ वचां॑सि य॒याथ॑ दू॒रादन॑सा॒ रथे॑न ।  
+नि ते॑ नंसै पीप्या॒नेव॒ योषा॒ मर्या॑येव क॒न्या॑ शश्व॒चै ते॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

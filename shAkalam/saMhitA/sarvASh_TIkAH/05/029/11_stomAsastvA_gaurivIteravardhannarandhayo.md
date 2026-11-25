@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ paktī́ḥ ← paktí- (nominal stem)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तोमा॑सस्त्वा॒ गौरि॑वीतेरवर्ध॒न्नर॑न्धयो वैदथि॒नाय॒ पिप्रु॑म् ।  
+आ त्वामृ॒जिश्वा॑ स॒ख्याय॑ चक्रे॒ पच॑न्प॒क्तीरपि॑बः॒ सोम॑मस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

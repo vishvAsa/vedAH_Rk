@@ -4,6 +4,7 @@ devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मन्युः
@@ -95,7 +96,12 @@ svā́ ← svá- (pronoun)
 
 tanū́ḥ ← tanū́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भा॒गः सन्नप॒ परे॑तो अस्मि॒ तव॒ क्रत्वा॑ तवि॒षस्य॑ प्रचेतः ।  
+तं त्वा॑ मन्यो अक्र॒तुर्जि॑हीळा॒हं स्वा त॒नूर्ब॑ल॒देया॑य॒ मेहि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

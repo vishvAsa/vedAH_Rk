@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ varāhám ← varāhá- (nominal stem)
 
 vídhyat ← √vyadh- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्येदु॑ मा॒तुः सव॑नेषु स॒द्यो म॒हः पि॒तुं प॑पि॒वाञ्चार्वन्ना॑ ।  
+मु॒षा॒यद्विष्णुः॑ पच॒तं सही॑या॒न्विध्य॑द्वरा॒हं ति॒रो अद्रि॒मस्ता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “shoot; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

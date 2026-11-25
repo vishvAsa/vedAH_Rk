@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ anavadyā́bhiḥ ← anavadyá- (nominal stem)
 
 gahi ← √gam- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स न॑श्चि॒त्राभि॑रद्रिवोऽनव॒द्याभि॑रू॒तिभिः॑ ।  
+अना॑धृष्टाभि॒रा ग॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

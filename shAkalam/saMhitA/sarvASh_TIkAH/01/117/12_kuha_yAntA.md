@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ daśamé ← daśamá- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कुह॒ यान्ता॑ सुष्टु॒तिं का॒व्यस्य॒ दिवो॑ नपाता वृषणा शयु॒त्रा ।  
+हिर॑ण्यस्येव क॒लशं॒ निखा॑त॒मुदू॑पथुर्दश॒मे अ॑श्वि॒नाह॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “day; day; ahar \[word\]; day; day.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

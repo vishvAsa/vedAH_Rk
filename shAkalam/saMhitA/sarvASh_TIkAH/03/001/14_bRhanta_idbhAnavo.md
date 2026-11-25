@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ dúhānāḥ ← √duh- (root)
 
 ūrvé ← ūrvá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हन्त॒ इद्भा॒नवो॒ भाऋ॑जीकम॒ग्निं स॑चन्त वि॒द्युतो॒ न शु॒क्राः ।  
+गुहे॑व वृ॒द्धं सद॑सि॒ स्वे अ॒न्तर॑पा॒र ऊ॒र्वे अ॒मृतं॒ दुहा॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

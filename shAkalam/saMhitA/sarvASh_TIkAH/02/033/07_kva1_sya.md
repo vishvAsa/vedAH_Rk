@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -86,7 +87,12 @@ nú ← nú (invariable)
 
 vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्व१॒॑ स्य ते॑ रुद्र मृळ॒याकु॒र्हस्तो॒ यो अस्ति॑ भेष॒जो जला॑षः ।  
+अ॒प॒भ॒र्ता रप॑सो॒ दैव्य॑स्या॒भी नु मा॑ वृषभ चक्षमीथाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “forgive; can; endure; permit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

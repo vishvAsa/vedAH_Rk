@@ -4,6 +4,7 @@ devataa = "यमी वैवस्वती"
 RShiH = "यमो वैवस्वतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमी वैवस्वती
@@ -89,7 +90,12 @@ pári ← pári (invariable)
 
 urviyā́ ← urviyā́ (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न ते॒ सखा॑ स॒ख्यं व॑ष्ट्ये॒तत्सल॑क्ष्मा॒ यद्विषु॑रूपा॒ भवा॑ति ।  
+म॒हस्पु॒त्रासो॒ असु॑रस्य वी॒रा दि॒वो ध॒र्तार॑ उर्वि॒या परि॑ ख्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “name; describe; call; enumerate; watch; know.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

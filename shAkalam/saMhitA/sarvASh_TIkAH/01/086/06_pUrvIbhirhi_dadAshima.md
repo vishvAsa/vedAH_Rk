@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -54,7 +55,12 @@ vayám ← ahám (pronoun)
 
 carṣaṇīnā́m ← carṣaṇí- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒र्वीभि॒र्हि द॑दाशि॒म श॒रद्भि॑र्मरुतो व॒यम् ।  
+अवो॑भिश्चर्षणी॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - “people.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "दैव्यौ होतारौ प्रचेतसौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दैव्यौ होतारौ प्रचेतसौ
@@ -83,7 +84,12 @@ vanathaḥ ← √vanⁱ- (root)
 
 vā́ryāṇi ← vā́rya- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विप्रा॑ य॒ज्ञेषु॒ मानु॑षेषु का॒रू मन्ये॑ वां जा॒तवे॑दसा॒ यज॑ध्यै ।  
+ऊ॒र्ध्वं नो॑ अध्व॒रं कृ॑तं॒ हवे॑षु॒ ता दे॒वेषु॑ वनथो॒ वार्या॑णि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “wealth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

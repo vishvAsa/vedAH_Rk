@@ -5,6 +5,7 @@ RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रः
@@ -17,7 +18,6 @@ ChandaH = "त्रिष्टुप्"
 प्र स मि॑त्र॒ मर्तो॑ अस्तु॒ प्रय॑स्वा॒न्यस्त॑ आदित्य॒ शिक्ष॑ति व्र॒तेन॑ ।   
 न ह॑न्यते॒ न जी॑यते॒ त्वोतो॒ नैन॒मँहो॑ अश्ञो॒त्यन्ति॑तो॒ न दू॒रात् ।
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -109,7 +109,12 @@ ná ← ná (invariable)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स मि॑त्र॒ मर्तो॑ अस्तु॒ प्रय॑स्वा॒न्यस्त॑ आदित्य॒ शिक्ष॑ति व्र॒तेन॑ ।  
+न ह॑न्यते॒ न जी॑यते॒ त्वोतो॒ नैन॒मंहो॑ अश्नो॒त्यन्ति॑तो॒ न दू॒रात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -263,7 +268,6 @@ _________
 - “far.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -319,8 +323,6 @@ Der Mensch, o Mitra, sei vor allen glücklich, der dir, Aditja, dient nach deine
 Неистребим (и) непобедим поддерживаемый тобою,  
 Не настигнет его беда ни вблизи, ни издалека.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

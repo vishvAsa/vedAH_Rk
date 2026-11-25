@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ citrávājān ← citrávāja- (nominal stem)
 
 vavr̥tyā́m ← √vr̥t- (root)  
 {number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओ षु वृष्णः॒ प्रय॑ज्यू॒ना नव्य॑से सुवि॒ताय॑ ।  
+व॒वृ॒त्यां चि॒त्रवा॑जान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,7 +172,6 @@ would turn them who bring glittering prizes.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/32-33.md">
 <details><summary><h2>32-33 ...{Loading}...</h2></summary>
 
@@ -175,7 +179,6 @@ Note opening 32a #saho ṣu / 33a #o ṣu. Holland & van Nooten Rig Veda edition
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

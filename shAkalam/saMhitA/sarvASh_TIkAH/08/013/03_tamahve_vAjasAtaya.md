@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -67,7 +68,12 @@ sákhā ← sákhi- (nominal stem)
 
 vr̥dhé ← vŕ̥dh- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम॑ह्वे॒ वाज॑सातय॒ इन्द्रं॒ भरा॑य शु॒ष्मिण॑म् ।  
+भवा॑ नः सु॒म्ने अन्त॑मः॒ सखा॑ वृ॒धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

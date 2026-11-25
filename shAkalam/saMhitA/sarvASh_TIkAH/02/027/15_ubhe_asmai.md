@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -89,7 +90,12 @@ sādhū́ ← sādhú- (nominal stem)
 
 ubhaú ← ubhá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भे अ॑स्मै पीपयतः समी॒ची दि॒वो वृ॒ष्टिं सु॒भगो॒ नाम॒ पुष्य॑न् ।  
+उ॒भा क्षया॑वा॒जय॑न्याति पृ॒त्सूभावर्धौ॑ भवतः सा॒धू अ॑स्मै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

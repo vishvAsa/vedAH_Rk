@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कलिः प्रगाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ ná ← ná (invariable)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं घा॑ ते॒ अपू॒र्व्येन्द्र॒ ब्रह्मा॑णि वृत्रहन् ।  
+पु॒रू॒तमा॑सः पुरुहूत वज्रिवो भृ॒तिं न प्र भ॑रामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

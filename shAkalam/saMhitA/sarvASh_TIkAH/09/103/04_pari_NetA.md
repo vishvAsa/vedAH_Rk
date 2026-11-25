@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "द्वित आप्त्यः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ sómaḥ ← sóma- (nominal stem)
 
 viśat ← √viś- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ णे॒ता म॑ती॒नां वि॒श्वदे॑वो॒ अदा॑भ्यः ।  
+सोमः॑ पुना॒नश्च॒म्वो॑र्विश॒द्धरिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     haritāla; Hari; snake; frog.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

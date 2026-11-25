@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ té ← sá- ~ tá- (pronoun)
 
 vasavyàm ← vasavyà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यमे॑षाम॒मृता॑नां॒ गीः स॒र्वता॑ता॒ ये कृ॒पण॑न्त॒ रत्न॑म् ।  
+धियं॑ च य॒ज्ञं च॒ साध॑न्त॒स्ते नो॑ धान्तु वस॒व्य१॒॑मसा॑मि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “perfect; complete; entire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

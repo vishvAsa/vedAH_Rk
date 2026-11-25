@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ vidā́si ← √vid- 1 (root)
 
 yáyā ← yá- (pronoun)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नः॑ पवस्व॒ धार॑या॒ पव॑मान र॒यिं पृ॒थुम् ।  
+यया॒ ज्योति॑र्वि॒दासि॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

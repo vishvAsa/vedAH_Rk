@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -92,7 +93,12 @@ svastíbhiḥ ← svastí- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒दि॒त्या विश्वे॑ म॒रुत॑श्च॒ विश्वे॑ दे॒वाश्च॒ विश्व॑ ऋ॒भव॑श्च॒ विश्वे॑ ।  
+इन्द्रो॑ अ॒ग्निर॒श्विना॑ तुष्टुवा॒ना यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

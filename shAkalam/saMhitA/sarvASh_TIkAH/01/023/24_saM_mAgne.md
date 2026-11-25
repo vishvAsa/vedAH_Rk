@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ sahá ← sahá (invariable)
 
 vidyāt ← √vid- 2 (root)  
 {number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं मा॑ग्ने॒ वर्च॑सा सृज॒ सं प्र॒जया॒ समायु॑षा ।  
+वि॒द्युर्मे॑ अस्य दे॒वा इन्द्रो॑ विद्यात्स॒ह ऋषि॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

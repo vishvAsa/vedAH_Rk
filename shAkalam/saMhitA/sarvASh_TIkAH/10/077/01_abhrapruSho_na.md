@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 śobháse ← √śubh- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भ्र॒प्रुषो॒ न वा॒चा प्रु॑षा॒ वसु॑ ह॒विष्म॑न्तो॒ न य॒ज्ञा वि॑जा॒नुषः॑ ।  
+सु॒मारु॑तं॒ न ब्र॒ह्माण॑म॒र्हसे॑ ग॒णम॑स्तोष्येषां॒ न शो॒भसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “look; shine; beautify.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

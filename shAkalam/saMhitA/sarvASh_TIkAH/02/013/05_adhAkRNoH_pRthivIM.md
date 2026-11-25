@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ sá ← sá- ~ tá- (pronoun)
 
 ukthyàḥ ← ukthyà- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑कृणोः पृथि॒वीं सं॒दृशे॑ दि॒वे यो धौ॑ती॒नाम॑हिह॒न्नारि॑णक्प॒थः ।  
+तं त्वा॒ स्तोमे॑भिरु॒दभि॒र्न वा॒जिनं॑ दे॒वं दे॒वा अ॑जन॒न्त्सास्यु॒क्थ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -260,7 +266,6 @@ _________
 - “applaudable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ pūrbhíttamam ← pūrbhíttama- (nominal stem)
 
 rāyáḥ ← rayí- ~ rāy- (nominal stem)  
 {gender:M}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒प॒मं त्वा॑ म॒घोनां॒ ज्येष्ठं॑ च वृष॒भाणा॑म् ।  
+पू॒र्भित्त॑मं मघवन्निन्द्र गो॒विद॒मीशा॑नं रा॒य ई॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

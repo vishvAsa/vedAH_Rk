@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ váṁsva ← √vanⁱ- (root)
 
 vā́ryā ← vā́rya- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि ते॑ अग्ने वृषभ प्रति॒धृषे॒ जम्भा॑सो॒ यद्वि॒तिष्ठ॑से ।  
+स त्वं नो॑ होतः॒ सुहु॑तं ह॒विष्कृ॑धि॒ वंस्वा॑ नो॒ वार्या॑ पु॒रु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “many; much(a); very.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

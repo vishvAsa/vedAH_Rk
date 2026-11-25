@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ devā́n ← devá- (nominal stem)
 
 marútaḥ ← marút- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ रु॒द्रस्य॑ सू॒नवो॑ नमन्ताम॒द्या हू॒तासो॒ वस॒वोऽधृ॑ष्टाः ।  
+यदी॒मर्भे॑ मह॒ति वा॑ हि॒तासो॑ बा॒धे म॒रुतो॒ अह्वा॑म दे॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

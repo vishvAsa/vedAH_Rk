@@ -4,6 +4,7 @@ devataa = "शुनासीरौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "पुरउष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शुनासीरौ
@@ -66,7 +67,12 @@ téna ← sá- ~ tá- (pronoun)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुना॑सीरावि॒मां वाचं॑ जुषेथां॒ यद्दि॒वि च॒क्रथुः॒ पयः॑ ।  
+तेने॒मामुप॑ सिञ्चतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

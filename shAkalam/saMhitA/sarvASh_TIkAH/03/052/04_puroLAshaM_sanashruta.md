@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ krátuḥ ← krátu- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रो॒ळाशं॑ सनश्रुत प्रातःसा॒वे जु॑षस्व नः ।  
+इन्द्र॒ क्रतु॒र्हि ते॑ बृ॒हन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ divé-dive ← dyú- ~ div- (nominal stem)
 
 viviṣuḥ ← √viṣ- 2 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सर्गे॑ण॒ शव॑सा त॒क्तो अत्यै॑र॒प इन्द्रो॑ दक्षिण॒तस्तु॑रा॒षाट् ।  
+इ॒त्था सृ॑जा॒ना अन॑पावृ॒दर्थं॑ दि॒वेदि॑वे विविषुरप्रमृ॒ष्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

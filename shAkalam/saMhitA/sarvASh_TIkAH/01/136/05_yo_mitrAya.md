@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -122,7 +123,13 @@ stómaiḥ ← stóma- (nominal stem)
 
 vratám ← vratá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो मि॒त्राय॒ वरु॑णा॒यावि॑ध॒ज्जनो॑ऽन॒र्वाणं॒ तं परि॑ पातो॒ अंह॑सो दा॒श्वांसं॒ मर्त॒मंह॑सः ।  
+तम॑र्य॒माभि र॑क्षत्यृजू॒यन्त॒मनु॑ व्र॒तम् ।  
+उ॒क्थैर्य ए॑नोः परि॒भूष॑ति व्र॒तं स्तोमै॑रा॒भूष॑ति व्र॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -308,7 +315,6 @@ _________
     \[word\]; rule; behavior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "राज्ञस्तुतिः"
 RShiH = "ध्रुवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राज्ञस्तुतिः
@@ -74,7 +75,12 @@ karat ← √kr̥- (root)
 
 víśaḥ ← víś- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ध्रु॒वं ध्रु॒वेण॑ ह॒विषा॒भि सोमं॑ मृशामसि ।  
+अथो॑ त॒ इन्द्रः॒ केव॑ली॒र्विशो॑ बलि॒हृत॑स्करत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

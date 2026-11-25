@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "नाभाकः काण्वः अर्चनाना वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -83,7 +84,12 @@ víśvā ← víśva- (nominal stem)
 
 vratā́ni ← vratá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्त॑भ्ना॒द्द्यामसु॑रो वि॒श्ववे॑दा॒ अमि॑मीत वरि॒माणं॑ पृथि॒व्याः ।  
+आसी॑द॒द्विश्वा॒ भुव॑नानि स॒म्राड्विश्वेत्तानि॒ वरु॑णस्य व्र॒तानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     \[word\]; rule; behavior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

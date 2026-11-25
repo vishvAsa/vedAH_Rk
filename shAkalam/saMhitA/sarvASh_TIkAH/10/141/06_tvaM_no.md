@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अग्निस्तापसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ dā́nāya ← dā́na- (nominal stem)
 
 rāyáḥ ← rayí- ~ rāy- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नो॑ अग्ने अ॒ग्निभि॒र्ब्रह्म॑ य॒ज्ञं च॑ वर्धय ।  
+त्वं नो॑ दे॒वता॑तये रा॒यो दाना॑य चोदय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “impel; drive; incite; command; drive; arouse; propel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

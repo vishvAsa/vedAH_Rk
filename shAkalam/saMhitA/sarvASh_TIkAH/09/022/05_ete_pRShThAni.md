@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ utá ← utá (invariable)
 
 uttamám ← uttamá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते पृ॒ष्ठानि॒ रोद॑सोर्विप्र॒यन्तो॒ व्या॑नशुः ।  
+उ॒तेदमु॑त्त॒मं रजः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -161,12 +166,6 @@ world-halves,
 and this highest airy space.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-See remarks ad vs. 3.
-
-The part. viprayántaḥ presumably belongs to the lexeme ví-prá √i, but note that it could also be interpr. as belonging to a denom. *vipra-yá- ‘behave like [/seek] an inspired poet’, which would connect this vs. further with the poetic pervasion of vs. 3. The suggested denom. stem is not attested but could of course be easily formed, and I’m tolerably sure this pun was meant. Note vipāscítaḥ and vipā́, both in the matching vs. 3. I would now slightly alter the tr. to “going forth widely [/behaving like inspired poets].”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -177,7 +176,6 @@ Meanwhile, 3rd pl. pf. (vy) ā̀naśuḥ of 3c, 5b morphs into 3rd pl. root aor.
 My “that is to be higher still” is meant to capture the pseudo-gerundive form of the nonce uttamā́yi ya-.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

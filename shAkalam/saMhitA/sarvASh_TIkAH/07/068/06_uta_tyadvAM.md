@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -72,7 +73,12 @@ várpaḥ ← várpas- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्यद्वां॑ जुर॒ते अ॑श्विना भू॒च्च्यवा॑नाय प्र॒तीत्यं॑ हवि॒र्दे ।  
+अधि॒ यद्वर्प॑ इ॒तऊ॑ति ध॒त्थः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

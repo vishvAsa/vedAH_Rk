@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ tántum ← tántu- (nominal stem)
 
 viyántaḥ ← √i- 1 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒ता॒यिनी॑ मा॒यिनी॒ सं द॑धाते मि॒त्वा शिशुं॑ जज्ञतुर्व॒र्धय॑न्ती ।  
+विश्व॑स्य॒ नाभिं॒ चर॑तो ध्रु॒वस्य॑ क॒वेश्चि॒त्तन्तुं॒ मन॑सा वि॒यन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “disappear; differ; elapse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

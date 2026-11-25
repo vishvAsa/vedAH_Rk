@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -100,7 +101,12 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 svarā́jyam ← svarā́jya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रेह्य॒भी॑हि धृष्णु॒हि न ते॒ वज्रो॒ नि यं॑सते ।  
+इन्द्र॑ नृ॒म्णं हि ते॒ शवो॒ हनो॑ वृ॒त्रं जया॑ अ॒पोऽर्च॒न्ननु॑ स्व॒राज्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “kingdom; kingship; sovereignty; rājya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

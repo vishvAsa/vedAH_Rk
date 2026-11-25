@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ ná ← ná (invariable)
 
 śíśuḥ ← śíśu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्रत्वा॒ हि द्रोणे॑ अ॒ज्यसेऽग्ने॑ वा॒जी न कृत्व्यः॑ ।  
+परि॑ज्मेव स्व॒धा गयोऽत्यो॒ न ह्वा॒र्यः शिशुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “young; matutinal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

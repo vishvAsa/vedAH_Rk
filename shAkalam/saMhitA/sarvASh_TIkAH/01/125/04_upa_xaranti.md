@@ -4,6 +4,7 @@ devataa = "स्वनयस्य दानस्तुतिः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वनयस्य दानस्तुतिः
@@ -89,7 +90,12 @@ viśvátas ← viśvátas (invariable)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ क्षरन्ति॒ सिन्ध॑वो मयो॒भुव॑ ईजा॒नं च॑ य॒क्ष्यमा॑णं च धे॒नवः॑ ।  
+पृ॒णन्तं॑ च॒ पपु॑रिं च श्रव॒स्यवो॑ घृ॒तस्य॒ धारा॒ उप॑ यन्ति वि॒श्वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “everywhere; around; about.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -259,7 +264,6 @@ I would also slightly alter the tr. of the phrase in b to “the one who has sac
 Streams, health-bringing, like milch cows,  
 Pour up to the man who hath sacrificed and shall sacrifice; Him who filleth and satiateth [4], bringing fame,  
 Streams of ghee approach on all sides.
-
 </details>
 
 <details><summary>Griffith</summary>

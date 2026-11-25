@@ -4,6 +4,7 @@ devataa = "सरण्यूः"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरण्यूः
@@ -89,7 +90,12 @@ saraṇyū́ḥ ← saraṇyú- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपा॑गूहन्न॒मृतां॒ मर्त्ये॑भ्यः कृ॒त्वी सव॑र्णामददु॒र्विव॑स्वते ।  
+उ॒ताश्विना॑वभर॒द्यत्तदासी॒दज॑हादु॒ द्वा मि॑थु॒ना स॑र॒ण्यूः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ vā́dhryaśvasya ← vā́dhryaśva- (nominal stem)
 
 vocam ← √vac- (root)  
 {number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भवा॑ द्यु॒म्नी वा॑ध्र्यश्वो॒त गो॒पा मा त्वा॑ तारीद॒भिमा॑ति॒र्जना॑नाम् ।  
+शूर॑ इव धृ॒ष्णुश्च्यव॑नः सुमि॒त्रः प्र नु वो॑चं॒ वाध्र्य॑श्वस्य॒ नाम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     word.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

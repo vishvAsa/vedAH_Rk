@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -92,7 +93,12 @@ raghuyā́- ← raghuyā́ (invariable)
 
 váyaḥ ← ví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सी॑मादि॒त्यो अ॑सृजद्विध॒र्ताँ ऋ॒तं सिन्ध॑वो॒ वरु॑णस्य यन्ति ।  
+न श्रा॑म्यन्ति॒ न वि मु॑चन्त्ये॒ते वयो॒ न प॑प्तू रघु॒या परि॑ज्मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

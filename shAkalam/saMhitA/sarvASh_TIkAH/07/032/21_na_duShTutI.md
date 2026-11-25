@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ pā́rye ← pā́rya- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न दु॑ष्टु॒ती मर्त्यो॑ विन्दते॒ वसु॒ न स्रेध॑न्तं र॒यिर्न॑शत् ।  
+सु॒शक्ति॒रिन्म॑घव॒न्तुभ्यं॒ माव॑ते दे॒ष्णं यत्पार्ये॑ दि॒वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

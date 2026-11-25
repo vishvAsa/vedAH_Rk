@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ vā́jeṣu ← vā́ja- (nominal stem)
 
 yújam ← yúj- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒या चि॒त्तो वि॒पानया॒ हरिः॑ पवस्व॒ धार॑या ।  
+युजं॒ वाजे॑षु चोदय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “impel; drive; incite; command; drive; arouse; propel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,7 +161,6 @@ Spur on your yokemate to the prizes.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -164,7 +168,6 @@ Again, no particular signs of unity.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

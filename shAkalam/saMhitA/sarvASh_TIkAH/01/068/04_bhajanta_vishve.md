@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -52,7 +53,11 @@ r̥tám ← r̥tá- (nominal stem)
 
 sápantaḥ ← √sap- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भज॑न्त॒ विश्वे॑ देव॒त्वं नाम॑ ऋ॒तं सप॑न्तो अ॒मृत॒मेवैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +123,6 @@ _________
 - “eva \[word\]; habit; manner; behavior; custom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

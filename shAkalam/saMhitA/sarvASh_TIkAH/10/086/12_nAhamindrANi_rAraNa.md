@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -85,7 +86,12 @@ priyám ← priyá- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाहमि॑न्द्राणि रारण॒ सख्यु॑र्वृ॒षाक॑पेरृ॒ते ।  
+यस्ये॒दमप्यं॑ ह॒विः प्रि॒यं दे॒वेषु॒ गच्छ॑ति॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,12 +232,12 @@ _________
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-However, the statement by Indra: “yasyedam apyaṃ haviḥ priyaṃ deveṣu gacchati” – the watery haviṣ might be linked to the carrying of the seed of the gods by Erikepaius. 
+However, the statement by Indra: “yasyedam apyaṃ haviḥ priyaṃ deveṣu gacchati” – the watery haviṣ might be linked to the carrying of the seed of the gods by Erikepaius.
 </details>
 
 <details><summary>Tilak - Commentary</summary>
 
-Indra says "O Indrāṇī! I am not delighted without my friend Vriṣākapi, of whom these favourite watery oblations reach the gods. Indra is in the upper (part) of the universe." 
+Indra says "O Indrāṇī! I am not delighted without my friend Vriṣākapi, of whom these favourite watery oblations reach the gods. Indra is in the upper (part) of the universe."
 </details>
 
 <details><summary>Wilson</summary>

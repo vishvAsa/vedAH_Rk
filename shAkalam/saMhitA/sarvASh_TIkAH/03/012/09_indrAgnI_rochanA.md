@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -63,7 +64,12 @@ vām ← tvám (pronoun)
 
 vīryàm ← vīryà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ग्नी रोच॒ना दि॒वः परि॒ वाजे॑षु भूषथः ।  
+तद्वां॑ चेति॒ प्र वी॒र्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

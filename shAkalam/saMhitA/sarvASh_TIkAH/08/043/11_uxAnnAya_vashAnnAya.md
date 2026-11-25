@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -51,7 +52,12 @@ stómaiḥ ← stóma- (nominal stem)
 
 vidhema ← √vidh- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्षान्ना॑य व॒शान्ना॑य॒ सोम॑पृष्ठाय वे॒धसे॑ ।  
+स्तोमै॑र्विधेमा॒ग्नये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,7 +172,6 @@ Let us serve Agni with our hymns, Disposer, fed on ox and cow,
 To Agni let us make service with hymns,  
 Who feedeth on bull and cow,  
 The disposer, backed with Soma.
-
 </details>
 
 <details><summary>Geldner</summary>

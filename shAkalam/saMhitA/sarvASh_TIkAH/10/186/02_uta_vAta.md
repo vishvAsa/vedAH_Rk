@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "उलो वातायनः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -72,7 +73,12 @@ naḥ ← ahám (pronoun)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त वा॑त पि॒तासि॑ न उ॒त भ्रातो॒त नः॒ सखा॑ ।  
+स नो॑ जी॒वात॑वे कृधि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

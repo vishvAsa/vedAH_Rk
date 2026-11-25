@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ síṣakti ← √sac- 1 (root)
 
 sváyaśāḥ ← sváyaśas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तोमं॑ वो अ॒द्य रु॒द्राय॒ शिक्व॑से क्ष॒यद्वी॑राय॒ नम॑सा दिदिष्टन ।  
+येभिः॑ शि॒वः स्ववाँ॑ एव॒याव॑भिर्दि॒वः सिष॑क्ति॒ स्वय॑शा॒ निका॑मभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - \[noun\], instrumental, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ náraḥ ← nár- (nominal stem)
 
 pratiśíkṣanti ← √śak- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रेर॑य॒ सूरो॒ अर्थं॒ न पा॒रं ये अ॑स्य॒ कामं॑ जनि॒धा इ॑व॒ ग्मन् ।  
+गिर॑श्च॒ ये ते॑ तुविजात पू॒र्वीर्नर॑ इन्द्र प्रति॒शिक्ष॒न्त्यन्नैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

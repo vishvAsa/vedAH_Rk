@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -71,7 +72,12 @@ bhū́riretasā ← bhū́riretas- (nominal stem)
 
 víṣkabhite ← √skambhⁱ- (root)  
 {case:NOM, gender:F, number:DU, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घृ॒तव॑ती॒ भुव॑नानामभि॒श्रियो॒र्वी पृ॒थ्वी म॑धु॒दुघे॑ सु॒पेश॑सा ।  
+द्यावा॑पृथि॒वी वरु॑णस्य॒ धर्म॑णा॒ विष्क॑भिते अ॒जरे॒ भूरि॑रेतसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “semen; sperm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -198,10 +203,6 @@ The two rich in ghee, excelling in glory over the creatures, wide and  broad, mi
 Heaven and Earth were propped apart according to the foundation of  Varuṇa, the two unaging ones possessing abundant semen.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-pṛthvī́here (and in the same phrase in 4c) is of course a blindingly obvious pun: though used as an adj. here (‘broad’) it is of course (almost) identical to the standard word for ‘earth’, found in the dual dvandva dyā́vā-pṛthivī́in the next pāda (also 4a, 5a). By an accident of grammar, the nom./acc. dual fem. (in pṛthvī́, here modifying the dual dvandva) and the nom. singular. fem. pṛthivī́‘earth’ have the same ending -ī́. This grammatical pun is only actualized fully in the final vs. of the hymn, where we get the conjoined singular NP dyaúś ca pṛthivī́ca.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/070/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -211,7 +212,6 @@ madhu-dúgha- ‘milking out honey’ in 1b is reprised by the VP ghṛtáṃ du
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

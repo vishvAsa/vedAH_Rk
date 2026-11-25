@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ kóśam ← kóśa- (nominal stem)
 
 madhuścútam ← madhuścút- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि सोमा॑स आ॒यवः॒ पव॑न्ते॒ मद्यं॒ मद॑म् ।  
+अ॒भि कोशं॑ मधु॒श्चुत॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

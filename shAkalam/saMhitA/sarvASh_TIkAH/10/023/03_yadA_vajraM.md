@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ pátiḥ ← páti- (nominal stem)
 
 vā́jasya ← vā́ja- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒दा वज्रं॒ हिर॑ण्य॒मिदथा॒ रथं॒ हरी॒ यम॑स्य॒ वह॑तो॒ वि सू॒रिभिः॑ ।  
+आ ति॑ष्ठति म॒घवा॒ सन॑श्रुत॒ इन्द्रो॒ वाज॑स्य दी॒र्घश्र॑वस॒स्पतिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

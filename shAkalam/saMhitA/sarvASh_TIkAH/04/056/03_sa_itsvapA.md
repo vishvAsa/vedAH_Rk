@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -86,7 +87,12 @@ dhī́raḥ ← dhī́ra- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इत्स्वपा॒ भुव॑नेष्वास॒ य इ॒मे द्यावा॑पृथि॒वी ज॒जान॑ ।  
+उ॒र्वी ग॑भी॒रे रज॑सी सु॒मेके॑ अवं॒शे धीरः॒ शच्या॒ समै॑रत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “go.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

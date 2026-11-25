@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ sákhibhyaḥ ← sákhi- (nominal stem)
 
 uruṣyā́ ← uruṣyā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवि॑द॒द्दक्षं॑ मि॒त्रो नवी॑यान्पपा॒नो दे॒वेभ्यो॒ वस्यो॑ अचैत् ।  
+स॒स॒वान्त्स्तौ॒लाभि॑र्धौ॒तरी॑भिरुरु॒ष्या पा॒युर॑भव॒त्सखि॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -214,18 +219,6 @@ became a protector for his comrades.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The medial pf. part. papāná- is one of only 3 forms of the middle pf. in the RV, 2 of which, incl. this one, are used passively. See Kümmel (309). Note that a deriv. of the other root √pā ‘protect’, pāyúḥ, is found in the 2nd hemistich.
-
-The vs. is notable for a number of hapaxes: acait, staulā́-, and dhautárī, the latter two also marked by vṛddhi.
-
-On acait as a nonce s-aor. to √cit ‘perceive’, see Narten (114).
-
-staulā́- here is reminiscent of the likewise impenetrable stauná- in this same maṇḍala VI.66.5. No remotely credible guesses have been proposed for these forms, or for dhautárī-; Geldner (n. 7c): “ganz dunkel” and he fails to tr. the NP; Oldenberg: “Über staulā́bhir dhautárībhiḥ scheint kein Ergebnis erreichbar”; EWA (II.762 and I.783) also throws up its hands. I am inclined to connect staulā́- and stauná- with similar words but with aspirated initial sth-, namely sthūrá- ‘brawny, sturdy’ and sthū́ṇā- ‘post’ (see comm. ad VI.66.5) respectively, but I cannot explain the phonological discrepancy.
-
-As for dhautárī-, Oldenberg tentatively suggests that it might belong with one of the roots √dhāv ‘run’ or ‘rinse’. For translational convenience I have assumed the former, but without any conviction. In any case the striking double vṛddhi -au- of these paired nominals must be meant to draw attention to the phrase.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -235,7 +228,6 @@ The tṛca concerns soma and contains lexical and thematic responsions.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

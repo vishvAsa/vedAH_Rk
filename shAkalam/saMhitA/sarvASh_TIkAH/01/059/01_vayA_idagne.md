@@ -4,6 +4,7 @@ devataa = "अग्निर्वैश्वानरः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्वैश्वानरः
@@ -89,7 +90,12 @@ upamít ← upamít- (nominal stem)
 
 yayantha ← √yam- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒या इद॑ग्ने अ॒ग्नय॑स्ते अ॒न्ये त्वे विश्वे॑ अ॒मृता॑ मादयन्ते ।  
+वैश्वा॑नर॒ नाभि॑रसि क्षिती॒नां स्थूणे॑व॒ जनाँ॑ उप॒मिद्य॑यन्थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

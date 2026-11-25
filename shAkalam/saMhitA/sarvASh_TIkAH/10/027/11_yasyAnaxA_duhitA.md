@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ yáḥ ← yá- (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्या॑न॒क्षा दु॑हि॒ता जात्वास॒ कस्तां वि॒द्वाँ अ॒भि म॑न्याते अ॒न्धाम् ।  
+क॒त॒रो मे॒निं प्रति॒ तं मु॑चाते॒ य ईं॒ वहा॑ते॒ य ईं॑ वा वरे॒यात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -259,7 +265,6 @@ _________
 - \[verb\], singular, Present conjunctive (subjunctive)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

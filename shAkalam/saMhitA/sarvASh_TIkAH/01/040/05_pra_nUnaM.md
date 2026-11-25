@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -77,7 +78,12 @@ devā́ḥ ← devá- (nominal stem)
 
 ókāṁsi ← ókas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र नू॒नं ब्रह्म॑ण॒स्पति॒र्मन्त्रं॑ वदत्यु॒क्थ्य॑म् ।  
+यस्मि॒न्निन्द्रो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा दे॒वा ओकां॑सि चक्रि॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

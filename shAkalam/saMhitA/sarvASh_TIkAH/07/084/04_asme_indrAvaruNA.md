@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ dayate ← √dā- 3 (root)
 
 vásūni ← vásu- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे इ॑न्द्रावरुणा वि॒श्ववा॑रं र॒यिं ध॑त्तं॒ वसु॑मन्तं पुरु॒क्षुम् ।  
+प्र य आ॑दि॒त्यो अनृ॑ता मि॒नात्यमि॑ता॒ शूरो॑ दयते॒ वसू॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

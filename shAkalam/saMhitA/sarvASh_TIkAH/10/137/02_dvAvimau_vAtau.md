@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कश्यपः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ vātu ← √vā- 1 (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वावि॒मौ वातौ॑ वात॒ आ सिन्धो॒रा प॑रा॒वतः॑ ।  
+दक्षं॑ ते अ॒न्य आ वा॑तु॒ परा॒न्यो वा॑तु॒ यद्रपः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “injury; disease; infirmity; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

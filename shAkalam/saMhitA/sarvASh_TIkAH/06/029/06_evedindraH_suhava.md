@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ purú ← purú- (nominal stem)
 
 vr̥trā́ ← vr̥trá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वेदिन्द्रः॑ सु॒हव॑ ऋ॒ष्वो अ॑स्तू॒ती अनू॑ती हिरिशि॒प्रः सत्वा॑ ।  
+ए॒वा हि जा॒तो अस॑मात्योजाः पु॒रू च॑ वृ॒त्रा ह॑नति॒ नि दस्यू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “savage; outcast; mugger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

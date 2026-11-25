@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ abhimātiṣā́hye ← abhimātiṣā́hya- (nominal stem)
 
 índra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नामा॑नि ते शतक्रतो॒ विश्वा॑भिर्गी॒र्भिरी॑महे ।  
+इन्द्रा॑भिमाति॒षाह्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +121,6 @@ _________
 - \[noun\], locative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -143,7 +148,6 @@ Indra of a hundred resolves—in vanquishing hostility.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/037/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -151,7 +155,6 @@ As Geldner also suggests, Indra’s names (nā́māni) in vs. 3 form a complemen
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -80,7 +81,12 @@ r̥téna ← r̥tá- (nominal stem)
 
 sacethe ← √sac- 1 (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं वस्त्रा॑णि पीव॒सा व॑साथे यु॒वोरच्छि॑द्रा॒ मन्त॑वो ह॒ सर्गाः॑ ।  
+अवा॑तिरत॒मनृ॑तानि॒ विश्व॑ ऋ॒तेन॑ मित्रावरुणा सचेथे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

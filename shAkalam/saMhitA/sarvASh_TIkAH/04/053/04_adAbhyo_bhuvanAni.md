@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -83,7 +84,12 @@ maháḥ ← máh- (nominal stem)
 
 rājati ← √rāj- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अदा॑भ्यो॒ भुव॑नानि प्र॒चाक॑शद्व्र॒तानि॑ दे॒वः स॑वि॒ताभि र॑क्षते ।  
+प्रास्रा॑ग्बा॒हू भुव॑नस्य प्र॒जाभ्यो॑ धृ॒तव्र॑तो म॒हो अज्म॑स्य राजति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

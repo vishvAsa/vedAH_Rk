@@ -5,13 +5,13 @@ RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रः
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -56,7 +56,12 @@ akar ← √kr̥- (root)
 
 iṣṭávratāḥ ← iṣṭávrata- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रो दे॒वेष्वा॒युषु॒ जना॑य वृ॒क्तब॑र्हिषे ।  
+इष॑ इ॒ष्टव्र॑ता अकः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +140,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -184,8 +188,6 @@ Den Göttern und den Menschen lieb, verleiht er Kraft, so viel man wünscht, Dem
 Для человека, разложившего жертвенную солому,  
 Создал подкрепления, соответствующие обетам, которых пожелали.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

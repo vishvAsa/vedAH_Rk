@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -69,7 +70,12 @@ vā ← vā (invariable)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒भगः॒ स व॑ ऊ॒तिष्वास॒ पूर्वा॑सु मरुतो॒ व्यु॑ष्टिषु ।  
+यो वा॑ नू॒नमु॒तास॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "पादनिचृद्गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -51,7 +52,12 @@ sákhīnām ← sákhi- (nominal stem)
 
 vajrin ← vajrín- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माकं॑ शि॒प्रिणी॑नां॒ सोम॑पाः सोम॒पाव्ना॑म् ।  
+सखे॑ वज्रि॒न्त्सखी॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

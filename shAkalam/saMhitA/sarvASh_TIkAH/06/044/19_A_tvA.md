@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ vahantu ← √vah- (root)
 
 vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त्वा॒ हर॑यो॒ वृष॑णो युजा॒ना वृष॑रथासो॒ वृष॑रश्म॒योऽत्याः॑ ।  
+अ॒स्म॒त्राञ्चो॒ वृष॑णो वज्र॒वाहो॒ वृष्णे॒ मदा॑य सु॒युजो॑ वहन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -240,7 +245,6 @@ the bulls that convey your mace—let them, well-yoked, convey you here  in our 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -252,7 +256,6 @@ The concentration on the bull words leaves little room or energy for other poeti
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

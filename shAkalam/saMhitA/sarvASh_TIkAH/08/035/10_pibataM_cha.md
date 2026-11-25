@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ naḥ ← ahám (pronoun)
 
 ū́rjam ← ū́rj- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिब॑तं च तृप्णु॒तं चा च॑ गच्छतं प्र॒जां च॑ ध॒त्तं द्रवि॑णं च धत्तम् ।  
+स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चोर्जं॑ नो धत्तमश्विना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -267,7 +272,6 @@ In concert with Dawn and the Sun, provide nourishment for us, Aśvins.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -275,7 +279,6 @@ The first hemistichs of the three verses in this tṛca are excessively provided
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

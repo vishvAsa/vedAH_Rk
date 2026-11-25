@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -55,7 +56,11 @@ sá ← sá- ~ tá- (pronoun)
 
 śukráḥ ← śukrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वामृता॑य म॒हे क्षया॑य॒ स शु॒क्रो अ॑र्ष दि॒व्यः पी॒यूषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +127,6 @@ _________
 - “amṛta; pīyūṣa; ambrosia.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -149,14 +153,12 @@ Thus, for immortality and for great peaceful dwelling, rush gleaming as  the hea
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion, beyond the mention of Soma’s divine recipients in vss. 1-2. Vs. 3 begins with a possibly summary evā́.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ yéna ← yá- (pronoun)
 
 suvī́rāḥ ← suvī́ra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हो नो॑ अग्ने सुवि॒तस्य॑ वि॒द्वान्र॒यिं सू॒रिभ्य॒ आ व॑हा बृ॒हन्त॑म् ।  
+येन॑ व॒यं स॑हसाव॒न्मदे॒मावि॑क्षितास॒ आयु॑षा सु॒वीराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -51,7 +52,12 @@ juṣásva ← √juṣ- (root)
 
 tiróahnyam ← tiróahnya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ वृधा॒न आहु॑तिं पुरो॒ळाशं॑ जातवेदः ।  
+जु॒षस्व॑ ति॒रोअ॑ह्न्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +112,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वत्सप्रिर्भालन्दनः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ vā́jam ← vā́ja- (nominal stem)
 
 yatáḥ ← √yam- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां मृ॑जन्ति॒ दश॒ योष॑णः सु॒तं सोम॒ ऋषि॑भिर्म॒तिभि॑र्धी॒तिभि॑र्हि॒तम् ।  
+अव्यो॒ वारे॑भिरु॒त दे॒वहू॑तिभि॒र्नृभि॑र्य॒तो वाज॒मा द॑र्षि सा॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “victory; acquisition; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

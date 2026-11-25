@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -98,7 +99,12 @@ svastíbhiḥ ← svastí- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ वधी रुद्र॒ मा परा॑ दा॒ मा ते॑ भूम॒ प्रसि॑तौ हीळि॒तस्य॑ ।  
+आ नो॑ भज ब॒र्हिषि॑ जीवशं॒से यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -254,7 +260,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

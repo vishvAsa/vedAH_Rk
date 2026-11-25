@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ naḥ ← ahám (pronoun)
 
 nakṣanta ← √nakṣ- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद॑र्शि गातु॒वित्त॑मो॒ यस्मि॑न्व्र॒तान्या॑द॒धुः ।  
+उपो॒ षु जा॒तमार्य॑स्य॒ वर्ध॑नम॒ग्निं न॑क्षन्त नो॒ गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

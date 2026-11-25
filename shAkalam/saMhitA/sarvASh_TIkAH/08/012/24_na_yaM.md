@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -70,7 +71,12 @@ titviṣe ← √tvíṣ- (root)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न यं वि॑वि॒क्तो रोद॑सी॒ नान्तरि॑क्षाणि व॒ज्रिण॑म् ।  
+अमा॒दिद॑स्य तित्विषे॒ समोज॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

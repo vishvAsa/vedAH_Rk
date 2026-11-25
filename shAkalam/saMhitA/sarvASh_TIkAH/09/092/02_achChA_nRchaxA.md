@@ -5,13 +5,13 @@ RShiH = "कश्यपः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
 - ऋषिः - कश्यपः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -94,7 +94,12 @@ saptá ← saptá- (nominal stem)
 
 víprāḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॑ नृ॒चक्षा॑ असरत्प॒वित्रे॒ नाम॒ दधा॑नः क॒विर॑स्य॒ योनौ॑ ।  
+सीद॒न्होते॑व॒ सद॑ने च॒मूषूपे॑मग्म॒न्नृष॑यः स॒प्त विप्राः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +244,6 @@ _________
 - “eloquent; stimulated; divine.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -298,8 +302,6 @@ Zur Seihe eilte jetzt er Männer-schauend, als Seher sich in seinem Schoosse zei
 Он садится в чаны, как хотар на (свое) сиденье.  
 Подошли к нему семеро вдохновенных риши.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ usrā́ḥ ← usrá- (nominal stem)
 
 varivasyantu ← √varivasy- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये के च॒ ज्मा म॒हिनो॒ अहि॑माया दि॒वो ज॑ज्ञि॒रे अ॒पां स॒धस्थे॑ ।  
+ते अ॒स्मभ्य॑मि॒षये॒ विश्व॒मायुः॒ क्षप॑ उ॒स्रा व॑रिवस्यन्तु दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -256,14 +261,12 @@ let those gods seek a wide place for us to prosper day and night for our  whole 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 I consider these three vss. as a tṛca. They are thematically unified, by their focus on the gods in general and (esp. vss. 13 and 15) by their classification of the gods into groups based on their location and type. On the supposed Jagatī meter of vs. 14, which would not match its tṛca partners, see ad loc. 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ uttānáhastaḥ ← uttānáhasta- (nominal stem)
 
 vivāset ← √vanⁱ- (root)  
 {number:SG, person:3, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॒ती यो दे॒वं मर्तो॑ दुव॒स्येद॒ग्निमी॑ळीताध्व॒रे ह॒विष्मा॑न् ।  
+होता॑रं सत्य॒यजं॒ रोद॑स्योरुत्ता॒नह॑स्तो॒ नम॒सा वि॑वासेत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “invite; endeavor; try for.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

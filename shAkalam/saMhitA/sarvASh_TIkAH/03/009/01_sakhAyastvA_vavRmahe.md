@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ anehásam ← anehás- (nominal stem)
 
 suprátūrtim ← suprátūrti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सखा॑यस्त्वा ववृमहे दे॒वं मर्ता॑स ऊ॒तये॑ ।  
+अ॒पां नपा॑तं सु॒भगं॑ सु॒दीदि॑तिं सु॒प्रतू॑र्तिमने॒हस॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “faultless; anehas \[word\]; incomparable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

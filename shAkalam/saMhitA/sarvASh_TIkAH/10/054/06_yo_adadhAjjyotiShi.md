@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ brahmakŕ̥taḥ ← brahmakŕ̥t- (nominal stem)
 
 br̥hádukthāt ← br̥háduktha- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अद॑धा॒ज्ज्योति॑षि॒ ज्योति॑र॒न्तर्यो असृ॑ज॒न्मधु॑ना॒ सं मधू॑नि ।  
+अध॑ प्रि॒यं शू॒षमिन्द्रा॑य॒ मन्म॑ ब्रह्म॒कृतो॑ बृ॒हदु॑क्थादवाचि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

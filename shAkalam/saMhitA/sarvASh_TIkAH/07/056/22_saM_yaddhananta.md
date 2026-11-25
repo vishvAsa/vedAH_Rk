@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)
 
 trātā́raḥ ← trātár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं यद्धन॑न्त म॒न्युभि॒र्जना॑सः॒ शूरा॑ य॒ह्वीष्वोष॑धीषु वि॒क्षु ।  
+अध॑ स्मा नो मरुतो रुद्रियासस्त्रा॒तारो॑ भूत॒ पृत॑नास्व॒र्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

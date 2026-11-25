@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -74,7 +75,12 @@ reṇúḥ ← reṇú- (nominal stem)
 
 tīvráḥ ← tīvrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्दे॑वा अ॒दः स॑लि॒ले सुसं॑रब्धा॒ अति॑ष्ठत ।  
+अत्रा॑ वो॒ नृत्य॑तामिव ती॒व्रो रे॒णुरपा॑यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

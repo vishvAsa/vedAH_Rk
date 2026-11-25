@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ pūrvyáḥ ← pūrvyá- (nominal stem)
 
 sadaḥ ← √sad- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒क्ष्वा हि दे॑व॒हूत॑माँ॒ अश्वाँ॑ अग्ने र॒थीरि॑व ।  
+नि होता॑ पू॒र्व्यः स॑दः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -77,7 +78,12 @@ pr̥thivyā́m ← pr̥thivī́- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्प॑र्जन्य॒ कनि॑क्रदत्स्त॒नय॒न्हंसि॑ दु॒ष्कृतः॑ ।  
+प्रती॒दं विश्वं॑ मोदते॒ यत्किं च॑ पृथि॒व्यामधि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “on; from; accordingly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

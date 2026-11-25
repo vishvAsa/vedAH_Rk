@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ smát ← smát (invariable)
 
 sūríbhiḥ ← sūrí- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒देप॑दे मे जरि॒मा नि धा॑यि॒ वरू॑त्री वा श॒क्रा या पा॒युभि॑श्च ।  
+सिष॑क्तु मा॒ता म॒ही र॒सा नः॒ स्मत्सू॒रिभि॑रृजु॒हस्त॑ ऋजु॒वनिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

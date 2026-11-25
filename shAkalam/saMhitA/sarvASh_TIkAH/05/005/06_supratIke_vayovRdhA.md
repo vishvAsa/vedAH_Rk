@@ -4,6 +4,7 @@ devataa = "उषासानक्ता"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषासानक्ता
@@ -54,7 +55,12 @@ doṣā́m ← doṣā́- (nominal stem)
 
 uṣā́sam ← uṣás- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒प्रती॑के वयो॒वृधा॑ य॒ह्वी ऋ॒तस्य॑ मा॒तरा॑ ।  
+दो॒षामु॒षास॑मीमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

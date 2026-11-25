@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -83,7 +84,12 @@ parāvátaḥ ← parāvát- (nominal stem)
 
 vaiśvānarám ← vaiśvānará- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पामु॒पस्थे॑ महि॒षा अ॑गृभ्णत॒ विशो॒ राजा॑न॒मुप॑ तस्थुरृ॒ग्मिय॑म् ।  
+आ दू॒तो अ॒ग्निम॑भरद्वि॒वस्व॑तो वैश्वान॒रं मा॑त॒रिश्वा॑ परा॒वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “distance; distance; distance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

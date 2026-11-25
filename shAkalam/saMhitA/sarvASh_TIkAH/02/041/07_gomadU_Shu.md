@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ rudrā ← rudrá- (nominal stem)
 
 vartíḥ ← vartís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गोम॑दू॒ षु ना॑स॒त्याश्वा॑वद्यातमश्विना ।  
+व॒र्ती रु॑द्रा नृ॒पाय्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

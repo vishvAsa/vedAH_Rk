@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sá ← sá- ~ tá- (pronoun)
 
 viveśa ← √viś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्रा॑ सुप॒र्णा अ॒मृत॑स्य भा॒गमनि॑मेषं वि॒दथा॑भि॒स्वर॑न्ति ।  
+इ॒नो विश्व॑स्य॒ भुव॑नस्य गो॒पाः स मा॒ धीरः॒ पाक॒मत्रा वि॑वेश ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

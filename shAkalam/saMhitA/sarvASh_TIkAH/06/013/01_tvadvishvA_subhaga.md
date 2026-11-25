@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ rītíḥ ← rītí- (nominal stem)
 
 vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वद्विश्वा॑ सुभग॒ सौभ॑गा॒न्यग्ने॒ वि य॑न्ति व॒निनो॒ न व॒याः ।  
+श्रु॒ष्टी र॒यिर्वाजो॑ वृत्र॒तूर्ये॑ दि॒वो वृ॒ष्टिरीड्यो॑ री॒तिर॒पाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

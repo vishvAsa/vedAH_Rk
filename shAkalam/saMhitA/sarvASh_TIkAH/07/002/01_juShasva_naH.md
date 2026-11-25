@@ -4,6 +4,7 @@ devataa = "इध्मः समिद्धोग्निर्वा"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इध्मः समिद्धोग्निर्वा
@@ -89,7 +90,12 @@ sū́ryasya ← sū́rya- (nominal stem)
 
 tatanaḥ ← √tan- (root)  
 {number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जु॒षस्व॑ नः स॒मिध॑मग्ने अ॒द्य शोचा॑ बृ॒हद्य॑ज॒तं धू॒ममृ॒ण्वन् ।  
+उप॑ स्पृश दि॒व्यं सानु॒ स्तूपैः॒ सं र॒श्मिभि॑स्ततनः॒ सूर्य॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

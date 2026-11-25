@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वव्रिरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ dábhaḥ ← dábha- (nominal stem)
 
 śáśvataḥ ← śáśvant- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रि॒यं दु॒ग्धं न काम्य॒मजा॑मि जा॒म्योः सचा॑ ।  
+घ॒र्मो न वाज॑जठ॒रोऽद॑ब्धः॒ शश्व॑तो॒ दभः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “damaging.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

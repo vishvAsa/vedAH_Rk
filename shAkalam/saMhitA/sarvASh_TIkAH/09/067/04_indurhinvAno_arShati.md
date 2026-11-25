@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ háriḥ ← hári- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दु॑र्हिन्वा॒नो अ॑र्षति ति॒रो वारा॑ण्य॒व्यया॑ ।  
+हरि॒र्वाज॑मचिक्रदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “roar; neigh; cry; howl; shout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -150,7 +155,6 @@ the tawny one has roared for the prize.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -158,7 +162,6 @@ The Kaśyapa tṛca: it lacks cohesion across all 3 vss., though 4 and 5 share �
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

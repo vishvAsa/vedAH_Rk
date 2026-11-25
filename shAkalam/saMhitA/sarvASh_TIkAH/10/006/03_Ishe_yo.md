@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ skabhnā́ti ← √skambhⁱ- (root)
 
 śūṣaíḥ ← śūṣá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ईशे॒ यो विश्व॑स्या दे॒ववी॑ते॒रीशे॑ वि॒श्वायु॑रु॒षसो॒ व्यु॑ष्टौ ।  
+आ यस्मि॑न्म॒ना ह॒वींष्य॒ग्नावरि॑ष्टरथः स्क॒भ्नाति॑ शू॒षैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “song; energy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

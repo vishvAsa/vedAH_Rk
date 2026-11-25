@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ antárikṣeṇa ← antárikṣa- (nominal stem)
 
 yā́tave ← √yā- 1 (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+राजा॑ मे॒धाभि॑रीयते॒ पव॑मानो म॒नावधि॑ ।  
+अ॒न्तरि॑क्षेण॒ यात॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -146,14 +151,6 @@ The king is sped by (words of) wisdom, purifying himself in Manu’s  presence,
 to drive through the midspace.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-īyate is assigned to √yā/ī ‘implore, beseech’ by numerous scholars, incl. Grassmann, Lubotsky, and Lüders (214-15: “Der König wird mit Liedern gebeten”), though Geldner, Renou and the published translation
-
-take it to √yā/ī ‘speed’ (so also Sāyaṇa., who glosses gacchati). In favor of the latter, Renou declares that īyate is always “il s’avance” in IX. I would also point out 1) the king is definitely traveling in pāda c (yā́tave, to the same root) and 2) the ‘is sped’ interpr. is supported by a passage like IX.26.3 táṃ vedhā́m medháyā́hyan “They impelled the ritual adept with their wisdom” also containing an instr. of medhā́- with a clear indication of movement (ahyan). Kulikov (495-96) discusses both root possibilities without seeming to decide, though the fact that he lists it with 2 yā (ī) ‘implore, request’ probably indicates his choice.
-
-śatagvínam gávām póṣam, lit. “thriving of cattle that possesses hundredfold cattle” (vel sim.), redundantly codes the cattle twice (-gvínam gávām).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -161,7 +158,6 @@ The tṛca is thematically unified by the journey of Soma and, in vss. 17-18 his
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

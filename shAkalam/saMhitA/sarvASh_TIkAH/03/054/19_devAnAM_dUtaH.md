@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 urú ← urú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वानां॑ दू॒तः पु॑रु॒ध प्रसू॒तोऽना॑गान्नो वोचतु स॒र्वता॑ता ।  
+शृ॒णोतु॑ नः पृथि॒वी द्यौरु॒तापः॒ सूर्यो॒ नक्ष॑त्रैरु॒र्व१॒॑न्तरि॑क्षम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “sky; atmosphere; air; abhra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -237,7 +242,6 @@ Let Earth, Heaven, and the Waters hear us, and the Sun with the  heavenly bodies
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/054/19-20.md">
 <details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -247,7 +251,6 @@ The call to the gods to hear us, found first in vs. 1, returns here at almost th
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

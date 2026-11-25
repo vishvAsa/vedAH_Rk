@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ náktam ← nákt- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ च॒नेद॒ना त्वा॑ दे॒वास॑ इन्द्र युयुधुः ।  
+यदहा॒ नक्त॒माति॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - \[verb\], singular, Imperfect
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

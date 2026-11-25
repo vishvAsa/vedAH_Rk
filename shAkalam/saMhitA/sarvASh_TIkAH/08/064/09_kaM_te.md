@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ u ← u (invariable)
 
 ukthé ← ukthá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कं ते॑ दा॒ना अ॑सक्षत॒ वृत्र॑ह॒न्कं सु॒वीर्या॑ ।  
+उ॒क्थे क उ॑ स्वि॒दन्त॑मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “intimate; bosom(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

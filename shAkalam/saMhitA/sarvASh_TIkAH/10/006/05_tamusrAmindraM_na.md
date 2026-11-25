@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ juhvàm ← juhū́- (nominal stem)
 
 sahā́nām ← sahá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॒स्रामिन्द्रं॒ न रेज॑मानम॒ग्निं गी॒र्भिर्नमो॑भि॒रा कृ॑णुध्वम् ।  
+आ यं विप्रा॑सो म॒तिभि॑र्गृ॒णन्ति॑ जा॒तवे॑दसं जु॒ह्वं॑ स॒हाना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “enduring; bearing(a); subjugating; enured; mighty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

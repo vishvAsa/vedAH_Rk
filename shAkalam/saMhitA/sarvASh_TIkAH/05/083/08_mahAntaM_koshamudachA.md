@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -83,7 +84,12 @@ bhavatu ← √bhū- (root)
 
 suprapāṇám ← suprapāṇá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हान्तं॒ कोश॒मुद॑चा॒ नि षि॑ञ्च॒ स्यन्द॑न्तां कु॒ल्या विषि॑ताः पु॒रस्ता॑त् ।  
+घृ॒तेन॒ द्यावा॑पृथि॒वी व्यु॑न्धि सुप्रपा॒णं भ॑वत्व॒घ्न्याभ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -231,17 +236,12 @@ The great bucket—turn it up, pour it down. Let the brooks, unleashed,  flow fo
 Inundate Heaven and Earth with ghee. Let there be a good watering  hole for the prized cows.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Hoffmann’s positing (Aufs. I.164 = KZ 79 [1965]) of a separate root √añc ‘scoop, draw (water)’ seems unnec., at least for this passage.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/083/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 These two vss. ring changes in the oppositional pair úd ‘up and ní ‘down’: 7c ní añcam, 7d udváto nipādā́ḥ, 8a úd acā ní ṣiñca. Note that 7b udanvátā might seem to belong with this sequence, but udan- there is the ‘water’ word.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ nemím ← nemí- (nominal stem)
 
 raghudrú ← raghudrú- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं स्तु॒तो राजा॑ वन्दि वे॒धा अ॒पश्च॒ विप्र॑स्तरति॒ स्वसे॑तुः ।  
+स क॒क्षीव॑न्तं रेजय॒त्सो अ॒ग्निं ने॒मिं न च॒क्रमर्व॑तो रघु॒द्रु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - \[noun\], nominative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

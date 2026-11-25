@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -83,7 +84,12 @@ saúdhanvanāḥ ← saudhanvaná- (nominal stem)
 
 yajñíyam ← yajñíya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒हेह॑ वो॒ मन॑सा ब॒न्धुता॑ नर उ॒शिजो॑ जग्मुर॒भि तानि॒ वेद॑सा ।  
+याभि॑र्मा॒याभिः॒ प्रति॑जूतिवर्पसः॒ सौध॑न्वना य॒ज्ञियं॑ भा॒गमा॑न॒श ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

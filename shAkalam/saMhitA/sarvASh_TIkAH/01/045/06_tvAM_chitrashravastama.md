@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -62,7 +63,12 @@ havyā́ya ← havyá- (nominal stem)
 
 vóḷhave ← √vah- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां चि॑त्रश्रवस्तम॒ हव॑न्ते वि॒क्षु ज॒न्तवः॑ ।  
+शो॒चिष्के॑शं पुरुप्रि॒याग्ने॑ ह॒व्याय॒ वोळ्ह॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

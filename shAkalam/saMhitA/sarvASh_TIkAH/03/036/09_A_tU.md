@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ tát ← sá- ~ tá- (pronoun)
 
 yandhi ← √yam- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ तू भ॑र॒ माकि॑रे॒तत्परि॑ ष्ठाद्वि॒द्मा हि त्वा॒ वसु॑पतिं॒ वसू॑नाम् ।  
+इन्द्र॒ यत्ते॒ माहि॑नं॒ दत्र॒मस्त्य॒स्मभ्यं॒ तद्ध॑र्यश्व॒ प्र य॑न्धि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -263,7 +269,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -297,19 +302,12 @@ Bring it here. Let no one contain it. For we know you as the goods-lord  of good
 Indra, the great giving that is yours—offer it to us, o possessor of the  fallow bays.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Most tr. take Indra as the implied obj. of mā́kiḥ … pári ṣṭhāt, thus displacing etát into an adverbial role (Geldner/Witzel Gotō ‘dabei’). This is possible, but I take it as anticipating dátram in c.
-
-On the form of dátra- see comm. ad IV.17.6.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 Note that the vocabulary of the beginning of the hymn is being turned around reciprocally at the end: bhara (9a) and prá yandhi (9d, 10a) are imperatives addressed to Indra, urging him to bring/offer things to us, whereas in 1a prábhṛtim (at least in my interpr.) and 2c prayamyámānān the same lexical expressions refer to things we offer to Indra. Other ring compositional echoes are the dhāḥ + datival infinitive (1a sātáye dhāḥ and 10c jīváse dhāḥ) and the stem śáśvat- (1b, 10d).
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

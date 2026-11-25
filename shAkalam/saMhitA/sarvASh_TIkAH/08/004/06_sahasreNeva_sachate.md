@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ dāśnóti ← √dāś- (root)
 
 náma:uktibhiḥ ← náma:ukti- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्रे॑णेव सचते यवी॒युधा॒ यस्त॒ आन॒ळुप॑स्तुतिम् ।  
+पु॒त्रं प्रा॑व॒र्गं कृ॑णुते सु॒वीर्ये॑ दा॒श्नोति॒ नम॑उक्तिभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - \[noun\], instrumental, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

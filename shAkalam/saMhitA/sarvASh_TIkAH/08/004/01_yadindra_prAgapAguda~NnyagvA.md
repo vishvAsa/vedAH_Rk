@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ praśardha ← praśardha- (nominal stem)
 
 turváśe ← turváśa- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑न्द्र॒ प्रागपा॒गुद॒ङ्न्य॑ग्वा हू॒यसे॒ नृभिः॑ ।  
+सिमा॑ पु॒रू नृषू॑तो अ॒स्यान॒वेऽसि॑ प्रशर्ध तु॒र्वशे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

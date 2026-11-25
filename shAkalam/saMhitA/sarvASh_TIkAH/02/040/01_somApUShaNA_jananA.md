@@ -4,6 +4,7 @@ devataa = "सोमापूषणौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमापूषणौ
@@ -77,7 +78,12 @@ devā́ḥ ← devá- (nominal stem)
 
 nā́bhim ← nā́bhi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमा॑पूषणा॒ जन॑ना रयी॒णां जन॑ना दि॒वो जन॑ना पृथि॒व्याः ।  
+जा॒तौ विश्व॑स्य॒ भुव॑नस्य गो॒पौ दे॒वा अ॑कृण्वन्न॒मृत॑स्य॒ नाभि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
     \[word\]; friendship; center.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,7 +253,6 @@ O Soma and Pusan, begetters of wealth,
 Begetters, of sky, begetters of earth,  
 Born as protectors of the whole world,  
 The gods have made (you) the navel of immortality.
-
 </details>
 
 <details><summary>Griffith</summary>

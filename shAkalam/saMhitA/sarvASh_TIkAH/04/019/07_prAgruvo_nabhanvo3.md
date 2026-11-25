@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ dáṁsupatnīḥ ← dáṁsupatnī- (nominal stem)
 
 staryàḥ ← starī́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्राग्रुवो॑ नभ॒न्वो॒३॒॑ न वक्वा॑ ध्व॒स्रा अ॑पिन्वद्युव॒तीरृ॑त॒ज्ञाः ।  
+धन्वा॒न्यज्राँ॑ अपृणक्तृषा॒णाँ अधो॒गिन्द्रः॑ स्त॒र्यो॒३॒॑ दंसु॑पत्नीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “wife; mistress; queen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

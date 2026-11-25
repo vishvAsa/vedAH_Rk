@@ -4,6 +4,7 @@ devataa = "अग्निर्लिङ्गोक्तदेवता व�
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्लिङ्गोक्तदेवता वा
@@ -89,7 +90,12 @@ vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)
 
 yajñé ← yajñá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ वहि॑ष्ठा इ॒ह ते व॑हन्तु॒ रथा॒ अश्वा॑स उ॒षसो॒ व्यु॑ष्टौ ।  
+इ॒मे हि वां॑ मधु॒पेया॑य॒ सोमा॑ अ॒स्मिन्य॒ज्ञे वृ॑षणा मादयेथाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

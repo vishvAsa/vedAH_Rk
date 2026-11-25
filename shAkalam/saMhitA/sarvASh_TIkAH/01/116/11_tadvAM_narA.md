@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ darśatā́t ← darśatá- (nominal stem)
 
 vándanāya ← vándana- 1 (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्वां॑ नरा॒ शंस्यं॒ राध्यं॑ चाभिष्टि॒मन्ना॑सत्या॒ वरू॑थम् ।  
+यद्वि॒द्वांसा॑ नि॒धिमि॒वाप॑गूळ्ह॒मुद्द॑र्श॒तादू॒पथु॒र्वन्द॑नाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - \[noun\], dative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

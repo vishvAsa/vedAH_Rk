@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ naḥ ← ahám (pronoun)
 
 sú ← sú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्न॑ इ॒ळा समि॑ध्यसे वी॒तिहो॑त्रो॒ अम॑र्त्यः ।  
+जु॒षस्व॒ सू नो॑ अध्व॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

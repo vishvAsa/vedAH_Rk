@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ práti ← práti (invariable)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒दा प॒णीँर॑रा॒धसो॒ नि बा॑धस्व म॒हाँ अ॑सि ।  
+न॒हि त्वा॒ कश्च॒न प्रति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “towards; per; regarding; respectively; according to; until.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

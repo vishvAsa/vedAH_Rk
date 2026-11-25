@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ pr̥thivī́ ← pr̥thivī́- (nominal stem)
 
 samudraíḥ ← samudrá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्य दे॒वः स॑वि॒ता भगो॑ नो॒ऽपां नपा॑दवतु॒ दानु॒ पप्रिः॑ ।  
+त्वष्टा॑ दे॒वेभि॒र्जनि॑भिः स॒जोषा॒ द्यौर्दे॒वेभिः॑ पृथि॒वी स॑मु॒द्रैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

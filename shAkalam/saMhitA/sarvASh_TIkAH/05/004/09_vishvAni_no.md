@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -24,7 +25,6 @@ ChandaH = "त्रिष्टुप्"
 विश्वा॑नि नो दु॒र्गहा॑ जातवेद॒स्सिन्धुं॒ न ना॒वा दु॑रि॒ताऽति॑पर्षि ।  
 अग्ने॑ अत्रि॒वन्मन॑सा गृणा॒नो॑ऽस्माकं॑ बोध्यवि॒ता त॒नूना॑म् ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -93,7 +93,12 @@ bodhi ← √bhū- (root)
 
 tanū́nām ← tanū́- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑नि नो दु॒र्गहा॑ जातवेदः॒ सिन्धुं॒ न ना॒वा दु॑रि॒ताति॑ पर्षि ।  
+अग्ने॑ अत्रि॒वन्नम॑सा गृणा॒नो॒३॒॑ऽस्माकं॑ बोध्यवि॒ता त॒नूना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +228,6 @@ _________
 - “body; self; own(a); person; form.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

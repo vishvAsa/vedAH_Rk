@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sadāsā́ḥ ← sadāsā́- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू ष्टु॒त इ॑न्द्र॒ नू गृ॑णा॒न इषं॑ जरि॒त्रे न॒द्यो॒३॒॑ न पी॑पेः ।  
+अका॑रि ते हरिवो॒ ब्रह्म॒ नव्यं॑ धि॒या स्या॑म र॒थ्यः॑ सदा॒साः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “triumphant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -255,12 +260,6 @@ A new sacred formulation has been made for you, o you of the fallow  bays. Throu
 always win.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The standard tr. (Geldner [/Witzel Gotō]) as also Kümmel (300) interpr. pīpeḥ as hortative.
-
-This is certainly possible (and is reflected in the published translation), but context would also allow “you (have) made swell” or “you make swell” just as easily.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/016/20-21.md">
 <details><summary><h2>20-21 ...{Loading}...</h2></summary>
 
@@ -268,7 +267,6 @@ These two vss. provide a double ending to this hymn. The first (20) begins, as s
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

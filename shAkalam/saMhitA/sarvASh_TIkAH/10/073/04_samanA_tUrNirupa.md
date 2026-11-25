@@ -4,6 +4,7 @@ devataa = "इन्द्रः (मरुतः)"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (मरुतः)
@@ -83,7 +84,12 @@ maghā́ni ← maghá- (nominal stem)
 
 śūra ← śū́ra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒म॒ना तूर्णि॒रुप॑ यासि य॒ज्ञमा नास॑त्या स॒ख्याय॑ वक्षि ।  
+व॒साव्या॑मिन्द्र धारयः स॒हस्रा॒श्विना॑ शूर ददतुर्म॒घानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “gift; wealth; reward; wages; reward.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

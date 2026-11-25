@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "विहव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ pāntu ← √pā- 1 (root)
 
 yájamānam ← √yaj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धा॒ता धा॑तॄ॒णां भुव॑नस्य॒ यस्पति॑र्दे॒वं त्रा॒तार॑मभिमातिषा॒हम् ।  
+इ॒मं य॒ज्ञम॒श्विनो॒भा बृह॒स्पति॑र्दे॒वाः पा॑न्तु॒ यज॑मानं न्य॒र्थात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “failure.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

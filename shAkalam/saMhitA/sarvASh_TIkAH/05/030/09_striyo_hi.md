@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ prá ← prá (invariable)
 
 yudháye ← √yudh- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्त्रियो॒ हि दा॒स आयु॑धानि च॒क्रे किं मा॑ करन्नब॒ला अ॑स्य॒ सेनाः॑ ।  
+अ॒न्तर्ह्यख्य॑दु॒भे अ॑स्य॒ धेने॒ अथोप॒ प्रैद्यु॒धये॒ दस्यु॒मिन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -268,7 +274,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

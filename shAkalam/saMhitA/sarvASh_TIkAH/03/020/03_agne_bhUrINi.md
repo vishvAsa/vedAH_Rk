@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ saṁdadhúḥ ← √dhā- 1 (root)
 
 tvé ← tvám (pronoun)  
 {case:LOC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ भूरी॑णि॒ तव॑ जातवेदो॒ देव॑ स्वधावो॒ऽमृत॑स्य॒ नाम॑ ।  
+याश्च॑ मा॒या मा॒यिनां॑ विश्वमिन्व॒ त्वे पू॒र्वीः सं॑द॒धुः पृ॑ष्टबन्धो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “relative; bandhu \[word\]; association; friend; kin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

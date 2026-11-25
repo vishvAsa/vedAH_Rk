@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -54,7 +55,12 @@ sácethe ← √sac- 1 (root)
 
 uṣásam ← uṣás- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नृ॒वद्द॑स्रा मनो॒युजा॒ रथे॑न पृथु॒पाज॑सा ।  
+सचे॑थे अश्विनो॒षस॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “Ushas; dawn; uṣas \[word\]; morning.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

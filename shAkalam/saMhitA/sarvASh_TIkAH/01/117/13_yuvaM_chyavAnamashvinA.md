@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ sahá ← sahá (invariable)
 
 śriyā́ ← śrī́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं च्यवा॑नमश्विना॒ जर॑न्तं॒ पुन॒र्युवा॑नं चक्रथुः॒ शची॑भिः ।  
+यु॒वो रथं॑ दुहि॒ता सूर्य॑स्य स॒ह श्रि॒या ना॑सत्यावृणीत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः यूपो वा"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः यूपो वा
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 vidā́ḥ ← √vid- 1 (root)  
 {number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वो नः॑ पा॒ह्यंह॑सो॒ नि के॒तुना॒ विश्वं॒ सम॒त्रिणं॑ दह ।  
+कृ॒धी न॑ ऊ॒र्ध्वाञ्च॒रथा॑य जी॒वसे॑ वि॒दा दे॒वेषु॑ नो॒ दुवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

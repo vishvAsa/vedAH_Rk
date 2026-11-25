@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -89,7 +90,12 @@ makṣú ← makṣú- (nominal stem)
 
 prātár ← prātár (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवी॑वृधद्वो अमृता॒ अम॑न्दीदेक॒द्यूर्दे॑वा उ॒त याश्च॑ देवीः ।  
+तस्मा॑ उ॒ राधः॑ कृणुत प्रश॒स्तं प्रा॒तर्म॒क्षू धि॒याव॑सुर्जगम्यात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

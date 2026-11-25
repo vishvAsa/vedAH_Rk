@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मेधातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ sám ← sám (invariable)
 
 sū́ryeṇa ← sū́rya- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अचि॑क्रद॒द्वृषा॒ हरि॑र्म॒हान्मि॒त्रो न द॑र्श॒तः ।  
+सं सूर्ये॑ण रोचते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “please; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

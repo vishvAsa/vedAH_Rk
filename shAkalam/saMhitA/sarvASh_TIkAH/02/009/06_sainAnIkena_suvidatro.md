@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ revát ← revánt- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सैनानी॑केन सुवि॒दत्रो॑ अ॒स्मे यष्टा॑ दे॒वाँ आय॑जिष्ठः स्व॒स्ति ।  
+अद॑ब्धो गो॒पा उ॒त नः॑ पर॒स्पा अग्ने॑ द्यु॒मदु॒त रे॒वद्दि॑दीहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “shine; glitter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

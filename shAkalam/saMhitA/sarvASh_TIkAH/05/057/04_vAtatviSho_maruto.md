@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ prátvakṣasaḥ ← prátvakṣas- (nominal stem)
 
 urávaḥ ← urú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वात॑त्विषो म॒रुतो॑ व॒र्षनि॑र्णिजो य॒मा इ॑व॒ सुस॑दृशः सु॒पेश॑सः ।  
+पि॒शङ्गा॑श्वा अरु॒णाश्वा॑ अरे॒पसः॒ प्रत्व॑क्षसो महि॒ना द्यौरि॑वो॒रवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -232,7 +237,7 @@ _________
 
 The wind-powered marut-s, robed in rain,  
 alike, like twins, wonderfully adorned.  
-… 
+…
 </details>
 
 <details><summary>Wilson</summary>

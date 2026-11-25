@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हविर्धान आङ्गिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ dhī́ḥ ← dhī́- (nominal stem)
 
 hótāram ← hótar- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॒ त्यं द्र॒प्सं वि॒भ्वं॑ विचक्ष॒णं विराभ॑रदिषि॒तः श्ये॒नो अ॑ध्व॒रे ।  
+यदी॒ विशो॑ वृ॒णते॑ द॒स्ममार्या॑ अ॒ग्निं होता॑र॒मध॒ धीर॑जायत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

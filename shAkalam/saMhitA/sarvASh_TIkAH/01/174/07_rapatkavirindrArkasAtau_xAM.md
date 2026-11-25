@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ ní ← ní (invariable)
 
 śret ← √śri- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रप॑त्क॒विरि॑न्द्रा॒र्कसा॑तौ॒ क्षां दा॒सायो॑प॒बर्ह॑णीं कः ।  
+कर॑त्ति॒स्रो म॒घवा॒ दानु॑चित्रा॒ नि दु॑र्यो॒णे कुय॑वाचं मृ॒धि श्रे॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

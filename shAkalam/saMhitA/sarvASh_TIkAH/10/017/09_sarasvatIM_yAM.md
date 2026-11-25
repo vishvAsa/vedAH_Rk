@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -77,7 +78,12 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 yájamāneṣu ← √yaj- (root)  
 {case:LOC, gender:M, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सर॑स्वतीं॒ यां पि॒तरो॒ हव॑न्ते दक्षि॒णा य॒ज्ञम॑भि॒नक्ष॑माणाः ।  
+स॒ह॒स्रा॒र्घमि॒ळो अत्र॑ भा॒गं रा॒यस्पोषं॒ यज॑मानेषु धेहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ mádhu ← mádhu- (nominal stem)
 
 svā́dma ← svā́dman- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स जा॒तेभि॑र्वृत्र॒हा सेदु॑ ह॒व्यैरुदु॒स्रिया॑ असृज॒दिन्द्रो॑ अ॒र्कैः ।  
+उ॒रू॒च्य॑स्मै घृ॒तव॒द्भर॑न्ती॒ मधु॒ स्वाद्म॑ दुदुहे॒ जेन्या॒ गौः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

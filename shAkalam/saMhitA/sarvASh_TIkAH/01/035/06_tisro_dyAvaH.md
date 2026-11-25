@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -95,7 +96,12 @@ u ← u (invariable)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒स्रो द्यावः॑ सवि॒तुर्द्वा उ॒पस्थाँ॒ एका॑ य॒मस्य॒ भुव॑ने विरा॒षाट् ।  
+आ॒णिं न रथ्य॑म॒मृताधि॑ तस्थुरि॒ह ब्र॑वीतु॒ य उ॒ तच्चिके॑तत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

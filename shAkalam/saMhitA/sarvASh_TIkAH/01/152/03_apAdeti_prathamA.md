@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -95,7 +96,12 @@ r̥tám ← r̥tá- (nominal stem)
 
 tārīt ← √tr̥̄- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पादे॑ति प्रथ॒मा प॒द्वती॑नां॒ कस्तद्वां॑ मित्रावरु॒णा चि॑केत ।  
+गर्भो॑ भा॒रं भ॑र॒त्या चि॑दस्य ऋ॒तं पिप॒र्त्यनृ॑तं॒ नि ता॑रीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

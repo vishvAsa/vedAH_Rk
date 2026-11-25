@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ te ← tvám (pronoun)
 
 víśvāsu ← víśva- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त्वा॑ शु॒क्रा अ॑चुच्यवुः सु॒तास॑ इन्द्र गिर्वणः ।  
+पिबा॒ त्व१॒॑स्यान्ध॑स॒ इन्द्र॒ विश्वा॑सु ते हि॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

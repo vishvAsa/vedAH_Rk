@@ -4,6 +4,7 @@ devataa = "अक्षकितवनिन्दा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकितवनिन्दा
@@ -89,7 +90,12 @@ sáḥ ← sá- ~ tá- (pronoun)
 
 vr̥ṣaláḥ ← vr̥ṣalá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्त्रियं॑ दृ॒ष्ट्वाय॑ कित॒वं त॑तापा॒न्येषां॑ जा॒यां सुकृ॑तं च॒ योनि॑म् ।  
+पू॒र्वा॒ह्णे अश्वा॑न्युयु॒जे हि ब॒भ्रून्त्सो अ॒ग्नेरन्ते॑ वृष॒लः प॑पाद ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “fall.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

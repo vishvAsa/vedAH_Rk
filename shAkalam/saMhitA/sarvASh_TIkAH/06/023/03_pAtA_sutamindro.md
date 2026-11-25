@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ stuvaté ← √stu- (root)
 
 vásu ← vásu- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पाता॑ सु॒तमिन्द्रो॑ अस्तु॒ सोमं॑ प्रणे॒नीरु॒ग्रो ज॑रि॒तार॑मू॒ती ।  
+कर्ता॑ वी॒राय॒ सुष्व॑य उ लो॒कं दाता॒ वसु॑ स्तुव॒ते की॒रये॑ चित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “even; indeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -250,7 +255,6 @@ the maker of wide space for the hero and the soma-presser, the giver of  goods t
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/023/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -258,7 +262,6 @@ The alternation of root-accented -tar- agent nouns and redupl. agentive - i-stem
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

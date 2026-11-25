@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ naśat ← √naś- 1 (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न यस्य॑ ते शवसान स॒ख्यमा॒नंश॒ मर्त्यः॑ ।  
+नकिः॒ शवां॑सि ते नशत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “reach; achieve; enter (a state); reach.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

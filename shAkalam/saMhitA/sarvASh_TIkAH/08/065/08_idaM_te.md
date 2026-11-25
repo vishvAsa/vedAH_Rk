@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ piba ← √pā- 2 (root)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं ते॑ सो॒म्यं मध्वधु॑क्ष॒न्नद्रि॑भि॒र्नरः॑ ।  
+जु॒षा॒ण इ॑न्द्र॒ तत्पि॑ब ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

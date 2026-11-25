@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "शकपूतो नार्मेधः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -71,7 +72,12 @@ rakṣásaḥ ← rakṣás- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता वां॑ मित्रावरुणा धार॒यत्क्षि॑ती सुषु॒म्नेषि॑त॒त्वता॑ यजामसि ।  
+यु॒वोः क्रा॒णाय॑ स॒ख्यैर॒भि ष्या॑म र॒क्षसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

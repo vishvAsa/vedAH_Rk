@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ saúbhagāni ← saúbhaga- (nominal stem)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सम॒श्विनो॒रव॑सा॒ नूत॑नेन मयो॒भुवा॑ सु॒प्रणी॑ती गमेम ।  
+आ नो॑ र॒यिं व॑हत॒मोत वी॒राना विश्वा॑न्यमृता॒ सौभ॑गानि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “well-being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

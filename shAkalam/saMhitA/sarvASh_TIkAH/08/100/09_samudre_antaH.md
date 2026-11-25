@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -65,7 +66,12 @@ balím ← balí- (nominal stem)
 
 puráḥprasravaṇāḥ ← puráḥprasravaṇa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मु॒द्रे अ॒न्तः श॑यत उ॒द्ना वज्रो॑ अ॒भीवृ॑तः ।  
+भर॑न्त्यस्मै सं॒यतः॑ पु॒रःप्र॑स्रवणा ब॒लिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “sulfur; bali; Bali; tribute; tax; bali \[word\]; Bali.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -175,12 +180,6 @@ _________
 [Singer:] “Within the sea it lies—the mace covered over with water. Streaming forth in front continuously, they [=waters] bring it tribute.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The poet now plays another trick. The first pāda “within the sea he/it lies” (samudré antáḥ śayate) returns us to the Vṛtra myth and, we would think, to Vṛtra, who, in the most famous treatment of the myth, I.32, lies (√śi, Vṛtra’s signature verb there) submerged in water after his smiting (e.g., I.32.8 … amuyā́śáyānam … áti yanty ā́paḥ “The waters go across him lying in that way”). Here we have both the signature verb and the water - but it’s the vájra that is lying in the water, not Vṛtra, as we discover in the next pāda. Moreover, in that pāda the mace is ‘covered’ (abhī́vṛtaḥ) with water, using the same root (at least synchronically, whatever its source) as the transitive verb expressing Vṛtra’s obstruction of the waters in 7b (ávīvarīt). Both forms of course also evoke Vṛtra himself, “obstruction” embodied.
-
-As far as I know, this image of the submerged mace receiving tribute from the waters is found nowhere else in the Vṛtra myth complex, and seems to have been invented here for the purpose of verbal trickery.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -188,7 +187,6 @@ I take these three Anuṣṭubh verses as the singer’s performance of the reci
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

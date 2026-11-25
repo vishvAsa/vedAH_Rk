@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 pr̥thivī́ ← pr̥thivī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रैष स्तोमः॑ पृथि॒वीम॒न्तरि॑क्षं॒ वन॒स्पतीँ॒रोष॑धी रा॒ये अ॑श्याः ।  
+दे॒वोदे॑वः सु॒हवो॑ भूतु॒ मह्यं॒ मा नो॑ मा॒ता पृ॑थि॒वी दु॑र्म॒तौ धा॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -260,7 +265,6 @@ Let every god be easy for me to invoke. Let Mother Earth not set us in  disfavor
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/042/14-16.md">
 <details><summary><h2>14-16 ...{Loading}...</h2></summary>
 
@@ -268,7 +272,6 @@ This trio of vss. echoes vs. 1 and ring-compositionally seems to bring the hymn 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

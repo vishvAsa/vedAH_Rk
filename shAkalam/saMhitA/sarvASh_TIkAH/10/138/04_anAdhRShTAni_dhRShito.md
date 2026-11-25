@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अङ्ग औरवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ gr̥ṇānáḥ ← √gr̥̄- 1 (root)
 
 virúkmatā ← virúkmant- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अना॑धृष्टानि धृषि॒तो व्या॑स्यन्नि॒धीँरदे॑वाँ अमृणद॒यास्यः॑ ।  
+मा॒सेव॒ सूर्यो॒ वसु॒ पुर्य॒मा द॑दे गृणा॒नः शत्रूँ॑रशृणाद्वि॒रुक्म॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - \[noun\], instrumental, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

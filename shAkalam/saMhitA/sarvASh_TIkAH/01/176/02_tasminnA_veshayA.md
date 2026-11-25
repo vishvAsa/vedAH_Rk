@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 yávam ← yáva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मि॒न्ना वे॑शया॒ गिरो॒ य एक॑श्चर्षणी॒नाम् ।  
+अनु॑ स्व॒धा यमु॒प्यते॒ यवं॒ न चर्कृ॑ष॒द्वृषा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “bull; Indra; stallion; Vṛṣan; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

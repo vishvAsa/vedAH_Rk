@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ páriṣkr̥tam ← √kr̥- (root)
 
 víśvābhiḥ ← víśva- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां सो॑म॒ पव॑मानं स्वा॒ध्योऽनु॒ विप्रा॑सो अमदन्नव॒स्यवः॑ ।  
+त्वां सु॑प॒र्ण आभ॑रद्दि॒वस्परीन्दो॒ विश्वा॑भिर्म॒तिभिः॒ परि॑ष्कृतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “decorate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -228,14 +233,6 @@ You, o Soma, purifying yourself, do the very attentive poets applaud as  they se
 You did the fine-feathered (falcon) carry here from heaven, o drop, you  who are adorned all over with all thoughts.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Both hemistichs open with a distracted 2nd sg. acc. pronoun (t u vā́m). The accusative of this pronoun is, of course, historically monosyllabic, though distraction is not uncommon in the RV. Here the distraction may have resulted from matching the distracted nominative sg. form that opened the 2nd hemistich of the previous vs., 23c.
-
-The impf. amadan in b is wrongly tr. as a present in the published translation: correct to “did … applaud.” This may continue the account of the Vala myth, with the “very attentive poets” being the Aṅgirases themselves. It seems unlikely that it is the first action of the soma-stealing myth found in c.
-
-Once again the Pp. analyzes ā́/ abharat, but the sequence could instead be ā́/ bharat with an injunc.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -249,7 +246,6 @@ It may also be that 22 continues the theme of 21: in 21a Soma made the dawns shi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

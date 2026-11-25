@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ ví ← ví (invariable)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने स॒प्रथा॑ असि॒ जुष्टो॒ होता॒ वरे॑ण्यः ।  
+त्वया॑ य॒ज्ञं वि त॑न्वते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
     speak; propagate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

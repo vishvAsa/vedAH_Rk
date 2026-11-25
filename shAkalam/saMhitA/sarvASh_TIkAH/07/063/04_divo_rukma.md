@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -80,7 +81,12 @@ sū́ryeṇa ← sū́rya- (nominal stem)
 
 kr̥ṇávan ← √kr̥- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो रु॒क्म उ॑रु॒चक्षा॒ उदे॑ति दू॒रेअ॑र्थस्त॒रणि॒र्भ्राज॑मानः ।  
+नू॒नं जनाः॒ सूर्ये॑ण॒ प्रसू॑ता॒ अय॒न्नर्था॑नि कृ॒णव॒न्नपां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “work; deed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

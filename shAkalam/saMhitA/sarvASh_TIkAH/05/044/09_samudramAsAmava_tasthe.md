@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ vidyáte ← √vid- 1 (root)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मु॒द्रमा॑सा॒मव॑ तस्थे अग्रि॒मा न रि॑ष्यति॒ सव॑नं॒ यस्मि॒न्नाय॑ता ।  
+अत्रा॒ न हार्दि॑ क्रव॒णस्य॑ रेजते॒ यत्रा॑ म॒तिर्वि॒द्यते॑ पूत॒बन्ध॑नी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “bandhana.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

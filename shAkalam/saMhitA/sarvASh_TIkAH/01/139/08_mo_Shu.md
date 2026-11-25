@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -143,7 +144,13 @@ duṣṭáram ← duṣṭára- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मो षु वो॑ अ॒स्मद॒भि तानि॒ पौंस्या॒ सना॑ भूवन्द्यु॒म्नानि॒ मोत जा॑रिषुर॒स्मत्पु॒रोत जा॑रिषुः ।  
+यद्व॑श्चि॒त्रं यु॒गेयु॑गे॒ नव्यं॒ घोषा॒दम॑र्त्यम् ।  
+अ॒स्मासु॒ तन्म॑रुतो॒ यच्च॑ दु॒ष्टरं॑ दिधृ॒ता यच्च॑ दु॒ष्टर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -380,7 +387,6 @@ _________
 - “incomparable; irresistible; unbearable; unconquerable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "त्वष्टा शुचिश्च"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्वष्टा शुचिश्च
@@ -89,7 +90,12 @@ sumádgaṇaḥ ← sumádgaṇa- (nominal stem)
 
 tváṣṭar ← tváṣṭar- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒मेव॑ नः सुहवा॒ आ हि गन्त॑न॒ नि ब॒र्हिषि॑ सदतना॒ रणि॑ष्टन ।  
+अथा॑ मन्दस्व जुजुषा॒णो अन्ध॑स॒स्त्वष्ट॑र्दे॒वेभि॒र्जनि॑भिः सु॒मद्ग॑णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

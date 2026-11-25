@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -89,7 +90,12 @@ mártyeṣu ← mártya- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्वां॒ चक्षु॑र्वरुण सु॒प्रती॑कं दे॒वयो॑रेति॒ सूर्य॑स्तत॒न्वान् ।  
+अ॒भि यो विश्वा॒ भुव॑नानि॒ चष्टे॒ स म॒न्युं मर्त्ये॒ष्वा चि॑केत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

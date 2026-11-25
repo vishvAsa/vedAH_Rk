@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ br̥hatáḥ ← br̥hánt- (nominal stem)
 
 tmánā ← tmán- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न त॑ इन्द्र सुम॒तयो॒ न रायः॑ सं॒चक्षे॒ पूर्वा॑ उ॒षसो॒ न नूत्नाः॑ ।  
+देव॑कं चिन्मान्यमा॒नं ज॑घ॒न्थाव॒ त्मना॑ बृह॒तः शम्ब॑रं भेत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     betray; fester; strike.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

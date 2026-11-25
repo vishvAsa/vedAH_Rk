@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -63,7 +64,12 @@ nidé ← níd- (nominal stem)
 
 rīradhatam ← √randh- (root)  
 {number:DU, person:2, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा पा॑प॒त्वाय॑ नो न॒रेन्द्रा॑ग्नी॒ माभिश॑स्तये ।  
+मा नो॑ रीरधतं नि॒दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “derision; scoffer; contempt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

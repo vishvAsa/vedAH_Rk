@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ dyumát ← dyumánt- (nominal stem)
 
 rakṣohā́ ← rakṣohán- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं वचः॑ शत॒साः संस॑हस्र॒मुद॒ग्नये॑ जनिषीष्ट द्वि॒बर्हाः॑ ।  
+शं यत्स्तो॒तृभ्य॑ आ॒पये॒ भवा॑ति द्यु॒मद॑मीव॒चात॑नं रक्षो॒हा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “killing; curative; destroying; removing; māraka; stabbing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

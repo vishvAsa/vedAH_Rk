@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अरुणो वैतहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ víśaṁ-viśam ← víś- (nominal stem)
 
 viśyàḥ ← viśyà- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स द॑र्शत॒श्रीरति॑थिर्गृ॒हेगृ॑हे॒ वने॑वने शिश्रिये तक्व॒वीरि॑व ।  
+जनं॑जनं॒ जन्यो॒ नाति॑ मन्यते॒ विश॒ आ क्षे॑ति वि॒श्यो॒३॒॑ विशं॑विशम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

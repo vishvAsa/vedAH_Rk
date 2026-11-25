@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ yajñám ← yajñá- (nominal stem)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्व१॒॑ त्री च॒क्रा त्रि॒वृतो॒ रथ॑स्य॒ क्व१॒॑ त्रयो॑ व॒न्धुरो॒ ये सनी॑ळाः ।  
+क॒दा योगो॑ वा॒जिनो॒ रास॑भस्य॒ येन॑ य॒ज्ञं ना॑सत्योपया॒थः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “enter (a state); arrive; come; go.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

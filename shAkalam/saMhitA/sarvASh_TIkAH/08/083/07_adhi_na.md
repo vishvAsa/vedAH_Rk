@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -57,7 +58,12 @@ itá ← √i- 1 (root)
 
 márutaḥ ← marút- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधि॑ न इन्द्रैषां॒ विष्णो॑ सजा॒त्या॑नाम् ।  
+इ॒ता मरु॑तो॒ अश्वि॑ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

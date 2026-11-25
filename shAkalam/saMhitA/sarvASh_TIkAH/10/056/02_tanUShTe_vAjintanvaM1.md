@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ mimīyāḥ ← √mī- 2 (root)
 
 svám ← svá- (pronoun)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त॒नूष्टे॑ वाजिन्त॒न्वं१॒॑ नय॑न्ती वा॒मम॒स्मभ्यं॒ धातु॒ शर्म॒ तुभ्य॑म् ।  
+अह्रु॑तो म॒हो ध॒रुणा॑य दे॒वान्दि॒वी॑व॒ ज्योतिः॒ स्वमा मि॑मीयाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “transgress; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ hūyate ← √hu- (root)
 
 tvé ← tvám (pronoun)  
 {case:LOC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यच्चि॒द्धि शश्व॑ता॒ तना॑ दे॒वन्दे॑वं॒ यजा॑महे ।  
+त्वे इद्धू॑यते ह॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “Havya; offering; ghee; havis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

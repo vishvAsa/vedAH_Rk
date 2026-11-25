@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ kr̥ṣṇávyathiḥ ← kr̥ṣṇávyathi- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स यो व्यस्था॑द॒भि दक्ष॑दु॒र्वीं प॒शुर्नैति॑ स्व॒युरगो॑पाः ।  
+अ॒ग्निः शो॒चिष्माँ॑ अत॒सान्यु॒ष्णन्कृ॒ष्णव्य॑थिरस्वदय॒न्न भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

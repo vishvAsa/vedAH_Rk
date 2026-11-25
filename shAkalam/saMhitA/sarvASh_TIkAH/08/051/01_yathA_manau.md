@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ sácā ← sácā (invariable)
 
 śrúṣṭigau ← śrúṣṭigu- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॒ मनौ॒ सांव॑रणौ॒ सोम॑मि॒न्द्रापि॑बः सु॒तम् ।  
+नीपा॑तिथौ मघव॒न्मेध्या॑तिथौ॒ पुष्टि॑गौ॒ श्रुष्टि॑गौ॒ सचा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “jointly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

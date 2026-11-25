@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ uśántā ← √vaś- (root)
 
 yaja ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं नो॑ अग्ने अध्व॒रं जु॑षस्व म॒रुत्स्विन्द्रे॑ य॒शसं॑ कृधी नः ।  
+आ नक्ता॑ ब॒र्हिः स॑दतामु॒षासो॒शन्ता॑ मि॒त्रावरु॑णा यजे॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “here; now; in this world; now; below; there; here; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

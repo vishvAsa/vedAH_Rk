@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -77,7 +78,12 @@ rájāṁsi ← rájas- (nominal stem)
 
 táviṣīm ← táviṣī- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भीवृ॑तं॒ कृश॑नैर्वि॒श्वरू॑पं॒ हिर॑ण्यशम्यं यज॒तो बृ॒हन्त॑म् ।  
+आस्था॒द्रथं॑ सवि॒ता चि॒त्रभा॑नुः कृ॒ष्णा रजां॑सि॒ तवि॑षीं॒ दधा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

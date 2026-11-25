@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ pāvakā́ḥ ← pāvaká- (nominal stem)
 
 śúcijanmānaḥ ← śúcijanman- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुची॑ वो ह॒व्या म॑रुतः॒ शुची॑नां॒ शुचिं॑ हिनोम्यध्व॒रं शुचि॑भ्यः ।  
+ऋ॒तेन॑ स॒त्यमृ॑त॒साप॑ आय॒ञ्छुचि॑जन्मानः॒ शुच॑यः पाव॒काः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

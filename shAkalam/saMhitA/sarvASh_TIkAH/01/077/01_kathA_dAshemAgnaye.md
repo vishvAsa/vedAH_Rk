@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ kr̥ṇóti ← √kr̥- (root)
 
 yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था दा॑शेमा॒ग्नये॒ कास्मै॑ दे॒वजु॑ष्टोच्यते भा॒मिने॒ गीः ।  
+यो मर्त्ये॑ष्व॒मृत॑ ऋ॒तावा॒ होता॒ यजि॑ष्ठ॒ इत्कृ॒णोति॑ दे॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

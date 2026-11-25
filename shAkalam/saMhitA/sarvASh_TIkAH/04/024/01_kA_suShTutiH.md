@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ niṣṣídhām ← niṣṣídh- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+का सु॑ष्टु॒तिः शव॑सः सू॒नुमिन्द्र॑मर्वाची॒नं राध॑स॒ आ व॑वर्तत् ।  
+द॒दिर्हि वी॒रो गृ॑ण॒ते वसू॑नि॒ स गोप॑तिर्नि॒ष्षिधां॑ नो जनासः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

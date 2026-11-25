@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -72,7 +73,12 @@ patī ← páti- (nominal stem)
 
 śubhaḥ ← śúbh- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रु॒तं गा॑य॒त्रं तक॑वानस्या॒हं चि॒द्धि रि॒रेभा॑श्विना वाम् ।  
+आक्षी शु॑भस्पती॒ दन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

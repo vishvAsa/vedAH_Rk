@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सहस्रं वसुरोचिषोङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ tíṣṭham ← √sthā- (root)
 
 vánasya ← vána- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पारा॑वतस्य रा॒तिषु॑ द्र॒वच्च॑क्रेष्वा॒शुषु॑ ।  
+तिष्ठं॒ वन॑स्य॒ मध्य॒ आ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

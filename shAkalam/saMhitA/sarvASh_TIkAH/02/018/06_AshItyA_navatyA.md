@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ páriṣiktaḥ ← √sic- (root)
 
 tvāyā́ ← tvám (pronoun)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आशी॒त्या न॑व॒त्या या॑ह्य॒र्वाङा श॒तेन॒ हरि॑भिरु॒ह्यमा॑नः ।  
+अ॒यं हि ते॑ शु॒नहो॑त्रेषु॒ सोम॒ इन्द्र॑ त्वा॒या परि॑षिक्तो॒ मदा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

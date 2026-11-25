@@ -4,6 +4,7 @@ devataa = "सारथिः रश्मयः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सारथिः रश्मयः
@@ -80,7 +81,12 @@ raśmáyaḥ ← raśmí- (nominal stem)
 
 yachanti ← √yam- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रथे॒ तिष्ठ॑न्नयति वा॒जिनः॑ पु॒रो यत्र॑यत्र का॒मय॑ते सुषार॒थिः ।  
+अ॒भीशू॑नां महि॒मानं॑ पनायत॒ मनः॑ प॒श्चादनु॑ यच्छन्ति र॒श्मयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “beam; rein; sunbeam; shininess; cord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ kánikrat ← √krand- (root)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒विं मृ॑जन्ति॒ मर्ज्यं॑ धी॒भिर्विप्रा॑ अव॒स्यवः॑ ।  
+वृषा॒ कनि॑क्रदर्षति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “run.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -150,10 +155,6 @@ The inspired poets, seeking help, with their insights groom the sage poet  worth
 The bull rushes ever roaring.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note kavím (of Soma) contrasting with víprāḥ, the human poets who groom him.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -163,7 +164,6 @@ As for internal connections, see dhībhíḥ (20b, 21a), víprāḥ (20b, 21c), 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

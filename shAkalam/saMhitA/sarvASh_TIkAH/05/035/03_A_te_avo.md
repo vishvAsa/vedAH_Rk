@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रभूवसुराङ्गिरसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ indra ← índra- (nominal stem)
 
 turváṇiḥ ← turváṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ तेऽवो॒ वरे॑ण्यं॒ वृष॑न्तमस्य हूमहे ।  
+वृष॑जूति॒र्हि ज॑ज्ञि॒ष आ॒भूभि॑रिन्द्र तु॒र्वणिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “victorious; overpowering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

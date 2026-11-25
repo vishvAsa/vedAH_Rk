@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -74,7 +75,12 @@ sadhásthe ← sadhástha- (nominal stem)
 
 vā ← vā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये वा॑वृ॒धन्त॒ पार्थि॑वा॒ य उ॒राव॒न्तरि॑क्ष॒ आ ।  
+वृ॒जने॑ वा न॒दीनां॑ स॒धस्थे॑ वा म॒हो दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

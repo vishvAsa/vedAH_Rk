@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ vājínaḥ ← vājín- (nominal stem)
 
 yámam ← yáma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+होता॑जनिष्ट॒ चेत॑नः पि॒ता पि॒तृभ्य॑ ऊ॒तये॑ ।  
+प्र॒यक्ष॒ञ्जेन्यं॒ वसु॑ श॒केम॑ वा॒जिनो॒ यम॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

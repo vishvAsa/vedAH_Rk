@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -83,7 +84,12 @@ vasūyā́ ← vasūyā́- (nominal stem)
 
 vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कया॑ शु॒भा सव॑यसः॒ सनी॑ळाः समा॒न्या म॒रुतः॒ सं मि॑मिक्षुः ।  
+कया॑ म॒ती कुत॒ एता॑स ए॒तेऽर्च॑न्ति॒ शुष्मं॒ वृष॑णो वसू॒या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - \[noun\], instrumental, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

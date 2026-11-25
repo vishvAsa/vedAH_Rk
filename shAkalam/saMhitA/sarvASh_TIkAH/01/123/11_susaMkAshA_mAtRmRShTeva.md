@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -95,7 +96,12 @@ te ← tvám (pronoun)
 
 uṣásaḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒सं॒का॒शा मा॒तृमृ॑ष्टेव॒ योषा॒विस्त॒न्वं॑ कृणुषे दृ॒शे कम् ।  
+भ॒द्रा त्वमु॑षो वित॒रं व्यु॑च्छ॒ न तत्ते॑ अ॒न्या उ॒षसो॑ नशन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +262,6 @@ _________
 - “reach; achieve; enter (a state); reach.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ vaso ← vásu- (nominal stem)
 
 viddhí ← √vid- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यमि॑न्द्र त्वा॒यवो॒ऽभि प्र णो॑नुमो वृषन् ।  
+वि॒द्धी त्व१॒॑स्य नो॑ वसो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “good; good; benign; vasu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -176,7 +181,6 @@ We are seeking you, o Indra; we keep bellowing out to you, o bull. Know this (cr
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -186,7 +190,6 @@ There is no obvious noun to supply with asyá ‘of this’ in c. Geldner suppli
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

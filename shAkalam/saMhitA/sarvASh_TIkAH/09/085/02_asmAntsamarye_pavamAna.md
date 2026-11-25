@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -98,7 +99,12 @@ píba ← √pā- 2 (root)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मान्त्स॑म॒र्ये प॑वमान चोदय॒ दक्षो॑ दे॒वाना॒मसि॒ हि प्रि॒यो मदः॑ ।  
+ज॒हि शत्रूँ॑र॒भ्या भ॑न्दनाय॒तः पिबे॑न्द्र॒ सोम॒मव॑ नो॒ मृधो॑ जहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

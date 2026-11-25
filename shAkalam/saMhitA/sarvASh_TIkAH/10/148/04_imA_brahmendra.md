@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पृथुर्वैन्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ utá ← utá (invariable)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा ब्रह्मे॑न्द्र॒ तुभ्यं॑ शंसि॒ दा नृभ्यो॑ नृ॒णां शू॑र॒ शवः॑ ।  
+तेभि॑र्भव॒ सक्र॑तु॒र्येषु॑ चा॒कन्नु॒त त्रा॑यस्व गृण॒त उ॒त स्तीन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - \[noun\], accusative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

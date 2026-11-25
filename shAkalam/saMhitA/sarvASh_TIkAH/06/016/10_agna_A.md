@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -17,13 +18,13 @@ ChandaH = "गायत्री"
 गृणानो᳓ हव्य᳓दातये  
 नि᳓ हो᳓ता सत्सि बर्हि᳓षि
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अग्न॒ आया॑हि वी॒तये॑ ।  
 गृ॒णा॒नो ह॒व्यदा॑तये ।  
 नि होता॑ सत्सि ब॒र्हिषि॑ ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -67,7 +68,12 @@ ní ← ní (invariable)
 
 satsi ← √sad- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्न॒ आ या॑हि वी॒तये॑ गृणा॒नो ह॒व्यदा॑तये ।  
+नि होता॑ सत्सि ब॒र्हिषि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “Barhis; barhis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -265,5 +270,3 @@ Zum Mahle komm, o Agni, her, zur Opferspende hochgelobt, Als Priester setz dich 
 
 भावार्थभाषाः -  जेथे विद्वान विद्यावृद्धीची इच्छा करतात तेथे सर्वजण सुखी होतात. ॥ १० ॥
 </details>
-
-

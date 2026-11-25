@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -82,7 +83,12 @@ arcíbhiḥ ← arcí- (nominal stem)
 
 sújāte ← sujātá- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नो॒ गोम॑ती॒रिष॒ आ व॑हा दुहितर्दिवः ।  
+सा॒कं सूर्य॑स्य र॒श्मिभिः॑ शु॒क्रैः शोच॑द्भिर॒र्चिभिः॒ सुजा॑ते॒ अश्व॑सूनृते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “big; friendly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

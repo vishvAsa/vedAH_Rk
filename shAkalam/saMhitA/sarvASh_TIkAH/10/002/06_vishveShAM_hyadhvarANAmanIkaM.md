@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ spārhā́ḥ ← spārhá- (nominal stem)
 
 viśvájanyāḥ ← viśvájanya- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑षां॒ ह्य॑ध्व॒राणा॒मनी॑कं चि॒त्रं के॒तुं जनि॑ता त्वा ज॒जान॑ ।  
+स आ य॑जस्व नृ॒वती॒रनु॒ क्षाः स्पा॒र्हा इषः॑ क्षु॒मती॑र्वि॒श्वज॑न्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “omnipresent; worldwide.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

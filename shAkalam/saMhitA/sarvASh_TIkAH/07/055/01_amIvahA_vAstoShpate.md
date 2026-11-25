@@ -4,6 +4,7 @@ devataa = "वास्तोष्पतिः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वास्तोष्पतिः
@@ -18,7 +19,7 @@ ChandaH = "गायत्री"
 स᳓खा सुशे᳓व एधि नः
 </details>
 
-<details><summary>तैत्तिरीयम् - मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒मी॒व॒हा वास्तो॑ष्पते॒ विश्वा॑ रू॒पाण्या॑ वि॒शन्न् ।  
 सखा॑ सु॒शेव॑ एधि नः ।
@@ -66,7 +67,12 @@ sákhā ← sákhi- (nominal stem)
 
 suśévaḥ ← suśéva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒मी॒व॒हा वा॑स्तोष्पते॒ विश्वा॑ रू॒पाण्या॑वि॒शन् ।  
+सखा॑ सु॒शेव॑ एधि नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

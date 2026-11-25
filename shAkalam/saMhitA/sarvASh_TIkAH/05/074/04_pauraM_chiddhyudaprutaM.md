@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ padé ← padá- (nominal stem)
 
 siṁhám ← siṁhá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पौ॒रं चि॒द्ध्यु॑द॒प्रुतं॒ पौर॑ पौ॒राय॒ जिन्व॑थः ।  
+यदीं॑ गृभी॒तता॑तये सिं॒हमि॑व द्रु॒हस्प॒दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
     topographic point; path; residence; site; topic.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

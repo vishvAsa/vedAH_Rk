@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ tváyā ← tvám (pronoun)
 
 yujā́ ← yúj- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बळृ॒त्विया॑य॒ धाम्न॒ ऋक्व॑भिः शूर नोनुमः ।  
+जेषा॑मेन्द्र॒ त्वया॑ यु॒जा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “ally; friend; pair; two; companion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

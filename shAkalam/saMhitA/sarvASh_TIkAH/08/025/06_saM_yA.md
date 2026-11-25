@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -66,7 +67,12 @@ vām ← tvám (pronoun)
 
 vr̥ṣṭáyaḥ ← vr̥ṣṭí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं या दानू॑नि ये॒मथु॑र्दि॒व्याः पार्थि॑वी॒रिषः॑ ।  
+नभ॑स्वती॒रा वां॑ चरन्तु वृ॒ष्टयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “rain; shower; rainy season.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,7 +183,6 @@ You two who control the drops, the earthly and heavenly refreshments— let your
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -186,7 +190,6 @@ The usual problem with (-)dānu-: ‘gift’ or ‘drop’ or both? In this case
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

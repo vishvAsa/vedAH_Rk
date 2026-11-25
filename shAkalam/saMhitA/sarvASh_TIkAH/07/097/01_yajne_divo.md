@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ prathamám ← prathamá- (nominal stem)
 
 váyaḥ ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञे दि॒वो नृ॒षद॑ने पृथि॒व्या नरो॒ यत्र॑ देव॒यवो॒ मद॑न्ति ।  
+इन्द्रा॑य॒ यत्र॒ सव॑नानि सु॒न्वे गम॒न्मदा॑य प्रथ॒मं वय॑श्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -60,7 +61,12 @@ kr̥tam ← √kr̥- (root)
 
 sú ← sú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑वरुण वाम॒हं हु॒वे चि॒त्राय॒ राध॑से ।  
+अ॒स्मान्त्सु जि॒ग्युष॑स्कृतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

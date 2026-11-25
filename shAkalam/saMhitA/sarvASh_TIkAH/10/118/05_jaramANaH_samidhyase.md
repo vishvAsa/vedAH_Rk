@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "उरुक्षय आमहीयवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -57,7 +58,12 @@ tám ← sá- ~ tá- (pronoun)
 
 tvā ← tvám (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जर॑माणः॒ समि॑ध्यसे दे॒वेभ्यो॑ हव्यवाहन ।  
+तं त्वा॑ हवन्त॒ मर्त्याः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

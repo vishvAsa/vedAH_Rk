@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -95,7 +96,12 @@ usrā́ḥ ← usrá- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒वो द्वाभ्यां॑ प॒र एक॑या॒ गा गुहा॒ तिष्ठ॑न्ती॒रनृ॑तस्य॒ सेतौ॑ ।  
+बृह॒स्पति॒स्तम॑सि॒ ज्योति॑रि॒च्छन्नुदु॒स्रा आक॒र्वि हि ति॒स्र आवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

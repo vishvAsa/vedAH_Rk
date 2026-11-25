@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ púraṁdhiḥ ← púraṁdhi- (nominal stem)
 
 rāyé ← rayí- ~ rāy- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तन्नोऽहि॑र्बु॒ध्न्यो॑ अ॒द्भिर॒र्कैस्तत्पर्व॑त॒स्तत्स॑वि॒ता चनो॑ धात् ।  
+तदोष॑धीभिर॒भि रा॑ति॒षाचो॒ भगः॒ पुरं॑धिर्जिन्वतु॒ प्र रा॒ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “wealth; possession; rai \[word\]; gold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

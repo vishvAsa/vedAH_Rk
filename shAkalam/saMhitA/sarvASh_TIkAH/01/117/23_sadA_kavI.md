@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ rarāthām ← √rā- 1 (root)
 
 śrútyam ← śrútya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सदा॑ कवी सुम॒तिमा च॑के वां॒ विश्वा॒ धियो॑ अश्विना॒ प्राव॑तं मे ।  
+अ॒स्मे र॒यिं ना॑सत्या बृ॒हन्त॑मपत्य॒साचं॒ श्रुत्यं॑ रराथाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “give; impart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

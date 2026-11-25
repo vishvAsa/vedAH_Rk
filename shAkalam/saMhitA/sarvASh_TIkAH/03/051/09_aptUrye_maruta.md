@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sutám ← √su- (root)
 
 své ← svá- (pronoun)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒प्तूर्ये॑ मरुत आ॒पिरे॒षोऽम॑न्द॒न्निन्द्र॒मनु॒ दाति॑वाराः ।  
+तेभिः॑ सा॒कं पि॑बतु वृत्रखा॒दः सु॒तं सोमं॑ दा॒शुषः॒ स्वे स॒धस्थे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “dwelling; location; home.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

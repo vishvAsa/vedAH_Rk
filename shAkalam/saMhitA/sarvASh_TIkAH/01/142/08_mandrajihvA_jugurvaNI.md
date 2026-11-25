@@ -4,6 +4,7 @@ devataa = "दैव्यौ होतारौ प्रचेतसौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दैव्यौ होतारौ प्रचेतसौ
@@ -68,7 +69,12 @@ divispŕ̥śam ← divispŕ̥ś- (nominal stem)
 
 sidhrám ← sidhrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒न्द्रजि॑ह्वा जुगु॒र्वणी॒ होता॑रा॒ दैव्या॑ क॒वी ।  
+य॒ज्ञं नो॑ यक्षतामि॒मं सि॒ध्रम॒द्य दि॑वि॒स्पृश॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “heavenward.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

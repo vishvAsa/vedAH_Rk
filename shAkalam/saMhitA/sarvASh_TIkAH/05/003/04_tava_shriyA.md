@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ daśasyántaḥ ← √daśasy- (root)
 
 uśíjaḥ ← uśíj- (nominal stem)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॑ श्रि॒या सु॒दृशो॑ देव दे॒वाः पु॒रू दधा॑ना अ॒मृतं॑ सपन्त ।  
+होता॑रम॒ग्निं मनु॑षो॒ नि षे॑दुर्दश॒स्यन्त॑ उ॒शिजः॒ शंस॑मा॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

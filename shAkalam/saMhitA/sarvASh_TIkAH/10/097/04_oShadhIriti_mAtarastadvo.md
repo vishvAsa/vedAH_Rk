@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -77,7 +78,12 @@ pūruṣa ← pū́ruṣa- (nominal stem)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओष॑धी॒रिति॑ मातर॒स्तद्वो॑ देवी॒रुप॑ ब्रुवे ।  
+स॒नेय॒मश्वं॒ गां वास॑ आ॒त्मानं॒ तव॑ पूरुष ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “man; man; Puruṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

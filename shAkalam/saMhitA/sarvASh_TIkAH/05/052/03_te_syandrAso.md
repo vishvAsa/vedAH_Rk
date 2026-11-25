@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -74,7 +75,12 @@ kṣamā́ ← kṣám- (nominal stem)
 
 manmahe ← √man- 1 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते स्य॒न्द्रासो॒ नोक्षणोऽति॑ ष्कन्दन्ति॒ शर्व॑रीः ।  
+म॒रुता॒मधा॒ महो॑ दि॒वि क्ष॒मा च॑ मन्महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

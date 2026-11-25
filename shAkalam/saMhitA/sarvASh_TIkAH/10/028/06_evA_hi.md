@@ -4,6 +4,7 @@ devataa = "ऐन्द्रो वसुक्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऐन्द्रो वसुक्रः
@@ -95,7 +96,12 @@ jánitā ← jánitar- (nominal stem)
 
 mā ← ahám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा हि मां त॒वसं॑ व॒र्धय॑न्ति दि॒वश्चि॑न्मे बृह॒त उत्त॑रा॒ धूः ।  
+पु॒रू स॒हस्रा॒ नि शि॑शामि सा॒कम॑श॒त्रुं हि मा॒ जनि॑ता ज॒जान॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

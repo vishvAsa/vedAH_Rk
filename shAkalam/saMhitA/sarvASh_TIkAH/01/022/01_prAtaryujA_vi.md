@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ pītáye ← pītí- (nominal stem)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒त॒र्युजा॒ वि बो॑धया॒श्विना॒वेह ग॑च्छताम् ।  
+अ॒स्य सोम॑स्य पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

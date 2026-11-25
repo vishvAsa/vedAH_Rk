@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ sadāma ← √sad- (root)
 
 suté ← √su- (root)  
 {case:LOC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा ते॑ अमा॒जुरो॑ यथा मू॒रास॑ इन्द्र स॒ख्ये त्वाव॑तः ।  
+नि ष॑दाम॒ सचा॑ सु॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “son; child.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

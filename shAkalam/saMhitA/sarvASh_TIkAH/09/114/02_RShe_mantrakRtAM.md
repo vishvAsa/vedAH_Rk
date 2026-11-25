@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -85,7 +86,12 @@ pári ← pári (invariable)
 
 srava ← √sru- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋषे॑ मन्त्र॒कृतां॒ स्तोमैः॒ कश्य॑पोद्व॒र्धय॒न्गिरः॑ ।  
+सोमं॑ नमस्य॒ राजा॑नं॒ यो ज॒ज्ञे वी॒रुधां॒ पति॒रिन्द्रा॑येन्दो॒ परि॑ स्रव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     disappear; leak; fester.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

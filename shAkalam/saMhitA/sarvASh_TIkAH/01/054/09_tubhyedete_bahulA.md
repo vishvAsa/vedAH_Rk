@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ mánaḥ ← mánas- (nominal stem)
 
 vasudéyāya ← vasudéya- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्येदे॒ते ब॑हु॒ला अद्रि॑दुग्धाश्चमू॒षद॑श्चम॒सा इ॑न्द्र॒पानाः॑ ।  
+व्य॑श्नुहि त॒र्पया॒ काम॑मेषा॒मथा॒ मनो॑ वसु॒देया॑य कृष्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

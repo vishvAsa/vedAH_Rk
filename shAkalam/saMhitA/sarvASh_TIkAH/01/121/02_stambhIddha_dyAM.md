@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -95,7 +96,12 @@ ménām ← ménā- (nominal stem)
 
 pári ← pári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तम्भी॑द्ध॒ द्यां स ध॒रुणं॑ प्रुषायदृ॒भुर्वाजा॑य॒ द्रवि॑णं॒ नरो॒ गोः ।  
+अनु॑ स्व॒जां म॑हि॒षश्च॑क्षत॒ व्रां मेना॒मश्व॑स्य॒ परि॑ मा॒तरं॒ गोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

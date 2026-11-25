@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ pipyúṣīḥ ← √pī- 1 (root)
 
 r̥tásya ← r̥tá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मास्त॑ इन्द्र॒ पृश्न॑यो घृ॒तं दु॑हत आ॒शिर॑म् ।  
+ए॒नामृ॒तस्य॑ पि॒प्युषीः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “swell; abound; swell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

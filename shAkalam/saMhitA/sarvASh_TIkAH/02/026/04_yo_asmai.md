@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -95,7 +96,12 @@ cit ← cit (invariable)
 
 urucákriḥ ← urucákri- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अ॑स्मै ह॒व्यैर्घृ॒तव॑द्भि॒रवि॑ध॒त्प्र तं प्रा॒चा न॑यति॒ ब्रह्म॑ण॒स्पतिः॑ ।  
+उ॒रु॒ष्यती॒मंह॑सो॒ रक्ष॑ती रि॒षों॒३॒॑ऽहोश्चि॑दस्मा उरु॒चक्रि॒रद्भु॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “extraordinary; amazing; supernatural.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ r̥ṣváḥ ← r̥ṣvá- (nominal stem)
 
 upamā́dam ← upamā́da- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पाति॑ प्रि॒यं रि॒पो अग्रं॑ प॒दं वेः पाति॑ य॒ह्वश्चर॑णं॒ सूर्य॑स्य ।  
+पाति॒ नाभा॑ स॒प्तशी॑र्षाणम॒ग्निः पाति॑ दे॒वाना॑मुप॒माद॑मृ॒ष्वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “distinguished; high; noble; enormous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

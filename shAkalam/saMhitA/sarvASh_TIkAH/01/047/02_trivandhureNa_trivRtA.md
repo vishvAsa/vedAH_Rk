@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ sú ← sú (invariable)
 
 téṣām ← sá- ~ tá- (pronoun)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रि॒व॒न्धु॒रेण॑ त्रि॒वृता॑ सु॒पेश॑सा॒ रथे॒ना या॑तमश्विना ।  
+कण्वा॑सो वां॒ ब्रह्म॑ कृण्वन्त्यध्व॒रे तेषां॒ सु शृ॑णुतं॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

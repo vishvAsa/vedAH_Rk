@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -122,7 +123,13 @@ ná ← ná (invariable)
 
 ugráḥ ← ugrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॒ नेदि॑ष्ठं॒ ददृ॑शान॒ आ भ॒राग्ने॑ दे॒वेभिः॒ सच॑नाः सुचे॒तुना॑ म॒हो रा॒यः सु॑चे॒तुना॑ ।  
+महि॑ शविष्ठ नस्कृधि सं॒चक्षे॑ भु॒जे अ॒स्यै ।  
+महि॑ स्तो॒तृभ्यो॑ मघवन्त्सु॒वीर्यं॒ मथी॑रु॒ग्रो न शव॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -321,7 +328,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ kadā́ ← kadā́ (invariable)
 
 prajígataḥ ← √gā- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्य॑नि॒नस्य॑ ध॒निनः॑ प्रहो॒षे चि॒दर॑रुषः ।  
+क॒दा च॒न प्र॒जिग॑तो॒ अदे॑वयोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “devout; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

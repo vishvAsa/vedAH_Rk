@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -71,7 +72,12 @@ júhvānāya ← √hu- (root)
 
 prácetase ← prácetas- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒द्य सूर॒ उदि॑ते॒ यन्म॒ध्यन्दि॑न आ॒तुचि॑ ।  
+वा॒मं ध॒त्थ मन॑वे विश्ववेदसो॒ जुह्वा॑नाय॒ प्रचे॑तसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “intelligent; mindful; attentive; wise; apt; observant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

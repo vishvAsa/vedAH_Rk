@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ upastíre ← upastír- (nominal stem)
 
 váyaḥ ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्ये दे॒वी सु॒भगे॑ मिथू॒दृशो॒षासा॒नक्ता॒ जग॑तामपी॒जुवा॑ ।  
+स्तु॒षे यद्वां॑ पृथिवि॒ नव्य॑सा॒ वचः॑ स्था॒तुश्च॒ वय॒स्त्रिव॑या उप॒स्तिरे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - \[noun\], dative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

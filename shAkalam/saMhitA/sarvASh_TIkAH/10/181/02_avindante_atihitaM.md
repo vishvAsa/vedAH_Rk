@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सप्रथो भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ br̥hát ← br̥hánt- (nominal stem)
 
 cakre ← √kr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवि॑न्द॒न्ते अति॑हितं॒ यदासी॑द्य॒ज्ञस्य॒ धाम॑ पर॒मं गुहा॒ यत् ।  
+धा॒तुर्द्युता॑नात्सवि॒तुश्च॒ विष्णो॑र्भ॒रद्वा॑जो बृ॒हदा च॑क्रे अ॒ग्नेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

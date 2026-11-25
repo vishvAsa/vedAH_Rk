@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ dráviṇāni ← dráviṇa- (nominal stem)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं ते॑ अग्न उ॒क्थैर्वि॑धेम व॒यं ह॒व्यैः पा॑वक भद्रशोचे ।  
+अ॒स्मे र॒यिं वि॒श्ववा॑रं॒ समि॑न्वा॒स्मे विश्वा॑नि॒ द्रवि॑णानि धेहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

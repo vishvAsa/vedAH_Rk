@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ tavásam ← tavás- (nominal stem)
 
 ugrám ← ugrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वाः॒ पृत॑ना अभि॒भूत॑रं॒ नरं॑ स॒जूस्त॑तक्षु॒रिन्द्रं॑ जज॒नुश्च॑ रा॒जसे॑ ।  
+क्रत्वा॒ वरि॑ष्ठं॒ वर॑ आ॒मुरि॑मु॒तोग्रमोजि॑ष्ठं त॒वसं॑ तर॒स्विन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “strong; energetic; fast; agile.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

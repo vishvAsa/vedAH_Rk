@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ te ← tvám (pronoun)
 
 yákṣmam ← yákṣma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त्वा॑गमं॒ शन्ता॑तिभि॒रथो॑ अरि॒ष्टता॑तिभिः ।  
+दक्षं॑ ते भ॒द्रमाभा॑र्षं॒ परा॒ यक्ष्मं॑ सुवामि ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

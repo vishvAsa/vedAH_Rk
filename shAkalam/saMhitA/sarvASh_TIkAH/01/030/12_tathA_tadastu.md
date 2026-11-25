@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ uśmási ← √vaś- (root)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तथा॒ तद॑स्तु सोमपाः॒ सखे॑ वज्रि॒न्तथा॑ कृणु ।  
+यथा॑ त उ॒श्मसी॒ष्टये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “seeking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

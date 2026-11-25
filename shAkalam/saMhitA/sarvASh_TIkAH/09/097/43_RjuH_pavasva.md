@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ tvám ← tvám (pronoun)
 
 vayám ← ahám (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒जुः प॑वस्व वृजि॒नस्य॑ ह॒न्तापामी॑वां॒ बाध॑मानो॒ मृध॑श्च ।  
+अ॒भि॒श्री॒णन्पयः॒ पय॑सा॒भि गोना॒मिन्द्र॑स्य॒ त्वं तव॑ व॒यं सखा॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -241,12 +246,6 @@ Purify yourself, as the straight smiter of the crooked, thrusting away  afflicti
 perfecting your milk with the milk of cows. You are (the comrade) of  Indra; we are your comrades.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich introduces a note of aggression, but this quickly dissipates. The oppositional pair ‘straight’ (ṛjú-) and ‘crooked’ (vṛjiná-) recurs from vs. 18, where, unlike here, it was a morally neutral description of the paths across the sheep’s fleece filter.
-
-I do not understand the doubling of abhí in pāda c, esp. since abhí seems to add little to this idiom.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">
 <details><summary><h2>43-45 ...{Loading}...</h2></summary>
 
@@ -254,7 +253,6 @@ The tṛca has a superficial unity from the (over-)abundance of forms of √pū,
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

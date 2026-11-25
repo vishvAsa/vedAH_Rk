@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ tvasyai ← tva- (pronoun)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तां सु ते॑ की॒र्तिं म॑घवन्महि॒त्वा यत्त्वा॑ भी॒ते रोद॑सी॒ अह्व॑येताम् ।  
+प्रावो॑ दे॒वाँ आति॑रो॒ दास॒मोजः॑ प्र॒जायै॑ त्वस्यै॒ यदशि॑क्ष इन्द्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -254,7 +260,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

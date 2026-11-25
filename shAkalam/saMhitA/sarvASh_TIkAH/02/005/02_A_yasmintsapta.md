@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ tát ← sá- ~ tá- (pronoun)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यस्मि॑न्त्स॒प्त र॒श्मय॑स्त॒ता य॒ज्ञस्य॑ ने॒तरि॑ ।  
+म॒नु॒ष्वद्दैव्य॑मष्ट॒मं पोता॒ विश्वं॒ तदि॑न्वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “bring; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

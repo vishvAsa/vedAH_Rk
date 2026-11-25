@@ -4,6 +4,7 @@ devataa = "वरुणमित्रार्यमणः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणमित्रार्यमणः
@@ -63,7 +64,12 @@ náyanti ← √nī- (root)
 
 tirás ← tirás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि दु॒र्गा वि द्विषः॑ पु॒रो घ्नन्ति॒ राजा॑न एषाम् ।  
+नय॑न्ति दुरि॒ता ति॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “tiras \[word\]; away; secretly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

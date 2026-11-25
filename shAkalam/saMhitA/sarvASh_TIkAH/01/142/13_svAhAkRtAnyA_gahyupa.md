@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ havante ← √hū- (root)
 
 tvā́m ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वाहा॑कृता॒न्या ग॒ह्युप॑ ह॒व्यानि॑ वी॒तये॑ ।  
+इन्द्रा ग॑हि श्रु॒धी हवं॒ त्वां ह॑वन्ते अध्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

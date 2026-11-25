@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ góbhiḥ ← gáv- ~ gó- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ दी॒र्घाय॒ चक्ष॑स॒ आ सूर्यं॑ रोहयद्दि॒वि ।  
+वि गोभि॒रद्रि॑मैरयत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
     enumerate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

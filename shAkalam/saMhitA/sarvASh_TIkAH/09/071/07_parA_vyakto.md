@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ uṣásaḥ ← uṣás- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परा॒ व्य॑क्तो अरु॒षो दि॒वः क॒विर्वृषा॑ त्रिपृ॒ष्ठो अ॑नविष्ट॒ गा अ॒भि ।  
+स॒हस्र॑णीति॒र्यतिः॑ परा॒यती॑ रे॒भो न पू॒र्वीरु॒षसो॒ वि रा॑जति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

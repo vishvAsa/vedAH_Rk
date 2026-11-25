@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -86,7 +87,12 @@ vípraḥ ← vípra- (nominal stem)
 
 yugā́ya ← yugá- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒वाच॑ मे॒ वरु॑णो॒ मेधि॑राय॒ त्रिः स॒प्त नामाघ्न्या॑ बिभर्ति ।  
+वि॒द्वान्प॒दस्य॒ गुह्या॒ न वो॑चद्यु॒गाय॒ विप्र॒ उप॑राय॒ शिक्ष॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “help; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

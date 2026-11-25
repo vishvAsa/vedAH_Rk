@@ -4,6 +4,7 @@ devataa = "इन्द्रः (मरुतः)"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (मरुतः)
@@ -83,7 +84,12 @@ vīrám ← vīrá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जनि॑ष्ठा उ॒ग्रः सह॑से तु॒राय॑ म॒न्द्र ओजि॑ष्ठो बहु॒लाभि॑मानः ।  
+अव॑र्ध॒न्निन्द्रं॑ म॒रुत॑श्चि॒दत्र॑ मा॒ता यद्वी॒रं द॒धन॒द्धनि॑ष्ठा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

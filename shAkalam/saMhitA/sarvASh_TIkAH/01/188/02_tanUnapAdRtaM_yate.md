@@ -4,6 +4,7 @@ devataa = "तनूनपात्"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तनूनपात्
@@ -60,7 +61,12 @@ dádhat ← √dhā- 1 (root)
 
 sahasríṇīḥ ← sahasrín- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तनू॑नपादृ॒तं य॒ते मध्वा॑ य॒ज्ञः सम॑ज्यते ।  
+दध॑त्सह॒स्रिणी॒रिषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

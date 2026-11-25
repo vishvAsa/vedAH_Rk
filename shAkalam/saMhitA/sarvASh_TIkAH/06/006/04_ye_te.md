@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sā́nu ← sā́nu- ~ snú- (nominal stem)
 
 yātáyamānaḥ ← √yat- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये ते॑ शु॒क्रासः॒ शुच॑यः शुचिष्मः॒ क्षां वप॑न्ति॒ विषि॑तासो॒ अश्वाः॑ ।  
+अध॑ भ्र॒मस्त॑ उर्वि॒या वि भा॑ति या॒तय॑मानो॒ अधि॒ सानु॒ पृश्नेः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “Pṛśni; beam.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

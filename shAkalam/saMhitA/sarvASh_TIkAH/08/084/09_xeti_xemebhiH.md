@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उशना काव्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ edhate ← √idh- 2 (root)
 
 suvī́raḥ ← suvī́ra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्षेति॒ क्षेमे॑भिः सा॒धुभि॒र्नकि॒र्यं घ्नन्ति॒ हन्ति॒ यः ।  
+अग्ने॑ सु॒वीर॑ एधते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “boom; get; thrive; increase; increase.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

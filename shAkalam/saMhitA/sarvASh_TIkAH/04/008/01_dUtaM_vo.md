@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ r̥ñjase ← √r̥j- 1 (root)
 
 yájiṣṭham ← yájiṣṭha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दू॒तं वो॑ वि॒श्ववे॑दसं हव्य॒वाह॒मम॑र्त्यम् ।  
+यजि॑ष्ठमृञ्जसे गि॒रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +124,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -66,7 +67,12 @@ okyè ← okyà- (nominal stem)
 
 své ← svá- (pronoun)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोम॑ रार॒न्धि नो॑ हृ॒दि गावो॒ न यव॑से॒ष्वा ।  
+मर्य॑ इव॒ स्व ओ॒क्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - \[noun\], locative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

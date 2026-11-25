@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रस्कण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ kr̥ṇoti ← √kr̥- (root)
 
 pravā́ce ← √vac- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हरिः॑ सृजा॒नः प॒थ्या॑मृ॒तस्येय॑र्ति॒ वाच॑मरि॒तेव॒ नाव॑म् ।  
+दे॒वो दे॒वानां॒ गुह्या॑नि॒ नामा॒विष्कृ॑णोति ब॒र्हिषि॑ प्र॒वाचे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     impart; convey; address; proclaim.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

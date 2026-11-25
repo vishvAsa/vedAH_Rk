@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ majmánā ← majmán- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+युवा॑नो रु॒द्रा अ॒जरा॑ अभो॒ग्घनो॑ वव॒क्षुरध्रि॑गावः॒ पर्व॑ता इव ।  
+दृ॒ळ्हा चि॒द्विश्वा॒ भुव॑नानि॒ पार्थि॑वा॒ प्र च्या॑वयन्ति दि॒व्यानि॑ म॒ज्मना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “size.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

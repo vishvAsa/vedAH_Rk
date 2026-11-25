@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ saṁgé ← saṁgá- (nominal stem)
 
 turváṇiḥ ← turváṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ न॒ इन्द्रो॑ दू॒रादा न॑ आ॒साद॑भिष्टि॒कृदव॑से यासदु॒ग्रः ।  
+ओजि॑ष्ठेभिर्नृ॒पति॒र्वज्र॑बाहुः सं॒गे स॒मत्सु॑ तु॒र्वणिः॑ पृत॒न्यून् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “enemy; attacker.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

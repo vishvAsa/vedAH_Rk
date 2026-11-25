@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ havíṣā ← havís- (nominal stem)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं ते॑ अग्ने स॒मिधा॑ विधेम व॒यं दा॑शेम सुष्टु॒ती य॑जत्र ।  
+व॒यं घृ॒तेना॑ध्वरस्य होतर्व॒यं दे॑व ह॒विषा॑ भद्रशोचे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

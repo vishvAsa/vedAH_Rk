@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ drā́ghīyaḥ ← drā́ghīyaṁs- (nominal stem)
 
 pratarám ← pratarám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॒दृची॑न्द्र दे॒वगो॑पाः॒ सखा॑यस्ते शि॒वत॑मा॒ असा॑म ।  
+त्वां स्तो॑षाम॒ त्वया॑ सु॒वीरा॒ द्राघी॑य॒ आयुः॑ प्रत॒रं दधा॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

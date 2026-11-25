@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -55,7 +56,11 @@ víṣvak ← víṣvañc- (nominal stem)
 
 yuyóta ← √yu- 2 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्ये॑तु दि॒द्युद्द्वि॒षामशे॑वा यु॒योत॒ विष्व॒ग्रप॑स्त॒नूना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +123,6 @@ _________
 - “body; self; own(a); person; form.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -146,7 +150,6 @@ Keep the infirmity of bodies away, off to the side.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -154,7 +157,6 @@ The 2nd pl. subjects of all the verbs but vy ètu in 13a must be the gods in gen
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

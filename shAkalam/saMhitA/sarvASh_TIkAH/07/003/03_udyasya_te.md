@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ hí ← hí (invariable)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्यस्य॑ ते॒ नव॑जातस्य॒ वृष्णोऽग्ने॒ चर॑न्त्य॒जरा॑ इधा॒नाः ।  
+अच्छा॒ द्याम॑रु॒षो धू॒म ए॑ति॒ सं दू॒तो अ॑ग्न॒ ईय॑से॒ हि दे॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

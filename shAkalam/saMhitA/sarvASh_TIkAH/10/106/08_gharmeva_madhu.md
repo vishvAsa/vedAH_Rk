@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भूतांशः काश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ mánar̥ṅgā ← mánar̥ṅga- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घ॒र्मेव॒ मधु॑ ज॒ठरे॑ स॒नेरू॒ भगे॑विता तु॒र्फरी॒ फारि॒वार॑म् ।  
+प॒त॒रेव॑ चच॒रा च॒न्द्रनि॑र्णि॒ङ्मन॑ऋङ्गा मन॒न्या॒३॒॑ न जग्मी॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - \[noun\], nominative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

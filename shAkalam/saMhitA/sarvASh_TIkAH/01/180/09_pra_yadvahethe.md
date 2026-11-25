@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ rayiṣā́caḥ ← rayiṣác- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र यद्वहे॑थे महि॒ना रथ॑स्य॒ प्र स्य॑न्द्रा याथो॒ मनु॑षो॒ न होता॑ ।  
+ध॒त्तं सू॒रिभ्य॑ उ॒त वा॒ स्वश्व्यं॒ नास॑त्या रयि॒षाचः॑ स्याम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

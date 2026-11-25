@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वांबरीषः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -60,7 +61,12 @@ ca ← ca (invariable)
 
 viśváśambhuvam ← viśváśambhū- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒प्सु मे॒ सोमो॑ अब्रवीद॒न्तर्विश्वा॑नि भेष॒जा ।  
+अ॒ग्निं च॑ वि॒श्वश॑म्भुवम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “kind; benevolent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ anūṣata ← √nu- ~ nū- (root)
 
 nāvā́ḥ ← nāvá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समी॒ सखा॑यो अस्वर॒न्वने॒ क्रीळ॑न्त॒मत्य॑विम् ।  
+इन्दुं॑ ना॒वा अ॑नूषत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “praise; shout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

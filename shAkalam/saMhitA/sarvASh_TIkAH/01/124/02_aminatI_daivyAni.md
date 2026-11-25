@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -74,7 +75,12 @@ uṣā́ḥ ← uṣás- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अमि॑नती॒ दैव्या॑नि व्र॒तानि॑ प्रमिन॒ती म॑नु॒ष्या॑ यु॒गानि॑ ।  
+ई॒युषी॑णामुप॒मा शश्व॑तीनामायती॒नां प्र॑थ॒मोषा व्य॑द्यौत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “shine; inflame.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -210,7 +215,6 @@ the last of those who, one by one, have gone, the first of those who come  hithe
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -218,7 +222,6 @@ the last of those who, one by one, have gone, the first of those who come  hithe
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

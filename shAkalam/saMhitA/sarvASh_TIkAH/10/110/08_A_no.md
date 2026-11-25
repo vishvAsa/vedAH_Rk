@@ -4,6 +4,7 @@ devataa = "तिस्रो देव्यः सरस्वतीळाभ�
 RShiH = "जमदग्निस्तत्सुतो वा रामः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तिस्रो देव्यः सरस्वतीळाभारत्यः
@@ -89,7 +90,12 @@ sárasvatī ← sárasvant- (nominal stem)
 
 svápasaḥ ← svápas- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ य॒ज्ञं भार॑ती॒ तूय॑मे॒त्विळा॑ मनु॒ष्वदि॒ह चे॒तय॑न्ती ।  
+ति॒स्रो दे॒वीर्ब॒र्हिरेदं स्यो॒नं सर॑स्वती॒ स्वप॑सः सदन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

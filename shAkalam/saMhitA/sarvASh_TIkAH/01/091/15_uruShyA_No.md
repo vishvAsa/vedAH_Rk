@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -63,7 +64,12 @@ sákhā ← sákhi- (nominal stem)
 
 suśévaḥ ← suśéva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रु॒ष्या णो॑ अ॒भिश॑स्तेः॒ सोम॒ नि पा॒ह्यंह॑सः ।  
+सखा॑ सु॒शेव॑ एधि नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

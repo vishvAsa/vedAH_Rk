@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -60,7 +61,12 @@ asmā́bhiḥ ← ahám (pronoun)
 
 túbhyam ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं ते॑ पूषन्नाघृणे सुष्टु॒तिर्दे॑व॒ नव्य॑सी ।  
+अ॒स्माभि॒स्तुभ्यं॑ शस्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

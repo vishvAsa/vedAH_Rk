@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुपर्णस्तार्क्ष्यपुत्र ऊर्ध्वकृशनो वा यामायनः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ ahīśúvaḥ ← ahīśū́- (nominal stem)
 
 dīdhet ← √dhī- (root)  
 {number:SG, person:3, mood:INJ, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घृषुः॑ श्ये॒नाय॒ कृत्व॑न आ॒सु स्वासु॒ वंस॑गः ।  
+अव॑ दीधेदही॒शुवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “Ahīśuva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

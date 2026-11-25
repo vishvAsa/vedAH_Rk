@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -86,7 +87,12 @@ pātu ← √pā- 1 (root)
 
 várūtrī ← várūtrī- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि ये मि॒थो व॒नुषः॒ सप॑न्ते रा॒तिं दि॒वो रा॑ति॒षाचः॑ पृथि॒व्याः ।  
+अहि॑र्बु॒ध्न्य॑ उ॒त नः॑ शृणोतु॒ वरू॒त्र्येक॑धेनुभि॒र्नि पा॑तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “protect; govern.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

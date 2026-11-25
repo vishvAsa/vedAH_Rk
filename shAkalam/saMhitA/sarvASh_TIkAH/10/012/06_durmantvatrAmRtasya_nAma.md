@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हविर्धान आङ्गिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ r̥ṣva ← r̥ṣvá- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दु॒र्मन्त्वत्रा॒मृत॑स्य॒ नाम॒ सल॑क्ष्मा॒ यद्विषु॑रूपा॒ भवा॑ति ।  
+य॒मस्य॒ यो म॒नव॑ते सु॒मन्त्वग्ने॒ तमृ॑ष्व पा॒ह्यप्र॑युच्छन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “ceaseless; attentive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

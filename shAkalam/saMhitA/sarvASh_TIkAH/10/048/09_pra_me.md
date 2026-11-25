@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -101,7 +102,12 @@ karam ← √kr̥- (root)
 
 ukthyàm ← ukthyà- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र मे॒ नमी॑ सा॒प्य इ॒षे भु॒जे भू॒द्गवा॒मेषे॑ स॒ख्या कृ॑णुत द्वि॒ता ।  
+दि॒द्युं यद॑स्य समि॒थेषु॑ मं॒हय॒मादिदे॑नं॒ शंस्य॑मु॒क्थ्यं॑ करम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -268,7 +274,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ manīṣā́ ← manīṣā́- (nominal stem)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ न॒ इळा॑भिर्वि॒दथे॑ सुश॒स्ति वि॒श्वान॑रः सवि॒ता दे॒व ए॑तु ।  
+अपि॒ यथा॑ युवानो॒ मत्स॑था नो॒ विश्वं॒ जग॑दभिपि॒त्वे म॑नी॒षा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -250,14 +255,6 @@ so that you, o youths [=gods], will reach exhilaration nearby us—(let)  inspir
 mealtime.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. signals the dedicands of the hymn obliquely: viśvā́naraḥ ‘belonging to all men’ in b evokes its opposite number “all gods,” esp. since the sg. deváḥ occurs later in the same pāda. ‘All’ appears again in d, but with a different referent, ‘world’ (víśvaṃ jágat ‘the whole moving world’). The gods are presumably the addressees of pāda c, but only under the designation ‘youths’ (yuvānaḥ).
-
-The initial ápi of c is somewhat puzzling. Geldner (/Witzel Gotō) render it ‘auch’, which is harmless. Renou takes it “au sense de abhí” (on what grounds?), as a perfectivizing preverb (again, on what grounds?). I am inclined to take it as a locational ‘nearby’, construed loosely with naḥ, despite the distance between the two words.
-
-In d manīṣā́can be nom. or instr. I follow Geldner in taking it as the former, while Renou and Witzel Gotō take it as the latter, with Renou taking Savitar as implied subject and Witzel Gotō víśvaṃ jágat. There is general agreement that a verb ‘come’ should be supplied in d.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -265,7 +262,6 @@ The c-pādas of all three verses consist of a yáthā purpose clause with subjun
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अङ्ग औरवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 śuśóca ← √śuc- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवा॑सृजः प्र॒स्वः॑ श्व॒ञ्चयो॑ गि॒रीनुदा॑ज उ॒स्रा अपि॑बो॒ मधु॑ प्रि॒यम् ।  
+अव॑र्धयो व॒निनो॑ अस्य॒ दंस॑सा शु॒शोच॒ सूर्य॑ ऋ॒तजा॑तया गि॒रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ pávamāna ← √pū- (root)
 
 svādhyàḥ ← svādhī́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॒ ह्यसि॑ भा॒नुना॑ द्यु॒मन्तं॑ त्वा हवामहे ।  
+पव॑मान स्वा॒ध्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “devout; heedful; prudent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -151,7 +156,6 @@ o self-purifying one.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -159,7 +163,6 @@ No obvious signs of unity
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

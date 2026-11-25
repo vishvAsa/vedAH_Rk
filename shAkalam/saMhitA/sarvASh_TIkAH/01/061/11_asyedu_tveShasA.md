@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ turváṇiḥ ← turváṇi- (nominal stem)
 
 turvī́taye ← turvī́ti- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्येदु॑ त्वे॒षसा॑ रन्त॒ सिन्ध॑वः॒ परि॒ यद्वज्रे॑ण सी॒मय॑च्छत् ।  
+ई॒शा॒न॒कृद्दा॒शुषे॑ दश॒स्यन्तु॒र्वीत॑ये गा॒धं तु॒र्वणिः॑ कः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

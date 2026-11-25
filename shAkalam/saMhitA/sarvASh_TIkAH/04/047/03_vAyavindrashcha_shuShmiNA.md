@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -71,7 +72,12 @@ sómapītaye ← sómapīti- (nominal stem)
 
 yātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाय॒विन्द्र॑श्च शु॒ष्मिणा॑ स॒रथं॑ शवसस्पती ।  
+नि॒युत्व॑न्ता न ऊ॒तय॒ आ या॑तं॒ सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

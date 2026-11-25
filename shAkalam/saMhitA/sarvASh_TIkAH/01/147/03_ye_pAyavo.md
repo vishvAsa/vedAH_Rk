@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 ripávaḥ ← ripú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये पा॒यवो॑ मामते॒यं ते॑ अग्ने॒ पश्य॑न्तो अ॒न्धं दु॑रि॒तादर॑क्षन् ।  
+र॒रक्ष॒ तान्त्सु॒कृतो॑ वि॒श्ववे॑दा॒ दिप्स॑न्त॒ इद्रि॒पवो॒ नाह॑ देभुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - \[verb\], plural, Perfect indicative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

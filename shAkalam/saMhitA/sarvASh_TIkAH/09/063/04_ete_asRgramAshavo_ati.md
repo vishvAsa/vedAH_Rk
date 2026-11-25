@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 sómāḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते अ॑सृग्रमा॒शवोऽति॒ ह्वरां॑सि ब॒भ्रवः॑ ।  
+सोमा॑ ऋ॒तस्य॒ धार॑या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “flush; flow; current; spring; fountain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -148,12 +153,6 @@ _________
 These swift brown ones have surged across the tangles (of sheep’s wool), the soma juices, in a stream of truth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Its opening eté asṛgram āśávaḥ is reminiscent of the beginning of the previous hymn IX.62.1ab eté asṛgram … āśávaḥ.
-
-On hváras- see comm. ad IX.3.2.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -161,7 +160,6 @@ Thematically somewhat unified by the journey theme.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

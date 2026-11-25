@@ -4,6 +4,7 @@ devataa = "इन्द्रः (मरुतः)"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (मरुतः)
@@ -95,7 +96,12 @@ dadhiṣe ← √dhā- 1 (root)
 
 vavr̥tyāḥ ← √vr̥t- (root)  
 {number:SG, person:2, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒ष्वा ते॒ पादा॒ प्र यज्जिगा॒स्यव॑र्ध॒न्वाजा॑ उ॒त ये चि॒दत्र॑ ।  
+त्वमि॑न्द्र सालावृ॒कान्त्स॒हस्र॑मा॒सन्द॑धिषे अ॒श्विना व॑वृत्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

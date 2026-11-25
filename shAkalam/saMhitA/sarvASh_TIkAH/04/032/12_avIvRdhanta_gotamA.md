@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ vīrávat ← vīrávant- (nominal stem)
 
 yáśaḥ ← yáśas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवी॑वृधन्त॒ गोत॑मा॒ इन्द्र॒ त्वे स्तोम॑वाहसः ।  
+ऐषु॑ धा वी॒रव॒द्यशः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “fame; Yaśas.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

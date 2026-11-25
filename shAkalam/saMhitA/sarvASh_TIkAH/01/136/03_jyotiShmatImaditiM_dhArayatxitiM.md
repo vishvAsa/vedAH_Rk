@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -101,7 +102,13 @@ aryamā́ ← áryaman- (nominal stem)
 
 yātayájjanaḥ ← yātayájjana- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज्योति॑ष्मती॒मदि॑तिं धार॒यत्क्षि॑तिं॒ स्व॑र्वती॒मा स॑चेते दि॒वेदि॑वे जागृ॒वांसा॑ दि॒वेदि॑वे ।  
+ज्योति॑ष्मत्क्ष॒त्रमा॑शाते आदि॒त्या दानु॑न॒स्पती॑ ।  
+मि॒त्रस्तयो॒र्वरु॑णो यात॒यज्ज॑नोऽर्य॒मा या॑त॒यज्ज॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -277,7 +284,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -98,7 +99,12 @@ rātíḥ ← rātí- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒क्रं ते॑ अ॒न्यद्य॑ज॒तं ते॑ अ॒न्यद्विषु॑रूपे॒ अह॑नी॒ द्यौरि॑वासि ।  
+विश्वा॒ हि मा॒या अव॑सि स्वधावो भ॒द्रा ते॑ पूषन्नि॒ह रा॒तिर॑स्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

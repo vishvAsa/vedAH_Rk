@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ nijaghántha ← √han- (root)
 
 tanyatúm ← tanyatú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परीं॑ घृ॒णा च॑रति तित्वि॒षे शवो॒ऽपो वृ॒त्वी रज॑सो बु॒ध्नमाश॑यत् ।  
+वृ॒त्रस्य॒ यत्प्र॑व॒णे दु॒र्गृभि॑श्वनो निज॒घन्थ॒ हन्वो॑रिन्द्र तन्य॒तुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “thunder.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

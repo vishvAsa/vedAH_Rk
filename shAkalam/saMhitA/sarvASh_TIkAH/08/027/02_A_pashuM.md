@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ dhīnā́m ← dhī́- (nominal stem)
 
 prāvitā́raḥ ← prāvitár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ प॒शुं गा॑सि पृथि॒वीं वन॒स्पती॑नु॒षासा॒ नक्त॒मोष॑धीः ।  
+विश्वे॑ च नो वसवो विश्ववेदसो धी॒नां भू॑त प्रावि॒तारः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

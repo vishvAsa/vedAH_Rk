@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ gātuvít ← gātuvíd- (nominal stem)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स प॑वस्व धनंजय प्रय॒न्ता राध॑सो म॒हः ।  
+अ॒स्मभ्यं॑ सोम गातु॒वित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “finding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

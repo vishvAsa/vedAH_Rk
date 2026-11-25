@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ naḥ ← ahám (pronoun)
 
 pā́rye ← pā́rya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शिक्षा॑ ण इन्द्र रा॒य आ पु॒रु वि॒द्वाँ ऋ॑चीषम ।  
+अवा॑ नः॒ पार्ये॒ धने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
     dhan; capital; fight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

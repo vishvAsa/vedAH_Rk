@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -86,7 +87,12 @@ dráviṇam ← dráviṇa- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृह॑स्पते॒ अति॒ यद॒र्यो अर्हा॑द्द्यु॒मद्वि॒भाति॒ क्रतु॑म॒ज्जने॑षु ।  
+यद्दी॒दय॒च्छव॑स ऋतप्रजात॒ तद॒स्मासु॒ द्रवि॑णं धेहि चि॒त्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     painted; obvious; patched; bizarre.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

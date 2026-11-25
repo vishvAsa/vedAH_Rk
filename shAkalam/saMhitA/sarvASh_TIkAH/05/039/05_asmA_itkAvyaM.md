@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -82,7 +83,12 @@ gíraḥ ← gír- ~ gīr- (nominal stem)
 
 śumbhanti ← √śubh- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्मा॒ इत्काव्यं॒ वच॑ उ॒क्थमिन्द्रा॑य॒ शंस्य॑म् ।  
+तस्मा॑ उ॒ ब्रह्म॑वाहसे॒ गिरो॑ वर्ध॒न्त्यत्र॑यो॒ गिरः॑ शुम्भ॒न्त्यत्र॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “Atri; Atri; atri \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

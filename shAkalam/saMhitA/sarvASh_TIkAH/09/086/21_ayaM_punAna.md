@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ pavate ← √pū- (root)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं पु॑ना॒न उ॒षसो॒ वि रो॑चयद॒यं सिन्धु॑भ्यो अभवदु लोक॒कृत् ।  
+अ॒यं त्रिः स॒प्त दु॑दुहा॒न आ॒शिरं॒ सोमो॑ हृ॒दे प॑वते॒ चारु॑ मत्स॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “intoxicant; invigorating; hostile.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -262,12 +267,6 @@ This one here, being purified, has made the dawns shine widely; this one  has be
 This one, having milked thrice seven (cows) for his own milk-mixture— the exhilarating Soma purifies himself in a way dear to the heart.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first three pādas of this vs. begin ayám ‘this one here’.
-
-The thrice seven cows here are also found in IX.70.1, as Geldner (n. 21c) points out. See the seven cows in vs. 25.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -275,7 +274,6 @@ No obvious signs of unity. The instr. manīṣíbhiḥ is found at the end of 19
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

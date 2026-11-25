@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ bāhvòjasaḥ ← bāhvòjas- (nominal stem)
 
 tvákṣāṁsi ← tvákṣas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अमा॑य वो मरुतो॒ यात॑वे॒ द्यौर्जिही॑त॒ उत्त॑रा बृ॒हत् ।  
+यत्रा॒ नरो॒ देदि॑शते त॒नूष्वा त्वक्षां॑सि बा॒ह्वो॑जसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

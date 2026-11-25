@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ utá ← utá (invariable)
 
 viśvā́mitrāḥ ← viśvā́mitra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा ते॑ व॒यमि॑न्द्र भुञ्जती॒नां वि॒द्याम॑ सुमती॒नां नवा॑नाम् ।  
+वि॒द्याम॒ वस्तो॒रव॑सा गृ॒णन्तो॑ वि॒श्वामि॑त्रा उ॒त त॑ इन्द्र नू॒नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “now; surely; immediately; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

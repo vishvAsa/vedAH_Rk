@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 stómam ← stóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असा॑वि दे॒वं गोऋ॑जीक॒मन्धो॒ न्य॑स्मि॒न्निन्द्रो॑ ज॒नुषे॑मुवोच ।  
+बोधा॑मसि त्वा हर्यश्व य॒ज्ञैर्बोधा॑ नः॒ स्तोम॒मन्ध॑सो॒ मदे॑षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

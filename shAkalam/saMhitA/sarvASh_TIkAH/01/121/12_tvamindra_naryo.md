@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -92,7 +93,12 @@ vájram ← vájra- (nominal stem)
 
 vr̥traháṇam ← vr̥trahán- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमि॑न्द्र॒ नर्यो॒ याँ अवो॒ नॄन्तिष्ठा॒ वात॑स्य सु॒युजो॒ वहि॑ष्ठान् ।  
+यं ते॑ का॒व्य उ॒शना॑ म॒न्दिनं॒ दाद्वृ॑त्र॒हणं॒ पार्यं॑ ततक्ष॒ वज्र॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

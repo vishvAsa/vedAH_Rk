@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः सौचीको वैश्वानरो वा सप्तिर्वा वाजंभरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ purū́ṇi ← purú- (nominal stem)
 
 vr̥trā́ṇi ← vr̥trá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्नेरप्न॑सः स॒मिद॑स्तु भ॒द्राग्निर्म॒ही रोद॑सी॒ आ वि॑वेश ।  
+अ॒ग्निरेकं॑ चोदयत्स॒मत्स्व॒ग्निर्वृ॒त्राणि॑ दयते पु॒रूणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “many; much(a); very.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

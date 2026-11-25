@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ tát ← sá- ~ tá- (pronoun)
 
 yā́mani ← yā́man- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र नः॑ पू॒षा च॒रथं॑ वि॒श्वदे॑व्यो॒ऽपां नपा॑दवतु वा॒युरि॒ष्टये॑ ।  
+आ॒त्मानं॒ वस्यो॑ अ॒भि वात॑मर्चत॒ तद॑श्विना सुहवा॒ याम॑नि श्रुतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

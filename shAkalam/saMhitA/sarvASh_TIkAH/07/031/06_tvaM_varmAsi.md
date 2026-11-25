@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ tváyā ← tvám (pronoun)
 
 yujā́ ← yúj- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं वर्मा॑सि स॒प्रथः॑ पुरोयो॒धश्च॑ वृत्रहन् ।  
+त्वया॒ प्रति॑ ब्रुवे यु॒जा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “ally; friend; pair; two; companion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -174,17 +179,12 @@ _________
 You are armor of broad extent and a fighter in the front, o Vr̥tra-smasher. With you as yokemate, I respond to (the challenger).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the basis of VIII.92.32 tváyéd indra yujā́vayám, práti bruvīmahi spṛ́dhaḥ “With you as yokemate, we would respond to the challengers,” I supply ‘challenger’ here.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 Again there is responsion across the tṛca boundary: 7a mahām̐utā́si echoes 6a tvám vármāsi.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

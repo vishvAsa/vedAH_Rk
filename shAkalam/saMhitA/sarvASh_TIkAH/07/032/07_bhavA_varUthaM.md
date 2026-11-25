@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ dūṇā́śaḥ ← dūṇā́śa- (nominal stem)
 
 gáyam ← gáya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भवा॒ वरू॑थं मघवन्म॒घोनां॒ यत्स॒मजा॑सि॒ शर्ध॑तः ।  
+वि त्वाह॑तस्य॒ वेद॑नं भजेम॒ह्या दू॒णाशो॑ भरा॒ गय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

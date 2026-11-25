@@ -4,6 +4,7 @@ devataa = "प्रस्कण्वस्य दानस्तुतिः (
 RShiH = "कृशः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)
@@ -74,7 +75,12 @@ caná ← caná (invariable)
 
 saṁnáśe ← √naś- 1 (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदित्सा॒प्तस्य॑ चर्किर॒न्नानू॑नस्य॒ महि॒ श्रवः॑ ।  
+श्यावी॑रतिध्व॒सन्प॒थश्चक्षु॑षा च॒न सं॒नशे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - \[verb noun\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

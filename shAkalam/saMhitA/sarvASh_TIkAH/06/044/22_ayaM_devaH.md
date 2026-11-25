@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ amuṣṇāt ← √muṣⁱ- (root)
 
 māyā́ḥ ← māyā́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं दे॒वः सह॑सा॒ जाय॑मान॒ इन्द्रे॑ण यु॒जा प॒णिम॑स्तभायत् ।  
+अ॒यं स्वस्य॑ पि॒तुरायु॑धा॒नीन्दु॑रमुष्णा॒दशि॑वस्य मा॒याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     trick.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -220,12 +225,6 @@ This god here, being born with strength, with Indra as his yokemate,  blocked th
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As just noted, índuḥ ‘drop’ opening pāda b firmly identifies the subject as Soma, but the common word play between phonologically similar índu- and índra-, found esp. in Maṇḍala IX, underlines the permeable boundary just noted between Indra and Soma in this tṛca.
-
-The brief narrative allusion in pāda c (“stole the weapons of his own father”) sounds like a fractured version of the just-born Indra stealing the soma from Tvaṣṭar, but it is hard to know how to square that tale with this formulation.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -233,7 +232,6 @@ As noted in the published introduction, repetition also characterizes this tṛc
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

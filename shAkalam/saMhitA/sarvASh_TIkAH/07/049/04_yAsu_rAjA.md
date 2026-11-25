@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -92,7 +93,12 @@ mā́m ← ahám (pronoun)
 
 tā́ḥ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यासु॒ राजा॒ वरु॑णो॒ यासु॒ सोमो॒ विश्वे॑ दे॒वा यासूर्जं॒ मद॑न्ति ।  
+वै॒श्वा॒न॒रो यास्व॒ग्निः प्रवि॑ष्ट॒स्ता आपो॑ दे॒वीरि॒ह माम॑वन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

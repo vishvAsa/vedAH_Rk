@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -63,7 +64,12 @@ gatam ← √gam- (root)
 
 tā́bhiḥ ← sá- ~ tá- (pronoun)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या वां॒ सन्ति॑ पुरु॒स्पृहो॑ नि॒युतो॑ दा॒शुषे॑ नरा ।  
+इन्द्रा॑ग्नी॒ ताभि॒रा ग॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -181,10 +186,6 @@ Those much-sought-after teams of yours which are for the pious, you  superior me
 come here with those, o Indra and Agni.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I follow Geldner in construing dāśúṣe with sánti (“which are for the pious”) rather than with puruspṛ́haḥ (Renou “pour l’adorateur les très enviés”) because puruspṛ́h- doesn’t seem to appear with a dat. elsewhere. See the almost identical IV.47.4.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -192,7 +193,6 @@ I follow Geldner in construing dāśúṣe with sánti (“which are for the pio
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

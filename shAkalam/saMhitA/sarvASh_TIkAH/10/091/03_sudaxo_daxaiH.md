@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अरुणो वैतहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ púṣyataḥ ← √puṣ- (root)
 
 yā́ni ← yá- (pronoun)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒दक्षो॒ दक्षैः॒ क्रतु॑नासि सु॒क्रतु॒रग्ने॑ क॒विः काव्ये॑नासि विश्व॒वित् ।  
+वसु॒र्वसू॑नां क्षयसि॒ त्वमेक॒ इद्द्यावा॑ च॒ यानि॑ पृथि॒वी च॒ पुष्य॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -269,7 +275,6 @@ _________
 - “boom; grow; promote; foster.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

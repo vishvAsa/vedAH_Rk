@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ ná ← ná (invariable)
 
 śocíḥ ← śocís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा अ॒भि प्र णो॑नुमो वि॒पामग्रे॑षु धी॒तयः॑ ।  
+अ॒ग्नेः शो॒चिर्न दि॒द्युतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “arrow; Didyut.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ emi ← √i- 1 (root)
 
 yajñíyam ← yajñíya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पश्य॑न्न॒न्यस्या॒ अति॑थिं व॒याया॑ ऋ॒तस्य॒ धाम॒ वि मि॑मे पु॒रूणि॑ ।  
+शंसा॑मि पि॒त्रे असु॑राय॒ शेव॑मयज्ञि॒याद्य॒ज्ञियं॑ भा॒गमे॑मि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ stotré ← stotár- (nominal stem)
 
 suvī́ryam ← suvī́rya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मानो॒ व्य॑श्नवद्र॒श्मिभि॑र्वाज॒सात॑मः ।  
+दध॑त्स्तो॒त्रे सु॒वीर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -152,10 +157,6 @@ _________
 The self-purifying one will pervade with his rays, the best winner of prizes, establishing for the praiser an abundance of heroes.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In this vs. we seem to have returned to the identification of Soma with the sun, as shown esp. by raśmíbhiḥ “with his rays” - this instr. pl. being reserved almost exclusively for the sun’s rays (see, e.g., nearby IX.61.8 sū́ryasya raśmíbhiḥ). The image is of the sun / Soma pervading space, with Soma’s rays being the traces of the golden liquid as it spreads across the filter.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -165,7 +166,6 @@ jáṅghnataḥ in 25a, which picks up the same stem (in the nom. jáṅghanat) 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

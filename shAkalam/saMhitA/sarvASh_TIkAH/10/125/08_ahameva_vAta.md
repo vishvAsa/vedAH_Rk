@@ -4,6 +4,7 @@ devataa = "वागांभृणी"
 RShiH = "वागांभृणी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वागांभृणी
@@ -86,7 +87,12 @@ mahinā́ ← mahimán- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हमे॒व वात॑ इव॒ प्र वा॑म्या॒रभ॑माणा॒ भुव॑नानि॒ विश्वा॑ ।  
+प॒रो दि॒वा प॒र ए॒ना पृ॑थि॒व्यैताव॑ती महि॒ना सं ब॑भूव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

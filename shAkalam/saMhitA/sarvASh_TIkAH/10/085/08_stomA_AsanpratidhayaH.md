@@ -4,6 +4,7 @@ devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्याविवाहः
@@ -68,7 +69,12 @@ agníḥ ← agní- (nominal stem)
 
 purogaváḥ ← purogavá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तोमा॑ आसन्प्रति॒धयः॑ कु॒रीरं॒ छन्द॑ ओप॒शः ।  
+सू॒र्याया॑ अ॒श्विना॑ व॒राग्निरा॑सीत्पुरोग॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -69,7 +70,12 @@ tvā ← tvám (pronoun)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्य॑श्वस्त्वा वसु॒विद॑मुक्ष॒ण्युर॑प्रीणा॒दृषिः॑ ।  
+म॒हो रा॒ये तमु॑ त्वा॒ समि॑धीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “kindle; ignite; set ablaze.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

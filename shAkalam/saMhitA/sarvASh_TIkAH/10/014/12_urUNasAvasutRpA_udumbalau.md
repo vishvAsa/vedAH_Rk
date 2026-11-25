@@ -4,6 +4,7 @@ devataa = "श्वानौ"
 RShiH = "यमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्वानौ
@@ -86,7 +87,12 @@ ihá ← ihá (invariable)
 
 púnar ← púnar (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रू॒ण॒साव॑सु॒तृपा॑ उदुम्ब॒लौ य॒मस्य॑ दू॒तौ च॑रतो॒ जनाँ॒ अनु॑ ।  
+ताव॒स्मभ्यं॑ दृ॒शये॒ सूर्या॑य॒ पुन॑र्दाता॒मसु॑म॒द्येह भ॒द्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     fine-looking; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

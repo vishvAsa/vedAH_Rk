@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ नभस्यश्च"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ नभस्यश्च
@@ -92,7 +93,12 @@ praśāstrā́t ← praśāstrá- (nominal stem)
 
 somyám ← somyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जु॒षेथां॑ य॒ज्ञं बोध॑तं॒ हव॑स्य मे स॒त्तो होता॑ नि॒विदः॑ पू॒र्व्या अनु॑ ।  
+अच्छा॒ राजा॑ना॒ नम॑ एत्या॒वृतं॑ प्रशा॒स्त्रादा पि॑बतं सो॒म्यं मधु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

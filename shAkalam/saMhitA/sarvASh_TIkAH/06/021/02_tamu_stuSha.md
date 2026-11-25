@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ purumāyásya ← purumāyá- (nominal stem)
 
 riricé ← √ric- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ स्तुष॒ इन्द्रं॒ यो विदा॑नो॒ गिर्वा॑हसं गी॒र्भिर्य॒ज्ञवृ॑द्धम् ।  
+यस्य॒ दिव॒मति॑ म॒ह्ना पृ॑थि॒व्याः पु॑रुमा॒यस्य॑ रिरि॒चे म॑हि॒त्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “state; quality; cause; reason.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

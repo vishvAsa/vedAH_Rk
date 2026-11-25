@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ paśuvárdhanāya ← paśuvárdhana- (nominal stem)
 
 vrajám ← vrajá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधि॒ यद॑स्मिन्वा॒जिनी॑व॒ शुभः॒ स्पर्ध॑न्ते॒ धियः॒ सूर्ये॒ न विशः॑ ।  
+अ॒पो वृ॑णा॒नः प॑वते कवी॒यन्व्र॒जं न प॑शु॒वर्ध॑नाय॒ मन्म॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “hymn; idea; purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

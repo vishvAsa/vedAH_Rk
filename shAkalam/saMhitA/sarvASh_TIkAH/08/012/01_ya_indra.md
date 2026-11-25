@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -67,7 +68,12 @@ yéna ← yá- (pronoun)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इ॑न्द्र सोम॒पात॑मो॒ मदः॑ शविष्ठ॒ चेत॑ति ।  
+येना॒ हंसि॒ न्य१॒॑त्रिणं॒ तमी॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -193,10 +198,6 @@ Most powerful Indra, your exhilaration that is conspicuous as the best  drinker 
 with which you strike down the devourer—for that we beg.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although it is Indra whom we expect to be the best soma-drinker, here the epithet is transposed to his máda- ‘exhilaration’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -204,7 +205,6 @@ This tṛca is unified by a series of relative clauses (mostly introduced by yé
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

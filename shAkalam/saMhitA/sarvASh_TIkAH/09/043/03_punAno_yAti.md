@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ médhyātitheḥ ← médhyātithi- (nominal stem)
 
 víprasya ← vípra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒ना॒नो या॑ति हर्य॒तः सोमो॑ गी॒र्भिः परि॑ष्कृतः ।  
+विप्र॑स्य॒ मेध्या॑तिथेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “Kaṇva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

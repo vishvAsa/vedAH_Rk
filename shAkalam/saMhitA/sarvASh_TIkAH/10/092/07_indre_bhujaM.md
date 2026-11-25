@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ vájram ← vájra- (nominal stem)
 
 yújam ← yúj- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रे॒ भुजं॑ शशमा॒नास॑ आशत॒ सूरो॒ दृशी॑के॒ वृष॑णश्च॒ पौंस्ये॑ ।  
+प्र ये न्व॑स्या॒र्हणा॑ ततक्षि॒रे युजं॒ वज्रं॑ नृ॒षद॑नेषु का॒रवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “poet; singer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

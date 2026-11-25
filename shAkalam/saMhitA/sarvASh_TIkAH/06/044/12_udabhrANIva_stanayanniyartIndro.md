@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ maghónaḥ ← maghávan- (nominal stem)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॒भ्राणी॑व स्त॒नय॑न्निय॒र्तीन्द्रो॒ राधां॒स्यश्व्या॑नि॒ गव्या॑ ।  
+त्वम॑सि प्र॒दिवः॑ का॒रुधा॑या॒ मा त्वा॑दा॒मान॒ आ द॑भन्म॒घोनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "बिन्दुः पूतदक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ pītáye ← pītí- (nominal stem)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्यान्नु ये वि रोद॑सी तस्त॒भुर्म॒रुतो॑ हुवे ।  
+अ॒स्य सोम॑स्य पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

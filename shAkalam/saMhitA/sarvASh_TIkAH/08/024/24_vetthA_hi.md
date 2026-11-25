@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ paripádām ← paripád- (nominal stem)
 
 śundhyúḥ ← śundhyú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वेत्था॒ हि निरृ॑तीनां॒ वज्र॑हस्त परि॒वृज॑म् ।  
+अह॑रहः शु॒न्ध्युः प॑रि॒पदा॑मिव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

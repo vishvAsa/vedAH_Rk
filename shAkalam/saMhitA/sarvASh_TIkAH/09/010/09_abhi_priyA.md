@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ paśyati ← √paś- (root)
 
 sū́raḥ ← svàr- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्रि॒या दि॒वस्प॒दम॑ध्व॒र्युभि॒र्गुहा॑ हि॒तम् ।  
+सूरः॑ पश्यति॒ चक्ष॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “eye; look; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

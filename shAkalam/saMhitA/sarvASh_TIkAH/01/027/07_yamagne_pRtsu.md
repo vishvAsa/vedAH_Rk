@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ sá ← sá- ~ tá- (pronoun)
 
 yántā ← √i- 1 (root)  
 {case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यम॑ग्ने पृ॒त्सु मर्त्य॒मवा॒ वाजे॑षु॒ यं जु॒नाः ।  
+स यन्ता॒ शश्व॑ती॒रिषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

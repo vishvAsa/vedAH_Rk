@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ utá ← utá (invariable)
 
 uttamā́yyam ← uttamā́yya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तन्तुं॑ तन्वा॒नमु॑त्त॒ममनु॑ प्र॒वत॑ आशत ।  
+उ॒तेदमु॑त्त॒माय्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -155,7 +160,6 @@ They have reached the highest thread being stretched, along the inclines, and th
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -174,7 +178,6 @@ As noted in the published introduction, vs. 7 stands somewhat apart from the res
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

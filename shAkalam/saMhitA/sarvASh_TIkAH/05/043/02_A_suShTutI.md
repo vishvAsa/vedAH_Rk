@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ naḥ ← ahám (pronoun)
 
 yaśásau ← yaśás- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ सु॑ष्टु॒ती नम॑सा वर्त॒यध्यै॒ द्यावा॒ वाजा॑य पृथि॒वी अमृ॑ध्रे ।  
+पि॒ता मा॒ता मधु॑वचाः सु॒हस्ता॒ भरे॑भरे नो य॒शसा॑वविष्टाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

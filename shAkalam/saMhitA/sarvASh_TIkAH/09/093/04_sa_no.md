@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नोधाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ dāváne ← √dā- 1 (root)
 
 vásūnām ← vásu- (nominal stem)  
 {case:GEN, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॑ दे॒वेभिः॑ पवमान र॒देन्दो॑ र॒यिम॒श्विनं॑ वावशा॒नः ।  
+र॒थि॒रा॒यता॑मुश॒ती पुरं॑धिरस्म॒द्र्य१॒॑गा दा॒वने॒ वसू॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

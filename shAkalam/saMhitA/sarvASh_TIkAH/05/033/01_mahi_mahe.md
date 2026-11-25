@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ samaryàḥ ← samaryà- (nominal stem)
 
 stutáḥ ← √stu- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+महि॑ म॒हे त॒वसे॑ दीध्ये॒ नॄनिन्द्रा॑ये॒त्था त॒वसे॒ अत॑व्यान् ।  
+यो अ॑स्मै सुम॒तिं वाज॑सातौ स्तु॒तो जने॑ सम॒र्य॑श्चि॒केत॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

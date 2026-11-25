@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ sárgam ← sárga- (nominal stem)
 
 śū́raḥ ← śū́ra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एकं॑ च॒ यो विं॑श॒तिं च॑ श्रव॒स्या वै॑क॒र्णयो॒र्जना॒न्राजा॒ न्यस्तः॑ ।  
+द॒स्मो न सद्म॒न्नि शि॑शाति ब॒र्हिः शूरः॒ सर्ग॑मकृणो॒दिन्द्र॑ एषाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

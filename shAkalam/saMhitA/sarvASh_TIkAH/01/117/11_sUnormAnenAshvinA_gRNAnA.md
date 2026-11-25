@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ sám ← sám (invariable)
 
 viśpálām ← viśpálā- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सू॒नोर्माने॑नाश्विना गृणा॒ना वाजं॒ विप्रा॑य भुरणा॒ रद॑न्ता ।  
+अ॒गस्त्ये॒ ब्रह्म॑णा वावृधा॒ना सं वि॒श्पलां॑ नासत्यारिणीतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “free; liberate; run; let go of.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

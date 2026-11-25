@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ iva ← iva (invariable)
 
 urúdhārā ← urúdhāra- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स न॒ इन्द्रः॑ शि॒वः सखाश्वा॑व॒द्गोम॒द्यव॑मत् ।  
+उ॒रुधा॑रेव दोहते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

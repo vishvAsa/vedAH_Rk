@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ svada ← √svad- (root)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्यं॑ दक्ष कविक्रतो॒ यानी॒मा देव॒ मर्ता॑सो अध्व॒रे अक॑र्म ।  
+त्वं विश्व॑स्य सु॒रथ॑स्य बोधि॒ सर्वं॒ तद॑ग्ने अमृत स्वदे॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “here; now; in this world; now; below; there; here; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

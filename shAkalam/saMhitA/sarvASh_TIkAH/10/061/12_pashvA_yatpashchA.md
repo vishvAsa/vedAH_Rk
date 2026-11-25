@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ víśvam ← víśva- (nominal stem)
 
 viveṣṭi ← √viṣ- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒श्वा यत्प॒श्चा वियु॑ता बु॒धन्तेति॑ ब्रवीति व॒क्तरी॒ ररा॑णः ।  
+वसो॑र्वसु॒त्वा का॒रवो॑ऽने॒हा विश्वं॑ विवेष्टि॒ द्रवि॑ण॒मुप॒ क्षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “food.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

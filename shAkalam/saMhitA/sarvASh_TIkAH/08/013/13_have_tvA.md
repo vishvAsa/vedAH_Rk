@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ naḥ ← ahám (pronoun)
 
 sáptibhiḥ ← sápti- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हवे॑ त्वा॒ सूर॒ उदि॑ते॒ हवे॑ म॒ध्यन्दि॑ने दि॒वः ।  
+जु॒षा॒ण इ॑न्द्र॒ सप्ति॑भिर्न॒ आ ग॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

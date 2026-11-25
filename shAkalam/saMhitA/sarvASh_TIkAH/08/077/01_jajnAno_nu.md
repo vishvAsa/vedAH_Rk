@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ ké ← ká- (pronoun)
 
 ugrā́ḥ ← ugrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज॒ज्ञा॒नो नु श॒तक्र॑तु॒र्वि पृ॑च्छ॒दिति॑ मा॒तर॑म् ।  
+क उ॒ग्राः के ह॑ शृण्विरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

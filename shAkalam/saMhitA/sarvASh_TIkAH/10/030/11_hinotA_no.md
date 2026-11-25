@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -83,7 +84,12 @@ bhūtana ← √bhū- (root)
 
 śruṣṭīvárīḥ ← śruṣṭīván- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हि॒नोता॑ नो अध्व॒रं दे॑वय॒ज्या हि॒नोत॒ ब्रह्म॑ स॒नये॒ धना॑नाम् ।  
+ऋ॒तस्य॒ योगे॒ वि ष्य॑ध्व॒मूधः॑ श्रुष्टी॒वरी॑र्भूतना॒स्मभ्य॑मापः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

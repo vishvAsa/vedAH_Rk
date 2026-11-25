@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ stuvatáḥ ← √stu- (root)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कदु॑ स्तु॒वन्त॑ ऋतयन्त दे॒वत॒ ऋषिः॒ को विप्र॑ ओहते ।  
+क॒दा हवं॑ मघवन्निन्द्र सुन्व॒तः कदु॑ स्तुव॒त आ ग॑मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

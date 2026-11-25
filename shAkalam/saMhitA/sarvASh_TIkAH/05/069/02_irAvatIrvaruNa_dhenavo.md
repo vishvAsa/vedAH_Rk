@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "उरुचक्रिरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ retodhā́ḥ ← retodhā́- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इरा॑वतीर्वरुण धे॒नवो॑ वां॒ मधु॑मद्वां॒ सिन्ध॑वो मित्र दुह्रे ।  
+त्रय॑स्तस्थुर्वृष॒भास॑स्तिसृ॒णां धि॒षणा॑नां रेतो॒धा वि द्यु॒मन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “bright; brilliant; brilliant; loud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

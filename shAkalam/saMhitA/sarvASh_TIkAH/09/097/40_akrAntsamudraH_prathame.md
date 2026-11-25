@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ suvānáḥ ← √su- (root)
 
 vāvr̥dhe ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अक्रा॑न्त्समु॒द्रः प्र॑थ॒मे विध॑र्मञ्ज॒नय॑न्प्र॒जा भुव॑नस्य॒ राजा॑ ।  
+वृषा॑ प॒वित्रे॒ अधि॒ सानो॒ अव्ये॑ बृ॒हत्सोमो॑ वावृधे सुवा॒न इन्दुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -243,12 +248,6 @@ As the sea he has roared at his first expansion, begetting the creatures as  kin
 The bull in the filter, on the sheep’s back, Soma has grown loftily, the  drop being pressed.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The verb vāvṛdhe in d concatenates with vardhitā́várdhanaḥ in 39a.
-
-Geldner’s tr. of pāda a, “Der Ocean hat gebrüllt bei seiner ersten Ausbreitung,” seems to imply (though this is not a necessary interpr. of his tr.) that the samudrá- is a different entity from Soma himself, and his cited IX.107.23 tváṃ samudrám prathamó ví dhārayaḥ “You were [/are] the first to to spread out the sea” (with both samudrá- and ví √dhṛ) certainly depicts them as separate. However, IX.86.29 tváṃ samudró asi …, távemā́ḥ páñca pradíśo vídharmaṇi “You are the sea, …; yours are these five regions in your [/their] expansion” (also with samudrá- and the -n-stem loc. vídharman/-ṇi as here) asserts the identity of Soma and the samudrá-. Since forms of √krand ‘roar’ in IX (like ákrān here) have Soma as their subject (incl. in vss. 13, 18, 28, 32, 33 in this hymn), the identification of Soma and the sea seems assured here.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/40-42.md">
 <details><summary><h2>40-42 ...{Loading}...</h2></summary>
 
@@ -256,7 +255,6 @@ No particular unity detectable in the tṛca, though the 2nd two vss. do focus o
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

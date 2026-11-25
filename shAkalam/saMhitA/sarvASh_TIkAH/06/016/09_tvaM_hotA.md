@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ víśaḥ ← víś- (nominal stem)
 
 yákṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं होता॒ मनु॑र्हितो॒ वह्नि॑रा॒सा वि॒दुष्ट॑रः ।  
+अग्ने॒ यक्षि॑ दि॒वो विशः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,7 +173,6 @@ Agni, sacrifice to the clans of heaven.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -176,7 +180,6 @@ This tṛca likewise has a form of the 2nd sg. prn. beginning each vs. (7 t(u)v�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

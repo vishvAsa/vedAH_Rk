@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ mr̥ḷáya ← √mr̥ḍ- (root)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्द॑धि॒षे म॑न॒स्यसि॑ मन्दा॒नः प्रेदिय॑क्षसि ।  
+मा तत्क॑रिन्द्र मृ॒ळय॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “pardon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

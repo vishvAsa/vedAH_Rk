@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -92,7 +93,12 @@ vām ← tvám (pronoun)
 
 vavr̥tīya ← √vr̥t- (root)  
 {number:SG, person:1, mood:OPT, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मामु॒ षु सोम॑सुति॒मुप॑ न॒ एन्द्रा॑ग्नी सौमन॒साय॑ यातम् ।  
+नू चि॒द्धि प॑रिम॒म्नाथे॑ अ॒स्माना वां॒ शश्व॑द्भिर्ववृतीय॒ वाजैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -57,7 +58,12 @@ sadhástham ← sadhástha- (nominal stem)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माक॒मायु॑र्व॒र्धय॑न्न॒भिमा॑तीः॒ सह॑मानः ।  
+सोमः॑ स॒धस्थ॒मास॑दत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +121,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

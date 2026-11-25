@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः पावकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ mā́nuṣā ← mā́nuṣa- (nominal stem)
 
 yugā́ ← yugá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तावा॑नं महि॒षं वि॒श्वद॑र्शतम॒ग्निं सु॒म्नाय॑ दधिरे पु॒रो जनाः॑ ।  
+श्रुत्क॑र्णं स॒प्रथ॑स्तमं त्वा गि॒रा दैव्यं॒ मानु॑षा यु॒गा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     \[word\]; Yuga; race.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

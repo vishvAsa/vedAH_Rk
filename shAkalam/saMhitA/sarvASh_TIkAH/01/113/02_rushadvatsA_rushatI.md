@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ dyā́vā ← dyú- ~ div- (nominal stem)
 
 várṇam ← várṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रुश॑द्वत्सा॒ रुश॑ती श्वे॒त्यागा॒दारै॑गु कृ॒ष्णा सद॑नान्यस्याः ।  
+स॒मा॒नब॑न्धू अ॒मृते॑ अनू॒ची द्यावा॒ वर्णं॑ चरत आमिना॒ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - \[verb noun\], nominative, dual
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

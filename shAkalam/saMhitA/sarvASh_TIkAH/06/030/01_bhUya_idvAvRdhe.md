@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ ródasī ← ródasī- (nominal stem)
 
 ubhé ← ubhá- (pronoun)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूय॒ इद्वा॑वृधे वी॒र्या॑यँ॒ एको॑ अजु॒र्यो द॑यते॒ वसू॑नि ।  
+प्र रि॑रिचे दि॒व इन्द्रः॑ पृथि॒व्या अ॒र्धमिद॑स्य॒ प्रति॒ रोद॑सी उ॒भे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “both(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

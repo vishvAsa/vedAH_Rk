@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गातुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vájreṇa ← vájra- (nominal stem)
 
 vajrī́ ← vajrín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्यं चि॑देषां स्व॒धया॒ मद॑न्तं मि॒हो नपा॑तं सु॒वृधं॑ तमो॒गाम् ।  
+वृष॑प्रभर्मा दान॒वस्य॒ भामं॒ वज्रे॑ण व॒ज्री नि ज॑घान॒ शुष्ण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “Śuṣṇa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -91,7 +91,12 @@ rócamānā ← √ruc- (root)
 
 úṣaḥ ← uṣás- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रा द॑दृक्ष उर्वि॒या वि भा॒स्युत्ते॑ शो॒चिर्भा॒नवो॒ द्याम॑पप्तन् ।  
+आ॒विर्वक्षः॑ कृणुषे शु॒म्भमा॒नोषो॑ देवि॒ रोच॑माना॒ महो॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +232,6 @@ _________
 - “greatness; festival; glory; reward; gladness.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -272,8 +276,6 @@ Du zeigst dich, Liebliche und leuchtest weithin, zum Himmel flogen deines Lichte
 Красуясь, ты обнажаешь грудь,  
 О Ушас божественная, блистая во (всем) великолепии.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

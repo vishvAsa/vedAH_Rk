@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ purorathám ← purorathá- (nominal stem)
 
 sahá ← sahá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न तं रा॑जानावदिते॒ कुत॑श्च॒न नांहो॑ अश्नोति दुरि॒तं नकि॑र्भ॒यम् ।  
+यम॑श्विना सुहवा रुद्रवर्तनी पुरोर॒थं कृ॑णु॒थः पत्न्या॑ स॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “together; together; with; jointly; together; saha \[word\]; along.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

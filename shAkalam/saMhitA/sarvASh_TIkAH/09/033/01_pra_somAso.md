@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ mahiṣā́ḥ ← mahiṣá- (nominal stem)
 
 vánāni ← vána- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सोमा॑सो विप॒श्चितो॒ऽपां न य॑न्त्यू॒र्मयः॑ ।  
+वना॑नि महि॒षा इ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

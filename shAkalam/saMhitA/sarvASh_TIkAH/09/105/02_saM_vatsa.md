@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पर्वतनारदौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ matíbhiḥ ← matí- (nominal stem)
 
 páriṣkr̥taḥ ← √kr̥- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं व॒त्स इ॑व मा॒तृभि॒रिन्दु॑र्हिन्वा॒नो अ॑ज्यते ।  
+दे॒वा॒वीर्मदो॑ म॒तिभिः॒ परि॑ष्कृतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “decorate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

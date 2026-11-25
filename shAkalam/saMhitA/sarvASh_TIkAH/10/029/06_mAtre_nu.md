@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ pītáye ← pītí- (nominal stem)
 
 svā́dman ← svā́dman- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मात्रे॒ नु ते॒ सुमि॑ते इन्द्र पू॒र्वी द्यौर्म॒ज्मना॑ पृथि॒वी काव्ये॑न ।  
+वरा॑य ते घृ॒तव॑न्तः सु॒तासः॒ स्वाद्म॑न्भवन्तु पी॒तये॒ मधू॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

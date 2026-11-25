@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ suvī́ryam ← suvī́rya- (nominal stem)
 
 vā́javat ← vā́javant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नः॑ सोम सं॒यतं॑ पि॒प्युषी॒मिष॒मिन्दो॒ पव॑स्व॒ पव॑मानो अ॒स्रिध॑म् ।  
+या नो॒ दोह॑ते॒ त्रिरह॒न्नस॑श्चुषी क्षु॒मद्वाज॑व॒न्मधु॑मत्सु॒वीर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -263,10 +268,6 @@ O Soma, o drop, purifying yourself, bring us continuous, swelling,  unfailing re
 and honey.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note the functional contrast between ā́… pavasva and adjacent pávamānaḥ.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -274,7 +275,6 @@ The first two vss. of this tṛca begin with prá with a verb of motion, but oth
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -52,7 +53,11 @@ kṣárantīḥ ← √kṣar- (root)
 
 śr̥ṇvánti ← √śru- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒दुः पृ॑थि॒व्या दि॒वो ज॒नित्रं॑ शृ॒ण्वन्त्यापो॒ अध॒ क्षर॑न्तीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +115,6 @@ _________
 - “run; melt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

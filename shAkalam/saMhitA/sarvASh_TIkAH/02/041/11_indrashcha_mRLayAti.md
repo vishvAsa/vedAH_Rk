@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ naḥ ← ahám (pronoun)
 
 purás ← purás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑श्च मृ॒ळया॑ति नो॒ न नः॑ प॒श्चाद॒घं न॑शत् ।  
+भ॒द्रं भ॑वाति नः पु॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

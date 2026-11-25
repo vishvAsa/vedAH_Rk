@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ jigāti ← √gā- (root)
 
 vītī́ ← vītí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र नव्य॑सा॒ सह॑सः सू॒नुमच्छा॑ य॒ज्ञेन॑ गा॒तुमव॑ इ॒च्छमा॑नः ।  
+वृ॒श्चद्व॑नं कृ॒ष्णया॑मं॒ रुश॑न्तं वी॒ती होता॑रं दि॒व्यं जि॑गाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

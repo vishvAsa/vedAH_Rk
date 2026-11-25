@@ -77,6 +77,12 @@ idhmáḥ ← idhmá- (nominal stem)
 {case:NOM, gender:F, number:SG}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्पुरु॑षेण ह॒विषा॑ दे॒वा य॒ज्ञमत॑न्वत ।  
+व॒स॒न्तो अ॑स्यासी॒दाज्यं॑ ग्री॒ष्म इ॒ध्मः श॒रद्ध॒विः ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । पुरु॑षेण । ह॒विषा॑ । दे॒वाः । य॒ज्ञम् । अत॑न्वत ।  

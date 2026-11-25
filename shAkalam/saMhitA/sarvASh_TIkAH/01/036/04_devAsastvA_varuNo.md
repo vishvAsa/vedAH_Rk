@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ te ← tvám (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वास॑स्त्वा॒ वरु॑णो मि॒त्रो अ॑र्य॒मा सं दू॒तं प्र॒त्नमि॑न्धते ।  
+विश्वं॒ सो अ॑ग्ने जयति॒ त्वया॒ धनं॒ यस्ते॑ द॒दाश॒ मर्त्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

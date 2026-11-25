@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "महापङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -102,7 +103,12 @@ suūtáyaḥ ← suūtí- (nominal stem)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+महि॑ वो मह॒तामवो॒ वरु॑ण॒ मित्र॑ दा॒शुषे॑ ।  
+यमा॑दित्या अ॒भि द्रु॒हो रक्ष॑था॒ नेम॒घं न॑शदने॒हसो॑ व ऊ॒तयः॑ सुऊ॒तयो॑ व ऊ॒तयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

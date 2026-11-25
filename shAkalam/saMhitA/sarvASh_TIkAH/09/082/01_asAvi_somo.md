@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ ná ← ná (invariable)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असा॑वि॒ सोमो॑ अरु॒षो वृषा॒ हरी॒ राजे॑व द॒स्मो अ॒भि गा अ॑चिक्रदत् ।  
+पु॒ना॒नो वारं॒ पर्ये॑त्य॒व्ययं॑ श्ये॒नो न योनिं॑ घृ॒तव॑न्तमा॒सद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

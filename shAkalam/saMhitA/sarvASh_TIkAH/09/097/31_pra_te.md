@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ jajñānáḥ ← √janⁱ- (root)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॒ धारा॒ मधु॑मतीरसृग्र॒न्वारा॒न्यत्पू॒तो अ॒त्येष्यव्या॑न् ।  
+पव॑मान॒ पव॑से॒ धाम॒ गोनां॑ जज्ञा॒नः सूर्य॑मपिन्वो अ॒र्कैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     beam.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -238,7 +243,6 @@ Self-purifying one, purify yourself as the domain for the cows. On being  born, 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md">
 <details><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -246,7 +250,6 @@ The first vs. of the tṛca contains a form of √sṛj, thus concatenating with
 
 </details>
 </div>
-</details>
 
 <details><summary>Jamison Brereton Notes</summary>
 
@@ -258,7 +261,6 @@ As often, arká- can be read as a pun.
 
 **31ff**  
 As noted in the published introduction, the tṛca divisions seem to continue in this 2nd half of the composite hymn, although the Anukr. attributes the remaining vss. to just two poets, Parāśara Śāktya (31-44) and Kutsa Āṅgirasa (45-58), an apporioning that does not conform to the presumed tṛca division (splitting the tṛca 43-45 between the two). Both poets are known from elsewhere: Parāśara Śāktya is the poet of I.65- 73 and Kutsa Āṅgirasa of I.94-98 and I.101-15.
-
 </details>
 
 <details><summary>Griffith</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ prá ← prá (invariable)
 
 tmánā ← tmán- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ने॒हसं॑ प्र॒तर॑णं वि॒वक्ष॑णं॒ मध्वः॒ स्वादि॑ष्ठमीं पिब ।  
+आ यथा॑ मन्दसा॒नः कि॒रासि॑ नः॒ प्र क्षु॒द्रेव॒ त्मना॑ धृ॒षत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “dare; attack.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

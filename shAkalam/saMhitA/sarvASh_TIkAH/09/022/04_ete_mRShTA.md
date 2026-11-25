@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ patháḥ ← pánthā- ~ path- (nominal stem)
 
 rájaḥ ← rájas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते मृ॒ष्टा अम॑र्त्याः ससृ॒वांसो॒ न श॑श्रमुः ।  
+इय॑क्षन्तः प॒थो रजः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -148,10 +153,6 @@ _________
 These immortal ones, once groomed, have not flagged in their flowing, as they seek to reach the paths through the airy space.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Geldner/Renou I take ná as neg. with pf. śaśramuḥ. In contrast, Kümmel (524, 551) takes it as the simile particle: “... sind wie [Rennpferde], die gelaufen sind, ermüdet ...” He cites (551 n. 1141) Delbrück (Altind. Syn. 376) for this interpr., but Delbrück in fact takes the ná as neg.: “… sind nicht müde geworden, obgleich sie gelaufen sind.” I assume that Kümmel so interpr. because of the position of ná after the participle, but in a Gāyatrī pāda the position before the verb is also the position after the NP -- there’s not a lot of space. I think it unlikely that the poets would ever say that the ever-running soma could get tired. Moreover, √śram almost always appears with neg.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/022/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -162,7 +163,6 @@ Meanwhile, 3rd pl. pf. (vy) ā̀naśuḥ of 3c, 5b morphs into 3rd pl. root aor.
 My “that is to be higher still” is meant to capture the pseudo-gerundive form of the nonce uttamā́yi ya-.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

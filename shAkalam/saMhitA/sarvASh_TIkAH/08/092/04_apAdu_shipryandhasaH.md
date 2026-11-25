@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ sudákṣasya ← sudákṣa- (nominal stem)
 
 yávāśiraḥ ← yávāśir- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपा॑दु शि॒प्र्यन्ध॑सः सु॒दक्ष॑स्य प्रहो॒षिणः॑ ।  
+इन्दो॒रिन्द्रो॒ यवा॑शिरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “mixture.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ nákṣante ← √nakṣ- (root)
 
 nírr̥teḥ ← nírr̥ti- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सा॑क॒मुक्षे॑ अर्चता ग॒णाय॒ यो दैव्य॑स्य॒ धाम्न॒स्तुवि॑ष्मान् ।  
+उ॒त क्षो॑दन्ति॒ रोद॑सी महि॒त्वा नक्ष॑न्ते॒ नाकं॒ निरृ॑तेरवं॒शात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - \[noun\], ablative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

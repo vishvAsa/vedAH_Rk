@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ devayúḥ ← devayú- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दु॒रत्यो॒ न वा॑ज॒सृत्कनि॑क्रन्ति प॒वित्र॒ आ ।  
+यदक्षा॒रति॑ देव॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “devout; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

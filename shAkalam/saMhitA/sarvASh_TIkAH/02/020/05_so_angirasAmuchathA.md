@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ pūrvyā́ṇi ← pūrvyá- (nominal stem)
 
 śiśnathat ← √śnathⁱ- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो अङ्गि॑रसामु॒चथा॑ जुजु॒ष्वान्ब्रह्मा॑ तूतो॒दिन्द्रो॑ गा॒तुमि॒ष्णन् ।  
+मु॒ष्णन्नु॒षसः॒ सूर्ये॑ण स्त॒वानश्न॑स्य चिच्छिश्नथत्पू॒र्व्याणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “first; precedent; age-old; excellent; former(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

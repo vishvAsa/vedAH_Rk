@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -61,7 +62,12 @@ apsujít ← apsujít- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स प्र॑थ॒मे व्यो॑मनि दे॒वानां॒ सद॑ने वृ॒धः ।  
+सु॒पा॒रः सु॒श्रव॑स्तमः॒ सम॑प्सु॒जित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ indra ← índra- (nominal stem)
 
 ít ← ít (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒ज्याम॑ ते॒ परि॒ द्विषोऽरं॑ ते शक्र दा॒वने॑ ।  
+ग॒मेमेदि॑न्द्र॒ गोम॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “rich in cattle; bovine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

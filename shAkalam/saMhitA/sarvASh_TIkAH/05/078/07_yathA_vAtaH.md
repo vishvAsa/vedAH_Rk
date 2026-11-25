@@ -4,6 +4,7 @@ devataa = "अश्विनौ (गर्भस्राविण्युप�
 RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ (गर्भस्राविण्युपनिषत्)
@@ -65,7 +66,12 @@ dáśamāsyaḥ ← dáśamāsya- (nominal stem)
 
 niraítu ← √i- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॒ वातः॑ पुष्क॒रिणीं॑ समि॒ङ्गय॑ति स॒र्वतः॑ ।  
+ए॒वा ते॒ गर्भ॑ एजतु नि॒रैतु॒ दश॑मास्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

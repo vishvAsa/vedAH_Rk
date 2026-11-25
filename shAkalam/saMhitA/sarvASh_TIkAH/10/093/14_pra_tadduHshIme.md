@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ pathā́ ← pánthā- ~ path- (nominal stem)
 
 viśrā́vi ← √śru- (root)  
 {number:SG, person:3, mood:IND, tense:AOR, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र तद्दुः॒शीमे॒ पृथ॑वाने वे॒ने प्र रा॒मे वो॑च॒मसु॑रे म॒घव॑त्सु ।  
+ये यु॒क्त्वाय॒ पञ्च॑ श॒तास्म॒यु प॒था वि॒श्राव्ये॑षाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

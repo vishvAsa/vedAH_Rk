@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ camū́ṣu ← camū́- (nominal stem)
 
 śákmanā ← śákman- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मानः सु॒तो नृभिः॒ सोमो॒ वाज॑मिवासरत् ।  
+च॒मूषु॒ शक्म॑ना॒सद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,7 +161,6 @@ Purifying himself, pressed by men, Soma has flowed, as if to a prize, to sit in 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -164,7 +168,6 @@ Several elements link at least two of the vss. in the tṛca: the presence of v�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

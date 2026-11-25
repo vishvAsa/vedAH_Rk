@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ tvótāḥ ← tvóta- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हन्त॒ इन्नु ये ते॑ तरुत्रो॒क्थेभि॑र्वा सु॒म्नमा॒विवा॑सान् ।  
+स्तृ॒णा॒नासो॑ ब॒र्हिः प॒स्त्या॑व॒त्त्वोता॒ इदि॑न्द्र॒ वाज॑मग्मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

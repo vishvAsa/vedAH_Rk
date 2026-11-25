@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ havíṣā ← havís- (nominal stem)
 
 vivāsati ← √vanⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू चि॑त्सहो॒जा अ॒मृतो॒ नि तु॑न्दते॒ होता॒ यद्दू॒तो अभ॑वद्वि॒वस्व॑तः ।  
+वि साधि॑ष्ठेभिः प॒थिभी॒ रजो॑ मम॒ आ दे॒वता॑ता ह॒विषा॑ विवासति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “invite; endeavor; try for.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

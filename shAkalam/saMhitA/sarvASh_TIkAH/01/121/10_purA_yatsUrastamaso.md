@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -95,7 +96,12 @@ súgrathitam ← súgrathita- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रा यत्सूर॒स्तम॑सो॒ अपी॑ते॒स्तम॑द्रिवः फलि॒गं हे॒तिम॑स्य ।  
+शुष्ण॑स्य चि॒त्परि॑हितं॒ यदोजो॑ दि॒वस्परि॒ सुग्र॑थितं॒ तदादः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     impound; keep; eat; use; distill.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

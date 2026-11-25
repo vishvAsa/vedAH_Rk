@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कलिः प्रगाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ jaritré ← jaritár- (nominal stem)
 
 ukthyàm ← ukthyà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न यं दु॒ध्रा वर॑न्ते॒ न स्थि॒रा मुरो॒ मदे॑ सुशि॒प्रमन्ध॑सः ।  
+य आ॒दृत्या॑ शशमा॒नाय॑ सुन्व॒ते दाता॑ जरि॒त्र उ॒क्थ्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “applaudable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ pavítre ← pavítra- (nominal stem)
 
 vŕ̥thā ← vŕ̥thā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो न सानु॑ पि॒प्युषी॒ धारा॑ सु॒तस्य॑ वे॒धसः॑ ।  
+वृथा॑ प॒वित्रे॑ अर्षति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “run.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "जरत्कर्ण ऐरावतः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -83,7 +84,12 @@ abhítas ← abhítas (invariable)
 
 mithastúraḥ ← mithastúr- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भु॒रन्तु॑ नो य॒शसः॒ सोत्वन्ध॑सो॒ ग्रावा॑णो वा॒चा दि॒विता॑ दि॒वित्म॑ता ।  
+नरो॒ यत्र॑ दुह॒ते काम्यं॒ मध्वा॑घो॒षय॑न्तो अ॒भितो॑ मिथ॒स्तुरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

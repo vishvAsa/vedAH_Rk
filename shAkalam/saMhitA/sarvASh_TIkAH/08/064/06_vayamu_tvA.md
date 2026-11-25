@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ kā́mam ← kā́ma- (nominal stem)
 
 pr̥ṇa ← √pr̥̄- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यमु॑ त्वा॒ दिवा॑ सु॒ते व॒यं नक्तं॑ हवामहे ।  
+अ॒स्माकं॒ काम॒मा पृ॑ण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

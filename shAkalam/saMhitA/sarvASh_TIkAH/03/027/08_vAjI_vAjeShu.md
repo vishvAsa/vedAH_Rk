@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ vípraḥ ← vípra- (nominal stem)
 
 yajñásya ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒जी वाजे॑षु धीयतेऽध्व॒रेषु॒ प्र णी॑यते ।  
+विप्रो॑ य॒ज्ञस्य॒ साध॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “effective; performing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

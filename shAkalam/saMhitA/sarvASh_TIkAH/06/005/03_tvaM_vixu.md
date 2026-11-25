@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ vásūni ← vásu- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं वि॒क्षु प्र॒दिवः॑ सीद आ॒सु क्रत्वा॑ र॒थीर॑भवो॒ वार्या॑णाम् ।  
+अत॑ इनोषि विध॒ते चि॑कित्वो॒ व्या॑नु॒षग्जा॑तवेदो॒ वसू॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

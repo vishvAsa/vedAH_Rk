@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रजापतिर्वाच्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ mādáyan ← √mad- (root)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यो गोभिः॑ सृ॒ज्यत॒ ओष॑धी॒ष्वा दे॒वानां॑ सु॒म्न इ॒षय॒न्नुपा॑वसुः ।  
+आ वि॒द्युता॑ पवते॒ धार॑या सु॒त इन्द्रं॒ सोमो॑ मा॒दय॒न्दैव्यं॒ जन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -66,7 +67,12 @@ té ← sá- ~ tá- (pronoun)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्हि जानि॑ पू॒र्व्यश्छन्दो॒ न सूरो॑ अ॒र्चिषा॑ ।  
+ते भा॒नुभि॒र्वि त॑स्थिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

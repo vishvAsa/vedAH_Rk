@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ prá ← prá (invariable)
 
 vr̥dhé ← vŕ̥dh- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒श्पतिं॑ य॒ह्वमति॑थिं॒ नरः॒ सदा॑ य॒न्तारं॑ धी॒नामु॒शिजं॑ च वा॒घता॑म् ।  
+अ॒ध्व॒राणां॒ चेत॑नं जा॒तवे॑दसं॒ प्र शं॑सन्ति॒ नम॑सा जू॒तिभि॑र्वृ॒धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

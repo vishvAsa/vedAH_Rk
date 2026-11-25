@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रतर्दनः काशिराजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ ná ← ná (invariable)
 
 vrājápatim ← vrājápati- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रा॒तं ह॒विरो ष्वि॑न्द्र॒ प्र या॑हि ज॒गाम॒ सूरो॒ अध्व॑नो॒ विम॑ध्यम् ।  
+परि॑ त्वासते नि॒धिभिः॒ सखा॑यः कुल॒पा न व्रा॒जप॑तिं॒ चर॑न्तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     heed; process; administer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिग्गर्भा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -60,7 +61,12 @@ u ← u (invariable)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता मे॒ अश्व्या॑नां॒ हरी॑णां नि॒तोश॑ना ।  
+उ॒तो नु कृत्व्या॑नां नृ॒वाह॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - \[noun\], nominative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

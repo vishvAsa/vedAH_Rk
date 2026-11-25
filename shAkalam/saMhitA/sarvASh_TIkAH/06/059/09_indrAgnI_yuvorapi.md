@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -71,7 +72,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 viśvā́yupoṣasam ← viśvā́yupoṣas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ग्नी यु॒वोरपि॒ वसु॑ दि॒व्यानि॒ पार्थि॑वा ।  
+आ न॑ इ॒ह प्र य॑च्छतं र॒यिं वि॒श्वायु॑पोषसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

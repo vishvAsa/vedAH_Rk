@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "आस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -90,7 +91,12 @@ víprasya ← vípra- (nominal stem)
 
 vívakṣase ← √vac- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं घ॒ स तु॒रो मद॒ इन्द्र॑स्य वर्धत प्रि॒यः ।  
+अ॒यं क॒क्षीव॑तो म॒हो वि वो॒ मदे॑ म॒तिं विप्र॑स्य वर्धय॒द्विव॑क्षसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

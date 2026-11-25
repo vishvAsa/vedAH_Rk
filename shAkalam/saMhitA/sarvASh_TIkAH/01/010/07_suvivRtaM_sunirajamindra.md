@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ kr̥ṇuṣvá ← √kr̥- (root)
 
 rā́dhaḥ ← rā́dhas- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒वि॒वृतं॑ सुनि॒रज॒मिन्द्र॒ त्वादा॑त॒मिद्यशः॑ ।  
+गवा॒मप॑ व्र॒जं वृ॑धि कृणु॒ष्व राधो॑ अद्रिवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “rocky; petrous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

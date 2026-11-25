@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "उरुक्षय आमहीयवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -60,7 +61,12 @@ kṣáye ← kṣáya- (nominal stem)
 
 své ← svá- (pronoun)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ हंसि॒ न्य१॒॑त्रिणं॒ दीद्य॒न्मर्त्ये॒ष्वा ।  
+स्वे क्षये॑ शुचिव्रत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     \[word\]; rule; behavior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दुवस्युर्वान्दनः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sarvátātim ← sarvátāti- (nominal stem)
 
 vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ अ॒स्मे सु॒मना॑ अस्तु वि॒श्वहा॒ राजा॒ सोमः॑ सुवि॒तस्याध्ये॑तु नः ।  
+यथा॑यथा मि॒त्रधि॑तानि सन्द॒धुरा स॒र्वता॑ति॒मदि॑तिं वृणीमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -110,7 +111,12 @@ u ← u (invariable)
 
 védiḥ ← védi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नः॒ सोमो॑ भवतु॒ ब्रह्म॒ शं नः॒ शं नो॒ ग्रावा॑णः॒ शमु॑ सन्तु य॒ज्ञाः ।  
+शं नः॒ स्वरू॑णां मि॒तयो॑ भवन्तु॒ शं नः॑ प्र॒स्व१॑ः॒ शम्व॑स्तु॒ वेदिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -284,7 +290,6 @@ _________
 - “Vedi; pedestal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

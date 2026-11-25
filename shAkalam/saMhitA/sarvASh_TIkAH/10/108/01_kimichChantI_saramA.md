@@ -4,6 +4,7 @@ devataa = "सरमा"
 RShiH = "पणयोसुराः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरमा
@@ -92,7 +93,12 @@ páyāṁsi ← páyas- (nominal stem)
 
 rasā́yāḥ ← rasā́- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किमि॒च्छन्ती॑ स॒रमा॒ प्रेदमा॑नड्दू॒रे ह्यध्वा॒ जगु॑रिः परा॒चैः ।  
+कास्मेहि॑तिः॒ का परि॑तक्म्यासीत्क॒थं र॒साया॑ अतरः॒ पयां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

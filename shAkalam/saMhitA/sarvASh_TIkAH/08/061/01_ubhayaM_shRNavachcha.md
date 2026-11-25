@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ gamat ← √gam- (root)
 
 śáviṣṭhaḥ ← śáviṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भयं॑ शृ॒णव॑च्च न॒ इन्द्रो॑ अ॒र्वागि॒दं वचः॑ ।  
+स॒त्राच्या॑ म॒घवा॒ सोम॑पीतये धि॒या शवि॑ष्ठ॒ आ ग॑मत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

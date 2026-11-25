@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -66,7 +67,12 @@ sīm ← sīm (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्थि॒रं हि जान॑मेषां॒ वयो॑ मा॒तुर्निरे॑तवे ।  
+यत्सी॒मनु॑ द्वि॒ता शवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ sákhibhyaḥ ← sákhi- (nominal stem)
 
 váram ← vára- 1 (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॑ अर्षा॒भि दू॒त्यं१॒॑ त्वमिन्द्रा॑य तोशसे ।  
+दे॒वान्त्सखि॑भ्य॒ आ वर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “gift; favor; wish; privilege; varac; wages.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

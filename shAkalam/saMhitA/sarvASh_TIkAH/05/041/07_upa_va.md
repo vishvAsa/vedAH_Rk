@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ vahataḥ ← √vah- (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ व॒ एषे॒ वन्द्ये॑भिः शू॒षैः प्र य॒ह्वी दि॒वश्चि॒तय॑द्भिर॒र्कैः ।  
+उ॒षासा॒नक्ता॑ वि॒दुषी॑व॒ विश्व॒मा हा॑ वहतो॒ मर्त्या॑य य॒ज्ञम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

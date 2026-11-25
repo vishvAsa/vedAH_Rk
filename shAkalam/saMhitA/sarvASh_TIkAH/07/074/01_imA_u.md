@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ hí ← hí (invariable)
 
 víśaṁ-viśam ← víś- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा उ॑ वां॒ दिवि॑ष्टय उ॒स्रा ह॑वन्ते अश्विना ।  
+अ॒यं वा॑म॒ह्वेऽव॑से शचीवसू॒ विशं॑विशं॒ हि गच्छ॑थः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

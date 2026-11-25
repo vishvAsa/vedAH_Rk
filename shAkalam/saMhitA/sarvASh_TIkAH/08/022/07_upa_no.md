@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ kṣatrā́ya ← kṣatrá- (nominal stem)
 
 mahé ← máh- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ नो वाजिनीवसू या॒तमृ॒तस्य॑ प॒थिभिः॑ ।  
+येभि॑स्तृ॒क्षिं वृ॑षणा त्रासदस्य॒वं म॒हे क्ष॒त्राय॒ जिन्व॑थः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “enliven; animate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

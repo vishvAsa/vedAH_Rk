@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -92,7 +93,12 @@ prayotā́ ← prayotár- (nominal stem)
 
 svápnaḥ ← svápna- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न स स्वो दक्षो॑ वरुण॒ ध्रुतिः॒ सा सुरा॑ म॒न्युर्वि॒भीद॑को॒ अचि॑त्तिः ।  
+अस्ति॒ ज्याया॒न्कनी॑यस उपा॒रे स्वप्न॑श्च॒नेदनृ॑तस्य प्रयो॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

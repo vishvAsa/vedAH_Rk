@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ syāma ← √as- 1 (root)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं नमो॑ वृष॒भाय॑ स्व॒राजे॑ स॒त्यशु॑ष्माय त॒वसे॑ऽवाचि ।  
+अ॒स्मिन्नि॑न्द्र वृ॒जने॒ सर्व॑वीराः॒ स्मत्सू॒रिभि॒स्तव॒ शर्म॑न्त्स्याम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "रात्रिः"
 RShiH = "कुशिकः सौभरो रात्रिर्वा भारद्वाजी"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रात्रिः
@@ -63,7 +64,12 @@ ní ← ní (invariable)
 
 śyenā́saḥ ← śyená- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि ग्रामा॑सो अविक्षत॒ नि प॒द्वन्तो॒ नि प॒क्षिणः॑ ।  
+नि श्ये॒नास॑श्चिद॒र्थिनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “desirous; active; suppliant; busy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

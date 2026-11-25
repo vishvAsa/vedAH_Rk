@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -86,7 +87,12 @@ mā́nuṣasya ← mā́nuṣa- (nominal stem)
 
 var ← √vr̥- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य मदे॑ स्व॒र्यं॑ दा ऋ॒तायापी॑वृतमु॒स्रिया॑णा॒मनी॑कम् ।  
+यद्ध॑ प्र॒सर्गे॑ त्रिक॒कुम्नि॒वर्त॒दप॒ द्रुहो॒ मानु॑षस्य॒ दुरो॑ वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

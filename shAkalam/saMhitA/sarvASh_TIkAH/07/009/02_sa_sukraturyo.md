@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ támaḥ ← támas- (nominal stem)
 
 tirás ← tirás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सु॒क्रतु॒र्यो वि दुरः॑ पणी॒नां पु॑ना॒नो अ॒र्कं पु॑रु॒भोज॑सं नः ।  
+होता॑ म॒न्द्रो वि॒शां दमू॑नास्ति॒रस्तमो॑ ददृशे रा॒म्याणा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “night; night.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

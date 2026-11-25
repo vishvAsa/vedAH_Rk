@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ sávanam ← sávana- 1 (nominal stem)
 
 tr̥tī́yam ← tr̥tī́ya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं दे॑वा॒ क्रतु॑ना पू॒र्व्येण॑ यु॒क्ता रथे॑न तवि॒षं य॑जत्रा ।  
+आग॑च्छतं नासत्या॒ शची॑भिरि॒दं तृ॒तीयं॒ सव॑नं पिबाथः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ pátyamānaḥ ← √pat- 2 (root)
 
 vartaním ← vartaní- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्धं वी॒रस्य॑ शृत॒पाम॑नि॒न्द्रं परा॒ शर्ध॑न्तं नुनुदे अ॒भि क्षाम् ।  
+इन्द्रो॑ म॒न्युं म॑न्यु॒म्यो॑ मिमाय भे॒जे प॒थो व॑र्त॒निं पत्य॑मानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “own; have; master.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

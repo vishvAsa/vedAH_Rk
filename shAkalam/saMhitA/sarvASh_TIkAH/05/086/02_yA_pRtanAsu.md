@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -71,7 +72,12 @@ indrāgnī́ ← indrāgní- (nominal stem)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या पृत॑नासु दु॒ष्टरा॒ या वाजे॑षु श्र॒वाय्या॑ ।  
+या पञ्च॑ चर्ष॒णीर॒भी॑न्द्रा॒ग्नी ता ह॑वामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

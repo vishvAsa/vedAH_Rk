@@ -4,6 +4,7 @@ devataa = "ऐन्द्रो वसुक्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऐन्द्रो वसुक्रः
@@ -92,7 +93,12 @@ nā́ma ← nā́man- (nominal stem)
 
 vīráḥ ← vīrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते शमी॑भिः सु॒शमी॑ अभूव॒न्ये हि॑न्वि॒रे त॒न्व१॑ः॒ सोम॑ उ॒क्थैः ।  
+नृ॒वद्वद॒न्नुप॑ नो माहि॒ वाजा॑न्दि॒वि श्रवो॑ दधिषे॒ नाम॑ वी॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

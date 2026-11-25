@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sómam ← sóma- (nominal stem)
 
 vr̥trám ← vr̥trá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह्र॒दा इ॑व कु॒क्षयः॑ सोम॒धानाः॒ समी॑ विव्याच॒ सव॑ना पु॒रूणि॑ ।  
+अन्ना॒ यदिन्द्रः॑ प्रथ॒मा व्याश॑ वृ॒त्रं ज॑घ॒न्वाँ अ॑वृणीत॒ सोम॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -255,12 +260,6 @@ His cheeks are like lakes holding soma; he entirely encompasses many  pressings.
 When Indra devoured the first foods, having smashed Vr̥tra he chose  the soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On kukṣí- as ‘cheek’, not ‘belly’, see Jamison 1987 (Ged. Cowgill).
-
-As Geldner also comments, the chronological sequence of pāda d seems reversed, assuming (as I generally do) that the perfect participle regularly expresses anteriority: Indra drank the soma before smashing Vṛtra. The primary VP here, avṛṇīta sómam is found in the great Indra hymn I.32.3, but with a different opening (vṛṣāyámāṇaḥ).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/06-08.md">
 <details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
@@ -268,7 +267,6 @@ The next three vss. ring changes on the theme of large bodies of water and large
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ stanayanti ← √stanⁱ- (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒भिष्टे॑ अ॒द्य गी॒र्भिर्गृ॒णन्तोऽग्ने॒ दाशे॑म ।  
+प्र ते॑ दि॒वो न स्त॑नयन्ति॒ शुष्माः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “vigor; energy; fire; hiss; courage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

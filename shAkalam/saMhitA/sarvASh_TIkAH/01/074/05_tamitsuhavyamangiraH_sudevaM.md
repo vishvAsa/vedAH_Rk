@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ jánāḥ ← jána- (nominal stem)
 
 subarhíṣam ← subarhís- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमित्सु॑ह॒व्यम॑ङ्गिरः सुदे॒वं स॑हसो यहो ।  
+जना॑ आहुः सुब॒र्हिष॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “Barhis; barhis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

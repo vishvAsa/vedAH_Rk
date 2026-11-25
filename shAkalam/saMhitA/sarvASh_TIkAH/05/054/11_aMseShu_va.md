@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ hiraṇyáyīḥ ← hiraṇyáya- (nominal stem)
 
 vítatāḥ ← √tan- (root)  
 {case:NOM, gender:F, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अंसे॑षु व ऋ॒ष्टयः॑ प॒त्सु खा॒दयो॒ वक्ष॑स्सु रु॒क्मा म॑रुतो॒ रथे॒ शुभः॑ ।  
+अ॒ग्निभ्रा॑जसो वि॒द्युतो॒ गभ॑स्त्योः॒ शिप्राः॑ शी॒र्षसु॒ वित॑ता हिर॒ण्ययीः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “gold; aureate; hiraṇyaya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

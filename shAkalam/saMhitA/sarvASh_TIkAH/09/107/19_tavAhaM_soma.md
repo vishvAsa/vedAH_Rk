@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ paridhī́n ← paridhí- (nominal stem)
 
 tā́n ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तवा॒हं सो॑म रारण स॒ख्य इ॑न्दो दि॒वेदि॑वे ।  
+पु॒रूणि॑ बभ्रो॒ नि च॑रन्ति॒ मामव॑ परि॒धीँरति॒ ताँ इ॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -234,20 +239,6 @@ Many things, o brown one, get me down—way down. Go past these
 barriers.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The indic. pf. of √ran is presential in value; see Kümmel (413). The form here echoes raṇyati in 18b.
-
-The lexeme ní √car (or ní áva √car) is found nowhere else in the RV or later.
-
-The context clearly requires a negative sense; I’ve used the colloquial English idiom “get (s.o.) down,” meaning ‘discourage, demoralize’. There are two ways to interpr.
-
-áva at the end of the pāda. With Grassmann (and implicitly Geldner and Renou), I take it as a 2nd preverb with caranti. Since ní and áva both mean ‘down’, it reinforces by variation, hence my “—way down.” As Geldner reports (n. 19c), Ludwig takes áva rather as the impv. to √av ‘help’, accented because it starts a new clause. This is perfectly possible and would fit the context, but I prefer the more unusual semantic doubling of the preverbs in this emotional context.
-
-There are various suggestions about what to supply with purū́ṇi: Sāyaṇa. rákṣāṃsi, fld. tentatively by Geldner (“böse Geister?”), Renou “choses (dangereuses).” Leaving it open seems to me the better solution: the poet is besieged by multiple things he cannot even name.
-
-In the last pāda it is Soma who is urged to “go past the barriers” (paridhī́n); we might have expected the poet to ask Soma for help in getting past them himself (but see next vs.). For Soma’s journey past the paridhī́n Geldner and Renou cite IX.96.11 paridhī́m̐r áporṇu “open up the barriers.” In both passages the paridhí- are presumably obstacles to Soma’s progress on his ritual journey, perhaps the tufts of the fleece filter.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/19-20.md">
 <details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -255,7 +246,6 @@ This is the first and only place in the hymn in which the 1st person is found. T
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

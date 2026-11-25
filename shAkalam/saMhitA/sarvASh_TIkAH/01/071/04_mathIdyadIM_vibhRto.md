@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ dūtyàm ← dūtyà- (nominal stem)
 
 vivāya ← √vī- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मथी॒द्यदीं॒ विभृ॑तो मात॒रिश्वा॑ गृ॒हेगृ॑हे श्ये॒तो जेन्यो॒ भूत् ।  
+आदीं॒ राज्ञे॒ न सही॑यसे॒ सचा॒ सन्ना दू॒त्यं१॒॑ भृग॑वाणो विवाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “approach; ask; desire; go; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

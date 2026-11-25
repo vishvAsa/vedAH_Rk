@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -86,7 +87,12 @@ kát ← ká- (pronoun)
 
 patáyat ← √pat- 1 (root)  
 {case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदू॑ अयाँ उपव॒क्तेव॑ बा॒हू हि॑र॒ण्यया॑ सवि॒ता सु॒प्रती॑का ।  
+दि॒वो रोहां॑स्यरुहत्पृथि॒व्या अरी॑रमत्प॒तय॒त्कच्चि॒दभ्व॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “monstrosity; nothingness; void; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

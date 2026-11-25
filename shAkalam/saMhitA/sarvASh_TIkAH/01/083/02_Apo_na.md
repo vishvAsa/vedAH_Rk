@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ joṣayante ← √juṣ- (root)
 
 varā́ḥ ← vará- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपो॒ न दे॒वीरुप॑ यन्ति हो॒त्रिय॑म॒वः प॑श्यन्ति॒ वित॑तं॒ यथा॒ रजः॑ ।  
+प्रा॒चैर्दे॒वासः॒ प्र ण॑यन्ति देव॒युं ब्र॑ह्म॒प्रियं॑ जोषयन्ते व॒रा इ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

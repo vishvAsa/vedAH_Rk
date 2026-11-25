@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -92,7 +93,12 @@ r̥jú ← r̥jú- (nominal stem)
 
 vr̥jinā́ ← vr̥jiná- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्य मि॑त्रावरुणा नृ॒चक्षा॑ उ॒भे उदे॑ति॒ सूर्यो॑ अ॒भि ज्मन् ।  
+विश्व॑स्य स्था॒तुर्जग॑तश्च गो॒पा ऋ॒जु मर्ते॑षु वृजि॒ना च॒ पश्य॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

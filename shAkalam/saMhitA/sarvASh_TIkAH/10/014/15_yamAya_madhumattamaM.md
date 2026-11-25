@@ -68,6 +68,12 @@ pū́rvebhyaḥ ← pū́rva- (nominal stem)
 {case:DAT, gender:M, number:PL}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒माय॒ मधु॑मत्तमं॒ राज्ञे॑ ह॒व्यं जु॑होतन ।  
+इ॒दं नम॒ ऋषि॑भ्यः पूर्व॒जेभ्यः॒ पूर्वे॑भ्यः पथि॒कृद्भ्यः॑ ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 य॒माय॑ । मधु॑मत्ऽतमम् । राज्ञे॑ । ह॒व्यम् । जु॒हो॒त॒न॒ ।  

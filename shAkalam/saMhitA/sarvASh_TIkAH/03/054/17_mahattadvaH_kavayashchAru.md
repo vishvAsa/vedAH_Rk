@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ sātáye ← sātí- (nominal stem)
 
 takṣata ← √takṣ- (root)  
 {number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हत्तद्वः॑ कवय॒श्चारु॒ नाम॒ यद्ध॑ देवा॒ भव॑थ॒ विश्व॒ इन्द्रे॑ ।  
+सख॑ ऋ॒भुभिः॑ पुरुहूत प्रि॒येभि॑रि॒मां धियं॑ सा॒तये॑ तक्षता नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

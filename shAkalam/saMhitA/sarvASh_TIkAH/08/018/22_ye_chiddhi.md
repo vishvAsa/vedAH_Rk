@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -69,7 +70,12 @@ sú ← sú (invariable)
 
 tiretana ← √tr̥̄- 1 (root)  
 {number:PL, person:2, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये चि॒द्धि मृ॒त्युब॑न्धव॒ आदि॑त्या॒ मन॑वः॒ स्मसि॑ ।  
+प्र सू न॒ आयु॑र्जी॒वसे॑ तिरेतन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

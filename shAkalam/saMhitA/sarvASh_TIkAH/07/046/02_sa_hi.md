@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 rudra ← rudrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि क्षये॑ण॒ क्षम्य॑स्य॒ जन्म॑नः॒ साम्रा॑ज्येन दि॒व्यस्य॒ चेत॑ति ।  
+अव॒न्नव॑न्ती॒रुप॑ नो॒ दुर॑श्चरानमी॒वो रु॑द्र॒ जासु॑ नो भव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,10 +253,6 @@ _________
 For in consequence of his dwelling place he takes cognizance of the  earthly race and, in consequence of his universal rule, of the heavenly. Providing help, proceed toward our doors that provide help (in return).  Bring no affliction to our children, Rudra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The complementary etymological and morphological figure ávann ávantīḥ is noteworthy, but I have no idea what “helping/helpful doors”(ávantīr dúraḥ) are or do. Perhaps it is an indirect way to refer to the sacrificial offerings humans make to help the gods, in return for the help (etc.) they receive from the gods, in this case Rudra. As Renou suggests ad loc. (EVP XV.161), “dúraḥ … s’oriente vers «maison»” and the emphasis in this vs. and the next on the protection of our children and offspring may have invited this allusion to the house.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -270,7 +271,6 @@ anamīváḥ (… bhava) “be without affliction,” while 3d contains the stro
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

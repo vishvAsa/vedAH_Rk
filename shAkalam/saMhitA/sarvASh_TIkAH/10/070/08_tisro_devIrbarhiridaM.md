@@ -4,6 +4,7 @@ devataa = "तिस्रो देव्यः सरस्वतीळाभ�
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तिस्रो देव्यः सरस्वतीळाभारत्यः
@@ -86,7 +87,12 @@ ghr̥tápadī ← ghr̥tápad- (nominal stem)
 
 juṣanta ← √juṣ- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तिस्रो॑ देवीर्ब॒र्हिरि॒दं वरी॑य॒ आ सी॑दत चकृ॒मा वः॑ स्यो॒नम् ।  
+म॒नु॒ष्वद्य॒ज्ञं सुधि॑ता ह॒वींषीळा॑ दे॒वी घृ॒तप॑दी जुषन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

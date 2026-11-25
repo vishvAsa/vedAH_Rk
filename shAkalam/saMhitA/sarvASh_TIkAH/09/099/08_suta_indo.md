@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ ní ← ní (invariable)
 
 sīdasi ← √sad- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒त इ॑न्दो प॒वित्र॒ आ नृभि॑र्य॒तो वि नी॑यसे ।  
+इन्द्रा॑य मत्स॒रिन्त॑मश्च॒मूष्वा नि षी॑दसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

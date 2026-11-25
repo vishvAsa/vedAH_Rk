@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -71,7 +72,12 @@ sū́ryāt ← sū́rya- (nominal stem)
 
 yuyutám ← √yu- 2 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ग्नी॒ तप॑न्ति मा॒घा अ॒र्यो अरा॑तयः ।  
+अप॒ द्वेषां॒स्या कृ॑तं युयु॒तं सूर्या॒दधि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “on; from; accordingly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

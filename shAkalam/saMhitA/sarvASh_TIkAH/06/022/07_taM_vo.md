@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ durgáhāṇi ← durgáha- (nominal stem)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वो॑ धि॒या नव्य॑स्या॒ शवि॑ष्ठं प्र॒त्नं प्र॑त्न॒वत्प॑रितंस॒यध्यै॑ ।  
+स नो॑ वक्षदनिमा॒नः सु॒वह्मेन्द्रो॒ विश्वा॒न्यति॑ दु॒र्गहा॑णि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “danger; abyss; wilderness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

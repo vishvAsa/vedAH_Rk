@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ práskaṇvam ← práskaṇva- (nominal stem)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्त्वा॑ यामि सु॒वीर्यं॒ तद्ब्रह्म॑ पू॒र्वचि॑त्तये ।  
+येना॒ यति॑भ्यो॒ भृग॑वे॒ धने॑ हि॒ते येन॒ प्रस्क॑ण्व॒मावि॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -226,7 +231,6 @@ That with which, when the stake was set, (you were there) for the Yatis  and for
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -238,7 +242,6 @@ In 9c a verb needs to be supplied. Although the sentiment seems to be essentiall
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

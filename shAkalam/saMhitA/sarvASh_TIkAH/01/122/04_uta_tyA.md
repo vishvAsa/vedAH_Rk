@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ prá ← prá (invariable)
 
 rāspinásya ← rāspiná- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्या मे॑ य॒शसा॑ श्वेत॒नायै॒ व्यन्ता॒ पान्तौ॑शि॒जो हु॒वध्यै॑ ।  
+प्र वो॒ नपा॑तम॒पां कृ॑णुध्वं॒ प्र मा॒तरा॑ रास्पि॒नस्या॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "जगती"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -97,7 +97,12 @@ tatr̥ṣāṇáḥ ← √tr̥ṣ- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पा॒व॒कया॒ यश्चि॒तय॑न्त्या कृ॒पा क्षाम॑न्रुरु॒च उ॒षसो॒ न भा॒नुना॑ ।  
+तूर्व॒न्न याम॒न्नेत॑शस्य॒ नू रण॒ आ यो घृ॒णे न त॑तृषा॒णो अ॒जरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +237,6 @@ _________
 - “undecaying; ageless.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -304,8 +308,6 @@ Der auf der Erde strahlt wie mit des Morgens Glanz, mit seiner hellen, leuchtend
 Словно торжествующий победу в походе, в борьбе с Эташей,  
 Кто под(бегает), словно мучимый жаждой при солнечном зное (- к воде), нестареющий...
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

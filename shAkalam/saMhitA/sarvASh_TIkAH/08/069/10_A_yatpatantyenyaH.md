@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -65,7 +66,12 @@ pā́tave ← √pā- 2 (root)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यत्पत॑न्त्ये॒न्यः॑ सु॒दुघा॒ अन॑पस्फुरः ।  
+अ॒प॒स्फुरं॑ गृभायत॒ सोम॒मिन्द्रा॑य॒ पात॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -68,7 +69,12 @@ priyásya ← priyá- (nominal stem)
 
 saścire ← √sac- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यन्नू॒नम॒श्यां गतिं॑ मि॒त्रस्य॑ यायां प॒था ।  
+अस्य॑ प्रि॒यस्य॒ शर्म॒ण्यहिं॑सानस्य सश्चिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

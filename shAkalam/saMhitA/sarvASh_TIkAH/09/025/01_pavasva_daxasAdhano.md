@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दृळ्हच्युत आगस्त्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ marúdbhyaḥ ← marút- (nominal stem)
 
 vāyáve ← vāyú- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व दक्ष॒साध॑नो दे॒वेभ्यः॑ पी॒तये॑ हरे ।  
+म॒रुद्भ्यो॑ वा॒यवे॒ मदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

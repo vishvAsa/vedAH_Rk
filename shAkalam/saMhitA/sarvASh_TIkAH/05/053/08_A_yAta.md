@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -66,7 +67,12 @@ parāvátaḥ ← parāvát- (nominal stem)
 
 sthāta ← √sthā- (root)  
 {number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ या॑त मरुतो दि॒व आन्तरि॑क्षाद॒मादु॒त ।  
+माव॑ स्थात परा॒वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “distance; distance; distance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -171,23 +176,12 @@ Drive hither, Maruts, from heaven, from the midspace, and from  nearby.
 Do not stay away at a distance.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The abl. parāvátaḥ is somewhat odd with mā́va sthāta “don’t stay away”; we would expect loc. parāváti, which is quite well-attested. It may be that parāvátaḥ has simply been harmonized with the ablatives in ab: divá(ḥ) … antárikṣād amā́t.
-
-However, it’s also possible to take mā́va sthāta in c as a parenthetical exclamation and parāvátaḥ as a continuation of the abl. phrase of ab: “Drive hither, Maruts, from heaven, from the midspace, from nearby -- don’t stay away! -- and from a distance.” This might also explain the unusual pāda-final utá of b. I therefore offer this as an alternative to the published translation
-
-There is also the question of what the lexeme áva √sthā means here.
-
-Generally it means ‘descend’, often into a river or the like (see Renou ad loc.). But that doesn’t make sense here: if the Maruts are to come here from heaven or the midspace, as they are invited to in ab, they will have to descend. If we take the áva seriously, perhaps the idea is that the Maruts shouldn’t perform their descent somewhere else than here-- at a distance -- perhaps into the rivers named in the next vs. But this seems overly complex.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/053/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 Note the phonological modulation of #ā́... (8a) to #mā́va...(8c) to #mā́vo (9a) / mā́vaḥ (9bc). The vaḥ then migrates to the end of 9d.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

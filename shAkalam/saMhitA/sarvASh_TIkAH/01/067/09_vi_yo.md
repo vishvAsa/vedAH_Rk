@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -60,7 +60,11 @@ utá ← utá (invariable)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि यो वी॒रुत्सु॒ रोध॑न्महि॒त्वोत प्र॒जा उ॒त प्र॒सूष्व॒न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +139,6 @@ _________
 - “inside; in; antar \[word\]; midmost; between; among.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -185,10 +188,6 @@ Der in den Pflanzen mächtig wächst, sowohl das neugeborene Kind, als in den be
 
 Der in den Pflanzen – mit Kraft emporwuchs, und in den Völkern – und in den Müttern; Der Wasser kundig – im Haus erquickend; ihm machten Weise – den Sitz ermessend.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

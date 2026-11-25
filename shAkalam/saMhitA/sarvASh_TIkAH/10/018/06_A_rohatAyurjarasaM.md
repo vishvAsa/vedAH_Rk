@@ -4,6 +4,7 @@ devataa = "त्वष्टा"
 RShiH = "सङ्कुसुको यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्वष्टा
@@ -86,7 +87,12 @@ karati ← √kr̥- (root)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ रो॑ह॒तायु॑र्ज॒रसं॑ वृणा॒ना अ॑नुपू॒र्वं यत॑माना॒ यति॒ ष्ठ ।  
+इ॒ह त्वष्टा॑ सु॒जनि॑मा स॒जोषा॑ दी॒र्घमायुः॑ करति जी॒वसे॑ वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

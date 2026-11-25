@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ sadema ← √sad- (root)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प॒र्येण्यः॒ स प्रि॒यो वि॒क्ष्व१॒॑ग्निर्होता॑ म॒न्द्रो नि ष॑सादा॒ यजी॑यान् ।  
+तं त्वा॑ व॒यं दम॒ आ दी॑दि॒वांस॒मुप॑ ज्ञु॒बाधो॒ नम॑सा सदेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -256,12 +261,6 @@ Dear Agni is to be served among the clans. As Hotar he has sat down,  the gladde
 You, shining in our house, do we reverently approach, on bended knee,  with homage.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Pāda b hótā … ní ṣasāda yájīyān closely echoes 2a ádhā hótā ny àsīdo yájīyān. The opening of pāda c (as well as 7a), táṃ tvā, also matches 2c, and dīdivā́ṃsam of c matches the same adj. in 3d.
-
-Whatever the exact posture described by jñubā́dhaḥ (for detailed disc. see Scarlatta 343-45), the Engl. idiom “on bended knee” conveys the same sense of physical reverence.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -283,7 +282,6 @@ The hapax cmpd. prétīṣaṇi- is curiously formed and its sense not entirely 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "नाभाकः काण्वः"
 ChandaH = "महापङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -96,7 +97,12 @@ nábhantām ← √nabh- 1 (root)
 
 same ← sama- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो ध॒र्ता भुव॑नानां॒ य उ॒स्राणा॑मपी॒च्या॒३॒॑ वेद॒ नामा॑नि॒ गुह्या॑ ।  
+स क॒विः काव्या॑ पु॒रु रू॒पं द्यौरि॑व पुष्यति॒ नभ॑न्तामन्य॒के स॑मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     exact; calm; straight; even; wide.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -58,7 +59,11 @@ hótā ← hótar- (nominal stem)
 
 svādhī́ḥ ← svādhī́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्षेमो॒ न सा॒धुः क्रतु॒र्न भ॒द्रो भुव॑त्स्वा॒धीर्होता॑ हव्य॒वाट् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +139,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

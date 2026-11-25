@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रभूवसुराङ्गिरसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ paúṁsyam ← paúṁsya- (nominal stem)
 
 satrāhám ← satrāhá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॒ ह्यसि॒ राध॑से जज्ञि॒षे वृष्णि॑ ते॒ शवः॑ ।  
+स्वक्ष॑त्रं ते धृ॒षन्मनः॑ सत्रा॒हमि॑न्द्र॒ पौंस्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “manfulness; deed; army; strength.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

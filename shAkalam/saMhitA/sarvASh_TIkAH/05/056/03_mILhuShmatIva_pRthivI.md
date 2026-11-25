@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ gaúḥ ← gáv- ~ gó- (nominal stem)
 
 iva ← iva (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मी॒ळ्हुष्म॑तीव पृथि॒वी परा॑हता॒ मद॑न्त्येत्य॒स्मदा ।  
+ऋक्षो॒ न वो॑ मरुतः॒ शिमी॑वाँ॒ अमो॑ दु॒ध्रो गौरि॑व भीम॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “awful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

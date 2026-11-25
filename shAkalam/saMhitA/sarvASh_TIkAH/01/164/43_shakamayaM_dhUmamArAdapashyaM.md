@@ -4,6 +4,7 @@ devataa = "शकधूमः;सोमः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शकधूमः;सोमः
@@ -80,7 +81,12 @@ prathamā́ni ← prathamá- (nominal stem)
 
 tā́ni ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒क॒मयं॑ धू॒ममा॒राद॑पश्यं विषू॒वता॑ प॒र ए॒नाव॑रेण ।  
+उ॒क्षाणं॒ पृश्नि॑मपचन्त वी॒रास्तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

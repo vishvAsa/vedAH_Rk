@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -104,7 +105,12 @@ pr̥śanyàḥ ← pr̥śanī́- (nominal stem)
 
 tā́ḥ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स ईं॒ वृषा॒ न फेन॑मस्यदा॒जौ स्मदा परै॒दप॑ द॒भ्रचे॑ताः ।  
+सर॑त्प॒दा न दक्षि॑णा परा॒वृङ्न ता नु मे॑ पृश॒न्यो॑ जगृभ्रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -264,7 +270,6 @@ _________
     touch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

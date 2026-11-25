@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "उरुचक्रिरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -77,7 +78,12 @@ tokā́ya ← toká- (nominal stem)
 
 yós ← yós (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒तर्दे॒वीमदि॑तिं जोहवीमि म॒ध्यन्दि॑न॒ उदि॑ता॒ सूर्य॑स्य ।  
+रा॒ये मि॑त्रावरुणा स॒र्वता॒तेळे॑ तो॒काय॒ तन॑याय॒ शं योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “fortune.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

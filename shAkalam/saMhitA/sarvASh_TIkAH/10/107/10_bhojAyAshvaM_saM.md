@@ -4,6 +4,7 @@ devataa = "दक्षिणा तद्दातारो वा"
 RShiH = "दिव्यो दक्षिणा वा प्राजापत्या"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दक्षिणा तद्दातारो वा
@@ -86,7 +87,12 @@ iva ← iva (invariable)
 
 páriṣkr̥tam ← √kr̥- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भो॒जायाश्वं॒ सं मृ॑जन्त्या॒शुं भो॒जाया॑स्ते क॒न्या॒३॒॑ शुम्भ॑माना ।  
+भो॒जस्ये॒दं पु॑ष्क॒रिणी॑व॒ वेश्म॒ परि॑ष्कृतं देवमा॒नेव॑ चि॒त्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     painted; obvious; patched; bizarre.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

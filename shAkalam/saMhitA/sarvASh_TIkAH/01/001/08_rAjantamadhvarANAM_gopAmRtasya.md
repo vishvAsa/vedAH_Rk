@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ své ← svá- (pronoun)
 
 várdhamānam ← √vr̥dh- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+राज॑न्तमध्व॒राणां॑ गो॒पामृ॒तस्य॒ दीदि॑विम् ।  
+वर्ध॑मानं॒ स्वे दमे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “dwelling; home.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

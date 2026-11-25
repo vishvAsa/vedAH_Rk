@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -95,7 +96,12 @@ dhāsínā ← dhāsí- (nominal stem)
 
 dyā́m ← dyú- ~ div- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता हि क्ष॒त्रं धा॒रये॑थे॒ अनु॒ द्यून्दृं॒हेथे॒ सानु॑मुप॒मादि॑व॒ द्योः ।  
+दृ॒ळ्हो नक्ष॑त्र उ॒त वि॒श्वदे॑वो॒ भूमि॒माता॒न्द्यां धा॒सिना॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ dhr̥ṣát ← √dhr̥ṣ- (root)
 
 táṁ-tam ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदी॑ सु॒तेभि॒रिन्दु॑भिः॒ सोमे॑भिः प्रति॒भूष॑थ ।  
+वेदा॒ विश्व॑स्य॒ मेधि॑रो धृ॒षत्तन्त॒मिदेष॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

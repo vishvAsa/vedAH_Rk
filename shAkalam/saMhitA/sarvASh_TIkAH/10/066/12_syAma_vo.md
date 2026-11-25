@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ jinvata ← √ji- 2 ~ jinv- (root)
 
 śasyámānāni ← √śaṁs- (root)  
 {case:ACC, gender:N, number:PL, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्याम॑ वो॒ मन॑वो दे॒ववी॑तये॒ प्राञ्चं॑ नो य॒ज्ञं प्र ण॑यत साधु॒या ।  
+आदि॑त्या॒ रुद्रा॒ वस॑वः॒ सुदा॑नव इ॒मा ब्रह्म॑ श॒स्यमा॑नानि जिन्वत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “enliven; animate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

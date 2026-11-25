@@ -4,6 +4,7 @@ devataa = "पणयः"
 RShiH = "सरमा देवशुनी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पणयः
@@ -86,7 +87,12 @@ ubhayā́ ← ubhayā́ (invariable)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒से॒न्या वः॑ पणयो॒ वचां॑स्यनिष॒व्यास्त॒न्वः॑ सन्तु पा॒पीः ।  
+अधृ॑ष्टो व॒ एत॒वा अ॑स्तु॒ पन्था॒ बृह॒स्पति॑र्व उभ॒या न मृ॑ळात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “pardon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

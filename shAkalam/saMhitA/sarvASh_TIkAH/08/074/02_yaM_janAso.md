@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ praśáṁsanti ← √śaṁs- (root)
 
 práśastibhiḥ ← práśasti- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं जना॑सो ह॒विष्म॑न्तो मि॒त्रं न स॒र्पिरा॑सुतिम् ।  
+प्र॒शंस॑न्ति॒ प्रश॑स्तिभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “announcement; praise; respect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

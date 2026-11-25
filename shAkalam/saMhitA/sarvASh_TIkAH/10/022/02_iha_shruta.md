@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "पुरस्ताद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ cakré ← √kr̥- (root)
 
 yáśaḥ ← yáśas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ह श्रु॒त इन्द्रो॑ अ॒स्मे अ॒द्य स्तवे॑ व॒ज्र्यृची॑षमः ।  
+मि॒त्रो न यो जने॒ष्वा यश॑श्च॒क्रे असा॒म्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

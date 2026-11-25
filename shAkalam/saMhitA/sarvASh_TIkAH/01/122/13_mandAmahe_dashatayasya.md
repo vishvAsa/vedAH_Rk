@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ r̥ñjate ← √r̥j- 1 (root)
 
 táruṣaḥ ← tárus- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मन्दा॑महे॒ दश॑तयस्य धा॒सेर्द्विर्यत्पञ्च॒ बिभ्र॑तो॒ यन्त्यन्ना॑ ।  
+किमि॒ष्टाश्व॑ इ॒ष्टर॑श्मिरे॒त ई॑शा॒नास॒स्तरु॑ष ऋञ्जते॒ नॄन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

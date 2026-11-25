@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ dvéṣaḥ ← dvéṣas- (nominal stem)
 
 gurú ← gurú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे तु॒रं म॒रुतो॑ रामयन्ती॒मे सहः॒ सह॑स॒ आ न॑मन्ति ।  
+इ॒मे शंसं॑ वनुष्य॒तो नि पा॑न्ति गु॒रु द्वेषो॒ अर॑रुषे दधन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -237,14 +242,6 @@ These Maruts here bring the hasty to a halt; they make might bow  to might.
 They protect the laud from the rapacious; they establish heavy hatred  for the ungenerous.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As was noted above, this vs. contains three examples of the near-deictic imé, opening the first three pādas. The published translation only fully renders the first one, as three examples of “these here” seemed too heavy. It is also worth noting that, though the imé forms might suggest the presence of the Maruts right here at the sacrifice (as was suggested above), the clauses in which they are found describe general activities of those gods, which would almost necessarily be performed away from the ritual ground.
-
-Both Geldner and Renou follow the Pp. reading sáhasaḥ. Renou interpr. it rather loosely as an abl., whereas Geldner takes it as a gen. and as if it were the differently accented poss.
-
-adj. *sahásaḥ (“die Gewalt des Gewaltigen”), without comment. Oldenberg suggests that the better reading is dat. sáhase and cites passages containing ā́√nam with the dat. I follow this interpr.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/056/18-19.md">
 <details><summary><h2>18-19 ...{Loading}...</h2></summary>
 
@@ -252,7 +249,6 @@ As was just noted, vs. 17 “feels” like a final (or pseudo-final) vs. If vs. 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ kariṣyán ← √kr̥- (root)
 
 śáṁsyam ← śáṁsya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रि॒यास॒ इत्ते॑ मघवन्न॒भिष्टौ॒ नरो॑ मदेम शर॒णे सखा॑यः ।  
+नि तु॒र्वशं॒ नि याद्वं॑ शिशीह्यतिथि॒ग्वाय॒ शंस्यं॑ करि॒ष्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

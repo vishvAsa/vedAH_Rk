@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ upatíṣṭhante ← √sthā- (root)
 
 yā́ḥ ← yá- (pronoun)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ दि॒वो अर्ण॒मच्छा॑ जिगा॒स्यच्छा॑ दे॒वाँ ऊ॑चिषे॒ धिष्ण्या॒ ये ।  
+या रो॑च॒ने प॒रस्ता॒त्सूर्य॑स्य॒ याश्चा॒वस्ता॑दुप॒तिष्ठ॑न्त॒ आपः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

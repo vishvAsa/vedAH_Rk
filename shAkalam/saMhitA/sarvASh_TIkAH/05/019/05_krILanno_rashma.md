@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वव्रिरात्रेयः"
 ChandaH = "विराड्रूपा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ vakṣaṇesthā́ḥ ← vakṣaṇesthā́- (nominal stem)
 
 vakṣyàḥ ← vakṣī́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्रीळ॑न्नो रश्म॒ आ भु॑वः॒ सं भस्म॑ना वा॒युना॒ वेवि॑दानः ।  
+ता अ॑स्य सन्धृ॒षजो॒ न ति॒ग्माः सुसं॑शिता व॒क्ष्यो॑ वक्षणे॒स्थाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - \[noun\], nominative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

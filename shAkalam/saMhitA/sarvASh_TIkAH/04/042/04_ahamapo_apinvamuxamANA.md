@@ -4,6 +4,7 @@ devataa = "त्रसदस्युः"
 RShiH = "त्रसदस्युः पौरुकुत्स्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्रसदस्युः
@@ -83,7 +84,12 @@ utá ← utá (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हम॒पो अ॑पिन्वमु॒क्षमा॑णा धा॒रयं॒ दिवं॒ सद॑न ऋ॒तस्य॑ ।  
+ऋ॒तेन॑ पु॒त्रो अदि॑तेरृ॒तावो॒त त्रि॒धातु॑ प्रथय॒द्वि भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

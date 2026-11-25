@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ vandya ← vándya- (nominal stem)
 
 víśvāsu ← víśva- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवा॑ नो अग्न ऊ॒तिभि॑र्गाय॒त्रस्य॒ प्रभ॑र्मणि ।  
+विश्वा॑सु धी॒षु व॑न्द्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “worship; laud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ somyám ← somyá- (nominal stem)
 
 suṣā́va ← √su- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ यातं दि॒वस्पर्यान्तरि॑क्षादधप्रिया ।  
+पु॒त्रः कण्व॑स्य वामि॒ह सु॒षाव॑ सो॒म्यं मधु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -119,7 +120,13 @@ rájaḥ ← rájas- (nominal stem)
 
 śā́satā ← √śās- (root)  
 {case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अचे॑ति दस्रा॒ व्यु१॒॑ नाक॑मृण्वथो यु॒ञ्जते॑ वां रथ॒युजो॒ दिवि॑ष्टिष्वध्व॒स्मानो॒ दिवि॑ष्टिषु ।  
+अधि॑ वां॒ स्थाम॑ व॒न्धुरे॒ रथे॑ दस्रा हिर॒ण्यये॑ ।  
+प॒थेव॒ यन्ता॑वनु॒शास॑ता॒ रजोऽञ्ज॑सा॒ शास॑ता॒ रजः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -303,7 +310,6 @@ _________
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

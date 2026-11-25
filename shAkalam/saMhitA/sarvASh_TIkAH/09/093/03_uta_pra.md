@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नोधाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ niktaíḥ ← √nij- (root)
 
 vásubhiḥ ← vásu- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त प्र पि॑प्य॒ ऊध॒रघ्न्या॑या॒ इन्दु॒र्धारा॑भिः सचते सुमे॒धाः ।  
+मू॒र्धानं॒ गावः॒ पय॑सा च॒मूष्व॒भि श्री॑णन्ति॒ वसु॑भि॒र्न नि॒क्तैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - \[verb noun\], instrumental, plural
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

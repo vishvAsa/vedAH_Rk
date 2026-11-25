@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सदापृण आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ marútaḥ ← marút- (nominal stem)
 
 yájanti ← √yaj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सू॒क्तेभि॑र्वो॒ वचो॑भिर्दे॒वजु॑ष्टै॒रिन्द्रा॒ न्व१॒॑ग्नी अव॑से हु॒वध्यै॑ ।  
+उ॒क्थेभि॒र्हि ष्मा॑ क॒वयः॑ सुय॒ज्ञा आ॒विवा॑सन्तो म॒रुतो॒ यज॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

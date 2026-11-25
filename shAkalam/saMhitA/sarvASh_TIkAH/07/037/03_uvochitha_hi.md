@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ vasavyā̀ ← vasavyà- (nominal stem)
 
 yamate ← √yam- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒वोचि॑थ॒ हि म॑घवन्दे॒ष्णं म॒हो अर्भ॑स्य॒ वसु॑नो विभा॒गे ।  
+उ॒भा ते॑ पू॒र्णा वसु॑ना॒ गभ॑स्ती॒ न सू॒नृता॒ नि य॑मते वस॒व्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “wealth; wealth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

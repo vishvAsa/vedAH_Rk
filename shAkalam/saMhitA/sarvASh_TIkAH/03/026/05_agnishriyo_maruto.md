@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ siṁhā́ḥ ← siṁhá- (nominal stem)
 
 sudā́navaḥ ← sudā́nu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्नि॒श्रियो॑ म॒रुतो॑ वि॒श्वकृ॑ष्टय॒ आ त्वे॒षमु॒ग्रमव॑ ईमहे व॒यम् ।  
+ते स्वा॒निनो॑ रु॒द्रिया॑ व॒र्षनि॑र्णिजः सिं॒हा न हे॒षक्र॑तवः सु॒दान॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “big; lavish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

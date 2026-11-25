@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -77,7 +78,12 @@ jī́vathaḥ ← √jīv- (root)
 
 yuvám ← tvám (pronoun)  
 {case:NOM, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र नु वो॑चा सु॒तेषु॑ वां वी॒र्या॒३॒॑ यानि॑ च॒क्रथुः॑ ।  
+ह॒तासो॑ वां पि॒तरो॑ दे॒वश॑त्रव॒ इन्द्रा॑ग्नी॒ जीव॑थो यु॒वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ u ← u (invariable)
 
 vocat ← √vac- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+साम॑ द्वि॒बर्हा॒ महि॑ ति॒ग्मभृ॑ष्टिः स॒हस्र॑रेता वृष॒भस्तुवि॑ष्मान् ।  
+प॒दं न गोरप॑गूळ्हं विवि॒द्वान॒ग्निर्मह्यं॒ प्रेदु॑ वोचन्मनी॒षाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

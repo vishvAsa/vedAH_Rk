@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ makṣú ← makṣú- (nominal stem)
 
 prātár ← prātár (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भवा॒ वरू॑थं गृण॒ते वि॑भावो॒ भवा॑ मघवन्म॒घव॑द्भ्यः॒ शर्म॑ ।  
+उ॒रु॒ष्याग्ने॒ अंह॑सो गृ॒णन्तं॑ प्रा॒तर्म॒क्षू धि॒याव॑सुर्जगम्यात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -231,7 +236,6 @@ insight.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/058/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -240,7 +244,6 @@ Vs. 9 is essentially a paraphrase of vs. 8, with several parallel expressions.
 And the final pāda of 9 is the Nodhas refrain.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 yujānā́ḥ ← √yuj- (root)  
 {case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यस्मि॒न्हस्ते॒ नर्या॑ मिमि॒क्षुरा रथे॑ हिर॒ण्यये॑ रथे॒ष्ठाः ।  
+आ र॒श्मयो॒ गभ॑स्त्योः स्थू॒रयो॒राध्व॒न्नश्वा॑सो॒ वृष॑णो युजा॒नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     affect; challenge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

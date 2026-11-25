@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ utá ← utá (invariable)
 
 vákṣat ← √vah- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॒ यद्रा॑जाना॒ गवि॑ष्टौ॒ सर॑त्सर॒ण्युः का॒रवे॑ जर॒ण्युः ।  
+विप्रः॒ प्रेष्ठः॒ स ह्ये॑षां ब॒भूव॒ परा॑ च॒ वक्ष॑दु॒त प॑र्षदेनान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “this; he,she,it (pers. pron.).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

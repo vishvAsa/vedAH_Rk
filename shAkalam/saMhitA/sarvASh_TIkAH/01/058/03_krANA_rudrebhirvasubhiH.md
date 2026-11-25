@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ vā́ryā ← vā́rya- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्रा॒णा रु॒द्रेभि॒र्वसु॑भिः पु॒रोहि॑तो॒ होता॒ निष॑त्तो रयि॒षाळम॑र्त्यः ।  
+रथो॒ न वि॒क्ष्वृ॑ञ्जसा॒न आ॒युषु॒ व्या॑नु॒षग्वार्या॑ दे॒व ऋ॑ण्वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     begin; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -65,7 +66,12 @@ dhīmahi ← √dhā- 1 (root)
 
 túram ← túr- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्स॑वि॒तुर्वृ॑णीमहे व॒यं दे॒वस्य॒ भोज॑नम् ।  
+श्रेष्ठं॑ सर्व॒धात॑मं॒ तुरं॒ भग॑स्य धीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

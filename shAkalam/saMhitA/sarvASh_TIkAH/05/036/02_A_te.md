@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रभूवसुराङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ puruhūta ← puruhūtá- (nominal stem)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ते॒ हनू॑ हरिवः शूर॒ शिप्रे॒ रुह॒त्सोमो॒ न पर्व॑तस्य पृ॒ष्ठे ।  
+अनु॑ त्वा राज॒न्नर्व॑तो॒ न हि॒न्वन्गी॒र्भिर्म॑देम पुरुहूत॒ विश्वे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     wholly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

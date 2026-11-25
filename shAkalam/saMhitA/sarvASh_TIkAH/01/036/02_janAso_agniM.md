@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ santya ← santya- (nominal stem)
 
 vā́jeṣu ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जना॑सो अ॒ग्निं द॑धिरे सहो॒वृधं॑ ह॒विष्म॑न्तो विधेम ते ।  
+स त्वं नो॑ अ॒द्य सु॒मना॑ इ॒हावि॒ता भवा॒ वाजे॑षु सन्त्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “honest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

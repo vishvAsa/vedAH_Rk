@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ sádā ← sádā (invariable)
 
 tū́rṇiḥ ← tū́rṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अदा॑भ्यः पुरए॒ता वि॒शाम॒ग्निर्मानु॑षीणाम् ।  
+तूर्णी॒ रथः॒ सदा॒ नवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
     fresh.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

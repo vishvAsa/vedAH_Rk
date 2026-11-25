@@ -4,6 +4,7 @@ devataa = "देवीर्द्वारः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवीर्द्वारः
@@ -57,7 +58,12 @@ pávamānena ← √pū- (root)
 
 súṣṭutāḥ ← súṣṭuta- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदातै॑र्जिहते बृ॒हद्द्वारो॑ दे॒वीर्हि॑र॒ण्ययीः॑ ।  
+पव॑मानेन॒ सुष्टु॑ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - \[noun\], nominative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

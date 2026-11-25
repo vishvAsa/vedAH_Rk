@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब॒भ्रा॒णः सू॑नो सहसो॒ व्य॑द्यौ॒द्दधा॑नः शु॒क्रा र॑भ॒सा वपूं॑षि ।  
+श्चोत॑न्ति॒ धारा॒ मधु॑नो घृ॒तस्य॒ वृषा॒ यत्र॑ वावृ॒धे काव्ये॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “Uśanas; poem; Kāvya; wisdom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ hitám ← √dhā- 1 (root)
 
 jétā ← jétar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒वि॒प्रे चि॒द्वयो॒ दध॑दना॒शुना॑ चि॒दर्व॑ता ।  
+इन्द्रो॒ जेता॑ हि॒तं धन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
     dhan; capital; fight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

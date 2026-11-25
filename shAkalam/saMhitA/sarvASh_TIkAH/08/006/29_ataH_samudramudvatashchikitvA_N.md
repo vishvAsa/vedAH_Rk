@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ vipānáḥ ← √vip- (root)
 
 yátas ← yátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अतः॑ समु॒द्रमु॒द्वत॑श्चिकि॒त्वाँ अव॑ पश्यति ।  
+यतो॑ विपा॒न एज॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “move; stir; tremble; travel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

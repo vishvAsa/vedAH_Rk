@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -92,7 +93,12 @@ té ← sá- ~ tá- (pronoun)
 
 vr̥ṣabhā́ḥ ← vr̥ṣabhá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते व॑द॒न्त्यवि॑दन्न॒ना मधु॒ न्यू॑ङ्खयन्ते॒ अधि॑ प॒क्व आमि॑षि ।  
+वृ॒क्षस्य॒ शाखा॑मरु॒णस्य॒ बप्स॑त॒स्ते सूभ॑र्वा वृष॒भाः प्रेम॑राविषुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “bellow; howl.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

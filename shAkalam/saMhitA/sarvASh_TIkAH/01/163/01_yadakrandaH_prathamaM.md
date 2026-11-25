@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -86,7 +87,12 @@ te ← tvám (pronoun)
 
 upastútyam ← upastútya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदक्र॑न्दः प्रथ॒मं जाय॑मान उ॒द्यन्त्स॑मु॒द्रादु॒त वा॒ पुरी॑षात् ।  
+श्ये॒नस्य॑ प॒क्षा ह॑रि॒णस्य॑ बा॒हू उ॑प॒स्तुत्यं॒ महि॑ जा॒तं ते॑ अर्वन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “horse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

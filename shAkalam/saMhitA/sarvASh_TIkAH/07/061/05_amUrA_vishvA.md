@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -92,7 +93,12 @@ niṇyā́ni ← niṇyá- (nominal stem)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अमू॑रा॒ विश्वा॑ वृषणावि॒मा वां॒ न यासु॑ चि॒त्रं ददृ॑शे॒ न य॒क्षम् ।  
+द्रुहः॑ सचन्ते॒ अनृ॑ता॒ जना॑नां॒ न वां॑ नि॒ण्यान्य॒चिते॑ अभूवन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

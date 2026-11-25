@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ r̥tā́varī ← ŕ̥tāvan- (nominal stem)
 
 satyé ← satyá- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स होता॒ यस्य॒ रोद॑सी चिदु॒र्वी य॒ज्ञंय॑ज्ञम॒भि वृ॒धे गृ॑णी॒तः ।  
+प्राची॑ अध्व॒रेव॑ तस्थतुः सु॒मेके॑ ऋ॒ताव॑री ऋ॒तजा॑तस्य स॒त्ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “true; real; real; faithful; good.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

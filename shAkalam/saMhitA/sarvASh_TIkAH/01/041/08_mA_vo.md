@@ -4,6 +4,7 @@ devataa = "वरुणमित्रार्यमणः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणमित्रार्यमणः
@@ -69,7 +70,12 @@ vaḥ ← tvám (pronoun)
 
 vivāse ← √vanⁱ- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा वो॒ घ्नन्तं॒ मा शप॑न्तं॒ प्रति॑ वोचे देव॒यन्त॑म् ।  
+सु॒म्नैरिद्व॒ आ वि॑वासे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “invite; endeavor; try for.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

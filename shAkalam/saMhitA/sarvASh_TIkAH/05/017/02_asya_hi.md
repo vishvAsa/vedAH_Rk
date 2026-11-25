@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पूरुरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ manīṣáyā ← manīṣā́- (nominal stem)
 
 parás ← parás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्य॒ हि स्वय॑शस्तर आ॒सा वि॑धर्म॒न्मन्य॑से ।  
+तं नाकं॑ चि॒त्रशो॑चिषं म॒न्द्रं प॒रो म॑नी॒षया॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
     intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

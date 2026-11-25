@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ r̥ṇvati ← √r̥- 1 (root)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वै॒श्वा॒न॒राय॑ धि॒षणा॑मृता॒वृधे॑ घृ॒तं न पू॒तम॒ग्नये॑ जनामसि ।  
+द्वि॒ता होता॑रं॒ मनु॑षश्च वा॒घतो॑ धि॒या रथं॒ न कुलि॑शः॒ समृ॑ण्वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     begin; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

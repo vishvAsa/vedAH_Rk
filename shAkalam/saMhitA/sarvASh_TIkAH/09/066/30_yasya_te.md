@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ naḥ ← ahám (pronoun)
 
 téna ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ ते द्यु॒म्नव॒त्पयः॒ पव॑मा॒नाभृ॑तं दि॒वः ।  
+तेन॑ नो मृळ जी॒वसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,7 +173,6 @@ with it be gracious to us, for us to live.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -176,7 +180,6 @@ No particular evidence of unity, except for an emphasis in the 1st two vss. on t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -60,7 +61,12 @@ sedire ← √sad- (root)
 
 spáśaḥ ← spáś- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बिभ्र॑द्द्रा॒पिं हि॑र॒ण्ययं॒ वरु॑णो वस्त नि॒र्णिज॑म् ।  
+परि॒ स्पशो॒ नि षे॑दिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

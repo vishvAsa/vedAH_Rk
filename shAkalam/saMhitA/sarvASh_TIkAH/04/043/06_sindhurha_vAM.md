@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पुरुमीळ्हाजमीळ्हौ सौहोत्रौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ sūryā́yāḥ ← sūryā́- (nominal stem)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सिन्धु॑र्ह वां र॒सया॑ सिञ्च॒दश्वा॑न्घृ॒णा वयो॑ऽरु॒षासः॒ परि॑ ग्मन् ।  
+तदू॒ षु वा॑मजि॒रं चे॑ति॒ यानं॒ येन॒ पती॒ भव॑थः सू॒र्यायाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “Citrullus colocynthis Schrad..”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

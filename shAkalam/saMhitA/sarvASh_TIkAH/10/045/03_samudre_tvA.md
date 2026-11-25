@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -91,7 +92,12 @@ mahiṣā́ḥ ← mahiṣá- (nominal stem)
 
 upásthe ← upástha- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मु॒द्रे त्वा॑ नृ॒मणा॑ अ॒प्स्व१॒॑न्तर्नृ॒चक्षा॑ ईधे दि॒वो अ॑ग्न॒ ऊध॑न् ।  
+तृ॒तीये॑ त्वा॒ रज॑सि तस्थि॒वांस॑म॒पामु॒पस्थे॑ महि॒षा अ॑वर्धन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

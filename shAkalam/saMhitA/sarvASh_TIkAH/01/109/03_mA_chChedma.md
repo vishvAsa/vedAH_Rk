@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -83,7 +84,12 @@ tā́ ← sá- ~ tá- (pronoun)
 
 upásthe ← upástha- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा च्छे॑द्म र॒श्मीँरिति॒ नाध॑मानाः पितॄ॒णां श॒क्तीर॑नु॒यच्छ॑मानाः ।  
+इ॒न्द्रा॒ग्निभ्यां॒ कं वृष॑णो मदन्ति॒ ता ह्यद्री॑ धि॒षणा॑या उ॒पस्थे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “genitalia; lap; sexual desire; anus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

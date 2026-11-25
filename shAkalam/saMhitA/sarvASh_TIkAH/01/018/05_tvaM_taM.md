@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः सोम इन्द्र�
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः सोम इन्द्रो दक्षिणा च
@@ -63,7 +64,12 @@ dákṣiṇā ← dákṣiṇa- (nominal stem)
 
 pātu ← √pā- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं तं ब्र॑ह्मणस्पते॒ सोम॒ इन्द्र॑श्च॒ मर्त्य॑म् ।  
+दक्षि॑णा पा॒त्वंह॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “trouble; sin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

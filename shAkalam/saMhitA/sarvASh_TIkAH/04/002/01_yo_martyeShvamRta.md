@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ havyaíḥ ← havyá- (nominal stem)
 
 mánuṣaḥ ← mánus- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो मर्त्ये॑ष्व॒मृत॑ ऋ॒तावा॑ दे॒वो दे॒वेष्व॑र॒तिर्नि॒धायि॑ ।  
+होता॒ यजि॑ष्ठो म॒ह्ना शु॒चध्यै॑ ह॒व्यैर॒ग्निर्मनु॑ष ईर॒यध्यै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     enumerate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

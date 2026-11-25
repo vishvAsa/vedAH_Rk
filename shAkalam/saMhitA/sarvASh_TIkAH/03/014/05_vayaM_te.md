@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ mánmanā ← mánman- (nominal stem)
 
 vípraḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं ते॑ अ॒द्य र॑रि॒मा हि काम॑मुत्ता॒नह॑स्ता॒ नम॑सोप॒सद्य॑ ।  
+यजि॑ष्ठेन॒ मन॑सा यक्षि दे॒वानस्रे॑धता॒ मन्म॑ना॒ विप्रो॑ अग्ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

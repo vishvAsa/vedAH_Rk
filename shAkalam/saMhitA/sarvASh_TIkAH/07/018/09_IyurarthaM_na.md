@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ mā́nuṣe ← mā́nuṣa- (nominal stem)
 
 vádhrivācaḥ ← vádhrivāc- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒युरर्थं॒ न न्य॒र्थं परु॑ष्णीमा॒शुश्च॒नेद॑भिपि॒त्वं ज॑गाम ।  
+सु॒दास॒ इन्द्रः॑ सु॒तुकाँ॑ अ॒मित्रा॒नर॑न्धय॒न्मानु॑षे॒ वध्रि॑वाचः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     assurance; spell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

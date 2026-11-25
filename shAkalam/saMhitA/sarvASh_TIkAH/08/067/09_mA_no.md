@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -60,7 +61,12 @@ mr̥kṣata ← √mr̥ś- (root)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ मृ॒चा रि॑पू॒णां वृ॑जि॒नाना॑मविष्यवः ।  
+देवा॑ अ॒भि प्र मृ॑क्षत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “touch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

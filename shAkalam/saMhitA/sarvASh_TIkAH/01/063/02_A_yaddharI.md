@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ puruhūta ← puruhūtá- (nominal stem)
 
 pūrvī́ḥ ← purú- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यद्धरी॑ इन्द्र॒ विव्र॑ता॒ वेरा ते॒ वज्रं॑ जरि॒ता बा॒ह्वोर्धा॑त् ।  
+येना॑विहर्यतक्रतो अ॒मित्रा॒न्पुर॑ इ॒ष्णासि॑ पुरुहूत पू॒र्वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “many; much(a); very.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

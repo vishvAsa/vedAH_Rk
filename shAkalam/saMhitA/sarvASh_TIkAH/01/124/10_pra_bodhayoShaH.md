@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ stotré ← stotár- (nominal stem)
 
 sūnr̥te ← sūnŕ̥ta- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र बो॑धयोषः पृण॒तो म॑घो॒न्यबु॑ध्यमानाः प॒णयः॑ ससन्तु ।  
+रे॒वदु॑च्छ म॒घव॑द्भ्यो मघोनि रे॒वत्स्तो॒त्रे सू॑नृते जा॒रय॑न्ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “jāray; digest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

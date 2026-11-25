@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -58,7 +59,11 @@ mártān ← márta- (nominal stem)
 
 vidvā́n ← √vid- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ता चि॑कित्वो॒ भूमा॒ नि पा॑हि दे॒वानां॒ जन्म॒ मर्ताँ॑श्च वि॒द्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +135,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

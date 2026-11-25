@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ nákṣati ← √nakṣ- (root)
 
 várṣiṣṭhebhiḥ ← várṣiṣṭha- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒ना न यस्य॒ भामा॑सः॒ पव॑न्ते॒ रोच॑मानस्य बृह॒तः सु॒दिवः॑ ।  
+ज्येष्ठे॑भि॒र्यस्तेजि॑ष्ठैः क्रीळु॒मद्भि॒र्वर्षि॑ष्ठेभिर्भा॒नुभि॒र्नक्ष॑ति॒ द्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

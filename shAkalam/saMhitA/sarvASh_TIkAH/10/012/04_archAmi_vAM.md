@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हविर्धान आङ्गिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ pitárā ← pitár- (nominal stem)
 
 śiśītām ← √śā- ~ śī- (root)  
 {number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर्चा॑मि वां॒ वर्धा॒यापो॑ घृतस्नू॒ द्यावा॑भूमी शृणु॒तं रो॑दसी मे ।  
+अहा॒ यद्द्यावोऽसु॑नीति॒मय॒न्मध्वा॑ नो॒ अत्र॑ पि॒तरा॑ शिशीताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “sharpen; whet; strengthen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

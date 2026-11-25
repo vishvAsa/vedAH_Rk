@@ -4,6 +4,7 @@ devataa = "भगः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भगः
@@ -95,7 +96,12 @@ puraetā́ ← puraetár- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भग॑ ए॒व भग॑वाँ अस्तु देवा॒स्तेन॑ व॒यं भग॑वन्तः स्याम ।  
+तं त्वा॑ भग॒ सर्व॒ इज्जो॑हवीति॒ स नो॑ भग पुरए॒ता भ॑वे॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - “here; now; in this world; now; below; there; here; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -264,7 +269,6 @@ _________
 हे देवाः **भगः** देवः **एव** **भगवान्** धनवान् **अस्तु** । **तेन** भगेन देवेन धनेन वा **वयं** **भगवन्तः** **स्याम** धनवन्तो भवेम । हे **भग** **तं** प्रसिद्धं **त्वा** त्वां **सर्व** **इत्** सर्व एव जनः **जोहवीति** भृशं पुनःपुनर्वाह्वयति । हे **भग** देव **सः** त्वम् **इह** अस्मिन् यज्ञे **नः** अस्माकं **पुरएता** पुरोगन्ता **भव** ॥
 _________________
 हे देवाः भगाख्यो देव एव मगवानस्तु तेन देवेन भगवन्तः सौभाग्यवन्तः स्याम । हे भगाख्य देव तं तादृशं त्वां सर्वइत् सर्व एव लोकः जोहवीमि आह्वयतीत्यर्थः । हे भगदेव स त्वमिह अस्मिन् कर्मणि नोऽस्माकं पुर एता पुरतो गन्ता भव ॥
-
 </details>
 
 <details><summary>सायणोक्त-विनियोगः</summary>
@@ -296,12 +300,6 @@ Let Bhaga himself be possessed of portion, o gods. In this way might we  be poss
 Each and every one constantly calls on you, Bhaga. Become our guide  here, Bhaga.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The punning continues here with a clever twist: even Bhaga himself should become possessed of a portion (bhágavant-) (a); (only) in this way (téna) will we become bhágavant- (b). In other words, Bhaga needs to get his own portion before he can pass it on to us.
-
-This vs. forms a slight ring with vs. 1: the intensive verb johavīti provides one additional stem to the two forms of √hū in vs. 1, havāmahe and huvema.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
@@ -309,7 +307,6 @@ The concatenation continues in the next vss. The ending of vs. 3, … nṛvánta
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

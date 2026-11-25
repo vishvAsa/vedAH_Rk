@@ -4,6 +4,7 @@ devataa = "आदित्यः(स्वस्त्ययनं)"
 RShiH = "सत्यधृतिर्वारुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्यः(स्वस्त्ययनं)
@@ -57,7 +58,12 @@ durādhárṣam ← durādhárṣa- (nominal stem)
 
 váruṇasya ← váruṇa- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+महि॑ त्री॒णामवो॑ऽस्तु द्यु॒क्षं मि॒त्रस्या॑र्य॒म्णः ।  
+दु॒रा॒धर्षं॒ वरु॑णस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
     varuṇādi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

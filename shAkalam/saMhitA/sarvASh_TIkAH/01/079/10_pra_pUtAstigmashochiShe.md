@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ gíraḥ ← gír- ~ gīr- (nominal stem)
 
 sumnayúḥ ← sumnayú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र पू॒तास्ति॒ग्मशो॑चिषे॒ वाचो॑ गोतमा॒ग्नये॑ ।  
+भर॑स्व सुम्न॒युर्गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

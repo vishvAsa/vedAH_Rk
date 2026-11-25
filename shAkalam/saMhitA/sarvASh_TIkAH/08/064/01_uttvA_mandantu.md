@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ brahmadvíṣaḥ ← brahmadvíṣ- (nominal stem)
 
 jahi ← √han- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उत्त्वा॑ मन्दन्तु॒ स्तोमाः॑ कृणु॒ष्व राधो॑ अद्रिवः ।  
+अव॑ ब्रह्म॒द्विषो॑ जहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

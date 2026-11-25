@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शुनःशेपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ pávamānaḥ ← √pū- (root)
 
 svadhvaráḥ ← svadhvará- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष दिवं॒ व्यास॑रत्ति॒रो रजां॒स्यस्पृ॑तः ।  
+पव॑मानः स्वध्व॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,7 +173,6 @@ good at the rite as he purifies himself.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/003/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -180,7 +184,6 @@ Thus, although the nearly identical vss. 7 and 8 might seem evidence that the po
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

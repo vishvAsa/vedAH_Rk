@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sám ← sám (invariable)
 
 tanvā̀ ← tanū́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ सृज॒ पुन॑रग्ने पि॒तृभ्यो॒ यस्त॒ आहु॑त॒श्चर॑ति स्व॒धाभिः॑ ।  
+आयु॒र्वसा॑न॒ उप॑ वेतु॒ शेषः॒ सं ग॑च्छतां त॒न्वा॑ जातवेदः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

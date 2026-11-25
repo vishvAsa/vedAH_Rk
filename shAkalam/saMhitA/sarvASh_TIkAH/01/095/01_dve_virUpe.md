@@ -4,6 +4,7 @@ devataa = "अग्निरग्निरौषस्योवा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निरौषस्योवा
@@ -80,7 +81,12 @@ dadr̥śe ← √dr̥ś- (root)
 
 suvárcāḥ ← suvárcas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वे विरू॑पे चरतः॒ स्वर्थे॑ अ॒न्यान्या॑ व॒त्समुप॑ धापयेते ।  
+हरि॑र॒न्यस्यां॒ भव॑ति स्व॒धावा॑ञ्छु॒क्रो अ॒न्यस्यां॑ ददृशे सु॒वर्चाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     waste; droppings; color.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

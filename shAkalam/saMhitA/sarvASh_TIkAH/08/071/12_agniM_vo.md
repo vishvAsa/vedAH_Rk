@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ kṣaítrāya ← kṣaítra- (nominal stem)
 
 sā́dhase ← √sādh- ~ sidh- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं वो॑ देवय॒ज्यया॒ग्निं प्र॑य॒त्य॑ध्व॒रे ।  
+अ॒ग्निं धी॒षु प्र॑थ॒मम॒ग्निमर्व॑त्य॒ग्निं क्षैत्रा॑य॒ साध॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “promote; succeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

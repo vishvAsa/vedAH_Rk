@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ uṣaḥ ← uṣás- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या॒व॒यद्द्वे॑षा ऋत॒पा ऋ॑ते॒जाः सु॑म्ना॒वरी॑ सू॒नृता॑ ई॒रय॑न्ती ।  
+सु॒म॒ङ्ग॒लीर्बिभ्र॑ती दे॒ववी॑तिमि॒हाद्योषः॒ श्रेष्ठ॑तमा॒ व्यु॑च्छ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “dawn; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -233,12 +238,6 @@ Keeping away hatred, guardian of truth, born in truth, gracious,  arousing liber
 of good omen, bringing to birth (our ritual) pursuit of the gods—here  today, Dawn, as the most fairest, dawn forth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Pāda b contains complex phonetic echoes: sumnāvárī sūnṛ́tā īráyantī, with repeated su/ū as well as mirror-image árī / īrá mediated by ṛ́; the n in each word and the final ī of the first and third could be added.
-
-In c the phrase bíbhratī devávītim is somewhat puzzling; devávīti- generally refers to humans’ ‘pursuit of the gods’, that is, the fervent invitation to the gods to partake of our sacrifice. It should not, therefore, be something that Dawn “brings,” as she brings prizes, for example. I therefore take the fem. part. bíbhratī in its birth sense: she bears / brings to birth our pursuit of the gods by waking us up to initiate this pursuit. Cf. a similar birth context in 19d.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details><summary><h2>07-13 ...{Loading}...</h2></summary>
 
@@ -246,7 +245,6 @@ These verses have a surprising density of forms of ví √vas ‘dawn forth’ (
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

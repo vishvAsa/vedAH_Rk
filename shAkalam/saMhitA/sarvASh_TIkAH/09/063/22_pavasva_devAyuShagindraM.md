@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ roha ← √ruh- (root)
 
 vāyúm ← vāyú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व देवायु॒षगिन्द्रं॑ गच्छतु ते॒ मदः॑ ।  
+वा॒युमा रो॑ह॒ धर्म॑णा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “regulation; Dharma; law; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -173,12 +178,6 @@ Purify yourself, o god, attended by the Āyus. Let your exhilarating  drink go t
 mount to Vāyu according to the (ritual) statute.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As in vs. 10, the joint appearance of Indra and Vāyu signals the morning soma pressing.
-
-On āyuṣák (also IX.25.5) see the sensible disc. of Scarlatta (589-90). Note the presence of the Āyus grooming the soma in vs. 17.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -186,7 +185,6 @@ A form of páva- in each vs.: 22a pávasva, 23a pávamāna, 24a pavase, a patter
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ péśaḥ ← péśas- (nominal stem)
 
 yujyā́tām ← √yuj- (root)  
 {number:DU, person:3, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ब्र॒ह्माणो॒ अङ्गि॑रसो नक्षन्त॒ प्र क्र॑न्द॒नुर्न॑भ॒न्य॑स्य वेतु ।  
+प्र धे॒नव॑ उद॒प्रुतो॑ नवन्त यु॒ज्याता॒मद्री॑ अध्व॒रस्य॒ पेशः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “decoration; shape.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

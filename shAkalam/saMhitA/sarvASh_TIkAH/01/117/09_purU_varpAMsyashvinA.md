@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ ahihánam ← ahihán- (nominal stem)
 
 tárutram ← tárutra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रू वर्पां॑स्यश्विना॒ दधा॑ना॒ नि पे॒दव॑ ऊहथुरा॒शुमश्व॑म् ।  
+स॒ह॒स्र॒सां वा॒जिन॒मप्र॑तीतमहि॒हनं॑ श्रव॒स्यं१॒॑ तरु॑त्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “triumphant; conquering(a); superior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

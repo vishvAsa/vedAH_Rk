@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -80,7 +81,12 @@ hótuḥ ← hótar- (nominal stem)
 
 niṣī́dan ← √sad- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या॒व॒न्मा॒त्रमु॒षसो॒ न प्रती॑कं सुप॒र्ण्यो॒३॒॑ वस॑ते मातरिश्वः ।  
+ताव॑द्दधा॒त्युप॑ य॒ज्ञमा॒यन्ब्रा॑ह्म॒णो होतु॒रव॑रो नि॒षीद॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “sit down; sit; put.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

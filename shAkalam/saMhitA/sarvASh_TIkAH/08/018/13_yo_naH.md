@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -69,7 +70,12 @@ svaíḥ ← svá- (pronoun)
 
 yúḥ ← yús (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नः॒ कश्चि॒द्रिरि॑क्षति रक्ष॒स्त्वेन॒ मर्त्यः॑ ।  
+स्वैः ष एवै॑ रिरिषीष्ट॒ युर्जनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

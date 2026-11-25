@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -51,7 +52,12 @@ káṇvāsaḥ ← káṇva- (nominal stem)
 
 vājínam ← vājín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गा॒थश्र॑वसं॒ सत्प॑तिं॒ श्रव॑स्कामं पुरु॒त्मान॑म् ।  
+कण्वा॑सो गा॒त वा॒जिन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “victorious; triumphant; strong; gainful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

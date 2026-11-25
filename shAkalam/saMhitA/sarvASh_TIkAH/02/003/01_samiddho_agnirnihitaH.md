@@ -4,6 +4,7 @@ devataa = "इध्मः समिद्धोग्निर्वा"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इध्मः समिद्धोग्निर्वा
@@ -83,7 +84,12 @@ devā́n ← devá- (nominal stem)
 
 yajatu ← √yaj- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धो अ॒ग्निर्निहि॑तः पृथि॒व्यां प्र॒त्यङ्विश्वा॑नि॒ भुव॑नान्यस्थात् ।  
+होता॑ पाव॒कः प्र॒दिवः॑ सुमे॒धा दे॒वो दे॒वान्य॑जत्व॒ग्निरर्ह॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “should; may; rate; can; can; equal; necessitate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

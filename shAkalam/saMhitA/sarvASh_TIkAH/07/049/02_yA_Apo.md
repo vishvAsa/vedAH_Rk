@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -95,7 +96,12 @@ mā́m ← ahám (pronoun)
 
 tā́ḥ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या आपो॑ दि॒व्या उ॒त वा॒ स्रव॑न्ति ख॒नित्रि॑मा उ॒त वा॒ याः स्व॑यं॒जाः ।  
+स॒मु॒द्रार्था॒ याः शुच॑यः पाव॒कास्ता आपो॑ दे॒वीरि॒ह माम॑वन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -277,7 +282,6 @@ those, clear and pure, whose goal is the sea—let those waters, goddesses,  hel
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/049/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -286,7 +290,6 @@ Pādas 2c and 3c contain the same three words after the caesura, but with the fi
 [VII.50-52 JPB]
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

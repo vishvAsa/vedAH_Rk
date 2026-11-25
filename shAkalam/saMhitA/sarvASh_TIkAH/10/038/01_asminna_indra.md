@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रो मुष्कवान्"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ pátanti ← √pat- 1 (root)
 
 víṣvak ← víṣvañc- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मिन्न॑ इन्द्र पृत्सु॒तौ यश॑स्वति॒ शिमी॑वति॒ क्रन्द॑सि॒ प्राव॑ सा॒तये॑ ।  
+यत्र॒ गोषा॑ता धृषि॒तेषु॑ खा॒दिषु॒ विष्व॒क्पत॑न्ति दि॒द्यवो॑ नृ॒षाह्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “battle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

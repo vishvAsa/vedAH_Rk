@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -68,7 +69,12 @@ puṣyáse ← √puṣ- (root)
 
 vr̥ṇīta ← √vr̥- ~ vr̥̄- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वो॑ दे॒वस्य॑ ने॒तुर्मर्तो॑ वुरीत स॒ख्यम् ।  
+विश्वो॑ रा॒य इ॑षुध्यति द्यु॒म्नं वृ॑णीत पु॒ष्यसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “boom; grow; promote; foster.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

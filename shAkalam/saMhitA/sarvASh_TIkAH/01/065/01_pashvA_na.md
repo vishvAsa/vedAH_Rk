@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -57,7 +57,11 @@ váhantam ← √vah- (root)
 
 yujānám ← √yuj- (root)  
 {case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒श्वा न ता॒युं गुहा॒ चत॑न्तं॒ नमो॑ युजा॒नं नमो॒ वह॑न्तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +130,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -173,10 +176,6 @@ Ihm, der heimlich davongeht wie der Dieb mit dem Vieh, der die Anbetung an seine
 
 Dir nahten einig, – die weisen schreitend, wie einem Viehdieb, – der sich versteckt hält, Die hehren alle, – um dich sich setzend, Der Andacht anschirrt – und Andacht fähret.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

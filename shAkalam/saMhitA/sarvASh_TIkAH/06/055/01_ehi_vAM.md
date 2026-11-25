@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -66,7 +67,12 @@ rathī́ḥ ← rathī́- (nominal stem)
 
 r̥tásya ← r̥tá- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एहि॒ वां वि॑मुचो नपा॒दाघृ॑णे॒ सं स॑चावहै ।  
+र॒थीरृ॒तस्य॑ नो भव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -71,7 +72,12 @@ sahá ← sahá (invariable)
 
 téna ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पय॑स्वती॒रोष॑धयः॒ पय॑स्वन्माम॒कं वचः॑ ।  
+अ॒पां पय॑स्व॒दित्पय॒स्तेन॑ मा स॒ह शु॑न्धत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “become pure; purify; wash; expiate; clean; cleanse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

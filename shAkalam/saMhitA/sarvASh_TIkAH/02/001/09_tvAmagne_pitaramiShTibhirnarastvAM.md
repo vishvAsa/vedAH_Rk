@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ suśévaḥ ← suśéva- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने पि॒तर॑मि॒ष्टिभि॒र्नर॒स्त्वां भ्रा॒त्राय॒ शम्या॑ तनू॒रुच॑म् ।  
+त्वं पु॒त्रो भ॑वसि॒ यस्तेऽवि॑ध॒त्त्वं सखा॑ सु॒शेवः॑ पास्या॒धृषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “overcome; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इध्मः समिद्धोग्निर्वा"
 RShiH = "जमदग्निस्तत्सुतो वा रामः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इध्मः समिद्धोग्निर्वा
@@ -86,7 +87,12 @@ prácetāḥ ← prácetas- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धो अ॒द्य मनु॑षो दुरो॒णे दे॒वो दे॒वान्य॑जसि जातवेदः ।  
+आ च॒ वह॑ मित्रमहश्चिकि॒त्वान्त्वं दू॒तः क॒विर॑सि॒ प्रचे॑ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “intelligent; mindful; attentive; wise; apt; observant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

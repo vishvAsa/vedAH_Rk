@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ cáturvayam ← cáturvaya- (nominal stem)
 
 sántam ← √as- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्स॑वि॒ता वो॑ऽमृत॒त्वमासु॑व॒दगो॑ह्यं॒ यच्छ्र॒वय॑न्त॒ ऐत॑न ।  
+त्यं चि॑च्चम॒समसु॑रस्य॒ भक्ष॑ण॒मेकं॒ सन्त॑मकृणुता॒ चतु॑र्वयम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “quadruple.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -63,7 +64,12 @@ paśúm ← paśú- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ पू॑षञ्चि॒त्रब॑र्हिष॒माघृ॑णे ध॒रुणं॑ दि॒वः ।  
+आजा॑ न॒ष्टं यथा॑ प॒शुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
     Paśu; herd; goat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ kṣáyam ← kṣáya- (nominal stem)
 
 śatā́yuṣam ← śatā́yus- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मिधा॒ यस्त॒ आहु॑तिं॒ निशि॑तिं॒ मर्त्यो॒ नश॑त् ।  
+व॒याव॑न्तं॒ स पु॑ष्यति॒ क्षय॑मग्ने श॒तायु॑षम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -195,12 +200,6 @@ he prospers his dwelling place, (so that it has many) branches and
 hundred(-year) lifespans, o Agni.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The two adjectives vayā́vantam and śatā́yuṣam are best taken as proleptic, with Geldner and Renou
-
-For extensive disc. of this vss., see comm. ad VI.2.4-5 above.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/002/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -210,7 +209,6 @@ VI.1.9b yás ta ā́naṭ samídhā havyádātim “who after kindling you [lit.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

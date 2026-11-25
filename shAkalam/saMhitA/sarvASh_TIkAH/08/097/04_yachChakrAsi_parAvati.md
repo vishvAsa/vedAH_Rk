@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sutā́vān ← sutā́vant- (nominal stem)
 
 vivāsati ← √vanⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यच्छ॒क्रासि॑ परा॒वति॒ यद॑र्वा॒वति॑ वृत्रहन् ।  
+अत॑स्त्वा गी॒र्भिर्द्यु॒गदि॑न्द्र के॒शिभिः॑ सु॒तावाँ॒ आ वि॑वासति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “invite; endeavor; try for.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ mādayádhyai ← √mad- (root)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमी॑मह॒ इन्द्र॑मस्य रा॒यः पु॑रु॒वीर॑स्य नृ॒वतः॑ पुरु॒क्षोः ।  
+यो अस्कृ॑धोयुर॒जरः॒ स्व॑र्वा॒न्तमा भ॑र हरिवो माद॒यध्यै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

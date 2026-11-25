@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "अग्निः सौचीकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -95,7 +96,12 @@ kṣepnóḥ ← kṣepnú- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्नेः पूर्वे॒ भ्रात॑रो॒ अर्थ॑मे॒तं र॒थीवाध्वा॑न॒मन्वाव॑रीवुः ।  
+तस्मा॑द्भि॒या व॑रुण दू॒रमा॑यं गौ॒रो न क्षे॒प्नोर॑विजे॒ ज्यायाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “bowstring.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

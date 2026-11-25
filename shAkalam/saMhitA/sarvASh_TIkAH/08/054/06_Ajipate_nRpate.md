@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sasavā́ṁsaḥ ← √sanⁱ- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आजि॑पते नृपते॒ त्वमिद्धि नो॒ वाज॒ आ व॑क्षि सुक्रतो ।  
+वी॒ती होत्रा॑भिरु॒त दे॒ववी॑तिभिः सस॒वांसो॒ वि शृ॑ण्विरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वम्रो वैखानसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ arodayat ← √rud- (root)
 
 muṣāyán ← √muṣⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स रु॒द्रेभि॒रश॑स्तवार॒ ऋभ्वा॑ हि॒त्वी गय॑मा॒रेअ॑वद्य॒ आगा॑त् ।  
+व॒म्रस्य॑ मन्ये मिथु॒ना विव॑व्री॒ अन्न॑म॒भीत्या॑रोदयन्मुषा॒यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “steal; rob.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

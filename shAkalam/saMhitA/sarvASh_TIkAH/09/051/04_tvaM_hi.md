@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उचथ्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ stotā́ram ← stotár- (nominal stem)
 
 vŕ̥ṣan ← vŕ̥ṣan- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं हि सो॑म व॒र्धय॑न्त्सु॒तो मदा॑य॒ भूर्ण॑ये ।  
+वृष॑न्त्स्तो॒तार॑मू॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ sóme-some ← sóma- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒या धि॒या च॑ गव्य॒या पुरु॑णाम॒न्पुरु॑ष्टुत ।  
+यत्सोमे॑सोम॒ आभ॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “originate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

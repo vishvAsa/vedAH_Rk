@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -57,7 +58,12 @@ carṣaṇīnā́m ← carṣaṇí- (nominal stem)
 
 dhartā́rā ← dhartár- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गन्ता॑रा॒ हि स्थोऽव॑से॒ हवं॒ विप्र॑स्य॒ माव॑तः ।  
+ध॒र्तारा॑ चर्षणी॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “people.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

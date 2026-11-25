@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ paspr̥dhré ← √spr̥dh- (root)
 
 ukthārkā́ ← ukthārká- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं च॒ त्वे ज॒ग्मुर्गिर॑ इन्द्र पू॒र्वीर्वि च॒ त्वद्य॑न्ति वि॒भ्वो॑ मनी॒षाः ।  
+पु॒रा नू॒नं च॑ स्तु॒तय॒ ऋषी॑णां पस्पृ॒ध्र इन्द्रे॒ अध्यु॑क्था॒र्का ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
     beam.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रजापतिर्वैश्वामित्रः (वाच्यो वा द्वौ वा तौ विश्वामित्रो वा)"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ saṁdŕ̥śe ← saṁdŕ̥ś- (nominal stem)
 
 sumedhā́ḥ ← sumedhás- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि तष्टे॑व दीधया मनी॒षामत्यो॒ न वा॒जी सु॒धुरो॒ जिहा॑नः ।  
+अ॒भि प्रि॒याणि॒ मर्मृ॑श॒त्परा॑णि क॒वीँरि॑च्छामि सं॒दृशे॑ सुमे॒धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “wise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

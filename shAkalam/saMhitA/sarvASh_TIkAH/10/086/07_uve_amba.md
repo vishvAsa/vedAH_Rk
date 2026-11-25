@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वृषाकपिः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -94,7 +95,12 @@ ví ← ví (invariable)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒वे अ॑म्ब सुलाभिके॒ यथे॑वा॒ङ्ग भ॑वि॒ष्यति॑ ।  
+भ॒सन्मे॑ अम्ब॒ सक्थि॑ मे॒ शिरो॑ मे॒ वी॑व हृष्यति॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

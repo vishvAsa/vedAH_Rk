@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -51,7 +52,12 @@ kr̥dhi ← √kr̥- (root)
 
 suṣáṇā ← suṣáṇa- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑ नो विश्वसौभग॒ हिर॑ण्यवाशीमत्तम ।  
+धना॑नि सु॒षणा॑ कृधि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

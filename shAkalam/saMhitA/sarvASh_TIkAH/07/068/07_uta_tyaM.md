@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -75,7 +76,12 @@ yáḥ ← yá- (pronoun)
 
 yuvā́kuḥ ← yuvā́ku- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्यं भु॒ज्युम॑श्विना॒ सखा॑यो॒ मध्ये॑ जहुर्दु॒रेवा॑सः समु॒द्रे ।  
+निरीं॑ पर्ष॒दरा॑वा॒ यो यु॒वाकुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “your(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

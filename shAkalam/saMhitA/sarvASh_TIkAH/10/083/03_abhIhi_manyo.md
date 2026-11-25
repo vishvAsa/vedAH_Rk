@@ -4,6 +4,7 @@ devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मन्युः
@@ -92,7 +93,12 @@ vásūni ← vásu- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भी॑हि मन्यो त॒वस॒स्तवी॑या॒न्तप॑सा यु॒जा वि ज॑हि॒ शत्रू॑न् ।  
+अ॒मि॒त्र॒हा वृ॑त्र॒हा द॑स्यु॒हा च॒ विश्वा॒ वसू॒न्या भ॑रा॒ त्वं नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

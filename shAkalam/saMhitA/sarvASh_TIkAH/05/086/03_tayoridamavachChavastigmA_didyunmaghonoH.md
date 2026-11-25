@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -74,7 +75,12 @@ gávām ← gáv- ~ gó- (nominal stem)
 
 vr̥traghné ← vr̥trahán- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तयो॒रिदम॑व॒च्छव॑स्ति॒ग्मा दि॒द्युन्म॒घोनोः॑ ।  
+प्रति॒ द्रुणा॒ गभ॑स्त्यो॒र्गवां॑ वृत्र॒घ्न एष॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

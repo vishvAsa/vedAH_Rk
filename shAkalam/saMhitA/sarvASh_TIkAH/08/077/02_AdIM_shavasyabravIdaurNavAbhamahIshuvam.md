@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ santu ← √as- 1 (root)
 
 té ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदीं॑ शव॒स्य॑ब्रवीदौर्णवा॒भम॑ही॒शुव॑म् ।  
+ते पु॑त्र सन्तु नि॒ष्टुरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

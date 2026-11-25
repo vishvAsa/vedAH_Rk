@@ -4,6 +4,7 @@ devataa = "दुन्दुभिः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दुन्दुभिः
@@ -92,7 +93,12 @@ muṣṭíḥ ← muṣṭí- (nominal stem)
 
 vīḷáyasva ← √vīḍ- ~ √vīḷ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ क्र॑न्दय॒ बल॒मोजो॑ न॒ आ धा॒ निः ष्ट॑निहि दुरि॒ता बाध॑मानः ।  
+अप॑ प्रोथ दुन्दुभे दु॒च्छुना॑ इ॒त इन्द्र॑स्य मु॒ष्टिर॑सि वी॒ळय॑स्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “solidify; strengthen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -254,7 +259,6 @@ Indra: be firm!
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details><summary><h2>26-31 ...{Loading}...</h2></summary>
 
@@ -262,7 +266,6 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

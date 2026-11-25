@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -83,7 +84,12 @@ sumataú ← sumatí- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो न॒ इन्दुः॑ पितरो हृ॒त्सु पी॒तोऽम॑र्त्यो॒ मर्त्याँ॑ आवि॒वेश॑ ।  
+तस्मै॒ सोमा॑य ह॒विषा॑ विधेम मृळी॒के अ॑स्य सुम॒तौ स्या॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -63,7 +64,12 @@ sīmahi ← √sā- ~ si- (root)
 
 varuṇa ← váruṇa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि मृ॑ळी॒काय॑ ते॒ मनो॑ र॒थीरश्वं॒ न सन्दि॑तम् ।  
+गी॒र्भिर्व॑रुण सीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “tie.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

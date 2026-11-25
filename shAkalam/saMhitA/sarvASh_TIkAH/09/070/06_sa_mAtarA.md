@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेणुर्वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ práśastaye ← práśasti- (nominal stem)
 
 sukrátuḥ ← sukrátu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स मा॒तरा॒ न ददृ॑शान उ॒स्रियो॒ नान॑ददेति म॒रुता॑मिव स्व॒नः ।  
+जा॒नन्नृ॒तं प्र॑थ॒मं यत्स्व॑र्णरं॒ प्रश॑स्तये॒ कम॑वृणीत सु॒क्रतुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

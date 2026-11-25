@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ sómam ← sóma- (nominal stem)
 
 sunvatáḥ ← √su- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रह्म॑ जिन्वतमु॒त जि॑न्वतं॒ धियो॑ ह॒तं रक्षां॑सि॒ सेध॑त॒ममी॑वाः ।  
+स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण च॒ सोमं॑ सुन्व॒तो अ॑श्विना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -224,7 +229,6 @@ In concert with Dawn and the Sun, (drink) the soma of the presser,  o Aśvins.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -232,7 +236,6 @@ A verb needs to be supplied with the d pādas of this tṛca (sómaṃ sunvató 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

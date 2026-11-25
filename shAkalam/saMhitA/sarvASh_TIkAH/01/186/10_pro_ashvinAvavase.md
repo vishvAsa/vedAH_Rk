@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sumnā́ya ← sumná- (nominal stem)
 
 vavr̥tīya ← √vr̥t- (root)  
 {number:SG, person:1, mood:OPT, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रो अ॒श्विना॒वव॑से कृणुध्वं॒ प्र पू॒षणं॒ स्वत॑वसो॒ हि सन्ति॑ ।  
+अ॒द्वे॒षो विष्णु॒र्वात॑ ऋभु॒क्षा अच्छा॑ सु॒म्नाय॑ ववृतीय दे॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ samānám ← samāná- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त॒रणिं॑ वो॒ जना॑नां त्र॒दं वाज॑स्य॒ गोम॑तः ।  
+स॒मा॒नमु॒ प्र शं॑सिषम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

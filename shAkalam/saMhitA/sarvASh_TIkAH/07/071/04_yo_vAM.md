@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ viśvápsnyaḥ ← viśvápsnya- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वां॒ रथो॑ नृपती॒ अस्ति॑ वो॒ळ्हा त्रि॑वन्धु॒रो वसु॑माँ उ॒स्रया॑मा ।  
+आ न॑ ए॒ना ना॑स॒त्योप॑ यातम॒भि यद्वां॑ वि॒श्वप्स्न्यो॒ जिगा॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

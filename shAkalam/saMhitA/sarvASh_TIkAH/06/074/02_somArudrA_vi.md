@@ -4,6 +4,7 @@ devataa = "सोमारुद्रौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमारुद्रौ
@@ -83,7 +84,12 @@ santu ← √as- 1 (root)
 
 sauśravasā́ni ← sauśravasá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमा॑रुद्रा॒ वि वृ॑हतं॒ विषू॑ची॒ममी॑वा॒ या नो॒ गय॑मावि॒वेश॑ ।  
+आ॒रे बा॑धेथां॒ निरृ॑तिं परा॒चैर॒स्मे भ॒द्रा सौ॑श्रव॒सानि॑ सन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

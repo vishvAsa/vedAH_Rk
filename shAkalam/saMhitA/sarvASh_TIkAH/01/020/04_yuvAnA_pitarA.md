@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -54,7 +55,12 @@ r̥bhávaḥ ← r̥bhú- (nominal stem)
 
 viṣṭī́ ← viṣṭí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+युवा॑ना पि॒तरा॒ पुनः॑ स॒त्यम॑न्त्रा ऋजू॒यवः॑ ।  
+ऋ॒भवो॑ वि॒ष्ट्य॑क्रत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

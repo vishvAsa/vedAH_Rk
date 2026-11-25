@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्निष्चाक्षुषः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -64,7 +65,12 @@ vidé ← √vid- 2 (root)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं भरा॑य सान॒सिरिन्द्रा॑य पवते सु॒तः ।  
+सोमो॒ जैत्र॑स्य चेतति॒ यथा॑ वि॒दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -174,10 +179,6 @@ This one here, bringing gain for the taking, purifies himself for Indra  when pr
 Soma takes note of the victorious one, as is (well) known.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Both Geldner and Renou take jaítrasya as a noun ‘victory’, but with Grassmann I supply Indra as the referent for this vṛddhi adj. This would provide a thematic reciprocity between vss. 1 and 2: in 1 the soma drops are born because of Indra’s attentive hearing (in my interpr.), while here Soma repays Indra’s attention with his own.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -187,7 +188,6 @@ Vss. 2 and 3 are also lexically linked: sānasí- (2a, 3b), jaítrasya (2c) / -j
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

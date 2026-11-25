@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ vanínaḥ ← vanín- (nominal stem)
 
 vāraṇáḥ ← vāraṇá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि द्वि॒जन्मा॑ त्रि॒वृदन्न॑मृज्यते संवत्स॒रे वा॑वृधे ज॒ग्धमी॒ पुनः॑ ।  
+अ॒न्यस्या॒सा जि॒ह्वया॒ जेन्यो॒ वृषा॒ न्य१॒॑न्येन॑ व॒निनो॑ मृष्ट वार॒णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “elephant; elephant hook.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

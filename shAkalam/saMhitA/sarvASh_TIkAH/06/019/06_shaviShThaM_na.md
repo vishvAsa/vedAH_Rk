@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ harivaḥ ← hárivant- (nominal stem)
 
 mādayádhyai ← √mad- (root)  
 {case:DAT, number:SG, tense:PRS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शवि॑ष्ठं न॒ आ भ॑र शूर॒ शव॒ ओजि॑ष्ठ॒मोजो॑ अभिभूत उ॒ग्रम् ।  
+विश्वा॑ द्यु॒म्ना वृष्ण्या॒ मानु॑षाणाम॒स्मभ्यं॑ दा हरिवो माद॒यध्यै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -237,10 +242,6 @@ Bring here to us, o overpowering champion, the strongest strength, the  mighties
 All things brilliant and bullish that belong to the sons of Manu—give  them to us, o master of the fallow bays, to exhilarate us.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich is notable for the superlative etymological figures: double śáviṣṭham … śávaḥ “strongest strength” (or, in fact, triple, since śūra ‘hero’ is ultimately related to these words) and triple ójiṣṭham ójaḥ … ugrám “mightiest mighty might.” The triple etym. connection of the first phrase is better conveyed by Geldner’s “Bring uns, du Starker, die stärkste Stärke” than by the published translation Note also that the adjacent words in b ójo abhibhūta “… might, o overpowering one,” though not syntactically connected here, form a bahuvrīhi modifying Indra in the preceding hymn, VI.18.1 abhíbhūti-ojas- ‘of overpowering strength’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/06-08.md">
 <details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
@@ -248,7 +249,6 @@ As noted in the published introduction, all three of these vss. contain the phra
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

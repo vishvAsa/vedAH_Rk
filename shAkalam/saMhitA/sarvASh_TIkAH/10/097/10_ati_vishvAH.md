@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -77,7 +78,12 @@ tanvàḥ ← tanū́- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अति॒ विश्वाः॑ परि॒ष्ठाः स्ते॒न इ॑व व्र॒जम॑क्रमुः ।  
+ओष॑धीः॒ प्राचु॑च्यवु॒र्यत्किं च॑ त॒न्वो॒३॒॑ रपः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “injury; disease; infirmity; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवा ऋत्विजो वा"
 RShiH = "बुधः सौम्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -95,7 +96,12 @@ páyasā ← páyas- (nominal stem)
 
 sahásradhārā ← sahásradhāra- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वो॒ धियं॑ य॒ज्ञियां॑ वर्त ऊ॒तये॒ देवा॑ दे॒वीं य॑ज॒तां य॒ज्ञिया॑मि॒ह ।  
+सा नो॑ दुहीय॒द्यव॑सेव ग॒त्वी स॒हस्र॑धारा॒ पय॑सा म॒ही गौः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

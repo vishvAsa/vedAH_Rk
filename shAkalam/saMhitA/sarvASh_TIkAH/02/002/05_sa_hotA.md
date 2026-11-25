@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ ródasī ← ródasī- (nominal stem)
 
 stŕ̥bhiḥ ← stár- ~ tár- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स होता॒ विश्वं॒ परि॑ भूत्वध्व॒रं तमु॑ ह॒व्यैर्मनु॑ष ऋञ्जते गि॒रा ।  
+हि॒रि॒शि॒प्रो वृ॑धसा॒नासु॒ जर्भु॑र॒द्द्यौर्न स्तृभि॑श्चितय॒द्रोद॑सी॒ अनु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “subsequently; behind; along; towards; because.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

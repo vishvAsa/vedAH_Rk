@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ upári ← upári (invariable)
 
 várṣiṣṭham ← várṣiṣṭha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माक॑मुत्त॒मं कृ॑धि॒ श्रवो॑ दे॒वेषु॑ सूर्य ।  
+वर्षि॑ष्ठं॒ द्यामि॑वो॒परि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “above; up; additionally; upari \[word\]; subsequently.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

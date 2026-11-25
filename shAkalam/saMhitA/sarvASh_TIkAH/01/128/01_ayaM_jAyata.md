@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -119,7 +120,13 @@ padé ← padá- (nominal stem)
 
 párivītaḥ ← √vyā- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं जा॑यत॒ मनु॑षो॒ धरी॑मणि॒ होता॒ यजि॑ष्ठ उ॒शिजा॒मनु॑ व्र॒तम॒ग्निः स्वमनु॑ व्र॒तम् ।  
+वि॒श्वश्रु॑ष्टिः सखीय॒ते र॒यिरि॑व श्रवस्य॒ते ।  
+अद॑ब्धो॒ होता॒ नि ष॑ददि॒ळस्प॒दे परि॑वीत इ॒ळस्प॒दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -308,7 +315,6 @@ _________
     topographic point; path; residence; site; topic.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

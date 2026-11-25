@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मेधातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ parjányaḥ ← parjánya- (nominal stem)
 
 vr̥ṣṭimā́n ← vr̥ṣṭimánt- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मभ्य॑मिन्दविन्द्र॒युर्मध्वः॑ पवस्व॒ धार॑या ।  
+प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

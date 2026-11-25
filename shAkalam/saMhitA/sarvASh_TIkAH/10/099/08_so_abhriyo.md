@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वम्रो वैखानसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ hanti ← √han- (root)
 
 śyenáḥ ← śyená- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो अ॒भ्रियो॒ न यव॑स उद॒न्यन्क्षया॑य गा॒तुं वि॒दन्नो॑ अ॒स्मे ।  
+उप॒ यत्सीद॒दिन्दुं॒ शरी॑रैः श्ये॒नोऽयो॑पाष्टिर्हन्ति॒ दस्यू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “savage; outcast; mugger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

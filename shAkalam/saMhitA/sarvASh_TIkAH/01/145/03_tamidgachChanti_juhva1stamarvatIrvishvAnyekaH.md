@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ sám ← sám (invariable)
 
 śíśuḥ ← śíśu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमिद्ग॑च्छन्ति जु॒ह्व१॒॑स्तमर्व॑ती॒र्विश्वा॒न्येकः॑ शृणव॒द्वचां॑सि मे ।  
+पु॒रु॒प्रै॒षस्ततु॑रिर्यज्ञ॒साध॒नोऽच्छि॑द्रोतिः॒ शिशु॒राद॑त्त॒ सं रभः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

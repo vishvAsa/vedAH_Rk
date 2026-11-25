@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ ihá ← ihá (invariable)
 
 tátas ← tátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॑न्त॒रा प॑रा॒वत॑मर्वा॒वतं॑ च हू॒यसे॑ ।  
+इन्द्रे॒ह तत॒ आ ग॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -172,14 +177,12 @@ Indra, come here from there.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 On the “magic square” of these vss., see published introduction. Vs. 9 actually seems to be covering the logical possibility that Indra might not be either far or near but somewhere in between, and in that case the exhortation in vs. 8 to come from nearby or far away might not work.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

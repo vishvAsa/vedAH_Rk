@@ -4,6 +4,7 @@ devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्याविवाहः
@@ -77,7 +78,12 @@ sūryā́ ← sūryā́- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मनो॑ अस्या॒ अन॑ आसी॒द्द्यौरा॑सीदु॒त च्छ॒दिः ।  
+शु॒क्राव॑न॒ड्वाहा॑वास्तां॒ यदया॑त्सू॒र्या गृ॒हम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “house; palace; temple; home; place; family; family; stable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

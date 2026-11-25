@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "निचृत्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ tirás ← tirás (invariable)
 
 mártyeṣu ← mártya- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ रथो॒ रथा॑नां॒ येष्ठो॑ यात्वश्विना ।  
+पु॒रू चि॑दस्म॒युस्ति॒र आ॑ङ्गू॒षो मर्त्ये॒ष्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

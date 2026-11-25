@@ -5,13 +5,13 @@ RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रः
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -62,7 +62,12 @@ pr̥thivī́m ← pr̥thivī́- (nominal stem)
 
 śrávobhiḥ ← śrávas- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि यो म॑हि॒ना दिवं॑ मि॒त्रो ब॒भूव॑ स॒प्रथाः॑ ।  
+अ॒भि श्रवो॑भिः पृथि॒वीम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +146,6 @@ _________
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -189,8 +193,6 @@ Der hoch den Himmel überragt an Grösse Mitra umfangreich, An Herrlichkeit die 
 Митра далеко простирающийся, –  
 Славой (он) пре(взошел) землю.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -67,7 +68,12 @@ yéna ← yá- (pronoun)
 
 átārima ← √tr̥̄- 1 (root)  
 {number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑ मे स॒ख्यमा॒वर॑ इ॒मस्य॑ पा॒ह्यन्ध॑सः ।  
+येन॒ विश्वा॒ अति॒ द्विषो॒ अता॑रिम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

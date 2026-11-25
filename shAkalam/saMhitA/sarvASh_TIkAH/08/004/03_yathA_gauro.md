@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sácā ← sácā (invariable)
 
 sú ← sú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॑ गौ॒रो अ॒पा कृ॒तं तृष्य॒न्नेत्यवेरि॑णम् ।  
+आ॒पि॒त्वे नः॑ प्रपि॒त्वे तूय॒मा ग॑हि॒ कण्वे॑षु॒ सु सचा॒ पिब॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

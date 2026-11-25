@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "बृहन्मतिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ vicákṣāṇaḥ ← √cakṣ- (root)
 
 virocáyan ← √ruc- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒त ए॑ति प॒वित्र॒ आ त्विषिं॒ दधा॑न॒ ओज॑सा ।  
+वि॒चक्षा॑णो विरो॒चय॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

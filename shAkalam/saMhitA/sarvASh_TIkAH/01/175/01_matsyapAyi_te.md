@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "स्कन्धोग्रीवी बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ sahasrasā́tamaḥ ← sahasrasā́tama- (nominal stem)
 
 vājī́ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मत्स्यपा॑यि ते॒ महः॒ पात्र॑स्येव हरिवो मत्स॒रो मदः॑ ।  
+वृषा॑ ते॒ वृष्ण॒ इन्दु॑र्वा॒जी स॑हस्र॒सात॑मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

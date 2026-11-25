@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ dambháyat ← √dambh- (root)
 
 duritā́ ← duritá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्न शुष्कं॒ वन॑मिन्द्र हे॒ती रक्षो॒ नि ध॑क्ष्य॒शनि॒र्न भी॒मा ।  
+ग॒म्भी॒रय॑ ऋ॒ष्वया॒ यो रु॒रोजाध्वा॑नयद्दुरि॒ता द॒म्भय॑च्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

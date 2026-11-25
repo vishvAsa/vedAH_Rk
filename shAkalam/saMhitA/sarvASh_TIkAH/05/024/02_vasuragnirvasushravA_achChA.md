@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गौपायना लौपायना वा बन्धुः सुबन्धुः श्रुतबन्धुर्विप्रबन्धुश्च"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -52,7 +53,11 @@ nakṣi ← √naś- 1 (root)
 
 rayím ← rayí- ~ rāy- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वसु॑र॒ग्निर्वसु॑श्रवा॒ अच्छा॑ नक्षि द्यु॒मत्त॑मं र॒यिं दाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +124,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

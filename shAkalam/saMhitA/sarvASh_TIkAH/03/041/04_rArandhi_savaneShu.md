@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ indra ← índra- (nominal stem)
 
 ukthéṣu ← ukthá- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रा॒र॒न्धि सव॑नेषु ण ए॒षु स्तोमे॑षु वृत्रहन् ।  
+उ॒क्थेष्वि॑न्द्र गिर्वणः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

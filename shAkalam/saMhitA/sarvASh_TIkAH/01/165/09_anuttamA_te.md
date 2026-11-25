@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "मरुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -92,7 +93,12 @@ pravr̥ddha ← √vr̥dh- (root)
 
 yā́ni ← yá- (pronoun)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॑त्त॒मा ते॑ मघव॒न्नकि॒र्नु न त्वावाँ॑ अस्ति दे॒वता॒ विदा॑नः ।  
+न जाय॑मानो॒ नश॑ते॒ न जा॒तो यानि॑ करि॒ष्या कृ॑णु॒हि प्र॑वृद्ध ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “increase; develop; advance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

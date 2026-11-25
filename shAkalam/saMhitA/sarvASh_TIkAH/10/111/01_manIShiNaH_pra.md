@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्ट्रादंष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vídānaḥ ← √vid- 2 (root)
 
 vīráḥ ← vīrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मनी॑षिणः॒ प्र भ॑रध्वं मनी॒षां यथा॑यथा म॒तयः॒ सन्ति॑ नृ॒णाम् ।  
+इन्द्रं॑ स॒त्यैरेर॑यामा कृ॒तेभिः॒ स हि वी॒रो गि॑र्वण॒स्युर्विदा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

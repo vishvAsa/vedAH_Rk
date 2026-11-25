@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अरुणो वैतहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ janaye ← √janⁱ- (root)
 
 matím ← matí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मि॒न्नश्वा॑स ऋष॒भास॑ उ॒क्षणो॑ व॒शा मे॒षा अ॑वसृ॒ष्टास॒ आहु॑ताः ।  
+की॒ला॒ल॒पे सोम॑पृष्ठाय वे॒धसे॑ हृ॒दा म॒तिं ज॑नये॒ चारु॑म॒ग्नये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

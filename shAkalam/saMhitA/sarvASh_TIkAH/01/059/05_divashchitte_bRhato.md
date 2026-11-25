@@ -4,6 +4,7 @@ devataa = "अग्निर्वैश्वानरः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्वैश्वानरः
@@ -83,7 +84,12 @@ várivaḥ ← várivas- (nominal stem)
 
 yudhā́ ← yúdh- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वश्चि॑त्ते बृह॒तो जा॑तवेदो॒ वैश्वा॑नर॒ प्र रि॑रिचे महि॒त्वम् ।  
+राजा॑ कृष्टी॒नाम॑सि॒ मानु॑षीणां यु॒धा दे॒वेभ्यो॒ वरि॑वश्चकर्थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -240,14 +245,12 @@ Through combat you made a wide realm for the gods.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/059/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 5d pāda here = VII.98.3d, of Indra, and Nodhas uses a similar expression of Indra in I.63.7d. Vs. 6 is even more Indraic. As noted in the introduction, this part of the hymn is designed to associate Indra and his great deeds with Agni.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

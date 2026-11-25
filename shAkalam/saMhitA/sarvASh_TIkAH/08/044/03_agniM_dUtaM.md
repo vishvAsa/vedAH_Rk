@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ ihá ← ihá (invariable)
 
 sādayāt ← √sad- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं दू॒तं पु॒रो द॑धे हव्य॒वाह॒मुप॑ ब्रुवे ।  
+दे॒वाँ आ सा॑दयादि॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “here; now; in this world; now; below; there; here; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

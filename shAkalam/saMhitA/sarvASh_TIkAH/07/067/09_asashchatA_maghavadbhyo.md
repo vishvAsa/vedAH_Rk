@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ maghā́ni ← maghá- (nominal stem)
 
 pr̥ñcántaḥ ← √pr̥c- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स॒श्चता॑ म॒घव॑द्भ्यो॒ हि भू॒तं ये रा॒या म॑घ॒देयं॑ जु॒नन्ति॑ ।  
+प्र ये बन्धुं॑ सू॒नृता॑भिस्ति॒रन्ते॒ गव्या॑ पृ॒ञ्चन्तो॒ अश्व्या॑ म॒घानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “gift; wealth; reward; wages; reward.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उर्वशी"
 RShiH = "पुरूरवा ऐळः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उर्वशी
@@ -92,7 +93,12 @@ krīḷáyaḥ ← krīḷí- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदा॑सु॒ मर्तो॑ अ॒मृता॑सु नि॒स्पृक्सं क्षो॒णीभिः॒ क्रतु॑भि॒र्न पृ॒ङ्क्ते ।  
+ता आ॒तयो॒ न त॒न्वः॑ शुम्भत॒ स्वा अश्वा॑सो॒ न क्री॒ळयो॒ दन्द॑शानाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - \[verb noun\], nominative, plural
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

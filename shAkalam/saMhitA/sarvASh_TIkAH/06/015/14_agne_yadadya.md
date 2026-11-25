@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -103,7 +103,12 @@ yā́ ← yá- (pronoun)
 
 yaviṣṭha ← yáviṣṭha- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ यद॒द्य वि॒शो अ॑ध्वरस्य होतः॒ पाव॑कशोचे॒ वेष्ट्वं हि यज्वा॑ ।  
+ऋ॒ता य॑जासि महि॒ना वि यद्भूर्ह॒व्या व॑ह यविष्ठ॒ या ते॑ अ॒द्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -262,7 +267,6 @@ _________
 - “now; today; then; nowadays; adya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -322,8 +326,6 @@ Wenn zu den Menschen heut, o Opferpriester, mit hellem Licht du kommst – denn 
 Ты должен принести жертву по закону, когда ты развернешься в (полную) величину!  
 Отвези возлияния, о жертвующий лучше всех, которые (совершили) для тебя сегодня!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

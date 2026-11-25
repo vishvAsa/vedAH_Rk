@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिप्रभ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ dasmā́ḥ ← dasmá- (nominal stem)
 
 janayanta ← √janⁱ- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒द॒त्र॒या द॑यते॒ वार्या॑णि पू॒षा भगो॒ अदि॑ति॒र्वस्त॑ उ॒स्रः ।  
+इन्द्रो॒ विष्णु॒र्वरु॑णो मि॒त्रो अ॒ग्निरहा॑नि भ॒द्रा ज॑नयन्त द॒स्माः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “overlord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

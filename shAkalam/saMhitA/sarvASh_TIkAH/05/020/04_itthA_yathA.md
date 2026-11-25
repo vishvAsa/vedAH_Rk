@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रयस्वन्त आत्रेयाः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -79,7 +80,12 @@ syāma ← √as- 1 (root)
 
 vīraíḥ ← vīrá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒त्था यथा॑ त ऊ॒तये॒ सह॑सावन्दि॒वेदि॑वे ।  
+रा॒य ऋ॒ताय॑ सुक्रतो॒ गोभिः॑ ष्याम सध॒मादो॑ वी॒रैः स्या॑म सध॒मादः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

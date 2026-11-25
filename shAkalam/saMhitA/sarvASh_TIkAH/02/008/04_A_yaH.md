@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ ajáraiḥ ← ajára- (nominal stem)
 
 añjānáḥ ← √añj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यः स्व१॒॑र्ण भा॒नुना॑ चि॒त्रो वि॒भात्य॒र्चिषा॑ ।  
+अ॒ञ्जा॒नो अ॒जरै॑र॒भि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “towards; on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -169,7 +174,6 @@ Who, like the sun with its radiance, shines forth bright with his flame, anointi
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -185,7 +189,6 @@ As the just-mentioned structural device expires in 4a, another takes its place. 
 The #ya(śástamasya) that opens 1c anticipates the forms of the relative pronoun yá- in the next 3 vss. (2a #yáḥ, 3a #yá(h), 3c #yásya, with the last, 4a #ā́ yáḥ, no longer in initial position), though of course it is entirely unrelated to the relative. The referent of all those rel. pronouns is Agni, who is also the referent of yaśástamasya. Phonology and syntax are thus wedded.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

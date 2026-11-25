@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -89,7 +90,12 @@ rátnā ← rátna- (nominal stem)
 
 vā́ryāṇi ← vā́rya- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ष्टौ व्य॑ख्यत्क॒कुभः॑ पृथि॒व्यास्त्री धन्व॒ योज॑ना स॒प्त सिन्धू॑न् ।  
+हि॒र॒ण्या॒क्षः स॑वि॒ता दे॒व आगा॒द्दध॒द्रत्ना॑ दा॒शुषे॒ वार्या॑णि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “precious; valuable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

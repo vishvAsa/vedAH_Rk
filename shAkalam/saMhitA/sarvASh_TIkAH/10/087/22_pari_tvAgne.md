@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -68,7 +69,12 @@ bhaṅgurā́vatām ← bhaṅgurā́vant- (nominal stem)
 
 hantā́ram ← hantár- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ त्वाग्ने॒ पुरं॑ व॒यं विप्रं॑ सहस्य धीमहि ।  
+धृ॒षद्व॑र्णं दि॒वेदि॑वे ह॒न्तारं॑ भङ्गु॒राव॑ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - \[noun\], genitive, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

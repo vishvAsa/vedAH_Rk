@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ práti ← práti (invariable)
 
 sártave ← √sr̥- 1 (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒रित्रं॒ हि वेरि॒वाच्छे॑दि प॒र्णमा॒जा खे॒लस्य॒ परि॑तक्म्यायाम् ।  
+स॒द्यो जङ्घा॒माय॑सीं वि॒श्पला॑यै॒ धने॑ हि॒ते सर्त॑वे॒ प्रत्य॑धत्तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ nireké ← nireká- (nominal stem)
 
 upāké ← upāká- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑स्य॒ वज्र॑ आय॒सो निमि॑श्ल॒ इन्द्र॑स्य बा॒ह्वोर्भूयि॑ष्ठ॒मोजः॑ ।  
+शी॒र्षन्निन्द्र॑स्य॒ क्रत॑वो निरे॒क आ॒सन्नेष॑न्त॒ श्रुत्या॑ उपा॒के ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

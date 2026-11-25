@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ dhāvati ← √dhāv- 1 (root)
 
 dróṇāni ← dróṇa- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष वृषा॒ कनि॑क्रदद्द॒शभि॑र्जा॒मिभि॑र्य॒तः ।  
+अ॒भि द्रोणा॑नि धावति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “run; run; wash.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

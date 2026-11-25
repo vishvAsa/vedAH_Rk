@@ -4,6 +4,7 @@ devataa = "ईज्यास्तवो यजमानप्रशंसा �
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ईज्यास्तवो यजमानप्रशंसा च
@@ -54,7 +55,12 @@ duhe ← √duh- (root)
 
 íḷā ← íḷā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्य॑ प्र॒जाव॑ती गृ॒हेऽस॑श्चन्ती दि॒वेदि॑वे ।  
+इळा॑ धेनु॒मती॑ दुहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

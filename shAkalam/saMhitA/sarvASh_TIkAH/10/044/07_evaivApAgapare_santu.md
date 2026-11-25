@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vayúnāni ← vayúna- (nominal stem)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वैवापा॒गप॑रे सन्तु दू॒ढ्योऽश्वा॒ येषां॑ दु॒र्युज॑ आयुयु॒ज्रे ।  
+इ॒त्था ये प्रागुप॑रे॒ सन्ति॑ दा॒वने॑ पु॒रूणि॒ यत्र॑ व॒युना॑नि॒ भोज॑ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

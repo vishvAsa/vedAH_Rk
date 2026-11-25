@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -86,7 +87,12 @@ sómam ← sóma- (nominal stem)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वने॑षु॒ व्य१॒॑न्तरि॑क्षं ततान॒ वाज॒मर्व॑त्सु॒ पय॑ उ॒स्रिया॑सु ।  
+हृ॒त्सु क्रतुं॒ वरु॑णो अ॒प्स्व१॒॑ग्निं दि॒वि सूर्य॑मदधा॒त्सोम॒मद्रौ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

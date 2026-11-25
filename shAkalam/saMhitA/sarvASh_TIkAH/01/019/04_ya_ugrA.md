@@ -4,6 +4,7 @@ devataa = "अग्निर्मरुतश्च"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्मरुतश्च
@@ -60,7 +61,12 @@ gahi ← √gam- (root)
 
 marúdbhiḥ ← marút- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॒ग्रा अ॒र्कमा॑नृ॒चुरना॑धृष्टास॒ ओज॑सा ।  
+म॒रुद्भि॑रग्न॒ आ ग॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

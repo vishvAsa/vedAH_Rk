@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ uśaté ← √vaś- (root)
 
 vayodhā́ḥ ← vayodhā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रा॒ता नो॑ बोधि॒ ददृ॑शान आ॒पिर॑भिख्या॒ता म॑र्डि॒ता सो॒म्याना॑म् ।  
+सखा॑ पि॒ता पि॒तृत॑मः पितॄ॒णां कर्ते॑मु लो॒कमु॑श॒ते व॑यो॒धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “giving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

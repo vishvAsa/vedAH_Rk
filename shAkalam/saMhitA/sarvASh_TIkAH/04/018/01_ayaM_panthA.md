@@ -4,6 +4,7 @@ devataa = "वामदेवः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वामदेवः
@@ -86,7 +87,12 @@ mātáram ← mātár- (nominal stem)
 
 páttave ← √pad- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं पन्था॒ अनु॑वित्तः पुरा॒णो यतो॑ दे॒वा उ॒दजा॑यन्त॒ विश्वे॑ ।  
+अत॑श्चि॒दा ज॑निषीष्ट॒ प्रवृ॑द्धो॒ मा मा॒तर॑ममु॒या पत्त॑वे कः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

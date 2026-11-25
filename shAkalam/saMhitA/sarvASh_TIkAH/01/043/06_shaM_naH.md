@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -60,7 +61,12 @@ nā́ribhyaḥ ← nā́ri- (nominal stem)
 
 nŕ̥bhyaḥ ← nár- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नः॑ कर॒त्यर्व॑ते सु॒गं मे॒षाय॑ मे॒ष्ये॑ ।  
+नृभ्यो॒ नारि॑भ्यो॒ गवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

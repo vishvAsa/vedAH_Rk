@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ mádhumantam ← mádhumant- (nominal stem)
 
 vahethe ← √vah- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मध्वः॑ पिबतं मधु॒पेभि॑रा॒सभि॑रु॒त प्रि॒यं मधु॑ने युञ्जाथां॒ रथ॑म् ।  
+आ व॑र्त॒निं मधु॑ना जिन्वथस्प॒थो दृतिं॑ वहेथे॒ मधु॑मन्तमश्विना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

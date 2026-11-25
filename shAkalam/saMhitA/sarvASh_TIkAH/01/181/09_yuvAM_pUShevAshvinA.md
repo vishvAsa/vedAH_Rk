@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ vidyā́ma ← √vid- 2 (root)
 
 vr̥jánam ← vr̥jána- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वां पू॒षेवा॑श्विना॒ पुरं॑धिर॒ग्निमु॒षां न ज॑रते ह॒विष्मा॑न् ।  
+हु॒वे यद्वां॑ वरिव॒स्या गृ॑णा॒नो वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “Dānu; dew; drop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

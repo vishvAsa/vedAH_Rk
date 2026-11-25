@@ -4,6 +4,7 @@ devataa = "दैव्यौ होतारौ प्रचेतसौ"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दैव्यौ होतारौ प्रचेतसौ
@@ -83,7 +84,12 @@ vidúṣṭarā ← vidúṣṭara- (nominal stem)
 
 yajethām ← √yaj- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वो ग्रावा॑ बृ॒हद॒ग्निः समि॑द्धः प्रि॒या धामा॒न्यदि॑तेरु॒पस्थे॑ ।  
+पु॒रोहि॑तावृत्विजा य॒ज्ञे अ॒स्मिन्वि॒दुष्ट॑रा॒ द्रवि॑ण॒मा य॑जेथाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

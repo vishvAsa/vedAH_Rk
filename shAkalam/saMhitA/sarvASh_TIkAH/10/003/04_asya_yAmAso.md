@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ cikitre ← √cit- (root)
 
 yā́man ← yā́man- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य यामा॑सो बृह॒तो न व॒ग्नूनिन्धा॑ना अ॒ग्नेः सख्युः॑ शि॒वस्य॑ ।  
+ईड्य॑स्य॒ वृष्णो॑ बृह॒तः स्वासो॒ भामा॑सो॒ याम॑न्न॒क्तव॑श्चिकित्रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

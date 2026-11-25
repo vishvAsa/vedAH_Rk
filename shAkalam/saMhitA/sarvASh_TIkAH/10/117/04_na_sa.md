@@ -4,6 +4,7 @@ devataa = "धनान्नदानप्रशंसा"
 RShiH = "भिक्षुराङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - धनान्नदानप्रशंसा
@@ -101,7 +102,12 @@ ichet ← √iṣ- 2 (root)
 
 pr̥ṇántam ← √pr̥̄- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न स सखा॒ यो न ददा॑ति॒ सख्ये॑ सचा॒भुवे॒ सच॑मानाय पि॒त्वः ।  
+अपा॑स्मा॒त्प्रेया॒न्न तदोको॑ अस्ति पृ॒णन्त॑म॒न्यमर॑णं चिदिच्छेत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -254,7 +260,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

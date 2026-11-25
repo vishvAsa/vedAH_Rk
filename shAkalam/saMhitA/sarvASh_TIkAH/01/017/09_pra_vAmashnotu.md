@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -60,7 +61,12 @@ sadhástutim ← sadhástuti- (nominal stem)
 
 yā́m ← yá- (pronoun)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वा॑मश्नोतु सुष्टु॒तिरिन्द्रा॑वरुण॒ यां हु॒वे ।  
+यामृ॒धाथे॑ स॒धस्तु॑तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - \[noun\], accusative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

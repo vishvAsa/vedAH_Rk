@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ tánayasya ← tánaya- (nominal stem)
 
 tokásya ← toká- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमिन्नरो॒ वि ह्व॑यन्ते समी॒के रि॑रि॒क्वांस॑स्त॒न्वः॑ कृण्वत॒ त्राम् ।  
+मि॒थो यत्त्या॒गमु॒भया॑सो॒ अग्म॒न्नर॑स्तो॒कस्य॒ तन॑यस्य सा॒तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “victory; acquisition; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

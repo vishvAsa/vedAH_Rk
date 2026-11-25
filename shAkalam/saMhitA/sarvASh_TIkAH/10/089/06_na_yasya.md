@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sthirā́ṇi ← sthirá- (nominal stem)
 
 vīḷú ← vīḷú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न यस्य॒ द्यावा॑पृथि॒वी न धन्व॒ नान्तरि॑क्षं॒ नाद्र॑यः॒ सोमो॑ अक्षाः ।  
+यद॑स्य म॒न्युर॑धिनी॒यमा॑नः शृ॒णाति॑ वी॒ळु रु॒जति॑ स्थि॒राणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     trustworthy; diligent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

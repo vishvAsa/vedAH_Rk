@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ iva ← iva (invariable)
 
 táṣṭā ← táṣṭar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तं मे॒ स्तोमं॑ त॒ना न सूर्ये॑ द्यु॒तद्या॑मानं वावृधन्त नृ॒णाम् ।  
+सं॒वन॑नं॒ नाश्व्यं॒ तष्टे॒वान॑पच्युतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “abscond.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

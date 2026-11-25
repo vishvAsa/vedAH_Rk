@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ kr̥ṣṭīnā́m ← kr̥ṣṭí- (nominal stem)
 
 nr̥túḥ ← nr̥tú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तन्त॒मिद्राध॑से म॒ह इन्द्रं॑ चोदामि पी॒तये॑ ।  
+यः पू॒र्व्यामनु॑ष्टुति॒मीशे॑ कृष्टी॒नां नृ॒तुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “dancing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

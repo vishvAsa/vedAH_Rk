@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ kṣā́maṇi ← kṣā́man- (nominal stem)
 
 sthā́m ← sthā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाके॑ सुप॒र्णमु॑पपप्ति॒वांसं॒ गिरो॑ वे॒नाना॑मकृपन्त पू॒र्वीः ।  
+शिशुं॑ रिहन्ति म॒तयः॒ पनि॑प्नतं हिर॒ण्ययं॑ शकु॒नं क्षाम॑णि॒ स्थाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -206,10 +211,6 @@ The eagle that has flown to the vault—the many hymns of the trackers  yearned 
 The thoughts lick the child who always excites wonder, the golden bird  standing on the earth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I would now take the pf. part. upapaptivā́ṃsam as explicitly anterior to the impf. akṛpanta: “the eagle that had flown to the vault.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
 <details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -225,7 +226,6 @@ The two tr. of vená- in 10b ‘seekers’ and 11b ‘trackers’ respectively s
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

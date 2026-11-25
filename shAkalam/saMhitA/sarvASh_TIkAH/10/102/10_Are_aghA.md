@@ -4,6 +4,7 @@ devataa = "द्रुघण इन्द्रो वा"
 RShiH = "मुद्गलो भार्म्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रुघण इन्द्रो वा
@@ -101,7 +102,12 @@ pradédiśat ← √diś- (root)
 
 vahati ← √vah- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒रे अ॒घा को न्वि१॒॑त्था द॑दर्श॒ यं यु॒ञ्जन्ति॒ तम्वा स्था॑पयन्ति ।  
+नास्मै॒ तृणं॒ नोद॒कमा भ॑र॒न्त्युत्त॑रो धु॒रो व॑हति प्र॒देदि॑शत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -263,7 +269,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

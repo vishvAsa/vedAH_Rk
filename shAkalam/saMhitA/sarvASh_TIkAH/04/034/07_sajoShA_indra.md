@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -74,7 +75,12 @@ ratnadhā́bhiḥ ← ratnadhā́- (nominal stem)
 
 sajóṣāḥ ← sajóṣas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒जोषा॑ इन्द्र॒ वरु॑णेन॒ सोमं॑ स॒जोषाः॑ पाहि गिर्वणो म॒रुद्भिः॑ ।  
+अ॒ग्रे॒पाभि॑रृतु॒पाभिः॑ स॒जोषा॒ ग्नास्पत्नी॑भी रत्न॒धाभिः॑ स॒जोषाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “consentaneous; combined; associated; united.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

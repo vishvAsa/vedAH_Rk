@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हविर्धान आङ्गिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ jī́janan ← √janⁱ- (root)
 
 vidáthāya ← vidátha- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो चि॒न्नु भ॒द्रा क्षु॒मती॒ यश॑स्वत्यु॒षा उ॑वास॒ मन॑वे॒ स्व॑र्वती ।  
+यदी॑मु॒शन्त॑मुश॒तामनु॒ क्रतु॑म॒ग्निं होता॑रं वि॒दथा॑य॒ जीज॑नन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

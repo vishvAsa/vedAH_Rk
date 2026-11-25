@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -63,7 +64,12 @@ iva ← iva (invariable)
 
 varṣathaḥ ← √vr̥- (root)  
 {number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नो॑ दि॒व्या इष॑ उ॒त सिन्धूँ॑रहर्विदा ।  
+अप॒ द्वारे॑व वर्षथः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “shower; rain; effuse; shower; drench.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

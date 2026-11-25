@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ raṇyati ← √ranⁱ- (root)
 
 tásya ← sá- ~ tá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब॒र्हिर्वा॒ यत्स्व॑प॒त्याय॑ वृ॒ज्यते॒ऽर्को वा॒ श्लोक॑मा॒घोष॑ते दि॒वि ।  
+ग्रावा॒ यत्र॒ वद॑ति का॒रुरु॒क्थ्य१॒॑स्तस्येदिन्द्रो॑ अभिपि॒त्वेषु॑ रण्यति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “rejoice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

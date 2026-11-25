@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ saptá ← saptá- (nominal stem)
 
 trís ← trís (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्यद्ब्र॒ध्नस्य॑ वि॒ष्टपं॑ गृ॒हमिन्द्र॑श्च॒ गन्व॑हि ।  
+मध्वः॑ पी॒त्वा स॑चेवहि॒ त्रिः स॒प्त सख्युः॑ प॒दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     topographic point; path; residence; site; topic.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -83,7 +84,12 @@ vā́jasya ← vā́ja- (nominal stem)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भा वा॑मिन्द्राग्नी आहु॒वध्या॑ उ॒भा राध॑सः स॒ह मा॑द॒यध्यै॑ ।  
+उ॒भा दा॒तारा॑वि॒षां र॑यी॒णामु॒भा वाज॑स्य सा॒तये॑ हुवे वाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -232,7 +237,6 @@ _____________
 इन्द्राग्नी उभौ युवां, द्वितीयाद्विवचनम् । आहुवे आह्वयामि । किमर्थं? आहुवध्यै आभिमुख्येन होतुं उपस्थानेनाराधयितुमित्यर्थः । इह जुहोतिस्स्तुतिकर्मा ।   
 
 किञ्च - राधसः रायो धनं हविर्लक्षणं स्तुतिर्वा । तृतीयार्थे षष्ठी । हेतौ वा पश्चमी । उभौ युवां सहैव नैकैकशः राधसः मादयध्यै मादयितूं सहैव तर्पयितुमाह्वयामि । अनयोरेवाह्वाने हेतुमाह - उभेति । युवामेव ह्युभौ इषामन्नानां रयीणां धनानां क्षेत्रपुत्रपश्वदीनां दातारौ । तस्माद्वाजस्यान्नस्य सातये लाभाय प्राप्त्यै तादृशावुभौ वां युवां हुवे आह्वयामि स्तौमि ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -249,12 +253,6 @@ You both, Indra and Agni, are to be called upon; both together are to  invigorat
 You both are givers of refreshments, of riches; you both do I call upon  to win the victory prize.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the insistent ubhā́see published introduction.
-
-I have taken āhuvádhyai (and mādayádhyai) as predicated infinitives with the subj. ubhā́, as does Renou However, vām in pāda a makes some difficulties for this interpr., and Geldner takes that pāda (but not b) as having an implicit 1st ps. subj.: “euch beide … will ich herrufen” (a) versus “beiden sollen sich … erfreuen” for mādayádhyai (b). I think the two clauses should be parallel and therefore take vām as a dependent gen. on ubhā́(“both of you two”), although it must be admitted that ubhá- generally agrees with its referent in case.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -262,7 +260,6 @@ On the connection of these vss. to the hymn, see published introduction. For the
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

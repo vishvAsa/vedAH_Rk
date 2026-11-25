@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ vadema ← √vadⁱ- (root)
 
 vidáthe ← vidátha- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+माहं म॒घोनो॑ वरुण प्रि॒यस्य॑ भूरि॒दाव्न॒ आ वि॑दं॒ शून॑मा॒पेः ।  
+मा रा॒यो रा॑जन्त्सु॒यमा॒दव॑ स्थां बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

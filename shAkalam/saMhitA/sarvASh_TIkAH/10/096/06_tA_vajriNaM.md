@@ -4,6 +4,7 @@ devataa = "हरिस्तुतिः"
 RShiH = "बरुः सर्वहरिर्वैन्द्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हरिस्तुतिः
@@ -86,7 +87,12 @@ hárayaḥ ← hári- (nominal stem)
 
 sómāḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता व॒ज्रिणं॑ म॒न्दिनं॒ स्तोम्यं॒ मद॒ इन्द्रं॒ रथे॑ वहतो हर्य॒ता हरी॑ ।  
+पु॒रूण्य॑स्मै॒ सव॑नानि॒ हर्य॑त॒ इन्द्रा॑य॒ सोमा॒ हर॑यो दधन्विरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “run.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

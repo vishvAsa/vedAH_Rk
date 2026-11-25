@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ sī́dantu ← √sad- (root)
 
 yathā ← yathā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ ब॒र्ही रि॒शाद॑सो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+सीद॑न्तु॒ मनु॑षो यथा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ vŕ̥thak ← vŕ̥thak (invariable)
 
 yátante ← √yat- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हर॑यो धू॒मके॑तवो॒ वात॑जूता॒ उप॒ द्यवि॑ ।  
+यत॑न्ते॒ वृथ॑ग॒ग्नयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,7 +161,6 @@ take up opposing positions—the fires.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/043/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -164,7 +168,6 @@ vṛ́thak is found only in these two vss. It is generally considered to be a fo
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

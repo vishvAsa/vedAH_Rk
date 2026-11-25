@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -95,7 +96,12 @@ sómasya ← sóma- (nominal stem)
 
 sutásya ← √su- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदब्र॑वं प्रथ॒मं वां॑ वृणा॒नो॒३॒॑ऽयं सोमो॒ असु॑रैर्नो वि॒हव्यः॑ ।  
+तां स॒त्यां श्र॒द्धाम॒भ्या हि या॒तमथा॒ सोम॑स्य पिबतं सु॒तस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

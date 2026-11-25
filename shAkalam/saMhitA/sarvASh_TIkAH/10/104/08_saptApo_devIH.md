@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्टको वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ mánuṣe ← mánus- (nominal stem)
 
 vindaḥ ← √vid- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्तापो॑ दे॒वीः सु॒रणा॒ अमृ॑क्ता॒ याभिः॒ सिन्धु॒मत॑र इन्द्र पू॒र्भित् ।  
+न॒व॒तिं स्रो॒त्या नव॑ च॒ स्रव॑न्तीर्दे॒वेभ्यो॑ गा॒तुं मनु॑षे च विन्दः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “find; detect; marry; get; think.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

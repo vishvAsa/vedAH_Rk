@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ sahá ← sahá (invariable)
 
 tŕ̥ṣṇayā ← tŕ̥ṣṇā- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मो षु णः॒ परा॑परा॒ निरृ॑तिर्दु॒र्हणा॑ वधीत् ।  
+प॒दी॒ष्ट तृष्ण॑या स॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “together; together; with; jointly; together; saha \[word\]; along.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

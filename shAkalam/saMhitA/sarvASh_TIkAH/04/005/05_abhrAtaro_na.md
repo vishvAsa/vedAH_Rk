@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -80,7 +81,12 @@ idám ← ayám (pronoun)
 
 padám ← padá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भ्रा॒तरो॒ न योष॑णो॒ व्यन्तः॑ पति॒रिपो॒ न जन॑यो दु॒रेवाः॑ ।  
+पा॒पासः॒ सन्तो॑ अनृ॒ता अ॑स॒त्या इ॒दं प॒दम॑जनता गभी॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     mysterious; deep; countless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

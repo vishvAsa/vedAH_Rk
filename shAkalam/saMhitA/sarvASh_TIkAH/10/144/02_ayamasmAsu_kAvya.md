@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुपर्णस्तार्क्ष्यपुत्र ऊर्ध्वकृशनो वा यामायनः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ ná ← ná (invariable)
 
 r̥bhúḥ ← r̥bhú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यम॒स्मासु॒ काव्य॑ ऋ॒भुर्वज्रो॒ दास्व॑ते ।  
+अ॒यं बि॑भर्त्यू॒र्ध्वकृ॑शनं॒ मद॑मृ॒भुर्न कृत्व्यं॒ मद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

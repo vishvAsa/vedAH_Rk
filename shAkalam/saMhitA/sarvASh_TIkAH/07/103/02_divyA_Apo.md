@@ -4,6 +4,7 @@ devataa = "मंडूकाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मंडूकाः
@@ -95,7 +96,12 @@ sám ← sám (invariable)
 
 vagnúḥ ← vagnú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒व्या आपो॑ अ॒भि यदे॑न॒माय॒न्दृतिं॒ न शुष्कं॑ सर॒सी शया॑नम् ।  
+गवा॒मह॒ न मा॒युर्व॒त्सिनी॑नां म॒ण्डूका॑नां व॒ग्नुरत्रा॒ समे॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

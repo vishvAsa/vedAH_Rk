@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -54,7 +54,11 @@ cíketat ← √cit- (root)
 
 sáṁjñātarūpaḥ ← sáṁjñātarūpa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒षो न जा॒रो वि॒भावो॒स्रः संज्ञा॑तरूप॒श्चिके॑तदस्मै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +124,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -172,10 +175,6 @@ Wie der Buhle der Morgenröte, der Erheller des Morgens, erscheine er diesem in 
 
 Als lichter Buhle – der Morgenröthe, von gleicher Farbe – erschein er diesem; Die Thore öffnen – sie selbst, ihn fahrend; es jauchzen alle, – den Glanz erblickend.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

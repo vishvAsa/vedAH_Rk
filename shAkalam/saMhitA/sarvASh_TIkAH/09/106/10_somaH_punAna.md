@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्निः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ pávamānaḥ ← √pū- (root)
 
 vācáḥ ← vā́c- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमः॑ पुना॒न ऊ॒र्मिणाव्यो॒ वारं॒ वि धा॑वति ।  
+अग्रे॑ वा॒चः पव॑मानः॒ कनि॑क्रदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “roar; neigh.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -169,14 +174,12 @@ Soma, being purified in a wave, runs across the fleece of the sheep, at the fore
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 In all cases it’s possible to detach the last four syllables, but Oldenberg considers this tṛca to belong with those in which those syllables are integrated into a Jagatī line. As for thematic unity, all three vss. concern Soma’s journey (but then what vss. do not?), and the 1st two mention the sheep’s fleece filter. All three also concern the role of the verbal portion of the ritual and Soma’s relation to it: he is “at the forefront of speech” (ágre vācáḥ) in 10c and begets speech (vā́caṃ janáyan) in 12c, while insights (dhī-) are used to impel him in 11a and thoughts (matí-) sound towards him in 11c.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

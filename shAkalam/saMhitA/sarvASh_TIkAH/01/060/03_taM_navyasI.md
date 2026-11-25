@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ jī́jananta ← √janⁱ- (root)
 
 práyasvantaḥ ← práyasvant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं नव्य॑सी हृ॒द आ जाय॑मानम॒स्मत्सु॑की॒र्तिर्मधु॑जिह्वमश्याः ।  
+यमृ॒त्विजो॑ वृ॒जने॒ मानु॑षासः॒ प्रय॑स्वन्त आ॒यवो॒ जीज॑नन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “move over; yield; give way.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सारिसृक्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ nyàṅ ← nyàñc- (nominal stem)
 
 uttānā́m ← uttāná- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रत्य॑स्य॒ श्रेण॑यो ददृश्र॒ एकं॑ नि॒यानं॑ ब॒हवो॒ रथा॑सः ।  
+बा॒हू यद॑ग्ने अनु॒मर्मृ॑जानो॒ न्य॑ङ्ङुत्ता॒नाम॒न्वेषि॒ भूमि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     distance; country; space; land; territory; topographic point.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

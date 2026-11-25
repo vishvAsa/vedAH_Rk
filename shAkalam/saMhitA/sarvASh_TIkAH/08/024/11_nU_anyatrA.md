@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -72,7 +73,12 @@ táva ← tvám (pronoun)
 
 ūtíbhiḥ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू अ॒न्यत्रा॑ चिदद्रिव॒स्त्वन्नो॑ जग्मुरा॒शसः॑ ।  
+मघ॑वञ्छ॒ग्धि तव॒ तन्न॑ ऊ॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

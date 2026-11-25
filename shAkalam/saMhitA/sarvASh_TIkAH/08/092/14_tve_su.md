@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ ricyate ← √ric- (root)
 
 tvā́m ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे सु पु॑त्र शव॒सोऽवृ॑त्र॒न्काम॑कातयः ।  
+न त्वामि॒न्द्राति॑ रिच्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “empty; liberate; concede; surrender; purge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

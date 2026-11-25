@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -83,7 +84,12 @@ cákṣase ← cákṣas- (nominal stem)
 
 víśvasmai ← víśva- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒ त्यद्द॑र्श॒तं वपु॑र्दि॒व ए॑ति प्रतिह्व॒रे ।  
+यदी॑मा॒शुर्वह॑ति दे॒व एत॑शो॒ विश्व॑स्मै॒ चक्ष॑से॒ अर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

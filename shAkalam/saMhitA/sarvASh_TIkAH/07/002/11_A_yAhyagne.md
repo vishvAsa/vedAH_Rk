@@ -4,6 +4,7 @@ devataa = "स्वाहाकृतयः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वाहाकृतयः
@@ -86,7 +87,12 @@ mādayantām ← √mad- (root)
 
 svā́hā ← svā́hā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ या॑ह्यग्ने समिधा॒नो अ॒र्वाङिन्द्रे॑ण दे॒वैः स॒रथं॑ तु॒रेभिः॑ ।  
+ब॒र्हिर्न॑ आस्ता॒मदि॑तिः सुपु॒त्रा स्वाहा॑ दे॒वा अ॒मृता॑ मादयन्ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

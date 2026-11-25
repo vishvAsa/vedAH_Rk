@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -63,7 +64,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं मृ॒गं जा॑गृ॒वांसं॒ स्वद॑थो वा वृषण्वसू ।  
+ता नः॑ पृङ्क्तमि॒षा र॒यिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

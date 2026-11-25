@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ dhī́rāḥ ← dhī́ra- (nominal stem)
 
 ichántaḥ ← √iṣ- 2 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं वि॒धन्तो॑ अ॒पां स॒धस्थे॑ प॒शुं न न॒ष्टं प॒दैरनु॑ ग्मन् ।  
+गुहा॒ चत॑न्तमु॒शिजो॒ नमो॑भिरि॒च्छन्तो॒ धीरा॒ भृग॑वोऽविन्दन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “find; detect; marry; get; think.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

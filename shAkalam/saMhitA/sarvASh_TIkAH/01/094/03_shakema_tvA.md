@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -101,7 +102,12 @@ táva ← tvám (pronoun)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒केम॑ त्वा स॒मिधं॑ सा॒धया॒ धिय॒स्त्वे दे॒वा ह॒विर॑द॒न्त्याहु॑तम् ।  
+त्वमा॑दि॒त्याँ आ व॑ह॒ तान्ह्यु१॒॑श्मस्यग्ने॑ स॒ख्ये मा रि॑षामा व॒यं तव॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +263,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

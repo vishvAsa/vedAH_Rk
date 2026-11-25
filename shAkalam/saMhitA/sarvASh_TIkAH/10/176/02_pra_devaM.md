@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सूनुरार्भवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ naḥ ← ahám (pronoun)
 
 vakṣat ← √vah- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र दे॒वं दे॒व्या धि॒या भर॑ता जा॒तवे॑दसम् ।  
+ह॒व्या नो॑ वक्षदानु॒षक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “correctly; in sequence; punctually.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

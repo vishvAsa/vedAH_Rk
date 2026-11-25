@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ sám ← sám (invariable)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे॒षासो॑ अ॒ग्नेरम॑वन्तो अ॒र्चयो॑ भी॒मासो॒ न प्रती॑तये ।  
+र॒क्ष॒स्विनः॒ सद॒मिद्या॑तु॒माव॑तो॒ विश्वं॒ सम॒त्रिणं॑ दह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
     distress; destroy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

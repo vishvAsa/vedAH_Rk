@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -68,7 +69,12 @@ ghr̥taścútam ← ghr̥taścút- (nominal stem)
 
 íṣam ← íṣ- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वां॑ नासत्या॒वृषि॑र्गी॒र्भिर्व॒त्सो अवी॑वृधत् ।  
+तस्मै॑ स॒हस्र॑निर्णिज॒मिषं॑ धत्तं घृत॒श्चुत॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “ghee-dripping.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -189,10 +194,6 @@ O Nāsatyas, the seer Vatsa, who has strengthened you with his hymns, for him pr
 with ghee.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich reprises 8cd, but in this vs. the poet asks for something in response to his strengthening hymns.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/008/15-16.md">
 <details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -200,7 +201,6 @@ Another example of chained vocabulary: ghṛtaścút- ‘dripping with ghee’, 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

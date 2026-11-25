@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सदापृण आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ arvā́k ← arvā́ñc- (nominal stem)
 
 atiṣṭhan ← √sthā- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ सूर्यो॑ अरुहच्छु॒क्रमर्णोऽयु॑क्त॒ यद्ध॒रितो॑ वी॒तपृ॑ष्ठाः ।  
+उ॒द्ना न नाव॑मनयन्त॒ धीरा॑ आशृण्व॒तीरापो॑ अ॒र्वाग॑तिष्ठन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

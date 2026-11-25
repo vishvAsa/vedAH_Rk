@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ ca ← ca (invariable)
 
 sunvát ← √su- (root)  
 {case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒क्षेवृ॑क्षे॒ निय॑ता मीमय॒द्गौस्ततो॒ वयः॒ प्र प॑तान्पूरु॒षादः॑ ।  
+अथे॒दं विश्वं॒ भुव॑नं भयात॒ इन्द्रा॑य सु॒न्वदृष॑ये च॒ शिक्ष॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “help; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

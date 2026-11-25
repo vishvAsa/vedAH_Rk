@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ jyótiḥ ← jyótis- (nominal stem)
 
 urú ← urú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे अ॑सु॒र्यं१॒॑ वस॑वो॒ न्यृ॑ण्व॒न्क्रतुं॒ हि ते॑ मित्रमहो जु॒षन्त॑ ।  
+त्वं दस्यूँ॒रोक॑सो अग्न आज उ॒रु ज्योति॑र्ज॒नय॒न्नार्या॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “Ārya; Ārya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

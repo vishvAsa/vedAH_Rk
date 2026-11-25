@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -86,7 +87,12 @@ saparyátaḥ ← √sapary- (root)
 
 śrávaḥ ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॑ म॒हे मन्द॑माना॒यान्ध॒सोऽर्चा॑ वि॒श्वान॑राय विश्वा॒भुवे॑ ।  
+इन्द्र॑स्य॒ यस्य॒ सुम॑खं॒ सहो॒ महि॒ श्रवो॑ नृ॒म्णं च॒ रोद॑सी सप॒र्यतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

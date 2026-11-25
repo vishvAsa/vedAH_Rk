@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "धरुण आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ tmánā ← tmán- (nominal stem)
 
 víṣurūpaḥ ← víṣurūpa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा॒तेव॒ यद्भर॑से पप्रथा॒नो जनं॑जनं॒ धाय॑से॒ चक्ष॑से च ।  
+वयो॑वयो जरसे॒ यद्दधा॑नः॒ परि॒ त्मना॒ विषु॑रूपो जिगासि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "बर्हिः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बर्हिः
@@ -74,7 +75,12 @@ havíṣā ← havís- (nominal stem)
 
 marjayadhvam ← √mr̥j- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प॒र्यवो॒ भर॑माणा अभि॒ज्ञु प्र वृ॑ञ्जते॒ नम॑सा ब॒र्हिर॒ग्नौ ।  
+आ॒जुह्वा॑ना घृ॒तपृ॑ष्ठं॒ पृष॑द्व॒दध्व॑र्यवो ह॒विषा॑ मर्जयध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - \[verb\], plural, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

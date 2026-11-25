@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ dadhire ← √dhā- 1 (root)
 
 tveṣám ← tveṣá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने समिधा॒नं य॑विष्ठ्य दे॒वा दू॒तं च॑क्रिरे हव्य॒वाह॑नम् ।  
+उ॒रु॒ज्रय॑सं घृ॒तयो॑नि॒माहु॑तं त्वे॒षं चक्षु॑र्दधिरे चोद॒यन्म॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     desire; wish; conviction; plan; devotion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

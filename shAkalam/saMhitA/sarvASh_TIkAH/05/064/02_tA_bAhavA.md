@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -74,7 +75,12 @@ kṣā́su ← kṣám- (nominal stem)
 
 víśvāsu ← víśva- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता बा॒हवा॑ सुचे॒तुना॒ प्र य॑न्तमस्मा॒ अर्च॑ते ।  
+शेवं॒ हि जा॒र्यं॑ वां॒ विश्वा॑सु॒ क्षासु॒ जोगु॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

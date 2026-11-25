@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ svásarāṇi ← svásara- (nominal stem)
 
 vā́taḥ ← vā́ta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिर्नो॑ अश्विना यज॒ता दि॒वेदि॑वे॒ परि॑ त्रि॒धातु॑ पृथि॒वीम॑शायतम् ।  
+ति॒स्रो ना॑सत्या रथ्या परा॒वत॑ आ॒त्मेव॒ वातः॒ स्वस॑राणि गच्छतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

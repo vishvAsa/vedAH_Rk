@@ -5,13 +5,13 @@ RShiH = "गौपायना लौपायना वा बन्धुः �
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - गौपायना लौपायना वा बन्धुः सुबन्धुः श्रुतबन्धुर्विप्रबन्धुश्च
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -57,7 +57,11 @@ utá ← utá (invariable)
 
 varūthyàḥ ← varūthyà- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ त्वं नो॒ अन्त॑म उ॒त त्रा॒ता शि॒वो भ॑वा वरू॒थ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +130,6 @@ _________
 - “protecting.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -185,8 +188,6 @@ O Agni, sei recht nahe uns, und sei ein holder Retter, ein Beschirmer;
 Добрый Агни, с доброй славой...  
 Доберись до (нас), надели самым сверкающим богатством!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

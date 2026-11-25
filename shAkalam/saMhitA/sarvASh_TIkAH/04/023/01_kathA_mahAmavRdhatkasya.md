@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ r̥ṣváḥ ← r̥ṣvá- (nominal stem)
 
 vavakṣé ← √vakṣ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था म॒हाम॑वृध॒त्कस्य॒ होतु॑र्य॒ज्ञं जु॑षा॒णो अ॒भि सोम॒मूधः॑ ।  
+पिब॑न्नुशा॒नो जु॒षमा॑णो॒ अन्धो॑ वव॒क्ष ऋ॒ष्वः शु॑च॒ते धना॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     dhan; capital; fight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

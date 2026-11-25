@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ mā́nuṣīṣu ← mā́nuṣa- (nominal stem)
 
 vikṣú ← víś- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्य वां॑ पूर्व॒गत्वे॑व॒ सख्ये॑ नि॒धिर्हि॒तो मा॑ध्वी रा॒तो अ॒स्मे ।  
+अहे॑ळता॒ मन॒सा या॑तम॒र्वाग॒श्नन्ता॑ ह॒व्यं मानु॑षीषु वि॒क्षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

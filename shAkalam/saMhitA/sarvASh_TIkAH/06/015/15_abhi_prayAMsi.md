@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "शक्वरी"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - शक्वरी
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -105,7 +105,12 @@ tarema ← √tr̥̄- 1 (root)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्रयां॑सि॒ सुधि॑तानि॒ हि ख्यो नि त्वा॑ दधीत॒ रोद॑सी॒ यज॑ध्यै ।  
+अवा॑ नो मघव॒न्वाज॑साता॒वग्ने॒ विश्वा॑नि दुरि॒ता त॑रेम॒ ता त॑रेम॒ तवाव॑सा तरेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -265,7 +270,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -319,8 +323,6 @@ So sieh dir an die wohlgesetzten Speisen; dich wählt man gern zu opfern beiden 
 О Агни, пусть пересечем мы все трудности!  
 Пусть пересечем мы их, пусть пересечем с твоей помощью!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

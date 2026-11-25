@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ mātŕ̥bhyaḥ ← mātár- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स जा॒तो गर्भो॑ असि॒ रोद॑स्यो॒रग्ने॒ चारु॒र्विभृ॑त॒ ओष॑धीषु ।  
+चि॒त्रः शिशुः॒ परि॒ तमां॑स्य॒क्तून्प्र मा॒तृभ्यो॒ अधि॒ कनि॑क्रदद्गाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

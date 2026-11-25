@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ santu ← √as- 1 (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त्वा॑ विशन्त्वा॒शवः॒ सोमा॑स इन्द्र गिर्वणः ।  
+शं ते॑ सन्तु॒ प्रचे॑तसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “intelligent; mindful; attentive; wise; apt; observant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

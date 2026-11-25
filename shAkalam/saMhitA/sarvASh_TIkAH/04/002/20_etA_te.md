@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 yandhi ← √yam- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ता ते॑ अग्न उ॒चथा॑नि वे॒धोऽवो॑चाम क॒वये॒ ता जु॑षस्व ।  
+उच्छो॑चस्व कृणु॒हि वस्य॑सो नो म॒हो रा॒यः पु॑रुवार॒ प्र य॑न्धि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

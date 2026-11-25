@@ -4,6 +4,7 @@ devataa = "अग्नीषोमौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नीषोमौ
@@ -86,7 +87,12 @@ bahúbhyaḥ ← bahú- (nominal stem)
 
 jyótiḥ ← jyótis- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्नी॑षोमा॒ चेति॒ तद्वी॒र्यं॑ वां॒ यदमु॑ष्णीतमव॒सं प॒णिं गाः ।  
+अवा॑तिरतं॒ बृस॑यस्य॒ शेषोऽवि॑न्दतं॒ ज्योति॒रेकं॑ ब॒हुभ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     in(p); perennial.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ dúryān ← dúrya- (nominal stem)
 
 priyā́ḥ ← priyá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वा॑मगन्त्सुम॒तिर्वा॑जिनीवसू॒ न्य॑श्विना हृ॒त्सु कामा॑ अयंसत ।  
+अभू॑तं गो॒पा मि॑थु॒ना शु॑भस्पती प्रि॒या अ॑र्य॒म्णो दुर्याँ॑ अशीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

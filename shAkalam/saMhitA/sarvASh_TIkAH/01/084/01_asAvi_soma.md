@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ raśmíbhiḥ ← raśmí- (nominal stem)
 
 sū́ryaḥ ← sū́rya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असा॑वि॒ सोम॑ इन्द्र ते॒ शवि॑ष्ठ धृष्ण॒वा ग॑हि ।  
+आ त्वा॑ पृणक्त्विन्द्रि॒यं रजः॒ सूर्यो॒ न र॒श्मिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “beam; rein; sunbeam; shininess; cord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

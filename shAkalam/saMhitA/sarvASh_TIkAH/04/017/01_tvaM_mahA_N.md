@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ síndhūn ← síndhu- (nominal stem)
 
 sr̥jáḥ ← √sr̥j- (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं म॒हाँ इ॑न्द्र॒ तुभ्यं॑ ह॒ क्षा अनु॑ क्ष॒त्रं मं॒हना॑ मन्यत॒ द्यौः ।  
+त्वं वृ॒त्रं शव॑सा जघ॒न्वान्त्सृ॒जः सिन्धूँ॒रहि॑ना जग्रसा॒नान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     eat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,10 +254,6 @@ magnanimously yield dominion.
 After you smashed Vr̥tra with your strength, you let loose the rivers,  which had been swallowed by the serpent.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The pair “earth / heaven” occupy the final slots of the first two pādas: … kṣā́(ḥ)# … dyaúḥ#, with a shared 3rd singular verb ánu … manyata. Note that there also exists a dual dvandva containing these stems: dyā́vā-kṣā́mā. The 2nd hemistich contains two pf. participles expressing action anterior to the main verb (sṛjáḥ): jaghanvā́n ‘having smashed’ and jagrasānā́n ‘having been swallowed’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
 <details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -260,7 +261,6 @@ Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disrup
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

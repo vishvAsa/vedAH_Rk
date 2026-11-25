@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ nú ← nú (invariable)
 
 spárase ← √spr̥- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गोभि॑र्वा॒णो अ॑ज्यते॒ सोभ॑रीणां॒ रथे॒ कोशे॑ हिर॒ण्यये॑ ।  
+गोब॑न्धवः सुजा॒तास॑ इ॒षे भु॒जे म॒हान्तो॑ नः॒ स्पर॑से॒ नु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “now; already.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सविता भगो वा"
 RShiH = "शुनःशेप आजीगर्तिः | कृत्रिमो वैश्वामित्रो देवरातः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता भगो वा
@@ -60,7 +61,12 @@ mūrdhā́nam ← mūrdhán- (nominal stem)
 
 rāyáḥ ← rayí- ~ rāy- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भग॑भक्तस्य ते व॒यमुद॑शेम॒ तवाव॑सा ।  
+मू॒र्धानं॑ रा॒य आ॒रभे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “begin; begin; undertake; do; take.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

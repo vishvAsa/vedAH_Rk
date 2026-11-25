@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -72,7 +73,12 @@ hí ← hí (invariable)
 
 vaśī́ ← vaśín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नः॒ सेतुः॑ सिषेद॒यं म॒हे वृ॑णक्तु न॒स्परि॑ ।  
+इन्द्र॒ इद्धि श्रु॒तो व॒शी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “powerful; controlling; regnant; authoritative.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

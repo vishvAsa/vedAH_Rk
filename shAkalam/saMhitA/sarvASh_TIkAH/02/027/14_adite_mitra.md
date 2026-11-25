@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -101,7 +102,12 @@ naśan ← √naś- 1 (root)
 
 támisrāḥ ← támisrā- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अदि॑ते॒ मित्र॒ वरु॑णो॒त मृ॑ळ॒ यद्वो॑ व॒यं च॑कृ॒मा कच्चि॒दागः॑ ।  
+उ॒र्व॑श्या॒मभ॑यं॒ ज्योति॑रिन्द्र॒ मा नो॑ दी॒र्घा अ॒भि न॑श॒न्तमि॑स्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
 - “tamisrā \[word\]; night.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

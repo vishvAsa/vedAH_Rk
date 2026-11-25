@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ indra ← índra- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यच्चि॒द्धि ते॒ अपि॒ व्यथि॑र्जग॒न्वांसो॒ अम॑न्महि ।  
+गो॒दा इदि॑न्द्र बोधि नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

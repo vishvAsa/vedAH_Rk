@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गय आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ svadhvarám ← svadhvará- (nominal stem)
 
 viśā́m ← víś- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्म॒ यं शिशुं॑ यथा॒ नवं॒ जनि॑ष्टा॒रणी॑ ।  
+ध॒र्तारं॒ मानु॑षीणां वि॒शाम॒ग्निं स्व॑ध्व॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

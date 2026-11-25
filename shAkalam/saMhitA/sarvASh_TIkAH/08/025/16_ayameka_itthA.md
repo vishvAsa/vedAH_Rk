@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -69,7 +70,12 @@ vaḥ ← tvám (pronoun)
 
 vratā́ni ← vratá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यमेक॑ इ॒त्था पु॒रूरु च॑ष्टे॒ वि वि॒श्पतिः॑ ।  
+तस्य॑ व्र॒तान्यनु॑ वश्चरामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
     heed; process; administer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

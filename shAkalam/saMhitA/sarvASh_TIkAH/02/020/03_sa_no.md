@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराड्रूपा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ praṇéṣat ← √nī- (root)
 
 stuvántam ← √stu- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॒ युवेन्द्रो॑ जो॒हूत्रः॒ सखा॑ शि॒वो न॒राम॑स्तु पा॒ता ।  
+यः शंस॑न्तं॒ यः श॑शमा॒नमू॒ती पच॑न्तं च स्तु॒वन्तं॑ च प्र॒णेष॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “enforce; lead; produce.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

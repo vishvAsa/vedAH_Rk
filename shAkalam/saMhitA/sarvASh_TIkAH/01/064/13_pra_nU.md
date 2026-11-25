@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -101,7 +102,12 @@ kṣeti ← √kṣi- (root)
 
 púṣyati ← √puṣ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र नू स मर्तः॒ शव॑सा॒ जनाँ॒ अति॑ त॒स्थौ व॑ ऊ॒ती म॑रुतो॒ यमाव॑त ।  
+अर्व॑द्भि॒र्वाजं॑ भरते॒ धना॒ नृभि॑रा॒पृच्छ्यं॒ क्रतु॒मा क्षे॑ति॒ पुष्य॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +263,6 @@ _________
 - “boom; grow; promote; foster.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

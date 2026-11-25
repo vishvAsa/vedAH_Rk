@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ
@@ -77,7 +78,12 @@ ugrā ← ugrá- (nominal stem)
 
 vivyathuḥ ← √vyā- (root)  
 {number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑सोमा यु॒वम॒ङ्ग तरु॑त्रमपत्य॒साचं॒ श्रुत्यं॑ रराथे ।  
+यु॒वं शुष्मं॒ नर्यं॑ चर्ष॒णिभ्यः॒ सं वि॑व्यथुः पृतना॒षाह॑मुग्रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
     atrocious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ pŕ̥ṣatīḥ ← pŕ̥ṣant- (nominal stem)
 
 vŕ̥ṣavrātāsaḥ ← vŕ̥ṣavrāta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि ये भ्राज॑न्ते॒ सुम॑खास ऋ॒ष्टिभिः॑ प्रच्या॒वय॑न्तो॒ अच्यु॑ता चि॒दोज॑सा ।  
+म॒नो॒जुवो॒ यन्म॑रुतो॒ रथे॒ष्वा वृष॑व्रातासः॒ पृष॑ती॒रयु॑ग्ध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     affect; challenge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -245,14 +250,6 @@ When, o Maruts, in a bullish troop you have yoked the mind-swift
 dappled mares to your chariots,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This verse contains no main clause, just two different subordinate clauses introduced by yé (ab) and yád (cd) respectively, with the first couched in the 3rd ps., the second in the 2nd ps. Although such switches of person in the middle of a verse are far from rare in the RV (see in fact vs. 5), in this case it seems best to consider the first half of this verse a pendant to vs. 3 (also in the 3rd ps.) and the second half an anticipation of vs. 5 (also in the 2nd ps.), esp. since 5a is an abbreviated duplicate of 4cd.
-
-The adj. manojúvaḥ ‘mind-swift’ could equally well be a nom. pl. masc.
-
-modifying the Maruts or an acc. pl. fem. modifying pṛ́ṣatīḥ. Most tr. opt for the latter, I think correctly on thematic grounds, but grammatically and semantically either is possible. Grassmann and Macdonell (Vedic Reader) take it as a nominative; certainly its position right before marutaḥ in pāda a, with pŕṣatīḥ appearing only in the middle of the second pāda, suggests that the initial audience interpretation would be as a modifier of the Maruts.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/085/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -260,7 +257,6 @@ Verse 5 is an intrusive Triṣṭubh in this Jagatī hymn. (The final verse is a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

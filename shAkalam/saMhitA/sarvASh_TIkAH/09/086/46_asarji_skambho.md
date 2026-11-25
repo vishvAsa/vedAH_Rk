@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गृत्समदः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ yádi ← yádi (invariable)
 
 yayúḥ ← √yā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस॑र्जि स्क॒म्भो दि॒व उद्य॑तो॒ मदः॒ परि॑ त्रि॒धातु॒र्भुव॑नान्यर्षति ।  
+अं॒शुं रि॑हन्ति म॒तयः॒ पनि॑प्नतं गि॒रा यदि॑ नि॒र्णिज॑मृ॒ग्मिणो॑ य॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,22 +254,6 @@ The thoughts lick the plant that always excites wonder, when the
 versifiers have come to array it with a hymn.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In pāda a skambhó diváḥ reminds us of 35d divó viṣṭambháḥ with a diff.
-
-lexical real On tridhā́tu- see comm. ad IX.70.8.
-
-Pāda c aṃśúṃ rihanti matáyaḥ pánipnatam is identical to 31d, save for the first word, which in 31 is śíśum.
-
-In d yádi would be best read yád *ī, both for sense and for meter, since an opening with light syllables in positions 3 and 4 before an early caesura is very rare (see Arnold 194).
-
-Geldner tr. nirṇíjam … yayúḥ as “Staat machen” (make a show), based, he says (n.
-
-46d), on śúbhaṃ yā. I see no reason to attenuate the sense of nirṇíj-. As Scarlatta (284- 85) argues, this stem can be both a concrete noun ‘garment’ and an infin. ‘to array’.
-
-The infinitival usages he cites are mostly the dat. nirṇíje (which, in all quoted cases, I take as a noun) and he is uncertain about the usage of this acc. ex. But since the analysis just proposed of yád *ī provides us with an acc. obj., infinitival usage seems best here.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md">
 <details><summary><h2>46-48 ...{Loading}...</h2></summary>
 
@@ -272,7 +261,6 @@ The hymn ends with a tṛca no more unified than most of those that preceded it,
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

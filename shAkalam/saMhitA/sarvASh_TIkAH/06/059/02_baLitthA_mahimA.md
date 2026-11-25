@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -74,7 +75,12 @@ ihéhamātarā ← ihéhamātar- (nominal stem)
 
 yamaú ← yamá- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बळि॒त्था म॑हि॒मा वा॒मिन्द्रा॑ग्नी॒ पनि॑ष्ठ॒ आ ।  
+स॒मा॒नो वां॑ जनि॒ता भ्रात॑रा यु॒वं य॒मावि॒हेह॑मातरा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

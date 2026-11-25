@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ paśúm ← paśú- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तोमं॑ त इन्द्र विम॒दा अ॑जीजन॒न्नपू॑र्व्यं पुरु॒तमं॑ सु॒दान॑वे ।  
+वि॒द्मा ह्य॑स्य॒ भोज॑नमि॒नस्य॒ यदा प॒शुं न गो॒पाः क॑रामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

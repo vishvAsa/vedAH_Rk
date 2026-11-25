@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नभःप्रभेदनो वैरूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ gā́m ← gáv- ~ gó- (nominal stem)
 
 suvedanā́m ← suvedaná- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र त॑ इन्द्र पू॒र्व्याणि॒ प्र नू॒नं वी॒र्या॑ वोचं प्रथ॒मा कृ॒तानि॑ ।  
+स॒ती॒नम॑न्युरश्रथायो॒ अद्रिं॑ सुवेद॒नाम॑कृणो॒र्ब्रह्म॑णे॒ गाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

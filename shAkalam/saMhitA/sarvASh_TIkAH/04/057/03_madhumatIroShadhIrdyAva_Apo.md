@@ -4,6 +4,7 @@ devataa = "क्षेत्रपतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - क्षेत्रपतिः
@@ -83,7 +84,12 @@ carema ← √carⁱ- (root)
 
 enam ← ena- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मधु॑मती॒रोष॑धी॒र्द्याव॒ आपो॒ मधु॑मन्नो भवत्व॒न्तरि॑क्षम् ।  
+क्षेत्र॑स्य॒ पति॒र्मधु॑मान्नो अ॒स्त्वरि॑ष्यन्तो॒ अन्वे॑नं चरेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     heed; process; administer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

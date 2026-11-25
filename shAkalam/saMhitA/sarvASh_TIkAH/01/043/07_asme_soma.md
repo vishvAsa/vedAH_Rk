@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -63,7 +64,12 @@ máhi ← máh- (nominal stem)
 
 tuvinr̥mṇám ← tuvinr̥mṇá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे सो॑म॒ श्रिय॒मधि॒ नि धे॑हि श॒तस्य॑ नृ॒णाम् ।  
+महि॒ श्रव॑स्तुविनृ॒म्णम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “manhood; power.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

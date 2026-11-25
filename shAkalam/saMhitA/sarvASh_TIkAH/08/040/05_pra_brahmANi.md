@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "नाभाकः काण्वः"
 ChandaH = "महापङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -84,7 +85,12 @@ nábhantām ← √nabh- 1 (root)
 
 same ← sama- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ब्रह्मा॑णि नभाक॒वदि॑न्द्रा॒ग्निभ्या॑मिरज्यत ।  
+या स॒प्तबु॑ध्नमर्ण॒वं जि॒ह्मबा॑रमपोर्णु॒त इन्द्र॒ ईशा॑न॒ ओज॑सा॒ नभ॑न्तामन्य॒के स॑मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     exact; calm; straight; even; wide.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

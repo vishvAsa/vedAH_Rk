@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ véṣi ← √vī- 1 (root)
 
 yádi ← yádi (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा हि ते॒ शं सव॑ना समु॒द्र आपो॒ यत्त॑ आ॒सु मद॑न्ति दे॒वीः ।  
+विश्वा॑ ते॒ अनु॒ जोष्या॑ भू॒द्गौः सू॒रीँश्चि॒द्यदि॑ धि॒षा वेषि॒ जना॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -263,7 +269,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -88,7 +89,12 @@ yám ← yá- (pronoun)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒ष॒भो न ति॒ग्मशृ॑ङ्गो॒ऽन्तर्यू॒थेषु॒ रोरु॑वत् ।  
+म॒न्थस्त॑ इन्द्र॒ शं हृ॒दे यं ते॑ सु॒नोति॑ भाव॒युर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

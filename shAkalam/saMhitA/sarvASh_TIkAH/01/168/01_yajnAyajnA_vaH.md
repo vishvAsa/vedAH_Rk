@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)
 
 vavr̥tyām ← √vr̥t- (root)  
 {number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञाय॑ज्ञा वः सम॒ना तु॑तु॒र्वणि॒र्धियं॑धियं वो देव॒या उ॑ दधिध्वे ।  
+आ वो॒ऽर्वाचः॑ सुवि॒ताय॒ रोद॑स्योर्म॒हे व॑वृत्या॒मव॑से सुवृ॒क्तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

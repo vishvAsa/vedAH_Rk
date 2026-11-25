@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -86,7 +87,12 @@ dahantu ← √dah- (root)
 
 śóśucataḥ ← √śuc- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नो॑ अग्ने अध॒रादुद॑क्ता॒त्त्वं प॒श्चादु॒त र॑क्षा पु॒रस्ता॑त् ।  
+प्रति॒ ते ते॑ अ॒जरा॑स॒स्तपि॑ष्ठा अ॒घशं॑सं॒ शोशु॑चतो दहन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     distress; destroy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

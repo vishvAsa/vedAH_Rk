@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ satyadhvŕ̥tam ← satyadhvŕ̥t- (nominal stem)
 
 vr̥jināyántam ← √vr̥jināy- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस॒त्सु मे॑ जरितः॒ साभि॑वे॒गो यत्सु॑न्व॒ते यज॑मानाय॒ शिक्ष॑म् ।  
+अना॑शीर्दाम॒हम॑स्मि प्रह॒न्ता स॑त्य॒ध्वृतं॑ वृजिना॒यन्त॑मा॒भुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “stingy; empty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शासो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ abhidā́sataḥ ← √dās- (root)
 
 amítrasya ← amítra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि रक्षो॒ वि मृधो॑ जहि॒ वि वृ॒त्रस्य॒ हनू॑ रुज ।  
+वि म॒न्युमि॑न्द्र वृत्रहन्न॒मित्र॑स्याभि॒दास॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “threaten; endanger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "यमः"
 RShiH = "कुमारो यामायनः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -80,7 +81,12 @@ nāví ← naú- ~ nā́v- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं कु॑मार॒ प्राव॑र्तयो॒ रथं॒ विप्रे॑भ्य॒स्परि॑ ।  
+तं सामानु॒ प्राव॑र्तत॒ समि॒तो ना॒व्याहि॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

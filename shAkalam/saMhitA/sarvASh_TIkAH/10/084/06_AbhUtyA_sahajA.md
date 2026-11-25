@@ -4,6 +4,7 @@ devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मन्युः
@@ -83,7 +84,12 @@ puruhūta ← puruhūtá- (nominal stem)
 
 saṁsŕ̥ji ← saṁsŕ̥j- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आभू॑त्या सह॒जा व॑ज्र सायक॒ सहो॑ बिभर्ष्यभिभूत॒ उत्त॑रम् ।  
+क्रत्वा॑ नो मन्यो स॒ह मे॒द्ये॑धि महाध॒नस्य॑ पुरुहूत सं॒सृजि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - \[noun\], locative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वम्रो वैखानसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ dasyuhátye ← dasyuhátya- (nominal stem)
 
 púraḥ ← púr- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स द्रुह्व॑णे॒ मनु॑ष ऊर्ध्वसा॒न आ सा॑विषदर्शसा॒नाय॒ शरु॑म् ।  
+स नृत॑मो॒ नहु॑षो॒ऽस्मत्सुजा॑तः॒ पुरो॑ऽभिन॒दर्ह॑न्दस्यु॒हत्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “killing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

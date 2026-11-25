@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ suṣṭutím ← suṣṭutí- (nominal stem)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यच्चि॒द्धि वां॑ पु॒र ऋष॑यो जुहू॒रेऽव॑से नरा ।  
+आ या॑तमश्वि॒ना ग॑त॒मुपे॒मां सु॑ष्टु॒तिं मम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

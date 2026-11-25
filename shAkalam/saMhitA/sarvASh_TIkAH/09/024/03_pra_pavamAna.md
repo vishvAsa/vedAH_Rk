@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ ví ← ví (invariable)
 
 yatáḥ ← √yam- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र प॑वमान धन्वसि॒ सोमेन्द्रा॑य॒ पात॑वे ।  
+नृभि॑र्य॒तो वि नी॑यसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -165,7 +170,6 @@ Held by men, you are led through (the filter).
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/024/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -173,7 +177,6 @@ The first 3 vss. are united by the use of the (secondary) root √dhanv ‘run�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

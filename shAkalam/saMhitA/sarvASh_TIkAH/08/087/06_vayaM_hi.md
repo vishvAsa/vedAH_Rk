@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ gatam ← √gam- (root)
 
 śruṣṭī́ ← śruṣṭí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं हि वां॒ हवा॑महे विप॒न्यवो॒ विप्रा॑सो॒ वाज॑सातये ।  
+ता व॒ल्गू द॒स्रा पु॑रु॒दंस॑सा धि॒याश्वि॑ना श्रु॒ष्ट्या ग॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

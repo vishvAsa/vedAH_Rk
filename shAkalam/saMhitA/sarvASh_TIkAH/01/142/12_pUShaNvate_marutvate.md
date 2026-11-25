@@ -4,6 +4,7 @@ devataa = "स्वाहाकृतयः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वाहाकृतयः
@@ -59,7 +60,12 @@ havyám ← havyá- (nominal stem)
 
 kartana ← √kr̥- (root)  
 {number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒ष॒ण्वते॑ म॒रुत्व॑ते वि॒श्वदे॑वाय वा॒यवे॑ ।  
+स्वाहा॑ गाय॒त्रवे॑पसे ह॒व्यमिन्द्रा॑य कर्तन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

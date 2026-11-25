@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ dvíṣaḥ ← dvíṣ- (nominal stem)
 
 gāhemahi ← √gāh- (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑ उ॒त त्वया॑ व॒यं धारा॑ उद॒न्या॑ इव ।  
+अति॑ गाहेमहि॒ द्विषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “hate; dviṣ; hostility; hostility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

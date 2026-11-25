@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ iyám ← ayám (pronoun)
 
 r̥tvíyāvatī ← r̥tvíyāvant- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ दृह्य॑स्व॒ पूर॑सि भ॒द्रा त॑ एति निष्कृ॒तम् ।  
+इ॒यं धीरृ॒त्विया॑वती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

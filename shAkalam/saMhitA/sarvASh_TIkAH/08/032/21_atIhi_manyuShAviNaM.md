@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ rātám ← √rā- 1 (root)
 
 sutám ← √su- (root)  
 {case:ACC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अती॑हि मन्युषा॒विणं॑ सुषु॒वांस॑मु॒पार॑णे ।  
+इ॒मं रा॒तं सु॒तं पि॑ब ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

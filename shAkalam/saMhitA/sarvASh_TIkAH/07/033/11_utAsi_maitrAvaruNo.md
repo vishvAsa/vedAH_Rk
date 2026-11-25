@@ -4,6 +4,7 @@ devataa = "ट्-९ वसिष्ठः"
 RShiH = "वसिष्ठपुत्राः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ट्-९ वसिष्ठः
@@ -86,7 +87,12 @@ tvā ← tvám (pronoun)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तासि॑ मैत्रावरु॒णो व॑सिष्ठो॒र्वश्या॑ ब्रह्म॒न्मन॒सोऽधि॑ जा॒तः ।  
+द्र॒प्सं स्क॒न्नं ब्रह्म॑णा॒ दैव्ये॑न॒ विश्वे॑ दे॒वाः पुष्क॑रे त्वाददन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,14 +253,6 @@ And you are the descendant of Mitra and Varuṇa, o Vasiṣṭha, born  from Urv
 A drop (of semen?) spurted forth: with a heavenly formulation all the  gods took you in a lotus.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The pub. tr. reads “born from her mind,” but given the uncertainties of this birth story, the mind need not be Urvaśī’s, but someone else’s, or even pure mind. So it might be better rendered as “born from mind.” On the semen (if that’s what the drop is) and the lotus, see disc. ad vss. 10-13.
-
-If the underlying narrative really does involve transporting spilled semen in a leaf and long-distance conception therefrom, it anticipates the MBh narrative in which the king Vasu ejaculates while hunting, catches the semen in a leaf, and tries to send it home to his wife Girikā by enlisting a bird, though the bird and the semen meet with a disaster over water that leads to the semen impregnating a fish (MBh I.57.35ff.).
-
-I take drapsáṃ skannám as a nominal clause, rather than taking cd as a single clause with drapsáṃ skannám coreferential with tvā.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/033/10-13.md">
 <details><summary><h2>10-13 ...{Loading}...</h2></summary>
 
@@ -265,7 +262,6 @@ Oldenberg is uncertain about the details; I am even more uncertain.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

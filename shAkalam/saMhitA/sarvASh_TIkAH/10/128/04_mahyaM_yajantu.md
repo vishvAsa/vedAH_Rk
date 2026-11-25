@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "विहव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ víśve ← víśva- (nominal stem)
 
 vocata ← √vac- (root)  
 {number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मह्यं॑ यजन्तु॒ मम॒ यानि॑ ह॒व्याकू॑तिः स॒त्या मन॑सो मे अस्तु ।  
+एनो॒ मा नि गां॑ कत॒मच्च॒नाहं विश्वे॑ देवासो॒ अधि॑ वोचता नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

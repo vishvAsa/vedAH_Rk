@@ -4,6 +4,7 @@ devataa = "भाववृत्तं"
 RShiH = "यज्ञः प्राजापत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -92,7 +93,12 @@ vaya ← √u- 2 (root)
 
 vaya ← √u- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो य॒ज्ञो वि॒श्वत॒स्तन्तु॑भिस्त॒त एक॑शतं देवक॒र्मेभि॒राय॑तः ।  
+इ॒मे व॑यन्ति पि॒तरो॒ य आ॑य॒युः प्र व॒याप॑ व॒येत्या॑सते त॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     speak; propagate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

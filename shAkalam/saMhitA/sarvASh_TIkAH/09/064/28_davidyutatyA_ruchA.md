@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -51,7 +52,12 @@ sómāḥ ← sóma- (nominal stem)
 
 śukrā́ḥ ← śukrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दवि॑द्युतत्या रु॒चा प॑रि॒ष्टोभ॑न्त्या कृ॒पा ।  
+सोमाः॑ शु॒क्रा गवा॑शिरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +107,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -127,10 +132,6 @@ _________
 (Provided) with ever-flashing light, with a form that encircles with chant are (both) the clear soma drinks and those mixed with cows [=milk].
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On pari √stubh see nearby IX.62.24. It is not entirely clear to me how the kṛ́p- (form, body) of Soma would ‘encircle with chant/rhythm’, since its physical form should not be producing noise. More common is the association of kṛ́p- with light (esp. the light of Agni), as Renou points out (cf. VI.2.6 kṛpā́… rocase, VII.3.9 sváyā kṛpā́tanvā̀rócamānaḥ), but in our passage rucā́and kṛpā́are parallel and independent. A passive sense ‘encircled with chant/rhythm’ (so Renou) would work better in context, but that seems precluded by the use of the act. stem stóbha-.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -138,7 +139,6 @@ The contrast between the two types of soma drinks, pure and mixed with milk, are
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

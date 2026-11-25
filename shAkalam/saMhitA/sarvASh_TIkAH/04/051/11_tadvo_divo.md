@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -92,7 +93,12 @@ pr̥thivī́ ← pr̥thivī́- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्वो॑ दिवो दुहितरो विभा॒तीरुप॑ ब्रुव उषसो य॒ज्ञके॑तुः ।  
+व॒यं स्या॑म य॒शसो॒ जने॑षु॒ तद्द्यौश्च॑ ध॒त्तां पृ॑थि॒वी च॑ दे॒वी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “Parvati; queen; goddess; Devi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

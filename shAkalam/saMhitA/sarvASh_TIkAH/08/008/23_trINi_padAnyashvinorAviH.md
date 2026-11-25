@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ jīvébhyaḥ ← jīvá- (nominal stem)
 
 pári ← pári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रीणि॑ प॒दान्य॒श्विनो॑रा॒विः सान्ति॒ गुहा॑ प॒रः ।  
+क॒वी ऋ॒तस्य॒ पत्म॑भिर॒र्वाग्जी॒वेभ्य॒स्परि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “from; about; around.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

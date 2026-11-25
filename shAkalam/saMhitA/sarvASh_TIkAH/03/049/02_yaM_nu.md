@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ dásyoḥ ← dásyu- (nominal stem)
 
 pr̥thujráyāḥ ← pr̥thujráyas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं नु नकिः॒ पृत॑नासु स्व॒राजं॑ द्वि॒ता तर॑ति॒ नृत॑मं हरि॒ष्ठाम् ।  
+इ॒नत॑मः॒ सत्व॑भि॒र्यो ह॑ शू॒षैः पृ॑थु॒ज्रया॑ अमिना॒दायु॒र्दस्योः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “savage; outcast; mugger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

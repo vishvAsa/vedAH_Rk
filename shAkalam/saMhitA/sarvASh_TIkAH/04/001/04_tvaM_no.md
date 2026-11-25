@@ -4,6 +4,7 @@ devataa = "अग्निः अग्नीवरुणौ वा"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः अग्नीवरुणौ वा
@@ -83,7 +84,12 @@ prá ← prá (invariable)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नो॑ अग्ने॒ वरु॑णस्य वि॒द्वान्दे॒वस्य॒ हेळोऽव॑ यासिसीष्ठाः ।  
+यजि॑ष्ठो॒ वह्नि॑तमः॒ शोशु॑चानो॒ विश्वा॒ द्वेषां॑सि॒ प्र मु॑मुग्ध्य॒स्मत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

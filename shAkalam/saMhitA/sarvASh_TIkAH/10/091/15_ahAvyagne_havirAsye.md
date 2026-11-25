@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अरुणो वैतहव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ praśastám ← √śaṁs- (root)
 
 yaśásam ← yaśás- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अहा॑व्यग्ने ह॒विरा॒स्ये॑ ते स्रु॒ची॑व घृ॒तं च॒म्वी॑व॒ सोमः॑ ।  
+वा॒ज॒सनिं॑ र॒यिम॒स्मे सु॒वीरं॑ प्रश॒स्तं धे॑हि य॒शसं॑ बृ॒हन्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

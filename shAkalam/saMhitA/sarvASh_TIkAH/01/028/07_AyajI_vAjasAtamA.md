@@ -4,6 +4,7 @@ devataa = "उलूखलमुसले"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उलूखलमुसले
@@ -60,7 +61,12 @@ hárī ← hári- (nominal stem)
 
 iva ← iva (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒य॒जी वा॑ज॒सात॑मा॒ ता ह्यु१॒॑च्चा वि॑जर्भृ॒तः ।  
+हरी॑ इ॒वान्धां॑सि॒ बप्स॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “chew; snatch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

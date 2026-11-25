@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ naḥ ← ahám (pronoun)
 
 víśve ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पृष॑दश्वा म॒रुतः॒ पृश्नि॑मातरः शुभं॒यावा॑नो वि॒दथे॑षु॒ जग्म॑यः ।  
+अ॒ग्नि॒जि॒ह्वा मन॑वः॒ सूर॑चक्षसो॒ विश्वे॑ नो दे॒वा अव॒सा ग॑मन्नि॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “here; now; in this world; now; below; there; here; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

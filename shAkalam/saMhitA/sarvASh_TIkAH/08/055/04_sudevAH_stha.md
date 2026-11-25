@@ -4,6 +4,7 @@ devataa = "प्रस्कण्वस्य दानस्तुतिः (
 RShiH = "कृशः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)
@@ -54,7 +55,12 @@ caṅkramata ← √kramⁱ- (root)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒दे॒वाः स्थ॑ काण्वायना॒ वयो॑वयो विच॒रन्तः॑ ।  
+अश्वा॑सो॒ न च॑ङ्क्रमत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - \[verb\], plural, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

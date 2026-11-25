@@ -4,6 +4,7 @@ devataa = "इन्द्रः (कपिंजलरूपी)"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (कपिंजलरूपी)
@@ -89,7 +90,12 @@ rājati ← √rāj- (root)
 
 traíṣṭubham ← traíṣṭubha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒द॒क्षि॒णिद॒भि गृ॑णन्ति का॒रवो॒ वयो॒ वद॑न्त ऋतु॒था श॒कुन्त॑यः ।  
+उ॒भे वाचौ॑ वदति साम॒गा इ॑व गाय॒त्रं च॒ त्रैष्टु॑भं॒ चानु॑ राजति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋतवः इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतवः इन्द्रः
@@ -60,7 +61,12 @@ matsarā́saḥ ← matsará- (nominal stem)
 
 tádokasaḥ ← tádokas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ सोमं॒ पिब॑ ऋ॒तुना त्वा॑ विश॒न्त्विन्द॑वः ।  
+म॒त्स॒रास॒स्तदो॑कसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “home; house; oka \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

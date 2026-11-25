@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "पदपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ r̥dhyā́ma ← √r̥dh- (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ तम॒द्याश्वं॒ न स्तोमैः॒ क्रतुं॒ न भ॒द्रं हृ॑दि॒स्पृश॑म् ।  
+ऋ॒ध्यामा॑ त॒ ओहैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - \[noun\], instrumental, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

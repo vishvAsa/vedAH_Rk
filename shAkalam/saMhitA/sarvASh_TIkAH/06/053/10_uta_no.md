@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -60,7 +61,12 @@ nr̥vát ← nr̥vánt- (nominal stem)
 
 vītáye ← vītí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नो॑ गो॒षणिं॒ धिय॑मश्व॒सां वा॑ज॒सामु॒त ।  
+नृ॒वत्कृ॑णुहि वी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - \[noun\], dative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

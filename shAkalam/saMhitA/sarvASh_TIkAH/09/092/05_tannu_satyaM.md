@@ -5,13 +5,13 @@ RShiH = "कश्यपः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
 - ऋषिः - कश्यपः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -94,7 +94,12 @@ mánum ← mánu- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तन्नु स॒त्यं पव॑मानस्यास्तु॒ यत्र॒ विश्वे॑ का॒रवः॑ सं॒नस॑न्त ।  
+ज्योति॒र्यदह्ने॒ अकृ॑णोदु लो॒कं प्राव॒न्मनुं॒ दस्य॑वे कर॒भीक॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +249,6 @@ _________
 - “battle; meeting.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -304,8 +308,6 @@ Das sei uns nun der wahre Ort des Flammers, an dem die Sänger alle sich vereine
 Что он создал свет дня и пространство!  
 Он помог Ману, он оказал сопротивление дасью.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

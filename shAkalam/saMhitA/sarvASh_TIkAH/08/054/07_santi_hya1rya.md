@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ dhukṣásva ← √duh- (root)
 
 pipyúṣīm ← √pī- 1 (root)  
 {case:ACC, gender:F, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सन्ति॒ ह्य१॒॑र्य आ॒शिष॒ इन्द्र॒ आयु॒र्जना॑नाम् ।  
+अ॒स्मान्न॑क्षस्व मघव॒न्नुपाव॑से धु॒क्षस्व॑ पि॒प्युषी॒मिष॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

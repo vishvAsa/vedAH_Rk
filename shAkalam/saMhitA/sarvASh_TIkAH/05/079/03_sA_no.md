@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -85,7 +86,12 @@ vāyyé ← vāyyá- (nominal stem)
 
 sújāte ← sujātá- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा नो॑ अ॒द्याभ॒रद्व॑सु॒र्व्यु॑च्छा दुहितर्दिवः ।  
+यो व्यौच्छः॒ सही॑यसि स॒त्यश्र॑वसि वा॒य्ये सुजा॑ते॒ अश्व॑सूनृते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “big; friendly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -245,12 +250,6 @@ you who dawned forth at the mightier Satyaśravas Vāyya’s
 – o well-born lady, liberal with horses.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-yó beginning pāda c represents yā́+ u (note Pp. yó íti), but the apparent masc.
-
-form causes a momentary stir.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -272,7 +271,6 @@ with 2nd ps. impvs.; see my 1992 “Vedic ‘sá figé’: An inherited sentence
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ nítyāsaḥ ← nítya- (nominal stem)
 
 pretā́raḥ ← pretár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न यं रि॒पवो॒ न रि॑ष॒ण्यवो॒ गर्भे॒ सन्तं॑ रेष॒णा रे॒षय॑न्ति ।  
+अ॒न्धा अ॑प॒श्या न द॑भन्नभि॒ख्या नित्या॑स ईं प्रे॒तारो॑ अरक्षन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

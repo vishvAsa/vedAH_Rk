@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नहुषो मानवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -68,7 +69,12 @@ sómāsaḥ ← sóma- (nominal stem)
 
 pávamānāsaḥ ← √pū- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समु॑ प्रि॒या अ॑नूषत॒ गावो॒ मदा॑य॒ घृष्व॑यः ।  
+सोमा॑सः कृण्वते प॒थः पव॑मानास॒ इन्द॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -195,7 +200,6 @@ The soma drinks make their own paths, the self-purifying drops.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -203,7 +207,6 @@ Again, quite straightforward and not particularly cohesive.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

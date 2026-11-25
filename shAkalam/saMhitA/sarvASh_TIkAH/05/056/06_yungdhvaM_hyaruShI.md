@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ váhiṣṭhā ← váhiṣṭha- (nominal stem)
 
 vóḷhave ← √vah- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒ङ्ग्ध्वं ह्यरु॑षी॒ रथे॑ यु॒ङ्ग्ध्वं रथे॑षु रो॒हितः॑ ।  
+यु॒ङ्ग्ध्वं हरी॑ अजि॒रा धु॒रि वोळ्ह॑वे॒ वहि॑ष्ठा धु॒रि वोळ्ह॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

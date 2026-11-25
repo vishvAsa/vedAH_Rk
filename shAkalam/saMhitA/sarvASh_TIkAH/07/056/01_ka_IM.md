@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -55,7 +56,11 @@ rudrásya ← rudrá- (nominal stem)
 
 sváśvāḥ ← sváśva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क ईं॒ व्य॑क्ता॒ नरः॒ सनी॑ळा रु॒द्रस्य॒ मर्या॒ अध॒ स्वश्वाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +128,6 @@ _________
 - “horse; aśva \[word\]; Aśva; stallion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

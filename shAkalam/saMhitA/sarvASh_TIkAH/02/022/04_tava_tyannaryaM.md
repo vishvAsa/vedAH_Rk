@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "अतिशक्वर्यष्टिर्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -127,7 +128,13 @@ vidā́t ← √vid- 1 (root)
 
 vidā́t ← √vid- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ त्यन्नर्यं॑ नृ॒तोऽप॑ इन्द्र प्रथ॒मं पू॒र्व्यं दि॒वि प्र॒वाच्यं॑ कृ॒तम् ।  
+यद्दे॒वस्य॒ शव॑सा॒ प्रारि॑णा॒ असुं॑ रि॒णन्न॒पः ।  
+भुव॒द्विश्व॑म॒भ्यादे॑व॒मोज॑सा वि॒दादूर्जं॑ श॒तक्र॑तुर्वि॒दादिष॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -333,7 +340,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

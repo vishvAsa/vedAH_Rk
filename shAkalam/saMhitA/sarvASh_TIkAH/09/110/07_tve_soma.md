@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "ऊर्ध्वबृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -75,7 +76,12 @@ vīra ← vīrá- (nominal stem)
 
 vīryā̀ya ← vīryà- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे सो॑म प्रथ॒मा वृ॒क्तब॑र्हिषो म॒हे वाजा॑य॒ श्रव॑से॒ धियं॑ दधुः ।  
+स त्वं नो॑ वीर वी॒र्या॑य चोदय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “impel; drive; incite; command; drive; arouse; propel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -219,10 +224,6 @@ In you, Soma, those who first twisted the ritual grass placed their  insight for
 Impel our (insight), o hero, for heroic power.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner and Renou take naḥ as the obj. of codaya in c, but I think rather dhíyam from b, with naḥ genitive. Cf. III.62.10 dhíyo yó naḥ pracodáyāt, VI.47.10 codáya dhíyam.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -230,7 +231,6 @@ Considerably clearer than the previous tṛca.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

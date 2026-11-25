@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -51,7 +52,12 @@ nr̥cákṣasam ← nr̥cákṣas- (nominal stem)
 
 savitā́ram ← savitár- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒भ॒क्तारं॑ हवामहे॒ वसो॑श्चि॒त्रस्य॒ राध॑सः ।  
+स॒वि॒तारं॑ नृ॒चक्ष॑सम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +116,6 @@ _________
 - “eye; look; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

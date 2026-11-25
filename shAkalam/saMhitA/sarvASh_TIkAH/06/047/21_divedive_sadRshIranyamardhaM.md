@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ udávraje ← udávraja- (nominal stem)
 
 varcínam ← varcín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वेदि॑वे स॒दृशी॑र॒न्यमर्धं॑ कृ॒ष्णा अ॑सेध॒दप॒ सद्म॑नो॒ जाः ।  
+अह॑न्दा॒सा वृ॑ष॒भो व॑स्न॒यन्तो॒दव्र॑जे व॒र्चिनं॒ शम्ब॑रं च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -83,7 +84,12 @@ píba ← √pā- 2 (root)
 
 sutásya ← √su- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वी॑र॒या शुच॑यो दद्रिरे वामध्व॒र्युभि॒र्मधु॑मन्तः सु॒तासः॑ ।  
+वह॑ वायो नि॒युतो॑ या॒ह्यच्छा॒ पिबा॑ सु॒तस्यान्ध॑सो॒ मदा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

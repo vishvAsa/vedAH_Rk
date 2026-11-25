@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ nā́bhā ← nā́bhi- (nominal stem)
 
 pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+राजा॑ समु॒द्रं न॒द्यो॒३॒॑ वि गा॑हते॒ऽपामू॒र्मिं स॑चते॒ सिन्धु॑षु श्रि॒तः ।  
+अध्य॑स्था॒त्सानु॒ पव॑मानो अ॒व्ययं॒ नाभा॑ पृथि॒व्या ध॒रुणो॑ म॒हो दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -257,7 +262,6 @@ The self-purifying one has mounted upon the sheep’s back, on the navel  of the
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -265,7 +269,6 @@ The beginning and end of this tṛca echo the preceding one: ketúḥ in 7a pick
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

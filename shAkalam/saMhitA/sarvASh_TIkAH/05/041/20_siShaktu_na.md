@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "एकपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -38,7 +39,11 @@ síṣaktu ← √sac- 1 (root)
 
 ūrjavyàsya ← ūrjavyà- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सिष॑क्तु न ऊर्ज॒व्य॑स्य पु॒ष्टेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -71,7 +76,6 @@ _________
     increase; corpulence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -105,7 +109,6 @@ Of the nourishing prosperity [/of the prosperity of Ūrjavya]—let her  accompa
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/041/19-20.md">
 <details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -122,7 +125,6 @@ Besides Iḍā, explicitly “the mother of the flock” (yūthásya mātā́) h
 I am uncertain what to do with ūravyàsya in 20 (PN or not), and I also do not know what abhyūrṇvāṇā́in 19d is conveying.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

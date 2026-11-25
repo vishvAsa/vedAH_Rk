@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ johavīti ← √hū- (root)
 
 mayobhúvaḥ ← mayobhū́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ धे॒नवः॒ पय॑सा॒ तूर्ण्य॑र्था॒ अम॑र्धन्ती॒रुप॑ नो यन्तु॒ मध्वा॑ ।  
+म॒हो रा॒ये बृ॑ह॒तीः स॒प्त विप्रो॑ मयो॒भुवो॑ जरि॒ता जो॑हवीति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “appeal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

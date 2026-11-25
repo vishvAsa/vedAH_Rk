@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -63,7 +64,12 @@ naḥ ← ahám (pronoun)
 
 tā́bhiḥ ← sá- ~ tá- (pronoun)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोम॒ यास्ते॑ मयो॒भुव॑ ऊ॒तयः॒ सन्ति॑ दा॒शुषे॑ ।  
+ताभि॑र्नोऽवि॒ता भ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

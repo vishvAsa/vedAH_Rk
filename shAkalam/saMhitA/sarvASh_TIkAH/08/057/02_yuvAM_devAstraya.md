@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ pātám ← √pā- 2 (root)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वां दे॒वास्त्रय॑ एकाद॒शासः॑ स॒त्याः स॒त्यस्य॑ ददृशे पु॒रस्ता॑त् ।  
+अ॒स्माकं॑ य॒ज्ञं सव॑नं जुषा॒णा पा॒तं सोम॑मश्विना॒ दीद्य॑ग्नी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

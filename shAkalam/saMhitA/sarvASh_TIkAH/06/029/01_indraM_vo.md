@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ u ← u (invariable)
 
 yajadhvam ← √yaj- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रं॑ वो॒ नरः॑ स॒ख्याय॑ सेपुर्म॒हो यन्तः॑ सुम॒तये॑ चका॒नाः ।  
+म॒हो हि दा॒ता वज्र॑हस्तो॒ अस्ति॑ म॒हामु॑ र॒ण्वमव॑से यजध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ ghr̥távantam ← ghr̥távant- (nominal stem)
 
 r̥tā́ya ← r̥tá- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ना॑सत्या॒ गच्छ॑तं हू॒यते॑ ह॒विर्मध्वः॑ पिबतं मधु॒पेभि॑रा॒सभिः॑ ।  
+यु॒वोर्हि पूर्वं॑ सवि॒तोषसो॒ रथ॑मृ॒ताय॑ चि॒त्रं घृ॒तव॑न्त॒मिष्य॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “send.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

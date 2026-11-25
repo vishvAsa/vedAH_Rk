@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ yát ← yá- (pronoun)
 
 narā ← nár- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ग्रो वां॑ ककु॒हो य॒यिः शृ॒ण्वे यामे॑षु सन्त॒निः ।  
+यद्वां॒ दंसो॑भिरश्वि॒नात्रि॑र्नराव॒वर्त॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “melt; return; melt; to be reborn; turn; turn; revolve; roll.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

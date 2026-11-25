@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)
 
 sā́navi ← sā́nu- ~ snú- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यमापो॒ अद्र॑यो॒ वना॒ गर्भ॑मृ॒तस्य॒ पिप्र॑ति ।  
+सह॑सा॒ यो म॑थि॒तो जाय॑ते॒ नृभिः॑ पृथि॒व्या अधि॒ सान॑वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “tableland; ridge; peak; back; ridge; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

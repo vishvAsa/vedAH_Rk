@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ svāpe ← svāpí- (nominal stem)
 
 svāpíbhiḥ ← svāpí- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ नेदी॑य॒ एदि॑हि मि॒तमे॑धाभिरू॒तिभिः॑ ।  
+आ शं॑तम॒ शन्त॑माभिर॒भिष्टि॑भि॒रा स्वा॑पे स्वा॒पिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “friend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

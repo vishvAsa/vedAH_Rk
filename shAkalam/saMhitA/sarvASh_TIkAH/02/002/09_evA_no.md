@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ pururū́pam ← pururū́pa- (nominal stem)
 
 tmánā ← tmán- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा नो॑ अग्ने अ॒मृते॑षु पूर्व्य॒ धीष्पी॑पाय बृ॒हद्दि॑वेषु॒ मानु॑षा ।  
+दुहा॑ना धे॒नुर्वृ॒जने॑षु का॒रवे॒ त्मना॑ श॒तिनं॑ पुरु॒रूप॑मि॒षणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - \[noun\], locative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

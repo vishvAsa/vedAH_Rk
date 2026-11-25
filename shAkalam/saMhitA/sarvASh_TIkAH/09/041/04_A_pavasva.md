@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ sutáḥ ← √su- (root)
 
 vā́javat ← vā́javant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ प॑वस्व म॒हीमिषं॒ गोम॑दिन्दो॒ हिर॑ण्यवत् ।  
+अश्वा॑व॒द्वाज॑वत्सु॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

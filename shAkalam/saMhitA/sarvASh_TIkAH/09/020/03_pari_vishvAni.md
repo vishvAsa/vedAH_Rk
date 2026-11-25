@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ soma ← sóma- (nominal stem)
 
 vidaḥ ← √vid- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ विश्वा॑नि॒ चेत॑सा मृ॒शसे॒ पव॑से म॒ती ।  
+स नः॑ सोम॒ श्रवो॑ विदः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “find; detect; marry; get; think.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

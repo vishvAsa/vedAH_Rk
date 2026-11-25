@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -51,7 +52,12 @@ bhrā́jate ← √bhrāj- (root)
 
 śréṇidan ← śréṇidant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यमा॒सा कृ॒पनी॑ळं भा॒साके॑तुं व॒र्धय॑न्ति ।  
+भ्राज॑ते॒ श्रेणि॑दन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +113,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

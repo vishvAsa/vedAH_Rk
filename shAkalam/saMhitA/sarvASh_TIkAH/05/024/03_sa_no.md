@@ -5,13 +5,13 @@ RShiH = "गौपायना लौपायना वा बन्धुः �
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - गौपायना लौपायना वा बन्धुः सुबन्धुः श्रुतबन्धुर्विप्रबन्धुश्च
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -57,7 +57,11 @@ samasmāt ← sama- (pronoun)
 
 uruṣyá ← √uruṣy- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॑ बोधि श्रु॒धी हव॑मुरु॒ष्या णो॑ अघाय॒तः स॑मस्मात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +129,6 @@ _________
     exact; calm; straight; even; wide.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -178,8 +181,6 @@ So acht' auf uns und hör den Ruf und schaff uns Raum vor jedem schlechtgesinnte
 К тебе, о самый пламенный, о сверкающий,  
 Мы обращаемся сейчас за милостью для (наших) друзей.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

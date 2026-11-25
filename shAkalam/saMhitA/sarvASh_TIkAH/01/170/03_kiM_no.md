@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ ditsasi ← √dā- 1 (root)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किं नो॑ भ्रातरगस्त्य॒ सखा॒ सन्नति॑ मन्यसे ।  
+वि॒द्मा हि ते॒ यथा॒ मनो॒ऽस्मभ्य॒मिन्न दि॑त्ससि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

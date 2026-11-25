@@ -4,6 +4,7 @@ devataa = "भावयव्यः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भावयव्यः
@@ -89,7 +90,12 @@ kakṣī́vān ← kakṣī́vant- (nominal stem)
 
 sánat ← √sanⁱ- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ मा श्या॒वाः स्व॒नये॑न द॒त्ता व॒धूम॑न्तो॒ दश॒ रथा॑सो अस्थुः ।  
+ष॒ष्टिः स॒हस्र॒मनु॒ गव्य॒मागा॒त्सन॑त्क॒क्षीवाँ॑ अभिपि॒त्वे अह्ना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “day; day; ahar \[word\]; day; day.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

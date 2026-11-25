@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)
 
 yudhí ← yúdh- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ त्वोता॑स॒ आ व॒यं वज्रं॑ घ॒ना द॑दीमहि ।  
+जये॑म॒ सं यु॒धि स्पृधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “adversary; enemy; rival.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "लुशो धानाकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ dádhātana ← √dhā- 1 (root)
 
 dráviṇam ← dráviṇa- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये स॑वि॒तुः स॒त्यस॑वस्य॒ विश्वे॑ मि॒त्रस्य॑ व्र॒ते वरु॑णस्य दे॒वाः ।  
+ते सौभ॑गं वी॒रव॒द्गोम॒दप्नो॒ दधा॑तन॒ द्रवि॑णं चि॒त्रम॒स्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

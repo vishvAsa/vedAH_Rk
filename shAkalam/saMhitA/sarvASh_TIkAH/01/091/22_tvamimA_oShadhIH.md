@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -92,7 +93,12 @@ vavartha ← √vr̥- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमि॒मा ओष॑धीः सोम॒ विश्वा॒स्त्वम॒पो अ॑जनय॒स्त्वं गाः ।  
+त्वमा त॑तन्थो॒र्व१॒॑न्तरि॑क्षं॒ त्वं ज्योति॑षा॒ वि तमो॑ ववर्थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "जेता माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ máṁhate ← √maṁh- (root)
 
 stotŕ̥bhyaḥ ← stotár- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒र्वीरिन्द्र॑स्य रा॒तयो॒ न वि द॑स्यन्त्यू॒तयः॑ ।  
+यदी॒ वाज॑स्य॒ गोम॑तः स्तो॒तृभ्यो॒ मंह॑ते म॒घम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “gift; wealth; reward; wages; reward.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

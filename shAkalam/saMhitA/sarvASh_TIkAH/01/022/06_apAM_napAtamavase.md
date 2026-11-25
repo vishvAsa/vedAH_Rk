@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -57,7 +58,12 @@ uśmasi ← √vaś- (root)
 
 vratā́ni ← vratá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पां नपा॑त॒मव॑से सवि॒तार॒मुप॑ स्तुहि ।  
+तस्य॑ व्र॒तान्यु॑श्मसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “desire; agree; call; care; like; love.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

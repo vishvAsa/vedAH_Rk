@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः पूषा वा"
 RShiH = "अत्रिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः पूषा वा
@@ -66,7 +67,12 @@ kanyā̀su ← kanyā̀- ~ kanī́n- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं त॑ आघृणे सु॒तो घृ॒तं न प॑वते॒ शुचि॑ ।  
+आ भ॑क्षत्क॒न्या॑सु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,12 +183,6 @@ This pressed soma here purifies himself, gleaming like ghee, for you,  glowing o
 – He will give us a share in maidens.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-ā́ghṛṇi- is an epithet exclusive to Pūṣan. On the word, see comm. ad VI.53.3.
-
-That Pūṣan is addressed in the 2nd ps. here, while the refrain remains in the 3rd ps., might be taken as evidence for Ober’s identification of Soma as the subject of the refrain - since soma is in the 3rd ps. in this vs. However, refrains tend to operate in syntactic independence from their vss., and, as I argued above, once the refrain is set, it is unlikely to change referents.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -195,7 +194,6 @@ Ober refines this somewhat by identifying the maidens as brides (e.g., I.320), b
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

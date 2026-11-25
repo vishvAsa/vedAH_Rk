@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ samrā́jam ← samrā́j- (nominal stem)
 
 trā́sadasyavam ← trāsadasyavá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमाग॑न्म॒ सोभ॑रयः स॒हस्र॑मुष्कं स्वभि॒ष्टिमव॑से ।  
+स॒म्राजं॒ त्रास॑दस्यवम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

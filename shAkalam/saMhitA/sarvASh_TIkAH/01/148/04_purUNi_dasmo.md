@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ ná ← ná (invariable)
 
 śáryām ← śáryā- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रूणि॑ द॒स्मो नि रि॑णाति॒ जम्भै॒राद्रो॑चते॒ वन॒ आ वि॒भावा॑ ।  
+आद॑स्य॒ वातो॒ अनु॑ वाति शो॒चिरस्तु॒र्न शर्या॑मस॒नामनु॒ द्यून् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

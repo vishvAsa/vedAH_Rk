@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ rātā́ ← √rā- 1 (root)
 
 túbhyam ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्ती॒र्णं ते॑ ब॒र्हिः सु॒त इ॑न्द्र॒ सोमः॑ कृ॒ता धा॒ना अत्त॑वे ते॒ हरि॑भ्याम् ।  
+तदो॑कसे पुरु॒शाका॑य॒ वृष्णे॑ म॒रुत्व॑ते॒ तुभ्यं॑ रा॒ता ह॒वींषि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “Havya; offering; ghee; havis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

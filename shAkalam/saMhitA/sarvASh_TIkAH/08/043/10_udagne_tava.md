@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ múkhe ← múkha- (nominal stem)
 
 níṁsānam ← √nas- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॑ग्ने॒ तव॒ तद्घृ॒ताद॒र्ची रो॑चत॒ आहु॑तम् ।  
+निंसा॑नं जु॒ह्वो॒३॒॑ मुखे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
     quarter; first; end.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ dūtáḥ ← dūtá- (nominal stem)
 
 vániṣṭhaḥ ← vániṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व१॒॑र्ण वस्तो॑रु॒षसा॑मरोचि य॒ज्ञं त॑न्वा॒ना उ॒शिजो॒ न मन्म॑ ।  
+अ॒ग्निर्जन्मा॑नि दे॒व आ वि वि॒द्वान्द्र॒वद्दू॒तो दे॑व॒यावा॒ वनि॑ष्ठः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

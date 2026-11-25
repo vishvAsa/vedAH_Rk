@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "चक्षुः सौर्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -66,7 +67,12 @@ dhātā́ ← dhātár- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चक्षु॑र्नो दे॒वः स॑वि॒ता चक्षु॑र्न उ॒त पर्व॑तः ।  
+चक्षु॑र्धा॒ता द॑धातु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

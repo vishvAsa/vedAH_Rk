@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ téjasā ← téjas- (nominal stem)
 
 venā́ḥ ← vená- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं गू॒र्तयो॑ नेम॒न्निषः॒ परी॑णसः समु॒द्रं न सं॒चर॑णे सनि॒ष्यवः॑ ।  
+पतिं॒ दक्ष॑स्य वि॒दथ॑स्य॒ नू सहो॑ गि॒रिं न वे॒ना अधि॑ रोह॒ तेज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     ferocity; power; edge; efficacy; ardor; authority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

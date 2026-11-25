@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ te ← tvám (pronoun)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं योनि॑श्चकृ॒मा यं व॒यं ते॑ जा॒येव॒ पत्य॑ उश॒ती सु॒वासाः॑ ।  
+अ॒र्वा॒ची॒नः परि॑वीतो॒ नि षी॑दे॒मा उ॑ ते स्वपाक प्रती॒चीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

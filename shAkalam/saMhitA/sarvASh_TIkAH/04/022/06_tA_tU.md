@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ prá ← prá (invariable)
 
 síndhavaḥ ← síndhu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता तू ते॑ स॒त्या तु॑विनृम्ण॒ विश्वा॒ प्र धे॒नवः॑ सिस्रते॒ वृष्ण॒ ऊध्नः॑ ।  
+अधा॑ ह॒ त्वद्वृ॑षमणो भिया॒नाः प्र सिन्ध॑वो॒ जव॑सा चक्रमन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “kram; step; go; continue; proceed; traverse; heat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -257,10 +262,6 @@ These (deeds) of yours all come true, o powerfully manly one: the cows  stream f
 then, being afraid of you, o you of bullish mind, the rivers charge forth  at speed.594 IV.23
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The b pāda contains one of the RV’s beloved gender-bending paradoxes, with the cows coming out “from the udder of a bull” (vṛ́ṣṇa ū́dhnaḥ). Geldner (/Witzel Gotō) interprets this as rainwater coming from the sky (Parjanya or Heaven). I think it more likely that it concerns the Vala myth. Indra’s other signature deed, the slaying of Vṛtra, was treated in the immediately preceding, paired verse (5d), and so we might expect mention of his other most prominent feat. In that case the “bull” would be the Vala cave. On the other hand, this might continue the treatment of the Vṛtra myth in 5d (as Geldner also suggests, n. 6b), in which case the “bull” would be Vṛtra himself or the mountain in which the waters were confined. The more thorough treatment of the waters in the Vṛtra myth in the following vs. 7 might support this latter view.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/022/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -276,7 +277,6 @@ Another responsion: 6c ádhā ha / 7a átrā́ha. Later in the pāda 7a tā́u r
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -5,13 +5,13 @@ RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रः
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -53,7 +53,12 @@ citráśravastamam ← citráśravastama- (nominal stem)
 
 dyumnám ← dyumná- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रस्य॑ चर्षणी॒धृतोऽवो॑ दे॒वस्य॑ सान॒सि ।  
+द्यु॒म्नं चि॒त्रश्र॑वस्तमम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +115,6 @@ _________
 - \[noun\], nominative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -168,8 +172,6 @@ Des Mitra, der die Menschen schützt, des Gottes Hülfe spendet uns Den Glanz, d
 Поддерживающего людей, приносит добычу.  
 Блеск (его) окружен самой яркой славой.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ havíṣā ← havís- (nominal stem)
 
 vivásvate ← vivásvant- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या गौर्व॑र्त॒निं प॒र्येति॑ निष्कृ॒तं पयो॒ दुहा॑ना व्रत॒नीर॑वा॒रतः॑ ।  
+सा प्र॑ब्रुवा॒णा वरु॑णाय दा॒शुषे॑ दे॒वेभ्यो॑ दाशद्ध॒विषा॑ वि॒वस्व॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “Surya; sun; Vivasvant; Vivasvant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

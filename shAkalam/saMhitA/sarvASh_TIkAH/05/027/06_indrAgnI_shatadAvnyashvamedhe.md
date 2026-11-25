@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "त्र्यरुणस्त्रैवृष्णस्त्रसदस्युः पौरुकुत्सः भारतोश्वमेधश्च राजानः भौमोत्रिर्वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -65,7 +66,12 @@ iva ← iva (invariable)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ग्नी शत॒दाव्न्यश्व॑मेधे सु॒वीर्य॑म् ।  
+क्ष॒त्रं धा॑रयतं बृ॒हद्दि॒वि सूर्य॑मिवा॒जर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “undecaying; ageless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

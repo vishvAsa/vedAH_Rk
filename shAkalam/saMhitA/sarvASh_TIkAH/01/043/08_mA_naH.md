@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -63,7 +64,12 @@ naḥ ← ahám (pronoun)
 
 vā́je ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नः॑ सोमपरि॒बाधो॒ मारा॑तयो जुहुरन्त ।  
+आ न॑ इन्दो॒ वाजे॑ भज ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
     one's share; partake; share; get; approach; love; use.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

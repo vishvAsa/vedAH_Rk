@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -66,7 +67,12 @@ imé ← ayám (pronoun)
 
 íti ← íti (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समु॑ पू॒ष्णा ग॑मेमहि॒ यो गृ॒हाँ अ॑भि॒शास॑ति ।  
+इ॒म ए॒वेति॑ च॒ ब्रव॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

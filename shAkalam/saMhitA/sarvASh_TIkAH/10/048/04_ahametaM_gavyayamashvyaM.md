@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -86,7 +87,12 @@ ukthínaḥ ← ukthín- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हमे॒तं ग॒व्यय॒मश्व्यं॑ प॒शुं पु॑री॒षिणं॒ साय॑केना हिर॒ण्यय॑म् ।  
+पु॒रू स॒हस्रा॒ नि शि॑शामि दा॒शुषे॒ यन्मा॒ सोमा॑स उ॒क्थिनो॒ अम॑न्दिषुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

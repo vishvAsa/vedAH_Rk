@@ -4,6 +4,7 @@ devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अप्तृणसूर्याः
@@ -80,7 +81,12 @@ sākám ← sākám (invariable)
 
 sárve ← sárva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये अंस्या॒ ये अङ्ग्याः॑ सू॒चीका॒ ये प्र॑कङ्क॒ताः ।  
+अदृ॑ष्टाः॒ किं च॒नेह वः॒ सर्वे॑ सा॒कं नि ज॑स्यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “starve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

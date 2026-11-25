@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "बाहुवृक्त आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -63,7 +64,12 @@ pītáye ← pītí- (nominal stem)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ नः सु॒तमा ग॑तं॒ वरु॑ण॒ मित्र॑ दा॒शुषः॑ ।  
+अ॒स्य सोम॑स्य पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

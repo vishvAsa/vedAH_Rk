@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ víśve ← víśva- (nominal stem)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नाम॑भिर्म॒रुतो॑ वक्षि॒ विश्वा॒ना रू॒पेभि॑र्जातवेदो हुवा॒नः ।  
+य॒ज्ञं गिरो॑ जरि॒तुः सु॑ष्टु॒तिं च॒ विश्वे॑ गन्त मरुतो॒ विश्व॑ ऊ॒ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

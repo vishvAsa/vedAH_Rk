@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अनानतः पारुच्छेपिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -110,7 +111,13 @@ yát ← yá- (pronoun)
 
 saptā́syebhiḥ ← saptā́sya- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒या रु॒चा हरि॑ण्या पुना॒नो विश्वा॒ द्वेषां॑सि तरति स्व॒युग्व॑भिः॒ सूरो॒ न स्व॒युग्व॑भिः ।  
+धारा॑ सु॒तस्य॑ रोचते पुना॒नो अ॑रु॒षो हरिः॑ ।  
+विश्वा॒ यद्रू॒पा प॑रि॒यात्यृक्व॑भिः स॒प्तास्ये॑भि॒रृक्व॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -273,7 +280,6 @@ _________
 - “singing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

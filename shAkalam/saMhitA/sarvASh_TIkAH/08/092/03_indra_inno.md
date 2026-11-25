@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ mahā́n ← mahā́nt- (nominal stem)
 
 yamat ← √yam- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ इन्नो॑ म॒हानां॑ दा॒ता वाजा॑नां नृ॒तुः ।  
+म॒हाँ अ॑भि॒ज्ञ्वा य॑मत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -174,10 +179,6 @@ The great one, in a crouch [=driving posture], will guide (the
 prizes) here.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-What posture abhijñú designates is not clear. Geldner thinks it involves bending the knees and sinking down, Scarlatta (345) that Indra crouches down because he is so large. I think rather that, as in I.37.10, it indicates a slightly crouching position, with knees bent, for driving a chariot (note I.37.10 abhijñú yā́tave “abhijñu to drive”), in this case to bring the prizes to us. The word nṛtúḥ ‘dancer’ at the end of b is suggestive, so that abhijñu might instead, or also, be a dancing posture.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -185,7 +186,6 @@ What posture abhijñú designates is not clear. Geldner thinks it involves bendi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

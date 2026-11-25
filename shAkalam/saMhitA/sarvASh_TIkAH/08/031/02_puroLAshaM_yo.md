@@ -4,6 +4,7 @@ devataa = "ईज्यास्तवो यजमानप्रशंसा �
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ईज्यास्तवो यजमानप्रशंसा च
@@ -63,7 +64,12 @@ pā́t ← √pā- 1 (root)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रो॒ळाशं॒ यो अ॑स्मै॒ सोमं॒ रर॑त आ॒शिर॑म् ।  
+पादित्तं श॒क्रो अंह॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “trouble; sin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ práyasvantaḥ ← práyasvant- (nominal stem)
 
 satrā́caḥ ← satrā́ñc- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒ष्माकं॑ बु॒ध्ने अ॒पां न याम॑नि विथु॒र्यति॒ न म॒ही श्र॑थ॒र्यति॑ ।  
+वि॒श्वप्सु॑र्य॒ज्ञो अ॒र्वाग॒यं सु वः॒ प्रय॑स्वन्तो॒ न स॒त्राच॒ आ ग॑त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

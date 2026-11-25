@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "देवश्रवा देववातश्च भारतौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 netā́ ← netár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अम॑न्थिष्टां॒ भार॑ता रे॒वद॒ग्निं दे॒वश्र॑वा दे॒ववा॑तः सु॒दक्ष॑म् ।  
+अग्ने॒ वि प॑श्य बृह॒ताभि रा॒येषां नो॑ ने॒ता भ॑वता॒दनु॒ द्यून् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

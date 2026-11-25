@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "संवर्तः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -56,7 +57,11 @@ vartaním ← vartaní- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ या॑हि॒ वन॑सा स॒ह गावः॑ सचन्त वर्त॒निं यदूध॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +125,6 @@ _________
 - “udder; ūdhas \[word\]; night.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

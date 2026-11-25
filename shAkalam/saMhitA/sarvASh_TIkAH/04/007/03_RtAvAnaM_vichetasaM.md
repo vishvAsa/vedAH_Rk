@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -62,7 +63,12 @@ dáme-dame ← dáma- (nominal stem)
 
 haskartā́ram ← haskartár- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तावा॑नं॒ विचे॑तसं॒ पश्य॑न्तो॒ द्यामि॑व॒ स्तृभिः॑ ।  
+विश्वे॑षामध्व॒राणां॑ हस्क॒र्तारं॒ दमे॑दमे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “dwelling; home.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

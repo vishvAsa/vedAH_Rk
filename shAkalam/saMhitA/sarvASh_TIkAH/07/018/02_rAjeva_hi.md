@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ rāyé ← rayí- ~ rāy- (nominal stem)
 
 tvāyatáḥ ← √tvāy- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+राजे॑व॒ हि जनि॑भिः॒ क्षेष्ये॒वाव॒ द्युभि॑र॒भि वि॒दुष्क॒विः सन् ।  
+पि॒शा गिरो॑ मघव॒न्गोभि॒रश्वै॑स्त्वाय॒तः शि॑शीहि रा॒ये अ॒स्मान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

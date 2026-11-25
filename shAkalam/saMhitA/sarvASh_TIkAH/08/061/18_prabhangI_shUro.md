@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ vájram ← vájra- (nominal stem)
 
 yā́ ← yá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒भ॒ङ्गी शूरो॑ म॒घवा॑ तु॒वीम॑घः॒ सम्मि॑श्लो वि॒र्या॑य॒ कम् ।  
+उ॒भा ते॑ बा॒हू वृष॑णा शतक्रतो॒ नि या वज्रं॑ मिमि॒क्षतुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “season.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

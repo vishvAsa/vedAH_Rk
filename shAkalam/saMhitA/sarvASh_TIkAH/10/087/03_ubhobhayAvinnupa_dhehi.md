@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -92,7 +93,12 @@ sám ← sám (invariable)
 
 yātudhā́nān ← yātudhā́na- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भोभ॑यावि॒न्नुप॑ धेहि॒ दंष्ट्रा॑ हिं॒स्रः शिशा॒नोऽव॑रं॒ परं॑ च ।  
+उ॒तान्तरि॑क्षे॒ परि॑ याहि राज॒ञ्जम्भैः॒ सं धे॑ह्य॒भि या॑तु॒धाना॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

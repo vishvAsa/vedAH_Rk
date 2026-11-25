@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ sudānū ← sudā́nu- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यहस्तमश्विना॒ ररा॑णा पु॒त्रं न॑रा वध्रिम॒त्या अ॑दत्तम् ।  
+त्रिधा॑ ह॒ श्याव॑मश्विना॒ विक॑स्त॒मुज्जी॒वस॑ ऐरयतं सुदानू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “big; lavish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

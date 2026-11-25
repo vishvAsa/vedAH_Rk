@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दृळ्हच्युत आगस्त्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ amŕ̥tāsaḥ ← amŕ̥ta- (nominal stem)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑ रू॒पाण्या॑वि॒शन्पु॑ना॒नो या॑ति हर्य॒तः ।  
+यत्रा॒मृता॑स॒ आस॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

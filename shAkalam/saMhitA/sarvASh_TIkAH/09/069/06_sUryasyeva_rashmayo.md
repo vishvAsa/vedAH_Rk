@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ pavate ← √pū- (root)
 
 r̥té ← r̥té (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सूर्य॑स्येव र॒श्मयो॑ द्रावयि॒त्नवो॑ मत्स॒रासः॑ प्र॒सुपः॑ सा॒कमी॑रते ।  
+तन्तुं॑ त॒तं परि॒ सर्गा॑स आ॒शवो॒ नेन्द्रा॑दृ॒ते प॑वते॒ धाम॒ किं च॒न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “some(a); any(a); some(a); any(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

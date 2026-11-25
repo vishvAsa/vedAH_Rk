@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ punāna ← √pū- (root)
 
 tā́ni ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवा॒ कल्पे॑षु नः पुम॒स्तमां॑सि सोम॒ योध्या॑ ।  
+तानि॑ पुनान जङ्घनः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “murder; kill.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

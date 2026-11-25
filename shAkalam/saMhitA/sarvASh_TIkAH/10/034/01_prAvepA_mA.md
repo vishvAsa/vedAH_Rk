@@ -4,6 +4,7 @@ devataa = "अक्षकृषिप्रशंसा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकृषिप्रशंसा
@@ -77,7 +78,12 @@ máhyam ← ahám (pronoun)
 
 vibhī́dakaḥ ← vibhī́daka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒वे॒पा मा॑ बृह॒तो मा॑दयन्ति प्रवाते॒जा इरि॑णे॒ वर्वृ॑तानाः ।  
+सोम॑स्येव मौजव॒तस्य॑ भ॒क्षो वि॒भीद॑को॒ जागृ॑वि॒र्मह्य॑मच्छान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - \[verb\], singular, Athematic s aor. (Ind.)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

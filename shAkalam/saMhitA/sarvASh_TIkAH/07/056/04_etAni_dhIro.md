@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -55,7 +56,11 @@ pŕ̥śniḥ ← pŕ̥śni- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तानि॒ धीरो॑ नि॒ण्या चि॑केत॒ पृश्नि॒र्यदूधो॑ म॒ही ज॒भार॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +124,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

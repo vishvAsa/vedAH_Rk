@@ -4,6 +4,7 @@ devataa = "आपः सोमो वा"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "अनुष्टुप्पुरस्ताद्बृहती वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः सोमो वा
@@ -89,7 +90,12 @@ siñcatu ← √sic- (root)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॑ द्र॒प्सः स्क॒न्नो यस्ते॑ अं॒शुर॒वश्च॒ यः प॒रः स्रु॒चा ।  
+अ॒यं दे॒वो बृह॒स्पतिः॒ सं तं सि॑ञ्चतु॒ राध॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

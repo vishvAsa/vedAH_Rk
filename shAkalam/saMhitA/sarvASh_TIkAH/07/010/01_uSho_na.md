@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ hinvānáḥ ← √hi- (root)
 
 uśatī́ḥ ← √vaś- (root)  
 {case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒षो न जा॒रः पृ॒थु पाजो॑ अश्रे॒द्दवि॑द्युत॒द्दीद्य॒च्छोशु॑चानः ।  
+वृषा॒ हरिः॒ शुचि॒रा भा॑ति भा॒सा धियो॑ हिन्वा॒न उ॑श॒तीर॑जीगः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “wake; watch; awaken; wake up; oversee.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

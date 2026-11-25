@@ -4,6 +4,7 @@ devataa = "रथः"
 RShiH = "गर्गः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रथः
@@ -89,7 +90,12 @@ vájram ← vájra- (nominal stem)
 
 yaja ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वस्पृ॑थि॒व्याः पर्योज॒ उद्भृ॑तं॒ वन॒स्पति॑भ्यः॒ पर्याभृ॑तं॒ सहः॑ ।  
+अ॒पामो॒ज्मानं॒ परि॒ गोभि॒रावृ॑त॒मिन्द्र॑स्य॒ वज्रं॑ ह॒विषा॒ रथं॑ यज ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -244,12 +249,6 @@ To the strongness of the waters enclosed by cows, to the mace of
 Indra—to the Chariot—sacrifice with an oblation.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The awkward ‘strongness’ in English tr. is meant to represent the difference between ójas- ‘strength’ in pāda a, the standard nominal abstract to this root, and ojmán-, found only here in the RV, though attested in subsequent Vedic texts. Although the ref. to the chariot in vs. 26 is hardly transparent, in this vs. it has become a barely solvable riddle. In particular, “the strongness of the waters enclosed by cows” (apā́m ojmā́nam pári góbhir ā́vṛtam) could not be interpr. without 26a, c: the “strongness of the waters” is presumably the tree (vánas-páti- in 26a, 27b), or rather the wood of the tree -- so called because plants grow only when watered.
-
-“Enclosed by cows” recalls 26c “knotted together with cows’ (hide)” (góbhiḥ sáṃnaddhaḥ), referring to the leather that binds the wooden parts.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details><summary><h2>26-31 ...{Loading}...</h2></summary>
 
@@ -257,7 +256,6 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

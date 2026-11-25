@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ paramáḥ ← paramá- (nominal stem)
 
 svanā́t ← svaná- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तत्त्यत्त॑ इन्द्रि॒यम॑चेति॒ येनाव॑धीर्व॒रशि॑खस्य॒ शेषः॑ ।  
+वज्र॑स्य॒ यत्ते॒ निह॑तस्य॒ शुष्मा॑त्स्व॒नाच्चि॑दिन्द्र पर॒मो द॒दार॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “burst; burst.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

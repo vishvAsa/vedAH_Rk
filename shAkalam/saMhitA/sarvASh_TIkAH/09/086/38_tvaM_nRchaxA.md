@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ syāma ← √as- 1 (root)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नृ॒चक्षा॑ असि सोम वि॒श्वतः॒ पव॑मान वृषभ॒ ता वि धा॑वसि ।  
+स नः॑ पवस्व॒ वसु॑म॒द्धिर॑ण्यवद्व॒यं स्या॑म॒ भुव॑नेषु जी॒वसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -252,10 +257,6 @@ You, Soma, are one whose gaze is on men on every side. Purifying  yourself, bull
 Purify yourself in a manner rich in goods and gold for us. May we be  (fit) to live in the worlds.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I take the -mat and -vat forms adverbially.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">
 <details><summary><h2>37-39 ...{Loading}...</h2></summary>
 
@@ -265,7 +266,6 @@ Note in 38 first the enclitic naḥ and then the 1st pl. opt. syāma. The poet b
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ práti ← práti (invariable)
 
 śīrṣáṇi ← śíras- ~ śīrṣán- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स भू॑तु॒ यो ह॑ प्रथ॒माय॒ धाय॑स॒ ओजो॒ मिमा॑नो महि॒मान॒माति॑रत् ।  
+शूरो॒ यो यु॒त्सु त॒न्वं॑ परि॒व्यत॑ शी॒र्षणि॒ द्यां म॑हि॒ना प्रत्य॑मुञ्चत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     discharge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

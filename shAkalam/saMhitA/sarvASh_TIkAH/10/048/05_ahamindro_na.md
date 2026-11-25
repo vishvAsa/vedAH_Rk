@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -104,7 +105,12 @@ riṣāthana ← √riṣ- (root)
 
 sakhyé ← sakhyá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हमिन्द्रो॒ न परा॑ जिग्य॒ इद्धनं॒ न मृ॒त्यवेऽव॑ तस्थे॒ कदा॑ च॒न ।  
+सोम॒मिन्मा॑ सु॒न्वन्तो॑ याचता॒ वसु॒ न मे॑ पूरवः स॒ख्ये रि॑षाथन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -263,7 +269,6 @@ _________
 - “suffer; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

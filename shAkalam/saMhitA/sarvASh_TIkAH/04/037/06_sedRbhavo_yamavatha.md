@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -80,7 +81,12 @@ medhásātā ← medhásāti- (nominal stem)
 
 sáḥ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सेदृ॑भवो॒ यमव॑थ यू॒यमिन्द्र॑श्च॒ मर्त्य॑म् ।  
+स धी॒भिर॑स्तु॒ सनि॑ता मे॒धसा॑ता॒ सो अर्व॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “horse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ vājínam ← vājín- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ग्रं यु॑युज्म॒ पृत॑नासु सास॒हिमृ॒णका॑ति॒मदा॑भ्यम् ।  
+वेदा॑ भृ॒मं चि॒त्सनि॑ता र॒थीत॑मो वा॒जिनं॒ यमिदू॒ नश॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “reach; achieve; enter (a state); reach.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

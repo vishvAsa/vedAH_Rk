@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ aṅgirasvát ← aṅgirasvát (invariable)
 
 havāmahe ← √hū- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्वा॑ भृगु॒वच्छु॑चे मनु॒ष्वद॑ग्न आहुत ।  
+अ॒ङ्गि॒र॒स्वद्ध॑वामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

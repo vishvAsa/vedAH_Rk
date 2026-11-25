@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ pitā́ ← pitár- (nominal stem)
 
 sádam ← sádam (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां व॑र्धन्ति क्षि॒तयः॑ पृथि॒व्यां त्वां राय॑ उ॒भया॑सो॒ जना॑नाम् ।  
+त्वं त्रा॒ता त॑रणे॒ चेत्यो॑ भूः पि॒ता मा॒ता सद॒मिन्मानु॑षाणाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “man; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

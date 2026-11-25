@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ naḥ ← ahám (pronoun)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ विप्र॑ इ॒हाव॒सेऽह्व॒त्स्तोमे॑भिरश्विना ।  
+अरि॑प्रा॒ वृत्र॑हन्तमा॒ ता नो॑ भूतं मयो॒भुवा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - \[noun\], nominative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

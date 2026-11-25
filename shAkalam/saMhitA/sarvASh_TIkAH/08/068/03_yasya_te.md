@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ hiraṇyáyam ← hiraṇyáya- (nominal stem)
 
 vájram ← vájra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ ते महि॒ना म॒हः परि॑ ज्मा॒यन्त॑मी॒यतुः॑ ।  
+हस्ता॒ वज्रं॑ हिर॒ण्यय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “gold; aureate; hiraṇyaya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

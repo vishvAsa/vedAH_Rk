@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ br̥hát ← br̥hánt- (nominal stem)
 
 dī́dyatam ← √dī- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृष॑णं त्वा व॒यं वृ॑ष॒न्वृष॑णः॒ समि॑धीमहि ।  
+अग्ने॒ दीद्य॑तं बृ॒हत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

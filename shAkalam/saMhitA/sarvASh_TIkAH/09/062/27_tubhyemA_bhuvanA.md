@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ síndhavaḥ ← síndhu- (nominal stem)
 
 túbhyam ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्ये॒मा भुव॑ना कवे महि॒म्ने सो॑म तस्थिरे ।  
+तुभ्य॑मर्षन्ति॒ सिन्ध॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “river; Indus; sindhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,7 +172,6 @@ for you do the rivers rush.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -175,7 +179,6 @@ This tṛca shows more signs of unity than others in this hymn, esp. in the 1st 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

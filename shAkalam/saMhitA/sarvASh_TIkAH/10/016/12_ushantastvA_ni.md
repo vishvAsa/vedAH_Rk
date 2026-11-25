@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ havíṣe ← havís- (nominal stem)
 
 pitr̥̄́n ← pitár- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒शन्त॑स्त्वा॒ नि धी॑मह्यु॒शन्तः॒ समि॑धीमहि ।  
+उ॒शन्नु॑श॒त आ व॑ह पि॒तॄन्ह॒विषे॒ अत्त॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -83,9 +89,9 @@ pitr̥̄́n ← pitár- (nominal stem)
 उ॒शन् । उ॒श॒तः । आ । व॒ह॒ । पि॒तॄन् । ह॒विषे॑ । अत्त॑वे ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-उ॒शन्तः॑ । त्वा॒ । ह॒वा॒म॒हे॒ । उ॒शन्तः॑ । समिति॑ । इ॒धी॒म॒हि॒ ॥ उ॒शन्न् । उ॒श॒तः । एति॑ । व॒ह॒ । पि॒तृन् । ह॒विषे॑ । अत्त॑वे ॥ 
+उ॒शन्तः॑ । त्वा॒ । ह॒वा॒म॒हे॒ । उ॒शन्तः॑ । समिति॑ । इ॒धी॒म॒हि॒ ॥ उ॒शन्न् । उ॒श॒तः । एति॑ । व॒ह॒ । पि॒तृन् । ह॒विषे॑ । अत्त॑वे ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -176,7 +182,6 @@ _________
 - “eat; devour.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

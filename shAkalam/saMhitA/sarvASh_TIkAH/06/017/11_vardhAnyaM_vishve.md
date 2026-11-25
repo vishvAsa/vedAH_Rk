@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ madirám ← madirá- (nominal stem)
 
 vr̥traháṇam ← vr̥trahán- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वर्धा॒न्यं विश्वे॑ म॒रुतः॑ स॒जोषाः॒ पच॑च्छ॒तं म॑हि॒षाँ इ॑न्द्र॒ तुभ्य॑म् ।  
+पू॒षा विष्णु॒स्त्रीणि॒ सरां॑सि धावन्वृत्र॒हणं॑ मदि॒रमं॒शुम॑स्मै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

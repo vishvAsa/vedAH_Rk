@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -72,7 +73,12 @@ svā́ ← svá- (pronoun)
 
 vasūyúḥ ← vasūyú- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॒ यमेति॑ युव॒तिः सु॒दक्षं॑ दो॒षा वस्तो॑र्ह॒विष्म॑ती घृ॒ताची॑ ।  
+उप॒ स्वैन॑म॒रम॑तिर्वसू॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

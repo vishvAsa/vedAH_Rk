@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -89,7 +90,12 @@ tát ← sá- ~ tá- (pronoun)
 
 viśvaminvé ← viśvaminvá- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒त्यामा॒शिषं॑ कृणुता वयो॒धै की॒रिं चि॒द्ध्यव॑थ॒ स्वेभि॒रेवैः॑ ।  
+प॒श्चा मृधो॒ अप॑ भवन्तु॒ विश्वा॒स्तद्रो॑दसी शृणुतं विश्वमि॒न्वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - \[noun\], vocative, dual, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

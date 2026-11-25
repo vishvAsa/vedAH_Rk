@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ ukthébhiḥ ← ukthá- (nominal stem)
 
 víprāḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒धेन्द्रो॑ म॒ह्ना वरि॑वश्चकार दे॒वेभ्यः॒ सत्प॑तिश्चर्षणि॒प्राः ।  
+वि॒वस्व॑तः॒ सद॑ने अस्य॒ तानि॒ विप्रा॑ उ॒क्थेभिः॑ क॒वयो॑ गृणन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

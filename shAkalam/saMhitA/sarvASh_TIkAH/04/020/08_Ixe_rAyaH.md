@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ rāśím ← rāśí- (nominal stem)
 
 vásvaḥ ← vásu- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ईक्षे॑ रा॒यः क्षय॑स्य चर्षणी॒नामु॒त व्र॒जम॑पव॒र्तासि॒ गोना॑म् ।  
+शि॒क्षा॒न॒रः स॑मि॒थेषु॑ प्र॒हावा॒न्वस्वो॑ रा॒शिम॑भिने॒तासि॒ भूरि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

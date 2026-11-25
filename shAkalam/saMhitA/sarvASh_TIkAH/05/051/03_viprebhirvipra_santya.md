@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -54,7 +55,12 @@ devébhiḥ ← devá- (nominal stem)
 
 sómapītaye ← sómapīti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विप्रे॑भिर्विप्र सन्त्य प्रात॒र्याव॑भि॒रा ग॑हि ।  
+दे॒वेभिः॒ सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

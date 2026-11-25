@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ víprasya ← vípra- (nominal stem)
 
 yájamānasya ← √yaj- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्व॑ स्विद॒द्य क॑त॒मास्व॒श्विना॑ वि॒क्षु द॒स्रा मा॑दयेते शु॒भस्पती॑ ।  
+क ईं॒ नि ये॑मे कत॒मस्य॑ जग्मतु॒र्विप्र॑स्य वा॒ यज॑मानस्य वा गृ॒हम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “house; palace; temple; home; place; family; family; stable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

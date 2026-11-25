@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ pāhi ← √pā- 1 (root)
 
 tā́bhiḥ ← sá- ~ tá- (pronoun)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ त्री ते॒ वाजि॑ना॒ त्री ष॒धस्था॑ ति॒स्रस्ते॑ जि॒ह्वा ऋ॑तजात पू॒र्वीः ।  
+ति॒स्र उ॑ ते त॒न्वो॑ दे॒ववा॑ता॒स्ताभि॑र्नः पाहि॒ गिरो॒ अप्र॑युच्छन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - “ceaseless; attentive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

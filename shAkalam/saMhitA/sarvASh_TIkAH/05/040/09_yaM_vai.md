@@ -4,6 +4,7 @@ devataa = "अत्रिः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अत्रिः
@@ -74,7 +75,12 @@ anyé ← anyá- (nominal stem)
 
 nahí ← nahí (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं वै सूर्यं॒ स्व॑र्भानु॒स्तम॒सावि॑ध्यदासु॒रः ।  
+अत्र॑य॒स्तमन्व॑विन्दन्न॒ह्य१॒॑न्ये अश॑क्नुवन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “can; invigorate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

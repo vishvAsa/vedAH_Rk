@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ kavíḥ ← kaví- (nominal stem)
 
 víprasya ← vípra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्रि॒या दि॒वस्प॒दा सोमो॑ हिन्वा॒नो अ॑र्षति ।  
+विप्र॑स्य॒ धार॑या क॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
     guru; Brahma.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

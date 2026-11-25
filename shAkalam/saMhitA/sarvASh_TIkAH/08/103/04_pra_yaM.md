@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ sahasrapoṣíṇam ← sahasrapoṣín- (nominal stem)
 
 tmánā ← tmán- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र यं रा॒ये निनी॑षसि॒ मर्तो॒ यस्ते॑ वसो॒ दाश॑त् ।  
+स वी॒रं ध॑त्ते अग्न उक्थशं॒सिनं॒ त्मना॑ सहस्रपो॒षिण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -234,7 +239,6 @@ thousand by himself, o Agni.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -242,7 +246,6 @@ In both these vss. tmánā ‘by himself’ contrasts with the vast number (thou
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

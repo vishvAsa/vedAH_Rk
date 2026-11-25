@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "रातहव्य आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -77,7 +78,12 @@ vā ← vā (invariable)
 
 vánate ← √vanⁱ- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यश्चि॒केत॒ स सु॒क्रतु॑र्देव॒त्रा स ब्र॑वीतु नः ।  
+वरु॑णो॒ यस्य॑ दर्श॒तो मि॒त्रो वा॒ वन॑ते॒ गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

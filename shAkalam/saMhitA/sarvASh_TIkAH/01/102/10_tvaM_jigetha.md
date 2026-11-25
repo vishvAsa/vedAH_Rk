@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ indra ← índra- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं जि॑गेथ॒ न धना॑ रुरोधि॒थार्भे॑ष्वा॒जा म॑घवन्म॒हत्सु॑ च ।  
+त्वामु॒ग्रमव॑से॒ सं शि॑शीम॒स्यथा॑ न इन्द्र॒ हव॑नेषु चोदय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “impel; drive; incite; command; drive; arouse; propel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ mányamānasya ← √man- 1 (root)
 
 márma ← márman- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त इन्न्व॑स्य॒ मधु॑मद्विविप्र॒ इन्द्र॑स्य॒ शर्धो॑ म॒रुतो॒ य आस॑न् ।  
+येभि॑र्वृ॒त्रस्ये॑षि॒तो वि॒वेदा॑म॒र्मणो॒ मन्य॑मानस्य॒ मर्म॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “marman; secret; secret; mystery; vulnerability.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

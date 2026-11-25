@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ sudānavaḥ ← sudā́nu- (nominal stem)
 
 yuṣmā́ka ← tvám (pronoun)  
 {case:GEN, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गृह॑मेधास॒ आ ग॑त॒ मरु॑तो॒ माप॑ भूतन ।  
+यु॒ष्माको॒ती सु॑दानवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “big; lavish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -171,7 +176,6 @@ with your help, you of good drops.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -179,7 +183,6 @@ For the Sākamedha rites reflected in these vss., see published introduction. an
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

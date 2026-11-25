@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ svastíbhiḥ ← svastí- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समु॑ प्रि॒यो मृ॑ज्यते॒ सानो॒ अव्ये॑ य॒शस्त॑रो य॒शसां॒ क्षैतो॑ अ॒स्मे ।  
+अ॒भि स्व॑र॒ धन्वा॑ पू॒यमा॑नो यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -244,12 +249,6 @@ The dear one is groomed on the sheep’s back, the more glorious of the  gloriou
 Cry out, run, as you are being purified. – Do you protect us always with  your blessings.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-pūṣéva dhījávano ‘si soma, which is, of course, a good arg. But Pūṣan doesn’t cut much of a figure in IX, does not really belong in this exalted company (Vāyu, Mitra+Varuṇa, Indra - though see the list in IX.81.4-5), and is not an appropriate referent for the other words in this pāda: náram … ratheṣṭhā̇́m. In the sg.
-
-nṛ́- is almost always used of Indra, as are ratheṣṭhā́- and ratheṣṭhá-. I am therefore certain that c, like d, refers to Indra.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -257,7 +256,6 @@ No obvious cohesion in this tṛca, though it ends with a clan refrain.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

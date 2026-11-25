@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "उरुचक्रिरात्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -60,7 +61,12 @@ mā́ ← mā́ (invariable)
 
 tánasā ← tánas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा कस्या॑द्भुतक्रतू य॒क्षं भु॑जेमा त॒नूभिः॑ ।  
+मा शेष॑सा॒ मा तन॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - \[noun\], instrumental, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -71,7 +72,12 @@ mánmabhiḥ ← mánman- (nominal stem)
 
 vipra ← vípra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रत्य॑ग्ने मिथु॒ना द॑ह यातु॒धाना॑ किमी॒दिना॑ ।  
+सं त्वा॑ शिशामि जागृ॒ह्यद॑ब्धं विप्र॒ मन्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “hymn; idea; purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

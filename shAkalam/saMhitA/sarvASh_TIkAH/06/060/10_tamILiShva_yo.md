@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -60,7 +61,12 @@ kr̥ṇóti ← √kr̥- (root)
 
 kr̥ṣṇā́ ← kr̥ṣṇá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमी॑ळिष्व॒ यो अ॒र्चिषा॒ वना॒ विश्वा॑ परि॒ष्वज॑त् ।  
+कृ॒ष्णा कृ॒णोति॑ जि॒ह्वया॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “tongue; tongue; jihvā \[word\]; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

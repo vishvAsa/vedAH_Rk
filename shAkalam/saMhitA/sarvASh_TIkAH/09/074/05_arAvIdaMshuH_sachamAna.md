@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कक्षीवान्"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ tokám ← toká- (nominal stem)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अरा॑वीदं॒शुः सच॑मान ऊ॒र्मिणा॑ देवा॒व्यं१॒॑ मनु॑षे पिन्वति॒ त्वच॑म् ।  
+दधा॑ति॒ गर्भ॒मदि॑तेरु॒पस्थ॒ आ येन॑ तो॒कं च॒ तन॑यं च॒ धाम॑हे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

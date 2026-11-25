@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -86,7 +87,12 @@ jāyate ← √janⁱ- (root)
 
 vājī́ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒शा॒नाय॒ प्रहु॑तिं॒ यस्त॒ आन॒ट् छुचिं॒ सोमं॑ शुचिपा॒स्तुभ्यं॑ वायो ।  
+कृ॒णोषि॒ तं मर्त्ये॑षु प्रश॒स्तं जा॒तोजा॑तो जायते वा॒ज्य॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

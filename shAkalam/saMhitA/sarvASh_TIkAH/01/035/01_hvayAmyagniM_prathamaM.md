@@ -4,6 +4,7 @@ devataa = "अग्निः, मित्रावरुणौ;रात्र
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः, मित्रावरुणौ;रात्रिः, सविता
@@ -80,7 +81,12 @@ savitā́ram ← savitár- (nominal stem)
 
 ūtáye ← ūtí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह्वया॑म्य॒ग्निं प्र॑थ॒मं स्व॒स्तये॒ ह्वया॑मि मि॒त्रावरु॑णावि॒हाव॑से ।  
+ह्वया॑मि॒ रात्रीं॒ जग॑तो नि॒वेश॑नीं॒ ह्वया॑मि दे॒वं स॑वि॒तार॑मू॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

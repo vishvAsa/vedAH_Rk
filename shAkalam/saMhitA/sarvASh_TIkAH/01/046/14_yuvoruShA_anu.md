@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ r̥tā́ ← r̥tá- (nominal stem)
 
 vanathaḥ ← √vanⁱ- (root)  
 {number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वोरु॒षा अनु॒ श्रियं॒ परि॑ज्मनोरु॒पाच॑रत् ।  
+ऋ॒ता व॑नथो अ॒क्तुभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “night; dark; beam.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

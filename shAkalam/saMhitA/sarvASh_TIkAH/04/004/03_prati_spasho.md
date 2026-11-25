@@ -4,6 +4,7 @@ devataa = "रक्षोहाग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -98,7 +99,12 @@ te ← tvám (pronoun)
 
 vyáthiḥ ← vyáthi- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॒ स्पशो॒ वि सृ॑ज॒ तूर्णि॑तमो॒ भवा॑ पा॒युर्वि॒शो अ॒स्या अद॑ब्धः ।  
+यो नो॑ दू॒रे अ॒घशं॑सो॒ यो अन्त्यग्ने॒ माकि॑ष्टे॒ व्यथि॒रा द॑धर्षीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +117,7 @@ vyáthiḥ ← vyáthi- (nominal stem)
 
 प्रतीति॑ । स्पशः॑ । वीति॑ । सृ॒ज॒ । तूर्णि॑तम॒ इति॒ तूर्णि॑-त॒मः॒ । भव॑ । पा॒युः । वि॒शः । अ॒स्याः । अद॑ब्धः ॥   
 यः । नः॒ । दू॒रे । अ॒घशँ॑स॒ इत्य॒घ-शँ॒सः॒ । [28]  
-यः । अन्ति॑ । अग्ने॑ । माकिः॑ । ते॒ । व्यथिः॑ । एति॑ । द॒ध॒र्षी॒त् ॥ 
+यः । अन्ति॑ । अग्ने॑ । माकिः॑ । ते॒ । व्यथिः॑ । एति॑ । द॒ध॒र्षी॒त् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -255,7 +261,6 @@ _________
 - “dare; attack.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -301,12 +306,6 @@ Hurl out your spies against (the foes), as the swiftest one. Become the  undecei
 Whoever curses us at a distance, who nearby, o Agni, let no one defy  your veering course.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner renders d “keiner soll es wagen, dich irrezuführen,” but vyáthiḥ ‘veering course’ is simply a description of the usual behavior of fire, amply described in vss.
-
-1-2.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/004/02-04.md">
 <details><summary><h2>02-04 ...{Loading}...</h2></summary>
 
@@ -314,7 +313,6 @@ Note the preverb chaining: 2d ví sṛja, 3a práti … ví sṛja, 4b práti.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

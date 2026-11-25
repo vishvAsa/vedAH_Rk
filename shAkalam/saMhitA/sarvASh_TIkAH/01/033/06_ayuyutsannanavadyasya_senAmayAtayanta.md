@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ citáyantaḥ ← √cit- (root)
 
 pravádbhiḥ ← pravát- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अयु॑युत्सन्ननव॒द्यस्य॒ सेना॒मया॑तयन्त क्षि॒तयो॒ नव॑ग्वाः ।  
+वृ॒षा॒युधो॒ न वध्र॑यो॒ निर॑ष्टाः प्र॒वद्भि॒रिन्द्रा॑च्चि॒तय॑न्त आयन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “come; travel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

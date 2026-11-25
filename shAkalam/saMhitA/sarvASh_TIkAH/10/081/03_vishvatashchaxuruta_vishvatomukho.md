@@ -4,6 +4,7 @@ devataa = "विश्वकर्मा"
 RShiH = "विश्वकर्मा भौवनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -77,7 +78,12 @@ dyā́vābhū́mī ← dyā́vābhū́mī- (nominal stem)
 
 janáyan ← √janⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒श्वत॑श्चक्षुरु॒त वि॒श्वतो॑मुखो वि॒श्वतो॑बाहुरु॒त वि॒श्वत॑स्पात् ।  
+सं बा॒हुभ्यां॒ धम॑ति॒ सं पत॑त्रै॒र्द्यावा॒भूमी॑ ज॒नय॑न्दे॒व एकः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     consistent; any(a); undifferentiated; disjunct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

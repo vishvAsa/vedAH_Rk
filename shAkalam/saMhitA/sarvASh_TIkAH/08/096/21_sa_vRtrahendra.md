@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sákhibhyaḥ ← sákhi- (nominal stem)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वृ॑त्र॒हेन्द्र॑ ऋभु॒क्षाः स॒द्यो ज॑ज्ञा॒नो हव्यो॑ बभूव ।  
+कृ॒ण्वन्नपां॑सि॒ नर्या॑ पु॒रूणि॒ सोमो॒ न पी॒तो हव्यः॒ सखि॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

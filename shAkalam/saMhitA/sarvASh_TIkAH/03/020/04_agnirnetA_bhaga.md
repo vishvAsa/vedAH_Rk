@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ párṣat ← √pr̥- (root)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्ने॒ता भग॑ इव क्षिती॒नां दैवी॑नां दे॒व ऋ॑तु॒पा ऋ॒तावा॑ ।  
+स वृ॑त्र॒हा स॒नयो॑ वि॒श्ववे॑दाः॒ पर्ष॒द्विश्वाति॑ दुरि॒ता गृ॒णन्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

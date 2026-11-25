@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॒ मदो॒ वरे॑ण्यो॒ य इ॑न्द्र वृत्र॒हन्त॑मः ।  
+य आ॑द॒दिः स्व१॒॑र्नृभि॒र्यः पृत॑नासु दु॒ष्टरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “incomparable; irresistible; unbearable; unconquerable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -209,7 +214,6 @@ which with superior men takes the sun, which is difficult to surpass in  battles
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/046/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -217,7 +221,6 @@ A thematic and syntactic modulation. The yáḥ clauses of vs. 8 (which lacks a 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

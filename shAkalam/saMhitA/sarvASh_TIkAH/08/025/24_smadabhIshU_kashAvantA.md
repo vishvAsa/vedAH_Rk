@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -60,7 +61,12 @@ sácā ← sácā (invariable)
 
 vājínau ← vājín- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्मद॑भीशू॒ कशा॑वन्ता॒ विप्रा॒ नवि॑ष्ठया म॒ती ।  
+म॒हो वा॒जिना॒वर्व॑न्ता॒ सचा॑सनम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “win; get; gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

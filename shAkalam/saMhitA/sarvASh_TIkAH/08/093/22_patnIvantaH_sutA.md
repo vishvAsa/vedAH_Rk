@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ jágmiḥ ← jágmi- (nominal stem)
 
 nicumpuṇáḥ ← nicumpuṇá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पत्नी॑वन्तः सु॒ता इ॒म उ॒शन्तो॑ यन्ति वी॒तये॑ ।  
+अ॒पां जग्मि॑र्निचुम्पु॒णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +123,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

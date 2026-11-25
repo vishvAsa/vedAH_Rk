@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ iva ← iva (invariable)
 
 śévaḥ ← śéva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वो न यः स॑वि॒ता स॒त्यम॑न्मा॒ क्रत्वा॑ नि॒पाति॑ वृ॒जना॑नि॒ विश्वा॑ ।  
+पु॒रु॒प्र॒श॒स्तो अ॒मति॒र्न स॒त्य आ॒त्मेव॒ शेवो॑ दिधि॒षाय्यो॑ भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

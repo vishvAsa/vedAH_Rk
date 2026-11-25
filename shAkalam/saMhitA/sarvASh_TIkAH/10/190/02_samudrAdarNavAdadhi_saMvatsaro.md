@@ -4,6 +4,7 @@ devataa = "भाववृत्तं"
 RShiH = "अघमर्षणो माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -62,7 +63,12 @@ vaśī́ ← vaśín- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मु॒द्राद॑र्ण॒वादधि॑ संवत्स॒रो अ॑जायत ।  
+अ॒हो॒रा॒त्राणि॑ वि॒दध॒द्विश्व॑स्य मिष॒तो व॒शी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “powerful; controlling; regnant; authoritative.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

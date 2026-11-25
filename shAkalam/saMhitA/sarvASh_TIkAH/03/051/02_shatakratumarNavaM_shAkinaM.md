@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ dhāmasā́cam ← dhāmasác- (nominal stem)
 
 svarvídam ← svarvíd- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तक्र॑तुमर्ण॒वं शा॒किनं॒ नरं॒ गिरो॑ म॒ इन्द्र॒मुप॑ यन्ति वि॒श्वतः॑ ।  
+वा॒ज॒सनिं॑ पू॒र्भिदं॒ तूर्णि॑म॒प्तुरं॑ धाम॒साच॑मभि॒षाचं॑ स्व॒र्विद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “finding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

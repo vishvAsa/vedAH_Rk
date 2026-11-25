@@ -4,6 +4,7 @@ devataa = "आपो गावो वा"
 RShiH = "मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपो गावो वा
@@ -63,7 +64,12 @@ bhunajāmahai ← √bhuj- 2 (root)
 
 jīvā́bhiḥ ← jīvá- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नि॑वर्त॒ नि व॑र्तय॒ पुन॑र्न इन्द्र॒ गा दे॑हि ।  
+जी॒वाभि॑र्भुनजामहै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

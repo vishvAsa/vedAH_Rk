@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्ट्रादंष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ pūrvī́ḥ ← purú- (nominal stem)
 
 sūnŕ̥tāḥ ← sūnŕ̥ta- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒ध्रीचीः॒ सिन्धु॑मुश॒तीरि॑वायन्त्स॒नाज्जा॒र आ॑रि॒तः पू॒र्भिदा॑साम् ।  
+अस्त॒मा ते॒ पार्थि॑वा॒ वसू॑न्य॒स्मे ज॑ग्मुः सू॒नृता॑ इन्द्र पू॒र्वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “many; much(a); very.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

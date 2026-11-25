@@ -4,6 +4,7 @@ devataa = "होत्राशिषः"
 RShiH = "प्रजावान् प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - होत्राशिषः
@@ -80,7 +81,12 @@ jánibhyaḥ ← jáni- (nominal stem)
 
 putrā́n ← putrá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं गर्भ॑मदधा॒मोष॑धीष्व॒हं विश्वे॑षु॒ भुव॑नेष्व॒न्तः ।  
+अ॒हं प्र॒जा अ॑जनयं पृथि॒व्याम॒हं जनि॑भ्यो अप॒रीषु॑ पु॒त्रान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

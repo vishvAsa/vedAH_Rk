@@ -4,6 +4,7 @@ devataa = "अग्नीषोमौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नीषोमौ
@@ -80,7 +81,12 @@ yájamānāya ← √yaj- (root)
 
 yós ← yós (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्नी॑षोमा ह॒विषः॒ प्रस्थि॑तस्य वी॒तं हर्य॑तं वृषणा जु॒षेथा॑म् ।  
+सु॒शर्मा॑णा॒ स्वव॑सा॒ हि भू॒तमथा॑ धत्तं॒ यज॑मानाय॒ शं योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “fortune.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

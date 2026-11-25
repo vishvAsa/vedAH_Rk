@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ samudrā́ya ← samudrá- (nominal stem)
 
 síndhavaḥ ← síndhu- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सम॑स्य म॒न्यवे॒ विशो॒ विश्वा॑ नमन्त कृ॒ष्टयः॑ ।  
+स॒मु॒द्राये॑व॒ सिन्ध॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “river; Indus; sindhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

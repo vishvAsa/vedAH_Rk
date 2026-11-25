@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ sunvatáḥ ← √su- (root)
 
 vr̥dháḥ ← vr̥dhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि हि स॑त्य सोमपा उ॒भे ब॒भूथ॒ रोद॑सी ।  
+इन्द्रासि॑ सुन्व॒तो वृ॒धः पति॑र्दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

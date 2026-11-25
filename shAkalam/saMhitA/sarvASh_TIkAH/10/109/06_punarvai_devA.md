@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "जुहूर्ब्रह्मजायोर्ध्वनाभा वा ब्राह्मः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -71,7 +72,12 @@ daduḥ ← √dā- 1 (root)
 
 púnar ← púnar (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पुन॒र्वै दे॒वा अ॑ददुः॒ पुन॑र्मनु॒ष्या॑ उ॒त ।  
+राजा॑नः स॒त्यं कृ॑ण्वा॒ना ब्र॑ह्मजा॒यां पुन॑र्ददुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

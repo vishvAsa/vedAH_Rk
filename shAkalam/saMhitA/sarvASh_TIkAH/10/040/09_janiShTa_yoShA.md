@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ patitvanám ← patitvaná- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जनि॑ष्ट॒ योषा॑ प॒तय॑त्कनीन॒को वि चारु॑हन्वी॒रुधो॑ दं॒सना॒ अनु॑ ।  
+आस्मै॑ रीयन्ते निव॒नेव॒ सिन्ध॑वो॒ऽस्मा अह्ने॑ भवति॒ तत्प॑तित्व॒नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “marriage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

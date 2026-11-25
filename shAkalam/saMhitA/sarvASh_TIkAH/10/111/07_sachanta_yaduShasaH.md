@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्ट्रादंष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ veda ← √vid- 2 (root)
 
 yatáḥ ← √i- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सच॑न्त॒ यदु॒षसः॒ सूर्ये॑ण चि॒त्राम॑स्य के॒तवो॒ राम॑विन्दन् ।  
+आ यन्नक्ष॑त्रं॒ ददृ॑शे दि॒वो न पुन॑र्य॒तो नकि॑र॒द्धा नु वे॑द ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

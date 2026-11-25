@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -63,7 +64,12 @@ saptá ← saptá- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्ता॒नां स॒प्त ऋ॒ष्टयः॑ स॒प्त द्यु॒म्नान्ये॑षाम् ।  
+स॒प्तो अधि॒ श्रियो॑ धिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

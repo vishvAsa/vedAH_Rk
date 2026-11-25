@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)
 
 vavr̥tyām ← √vr̥t- (root)  
 {number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्यं सु मे॒षं म॑हया स्व॒र्विदं॑ श॒तं यस्य॑ सु॒भ्वः॑ सा॒कमीर॑ते ।  
+अत्यं॒ न वाजं॑ हवन॒स्यदं॒ रथ॒मेन्द्रं॑ ववृत्या॒मव॑से सुवृ॒क्तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

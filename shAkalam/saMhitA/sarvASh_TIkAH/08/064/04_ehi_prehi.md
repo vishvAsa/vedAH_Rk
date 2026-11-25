@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ ródasī ← ródasī- (nominal stem)
 
 ubhé ← ubhá- (pronoun)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एहि॒ प्रेहि॒ क्षयो॑ दि॒व्या॒३॒॑घोष॑ञ्चर्षणी॒नाम् ।  
+ओभे पृ॑णासि॒ रोद॑सी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “heaven and earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

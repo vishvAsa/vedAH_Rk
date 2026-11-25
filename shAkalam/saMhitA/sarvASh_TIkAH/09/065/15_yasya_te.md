@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ pavasva ← √pū- (root)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ ते॒ मद्यं॒ रसं॑ ती॒व्रं दु॒हन्त्यद्रि॑भिः ।  
+स प॑वस्वाभिमाति॒हा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “killing; curative; destroying; removing; māraka; stabbing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,10 +173,6 @@ _________
 You, whose exhilarating, sharp sap they milk out with stones— purify yourself as smasher of hostility.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-A rare sign of hostility (abhimāti-hán- ‘smasher of hostility’) in these anodyne Gāyatrī assemblages.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -179,7 +180,6 @@ Again, no signs of unity.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

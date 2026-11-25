@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ sū́raḥ ← svàr- (nominal stem)
 
 úparaḥ ← úpara- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तौ मे॒ गावौ॑ प्रम॒रस्य॑ यु॒क्तौ मो षु प्र से॑धी॒र्मुहु॒रिन्म॑मन्धि ।  
+आप॑श्चिदस्य॒ वि न॑श॒न्त्यर्थं॒ सूर॑श्च म॒र्क उप॑रो बभू॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -270,7 +276,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "बुधगविष्ठिरावात्रेयौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ priyáḥ ← priyá- (nominal stem)
 
 viśā́m ← víś- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स॒द्यो अ॑ग्ने॒ अत्ये॑ष्य॒न्याना॒विर्यस्मै॒ चारु॑तमो ब॒भूथ॑ ।  
+ई॒ळेन्यो॑ वपु॒ष्यो॑ वि॒भावा॑ प्रि॒यो वि॒शामति॑थि॒र्मानु॑षीणाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “human.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -80,7 +81,12 @@ sū́ryeṇa ← sū́rya- (nominal stem)
 
 uṣásam ← uṣás- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कु॒विद॒ङ्ग नम॑सा॒ ये वृ॒धासः॑ पु॒रा दे॒वा अ॑नव॒द्यास॒ आस॑न् ।  
+ते वा॒यवे॒ मन॑वे बाधि॒तायावा॑सयन्नु॒षसं॒ सूर्ये॑ण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

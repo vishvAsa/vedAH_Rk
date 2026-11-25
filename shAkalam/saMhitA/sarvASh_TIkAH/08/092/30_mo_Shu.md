@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ mátsva ← √mad- (root)
 
 sutásya ← √su- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मो षु ब्र॒ह्मेव॑ तन्द्र॒युर्भुवो॑ वाजानां पते ।  
+मत्स्वा॑ सु॒तस्य॒ गोम॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “rich in cattle; bovine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -77,7 +78,12 @@ sám ← sám (invariable)
 
 saṁvatsaré ← saṁvatsará- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒ष्ट्वी शमी॑ तरणि॒त्वेन॑ वा॒घतो॒ मर्ता॑सः॒ सन्तो॑ अमृत॒त्वमा॑नशुः ।  
+सौ॒ध॒न्व॒ना ऋ॒भवः॒ सूर॑चक्षसः संवत्स॒रे सम॑पृच्यन्त धी॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “thinking; prayer; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

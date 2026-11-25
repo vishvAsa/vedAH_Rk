@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः, अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -17,12 +18,12 @@ ChandaH = "गायत्री"
 भ᳓गस्येव भुजिं᳓ हुवे  
 अग्निं᳓ समुद्र᳓वाससम्
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आ स॒वँ स॑वि॒तुर्य॑था॒ भग॑स्येव भु॒जिँ हु॑वे ।   
 अ॒ग्निँ स॑मु॒द्रवा॑ससम् ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -66,7 +67,12 @@ agním ← agní- (nominal stem)
 
 samudrávāsasam ← samudrávāsas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ स॒वं स॑वि॒तुर्य॑था॒ भग॑स्येव भु॒जिं हु॑वे ।  
+अ॒ग्निं स॑मु॒द्रवा॑ससम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “clothing; fabric; garment; feather; dress; envelope.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -161,8 +166,6 @@ _________
 
 34द्वितीया - यथा सवितुस्सवमनुज्ञां आह्वयामि प्रार्थये, यथा च भगस्यादित्यस्य भुजिं भोगं प्रार्थये, तद्वदग्निं समुद्रवाससं हुवे । 'जवसवौ छन्दसि ' इत्यजन्तौ निपात्येते । भुजेरौणादिकः किप्रत्ययः, भुजिरिति । यद्वा - 'इक्स्तिपौ' इति धातुनिर्देशे विधीयमानोर्थनिर्देशेपि प्रवर्तते ॥
 </details>
-
-
 
 <details><summary>Wilson</summary>
 
@@ -213,5 +216,3 @@ Ihn, der dem Trieb des Savitar und dem Genuss des Bhaga gleicht Agni, den meerum
 - गायत्री
 - षड्जः
 </details>
-
-

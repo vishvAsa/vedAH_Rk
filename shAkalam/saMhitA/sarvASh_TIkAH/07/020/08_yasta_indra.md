@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ syā́ma ← √as- 1 (root)
 
 várūthe ← várūtha- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्त॑ इन्द्र प्रि॒यो जनो॒ ददा॑श॒दस॑न्निरे॒के अ॑द्रिवः॒ सखा॑ ते ।  
+व॒यं ते॑ अ॒स्यां सु॑म॒तौ चनि॑ष्ठाः॒ स्याम॒ वरू॑थे॒ अघ्न॑तो॒ नृपी॑तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “protection.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

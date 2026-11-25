@@ -4,6 +4,7 @@ devataa = "ऋतवः मित्रावरुणौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतवः मित्रावरुणौ
@@ -54,7 +55,12 @@ r̥túnā ← r̥tú- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं दक्षं॑ धृतव्रत॒ मित्रा॑वरुण दू॒ळभ॑म् ।  
+ऋ॒तुना॑ य॒ज्ञमा॑शाथे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ mithunā́ ← mithuná- (nominal stem)
 
 yájatraḥ ← yájatra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर्च॒द्वृषा॒ वृष॑भिः॒ स्वेदु॑हव्यैर्मृ॒गो नाश्नो॒ अति॒ यज्जु॑गु॒र्यात् ।  
+प्र म॑न्द॒युर्म॒नां गू॑र्त॒ होता॒ भर॑ते॒ मर्यो॑ मिथु॒ना यज॑त्रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “adorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

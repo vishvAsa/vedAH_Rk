@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ ketúm ← ketú- (nominal stem)
 
 yajñā́nām ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विप्रं॒ होता॑रम॒द्रुहं॑ धू॒मके॑तुं वि॒भाव॑सुम् ।  
+य॒ज्ञानां॑ के॒तुमी॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -149,7 +154,6 @@ the beacon of the sacrifices do we implore:
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/044/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -157,7 +161,6 @@ The contents of the imploring mentioned in 10c seems to be given in direct speec
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -92,7 +93,12 @@ ná ← ná (invariable)
 
 vibhā́ti ← √bhā- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स॒म्राजे॑ बृह॒ते मन्म॒ नु प्रि॒यमर्च॑ दे॒वाय॒ वरु॑णाय स॒प्रथः॑ ।  
+अ॒यं य उ॒र्वी म॑हि॒ना महि॑व्रतः॒ क्रत्वा॑ वि॒भात्य॒जरो॒ न शो॒चिषा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “fire; flare; burn; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -261,10 +266,6 @@ Now chant forth at length your own dear thought to the lofty sovereign  king, to
 Here is the one of great commandments who radiates through the two  wide (worlds) with his greatness and by his resolve, like unaging (fire)  with its flame.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner also (n. 8c) claims (fld. by Renou) that this vs. is entirely Varuṇa’s. This is more plausible: he is mentioned by name in b, and máhivrataḥ ‘having great commandments’in c makes it likely that the clause in cd has Varuṇa as subject — though note that máhivrata- is used of Varuṇa only here, with two occurrences each of Agni and Soma, and moreover dhṛtavratā is addressed to both gods in the next vs. (10b). Nonetheless, samrā́j- in pāda a is used frequently of Indra as well as of Varuṇa, so the 1st hemistich may (and probably does) contain a exhortation to the poet to chant both to Indra (as sovereign king) and Varuṇa. The published translation could make this clearer if ‘and’ replaced the comma: “to the lofty sovereign king (and) to the god Varuṇa”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md">
 <details><summary><h2>09-11 ...{Loading}...</h2></summary>
 
@@ -272,7 +273,6 @@ On the annunciatory forms of ayám in these three vss., see published introducti
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

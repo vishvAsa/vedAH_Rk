@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ dhánvāni ← dhánvan- (nominal stem)
 
 saráyante ← √sr̥- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॑ त्वि॒षो जनि॑मन्रेजत॒ द्यौ रेज॒द्भूमि॑र्भि॒यसा॒ स्वस्य॑ म॒न्योः ।  
+ऋ॒घा॒यन्त॑ सु॒भ्व१॑ः॒ पर्व॑तास॒ आर्द॒न्धन्वा॑नि स॒रय॑न्त॒ आपः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -231,16 +236,6 @@ At your birth Heaven trembled and Earth flinched in fear of your  turbulence and
 The well-founded mountains throbbed, the wastelands shuddered, and  the waters ran.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As in vs. 1, the pair heaven and earth are expressed by two singulars (dyaúḥ, bhū́miḥ), even though, again, there is a dual dvandva available: dyā́vā-bhū́mī.
-
-BR suggest reading dyaúr éjad for Pp. dyaúḥ / réjat. Although rejected by Oldenberg, this reading (which does not require changing the Saṃhitā text) is accepted by Geldner, Hoffmann (Injunk. 179, 181), and Gotō (1st class, 271-72), as well as by me. The stem réja- is almost entirely medial (see rejata in pāda a), while éja- is act. It is easy to see how the misparsing could have arisen, due to the presence of immediately preceding rejata.
-
-With Geldner, I take tviṣáḥ as a gen. dependent on bhiyásā in b, thus parallel to manyóḥ. It would also be possible to take tviṣáḥ as an abl. of cause (so Hoffmann 179, Witzel Gotō).
-
-Note the phonetic figure táva tviṣáḥ. Note also that the reflex. adj. svásya must reference táva and therefore have 2nd ps. value (as well as not referring to the grammatical subj., as is sometimes claimed for reflexives).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
 <details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -258,7 +253,6 @@ Its medial ending is an example of -anta replacement of the usual type (cf. Jami
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

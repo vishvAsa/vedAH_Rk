@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ mādayante ← √mad- (root)
 
 tásmin ← sá- ~ tá- (pronoun)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मम॑ग्ने चम॒सं मा वि जि॑ह्वरः प्रि॒यो दे॒वाना॑मु॒त सो॒म्याना॑म् ।  
+ए॒ष यश्च॑म॒सो दे॑व॒पान॒स्तस्मि॑न्दे॒वा अ॒मृता॑ मादयन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ dabhī́taye ← dabhī́ti- (nominal stem)
 
 suhántu ← suhántu- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नृभि॑र्नृमणो दे॒ववी॑तौ॒ भूरी॑णि वृ॒त्रा ह॑र्यश्व हंसि ।  
+त्वं नि दस्युं॒ चुमु॑रिं॒ धुनिं॒ चास्वा॑पयो द॒भीत॑ये सु॒हन्तु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “killing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

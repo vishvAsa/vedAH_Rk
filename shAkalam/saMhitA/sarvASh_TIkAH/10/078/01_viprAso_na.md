@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ máryāḥ ← márya- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विप्रा॑सो॒ न मन्म॑भिः स्वा॒ध्यो॑ देवा॒व्यो॒३॒॑ न य॒ज्ञैः स्वप्न॑सः ।  
+राजा॑नो॒ न चि॒त्राः सु॑सं॒दृशः॑ क्षिती॒नां न मर्या॑ अरे॒पसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “immaculate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

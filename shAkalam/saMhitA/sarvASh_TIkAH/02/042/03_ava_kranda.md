@@ -4,6 +4,7 @@ devataa = "इन्द्रः (कपिंजलरूपी)"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (कपिंजलरूपी)
@@ -83,7 +84,12 @@ vadema ← √vadⁱ- (root)
 
 vidáthe ← vidátha- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ क्रन्द दक्षिण॒तो गृ॒हाणां॑ सुम॒ङ्गलो॑ भद्रवा॒दी श॑कुन्ते ।  
+मा नः॑ स्ते॒न ई॑शत॒ माघशं॑सो बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पणयः"
 RShiH = "सरमा देवशुनी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पणयः
@@ -86,7 +87,12 @@ sómaḥ ← sóma- (nominal stem)
 
 víprāḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दू॒रमि॑त पणयो॒ वरी॑य॒ उद्गावो॑ यन्तु मिन॒तीरृ॒तेन॑ ।  
+बृह॒स्पति॒र्या अवि॑न्द॒न्निगू॑ळ्हाः॒ सोमो॒ ग्रावा॑ण॒ ऋष॑यश्च॒ विप्राः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

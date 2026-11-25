@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ vadema ← √vadⁱ- (root)
 
 vidáthe ← vidátha- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तानि॑ वामश्विना॒ वर्ध॑नानि॒ ब्रह्म॒ स्तोमं॑ गृत्सम॒दासो॑ अक्रन् ।  
+तानि॑ नरा जुजुषा॒णोप॑ यातं बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

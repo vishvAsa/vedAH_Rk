@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -91,7 +92,12 @@ bhūt ← √bhū- (root)
 
 upamātivániḥ ← upamātiváni- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था दा॑शेम॒ नम॑सा सु॒दानू॑नेव॒या म॒रुतो॒ अच्छो॑क्तौ॒ प्रश्र॑वसो म॒रुतो॒ अच्छो॑क्तौ ।  
+मा नोऽहि॑र्बु॒ध्न्यो॑ रि॒षे धा॑द॒स्माकं॑ भूदुपमाति॒वनिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

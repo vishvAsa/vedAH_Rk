@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -52,7 +53,11 @@ jánma ← jánman- (nominal stem)
 
 mā́nuṣasya ← mā́nuṣa- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ दैव्या॑नि व्र॒ता चि॑कि॒त्वाना मानु॑षस्य॒ जन॑स्य॒ जन्म॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +117,6 @@ _________
     parentage; descent; appearance; age; birthplace; beginning; being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

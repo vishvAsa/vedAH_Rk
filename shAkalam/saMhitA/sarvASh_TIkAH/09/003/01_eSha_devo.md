@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शुनःशेपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ abhí ← abhí (invariable)
 
 dróṇāni ← dróṇa- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष दे॒वो अम॑र्त्यः पर्ण॒वीरि॑व दीयति ।  
+अ॒भि द्रोणा॑न्या॒सद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

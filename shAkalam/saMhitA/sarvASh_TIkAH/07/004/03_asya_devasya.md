@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ durókam ← duróka- (nominal stem)
 
 śuśoca ← √śuc- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य दे॒वस्य॑ सं॒सद्यनी॑के॒ यं मर्ता॑सः श्ये॒तं ज॑गृ॒भ्रे ।  
+नि यो गृभं॒ पौरु॑षेयीमु॒वोच॑ दु॒रोक॑म॒ग्निरा॒यवे॑ शुशोच ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “mourn; grieve; flame; glow; burn; repent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

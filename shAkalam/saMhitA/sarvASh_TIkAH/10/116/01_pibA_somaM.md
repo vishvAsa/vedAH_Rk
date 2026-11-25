@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अग्नियुतः स्थौरोग्नियूपो वा स्थौरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ tr̥pát ← tr̥pát (invariable)
 
 vr̥ṣasva ← √vr̥ṣ- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिबा॒ सोमं॑ मह॒त इ॑न्द्रि॒याय॒ पिबा॑ वृ॒त्राय॒ हन्त॑वे शविष्ठ ।  
+पिब॑ रा॒ये शव॑से हू॒यमा॑नः॒ पिब॒ मध्व॑स्तृ॒पदि॒न्द्रा वृ॑षस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “shower; rain; effuse; shower; drench.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

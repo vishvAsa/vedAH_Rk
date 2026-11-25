@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ matíbhiḥ ← matí- (nominal stem)
 
 śáviṣṭham ← śáviṣṭha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ नः॒ पूर्वे॑ पि॒तरो॒ नव॑ग्वाः स॒प्त विप्रा॑सो अ॒भि वा॒जय॑न्तः ।  
+न॒क्ष॒द्दा॒भं ततु॑रिं पर्वते॒ष्ठामद्रो॑घवाचं म॒तिभिः॒ शवि॑ष्ठम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “mighty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -77,7 +78,12 @@ divyám ← divyá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒र्मान्ता॑सः॒ सिलि॑कमध्यमासः॒ सं शूर॑णासो दि॒व्यासो॒ अत्याः॑ ।  
+हं॒सा इ॑व श्रेणि॒शो य॑तन्ते॒ यदाक्षि॑षुर्दि॒व्यमज्म॒मश्वाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “horse; aśva \[word\]; Aśva; stallion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

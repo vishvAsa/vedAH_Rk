@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ bhikṣate ← √bhaj- (root)
 
 nā́ma ← nā́man- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं विश्व॑स्य धन॒दा अ॑सि श्रु॒तो य ईं॒ भव॑न्त्या॒जयः॑ ।  
+तवा॒यं विश्वः॑ पुरुहूत॒ पार्थि॑वोऽव॒स्युर्नाम॑ भिक्षते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “beg; beg.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

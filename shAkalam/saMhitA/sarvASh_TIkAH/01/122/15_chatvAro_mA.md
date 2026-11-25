@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ sū́raḥ ← sū́ra- (nominal stem)
 
 syū́magabhastiḥ ← syū́magabhasti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒त्वारो॑ मा मश॒र्शार॑स्य॒ शिश्व॒स्त्रयो॒ राज्ञ॒ आय॑वसस्य जि॒ष्णोः ।  
+रथो॑ वां मित्रावरुणा दी॒र्घाप्साः॒ स्यूम॑गभस्तिः॒ सूरो॒ नाद्यौ॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “shine; inflame.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

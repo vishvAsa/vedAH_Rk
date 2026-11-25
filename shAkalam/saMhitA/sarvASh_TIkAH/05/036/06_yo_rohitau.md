@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रभूवसुराङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ marutaḥ ← marút- (nominal stem)
 
 śrutárathāya ← śrutáratha- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो रोहि॑तौ वा॒जिनौ॑ वा॒जिनी॑वान्त्रि॒भिः श॒तैः सच॑माना॒वदि॑ष्ट ।  
+यूने॒ सम॑स्मै क्षि॒तयो॑ नमन्तां श्रु॒तर॑थाय मरुतो दुवो॒या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - \[noun\], instrumental, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

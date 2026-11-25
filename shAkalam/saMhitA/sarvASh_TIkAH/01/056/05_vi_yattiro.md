@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ nís ← nís (invariable)
 
 vr̥trám ← vr̥trá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि यत्ति॒रो ध॒रुण॒मच्यु॑तं॒ रजोऽति॑ष्ठिपो दि॒व आता॑सु ब॒र्हणा॑ ।  
+स्व॑र्मीळ्हे॒ यन्मद॑ इन्द्र॒ हर्ष्याह॑न्वृ॒त्रं निर॒पामौ॑ब्जो अर्ण॒वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “wave; flood.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

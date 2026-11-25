@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -72,7 +73,12 @@ vartíḥ ← vartís- (nominal stem)
 
 yātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या॒तं छ॑र्दि॒ष्पा उ॒त नः॑ पर॒स्पा भू॒तं ज॑ग॒त्पा उ॒त न॑स्तनू॒पा ।  
+व॒र्तिस्तो॒काय॒ तन॑याय यातम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

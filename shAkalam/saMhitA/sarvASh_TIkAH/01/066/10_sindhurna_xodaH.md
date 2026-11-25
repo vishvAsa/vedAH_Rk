@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -58,7 +59,11 @@ návanta ← √nu- ~ nū- (root)
 
 svàr ← svàr- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सिन्धु॒र्न क्षोदः॒ प्र नीची॑रैनो॒न्नव॑न्त॒ गावः॒ स्व१॒॑र्दृशी॑के ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +132,6 @@ _________
 - “visual perception.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

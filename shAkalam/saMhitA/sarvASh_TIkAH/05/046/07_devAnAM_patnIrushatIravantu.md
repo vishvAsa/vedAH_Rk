@@ -4,6 +4,7 @@ devataa = "देवपत्न्यः"
 RShiH = "प्रतिक्षत्र आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवपत्न्यः
@@ -98,7 +99,12 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 yachata ← √yam- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वानां॒ पत्नी॑रुश॒तीर॑वन्तु नः॒ प्राव॑न्तु नस्तु॒जये॒ वाज॑सातये ।  
+याः पार्थि॑वासो॒ या अ॒पामपि॑ व्र॒ते ता नो॑ देवीः सुहवाः॒ शर्म॑ यच्छत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

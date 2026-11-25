@@ -4,6 +4,7 @@ devataa = "अग्निर्हवींषि वा"
 RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्हवींषि वा
@@ -57,7 +58,12 @@ saptá ← saptá- (nominal stem)
 
 sū́ryasya ← sū́rya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधु॑क्षत्पि॒प्युषी॒मिष॒मूर्जं॑ स॒प्तप॑दीम॒रिः ।  
+सूर्य॑स्य स॒प्त र॒श्मिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “beam; rein; sunbeam; shininess; cord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

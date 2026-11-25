@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ matsarā́saḥ ← matsará- (nominal stem)
 
 prasā́ham ← prasáh- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते त्वा॒ मदा॑ बृ॒हदि॑न्द्र स्वधाव इ॒मे पी॒ता उ॑क्षयन्त द्यु॒मन्त॑म् ।  
+म॒हामनू॑नं त॒वसं॒ विभू॑तिं मत्स॒रासो॑ जर्हृषन्त प्र॒साह॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -228,7 +233,6 @@ the invigorating drinks continually excite (you who are) great, without  deficie
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/03-05ab.md">
 <details><summary><h2>03-05ab ...{Loading}...</h2></summary>
 
@@ -236,7 +240,6 @@ mándatu tvā in 3a inaugurates a 3-vs. sequence chained together by the root �
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

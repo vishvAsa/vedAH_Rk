@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ iva ← iva (invariable)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदीं॑ सु॒तास॒ इन्द॑वो॒ऽभि प्रि॒यमम॑न्दिषुः ।  
+आपो॒ न धा॑यि॒ सव॑नं म॒ आ व॑सो॒ दुघा॑ इ॒वोप॑ दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्राबृहस्पती"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राबृहस्पती
@@ -57,7 +58,12 @@ mádāya ← máda- (nominal stem)
 
 pītáye ← pītí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं वां॒ परि॑ षिच्यते॒ सोम॑ इन्द्राबृहस्पती ।  
+चारु॒र्मदा॑य पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

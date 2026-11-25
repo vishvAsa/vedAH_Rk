@@ -4,6 +4,7 @@ devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्याविवाहः
@@ -80,7 +81,12 @@ tát ← sá- ~ tá- (pronoun)
 
 viduḥ ← √vid- 2 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वे ते॑ च॒क्रे सू॑र्ये ब्र॒ह्माण॑ ऋतु॒था वि॑दुः ।  
+अथैकं॑ च॒क्रं यद्गुहा॒ तद॑द्धा॒तय॒ इद्वि॑दुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

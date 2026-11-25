@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ siṣāsasi ← √sanⁱ- (root)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ शु॒द्धो हि नो॑ र॒यिं शु॒द्धो रत्ना॑नि दा॒शुषे॑ ।  
+शु॒द्धो वृ॒त्राणि॑ जिघ्नसे शु॒द्धो वाजं॑ सिषाससि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “win; gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -201,7 +206,6 @@ the prize.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/095/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -209,7 +213,6 @@ See the introduction. for the curious density in this tṛca of the ppl. śuddh�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

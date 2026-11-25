@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vácobhiḥ ← vácas- (nominal stem)
 
 yodhat ← √yudh- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यमु॑शा॒नः पर्यद्रि॑मु॒स्रा ऋ॒तधी॑तिभिरृत॒युग्यु॑जा॒नः ।  
+रु॒जदरु॑ग्णं॒ वि व॒लस्य॒ सानुं॑ प॒णीँर्वचो॑भिर॒भि यो॑ध॒दिन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -255,14 +260,6 @@ insights;
 he breaks apart the unbreakable back of the Vala cave. Indra will fight  against the Paṇis with words.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first pāda is truncated, though the frequency of the Vala theme and the stereotyped phraseology associated with it easily allow the missing parts to be supplied. With páry ádrim usrā́ḥ we can add the part. sántam, as in IV.1.15 gā́ḥ … pári ṣántam ádrim “… the rock surrounding the cows” (cf. VI.17.5). As for the verb, √ruj is the (or a) standard root for this mythological action (cf. nearby VI.32.2 rujád  ádrim), and ruját opening pāda c can serve in the first hemistich as well. (Scarlatta [425] unaccountably supplies “ging” instead.) The second pāda contains an elementary etymological figure, with the root noun cmpd ṛtayúj- flanked by its component parts: ṛtá(-dhītibhir) ṛtayúg yujānáḥ.
-
-The published translation renders the first cmpd. as “by those of true insight,” implying that ṛtá- is adjectival, and the second as “the one whose yoke is truth,” implying that it is a bahuvrīhi. I would alter this tr. to “the one yoked with truth, having been yoked by those whose insights are truth (that is, the priest/poets).” The third pāda also contains a simple etymological figure: rujád árugṇam “he breaks the unbreakable.” In d Geldner, Schmidt (149), and Scarlatta (425) all take yodhat as a preterite (e.g., Geldner ‘bekämpfte’), but I don’t see how it can be anything but a root aor. subjunctive (so explicitly Macdonell VGS, 410). If this analysis is correct, it makes it likely that the injunc. ruját in c also falls in the present/future (or perhaps, in Hoffmann’s terms, zeitlos) realm. Note that Hoffmann (Injunk. 142-43) so interprets the following two vss. (3-4), which, as we’ve seen, pattern closely with vs. 2. Nonetheless the three scholars just mentioned take all of vs. 2 as preterital, whereas I consider this to be an instance of the reconfiguring of mythological deeds as actions we hope to be repeated in the current time.
-
-Oldenberg wants to emend índraḥ in d to voc. indra, to allow soma to be the subject of yodhat as it is of the rest of the vs., and he points to this same voc. indra at the end of the next hemistich (3b). However, it is hard to see why the first of two identical forms would be redactionally altered to be different from the second, and the shifting conceptual boundary between soma and Indra as agents in this sequence makes the transmitted text unproblematic, as Oldenberg also admits.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md">
 <details><summary><h2>02-04 ...{Loading}...</h2></summary>
 
@@ -274,7 +271,6 @@ On vss. 3-4 see Hoffmann, Injunk. 142-43.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

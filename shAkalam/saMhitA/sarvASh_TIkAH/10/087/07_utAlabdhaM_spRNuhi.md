@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -83,7 +84,12 @@ kṣvíṅkāḥ ← kṣvíṅkā- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ताल॑ब्धं स्पृणुहि जातवेद आलेभा॒नादृ॒ष्टिभि॑र्यातु॒धाना॑त् ।  
+अग्ने॒ पूर्वो॒ नि ज॑हि॒ शोशु॑चान आ॒मादः॒ क्ष्विङ्का॒स्तम॑द॒न्त्वेनीः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

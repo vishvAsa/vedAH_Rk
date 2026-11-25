@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुक्रो वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ mahatáḥ ← mahā́nt- (nominal stem)
 
 puraetā́ ← puraetár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं धारा॑ दे॒वजा॑ता असृग्रन्त्स॒हस्र॑मेनाः क॒वयो॑ मृजन्ति ।  
+इन्दो॑ स॒नित्रं॑ दि॒व आ प॑वस्व पुरए॒तासि॑ मह॒तो धन॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     dhan; capital; fight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -238,10 +243,6 @@ O drop, by purifying yourself bring here from heaven a means of
 winning. You are the leader of great spoils.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I take the hapax sanítra- in its full lexical value, as a ‘means of winning’, rather than the bleached Spende, Gabe (Grassmann), Lohn (Geldner), le bénéfice (Renou) that prevails. On the accent of the word (and other -tra-stems to seṭ roots), see AiG II.2.701-2, which also glosses the word as I do: ‘Mittel des Gewinnens’, flg. Ludwig.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -251,7 +252,6 @@ The tṛca is marked by the repetition of ā́pavasva in the 2nd hemistich of ea
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

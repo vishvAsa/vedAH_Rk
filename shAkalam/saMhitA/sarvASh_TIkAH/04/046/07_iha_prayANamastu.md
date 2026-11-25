@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -57,7 +58,12 @@ sómapītaye ← sómapīti- (nominal stem)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ह प्र॒याण॑मस्तु वा॒मिन्द्र॑वायू वि॒मोच॑नम् ।  
+इ॒ह वां॒ सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

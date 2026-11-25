@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -82,7 +83,12 @@ marútsakhā ← marútsakhi- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒वीरा॑मिव॒ माम॒यं श॒रारु॑र॒भि म॑न्यते ।  
+उ॒ताहम॑स्मि वी॒रिणीन्द्र॑पत्नी म॒रुत्स॑खा॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -221,7 +226,7 @@ _________
 
 <details><summary>Tilak - Commentary</summary>
 
-Indrāṇī replies, "This mischievous (Vr̥ṣākapi) considers me to be avirā (i. e., without a brave husband or son), while I am the wife of Indra, the mother of the brave, and the friend of Maruts. Indra, &c." 
+Indrāṇī replies, "This mischievous (Vr̥ṣākapi) considers me to be avirā (i. e., without a brave husband or son), while I am the wife of Indra, the mother of the brave, and the friend of Maruts. Indra, &c."
 </details>
 
 <details><summary>Wilson</summary>

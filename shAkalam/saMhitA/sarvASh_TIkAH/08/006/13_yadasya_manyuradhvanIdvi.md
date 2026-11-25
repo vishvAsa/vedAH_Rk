@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ apáḥ ← áp- (nominal stem)
 
 samudrám ← samudrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॑स्य म॒न्युरध्व॑नी॒द्वि वृ॒त्रं प॑र्व॒शो रु॒जन् ।  
+अ॒पः स॑मु॒द्रमैर॑यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
     enumerate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

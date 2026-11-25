@@ -4,6 +4,7 @@ devataa = "सूर्यः पर्जन्या अग्नयो वा
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः पर्जन्या अग्नयो वा
@@ -77,7 +78,12 @@ dívam ← dyú- ~ div- (nominal stem)
 
 jinvanti ← √ji- 2 ~ jinv- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मा॒नमे॒तदु॑द॒कमुच्चैत्यव॒ चाह॑भिः ।  
+भूमिं॑ प॒र्जन्या॒ जिन्व॑न्ति॒ दिवं॑ जिन्वन्त्य॒ग्नयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

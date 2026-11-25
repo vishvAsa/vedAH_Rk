@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ prá ← prá (invariable)
 
 pracetasā ← prácetas- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र द्यु॒म्नाय॒ प्र शव॑से॒ प्र नृ॒षाह्या॑य॒ शर्म॑णे ।  
+प्र दक्षा॑य प्रचेतसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “intelligent; mindful; attentive; wise; apt; observant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

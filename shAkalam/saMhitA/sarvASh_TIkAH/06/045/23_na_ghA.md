@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ sīm ← sīm (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न घा॒ वसु॒र्नि य॑मते दा॒नं वाज॑स्य॒ गोम॑तः ।  
+यत्सी॒मुप॒ श्रव॒द्गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -184,7 +189,6 @@ The good one will not hold back his gift of a prize of cattle when he will hear 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -192,7 +196,6 @@ This tṛca concerns itself with cows, picking up gómadbhir gopate from the end
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

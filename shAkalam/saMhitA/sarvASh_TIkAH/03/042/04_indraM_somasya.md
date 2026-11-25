@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ kuvít ← kuvít (invariable)
 
 ukthébhiḥ ← ukthá- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रं॒ सोम॑स्य पी॒तये॒ स्तोमै॑रि॒ह ह॑वामहे ।  
+उ॒क्थेभिः॑ कु॒विदा॒गम॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
     inherit; hand down; achieve; reach; appear; happen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

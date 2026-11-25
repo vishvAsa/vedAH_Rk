@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -57,7 +58,12 @@ jīváse ← √jīv- (root)
 
 kr̥ṇuthá ← √kr̥- (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शश्व॑न्तं॒ हि प्र॑चेतसः प्रति॒यन्तं॑ चि॒देन॑सः ।  
+देवाः॑ कृणु॒थ जी॒वसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

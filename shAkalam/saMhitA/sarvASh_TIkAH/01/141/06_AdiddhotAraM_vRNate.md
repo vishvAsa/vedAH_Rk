@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ véti ← √vī- 1 (root)
 
 viśvádhā ← viśvádhā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदिद्धोता॑रं वृणते॒ दिवि॑ष्टिषु॒ भग॑मिव पपृचा॒नास॑ ऋञ्जते ।  
+दे॒वान्यत्क्रत्वा॑ म॒ज्मना॑ पुरुष्टु॒तो मर्तं॒ शंसं॑ वि॒श्वधा॒ वेति॒ धाय॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - \[noun\], dative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

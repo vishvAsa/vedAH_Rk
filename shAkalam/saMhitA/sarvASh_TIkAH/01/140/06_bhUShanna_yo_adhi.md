@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ ná ← ná (invariable)
 
 śŕ̥ṅgā ← śŕ̥ṅga- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूष॒न्न योऽधि॑ ब॒भ्रूषु॒ नम्न॑ते॒ वृषे॑व॒ पत्नी॑र॒भ्ये॑ति॒ रोरु॑वत् ।  
+ओ॒जा॒यमा॑नस्त॒न्व॑श्च शुम्भते भी॒मो न शृङ्गा॑ दविधाव दु॒र्गृभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -254,16 +259,6 @@ _________
 He who, like a busy attendant, keeps bending over the brown (females  [=plants])—he goes toward (them) like a bull to his wives, constantly  bellowing. And, showing his power, he beautifies their [?] bodies. Like a fearsome  (bull), the one difficult to grasp keeps shaking his horns.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The concentration of intensives continues in this verse: námnate (a), róruvat (b), davidhāva (d).
-
-The ‘bending’ of pāda a of course describes the flickering motion of the flames.
-
-Because of the theme mentioned ad vss. 6-8, of the bodily transformation of the plants by burning, I take tanvàs in c as referring to the bodies of the plants, not, with most tr., that of Agni.
-
-I don’t entirely understand the position of ca in c. Klein (DGRV I.222-23, 259-60) suggests that it has been bumped by the participle opening the clause and pāda. It is certainly the case that ca could not immediately follow that first word without metrical distress: five-syllable ojāyámānaḥ entirely fills the opening, and since the caesura cannot precede an enclitic, placing ca after the participle would result in an opening of 6.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md">
 <details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
@@ -273,7 +268,6 @@ This proposed split reference seems to me to break the thematic unity of the ver
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

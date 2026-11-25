@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ nú ← nú (invariable)
 
 vājinīvasū ← vājínīvasu- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्ति॒ हि वा॑मि॒ह स्तो॒ता स्मसि॑ वां सं॒दृशि॑ श्रि॒ये ।  
+नू श्रु॒तं म॒ आ ग॑त॒मवो॑भिर्वाजिनीवसू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - \[noun\], vocative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

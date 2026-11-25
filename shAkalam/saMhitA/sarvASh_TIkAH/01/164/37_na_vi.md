@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -101,7 +102,12 @@ bhāgám ← bhāgá- (nominal stem)
 
 vācáḥ ← vā́c- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न वि जा॑नामि॒ यदि॑वे॒दमस्मि॑ नि॒ण्यः सन्न॑द्धो॒ मन॑सा चरामि ।  
+य॒दा माग॑न्प्रथम॒जा ऋ॒तस्यादिद्वा॒चो अ॑श्नुवे भा॒गम॒स्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -263,7 +269,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

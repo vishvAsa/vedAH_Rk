@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ naḥ ← ahám (pronoun)
 
 stómam ← stóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ शु॒क्रेण॑ शो॒चिषा॒ विश्वा॑भिर्दे॒वहू॑तिभिः ।  
+इ॒मं स्तोमं॑ जुषस्व नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

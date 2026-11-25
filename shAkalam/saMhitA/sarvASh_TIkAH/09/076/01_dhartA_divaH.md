@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ pā́jāṁsi ← pā́jas- (nominal stem)
 
 vŕ̥thā ← vŕ̥thā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ध॒र्ता दि॒वः प॑वते॒ कृत्व्यो॒ रसो॒ दक्षो॑ दे॒वाना॑मनु॒माद्यो॒ नृभिः॑ ।  
+हरिः॑ सृजा॒नो अत्यो॒ न सत्व॑भि॒र्वृथा॒ पाजां॑सि कृणुते न॒दीष्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

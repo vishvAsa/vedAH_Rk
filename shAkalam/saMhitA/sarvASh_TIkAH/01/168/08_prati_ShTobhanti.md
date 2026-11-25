@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ pruṣṇuvánti ← √pruṣⁱ- (root)
 
 yádi ← yádi (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ ष्टोभन्ति॒ सिन्ध॑वः प॒विभ्यो॒ यद॒भ्रियां॒ वाच॑मुदी॒रय॑न्ति ।  
+अव॑ स्मयन्त वि॒द्युतः॑ पृथि॒व्यां यदी॑ घृ॒तं म॒रुतः॑ प्रुष्णु॒वन्ति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “sprinkle; wet.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

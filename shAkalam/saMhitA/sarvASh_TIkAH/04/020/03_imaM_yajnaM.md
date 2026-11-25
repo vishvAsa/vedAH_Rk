@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tváyā ← tvám (pronoun)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं य॒ज्ञं त्वम॒स्माक॑मिन्द्र पु॒रो दध॑त्सनिष्यसि॒ क्रतुं॑ नः ।  
+श्व॒घ्नीव॑ वज्रिन्त्स॒नये॒ धना॑नां॒ त्वया॑ व॒यम॒र्य आ॒जिं ज॑येम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

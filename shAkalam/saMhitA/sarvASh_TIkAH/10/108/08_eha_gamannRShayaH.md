@@ -4,6 +4,7 @@ devataa = "पणयः"
 RShiH = "सरमा देवशुनी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पणयः
@@ -92,7 +93,12 @@ vácaḥ ← vácas- (nominal stem)
 
 váman ← √vamⁱ- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एह ग॑म॒न्नृष॑यः॒ सोम॑शिता अ॒यास्यो॒ अङ्गि॑रसो॒ नव॑ग्वाः ।  
+त ए॒तमू॒र्वं वि भ॑जन्त॒ गोना॒मथै॒तद्वचः॑ प॒णयो॒ वम॒न्नित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “indeed; assuredly; entirely.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

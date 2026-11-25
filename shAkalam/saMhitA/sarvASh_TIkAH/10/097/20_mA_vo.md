@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -77,7 +78,12 @@ astu ← √as- 1 (root)
 
 sárvam ← sárva- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा वो॑ रिषत्खनि॒ता यस्मै॑ चा॒हं खना॑मि वः ।  
+द्वि॒पच्चतु॑ष्पद॒स्माकं॒ सर्व॑मस्त्वनातु॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “well.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ saptá ← saptá- (nominal stem)
 
 vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र शर्ध॑ आर्त प्रथ॒मं वि॑प॒न्याँ ऋ॒तस्य॒ योना॑ वृष॒भस्य॑ नी॒ळे ।  
+स्पा॒र्हो युवा॑ वपु॒ष्यो॑ वि॒भावा॑ स॒प्त प्रि॒यासो॑ऽजनयन्त॒ वृष्णे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “bull; Indra; stallion; Vṛṣan; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -226,22 +231,6 @@ The troop [=Aṅgirases] set forth first amid admiration to the womb of  truth, 
 The eagerly sought youth, wondrous, far-radiant [=Agni]—the seven  dear ones [=Aṅgirases or their music] begat (him) for the bull.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I am in agreement with most of the standard interpr. that the referent of the subj. of ab is the troop of Aṅgirases, expressed by the neut. s-stem śárdhaḥ (pace Grassmann, who takes it as a thematic masc. nom. sg., referring to Agni, sim. Schmidt [Bṛhaspati und Indra, 43 n.
-
-21]), though this word generally refers to the Marut troop.
-
-I part company with these interpr. with regard to the referent of c, however.
-
-Most take this string of nom. sg. masc. adj. as further descriptors of the Aṅgiras troop, while I think they refer to Agni. Agni and his births are referred to as spārháearlier in the hymn (6d, 7b); in 8c he is described as vapuṣyò vibhā́vā exactly as here.
-
-The recycling of this characterizing vocabulary seems to me a clue that the subject has changed here from the first half of the vs: it would be perverse to repeat this phraseology with a referent other than the original Agni. Note also that yúvan- ‘young’ is regularly used of Agni, and in the context of his birth the word is esp. apt.
-
-I take this nominal clause (/subclause) as annunciatory of the gapped object of d.
-
-Geldner, Renou, and Oldenberg (SBE) take janayanta in d as intrans. ‘be born’ (e.g., Geldner “Dem Bullen wurden die sieben Freunde geboren”), but this medial form is a standard ex. of -anta replacement of the undercharacterized act. -an and is therefore transitive. See my “Voice fluctuation in the Rig Veda: Medial 3rd plural -anta in active paradigms,” IIJ 21 (1979) 146-69. It is correctly interpr. by Hoffmann (Injunk., 176) and Witzel Gotō. The form is an injunctive, contra the Pp.; so already Grassmann; see Oldenberg (Noten), Hoffmann. The “seven dear ones” (saptá priyā́saḥ) are most likely the Aṅgirases, here referred to in the plural rather than the collective neut. sg. in pāda a. III.31.5 contains “seven inspired poets” (saptá víprāḥ) in a clear Aṅgiras/Vala context. It is also possible that the phrase refers to the Aṅgirases’ music, since saptá vā́ṇīḥ ‘seven voices’ is a common phrase. The adj. priyā́saḥ could be either masc. or fem.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details><summary><h2>10-18 ...{Loading}...</h2></summary>
 
@@ -257,7 +246,6 @@ The repeated phrase “in the nest of the bull” (vṛṣabhásya nīḷé, 11d
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

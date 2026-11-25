@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vidā́yyaḥ ← vidā́yya- (nominal stem)
 
 yantā́ ← yantár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं त्या चि॒द्वात॒स्याश्वागा॑ ऋ॒ज्रा त्मना॒ वह॑ध्यै ।  
+ययो॑र्दे॒वो न मर्त्यो॑ य॒न्ता नकि॑र्वि॒दाय्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “find; detect; marry; get; think.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

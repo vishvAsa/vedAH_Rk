@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -72,7 +73,12 @@ stávate ← √stu- (root)
 
 vīráḥ ← vīrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एदु॒ मध्वो॑ म॒दिन्त॑रं सि॒ञ्च वा॑ध्वर्यो॒ अन्ध॑सः ।  
+ए॒वा हि वी॒रः स्तव॑ते स॒दावृ॑धः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

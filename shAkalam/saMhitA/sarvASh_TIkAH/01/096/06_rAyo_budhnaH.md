@@ -4,6 +4,7 @@ devataa = "द्रविणोदा अग्निर्वा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रविणोदा अग्निर्वा
@@ -77,7 +78,12 @@ dhārayan ← √dhr̥- (root)
 
 draviṇodā́m ← draviṇodā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रा॒यो बु॒ध्नः सं॒गम॑नो॒ वसू॑नां य॒ज्ञस्य॑ के॒तुर्म॑न्म॒साध॑नो॒ वेः ।  
+अ॒मृ॒त॒त्वं रक्ष॑माणास एनं दे॒वा अ॒ग्निं धा॑रयन्द्रविणो॒दाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “giving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

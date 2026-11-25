@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ stavante ← √stu- (root)
 
 sūráyaḥ ← sūrí- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॑र्णरम॒न्तरि॑क्षाणि रोच॒ना द्यावा॒भूमी॑ पृथि॒वीं स्क॑म्भु॒रोज॑सा ।  
+पृ॒क्षा इ॑व म॒हय॑न्तः सुरा॒तयो॑ दे॒वाः स्त॑वन्ते॒ मनु॑षाय सू॒रयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

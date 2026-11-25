@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sudrvàm ← sudrú- (nominal stem)
 
 táṣṭā ← táṣṭar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त॒रणि॒रित्सि॑षासति॒ वाजं॒ पुरं॑ध्या यु॒जा ।  
+आ व॒ इन्द्रं॑ पुरुहू॒तं न॑मे गि॒रा ने॒मिं तष्टे॑व सु॒द्र्व॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “wood; tree; dru \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

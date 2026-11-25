@@ -5,13 +5,13 @@ RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -91,7 +91,12 @@ sma ← sma (invariable)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे राय॑ इन्द्र तो॒शत॑माः प्रणे॒तारः॒ कस्य॑ चिदृता॒योः ।  
+ते षु णो॑ म॒रुतो॑ मृळयन्तु॒ ये स्मा॑ पु॒रा गा॑तू॒यन्ती॑व दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +220,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -273,8 +277,6 @@ Bei dir, o Indra, sind die reichsten Gaben, die, welche jeden frommgesinnten fö
 Пусть же сжалятся над нами эти Маруты,  
 Боги, еще раньше стремившиеся найти выход!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

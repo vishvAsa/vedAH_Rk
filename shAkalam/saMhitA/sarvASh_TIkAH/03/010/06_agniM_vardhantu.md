@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ mahé ← máh- (nominal stem)
 
 vā́jāya ← vā́ja- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं व॑र्धन्तु नो॒ गिरो॒ यतो॒ जाय॑त उ॒क्थ्यः॑ ।  
+म॒हे वाजा॑य॒ द्रवि॑णाय दर्श॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “beautiful; visible; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

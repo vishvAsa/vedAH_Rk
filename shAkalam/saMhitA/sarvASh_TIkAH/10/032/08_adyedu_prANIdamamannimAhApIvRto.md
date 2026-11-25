@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ sumánāḥ ← sumánas- (nominal stem)
 
 vásuḥ ← vásu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒द्येदु॒ प्राणी॒दम॑मन्नि॒माहापी॑वृतो अधयन्मा॒तुरूधः॑ ।  
+एमे॑नमाप जरि॒मा युवा॑न॒महे॑ळ॒न्वसुः॑ सु॒मना॑ बभूव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

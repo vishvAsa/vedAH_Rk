@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ viśvā́yuḥ ← viśvā́yu- (nominal stem)
 
 vr̥dháḥ ← vr̥dhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्मा॑ ए॒तन्मह्या॑ङ्गू॒षम॑स्मा॒ इन्द्रा॑य स्तो॒त्रं म॒तिभि॑रवाचि ।  
+अस॒द्यथा॑ मह॒ति वृ॑त्र॒तूर्य॒ इन्द्रो॑ वि॒श्वायु॑रवि॒ता वृ॒धश्च॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -240,10 +245,6 @@ This is (weal) for him: a great song for him, a praise hymn for Indra has  been 
 so that, in the great overcoming of Vr̥tra [/obstacles], Indra will be our  lifelong helper and strengthener.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The balance and reciprocity between god and worshipers evident earlier in the hymn also characterizes its ending. The last thing said about Indra is that he is our ‘strengthener’ (vṛdháḥ 5d), just as our offerings, both material and verbal, have strengthened him (vardháyantīḥ 3b, vāvṛdhuḥ 4d).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/034/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -263,7 +264,6 @@ In c the phrase (abhí) sáṃ yád ā́paḥ “when the waters con(verge) (on 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

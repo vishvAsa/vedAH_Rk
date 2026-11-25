@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -57,7 +57,11 @@ ná ← ná (invariable)
 
 tveṣápratīkā ← tveṣápratīka- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सेने॑व सृ॒ष्टामं॑ दधा॒त्यस्तु॒र्न दि॒द्युत्त्वे॒षप्र॑तीका ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +132,6 @@ _________
 - “face; surface.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -183,10 +186,6 @@ Wie ein losgelassenes Heer macht er Panik; wie das Geschoß des Schützen von gl
 
 Entsandtem Speer gleich – erregt er Schrecken, wie Pfeil des Schützen – mit Flammenspitze; Zugleich Vergangnes, – zugleich Zukünft'ges, der Mädchen Freier, – der Frauen Gatte.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

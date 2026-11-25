@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ priyáḥ ← priyá- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा त॑ इन्दो सु॒भ्वं॑ सु॒पेश॑सं॒ रसं॑ तुञ्जन्ति प्रथ॒मा अ॑भि॒श्रियः॑ ।  
+निदं॑निदं पवमान॒ नि ता॑रिष आ॒विस्ते॒ शुष्मो॑ भवतु प्रि॒यो मदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

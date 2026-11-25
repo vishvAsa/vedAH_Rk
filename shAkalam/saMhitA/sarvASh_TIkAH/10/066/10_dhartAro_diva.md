@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ vājínaḥ ← vājín- (nominal stem)
 
 yantu ← √i- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ध॒र्तारो॑ दि॒व ऋ॒भवः॑ सु॒हस्ता॑ वातापर्ज॒न्या म॑हि॒षस्य॑ तन्य॒तोः ।  
+आप॒ ओष॑धीः॒ प्र ति॑रन्तु नो॒ गिरो॒ भगो॑ रा॒तिर्वा॒जिनो॑ यन्तु मे॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

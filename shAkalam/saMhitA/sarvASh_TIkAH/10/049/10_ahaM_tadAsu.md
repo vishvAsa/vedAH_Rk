@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -98,7 +99,12 @@ sómam ← sóma- (nominal stem)
 
 śvā́tryam ← śvā́trya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं तदा॑सु धारयं॒ यदा॑सु॒ न दे॒वश्च॒न त्वष्टाधा॑रय॒द्रुश॑त् ।  
+स्पा॒र्हं गवा॒मूध॑स्सु व॒क्षणा॒स्वा मधो॒र्मधु॒ श्वात्र्यं॒ सोम॑मा॒शिर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “mixture.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

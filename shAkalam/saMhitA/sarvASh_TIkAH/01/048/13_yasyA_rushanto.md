@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -74,7 +75,12 @@ súgmyam ← súgmya- (nominal stem)
 
 uṣā́ḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्या॒ रुश॑न्तो अ॒र्चयः॒ प्रति॑ भ॒द्रा अदृ॑क्षत ।  
+सा नो॑ र॒यिं वि॒श्ववा॑रं सु॒पेश॑समु॒षा द॑दातु॒ सुग्म्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

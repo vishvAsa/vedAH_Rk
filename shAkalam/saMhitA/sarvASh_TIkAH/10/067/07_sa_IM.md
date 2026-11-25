@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -83,7 +84,12 @@ gharmásvedebhiḥ ← gharmásveda- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स ईं॑ स॒त्येभिः॒ सखि॑भिः शु॒चद्भि॒र्गोधा॑यसं॒ वि ध॑न॒सैर॑दर्दः ।  
+ब्रह्म॑ण॒स्पति॒र्वृष॑भिर्व॒राहै॑र्घ॒र्मस्वे॑देभि॒र्द्रवि॑णं॒ व्या॑नट् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “reach; achieve; enter (a state); reach.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

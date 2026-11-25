@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्ट्रादंष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ satyátātā ← satyátāt- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ म॒ह्ना म॑ह॒तो अ॑र्ण॒वस्य॑ व्र॒तामि॑ना॒दङ्गि॑रोभिर्गृणा॒नः ।  
+पु॒रूणि॑ चि॒न्नि त॑ताना॒ रजां॑सि दा॒धार॒ यो ध॒रुणं॑ स॒त्यता॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - \[noun\], locative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

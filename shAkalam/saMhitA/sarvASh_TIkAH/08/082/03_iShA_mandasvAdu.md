@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ indra ← índra- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒षा म॑न्द॒स्वादु॒ तेऽरं॒ वरा॑य म॒न्यवे॑ ।  
+भुव॑त्त इन्द्र॒ शं हृ॒दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “heart; heart; mind; breast; hṛd \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

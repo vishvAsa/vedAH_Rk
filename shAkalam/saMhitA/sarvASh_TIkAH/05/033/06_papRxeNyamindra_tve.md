@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ stuṣe ← √stu- (root)
 
 tuvimaghásya ← tuvimaghá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒पृ॒क्षेण्य॑मिन्द्र॒ त्वे ह्योजो॑ नृ॒म्णानि॑ च नृ॒तमा॑नो॒ अम॑र्तः ।  
+स न॒ एनीं॑ वसवानो र॒यिं दाः॒ प्रार्यः स्तु॑षे तुविम॒घस्य॒ दान॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     teaching.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ dā́manvantaḥ ← dā́manvant- (nominal stem)
 
 sudāman ← sudāman- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शची॑वतस्ते पुरुशाक॒ शाका॒ गवा॑मिव स्रु॒तयः॑ सं॒चर॑णीः ।  
+व॒त्सानां॒ न त॒न्तय॑स्त इन्द्र॒ दाम॑न्वन्तो अदा॒मानः॑ सुदामन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

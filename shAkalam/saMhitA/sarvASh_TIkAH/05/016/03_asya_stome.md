@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पूरुरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ sám ← sám (invariable)
 
 śúṣmam ← śúṣma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य स्तोमे॑ म॒घोनः॑ स॒ख्ये वृ॒द्धशो॑चिषः ।  
+विश्वा॒ यस्मि॑न्तुवि॒ष्वणि॒ सम॒र्ये शुष्म॑माद॒धुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

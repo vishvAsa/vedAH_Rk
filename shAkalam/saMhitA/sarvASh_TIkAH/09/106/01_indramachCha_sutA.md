@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्निष्चाक्षुषः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -64,7 +65,12 @@ jātā́saḥ ← √janⁱ- (root)
 
 svarvídaḥ ← svarvíd- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒मच्छ॑ सु॒ता इ॒मे वृष॑णं यन्तु॒ हर॑यः ।  
+श्रु॒ष्टी जा॒तास॒ इन्द॑वः स्व॒र्विदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “finding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -175,10 +180,6 @@ _________
 Let these pressed (soma drinks) go to Indra, the tawny ones to the bull, the drops born because of (Indra’s?) attentive hearing, finding the sun.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As Renou points out, the exact nuance of śruṣṭī́is hard to pinpoint, but Geldner’s recessive adverb “willig” does not seem sufficient. Renou also adduces II.3.9 śruṣṭī́… jāyate, similar to our śruṣṭī́jātā́saḥ. I interpr. both passages to mean that the right ritual birth happens because of a/the god’s attention to the process (Tvaṣṭar in II.3.9, Indra here).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -188,7 +189,6 @@ Vss. 2 and 3 are also lexically linked: sānasí- (2a, 3b), jaítrasya (2c) / -j
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नभःप्रभेदनो वैरूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ yā́si ← √yā- 1 (root)
 
 yébhiḥ ← yá- (pronoun)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॒ रथो॒ मन॑सो॒ जवी॑या॒नेन्द्र॒ तेन॑ सोम॒पेया॑य याहि ।  
+तूय॒मा ते॒ हर॑यः॒ प्र द्र॑वन्तु॒ येभि॒र्यासि॒ वृष॑भि॒र्मन्द॑मानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

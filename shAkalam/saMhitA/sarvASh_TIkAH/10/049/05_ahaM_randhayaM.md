@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -89,7 +90,12 @@ páḍgr̥bhim ← páḍgr̥bhi- (nominal stem)
 
 sávyāya ← sávya- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं र॑न्धयं॒ मृग॑यं श्रु॒तर्व॑णे॒ यन्माजि॑हीत व॒युना॑ च॒नानु॒षक् ।  
+अ॒हं वे॒शं न॒म्रमा॒यवे॑ऽकरम॒हं सव्या॑य॒ पड्गृ॑भिमरन्धयम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “subjugate; hand over.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

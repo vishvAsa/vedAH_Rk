@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ sácā ← sácā (invariable)
 
 saparyávaḥ ← saparyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+महि॑ म॒हे दि॒वे अ॑र्चा पृथि॒व्यै कामो॑ म इ॒च्छञ्च॑रति प्रजा॒नन् ।  
+ययो॑र्ह॒ स्तोमे॑ वि॒दथे॑षु दे॒वाः स॑प॒र्यवो॑ मा॒दय॑न्ते॒ सचा॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ pathíbhiḥ ← pánthā- ~ path- (nominal stem)
 
 vaha ← √vah- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ म॒हीम॒रम॑तिं स॒जोषा॒ ग्नां दे॒वीं नम॑सा रा॒तह॑व्याम् ।  
+मधो॒र्मदा॑य बृह॒तीमृ॑त॒ज्ञामाग्ने॑ वह प॒थिभि॑र्देव॒यानैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “vehicle; journey; campaign; carriage; vessel; cart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

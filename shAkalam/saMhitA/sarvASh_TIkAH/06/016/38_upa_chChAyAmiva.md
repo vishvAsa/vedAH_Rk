@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ vayám ← ahám (pronoun)
 
 híraṇyasaṁdr̥śaḥ ← híraṇyasaṁdr̥ś- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ च्छा॒यामि॑व॒ घृणे॒रग॑न्म॒ शर्म॑ ते व॒यम् ।  
+अग्ने॒ हिर॑ण्यसन्दृशः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

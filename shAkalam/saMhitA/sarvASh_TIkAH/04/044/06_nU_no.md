@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पुरुमीळ्हाजमीळ्हौ सौहोत्रौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ agman ← √gam- (root)
 
 sadhástutim ← sadhástuti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू नो॑ र॒यिं पु॑रु॒वीरं॑ बृ॒हन्तं॒ दस्रा॒ मिमा॑थामु॒भये॑ष्व॒स्मे ।  
+नरो॒ यद्वा॑मश्विना॒ स्तोम॒माव॑न्त्स॒धस्तु॑तिमाजमी॒ळ्हासो॑ अग्मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

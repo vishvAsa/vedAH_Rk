@@ -4,6 +4,7 @@ devataa = "स्वाहाकृतयः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वाहाकृतयः
@@ -89,7 +90,12 @@ vakṣi ← √vah- (root)
 
 vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घृ॒तं मि॑मिक्षे घृ॒तम॑स्य॒ योनि॑र्घृ॒ते श्रि॒तो घृ॒तम्व॑स्य॒ धाम॑ ।  
+अ॒नु॒ष्व॒धमा व॑ह मा॒दय॑स्व॒ स्वाहा॑कृतं वृषभ वक्षि ह॒व्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “Havya; offering; havya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

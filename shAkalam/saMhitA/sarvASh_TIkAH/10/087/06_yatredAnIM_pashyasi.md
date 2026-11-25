@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -89,7 +90,12 @@ tám ← sá- ~ tá- (pronoun)
 
 vidhya ← √vyadh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्रे॒दानीं॒ पश्य॑सि जातवेद॒स्तिष्ठ॑न्तमग्न उ॒त वा॒ चर॑न्तम् ।  
+यद्वा॒न्तरि॑क्षे प॒थिभिः॒ पत॑न्तं॒ तमस्ता॑ विध्य॒ शर्वा॒ शिशा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “sharpen; whet; strengthen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -86,7 +87,12 @@ párā ← párā (invariable)
 
 sahásraiḥ ← sahásra- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्मा॑स्य पनयन्ति॒ जना॑ जू॒तिं कृ॑ष्टि॒प्रो अ॒भिभू॑तिमा॒शोः ।  
+उ॒तैन॑माहुः समि॒थे वि॒यन्तः॒ परा॑ दधि॒क्रा अ॑सरत्स॒हस्रैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “thousand; one-thousandth; sahasra \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

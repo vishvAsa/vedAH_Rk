@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "जेता माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ tira ← √tr̥̄- 1 (root)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा॒याभि॑रिन्द्र मा॒यिनं॒ त्वं शुष्ण॒मवा॑तिरः ।  
+वि॒दुष्टे॒ तस्य॒ मेधि॑रा॒स्तेषां॒ श्रवां॒स्युत्ति॑र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

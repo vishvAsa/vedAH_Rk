@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -92,7 +93,12 @@ mātaríśvane ← mātaríśvan- (nominal stem)
 
 śíkṣan ← √śak- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हमिन्द्रो॒ रोधो॒ वक्षो॒ अथ॑र्वणस्त्रि॒ताय॒ गा अ॑जनय॒महे॒रधि॑ ।  
+अ॒हं दस्यु॑भ्यः॒ परि॑ नृ॒म्णमा द॑दे गो॒त्रा शिक्ष॑न्दधी॒चे मा॑त॒रिश्व॑ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “wind; Mātariśvan; Vayu; vāta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

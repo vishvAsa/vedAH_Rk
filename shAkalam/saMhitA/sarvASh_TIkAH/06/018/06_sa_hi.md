@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ samátsu ← samád- (nominal stem)
 
 vitantasā́yyaḥ ← vitantasā́yya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि धी॒भिर्हव्यो॒ अस्त्यु॒ग्र ई॑शान॒कृन्म॑ह॒ति वृ॑त्र॒तूर्ये॑ ।  
+स तो॒कसा॑ता॒ तन॑ये॒ स व॒ज्री वि॑तन्त॒साय्यो॑ अभवत्स॒मत्सु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “conflict; strife.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

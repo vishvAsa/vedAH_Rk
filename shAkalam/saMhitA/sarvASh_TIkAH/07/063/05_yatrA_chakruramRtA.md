@@ -4,6 +4,7 @@ devataa = "सूर्यः;मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः;मित्रावरुणौ
@@ -92,7 +93,12 @@ námobhiḥ ← námas- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्रा॑ च॒क्रुर॒मृता॑ गा॒तुम॑स्मै श्ये॒नो न दीय॒न्नन्वे॑ति॒ पाथः॑ ।  
+प्रति॑ वां॒ सूर॒ उदि॑ते विधेम॒ नमो॑भिर्मित्रावरुणो॒त ह॒व्यैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “Havya; offering; havya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

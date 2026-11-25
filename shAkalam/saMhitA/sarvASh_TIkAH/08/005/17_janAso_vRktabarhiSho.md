@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -51,7 +52,12 @@ havante ← √hū- (root)
 
 yuvā́m ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जना॑सो वृ॒क्तब॑र्हिषो ह॒विष्म॑न्तो अरं॒कृतः॑ ।  
+यु॒वां ह॑वन्ते अश्विना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +114,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

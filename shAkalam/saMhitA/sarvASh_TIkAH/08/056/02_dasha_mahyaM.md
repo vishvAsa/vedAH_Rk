@@ -4,6 +4,7 @@ devataa = "प्रस्कण्वस्य दानस्तुतिः (
 RShiH = "पृषध्रः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)
@@ -57,7 +58,12 @@ nítyāt ← nítya- (nominal stem)
 
 rāyáḥ ← rayí- ~ rāy- (nominal stem)  
 {gender:M}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दश॒ मह्यं॑ पौतक्र॒तः स॒हस्रा॒ दस्य॑वे॒ वृकः॑ ।  
+नित्या॑द्रा॒यो अ॑मंहत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “give; accord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

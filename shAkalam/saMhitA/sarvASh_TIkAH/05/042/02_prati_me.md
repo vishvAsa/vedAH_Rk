@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ váruṇe ← váruṇa- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ मे॒ स्तोम॒मदि॑तिर्जगृभ्यात्सू॒नुं न मा॒ता हृद्यं॑ सु॒शेव॑म् ।  
+ब्रह्म॑ प्रि॒यं दे॒वहि॑तं॒ यदस्त्य॒हं मि॒त्रे वरु॑णे॒ यन्म॑यो॒भु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - \[noun\], nominative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

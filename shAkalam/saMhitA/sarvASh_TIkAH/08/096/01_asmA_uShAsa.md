@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ supārā́ḥ ← supārá- (nominal stem)
 
 tárāya ← tára- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मा उ॒षास॒ आति॑रन्त॒ याम॒मिन्द्रा॑य॒ नक्त॒मूर्म्याः॑ सु॒वाचः॑ ।  
+अ॒स्मा आपो॑ मा॒तरः॑ स॒प्त त॑स्थु॒र्नृभ्य॒स्तरा॑य॒ सिन्ध॑वः सुपा॒राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “shore; pāra \[word\]; end; excellence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

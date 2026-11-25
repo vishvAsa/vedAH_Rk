@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रमातरो देवजामयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ sá ← sá- ~ tá- (pronoun)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमि॑न्द्राभि॒भूर॑सि॒ विश्वा॑ जा॒तान्योज॑सा ।  
+स विश्वा॒ भुव॒ आभ॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “originate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

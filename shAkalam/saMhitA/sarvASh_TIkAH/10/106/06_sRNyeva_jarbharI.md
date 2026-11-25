@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भूतांशः काश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ me ← ahám (pronoun)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सृ॒ण्ये॑व ज॒र्भरी॑ तु॒र्फरी॑तू नैतो॒शेव॑ तु॒र्फरी॑ पर्फ॒रीका॑ ।  
+उ॒द॒न्य॒जेव॒ जेम॑ना मदे॒रू ता मे॑ ज॒राय्व॒जरं॑ म॒रायु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

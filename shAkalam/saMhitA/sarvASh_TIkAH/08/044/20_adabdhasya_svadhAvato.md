@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ sakhyám ← sakhyá- (nominal stem)
 
 vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद॑ब्धस्य स्व॒धाव॑तो दू॒तस्य॒ रेभ॑तः॒ सदा॑ ।  
+अ॒ग्नेः स॒ख्यं वृ॑णीमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

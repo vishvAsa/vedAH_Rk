@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -61,7 +62,12 @@ yajñā́ya ← yajñá- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वन्दे॑वं॒ वोऽव॑स॒ इन्द्र॑मिन्द्रं गृणी॒षणि॑ ।  
+अधा॑ य॒ज्ञाय॑ तु॒र्वणे॒ व्या॑नशुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

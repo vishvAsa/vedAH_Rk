@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ sūríṣu ← sūrí- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒जा॒नो ह॒रिता॒ रथे॒ भूरि॒ त्वष्टे॒ह रा॑जति ।  
+को वि॒श्वाहा॑ द्विष॒तः पक्ष॑ आसत उ॒तासी॑नेषु सू॒रिषु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “patron.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

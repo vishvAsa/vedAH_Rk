@@ -4,6 +4,7 @@ devataa = "सुदासः पैजवनस्य दानस्तुत�
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सुदासः पैजवनस्य दानस्तुतिः
@@ -80,7 +81,12 @@ duvoyú ← duvoyú- (nominal stem)
 
 kṣatrám ← kṣatrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं न॑रो मरुतः सश्च॒तानु॒ दिवो॑दासं॒ न पि॒तरं॑ सु॒दासः॑ ।  
+अ॒वि॒ष्टना॑ पैजव॒नस्य॒ केतं॑ दू॒णाशं॑ क्ष॒त्रम॒जरं॑ दुवो॒यु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

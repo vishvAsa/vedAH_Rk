@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "आस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -93,7 +94,12 @@ iva ← iva (invariable)
 
 vívakṣase ← √vac- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समु॒ प्र य॑न्ति धी॒तयः॒ सर्गा॑सोऽव॒ताँ इ॑व ।  
+क्रतुं॑ नः सोम जी॒वसे॒ वि वो॒ मदे॑ धा॒रया॑ चम॒साँ इ॑व॒ विव॑क्षसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

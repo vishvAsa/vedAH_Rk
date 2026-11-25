@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ krátve ← krátu- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॒ ज्योतीं॑षि पूर्व्य॒ पव॑मान॒ वि रो॑चय ।  
+क्रत्वे॒ दक्षा॑य नो हिनु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “impel; send; spur; stimulate; urge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

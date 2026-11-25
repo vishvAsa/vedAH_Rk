@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -60,7 +61,12 @@ nakṣase ← √nakṣ- (root)
 
 vibhāvari ← vibhā́van- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कस्त॑ उषः कधप्रिये भु॒जे मर्तो॑ अमर्त्ये ।  
+कं न॑क्षसे विभावरि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “night; Vibhāvarī; woman.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ prá ← prá (invariable)
 
 pū́rvyam ← pū́rvya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विभू॑तरातिं विप्र चि॒त्रशो॑चिषम॒ग्निमी॑ळिष्व य॒न्तुर॑म् ।  
+अ॒स्य मेध॑स्य सो॒म्यस्य॑ सोभरे॒ प्रेम॑ध्व॒राय॒ पूर्व्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “first; precedent; age-old; excellent; former(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

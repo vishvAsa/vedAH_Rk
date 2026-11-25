@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ samudré ← samudrá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मिमा॑ति॒ वह्नि॒रेत॑शः प॒दं यु॑जा॒न ऋक्व॑भिः ।  
+प्र यत्स॑मु॒द्र आहि॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -172,12 +177,6 @@ versifiers,
 when he is deposited in the sea.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-sī́dañ chyenó ná yónim ā́, as well as IX.96.23 śakunáḥ ná pátvā and with the pl.
-
-VIII.21.5 sī́dantas te váyo yathā “sitting like birds” very similar to our passage. I suggest that birds are the underlying comparandum here as well, and that this underlying target is qualified by vanúṣaḥ ‘rapacious’, or, as I render it “raptor (birds).” This produces a more satisfying, or at least more interesting, simile than Renou’s “like devotées,” and it is constructed from readily available elements - though it does require more machinery.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -185,7 +184,6 @@ The undiscerning (ápracetasaḥ) in 20c are contrasted with the discerning (pr�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

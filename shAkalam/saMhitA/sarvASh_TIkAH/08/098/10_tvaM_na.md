@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ pr̥tanāṣáham ← pr̥tanāṣáh- (nominal stem)
 
 vīrám ← vīrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं न॑ इ॒न्द्रा भ॑रँ॒ ओजो॑ नृ॒म्णं श॑तक्रतो विचर्षणे ।  
+आ वी॒रं पृ॑तना॒षह॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

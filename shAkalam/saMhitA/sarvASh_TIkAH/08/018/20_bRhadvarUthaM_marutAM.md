@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -60,7 +61,12 @@ svastáye ← svastí- (nominal stem)
 
 váruṇam ← váruṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हद्वरू॑थं म॒रुतां॑ दे॒वं त्रा॒तार॑म॒श्विना॑ ।  
+मि॒त्रमी॑महे॒ वरु॑णं स्व॒स्तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     well; luck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ ná ← ná (invariable)
 
 yoṣati ← √yu- 2 (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॒ग्रः सन्ननि॑ष्टृतः स्थि॒रो रणा॑य॒ संस्कृ॑तः ।  
+यदि॑ स्तो॒तुर्म॒घवा॑ शृ॒णव॒द्धवं॒ नेन्द्रो॑ योष॒त्या ग॑मत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

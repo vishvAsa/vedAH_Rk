@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ rathínaḥ ← rathín- (nominal stem)
 
 sūríḥ ← sūrí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य स्तु॑षे॒ महि॑मघस्य॒ राधः॒ सचा॑ सनेम॒ नहु॑षः सु॒वीराः॑ ।  
+जनो॒ यः प॒ज्रेभ्यो॑ वा॒जिनी॑वा॒नश्वा॑वतो र॒थिनो॒ मह्यं॑ सू॒रिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “patron.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,12 +232,6 @@ Mahimaghasya **rādhas** = the riches of that, or of him, who or which ispossess
 The largesse of him who offers great bounty is to be praised. Together  might we, having good heroes, win (that) of Nahus, who for the Pajras is the man providing prizewinning mares and for me  is the patron (of largesse) consisting of horses and chariots.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-See Oldenberg on this vs. I follow him in taking cd as a single rel. cl. hanging off Nahus in b, rather than a rel. cl. / main cl. structure. The uncertainty about the relationships of the various named patrons makes any interpr. tentative. See published
-
-introduction.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/122/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -240,7 +239,6 @@ The passively used 3rd sg. stuṣé (7a), stuṣe (8a) contrast in function with
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

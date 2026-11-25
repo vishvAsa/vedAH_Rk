@@ -4,6 +4,7 @@ devataa = "शची पौलोमी"
 RShiH = "शची पौलोमी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शची पौलोमी
@@ -77,7 +78,12 @@ asākṣi ← √sah- (root)
 
 viṣāsahíḥ ← viṣāsahí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॒सौ सूर्यो॑ अगा॒दुद॒यं मा॑म॒को भगः॑ ।  
+अ॒हं तद्वि॑द्व॒ला पति॑म॒भ्य॑साक्षि विषास॒हिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “victorious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

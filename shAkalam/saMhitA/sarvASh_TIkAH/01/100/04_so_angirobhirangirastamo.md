@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वार्षागिराः ऋज्राश्वांबरीष-सहदेव-भयमान-सुराधसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 ūtī́ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो अङ्गि॑रोभि॒रङ्गि॑रस्तमो भू॒द्वृषा॒ वृष॑भिः॒ सखि॑भिः॒ सखा॒ सन् ।  
+ऋ॒ग्मिभि॑रृ॒ग्मी गा॒तुभि॒र्ज्येष्ठो॑ म॒रुत्वा॑न्नो भव॒त्विन्द्र॑ ऊ॒ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -246,12 +251,6 @@ He has become the best Aṅgiras with the Aṅgirases, a bull with the  bulls, w
 a versifier with versifiers, preeminent along the routes. – Accompanied  by the Maruts, let Indra be here for us with help.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In b sán is one of the (fairly few) examples of the nominative of the pres.
-
-part. to √as that is not concessive (“although being ...”). The phrase sákhibhiḥ sákhā sán is, as Geldner points out (n. 4b), structurally identical to I.76.5 kavíbhiḥ kavíḥ sán, where the sán also lacks concessive force.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/100/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -259,7 +258,6 @@ The pattern of instrumentals set in vs. 4 -- “X with the X-es,” that is, “
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

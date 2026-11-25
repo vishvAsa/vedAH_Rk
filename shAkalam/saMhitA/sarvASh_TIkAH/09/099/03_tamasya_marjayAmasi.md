@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ purā́ ← purā́ (invariable)
 
 sūráyaḥ ← sūrí- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम॑स्य मर्जयामसि॒ मदो॒ य इ॑न्द्र॒पात॑मः ।  
+यं गाव॑ आ॒सभि॑र्द॒धुः पु॒रा नू॒नं च॑ सू॒रयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “patron.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

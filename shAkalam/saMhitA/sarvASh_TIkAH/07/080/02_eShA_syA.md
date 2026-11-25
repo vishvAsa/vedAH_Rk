@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ sū́ryam ← sū́rya- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒षा स्या नव्य॒मायु॒र्दधा॑ना गू॒ढ्वी तमो॒ ज्योति॑षो॒षा अ॑बोधि ।  
+अग्र॑ एति युव॒तिरह्र॑याणा॒ प्राचि॑कित॒त्सूर्यं॑ य॒ज्ञम॒ग्निम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

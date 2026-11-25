@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ janiṣṭa ← √janⁱ- (root)
 
 paúṁsyam ← paúṁsya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मा॑ अ॒र्कं स॒प्तशी॑र्षाणमानृ॒चुस्त्रि॒धातु॑मुत्त॒मे प॒दे ।  
+स त्वि१॒॑मा विश्वा॒ भुव॑नानि चिक्रद॒दादिज्ज॑निष्ट॒ पौंस्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “manfulness; deed; army; strength.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

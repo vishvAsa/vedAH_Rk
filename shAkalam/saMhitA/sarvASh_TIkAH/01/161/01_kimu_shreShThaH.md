@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -107,7 +108,12 @@ drúṇaḥ ← dā́ru- (nominal stem)
 
 ūdima ← √vadⁱ- (root)  
 {number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किमु॒ श्रेष्ठः॒ किं यवि॑ष्ठो न॒ आज॑ग॒न्किमी॑यते दू॒त्यं१॒॑ कद्यदू॑चि॒म ।  
+न नि॑न्दिम चम॒सं यो म॑हाकु॒लोऽग्ने॑ भ्रात॒र्द्रुण॒ इद्भू॒तिमू॑दिम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -278,7 +284,6 @@ _________
     diagnose; address; say; pronounce; express; instruct; order.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -63,7 +64,12 @@ suśrávastamaḥ ← suśrávastama- (nominal stem)
 
 vr̥dhé ← vŕ̥dh- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ प्या॑यस्व मदिन्तम॒ सोम॒ विश्वे॑भिरं॒शुभिः॑ ।  
+भवा॑ नः सु॒श्रव॑स्तमः॒ सखा॑ वृ॒धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ hávam ← háva- (nominal stem)
 
 stómavāhāḥ ← stómavāhas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गन्तेया॑न्ति॒ सव॑ना॒ हरि॑भ्यां ब॒भ्रिर्वज्रं॑ प॒पिः सोमं॑ द॒दिर्गाः ।  
+कर्ता॑ वी॒रं नर्यं॒ सर्व॑वीरं॒ श्रोता॒ हवं॑ गृण॒तः स्तोम॑वाहाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -256,7 +261,6 @@ who makes the manly hero possessed of hale heroes, the hearer of the  singer’s
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/023/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -264,7 +268,6 @@ The alternation of root-accented -tar- agent nouns and redupl. agentive - i-stem
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

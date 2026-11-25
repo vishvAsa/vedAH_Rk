@@ -68,6 +68,12 @@ daśāṅgulám ← daśāṅgulá- (nominal stem)
 {case:NOM, gender:N, number:SG}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्र॑शीर्षा॒ पुरु॑षः सहस्रा॒क्षः स॒हस्र॑पात् ।  
+स भूमिं॑ वि॒श्वतो॑ वृ॒त्वात्य॑तिष्ठद्दशाङ्गु॒लम् ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒हस्र॑ऽशीर्षा । पुरु॑षः । स॒ह॒स्र॒ऽअ॒क्षः । स॒हस्र॑ऽपात् ।  

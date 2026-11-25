@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः | कृत्रिमो वैश्वामित्रो देवरातः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -98,7 +99,12 @@ vā́tasya ← vā́ta- (nominal stem)
 
 yé ← yá- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि ते॑ क्ष॒त्रं न सहो॒ न म॒न्युं वय॑श्च॒नामी प॒तय॑न्त आ॒पुः ।  
+नेमा आपो॑ अनिमि॒षं चर॑न्ती॒र्न ये वात॑स्य प्रमि॒नन्त्यभ्व॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “monstrosity; nothingness; void; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

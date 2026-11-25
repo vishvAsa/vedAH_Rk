@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ jaṭhárāt ← jaṭhára- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स॒प्तहो॑ता सन॒काद॑रोचत मा॒तुरु॒पस्थे॒ यदशो॑च॒दूध॑नि ।  
+न नि मि॑षति सु॒रणो॑ दि॒वेदि॑वे॒ यदसु॑रस्य ज॒ठरा॒दजा॑यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

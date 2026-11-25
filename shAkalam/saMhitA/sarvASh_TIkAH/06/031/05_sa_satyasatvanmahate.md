@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ prá ← prá (invariable)
 
 śruta ← √śru- (root)  
 {case:VOC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स स॑त्यसत्वन्मह॒ते रणा॑य॒ रथ॒मा ति॑ष्ठ तुविनृम्ण भी॒मम् ।  
+या॒हि प्र॑पथि॒न्नव॒सोप॑ म॒द्रिक्प्र च॑ श्रुत श्रावय चर्ष॒णिभ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “people.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

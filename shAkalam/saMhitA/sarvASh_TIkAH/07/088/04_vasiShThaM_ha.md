@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -92,7 +93,12 @@ yā́t ← yā́t (invariable)
 
 yā́t ← yā́t (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वसि॑ष्ठं ह॒ वरु॑णो ना॒व्याधा॒दृषिं॑ चकार॒ स्वपा॒ महो॑भिः ।  
+स्तो॒तारं॒ विप्रः॑ सुदिन॒त्वे अह्नां॒ यान्नु द्याव॑स्त॒तन॒न्यादु॒षासः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “Ushas; dawn; uṣas \[word\]; morning.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

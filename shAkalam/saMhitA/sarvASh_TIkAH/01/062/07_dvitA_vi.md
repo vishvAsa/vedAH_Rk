@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ ródasī ← ródasī- (nominal stem)
 
 sudáṁsāḥ ← sudáṁsas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वि॒ता वि व॑व्रे स॒नजा॒ सनी॑ळे अ॒यास्यः॒ स्तव॑मानेभिर॒र्कैः ।  
+भगो॒ न मेने॑ पर॒मे व्यो॑म॒न्नधा॑रय॒द्रोद॑सी सु॒दंसाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

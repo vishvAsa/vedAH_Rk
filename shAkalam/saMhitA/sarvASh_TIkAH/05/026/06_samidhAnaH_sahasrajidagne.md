@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ dūtáḥ ← dūtá- (nominal stem)
 
 ukthyàḥ ← ukthyà- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मि॒धा॒नः स॑हस्रजि॒दग्ने॒ धर्मा॑णि पुष्यसि ।  
+दे॒वानां॑ दू॒त उ॒क्थ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “applaudable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

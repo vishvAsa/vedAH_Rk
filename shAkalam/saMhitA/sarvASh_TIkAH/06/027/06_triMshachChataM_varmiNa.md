@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ nyarthā́ni ← nyarthá- (nominal stem)
 
 pā́trā ← pā́tra- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिं॒शच्छ॑तं व॒र्मिण॑ इन्द्र सा॒कं य॒व्याव॑त्यां पुरुहूत श्रव॒स्या ।  
+वृ॒चीव॑न्तः॒ शर॑वे॒ पत्य॑मानाः॒ पात्रा॑ भिन्दा॒ना न्य॒र्थान्या॑यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

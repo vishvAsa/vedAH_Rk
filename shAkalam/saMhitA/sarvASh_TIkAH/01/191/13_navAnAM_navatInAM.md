@@ -4,6 +4,7 @@ devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "महाबृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अप्तृणसूर्याः
@@ -81,7 +82,12 @@ cakāra ← √kr̥- (root)
 
 madhulā́ ← madhulá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒वा॒नां न॑वती॒नां वि॒षस्य॒ रोपु॑षीणाम् ।  
+सर्वा॑सामग्रभं॒ नामा॒रे अ॑स्य॒ योज॑नं हरि॒ष्ठा मधु॑ त्वा मधु॒ला च॑कार ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

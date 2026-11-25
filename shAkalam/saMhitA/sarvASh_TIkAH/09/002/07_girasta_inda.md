@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मेधातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ mádāya ← máda- (nominal stem)
 
 yā́bhiḥ ← yá- (pronoun)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गिर॑स्त इन्द॒ ओज॑सा मर्मृ॒ज्यन्ते॑ अप॒स्युवः॑ ।  
+याभि॒र्मदा॑य॒ शुम्भ॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “look; shine; beautify.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

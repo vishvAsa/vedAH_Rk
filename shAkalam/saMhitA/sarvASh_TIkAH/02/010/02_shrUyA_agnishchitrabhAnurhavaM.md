@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ utá ← utá (invariable)
 
 víbhr̥traḥ ← víbhr̥tra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रू॒या अ॒ग्निश्चि॒त्रभा॑नु॒र्हवं॑ मे॒ विश्वा॑भिर्गी॒र्भिर॒मृतो॒ विचे॑ताः ।  
+श्या॒वा रथं॑ वहतो॒ रोहि॑ता वो॒तारु॒षाह॑ चक्रे॒ विभृ॑त्रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

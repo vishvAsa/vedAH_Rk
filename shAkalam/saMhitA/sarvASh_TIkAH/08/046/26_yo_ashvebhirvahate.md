@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वशोश्व्यः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -74,7 +75,12 @@ dānā́ya ← dāná- (nominal stem)
 
 śukrapūtapāḥ ← śukrapūtapā- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अश्वे॑भि॒र्वह॑ते॒ वस्त॑ उ॒स्रास्त्रिः स॒प्त स॑प्तती॒नाम् ।  
+ए॒भिः सोमे॑भिः सोम॒सुद्भिः॑ सोमपा दा॒नाय॑ शुक्रपूतपाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “drinking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

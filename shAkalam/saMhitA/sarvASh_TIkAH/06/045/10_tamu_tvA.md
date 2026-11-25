@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ vājānām ← vā́ja- (nominal stem)
 
 śravasyávaḥ ← śravasyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ त्वा सत्य सोमपा॒ इन्द्र॑ वाजानां पते ।  
+अहू॑महि श्रव॒स्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “celebrated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -172,12 +177,6 @@ It is just you, o Indra, you real one, you drinker of soma and lord of  prizes,
 that we have called upon, seeking fame—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-After the opening tám u tvā, the rest of the hemistich consists only of vocc.
-
-satya somapā, índra vājānām pate, with only a single accent among them: índra is accented because it’s initial in its pāda, while the gen. pl. vājānām is unaccented because it’s part of a voc. phrase. Note that in the Holland & van Nooten Rig Veda edition ed. vājānā́m bears an impossible, final-syllable accent, a typo that should be deleted.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -187,7 +186,6 @@ Both vss. begin tám u tvā, with the iteration of this phrase in 11a still part
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -66,7 +67,12 @@ stuṣé ← √stu- (root)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒षो उ॒षा अपू॑र्व्या॒ व्यु॑च्छति प्रि॒या दि॒वः ।  
+स्तु॒षे वा॑मश्विना बृ॒हत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

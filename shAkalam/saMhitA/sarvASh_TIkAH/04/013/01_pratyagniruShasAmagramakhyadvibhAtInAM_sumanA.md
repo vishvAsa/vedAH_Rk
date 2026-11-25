@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रत्य॒ग्निरु॒षसा॒मग्र॑मख्यद्विभाती॒नां सु॒मना॑ रत्न॒धेय॑म् ।  
+या॒तम॑श्विना सु॒कृतो॑ दुरो॒णमुत्सूर्यो॒ ज्योति॑षा दे॒व ए॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "तरन्तो वैददश्विः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तरन्तो वैददश्विः
@@ -60,7 +61,12 @@ maṁhánā ← maṁhánā- (nominal stem)
 
 tarantáḥ ← tarantá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो मे॑ धेनू॒नां श॒तं वैद॑दश्वि॒र्यथा॒ दद॑त् ।  
+त॒र॒न्त इ॑व मं॒हना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - \[noun\], instrumental, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

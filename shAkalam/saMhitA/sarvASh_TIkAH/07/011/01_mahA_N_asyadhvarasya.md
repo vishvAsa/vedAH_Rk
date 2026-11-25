@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ prathamáḥ ← prathamá- (nominal stem)
 
 sada ← √sad- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हाँ अ॑स्यध्व॒रस्य॑ प्रके॒तो न ऋ॒ते त्वद॒मृता॑ मादयन्ते ।  
+आ विश्वे॑भिः स॒रथं॑ याहि दे॒वैर्न्य॑ग्ने॒ होता॑ प्रथ॒मः स॑दे॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “here; now; in this world; now; below; there; here; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ taviṣám ← taviṣá- (nominal stem)
 
 vivāsata ← √vanⁱ- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम्व॒भि प्र गा॑यत पुरुहू॒तं पु॑रुष्टु॒तम् ।  
+इन्द्रं॑ गी॒र्भिस्त॑वि॒षमा वि॑वासत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “invite; endeavor; try for.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

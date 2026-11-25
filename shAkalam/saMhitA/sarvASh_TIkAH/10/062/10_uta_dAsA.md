@@ -4,6 +4,7 @@ devataa = "सावर्णेर्दानस्तुतिः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सावर्णेर्दानस्तुतिः
@@ -57,7 +58,12 @@ turváḥ ← turvá- (nominal stem)
 
 yáduḥ ← yádu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त दा॒सा प॑रि॒विषे॒ स्मद्दि॑ष्टी॒ गोप॑रीणसा ।  
+यदु॑स्तु॒र्वश्च॑ मामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “give; accord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

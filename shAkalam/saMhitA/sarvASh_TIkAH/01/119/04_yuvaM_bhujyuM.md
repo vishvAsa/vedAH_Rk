@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ máhi ← máh- (nominal stem)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं भु॒ज्युं भु॒रमा॑णं॒ विभि॑र्ग॒तं स्वयु॑क्तिभिर्नि॒वह॑न्ता पि॒तृभ्य॒ आ ।  
+या॒सि॒ष्टं व॒र्तिर्वृ॑षणा विजे॒न्यं१॒॑ दिवो॑दासाय॒ महि॑ चेति वा॒मवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “aid; favor; protection.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

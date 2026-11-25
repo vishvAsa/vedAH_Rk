@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ tvāyádbhyaḥ ← √tvāy- (root)
 
 yacha ← √yam- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं स्मा॒ रथं॑ मघव॒न्प्राव॑ सा॒तये॒ जैत्रं॒ यं ते॑ अनु॒मदा॑म सङ्ग॒मे ।  
+आ॒जा न॑ इन्द्र॒ मन॑सा पुरुष्टुत त्वा॒यद्भ्यो॑ मघव॒ञ्छर्म॑ यच्छ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

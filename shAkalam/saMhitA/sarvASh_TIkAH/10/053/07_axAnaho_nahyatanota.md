@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -86,7 +87,12 @@ priyám ← priyá- (nominal stem)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒क्षा॒नहो॑ नह्यतनो॒त सो॑म्या॒ इष्कृ॑णुध्वं रश॒ना ओत पिं॑शत ।  
+अ॒ष्टाव॑न्धुरं वहता॒भितो॒ रथं॒ येन॑ दे॒वासो॒ अन॑यन्न॒भि प्रि॒यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     good; liked; suitable; proper.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

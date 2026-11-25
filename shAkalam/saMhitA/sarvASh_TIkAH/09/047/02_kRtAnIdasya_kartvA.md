@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ dhr̥ṣṇúḥ ← dhr̥ṣṇú- (nominal stem)
 
 r̥ṇā́ ← r̥ṇá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒तानीद॑स्य॒ कर्त्वा॒ चेत॑न्ते दस्यु॒तर्ह॑णा ।  
+ऋ॒णा च॑ धृ॒ष्णुश्च॑यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “cover; accumulate; pile up; pick; cover.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

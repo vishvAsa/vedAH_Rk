@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ mahā́m ← máh- (nominal stem)
 
 mátsi ← √mad- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मत्सि॑ सोम॒ वरु॑णं॒ मत्सि॑ मि॒त्रं मत्सीन्द्र॑मिन्दो पवमान॒ विष्णु॑म् ।  
+मत्सि॒ शर्धो॒ मारु॑तं॒ मत्सि॑ दे॒वान्मत्सि॑ म॒हामिन्द्र॑मिन्दो॒ मदा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

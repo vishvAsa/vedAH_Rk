@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ divítmatā ← divítmant- (nominal stem)
 
 vácaḥ ← vácas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि नो॒ होता॒ वरे॑ण्यः॒ सदा॑ यविष्ठ॒ मन्म॑भिः ।  
+अग्ने॑ दि॒वित्म॑ता॒ वचः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “statement; command; speech; words; advice; word; voice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

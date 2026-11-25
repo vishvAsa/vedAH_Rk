@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "शक्वरी"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - शक्वरी
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -99,7 +99,12 @@ bharádvājāya ← bharádvāja- (nominal stem)
 
 sapráthaḥ ← sapráthas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स त्वं दक्ष॑स्यावृ॒को वृ॒धो भू॑र॒र्यः पर॒स्यान्त॑रस्य॒ तरु॑षः ।  
+रा॒यः सू॑नो सहसो॒ मर्त्ये॒ष्वा छ॒र्दिर्य॑च्छ वी॒तह॑व्याय स॒प्रथो॑ भ॒रद्वा॑जाय स॒प्रथः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +246,6 @@ _________
 - “extensive; wide; extended.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -294,8 +298,6 @@ Sei du des Tücht'gen treugesinnter Förderer, des nahen und des fernen Feinds B
 (А также) защиту, распространяющуюся на Витахавью,  
 Распространяющуюся на Бхарадваджу!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

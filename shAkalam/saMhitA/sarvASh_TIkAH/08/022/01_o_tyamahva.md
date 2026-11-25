@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ sūryā́yai ← sūryā́- (nominal stem)
 
 tastháthuḥ ← √sthā- (root)  
 {number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओ त्यम॑ह्व॒ आ रथ॑म॒द्या दंसि॑ष्ठमू॒तये॑ ।  
+यम॑श्विना सुहवा रुद्रवर्तनी॒ आ सू॒र्यायै॑ त॒स्थथुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,7 +232,6 @@ follow the course of the Rudras [=Maruts]—
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/022/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -235,7 +239,6 @@ This pragātha contains poetic self-address at a distance. Vs. 1 begins ā́ …
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

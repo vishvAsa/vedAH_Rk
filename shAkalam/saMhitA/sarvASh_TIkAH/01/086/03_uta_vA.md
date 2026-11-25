@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vrajé ← vrajá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त वा॒ यस्य॑ वा॒जिनोऽनु॒ विप्र॒मत॑क्षत ।  
+स गन्ता॒ गोम॑ति व्र॒जे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
     herd; flock; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -174,12 +179,6 @@ Atakṣata = have sharpened, i.e. have animated by their offerings
 Or for which prize-seeker you fashioned an inspired poet to follow, he will go to a pen full of cattle.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As noted in the published introduction, I take the vājín- here to be the patron, for whom the Maruts create a worthy poet.
-
-I take gántā as a periphrastic future. VII.32.10 gámat sá gómati vrajé is entirely parallel, save for having a subjunctive (gámat) in place of the agent noun here, which suggests a future sense for the latter.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -187,7 +186,6 @@ As discussed in the published introduction, the syntax of these two verses is to
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

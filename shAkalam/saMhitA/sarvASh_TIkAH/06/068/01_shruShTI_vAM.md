@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ mahé ← máh- (nominal stem)
 
 sumnā́ya ← sumná- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रु॒ष्टी वां॑ य॒ज्ञ उद्य॑तः स॒जोषा॑ मनु॒ष्वद्वृ॒क्तब॑र्हिषो॒ यज॑ध्यै ।  
+आ य इन्द्रा॒वरु॑णावि॒षे अ॒द्य म॒हे सु॒म्नाय॑ म॒ह आ॑व॒वर्त॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “melt; return; melt; to be reborn; turn; turn; revolve; roll.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

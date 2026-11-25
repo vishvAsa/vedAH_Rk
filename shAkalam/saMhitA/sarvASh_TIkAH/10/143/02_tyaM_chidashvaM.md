@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अत्रिः साङ्ख्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ rájaḥ ← rájas- (nominal stem)
 
 yáviṣṭham ← yáviṣṭha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्यं चि॒दश्वं॒ न वा॒जिन॑मरे॒णवो॒ यमत्न॑त ।  
+दृ॒ळ्हं ग्र॒न्थिं न वि ष्य॑त॒मत्रिं॒ यवि॑ष्ठ॒मा रजः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

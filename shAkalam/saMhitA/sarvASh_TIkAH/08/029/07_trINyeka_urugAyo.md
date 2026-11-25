@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः कश्यपो वा मारीचः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -52,7 +53,11 @@ mádanti ← √mad- (root)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रीण्येक॑ उरुगा॒यो वि च॑क्रमे॒ यत्र॑ दे॒वासो॒ मद॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +116,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

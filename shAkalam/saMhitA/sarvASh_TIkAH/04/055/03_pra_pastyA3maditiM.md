@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ karatām ← √kr̥- (root)
 
 uṣā́sānáktā ← uṣā́sānáktā- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र प॒स्त्या॒३॒॑मदि॑तिं॒ सिन्धु॑म॒र्कैः स्व॒स्तिमी॑ळे स॒ख्याय॑ दे॒वीम् ।  
+उ॒भे यथा॑ नो॒ अह॑नी नि॒पात॑ उ॒षासा॒नक्ता॑ करता॒मद॑ब्धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “unfailing; unimpaired.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

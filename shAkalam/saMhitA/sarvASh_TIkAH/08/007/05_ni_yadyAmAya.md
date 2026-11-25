@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ mahé ← máh- (nominal stem)
 
 yemiré ← √yam- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि यद्यामा॑य वो गि॒रिर्नि सिन्ध॑वो॒ विध॑र्मणे ।  
+म॒हे शुष्मा॑य येमि॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

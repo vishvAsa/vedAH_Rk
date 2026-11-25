@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "धरुण आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ siṁhám ← siṁhá- (nominal stem)
 
 sthuḥ ← √sthā- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ङ्हो॒युव॑स्त॒न्व॑स्तन्वते॒ वि वयो॑ म॒हद्दु॒ष्टरं॑ पू॒र्व्याय॑ ।  
+स सं॒वतो॒ नव॑जातस्तुतुर्यात्सि॒ङ्हं न क्रु॒द्धम॒भितः॒ परि॑ ष्ठुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -98,7 +99,12 @@ tát ← sá- ~ tá- (pronoun)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्य॒म्यं॑ वरुण मि॒त्र्यं॑ वा॒ सखा॑यं वा॒ सद॒मिद्भ्रात॑रं वा ।  
+वे॒शं वा॒ नित्यं॑ वरु॒णार॑णं वा॒ यत्सी॒माग॑श्चकृ॒मा शि॒श्रथ॒स्तत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
     \[word\]; dative; once; same.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

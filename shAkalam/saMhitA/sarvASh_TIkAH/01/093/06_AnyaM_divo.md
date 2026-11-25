@@ -4,6 +4,7 @@ devataa = "अग्नीषोमौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नीषोमौ
@@ -83,7 +84,12 @@ urúm ← urú- (nominal stem)
 
 yajñā́ya ← yajñá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आन्यं दि॒वो मा॑त॒रिश्वा॑ जभा॒राम॑थ्नाद॒न्यं परि॑ श्ये॒नो अद्रेः॑ ।  
+अग्नी॑षोमा॒ ब्रह्म॑णा वावृधा॒नोरुं य॒ज्ञाय॑ चक्रथुरु लो॒कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     \[word\]; space; Loka; topographic point; region; common sense.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

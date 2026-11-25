@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ sádaḥ ← sádas- (nominal stem)
 
 váneṣu ← vána- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ सो॑म सुवा॒नो अद्रि॑भिस्ति॒रो वारा॑ण्य॒व्यया॑ ।  
+जनो॒ न पु॒रि च॒म्वो॑र्विश॒द्धरिः॒ सदो॒ वने॑षु दधिषे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -216,10 +221,6 @@ O Soma, while you are being pressed by the stones, (you come) here  across the s
 Like a man into a fortress, the tawny one enters into the two cups. You  have established your seat in the woods [/in the wooden cups].
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Geldner, Renou, Hoffmann (133), in the published translation I supply a verb in ab. I now think this may be unnec. The impetus was the apparent change of person between the first hemistich and the second: with voc. soma in pāda a but a 3rd ps. verb (viśat) with Soma as subj. in c. However, as in vs. 12 the 3rd-ps. verb may result from attraction to the simile (jáno ná purí … viśat “as a man enters a fortress”), and the underlying person could be 2nd throughout; see dadhiṣe in d. It is hard to convey the change in Engl. but something like “O Soma, while you are being pressed by the stones here across the sheep's fleeces, as a man enters a fortress, as tawny one (you enter) into the two cups. You have established …” Hoffmann (133) argues that the changes of ps. mark pāda c as parenthetic, allowing it to be interpr. in his “general” sense. This sense should be possible even without branding the pāda as a parenthesis.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -227,7 +228,6 @@ Little overt cohesion. The adv. tiráḥ ‘across’ referring to the filter is
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

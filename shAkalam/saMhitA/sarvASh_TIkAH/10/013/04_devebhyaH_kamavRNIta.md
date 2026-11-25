@@ -4,6 +4,7 @@ devataa = "हविर्धाने"
 RShiH = "विवस्वानादित्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हविर्धाने
@@ -86,7 +87,12 @@ tanvàm ← tanū́- (nominal stem)
 
 yamáḥ ← yamá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वेभ्यः॒ कम॑वृणीत मृ॒त्युं प्र॒जायै॒ कम॒मृतं॒ नावृ॑णीत ।  
+बृह॒स्पतिं॑ य॒ज्ञम॑कृण्वत॒ ऋषिं॑ प्रि॒यां य॒मस्त॒न्वं१॒॑ प्रारि॑रेचीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “propagate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

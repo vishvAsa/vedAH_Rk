@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -83,7 +84,12 @@ várūtham ← várūtha- (nominal stem)
 
 yātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र पू॑र्व॒जे पि॒तरा॒ नव्य॑सीभिर्गी॒र्भिः कृ॑णुध्वं॒ सद॑ने ऋ॒तस्य॑ ।  
+आ नो॑ द्यावापृथिवी॒ दैव्ये॑न॒ जने॑न यातं॒ महि॑ वां॒ वरू॑थम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “defense; protective covering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

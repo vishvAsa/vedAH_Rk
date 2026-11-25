@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कतो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ devā́ḥ ← devá- (nominal stem)
 
 nā́bhim ← nā́bhi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं सु॑दी॒तिं सु॒दृशं॑ गृ॒णन्तो॑ नम॒स्याम॒स्त्वेड्यं॑ जातवेदः ।  
+त्वां दू॒तम॑र॒तिं ह॑व्य॒वाहं॑ दे॒वा अ॑कृण्वन्न॒मृत॑स्य॒ नाभि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     \[word\]; friendship; center.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -86,7 +87,12 @@ pāta ← √pā- 2 (root)
 
 ratnadhā́ḥ ← ratnadhā́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ न॑पातः शवसो यात॒नोपे॒मं य॒ज्ञं नम॑सा हू॒यमा॑नाः ।  
+स॒जोष॑सः सूरयो॒ यस्य॑ च॒ स्थ मध्वः॑ पात रत्न॒धा इन्द्र॑वन्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

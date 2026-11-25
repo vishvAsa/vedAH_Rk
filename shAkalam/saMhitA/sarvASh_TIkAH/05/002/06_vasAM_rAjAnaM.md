@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कुमार आत्रेयो वृशो वा जान उभौ वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ ninditā́raḥ ← ninditár- (nominal stem)
 
 níndyāsaḥ ← níndya- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒सां राजा॑नं वस॒तिं जना॑ना॒मरा॑तयो॒ नि द॑धु॒र्मर्त्ये॑षु ।  
+ब्रह्मा॒ण्यत्रे॒रव॒ तं सृ॑जन्तु निन्दि॒तारो॒ निन्द्या॑सो भवन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

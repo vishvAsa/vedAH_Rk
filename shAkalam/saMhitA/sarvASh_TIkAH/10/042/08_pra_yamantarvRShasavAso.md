@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vahati ← √vah- (root)
 
 vāmám ← vāmá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र यम॒न्तर्वृ॑षस॒वासो॒ अग्म॑न्ती॒व्राः सोमा॑ बहु॒लान्ता॑स॒ इन्द्र॑म् ।  
+नाह॑ दा॒मानं॑ म॒घवा॒ नि यं॑स॒न्नि सु॑न्व॒ते व॑हति॒ भूरि॑ वा॒मम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “agreeable; vāma \[word\]; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

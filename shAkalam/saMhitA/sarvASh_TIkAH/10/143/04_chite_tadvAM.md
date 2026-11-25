@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अत्रिः साङ्ख्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ párṣathaḥ ← √pr̥- (root)
 
 sámane ← sámana- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चि॒ते तद्वां॑ सुराधसा रा॒तिः सु॑म॒तिर॑श्विना ।  
+आ यन्नः॒ सद॑ने पृ॒थौ सम॑ने॒ पर्ष॑थो नरा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
     servant; hero.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

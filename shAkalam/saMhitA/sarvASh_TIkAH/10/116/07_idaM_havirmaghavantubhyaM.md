@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अग्नियुतः स्थौरोग्नियूपो वा स्थौरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ píba ← √pā- 2 (root)
 
 prásthitasya ← √sthā- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं ह॒विर्म॑घव॒न्तुभ्यं॑ रा॒तं प्रति॑ सम्रा॒ळहृ॑णानो गृभाय ।  
+तुभ्यं॑ सु॒तो म॑घव॒न्तुभ्यं॑ प॒क्वो॒३॒॑ऽद्धी॑न्द्र॒ पिब॑ च॒ प्रस्थि॑तस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “depart; give; depart; go; stay; proceed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

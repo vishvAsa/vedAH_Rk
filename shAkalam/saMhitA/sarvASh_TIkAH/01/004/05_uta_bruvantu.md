@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ dúvaḥ ← dúvas- (nominal stem)
 
 ít ← ít (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त ब्रु॑वन्तु नो॒ निदो॒ निर॒न्यत॑श्चिदारत ।  
+दधा॑ना॒ इन्द्र॒ इद्दुवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

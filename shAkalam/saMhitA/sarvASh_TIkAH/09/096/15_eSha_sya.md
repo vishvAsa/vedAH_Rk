@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -98,7 +99,12 @@ urú ← urú- (nominal stem)
 
 vóḷhā ← vóḷhar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्य सोमो॑ म॒तिभिः॑ पुना॒नोऽत्यो॒ न वा॒जी तर॒तीदरा॑तीः ।  
+पयो॒ न दु॒ग्धमदि॑तेरिषि॒रमु॒र्वि॑व गा॒तुः सु॒यमो॒ न वोळ्हा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “charioteer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

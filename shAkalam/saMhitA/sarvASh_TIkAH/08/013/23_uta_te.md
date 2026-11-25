@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -64,7 +65,12 @@ madíntamam ← madíntama- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त ते॒ सुष्टु॑ता॒ हरी॒ वृष॑णा वहतो॒ रथ॑म् ।  
+अ॒जु॒र्यस्य॑ म॒दिन्त॑मं॒ यमीम॑हे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

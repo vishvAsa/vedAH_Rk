@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ vaḥ ← tvám (pronoun)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॑ र॒यिं यु॒क्ताश्वं॑ भरध्वं रा॒य एषेऽव॑से दधीत॒ धीः ।  
+सु॒शेव॒ एवै॑रौशि॒जस्य॒ होता॒ ये व॒ एवा॑ मरुतस्तु॒राणा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “powerful; noble; noble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

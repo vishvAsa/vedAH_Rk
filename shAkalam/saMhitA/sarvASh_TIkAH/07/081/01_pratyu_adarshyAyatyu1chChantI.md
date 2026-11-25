@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ kr̥ṇoti ← √kr̥- (root)
 
 sūnárī ← sūnára- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रत्यु॑ अदर्श्याय॒त्यु१॒॑च्छन्ती॑ दुहि॒ता दि॒वः ।  
+अपो॒ महि॑ व्ययति॒ चक्ष॑से॒ तमो॒ ज्योति॑ष्कृणोति सू॒नरी॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “noble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

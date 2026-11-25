@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ adhvarám ← adhvará- (nominal stem)
 
 prātaryā́vāṇaḥ ← prātaryā́van- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रु॒धि श्रु॑त्कर्ण॒ वह्नि॑भिर्दे॒वैर॑ग्ने स॒याव॑भिः ।  
+आ सी॑दन्तु ब॒र्हिषि॑ मि॒त्रो अ॑र्य॒मा प्रा॑त॒र्यावा॑णो अध्व॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

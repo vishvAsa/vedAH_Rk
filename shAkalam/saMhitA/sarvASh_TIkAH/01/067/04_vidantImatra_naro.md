@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -58,7 +59,11 @@ taṣṭā́n ← √takṣ- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒दन्ती॒मत्र॒ नरो॑ धियं॒धा हृ॒दा यत्त॒ष्टान्मन्त्राँ॒ अशं॑सन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +134,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

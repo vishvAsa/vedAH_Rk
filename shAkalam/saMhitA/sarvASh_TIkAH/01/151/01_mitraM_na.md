@@ -4,6 +4,7 @@ devataa = "मित्रः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रः
@@ -89,7 +90,12 @@ priyám ← priyá- (nominal stem)
 
 yajatám ← yajatá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रं न यं शिम्या॒ गोषु॑ ग॒व्यवः॑ स्वा॒ध्यो॑ वि॒दथे॑ अ॒प्सु जीज॑नन् ।  
+अरे॑जेतां॒ रोद॑सी॒ पाज॑सा गि॒रा प्रति॑ प्रि॒यं य॑ज॒तं ज॒नुषा॒मवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “aid; favor; protection.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

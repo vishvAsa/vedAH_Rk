@@ -4,6 +4,7 @@ devataa = "विश्वदेवाग्नीन्द्रवायुम
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वदेवाग्नीन्द्रवायुमित्रधामानि
@@ -57,7 +58,12 @@ mitrásya ← mitrá- (nominal stem)
 
 píba ← √pā- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑भिः सो॒म्यं मध्वग्न॒ इन्द्रे॑ण वा॒युना॑ ।  
+पिबा॑ मि॒त्रस्य॒ धाम॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
     location.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

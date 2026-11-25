@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ rūpé ← rūpá- (nominal stem)
 
 svit ← svit (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अचि॑कित्वाञ्चिकि॒तुष॑श्चि॒दत्र॑ क॒वीन्पृ॑च्छामि वि॒द्मने॒ न वि॒द्वान् ।  
+वि यस्त॒स्तम्भ॒ षळि॒मा रजां॑स्य॒जस्य॑ रू॒पे किमपि॑ स्वि॒देक॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
     consistent; any(a); undifferentiated; disjunct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ bhū́reḥ ← bhū́ri- (nominal stem)
 
 ójasā ← ójas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒य॒न्तारं॒ महि॑ स्थि॒रं पृत॑नासु श्रवो॒जित॑म् ।  
+भूरे॒रीशा॑न॒मोज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

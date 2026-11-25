@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ vā́jāḥ ← vā́ja- (nominal stem)
 
 yantu ← √i- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं सा भू॑या उ॒षसा॑मिव॒ क्षा यद्ध॑ क्षु॒मन्तः॒ शव॑सा स॒माय॑न् ।  
+अ॒स्य स्तु॒तिं ज॑रि॒तुर्भिक्ष॑माणा॒ आ नः॑ श॒ग्मास॒ उप॑ यन्तु॒ वाजाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

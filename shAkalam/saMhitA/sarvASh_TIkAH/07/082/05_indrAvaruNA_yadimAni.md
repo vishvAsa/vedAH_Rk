@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ marúdbhiḥ ← marút- (nominal stem)
 
 ugráḥ ← ugrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑वरुणा॒ यदि॒मानि॑ च॒क्रथु॒र्विश्वा॑ जा॒तानि॒ भुव॑नस्य म॒ज्मना॑ ।  
+क्षेमे॑ण मि॒त्रो वरु॑णं दुव॒स्यति॑ म॒रुद्भि॑रु॒ग्रः शुभ॑म॒न्य ई॑यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

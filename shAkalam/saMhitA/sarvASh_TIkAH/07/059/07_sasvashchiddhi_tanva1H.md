@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ raṇvā́ḥ ← raṇvá- (nominal stem)
 
 sávane ← sávana- 1 (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒स्वश्चि॒द्धि त॒न्व१॑ः॒ शुम्भ॑माना॒ आ हं॒सासो॒ नील॑पृष्ठा अपप्तन् ।  
+विश्वं॒ शर्धो॑ अ॒भितो॑ मा॒ नि षे॑द॒ नरो॒ न र॒ण्वाः सव॑ने॒ मद॑न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

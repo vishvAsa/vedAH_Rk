@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "सिन्धुक्षित् प्रैयमेधः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -83,7 +84,12 @@ vitástayā ← vitástā- (nominal stem)
 
 suṣómayā ← suṣóma- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं मे॑ गङ्गे यमुने सरस्वति॒ शुतु॑द्रि॒ स्तोमं॑ सचता॒ परु॒ष्ण्या ।  
+अ॒सि॒क्न्या म॑रुद्वृधे वि॒तस्त॒यार्जी॑कीये शृणु॒ह्या सु॒षोम॑या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “Suṣomā.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "आप्त्यस्त्रितः कुत्स आङ्गिरसो वा"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -85,7 +86,12 @@ rodasī ← ródasī- (nominal stem)
 
 vittám ← √vid- 2 (root)  
 {number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒प॒र्णा ए॒त आ॑सते॒ मध्य॑ आ॒रोध॑ने दि॒वः ।  
+ते से॑धन्ति प॒थो वृकं॒ तर॑न्तं य॒ह्वती॑र॒पो वि॒त्तं मे॑ अ॒स्य रो॑दसी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “heaven and earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

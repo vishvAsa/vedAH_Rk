@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ sádam ← sádam (invariable)
 
 véḥ ← √vī- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒सस्य॒ यद्वियु॑ता॒ सस्मि॒न्नूध॑न्नृ॒तस्य॒ धाम॑न्र॒णय॑न्त दे॒वाः ।  
+म॒हाँ अ॒ग्निर्नम॑सा रा॒तह॑व्यो॒ वेर॑ध्व॒राय॒ सद॒मिदृ॒तावा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “law-abiding; faithful; righteous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -241,10 +246,6 @@ When, at the separation of the grain [=spreading of the ritual grass?], at  the 
 great Agni, on whom the oblation is bestowed with reverence, the  truthful one, is always pursuing (his missions) for the ceremony.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs., particularly the first pāda, has been subjected to a variety of interpretations, which I will not pursue in detail here. The vs. is reminiscent of, though far less difficult than, IV.5.7, and in both cases I think it concerns the ritual and the layout of the ritual ground. The loc. phrase sasásya … víyutā “at the separation of the grain” I take as a reference to the spreading of the barhis, the ritual grass; it seems to correspond to the loc. phrase in IV.5.7c sasásya cárman “on the hide of the grain.” See also V.21.4, where Agni is urged to sit “on the womb of grain” (sasásya yónim). “At the same udder” (sásminn ū́dhan) is also found in nearby IV.10.8, also with apparent reference to the sacrifice or the ritual ground.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/007/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -264,7 +265,6 @@ Though vs. 6 belongs metrically and syntactically with what precedes -- it is in
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

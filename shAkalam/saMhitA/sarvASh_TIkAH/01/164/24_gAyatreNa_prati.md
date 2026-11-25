@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ saptá ← saptá- (nominal stem)
 
 vā́ṇīḥ ← vā́ṇī- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गा॒य॒त्रेण॒ प्रति॑ मिमीते अ॒र्कम॒र्केण॒ साम॒ त्रैष्टु॑भेन वा॒कम् ।  
+वा॒केन॑ वा॒कं द्वि॒पदा॒ चतु॑ष्पदा॒क्षरे॑ण मिमते स॒प्त वाणीः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “voice; Sarasvati; words; language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

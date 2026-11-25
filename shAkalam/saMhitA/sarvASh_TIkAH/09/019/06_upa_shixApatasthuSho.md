@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 vidā́ḥ ← √vid- 1 (root)  
 {number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ शिक्षापत॒स्थुषो॑ भि॒यस॒मा धे॑हि॒ शत्रु॑षु ।  
+पव॑मान वि॒दा र॒यिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

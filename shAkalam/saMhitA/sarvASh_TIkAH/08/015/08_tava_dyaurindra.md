@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ párvatāsaḥ ← párvata- (nominal stem)
 
 tvā́m ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ द्यौरि॑न्द्र॒ पौंस्यं॑ पृथि॒वी व॑र्धति॒ श्रवः॑ ।  
+त्वामापः॒ पर्व॑तासश्च हिन्विरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “impel; send; spur; stimulate; urge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -179,7 +184,6 @@ the waters and mountains spur you on.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
 <details><summary><h2>07-10 ...{Loading}...</h2></summary>
 
@@ -187,7 +191,6 @@ Every half-verse in this tṛca but 7c and 10c opens with a form of the 2nd sg. 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

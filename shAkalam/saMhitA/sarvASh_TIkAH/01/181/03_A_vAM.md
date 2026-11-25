@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ yáḥ ← yá- (pronoun)
 
 yajatáḥ ← yajatá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ रथो॒ऽवनि॒र्न प्र॒वत्वा॑न्त्सृ॒प्रव॑न्धुरः सुवि॒ताय॑ गम्याः ।  
+वृष्णः॑ स्थातारा॒ मन॑सो॒ जवी॑यानहम्पू॒र्वो य॑ज॒तो धि॑ष्ण्या॒ यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “who; which; yat \[pronoun\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

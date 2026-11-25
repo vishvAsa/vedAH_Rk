@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ rudrā ← rudrá- (nominal stem)
 
 vádhar ← vádhar- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नो॑ मरुतो वृ॒कता॑ति॒ मर्त्यो॑ रि॒पुर्द॒धे व॑सवो॒ रक्ष॑ता रि॒षः ।  
+व॒र्तय॑त॒ तपु॑षा च॒क्रिया॒भि तमव॑ रुद्रा अ॒शसो॑ हन्तना॒ वधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “weapon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

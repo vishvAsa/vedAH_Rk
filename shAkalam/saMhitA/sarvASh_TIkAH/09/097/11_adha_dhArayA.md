@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मन्युर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ mádāya ← máda- (nominal stem)
 
 matsaráḥ ← matsará- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॒ धार॑या॒ मध्वा॑ पृचा॒नस्ति॒रो रोम॑ पवते॒ अद्रि॑दुग्धः ।  
+इन्दु॒रिन्द्र॑स्य स॒ख्यं जु॑षा॒णो दे॒वो दे॒वस्य॑ मत्स॒रो मदा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,10 +232,6 @@ the drop enjoying the fellowship of Indra, the god, the exhilarating
 drink of the god, for exhilaration.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The 2nd hemistich contains three pairs of phonological and (partly) etymological figures: #índur índrasya, #devó devásya, matsaró mádāya#, with the 1st two presenting matching nom.+gen. grammatical figures.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -240,7 +241,6 @@ All three vss. contain a hemistich beginning índuḥ (10a, 11c, 12c); the verb 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

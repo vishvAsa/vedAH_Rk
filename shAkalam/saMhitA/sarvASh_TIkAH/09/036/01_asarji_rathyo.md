@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ ní ← ní (invariable)
 
 vājī́ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस॑र्जि॒ रथ्यो॑ यथा प॒वित्रे॑ च॒म्वोः॑ सु॒तः ।  
+कार्ष्म॑न्वा॒जी न्य॑क्रमीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “kram; step; go; continue; proceed; traverse; heat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

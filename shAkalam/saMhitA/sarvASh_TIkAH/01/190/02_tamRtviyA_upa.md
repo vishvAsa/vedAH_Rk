@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -92,7 +93,12 @@ sám ← sám (invariable)
 
 víbhvā ← víbhvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमृ॒त्विया॒ उप॒ वाचः॑ सचन्ते॒ सर्गो॒ न यो दे॑वय॒तामस॑र्जि ।  
+बृह॒स्पतिः॒ स ह्यञ्जो॒ वरां॑सि॒ विभ्वाभ॑व॒त्समृ॒ते मा॑त॒रिश्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “wind; Mātariśvan; Vayu; vāta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

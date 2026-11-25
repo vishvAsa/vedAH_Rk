@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ sukṣitím ← sukṣití- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ये य॒युर॑वृ॒कासो॒ रथा॑ इव नृपा॒तारो॒ जना॑नाम् ।  
+उ॒त स्वेन॒ शव॑सा शूशुवु॒र्नर॑ उ॒त क्षि॑यन्ति सुक्षि॒तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     estate; colony; house.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

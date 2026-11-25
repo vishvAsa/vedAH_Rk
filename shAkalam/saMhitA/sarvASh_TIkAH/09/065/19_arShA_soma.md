@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ sī́dan ← √sad- (root)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर्षा॑ सोम द्यु॒मत्त॑मो॒ऽभि द्रोणा॑नि॒ रोरु॑वत् ।  
+सीद॑ञ्छ्ये॒नो न योनि॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,14 +173,12 @@ sitting like a falcon in your womb.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 No clear cohesion, though vss. 19 and 20 both contain a form of √ṛṣ.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

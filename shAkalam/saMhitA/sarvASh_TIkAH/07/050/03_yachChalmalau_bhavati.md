@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ tsáruḥ ← tsáru- (nominal stem)
 
 vidat ← √vid- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यच्छ॑ल्म॒लौ भव॑ति॒ यन्न॒दीषु॒ यदोष॑धीभ्यः॒ परि॒ जाय॑ते वि॒षम् ।  
+विश्वे॑ दे॒वा निरि॒तस्तत्सु॑वन्तु॒ मा मां पद्ये॑न॒ रप॑सा विद॒त्त्सरुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “hilt; sycophant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

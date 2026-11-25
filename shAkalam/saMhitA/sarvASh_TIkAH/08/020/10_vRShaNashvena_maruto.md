@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ naḥ ← ahám (pronoun)
 
 vītáye ← vītí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒ष॒ण॒श्वेन॑ मरुतो॒ वृष॑प्सुना॒ रथे॑न॒ वृष॑नाभिना ।  
+आ श्ये॒नासो॒ न प॒क्षिणो॒ वृथा॑ नरो ह॒व्या नो॑ वी॒तये॑ गत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -213,7 +218,6 @@ come here at will, like winged falcons, to pursue our oblations, o men.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -221,7 +225,6 @@ The ‘bull’ stem (vṛ́ṣa(n)-) is dominant in these verses (9b, 9c, 10a [t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

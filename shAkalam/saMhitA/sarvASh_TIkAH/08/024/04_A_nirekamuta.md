@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ dhr̥ṣṇo ← dhr̥ṣṇú- (nominal stem)
 
 stávamānaḥ ← √stu- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नि॑रे॒कमु॒त प्रि॒यमिन्द्र॒ दर्षि॒ जना॑नाम् ।  
+धृ॒ष॒ता धृ॑ष्णो॒ स्तव॑मान॒ आ भ॑र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

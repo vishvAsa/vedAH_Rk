@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ nā́ma ← nā́man- (nominal stem)
 
 nr̥ṇā́m ← nár- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उषो॒ ये ते॒ प्र यामे॑षु यु॒ञ्जते॒ मनो॑ दा॒नाय॑ सू॒रयः॑ ।  
+अत्राह॒ तत्कण्व॑ एषां॒ कण्व॑तमो॒ नाम॑ गृणाति नृ॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

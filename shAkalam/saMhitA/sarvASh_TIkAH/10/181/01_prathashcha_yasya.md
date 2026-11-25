@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रथो वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ rathaṁtarám ← rathaṁtará- (nominal stem)
 
 vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रथ॑श्च॒ यस्य॑ स॒प्रथ॑श्च॒ नामानु॑ष्टुभस्य ह॒विषो॑ ह॒विर्यत् ।  
+धा॒तुर्द्युता॑नात्सवि॒तुश्च॒ विष्णो॑ रथन्त॒रमा ज॑भारा॒ वसि॑ष्ठः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

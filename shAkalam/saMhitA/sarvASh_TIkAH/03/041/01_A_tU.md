@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ háribhyām ← hári- (nominal stem)
 
 yāhi ← √yā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ तू न॑ इन्द्र म॒द्र्य॑ग्घुवा॒नः सोम॑पीतये ।  
+हरि॑भ्यां याह्यद्रिवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “rocky; petrous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

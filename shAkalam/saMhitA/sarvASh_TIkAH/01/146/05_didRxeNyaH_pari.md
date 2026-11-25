@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ maghávā ← maghávan- (nominal stem)
 
 viśvádarśataḥ ← viśvádarśata- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒दृ॒क्षेण्यः॒ परि॒ काष्ठा॑सु॒ जेन्य॑ ई॒ळेन्यो॑ म॒हो अर्भा॑य जी॒वसे॑ ।  
+पु॒रु॒त्रा यदभ॑व॒त्सूरहै॑भ्यो॒ गर्भे॑भ्यो म॒घवा॑ वि॒श्वद॑र्शतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “beautiful; visible; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

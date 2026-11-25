@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ sáptim ← sápti- (nominal stem)
 
 vājayāmasi ← √vājay- 2 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं वि॒श्वायु॑वेपसं॒ मर्यं॒ न वा॒जिनं॑ हि॒तम् ।  
+सप्तिं॒ न वा॑जयामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “incite.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

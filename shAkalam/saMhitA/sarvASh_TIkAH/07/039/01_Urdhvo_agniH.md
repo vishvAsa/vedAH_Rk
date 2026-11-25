@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ r̥tám ← r̥tá- (nominal stem)
 
 yajāti ← √yaj- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वो अ॒ग्निः सु॑म॒तिं वस्वो॑ अश्रेत्प्रती॒ची जू॒र्णिर्दे॒वता॑तिमेति ।  
+भे॒जाते॒ अद्री॑ र॒थ्ये॑व॒ पन्था॑मृ॒तं होता॑ न इषि॒तो य॑जाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

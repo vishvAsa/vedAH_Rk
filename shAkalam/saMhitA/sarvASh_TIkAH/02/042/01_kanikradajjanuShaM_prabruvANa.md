@@ -4,6 +4,7 @@ devataa = "इन्द्रः (कपिंजलरूपी)"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (कपिंजलरूपी)
@@ -89,7 +90,12 @@ vidat ← √vid- 1 (root)
 
 víśvyā ← víśvya- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कनि॑क्रदज्ज॒नुषं॑ प्रब्रुवा॒ण इय॑र्ति॒ वाच॑मरि॒तेव॒ नाव॑म् ।  
+सु॒म॒ङ्गल॑श्च शकुने॒ भवा॑सि॒ मा त्वा॒ का चि॑दभि॒भा विश्व्या॑ विदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “find; detect; marry; get; think.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

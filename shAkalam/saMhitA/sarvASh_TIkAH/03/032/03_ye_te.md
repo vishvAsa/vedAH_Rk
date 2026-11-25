@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ ságaṇaḥ ← ságaṇa- (nominal stem)
 
 suśipra ← suśiprá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये ते॒ शुष्मं॒ ये तवि॑षी॒मव॑र्ध॒न्नर्च॑न्त इन्द्र म॒रुत॑स्त॒ ओजः॑ ।  
+माध्यं॑दिने॒ सव॑ने वज्रहस्त॒ पिबा॑ रु॒द्रेभिः॒ सग॑णः सुशिप्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “lip; śiprā.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

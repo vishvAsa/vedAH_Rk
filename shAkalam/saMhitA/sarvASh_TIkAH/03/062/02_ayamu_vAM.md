@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ pr̥thivyā́ ← pr̥thivī́- (nominal stem)
 
 śr̥ṇutam ← √śru- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यमु॑ वां पुरु॒तमो॑ रयी॒यञ्छ॑श्वत्त॒ममव॑से जोहवीति ।  
+स॒जोषा॑विन्द्रावरुणा म॒रुद्भि॑र्दि॒वा पृ॑थि॒व्या शृ॑णुतं॒ हवं॑ मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

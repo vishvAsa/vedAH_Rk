@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ edhate ← √idh- 2 (root)
 
 sárvaḥ ← sárva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स क्षयं॑ तिरते॒ वि म॒हीरिषो॒ यो वो॒ वरा॑य॒ दाश॑ति ।  
+प्र प्र॒जाभि॑र्जायते॒ धर्म॑ण॒स्पर्यरि॑ष्टः॒ सर्व॑ एधते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “boom; get; thrive; increase; increase.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

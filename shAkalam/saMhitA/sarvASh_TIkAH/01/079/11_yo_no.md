@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ bhava ← √bhū- (root)
 
 vr̥dhé ← vŕ̥dh- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नो॑ अग्नेऽभि॒दास॒त्यन्ति॑ दू॒रे प॑दी॒ष्ट सः ।  
+अ॒स्माक॒मिद्वृ॒धे भ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

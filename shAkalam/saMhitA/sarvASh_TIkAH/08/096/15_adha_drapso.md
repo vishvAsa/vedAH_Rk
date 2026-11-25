@@ -4,6 +4,7 @@ devataa = "इन्द्राबृहस्पती"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राबृहस्पती
@@ -77,7 +78,12 @@ sasāhe ← √sah- (root)
 
 yujā́ ← yúj- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॑ द्र॒प्सो अं॑शु॒मत्या॑ उ॒पस्थेऽधा॑रयत्त॒न्वं॑ तित्विषा॒णः ।  
+विशो॒ अदे॑वीर॒भ्या॒३॒॑चर॑न्ती॒र्बृह॒स्पति॑ना यु॒जेन्द्रः॑ ससाहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “endure; overcome; habituate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -219,10 +224,6 @@ Then the Droplet held his body in the lap of the Aṃśumatī, as he  glittered.
 With Br̥haspati as yokemate, Indra overcame the godless clans as they  attacked.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-“The distillate of all mother’s milk” for viśvápsnya- assumes the etymological connection between -psnya- and stána- ‘breast’, which is now standard doctrine. See EWA s.v. stána-.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/14-15.md">
 <details><summary><h2>14-15 ...{Loading}...</h2></summary>
 
@@ -245,7 +246,6 @@ Schmidt (1968: 112-13) rejects Oldenberg’s interpretation and suggests that it
 I am inclined to see it as a treatment of the ritual step of rinsing the soma in water, as I said in the published introduction, though much remains murky.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

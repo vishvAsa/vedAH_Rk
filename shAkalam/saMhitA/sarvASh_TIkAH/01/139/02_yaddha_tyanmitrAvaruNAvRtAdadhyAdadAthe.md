@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -119,7 +120,13 @@ sómasya ← sóma- (nominal stem)
 
 svébhiḥ ← svá- (pronoun)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्ध॒ त्यन्मि॑त्रावरुणावृ॒तादध्या॑द॒दाथे॒ अनृ॑तं॒ स्वेन॑ म॒न्युना॒ दक्ष॑स्य॒ स्वेन॑ म॒न्युना॑ ।  
+यु॒वोरि॒त्थाधि॒ सद्म॒स्वप॑श्याम हिर॒ण्यय॑म् ।  
+धी॒भिश्च॒न मन॑सा॒ स्वेभि॑र॒क्षभिः॒ सोम॑स्य॒ स्वेभि॑र॒क्षभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -301,7 +308,6 @@ _________
 - “eye; akṣa \[word\]; hole.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -328,10 +334,6 @@ Since, Mitra and Varuṇa, you took untruth away from truth by your own  fervor�
 just in this way among the seats we saw the golden (throne) of you two, just with our insights and with our mind, with our own eyes—with our  own eyes of soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Geldner (etc.) I supply ‘throne’ with hiraṇyáyam in e on the basis of V.62.8.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/139/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -339,7 +341,6 @@ For the sense of these vss., see published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

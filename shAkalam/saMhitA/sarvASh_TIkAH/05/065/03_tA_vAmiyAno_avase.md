@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "रातहव्य आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -77,7 +78,12 @@ prá ← prá (invariable)
 
 vā́jān ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता वा॑मिया॒नोऽव॑से॒ पूर्वा॒ उप॑ ब्रुवे॒ सचा॑ ।  
+स्वश्वा॑सः॒ सु चे॒तुना॒ वाजाँ॑ अ॒भि प्र दा॒वने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

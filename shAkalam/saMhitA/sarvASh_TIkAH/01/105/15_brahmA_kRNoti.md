@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "आप्त्यस्त्रितः कुत्स आङ्गिरसो वा"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -85,7 +86,12 @@ rodasī ← ródasī- (nominal stem)
 
 vittám ← √vid- 2 (root)  
 {number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रह्मा॑ कृणोति॒ वरु॑णो गातु॒विदं॒ तमी॑महे ।  
+व्यू॑र्णोति हृ॒दा म॒तिं नव्यो॑ जायतामृ॒तं वि॒त्तं मे॑ अ॒स्य रो॑दसी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “heaven and earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -253,7 +258,6 @@ He opens up the thought in our heart. Let a newer truth be born.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/12-15.md">
 <details><summary><h2>12-15 ...{Loading}...</h2></summary>
 
@@ -261,7 +265,6 @@ This set of verses forms a small internal ring: 12 and 15 contain ṛtám and n�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

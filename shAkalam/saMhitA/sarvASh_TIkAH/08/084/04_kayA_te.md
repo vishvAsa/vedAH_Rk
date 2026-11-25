@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उशना काव्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ manyáve ← manyú- (nominal stem)
 
 várāya ← vára- 1 (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कया॑ ते अग्ने अङ्गिर॒ ऊर्जो॑ नपा॒दुप॑स्तुतिम् ।  
+वरा॑य देव म॒न्यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “anger; fury; rage; wrath.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

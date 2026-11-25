@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ suvā́cam ← suvā́c- (nominal stem)
 
 yaśásam ← yaśás- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ गहि स॒ख्येभिः॑ शि॒वेभि॑र्म॒हान्म॒हीभि॑रू॒तिभिः॑ सर॒ण्यन् ।  
+अ॒स्मे र॒यिं ब॑हु॒लं सन्त॑रुत्रं सु॒वाचं॑ भा॒गं य॒शसं॑ कृधी नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

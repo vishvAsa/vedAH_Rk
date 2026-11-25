@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -65,7 +66,12 @@ brahmā́ ← brahmán- (nominal stem)
 
 sā́rathiḥ ← sā́rathi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दी॒र्घत॑मा मामते॒यो जु॑जु॒र्वान्द॑श॒मे यु॒गे ।  
+अ॒पामर्थं॑ य॒तीनां॑ ब्र॒ह्मा भ॑वति॒ सार॑थिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “charioteer; sārathi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

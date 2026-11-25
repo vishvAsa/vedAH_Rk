@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -83,7 +84,12 @@ ketúm ← ketú- (nominal stem)
 
 vayúneṣu ← vayúna- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वैश्वा॑नर॒ तव॒ तानि॑ व्र॒तानि॑ म॒हान्य॑ग्ने॒ नकि॒रा द॑धर्ष ।  
+यज्जाय॑मानः पि॒त्रोरु॒पस्थेऽवि॑न्दः के॒तुं व॒युने॒ष्वह्ना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “day; day; ahar \[word\]; day; day.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -236,24 +241,6 @@ Vaiśvānara Agni, these great commandments of yours no one dares  venture again
 since, while (just) being born in the lap of your parents, you found the  beacon of the days in the (ritual) patterns.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The disjunction between pf. dadharṣa in the main clause of b and impf.
-
-ávindaḥ in the subord. cl. of d is likewise a bit disturbing. Flg. Kümmel (266), the published translation
-
-renders the perfect presentially as “ventures against,” but I might be tempted to change that now to “has ventured against” (cf. Geldner’s “… hat noch keiner angetastet”).
-
-The question is what is the relationship between the two clauses. I think that Agni’s vratás are those that he established after he discovered (ávindaḥ) the phenomenon in d.
-
-This in turn raises the question of what that phenomenon is and, more precisely, to which noun (ketúm or vayúneṣu) the gen. áhnām belongs. Most (Geldner, Renou, Oldenberg) take it with vayúneṣu; cf., e.g., Renou “quand … tu eus découvert le signallumineux pour les jalonnements des jours.” Oldenberg, who should know better, even cites word order as support of this interpr. And certainly áhnām does (once) occur with vayúna-: II.19.3 aktúnā́hnāṇ vayúnāni sādhat “He perfected the patterns of the days through the night.” But far more often áhnām limits ketú-, several times in a Vaiśvānara context: VII.5.5 vaiśvānarám uṣásāṃ ketúm áhnām “V., the beacon of the dawns and of the days”; X.88.12 vaiśvānaráṃ ketúm áhnām akṛnvan “they made V.
-
-the beacon of the days.” Cf. also III.34.4 ketúm áhnām, X.85.19 áhnāṃ ketúr uṣásām, and VI.39.3 imáṃ ketúm adadhur nū́ cid áhnāṃ, this last with separation between the noun and its gen. as in our passage. In my interpr. of this pāda the vayúna- are the ritual patterns, the regularly repeated sequence of events in the ritual, including the kindling of the fire. The “beacon of the days” is the sun, which rises at that kindling.
-
-(clarified in the next vs.), in contrast to the “beacon of the sacrifice” in 2d, which is Agni. Note that Agni, addressed as Vaiśvānara, is here distinct from the sun, which he finds. (See further ad vs. 6.). Finding the beacon of the days in the (ritual) patterns means recognizing and replicating the regular rising of the sun that coincides with the kindling of the ritual fire. As usual in Rigvedic discourse the correct performance of ritual governs the rhythms of the natural world.
-
-To return to the question of the relationship between the two hemistichs, I suggest that the “great vratás” of Agni that no one has/does venture against are the ritual patterns, esp. the dawn kindling, which in turn control the repeated return of the “beacon of the days.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
@@ -261,7 +248,6 @@ The middle of the hymn is characterized by initial (or modified initial) forms o
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः (मरुतः)"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (मरुतः)
@@ -95,7 +96,12 @@ támāṁsi ← támas- (nominal stem)
 
 tamrā́ḥ ← tamrá- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मन्द॑मान ऋ॒तादधि॑ प्र॒जायै॒ सखि॑भि॒रिन्द्र॑ इषि॒रेभि॒रर्थ॑म् ।  
+आभि॒र्हि मा॒या उप॒ दस्यु॒मागा॒न्मिहः॒ प्र त॒म्रा अ॑वप॒त्तमां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     ignorance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

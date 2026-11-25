@@ -4,6 +4,7 @@ devataa = "पुरूरवा ऐळः"
 RShiH = "उर्वशी ऋषिका"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरूरवा ऐळः
@@ -86,7 +87,12 @@ tā́t ← tā́t (invariable)
 
 tātr̥pāṇā́ ← √tr̥p- (root)  
 {case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्विरू॒पाच॑रं॒ मर्त्ये॒ष्वव॑सं॒ रात्रीः॑ श॒रद॒श्चत॑स्रः ।  
+घृ॒तस्य॑ स्तो॒कं स॒कृदह्न॑ आश्नां॒ तादे॒वेदं ता॑तृपा॒णा च॑रामि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     heed; process; administer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अत्रिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ pavate ← √pū- (root)
 
 rāyé ← rayí- ~ rāy- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्रे॒गो राजाप्य॑स्तविष्यते वि॒मानो॒ अह्नां॒ भुव॑ने॒ष्वर्पि॑तः ।  
+हरि॑र्घृ॒तस्नुः॑ सु॒दृशी॑को अर्ण॒वो ज्यो॒तीर॑थः पवते रा॒य ओ॒क्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -225,14 +230,6 @@ Going in the vanguard, the king who is found in the waters displays his  power, 
 The ghee-backed fallow bay, a flood lovely to see, having light as his  chariot, accustomed to wealth, purifies himself.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In a agre-gáḥ echoes ágre áhnām in 42a; in our vs. áhnām appears in the following pāda, dependent on something else (vimā́naḥ), though Renou supplies it with agregáḥ as well.
-
-bhúvaneṣv árpitaḥ also in 39b.
-
-In d I construe rāyé with okyàḥ, although I cannot find any parallel usage. But on its own, okyàḥ is hard to fit semantically into the vs.; cf. Geldner’s “gern bleibend” and Renou’s “(ce dieu) domestique,” which seem like afterthoughts..
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
 <details><summary><h2>43-45 ...{Loading}...</h2></summary>
 
@@ -240,7 +237,6 @@ This tṛca seems more artful than most of the other, with metaphor layered upon
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

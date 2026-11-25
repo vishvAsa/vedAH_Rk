@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ agne ← agní- (nominal stem)
 
 rathyàḥ ← rathī́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रौ वा॒ ये अ॒न्तरि॑क्षे॒ मद॑न्ति दि॒वो वा॒ ये रो॑च॒ने सन्ति॑ दे॒वाः ।  
+ऊमा॑ वा॒ ये सु॒हवा॑सो॒ यज॑त्रा आयेमि॒रे र॒थ्यो॑ अग्ने॒ अश्वाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “horse; aśva \[word\]; Aśva; stallion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

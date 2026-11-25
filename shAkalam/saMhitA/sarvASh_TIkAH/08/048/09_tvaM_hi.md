@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -92,7 +93,12 @@ suṣakhā́ ← suṣakhí- (nominal stem)
 
 vásyaḥ ← vásyaṁs- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं हि न॑स्त॒न्वः॑ सोम गो॒पा गात्रे॑गात्रे निष॒सत्था॑ नृ॒चक्षाः॑ ।  
+यत्ते॑ व॒यं प्र॑मि॒नाम॑ व्र॒तानि॒ स नो॑ मृळ सुष॒खा दे॑व॒ वस्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “good fortune; well-being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

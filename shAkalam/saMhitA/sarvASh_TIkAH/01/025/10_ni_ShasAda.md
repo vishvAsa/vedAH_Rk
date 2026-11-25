@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -54,7 +55,12 @@ sā́mrājyāya ← sā́mrājya- (nominal stem)
 
 sukrátuḥ ← sukrátu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि ष॑साद धृ॒तव्र॑तो॒ वरु॑णः प॒स्त्या॒३॒॑स्वा ।  
+साम्रा॑ज्याय सु॒क्रतुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ iṣaṇyata ← √iṣaṇ- (root)
 
 stutā́ḥ ← √stu- (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छ॑ ऋषे॒ मारु॑तं ग॒णं दा॒ना मि॒त्रं न यो॒षणा॑ ।  
+दि॒वो वा॑ धृष्णव॒ ओज॑सा स्तु॒ता धी॒भिरि॑षण्यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - \[verb\], plural, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

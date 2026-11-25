@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -95,7 +96,12 @@ me ← ahám (pronoun)
 
 váruṇam ← váruṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता वां॒ धियोऽव॑से वाज॒यन्ती॑रा॒जिं न ज॑ग्मुर्युव॒यूः सु॑दानू ।  
+श्रि॒ये न गाव॒ उप॒ सोम॑मस्थु॒रिन्द्रं॒ गिरो॒ वरु॑णं मे मनी॒षाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

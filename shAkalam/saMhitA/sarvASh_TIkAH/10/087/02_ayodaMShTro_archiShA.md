@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -80,7 +81,12 @@ kravyā́daḥ ← kravyā́d- (nominal stem)
 
 vr̥ktvī́ ← √vr̥j- 1 (root)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अयो॑दंष्ट्रो अ॒र्चिषा॑ यातु॒धाना॒नुप॑ स्पृश जातवेदः॒ समि॑द्धः ।  
+आ जि॒ह्वया॒ मूर॑देवान्रभस्व क्र॒व्यादो॑ वृ॒क्त्व्यपि॑ धत्स्वा॒सन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “mouth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

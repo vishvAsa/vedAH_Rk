@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ naḥ ← ahám (pronoun)
 
 punīhi ← √pū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्ते॑ प॒वित्र॑मर्चि॒वदग्ने॒ तेन॑ पुनीहि नः ।  
+ब्र॒ह्म॒स॒वैः पु॑नीहि नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -182,10 +187,6 @@ Your filter of flames, Agni—with that purify us;
 with the impulsions of sacred formulations purify us.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. has both physical and conceptual purifying instruments: the flame-sieve of 23 and the bráhman- also introduced in 23, which, in the cmpd brahma-savá-, also provides a transition to Savitar and his impulsions in vs. 25.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details><summary><h2>22-27 ...{Loading}...</h2></summary>
 
@@ -195,7 +196,6 @@ The pavítra is mentioned in vss. 22-25, with other, non-physical means of purif
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

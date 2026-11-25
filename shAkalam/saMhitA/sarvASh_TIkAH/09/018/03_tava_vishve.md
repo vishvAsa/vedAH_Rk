@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ mádeṣu ← máda- (nominal stem)
 
 sarvadhā́ḥ ← sarvadhā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ विश्वे॑ स॒जोष॑सो दे॒वासः॑ पी॒तिमा॑शत ।  
+मदे॑षु सर्व॒धा अ॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -161,14 +166,12 @@ All the gods, joined in fellowship, have attained the drinking of you. – You a
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 Note the two occurrences of víśva- (3a, 4a), which contrast with the sarva- in the refrain.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

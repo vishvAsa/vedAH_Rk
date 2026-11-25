@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -83,7 +84,12 @@ svàr ← svàr- (nominal stem)
 
 ū́rjam ← ū́rj- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सत्वा॑ भरि॒षो ग॑वि॒षो दु॑वन्य॒सच्छ्र॑व॒स्यादि॒ष उ॒षस॑स्तुरण्य॒सत् ।  
+स॒त्यो द्र॒वो द्र॑व॒रः प॑तङ्ग॒रो द॑धि॒क्रावेष॒मूर्जं॒ स्व॑र्जनत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

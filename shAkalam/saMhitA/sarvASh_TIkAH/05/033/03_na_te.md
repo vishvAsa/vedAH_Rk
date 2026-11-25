@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sváśvaḥ ← sváśva- (nominal stem)
 
 yamase ← √yam- (root)  
 {number:SG, person:2, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न ते त॑ इन्द्रा॒भ्य१॒॑स्मदृ॒ष्वायु॑क्तासो अब्र॒ह्मता॒ यदस॑न् ।  
+तिष्ठा॒ रथ॒मधि॒ तं व॑ज्रह॒स्ता र॒श्मिं दे॑व यमसे॒ स्वश्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -276,7 +282,6 @@ _________
 - “horse; aśva \[word\]; Aśva; stallion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

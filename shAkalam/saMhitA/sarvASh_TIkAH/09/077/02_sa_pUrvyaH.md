@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -98,7 +99,12 @@ kr̥śā́noḥ ← kr̥śā́nu- (nominal stem)
 
 mánasā ← mánas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स पू॒र्व्यः प॑वते॒ यं दि॒वस्परि॑ श्ये॒नो म॑था॒यदि॑षि॒तस्ति॒रो रजः॑ ।  
+स मध्व॒ आ यु॑वते॒ वेवि॑जान॒ इत्कृ॒शानो॒रस्तु॒र्मन॒साह॑ बि॒भ्युषा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “fear; fear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

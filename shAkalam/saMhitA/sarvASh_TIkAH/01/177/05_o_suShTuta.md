@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vidyā́ma ← √vid- 2 (root)
 
 vr̥jánam ← vr̥jána- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओ सुष्टु॑त इन्द्र याह्य॒र्वाङुप॒ ब्रह्मा॑णि मा॒न्यस्य॑ का॒रोः ।  
+वि॒द्याम॒ वस्तो॒रव॑सा गृ॒णन्तो॑ वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “Dānu; dew; drop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ carádhyai ← √carⁱ- (root)
 
 íṣyan ← √iṣ- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मा इदु॒ प्र भ॑रा॒ तूतु॑जानो वृ॒त्राय॒ वज्र॒मीशा॑नः किये॒धाः ।  
+गोर्न पर्व॒ वि र॑दा तिर॒श्चेष्य॒न्नर्णां॑स्य॒पां च॒रध्यै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     heed; process; administer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ sumnám ← sumná- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं हि नः॑ पि॒ता व॑सो॒ त्वं मा॒ता श॑तक्रतो ब॒भूवि॑थ ।  
+अधा॑ ते सु॒म्नमी॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

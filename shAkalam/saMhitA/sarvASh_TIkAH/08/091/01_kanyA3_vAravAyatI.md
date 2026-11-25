@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अपालात्रेयी"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -82,7 +83,12 @@ sunavai ← √su- (root)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒न्या॒३॒॑ वार॑वाय॒ती सोम॒मपि॑ स्रु॒तावि॑दत् ।  
+अस्तं॒ भर॑न्त्यब्रवी॒दिन्द्रा॑य सुनवै त्वा श॒क्राय॑ सुनवै त्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

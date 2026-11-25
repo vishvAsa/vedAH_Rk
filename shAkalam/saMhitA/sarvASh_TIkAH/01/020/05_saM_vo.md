@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -60,7 +61,12 @@ ca ← ca (invariable)
 
 rā́jabhiḥ ← rā́jan- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं वो॒ मदा॑सो अग्म॒तेन्द्रे॑ण च म॒रुत्व॑ता ।  
+आ॒दि॒त्येभि॑श्च॒ राज॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

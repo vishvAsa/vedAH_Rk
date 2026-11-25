@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ
@@ -95,7 +96,12 @@ iva ← iva (invariable)
 
 khā́ni ← khá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वा यु॒जा तव॒ तत्सो॑म स॒ख्य इन्द्रो॑ अ॒पो मन॑वे स॒स्रुत॑स्कः ।  
+अह॒न्नहि॒मरि॑णात्स॒प्त सिन्धू॒नपा॑वृणो॒दपि॑हितेव॒ खानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     air.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

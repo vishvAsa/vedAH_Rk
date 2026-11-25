@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः, अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ smaḥ ← √as- 1 (root)
 
 vā́jasātaye ← vā́jasāti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वया॑ ह स्विद्यु॒जा व॒यं चोदि॑ष्ठेन यविष्ठ्य ।  
+अ॒भि ष्मो॒ वाज॑सातये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “victory; battle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

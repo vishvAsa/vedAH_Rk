@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ cakr̥má ← √kr̥- (root)
 
 satyárādhase ← satyárādhas- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शंसेदु॒क्थं सु॒दान॑व उ॒त द्यु॒क्षं यथा॒ नरः॑ ।  
+च॒कृ॒मा स॒त्यरा॑धसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

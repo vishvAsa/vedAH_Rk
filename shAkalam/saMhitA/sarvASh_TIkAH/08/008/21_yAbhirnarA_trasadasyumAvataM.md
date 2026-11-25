@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ prá ← prá (invariable)
 
 vā́jasātaye ← vā́jasāti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+याभि॑र्नरा त्र॒सद॑स्यु॒माव॑तं॒ कृत्व्ये॒ धने॑ ।  
+ताभिः॒ ष्व१॒॑स्माँ अ॑श्विना॒ प्राव॑तं॒ वाज॑सातये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “victory; battle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मेधातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ viśa ← √viś- (root)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व देव॒वीरति॑ प॒वित्रं॑ सोम॒ रंह्या॑ ।  
+इन्द्र॑मिन्दो॒ वृषा वि॑श ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

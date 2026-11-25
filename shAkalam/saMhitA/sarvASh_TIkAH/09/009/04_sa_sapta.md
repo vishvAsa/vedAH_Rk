@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ vāvr̥dhúḥ ← √vr̥dh- (root)
 
 yā́ḥ ← yá- (pronoun)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स स॒प्त धी॒तिभि॑र्हि॒तो न॒द्यो॑ अजिन्वद॒द्रुहः॑ ।  
+या एक॒मक्षि॑ वावृ॒धुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -176,12 +181,6 @@ Propelled by seven insightful thoughts, he quickened the rivers without  deceit,
 they who strengthened him as the single eye.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the “seven insightful thoughts” see also 8.4.
-
-The subj. of vāvṛdhúḥ in c must be feminine, on the basis of yā́(ḥ), but the choice between the “insightful thoughts” (dhītí-) of a and the rivers (nadī́-) of b is not clear.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/009/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -189,7 +188,6 @@ As noted in the published introduction, I consider this an omphalos hymn, with v
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

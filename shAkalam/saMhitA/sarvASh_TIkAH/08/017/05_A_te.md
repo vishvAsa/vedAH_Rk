@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ jihváyā ← jihvā́- (nominal stem)
 
 mádhu ← mádhu- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ते॑ सिञ्चामि कु॒क्ष्योरनु॒ गात्रा॒ वि धा॑वतु ।  
+गृ॒भा॒य जि॒ह्वया॒ मधु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

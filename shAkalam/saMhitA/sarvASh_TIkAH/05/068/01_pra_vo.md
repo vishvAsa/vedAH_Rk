@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "यजत आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -60,7 +61,12 @@ máhikṣatrau ← máhikṣatra- (nominal stem)
 
 r̥tám ← r̥tá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॑ मि॒त्राय॑ गायत॒ वरु॑णाय वि॒पा गि॒रा ।  
+महि॑क्षत्रावृ॒तं बृ॒हत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

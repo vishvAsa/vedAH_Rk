@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सूनुरार्भवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ ghŕ̥ṇīvān ← ghŕ̥ṇīvant- (nominal stem)
 
 tmánā ← tmán- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यमु॒ ष्य प्र दे॑व॒युर्होता॑ य॒ज्ञाय॑ नीयते ।  
+रथो॒ न योर॒भीवृ॑तो॒ घृणी॑वाञ्चेतति॒ त्मना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “self.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

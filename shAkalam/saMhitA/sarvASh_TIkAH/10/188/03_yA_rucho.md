@@ -4,6 +4,7 @@ devataa = "अग्निर्जातवेदाः"
 RShiH = "श्येन आग्नेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्जातवेदाः
@@ -57,7 +58,12 @@ tā́bhiḥ ← sá- ~ tá- (pronoun)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या रुचो॑ जा॒तवे॑दसो देव॒त्रा ह॑व्य॒वाह॑नीः ।  
+ताभि॑र्नो य॒ज्ञमि॑न्वतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “bring; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

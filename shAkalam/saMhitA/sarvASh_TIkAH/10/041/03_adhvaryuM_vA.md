@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सुहस्त्यो घौषेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ madhupéyam ← madhupéya- (nominal stem)
 
 yātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ध्व॒र्युं वा॒ मधु॑पाणिं सु॒हस्त्य॑म॒ग्निधं॑ वा धृ॒तद॑क्षं॒ दमू॑नसम् ।  
+विप्र॑स्य वा॒ यत्सव॑नानि॒ गच्छ॒थोऽत॒ आ या॑तं मधु॒पेय॑मश्विना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -83,7 +84,12 @@ napātaḥ ← nápat- (nominal stem)
 
 yuṣmā́n ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वा या॑न्ति म॒रुतो॒ भूम्या॒ग्निर॒यं वातो॑ अ॒न्तरि॑क्षेण याति ।  
+अ॒द्भिर्या॑ति॒ वरु॑णः समु॒द्रैर्यु॒ष्माँ इ॒च्छन्तः॑ शवसो नपातः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “grandson; nephew; napāt \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

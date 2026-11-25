@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -64,7 +65,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि वह्न॑य ऊ॒तयेऽनू॑षत॒ प्रश॑स्तये ।  
+न दे॑व॒ विव्र॑ता॒ हरी॑ ऋ॒तस्य॒ यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “who; which; yat \[pronoun\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -176,7 +181,6 @@ The draft-horses have roared to (him) for help and for his glorification. Your t
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -184,7 +188,6 @@ Lüders (Varuṇa 450) comments about the tṛca that it concerns only the songs
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

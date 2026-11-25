@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sáḥ ← sá- ~ tá- (pronoun)
 
 túbhya ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्या॒यं विश्व॒ आर्यो॒ दासः॑ शेवधि॒पा अ॒रिः ।  
+ति॒रश्चि॑द॒र्ये रुश॑मे॒ परी॑रवि॒ तुभ्येत्सो अ॑ज्यते र॒यिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "जरत्कर्ण ऐरावतः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -83,7 +84,12 @@ devāvyàm ← devāvī́- (nominal stem)
 
 ślókam ← ślóka- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप॑ हत र॒क्षसो॑ भङ्गु॒राव॑तः स्कभा॒यत॒ निरृ॑तिं॒ सेध॒ताम॑तिम् ।  
+आ नो॑ र॒यिं सर्व॑वीरं सुनोतन देवा॒व्यं॑ भरत॒ श्लोक॑मद्रयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

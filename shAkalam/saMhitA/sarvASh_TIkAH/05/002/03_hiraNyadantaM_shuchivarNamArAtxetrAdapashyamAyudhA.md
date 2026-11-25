@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कुमार आत्रेयो वृशो वा जान उभौ वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ kr̥ṇavan ← √kr̥- (root)
 
 mā́m ← ahám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यदन्तं॒ शुचि॑वर्णमा॒रात्क्षेत्रा॑दपश्य॒मायु॑धा॒ मिमा॑नम् ।  
+द॒दा॒नो अ॑स्मा अ॒मृतं॑ वि॒पृक्व॒त्किं माम॑नि॒न्द्राः कृ॑णवन्ननु॒क्थाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -95,7 +96,12 @@ ná ← ná (invariable)
 
 yā́bhyaḥ ← yá- (pronoun)  
 {case:DAT, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं मे॑ पी॒त उदि॑यर्ति॒ वाच॑म॒यं म॑नी॒षामु॑श॒तीम॑जीगः ।  
+अ॒यं षळु॒र्वीर॑मिमीत॒ धीरो॒ न याभ्यो॒ भुव॑नं॒ कच्च॒नारे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     begin; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -268,10 +273,6 @@ This one, when it is drunk, rouses my speech; it has awakened an eager  inspired
 This wise one measured out the six broad (realms), from which no world  is at a distance.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-It is not clear what noun to supply with fem. pl. urvī́ḥ, though something like ‘worlds (so Geldner), realms’ makes sense. The same ṣáḍ urvī́ḥ is found in X.14.16 in unclear context, and as a voc. in X.128.5 dévīḥ ṣaḍ urvīḥ 'you six broad goddesses’, again with uncertain referent. Elsewhere urvī́ḥ applies to waters or rivers, but liquid doesn’t seem appropriate here. Perhaps in our vs. it’s evoking a pl. of pṛthivī́ ‘earth’, with a pun on a different word for ‘broad’, urú-, urvī́-. Note that pṛthivī́- occurs in the next vs., dependent on varimán- ‘expanse’, which is derivationally related to urú-.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
@@ -280,7 +281,6 @@ As noted in the published introduction. as well as above, the praise of soma mod
 the final vṛṣabhó marútvān “the bull accompanied by the Maruts”: marútvant- is overwhelmingly an epithet of Indra. For a similar nearby sequence of vss. that oscillates between soma and Indra (and also uses ayám as an organizing word) see VI.44.22-24 and comm. ad loc. 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

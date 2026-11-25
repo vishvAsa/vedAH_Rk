@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -70,7 +71,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 pátiḥ ← páti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्रीळ॑न्त्यस्य सू॒नृता॒ आपो॒ न प्र॒वता॑ य॒तीः ।  
+अ॒या धि॒या य उ॒च्यते॒ पति॑र्दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

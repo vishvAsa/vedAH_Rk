@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ vásvaḥ ← vásu- (nominal stem)
 
 vibhaktā́ ← vibhaktár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समिन्द्रो॒ गा अ॑जय॒त्सं हिर॑ण्या॒ सम॑श्वि॒या म॒घवा॒ यो ह॑ पू॒र्वीः ।  
+ए॒भिर्नृभि॒र्नृत॑मो अस्य शा॒कै रा॒यो वि॑भ॒क्ता स॑म्भ॒रश्च॒ वस्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

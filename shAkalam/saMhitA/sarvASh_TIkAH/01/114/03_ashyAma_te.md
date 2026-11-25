@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -86,7 +87,12 @@ juhavāma ← √hu- (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒श्याम॑ ते सुम॒तिं दे॑वय॒ज्यया॑ क्ष॒यद्वी॑रस्य॒ तव॑ रुद्र मीढ्वः ।  
+सु॒म्ना॒यन्निद्विशो॑ अ॒स्माक॒मा च॒रारि॑ष्टवीरा जुहवाम ते ह॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “Havya; offering; ghee; havis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -60,7 +61,12 @@ ucyáte ← √vac- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒षणं॒ न्व१॒॑जाश्व॒मुप॑ स्तोषाम वा॒जिन॑म् ।  
+स्वसु॒र्यो जा॒र उ॒च्यते॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -166,7 +171,6 @@ who is said to be the lover of his sister.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/055/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -174,7 +178,6 @@ As noted in the published introduction, these allusions to incest seem remarkabl
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

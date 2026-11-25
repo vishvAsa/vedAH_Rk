@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ naḥ ← ahám (pronoun)
 
 sahasrasā́tamaḥ ← sahasrasā́tama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नो॒ ब्रह्म॑न्नविष उ॒क्थेषु॑ देव॒हूत॑मः ।  
+शं नः॑ शोचा म॒रुद्वृ॒धोऽग्ने॑ सहस्र॒सात॑मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

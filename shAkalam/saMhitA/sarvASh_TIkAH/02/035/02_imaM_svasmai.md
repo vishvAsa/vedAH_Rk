@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -89,7 +90,12 @@ jajāna ← √janⁱ- (root)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं स्व॑स्मै हृ॒द आ सुत॑ष्टं॒ मन्त्रं॑ वोचेम कु॒विद॑स्य॒ वेद॑त् ।  
+अ॒पां नपा॑दसु॒र्य॑स्य म॒ह्ना विश्वा॑न्य॒र्यो भुव॑ना जजान ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

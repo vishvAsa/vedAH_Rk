@@ -4,6 +4,7 @@ devataa = "पृथुश्रवसः कानीतस्य दानस�
 RShiH = "वशोश्व्यः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पृथुश्रवसः कानीतस्य दानस्तुतिः
@@ -82,7 +83,12 @@ gávām ← gáv- ~ gó- (nominal stem)
 
 sahásrā ← sahásra- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ष॒ष्टिं स॒हस्राश्व्य॑स्या॒युता॑सन॒मुष्ट्रा॑नां विंश॒तिं श॒ता ।  
+दश॒ श्यावी॑नां श॒ता दश॒ त्र्य॑रुषीणां॒ दश॒ गवां॑ स॒हस्रा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “thousand; one-thousandth; sahasra \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

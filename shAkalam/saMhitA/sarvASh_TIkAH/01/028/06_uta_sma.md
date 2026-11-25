@@ -4,6 +4,7 @@ devataa = "उलूखलं"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उलूखलं
@@ -80,7 +81,12 @@ sunú ← √su- (root)
 
 ulūkhala ← ulūkhala- (nominal stem)  
 {case:VOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्म॑ ते वनस्पते॒ वातो॒ वि वा॒त्यग्र॒मित् ।  
+अथो॒ इन्द्रा॑य॒ पात॑वे सु॒नु सोम॑मुलूखल ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “mortar; ulūkhala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

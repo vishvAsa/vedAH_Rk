@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ tánayam ← tánaya- (nominal stem)
 
 tokám ← toká- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒र्कृत्यं॑ मरुतः पृ॒त्सु दु॒ष्टरं॑ द्यु॒मन्तं॒ शुष्मं॑ म॒घव॑त्सु धत्तन ।  
+ध॒न॒स्पृत॑मु॒क्थ्यं॑ वि॒श्वच॑र्षणिं तो॒कं पु॑ष्येम॒ तन॑यं श॒तं हिमाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “winter; year.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

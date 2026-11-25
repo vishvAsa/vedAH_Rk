@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sómam ← sóma- (nominal stem)
 
 vr̥ṣabhéṇa ← vr̥ṣabhá- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॒ ह्य॑स्मै यज॒ताय॑ धृ॒ष्णवे॒ क्रतुं॒ भर॑न्ति वृष॒भाय॒ सश्च॑ते ।  
+वृषा॑ यजस्व ह॒विषा॑ वि॒दुष्ट॑रः॒ पिबे॑न्द्र॒ सोमं॑ वृष॒भेण॑ भा॒नुना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     copper; light; twelve; appearance; Bhānu; flare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

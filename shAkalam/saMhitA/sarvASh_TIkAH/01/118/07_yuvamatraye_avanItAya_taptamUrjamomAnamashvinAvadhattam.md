@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ práti ← práti (invariable)
 
 suṣṭutím ← suṣṭutí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वमत्र॒येऽव॑नीताय त॒प्तमूर्ज॑मो॒मान॑मश्विनावधत्तम् ।  
+यु॒वं कण्वा॒यापि॑रिप्ताय॒ चक्षुः॒ प्रत्य॑धत्तं सुष्टु॒तिं जु॑जुषा॒णा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "रातहव्य आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -74,7 +75,12 @@ sumatíḥ ← sumatí- (nominal stem)
 
 vidhatáḥ ← √vidh- (root)  
 {case:GEN, gender:M, number:SG, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रो अं॒होश्चि॒दादु॒रु क्षया॑य गा॒तुं व॑नते ।  
+मि॒त्रस्य॒ हि प्र॒तूर्व॑तः सुम॒तिरस्ति॑ विध॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “worship; offer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

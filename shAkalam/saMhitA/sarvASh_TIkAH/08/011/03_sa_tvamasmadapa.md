@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ agne ← agní- (nominal stem)
 
 árātīḥ ← árāti- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स त्वम॒स्मदप॒ द्विषो॑ युयो॒धि जा॑तवेदः ।  
+अदे॑वीरग्ने॒ अरा॑तीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “hostility; adversity; foe; envy; stinginess.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

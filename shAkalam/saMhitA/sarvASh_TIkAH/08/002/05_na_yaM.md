@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ apaspr̥ṇvaté ← √spr̥- (root)
 
 suhā́rdam ← suhā́rda- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न यं शु॒क्रो न दुरा॑शी॒र्न तृ॒प्रा उ॑रु॒व्यच॑सम् ।  
+अ॒प॒स्पृ॒ण्व॒ते सु॒हार्द॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

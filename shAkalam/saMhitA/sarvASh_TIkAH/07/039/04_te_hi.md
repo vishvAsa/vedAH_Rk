@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ púraṁdhim ← púraṁdhi- (nominal stem)
 
 śruṣṭī́ ← śruṣṭí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते हि य॒ज्ञेषु॑ य॒ज्ञिया॑स॒ ऊमाः॑ स॒धस्थं॒ विश्वे॑ अ॒भि सन्ति॑ दे॒वाः ।  
+ताँ अ॑ध्व॒र उ॑श॒तो य॑क्ष्यग्ने श्रु॒ष्टी भगं॒ नास॑त्या॒ पुरं॑धिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “liberality; Puraṃdhi; munificence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

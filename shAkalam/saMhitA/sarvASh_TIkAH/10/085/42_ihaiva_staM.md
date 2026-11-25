@@ -4,6 +4,7 @@ devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्या
@@ -80,7 +81,12 @@ módamānau ← √mud- (root)
 
 své ← svá- (pronoun)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒हैव स्तं॒ मा वि यौ॑ष्टं॒ विश्व॒मायु॒र्व्य॑श्नुतम् ।  
+क्रीळ॑न्तौ पु॒त्रैर्नप्तृ॑भि॒र्मोद॑मानौ॒ स्वे गृ॒हे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “house; palace; temple; home; place; family; family; stable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ mahitvanā́ ← mahitvaná- (nominal stem)
 
 paprātha ← √prā- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुवि॑शुष्म॒ तुवि॑क्रतो॒ शची॑वो॒ विश्व॑या मते ।  
+आ प॑प्राथ महित्व॒ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “greatness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

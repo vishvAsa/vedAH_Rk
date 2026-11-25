@@ -4,6 +4,7 @@ devataa = "अक्षकितवनिन्दा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकितवनिन्दा
@@ -86,7 +87,12 @@ náktam ← nákt- (nominal stem)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जा॒या त॑प्यते कित॒वस्य॑ ही॒ना मा॒ता पु॒त्रस्य॒ चर॑तः॒ क्व॑ स्वित् ।  
+ऋ॒णा॒वा बिभ्य॒द्धन॑मि॒च्छमा॑नो॒ऽन्येषा॒मस्त॒मुप॒ नक्त॑मेति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

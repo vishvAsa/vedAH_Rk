@@ -4,6 +4,7 @@ devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अप्तृणसूर्याः
@@ -68,7 +69,12 @@ abhūtana ← √bhū- (root)
 
 prátibuddhāḥ ← √budh- (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒त उ॒ त्ये प्रत्य॑दृश्रन्प्रदो॒षं तस्क॑रा इव ।  
+अदृ॑ष्टा॒ विश्व॑दृष्टाः॒ प्रति॑बुद्धा अभूतन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

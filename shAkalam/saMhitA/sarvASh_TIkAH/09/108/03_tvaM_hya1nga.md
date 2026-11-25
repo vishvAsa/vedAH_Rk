@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शक्तिः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ amr̥tatvā́ya ← amr̥tatvá- (nominal stem)
 
 ghoṣáyaḥ ← √ghuṣ- (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ह्य१॒॑ङ्ग दैव्या॒ पव॑मान॒ जनि॑मानि द्यु॒मत्त॑मः ।  
+अ॒मृ॒त॒त्वाय॑ घो॒षयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “proclaim.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -154,7 +159,6 @@ for the sake of immortality,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -162,7 +166,6 @@ Vs. 4 is clearly syntactically dependent on vs. 3, with a series of three rel. c
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

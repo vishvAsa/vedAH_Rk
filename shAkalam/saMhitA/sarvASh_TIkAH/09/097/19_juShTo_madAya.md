@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शक्तिर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ srava ← √sru- (root)
 
 vā́jasātau ← vā́jasāti- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जुष्टो॒ मदा॑य दे॒वता॑त इन्दो॒ परि॒ ष्णुना॑ धन्व॒ सानो॒ अव्ये॑ ।  
+स॒हस्र॑धारः सुर॒भिरद॑ब्धः॒ परि॑ स्रव॒ वाज॑सातौ नृ॒षह्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - \[noun\], locative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -222,10 +227,6 @@ Possessing a thousand streams, sweet-smelling, not to be outwitted,  flow around
 superior men.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Pāda b pári ṣnúnā dhanva sā́no ávye is identical to 16d ádhi ṣnúnā dhanva sā́no ávye save for the preverb.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -233,7 +234,6 @@ Attributed to Śakti Vāsiṣṭha, who, unlike most of the other Vasiṣṭhids
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

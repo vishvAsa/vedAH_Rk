@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उचथ्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ asmā́n ← ahám (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि शुष्म॑मिन्दवेषां॒ पुरु॑हूत॒ जना॑नाम् ।  
+यो अ॒स्माँ आ॒दिदे॑शति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
     give; produce; designate; indicate; predict.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

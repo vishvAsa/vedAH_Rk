@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -67,7 +68,12 @@ víśvā ← víśva- (nominal stem)
 
 dvitā́ ← dvitā́ (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्रा॒णा शिशु॑र्म॒हीनां॑ हि॒न्वन्नृ॒तस्य॒ दीधि॑तिम् ।  
+विश्वा॒ परि॑ प्रि॒या भु॑व॒दध॑ द्वि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “again.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

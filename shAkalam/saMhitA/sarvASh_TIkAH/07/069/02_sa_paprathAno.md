@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ kútra ← kútra (invariable)
 
 yā́mam ← yā́ma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स प॑प्रथा॒नो अ॒भि पञ्च॒ भूमा॑ त्रिवन्धु॒रो मन॒सा या॑तु यु॒क्तः ।  
+विशो॒ येन॒ गच्छ॑थो देव॒यन्तीः॒ कुत्रा॑ चि॒द्याम॑मश्विना॒ दधा॑ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

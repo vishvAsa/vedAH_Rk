@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कतो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ tiṣṭhantām ← √sthā- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तपो॒ ष्व॑ग्ने॒ अन्त॑राँ अ॒मित्रा॒न्तपा॒ शंस॒मर॑रुषः॒ पर॑स्य ।  
+तपो॑ वसो चिकिता॒नो अ॒चित्ता॒न्वि ते॑ तिष्ठन्ताम॒जरा॑ अ॒यासः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “undaunted; irrepressible; audacious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

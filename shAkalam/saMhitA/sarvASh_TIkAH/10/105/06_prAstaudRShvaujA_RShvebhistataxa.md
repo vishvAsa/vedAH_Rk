@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कौत्सो दुर्मित्रो नाम्ना दुर्मित्रो गुणतो वा नाम्ना दुर्मित्रो गुणतः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ ná ← ná (invariable)
 
 r̥bhúḥ ← r̥bhú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रास्तौ॑दृ॒ष्वौजा॑ ऋ॒ष्वेभि॑स्त॒तक्ष॒ शूरः॒ शव॑सा ।  
+ऋ॒भुर्न क्रतु॑भिर्मात॒रिश्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “wind; Mātariśvan; Vayu; vāta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

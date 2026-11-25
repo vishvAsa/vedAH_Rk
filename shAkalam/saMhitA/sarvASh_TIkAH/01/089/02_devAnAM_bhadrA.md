@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ prá ← prá (invariable)
 
 tirantu ← √tr̥̄- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वानां॑ भ॒द्रा सु॑म॒तिरृ॑जूय॒तां दे॒वानां॑ रा॒तिर॒भि नो॒ नि व॑र्तताम् ।  
+दे॒वानां॑ स॒ख्यमुप॑ सेदिमा व॒यं दे॒वा न॒ आयुः॒ प्र ति॑रन्तु जी॒वसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

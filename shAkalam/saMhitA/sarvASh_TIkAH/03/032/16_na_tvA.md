@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ gávyam ← gávya- (nominal stem)
 
 ūrvám ← ūrvá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न त्वा॑ गभी॒रः पु॑रुहूत॒ सिन्धु॒र्नाद्र॑यः॒ परि॒ षन्तो॑ वरन्त ।  
+इ॒त्था सखि॑भ्य इषि॒तो यदि॒न्द्रा दृ॒ळ्हं चि॒दरु॑जो॒ गव्य॑मू॒र्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “pen; Aurva; ocean.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -92,7 +93,12 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 
 vīrám ← vīrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र याभि॒र्यासि॑ दा॒श्वांस॒मच्छा॑ नि॒युद्भि॑र्वायवि॒ष्टये॑ दुरो॒णे ।  
+नि नो॑ र॒यिं सु॒भोज॑सं युवस्व॒ नि वी॒रं गव्य॒मश्व्यं॑ च॒ राधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

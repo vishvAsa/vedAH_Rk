@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गातुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ jaghanvā́n ← √han- (root)
 
 táviṣīm ← táviṣī- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमुत्साँ॑ ऋ॒तुभि॑र्बद्बधा॒नाँ अरं॑ह॒ ऊधः॒ पर्व॑तस्य वज्रिन् ।  
+अहिं॑ चिदुग्र॒ प्रयु॑तं॒ शया॑नं जघ॒न्वाँ इ॑न्द्र॒ तवि॑षीमधत्थाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

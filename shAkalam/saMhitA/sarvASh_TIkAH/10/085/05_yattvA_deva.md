@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -74,7 +75,12 @@ mā́saḥ ← mā́s- 1 (nominal stem)
 
 sámānām ← sámā- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्त्वा॑ देव प्र॒पिब॑न्ति॒ तत॒ आ प्या॑यसे॒ पुनः॑ ।  
+वा॒युः सोम॑स्य रक्षि॒ता समा॑नां॒ मास॒ आकृ॑तिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “form; appearance; symptom; shape; kind.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

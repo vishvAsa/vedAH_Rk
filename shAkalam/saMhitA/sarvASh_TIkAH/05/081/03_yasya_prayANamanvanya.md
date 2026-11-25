@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -89,7 +90,12 @@ rájāṁsi ← rájas- (nominal stem)
 
 savitā́ ← savitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ प्र॒याण॒मन्व॒न्य इद्य॒युर्दे॒वा दे॒वस्य॑ महि॒मान॒मोज॑सा ।  
+यः पार्थि॑वानि विम॒मे स एत॑शो॒ रजां॑सि दे॒वः स॑वि॒ता म॑हित्व॒ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “greatness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

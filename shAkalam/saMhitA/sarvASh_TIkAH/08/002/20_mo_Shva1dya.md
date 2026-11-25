@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ iva ← iva (invariable)
 
 jā́mātā ← jā́mātar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मो ष्व१॒॑द्य दु॒र्हणा॑वान्त्सा॒यं क॑रदा॒रे अ॒स्मत् ।  
+अ॒श्री॒र इ॑व॒ जामा॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “brother-in-law; husband.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

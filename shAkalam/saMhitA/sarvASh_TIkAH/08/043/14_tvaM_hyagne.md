@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ sákhyā ← sákhi- (nominal stem)
 
 samidhyáse ← √idh- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ह्य॑ग्ने अ॒ग्निना॒ विप्रो॒ विप्रे॑ण॒ सन्त्स॒ता ।  
+सखा॒ सख्या॑ समि॒ध्यसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “kindle; blaze.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "कः"
 RShiH = "हिरण्यगर्भः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कः
@@ -83,7 +84,12 @@ kásmai ← ká- (pronoun)
 
 vidhema ← √vidh- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं क्रन्द॑सी॒ अव॑सा तस्तभा॒ने अ॒भ्यैक्षे॑तां॒ मन॑सा॒ रेज॑माने ।  
+यत्राधि॒ सूर॒ उदि॑तो वि॒भाति॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “worship; offer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

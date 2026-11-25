@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -86,7 +87,12 @@ sárasvatī ← sárasvant- (nominal stem)
 
 upastútyā ← upastútya- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र या म॑हि॒म्ना म॒हिना॑सु॒ चेकि॑ते द्यु॒म्नेभि॑र॒न्या अ॒पसा॑म॒पस्त॑मा ।  
+रथ॑ इव बृह॒ती वि॒भ्वने॑ कृ॒तोप॒स्तुत्या॑ चिकि॒तुषा॒ सर॑स्वती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     vine; river.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

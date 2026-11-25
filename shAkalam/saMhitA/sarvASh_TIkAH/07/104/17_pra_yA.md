@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -89,7 +90,12 @@ rakṣásaḥ ← rakṣás- (nominal stem)
 
 upabdaíḥ ← upabdá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र या जिगा॑ति ख॒र्गले॑व॒ नक्त॒मप॑ द्रु॒हा त॒न्वं१॒॑ गूह॑माना ।  
+व॒व्राँ अ॑न॒न्ताँ अव॒ सा प॑दीष्ट॒ ग्रावा॑णो घ्नन्तु र॒क्षस॑ उप॒ब्दैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - \[noun\], instrumental, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

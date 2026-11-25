@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ madíntamāsaḥ ← madíntama- (nominal stem)
 
 pári ← pári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र त॑ आ॒शवः॑ पवमान धी॒जवो॒ मदा॑ अर्षन्ति रघु॒जा इ॑व॒ त्मना॑ ।  
+दि॒व्याः सु॑प॒र्णा मधु॑मन्त॒ इन्द॑वो म॒दिन्त॑मासः॒ परि॒ कोश॑मासते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,10 +254,6 @@ Forth do your swift exhilarating drinks, sped by insights, rush, o  self-purifyi
 The heavenly, fine-feathered, honeyed drops, most exhilarating, take  their seats around the cask.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The rt noun cmpd dhī-jū́- (also in vs. 4) could have two different readings, ‘sped by insight(s)’ and ‘speeding insights’; see Scarlatta 170-71. The published translation opts for the passive interpr., as does Renou, while Geldner chooses the transitive one. Either is possible in this ritual context, and parallels cut both ways. On the one hand, there is the parallel cmpd dhī-jávana- (3x), which must have transitive value; on the other,
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -262,7 +263,6 @@ concern the swift journey of the soma drinks, which is compared to that of swift
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

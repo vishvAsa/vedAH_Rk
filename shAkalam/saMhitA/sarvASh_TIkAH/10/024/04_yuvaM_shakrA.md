@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -65,7 +66,12 @@ nā́satyā ← nā́satya- (nominal stem)
 
 nirámanthatam ← √manthⁱ- (root)  
 {number:DU, person:2, mood:IND, tense:IPRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं श॑क्रा माया॒विना॑ समी॒ची निर॑मन्थतम् ।  
+वि॒म॒देन॒ यदी॑ळि॒ता नास॑त्या नि॒रम॑न्थतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “churn; crush; grind.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -92,7 +93,12 @@ utá ← utá (invariable)
 
 vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्ध॒ त्यद्वां॑ पुरुमी॒ळ्हस्य॑ सो॒मिनः॒ प्र मि॒त्रासो॒ न द॑धि॒रे स्वा॒भुवः॑ ।  
+अध॒ क्रतुं॑ विदतं गा॒तुमर्च॑त उ॒त श्रु॑तं वृषणा प॒स्त्या॑वतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

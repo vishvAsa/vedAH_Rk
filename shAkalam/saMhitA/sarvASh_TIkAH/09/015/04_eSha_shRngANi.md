@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ nr̥mṇā́ ← nr̥mṇá- (nominal stem)
 
 ójasā ← ójas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष शृङ्गा॑णि॒ दोधु॑व॒च्छिशी॑ते यू॒थ्यो॒३॒॑ वृषा॑ ।  
+नृ॒म्णा दधा॑न॒ ओज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

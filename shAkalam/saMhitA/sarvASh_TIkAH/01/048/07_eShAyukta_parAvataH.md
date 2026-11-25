@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ ví ← ví (invariable)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒षायु॑क्त परा॒वतः॒ सूर्य॑स्यो॒दय॑ना॒दधि॑ ।  
+श॒तं रथे॑भिः सु॒भगो॒षा इ॒यं वि या॑त्य॒भि मानु॑षान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “man; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ víṭ ← víś- (nominal stem)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वा॒ध्यो॑ दि॒व आ स॒प्त य॒ह्वी रा॒यो दुरो॒ व्यृ॑त॒ज्ञा अ॑जानन् ।  
+वि॒दद्गव्यं॑ स॒रमा॑ दृ॒ळ्हमू॒र्वं येना॒ नु कं॒ मानु॑षी॒ भोज॑ते॒ विट् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

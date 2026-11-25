@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -83,7 +84,12 @@ ugráḥ ← ugrá- (nominal stem)
 
 ugrébhiḥ ← ugrá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येन॒ माना॑सश्चि॒तय॑न्त उ॒स्रा व्यु॑ष्टिषु॒ शव॑सा॒ शश्व॑तीनाम् ।  
+स नो॑ म॒रुद्भि॑र्वृषभ॒ श्रवो॑ धा उ॒ग्र उ॒ग्रेभिः॒ स्थवि॑रः सहो॒दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “giving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

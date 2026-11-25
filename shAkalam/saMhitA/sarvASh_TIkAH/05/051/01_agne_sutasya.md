@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -57,7 +58,12 @@ devébhiḥ ← devá- (nominal stem)
 
 havyádātaye ← havyádāti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ सु॒तस्य॑ पी॒तये॒ विश्वै॒रूमे॑भि॒रा ग॑हि ।  
+दे॒वेभि॑र्ह॒व्यदा॑तये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - \[noun\], dative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

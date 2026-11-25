@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ sómasya ← sóma- (nominal stem)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वप्ने॑ना॒भ्युप्या॒ चुमु॑रिं॒ धुनिं॑ च ज॒घन्थ॒ दस्युं॒ प्र द॒भीति॑मावः ।  
+र॒म्भी चि॒दत्र॑ विविदे॒ हिर॑ण्यं॒ सोम॑स्य॒ ता मद॒ इन्द्र॑श्चकार ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

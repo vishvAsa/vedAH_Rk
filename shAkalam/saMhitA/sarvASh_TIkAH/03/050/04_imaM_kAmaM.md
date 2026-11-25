@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ kuśikā́saḥ ← kuśiká- (nominal stem)
 
 vā́haḥ ← vā́has- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं कामं॑ मन्दया॒ गोभि॒रश्वै॑श्च॒न्द्रव॑ता॒ राध॑सा प॒प्रथ॑श्च ।  
+स्व॒र्यवो॑ म॒तिभि॒स्तुभ्यं॒ विप्रा॒ इन्द्रा॑य॒ वाहः॑ कुशि॒कासो॑ अक्रन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -233,14 +238,12 @@ Seeking the sun, the inspired poets, the Kuśikas, have made with their  thought
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/050/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 On the sequence of two repeated vss. see published introduction.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

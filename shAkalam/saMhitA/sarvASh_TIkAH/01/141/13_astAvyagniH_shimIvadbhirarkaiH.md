@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sū́raḥ ← sū́ra- (nominal stem)
 
 tatanyuḥ ← √tan- (root)  
 {number:PL, person:3, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्ता॑व्य॒ग्निः शिमी॑वद्भिर॒र्कैः साम्रा॑ज्याय प्रत॒रं दधा॑नः ।  
+अ॒मी च॒ ये म॒घवा॑नो व॒यं च॒ मिहं॒ न सूरो॒ अति॒ निष्ट॑तन्युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     speak; propagate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

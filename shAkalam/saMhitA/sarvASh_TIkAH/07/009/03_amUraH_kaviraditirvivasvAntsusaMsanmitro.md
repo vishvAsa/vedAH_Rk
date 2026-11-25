@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ prasvàḥ ← prasū́- (nominal stem)
 
 viveśa ← √viś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अमू॑रः क॒विरदि॑तिर्वि॒वस्वा॑न्त्सुसं॒सन्मि॒त्रो अति॑थिः शि॒वो नः॑ ।  
+चि॒त्रभा॑नुरु॒षसां॑ भा॒त्यग्रे॒ऽपां गर्भः॑ प्र॒स्व१॒॑ आ वि॑वेश ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

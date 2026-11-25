@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "द्वितो मृक्तवाहा आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ aśvadāvan ← aśvadāvan- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वो॑ दी॒र्घायु॑शोचिषं गि॒रा हु॑वे म॒घोना॑म् ।  
+अरि॑ष्टो॒ येषां॒ रथो॒ व्य॑श्वदाव॒न्नीय॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ r̥tacít ← r̥tacít- (nominal stem)
 
 yātayāse ← √yat- (root)  
 {number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ स्पृधि पि॒तरं॒ योधि॑ वि॒द्वान्पु॒त्रो यस्ते॑ सहसः सून ऊ॒हे ।  
+क॒दा चि॑कित्वो अ॒भि च॑क्षसे॒ नोऽग्ने॑ क॒दाँ ऋ॑त॒चिद्या॑तयासे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “endeavor; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ víśvasya ← víśva- (nominal stem)
 
 yā́man ← yā́man- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ वां॒ सूर॒ उदि॑ते सू॒क्तैर्मि॒त्रं हु॑वे॒ वरु॑णं पू॒तद॑क्षम् ।  
+ययो॑रसु॒र्य१॒॑मक्षि॑तं॒ ज्येष्ठं॒ विश्व॑स्य॒ याम॑न्ना॒चिता॑ जिग॒त्नु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “moving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

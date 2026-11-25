@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ tmánā ← tmán- (nominal stem)
 
 yujata ← √yuj- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शर्धो॒ मारु॑त॒मुच्छं॑स स॒त्यश॑वस॒मृभ्व॑सम् ।  
+उ॒त स्म॒ ते शु॒भे नरः॒ प्र स्य॒न्द्रा यु॑जत॒ त्मना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “self.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -215,10 +220,6 @@ Exalt the Marut troop, of real strength, ingenious.
 The men, streaming, hitch up by themselves for beauty.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner takes syandrā́(ḥ) as acc. pl. fem. and supplies antelopes as the obj. of yujata. This is not impossible, but syandrā́(ḥ) was already used of the Maruts in 3a (cf. also V.87.3).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/052/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -226,7 +227,6 @@ I don't understand the force of utá sma, which opens 8c and 9a, with utá openi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

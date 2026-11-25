@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ kr̥payatáḥ ← √kr̥p- (root)
 
 nūnám ← nūnám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑षामिर॒ज्यन्तं॒ वसू॑नां सास॒ह्वांसं॑ चिद॒स्य वर्प॑सः ।  
+कृ॒प॒य॒तो नू॒नमत्यथ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “now; then; furthermore; now; then.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

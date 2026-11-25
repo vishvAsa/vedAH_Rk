@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ ihá ← ihá (invariable)
 
 vr̥ddhā́ḥ ← √vr̥dh- (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वन्द॑स्व॒ मारु॑तं ग॒णं त्वे॒षं प॑न॒स्युम॒र्किण॑म् ।  
+अ॒स्मे वृ॒द्धा अ॑सन्नि॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “here; now; in this world; now; below; there; here; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

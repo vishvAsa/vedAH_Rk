@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -57,7 +58,12 @@ píbatam ← √pā- 2 (root)
 
 yātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒क्रस्या॒द्य गवा॑शिर॒ इन्द्र॑वायू नि॒युत्व॑तः ।  
+आ या॑तं॒ पिब॑तं नरा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -155,12 +160,6 @@ Of the clear (soma) today and of the one mixed with milk, with its  teams, o Ind
 drive here and drink it, men!
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The stem niyútvant- (3b) is repeated from 1c and 2a, as noted above, but here as an apparent gen. sg. modifying the soma drink (or rather one of them), not a god or gods. Geldner (n. 3b) suggests that it is a metrically conditioned “hypallage” for dual niyútvantā, which would qualify Indra and Vāyu. This is a clever idea and would restore parallelism to the phraseology of the tṛca, though I’m not sure that’s necessary: Rigvedic poets enjoy tweaking parallelism in the syntactic equivalent of a slant rhyme. Oldenberg floats a truly oddball idea, unworthy of his usual acuity: that niyútvant- should modify an unexpressed ráthena but in the absence of a head noun in the proper case it gets sucked [not Oldenberg’s term] into the gen. by the “benachbarte” gen. Even if this were a reasonable explanation in principle -- that an untethered adj.
-
-could be captured by an adjacent or nearby word in another case -- niyútvataḥ is actually in a different pāda from the other genitives and is adjacent only to the dual dvandva índrāvāyū.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -168,7 +167,6 @@ This tṛca is characterized by lexical chaining. The first pāda of vs. 2 repri
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

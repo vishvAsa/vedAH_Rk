@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ hárim ← hári- (nominal stem)
 
 vájram ← vájra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज॒ज्ञा॒नो हरि॑तो॒ वृषा॒ विश्व॒मा भा॑ति रोच॒नम् ।  
+हर्य॑श्वो॒ हरि॑तं धत्त॒ आयु॑ध॒मा वज्रं॑ बा॒ह्वोर्हरि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “reddish brown; yellow; pale; yellow; aureate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

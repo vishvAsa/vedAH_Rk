@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ dhāsím ← dhāsí- (nominal stem)
 
 hinvanti ← √hi- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्यं॒ घेत्ते जना॑ इ॒मे विश्वाः॑ सुक्षि॒तयः॒ पृथ॑क् ।  
+धा॒सिं हि॑न्व॒न्त्यत्त॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “eat; devour.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

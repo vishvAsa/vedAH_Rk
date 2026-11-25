@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गय आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ tarīṣáṇi ← √tr̥̄- 1 (root)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू नो॑ अग्न ऊ॒तये॑ स॒बाध॑सश्च रा॒तये॑ ।  
+अ॒स्माका॑सश्च सू॒रयो॒ विश्वा॒ आशा॑स्तरी॒षणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

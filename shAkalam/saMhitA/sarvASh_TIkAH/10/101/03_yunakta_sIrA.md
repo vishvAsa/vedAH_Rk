@@ -4,6 +4,7 @@ devataa = "विश्वेदेवा ऋत्विजो वा"
 RShiH = "बुधः सौम्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -98,7 +99,12 @@ pakvám ← pakvá- (nominal stem)
 
 sr̥ṇyàḥ ← sr̥ṇī́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒नक्त॒ सीरा॒ वि यु॒गा त॑नुध्वं कृ॒ते योनौ॑ वपते॒ह बीज॑म् ।  
+गि॒रा च॑ श्रु॒ष्टिः सभ॑रा॒ अस॑न्नो॒ नेदी॑य॒ इत्सृ॒ण्यः॑ प॒क्वमेया॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “come; travel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

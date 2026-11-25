@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -116,7 +117,13 @@ sacābhúvam ← sacābhū́- (nominal stem)
 
 vájram ← vájra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि त्वा॑ ततस्रे मिथु॒ना अ॑व॒स्यवो॑ व्र॒जस्य॑ सा॒ता गव्य॑स्य निः॒सृजः॒ सक्ष॑न्त इन्द्र निः॒सृजः॑ ।  
+यद्ग॒व्यन्ता॒ द्वा जना॒ स्व१॒॑र्यन्ता॑ स॒मूह॑सि ।  
+आ॒विष्करि॑क्र॒द्वृष॑णं सचा॒भुवं॒ वज्र॑मिन्द्र सचा॒भुव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -286,7 +293,6 @@ _________
 - “ally.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

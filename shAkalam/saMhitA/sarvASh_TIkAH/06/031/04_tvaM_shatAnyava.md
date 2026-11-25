@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुहोत्रः"
 ChandaH = "शक्वरी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -88,7 +89,12 @@ gr̥ṇaté ← √gr̥̄- 1 (root)
 
 vásūni ← vásu- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं श॒तान्यव॒ शम्ब॑रस्य॒ पुरो॑ जघन्थाप्र॒तीनि॒ दस्योः॑ ।  
+अशि॑क्षो॒ यत्र॒ शच्या॑ शचीवो॒ दिवो॑दासाय सुन्व॒ते सु॑तक्रे भ॒रद्वा॑जाय गृण॒ते वसू॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

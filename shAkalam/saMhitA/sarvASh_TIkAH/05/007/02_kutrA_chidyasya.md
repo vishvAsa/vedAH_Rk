@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ jantávaḥ ← jantú- (nominal stem)
 
 saṁjanáyanti ← √janⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कुत्रा॑ चि॒द्यस्य॒ समृ॑तौ र॒ण्वा नरो॑ नृ॒षद॑ने ।  
+अर्ह॑न्तश्चि॒द्यमि॑न्ध॒ते सं॑ज॒नय॑न्ति ज॒न्तवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

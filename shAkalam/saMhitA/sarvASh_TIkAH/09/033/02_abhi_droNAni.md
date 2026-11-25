@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ gómantam ← gómant- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि द्रोणा॑नि ब॒भ्रवः॑ शु॒क्रा ऋ॒तस्य॒ धार॑या ।  
+वाजं॒ गोम॑न्तमक्षरन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “run; melt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

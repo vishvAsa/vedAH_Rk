@@ -4,6 +4,7 @@ devataa = "उर्वशी"
 RShiH = "पुरूरवा ऐळः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उर्वशी
@@ -89,7 +90,12 @@ rathaspŕ̥śaḥ ← rathaspŕ̥ś- (nominal stem)
 
 tā́ḥ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सचा॒ यदा॑सु॒ जह॑ती॒ष्वत्क॒ममा॑नुषीषु॒ मानु॑षो नि॒षेवे॑ ।  
+अप॑ स्म॒ मत्त॒रस॑न्ती॒ न भु॒ज्युस्ता अ॑त्रसन्रथ॒स्पृशो॒ नाश्वाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “horse; aśva \[word\]; Aśva; stallion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

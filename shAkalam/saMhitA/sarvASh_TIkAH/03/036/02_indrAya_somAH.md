@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ vŕ̥ṣadhūtasya ← vŕ̥ṣadhūta- (nominal stem)
 
 vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑य॒ सोमाः॑ प्र॒दिवो॒ विदा॑ना ऋ॒भुर्येभि॒र्वृष॑पर्वा॒ विहा॑याः ।  
+प्र॒य॒म्यमा॑ना॒न्प्रति॒ षू गृ॑भा॒येन्द्र॒ पिब॒ वृष॑धूतस्य॒ वृष्णः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “bull; Indra; stallion; Vṛṣan; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

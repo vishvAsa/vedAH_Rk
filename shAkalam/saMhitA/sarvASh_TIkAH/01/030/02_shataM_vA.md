@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ rīyate ← √rī- (root)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं वा॒ यः शुची॑नां स॒हस्रं॑ वा॒ समा॑शिराम् ।  
+एदु॑ नि॒म्नं न री॑यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “free; liberate; run; let go of.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

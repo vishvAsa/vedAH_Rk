@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ diví ← dyú- ~ div- (nominal stem)
 
 kṣitíbhyaḥ ← kṣití- (nominal stem)  
 {case:DAT, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नः॒ शर्मा॑णि वी॒तये॒ऽग्निर्य॑च्छतु॒ शन्त॑मा ।  
+यतो॑ नः प्रु॒ष्णव॒द्वसु॑ दि॒वि क्षि॒तिभ्यो॑ अ॒प्स्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वेनः"
 RShiH = "वेनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वेनः
@@ -83,7 +84,12 @@ sī́dat ← √sad- (root)
 
 venáḥ ← vená- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒प्स॒रा जा॒रमु॑पसिष्मिया॒णा योषा॑ बिभर्ति पर॒मे व्यो॑मन् ।  
+चर॑त्प्रि॒यस्य॒ योनि॑षु प्रि॒यः सन्त्सीद॑त्प॒क्षे हि॑र॒ण्यये॒ स वे॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “Vena.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

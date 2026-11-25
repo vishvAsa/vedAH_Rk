@@ -4,6 +4,7 @@ devataa = "यमी वैवस्वती"
 RShiH = "यमो वैवस्वतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमी वैवस्वती
@@ -101,7 +102,12 @@ te ← tvám (pronoun)
 
 vaṣṭi ← √vaś- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न वा उ॑ ते त॒न्वा॑ त॒न्वं१॒॑ सं प॑पृच्यां पा॒पमा॑हु॒र्यः स्वसा॑रं नि॒गच्छा॑त् ।  
+अ॒न्येन॒ मत्प्र॒मुदः॑ कल्पयस्व॒ न ते॒ भ्राता॑ सुभगे वष्ट्ये॒तत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “this; he,she,it (pers. pron.); etad \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

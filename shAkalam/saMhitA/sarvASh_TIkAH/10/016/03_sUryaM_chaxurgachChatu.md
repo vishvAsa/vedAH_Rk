@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ práti ← práti (invariable)
 
 tiṣṭha ← √sthā- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सूर्यं॒ चक्षु॑र्गच्छतु॒ वात॑मा॒त्मा द्यां च॑ गच्छ पृथि॒वीं च॒ धर्म॑णा ।  
+अ॒पो वा॑ गच्छ॒ यदि॒ तत्र॑ ते हि॒तमोष॑धीषु॒ प्रति॑ तिष्ठा॒ शरी॑रैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +262,6 @@ _________
 - “body; human body; body part; body; body; strength.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

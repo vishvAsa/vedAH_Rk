@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ mádhumataḥ ← mádhumant- (nominal stem)
 
 yuvám ← tvám (pronoun)  
 {case:NOM, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मधु॑मन्मे प॒राय॑णं॒ मधु॑म॒त्पुन॒राय॑नम् ।  
+ता नो॑ देवा दे॒वत॑या यु॒वं मधु॑मतस्कृतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

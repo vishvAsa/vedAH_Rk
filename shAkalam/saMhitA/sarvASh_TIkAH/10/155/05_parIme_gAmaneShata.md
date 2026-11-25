@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शिरिंबिठो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ imā́n ← ayám (pronoun)
 
 káḥ ← ká- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परी॒मे गाम॑नेषत॒ पर्य॒ग्निम॑हृषत ।  
+दे॒वेष्व॑क्रत॒ श्रवः॒ क इ॒माँ आ द॑धर्षति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “dare; attack.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

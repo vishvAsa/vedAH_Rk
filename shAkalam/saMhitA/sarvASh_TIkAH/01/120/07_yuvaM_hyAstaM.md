@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "विष्टारबृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ pātám ← √pā- 1 (root)
 
 vŕ̥kāt ← vŕ̥ka- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं ह्यास्तं॑ म॒हो रन्यु॒वं वा॒ यन्नि॒रत॑तंसतम् ।  
+ता नो॑ वसू सुगो॒पा स्या॑तं पा॒तं नो॒ वृका॑दघा॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “malevolent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

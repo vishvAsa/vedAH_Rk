@@ -4,6 +4,7 @@ devataa = "नराशंसः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नराशंसः
@@ -54,7 +55,12 @@ kavíḥ ← kaví- (nominal stem)
 
 mádhuhastyaḥ ← mádhuhastya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नरा॒शंसः॑ सुषूदती॒मं य॒ज्ञमदा॑भ्यः ।  
+क॒विर्हि मधु॑हस्त्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “hand(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

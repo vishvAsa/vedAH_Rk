@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -66,7 +67,12 @@ sumatíbhiḥ ← sumatí- (nominal stem)
 
 viprau ← vípra- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं हि वां॒ हवा॑मह उक्ष॒ण्यन्तो॑ व्यश्व॒वत् ।  
+सु॒म॒तिभि॒रुप॑ विप्रावि॒हा ग॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -119,7 +120,13 @@ jū́rṇiḥ ← jū́rṇi- (nominal stem)
 
 r̥ṣūṇā́m ← r̥ṣú- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॑ म॒हे सह॑सा॒ सह॑स्वत उष॒र्बुधे॑ पशु॒षे नाग्नये॒ स्तोमो॑ बभूत्व॒ग्नये॑ ।  
+प्रति॒ यदीं॑ ह॒विष्मा॒न्विश्वा॑सु॒ क्षासु॒ जोगु॑वे ।  
+अग्रे॑ रे॒भो न ज॑रत ऋषू॒णां जूर्णि॒र्होत॑ ऋषू॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -297,7 +304,6 @@ _________
 - \[noun\], genitive, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

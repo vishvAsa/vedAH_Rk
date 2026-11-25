@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -66,7 +67,12 @@ urú ← urú- (nominal stem)
 
 uṣā́ḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ भ॒द्रा अ॑दृक्षत॒ गवां॒ सर्गा॒ न र॒श्मयः॑ ।  
+ओषा अ॑प्रा उ॒रु ज्रयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “expanse; area.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

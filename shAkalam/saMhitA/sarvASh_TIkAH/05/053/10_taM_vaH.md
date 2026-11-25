@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -66,7 +67,12 @@ vr̥ṣṭáyaḥ ← vr̥ṣṭí- (nominal stem)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वः॒ शर्धं॒ रथा॑नां त्वे॒षं ग॒णं मारु॑तं॒ नव्य॑सीनाम् ।  
+अनु॒ प्र य॑न्ति वृ॒ष्टयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “rain; shower; rainy season.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

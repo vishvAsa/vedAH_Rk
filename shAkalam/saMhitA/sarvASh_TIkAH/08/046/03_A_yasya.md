@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ gr̥ṇánti ← √gr̥̄- 1 (root)
 
 kārávaḥ ← kārú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यस्य॑ ते महि॒मानं॒ शत॑मूते॒ शत॑क्रतो ।  
+गी॒र्भिर्गृ॒णन्ति॑ का॒रवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “poet; singer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

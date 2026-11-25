@@ -4,6 +4,7 @@ devataa = "अग्निरग्निरौषस्योवा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निरौषस्योवा
@@ -89,7 +90,12 @@ havírbhiḥ ← havís- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भे भ॒द्रे जो॑षयेते॒ न मेने॒ गावो॒ न वा॒श्रा उप॑ तस्थु॒रेवैः॑ ।  
+स दक्षा॑णां॒ दक्ष॑पतिर्बभूवा॒ञ्जन्ति॒ यं द॑क्षिण॒तो ह॒विर्भिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “Havya; offering; ghee; havis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -254,12 +259,6 @@ Both give pleasure like excellent wives. Like bellowing cows they (all  [=men]) 
 He has become the skill-lord of skills, whom they anoint from the right  (/south) with oblations.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The position of simile-marking ná is aberrant, preceding the simile’s noun méne and following the verb. Since the full simile is bhadré … ná méne, it seems that this syntagm was distracted in some fashion, with the verb placed in its middle. On méne see I.62.7.
-
-The etymological figure in c, dákṣāṇāṃ dákṣapatiḥ “skill-lord of skills,” then participates in a phonological figure with semantically distinct dakṣiṇatáḥ “from the right (/south)” in d.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/095/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -267,7 +266,6 @@ The caus. (práti) joṣayete in 5d, 6a literally means “they two cause (him) 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

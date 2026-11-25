@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ tvám ← tvám (pronoun)
 
 yásya ← yá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सो अ॑ग्ने॒ तवो॒तिभिः॑ सु॒वीरा॑भिस्तिरते॒ वाज॑भर्मभिः ।  
+यस्य॒ त्वं स॒ख्यमा॒वरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “prefer; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

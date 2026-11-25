@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ somapéyam ← somapéya- (nominal stem)
 
 sukháḥ ← sukhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं स॑मह मा तनू॒ह्याते॒ जनाँ॒ अनु॑ ।  
+सो॒म॒पेयं॑ सु॒खो रथः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tritéṣu ← tritá- (nominal stem)
 
 vindat ← √vid- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यम॑कृणोदु॒षसः॑ सु॒पत्नी॑र॒यं सूर्ये॑ अदधा॒ज्ज्योति॑र॒न्तः ।  
+अ॒यं त्रि॒धातु॑ दि॒वि रो॑च॒नेषु॑ त्रि॒तेषु॑ विन्दद॒मृतं॒ निगू॑ळ्हम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “hide; cover.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -253,12 +258,6 @@ This one found the threefold immortal one hidden in heaven among the  third real
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As Geldner points out (n. 23cd), in the 2nd hemistich Soma the god is differentiated from soma the drink, with the god finding the distant, hidden drink.
-
-tritéṣu is the only pl. form to this stem in the RV, and it is not at all clear what it is doing here. Geldner takes it as the PN Trita, with the pl. referring to Trita and his brothers, among whom Soma (the god) finds soma (the drink). But I know of no such narrative, and Geldner does not cite one. I take the form instead as representing the older adj. ‘third’ (see EWA s.v.), the older correspondent of tṛtī́ya- ‘third’ (which, of course, is also old, having Iranian cognates). As is well known, there are three heavens, and I take the “third realms of light” to be the third or highest heaven, here in the pl. because it is conceived of as further subdivided. For soma as resident in the third heaven, see K. Klaus, Die altindische Kosmologie, 175 with n. 66. It is possible (but only possible) that the vs. implicitly depicts the three heavens, with the dawns in the nearer one, the sun in the middle, and the soma in the third. The drink is threefold presumably because of the three pressings of the soma sacrifice.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -266,7 +265,6 @@ As noted in the published introduction, repetition also characterizes this tṛc
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

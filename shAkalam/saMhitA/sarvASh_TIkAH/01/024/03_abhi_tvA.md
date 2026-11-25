@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "शुनःशेप आजीगर्तिः | कृत्रिमो वैश्वामित्रो देवरातः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -60,7 +61,12 @@ bhāgám ← bhāgá- (nominal stem)
 
 sádā ← sádā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि त्वा॑ देव सवित॒रीशा॑नं॒ वार्या॑णाम् ।  
+सदा॑वन्भा॒गमी॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

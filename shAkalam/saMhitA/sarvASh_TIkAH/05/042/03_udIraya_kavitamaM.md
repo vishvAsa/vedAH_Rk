@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ savitā́ ← savitár- (nominal stem)
 
 suvāti ← √sū- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदी॑रय क॒वित॑मं कवी॒नामु॒नत्तै॑नम॒भि मध्वा॑ घृ॒तेन॑ ।  
+स नो॒ वसू॑नि॒ प्रय॑ता हि॒तानि॑ च॒न्द्राणि॑ दे॒वः स॑वि॒ता सु॑वाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “give birth; urge; bestow; cause.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

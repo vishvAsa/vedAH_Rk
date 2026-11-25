@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ mādayādhvai ← √mad- (root)
 
 svā́hā ← svā́hā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ च॑ नो ब॒र्हिः सद॑तावि॒ता च॑ नः स्पा॒र्हाणि॒ दात॑वे॒ वसु॑ ।  
+अस्रे॑धन्तो मरुतः सो॒म्ये मधौ॒ स्वाहे॒ह मा॑दयाध्वै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

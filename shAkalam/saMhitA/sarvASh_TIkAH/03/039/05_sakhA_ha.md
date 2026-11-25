@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ támasi ← támas- (nominal stem)
 
 viveda ← √vid- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सखा॑ ह॒ यत्र॒ सखि॑भि॒र्नव॑ग्वैरभि॒ज्ञ्वा सत्व॑भि॒र्गा अ॑नु॒ग्मन् ।  
+स॒त्यं तदिन्द्रो॑ द॒शभि॒र्दश॑ग्वैः॒ सूर्यं॑ विवेद॒ तम॑सि क्षि॒यन्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इषवः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इषवः
@@ -95,7 +96,12 @@ tátra ← tátra (invariable)
 
 yaṁsan ← √yam- (root)  
 {number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒प॒र्णं व॑स्ते मृ॒गो अ॑स्या॒ दन्तो॒ गोभिः॒ सन्न॑द्धा पतति॒ प्रसू॑ता ।  
+यत्रा॒ नरः॒ सं च॒ वि च॒ द्रव॑न्ति॒ तत्रा॒स्मभ्य॒मिष॑वः॒ शर्म॑ यंसन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

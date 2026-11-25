@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नीपातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ divāvaso ← divāvasu- (nominal stem)
 
 yayá ← √yā- 1 (root)  
 {number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दधा॑मि ते सु॒तानां॒ वृष्णे॒ न पू॑र्व॒पाय्य॑म् ।  
+दि॒वो अ॒मुष्य॒ शास॑तो॒ दिवं॑ य॒य दि॑वावसो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

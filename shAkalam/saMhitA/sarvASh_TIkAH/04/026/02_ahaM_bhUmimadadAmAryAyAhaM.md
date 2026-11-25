@@ -4,6 +4,7 @@ devataa = "इन्द्र आत्मा वा"
 RShiH = "वामदेवो गौतम इन्द्रो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्र आत्मा वा
@@ -83,7 +84,12 @@ kétam ← kéta- (nominal stem)
 
 máma ← ahám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं भूमि॑मददा॒मार्या॑या॒हं वृ॒ष्टिं दा॒शुषे॒ मर्त्या॑य ।  
+अ॒हम॒पो अ॑नयं वावशा॒ना मम॑ दे॒वासो॒ अनु॒ केत॑मायन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

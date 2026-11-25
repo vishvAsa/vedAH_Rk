@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ kariṣyán ← √kr̥- (root)
 
 śáṁsyam ← śáṁsya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं क॒विं चो॑दयो॒ऽर्कसा॑तौ॒ त्वं कुत्सा॑य॒ शुष्णं॑ दा॒शुषे॑ वर्क् ।  
+त्वं शिरो॑ अम॒र्मणः॒ परा॑हन्नतिथि॒ग्वाय॒ शंस्यं॑ करि॒ष्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -234,12 +239,6 @@ You spurred the poet [=Uśanā Kāvya] on at the winning of the (sun’s)  rays.
 You struck far away the head of the invulnerable one, intending to do (a  deed) worthy to be proclaimed for Atithigva.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As discussed ad VI.20.4, the three occurrences of arká-sāti- ‘the winning of the sun’s rays’ (I.174.7, VI.20.4, and here) are all found in conjunction with a poet (kaví-) and in connection with the Kutsa / Śuṣṇa myth. These associations point fairly decisively to Uśanā Kāvya as the poet in question.
-
-Pāda b contains one of the few occurrences of √vṛj ‘twist, wring’ without preverb; another is found nearby at VI.18.8. Hoffmann (183) reads injunc. párā han for Pp. párā ahan. Given the preponderance of injunctives in these vss. and esp. han at the end of 5c, this seems likely. (See also sácāhan in the next vs. and 6d.)
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
 <details><summary><h2>03-06 ...{Loading}...</h2></summary>
 
@@ -247,7 +246,6 @@ These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

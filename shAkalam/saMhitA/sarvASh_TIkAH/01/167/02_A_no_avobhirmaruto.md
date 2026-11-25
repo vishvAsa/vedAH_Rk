@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ pāré ← pārá- (nominal stem)
 
 samudrásya ← samudrá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नोऽवो॑भिर्म॒रुतो॑ या॒न्त्वच्छा॒ ज्येष्ठे॑भिर्वा बृ॒हद्दि॑वैः सुमा॒याः ।  
+अध॒ यदे॑षां नि॒युतः॑ पर॒माः स॑मु॒द्रस्य॑ चिद्ध॒नय॑न्त पा॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “shore; pāra \[word\]; end; excellence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

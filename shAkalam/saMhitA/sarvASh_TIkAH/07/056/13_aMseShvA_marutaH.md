@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ svadhā́m ← svadhā́- (nominal stem)
 
 yáchamānāḥ ← √yam- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अंसे॒ष्वा म॑रुतः खा॒दयो॑ वो॒ वक्ष॑स्सु रु॒क्मा उ॑पशिश्रिया॒णाः ।  
+वि वि॒द्युतो॒ न वृ॒ष्टिभी॑ रुचा॒ना अनु॑ स्व॒धामायु॑धै॒र्यच्छ॑मानाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

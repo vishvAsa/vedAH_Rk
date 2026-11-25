@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अप्रतिरथ ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ rátham ← rátha- (nominal stem)
 
 tiṣṭha ← √sthā- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब॒ल॒वि॒ज्ञा॒यः स्थवि॑रः॒ प्रवी॑रः॒ सह॑स्वान्वा॒जी सह॑मान उ॒ग्रः ।  
+अ॒भिवी॑रो अ॒भिस॑त्वा सहो॒जा जैत्र॑मिन्द्र॒ रथ॒मा ति॑ष्ठ गो॒वित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “finding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -234,7 +239,6 @@ _______________
 २१८१ अभितः सत्त्वानः परिचारकाः प्राणिनो यस्यासाव् **अभिसत्त्वा**।  
 सहसो बलाज्जातः सहोजा बलाधिक इत्यर्थः।  
 गां भूमिं विन्दते लभत इति गोवित्।
-
 </details>
 
 <details><summary>Wilson</summary>

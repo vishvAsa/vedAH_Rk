@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ várāṁsi ← váras- (nominal stem)
 
 yúyūṣataḥ ← √yu- 1 (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒षे नरा॑ दि॒वो अ॒स्य प्र॒सन्ता॒श्विना॑ हुवे॒ जर॑माणो अ॒र्कैः ।  
+या स॒द्य उ॒स्रा व्युषि॒ ज्मो अन्ता॒न्युयू॑षतः॒ पर्यु॒रू वरां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - \[noun\], accusative, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

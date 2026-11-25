@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ spáśaḥ ← spáś- (nominal stem)
 
 sū́ryeṇa ← sū́rya- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒क्रा॒णासः॑ परी॒णहं॑ पृथि॒व्या हिर॑ण्येन म॒णिना॒ शुम्भ॑मानाः ।  
+न हि॑न्वा॒नास॑स्तितिरु॒स्त इन्द्रं॒ परि॒ स्पशो॑ अदधा॒त्सूर्ये॑ण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

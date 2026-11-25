@@ -4,6 +4,7 @@ devataa = "यमः"
 RShiH = "यमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -74,7 +75,12 @@ tā́ ← sá- ~ tá- (pronoun)
 
 yamé ← yamá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिक॑द्रुकेभिः पतति॒ षळु॒र्वीरेक॒मिद्बृ॒हत् ।  
+त्रि॒ष्टुब्गा॑य॒त्री छन्दां॑सि॒ सर्वा॒ ता य॒म आहि॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

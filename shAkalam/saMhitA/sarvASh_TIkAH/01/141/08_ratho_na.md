@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ tveṣáthāt ← tveṣátha- (nominal stem)
 
 váyaḥ ← ví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रथो॒ न या॒तः शिक्व॑भिः कृ॒तो द्यामङ्गे॑भिररु॒षेभि॑रीयते ।  
+आद॑स्य॒ ते कृ॒ष्णासो॑ दक्षि सू॒रयः॒ शूर॑स्येव त्वे॒षथा॑दीषते॒ वयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     food.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

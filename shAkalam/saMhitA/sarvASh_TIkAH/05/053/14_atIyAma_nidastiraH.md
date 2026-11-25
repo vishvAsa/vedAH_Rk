@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ sahá ← sahá (invariable)
 
 syā́ma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अती॑याम नि॒दस्ति॒रः स्व॒स्तिभि॑र्हि॒त्वाव॒द्यमरा॑तीः ।  
+वृ॒ष्ट्वी शं योराप॑ उ॒स्रि भे॑ष॒जं स्याम॑ मरुतः स॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “together; together; with; jointly; together; saha \[word\]; along.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

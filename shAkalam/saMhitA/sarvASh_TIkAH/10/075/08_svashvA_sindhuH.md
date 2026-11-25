@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "सिन्धुक्षित् प्रैयमेधः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -77,7 +78,12 @@ utá ← utá (invariable)
 
 vaste ← √vas- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वश्वा॒ सिन्धुः॑ सु॒रथा॑ सु॒वासा॑ हिर॒ण्ययी॒ सुकृ॑ता वा॒जिनी॑वती ।  
+ऊर्णा॑वती युव॒तिः सी॒लमा॑वत्यु॒ताधि॑ वस्ते सु॒भगा॑ मधु॒वृध॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

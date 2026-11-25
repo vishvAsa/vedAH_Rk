@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ citrárātī ← citrárāti- (nominal stem)
 
 gr̥ṇaté ← √gr̥̄- 1 (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता व॒ल्गू द॒स्रा पु॑रु॒शाक॑तमा प्र॒त्ना नव्य॑सा॒ वच॒सा वि॑वासे ।  
+या शंस॑ते स्तुव॒ते शम्भ॑विष्ठा बभू॒वतु॑र्गृण॒ते चि॒त्ररा॑ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “gift; bounty; favor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 riśā́dasaḥ ← riśā́das- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ये दि॒वः पृ॑थि॒व्या न ब॒र्हणा॒ त्मना॑ रिरि॒च्रे अ॒भ्रान्न सूर्यः॑ ।  
+पाज॑स्वन्तो॒ न वी॒राः प॑न॒स्यवो॑ रि॒शाद॑सो॒ न मर्या॑ अ॒भिद्य॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “celestial; brilliant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

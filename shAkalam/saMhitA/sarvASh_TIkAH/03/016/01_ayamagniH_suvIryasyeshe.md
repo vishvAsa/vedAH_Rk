@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उत्कीलः कात्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ svapatyásya ← svapatyá- (nominal stem)
 
 vr̥traháthānām ← vr̥trahátha- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यम॒ग्निः सु॒वीर्य॒स्येशे॑ म॒हः सौभ॑गस्य ।  
+रा॒य ई॑शे स्वप॒त्यस्य॒ गोम॑त॒ ईशे॑ वृत्र॒हथा॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “blow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

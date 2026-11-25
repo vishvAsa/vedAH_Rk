@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -89,7 +90,12 @@ páyaḥ ← páyas- (nominal stem)
 
 viśvā́hā ← viśvā́hā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वह्निः॑ पु॒त्रः पि॒त्रोः प॒वित्र॑वान्पु॒नाति॒ धीरो॒ भुव॑नानि मा॒यया॑ ।  
+धे॒नुं च॒ पृश्निं॑ वृष॒भं सु॒रेत॑सं वि॒श्वाहा॑ शु॒क्रं पयो॑ अस्य दुक्षत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

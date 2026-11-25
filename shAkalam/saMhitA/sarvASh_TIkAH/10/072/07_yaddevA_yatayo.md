@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -71,7 +72,12 @@ ajabhartana ← √bhr̥- (root)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्दे॑वा॒ यत॑यो यथा॒ भुव॑ना॒न्यपि॑न्वत ।  
+अत्रा॑ समु॒द्र आ गू॒ळ्हमा सूर्य॑मजभर्तन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ udríṇam ← udrín- (nominal stem)
 
 útsam ← útsa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रीणि॒ सरां॑सि॒ पृश्न॑यो दुदु॒ह्रे व॒ज्रिणे॒ मधु॑ ।  
+उत्सं॒ कव॑न्धमु॒द्रिण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “filled with water.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

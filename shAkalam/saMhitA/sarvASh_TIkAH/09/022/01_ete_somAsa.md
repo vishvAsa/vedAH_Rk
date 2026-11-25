@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ sárgāḥ ← sárga- (nominal stem)
 
 sr̥ṣṭā́ḥ ← √sr̥j- (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते सोमा॑स आ॒शवो॒ रथा॑ इव॒ प्र वा॒जिनः॑ ।  
+सर्गाः॑ सृ॒ष्टा अ॑हेषत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “impel; send; spur; stimulate; urge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

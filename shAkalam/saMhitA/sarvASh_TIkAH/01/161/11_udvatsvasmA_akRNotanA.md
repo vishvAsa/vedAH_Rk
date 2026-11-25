@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ r̥bhavaḥ ← r̥bhú- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒द्वत्स्व॑स्मा अकृणोतना॒ तृणं॑ नि॒वत्स्व॒पः स्व॑प॒स्यया॑ नरः ।  
+अगो॑ह्यस्य॒ यदस॑स्तना गृ॒हे तद॒द्येदमृ॑भवो॒ नानु॑ गच्छथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -60,7 +61,12 @@ ná ← ná (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒मस्य॒ हि प्र॑चेतस॒ ईशा॑नाशो रिशादसः ।  
+नेमा॑दित्या अ॒घस्य॒ यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “who; which; yat \[pronoun\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

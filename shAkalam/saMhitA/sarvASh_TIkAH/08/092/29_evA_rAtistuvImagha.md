@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ me ← ahám (pronoun)
 
 sácā ← sácā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा रा॒तिस्तु॑वीमघ॒ विश्वे॑भिर्धायि धा॒तृभिः॑ ।  
+अधा॑ चिदिन्द्र मे॒ सचा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “jointly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,7 +175,6 @@ And so, Indra, (you are) in partnership with me.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/28-29.md">
 <details><summary><h2>28-29 ...{Loading}...</h2></summary>
 
@@ -178,7 +182,6 @@ Geldner tr. rā́dhya- as “leicht zu gewinnen,” but I take it rather as “t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

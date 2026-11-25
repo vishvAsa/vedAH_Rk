@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "पुरउष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ indravā́hā ← indraváh- (nominal stem)
 
 vacoyújā ← vacoyúj- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒ञ्जन्ति॒ हरी॑ इषि॒रस्य॒ गाथ॑यो॒रौ रथ॑ उ॒रुयु॑गे ।  
+इ॒न्द्र॒वाहा॑ वचो॒युजा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “amalgamated; harnessed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

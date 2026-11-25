@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रजापतिर्वाच्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ svàrcanāḥ ← svàrcanas- (nominal stem)
 
 vípraḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि त्यं गावः॒ पय॑सा पयो॒वृधं॒ सोमं॑ श्रीणन्ति म॒तिभिः॑ स्व॒र्विद॑म् ।  
+ध॒नं॒ज॒यः प॑वते॒ कृत्व्यो॒ रसो॒ विप्रः॑ क॒विः काव्ये॑ना॒ स्व॑र्चनाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “delight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

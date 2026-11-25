@@ -4,6 +4,7 @@ devataa = "विश्वकर्मा"
 RShiH = "विश्वकर्मा भौवनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -83,7 +84,12 @@ maghávā ← maghávan- (nominal stem)
 
 sūríḥ ← sūrí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्व॑कर्मन्ह॒विषा॑ वावृधा॒नः स्व॒यं य॑जस्व पृथि॒वीमु॒त द्याम् ।  
+मुह्य॑न्त्व॒न्ये अ॒भितो॒ जना॑स इ॒हास्माकं॑ म॒घवा॑ सू॒रिर॑स्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

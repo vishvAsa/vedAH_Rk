@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -80,7 +81,12 @@ hávāmahe ← √hū- (root)
 
 vájrabāhum ← vájrabāhu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒धि॒क्राव्ण॑ इ॒ष ऊ॒र्जो म॒हो यदम॑न्महि म॒रुतां॒ नाम॑ भ॒द्रम् ।  
+स्व॒स्तये॒ वरु॑णं मि॒त्रम॒ग्निं हवा॑मह॒ इन्द्रं॒ वज्र॑बाहुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “arm; bāhu \[word\]; elbow; forefoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

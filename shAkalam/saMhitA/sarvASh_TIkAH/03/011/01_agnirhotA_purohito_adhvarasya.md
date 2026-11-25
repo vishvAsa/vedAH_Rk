@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ veda ← √vid- 2 (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्होता॑ पु॒रोहि॑तोऽध्व॒रस्य॒ विच॑र्षणिः ।  
+स वे॑द य॒ज्ञमा॑नु॒षक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “correctly; in sequence; punctually.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

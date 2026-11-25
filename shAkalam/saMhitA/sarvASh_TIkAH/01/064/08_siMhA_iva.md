@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ sám ← sám (invariable)
 
 śávasā ← śávas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सिं॒हा इ॑व नानदति॒ प्रचे॑तसः पि॒शा इ॑व सु॒पिशो॑ वि॒श्ववे॑दसः ।  
+क्षपो॒ जिन्व॑न्तः॒ पृष॑तीभिरृ॒ष्टिभिः॒ समित्स॒बाधः॒ शव॒साहि॑मन्यवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “anger; fury; rage; wrath.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

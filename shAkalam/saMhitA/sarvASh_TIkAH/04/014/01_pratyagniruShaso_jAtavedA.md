@@ -4,6 +4,7 @@ devataa = "अग्निर्लिङ्गोक्तदेवता व�
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्लिङ्गोक्तदेवता वा
@@ -86,7 +87,12 @@ yajñám ← yajñá- (nominal stem)
 
 yātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रत्य॒ग्निरु॒षसो॑ जा॒तवे॑दा॒ अख्य॑द्दे॒वो रोच॑माना॒ महो॑भिः ।  
+आ ना॑सत्योरुगा॒या रथे॑ने॒मं य॒ज्ञमुप॑ नो यात॒मच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

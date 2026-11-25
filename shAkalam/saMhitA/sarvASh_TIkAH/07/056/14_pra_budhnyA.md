@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ juṣadhvam ← √juṣ- (root)
 
 marutaḥ ← marút- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र बु॒ध्न्या॑ व ईरते॒ महां॑सि॒ प्र नामा॑नि प्रयज्यवस्तिरध्वम् ।  
+स॒ह॒स्रियं॒ दम्यं॑ भा॒गमे॒तं गृ॑हमे॒धीयं॑ मरुतो जुषध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

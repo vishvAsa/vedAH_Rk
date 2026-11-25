@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -89,7 +90,12 @@ tanū́bhiḥ ← tanū́- (nominal stem)
 
 tanvè ← tanū́- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अम॑न्दन्मा मरुतः॒ स्तोमो॒ अत्र॒ यन्मे॑ नरः॒ श्रुत्यं॒ ब्रह्म॑ च॒क्र ।  
+इन्द्रा॑य॒ वृष्णे॒ सुम॑खाय॒ मह्यं॒ सख्ये॒ सखा॑यस्त॒न्वे॑ त॒नूभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “body; self; own(a); person; form.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पथ्या स्वस्तिः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती त्रिष्टुब्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पथ्या स्वस्तिः
@@ -80,7 +81,12 @@ rāyé ← rayí- ~ rāy- (nominal stem)
 
 svastí ← svastí- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒स्ति नः॑ प॒थ्या॑सु॒ धन्व॑सु स्व॒स्त्य१॒॑प्सु वृ॒जने॒ स्व॑र्वति ।  
+स्व॒स्ति नः॑ पुत्रकृ॒थेषु॒ योनि॑षु स्व॒स्ति रा॒ये म॑रुतो दधातन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

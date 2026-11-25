@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sumnéṣu ← sumná- (nominal stem)
 
 yāmaya ← √yam- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भू॒याम॑ ते सुम॒तौ वा॒जिनो॑ व॒यं मा नः॑ स्तर॒भिमा॑तये ।  
+अ॒स्माञ्चि॒त्राभि॑रवताद॒भिष्टि॑भि॒रा नः॑ सु॒म्नेषु॑ यामय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “unfold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

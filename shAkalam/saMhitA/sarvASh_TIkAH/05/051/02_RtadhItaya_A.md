@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -54,7 +55,12 @@ jihváyā ← jihvā́- (nominal stem)
 
 pibata ← √pā- 2 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋत॑धीतय॒ आ ग॑त॒ सत्य॑धर्माणो अध्व॒रम् ।  
+अ॒ग्नेः पि॑बत जि॒ह्वया॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “tongue; tongue; jihvā \[word\]; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "अर्चन् हैरण्यस्तूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -89,7 +90,12 @@ aprathetām ← √prathⁱ- (root)
 
 dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्रा॑ समु॒द्रः स्क॑भि॒तो व्यौन॒दपां॑ नपात्सवि॒ता तस्य॑ वेद ।  
+अतो॒ भूरत॑ आ॒ उत्थि॑तं॒ रजोऽतो॒ द्यावा॑पृथि॒वी अ॑प्रथेताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “be known; expand; expand; boom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

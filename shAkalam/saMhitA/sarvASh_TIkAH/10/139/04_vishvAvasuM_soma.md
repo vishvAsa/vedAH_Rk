@@ -4,6 +4,7 @@ devataa = "विश्वावसुः"
 RShiH = "विश्वावसुर्देवगन्धर्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वावसुः
@@ -86,7 +87,12 @@ paridhī́n ← paridhí- (nominal stem)
 
 sū́ryasya ← sū́rya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒श्वाव॑सुं सोम गन्ध॒र्वमापो॑ ददृ॒शुषी॒स्तदृ॒तेना॒ व्या॑यन् ।  
+तद॒न्ववै॒दिन्द्रो॑ रारहा॒ण आ॑सां॒ परि॒ सूर्य॑स्य परि॒धीँर॑पश्यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

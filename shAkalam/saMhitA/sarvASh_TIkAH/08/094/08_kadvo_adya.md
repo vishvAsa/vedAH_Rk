@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "बिन्दुः पूतदक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ dasmávarcasām ← dasmávarcas- (nominal stem)
 
 tmánā ← tmán- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कद्वो॑ अ॒द्य म॒हानां॑ दे॒वाना॒मवो॑ वृणे ।  
+त्मना॑ च द॒स्मव॑र्चसाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
     waste; droppings; color.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,7 +172,6 @@ and by nature of wondrous luster?
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -175,7 +179,6 @@ I take the initial kád in both verses as a question particle, introducing a rhe
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

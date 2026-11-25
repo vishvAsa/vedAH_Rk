@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः पावकः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 sānasím ← sānasí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ष्क॒र्तार॑मध्व॒रस्य॒ प्रचे॑तसं॒ क्षय॑न्तं॒ राध॑सो म॒हः ।  
+रा॒तिं वा॒मस्य॑ सु॒भगां॑ म॒हीमिषं॒ दधा॑सि सान॒सिं र॒यिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

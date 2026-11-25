@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ puruṣṭuta ← puruṣṭutá- (nominal stem)
 
 yajñé ← yajñá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒रुत्वाँ॑ इन्द्र मीढ्वः॒ पिबा॒ सोमं॑ शतक्रतो ।  
+अ॒स्मिन्य॒ज्ञे पु॑रुष्टुत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “Indra; Vishnu; Agni.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

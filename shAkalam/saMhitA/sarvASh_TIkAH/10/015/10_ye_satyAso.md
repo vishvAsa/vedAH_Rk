@@ -4,6 +4,7 @@ devataa = "पितरः"
 RShiH = "शङ्खो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पितरः
@@ -83,7 +84,12 @@ pitŕ̥bhiḥ ← pitár- (nominal stem)
 
 pū́rvaiḥ ← pū́rva- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये स॒त्यासो॑ हवि॒रदो॑ हवि॒ष्पा इन्द्रे॑ण दे॒वैः स॒रथं॒ दधा॑नाः ।  
+आग्ने॑ याहि स॒हस्रं॑ देवव॒न्दैः परैः॒ पूर्वैः॑ पि॒तृभि॑र्घर्म॒सद्भिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “seated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

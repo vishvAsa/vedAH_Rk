@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ daívyasya ← daívya- (nominal stem)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गोम॒दश्वा॑व॒द्रथ॑वत्सु॒वीरं॑ च॒न्द्रव॒द्राधो॑ मरुतो ददा नः ।  
+प्रश॑स्तिं नः कृणुत रुद्रियासो भक्षी॒य वोऽव॑सो॒ दैव्य॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “divine; divine; celestial.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

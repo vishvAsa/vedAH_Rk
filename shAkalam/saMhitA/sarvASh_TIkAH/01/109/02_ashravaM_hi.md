@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -83,7 +84,12 @@ návyam ← návya- (nominal stem)
 
 stómam ← stóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्र॑वं॒ हि भू॑रि॒दाव॑त्तरा वां॒ विजा॑मातुरु॒त वा॑ घा स्या॒लात् ।  
+अथा॒ सोम॑स्य॒ प्रय॑ती यु॒वभ्या॒मिन्द्रा॑ग्नी॒ स्तोमं॑ जनयामि॒ नव्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “new; fresh.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -251,10 +256,6 @@ Because I have heard of you two as better givers of abundance than a  no-count s
 so with an offering of soma for you, o Indra and Agni, I beget a newer  praise.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The standard word for son-in-law is simply jā́mātar-; the ví- is presumably a disparaging prefix (see Geldner’s n. 2a), here rendered by “no-count.” śyālá- is found only here in the RV, but is reasonably well attested in later texts and has good MIA correspondents.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/109/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -262,7 +263,6 @@ These two vss. are parallel in structure, with an initial hí clause with a 1st 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

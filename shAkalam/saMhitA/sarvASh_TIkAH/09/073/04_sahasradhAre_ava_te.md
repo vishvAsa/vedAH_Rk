@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ santi ← √as- 1 (root)
 
 sétavaḥ ← sétu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्र॑धा॒रेऽव॒ ते सम॑स्वरन्दि॒वो नाके॒ मधु॑जिह्वा अस॒श्चतः॑ ।  
+अस्य॒ स्पशो॒ न नि मि॑षन्ति॒ भूर्ण॑यः प॒देप॑दे पा॒शिनः॑ सन्ति॒ सेत॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “dam; bridge; causeway; Setu; Om; landmark; shackle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -271,10 +276,6 @@ vault of heaven.
 His fervent spies do not blink: at every step there are snares that bind.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich seems clearly (at least to me) to contrast the ritual soma streams on earth (a) with those in heaven (b), though curiously it does not seem to have caught Lüders’s attention. That pl. asaścátaḥ elsewhere (IX.57.1, 62.28) explicitly modifies dhā́rāḥ ‘streams’ makes that identification in b quite likely. See also
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -289,7 +290,6 @@ See comm. on IX.41.1-2 on the similarity of phraseology in these two pairs of vs
 Geldner considers these vss. “doppelsinnig,” with ref. both to the priest-poets and the soma juices. This seems quite reasomable, and his individual notes are worth the attention.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

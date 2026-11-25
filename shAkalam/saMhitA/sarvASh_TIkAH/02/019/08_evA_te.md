@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sumnám ← sumná- (nominal stem)
 
 ū́rjam ← ū́rj- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा ते॑ गृत्सम॒दाः शू॑र॒ मन्मा॑व॒स्यवो॒ न व॒युना॑नि तक्षुः ।  
+ब्र॒ह्म॒ण्यन्त॑ इन्द्र ते॒ नवी॑य॒ इष॒मूर्जं॑ सुक्षि॒तिं सु॒म्नम॑श्युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उत्कीलः कात्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ dvéṣāṁsi ← dvéṣas- (nominal stem)
 
 kr̥dhi ← √kr̥- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ अ॒ग्नेऽम॑तये॒ मावीर॑तायै रीरधः ।  
+मागोता॑यै सहसस्पुत्र॒ मा नि॒देऽप॒ द्वेषां॒स्या कृ॑धि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

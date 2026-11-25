@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -63,7 +64,12 @@ kr̥ṇótana ← √kr̥- (root)
 
 sumahasaḥ ← sumahas- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तु॒चे तना॑य॒ तत्सु नो॒ द्राघी॑य॒ आयु॑र्जी॒वसे॑ ।  
+आदि॑त्यासः सुमहसः कृ॒णोत॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

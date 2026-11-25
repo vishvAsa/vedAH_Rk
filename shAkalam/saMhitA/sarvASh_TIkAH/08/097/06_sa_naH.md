@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ párīṇasā ← párīṇas- (nominal stem)
 
 rāyā́ ← rayí- ~ rāy- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नः॒ सोमे॑षु सोमपाः सु॒तेषु॑ शवसस्पते ।  
+मा॒दय॑स्व॒ राध॑सा सू॒नृता॑व॒तेन्द्र॑ रा॒या परी॑णसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “plenty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

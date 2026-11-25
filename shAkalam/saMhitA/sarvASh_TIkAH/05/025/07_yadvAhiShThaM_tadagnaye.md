@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ tvát ← tvám (pronoun)
 
 vā́jāḥ ← vā́ja- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वाहि॑ष्ठं॒ तद॒ग्नये॑ बृ॒हद॑र्च विभावसो ।  
+महि॑षीव॒ त्वद्र॒यिस्त्वद्वाजा॒ उदी॑रते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “go.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

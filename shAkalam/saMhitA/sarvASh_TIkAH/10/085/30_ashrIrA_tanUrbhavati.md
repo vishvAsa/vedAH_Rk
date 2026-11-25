@@ -4,6 +4,7 @@ devataa = "वधूवासःसंस्पर्शनिन्दा"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वधूवासःसंस्पर्शनिन्दा
@@ -71,7 +72,12 @@ abhidhítsate ← √dhā- 1 (root)
 
 svám ← svá- (pronoun)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒श्री॒रा त॒नूर्भ॑वति॒ रुश॑ती पा॒पया॑मु॒या ।  
+पति॒र्यद्व॒ध्वो॒३॒॑ वास॑सा॒ स्वमङ्ग॑मभि॒धित्स॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

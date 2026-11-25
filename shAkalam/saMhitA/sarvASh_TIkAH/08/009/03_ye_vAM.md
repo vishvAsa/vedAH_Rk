@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ evá ← evá (invariable)
 
 kāṇvásya ← kāṇvá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये वां॒ दंसां॑स्यश्विना॒ विप्रा॑सः परिमामृ॒शुः ।  
+ए॒वेत्का॒ण्वस्य॑ बोधतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
     attend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

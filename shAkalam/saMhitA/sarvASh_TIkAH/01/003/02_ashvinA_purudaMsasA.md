@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -54,7 +55,12 @@ gíraḥ ← gír- ~ gīr- (nominal stem)
 
 vánatam ← √vanⁱ- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वि॑ना॒ पुरु॑दंससा॒ नरा॒ शवी॑रया धि॒या ।  
+धिष्ण्या॒ वन॑तं॒ गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

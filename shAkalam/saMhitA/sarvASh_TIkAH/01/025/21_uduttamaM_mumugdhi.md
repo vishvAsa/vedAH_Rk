@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -63,7 +64,12 @@ adhamā́ni ← adhamá- (nominal stem)
 
 jīváse ← √jīv- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॑त्त॒मं मु॑मुग्धि नो॒ वि पाशं॑ मध्य॒मं चृ॑त ।  
+अवा॑ध॒मानि॑ जी॒वसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

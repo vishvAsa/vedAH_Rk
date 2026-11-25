@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ mā́kis ← mā́kis (invariable)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त वा॒ यः स॑हस्य प्रवि॒द्वान्मर्तो॒ मर्तं॑ म॒र्चय॑ति द्व॒येन॑ ।  
+अतः॑ पाहि स्तवमान स्तु॒वन्त॒मग्ने॒ माकि॑र्नो दुरि॒ताय॑ धायीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “\_”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -74,7 +75,12 @@ sákhīnām ← sákhi- (nominal stem)
 
 vr̥dháse ← √vr̥dh- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ मित्र सुदी॒तिभि॒र्वरु॑णश्च स॒धस्थ॒ आ ।  
+स्वे क्षये॑ म॒घोनां॒ सखी॑नां च वृ॒धसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

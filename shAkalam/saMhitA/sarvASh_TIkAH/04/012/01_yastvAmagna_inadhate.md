@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ krátvā ← krátu- (nominal stem)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्त्वाम॑ग्न इ॒नध॑ते य॒तस्रु॒क्त्रिस्ते॒ अन्नं॑ कृ॒णव॒त्सस्मि॒न्नह॑न् ।  
+स सु द्यु॒म्नैर॒भ्य॑स्तु प्र॒सक्ष॒त्तव॒ क्रत्वा॑ जातवेदश्चिकि॒त्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -279,14 +284,6 @@ Whoever will kindle you, Agni, with his offering ladle extended, whoever  will m
 let him, victorious, be superior in heavenly brilliance in accordance with  your purpose, o Jātavedas—he the observant one.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The form prasákṣat is implicitly taken as a finite form by Scarlatta (602-3) and Witzel Gotō, presumably as an s-aor. subj. In Scarlatta’s tr. it is parallel to the impv. abhy àstu (“so sei es, an Herrlichkeit(en) überlegen sein [und] vorherrschen”), but the verbal accent makes trouble for this main clause interpr. (It could, I suppose, bear a “contrastive” accent.) Witzel Gotō make it a subordinate cl. without overt marking (“indem er vorwärts siegt”), which would account for the accent. Nonetheless it seems best to take the form as a participle. Grassmann identifies it as a neut.; if this is so, it would have to be an example of the neut. used adverbially. This seems the analysis presupposed by Oldenberg’s (SBE) tr. ‘victoriously’. However, the simplest solution is given in AiG II.2.162 (fld. by Narten, Sig.Aor., 265): it is a masc. nom. sg. with the weak participial suffix appropriate to verbal stems that have weak 3rd pl. endings.
-
-The last word of the verse, the perf. part. cikitvā́n, is characteristically used elsewhere of Agni, in absolute value. Indeed, the same pāda ending jātavedaś cikitvā́n qualifies Agni in nearby IV.3.8 and IV.5.12 (see also cikitvā́n of Agni in IV.8.4). However, in our vs. grammatically this nom. sg. must modify the worshiper, not Agni (pace Renou, who manages to attach it to the preceding voc.: “ô Jātavedas, (dieu) qui comprends”). I think rather that the application of this standard epithet of Agni to Agni’s devotee shows the same closed loop discussed with regard to the immediately preceding hymn (see comm. ad IV.11.2), where the worshiper shares qualities of the god, which he receives from the god. There may also be a slight pun: ‘observant’ means one thing for Agni -- he watches over everything -- but another for the mortal who attends on him: ‘observant’ in English can refer to someone who ‘observes’, that is, ‘faithfully carries out’, the prescribed rites.
-
-In the published translation I construe táva krátvā with the preceding pāda: may the man succeed “in accordance with your purpose,” but I now wonder if it is not another indication of the closed loop of reciprocity: the mortal worshiper is observant like Agni because it is Agni’s will or purpose that he should be. Of course it can be applicable to both pādas.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -294,7 +291,6 @@ On the parallel pres. and pf. subjunctives in these vss. see comm. ad
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ dāśúṣe ← dāśváṁs- (nominal stem)
 
 jánāya ← jána- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं होता॑रमध्व॒रस्य॒ प्रचे॑तसं॒ वह्निं॑ दे॒वा अ॑कृण्वत ।  
+दधा॑ति॒ रत्नं॑ विध॒ते सु॒वीर्य॑म॒ग्निर्जना॑य दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ r̥cyante ← √r̥c- (root)
 
 yuvábhyām ← tvám (pronoun)  
 {case:INS, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वां॑ य॒ज्ञो ना॑सत्या ह॒विष्मा॑न्कृ॒तब्र॑ह्मा सम॒र्यो॒३॒॑ भवा॑ति ।  
+उप॒ प्र या॑तं॒ वर॒मा वसि॑ष्ठमि॒मा ब्रह्मा॑ण्यृच्यन्ते यु॒वभ्या॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     buck; young.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निर्जातवेदाः"
 RShiH = "श्येन आग्नेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्जातवेदाः
@@ -54,7 +55,12 @@ mahī́m ← máh- (nominal stem)
 
 suṣṭutím ← suṣṭutí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य प्र जा॒तवे॑दसो॒ विप्र॑वीरस्य मी॒ळ्हुषः॑ ।  
+म॒हीमि॑यर्मि सुष्टु॒तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “hymn; praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

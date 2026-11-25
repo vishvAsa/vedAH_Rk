@@ -4,6 +4,7 @@ devataa = "स्वनयस्य दानस्तुतिः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वनयस्य दानस्तुतिः
@@ -74,7 +75,12 @@ prá ← prá (invariable)
 
 tirante ← √tr̥̄- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दक्षि॑णावता॒मिदि॒मानि॑ चि॒त्रा दक्षि॑णावतां दि॒वि सूर्या॑सः ।  
+दक्षि॑णावन्तो अ॒मृतं॑ भजन्ते॒ दक्षि॑णावन्तः॒ प्र ति॑रन्त॒ आयुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

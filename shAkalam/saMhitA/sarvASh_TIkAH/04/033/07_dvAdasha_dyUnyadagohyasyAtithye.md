@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -86,7 +87,12 @@ nimnám ← nimná- (nominal stem)
 
 óṣadhīḥ ← óṣadhī- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वाद॑श॒ द्यून्यदगो॑ह्यस्याति॒थ्ये रण॑न्नृ॒भवः॑ स॒सन्तः॑ ।  
+सु॒क्षेत्रा॑कृण्व॒न्नन॑यन्त॒ सिन्धू॒न्धन्वाति॑ष्ठ॒न्नोष॑धीर्नि॒म्नमापः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

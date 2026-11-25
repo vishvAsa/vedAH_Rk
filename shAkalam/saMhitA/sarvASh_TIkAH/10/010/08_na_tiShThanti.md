@@ -4,6 +4,7 @@ devataa = "यमी वैवस्वती"
 RShiH = "यमो वैवस्वतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमी वैवस्वती
@@ -98,7 +99,12 @@ ví ← ví (invariable)
 
 vr̥ha ← √vr̥h- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न ति॑ष्ठन्ति॒ न नि मि॑षन्त्ये॒ते दे॒वानां॒ स्पश॑ इ॒ह ये चर॑न्ति ।  
+अ॒न्येन॒ मदा॑हनो याहि॒ तूयं॒ तेन॒ वि वृ॑ह॒ रथ्ये॑व च॒क्रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
     group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

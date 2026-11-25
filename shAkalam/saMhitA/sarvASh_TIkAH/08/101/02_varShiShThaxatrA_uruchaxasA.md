@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -71,7 +72,12 @@ sākám ← sākám (invariable)
 
 sū́ryasya ← sū́rya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वर्षि॑ष्ठक्षत्रा उरु॒चक्ष॑सा॒ नरा॒ राजा॑ना दीर्घ॒श्रुत्त॑मा ।  
+ता बा॒हुता॒ न दं॒सना॑ रथर्यतः सा॒कं सूर्य॑स्य र॒श्मिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “beam; rein; sunbeam; shininess; cord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

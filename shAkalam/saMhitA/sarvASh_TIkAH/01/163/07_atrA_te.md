@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -95,7 +96,12 @@ grásiṣṭhaḥ ← grásiṣṭha- (nominal stem)
 
 óṣadhīḥ ← óṣadhī- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्रा॑ ते रू॒पमु॑त्त॒मम॑पश्यं॒ जिगी॑षमाणमि॒ष आ प॒दे गोः ।  
+य॒दा ते॒ मर्तो॒ अनु॒ भोग॒मान॒ळादिद्ग्रसि॑ष्ठ॒ ओष॑धीरजीगः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “wake; watch; awaken; wake up; oversee.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -273,12 +278,6 @@ Here I saw your highest form, seeking to win refreshments in the track  of the c
 When the mortal attained the benefit from you, just after that the  foremost devourer of plants [=Agni] awakened (you?).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-There are multiple conflicting interpretations of the personnel and import of this verse; I will not add another.
-
-Pāda d raises several questions: 1) is óṣadhīḥ to be construed with grásiṣṭḥaḥ (so, e.g., Geldner, Doniger, and me) or with ajīgaḥ, 2) who is the referent of grásiṣṭhaḥ, and 3) what person is ajīgaḥ. I take the plants with the splv. (For acc. rection with - iṣṭha- forms, cf., e.g., VI.37.5 vṛtráṃ hániṣṭhaḥ.) Within the RVic domain of discourse, the greatest devourer of plants is likely fire/Agni, the answer, therefore, to 2). With that identification in place, I take ajīgaḥ as 3rd sg. For an opposite interpr. on all 3 counts, cf. Krick’s “… dann wahrlich hast du, der Gefrässigste, die Pflanzen erweckt (verschlungen?).” The subject is the horse=sun, addressed in the 2nd ps. She takes the verb as suggesting a 2ndary pun on √gṝ ‘swallow’, and considers the larger sense to be that the rising sun (in spring) awakes the plant world to new life, and is at the same time their “Fresser.” This builds a lot of superstructure into the vs. In my opinion, the pāda simply expresses the conceit that the kindling of the ritual fire causes the sun to rise; assuming, with Krick et al, that “you” is the horse=sun, it can be the object of ajīgaḥ, with Agni as the subj.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/163/05-07.md">
 <details><summary><h2>05-07 ...{Loading}...</h2></summary>
 
@@ -286,7 +285,6 @@ Note the apaśyam ‘I saw’ in all three verses (5c, 6c, 7a): the poet bears w
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

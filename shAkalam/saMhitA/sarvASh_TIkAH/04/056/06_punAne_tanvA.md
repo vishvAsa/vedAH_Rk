@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -57,7 +58,12 @@ sanā́t ← sanā́t (invariable)
 
 ūhyā́the ← √vāh- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒ना॒ने त॒न्वा॑ मि॒थः स्वेन॒ दक्षे॑ण राजथः ।  
+ऊ॒ह्याथे॑ स॒नादृ॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "यूपः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यूपः
@@ -83,7 +84,12 @@ vā́cam ← vā́c- (nominal stem)
 
 vípraḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जा॒तो जा॑यते सुदिन॒त्वे अह्नां॑ सम॒र्य आ वि॒दथे॒ वर्ध॑मानः ।  
+पु॒नन्ति॒ धीरा॑ अ॒पसो॑ मनी॒षा दे॑व॒या विप्र॒ उदि॑यर्ति॒ वाच॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
     assurance; spell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

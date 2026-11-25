@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -66,7 +67,12 @@ dvayúm ← dvayú- (nominal stem)
 
 vasavaḥ ← vásu- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पा॒क॒त्रा स्थ॑न देवा हृ॒त्सु जा॑नीथ॒ मर्त्य॑म् ।  
+उप॑ द्व॒युं चाद्व॑युं च वसवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “good; good; benign; vasu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

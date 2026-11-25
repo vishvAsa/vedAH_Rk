@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 sacate ← √sac- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ध्मं यस्ते॑ ज॒भर॑च्छश्रमा॒णो म॒हो अ॑ग्ने॒ अनी॑क॒मा स॑प॒र्यन् ।  
+स इ॑धा॒नः प्रति॑ दो॒षामु॒षासं॒ पुष्य॑न्र॒यिं स॑चते॒ घ्नन्न॒मित्रा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “enemy; foe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -261,12 +266,6 @@ Whoever will labor to bring fuel to you, rendering service to the face of  the g
 he, kindling (you) every evening, every dawn, follows along, thriving in  his wealth, smashing his foes.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The overlapping identities of Agni and his worshiper are indirectly signaled in this vs. Although the sá of c must be correlative with yáḥ in a and refer to the human, some of the phraseology used of him in cd matches that used of Agni elsewhere. The common med. part. idhāná- is almost always intrans./pass. modifying Agni (‘[being] kindled’), but here it must be transitive with the worshiper as subject.
-
-(There are a few other undoubted transitive occurrences: I.143.7, VII.9.6.) The combination of this participle and a form of púṣya- as here, with Agni as subj., is found in V.26.6 samidhānáḥ sahasrajid ágne dhármāṇi puṣyasi. Similarly sacate in d seems to match sácase at the end of the last hymn (IV.11.6), but Agni was the subject of that verb. The point here is that, though the second hemistich must in fact refer to the mortal worshiper, some of the phraseology invites a superimposition of Agni.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -274,7 +273,6 @@ On the parallel pres. and pf. subjunctives in these vss. see comm. ad
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ devám ← devá- (nominal stem)
 
 r̥tvíjam ← r̥tvíj- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न्य१॒॑ग्निं जा॒तवे॑दसं होत्र॒वाहं॒ यवि॑ष्ठ्यम् ।  
+दधा॑ता दे॒वमृ॒त्विज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “ṛtvij; ṛtvij \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

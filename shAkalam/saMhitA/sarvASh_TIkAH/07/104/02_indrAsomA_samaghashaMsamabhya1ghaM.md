@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ रक्षोहणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ रक्षोहणौ
@@ -83,7 +84,12 @@ dvéṣaḥ ← dvéṣas- (nominal stem)
 
 kimīdíne ← kimīdín- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑सोमा॒ सम॒घशं॑सम॒भ्य१॒॑घं तपु॑र्ययस्तु च॒रुर॑ग्नि॒वाँ इ॑व ।  
+ब्र॒ह्म॒द्विषे॑ क्र॒व्यादे॑ घो॒रच॑क्षसे॒ द्वेषो॑ धत्तमनवा॒यं कि॑मी॒दिने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “Kimīdin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

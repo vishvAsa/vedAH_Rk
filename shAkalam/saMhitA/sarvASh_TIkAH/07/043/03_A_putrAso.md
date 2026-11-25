@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ mŕ̥dhaḥ ← mŕ̥dhas- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ पु॒त्रासो॒ न मा॒तरं॒ विभृ॑त्राः॒ सानौ॑ दे॒वासो॑ ब॒र्हिषः॑ सदन्तु ।  
+आ वि॒श्वाची॑ विद॒थ्या॑मन॒क्त्वग्ने॒ मा नो॑ दे॒वता॑ता॒ मृध॑स्कः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

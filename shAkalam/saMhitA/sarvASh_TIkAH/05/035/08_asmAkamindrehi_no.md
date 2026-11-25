@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रभूवसुराङ्गिरसः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -85,7 +86,12 @@ manāmahe ← √man- 1 (root)
 
 stómam ← stóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माक॑मि॒न्द्रेहि॑ नो॒ रथ॑मवा॒ पुरं॑ध्या ।  
+व॒यं श॑विष्ठ॒ वार्यं॑ दि॒वि श्रवो॑ दधीमहि दि॒वि स्तोमं॑ मनामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

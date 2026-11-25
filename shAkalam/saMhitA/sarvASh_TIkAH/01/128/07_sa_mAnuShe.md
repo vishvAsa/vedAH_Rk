@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -119,7 +120,13 @@ dhūrtéḥ ← dhūrtí- (nominal stem)
 
 maháḥ ← máh- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स मानु॑षे वृ॒जने॒ शन्त॑मो हि॒तो॒३॒॑ऽग्निर्य॒ज्ञेषु॒ जेन्यो॒ न वि॒श्पतिः॑ प्रि॒यो य॒ज्ञेषु॑ वि॒श्पतिः॑ ।  
+स ह॒व्या मानु॑षाणामि॒ळा कृ॒तानि॑ पत्यते ।  
+स न॑स्त्रासते॒ वरु॑णस्य धू॒र्तेर्म॒हो दे॒वस्य॑ धू॒र्तेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -311,7 +318,6 @@ _________
 - “fraud; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

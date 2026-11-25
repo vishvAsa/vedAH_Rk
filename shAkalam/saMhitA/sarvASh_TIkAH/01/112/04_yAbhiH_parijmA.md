@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ u ← u (invariable)
 
 ūtíbhiḥ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+याभिः॒ परि॑ज्मा॒ तन॑यस्य म॒ज्मना॑ द्विमा॒ता तू॒र्षु त॒रणि॑र्वि॒भूष॑ति ।  
+याभि॑स्त्रि॒मन्तु॒रभ॑वद्विचक्ष॒णस्ताभि॑रू॒ षु ऊ॒तिभि॑रश्वि॒ना ग॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

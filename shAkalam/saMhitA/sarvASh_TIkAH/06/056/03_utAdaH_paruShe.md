@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -60,7 +61,12 @@ ní ← ní (invariable)
 
 rathī́tamaḥ ← rathī́tama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तादः प॑रु॒षे गवि॒ सूर॑श्च॒क्रं हि॑र॒ण्यय॑म् ।  
+न्यै॑रयद्र॒थीत॑मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,12 +172,6 @@ And yonder golden wheel of the Sun
 he set down in the “gray cow”—he the best charioteer.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As noted in the published introduction, the content of this vs. is quite baffling, though the syntax and, for the most part, the lexicon are not. Geldner (n. 3) pronounces it a “dunkler Sagenzug,” and I can only agree. I have argued that it is connected with the even more baffling VI.48.17 (see comm. there) and that these two passages associate Pūṣan with the “tearing off the Sun’s wheel” myth that remains tantalizingly out of our reach. But this must remain speculation.
-
-The paruṣé gávi tr., “in ‘the gray cow’,” is of course masc., so should perhaps be “gray bull,” though I meant cow=bovine. The phrase is reminiscent of V.27.5 paruṣā́ḥ … ukṣánaḥ “gray bulls/oxen,” but that phrase is in a dānastuti and does not help us with the metaphor here. For another possible - if extremely tenuous - connection see comm. ad X.5.5.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/056/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -180,7 +179,6 @@ There is general consensus (Geldner, Renou, Klein loc. cit.) that Indra is the s
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ mádhvaḥ ← mádhu- (nominal stem)
 
 pavate ← √pū- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒ष्ट॒म्भो दि॒वो ध॒रुणः॑ पृथि॒व्या विश्वा॑ उ॒त क्षि॒तयो॒ हस्ते॑ अस्य ।  
+अस॑त्त॒ उत्सो॑ गृण॒ते नि॒युत्वा॒न्मध्वो॑ अं॒शुः प॑वत इन्द्रि॒याय॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     penis; manfulness; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

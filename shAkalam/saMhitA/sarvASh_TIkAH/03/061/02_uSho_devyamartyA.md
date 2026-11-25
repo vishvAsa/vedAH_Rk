@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ pr̥thupā́jasaḥ ← pr̥thupā́jas- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उषो॑ दे॒व्यम॑र्त्या॒ वि भा॑हि च॒न्द्रर॑था सू॒नृता॑ ई॒रय॑न्ती ।  
+आ त्वा॑ वहन्तु सु॒यमा॑सो॒ अश्वा॒ हिर॑ण्यवर्णां पृथु॒पाज॑सो॒ ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “who; which; yat \[pronoun\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

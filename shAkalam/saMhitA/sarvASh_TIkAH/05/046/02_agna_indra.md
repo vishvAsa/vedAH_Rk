@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिक्षत्र आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ pūṣā́ ← pūṣán- (nominal stem)
 
 sárasvati ← sárasvant- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्न॒ इन्द्र॒ वरु॑ण॒ मित्र॒ देवाः॒ शर्धः॒ प्र य॑न्त॒ मारु॑तो॒त वि॑ष्णो ।  
+उ॒भा नास॑त्या रु॒द्रो अध॒ ग्नाः पू॒षा भगः॒ सर॑स्वती जुषन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

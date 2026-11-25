@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पुरुमीळ्हाजमीळ्हौ सौहोत्रौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ rátnam ← rátna- (nominal stem)
 
 vidhaté ← √vidh- (root)  
 {case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हि॒र॒ण्यये॑न पुरुभू॒ रथे॑ने॒मं य॒ज्ञं ना॑स॒त्योप॑ यातम् ।  
+पिबा॑थ॒ इन्मधु॑नः सो॒म्यस्य॒ दध॑थो॒ रत्नं॑ विध॒ते जना॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

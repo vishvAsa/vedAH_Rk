@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ naḥ ← ahám (pronoun)
 
 rákṣa ← √rakṣⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नः॑ पा॒ह्यंह॑सो॒ जात॑वेदो अघाय॒तः ।  
+रक्षा॑ णो ब्रह्मणस्कवे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
     guru; Brahma.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

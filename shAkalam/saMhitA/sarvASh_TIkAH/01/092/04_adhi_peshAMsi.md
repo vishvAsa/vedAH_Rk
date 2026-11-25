@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -98,7 +99,12 @@ ví ← ví (invariable)
 
 vrajám ← vrajá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधि॒ पेशां॑सि वपते नृ॒तूरि॒वापो॑र्णुते॒ वक्ष॑ उ॒स्रेव॒ बर्ज॑हम् ।  
+ज्योति॒र्विश्व॑स्मै॒ भुव॑नाय कृण्व॒ती गावो॒ न व्र॒जं व्यु१॒॑षा आ॑व॒र्तमः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     ignorance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

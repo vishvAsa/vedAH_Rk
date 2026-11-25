@@ -4,6 +4,7 @@ devataa = "उर्वशी"
 RShiH = "पुरूरवा ऐळः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उर्वशी
@@ -83,7 +84,12 @@ tapyate ← √tap- (root)
 
 vartasva ← √vr̥t- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न्त॒रि॒क्ष॒प्रां रज॑सो वि॒मानी॒मुप॑ शिक्षाम्यु॒र्वशीं॒ वसि॑ष्ठः ।  
+उप॑ त्वा रा॒तिः सु॑कृ॒तस्य॒ तिष्ठा॒न्नि व॑र्तस्व॒ हृद॑यं तप्यते मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

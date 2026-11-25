@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -54,7 +55,12 @@ kármaṇā ← kárman- (nominal stem)
 
 sākám ← sākám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ग्नी नव॒तिं पुरो॑ दा॒सप॑त्नीरधूनुतम् ।  
+सा॒कमेके॑न॒ कर्म॑णा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     process; duty; therapy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

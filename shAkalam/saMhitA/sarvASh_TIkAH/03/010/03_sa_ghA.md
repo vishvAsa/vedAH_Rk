@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -70,7 +71,12 @@ puṣyati ← √puṣ- (root)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स घा॒ यस्ते॒ ददा॑शति स॒मिधा॑ जा॒तवे॑दसे ।  
+सो अ॑ग्ने धत्ते सु॒वीर्यं॒ स पु॑ष्यति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “boom; grow; promote; foster.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

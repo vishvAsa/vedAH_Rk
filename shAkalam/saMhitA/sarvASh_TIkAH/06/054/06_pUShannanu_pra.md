@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -60,7 +61,12 @@ stuvatā́m ← √stu- (root)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पूष॒न्ननु॒ प्र गा इ॑हि॒ यज॑मानस्य सुन्व॒तः ।  
+अ॒स्माकं॑ स्तुव॒तामु॒त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

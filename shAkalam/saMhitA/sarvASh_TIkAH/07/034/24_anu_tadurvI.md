@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॒ तदु॒र्वी रोद॑सी जिहाता॒मनु॑ द्यु॒क्षो वरु॑ण॒ इन्द्र॑सखा ।  
+अनु॒ विश्वे॑ म॒रुतो॒ ये स॒हासो॑ रा॒यः स्या॑म ध॒रुणं॑ धि॒यध्यै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

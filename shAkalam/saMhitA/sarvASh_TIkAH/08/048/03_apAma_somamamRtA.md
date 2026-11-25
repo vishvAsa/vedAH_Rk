@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -86,7 +87,12 @@ mártyasya ← mártya- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपा॑म॒ सोम॑म॒मृता॑ अभू॒माग॑न्म॒ ज्योति॒रवि॑दाम दे॒वान् ।  
+किं नू॒नम॒स्मान्कृ॑णव॒दरा॑तिः॒ किमु॑ धू॒र्तिर॑मृत॒ मर्त्य॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "वर्धमाना गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ suṣṭutím ← suṣṭutí- (nominal stem)
 
 víprasya ← vípra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं दू॒तो अम॑र्त्य॒ आ व॑हा॒ दैव्यं॒ जन॑म् ।  
+शृ॒ण्वन्विप्र॑स्य सुष्टु॒तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “hymn; praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,10 +164,6 @@ You, as immortal messenger—convey the divine race hither,
 when you hear the lovely praise of the inspired poet.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The “divine race” (daívyaṃ jánam) here may resonate with the “human race, race stemming from Manu” (mā́nuṣe jáne) in 1c, though they belong to different tṛcas.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -170,7 +171,6 @@ As noted in the published introduction, each vs. in this tṛca begins with a fo
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

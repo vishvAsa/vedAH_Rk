@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ trī́ṇi ← trí- (nominal stem)
 
 vark ← √vr̥j- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूरीदिन्द्र॑ उ॒दिन॑क्षन्त॒मोजोऽवा॑भिन॒त्सत्प॑ति॒र्मन्य॑मानम् ।  
+त्वा॒ष्ट्रस्य॑ चिद्वि॒श्वरू॑पस्य॒ गोना॑माचक्रा॒णस्त्रीणि॑ शी॒र्षा परा॑ वर्क् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - \[verb\], singular, Aorist inj. (proh.)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

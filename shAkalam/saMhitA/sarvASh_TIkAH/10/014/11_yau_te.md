@@ -4,6 +4,7 @@ devataa = "श्वानौ"
 RShiH = "यमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्वानौ
@@ -89,7 +90,12 @@ dhehi ← √dhā- 1 (root)
 
 svastí ← svastí- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यौ ते॒ श्वानौ॑ यम रक्षि॒तारौ॑ चतुर॒क्षौ प॑थि॒रक्षी॑ नृ॒चक्ष॑सौ ।  
+ताभ्या॑मेनं॒ परि॑ देहि राजन्त्स्व॒स्ति चा॑स्मा अनमी॒वं च॑ धेहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

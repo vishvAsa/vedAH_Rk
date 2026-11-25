@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ dívā ← dívā (invariable)
 
 náktam ← nákt- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नः॑ पा॒ह्यंह॑सो॒ दोषा॑वस्तरघाय॒तः ।  
+दिवा॒ नक्त॑मदाभ्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “trustworthy; disabused(p).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

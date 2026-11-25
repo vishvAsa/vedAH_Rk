@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ rayíḥ ← rayí- ~ rāy- (nominal stem)
 
 tásmin ← sá- ~ tá- (pronoun)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॒ भरा॒दन्नि॑यते चि॒दन्नं॑ नि॒शिष॑न्म॒न्द्रमति॑थिमु॒दीर॑त् ।  
+आ दे॑व॒युरि॒नध॑ते दुरो॒णे तस्मि॑न्र॒यिर्ध्रु॒वो अ॑स्तु॒ दास्वा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

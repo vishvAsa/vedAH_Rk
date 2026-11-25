@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ takṣam ← √takṣ- (root)
 
 vácāṁsi ← vácas- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपू॑र्व्या पुरु॒तमा॑न्यस्मै म॒हे वी॒राय॑ त॒वसे॑ तु॒राय॑ ।  
+वि॒र॒प्शिने॑ व॒ज्रिणे॒ शन्त॑मानि॒ वचां॑स्या॒सा स्थवि॑राय तक्षम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “produce; shape; fashion; chisel; invent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ रक्षोहणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ रक्षोहणौ
@@ -95,7 +96,12 @@ jinvatam ← √ji- 2 ~ jinv- (root)
 
 nr̥pátī ← nr̥páti- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑सोमा॒ परि॑ वां भूतु वि॒श्वत॑ इ॒यं म॒तिः क॒क्ष्याश्वे॑व वा॒जिना॑ ।  
+यां वां॒ होत्रां॑ परिहि॒नोमि॑ मे॒धये॒मा ब्रह्मा॑णि नृ॒पती॑व जिन्वतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “enliven; animate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

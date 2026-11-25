@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -92,7 +93,12 @@ svā́ ← svá- (pronoun)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नो॑ गो॒पाः प॑थि॒कृद्वि॑चक्ष॒णस्तव॑ व्र॒ताय॑ म॒तिभि॑र्जरामहे ।  
+बृह॑स्पते॒ यो नो॑ अ॒भि ह्वरो॑ द॒धे स्वा तं म॑र्मर्तु दु॒च्छुना॒ हर॑स्वती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

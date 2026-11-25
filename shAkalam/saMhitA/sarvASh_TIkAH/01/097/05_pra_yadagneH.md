@@ -4,6 +4,7 @@ devataa = "अग्निरग्निः शुचिर्वा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निः शुचिर्वा
@@ -63,7 +64,12 @@ naḥ ← ahám (pronoun)
 
 śóśucat ← √śuc- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र यद॒ग्नेः सह॑स्वतो वि॒श्वतो॒ यन्ति॑ भा॒नवः॑ ।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “sin; evil; impurity; agha \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,7 +175,6 @@ When the beams of powerful Agni go forth in all directions
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/097/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
@@ -178,7 +182,6 @@ These three middle verses, before the refrain becomes reintegrated into the vers
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

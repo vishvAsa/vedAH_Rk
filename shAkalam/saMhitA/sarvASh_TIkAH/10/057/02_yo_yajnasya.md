@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -57,7 +58,12 @@ naśīmahi ← √naś- 1 (root)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो य॒ज्ञस्य॑ प्र॒साध॑न॒स्तन्तु॑र्दे॒वेष्वात॑तः ।  
+तमाहु॑तं नशीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “reach; achieve; enter (a state); reach.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "आसङ्गस्य दानस्तुतिः"
 RShiH = "आसङ्गः प्लायोगिः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आसङ्गस्य दानस्तुतिः
@@ -74,7 +75,12 @@ víśvāni ← víśva- (nominal stem)
 
 svanádrathaḥ ← svanádratha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य ऋ॒ज्रा मह्यं॑ माम॒हे स॒ह त्व॒चा हि॑र॒ण्यया॑ ।  
+ए॒ष विश्वा॑न्य॒भ्य॑स्तु॒ सौभ॑गास॒ङ्गस्य॑ स्व॒नद्र॑थः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

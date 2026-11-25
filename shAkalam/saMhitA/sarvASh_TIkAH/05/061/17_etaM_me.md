@@ -4,6 +4,7 @@ devataa = "रथवीतिर्दाल्भ्यः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रथवीतिर्दाल्भ्यः
@@ -63,7 +64,12 @@ iva ← iva (invariable)
 
 rathī́ḥ ← rathī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तं मे॒ स्तोम॑मूर्म्ये दा॒र्भ्याय॒ परा॑ वह ।  
+गिरो॑ देवि र॒थीरि॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -171,10 +176,6 @@ This praise of mine, o Night, carry off to Dārbhya,
 (my) hymns (carry away) like a charioteer, o goddess.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I do not understand why the goddess Night acts as the intermediary between the poet and his patron; see Geldner’s n. 17-19, which doesn’t seem to me entirely satisfactory.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/17-19.md">
 <details><summary><h2>17-19 ...{Loading}...</h2></summary>
 
@@ -182,7 +183,6 @@ As noted in the published introduction, the patron’s name Rathavīti (‘pursu
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः (अभिशापः)"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (अभिशापः)
@@ -77,7 +78,12 @@ phénam ← phéna- (nominal stem)
 
 práyastā ← √yas- (root)  
 {case:NOM, gender:F, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒र॒शुं चि॒द्वि त॑पति शिम्ब॒लं चि॒द्वि वृ॑श्चति ।  
+उ॒खा चि॑दिन्द्र॒ येष॑न्ती॒ प्रय॑स्ता॒ फेन॑मस्यति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “shoot; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -210,12 +215,6 @@ o Indra.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Oldenberg, I reject the interpr. of cid in abc as a simile particle (contra Sāyaṇa and Geldner); in all three cases the cid can be interpreted in its usual ‘even, even though, just’ sense. However, I differ from Oldenberg on the purport of the vs. He thinks it describes concrete events, possibly as a “Beschreibung von Zauberhandlungen,” while I think it contains two figurative descriptions of the impotence of the enemy -- in this I am closer to Geldner’s notion of similes than to Oldenberg I also find myself in the odd position of being in general agreement with Griffith’s interpr. (based on Ludwig’s).
-
-Each hemistich describes an action involving great effort and drama that produces trivial and insubstantial results. In ab an ax is thoroughly heated, but this formidable weapon only cuts off the blossom of a silk cotton tree. (That silk cotton tree flowers are a vivid red might remind the audience of the real blood that might have been shed by a blazing hot ax.) In cd a pot, also heated, is boiling (yéṣantī), indeed has boiled over (práyastā), but all it produces is foam.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/21-24.md">
 <details><summary><h2>21-24 ...{Loading}...</h2></summary>
 
@@ -224,7 +223,6 @@ As noted in the published introduction, these vss. are traditionally taken as de
 The first vs. of this sequence (21) is quite straightforward; vs. 22 is more complex, but I feel fairly confident in its interpr. But vss. 23-24 are very difficult, and my interpr. is correspondingly quite provisional.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

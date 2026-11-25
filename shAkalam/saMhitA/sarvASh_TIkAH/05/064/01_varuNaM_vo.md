@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -68,7 +69,12 @@ jaganvā́ṁsā ← √gam- (root)
 
 svàrṇaram ← svàrṇara- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वरु॑णं वो रि॒शाद॑समृ॒चा मि॒त्रं ह॑वामहे ।  
+परि॑ व्र॒जेव॑ बा॒ह्वोर्ज॑ग॒न्वांसा॒ स्व॑र्णरम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

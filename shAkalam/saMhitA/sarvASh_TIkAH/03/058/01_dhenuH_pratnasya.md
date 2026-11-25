@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ stómaḥ ← stóma- (nominal stem)
 
 uṣásaḥ ← uṣás- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धे॒नुः प्र॒त्नस्य॒ काम्यं॒ दुहा॑ना॒न्तः पु॒त्रश्च॑रति॒ दक्षि॑णायाः ।  
+आ द्यो॑त॒निं व॑हति शु॒भ्रया॑मो॒षसः॒ स्तोमो॑ अ॒श्विना॑वजीगः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “wake; watch; awaken; wake up; oversee.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

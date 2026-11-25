@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -98,7 +99,12 @@ ná ← ná (invariable)
 
 paṇáyaḥ ← paṇí- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रे॒वद्वयो॑ दधाथे रे॒वदा॑शाथे॒ नरा॑ मा॒याभि॑रि॒तऊ॑ति॒ माहि॑नम् ।  
+न वां॒ द्यावोऽह॑भि॒र्नोत सिन्ध॑वो॒ न दे॑व॒त्वं प॒णयो॒ नान॑शुर्म॒घम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “gift; wealth; reward; wages; reward.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

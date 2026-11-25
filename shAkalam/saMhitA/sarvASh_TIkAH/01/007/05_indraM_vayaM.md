@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ vr̥tréṣu ← vr̥trá- (nominal stem)
 
 yújam ← yúj- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रं॑ व॒यं म॑हाध॒न इन्द्र॒मर्भे॑ हवामहे ।  
+युजं॑ वृ॒त्रेषु॑ व॒ज्रिण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -66,7 +67,12 @@ pathā́ ← pánthā- ~ path- (nominal stem)
 
 yamásya ← yamá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा वो॑ मृ॒गो न यव॑से जरि॒ता भू॒दजो॑ष्यः ।  
+प॒था य॒मस्य॑ गा॒दुप॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “towards; on; next.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

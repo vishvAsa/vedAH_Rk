@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ parjányāvā́tā ← parjányāvā́ta- (nominal stem)
 
 pipyatām ← √pī- 1 (root)  
 {number:DU, person:3, mood:IMP, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते नो॑ रु॒द्रः सर॑स्वती स॒जोषा॑ मी॒ळ्हुष्म॑न्तो॒ विष्णु॑र्मृळन्तु वा॒युः ।  
+ऋ॒भु॒क्षा वाजो॒ दैव्यो॑ विधा॒ता प॒र्जन्या॒वाता॑ पिप्यता॒मिषं॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

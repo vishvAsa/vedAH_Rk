@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्टको वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ ukthavāhaḥ ← ukthávāhas- (nominal stem)
 
 vardhasva ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒प्सु धू॒तस्य॑ हरिवः॒ पिबे॒ह नृभिः॑ सु॒तस्य॑ ज॒ठरं॑ पृणस्व ।  
+मि॒मि॒क्षुर्यमद्र॑य इन्द्र॒ तुभ्यं॒ तेभि॑र्वर्धस्व॒ मद॑मुक्थवाहः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

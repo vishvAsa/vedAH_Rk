@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सदापृण आत्रेयः"
 ChandaH = "पुरस्ताज्ज्योतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ kavíḥ ← kaví- (nominal stem)
 
 yúvā ← yúvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ सूर्यो॑ यातु स॒प्ताश्वः॒ क्षेत्रं॒ यद॑स्योर्वि॒या दी॑र्घया॒थे ।  
+र॒घुः श्ये॒नः प॑तय॒दन्धो॒ अच्छा॒ युवा॑ क॒विर्दी॑दय॒द्गोषु॒ गच्छ॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

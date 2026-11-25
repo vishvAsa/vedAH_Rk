@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -80,7 +81,12 @@ té ← sá- ~ tá- (pronoun)
 
 víprāḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घृ॒तेन॒ द्यावा॑पृथि॒वी अ॒भीवृ॑ते घृत॒श्रिया॑ घृत॒पृचा॑ घृता॒वृधा॑ ।  
+उ॒र्वी पृ॒थ्वी हो॑तृ॒वूर्ये॑ पु॒रोहि॑ते॒ ते इद्विप्रा॑ ईळते सु॒म्नमि॒ष्टये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “seeking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

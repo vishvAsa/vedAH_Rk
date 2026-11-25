@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ carataḥ ← √carⁱ- (root)
 
 vápurbhiḥ ← vápus- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒नाद्दिवं॒ परि॒ भूमा॒ विरू॑पे पुन॒र्भुवा॑ युव॒ती स्वेभि॒रेवैः॑ ।  
+कृ॒ष्णेभि॑र॒क्तोषा रुश॑द्भि॒र्वपु॑र्भि॒रा च॑रतो अ॒न्यान्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     more(a); fresh; any(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

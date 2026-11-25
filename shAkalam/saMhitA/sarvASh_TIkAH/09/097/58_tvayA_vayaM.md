@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ síndhuḥ ← síndhu- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वया॑ व॒यं पव॑मानेन सोम॒ भरे॑ कृ॒तं वि चि॑नुयाम॒ शश्व॑त् ।  
+तन्नो॑ मि॒त्रो वरु॑णो मामहन्ता॒मदि॑तिः॒ सिन्धुः॑ पृथि॒वी उ॒त द्यौः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -247,7 +252,6 @@ Anusṭubh Hymns: 98–101 ̣
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
 <details><summary><h2>55-58 ...{Loading}...</h2></summary>
 
@@ -259,7 +263,6 @@ Happily none of the vss. presents us with the desperate difficulties of the prec
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

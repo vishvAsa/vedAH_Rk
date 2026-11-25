@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ jalgulaḥ ← √gr̥̄- 2 (root)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्र॒ मन्थां॑ विब॒ध्नते॑ र॒श्मीन्यमि॑त॒वा इ॑व ।  
+उ॒लूख॑लसुताना॒मवेद्वि॑न्द्र जल्गुलः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “swallow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

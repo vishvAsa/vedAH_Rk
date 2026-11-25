@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ havíḥ ← havís- (nominal stem)
 
 uttamám ← uttamá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र प्या॑यस्व॒ प्र स्य॑न्दस्व॒ सोम॒ विश्वे॑भिरं॒शुभिः॑ ।  
+दे॒वेभ्य॑ उत्त॒मं ह॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “Havya; offering; ghee; havis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -162,7 +167,6 @@ as highest oblation for the gods.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/28-29.md">
 <details><summary><h2>28-29 ...{Loading}...</h2></summary>
 
@@ -170,7 +174,6 @@ It’s not clear why we return to purely Soma vss. at this point, but the aorist
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

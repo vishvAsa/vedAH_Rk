@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ hitáḥ ← √hi- (root)
 
 mándasva ← √mand- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद्रो॑घ॒मा व॑होश॒तो य॑विष्ठ्य दे॒वाँ अ॑जस्र वी॒तये॑ ।  
+अ॒भि प्रयां॑सि॒ सुधि॒ता व॑सो गहि॒ मन्द॑स्व धी॒तिभि॑र्हि॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “impel; send; spur; stimulate; urge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

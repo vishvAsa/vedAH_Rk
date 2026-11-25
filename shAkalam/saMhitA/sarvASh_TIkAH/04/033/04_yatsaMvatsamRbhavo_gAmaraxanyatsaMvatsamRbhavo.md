@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ amr̥tatvám ← amr̥tatvá- (nominal stem)
 
 tā́bhiḥ ← sá- ~ tá- (pronoun)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्सं॒वत्स॑मृ॒भवो॒ गामर॑क्ष॒न्यत्सं॒वत्स॑मृ॒भवो॒ मा अपिं॑शन् ।  
+यत्सं॒वत्स॒मभ॑र॒न्भासो॑ अस्या॒स्ताभिः॒ शमी॑भिरमृत॒त्वमा॑शुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

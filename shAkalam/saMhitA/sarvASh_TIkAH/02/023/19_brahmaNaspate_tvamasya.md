@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -92,7 +93,12 @@ vadema ← √vadⁱ- (root)
 
 vidáthe ← vidátha- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रह्म॑णस्पते॒ त्वम॒स्य य॒न्ता सू॒क्तस्य॑ बोधि॒ तन॑यं च जिन्व ।  
+विश्वं॒ तद्भ॒द्रं यदव॑न्ति दे॒वा बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

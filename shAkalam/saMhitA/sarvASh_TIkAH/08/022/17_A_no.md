@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -63,7 +64,12 @@ gómat ← gómant- (nominal stem)
 
 híraṇyavat ← híraṇyavant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॒ अश्वा॑वदश्विना व॒र्तिर्या॑सिष्टं मधुपातमा नरा ।  
+गोम॑द्दस्रा॒ हिर॑ण्यवत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “possessing gold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

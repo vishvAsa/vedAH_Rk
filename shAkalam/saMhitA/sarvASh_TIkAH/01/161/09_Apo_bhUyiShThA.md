@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ r̥tā́ ← r̥tá- (nominal stem)
 
 vádantaḥ ← √vadⁱ- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपो॒ भूयि॑ष्ठा॒ इत्येको॑ अब्रवीद॒ग्निर्भूयि॑ष्ठ॒ इत्य॒न्यो अ॑ब्रवीत् ।  
+व॒ध॒र्यन्तीं॑ ब॒हुभ्यः॒ प्रैको॑ अब्रवीदृ॒ता वद॑न्तश्चम॒साँ अ॑पिंशत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “decorate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

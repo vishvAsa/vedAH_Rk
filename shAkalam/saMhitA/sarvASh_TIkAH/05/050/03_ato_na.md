@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ yuyotu ← √yu- 2 (root)
 
 yū́yuviḥ ← yū́yuvi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अतो॑ न॒ आ नॄनति॑थी॒नतः॒ पत्नी॑र्दशस्यत ।  
+आ॒रे विश्वं॑ पथे॒ष्ठां द्वि॒षो यु॑योतु॒ यूयु॑विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

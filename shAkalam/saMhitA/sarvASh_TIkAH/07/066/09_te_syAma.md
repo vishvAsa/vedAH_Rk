@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -66,7 +67,12 @@ dhīmahi ← √dhā- 1 (root)
 
 svàr ← svàr- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते स्या॑म देव वरुण॒ ते मि॑त्र सू॒रिभिः॑ स॒ह ।  
+इषं॒ स्व॑श्च धीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

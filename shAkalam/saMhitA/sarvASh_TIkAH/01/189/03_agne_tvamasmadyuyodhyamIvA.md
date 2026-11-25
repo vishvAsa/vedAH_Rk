@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ víśvebhiḥ ← víśva- (nominal stem)
 
 yajatra ← yájatra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ त्वम॒स्मद्यु॑यो॒ध्यमी॑वा॒ अन॑ग्नित्रा अ॒भ्यम॑न्त कृ॒ष्टीः ।  
+पुन॑र॒स्मभ्यं॑ सुवि॒ताय॑ देव॒ क्षां विश्वे॑भिर॒मृते॑भिर्यजत्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “adorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

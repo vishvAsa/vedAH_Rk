@@ -5,13 +5,13 @@ RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -97,7 +97,12 @@ ná ← ná (invariable)
 
 práyāṁsi ← práyas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अम्य॒क्सा त॑ इन्द्र ऋ॒ष्टिर॒स्मे सने॒म्यभ्वं॑ म॒रुतो॑ जुनन्ति ।  
+अ॒ग्निश्चि॒द्धि ष्मा॑त॒से शु॑शु॒क्वानापो॒ न द्वी॒पं दध॑ति॒ प्रयां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +242,6 @@ _________
 - “food; dainty; enjoyment.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -298,8 +302,6 @@ Bei uns erglänzte, Indra, dies dein Schlachtschwert, das öde Dunkel scheuchen 
 Ведь огонь, даже когда он пылает в кустарнике,  
 Создает жертвенные услады, как воды – остров.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

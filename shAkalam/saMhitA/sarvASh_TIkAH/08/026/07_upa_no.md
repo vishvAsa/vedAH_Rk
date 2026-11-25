@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ maghávānā ← maghávan- (nominal stem)
 
 suvī́rau ← suvī́ra- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ नो यातमश्विना रा॒या वि॑श्व॒पुषा॑ स॒ह ।  
+म॒घवा॑ना सु॒वीरा॒वन॑पच्युता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “abscond.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

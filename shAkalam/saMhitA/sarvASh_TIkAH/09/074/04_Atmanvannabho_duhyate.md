@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कक्षीवान्"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ náraḥ ← nár- (nominal stem)
 
 péravaḥ ← péru- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒त्म॒न्वन्नभो॑ दुह्यते घृ॒तं पय॑ ऋ॒तस्य॒ नाभि॑र॒मृतं॒ वि जा॑यते ।  
+स॒मी॒ची॒नाः सु॒दान॑वः प्रीणन्ति॒ तं नरो॑ हि॒तमव॑ मेहन्ति॒ पेर॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

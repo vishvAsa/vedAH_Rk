@@ -4,6 +4,7 @@ devataa = "कुरुश्रवणस्य त्रासदस्यव�
 RShiH = "कवष ऐलूषः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कुरुश्रवणस्य त्रासदस्यवस्य दानस्तुतिः
@@ -51,7 +52,12 @@ máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)
 
 vāghátām ← vāghát- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कु॒रु॒श्रव॑णमावृणि॒ राजा॑नं॒ त्रास॑दस्यवम् ।  
+मंहि॑ष्ठं वा॒घता॒मृषिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +107,6 @@ _________
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

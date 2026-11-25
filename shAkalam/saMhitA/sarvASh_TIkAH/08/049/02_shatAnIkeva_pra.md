@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ dátrāṇi ← dátra- (nominal stem)
 
 purubhójasaḥ ← purubhójas- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तानी॑केव॒ प्र जि॑गाति धृष्णु॒या हन्ति॑ वृ॒त्राणि॑ दा॒शुषे॑ ।  
+गि॒रेरि॑व॒ प्र रसा॑ अस्य पिन्विरे॒ दत्रा॑णि पुरु॒भोज॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “advantage; utility; food.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

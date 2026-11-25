@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ asya ← ayám (pronoun)
 
 vidānā́ḥ ← √vid- 2 (root)  
 {case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ मि॒त्रावरु॑णा॒ भगं॒ मध्वः॑ पवन्त ऊ॒र्मयः॑ ।  
+वि॒दा॒ना अ॑स्य॒ शक्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - \[noun\], instrumental, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

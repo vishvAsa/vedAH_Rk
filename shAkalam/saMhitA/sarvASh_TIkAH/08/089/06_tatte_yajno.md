@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ yát ← yá- (pronoun)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्ते॑ य॒ज्ञो अ॑जायत॒ तद॒र्क उ॒त हस्कृ॑तिः ।  
+तद्विश्व॑मभि॒भूर॑सि॒ यज्जा॒तं यच्च॒ जन्त्व॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

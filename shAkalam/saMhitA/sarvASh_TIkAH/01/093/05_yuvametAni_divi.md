@@ -4,6 +4,7 @@ devataa = "अग्नीषोमौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नीषोमौ
@@ -80,7 +81,12 @@ yuvám ← tvám (pronoun)
 
 gr̥bhītā́n ← √gr̥bhⁱ- (root)  
 {case:ACC, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वमे॒तानि॑ दि॒वि रो॑च॒नान्य॒ग्निश्च॑ सोम॒ सक्र॑तू अधत्तम् ।  
+यु॒वं सिन्धूँ॑र॒भिश॑स्तेरव॒द्यादग्नी॑षोमा॒वमु॑ञ्चतं गृभी॒तान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     touch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

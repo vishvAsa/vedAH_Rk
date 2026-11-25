@@ -4,6 +4,7 @@ devataa = "राज्ञस्तुतिः"
 RShiH = "अभीवर्तः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राज्ञस्तुतिः
@@ -65,7 +66,12 @@ jánasya ← jána- (nominal stem)
 
 virā́jāni ← √rāj- (root)  
 {number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स॒प॒त्नः स॑पत्न॒हाभिरा॑ष्ट्रो विषास॒हिः ।  
+यथा॒हमे॑षां भू॒तानां॑ वि॒राजा॑नि॒ जन॑स्य च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

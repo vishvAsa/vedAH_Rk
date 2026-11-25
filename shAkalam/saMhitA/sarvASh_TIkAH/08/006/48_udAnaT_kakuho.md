@@ -4,6 +4,7 @@ devataa = "तिरिन्दिरस्य पारशव्यस्य �
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तिरिन्दिरस्य पारशव्यस्य दानस्तुतिः
@@ -60,7 +61,12 @@ jánam ← jána- (nominal stem)
 
 yā́dvam ← yā́dva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदा॑नट् ककु॒हो दिव॒मुष्ट्रा॑ञ्चतु॒र्युजो॒ दद॑त् ।  
+श्रव॑सा॒ याद्वं॒ जन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

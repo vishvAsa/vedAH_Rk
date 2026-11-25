@@ -4,6 +4,7 @@ devataa = "विश्वे देवाः (विश्वैर्देव
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः (विश्वैर्देवैः सहितोग्निः)
@@ -57,7 +58,12 @@ pāyaya ← √pā- 2 (root)
 
 sujihva ← sujihvá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तान्यज॑त्राँ ऋता॒वृधोऽग्ने॒ पत्नी॑वतस्कृधि ।  
+मध्वः॑ सुजिह्व पायय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “make to drink; temper; suckle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

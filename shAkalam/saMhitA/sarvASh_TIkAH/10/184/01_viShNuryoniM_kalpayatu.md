@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्तदेवताः (विष्णुत�
 RShiH = "त्वष्टा गर्भकर्ता, विष्णुर्वा प्राजापत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तदेवताः (विष्णुत्वष्टृप्रजापतिसिनीवालीसरस्वत्यश्विनः) गर्भार्थाशीः
@@ -71,7 +72,12 @@ gárbham ← gárbha- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विष्णु॒र्योनिं॑ कल्पयतु॒ त्वष्टा॑ रू॒पाणि॑ पिंशतु ।  
+आ सि॑ञ्चतु प्र॒जाप॑तिर्धा॒ता गर्भं॑ दधातु ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

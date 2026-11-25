@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ samátsu ← samád- (nominal stem)
 
 saṁvŕ̥k ← saṁvŕ̥j- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो ह॒त्वाहि॒मरि॑णात्स॒प्त सिन्धू॒न्यो गा उ॒दाज॑दप॒धा व॒लस्य॑ ।  
+यो अश्म॑नोर॒न्तर॒ग्निं ज॒जान॑ सं॒वृक्स॒मत्सु॒ स ज॑नास॒ इन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

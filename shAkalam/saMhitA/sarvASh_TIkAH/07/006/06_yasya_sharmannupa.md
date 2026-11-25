@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ sasāda ← √sad- (root)
 
 upástham ← upástha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॒ शर्म॒न्नुप॒ विश्वे॒ जना॑स॒ एवै॑स्त॒स्थुः सु॑म॒तिं भिक्ष॑माणाः ।  
+वै॒श्वा॒न॒रो वर॒मा रोद॑स्यो॒राग्निः स॑साद पि॒त्रोरु॒पस्थ॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “genitalia; lap; sexual desire; anus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

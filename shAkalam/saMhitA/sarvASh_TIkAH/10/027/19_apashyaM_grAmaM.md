@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sadyás ← sadyás (invariable)
 
 śiśnā́ ← śiśná- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप॑श्यं॒ ग्रामं॒ वह॑मानमा॒राद॑च॒क्रया॑ स्व॒धया॒ वर्त॑मानम् ।  
+सिष॑क्त्य॒र्यः प्र यु॒गा जना॑नां स॒द्यः शि॒श्ना प्र॑मिना॒नो नवी॑यान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “new; fresh; up-to-the-minute.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

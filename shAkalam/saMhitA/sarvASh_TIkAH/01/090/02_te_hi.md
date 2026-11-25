@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -60,7 +61,12 @@ viśvā́hā ← viśvā́hā (invariable)
 
 vratā́ ← vratá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते हि वस्वो॒ वस॑वाना॒स्ते अप्र॑मूरा॒ महो॑भिः ।  
+व्र॒ता र॑क्षन्ते वि॒श्वाहा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “always.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

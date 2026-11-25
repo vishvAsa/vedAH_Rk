@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -80,7 +81,12 @@ vánde ← √vandⁱ- (root)
 
 vivakmi ← √vañc- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स॒म्राजो॒ असु॑रस्य॒ प्रश॑स्तिं पुं॒सः कृ॑ष्टी॒नाम॑नु॒माद्य॑स्य ।  
+इन्द्र॑स्येव॒ प्र त॒वस॑स्कृ॒तानि॒ वन्दे॑ दा॒रुं वन्द॑मानो विवक्मि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

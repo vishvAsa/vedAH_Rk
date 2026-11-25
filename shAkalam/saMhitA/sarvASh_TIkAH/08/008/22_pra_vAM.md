@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ puruspŕ̥hā ← puruspŕ̥h- (nominal stem)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वां॒ स्तोमाः॑ सुवृ॒क्तयो॒ गिरो॑ वर्धन्त्वश्विना ।  
+पुरु॑त्रा॒ वृत्र॑हन्तमा॒ ता नो॑ भूतं पुरु॒स्पृहा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “coveted; desirous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

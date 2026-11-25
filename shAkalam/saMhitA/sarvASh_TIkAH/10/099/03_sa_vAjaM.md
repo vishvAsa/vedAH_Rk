@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वम्रो वैखानसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ ghnán ← √han- (root)
 
 várpasā ← várpas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वाजं॒ याताप॑दुष्पदा॒ यन्त्स्व॑र्षाता॒ परि॑ षदत्सनि॒ष्यन् ।  
+अ॒न॒र्वा यच्छ॒तदु॑रस्य॒ वेदो॒ घ्नञ्छि॒श्नदे॑वाँ अ॒भि वर्प॑सा॒ भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

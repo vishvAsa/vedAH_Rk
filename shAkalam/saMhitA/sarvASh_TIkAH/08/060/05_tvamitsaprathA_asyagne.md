@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ vedhásaḥ ← vedhás- (nominal stem)
 
 vivāsanti ← √vanⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमित्स॒प्रथा॑ अ॒स्यग्ने॑ त्रातरृ॒तस्क॒विः ।  
+त्वां विप्रा॑सः समिधान दीदिव॒ आ वि॑वासन्ति वे॒धसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

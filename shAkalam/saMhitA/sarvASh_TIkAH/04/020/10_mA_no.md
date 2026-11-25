@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -107,7 +108,12 @@ stuvántaḥ ← √stu- (root)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ मर्धी॒रा भ॑रा द॒द्धि तन्नः॒ प्र दा॒शुषे॒ दात॑वे॒ भूरि॒ यत्ते॑ ।  
+नव्ये॑ दे॒ष्णे श॒स्ते अ॒स्मिन्त॑ उ॒क्थे प्र ब्र॑वाम व॒यमि॑न्द्र स्तु॒वन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -279,7 +285,6 @@ _________
 - “laud; praise; declare; stu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -333,7 +338,6 @@ Destroy us not; bring and give to us
 That plenteous bounty which thou hast to give to the pious man,  
 For this new gift, this song we have sung to thee;  
 Let us speak forth in praise of Indra.
-
 </details>
 
 <details><summary>Geldner</summary>

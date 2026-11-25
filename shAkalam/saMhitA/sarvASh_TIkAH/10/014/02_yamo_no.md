@@ -4,6 +4,7 @@ devataa = "यमः"
 RShiH = "यमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -92,7 +93,12 @@ pathyā̀ḥ ← pathyā̀- (nominal stem)
 
 svā́ḥ ← svá- (pronoun)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒मो नो॑ गा॒तुं प्र॑थ॒मो वि॑वेद॒ नैषा गव्यू॑ति॒रप॑भर्त॒वा उ॑ ।  
+यत्रा॑ नः॒ पूर्वे॑ पि॒तरः॑ परे॒युरे॒ना ज॑ज्ञा॒नाः प॒थ्या॒३॒॑ अनु॒ स्वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     present(a); independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

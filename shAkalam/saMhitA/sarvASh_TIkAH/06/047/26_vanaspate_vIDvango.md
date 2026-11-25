@@ -4,6 +4,7 @@ devataa = "रथः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रथः
@@ -77,7 +78,12 @@ jétvāni ← jétva- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वन॑स्पते वी॒ड्व॑ङ्गो॒ हि भू॒या अ॒स्मत्स॑खा प्र॒तर॑णः सु॒वीरः॑ ।  
+गोभिः॒ सन्न॑द्धो असि वी॒ळय॑स्वास्था॒ता ते॑ जयतु॒ जेत्वा॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -235,10 +240,6 @@ O tree, because you should become firm-limbed, a comrade to us,  furthering (us)
 you are knotted together with cows [=leather (straps)]. Be firm! Let the  one who mounts you win what is to be won.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Because of the hí, I have made ab the causal foundation for the beginning of c. If we are willing to allow hí to be some kind of unspecified emphatic, the clauses can be disjoined, with the first hemistich simply “you should become …” As in the matching sequence … pratáraṇaḥ suvī́raḥ in I.91.19, ‘lifetime’ could be supplied as the implicit obj. of pratáraṇah.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details><summary><h2>26-31 ...{Loading}...</h2></summary>
 
@@ -246,7 +247,6 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

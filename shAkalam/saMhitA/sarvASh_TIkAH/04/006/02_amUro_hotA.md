@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ stabhāyat ← √stambhⁱ- (root)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अमू॑रो॒ होता॒ न्य॑सादि वि॒क्ष्व१॒॑ग्निर्म॒न्द्रो वि॒दथे॑षु॒ प्रचे॑ताः ।  
+ऊ॒र्ध्वं भा॒नुं स॑वि॒तेवा॑श्रे॒न्मेते॑व धू॒मं स्त॑भाय॒दुप॒ द्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

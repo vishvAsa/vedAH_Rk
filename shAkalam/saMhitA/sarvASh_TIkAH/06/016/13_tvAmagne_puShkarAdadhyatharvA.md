@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ vāghátaḥ ← vāghát- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने॒ पुष्क॑रा॒दध्यथ॑र्वा॒ निर॑मन्थत ।  
+मू॒र्ध्नो विश्व॑स्य वा॒घतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -166,10 +171,6 @@ You, Agni, did Atharvan churn forth from the lotus,
 (did) the liturgists (churn) from the head of the whole (world?).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the ritual use of the lotus and the relevance of this vs., see Krick (Feuergründung, 155-59), where (155) she calls this vs. “die Primärquelle für die Verwendung eines Lotusblattes im Feuerritual.” In c vāghátaḥ can be gen. sg. or nom. pl. (as I take it, with Geldner and Renou). Since I don’t know what’s going on here, I would certainly not exclude the gen. sg.: “… (churned) from the head of every vāghát” (so Krick 297) It is perhaps relevant that víśvasya vāghátaḥ phonologically echoes víśvasya jágataḥ “of the whole world” (I.101.5, IV.13.3, VI.50.7, VII.60.2, 101.2, X.73.8).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -179,7 +180,6 @@ This tṛca is recited in śrauta ritual during the churning of the fire; see Kr
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

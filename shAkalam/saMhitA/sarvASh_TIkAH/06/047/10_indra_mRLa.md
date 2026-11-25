@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ mā ← ahám (pronoun)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ मृ॒ळ मह्यं॑ जी॒वातु॑मिच्छ चो॒दय॒ धिय॒मय॑सो॒ न धारा॑म् ।  
+यत्किं चा॒हं त्वा॒युरि॒दं वदा॑मि॒ तज्जु॑षस्व कृ॒धि मा॑ दे॒वव॑न्तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

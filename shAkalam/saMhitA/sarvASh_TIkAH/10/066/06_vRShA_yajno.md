@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 vr̥ṣastúbhaḥ ← vr̥ṣastúbh- (nominal stem)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॑ य॒ज्ञो वृष॑णः सन्तु य॒ज्ञिया॒ वृष॑णो दे॒वा वृष॑णो हवि॒ष्कृतः॑ ।  
+वृष॑णा॒ द्यावा॑पृथि॒वी ऋ॒ताव॑री॒ वृषा॑ प॒र्जन्यो॒ वृष॑णो वृष॒स्तुभः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “song; praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

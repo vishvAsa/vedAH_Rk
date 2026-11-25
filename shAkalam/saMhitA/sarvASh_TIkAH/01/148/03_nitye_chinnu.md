@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ rārahāṇā́ḥ ← √raṁh- (root)
 
 rathyàḥ ← rathī́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नित्ये॑ चि॒न्नु यं सद॑ने जगृ॒भ्रे प्रश॑स्तिभिर्दधि॒रे य॒ज्ञिया॑सः ।  
+प्र सू न॑यन्त गृ॒भय॑न्त इ॒ष्टावश्वा॑सो॒ न र॒थ्यो॑ रारहा॒णाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “rush.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

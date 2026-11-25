@@ -4,6 +4,7 @@ devataa = "संज्ञानं"
 RShiH = "संवननः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - संज्ञानं
@@ -74,7 +75,12 @@ vaḥ ← tvám (pronoun)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मा॒नी व॒ आकू॑तिः समा॒ना हृद॑यानि वः ।  
+स॒मा॒नम॑स्तु वो॒ मनो॒ यथा॑ वः॒ सुस॒हास॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

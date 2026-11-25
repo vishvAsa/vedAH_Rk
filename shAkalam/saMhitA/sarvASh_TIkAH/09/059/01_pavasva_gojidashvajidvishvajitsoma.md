@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ prajā́vat ← prajā́vant- (nominal stem)
 
 rátnam ← rátna- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व गो॒जिद॑श्व॒जिद्वि॑श्व॒जित्सो॑म रण्य॒जित् ।  
+प्र॒जाव॒द्रत्न॒मा भ॑र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

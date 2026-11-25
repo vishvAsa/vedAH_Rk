@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -74,7 +75,12 @@ sutásya ← √su- (root)
 
 yāhí ← √yā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒हि होत्रा॒ अवी॑ता॒ विपो॒ न रायो॑ अ॒र्यः ।  
+वाय॒वा च॒न्द्रेण॒ रथे॑न या॒हि सु॒तस्य॑ पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

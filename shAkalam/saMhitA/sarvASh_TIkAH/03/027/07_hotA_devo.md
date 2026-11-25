@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ pracodáyan ← √cud- (root)
 
 vidáthāni ← vidátha- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+होता॑ दे॒वो अम॑र्त्यः पु॒रस्ता॑देति मा॒यया॑ ।  
+वि॒दथा॑नि प्रचो॒दय॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “push; drive; command; excite; proclaim; demand; request; request.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

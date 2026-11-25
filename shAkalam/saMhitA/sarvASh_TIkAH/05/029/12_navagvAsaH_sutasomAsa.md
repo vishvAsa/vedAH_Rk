@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tám ← sá- ~ tá- (pronoun)
 
 vran ← √vr̥- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नव॑ग्वासः सु॒तसो॑मास॒ इन्द्रं॒ दश॑ग्वासो अ॒भ्य॑र्चन्त्य॒र्कैः ।  
+गव्यं॑ चिदू॒र्वम॑पि॒धान॑वन्तं॒ तं चि॒न्नरः॑ शशमा॒ना अप॑ व्रन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

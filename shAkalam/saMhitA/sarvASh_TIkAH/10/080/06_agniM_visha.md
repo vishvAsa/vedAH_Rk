@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः सौचीको वैश्वानरो वा सप्तिर्वा वाजंभरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ ghr̥té ← ghr̥tá- (nominal stem)
 
 níṣattā ← √sad- (root)  
 {case:NOM, gender:F, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं विश॑ ईळते॒ मानु॑षी॒र्या अ॒ग्निं मनु॑षो॒ नहु॑षो॒ वि जा॒ताः ।  
+अ॒ग्निर्गान्ध॑र्वीं प॒थ्या॑मृ॒तस्या॒ग्नेर्गव्यू॑तिर्घृ॒त आ निष॑त्ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “sit down; sit; put.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

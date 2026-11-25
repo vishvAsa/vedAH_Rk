@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ sajū́s ← sajū́s (invariable)
 
 uṣásā ← uṣás- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शृ॒ण्वन्तु॒ स्तोमं॑ म॒रुतः॑ सु॒दान॑वोऽग्निजि॒ह्वा ऋ॑ता॒वृधः॑ ।  
+पिब॑तु॒ सोमं॒ वरु॑णो धृ॒तव्र॑तो॒ऽश्विभ्या॑मु॒षसा॑ स॒जूः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

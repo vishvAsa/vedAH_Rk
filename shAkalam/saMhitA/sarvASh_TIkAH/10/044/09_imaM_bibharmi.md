@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ maghavan ← maghávan- (nominal stem)
 
 suté ← √su- (root)  
 {case:LOC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं बि॑भर्मि॒ सुकृ॑तं ते अङ्कु॒शं येना॑रु॒जासि॑ मघवञ्छफा॒रुजः॑ ।  
+अ॒स्मिन्त्सु ते॒ सव॑ने अस्त्वो॒क्यं॑ सु॒त इ॒ष्टौ म॑घवन्बो॒ध्याभ॑गः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “partaker.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

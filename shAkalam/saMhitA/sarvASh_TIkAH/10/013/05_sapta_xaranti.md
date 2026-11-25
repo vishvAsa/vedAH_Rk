@@ -4,6 +4,7 @@ devataa = "हविर्धाने"
 RShiH = "विवस्वानादित्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हविर्धाने
@@ -86,7 +87,12 @@ ubhé ← ubhá- (pronoun)
 
 yatete ← √yat- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्त क्ष॑रन्ति॒ शिश॑वे म॒रुत्व॑ते पि॒त्रे पु॒त्रासो॒ अप्य॑वीवतन्नृ॒तम् ।  
+उ॒भे इद॑स्यो॒भय॑स्य राजत उ॒भे य॑तेते उ॒भय॑स्य पुष्यतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “boom; grow; promote; foster.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

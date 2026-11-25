@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ dhánasya ← dhána- (nominal stem)
 
 sātaú ← sātí- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यु॒मत्त॑मं॒ दक्षं॑ धेह्य॒स्मे सेधा॒ जना॑नां पू॒र्वीररा॑तीः ।  
+वर्षी॑यो॒ वयः॑ कृणुहि॒ शची॑भि॒र्धन॑स्य सा॒ताव॒स्माँ अ॑विड्ढि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -224,12 +229,6 @@ Make our vitality higher through your abilities. Help us in the winning  of the 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This tṛca-final vs. reprises and repurposes some of the statements in the opening vs. 7. The skill (dákṣa-) that Soma found in 7a we ask him to bestow on us in 9a. Soma, “having won” (sasavā́n) in 7c, is asked to help us in winning (sātaú … aviḍḍhi) in 9d. Unfortunately nothing in 9 sheds light on the problematic instr. phrase in 7c.
-
-VI.44.10-12: This tṛca foresees various disasters and tribulations and asks Indra for his help in combatting them.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -239,7 +238,6 @@ The tṛca concerns soma and contains lexical and thematic responsions.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

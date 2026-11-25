@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "पुरस्ताद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ gúhā ← gúhā (invariable)
 
 vā ← vā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कुह॑ श्रु॒त इन्द्रः॒ कस्मि॑न्न॒द्य जने॑ मि॒त्रो न श्रू॑यते ।  
+ऋषी॑णां वा॒ यः क्षये॒ गुहा॑ वा॒ चर्कृ॑षे गि॒रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

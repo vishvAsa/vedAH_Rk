@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -52,7 +53,11 @@ r̥téna ← r̥tá- (nominal stem)
 
 sā́dhan ← √sādh- ~ sidh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह्वया॑मि दे॒वाँ अया॑तुरग्ने॒ साध॑न्नृ॒तेन॒ धियं॑ दधामि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +126,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -107,7 +108,12 @@ ní ← ní (invariable)
 
 tváṣṭā ← tváṣṭar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒कृ॒वांस॑ ऋभव॒स्तद॑पृच्छत॒ क्वेद॑भू॒द्यः स्य दू॒तो न॒ आज॑गन् ।  
+य॒दावाख्य॑च्चम॒साञ्च॒तुरः॑ कृ॒तानादित्त्वष्टा॒ ग्नास्व॒न्तर्न्या॑नजे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -280,7 +286,6 @@ _________
 - “smear; anoint; mix; color.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

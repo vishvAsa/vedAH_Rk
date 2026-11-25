@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ vacyántām ← √vañc- (root)
 
 váhnayaḥ ← váhni- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ रोद॑सी अपृणा॒ जाय॑मान उ॒त प्र रि॑क्था॒ अध॒ नु प्र॑यज्यो ।  
+दि॒वश्चि॑दग्ने महि॒ना पृ॑थि॒व्या व॒च्यन्तां॑ ते॒ वह्न॑यः स॒प्तजि॑ह्वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “tongue; tongue; jihvā \[word\]; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

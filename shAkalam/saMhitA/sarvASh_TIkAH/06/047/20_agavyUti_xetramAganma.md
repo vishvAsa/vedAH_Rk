@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्तभूमिबृहस्पतीन्
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तभूमिबृहस्पतीन्द्राः (क्रमेण प्रतिपादं)
@@ -89,7 +90,12 @@ pánthām ← pánthā- ~ path- (nominal stem)
 
 saté ← √as- 1 (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग॒व्यू॒ति क्षेत्र॒माग॑न्म देवा उ॒र्वी स॒ती भूमि॑रंहूर॒णाभू॑त् ।  
+बृह॑स्पते॒ प्र चि॑कित्सा॒ गवि॑ष्टावि॒त्था स॒ते ज॑रि॒त्र इ॑न्द्र॒ पन्था॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “way; road; path \[word\]; journey; method.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

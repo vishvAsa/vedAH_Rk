@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ juhūmási ← √hū- (root)
 
 śravasyávaḥ ← śravasyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॒ त्वमि॑न्द्र॒ स्तोमे॑षु चा॒कनो॒ वाजे॑ वाजिञ्छतक्रतो ।  
+तं त्वा॑ व॒यं सु॒दुघा॑मिव गो॒दुहो॑ जुहू॒मसि॑ श्रव॒स्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “celebrated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ sahásradhāraḥ ← sahásradhāra- (nominal stem)
 
 śatávājaḥ ← śatávāja- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमः॑ पुना॒नो अ॒व्यये॒ वारे॒ शिशु॒र्न क्रीळ॒न्पव॑मानो अक्षाः ।  
+स॒हस्र॑धारः श॒तवा॑ज॒ इन्दुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -189,7 +194,6 @@ the drop possessing a thousand streams and a hundred prizes.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -197,7 +201,6 @@ This very straightforward final tṛca concerning the ritual preparation of soma
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

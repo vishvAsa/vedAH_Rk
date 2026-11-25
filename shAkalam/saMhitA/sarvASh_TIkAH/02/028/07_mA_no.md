@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -95,7 +96,12 @@ sú ← sú (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ व॒धैर्व॑रुण॒ ये त॑ इ॒ष्टावेनः॑ कृ॒ण्वन्त॑मसुर भ्री॒णन्ति॑ ।  
+मा ज्योति॑षः प्रवस॒थानि॑ गन्म॒ वि षू मृधः॑ शिश्रथो जी॒वसे॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

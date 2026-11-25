@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ maháḥ ← máh- (nominal stem)
 
 vaso ← vásu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने प्रथ॒मो मा॑त॒रिश्व॑न आ॒विर्भ॑व सुक्रतू॒या वि॒वस्व॑ते ।  
+अरे॑जेतां॒ रोद॑सी होतृ॒वूर्येऽस॑घ्नोर्भा॒रमय॑जो म॒हो व॑सो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “good; good; benign; vasu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ harṣumántaḥ ← harṣumánt- (nominal stem)
 
 śū́rasātau ← śū́rasāti- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्यानू॑ना गभी॒रा मदा॑ उ॒रव॒स्तरु॑त्राः ।  
+ह॒र्षु॒मन्तः॒ शूर॑सातौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - \[noun\], locative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

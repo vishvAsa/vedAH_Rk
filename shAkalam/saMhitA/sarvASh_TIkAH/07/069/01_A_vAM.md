@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ vājínīvān ← vājínīvant- (nominal stem)
 
 voḷhā́ ← voḷhár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ रथो॒ रोद॑सी बद्बधा॒नो हि॑र॒ण्ययो॒ वृष॑भिर्या॒त्वश्वैः॑ ।  
+घृ॒तव॑र्तनिः प॒विभी॑ रुचा॒न इ॒षां वो॒ळ्हा नृ॒पति॑र्वा॒जिनी॑वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “rich; rich in horses.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

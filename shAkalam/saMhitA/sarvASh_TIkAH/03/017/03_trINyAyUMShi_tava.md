@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कतो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ yájamānāya ← √yaj- (root)
 
 yós ← yós (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रीण्यायूं॑षि॒ तव॑ जातवेदस्ति॒स्र आ॒जानी॑रु॒षस॑स्ते अग्ने ।  
+ताभि॑र्दे॒वाना॒मवो॑ यक्षि वि॒द्वानथा॑ भव॒ यज॑मानाय॒ शं योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “fortune.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

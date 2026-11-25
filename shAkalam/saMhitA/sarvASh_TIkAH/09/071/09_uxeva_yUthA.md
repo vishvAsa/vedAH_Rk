@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ paśyate ← √paś- (root)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्षेव॑ यू॒था प॑रि॒यन्न॑रावी॒दधि॒ त्विषी॑रधित॒ सूर्य॑स्य ।  
+दि॒व्यः सु॑प॒र्णोऽव॑ चक्षत॒ क्षां सोमः॒ परि॒ क्रतु॑ना पश्यते॒ जाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “child; jā; being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ indra ← índra- (nominal stem)
 
 śárdhataḥ ← √śardh- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वा॑ दि॒वि पार्ये॒ सुष्वि॑मिन्द्र वृत्र॒हत्येऽव॑सि॒ शूर॑सातौ ।  
+यद्वा॒ दक्ष॑स्य बि॒भ्युषो॒ अबि॑भ्य॒दर॑न्धयः॒ शर्ध॑त इन्द्र॒ दस्यू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “savage; outcast; mugger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

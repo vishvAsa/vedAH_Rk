@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vr̥tratū́rye ← vr̥tratū́rya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं त्वा॒ जना॑स॒ ईळ॑ते स॒बाधो॒ वाज॑सातये ।  
+स बो॑धि वृत्र॒तूर्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “battle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

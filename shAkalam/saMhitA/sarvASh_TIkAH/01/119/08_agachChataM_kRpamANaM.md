@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ abhíṣṭayaḥ ← abhíṣṭi- (nominal stem)
 
 citrā́ḥ ← citrá- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग॑च्छतं॒ कृप॑माणं परा॒वति॑ पि॒तुः स्वस्य॒ त्यज॑सा॒ निबा॑धितम् ।  
+स्व॑र्वतीरि॒त ऊ॒तीर्यु॒वोरह॑ चि॒त्रा अ॒भीके॑ अभवन्न॒भिष्ट॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “prevalence; protection.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

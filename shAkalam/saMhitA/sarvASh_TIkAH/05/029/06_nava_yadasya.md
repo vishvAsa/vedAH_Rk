@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ traíṣṭubhena ← traíṣṭubha- (nominal stem)
 
 vácasā ← vácas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नव॒ यद॑स्य नव॒तिं च॑ भो॒गान्त्सा॒कं वज्रे॑ण म॒घवा॑ विवृ॒श्चत् ।  
+अर्च॒न्तीन्द्रं॑ म॒रुतः॑ स॒धस्थे॒ त्रैष्टु॑भेन॒ वच॑सा बाधत॒ द्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

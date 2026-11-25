@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ vivéṣa ← √viṣ- 2 (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अभू॒र्वौक्षी॒र्व्यु१॒॑ आयु॑रान॒ड्दर्ष॒न्नु पूर्वो॒ अप॑रो॒ नु द॑र्षत् ।  
+द्वे प॒वस्ते॒ परि॒ तं न भू॑तो॒ यो अ॒स्य पा॒रे रज॑सो वि॒वेष॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -269,7 +275,6 @@ _________
 - “labor; act; perform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "द्रुघण इन्द्रो वा"
 RShiH = "मुद्गलो भार्म्यश्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रुघण इन्द्रो वा
@@ -77,7 +78,12 @@ vádhriṇā ← vádhri- (nominal stem)
 
 yujā́ ← yúj- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं विश्व॑स्य॒ जग॑त॒श्चक्षु॑रिन्द्रासि॒ चक्षु॑षः ।  
+वृषा॒ यदा॒जिं वृष॑णा॒ सिषा॑ससि चो॒दय॒न्वध्रि॑णा यु॒जा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “ally; friend; pair; two; companion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

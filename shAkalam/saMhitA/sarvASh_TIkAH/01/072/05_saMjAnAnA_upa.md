@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ sákhā ← sákhi- (nominal stem)
 
 sákhyuḥ ← sákhi- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं॒जा॒ना॒ना उप॑ सीदन्नभि॒ज्ञु पत्नी॑वन्तो नम॒स्यं॑ नमस्यन् ।  
+रि॒रि॒क्वांस॑स्त॒न्वः॑ कृण्वत॒ स्वाः सखा॒ सख्यु॑र्नि॒मिषि॒ रक्ष॑माणाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

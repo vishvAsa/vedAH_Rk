@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ sahá ← sahá (invariable)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स त्रि॒तस्याधि॒ सान॑वि॒ पव॑मानो अरोचयत् ।  
+जा॒मिभिः॒ सूर्यं॑ स॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “together; together; with; jointly; together; saha \[word\]; along.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -82,7 +83,12 @@ sumāyāḥ ← sumāyá- (nominal stem)
 
 váyaḥ ← ví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वि॒द्युन्म॑द्भिर्मरुतः स्व॒र्कै रथे॑भिर्यात ऋष्टि॒मद्भि॒रश्व॑पर्णैः ।  
+आ वर्षि॑ष्ठया न इ॒षा वयो॒ न प॑प्तता सुमायाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     trick.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

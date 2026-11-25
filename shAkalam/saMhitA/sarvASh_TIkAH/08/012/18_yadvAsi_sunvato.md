@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -70,7 +71,12 @@ yásya ← yá- (pronoun)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वासि॑ सुन्व॒तो वृ॒धो यज॑मानस्य सत्पते ।  
+उ॒क्थे वा॒ यस्य॒ रण्य॑सि॒ समिन्दु॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

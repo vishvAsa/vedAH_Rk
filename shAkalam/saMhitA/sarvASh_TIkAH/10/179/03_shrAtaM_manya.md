@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुमना रौहिदश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ purukr̥t ← purukŕ̥t- (nominal stem)
 
 vajrin ← vajrín- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रा॒तं म॑न्य॒ ऊध॑नि श्रा॒तम॒ग्नौ सुश्रा॑तं मन्ये॒ तदृ॒तं नवी॑यः ।  
+माध्यं॑दिनस्य॒ सव॑नस्य द॒ध्नः पिबे॑न्द्र वज्रिन्पुरुकृज्जुषा॒णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

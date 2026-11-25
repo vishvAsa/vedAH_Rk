@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -80,7 +81,12 @@ bhrā́jamānaḥ ← √bhrāj- (root)
 
 taráṇiḥ ← taráṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वे स॑मी॒ची बि॑भृत॒श्चर॑न्तं शीर्ष॒तो जा॒तं मन॑सा॒ विमृ॑ष्टम् ।  
+स प्र॒त्यङ्विश्वा॒ भुव॑नानि तस्था॒वप्र॑युच्छन्त॒रणि॒र्भ्राज॑मानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “shine; glitter; look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

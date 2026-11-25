@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ táyā ← sá- ~ tá- (pronoun)
 
 vardhasva ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा ते॑ अग्ने॒ शन्त॑मा॒ चनि॑ष्ठा भवतु प्रि॒या ।  
+तया॑ वर्धस्व॒ सुष्टु॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ añjata ← √añj- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒द्युद्ध॑स्ता अ॒भिद्य॑वः॒ शिप्राः॑ शी॒र्षन्हि॑र॒ण्ययीः॑ ।  
+शु॒भ्रा व्य॑ञ्जत श्रि॒ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
     \[word\]; śrī; prosperity; auspiciousness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

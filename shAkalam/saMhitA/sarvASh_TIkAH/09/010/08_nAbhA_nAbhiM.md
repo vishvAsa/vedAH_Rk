@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -69,7 +70,12 @@ duhe ← √duh- (root)
 
 kavéḥ ← kaví- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाभा॒ नाभिं॑ न॒ आ द॑दे॒ चक्षु॑श्चि॒त्सूर्ये॒ सचा॑ ।  
+क॒वेरप॑त्य॒मा दु॑हे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

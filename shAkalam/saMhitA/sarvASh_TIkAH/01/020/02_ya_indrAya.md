@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -57,7 +58,12 @@ tatakṣúḥ ← √takṣ- (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इन्द्रा॑य वचो॒युजा॑ तत॒क्षुर्मन॑सा॒ हरी॑ ।  
+शमी॑भिर्य॒ज्ञमा॑शत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

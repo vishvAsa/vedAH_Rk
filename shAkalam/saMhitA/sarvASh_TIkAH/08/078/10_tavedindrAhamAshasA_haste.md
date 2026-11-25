@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ pūrdhí ← √pr̥̄- 2 (root)
 
 yávasya ← yáva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तवेदि॑न्द्रा॒हमा॒शसा॒ हस्ते॒ दात्रं॑ च॒ना द॑दे ।  
+दि॒नस्य॑ वा मघव॒न्त्सम्भृ॑तस्य वा पू॒र्धि यव॑स्य का॒शिना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “handful; kāśi \[word\]; Kāśi; fist.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ puroḷā́śam ← puroḷā́ś- (nominal stem)
 
 vīhí ← √vī- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा ब्रह्म॑ ब्रह्मवाहः क्रि॒यन्त॒ आ ब॒र्हिः सी॑द ।  
+वी॒हि शू॑र पुरो॒ळाश॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “puroḍāśa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ gábhastyoḥ ← gábhasti- (nominal stem)
 
 svadhā́m ← svadhā́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒षा स्या वो॑ मरुतोऽनुभ॒र्त्री प्रति॑ ष्टोभति वा॒घतो॒ न वाणी॑ ।  
+अस्तो॑भय॒द्वृथा॑सा॒मनु॑ स्व॒धां गभ॑स्त्योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “beam; hand; sun.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अंबरीष ऋजिश्वा च"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -71,7 +72,12 @@ sahasríṇam ← sahasrín- (nominal stem)
 
 vivāsasi ← √vanⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि त्वं दे॑व॒ शश्व॑ते॒ वसु॒ मर्ता॑य दा॒शुषे॑ ।  
+इन्दो॑ सह॒स्रिणं॑ र॒यिं श॒तात्मा॑नं विवाससि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “invite; endeavor; try for.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

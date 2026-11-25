@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ párijmā ← párijman- (nominal stem)
 
 viśvavedasaḥ ← viśvávedas- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नो॑ रु॒द्रा चि॑न्मृळताम॒श्विना॒ विश्वे॑ दे॒वासो॒ रथ॒स्पति॒र्भगः॑ ।  
+ऋ॒भुर्वाज॑ ऋभुक्षणः॒ परि॑ज्मा विश्ववेदसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

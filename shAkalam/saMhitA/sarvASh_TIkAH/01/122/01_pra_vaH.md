@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ marútaḥ ← marút- (nominal stem)
 
 ródasyoḥ ← ródasī- (nominal stem)  
 {case:LOC, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वः॒ पान्तं॑ रघुमन्य॒वोऽन्धो॑ य॒ज्ञं रु॒द्राय॑ मी॒ळ्हुषे॑ भरध्वम् ।  
+दि॒वो अ॑स्तो॒ष्यसु॑रस्य वी॒रैरि॑षु॒ध्येव॑ म॒रुतो॒ रोद॑स्योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “heaven and earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

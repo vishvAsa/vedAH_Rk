@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ jaghāna ← √han- (root)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒ध्मो अ॑न॒र्वा ख॑ज॒कृत्स॒मद्वा॒ शूरः॑ सत्रा॒षाड्ज॒नुषे॒मषा॑ळ्हः ।  
+व्या॑स॒ इन्द्रः॒ पृत॑नाः॒ स्वोजा॒ अधा॒ विश्वं॑ शत्रू॒यन्तं॑ जघान ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

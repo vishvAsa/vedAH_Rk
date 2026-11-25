@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -83,7 +84,12 @@ suvī́ryam ← suvī́rya- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मधु॑ नो॒ द्यावा॑पृथि॒वी मि॑मिक्षतां मधु॒श्चुता॑ मधु॒दुघे॒ मधु॑व्रते ।  
+दधा॑ने य॒ज्ञं द्रवि॑णं च दे॒वता॒ महि॒ श्रवो॒ वाज॑म॒स्मे सु॒वीर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

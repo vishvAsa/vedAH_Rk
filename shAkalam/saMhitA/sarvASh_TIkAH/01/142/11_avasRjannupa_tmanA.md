@@ -4,6 +4,7 @@ devataa = "वनस्पतिः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वनस्पतिः
@@ -68,7 +69,12 @@ devéṣu ← devá- (nominal stem)
 
 médhiraḥ ← médhira- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒व॒सृ॒जन्नुप॒ त्मना॑ दे॒वान्य॑क्षि वनस्पते ।  
+अ॒ग्निर्ह॒व्या सु॑षूदति दे॒वो दे॒वेषु॒ मेधि॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “wise; intelligent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

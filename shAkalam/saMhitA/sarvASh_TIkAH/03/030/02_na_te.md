@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ samidhāné ← √idh- 1 (root)
 
 yuktā́ḥ ← √yuj- (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न ते॑ दू॒रे प॑र॒मा चि॒द्रजां॒स्या तु प्र या॑हि हरिवो॒ हरि॑भ्याम् ।  
+स्थि॒राय॒ वृष्णे॒ सव॑ना कृ॒तेमा यु॒क्ता ग्रावा॑णः समिधा॒ने अ॒ग्नौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -277,7 +282,6 @@ It is for (you), the sturdy bull, that these pressings here were made and  the p
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/030/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -285,7 +289,6 @@ The next two vss. develop the theme sounded in pāda d of vs. 1.: Indra’s abse
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -86,7 +87,12 @@ suśáṁsāḥ ← suśáṁsa- (nominal stem)
 
 tāriṣīmahi ← √tr̥̄- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वया॑ व॒यमु॑त्त॒मं धी॑महे॒ वयो॒ बृह॑स्पते॒ पप्रि॑णा॒ सस्नि॑ना यु॒जा ।  
+मा नो॑ दुः॒शंसो॑ अभिदि॒प्सुरी॑शत॒ प्र सु॒शंसा॑ म॒तिभि॑स्तारिषीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

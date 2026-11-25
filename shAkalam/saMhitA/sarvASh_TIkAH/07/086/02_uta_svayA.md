@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -95,7 +96,12 @@ mr̥ḷīkám ← mr̥ḷīká- (nominal stem)
 
 sumánāḥ ← sumánas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्वया॑ त॒न्वा॒३॒॑ सं व॑दे॒ तत्क॒दा न्व१॒॑न्तर्वरु॑णे भुवानि ।  
+किं मे॑ ह॒व्यमहृ॑णानो जुषेत क॒दा मृ॑ळी॒कं सु॒मना॑ अ॒भि ख्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “name; describe; call; enumerate; watch; know.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

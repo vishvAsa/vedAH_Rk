@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -128,7 +129,13 @@ kr̥dhi ← √kr̥- (root)
 
 vā́jeṣu ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र हि त्वा॑ पूषन्नजि॒रं न याम॑नि॒ स्तोमे॑भिः कृ॒ण्व ऋ॒णवो॒ यथा॒ मृध॒ उष्ट्रो॒ न पी॑परो॒ मृधः॑ ।  
+हु॒वे यत्त्वा॑ मयो॒भुवं॑ दे॒वं स॒ख्याय॒ मर्त्यः॑ ।  
+अ॒स्माक॑माङ्गू॒षान्द्यु॒म्निन॑स्कृधि॒ वाजे॑षु द्यु॒म्निन॑स्कृधि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -341,7 +348,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

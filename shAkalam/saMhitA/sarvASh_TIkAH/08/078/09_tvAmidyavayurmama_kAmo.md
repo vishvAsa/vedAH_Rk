@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ aśvayúḥ ← aśvayú- (nominal stem)
 
 tvā́m ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वामिद्य॑व॒युर्मम॒ कामो॑ ग॒व्युर्हि॑रण्य॒युः ।  
+त्वाम॑श्व॒युरेष॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

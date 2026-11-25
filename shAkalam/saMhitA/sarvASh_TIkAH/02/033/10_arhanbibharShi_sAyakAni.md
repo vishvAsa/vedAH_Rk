@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -89,7 +90,12 @@ tvát ← tvám (pronoun)
 
 vaí ← vaí (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर्ह॑न्बिभर्षि॒ साय॑कानि॒ धन्वार्ह॑न्नि॒ष्कं य॑ज॒तं वि॒श्वरू॑पम् ।  
+अर्ह॑न्नि॒दं द॑यसे॒ विश्व॒मभ्वं॒ न वा ओजी॑यो रुद्र॒ त्वद॑स्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

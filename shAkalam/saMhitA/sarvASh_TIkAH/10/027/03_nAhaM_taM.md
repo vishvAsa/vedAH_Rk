@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ prá ← prá (invariable)
 
 vr̥ṣabhā́ ← vr̥ṣabhá- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाहं तं वे॑द॒ य इति॒ ब्रवी॒त्यदे॑वयून्त्स॒मर॑णे जघ॒न्वान् ।  
+य॒दावाख्य॑त्स॒मर॑ण॒मृघा॑व॒दादिद्ध॑ मे वृष॒भा प्र ब्रु॑वन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

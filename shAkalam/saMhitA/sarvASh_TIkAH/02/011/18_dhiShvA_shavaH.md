@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sādi ← √sad- (root)
 
 savyatás ← savyatás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धि॒ष्वा शवः॑ शूर॒ येन॑ वृ॒त्रम॒वाभि॑न॒द्दानु॑मौर्णवा॒भम् ।  
+अपा॑वृणो॒र्ज्योति॒रार्या॑य॒ नि स॑व्य॒तः सा॑दि॒ दस्यु॑रिन्द्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

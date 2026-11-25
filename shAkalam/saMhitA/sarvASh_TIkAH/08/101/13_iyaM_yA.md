@@ -4,6 +4,7 @@ devataa = "उषाः सूर्यप्रभा वा"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः सूर्यप्रभा वा
@@ -77,7 +78,12 @@ bāhúṣu ← bāhú- (nominal stem)
 
 daśásu ← dáśa- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं या नीच्य॒र्किणी॑ रू॒पा रोहि॑ण्या कृ॒ता ।  
+चि॒त्रेव॒ प्रत्य॑दर्श्याय॒त्य१॒॑न्तर्द॒शसु॑ बा॒हुषु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “arm; bāhu \[word\]; elbow; forefoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

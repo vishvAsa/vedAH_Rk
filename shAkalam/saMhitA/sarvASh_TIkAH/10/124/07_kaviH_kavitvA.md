@@ -4,6 +4,7 @@ devataa = "यथानिपातं"
 RShiH = "अग्निवरुणसोमानां निहवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यथानिपातं
@@ -95,7 +96,12 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 várṇam ← várṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒विः क॑वि॒त्वा दि॒वि रू॒पमास॑ज॒दप्र॑भूती॒ वरु॑णो॒ निर॒पः सृ॑जत् ।  
+क्षेमं॑ कृण्वा॒ना जन॑यो॒ न सिन्ध॑व॒स्ता अ॑स्य॒ वर्णं॒ शुच॑यो भरिभ्रति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -254,7 +260,6 @@ _________
 - \[verb\], plural, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

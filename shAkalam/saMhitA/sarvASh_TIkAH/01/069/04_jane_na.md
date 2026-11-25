@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -55,7 +56,11 @@ níṣattaḥ ← √sad- (root)
 
 raṇváḥ ← raṇvá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जने॒ न शेव॑ आ॒हूर्यः॒ सन्मध्ये॒ निष॑त्तो र॒ण्वो दु॑रो॒णे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +126,6 @@ _________
 - “home; dwelling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "त्वष्टा"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्वष्टा
@@ -86,7 +87,12 @@ etu ← √i- 1 (root)
 
 pā́thaḥ ← pā́thas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒शङ्ग॑रूपः सु॒भरो॑ वयो॒धाः श्रु॒ष्टी वी॒रो जा॑यते दे॒वका॑मः ।  
+प्र॒जां त्वष्टा॒ वि ष्य॑तु॒ नाभि॑म॒स्मे अथा॑ दे॒वाना॒मप्ये॑तु॒ पाथः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “pāthas \[word\]; water; place.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

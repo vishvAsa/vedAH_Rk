@@ -4,6 +4,7 @@ devataa = "इन्द्राबृहस्पती"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राबृहस्पती
@@ -60,7 +61,12 @@ mádaḥ ← máda- (nominal stem)
 
 ukthám ← ukthá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं वा॑मा॒स्ये॑ ह॒विः प्रि॒यमि॑न्द्राबृहस्पती ।  
+उ॒क्थं मद॑श्च शस्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

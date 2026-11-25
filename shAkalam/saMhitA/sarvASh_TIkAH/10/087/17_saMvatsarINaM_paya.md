@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -83,7 +84,12 @@ tám ← sá- ~ tá- (pronoun)
 
 vidhya ← √vyadh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं॒व॒त्स॒रीणं॒ पय॑ उ॒स्रिया॑या॒स्तस्य॒ माशी॑द्यातु॒धानो॑ नृचक्षः ।  
+पी॒यूष॑मग्ने यत॒मस्तितृ॑प्सा॒त्तं प्र॒त्यञ्च॑म॒र्चिषा॑ विध्य॒ मर्म॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “marman; secret; secret; mystery; vulnerability.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

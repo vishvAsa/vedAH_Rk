@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -79,7 +80,12 @@ sákhibhyaḥ ← sákhi- (nominal stem)
 
 svarā́jyam ← svarā́jya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधि॒ सानौ॒ नि जि॑घ्नते॒ वज्रे॑ण श॒तप॑र्वणा ।  
+म॒न्दा॒न इन्द्रो॒ अन्ध॑सः॒ सखि॑भ्यो गा॒तुमि॑च्छ॒त्यर्च॒न्ननु॑ स्व॒राज्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “kingdom; kingship; sovereignty; rājya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -224,17 +229,12 @@ He keeps smashing down on his back with the hundred-jointed mace. Indra, exhilar
 – They cheer on his sovereign power.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This verse paraphrases and expands vs. 2. The nominal expression in 2b ási bhū́ri parādadíḥ is turned into the verb parādádāti in 6b; śikṣasi in 2d is echoed by śikṣatu in 6c; the phrase bhū́ri te vásu is repeated verbatim (2e, 6d); and the dative beneficiaries in 2 (yájamānāya 2d, suvaté 2e) are replaced by dāśúṣe (6b) and, more tellingly, asmábhyam (6c). The source of the wealth that Indra distributes is also made clear: it belonged to the stranger and is presumably plunder.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/080/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 I don’t see any real difference between áva jighnate (5) and ní jighnate (6) that could account for difference in case frame: acc. in 5, loc. in 6.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

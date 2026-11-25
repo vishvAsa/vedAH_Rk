@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ satyáḥ ← satyá- (nominal stem)
 
 vidvā́n ← √vid- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स ईं॑ मृ॒गो अप्यो॑ वन॒र्गुरुप॑ त्व॒च्यु॑प॒मस्यां॒ नि धा॑यि ।  
+व्य॑ब्रवीद्व॒युना॒ मर्त्ये॑भ्यो॒ऽग्निर्वि॒द्वाँ ऋ॑त॒चिद्धि स॒त्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “true; real; real; faithful; good.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

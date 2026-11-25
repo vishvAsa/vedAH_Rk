@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ tát ← sá- ~ tá- (pronoun)
 
 vácaḥ ← vácas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यमु॑ ते॒ सम॑तसि क॒पोत॑ इव गर्भ॒धिम् ।  
+वच॒स्तच्चि॑न्न ओहसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “diagnose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

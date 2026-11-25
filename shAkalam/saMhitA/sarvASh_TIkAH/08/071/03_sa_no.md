@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 viśvávāram ← viśvávāra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॒ विश्वे॑भिर्दे॒वेभि॒रूर्जो॑ नपा॒द्भद्र॑शोचे ।  
+र॒यिं दे॑हि वि॒श्ववा॑रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “treasure; choice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

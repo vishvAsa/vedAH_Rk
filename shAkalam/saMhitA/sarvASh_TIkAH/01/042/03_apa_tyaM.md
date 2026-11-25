@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -57,7 +58,12 @@ dūrám ← dūrá- (nominal stem)
 
 srutéḥ ← srutí- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप॒ त्यं प॑रिप॒न्थिनं॑ मुषी॒वाणं॑ हुर॒श्चित॑म् ।  
+दू॒रमधि॑ स्रु॒तेर॑ज ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “drive; expel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

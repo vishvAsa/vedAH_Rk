@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -89,7 +90,12 @@ savitar ← savitár- (nominal stem)
 
 uruśáṁsāya ← uruśáṁsa- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मभ्यं॒ तद्दि॒वो अ॒द्भ्यः पृ॑थि॒व्यास्त्वया॑ द॒त्तं काम्यं॒ राध॒ आ गा॑त् ।  
+शं यत्स्तो॒तृभ्य॑ आ॒पये॒ भवा॑त्युरु॒शंसा॑य सवितर्जरि॒त्रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “singer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

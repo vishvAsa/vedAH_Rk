@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 vartaníbhyām ← vartaní- (nominal stem)  
 {case:INS, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वश्वा॑ य॒शसा या॑तम॒र्वाग्दस्रा॑ नि॒धिं मधु॑मन्तं पिबाथः ।  
+वि वां॒ रथो॑ व॒ध्वा॒३॒॑ याद॑मा॒नोऽन्ता॑न्दि॒वो बा॑धते वर्त॒निभ्या॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “path; East; way.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

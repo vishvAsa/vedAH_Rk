@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -17,13 +18,13 @@ ChandaH = "गायत्री"
 पर्ज᳓न्यो वृष्टिमाँ᳓ इव  
 स्तो᳓मैर् वत्स᳓स्य वावृधे
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 म॒हाँ इन्द्रो॒ य ओज॑सा ।  
 प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
 स्तोमै॑र्व॒त्सस्य॑ वावृधे ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -67,7 +68,12 @@ vatsásya ← vatsá- (nominal stem)
 
 vāvr̥dhe ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हाँ इन्द्रो॒ य ओज॑सा प॒र्जन्यो॑ वृष्टि॒माँ इ॑व ।  
+स्तोमै॑र्व॒त्सस्य॑ वावृधे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

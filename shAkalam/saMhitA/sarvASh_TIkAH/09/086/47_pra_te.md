@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गृत्समदः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ soma ← sóma- (nominal stem)
 
 suvānáḥ ← √su- (root)  
 {case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॒ धारा॒ अत्यण्वा॑नि मे॒ष्यः॑ पुना॒नस्य॑ सं॒यतो॑ यन्ति॒ रंह॑यः ।  
+यद्गोभि॑रिन्दो च॒म्वोः॑ सम॒ज्यस॒ आ सु॑वा॒नः सो॑म क॒लशे॑षु सीदसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -252,10 +257,6 @@ When, o drop, you are anointed with cows in the two cups, being
 pressed you sit in the tubs, Soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Pāda b is awk. in English. The sense is that the streams of the soma being purified go charging forward continuously, with ráṃhayaḥ ‘charges, speedy forward movements’ subj. of yanti.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md">
 <details><summary><h2>46-48 ...{Loading}...</h2></summary>
 
@@ -263,7 +264,6 @@ The hymn ends with a tṛca no more unified than most of those that preceded it,
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

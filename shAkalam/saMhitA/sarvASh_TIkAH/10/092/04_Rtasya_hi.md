@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ savitā́ ← savitár- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॒ हि प्रसि॑ति॒र्द्यौरु॒रु व्यचो॒ नमो॑ म॒ह्य१॒॑रम॑तिः॒ पनी॑यसी ।  
+इन्द्रो॑ मि॒त्रो वरु॑णः॒ सं चि॑कित्रि॒रेऽथो॒ भगः॑ सवि॒ता पू॒तद॑क्षसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “intelligent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

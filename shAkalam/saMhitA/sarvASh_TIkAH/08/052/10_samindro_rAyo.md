@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ amandiṣuḥ ← √mand- (root)
 
 sómāḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समिन्द्रो॒ रायो॑ बृह॒तीर॑धूनुत॒ सं क्षो॒णी समु॒ सूर्य॑म् ।  
+सं शु॒क्रासः॒ शुच॑यः॒ सं गवा॑शिरः॒ सोमा॒ इन्द्र॑ममन्दिषुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

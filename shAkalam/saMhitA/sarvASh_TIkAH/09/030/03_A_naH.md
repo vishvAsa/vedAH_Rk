@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "बिन्दुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ pávasva ← √pū- (root)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नः॒ शुष्मं॑ नृ॒षाह्यं॑ वी॒रव॑न्तं पुरु॒स्पृह॑म् ।  
+पव॑स्व सोम॒ धार॑या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “flush; flow; current; spring; fountain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

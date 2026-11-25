@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ sáhaḥ ← sáhas- (nominal stem)
 
 turvī́tim ← turvī́ti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निना॑ तु॒र्वशं॒ यदुं॑ परा॒वत॑ उ॒ग्रादे॑वं हवामहे ।  
+अ॒ग्निर्न॑य॒न्नव॑वास्त्वं बृ॒हद्र॑थं तु॒र्वीतिं॒ दस्य॑वे॒ सहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “force; strength; might; sahas \[word\]; conquest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

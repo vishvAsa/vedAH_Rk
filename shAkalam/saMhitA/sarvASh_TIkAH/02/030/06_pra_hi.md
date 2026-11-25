@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ
@@ -86,7 +87,12 @@ kr̥ṇutam ← √kr̥- (root)
 
 ulokám ← uloká- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र हि क्रतुं॑ वृ॒हथो॒ यं व॑नु॒थो र॒ध्रस्य॑ स्थो॒ यज॑मानस्य चो॒दौ ।  
+इन्द्रा॑सोमा यु॒वम॒स्माँ अ॑विष्टम॒स्मिन्भ॒यस्थे॑ कृणुतमु लो॒कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     \[word\]; space; Loka; topographic point; region; common sense.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

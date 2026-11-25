@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "एवयामरुदात्रेयः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -112,7 +113,12 @@ tát ← sá- ~ tá- (pronoun)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ये जा॒ता म॑हि॒ना ये च॒ नु स्व॒यं प्र वि॒द्मना॑ ब्रु॒वत॑ एव॒याम॑रुत् ।  
+क्रत्वा॒ तद्वो॑ मरुतो॒ नाधृषे॒ शवो॑ दा॒ना म॒ह्ना तदे॑षा॒मधृ॑ष्टासो॒ नाद्र॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -297,7 +303,6 @@ _________
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

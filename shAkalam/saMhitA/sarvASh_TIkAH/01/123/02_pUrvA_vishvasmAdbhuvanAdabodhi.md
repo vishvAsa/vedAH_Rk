@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ pūrváhūtau ← pūrváhūti- (nominal stem)
 
 uṣā́ḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पूर्वा॒ विश्व॑स्मा॒द्भुव॑नादबोधि॒ जय॑न्ती॒ वाजं॑ बृह॒ती सनु॑त्री ।  
+उ॒च्चा व्य॑ख्यद्युव॒तिः पु॑न॒र्भूरोषा अ॑गन्प्रथ॒मा पू॒र्वहू॑तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

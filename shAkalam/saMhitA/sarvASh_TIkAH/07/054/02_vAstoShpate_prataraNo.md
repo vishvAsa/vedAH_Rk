@@ -4,6 +4,7 @@ devataa = "वास्तोष्पतिः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वास्तोष्पतिः
@@ -89,7 +90,12 @@ práti ← práti (invariable)
 
 putrā́n ← putrá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वास्तो॑ष्पते प्र॒तर॑णो न एधि गय॒स्फानो॒ गोभि॒रश्वे॑भिरिन्दो ।  
+अ॒जरा॑सस्ते स॒ख्ये स्या॑म पि॒तेव॑ पु॒त्रान्प्रति॑ नो जुषस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -251,10 +256,6 @@ O Lord of the Dwelling Place, be one who furthers us, fattening the  livestock w
 In your companionship might we be unaging. Like a father his sons,  favor us in return.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The voc. indo ‘o drop’ in b is incongruous in this context, and as Geldner points out, the 1st hemistich seems to have been adapted from a Soma hymn, where ‘drop’ would be appropriate. He adduces I.91.19 (c: gayasphā́naḥ pratáraṇaḥ …) and 12, whose 1st pāda also contains gayasphā́naḥ, though the matches are not exact and neither of the cited pādas contains indo. However, gayasphā́na- is found only in those two passages and in our vs. 78
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/054/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -262,7 +263,6 @@ On práti √juṣ see comm. ad IX.92.1.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

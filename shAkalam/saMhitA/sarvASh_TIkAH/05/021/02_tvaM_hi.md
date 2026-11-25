@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सस आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ sárpirāsute ← sarpírāsuti- (nominal stem)
 
 sújāta ← sujātá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं हि मानु॑षे॒ जनेऽग्ने॒ सुप्री॑त इ॒ध्यसे॑ ।  
+स्रुच॑स्त्वा यन्त्यानु॒षक्सुजा॑त॒ सर्पि॑रासुते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “āsuti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

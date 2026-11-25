@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ sukr̥tásya ← sukr̥tá- (nominal stem)
 
 yónau ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒ध्या यत्कर्त्व॒मभ॑वद॒भीके॒ कामं॑ कृण्वा॒ने पि॒तरि॑ युव॒त्याम् ।  
+म॒ना॒नग्रेतो॑ जहतुर्वि॒यन्ता॒ सानौ॒ निषि॑क्तं सुकृ॒तस्य॒ योनौ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
     birth; kind; caste; kinship; bed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

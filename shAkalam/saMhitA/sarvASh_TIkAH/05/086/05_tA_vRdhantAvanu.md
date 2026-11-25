@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -77,7 +78,12 @@ devaú ← devá- (nominal stem)
 
 iva ← iva (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता वृ॒धन्ता॒वनु॒ द्यून्मर्ता॑य दे॒वाव॒दभा॑ ।  
+अर्ह॑न्ता चित्पु॒रो द॒धेंऽशे॑व दे॒वावर्व॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “horse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

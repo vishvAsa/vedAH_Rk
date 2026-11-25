@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ uṣarbúdhaḥ ← uṣarbúdh- (nominal stem)
 
 vahantu ← √vah- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एह दे॒वा म॑यो॒भुवा॑ द॒स्रा हिर॑ण्यवर्तनी ।  
+उ॒ष॒र्बुधो॑ वहन्तु॒ सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

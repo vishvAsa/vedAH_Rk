@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "द्वितो मृक्तवाहा आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ pári ← pári (invariable)
 
 śrávāṁsi ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चि॒त्रा वा॒ येषु॒ दीधि॑तिरा॒सन्नु॒क्था पान्ति॒ ये ।  
+स्ती॒र्णं ब॒र्हिः स्व॑र्णरे॒ श्रवां॑सि दधिरे॒ परि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “from; about; around.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

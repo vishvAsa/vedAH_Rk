@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "बुधगविष्ठिरावात्रेयौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ nís ← nís (invariable)
 
 támasaḥ ← támas- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अबो॑धि॒ होता॑ य॒जथा॑य दे॒वानू॒र्ध्वो अ॒ग्निः सु॒मनाः॑ प्रा॒तर॑स्थात् ।  
+समि॑द्धस्य॒ रुश॑ददर्शि॒ पाजो॑ म॒हान्दे॒वस्तम॑सो॒ निर॑मोचि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     discharge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ me ← ahám (pronoun)
 
 yā́man ← yā́man- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस॑र्जि वां॒ स्थवि॑रा वेधसा॒ गीर्बा॒ळ्हे अ॑श्विना त्रे॒धा क्षर॑न्ती ।  
+उप॑स्तुताववतं॒ नाध॑मानं॒ याम॒न्नया॑मञ्छृणुतं॒ हवं॑ मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

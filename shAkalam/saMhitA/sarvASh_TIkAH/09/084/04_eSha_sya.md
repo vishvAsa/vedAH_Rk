@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रजापतिर्वाच्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ kaláśeṣu ← kaláśa- (nominal stem)
 
 sīdati ← √sad- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्य सोमः॑ पवते सहस्र॒जिद्धि॑न्वा॒नो वाच॑मिषि॒रामु॑ष॒र्बुध॑म् ।  
+इन्दुः॑ समु॒द्रमुदि॑यर्ति वा॒युभि॒रेन्द्र॑स्य॒ हार्दि॑ क॒लशे॑षु सीदति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

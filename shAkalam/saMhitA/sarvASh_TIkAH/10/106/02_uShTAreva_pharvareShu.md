@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भूतांशः काश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ mahiṣā́ ← mahiṣá- (nominal stem)
 
 sthātam ← √sthā- (root)  
 {number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ष्टारे॑व॒ फर्व॑रेषु श्रयेथे प्रायो॒गेव॒ श्वात्र्या॒ शासु॒रेथः॑ ।  
+दू॒तेव॒ हि ष्ठो य॒शसा॒ जने॑षु॒ माप॑ स्थातं महि॒षेवा॑व॒पाना॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “drinking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

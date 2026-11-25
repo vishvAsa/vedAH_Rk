@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ utá ← utá (invariable)
 
 vaso ← vásu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यमि॑न्द्र त्वा॒यवो॑ ह॒विष्म॑न्तो जरामहे ।  
+उ॒त त्वम॑स्म॒युर्व॑सो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “good; good; benign; vasu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

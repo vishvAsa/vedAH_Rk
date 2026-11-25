@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ ohate ← √uh- (root)
 
 sūríḥ ← sūrí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असु॑न्वन्तं समं जहि दू॒णाशं॒ यो न ते॒ मयः॑ ।  
+अ॒स्मभ्य॑मस्य॒ वेद॑नं द॒द्धि सू॒रिश्चि॑दोहते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “diagnose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

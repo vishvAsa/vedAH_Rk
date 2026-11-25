@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ vándasva ← √vandⁱ- (root)
 
 vipra ← vípra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे॒षं ग॒णं त॒वसं॒ खादि॑हस्तं॒ धुनि॑व्रतं मा॒यिनं॒ दाति॑वारम् ।  
+म॒यो॒भुवो॒ ये अमि॑ता महि॒त्वा वन्द॑स्व विप्र तुवि॒राध॑सो॒ नॄन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

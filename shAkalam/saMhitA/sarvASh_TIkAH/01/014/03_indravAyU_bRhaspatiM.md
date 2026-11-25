@@ -4,6 +4,7 @@ devataa = "इन्द्रवायुबृहस्पतिमित्र
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायुबृहस्पतिमित्राग्निपूषभगादित्यमरुद्गणाः
@@ -57,7 +58,12 @@ gaṇám ← gaṇá- (nominal stem)
 
 mā́rutam ← mā́ruta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒न्द्र॒वा॒यू बृह॒स्पतिं॑ मि॒त्राग्निं पू॒षणं॒ भग॑म् ।  
+आ॒दि॒त्यान्मारु॑तं ग॒णम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     Ganesa; flight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

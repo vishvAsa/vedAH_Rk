@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ antárikṣyā ← antárikṣya- (nominal stem)
 
 pávatām ← √pū- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स विश्वा॑ दा॒शुषे॒ वसु॒ सोमो॑ दि॒व्यानि॒ पार्थि॑वा ।  
+पव॑ता॒मान्तरि॑क्ष्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - \[noun\], accusative, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -63,7 +63,11 @@ jīváḥ ← jīvá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदित्ते॒ विश्वे॒ क्रतुं॑ जुषन्त॒ शुष्का॒द्यद्दे॑व जी॒वो जनि॑ष्ठाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,12 +148,11 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
 
-हे **देव** द्योतमानाग्ने **जीवः** जीवन् प्रज्वलन् **शुष्कात्** नीरसात् अरणिरूपात काष्ठात् **यत्** यदा **जनिष्ठाः** प्रादुर्भवसि मथनेनोत्पद्यसे **आदित्** अनन्तरमेव **विश्वे** सर्वे यजमानाः **ते** तुभ्यं **क्रतुं** कर्म **जुषन्त** सेवन्ते अनुतिष्ठन्ति । 
+हे **देव** द्योतमानाग्ने **जीवः** जीवन् प्रज्वलन् **शुष्कात्** नीरसात् अरणिरूपात काष्ठात् **यत्** यदा **जनिष्ठाः** प्रादुर्भवसि मथनेनोत्पद्यसे **आदित्** अनन्तरमेव **विश्वे** सर्वे यजमानाः **ते** तुभ्यं **क्रतुं** कर्म **जुषन्त** सेवन्ते अनुतिष्ठन्ति ।
 </details>
 
 <details><summary>Wilson</summary>
@@ -186,10 +189,6 @@ Da erfreuten sich alle deines Rates, als du Gott lebend aus dem trocknen Holze g
 
 Dann freuen alle – sich deiner Stärke, wenn, Gott, du lebend – entsprangst aus Dürrem; Dann werden alle – der Gottheit theilhaft, wie's Brauch ist, ehrend, – den wahren ew'gen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

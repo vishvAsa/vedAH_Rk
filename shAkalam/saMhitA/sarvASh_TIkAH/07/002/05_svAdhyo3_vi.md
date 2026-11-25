@@ -4,6 +4,7 @@ devataa = "देवीर्द्वारः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवीर्द्वारः
@@ -83,7 +84,12 @@ sám ← sám (invariable)
 
 sámaneṣu ← sámana- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वा॒ध्यो॒३॒॑ वि दुरो॑ देव॒यन्तोऽशि॑श्रयू रथ॒युर्दे॒वता॑ता ।  
+पू॒र्वी शिशुं॒ न मा॒तरा॑ रिहा॒णे सम॒ग्रुवो॒ न सम॑नेष्वञ्जन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “smear; anoint; mix; color.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

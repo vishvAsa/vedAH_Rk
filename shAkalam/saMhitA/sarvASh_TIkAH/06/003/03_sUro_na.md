@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ vanejā́ḥ ← vanejā́- (nominal stem)
 
 vasatíḥ ← vasatí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सूरो॒ न यस्य॑ दृश॒तिर॑रे॒पा भी॒मा यदेति॑ शुच॒तस्त॒ आ धीः ।  
+हेष॑स्वतः शु॒रुधो॒ नायम॒क्तोः कुत्रा॑ चिद्र॒ण्वो व॑स॒तिर्व॑ने॒जाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

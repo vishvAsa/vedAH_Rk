@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ duhántaḥ ← √duh- (root)
 
 útsam ← útsa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये द्र॒प्सा इ॑व॒ रोद॑सी॒ धम॒न्त्यनु॑ वृ॒ष्टिभिः॑ ।  
+उत्सं॑ दु॒हन्तो॒ अक्षि॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “undecaying; uninjured.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -157,10 +162,6 @@ They who, like droplets, blow their blast through the two world-halves  along wi
 milking the unfailing wellspring,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-However odd the expression drapsā́ḥ … dhámanti “the droplets blow their blast” may seem, it is found twice elsewhere: the extremely enigmatic VIII.96.13 and the somewhat clearer IX.73.1. The latter is a noise-making context, as this may be.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/16-17.md">
 <details><summary><h2>16-17 ...{Loading}...</h2></summary>
 
@@ -170,7 +171,6 @@ On svānébhiḥ in 17a see comm. on 14. Because vss. 16 and 17 are so closely t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "विराड्रूपा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ vasútātim ← vasútāti- (nominal stem)
 
 voceya ← √vac- (root)  
 {number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वो॑ रुव॒ण्युमौ॑शि॒जो हु॒वध्यै॒ घोषे॑व॒ शंस॒मर्जु॑नस्य॒ नंशे॑ ।  
+प्र वः॑ पू॒ष्णे दा॒वन॒ आँ अच्छा॑ वोचेय व॒सुता॑तिम॒ग्नेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

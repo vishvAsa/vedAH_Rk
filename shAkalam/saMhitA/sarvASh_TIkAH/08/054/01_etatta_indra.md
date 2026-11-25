@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ nakṣan ← √nakṣ- (root)
 
 paurā́saḥ ← paurá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तत्त॑ इन्द्र वी॒र्यं॑ गी॒र्भिर्गृ॒णन्ति॑ का॒रवः॑ ।  
+ते स्तोभ॑न्त॒ ऊर्ज॑मावन्घृत॒श्चुतं॑ पौ॒रासो॑ नक्षन्धी॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “thinking; prayer; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ tvé ← tvám (pronoun)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त इद्वेदिं॑ सुभग॒ त आहु॑तिं॒ ते सोतुं॑ चक्रिरे दि॒वि ।  
+त इद्वाजे॑भिर्जिग्युर्म॒हद्धनं॒ ये त्वे कामं॑ न्येरि॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - \[verb\], plural, Perfect indicative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

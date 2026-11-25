@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -92,7 +93,12 @@ sākám ← sākám (invariable)
 
 yajñíyāsaḥ ← yajñíya- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एकं॑ चम॒सं च॒तुरः॑ कृणोतन॒ तद्वो॑ दे॒वा अ॑ब्रुव॒न्तद्व॒ आग॑मम् ।  
+सौध॑न्वना॒ यद्ये॒वा क॑रि॒ष्यथ॑ सा॒कं दे॒वैर्य॒ज्ञिया॑सो भविष्यथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

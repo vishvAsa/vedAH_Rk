@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "बृहन्मतिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ sīdata ← √sad- (root)
 
 yónau ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मी॒ची॒ना अ॑नूषत॒ हरिं॑ हिन्व॒न्त्यद्रि॑भिः ।  
+योना॑वृ॒तस्य॑ सीदत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +122,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

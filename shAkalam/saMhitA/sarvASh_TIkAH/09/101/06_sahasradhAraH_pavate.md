@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ययातिर्नाहुषः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -62,7 +63,12 @@ divé-dive ← dyú- ~ div- (nominal stem)
 
 sákhā ← sákhi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्र॑धारः पवते समु॒द्रो वा॑चमीङ्ख॒यः ।  
+सोमः॒ पती॑ रयी॒णां सखेन्द्र॑स्य दि॒वेदि॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “day; sky; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -172,12 +177,6 @@ Possessing a thousand streams he purifies himself, a sea setting speech  aswing,
 Soma, lord of riches, comrade of Indra, day after day.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The phrase samudró vācamīṅkhayáḥ recalls the variant compds in IX.35.2 and 5: samudramīṅkhaya (2a) and vācamīṅkhayám (5a).
-
-Note that all 4 pādas begin with s-.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -185,7 +184,6 @@ No particular unity in this tṛca unless the mention of Indra in each vs. count
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

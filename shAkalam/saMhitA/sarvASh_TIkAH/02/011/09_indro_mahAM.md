@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ vájrāt ← vájra- (nominal stem)
 
 vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ म॒हां सिन्धु॑मा॒शया॑नं माया॒विनं॑ वृ॒त्रम॑स्फुर॒न्निः ।  
+अरे॑जेतां॒ रोद॑सी भिया॒ने कनि॑क्रदतो॒ वृष्णो॑ अस्य॒ वज्रा॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

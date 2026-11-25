@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -86,7 +87,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 suvī́rām ← suvī́ra- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒दा॒नासो॒ जन्म॑नो वाजरत्ना उ॒त ऋ॒तुभि॑रृभवो मादयध्वम् ।  
+सं वो॒ मदा॒ अग्म॑त॒ सं पुरं॑धिः सु॒वीरा॑म॒स्मे र॒यिमेर॑यध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - \[verb\], plural, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

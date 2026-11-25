@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ mádeṣu ← máda- (nominal stem)
 
 sarvadhā́ḥ ← sarvadhā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यो विश्वा॑नि॒ वार्या॒ वसू॑नि॒ हस्त॑योर्द॒धे ।  
+मदे॑षु सर्व॒धा अ॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -171,7 +176,6 @@ He who holds all desirable good things in his two hands—
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -186,7 +190,6 @@ Vss. 4-6 all (save for the refrain pāda) consist of rel. clauses headed by yá�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

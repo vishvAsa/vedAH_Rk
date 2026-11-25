@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ pūrvyā́ṇi ← pūrvyá- (nominal stem)
 
 śiśnathat ← √śnathⁱ- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यावो॒ न यस्य॑ प॒नय॒न्त्यभ्वं॒ भासां॑सि वस्ते॒ सूर्यो॒ न शु॒क्रः ।  
+वि य इ॒नोत्य॒जरः॑ पाव॒कोऽश्न॑स्य चिच्छिश्नथत्पू॒र्व्याणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “first; precedent; age-old; excellent; former(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

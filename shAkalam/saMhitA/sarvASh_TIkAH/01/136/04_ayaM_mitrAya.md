@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -113,7 +114,13 @@ yát ← yá- (pronoun)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं मि॒त्राय॒ वरु॑णाय॒ शन्त॑मः॒ सोमो॑ भूत्वव॒पाने॒ष्वाभ॑गो दे॒वो दे॒वेष्वाभ॑गः ।  
+तं दे॒वासो॑ जुषेरत॒ विश्वे॑ अ॒द्य स॒जोष॑सः ।  
+तथा॑ राजाना करथो॒ यदीम॑ह॒ ऋता॑वाना॒ यदीम॑हे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -293,7 +300,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

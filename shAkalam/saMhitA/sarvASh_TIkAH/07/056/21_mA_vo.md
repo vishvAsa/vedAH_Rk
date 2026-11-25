@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -98,7 +99,12 @@ vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा वो॑ दा॒त्रान्म॑रुतो॒ निर॑राम॒ मा प॒श्चाद्द॑घ्म रथ्यो विभा॒गे ।  
+आ नः॑ स्पा॒र्हे भ॑जतना वस॒व्ये॒३॒॑ यदीं॑ सुजा॒तं वृ॑षणो वो॒ अस्ति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

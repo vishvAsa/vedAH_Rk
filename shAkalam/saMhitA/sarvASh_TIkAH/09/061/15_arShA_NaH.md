@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ ukthyàm ← ukthyà- (nominal stem)
 
 várdha ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर्षा॑ णः सोम॒ शं गवे॑ धु॒क्षस्व॑ पि॒प्युषी॒मिष॑म् ।  
+वर्धा॑ समु॒द्रमु॒क्थ्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “applaudable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -169,7 +174,6 @@ Increase the sea, worthy of hymns.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -177,7 +181,6 @@ Again no signs of tṛca unity, unless the presence of cows in all three verses 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

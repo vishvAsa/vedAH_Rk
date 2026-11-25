@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -58,7 +59,11 @@ páyaḥ ← páyas- (nominal stem)
 
 vibhā́vā ← vibhā́van- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तक्वा॒ न भूर्णि॒र्वना॑ सिषक्ति॒ पयो॒ न धे॒नुः शुचि॑र्वि॒भावा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +132,6 @@ _________
 - “illuminating; shining.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

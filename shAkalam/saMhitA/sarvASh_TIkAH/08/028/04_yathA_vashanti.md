@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "पुरउष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -72,7 +73,12 @@ caná ← caná (invariable)
 
 mártyaḥ ← mártya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॒ वश॑न्ति दे॒वास्तथेद॑स॒त्तदे॑षां॒ नकि॒रा मि॑नत् ।  
+अरा॑वा च॒न मर्त्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

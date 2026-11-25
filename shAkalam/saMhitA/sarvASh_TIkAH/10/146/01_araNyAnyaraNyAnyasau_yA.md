@@ -4,6 +4,7 @@ devataa = "अरण्यानी"
 RShiH = "देवमुनिरैरम्मदः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अरण्यानी
@@ -80,7 +81,12 @@ tvā ← tvám (pronoun)
 
 vindati ← √vid- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर॑ण्या॒न्यर॑ण्यान्य॒सौ या प्रेव॒ नश्य॑सि ।  
+क॒था ग्रामं॒ न पृ॑च्छसि॒ न त्वा॒ भीरि॑व विन्दती३ँ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

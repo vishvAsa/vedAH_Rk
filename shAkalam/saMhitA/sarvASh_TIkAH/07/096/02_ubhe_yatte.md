@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -80,7 +81,12 @@ maghónām ← maghávan- (nominal stem)
 
 rā́dhaḥ ← rā́dhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भे यत्ते॑ महि॒ना शु॑भ्रे॒ अन्ध॑सी अधिक्षि॒यन्ति॑ पू॒रवः॑ ।  
+सा नो॑ बोध्यवि॒त्री म॒रुत्स॑खा॒ चोद॒ राधो॑ म॒घोना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

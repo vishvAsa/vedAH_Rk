@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ stuhi ← √stu- (root)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्तोमो॒ मारु॑तं॒ शर्धो॒ अच्छा॑ रु॒द्रस्य॑ सू॒नूँर्यु॑व॒न्यूँरुद॑श्याः ।  
+कामो॑ रा॒ये ह॑वते मा स्व॒स्त्युप॑ स्तुहि॒ पृष॑दश्वाँ अ॒यासः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “undaunted; irrepressible; audacious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,7 +254,6 @@ Desire calls me to wealth with well-being. Praise the unruly ones with  dappled 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/042/14-16.md">
 <details><summary><h2>14-16 ...{Loading}...</h2></summary>
 
@@ -257,7 +261,6 @@ This trio of vss. echoes vs. 1 and ring-compositionally seems to bring the hymn 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

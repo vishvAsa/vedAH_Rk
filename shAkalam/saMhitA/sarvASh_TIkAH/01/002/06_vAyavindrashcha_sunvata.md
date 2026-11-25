@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -66,7 +67,12 @@ makṣú ← makṣú- (nominal stem)
 
 narā ← nár- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाय॒विन्द्र॑श्च सुन्व॒त आ या॑त॒मुप॑ निष्कृ॒तम् ।  
+म॒क्ष्वि१॒॑त्था धि॒या न॑रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
     servant; hero.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -120,7 +121,12 @@ ca ← ca (invariable)
 
 yāthaḥ ← √yā- 1 (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अति॑ वायो सस॒तो या॑हि॒ शश्व॑तो॒ यत्र॒ ग्रावा॒ वद॑ति॒ तत्र॑ गच्छतं गृ॒हमिन्द्र॑श्च गच्छतम् ।  
+वि सू॒नृता॒ ददृ॑शे॒ रीय॑ते घृ॒तमा पू॒र्णया॑ नि॒युता॑ याथो अध्व॒रमिन्द्र॑श्च याथो अध्व॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -315,7 +321,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ bhrā́jadr̥ṣṭayaḥ ← bhrā́jadr̥ṣṭi- (nominal stem)
 
 marútaḥ ← marút- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने प्रथ॒मो अङ्गि॑रा॒ ऋषि॑र्दे॒वो दे॒वाना॑मभवः शि॒वः सखा॑ ।  
+तव॑ व्र॒ते क॒वयो॑ विद्म॒नाप॒सोऽजा॑यन्त म॒रुतो॒ भ्राज॑दृष्टयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “spear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

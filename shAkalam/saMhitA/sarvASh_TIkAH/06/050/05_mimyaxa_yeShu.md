@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ právikte ← √vij- (root)
 
 rejante ← √rej- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒म्यक्ष॒ येषु॑ रोद॒सी नु दे॒वी सिष॑क्ति पू॒षा अ॑भ्यर्ध॒यज्वा॑ ।  
+श्रु॒त्वा हवं॑ मरुतो॒ यद्ध॑ या॒थ भूमा॑ रेजन्ते॒ अध्व॑नि॒ प्रवि॑क्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - \[verb noun\], locative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -68,7 +69,14 @@ jānatā́ ← √jñā- (root)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒स्ति पन्था॒म् अनु॑ चरेम  
+सूर्या-चन्द्र॒मसा॑व् इव ।  
+पुन॒र् दद॒ताघ्न॑ता  
+जान॒ता +++(बन्धु-मित्रैः)+++ सं ग॑मेमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +177,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -207,7 +214,6 @@ riors, and their naturalistic existence as personifications of the monsoon/thun 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
 <details><summary><h2>11-15 ...{Loading}...</h2></summary>
 
@@ -217,7 +223,6 @@ Its lexical hero is svastí-, a form of which appears in every pāda between 11a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

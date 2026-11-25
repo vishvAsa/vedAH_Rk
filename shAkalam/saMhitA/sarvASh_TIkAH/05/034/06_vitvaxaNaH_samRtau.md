@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ nayati ← √nī- (root)
 
 yathāvaśám ← yathāvaśám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒त्वक्ष॑णः॒ समृ॑तौ चक्रमास॒जोऽसु॑न्वतो॒ विषु॑णः सुन्व॒तो वृ॒धः ।  
+इन्द्रो॒ विश्व॑स्य दमि॒ता वि॒भीष॑णो यथाव॒शं न॑यति॒ दास॒मार्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

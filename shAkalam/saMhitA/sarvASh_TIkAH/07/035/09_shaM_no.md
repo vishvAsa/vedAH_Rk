@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -107,7 +108,12 @@ u ← u (invariable)
 
 vāyúḥ ← vāyú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नो॒ अदि॑तिर्भवतु व्र॒तेभिः॒ शं नो॑ भवन्तु म॒रुतः॑ स्व॒र्काः ।  
+शं नो॒ विष्णुः॒ शमु॑ पू॒षा नो॑ अस्तु॒ शं नो॑ भ॒वित्रं॒ शम्व॑स्तु वा॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -283,7 +289,6 @@ _________
     draft; vāyu \[word\]; Vāyu; Marut.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

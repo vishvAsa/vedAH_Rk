@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ te ← tvám (pronoun)
 
 vácaḥ ← vácas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॒ङ्ग प्र शं॑सिषो दे॒वः श॑विष्ठ॒ मर्त्य॑म् ।  
+न त्वद॒न्यो म॑घवन्नस्ति मर्डि॒तेन्द्र॒ ब्रवी॑मि ते॒ वचः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “statement; command; speech; words; advice; word; voice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

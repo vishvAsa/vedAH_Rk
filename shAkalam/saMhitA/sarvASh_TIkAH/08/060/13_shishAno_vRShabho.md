@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ sujámbhaḥ ← sujámbha- (nominal stem)
 
 yahúḥ ← yahú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शिशा॑नो वृष॒भो य॑था॒ग्निः शृङ्गे॒ दवि॑ध्वत् ।  
+ति॒ग्मा अ॑स्य॒ हन॑वो॒ न प्र॑ति॒धृषे॑ सु॒जम्भः॒ सह॑सो य॒हुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “offspring.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

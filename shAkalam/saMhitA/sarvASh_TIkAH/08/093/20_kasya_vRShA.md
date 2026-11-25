@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -17,13 +18,13 @@ ChandaH = "गायत्री"
 नियु᳓त्वान् वृषभो᳓ रणत्  
 वृत्रहा᳓ सो᳓मपीतये
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 कस्य॒ वृषा॑ सु॒ते सचा॑ ।
 नि॒युत्वा॑न्वृष॒भो र॑णत् ।
 वृ॒त्र॒हा सोम॑पीतये ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -64,7 +65,12 @@ sómapītaye ← sómapīti- (nominal stem)
 
 vr̥trahā́ ← vr̥trahán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कस्य॒ वृषा॑ सु॒ते सचा॑ नि॒युत्वा॑न्वृष॒भो र॑णत् ।  
+वृ॒त्र॒हा सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

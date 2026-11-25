@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -63,7 +64,12 @@ pāhi ← √pā- 2 (root)
 
 téṣām ← sá- ~ tá- (pronoun)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाय॒वा या॑हि दर्शते॒मे सोमा॒ अरं॑कृताः ।  
+तेषां॑ पाहि श्रु॒धी हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

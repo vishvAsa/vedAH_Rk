@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sū́ryam ← sū́rya- (nominal stem)
 
 uṣā́sam ← uṣás- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॒पो वि दुरो॒ विषू॑ची॒रिन्द्र॑ दृ॒ळ्हम॑रुजः॒ पर्व॑तस्य ।  
+राजा॑भवो॒ जग॑तश्चर्षणी॒नां सा॒कं सूर्यं॑ ज॒नय॒न्द्यामु॒षास॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “Ushas; dawn; uṣas \[word\]; morning.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

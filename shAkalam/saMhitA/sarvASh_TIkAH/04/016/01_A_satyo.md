@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ ihá ← ihá (invariable)
 
 karate ← √kr̥- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ स॒त्यो या॑तु म॒घवाँ॑ ऋजी॒षी द्रव॑न्त्वस्य॒ हर॑य॒ उप॑ नः ।  
+तस्मा॒ इदन्धः॑ सुषुमा सु॒दक्ष॑मि॒हाभि॑पि॒त्वं क॑रते गृणा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

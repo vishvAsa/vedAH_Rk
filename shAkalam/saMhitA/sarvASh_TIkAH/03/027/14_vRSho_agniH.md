@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ havíṣmantaḥ ← havíṣmant- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषो॑ अ॒ग्निः समि॑ध्य॒तेऽश्वो॒ न दे॑व॒वाह॑नः ।  
+तं ह॒विष्म॑न्त ईळते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “praise; invite; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

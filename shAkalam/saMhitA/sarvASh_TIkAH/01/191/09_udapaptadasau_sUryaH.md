@@ -4,6 +4,7 @@ devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अप्तृणसूर्याः
@@ -65,7 +66,12 @@ adr̥ṣṭahā́ ← adr̥ṣṭahán- (nominal stem)
 
 viśvádr̥ṣṭaḥ ← viśvádr̥ṣṭa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॑पप्तद॒सौ सूर्यः॑ पु॒रु विश्वा॑नि॒ जूर्व॑न् ।  
+आ॒दि॒त्यः पर्व॑तेभ्यो वि॒श्वदृ॑ष्टो अदृष्ट॒हा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “killing; curative; destroying; removing; māraka; stabbing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -192,7 +197,6 @@ the Āditya (up) from the mountains, the smasher of the no-see-ums,  seen by all
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -200,7 +204,6 @@ The rising of the sun may reflect the fact, mentioned above, that many bugs feed
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

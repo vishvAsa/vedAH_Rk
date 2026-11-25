@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ sómaḥ ← sóma- (nominal stem)
 
 víṣṇave ← víṣṇu- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒प्सा इन्द्रा॑य वा॒यवे॒ वरु॑णाय म॒रुद्भ्यः॑ ।  
+सोमो॑ अर्षति॒ विष्ण॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -149,14 +154,12 @@ the water-winning soma rushes.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 No clear cohesion, though vss. 19 and 20 both contain a form of √ṛṣ.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

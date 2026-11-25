@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नोधाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ sám ← sám (invariable)
 
 usríyābhiḥ ← usríya- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं मा॒तृभि॒र्न शिशु॑र्वावशा॒नो वृषा॑ दधन्वे पुरु॒वारो॑ अ॒द्भिः ।  
+मर्यो॒ न योषा॑म॒भि नि॑ष्कृ॒तं यन्त्सं ग॑च्छते क॒लश॑ उ॒स्रिया॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “cow; dairy product.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

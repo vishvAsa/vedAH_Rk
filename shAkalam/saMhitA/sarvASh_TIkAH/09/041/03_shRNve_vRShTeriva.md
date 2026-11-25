@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ diví ← dyú- ~ div- (nominal stem)
 
 vidyútaḥ ← vidyút- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शृ॒ण्वे वृ॒ष्टेरि॑व स्व॒नः पव॑मानस्य शु॒ष्मिणः॑ ।  
+चर॑न्ति वि॒द्युतो॑ दि॒वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

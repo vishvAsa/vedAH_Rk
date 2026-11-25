@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -77,7 +78,12 @@ vaiśvānaráḥ ← vaiśvānará- (nominal stem)
 
 vāvr̥dhé ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्राग्नये॑ त॒वसे॑ भरध्वं॒ गिरं॑ दि॒वो अ॑र॒तये॑ पृथि॒व्याः ।  
+यो विश्वे॑षाम॒मृता॑नामु॒पस्थे॑ वैश्वान॒रो वा॑वृ॒धे जा॑गृ॒वद्भिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “wake; watch; awaken; wake up; oversee.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

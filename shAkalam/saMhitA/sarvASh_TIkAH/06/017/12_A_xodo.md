@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ prá ← prá (invariable)
 
 samudrám ← samudrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ क्षोदो॒ महि॑ वृ॒तं न॒दीनां॒ परि॑ष्ठितमसृज ऊ॒र्मिम॒पाम् ।  
+तासा॒मनु॑ प्र॒वत॑ इन्द्र॒ पन्थां॒ प्रार्द॑यो॒ नीची॑र॒पसः॑ समु॒द्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

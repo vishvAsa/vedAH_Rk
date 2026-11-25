@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "शक्वरी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -100,7 +101,12 @@ aśnávāma ← √naś- 1 (root)
 
 víśaḥ ← víś- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नु नो॑ र॒यिं र॒थ्यं॑ चर्षणि॒प्रां पु॑रु॒वीरं॑ म॒ह ऋ॒तस्य॑ गो॒पाम् ।  
+क्षयं॑ दाता॒जरं॒ येन॒ जना॒न्त्स्पृधो॒ अदे॑वीर॒भि च॒ क्रमा॑म॒ विश॒ आदे॑वीर॒भ्य१॒॑श्नवा॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -261,7 +267,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

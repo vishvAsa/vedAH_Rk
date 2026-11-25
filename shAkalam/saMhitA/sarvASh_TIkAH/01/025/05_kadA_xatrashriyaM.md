@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -54,7 +55,12 @@ mr̥ḷīkā́ya ← mr̥ḷīká- (nominal stem)
 
 urucákṣasam ← urucákṣas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒दा क्ष॑त्र॒श्रियं॒ नर॒मा वरु॑णं करामहे ।  
+मृ॒ळी॒कायो॑रु॒चक्ष॑सम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “eye; look; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

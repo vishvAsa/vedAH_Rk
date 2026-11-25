@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ stotŕ̥bhyaḥ ← stotár- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वेदि॑ष्ठो अव्य॒थिष्वश्वा॑वन्तं जरि॒तृभ्यः॑ ।  
+वाजं॑ स्तो॒तृभ्यो॒ गोम॑न्तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +117,6 @@ _________
 - “rich in cattle; bovine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

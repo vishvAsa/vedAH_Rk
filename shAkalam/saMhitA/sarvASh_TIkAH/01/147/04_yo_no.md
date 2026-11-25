@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ mr̥kṣīṣṭa ← √mr̥c- (root)
 
 tanvàm ← tanū́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नो॑ अग्ने॒ अर॑रिवाँ अघा॒युर॑राती॒वा म॒र्चय॑ति द्व॒येन॑ ।  
+मन्त्रो॑ गु॒रुः पुन॑रस्तु॒ सो अ॑स्मा॒ अनु॑ मृक्षीष्ट त॒न्वं॑ दुरु॒क्तैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - \[noun\], instrumental, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

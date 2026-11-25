@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गातुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ jantóḥ ← jantú- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्यदिन्द्रो॑ मह॒ते दा॑न॒वाय॒ वध॒र्यमि॑ष्ट॒ सहो॒ अप्र॑तीतम् ।  
+यदीं॒ वज्र॑स्य॒ प्रभृ॑तौ द॒दाभ॒ विश्व॑स्य ज॒न्तोर॑ध॒मं च॑कार ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ bravāvahai ← √brū- (root)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वस्ति॑ष्ठा न ऊ॒तये॒ऽस्मिन्वाजे॑ शतक्रतो ।  
+सम॒न्येषु॑ ब्रवावहै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

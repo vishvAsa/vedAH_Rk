@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ uśmási ← √vaś- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गूह॑ता॒ गुह्यं॒ तमो॒ वि या॑त॒ विश्व॑म॒त्रिण॑म् ।  
+ज्योति॑ष्कर्ता॒ यदु॒श्मसि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “desire; agree; call; care; like; love.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

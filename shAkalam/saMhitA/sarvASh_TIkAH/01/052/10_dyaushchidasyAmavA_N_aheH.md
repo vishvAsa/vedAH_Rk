@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ máde ← máda- (nominal stem)
 
 sutásya ← √su- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यौश्चि॑द॒स्याम॑वाँ॒ अहेः॑ स्व॒नादयो॑यवीद्भि॒यसा॒ वज्र॑ इन्द्र ते ।  
+वृ॒त्रस्य॒ यद्ब॑द्बधा॒नस्य॑ रोदसी॒ मदे॑ सु॒तस्य॒ शव॒साभि॑न॒च्छिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

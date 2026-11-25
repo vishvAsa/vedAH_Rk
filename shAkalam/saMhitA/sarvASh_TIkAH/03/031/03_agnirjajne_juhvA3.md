@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ pravŕ̥t ← pravŕ̥dh- (nominal stem)
 
 yajñaíḥ ← yajñá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्ज॑ज्ञे जु॒ह्वा॒३॒॑ रेज॑मानो म॒हस्पु॒त्राँ अ॑रु॒षस्य॑ प्र॒यक्षे॑ ।  
+म॒हान्गर्भो॒ मह्या जा॒तमे॑षां म॒ही प्र॒वृद्धर्य॑श्वस्य य॒ज्ञैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

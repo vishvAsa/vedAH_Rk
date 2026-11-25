@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ pradī́dayat ← √dī- 1 (root)
 
 vikṣú ← víś- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्यदा॒श्वश्व्यं॒ यदि॑न्द्र॒ नाहु॑षी॒ष्वा ।  
+अग्रे॑ वि॒क्षु प्र॒दीद॑यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - \[verb\], singular, Present conjunctive (subjunctive)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

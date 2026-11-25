@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ह्रसीयसी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ ráthānām ← rátha- (nominal stem)
 
 yámam ← yáma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रेष्ठ॑मु प्रि॒याणां॑ स्तु॒ह्या॑सा॒वाति॑थिम् ।  
+अ॒ग्निं रथा॑नां॒ यम॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

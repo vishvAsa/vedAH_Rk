@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -17,12 +18,12 @@ ChandaH = "गायत्री"
 भ᳓र्गो देव᳓स्य धीमहि  
 धि᳓यो यो᳓ नः प्रचोद᳓यात्
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 तत्स॑वि॒तुर्वरे॑ण्य॒म्भर्गो॑ दे॒वस्य॑ धीमहि ।  
 धियो॒ यो नᳶ॑ प्रचो॒दया॑त् ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -66,7 +67,12 @@ pracodáyāt ← √cud- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्स॑वि॒तुर्वरे॑ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।  
+धियो॒ यो नः॑ प्रचो॒दया॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “push; drive; command; excite; proclaim; demand; request; request.”
 
 _________
-
 </details>
 
 <details><summary>ब्राह्मणोद्धरणानि</summary>
@@ -182,7 +187,6 @@ _____________
 
 यः सवितास्माकं बुद्धीः प्रेरयति तस्य सवितुर्देवस्य वरणीयं भर्गस्तेजो ध्यायेम।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -289,10 +293,9 @@ _____________
 > स यश्चायं पुरुषे यश् चासाव् आदित्ये स एकः 
 
 इति ध्यानार्थः॥
-
 </details>
 
-<details><summary>विद्यारण्यः - हिन्दी </summary>
+<details><summary>विद्यारण्यः - हिन्दी</summary>
 
 शुद्ध गायत्री जीवात्मा और ब्रह्म की एकता का सूचक है। ‘धियोयोनः प्रचोदयात्’ अर्थात् हमारी बुद्धि को प्रेरणा देता है तथा जो अन्तःकरण की प्रकाशिका तथा सर्व साक्षी है उसे प्रत्यगात्मा कहा जाता है।
 उस प्रचोदयात् शब्द से आत्मा स्वरूप भूत परब्रह्म का तत् सवितुः आदि पदों से कथन किया है।
@@ -447,7 +450,7 @@ _भर्गयत्य्_ अपि तत्-कष्टं
 वसीयो भोग-मोक्षाख्यं  
 सूते या सततं सताम् ।  
 सा **सुवः** कथिता ब्रह्मन्  
-व्याहृती वाङ्मयी ततः ॥ 
+व्याहृती वाङ्मयी ततः ॥
 </details>
 
 <details><summary>नित्यानन्दमिश्रः - प्रचोदयात्</summary>
@@ -462,7 +465,7 @@ _________
 _________
 **अर्थः**  
 
-यदि प्रार्थने लिङ् स्वीक्रियते तर्हि ‘लिङर्थे लेट्’ (३.४.७) इत्यनेन लेटि सिद्धस्य ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं कुर्यात्” इत्यर्थः। यदि लडर्थे बहुलव्यत्ययाल्लेट् स्वीक्रियते तर्हि ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं करोति” इत्यर्थः। 
+यदि प्रार्थने लिङ् स्वीक्रियते तर्हि ‘लिङर्थे लेट्’ (३.४.७) इत्यनेन लेटि सिद्धस्य ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं कुर्यात्” इत्यर्थः। यदि लडर्थे बहुलव्यत्ययाल्लेट् स्वीक्रियते तर्हि ‘प्रचोदयात्’ इत्यस्य “प्रकर्षेण सञ्चोदनं करोति” इत्यर्थः।
 </details>
 
 <details><summary>सम्पुटीकरणादि</summary>
@@ -511,12 +514,11 @@ _________
 दशकृत्वो वरः स्मृतः ॥
 
 इति योगयाज्ञवल्क्य-वचन-ग्रहणम्॥
-
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
-May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.  
+May we focus on the excellent radiance of the deva Savitṛ who will inspire our insights.
 </details>
 
 <details><summary>विश्वास-टिप्पनी - प्रचोदयात्-स्वरः</summary>
@@ -526,14 +528,12 @@ May we focus on the excellent radiance of the deva Savitṛ who will inspire our
 प्रानुदात्तत्वं तिङन्तस्योदात्तवत्त्वात्। तच्च यत्कारसद्भावात्।
 </details>
 
-
 <details><summary>विश्वास-टिप्पनी - परोरजसे</summary>
 
 > परोरजसे ऽसाव् अदो मा प्रापद्   
 
-इति बृहदारण्यकोपनिषदा सूचितं तुरीयम् पादम् प्रयुञ्जते केचित्, "परो᳓-रजसे ऽसा᳓वदो᳓३म् ॥" इति विकारेण।  
+इति बृहदारण्यकोपनिषदा सूचितं तुरीयम् पादम् प्रयुञ्जते केचित्, "परो᳓-रजसे ऽसा᳓वदो᳓३म् ॥" इति विकारेण।
 </details>
-
 
 <details><summary>Wilson</summary>
 
@@ -557,12 +557,6 @@ Savitā = the **soul**, as one with the soul of the world, **Brahma**; when we m
 Might we make our own that desirable effulgence of god Savitar, who will rouse forth our insights.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-And here, buried in this not particularly noteworthy hymn, is the Gāyatrī mantra, which is itself not particularly noteworthy on its own terms.
-
-Note the play on dhīmahi / dhíyaḥ juxtaposed across the hemistich boundary, belonging to different roots.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -570,7 +564,6 @@ All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

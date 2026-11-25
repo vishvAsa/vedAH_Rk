@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -134,7 +135,13 @@ ní ← ní (invariable)
 
 sthirā́ṇi ← sthirá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दृ॒ळ्हा चि॑दस्मा॒ अनु॑ दु॒र्यथा॑ वि॒दे तेजि॑ष्ठाभिर॒रणि॑भिर्दा॒ष्ट्यव॑से॒ऽग्नये॑ दा॒ष्ट्यव॑से ।  
+प्र यः पु॒रूणि॒ गाह॑ते॒ तक्ष॒द्वने॑व शो॒चिषा॑ ।  
+स्थि॒रा चि॒दन्ना॒ नि रि॑णा॒त्योज॑सा॒ नि स्थि॒राणि॑ चि॒दोज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -347,7 +354,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भरद्वाजः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ maṁhayádrayiḥ ← maṁhayádrayi- (nominal stem)
 
 pávasva ← √pū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं सो॑मासि धार॒युर्म॒न्द्र ओजि॑ष्ठो अध्व॒रे ।  
+पव॑स्व मंह॒यद्र॑यिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -153,7 +158,6 @@ You, Soma, are supporting, invigorating, strongest at the ceremony. Purify yours
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -162,7 +166,6 @@ Attributed to Bharadvāja, the tṛca shows elementary unity by positoning tvám
 Grassmann derives dhārayú- from dhā́rā- ‘stream’ and glosses ‘strömend’, an idea that goes back to Sāyaṇa. Geldner follows suit (“der hervorsprudelnde”), though in n. 1a he entertains a derivation from √dhṛ, which underlies Renou’s “le mainteneur” (see his n.) I also think that √dhṛ is the correct etymon. There would be no reason to shorten the final of dhā́rā- (though dhā́ra-pūta- ‘purified by streams’ (?) and dhāra-vāká- ‘recitation for the streams’ (?) do give me pause), while there is a well-established relationship between -ā̆-yá-(ti) verbs and - ā̆-yú- adjectives (type devayá- / devayú-). Though it has a different accent and a different functional profile, dhā́ráyati is a very common verb, and it is easy to imagine the creation of a -yú- nominal to that stem. However, if it is derived from dhā́rā- ‘stream’, the sense should not be of the type given by Grassmann and Geldner, but rather ‘seeking streams’, as is standard with -yuformations to nouns. The idea would be that the soma, once pressed, goes forth to seek the ritual waters.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

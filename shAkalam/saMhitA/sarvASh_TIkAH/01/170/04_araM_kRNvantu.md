@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ te ← tvám (pronoun)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अरं॑ कृण्वन्तु॒ वेदिं॒ सम॒ग्निमि॑न्धतां पु॒रः ।  
+तत्रा॒मृत॑स्य॒ चेत॑नं य॒ज्ञं ते॑ तनवावहै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
     speak; propagate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

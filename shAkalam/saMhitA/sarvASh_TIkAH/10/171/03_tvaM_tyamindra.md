@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इटो भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ múhur ← múhur (invariable)
 
 śrathnāḥ ← √śrathⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं त्यमि॑न्द्र॒ मर्त्य॑मास्त्रबु॒ध्नाय॑ वे॒न्यम् ।  
+मुहुः॑ श्रथ्ना मन॒स्यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - \[noun\], dative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "देवापिरार्ष्टिषेणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -86,7 +87,12 @@ havíṣā ← havís- (nominal stem)
 
 saparya ← √sapary- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ द्र॒प्सा मधु॑मन्तो विश॒न्त्विन्द्र॑ दे॒ह्यधि॑रथं स॒हस्र॑म् ।  
+नि षी॑द हो॒त्रमृ॑तु॒था य॑जस्व दे॒वान्दे॑वापे ह॒विषा॑ सपर्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "लुशो धानाकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ té ← sá- ~ tá- (pronoun)
 
 turāsaḥ ← turá- 1 (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं दे॑वा॒सोऽव॑थ॒ वाज॑सातौ॒ यं त्राय॑ध्वे॒ यं पि॑पृ॒थात्यंहः॑ ।  
+यो वो॑ गोपी॒थे न भ॒यस्य॒ वेद॒ ते स्या॑म दे॒ववी॑तये तुरासः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “powerful; noble; noble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

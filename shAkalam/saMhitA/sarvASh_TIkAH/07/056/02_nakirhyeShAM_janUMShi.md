@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -58,7 +59,11 @@ té ← sá- ~ tá- (pronoun)
 
 vidre ← √vid- 2 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नकि॒र्ह्ये॑षां ज॒नूंषि॒ वेद॒ ते अ॒ङ्ग वि॑द्रे मि॒थो ज॒नित्र॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +136,6 @@ _________
 - “birthplace; parent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

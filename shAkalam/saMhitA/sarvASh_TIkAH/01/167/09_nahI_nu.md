@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -95,7 +96,12 @@ pári ← pári (invariable)
 
 sthuḥ ← √sthā- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒ही नु वो॑ मरुतो॒ अन्त्य॒स्मे आ॒रात्ता॑च्चि॒च्छव॑सो॒ अन्त॑मा॒पुः ।  
+ते धृ॒ष्णुना॒ शव॑सा शूशु॒वांसोऽर्णो॒ न द्वेषो॑ धृष॒ता परि॑ ष्ठुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

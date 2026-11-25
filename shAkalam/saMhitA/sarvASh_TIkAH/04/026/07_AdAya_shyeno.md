@@ -4,6 +4,7 @@ devataa = "श्येनः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्येनः
@@ -83,7 +84,12 @@ mūrā́ḥ ← mūrá- (nominal stem)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒दाय॑ श्ये॒नो अ॑भर॒त्सोमं॑ स॒हस्रं॑ स॒वाँ अ॒युतं॑ च सा॒कम् ।  
+अत्रा॒ पुरं॑धिरजहा॒दरा॑ती॒र्मदे॒ सोम॑स्य मू॒रा अमू॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “stupid.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -237,10 +242,6 @@ Having taken it, the falcon brought the soma, a thousand pressings and  ten thou
 Plenitude left behind the hostilities then, (as) in the exhilaration of soma  the non-fool (leaves behind) fools.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The obj. mūrā́(ḥ) is fem. and presumably matches the gender of the parallel object árātīḥ ‘hostilities’ in the preceding pāda.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
 <details><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -248,7 +249,6 @@ The 3rd sg. act. impf./injunc. of √bhṛ is the “hero” of this, the mythol
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

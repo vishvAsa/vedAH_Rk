@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रजापतिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ makhám ← makhá- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सु॑न्वा॒नस्यान्ध॑सो॒ मर्तो॒ न वृ॑त॒ तद्वचः॑ ।  
+अप॒ श्वान॑मरा॒धसं॑ ह॒ता म॒खं न भृग॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -215,12 +220,6 @@ Like a mortal he [=the dog] has shown preference for the speech of the  stalk be
 Smite away the dog, the ungenerous one, as the Bhr̥gus (did) the Battler.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner takes ná in b as the neg. (flg. Sāyaṇa.) and asserts (n. 13), contra Oldenberg, that the presence of the mortal and the dog in this vs. (and the VS vs. Oldenberg cites) is an accident. But the position of ná in the pāda is that of the simile particle (though at least it would immed. precede the verb), and the wealth of similes in this tṛca supports a simile reading here as well. The point of the hemistich is that, like the human, the dog is attracted to the sound of the soma ritual, particularly the sound of the soma pressing, and invades it.
-
-The 2nd hemistich begins like 1c: ápa śvā́nam … The simile in d, “as the Bhr̥gus did the Battler” (makháṃ ná bhṛ́gavaḥ), refers to what Geldner calls an otherwise unknown saga. The makhá- is found as a defeated enemy of Indra in X.171.2, a hymn attributed to one Iṭa Bhārgava, the patronymic of the victors in our vs.. Note that the denom. verb makhasyate occurs in our vs. 5c.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -228,7 +227,6 @@ The dog returns from the first tṛca in the first vs. of this one. The tṛca i
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

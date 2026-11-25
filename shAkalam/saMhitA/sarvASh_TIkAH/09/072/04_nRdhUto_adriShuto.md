@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हरिमन्तः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ sómaḥ ← sóma- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नृधू॑तो॒ अद्रि॑षुतो ब॒र्हिषि॑ प्रि॒यः पति॒र्गवां॑ प्र॒दिव॒ इन्दु॑रृ॒त्वियः॑ ।  
+पुरं॑धिवा॒न्मनु॑षो यज्ञ॒साध॑नः॒ शुचि॑र्धि॒या प॑वते॒ सोम॑ इन्द्र ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,14 +254,6 @@ seasons,
 accompanied by Plenitude, assuring success to the sacrifice of Manu,  gleaming, with insight he purifies himself for you, Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although both Geldner and Renou tr. -dhūta- as ‘shaken’, I prefer the more technical soma-ritual sense ‘rinse’. On √dhāv (∾ √dhavi ∾ √dhū) ‘rinse’ as a semantic specialization of the same root meaning ‘shake’, see EWA s.v. DHAVI , Gotō [1st Cl.
-
-186-89]). This root complex is distinct from √dhāv ‘run’. See further ad vs. 8 below.
-
-Both Geldner and Renou take pradívaḥ with what precedes; this is entirely possible and impossible to determine. Not much rests on it.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/072/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -268,7 +265,6 @@ Both vss. also begin with a sequence of AGENT/INSTR. + past part. expressions: 4
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

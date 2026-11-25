@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "नाभाकः काण्वः अर्चनाना वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -86,7 +87,12 @@ ruhema ← √ruh- (root)
 
 sutármāṇam ← sutárman- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मां धियं॒ शिक्ष॑माणस्य देव॒ क्रतुं॒ दक्षं॑ वरुण॒ सं शि॑शाधि ।  
+ययाति॒ विश्वा॑ दुरि॒ता तरे॑म सु॒तर्मा॑ण॒मधि॒ नावं॑ रुहेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

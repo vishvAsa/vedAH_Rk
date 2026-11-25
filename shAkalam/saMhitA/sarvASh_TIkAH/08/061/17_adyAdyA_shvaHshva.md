@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ náktam ← nákt- (nominal stem)
 
 rakṣiṣaḥ ← √rakṣⁱ- (root)  
 {number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒द्याद्या॒ श्वःश्व॒ इन्द्र॒ त्रास्व॑ प॒रे च॑ नः ।  
+विश्वा॑ च नो जरि॒तॄन्त्स॑त्पते॒ अहा॒ दिवा॒ नक्तं॑ च रक्षिषः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

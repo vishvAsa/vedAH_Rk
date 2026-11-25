@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अंबरीष ऋजिश्वा च"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -65,7 +66,12 @@ prasnāpáyanti ← √snā- (root)
 
 ūrmíṇam ← ūrmín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्विर्यं पञ्च॒ स्वय॑शसं॒ स्वसा॑रो॒ अद्रि॑संहतम् ।  
+प्रि॒यमिन्द्र॑स्य॒ काम्यं॑ प्रस्ना॒पय॑न्त्यू॒र्मिण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “wavy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

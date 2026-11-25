@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ hán ← √han- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ न॑ इन्द्र पृक्षसे॒ऽस्माकं॒ ब्रह्मोद्य॑तम् ।  
+तत्त्वा॑ याचाम॒हेऽवः॒ शुष्णं॒ यद्धन्नमा॑नुषम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “human.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

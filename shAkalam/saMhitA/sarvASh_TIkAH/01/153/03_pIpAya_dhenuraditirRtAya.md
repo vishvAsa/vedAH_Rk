@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ rātáhavyaḥ ← rātáhavya- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पी॒पाय॑ धे॒नुरदि॑तिरृ॒ताय॒ जना॑य मित्रावरुणा हवि॒र्दे ।  
+हि॒नोति॒ यद्वां॑ वि॒दथे॑ सप॒र्यन्त्स रा॒तह॑व्यो॒ मानु॑षो॒ न होता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “Hotṛ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

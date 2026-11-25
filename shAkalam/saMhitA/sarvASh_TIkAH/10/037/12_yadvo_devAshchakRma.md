@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "अभितपाः सौर्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -95,7 +96,12 @@ tát ← sá- ~ tá- (pronoun)
 
 vasavaḥ ← vásu- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वो॑ देवाश्चकृ॒म जि॒ह्वया॑ गु॒रु मन॑सो वा॒ प्रयु॑ती देव॒हेळ॑नम् ।  
+अरा॑वा॒ यो नो॑ अ॒भि दु॑च्छुना॒यते॒ तस्मि॒न्तदेनो॑ वसवो॒ नि धे॑तन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

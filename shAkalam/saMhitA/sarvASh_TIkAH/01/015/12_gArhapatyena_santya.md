@@ -4,6 +4,7 @@ devataa = "ऋतवः अग्निः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतवः अग्निः
@@ -54,7 +55,12 @@ devayaté ← √devay- (UNK_TYPE)
 
 yaja ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गार्ह॑पत्येन सन्त्य ऋ॒तुना॑ यज्ञ॒नीर॑सि ।  
+दे॒वान्दे॑वय॒ते य॑ज ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

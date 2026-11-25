@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -72,7 +73,12 @@ vahatam ← √vah- (root)
 
 yuvám ← tvám (pronoun)  
 {case:NOM, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यावि॒त्था श्लोक॒मा दि॒वो ज्योति॒र्जना॑य च॒क्रथुः॑ ।  
+आ न॒ ऊर्जं॑ वहतमश्विना यु॒वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

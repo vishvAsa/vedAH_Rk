@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ vidátheṣu ← vidátha- (nominal stem)
 
 vīrā́ḥ ← vīrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ये शुम्भ॑न्ते॒ जन॑यो॒ न सप्त॑यो॒ याम॑न्रु॒द्रस्य॑ सू॒नवः॑ सु॒दंस॑सः ।  
+रोद॑सी॒ हि म॒रुत॑श्चक्रि॒रे वृ॒धे मद॑न्ति वी॒रा वि॒दथे॑षु॒ घृष्व॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “anticipated; electrifying.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

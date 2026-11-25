@@ -4,6 +4,7 @@ devataa = "इन्द्रापूषणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रापूषणौ
@@ -60,7 +61,12 @@ ichati ← √iṣ- 2 (root)
 
 karambhám ← karambhá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोम॑म॒न्य उपा॑सद॒त्पात॑वे च॒म्वोः॑ सु॒तम् ।  
+क॒र॒म्भम॒न्य इ॑च्छति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

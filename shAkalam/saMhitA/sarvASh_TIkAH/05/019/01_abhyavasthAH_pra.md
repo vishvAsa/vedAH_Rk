@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वव्रिरात्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ upásthe ← upástha- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भ्य॑व॒स्थाः प्र जा॑यन्ते॒ प्र व॒व्रेर्व॒व्रिश्चि॑केत ।  
+उ॒पस्थे॑ मा॒तुर्वि च॑ष्टे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “watch; look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

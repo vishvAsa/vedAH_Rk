@@ -4,6 +4,7 @@ devataa = "राज्ञस्तुतिः"
 RShiH = "ध्रुवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राज्ञस्तुतिः
@@ -74,7 +75,12 @@ tásmai ← sá- ~ tá- (pronoun)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ममिन्द्रो॑ अदीधरद्ध्रु॒वं ध्रु॒वेण॑ ह॒विषा॑ ।  
+तस्मै॒ सोमो॒ अधि॑ ब्रव॒त्तस्मा॑ उ॒ ब्रह्म॑ण॒स्पतिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

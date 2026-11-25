@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ sán ← √as- 1 (root)
 
 yúdhvā ← yúdhvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हाँ अ॑सि सोम॒ ज्येष्ठ॑ उ॒ग्राणा॑मिन्द॒ ओजि॑ष्ठः ।  
+युध्वा॒ सञ्छश्व॑ज्जिगेथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -172,10 +177,6 @@ _________
 Great are you, Soma, preeminent, strongest of the strong, o drop. Being a battler, you win every time.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As Renou points out, sán here is non-concessive. Instead it seems to have a function rather like the one I identified in III.30.5 (see comm. ad loc.), namely a definitional one: where, on the basis of the description of the god’s activities or qualities, he is assigned an agentive title.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -183,7 +184,6 @@ The first two vss. are linked lexically and by their investment in grammatical c
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

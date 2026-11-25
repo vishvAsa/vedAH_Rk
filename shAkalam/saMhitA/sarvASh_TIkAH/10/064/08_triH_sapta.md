@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ rudréṣu ← rudrá- (nominal stem)
 
 rudríyam ← rudríya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिः स॒प्त स॒स्रा न॒द्यो॑ म॒हीर॒पो वन॒स्पती॒न्पर्व॑ताँ अ॒ग्निमू॒तये॑ ।  
+कृ॒शानु॒मस्तॄ॑न्ति॒ष्यं॑ स॒धस्थ॒ आ रु॒द्रं रु॒द्रेषु॑ रु॒द्रियं॑ हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

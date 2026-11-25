@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -64,7 +65,12 @@ adhvaré ← adhvará- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॑स्य॒ धाम॑नि प्रि॒ये स॑मीची॒नासो॒ अस्व॑रन् ।  
+नाभा॑ य॒ज्ञस्य॑ दो॒हना॒ प्राध्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -179,12 +184,6 @@ When they have sounded in unison in his own dear domain,
 in the navel of the sacrifice, along with the milking, while the ceremony  is pro(ceeding),
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Contrary to Geldner, I take pāda c as part of the subordinate clause of ab, with vs. 33 the main clause. Geldner is forced to supply a verb (“geht”).
-
-dohánā is the problem here. Grassmann suggests we read it as underlying dohánās as in I.144.2, despite the sandhi. This seems to be the basis of Geldner’s interpretation (“die Melkung” as subject), but Oldenberg rejects this and takes it as an instrumental. I weakly follow Oldenberg, but neither of the interpretations is particularly compelling.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/31-33.md">
 <details><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -192,7 +191,6 @@ This tṛca is unified by the 4-syllable pāda prā́dhvaré. This pāda appears
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

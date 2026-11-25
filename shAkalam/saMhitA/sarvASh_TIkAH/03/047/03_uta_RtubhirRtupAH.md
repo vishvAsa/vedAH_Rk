@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ túbhyam ← tvám (pronoun)
 
 vr̥trám ← vr̥trá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त ऋ॒तुभि॑रृतुपाः पाहि॒ सोम॒मिन्द्र॑ दे॒वेभिः॒ सखि॑भिः सु॒तं नः॑ ।  
+याँ आभ॑जो म॒रुतो॒ ये त्वान्वह॑न्वृ॒त्रमद॑धु॒स्तुभ्य॒मोजः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

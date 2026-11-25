@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -81,7 +82,12 @@ u ← u (invariable)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि ये ते॑ अग्ने भेजि॒रे अनी॑कं॒ मर्ता॒ नरः॒ पित्र्या॑सः पुरु॒त्रा ।  
+उ॒तो न॑ ए॒भिः सु॒मना॑ इ॒ह स्याः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

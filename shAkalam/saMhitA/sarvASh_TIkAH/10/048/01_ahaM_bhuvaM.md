@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -92,7 +93,12 @@ dāśúṣe ← dāśváṁs- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं भु॑वं॒ वसु॑नः पू॒र्व्यस्पति॑र॒हं धना॑नि॒ सं ज॑यामि॒ शश्व॑तः ।  
+मां ह॑वन्ते पि॒तरं॒ न ज॒न्तवो॒ऽहं दा॒शुषे॒ वि भ॑जामि॒ भोज॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

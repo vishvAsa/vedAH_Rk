@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ yám ← yá- (pronoun)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं त्वा॑ दे॒वासो॒ मन॑वे द॒धुरि॒ह यजि॑ष्ठं हव्यवाहन ।  
+यं कण्वो॒ मेध्या॑तिथिर्धन॒स्पृतं॒ यं वृषा॒ यमु॑पस्तु॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “Upastuta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

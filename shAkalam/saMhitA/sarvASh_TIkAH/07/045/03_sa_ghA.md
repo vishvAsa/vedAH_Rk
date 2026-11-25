@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -83,7 +84,12 @@ naḥ ← ahám (pronoun)
 
 rāsate ← √rā- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स घा॑ नो दे॒वः स॑वि॒ता स॒हावा सा॑विष॒द्वसु॑पति॒र्वसू॑नि ।  
+वि॒श्रय॑माणो अ॒मति॑मुरू॒चीं म॑र्त॒भोज॑न॒मध॑ रासते नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

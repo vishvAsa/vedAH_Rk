@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)
 
 stávai ← √stu- (root)  
 {number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒या नि॑ज॒घ्निरोज॑सा रथसं॒गे धने॑ हि॒ते ।  
+स्तवा॒ अबि॑भ्युषा हृ॒दा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “heart; heart; mind; breast; hṛd \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

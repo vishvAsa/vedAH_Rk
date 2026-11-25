@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "शिरिंबिठो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -74,7 +75,12 @@ parastarám ← parastarám (invariable)
 
 téna ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒दो यद्दारु॒ प्लव॑ते॒ सिन्धोः॑ पा॒रे अ॑पूरु॒षम् ।  
+तदा र॑भस्व दुर्हणो॒ तेन॑ गच्छ परस्त॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

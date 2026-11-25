@@ -4,6 +4,7 @@ devataa = "सरमा"
 RShiH = "पणयोसुराः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरमा
@@ -89,7 +90,12 @@ subhage ← subhága- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा च॒ त्वं स॑रम आज॒गन्थ॒ प्रबा॑धिता॒ सह॑सा॒ दैव्ये॑न ।  
+स्वसा॑रं त्वा कृणवै॒ मा पुन॑र्गा॒ अप॑ ते॒ गवां॑ सुभगे भजाम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     one's share; partake; share; get; approach; love; use.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

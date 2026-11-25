@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ párijrayaḥ ← párijri- (nominal stem)
 
 sváranti ← √svar- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॑ मरुतस्तवि॒षा उ॑द॒न्यवो॑ वयो॒वृधो॑ अश्व॒युजः॒ परि॑ज्रयः ।  
+सं वि॒द्युता॒ दध॑ति॒ वाश॑ति त्रि॒तः स्वर॒न्त्यापो॒ऽवना॒ परि॑ज्रयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “whirling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

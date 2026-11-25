@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -67,7 +68,12 @@ yéna ← yá- (pronoun)
 
 vavákṣitha ← √vakṣ- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं स्तोम॑म॒भिष्ट॑ये घृ॒तं न पू॒तम॑द्रिवः ।  
+येना॒ नु स॒द्य ओज॑सा व॒वक्षि॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “grow; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

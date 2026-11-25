@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ vánitā ← vánitar- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स य॒न्ता विप्र॑ एषां॒ स य॒ज्ञाना॒मथा॒ हि षः ।  
+अ॒ग्निं तं वो॑ दुवस्यत॒ दाता॒ यो वनि॑ता म॒घम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “gift; wealth; reward; wages; reward.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

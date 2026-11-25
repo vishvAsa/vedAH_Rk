@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ rirīhi ← √rā- 1 (root)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा पु॑ना॒नो अ॒पः स्व१॒॑र्गा अ॒स्मभ्यं॑ तो॒का तन॑यानि॒ भूरि॑ ।  
+शं नः॒ क्षेत्र॑मु॒रु ज्योतीं॑षि सोम॒ ज्योङ्नः॒ सूर्यं॑ दृ॒शये॑ रिरीहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “give; impart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

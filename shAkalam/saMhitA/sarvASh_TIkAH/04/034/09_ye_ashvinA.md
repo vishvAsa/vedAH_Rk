@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -95,7 +96,12 @@ svapatyā́ni ← svapatyá- (nominal stem)
 
 víbhvaḥ ← víbhū- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये अ॒श्विना॒ ये पि॒तरा॒ य ऊ॒ती धे॒नुं त॑त॒क्षुरृ॒भवो॒ ये अश्वा॑ ।  
+ये अंस॑त्रा॒ य ऋध॒ग्रोद॑सी॒ ये विभ्वो॒ नरः॑ स्वप॒त्यानि॑ च॒क्रुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

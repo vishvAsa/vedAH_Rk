@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -80,7 +81,12 @@ upásthe ← upástha- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि जना॑ञ्छ्या॒वाः शि॑ति॒पादो॑ अख्य॒न्रथं॒ हिर॑ण्यप्रउगं॒ वह॑न्तः ।  
+शश्व॒द्विशः॑ सवि॒तुर्दैव्य॑स्यो॒पस्थे॒ विश्वा॒ भुव॑नानि तस्थुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

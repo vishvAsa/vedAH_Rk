@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -51,7 +52,12 @@ bravītana ← √brū- (root)
 
 íti ← íti (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रु॒हू॒तं पु॑रुष्टु॒तं गा॑था॒न्यं१॒॑ सन॑श्रुतम् ।  
+इन्द्र॒ इति॑ ब्रवीतन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +116,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -138,7 +143,6 @@ call him, “Indra!”
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -146,7 +150,6 @@ call him, “Indra!”
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

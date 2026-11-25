@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ devā́saḥ ← devá- (nominal stem)
 
 suvānā́ḥ ← √su- (root)  
 {case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते नो॑ वृ॒ष्टिं दि॒वस्परि॒ पव॑न्ता॒मा सु॒वीर्य॑म् ।  
+सु॒वा॒ना दे॒वास॒ इन्द॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,7 +183,6 @@ the gods, the drops, being pressed.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -186,7 +190,6 @@ As noted in the published introduction, this tṛca is thematically unified by a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

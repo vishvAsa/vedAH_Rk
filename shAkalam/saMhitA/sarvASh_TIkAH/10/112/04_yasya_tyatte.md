@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नभःप्रभेदनो वैरूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ priyébhiḥ ← priyá- (nominal stem)
 
 yāhi ← √yā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॒ त्यत्ते॑ महि॒मानं॒ मदे॑ष्वि॒मे म॒ही रोद॑सी॒ नावि॑विक्ताम् ।  
+तदोक॒ आ हरि॑भिरिन्द्र यु॒क्तैः प्रि॒येभि॑र्याहि प्रि॒यमन्न॒मच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

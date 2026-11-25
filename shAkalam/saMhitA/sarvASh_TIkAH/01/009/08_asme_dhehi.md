@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ rathínīḥ ← rathín- (nominal stem)
 
 tā́ḥ ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे धे॑हि॒ श्रवो॑ बृ॒हद्द्यु॒म्नं स॑हस्र॒सात॑मम् ।  
+इन्द्र॒ ता र॒थिनी॒रिषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

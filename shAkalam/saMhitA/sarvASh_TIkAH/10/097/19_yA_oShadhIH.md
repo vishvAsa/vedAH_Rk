@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -65,7 +66,12 @@ sám ← sám (invariable)
 
 vīryàm ← vīryà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या ओष॑धीः॒ सोम॑राज्ञी॒र्विष्ठि॑ताः पृथि॒वीमनु॑ ।  
+बृह॒स्पति॑प्रसूता अ॒स्यै सं द॑त्त वी॒र्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

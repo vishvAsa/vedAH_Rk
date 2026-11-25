@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -98,7 +99,12 @@ u ← u (invariable)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये वा॒जिनं॑ परि॒पश्य॑न्ति प॒क्वं य ई॑मा॒हुः सु॑र॒भिर्निर्ह॒रेति॑ ।  
+ये चार्व॑तो मांसभि॒क्षामु॒पास॑त उ॒तो तेषा॑म॒भिगू॑र्तिर्न इन्वतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “bring; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

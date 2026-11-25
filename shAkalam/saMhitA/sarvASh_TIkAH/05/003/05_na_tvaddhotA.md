@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ vanavat ← √vanⁱ- (root)
 
 yajñéna ← yajñá- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न त्वद्धोता॒ पूर्वो॑ अग्ने॒ यजी॑या॒न्न काव्यैः॑ प॒रो अ॑स्ति स्वधावः ।  
+वि॒शश्च॒ यस्या॒ अति॑थि॒र्भवा॑सि॒ स य॒ज्ञेन॑ वनवद्देव॒ मर्ता॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

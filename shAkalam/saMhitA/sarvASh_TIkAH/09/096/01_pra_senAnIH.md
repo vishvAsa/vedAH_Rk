@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ sómaḥ ← sóma- (nominal stem)
 
 vástrā ← vástra- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र से॑ना॒नीः शूरो॒ अग्रे॒ रथा॑नां ग॒व्यन्ने॑ति॒ हर्ष॑ते अस्य॒ सेना॑ ।  
+भ॒द्रान्कृ॒ण्वन्नि॑न्द्रह॒वान्त्सखि॑भ्य॒ आ सोमो॒ वस्त्रा॑ रभ॒सानि॑ दत्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ sumatíḥ ← sumatí- (nominal stem)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒श्रु॒वांसा॑ चिदश्विना पु॒रूण्य॒भि ब्रह्मा॑णि चक्षाथे॒ ऋषी॑णाम् ।  
+प्रति॒ प्र या॑तं॒ वर॒मा जना॑या॒स्मे वा॑मस्तु सुम॒तिश्चनि॑ष्ठा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “gracious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

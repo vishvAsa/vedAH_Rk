@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -71,7 +72,12 @@ devā́nām ← devá- (nominal stem)
 
 nā́ma ← nā́man- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं गाथ॑या पुरा॒ण्या पु॑ना॒नम॒भ्य॑नूषत ।  
+उ॒तो कृ॑पन्त धी॒तयो॑ दे॒वानां॒ नाम॒ बिभ्र॑तीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

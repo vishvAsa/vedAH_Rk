@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ usrā́ḥ ← usrá- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माक॒मत्र॑ पि॒तरो॑ मनु॒ष्या॑ अ॒भि प्र से॑दुरृ॒तमा॑शुषा॒णाः ।  
+अश्म॑व्रजाः सु॒दुघा॑ व॒व्रे अ॒न्तरुदु॒स्रा आ॑जन्नु॒षसो॑ हुवा॒नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -252,16 +257,6 @@ They [=the forefathers/Aṅgirases] drove up those with a rock as their  pen, th
 called to.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This is the first of the Vala myth vss. As noted in the published introduction, the actors throughout must be the Aṅgirases, but they are never named.
-
-The curious phrase ṛtám āśuṣānā́ḥ “panting over the truth” occurs three times in IV.1-2 (also 2.14, 16). It expresses the energy and effort of the Aṅgirases in singing the true song that opened the Vala cave and freed the cows. See Lüders (514-15).
-
-The med. part. huvāná- is ordinarily passive in value; pace Grassmann, only VII.30.3 is clearly trans. I therefore take huvānā́ḥ here as fem. acc. pl. modifying uṣásaḥ in passive sense. The standard interpr. is masc. nom. pl. in trans. value, ‘calling to’.
-
-This would of course make just as much sense; my choice is based on the usage of the preponderance of occurrences of the stem.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details><summary><h2>10-18 ...{Loading}...</h2></summary>
 
@@ -269,7 +264,6 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

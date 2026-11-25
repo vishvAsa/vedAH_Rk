@@ -4,6 +4,7 @@ devataa = "शशीयसी तरन्तमहिषी"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शशीयसी तरन्तमहिषी
@@ -66,7 +67,12 @@ samáḥ ← samá- (nominal stem)
 
 vaíradeye ← vaíradeya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त घा॒ नेमो॒ अस्तु॑तः॒ पुमाँ॒ इति॑ ब्रुवे प॒णिः ।  
+स वैर॑देय॒ इत्स॒मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
     exact; calm; straight; even; wide.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -197,12 +202,6 @@ And some other guy, a niggard not deserving praise, (may be) called  a “man,�
 but he is only equivalent (to a man) in the matter of wergeld.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On vaíradeya-, lit. ‘what is to be given for a man/hero’, as Wergeld or blood money, see Roth (ZDMG 41: 672-76) and Macdonell-Keith Vedic Index s.v. vaira.
-
-Another indirect ref. to the same phenomenon is found in II.32.4 vīráṃ śatádāyam “a hero (for whom) a hundred (cows) are to be given.” In our case the person in question is hardly worth the name ‘man’ and would be better off dead than alive, since his relatives would still receive the standard recompense for a vīrá, whatever his personal failings had been. It is telling that he is called a paṇí- ‘niggard’, a reminder to Śyāvāśva’s patron that stinginess is a grave flaw.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
 <details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
@@ -210,7 +209,6 @@ As indicated in the published translation, I consider these vss. a digression re
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ priyé ← priyá- (nominal stem)
 
 sadaḥ ← √sad- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दो॒ यथा॒ तव॒ स्तवो॒ यथा॑ ते जा॒तमन्ध॑सः ।  
+नि ब॒र्हिषि॑ प्रि॒ये स॑दः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

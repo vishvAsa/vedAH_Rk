@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वार्षागिराः ऋज्राश्वांबरीष-सहदेव-भयमान-सुराधसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ nā́huṣīṣu ← nā́huṣa- (nominal stem)
 
 vikṣú ← víś- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रो॒हिच्छ्या॒वा सु॒मदं॑शुर्लला॒मीर्द्यु॒क्षा रा॒य ऋ॒ज्राश्व॑स्य ।  
+वृष॑ण्वन्तं॒ बिभ्र॑ती धू॒र्षु रथं॑ म॒न्द्रा चि॑केत॒ नाहु॑षीषु वि॒क्षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

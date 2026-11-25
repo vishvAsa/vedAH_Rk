@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -98,7 +99,12 @@ sumnám ← sumná- (nominal stem)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा वो॑ र॒सानि॑तभा॒ कुभा॒ क्रुमु॒र्मा वः॒ सिन्धु॒र्नि री॑रमत् ।  
+मा वः॒ परि॑ ष्ठात्स॒रयुः॑ पुरी॒षिण्य॒स्मे इत्सु॒म्नम॑स्तु वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -271,14 +276,12 @@ Let not the overflowing Sarayu hem you around. On us alone let your  favor be.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/053/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 Note the phonological modulation of #ā́... (8a) to #mā́va...(8c) to #mā́vo (9a) / mā́vaḥ (9bc). The vaḥ then migrates to the end of 9d.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

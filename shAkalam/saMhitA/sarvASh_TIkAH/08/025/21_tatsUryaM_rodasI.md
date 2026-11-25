@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -72,7 +73,12 @@ sádā ← sádā (invariable)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्सूर्यं॒ रोद॑सी उ॒भे दो॒षा वस्तो॒रुप॑ ब्रुवे ।  
+भो॒जेष्व॒स्माँ अ॒भ्युच्च॑रा॒ सदा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “always; continually; always; perpetually.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

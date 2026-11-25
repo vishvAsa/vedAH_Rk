@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sómakāmam ← sómakāma- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं हि स्व॒राजं॑ वृष॒भं तमोज॑से धि॒षणे॑ निष्टत॒क्षतुः॑ ।  
+उ॒तोप॒मानां॑ प्रथ॒मो नि षी॑दसि॒ सोम॑कामं॒ हि ते॒ मनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

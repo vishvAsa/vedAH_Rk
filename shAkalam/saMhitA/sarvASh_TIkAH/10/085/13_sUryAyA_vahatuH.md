@@ -4,6 +4,7 @@ devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्याविवाहः
@@ -71,7 +72,12 @@ pári ← pári (invariable)
 
 uhyate ← √vah- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सू॒र्याया॑ वह॒तुः प्रागा॑त्सवि॒ता यम॒वासृ॑जत् ।  
+अ॒घासु॑ हन्यन्ते॒ गावोऽर्जु॑न्योः॒ पर्यु॑ह्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

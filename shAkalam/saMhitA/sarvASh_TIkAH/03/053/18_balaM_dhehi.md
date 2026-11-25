@@ -4,6 +4,7 @@ devataa = "रथाङ्गानि"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रथाङ्गानि
@@ -80,7 +81,12 @@ hí ← hí (invariable)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बलं॑ धेहि त॒नूषु॑ नो॒ बल॑मिन्द्रान॒ळुत्सु॑ नः ।  
+बलं॑ तो॒काय॒ तन॑याय जी॒वसे॒ त्वं हि ब॑ल॒दा असि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

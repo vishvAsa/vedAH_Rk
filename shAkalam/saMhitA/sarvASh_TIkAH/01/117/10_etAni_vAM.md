@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ vidúṣe ← √vid- 2 (root)
 
 yātám ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तानि॑ वां श्रव॒स्या॑ सुदानू॒ ब्रह्मा॑ङ्गू॒षं सद॑नं॒ रोद॑स्योः ।  
+यद्वां॑ प॒ज्रासो॑ अश्विना॒ हव॑न्ते या॒तमि॒षा च॑ वि॒दुषे॑ च॒ वाज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पूरणो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vidvā́n ← √vid- 2 (root)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्यं॑ सु॒तास्तुभ्य॑मु॒ सोत्वा॑स॒स्त्वां गिरः॒ श्वात्र्या॒ आ ह्व॑यन्ति ।  
+इन्द्रे॒दम॒द्य सव॑नं जुषा॒णो विश्व॑स्य वि॒द्वाँ इ॒ह पा॑हि॒ सोम॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

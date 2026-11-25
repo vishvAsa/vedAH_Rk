@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ vidát ← √vid- 1 (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदिन्न्व॑स्य परि॒षद्वा॑नो अग्मन्पु॒रू सद॑न्तो नार्ष॒दं बि॑भित्सन् ।  
+वि शुष्ण॑स्य॒ सङ्ग्र॑थितमन॒र्वा वि॒दत्पु॑रुप्रजा॒तस्य॒ गुहा॒ यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “who; which; yat \[pronoun\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

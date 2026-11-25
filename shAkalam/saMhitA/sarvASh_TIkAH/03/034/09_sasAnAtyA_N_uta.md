@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ prá ← prá (invariable)
 
 várṇam ← várṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒सानात्याँ॑ उ॒त सूर्यं॑ ससा॒नेन्द्रः॑ ससान पुरु॒भोज॑सं॒ गाम् ।  
+हि॒र॒ण्यय॑मु॒त भोगं॑ ससान ह॒त्वी दस्यू॒न्प्रार्यं॒ वर्ण॑मावत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

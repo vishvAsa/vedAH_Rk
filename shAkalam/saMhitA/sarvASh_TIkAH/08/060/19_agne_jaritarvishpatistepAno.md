@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ duroṇayúḥ ← duroṇayú- (nominal stem)
 
 pāyúḥ ← pāyú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ जरि॑तर्वि॒श्पति॑स्तेपा॒नो दे॑व र॒क्षसः॑ ।  
+अप्रो॑षिवान्गृ॒हप॑तिर्म॒हाँ अ॑सि दि॒वस्पा॒युर्दु॑रोण॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

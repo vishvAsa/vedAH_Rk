@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ práyaḥ ← práyas- (nominal stem)
 
 sūráye ← sūrí- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं तम॑ग्ने अमृत॒त्व उ॑त्त॒मे मर्तं॑ दधासि॒ श्रव॑से दि॒वेदि॑वे ।  
+यस्ता॑तृषा॒ण उ॒भया॑य॒ जन्म॑ने॒ मयः॑ कृ॒णोषि॒ प्रय॒ आ च॑ सू॒रये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

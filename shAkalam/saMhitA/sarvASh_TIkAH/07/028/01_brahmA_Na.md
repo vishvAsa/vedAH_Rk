@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ asmā́kam ← ahám (pronoun)
 
 viśvaminva ← viśvaminvá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रह्मा॑ ण इ॒न्द्रोप॑ याहि वि॒द्वान॒र्वाञ्च॑स्ते॒ हर॑यः सन्तु यु॒क्ताः ।  
+विश्वे॑ चि॒द्धि त्वा॑ वि॒हव॑न्त॒ मर्ता॑ अ॒स्माक॒मिच्छृ॑णुहि विश्वमिन्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

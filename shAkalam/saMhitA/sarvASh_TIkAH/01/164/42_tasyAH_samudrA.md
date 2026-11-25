@@ -4,6 +4,7 @@ devataa = "वाक्;आपः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्;आपः
@@ -80,7 +81,12 @@ tát ← sá- ~ tá- (pronoun)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्याः॑ समु॒द्रा अधि॒ वि क्ष॑रन्ति॒ तेन॑ जीवन्ति प्र॒दिश॒श्चत॑स्रः ।  
+ततः॑ क्षरत्य॒क्षरं॒ तद्विश्व॒मुप॑ जीवति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -71,7 +72,12 @@ pā́rthivaḥ ← pā́rthiva- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒च्छद्वि॑धानैर्गुपि॒तो बार्ह॑तैः सोम रक्षि॒तः ।  
+ग्राव्णा॒मिच्छृ॒ण्वन्ति॑ष्ठसि॒ न ते॑ अश्नाति॒ पार्थि॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

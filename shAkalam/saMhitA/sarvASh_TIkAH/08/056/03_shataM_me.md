@@ -4,6 +4,7 @@ devataa = "प्रस्कण्वस्य दानस्तुतिः (
 RShiH = "पृषध्रः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)
@@ -57,7 +58,12 @@ dāsā́n ← dāsá- (nominal stem)
 
 srájaḥ ← sráj- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं मे॑ गर्द॒भानां॑ श॒तमूर्णा॑वतीनाम् ।  
+श॒तं दा॒साँ अति॒ स्रजः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “wreath; sraj \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

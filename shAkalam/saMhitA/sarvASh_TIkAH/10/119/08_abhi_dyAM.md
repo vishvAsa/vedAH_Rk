@@ -4,6 +4,7 @@ devataa = "आत्मस्तुतिः"
 RShiH = "लब ऐन्द्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आत्मस्तुतिः
@@ -66,7 +67,12 @@ kuvít ← kuvít (invariable)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि द्यां म॑हि॒ना भु॑वम॒भी॒३॒॑मां पृ॑थि॒वीं म॒हीम् ।  
+कु॒वित्सोम॒स्यापा॒मिति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “thus; so; iti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

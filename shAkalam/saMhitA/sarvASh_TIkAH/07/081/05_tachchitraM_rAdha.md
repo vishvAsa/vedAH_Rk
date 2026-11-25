@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ rāsva ← √rā- 1 (root)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तच्चि॒त्रं राध॒ आ भ॒रोषो॒ यद्दी॑र्घ॒श्रुत्त॑मम् ।  
+यत्ते॑ दिवो दुहितर्मर्त॒भोज॑नं॒ तद्रा॑स्व भु॒नजा॑महै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

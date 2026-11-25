@@ -4,6 +4,7 @@ devataa = "अग्नीषोमौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नीषोमौ
@@ -63,7 +64,12 @@ sácā ← sácā (invariable)
 
 yātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्नी॑षोमावि॒मानि॑ नो यु॒वं ह॒व्या जु॑जोषतम् ।  
+आ या॑त॒मुप॑ नः॒ सचा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “jointly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,12 +173,6 @@ Agni and Soma, you will enjoy these oblations of ours here.
 Together drive right up to us.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I supply ‘makes’ on the basis of 9c sugáṃ kṛdhi, though strictly speaking “that is an easy way” is perfectly acceptable.
-
-tāvaká-, the vṛddhi derivative of the genitive of the 2nd ps. pronoun, enlarged with -ka-, is a striking form, though exactly what special effect it is aiming at is unclear. For the use of -ka- in pronominal derivatives, see Jamison 2009 (IIJ 52). As discussed there, the -ka- tends to signal a lower register or slangy tone.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -181,7 +180,6 @@ tāvaká-, the vṛddhi derivative of the genitive of the 2nd ps. pronoun, enlar
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -86,7 +87,12 @@ sunota ← √su- (root)
 
 tásmai ← sá- ~ tá- (pronoun)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध्व॑र्यवो॒ऽप इ॑ता समु॒द्रम॒पां नपा॑तं ह॒विषा॑ यजध्वम् ।  
+स वो॑ दददू॒र्मिम॒द्या सुपू॑तं॒ तस्मै॒ सोमं॒ मधु॑मन्तं सुनोत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

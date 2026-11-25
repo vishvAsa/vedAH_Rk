@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ prá ← prá (invariable)
 
 śácībhiḥ ← śácī- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं वां॑ भा॒गो निहि॑तो यजत्रे॒मा गिरो॑ नास॒त्योप॑ यातम् ।  
+पिब॑तं॒ सोमं॒ मधु॑मन्तम॒स्मे प्र दा॒श्वांस॑मवतं॒ शची॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “Śacī; power; dexterity; ability; aid.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

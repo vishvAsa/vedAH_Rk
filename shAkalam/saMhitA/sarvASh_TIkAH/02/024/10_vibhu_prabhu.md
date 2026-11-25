@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -80,7 +81,12 @@ víśaḥ ← víś- (nominal stem)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒भु प्र॒भु प्र॑थ॒मं मे॒हना॑वतो॒ बृह॒स्पतेः॑ सुवि॒दत्रा॑णि॒ राध्या॑ ।  
+इ॒मा सा॒तानि॑ वे॒न्यस्य॑ वा॒जिनो॒ येन॒ जना॑ उ॒भये॑ भुञ्ज॒ते विशः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

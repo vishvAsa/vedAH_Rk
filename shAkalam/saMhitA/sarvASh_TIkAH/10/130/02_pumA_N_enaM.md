@@ -4,6 +4,7 @@ devataa = "भाववृत्तं"
 RShiH = "यज्ञः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -95,7 +96,12 @@ sā́māni ← sā́man- (nominal stem)
 
 tásarāṇi ← tásara- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पुमाँ॑ एनं तनुत॒ उत्कृ॑णत्ति॒ पुमा॒न्वि त॑त्ने॒ अधि॒ नाके॑ अ॒स्मिन् ।  
+इ॒मे म॒यूखा॒ उप॑ सेदुरू॒ सदः॒ सामा॑नि चक्रु॒स्तस॑रा॒ण्योत॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “weave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

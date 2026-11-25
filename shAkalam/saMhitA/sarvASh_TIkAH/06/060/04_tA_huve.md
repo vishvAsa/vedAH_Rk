@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -63,7 +64,12 @@ mardhataḥ ← √mr̥dh- (root)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता हु॑वे॒ ययो॑रि॒दं प॒प्ने विश्वं॑ पु॒रा कृ॒तम् ।  
+इ॒न्द्रा॒ग्नी न म॑र्धतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “neglect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -184,12 +189,6 @@ I call upon these two whose every previous deed is admired.
 Indra and Agni do not neglect (us).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I do not have a view on how (or whether) to fix the meter of pāda a; see Oldenberg
-
-It is thinkable, but by no means necessary, that instead of reading quadrisyllabic índrā-agnī (as in vss. 5, 7, 14), we could read trisyllabic índrāgnī (as in 8, 9, 15) with a haplologized enclitic naḥ: índrāgnī ná *no mardhataḥ.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -197,7 +196,6 @@ Note the phonological (and partly etymological) figure mardh(ataḥ) (4c), mṛ�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ sahasaḥ ← sáhas- (nominal stem)
 
 yaho ← yahú- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑भिरग्ने अ॒ग्निभि॑रि॒मं य॒ज्ञमि॒दं वचः॑ ।  
+चनो॑ धाः सहसो यहो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “offspring.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

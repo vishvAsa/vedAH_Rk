@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ r̥túbhiḥ ← r̥tú- (nominal stem)
 
 yébhiḥ ← yá- (pronoun)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वो॑ व॒यं प्र॑मि॒नाम॑ व्र॒तानि॑ वि॒दुषां॑ देवा॒ अवि॑दुष्टरासः ।  
+अ॒ग्निष्टद्विश्व॒मा पृ॑णाति वि॒द्वान्येभि॑र्दे॒वाँ ऋ॒तुभिः॑ क॒ल्पया॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     imitate; restore; make; treat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

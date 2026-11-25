@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ váśam ← váśa- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ताव॑तस्ते वसो वि॒द्याम॑ शूर॒ नव्य॑सः ।  
+यथा॒ प्राव॒ एत॑शं॒ कृत्व्ये॒ धने॒ यथा॒ वशं॒ दश॑व्रजे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

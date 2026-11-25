@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ sám ← sám (invariable)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कनि॑क्रदत्क॒लशे॒ गोभि॑रज्यसे॒ व्य१॒॑व्ययं॑ स॒मया॒ वार॑मर्षसि ।  
+म॒र्मृ॒ज्यमा॑नो॒ अत्यो॒ न सा॑न॒सिरिन्द्र॑स्य सोम ज॒ठरे॒ सम॑क्षरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “run; melt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

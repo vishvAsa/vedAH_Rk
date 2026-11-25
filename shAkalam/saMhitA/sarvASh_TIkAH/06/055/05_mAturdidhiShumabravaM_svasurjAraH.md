@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -63,7 +64,12 @@ máma ← ahám (pronoun)
 
 sákhā ← sákhi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा॒तुर्दि॑धि॒षुम॑ब्रवं॒ स्वसु॑र्जा॒रः शृ॑णोतु नः ।  
+भ्रातेन्द्र॑स्य॒ सखा॒ मम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -174,10 +179,6 @@ The wooer of his mother I have spoken to: let the lover of his sister  hear us,
 brother of Indra, companion to me.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner interpr. abravam to mean “I have spoken of” (“(Von Pūṣan) … habe ich gesprochen”), but the fact that we immediately urge him to hear us suggests that we have spoken to him. In the next hymn VI.56.4 … tvā … brávāma also clearly means “we speak/say to you.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/055/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -185,7 +186,6 @@ As noted in the published introduction, these allusions to incest seem remarkabl
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

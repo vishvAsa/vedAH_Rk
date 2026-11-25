@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -71,7 +72,12 @@ dadhe ← √dhā- 1 (root)
 
 kṣáyam ← kṣáya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को दे॑व॒यन्त॑मश्नव॒ज्जनं॒ को वृ॒क्तब॑र्हिषम् ।  
+प्रप्र॑ दा॒श्वान्प॒स्त्या॑भिरस्थितान्त॒र्वाव॒त्क्षयं॑ दधे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

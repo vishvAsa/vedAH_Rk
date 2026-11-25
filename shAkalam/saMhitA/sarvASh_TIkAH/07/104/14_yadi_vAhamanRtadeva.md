@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ sacantām ← √sac- 1 (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑ वा॒हमनृ॑तदेव॒ आस॒ मोघं॑ वा दे॒वाँ अ॑प्यू॒हे अ॑ग्ने ।  
+किम॒स्मभ्यं॑ जातवेदो हृणीषे द्रोघ॒वाच॑स्ते निरृ॒थं स॑चन्ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

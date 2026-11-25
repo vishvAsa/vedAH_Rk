@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ rakṣásaḥ ← rakṣás- (nominal stem)
 
 satáḥ ← √as- 1 (root)  
 {case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ यातू॒नाम॑भवत्पराश॒रो ह॑वि॒र्मथी॑नाम॒भ्या॒३॒॑विवा॑सताम् ।  
+अ॒भीदु॑ श॒क्रः प॑र॒शुर्यथा॒ वनं॒ पात्रे॑व भि॒न्दन्त्स॒त ए॑ति र॒क्षसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “Rākṣasa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

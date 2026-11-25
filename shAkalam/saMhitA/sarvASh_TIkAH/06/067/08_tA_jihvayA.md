@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -101,7 +102,12 @@ ví ← ví (invariable)
 
 yuvám ← tvám (pronoun)  
 {case:NOM, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता जि॒ह्वया॒ सद॒मेदं सु॑मे॒धा आ यद्वां॑ स॒त्यो अ॑र॒तिरृ॒ते भूत् ।  
+तद्वां॑ महि॒त्वं घृ॑तान्नावस्तु यु॒वं दा॒शुषे॒ वि च॑यिष्ट॒मंहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -263,7 +269,6 @@ _________
 - “trouble; sin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

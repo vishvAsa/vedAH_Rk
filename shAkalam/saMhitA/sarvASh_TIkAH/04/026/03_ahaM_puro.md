@@ -4,6 +4,7 @@ devataa = "इन्द्र आत्मा वा"
 RShiH = "वामदेवो गौतम इन्द्रो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्र आत्मा वा
@@ -80,7 +81,12 @@ dívodāsam ← dívodāsa- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं पुरो॑ मन्दसा॒नो व्यै॑रं॒ नव॑ सा॒कं न॑व॒तीः शम्ब॑रस्य ।  
+श॒त॒त॒मं वे॒श्यं॑ स॒र्वता॑ता॒ दिवो॑दासमतिथि॒ग्वं यदाव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

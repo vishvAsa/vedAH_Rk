@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "सतोबृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ tā́n ← sá- ~ tá- (pronoun)
 
 vihi ← √vī- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओजि॑ष्ठं ते मध्य॒तो मेद॒ उद्भृ॑तं॒ प्र ते॑ व॒यं द॑दामहे ।  
+श्चोत॑न्ति ते वसो स्तो॒का अधि॑ त्व॒चि प्रति॒ तान्दे॑व॒शो वि॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “approach; ask; desire; go; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

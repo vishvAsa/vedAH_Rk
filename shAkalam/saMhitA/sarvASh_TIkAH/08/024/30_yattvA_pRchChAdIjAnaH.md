@@ -4,6 +4,7 @@ devataa = "वरोः सौषाम्णस्य दानस्तुत�
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरोः सौषाम्णस्य दानस्तुतिः
@@ -68,7 +69,12 @@ gomatī́m ← gomatī́- (nominal stem)
 
 tiṣṭhati ← √sthā- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्त्वा॑ पृ॒च्छादी॑जा॒नः कु॑ह॒या कु॑हयाकृते ।  
+ए॒षो अप॑श्रितो व॒लो गो॑म॒तीमव॑ तिष्ठति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

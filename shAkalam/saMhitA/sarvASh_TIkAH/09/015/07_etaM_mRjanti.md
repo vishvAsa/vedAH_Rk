@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ mahī́ḥ ← máh- (nominal stem)
 
 pracakrāṇám ← √kr̥- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तं मृ॑जन्ति॒ मर्ज्य॒मुप॒ द्रोणे॑ष्वा॒यवः॑ ।  
+प्र॒च॒क्रा॒णं म॒हीरिषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

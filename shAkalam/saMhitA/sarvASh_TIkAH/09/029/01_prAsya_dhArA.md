@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नृमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ devā́n ← devá- (nominal stem)
 
 prabhū́ṣataḥ ← √bhūṣ- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रास्य॒ धारा॑ अक्षर॒न्वृष्णः॑ सु॒तस्यौज॑सा ।  
+दे॒वाँ अनु॑ प्र॒भूष॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - \[verb noun\], genitive, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

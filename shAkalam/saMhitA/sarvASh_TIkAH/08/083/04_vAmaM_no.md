@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -60,7 +61,12 @@ hí ← hí (invariable)
 
 vāmám ← vāmá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒मं नो॑ अस्त्वर्यमन्वा॒मं व॑रुण॒ शंस्य॑म् ।  
+वा॒मं ह्या॑वृणी॒महे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “prefer; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

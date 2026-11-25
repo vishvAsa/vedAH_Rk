@@ -4,6 +4,7 @@ devataa = "त्रसदस्योर्दानस्तुतिः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्रसदस्योर्दानस्तुतिः
@@ -57,7 +58,12 @@ máṁhiṣṭhaḥ ← máṁhiṣṭha- (nominal stem)
 
 sátpatiḥ ← sátpati- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अदा॑न्मे पौरुकु॒त्स्यः प॑ञ्चा॒शतं॑ त्र॒सद॑स्युर्व॒धूना॑म् ।  
+मंहि॑ष्ठो अ॒र्यः सत्प॑तिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

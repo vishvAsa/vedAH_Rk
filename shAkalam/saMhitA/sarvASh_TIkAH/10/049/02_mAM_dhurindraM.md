@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -101,7 +102,12 @@ dhr̥ṣṇú ← dhr̥ṣṇú- (nominal stem)
 
 vájram ← vájra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मां धु॒रिन्द्रं॒ नाम॑ दे॒वता॑ दि॒वश्च॒ ग्मश्चा॒पां च॑ ज॒न्तवः॑ ।  
+अ॒हं हरी॒ वृष॑णा॒ विव्र॑ता र॒घू अ॒हं वज्रं॒ शव॑से धृ॒ष्ण्वा द॑दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

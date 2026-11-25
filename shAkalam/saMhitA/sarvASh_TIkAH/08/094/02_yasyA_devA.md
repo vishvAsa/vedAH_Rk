@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "बिन्दुः पूतदक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ kám ← kám (invariable)
 
 sū́ryāmā́sā ← sū́ryāmā́s- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्या॑ दे॒वा उ॒पस्थे॑ व्र॒ता विश्वे॑ धा॒रय॑न्ते ।  
+सूर्या॒मासा॑ दृ॒शे कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “kaṃ \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -154,12 +159,6 @@ _________
 She in whose lap all the gods cause their commandments to be upheld, for the sun and moon to be seen.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Curiously, vratā́… dhāráyante seems to be the only full VP with vratá- as obj. of a verbal form of √dhṛ, despite the common (nearly 20x) bahuvrīhi dhṛtávrata- ‘whose commandments are upheld’.
-
-There are several ways to construe the dual dvandva sū́ryāmā́sā of c. Geldner takes it as a separate obj. of dhāráyante, Renou as an additional subj. of the same verb, while I take it as the subj. of the purpose inf. dṛśé.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -167,7 +166,6 @@ For the somewhat peculiar imagery of these vss., see the published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

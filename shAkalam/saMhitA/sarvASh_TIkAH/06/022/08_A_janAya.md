@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ kṣā́m ← kṣám- (nominal stem)
 
 śocaya ← √śuc- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ जना॑य॒ द्रुह्व॑णे॒ पार्थि॑वानि दि॒व्यानि॑ दीपयो॒ऽन्तरि॑क्षा ।  
+तपा॑ वृषन्वि॒श्वतः॑ शो॒चिषा॒ तान्ब्र॑ह्म॒द्विषे॑ शोचय॒ क्षाम॒पश्च॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

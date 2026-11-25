@@ -4,6 +4,7 @@ devataa = "मरुतो मरुतो वाग्निश्च"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतो मरुतो वाग्निश्च
@@ -86,7 +87,12 @@ vāmám ← vāmá- (nominal stem)
 
 yájamānāya ← √yaj- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निश्च॒ यन्म॑रुतो विश्ववेदसो दि॒वो वह॑ध्व॒ उत्त॑रा॒दधि॒ ष्णुभिः॑ ।  
+ते म॑न्दसा॒ना धुन॑यो रिशादसो वा॒मं ध॑त्त॒ यज॑मानाय सुन्व॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ ví ← ví (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त॒तृ॒दा॒नाः सिन्ध॑वः॒ क्षोद॑सा॒ रजः॒ प्र स॑स्रुर्धे॒नवो॑ यथा ।  
+स्य॒न्ना अश्वा॑ इ॒वाध्व॑नो वि॒मोच॑ने॒ वि यद्वर्त॑न्त ए॒न्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - \[noun\], nominative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

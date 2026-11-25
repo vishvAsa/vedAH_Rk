@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -92,7 +93,12 @@ u ← u (invariable)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आग्म॒न्नाप॑ उश॒तीर्ब॒र्हिरेदं न्य॑ध्व॒रे अ॑सदन्देव॒यन्तीः॑ ।  
+अध्व॑र्यवः सुनु॒तेन्द्रा॑य॒ सोम॒मभू॑दु वः सु॒शका॑ देवय॒ज्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “sacrifice; yajña.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

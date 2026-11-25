@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ abhíśasteḥ ← abhíśasti- (nominal stem)
 
 avaspárat ← √spr̥- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माअ॑स्मा॒ इदन्ध॒सोऽध्व॑र्यो॒ प्र भ॑रा सु॒तम् ।  
+कु॒वित्स॑मस्य॒ जेन्य॑स्य॒ शर्ध॑तो॒ऽभिश॑स्तेरव॒स्पर॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - \[verb\], singular, Aorist conj./subj.
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

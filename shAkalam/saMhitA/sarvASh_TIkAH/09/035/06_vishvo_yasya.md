@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ prabhū́vasoḥ ← prabhū́vasu- (nominal stem)
 
 punānásya ← √pū- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वो॒ यस्य॑ व्र॒ते जनो॑ दा॒धार॒ धर्म॑ण॒स्पतेः॑ ।  
+पु॒ना॒नस्य॑ प्र॒भूव॑सोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

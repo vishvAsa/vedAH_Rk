@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ indo ← índu- (nominal stem)
 
 punānáḥ ← √pū- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तो स॒हस्र॑भर्णसं॒ वाचं॑ सोम मख॒स्युव॑म् ।  
+पु॒ना॒न इ॑न्द॒वा भ॑र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,7 +165,6 @@ becoming purified, o drop, bring that hither.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -169,7 +173,6 @@ The unusual acc. expression vā́cam … sahásrabharṇasam is found in both 25
 contain the nom. sg. masc. punānáḥ.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

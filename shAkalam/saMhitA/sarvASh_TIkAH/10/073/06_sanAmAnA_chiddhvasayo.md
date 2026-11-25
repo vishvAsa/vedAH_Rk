@@ -4,6 +4,7 @@ devataa = "इन्द्रः (मरुतः)"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (मरुतः)
@@ -89,7 +90,12 @@ pratiṣṭhā́ ← pratiṣṭhā́- (nominal stem)
 
 sākám ← sākám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सना॑माना चिद्ध्वसयो॒ न्य॑स्मा॒ अवा॑ह॒न्निन्द्र॑ उ॒षसो॒ यथानः॑ ।  
+ऋ॒ष्वैर॑गच्छः॒ सखि॑भि॒र्निका॑मैः सा॒कं प्र॑ति॒ष्ठा हृद्या॑ जघन्थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

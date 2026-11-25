@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ sáhuriḥ ← sáhuri- (nominal stem)
 
 stan ← √stanⁱ- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सूर॑श्चि॒दा ह॒रितो॑ अस्य रीरम॒दिन्द्रा॒दा कश्चि॑द्भयते॒ तवी॑यसः ।  
+भी॒मस्य॒ वृष्णो॑ ज॒ठरा॑दभि॒श्वसो॑ दि॒वेदि॑वे॒ सहु॑रिः स्त॒न्नबा॑धितः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

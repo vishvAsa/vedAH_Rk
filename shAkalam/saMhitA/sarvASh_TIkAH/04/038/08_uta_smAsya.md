@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -89,7 +90,12 @@ r̥ñján ← √r̥j- 1 (root)
 
 sma ← sma (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्मा॑स्य तन्य॒तोरि॑व॒ द्योरृ॑घाय॒तो अ॑भि॒युजो॑ भयन्ते ।  
+य॒दा स॒हस्र॑म॒भि षी॒मयो॑धीद्दु॒र्वर्तुः॑ स्मा भवति भी॒म ऋ॒ञ्जन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

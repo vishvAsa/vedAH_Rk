@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -86,7 +87,12 @@ nŕ̥bhyaḥ ← nár- (nominal stem)
 
 suvānáḥ ← √sū- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॑ तिष्ठ सवितः श्रु॒ध्य१॒॑स्य हिर॑ण्यपाणे॒ प्रभृ॑तावृ॒तस्य॑ ।  
+व्यु१॒॑र्वीं पृ॒थ्वीम॒मतिं॑ सृजा॒न आ नृभ्यो॑ मर्त॒भोज॑नं सुवा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “give birth; urge; bestow; cause.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

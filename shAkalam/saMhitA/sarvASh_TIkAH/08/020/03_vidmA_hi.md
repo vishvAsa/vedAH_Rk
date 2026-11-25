@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ mīḷhúṣām ← mīḍhváṁs- (nominal stem)
 
 víṣṇoḥ ← víṣṇu- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒द्मा हि रु॒द्रिया॑णां॒ शुष्म॑मु॒ग्रं म॒रुतां॒ शिमी॑वताम् ।  
+विष्णो॑रे॒षस्य॑ मी॒ळ्हुषा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -165,7 +170,6 @@ of quick Viṣṇu, of the ones who grant rewards.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -173,7 +177,6 @@ Pādas 3a, 3c, and 4a all begin with vi, with the last example doubled ví (d)v�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

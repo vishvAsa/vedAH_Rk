@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ yám ← yá- (pronoun)
 
 yudhí ← yúdh- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तो॒त्रमिन्द्रा॑य गायत पुरुनृ॒म्णाय॒ सत्व॑ने ।  
+नकि॒र्यं वृ॑ण्व॒ते यु॒धि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “battle; fight; war; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

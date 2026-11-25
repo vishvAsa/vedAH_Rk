@@ -4,6 +4,7 @@ devataa = "इन्द्रः (मरुतः)"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (मरुतः)
@@ -83,7 +84,12 @@ patháḥ ← pánthā- ~ path- (nominal stem)
 
 yā́nān ← yā́na- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ज॑घन्थ॒ नमु॑चिं मख॒स्युं दासं॑ कृण्वा॒न ऋष॑ये॒ विमा॑यम् ।  
+त्वं च॑कर्थ॒ मन॑वे स्यो॒नान्प॒थो दे॑व॒त्राञ्ज॑सेव॒ याना॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

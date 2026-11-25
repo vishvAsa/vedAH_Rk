@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सस आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -85,7 +86,12 @@ sasásya ← sasá- (nominal stem)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वं वो॑ देवय॒ज्यया॒ग्निमी॑ळीत॒ मर्त्यः॑ ।  
+समि॑द्धः शुक्र दीदिह्यृ॒तस्य॒ योनि॒मास॑दः स॒सस्य॒ योनि॒मास॑दः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

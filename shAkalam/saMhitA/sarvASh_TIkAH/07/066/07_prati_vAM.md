@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -57,7 +58,12 @@ aryamáṇam ← áryaman- (nominal stem)
 
 riśā́dasam ← riśā́das- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ वां॒ सूर॒ उदि॑ते मि॒त्रं गृ॑णीषे॒ वरु॑णम् ।  
+अ॒र्य॒मणं॑ रि॒शाद॑सम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “superior; superior; proud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

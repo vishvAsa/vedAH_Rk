@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "अभितपाः सौर्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -92,7 +93,12 @@ naḥ ← ahám (pronoun)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्व॑स्य॒ हि प्रेषि॑तो॒ रक्ष॑सि व्र॒तमहे॑ळयन्नु॒च्चर॑सि स्व॒धा अनु॑ ।  
+यद॒द्य त्वा॑ सूर्योप॒ब्रवा॑महै॒ तं नो॑ दे॒वा अनु॑ मंसीरत॒ क्रतु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

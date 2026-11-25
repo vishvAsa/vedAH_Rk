@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ satyā́ ← satyá- (nominal stem)
 
 tŕ̥tsūnām ← tŕ̥tsu- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑वरुणा व॒धना॑भिरप्र॒ति भे॒दं व॒न्वन्ता॒ प्र सु॒दास॑मावतम् ।  
+ब्रह्मा॑ण्येषां शृणुतं॒ हवी॑मनि स॒त्या तृत्सू॑नामभवत्पु॒रोहि॑तिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

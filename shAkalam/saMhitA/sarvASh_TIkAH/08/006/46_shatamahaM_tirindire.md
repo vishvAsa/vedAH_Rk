@@ -4,6 +4,7 @@ devataa = "तिरिन्दिरस्य पारशव्यस्य �
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तिरिन्दिरस्य पारशव्यस्य दानस्तुतिः
@@ -57,7 +58,12 @@ rā́dhāṁsi ← rā́dhas- (nominal stem)
 
 yā́dvānām ← yā́dva- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तम॒हं ति॒रिन्दि॑रे स॒हस्रं॒ पर्शा॒वा द॑दे ।  
+राधां॑सि॒ याद्वा॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - \[noun\], genitive, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

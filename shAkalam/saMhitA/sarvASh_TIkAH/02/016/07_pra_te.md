@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ sicāmahe ← √sic- (root)
 
 vásunaḥ ← vásu- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॒ नावं॒ न सम॑ने वच॒स्युवं॒ ब्रह्म॑णा यामि॒ सव॑नेषु॒ दाधृ॑षिः ।  
+कु॒विन्नो॑ अ॒स्य वच॑सो नि॒बोधि॑ष॒दिन्द्र॒मुत्सं॒ न वसु॑नः सिचामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

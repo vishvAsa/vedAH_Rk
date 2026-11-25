@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -78,7 +79,12 @@ te ← tvám (pronoun)
 
 vīryàm ← vīryà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू चि॒न्नु ते॒ मन्य॑मानस्य द॒स्मोद॑श्नुवन्ति महि॒मान॑मुग्र ।  
+न वी॒र्य॑मिन्द्र ते॒ न राधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -217,10 +222,6 @@ Never do they (quite) reach up to the greatness of you, o wondrous  strong one, 
 nor to your heroism, Indra, nor to your generosity—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner seems to take the participle mányamānasya as a functional reflexive ‘think oneself to be’, with the added sense of self-conceit (“der du dir darauf etwas einbildest”). Although I would certainly not ascribe to Indra excessive modesty, in this context, where the poet is emphasizing the poets’ inability to capture all of Indra’s greatness, I think it unlikely that he is focusing on Indra’s egotism. I instead take the participle in a passive sense ‘be thought to be’, as sometimes elsewhere - pace Kulikov (339-40), who follows Gotō. 26
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/022/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -228,7 +229,6 @@ The subject of the verb in 8b, úd aśnuvanti, is not specified. In my view the 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

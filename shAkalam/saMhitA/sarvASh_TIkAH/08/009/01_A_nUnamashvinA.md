@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ yā́ḥ ← yá- (pronoun)
 
 yuyutám ← √yu- 2 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नू॒नम॑श्विना यु॒वं व॒त्सस्य॑ गन्त॒मव॑से ।  
+प्रास्मै॑ यच्छतमवृ॒कं पृ॒थु च्छ॒र्दिर्यु॑यु॒तं या अरा॑तयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “hostility; adversity; foe; envy; stinginess.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

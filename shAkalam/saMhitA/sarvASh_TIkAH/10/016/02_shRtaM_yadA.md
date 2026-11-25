@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ devā́nām ← devá- (nominal stem)
 
 vaśanī́ḥ ← vaśanī́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शृ॒तं य॒दा कर॑सि जातवे॒दोऽथे॑मेनं॒ परि॑ दत्तात्पि॒तृभ्यः॑ ।  
+य॒दा गच्छा॒त्यसु॑नीतिमे॒तामथा॑ दे॒वानां॑ वश॒नीर्भ॑वाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

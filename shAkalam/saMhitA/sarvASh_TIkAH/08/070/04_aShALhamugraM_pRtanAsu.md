@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ dyā́vaḥ ← dyú- ~ div- (nominal stem)
 
 kṣā́maḥ ← kṣám- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अषा॑ळ्हमु॒ग्रं पृत॑नासु सास॒हिं यस्मि॑न्म॒हीरु॑रु॒ज्रयः॑ ।  
+सं धे॒नवो॒ जाय॑माने अनोनवु॒र्द्यावः॒ क्षामो॑ अनोनवुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “bellow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

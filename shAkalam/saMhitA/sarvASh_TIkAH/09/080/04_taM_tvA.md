@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ sahasrajit ← sahasrajít- (nominal stem)
 
 víśvān ← víśva- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ दे॒वेभ्यो॒ मधु॑मत्तमं॒ नरः॑ स॒हस्र॑धारं दुहते॒ दश॒ क्षिपः॑ ।  
+नृभिः॑ सोम॒ प्रच्यु॑तो॒ ग्राव॑भिः सु॒तो विश्वा॑न्दे॒वाँ आ प॑वस्वा सहस्रजित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “curative; removing; victorious; winning.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -257,10 +262,6 @@ You, most honeyed, do the men milk for the gods; you of a thousand  streams do t
 O Soma, roused by men, pressed by stones, by purifying yourself bring  all the gods here, you winner of thousands.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Pādas a and b share a verb, duhate in b. Each pāda contains a contrastive pair: devébhyaḥ … náraḥ “the men for the gods” and sahásra(dhāram) … dáśa (kṣípaḥ) “thousand(-streamed) … ten (fingers).”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/080/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -268,7 +269,6 @@ Both vss. open with táṃ tvā, echoing yáṃ tvā beginning vs. 2.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

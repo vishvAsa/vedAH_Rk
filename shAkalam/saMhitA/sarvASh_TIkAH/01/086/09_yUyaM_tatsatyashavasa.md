@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ vídhyata ← √vyadh- (root)
 
 vidyútā ← vidyút- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यं तत्स॑त्यशवस आ॒विष्क॑र्त महित्व॒ना ।  
+विध्य॑ता वि॒द्युता॒ रक्षः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

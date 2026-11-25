@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -55,7 +56,11 @@ utá ← utá (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ भव॑ सुष॒मिधा॒ समि॑द्ध उ॒त ब॒र्हिरु॑र्वि॒या वि स्तृ॑णीताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +127,6 @@ _________
 - “spread; kill; lay; cover.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

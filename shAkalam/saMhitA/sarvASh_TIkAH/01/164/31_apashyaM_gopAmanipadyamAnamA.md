@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ bhúvaneṣu ← bhúvana- (nominal stem)
 
 varīvarti ← √vr̥t- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप॑श्यं गो॒पामनि॑पद्यमान॒मा च॒ परा॑ च प॒थिभि॒श्चर॑न्तम् ।  
+स स॒ध्रीचीः॒ स विषू॑ची॒र्वसा॑न॒ आ व॑रीवर्ति॒ भुव॑नेष्व॒न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “inside; in; antar \[word\]; midmost; between; among.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

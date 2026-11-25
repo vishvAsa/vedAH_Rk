@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ rayīṇā́m ← rayí- ~ rāy- (nominal stem)
 
 vidmá ← √vid- 2 (root)  
 {number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां हि स॒त्यम॑द्रिवो वि॒द्म दा॒तार॑मि॒षाम् ।  
+वि॒द्म दा॒तारं॑ रयी॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

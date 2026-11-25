@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कृतयशाः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ gáviṣṭaye ← gáviṣṭi- (nominal stem)
 
 jínva ← √ji- 2 ~ jinv- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ व॑च्यस्व सुदक्ष च॒म्वोः॑ सु॒तो वि॒शां वह्नि॒र्न वि॒श्पतिः॑ ।  
+वृ॒ष्टिं दि॒वः प॑वस्व री॒तिम॒पां जिन्वा॒ गवि॑ष्टये॒ धियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -237,12 +242,6 @@ Purify yourself into the rain from heaven, the streaming of waters.
 Quicken our insights for the quest for cattle.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On this usage of ā́√vañc see comm. ad IX.2.2. This same phrase ā́ vacyasva (…) camvòḥ is found in IX.97.2.
-
-I take viśā́m … viśpátiḥ to be a syntagm like gaṇā́nām … gaṇápatim “trooplord of troops” (II.23.1), with the simile váhnir ná interposed. The expression in II.23.1 also has an interposed word, though just a Wackernagel enclitic tvā. Geldner takes the viś- words as part of the simile, “wie ein zu Wagen fahrender Clanfürst” (and folds the gen. pl. viśā́m into its headnoun). He suggests an alternative (n. 10b) closer to mine, though again with the gen. elided: “wie ein Wagenross, du der Clanfürst.” And, with the aid of parentheses, Renou gets three separate NPs out of it: “tel un chef de clan, (maître) des clans, conducteur (du char).” The syntagms vṛṣṭím diváḥ … rītím apā́m exactly replicate the problematic compds vṛṣṭí-dyāvo rīty-ā̀paḥ in nearby IX.106.8. See comm. there. Whether there is any direct functional relationship between the cmpds and the syntagms, the two sequences must be considered together.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -250,7 +249,6 @@ These two vss. are syntactically independent but linked by the theme of rain.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

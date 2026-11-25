@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -89,7 +90,12 @@ tátra ← tátra (invariable)
 
 vocatam ← √vac- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्रा॒ नरः॑ स॒मय॑न्ते कृ॒तध्व॑जो॒ यस्मि॑न्ना॒जा भव॑ति॒ किं च॒न प्रि॒यम् ।  
+यत्रा॒ भय॑न्ते॒ भुव॑ना स्व॒र्दृश॒स्तत्रा॑ न इन्द्रावरु॒णाधि॑ वोचतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

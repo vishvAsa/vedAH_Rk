@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ hávante ← √hū- (root)
 
 samānádakṣāḥ ← samānádakṣa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्थौ॑क्थे॒ सोम॒ इन्द्रं॑ ममाद नी॒थेनी॑थे म॒घवा॑नं सु॒तासः॑ ।  
+यदीं॑ स॒बाधः॑ पि॒तरं॒ न पु॒त्राः स॑मा॒नद॑क्षा॒ अव॑से॒ हव॑न्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

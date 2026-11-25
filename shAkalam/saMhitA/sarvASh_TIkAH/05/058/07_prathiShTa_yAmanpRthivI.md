@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -95,7 +96,12 @@ svédam ← svéda- (nominal stem)
 
 varṣám ← varṣá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रथि॑ष्ट॒ याम॑न्पृथि॒वी चि॑देषां॒ भर्ते॑व॒ गर्भं॒ स्वमिच्छवो॑ धुः ।  
+वाता॒न्ह्यश्वा॑न्धु॒र्या॑युयु॒ज्रे व॒र्षं स्वेदं॑ चक्रिरे रु॒द्रिया॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “Marut.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -270,12 +275,6 @@ Even the Earth has spread herself at their journey. Like a husband an  embryo, t
 Certainly they have yoked the winds as horses to their yoke-pole; they  have made their own sweat into rain—the Rudras.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich has distinct sexual overtones, with the Earth spreading herself to receive the Maruts’ “embryo” -- though it is more decorously phrased than V.56.3.
-
-It is difficult to get a causal reading from hí in c. It cannot be connected with the preceding pāda, and the action of c seems irrelevant to d, so connection with the following pāda seems unlikely. I have settled for the craven ‘certainly’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md">
 <details><summary><h2>05-07 ...{Loading}...</h2></summary>
 
@@ -291,7 +290,6 @@ The final word of vs. 6 is dyaúḥ, while pṛthivī́appears in the 1st pāda 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

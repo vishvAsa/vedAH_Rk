@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -85,7 +86,12 @@ sūráyaḥ ← sūrí- (nominal stem)
 
 sújāte ← sujātá- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तेभ्यो॑ द्यु॒म्नं बृ॒हद्यश॒ उषो॑ मघो॒न्या व॑ह ।  
+ये नो॒ राधां॒स्यश्व्या॑ ग॒व्या भज॑न्त सू॒रयः॒ सुजा॑ते॒ अश्व॑सूनृते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “big; friendly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -246,7 +251,6 @@ and cows
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -257,7 +261,6 @@ emphasis on non-material rewards for the patrons continues in vs. 7 with “loft
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

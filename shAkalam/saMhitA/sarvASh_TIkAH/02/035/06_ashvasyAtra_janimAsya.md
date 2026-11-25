@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -95,7 +96,12 @@ naśan ← √naś- 1 (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्व॒स्यात्र॒ जनि॑मा॒स्य च॒ स्व॑र्द्रु॒हो रि॒षः स॒म्पृचः॑ पाहि सू॒रीन् ।  
+आ॒मासु॑ पू॒र्षु प॒रो अ॑प्रमृ॒ष्यं नारा॑तयो॒ वि न॑श॒न्नानृ॑तानि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “falsehood; lying; lie; cheat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

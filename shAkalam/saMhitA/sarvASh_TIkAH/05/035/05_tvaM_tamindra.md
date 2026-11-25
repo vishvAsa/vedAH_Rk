@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रभूवसुराङ्गिरसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ pate ← páti- (nominal stem)
 
 yāhi ← √yā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं तमि॑न्द्र॒ मर्त्य॑ममित्र॒यन्त॑मद्रिवः ।  
+स॒र्व॒र॒था श॑तक्रतो॒ नि या॑हि शवसस्पते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

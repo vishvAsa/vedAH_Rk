@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वम्रो वैखानसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ r̥té ← r̥té (invariable)
 
 saptáthasya ← saptátha- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि द्यु॒ता वि॒द्युता॒ वेति॒ साम॑ पृ॒थुं योनि॑मसुर॒त्वा स॑साद ।  
+स सनी॑ळेभिः प्रसहा॒नो अ॑स्य॒ भ्रातु॒र्न ऋ॒ते स॒प्तथ॑स्य मा॒याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     trick.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

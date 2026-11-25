@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -86,7 +87,12 @@ hanti ← √han- (root)
 
 vr̥trā́ṇi ← vr̥trá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आप॑श्चि॒द्धि स्वय॑शसः॒ सद॑स्सु दे॒वीरिन्द्रं॒ वरु॑णं दे॒वता॒ धुः ।  
+कृ॒ष्टीर॒न्यो धा॒रय॑ति॒ प्रवि॑क्ता वृ॒त्राण्य॒न्यो अ॑प्र॒तीनि॑ हन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

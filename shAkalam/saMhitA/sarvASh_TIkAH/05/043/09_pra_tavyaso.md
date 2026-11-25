@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ vā́jasya ← vā́ja- (nominal stem)
 
 yā́ ← yá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र तव्य॑सो॒ नम॑उक्तिं तु॒रस्या॒हं पू॒ष्ण उ॒त वा॒योर॑दिक्षि ।  
+या राध॑सा चोदि॒तारा॑ मती॒नां या वाज॑स्य द्रविणो॒दा उ॒त त्मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “self.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

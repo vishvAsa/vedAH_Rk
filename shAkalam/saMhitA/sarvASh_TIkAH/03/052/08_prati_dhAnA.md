@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ tvā ← tvám (pronoun)
 
 várdhantu ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ धा॒ना भ॑रत॒ तूय॑मस्मै पुरो॒ळाशं॑ वी॒रत॑माय नृ॒णाम् ।  
+दि॒वेदि॑वे स॒दृशी॑रिन्द्र॒ तुभ्यं॒ वर्ध॑न्तु त्वा सोम॒पेया॑य धृष्णो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “brave; ferocious; strong.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

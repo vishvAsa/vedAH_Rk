@@ -4,6 +4,7 @@ devataa = "आपः;अग्निः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः;अग्निः
@@ -80,7 +81,12 @@ tám ← sá- ~ tá- (pronoun)
 
 várcasā ← várcas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपो॑ अ॒द्यान्व॑चारिषं॒ रसे॑न॒ सम॑गस्महि ।  
+पय॑स्वानग्न॒ आ ग॑हि॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     waste; droppings; color.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

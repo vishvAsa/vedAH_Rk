@@ -4,6 +4,7 @@ devataa = "विश्वकर्मा"
 RShiH = "विश्वकर्मा भौवनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -89,7 +90,12 @@ prathamachát ← prathamachád- (nominal stem)
 
 viveśa ← √viś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इ॒मा विश्वा॒ भुव॑नानि॒ जुह्व॒दृषि॒र्होता॒ न्यसी॑दत्पि॒ता नः॑ ।  
+स आ॒शिषा॒ द्रवि॑णमि॒च्छमा॑नः प्रथम॒च्छदव॑राँ॒ आ वि॑वेश ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

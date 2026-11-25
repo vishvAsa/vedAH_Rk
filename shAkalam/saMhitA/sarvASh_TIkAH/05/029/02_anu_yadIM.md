@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ u ← u (invariable)
 
 yahvī́ḥ ← yahvī́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॒ यदीं॑ म॒रुतो॑ मन्दसा॒नमार्च॒न्निन्द्रं॑ पपि॒वांसं॑ सु॒तस्य॑ ।  
+आद॑त्त॒ वज्र॑म॒भि यदहिं॒ हन्न॒पो य॒ह्वीर॑सृज॒त्सर्त॒वा उ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “ukāra; besides; now; indeed; u.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

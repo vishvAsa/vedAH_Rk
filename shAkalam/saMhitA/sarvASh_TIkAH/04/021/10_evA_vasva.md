@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ daívyasya ← daívya- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा वस्व॒ इन्द्रः॑ स॒त्यः स॒म्राड्ढन्ता॑ वृ॒त्रं वरि॑वः पू॒रवे॑ कः ।  
+पुरु॑ष्टुत॒ क्रत्वा॑ नः शग्धि रा॒यो भ॑क्षी॒य तेऽव॑सो॒ दैव्य॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “divine; divine; celestial.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

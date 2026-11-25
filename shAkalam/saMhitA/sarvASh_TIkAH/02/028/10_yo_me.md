@@ -4,6 +4,7 @@ devataa = "वरुणः(दुःस्वप्ननाशनी)"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः(दुःस्वप्ननाशनी)
@@ -104,7 +105,12 @@ tvám ← tvám (pronoun)
 
 varuṇa ← váruṇa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो मे॑ राज॒न्युज्यो॑ वा॒ सखा॑ वा॒ स्वप्ने॑ भ॒यं भी॒रवे॒ मह्य॒माह॑ ।  
+स्ते॒नो वा॒ यो दिप्स॑ति नो॒ वृको॑ वा॒ त्वं तस्मा॑द्वरुण पाह्य॒स्मान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -262,7 +268,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

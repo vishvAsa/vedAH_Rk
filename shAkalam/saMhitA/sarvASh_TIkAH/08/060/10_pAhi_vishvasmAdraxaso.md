@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ nákṣāmahe ← √nakṣ- (root)
 
 vr̥dhé ← vŕ̥dh- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पा॒हि विश्व॑स्माद्र॒क्षसो॒ अरा॑व्णः॒ प्र स्म॒ वाजे॑षु नोऽव ।  
+त्वामिद्धि नेदि॑ष्ठं दे॒वता॑तय आ॒पिं नक्षा॑महे वृ॒धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

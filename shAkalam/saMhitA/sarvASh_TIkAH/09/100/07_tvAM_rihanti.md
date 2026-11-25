@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -68,7 +69,12 @@ pávamāna ← √pū- (root)
 
 vídharmaṇi ← vídharman- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां रि॑हन्ति मा॒तरो॒ हरिं॑ प॒वित्रे॑ अ॒द्रुहः॑ ।  
+व॒त्सं जा॒तं न धे॒नवः॒ पव॑मान॒ विध॑र्मणि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “receptacle; enclosure.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -180,10 +185,6 @@ _________
 The mothers, those without deceit, lick you, the tawny one, in the filter, as milk-cows do a new-born calf, o self-purifying one, at your expansion.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. replicates most of vs. 1 in a different order. I will cite here only the repeated elements: 1 … adrúhaḥ … / vatsáṃ ná … jātáṃ rihanti mātáraḥ 7 … rihanti mātáraḥ … adrúhaḥ / vatsáṃ jātáṃ ná … On the repeated pāda (d) pávamāna vídharmaṇi see comm. ad IX.64.9 and also Ober II.152.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
 <details><summary><h2>06-09 ...{Loading}...</h2></summary>
 
@@ -191,7 +192,6 @@ As noted in the published introduction, these vss., constituting a separate hymn
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

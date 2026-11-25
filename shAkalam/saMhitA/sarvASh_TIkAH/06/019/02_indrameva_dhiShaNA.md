@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vāvr̥dhé ← √vr̥dh- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑मे॒व धि॒षणा॑ सा॒तये॑ धाद्बृ॒हन्त॑मृ॒ष्वम॒जरं॒ युवा॑नम् ।  
+अषा॑ळ्हेन॒ शव॑सा शूशु॒वांसं॑ स॒द्यश्चि॒द्यो वा॑वृ॒धे असा॑मि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “perfect; complete; entire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -233,10 +238,6 @@ The Holy Place positioned just Indra for winning, him lofty and  towering, unagi
 swollen with invincible strength, who in just a single day grew strong  and not by halves.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-śávasā śūśuvā́ṃsam “swollen with strength” is an etymological figure, though śávas- has lost its tight connection to √śū ‘swell’. Both words are reused in this hymn: 6a śáviṣṭham … śávaḥ “strongest strength”; 7b, 8b śūśuvā́ṃsam.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -244,7 +245,6 @@ These two vss. show a penchant for synonymous pairs: 1d urúḥ pṛthúḥ “w
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

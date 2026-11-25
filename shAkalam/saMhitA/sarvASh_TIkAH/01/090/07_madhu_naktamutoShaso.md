@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -66,7 +67,12 @@ naḥ ← ahám (pronoun)
 
 pitā́ ← pitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मधु॒ नक्त॑मु॒तोषसो॒ मधु॑म॒त्पार्थि॑वं॒ रजः॑ ।  
+मधु॒ द्यौर॑स्तु नः पि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
     forefather.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

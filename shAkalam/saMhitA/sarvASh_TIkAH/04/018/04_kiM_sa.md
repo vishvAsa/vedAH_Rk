@@ -4,6 +4,7 @@ devataa = "इन्द्रः;वामदेवः"
 RShiH = "वामदेवः~अदितिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः;वामदेवः
@@ -95,7 +96,12 @@ utá ← utá (invariable)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किं स ऋध॑क्कृणव॒द्यं स॒हस्रं॑ मा॒सो ज॒भार॑ श॒रद॑श्च पू॒र्वीः ।  
+न॒ही न्व॑स्य प्रति॒मान॒मस्त्य॒न्तर्जा॒तेषू॒त ये जनि॑त्वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

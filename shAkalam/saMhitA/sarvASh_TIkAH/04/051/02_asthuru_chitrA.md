@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ pāvakā́ḥ ← pāvaká- (nominal stem)
 
 uchántīḥ ← √vas- 1 (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्थु॑रु चि॒त्रा उ॒षसः॑ पु॒रस्ता॑न्मि॒ता इ॑व॒ स्वर॑वोऽध्व॒रेषु॑ ।  
+व्यू॑ व्र॒जस्य॒ तम॑सो॒ द्वारो॒च्छन्ती॑रव्र॒ञ्छुच॑यः पाव॒काः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

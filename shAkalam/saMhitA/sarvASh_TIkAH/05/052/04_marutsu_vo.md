@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -74,7 +75,12 @@ pā́nti ← √pā- 1 (root)
 
 riṣáḥ ← ríṣ- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒रुत्सु॑ वो दधीमहि॒ स्तोमं॑ य॒ज्ञं च॑ धृष्णु॒या ।  
+विश्वे॒ ये मानु॑षा यु॒गा पान्ति॒ मर्त्यं॑ रि॒षः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “injury; riṣ; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

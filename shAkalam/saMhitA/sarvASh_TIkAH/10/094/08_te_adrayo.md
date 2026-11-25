@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -86,7 +87,12 @@ pīyū́ṣam ← pīyū́ṣa- (nominal stem)
 
 prathamásya ← prathamá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते अद्र॑यो॒ दश॑यन्त्रास आ॒शव॒स्तेषा॑मा॒धानं॒ पर्ये॑ति हर्य॒तम् ।  
+त ऊ॑ सु॒तस्य॑ सो॒म्यस्यान्ध॑सों॒ऽशोः पी॒यूषं॑ प्रथ॒मस्य॑ भेजिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     one's share; partake; share; get; approach; love; use.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

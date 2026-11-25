@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ ná ← ná (invariable)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अति॒ त्री सो॑म रोच॒ना रोह॒न्न भ्रा॑जसे॒ दिव॑म् ।  
+इ॒ष्णन्त्सूर्यं॒ न चो॑दयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “impel; drive; incite; command; drive; arouse; propel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

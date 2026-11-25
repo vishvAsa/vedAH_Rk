@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -61,7 +62,11 @@ naḥ ← ahám (pronoun)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒तुर्न पु॒त्रः सुभृ॑तो दुरो॒ण आ दे॒वाँ ए॑तु॒ प्र णो॑ ह॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +150,6 @@ _________
 - “Havya; offering; ghee; havis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

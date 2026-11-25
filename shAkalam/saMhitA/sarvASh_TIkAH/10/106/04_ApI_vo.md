@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भूतांशः काश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -101,7 +102,12 @@ iva ← iva (invariable)
 
 śruṣṭīvā́nā ← śruṣṭīván- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒पी वो॑ अ॒स्मे पि॒तरे॑व पु॒त्रोग्रेव॑ रु॒चा नृ॒पती॑व तु॒र्यै ।  
+इर्ये॑व पु॒ष्ट्यै कि॒रणे॑व भु॒ज्यै श्रु॑ष्टी॒वाने॑व॒ हव॒मा ग॑मिष्टम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

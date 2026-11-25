@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ visrúhā ← visrúh- (nominal stem)
 
 yúvā ← yúvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्यं॑ ह॒विः स॑चते॒ सच्च॒ धातु॒ चारि॑ष्टगातुः॒ स होता॑ सहो॒भरिः॑ ।  
+प्र॒सर्स्रा॑णो॒ अनु॑ ब॒र्हिर्वृषा॒ शिशु॒र्मध्ये॒ युवा॒जरो॑ वि॒स्रुहा॑ हि॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

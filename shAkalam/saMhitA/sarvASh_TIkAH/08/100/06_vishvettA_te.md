@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ apā́vr̥ṇoḥ ← √vr̥- (root)
 
 śarabhā́ya ← śarabhá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वेत्ता ते॒ सव॑नेषु प्र॒वाच्या॒ या च॒कर्थ॑ मघवन्निन्द्र सुन्व॒ते ।  
+पारा॑वतं॒ यत्पु॑रुसम्भृ॒तं वस्व॒पावृ॑णोः शर॒भाय॒ ऋषि॑बन्धवे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “relative; bandhu \[word\]; association; friend; kin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

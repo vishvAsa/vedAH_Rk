@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ tám ← sá- ~ tá- (pronoun)
 
 vāsayāmasi ← √vas- 2 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अत्य॑ इव मृ॒ज्यते॒ गोभि॒र्मदा॑य हर्य॒तः ।  
+तं गी॒र्भिर्वा॑सयामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “dress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

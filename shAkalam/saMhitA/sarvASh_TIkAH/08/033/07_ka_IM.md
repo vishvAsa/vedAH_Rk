@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ mandānáḥ ← √mand- (root)
 
 śiprī́ ← śiprín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क ईं॑ वेद सु॒ते सचा॒ पिब॑न्तं॒ कद्वयो॑ दधे ।  
+अ॒यं यः पुरो॑ विभि॒नत्त्योज॑सा मन्दा॒नः शि॒प्र्यन्ध॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “Soma; drink; amṛta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

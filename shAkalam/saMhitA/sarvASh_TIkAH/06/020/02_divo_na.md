@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sacānáḥ ← √sac- 1 (root)
 
 víṣṇunā ← víṣṇu- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो न तुभ्य॒मन्वि॑न्द्र स॒त्रासु॒र्यं॑ दे॒वेभि॑र्धायि॒ विश्व॑म् ।  
+अहिं॒ यद्वृ॒त्रम॒पो व॑व्रि॒वांसं॒ हन्नृ॑जीषि॒न्विष्णु॑ना सचा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

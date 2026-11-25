@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ viṣṭám ← √viṣ- 2 (root)
 
 víśvam ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सू त॑ इन्द्र प्र॒वता॒ हरि॑भ्यां॒ प्र ते॒ वज्रः॑ प्रमृ॒णन्ने॑तु॒ शत्रू॑न् ।  
+ज॒हि प्र॑ती॒चो अ॑नू॒चः परा॑चो॒ विश्वं॑ स॒त्यं कृ॑णुहि वि॒ष्टम॑स्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ krátum ← krátu- (nominal stem)
 
 punaté ← √pū- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒जि॒तुरं॒ सत्प॑तिं वि॒श्वच॑र्षणिं कृ॒धि प्र॒जास्वाभ॑गम् ।  
+प्र सू ति॑रा॒ शची॑भि॒र्ये त॑ उ॒क्थिनः॒ क्रतुं॑ पुन॒त आ॑नु॒षक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “correctly; in sequence; punctually.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

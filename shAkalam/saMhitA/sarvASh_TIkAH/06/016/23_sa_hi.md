@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ dūtáḥ ← dūtá- (nominal stem)
 
 havyavā́hanaḥ ← havyavā́hana- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि यो मानु॑षा यु॒गा सीद॒द्धोता॑ क॒विक्र॑तुः ।  
+दू॒तश्च॑ हव्य॒वाह॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

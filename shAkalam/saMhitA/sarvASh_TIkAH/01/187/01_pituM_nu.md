@@ -4,6 +4,7 @@ devataa = "अन्नम्"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुब्गर्भोष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अन्नम्
@@ -71,7 +72,12 @@ víparvam ← víparva- (nominal stem)
 
 vr̥trám ← vr̥trá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒तुं नु स्तो॑षं म॒हो ध॒र्माणं॒ तवि॑षीम् ।  
+यस्य॑ त्रि॒तो व्योज॑सा वृ॒त्रं विप॑र्वम॒र्दय॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “afflict; afflict; affect; distress; torment; impel; grind; suffer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

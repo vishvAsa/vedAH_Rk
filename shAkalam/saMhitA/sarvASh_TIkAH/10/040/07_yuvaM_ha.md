@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ sumnám ← sumná- (nominal stem)
 
 yuvóḥ ← tvám (pronoun)  
 {case:GEN, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं ह॑ भु॒ज्युं यु॒वम॑श्विना॒ वशं॑ यु॒वं शि॒ञ्जार॑मु॒शना॒मुपा॑रथुः ।  
+यु॒वो ररा॑वा॒ परि॑ स॒ख्यमा॑सते यु॒वोर॒हमव॑सा सु॒म्नमा च॑के ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “like; delight; desire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

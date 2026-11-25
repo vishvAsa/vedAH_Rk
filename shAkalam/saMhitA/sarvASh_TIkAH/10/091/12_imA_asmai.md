@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अरुणो वैतहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ vr̥ddhā́su ← √vr̥dh- (root)
 
 yā́su ← yá- (pronoun)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा अ॑स्मै म॒तयो॒ वाचो॑ अ॒स्मदाँ ऋचो॒ गिरः॑ सुष्टु॒तयः॒ सम॑ग्मत ।  
+व॒सू॒यवो॒ वस॑वे जा॒तवे॑दसे वृ॒द्धासु॑ चि॒द्वर्ध॑नो॒ यासु॑ चा॒कन॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “like; delight; desire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्त देवताः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्त देवताः
@@ -71,7 +72,12 @@ svastáye ← svastí- (nominal stem)
 
 varuṇānī́m ← varuṇānī́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या गु॒ङ्गूर्या सि॑नीवा॒ली या रा॒का या सर॑स्वती ।  
+इ॒न्द्रा॒णीम॑ह्व ऊ॒तये॑ वरुणा॒नीं स्व॒स्तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
     well; luck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

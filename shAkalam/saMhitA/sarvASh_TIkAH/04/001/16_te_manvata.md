@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ góḥ ← gáv- ~ gó- (nominal stem)
 
 yaśásā ← yaśás- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते म॑न्वत प्रथ॒मं नाम॑ धे॒नोस्त्रिः स॒प्त मा॒तुः प॑र॒माणि॑ विन्दन् ।  
+तज्जा॑न॒तीर॒भ्य॑नूषत॒ व्रा आ॒विर्भु॑वदरु॒णीर्य॒शसा॒ गोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -270,18 +275,6 @@ They brought to mind the first name of the milk-cow; thrice seven  highest (name
 [=Dawn] became manifest with the glorious (name) of the cow.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In the published translation prathamám in the phrase té manvata prathamáṃ nā́ma is rendered as an adj. with nā́ma (“the first name”). On the basis of VI.1.a tvám … prathamó manótā “you (were) the first minder” I think it possible (but not certain) that prathamám here is an adverb: “they first brought to mind the name …” The agent noun manótar- is built to the verb stem manu- found in our passage, and prathamám may qualify the action of ‘bringing to mind’ rather than the name brought to mind.
-
-A comma should be inserted in the published translation after “(The cows)” in pāda c.
-
-On vrā́- see comm. ad VIII.2.16 and Jamison 2003 (= “Vedic vrā́: evidence for the svayaṃvara in the Rig Veda?” in Paitimāna: Essays in Iranian, IndoEuropean, and Indian Studies in Honor of Hanns-Peter Schmidt, vols. 1-2 [ed.
-
-Siamak Adhami], 2003, pp. 39-56).
-
-Because of its accentuation yaśásā should be adjectival; the question is what head noun to supply. Flg. Lüders (Varuṇa, 521, also fld. by Hoffmann, Witzel Gotō), I supply ‘name’, which appears in pāda a and appears to be the topic of the rest of the vs. Geldner and Oldenberg prefer ‘milk’, but this is contextually less likely.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details><summary><h2>10-18 ...{Loading}...</h2></summary>
 
@@ -289,7 +282,6 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

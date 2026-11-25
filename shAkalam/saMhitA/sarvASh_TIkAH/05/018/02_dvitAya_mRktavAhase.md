@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "द्वितो मृक्तवाहा आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ stotā́ ← stotár- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वि॒ताय॑ मृ॒क्तवा॑हसे॒ स्वस्य॒ दक्ष॑स्य मं॒हना॑ ।  
+इन्दुं॒ स ध॑त्त आनु॒षक्स्तो॒ता चि॑त्ते अमर्त्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “immortal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ kádā ← kádā (invariable)
 
 rātíḥ ← rātí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शची॑भिर्नः शचीवसू॒ दिवा॒ नक्तं॑ दशस्यतम् ।  
+मा वां॑ रा॒तिरुप॑ दस॒त्कदा॑ च॒नास्मद्रा॒तिः कदा॑ च॒न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “not even; cana \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

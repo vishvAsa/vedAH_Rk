@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -131,7 +132,13 @@ bandhukṣídbhyaḥ ← bandhukṣít- (nominal stem)
 
 gavéṣaṇaḥ ← gavéṣaṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्तु प्रयः॑ प्र॒त्नथा॑ ते शुशुक्व॒नं यस्मि॑न्य॒ज्ञे वार॒मकृ॑ण्वत॒ क्षय॑मृ॒तस्य॒ वार॑सि॒ क्षय॑म् ।  
+वि तद्वो॑चे॒रध॑ द्वि॒तान्तः प॑श्यन्ति र॒श्मिभिः॑ ।  
+स घा॑ विदे॒ अन्विन्द्रो॑ ग॒वेष॑णो बन्धु॒क्षिद्भ्यो॑ ग॒वेष॑णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -348,7 +355,6 @@ _________
 - “marauding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

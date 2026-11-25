@@ -4,6 +4,7 @@ devataa = "अग्निः पवमानः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः पवमानः
@@ -54,7 +55,12 @@ mahāgayám ← mahāgayá- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निरृषिः॒ पव॑मानः॒ पाञ्च॑जन्यः पु॒रोहि॑तः ।  
+तमी॑महे महाग॒यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -157,7 +162,6 @@ him we beseech for a great household.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -169,7 +173,6 @@ The equation and poetic merging of these two ritual gods is found elsewhere, mos
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

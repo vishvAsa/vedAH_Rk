@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ sukrátum ← sukrátu- (nominal stem)
 
 yajñásya ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं दू॒तं वृ॑णीमहे॒ होता॑रं वि॒श्ववे॑दसम् ।  
+अ॒स्य य॒ज्ञस्य॑ सु॒क्रतु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “wise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ vacoyújā ← vacoyúj- (nominal stem)
 
 vahataḥ ← √vah- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स ईं॒ स्पृधो॑ वनते॒ अप्र॑तीतो॒ बिभ्र॒द्वज्रं॑ वृत्र॒हणं॒ गभ॑स्तौ ।  
+तिष्ठ॒द्धरी॒ अध्यस्ते॑व॒ गर्ते॑ वचो॒युजा॑ वहत॒ इन्द्र॑मृ॒ष्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “distinguished; high; noble; enormous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

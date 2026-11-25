@@ -5,13 +5,13 @@ RShiH = "श्रुतिविदात्रेयः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
 - ऋषिः - श्रुतिविदात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -88,7 +88,12 @@ síndhavaḥ ← síndhu- (nominal stem)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वा॒मश्वा॑सः सु॒युजो॑ वहन्तु य॒तर॑श्मय॒ उप॑ यन्त्व॒र्वाक् ।  
+घृ॒तस्य॑ नि॒र्णिगनु॑ वर्तते वा॒मुप॒ सिन्ध॑वः प्र॒दिवि॑ क्षरन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +226,6 @@ _________
 - “run; melt.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -266,8 +270,6 @@ Euch mögen fahren schön geschirrte Rosse; gelenkten Zügels mögen her sie kom
 За вами следует наряд из жира.  
 От века притекают реки.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

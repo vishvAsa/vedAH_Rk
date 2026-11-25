@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ nā́nā ← nā́nā (invariable)
 
 ūtáye ← ūtí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भिष्ट॑ये स॒दावृ॑धं॒ स्व॑र्मीळ्हेषु॒ यं नरः॑ ।  
+नाना॒ हव॑न्त ऊ॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +122,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

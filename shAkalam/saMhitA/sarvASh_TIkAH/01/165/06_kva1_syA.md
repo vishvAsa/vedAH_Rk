@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -92,7 +93,12 @@ vadhasnaíḥ ← vadhasná- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्व१॒॑ स्या वो॑ मरुतः स्व॒धासी॒द्यन्मामेकं॑ स॒मध॑त्ताहि॒हत्ये॑ ।  
+अ॒हं ह्यु१॒॑ग्रस्त॑वि॒षस्तुवि॑ष्मा॒न्विश्व॑स्य॒ शत्रो॒रन॑मं वध॒स्नैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “weapon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -262,12 +267,6 @@ _________
 For I, the powerful and mighty, possessed of might, humbled with my  weapons those of every rival.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I do not understand the length in ūgrá- here and 10c. Lubotsky (2000 [“Vedic root vṛ …,” Indoarisch, Iranisch und die Indogermanistik]: 320 n. 16) attributes it to compensatory lengthening from *hí uHgrás, after laryngeal metathesis from *hi Hugrás, but I find the proposed metathesis counterintuitive (despite the other exx. he adduces); one would rather expect the laryngeal to remain where it is as a hiatus-filler. Moreover, assuming that this remained as a synchronic rule in the RV is quite hard to accept.
-
-Indra adroitly manipulates the wording here to contrast his own solitary state with the Maruts’ collectivity: … mā́m ékaṃ samádhatta “… me alone together you…”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -275,7 +274,6 @@ Indra seizes the Maruts’ assertion of independent power (svadhā́- 5d) by tax
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

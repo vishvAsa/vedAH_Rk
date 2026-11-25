@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sabhā́m ← sabhā́- (nominal stem)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒श्वी र॒थी सु॑रू॒प इद्गोमाँ॒ इदि॑न्द्र ते॒ सखा॑ ।  
+श्वा॒त्र॒भाजा॒ वय॑सा सचते॒ सदा॑ च॒न्द्रो या॑ति स॒भामुप॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “towards; on; next.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

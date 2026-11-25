@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ námaḥ ← námas- (nominal stem)
 
 pradívaḥ ← pradív- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नृ॒णामु॑ त्वा॒ नृत॑मं गी॒र्भिरु॒क्थैर॒भि प्र वी॒रम॑र्चता स॒बाधः॑ ।  
+सं सह॑से पुरुमा॒यो जि॑हीते॒ नमो॑ अस्य प्र॒दिव॒ एक॑ ईशे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “govern; command; master; dominate; can; reign; control; own.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ vā́cam ← vā́c- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वाभ्यां॑ वाजिनीवसू॒ प्रति॒ स्तोमा॑ अदृक्षत ।  
+वाचं॑ दू॒तो यथो॑हिषे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -152,12 +157,6 @@ O you rich in prizewinning mares, praise songs have appeared facing  you two.
 Like a messenger I shall solemnly proclaim my speech.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The Pp. analyses the sequence yáthohiṣe as yáthā ohiṣe, which would be, to say the least, unusual sandhi (though see tásyéhi in VIII.3.12). Nonetheless, the context favors a connection with the root √ūh ‘solemnly proclaim, etc.’ with pres.
-
-óha- (in my opinion); cf. I.30.4 vácas tád ... ohase “I solemnly proclaim this speech,” with a 1st sg. -se form, as apparently also here. For this passage I assume a form ūhiṣe, built to the presential perf. ūhé. This is also Kümmel’s solution (488-89), though he assigns the form to √vāh ‘anerkennen’, which, acdg. to him, is at least synchronically separate from √oh. Renou and Lubotsky assign the form instead to √vah ‘convey’. For further disc. cf. Oldenberg and Geldner (n. 3c).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/005/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -165,7 +164,6 @@ Both these vss., though not belonging to the same tṛca, most likely contain 1s
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

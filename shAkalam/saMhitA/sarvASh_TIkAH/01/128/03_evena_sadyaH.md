@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -113,7 +114,13 @@ páreṣu ← pára- (nominal stem)
 
 sā́nuṣu ← sā́nu- ~ snú- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एवे॑न स॒द्यः पर्ये॑ति॒ पार्थि॑वं मुहु॒र्गी रेतो॑ वृष॒भः कनि॑क्रद॒द्दध॒द्रेतः॒ कनि॑क्रदत् ।  
+श॒तं चक्षा॑णो अ॒क्षभि॑र्दे॒वो वने॑षु तु॒र्वणिः॑ ।  
+सदो॒ दधा॑न॒ उप॑रेषु॒ सानु॑ष्व॒ग्निः परे॑षु॒ सानु॑षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -286,7 +293,6 @@ _________
 - “tableland; ridge; peak; back; ridge; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

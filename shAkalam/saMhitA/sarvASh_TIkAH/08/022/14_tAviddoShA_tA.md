@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ parás ← parás (invariable)
 
 rudrau ← rudrá- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ताविद्दो॒षा ता उ॒षसि॑ शु॒भस्पती॒ ता याम॑न्रु॒द्रव॑र्तनी ।  
+मा नो॒ मर्ता॑य रि॒पवे॑ वाजिनीवसू प॒रो रु॑द्रा॒वति॑ ख्यतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “name; describe; call; enumerate; watch; know.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गातुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ jaghāna ← √han- (root)
 
 uccaíḥ ← uccaíḥ (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्यं चि॑दि॒त्था क॑त्प॒यं शया॑नमसू॒र्ये तम॑सि वावृधा॒नम् ।  
+तं चि॑न्मन्दा॒नो वृ॑ष॒भः सु॒तस्यो॒च्चैरिन्द्रो॑ अप॒गूर्या॑ जघान ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

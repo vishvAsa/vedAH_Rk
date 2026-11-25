@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ pr̥ṣṭhyèna ← pr̥ṣṭhyà- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒शन्नु॒ षु णः॑ सु॒मना॑ उपा॒के सोम॑स्य॒ नु सुषु॑तस्य स्वधावः ।  
+पा इ॑न्द्र॒ प्रति॑भृतस्य॒ मध्वः॒ समन्ध॑सा ममदः पृ॒ष्ठ्ये॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - \[noun\], instrumental, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

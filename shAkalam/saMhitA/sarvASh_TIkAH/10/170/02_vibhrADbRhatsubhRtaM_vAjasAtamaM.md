@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "विभ्राट् सौर्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -80,7 +81,12 @@ jyótiḥ ← jyótis- (nominal stem)
 
 sapatnahā́ ← sapatnahán- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒भ्राड्बृ॒हत्सुभृ॑तं वाज॒सात॑मं॒ धर्म॑न्दि॒वो ध॒रुणे॑ स॒त्यमर्पि॑तम् ।  
+अ॒मि॒त्र॒हा वृ॑त्र॒हा द॑स्यु॒हन्त॑मं॒ ज्योति॑र्जज्ञे असुर॒हा स॑पत्न॒हा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “killing; curative; destroying; removing; māraka; stabbing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

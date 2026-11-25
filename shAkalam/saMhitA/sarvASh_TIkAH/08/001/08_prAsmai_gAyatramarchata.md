@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ vajrī́ ← vajrín- (nominal stem)
 
 yā́sat ← √yā- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रास्मै॑ गाय॒त्रम॑र्चत वा॒वातु॒र्यः पु॑रन्द॒रः ।  
+याभिः॑ का॒ण्वस्योप॑ ब॒र्हिरा॒सदं॒ यास॑द्व॒ज्री भि॒नत्पुरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

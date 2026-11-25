@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -83,7 +84,12 @@ deva ← devá- (nominal stem)
 
 mahā́n ← mahā́nt- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बण्म॒हाँ अ॑सि सूर्य॒ बळा॑दित्य म॒हाँ अ॑सि ।  
+म॒हस्ते॑ स॒तो म॑हि॒मा प॑नस्यते॒ऽद्धा दे॑व म॒हाँ अ॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -231,7 +236,6 @@ Yes indeed! you are great, Sūrya; yes indeed! Āditya, you are great. The great
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/101/11-12.md">
 <details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -239,7 +243,6 @@ As noted in the published introduction, the banality of these vss. is a surprisi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

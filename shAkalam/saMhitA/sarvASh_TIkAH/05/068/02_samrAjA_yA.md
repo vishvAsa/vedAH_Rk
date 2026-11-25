@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "यजत आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -63,7 +64,12 @@ devéṣu ← devá- (nominal stem)
 
 praśastā́ ← √śaṁs- (root)  
 {case:NOM, gender:M, number:DU, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒म्राजा॒ या घृ॒तयो॑नी मि॒त्रश्चो॒भा वरु॑णश्च ।  
+दे॒वा दे॒वेषु॑ प्रश॒स्ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “recommend; approve; praise; laud; favor; proclaim.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

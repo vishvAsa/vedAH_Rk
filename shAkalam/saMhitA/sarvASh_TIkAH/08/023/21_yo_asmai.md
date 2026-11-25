@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ vīrávat ← vīrávant- (nominal stem)
 
 yáśaḥ ← yáśas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अ॑स्मै ह॒व्यदा॑तिभि॒राहु॑तिं॒ मर्तोऽवि॑धत् ।  
+भूरि॒ पोषं॒ स ध॑त्ते वी॒रव॒द्यशः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “fame; Yaśas.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

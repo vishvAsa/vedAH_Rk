@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ tvā ← tvám (pronoun)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदि॑न्द्र॒ प्रेव॑ वी॒र्यं॑ चकर्थ॒ यत्स॒सन्तं॒ वज्रे॒णाबो॑ध॒योऽहि॑म् ।  
+अनु॑ त्वा॒ पत्नी॑र्हृषि॒तं वय॑श्च॒ विश्वे॑ दे॒वासो॑ अमद॒न्ननु॑ त्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +262,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

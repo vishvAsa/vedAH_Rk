@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -64,7 +65,12 @@ yát ← yá- (pronoun)
 
 ávardhayat ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:IPRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒व॒क्षुर॑स्य के॒तवो॑ उ॒त वज्रो॒ गभ॑स्त्योः ।  
+यत्सूर्यो॒ न रोद॑सी॒ अव॑र्धयत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “increase; strengthen; promote; rear; add; greet; laud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

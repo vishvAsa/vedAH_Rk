@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ prajānán ← √jñā- (root)
 
 vahatu ← √vah- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्र॒व्याद॑म॒ग्निं प्र हि॑णोमि दू॒रं य॒मरा॑ज्ञो गच्छतु रिप्रवा॒हः ।  
+इ॒हैवायमित॑रो जा॒तवे॑दा दे॒वेभ्यो॑ ह॒व्यं व॑हतु प्रजा॒नन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “know; perceive; understand; detect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

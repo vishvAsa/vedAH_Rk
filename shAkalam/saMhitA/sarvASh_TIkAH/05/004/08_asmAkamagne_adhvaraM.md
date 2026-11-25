@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ pāhi ← √pā- 1 (root)
 
 trivárūthena ← trivárūtha- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माक॑मग्ने अध्व॒रं जु॑षस्व॒ सह॑सः सूनो त्रिषधस्थ ह॒व्यम् ।  
+व॒यं दे॒वेषु॑ सु॒कृतः॑ स्याम॒ शर्म॑णा नस्त्रि॒वरू॑थेन पाहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “protect; govern.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

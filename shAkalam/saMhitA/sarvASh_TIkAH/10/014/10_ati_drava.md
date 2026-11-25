@@ -4,6 +4,7 @@ devataa = "श्वानौ"
 RShiH = "यमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्वानौ
@@ -83,7 +84,12 @@ yaména ← yamá- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अति॑ द्रव सारमे॒यौ श्वानौ॑ चतुर॒क्षौ श॒बलौ॑ सा॒धुना॑ प॒था ।  
+अथा॑ पि॒तॄन्त्सु॑वि॒दत्राँ॒ उपे॑हि य॒मेन॒ ये स॑ध॒मादं॒ मद॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

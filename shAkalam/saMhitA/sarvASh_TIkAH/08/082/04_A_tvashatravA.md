@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ rocané ← rocaná- (nominal stem)
 
 upamé ← upamá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त्व॑शत्र॒वा ग॑हि॒ न्यु१॒॑क्थानि॑ च हूयसे ।  
+उ॒प॒मे रो॑च॒ने दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -194,11 +199,6 @@ Upame = samīpe,asmadīye yajñe ca
 You without rival—here, come here! You are being called down to the hymns (while you are) in the highest luminous realm of heaven.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The ca in b is baffling both as to position and function. Geldner seems to take it as conjoining the imperatival clause in a with the present indicative clause in b (“Komm … und du wirst … gerufen…”); Klein (DGRV I.233) is disturbed by the “illocutionary difference” between the moods of the two clauses and suggests, “Perhaps the particle is merely a weak, untranslatable transitional element,” which, I’m afraid, is no help at all. Even if it is supposed to be conjoining the clauses, it is positioned wrong for this function. My instinct is that, in this hymn built of clichés, ́ we are dealing with a truncated formula: X ukthā́(ni) ca (“X and hymns”). Cf. ## 30
-gíraś ca … ukthā́ca, VIII.33.13 bráhmokthā́ca ... (and the converse
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/082/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -206,7 +206,6 @@ gíraś ca … ukthā́ca, VIII.33.13 bráhmokthā́ca ... (and the converse
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

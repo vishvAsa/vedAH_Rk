@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्भिणी वामदेवस्य माता"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ svayám ← svayám (invariable)
 
 tanvè ← tanū́- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गृ॒ष्टिः स॑सूव॒ स्थवि॑रं तवा॒गाम॑नाधृ॒ष्यं वृ॑ष॒भं तुम्र॒मिन्द्र॑म् ।  
+अरी॑ळ्हं व॒त्सं च॒रथा॑य मा॒ता स्व॒यं गा॒तुं त॒न्व॑ इ॒च्छमा॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

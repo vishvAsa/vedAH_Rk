@@ -4,6 +4,7 @@ devataa = "वास्तोष्पतिः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वास्तोष्पतिः
@@ -98,7 +99,12 @@ naḥ ← ahám (pronoun)
 
 śám ← śám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वास्तो॑ष्पते॒ प्रति॑ जानीह्य॒स्मान्त्स्वा॑वे॒शो अ॑नमी॒वो भ॑वा नः ।  
+यत्त्वेम॑हे॒ प्रति॒ तन्नो॑ जुषस्व॒ शं नो॑ भव द्वि॒पदे॒ शं चतु॑ष्पदे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - “quadrupedal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -289,10 +294,6 @@ When we entreat you, favor us in return: become weal for our
 two-footed, weal for our four-footed.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On práti √jñā see comm. ad III.45.4.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/054/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -300,7 +301,6 @@ On práti √juṣ see comm. ad IX.92.1.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

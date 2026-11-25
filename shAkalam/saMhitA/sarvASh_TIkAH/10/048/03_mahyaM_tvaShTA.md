@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -92,7 +93,12 @@ kr̥téna ← √kr̥- (root)
 
 mā́m ← ahám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मह्यं॒ त्वष्टा॒ वज्र॑मतक्षदाय॒सं मयि॑ दे॒वासो॑ऽवृज॒न्नपि॒ क्रतु॑म् ।  
+ममानी॑कं॒ सूर्य॑स्येव दु॒ष्टरं॒ मामार्य॑न्ति कृ॒तेन॒ कर्त्वे॑न च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

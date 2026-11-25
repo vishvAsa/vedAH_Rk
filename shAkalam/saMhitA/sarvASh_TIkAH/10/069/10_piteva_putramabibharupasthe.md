@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ utá ← utá (invariable)
 
 vrā́dhataḥ ← √vrādh- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒तेव॑ पु॒त्रम॑बिभरु॒पस्थे॒ त्वाम॑ग्ने वध्र्य॒श्वः स॑प॒र्यन् ।  
+जु॒षा॒णो अ॑स्य स॒मिधं॑ यविष्ठो॒त पूर्वाँ॑ अवनो॒र्व्राध॑तश्चित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “even; indeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

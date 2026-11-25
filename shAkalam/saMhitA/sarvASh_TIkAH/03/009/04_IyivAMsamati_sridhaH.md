@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ siṁhám ← siṁhá- (nominal stem)
 
 śritám ← √śri- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒यि॒वांस॒मति॒ स्रिधः॒ शश्व॑ती॒रति॑ स॒श्चतः॑ ।  
+अन्वी॑मविन्दन्निचि॒रासो॑ अ॒द्रुहो॒ऽप्सु सिं॒हमि॑व श्रि॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

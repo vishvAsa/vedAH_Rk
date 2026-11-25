@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ nábhobhiḥ ← nábhas- (nominal stem)
 
 smáyamānaḥ ← √smi- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यो वना॑ तातृषा॒णो न भाति॒ वार्ण प॒था रथ्ये॑व स्वानीत् ।  
+कृ॒ष्णाध्वा॒ तपू॑ र॒ण्वश्चि॑केत॒ द्यौरि॑व॒ स्मय॑मानो॒ नभो॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “sky; cloud; ākāśa; air; abhra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्राविष्णू"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राविष्णू
@@ -77,7 +78,12 @@ narā ← nár- (nominal stem)
 
 pr̥tanā́jyeṣu ← pr̥tanā́jya- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रुं य॒ज्ञाय॑ चक्रथुरु लो॒कं ज॒नय॑न्ता॒ सूर्य॑मु॒षास॑म॒ग्निम् ।  
+दास॑स्य चिद्वृषशि॒प्रस्य॑ मा॒या ज॒घ्नथु॑र्नरा पृत॒नाज्ये॑षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “fight; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

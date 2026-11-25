@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -18,7 +19,7 @@ ChandaH = "गायत्री"
 प᳓रा दुष्व᳓प्नियं सुव
 </details>
 
-<details><summary>मूलम् तैत्तिरीयम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒द्या नो॑ देव सवितः ।
 प्र॒जाव॑त्सावी॒स्सौभ॑गम् ।
@@ -67,7 +68,12 @@ párā ← párā (invariable)
 
 suva ← √sū- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒द्या नो॑ देव सवितः प्र॒जाव॑त्सावीः॒ सौभ॑गम् ।  
+परा॑ दु॒ष्ष्वप्न्यं॑ सुव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “give birth; urge; bestow; cause.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

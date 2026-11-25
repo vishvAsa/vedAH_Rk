@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -80,7 +81,12 @@ marútvān ← marútvant- (nominal stem)
 
 vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं वि॑दच्चित्र॒दृशी॑क॒मर्णः॑ शु॒क्रस॑द्मनामु॒षसा॒मनी॑के ।  
+अ॒यं म॒हान्म॑ह॒ता स्कम्भ॑ने॒नोद्द्याम॑स्तभ्नाद्वृष॒भो म॒रुत्वा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “Marut(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -232,12 +237,6 @@ This one found the flood with its brilliant appearance at the (fore)front  of th
 This one, great, with a great pillar propped up heaven—he, the bull,  accompanied by the Maruts.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Holland & van Nooten Rig Veda edition divide the 2nd hemistich as … skámbhanenód # di yā́m, with úd the final of pāda a and di yā́m distracted and pāda-initial. But this is clearly wrong: úd is a preverb in tmesis with astabhnāt and should open the pāda, and dyā́m is rarely if ever distracted. Lubotsky’s division is correct.
-
-As noted above, the 2nd hemistich of this vs. sounds esp. Indraic.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
@@ -246,7 +245,6 @@ As noted in the published introduction. as well as above, the praise of soma mod
 the final vṛṣabhó marútvān “the bull accompanied by the Maruts”: marútvant- is overwhelmingly an epithet of Indra. For a similar nearby sequence of vss. that oscillates between soma and Indra (and also uses ayám as an organizing word) see VI.44.22-24 and comm. ad loc. 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

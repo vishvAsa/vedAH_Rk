@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "नष्टरूपी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -75,7 +76,12 @@ sáhyasaḥ ← sáhyaṁs- (nominal stem)
 
 yuvám ← tvám (pronoun)  
 {case:NOM, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि पृ॑च्छामि पा॒क्या॒३॒॑ न दे॒वान्वष॑ट्कृतस्याद्भु॒तस्य॑ दस्रा ।  
+पा॒तं च॒ सह्य॑सो यु॒वं च॒ रभ्य॑सो नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

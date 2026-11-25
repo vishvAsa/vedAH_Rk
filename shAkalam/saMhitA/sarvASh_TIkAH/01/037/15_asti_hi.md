@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -69,7 +70,12 @@ jīváse ← √jīv- (root)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्ति॒ हि ष्मा॒ मदा॑य वः॒ स्मसि॑ ष्मा व॒यमे॑षाम् ।  
+विश्वं॑ चि॒दायु॑र्जी॒वसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निरग्निर्मध्यमो वा"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निर्मध्यमो वा
@@ -77,7 +78,12 @@ satyā́ḥ ← satyá- (nominal stem)
 
 yáśasvatīḥ ← yáśasvant- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यकेशो॒ रज॑सो विसा॒रेऽहि॒र्धुनि॒र्वात॑ इव॒ ध्रजी॑मान् ।  
+शुचि॑भ्राजा उ॒षसो॒ नवे॑दा॒ यश॑स्वतीरप॒स्युवो॒ न स॒त्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “true; real; real; faithful; good.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "पदपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ sumánāḥ ← sumánas- (nominal stem)
 
 víśvebhiḥ ← víśva- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒भिर्नो॑ अ॒र्कैर्भवा॑ नो अ॒र्वाङ्स्व१॒॑र्ण ज्योतिः॑ ।  
+अग्ने॒ विश्वे॑भिः सु॒मना॒ अनी॑कैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “army; face; battalion; battlefront; point; appearance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

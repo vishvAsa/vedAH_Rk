@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अग्नियुतः स्थौरोग्नियूपो वा स्थौरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ satyā́ḥ ← satyá- (nominal stem)
 
 yájamānasya ← √yaj- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒द्धीदि॑न्द्र॒ प्रस्थि॑ते॒मा ह॒वींषि॒ चनो॑ दधिष्व पच॒तोत सोम॑म् ।  
+प्रय॑स्वन्तः॒ प्रति॑ हर्यामसि त्वा स॒त्याः स॑न्तु॒ यज॑मानस्य॒ कामाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ dyā́m ← dyú- ~ div- (nominal stem)
 
 pári ← pári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न्य१॒॑घ्न्यस्य॑ मू॒र्धनि॑ च॒क्रं रथ॑स्य येमथुः ।  
+परि॒ द्याम॒न्यदी॑यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ marútaḥ ← marút- (nominal stem)
 
 yā́mena ← yā́ma- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कस्मा॑ अ॒द्य सुजा॑ताय रा॒तह॑व्याय॒ प्र य॑युः ।  
+ए॒ना यामे॑न म॒रुतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “Marut; vāta; wind; Vayu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

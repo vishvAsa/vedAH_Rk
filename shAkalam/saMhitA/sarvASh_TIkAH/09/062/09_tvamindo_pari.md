@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ páyaḥ ← páyas- (nominal stem)
 
 varivovít ← varivovíd- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमि॑न्दो॒ परि॑ स्रव॒ स्वादि॑ष्ठो॒ अङ्गि॑रोभ्यः ।  
+व॒रि॒वो॒विद्घृ॒तं पयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,12 +161,6 @@ You, o drop, stream around—sweetest for the Aṅgirases,
 finding a wide realm—to the ghee, the milk.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The metaphorical universe of the soma hymns makes it difficult to interpr. the phrase ghṛtám páyaḥ, lit. “ghee (and) milk.” In the published translation I take the phrase as the ultimate goal of pári srava, referring to the milk with which the soma will be mixed after its trip across the filter. See the esp. explicit IX.31.5 túbhyaṃ gā́vo ghṛtám páyah … dudhré “For you the cows have milked out ghee and milk,” which identifies the phrase as referring to substance(s) that the cows produce for soma, real dairy products. But soma is also sometimes compared to milk and to ghee (e.g., IX.74.4), and so the phrase can also be an appositive metaphorically characterizing the subject soma, accounting for Geldner’s “Laufe du … als Schmalz und Milch.” However, our 5c svádanti gā́vo páyobhiḥ “the cows sweeten (soma) with their milk” suggests that the milk and ghee in this vs. are likewise firmly bovine
-
-- though see 20b below.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -169,7 +168,6 @@ The tṛca shows no strong signs of internal unity, save for the “sitting” f
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

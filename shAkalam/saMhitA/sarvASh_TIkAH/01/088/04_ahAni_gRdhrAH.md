@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ píbadhyai ← √pā- 2 (root)
 
 utsadhím ← utsadhí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अहा॑नि॒ गृध्राः॒ पर्या व॒ आगु॑रि॒मां धियं॑ वार्का॒र्यां च॑ दे॒वीम् ।  
+ब्रह्म॑ कृ॒ण्वन्तो॒ गोत॑मासो अ॒र्कैरू॒र्ध्वं नु॑नुद्र उत्स॒धिं पिब॑ध्यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

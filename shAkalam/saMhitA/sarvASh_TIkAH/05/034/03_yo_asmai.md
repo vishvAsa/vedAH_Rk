@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tanū́śubhram ← tanū́śubhra- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अ॑स्मै घ्रं॒स उ॒त वा॒ य ऊध॑नि॒ सोमं॑ सु॒नोति॒ भव॑ति द्यु॒माँ अह॑ ।  
+अपा॑प श॒क्रस्त॑त॒नुष्टि॑मूहति त॒नूशु॑भ्रं म॒घवा॒ यः क॑वास॒खः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

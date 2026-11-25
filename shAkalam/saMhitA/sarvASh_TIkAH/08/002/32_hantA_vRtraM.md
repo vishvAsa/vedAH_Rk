@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ mahī́bhiḥ ← máh- (nominal stem)
 
 śácībhiḥ ← śácī- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हन्ता॑ वृ॒त्रं दक्षि॑णे॒नेन्द्रः॑ पु॒रू पु॑रुहू॒तः ।  
+म॒हान्म॒हीभिः॒ शची॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “Śacī; power; dexterity; ability; aid.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

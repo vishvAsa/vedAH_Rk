@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ pr̥thú ← pr̥thú- (nominal stem)
 
 ścandrám ← ścandrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने वा॒घते॑ सु॒प्रणी॑तिः सु॒तसो॑माय विध॒ते य॑विष्ठ ।  
+रत्नं॑ भर शशमा॒नाय॑ घृष्वे पृ॒थु श्च॒न्द्रमव॑से चर्षणि॒प्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “appreciated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

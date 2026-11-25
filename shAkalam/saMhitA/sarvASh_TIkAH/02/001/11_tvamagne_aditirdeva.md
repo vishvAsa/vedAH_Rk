@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ vasupate ← vásupati- (nominal stem)
 
 vr̥trahā́ ← vr̥trahán- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने॒ अदि॑तिर्देव दा॒शुषे॒ त्वं होत्रा॒ भार॑ती वर्धसे गि॒रा ।  
+त्वमिळा॑ श॒तहि॑मासि॒ दक्ष॑से॒ त्वं वृ॑त्र॒हा व॑सुपते॒ सर॑स्वती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
     vine; river.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

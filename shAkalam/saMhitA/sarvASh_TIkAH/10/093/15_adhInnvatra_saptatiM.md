@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "पुरस्ताद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ māyaváḥ ← māyavá- (nominal stem)
 
 sadyás ← sadyás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधीन्न्वत्र॑ सप्त॒तिं च॑ स॒प्त च॑ ।  
+स॒द्यो दि॑दिष्ट॒ तान्वः॑ स॒द्यो दि॑दिष्ट पा॒र्थ्यः स॒द्यो दि॑दिष्ट माय॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

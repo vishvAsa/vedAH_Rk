@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ saparyati ← √sapary- (root)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्व१॒॑ स्य वृ॑ष॒भो युवा॑ तुवि॒ग्रीवो॒ अना॑नतः ।  
+ब्र॒ह्मा कस्तं स॑पर्यति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ prathamā́saḥ ← prathamá- (nominal stem)
 
 ū́māḥ ← ū́ma- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॒ ह्य॑ग्ने म॒ह्ना नि॒षद्या॑ स॒द्यो ज॑ज्ञा॒नो हव्यो॑ ब॒भूथ॑ ।  
+तं ते॑ दे॒वासो॒ अनु॒ केत॑माय॒न्नधा॑वर्धन्त प्रथ॒मास॒ ऊमाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “assistant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

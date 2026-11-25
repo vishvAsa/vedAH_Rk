@@ -4,6 +4,7 @@ devataa = "विश्वे देवाः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः
@@ -54,7 +55,12 @@ pŕ̥śnimātaraḥ ← pŕ̥śnimātar- (nominal stem)
 
 ugrā́ḥ ← ugrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑न्दे॒वान्ह॑वामहे म॒रुतः॒ सोम॑पीतये ।  
+उ॒ग्रा हि पृश्नि॑मातरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

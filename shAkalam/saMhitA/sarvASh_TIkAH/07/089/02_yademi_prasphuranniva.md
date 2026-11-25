@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -63,7 +64,12 @@ mr̥ḷáya ← √mr̥ḍ- (root)
 
 sukṣatra ← sukṣatrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदेमि॑ प्रस्फु॒रन्नि॑व॒ दृति॒र्न ध्मा॒तो अ॑द्रिवः ।  
+मृ॒ळा सु॑क्षत्र मृ॒ळय॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “pardon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

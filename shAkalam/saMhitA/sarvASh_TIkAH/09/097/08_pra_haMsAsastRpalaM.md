@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वृषगणो वासिष्ठ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ vadanti ← √vadⁱ- (root)
 
 vāṇám ← vāṇá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र हं॒सास॑स्तृ॒पलं॑ म॒न्युमच्छा॒मादस्तं॒ वृष॑गणा अयासुः ।  
+आ॒ङ्गू॒ष्यं१॒॑ पव॑मानं॒ सखा॑यो दु॒र्मर्षं॑ सा॒कं प्र व॑दन्ति वा॒णम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “music.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -226,18 +231,6 @@ The geese have journeyed forth to (Soma’s) sharp battle-fury, from  nearby to 
 The comrades speak in unison to the self-purifying one a songful music  difficult to forget.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-My interpr. of this vs. differs from the standard because I don’t interpr.
-
-anything here as a PN, unlike Geldner and to a lesser extent Renou In particular, tṛpálamanyú- is taken as PN by Grassmann, Geldner, Renou, Mayr (PN); Geldner and (waveringly) both Oldenberg and Mayr (PN) also so interpr. vṛ́ṣagaṇa-. As for the former, tṛpála- is also found in the cmpd. tṛpála-prabharman- (X.89.5, where it is adjacent to ā́pānta-manyu-, with - manyu- as here), both adj. applying to Soma. There is no question of a PN there. It is also likely to be related to tṛprá- (VIII.2.5), also of Soma. See comm. ad loc., where I accept Mayr’s (EWA s.v.) suggestion that tṛprá- means ‘sharp’. The other part of the dyad, manyú-, is of course a well-attested common noun ‘battle fury’. I see no obstacle to interpr. the phrase as “sharp battle fury,” referring to Soma’s martial progress across the ritual ground.
-
-In the standard tr. the geese of pāda a are in an unmarked simile, and the real subj. is vṛ́ṣagaṇāḥ, which is either a PN (Geldner) or a descriptor of officiants (Renou: “Les (officiants formant) un groupe mâle”). But again, nothing stands in the way of taking the geese as the subj., modified by vṛ́ṣagaṇāḥ; after all, geese come in flocks! In my view the geese are, metaphorically, the singers (so not too far from Renou), who attend the ritual in a flock. The point of comparison is the noise they make; cf., e.g., IX.32.3 ā́d īṃ haṃsó yáthā gaṇám, víśvasyāvīvaśan mátim “just as (the lead) wild goose (sets) its flock (to honking), he has made the thought of everyone bellow.” The last two vss. here (7-8) contrast the harsh noise made by Soma (compared to a boar, 7d) with the equally harsh noise of honking geese, representing the ritual singers. This may be far from the mellifluous singing we imagine, but, as I have long argued, the root √ribh ‘rasp,’ etc. and its deriv. noun rebhá- do not flatter the sound of the singers: they describe the squawking of birds of prey and the creaking of a wagon, inter alia (see comm. ad VI.3.6, IX.66.9). Although the principal image here is of noisily honking geese, the migratory travels of the geese (going from nearby us to their [winter?] home) provide a secondary image. Because in real life the honking of geese is generally perceived as they cross the sky in formation, the two images go together.
-
-Geldner and Renou take c with ab, with pávamānam another goal (beside Tṛpala Manyu) of ayāsuḥ. I take it rather with d, and I think the 2nd hemistich softens and repairs the uncompromising tunelessness of the noise in ab, by revising the depiction of the singers. They are now “comrades,” and they speak forth (pra √vad, with double acc.) to Soma “songful music” (āṅguṣyàm … vāṇám). Geldner and Renou take āṅguṣyàm as modifying pávamānam, and in their favor the two words are adjacent.
-
-But the only other occurrence of that stem modifies sā́man- ‘melody’ (I.62.2) and to bleach it to ‘preislichen’ (for which there are already numerous other synonyms) seems unfortunate. I would suggest that the prominent initial position of āṅguṣyàm in c, far from its head noun at the end of d, results from this intention to re-cast the harsh image of ab and do so as soon as possible.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -245,7 +238,6 @@ This tṛca is attributed to Vṛṣagaṇa Vāsiṣṭha, whose given name was 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

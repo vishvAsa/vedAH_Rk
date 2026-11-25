@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -57,7 +58,12 @@ mánmabhiḥ ← mánman- (nominal stem)
 
 pitr̥̄ṇā́m ← pitár- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मनो॒ न्वा हु॑वामहे नाराशं॒सेन॒ सोमे॑न ।  
+पि॒तॄ॒णां च॒ मन्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “hymn; idea; purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

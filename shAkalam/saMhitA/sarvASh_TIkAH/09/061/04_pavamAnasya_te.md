@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ sakhitvám ← sakhitvá- (nominal stem)
 
 vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मानस्य ते व॒यं प॒वित्र॑मभ्युन्द॒तः ।  
+स॒खि॒त्वमा वृ॑णीमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +124,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -144,10 +149,6 @@ _________
 While you are purifying yourself, while you are flooding the filter, we choose your companionship.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Both Geldner and Renou render pávamānasya as simply the epithet Pavamāna, but this loses the parallelism between the two gen. sg. pres. participles that open and close the hemistich: pávamānasya … abhyundatáḥ. I render these participles as “while” clauses, to avoid the awkward “we choose the companionship of you who are Xing.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -155,7 +156,6 @@ There are faint signs of unity in this tṛca: the word pavítram ‘filter’ i
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

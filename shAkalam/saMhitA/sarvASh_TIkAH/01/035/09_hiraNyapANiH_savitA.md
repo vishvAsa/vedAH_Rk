@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -83,7 +84,12 @@ rájasā ← rájas- (nominal stem)
 
 r̥ṇoti ← √r̥- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यपाणिः सवि॒ता विच॑र्षणिरु॒भे द्यावा॑पृथि॒वी अ॒न्तरी॑यते ।  
+अपामी॑वां॒ बाध॑ते॒ वेति॒ सूर्य॑म॒भि कृ॒ष्णेन॒ रज॑सा॒ द्यामृ॑णोति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     begin; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

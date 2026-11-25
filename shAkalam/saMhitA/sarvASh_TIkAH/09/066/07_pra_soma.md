@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ dádhānaḥ ← √dhā- 1 (root)
 
 śrávaḥ ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सो॑म याहि॒ धार॑या सु॒त इन्द्रा॑य मत्स॒रः ।  
+दधा॑नो॒ अक्षि॑ति॒ श्रवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “fame; glory; ear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,10 +164,6 @@ _________
 Drive forth, Soma, in a stream, pressed as exhilarating for Indra, establishing for yourself imperishable fame.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. contains the famous phrase ákṣiti śrávaḥ (or a minor variant of it) “imperishable fame,” interestingly acquired not by a human, but by Soma himself.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -170,7 +171,6 @@ No particular sign of cohesion either internal or external.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

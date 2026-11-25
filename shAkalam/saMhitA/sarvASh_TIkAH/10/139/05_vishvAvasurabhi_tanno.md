@@ -4,6 +4,7 @@ devataa = "विश्वावसुः"
 RShiH = "विश्वावसुर्देवगन्धर्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वावसुः
@@ -101,7 +102,12 @@ hinvānáḥ ← √hi- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒श्वाव॑सुर॒भि तन्नो॑ गृणातु दि॒व्यो ग॑न्ध॒र्वो रज॑सो वि॒मानः॑ ।  
+यद्वा॑ घा स॒त्यमु॒त यन्न वि॒द्म धियो॑ हिन्वा॒नो धिय॒ इन्नो॑ अव्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

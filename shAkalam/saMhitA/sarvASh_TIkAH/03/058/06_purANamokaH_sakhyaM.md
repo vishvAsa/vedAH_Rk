@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ sahá ← sahá (invariable)
 
 samānā́ḥ ← samāná- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रा॒णमोकः॑ स॒ख्यं शि॒वं वां॑ यु॒वोर्न॑रा॒ द्रवि॑णं ज॒ह्नाव्या॑म् ।  
+पुनः॑ कृण्वा॒नाः स॒ख्या शि॒वानि॒ मध्वा॑ मदेम स॒ह नू स॑मा॒नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     akin(p); comparable; identical; mutual; equal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

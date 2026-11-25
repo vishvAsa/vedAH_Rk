@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ sahasya ← sahasyà- (nominal stem)
 
 vaha ← √vah- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ हि द्यावा॑पृथि॒वी अ॑ग्न उ॒भे सदा॑ पु॒त्रो न मा॒तरा॑ त॒तन्थ॑ ।  
+प्र या॒ह्यच्छो॑श॒तो य॑वि॒ष्ठाथा व॑ह सहस्ये॒ह दे॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

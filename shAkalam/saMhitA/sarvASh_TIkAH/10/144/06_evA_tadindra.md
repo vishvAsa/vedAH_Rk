@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुपर्णस्तार्क्ष्यपुत्र ऊर्ध्वकृशनो वा यामायनः"
 ChandaH = "विष्टारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ krátvā ← krátu- (nominal stem)
 
 sutáḥ ← √su- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा तदिन्द्र॒ इन्दु॑ना दे॒वेषु॑ चिद्धारयाते॒ महि॒ त्यजः॑ ।  
+क्रत्वा॒ वयो॒ वि ता॒र्यायुः॑ सुक्रतो॒ क्रत्वा॒यम॒स्मदा सु॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

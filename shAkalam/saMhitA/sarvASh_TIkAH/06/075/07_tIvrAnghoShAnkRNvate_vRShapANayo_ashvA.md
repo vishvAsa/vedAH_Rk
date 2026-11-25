@@ -4,6 +4,7 @@ devataa = "अश्वाः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वाः
@@ -74,7 +75,12 @@ kṣiṇánti ← √kṣī- (root)
 
 śátrūn ← śátru- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ती॒व्रान्घोषा॑न्कृण्वते॒ वृष॑पाण॒योऽश्वा॒ रथे॑भिः स॒ह वा॒जय॑न्तः ।  
+अ॒व॒क्राम॑न्तः॒ प्रप॑दैर॒मित्रा॑न्क्षि॒णन्ति॒ शत्रूँ॒रन॑पव्ययन्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - \[verb noun\], nominative, plural
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

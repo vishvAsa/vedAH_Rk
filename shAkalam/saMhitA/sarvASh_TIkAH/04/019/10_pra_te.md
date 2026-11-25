@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ náryā ← nárya- (nominal stem)
 
 rājan ← rā́jan- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॒ पूर्वा॑णि॒ कर॑णानि विप्रावि॒द्वाँ आ॑ह वि॒दुषे॒ करां॑सि ।  
+यथा॑यथा॒ वृष्ण्या॑नि॒ स्वगू॒र्तापां॑सि राज॒न्नर्यावि॑वेषीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “labor; act; perform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

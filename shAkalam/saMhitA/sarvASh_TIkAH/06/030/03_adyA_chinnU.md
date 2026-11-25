@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sukrato ← sukrátu- (nominal stem)
 
 tváyā ← tvám (pronoun)  
 {case:INS, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒द्या चि॒न्नू चि॒त्तदपो॑ न॒दीनां॒ यदा॑भ्यो॒ अर॑दो गा॒तुमि॑न्द्र ।  
+नि पर्व॑ता अद्म॒सदो॒ न से॑दु॒स्त्वया॑ दृ॒ळ्हानि॑ सुक्रतो॒ रजां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

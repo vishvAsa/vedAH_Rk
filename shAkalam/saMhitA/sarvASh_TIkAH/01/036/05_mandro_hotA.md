@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ devā́ḥ ← devá- (nominal stem)
 
 yā́ni ← yá- (pronoun)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒न्द्रो होता॑ गृ॒हप॑ति॒रग्ने॑ दू॒तो वि॒शाम॑सि ।  
+त्वे विश्वा॒ सङ्ग॑तानि व्र॒ता ध्रु॒वा यानि॑ दे॒वा अकृ॑ण्वत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

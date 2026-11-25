@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ dvíṣaḥ ← dvíṣ- (nominal stem)
 
 ghnántam ← √han- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ व॒यं ह॑वामहे शृ॒ण्वन्तं॑ जा॒तवे॑दसम् ।  
+अग्ने॒ घ्नन्त॒मप॒ द्विषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “hate; dviṣ; hostility; hostility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

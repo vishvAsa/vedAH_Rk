@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "उरुक्षय आमहीयवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -57,7 +58,12 @@ gopā́ḥ ← gopā́- (nominal stem)
 
 r̥tásya ← r̥tá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अदा॑भ्येन शो॒चिषाग्ने॒ रक्ष॒स्त्वं द॑ह ।  
+गो॒पा ऋ॒तस्य॑ दीदिहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “shine; glitter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "आर्त्नी"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आर्त्नी
@@ -86,7 +87,12 @@ imé ← ayám (pronoun)
 
 viṣphurántī ← √sphr̥̄- (root)  
 {case:NOM, gender:F, number:DU, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते आ॒चर॑न्ती॒ सम॑नेव॒ योषा॑ मा॒तेव॑ पु॒त्रं बि॑भृतामु॒पस्थे॑ ।  
+अप॒ शत्रू॑न्विध्यतां संविदा॒ने आर्त्नी॑ इ॒मे वि॑ष्फु॒रन्ती॑ अ॒मित्रा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “enemy; foe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

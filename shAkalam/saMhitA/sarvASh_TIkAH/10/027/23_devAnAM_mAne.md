@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ púrīṣam ← púrīṣa- (nominal stem)
 
 vahataḥ ← √vah- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वानां॒ माने॑ प्रथ॒मा अ॑तिष्ठन्कृ॒न्तत्रा॑देषा॒मुप॑रा॒ उदा॑यन् ।  
+त्रय॑स्तपन्ति पृथि॒वीम॑नू॒पा द्वा बृबू॑कं वहतः॒ पुरी॑षम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     rust; affluence; defecation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

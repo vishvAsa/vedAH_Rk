@@ -4,6 +4,7 @@ devataa = "रात्रिः"
 RShiH = "कुशिकः सौभरो रात्रिर्वा भारद्वाजी"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रात्रिः
@@ -66,7 +67,12 @@ támaḥ ← támas- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+निरु॒ स्वसा॑रमस्कृतो॒षसं॑ दे॒व्या॑य॒ती ।  
+अपेदु॑ हासते॒ तमः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
     ignorance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

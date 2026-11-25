@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ bhárata ← √bhr̥- (root)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध्व॑र्यवो॒ यः श॒तं शम्ब॑रस्य॒ पुरो॑ बि॒भेदाश्म॑नेव पू॒र्वीः ।  
+यो व॒र्चिनः॑ श॒तमिन्द्रः॑ स॒हस्र॑म॒पाव॑प॒द्भर॑ता॒ सोम॑मस्मै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ pādúḥ ← pādú- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा ते॑ जी॒वातु॑रु॒त तस्य॑ विद्धि॒ मा स्मै॑ता॒दृगप॑ गूहः सम॒र्ये ।  
+आ॒विः स्वः॑ कृणु॒ते गूह॑ते बु॒सं स पा॒दुर॑स्य नि॒र्णिजो॒ न मु॑च्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -265,7 +271,6 @@ _________
     discharge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

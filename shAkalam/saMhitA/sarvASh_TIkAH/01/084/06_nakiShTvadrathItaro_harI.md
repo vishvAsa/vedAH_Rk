@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ nákiḥ ← nákiḥ (invariable)
 
 sváśvaḥ ← sváśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नकि॒ष्ट्वद्र॒थीत॑रो॒ हरी॒ यदि॑न्द्र॒ यच्छ॑से ।  
+नकि॒ष्ट्वानु॑ म॒ज्मना॒ नकिः॒ स्वश्व॑ आनशे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

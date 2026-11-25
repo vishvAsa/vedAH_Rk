@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "मृळीको वासिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ havāmahe ← √hū- (root)
 
 mr̥ḷīkā́ya ← mr̥ḷīká- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं य॒ज्ञमि॒दं वचो॑ जुजुषा॒ण उ॒पाग॑हि ।  
+मर्ता॑सस्त्वा समिधान हवामहे मृळी॒काय॑ हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

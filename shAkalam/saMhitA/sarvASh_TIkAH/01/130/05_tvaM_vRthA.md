@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -113,7 +114,13 @@ jánāya ← jána- (nominal stem)
 
 viśvádohasaḥ ← viśvádohas- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं वृथा॑ न॒द्य॑ इन्द्र॒ सर्त॒वेऽच्छा॑ समु॒द्रम॑सृजो॒ रथाँ॑ इव वाजय॒तो रथाँ॑ इव ।  
+इ॒त ऊ॒तीर॑युञ्जत समा॒नमर्थ॒मक्षि॑तम् ।  
+धे॒नूरि॑व॒ मन॑वे वि॒श्वदो॑हसो॒ जना॑य वि॒श्वदो॑हसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -298,7 +305,6 @@ _________
 - \[noun\], nominative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

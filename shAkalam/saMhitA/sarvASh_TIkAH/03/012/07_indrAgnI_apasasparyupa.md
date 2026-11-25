@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -60,7 +61,12 @@ pathyā̀ḥ ← pathyā̀- (nominal stem)
 
 r̥tásya ← r̥tá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ग्नी॒ अप॑स॒स्पर्युप॒ प्र य॑न्ति धी॒तयः॑ ।  
+ऋ॒तस्य॑ प॒थ्या॒३॒॑ अनु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “subsequently; behind; along; towards; because.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ pū́rvam ← pū́rva- (nominal stem)
 
 śácībhiḥ ← śácī- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क ईं॑ स्तव॒त्कः पृ॑णा॒त्को य॑जाते॒ यदु॒ग्रमिन्म॒घवा॑ वि॒श्वहावे॑त् ।  
+पादा॑विव प्र॒हर॑न्न॒न्यम॑न्यं कृ॒णोति॒ पूर्व॒मप॑रं॒ शची॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “Śacī; power; dexterity; ability; aid.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -282,10 +287,6 @@ Who will praise him, who will fill him, who will sacrifice to him, if the  bount
 Like one who puts down his two feet one after the other, with his  powers he makes the one who was behind to be in front.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner renders d exactly opposite to the published translation: “so macht er den Vorderen zum Hintermann” (fld. by Klein, “āmreḍitas”: “he makes the one at the fore into one who lags behind”). But the simile in c is about walking one step at a time (“putting his two feet down one after the other”), and unless Indra is walking backwards my interpr. must be correct. It’s true that pū́rvam ‘in front’ precedes áparam ‘behind’ in the text, but word order is scarcely a reliable guide in the RV, esp. since in nominal sentences we often get PREDICATE SUBJECT order. (Furthermore, there's a sort of iconic ordering of the two adjectives, with pū́rva- first, which can be independent of the larger sense.)
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
 <details><summary><h2>15-18 ...{Loading}...</h2></summary>
 
@@ -293,7 +294,6 @@ As noted in the published introduction, this section, which concerns Indra’s f
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

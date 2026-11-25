@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ vā́tajūtāḥ ← vā́tajūta- (nominal stem)
 
 yujyante ← √yuj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मु॒मु॒क्ष्वो॒३॒॑ मन॑वे मानवस्य॒ते र॑घु॒द्रुवः॑ कृ॒ष्णसी॑तास ऊ॒ जुवः॑ ।  
+अ॒स॒म॒ना अ॑जि॒रासो॑ रघु॒ष्यदो॒ वात॑जूता॒ उप॑ युज्यन्त आ॒शवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “quick; fast; immediate; agile.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

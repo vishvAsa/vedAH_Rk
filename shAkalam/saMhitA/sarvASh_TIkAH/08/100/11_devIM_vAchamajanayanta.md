@@ -4,6 +4,7 @@ devataa = "वाक्"
 RShiH = "नेमो भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -95,7 +96,12 @@ súṣṭutā ← súṣṭuta- (nominal stem)
 
 vā́k ← vā́c- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वीं वाच॑मजनयन्त दे॒वास्तां वि॒श्वरू॑पाः प॒शवो॑ वदन्ति ।  
+सा नो॑ म॒न्द्रेष॒मूर्जं॒ दुहा॑ना धे॒नुर्वाग॒स्मानुप॒ सुष्टु॒तैतु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -260,7 +265,6 @@ _________
 
 ______________
 देवास्सर्वे वाचं देवीमजनयन्त । तां वाचं विश्वरूपाः द्विपाच्चतुष्पात्तदवान्तरभेदेन बहुविधाः पशवः स्वस्वभाषारूपेण वदन्ति । सा वाग्रूपा धेनुः नः अस्मदर्थमिषमन्नं ऊर्जं क्षीरादिरसं दुहाना संपादयन्ती सुष्टुता अस्माभिः सुष्ठु वैदिकैः स्तोत्रैः 'स्तुता मन्द्रा हृष्टा सती अस्मान्प्रत्यागच्छतु ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -282,7 +286,6 @@ The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, mi
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -290,7 +293,6 @@ For the possible mythological background of these verses, as adumbrated by Olden
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

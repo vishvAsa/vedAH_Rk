@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ rukmáḥ ← rukmá- (nominal stem)
 
 upári ← upári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येषां॑ श्रि॒याधि॒ रोद॑सी वि॒भ्राज॑न्ते॒ रथे॒ष्वा ।  
+दि॒वि रु॒क्म इ॑वो॒परि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “above; up; additionally; upari \[word\]; subsequently.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ nūnám ← nūnám (invariable)
 
 stuvatáḥ ← √stu- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपो॒ हरी॑णां॒ पतिं॒ दक्षं॑ पृ॒ञ्चन्त॑मब्रवम् ।  
+नू॒नं श्रु॑धि स्तुव॒तो अ॒श्व्यस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “equine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

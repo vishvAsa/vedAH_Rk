@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ satyám ← satyá- (nominal stem)
 
 vácasā ← vácas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वद्धि पु॑त्र सहसो॒ वि पू॒र्वीर्दे॒वस्य॒ यन्त्यू॒तयो॒ वि वाजाः॑ ।  
+त्वं दे॑हि सह॒स्रिणं॑ र॒यिं नो॑ऽद्रो॒घेण॒ वच॑सा स॒त्यम॑ग्ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

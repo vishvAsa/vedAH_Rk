@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ dhattám ← √dhā- 1 (root)
 
 rátnāni ← rátna- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं वां॒ मधु॑मत्तमः सु॒तः सोम॑ ऋतावृधा ।  
+तम॑श्विना पिबतं ति॒रोअ॑ह्न्यं ध॒त्तं रत्ना॑नि दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

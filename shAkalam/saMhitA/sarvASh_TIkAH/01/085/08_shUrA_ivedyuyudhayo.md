@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ rā́jānaḥ ← rā́jan- (nominal stem)
 
 tveṣásaṁdr̥śaḥ ← tveṣásaṁdr̥ś- (nominal stem)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शूरा॑ इ॒वेद्युयु॑धयो॒ न जग्म॑यः श्रव॒स्यवो॒ न पृत॑नासु येतिरे ।  
+भय॑न्ते॒ विश्वा॒ भुव॑ना म॒रुद्भ्यो॒ राजा॑न इव त्वे॒षसं॑दृशो॒ नरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

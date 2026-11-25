@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ pr̥ṇadhvam ← √pr̥̄- 1 (root)
 
 suśiprāḥ ← suśiprá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वो॒ वाहि॑ष्ठो वहतु स्त॒वध्यै॒ रथो॑ वाजा ऋभुक्षणो॒ अमृ॑क्तः ।  
+अ॒भि त्रि॑पृ॒ष्ठैः सव॑नेषु॒ सोमै॒र्मदे॑ सुशिप्रा म॒हभिः॑ पृणध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,12 +247,6 @@ Let the chariot, the best conveyor, convey you here to be praised, o Vājas,  R�
 Fill yourselves to exhilaration with great triple-backed soma drinks at  the pressings, you lovely-lipped ones.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The function of abhí, initial in c, is unclear; the verb of this hemistich, pṛṇadhvam, final in d, does not appear with abhí elsewhere.
-
-On the triple-backed (tripṛṣṭhá-) soma, see Geldner’s n. 1c, where he suggests among other possibilities that it refers to the three ingredients making up the soma drink (soma juice, water, and milk). 56
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/037/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -255,7 +254,6 @@ The stationing of the adj. ámṛkta- ‘indestructible’ at the end of the b p
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

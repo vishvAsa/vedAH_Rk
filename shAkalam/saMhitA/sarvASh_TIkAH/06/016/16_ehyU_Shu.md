@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -69,7 +70,12 @@ ebhíḥ ← ayám (pronoun)
 
 vardhāse ← √vr̥dh- (root)  
 {number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एह्यू॒ षु ब्रवा॑णि॒ तेऽग्न॑ इ॒त्थेत॑रा॒ गिरः॑ ।  
+ए॒भिर्व॑र्धास॒ इन्दु॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

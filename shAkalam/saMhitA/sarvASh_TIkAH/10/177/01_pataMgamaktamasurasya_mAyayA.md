@@ -4,6 +4,7 @@ devataa = "मायाभेदः"
 RShiH = "पतङ्गः प्राजापत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मायाभेदः
@@ -83,7 +84,12 @@ padám ← padá- (nominal stem)
 
 vedhásaḥ ← vedhás- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒तं॒गम॒क्तमसु॑रस्य मा॒यया॑ हृ॒दा प॑श्यन्ति॒ मन॑सा विप॒श्चितः॑ ।  
+स॒मु॒द्रे अ॒न्तः क॒वयो॒ वि च॑क्षते॒ मरी॑चीनां प॒दमि॑च्छन्ति वे॒धसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -72,7 +73,12 @@ raṇyanti ← √ranⁱ- (root)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्व॑ नू॒नं कद्वो॒ अर्थं॒ गन्ता॑ दि॒वो न पृ॑थि॒व्याः ।  
+क्व॑ वो॒ गावो॒ न र॑ण्यन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “rejoice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

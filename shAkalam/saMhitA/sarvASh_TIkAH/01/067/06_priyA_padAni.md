@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -58,7 +59,11 @@ gúham ← gúh- (nominal stem)
 
 viśvā́yuḥ ← viśvā́yu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रि॒या प॒दानि॑ प॒श्वो नि पा॑हि वि॒श्वायु॑रग्ने गु॒हा गुहं॑ गाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +139,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वत्सप्रिर्भालन्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 suvī́ram ← suvī́ra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा नः॑ सोम परिषि॒च्यमा॑नो॒ वयो॒ दध॑च्चि॒त्रत॑मं पवस्व ।  
+अ॒द्वे॒षे द्यावा॑पृथि॒वी हु॑वेम॒ देवा॑ ध॒त्त र॒यिम॒स्मे सु॒वीर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -86,7 +87,12 @@ práṇītau ← práṇīti- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुचि॑र॒पः सू॒यव॑सा॒ अद॑ब्ध॒ उप॑ क्षेति वृ॒द्धव॑याः सु॒वीरः॑ ।  
+नकि॒ष्टं घ्न॒न्त्यन्ति॑तो॒ न दू॒राद्य आ॑दि॒त्यानां॒ भव॑ति॒ प्रणी॑तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “guidance; guidance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ naḥ ← ahám (pronoun)
 
 rāyáḥ ← rayí- ~ rāy- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सनि॑तासि प्र॒वतो॑ दा॒शुषे॑ चि॒द्याभि॒र्विवे॑षो हर्यश्व धी॒भिः ।  
+व॒व॒न्मा नु ते॒ युज्या॑भिरू॒ती क॒दा न॑ इन्द्र रा॒य आ द॑शस्येः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - \[verb\], singular, Present optative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

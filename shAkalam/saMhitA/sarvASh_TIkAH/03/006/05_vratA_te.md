@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ tvám ← tvám (pronoun)
 
 vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्र॒ता ते॑ अग्ने मह॒तो म॒हानि॒ तव॒ क्रत्वा॒ रोद॑सी॒ आ त॑तन्थ ।  
+त्वं दू॒तो अ॑भवो॒ जाय॑मान॒स्त्वं ने॒ता वृ॑षभ चर्षणी॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “people.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -83,7 +84,12 @@ bhavatam ← √bhū- (root)
 
 uttamébhiḥ ← uttamá- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वृ॑त्रहणा वृत्र॒हभिः॒ शुष्मै॒रिन्द्र॑ या॒तं नमो॑भिरग्ने अ॒र्वाक् ।  
+यु॒वं राधो॑भि॒रक॑वेभिरि॒न्द्राग्ने॑ अ॒स्मे भ॑वतमुत्त॒मेभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     finest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

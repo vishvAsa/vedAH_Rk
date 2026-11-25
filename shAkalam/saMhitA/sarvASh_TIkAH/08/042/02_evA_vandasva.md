@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "नाभाकः काण्वः अर्चनाना वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -86,7 +87,12 @@ pātám ← √pā- 1 (root)
 
 upásthe ← upástha- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा व॑न्दस्व॒ वरु॑णं बृ॒हन्तं॑ नम॒स्या धीर॑म॒मृत॑स्य गो॒पाम् ।  
+स नः॒ शर्म॑ त्रि॒वरू॑थं॒ वि यं॑सत्पा॒तं नो॑ द्यावापृथिवी उ॒पस्थे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “genitalia; lap; sexual desire; anus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -98,7 +99,12 @@ tám ← sá- ~ tá- (pronoun)
 
 veda ← √vid- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सू॒क्त॒वा॒कं प्र॑थ॒ममादिद॒ग्निमादिद्ध॒विर॑जनयन्त दे॒वाः ।  
+स ए॑षां य॒ज्ञो अ॑भवत्तनू॒पास्तं द्यौर्वे॑द॒ तं पृ॑थि॒वी तमापः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -277,7 +283,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

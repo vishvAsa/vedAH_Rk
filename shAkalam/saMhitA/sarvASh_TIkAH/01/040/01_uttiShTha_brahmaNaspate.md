@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -80,7 +81,12 @@ prāśū́ḥ ← prāśū́- (nominal stem)
 
 sácā ← sácā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उत्ति॑ष्ठ ब्रह्मणस्पते देव॒यन्त॑स्त्वेमहे ।  
+उप॒ प्र य॑न्तु म॒रुतः॑ सु॒दान॑व॒ इन्द्र॑ प्रा॒शूर्भ॑वा॒ सचा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “jointly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

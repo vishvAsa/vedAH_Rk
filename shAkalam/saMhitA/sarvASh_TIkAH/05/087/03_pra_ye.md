@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "एवयामरुदात्रेयः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -97,7 +98,12 @@ prá ← prá (invariable)
 
 syandrā́saḥ ← syandrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ये दि॒वो बृ॑ह॒तः शृ॑ण्वि॒रे गि॒रा सु॒शुक्वा॑नः सु॒भ्व॑ एव॒याम॑रुत् ।  
+न येषा॒मिरी॑ स॒धस्थ॒ ईष्ट॒ आँ अ॒ग्नयो॒ न स्ववि॑द्युतः॒ प्र स्य॒न्द्रासो॒ धुनी॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -261,7 +267,6 @@ _________
 - “deafening; boisterous; noisy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

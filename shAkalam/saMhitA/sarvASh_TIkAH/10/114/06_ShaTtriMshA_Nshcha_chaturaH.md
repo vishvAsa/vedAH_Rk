@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सध्रिर्वैरूपो घर्मो वा तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ r̥ksāmā́bhyām ← r̥ksāmá- (nominal stem)
 
 vartayanti ← √vr̥t- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ष॒ट्त्रिं॒शाँश्च॑ च॒तुरः॑ क॒ल्पय॑न्त॒श्छन्दां॑सि च॒ दध॑त आद्वाद॒शम् ।  
+य॒ज्ञं वि॒माय॑ क॒वयो॑ मनी॒ष ऋ॑क्सा॒माभ्यां॒ प्र रथं॑ वर्तयन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

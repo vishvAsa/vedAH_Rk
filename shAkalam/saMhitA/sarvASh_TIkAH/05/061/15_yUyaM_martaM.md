@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -54,7 +55,12 @@ praṇetā́raḥ ← praṇetár- (nominal stem)
 
 yā́mahūtiṣu ← yā́mahūti- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यं मर्तं॑ विपन्यवः प्रणे॒तार॑ इ॒त्था धि॒या ।  
+श्रोता॑रो॒ याम॑हूतिषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

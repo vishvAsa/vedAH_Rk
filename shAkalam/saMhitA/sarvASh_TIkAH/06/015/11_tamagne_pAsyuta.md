@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -106,7 +106,12 @@ tám ← sá- ~ tá- (pronoun)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम॑ग्ने पास्यु॒त तं पि॑पर्षि॒ यस्त॒ आन॑ट् क॒वये॑ शूर धी॒तिम् ।  
+य॒ज्ञस्य॑ वा॒ निशि॑तिं॒ वोदि॑तिं वा॒ तमित्पृ॑णक्षि॒ शव॑सो॒त रा॒या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -269,7 +274,6 @@ _________
 - “wealth; possession; rai \[word\]; gold.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -332,8 +336,6 @@ Den schirmst du Agni, sicher ihn geleitend, wer dir, dem Seher, Andacht weiht, o
 Или (в) раздувании (пламени) жертвы, или в исходе (жертвы).  
 Это его ты наполняешь силой, а также богатством.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tanvè ← tanū́- (nominal stem)
 
 védat ← √vid- 2 (root)  
 {number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒ह उ॒ग्राय॑ त॒वसे॑ सुवृ॒क्तिं प्रेर॑य शि॒वत॑माय प॒श्वः ।  
+गिर्वा॑हसे॒ गिर॒ इन्द्रा॑य पू॒र्वीर्धे॒हि त॒न्वे॑ कु॒विद॒ङ्ग वेद॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

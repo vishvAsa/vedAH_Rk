@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "जगती"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -82,7 +82,12 @@ havyavā́ham ← havyavā́h- (nominal stem)
 
 r̥ñjase ← √r̥j- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यु॒ता॒नं वो॒ अति॑थिं॒ स्व॑र्णरम॒ग्निं होता॑रं॒ मनु॑षः स्वध्व॒रम् ।  
+विप्रं॒ न द्यु॒क्षव॑चसं सुवृ॒क्तिभि॑र्हव्य॒वाह॑मर॒तिं दे॒वमृ॑ञ्जसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +206,6 @@ _________
 - \[verb noun\]
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -253,8 +257,6 @@ Ich streb' dem Gaste, eurem lichten Glanzesherrn, dem Priester Agni, der des Men
 (К тому,) кто, словно вдохновенный (поэт), обладает речью, пребывающей на небе,  
 К вознице жертв, погонщику (коней), к богу я устремляюсь с гимнами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

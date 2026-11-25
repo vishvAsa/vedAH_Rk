@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ váhīyasaḥ ← váhīyaṁs- (nominal stem)
 
 vástoḥ ← vástu- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+योनि॑ष्ट इन्द्र नि॒षदे॑ अकारि॒ तमा नि षी॑द स्वा॒नो नार्वा॑ ।  
+वि॒मुच्या॒ वयो॑ऽव॒सायाश्वा॑न्दो॒षा वस्तो॒र्वही॑यसः प्रपि॒त्वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “beginning.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

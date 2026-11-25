@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ práṣṭum ← √praś- (root)
 
 vidvā́ṁsam ← √vid- 2 (root)  
 {case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को द॑दर्श प्रथ॒मं जाय॑मानमस्थ॒न्वन्तं॒ यद॑न॒स्था बिभ॑र्ति ।  
+भूम्या॒ असु॒रसृ॑गा॒त्मा क्व॑ स्वि॒त्को वि॒द्वांस॒मुप॑ गा॒त्प्रष्टु॑मे॒तत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “this; he,she,it (pers. pron.); etad \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

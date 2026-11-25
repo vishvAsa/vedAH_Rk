@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -83,7 +84,12 @@ svapatyā́ni ← svapatyá- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पीवो॑अन्नाँ रयि॒वृधः॑ सुमे॒धाः श्वे॒तः सि॑षक्ति नि॒युता॑मभि॒श्रीः ।  
+ते वा॒यवे॒ सम॑नसो॒ वि त॑स्थु॒र्विश्वेन्नरः॑ स्वप॒त्यानि॑ चक्रुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

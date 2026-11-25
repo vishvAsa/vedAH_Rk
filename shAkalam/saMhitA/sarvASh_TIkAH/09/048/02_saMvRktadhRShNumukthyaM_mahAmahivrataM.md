@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -51,7 +52,12 @@ rurukṣáṇim ← rurukṣáṇi- (nominal stem)
 
 śatám ← śatá- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+संवृ॑क्तधृष्णुमु॒क्थ्यं॑ म॒हाम॑हिव्रतं॒ मद॑म् ।  
+श॒तं पुरो॑ रुरु॒क्षणि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

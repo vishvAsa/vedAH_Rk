@@ -4,6 +4,7 @@ devataa = "पणयः"
 RShiH = "सरमा देवशुनी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पणयः
@@ -98,7 +99,12 @@ paṇayaḥ ← paṇí- (nominal stem)
 
 várīyaḥ ← várīyaṁs- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाहं वे॑द भ्रातृ॒त्वं नो स्व॑सृ॒त्वमिन्द्रो॑ विदु॒रङ्गि॑रसश्च घो॒राः ।  
+गोका॑मा मे अच्छदय॒न्यदाय॒मपात॑ इत पणयो॒ वरी॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -260,7 +266,6 @@ _________
 - “broad; further.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

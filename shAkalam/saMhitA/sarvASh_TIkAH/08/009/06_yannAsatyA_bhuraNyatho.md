@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ havíṣmantam ← havíṣmant- (nominal stem)
 
 hí ← hí (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यन्ना॑सत्या भुर॒ण्यथो॒ यद्वा॑ देव भिष॒ज्यथः॑ ।  
+अ॒यं वां॑ व॒त्सो म॒तिभि॒र्न वि॑न्धते ह॒विष्म॑न्तं॒ हि गच्छ॑थः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

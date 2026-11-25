@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ váhate ← √vah- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज्यायां॑सम॒स्य य॒तुन॑स्य के॒तुन॑ ऋषिस्व॒रं च॑रति॒ यासु॒ नाम॑ ते ।  
+या॒दृश्मि॒न्धायि॒ तम॑प॒स्यया॑ विद॒द्य उ॑ स्व॒यं वह॑ते॒ सो अरं॑ करत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +262,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

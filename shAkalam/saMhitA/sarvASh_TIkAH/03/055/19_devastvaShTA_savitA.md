@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ devā́nām ← devá- (nominal stem)
 
 mahát ← mahā́nt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वस्त्वष्टा॑ सवि॒ता वि॒श्वरू॑पः पु॒पोष॑ प्र॒जाः पु॑रु॒धा ज॑जान ।  
+इ॒मा च॒ विश्वा॒ भुव॑नान्यस्य म॒हद्दे॒वाना॑मसुर॒त्वमेक॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     consistent; any(a); undifferentiated; disjunct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,14 +253,6 @@ God Tvaṣṭar, the impeller providing all forms, flourishes; he has  begotten 
 and all these creatures here are his. – Great is the one and only lordship  of the gods.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-It is striking that pāda a is reused in the famous Yama-Yamī dialogue hymn (X.10.5b), where Yamī claims that Tvaṣṭar made them a married couple in the womb. I do not think there is an echo of that story here; the point of intersection is simply the association of Tvaṣṭar with conception, pregnancy, and birth (cf., e.g., X.184).
-
-Acdg. to the standard interpr. (Geldner [/Witzel Gotō], Renou; cf. Klein DGRV I.218, Kümmel 314), prajā́ḥ is to be construed with pupóṣa, on the basis of X.170.1 prajā́ḥ pupoṣa purudhā́… This is not impossible, but it seems unnecessary, esp. as the latter hymn is quite late. It also implies that purudhā́should also be construed with pupóṣa, but this is impossible because jajāna is unaccented. It is also unlikely that prajā́ḥ and purudhā́should be separated, given purudhā́prajā́vān in the next hymn (III.56.3b).
-
-At best we can take prajā́ḥ purudhā́with both verbs: “thrives with regard to offspring in great quantity and has begotten them [=offspring in great quantity]” or perhaps “thrives with regard to offspring and has begotten them [=offspring] in great quantity.” Such an interpr., with an acc. of respect and a fundamentally intransitive verb, follows that of Kümmel (314). I do not believe that pupóṣa here can have the transitive/causative sense that the other tr. ascribe to it (e.g., Renou “a fait fleurir les créatures”).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -263,7 +260,6 @@ I’m not sure why Tvaṣṭar appears here. The previous vs., with the arrival 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अत्रिः साङ्ख्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ pipyúṣīḥ ← √pī- 1 (root)
 
 útsam ← útsa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॑ सु॒म्नैः शं॒यू इ॑व॒ मंहि॑ष्ठा॒ विश्व॑वेदसा ।  
+सम॒स्मे भू॑षतं न॒रोत्सं॒ न पि॒प्युषी॒रिषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

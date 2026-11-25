@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ tát ← sá- ~ tá- (pronoun)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यज्जाय॑था अपूर्व्य॒ मघ॑वन्वृत्र॒हत्या॑य ।  
+तत्पृ॑थि॒वीम॑प्रथय॒स्तद॑स्तभ्ना उ॒त द्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

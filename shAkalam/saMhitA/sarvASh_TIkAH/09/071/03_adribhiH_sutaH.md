@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ párīmaṇi ← párīman- (nominal stem)
 
 yájate ← √yaj- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद्रि॑भिः सु॒तः प॑वते॒ गभ॑स्त्योर्वृषा॒यते॒ नभ॑सा॒ वेप॑ते म॒ती ।  
+स मो॑दते॒ नस॑ते॒ साध॑ते गि॒रा ने॑नि॒क्ते अ॒प्सु यज॑ते॒ परी॑मणि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

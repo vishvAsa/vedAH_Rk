@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ kakúbhaḥ ← kakúbh- (nominal stem)
 
 párvatānām ← párvata- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अक्षो॑दय॒च्छव॑सा॒ क्षाम॑ बु॒ध्नं वार्ण वात॒स्तवि॑षीभि॒रिन्द्रः॑ ।  
+दृ॒ळ्हान्यौ॑भ्नादु॒शमा॑न॒ ओजोऽवा॑भिनत्क॒कुभः॒ पर्व॑तानाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     height.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

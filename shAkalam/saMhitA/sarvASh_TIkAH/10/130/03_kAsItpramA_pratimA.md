@@ -4,6 +4,7 @@ devataa = "भाववृत्तं"
 RShiH = "यज्ञः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -101,7 +102,12 @@ víśve ← víśva- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कासी॑त्प्र॒मा प्र॑ति॒मा किं नि॒दान॒माज्यं॒ किमा॑सीत्परि॒धिः क आ॑सीत् ।  
+छन्दः॒ किमा॑सी॒त्प्रउ॑गं॒ किमु॒क्थं यद्दे॒वा दे॒वमय॑जन्त॒ विश्वे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
     wholly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

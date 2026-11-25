@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ rucānā́ḥ ← √ruc- (root)
 
 tanū́bhiḥ ← tanū́- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता इन्न्वे॒३॒॑व स॑म॒ना स॑मा॒नीरमी॑तवर्णा उ॒षस॑श्चरन्ति ।  
+गूह॑न्ती॒रभ्व॒मसि॑तं॒ रुश॑द्भिः शु॒क्रास्त॒नूभिः॒ शुच॑यो रुचा॒नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “please; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,14 +247,12 @@ hiding the black void with their bright (colors), glistening, gleaming,  shining
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/051/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 The unbroken similarity of the dawns who just keep coming, day after day, is conveyed by the stasis of these two vss., where forms of ‘same’ (8ab samanā́ … sanānátaḥ samanyā́, 9a samanā́samānī́ḥ) and the same verb caranti (8a, 9b) bring all movement to a halt, even though the dawns are constantly on the move.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

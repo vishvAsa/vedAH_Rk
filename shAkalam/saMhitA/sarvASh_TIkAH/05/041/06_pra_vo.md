@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ pátnīḥ ← pátnī- (nominal stem)
 
 vásvīḥ ← vásu- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॑ वा॒युं र॑थ॒युजं॑ कृणुध्वं॒ प्र दे॒वं विप्रं॑ पनि॒तार॑म॒र्कैः ।  
+इ॒षु॒ध्यव॑ ऋत॒सापः॒ पुरं॑धी॒र्वस्वी॑र्नो॒ अत्र॒ पत्नी॒रा धि॒ये धुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

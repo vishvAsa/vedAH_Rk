@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ vāśrā́ḥ ← vāśrá- (nominal stem)
 
 yā́tave ← √yā- 1 (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒ त्ये सू॒नवो॒ गिरः॒ काष्ठा॒ अज्मे॑ष्वत्नत ।  
+वा॒श्रा अ॑भि॒ज्ञु यात॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

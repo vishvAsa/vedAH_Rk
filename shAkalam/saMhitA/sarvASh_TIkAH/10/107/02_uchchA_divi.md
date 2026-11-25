@@ -4,6 +4,7 @@ devataa = "दक्षिणा तद्दातारो वा"
 RShiH = "दिव्यो दक्षिणा वा प्राजापत्या"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दक्षिणा तद्दातारो वा
@@ -83,7 +84,12 @@ tirante ← √tr̥̄- 1 (root)
 
 vāsodā́ḥ ← vāsodā́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒च्चा दि॒वि दक्षि॑णावन्तो अस्थु॒र्ये अ॑श्व॒दाः स॒ह ते सूर्ये॑ण ।  
+हि॒र॒ण्य॒दा अ॑मृत॒त्वं भ॑जन्ते वासो॒दाः सो॑म॒ प्र ति॑रन्त॒ आयुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

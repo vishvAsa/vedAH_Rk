@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ púruhūta ← puruhūtá- (nominal stem)
 
 purūvaso ← purūvásu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तन्नो॒ वि वो॑चो॒ यदि॑ ते पु॒रा चि॑ज्जरि॒तार॑ आन॒शुः सु॒म्नमि॑न्द्र ।  
+कस्ते॑ भा॒गः किं वयो॑ दुध्र खिद्वः॒ पुरु॑हूत पुरूवसोऽसुर॒घ्नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -254,7 +260,6 @@ _________
 - “killing; curative; destroying; removing; māraka; stabbing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ purū́ṇi ← purú- (nominal stem)
 
 súkr̥tā ← súkr̥ta- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दिदृ॑क्षन्त उ॒षसो॒ याम॑न्न॒क्तोर्वि॒वस्व॑त्या॒ महि॑ चि॒त्रमनी॑कम् ।  
+विश्वे॑ जानन्ति महि॒ना यदागा॒दिन्द्र॑स्य॒ कर्म॒ सुकृ॑ता पु॒रूणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “many; much(a); very.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

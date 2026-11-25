@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ nā́kam ← nā́ka- (nominal stem)
 
 rakṣethe ← √rakṣⁱ- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिर॑श्विना॒ सिन्धु॑भिः स॒प्तमा॑तृभि॒स्त्रय॑ आहा॒वास्त्रे॒धा ह॒विष्कृ॒तम् ।  
+ति॒स्रः पृ॑थि॒वीरु॒परि॑ प्र॒वा दि॒वो नाकं॑ रक्षेथे॒ द्युभि॑र॒क्तुभि॑र्हि॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ sānasí ← sānasí- (nominal stem)
 
 vocéma ← √vac- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अथा॑ ते अङ्गिरस्त॒माग्ने॑ वेधस्तम प्रि॒यम् ।  
+वो॒चेम॒ ब्रह्म॑ सान॒सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “victorious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -154,7 +159,6 @@ might we speak—a winning sacred formulation.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -163,7 +167,6 @@ Note the play between the two final words of these verses: āsáni / sānasí.
 The two verses also contain four superlatives in -tama-, each to a stem ending in -as.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

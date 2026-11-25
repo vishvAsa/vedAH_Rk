@@ -80,6 +80,12 @@ tripā́t ← tripád- (nominal stem)
 {case:NOM, gender:M, number:SG}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तावा॑नस्य महि॒मातो॒ ज्यायाँ॑श्च॒ पूरु॑षः ।  
+पादो॑ऽस्य॒ विश्वा॑ भू॒तानि॑ त्रि॒पाद॑स्या॒मृतं॑ दि॒वि ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ए॒तावा॑न् । अ॒स्य॒ । म॒हि॒मा । अतः॑ । ज्याया॑न् । च॒ । पुरु॑षः ।  

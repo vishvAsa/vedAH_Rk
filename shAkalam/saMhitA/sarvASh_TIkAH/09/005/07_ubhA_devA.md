@@ -4,6 +4,7 @@ devataa = "दैव्यौ होतारौ प्रचेतसौ"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दैव्यौ होतारौ प्रचेतसौ
@@ -57,7 +58,12 @@ pávamānaḥ ← √pū- (root)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भा दे॒वा नृ॒चक्ष॑सा॒ होता॑रा॒ दैव्या॑ हुवे ।  
+पव॑मान॒ इन्द्रो॒ वृषा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “bull; Indra; stallion; Vṛṣan; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

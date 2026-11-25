@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ suvī́ryasya ← suvī́rya- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+र॒यिं दि॑वो दुहितरो विभा॒तीः प्र॒जाव॑न्तं यच्छता॒स्मासु॑ देवीः ।  
+स्यो॒नादा वः॑ प्रति॒बुध्य॑मानाः सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

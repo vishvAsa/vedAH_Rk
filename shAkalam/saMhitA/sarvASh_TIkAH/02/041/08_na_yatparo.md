@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ mártyaḥ ← mártya- (nominal stem)
 
 ripúḥ ← ripú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न यत्परो॒ नान्त॑र आद॒धर्ष॑द्वृषण्वसू ।  
+दुः॒शंसो॒ मर्त्यो॑ रि॒पुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “enemy; arivarga; Ripu; foe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -76,7 +77,12 @@ anehásam ← anehás- (nominal stem)
 
 svastigā́m ← svastigā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ तू सु॑शिप्र दम्पते॒ रथं॑ तिष्ठा हिर॒ण्यय॑म् ।  
+अध॑ द्यु॒क्षं स॑चेवहि स॒हस्र॑पादमरु॒षं स्व॑स्ति॒गाम॑ने॒हस॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “faultless; anehas \[word\]; incomparable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

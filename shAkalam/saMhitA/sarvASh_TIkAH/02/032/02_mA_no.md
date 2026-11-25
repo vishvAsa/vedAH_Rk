@@ -4,6 +4,7 @@ devataa = "इन्द्रस्त्वष्टा वा"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रस्त्वष्टा वा
@@ -107,7 +108,12 @@ tát ← sá- ~ tá- (pronoun)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॒ गुह्या॒ रिप॑ आ॒योरह॑न्दभ॒न्मा न॑ आ॒भ्यो री॑रधो दु॒च्छुना॑भ्यः ।  
+मा नो॒ वि यौः॑ स॒ख्या वि॒द्धि तस्य॑ नः सुम्नाय॒ता मन॑सा॒ तत्त्वे॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -270,7 +276,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

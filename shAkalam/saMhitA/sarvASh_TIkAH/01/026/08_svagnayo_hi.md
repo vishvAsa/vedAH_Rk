@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ manāmahe ← √man- 1 (root)
 
 svagnáyaḥ ← svagní- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒ग्नयो॒ हि वार्यं॑ दे॒वासो॑ दधि॒रे च॑ नः ।  
+स्व॒ग्नयो॑ मनामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

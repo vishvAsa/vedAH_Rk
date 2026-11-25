@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ namantām ← √nam- 1 (root)
 
 ní ← ní (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मि॑न्व॒यं द॑धि॒मा शंस॒मिन्द्रे॒ यः शि॒श्राय॑ म॒घवा॒ काम॑म॒स्मे ।  
+आ॒राच्चि॒त्सन्भ॑यतामस्य॒ शत्रु॒र्न्य॑स्मै द्यु॒म्ना जन्या॑ नमन्ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “bow; bend; condescend; worship; bend; lower.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

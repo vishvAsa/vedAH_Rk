@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ náva ← náva- 1 (nominal stem)
 
 navatī́ḥ ← navatí- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ दधी॒चो अ॒स्थभि॑र्वृ॒त्राण्यप्र॑तिष्कुतः ।  
+ज॒घान॑ नव॒तीर्नव॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +121,6 @@ _________
 - “nine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

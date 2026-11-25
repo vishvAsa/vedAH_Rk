@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ rathínaḥ ← rathín- (nominal stem)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि वस्त्रा॑ सुवस॒नान्य॑र्षा॒भि धे॒नूः सु॒दुघाः॑ पू॒यमा॑नः ।  
+अ॒भि च॒न्द्रा भर्त॑वे नो॒ हिर॑ण्या॒भ्यश्वा॑न्र॒थिनो॑ देव सोम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -245,12 +250,6 @@ Rush toward your garments that garb well, toward the good-milking  cows, while b
 toward glittering golden goods, to bring them to us, and toward chariot  horses, o god Soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner adds “zu gewinnen” in pādas a and b (also d) with no textual support.
-
-And surely these garments and cows are actually references to the milk mixture, as so often in IX.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/49-51.md">
 <details><summary><h2>49-51 ...{Loading}...</h2></summary>
 
@@ -258,7 +257,6 @@ In contrast to the tṛcas with faint or no signs of cohesion, this one is over-
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

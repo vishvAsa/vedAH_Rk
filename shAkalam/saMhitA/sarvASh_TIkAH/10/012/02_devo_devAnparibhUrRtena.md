@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हविर्धान आङ्गिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ vācā́ ← vā́c- (nominal stem)
 
 yájīyān ← yájīyaṁs- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वो दे॒वान्प॑रि॒भूरृ॒तेन॒ वहा॑ नो ह॒व्यं प्र॑थ॒मश्चि॑कि॒त्वान् ।  
+धू॒मके॑तुः स॒मिधा॒ भाऋ॑जीको म॒न्द्रो होता॒ नित्यो॑ वा॒चा यजी॑यान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

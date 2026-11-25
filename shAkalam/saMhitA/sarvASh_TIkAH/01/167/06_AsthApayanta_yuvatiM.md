@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ gā́yat ← √gā(y)- (root)
 
 sutásomaḥ ← sutásoma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आस्था॑पयन्त युव॒तिं युवा॑नः शु॒भे निमि॑श्लां वि॒दथे॑षु प॒ज्राम् ।  
+अ॒र्को यद्वो॑ मरुतो ह॒विष्मा॒न्गाय॑द्गा॒थं सु॒तसो॑मो दुव॒स्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -225,7 +230,6 @@ When the chant is accompanied by oblations for you, o Maruts, and the  one who h
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
 <details><summary><h2>03-07 ...{Loading}...</h2></summary>
 
@@ -233,7 +237,6 @@ Hoffmann (Injunk., 194-97) translates and comments on these verses.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

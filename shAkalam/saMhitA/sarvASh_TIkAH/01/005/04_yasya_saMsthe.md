@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ gāyata ← √gā(y)- (root)
 
 tásmai ← sá- ~ tá- (pronoun)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ सं॒स्थे न वृ॒ण्वते॒ हरी॑ स॒मत्सु॒ शत्र॑वः ।  
+तस्मा॒ इन्द्रा॑य गायत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “sing; praise; jap; recite; describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

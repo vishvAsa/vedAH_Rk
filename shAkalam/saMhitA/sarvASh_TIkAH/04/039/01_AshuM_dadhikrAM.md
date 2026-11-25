@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -86,7 +87,12 @@ parṣan ← √pr̥- (root)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒शुं द॑धि॒क्रां तमु॒ नु ष्ट॑वाम दि॒वस्पृ॑थि॒व्या उ॒त च॑र्किराम ।  
+उ॒च्छन्ती॒र्मामु॒षसः॑ सूदय॒न्त्वति॒ विश्वा॑नि दुरि॒तानि॑ पर्षन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “protect; promote; rescue; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 svátavasaḥ ← svátavas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नित्यं॒ न सू॒नुं मधु॒ बिभ्र॑त॒ उप॒ क्रीळ॑न्ति क्री॒ळा वि॒दथे॑षु॒ घृष्व॑यः ।  
+नक्ष॑न्ति रु॒द्रा अव॑सा नम॒स्विनं॒ न म॑र्धन्ति॒ स्वत॑वसो हवि॒ष्कृत॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

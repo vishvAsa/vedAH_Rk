@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -83,7 +84,12 @@ purás ← purás (invariable)
 
 víprāḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्त॒स्तम्भ॒ सह॑सा॒ वि ज्मो अन्ता॒न्बृह॒स्पति॑स्त्रिषध॒स्थो रवे॑ण ।  
+तं प्र॒त्नास॒ ऋष॑यो॒ दीध्या॑नाः पु॒रो विप्रा॑ दधिरे म॒न्द्रजि॑ह्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “tongue; tongue; jihvā \[word\]; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -238,12 +243,6 @@ He who with his strength propped apart the ends of the earth, with a  roar—Br�
 him with the gladdening tongue did the seers of old, the inspired poets  in meditation, set in front—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The preverb ví is curiously positioned, neither adjacent to its verb nor to a metrical boundary. Perhaps its position is iconic, with ‘earth’ (jmáḥ) between its separated ends (ví … ántān).
-
-As noted in the published introduction, the VP puráḥ … dadhire “they set in front” marks the appointment of Bṛhaspati in what will be his later role, Purohita.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details><summary><h2>01-06 ...{Loading}...</h2></summary>
 
@@ -251,7 +250,6 @@ As indicated in the published introduction, this section concerns the unitary fi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

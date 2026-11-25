@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -70,7 +71,12 @@ raṇa ← √ranⁱ- (root)
 
 suté ← √su- (root)  
 {case:LOC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तो पति॒र्य उ॒च्यते॑ कृष्टी॒नामेक॒ इद्व॒शी ।  
+न॒मो॒वृ॒धैर॑व॒स्युभिः॑ सु॒ते र॑ण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “rejoice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

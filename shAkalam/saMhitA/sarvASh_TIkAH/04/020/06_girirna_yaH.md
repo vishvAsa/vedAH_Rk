@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ udnā́ ← udán- (nominal stem)
 
 vásunā ← vásu- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गि॒रिर्न यः स्वत॑वाँ ऋ॒ष्व इन्द्रः॑ स॒नादे॒व सह॑से जा॒त उ॒ग्रः ।  
+आद॑र्ता॒ वज्रं॒ स्थवि॑रं॒ न भी॒म उ॒द्नेव॒ कोशं॒ वसु॑ना॒ न्यृ॑ष्टम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “fill; stuff.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

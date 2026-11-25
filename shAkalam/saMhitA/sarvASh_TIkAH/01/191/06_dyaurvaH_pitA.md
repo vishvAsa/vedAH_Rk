@@ -4,6 +4,7 @@ devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अप्तृणसूर्याः
@@ -77,7 +78,12 @@ sú ← sú (invariable)
 
 tíṣṭhata ← √sthā- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यौर्वः॑ पि॒ता पृ॑थि॒वी मा॒ता सोमो॒ भ्रातादि॑तिः॒ स्वसा॑ ।  
+अदृ॑ष्टा॒ विश्व॑दृष्टा॒स्तिष्ठ॑ते॒ळय॑ता॒ सु क॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “kaṃ \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

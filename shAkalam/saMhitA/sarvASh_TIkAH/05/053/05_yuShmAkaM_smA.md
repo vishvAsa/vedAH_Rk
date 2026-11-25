@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -66,7 +67,12 @@ vr̥ṣṭī́ ← vr̥ṣṭí- (nominal stem)
 
 yatī́ḥ ← √i- 1 (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒ष्माकं॑ स्मा॒ रथाँ॒ अनु॑ मु॒दे द॑धे मरुतो जीरदानवः ।  
+वृ॒ष्टी द्यावो॑ य॒तीरि॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

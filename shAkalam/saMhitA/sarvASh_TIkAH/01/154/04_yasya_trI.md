@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -86,7 +87,12 @@ dādhā́ra ← √dhr̥- (root)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॒ त्री पू॒र्णा मधु॑ना प॒दान्यक्षी॑यमाणा स्व॒धया॒ मद॑न्ति ।  
+य उ॑ त्रि॒धातु॑ पृथि॒वीमु॒त द्यामेको॑ दा॒धार॒ भुव॑नानि॒ विश्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     wholly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

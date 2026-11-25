@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ panayanta ← √panⁱ- (root)
 
 svayám ← svayám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रैषा॒मज्मे॑षु विथु॒रेव॑ रेजते॒ भूमि॒र्यामे॑षु॒ यद्ध॑ यु॒ञ्जते॑ शु॒भे ।  
+ते क्री॒ळयो॒ धुन॑यो॒ भ्राज॑दृष्टयः स्व॒यं म॑हि॒त्वं प॑नयन्त॒ धूत॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “Marut.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

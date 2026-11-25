@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sākhyásya ← sākhyá- (nominal stem)
 
 tritā́ya ← tritá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सने॑म॒ ये त॑ ऊ॒तिभि॒स्तर॑न्तो॒ विश्वाः॒ स्पृध॒ आर्ये॑ण॒ दस्यू॑न् ।  
+अ॒स्मभ्यं॒ तत्त्वा॒ष्ट्रं वि॒श्वरू॑प॒मर॑न्धयः सा॒ख्यस्य॑ त्रि॒ताय॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “Trita.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

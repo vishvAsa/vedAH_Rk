@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ daívyasya ← daívya- (nominal stem)
 
 jánasya ← jána- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बळ॑स्य नी॒था वि प॒णेश्च॑ मन्महे व॒या अ॑स्य॒ प्रहु॑ता आसु॒रत्त॑वे ।  
+य॒दा घो॒रासो॑ अमृत॒त्वमाश॒तादिज्जन॑स्य॒ दैव्य॑स्य चर्किरन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “praise; commemorate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः आङ्गिरसो वा"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः आङ्गिरसो वा
@@ -74,7 +75,12 @@ maṁhate ← √maṁh- (root)
 
 sácā ← sácā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये अ॒ग्नेः परि॑ जज्ञि॒रे विरू॑पासो दि॒वस्परि॑ ।  
+नव॑ग्वो॒ नु दश॑ग्वो॒ अङ्गि॑रस्तमो॒ सचा॑ दे॒वेषु॑ मंहते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “give; accord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

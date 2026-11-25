@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ váram ← vára- 1 (nominal stem)
 
 varanta ← √vr̥- ~ vr̥̄- (root)  
 {number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भी नो॑ अग्न उ॒क्थमिज्जु॑गुर्या॒ द्यावा॒क्षामा॒ सिन्ध॑वश्च॒ स्वगू॑र्ताः ।  
+गव्यं॒ यव्यं॒ यन्तो॑ दी॒र्घाहेषं॒ वर॑मरु॒ण्यो॑ वरन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

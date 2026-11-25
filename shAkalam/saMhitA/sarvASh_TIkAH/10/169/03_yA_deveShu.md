@@ -4,6 +4,7 @@ devataa = "गावः"
 RShiH = "शबरः काक्षीवतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -83,7 +84,12 @@ prajā́vatīḥ ← prajā́vant- (nominal stem)
 
 rirīhi ← √rā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या दे॒वेषु॑ त॒न्व१॒॑मैर॑यन्त॒ यासां॒ सोमो॒ विश्वा॑ रू॒पाणि॒ वेद॑ ।  
+ता अ॒स्मभ्यं॒ पय॑सा॒ पिन्व॑मानाः प्र॒जाव॑तीरिन्द्र गो॒ष्ठे रि॑रीहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “give; impart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

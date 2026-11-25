@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -49,7 +50,11 @@ tanvàḥ ← tanū́- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वा॒यु॒धास॑ इ॒ष्मिणः॑ सुनि॒ष्का उ॒त स्व॒यं त॒न्व१॑ः॒ शुम्भ॑मानाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +116,6 @@ _________
 - “look; shine; beautify.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

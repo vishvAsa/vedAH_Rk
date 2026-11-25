@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ vavrím ← vavrí- (nominal stem)
 
 vidyút ← vidyút- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं स शि॑ङ्क्ते॒ येन॒ गौर॒भीवृ॑ता॒ मिमा॑ति मा॒युं ध्व॒सना॒वधि॑ श्रि॒ता ।  
+सा चि॒त्तिभि॒र्नि हि च॒कार॒ मर्त्यं॑ वि॒द्युद्भव॑न्ती॒ प्रति॑ व॒व्रिमौ॑हत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - \[verb\], singular, Imperfect
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

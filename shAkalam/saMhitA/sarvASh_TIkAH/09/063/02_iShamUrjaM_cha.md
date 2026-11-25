@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ ní ← ní (invariable)
 
 sīdasi ← √sad- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इष॒मूर्जं॑ च पिन्वस॒ इन्द्रा॑य मत्स॒रिन्त॑मः ।  
+च॒मूष्वा नि षी॑दसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -158,14 +163,12 @@ You swell refreshment and nourishment; most exhilarating for Indra, you sit down
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular signs of unity, though the dat. índrāya in 2b anticipates the three datives índrāya víṣṇave … vāyáve in vs. 3.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

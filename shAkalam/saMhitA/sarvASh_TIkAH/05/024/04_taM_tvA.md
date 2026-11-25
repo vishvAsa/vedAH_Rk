@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गौपायना लौपायना वा बन्धुः सुबन्धुः श्रुतबन्धुर्विप्रबन्धुश्च"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -52,7 +53,11 @@ sákhibhyaḥ ← sákhi- (nominal stem)
 
 sumnā́ya ← sumná- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ शोचिष्ठ दीदिवः सु॒म्नाय॑ नू॒नमी॑महे॒ सखि॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +115,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -146,7 +150,7 @@ We entreat thee now, O brightest, shining (Agni), for thy grace, for our friends
 <details><summary>Keith</summary>
 
 Thee, O shining and most radiant one,  
-We implore for favour, for our friends;  
+We implore for favour, for our friends;
 </details>
 
 <details><summary>Geldner</summary>

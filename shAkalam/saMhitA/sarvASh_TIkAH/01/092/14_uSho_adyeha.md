@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -63,7 +64,12 @@ ucha ← √vas- 1 (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उषो॑ अ॒द्येह गो॑म॒त्यश्वा॑वति विभावरि ।  
+रे॒वद॒स्मे व्यु॑च्छ सूनृतावति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “happy; big; auspicious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

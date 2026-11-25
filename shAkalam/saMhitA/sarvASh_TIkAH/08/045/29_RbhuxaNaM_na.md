@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ sóme ← sóma- (nominal stem)
 
 suté ← √su- (root)  
 {case:LOC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒भु॒क्षणं॒ न वर्त॑व उ॒क्थेषु॑ तुग्र्या॒वृध॑म् ।  
+इन्द्रं॒ सोमे॒ सचा॑ सु॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

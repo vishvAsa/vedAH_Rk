@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "यजत आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -57,7 +58,12 @@ devaú ← devá- (nominal stem)
 
 vardhete ← √vr̥dh- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तमृ॒तेन॒ सप॑न्तेषि॒रं दक्ष॑माशाते ।  
+अ॒द्रुहा॑ दे॒वौ व॑र्धेते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

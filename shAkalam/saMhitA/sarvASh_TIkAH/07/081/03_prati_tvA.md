@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ ná ← ná (invariable)
 
 rátnam ← rátna- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ त्वा दुहितर्दिव॒ उषो॑ जी॒रा अ॑भुत्स्महि ।  
+या वह॑सि पु॒रु स्पा॒र्हं व॑नन्वति॒ रत्नं॒ न दा॒शुषे॒ मयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “pleasure; refreshment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

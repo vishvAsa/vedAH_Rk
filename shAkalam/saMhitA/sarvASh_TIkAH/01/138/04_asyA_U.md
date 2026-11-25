@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -125,7 +126,13 @@ sakhyám ← sakhyá- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्या ऊ॒ षु ण॒ उप॑ सा॒तये॑ भु॒वोऽहे॑ळमानो ररि॒वाँ अ॑जाश्व श्रवस्य॒ताम॑जाश्व ।  
+ओ षु त्वा॑ ववृतीमहि॒ स्तोमे॑भिर्दस्म सा॒धुभिः॑ ।  
+न॒हि त्वा॑ पूषन्नति॒मन्य॑ आघृणे॒ न ते॑ स॒ख्यम॑पह्नु॒वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -320,7 +327,6 @@ _________
 - “deny.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ sánitā ← sánitar- (nominal stem)
 
 víprebhiḥ ← vípra- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वाजं॑ वि॒श्वच॑र्षणि॒रर्व॑द्भिरस्तु॒ तरु॑ता ।  
+विप्रे॑भिरस्तु॒ सनि॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “bestowing; victorious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हरिमन्तः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ mádhu ← mádhu- (nominal stem)
 
 sánīḷābhiḥ ← sánīḷa- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा॒कं व॑दन्ति ब॒हवो॑ मनी॒षिण॒ इन्द्र॑स्य॒ सोमं॑ ज॒ठरे॒ यदा॑दु॒हुः ।  
+यदी॑ मृ॒जन्ति॒ सुग॑भस्तयो॒ नरः॒ सनी॑ळाभिर्द॒शभिः॒ काम्यं॒ मधु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

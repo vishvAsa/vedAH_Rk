@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -75,7 +76,12 @@ havíṣā ← havís- (nominal stem)
 
 várdhantaḥ ← √vr̥dh- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नरो॒ ये के चा॒स्मदा विश्वेत्ते वा॒म आ स्युः॑ ।  
+अ॒ग्निं ह॒विषा॒ वर्ध॑न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

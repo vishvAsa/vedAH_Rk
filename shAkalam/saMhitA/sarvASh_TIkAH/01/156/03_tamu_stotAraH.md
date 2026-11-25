@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -103,7 +104,12 @@ te ← tvám (pronoun)
 
 viṣṇo ← víṣṇu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ स्तोतारः पू॒र्व्यं यथा॑ वि॒द ऋ॒तस्य॒ गर्भं॑ ज॒नुषा॑ पिपर्तन ।  
+आस्य॑ जा॒नन्तो॒ नाम॑ चिद्विवक्तन म॒हस्ते॑ विष्णो सुम॒तिं भ॑जामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
     one's share; partake; share; get; approach; love; use.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

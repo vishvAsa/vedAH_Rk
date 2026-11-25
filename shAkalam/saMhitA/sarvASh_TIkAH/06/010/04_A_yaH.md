@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ pāvakáḥ ← pāvaká- (nominal stem)
 
 tirás ← tirás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यः प॒प्रौ जाय॑मान उ॒र्वी दू॑रे॒दृशा॑ भा॒सा कृ॒ष्णाध्वा॑ ।  
+अध॑ ब॒हु चि॒त्तम॒ ऊर्म्या॑यास्ति॒रः शो॒चिषा॑ ददृशे पाव॒कः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     vahni.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

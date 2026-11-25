@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -55,7 +56,11 @@ syā́t ← √as- 1 (root)
 
 vasūyúḥ ← vasūyú- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ नः॒ स्तोमं॒ त्वष्टा॑ जुषेत॒ स्याद॒स्मे अ॒रम॑तिर्वसू॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +123,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

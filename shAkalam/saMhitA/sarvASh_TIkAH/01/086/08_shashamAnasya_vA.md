@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -54,7 +55,12 @@ vénataḥ ← √ven- (root)
 
 vidá ← √vid- 2 (root)  
 {number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒श॒मा॒नस्य॑ वा नरः॒ स्वेद॑स्य सत्यशवसः ।  
+वि॒दा काम॑स्य॒ वेन॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “circulate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

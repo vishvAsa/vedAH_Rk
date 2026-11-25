@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -83,7 +84,12 @@ dīdā́ya ← √dī- 1 (root)
 
 ghr̥tánirṇik ← ghr̥tánirṇij- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमस्मे॑रा युव॒तयो॒ युवा॑नं मर्मृ॒ज्यमा॑नाः॒ परि॑ य॒न्त्यापः॑ ।  
+स शु॒क्रेभिः॒ शिक्व॑भी रे॒वद॒स्मे दी॒दाया॑नि॒ध्मो घृ॒तनि॑र्णिग॒प्सु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

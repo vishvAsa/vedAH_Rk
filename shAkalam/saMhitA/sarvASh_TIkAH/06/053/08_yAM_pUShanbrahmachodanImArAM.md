@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -71,7 +72,12 @@ kr̥ṇu ← √kr̥- (root)
 
 rikha ← √rikh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यां पू॑षन्ब्रह्म॒चोद॑नी॒मारां॒ बिभ॑र्ष्याघृणे ।  
+तया॑ समस्य॒ हृद॑य॒मा रि॑ख किकि॒रा कृ॑णु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -212,7 +217,6 @@ with it shred the heart of each one, make it shrapnel.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -222,7 +226,6 @@ I do wonder whether the original phrase read *kuru for *kṛṇu. The former is,
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

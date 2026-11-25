@@ -4,6 +4,7 @@ devataa = "दैव्यौ होतारौ प्रचेतसौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दैव्यौ होतारौ प्रचेतसौ
@@ -89,7 +90,12 @@ sā́nuṣu ← sā́nu- ~ snú- (nominal stem)
 
 triṣú ← trí- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दैव्या॒ होता॑रा प्रथ॒मा वि॒दुष्ट॑र ऋ॒जु य॑क्षतः॒ समृ॒चा व॒पुष्ट॑रा ।  
+दे॒वान्यज॑न्तावृतु॒था सम॑ञ्जतो॒ नाभा॑ पृथि॒व्या अधि॒ सानु॑षु त्रि॒षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “three; tri/tisṛ \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

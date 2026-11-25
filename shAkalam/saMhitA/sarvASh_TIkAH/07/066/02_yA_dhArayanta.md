@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -18,7 +19,7 @@ ChandaH = "गायत्री"
 असुर्या᳙य प्र᳓महसा
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 या धा॒रय॑न्त दे॒वा सु॒दक्षा॒ दक्ष॑पितारा ।
 अ॒सु॒र्या॑य॒ प्रम॑हसा ।
@@ -57,7 +58,12 @@ asuryā̀ya ← asuryà- (nominal stem)
 
 prámahasā ← prámahas- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या धा॒रय॑न्त दे॒वाः सु॒दक्षा॒ दक्ष॑पितरा ।  
+अ॒सु॒र्या॑य॒ प्रम॑हसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - \[noun\], accusative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -138,7 +143,6 @@ _________
 _____________
 **देवा** सर्वे ऽपीन्द्रादयो देवाः  
 **सुदक्षा** सुष्ठु दक्षौ कुशलौ **दक्षपितारा** दक्षस्य कर्मणः पालकौ **यौ** मित्रावरुणौ **प्रमहसा** प्रकृष्टेन तेजसा **असुर्याय** असुरसंबन्धिने विनाशाय **अधारयन्त** चित्ते धृतवन्तो मित्रावरुणाव् एवासुरान् विनाशयत इत्येवं निश्चितवन्तः ।
-
 </details>
 
 <details><summary>Wilson</summary>

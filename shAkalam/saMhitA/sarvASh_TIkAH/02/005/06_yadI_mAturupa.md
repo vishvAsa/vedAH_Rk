@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ vr̥ṣṭī́ ← vr̥ṣṭí- (nominal stem)
 
 yávaḥ ← yáva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदी॑ मा॒तुरुप॒ स्वसा॑ घृ॒तं भर॒न्त्यस्थि॑त ।  
+तासा॑मध्व॒र्युराग॑तौ॒ यवो॑ वृ॒ष्टीव॑ मोदते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “rejoice; delight; revel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

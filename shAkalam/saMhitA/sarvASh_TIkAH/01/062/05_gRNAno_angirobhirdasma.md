@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ rájaḥ ← rájas- (nominal stem)
 
 úparam ← úpara- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गृ॒णा॒नो अङ्गि॑रोभिर्दस्म॒ वि व॑रु॒षसा॒ सूर्ये॑ण॒ गोभि॒रन्धः॑ ।  
+वि भूम्या॑ अप्रथय इन्द्र॒ सानु॑ दि॒वो रज॒ उप॑रमस्तभायः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - \[verb\], singular, Imperfect
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

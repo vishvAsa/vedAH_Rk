@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -86,7 +87,12 @@ yahvī́ḥ ← yahvī́- (nominal stem)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पां नपा॒दा ह्यस्था॑दु॒पस्थं॑ जि॒ह्माना॑मू॒र्ध्वो वि॒द्युतं॒ वसा॑नः ।  
+तस्य॒ ज्येष्ठं॑ महि॒मानं॒ वह॑न्ती॒र्हिर॑ण्यवर्णाः॒ परि॑ यन्ति य॒ह्वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “youngest; youthful; active.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋतवः द्रविणोदाः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतवः द्रविणोदाः
@@ -63,7 +64,12 @@ naḥ ← ahám (pronoun)
 
 sma ← sma (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्त्वा॑ तु॒रीय॑मृ॒तुभि॒र्द्रवि॑णोदो॒ यजा॑महे ।  
+अध॑ स्मा नो द॒दिर्भ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -104,7 +105,12 @@ santu ← √as- 1 (root)
 
 suhávāni ← suháva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नो॑ धा॒ता शमु॑ ध॒र्ता नो॑ अस्तु॒ शं न॑ उरू॒ची भ॑वतु स्व॒धाभिः॑ ।  
+शं रोद॑सी बृह॒ती शं नो॒ अद्रिः॒ शं नो॑ दे॒वानां॑ सु॒हवा॑नि सन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -272,7 +278,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्राविष्णू"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राविष्णू
@@ -74,7 +75,12 @@ somadhā́naḥ ← somadhā́na- (nominal stem)
 
 sthaḥ ← √as- 1 (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑विष्णू ह॒विषा॑ वावृधा॒नाग्रा॑द्वाना॒ नम॑सा रातहव्या ।  
+घृता॑सुती॒ द्रवि॑णं धत्तम॒स्मे स॑मु॒द्रः स्थः॑ क॒लशः॑ सोम॒धानः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “containing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

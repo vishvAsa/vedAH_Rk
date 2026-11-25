@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ jyótiḥ ← jyótis- (nominal stem)
 
 urú ← urú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यवं॒ वृके॑णाश्विना॒ वप॒न्तेषं॑ दु॒हन्ता॒ मनु॑षाय दस्रा ।  
+अ॒भि दस्युं॒ बकु॑रेणा॒ धम॑न्तो॒रु ज्योति॑श्चक्रथु॒रार्या॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

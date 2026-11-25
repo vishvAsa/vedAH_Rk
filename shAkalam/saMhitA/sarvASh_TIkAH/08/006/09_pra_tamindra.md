@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ prá ← prá (invariable)
 
 pūrvácittaye ← pūrvácitti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र तमि॑न्द्र नशीमहि र॒यिं गोम॑न्तम॒श्विन॑म् ।  
+प्र ब्रह्म॑ पू॒र्वचि॑त्तये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “Pūrvacitti.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ mádaḥ ← máda- (nominal stem)
 
 pavate ← √pū- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्रो॑तिः श॒ताम॑घो वि॒मानो॒ रज॑सः क॒विः ।  
+इन्द्रा॑य पवते॒ मदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -150,7 +155,6 @@ the exhilarating drink purifies himself for Indra.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -158,7 +162,6 @@ The first two vss. contain forms of kaví-. The epithet “wide-going” (urugā
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

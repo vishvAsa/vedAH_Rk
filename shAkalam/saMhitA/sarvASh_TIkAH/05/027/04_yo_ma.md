@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्र्यरुणस्त्रैवृष्णस्त्रसदस्युः पौरुकुत्सः भारतोश्वमेधश्च राजानः भौमोत्रिर्वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ medhā́m ← medhā́- (nominal stem)
 
 r̥tāyaté ← √r̥tāy- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो म॒ इति॑ प्र॒वोच॒त्यश्व॑मेधाय सू॒रये॑ ।  
+दद॑दृ॒चा स॒निं य॒ते दद॑न्मे॒धामृ॑ताय॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - \[verb noun\], dative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

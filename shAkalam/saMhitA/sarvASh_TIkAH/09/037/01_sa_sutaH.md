@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ rákṣāṁsi ← rákṣas- (nominal stem)
 
 vighnán ← √han- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सु॒तः पी॒तये॒ वृषा॒ सोमः॑ प॒वित्रे॑ अर्षति ।  
+वि॒घ्नन्रक्षां॑सि देव॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “devout; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

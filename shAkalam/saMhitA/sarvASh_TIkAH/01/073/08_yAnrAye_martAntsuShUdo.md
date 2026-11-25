@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ antárikṣam ← antárikṣa- (nominal stem)
 
 ródasī ← ródasī- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यान्रा॒ये मर्ता॒न्त्सुषू॑दो अग्ने॒ ते स्या॑म म॒घवा॑नो व॒यं च॑ ।  
+छा॒येव॒ विश्वं॒ भुव॑नं सिसक्ष्यापप्रि॒वान्रोद॑सी अ॒न्तरि॑क्षम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “sky; atmosphere; air; abhra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

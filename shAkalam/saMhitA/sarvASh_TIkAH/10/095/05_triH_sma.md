@@ -4,6 +4,7 @@ devataa = "पुरूरवा ऐळः"
 RShiH = "उर्वशी ऋषिका"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरूरवा ऐळः
@@ -98,7 +99,12 @@ tát ← sá- ~ tá- (pronoun)
 
 vīra ← vīrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिः स्म॒ माह्नः॑ श्नथयो वैत॒सेनो॒त स्म॒ मेऽव्य॑त्यै पृणासि ।  
+पुरू॑र॒वोऽनु॑ ते॒ केत॑मायं॒ राजा॑ मे वीर त॒न्व१॒॑स्तदा॑सीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

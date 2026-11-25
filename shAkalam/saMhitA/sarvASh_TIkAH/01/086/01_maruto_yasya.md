@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -17,12 +18,12 @@ ChandaH = "गायत्री"
 पाथा᳓ दिवो᳓ विमहसः  
 स᳓ सुगोपा᳓तमो ज᳓नः
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 मरु॑तो॒ यस्य॒ हि [46]  क्षये॑ पा॒था दि॒वो वि॑महसः ।  
 स सु॑गो॒पात॑मो॒ जनः॑ ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -66,7 +67,12 @@ sá ← sá- ~ tá- (pronoun)
 
 sugopā́tamaḥ ← sugopā́tama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मरु॑तो॒ यस्य॒ हि क्षये॑ पा॒था दि॒वो वि॑महसः ।  
+स सु॑गो॒पात॑मो॒ जनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -154,7 +159,6 @@ _____________
 
 हे मरुतो दिवो द्युलोकादागता यूयं यस्य यजमानस्य क्षये गृहे पाथ रक्षां कुरुथ।   कीदृशा मरुतः, विमहसो विशिष्टं महस्तेजो येषान्ते विमहसः।   स जनस्तादृशो यजमानः सुगोपातमोऽतिशयेन रक्षको भवतु।
 </details>
-
 
 <details><summary>Wilson</summary>
 

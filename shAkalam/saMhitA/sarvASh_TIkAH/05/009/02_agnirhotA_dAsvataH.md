@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गय आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ sám ← sám (invariable)
 
 vā́jāsaḥ ← vā́ja- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्होता॒ दास्व॑तः॒ क्षय॑स्य वृ॒क्तब॑र्हिषः ।  
+सं य॒ज्ञास॒श्चर॑न्ति॒ यं सं वाजा॑सः श्रव॒स्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “celebrated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

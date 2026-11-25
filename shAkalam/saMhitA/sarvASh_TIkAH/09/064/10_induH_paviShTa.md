@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ rathī́ḥ ← rathī́- (nominal stem)
 
 sr̥ját ← √sr̥j- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दुः॑ पविष्ट॒ चेत॑नः प्रि॒यः क॑वी॒नां म॒ती ।  
+सृ॒जदश्वं॑ र॒थीरि॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -163,7 +168,6 @@ Like a charioteer his horse, it has released (its wave),
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -171,7 +175,6 @@ There are some unifying features in this tṛca. Although this is hardly strikin
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

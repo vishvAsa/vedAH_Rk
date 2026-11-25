@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कतो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ práti ← práti (invariable)
 
 pratīcī́ḥ ← pratyáñc- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भवा॑ नो अग्ने सु॒मना॒ उपे॑तौ॒ सखे॑व॒ सख्ये॑ पि॒तरे॑व सा॒धुः ।  
+पु॒रु॒द्रुहो॒ हि क्षि॒तयो॒ जना॑नां॒ प्रति॑ प्रती॒चीर्द॑हता॒दरा॑तीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “hostility; adversity; foe; envy; stinginess.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ trātā́ ← trātár- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्जो नपा॑तं॒ स हि॒नायम॑स्म॒युर्दाशे॑म ह॒व्यदा॑तये ।  
+भुव॒द्वाजे॑ष्ववि॒ता भुव॑द्वृ॒ध उ॒त त्रा॒ता त॒नूना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “body; self; own(a); person; form.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

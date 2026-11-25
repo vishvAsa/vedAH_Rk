@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -98,7 +99,12 @@ janáya ← √janⁱ- (root)
 
 mánuḥ ← mánu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तन्तुं॑ त॒न्वन्रज॑सो भा॒नुमन्वि॑हि॒ ज्योति॑ष्मतः प॒थो र॑क्ष धि॒या कृ॒तान् ।  
+अ॒नु॒ल्ब॒णं व॑यत॒ जोगु॑वा॒मपो॒ मनु॑र्भव ज॒नया॒ दैव्यं॒ जन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

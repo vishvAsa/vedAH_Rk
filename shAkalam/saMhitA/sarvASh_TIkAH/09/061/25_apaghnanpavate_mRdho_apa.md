@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ gáchan ← √gam- (root)
 
 niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒प॒घ्नन्प॑वते॒ मृधोऽप॒ सोमो॒ अरा॑व्णः ।  
+गच्छ॒न्निन्द्र॑स्य निष्कृ॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “place; rendezvous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -152,7 +157,6 @@ Smashing away the scorners, away the ungenerous, Soma purifies himself, going to
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -160,7 +164,6 @@ This tṛca focuses even more strongly on combat, with forms of √han in 25 and
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

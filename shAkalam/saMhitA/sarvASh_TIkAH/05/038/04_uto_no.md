@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ asmábhyam ← ahám (pronoun)
 
 nr̥maṇasyase ← √nr̥maṇasy- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तो नो॑ अ॒स्य कस्य॑ चि॒द्दक्ष॑स्य॒ तव॑ वृत्रहन् ।  
+अ॒स्मभ्यं॑ नृ॒म्णमा भ॑रा॒स्मभ्यं॑ नृमणस्यसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

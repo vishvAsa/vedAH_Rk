@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -77,7 +78,12 @@ kuśikā́saḥ ← kuśiká- (nominal stem)
 
 raṇvám ← raṇvá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वै॒श्वा॒न॒रं मन॑सा॒ग्निं नि॒चाय्या॑ ह॒विष्म॑न्तो अनुष॒त्यं स्व॒र्विद॑म् ।  
+सु॒दानुं॑ दे॒वं र॑थि॒रं व॑सू॒यवो॑ गी॒र्भी र॒ण्वं कु॑शि॒कासो॑ हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

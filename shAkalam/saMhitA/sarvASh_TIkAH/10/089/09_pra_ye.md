@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vŕ̥ṣan ← vŕ̥ṣan- (nominal stem)
 
 vŕ̥ṣāṇam ← vŕ̥ṣan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ये मि॒त्रं प्रार्य॒मणं॑ दु॒रेवाः॒ प्र सं॒गिरः॒ प्र वरु॑णं मि॒नन्ति॑ ।  
+न्य१॒॑मित्रे॑षु व॒धमि॑न्द्र॒ तुम्रं॒ वृष॒न्वृषा॑णमरु॒षं शि॑शीहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “sharpen; whet; strengthen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

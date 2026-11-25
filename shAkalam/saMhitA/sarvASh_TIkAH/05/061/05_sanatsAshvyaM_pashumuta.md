@@ -4,6 +4,7 @@ devataa = "शशीयसी तरन्तमहिषी"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शशीयसी तरन्तमहिषी
@@ -68,7 +69,12 @@ upabárbr̥hat ← √br̥h- (root)
 
 vīrā́ya ← vīrá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सन॒त्साश्व्यं॑ प॒शुमु॒त गव्यं॑ श॒ताव॑यम् ।  
+श्या॒वाश्व॑स्तुताय॒ या दोर्वी॒रायो॑प॒बर्बृ॑हत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - \[verb\], singular, Present conjunctive (subjunctive)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

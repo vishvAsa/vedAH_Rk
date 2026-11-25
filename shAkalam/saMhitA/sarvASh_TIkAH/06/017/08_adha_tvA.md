@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ svàrṣātā ← svàrṣāti- (nominal stem)
 
 vr̥ṇate ← √vr̥- ~ vr̥̄- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॑ त्वा॒ विश्वे॑ पु॒र इ॑न्द्र दे॒वा एकं॑ त॒वसं॑ दधिरे॒ भरा॑य ।  
+अदे॑वो॒ यद॒भ्यौहि॑ष्ट दे॒वान्त्स्व॑र्षाता वृणत॒ इन्द्र॒मत्र॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     alternatively; now.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

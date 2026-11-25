@@ -4,6 +4,7 @@ devataa = "द्रुघण इन्द्रो वा"
 RShiH = "मुद्गलो भार्म्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रुघण इन्द्रो वा
@@ -83,7 +84,12 @@ r̥chánti ← √r̥- 2 (root)
 
 sma ← sma (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒कर्द॑वे वृष॒भो यु॒क्त आ॑सी॒दवा॑वची॒त्सार॑थिरस्य के॒शी ।  
+दुधे॑र्यु॒क्तस्य॒ द्रव॑तः स॒हान॑स ऋ॒च्छन्ति॑ ष्मा नि॒ष्पदो॑ मुद्ग॒लानी॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - \[noun\], accusative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

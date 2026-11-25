@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "देवापिरार्ष्टिषेणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -83,7 +84,12 @@ mádhumān ← mádhumant- (nominal stem)
 
 viveśa ← √viś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे धे॑हि द्यु॒मतीं॒ वाच॑मा॒सन्बृह॑स्पते अनमी॒वामि॑षि॒राम् ।  
+यया॑ वृ॒ष्टिं शन्त॑नवे॒ वना॑व दि॒वो द्र॒प्सो मधु॑माँ॒ आ वि॑वेश ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

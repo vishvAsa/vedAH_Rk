@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ havāmahe ← √hū- (root)
 
 vā́je ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यमु॒ त्वाम॑पूर्व्य स्थू॒रं न कच्चि॒द्भर॑न्तोऽव॒स्यवः॑ ।  
+वाजे॑ चि॒त्रं ह॑वामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

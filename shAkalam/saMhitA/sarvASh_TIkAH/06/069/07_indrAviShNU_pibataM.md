@@ -4,6 +4,7 @@ devataa = "इन्द्राविष्णू"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राविष्णू
@@ -86,7 +87,12 @@ me ← ahám (pronoun)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑विष्णू॒ पिब॑तं॒ मध्वो॑ अ॒स्य सोम॑स्य दस्रा ज॒ठरं॑ पृणेथाम् ।  
+आ वा॒मन्धां॑सि मदि॒राण्य॑ग्म॒न्नुप॒ ब्रह्मा॑णि शृणुतं॒ हवं॑ मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

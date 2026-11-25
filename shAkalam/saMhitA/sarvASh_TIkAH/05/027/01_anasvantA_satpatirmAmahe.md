@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्र्यरुणस्त्रैवृष्णस्त्रसदस्युः पौरुकुत्सः भारतोश्वमेधश्च राजानः भौमोत्रिर्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ tryàruṇaḥ ← tryàruṇa- (nominal stem)
 
 vaíśvānara ← vaiśvānará- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अन॑स्वन्ता॒ सत्प॑तिर्मामहे मे॒ गावा॒ चेति॑ष्ठो॒ असु॑रो म॒घोनः॑ ।  
+त्रै॒वृ॒ष्णो अ॑ग्ने द॒शभिः॑ स॒हस्रै॒र्वैश्वा॑नर॒ त्र्य॑रुणश्चिकेत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

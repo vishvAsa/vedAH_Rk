@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ satyám ← satyá- (nominal stem)
 
 tvā́vān ← tvā́vant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं भु॑वः प्रति॒मानं॑ पृथि॒व्या ऋ॒ष्ववी॑रस्य बृह॒तः पति॑र्भूः ।  
+विश्व॒माप्रा॑ अ॒न्तरि॑क्षं महि॒त्वा स॒त्यम॒द्धा नकि॑र॒न्यस्त्वावा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

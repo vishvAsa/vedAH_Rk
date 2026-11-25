@@ -4,6 +4,7 @@ devataa = "ऐन्द्रो वसुक्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऐन्द्रो वसुक्रः
@@ -86,7 +87,12 @@ karṣat ← √kr̥ṣ- (root)
 
 tásmai ← sá- ~ tá- (pronoun)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒प॒र्ण इ॒त्था न॒खमा सि॑षा॒याव॑रुद्धः परि॒पदं॒ न सिं॒हः ।  
+नि॒रु॒द्धश्चि॑न्महि॒षस्त॒र्ष्यावा॑न्गो॒धा तस्मा॑ अ॒यथं॑ कर्षदे॒तत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “this; he,she,it (pers. pron.); etad \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ mártyānām ← mártya- (nominal stem)
 
 r̥ṣikŕ̥t ← r̥ṣikŕ̥t- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒माम॑ग्ने श॒रणिं॑ मीमृषो न इ॒ममध्वा॑नं॒ यमगा॑म दू॒रात् ।  
+आ॒पिः पि॒ता प्रम॑तिः सो॒म्यानां॒ भृमि॑रस्यृषि॒कृन्मर्त्या॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

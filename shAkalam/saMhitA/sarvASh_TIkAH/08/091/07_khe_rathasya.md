@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अपालात्रेयी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ trís ← trís (invariable)
 
 sū́ryatvacam ← sū́ryatvac- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+खे रथ॑स्य॒ खेऽन॑सः॒ खे यु॒गस्य॑ शतक्रतो ।  
+अ॒पा॒लामि॑न्द्र॒ त्रिष्पू॒त्व्यकृ॑णोः॒ सूर्य॑त्वचम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -212,14 +217,12 @@ The next three hymns, 92–94, should be grouped together, according to Oldenber
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/091/05-07.md">
 <details><summary><h2>05-07 ...{Loading}...</h2></summary>
 
 On the connection between hair growth and skin disease, see Jamison 1991: 146-70.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

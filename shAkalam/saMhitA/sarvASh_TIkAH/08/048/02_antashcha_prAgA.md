@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -89,7 +90,12 @@ r̥dhyāḥ ← √r̥dh- (root)
 
 śraúṣṭī ← śraúṣṭi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न्तश्च॒ प्रागा॒ अदि॑तिर्भवास्यवया॒ता हर॑सो॒ दैव्य॑स्य ।  
+इन्द॒विन्द्र॑स्य स॒ख्यं जु॑षा॒णः श्रौष्टी॑व॒ धुर॒मनु॑ रा॒य ऋ॑ध्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “boom; stick to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

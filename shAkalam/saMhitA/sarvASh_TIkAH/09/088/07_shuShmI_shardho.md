@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ sahásrāpsāḥ ← sahásrāpsas- (nominal stem)
 
 yajñáḥ ← yajñá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒ष्मी शर्धो॒ न मारु॑तं पव॒स्वान॑भिशस्ता दि॒व्या यथा॒ विट् ।  
+आपो॒ न म॒क्षू सु॑म॒तिर्भ॑वा नः स॒हस्रा॑प्साः पृतना॒षाण्न य॒ज्ञः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

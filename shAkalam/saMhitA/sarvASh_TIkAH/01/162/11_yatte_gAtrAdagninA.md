@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -95,7 +96,12 @@ tát ← sá- ~ tá- (pronoun)
 
 uśádbhyaḥ ← √vaś- (root)  
 {case:DAT, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्ते॒ गात्रा॑द॒ग्निना॑ प॒च्यमा॑नाद॒भि शूलं॒ निह॑तस्याव॒धाव॑ति ।  
+मा तद्भूम्या॒मा श्रि॑ष॒न्मा तृणे॑षु दे॒वेभ्य॒स्तदु॒शद्भ्यो॑ रा॒तम॑स्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

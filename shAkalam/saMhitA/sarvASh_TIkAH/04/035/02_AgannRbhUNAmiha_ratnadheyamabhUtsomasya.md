@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -83,7 +84,12 @@ caturdhā́ ← caturdhā́ (invariable)
 
 vicakrá ← √kr̥- (root)  
 {number:PL, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आग॑न्नृभू॒णामि॒ह र॑त्न॒धेय॒मभू॒त्सोम॑स्य॒ सुषु॑तस्य पी॒तिः ।  
+सु॒कृ॒त्यया॒ यत्स्व॑प॒स्यया॑ चँ॒ एकं॑ विच॒क्र च॑म॒सं च॑तु॒र्धा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “fourfold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

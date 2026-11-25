@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ ukthā́ni ← ukthá- (nominal stem)
 
 vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गि॒रीँरज्रा॒न्रेज॑मानाँ अधारय॒द्द्यौः क्र॑न्दद॒न्तरि॑क्षाणि कोपयत् ।  
+स॒मी॒ची॒ने धि॒षणे॒ वि ष्क॑भायति॒ वृष्णः॑ पी॒त्वा मद॑ उ॒क्थानि॑ शंसति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

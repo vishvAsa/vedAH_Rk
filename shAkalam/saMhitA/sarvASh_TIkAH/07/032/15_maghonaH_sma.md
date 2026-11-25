@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ tarema ← √tr̥̄- 1 (root)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒घोनः॑ स्म वृत्र॒हत्ये॑षु चोदय॒ ये दद॑ति प्रि॒या वसु॑ ।  
+तव॒ प्रणी॑ती हर्यश्व सू॒रिभि॒र्विश्वा॑ तरेम दुरि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “danger; sin; difficulty; difficulty; evil.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

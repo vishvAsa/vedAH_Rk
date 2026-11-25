@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ indra ← índra- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्र्य॑र्य॒मा मनु॑षो दे॒वता॑ता॒ त्री रो॑च॒ना दि॒व्या धा॑रयन्त ।  
+अर्च॑न्ति त्वा म॒रुतः॑ पू॒तद॑क्षा॒स्त्वमे॑षा॒मृषि॑रिन्द्रासि॒ धीरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “expert; wise; intelligent; versed; adept.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

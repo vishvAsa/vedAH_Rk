@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ nasanta ← √nas- (root)
 
 surabhíṣṭamam ← surabhíṣṭama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त न॑ ईं म॒तयोऽश्व॑योगाः॒ शिशुं॒ न गाव॒स्तरु॑णं रिहन्ति ।  
+तमीं॒ गिरो॒ जन॑यो॒ न पत्नीः॑ सुर॒भिष्ट॑मं न॒रां न॑सन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - \[verb\], plural, Present injunctive
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

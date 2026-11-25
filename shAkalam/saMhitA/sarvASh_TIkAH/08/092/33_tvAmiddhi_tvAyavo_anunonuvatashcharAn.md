@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ kārávaḥ ← kārú- (nominal stem)
 
 sákhāyaḥ ← sákhi- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वामिद्धि त्वा॒यवो॑ऽनु॒नोनु॑वत॒श्चरा॑न् ।  
+सखा॑य इन्द्र का॒रवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “poet; singer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

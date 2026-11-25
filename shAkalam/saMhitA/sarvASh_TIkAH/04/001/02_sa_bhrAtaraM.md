@@ -4,6 +4,7 @@ devataa = "अग्निः अग्नीवरुणौ वा"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः अग्नीवरुणौ वा
@@ -85,7 +86,12 @@ carṣaṇīdhŕ̥tam ← carṣaṇīdhŕ̥t- (nominal stem)
 
 rā́jānam ← rā́jan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स भ्रात॑रं॒ वरु॑णमग्न॒ आ व॑वृत्स्व दे॒वाँ अच्छा॑ सुम॒ती य॒ज्ञव॑नसं॒ ज्येष्ठं॑ य॒ज्ञव॑नसम् ।  
+ऋ॒तावा॑नमादि॒त्यं च॑र्षणी॒धृतं॒ राजा॑नं चर्षणी॒धृत॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “maintaining.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

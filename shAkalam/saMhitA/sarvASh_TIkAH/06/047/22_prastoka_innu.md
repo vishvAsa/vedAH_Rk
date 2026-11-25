@@ -4,6 +4,7 @@ devataa = "प्रस्तोकस्य सांर्जयस्य द�
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - प्रस्तोकस्य सांर्जयस्य दानस्तुतिः
@@ -86,7 +87,12 @@ práti ← práti (invariable)
 
 vásu ← vásu- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒स्तो॒क इन्नु राध॑सस्त इन्द्र॒ दश॒ कोश॑यी॒र्दश॑ वा॒जिनो॑ऽदात् ।  
+दिवो॑दासादतिथि॒ग्वस्य॒ राधः॑ शाम्ब॒रं वसु॒ प्रत्य॑ग्रभीष्म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     touch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -86,7 +87,12 @@ raśmíḥ ← raśmí- (nominal stem)
 
 tatāna ← √tan- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि सु॑प॒र्णो अ॒न्तरि॑क्षाण्यख्यद्गभी॒रवे॑पा॒ असु॑रः सुनी॒थः ।  
+क्वे॒३॒॑दानीं॒ सूर्यः॒ कश्चि॑केत कत॒मां द्यां र॒श्मिर॒स्या त॑तान ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     speak; propagate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -92,7 +93,12 @@ párṣat ← √pr̥- (root)
 
 saścátaḥ ← saścát- (nominal stem)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स आ नो॒ योनिं॑ सदतु॒ प्रेष्ठो॒ बृह॒स्पति॑र्वि॒श्ववा॑रो॒ यो अस्ति॑ ।  
+कामो॑ रा॒यः सु॒वीर्य॑स्य॒ तं दा॒त्पर्ष॑न्नो॒ अति॑ स॒श्चतो॒ अरि॑ष्टान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “safe; unharmed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

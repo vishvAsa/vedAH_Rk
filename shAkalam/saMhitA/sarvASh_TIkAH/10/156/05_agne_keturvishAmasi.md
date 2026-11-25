@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "केतुराग्नेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ stotré ← stotár- (nominal stem)
 
 váyaḥ ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ के॒तुर्वि॒शाम॑सि॒ प्रेष्ठः॒ श्रेष्ठ॑ उपस्थ॒सत् ।  
+बोधा॑ स्तो॒त्रे वयो॒ दध॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

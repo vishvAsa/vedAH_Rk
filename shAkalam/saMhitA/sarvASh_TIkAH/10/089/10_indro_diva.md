@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ kṣéme ← kṣéma- (nominal stem)
 
 yóge ← yóga- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ दि॒व इन्द्र॑ ईशे पृथि॒व्या इन्द्रो॑ अ॒पामिन्द्र॒ इत्पर्व॑तानाम् ।  
+इन्द्रो॑ वृ॒धामिन्द्र॒ इन्मेधि॑राणा॒मिन्द्रः॒ क्षेमे॒ योगे॒ हव्य॒ इन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -252,13 +257,11 @@ _________
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
-
 indra rules the sky, indra rules the earth,   
 indra verily [rules] the waters, indra [rules] the mountains,  
 indra rules the strong, indra also rules the wise  
 indra must be invoked in peace and in clashes -- indra.
 </details>
-
 
 <details><summary>Wilson</summary>
 

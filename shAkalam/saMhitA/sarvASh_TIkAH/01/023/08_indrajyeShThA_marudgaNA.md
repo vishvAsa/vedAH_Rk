@@ -4,6 +4,7 @@ devataa = "इन्द्रो मरुत्वान्"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो मरुत्वान्
@@ -54,7 +55,12 @@ máma ← ahám (pronoun)
 
 víśve ← víśva- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ज्येष्ठा॒ मरु॑द्गणा॒ देवा॑सः॒ पूष॑रातयः ।  
+विश्वे॒ मम॑ श्रुता॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

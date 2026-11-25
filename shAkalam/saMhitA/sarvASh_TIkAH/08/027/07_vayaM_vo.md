@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -62,7 +63,12 @@ iddhā́gnayaḥ ← iddhā́gni- (nominal stem)
 
 manuṣvát ← manuṣvát (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं वो॑ वृ॒क्तब॑र्हिषो हि॒तप्र॑यस आनु॒षक् ।  
+सु॒तसो॑मासो वरुण हवामहे मनु॒ष्वदि॒द्धाग्न॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

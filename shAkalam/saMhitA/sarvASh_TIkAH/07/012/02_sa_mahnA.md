@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ naḥ ← ahám (pronoun)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स म॒ह्ना विश्वा॑ दुरि॒तानि॑ सा॒ह्वान॒ग्निः ष्ट॑वे॒ दम॒ आ जा॒तवे॑दाः ।  
+स नो॑ रक्षिषद्दुरि॒ताद॑व॒द्याद॒स्मान्गृ॑ण॒त उ॒त नो॑ म॒घोनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

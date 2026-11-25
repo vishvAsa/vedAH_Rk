@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ gáchan ← √gam- (root)
 
 niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष धि॒या या॒त्यण्व्या॒ शूरो॒ रथे॑भिरा॒शुभिः॑ ।  
+गच्छ॒न्निन्द्र॑स्य निष्कृ॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “place; rendezvous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

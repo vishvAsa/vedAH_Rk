@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "अष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -124,7 +125,12 @@ satyám ← satyá- (nominal stem)
 
 satyáḥ ← satyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिक॑द्रुकेषु महि॒षो यवा॑शिरं तुवि॒शुष्म॑स्तृ॒पत्सोम॑मपिब॒द्विष्णु॑ना सु॒तं यथाव॑शत् ।  
+स ईं॑ ममाद॒ महि॒ कर्म॒ कर्त॑वे म॒हामु॒रुं सैनं॑ सश्चद्दे॒वो दे॒वं स॒त्यमिन्द्रं॑ स॒त्य इन्दुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -332,7 +338,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

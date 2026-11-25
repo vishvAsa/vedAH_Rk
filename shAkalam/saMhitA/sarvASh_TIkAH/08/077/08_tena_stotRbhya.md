@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ r̥bhuṣṭhira ← r̥bhuṣṭhira- (nominal stem)
 
 sadyás ← sadyás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तेन॑ स्तो॒तृभ्य॒ आ भ॑र॒ नृभ्यो॒ नारि॑भ्यो॒ अत्त॑वे ।  
+स॒द्यो जा॒त ऋ॑भुष्ठिर ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ ugrám ← ugrá- (nominal stem)
 
 vītírādhasam ← vītírādhas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॒येन्दुं॑ पुनीतनो॒ग्रं दक्षा॑य॒ साध॑नम् ।  
+ई॒शा॒नं वी॒तिरा॑धसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -146,10 +151,6 @@ _________
 For Indra purify the drop, the strong one bringing success to skill, the lord whose largesse is worth pursuing.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although it may not be clear from the Engl. tr., the phrase beginning “the strong one … the lord” refer to Soma (in the acc.), not Indra (in the dat.).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -157,7 +158,6 @@ No overt signs of unity.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

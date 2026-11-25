@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "मृळीको वासिष्ठः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ mr̥ḷīkā́ya ← mr̥ḷīká- (nominal stem)
 
 puróhitaḥ ← puróhita- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निरत्रिं॑ भ॒रद्वा॑जं॒ गवि॑ष्ठिरं॒ प्राव॑न्नः॒ कण्वं॑ त्र॒सद॑स्युमाह॒वे ।  
+अ॒ग्निं वसि॑ष्ठो हवते पु॒रोहि॑तो मृळी॒काय॑ पु॒रोहि॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “Purohita; purohita \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

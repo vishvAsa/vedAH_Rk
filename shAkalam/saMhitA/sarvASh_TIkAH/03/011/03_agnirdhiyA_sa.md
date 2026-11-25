@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ hí ← hí (invariable)
 
 taráṇi ← taráṇi- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्धि॒या स चे॑तति के॒तुर्य॒ज्ञस्य॑ पू॒र्व्यः ।  
+अर्थं॒ ह्य॑स्य त॒रणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “energetic; agile.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

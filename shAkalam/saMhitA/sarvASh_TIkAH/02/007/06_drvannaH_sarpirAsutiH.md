@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ putráḥ ← putrá- (nominal stem)
 
 sáhasaḥ ← sáhas- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्र्व॑न्नः स॒र्पिरा॑सुतिः प्र॒त्नो होता॒ वरे॑ण्यः ।  
+सह॑सस्पु॒त्रो अद्भु॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “extraordinary; amazing; supernatural.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

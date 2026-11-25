@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -63,7 +64,12 @@ somapā́tamā ← somapā́tama- (nominal stem)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒हेन्द्रा॒ग्नी उप॑ ह्वये॒ तयो॒रित्स्तोम॑मुश्मसि ।  
+ता सोमं॑ सोम॒पात॑मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - \[noun\], nominative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

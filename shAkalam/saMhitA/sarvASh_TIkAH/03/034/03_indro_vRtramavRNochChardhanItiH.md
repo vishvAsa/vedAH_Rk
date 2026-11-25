@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ dhénāḥ ← dhénā- (nominal stem)
 
 rāmyā́ṇām ← rā́myā- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ वृ॒त्रम॑वृणो॒च्छर्ध॑नीतिः॒ प्र मा॒यिना॑ममिना॒द्वर्प॑णीतिः ।  
+अह॒न्व्यं॑समु॒शध॒ग्वने॑ष्वा॒विर्धेना॑ अकृणोद्रा॒म्याणा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “night; night.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

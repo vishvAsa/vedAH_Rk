@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ nr̥máṇāḥ ← nr̥máṇas- (nominal stem)
 
 snéhitīḥ ← snéhiti- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ द्र॒प्सो अं॑शु॒मती॑मतिष्ठदिया॒नः कृ॒ष्णो द॒शभिः॑ स॒हस्रैः॑ ।  
+आव॒त्तमिन्द्रः॒ शच्या॒ धम॑न्त॒मप॒ स्नेहि॑तीर्नृ॒मणा॑ अधत्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -275,10 +280,6 @@ Indra with his skill helped him as he blew.
 The manly minded one repelled the “blizzards” (of attacking warriors?).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The ca in c is one of the rare examples of subordinating ca in the RV, as shown by the accent induced on the verb vavártat; see Klein DGRV I.240-41. Its position, about which Klein does not comment, is peculiar, but it can probably be accounted for metrically. In this particular Atijagatī line (13 syl.), there is a natural break after the first two words (5 syllables), máṃhiṣṭho gīrbhír, and the rest of the line behaves as if it were a dimeter (8-syl.) line, ā́ca yajñíyo vavártat, with initial preverb followed by the enclitic conjunction.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -291,7 +292,6 @@ Schmidt (1968: 112-13) rejects Oldenberg’s interpretation and suggests that it
 I am inclined to see it as a treatment of the ritual step of rinsing the soma in water, as I said in the published introduction, though much remains murky.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

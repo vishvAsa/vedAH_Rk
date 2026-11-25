@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -70,7 +71,12 @@ te ← tvám (pronoun)
 
 vavakṣatuḥ ← √vakṣ- (root)  
 {number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑न्द्र पृत॒नाज्ये॑ दे॒वास्त्वा॑ दधि॒रे पु॒रः ।  
+आदित्ते॑ हर्य॒ता हरी॑ ववक्षतुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “grow; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -187,10 +192,6 @@ _________
 When, o Indra, at the battle-charge the gods set you in front, just after that your two beloved fallow bays waxed strong.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The opening verse of this tṛca echoes that of the last tṛca (22), with 22ab índram …, devā́so dadhire puráḥ matched by 25b devā́s tvā dadhiré puráḥ.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
 <details><summary><h2>25-28 ...{Loading}...</h2></summary>
 
@@ -198,7 +199,6 @@ The phonetic figure noted in VIII.6.36 dominates the next four verses: haryatā�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

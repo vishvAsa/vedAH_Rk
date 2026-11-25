@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ sahásrāya ← sahásra- (nominal stem)
 
 tŕ̥ṣyate ← √tr̥ṣ- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परा॑व॒तं ना॑सत्यानुदेथामु॒च्चाबु॑ध्नं चक्रथुर्जि॒ह्मबा॑रम् ।  
+क्षर॒न्नापो॒ न पा॒यना॑य रा॒ये स॒हस्रा॑य॒ तृष्य॑ते॒ गोत॑मस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “Gotama; gotama \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

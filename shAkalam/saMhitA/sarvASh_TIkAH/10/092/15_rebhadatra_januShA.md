@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ svádhitiḥ ← svádhiti- (nominal stem)
 
 vánanvati ← vánanvant- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रेभ॒दत्र॑ ज॒नुषा॒ पूर्वो॒ अङ्गि॑रा॒ ग्रावा॑ण ऊ॒र्ध्वा अ॒भि च॑क्षुरध्व॒रम् ।  
+येभि॒र्विहा॑या॒ अभ॑वद्विचक्ष॒णः पाथः॑ सु॒मेकं॒ स्वधि॑ति॒र्वन॑न्वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

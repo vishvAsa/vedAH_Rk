@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -60,7 +61,12 @@ satómahāntaḥ ← satómahānt- (nominal stem)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि वो॒ अस्त्य॑र्भ॒को देवा॑सो॒ न कु॑मार॒कः ।  
+विश्वे॑ स॒तोम॑हान्त॒ इत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “indeed; assuredly; entirely.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

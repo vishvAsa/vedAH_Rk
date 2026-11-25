@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ samithā́ ← samithá- (nominal stem)
 
 satyā́ ← satyá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रि॒ये जा॒तः श्रि॒य आ निरि॑याय॒ श्रियं॒ वयो॑ जरि॒तृभ्यो॑ दधाति ।  
+श्रियं॒ वसा॑ना अमृत॒त्वमा॑य॒न्भव॑न्ति स॒त्या स॑मि॒था मि॒तद्रौ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -83,7 +84,12 @@ utá ← utá (invariable)
 
 vidvā́n ← √vid- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हं॒सैरि॑व॒ सखि॑भि॒र्वाव॑दद्भिरश्म॒न्मया॑नि॒ नह॑ना॒ व्यस्य॑न् ।  
+बृह॒स्पति॑रभि॒कनि॑क्रद॒द्गा उ॒त प्रास्तौ॒दुच्च॑ वि॒द्वाँ अ॑गायत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “sing; praise; jap; recite; describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

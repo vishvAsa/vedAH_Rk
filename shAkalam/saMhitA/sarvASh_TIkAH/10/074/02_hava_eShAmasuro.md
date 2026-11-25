@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ svaíḥ ← svá- (pronoun)
 
 vā́rebhiḥ ← vā́ra- 2 (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हव॑ एषा॒मसु॑रो नक्षत॒ द्यां श्र॑वस्य॒ता मन॑सा निंसत॒ क्षाम् ।  
+चक्षा॑णा॒ यत्र॑ सुवि॒ताय॑ दे॒वा द्यौर्न वारे॑भिः कृ॒णव॑न्त॒ स्वैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     present(a); independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

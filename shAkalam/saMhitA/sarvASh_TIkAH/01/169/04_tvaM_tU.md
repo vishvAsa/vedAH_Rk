@@ -5,13 +5,13 @@ RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -100,7 +100,12 @@ stánam ← stána- (nominal stem)
 
 vā́jaiḥ ← vā́ja- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं तू न॑ इन्द्र॒ तं र॒यिं दा॒ ओजि॑ष्ठया॒ दक्षि॑णयेव रा॒तिम् ।  
+स्तुत॑श्च॒ यास्ते॑ च॒कन॑न्त वा॒योः स्तनं॒ न मध्वः॑ पीपयन्त॒ वाजैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +254,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -302,8 +306,6 @@ Du mögst uns, Indra, diesen Reichthum schenken, Geschenk wie durch die nahrungs
 А хвалы, что нравятся тебе (и) Ваю,  
 Пусть набухнут от наград, как грудь – от сладкого (молока)!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

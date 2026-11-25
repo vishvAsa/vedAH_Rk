@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tvena ← tva- (pronoun)
 
 yúdhyai ← √yudh- (root)  
 {number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाहमतो॒ निर॑या दु॒र्गहै॒तत्ति॑र॒श्चता॑ पा॒र्श्वान्निर्ग॑माणि ।  
+ब॒हूनि॑ मे॒ अकृ॑ता॒ कर्त्वा॑नि॒ युध्यै॑ त्वेन॒ सं त्वे॑न पृच्छै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “ask; ask; ask; consult; interrogate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

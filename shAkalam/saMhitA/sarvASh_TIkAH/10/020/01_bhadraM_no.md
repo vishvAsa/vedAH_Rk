@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "एकपदा विराट् (पाद एव वा शान्त्यर्थः)"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -41,7 +42,11 @@ naḥ ← ahám (pronoun)
 
 vātaya ← √vat- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रं नो॒ अपि॑ वातय॒ मनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -82,7 +87,6 @@ _________
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

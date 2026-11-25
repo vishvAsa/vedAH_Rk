@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पर्वतनारदौ द्वे शिखंडिन्यौ वा काश्यप्यावप्सरसौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -69,7 +70,12 @@ pári ← pári (invariable)
 
 yajñaíḥ ← yajñá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सखा॑य॒ आ नि षी॑दत पुना॒नाय॒ प्र गा॑यत ।  
+शिशुं॒ न य॒ज्ञैः परि॑ भूषत श्रि॒ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
     \[word\]; śrī; prosperity; auspiciousness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

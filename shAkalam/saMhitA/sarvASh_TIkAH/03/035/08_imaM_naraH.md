@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ svā́ḥ ← svá- (pronoun)
 
 vidvā́n ← √vid- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं नरः॒ पर्व॑ता॒स्तुभ्य॒मापः॒ समि॑न्द्र॒ गोभि॒र्मधु॑मन्तमक्रन् ।  
+तस्या॒गत्या॑ सु॒मना॑ ऋष्व पाहि प्रजा॒नन्वि॒द्वान्प॒थ्या॒३॒॑ अनु॒ स्वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     present(a); independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

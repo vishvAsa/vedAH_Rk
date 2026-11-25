@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ prajā́vat ← prajā́vant- (nominal stem)
 
 rétaḥ ← rétas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑स्य सोम॒ राध॑से॒ शं प॑वस्व विचर्षणे ।  
+प्र॒जाव॒द्रेत॒ आ भ॑र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -158,10 +163,6 @@ _________
 For the generosity of Indra, purify yourself as luck, o boundless Soma. Bring here semen providing offspring.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In addition to the chaining with the previous vs. (on which see immediately above), this vs. participates in other verbal echoes, as noted in the published introduction. The end of the 2nd pāda vicarṣaṇe forms a ring with vícarṣanim at the end of the 2nd pāda of vs. 1, and the last pāda, prajā́vad réta ā́bhara, is identical to the last pāda of the first vs. of the immediately preceding hymn, IX.59.1 prajā́vad rátnam ā́bhara, with the substitution of rétaḥ for rátnam. In our case the semen (rétaḥ) would be both the actual semen that produces offspring and the liquid soma that mimics it.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -169,7 +170,6 @@ Here the chaining involves only the first word índrasya.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

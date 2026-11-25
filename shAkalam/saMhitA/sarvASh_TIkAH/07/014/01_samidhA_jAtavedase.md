@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -62,7 +63,12 @@ dāśema ← √dāś- (root)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मिधा॑ जा॒तवे॑दसे दे॒वाय॑ दे॒वहू॑तिभिः ।  
+ह॒विर्भिः॑ शु॒क्रशो॑चिषे नम॒स्विनो॑ व॒यं दा॑शेमा॒ग्नये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

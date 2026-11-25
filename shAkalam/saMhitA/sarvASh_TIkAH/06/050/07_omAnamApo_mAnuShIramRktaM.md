@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sthātúḥ ← sthātár- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओ॒मान॑मापो मानुषी॒रमृ॑क्तं॒ धात॑ तो॒काय॒ तन॑याय॒ शं योः ।  
+यू॒यं हि ष्ठा भि॒षजो॑ मा॒तृत॑मा॒ विश्व॑स्य स्था॒तुर्जग॑तो॒ जनि॑त्रीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “mother.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ paúṁsyam ← paúṁsya- (nominal stem)
 
 vŕ̥ṣṇi ← vŕ̥ṣṇi- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि वृ॒त्रं प॑र्व॒शो य॑यु॒र्वि पर्व॑ताँ अरा॒जिनः॑ ।  
+च॒क्रा॒णा वृष्णि॒ पौंस्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “manfulness; deed; army; strength.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,12 +175,6 @@ They drove Vr̥tra apart, joint by joint, apart the mountains lacking  rules [/r
 performing a bullish manly deed.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-arājín- is a hapax. Though it is obviously derived from a root √rāj, it is not clear whether it belongs to ‘shine’ (so Grassmann ‘nicht glänzend’, Renou ‘sans éclat’) or ‘rule’ (Geldner ‘die herrenlosen Berge’; Oldenberg ‘königlos’) -- or both, as I suspect. Although neither root yields compelling sense as a negated quality of mountains, the phrase should be interpreted in light of 1c ví párvateṣu rājatha, where I see the same pun.
-
-It is possible that ví √yā should be rendered ‘drive through’, not ‘drive apart’, although this produces a less happy contrast with sám in vs. 22. In that case I would tr. “they drove through Vṛtra, joint by joint, (drove) through the mountains …” On vṛ́ṣṇi see comm. ad VIII.96.19.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/22-23.md">
 <details><summary><h2>22-23 ...{Loading}...</h2></summary>
 
@@ -183,7 +182,6 @@ The insistently repeated sám in vs. 22 (4x in 3 pādas) is complemented by its 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

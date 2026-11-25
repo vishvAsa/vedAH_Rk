@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -63,7 +64,12 @@ asmábhyam ← ahám (pronoun)
 
 randhaya ← √randh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ रि॑ख किकि॒रा कृ॑णु पणी॒नां हृद॑या कवे ।  
+अथे॑म॒स्मभ्यं॑ रन्धय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “subjugate; hand over.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,7 +183,6 @@ Shred them, make them shrapnel—the hearts of the niggards, you poet. And make 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -188,7 +192,6 @@ I do wonder whether the original phrase read *kuru for *kṛṇu. The former is,
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

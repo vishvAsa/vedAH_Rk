@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः सौचीको वैश्वानरो वा सप्तिर्वा वाजंभरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ púraṁdhim ← púraṁdhi- (nominal stem)
 
 vīrákukṣim ← vīrákukṣi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निः सप्तिं॑ वाजम्भ॒रं द॑दात्य॒ग्निर्वी॒रं श्रुत्यं॑ कर्मनि॒ष्ठाम् ।  
+अ॒ग्नी रोद॑सी॒ वि च॑रत्सम॒ञ्जन्न॒ग्निर्नारीं॑ वी॒रकु॑क्षिं॒ पुरं॑धिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “liberality; Puraṃdhi; munificence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

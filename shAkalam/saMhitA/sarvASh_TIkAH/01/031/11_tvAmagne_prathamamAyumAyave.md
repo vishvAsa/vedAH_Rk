@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ putráḥ ← putrá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने प्रथ॒ममा॒युमा॒यवे॑ दे॒वा अ॑कृण्व॒न्नहु॑षस्य वि॒श्पति॑म् ।  
+इळा॑मकृण्व॒न्मनु॑षस्य॒ शास॑नीं पि॒तुर्यत्पु॒त्रो मम॑कस्य॒ जाय॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

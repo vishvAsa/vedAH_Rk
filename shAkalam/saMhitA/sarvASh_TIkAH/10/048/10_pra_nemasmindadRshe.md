@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -89,7 +90,12 @@ druháḥ ← drúh- (nominal stem)
 
 tasthau ← √sthā- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र नेम॑स्मिन्ददृशे॒ सोमो॑ अ॒न्तर्गो॒पा नेम॑मा॒विर॒स्था कृ॑णोति ।  
+स ति॒ग्मशृ॑ङ्गं वृष॒भं युयु॑त्सन्द्रु॒हस्त॑स्थौ बहु॒ले ब॒द्धो अ॒न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “inside; in; antar \[word\]; midmost; between; among.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

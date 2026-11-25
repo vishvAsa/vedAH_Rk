@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tārīḥ ← √tr̥̄- 1 (root)
 
 víśaḥ ← víś- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आभिः॒ स्पृधो॑ मिथ॒तीररि॑षण्यन्न॒मित्र॑स्य व्यथया म॒न्युमि॑न्द्र ।  
+आभि॒र्विश्वा॑ अभि॒युजो॒ विषू॑ची॒रार्या॑य॒ विशोऽव॑ तारी॒र्दासीः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “dāsa(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

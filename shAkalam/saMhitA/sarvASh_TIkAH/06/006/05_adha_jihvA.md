@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ durvártuḥ ← durvártu- (nominal stem)
 
 vánāni ← vána- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॑ जि॒ह्वा पा॑पतीति॒ प्र वृष्णो॑ गोषु॒युधो॒ नाशनिः॑ सृजा॒ना ।  
+शूर॑स्येव॒ प्रसि॑तिः क्षा॒तिर॒ग्नेर्दु॒र्वर्तु॑र्भी॒मो द॑यते॒ वना॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

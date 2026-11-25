@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ adadhuḥ ← √dhā- 1 (root)
 
 tántum ← tántu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्विधा॑ सू॒नवोऽसु॑रं स्व॒र्विद॒मास्था॑पयन्त तृ॒तीये॑न॒ कर्म॑णा ।  
+स्वां प्र॒जां पि॒तरः॒ पित्र्यं॒ सह॒ आव॑रेष्वदधु॒स्तन्तु॒मात॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “expand; prolong; chant; inflate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ ghóṣaḥ ← ghóṣa- (nominal stem)
 
 íti ← íti (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र मा॑ युयुज्रे प्र॒युजो॒ जना॑नां॒ वहा॑मि स्म पू॒षण॒मन्त॑रेण ।  
+विश्वे॑ दे॒वासो॒ अध॒ माम॑रक्षन्दुः॒शासु॒रागा॒दिति॒ घोष॑ आसीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

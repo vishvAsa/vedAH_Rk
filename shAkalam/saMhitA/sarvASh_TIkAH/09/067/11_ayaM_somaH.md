@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः पूषा वा"
 RShiH = "अत्रिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः पूषा वा
@@ -63,7 +64,12 @@ kanyā̀su ← kanyā̀- ~ kanī́n- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं सोमः॑ कप॒र्दिने॑ घृ॒तं न प॑वते॒ मधु॑ ।  
+आ भ॑क्षत्क॒न्या॑सु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -172,10 +177,6 @@ This Soma here purifies himself, honeyed like ghee, for the one with  braided ha
 – He will give us a share in maidens.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-kapardín- is used of Pūṣan in VI.55.2, though it is also applied to a few other gods in the RV, notably Rudra (I.114.1, 5).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -187,7 +188,6 @@ Ober refines this somewhat by identifying the maidens as brides (e.g., I.320), b
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

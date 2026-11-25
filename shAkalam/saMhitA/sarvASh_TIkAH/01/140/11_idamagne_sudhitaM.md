@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -104,7 +105,12 @@ tvám ← tvám (pronoun)
 
 vanase ← √vanⁱ- (root)  
 {number:SG, person:2, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दम॑ग्ने॒ सुधि॑तं॒ दुर्धि॑ता॒दधि॑ प्रि॒यादु॑ चि॒न्मन्म॑नः॒ प्रेयो॑ अस्तु ते ।  
+यत्ते॑ शु॒क्रं त॒न्वो॒३॒॑ रोच॑ते॒ शुचि॒ तेना॒स्मभ्यं॑ वनसे॒ रत्न॒मा त्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -265,7 +271,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

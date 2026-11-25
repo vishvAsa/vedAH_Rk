@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ purāṇáḥ ← purāṇá- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒तं न श्व॒घ्नी वि चि॑नोति॒ देव॑ने सं॒वर्गं॒ यन्म॒घवा॒ सूर्यं॒ जय॑त् ।  
+न तत्ते॑ अ॒न्यो अनु॑ वी॒र्यं॑ शक॒न्न पु॑रा॒णो म॑घव॒न्नोत नूत॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -265,7 +271,6 @@ _________
 - “new; fresh; recent; contemporary; present(a); first.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

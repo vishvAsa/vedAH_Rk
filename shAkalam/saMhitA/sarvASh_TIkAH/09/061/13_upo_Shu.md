@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ devā́ḥ ← devá- (nominal stem)
 
 índum ← índu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपो॒ षु जा॒तम॒प्तुरं॒ गोभि॑र्भ॒ङ्गं परि॑ष्कृतम् ।  
+इन्दुं॑ दे॒वा अ॑यासिषुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -171,7 +176,6 @@ up to the drop have the gods traveled.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -179,7 +183,6 @@ Again no signs of tṛca unity, unless the presence of cows in all three verses 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

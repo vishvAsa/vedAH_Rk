@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ matíḥ ← matí- (nominal stem)
 
 vánanvatī ← vánanvant- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि कण्वा॑ अनूष॒तापो॒ न प्र॒वता॑ य॒तीः ।  
+इन्द्रं॒ वन॑न्वती म॒तिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
     desire; wish; conviction; plan; devotion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

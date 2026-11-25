@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -77,7 +78,12 @@ mahitvā́ ← mahitvá- (nominal stem)
 
 vaíśvānara ← vaiśvānará- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने शो॒चिषा॒ शोशु॑चान॒ आ रोद॑सी अपृणा॒ जाय॑मानः ।  
+त्वं दे॒वाँ अ॒भिश॑स्तेरमुञ्चो॒ वैश्वा॑नर जातवेदो महि॒त्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “greatness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

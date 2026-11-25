@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ dúdukṣan ← √duh- (root)
 
 sahásradhārām ← sahásradhāra- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ तत्त॑ इन्द्रा॒यवः॑ पनन्ता॒भि य ऊ॒र्वं गोम॑न्तं॒ तितृ॑त्सान् ।  
+स॒कृ॒त्स्वं१॒॑ ये पु॑रुपु॒त्रां म॒हीं स॒हस्र॑धारां बृह॒तीं दुदु॑क्षन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - \[verb\], plural, Present injunctive
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

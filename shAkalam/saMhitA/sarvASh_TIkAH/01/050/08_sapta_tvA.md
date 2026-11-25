@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -57,7 +58,12 @@ váhanti ← √vah- (root)
 
 vicakṣaṇa ← vicakṣaṇá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्त त्वा॑ ह॒रितो॒ रथे॒ वह॑न्ति देव सूर्य ।  
+शो॒चिष्के॑शं विचक्षण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,10 +165,6 @@ Sapta **haritaḥ** = seven rays; seven horses = seven days of the week; or, is 
 Seven fallow bay mares convey you, the flame-haired, in your chariot— o wide-gazing god Sun.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The reassignment of Agni epithets continues in this verse: śocíṣkeśa- ‘flamehaired’ is otherwise only of Agni.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/050/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -171,7 +172,6 @@ I assume that the seven mares of vs. 8 are the same as the sleek daughters (śun
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

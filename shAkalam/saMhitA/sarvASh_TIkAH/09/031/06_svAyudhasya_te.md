@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ sakhitvám ← sakhitvá- (nominal stem)
 
 uśmasi ← √vaś- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वा॒यु॒धस्य॑ ते स॒तो भुव॑नस्य पते व॒यम् ।  
+इन्दो॑ सखि॒त्वमु॑श्मसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “desire; agree; call; care; like; love.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

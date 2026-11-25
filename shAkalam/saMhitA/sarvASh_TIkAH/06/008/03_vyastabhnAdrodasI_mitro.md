@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ víśvam ← víśva- (nominal stem)
 
 vŕ̥ṣṇyam ← vŕ̥ṣṇya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्य॑स्तभ्ना॒द्रोद॑सी मि॒त्रो अद्भु॑तोऽन्त॒र्वाव॑दकृणो॒ज्ज्योति॑षा॒ तमः॑ ।  
+वि चर्म॑णीव धि॒षणे॑ अवर्तयद्वैश्वान॒रो विश्व॑मधत्त॒ वृष्ण्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “manfulness; virility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

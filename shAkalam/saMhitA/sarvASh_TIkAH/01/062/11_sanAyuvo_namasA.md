@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ spr̥śánti ← √spr̥ś- (root)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒ना॒युवो॒ नम॑सा॒ नव्यो॑ अ॒र्कैर्व॑सू॒यवो॑ म॒तयो॑ दस्म दद्रुः ।  
+पतिं॒ न पत्नी॑रुश॒तीरु॒शन्तं॑ स्पृ॒शन्ति॑ त्वा शवसावन्मनी॒षाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

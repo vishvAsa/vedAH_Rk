@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अतिधृतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -130,7 +131,13 @@ pánthām ← pánthā- ~ path- (nominal stem)
 
 śubhé ← śúbh- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि शर्धो॒ न मारु॑तं तुवि॒ष्वणि॒रप्न॑स्वतीषू॒र्वरा॑स्वि॒ष्टनि॒रार्त॑नास्वि॒ष्टनिः॑ ।  
+आद॑द्ध॒व्यान्या॑द॒दिर्य॒ज्ञस्य॑ के॒तुर॒र्हणा॑ ।  
+अध॑ स्मास्य॒ हर्ष॑तो॒ हृषी॑वतो॒ विश्वे॑ जुषन्त॒ पन्थां॒ नरः॑ शु॒भे न पन्था॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -314,7 +321,6 @@ _________
 - “way; road; path \[word\]; journey; method.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

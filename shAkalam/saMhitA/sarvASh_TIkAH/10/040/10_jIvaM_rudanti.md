@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ pariṣváje ← √svaj- (root)
 
 pátibhyaḥ ← páti- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जी॒वं रु॑दन्ति॒ वि म॑यन्ते अध्व॒रे दी॒र्घामनु॒ प्रसि॑तिं दीधियु॒र्नरः॑ ।  
+वा॒मं पि॒तृभ्यो॒ य इ॒दं स॑मेरि॒रे मयः॒ पति॑भ्यो॒ जन॑यः परि॒ष्वजे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “embrace.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

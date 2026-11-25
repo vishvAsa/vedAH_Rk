@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेणुर्वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -104,7 +105,12 @@ spar ← √spr̥- (root)
 
 yúdhyan ← √yudh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हि॒तो न सप्ति॑र॒भि वाज॑म॒र्षेन्द्र॑स्येन्दो ज॒ठर॒मा प॑वस्व ।  
+ना॒वा न सिन्धु॒मति॑ पर्षि वि॒द्वाञ्छूरो॒ न युध्य॒न्नव॑ नो नि॒दः स्पः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -261,7 +267,6 @@ _________
 - \[verb\], singular, Aorist inj. (proh.)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ prábhūtā ← √bhū- (root)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वानां॒ चक्षुः॑ सु॒भगा॒ वह॑न्ती श्वे॒तं नय॑न्ती सु॒दृशी॑क॒मश्व॑म् ।  
+उ॒षा अ॑दर्शि र॒श्मिभि॒र्व्य॑क्ता चि॒त्राम॑घा॒ विश्व॒मनु॒ प्रभू॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “arise; issue; can; happen; suffice; originate; succeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

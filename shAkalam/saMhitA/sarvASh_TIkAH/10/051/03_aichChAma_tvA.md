@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -77,7 +78,12 @@ atirócamānam ← √ruc- (root)
 
 daśāntaruṣyā́t ← daśāntaruṣyá- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऐच्छा॑म त्वा बहु॒धा जा॑तवेदः॒ प्रवि॑ष्टमग्ने अ॒प्स्वोष॑धीषु ।  
+तं त्वा॑ य॒मो अ॑चिकेच्चित्रभानो दशान्तरु॒ष्याद॑ति॒रोच॑मानम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “please; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

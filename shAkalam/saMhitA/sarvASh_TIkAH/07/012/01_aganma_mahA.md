@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ svā̀hutam ← svā̀huta- (nominal stem)
 
 viśvátas ← viśvátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग॑न्म म॒हा नम॑सा॒ यवि॑ष्ठं॒ यो दी॒दाय॒ समि॑द्धः॒ स्वे दु॑रो॒णे ।  
+चि॒त्रभा॑नुं॒ रोद॑सी अ॒न्तरु॒र्वी स्वा॑हुतं वि॒श्वतः॑ प्र॒त्यञ्च॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

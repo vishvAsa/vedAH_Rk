@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ naḥ ← ahám (pronoun)
 
 yáchantu ← √yam- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शृ॒ण्वन्तु॑ नो॒ वृष॑णः॒ पर्व॑तासो ध्रु॒वक्षे॑मास॒ इळ॑या॒ मद॑न्तः ।  
+आ॒दि॒त्यैर्नो॒ अदि॑तिः शृणोतु॒ यच्छ॑न्तु नो म॒रुतः॒ शर्म॑ भ॒द्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     fine-looking; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,7 +232,6 @@ Let Aditi with the Ādityas hear us. Let the Maruts extend to us  beneficial she
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/054/19-20.md">
 <details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -237,7 +241,6 @@ The call to the gods to hear us, found first in vs. 1, returns here at almost th
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

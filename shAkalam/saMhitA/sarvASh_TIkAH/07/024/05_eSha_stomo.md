@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ naḥ ← ahám (pronoun)
 
 śrómatam ← śrómata- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्तोमो॑ म॒ह उ॒ग्राय॒ वाहे॑ धु॒री॒३॒॑वात्यो॒ न वा॒जय॑न्नधायि ।  
+इन्द्र॑ त्वा॒यम॒र्क ई॑ट्टे॒ वसू॑नां दि॒वी॑व॒ द्यामधि॑ नः॒ श्रोम॑तं धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -263,7 +269,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

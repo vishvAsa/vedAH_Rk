@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -86,7 +87,12 @@ vavarha ← √vr̥h- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भरे॑षु॒ हव्यो॒ नम॑सोप॒सद्यो॒ गन्ता॒ वाजे॑षु॒ सनि॑ता॒ धनं॑धनम् ।  
+विश्वा॒ इद॒र्यो अ॑भिदि॒प्स्वो॒३॒॑ मृधो॒ बृह॒स्पति॒र्वि व॑वर्हा॒ रथाँ॑ इव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

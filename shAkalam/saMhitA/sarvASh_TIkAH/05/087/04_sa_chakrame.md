@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "एवयामरुदात्रेयः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -91,7 +92,12 @@ nŕ̥bhiḥ ← nár- (nominal stem)
 
 śévr̥dhaḥ ← śévr̥dha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स च॑क्रमे मह॒तो निरु॑रुक्र॒मः स॑मा॒नस्मा॒त्सद॑स एव॒याम॑रुत् ।  
+य॒दायु॑क्त॒ त्मना॒ स्वादधि॒ ष्णुभि॒र्विष्प॑र्धसो॒ विम॑हसो॒ जिगा॑ति॒ शेवृ॑धो॒ नृभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

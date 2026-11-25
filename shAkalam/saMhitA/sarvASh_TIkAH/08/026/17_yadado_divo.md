@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -66,7 +67,12 @@ me ← ahám (pronoun)
 
 śrutám ← √śru- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒दो दि॒वो अ॑र्ण॒व इ॒षो वा॒ मद॑थो गृ॒हे ।  
+श्रु॒तमिन्मे॑ अमर्त्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “immortal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -83,7 +84,12 @@ páyasā ← páyas- (nominal stem)
 
 vípāṭ ← vípāś- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र पर्व॑तानामुश॒ती उ॒पस्था॒दश्वे॑ इव॒ विषि॑ते॒ हास॑माने ।  
+गावे॑व शु॒भ्रे मा॒तरा॑ रिहा॒णे विपा॑ट् छुतु॒द्री पय॑सा जवेते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “animate; encourage; impel; inspire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

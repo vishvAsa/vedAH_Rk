@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 vanván ← √vanⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि विश्वाति॒ पार्थि॑वा र॒यिं दाश॑न्महित्व॒ना ।  
+व॒न्वन्नवा॑तो॒ अस्तृ॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “spread; kill; lay; cover.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

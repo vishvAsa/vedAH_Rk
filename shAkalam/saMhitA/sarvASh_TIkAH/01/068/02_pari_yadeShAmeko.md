@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -55,7 +56,11 @@ devā́nām ← devá- (nominal stem)
 
 mahitvā́ ← mahitvá- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ यदे॑षा॒मेको॒ विश्वे॑षां॒ भुव॑द्दे॒वो दे॒वानां॑ महि॒त्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +137,6 @@ _________
 - “state; quality; cause; reason.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

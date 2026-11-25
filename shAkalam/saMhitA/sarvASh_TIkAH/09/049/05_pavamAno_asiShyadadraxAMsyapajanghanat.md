@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -51,7 +52,12 @@ rocáyan ← √ruc- (root)
 
 rúcaḥ ← rúc- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मानो असिष्यद॒द्रक्षां॑स्यप॒जङ्घ॑नत् ।  
+प्र॒त्न॒वद्रो॒चय॒न्रुचः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +114,6 @@ _________
 - “beam; radiance; color.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

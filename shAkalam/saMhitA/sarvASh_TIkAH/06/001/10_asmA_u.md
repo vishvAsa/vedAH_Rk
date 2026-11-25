@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ te ← tvám (pronoun)
 
 yatema ← √yat- (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मा उ॑ ते॒ महि॑ म॒हे वि॑धेम॒ नमो॑भिरग्ने स॒मिधो॒त ह॒व्यैः ।  
+वेदी॑ सूनो सहसो गी॒र्भिरु॒क्थैरा ते॑ भ॒द्रायां॑ सुम॒तौ य॑तेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “strive; endeavor; join; equal; rival.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

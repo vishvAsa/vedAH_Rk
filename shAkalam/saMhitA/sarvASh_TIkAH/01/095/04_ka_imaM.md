@@ -4,6 +4,7 @@ devataa = "अग्निरग्निरौषस्योवा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निरौषस्योवा
@@ -89,7 +90,12 @@ nís ← nís (invariable)
 
 svadhā́vān ← svadhā́vant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क इ॒मं वो॑ नि॒ण्यमा चि॑केत व॒त्सो मा॒तॄर्ज॑नयत स्व॒धाभिः॑ ।  
+ब॒ह्वी॒नां गर्भो॑ अ॒पसा॑मु॒पस्था॑न्म॒हान्क॒विर्निश्च॑रति स्व॒धावा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “autonomous; independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

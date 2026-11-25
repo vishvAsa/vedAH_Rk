@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ ca ← ca (invariable)
 
 ukthám ← ukthá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शंसा॑वाध्वर्यो॒ प्रति॑ मे गृणी॒हीन्द्रा॑य॒ वाहः॑ कृणवाव॒ जुष्ट॑म् ।  
+एदं ब॒र्हिर्यज॑मानस्य सी॒दाथा॑ च भूदु॒क्थमिन्द्रा॑य श॒स्तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

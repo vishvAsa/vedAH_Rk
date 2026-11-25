@@ -4,6 +4,7 @@ devataa = "हरिस्तुतिः"
 RShiH = "बरुः सर्वहरिर्वैन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हरिस्तुतिः
@@ -83,7 +84,12 @@ sadhamā́de ← sadhamā́da- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त्वा॑ ह॒र्यन्तं॑ प्र॒युजो॒ जना॑नां॒ रथे॑ वहन्तु॒ हरि॑शिप्रमिन्द्र ।  
+पिबा॒ यथा॒ प्रति॑भृतस्य॒ मध्वो॒ हर्य॑न्य॒ज्ञं स॑ध॒मादे॒ दशो॑णिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

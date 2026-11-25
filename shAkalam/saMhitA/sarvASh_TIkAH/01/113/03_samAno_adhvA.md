@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ sámanasā ← sámanas- (nominal stem)
 
 vírūpe ← vírūpa- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मा॒नो अध्वा॒ स्वस्रो॑रन॒न्तस्तम॒न्यान्या॑ चरतो दे॒वशि॑ष्टे ।  
+न मे॑थेते॒ न त॑स्थतुः सु॒मेके॒ नक्तो॒षासा॒ सम॑नसा॒ विरू॑पे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “ugly; maimed; grotesque.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

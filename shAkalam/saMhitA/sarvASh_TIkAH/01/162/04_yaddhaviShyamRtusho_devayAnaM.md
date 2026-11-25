@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -86,7 +87,12 @@ prativedáyan ← √vid- 2 (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्ध॑वि॒ष्य॑मृतु॒शो दे॑व॒यानं॒ त्रिर्मानु॑षाः॒ पर्यश्वं॒ नय॑न्ति ।  
+अत्रा॑ पू॒ष्णः प्र॑थ॒मो भा॒ग ए॑ति य॒ज्ञं दे॒वेभ्यः॑ प्रतिवे॒दय॑न्न॒जः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     gratissimum; Puruṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

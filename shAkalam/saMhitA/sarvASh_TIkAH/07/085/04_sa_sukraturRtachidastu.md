@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -89,7 +90,12 @@ sá ← sá- ~ tá- (pronoun)
 
 suvitā́ya ← suvitá- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सु॒क्रतु॑रृत॒चिद॑स्तु॒ होता॒ य आ॑दित्य॒ शव॑सा वां॒ नम॑स्वान् ।  
+आ॒व॒वर्त॒दव॑से वां ह॒विष्मा॒नस॒दित्स सु॑वि॒ताय॒ प्रय॑स्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “offering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

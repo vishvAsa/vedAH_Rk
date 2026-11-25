@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -92,7 +93,12 @@ siñcán ← √sic- (root)
 
 sruvéṇa ← sruvá- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॒ प्र ज॑ज्ञे त॒रणि॑र्ममत्तु॒ प्र रो॑च्य॒स्या उ॒षसो॒ न सूरः॑ ।  
+इन्दु॒र्येभि॒राष्ट॒ स्वेदु॑हव्यैः स्रु॒वेण॑ सि॒ञ्चञ्ज॒रणा॒भि धाम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     location.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

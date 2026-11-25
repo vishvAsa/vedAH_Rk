@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ dhánvāni ← dhánvan- (nominal stem)
 
 yāthaḥ ← √yā- 1 (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता य॒ज्ञमा शुचि॑भिश्चक्रमा॒णा रथ॑स्य भा॒नुं रु॑रुचू॒ रजो॑भिः ।  
+पु॒रू वरां॒स्यमि॑ता॒ मिमा॑ना॒पो धन्वा॒न्यति॑ याथो॒ अज्रा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “plain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

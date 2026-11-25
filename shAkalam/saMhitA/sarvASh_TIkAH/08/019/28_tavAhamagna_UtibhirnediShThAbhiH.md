@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ mártyaḥ ← mártya- (nominal stem)
 
 sádā ← sádā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तवा॒हम॑ग्न ऊ॒तिभि॒र्नेदि॑ष्ठाभिः सचेय॒ जोष॒मा व॑सो ।  
+सदा॑ दे॒वस्य॒ मर्त्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

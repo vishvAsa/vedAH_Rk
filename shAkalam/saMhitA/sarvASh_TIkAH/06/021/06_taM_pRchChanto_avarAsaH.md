@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ vidmá ← √vid- 2 (root)
 
 yā́t ← yā́t (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं पृ॒च्छन्तोऽव॑रासः॒ परा॑णि प्र॒त्ना त॑ इन्द्र॒ श्रुत्यानु॑ येमुः ।  
+अर्चा॑मसि वीर ब्रह्मवाहो॒ यादे॒व वि॒द्म तात्त्वा॑ म॒हान्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

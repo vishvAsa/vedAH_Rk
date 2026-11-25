@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -89,7 +90,12 @@ iva ← iva (invariable)
 
 vājáya ← √vājay- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं गोभि॑राङ्गिर॒सो नक्ष॑माणो॒ भग॑ इ॒वेद॑र्य॒मणं॑ निनाय ।  
+जने॑ मि॒त्रो न दम्प॑ती अनक्ति॒ बृह॑स्पते वा॒जया॒शूँरि॑वा॒जौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “battle; fight; contest; āji \[word\]; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

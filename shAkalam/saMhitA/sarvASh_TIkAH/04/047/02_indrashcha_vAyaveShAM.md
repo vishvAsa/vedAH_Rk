@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -77,7 +78,12 @@ nimnám ← nimná- (nominal stem)
 
 sadhryàk ← sadhryàñc- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑श्च वायवेषां॒ सोमा॑नां पी॒तिम॑र्हथः ।  
+यु॒वां हि यन्तीन्द॑वो नि॒म्नमापो॒ न स॒ध्र्य॑क् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -89,7 +90,12 @@ víṣurūpāṇi ← víṣurūpa- (nominal stem)
 
 yuvóḥ ← tvám (pronoun)  
 {case:GEN, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वा॑मृ॒जवे॒ क्रम॑णाय रोदसी॒ मर्तो॑ द॒दाश॑ धिषणे॒ स सा॑धति ।  
+प्र प्र॒जाभि॑र्जायते॒ धर्म॑ण॒स्परि॑ यु॒वोः सि॒क्ता विषु॑रूपाणि॒ सव्र॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - \[noun\], nominative, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -264,7 +269,7 @@ My “poured out from you” of course tacitly misrepresents the case of dual yu
 yuvát is attested only once in the RV, and I take yuvóḥ as an ex. of the all-purpose genitive: poured out from you and hence yours.
 
 The explicitly contrastive víṣurūpāṇi sávratā reminds us of the phrase in the Yama/Yamī hymn X.10.2, sálakṣmā … víṣurūpā, describing Yamī compared to Yama: “having the same marks, but dissimilar form.” _________
-**04-05 These two vss., concerning ghee and honey respectively, have similarly structured 1st halves: a case form of the substance opens the vs. (4a ghṛténa, 5a mádhu), while the 2nd pāda consists of three 3 cmpds in the dual with the substance as 1st member. The 2nd members do not repeat (ghṛta-śríyā ghṛta-pṛ́cā ghṛtā-vṛ́dhā; madhu-ścútā madhu-dúghe mádhu-vrate), but only the last two are not root noun cmpds.**  
+**04-05 These two vss., concerning ghee and honey respectively, have similarly structured 1st halves: a case form of the substance opens the vs. (4a ghṛténa, 5a mádhu), while the 2nd pāda consists of three 3 cmpds in the dual with the substance as 1st member. The 2nd members do not repeat (ghṛta-śríyā ghṛta-pṛ́cā ghṛtā-vṛ́dhā; madhu-ścútā madhu-dúghe mádhu-vrate), but only the last two are not root noun cmpds.**
 </details>
 
 <details><summary>Griffith</summary>

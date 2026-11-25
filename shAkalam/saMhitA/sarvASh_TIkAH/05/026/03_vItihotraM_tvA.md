@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ adhvaré ← adhvará- (nominal stem)
 
 br̥hántam ← br̥hánt- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॒तिहो॑त्रं त्वा कवे द्यु॒मन्तं॒ समि॑धीमहि ।  
+अग्ने॑ बृ॒हन्त॑मध्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

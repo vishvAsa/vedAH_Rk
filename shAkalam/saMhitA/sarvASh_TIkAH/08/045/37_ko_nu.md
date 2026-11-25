@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ jahā́ ← √hā- 2 (root)
 
 káḥ ← ká- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को नु म॑र्या॒ अमि॑थितः॒ सखा॒ सखा॑यमब्रवीत् ।  
+ज॒हा को अ॒स्मदी॑षते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,14 +175,6 @@ An anser to ṛcas 34 and 35
 ‘I will leave (you)’? Who retreats from us?”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the basis both of the content of the verse and the use of the voc. maryāḥ, I consider this verse to be Indra’s address to the Maruts. The plural of maryá in all clear cases refers to the Maruts. And in VIII.96.7-8 the Maruts address Indra, reminding him that all the other gods but them deserted him, using the same √īṣ ‘shrink from’ as is found here.
-
-Geldner takes ámithitaḥ as “ohne Zank” (without a quarrel), but I think it refers instead to Indra’s potentially friendless state --‘unpaired’ - a fear expressed by the poet in the immediately preceding verse (36). The hypothetical speaker still has a comrade (sákhā sákhāyam), but, like one unpaired, threatens to say to this comrade “I’m leaving.” The form jahā́is taken by Geldner (and others) as a 3rd sg. pf. to √hā and therefore, implicitly, a precious example of a 3rd sg. pf. to a long-ā root without -au ending.
-
-However, Oldenberg very persuasively suggests that it is a 1st sg. subjunctive in the direct speech introduced by abravīt. Although to the reduplicated present of √hā we would expect accent on the reduplication (*jáhā), Oldenberg argues that the fluctuation of accent in IIIrd class presents makes the accent irrelevant. I would alternatively suggest that it could be a subjunctive to the perfect stem. See Oldenberg’s extensive discussion of the various previous proposals about this form.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/045/37-38.md">
 <details><summary><h2>37-38 ...{Loading}...</h2></summary>
 
@@ -185,7 +182,6 @@ For my interpretation of this bit of dialogue, see the published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

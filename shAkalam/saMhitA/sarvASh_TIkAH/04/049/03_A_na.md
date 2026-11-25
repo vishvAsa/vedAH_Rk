@@ -4,6 +4,7 @@ devataa = "इन्द्राबृहस्पती"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राबृहस्पती
@@ -57,7 +58,12 @@ somapā́ ← somapā́- (nominal stem)
 
 sómapītaye ← sómapīti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ न॑ इन्द्राबृहस्पती गृ॒हमिन्द्र॑श्च गच्छतम् ।  
+सो॒म॒पा सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

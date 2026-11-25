@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ páritakmyāyām ← páritakmya- (nominal stem)
 
 vyùṣṭau ← vyùṣṭi- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग॒म्भी॒रेण॑ न उ॒रुणा॑मत्रि॒न्प्रेषो य॑न्धि सुतपाव॒न्वाजा॑न् ।  
+स्था ऊ॒ षु ऊ॒र्ध्व ऊ॒ती अरि॑षण्यन्न॒क्तोर्व्यु॑ष्टौ॒ परि॑तक्म्यायाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - \[noun\], locative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

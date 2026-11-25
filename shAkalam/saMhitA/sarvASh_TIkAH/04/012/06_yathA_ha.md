@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -101,7 +102,12 @@ pratarám ← pratarám (invariable)
 
 tāri ← √tr̥̄- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॑ ह॒ त्यद्व॑सवो गौ॒र्यं॑ चित्प॒दि षि॒ताममु॑ञ्चता यजत्राः ।  
+ए॒वो ष्व१॒॑स्मन्मु॑ञ्चता॒ व्यंहः॒ प्र ता॑र्यग्ने प्रत॒रं न॒ आयुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -260,7 +266,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

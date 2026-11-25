@@ -4,6 +4,7 @@ devataa = "अग्निरग्निर्वा सविता च"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निर्वा सविता च
@@ -63,7 +64,12 @@ naḥ ← ahám (pronoun)
 
 punīhi ← √pū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रि॒भिष्ट्वं दे॑व सवित॒र्वर्षि॑ष्ठैः सोम॒ धाम॑भिः ।  
+अग्ने॒ दक्षैः॑ पुनीहि नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -171,10 +176,6 @@ With the three purify us—you, god Savitar, with your greatest
 and you, Agni, with your skills.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Initial tribhíḥ matches initial ubhā́bhyām in 25a. Since ubhā́bhyām was further specified by a bipartite NP pavítreṇa savéna ca (25b), I would like to see three instr. in this vs., each correlated with one of the three gods mentioned. And this is how I have rendered it, with várṣiṣṭhaiḥ connected to Savitar (and Soma), dhā́mabhiḥ with Soma, and dákṣaiḥ with Agni. By contrast, Geldner and Renou construe várṣiṣṭhaiḥ with dhā́mabhiḥ, which they consider to be of three types (that is, “with the three highest dhā́mans …”; Renou “avec les trois positions les plus éminentes”) - although in their notes both come close to espousing a position close to mine. Possibly in their favor is the fact that soma is unaccented in b, and if várṣiṣṭhaiḥ is followed by a sub-clausal break, the voc. might (or might not) have been accented. In the published translation I read várṣiṣṭhaiḥ both with Savitar’s savaíḥ, which has to be supplied, and with Soma’s dhā́mabhiḥ, and tr. the latter slightly differently: “through Soma’s domains.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details><summary><h2>22-27 ...{Loading}...</h2></summary>
 
@@ -184,7 +185,6 @@ The pavítra is mentioned in vss. 22-25, with other, non-physical means of purif
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

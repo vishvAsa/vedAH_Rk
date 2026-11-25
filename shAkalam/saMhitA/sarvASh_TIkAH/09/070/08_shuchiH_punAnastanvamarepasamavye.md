@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेणुर्वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ sukármabhiḥ ← sukárman- (nominal stem)
 
 tridhā́tu ← tridhā́tu- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुचिः॑ पुना॒नस्त॒न्व॑मरे॒पस॒मव्ये॒ हरि॒र्न्य॑धाविष्ट॒ सान॑वि ।  
+जुष्टो॑ मि॒त्राय॒ वरु॑णाय वा॒यवे॑ त्रि॒धातु॒ मधु॑ क्रियते सु॒कर्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “adept.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

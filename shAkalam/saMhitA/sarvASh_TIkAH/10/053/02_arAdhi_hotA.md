@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -80,7 +81,12 @@ yajñíyān ← yajñíya- (nominal stem)
 
 ī́ḷāmahai ← √īḍ- ~ √īḷ- (root)  
 {number:PL, person:1, mood:SBJV, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अरा॑धि॒ होता॑ नि॒षदा॒ यजी॑यान॒भि प्रयां॑सि॒ सुधि॑तानि॒ हि ख्यत् ।  
+यजा॑महै य॒ज्ञिया॒न्हन्त॑ दे॒वाँ ईळा॑महा॒ ईड्याँ॒ आज्ये॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “ghee; clarified butter; ājya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

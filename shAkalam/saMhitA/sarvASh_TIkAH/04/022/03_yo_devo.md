@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ prá ← prá (invariable)
 
 rejayat ← √rej- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो दे॒वो दे॒वत॑मो॒ जाय॑मानो म॒हो वाजे॑भिर्म॒हद्भि॑श्च॒ शुष्मैः॑ ।  
+दधा॑नो॒ वज्रं॑ बा॒ह्वोरु॒शन्तं॒ द्याममे॑न रेजय॒त्प्र भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

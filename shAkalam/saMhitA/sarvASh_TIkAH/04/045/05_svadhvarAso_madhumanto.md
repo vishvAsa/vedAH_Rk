@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ sómam ← sóma- (nominal stem)
 
 suṣā́va ← √su- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒ध्व॒रासो॒ मधु॑मन्तो अ॒ग्नय॑ उ॒स्रा ज॑रन्ते॒ प्रति॒ वस्तो॑र॒श्विना॑ ।  
+यन्नि॒क्तह॑स्तस्त॒रणि॑र्विचक्ष॒णः सोमं॑ सु॒षाव॒ मधु॑मन्त॒मद्रि॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

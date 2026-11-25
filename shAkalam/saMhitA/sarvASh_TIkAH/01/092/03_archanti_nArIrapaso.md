@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ víśvā ← víśva- (nominal stem)
 
 yájamānāya ← √yaj- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर्च॑न्ति॒ नारी॑र॒पसो॒ न वि॒ष्टिभिः॑ समा॒नेन॒ योज॑ने॒ना प॑रा॒वतः॑ ।  
+इषं॒ वह॑न्तीः सु॒कृते॑ सु॒दान॑वे॒ विश्वेदह॒ यज॑मानाय सुन्व॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

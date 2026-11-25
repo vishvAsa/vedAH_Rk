@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ havirádyāya ← havirádya- (nominal stem)
 
 vakṣi ← √vah- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जु॒षस्वा॑ग्न॒ इळ॑या स॒जोषा॒ यत॑मानो र॒श्मिभिः॒ सूर्य॑स्य ।  
+जु॒षस्व॑ नः स॒मिधं॑ जातवेद॒ आ च॑ दे॒वान्ह॑वि॒रद्या॑य वक्षि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

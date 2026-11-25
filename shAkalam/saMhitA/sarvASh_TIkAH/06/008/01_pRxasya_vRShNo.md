@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ pavate ← √pū- (root)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पृ॒क्षस्य॒ वृष्णो॑ अरु॒षस्य॒ नू सहः॒ प्र नु वो॑चं वि॒दथा॑ जा॒तवे॑दसः ।  
+वै॒श्वा॒न॒राय॑ म॒तिर्नव्य॑सी॒ शुचिः॒ सोम॑ इव पवते॒ चारु॑र॒ग्नये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

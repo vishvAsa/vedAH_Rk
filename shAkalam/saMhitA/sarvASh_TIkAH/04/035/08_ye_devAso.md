@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -86,7 +87,12 @@ amŕ̥tāsaḥ ← amŕ̥ta- (nominal stem)
 
 saúdhanvanāḥ ← saudhanvaná- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये दे॒वासो॒ अभ॑वता सुकृ॒त्या श्ये॒ना इ॒वेदधि॑ दि॒वि नि॑षे॒द ।  
+ते रत्नं॑ धात शवसो नपातः॒ सौध॑न्वना॒ अभ॑वता॒मृता॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “immortal; amṛta; imperishable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

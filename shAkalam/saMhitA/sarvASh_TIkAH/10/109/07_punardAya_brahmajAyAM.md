@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "जुहूर्ब्रह्मजायोर्ध्वनाभा वा ब्राह्मः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -65,7 +66,12 @@ pr̥thivyā́ ← pr̥thivī́- (nominal stem)
 
 urugāyám ← urugāyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒न॒र्दाय॑ ब्रह्मजा॒यां कृ॒त्वी दे॒वैर्नि॑किल्बि॒षम् ।  
+ऊर्जं॑ पृथि॒व्या भ॒क्त्वायो॑रुगा॒यमुपा॑सते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “worship; attend; serve; get; approach; obtain; perform; expect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

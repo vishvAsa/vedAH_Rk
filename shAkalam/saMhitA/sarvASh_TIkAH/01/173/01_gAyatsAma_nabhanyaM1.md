@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vívāsān ← √vanⁱ- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गाय॒त्साम॑ नभ॒न्यं१॒॑ यथा॒ वेरर्चा॑म॒ तद्वा॑वृधा॒नं स्व॑र्वत् ।  
+गावो॑ धे॒नवो॑ ब॒र्हिष्यद॑ब्धा॒ आ यत्स॒द्मानं॑ दि॒व्यं विवा॑सान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “invite; endeavor; try for.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

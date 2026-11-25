@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ devayūnā́m ← devayú- (nominal stem)
 
 kaláśe ← kaláśa- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ते॒ रुचः॒ पव॑मानस्य सोम॒ योषे॑व यन्ति सु॒दुघाः॑ सुधा॒राः ।  
+हरि॒रानी॑तः पुरु॒वारो॑ अ॒प्स्वचि॑क्रदत्क॒लशे॑ देवयू॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “devout; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

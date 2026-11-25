@@ -4,6 +4,7 @@ devataa = "अग्निर्हवींषि वा"
 RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्हवींषि वा
@@ -60,7 +61,12 @@ dr̥ṣádam ← dr̥ṣád- (nominal stem)
 
 jihváyā ← jihvā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जा॒म्य॑तीतपे॒ धनु॑र्वयो॒धा अ॑रुह॒द्वन॑म् ।  
+दृ॒षदं॑ जि॒ह्वयाव॑धीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “kill; assail; kick; māray; destroy; beat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

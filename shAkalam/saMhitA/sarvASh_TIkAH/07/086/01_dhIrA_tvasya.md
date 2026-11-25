@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -95,7 +96,12 @@ nákṣatram ← nákṣatra- (nominal stem)
 
 papráthat ← √prathⁱ- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धीरा॒ त्व॑स्य महि॒ना ज॒नूंषि॒ वि यस्त॒स्तम्भ॒ रोद॑सी चिदु॒र्वी ।  
+प्र नाक॑मृ॒ष्वं नु॑नुदे बृ॒हन्तं॑ द्वि॒ता नक्ष॑त्रं प॒प्रथ॑च्च॒ भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

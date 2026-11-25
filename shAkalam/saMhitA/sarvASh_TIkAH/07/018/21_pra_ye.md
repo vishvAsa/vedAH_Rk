@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ uchān ← √vas- 1 (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ये गृ॒हादम॑मदुस्त्वा॒या प॑राश॒रः श॒तया॑तु॒र्वसि॑ष्ठः ।  
+न ते॑ भो॒जस्य॑ स॒ख्यं मृ॑ष॒न्ताधा॑ सू॒रिभ्यः॑ सु॒दिना॒ व्यु॑च्छान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “dawn; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

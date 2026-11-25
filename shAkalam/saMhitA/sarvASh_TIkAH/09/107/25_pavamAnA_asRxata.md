@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -71,7 +72,12 @@ medhā́m ← medhā́- (nominal stem)
 
 práyāṁsi ← práyas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑माना असृक्षत प॒वित्र॒मति॒ धार॑या ।  
+म॒रुत्व॑न्तो मत्स॒रा इ॑न्द्रि॒या हया॑ मे॒धाम॒भि प्रयां॑सि च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -192,10 +197,6 @@ Purifying themselves, they have been set loose across the filter in  a steam—
 the exhilarating coursers, fit for Indra along with the Maruts, toward  wisdom [/the ritual meal] and pleasing offerings.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Pāda c is a clever twist on 17ab índrāya … marútvate sutáḥ “pressed for Indra and the Maruts.” In 17 the recipients of the soma are straightforwardly expressed, but in our vs. the expression is oblique. Indra is present not directly, but in the adj. indriyá- ‘Indriyan, suitable for/associated with Indra (and Indra’s powers)’, which modifies the soma drops identified as horses. The adj. marútvantaḥ also modifies these drops/horses. On the one hand, I think this is meant to associate the Maruts with Indra, as usual, and identify them as the prototypical recipients of soma; on the other hand, however, the drop-horses are metaphorically associated with the Maruts in full gallop on their regularly described journeys. The double sense would be better conveyed by a transl. “the exhilarating courses, accompanied by the Maruts, fit for Indra along with the Maruts …” The fem. stem medhā́- of course means ‘wisdom’ and is so interpr. here by everyone (incl. me). But its explicit coordination with práyāṃsi “pleasing offerings’ (medhā́m abhí práyāṃsi ca) invites, to my mind, a secondary reading associating it with médha- ‘ritual offering/meal’. For other possible conflations of medhā́- and médha- see EWA s.v. médha-.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/25-26.md">
 <details><summary><h2>25-26 ...{Loading}...</h2></summary>
 
@@ -203,7 +204,6 @@ No particular signs of cohesion.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

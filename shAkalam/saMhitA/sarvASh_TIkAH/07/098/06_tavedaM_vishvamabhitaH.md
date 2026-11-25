@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ te ← tvám (pronoun)
 
 vásvaḥ ← vásu- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तवे॒दं विश्व॑म॒भितः॑ पश॒व्यं१॒॑ यत्पश्य॑सि॒ चक्ष॑सा॒ सूर्य॑स्य ।  
+गवा॑मसि॒ गोप॑ति॒रेक॑ इन्द्र भक्षी॒महि॑ ते॒ प्रय॑तस्य॒ वस्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

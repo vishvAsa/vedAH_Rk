@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ mr̥ñjata ← √mr̥j- (root)
 
 śrīṇānā́ḥ ← √śrī- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सोमा॑सो अधन्विषुः॒ पव॑मानास॒ इन्द॑वः ।  
+श्री॒णा॒ना अ॒प्सु मृ॑ञ्जत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “purify; polish; rub; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -141,7 +146,6 @@ Brought to readiness, they have been groomed in the waters.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/024/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -149,7 +153,6 @@ The first 3 vss. are united by the use of the (secondary) root √dhanv ‘run�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

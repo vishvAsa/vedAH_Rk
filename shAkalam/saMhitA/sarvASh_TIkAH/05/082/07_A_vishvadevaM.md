@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -54,7 +55,12 @@ satyásavam ← satyásava- (nominal stem)
 
 savitā́ram ← savitár- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वि॒श्वदे॑वं॒ सत्प॑तिं सू॒क्तैर॒द्या वृ॑णीमहे ।  
+स॒त्यस॑वं सवि॒तार॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “Savitar; sun; Surya; Savitṛ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

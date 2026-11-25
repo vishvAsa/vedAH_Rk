@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 
 śr̥ṇótu ← √śru- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बो॒धिन्म॑ना॒ इद॑स्तु नो वृत्र॒हा भूर्या॑सुतिः ।  
+शृ॒णोतु॑ श॒क्र आ॒शिष॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “benediction; prayer; blessing; āśis \[word\]; wish; request.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

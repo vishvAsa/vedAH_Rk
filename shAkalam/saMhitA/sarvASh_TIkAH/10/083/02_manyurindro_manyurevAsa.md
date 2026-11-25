@@ -4,6 +4,7 @@ devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मन्युः
@@ -92,7 +93,12 @@ sajóṣāḥ ← sajóṣas- (nominal stem)
 
 tápasā ← tápas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒न्युरिन्द्रो॑ म॒न्युरे॒वास॑ दे॒वो म॒न्युर्होता॒ वरु॑णो जा॒तवे॑दाः ।  
+म॒न्युं विश॑ ईळते॒ मानु॑षी॒र्याः पा॒हि नो॑ मन्यो॒ तप॑सा स॒जोषाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “consentaneous; combined; associated; united.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

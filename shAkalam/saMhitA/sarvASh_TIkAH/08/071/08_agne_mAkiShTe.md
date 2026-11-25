@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ tvám ← tvám (pronoun)
 
 vásūnām ← vásu- (nominal stem)  
 {case:GEN, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ माकि॑ष्टे दे॒वस्य॑ रा॒तिमदे॑वो युयोत ।  
+त्वमी॑शिषे॒ वसू॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -77,7 +78,12 @@ mádhu ← mádhu- (nominal stem)
 
 saṁcáranti ← √carⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वा॒दोर॑भक्षि॒ वय॑सः सुमे॒धाः स्वा॒ध्यो॑ वरिवो॒वित्त॑रस्य ।  
+विश्वे॒ यं दे॒वा उ॒त मर्त्या॑सो॒ मधु॑ ब्रु॒वन्तो॑ अ॒भि सं॒चर॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “wander; approach; meet.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

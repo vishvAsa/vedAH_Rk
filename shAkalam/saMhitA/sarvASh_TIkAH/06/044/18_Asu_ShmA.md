@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sma ← sma (invariable)
 
 sūrī́n ← sūrí- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒सु ष्मा॑ णो मघवन्निन्द्र पृ॒त्स्व१॒॑स्मभ्यं॒ महि॒ वरि॑वः सु॒गं कः॑ ।  
+अ॒पां तो॒कस्य॒ तन॑यस्य जे॒ष इन्द्र॑ सू॒रीन्कृ॑णु॒हि स्मा॑ नो अ॒र्धम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - “one-half; ardha \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -279,10 +284,6 @@ Go halves with our patrons, Indra, in the conquering of the waters, of  life and
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-For the idiom in sūrī́n kṛṇuhí … ardhám, cf. II.30.5 asmā́n ardhám krṇ̥ utāt.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/17-18.md">
 <details><summary><h2>17-18 ...{Loading}...</h2></summary>
 
@@ -300,7 +301,6 @@ Here the power of soma to rouse Indra to beneficial action is the general subjec
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

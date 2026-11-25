@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ párā ← párā (invariable)
 
 śíkṣa ← √śak- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा न॑ इन्द्र पीय॒त्नवे॒ मा शर्ध॑ते॒ परा॑ दाः ।  
+शिक्षा॑ शचीवः॒ शची॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “Śacī; power; dexterity; ability; aid.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

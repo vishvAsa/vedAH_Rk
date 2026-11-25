@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नो॑ दा॒ता स नः॑ पि॒ता म॒हाँ उ॒ग्र ई॑शान॒कृत् ।  
+अया॑मन्नु॒ग्रो म॒घवा॑ पुरू॒वसु॒र्गोरश्व॑स्य॒ प्र दा॑तु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

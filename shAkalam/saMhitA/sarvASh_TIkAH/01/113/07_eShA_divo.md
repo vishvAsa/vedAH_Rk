@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ ucha ← √vas- 1 (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒षा दि॒वो दु॑हि॒ता प्रत्य॑दर्शि व्यु॒च्छन्ती॑ युव॒तिः शु॒क्रवा॑साः ।  
+विश्व॒स्येशा॑ना॒ पार्थि॑वस्य॒ वस्व॒ उषो॑ अ॒द्येह सु॑भगे॒ व्यु॑च्छ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “dawn; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,7 +247,6 @@ Holding sway over every earthly good, o well-portioned Dawn, dawn  forth here to
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details><summary><h2>07-13 ...{Loading}...</h2></summary>
 
@@ -250,7 +254,6 @@ These verses have a surprising density of forms of ví √vas ‘dawn forth’ (
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

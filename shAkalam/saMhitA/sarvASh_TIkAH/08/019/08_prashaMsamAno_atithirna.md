@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ rayīṇā́m ← rayí- ~ rāy- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒शंस॑मानो॒ अति॑थि॒र्न मि॒त्रियो॒ऽग्नी रथो॒ न वेद्यः॑ ।  
+त्वे क्षेमा॑सो॒ अपि॑ सन्ति सा॒धव॒स्त्वं राजा॑ रयी॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

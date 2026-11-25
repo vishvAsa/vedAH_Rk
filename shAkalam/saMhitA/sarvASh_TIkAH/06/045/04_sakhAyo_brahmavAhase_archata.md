@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ prámatiḥ ← prámati- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सखा॑यो॒ ब्रह्म॑वाह॒सेऽर्च॑त॒ प्र च॑ गायत ।  
+स हि नः॒ प्रम॑तिर्म॒ही ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “great; great; distinguished; much(a); adult; long; high.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

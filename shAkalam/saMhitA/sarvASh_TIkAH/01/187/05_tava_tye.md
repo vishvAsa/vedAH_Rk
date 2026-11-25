@@ -4,6 +4,7 @@ devataa = "अन्नम्"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अन्नम्
@@ -74,7 +75,12 @@ iva ← iva (invariable)
 
 tuvigrī́vāḥ ← tuvigrī́va- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ त्ये पि॑तो॒ दद॑त॒स्तव॑ स्वादिष्ठ॒ ते पि॑तो ।  
+प्र स्वा॒द्मानो॒ रसा॑नां तुवि॒ग्रीवा॑ इवेरते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “go.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

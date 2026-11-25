@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ r̥dūpé ← r̥dūpā́- (nominal stem)
 
 r̥dūvŕ̥dhā ← r̥dūvŕ̥dh- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तु॒वि॒क्षं ते॒ सुकृ॑तं सू॒मयं॒ धनुः॑ सा॒धुर्बु॒न्दो हि॑र॒ण्ययः॑ ।  
+उ॒भा ते॑ बा॒हू रण्या॒ सुसं॑स्कृत ऋदू॒पे चि॑दृदू॒वृधा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - \[noun\], nominative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -235,14 +240,6 @@ Powerfully ruling, well-made, made of boar is your bow, the golden  Bunda, that 
 Your two arms are fit for battle, well-equipped, increasing injury even  for one who protects himself from injury.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-sūmáya- is generally analyzed as having the adverbial prefix su- ‘good’, hence ‘aus gutem Stoff’ (Geldner). However, AiG II.2.770 reports a suggestion of Thieme's (apparently only reported in AiG, not published) that it's ‘aus Eber(-zahn) verfertigt’, with an unextended root noun sū- ‘(wild) pig, boar’, which is the basis of sūkará- ‘boar’ (already RV VII.55.4) and which has numerous IE cognates.
-
-Although Mayrhofer explicitly rejects this suggestion (KEWA, s.v. sūkará-; EWA, s.vv. MAY1 , sūkará-), context favors Thieme’s suggestion. The boar Emuṣa was clearly a formidable opponent of Indra’s, and the use of a weapon made from the same animal to defeat it makes good sense from the point of view of sympathetic magic. Consider also the association of boars with ritual of kingship, and note, in particular, that using parts of the boar for the armor and weaponry of warriors is found elsewhere (cf. Odysseus’s boar’s tusk helmet and the general disc. in Jamison 1999 [Penelope and the Pigs], ClAnt. 18: 258-70). The unextended root noun sūcould be preserved in this old myth, esp. since it could be assimilated to the prefix su-.
-
-My interpretation of pāda d essentially follows Scarlatta (301, 516); see also EWA, s.v. ARD.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -250,7 +247,6 @@ On these verses as possible explanatory additions to the Emuṣa version given e
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

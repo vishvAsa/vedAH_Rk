@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -86,7 +87,12 @@ sómasya ← sóma- (nominal stem)
 
 sutásya ← √su- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑न्द्राग्नी अव॒मस्यां॑ पृथि॒व्यां म॑ध्य॒मस्यां॑ पर॒मस्या॑मु॒त स्थः ।  
+अतः॒ परि॑ वृषणा॒वा हि या॒तमथा॒ सोम॑स्य पिबतं सु॒तस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -246,7 +251,6 @@ from there, bulls—yes! drive here. Then drink of the pressed soma.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -254,7 +258,6 @@ I do not see the purpose of two almost identical vss., but with the relative pos
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

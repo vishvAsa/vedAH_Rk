@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "उरुचक्रिरात्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -66,7 +67,12 @@ vām ← tvám (pronoun)
 
 váṁsi ← √vanⁱ- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रू॒रुणा॑ चि॒द्ध्यस्त्यवो॑ नू॒नं वां॑ वरुण ।  
+मित्र॒ वंसि॑ वां सुम॒तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “benevolence; favor; Sumati.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

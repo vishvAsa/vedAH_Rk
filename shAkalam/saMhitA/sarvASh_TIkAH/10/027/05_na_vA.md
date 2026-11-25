@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ kiráṇaḥ ← kiráṇa- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न वा उ॒ मां वृ॒जने॑ वारयन्ते॒ न पर्व॑तासो॒ यद॒हं म॑न॒स्ये ।  
+मम॑ स्व॒नात्कृ॑धु॒कर्णो॑ भयात ए॒वेदनु॒ द्यून्कि॒रणः॒ समे॑जात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “move; stir; tremble; travel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ hávanāni ← hávana- (nominal stem)
 
 kadā́ ← kadā́ (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कर्हि॑ स्वि॒त्तदि॑न्द्र॒ यज्ज॑रि॒त्रे वि॒श्वप्सु॒ ब्रह्म॑ कृ॒णवः॑ शविष्ठ ।  
+क॒दा धियो॒ न नि॒युतो॑ युवासे क॒दा गोम॑घा॒ हव॑नानि गच्छाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

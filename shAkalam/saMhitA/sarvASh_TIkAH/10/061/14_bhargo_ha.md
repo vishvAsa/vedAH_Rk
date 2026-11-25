@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 śrudhí ← √śru- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भर्गो॑ ह॒ नामो॒त यस्य॑ दे॒वाः स्व१॒॑र्ण ये त्रि॑षध॒स्थे नि॑षे॒दुः ।  
+अ॒ग्निर्ह॒ नामो॒त जा॒तवे॑दाः श्रु॒धी नो॑ होतरृ॒तस्य॒ होता॒ध्रुक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “friendly; benign.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

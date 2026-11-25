@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ nirṇíje ← nirṇíj- (nominal stem)
 
 upastíre ← upastír- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ दक्षि॑णा सृज्यते शु॒ष्म्या॒३॒॑सदं॒ वेति॑ द्रु॒हो र॒क्षसः॑ पाति॒ जागृ॑विः ।  
+हरि॑रोप॒शं कृ॑णुते॒ नभ॒स्पय॑ उप॒स्तिरे॑ च॒म्वो॒३॒॑र्ब्रह्म॑ नि॒र्णिजे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “attire; garment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

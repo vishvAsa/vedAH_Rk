@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ enam ← ena- (pronoun)
 
 prathamajā́m ← prathamajā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒षा॒यमा॑णोऽवृणीत॒ सोमं॒ त्रिक॑द्रुकेष्वपिबत्सु॒तस्य॑ ।  
+आ साय॑कं म॒घवा॑दत्त॒ वज्र॒मह॑न्नेनं प्रथम॒जामही॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

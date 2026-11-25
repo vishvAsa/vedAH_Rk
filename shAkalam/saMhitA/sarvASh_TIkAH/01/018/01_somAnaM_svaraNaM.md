@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -54,7 +55,12 @@ kakṣī́vantam ← kakṣī́vant- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो॒मानं॒ स्वर॑णं कृणु॒हि ब्र॑ह्मणस्पते ।  
+क॒क्षीव॑न्तं॒ य औ॑शि॒जः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “Kakṣīvant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

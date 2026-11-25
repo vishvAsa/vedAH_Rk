@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्भिणी वामदेवस्य माता"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ prá ← prá (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कस्ते॑ मा॒तरं॑ वि॒धवा॑मचक्रच्छ॒युं कस्त्वाम॑जिघांस॒च्चर॑न्तम् ।  
+कस्ते॑ दे॒वो अधि॑ मार्डी॒क आ॑सी॒द्यत्प्राक्षि॑णाः पि॒तरं॑ पाद॒गृह्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -269,7 +274,6 @@ What god was merciful toward you when you destroyed your father,  having grasped
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -279,7 +283,6 @@ In light of d, which describes Indra’s killing his father, the question in a, 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

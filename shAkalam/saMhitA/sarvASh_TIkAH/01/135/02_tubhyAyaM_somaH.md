@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -122,7 +123,13 @@ juṣāṇáḥ ← √juṣ- (root)
 
 yāhi ← √yā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्या॒यं सोमः॒ परि॑पूतो॒ अद्रि॑भिः स्पा॒र्हा वसा॑नः॒ परि॒ कोश॑मर्षति शु॒क्रा वसा॑नो अर्षति ।  
+तवा॒यं भा॒ग आ॒युषु॒ सोमो॑ दे॒वेषु॑ हूयते ।  
+वह॑ वायो नि॒युतो॑ याह्यस्म॒युर्जु॑षा॒णो या॑ह्यस्म॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -306,7 +313,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -342,10 +348,6 @@ For you is this portion poured among the Āyus, is the soma poured  among the go
 Travel, Vāyu; drive to our teams [=poetic thoughts], seeking us—drive at  your pleasure, seeking us.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On váha vāyo niyúto yāhy asmayúḥ see disc. ad VII.90.1.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -353,7 +355,6 @@ The fronted forms of tvám (etc.) found in I.134.4-6 continue here, though not a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

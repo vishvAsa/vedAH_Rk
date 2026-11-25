@@ -4,6 +4,7 @@ devataa = "दक्षिणा तद्दातारो वा"
 RShiH = "दिव्यो दक्षिणा वा प्राजापत्या"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दक्षिणा तद्दातारो वा
@@ -92,7 +93,12 @@ pánthāḥ ← pánthā- ~ path- (nominal stem)
 
 urúḥ ← urú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒विर॑भू॒न्महि॒ माघो॑नमेषां॒ विश्वं॑ जी॒वं तम॑सो॒ निर॑मोचि ।  
+महि॒ ज्योतिः॑ पि॒तृभि॑र्द॒त्तमागा॑दु॒रुः पन्था॒ दक्षि॑णाया अदर्शि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
     know; know; understand; understand; follow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

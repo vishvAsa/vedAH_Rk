@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ tridhā́tu ← tridhā́tu- (nominal stem)
 
 vahatam ← √vah- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिर्नो॑ अश्विना दि॒व्यानि॑ भेष॒जा त्रिः पार्थि॑वानि॒ त्रिरु॑ दत्तम॒द्भ्यः ।  
+ओ॒मानं॑ शं॒योर्मम॑काय सू॒नवे॑ त्रि॒धातु॒ शर्म॑ वहतं शुभस्पती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः पूषा वा"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः पूषा वा
@@ -80,7 +81,12 @@ máṁhiṣṭhaḥ ← máṁhiṣṭha- (nominal stem)
 
 vā́jasātaye ← vā́jasāti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परा॒ गावो॒ यव॑सं॒ कच्चि॑दाघृणे॒ नित्यं॒ रेक्णो॑ अमर्त्य ।  
+अ॒स्माकं॑ पूषन्नवि॒ता शि॒वो भ॑व॒ मंहि॑ष्ठो॒ वाज॑सातये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “victory; acquisition; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

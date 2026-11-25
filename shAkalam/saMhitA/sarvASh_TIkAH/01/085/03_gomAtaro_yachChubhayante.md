@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ rīyate ← √rī- (root)
 
 vártmāni ← vártman- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गोमा॑तरो॒ यच्छु॒भय॑न्ते अ॒ञ्जिभि॑स्त॒नूषु॑ शु॒भ्रा द॑धिरे वि॒रुक्म॑तः ।  
+बाध॑न्ते॒ विश्व॑मभिमा॒तिन॒मप॒ वर्त्मा॑न्येषा॒मनु॑ रीयते घृ॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “ghee; fat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

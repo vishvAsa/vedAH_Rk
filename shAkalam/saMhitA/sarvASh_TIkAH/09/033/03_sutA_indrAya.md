@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ sómāḥ ← sóma- (nominal stem)
 
 víṣṇave ← víṣṇu- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒ता इन्द्रा॑य वा॒यवे॒ वरु॑णाय म॒रुद्भ्यः॑ ।  
+सोमा॑ अर्षन्ति॒ विष्ण॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +121,6 @@ _________
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

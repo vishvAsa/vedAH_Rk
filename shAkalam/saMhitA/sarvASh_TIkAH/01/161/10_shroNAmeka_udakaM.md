@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -101,7 +102,12 @@ svit ← svit (invariable)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रो॒णामेक॑ उद॒कं गामवा॑जति मां॒समेकः॑ पिंशति सू॒नयाभृ॑तम् ।  
+आ नि॒म्रुचः॒ शकृ॒देको॒ अपा॑भर॒त्किं स्वि॑त्पु॒त्रेभ्यः॑ पि॒तरा॒ उपा॑वतुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

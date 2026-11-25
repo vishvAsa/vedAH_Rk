@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ mártāḥ ← márta- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि यं दे॒वी निरृ॑तिश्चि॒दीशे॒ नक्ष॑न्त॒ इन्द्रं॑ श॒रदः॑ सु॒पृक्षः॑ ।  
+उप॑ त्रिब॒न्धुर्ज॒रद॑ष्टिमे॒त्यस्व॑वेशं॒ यं कृ॒णव॑न्त॒ मर्ताः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

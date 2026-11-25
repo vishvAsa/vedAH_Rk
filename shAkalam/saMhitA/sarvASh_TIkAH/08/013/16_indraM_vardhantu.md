@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -64,7 +65,12 @@ víśaḥ ← víś- (nominal stem)
 
 arāṇiṣuḥ ← √ranⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रं॑ वर्धन्तु नो॒ गिर॒ इन्द्रं॑ सु॒तास॒ इन्द॑वः ।  
+इन्द्रे॑ ह॒विष्म॑ती॒र्विशो॑ अराणिषुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “rejoice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,7 +183,6 @@ Let our songs increase Indra, let our pressed drops (increase) Indra; in Indra h
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/013/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -186,7 +190,6 @@ This tṛca begins and ends in the same way: 16a índraṃ vardhantu no gíraḥ
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

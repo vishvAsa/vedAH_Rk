@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -51,7 +52,12 @@ padám ← padá- (nominal stem)
 
 píprataḥ ← √pr̥- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मी॒ची॒नास॑ आसते॒ होता॑रः स॒प्तजा॑मयः ।  
+प॒दमेक॑स्य॒ पिप्र॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “protect; promote; rescue; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

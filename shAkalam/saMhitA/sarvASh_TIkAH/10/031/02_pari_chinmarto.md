@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ mánasā ← mánas- (nominal stem)
 
 śréyāṁsam ← śréyaṁs- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ चि॒न्मर्तो॒ द्रवि॑णं ममन्यादृ॒तस्य॑ प॒था नम॒सा वि॑वासेत् ।  
+उ॒त स्वेन॒ क्रतु॑ना॒ सं व॑देत॒ श्रेयां॑सं॒ दक्षं॒ मन॑सा जगृभ्यात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     touch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

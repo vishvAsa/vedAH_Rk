@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रो मुष्कवान्"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ arvā́ñcam ← arvā́ñc- (nominal stem)
 
 karāmahe ← √kr̥- (root)  
 {number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो द॒भ्रेभि॒र्हव्यो॒ यश्च॒ भूरि॑भि॒र्यो अ॒भीके॑ वरिवो॒विन्नृ॒षाह्ये॑ ।  
+तं वि॑खा॒दे सस्नि॑म॒द्य श्रु॒तं नर॑म॒र्वाञ्च॒मिन्द्र॒मव॑से करामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

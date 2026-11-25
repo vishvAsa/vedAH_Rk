@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ pári ← pári (invariable)
 
 svadhā́m ← svadhā́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असू॑त॒ पृश्नि॑र्मह॒ते रणा॑य त्वे॒षम॒यासां॑ म॒रुता॒मनी॑कम् ।  
+ते स॑प्स॒रासो॑ऽजनय॒न्ताभ्व॒मादित्स्व॒धामि॑षि॒रां पर्य॑पश्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

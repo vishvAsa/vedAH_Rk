@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ ajáram ← ajára- (nominal stem)
 
 ánuttamanyum ← ánuttamanyu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑मु॒क्थानि॑ वावृधुः समु॒द्रमि॑व॒ सिन्ध॑वः ।  
+अनु॑त्तमन्युम॒जर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “undecaying; ageless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

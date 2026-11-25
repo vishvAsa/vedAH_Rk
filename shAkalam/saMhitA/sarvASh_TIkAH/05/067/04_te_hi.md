@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "यजत आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -65,7 +66,12 @@ cit ← cit (invariable)
 
 urucákrayaḥ ← urucákri- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते हि स॒त्या ऋ॑त॒स्पृश॑ ऋ॒तावा॑नो॒ जने॑जने ।  
+सु॒नी॒थासः॑ सु॒दान॑वों॒ऽहोश्चि॑दुरु॒चक्र॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “doing; active.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

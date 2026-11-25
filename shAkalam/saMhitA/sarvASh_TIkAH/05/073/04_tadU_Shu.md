@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ bándhum ← bándhu- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदू॒ षु वा॑मे॒ना कृ॒तं विश्वा॒ यद्वा॒मनु॒ ष्टवे॑ ।  
+नाना॑ जा॒ताव॑रे॒पसा॒ सम॒स्मे बन्धु॒मेय॑थुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “come; travel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

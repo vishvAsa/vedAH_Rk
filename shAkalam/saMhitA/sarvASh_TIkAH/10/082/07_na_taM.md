@@ -4,6 +4,7 @@ devataa = "विश्वकर्मा"
 RShiH = "विश्वकर्मा भौवनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -83,7 +84,12 @@ caranti ← √carⁱ- (root)
 
 ukthaśā́saḥ ← ukthaśás- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न तं वि॑दाथ॒ य इ॒मा ज॒जाना॒न्यद्यु॒ष्माक॒मन्त॑रं बभूव ।  
+नी॒हा॒रेण॒ प्रावृ॑ता॒ जल्प्या॑ चासु॒तृप॑ उक्थ॒शास॑श्चरन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     heed; process; administer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

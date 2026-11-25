@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ jánāya ← jána- (nominal stem)
 
 tanvè ← tanū́- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॒ त्वाहि॑घ्ने॒ अध॑ देव दे॒वा मद॒न्विश्वे॑ क॒वित॑मं कवी॒नाम् ।  
+करो॒ यत्र॒ वरि॑वो बाधि॒ताय॑ दि॒वे जना॑य त॒न्वे॑ गृणा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

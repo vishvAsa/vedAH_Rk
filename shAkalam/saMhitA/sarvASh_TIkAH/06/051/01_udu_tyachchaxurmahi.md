@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ rukmáḥ ← rukmá- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒ त्यच्चक्षु॒र्महि॑ मि॒त्रयो॒राँ एति॑ प्रि॒यं वरु॑णयो॒रद॑ब्धम् ।  
+ऋ॒तस्य॒ शुचि॑ दर्श॒तमनी॑कं रु॒क्मो न दि॒व उदि॑ता॒ व्य॑द्यौत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “shine; inflame.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

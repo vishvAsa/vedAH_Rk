@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अरुणो वैतहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ raśmáyaḥ ← raśmí- (nominal stem)
 
 sū́ryasya ← sū́rya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒जा॒नन्न॑ग्ने॒ तव॒ योनि॑मृ॒त्विय॒मिळा॑यास्प॒दे घृ॒तव॑न्त॒मास॑दः ।  
+आ ते॑ चिकित्र उ॒षसा॑मि॒वेत॑योऽरे॒पसः॒ सूर्य॑स्येव र॒श्मयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “beam; rein; sunbeam; shininess; cord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

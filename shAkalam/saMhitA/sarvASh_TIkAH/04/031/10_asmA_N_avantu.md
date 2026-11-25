@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ asmā́n ← ahám (pronoun)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माँ अ॑वन्तु ते श॒तम॒स्मान्त्स॒हस्र॑मू॒तयः॑ ।  
+अ॒स्मान्विश्वा॑ अ॒भिष्ट॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “prevalence; protection.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

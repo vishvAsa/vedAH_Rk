@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ súṣutim ← súṣuti- (nominal stem)
 
 yuvám ← tvám (pronoun)  
 {case:NOM, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं रथे॑न विम॒दाय॑ शु॒न्ध्युवं॒ न्यू॑हथुः पुरुमि॒त्रस्य॒ योष॑णाम् ।  
+यु॒वं हवं॑ वध्रिम॒त्या अ॑गच्छतं यु॒वं सुषु॑तिं चक्रथुः॒ पुरं॑धये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “liberality; Puraṃdhi; munificence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ ródasī ← ródasī- (nominal stem)
 
 ubhé ← ubhá- (pronoun)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तन्नो॒ रायः॒ पर्व॑ता॒स्तन्न॒ आप॒स्तद्रा॑ति॒षाच॒ ओष॑धीरु॒त द्यौः ।  
+वन॒स्पति॑भिः पृथि॒वी स॒जोषा॑ उ॒भे रोद॑सी॒ परि॑ पासतो नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

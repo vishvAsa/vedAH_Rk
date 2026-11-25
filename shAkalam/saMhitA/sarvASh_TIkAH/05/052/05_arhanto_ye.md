@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -65,7 +66,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 marúdbhyaḥ ← marút- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर्ह॑न्तो॒ ये सु॒दान॑वो॒ नरो॒ असा॑मिशवसः ।  
+प्र य॒ज्ञं य॒ज्ञिये॑भ्यो दि॒वो अ॑र्चा म॒रुद्भ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “Marut; vāta; wind; Vayu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

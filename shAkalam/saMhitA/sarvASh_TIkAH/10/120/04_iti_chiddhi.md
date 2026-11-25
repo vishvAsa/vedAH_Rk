@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहद्दिव आथर्वणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ tvā ← tvám (pronoun)
 
 yātudhā́nāḥ ← yātudhā́na- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इति॑ चि॒द्धि त्वा॒ धना॒ जय॑न्तं॒ मदे॑मदे अनु॒मद॑न्ति॒ विप्राः॑ ।  
+ओजी॑यो धृष्णो स्थि॒रमा त॑नुष्व॒ मा त्वा॑ दभन्यातु॒धाना॑ दु॒रेवाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “malevolent; bad; crabbed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

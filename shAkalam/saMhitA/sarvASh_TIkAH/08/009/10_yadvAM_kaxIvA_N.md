@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ evá ← evá (invariable)
 
 ít ← ít (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वां॑ क॒क्षीवाँ॑ उ॒त यद्व्य॑श्व॒ ऋषि॒र्यद्वां॑ दी॒र्घत॑मा जु॒हाव॑ ।  
+पृथी॒ यद्वां॑ वै॒न्यः साद॑नेष्वे॒वेदतो॑ अश्विना चेतयेथाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “blaze; notice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

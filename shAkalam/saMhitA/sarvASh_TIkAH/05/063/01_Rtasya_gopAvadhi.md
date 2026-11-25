@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ tásmai ← sá- ~ tá- (pronoun)
 
 vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋत॑स्य गोपा॒वधि॑ तिष्ठथो॒ रथं॒ सत्य॑धर्माणा पर॒मे व्यो॑मनि ।  
+यमत्र॑ मित्रावरु॒णाव॑थो यु॒वं तस्मै॑ वृ॒ष्टिर्मधु॑मत्पिन्वते दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

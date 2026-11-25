@@ -4,6 +4,7 @@ devataa = "पितरः"
 RShiH = "शङ्खो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पितरः
@@ -80,7 +81,12 @@ uśádbhiḥ ← √vaś- (root)
 
 uśán ← √vaś- (root)  
 {tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये नः॒ पूर्वे॑ पि॒तरः॑ सो॒म्यासो॑ऽनूहि॒रे सो॑मपी॒थं वसि॑ष्ठाः ।  
+तेभि॑र्य॒मः सं॑ररा॒णो ह॒वींष्यु॒शन्नु॒शद्भिः॑ प्रतिका॒मम॑त्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “eat; devour.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -54,7 +55,12 @@ sumnám ← sumná- (nominal stem)
 
 mánmabhiḥ ← mánman- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ताव॑तश्चिदेषां सु॒म्नं भि॑क्षेत॒ मर्त्यः॑ ।  
+अदा॑भ्यस्य॒ मन्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - “hymn; idea; purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

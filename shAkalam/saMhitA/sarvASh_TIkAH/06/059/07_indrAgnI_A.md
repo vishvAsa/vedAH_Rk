@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -74,7 +75,12 @@ párā ← párā (invariable)
 
 varktam ← √vr̥j- 1 (root)  
 {number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ग्नी॒ आ हि त॑न्व॒ते नरो॒ धन्वा॑नि बा॒ह्वोः ।  
+मा नो॑ अ॒स्मिन्म॑हाध॒ने परा॑ वर्क्तं॒ गवि॑ष्टिषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “foray.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

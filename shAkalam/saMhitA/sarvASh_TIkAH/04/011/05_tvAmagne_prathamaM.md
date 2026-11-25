@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ dámūnasam ← dámūnas- (nominal stem)
 
 gr̥hápatim ← gr̥hápati- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने प्रथ॒मं दे॑व॒यन्तो॑ दे॒वं मर्ता॑ अमृत म॒न्द्रजि॑ह्वम् ।  
+द्वे॒षो॒युत॒मा वि॑वासन्ति धी॒भिर्दमू॑नसं गृ॒हप॑ति॒ममू॑रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “wise; intelligent; apt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

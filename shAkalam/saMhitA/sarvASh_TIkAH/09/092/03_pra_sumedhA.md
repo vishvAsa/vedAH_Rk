@@ -5,13 +5,13 @@ RShiH = "कश्यपः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
 - ऋषिः - कश्यपः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -88,7 +88,12 @@ páñca ← páñca- (nominal stem)
 
 yatate ← √yat- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सु॑मे॒धा गा॑तु॒विद्वि॒श्वदे॑वः॒ सोमः॑ पुना॒नः सद॑ एति॒ नित्य॑म् ।  
+भुव॒द्विश्वे॑षु॒ काव्ये॑षु॒ रन्तानु॒ जना॑न्यतते॒ पञ्च॒ धीरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +231,6 @@ _________
 - “expert; wise; intelligent; versed; adept.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -296,8 +300,6 @@ Zum eignen Sitz geht flammend, vorwärtsdringend der weise Soma, allen Göttern 
 Он наслаждается всеми поэтическими произведениями.  
 Он приводит в порядок пять народов, (этот) умный (бог).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

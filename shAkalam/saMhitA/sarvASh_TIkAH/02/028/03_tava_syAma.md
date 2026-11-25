@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -80,7 +81,12 @@ kṣamadhvam ← √kṣam- (root)
 
 yújyāya ← yújya- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॑ स्याम पुरु॒वीर॑स्य॒ शर्म॑न्नुरु॒शंस॑स्य वरुण प्रणेतः ।  
+यू॒यं नः॑ पुत्रा अदितेरदब्धा अ॒भि क्ष॑मध्वं॒ युज्या॑य देवाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ vr̥dhi ← √vr̥- (root)
 
 asmábhyam ← ahám (pronoun)  
 {case:DAT, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॑ वृषन्न॒मुं च॒रुं सत्रा॑दाव॒न्नपा॑ वृधि ।  
+अ॒स्मभ्य॒मप्र॑तिष्कुतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “unhampered; unrestrained; unchallenged.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

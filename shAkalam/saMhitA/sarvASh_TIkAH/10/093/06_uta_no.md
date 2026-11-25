@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ duritā́ ← duritá- (nominal stem)
 
 iva ← iva (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नो॑ दे॒वाव॒श्विना॑ शु॒भस्पती॒ धाम॑भिर्मि॒त्रावरु॑णा उरुष्यताम् ।  
+म॒हः स रा॒य एष॒तेऽति॒ धन्वे॑व दुरि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “danger; sin; difficulty; difficulty; evil.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

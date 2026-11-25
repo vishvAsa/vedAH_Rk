@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -92,7 +93,12 @@ vácaḥ ← vácas- (nominal stem)
 
 yajñáḥ ← yajñá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ता विश्वा॒ सव॑ना तूतु॒मा कृ॑षे स्व॒यं सू॑नो सहसो॒ यानि॑ दधि॒षे ।  
+वरा॑य ते॒ पात्रं॒ धर्म॑णे॒ तना॑ य॒ज्ञो मन्त्रो॒ ब्रह्मोद्य॑तं॒ वचः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “statement; command; speech; words; advice; word; voice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

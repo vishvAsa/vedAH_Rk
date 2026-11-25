@@ -4,6 +4,7 @@ devataa = "सोमारुद्रौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमारुद्रौ
@@ -89,7 +90,12 @@ kr̥tám ← √kr̥- (root)
 
 tanū́ṣu ← tanū́- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमा॑रुद्रा यु॒वमे॒तान्य॒स्मे विश्वा॑ त॒नूषु॑ भेष॒जानि॑ धत्तम् ।  
+अव॑ स्यतं मु॒ञ्चतं॒ यन्नो॒ अस्ति॑ त॒नूषु॑ ब॒द्धं कृ॒तमेनो॑ अ॒स्मत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

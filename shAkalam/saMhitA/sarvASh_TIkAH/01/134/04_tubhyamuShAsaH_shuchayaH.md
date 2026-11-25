@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -110,7 +111,13 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 vakṣáṇābhyaḥ ← vakṣáṇā- (nominal stem)  
 {case:ABL, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्य॑मु॒षासः॒ शुच॑यः परा॒वति॑ भ॒द्रा वस्त्रा॑ तन्वते॒ दंसु॑ र॒श्मिषु॑ चि॒त्रा नव्ये॑षु र॒श्मिषु॑ ।  
+तुभ्यं॑ धे॒नुः स॑ब॒र्दुघा॒ विश्वा॒ वसू॑नि दोहते ।  
+अज॑नयो म॒रुतो॑ व॒क्षणा॑भ्यो दि॒व आ व॒क्षणा॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -270,7 +277,6 @@ _________
 - “abdomen; udder; inside.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -288,7 +294,7 @@ _________
 For you, the radiant Uṣā-s, the auspicious clothing in the distant realm  
 stretch-out, into the [celestial] houses, into bright rays, into the new rays.  
 For you the cow, yielding milk, milks out all wealth,  
-You generated the Maruts from the womb-center, from womb-center of heaven.  
+You generated the Maruts from the womb-center, from womb-center of heaven.
 </details>
 
 <details><summary>Wilson</summary>
@@ -312,14 +318,6 @@ For you do the gleaming dawns stretch their auspicious garments in  the distance
 For you will the milk-cow, milking her juice, milk out all good things. You begat the Maruts from the belly—from the belly of heaven.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I take dáṃsu here and in I.141.4 as the loc. pl. of the root noun dám- ‘house’ (so also Witzel Gotō) rather than as adv. ‘wondrously’ (Grassmann, Renou). Geldner refuses to tr.
-
-As with raśmíbhiḥ in I.132.5 I take raśmíṣu here as a temporal expr., contrary to the standard tr. The extended phrases in I.135.3, 137.2 support this view.
-
-On vakṣáṇā- ‘belly’ as a pl. tantum, see comm. ad X.27.16.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -327,7 +325,6 @@ Fronted forms of the 2nd sg. pronoun begin most of the metrically significant se
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

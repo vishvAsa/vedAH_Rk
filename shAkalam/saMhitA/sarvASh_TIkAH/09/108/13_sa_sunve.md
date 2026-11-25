@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋणंचयः"
 ChandaH = "गायत्री यवमध्या"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ sukṣitīnā́m ← sukṣití- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सु॑न्वे॒ यो वसू॑नां॒ यो रा॒यामा॑ने॒ता य इळा॑नाम् ।  
+सोमो॒ यः सु॑क्षिती॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
     estate; colony; house.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -183,7 +188,6 @@ He is pressed—who is the leader of goods, of riches, of Iḍā-offerings, Soma
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/13-14.md">
 <details><summary><h2>13-14 ...{Loading}...</h2></summary>
 
@@ -191,7 +195,6 @@ The main cl. in these two vss. consists of the first two words of 13, sá sunve 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

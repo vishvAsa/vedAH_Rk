@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -54,7 +55,12 @@ hr̥dé ← hā́rdi ~ hr̥d- (nominal stem)
 
 vocéma ← √vac- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कद्रु॒द्राय॒ प्रचे॑तसे मी॒ळ्हुष्ट॑माय॒ तव्य॑से ।  
+वो॒चेम॒ शन्त॑मं हृ॒दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +121,6 @@ _________
 - “heart; heart; mind; breast; hṛd \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

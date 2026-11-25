@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ saparyataḥ ← √sapary- (root)
 
 śúṣmam ← śúṣma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं व॒र्धय॒न्तीद्गिरः॒ पतिं॑ तु॒रस्य॒ राध॑सः ।  
+तमिन्न्व॑स्य॒ रोद॑सी दे॒वी शुष्मं॑ सपर्यतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -208,10 +213,6 @@ He whom songs make strong, the lord of overpowering generosity— his tempestuou
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The íd in pāda a seems displaced: we would expect yám íd …, though that order would produce a choppy meter. The íd in c is better positioned, though we actually might expect it to be limiting asya, not the tám anticipating śúṣmam. The published translation does not render either íd; if I were to do so, the result would be “(It’s) just (him) whom the songs make strong … just his tempestuous force that the worldhalves respect.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -219,7 +220,6 @@ Although this tṛca does not have glaring signs of unity, it particularly conce
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

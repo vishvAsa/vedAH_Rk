@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भूतांशः काश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ purutrā́ ← purutrā́ (invariable)
 
 yajathaḥ ← √yaj- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा॒कं॒युजा॑ शकु॒नस्ये॑व प॒क्षा प॒श्वेव॑ चि॒त्रा यजु॒रा ग॑मिष्टम् ।  
+अ॒ग्निरि॑व देव॒योर्दी॑दि॒वांसा॒ परि॑ज्मानेव यजथः पुरु॒त्रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “distributively.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

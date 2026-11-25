@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मधुच्छन्दाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ utá ← utá (invariable)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भ्य॑र्ष म॒हानां॑ दे॒वानां॑ वी॒तिमन्ध॑सा ।  
+अ॒भि वाज॑मु॒त श्रवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “fame; glory; ear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

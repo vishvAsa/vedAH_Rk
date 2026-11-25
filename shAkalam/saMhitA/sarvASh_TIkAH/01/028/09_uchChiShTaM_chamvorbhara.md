@@ -4,6 +4,7 @@ devataa = "हरिश्चन्द्र अधिषवणचर्म व�
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हरिश्चन्द्र अधिषवणचर्म वा सोमो वा
@@ -69,7 +70,12 @@ ní ← ní (invariable)
 
 tvací ← tvác- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उच्छि॒ष्टं च॒म्वो॑र्भर॒ सोमं॑ प॒वित्र॒ आ सृ॑ज ।  
+नि धे॑हि॒ गोरधि॑ त्व॒चि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

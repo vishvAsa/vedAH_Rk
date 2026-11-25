@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शुनःशेपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ mr̥jyate ← √mr̥j- (root)
 
 vā́jāya ← vā́ja- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष दे॒वो वि॑प॒न्युभिः॒ पव॑मान ऋता॒युभिः॑ ।  
+हरि॒र्वाजा॑य मृज्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “purify; polish; rub; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ kā́mam ← kā́ma- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य ऋ॒ते चि॒द्गास्प॒देभ्यो॒ दात्सखा॒ नृभ्यः॒ शची॑वान् ।  
+ये अ॑स्मि॒न्काम॒मश्रि॑यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उशना काव्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ gíraḥ ← gír- ~ gīr- (nominal stem)
 
 vā́jadraviṇasaḥ ← vā́jadraviṇas- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॒ त्वं हि न॒स्करो॒ विश्वा॑ अ॒स्मभ्यं॑ सुक्षि॒तीः ।  
+वाज॑द्रविणसो॒ गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

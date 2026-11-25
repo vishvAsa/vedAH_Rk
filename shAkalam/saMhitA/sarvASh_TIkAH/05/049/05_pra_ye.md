@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिप्रभ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ diváspr̥thivyóḥ ← dyā́vāpr̥thivī́- (nominal stem)
 
 madema ← √mad- (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ये वसु॑भ्य॒ ईव॒दा नमो॒ दुर्ये मि॒त्रे वरु॑णे सू॒क्तवा॑चः ।  
+अवै॒त्वभ्वं॑ कृणु॒ता वरी॑यो दि॒वस्पृ॑थि॒व्योरव॑सा मदेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

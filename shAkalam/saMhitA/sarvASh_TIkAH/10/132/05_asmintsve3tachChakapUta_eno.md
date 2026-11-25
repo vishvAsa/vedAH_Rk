@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "शकपूतो नार्मेधः"
 ChandaH = "विराड्रूपा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -89,7 +90,12 @@ priyā́su ← priyá- (nominal stem)
 
 yajñíyāsu ← yajñíya- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मिन्त्स्वे॒३॒॑तच्छक॑पूत॒ एनो॑ हि॒ते मि॒त्रे निग॑तान्हन्ति वी॒रान् ।  
+अ॒वोर्वा॒ यद्धात्त॒नूष्ववः॑ प्रि॒यासु॑ य॒ज्ञिया॒स्वर्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “horse; arvan \[word\]; racehorse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

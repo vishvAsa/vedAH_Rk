@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कुमार आत्रेयो वृशो वा जान उभौ वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ ahám ← ahám (pronoun)
 
 téna ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हृ॒णी॒यमा॑नो॒ अप॒ हि मदैयेः॒ प्र मे॑ दे॒वानां॑ व्रत॒पा उ॑वाच ।  
+इन्द्रो॑ वि॒द्वाँ अनु॒ हि त्वा॑ च॒चक्ष॒ तेना॒हम॑ग्ने॒ अनु॑शिष्ट॒ आगा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “come; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

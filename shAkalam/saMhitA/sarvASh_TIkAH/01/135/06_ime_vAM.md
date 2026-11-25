@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -119,7 +120,13 @@ avyáyā ← avyáya- (nominal stem)
 
 sómāsaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे वां॒ सोमा॑ अ॒प्स्वा सु॒ता इ॒हाध्व॒र्युभि॒र्भर॑माणा अयंसत॒ वायो॑ शु॒क्रा अ॑यंसत ।  
+ए॒ते वा॑म॒भ्य॑सृक्षत ति॒रः प॒वित्र॑मा॒शवः॑ ।  
+यु॒वा॒यवोऽति॒ रोमा॑ण्य॒व्यया॒ सोमा॑सो॒ अत्य॒व्यया॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -294,7 +301,6 @@ _________
 - “sheep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -329,7 +335,6 @@ seeking you two beyond the sheep’s fleece—the soma drinks beyond the  sheep�
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -337,7 +342,6 @@ As indicated in the published introduction, this tṛca is constructed in parall
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

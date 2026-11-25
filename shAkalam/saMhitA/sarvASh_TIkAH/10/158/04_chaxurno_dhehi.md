@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "चक्षुः सौर्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -69,7 +70,12 @@ sám ← sám (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चक्षु॑र्नो धेहि॒ चक्षु॑षे॒ चक्षु॑र्वि॒ख्यै त॒नूभ्यः॑ ।  
+सं चे॒दं वि च॑ पश्येम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ indra ← índra- (nominal stem)
 
 nís ← nís (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ यदि॑न्द्र॒ रोद॑सी उ॒भे अबु॑भोजीर्महि॒ना वि॒श्वतः॑ सीम् ।  
+अम॑न्यमानाँ अ॒भि मन्य॑मानै॒र्निर्ब्र॒ह्मभि॑रधमो॒ दस्यु॑मिन्द्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

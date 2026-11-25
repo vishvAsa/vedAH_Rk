@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "महापदपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -79,7 +80,12 @@ rukmáḥ ← rukmá- (nominal stem)
 
 upāké ← upāká- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ स्वादि॒ष्ठाग्ने॒ सन्दृ॑ष्टिरि॒दा चि॒दह्न॑ इ॒दा चि॑द॒क्तोः ।  
+श्रि॒ये रु॒क्मो न रो॑चत उपा॒के ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ sám ← sám (invariable)
 
 suṣṭutī́ ← suṣṭutí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे॒षं रू॒पं कृ॑णुते॒ वर्णो॑ अस्य॒ स यत्राश॑य॒त्समृ॑ता॒ सेध॑ति स्रि॒धः ।  
+अ॒प्सा या॑ति स्व॒धया॒ दैव्यं॒ जनं॒ सं सु॑ष्टु॒ती नस॑ते॒ सं गोअ॑ग्रया ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -261,7 +267,6 @@ _________
     glans.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

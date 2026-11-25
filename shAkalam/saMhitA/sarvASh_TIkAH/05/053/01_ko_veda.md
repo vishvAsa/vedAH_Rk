@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -69,7 +70,12 @@ yát ← yá- (pronoun)
 
 yuyujré ← √yuj- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को वे॑द॒ जान॑मेषां॒ को वा॑ पु॒रा सु॒म्नेष्वा॑स म॒रुता॑म् ।  
+यद्यु॑यु॒ज्रे कि॑ला॒स्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - \[noun\], accusative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

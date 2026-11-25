@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -74,7 +75,12 @@ sugādhā́ ← sugādhá- (nominal stem)
 
 sutárā ← sutára- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वी दे॒वस्य॒ रोद॑सी॒ जनि॑त्री॒ बृह॒स्पतिं॑ वावृधतुर्महि॒त्वा ।  
+द॒क्षाय्या॑य दक्षता सखायः॒ कर॒द्ब्रह्म॑णे सु॒तरा॑ सुगा॒धा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “gādha \[word\]; fordable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

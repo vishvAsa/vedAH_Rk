@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ jagamyām ← √gam- (root)
 
 jarimā́ṇam ← jarimán- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वां॒ दंसां॑स्यश्विनाववोचम॒स्य पतिः॑ स्यां सु॒गवः॑ सु॒वीरः॑ ।  
+उ॒त पश्य॑न्नश्नु॒वन्दी॒र्घमायु॒रस्त॑मि॒वेज्ज॑रि॒माणं॑ जगम्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

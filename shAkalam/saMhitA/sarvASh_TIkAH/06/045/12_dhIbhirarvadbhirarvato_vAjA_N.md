@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ jeṣma ← √ji- 1 (root)
 
 tváyā ← tvám (pronoun)  
 {case:INS, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धी॒भिरर्व॑द्भि॒रर्व॑तो॒ वाजाँ॑ इन्द्र श्र॒वाय्या॑न् ।  
+त्वया॑ जेष्म हि॒तं धन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
     dhan; capital; fight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

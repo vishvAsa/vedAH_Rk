@@ -4,6 +4,7 @@ devataa = "ऋतव अग्निर्वा"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतव अग्निर्वा
@@ -17,13 +18,13 @@ ChandaH = "गायत्री"
 हवि᳓ष्मन्तो घृता᳓चिया  
 देवा᳓ञ् जिगाति सुम्नयुः᳓
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 प्र वो॒ वाजा॑ अ॒भिद्य॑वः ।  
 ह॒विष्म॑न्तो घृ॒ताच्या॑ ।  
 दे॒वाञ्जि॑गाति सुम्न॒युः ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -64,7 +65,12 @@ jigāti ← √gā- (root)
 
 sumnayúḥ ← sumnayú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॒ वाजा॑ अ॒भिद्य॑वो ह॒विष्म॑न्तो घृ॒ताच्या॑ ।  
+दे॒वाञ्जि॑गाति सुम्न॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -264,5 +269,3 @@ Vor dringt eur Opfer himmelwärts, im Butterlöffel trankversehn, Zu Göttern ei
 
 भावार्थभाषाः -  जसे पदार्थ दिवसा सुकतात व रात्री ओलसर होतात त्याच प्रकारे जे पदार्थ आपले आहेत ते इतरांचे व जे इतरांचे ते आपले आहेत या प्रकारे सुखाच्या इच्छेने विद्वानांचा संग केला पाहिजे. ॥ १ ॥
 </details>
-
-

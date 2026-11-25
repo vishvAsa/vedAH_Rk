@@ -4,6 +4,7 @@ devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्याविवाहः
@@ -71,7 +72,12 @@ diví ← dyú- ~ div- (nominal stem)
 
 pánthāḥ ← pánthā- ~ path- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒क्सा॒माभ्या॑म॒भिहि॑तौ॒ गावौ॑ ते साम॒नावि॑तः ।  
+श्रोत्रं॑ ते च॒क्रे आ॑स्तां दि॒वि पन्था॑श्चराचा॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “behavior; custom; rule; manner; regulation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

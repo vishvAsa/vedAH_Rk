@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः कश्यपो वा मारीचः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -52,7 +53,11 @@ nidhīnā́m ← nidhí- (nominal stem)
 
 veda ← √vid- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒थ एकः॑ पीपाय॒ तस्क॑रो यथाँ ए॒ष वे॑द निधी॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +122,6 @@ _________
 - “hoard; receptacle; treasure; ocean; instrument.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

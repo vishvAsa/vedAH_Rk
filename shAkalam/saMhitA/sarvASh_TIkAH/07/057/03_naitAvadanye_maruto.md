@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ samānám ← samāná- (nominal stem)
 
 śubhé ← śúbh- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नैताव॑द॒न्ये म॒रुतो॒ यथे॒मे भ्राज॑न्ते रु॒क्मैरायु॑धैस्त॒नूभिः॑ ।  
+आ रोद॑सी विश्व॒पिशः॑ पिशा॒नाः स॑मा॒नम॒ञ्ज्य॑ञ्जते शु॒भे कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “kaṃ \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

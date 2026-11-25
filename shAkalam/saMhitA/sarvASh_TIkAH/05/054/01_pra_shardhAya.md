@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ máhi ← máh- (nominal stem)
 
 nr̥mṇám ← nr̥mṇá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र शर्धा॑य॒ मारु॑ताय॒ स्वभा॑नव इ॒मां वाच॑मनजा पर्वत॒च्युते॑ ।  
+घ॒र्म॒स्तुभे॑ दि॒व आ पृ॑ष्ठ॒यज्व॑ने द्यु॒म्नश्र॑वसे॒ महि॑ नृ॒म्णम॑र्चत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “sing; worship; honor; praise; welcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

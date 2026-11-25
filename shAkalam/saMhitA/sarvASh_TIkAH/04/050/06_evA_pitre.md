@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -77,7 +78,12 @@ syāma ← √as- 1 (root)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा पि॒त्रे वि॒श्वदे॑वाय॒ वृष्णे॑ य॒ज्ञैर्वि॑धेम॒ नम॑सा ह॒विर्भिः॑ ।  
+बृह॑स्पते सुप्र॒जा वी॒रव॑न्तो व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -233,10 +238,6 @@ Thus to the father to all the gods, to the bull, we would do honor with  sacrifi
 O Br̥haspati, may we, possessed of good offspring and of heroes, be  lords of riches.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As indicated in the published introduction, this is the final vs. of the 1st section of the hymn and has the standard marks of a hymn-final summary vs. It is the best evidence that vss. 1-6 were a separate composition, only secondarily amalgamated with the following two sections. Nonetheless, I think it simply marks a pause and a transition to the thematically contrastive next section.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details><summary><h2>01-06 ...{Loading}...</h2></summary>
 
@@ -244,13 +245,11 @@ As indicated in the published introduction, this section concerns the unitary fi
 
 </details>
 </div>
-</details>
 
 <details><summary>Keith</summary>
 
 Then to the father, with the All-gods, to the strong one, Let us pay honour with sacrifices, with reverence, with oblations; O Brhaspati, with good offspring, with heroes,  
 May we be lords of wealth.
-
 </details>
 
 <details><summary>Griffith</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -88,7 +89,12 @@ indra ← índra- (nominal stem)
 
 vásau ← vásu- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदु॒दीर॑त आ॒जयो॑ धृ॒ष्णवे॑ धीयते॒ धना॑ ।  
+यु॒क्ष्वा म॑द॒च्युता॒ हरी॒ कं हनः॒ कं वसौ॑ दधो॒ऽस्माँ इ॑न्द्र॒ वसौ॑ दधः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

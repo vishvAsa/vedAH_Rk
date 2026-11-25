@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ táva ← tvám (pronoun)
 
 vraté ← vratá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नो॑ अग्ने॒ तव॑ देव पा॒युभि॑र्म॒घोनो॑ रक्ष त॒न्व॑श्च वन्द्य ।  
+त्रा॒ता तो॒कस्य॒ तन॑ये॒ गवा॑म॒स्यनि॑मेषं॒ रक्ष॑माण॒स्तव॑ व्र॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     \[word\]; rule; behavior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

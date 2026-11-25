@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -98,7 +99,12 @@ jaritā́ ← jaritár- (nominal stem)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यद्दु॑व॒स्याद्दु॒वसे॒ न का॒रुर॒स्माञ्च॒क्रे मा॒न्यस्य॑ मे॒धा ।  
+ओ षु व॑र्त्त मरुतो॒ विप्र॒मच्छे॒मा ब्रह्मा॑णि जरि॒ता वो॑ अर्चत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “sing; worship; honor; praise; welcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

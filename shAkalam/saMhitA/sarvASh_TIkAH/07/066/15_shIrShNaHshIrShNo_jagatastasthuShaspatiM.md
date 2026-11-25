@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -77,7 +78,12 @@ ráthe ← rátha- (nominal stem)
 
 váhanti ← √vah- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शी॒र्ष्णःशी॑र्ष्णो॒ जग॑तस्त॒स्थुष॒स्पतिं॑ स॒मया॒ विश्व॒मा रजः॑ ।  
+स॒प्त स्वसा॑रः सुवि॒ताय॒ सूर्यं॒ वह॑न्ति ह॒रितो॒ रथे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

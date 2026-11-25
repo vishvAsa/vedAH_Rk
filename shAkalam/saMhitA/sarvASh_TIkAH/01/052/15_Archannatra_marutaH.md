@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ práti ← práti (invariable)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आर्च॒न्नत्र॑ म॒रुतः॒ सस्मि॑न्ना॒जौ विश्वे॑ दे॒वासो॑ अमद॒न्ननु॑ त्वा ।  
+वृ॒त्रस्य॒ यद्भृ॑ष्टि॒मता॑ व॒धेन॒ नि त्वमि॑न्द्र॒ प्रत्या॒नं ज॒घन्थ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

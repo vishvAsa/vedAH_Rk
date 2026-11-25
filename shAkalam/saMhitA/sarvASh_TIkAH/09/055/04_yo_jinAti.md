@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ sá ← sá- ~ tá- (pronoun)
 
 sahasrajit ← sahasrajít- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो जि॒नाति॒ न जीय॑ते॒ हन्ति॒ शत्रु॑म॒भीत्य॑ ।  
+स प॑वस्व सहस्रजित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “curative; removing; victorious; winning.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ svā́hā ← svā́hā (invariable)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तिष्ठा॒ हरी॒ रथ॒ आ यु॒ज्यमा॑ना या॒हि वा॒युर्न नि॒युतो॑ नो॒ अच्छ॑ ।  
+पिबा॒स्यन्धो॑ अ॒भिसृ॑ष्टो अ॒स्मे इन्द्र॒ स्वाहा॑ ररि॒मा ते॒ मदा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

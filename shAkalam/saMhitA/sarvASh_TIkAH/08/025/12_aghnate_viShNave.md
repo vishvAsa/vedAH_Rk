@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -57,7 +58,12 @@ sindho ← síndhu- (nominal stem)
 
 svayāvan ← svayāvan- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अघ्न॑ते॒ विष्ण॑वे व॒यमरि॑ष्यन्तः सु॒दान॑वे ।  
+श्रु॒धि स्व॑यावन्त्सिन्धो पू॒र्वचि॑त्तये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “Pūrvacitti.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -176,10 +181,6 @@ Not suffering harm, we (sing) to Viṣṇu of good drops who does  not smite.
 Listen, o River traveling your own course, (for us) to be first in your  thought.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-A verb needs to be supplied for ab to be a clause. On the basis of śrudhí in c, I supply ‘sing’, but any verb of service to a divinity that takes a dative would work. Geldner “serve” (dienen), Renou, somewhat more elaborately “apportons notre prière.” Ideally we would supply sacemahi on the basis of áriṣyantaḥ … sacemahi in 11c, but √sac doesn’t accommodate this case frame. (The few exx. with dat. given by Grassmann are to be explained otherwise.)
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -187,7 +188,6 @@ This tṛca takes a break from Mitra and Varuṇa, introducing a somewhat random
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒र्मृ॒जा॒नास॑ आ॒यवो॒ वृथा॑ समु॒द्रमिन्द॑वः ।  
+अग्म॑न्नृ॒तस्य॒ योनि॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -154,7 +159,6 @@ have come at will to the sea, to the womb of truth.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -162,7 +166,6 @@ The first two vss. of this tṛca both contain nom. ‘drops’ (índavaḥ) and
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ jarate ← √gr̥̄- 1 (root)
 
 svādhī́ḥ ← svādhī́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वस्परि॑ प्रथ॒मं ज॑ज्ञे अ॒ग्निर॒स्मद्द्वि॒तीयं॒ परि॑ जा॒तवे॑दाः ।  
+तृ॒तीय॑म॒प्सु नृ॒मणा॒ अज॑स्र॒मिन्धा॑न एनं जरते स्वा॒धीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “devout; heedful; prudent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

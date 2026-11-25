@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ naḥ ← ahám (pronoun)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चो॒दय॑तं सू॒नृताः॒ पिन्व॑तं॒ धिय॒ उत्पुरं॑धीरीरयतं॒ तदु॑श्मसि ।  
+य॒शसं॑ भा॒गं कृ॑णुतं नो अश्विना॒ सोमं॒ न चारुं॑ म॒घव॑त्सु नस्कृतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

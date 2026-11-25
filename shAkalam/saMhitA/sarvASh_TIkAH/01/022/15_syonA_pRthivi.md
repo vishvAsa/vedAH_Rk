@@ -4,6 +4,7 @@ devataa = "पृथिवी"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पृथिवी
@@ -57,7 +58,12 @@ sapráthaḥ ← sapráthas- (nominal stem)
 
 yácha ← √yam- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्यो॒ना पृ॑थिवि भवानृक्ष॒रा नि॒वेश॑नी ।  
+यच्छा॑ नः॒ शर्म॑ स॒प्रथः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “extensive; wide; extended.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ svā́yāḥ ← svá- (pronoun)
 
 tanvàḥ ← tanū́- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क उ॒ नु ते॑ महि॒मनः॑ समस्या॒स्मत्पूर्व॒ ऋष॒योऽन्त॑मापुः ।  
+यन्मा॒तरं॑ च पि॒तरं॑ च सा॒कमज॑नयथास्त॒न्व१॑ः॒ स्वायाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     present(a); independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

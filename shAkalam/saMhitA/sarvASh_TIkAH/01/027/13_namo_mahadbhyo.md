@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -86,7 +87,12 @@ mā́ ← mā́ (invariable)
 
 vr̥kṣi ← √vr̥j- 1 (root)  
 {number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नमो॑ म॒हद्भ्यो॒ नमो॑ अर्भ॒केभ्यो॒ नमो॒ युव॑भ्यो॒ नम॑ आशि॒नेभ्यः॑ ।  
+यजा॑म दे॒वान्यदि॑ श॒क्नवा॑म॒ मा ज्याय॑सः॒ शंस॒मा वृ॑क्षि देवाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

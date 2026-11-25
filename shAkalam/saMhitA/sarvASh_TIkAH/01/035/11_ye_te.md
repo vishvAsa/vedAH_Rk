@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -92,7 +93,12 @@ naḥ ← ahám (pronoun)
 
 rákṣa ← √rakṣⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये ते॒ पन्थाः॑ सवितः पू॒र्व्यासो॑ऽरे॒णवः॒ सुकृ॑ता अ॒न्तरि॑क्षे ।  
+तेभि॑र्नो अ॒द्य प॒थिभिः॑ सु॒गेभी॒ रक्षा॑ च नो॒ अधि॑ च ब्रूहि देव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

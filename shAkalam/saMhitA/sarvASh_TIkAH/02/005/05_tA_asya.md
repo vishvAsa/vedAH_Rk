@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ yā́ḥ ← yá- (pronoun)
 
 yayúḥ ← √yā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता अ॑स्य॒ वर्ण॑मा॒युवो॒ नेष्टुः॑ सचन्त धे॒नवः॑ ।  
+कु॒वित्ति॒सृभ्य॒ आ वरं॒ स्वसा॑रो॒ या इ॒दं य॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

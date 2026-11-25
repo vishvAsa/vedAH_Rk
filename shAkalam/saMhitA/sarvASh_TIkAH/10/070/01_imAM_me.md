@@ -4,6 +4,7 @@ devataa = "इध्मः समिद्धोग्निर्वा"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इध्मः समिद्धोग्निर्वा
@@ -86,7 +87,12 @@ sukrato ← sukrátu- (nominal stem)
 
 ūrdhváḥ ← ūrdhvá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मां मे॑ अग्ने स॒मिधं॑ जुषस्वे॒ळस्प॒दे प्रति॑ हर्या घृ॒ताची॑म् ।  
+वर्ष्म॑न्पृथि॒व्याः सु॑दिन॒त्वे अह्ना॑मू॒र्ध्वो भ॑व सुक्रतो देवय॒ज्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “sacrifice; yajña.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

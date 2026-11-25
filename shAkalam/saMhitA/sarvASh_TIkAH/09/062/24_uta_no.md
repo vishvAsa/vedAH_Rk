@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ gr̥ṇānáḥ ← √gr̥̄- 1 (root)
 
 jamádagninā ← jamádagni- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नो॒ गोम॑ती॒रिषो॒ विश्वा॑ अर्ष परि॒ष्टुभः॑ ।  
+गृ॒णा॒नो ज॒मद॑ग्निना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “Jamadagni.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -153,10 +158,6 @@ And rush to all our refreshments provided with cows, encircled with  rhythm,
 while being hymned by Jamadagni.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-For some disc. of this passage see Scarlatta 641 with n. 906. He gives pariṣṭúbh- an active value (“ringsum jubelnd, rauschend”) in this passage: “… zu allen, die ringsum Töne von sich geben,” in contrast to my passive “encircled with rhythm,” which follows Renou’s “environnées de rhythmes.” Since the cmpd modifies íṣaḥ ‘refreshments’, it is hard to see how they could actively produce noise, though Scarlatta (n. 906) suggests it might refer to the cows likewise characterizing the refreshments (gómatīr íṣaḥ), in the form of bellowing milk streams. This seems a bit farfetched, though it does allow the form to be semantically united with its other occurrence, in I.166.11, where it modifies the Maruts, who are actively making noise. For the idiom see I.80.9 pári ṣṭobhata “encircle (him) with rhythm!” where it is parallel to arcata “chant!” See also nearby IX.64.28 pariṣṭóbhant-. Geldner takes pariṣṭubhaḥ as a noun ‘lauter Loblieder’, also with active sense.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -164,7 +165,6 @@ gṛṇāná- is found in the first and last vs. (22b, 24c); vss. 23 and 24 cont
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

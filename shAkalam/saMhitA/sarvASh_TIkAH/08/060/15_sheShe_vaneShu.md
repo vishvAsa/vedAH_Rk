@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ devéṣu ← devá- (nominal stem)
 
 rājasi ← √rāj- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शेषे॒ वने॑षु मा॒त्रोः सं त्वा॒ मर्ता॑स इन्धते ।  
+अत॑न्द्रो ह॒व्या व॑हसि हवि॒ष्कृत॒ आदिद्दे॒वेषु॑ राजसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

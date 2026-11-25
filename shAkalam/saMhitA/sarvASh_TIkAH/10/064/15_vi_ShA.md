@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ manīṣíṇaḥ ← manīṣín- (nominal stem)
 
 matíbhiḥ ← matí- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि षा होत्रा॒ विश्व॑मश्नोति॒ वार्यं॒ बृह॒स्पति॑र॒रम॑तिः॒ पनी॑यसी ।  
+ग्रावा॒ यत्र॑ मधु॒षुदु॒च्यते॑ बृ॒हदवी॑वशन्त म॒तिभि॑र्मनी॒षिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “sage; expert; devout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -66,7 +66,11 @@ prāṇáḥ ← prāṇá- (nominal stem)
 
 sūnúḥ ← sūnú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+र॒यिर्न चि॒त्रा सूरो॒ न सं॒दृगायु॒र्न प्रा॒णो नित्यो॒ न सू॒नुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +155,6 @@ _________
 - “son; offspring.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -206,10 +209,6 @@ Wie ansehnlicher Reichtum, wie der Sonne Anblick, wie der Lebenshauch, wie der l
 
 Wie schöner Reichthum, – wie Sonne strahlend, wie Hauch und Leben – wie eigner Sohn lieb; Wie schneller Vogel – eilt ins Gehölz er, wie Milch die Kuh lässt, – hellstrahlend, leuchtend.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

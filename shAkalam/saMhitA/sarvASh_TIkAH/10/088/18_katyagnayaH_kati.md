@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -92,7 +93,12 @@ vaḥ ← tvám (pronoun)
 
 vidmáne ← vidmán- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कत्य॒ग्नयः॒ कति॒ सूर्या॑सः॒ कत्यु॒षासः॒ कत्यु॑ स्वि॒दापः॑ ।  
+नोप॒स्पिजं॑ वः पितरो वदामि पृ॒च्छामि॑ वः कवयो वि॒द्मने॒ कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “kaṃ \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

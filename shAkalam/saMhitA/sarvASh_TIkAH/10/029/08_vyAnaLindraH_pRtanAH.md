@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ sumatyā́ ← sumatí- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्या॑न॒ळिन्द्रः॒ पृत॑नाः॒ स्वोजा॒ आस्मै॑ यतन्ते स॒ख्याय॑ पू॒र्वीः ।  
+आ स्मा॒ रथं॒ न पृत॑नासु तिष्ठ॒ यं भ॒द्रया॑ सुम॒त्या चो॒दया॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “impel; drive; incite; command; drive; arouse; propel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

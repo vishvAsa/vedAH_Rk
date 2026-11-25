@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "घर्मः सौर्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ gharmám ← gharmá- (nominal stem)
 
 sū́ryāt ← sū́rya- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते॑ऽविन्द॒न्मन॑सा॒ दीध्या॑ना॒ यजुः॑ ष्क॒न्नं प्र॑थ॒मं दे॑व॒यान॑म् ।  
+धा॒तुर्द्युता॑नात्सवि॒तुश्च॒ विष्णो॒रा सूर्या॑दभरन्घ॒र्ममे॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “this; he,she,it (pers. pron.); etad \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

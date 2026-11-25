@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ mandī́ ← mandín- (nominal stem)
 
 tośate ← √tuś- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒नू॒पे गोमा॒न्गोभि॑रक्षाः॒ सोमो॑ दु॒ग्धाभि॑रक्षाः ।  
+स॒मु॒द्रं न सं॒वर॑णान्यग्मन्म॒न्दी मदा॑य तोशते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -205,14 +210,6 @@ Provided with cows he has flowed together with the cows at the water’s  edge; 
 They have gone into the enclosures as if into the sea. The invigorating  one wells out for exhilaration.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Both instances of akṣāḥ should probably be read with distracted 2nd syllable, to provide the right no. of syllables in b and the right cadence in both pādas.
-
-In addition, pāda a is metrically deficient, even with this distracted reading. We expect a 12-syl. pāda in the Satobṛhatī that provides the 2nd vss. of the pragāthas in this hymn; the Anukr. simply identifies the vs. instead as a Bṛhatī, which should have an 8-syl. pāda in this position. Even without distracted akṣāḥ, it would have 9 syllables, and with the distraction 10. Best to consider it a deficient Satobṛhatī, which is the vs.-form expected, than an over-abundant Bṛhatī. As for ways to make up the deficiency, see Oldenberg A distracted reading of anūpé would provide at least one more syllable as well as a standard 4-syl. opening; however, neither etym. (*anu-Hp-á-; see EWA s.v.) nor the other occurrence of the stem (X.27.23) favors this distraction.
-
-Oldenberg rather exasperatedly suggests that the metrical disturbances in this vs. (see also the Triṣṭubh cadence of c in a 12-syl. pāda) may result from “mangelhaftes Formgefühl des Vfs.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -220,7 +217,6 @@ The 2nd hemistich of vs. 8 and the first of vs. 9 have a refrain-like structure 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

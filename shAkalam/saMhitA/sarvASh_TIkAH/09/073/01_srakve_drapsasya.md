@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ satyásya ← satyá- (nominal stem)
 
 sukŕ̥tam ← sukŕ̥t- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्रक्वे॑ द्र॒प्सस्य॒ धम॑तः॒ सम॑स्वरन्नृ॒तस्य॒ योना॒ सम॑रन्त॒ नाभ॑यः ।  
+त्रीन्त्स मू॒र्ध्नो असु॑रश्चक्र आ॒रभे॑ स॒त्यस्य॒ नावः॑ सु॒कृत॑मपीपरन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “protect; promote; rescue; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

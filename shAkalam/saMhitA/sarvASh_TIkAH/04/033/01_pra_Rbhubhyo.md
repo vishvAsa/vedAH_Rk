@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ pári ← pári (invariable)
 
 sadyás ← sadyás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ऋ॒भुभ्यो॑ दू॒तमि॑व॒ वाच॑मिष्य उप॒स्तिरे॒ श्वैत॑रीं धे॒नुमी॑ळे ।  
+ये वात॑जूतास्त॒रणि॑भि॒रेवैः॒ परि॒ द्यां स॒द्यो अ॒पसो॑ बभू॒वुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

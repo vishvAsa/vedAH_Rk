@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शतप्रभेदनो वैरूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ dabhī́taye ← dabhī́ti- (nominal stem)
 
 śr̥ṇute ← √śru- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूरि॒ दक्षे॑भिर्वच॒नेभि॒रृक्व॑भिः स॒ख्येभिः॑ स॒ख्यानि॒ प्र वो॑चत ।  
+इन्द्रो॒ धुनिं॑ च॒ चुमु॑रिं च द॒म्भय॑ञ्छ्रद्धामन॒स्या शृ॑णुते द॒भीत॑ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “Dabhīti.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

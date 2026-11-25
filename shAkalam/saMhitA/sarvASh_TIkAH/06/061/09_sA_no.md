@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -66,7 +67,12 @@ iva ← iva (invariable)
 
 sū́ryaḥ ← sū́rya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा नो॒ विश्वा॒ अति॒ द्विषः॒ स्वसॄ॑र॒न्या ऋ॒ताव॑री ।  
+अत॒न्नहे॑व॒ सूर्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -187,14 +192,6 @@ truthful one
 extended us, like the sun the days.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The various tr. (Geldner, Renou, Klein [DGRV I.402]) supply a verb in pāda a, reserving átan (c) for bc. I do not see why. Both Geldner (n. 9a) and Renou do allow for the possibility that átan has domain over the whole vs., but both identify that possible constr. as a zeugma. Again, I don’t see why -- while it is true that hatreds and rivers are different kinds of entities, mingling of the mental and the physical is standard practice in the RV.
-
-Because of its position within the NP víśvā áti dvíṣaḥ, áti is probably not a preverb in tmesis, but rather an adposition. This view is supported by the fact that there are no other exx. of áti √tan in the RV (as Renou points out) or elsewhere, at least acdg. to Mon-Wms.
-
-The position of anyā́ḥ identifies the sisters as a defined and limited group, and of course, as the next vs. states (10b saptásvasā), Sarasvatī has precisely seven sister rivers.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -202,7 +199,6 @@ Unlike the preceding tṛca, this one dispenses with repetition and therefore ha
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

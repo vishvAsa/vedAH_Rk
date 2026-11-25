@@ -4,6 +4,7 @@ devataa = "वरोः सौषाम्णस्य दानस्तुत�
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरोः सौषाम्णस्य दानस्तुतिः
@@ -60,7 +61,12 @@ vājinīvati ← vājínīvant- (nominal stem)
 
 vyàśvebhyaḥ ← vyàśva- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॑ वरो सु॒षाम्णे॑ स॒निभ्य॒ आव॑हो र॒यिम् ।  
+व्य॑श्वेभ्यः सुभगे वाजिनीवति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “rich; rich in horses.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

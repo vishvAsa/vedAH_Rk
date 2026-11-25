@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -89,7 +90,12 @@ udríṇam ← udrín- (nominal stem)
 
 útsam ← útsa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्मा॑स्यमव॒तं ब्रह्म॑ण॒स्पति॒र्मधु॑धारम॒भि यमोज॒सातृ॑णत् ।  
+तमे॒व विश्वे॑ पपिरे स्व॒र्दृशो॑ ब॒हु सा॒कं सि॑सिचु॒रुत्स॑मु॒द्रिण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “filled with water.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

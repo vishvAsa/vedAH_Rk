@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ u ← u (invariable)
 
 vocam ← √vac- (root)  
 {number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ ह्वये सु॒दुघां॑ धे॒नुमे॒तां सु॒हस्तो॑ गो॒धुगु॒त दो॑हदेनाम् ।  
+श्रेष्ठं॑ स॒वं स॑वि॒ता सा॑विषन्नो॒ऽभी॑द्धो घ॒र्मस्तदु॒ षु प्र वो॑चम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -264,7 +270,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

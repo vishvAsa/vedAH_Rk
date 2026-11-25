@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -98,7 +99,12 @@ sā́mnaḥ ← sā́man- (nominal stem)
 
 viduḥ ← √vid- 2 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नः॑ स्ते॒नेभ्यो॒ ये अ॒भि द्रु॒हस्प॒दे नि॑रा॒मिणो॑ रि॒पवोऽन्ने॑षु जागृ॒धुः ।  
+आ दे॒वाना॒मोह॑ते॒ वि व्रयो॑ हृ॒दि बृह॑स्पते॒ न प॒रः साम्नो॑ विदुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -86,7 +87,12 @@ ghanám ← ghaná- (nominal stem)
 
 ugrám ← ugrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तो हि वां॑ दा॒त्रा सन्ति॒ पूर्वा॒ या पू॒रुभ्य॑स्त्र॒सद॑स्युर्नितो॒शे ।  
+क्षे॒त्रा॒सां द॑दथुरुर्वरा॒सां घ॒नं दस्यु॑भ्यो अ॒भिभू॑तिमु॒ग्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     atrocious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

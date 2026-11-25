@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ bŕ̥haspátaye ← bŕ̥haspáti- (nominal stem)
 
 mádhumān ← mádhumant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वा॒दुः प॑वस्व दि॒व्याय॒ जन्म॑ने स्वा॒दुरिन्द्रा॑य सु॒हवी॑तुनाम्ने ।  
+स्वा॒दुर्मि॒त्राय॒ वरु॑णाय वा॒यवे॒ बृह॒स्पत॑ये॒ मधु॑माँ॒ अदा॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “trustworthy; disabused(p).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sutásomaḥ ← sutásoma- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पुष्या॒त्क्षेमे॑ अ॒भि योगे॑ भवात्यु॒भे वृतौ॑ संय॒ती सं ज॑याति ।  
+प्रि॒यः सूर्ये॑ प्रि॒यो अ॒ग्ना भ॑वाति॒ य इन्द्रा॑य सु॒तसो॑मो॒ ददा॑शत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "ऐन्द्रो वसुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ pr̥kṣéṇa ← pr̥kṣá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद्रि॑णा ते म॒न्दिन॑ इन्द्र॒ तूया॑न्त्सु॒न्वन्ति॒ सोमा॒न्पिब॑सि॒ त्वमे॑षाम् ।  
+पच॑न्ति ते वृष॒भाँ अत्सि॒ तेषां॑ पृ॒क्षेण॒ यन्म॑घवन्हू॒यमा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “sacrifice; offer; pour; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ harivaḥ ← hárivant- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॒ त्वमि॑न्द्र वि॒द्ध्य१॒॑स्मान्म॒हो रा॒ये नृ॑पते॒ वज्र॑बाहुः ।  
+रक्षा॑ च नो म॒घोनः॑ पा॒हि सू॒रीन॑ने॒हस॑स्ते हरिवो अ॒भिष्टौ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “prevalence; protection.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

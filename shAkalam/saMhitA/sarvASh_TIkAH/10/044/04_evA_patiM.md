@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा पतिं॑ द्रोण॒साचं॒ सचे॑तसमू॒र्जः स्क॒म्भं ध॒रुण॒ आ वृ॑षायसे ।  
+ओजः॑ कृष्व॒ सं गृ॑भाय॒ त्वे अप्यसो॒ यथा॑ केनि॒पाना॑मि॒नो वृ॒धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

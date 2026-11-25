@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -82,7 +83,12 @@ rā́dhasaḥ ← rā́dhas- (nominal stem)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अ॒र्यो म॑र्त॒भोज॑नं परा॒ददा॑ति दा॒शुषे॑ ।  
+इन्द्रो॑ अ॒स्मभ्यं॑ शिक्षतु॒ वि भ॑जा॒ भूरि॑ ते॒ वसु॑ भक्षी॒य तव॒ राध॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

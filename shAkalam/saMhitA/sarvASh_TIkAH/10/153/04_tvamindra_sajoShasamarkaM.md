@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रमातरो देवजामयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ bibharṣi ← √bhr̥- (root)
 
 vájram ← vájra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमि॑न्द्र स॒जोष॑सम॒र्कं बि॑भर्षि बा॒ह्वोः ।  
+वज्रं॒ शिशा॑न॒ ओज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

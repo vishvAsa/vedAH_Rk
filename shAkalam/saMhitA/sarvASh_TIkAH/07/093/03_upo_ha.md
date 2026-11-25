@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -89,7 +90,12 @@ náraḥ ← nár- (nominal stem)
 
 té ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपो॑ ह॒ यद्वि॒दथं॑ वा॒जिनो॒ गुर्धी॒भिर्विप्राः॒ प्रम॑तिमि॒च्छमा॑नाः ।  
+अर्व॑न्तो॒ न काष्ठां॒ नक्ष॑माणा इन्द्रा॒ग्नी जोहु॑वतो॒ नर॒स्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     \[word\]; dative; once; same.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -256,7 +261,6 @@ and Agni—
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/093/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -268,7 +272,6 @@ However, the first pāda of vs. 4 echoes 3b exactly, save for number: 3b … ví
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ r̥ṣváḥ ← r̥ṣvá- (nominal stem)
 
 vavakṣé ← √vakṣ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गि॒रा वज्रो॒ न सम्भृ॑तः॒ सब॑लो॒ अन॑पच्युतः ।  
+व॒व॒क्ष ऋ॒ष्वो अस्तृ॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “durable; invincible.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

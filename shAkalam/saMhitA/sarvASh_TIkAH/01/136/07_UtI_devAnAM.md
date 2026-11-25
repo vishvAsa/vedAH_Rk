@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्त देवताः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्त देवताः
@@ -83,7 +84,12 @@ tát ← sá- ~ tá- (pronoun)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒ती दे॒वानां॑ व॒यमिन्द्र॑वन्तो मंसी॒महि॒ स्वय॑शसो म॒रुद्भिः॑ ।  
+अ॒ग्निर्मि॒त्रो वरु॑णः॒ शर्म॑ यंस॒न्तद॑श्याम म॒घवा॑नो व॒यं च॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

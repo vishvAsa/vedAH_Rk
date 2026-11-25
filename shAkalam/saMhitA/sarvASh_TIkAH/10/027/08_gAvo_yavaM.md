@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ kíyat ← kíyant- (nominal stem)
 
 svápatiḥ ← svápati- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गावो॒ यवं॒ प्रयु॑ता अ॒र्यो अ॑क्ष॒न्ता अ॑पश्यं स॒हगो॑पा॒श्चर॑न्तीः ।  
+हवा॒ इद॒र्यो अ॒भितः॒ समा॑य॒न्किय॑दासु॒ स्वप॑तिश्छन्दयाते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

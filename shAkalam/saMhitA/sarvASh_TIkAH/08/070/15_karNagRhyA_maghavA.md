@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "पुरउष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ ná ← ná (invariable)
 
 sūríḥ ← sūrí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒र्ण॒गृह्या॑ म॒घवा॑ शौरदे॒व्यो व॒त्सं न॑स्त्रि॒भ्य आन॑यत् ।  
+अ॒जां सू॒रिर्न धात॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “breastfeed; suck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

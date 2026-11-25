@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ ná ← ná (invariable)
 
 yahvī́bhiḥ ← yahvī́- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒तुश्चि॒दूध॑र्ज॒नुषा॑ विवेद॒ व्य॑स्य॒ धारा॑ असृज॒द्वि धेनाः॑ ।  
+गुहा॒ चर॑न्तं॒ सखि॑भिः शि॒वेभि॑र्दि॒वो य॒ह्वीभि॒र्न गुहा॑ बभूव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

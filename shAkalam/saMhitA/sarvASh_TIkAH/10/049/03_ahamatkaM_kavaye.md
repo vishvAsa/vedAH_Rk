@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -95,7 +96,12 @@ raré ← √rā- 1 (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हमत्कं॑ क॒वये॑ शिश्नथं॒ हथै॑र॒हं कुत्स॑मावमा॒भिरू॒तिभिः॑ ।  
+अ॒हं शुष्ण॑स्य॒ श्नथि॑ता॒ वध॑र्यमं॒ न यो र॒र आर्यं॒ नाम॒ दस्य॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “savage; outcast; mugger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

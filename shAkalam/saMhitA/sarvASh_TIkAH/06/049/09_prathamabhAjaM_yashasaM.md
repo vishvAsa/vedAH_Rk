@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ tváṣṭāram ← tváṣṭar- (nominal stem)
 
 vibhā́vā ← vibhā́van- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒थ॒म॒भाजं॑ य॒शसं॑ वयो॒धां सु॑पा॒णिं दे॒वं सु॒गभ॑स्ति॒मृभ्व॑म् ।  
+होता॑ यक्षद्यज॒तं प॒स्त्या॑नाम॒ग्निस्त्वष्टा॑रं सु॒हवं॑ वि॒भावा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “illuminating; shining.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ síṣāsantaḥ ← √sanⁱ- (root)
 
 vanāmahe ← √vanⁱ- (root)  
 {number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ना विश्वा॑न्य॒र्य आ द्यु॒म्नानि॒ मानु॑षाणाम् ।  
+सिषा॑सन्तो वनामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - “obtain; gain; desire; get; like; love; overcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -146,7 +151,6 @@ Seeking to gain all the brilliant things of humans from the stranger, with it we
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -154,7 +158,6 @@ It is difficult to discern any particular unity in this tṛca.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

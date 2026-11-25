@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वम्रो वैखानसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ varāhám ← varāhá- (nominal stem)
 
 vipā́ ← víp- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इद्दासं॑ तुवी॒रवं॒ पति॒र्दन्ष॑ळ॒क्षं त्रि॑शी॒र्षाणं॑ दमन्यत् ।  
+अ॒स्य त्रि॒तो न्वोज॑सा वृधा॒नो वि॒पा व॑रा॒हमयो॑अग्रया हन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

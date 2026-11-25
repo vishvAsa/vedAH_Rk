@@ -4,6 +4,7 @@ devataa = "स्वनयस्य दानस्तुतिः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वनयस्य दानस्तुतिः
@@ -86,7 +87,12 @@ pádim ← pádi- (nominal stem)
 
 utsinā́ti ← √sā- ~ si- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒गुर॑सत्सुहिर॒ण्यः स्वश्वो॑ बृ॒हद॑स्मै॒ वय॒ इन्द्रो॑ दधाति ।  
+यस्त्वा॒यन्तं॒ वसु॑ना प्रातरित्वो मु॒क्षीज॑येव॒ पदि॑मुत्सि॒नाति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

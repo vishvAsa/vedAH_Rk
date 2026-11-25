@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ tanūpā́m ← tanūpā́- (nominal stem)
 
 vásum ← vásu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निरि॒षां स॒ख्ये द॑दातु न॒ ईशे॒ यो वार्या॑णाम् ।  
+अ॒ग्निं तो॒के तन॑ये॒ शश्व॑दीमहे॒ वसुं॒ सन्तं॑ तनू॒पाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “protecting.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

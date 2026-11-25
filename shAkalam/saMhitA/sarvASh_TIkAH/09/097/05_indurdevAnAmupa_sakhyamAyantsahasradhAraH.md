@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "इन्द्रप्रमतिर्वासिष्ठ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ mahaté ← mahā́nt- (nominal stem)
 
 saúbhagāya ← saúbhaga- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दु॑र्दे॒वाना॒मुप॑ स॒ख्यमा॒यन्त्स॒हस्र॑धारः पवते॒ मदा॑य ।  
+नृभिः॒ स्तवा॑नो॒ अनु॒ धाम॒ पूर्व॒मग॒न्निन्द्रं॑ मह॒ते सौभ॑गाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “well-being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -241,10 +246,6 @@ The drop, coming here to fellowship with the gods, purifies himself in a  thousa
 Being praised by men, he has gone along his earlier domain, to Indra for  great good portion.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner and Renou take ánu dhā́ma pū́rvam as referring to an earlier mode of praise (e.g., “nach der früheren Weise”), but dhā́man- in soma hymns tends, in my view, to refer to the physical domain(s) of the ritual ground, which Soma typically travels across in the course of his ritual preparation. See, e.g., the exx. in the immediately preceding hymn IX.96.18-19 and comm. thereon).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -252,7 +253,6 @@ As Renou points out (ad vs. 6), the key to this tṛca is the dative of purpose:
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

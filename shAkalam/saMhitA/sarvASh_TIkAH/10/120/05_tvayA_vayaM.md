@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहद्दिव आथर्वणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ te ← tvám (pronoun)
 
 váyāṁsi ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वया॑ व॒यं शा॑शद्महे॒ रणे॑षु प्र॒पश्य॑न्तो यु॒धेन्या॑नि॒ भूरि॑ ।  
+चो॒दया॑मि त॒ आयु॑धा॒ वचो॑भिः॒ सं ते॑ शिशामि॒ ब्रह्म॑णा॒ वयां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
     food.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

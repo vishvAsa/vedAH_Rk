@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ pāpáyā ← pāpá- (nominal stem)
 
 syā́t ← √as- 1 (root)  
 {number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न त्वा॑ रासीया॒भिश॑स्तये वसो॒ न पा॑प॒त्वाय॑ सन्त्य ।  
+न मे॑ स्तो॒ताम॑ती॒वा न दुर्हि॑तः॒ स्याद॑ग्ने॒ न पा॒पया॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “evil; dangerous; wicked; pāpa \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

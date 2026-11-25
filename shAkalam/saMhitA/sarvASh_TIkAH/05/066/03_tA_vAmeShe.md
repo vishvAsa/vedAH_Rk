@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "रातहव्य आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -68,7 +69,12 @@ manāmahe ← √man- 1 (root)
 
 stómaiḥ ← stóma- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता वा॒मेषे॒ रथा॑नामु॒र्वीं गव्यू॑तिमेषाम् ।  
+रा॒तह॑व्यस्य सुष्टु॒तिं द॒धृक्स्तोमै॑र्मनामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "सूनुरार्भवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -71,7 +72,12 @@ mātáram ← mātár- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सू॒नव॑ ऋभू॒णां बृ॒हन्न॑वन्त वृ॒जना॑ ।  
+क्षामा॒ ये वि॒श्वधा॑य॒सोऽश्न॑न्धे॒नुं न मा॒तर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

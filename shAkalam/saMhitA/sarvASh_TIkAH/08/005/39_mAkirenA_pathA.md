@@ -4,6 +4,7 @@ devataa = "चैद्यस्य कशोर्दानस्तुति�
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - चैद्यस्य कशोर्दानस्तुतिः
@@ -77,7 +78,12 @@ bhūridā́vattaraḥ ← bhūridā́vattara- (nominal stem)
 
 jánaḥ ← jána- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+माकि॑रे॒ना प॒था गा॒द्येने॒मे यन्ति॑ चे॒दयः॑ ।  
+अ॒न्यो नेत्सू॒रिरोह॑ते भूरि॒दाव॑त्तरो॒ जनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

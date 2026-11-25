@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ purás ← purás (invariable)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रः॒ स्पळु॒त वृ॑त्र॒हा प॑र॒स्पा नो॒ वरे॑ण्यः ।  
+स नो॑ रक्षिषच्चर॒मं स म॑ध्य॒मं स प॒श्चात्पा॑तु नः पु॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

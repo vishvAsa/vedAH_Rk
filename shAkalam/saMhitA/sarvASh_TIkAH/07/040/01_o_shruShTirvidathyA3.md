@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ syā́ma ← √as- 1 (root)
 
 vibhāgé ← vibhāgá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओ श्रु॒ष्टिर्वि॑द॒थ्या॒३॒॑ समे॑तु॒ प्रति॒ स्तोमं॑ दधीमहि तु॒राणा॑म् ।  
+यद॒द्य दे॒वः स॑वि॒ता सु॒वाति॒ स्यामा॑स्य र॒त्निनो॑ विभा॒गे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     rule; distribution; distribution.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

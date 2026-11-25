@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -67,7 +68,12 @@ ví ← ví (invariable)
 
 srídhaḥ ← srídh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ यजि॑ष्ठो अध्व॒रे दे॒वान्दे॑वय॒ते य॑ज ।  
+होता॑ म॒न्द्रो वि रा॑ज॒स्यति॒ स्रिधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “failure; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

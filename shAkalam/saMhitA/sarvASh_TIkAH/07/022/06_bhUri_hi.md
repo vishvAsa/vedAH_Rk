@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -78,7 +79,12 @@ mā́ ← mā́ (invariable)
 
 maghavan ← maghávan- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूरि॒ हि ते॒ सव॑ना॒ मानु॑षेषु॒ भूरि॑ मनी॒षी ह॑वते॒ त्वामित् ।  
+मारे अ॒स्मन्म॑घव॒ञ्ज्योक्कः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

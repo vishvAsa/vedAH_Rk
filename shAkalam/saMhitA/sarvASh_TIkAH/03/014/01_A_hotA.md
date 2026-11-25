@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ pr̥thivyā́m ← pr̥thivī́- (nominal stem)
 
 śocíṣkeśaḥ ← śocíṣkeśa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ होता॑ म॒न्द्रो वि॒दथा॑न्यस्थात्स॒त्यो यज्वा॑ क॒वित॑मः॒ स वे॒धाः ।  
+वि॒द्युद्र॑थः॒ सह॑सस्पु॒त्रो अ॒ग्निः शो॒चिष्के॑शः पृथि॒व्यां पाजो॑ अश्रेत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

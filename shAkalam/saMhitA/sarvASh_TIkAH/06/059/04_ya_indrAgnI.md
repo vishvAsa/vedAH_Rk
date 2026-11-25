@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -74,7 +75,12 @@ devā ← devá- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इ॑न्द्राग्नी सु॒तेषु॑ वां॒ स्तव॒त्तेष्वृ॑तावृधा ।  
+जो॒ष॒वा॒कं वद॑तः पज्रहोषिणा॒ न दे॑वा भ॒सथ॑श्च॒न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “not even; cana \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

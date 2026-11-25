@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -74,7 +75,12 @@ netrī́ ← netrī́- (nominal stem)
 
 yajñásya ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वी दे॒वेभि॑र्यज॒ते यज॑त्रै॒रमि॑नती तस्थतुरु॒क्षमा॑णे ।  
+ऋ॒ताव॑री अ॒द्रुहा॑ दे॒वपु॑त्रे य॒ज्ञस्य॑ ने॒त्री शु॒चय॑द्भिर॒र्कैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
     beam.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -92,7 +93,12 @@ deváhūtim ← deváhūti- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा॒ध्वीम॑कर्दे॒ववी॑तिं नो अ॒द्य य॒ज्ञस्य॑ जि॒ह्वाम॑विदाम॒ गुह्या॑म् ।  
+स आयु॒रागा॑त्सुर॒भिर्वसा॑नो भ॒द्राम॑कर्दे॒वहू॑तिं नो अ॒द्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “now; today; then; nowadays; adya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

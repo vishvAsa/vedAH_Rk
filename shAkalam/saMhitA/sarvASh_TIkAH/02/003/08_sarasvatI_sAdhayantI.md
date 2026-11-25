@@ -4,6 +4,7 @@ devataa = "तिस्रो देव्यः सरस्वतीळाभ�
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तिस्रो देव्यः सरस्वतीळाभारत्यः
@@ -86,7 +87,12 @@ pāntu ← √pā- 1 (root)
 
 śaraṇám ← śaraṇá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सर॑स्वती सा॒धय॑न्ती॒ धियं॑ न॒ इळा॑ दे॒वी भार॑ती वि॒श्वतू॑र्तिः ।  
+ति॒स्रो दे॒वीः स्व॒धया॑ ब॒र्हिरेदमच्छि॑द्रं पान्तु शर॒णं नि॒षद्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “sit down; sit; put.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

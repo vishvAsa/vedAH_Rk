@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ vivāsema ← √vanⁱ- (root)
 
 vr̥tratū́ryeṣu ← vr̥tratū́rya- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा ज॑ज्ञा॒नं सह॑से॒ असा॑मि वावृधा॒नं राध॑से च श्रु॒ताय॑ ।  
+म॒हामु॒ग्रमव॑से विप्र नू॒नमा वि॑वासेम वृत्र॒तूर्ये॑षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “battle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

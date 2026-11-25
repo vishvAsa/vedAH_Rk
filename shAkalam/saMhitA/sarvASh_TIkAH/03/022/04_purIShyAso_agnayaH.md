@@ -4,6 +4,7 @@ devataa = "पुरीष्या अग्नयः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरीष्या अग्नयः
@@ -62,7 +63,12 @@ anamīvā́ḥ ← anamīvá- (nominal stem)
 
 mahī́ḥ ← máh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒री॒ष्या॑सो अ॒ग्नयः॑ प्राव॒णेभिः॑ स॒जोष॑सः ।  
+जु॒षन्तां॑ य॒ज्ञम॒द्रुहो॑ऽनमी॒वा इषो॑ म॒हीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “great; firm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

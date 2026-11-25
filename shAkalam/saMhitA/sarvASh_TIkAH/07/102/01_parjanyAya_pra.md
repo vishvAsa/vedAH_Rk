@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "वसिष्ठः कुमारो वाग्नेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -60,7 +61,12 @@ sá ← sá- ~ tá- (pronoun)
 
 yávasam ← yávasa- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒र्जन्या॑य॒ प्र गा॑यत दि॒वस्पु॒त्राय॑ मी॒ळ्हुषे॑ ।  
+स नो॒ यव॑समिच्छतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

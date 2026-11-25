@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ ugrāḥ ← ugrá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धू॒नु॒थ द्यां पर्व॑तान्दा॒शुषे॒ वसु॒ नि वो॒ वना॑ जिहते॒ याम॑नो भि॒या ।  
+को॒पय॑थ पृथि॒वीं पृ॑श्निमातरः शु॒भे यदु॑ग्राः॒ पृष॑ती॒रयु॑ग्ध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     affect; challenge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गोतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ girā́ ← gír- ~ gīr- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हि॒न्वन्ति॒ सूर॒मुस्र॑यः॒ पव॑मानं मधु॒श्चुत॑म् ।  
+अ॒भि गि॒रा सम॑स्वरन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “sing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -153,7 +158,6 @@ they cry out in unison with a song.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -164,7 +168,6 @@ On úsrayaḥ as ‘rosy (fingers)’ see comm. ad IV.65.1.
 The published translation contains a grammatical error: asvaran should of course be ‘they cried’ not ‘they cry’.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

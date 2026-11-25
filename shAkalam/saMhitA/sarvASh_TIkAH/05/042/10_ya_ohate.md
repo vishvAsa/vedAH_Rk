@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ siṣvidānáḥ ← √svid- (root)
 
 tuchyā́n ← tuchyá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य ओह॑ते र॒क्षसो॑ दे॒ववी॑तावच॒क्रेभि॒स्तं म॑रुतो॒ नि या॑त ।  
+यो वः॒ शमीं॑ शशमा॒नस्य॒ निन्दा॑त्तु॒च्छ्यान्कामा॑न्करते सिष्विदा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “sveday; svid; sweat; heat; macerate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

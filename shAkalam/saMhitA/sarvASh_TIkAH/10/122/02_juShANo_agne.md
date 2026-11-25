@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "चित्रमहा वासिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ táva ← tvám (pronoun)
 
 vratám ← vratá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जु॒षा॒णो अ॑ग्ने॒ प्रति॑ हर्य मे॒ वचो॒ विश्वा॑नि वि॒द्वान्व॒युना॑नि सुक्रतो ।  
+घृत॑निर्णि॒ग्ब्रह्म॑णे गा॒तुमेर॑य॒ तव॑ दे॒वा अ॑जनय॒न्ननु॑ व्र॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     \[word\]; rule; behavior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ viddhí ← √vid- 2 (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रं॑ म॒तिर्हृ॒द आ व॒च्यमा॒नाच्छा॒ पतिं॒ स्तोम॑तष्टा जिगाति ।  
+या जागृ॑विर्वि॒दथे॑ श॒स्यमा॒नेन्द्र॒ यत्ते॒ जाय॑ते वि॒द्धि तस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     \[word\]; dative; once; same.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

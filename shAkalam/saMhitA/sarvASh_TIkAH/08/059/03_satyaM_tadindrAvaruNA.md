@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "सुपर्णः काण्वः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -95,7 +96,12 @@ vām ← tvám (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒त्यं तदि॑न्द्रावरुणा कृ॒शस्य॑ वां॒ मध्व॑ ऊ॒र्मिं दु॑हते स॒प्त वाणीः॑ ।  
+ताभि॑र्दा॒श्वांस॑मवतं शुभस्पती॒ यो वा॒मद॑ब्धो अ॒भि पाति॒ चित्ति॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

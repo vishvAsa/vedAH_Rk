@@ -4,6 +4,7 @@ devataa = "दक्षिणा तद्दातारो वा"
 RShiH = "दिव्यो दक्षिणा वा प्राजापत्या"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दक्षिणा तद्दातारो वा
@@ -89,7 +90,12 @@ rarā́dha ← √rādh- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमे॒व ऋषिं॒ तमु॑ ब्र॒ह्माण॑माहुर्यज्ञ॒न्यं॑ साम॒गामु॑क्थ॒शास॑म् ।  
+स शु॒क्रस्य॑ त॒न्वो॑ वेद ति॒स्रो यः प्र॑थ॒मो दक्षि॑णया र॒राध॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “thrive; boom; succeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

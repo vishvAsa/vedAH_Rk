@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कलिः प्रगाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vácaḥ ← vácas- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वा॒वन्थ॑ पुरुष्टुत पु॒रा चि॑च्छूर नृ॒णाम् ।  
+व॒यं तत्त॑ इन्द्र॒ सं भ॑रामसि य॒ज्ञमु॒क्थं तु॒रं वचः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “statement; command; speech; words; advice; word; voice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

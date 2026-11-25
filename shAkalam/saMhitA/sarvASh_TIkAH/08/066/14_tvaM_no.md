@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कलिः प्रगाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ gātuvít ← gātuvíd- (nominal stem)
 
 śíkṣa ← √śak- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नो॑ अ॒स्या अम॑तेरु॒त क्षु॒धो॒३॒॑ऽभिश॑स्ते॒रव॑ स्पृधि ।  
+त्वं न॑ ऊ॒ती तव॑ चि॒त्रया॑ धि॒या शिक्षा॑ शचिष्ठ गातु॒वित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “conversant(p); aware(p); enlightened; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

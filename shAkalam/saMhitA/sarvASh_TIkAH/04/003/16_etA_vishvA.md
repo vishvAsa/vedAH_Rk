@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ ukthaíḥ ← ukthá- (nominal stem)
 
 vípraḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ता विश्वा॑ वि॒दुषे॒ तुभ्यं॑ वेधो नी॒थान्य॑ग्ने नि॒ण्या वचां॑सि ।  
+नि॒वच॑ना क॒वये॒ काव्या॒न्यशं॑सिषं म॒तिभि॒र्विप्र॑ उ॒क्थैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “hymn; praise; uktha \[word\]; encomium.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

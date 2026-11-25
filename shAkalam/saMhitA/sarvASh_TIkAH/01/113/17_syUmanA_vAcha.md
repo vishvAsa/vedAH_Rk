@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ ní ← ní (invariable)
 
 prajā́vat ← prajā́vant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्यूम॑ना वा॒च उदि॑यर्ति॒ वह्निः॒ स्तवा॑नो रे॒भ उ॒षसो॑ विभा॒तीः ।  
+अ॒द्या तदु॑च्छ गृण॒ते म॑घोन्य॒स्मे आयु॒र्नि दि॑दीहि प्र॒जाव॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “prolific.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

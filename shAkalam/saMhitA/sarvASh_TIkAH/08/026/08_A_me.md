@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ devébhiḥ ← devá- (nominal stem)
 
 sacánastamā ← sacánastama- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ मे॑ अ॒स्य प्र॑ती॒व्य१॒॑मिन्द्र॑नासत्या गतम् ।  
+दे॒वा दे॒वेभि॑र॒द्य स॒चन॑स्तमा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - \[noun\], nominative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

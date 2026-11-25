@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -66,7 +67,12 @@ vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒श्रेव॑ वि॒द्युन्मि॑माति व॒त्सं न मा॒ता सि॑षक्ति ।  
+यदे॑षां वृ॒ष्टिरस॑र्जि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
     use; be born; make.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

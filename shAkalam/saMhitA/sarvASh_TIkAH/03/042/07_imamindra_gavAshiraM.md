@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ sutám ← √su- (root)
 
 vŕ̥ṣabhiḥ ← vŕ̥ṣan- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ममि॑न्द्र॒ गवा॑शिरं॒ यवा॑शिरं च नः पिब ।  
+आ॒गत्या॒ वृष॑भिः सु॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “son; child.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

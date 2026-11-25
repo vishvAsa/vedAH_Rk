@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -89,7 +90,12 @@ pr̥thivi ← pr̥thivī́- (nominal stem)
 
 urvī́ ← urú- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग्नाश्च॒ यन्नर॑श्च वावृ॒धन्त॒ विश्वे॑ दे॒वासो॑ न॒रां स्वगू॑र्ताः ।  
+प्रैभ्य॑ इन्द्रावरुणा महि॒त्वा द्यौश्च॑ पृथिवि भूतमु॒र्वी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

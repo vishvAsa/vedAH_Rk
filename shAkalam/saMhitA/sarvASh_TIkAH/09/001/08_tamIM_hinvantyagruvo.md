@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मधुच्छन्दाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ tridhā́tu ← tridhā́tu- (nominal stem)
 
 vāraṇám ← vāraṇá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमीं॑ हिन्वन्त्य॒ग्रुवो॒ धम॑न्ति बाकु॒रं दृति॑म् ।  
+त्रि॒धातु॑ वार॒णं मधु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

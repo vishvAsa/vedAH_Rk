@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ yáthā ← yáthā (invariable)
 
 syū́maraśmau ← syū́maraśmi- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पृष॑ध्रे॒ मेध्ये॑ मात॒रिश्व॒नीन्द्र॑ सुवा॒ने अम॑न्दथाः ।  
+यथा॒ सोमं॒ दश॑शिप्रे॒ दशो॑ण्ये॒ स्यूम॑रश्मा॒वृजू॑नसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

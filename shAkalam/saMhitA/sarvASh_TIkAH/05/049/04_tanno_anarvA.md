@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिप्रभ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ syāma ← √as- 1 (root)
 
 vā́jaratnāḥ ← vā́jaratna- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तन्नो॑ अन॒र्वा स॑वि॒ता वरू॑थं॒ तत्सिन्ध॑व इ॒षय॑न्तो॒ अनु॑ ग्मन् ।  
+उप॒ यद्वोचे॑ अध्व॒रस्य॒ होता॑ रा॒यः स्या॑म॒ पत॑यो॒ वाज॑रत्नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
     jewelry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

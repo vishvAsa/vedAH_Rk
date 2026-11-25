@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ pā́si ← √pā- 1 (root)
 
 tyájasā ← tyájas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ स क्षे॑षदृत॒पा ऋ॑ते॒जा उ॒रु ज्योति॑र्नशते देव॒युष्टे॑ ।  
+यं त्वं मि॒त्रेण॒ वरु॑णः स॒जोषा॒ देव॒ पासि॒ त्यज॑सा॒ मर्त॒मंहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “trouble; sin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

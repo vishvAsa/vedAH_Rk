@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 sutīrthā́ ← sutīrthá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रा॒वयेद॑स्य॒ कर्णा॑ वाज॒यध्यै॒ जुष्टा॒मनु॒ प्र दिशं॑ मन्द॒यध्यै॑ ।  
+उ॒द्वा॒वृ॒षा॒णो राध॑से॒ तुवि॑ष्मा॒न्कर॑न्न॒ इन्द्रः॑ सुती॒र्थाभ॑यं च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

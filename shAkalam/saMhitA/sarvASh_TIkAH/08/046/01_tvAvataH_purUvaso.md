@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "पादनिचृत्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ smási ← √as- 1 (root)
 
 sthātar ← sthā́tar- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाव॑तः पुरूवसो व॒यमि॑न्द्र प्रणेतः ।  
+स्मसि॑ स्थातर्हरीणाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
     haritāla; Hari; snake; frog.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

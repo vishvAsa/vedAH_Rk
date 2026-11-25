@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -60,7 +61,12 @@ svadhā́m ← svadhā́- (nominal stem)
 
 úṣaḥ ← uṣás- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒प॒प्रुषी॑ विभावरि॒ व्या॑व॒र्ज्योति॑षा॒ तमः॑ ।  
+उषो॒ अनु॑ स्व॒धाम॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

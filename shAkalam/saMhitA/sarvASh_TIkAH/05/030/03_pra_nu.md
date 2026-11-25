@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sárvasenaḥ ← sárvasena- (nominal stem)
 
 váhate ← √vah- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र नु व॒यं सु॒ते या ते॑ कृ॒तानीन्द्र॒ ब्रवा॑म॒ यानि॑ नो॒ जुजो॑षः ।  
+वेद॒दवि॑द्वाञ्छृ॒णव॑च्च वि॒द्वान्वह॑ते॒ऽयं म॒घवा॒ सर्व॑सेनः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “army; senā \[word\]; armament.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

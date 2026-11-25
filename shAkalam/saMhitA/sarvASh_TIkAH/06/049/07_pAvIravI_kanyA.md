@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ gr̥ṇaté ← √gr̥̄- 1 (root)
 
 yaṁsat ← √yam- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पावी॑रवी क॒न्या॑ चि॒त्रायुः॒ सर॑स्वती वी॒रप॑त्नी॒ धियं॑ धात् ।  
+ग्नाभि॒रच्छि॑द्रं शर॒णं स॒जोषा॑ दुरा॒धर्षं॑ गृण॒ते शर्म॑ यंसत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

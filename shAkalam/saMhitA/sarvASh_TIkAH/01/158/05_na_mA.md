@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ svayám ← svayám (invariable)
 
 úraḥ ← úras- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न मा॑ गरन्न॒द्यो॑ मा॒तृत॑मा दा॒सा यदीं॒ सुस॑मुब्धम॒वाधुः॑ ।  
+शिरो॒ यद॑स्य त्रैत॒नो वि॒तक्ष॑त्स्व॒यं दा॒स उरो॒ अंसा॒वपि॑ ग्ध ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “\_”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

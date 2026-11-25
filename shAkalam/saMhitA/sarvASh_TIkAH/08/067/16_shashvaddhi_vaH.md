@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -60,7 +61,12 @@ nūnám ← nūnám (invariable)
 
 purā́ ← purā́ (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शश्व॒द्धि वः॑ सुदानव॒ आदि॑त्या ऊ॒तिभि॑र्व॒यम् ।  
+पु॒रा नू॒नं बु॑भु॒ज्महे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

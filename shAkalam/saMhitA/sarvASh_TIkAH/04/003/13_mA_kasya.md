@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -101,7 +102,12 @@ ripóḥ ← ripú- (nominal stem)
 
 sákhyuḥ ← sákhi- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा कस्य॑ य॒क्षं सद॒मिद्धु॒रो गा॒ मा वे॒शस्य॑ प्रमिन॒तो मापेः ।  
+मा भ्रातु॑रग्ने॒ अनृ॑जोरृ॒णं वे॒र्मा सख्यु॒र्दक्षं॑ रि॒पोर्भु॑जेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

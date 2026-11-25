@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ sádma ← sádman- (nominal stem)
 
 satyáḥ ← satyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र यु॒जो वा॒चो अ॑ग्रि॒यो वृषाव॑ चक्रद॒द्वने॑ ।  
+सद्मा॒भि स॒त्यो अ॑ध्व॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -177,10 +182,6 @@ Forth (he goes) as the forefront of speech, his yokemate; the bull has  roared d
 toward his seat: he is the real rite.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The phrase satyó adhvaráḥ, which I take as a separate nominal cl., but which can simply be another appositional nominative as most take it, must identify soma as, as it were, the embodiment of the ritual, the substance that must be present for the adhvaráḥ to occur.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/007/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -188,7 +189,6 @@ A verb of motion needs to be supplied with prá in the initial pādas of both vs
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

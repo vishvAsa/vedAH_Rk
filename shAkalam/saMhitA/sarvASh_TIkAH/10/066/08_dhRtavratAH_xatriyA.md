@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -71,7 +72,12 @@ asr̥jan ← √sr̥j- (root)
 
 vr̥tratū́rye ← vr̥tratū́rya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धृ॒तव्र॑ताः क्ष॒त्रिया॑ यज्ञनि॒ष्कृतो॑ बृहद्दि॒वा अ॑ध्व॒राणा॑मभि॒श्रियः॑ ।  
+अ॒ग्निहो॑तार ऋत॒सापो॑ अ॒द्रुहो॒ऽपो अ॑सृज॒न्ननु॑ वृत्र॒तूर्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “battle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

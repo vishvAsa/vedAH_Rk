@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ sasvaje ← √svaj- (root)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यः सोमः॑ क॒लशे॒ष्वाँ अ॒न्तः प॒वित्र॒ आहि॑तः ।  
+तमिन्दुः॒ परि॑ षस्वजे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “embrace.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

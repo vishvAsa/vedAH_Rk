@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ trā́dhvam ← √trā- (root)
 
 yajatrāḥ ← yájatra- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्वाञ्चो॑ अ॒द्या भ॑वता यजत्रा॒ आ वो॒ हार्दि॒ भय॑मानो व्ययेयम् ।  
+त्राध्वं॑ नो देवा नि॒जुरो॒ वृक॑स्य॒ त्राध्वं॑ क॒र्ताद॑व॒पदो॑ यजत्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “adorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

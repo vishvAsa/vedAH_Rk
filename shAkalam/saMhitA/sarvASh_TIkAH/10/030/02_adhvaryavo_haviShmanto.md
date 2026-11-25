@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -92,7 +93,12 @@ tám ← sá- ~ tá- (pronoun)
 
 ūrmím ← ūrmí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध्व॑र्यवो ह॒विष्म॑न्तो॒ हि भू॒ताच्छा॒प इ॑तोश॒तीरु॑शन्तः ।  
+अव॒ याश्चष्टे॑ अरु॒णः सु॑प॒र्णस्तमास्य॑ध्वमू॒र्मिम॒द्या सु॑हस्ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

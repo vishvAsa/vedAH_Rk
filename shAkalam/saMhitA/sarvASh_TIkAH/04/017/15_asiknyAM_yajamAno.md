@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "एकपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -38,7 +39,11 @@ ná ← ná (invariable)
 
 yájamānaḥ ← √yaj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असि॑क्न्यां॒ यज॑मानो॒ न होता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -71,7 +76,6 @@ _________
 - “Hotṛ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

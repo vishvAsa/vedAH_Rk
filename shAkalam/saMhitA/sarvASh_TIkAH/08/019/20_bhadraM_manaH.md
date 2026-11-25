@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ te ← tvám (pronoun)
 
 vanéma ← √vanⁱ- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रं मनः॑ कृणुष्व वृत्र॒तूर्ये॒ येना॑ स॒मत्सु॑ सा॒सहः॑ ।  
+अव॑ स्थि॒रा त॑नुहि॒ भूरि॒ शर्ध॑तां व॒नेमा॑ ते अ॒भिष्टि॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “prevalence; protection.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

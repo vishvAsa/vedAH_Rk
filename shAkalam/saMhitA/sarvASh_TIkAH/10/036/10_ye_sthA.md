@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "लुशो धानाकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ tát ← sá- ~ tá- (pronoun)
 
 vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये स्था मनो॑र्य॒ज्ञिया॒स्ते शृ॑णोतन॒ यद्वो॑ देवा॒ ईम॑हे॒ तद्द॑दातन ।  
+जैत्रं॒ क्रतुं॑ रयि॒मद्वी॒रव॒द्यश॒स्तद्दे॒वाना॒मवो॑ अ॒द्या वृ॑णीमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

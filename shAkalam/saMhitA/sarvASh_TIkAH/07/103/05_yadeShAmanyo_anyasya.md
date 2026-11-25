@@ -4,6 +4,7 @@ devataa = "मंडूकाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मंडूकाः
@@ -92,7 +93,12 @@ vádathana ← √vadⁱ- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदे॑षाम॒न्यो अ॒न्यस्य॒ वाचं॑ शा॒क्तस्ये॑व॒ वद॑ति॒ शिक्ष॑माणः ।  
+सर्वं॒ तदे॑षां स॒मृधे॑व॒ पर्व॒ यत्सु॒वाचो॒ वद॑थ॒नाध्य॒प्सु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

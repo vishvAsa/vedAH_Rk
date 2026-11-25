@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ marútaḥ ← marút- (nominal stem)
 
 śr̥ṇvántu ← √śru- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॒ विश्वे॑ स॒जोष॑सो॒ देवा॑सो॒ गन्त॒नोप॑ नः ।  
+वस॑वो रु॒द्रा अव॑से न॒ आ ग॑मञ्छृ॒ण्वन्तु॑ म॒रुतो॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

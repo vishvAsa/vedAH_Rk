@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ sī́dan ← √sad- (root)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सम्मि॑श्लो अरु॒षो भ॑व सूप॒स्थाभि॒र्न धे॒नुभिः॑ ।  
+सीद॑ञ्छ्ये॒नो न योनि॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -182,10 +187,6 @@ Become a ruddy (bull) mingling with milk-cows as if with (ladies) with  lovely l
 sitting like a falcon on your womb.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As in 16b, the simile in b seems to consist only of what precedes the ná, namely sūpasthā́bhiḥ, while dhenúbhiḥ constitutes the frame. So also Geldner, Renou
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -193,7 +194,6 @@ Little evidence of unity, though 19 and 20 share ‘smashing’ and 20 and 21 co
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

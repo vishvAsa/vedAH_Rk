@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ viśvā́hā ← viśvā́hā (invariable)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध्व॑र्यवोऽरु॒णं दु॒ग्धमं॒शुं जु॒होत॑न वृष॒भाय॑ क्षिती॒नाम् ।  
+गौ॒राद्वेदी॑याँ अव॒पान॒मिन्द्रो॑ वि॒श्वाहेद्या॑ति सु॒तसो॑ममि॒च्छन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

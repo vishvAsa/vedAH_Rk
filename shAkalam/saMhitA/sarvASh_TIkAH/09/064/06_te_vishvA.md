@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ antárikṣyā ← antárikṣya- (nominal stem)
 
 pávantām ← √pū- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते विश्वा॑ दा॒शुषे॒ वसु॒ सोमा॑ दि॒व्यानि॒ पार्थि॑वा ।  
+पव॑न्ता॒मान्तरि॑क्ष्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “celestial.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -154,10 +159,6 @@ _________
 All goods for the pious—heavenly, earthly, and those of the midspace— let these soma juices bring in purifying themselves.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The preverb ā́that turns páva- into a quasi-transitive “bring by purifying oneself” immediately follows the verb, allowing pávantām to take a position matching. that of pávante in 5c and pávamānasya in 7a.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -165,7 +166,6 @@ No strong signs of unity. Vs. 4 does link to vs. 3 in the preceding tṛca throu
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

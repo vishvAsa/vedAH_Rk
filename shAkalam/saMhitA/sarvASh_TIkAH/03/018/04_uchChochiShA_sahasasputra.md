@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कतो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ tanvàm ← tanū́- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उच्छो॒चिषा॑ सहसस्पुत्र स्तु॒तो बृ॒हद्वयः॑ शशमा॒नेषु॑ धेहि ।  
+रे॒वद॑ग्ने वि॒श्वामि॑त्रेषु॒ शं योर्म॑र्मृ॒ज्मा ते॑ त॒न्वं१॒॑ भूरि॒ कृत्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “\*fold; kṛtvas \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "घोर आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ indra ← índra- (nominal stem)
 
 vīrā́n ← vīrá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे प्र य॑न्धि मघवन्नृजीषि॒न्निन्द्र॑ रा॒यो वि॒श्ववा॑रस्य॒ भूरेः॑ ।  
+अ॒स्मे श॒तं श॒रदो॑ जी॒वसे॑ धा अ॒स्मे वी॒राञ्छश्व॑त इन्द्र शिप्रिन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -250,14 +255,12 @@ heroes, o Indra of the lips.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
 Note that the vocabulary of the beginning of the hymn is being turned around reciprocally at the end: bhara (9a) and prá yandhi (9d, 10a) are imperatives addressed to Indra, urging him to bring/offer things to us, whereas in 1a prábhṛtim (at least in my interpr.) and 2c prayamyámānān the same lexical expressions refer to things we offer to Indra. Other ring compositional echoes are the dhāḥ + datival infinitive (1a sātáye dhāḥ and 10c jīváse dhāḥ) and the stem śáśvat- (1b, 10d).
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

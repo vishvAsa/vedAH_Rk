@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ pr̥thivyā́m ← pr̥thivī́- (nominal stem)
 
 r̥tvíyaḥ ← r̥tvíya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र तव्य॑सीं॒ नव्य॑सीं धी॒तिम॒ग्नये॑ वा॒चो म॒तिं सह॑सः सू॒नवे॑ भरे ।  
+अ॒पां नपा॒द्यो वसु॑भिः स॒ह प्रि॒यो होता॑ पृथि॒व्यां न्यसी॑ददृ॒त्वियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “regular; punctual; timely.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

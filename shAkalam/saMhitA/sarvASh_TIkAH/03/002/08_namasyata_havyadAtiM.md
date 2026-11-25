@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -74,7 +75,12 @@ devā́nām ← devá- (nominal stem)
 
 puróhitaḥ ← puróhita- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒म॒स्यत॑ ह॒व्यदा॑तिं स्वध्व॒रं दु॑व॒स्यत॒ दम्यं॑ जा॒तवे॑दसम् ।  
+र॒थीरृ॒तस्य॑ बृह॒तो विच॑र्षणिर॒ग्निर्दे॒वाना॑मभवत्पु॒रोहि॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “Purohita; purohita \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

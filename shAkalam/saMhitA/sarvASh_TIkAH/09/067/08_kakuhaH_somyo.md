@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गोतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ pūrvyáḥ ← pūrvyá- (nominal stem)
 
 pavate ← √pū- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒कु॒हः सो॒म्यो रस॒ इन्दु॒रिन्द्रा॑य पू॒र्व्यः ।  
+आ॒युः प॑वत आ॒यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - \[noun\], dative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -153,7 +158,6 @@ purifies itself for Indra—a lively one for a lively one [/Āyu].
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -164,7 +168,6 @@ On úsrayaḥ as ‘rosy (fingers)’ see comm. ad IV.65.1.
 The published translation contains a grammatical error: asvaran should of course be ‘they cried’ not ‘they cry’.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

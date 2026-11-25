@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ sómaḥ ← sóma- (nominal stem)
 
 víprebhiḥ ← vípra- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स मा॑मृजे ति॒रो अण्वा॑नि मे॒ष्यो॑ मी॒ळ्हे सप्ति॒र्न वा॑ज॒युः ।  
+अ॒नु॒माद्यः॒ पव॑मानो मनी॒षिभिः॒ सोमो॒ विप्रे॑भि॒रृक्व॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “singing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -205,7 +210,6 @@ Self-purifying Soma is to be cheered on by those of inspired thought,  by the in
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -213,7 +217,6 @@ Little overt cohesion. The adv. tiráḥ ‘across’ referring to the filter is
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

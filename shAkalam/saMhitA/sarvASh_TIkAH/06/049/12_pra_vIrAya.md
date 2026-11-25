@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ vacanásya ← vacaná- (nominal stem)
 
 vípaḥ ← víp- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वी॒राय॒ प्र त॒वसे॑ तु॒रायाजा॑ यू॒थेव॑ पशु॒रक्षि॒रस्त॑म् ।  
+स पि॑स्पृशति त॒न्वि॑ श्रु॒तस्य॒ स्तृभि॒र्न नाकं॑ वच॒नस्य॒ विपः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “priest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

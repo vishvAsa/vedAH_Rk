@@ -4,6 +4,7 @@ devataa = "नृणां विवाहमन्त्रा आशीःप�
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नृणां विवाहमन्त्रा आशीःप्रायाः
@@ -92,7 +93,12 @@ sám ← sám (invariable)
 
 suyámam ← suyáma- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒नृ॒क्ष॒रा ऋ॒जवः॑ सन्तु॒ पन्था॒ येभिः॒ सखा॑यो॒ यन्ति॑ नो वरे॒यम् ।  
+सम॑र्य॒मा सं भगो॑ नो निनीया॒त्सं जा॑स्प॒त्यं सु॒यम॑मस्तु देवाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

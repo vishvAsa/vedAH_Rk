@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -92,7 +93,12 @@ gŕ̥dhraḥ ← gŕ̥dhra- (nominal stem)
 
 táraḥ ← táras- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं यं स्तुभो॒ऽवन॑यो॒ न यन्ति॑ समु॒द्रं न स्र॒वतो॒ रोध॑चक्राः ।  
+स वि॒द्वाँ उ॒भयं॑ चष्टे अ॒न्तर्बृह॒स्पति॒स्तर॒ आप॑श्च॒ गृध्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “vulture.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ dákṣam ← dákṣa- (nominal stem)
 
 somíni ← somín- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदिन्न्व॑स्य रिच्य॒तेंऽशो॒ धनं॒ न जि॒ग्युषः॑ ।  
+य इन्द्रो॒ हरि॑वा॒न्न द॑भन्ति॒ तं रिपो॒ दक्षं॑ दधाति सो॒मिनि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -113,7 +114,13 @@ médhiraḥ ← médhira- (nominal stem)
 
 vaniṣīṣṭa ← √vanⁱ- (root)  
 {number:SG, person:3, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वि॒ता यदीं॑ की॒स्तासो॑ अ॒भिद्य॑वो नम॒स्यन्त॑ उप॒वोच॑न्त॒ भृग॑वो म॒थ्नन्तो॑ दा॒शा भृग॑वः ।  
+अ॒ग्निरी॑शे॒ वसू॑नां॒ शुचि॒र्यो ध॒र्णिरे॑षाम् ।  
+प्रि॒याँ अ॑पि॒धीँर्व॑निषीष्ट॒ मेधि॑र॒ आ व॑निषीष्ट॒ मेधि॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -273,7 +280,6 @@ _________
 - “wise; intelligent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

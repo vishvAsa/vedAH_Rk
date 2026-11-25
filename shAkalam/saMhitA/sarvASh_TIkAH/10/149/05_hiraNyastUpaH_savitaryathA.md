@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "अर्चन् हैरण्यस्तूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -89,7 +90,12 @@ práti ← práti (invariable)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यस्तूपः सवित॒र्यथा॑ त्वाङ्गिर॒सो जु॒ह्वे वाजे॑ अ॒स्मिन् ।  
+ए॒वा त्वार्च॒न्नव॑से॒ वन्द॑मानः॒ सोम॑स्येवां॒शुं प्रति॑ जागरा॒हम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

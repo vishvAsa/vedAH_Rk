@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -68,7 +69,12 @@ hatam ← √han- (root)
 
 udadhím ← udadhí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ताविद्दुः॒शंसं॒ मर्त्यं॒ दुर्वि॑द्वांसं रक्ष॒स्विन॑म् ।  
+आ॒भो॒गं हन्म॑ना हतमुद॒धिं हन्म॑ना हतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

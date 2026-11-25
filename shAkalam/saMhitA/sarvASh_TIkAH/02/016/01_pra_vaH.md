@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sanā́t ← sanā́t (invariable)
 
 yúvānam ← yúvan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वः॑ स॒तां ज्येष्ठ॑तमाय सुष्टु॒तिम॒ग्नावि॑व समिधा॒ने ह॒विर्भ॑रे ।  
+इन्द्र॑मजु॒र्यं ज॒रय॑न्तमुक्षि॒तं स॒नाद्युवा॑न॒मव॑से हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

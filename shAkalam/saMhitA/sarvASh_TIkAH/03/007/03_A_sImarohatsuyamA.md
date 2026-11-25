@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ purudhápratīkaḥ ← purudhápratīka- (nominal stem)
 
 tā́ḥ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ सी॑मरोहत्सु॒यमा॒ भव॑न्तीः॒ पति॑श्चिकि॒त्वान्र॑यि॒विद्र॑यी॒णाम् ।  
+प्र नील॑पृष्ठो अत॒सस्य॑ धा॒सेस्ता अ॑वासयत्पुरु॒धप्र॑तीकः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

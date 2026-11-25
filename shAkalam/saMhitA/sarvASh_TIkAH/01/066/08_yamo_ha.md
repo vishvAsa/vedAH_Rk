@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -55,7 +56,11 @@ kanī́nām ← kanyā̀- ~ kanī́n- (nominal stem)
 
 pátiḥ ← páti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒मो ह॑ जा॒तो य॒मो जनि॑त्वं जा॒रः क॒नीनां॒ पति॒र्जनी॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +127,6 @@ _________
 - “wife; jan; woman; jani \[word\]; birth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

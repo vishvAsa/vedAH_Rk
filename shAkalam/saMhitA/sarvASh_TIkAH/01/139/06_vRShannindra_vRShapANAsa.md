@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -119,7 +120,13 @@ naḥ ← ahám (pronoun)
 
 sumr̥ḷīkáḥ ← sumr̥ḷīká- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृष॑न्निन्द्र वृष॒पाणा॑स॒ इन्द॑व इ॒मे सु॒ता अद्रि॑षुतास उ॒द्भिद॒स्तुभ्यं॑ सु॒तास॑ उ॒द्भिदः॑ ।  
+ते त्वा॑ मन्दन्तु दा॒वने॑ म॒हे चि॒त्राय॒ राध॑से ।  
+गी॒र्भिर्गि॑र्वाहः॒ स्तव॑मान॒ आ ग॑हि सुमृळी॒को न॒ आ ग॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -317,7 +324,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -65,7 +66,12 @@ duṣṭáram ← duṣṭára- (nominal stem)
 
 híraṇyavarṇa ← híraṇyavarṇa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदी॑मिन्द्र श्र॒वाय्य॒मिषं॑ शविष्ठ दधि॒षे ।  
+प॒प्र॒थे दी॑र्घ॒श्रुत्त॑मं॒ हिर॑ण्यवर्ण दु॒ष्टर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “incomparable; irresistible; unbearable; unconquerable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

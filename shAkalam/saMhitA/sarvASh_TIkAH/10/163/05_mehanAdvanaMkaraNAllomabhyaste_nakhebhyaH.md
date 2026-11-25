@@ -4,6 +4,7 @@ devataa = "यक्ष्मघ्नं"
 RShiH = "विवृहा काश्यपः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यक्ष्मघ्नं
@@ -71,7 +72,12 @@ ví ← ví (invariable)
 
 vr̥hāmi ← √vr̥h- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मेह॑नाद्वनं॒कर॑णा॒ल्लोम॑भ्यस्ते न॒खेभ्यः॑ ।  
+यक्ष्मं॒ सर्व॑स्मादा॒त्मन॒स्तमि॒दं वि वृ॑हामि ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

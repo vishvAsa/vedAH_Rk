@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ rákṣaḥ ← rákṣas- (nominal stem)
 
 randháyasva ← √randh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं घोषः॑ शृण्वेऽव॒मैर॒मित्रै॑र्ज॒ही न्ये॑ष्व॒शनिं॒ तपि॑ष्ठाम् ।  
+वृ॒श्चेम॒धस्ता॒द्वि रु॑जा॒ सह॑स्व ज॒हि रक्षो॑ मघवन्र॒न्धय॑स्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “subjugate; hand over.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

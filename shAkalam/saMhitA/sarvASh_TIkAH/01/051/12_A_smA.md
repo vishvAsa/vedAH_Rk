@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ rohase ← √ruh- (root)
 
 ślókam ← ślóka- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ स्मा॒ रथं॑ वृष॒पाणे॑षु तिष्ठसि शार्या॒तस्य॒ प्रभृ॑ता॒ येषु॒ मन्द॑से ।  
+इन्द्र॒ यथा॑ सु॒तसो॑मेषु चा॒कनो॑ऽन॒र्वाणं॒ श्लोक॒मा रो॑हसे दि॒वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

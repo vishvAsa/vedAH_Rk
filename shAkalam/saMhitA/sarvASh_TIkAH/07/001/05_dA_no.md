@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -72,7 +73,12 @@ yātumā́vān ← yātumā́vant- (nominal stem)
 
 yā́vā ← yā́van- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दा नो॑ अग्ने धि॒या र॒यिं सु॒वीरं॑ स्वप॒त्यं स॑हस्य प्रश॒स्तम् ।  
+न यं यावा॒ तर॑ति यातु॒मावा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

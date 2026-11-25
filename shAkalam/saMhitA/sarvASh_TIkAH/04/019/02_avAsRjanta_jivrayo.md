@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vartanī́ḥ ← vartaní- (nominal stem)
 
 viśvádhenāḥ ← viśvádhena- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवा॑सृजन्त॒ जिव्र॑यो॒ न दे॒वा भुवः॑ स॒म्राळि॑न्द्र स॒त्ययो॑निः ।  
+अह॒न्नहिं॑ परि॒शया॑न॒मर्णः॒ प्र व॑र्त॒नीर॑रदो वि॒श्वधे॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “alimentary.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

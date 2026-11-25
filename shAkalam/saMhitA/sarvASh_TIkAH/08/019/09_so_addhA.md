@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ sá ← sá- ~ tá- (pronoun)
 
 sánitā ← sánitar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो अ॒द्धा दा॒श्व॑ध्व॒रोऽग्ने॒ मर्तः॑ सुभग॒ स प्र॒शंस्यः॑ ।  
+स धी॒भिर॑स्तु॒ सनि॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “win; get; gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

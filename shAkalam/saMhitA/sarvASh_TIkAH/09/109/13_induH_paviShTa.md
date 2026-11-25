@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -52,7 +53,11 @@ kavíḥ ← kaví- (nominal stem)
 
 upásthe ← upástha- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दुः॑ पविष्ट॒ चारु॒र्मदा॑या॒पामु॒पस्थे॑ क॒विर्भगा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +119,6 @@ _________
     well-being; happiness; overlord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -141,7 +145,6 @@ The dear drop has been purified for exhilaration in the lap of the  waters, the 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -149,7 +152,6 @@ The adj. cā́ru- ‘dear’ occurs in 13 and 14. The gods as recipients of soma
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

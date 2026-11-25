@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ samudrám ← samudrá- (nominal stem)
 
 viśa ← √viś- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒ना॒न इ॑न्दवेषां॒ पुरु॑हूत॒ जना॑नाम् ।  
+प्रि॒यः स॑मु॒द्रमा वि॑श ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -158,7 +163,6 @@ as dear one, enter the sea.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -167,7 +171,6 @@ The unusual acc. expression vā́cam … sahásrabharṇasam is found in both 25
 contain the nom. sg. masc. punānáḥ.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

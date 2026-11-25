@@ -4,6 +4,7 @@ devataa = "सुबन्धोर्जीविताह्वानं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सुबन्धोर्जीविताह्वानं
@@ -80,7 +81,12 @@ nís ← nís (invariable)
 
 súbandho ← subándhu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं मा॒तायं पि॒तायं जी॒वातु॒राग॑मत् ।  
+इ॒दं तव॑ प्र॒सर्प॑णं॒ सुब॑न्ध॒वेहि॒ निरि॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "प्रस्कण्वस्य दानस्तुतिः (
 RShiH = "कृशः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)
@@ -69,7 +70,12 @@ te ← tvám (pronoun)
 
 vr̥ka ← vŕ̥ka- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूरीदिन्द्र॑स्य वी॒र्यं१॒॑ व्यख्य॑म॒भ्याय॑ति ।  
+राध॑स्ते दस्यवे वृक ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

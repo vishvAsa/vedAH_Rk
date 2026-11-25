@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -86,7 +87,12 @@ tásya ← sá- ~ tá- (pronoun)
 
 vām ← tvám (pronoun)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ बृहन्ता बृह॒तीभि॑रू॒ती इन्द्र॑ या॒तं व॑रुण॒ वाज॑सातौ ।  
+यद्दि॒द्यवः॒ पृत॑नासु प्र॒क्रीळा॒न्तस्य॑ वां स्याम सनि॒तार॑ आ॒जेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “battle; fight; contest; āji \[word\]; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -69,7 +70,12 @@ ní ← ní (invariable)
 
 sīdata ← √sad- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ देवास॒ आ ग॑त शृणु॒ता म॑ इ॒मं हव॑म् ।  
+एदं ब॒र्हिर्नि षी॑दत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

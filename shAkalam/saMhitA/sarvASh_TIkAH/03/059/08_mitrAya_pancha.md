@@ -5,13 +5,13 @@ RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रः
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -59,7 +59,12 @@ sá ← sá- ~ tá- (pronoun)
 
 víśvān ← víśva- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्राय॒ पञ्च॑ येमिरे॒ जना॑ अ॒भिष्टि॑शवसे ।  
+स दे॒वान्विश्वा॑न्बिभर्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +140,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -184,8 +188,6 @@ Dem hülfestarken Mitra sind die fünf Geschlechter unterthan, Er trägt die Gö
 Покорились пять народов.  
 Он несет всех богов.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

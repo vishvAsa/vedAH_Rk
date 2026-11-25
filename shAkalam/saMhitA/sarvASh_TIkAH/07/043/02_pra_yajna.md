@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ devayū́ni ← devayú- (nominal stem)
 
 ūrdhvā́ ← ūrdhvá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र य॒ज्ञ ए॑तु॒ हेत्वो॒ न सप्ति॒रुद्य॑च्छध्वं॒ सम॑नसो घृ॒ताचीः॑ ।  
+स्तृ॒णी॒त ब॒र्हिर॑ध्व॒राय॑ सा॒धूर्ध्वा शो॒चींषि॑ देव॒यून्य॑स्थुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -234,12 +239,6 @@ Let the sacrifice go forth, like a team to be spurred on. Being of one  mind, ho
 spread the ritual grass that brings success to the ceremony. The flames,  seeking the gods, have stood up erect.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In c I construe dat. adhvarā́ya with sādhú, giving the latter richer semantics than the mere adverbial “richtig” of Geldner or even Renou’s “correctement.” Found twice in 42 (1d, 5a), adhvará- reappears here, though the word is too common to make much of this.
-
-As noted above ad 42.3, our pāda d seems to be a clearer expression of the image of the increasing flames of the ritual fire found also in 42.3b.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/043/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -247,7 +246,6 @@ The 1st two vss. of this hymn begin with prá, recalling the insistent prá in t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

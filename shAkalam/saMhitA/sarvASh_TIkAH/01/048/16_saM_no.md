@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ vā́jaiḥ ← vā́ja- (nominal stem)
 
 vājinīvati ← vājínīvant- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं नो॑ रा॒या बृ॑ह॒ता वि॒श्वपे॑शसा मिमि॒क्ष्वा समिळा॑भि॒रा ।  
+सं द्यु॒म्नेन॑ विश्व॒तुरो॑षो महि॒ सं वाजै॑र्वाजिनीवति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “rich; rich in horses.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ svadhvaráḥ ← svadhvará- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ हृणीता॒मति॑थि॒र्वसु॑र॒ग्निः पु॑रुप्रश॒स्त ए॒षः ।  
+यः सु॒होता॑ स्वध्व॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -185,12 +190,6 @@ _________
 Let the guest not be angry at us, this good Agni, proclaimed by many, who is the good Hotar of good ceremony.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The mā́prohibitive here takes an apparent impv. hṛṇītām rather than the expected injunctive *hṛṇīta. Hoffmann (94-95) explains this as having an underlying pluti form hṛṇītā3, with nasalization in hiatus, hence *hṛṇītā3m̐, which was misunderstood by the redactors and normalized to hṛṇītām. Although I find this explan. rather ad hoc and over-complex, I have nothing better to suggest. I do not, however, subscribe to his notion that because it is built to a pres. stem, it has inhibitive (“let him stop being angry”) rather than prohibitive (“let him not be angry”) value. There is nothing in the hymn up to this point that would indicate that Agni has anything but benevolent feelings towards us. See Ian Hollenbaugh’s work, which refutes Hoffmann’s assumption of inhibitive value for pres. injunc. with mā́.
-
-Pāda-final eṣáḥ is less rare than I would have predicted, though the usual position of nom. sg. eṣá(ḥ) is pāda initial.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -198,7 +197,6 @@ Both vss. end identically with svadhvaráḥ, but in 12c it refers to Agni, in 1
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

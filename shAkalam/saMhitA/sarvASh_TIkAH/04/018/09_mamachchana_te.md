@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्भिणी वामदेवस्य माता"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sám ← sám (invariable)
 
 vadhéna ← vadhá- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मम॑च्च॒न ते॑ मघव॒न्व्यं॑सो निविवि॒ध्वाँ अप॒ हनू॑ ज॒घान॑ ।  
+अधा॒ निवि॑द्ध॒ उत्त॑रो बभू॒वाञ्छिरो॑ दा॒सस्य॒ सं पि॑णग्व॒धेन॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     dysfunction; punishment; kick.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,14 +247,6 @@ bounteous one.
 Then, (though) pierced down, having gotten the upper hand, you utterly  crushed the head of the Dāsa with your murderous weapon.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As indicated in the published introduction, the contents of this vs. and the reason for its inclusion in this hymn are both deeply obscure, though the occurrence of the rare stem agrū́- ‘unwed girl’ in 7a may have prompted the inclusion of the bizarre anecdote in 9ab. As Geldner's reff. for ab show, the shunned son of a maiden, the blind man, and the lame man are mentioned together in II.13.12, 15.7, I.112.8; also IV.30.16, 19. So, however ill-assorted, this is a set. The unfortunate son of an agrū́is also mentioned in nearby IV.30.16, though there he is only shunned, not eaten by ants.
-
-On ukhachíd- see Scarlatta (131).
-
-Unfortunately I have nothing further to say about the sense of this vs. I have toyed with the possibility that there’s a ritual reference here, to the taking out of the offering fire from the householder’s fire and its removal to the east. But, though there might be rough correspondence -- very rough -- between the first and third parts, the middle part with the blind man and the snake doesn't work at all, as far as I can see.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
 <details><summary><h2>06-09 ...{Loading}...</h2></summary>
 
@@ -257,7 +254,6 @@ For my interpr. of the speakers in these vss. and the role of the waters in the 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

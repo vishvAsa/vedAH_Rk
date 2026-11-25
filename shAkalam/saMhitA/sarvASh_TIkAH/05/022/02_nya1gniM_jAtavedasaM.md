@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वसामात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ adyá ← adyá (invariable)
 
 devávyacastamaḥ ← devávyacastama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न्य१॒॑ग्निं जा॒तवे॑दसं॒ दधा॑ता दे॒वमृ॒त्विज॑म् ।  
+प्र य॒ज्ञ ए॑त्वानु॒षग॒द्या दे॒वव्य॑चस्तमः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

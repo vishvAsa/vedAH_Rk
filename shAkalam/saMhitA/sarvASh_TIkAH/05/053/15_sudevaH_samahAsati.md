@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -66,7 +67,12 @@ trā́yadhve ← √trā- (root)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒दे॒वः स॑महासति सु॒वीरो॑ नरो मरुतः॒ स मर्त्यः॑ ।  
+यं त्राय॑ध्वे॒ स्याम॒ ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
     \[word\]; dative; once; same.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

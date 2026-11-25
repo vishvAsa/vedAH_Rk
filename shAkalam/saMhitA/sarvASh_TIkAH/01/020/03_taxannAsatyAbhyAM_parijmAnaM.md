@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -54,7 +55,12 @@ sabardúghām ← sabardúgha- (nominal stem)
 
 tákṣan ← √takṣ- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तक्ष॒न्नास॑त्याभ्यां॒ परि॑ज्मानं सु॒खं रथ॑म् ।  
+तक्ष॑न्धे॒नुं स॑ब॒र्दुघा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - \[noun\], accusative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ bharádvājāya ← bharádvāja- (nominal stem)
 
 dāśúṣe ← dāśváṁs- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमि॒मा वार्या॑ पु॒रु दिवो॑दासाय सुन्व॒ते ।  
+भ॒रद्वा॑जाय दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -138,10 +143,6 @@ _________
 You—(give) these many valuables to Divodāsa the (soma) presser, to Bharadvāja the pious.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-A verb must be supplied in this vs., with ‘give’ being the obvious choice.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -149,7 +150,6 @@ As noted in the published introduction, each vs. in this tṛca begins with a fo
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

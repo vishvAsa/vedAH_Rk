@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उपमन्युर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ pariṣicyámānaḥ ← √sic- (root)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+र॒साय्यः॒ पय॑सा॒ पिन्व॑मान ई॒रय॑न्नेषि॒ मधु॑मन्तमं॒शुम् ।  
+पव॑मानः सन्त॒निमे॑षि कृ॒ण्वन्निन्द्रा॑य सोम परिषि॒च्यमा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “sprinkle; effuse; rub.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -204,10 +209,6 @@ Purifying yourself, you go, producing thunder, while being poured
 around for Indra, o Soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On saṃtaní- see comm. ad IX.69.2.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -217,7 +218,6 @@ The poet is supposed to be Upamanyu Vāsiṣṭha, presumably following up on th
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

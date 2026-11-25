@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ pavasva ← √pū- (root)
 
 sahasríṇaḥ ← sahasrín- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रा॒यः स॑मु॒द्राँश्च॒तुरो॒ऽस्मभ्यं॑ सोम वि॒श्वतः॑ ।  
+आ प॑वस्व सह॒स्रिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “thousandfold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

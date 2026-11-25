@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ tráyastriṁśatam ← tráyastriṁśat- (nominal stem)
 
 vaha ← √vah- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रु॒ष्टी॒वानो॒ हि दा॒शुषे॑ दे॒वा अ॑ग्ने॒ विचे॑तसः ।  
+तान्रो॑हिदश्व गिर्वण॒स्त्रय॑स्त्रिंशत॒मा व॑ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

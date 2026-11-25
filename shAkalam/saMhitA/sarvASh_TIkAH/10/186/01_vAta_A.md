@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "उलो वातायनः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -66,7 +67,12 @@ prá ← prá (invariable)
 
 tāriṣat ← √tr̥̄- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वात॒ आ वा॑तु भेष॒जं श॒म्भु म॑यो॒भु नो॑ हृ॒दे ।  
+प्र ण॒ आयूं॑षि तारिषत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

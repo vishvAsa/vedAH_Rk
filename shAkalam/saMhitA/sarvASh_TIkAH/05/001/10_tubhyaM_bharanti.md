@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "बुधगविष्ठिरावात्रेयौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ máhi ← máh- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्यं॑ भरन्ति क्षि॒तयो॑ यविष्ठ ब॒लिम॑ग्ने॒ अन्ति॑त॒ ओत दू॒रात् ।  
+आ भन्दि॑ष्ठस्य सुम॒तिं चि॑किद्धि बृ॒हत्ते॑ अग्ने॒ महि॒ शर्म॑ भ॒द्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     fine-looking; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

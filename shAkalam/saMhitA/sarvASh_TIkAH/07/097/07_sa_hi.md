@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -83,7 +84,12 @@ purú ← purú- (nominal stem)
 
 sákhibhyaḥ ← sákhi- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि शुचिः॑ श॒तप॑त्रः॒ स शु॒न्ध्युर्हिर॑ण्यवाशीरिषि॒रः स्व॒र्षाः ।  
+बृह॒स्पतिः॒ स स्वा॑वे॒श ऋ॒ष्वः पु॒रू सखि॑भ्य आसु॒तिं करि॑ष्ठः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

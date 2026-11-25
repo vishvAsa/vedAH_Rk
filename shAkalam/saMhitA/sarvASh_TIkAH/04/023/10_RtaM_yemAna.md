@@ -4,6 +4,7 @@ devataa = "इन्द्र ऋतदेवता वा"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्र ऋतदेवता वा
@@ -86,7 +87,12 @@ paramé ← paramá- (nominal stem)
 
 r̥tā́ya ← r̥tá- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तं ये॑मा॒न ऋ॒तमिद्व॑नोत्यृ॒तस्य॒ शुष्म॑स्तुर॒या उ॑ ग॒व्युः ।  
+ऋ॒ताय॑ पृ॒थ्वी ब॑हु॒ले ग॑भी॒रे ऋ॒ताय॑ धे॒नू प॑र॒मे दु॑हाते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

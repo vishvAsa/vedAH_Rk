@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ rátham ← rátha- (nominal stem)
 
 yuktvā́ ← √yuj- (root)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+निश्चर्म॑णो॒ गाम॑रिणीत धी॒तिभि॒र्या जर॑न्ता युव॒शा ताकृ॑णोतन ।  
+सौध॑न्वना॒ अश्वा॒दश्व॑मतक्षत यु॒क्त्वा रथ॒मुप॑ दे॒वाँ अ॑यातन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

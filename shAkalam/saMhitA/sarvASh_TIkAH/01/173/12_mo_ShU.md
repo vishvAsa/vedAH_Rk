@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ marútaḥ ← marút- (nominal stem)
 
 vándate ← √vandⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मो षू ण॑ इ॒न्द्रात्र॑ पृ॒त्सु दे॒वैरस्ति॒ हि ष्मा॑ ते शुष्मिन्नव॒याः ।  
+म॒हश्चि॒द्यस्य॑ मी॒ळ्हुषो॑ य॒व्या ह॒विष्म॑तो म॒रुतो॒ वन्द॑ते॒ गीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

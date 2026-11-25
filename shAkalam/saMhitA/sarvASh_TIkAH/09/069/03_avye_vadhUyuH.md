@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ nr̥mṇā́ ← nr̥mṇá- (nominal stem)
 
 śobhate ← √śubh- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव्ये॑ वधू॒युः प॑वते॒ परि॑ त्व॒चि श्र॑थ्नी॒ते न॒प्तीरदि॑तेरृ॒तं य॒ते ।  
+हरि॑रक्रान्यज॒तः सं॑य॒तो मदो॑ नृ॒म्णा शिशा॑नो महि॒षो न शो॑भते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “look; shine; beautify.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

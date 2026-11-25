@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ pāhi ← √pā- 2 (root)
 
 sajóṣāḥ ← sajóṣas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑न्द्र दि॒वि पार्ये॒ यदृध॒ग्यद्वा॒ स्वे सद॑ने॒ यत्र॒ वासि॑ ।  
+अतो॑ नो य॒ज्ञमव॑से नि॒युत्वा॑न्त्स॒जोषाः॑ पाहि गिर्वणो म॒रुद्भिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “Marut; vāta; wind; Vayu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

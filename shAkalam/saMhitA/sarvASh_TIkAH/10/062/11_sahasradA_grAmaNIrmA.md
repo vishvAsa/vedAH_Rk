@@ -4,6 +4,7 @@ devataa = "सावर्णेर्दानस्तुतिः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सावर्णेर्दानस्तुतिः
@@ -89,7 +90,12 @@ vā́jam ← vā́ja- (nominal stem)
 
 yásmin ← yá- (pronoun)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒ह॒स्र॒दा ग्रा॑म॒णीर्मा रि॑ष॒न्मनुः॒ सूर्ये॑णास्य॒ यत॑मानैतु॒ दक्षि॑णा ।  
+साव॑र्णेर्दे॒वाः प्र ति॑र॒न्त्वायु॒र्यस्मि॒न्नश्रा॑न्ता॒ अस॑नाम॒ वाज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

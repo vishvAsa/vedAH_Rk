@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ devávītim ← devávīti- (nominal stem)
 
 manāmahe ← √man- 1 (root)  
 {number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रुं नृभ्य॑ उ॒रुं गव॑ उ॒रुं रथा॑य॒ पन्था॑म् ।  
+दे॒ववी॑तिं मनामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ naḥ ← ahám (pronoun)
 
 urvī́m ← urú- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तानि॑ सोम॒ पव॑मानो अस्म॒युः स॒त्यानि॑ कृ॒ण्वन्द्रवि॑णान्यर्षसि ।  
+ज॒हि शत्रु॑मन्ति॒के दू॑र॒के च॒ य उ॒र्वीं गव्यू॑ति॒मभ॑यं च नस्कृधि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -83,7 +84,12 @@ párā ← párā (invariable)
 
 śóśucānaḥ ← √śuc- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परा॑ शृणीहि॒ तप॑सा यातु॒धाना॒न्परा॑ग्ने॒ रक्षो॒ हर॑सा शृणीहि ।  
+परा॒र्चिषा॒ मूर॑देवाञ्छृणीहि॒ परा॑सु॒तृपो॑ अ॒भि शोशु॑चानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “blaze.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

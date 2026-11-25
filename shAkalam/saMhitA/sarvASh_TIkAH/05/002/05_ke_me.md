@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कुमार आत्रेयो वृशो वा जान उभौ वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -104,7 +105,12 @@ paśváḥ ← paśú- (nominal stem)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+के मे॑ मर्य॒कं वि य॑वन्त॒ गोभि॒र्न येषां॑ गो॒पा अर॑णश्चि॒दास॑ ।  
+य ईं॑ जगृ॒भुरव॒ ते सृ॑ज॒न्त्वाजा॑ति प॒श्व उप॑ नश्चिकि॒त्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -259,7 +265,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ ná ← ná (invariable)
 
 varanta ← √vr̥- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद्रो॑घ स॒त्यं तव॒ तन्म॑हि॒त्वं स॒द्यो यज्जा॒तो अपि॑बो ह॒ सोम॑म् ।  
+न द्याव॑ इन्द्र त॒वस॑स्त॒ ओजो॒ नाहा॒ न मासाः॑ श॒रदो॑ वरन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

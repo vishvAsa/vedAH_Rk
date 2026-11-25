@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "वसिष्ठः कुमारो वाग्नेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -89,7 +90,12 @@ svastíbhiḥ ← svastí- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स रे॑तो॒धा वृ॑ष॒भः शश्व॑तीनां॒ तस्मि॑न्ना॒त्मा जग॑तस्त॒स्थुष॑श्च ।  
+तन्म॑ ऋ॒तं पा॑तु श॒तशा॑रदाय यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

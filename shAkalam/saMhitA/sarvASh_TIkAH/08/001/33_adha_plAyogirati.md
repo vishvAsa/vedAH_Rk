@@ -4,6 +4,7 @@ devataa = "आसङ्गस्य दानस्तुतिः"
 RShiH = "आसङ्गः प्लायोगिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आसङ्गस्य दानस्तुतिः
@@ -89,7 +90,12 @@ nís ← nís (invariable)
 
 sárasaḥ ← sáras- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॒ प्लायो॑गि॒रति॑ दासद॒न्याना॑स॒ङ्गो अ॑ग्ने द॒शभिः॑ स॒हस्रैः॑ ।  
+अधो॒क्षणो॒ दश॒ मह्यं॒ रुश॑न्तो न॒ळा इ॑व॒ सर॑सो॒ निर॑तिष्ठन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ samátsu ← samád- (nominal stem)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रु॒त्रा हि स॒दृङ्ङसि॒ विशो॒ विश्वा॒ अनु॑ प्र॒भुः ।  
+स॒मत्सु॑ त्वा हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

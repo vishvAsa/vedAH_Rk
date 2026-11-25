@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ sám ← sám (invariable)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वास॒स्त्वान्विन्द॑वो॒ भुव॑न्द॒स्ममुप॒ द्यवि॑ ।  
+सं ते॑ नमन्त कृ॒ष्टयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “people; citizenry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

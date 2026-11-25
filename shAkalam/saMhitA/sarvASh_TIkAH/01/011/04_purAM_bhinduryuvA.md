@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "जेता माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ puruṣṭutáḥ ← puruṣṭutá- (nominal stem)
 
 vajrī́ ← vajrín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रां भि॒न्दुर्युवा॑ क॒विरमि॑तौजा अजायत ।  
+इन्द्रो॒ विश्व॑स्य॒ कर्म॑णो ध॒र्ता व॒ज्री पु॑रुष्टु॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “Indra; Vishnu; Agni.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ tám ← sá- ~ tá- (pronoun)
 
 tátas ← tátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इ॑न्द्र॒ सस्त्य॑व्र॒तो॑ऽनु॒ष्वाप॒मदे॑वयुः ।  
+स्वैः ष एवै॑र्मुमुर॒त्पोष्यं॑ र॒यिं स॑नु॒तर्धे॑हि॒ तं ततः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     consequently; furthermore.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

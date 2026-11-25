@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ tanvàm ← tanū́- (nominal stem)
 
 yajasva ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒यं य॑जस्व दि॒वि दे॑व दे॒वान्किं ते॒ पाकः॑ कृणव॒दप्र॑चेताः ।  
+यथाय॑ज ऋ॒तुभि॑र्देव दे॒वाने॒वा य॑जस्व त॒न्वं॑ सुजात ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

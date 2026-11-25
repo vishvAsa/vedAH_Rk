@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ yátas ← yátas (invariable)
 
 yaviṣṭha ← yáviṣṭha- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒चीनो॑ य॒ज्ञः सुधि॑तं॒ हि ब॒र्हिः प्री॑णी॒ते अ॒ग्निरी॑ळि॒तो न होता॑ ।  
+आ मा॒तरा॑ वि॒श्ववा॑रे हुवा॒नो यतो॑ यविष्ठ जज्ञि॒षे सु॒शेवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “friendly; favorable; dear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

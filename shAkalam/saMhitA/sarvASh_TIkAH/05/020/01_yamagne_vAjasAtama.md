@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रयस्वन्त आत्रेयाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ panaya ← √panⁱ- (root)
 
 yújam ← yúj- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यम॑ग्ने वाजसातम॒ त्वं चि॒न्मन्य॑से र॒यिम् ।  
+तं नो॑ गी॒र्भिः श्र॒वाय्यं॑ देव॒त्रा प॑नया॒ युज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “amalgamated; harnessed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

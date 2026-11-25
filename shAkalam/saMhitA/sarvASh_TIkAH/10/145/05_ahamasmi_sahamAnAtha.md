@@ -4,6 +4,7 @@ devataa = "उपनिषत्सपत्नीबाधनं"
 RShiH = "इन्द्राणी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उपनिषत्सपत्नीबाधनं
@@ -71,7 +72,12 @@ sahāvahai ← √sah- (root)
 
 sapátnīm ← sapátnī- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हम॑स्मि॒ सह॑मा॒नाथ॒ त्वम॑सि सास॒हिः ।  
+उ॒भे सह॑स्वती भू॒त्वी स॒पत्नीं॑ मे सहावहै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “endure; overcome; habituate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

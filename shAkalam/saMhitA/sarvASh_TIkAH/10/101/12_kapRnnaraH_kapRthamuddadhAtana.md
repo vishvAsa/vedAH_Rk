@@ -4,6 +4,7 @@ devataa = "विश्वेदेवा ऋत्विजो वा"
 RShiH = "बुधः सौम्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -83,7 +84,12 @@ sabā́dhaḥ ← sabā́dhas- (nominal stem)
 
 sómapītaye ← sómapīti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कपृ॑न्नरः कपृ॒थमुद्द॑धातन चो॒दय॑त खु॒दत॒ वाज॑सातये ।  
+नि॒ष्टि॒ग्र्यः॑ पु॒त्रमा च्या॑वयो॒तय॒ इन्द्रं॑ स॒बाध॑ इ॒ह सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

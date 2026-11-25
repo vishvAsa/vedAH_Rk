@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ prathamám ← prathamá- (nominal stem)
 
 yā́ḥ ← yá- (pronoun)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एति॒ प्र होता॑ व्र॒तम॑स्य मा॒ययो॒र्ध्वां दधा॑नः॒ शुचि॑पेशसं॒ धिय॑म् ।  
+अ॒भि स्रुचः॑ क्रमते दक्षिणा॒वृतो॒ या अ॑स्य॒ धाम॑ प्रथ॒मं ह॒ निंस॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “kiss.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

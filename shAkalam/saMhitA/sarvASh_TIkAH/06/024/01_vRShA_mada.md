@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ girā́m ← gír- ~ gīr- (nominal stem)
 
 rā́jā ← rā́jan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॒ मद॒ इन्द्रे॒ श्लोक॑ उ॒क्था सचा॒ सोमे॑षु सुत॒पा ऋ॑जी॒षी ।  
+अ॒र्च॒त्र्यो॑ म॒घवा॒ नृभ्य॑ उ॒क्थैर्द्यु॒क्षो राजा॑ गि॒रामक्षि॑तोतिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “Indra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -231,12 +236,6 @@ Bullish exuberance, noise, and solemn words are in Indra; he is the  drinker of 
 He is worthy to be chanted by men with solemn words as the bounteous  one, the heaven-ruling king of hymns, whose help is imperishable.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-That avīḥ of c is also the verb of d is suggested by passages like I.110.9 vā́jebhir no vā́jasātau aviḍḍhi, VIII.46.11 dhíyo vā́jebhir āvitha with √av and an instr.
-
-of vā́ja- ‘prize’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -244,7 +243,6 @@ On avīḥ (1c) and áva tārīḥ (2d) as “hortativ,” see Hoffmann Injunk. 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

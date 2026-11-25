@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -92,7 +93,12 @@ bŕ̥haspáteḥ ← bŕ̥haspáti- (nominal stem)
 
 dyū́n ← dyú- ~ div- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य श्लोको॑ दि॒वीय॑ते पृथि॒व्यामत्यो॒ न यं॑सद्यक्ष॒भृद्विचे॑ताः ।  
+मृ॒गाणां॒ न हे॒तयो॒ यन्ति॑ चे॒मा बृह॒स्पते॒रहि॑मायाँ अ॒भि द्यून् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

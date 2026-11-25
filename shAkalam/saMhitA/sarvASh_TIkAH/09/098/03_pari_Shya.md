@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अंबरीष ऋजिश्वा च"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ gavyayúḥ ← gavyayú- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ ष्य सु॑वा॒नो अ॑क्षा॒ इन्दु॒रव्ये॒ मद॑च्युतः ।  
+धारा॒ य ऊ॒र्ध्वो अ॑ध्व॒रे भ्रा॒जा नैति॑ गव्य॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -213,12 +218,6 @@ This drop, being pressed, has flowed around in the sheep’s fleece, aroused  to
 the one who, erect at the ceremony, goes seeking cows with his stream,  like (Agni) with his flame.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The transmitted akṣā at the end of pāda a before i- should have appeared as akṣār in sandhi; the Pp. reads akṣār íti. Wackernagel (AiG I.1.334-35) considers it a misunderstanding of original akṣāḥ by the redactors.
-
-The simile in d has the same structure as the one in 2b: gapped nominative target whose identity is signalled by an adjunct, in this case bhrājā́‘with flame (/flash/light)’ - most likely pointing to Agni (Geldner, Renou [tr.], Ober [II.56]), though possibly Sūrya, who is also associated with forms of the root √bhrāj (alt. given by Renou in his n.).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/098/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -226,7 +225,6 @@ These two vss. share vocab. and structure. Both begin pári ṣyá s(u)vānáḥ
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

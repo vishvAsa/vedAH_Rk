@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sādhóḥ ← sādhú- (nominal stem)
 
 vantā́raḥ ← vantár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कया॑ नो अग्ने॒ वि व॑सः सुवृ॒क्तिं कामु॑ स्व॒धामृ॑णवः श॒स्यमा॑नः ।  
+क॒दा भ॑वेम॒ पत॑यः सुदत्र रा॒यो व॒न्तारो॑ दु॒ष्टर॑स्य सा॒धोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     efficient.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

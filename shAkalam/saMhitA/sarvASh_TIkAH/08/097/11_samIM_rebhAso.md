@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "उपरिष्टाद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -81,7 +82,12 @@ sám ← sám (invariable)
 
 ūtíbhiḥ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समीं॑ रे॒भासो॑ अस्वर॒न्निन्द्रं॒ सोम॑स्य पी॒तये॑ ।  
+स्व॑र्पतिं॒ यदीं॑ वृ॒धे धृ॒तव्र॑तो॒ ह्योज॑सा॒ समू॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

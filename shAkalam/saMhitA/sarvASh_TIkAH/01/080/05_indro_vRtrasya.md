@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -79,7 +80,12 @@ sármāya ← sárma- (nominal stem)
 
 svarā́jyam ← svarā́jya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ वृ॒त्रस्य॒ दोध॑तः॒ सानुं॒ वज्रे॑ण हीळि॒तः ।  
+अ॒भि॒क्रम्याव॑ जिघ्नते॒ऽपः सर्मा॑य चो॒दय॒न्नर्च॒न्ननु॑ स्व॒राज्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “kingdom; kingship; sovereignty; rājya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -217,14 +222,12 @@ Indra, angered, having attacked the back of raging Vr̥tra with his mace, keeps 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/080/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 I don’t see any real difference between áva jighnate (5) and ní jighnate (6) that could account for difference in case frame: acc. in 5, loc. in 6.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

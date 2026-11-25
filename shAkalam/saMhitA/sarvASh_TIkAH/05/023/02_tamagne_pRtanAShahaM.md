@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "द्युम्नो विचर्षणिरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ gómataḥ ← gómant- (nominal stem)
 
 vā́jasya ← vā́ja- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम॑ग्ने पृतना॒षहं॑ र॒यिं स॑हस्व॒ आ भ॑र ।  
+त्वं हि स॒त्यो अद्भु॑तो दा॒ता वाज॑स्य॒ गोम॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “rich in cattle; bovine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

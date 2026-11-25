@@ -4,6 +4,7 @@ devataa = "त्वष्टा"
 RShiH = "जमदग्निस्तत्सुतो वा रामः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्वष्टा
@@ -86,7 +87,12 @@ vidvā́n ← √vid- 2 (root)
 
 yakṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इ॒मे द्यावा॑पृथि॒वी जनि॑त्री रू॒पैरपिं॑श॒द्भुव॑नानि॒ विश्वा॑ ।  
+तम॒द्य हो॑तरिषि॒तो यजी॑यान्दे॒वं त्वष्टा॑रमि॒ह य॑क्षि वि॒द्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

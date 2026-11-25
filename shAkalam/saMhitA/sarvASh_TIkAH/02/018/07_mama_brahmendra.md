@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sávane ← sávana- 1 (nominal stem)
 
 śūra ← śū́ra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मम॒ ब्रह्मे॑न्द्र या॒ह्यच्छा॒ विश्वा॒ हरी॑ धु॒रि धि॑ष्वा॒ रथ॑स्य ।  
+पु॒रु॒त्रा हि वि॒हव्यो॑ ब॒भूथा॒स्मिञ्छू॑र॒ सव॑ने मादयस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

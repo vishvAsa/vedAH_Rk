@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sádanāt ← sádana- (nominal stem)
 
 vā ← vā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ या॒त्विन्द्रो॑ दि॒व आ पृ॑थि॒व्या म॒क्षू स॑मु॒द्रादु॒त वा॒ पुरी॑षात् ।  
+स्व॑र्णरा॒दव॑से नो म॒रुत्वा॑न्परा॒वतो॑ वा॒ सद॑नादृ॒तस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

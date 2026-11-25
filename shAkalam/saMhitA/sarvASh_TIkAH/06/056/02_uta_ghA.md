@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -60,7 +61,12 @@ jighnate ← √han- (root)
 
 vr̥trā́ṇi ← vr̥trá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त घा॒ स र॒थीत॑मः॒ सख्या॒ सत्प॑तिर्यु॒जा ।  
+इन्द्रो॑ वृ॒त्राणि॑ जिघ्नते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,10 +172,6 @@ And he is the best charioteer. With him as partner and yokemate, the  lord of se
 Indra, keeps smashing obstacles.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Pāda c is essentially identical to VI.57.3 in the next hymn, but there Indra’s two fallow bay horses are Indra’s companions when he smashes obstacles.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/056/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -178,7 +179,6 @@ There is general consensus (Geldner, Renou, Klein loc. cit.) that Indra is the s
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

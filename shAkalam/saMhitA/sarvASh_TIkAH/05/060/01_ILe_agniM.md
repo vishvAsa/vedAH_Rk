@@ -4,6 +4,7 @@ devataa = "मरुतो मरुतो वाग्निश्च"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतो मरुतो वाग्निश्च
@@ -89,7 +90,12 @@ r̥dhyām ← √r̥dh- (root)
 
 stómam ← stóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ईळे॑ अ॒ग्निं स्वव॑सं॒ नमो॑भिरि॒ह प्र॑स॒त्तो वि च॑यत्कृ॒तं नः॑ ।  
+रथै॑रिव॒ प्र भ॑रे वाज॒यद्भिः॑ प्रदक्षि॒णिन्म॒रुतां॒ स्तोम॑मृध्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “boom; stick to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

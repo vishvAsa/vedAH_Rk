@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ हविर्धान�
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ हविर्धानेवा;द्यावापृथिव्यौ हविर्धानेवाग्निर्वा
@@ -63,7 +64,12 @@ ca ← ca (invariable)
 
 havyavā́hanam ← havyavā́hana- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रेतां॑ य॒ज्ञस्य॑ श॒म्भुवा॑ यु॒वामिदा वृ॑णीमहे ।  
+अ॒ग्निं च॑ हव्य॒वाह॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

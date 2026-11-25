@@ -4,6 +4,7 @@ devataa = "वेनः"
 RShiH = "वेनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वेनः
@@ -80,7 +81,12 @@ rihánti ← √rih- (root)
 
 vā́ṇīḥ ← vā́ṇī- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मा॒नं पू॒र्वीर॒भि वा॑वशा॒नास्तिष्ठ॑न्व॒त्सस्य॑ मा॒तरः॒ सनी॑ळाः ।  
+ऋ॒तस्य॒ साना॒वधि॑ चक्रमा॒णा रि॒हन्ति॒ मध्वो॑ अ॒मृत॑स्य॒ वाणीः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “voice; Sarasvati; words; language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

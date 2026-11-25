@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -89,7 +90,12 @@ pitáram ← pitár- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वे स्रु॒ती अ॑शृणवं पितॄ॒णाम॒हं दे॒वाना॑मु॒त मर्त्या॑नाम् ।  
+ताभ्या॑मि॒दं विश्व॒मेज॒त्समे॑ति॒ यद॑न्त॒रा पि॒तरं॑ मा॒तरं॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

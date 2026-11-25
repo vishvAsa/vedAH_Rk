@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ vanate ← √vanⁱ- (root)
 
 vāvr̥dhānáḥ ← √vr̥dh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूरि॒ नाम॒ वन्द॑मानो दधाति पि॒ता व॑सो॒ यदि॒ तज्जो॒षया॑से ।  
+कु॒विद्दे॒वस्य॒ सह॑सा चका॒नः सु॒म्नम॒ग्निर्व॑नते वावृधा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

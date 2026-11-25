@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ jajñiṣe ← √janⁱ- (root)
 
 sanā́t ← sanā́t (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं कुत्सं॑ शुष्ण॒हत्ये॑ष्वावि॒थार॑न्धयोऽतिथि॒ग्वाय॒ शम्ब॑रम् ।  
+म॒हान्तं॑ चिदर्बु॒दं नि क्र॑मीः प॒दा स॒नादे॒व द॑स्यु॒हत्या॑य जज्ञिषे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

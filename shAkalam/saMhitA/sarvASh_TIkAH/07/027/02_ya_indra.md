@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 
 vr̥dhi ← √vr̥- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इ॑न्द्र॒ शुष्मो॑ मघवन्ते॒ अस्ति॒ शिक्षा॒ सखि॑भ्यः पुरुहूत॒ नृभ्यः॑ ।  
+त्वं हि दृ॒ळ्हा म॑घव॒न्विचे॑ता॒ अपा॑ वृधि॒ परि॑वृतं॒ न राधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ mandadhve ← √mand- (root)
 
 suvānaíḥ ← √su- (root)  
 {case:INS, gender:M, number:PL, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधी॑व॒ यद्गि॑री॒णां यामं॑ शुभ्रा॒ अचि॑ध्वम् ।  
+सु॒वा॒नैर्म॑न्दध्व॒ इन्दु॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

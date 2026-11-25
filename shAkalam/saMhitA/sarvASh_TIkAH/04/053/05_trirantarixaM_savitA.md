@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -92,7 +93,12 @@ tribhíḥ ← trí- (nominal stem)
 
 vrataíḥ ← vratá- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिर॒न्तरि॑क्षं सवि॒ता म॑हित्व॒ना त्री रजां॑सि परि॒भुस्त्रीणि॑ रोच॒ना ।  
+ति॒स्रो दिवः॑ पृथि॒वीस्ति॒स्र इ॑न्वति त्रि॒भिर्व्र॒तैर॒भि नो॑ रक्षति॒ त्मना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “self.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,7 +247,7 @@ _________
 Savitṛ \[encompasses\] the atmosphere thrice by his greatness;  
 he encompasses the three rajas realms and the three rocana realms.  
 He drives the three heavenly and the three earthly realms  
-\[and\] with three-fold laws he protects us by himself. 
+\[and\] with three-fold laws he protects us by himself.
 </details>
 
 <details><summary>Wilson</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -60,7 +61,12 @@ naḥ ← ahám (pronoun)
 
 svastimátaḥ ← svastimánt- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नो॒ धियो॒ गोअ॑ग्राः॒ पूष॒न्विष्ण॒वेव॑यावः ।  
+कर्ता॑ नः स्वस्ति॒मतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “happy; favored.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

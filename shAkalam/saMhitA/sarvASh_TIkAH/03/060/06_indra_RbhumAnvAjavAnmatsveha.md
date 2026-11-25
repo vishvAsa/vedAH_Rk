@@ -4,6 +4,7 @@ devataa = "इन्द्र ऋभवश्च"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्र ऋभवश्च
@@ -89,7 +90,12 @@ mánuṣaḥ ← mánus- (nominal stem)
 
 vratā́ ← vratá- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ ऋभु॒मान्वाज॑वान्मत्स्वे॒ह नो॒ऽस्मिन्त्सव॑ने॒ शच्या॑ पुरुष्टुत ।  
+इ॒मानि॒ तुभ्यं॒ स्वस॑राणि येमिरे व्र॒ता दे॒वानां॒ मनु॑षश्च॒ धर्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “regulation; Dharma; law; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

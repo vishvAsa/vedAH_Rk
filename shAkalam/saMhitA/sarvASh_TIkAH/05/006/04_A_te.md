@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -91,7 +92,12 @@ bhara ← √bhr̥- (root)
 
 stotŕ̥bhyaḥ ← stotár- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ते॑ अग्न इधीमहि द्यु॒मन्तं॑ देवा॒जर॑म् ।  
+यद्ध॒ स्या ते॒ पनी॑यसी स॒मिद्दी॒दय॑ति॒ द्यवीषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

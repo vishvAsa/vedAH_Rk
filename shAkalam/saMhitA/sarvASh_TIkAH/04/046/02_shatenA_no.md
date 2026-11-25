@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -54,7 +55,12 @@ tr̥mpatam ← √tr̥p- (root)
 
 vā́yo ← vāyú- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तेना॑ नो अ॒भिष्टि॑भिर्नि॒युत्वाँ॒ इन्द्र॑सारथिः ।  
+वायो॑ सु॒तस्य॑ तृम्पतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “satiate; enjoy; delight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

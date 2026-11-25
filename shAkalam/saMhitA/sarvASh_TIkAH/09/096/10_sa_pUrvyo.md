@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ pūyámānaḥ ← √pū- (root)
 
 vidát ← √vid- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स पू॒र्व्यो व॑सु॒विज्जाय॑मानो मृजा॒नो अ॒प्सु दु॑दुहा॒नो अद्रौ॑ ।  
+अ॒भि॒श॒स्ति॒पा भुव॑नस्य॒ राजा॑ वि॒दद्गा॒तुं ब्रह्म॑णे पू॒यमा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “purify; filter; blow; purify; purge; sift.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

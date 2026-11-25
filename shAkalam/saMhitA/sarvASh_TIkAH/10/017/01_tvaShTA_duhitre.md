@@ -4,6 +4,7 @@ devataa = "सरण्यूः"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरण्यूः
@@ -83,7 +84,12 @@ nanāśa ← √naś- 2 (root)
 
 vívasvataḥ ← vívasvant- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वष्टा॑ दुहि॒त्रे व॑ह॒तुं कृ॑णो॒तीती॒दं विश्वं॒ भुव॑नं॒ समे॑ति ।  
+य॒मस्य॑ मा॒ता प॑र्यु॒ह्यमा॑ना म॒हो जा॒या विव॑स्वतो ननाश ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

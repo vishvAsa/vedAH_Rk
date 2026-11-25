@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ dāváne ← √dā- 1 (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अरं॒ हि ष्म॑ सु॒तेषु॑ णः॒ सोमे॑ष्विन्द्र॒ भूष॑सि ।  
+अरं॑ ते शक्र दा॒वने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -183,7 +188,6 @@ fittingly for your giving, able one.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-27.md">
 <details><summary><h2>24-27 ...{Loading}...</h2></summary>
 
@@ -193,7 +197,6 @@ The final áram in 27c returns us to the situation found in 24, where the provid
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

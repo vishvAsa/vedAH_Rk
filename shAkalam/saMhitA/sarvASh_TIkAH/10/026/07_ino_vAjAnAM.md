@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -74,7 +75,12 @@ vŕ̥thā ← vŕ̥thā (invariable)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒नो वाजा॑नां॒ पति॑रि॒नः पु॑ष्टी॒नां सखा॑ ।  
+प्र श्मश्रु॑ हर्य॒तो दू॑धो॒द्वि वृथा॒ यो अदा॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “trustworthy; disabused(p).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

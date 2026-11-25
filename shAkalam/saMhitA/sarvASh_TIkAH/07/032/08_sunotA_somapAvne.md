@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ pr̥ṇán ← √pr̥̄- 1 (root)
 
 pr̥ṇaté ← √pr̥̄- 1 (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒नोता॑ सोम॒पाव्ने॒ सोम॒मिन्द्रा॑य व॒ज्रिणे॑ ।  
+पच॑ता प॒क्तीरव॑से कृणु॒ध्वमित्पृ॒णन्नित्पृ॑ण॒ते मयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “pleasure; refreshment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

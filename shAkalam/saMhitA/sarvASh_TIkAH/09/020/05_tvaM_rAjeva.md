@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ punānáḥ ← √pū- (root)
 
 vahne ← váhni- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं राजे॑व सुव्र॒तो गिरः॑ सो॒मा वि॑वेशिथ ।  
+पु॒ना॒नो व॑ह्ने अद्भुत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “extraordinary; amazing; supernatural.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

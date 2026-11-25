@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -54,7 +55,12 @@ híraṇyavartaniḥ ← híraṇyavartani- (nominal stem)
 
 síndhuḥ ← síndhu- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्या श्वे॑त॒याव॑री॒ वाहि॑ष्ठा वां न॒दीना॑म् ।  
+सिन्धु॒र्हिर॑ण्यवर्तनिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “path; East; way.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

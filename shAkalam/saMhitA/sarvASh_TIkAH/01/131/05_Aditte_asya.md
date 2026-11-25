@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -113,7 +114,13 @@ saniṣṇata ← √sanⁱ- (root)
 
 śravasyántaḥ ← √śravasy- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदित्ते॑ अ॒स्य वी॒र्य॑स्य चर्किर॒न्मदे॑षु वृषन्नु॒शिजो॒ यदावि॑थ सखीय॒तो यदावि॑थ ।  
+च॒कर्थ॑ का॒रमे॑भ्यः॒ पृत॑नासु॒ प्रव॑न्तवे ।  
+ते अ॒न्याम॑न्यां न॒द्यं॑ सनिष्णत श्रव॒स्यन्तः॑ सनिष्णत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -290,7 +297,6 @@ _________
 - \[verb\], plural, Present injunctive
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

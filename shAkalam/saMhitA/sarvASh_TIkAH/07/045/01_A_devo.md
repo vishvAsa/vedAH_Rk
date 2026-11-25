@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -18,14 +19,14 @@ ChandaH = "त्रिष्टुप्"
 ह᳓स्ते द᳓धानो न᳓रिया पुरू᳓णि  
 निवेश᳓यञ् च प्रसुव᳓ञ् च भू᳓म
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 आ दे॒वो या॑तु सवि॒ता सु॒रत्नः॑ ।   
 अ॒न्त॒रि॒क्ष॒प्रा वह॑मानो॒ अश्वैः॑ ।   
 हस्ते॒ दधा॑नो॒ नर्या॑ पु॒रूणि॑ ।   
 नि॒वे॒शय॑ञ्च प्रसु॒वञ्च॒ भूम॑ ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -91,7 +92,12 @@ niveśáyan ← √viś- (root)
 
 prasuván ← √sū- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ दे॒वो या॑तु सवि॒ता सु॒रत्नो॑ऽन्तरिक्ष॒प्रा वह॑मानो॒ अश्वैः॑ ।  
+हस्ते॒ दधा॑नो॒ नर्या॑ पु॒रूणि॑ निवे॒शय॑ञ्च प्रसु॒वञ्च॒ भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -259,7 +264,6 @@ holding many things meant for men in his hand, bringing the world to  rest and i
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -267,7 +271,6 @@ Although Savitar’s role as god of evening, causing the world and its activitie
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

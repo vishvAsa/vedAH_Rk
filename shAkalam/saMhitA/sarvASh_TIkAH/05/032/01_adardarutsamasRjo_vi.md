@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गातुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sr̥jáḥ ← √sr̥j- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद॑र्द॒रुत्स॒मसृ॑जो॒ वि खानि॒ त्वम॑र्ण॒वान्ब॑द्बधा॒नाँ अ॑रम्णाः ।  
+म॒हान्त॑मिन्द्र॒ पर्व॑तं॒ वि यद्वः सृ॒जो वि धारा॒ अव॑ दान॒वं ह॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

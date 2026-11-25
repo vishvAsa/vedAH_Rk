@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)
 
 viṣṭambháḥ ← viṣṭambhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इष॒मूर्जं॑ पवमाना॒भ्य॑र्षसि श्ये॒नो न वंसु॑ क॒लशे॑षु सीदसि ।  
+इन्द्रा॑य॒ मद्वा॒ मद्यो॒ मदः॑ सु॒तो दि॒वो वि॑ष्ट॒म्भ उ॑प॒मो वि॑चक्ष॒णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -243,10 +248,6 @@ Self-purifying one, you rush toward refreshment and nourishment. Like  a falcon 
 For Indra is pressed the exhilarative, exhilarating drink of exhilaration,  the utmost prop of heaven, wide-gazing.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The accumulation of √mad derivatives is striking: mádvā mádyo mádaḥ. The last, máda-, is of course extraordinarily common, and the 2nd mádya- reasonably well established (13x). But madván- is found only twice.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/34-36.md">
 <details><summary><h2>34-36 ...{Loading}...</h2></summary>
 
@@ -254,7 +255,6 @@ Nothing much in the way of internal unity or external connection, beyond the obv
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

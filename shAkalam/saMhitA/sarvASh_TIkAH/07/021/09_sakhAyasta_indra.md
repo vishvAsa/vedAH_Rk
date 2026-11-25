@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ aryáḥ ← arí- (nominal stem)
 
 vanúṣām ← vanús- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सखा॑यस्त इन्द्र वि॒श्वह॑ स्याम नमोवृ॒धासो॑ महि॒ना त॑रुत्र ।  
+व॒न्वन्तु॑ स्मा॒ तेऽव॑सा समी॒के॒३॒॑ऽभी॑तिम॒र्यो व॒नुषां॒ शवां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,10 +232,6 @@ May we always be your comrades, Indra, increasing our homage  because of your gr
 With your help in the encounter, may they combat the attack of the  stranger, the powers of the rapacious ones.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-vanvántu ‘let them combat’ and vanúṣām ‘rapacious ones’ are presumably derived from the originally separate roots van ‘win, vanquish’ and vani ‘love, desire’, but since these roots have become synchronically entangled, the pair presents itself like an etymological figure, like I.132.1=VIII.40.7 vanuyā́ma vanuṣyátaḥ “may we win against those who seek to win.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/021/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -238,7 +239,6 @@ Final varūtā́of 8d is matched by final tarutra in 9b.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

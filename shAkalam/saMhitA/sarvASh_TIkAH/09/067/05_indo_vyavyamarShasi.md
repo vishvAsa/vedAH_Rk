@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ vā́jān ← vā́ja- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दो॒ व्यव्य॑मर्षसि॒ वि श्रवां॑सि॒ वि सौभ॑गा ।  
+वि वाजा॑न्त्सोम॒ गोम॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “rich in cattle; bovine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -175,10 +180,6 @@ O drop, you rush through the fleece, through to acclamations, through to  gifts 
 through to prizes consisting of cows, o Soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The preverb/preposition ví is insistent, with 4 occurrences in the vs. Renou sees the three functions here, but that seems something of a stretch.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -186,7 +187,6 @@ The Kaśyapa tṛca: it lacks cohesion across all 3 vss., though 4 and 5 share �
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

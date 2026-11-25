@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sám ← sám (invariable)
 
 ukhachít ← ukhachíd- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒म्रीभिः॑ पु॒त्रम॒ग्रुवो॑ अदा॒नं नि॒वेश॑नाद्धरिव॒ आ ज॑भर्थ ।  
+व्य१॒॑न्धो अ॑ख्य॒दहि॑माददा॒नो निर्भू॑दुख॒च्छित्सम॑रन्त॒ पर्व॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “joint; knot; festival; day; articulation; knot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

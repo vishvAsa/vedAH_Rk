@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -82,7 +83,12 @@ kám ← ká- (pronoun)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदुद॑ञ्चो वृषाकपे गृ॒हमि॒न्द्राज॑गन्तन ।  
+क्व१॒॑ स्य पु॑ल्व॒घो मृ॒गः कम॑गञ्जन॒योप॑नो॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -238,7 +243,7 @@ Sāyaṇa, however, has nothiag else to propose, and he quietly leaves the word 
 
 In the Taittirīya Brāhmaṇa i. 8. 2. 1, we are told that the Vedic priests, e.g., Maisoni, observed the position of the sun amongst stars in the morning, and, as the Nakṣatras disappear when the sun rises, they determined the position by observing what Nakṣatra rose a little before the sun. The present verse records an observation to make which no greater skill is required. It tells us that when Vr̥ṣākapi went to the house of Indra his Mr̥ga was not visible anywhere, thus clearly indicating that sun rose with Orion on that day. The word udancha is especially remarkable in this case. The sun must be udancha when he goes to the house of Indra, which, the burden of the song tells us, is in the northern or the upper part of the universe. This verse, therefore, clearly describes not merely the rising sun, but the position of the rising sun amongst the constellations when he is at the vernal equinox, the entrance of the house of gods or the house of Indra. Sāyaṇa and Yāska have completely missed this point and have made Vr̥ṣākapi represent the rising sun as an unnecessary rival to Savita (Nirukta 12. 12). 
 
-If the meaning I have proposed is correct, we have here a record of the position of the sun at the vernal equinox. I take pulvaghas in the original to mean "great sinner;" but it may be translated as Yāska proposes by "omnivorous" or "voracious." But in either case I would take it as referring to the antelope's spoiling the things of Indrāṇī. The point is that the sinning Mr̥ga would not be with Vr̥ṣākapi when he again goes to the house of Indra, and Indrāṇī would have no cause to complain of the presence of the odious Mr̥ga at the time. 
+If the meaning I have proposed is correct, we have here a record of the position of the sun at the vernal equinox. I take pulvaghas in the original to mean "great sinner;" but it may be translated as Yāska proposes by "omnivorous" or "voracious." But in either case I would take it as referring to the antelope's spoiling the things of Indrāṇī. The point is that the sinning Mr̥ga would not be with Vr̥ṣākapi when he again goes to the house of Indra, and Indrāṇī would have no cause to complain of the presence of the odious Mr̥ga at the time.
 </details>
 
 <details><summary>Wilson</summary>

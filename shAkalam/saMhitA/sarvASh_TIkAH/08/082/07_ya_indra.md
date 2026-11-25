@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ píba ← √pā- 2 (root)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इ॑न्द्र चम॒सेष्वा सोम॑श्च॒मूषु॑ ते सु॒तः ।  
+पिबेद॑स्य॒ त्वमी॑शिषे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “govern; command; master; dominate; can; reign; control; own.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

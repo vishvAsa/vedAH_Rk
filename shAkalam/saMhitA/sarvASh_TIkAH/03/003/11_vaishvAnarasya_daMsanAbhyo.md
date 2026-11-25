@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -74,7 +75,12 @@ bhū́riretasā ← bhū́riretas- (nominal stem)
 
 dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वै॒श्वा॒न॒रस्य॑ दं॒सना॑भ्यो बृ॒हदरि॑णा॒देकः॑ स्वप॒स्यया॑ क॒विः ।  
+उ॒भा पि॒तरा॑ म॒हय॑न्नजायता॒ग्निर्द्यावा॑पृथि॒वी भूरि॑रेतसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “semen; sperm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

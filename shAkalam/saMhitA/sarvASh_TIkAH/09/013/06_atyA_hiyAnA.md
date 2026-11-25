@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ vā́ram ← vā́ra- 1 (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्या॑ हिया॒ना न हे॒तृभि॒रसृ॑ग्रं॒ वाज॑सातये ।  
+वि वार॒मव्य॑मा॒शवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “quick; fast; immediate; agile.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

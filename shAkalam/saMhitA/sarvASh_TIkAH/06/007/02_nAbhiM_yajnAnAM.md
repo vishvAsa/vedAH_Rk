@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -80,7 +81,12 @@ ketúm ← ketú- (nominal stem)
 
 yajñásya ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाभिं॑ य॒ज्ञानां॒ सद॑नं रयी॒णां म॒हामा॑हा॒वम॒भि सं न॑वन्त ।  
+वै॒श्वा॒न॒रं र॒थ्य॑मध्व॒राणां॑ य॒ज्ञस्य॑ के॒तुं ज॑नयन्त दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -224,12 +229,6 @@ Navel of sacrifices, seat of riches, the great watering trough—toward  (him) d
 Vaiśvānara, charioteer of the ceremonies, beacon of the sacrifice—(him)  the gods begot.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On mahā́m as acc. sg. masc. see AiG III.251, EWA s.v. mahā́nt, p. 338.
-
-The paradox of calling fire “a great watering trough” (āhāvá-) simply sharpens the slightly discordant image in 1c of Agni as ‘cup’. Although āhāvá- is clearly derived from ā́√hu, a standard lexeme for the oblations that Agni would be receiving, this particular noun is associated with a well in X.101.5 and is therefore associated with more mundane acts of pouring water (which of course should extinguish fire). Agni is a trough because the gods get their “water” there.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -239,7 +238,6 @@ There are only three finite verbs in this two-vs. sequence, all injunctives: 1d 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

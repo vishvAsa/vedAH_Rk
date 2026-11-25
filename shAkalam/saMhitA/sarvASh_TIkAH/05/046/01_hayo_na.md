@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिक्षत्र आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ r̥jú ← r̥jú- (nominal stem)
 
 vidvā́n ← √vid- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हयो॒ न वि॒द्वाँ अ॑युजि स्व॒यं धु॒रि तां व॑हामि प्र॒तर॑णीमव॒स्युव॑म् ।  
+नास्या॑ वश्मि वि॒मुचं॒ नावृतं॒ पुन॑र्वि॒द्वान्प॒थः पु॑रए॒त ऋ॒जु ने॑षति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

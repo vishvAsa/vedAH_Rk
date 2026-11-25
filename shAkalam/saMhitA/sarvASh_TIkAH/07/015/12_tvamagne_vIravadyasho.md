@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ dítiḥ ← díti- (nominal stem)
 
 vā́ryam ← vā́rya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने वी॒रव॒द्यशो॑ दे॒वश्च॑ सवि॒ता भगः॑ ।  
+दिति॑श्च दाति॒ वार्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “wealth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

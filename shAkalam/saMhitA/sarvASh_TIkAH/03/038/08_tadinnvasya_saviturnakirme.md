@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रजापतिर्वैश्वामित्रः (वाच्यो वा द्वौ वा तौ विश्वामित्रो वा)"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vavre ← √vr̥- (root)
 
 yóṣā ← yóṣā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदिन्न्व॑स्य सवि॒तुर्नकि॑र्मे हिर॒ण्ययी॑म॒मतिं॒ यामशि॑श्रेत् ।  
+आ सु॑ष्टु॒ती रोद॑सी विश्वमि॒न्वे अपी॑व॒ योषा॒ जनि॑मानि वव्रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

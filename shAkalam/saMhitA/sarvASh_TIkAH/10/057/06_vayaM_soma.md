@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -57,7 +58,12 @@ prajā́vantaḥ ← prajā́vant- (nominal stem)
 
 sacemahi ← √sac- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं सो॑म व्र॒ते तव॒ मन॑स्त॒नूषु॒ बिभ्र॑तः ।  
+प्र॒जाव॑न्तः सचेमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

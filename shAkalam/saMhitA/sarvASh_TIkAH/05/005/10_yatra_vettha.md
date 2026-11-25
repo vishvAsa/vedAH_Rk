@@ -4,6 +4,7 @@ devataa = "वनस्पतिः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वनस्पतिः
@@ -57,7 +58,12 @@ havyā́ni ← havyá- (nominal stem)
 
 tátra ← tátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्र॒ वेत्थ॑ वनस्पते दे॒वानां॒ गुह्या॒ नामा॑नि ।  
+तत्र॑ ह॒व्यानि॑ गामय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - \[verb\], singular, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

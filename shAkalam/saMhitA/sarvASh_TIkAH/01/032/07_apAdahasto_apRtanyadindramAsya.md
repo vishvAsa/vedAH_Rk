@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vr̥tráḥ ← vr̥trá- (nominal stem)
 
 vyàstaḥ ← √as- 2 (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पाद॑ह॒स्तो अ॑पृतन्य॒दिन्द्र॒मास्य॒ वज्र॒मधि॒ सानौ॑ जघान ।  
+वृष्णो॒ वध्रिः॑ प्रति॒मानं॒ बुभू॑षन्पुरु॒त्रा वृ॒त्रो अ॑शय॒द्व्य॑स्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “disperse; distinguish; write.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

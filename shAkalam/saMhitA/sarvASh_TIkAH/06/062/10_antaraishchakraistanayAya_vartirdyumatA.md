@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ vanuṣyatā́m ← √vanuṣ(y)- (root)
 
 vavr̥ktam ← √vr̥j- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अन्त॑रैश्च॒क्रैस्तन॑याय व॒र्तिर्द्यु॒मता या॑तं नृ॒वता॒ रथे॑न ।  
+सनु॑त्येन॒ त्यज॑सा॒ मर्त्य॑स्य वनुष्य॒तामपि॑ शी॒र्षा व॑वृक्तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - \[verb\], dual, Perfect imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

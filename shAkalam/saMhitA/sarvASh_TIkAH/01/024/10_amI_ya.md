@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः | कृत्रिमो वैश्वामित्रो देवरातः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -86,7 +87,12 @@ náktam ← nákt- (nominal stem)
 
 vicā́kaśat ← √kāś- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒मी य ऋक्षा॒ निहि॑तास उ॒च्चा नक्तं॒ ददृ॑श्रे॒ कुह॑ चि॒द्दिवे॑युः ।  
+अद॑ब्धानि॒ वरु॑णस्य व्र॒तानि॑ वि॒चाक॑शच्च॒न्द्रमा॒ नक्त॑मेति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

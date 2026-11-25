@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tr̥pṇuhi ← √tr̥p- (root)
 
 vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॑ ते॒ वज्र॑ उ॒त ते॒ वृषा॒ रथो॒ वृष॑णा॒ हरी॑ वृष॒भाण्यायु॑धा ।  
+वृष्णो॒ मद॑स्य वृषभ॒ त्वमी॑शिष॒ इन्द्र॒ सोम॑स्य वृष॒भस्य॑ तृप्णुहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “satiate; enjoy; delight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

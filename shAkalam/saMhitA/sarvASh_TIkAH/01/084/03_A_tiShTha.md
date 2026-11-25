@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ kr̥ṇotu ← √kr̥- (root)
 
 vagnúnā ← vagnú- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ति॑ष्ठ वृत्रह॒न्रथं॑ यु॒क्ता ते॒ ब्रह्म॑णा॒ हरी॑ ।  
+अ॒र्वा॒चीनं॒ सु ते॒ मनो॒ ग्रावा॑ कृणोतु व॒ग्नुना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “cry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

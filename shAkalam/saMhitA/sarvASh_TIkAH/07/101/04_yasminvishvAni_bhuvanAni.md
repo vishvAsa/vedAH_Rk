@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "वसिष्ठः कुमारो वाग्नेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -80,7 +81,12 @@ mádhvaḥ ← mádhu- (nominal stem)
 
 virapśám ← virapśá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मि॒न्विश्वा॑नि॒ भुव॑नानि त॒स्थुस्ति॒स्रो द्याव॑स्त्रे॒धा स॒स्रुरापः॑ ।  
+त्रयः॒ कोशा॑स उप॒सेच॑नासो॒ मध्वः॑ श्चोतन्त्य॒भितो॑ विर॒प्शम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

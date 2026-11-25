@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ sahasvaḥ ← sáhasvant- (nominal stem)
 
 vidat ← √vid- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पा॒हि नो॑ अग्ने पा॒युभि॒रज॑स्रैरु॒त प्रि॒ये सद॑न॒ आ शु॑शु॒क्वान् ।  
+मा ते॑ भ॒यं ज॑रि॒तारं॑ यविष्ठ नू॒नं वि॑द॒न्माप॒रं स॑हस्वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “mighty; powerful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

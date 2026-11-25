@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ niṣkr̥tám ← niṣkr̥tá- (nominal stem)
 
 yóṣaṇā ← yóṣaṇā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं क॒वी ष्ठः॒ पर्य॑श्विना॒ रथं॒ विशो॒ न कुत्सो॑ जरि॒तुर्न॑शायथः ।  
+यु॒वोर्ह॒ मक्षा॒ पर्य॑श्विना॒ मध्वा॒सा भ॑रत निष्कृ॒तं न योष॑णा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “girl; wife.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उर्वशी"
 RShiH = "पुरूरवा ऐळः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उर्वशी
@@ -83,7 +84,12 @@ rabhasā́saḥ ← rabhasá- (nominal stem)
 
 vŕ̥kāḥ ← vŕ̥ka- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒दे॒वो अ॒द्य प्र॒पते॒दना॑वृत्परा॒वतं॑ पर॒मां गन्त॒वा उ॑ ।  
+अधा॒ शयी॑त॒ निरृ॑तेरु॒पस्थेऽधै॑नं॒ वृका॑ रभ॒सासो॑ अ॒द्युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “eat; devour.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

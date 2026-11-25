@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -101,7 +102,12 @@ tanvàḥ ← tanū́- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रह्म॑ च ते जातवेदो॒ नम॑श्चे॒यं च॒ गीः सद॒मिद्वर्ध॑नी भूत् ।  
+रक्षा॑ णो अग्ने॒ तन॑यानि तो॒का रक्षो॒त न॑स्त॒न्वो॒३॒॑ अप्र॑युच्छन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +262,6 @@ _________
 - “ceaseless; attentive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

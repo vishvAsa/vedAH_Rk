@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -83,7 +84,12 @@ diví ← dyú- ~ div- (nominal stem)
 
 uttamā́ni ← uttamá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं ते॒ पयां॑सि॒ समु॑ यन्तु॒ वाजाः॒ सं वृष्ण्या॑न्यभिमाति॒षाहः॑ ।  
+आ॒प्याय॑मानो अ॒मृता॑य सोम दि॒वि श्रवां॑स्युत्त॒मानि॑ धिष्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

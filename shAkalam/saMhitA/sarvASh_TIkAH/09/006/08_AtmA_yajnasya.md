@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ pāti ← √pā- 1 (root)
 
 pratnám ← pratná- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒त्मा य॒ज्ञस्य॒ रंह्या॑ सुष्वा॒णः प॑वते सु॒तः ।  
+प्र॒त्नं नि पा॑ति॒ काव्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “Uśanas; poem; Kāvya; wisdom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,7 +164,6 @@ He protects the age-old poetic skill.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/006/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -169,7 +173,6 @@ Note also that in the next hymn (IX.7.4a) Soma the poet clothes himself (vásān
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

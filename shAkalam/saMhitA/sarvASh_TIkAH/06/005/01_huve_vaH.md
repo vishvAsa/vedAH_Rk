@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ puruvā́raḥ ← puruvā́ra- (nominal stem)
 
 viśvávārāṇi ← viśvávāra- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हु॒वे वः॑ सू॒नुं सह॑सो॒ युवा॑न॒मद्रो॑घवाचं म॒तिभि॒र्यवि॑ष्ठम् ।  
+य इन्व॑ति॒ द्रवि॑णानि॒ प्रचे॑ता वि॒श्ववा॑राणि पुरु॒वारो॑ अ॒ध्रुक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “friendly; benign.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

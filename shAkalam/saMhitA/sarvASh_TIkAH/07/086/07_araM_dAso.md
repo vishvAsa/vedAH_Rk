@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -83,7 +84,12 @@ kavítaraḥ ← kavítara- (nominal stem)
 
 rāyé ← rayí- ~ rāy- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अरं॑ दा॒सो न मी॒ळ्हुषे॑ कराण्य॒हं दे॒वाय॒ भूर्ण॒येऽना॑गाः ।  
+अचे॑तयद॒चितो॑ दे॒वो अ॒र्यो गृत्सं॑ रा॒ये क॒वित॑रो जुनाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “animate; encourage; impel; inspire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

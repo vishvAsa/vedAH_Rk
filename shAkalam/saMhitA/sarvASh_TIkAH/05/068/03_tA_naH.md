@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "यजत आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -63,7 +64,12 @@ máhi ← máh- (nominal stem)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता नः॑ शक्तं॒ पार्थि॑वस्य म॒हो रा॒यो दि॒व्यस्य॑ ।  
+महि॑ वां क्ष॒त्रं दे॒वेषु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

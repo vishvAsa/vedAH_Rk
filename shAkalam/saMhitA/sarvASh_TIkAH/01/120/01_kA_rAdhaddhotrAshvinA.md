@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -66,7 +67,12 @@ kathā́ ← kathā́ (invariable)
 
 vidhāti ← √vidh- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+का रा॑ध॒द्धोत्रा॑श्विना वां॒ को वां॒ जोष॑ उ॒भयोः॑ ।  
+क॒था वि॑धा॒त्यप्र॑चेताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “anserine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

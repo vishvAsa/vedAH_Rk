@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ rājan ← rā́jan- (nominal stem)
 
 yakṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स तु वस्त्रा॒ण्यध॒ पेश॑नानि॒ वसा॑नो अ॒ग्निर्नाभा॑ पृथि॒व्याः ।  
+अ॒रु॒षो जा॒तः प॒द इळा॑याः पु॒रोहि॑तो राजन्यक्षी॒ह दे॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -63,7 +64,12 @@ svàr ← svàr- (nominal stem)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒त्यङ्दे॒वानां॒ विशः॑ प्र॒त्यङ्ङुदे॑षि॒ मानु॑षान् ।  
+प्र॒त्यङ्विश्वं॒ स्व॑र्दृ॒शे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     know; know; understand; understand; follow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

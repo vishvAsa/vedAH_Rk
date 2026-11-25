@@ -4,6 +4,7 @@ devataa = "प्रस्तोकस्य सांर्जयस्य द�
 RShiH = "गर्गः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - प्रस्तोकस्य सांर्जयस्य दानस्तुतिः
@@ -68,7 +69,12 @@ asāniṣam ← √sanⁱ- (root)
 
 dívodāsāt ← dívodāsa- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दशाश्वा॒न्दश॒ कोशा॒न्दश॒ वस्त्राधि॑भोजना ।  
+दशो॑ हिरण्यपि॒ण्डान्दिवो॑दासादसानिषम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “win; get; gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

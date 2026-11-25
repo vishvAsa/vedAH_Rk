@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)
 
 trís ← trís (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिर्व॒र्तिर्या॑तं॒ त्रिरनु॑व्रते ज॒ने त्रिः सु॑प्रा॒व्ये॑ त्रे॒धेव॑ शिक्षतम् ।  
+त्रिर्ना॒न्द्यं॑ वहतमश्विना यु॒वं त्रिः पृक्षो॑ अ॒स्मे अ॒क्षरे॑व पिन्वतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “swell; swell; overflow; abound.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

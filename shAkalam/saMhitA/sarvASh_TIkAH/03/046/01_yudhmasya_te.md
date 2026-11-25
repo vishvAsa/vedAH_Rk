@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ mahatáḥ ← mahā́nt- (nominal stem)
 
 śrutásya ← √śru- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒ध्मस्य॑ ते वृष॒भस्य॑ स्व॒राज॑ उ॒ग्रस्य॒ यूनः॒ स्थवि॑रस्य॒ घृष्वेः॑ ।  
+अजू॑र्यतो व॒ज्रिणो॑ वी॒र्या॒३॒॑णीन्द्र॑ श्रु॒तस्य॑ मह॒तो म॒हानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “great; abundant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ náva ← náva- 1 (nominal stem)
 
 navatī́ḥ ← navatí- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒या वी॒ती परि॑ स्रव॒ यस्त॑ इन्दो॒ मदे॒ष्वा ।  
+अ॒वाह॑न्नव॒तीर्नव॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “nine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -182,15 +187,6 @@ Ayā vītī may also mean 'with that food'
 Flow around in pursuit (of him) who amid your raptures, o drop, smashed down the nine and ninety—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The published translation fails to render the demon. ayā́that opens the hymn; more literal would be “flow around in this pursuit (of him) …” Geldner (n. 1) considers ayā́a kind of attraction from
-
-*asya ‘of him’, the missing antecedent to yáḥ in b, but the prominent position of ayā́should
-be registered. Presumably ayā́vītī́is gesturing towards the physical ritual activity happening right now.
-
-The unnamed referent in the rel. cl. of bc is of course Indra; the “nine and ninety” are fortresses / strongholds, as in IV.26.3 … púraḥ … náva sākáṃ navatī́ḥ śámbarasya. This referent is postponed to the 2nd vs.: púraḥ opens vs. 2.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -198,7 +194,6 @@ This tṛca shows some signs of unity. The 1st two vss. are a syntactic unit, wi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

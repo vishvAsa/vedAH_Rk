@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ utá ← utá (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न नू॒नमस्ति॒ नो श्वः कस्तद्वे॑द॒ यदद्भु॑तम् ।  
+अ॒न्यस्य॑ चि॒त्तम॒भि सं॑च॒रेण्य॑मु॒ताधी॑तं॒ वि न॑श्यति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

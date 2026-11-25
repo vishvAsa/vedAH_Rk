@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ प्र या॑त॒ मरु॑तो॒ विष्णो॒ अश्वि॑ना॒ पूष॒न्माकी॑नया धि॒या ।  
+इन्द्र॒ आ या॑तु प्रथ॒मः स॑नि॒ष्युभि॒र्वृषा॒ यो वृ॑त्र॒हा गृ॒णे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

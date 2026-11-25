@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -62,7 +63,12 @@ jágmaye ← jágmi- (nominal stem)
 
 náre ← nár- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रत्य॑स्मै॒ पिपी॑षते॒ विश्वा॑नि वि॒दुषे॑ भर ।  
+अ॒रं॒ग॒माय॒ जग्म॒येऽप॑श्चाद्दघ्वने॒ नरे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

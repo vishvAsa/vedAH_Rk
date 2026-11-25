@@ -4,6 +4,7 @@ devataa = "अहिर्बुध्न्यः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अहिर्बुध्न्यः
@@ -61,7 +62,11 @@ sridhat ← √sridh- (root)
 
 yajñáḥ ← yajñá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नोऽहि॑र्बु॒ध्न्यो॑ रि॒षे धा॒न्मा य॒ज्ञो अ॑स्य स्रिधदृता॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +139,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

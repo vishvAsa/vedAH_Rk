@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ apīpatat ← √pat- 1 (root)
 
 vájram ← vájra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र नू॒नं धा॑वता॒ पृथ॒ङ्नेह यो वो॒ अवा॑वरीत् ।  
+नि षीं॑ वृ॒त्रस्य॒ मर्म॑णि॒ वज्र॒मिन्द्रो॑ अपीपतत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     throw; lodge; disappear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -223,7 +228,6 @@ Indra has let fly his mace down onto Vr̥tra’s mortal place.’
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -231,7 +235,6 @@ I take these three Anuṣṭubh verses as the singer’s performance of the reci
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

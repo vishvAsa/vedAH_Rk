@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ rakṣohā́ ← rakṣohán- (nominal stem)
 
 vā́ram ← vā́ra- 1 (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वा॒जी रो॑च॒ना दि॒वः पव॑मानो॒ वि धा॑वति ।  
+र॒क्षो॒हा वार॑म॒व्यय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “sheep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

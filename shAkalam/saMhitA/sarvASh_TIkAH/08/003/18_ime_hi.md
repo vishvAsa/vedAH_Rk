@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 venáḥ ← vená- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे हि ते॑ का॒रवो॑ वाव॒शुर्धि॒या विप्रा॑सो मे॒धसा॑तये ।  
+स त्वं नो॑ मघवन्निन्द्र गिर्वणो वे॒नो न शृ॑णुधी॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

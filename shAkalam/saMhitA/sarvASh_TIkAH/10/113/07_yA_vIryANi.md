@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शतप्रभेदनो वैरूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ mahnā́ ← mahimán- (nominal stem)
 
 pūrváhūtau ← pūrváhūti- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या वी॒र्या॑णि प्रथ॒मानि॒ कर्त्वा॑ महि॒त्वेभि॒र्यत॑मानौ समी॒यतुः॑ ।  
+ध्वा॒न्तं तमोऽव॑ दध्वसे ह॒त इन्द्रो॑ म॒ह्ना पू॒र्वहू॑तावपत्यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “own; have; master.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

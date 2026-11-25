@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ táthā ← táthā (invariable)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य आस्ते॒ यश्च॒ चर॑ति॒ यश्च॒ पश्य॑ति नो॒ जनः॑ ।  
+तेषां॒ सं ह॑न्मो अ॒क्षाणि॒ यथे॒दं ह॒र्म्यं तथा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     therefore; however; so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

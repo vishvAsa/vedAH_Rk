@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -17,12 +18,12 @@ ChandaH = "गायत्री"
 मन्द्र᳓या देव जिह्व᳓या  
 आ᳓ देवा᳓न् वक्षि य᳓क्षि च
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अग्ने॑ पावक रो॒चिषा॑ म॒न्द्रया॑ देव जि॒ह्वया॑ ।  
 आ दे॒वान् [2]  व॒क्षि॒ यक्षि॑ च ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -69,7 +70,12 @@ vakṣi ← √vah- (root)
 
 yákṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ पावक रो॒चिषा॑ म॒न्द्रया॑ देव जि॒ह्वया॑ ।  
+आ दे॒वान्व॑क्षि॒ यक्षि॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,7 +172,6 @@ _____________
 
 हे पावक शोधक देव द्योतनात्मकाग्ने रोचिषा दीप्तिमत्या मन्द्रया श्लक्ष्णया जिह्वया वाचा देवागावक्षि आवह यक्षि यज।
 </details>
-
 
 <details><summary>भट्टभास्कर-टीका</summary>
 
@@ -207,7 +211,7 @@ Agni, purifier! With thy splendour, with thy delightful tongue, O god, bring hit
 
 O Agni, the purifying, with thy light,  
 0 god, with thy pleasant tongue,  
-Bring hither the gods and sacrifice.  
+Bring hither the gods and sacrifice.
 </details>
 
 <details><summary>Geldner</summary>

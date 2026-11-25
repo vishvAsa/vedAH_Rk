@@ -4,6 +4,7 @@ devataa = "कुरुङ्गस दानस्तुतिः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कुरुङ्गस दानस्तुतिः
@@ -65,7 +66,12 @@ amanmahi ← √man- 1 (root)
 
 turváśeṣu ← turváśa- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्थू॒रं राधः॑ श॒ताश्वं॑ कुरु॒ङ्गस्य॒ दिवि॑ष्टिषु ।  
+राज्ञ॑स्त्वे॒षस्य॑ सु॒भग॑स्य रा॒तिषु॑ तु॒र्वशे॑ष्वमन्महि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

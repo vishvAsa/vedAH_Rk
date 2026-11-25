@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -71,7 +72,12 @@ r̥jáve ← r̥jú- (nominal stem)
 
 uruśáṁsāḥ ← uruśáṁsa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्री रो॑च॒ना दि॒व्या धा॑रयन्त हिर॒ण्ययाः॒ शुच॑यो॒ धार॑पूताः ।  
+अस्व॑प्नजो अनिमि॒षा अद॑ब्धा उरु॒शंसा॑ ऋ॒जवे॒ मर्त्या॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

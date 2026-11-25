@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -83,7 +84,12 @@ juhota ← √hu- (root)
 
 síndhubhyaḥ ← síndhu- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तप॑वित्राः स्व॒धया॒ मद॑न्तीर्दे॒वीर्दे॒वाना॒मपि॑ यन्ति॒ पाथः॑ ।  
+ता इन्द्र॑स्य॒ न मि॑नन्ति व्र॒तानि॒ सिन्धु॑भ्यो ह॒व्यं घृ॒तव॑ज्जुहोत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “sacrifice; offer; pour; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

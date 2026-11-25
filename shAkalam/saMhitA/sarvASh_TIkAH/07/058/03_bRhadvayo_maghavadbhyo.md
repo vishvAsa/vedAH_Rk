@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ tireta ← √tr̥̄- 1 (root)
 
 ūtíbhiḥ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हद्वयो॑ म॒घव॑द्भ्यो दधात॒ जुजो॑ष॒न्निन्म॒रुतः॑ सुष्टु॒तिं नः॑ ।  
+ग॒तो नाध्वा॒ वि ति॑राति ज॒न्तुं प्र णः॑ स्पा॒र्हाभि॑रू॒तिभि॑स्तिरेत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

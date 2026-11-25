@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ asmé ← ahám (pronoun)
 
 vā́jāsaḥ ← vā́ja- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे रायो॑ दि॒वेदि॑वे॒ सं च॑रन्तु पुरु॒स्पृहः॑ ।  
+अ॒स्मे वाजा॑स ईरताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “go.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

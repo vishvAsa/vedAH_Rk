@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -66,7 +67,12 @@ sma ← sma (invariable)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नः॑ पूषन्न॒घो वृको॑ दुः॒शेव॑ आ॒दिदे॑शति ।  
+अप॑ स्म॒ तं प॒थो ज॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
     foreswear; pour away; withdraw; depart; reduce.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

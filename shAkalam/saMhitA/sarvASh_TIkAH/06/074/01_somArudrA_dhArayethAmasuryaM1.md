@@ -4,6 +4,7 @@ devataa = "सोमारुद्रौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमारुद्रौ
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 śám ← śám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमा॑रुद्रा धा॒रये॑थामसु॒र्यं१॒॑ प्र वा॑मि॒ष्टयोऽर॑मश्नुवन्तु ।  
+दमे॑दमे स॒प्त रत्ना॒ दधा॑ना॒ शं नो॑ भूतं द्वि॒पदे॒ शं चतु॑ष्पदे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “quadrupedal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

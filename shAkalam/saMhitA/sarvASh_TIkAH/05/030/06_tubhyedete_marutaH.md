@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ prá ← prá (invariable)
 
 sakṣat ← √sah- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्येदे॒ते म॒रुतः॑ सु॒शेवा॒ अर्च॑न्त्य॒र्कं सु॒न्वन्त्यन्धः॑ ।  
+अहि॑मोहा॒नम॒प आ॒शया॑नं॒ प्र मा॒याभि॑र्मा॒यिनं॑ सक्ष॒दिन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

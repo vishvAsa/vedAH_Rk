@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्तदेवताः"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तदेवताः
@@ -89,7 +90,12 @@ dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)
 
 svàr ← svàr- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒धि॒क्रां वः॑ प्रथ॒मम॒श्विनो॒षस॑म॒ग्निं समि॑द्धं॒ भग॑मू॒तये॑ हुवे ।  
+इन्द्रं॒ विष्णुं॑ पू॒षणं॒ ब्रह्म॑ण॒स्पति॑मादि॒त्यान्द्यावा॑पृथि॒वी अ॒पः स्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “sun; sky; sunlight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

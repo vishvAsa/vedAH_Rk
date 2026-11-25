@@ -4,6 +4,7 @@ devataa = "विश्वकर्मा"
 RShiH = "विश्वकर्मा भौवनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -92,7 +93,12 @@ tám ← sá- ~ tá- (pronoun)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नः॑ पि॒ता ज॑नि॒ता यो वि॑धा॒ता धामा॑नि॒ वेद॒ भुव॑नानि॒ विश्वा॑ ।  
+यो दे॒वानां॑ नाम॒धा एक॑ ए॒व तं स॑म्प्र॒श्नं भुव॑ना यन्त्य॒न्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     more(a); fresh; any(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

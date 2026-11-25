@@ -4,6 +4,7 @@ devataa = "सपत्नघ्नं"
 RShiH = "ऋषभो वैराजः शाक्वरो वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सपत्नघ्नं
@@ -74,7 +75,12 @@ imé ← ayám (pronoun)
 
 sárve ← sárva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हम॑स्मि सपत्न॒हेन्द्र॑ इ॒वारि॑ष्टो॒ अक्ष॑तः ।  
+अ॒धः स॒पत्ना॑ मे प॒दोरि॒मे सर्वे॑ अ॒भिष्ठि॑ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “step on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

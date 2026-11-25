@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ prayantā́ ← prayantár- (nominal stem)
 
 rāyáḥ ← rayí- ~ rāy- (nominal stem)  
 {gender:M}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ अश्रायि सु॒ध्यो॑ निरे॒के प॒ज्रेषु॒ स्तोमो॒ दुर्यो॒ न यूपः॑ ।  
+अ॒श्व॒युर्ग॒व्यू र॑थ॒युर्व॑सू॒युरिन्द्र॒ इद्रा॒यः क्ष॑यति प्रय॒न्ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

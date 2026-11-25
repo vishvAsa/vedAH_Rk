@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ somapā́vnaḥ ← somapā́van- (nominal stem)
 
 vr̥traghnáḥ ← vr̥trahán- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्रत्व॒ इत्पू॒र्णमु॒दरं॑ तु॒रस्या॑स्ति विध॒तः ।  
+वृ॒त्र॒घ्नः सो॑म॒पाव्नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “drinking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "कृत्नुर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -69,7 +70,12 @@ prá ← prá (invariable)
 
 tārīt ← √tr̥̄- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒दद्यत्पू॒र्व्यं न॒ष्टमुदी॑मृता॒युमी॑रयत् ।  
+प्रेमायु॑स्तारी॒दती॑र्णम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

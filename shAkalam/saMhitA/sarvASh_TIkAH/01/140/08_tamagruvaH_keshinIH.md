@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ jīvám ← jīvá- (nominal stem)
 
 páram ← pára- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम॒ग्रुवः॑ के॒शिनीः॒ सं हि रे॑भि॒र ऊ॒र्ध्वास्त॑स्थुर्म॒म्रुषीः॒ प्रायवे॒ पुनः॑ ।  
+तासां॑ ज॒रां प्र॑मु॒ञ्चन्ने॑ति॒ नान॑द॒दसुं॒ परं॑ ज॒नय॑ञ्जी॒वमस्तृ॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “durable; invincible.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -281,10 +286,6 @@ Removing their old age, he goes constantly roaring, generating a
 further living life-force (for them?), which cannot be laid low.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Again there is a difference of opinion as to referent. With Oldenberg (SBE) I take the plants once again as the subjects of pāda a (so, partly, Witzel Gotō), contra Sāyaṇa, Geldner, Renou, Kümmel (419), who interpret them as flames.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md">
 <details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
@@ -294,7 +295,6 @@ This proposed split reference seems to me to break the thematic unity of the ver
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

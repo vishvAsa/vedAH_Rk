@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हविर्धान आङ्गिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -107,7 +108,12 @@ vā́jaḥ ← vā́ja- (nominal stem)
 
 yātā́m ← √yā- 1 (root)  
 {case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किं स्वि॑न्नो॒ राजा॑ जगृहे॒ कद॒स्याति॑ व्र॒तं च॑कृमा॒ को वि वे॑द ।  
+मि॒त्रश्चि॒द्धि ष्मा॑ जुहुरा॒णो दे॒वाञ्छ्लोको॒ न या॒तामपि॒ वाजो॒ अस्ति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -282,7 +288,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

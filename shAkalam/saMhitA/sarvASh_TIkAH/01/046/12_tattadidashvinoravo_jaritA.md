@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ pípratoḥ ← √pr̥- (root)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्त॒दिद॒श्विनो॒रवो॑ जरि॒ता प्रति॑ भूषति ।  
+मदे॒ सोम॑स्य॒ पिप्र॑तोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “protect; promote; rescue; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

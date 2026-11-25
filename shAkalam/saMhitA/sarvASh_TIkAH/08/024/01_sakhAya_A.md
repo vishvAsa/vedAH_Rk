@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ u ← u (invariable)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सखा॑य॒ आ शि॑षामहि॒ ब्रह्मेन्द्रा॑य व॒ज्रिणे॑ ।  
+स्तु॒ष ऊ॒ षु वो॒ नृत॑माय धृ॒ष्णवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “brave; ferocious; strong.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

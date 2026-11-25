@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ vā́ryam ← vā́rya- (nominal stem)
 
 viśé ← víś- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒दा वी॒रस्य॑ रे॒वतो॑ दुरो॒णे स्यो॑न॒शीरति॑थिरा॒चिके॑तत् ।  
+सुप्री॑तो अ॒ग्निः सुधि॑तो॒ दम॒ आ स वि॒शे दा॑ति॒ वार्य॒मिय॑त्यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “such(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

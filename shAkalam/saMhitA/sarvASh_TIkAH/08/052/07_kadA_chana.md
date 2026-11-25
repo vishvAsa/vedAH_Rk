@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ diví ← dyú- ~ div- (nominal stem)
 
 tasthau ← √sthā- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒दा च॒न प्र यु॑च्छस्यु॒भे नि पा॑सि॒ जन्म॑नी ।  
+तुरी॑यादित्य॒ हव॑नं त इन्द्रि॒यमा त॑स्थाव॒मृतं॑ दि॒वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ ihi ← √i- 1 (root)
 
 rucā́ ← rúc- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒षे प॑वस्व॒ धार॑या मृ॒ज्यमा॑नो मनी॒षिभिः॑ ।  
+इन्दो॑ रु॒चाभि गा इ॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -166,14 +171,12 @@ O drop, with your light come toward the cows.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 Again, each vs. has a form of √pū, for what that’s worth (pavasva 13a, punānáḥ 14a, 15a). In 15a devá-vītaye links to the rt. noun cmpd devā́-vī́- (deva-vī́tama- in the previous tṛca, 11b, 12b).
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ tvám ← tvám (pronoun)
 
 vásvaḥ ← vásu- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्तोमो॑ अचिक्रद॒द्वृषा॑ त उ॒त स्ता॒मुर्म॑घवन्नक्रपिष्ट ।  
+रा॒यस्कामो॑ जरि॒तारं॑ त॒ आग॒न्त्वम॒ङ्ग श॑क्र॒ वस्व॒ आ श॑को नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

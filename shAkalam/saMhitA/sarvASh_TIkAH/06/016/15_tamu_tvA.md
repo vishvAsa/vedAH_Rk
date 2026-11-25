@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ dhanaṁjayám ← dhanaṁjayá- (nominal stem)
 
 ráṇe-raṇe ← ráṇa- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ त्वा पा॒थ्यो वृषा॒ समी॑धे दस्यु॒हन्त॑मम् ।  
+ध॒नं॒ज॒यं रणे॑रणे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “battle; fight; pleasure; joy; war; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,7 +175,6 @@ winning the stakes in every battle.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -180,7 +184,6 @@ This tṛca is recited in śrauta ritual during the churning of the fire; see Kr
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

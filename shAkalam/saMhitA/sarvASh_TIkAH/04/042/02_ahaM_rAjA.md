@@ -4,6 +4,7 @@ devataa = "त्रसदस्युः"
 RShiH = "त्रसदस्युः पौरुकुत्स्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्रसदस्युः
@@ -80,7 +81,12 @@ upamásya ← upamá- (nominal stem)
 
 vavréḥ ← vavrí- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं राजा॒ वरु॑णो॒ मह्यं॒ तान्य॑सु॒र्या॑णि प्रथ॒मा धा॑रयन्त ।  
+क्रतुं॑ सचन्ते॒ वरु॑णस्य दे॒वा राजा॑मि कृ॒ष्टेरु॑प॒मस्य॑ व॒व्रेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “covering; lurking place.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

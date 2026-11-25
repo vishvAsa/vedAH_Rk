@@ -4,6 +4,7 @@ devataa = "धनान्नदानप्रशंसा"
 RShiH = "भिक्षुराङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - धनान्नदानप्रशंसा
@@ -83,7 +84,12 @@ sampáśyan ← √paś- (root)
 
 upatíṣṭhamānaḥ ← √sthā- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एक॑पा॒द्भूयो॑ द्वि॒पदो॒ वि च॑क्रमे द्वि॒पात्त्रि॒पाद॑म॒भ्ये॑ति प॒श्चात् ।  
+चतु॑ष्पादेति द्वि॒पदा॑मभिस्व॒रे स॒म्पश्य॑न्प॒ङ्क्तीरु॑प॒तिष्ठ॑मानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     entertain; arise; stand; happen; become.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

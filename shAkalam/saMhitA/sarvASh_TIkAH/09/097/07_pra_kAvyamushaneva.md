@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वृषगणो वासिष्ठ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ rébhan ← √ribh- (root)
 
 varāháḥ ← varāhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र काव्य॑मु॒शने॑व ब्रुवा॒णो दे॒वो दे॒वानां॒ जनि॑मा विवक्ति ।  
+महि॑व्रतः॒ शुचि॑बन्धुः पाव॒कः प॒दा व॑रा॒हो अ॒भ्ये॑ति॒ रेभ॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “moo; murmur; praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -251,16 +256,6 @@ Of great commandment, of blazing lineage, pure, as a boar he goes
 rasping toward his tracks.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In the expression kā́vyam uśáneva the first word is the acc. obj. of bruvāṇáḥ, but it is also of course a play on the patrynomic of Uśanā, the differently accented kāvyá-.
-
-In d the published translation takes padā́as neut. pl., based on IX.12.8 abhí priyā́divás padā́, … arṣati “Soma rushes towards the dear tracks of heaven,” adduced by Renou
-
-However, it is also possible and, I now think, desirable to interpr. it as an instr. sg.
-
-“along the track.” I would not interpr. the instr., with Geldner, as “mit dem Fusse.” On PREV eti rébhan# see IX.96.6=17, IX.97.1 (this hymn) and with emi VII.18.22; “snorting” or “grunting” would be a better rendering of rébhan in the boar context.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -268,7 +263,6 @@ This tṛca is attributed to Vṛṣagaṇa Vāsiṣṭha, whose given name was 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

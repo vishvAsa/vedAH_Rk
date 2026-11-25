@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ návyam ← návya- (nominal stem)
 
 vavr̥tyāt ← √vr̥t- (root)  
 {number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा ता विश्वा॑ चकृ॒वांस॒मिन्द्रं॑ म॒हामु॒ग्रम॑जु॒र्यं स॑हो॒दाम् ।  
+सु॒वीरं॑ त्वा स्वायु॒धं सु॒वज्र॒मा ब्रह्म॒ नव्य॒मव॑से ववृत्यात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

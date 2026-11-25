@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ indra ← índra- (nominal stem)
 
 jaṭháre ← jaṭhára- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तवा॒यं सोम॒स्त्वमेह्य॒र्वाङ्छ॑श्वत्त॒मं सु॒मना॑ अ॒स्य पा॑हि ।  
+अ॒स्मिन्य॒ज्ञे ब॒र्हिष्या नि॒षद्या॑ दधि॒ष्वेमं ज॒ठर॒ इन्दु॑मिन्द्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

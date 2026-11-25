@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ suṣā́hā ← suṣā́ha- (nominal stem)
 
 vithurám ← vithurá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॒ विश्व॒ आस्क्रा॑ गमन्तु दे॒वा मि॒त्रो अ॑र्य॒मा वरु॑णः स॒जोषाः॑ ।  
+भुव॒न्यथा॑ नो॒ विश्वे॑ वृ॒धासः॒ कर॑न्त्सु॒षाहा॑ विथु॒रं न शवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -266,7 +271,6 @@ so that they all will become our strengtheners and will make (all things)  easy 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -274,7 +278,6 @@ The c-pādas of all three verses consist of a yáthā purpose clause with subjun
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

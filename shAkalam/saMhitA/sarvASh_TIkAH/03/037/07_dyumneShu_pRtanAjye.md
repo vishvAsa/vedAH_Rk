@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ abhímātiṣu ← abhímāti- (nominal stem)
 
 sā́kṣva ← √sah- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यु॒म्नेषु॑ पृत॒नाज्ये॑ पृत्सु॒तूर्षु॒ श्रव॑स्सु च ।  
+इन्द्र॒ साक्ष्वा॒भिमा॑तिषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - “aggression; hostility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

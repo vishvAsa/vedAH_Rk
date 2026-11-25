@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ turī́yaḥ ← turī́ya- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्य भा॒नुरुदि॑यर्ति यु॒ज्यते॒ रथः॒ परि॑ज्मा दि॒वो अ॒स्य सान॑वि ।  
+पृ॒क्षासो॑ अस्मिन्मिथु॒ना अधि॒ त्रयो॒ दृति॑स्तु॒रीयो॒ मधु॑नो॒ वि र॑प्शते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “abound in.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

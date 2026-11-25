@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ suśipra ← suśiprá- (nominal stem)
 
 ubhé ← ubhá- (pronoun)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ ज्येष्ठं॑ न॒ आ भ॑रँ॒ ओजि॑ष्ठं॒ पपु॑रि॒ श्रवः॑ ।  
+येने॒मे चि॑त्र वज्रहस्त॒ रोद॑सी॒ ओभे सु॑शिप्र॒ प्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “fill; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निरग्निरौषस्योवा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निरौषस्योवा
@@ -77,7 +78,12 @@ sīm ← sīm (invariable)
 
 virócamānam ← √ruc- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दशे॒मं त्वष्टु॑र्जनयन्त॒ गर्भ॒मत॑न्द्रासो युव॒तयो॒ विभृ॑त्रम् ।  
+ति॒ग्मानी॑कं॒ स्वय॑शसं॒ जने॑षु वि॒रोच॑मानं॒ परि॑ षीं नयन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

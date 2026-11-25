@@ -4,6 +4,7 @@ devataa = "पथ्या स्वस्तिः"
 RShiH = "गयः प्लातः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पथ्या स्वस्तिः
@@ -95,7 +96,12 @@ devágopā ← devágopā- (nominal stem)
 
 svāveśā́ ← svāveśá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒स्तिरिद्धि प्रप॑थे॒ श्रेष्ठा॒ रेक्ण॑स्वत्य॒भि या वा॒ममेति॑ ।  
+सा नो॑ अ॒मा सो अर॑णे॒ नि पा॑तु स्वावे॒शा भ॑वतु दे॒वगो॑पा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “cowboy; Gopa; defender.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

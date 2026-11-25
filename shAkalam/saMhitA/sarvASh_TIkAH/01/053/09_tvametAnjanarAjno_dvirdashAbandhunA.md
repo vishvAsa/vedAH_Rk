@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ ní ← ní (invariable)
 
 ráthyā ← ráthya- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमे॒ताञ्ज॑न॒राज्ञो॒ द्विर्दशा॑ब॒न्धुना॑ सु॒श्रव॑सोपज॒ग्मुषः॑ ।  
+ष॒ष्टिं स॒हस्रा॑ नव॒तिं नव॑ श्रु॒तो नि च॒क्रेण॒ रथ्या॑ दु॒ष्पदा॑वृणक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - \[verb\], singular, Imperfect
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

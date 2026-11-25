@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -83,7 +84,12 @@ tritántum ← tritántu- (nominal stem)
 
 vicárantam ← √carⁱ- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं सि॑न्धवो मत्स॒रमि॑न्द्र॒पान॑मू॒र्मिं प्र हे॑त॒ य उ॒भे इय॑र्ति ।  
+म॒द॒च्युत॑मौशा॒नं न॑भो॒जां परि॑ त्रि॒तन्तुं॑ वि॒चर॑न्त॒मुत्स॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “spring; fountain; utsa \[word\]; well.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

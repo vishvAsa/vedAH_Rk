@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ nákiḥ ← nákiḥ (invariable)
 
 rāyā́ ← rayí- ~ rāy- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒ह्य१॒॑ङ्ग पु॒रा च॒न ज॒ज्ञे वी॒रत॑र॒स्त्वत् ।  
+नकी॑ रा॒या नैवथा॒ न भ॒न्दना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - \[noun\], instrumental, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

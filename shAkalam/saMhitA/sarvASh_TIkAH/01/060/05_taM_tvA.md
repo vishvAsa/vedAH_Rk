@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ makṣú ← makṣú- (nominal stem)
 
 prātár ← prātár (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ व॒यं पति॑मग्ने रयी॒णां प्र शं॑सामो म॒तिभि॒र्गोत॑मासः ।  
+आ॒शुं न वा॑जम्भ॒रं म॒र्जय॑न्तः प्रा॒तर्म॒क्षू धि॒याव॑सुर्जगम्यात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

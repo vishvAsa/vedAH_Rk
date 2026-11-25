@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -92,7 +93,12 @@ práti ← práti (invariable)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ता उ॒ त्या उ॒षसः॑ के॒तुम॑क्रत॒ पूर्वे॒ अर्धे॒ रज॑सो भा॒नुम॑ञ्जते ।  
+नि॒ष्कृ॒ण्वा॒ना आयु॑धानीव धृ॒ष्णवः॒ प्रति॒ गावोऽरु॑षीर्यन्ति मा॒तरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ ratnadhéyāya ← ratnadhéya- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नापा॑भूत॒ न वो॑ऽतीतृषा॒मानिः॑शस्ता ऋभवो य॒ज्ञे अ॒स्मिन् ।  
+समिन्द्रे॑ण॒ मद॑थ॒ सं म॒रुद्भिः॒ सं राज॑भी रत्न॒धेया॑य देवाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

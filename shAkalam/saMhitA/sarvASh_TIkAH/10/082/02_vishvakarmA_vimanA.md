@@ -4,6 +4,7 @@ devataa = "विश्वकर्मा"
 RShiH = "विश्वकर्मा भौवनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -89,7 +90,12 @@ saptar̥ṣī́n ← saptar̥ṣí- (nominal stem)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒श्वक॑र्मा॒ विम॑ना॒ आद्विहा॑या धा॒ता वि॑धा॒ता प॑र॒मोत सं॒दृक् ।  
+तेषा॑मि॒ष्टानि॒ समि॒षा म॑दन्ति॒ यत्रा॑ सप्तऋ॒षीन्प॒र एक॑मा॒हुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     explain; say; define.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

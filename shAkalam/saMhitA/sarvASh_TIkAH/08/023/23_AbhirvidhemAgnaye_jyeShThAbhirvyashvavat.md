@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ matíbhiḥ ← matí- (nominal stem)
 
 śukráśociṣe ← śukráśocis- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आभि॑र्विधेमा॒ग्नये॒ ज्येष्ठा॑भिर्व्यश्व॒वत् ।  
+मंहि॑ष्ठाभिर्म॒तिभिः॑ शु॒क्रशो॑चिषे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “fire; flare; burn; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

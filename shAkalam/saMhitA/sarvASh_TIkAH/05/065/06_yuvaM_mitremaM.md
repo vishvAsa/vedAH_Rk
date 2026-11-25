@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "रातहव्य आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -91,7 +92,12 @@ naḥ ← ahám (pronoun)
 
 uruṣyatam ← √uruṣy- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं मि॑त्रे॒मं जनं॒ यत॑थः॒ सं च॑ नयथः ।  
+मा म॒घोनः॒ परि॑ ख्यतं॒ मो अ॒स्माक॒मृषी॑णां गोपी॒थे न॑ उरुष्यतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “protect; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

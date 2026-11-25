@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ valám ← valá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्य१॒॑न्तरि॑क्षमतिर॒न्मदे॒ सोम॑स्य रोच॒ना ।  
+इन्द्रो॒ यदभि॑नद्व॒लम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “Vala; vala; cave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

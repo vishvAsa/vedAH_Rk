@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ svadháyā ← svadhā́- (nominal stem)
 
 víśvān ← víśva- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒के॒नि॒पासो॒ अह॑भि॒र्दवि॑ध्वतः॒ स्व१॒॑र्ण शु॒क्रं त॒न्वन्त॒ आ रजः॑ ।  
+सूर॑श्चि॒दश्वा॑न्युयुजा॒न ई॑यते॒ विश्वाँ॒ अनु॑ स्व॒धया॑ चेतथस्प॒थः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “way; road; path \[word\]; journey; method.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

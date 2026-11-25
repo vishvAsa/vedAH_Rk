@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -78,7 +79,12 @@ vavr̥tīta ← √vr̥t- (root)
 
 vípraḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं ह॒ यद्वां॑ देव॒या उ॒ अद्रि॑रू॒र्ध्वो विव॑क्ति सोम॒सुद्यु॒वभ्या॑म् ।  
+आ व॒ल्गू विप्रो॑ ववृतीत ह॒व्यैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “Havya; offering; havya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

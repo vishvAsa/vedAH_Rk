@@ -4,6 +4,7 @@ devataa = "इषवः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इषवः
@@ -77,7 +78,12 @@ sómaḥ ← sóma- (nominal stem)
 
 yachatu ← √yam- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋजी॑ते॒ परि॑ वृङ्धि॒ नोऽश्मा॑ भवतु नस्त॒नूः ।  
+सोमो॒ अधि॑ ब्रवीतु॒ नोऽदि॑तिः॒ शर्म॑ यच्छतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ gā́m ← gáv- ~ gó- (nominal stem)
 
 pipyúṣī ← √pī- 1 (root)  
 {case:NOM, gender:F, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धे॒नुष्ट॑ इन्द्र सू॒नृता॒ यज॑मानाय सुन्व॒ते ।  
+गामश्वं॑ पि॒प्युषी॑ दुहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

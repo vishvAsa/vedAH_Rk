@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ sahásrabhr̥ṣṭiḥ ← sahásrabhr̥ṣṭi- (nominal stem)
 
 śrávaḥ ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उन्मध्व॑ ऊ॒र्मिर्व॒नना॑ अतिष्ठिपद॒पो वसा॑नो महि॒षो वि गा॑हते ।  
+राजा॑ प॒वित्र॑रथो॒ वाज॒मारु॑हत्स॒हस्र॑भृष्टिर्जयति॒ श्रवो॑ बृ॒हत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -247,14 +252,6 @@ The wave of honey has raised (our?) desires; clothing himself in waters,  the bu
 The king whose chariot is the filter has mounted the prize. He of a  thousand spikes wins lofty fame.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-vanánā- is a hapax, though there seems to be general agreement that it means something like ‘desire’, derived from the seṭ root √vani ‘love, hold dear’.
-
-There is an Oldenberg Avestan hapax of the same shape (Y. 44.15) that seems unconnected, in that, contextually, the standard tr. ‘victory’ seems correct, and it should therefore be derived from aniṭ √van ‘win’. But Kellens-Pirart in their OA lexicon (1990) equate it directly with our vanánā- and gloss it ‘charme’ - which makes no contextual sense and can, I think, easily be dismissed. In any case it is easy to see how our form came to be built. It is the object of the verb úd … atiṣṭhipat ‘made to stand up / raised up’. The next vs., 41a, has a very similar VP, bhandánā úd iyarti, where the verb is semantically equivalent to our verb and has the same preverb, and the nominal object is a fem. acc. pl. -ánā- form, which provided the template for vanánā-. Given this parallelism and given the fact that the phrase in vs. 41 has to do with granting blessings to us, I think it likely that the desires Soma raised in 40a are our own (so also Geldner, Renou), which he will fulfill in the next vs. ví gāhate as in 8a; cf. also áti gāhate in 26a.
-
-Soma is presumably “thousand-spiked” (sahásrabhṛṣṭi-) because of the knobs, thorns, or similar extrusions on the plant.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md">
 <details><summary><h2>40-42 ...{Loading}...</h2></summary>
 
@@ -262,7 +259,6 @@ The focus on our welfare found in the last tṛca is found here in vs. 41 but is
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

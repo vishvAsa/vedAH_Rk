@@ -4,6 +4,7 @@ devataa = "स्वाहाकृतयः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वाहाकृतयः
@@ -68,7 +69,12 @@ agníḥ ← agní- (nominal stem)
 
 sajóṣasaḥ ← sajóṣas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ देवाः॒ स्वाहा॑कृतिं॒ पव॑मान॒स्या ग॑त ।  
+वा॒युर्बृह॒स्पतिः॒ सूर्यो॒ऽग्निरिन्द्रः॑ स॒जोष॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “consentaneous; combined; associated; united.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -86,7 +87,12 @@ iṣayema ← √iṣay- (root)
 
 mádantaḥ ← √mad- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भा शंसा॒ नर्या॒ माम॑विष्टामु॒भे मामू॒ती अव॑सा सचेताम् ।  
+भूरि॑ चिद॒र्यः सु॒दास्त॑राये॒षा मद॑न्त इषयेम देवाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

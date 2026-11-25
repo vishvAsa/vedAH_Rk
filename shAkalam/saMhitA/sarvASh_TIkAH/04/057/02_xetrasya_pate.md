@@ -4,6 +4,7 @@ devataa = "क्षेत्रपतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - क्षेत्रपतिः
@@ -83,7 +84,12 @@ pátayaḥ ← páti- (nominal stem)
 
 r̥tásya ← r̥tá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्षेत्र॑स्य पते॒ मधु॑मन्तमू॒र्मिं धे॒नुरि॑व॒ पयो॑ अ॒स्मासु॑ धुक्ष्व ।  
+म॒धु॒श्चुतं॑ घृ॒तमि॑व॒ सुपू॑तमृ॒तस्य॑ नः॒ पत॑यो मृळयन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “pardon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

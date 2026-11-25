@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ sū́ryasya ← sū́rya- (nominal stem)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒व्यः सु॑प॒र्णोऽव॑ चक्षि सोम॒ पिन्व॒न्धाराः॒ कर्म॑णा दे॒ववी॑तौ ।  
+एन्दो॑ विश क॒लशं॑ सोम॒धानं॒ क्रन्द॑न्निहि॒ सूर्य॒स्योप॑ र॒श्मिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “beam; rein; sunbeam; shininess; cord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -264,12 +269,6 @@ As heavenly eagle, o Soma, gaze down, swelling the streams with (ritual)  action
 O drop, enter the tub for holding the soma. Roaring, come right up to  the ray of the sun.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The form cakṣi (also VII.3.6) is in both of its occurrences pretty clearly an impv., but its formation is something of a puzzle. It appears to be a -si impv. (so Baum, Imperative, 46, 107, with no disc.), but it has none of the standard supports for such a form. Not only does it not have an s-aor. subjunctive, but it has no aorist forms at all, and almost all the occurrences of its well-attested root pres. are medial.
-
-And of course, assuming it belongs to √cakṣ, the form would have to be degeminated from *cakṣ-ṣi (though that would not be hard). The parallel passage IX.71.9 has a medial injunc. to the marginal thematic stem (see Hoffmann 122 n. 33): divyáḥ suparṇó 'va cakṣata kṣā́m. I have no explanation for this aberrant form; it is true that the proper med. impv. to the root pres. cakṣva (3x) would not fit this metrical slot, but that doesn’t seem reason enough to invent cakṣi.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md">
 <details><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -277,7 +276,6 @@ The first vs. of the tṛca contains a form of √sṛj, thus concatenating with
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

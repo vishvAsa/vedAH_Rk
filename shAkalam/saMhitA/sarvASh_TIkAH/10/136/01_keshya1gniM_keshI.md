@@ -4,6 +4,7 @@ devataa = "केशिनः"
 RShiH = "जूतिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - केशिनः
@@ -77,7 +78,12 @@ keśī́ ← keśín- (nominal stem)
 
 ucyate ← √vac- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+के॒श्य१॒॑ग्निं के॒शी वि॒षं के॒शी बि॑भर्ति॒ रोद॑सी ।  
+के॒शी विश्वं॒ स्व॑र्दृ॒शे के॒शीदं ज्योति॑रुच्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

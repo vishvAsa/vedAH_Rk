@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ minat ← √mī- 1 (root)
 
 nákiḥ ← nákiḥ (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रव॒च्छ्रुत्क॑र्ण ईयते॒ वसू॑नां॒ नू चि॑न्नो मर्धिष॒द्गिरः॑ ।  
+स॒द्यश्चि॒द्यः स॒हस्रा॑णि श॒ता दद॒न्नकि॒र्दित्स॑न्त॒मा मि॑नत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “transgress; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

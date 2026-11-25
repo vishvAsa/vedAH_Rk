@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ prásūtāḥ ← √sū- 1 (root)
 
 tváyā ← tvám (pronoun)  
 {case:INS, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि सा॑म॒नामि॑षि॒रामि॑न्द्र॒ भूमिं॑ म॒हीम॑पा॒रां सद॑ने ससत्थ ।  
+अस्त॑भ्ना॒द्द्यां वृ॑ष॒भो अ॒न्तरि॑क्ष॒मर्ष॒न्त्वाप॒स्त्वये॒ह प्रसू॑ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “give birth; be born; originate; impel; propel; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

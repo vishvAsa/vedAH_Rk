@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -91,7 +92,12 @@ bhadrā́ḥ ← bhadrá- (nominal stem)
 
 rātáyaḥ ← rātí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उज्जा॒तमि॑न्द्र ते॒ शव॒ उत्त्वामुत्तव॒ क्रतु॑म् ।  
+भूरि॑गो॒ भूरि॑ वावृधु॒र्मघ॑व॒न्तव॒ शर्म॑णि भ॒द्रा इन्द्र॑स्य रा॒तयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “gift; bounty; favor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

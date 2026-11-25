@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कलिः प्रगाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ paṇī́n ← paṇí- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कदू॑ म॒हीरधृ॑ष्टा अस्य॒ तवि॑षीः॒ कदु॑ वृत्र॒घ्नो अस्तृ॑तम् ।  
+इन्द्रो॒ विश्वा॑न्बेक॒नाटाँ॑ अह॒र्दृश॑ उ॒त क्रत्वा॑ प॒णीँर॒भि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “towards; on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

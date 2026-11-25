@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ vr̥thāṣā́ṭ ← vr̥thāṣáh- (nominal stem)
 
 yónau ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ह॒ त्यदि॑न्द्र चोदीः॒ सखा॑ वृ॒त्रं यद्व॑ज्रिन्वृषकर्मन्नु॒भ्नाः ।  
+यद्ध॑ शूर वृषमणः परा॒चैर्वि दस्यूँ॒र्योना॒वकृ॑तो वृथा॒षाट् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “endure; overcome; habituate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -281,7 +286,6 @@ when, you champion of bullish mind, you cut apart the Dasyus in their  womb far 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
 <details><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -289,7 +293,6 @@ tváṃ ha tyád provides the opening of the next four verses. Although tyád is
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

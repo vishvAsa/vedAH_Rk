@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ ná ← ná (invariable)
 
 nirṇíjam ← nirṇíj- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒प्तीभि॒र्यो वि॒वस्व॑तः शु॒भ्रो न मा॑मृ॒जे युवा॑ ।  
+गाः कृ॑ण्वा॒नो न नि॒र्णिज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “attire; garment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

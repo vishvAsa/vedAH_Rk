@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ sūráyaḥ ← sūrí- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर्व॑द्भिरग्ने॒ अर्व॑तो॒ नृभि॒र्नॄन्वी॒रैर्वी॒रान्व॑नुयामा॒ त्वोताः॑ ।  
+ई॒शा॒नासः॑ पितृवि॒त्तस्य॑ रा॒यो वि सू॒रयः॑ श॒तहि॑मा नो अश्युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

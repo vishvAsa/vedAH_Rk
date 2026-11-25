@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ pratarám ← pratarám (invariable)
 
 puruṣṭutā́ya ← puruṣṭutá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अजा॑तशत्रुम॒जरा॒ स्व॑र्व॒त्यनु॑ स्व॒धामि॑ता द॒स्ममी॑यते ।  
+सु॒नोत॑न॒ पच॑त॒ ब्रह्म॑वाहसे पुरुष्टु॒ताय॑ प्रत॒रं द॑धातन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

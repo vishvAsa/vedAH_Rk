@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ naḥ ← ahám (pronoun)
 
 sú ← sú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किम॒ङ्ग र॑ध्र॒चोद॑नः सुन्वा॒नस्या॑वि॒तेद॑सि ।  
+कु॒वित्स्वि॑न्द्र णः॒ शकः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “can; invigorate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ iva ← iva (invariable)
 
 támaḥ ← támas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वहि॑ष्ठेभिर्वि॒हर॑न्यासि॒ तन्तु॑मव॒व्यय॒न्नसि॑तं देव॒ वस्म॑ ।  
+दवि॑ध्वतो र॒श्मयः॒ सूर्य॑स्य॒ चर्मे॒वावा॑धु॒स्तमो॑ अ॒प्स्व१॒॑न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “inside; in; antar \[word\]; midmost; between; among.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

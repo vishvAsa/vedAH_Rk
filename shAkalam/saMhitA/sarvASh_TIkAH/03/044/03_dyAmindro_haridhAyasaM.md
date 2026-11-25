@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ háriḥ ← hári- (nominal stem)
 
 yáyoḥ ← yá- (pronoun)  
 {case:LOC, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यामिन्द्रो॒ हरि॑धायसं पृथि॒वीं हरि॑वर्पसम् ।  
+अधा॑रयद्ध॒रितो॒र्भूरि॒ भोज॑नं॒ ययो॑र॒न्तर्हरि॒श्चर॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
     heed; process; administer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

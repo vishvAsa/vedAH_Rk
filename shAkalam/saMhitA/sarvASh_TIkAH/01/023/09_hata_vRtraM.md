@@ -4,6 +4,7 @@ devataa = "इन्द्रो मरुत्वान्"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो मरुत्वान्
@@ -60,7 +61,12 @@ mā́ ← mā́ (invariable)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह॒त वृ॒त्रं सु॑दानव॒ इन्द्रे॑ण॒ सह॑सा यु॒जा ।  
+मा नो॑ दुः॒शंस॑ ईशत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “govern; command; master; dominate; can; reign; control; own.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

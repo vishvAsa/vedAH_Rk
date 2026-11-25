@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ papivā́n ← √pā- 2 (root)
 
 sutásya ← √su- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अरो॑रवी॒द्वृष्णो॑ अस्य॒ वज्रोऽमा॑नुषं॒ यन्मानु॑षो नि॒जूर्वा॑त् ।  
+नि मा॒यिनो॑ दान॒वस्य॑ मा॒या अपा॑दयत्पपि॒वान्त्सु॒तस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “Soma.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "युद्धभूमिब्रह्मणस्पत्यद
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - युद्धभूमिब्रह्मणस्पत्यदितयः
@@ -82,7 +83,12 @@ viśvā́hā ← viśvā́hā (invariable)
 
 yachatu ← √yam- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्र॑ बा॒णाः स॒म्पत॑न्ति कुमा॒रा वि॑शि॒खा इ॑व ।  
+तत्रा॑ नो॒ ब्रह्म॑ण॒स्पति॒रदि॑तिः॒ शर्म॑ यच्छतु वि॒श्वाहा॒ शर्म॑ यच्छतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

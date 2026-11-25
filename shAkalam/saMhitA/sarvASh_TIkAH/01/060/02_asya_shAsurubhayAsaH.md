@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ vikṣú ← víś- (nominal stem)
 
 viśpátiḥ ← viśpáti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य शासु॑रु॒भया॑सः सचन्ते ह॒विष्म॑न्त उ॒शिजो॒ ये च॒ मर्ताः॑ ।  
+दि॒वश्चि॒त्पूर्वो॒ न्य॑सादि॒ होता॒पृच्छ्यो॑ वि॒श्पति॑र्वि॒क्षु वे॒धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

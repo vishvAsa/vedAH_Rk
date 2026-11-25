@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -89,7 +90,12 @@ urú ← urú- (nominal stem)
 
 yájatraḥ ← yájatra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कदि॒त्था नॄँः पात्रं॑ देवय॒तां श्रव॒द्गिरो॒ अङ्गि॑रसां तुर॒ण्यन् ।  
+प्र यदान॒ड्विश॒ आ ह॒र्म्यस्यो॒रु क्रं॑सते अध्व॒रे यज॑त्रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “adorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

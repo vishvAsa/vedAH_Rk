@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -91,7 +92,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vā́jeṣu ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॒ मदा॑य वावृधे॒ शव॑से वृत्र॒हा नृभिः॑ ।  
+तमिन्म॒हत्स्वा॒जिषू॒तेमर्भे॑ हवामहे॒ स वाजे॑षु॒ प्र नो॑ऽविषत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

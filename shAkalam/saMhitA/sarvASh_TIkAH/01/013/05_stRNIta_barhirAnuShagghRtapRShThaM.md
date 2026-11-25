@@ -4,6 +4,7 @@ devataa = "बर्हिः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बर्हिः
@@ -54,7 +55,12 @@ cákṣaṇam ← cákṣaṇa- (nominal stem)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तृ॒णी॒त ब॒र्हिरा॑नु॒षग्घृ॒तपृ॑ष्ठं मनीषिणः ।  
+यत्रा॒मृत॑स्य॒ चक्ष॑णम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “appearance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -80,7 +81,12 @@ pitr̥śrávaṇam ← pitr̥śrávaṇa- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमो॑ धे॒नुं सोमो॒ अर्व॑न्तमा॒शुं सोमो॑ वी॒रं क॑र्म॒ण्यं॑ ददाति ।  
+सा॒द॒न्यं॑ विद॒थ्यं॑ स॒भेयं॑ पितृ॒श्रव॑णं॒ यो ददा॑शदस्मै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

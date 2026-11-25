@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ uchat ← √vas- 1 (root)
 
 uṣā́ḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्व॑मस्या नानाम॒ चक्ष॑से॒ जग॒ज्ज्योति॑ष्कृणोति सू॒नरी॑ ।  
+अप॒ द्वेषो॑ म॒घोनी॑ दुहि॒ता दि॒व उ॒षा उ॑च्छ॒दप॒ स्रिधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “failure; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

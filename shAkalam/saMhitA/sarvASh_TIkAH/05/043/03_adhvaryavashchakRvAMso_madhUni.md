@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ rarimá ← √rā- 1 (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध्व॑र्यवश्चकृ॒वांसो॒ मधू॑नि॒ प्र वा॒यवे॑ भरत॒ चारु॑ शु॒क्रम् ।  
+होते॑व नः प्रथ॒मः पा॑ह्य॒स्य देव॒ मध्वो॑ ररि॒मा ते॒ मदा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

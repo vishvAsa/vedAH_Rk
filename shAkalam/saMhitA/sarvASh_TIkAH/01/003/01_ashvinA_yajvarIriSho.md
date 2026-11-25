@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -54,7 +55,12 @@ canasyátam ← √canasy- (root)
 
 púrubhujā ← purubhuj- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वि॑ना॒ यज्व॑री॒रिषो॒ द्रव॑त्पाणी॒ शुभ॑स्पती ।  
+पुरु॑भुजा चन॒स्यत॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - \[verb\], dual, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ puṣṭā́ni ← √puṣ- (root)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येने॒मा विश्वा॒ च्यव॑ना कृ॒तानि॒ यो दासं॒ वर्ण॒मध॑रं॒ गुहाकः॑ ।  
+श्व॒घ्नीव॒ यो जि॑गी॒वाल्ँल॒क्षमाद॑द॒र्यः पु॒ष्टानि॒ स ज॑नास॒ इन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -265,7 +271,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -293,10 +298,6 @@ who, has taken the riches of the stranger, as a winning gambling
 champion does the wager – he, o peoples, is Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-cyávana- is ordinarily agentive, ‘rousing, rouser’, but there is no escaping the sense ‘exploit, deed’ here (like its fellow derivative cyautná-). Perhaps the semantic development is by way of “stirring (deed)” or sim.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -306,7 +307,6 @@ abstract to √puṣ, both in the plural, do not seem to differ from each other 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

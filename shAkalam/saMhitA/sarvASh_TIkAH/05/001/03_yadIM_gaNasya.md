@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "बुधगविष्ठिरावात्रेयौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ juhū́bhiḥ ← juhū́- (nominal stem)
 
 uttānā́m ← uttāná- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदीं॑ ग॒णस्य॑ रश॒नामजी॑गः॒ शुचि॑रङ्क्ते॒ शुचि॑भि॒र्गोभि॑र॒ग्निः ।  
+आद्दक्षि॑णा युज्यते वाज॒यन्त्यु॑त्ता॒नामू॒र्ध्वो अ॑धयज्जु॒हूभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “tongue; fire; ladle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

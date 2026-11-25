@@ -4,6 +4,7 @@ devataa = "यमः"
 RShiH = "कुमारो यामायनः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -71,7 +72,12 @@ viśvátas ← viśvátas (invariable)
 
 tiṣṭhasi ← √sthā- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं कु॑मार॒ नवं॒ रथ॑मच॒क्रं मन॒साकृ॑णोः ।  
+एके॑षं वि॒श्वतः॒ प्राञ्च॒मप॑श्य॒न्नधि॑ तिष्ठसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

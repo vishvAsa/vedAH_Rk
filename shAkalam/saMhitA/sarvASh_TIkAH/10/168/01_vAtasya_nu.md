@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "अनिलो वातायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -89,7 +90,12 @@ u ← u (invariable)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वात॑स्य॒ नु म॑हि॒मानं॒ रथ॑स्य रु॒जन्ने॑ति स्त॒नय॑न्नस्य॒ घोषः॑ ।  
+दि॒वि॒स्पृग्या॑त्यरु॒णानि॑ कृ॒ण्वन्नु॒तो ए॑ति पृथि॒व्या रे॒णुमस्य॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “shoot; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

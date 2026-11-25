@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ amitradámbhanaḥ ← amitradámbhana- (nominal stem)
 
 dyumā́n ← dyumánt- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं यः सृञ्ज॑ये पु॒रो दै॑ववा॒ते स॑मि॒ध्यते॑ ।  
+द्यु॒माँ अ॑मित्र॒दम्भ॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +123,6 @@ _________
 - “damaging.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

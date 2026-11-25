@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ babhū́tha ← √bhū- (root)
 
 suhávaḥ ← suháva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स तु श्रु॑धीन्द्र॒ नूत॑नस्य ब्रह्मण्य॒तो वी॑र कारुधायः ।  
+त्वं ह्या॒३॒॑पिः प्र॒दिवि॑ पितॄ॒णां शश्व॑द्ब॒भूथ॑ सु॒हव॒ एष्टौ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - \[noun\], locative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

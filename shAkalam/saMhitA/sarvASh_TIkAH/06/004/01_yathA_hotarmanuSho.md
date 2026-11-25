@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ uśatáḥ ← √vaś- (root)
 
 yakṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॑ होत॒र्मनु॑षो दे॒वता॑ता य॒ज्ञेभिः॑ सूनो सहसो॒ यजा॑सि ।  
+ए॒वा नो॑ अ॒द्य स॑म॒ना स॑मा॒नानु॒शन्न॑ग्न उश॒तो य॑क्षि दे॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

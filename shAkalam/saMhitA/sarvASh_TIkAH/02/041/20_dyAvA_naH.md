@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ हविर्धान�
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ हविर्धानेवा
@@ -60,7 +61,12 @@ yachatām ← √yam- (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यावा॑ नः पृथि॒वी इ॒मं सि॒ध्रम॒द्य दि॑वि॒स्पृश॑म् ।  
+य॒ज्ञं दे॒वेषु॑ यच्छताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

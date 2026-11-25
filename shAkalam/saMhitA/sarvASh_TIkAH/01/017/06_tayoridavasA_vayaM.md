@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -63,7 +64,12 @@ syā́t ← √as- 1 (root)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तयो॒रिदव॑सा व॒यं स॒नेम॒ नि च॑ धीमहि ।  
+स्यादु॒त प्र॒रेच॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - \[noun\], nominative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

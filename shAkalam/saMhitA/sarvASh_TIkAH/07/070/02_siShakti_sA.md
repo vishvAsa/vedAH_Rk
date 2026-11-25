@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ suyújā ← suyúj- (nominal stem)
 
 yujānáḥ ← √yuj- (root)  
 {case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सिष॑क्ति॒ सा वां॑ सुम॒तिश्चनि॒ष्ठाता॑पि घ॒र्मो मनु॑षो दुरो॒णे ।  
+यो वां॑ समु॒द्रान्त्स॒रितः॒ पिप॒र्त्येत॑ग्वा चि॒न्न सु॒युजा॑ युजा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     affect; challenge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

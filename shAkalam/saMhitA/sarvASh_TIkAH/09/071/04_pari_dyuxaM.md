@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ mūrdhán ← mūrdhán- (nominal stem)
 
 várīmabhiḥ ← várīman- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ द्यु॒क्षं सह॑सः पर्वता॒वृधं॒ मध्वः॑ सिञ्चन्ति ह॒र्म्यस्य॑ स॒क्षणि॑म् ।  
+आ यस्मि॒न्गावः॑ सुहु॒ताद॒ ऊध॑नि मू॒र्धञ्छ्री॒णन्त्य॑ग्रि॒यं वरी॑मभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - \[noun\], instrumental, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ naḥ ← ahám (pronoun)
 
 páram ← pára- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एताया॒मोप॑ ग॒व्यन्त॒ इन्द्र॑म॒स्माकं॒ सु प्रम॑तिं वावृधाति ।  
+अ॒ना॒मृ॒णः कु॒विदाद॒स्य रा॒यो गवां॒ केतं॒ पर॑मा॒वर्ज॑ते नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

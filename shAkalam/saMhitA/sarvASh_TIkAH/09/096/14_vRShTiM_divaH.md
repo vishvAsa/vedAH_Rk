@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ sám ← sám (invariable)
 
 usríyābhiḥ ← usríya- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒ष्टिं दि॒वः श॒तधा॑रः पवस्व सहस्र॒सा वा॑ज॒युर्दे॒ववी॑तौ ।  
+सं सिन्धु॑भिः क॒लशे॑ वावशा॒नः समु॒स्रिया॑भिः प्रति॒रन्न॒ आयुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

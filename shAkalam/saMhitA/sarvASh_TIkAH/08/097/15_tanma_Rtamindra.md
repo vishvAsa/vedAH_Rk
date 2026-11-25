@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ spr̥hayā́yyasya ← spr̥hayā́yya- (nominal stem)
 
 viśvápsnyasya ← viśvápsnya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तन्म॑ ऋ॒तमि॑न्द्र शूर चित्र पात्व॒पो न व॑ज्रिन्दुरि॒ताति॑ पर्षि॒ भूरि॑ ।  
+क॒दा न॑ इन्द्र रा॒य आ द॑शस्येर्वि॒श्वप्स्न्य॑स्य स्पृह॒याय्य॑स्य राजन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -254,7 +260,6 @@ _________
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

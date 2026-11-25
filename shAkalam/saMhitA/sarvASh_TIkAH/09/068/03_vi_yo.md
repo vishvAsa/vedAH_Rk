@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वत्सप्रिर्भालन्दनः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ dade ← √dā- 1 (root)
 
 pā́jaḥ ← pā́jas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि यो म॒मे य॒म्या॑ संय॒ती मदः॑ साकं॒वृधा॒ पय॑सा पिन्व॒दक्षि॑ता ।  
+म॒ही अ॑पा॒रे रज॑सी वि॒वेवि॑ददभि॒व्रज॒न्नक्षि॑तं॒ पाज॒ आ द॑दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

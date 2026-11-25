@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -57,7 +58,12 @@ dasmám ← dasmá- (nominal stem)
 
 vásūni ← vásu- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न पू॒षणं॑ मेथामसि सू॒क्तैर॒भि गृ॑णीमसि ।  
+वसू॑नि द॒स्ममी॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

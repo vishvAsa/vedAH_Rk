@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -54,7 +55,12 @@ soma ← sóma- (nominal stem)
 
 sumitráḥ ← sumitrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग॒य॒स्फानो॑ अमीव॒हा व॑सु॒वित्पु॑ष्टि॒वर्ध॑नः ।  
+सु॒मि॒त्रः सो॑म नो भव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -166,7 +171,6 @@ Soma, be a good ally to us.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">
 <details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -174,7 +178,6 @@ The two alliterative root noun compounds vacovíd- (11b) and vasuvíd- (12b) non
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

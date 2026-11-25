@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "बिन्दुः पूतदक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ váhniḥ ← váhni- (nominal stem)
 
 yuktā́ ← √yuj- (root)  
 {case:NOM, gender:F, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गौर्ध॑यति म॒रुतां॑ श्रव॒स्युर्मा॒ता म॒घोना॑म् ।  
+यु॒क्ता वह्नी॒ रथा॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -162,7 +167,6 @@ she is yoked as the draft-horse of their chariots,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -170,7 +174,6 @@ For the somewhat peculiar imagery of these vss., see the published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

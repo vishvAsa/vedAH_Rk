@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ dr̥ḷhā́ ← √dr̥h- (root)
 
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒त्र॒खा॒दो व॑लंरु॒जः पु॒रां द॒र्मो अ॒पाम॒जः ।  
+स्थाता॒ रथ॑स्य॒ हर्यो॑रभिस्व॒र इन्द्रो॑ दृ॒ळ्हा चि॑दारु॒जः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “breaking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

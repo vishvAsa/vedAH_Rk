@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ ná ← ná (invariable)
 
 vásvaḥ ← vásu- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्याव॑धीत्पि॒तरं॒ यस्य॑ मा॒तरं॒ यस्य॑ श॒क्रो भ्रात॑रं॒ नात॑ ईषते ।  
+वेतीद्व॑स्य॒ प्रय॑ता यतङ्क॒रो न किल्बि॑षादीषते॒ वस्व॑ आक॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “mine; group; aṅgārakoṣṭhī; source.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

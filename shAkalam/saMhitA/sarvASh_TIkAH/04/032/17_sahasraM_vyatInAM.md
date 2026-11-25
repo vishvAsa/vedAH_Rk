@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ khāryàḥ ← khārī́- (nominal stem)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्रं॒ व्यती॑नां यु॒क्ताना॒मिन्द्र॑मीमहे ।  
+श॒तं सोम॑स्य खा॒र्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +122,6 @@ _________
 - “khārī; khārī \[word\]; khārī.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

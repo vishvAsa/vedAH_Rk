@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ prá ← prá (invariable)
 
 rā́dhasā ← rā́dhas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एन्दु॒मिन्द्रा॑य सिञ्चत॒ पिबा॑ति सो॒म्यं मधु॑ ।  
+प्र राध॑सा चोदयाते महित्व॒ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “greatness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

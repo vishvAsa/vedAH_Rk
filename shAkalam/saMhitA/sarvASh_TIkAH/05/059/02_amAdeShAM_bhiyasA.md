@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ vidáthe ← vidátha- (nominal stem)
 
 yetire ← √yat- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अमा॑देषां भि॒यसा॒ भूमि॑रेजति॒ नौर्न पू॒र्णा क्ष॑रति॒ व्यथि॑र्य॒ती ।  
+दू॒रे॒दृशो॒ ये चि॒तय॑न्त॒ एम॑भिर॒न्तर्म॒हे वि॒दथे॑ येतिरे॒ नरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

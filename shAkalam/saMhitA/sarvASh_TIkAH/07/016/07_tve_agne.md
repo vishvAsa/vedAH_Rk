@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ gónām ← gáv- ~ gó- (nominal stem)
 
 ūrvā́n ← ūrvá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे अ॑ग्ने स्वाहुत प्रि॒यासः॑ सन्तु सू॒रयः॑ ।  
+य॒न्तारो॒ ये म॒घवा॑नो॒ जना॑नामू॒र्वान्दय॑न्त॒ गोना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

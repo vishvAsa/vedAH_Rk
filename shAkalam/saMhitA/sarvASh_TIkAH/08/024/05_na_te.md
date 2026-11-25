@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ ná ← ná (invariable)
 
 paribā́dhaḥ ← paribā́dh- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न ते॑ स॒व्यं न दक्षि॑णं॒ हस्तं॑ वरन्त आ॒मुरः॑ ।  
+न प॑रि॒बाधो॑ हरिवो॒ गवि॑ष्टिषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “foray.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

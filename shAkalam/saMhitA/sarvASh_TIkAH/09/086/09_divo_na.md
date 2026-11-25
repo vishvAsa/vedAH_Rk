@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ sīdati ← √sad- (root)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो न सानु॑ स्त॒नय॑न्नचिक्रद॒द्द्यौश्च॒ यस्य॑ पृथि॒वी च॒ धर्म॑भिः ।  
+इन्द्र॑स्य स॒ख्यं प॑वते वि॒वेवि॑द॒त्सोमः॑ पुना॒नः क॒लशे॑षु सीदति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -241,10 +246,6 @@ Thundering like the back of heaven he has roared, he according to  whose ordinan
 He purifies himself, always finding the fellowship of Indra. Soma, while  being purified, sits in the tubs.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The rel. cl. of b lacks a verb. I think that whatever is supplied must be able to be construed with dhármabhiḥ “according to (his) ordinances.” My ‘abide’ is a slight elaboration on Geldner’s ‘sind’: “durch dessen Bestimmungen Himmel und Erde sind,” which I think is fundamentally correct. This is another hyperbolic statement of Soma’s cosmic power. Renou’s “lui à qui (appartiennent) le ciel et la terre avec les choses-à-maintenir” separates yásya from dhármabhiḥ and finds little work for the instr. pl. to do. The two instances of dhármabhiḥ (here and 5c) should be more or less in harmony.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -252,7 +253,6 @@ The beginning and end of this tṛca echo the preceding one: ketúḥ in 7a pick
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

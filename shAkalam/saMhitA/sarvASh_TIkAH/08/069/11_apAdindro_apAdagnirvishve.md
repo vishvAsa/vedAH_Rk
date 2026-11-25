@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः;वरुणः"
 RShiH = "प्रियमेध"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः;वरुणः
@@ -88,7 +89,12 @@ saṁśíśvarīḥ ← saṁśíśvan- (nominal stem)
 
 vatsám ← vatsá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपा॒दिन्द्रो॒ अपा॑द॒ग्निर्विश्वे॑ दे॒वा अ॑मत्सत ।  
+वरु॑ण॒ इदि॒ह क्ष॑य॒त्तमापो॑ अ॒भ्य॑नूषत व॒त्सं सं॒शिश्व॑रीरिव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

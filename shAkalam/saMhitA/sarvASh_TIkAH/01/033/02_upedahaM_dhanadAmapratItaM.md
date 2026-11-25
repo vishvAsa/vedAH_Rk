@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ yáḥ ← yá- (pronoun)
 
 yā́man ← yā́man- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपेद॒हं ध॑न॒दामप्र॑तीतं॒ जुष्टां॒ न श्ये॒नो व॑स॒तिं प॑तामि ।  
+इन्द्रं॑ नम॒स्यन्नु॑प॒मेभि॑र॒र्कैर्यः स्तो॒तृभ्यो॒ हव्यो॒ अस्ति॒ याम॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “expedition; path; expedition; arrival.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

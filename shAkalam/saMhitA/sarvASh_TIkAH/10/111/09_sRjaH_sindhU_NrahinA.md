@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्ट्रादंष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ nítiktāḥ ← √tij- (root)
 
 ramante ← √ram- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सृ॒जः सिन्धूँ॒रहि॑ना जग्रसा॒नाँ आदिदे॒ताः प्र वि॑विज्रे ज॒वेन॑ ।  
+मुमु॑क्षमाणा उ॒त या मु॑मु॒च्रेऽधेदे॒ता न र॑मन्ते॒ निति॑क्ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - \[noun\], nominative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

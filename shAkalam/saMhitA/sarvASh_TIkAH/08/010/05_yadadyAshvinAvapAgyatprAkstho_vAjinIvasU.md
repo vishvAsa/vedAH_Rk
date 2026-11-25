@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ mā́ ← mā́ (invariable)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒द्याश्वि॑ना॒वपा॒ग्यत्प्राक्स्थो वा॑जिनीवसू ।  
+यद्द्रु॒ह्यव्यन॑वि तु॒र्वशे॒ यदौ॑ हु॒वे वा॒मथ॒ मा ग॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

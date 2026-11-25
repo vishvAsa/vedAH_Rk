@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "जेता माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ te ← tvám (pronoun)
 
 vidúḥ ← √vid- 2 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तवा॒हं शू॑र रा॒तिभिः॒ प्रत्या॑यं॒ सिन्धु॑मा॒वद॑न् ।  
+उपा॑तिष्ठन्त गिर्वणो वि॒दुष्टे॒ तस्य॑ का॒रवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “poet; singer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

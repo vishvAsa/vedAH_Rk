@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ rátham ← rátha- (nominal stem)
 
 tiṣṭha ← √sthā- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं ते॑ अस्तु हर्य॒तः सोम॒ आ हरि॑भिः सु॒तः ।  
+जु॒षा॒ण इ॑न्द्र॒ हरि॑भिर्न॒ आ ग॒ह्या ति॑ष्ठ॒ हरि॑तं॒ रथ॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

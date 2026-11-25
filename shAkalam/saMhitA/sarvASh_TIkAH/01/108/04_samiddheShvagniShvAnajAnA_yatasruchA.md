@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -77,7 +78,12 @@ saumanasā́ya ← saumanasá- (nominal stem)
 
 yātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धेष्व॒ग्निष्वा॑नजा॒ना य॒तस्रु॑चा ब॒र्हिरु॑ तिस्तिरा॒णा ।  
+ती॒व्रैः सोमैः॒ परि॑षिक्तेभिर॒र्वागेन्द्रा॑ग्नी सौमन॒साय॑ यातम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -228,14 +233,6 @@ with the sharp soma drinks poured about, drive in our direction to
 (display) benevolence, o Indra and Agni.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner (/Witzel Gotō) construes the instr. phrase of pāda c with ānajānā́of pāda a (thus, “being anointed with soma”). Since pāda b intervenes, depicting two further ritual actions, I consider the syntactic connection of a and c unlikely, although I am sympathetic to the desire to find something to construe the instr. tīvraíḥ sómaiḥ páriṣiktebhiḥ with. I take that phrase rather as a loose circumstantial instrumental, almost equivalent to a loc. absolute.
-
-Another reason not to take this instr. with ‘being anointed’ is that soma is an unlikely anointing medium for Agni, since it is more likely to quench the fire than to make it blaze up. An unexpressed ‘ghee’ is the likely medium in a.
-
-This argument leads indirectly to an issue that all comm. (Geldner, Oldenberg, Renou, Witzel Gotō, Kümmel [p. 577]) raise: the actions of the first 3 pādas should be performed for the two gods, not by them. Much energy is expended in these comments in trying to make the gods into recipients, with the unexpressed agents being priests (e.g., Oldenberg’s quotation of Benfey’s tr. of pāda b “für welche der Opferlöffel und das Barhis ausgebreitet ist” [my italics]). This energy seems to me misplaced and the grammatical interpretation over-fussy. One of Agni’s standard roles is that of priest, and the actions ascribed to him (and Indra) here fall squarely within this role. Since Indra is identified with Agni, he is just along for the ride, as it were -- just as Agni was in the preceding vs. as Vṛtra-smasher. Though it may seem a bit strange to have the gods already present on the ritual ground, performing the preliminaries to the sacrifice in abc, but, in pāda d, driving to the sacrifice, this merely switches the viewpoint to Indra’s perspective: he always drives to the sacrifice; Agni is always already there. Since the two gods are identified here, we see the characteristic actions of each separately, but ascribed simultaneously to both.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -243,7 +240,6 @@ As noted in the published introduction, vs. 3 attributes Indra’s characteristi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

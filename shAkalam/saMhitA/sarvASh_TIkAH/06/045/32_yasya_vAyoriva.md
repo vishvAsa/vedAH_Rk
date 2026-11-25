@@ -4,6 +4,7 @@ devataa = "बृबुस्तक्षा"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृबुस्तक्षा
@@ -60,7 +61,12 @@ máṁhate ← √maṁh- (root)
 
 sadyás ← sadyás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ वा॒योरि॑व द्र॒वद्भ॒द्रा रा॒तिः स॑ह॒स्रिणी॑ ।  
+स॒द्यो दा॒नाय॒ मंह॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “give; accord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

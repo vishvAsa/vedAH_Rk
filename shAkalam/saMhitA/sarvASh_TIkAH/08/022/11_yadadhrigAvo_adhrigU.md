@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -63,7 +64,12 @@ vayám ← ahám (pronoun)
 
 vipanyávaḥ ← vipanyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदध्रि॑गावो॒ अध्रि॑गू इ॒दा चि॒दह्नो॑ अ॒श्विना॒ हवा॑महे ।  
+व॒यं गी॒र्भिर्वि॑प॒न्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “admiring; laudatory.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

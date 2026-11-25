@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ vidvā́n ← √vid- 2 (root)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सम॑स्य॒ हरिं॒ हर॑यो मृजन्त्यश्वह॒यैरनि॑शितं॒ नमो॑भिः ।  
+आ ति॑ष्ठति॒ रथ॒मिन्द्र॑स्य॒ सखा॑ वि॒द्वाँ ए॑ना सुम॒तिं या॒त्यच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

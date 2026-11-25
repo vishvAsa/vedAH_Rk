@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ priyám ← priyá- (nominal stem)
 
 śaṁsiṣam ← √śaṁs- (root)  
 {number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञाय॑ज्ञा वो अ॒ग्नये॑ गि॒रागि॑रा च॒ दक्ष॑से ।  
+प्रप्र॑ व॒यम॒मृतं॑ जा॒तवे॑दसं प्रि॒यं मि॒त्रं न शं॑सिषम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

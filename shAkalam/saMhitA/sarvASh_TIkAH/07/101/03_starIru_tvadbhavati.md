@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "वसिष्ठः कुमारो वाग्नेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -95,7 +96,12 @@ téna ← sá- ~ tá- (pronoun)
 
 vardhate ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्त॒रीरु॑ त्व॒द्भव॑ति॒ सूत॑ उ त्वद्यथाव॒शं त॒न्वं॑ चक्र ए॒षः ।  
+पि॒तुः पयः॒ प्रति॑ गृभ्णाति मा॒ता तेन॑ पि॒ता व॑र्धते॒ तेन॑ पु॒त्रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

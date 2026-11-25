@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ tā́n ← sá- ~ tá- (pronoun)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पर॑स्या॒ अधि॑ सं॒वतोऽव॑राँ अ॒भ्या त॑र ।  
+यत्रा॒हमस्मि॒ ताँ अ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

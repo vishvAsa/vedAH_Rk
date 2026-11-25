@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पुन॒र्ये च॒क्रुः पि॒तरा॒ युवा॑ना॒ सना॒ यूपे॑व जर॒णा शया॑ना ।  
+ते वाजो॒ विभ्वाँ॑ ऋ॒भुरिन्द्र॑वन्तो॒ मधु॑प्सरसो नोऽवन्तु य॒ज्ञम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

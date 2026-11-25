@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ síṣāsan ← √sanⁱ- (root)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॒ रथा॑य प्र॒वतं॑ कृणोति॒ यम॒ध्यस्था॑न्म॒घवा॑ वाज॒यन्त॑म् ।  
+यू॒थेव॑ प॒श्वो व्यु॑नोति गो॒पा अरि॑ष्टो याति प्रथ॒मः सिषा॑सन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “win; gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

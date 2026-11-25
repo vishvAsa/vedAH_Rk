@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ asmábhyam ← ahám (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आस्मि॑न्पि॒शङ्ग॑मिन्दवो॒ दधा॑ता वे॒नमा॒दिशे॑ ।  
+यो अ॒स्मभ्य॒मरा॑वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “begrudging; hostile; stingy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

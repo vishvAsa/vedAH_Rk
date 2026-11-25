@@ -4,6 +4,7 @@ devataa = "विश्वकर्मा"
 RShiH = "विश्वकर्मा भौवनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -89,7 +90,12 @@ samákr̥ṇvan ← √kr̥- (root)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त आय॑जन्त॒ द्रवि॑णं॒ सम॑स्मा॒ ऋष॑यः॒ पूर्वे॑ जरि॒तारो॒ न भू॒ना ।  
+अ॒सूर्ते॒ सूर्ते॒ रज॑सि निष॒त्ते ये भू॒तानि॑ स॒मकृ॑ण्वन्नि॒मानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

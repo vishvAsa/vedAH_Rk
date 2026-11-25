@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -65,7 +66,12 @@ díviṣṭiṣu ← díviṣṭi- (nominal stem)
 
 víprāḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि त्वा॒ होता॑रमृ॒त्विजं॑ दधि॒रे व॑सु॒वित्त॑मम् ।  
+श्रुत्क॑र्णं स॒प्रथ॑स्तमं॒ विप्रा॑ अग्ने॒ दिवि॑ष्टिषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - \[noun\], locative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

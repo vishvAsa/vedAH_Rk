@@ -4,6 +4,7 @@ devataa = "दुःस्वप्नघ्नं"
 RShiH = "प्रचेताः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दुःस्वप्नघ्नं
@@ -94,7 +95,12 @@ tám ← sá- ~ tá- (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अजै॑ष्मा॒द्यास॑नाम॒ चाभू॒माना॑गसो व॒यम् ।  
+जा॒ग्र॒त्स्व॒प्नः सं॑क॒ल्पः पा॒पो यं द्वि॒ष्मस्तं स ऋ॑च्छतु॒ यो नो॒ द्वेष्टि॒ तमृ॑च्छतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
     begin; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

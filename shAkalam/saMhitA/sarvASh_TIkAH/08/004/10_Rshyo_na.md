@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ dadhiṣe ← √dhā- 1 (root)
 
 sáhaḥ ← sáhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋश्यो॒ न तृष्य॑न्नव॒पान॒मा ग॑हि॒ पिबा॒ सोमं॒ वशाँ॒ अनु॑ ।  
+नि॒मेघ॑मानो मघवन्दि॒वेदि॑व॒ ओजि॑ष्ठं दधिषे॒ सहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “force; strength; might; sahas \[word\]; conquest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

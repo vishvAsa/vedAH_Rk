@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -78,7 +79,12 @@ juṣasva ← √juṣ- (root)
 
 sadhamā́de ← sadhamā́da- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बोधा॒ सु मे॑ मघव॒न्वाच॒मेमां यां ते॒ वसि॑ष्ठो॒ अर्च॑ति॒ प्रश॑स्तिम् ।  
+इ॒मा ब्रह्म॑ सध॒मादे॑ जुषस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

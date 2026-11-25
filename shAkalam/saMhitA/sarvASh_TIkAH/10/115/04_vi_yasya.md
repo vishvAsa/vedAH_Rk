@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उपस्तुतो वार्ष्टिहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ prá ← prá (invariable)
 
 tritám ← tritá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि यस्य॑ ते ज्रयसा॒नस्या॑जर॒ धक्षो॒र्न वाताः॒ परि॒ सन्त्यच्यु॑ताः ।  
+आ र॒ण्वासो॒ युयु॑धयो॒ न स॑त्व॒नं त्रि॒तं न॑शन्त॒ प्र शि॒षन्त॑ इ॒ष्टये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “seeking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

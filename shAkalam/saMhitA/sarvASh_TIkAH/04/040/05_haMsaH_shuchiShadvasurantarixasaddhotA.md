@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -83,7 +84,12 @@ r̥tajā́ḥ ← r̥tajā́- (nominal stem)
 
 r̥tám ← r̥tá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हं॒सः शु॑चि॒षद्वसु॑रन्तरिक्ष॒सद्धोता॑ वेदि॒षदति॑थिर्दुरोण॒सत् ।  
+नृ॒षद्व॑र॒सदृ॑त॒सद्व्यो॑म॒सद॒ब्जा गो॒जा ऋ॑त॒जा अ॑द्रि॒जा ऋ॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -262,7 +268,6 @@ _________
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

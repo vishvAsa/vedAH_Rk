@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ páyobhiḥ ← páyas- (nominal stem)
 
 svádanti ← √svad- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒भ्रमन्धो॑ दे॒ववा॑तम॒प्सु धू॒तो नृभिः॑ सु॒तः ।  
+स्वद॑न्ति॒ गावः॒ पयो॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -165,10 +170,6 @@ The beautiful stalk coveted by the gods—(the soma) rinsed in the  waters, pres
 do the cows sweeten with their milk.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The fluent Engl. of the tr. conceals a syntactic problem: soma should be the obj. of the verb svádanti in c, and the first pāda, which is entirely in the neuter, with the NP led by ándhas-, allows such an acc. interpr. However, the intermediate pāda (b) is stubbornly in the masc. nominative (dhūtáḥ … sutáḥ). We must either take b as a parenthetical nominal clause, as Geldner and I do, or take ab as entirely in the nominative (as Renou may do - his structure is not entirely clear) as a separate nominal clause, and supply a resumptive pronominal acc. for c.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -176,7 +177,6 @@ Again no obvious signs of unity, beyond the progress through the preparation of 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

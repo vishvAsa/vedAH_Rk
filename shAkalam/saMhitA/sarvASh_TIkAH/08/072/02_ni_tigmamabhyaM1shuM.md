@@ -4,6 +4,7 @@ devataa = "अग्निर्हवींषि वा"
 RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्हवींषि वा
@@ -63,7 +64,12 @@ juṣāṇáḥ ← √juṣ- (root)
 
 sakhyám ← sakhyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि ति॒ग्मम॒भ्यं१॒॑शुं सीद॒द्धोता॑ म॒नावधि॑ ।  
+जु॒षा॒णो अ॑स्य स॒ख्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “friendship; aid; company.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

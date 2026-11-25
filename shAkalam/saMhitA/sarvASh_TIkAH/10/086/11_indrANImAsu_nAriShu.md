@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -82,7 +83,12 @@ pátiḥ ← páti- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒न्द्रा॒णीमा॒सु नारि॑षु सु॒भगा॑म॒हम॑श्रवम् ।  
+न॒ह्य॑स्या अप॒रं च॒न ज॒रसा॒ मर॑ते॒ पति॒र्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -210,7 +215,7 @@ _________
 
 <details><summary>Tilak - Commentary</summary>
 
-Pischel and Geldner suppose that the first is addressed by Vr̥ṣākapi to Indrāṇī, and the second by Vr̥ṣakapayī. Sāyaṇa understands them to be addressed by Indra. Whichsoever construction we adopt, the meaning remains the same. Indrāṇī is here told that she is highly respected everywhere; she is the blessed of all women, and that her husband never suffers from old age. This is obviously intended to pacify her. 
+Pischel and Geldner suppose that the first is addressed by Vr̥ṣākapi to Indrāṇī, and the second by Vr̥ṣakapayī. Sāyaṇa understands them to be addressed by Indra. Whichsoever construction we adopt, the meaning remains the same. Indrāṇī is here told that she is highly respected everywhere; she is the blessed of all women, and that her husband never suffers from old age. This is obviously intended to pacify her.
 </details>
 
 <details><summary>Wilson</summary>

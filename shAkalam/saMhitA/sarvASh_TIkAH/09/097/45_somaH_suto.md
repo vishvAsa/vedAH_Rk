@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -101,7 +102,12 @@ sám ← sám (invariable)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमः॑ सु॒तो धार॒यात्यो॒ न हित्वा॒ सिन्धु॒र्न नि॒म्नम॒भि वा॒ज्य॑क्षाः ।  
+आ योनिं॒ वन्य॑मसदत्पुना॒नः समिन्दु॒र्गोभि॑रसर॒त्सम॒द्भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +263,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -285,7 +290,6 @@ He has sat in the wooden womb while being purified. The drop has  flowed togethe
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">
 <details><summary><h2>43-45 ...{Loading}...</h2></summary>
 
@@ -293,7 +297,6 @@ The tṛca has a superficial unity from the (over-)abundance of forms of √pū,
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

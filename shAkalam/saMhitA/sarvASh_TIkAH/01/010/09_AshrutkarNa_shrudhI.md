@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ kr̥ṣvá ← √kr̥- (root)
 
 yujáḥ ← yúj- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आश्रु॑त्कर्ण श्रु॒धी हवं॒ नू चि॑द्दधिष्व मे॒ गिरः॑ ।  
+इन्द्र॒ स्तोम॑मि॒मं मम॑ कृ॒ष्वा यु॒जश्चि॒दन्त॑रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     following.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

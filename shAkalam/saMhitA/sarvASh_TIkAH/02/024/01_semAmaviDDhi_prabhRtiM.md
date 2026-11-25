@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -101,7 +102,12 @@ sī́ṣadhaḥ ← √sādh- ~ sidh- (root)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सेमाम॑विड्ढि॒ प्रभृ॑तिं॒ य ईशि॑षे॒ऽया वि॑धेम॒ नव॑या म॒हा गि॒रा ।  
+यथा॑ नो मी॒ढ्वान्त्स्तव॑ते॒ सखा॒ तव॒ बृह॑स्पते॒ सीष॑धः॒ सोत नो॑ म॒तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +262,6 @@ _________
     desire; wish; conviction; plan; devotion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

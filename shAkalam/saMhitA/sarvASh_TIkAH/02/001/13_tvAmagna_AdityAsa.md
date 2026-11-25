@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ havíḥ ← havís- (nominal stem)
 
 tvé ← tvám (pronoun)  
 {case:LOC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्न आदि॒त्यास॑ आ॒स्यं१॒॑ त्वां जि॒ह्वां शुच॑यश्चक्रिरे कवे ।  
+त्वां रा॑ति॒षाचो॑ अध्व॒रेषु॑ सश्चिरे॒ त्वे दे॒वा ह॒विर॑द॒न्त्याहु॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “sacrifice; sprinkle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

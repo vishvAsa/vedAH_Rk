@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ rajastū́ḥ ← rajastúr- (nominal stem)
 
 viśvácarṣaṇiḥ ← viśvácarṣaṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां हि ष्मा॑ चर्ष॒णयो॑ य॒ज्ञेभि॑र्गी॒र्भिरीळ॑ते ।  
+त्वां वा॒जी या॑त्यवृ॒को र॑ज॒स्तूर्वि॒श्वच॑र्षणिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

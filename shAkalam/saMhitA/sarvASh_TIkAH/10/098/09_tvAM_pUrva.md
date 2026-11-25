@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "देवापिरार्ष्टिषेणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -86,7 +87,12 @@ yāhi ← √yā- 1 (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां पूर्व॒ ऋष॑यो गी॒र्भिरा॑य॒न्त्वाम॑ध्व॒रेषु॑ पुरुहूत॒ विश्वे॑ ।  
+स॒हस्रा॒ण्यधि॑रथान्य॒स्मे आ नो॑ य॒ज्ञं रो॑हिद॒श्वोप॑ याहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

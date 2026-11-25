@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -113,7 +114,13 @@ ayaṁsata ← √yam- (root)
 
 vā́yo ← vāyú- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ नि॒युद्भिः॑ श॒तिनी॑भिरध्व॒रं स॑ह॒स्रिणी॑भि॒रुप॑ याहि वी॒तये॒ वायो॑ ह॒व्यानि॑ वी॒तये॑ ।  
+तवा॒यं भा॒ग ऋ॒त्वियः॒ सर॑श्मिः॒ सूर्ये॒ सचा॑ ।  
+अ॒ध्व॒र्युभि॒र्भर॑माणा अयंसत॒ वायो॑ शु॒क्रा अ॑यंसत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -285,7 +292,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -314,12 +320,6 @@ Yours is this portion at its proper time, accompanying the reins [=rays]  when t
 Being carried, they have been guided by the Adhvaryus—o Vāyu, the  gleaming (soma drinks) have been guided.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As indicated in the published introduction, this hymn is divided into tṛcas and each tṛca was probably originally a single hymn. This then is the final verse of 1-3, and it exhibits very heavy ring-composition: 3b … úpa yāhi vītáye reprises 1a úpa no yāhi vītáye almost exactly, and 3ab … niyúdbhiḥ śatínibhiḥ … sahasrínibhiḥ … echoes 1bc sahásreṇa niyútā … śatínībhiḥ. Note also 3d távāyám bhāgáḥ …, which is identical to the beginning of 2d.
-
-As discussed ad I.134.3, the expression here, sáraśmiḥ sū́rye sácā “accompanying the reins [=rays] when the sun (rises)” seems to me a fuller version of the temporal expression raśmíṣu (/raśmíbhiḥ) “at/with the reins=rays.” See also I.137.2e sākáṃ sū́ryasya raśmíbhiḥ “simultaneous with the reins=rays of the sun.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -327,7 +327,6 @@ The fronted forms of tvám (etc.) found in I.134.4-6 continue here, though not a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

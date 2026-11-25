@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ prá ← prá (invariable)
 
 vartaním ← vartaní- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यमु॑ ते॒ अनु॑ष्टुतिश्चकृ॒षे तानि॒ पौंस्या॑ ।  
+प्राव॑श्च॒क्रस्य॑ वर्त॒निम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “path; East; way.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

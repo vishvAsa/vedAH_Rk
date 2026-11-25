@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ sárgaḥ ← sárga- (nominal stem)
 
 takti ← √tak- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॑ सो॒तार॑ ओ॒ण्यो॒३॒॑ रसं॒ मदा॑य॒ घृष्व॑ये ।  
+सर्गो॒ न त॒क्त्येत॑शः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “Etaśa; horse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

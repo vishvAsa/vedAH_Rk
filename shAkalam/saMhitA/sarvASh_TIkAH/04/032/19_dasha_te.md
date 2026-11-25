@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ bhūridā́ḥ ← bhūridā́- (nominal stem)
 
 vr̥trahan ← vr̥trahán- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दश॑ ते क॒लशा॑नां॒ हिर॑ण्यानामधीमहि ।  
+भू॒रि॒दा अ॑सि वृत्रहन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “Indra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

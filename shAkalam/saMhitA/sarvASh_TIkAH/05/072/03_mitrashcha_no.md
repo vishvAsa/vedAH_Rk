@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "बाहुवृक्त आत्रेयः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -66,7 +67,12 @@ sadatām ← √sad- (root)
 
 sómapītaye ← sómapīti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रश्च॑ नो॒ वरु॑णश्च जु॒षेतां॑ य॒ज्ञमि॒ष्टये॑ ।  
+नि ब॒र्हिषि॑ सदतां॒ सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

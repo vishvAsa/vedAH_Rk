@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ sacābhúvā ← sacābhū́- (nominal stem)
 
 sédhatam ← √sidh- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ न॒ ऊर्जं॑ वहतमश्विना यु॒वं मधु॑मत्या नः॒ कश॑या मिमिक्षतम् ।  
+प्रायु॒स्तारि॑ष्टं॒ नी रपां॑सि मृक्षतं॒ सेध॑तं॒ द्वेषो॒ भव॑तं सचा॒भुवा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “ally.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

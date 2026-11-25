@@ -4,6 +4,7 @@ devataa = "इध्मः समिद्धोग्निर्वा"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इध्मः समिद्धोग्निर्वा
@@ -51,7 +52,12 @@ agnáye ← agní- (nominal stem)
 
 jātávedase ← jātávedas- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सुस॑मिद्धाय शो॒चिषे॑ घृ॒तं ती॒व्रं जु॑होतन ।  
+अ॒ग्नये॑ जा॒तवे॑दसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +117,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

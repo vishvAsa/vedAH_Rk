@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ mádhūnām ← mádhu- (nominal stem)
 
 sadhamā́de ← sadhamā́da- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ य॒ज्ञं न॑मो॒वृधं॑ स॒जोषा॒ इन्द्र॑ देव॒ हरि॑भिर्याहि॒ तूय॑म् ।  
+अ॒हं हि त्वा॑ म॒तिभि॒र्जोह॑वीमि घृ॒तप्र॑याः सध॒मादे॒ मधू॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

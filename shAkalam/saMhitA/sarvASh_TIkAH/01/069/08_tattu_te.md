@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -64,7 +65,11 @@ yát ← yá- (pronoun)
 
 yuktáḥ ← √yuj- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्तु ते॒ दंसो॒ यदह॑न्त्समा॒नैर्नृभि॒र्यद्यु॒क्तो वि॒वे रपां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +156,6 @@ _________
 - “injury; disease; infirmity; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

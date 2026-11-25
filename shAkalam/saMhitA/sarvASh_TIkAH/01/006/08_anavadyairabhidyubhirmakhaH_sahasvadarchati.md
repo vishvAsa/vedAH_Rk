@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -54,7 +55,12 @@ gaṇaíḥ ← gaṇá- (nominal stem)
 
 kā́myaiḥ ← kā́mya- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न॒व॒द्यैर॒भिद्यु॑भिर्म॒खः सह॑स्वदर्चति ।  
+ग॒णैरिन्द्र॑स्य॒ काम्यैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “desirable; optional; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

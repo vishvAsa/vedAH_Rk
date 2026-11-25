@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ vā ← vā (invariable)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य आ॑र्जी॒केषु॒ कृत्व॑सु॒ ये मध्ये॑ प॒स्त्या॑नाम् ।  
+ये वा॒ जने॑षु प॒ञ्चसु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “five; fifth; pañcan \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,10 +169,6 @@ Those (pressed) in foamy (places) among performers (of rituals), those  in the m
 or those among the five peoples,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner and Renou (see also Mayr. PN s.vv.) take ārjīkéṣu and kṛ́tvasu as referring to peoples. On ārjīká- see comm. ad VIII.7.29 and Thieme, Unters. p. 40 n. 2. As for kṛ́tvan-, since in its other two occurrences in the RV (VIII.24.25, X.144.3) it is adjectival, in the meaning ‘active, enterprising’, I see no reason why it should be a proper noun only here. I was tempted to tr. it “ritually active,” but this came uncomfortably close to “sexually active.” As for pastyā̀- as ‘dwelling place’, rather than ‘river’ (Geldner, Renou, etc.), see comm. ad I.40.7 and IX.97.18.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -175,7 +176,6 @@ As noted in the published introduction, this tṛca is thematically unified by a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

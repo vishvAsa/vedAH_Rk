@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "देवश्रवा देववातश्च भारतौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ revát ← revánt- (nominal stem)
 
 sárasvatyām ← sárasvant- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि त्वा॑ दधे॒ वर॒ आ पृ॑थि॒व्या इळा॑यास्प॒दे सु॑दिन॒त्वे अह्ना॑म् ।  
+दृ॒षद्व॑त्यां॒ मानु॑ष आप॒यायां॒ सर॑स्वत्यां रे॒वद॑ग्ने दिदीहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “shine; glitter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

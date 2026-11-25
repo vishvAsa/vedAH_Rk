@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 praśáṁsyam ← praśáṁsya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं दे॒वा बु॒ध्ने रज॑सः सु॒दंस॑सं दि॒वस्पृ॑थि॒व्योर॑र॒तिं न्ये॑रिरे ।  
+रथ॑मिव॒ वेद्यं॑ शु॒क्रशो॑चिषम॒ग्निं मि॒त्रं न क्षि॒तिषु॑ प्र॒शंस्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “recommend; approve; praise; laud; favor; proclaim.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -98,7 +99,12 @@ rupáḥ ← rúp- (nominal stem)
 
 véḥ ← ví- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒वाच्यं॒ वच॑सः॒ किं मे॑ अ॒स्य गुहा॑ हि॒तमुप॑ नि॒णिग्व॑दन्ति ।  
+यदु॒स्रिया॑णा॒मप॒ वारि॑व॒ व्रन्पाति॑ प्रि॒यं रु॒पो अग्रं॑ प॒दं वेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “vi; bird; vi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

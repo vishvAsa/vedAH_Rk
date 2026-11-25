@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उत्कीलः कात्यः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ nr̥ṇā́m ← nár- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चक्रि॒र्यो विश्वा॒ भुव॑ना॒भि सा॑स॒हिश्चक्रि॑र्दे॒वेष्वा दुवः॑ ।  
+आ दे॒वेषु॒ यत॑त॒ आ सु॒वीर्य॒ आ शंस॑ उ॒त नृ॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

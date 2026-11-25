@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ takṣata ← √takṣ- (root)
 
 váyaḥ ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यम॒स्मभ्यं॑ धि॒षणा॑भ्य॒स्परि॑ वि॒द्वांसो॒ विश्वा॒ नर्या॑णि॒ भोज॑ना ।  
+द्यु॒मन्तं॒ वाजं॒ वृष॑शुष्ममुत्त॒ममा नो॑ र॒यिमृ॑भवस्तक्ष॒ता वयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     food.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

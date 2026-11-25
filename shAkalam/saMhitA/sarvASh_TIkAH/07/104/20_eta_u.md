@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sr̥jat ← √sr̥j- (root)
 
 yātumádbhyaḥ ← yātumánt- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒त उ॒ त्ये प॑तयन्ति॒ श्वया॑तव॒ इन्द्रं॑ दिप्सन्ति दि॒प्सवोऽदा॑भ्यम् ।  
+शिशी॑ते श॒क्रः पिशु॑नेभ्यो व॒धं नू॒नं सृ॑जद॒शनिं॑ यातु॒मद्भ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “charming.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

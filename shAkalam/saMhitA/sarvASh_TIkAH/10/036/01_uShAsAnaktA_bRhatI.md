@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "लुशो धानाकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)
 
 svàr ← svàr- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒षासा॒नक्ता॑ बृह॒ती सु॒पेश॑सा॒ द्यावा॒क्षामा॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+इन्द्रं॑ हुवे म॒रुतः॒ पर्व॑ताँ अ॒प आ॑दि॒त्यान्द्यावा॑पृथि॒वी अ॒पः स्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “sun; sky; sunlight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

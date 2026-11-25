@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ práyasvantaḥ ← práyasvant- (nominal stem)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तृ॒तीये॑ धा॒नाः सव॑ने पुरुष्टुत पुरो॒ळाश॒माहु॑तं मामहस्व नः ।  
+ऋ॒भु॒मन्तं॒ वाज॑वन्तं त्वा कवे॒ प्रय॑स्वन्त॒ उप॑ शिक्षेम धी॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “thinking; prayer; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -215,14 +220,12 @@ prizes.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
 See the published introduction. for the thematic and lexical connections between these two vss., despite their belonging to different sections of the hymn. See there also for the connection of vs. 7 with III.31, via the identification of the current poet with the Aṅgirases, ur-sacrificers and givers of dakṣiṇās (on which see Geldner’s n. 7a).
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

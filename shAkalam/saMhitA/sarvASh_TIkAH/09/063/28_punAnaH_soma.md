@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ rákṣāṁsi ← rákṣas- (nominal stem)
 
 sukrato ← sukrátu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒ना॒नः सो॑म॒ धार॒येन्दो॒ विश्वा॒ अप॒ स्रिधः॑ ।  
+ज॒हि रक्षां॑सि सुक्रतो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,7 +173,6 @@ Becoming purified in a stream, o Soma drop, smash away all errors, away the demo
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -176,7 +180,6 @@ The páva- sequence found in the last two tṛcas is brought to an end with the 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

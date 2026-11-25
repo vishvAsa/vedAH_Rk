@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ pátim ← páti- (nominal stem)
 
 yúvānam ← yúvan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒शामा॒सामभ॑यानामधि॒क्षितं॑ गी॒र्भिरु॒ स्वय॑शसं गृणीमसि ।  
+ग्नाभि॒र्विश्वा॑भि॒रदि॑तिमन॒र्वण॑म॒क्तोर्युवा॑नं नृ॒मणा॒ अधा॒ पति॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

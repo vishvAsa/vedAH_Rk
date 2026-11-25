@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॑ समु॒द्रमिन्द॒वोऽस्तं॒ गावो॒ न धे॒नवः॑ ।  
+अग्म॑न्नृ॒तस्य॒ योनि॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,7 +183,6 @@ Toward the sea have the drops gone, like milk-cows toward home, to the womb of t
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -186,7 +190,6 @@ This tṛca is thematically unified by the journey theme, reinforced by two form
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ tát ← sá- ~ tá- (pronoun)
 
 turā́ṇām ← turá- 1 (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ताँ आ रु॒द्रस्य॑ मी॒ळ्हुषो॑ विवासे कु॒विन्नंस॑न्ते म॒रुतः॒ पुन॑र्नः ।  
+यत्स॒स्वर्ता॑ जिहीळि॒रे यदा॒विरव॒ तदेन॑ ईमहे तु॒राणा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “powerful; noble; noble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ rucā́ ← rúc- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ सु॒तेष्वा॒भुवो॑ हिन्वि॒रे दे॒वता॑तये ।  
+स प॑वस्वा॒नया॑ रु॒चा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “beam; radiance; color.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -161,10 +166,6 @@ Those present at the pressings have impelled you for the sake of the  divine con
 Purify yourself with this light.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The pāda-final dat. devátātaye echoes devávītaye in 18c.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -172,7 +173,6 @@ All three vss. in this tṛca contain a middle form of √hi ‘impel’ (25c hi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

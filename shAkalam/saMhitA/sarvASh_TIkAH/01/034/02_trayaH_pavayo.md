@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ u ← u (invariable)
 
 yātháḥ ← √yā- 1 (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रयः॑ प॒वयो॑ मधु॒वाह॑ने॒ रथे॒ सोम॑स्य वे॒नामनु॒ विश्व॒ इद्वि॑दुः ।  
+त्रयः॑ स्क॒म्भासः॑ स्कभि॒तास॑ आ॒रभे॒ त्रिर्नक्तं॑ या॒थस्त्रिर्व॑श्विना॒ दिवा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

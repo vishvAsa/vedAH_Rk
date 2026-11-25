@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ katamáḥ ← katamá- (pronoun)
 
 vavartati ← √vr̥t- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था दे॒वानां॑ कत॒मस्य॒ याम॑नि सु॒मन्तु॒ नाम॑ शृण्व॒तां म॑नामहे ।  
+को मृ॑ळाति कत॒मो नो॒ मय॑स्करत्कत॒म ऊ॒ती अ॒भ्या व॑वर्तति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

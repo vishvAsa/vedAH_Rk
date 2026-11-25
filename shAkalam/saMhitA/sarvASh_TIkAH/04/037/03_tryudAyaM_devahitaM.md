@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -83,7 +84,12 @@ sómam ← sóma- (nominal stem)
 
 yuṣmé ← tvám (pronoun)  
 {case:LOC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्र्यु॒दा॒यं दे॒वहि॑तं॒ यथा॑ वः॒ स्तोमो॑ वाजा ऋभुक्षणो द॒दे वः॑ ।  
+जु॒ह्वे म॑नु॒ष्वदुप॑रासु वि॒क्षु यु॒ष्मे सचा॑ बृ॒हद्दि॑वेषु॒ सोम॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

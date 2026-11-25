@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ tiṣṭhantu ← √sthā- (root)
 
 vraté ← vratá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒शा॒न इ॒मा भुव॑नानि॒ वीय॑से युजा॒न इ॑न्दो ह॒रितः॑ सुप॒र्ण्यः॑ ।  
+तास्ते॑ क्षरन्तु॒ मधु॑मद्घृ॒तं पय॒स्तव॑ व्र॒ते सो॑म तिष्ठन्तु कृ॒ष्टयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “people; citizenry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -253,7 +258,6 @@ Let them stream honeyed ghee and milk for you. O Soma, let the  separate peoples
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">
 <details><summary><h2>37-39 ...{Loading}...</h2></summary>
 
@@ -263,7 +267,6 @@ Note in 38 first the enclitic naḥ and then the 1st pl. opt. syāma. The poet b
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

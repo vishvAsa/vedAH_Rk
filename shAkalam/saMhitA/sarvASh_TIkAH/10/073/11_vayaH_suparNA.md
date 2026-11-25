@@ -4,6 +4,7 @@ devataa = "इन्द्रः (मरुतः)"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (मरुतः)
@@ -86,7 +87,12 @@ mumugdhí ← √muc- (root)
 
 nidháyā ← nidhā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वयः॑ सुप॒र्णा उप॑ सेदु॒रिन्द्रं॑ प्रि॒यमे॑धा॒ ऋष॑यो॒ नाध॑मानाः ।  
+अप॑ ध्वा॒न्तमू॑र्णु॒हि पू॒र्धि चक्षु॑र्मुमु॒ग्ध्य१॒॑स्मान्नि॒धये॑व ब॒द्धान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     into; fasten.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

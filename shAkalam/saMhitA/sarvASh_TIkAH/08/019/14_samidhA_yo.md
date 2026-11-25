@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ tāriṣat ← √tr̥̄- 1 (root)
 
 udnáḥ ← udán- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मिधा॒ यो निशि॑ती॒ दाश॒ददि॑तिं॒ धाम॑भिरस्य॒ मर्त्यः॑ ।  
+विश्वेत्स धी॒भिः सु॒भगो॒ जनाँ॒ अति॑ द्यु॒म्नैरु॒द्न इ॑व तारिषत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

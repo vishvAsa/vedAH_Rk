@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ kaláśān ← kaláśa- (nominal stem)
 
 sutā́saḥ ← √su- (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते सोमा॒ अति॒ वारा॒ण्यव्या॑ दि॒व्या न कोशा॑सो अ॒भ्रव॑र्षाः ।  
+वृथा॑ समु॒द्रं सिन्ध॑वो॒ न नीचीः॑ सु॒तासो॑ अ॒भि क॒लशाँ॑ असृग्रन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     use; be born; make.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

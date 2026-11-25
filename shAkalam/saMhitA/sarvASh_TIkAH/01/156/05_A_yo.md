@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -86,7 +87,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yájamānam ← √yaj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यो वि॒वाय॑ स॒चथा॑य॒ दैव्य॒ इन्द्रा॑य॒ विष्णुः॑ सु॒कृते॑ सु॒कृत्त॑रः ।  
+वे॒धा अ॑जिन्वत्त्रिषध॒स्थ आर्य॑मृ॒तस्य॑ भा॒गे यज॑मान॒माभ॑जत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “partake; share.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

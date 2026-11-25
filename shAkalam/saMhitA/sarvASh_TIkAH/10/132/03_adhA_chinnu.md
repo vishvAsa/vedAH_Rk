@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "शकपूतो नार्मेधः"
 ChandaH = "विराड्रूपा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -95,7 +96,12 @@ sám ← sám (invariable)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑ चि॒न्नु यद्दिधि॑षामहे वाम॒भि प्रि॒यं रेक्णः॒ पत्य॑मानाः ।  
+द॒द्वाँ वा॒ यत्पुष्य॑ति॒ रेक्णः॒ सम्वा॑र॒न्नकि॑रस्य म॒घानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “gift; wealth; reward; wages; reward.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

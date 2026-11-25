@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ paḍbhíḥ ← pád- (nominal stem)
 
 paśyeḥ ← √paś- (root)  
 {number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒विं श॑शासुः क॒वयोऽद॑ब्धा निधा॒रय॑न्तो॒ दुर्या॑स्वा॒योः ।  
+अत॒स्त्वं दृश्याँ॑ अग्न ए॒तान्प॒ड्भिः प॑श्ये॒रद्भु॑ताँ अ॒र्य एवैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “eva \[word\]; habit; manner; behavior; custom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

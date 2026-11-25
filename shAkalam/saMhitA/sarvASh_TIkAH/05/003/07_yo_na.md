@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ naḥ ← ahám (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो न॒ आगो॑ अ॒भ्येनो॒ भरा॒त्यधीद॒घम॒घशं॑से दधात ।  
+ज॒ही चि॑कित्वो अ॒भिश॑स्तिमे॒तामग्ने॒ यो नो॑ म॒र्चय॑ति द्व॒येन॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “two; pair; couple; falsification; Saṃsarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

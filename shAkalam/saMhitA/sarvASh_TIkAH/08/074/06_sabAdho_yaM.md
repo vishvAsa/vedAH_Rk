@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ júhvānāsaḥ ← √hu- (root)
 
 yatásrucaḥ ← yatásruc- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒बाधो॒ यं जना॑ इ॒मे॒३॒॑ऽग्निं ह॒व्येभि॒रीळ॑ते ।  
+जुह्वा॑नासो य॒तस्रु॑चः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “Sruc.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

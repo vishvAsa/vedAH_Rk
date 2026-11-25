@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ ná ← ná (invariable)
 
 yuvatáyaḥ ← yuvatí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विष्णुं॒ स्तोमा॑सः पुरुद॒स्मम॒र्का भग॑स्येव का॒रिणो॒ याम॑नि ग्मन् ।  
+उ॒रु॒क्र॒मः क॑कु॒हो यस्य॑ पू॒र्वीर्न म॑र्धन्ति युव॒तयो॒ जनि॑त्रीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “mother.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

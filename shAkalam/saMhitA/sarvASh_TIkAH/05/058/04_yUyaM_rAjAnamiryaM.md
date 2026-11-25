@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ suvī́raḥ ← suvī́ra- (nominal stem)
 
 yuṣmát ← tvám (pronoun)  
 {case:ABL, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यं राजा॑न॒मिर्यं॒ जना॑य विभ्वत॒ष्टं ज॑नयथा यजत्राः ।  
+यु॒ष्मदे॑ति मुष्टि॒हा बा॒हुजू॑तो यु॒ष्मत्सद॑श्वो मरुतः सु॒वीरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

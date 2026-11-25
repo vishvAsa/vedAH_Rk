@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -66,7 +67,12 @@ iyānáḥ ← √yā- 2 (root)
 
 sūryāvasū ← sūryāvasu- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वां॒ रथो॒ मनो॑जवा इयर्ति ति॒रो रजां॑स्यश्विना श॒तोतिः॑ ।  
+अ॒स्मभ्यं॑ सूर्यावसू इया॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

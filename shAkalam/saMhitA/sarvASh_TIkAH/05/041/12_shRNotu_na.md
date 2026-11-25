@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ pári ← pári (invariable)
 
 srúcaḥ ← srúc- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शृ॒णोतु॑ न ऊ॒र्जां पति॒र्गिरः॒ स नभ॒स्तरी॑याँ इषि॒रः परि॑ज्मा ।  
+शृ॒ण्वन्त्वापः॒ पुरो॒ न शु॒भ्राः परि॒ स्रुचो॑ बबृहा॒णस्याद्रेः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

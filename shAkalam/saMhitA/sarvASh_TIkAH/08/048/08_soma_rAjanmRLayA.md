@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -95,7 +96,12 @@ naḥ ← ahám (pronoun)
 
 párā ← párā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोम॑ राजन्मृ॒ळया॑ नः स्व॒स्ति तव॑ स्मसि व्र॒त्या॒३॒॑स्तस्य॑ विद्धि ।  
+अल॑र्ति॒ दक्ष॑ उ॒त म॒न्युरि॑न्दो॒ मा नो॑ अ॒र्यो अ॑नुका॒मं परा॑ दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

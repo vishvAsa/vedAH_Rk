@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ suvī́ryam ← suvī́rya- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑न्दे॒वाँ आ व॑ह॒ सोम॑पीतये॒ऽन्तरि॑क्षादुष॒स्त्वम् ।  
+सास्मासु॑ धा॒ गोम॒दश्वा॑वदु॒क्थ्य१॒॑मुषो॒ वाजं॑ सु॒वीर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

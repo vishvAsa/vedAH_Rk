@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ gábhastyoḥ ← gábhasti- (nominal stem)
 
 nadī́ṣu ← nadī́- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ह॑र्य॒तो अर्जु॑ने॒ अत्के॑ अव्यत प्रि॒यः सू॒नुर्न मर्ज्यः॑ ।  
+तमीं॑ हिन्वन्त्य॒पसो॒ यथा॒ रथं॑ न॒दीष्वा गभ॑स्त्योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “beam; hand; sun.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -239,7 +244,6 @@ The laborers propel him, in their two hands, as they would a chariot,  into the 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -247,7 +251,6 @@ No particular signs of cohesion. River(s) appear in both vss., but with differen
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

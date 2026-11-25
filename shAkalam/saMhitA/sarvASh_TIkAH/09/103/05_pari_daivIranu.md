@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "द्वित आप्त्यः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ vāghádbhiḥ ← vāghát- (nominal stem)
 
 vāghát ← vāghát- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ दैवी॒रनु॑ स्व॒धा इन्द्रे॑ण याहि स॒रथ॑म् ।  
+पु॒ना॒नो वा॒घद्वा॒घद्भि॒रम॑र्त्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “immortal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

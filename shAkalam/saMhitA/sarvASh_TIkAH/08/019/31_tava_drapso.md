@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ rājasi ← √rāj- (root)
 
 vástuṣu ← vástu- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॑ द्र॒प्सो नील॑वान्वा॒श ऋ॒त्विय॒ इन्धा॑नः सिष्ण॒वा द॑दे ।  
+त्वं म॑ही॒नामु॒षसा॑मसि प्रि॒यः क्ष॒पो वस्तु॑षु राजसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

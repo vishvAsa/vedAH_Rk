@@ -4,6 +4,7 @@ devataa = "इन्द्रः (मरुतः)"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (मरुतः)
@@ -83,7 +84,12 @@ upáribudhnān ← upáribudhna- (nominal stem)
 
 vanínaḥ ← vanín- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमे॒तानि॑ पप्रिषे॒ वि नामेशा॑न इन्द्र दधिषे॒ गभ॑स्तौ ।  
+अनु॑ त्वा दे॒वाः शव॑सा मदन्त्यु॒परि॑बुध्नान्व॒निन॑श्चकर्थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

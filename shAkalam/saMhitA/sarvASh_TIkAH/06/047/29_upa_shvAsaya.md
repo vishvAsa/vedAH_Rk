@@ -4,6 +4,7 @@ devataa = "दुन्दुभिः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दुन्दुभिः
@@ -92,7 +93,12 @@ dūrā́t ← dūrá- (nominal stem)
 
 sedha ← √sidh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ श्वासय पृथि॒वीमु॒त द्यां पु॑रु॒त्रा ते॑ मनुतां॒ विष्ठि॑तं॒ जग॑त् ।  
+स दु॑न्दुभे स॒जूरिन्द्रे॑ण दे॒वैर्दू॒राद्दवी॑यो॒ अप॑ सेध॒ शत्रू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “enemy; foe; enemy; Asura.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -254,7 +259,6 @@ O Drum, along with Indra, with the gods, drive away the rivals farther  than far
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details><summary><h2>26-31 ...{Loading}...</h2></summary>
 
@@ -262,7 +266,6 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

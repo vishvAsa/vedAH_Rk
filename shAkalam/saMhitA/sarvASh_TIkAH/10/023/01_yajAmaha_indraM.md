@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ ví ← ví (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यजा॑मह॒ इन्द्रं॒ वज्र॑दक्षिणं॒ हरी॑णां र॒थ्यं१॒॑ विव्र॑तानाम् ।  
+प्र श्मश्रु॒ दोधु॑वदू॒र्ध्वथा॑ भू॒द्वि सेना॑भि॒र्दय॑मानो॒ वि राध॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

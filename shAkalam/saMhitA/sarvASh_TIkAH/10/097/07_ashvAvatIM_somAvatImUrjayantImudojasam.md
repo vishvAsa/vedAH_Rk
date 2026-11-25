@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -62,7 +63,12 @@ ariṣṭátātaye ← ariṣṭátāti- (nominal stem)
 
 asmaí ← ayám (pronoun)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒श्वा॒व॒तीं सो॑माव॒तीमू॒र्जय॑न्ती॒मुदो॑जसम् ।  
+आवि॑त्सि॒ सर्वा॒ ओष॑धीर॒स्मा अ॑रि॒ष्टता॑तये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “safeness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

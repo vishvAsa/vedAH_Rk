@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ hinvanti ← √hi- (root)
 
 śubhrám ← śubhrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स तू प॑वस्व॒ परि॒ पार्थि॑वं॒ रजो॑ दि॒व्या च॑ सोम॒ धर्म॑भिः ।  
+त्वां विप्रा॑सो म॒तिभि॑र्विचक्षण शु॒भ्रं हि॑न्वन्ति धी॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “thinking; prayer; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -229,10 +234,6 @@ O wide-gazing one, the inspired poets propel you, resplendent, with
 their thoughts and insights.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Notice the number disharmony in pā́rthivaṃ rájo, divyā́ca “the earthly realm and the heavenly (ones).”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/23-24.md">
 <details><summary><h2>23-24 ...{Loading}...</h2></summary>
 
@@ -240,7 +241,6 @@ Both vss. contain the impv. pávasva (/ pavasva), and the mention of the sea in 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒षू॒वृदिन्द्रो॒ अम॑तेरु॒त क्षु॒धः स इद्रा॒यो म॒घवा॒ वस्व॑ ईशते ।  
+तस्येदि॒मे प्र॑व॒णे स॒प्त सिन्ध॑वो॒ वयो॑ वर्धन्ति वृष॒भस्य॑ शु॒ष्मिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “strong; hotheaded.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

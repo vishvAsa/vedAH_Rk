@@ -4,6 +4,7 @@ devataa = "इन्द्रो मरुतो वा"
 RShiH = "अप्रतिरथ ऐन्द्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो मरुतो वा
@@ -77,7 +78,12 @@ anādhr̥ṣyā́ḥ ← anādhr̥ṣyá- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रेता॒ जय॑ता नर॒ इन्द्रो॑ वः॒ शर्म॑ यच्छतु ।  
+उ॒ग्रा वः॑ सन्तु बा॒हवो॑ऽनाधृ॒ष्या यथास॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

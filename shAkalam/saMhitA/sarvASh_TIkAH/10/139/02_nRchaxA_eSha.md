@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "विश्वावसुर्देवगन्धर्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -86,7 +87,12 @@ ketúm ← ketú- (nominal stem)
 
 pū́rvam ← pū́rva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नृ॒चक्षा॑ ए॒ष दि॒वो मध्य॑ आस्त आपप्रि॒वान्रोद॑सी अ॒न्तरि॑क्षम् ।  
+स वि॒श्वाची॑र॒भि च॑ष्टे घृ॒ताची॑रन्त॒रा पूर्व॒मप॑रं च के॒तुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     signal; signal; luminosity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

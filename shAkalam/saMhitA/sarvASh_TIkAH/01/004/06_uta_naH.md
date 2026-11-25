@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ vocéyuḥ ← √vac- (root)
 
 syā́ma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नः॑ सु॒भगाँ॑ अ॒रिर्वो॒चेयु॑र्दस्म कृ॒ष्टयः॑ ।  
+स्यामेदिन्द्र॑स्य॒ शर्म॑णि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “protection; protective covering; refuge; joy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

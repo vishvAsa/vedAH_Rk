@@ -4,6 +4,7 @@ devataa = "धनान्नदानप्रशंसा"
 RShiH = "भिक्षुराङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - धनान्नदानप्रशंसा
@@ -98,7 +99,12 @@ samám ← samá- (nominal stem)
 
 sántau ← √as- 1 (root)  
 {case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मौ चि॒द्धस्तौ॒ न स॒मं वि॑विष्टः सम्मा॒तरा॑ चि॒न्न स॒मं दु॑हाते ।  
+य॒मयो॑श्चि॒न्न स॒मा वी॒र्या॑णि ज्ञा॒ती चि॒त्सन्तौ॒ न स॒मं पृ॑णीतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -258,7 +264,6 @@ _________
     mix; complete.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

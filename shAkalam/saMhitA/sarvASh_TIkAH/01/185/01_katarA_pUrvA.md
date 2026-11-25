@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -98,7 +99,12 @@ vartete ← √vr̥t- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒त॒रा पूर्वा॑ कत॒राप॑रा॒योः क॒था जा॒ते क॑वयः॒ को वि वे॑द ।  
+विश्वं॒ त्मना॑ बिभृतो॒ यद्ध॒ नाम॒ वि व॑र्तेते॒ अह॑नी च॒क्रिये॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

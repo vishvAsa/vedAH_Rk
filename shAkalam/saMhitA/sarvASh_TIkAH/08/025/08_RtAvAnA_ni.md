@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -57,7 +58,12 @@ kṣatrám ← kṣatrá- (nominal stem)
 
 kṣatríyā ← kṣatríya- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तावा॑ना॒ नि षे॑दतुः॒ साम्रा॑ज्याय सु॒क्रतू॑ ।  
+धृ॒तव्र॑ता क्ष॒त्रिया॑ क्ष॒त्रमा॑शतुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,14 +175,12 @@ Their commandments upheld, the rulers attained their rule.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 Both these verses have a subject / VP construction that’s an etymological figure: 8c … kṣatríyā kṣatrám āśatuḥ, 9c … nicirā́ní cikyatuḥ. The latter is reinforced phonologically by the pāda-opening ní cin miṣántā. The unusual tmesis of preverb and participle, interrupted by the particle cid, may be (partly) accounted for by the desire to produce a ni ci- sequence matching the two that follow in that pāda.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

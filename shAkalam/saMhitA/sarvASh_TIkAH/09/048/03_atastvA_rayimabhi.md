@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ bharat ← √bhr̥- (root)
 
 suparṇáḥ ← suparṇá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत॑स्त्वा र॒यिम॒भि राजा॑नं सुक्रतो दि॒वः ।  
+सु॒प॒र्णो अ॑व्य॒थिर्भ॑रत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -171,17 +176,12 @@ From there, from heaven, the unfaltering falcon brought
 you, the king, to wealth, o strong-willed one.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The átaḥ ‘from there’ that begins this vs. was used by Hillebrandt as evidence for the mythological connection between vss. 2 and 3, persuasively in my view, contra Oldenberg
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/048/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 The phrases suparṇáḥ … bharat (3c) “the falcon brought” and vír bharat (4c) “the bird brought” are directly reminiscent of IV.26, where the 3rd sg. (a)bharat occurs 4x in 4 vss. (4-7), incl. 4cd suparṇáḥ … bhárat and 5a bhárat … víḥ, with the same subjects as here.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

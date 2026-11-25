@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -86,7 +87,12 @@ rétaḥ ← rétas- (nominal stem)
 
 sūryaśvítaḥ ← sūryaśvít- (nominal stem)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒प॒र्णा वाच॑मक्र॒तोप॒ द्यव्या॑ख॒रे कृष्णा॑ इषि॒रा अ॑नर्तिषुः ।  
+न्य१॒॑ङ्नि य॒न्त्युप॑रस्य निष्कृ॒तं पु॒रू रेतो॑ दधिरे सूर्य॒श्वितः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

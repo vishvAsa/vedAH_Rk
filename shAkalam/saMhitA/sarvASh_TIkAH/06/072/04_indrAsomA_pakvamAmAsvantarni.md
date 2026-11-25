@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ
@@ -80,7 +81,12 @@ jágatīṣu ← jágatī- (nominal stem)
 
 rúśat ← rúśant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑सोमा प॒क्वमा॒मास्व॒न्तर्नि गवा॒मिद्द॑धथुर्व॒क्षणा॑सु ।  
+ज॒गृ॒भथु॒रन॑पिनद्धमासु॒ रुश॑च्चि॒त्रासु॒ जग॑तीष्व॒न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “inside; in; antar \[word\]; midmost; between; among.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

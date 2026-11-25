@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ sómaiḥ ← sóma- (nominal stem)
 
 vástraiḥ ← vástra- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध्व॑र्यवो॒ यो दृभी॑कं ज॒घान॒ यो गा उ॒दाज॒दप॒ हि व॒लं वः ।  
+तस्मा॑ ए॒तम॒न्तरि॑क्षे॒ न वात॒मिन्द्रं॒ सोमै॒रोर्णु॑त॒ जूर्न वस्त्रैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
 - “fabric; clothing; dress; vastra \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

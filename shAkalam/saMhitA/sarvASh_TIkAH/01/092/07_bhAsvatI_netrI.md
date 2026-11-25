@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ māsi ← √mā- 1 (root)
 
 vā́jān ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भास्व॑ती ने॒त्री सू॒नृता॑नां दि॒वः स्त॑वे दुहि॒ता गोत॑मेभिः ।  
+प्र॒जाव॑तो नृ॒वतो॒ अश्व॑बुध्या॒नुषो॒ गोअ॑ग्राँ॒ उप॑ मासि॒ वाजा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -217,10 +222,6 @@ Light-filled leader of liberalities, the Daughter of Heaven is praised by  the G
 O Dawn, mete out prizes rich in offspring, rich in men, founded on  horses, tipped with cows.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note the etymological, though no longer semantic, relationship between sūnṛ́tānām (a) and nṛvátaḥ (c).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -228,7 +229,6 @@ Contra Grassmann, áśva-budhya- cannot mean ‘durch Rosse bemerkenswerth’ wi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

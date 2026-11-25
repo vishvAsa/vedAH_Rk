@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ sánti ← √as- 1 (root)
 
 suvī́ryebhiḥ ← suvī́rya- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू न॑श्चि॒त्रं पु॑रु॒वाजा॑भिरू॒ती अग्ने॑ र॒यिं म॒घव॑द्भ्यश्च धेहि ।  
+ये राध॑सा॒ श्रव॑सा॒ चात्य॒न्यान्त्सु॒वीर्ये॑भिश्चा॒भि सन्ति॒ जना॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

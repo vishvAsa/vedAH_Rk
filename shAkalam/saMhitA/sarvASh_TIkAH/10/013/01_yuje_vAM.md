@@ -4,6 +4,7 @@ devataa = "हविर्धाने"
 RShiH = "विवस्वानादित्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हविर्धाने
@@ -92,7 +93,12 @@ tasthúḥ ← √sthā- (root)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒जे वां॒ ब्रह्म॑ पू॒र्व्यं नमो॑भि॒र्वि श्लोक॑ एतु प॒थ्ये॑व सू॒रेः ।  
+शृ॒ण्वन्तु॒ विश्वे॑ अ॒मृत॑स्य पु॒त्रा आ ये धामा॑नि दि॒व्यानि॑ त॒स्थुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

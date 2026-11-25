@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ mahī́ḥ ← máh- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स मृ॑ज्यते सु॒कर्म॑भिर्दे॒वो दे॒वेभ्यः॑ सु॒तः ।  
+वि॒दे यदा॑सु सन्द॒दिर्म॒हीर॒पो वि गा॑हते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -83,7 +84,12 @@ rā́jā ← rā́jan- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप्र॑तीतो जयति॒ सं धना॑नि॒ प्रति॑जन्यान्यु॒त या सज॑न्या ।  
+अ॒व॒स्यवे॒ यो वरि॑वः कृ॒णोति॑ ब्र॒ह्मणे॒ राजा॒ तम॑वन्ति दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,10 +247,6 @@ Unopposable, he wins riches belonging to his opponents and those  belonging to h
 The king who makes wide space for the Formulator seeking aid, him do  the gods aid.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The shift from divine to human just noted above in vss. 7-8 comes full circle in this vs. The human Formulator is, it seems, in need of aid from the king (avasyáve … brahmáṇe), but if the king provides this aid he himself receives aid from the gods (tám avanti devā́ḥ).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -253,7 +254,6 @@ This last section consisting of two vss. introduces Indra by name for the first 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

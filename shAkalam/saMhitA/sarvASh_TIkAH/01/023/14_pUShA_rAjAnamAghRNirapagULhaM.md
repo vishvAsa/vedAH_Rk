@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -54,7 +55,12 @@ hitám ← √dhā- 1 (root)
 
 citrábarhiṣam ← citrábarhiṣ- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒षा राजा॑न॒माघृ॑णि॒रप॑गूळ्हं॒ गुहा॑ हि॒तम् ।  
+अवि॑न्दच्चि॒त्रब॑र्हिषम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “Barhis; barhis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः | कृत्रिमो वैश्वामित्रो देवरातः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -101,7 +102,12 @@ sáḥ ← sá- ~ tá- (pronoun)
 
 váruṇaḥ ← váruṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदिन्नक्तं॒ तद्दिवा॒ मह्य॑माहु॒स्तद॒यं केतो॑ हृ॒द आ वि च॑ष्टे ।  
+शुनः॒शेपो॒ यमह्व॑द्गृभी॒तः सो अ॒स्मान्राजा॒ वरु॑णो मुमोक्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -267,7 +273,6 @@ _________
     discharge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

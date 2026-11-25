@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ sám ← sám (invariable)
 
 śrávāṁsi ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह॒व्य॒वाळ॒ग्निर॒जरः॑ पि॒ता नो॑ वि॒भुर्वि॒भावा॑ सु॒दृशी॑को अ॒स्मे ।  
+सु॒गा॒र्ह॒प॒त्याः समिषो॑ दिदीह्यस्म॒द्र्य१॒॑क्सं मि॑मीहि॒ श्रवां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “fame; glory; ear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

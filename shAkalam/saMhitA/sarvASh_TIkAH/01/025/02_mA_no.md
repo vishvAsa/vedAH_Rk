@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -57,7 +58,12 @@ mā́ ← mā́ (invariable)
 
 manyáve ← manyú- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ व॒धाय॑ ह॒त्नवे॑ जिहीळा॒नस्य॑ रीरधः ।  
+मा हृ॑णा॒नस्य॑ म॒न्यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “anger; fury; rage; wrath.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

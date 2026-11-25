@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 viśvavāre ← viśvávāra- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा॒ता दे॒वाना॒मदि॑ते॒रनी॑कं य॒ज्ञस्य॑ के॒तुर्बृ॑ह॒ती वि भा॑हि ।  
+प्र॒श॒स्ति॒कृद्ब्रह्म॑णे नो॒ व्यु१॒॑च्छा नो॒ जने॑ जनय विश्ववारे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “treasure; choice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

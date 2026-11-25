@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ tvā ← tvám (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्य॑ व्र॒तानि॒ नाधृषे॒ पव॑मानस्य दू॒ढ्या॑ ।  
+रु॒ज यस्त्वा॑ पृत॒न्यति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “attack.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

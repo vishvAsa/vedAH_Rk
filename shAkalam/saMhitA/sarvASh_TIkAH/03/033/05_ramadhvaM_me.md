@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -83,7 +84,12 @@ kuśikásya ← kuśiká- (nominal stem)
 
 sūnúḥ ← sūnú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रम॑ध्वं मे॒ वच॑से सो॒म्याय॒ ऋता॑वरी॒रुप॑ मुहू॒र्तमेवैः॑ ।  
+प्र सिन्धु॒मच्छा॑ बृह॒ती म॑नी॒षाव॒स्युर॑ह्वे कुशि॒कस्य॑ सू॒नुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “son; offspring.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

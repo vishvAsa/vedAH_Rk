@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "जय ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ ví ← ví (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः प॑रा॒वत॒ आ ज॑गन्था॒ पर॑स्याः ।  
+सृ॒कं सं॒शाय॑ प॒विमि॑न्द्र ति॒ग्मं वि शत्रू॑न्ताळ्हि॒ वि मृधो॑ नुदस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “push; propel; expel; push; move.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

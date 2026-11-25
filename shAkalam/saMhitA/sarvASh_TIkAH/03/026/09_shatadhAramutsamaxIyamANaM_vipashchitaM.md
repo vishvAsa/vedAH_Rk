@@ -4,6 +4,7 @@ devataa = "विश्वामित्रोपाध्यायः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वामित्रोपाध्यायः
@@ -74,7 +75,12 @@ satyavā́cam ← satyavā́c- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तधा॑र॒मुत्स॒मक्षी॑यमाणं विप॒श्चितं॑ पि॒तरं॒ वक्त्वा॑नाम् ।  
+मे॒ळिं मद॑न्तं पि॒त्रोरु॒पस्थे॒ तं रो॑दसी पिपृतं सत्य॒वाच॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     assurance; spell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ visr̥jántaḥ ← √sr̥j- (root)
 
 vratā́ ← vratá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रह्म॒ गामश्वं॑ ज॒नय॑न्त॒ ओष॑धी॒र्वन॒स्पती॑न्पृथि॒वीं पर्व॑ताँ अ॒पः ।  
+सूर्यं॑ दि॒वि रो॒हय॑न्तः सु॒दान॑व॒ आर्या॑ व्र॒ता वि॑सृ॒जन्तो॒ अधि॒ क्षमि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “Earth; heaven and earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "निऋतिः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - निऋतिः
@@ -86,7 +87,12 @@ parātarám ← parātarám (invariable)
 
 sú ← sú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ता॒र्यायुः॑ प्रत॒रं नवी॑यः॒ स्थाता॑रेव॒ क्रतु॑मता॒ रथ॑स्य ।  
+अध॒ च्यवा॑न॒ उत्त॑वी॒त्यर्थं॑ परात॒रं सु निरृ॑तिर्जिहीताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “move over; yield; give way.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

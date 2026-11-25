@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "अनिलो वातायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -89,7 +90,12 @@ kvà ← kvà (invariable)
 
 svit ← svit (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न्तरि॑क्षे प॒थिभि॒रीय॑मानो॒ न नि वि॑शते कत॒मच्च॒नाहः॑ ।  
+अ॒पां सखा॑ प्रथम॒जा ऋ॒तावा॒ क्व॑ स्विज्जा॒तः कुत॒ आ ब॑भूव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

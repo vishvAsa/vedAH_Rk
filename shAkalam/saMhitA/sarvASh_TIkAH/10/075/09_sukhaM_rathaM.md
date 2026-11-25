@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "सिन्धुक्षित् प्रैयमेधः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -86,7 +87,12 @@ sváyaśasaḥ ← sváyaśas- (nominal stem)
 
 virapśínaḥ ← virapśín- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒खं रथं॑ युयुजे॒ सिन्धु॑र॒श्विनं॒ तेन॒ वाजं॑ सनिषद॒स्मिन्ना॒जौ ।  
+म॒हान्ह्य॑स्य महि॒मा प॑न॒स्यतेऽद॑ब्धस्य॒ स्वय॑शसो विर॒प्शिनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “exuberant; copious; ample.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

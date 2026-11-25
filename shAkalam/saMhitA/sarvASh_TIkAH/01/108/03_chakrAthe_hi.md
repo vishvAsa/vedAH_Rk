@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -86,7 +87,12 @@ vr̥ṣethām ← √vr̥ṣ- 1 (root)
 
 vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒क्राथे॒ हि स॒ध्र्य१॒॑ङ्नाम॑ भ॒द्रं स॑ध्रीची॒ना वृ॑त्रहणा उ॒त स्थः॑ ।  
+तावि॑न्द्राग्नी स॒ध्र्य॑ञ्चा नि॒षद्या॒ वृष्णः॒ सोम॑स्य वृष॒णा वृ॑षेथाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “shower; rain; effuse; shower; drench.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -251,14 +256,6 @@ For you two made your own joint name auspicious, and you two, o  Vr̥tra-smasher
 O Indra and Agni, you bulls, having sat down jointly, drench yourselves  in the bullish soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The signature word of this vs. is sadhryàñc- / sadhrīcīná- ‘joint(ly), conjoined’, which occurs prominently in the first three pādas. The final pāda is dense with phonological and etymological play: vṛ́ṣṇaḥ … vṛṣaṇā́vṛṣethām.
-
-Geldner (explicitly) and Renou / Klein (DGRV I.373) / Witzel Gotō (all implicitly) take vṛtrahaṇā in b as a predicate vocative (so, “you two, conjoined, are Vṛtra-smashers”).
-
-I would prefer this interpretation, but think that the lack of accent should be taken seriously. Moreover, given the repetition of sadhryàñc- / sadhrīcīná- just noted, it may be that the conjunction of Indra and Agni is what is being highlighted, not their Vṛtra-smashing.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -266,7 +263,6 @@ As noted in the published introduction, vs. 3 attributes Indra’s characteristi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

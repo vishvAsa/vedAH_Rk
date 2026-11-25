@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ iva ← iva (invariable)
 
 nemíḥ ← nemí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒ध॒न्वे वा॒ यदी॒मनु॒ वोच॒द्ब्रह्मा॑णि॒ वेरु॒ तत् ।  
+परि॒ विश्वा॑नि॒ काव्या॑ ने॒मिश्च॒क्रमि॑वाभवत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

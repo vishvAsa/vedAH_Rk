@@ -4,6 +4,7 @@ devataa = "आसङ्गस्य दानस्तुतिः"
 RShiH = "आसङ्गः प्लायोगिः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आसङ्गस्य दानस्तुतिः
@@ -68,7 +69,12 @@ maghásya ← maghá- (nominal stem)
 
 medhyātithe ← médhyātithi- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒हि स्तु॒हीदे॒ते घा॑ ते॒ मंहि॑ष्ठासो म॒घोना॑म् ।  
+नि॒न्दि॒ताश्वः॑ प्रप॒थी प॑रम॒ज्या म॒घस्य॑ मेध्यातिथे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “Kaṇva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

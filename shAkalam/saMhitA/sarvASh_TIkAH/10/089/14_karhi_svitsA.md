@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)
 
 śáyante ← √śī- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कर्हि॑ स्वि॒त्सा त॑ इन्द्र चे॒त्यास॑द॒घस्य॒ यद्भि॒नदो॒ रक्ष॒ एष॑त् ।  
+मि॒त्र॒क्रुवो॒ यच्छस॑ने॒ न गावः॑ पृथि॒व्या आ॒पृग॑मु॒या शय॑न्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “lie; sleep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

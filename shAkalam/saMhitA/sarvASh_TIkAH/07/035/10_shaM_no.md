@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ pátiḥ ← páti- (nominal stem)
 
 śambhúḥ ← śambhú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नो॑ दे॒वः स॑वि॒ता त्राय॑माणः॒ शं नो॑ भवन्तू॒षसो॑ विभा॒तीः ।  
+शं नः॑ प॒र्जन्यो॑ भवतु प्र॒जाभ्यः॒ शं नः॒ क्षेत्र॑स्य॒ पति॑रस्तु श॒म्भुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “kind; benevolent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

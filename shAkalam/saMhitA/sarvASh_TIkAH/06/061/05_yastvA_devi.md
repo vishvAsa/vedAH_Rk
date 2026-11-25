@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -60,7 +61,12 @@ ná ← ná (invariable)
 
 vr̥tratū́rye ← vr̥tratū́rya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्त्वा॑ देवि सरस्वत्युपब्रू॒ते धने॑ हि॒ते ।  
+इन्द्रं॒ न वृ॑त्र॒तूर्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “battle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,7 +165,6 @@ Whoever makes appeal to you, goddess Sarasvatī, when the stake is set, as if to
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -174,7 +178,6 @@ This tṛca is almost empty of content, in part because so much of each Gāyatr�
 This, the middle vs. of the tṛca, consists only of a rel. cl., which I consider preposed to vs. 6, though without a resumptive pronoun correlative with yáḥ. I supply one (‘him’) as obj. of ávā in 6b. Both Geldner and Renou instead supply ‘us’ as the obj. of that verb, leaving the rel. cl. in 5 without any syntactic tether. The middle vs. of the next tṛca (8) also consists just of a rel. cl.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

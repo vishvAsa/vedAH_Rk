@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ hárayaḥ ← hári- (nominal stem)
 
 sahásram ← sahásra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑य सोम॒ परि॑ षिच्यसे॒ नृभि॑र्नृ॒चक्षा॑ ऊ॒र्मिः क॒विर॑ज्यसे॒ वने॑ ।  
+पू॒र्वीर्हि ते॑ स्रु॒तयः॒ सन्ति॒ यात॑वे स॒हस्र॒मश्वा॒ हर॑यश्चमू॒षदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -264,14 +269,6 @@ For Indra, o Soma, you are poured in circles by the men. As a wave  drawing the 
 for there are many courses for you to travel and a thousand fallow bay  horses sitting in the cups.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The rt. noun compd mada-cyút- (on which see also above) is taken by Geldner as having passive semantics (“rauscherregt”), in contrast to the active transitive semantics of my ‘arousing exhilaration’ and Renou’s “mouvant l’ivresse.” Scarlatta (128-29) allows both for the cmpd in general, without deciding on particular passages. Since, all things being equal, rt noun cmpds to roots with transitive value tend to display that (type vṛtra-hán-), and most of the other -cyút- cmpds are transitive (acyuta-cyút- ‘shaking the unshakeable’, parvata-cyút- ‘shaking the mountains’), a transitive interpr. seems to me the default. For the five attestations of madacyút- in IX, all modifying soma or soma drops, as here, a transitive interpr. is the more natural: soma is, after all, what produces máda-. However, the cmpd. elsewhere also modifies Indra or similar entities, who are more likely to be roused to exhilaration than to rouse it (e.g., I.51.2), and the passive value should be allowed there. Indeed in I.81.3, by my interpr., there are two potential referents (Indra / soma) and two different readings of the cmpd.
-
-Pāda b poses problems: what is the disjunction signaled by vā; where does the rel. cl. with yébhiḥ begin; what is the referent of yébhiḥ; how should dhánā be construed? Geldner starts the rel. cl. with yébhiḥ, leaving the disjunctive phrase dhánā vā in (or attached to) the main cl. Since there is nothing in that cl. with which to construe dhánā he must supply a verb parallel to dhanvantu: “… sollen rinnen … oder die Kampfpreise (gewinnen).” Sim. Klein, DGRV II.205. There is nothing objectionable about this solution - ‘win’ regularly takes dhána- as obj., and in fact soma or its equivalent is sometimes the subj. Cf., e.g., IX.65.9 … te … víśvā dhãnāni jigyúṣah “of you [presumably = soma] having won all the stakes” (though it’s worth noting that the exact half-vs. is found in VIII.14.6, applying to Indra). But nothing in the context invites or supports supplying a verb here. Renou’s solution is more economical, in using dhánā as an alternative subject for prá … dhanvantu, though running forth is less natural action for stakes to perform. Ober (II.248) also takes the disjunction as belonging to the main cl., but with dhánā as an alternate goal for the running drops: “… sollen vorwärts laufen oder hin zu den Siegespreisen.” All of them, Geldner (/Klein), Renou, and Ober start the rel. cl. with yébhiḥ and make its antecedent dhánā. By contrast, I take all of pāda b as the rel. cl. (the position of yébhiḥ is of course perfectly compatible with this), with dhánā a 2nd acc., of goal (rather like Ober), with junīmási. The antecedent of yébhiḥ is then the soma drops, which give us (and the horses) the energy to race to the prizes.
-
-Geldner, Renou, and Ober take c with d. This is certainly possible, but I prefer taking it with b, to express the potential hazards and dirty-dealing facing our horses in this race.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/078/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -281,7 +278,6 @@ Although (a)codásaḥ (1a) and (mada-)cyútaḥ (2a) obviously belong to differ
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

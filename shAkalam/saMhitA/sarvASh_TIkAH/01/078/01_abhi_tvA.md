@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ nonumaḥ ← √nu- ~ nū- (root)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि त्वा॒ गोत॑मा गि॒रा जात॑वेदो॒ विच॑र्षणे ।  
+द्यु॒म्नैर॒भि प्र णो॑नुमः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “bellow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

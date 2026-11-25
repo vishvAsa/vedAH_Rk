@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ vartíḥ ← vartís- (nominal stem)
 
 yāsiṣṭám ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य दे॒वस्य॑ मी॒ळ्हुषो॑ व॒या विष्णो॑रे॒षस्य॑ प्रभृ॒थे ह॒विर्भिः॑ ।  
+वि॒दे हि रु॒द्रो रु॒द्रियं॑ महि॒त्वं या॑सि॒ष्टं व॒र्तिर॑श्विना॒विरा॑वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “enjoyable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "शशीयसी तरन्तमहिषी"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शशीयसी तरन्तमहिषी
@@ -57,7 +58,12 @@ vásyasī ← vásyaṁs- (nominal stem)
 
 arādhásaḥ ← arādhás- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्वा॒ स्त्री शशी॑यसी पुं॒सो भ॑वति॒ वस्य॑सी ।  
+अदे॑वत्रादरा॒धसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “stingy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -155,10 +160,6 @@ Now a woman can be more reliable, better than a man
 if he’s estranged from the gods, ungenerous—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The comparative śáśīyas- is attested only twice in the RV, here and in IV.32.3. Though they have different senses in the two passages (‘more reliable’ here, ‘more numerous’ there, at least by my interpr.), the semantic dev. from the positive śáśvant- ‘regularly recurring, in unbroken sequence, each and every’ to the two senses of the comp. is fairly straightforward. Here, regularly recurring > constant > reliable. In VIII.1.34 this development takes a sexual turn, with a śáśvatī nā́rī being one who is “ever ready” for sex (in my interpr.), and a sexual nuance is not ruled out in our passage either -- though here the emphasis is on her dependable qualities compared to the unsatisfactory man.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
 <details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
@@ -166,7 +167,6 @@ As indicated in the published translation, I consider these vss. a digression re
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

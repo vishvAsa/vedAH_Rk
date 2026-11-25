@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ suvitā́ya ← suvitá- (nominal stem)
 
 yāhi ← √yā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धे अ॒ग्नौ सु॒त इ॑न्द्र॒ सोम॒ आ त्वा॑ वहन्तु॒ हर॑यो॒ वहि॑ष्ठाः ।  
+त्वा॒य॒ता मन॑सा जोहवी॒मीन्द्रा या॑हि सुवि॒ताय॑ म॒हे नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

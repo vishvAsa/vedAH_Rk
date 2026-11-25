@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ mā́nuṣā ← mā́nuṣa- (nominal stem)
 
 yugā́ ← yugá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नित्य॑स्तोत्रो॒ वन॒स्पति॑र्धी॒नाम॒न्तः स॑ब॒र्दुघः॑ ।  
+हि॒न्वा॒नो मानु॑षा यु॒गा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
     \[word\]; Yuga; race.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

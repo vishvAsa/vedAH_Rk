@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -57,7 +58,12 @@ anamīvā́ḥ ← anamīvá- (nominal stem)
 
 karat ← √kr̥- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमो॑ अ॒स्मभ्यं॑ द्वि॒पदे॒ चतु॑ष्पदे च प॒शवे॑ ।  
+अ॒न॒मी॒वा इष॑स्करत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

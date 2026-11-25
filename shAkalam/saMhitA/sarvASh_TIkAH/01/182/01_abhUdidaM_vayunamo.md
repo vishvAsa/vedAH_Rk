@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ nápātā ← nápat- (nominal stem)
 
 sukŕ̥te ← sukŕ̥t- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अभू॑दि॒दं व॒युन॒मो षु भू॑षता॒ रथो॒ वृष॑ण्वा॒न्मद॑ता मनीषिणः ।  
+धि॒यं॒जि॒न्वा धिष्ण्या॑ वि॒श्पला॑वसू दि॒वो नपा॑ता सु॒कृते॒ शुचि॑व्रता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     \[word\]; rule; behavior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

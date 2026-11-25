@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ avasyávaḥ ← avasyú- (nominal stem)
 
 kuśikā́saḥ ← kuśiká- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां सु॒तस्य॑ पी॒तये॑ प्र॒त्नमि॑न्द्र हवामहे ।  
+कु॒शि॒कासो॑ अव॒स्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “seeking protection; helpless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

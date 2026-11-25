@@ -4,6 +4,7 @@ devataa = "विष्णुरिन्द्रश्च"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुरिन्द्रश्च
@@ -80,7 +81,12 @@ kr̥śā́noḥ ← kr̥śā́nu- (nominal stem)
 
 uruṣyáthaḥ ← √uruṣy- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे॒षमि॒त्था स॒मर॑णं॒ शिमी॑वतो॒रिन्द्रा॑विष्णू सुत॒पा वा॑मुरुष्यति ।  
+या मर्त्या॑य प्रतिधी॒यमा॑न॒मित्कृ॒शानो॒रस्तु॑रस॒नामु॑रु॒ष्यथः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “protect; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ dhāraya ← √dhr̥- (root)
 
 śrávāṁsi ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ प॑वस्व सह॒स्रिणं॑ र॒यिं सो॑म सु॒वीर्य॑म् ।  
+अ॒स्मे श्रवां॑सि धारय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
     understand; fixate; govern; restrain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,14 +165,12 @@ secure our claims to fame for us.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular signs of unity, though the dat. índrāya in 2b anticipates the three datives índrāya víṣṇave … vāyáve in vs. 3.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

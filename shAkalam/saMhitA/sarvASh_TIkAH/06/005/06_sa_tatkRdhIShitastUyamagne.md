@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ mánma ← mánman- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स तत्कृ॑धीषि॒तस्तूय॑मग्ने॒ स्पृधो॑ बाधस्व॒ सह॑सा॒ सह॑स्वान् ।  
+यच्छ॒स्यसे॒ द्युभि॑र॒क्तो वचो॑भि॒स्तज्जु॑षस्व जरि॒तुर्घोषि॒ मन्म॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “hymn; idea; purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

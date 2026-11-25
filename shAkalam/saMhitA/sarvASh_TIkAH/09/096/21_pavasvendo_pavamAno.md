@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ rásaḥ ← rása- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्वेन्दो॒ पव॑मानो॒ महो॑भिः॒ कनि॑क्रद॒त्परि॒ वारा॑ण्यर्ष ।  
+क्रीळ॑ञ्च॒म्वो॒३॒॑रा वि॑श पू॒यमा॑न॒ इन्द्रं॑ ते॒ रसो॑ मदि॒रो म॑मत्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -238,7 +243,6 @@ Playing, enter the two cups while being purified. Let your exhilarating  sap exh
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/20-21.md">
 <details><summary><h2>20-21 ...{Loading}...</h2></summary>
 
@@ -246,7 +250,6 @@ Again these two vss. belong to separate mini-hymns, but they are clearly concate
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

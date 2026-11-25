@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ययातिर्नाहुषः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -68,7 +69,12 @@ vācáḥ ← vā́c- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दु॒रिन्द्रा॑य पवत॒ इति॑ दे॒वासो॑ अब्रुवन् ।  
+वा॒चस्पति॑र्मखस्यते॒ विश्व॒स्येशा॑न॒ ओज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -175,10 +180,6 @@ _________
 The lord of speech does battle [/seeks bounties], holding sway over all  with his strength.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the double sense of makhá- and its denom. and deriv., see I.18.9, III.31.7.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -186,7 +187,6 @@ No particular unity in this tṛca unless the mention of Indra in each vs. count
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

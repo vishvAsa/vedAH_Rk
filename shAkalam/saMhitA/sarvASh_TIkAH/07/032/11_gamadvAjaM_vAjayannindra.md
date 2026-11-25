@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ nr̥ṇā́m ← nár- (nominal stem)
 
 śūra ← śū́ra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गम॒द्वाजं॑ वा॒जय॑न्निन्द्र॒ मर्त्यो॒ यस्य॒ त्वम॑वि॒ता भुवः॑ ।  
+अ॒स्माकं॑ बोध्यवि॒ता रथा॑नाम॒स्माकं॑ शूर नृ॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

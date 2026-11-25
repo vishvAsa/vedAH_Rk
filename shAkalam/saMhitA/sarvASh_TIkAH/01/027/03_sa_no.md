@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -69,7 +70,12 @@ sádam ← sádam (invariable)
 
 viśvā́yuḥ ← viśvā́yu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॑ दू॒राच्चा॒साच्च॒ नि मर्त्या॑दघा॒योः ।  
+पा॒हि सद॒मिद्वि॒श्वायुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “lifelong.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

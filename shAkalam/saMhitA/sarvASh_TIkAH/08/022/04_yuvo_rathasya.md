@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ dhenúḥ ← dhenú- (nominal stem)
 
 iva ← iva (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वो रथ॑स्य॒ परि॑ च॒क्रमी॑यत ई॒र्मान्यद्वा॑मिषण्यति ।  
+अ॒स्माँ अच्छा॑ सुम॒तिर्वां॑ शुभस्पती॒ आ धे॒नुरि॑व धावतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “run; run; wash.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ sutáḥ ← √su- (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ मन्दा॒नो अन्ध॑सो॒ माघो॑नं दधि॒षे शवः॑ ।  
+अ॒यं स सोम॑ इन्द्र ते सु॒तः पिब॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -192,10 +197,6 @@ Finding exhilaration in whose stalk, you acquire the capacity for  generosity—
 here is that soma, Indra, pressed for you. Drink!
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On áprahan- (or, less likely, áprahaṇa-), see Oldenberg, Scarlatta (689). Scarlatta construes vaḥ with this form (“der nicht auf euch einschlägt”) as well as with gṛṇīṣé (“… will ich für euch preisen”). I take vaḥ only with gṛṇīṣé and supply ‘us’ with the root noun cmpd.; Geldner likewise takes vaḥ with the verb and supplies “keiner” as obj. of the cmpd. There is no way to choose and no reason to do so, since all three are more or less equivalent: Indra is all powerful but does not threaten the community to which the poet belongs.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -203,7 +204,6 @@ Although this tṛca does not have glaring signs of unity, it particularly conce
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

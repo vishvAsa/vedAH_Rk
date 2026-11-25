@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्त देवताः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्त देवताः
@@ -110,7 +111,13 @@ sómasya ← sóma- (nominal stem)
 
 ūtī́ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नमो॑ दि॒वे बृ॑ह॒ते रोद॑सीभ्यां मि॒त्राय॑ वोचं॒ वरु॑णाय मी॒ळ्हुषे॑ सुमृळी॒काय॑ मी॒ळ्हुषे॑ ।  
+इन्द्र॑म॒ग्निमुप॑ स्तुहि द्यु॒क्षम॑र्य॒मणं॒ भग॑म् ।  
+ज्योग्जीव॑न्तः प्र॒जया॑ सचेमहि॒ सोम॑स्यो॒ती स॑चेमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -281,7 +288,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -57,7 +58,12 @@ padám ← padá- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यपाणिमू॒तये॑ सवि॒तार॒मुप॑ ह्वये ।  
+स चेत्ता॑ दे॒वता॑ प॒दम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     topographic point; path; residence; site; topic.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

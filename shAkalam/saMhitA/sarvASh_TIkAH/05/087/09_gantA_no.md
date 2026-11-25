@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "एवयामरुदात्रेयः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -91,7 +92,12 @@ nidáḥ ← níd- (nominal stem)
 
 syā́ta ← √as- 1 (root)  
 {number:PL, person:2, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गन्ता॑ नो य॒ज्ञं य॑ज्ञियाः सु॒शमि॒ श्रोता॒ हव॑मर॒क्ष ए॑व॒याम॑रुत् ।  
+ज्येष्ठा॑सो॒ न पर्व॑तासो॒ व्यो॑मनि यू॒यं तस्य॑ प्रचेतसः॒ स्यात॑ दु॒र्धर्त॑वो नि॒दः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “derision; scoffer; contempt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

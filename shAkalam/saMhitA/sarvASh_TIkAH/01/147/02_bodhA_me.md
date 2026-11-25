@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ vandā́ruḥ ← vandā́ru- (nominal stem)
 
 vande ← √vandⁱ- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बोधा॑ मे अ॒स्य वच॑सो यविष्ठ॒ मंहि॑ष्ठस्य॒ प्रभृ॑तस्य स्वधावः ।  
+पीय॑ति त्वो॒ अनु॑ त्वो गृणाति व॒न्दारु॑स्ते त॒न्वं॑ वन्दे अग्ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

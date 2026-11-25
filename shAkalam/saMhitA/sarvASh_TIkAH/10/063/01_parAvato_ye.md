@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ naḥ ← ahám (pronoun)
 
 té ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒रा॒वतो॒ ये दिधि॑षन्त॒ आप्यं॒ मनु॑प्रीतासो॒ जनि॑मा वि॒वस्व॑तः ।  
+य॒याते॒र्ये न॑हु॒ष्य॑स्य ब॒र्हिषि॑ दे॒वा आस॑ते॒ ते अधि॑ ब्रुवन्तु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

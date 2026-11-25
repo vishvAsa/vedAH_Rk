@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ janayanta ← √janⁱ- (root)
 
 yóṣaṇaḥ ← yóṣan- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पृ॒क्षो वपुः॑ पितु॒मान्नित्य॒ आ श॑ये द्वि॒तीय॒मा स॒प्तशि॑वासु मा॒तृषु॑ ।  
+तृ॒तीय॑मस्य वृष॒भस्य॑ दो॒हसे॒ दश॑प्रमतिं जनयन्त॒ योष॑णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - \[noun\], nominative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

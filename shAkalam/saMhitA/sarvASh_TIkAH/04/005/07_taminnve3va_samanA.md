@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -92,7 +93,12 @@ jábāru ← jábāru- (nominal stem)
 
 rupáḥ ← rúp- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमिन्न्वे॒३॒॑व स॑म॒ना स॑मा॒नम॒भि क्रत्वा॑ पुन॒ती धी॒तिर॑श्याः ।  
+स॒सस्य॒ चर्म॒न्नधि॒ चारु॒ पृश्ने॒रग्रे॑ रु॒प आरु॑पितं॒ जबा॑रु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - \[noun\], nominative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

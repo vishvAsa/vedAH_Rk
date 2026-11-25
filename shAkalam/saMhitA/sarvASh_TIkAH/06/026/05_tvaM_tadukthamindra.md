@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ prá ← prá (invariable)
 
 ūtī́ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं तदु॒क्थमि॑न्द्र ब॒र्हणा॑ कः॒ प्र यच्छ॒ता स॒हस्रा॑ शूर॒ दर्षि॑ ।  
+अव॑ गि॒रेर्दासं॒ शम्ब॑रं ह॒न्प्रावो॒ दिवो॑दासं चि॒त्राभि॑रू॒ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -277,14 +282,6 @@ You struck the barbarian Śambara down from the mountain and
 furthered Divodāsa with glittering help.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-For the association of barháṇā and ukthá- see VI.44.6 ukthásya barháṇā.
-
-Pāda b contains one of the few exx. of the “-si imperative” that betrays its non-imperatival source, since dárṣi occurs in a subord. cl., from which imperatives are barred. Here it shows its original subjunctive value in a purpose cl. (so also Hoffmann, 183).
-
-Initial áva in c breaks the long pattern of 2nd sg. pronouns beginning the hemistich (vss. 2-5a, resumed vss. 6, 7c, with such forms also beginning even pādas 2d, 4d, 7b). Perhaps it is meant to resonate with 4b #ā́vo, 5d #prā́vo.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
 <details><summary><h2>03-06 ...{Loading}...</h2></summary>
 
@@ -292,7 +289,6 @@ These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

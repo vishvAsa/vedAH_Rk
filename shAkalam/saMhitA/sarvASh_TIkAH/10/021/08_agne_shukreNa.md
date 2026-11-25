@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "आस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -81,7 +82,12 @@ jāmíṣu ← jāmí- (nominal stem)
 
 vívakṣase ← √vac- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ शु॒क्रेण॑ शो॒चिषो॒रु प्र॑थयसे बृ॒हत् ।  
+अ॒भि॒क्रन्द॑न्वृषायसे॒ वि वो॒ मदे॒ गर्भं॑ दधासि जा॒मिषु॒ विव॑क्षसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

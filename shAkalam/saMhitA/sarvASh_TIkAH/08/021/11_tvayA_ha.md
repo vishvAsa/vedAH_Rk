@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ jánasya ← jána- (nominal stem)
 
 saṁsthé ← saṁsthā́- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वया॑ ह स्विद्यु॒जा व॒यं प्रति॑ श्व॒सन्तं॑ वृषभ ब्रुवीमहि ।  
+सं॒स्थे जन॑स्य॒ गोम॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “rich in cattle; bovine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

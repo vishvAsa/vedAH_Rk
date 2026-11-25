@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः, अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ kavíḥ ← kaví- (nominal stem)
 
 yúvā ← yúvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने बृ॒हद्वयो॒ दधा॑सि देव दा॒शुषे॑ ।  
+क॒विर्गृ॒हप॑ति॒र्युवा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “young; youthful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

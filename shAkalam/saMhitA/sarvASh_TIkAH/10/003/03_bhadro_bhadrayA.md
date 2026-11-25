@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ rúśadbhiḥ ← rúśant- (nominal stem)
 
 várṇaiḥ ← várṇa- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रो भ॒द्रया॒ सच॑मान॒ आगा॒त्स्वसा॑रं जा॒रो अ॒भ्ये॑ति प॒श्चात् ।  
+सु॒प्र॒के॒तैर्द्युभि॑र॒ग्निर्वि॒तिष्ठ॒न्रुश॑द्भि॒र्वर्णै॑र॒भि रा॒मम॑स्थात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

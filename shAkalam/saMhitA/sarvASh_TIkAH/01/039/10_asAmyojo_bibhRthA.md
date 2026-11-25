@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -74,7 +75,12 @@ ná ← ná (invariable)
 
 sr̥jata ← √sr̥j- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असा॒म्योजो॑ बिभृथा सुदान॒वोऽसा॑मि धूतयः॒ शवः॑ ।  
+ऋ॒षि॒द्विषे॑ मरुतः परिम॒न्यव॒ इषुं॒ न सृ॑जत॒ द्विष॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “hostile; hating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

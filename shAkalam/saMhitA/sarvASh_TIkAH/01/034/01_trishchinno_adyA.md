@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ bhavatam ← √bhū- (root)
 
 manīṣíbhiḥ ← manīṣín- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिश्चि॑न्नो अ॒द्या भ॑वतं नवेदसा वि॒भुर्वां॒ याम॑ उ॒त रा॒तिर॑श्विना ।  
+यु॒वोर्हि य॒न्त्रं हि॒म्येव॒ वास॑सोऽभ्यायं॒सेन्या॑ भवतं मनी॒षिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “sage; expert; devout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

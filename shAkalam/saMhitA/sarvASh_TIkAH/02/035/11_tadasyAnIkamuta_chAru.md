@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -89,7 +90,12 @@ ghr̥tám ← ghr̥tá- (nominal stem)
 
 híraṇyavarṇam ← híraṇyavarṇa- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद॒स्यानी॑कमु॒त चारु॒ नामा॑पी॒च्यं॑ वर्धते॒ नप्तु॑र॒पाम् ।  
+यमि॒न्धते॑ युव॒तयः॒ समि॒त्था हिर॑ण्यवर्णं घृ॒तमन्न॑मस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ tiṣṭhase ← √sthā- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने प्र॒दिव॒ आहु॑तं घृ॒तैः सु॑म्ना॒यवः॑ सुष॒मिधा॒ समी॑धिरे ।  
+स वा॑वृधा॒न ओष॑धीभिरुक्षि॒तो॒३॒॑ऽभि ज्रयां॑सि॒ पार्थि॑वा॒ वि ति॑ष्ठसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

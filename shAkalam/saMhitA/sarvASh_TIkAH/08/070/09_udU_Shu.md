@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ mahé ← máh- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदू॒ षु णो॑ वसो म॒हे मृ॒शस्व॑ शूर॒ राध॑से ।  
+उदू॒ षु म॒ह्यै म॑घवन्म॒घत्त॑य॒ उदि॑न्द्र॒ श्रव॑से म॒हे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “great; great; distinguished; much(a); adult; long; high.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

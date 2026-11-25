@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ
@@ -89,7 +90,12 @@ maháḥ ← máh- (nominal stem)
 
 viśvā́yu ← viśvā́yu- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वा यु॒जा नि खि॑द॒त्सूर्य॒स्येन्द्र॑श्च॒क्रं सह॑सा स॒द्य इ॑न्दो ।  
+अधि॒ ष्णुना॑ बृह॒ता वर्त॑मानं म॒हो द्रु॒हो अप॑ वि॒श्वायु॑ धायि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

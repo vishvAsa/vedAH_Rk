@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -60,7 +61,12 @@ pū́ṣan ← pūṣán- (nominal stem)
 
 vidaḥ ← √vid- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि सू॒यव॑सं नय॒ न न॑वज्वा॒रो अध्व॑ने ।  
+पूष॑न्नि॒ह क्रतुं॑ विदः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “find; detect; marry; get; think.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

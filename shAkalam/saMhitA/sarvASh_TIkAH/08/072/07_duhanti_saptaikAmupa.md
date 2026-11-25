@@ -4,6 +4,7 @@ devataa = "अग्निर्हवींषि वा"
 RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्हवींषि वा
@@ -63,7 +64,12 @@ svaré ← svará- (nominal stem)
 
 tīrthé ← tīrthá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दु॒हन्ति॑ स॒प्तैका॒मुप॒ द्वा पञ्च॑ सृजतः ।  
+ती॒र्थे सिन्धो॒रधि॑ स्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
     Vishnu; cry; accent; cry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

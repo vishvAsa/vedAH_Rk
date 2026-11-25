@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ utá ← utá (invariable)
 
 vardhaya ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मां म॑ इन्द्र सुष्टु॒तिं जु॒षस्व॒ प्र सु माम॑व ।  
+उ॒त प्र व॑र्धया म॒तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
     desire; wish; conviction; plan; devotion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ vŕ̥tau ← vŕ̥t- (nominal stem)
 
 yáyoḥ ← yá- (pronoun)  
 {case:GEN, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्राय॑ शिक्ष॒ वरु॑णाय दा॒शुषे॒ या स॒म्राजा॒ मन॑सा॒ न प्र॒युच्छ॑तः ।  
+ययो॒र्धाम॒ धर्म॑णा॒ रोच॑ते बृ॒हद्ययो॑रु॒भे रोद॑सी॒ नाध॑सी॒ वृतौ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,7 +254,6 @@ Thus, nAdhasI is the two, heaven and earth, filled and prospering with gods and 
 
 Despite the apparent meaning of nAdhas (help), we suspect sAyaNa might have captured some aspect of the original meaning.
 </details>
-
 
 <details><summary>Wilson</summary>
 

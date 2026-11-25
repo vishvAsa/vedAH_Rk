@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -68,7 +69,12 @@ manīṣíṇaḥ ← manīṣín- (nominal stem)
 
 śāsate ← √śās- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॒क्षमा॑णम॒व्यये॒ वारे॑ पुनन्ति धर्ण॒सिम् ।  
+दू॒तं न पू॒र्वचि॑त्तय॒ आ शा॑सते मनी॒षिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “sage; expert; devout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

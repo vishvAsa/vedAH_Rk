@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ asmábhyam ← ahám (pronoun)
 
 saṁyátam ← saṁyát- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒ण्वन्तो॒ वरि॑वो॒ गवे॒ऽभ्य॑र्षन्ति सुष्टु॒तिम् ।  
+इळा॑म॒स्मभ्यं॑ सं॒यत॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “continuous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -163,7 +168,6 @@ toward lasting refreshment for us.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -173,7 +177,6 @@ kṛṇvántaḥ and datives of benefit.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -95,7 +96,12 @@ turáḥ ← turá- 1 (nominal stem)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किमाग॑ आस वरुण॒ ज्येष्ठं॒ यत्स्तो॒तारं॒ जिघां॑ससि॒ सखा॑यम् ।  
+प्र तन्मे॑ वोचो दूळभ स्वधा॒वोऽव॑ त्वाने॒ना नम॑सा तु॒र इ॑याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

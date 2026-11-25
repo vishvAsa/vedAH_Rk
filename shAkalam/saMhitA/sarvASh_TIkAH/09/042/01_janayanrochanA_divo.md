@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ háriḥ ← hári- (nominal stem)
 
 vásānaḥ ← √vas- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज॒नय॑न्रोच॒ना दि॒वो ज॒नय॑न्न॒प्सु सूर्य॑म् ।  
+वसा॑नो॒ गा अ॒पो हरिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “reddish brown; yellow; pale; yellow; aureate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

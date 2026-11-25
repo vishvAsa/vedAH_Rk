@@ -4,6 +4,7 @@ devataa = "अक्षकृषिप्रशंसा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकृषिप्रशंसा
@@ -98,7 +99,12 @@ tát ← sá- ~ tá- (pronoun)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒क्षैर्मा दी॑व्यः कृ॒षिमित्कृ॑षस्व वि॒त्ते र॑मस्व ब॒हु मन्य॑मानः ।  
+तत्र॒ गावः॑ कितव॒ तत्र॑ जा॒या तन्मे॒ वि च॑ष्टे सवि॒तायम॒र्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

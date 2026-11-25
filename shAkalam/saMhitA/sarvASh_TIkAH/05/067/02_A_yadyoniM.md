@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "यजत आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -68,7 +69,12 @@ sumnám ← sumná- (nominal stem)
 
 yantám ← √yam- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यद्योनिं॑ हिर॒ण्ययं॒ वरु॑ण॒ मित्र॒ सद॑थः ।  
+ध॒र्तारा॑ चर्षणी॒नां य॒न्तं सु॒म्नं रि॑शादसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “superior; superior; proud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

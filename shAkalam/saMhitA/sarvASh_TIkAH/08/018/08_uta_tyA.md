@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -70,7 +71,12 @@ yuyuyā́tām ← √yu- 2 (root)
 
 srídhaḥ ← srídh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्या दैव्या॑ भि॒षजा॒ शं नः॑ करतो अ॒श्विना॑ ।  
+यु॒यु॒याता॑मि॒तो रपो॒ अप॒ स्रिधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - “failure; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

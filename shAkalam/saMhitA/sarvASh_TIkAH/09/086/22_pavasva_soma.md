@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ sū́ryam ← sū́rya- (nominal stem)
 
 yatáḥ ← √yam- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व सोम दि॒व्येषु॒ धाम॑सु सृजा॒न इ॑न्दो क॒लशे॑ प॒वित्र॒ आ ।  
+सीद॒न्निन्द्र॑स्य ज॒ठरे॒ कनि॑क्रद॒न्नृभि॑र्य॒तः सूर्य॒मारो॑हयो दि॒वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -246,10 +251,6 @@ Purify yourself, Soma, in the heavenly domains, surging into the tub,  into the 
 Sitting in the belly of Indra, ever roaring, guided by the men, you have  made the sun mount in heaven.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although the Pp. analyzes ā́rohayaḥ as containing an augment (ā́/ arohayaḥ), it could equally well have an injunc.: ā́/ rohayaḥ. The latter would fit better with the injunc. ví rocayat in 21a, just disc.; the former with the other augmented forms of this tṛca.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -263,7 +264,6 @@ It may also be that 22 continues the theme of 21: in 21a Soma made the dawns shi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

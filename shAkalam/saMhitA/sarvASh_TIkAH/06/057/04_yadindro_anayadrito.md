@@ -4,6 +4,7 @@ devataa = "इन्द्रापूषणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रापूषणौ
@@ -63,7 +64,12 @@ sácā ← sácā (invariable)
 
 tátra ← tátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदिन्द्रो॒ अन॑य॒द्रितो॑ म॒हीर॒पो वृष॑न्तमः ।  
+तत्र॑ पू॒षाभ॑व॒त्सचा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “jointly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

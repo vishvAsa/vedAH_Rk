@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ syāma ← √as- 1 (root)
 
 té ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मै॒ त्वं सु॑द्रविणो॒ ददा॑शोऽनागा॒स्त्वम॑दिते स॒र्वता॑ता ।  
+यं भ॒द्रेण॒ शव॑सा चो॒दया॑सि प्र॒जाव॑ता॒ राध॑सा॒ ते स्या॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -216,14 +221,6 @@ and whom you will rouse with your beneficial power and with
 generosity that provides offspring—might we be those.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Contra standard tr., I do not take anāgástvam as the obj. of dádāśaḥ, since √dāś seldom takes an object that is not a god, and when it does, it is a ritual offering.
-
-Instead I take it as belonging to a parallel nominal clause, still in the domain of yásmai.
-
-The final phrase that is the ostensible main clause, té syāma “might we be they,” violates number agreement: pl. té cannot properly pick up sg. yásmai. This is a variant of a common tag and feels tacked on.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/15-16.md">
 <details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -231,7 +228,6 @@ The meter here changes to Triṣṭubh, and the intra-hymnic refrain is dropped.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

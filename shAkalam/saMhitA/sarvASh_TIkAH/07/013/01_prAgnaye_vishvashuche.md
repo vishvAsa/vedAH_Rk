@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -80,7 +81,12 @@ vaiśvānarā́ya ← vaiśvānará- (nominal stem)
 
 yátaye ← yáti- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्राग्नये॑ विश्व॒शुचे॑ धियं॒धे॑ऽसुर॒घ्ने मन्म॑ धी॒तिं भ॑रध्वम् ।  
+भरे॑ ह॒विर्न ब॒र्हिषि॑ प्रीणा॒नो वै॑श्वान॒राय॒ यत॑ये मती॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     desire; wish; conviction; plan; devotion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

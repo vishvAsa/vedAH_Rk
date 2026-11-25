@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ gr̥ṇe ← √gr̥̄- 1 (root)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कु॒विन्नो॑ अ॒ग्निरु॒चथ॑स्य॒ वीरस॒द्वसु॑ष्कु॒विद्वसु॑भिः॒ काम॑मा॒वर॑त् ।  
+चो॒दः कु॒वित्तु॑तु॒ज्यात्सा॒तये॒ धियः॒ शुचि॑प्रतीकं॒ तम॒या धि॒या गृ॑णे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

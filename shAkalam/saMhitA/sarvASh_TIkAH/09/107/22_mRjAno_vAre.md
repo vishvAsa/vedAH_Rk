@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ arṣasi ← √arṣ- (root)
 
 góbhiḥ ← gáv- ~ gó- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मृ॒जा॒नो वारे॒ पव॑मानो अ॒व्यये॒ वृषाव॑ चक्रदो॒ वने॑ ।  
+दे॒वानां॑ सोम पवमान निष्कृ॒तं गोभि॑रञ्जा॒नो अ॑र्षसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “run.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -207,7 +212,6 @@ O self-purifying Soma, you rush to the rendezvous with the gods, being  anointed
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/21-22.md">
 <details><summary><h2>21-22 ...{Loading}...</h2></summary>
 
@@ -215,7 +219,6 @@ Lexical cohesion: mṛjyámānaḥ opening 21a echoed by mṛjānáḥ opening 2
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

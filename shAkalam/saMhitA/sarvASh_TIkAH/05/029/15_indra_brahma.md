@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ rátham ← rátha- (nominal stem)
 
 svápāḥ ← svápas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ ब्रह्म॑ क्रि॒यमा॑णा जुषस्व॒ या ते॑ शविष्ठ॒ नव्या॒ अक॑र्म ।  
+वस्त्रे॑व भ॒द्रा सुकृ॑ता वसू॒यू रथं॒ न धीरः॒ स्वपा॑ अतक्षम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “produce; shape; fashion; chisel; invent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

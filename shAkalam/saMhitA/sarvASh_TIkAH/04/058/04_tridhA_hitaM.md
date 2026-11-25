@@ -4,6 +4,7 @@ devataa = "अग्निः सूर्यो वापो वा गाव�
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
@@ -89,7 +90,12 @@ tatakṣuḥ ← √takṣ- (root)
 
 venā́t ← vená- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिधा॑ हि॒तं प॒णिभि॑र्गु॒ह्यमा॑नं॒ गवि॑ दे॒वासो॑ घृ॒तमन्व॑विन्दन् ।  
+इन्द्र॒ एकं॒ सूर्य॒ एकं॑ जजान वे॒नादेकं॑ स्व॒धया॒ निष्ट॑तक्षुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “produce; shape; fashion; chisel; invent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

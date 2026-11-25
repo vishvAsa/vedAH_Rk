@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -98,7 +99,12 @@ u ← u (invariable)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒म्मील्य॒ यद्भुव॑ना प॒र्यस॑र्पत॒ क्व॑ स्वित्ता॒त्या पि॒तरा॑ व आसतुः ।  
+अश॑पत॒ यः क॒रस्नं॑ व आद॒दे यः प्राब्र॑वी॒त्प्रो तस्मा॑ अब्रवीतन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

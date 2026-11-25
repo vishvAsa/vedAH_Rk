@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ píba ← √pā- 2 (root)
 
 sú ← sú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ याहि सु॒ताव॑तो॒ऽस्माकं॑ सुष्टु॒तीरुप॑ ।  
+पिबा॒ सु शि॑प्रि॒न्नन्ध॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “Soma; drink; amṛta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

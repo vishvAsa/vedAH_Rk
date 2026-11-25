@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ síndhavaḥ ← síndhu- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॒ हि धे॒नवो॑ वावशा॒नाः स्मदू॑ध्नीः पी॒पय॑न्त॒ द्युभ॑क्ताः ।  
+प॒रा॒वतः॑ सुम॒तिं भिक्ष॑माणा॒ वि सिन्ध॑वः स॒मया॑ सस्रु॒रद्रि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

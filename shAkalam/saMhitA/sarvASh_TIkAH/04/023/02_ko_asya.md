@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 
 yájyoḥ ← yájyu- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को अ॑स्य वी॒रः स॑ध॒माद॑माप॒ समा॑नंश सुम॒तिभिः॒ को अ॑स्य ।  
+कद॑स्य चि॒त्रं चि॑किते॒ कदू॒ती वृ॒धे भु॑वच्छशमा॒नस्य॒ यज्योः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “worshiping.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

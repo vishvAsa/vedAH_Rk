@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -79,7 +80,12 @@ svarā́jyam ← svarā́jya- (nominal stem)
 
 vásvīḥ ← vásu- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वा॒दोरि॒त्था वि॑षू॒वतो॒ मध्वः॑ पिबन्ति गौ॒र्यः॑ ।  
+या इन्द्रे॑ण स॒याव॑री॒र्वृष्णा॒ मद॑न्ति शो॒भसे॒ वस्वी॒रनु॑ स्व॒राज्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “kingdom; kingship; sovereignty; rājya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

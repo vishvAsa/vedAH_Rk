@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -83,7 +84,12 @@ sumnám ← sumná- (nominal stem)
 
 ukthyàm ← ukthyà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो ध॒र्ता भुव॑नस्य प्र॒जाप॑तिः पि॒शङ्गं॑ द्रा॒पिं प्रति॑ मुञ्चते क॒विः ।  
+वि॒च॒क्ष॒णः प्र॒थय॑न्नापृ॒णन्नु॒र्वजी॑जनत्सवि॒ता सु॒म्नमु॒क्थ्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “applaudable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

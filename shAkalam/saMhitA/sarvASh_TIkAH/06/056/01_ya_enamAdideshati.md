@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -60,7 +61,12 @@ ná ← ná (invariable)
 
 téna ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य ए॑नमा॒दिदे॑शति कर॒म्भादिति॑ पू॒षण॑म् ।  
+न तेन॑ दे॒व आ॒दिशे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     give; produce; designate; indicate; predict.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

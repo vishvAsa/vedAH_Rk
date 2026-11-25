@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ syāma ← √as- 1 (root)
 
 tárantaḥ ← √tr̥̄- 1 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते घेद॑ग्ने स्वा॒ध्योऽहा॒ विश्वा॑ नृ॒चक्ष॑सः ।  
+तर॑न्तः स्याम दु॒र्गहा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “danger; abyss; wilderness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

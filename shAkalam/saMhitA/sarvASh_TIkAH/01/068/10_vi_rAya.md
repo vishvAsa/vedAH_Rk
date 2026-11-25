@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -55,7 +56,11 @@ pipéśa ← √piś- 1 (root)
 
 stŕ̥bhiḥ ← stár- ~ tár- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि राय॑ और्णो॒द्दुरः॑ पुरु॒क्षुः पि॒पेश॒ नाकं॒ स्तृभि॒र्दमू॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +123,6 @@ _________
 - “master.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

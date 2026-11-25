@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ pávasva ← √pū- (root)
 
 viśvamejaya ← viśvamejaya- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं स॑मु॒द्रिया॑ अ॒पो॑ऽग्रि॒यो वाच॑ ई॒रय॑न् ।  
+पव॑स्व विश्वमेजय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -140,10 +145,6 @@ You—going at the forefront, rousing the waters of the sea and the  speeches—
 purify yourself, o you who set everything in motion.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Because of the accentual difference between vācáḥ in 25a and vā́caḥ in 26b, we must construe the two superficially near-identical phrases vācó agriyáḥ and agriyó vā́caḥ quite differently. The first is a single constituent with dependent gen. vācáḥ, but in the 2nd agriyáḥ and acc pl. vā́caḥ belong to different constituents, despite their adjacency: vā́caḥ is the (or rather, an) obj. of īráyan.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -151,7 +152,6 @@ This tṛca shows more signs of unity than others in this hymn, esp. in the 1st 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

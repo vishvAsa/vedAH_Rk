@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेणुर्वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ ubhé ← ubhá- (pronoun)
 
 víśau ← víś- (nominal stem)  
 {case:ACC, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स मृ॒ज्यमा॑नो द॒शभिः॑ सु॒कर्म॑भिः॒ प्र म॑ध्य॒मासु॑ मा॒तृषु॑ प्र॒मे सचा॑ ।  
+व्र॒तानि॑ पा॒नो अ॒मृत॑स्य॒ चारु॑ण उ॒भे नृ॒चक्षा॒ अनु॑ पश्यते॒ विशौ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

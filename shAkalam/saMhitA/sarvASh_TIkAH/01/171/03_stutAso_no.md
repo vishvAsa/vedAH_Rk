@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -83,7 +84,12 @@ marutaḥ ← marút- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒तासो॑ नो म॒रुतो॑ मृळयन्तू॒त स्तु॒तो म॒घवा॒ शम्भ॑विष्ठः ।  
+ऊ॒र्ध्वा नः॑ सन्तु को॒म्या वना॒न्यहा॑नि॒ विश्वा॑ मरुतो जिगी॒षा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “victory; triumph.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

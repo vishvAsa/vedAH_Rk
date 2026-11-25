@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sthātré ← sthātrá- (nominal stem)
 
 víkr̥tāni ← √kr̥- (root)  
 {case:NOM, gender:N, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा॒कं॒जानां॑ स॒प्तथ॑माहुरेक॒जं षळिद्य॒मा ऋष॑यो देव॒जा इति॑ ।  
+तेषा॑मि॒ष्टानि॒ विहि॑तानि धाम॒शः स्था॒त्रे रे॑जन्ते॒ विकृ॑तानि रूप॒शः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

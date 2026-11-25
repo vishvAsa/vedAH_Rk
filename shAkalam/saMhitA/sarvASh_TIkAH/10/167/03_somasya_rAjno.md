@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्तदेवताः"
 RShiH = "विश्वामित्रजमदग्नी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तदेवताः
@@ -83,7 +84,12 @@ kaláśān ← kaláśa- (nominal stem)
 
 vídhātar ← vidhātár- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोम॑स्य॒ राज्ञो॒ वरु॑णस्य॒ धर्म॑णि॒ बृह॒स्पते॒रनु॑मत्या उ॒ शर्म॑णि ।  
+तवा॒हम॒द्य म॑घव॒न्नुप॑स्तुतौ॒ धात॒र्विधा॑तः क॒लशाँ॑ अभक्षयम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “eat; feed; administer; partake; feed; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

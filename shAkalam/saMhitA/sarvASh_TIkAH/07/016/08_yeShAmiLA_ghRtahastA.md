@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ naḥ ← ahám (pronoun)
 
 yácha ← √yam- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येषा॒मिळा॑ घृ॒तह॑स्ता दुरो॒ण आँ अपि॑ प्रा॒ता नि॒षीद॑ति ।  
+ताँस्त्रा॑यस्व सहस्य द्रु॒हो नि॒दो यच्छा॑ नः॒ शर्म॑ दीर्घ॒श्रुत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “listening.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

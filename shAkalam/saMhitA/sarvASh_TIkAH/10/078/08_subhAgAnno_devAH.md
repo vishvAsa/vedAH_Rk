@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ sánti ← √as- 1 (root)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒भा॒गान्नो॑ देवाः कृणुता सु॒रत्ना॑न॒स्मान्त्स्तो॒तॄन्म॑रुतो वावृधा॒नाः ।  
+अधि॑ स्तो॒त्रस्य॑ स॒ख्यस्य॑ गात स॒नाद्धि वो॑ रत्न॒धेया॑नि॒ सन्ति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -86,7 +87,12 @@ vr̥ścā́t ← √vr̥śc- (root)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वष्टा॑ मा॒या वे॑द॒पसा॑म॒पस्त॑मो॒ बिभ्र॒त्पात्रा॑ देव॒पाना॑नि॒ शन्त॑मा ।  
+शिशी॑ते नू॒नं प॑र॒शुं स्वा॑य॒सं येन॑ वृ॒श्चादेत॑शो॒ ब्रह्म॑ण॒स्पतिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “Brahmaṇaspati.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

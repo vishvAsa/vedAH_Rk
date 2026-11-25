@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -72,7 +73,12 @@ sám ← sám (invariable)
 
 vájram ← vájra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समु॒ त्ये म॑ह॒तीर॒पः सं क्षो॒णी समु॒ सूर्य॑म् ।  
+सं वज्रं॑ पर्व॒शो द॑धुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -203,7 +208,6 @@ together the mace, joint by joint.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/22-23.md">
 <details><summary><h2>22-23 ...{Loading}...</h2></summary>
 
@@ -211,7 +215,6 @@ The insistently repeated sám in vs. 22 (4x in 3 pādas) is complemented by its 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

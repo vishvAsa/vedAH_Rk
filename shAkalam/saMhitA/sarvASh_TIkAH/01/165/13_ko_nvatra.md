@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -89,7 +90,12 @@ návedāḥ ← návedas- (nominal stem)
 
 r̥tā́nām ← r̥tá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को न्वत्र॑ मरुतो मामहे वः॒ प्र या॑तन॒ सखीँ॒रच्छा॑ सखायः ।  
+मन्मा॑नि चित्रा अपिवा॒तय॑न्त ए॒षां भू॑त॒ नवे॑दा म ऋ॒ताना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

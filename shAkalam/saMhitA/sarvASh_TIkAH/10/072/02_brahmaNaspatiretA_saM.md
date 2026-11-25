@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -71,7 +72,12 @@ ajāyata ← √janⁱ- (root)
 
 sát ← √as- 1 (root)  
 {case:NOM, gender:N, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रह्म॑ण॒स्पति॑रे॒ता सं क॒र्मार॑ इवाधमत् ।  
+दे॒वानां॑ पू॒र्व्ये यु॒गेऽस॑तः॒ सद॑जायत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

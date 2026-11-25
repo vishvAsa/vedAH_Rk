@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ marmr̥jyáte ← √mr̥j- (root)
 
 yádi ← yádi (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒यं क॒विर्वि॑ध॒र्तरि॒ विप्रा॑य॒ रत्न॑मिच्छति ।  
+यदी॑ मर्मृ॒ज्यते॒ धियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
     knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

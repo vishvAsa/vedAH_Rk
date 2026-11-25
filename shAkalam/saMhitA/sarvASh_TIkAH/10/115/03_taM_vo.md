@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उपस्तुतो वार्ष्टिहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ ná ← ná (invariable)
 
 sarájantam ← sarájanta- (?) (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वो॒ विं न द्रु॒षदं॑ दे॒वमन्ध॑स॒ इन्दुं॒ प्रोथ॑न्तं प्र॒वप॑न्तमर्ण॒वम् ।  
+आ॒सा वह्निं॒ न शो॒चिषा॑ विर॒प्शिनं॒ महि॑व्रतं॒ न स॒रज॑न्त॒मध्व॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     distance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

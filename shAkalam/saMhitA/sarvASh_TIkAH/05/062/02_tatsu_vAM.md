@@ -5,13 +5,13 @@ RShiH = "श्रुतिविदात्रेयः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
 - ऋषिः - श्रुतिविदात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -91,7 +91,12 @@ vām ← tvám (pronoun)
 
 vavarta ← √vr̥t- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्सु वां॑ मित्रावरुणा महि॒त्वमी॒र्मा त॒स्थुषी॒रह॑भिर्दुदुह्रे ।  
+विश्वाः॑ पिन्वथः॒ स्वस॑रस्य॒ धेना॒ अनु॑ वा॒मेकः॑ प॒विरा व॑वर्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +229,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -275,8 +279,6 @@ Varuna-Mitra, diese eure Grösse, die nutzten täglich aus, die euch zur Hand st
 Все потоки с пастбища вы делаете набухшими.  
 За вами двоими катится один обод.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "ऐन्द्रो वसुक्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऐन्द्रो वसुक्रः
@@ -86,7 +87,12 @@ tát ← sá- ~ tá- (pronoun)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वास॑ आयन्पर॒शूँर॑बिभ्र॒न्वना॑ वृ॒श्चन्तो॑ अ॒भि वि॒ड्भिरा॑यन् ।  
+नि सु॒द्र्वं१॒॑ दध॑तो व॒क्षणा॑सु॒ यत्रा॒ कृपी॑ट॒मनु॒ तद्द॑हन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     distress; destroy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

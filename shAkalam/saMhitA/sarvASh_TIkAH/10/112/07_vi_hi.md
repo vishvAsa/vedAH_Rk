@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नभःप्रभेदनो वैरूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sávanā ← sávana- 1 (nominal stem)
 
 téṣu ← sá- ~ tá- (pronoun)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि हि त्वामि॑न्द्र पुरु॒धा जना॑सो हि॒तप्र॑यसो वृषभ॒ ह्वय॑न्ते ।  
+अ॒स्माकं॑ ते॒ मधु॑मत्तमानी॒मा भु॑व॒न्त्सव॑ना॒ तेषु॑ हर्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “delight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

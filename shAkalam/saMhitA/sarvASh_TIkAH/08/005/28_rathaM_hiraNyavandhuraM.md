@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -54,7 +55,12 @@ hí ← hí (invariable)
 
 sthā́thaḥ ← √sthā- (root)  
 {number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रथं॒ हिर॑ण्यवन्धुरं॒ हिर॑ण्याभीशुमश्विना ।  
+आ हि स्थाथो॑ दिवि॒स्पृश॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “heavenward.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

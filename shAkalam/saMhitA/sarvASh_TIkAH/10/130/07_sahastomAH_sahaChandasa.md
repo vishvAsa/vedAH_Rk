@@ -4,6 +4,7 @@ devataa = "भाववृत्तं"
 RShiH = "यज्ञः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -77,7 +78,12 @@ raśmī́n ← raśmí- (nominal stem)
 
 rathyàḥ ← rathī́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्तो॑माः स॒हछ॑न्दस आ॒वृतः॑ स॒हप्र॑मा॒ ऋष॑यः स॒प्त दैव्याः॑ ।  
+पूर्वे॑षां॒ पन्था॑मनु॒दृश्य॒ धीरा॑ अ॒न्वाले॑भिरे र॒थ्यो॒३॒॑ न र॒श्मीन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “beam; rein; sunbeam; shininess; cord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

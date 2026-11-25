@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ nís ← nís (invariable)
 
 párvatasya ← párvata- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+निरि॑न्द्र बृह॒तीभ्यो॑ वृ॒त्रं धनु॑भ्यो अस्फुरः ।  
+निरर्बु॑दस्य॒ मृग॑यस्य मा॒यिनो॒ निः पर्व॑तस्य॒ गा आ॑जः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “drive; expel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -200,7 +205,6 @@ cows of Parvata.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/19-20.md">
 <details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -208,7 +212,6 @@ The preverb níḥ is the theme of this pragātha, with seven occurrences, six p
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

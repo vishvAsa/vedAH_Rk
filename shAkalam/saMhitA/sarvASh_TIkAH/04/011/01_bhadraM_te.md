@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ dr̥śé ← √dr̥ś- (root)
 
 rūpé ← rūpá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रं ते॑ अग्ने सहसि॒न्ननी॑कमुपा॒क आ रो॑चते॒ सूर्य॑स्य ।  
+रुश॑द्दृ॒शे द॑दृशे नक्त॒या चि॒दरू॑क्षितं दृ॒श आ रू॒पे अन्न॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

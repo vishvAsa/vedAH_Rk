@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ mádhumān ← mádhumant- (nominal stem)
 
 vāyáve ← vāyú- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒त इन्द्रा॑य॒ विष्ण॑वे॒ सोमः॑ क॒लशे॑ अक्षरत् ।  
+मधु॑माँ अस्तु वा॒यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
     draft; vāyu \[word\]; Vāyu; Marut.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -152,14 +157,12 @@ Let it be honeyed for Vāyu.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular signs of unity, though the dat. índrāya in 2b anticipates the three datives índrāya víṣṇave … vāyáve in vs. 3.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

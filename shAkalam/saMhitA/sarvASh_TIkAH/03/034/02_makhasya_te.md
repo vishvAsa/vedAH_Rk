@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ utá ← utá (invariable)
 
 viśā́m ← víś- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒खस्य॑ ते तवि॒षस्य॒ प्र जू॒तिमिय॑र्मि॒ वाच॑म॒मृता॑य॒ भूष॑न् ।  
+इन्द्र॑ क्षिती॒नाम॑सि॒ मानु॑षीणां वि॒शां दैवी॑नामु॒त पू॑र्व॒यावा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “traveler.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

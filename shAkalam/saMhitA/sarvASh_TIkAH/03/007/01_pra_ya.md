@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ prayákṣe ← √yakṣ- (root)
 
 sarsrāte ← √sr̥- 2 (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र य आ॒रुः शि॑तिपृ॒ष्ठस्य॑ धा॒सेरा मा॒तरा॑ विविशुः स॒प्त वाणीः॑ ।  
+प॒रि॒क्षिता॑ पि॒तरा॒ सं च॑रेते॒ प्र स॑र्स्राते दी॒र्घमायुः॑ प्र॒यक्षे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - \[verb noun\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

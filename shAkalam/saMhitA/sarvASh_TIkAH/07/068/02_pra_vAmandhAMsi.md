@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -75,7 +76,12 @@ naḥ ← ahám (pronoun)
 
 tirás ← tirás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वा॒मन्धां॑सि॒ मद्या॑न्यस्थु॒ररं॑ गन्तं ह॒विषो॑ वी॒तये॑ मे ।  
+ति॒रो अ॒र्यो हव॑नानि श्रु॒तं नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

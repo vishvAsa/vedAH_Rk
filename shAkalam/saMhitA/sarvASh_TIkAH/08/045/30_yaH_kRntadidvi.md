@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ góbhyaḥ ← gáv- ~ gó- (nominal stem)
 
 níretave ← √i- 1 (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यः कृ॒न्तदिद्वि यो॒न्यं त्रि॒शोका॑य गि॒रिं पृ॒थुम् ।  
+गोभ्यो॑ गा॒तुं निरे॑तवे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “issue; exit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

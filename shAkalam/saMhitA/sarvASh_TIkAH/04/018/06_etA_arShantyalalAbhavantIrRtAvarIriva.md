@@ -4,6 +4,7 @@ devataa = "वामदेवः"
 RShiH = "अदितिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वामदेवः
@@ -83,7 +84,12 @@ paridhím ← paridhí- (nominal stem)
 
 rujanti ← √ruj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ता अ॑र्षन्त्यलला॒भव॑न्तीरृ॒ताव॑रीरिव सं॒क्रोश॑मानाः ।  
+ए॒ता वि पृ॑च्छ॒ किमि॒दं भ॑नन्ति॒ कमापो॒ अद्रिं॑ परि॒धिं रु॑जन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “break; bend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -224,12 +229,6 @@ Ask them what is this they say: i.e., they are proclaiming the greatness of **In
 Ask them! What is this they are saying? What rock, what barrier are the  waters battering?
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As suggested in the published introduction, the (real) waters in the amniotic sac that “break” right before birth and the (mythological) waters confined by Vṛtra and released by Indra are conflated here. Indra may be speaking from within the womb about the waters there battering the womb itself for release, though the waters in the Vṛtra myth would not be far from the audience’s mind. If Indra the fetus is immersed in these amniotic fluids, their sloshing sounds would surround him -- and it would be appropriate to ask his mother what they are saying.
-
-The simile in b, ṛtā́varīr iva saṃkróśamāṇāḥ “like truthful women together shouting their witness” may have a quasi-legal resonance. The root √kruś is later used for raising a hue and cry on witnessing a crime (vel sim.), such as a Rākṣasa abduction (see my Sacr.Wife 233). Configuring the waters as truthful and articulate witnesses in this pāda leads directly to the suggestion in the next pāda that they should be asked what they are saying.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
 <details><summary><h2>06-09 ...{Loading}...</h2></summary>
 
@@ -245,7 +244,6 @@ The responsive phrases kím … bhananti (6c) and kím … bhananta (7a) provide
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

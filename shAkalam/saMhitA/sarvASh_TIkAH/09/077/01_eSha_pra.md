@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ páyasā ← páyas- (nominal stem)
 
 vāśrā́ḥ ← vāśrá- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष प्र कोशे॒ मधु॑माँ अचिक्रद॒दिन्द्र॑स्य॒ वज्रो॒ वपु॑षो॒ वपु॑ष्टरः ।  
+अ॒भीमृ॒तस्य॑ सु॒दुघा॑ घृत॒श्चुतो॑ वा॒श्रा अ॑र्षन्ति॒ पय॑सेव धे॒नवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “cow; dhenu \[word\]; milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

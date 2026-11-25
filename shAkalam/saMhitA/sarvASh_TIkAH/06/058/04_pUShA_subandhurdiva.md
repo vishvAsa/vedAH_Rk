@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -83,7 +84,12 @@ sváñcam ← sváñc- (nominal stem)
 
 tavásam ← tavás- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒षा सु॒बन्धु॑र्दि॒व आ पृ॑थि॒व्या इ॒ळस्पति॑र्म॒घवा॑ द॒स्मव॑र्चाः ।  
+यं दे॒वासो॒ अद॑दुः सू॒र्यायै॒ कामे॑न कृ॒तं त॒वसं॒ स्वञ्च॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -89,7 +90,12 @@ iva ← iva (invariable)
 
 vā́taḥ ← vā́ta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप॒ ज्योति॑षा॒ तमो॑ अ॒न्तरि॑क्षादु॒द्नः शीपा॑लमिव॒ वात॑ आजत् ।  
+बृह॒स्पति॑रनु॒मृश्या॑ व॒लस्या॒भ्रमि॑व॒ वात॒ आ च॑क्र॒ आ गाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

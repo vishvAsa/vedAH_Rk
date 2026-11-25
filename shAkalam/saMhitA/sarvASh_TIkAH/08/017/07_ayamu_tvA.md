@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ sarpatu ← √sr̥p- (root)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यमु॑ त्वा विचर्षणे॒ जनी॑रिवा॒भि संवृ॑तः ।  
+प्र सोम॑ इन्द्र सर्पतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “crawl; spread; wander.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

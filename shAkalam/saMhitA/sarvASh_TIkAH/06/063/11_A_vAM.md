@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "एकपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -44,7 +45,11 @@ vām ← tvám (pronoun)
 
 váriman ← váriman- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॑ सु॒म्ने वरि॑मन्त्सू॒रिभिः॑ ष्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -90,7 +95,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ budhnéṣu ← budhná- (nominal stem)
 
 budhnyàḥ ← budhnyà- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नो॒ नक्त॑म॒पां वृ॑षण्वसू॒ सूर्या॒मासा॒ सद॑नाय सध॒न्या॑ ।  
+सचा॒ यत्साद्ये॑षा॒महि॑र्बु॒ध्नेषु॑ बु॒ध्न्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

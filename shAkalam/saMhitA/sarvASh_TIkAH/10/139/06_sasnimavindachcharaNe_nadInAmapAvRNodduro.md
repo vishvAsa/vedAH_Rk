@@ -4,6 +4,7 @@ devataa = "विश्वावसुः"
 RShiH = "विश्वावसुर्देवगन्धर्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वावसुः
@@ -86,7 +87,12 @@ jānāt ← √jñā- (root)
 
 pári ← pári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सस्नि॑मविन्द॒च्चर॑णे न॒दीना॒मपा॑वृणो॒द्दुरो॒ अश्म॑व्रजानाम् ।  
+प्रासां॑ गन्ध॒र्वो अ॒मृता॑नि वोच॒दिन्द्रो॒ दक्षं॒ परि॑ जानाद॒हीना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

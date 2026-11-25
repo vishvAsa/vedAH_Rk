@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ vā́jeṣu ← vā́ja- (nominal stem)
 
 vājínam ← vājín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ ध॒र्तार॑मो॒ण्यो॒३॑ः॒ पव॑मान स्व॒र्दृश॑म् ।  
+हि॒न्वे वाजे॑षु वा॒जिन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “victorious; triumphant; strong; gainful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -161,10 +166,6 @@ You, o self-purifying one, who look like the sun, the upholder of  (Indra’s?) 
 do I impel—the prize-seeker to the prizes.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Geldner (n. 11a) I tentatively assume that the arms (oṇyòḥ) are Indra’s, since he was mentioned in the preceding vs. But as in IX.16.1 they might belong to the officiant.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -172,7 +173,6 @@ Again, no particular signs of unity.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

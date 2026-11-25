@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कलिः प्रगाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ pári ← pári (invariable)
 
 vr̥trahā́ ← vr̥trahán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कदू॒ न्व१॒॑स्याकृ॑त॒मिन्द्र॑स्यास्ति॒ पौंस्य॑म् ।  
+केनो॒ नु कं॒ श्रोम॑तेन॒ न शु॑श्रुवे ज॒नुषः॒ परि॑ वृत्र॒हा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “Indra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

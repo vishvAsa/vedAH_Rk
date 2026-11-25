@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ devaíḥ ← devá- (nominal stem)
 
 satsi ← √sad- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यज॑मानाय सुन्व॒त आग्ने॑ सु॒वीर्यं॑ वह ।  
+दे॒वैरा स॑त्सि ब॒र्हिषि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “Barhis; barhis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ suprayásā ← suprayás- (nominal stem)
 
 sutébhiḥ ← √su- (root)  
 {case:INS, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ ह॒ रत्नं॒ वरु॑णा॒ धेष्ठे॒त्था नृभ्यः॑ शशमा॒नेभ्य॒स्ता ।  
+यदी॒ सखा॑या स॒ख्याय॒ सोमैः॑ सु॒तेभिः॑ सुप्र॒यसा॑ मा॒दयै॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

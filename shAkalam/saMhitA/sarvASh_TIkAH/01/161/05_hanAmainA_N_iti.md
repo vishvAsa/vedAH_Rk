@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -92,7 +93,12 @@ nā́mabhiḥ ← nā́man- (nominal stem)
 
 sparat ← √spr̥- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हना॑मैनाँ॒ इति॒ त्वष्टा॒ यदब्र॑वीच्चम॒सं ये दे॑व॒पान॒मनि॑न्दिषुः ।  
+अ॒न्या नामा॑नि कृण्वते सु॒ते सचाँ॑ अ॒न्यैरे॑नान्क॒न्या॒३॒॑ नाम॑भिः स्परत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - \[verb\], singular, Aorist conj./subj.
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

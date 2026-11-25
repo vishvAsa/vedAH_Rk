@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ stávā ← √stu- (root)
 
 sū́ryasya ← sū́rya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तवा॒ नु त॑ इन्द्र पू॒र्व्या म॒हान्यु॒त स्त॑वाम॒ नूत॑ना कृ॒तानि॑ ।  
+स्तवा॒ वज्रं॑ बा॒ह्वोरु॒शन्तं॒ स्तवा॒ हरी॒ सूर्य॑स्य के॒तू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     signal; signal; luminosity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

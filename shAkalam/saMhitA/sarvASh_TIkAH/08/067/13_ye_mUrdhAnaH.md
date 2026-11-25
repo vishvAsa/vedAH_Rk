@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -54,7 +55,12 @@ rákṣante ← √rakṣⁱ- (root)
 
 vratā́ ← vratá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये मू॒र्धानः॑ क्षिती॒नामद॑ब्धासः॒ स्वय॑शसः ।  
+व्र॒ता रक्ष॑न्ते अ॒द्रुहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “friendly; benign.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -148,7 +153,6 @@ They who, as heads of the settled peoples, untrickable, self-glorious, without d
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/067/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -156,7 +160,6 @@ The correlative of yé in 13 is té in 14, but this unremarkable pairing actuall
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

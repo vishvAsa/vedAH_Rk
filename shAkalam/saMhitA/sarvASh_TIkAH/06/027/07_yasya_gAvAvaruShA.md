@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ daivavātā́ya ← daivavātá- (nominal stem)
 
 vr̥cī́vataḥ ← vr̥cī́vant- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॒ गावा॑वरु॒षा सू॑यव॒स्यू अ॒न्तरू॒ षु चर॑तो॒ रेरि॑हाणा ।  
+स सृञ्ज॑याय तु॒र्वशं॒ परा॑दाद्वृ॒चीव॑तो दैववा॒ताय॒ शिक्ष॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “help; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ arcata ← √r̥c- (root)
 
 stotŕ̥bhyaḥ ← stotár- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ते॒ दक्षं॒ वि रो॑च॒ना दध॒द्रत्ना॒ वि दा॒शुषे॑ ।  
+स्तो॒तृभ्य॒ इन्द्र॑मर्चत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “sing; worship; honor; praise; welcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,16 +183,6 @@ _________
 (All of you,) recite to Indra for the praisers.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I do not understand Geldner’s assertion (n. to 26a), that this verse only makes sense if Agni is the speaker, a view shared by Oldenberg I certainly agree that Agni is the subject: I take 26ab as dependent on 25c, where Agni is the 2nd ps. addressee, and take the participle dádhat of b with the objects found in both a and b, with slightly different senses (‘diffuse’ in a, ‘distribute’ in b, both with preverb ví).
-
-The VP “diffuse your skill” refers to Agni’s sending his light upward and outward; the “skill” in question is preumably his ritual skill, his ability to conduct the oblations to heaven.
-
-The 2nd pl. impv. in c must be addressed to the whole set of ritual participants.
-
-Geldner insists (n. to 26c) that stotṛ́bhyaḥ must be read with pāda b, parallel to dāśúṣe “die Kleinode verteile für den Opfernden, für die Sänger,” but the rigid parallelism of the c pādas in this tṛca suggests rather that it belongs with its pāda. Presumably the full set of participants are chanting on behalf of the subset of “praisers.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -195,7 +190,6 @@ The c pādas of all three verses in this tṛca have the same structure: dat. pl
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

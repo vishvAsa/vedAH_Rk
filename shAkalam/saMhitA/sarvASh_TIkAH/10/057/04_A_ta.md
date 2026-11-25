@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -66,7 +67,12 @@ jyók ← jyók (invariable)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त॑ एतु॒ मनः॒ पुनः॒ क्रत्वे॒ दक्षा॑य जी॒वसे॑ ।  
+ज्योक्च॒ सूर्यं॑ दृ॒शे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
     know; know; understand; understand; follow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

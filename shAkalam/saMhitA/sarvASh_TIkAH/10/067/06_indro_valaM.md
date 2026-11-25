@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -83,7 +84,12 @@ gā́ḥ ← gáv- ~ gó- (nominal stem)
 
 paṇím ← paṇí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ व॒लं र॑क्षि॒तारं॒ दुघा॑नां क॒रेणे॑व॒ वि च॑कर्ता॒ रवे॑ण ।  
+स्वेदा॑ञ्जिभिरा॒शिर॑मि॒च्छमा॒नोऽरो॑दयत्प॒णिमा गा अ॑मुष्णात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “rob; remove; steal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

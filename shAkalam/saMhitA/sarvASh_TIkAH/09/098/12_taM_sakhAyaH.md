@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अंबरीष ऋजिश्वा च"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -65,7 +66,12 @@ sanéma ← √sanⁱ- (root)
 
 vā́japastyam ← vā́japastya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं स॑खायः पुरो॒रुचं॑ यू॒यं व॒यं च॑ सू॒रयः॑ ।  
+अ॒श्याम॒ वाज॑गन्ध्यं स॒नेम॒ वाज॑पस्त्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “river; dwelling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

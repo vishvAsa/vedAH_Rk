@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ práti ← práti (invariable)
 
 uśán ← √vaś- (root)  
 {tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा॒दय॑स्व॒ हरि॑भि॒र्ये त॑ इन्द्र॒ वि ष्य॑स्व॒ शिप्रे॒ वि सृ॑जस्व॒ धेने॑ ।  
+आ त्वा॑ सुशिप्र॒ हर॑यो वहन्तू॒शन्ह॒व्यानि॒ प्रति॑ नो जुषस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

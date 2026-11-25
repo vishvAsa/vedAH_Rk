@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -80,7 +81,12 @@ prathamám ← prathamá- (nominal stem)
 
 yajñásya ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तं शंस॑न्त ऋ॒जु दीध्या॑ना दि॒वस्पु॒त्रासो॒ असु॑रस्य वी॒राः ।  
+विप्रं॑ प॒दमङ्गि॑रसो॒ दधा॑ना य॒ज्ञस्य॒ धाम॑ प्रथ॒मं म॑नन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

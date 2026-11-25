@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ vaḥ ← tvám (pronoun)
 
 várivaḥ ← várivas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को व॑स्त्रा॒ता व॑सवः॒ को व॑रू॒ता द्यावा॑भूमी अदिते॒ त्रासी॑थां नः ।  
+सही॑यसो वरुण मित्र॒ मर्ता॒त्को वो॑ऽध्व॒रे वरि॑वो धाति देवाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

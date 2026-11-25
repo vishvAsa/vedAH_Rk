@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -97,7 +97,12 @@ maṁhánā ← maṁhánā- (nominal stem)
 
 pūrváhūtau ← pūrváhūti- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा व॑ह॒ योक्षभि॒रवा॒तोषो॒ वरं॒ वह॑सि॒ जोष॒मनु॑ ।  
+त्वं दि॑वो दुहित॒र्या ह॑ दे॒वी पू॒र्वहू॑तौ मं॒हना॑ दर्श॒ता भूः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +244,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -295,8 +299,6 @@ Die, Uschas, du mit Stieren sicher fährest, fahr Reichthum uns herbei nach unse
 Ты, о дочь неба, (та,) что богиня,  
 Бываешь прекрасной в (своей) щедрости при утреннем призыве.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

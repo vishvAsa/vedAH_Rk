@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ
@@ -80,7 +81,12 @@ pr̥thivī́m ← pr̥thivī́- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑सोमा वा॒सय॑थ उ॒षास॒मुत्सूर्यं॑ नयथो॒ ज्योति॑षा स॒ह ।  
+उप॒ द्यां स्क॒म्भथुः॒ स्कम्भ॑ने॒नाप्र॑थतं पृथि॒वीं मा॒तरं॒ वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “apart; away; away.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

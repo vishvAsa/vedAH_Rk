@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ vidátheṣu ← vidátha- (nominal stem)
 
 voce ← √vac- (root)  
 {number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न्यु॑ प्रि॒यो मनु॑षः सादि॒ होता॒ नास॑त्या॒ यो यज॑ते॒ वन्द॑ते च ।  
+अ॒श्नी॒तं मध्वो॑ अश्विना उपा॒क आ वां॑ वोचे वि॒दथे॑षु॒ प्रय॑स्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “offering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -95,7 +96,12 @@ syāma ← √as- 1 (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा सा ते॑ अ॒स्मत्सु॑म॒तिर्वि द॑स॒द्वाज॑प्रमहः॒ समिषो॑ वरन्त ।  
+आ नो॑ भज मघव॒न्गोष्व॒र्यो मंहि॑ष्ठास्ते सध॒मादः॑ स्याम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

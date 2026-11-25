@@ -4,6 +4,7 @@ devataa = "अग्निरग्निरौषस्योवा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निरौषस्योवा
@@ -86,7 +87,12 @@ návāsu ← náva- 2 (nominal stem)
 
 prasū́ṣu ← prasū́- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धन्व॒न्त्स्रोतः॑ कृणुते गा॒तुमू॒र्मिं शु॒क्रैरू॒र्मिभि॑र॒भि न॑क्षति॒ क्षाम् ।  
+विश्वा॒ सना॑नि ज॒ठरे॑षु धत्ते॒ऽन्तर्नवा॑सु चरति प्र॒सूषु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “mother; grass.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

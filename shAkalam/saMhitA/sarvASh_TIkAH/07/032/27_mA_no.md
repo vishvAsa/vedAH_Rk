@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vayám ← ahám (pronoun)
 
 tarāmasi ← √tr̥̄- 1 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॒ अज्ञा॑ता वृ॒जना॑ दुरा॒ध्यो॒३॒॑ माशि॑वासो॒ अव॑ क्रमुः ।  
+त्वया॑ व॒यं प्र॒वतः॒ शश्व॑तीर॒पोऽति॑ शूर तरामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

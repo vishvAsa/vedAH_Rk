@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -86,7 +87,12 @@ vartayantu ← √vr̥t- (root)
 
 víbhvā ← víbhvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋभु॑क्षणो वाजा मा॒दय॑ध्वम॒स्मे न॑रो मघवानः सु॒तस्य॑ ।  
+आ वो॒ऽर्वाचः॒ क्रत॑वो॒ न या॒तां विभ्वो॒ रथं॒ नर्यं॑ वर्तयन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

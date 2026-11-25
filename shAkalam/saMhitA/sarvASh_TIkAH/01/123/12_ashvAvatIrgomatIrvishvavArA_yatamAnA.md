@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ uṣā́saḥ ← uṣás- (nominal stem)
 
 váhamānāḥ ← √vah- (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वा॑वती॒र्गोम॑तीर्वि॒श्ववा॑रा॒ यत॑माना र॒श्मिभिः॒ सूर्य॑स्य ।  
+परा॑ च॒ यन्ति॒ पुन॒रा च॑ यन्ति भ॒द्रा नाम॒ वह॑माना उ॒षासः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “Ushas; dawn; uṣas \[word\]; morning.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

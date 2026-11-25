@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ ní ← ní (invariable)
 
 té ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पृथ॒क्प्राय॑न्प्रथ॒मा दे॒वहू॑त॒योऽकृ॑ण्वत श्रव॒स्या॑नि दु॒ष्टरा॑ ।  
+न ये शे॒कुर्य॒ज्ञियां॒ नाव॑मा॒रुह॑मी॒र्मैव ते न्य॑विशन्त॒ केप॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “quaking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

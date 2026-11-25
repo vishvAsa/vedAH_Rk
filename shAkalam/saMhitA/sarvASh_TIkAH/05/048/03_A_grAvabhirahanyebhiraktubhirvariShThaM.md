@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिभानुरात्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ vartayan ← √vr̥t- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ग्राव॑भिरह॒न्ये॑भिर॒क्तुभि॒र्वरि॑ष्ठं॒ वज्र॒मा जि॑घर्ति मा॒यिनि॑ ।  
+श॒तं वा॒ यस्य॑ प्र॒चर॒न्त्स्वे दमे॑ संव॒र्तय॑न्तो॒ वि च॑ वर्तय॒न्नहा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “day; aha \[word\]; day.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

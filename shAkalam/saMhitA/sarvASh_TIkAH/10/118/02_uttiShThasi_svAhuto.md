@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "उरुक्षय आमहीयवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -60,7 +61,12 @@ tvā ← tvám (pronoun)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उत्ति॑ष्ठसि॒ स्वा॑हुतो घृ॒तानि॒ प्रति॑ मोदसे ।  
+यत्त्वा॒ स्रुचः॑ स॒मस्थि॑रन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “situate; stay; stand; die; get stale; inhere; dwell; end; happen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

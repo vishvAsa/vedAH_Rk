@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sunvaté ← √su- (root)
 
 yájamānāya ← √yaj- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधि॒ द्वयो॑रदधा उ॒क्थ्यं१॒॑ वचो॑ य॒तस्रु॑चा मिथु॒ना या स॑प॒र्यतः॑ ।  
+असं॑यत्तो व्र॒ते ते॑ क्षेति॒ पुष्य॑ति भ॒द्रा श॒क्तिर्यज॑मानाय सुन्व॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

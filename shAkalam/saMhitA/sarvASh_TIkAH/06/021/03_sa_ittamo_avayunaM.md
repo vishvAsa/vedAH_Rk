@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ ná ← ná (invariable)
 
 svadhāvaḥ ← svadhā́vant- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इत्तमो॑ऽवयु॒नं त॑त॒न्वत्सूर्ये॑ण व॒युन॑वच्चकार ।  
+क॒दा ते॒ मर्ता॑ अ॒मृत॑स्य॒ धामेय॑क्षन्तो॒ न मि॑नन्ति स्वधावः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “autonomous; independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

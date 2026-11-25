@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ tuján ← √tuj- (root)
 
 tujatā́ ← √tuj- (root)  
 {case:INS, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मा इदु॒ त्वष्टा॑ तक्ष॒द्वज्रं॒ स्वप॑स्तमं स्व॒र्यं१॒॑ रणा॑य ।  
+वृ॒त्रस्य॑ चिद्वि॒दद्येन॒ मर्म॑ तु॒जन्नीशा॑नस्तुज॒ता कि॑ये॒धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

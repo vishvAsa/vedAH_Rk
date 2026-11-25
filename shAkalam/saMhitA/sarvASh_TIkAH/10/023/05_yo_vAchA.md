@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अभिसारिणी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ vāvr̥dhé ← √vr̥dh- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वा॒चा विवा॑चो मृ॒ध्रवा॑चः पु॒रू स॒हस्राशि॑वा ज॒घान॑ ।  
+तत्त॒दिद॑स्य॒ पौंस्यं॑ गृणीमसि पि॒तेव॒ यस्तवि॑षीं वावृ॒धे शवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

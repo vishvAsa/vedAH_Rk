@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ manuṣvát ← manuṣvát (invariable)
 
 śambhū ← śambhú- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒व॒सा॒ना वि॒वस्व॑ति॒ सोम॑स्य पी॒त्या गि॒रा ।  
+म॒नु॒ष्वच्छ॑म्भू॒ आ ग॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

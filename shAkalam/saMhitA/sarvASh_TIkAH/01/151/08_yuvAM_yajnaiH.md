@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ mánasā ← mánas- (nominal stem)
 
 revát ← revánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वां य॒ज्ञैः प्र॑थ॒मा गोभि॑रञ्जत॒ ऋता॑वाना॒ मन॑सो॒ न प्रयु॑क्तिषु ।  
+भर॑न्ति वां॒ मन्म॑ना सं॒यता॒ गिरोऽदृ॑प्यता॒ मन॑सा रे॒वदा॑शाथे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

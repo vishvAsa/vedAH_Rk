@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -63,7 +64,12 @@ máma ← ahám (pronoun)
 
 śrutam ← √śru- (root)  
 {number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं वां॑ मित्रावरुणा सु॒तः सोम॑ ऋतावृधा ।  
+ममेदि॒ह श्रु॑तं॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

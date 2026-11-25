@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उचथ्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ vadhaíḥ ← vadhá- (nominal stem)
 
 vadhasno ← vadhasnu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒रुर्न यस्तमी॑ङ्ख॒येन्दो॒ न दान॑मीङ्खय ।  
+व॒धैर्व॑धस्नवीङ्खय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - \[verb\], singular, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

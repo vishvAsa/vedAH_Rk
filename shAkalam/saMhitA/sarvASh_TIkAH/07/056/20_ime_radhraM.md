@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ tokám ← toká- (nominal stem)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे र॒ध्रं चि॑न्म॒रुतो॑ जुनन्ति॒ भृमिं॑ चि॒द्यथा॒ वस॑वो जु॒षन्त॑ ।  
+अप॑ बाधध्वं वृषण॒स्तमां॑सि ध॒त्त विश्वं॒ तन॑यं तो॒कम॒स्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

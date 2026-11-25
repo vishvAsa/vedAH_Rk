@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -77,7 +78,12 @@ sómam ← sóma- (nominal stem)
 
 śúcim ← śúci- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वेत्य॑ध्व॒र्युः प॒थिभी॒ रजि॑ष्ठैः॒ प्रति॑ ह॒व्यानि॑ वी॒तये॑ ।  
+अधा॑ नियुत्व उ॒भय॑स्य नः पिब॒ शुचिं॒ सोमं॒ गवा॑शिरम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

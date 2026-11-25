@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ prámatim ← prámati- (nominal stem)
 
 vidā́ḥ ← √vid- 1 (root)  
 {number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं विश्वा॑ अ॒भि पृक्षः॑ सचन्ते समु॒द्रं न स्र॒वतः॑ स॒प्त य॒ह्वीः ।  
+न जा॒मिभि॒र्वि चि॑किते॒ वयो॑ नो वि॒दा दे॒वेषु॒ प्रम॑तिं चिकि॒त्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 vánāni ← vána- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒र्वीर॑स्य नि॒ष्षिधो॒ मर्त्ये॑षु पु॒रू वसू॑नि पृथि॒वी बि॑भर्ति ।  
+इन्द्रा॑य॒ द्याव॒ ओष॑धीरु॒तापो॑ र॒यिं र॑क्षन्ति जी॒रयो॒ वना॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

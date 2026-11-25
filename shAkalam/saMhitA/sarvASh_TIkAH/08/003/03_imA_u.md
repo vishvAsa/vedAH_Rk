@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ anūṣata ← √nu- ~ nū- (root)
 
 stómaiḥ ← stóma- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा उ॑ त्वा पुरूवसो॒ गिरो॑ वर्धन्तु॒ या मम॑ ।  
+पा॒व॒कव॑र्णाः॒ शुच॑यो विप॒श्चितो॒ऽभि स्तोमै॑रनूषत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “praise; shout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "दुःस्वप्नघ्नं"
 RShiH = "प्रचेताः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दुःस्वप्नघ्नं
@@ -71,7 +72,12 @@ jī́vataḥ ← √jīv- (root)
 
 mánaḥ ← mánas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रं वै वरं॑ वृणते भ॒द्रं यु॑ञ्जन्ति॒ दक्षि॑णम् ।  
+भ॒द्रं वै॑वस्व॒ते चक्षु॑र्बहु॒त्रा जीव॑तो॒ मनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

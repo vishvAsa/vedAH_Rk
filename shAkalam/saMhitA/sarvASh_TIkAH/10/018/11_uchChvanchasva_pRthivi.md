@@ -4,6 +4,7 @@ devataa = "पितृमेधः"
 RShiH = "सङ्कुसुको यामायनः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पितृमेधः
@@ -86,7 +87,12 @@ enam ← ena- (pronoun)
 
 ūrṇuhi ← √vr̥- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उच्छ्व॑ञ्चस्व पृथिवि॒ मा नि बा॑धथाः सूपाय॒नास्मै॑ भव सूपवञ्च॒ना ।  
+मा॒ता पु॒त्रं यथा॑ सि॒चाभ्ये॑नं भूम ऊर्णुहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

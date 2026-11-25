@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "जेता माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ tvā́m ← tvám (pronoun)
 
 jétāram ← jétar- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒ख्ये त॑ इन्द्र वा॒जिनो॒ मा भे॑म शवसस्पते ।  
+त्वाम॒भि प्र णो॑नुमो॒ जेता॑र॒मप॑राजितम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “unbeaten; unexcelled.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

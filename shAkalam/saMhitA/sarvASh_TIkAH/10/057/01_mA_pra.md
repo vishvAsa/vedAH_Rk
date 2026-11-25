@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -72,7 +73,12 @@ naḥ ← ahám (pronoun)
 
 sthuḥ ← √sthā- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा प्र गा॑म प॒थो व॒यं मा य॒ज्ञादि॑न्द्र सो॒मिनः॑ ।  
+मान्तः स्थु॑र्नो॒ अरा॑तयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “hostility; adversity; foe; envy; stinginess.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

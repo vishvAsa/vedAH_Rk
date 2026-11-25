@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 yáchata ← √yam- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒गो हि वो॑ अर्यमन्मित्र॒ पन्था॑ अनृक्ष॒रो व॑रुण सा॒धुरस्ति॑ ।  
+तेना॑दित्या॒ अधि॑ वोचता नो॒ यच्छ॑ता नो दुष्परि॒हन्तु॒ शर्म॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “protection; protective covering; refuge; joy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

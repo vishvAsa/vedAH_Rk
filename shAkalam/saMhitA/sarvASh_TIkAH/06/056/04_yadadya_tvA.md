@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -66,7 +67,12 @@ sú ← sú (invariable)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒द्य त्वा॑ पुरुष्टुत॒ ब्रवा॑म दस्र मन्तुमः ।  
+तत्सु नो॒ मन्म॑ साधय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     overpower; achieve; use; cover; prove; prove; process.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

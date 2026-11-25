@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ vā́taḥ ← vā́ta- (nominal stem)
 
 vātu ← √vā- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नो॑ अ॒ग्निर्ज्योति॑रनीको अस्तु॒ शं नो॑ मि॒त्रावरु॑णाव॒श्विना॒ शम् ।  
+शं नः॑ सु॒कृतां॑ सुकृ॒तानि॑ सन्तु॒ शं न॑ इषि॒रो अ॒भि वा॑तु॒ वातः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
     rheumatism; Marut.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

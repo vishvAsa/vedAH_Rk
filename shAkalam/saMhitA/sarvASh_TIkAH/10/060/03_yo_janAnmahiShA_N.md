@@ -4,6 +4,7 @@ devataa = "असमातिः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - असमातिः
@@ -57,7 +58,12 @@ utá ← utá (invariable)
 
 yudhā́ ← yúdh- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो जना॑न्महि॒षाँ इ॑वातित॒स्थौ पवी॑रवान् ।  
+उ॒ताप॑वीरवान्यु॒धा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “battle; fight; war; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ utá ← utá (invariable)
 
 vāmánītiḥ ← vāmánīti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ प्र णः॑ पुरए॒तेव॑ पश्य॒ प्र नो॑ नय प्रत॒रं वस्यो॒ अच्छ॑ ।  
+भवा॑ सुपा॒रो अ॑तिपार॒यो नो॒ भवा॒ सुनी॑तिरु॒त वा॒मनी॑तिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “caution; good behavior; policy; politics.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

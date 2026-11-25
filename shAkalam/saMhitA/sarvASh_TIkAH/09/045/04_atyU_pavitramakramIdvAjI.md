@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ devéṣu ← devá- (nominal stem)
 
 patyate ← √pat- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्यू॑ प॒वित्र॑मक्रमीद्वा॒जी धुरं॒ न याम॑नि ।  
+इन्दु॑र्दे॒वेषु॑ पत्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “own; have; master.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

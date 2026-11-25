@@ -4,6 +4,7 @@ devataa = "दक्षिणा तद्दातारो वा"
 RShiH = "दिव्यो दक्षिणा वा प्राजापत्या"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दक्षिणा तद्दातारो वा
@@ -77,7 +78,12 @@ bahávaḥ ← bahú- (nominal stem)
 
 pr̥ṇanti ← √pr̥̄- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दैवी॑ पू॒र्तिर्दक्षि॑णा देवय॒ज्या न क॑वा॒रिभ्यो॑ न॒हि ते पृ॒णन्ति॑ ।  
+अथा॒ नरः॒ प्रय॑तदक्षिणासोऽवद्यभि॒या ब॒हवः॑ पृणन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
     mix; complete.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

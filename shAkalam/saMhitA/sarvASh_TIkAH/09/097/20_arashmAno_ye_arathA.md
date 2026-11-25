@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शक्तिर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ tā́n ← sá- ~ tá- (pronoun)
 
 yāta ← √yā- 1 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र॒श्मानो॒ ये॑ऽर॒था अयु॑क्ता॒ अत्या॑सो॒ न स॑सृजा॒नास॑ आ॒जौ ।  
+ए॒ते शु॒क्रासो॑ धन्वन्ति॒ सोमा॒ देवा॑स॒स्ताँ उप॑ याता॒ पिब॑ध्यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,14 +254,6 @@ Though without reins, without chariot, not yoked, having been let loose  like st
 these gleaming soma-drinks run. O gods, drive right up to them, to  drink them.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The published translation dispenses with the rel. prn. in pāda a, as tr. the hemistich as a rel. cl. seemed clunky.
-
-Note the alliteration of ab araśmā́no yé arathā́áyuktā, átyāso ná sasṛjānā́sa ājaú.
-
-.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -264,7 +261,6 @@ Attributed to Śakti Vāsiṣṭha, who, unlike most of the other Vasiṣṭhids
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -63,7 +64,12 @@ sā́dhantām ← √sādh- ~ sidh- (root)
 
 ugra ← ugrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि प॒थो वाज॑सातये चिनु॒हि वि मृधो॑ जहि ।  
+साध॑न्तामुग्र नो॒ धियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
     knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -176,14 +181,12 @@ Clear out the paths for prize-winning; smash away the negligent. Let our poetic 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 Note ví mrada (3c), ví mṛ́dhaḥ (4b).
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

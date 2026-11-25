@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ tā́n ← sá- ~ tá- (pronoun)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स प्र॑त्न॒वन्नव्य॑से विश्ववार सू॒क्ताय॑ प॒थः कृ॑णुहि॒ प्राचः॑ ।  
+ये दुः॒षहा॑सो व॒नुषा॑ बृ॒हन्त॒स्ताँस्ते॑ अश्याम पुरुकृत्पुरुक्षो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

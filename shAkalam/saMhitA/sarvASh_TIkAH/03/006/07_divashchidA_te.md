@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ mandrásya ← mandrá- (nominal stem)
 
 panáyanta ← √panⁱ- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वश्चि॒दा ते॑ रुचयन्त रो॒का उ॒षो वि॑भा॒तीरनु॑ भासि पू॒र्वीः ।  
+अ॒पो यद॑ग्न उ॒शध॒ग्वने॑षु॒ होतु॑र्म॒न्द्रस्य॑ प॒नय॑न्त दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

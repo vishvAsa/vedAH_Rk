@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ putráḥ ← putrá- (nominal stem)
 
 vayúne ← vayúna- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त्ता॒नाया॒मव॑ भरा चिकि॒त्वान्त्स॒द्यः प्रवी॑ता॒ वृष॑णं जजान ।  
+अ॒रु॒षस्तू॑पो॒ रुश॑दस्य॒ पाज॒ इळा॑यास्पु॒त्रो व॒युने॑ऽजनिष्ट ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

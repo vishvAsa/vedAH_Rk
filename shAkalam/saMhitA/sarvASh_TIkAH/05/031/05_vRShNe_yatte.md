@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ dásyūn ← dásyu- (nominal stem)
 
 índreṣitāḥ ← índreṣita- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृष्णे॒ यत्ते॒ वृष॑णो अ॒र्कमर्चा॒निन्द्र॒ ग्रावा॑णो॒ अदि॑तिः स॒जोषाः॑ ।  
+अ॒न॒श्वासो॒ ये प॒वयो॑ऽर॒था इन्द्रे॑षिता अ॒भ्यव॑र्तन्त॒ दस्यू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -95,7 +101,7 @@ dásyūn ← dásyu- (nominal stem)
 अ॒न॒श्वासः॑ । ये । प॒वयः॑ । अ॒र॒थाः । इन्द्र॑ऽइषिताः । अ॒भि । अव॑र्तन्त । दस्यू॑न् ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वृष्णे॑ । यत् । ते॒ । वृष॑णः । अ॒र्कम् । अर्चान्॑ । इन्द्र॑ । ग्रावा॑णः । अदि॑तिः । स॒जोषा॒ इति॑ स-जोषाः॑ ॥ अ॒न॒श्वासः॑ । ये । प॒वयः॑ । अ॒र॒थाः । इन्द्रे॑षिता॒ इतीन्द्र॑-इ॒षि॒ताः॒ । अ॒भ्यव॑र्त॒न्तेत्य॑भि-अव॑र्तन्त । दस्यून्॑ ॥
 </details>
@@ -231,7 +237,6 @@ _________
 - “savage; outcast; mugger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -246,7 +251,7 @@ _________
 
 __________________________________
 
-वृष्णे यत्त इति। हे इन्द्र यद्यदा वृष्णे ते कामाभिवर्षिणस्तव संबन्धिनमर्कमर्चनीयं वृषणं वर्षणं (कं) फलाभिवर्षकं यागं ग्रावाणः साधनभूता दृषदुपलादयः पदार्था अर्चानर्चयन्ति अलंकुर्वन्ति, तदानीमदितिर्वेदिरूपा पृथिवी सजोषास्त्वया समानप्रीतिर्भवतु। इन्द्रेषिता इन्द्रप्रेरिता ये पवयो वज्‍राः सन्ति तेऽप्यरथा अनश्वासो रथाश्वनिरपेक्षा एव दस्यून्महायज्ञप्राप्तिप्रतिबन्धकानसुरानभ्यवर्तन्ताभिलक्ष्य हन्तुं प्रवर्तन्ताम्।  
+वृष्णे यत्त इति। हे इन्द्र यद्यदा वृष्णे ते कामाभिवर्षिणस्तव संबन्धिनमर्कमर्चनीयं वृषणं वर्षणं (कं) फलाभिवर्षकं यागं ग्रावाणः साधनभूता दृषदुपलादयः पदार्था अर्चानर्चयन्ति अलंकुर्वन्ति, तदानीमदितिर्वेदिरूपा पृथिवी सजोषास्त्वया समानप्रीतिर्भवतु। इन्द्रेषिता इन्द्रप्रेरिता ये पवयो वज्‍राः सन्ति तेऽप्यरथा अनश्वासो रथाश्वनिरपेक्षा एव दस्यून्महायज्ञप्राप्तिप्रतिबन्धकानसुरानभ्यवर्तन्ताभिलक्ष्य हन्तुं प्रवर्तन्ताम्।
 </details>
 
 <details><summary>भट्टभास्कर-टीका</summary>
@@ -254,7 +259,6 @@ __________________________________
 हे **इन्द्र ते** तुभ्यं **वृष्णे** वर्षित्रे अभिमतदात्रे । षष्ठ्यर्थे चतुर्थी । तव वर्षितुः **अर्कम्** अर्चनीयमाज्ञां अर्चनीयं वा ते तव यागमर्चानर्चयन्ति पूजयन्ति । लेट्याडागमः । 
 
 के ? **वृषणः ग्राव्णः** वर्षितारो मेघाः वृष्टिं कुर्वन्तस्तवार्कमर्चयन्ति मेघा इत्यर्थः । 'वा षपूर्वस्य निगमे' इति दीर्घाभावः । **अदितिः** पृथिवी च **सजोषाः** समानप्रीतिः त्वया तैर् वा मेघैरानुकूल्यं भजमाना सस्याद्युत्पादयतस्तव **कर्मार्कम्** अर्चयति । **यद्** यदा एवमेते कुर्वन्ति, तदानीं दुष्टात्मानो **दस्यवोपि** त्वयैव हन्तव्या इति तत्प्रार्थयते - **अनश्वासः** अश्वरहिताः । 'आज्जसेरसुक्' **अरथाः** रथरहिताः अश्वरथमनपेक्षमाणाः । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । **ये पवयस्** तवायुधविशेषाः **इन्द्रेषितास्** सर्वदेन्द्रेणैव प्रेषिताः अन्येन प्रेषितुम् अशक्याः ; **ते दस्यून् अभ्यवर्तन्त** दस्यूनभिवर्तन्तां आभिमुख्येन हन्तुं वर्तन्ताम् । स्वरणादिद्वारा अस्मदुपक्षपयितारो दस्यवः । तानभिभूय पराजितान्कृत्वा सर्वदाऽस्मान्रक्षन्तो वर्तन्तामिति भावः । छान्दसो लङ् । एवं सर्वस्य लोकस्य रक्षको महात्मा त्वम् ; अतोस्माकमपि महायज्ञमुपनयेति ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -272,14 +276,6 @@ the (pressing stones like) wheel-rims which, (even) without horses,
 without chariots, but impelled by Indra, rolled over the Dasyus—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Unlike 4a where I separate the identically positioned enclitic gen. from the following instr., I do take asya here with krátubhiḥ, which, unlike svadháyā, is frequently found with a gen. With Geldner I think the referent is Indra (contra Witzel Gotō, who take it to be Vṛtra-Śuṣṇa).
-
-I take níṣattam as proleptic, depicting Vṛtra’s position after the action of ní jaghāna in the immediately preceding pāda (4d). With Geldner I consider 5a essentially a continuation of 4d and supply the same verb.
-
-In b I supply ‘thinking himself’ with amarmáṇaḥ on the basis of 3c and of the almost identical III.32.4cd … viveda, amarmáṇo mányamānasya márma. The verb in b, vidát, is accented because of the following íd (see Grassmann s.v. íd 5, though there are fewer clear examples than he presents, since many of them are also pāda-initial). The Indra-reference shifts from 3rd to 2nd between the first and second hemistich, but this is scarcely novel.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -296,7 +292,6 @@ Hoffmann (244-45) classifies it as “Konjunktiv in präteritalem Sachverhalt”
 + SUBJUNCTIVE clause here in that way. The separation of the two world halves is, on a smaller scale, accomplished every morning when dawn reveals the horizon where the darkness had kept earth and sky undifferentiated. And winning waters is something that needs to be repeated at least yearly. The subjunctive here indicates that our focus is on the re-creation of these older deeds, not simply on celebrating their original performance. In this context mánave ‘for Manu’ would have the extended sense ‘for mankind’.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

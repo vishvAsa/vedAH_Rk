@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ ní ← ní (invariable)
 
 patayiṣṇávaḥ ← patayiṣṇú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒ ष्य वः॑ सवि॒ता सु॑प्रणीत॒योऽस्था॑दू॒र्ध्वो वरे॑ण्यः ।  
+नि द्वि॒पाद॒श्चतु॑ष्पादो अ॒र्थिनोऽवि॑श्रन्पतयि॒ष्णवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “flying.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

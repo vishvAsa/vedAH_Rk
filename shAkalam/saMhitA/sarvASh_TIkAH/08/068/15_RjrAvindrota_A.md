@@ -4,6 +4,7 @@ devataa = "ऋक्षाश्वमेधयोर्दानस्तुत
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋक्षाश्वमेधयोर्दानस्तुतिः
@@ -57,7 +58,12 @@ sūnávi ← sūnú- (nominal stem)
 
 róhitā ← róhita- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒ज्रावि॑न्द्रो॒त आ द॑दे॒ हरी॒ ऋक्ष॑स्य सू॒नवि॑ ।  
+आ॒श्व॒मे॒धस्य॒ रोहि॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “red.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,7 +161,6 @@ and the two chestnuts of the son of Aśvamedha;
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md">
 <details><summary><h2>15-17 ...{Loading}...</h2></summary>
 
@@ -168,7 +172,6 @@ I have made no effort to sort out the internal relationships among the patrons
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

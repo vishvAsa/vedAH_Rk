@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -89,7 +90,12 @@ vartantām ← √vr̥t- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒ते अ॑ध्व॒रे अधि॒ वाच॑मक्र॒ता क्री॒ळयो॒ न मा॒तरं॑ तु॒दन्तः॑ ।  
+वि षू मु॑ञ्चा सुषु॒वुषो॑ मनी॒षां वि व॑र्तन्ता॒मद्र॑य॒श्चाय॑मानाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - \[verb noun\], nominative, plural
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

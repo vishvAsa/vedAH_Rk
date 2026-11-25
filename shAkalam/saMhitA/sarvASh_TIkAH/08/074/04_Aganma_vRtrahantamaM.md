@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ yásya ← yá- (pronoun)
 
 édhate ← √idh- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आग॑न्म वृत्र॒हन्त॑मं॒ ज्येष्ठ॑म॒ग्निमान॑वम् ।  
+यस्य॑ श्रु॒तर्वा॑ बृ॒हन्ना॒र्क्षो अनी॑क॒ एध॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “boom; get; thrive; increase; increase.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ r̥tāvr̥dhā ← r̥tāvŕ̥dh- (nominal stem)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+याभिः॒ कण्व॑म॒भिष्टि॑भिः॒ प्राव॑तं यु॒वम॑श्विना ।  
+ताभिः॒ ष्व१॒॑स्माँ अ॑वतं शुभस्पती पा॒तं सोम॑मृतावृधा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “sincere.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

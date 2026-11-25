@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नभःप्रभेदनो वैरूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ víśve ← víśva- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं ते॒ पात्रं॒ सन॑वित्तमिन्द्र॒ पिबा॒ सोम॑मे॒ना श॑तक्रतो ।  
+पू॒र्ण आ॑हा॒वो म॑दि॒रस्य॒ मध्वो॒ यं विश्व॒ इद॑भि॒हर्य॑न्ति दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

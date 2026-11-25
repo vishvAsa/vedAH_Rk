@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ turváṇe ← √tūr(v)- ~ tur- (root)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऐषु॑ द्यावापृथिवी धातं म॒हद॒स्मे वी॒रेषु॑ वि॒श्वच॑र्षणि॒ श्रवः॑ ।  
+पृ॒क्षं वाज॑स्य सा॒तये॑ पृ॒क्षं रा॒योत तु॒र्वणे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “\_”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ ródhati ← √rudh- 1 (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒ष्णा रजां॑सि पत्सु॒तः प्र॒याणे॑ जा॒तवे॑दसः ।  
+अ॒ग्निर्यद्रोध॑ति॒ क्षमि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “Earth; heaven and earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

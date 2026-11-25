@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "द्वितो मृक्तवाहा आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -82,7 +83,12 @@ nr̥ṇā́m ← nár- (nominal stem)
 
 nr̥vát ← nr̥vánt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये मे॑ पञ्चा॒शतं॑ द॒दुरश्वा॑नां स॒धस्तु॑ति ।  
+द्यु॒मद॑ग्ने॒ महि॒ श्रवो॑ बृ॒हत्कृ॑धि म॒घोनां॑ नृ॒वद॑मृत नृ॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ pratnā́m ← pratná- (nominal stem)
 
 r̥tásya ← r̥tá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ यस्ते॒ नवी॑यसीं॒ गिरं॑ म॒न्द्रामजी॑जनत् ।  
+चि॒कि॒त्विन्म॑नसं॒ धियं॑ प्र॒त्नामृ॒तस्य॑ पि॒प्युषी॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “swell; abound; swell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

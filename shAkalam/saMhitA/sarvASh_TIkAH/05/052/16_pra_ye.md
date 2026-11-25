@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -82,7 +83,12 @@ rudrám ← rudrá- (nominal stem)
 
 vocanta ← √vac- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ये मे॑ बन्ध्वे॒षे गां वोच॑न्त सू॒रयः॒ पृश्निं॑ वोचन्त मा॒तर॑म् ।  
+अधा॑ पि॒तर॑मि॒ष्मिणं॑ रु॒द्रं वो॑चन्त॒ शिक्व॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

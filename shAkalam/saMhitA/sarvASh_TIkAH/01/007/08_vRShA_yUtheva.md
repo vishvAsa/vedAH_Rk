@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ kr̥ṣṭī́ḥ ← kr̥ṣṭí- (nominal stem)
 
 ī́śānaḥ ← √īś- (root)  
 {case:NOM, gender:M, number:SG, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॑ यू॒थेव॒ वंस॑गः कृ॒ष्टीरि॑य॒र्त्योज॑सा ।  
+ईशा॑नो॒ अप्र॑तिष्कुतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “unhampered; unrestrained; unchallenged.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

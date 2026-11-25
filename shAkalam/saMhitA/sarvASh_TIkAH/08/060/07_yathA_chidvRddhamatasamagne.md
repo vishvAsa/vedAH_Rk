@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ káḥ ← ká- (pronoun)
 
 vénati ← √ven- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॑ चिद्वृ॒द्धम॑त॒समग्ने॑ सं॒जूर्व॑सि॒ क्षमि॑ ।  
+ए॒वा द॑ह मित्रमहो॒ यो अ॑स्म॒ध्रुग्दु॒र्मन्मा॒ कश्च॒ वेन॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “circulate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

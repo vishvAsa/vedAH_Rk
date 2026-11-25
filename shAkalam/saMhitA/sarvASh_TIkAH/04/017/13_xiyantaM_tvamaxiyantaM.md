@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ utá ← utá (invariable)
 
 vásau ← vásu- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्षि॒यन्तं॑ त्व॒मक्षि॑यन्तं कृणो॒तीय॑र्ति रे॒णुं म॒घवा॑ स॒मोह॑म् ।  
+वि॒भ॒ञ्ज॒नुर॒शनि॑माँ इव॒ द्यौरु॒त स्तो॒तारं॑ म॒घवा॒ वसौ॑ धात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

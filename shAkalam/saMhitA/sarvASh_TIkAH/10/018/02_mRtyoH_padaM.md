@@ -4,6 +4,7 @@ devataa = "मृत्युः"
 RShiH = "सङ्कुसुको यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मृत्युः
@@ -80,7 +81,12 @@ pūtā́ḥ ← √pū- (root)
 
 yajñiyāsaḥ ← yajñíya- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मृ॒त्योः प॒दं यो॒पय॑न्तो॒ यदैत॒ द्राघी॑य॒ आयुः॑ प्रत॒रं दधा॑नाः ।  
+आ॒प्याय॑मानाः प्र॒जया॒ धने॑न शु॒द्धाः पू॒ता भ॑वत यज्ञियासः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

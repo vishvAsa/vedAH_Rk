@@ -4,6 +4,7 @@ devataa = "दंपती"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपती
@@ -60,7 +61,12 @@ dévāsaḥ ← devá- (nominal stem)
 
 nítyayā ← nítya- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या दम्प॑ती॒ सम॑नसा सुनु॒त आ च॒ धाव॑तः ।  
+देवा॑सो॒ नित्य॑या॒शिरा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “mixture.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ jaráyantī ← √jr̥̄- ~ jūr- (root)
 
 mártasya ← márta- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पुनः॑पुन॒र्जाय॑माना पुरा॒णी स॑मा॒नं वर्ण॑म॒भि शुम्भ॑माना ।  
+श्व॒घ्नीव॑ कृ॒त्नुर्विज॑ आमिना॒ना मर्त॑स्य दे॒वी ज॒रय॒न्त्यायुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

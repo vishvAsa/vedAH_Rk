@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ mahā́m ← máh- (nominal stem)
 
 śrutám ← √śru- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒व॒यन्तो॒ यथा॑ म॒तिमच्छा॑ वि॒दद्व॑सुं॒ गिरः॑ ।  
+म॒हाम॑नूषत श्रु॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “celebrated; śruta \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

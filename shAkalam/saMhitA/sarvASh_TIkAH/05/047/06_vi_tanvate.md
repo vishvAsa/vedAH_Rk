@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिरथ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ vadhvàḥ ← vadhū́- (nominal stem)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि त॑न्वते॒ धियो॑ अस्मा॒ अपां॑सि॒ वस्त्रा॑ पु॒त्राय॑ मा॒तरो॑ वयन्ति ।  
+उ॒प॒प्र॒क्षे वृष॑णो॒ मोद॑माना दि॒वस्प॒था व॒ध्वो॑ य॒न्त्यच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

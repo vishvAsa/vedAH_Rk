@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्यावाश्वः"
 ChandaH = "महापङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -79,7 +80,12 @@ sómasya ← sóma- (nominal stem)
 
 vajrivaḥ ← vajrivant- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒क॒राळ॒स्य भुव॑नस्य राजसि शचीपत॒ इन्द्र॒ विश्वा॑भिरू॒तिभिः॑ ।  
+माध्यं॑दिनस्य॒ सव॑नस्य वृत्रहन्ननेद्य॒ पिबा॒ सोम॑स्य वज्रिवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

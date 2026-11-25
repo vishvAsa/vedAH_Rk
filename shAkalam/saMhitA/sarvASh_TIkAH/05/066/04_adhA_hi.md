@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "रातहव्य आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -68,7 +69,12 @@ cikéthe ← √ci- 3 (root)
 
 pūtadakṣasā ← pūtádakṣas- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॒ हि काव्या॑ यु॒वं दक्ष॑स्य पू॒र्भिर॑द्भुता ।  
+नि के॒तुना॒ जना॑नां चि॒केथे॑ पूतदक्षसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “intelligent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

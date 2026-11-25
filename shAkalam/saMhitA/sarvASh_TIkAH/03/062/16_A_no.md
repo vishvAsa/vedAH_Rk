@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "गाथिनो विश्वामित्रो जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -57,7 +58,12 @@ rájāṁsi ← rájas- (nominal stem)
 
 sukratū ← sukrátu- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ मित्रावरुणा घृ॒तैर्गव्यू॑तिमुक्षतम् ।  
+मध्वा॒ रजां॑सि सुक्रतू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

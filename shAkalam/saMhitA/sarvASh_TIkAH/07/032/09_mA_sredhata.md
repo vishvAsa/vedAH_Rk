@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ kavatnáve ← kavatnú- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा स्रे॑धत सोमिनो॒ दक्ष॑ता म॒हे कृ॑णु॒ध्वं रा॒य आ॒तुजे॑ ।  
+त॒रणि॒रिज्ज॑यति॒ क्षेति॒ पुष्य॑ति॒ न दे॒वासः॑ कव॒त्नवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “stingy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

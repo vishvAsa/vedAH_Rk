@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दृळ्हच्युत आगस्त्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ devavī́tamaḥ ← devavī́tama- (nominal stem)
 
 vr̥trahā́ ← vr̥trahán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं दे॒वैः शो॑भते॒ वृषा॑ क॒विर्योना॒वधि॑ प्रि॒यः ।  
+वृ॒त्र॒हा दे॑व॒वीत॑मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

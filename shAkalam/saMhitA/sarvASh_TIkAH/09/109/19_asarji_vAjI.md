@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -49,7 +50,11 @@ sahásradhāraḥ ← sahásradhāra- (nominal stem)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस॑र्जि वा॒जी ति॒रः प॒वित्र॒मिन्द्रा॑य॒ सोमः॑ स॒हस्र॑धारः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +113,6 @@ _________
 - “flush; flow; current; spring; fountain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -134,10 +138,6 @@ _________
 The prizewinner has been let loose across the filter, Soma of a thousand  streams, for Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. repeats vājī́from 17, tiráḥ pavítram from 16, and sahásradhāraḥ from 17.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -145,7 +145,6 @@ No particular signs of cohesion, though assembled from the usual assortment of s
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

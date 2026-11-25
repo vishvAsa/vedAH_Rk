@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -58,7 +59,11 @@ víśve ← víśva- (nominal stem)
 
 yájatrāḥ ← yájatra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒जोषा॒ धीराः॑ प॒दैरनु॑ ग्म॒न्नुप॑ त्वा सीद॒न्विश्वे॒ यज॑त्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +145,6 @@ _________
 - “adorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,14 +163,6 @@ _________
 all those worthy of the sacrifice reverently approached you.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-something else is enclosing Agni, configured as a calf (vátsaṃ), using pári √as.
-
-(I wonder if the somewhat pleonastic+++(=redundant)+++ presence of bhúvat in our passage is meant to resonate with those pári √bhū passages.) Thus, though in our passage Agni is clearly the object of enclosure in the myth of his hiding in the waters, he himself can take the role of encloser in this tight-knit collection - allowing for the possibility that he might here be supplied as subjective genitive with páriṣṭiḥ, save for the mythological context.
-
-All in all, I.65.3cd packs a lot into its ten syllables and five words, as witnessed by the many more words (more than ten times as many) in this entry required to describe its syntactic and semantic tricks.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -174,7 +170,6 @@ These verses contain 3rd pl. act. root aorists ánu gman (2b) and ánu … guḥ
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

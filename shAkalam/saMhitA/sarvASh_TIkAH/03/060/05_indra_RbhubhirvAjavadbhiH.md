@@ -4,6 +4,7 @@ devataa = "इन्द्र ऋभवश्च"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्र ऋभवश्च
@@ -86,7 +87,12 @@ sahá ← sahá (invariable)
 
 saudhanvanébhiḥ ← saudhanvaná- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ ऋ॒भुभि॒र्वाज॑वद्भिः॒ समु॑क्षितं सु॒तं सोम॒मा वृ॑षस्वा॒ गभ॑स्त्योः ।  
+धि॒येषि॒तो म॑घवन्दा॒शुषो॑ गृ॒हे सौ॑धन्व॒नेभिः॑ स॒ह म॑त्स्वा॒ नृभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

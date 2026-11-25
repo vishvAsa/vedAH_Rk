@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ pātayati ← √pat- 1 (root)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ घा॒ योषे॑व सू॒नर्यु॒षा या॑ति प्रभुञ्ज॒ती ।  
+ज॒रय॑न्ती॒ वृज॑नं प॒द्वदी॑यत॒ उत्पा॑तयति प॒क्षिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “bird; mākṣika; poultry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -17,12 +18,12 @@ ChandaH = "गायत्री"
 म᳓धुमाँ अस्तु सू᳓रियः  
 मा᳓ध्वीर् गा᳓वो भवन्तु नः
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 मधु॑मान्नो॒ वन॒स्पति॒र्मधु॑माँ अस्तु॒ सूर्यः॑ ।  
 माध्वी॒र्गावो॑ भवन्तु नः ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -66,7 +67,12 @@ mā́dhvīḥ ← mā́dhvī- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मधु॑मान्नो॒ वन॒स्पति॒र्मधु॑माँ अस्तु॒ सूर्यः॑ ।  
+माध्वी॒र्गावो॑ भवन्तु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,7 +164,6 @@ _____________
 
 वनस्पतिरश्वत्थादीर्नोऽस्मदर्थं मधुमानस्तु माधुर्यरसोपेतोऽस्तु ।   सूर्योऽपि मधुमान्संतापराहित्यलक्षणमाधुर्यरसोपेतोऽस्तु ।   तथा गावो नोस्मदर्थं माध्वीर्म-धुरक्षीरोपेता भवन्तु ।
 </details>
-
 
 <details><summary>Wilson</summary>
 

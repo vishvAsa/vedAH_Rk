@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ gī́ḥ ← gír- ~ gīr- (nominal stem)
 
 havate ← √hū- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अता॑रिष्म॒ तम॑सस्पा॒रम॒स्य प्रति॒ स्तोमं॑ देव॒यन्तो॒ दधा॑नाः ।  
+पु॒रु॒दंसा॑ पुरु॒तमा॑ पुरा॒जाम॑र्त्या हवते अ॒श्विना॒ गीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

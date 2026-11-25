@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रमातरो देवजामयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ dyā́m ← dyú- ~ div- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमि॑न्द्रासि वृत्र॒हा व्य१॒॑न्तरि॑क्षमतिरः ।  
+उद्द्याम॑स्तभ्ना॒ ओज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

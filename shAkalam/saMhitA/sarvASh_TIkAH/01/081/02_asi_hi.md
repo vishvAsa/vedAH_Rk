@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -85,7 +86,12 @@ te ← tvám (pronoun)
 
 vásu ← vásu- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असि॒ हि वी॑र॒ सेन्योऽसि॒ भूरि॑ पराद॒दिः ।  
+असि॑ द॒भ्रस्य॑ चिद्वृ॒धो यज॑मानाय शिक्षसि सुन्व॒ते भूरि॑ ते॒ वसु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

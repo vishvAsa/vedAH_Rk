@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ pāhi ← √pā- 2 (root)
 
 pányaḥ ← pánya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिबा॒ वर्ध॑स्व॒ तव॑ घा सु॒तास॒ इन्द्र॒ सोमा॑सः प्रथ॒मा उ॒तेमे ।  
+यथापि॑बः पू॒र्व्याँ इ॑न्द्र॒ सोमाँ॑ ए॒वा पा॑हि॒ पन्यो॑ अ॒द्या नवी॑यान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “new; fresh; up-to-the-minute.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

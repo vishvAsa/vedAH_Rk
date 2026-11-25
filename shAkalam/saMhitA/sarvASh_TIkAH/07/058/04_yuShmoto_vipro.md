@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ tát ← sá- ~ tá- (pronoun)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒ष्मोतो॒ विप्रो॑ मरुतः शत॒स्वी यु॒ष्मोतो॒ अर्वा॒ सहु॑रिः सह॒स्री ।  
+यु॒ष्मोतः॑ स॒म्राळु॒त ह॑न्ति वृ॒त्रं प्र तद्वो॑ अस्तु धूतयो दे॒ष्णम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “gift; giving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

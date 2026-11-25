@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ góagrayā ← góagra- (nominal stem)
 
 rabhemahi ← √rabh- (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑न्द्र रा॒या समि॒षा र॑भेमहि॒ सं वाजे॑भिः पुरुश्च॒न्द्रैर॒भिद्यु॑भिः ।  
+सं दे॒व्या प्रम॑त्या वी॒रशु॑ष्मया॒ गोअ॑ग्र॒याश्वा॑वत्या रभेमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “clasp.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

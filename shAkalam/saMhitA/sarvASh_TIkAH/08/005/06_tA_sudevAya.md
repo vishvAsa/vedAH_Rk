@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -54,7 +55,12 @@ ghr̥taíḥ ← ghr̥tá- (nominal stem)
 
 ukṣatam ← √ukṣ- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता सु॑दे॒वाय॑ दा॒शुषे॑ सुमे॒धामवि॑तारिणीम् ।  
+घृ॒तैर्गव्यू॑तिमुक्षतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “sprinkle; wet.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

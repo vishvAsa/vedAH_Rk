@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ ní ← ní (invariable)
 
 rāmáyat ← √ram- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स तु॒र्वणि॑र्म॒हाँ अ॑रे॒णु पौंस्ये॑ गि॒रेर्भृ॒ष्टिर्न भ्रा॑जते तु॒जा शवः॑ ।  
+येन॒ शुष्णं॑ मा॒यिन॑माय॒सो मदे॑ दु॒ध्र आ॒भूषु॑ रा॒मय॒न्नि दाम॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

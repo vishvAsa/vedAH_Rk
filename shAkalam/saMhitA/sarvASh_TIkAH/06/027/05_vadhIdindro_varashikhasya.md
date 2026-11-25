@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ hán ← √han- (root)
 
 pū́rve ← pū́rva- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वधी॒दिन्द्रो॑ व॒रशि॑खस्य॒ शेषो॑ऽभ्याव॒र्तिने॑ चायमा॒नाय॒ शिक्ष॑न् ।  
+वृ॒चीव॑तो॒ यद्ध॑रियू॒पीया॑यां॒ हन्पूर्वे॒ अर्धे॑ भि॒यसाप॑रो॒ दर्त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “burst; burst.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

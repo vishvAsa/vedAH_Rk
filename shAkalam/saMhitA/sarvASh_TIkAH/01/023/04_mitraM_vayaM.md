@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -51,7 +52,12 @@ jajñānā́ ← √janⁱ- (root)
 
 pūtádakṣasā ← pūtádakṣas- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रं व॒यं ह॑वामहे॒ वरु॑णं॒ सोम॑पीतये ।  
+ज॒ज्ञा॒ना पू॒तद॑क्षसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +124,6 @@ _________
 - “intelligent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

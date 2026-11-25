@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ vr̥trásya ← vr̥trá- (nominal stem)
 
 vájreṇa ← vájra- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यमिन्द्रो॑ म॒रुत्स॑खा॒ वि वृ॒त्रस्या॑भिन॒च्छिरः॑ ।  
+वज्रे॑ण श॒तप॑र्वणा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “joint; knot; festival; day; articulation; knot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

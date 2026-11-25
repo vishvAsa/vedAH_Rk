@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ vásu ← vásu- (nominal stem)
 
 víśvam ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नो॑ अग्ने पि॒त्रोरु॒पस्थ॒ आ दे॒वो दे॒वेष्व॑नवद्य॒ जागृ॑विः ।  
+त॒नू॒कृद्बो॑धि॒ प्रम॑तिश्च का॒रवे॒ त्वं क॑ल्याण॒ वसु॒ विश्व॒मोपि॑षे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “mix; submerge; mix; sow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

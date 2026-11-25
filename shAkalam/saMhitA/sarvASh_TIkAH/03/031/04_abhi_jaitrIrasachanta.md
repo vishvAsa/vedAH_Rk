@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ gávām ← gáv- ~ gó- (nominal stem)
 
 pátiḥ ← páti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि जैत्री॑रसचन्त स्पृधा॒नं महि॒ ज्योति॒स्तम॑सो॒ निर॑जानन् ।  
+तं जा॑न॒तीः प्रत्युदा॑यन्नु॒षासः॒ पति॒र्गवा॑मभव॒देक॒ इन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

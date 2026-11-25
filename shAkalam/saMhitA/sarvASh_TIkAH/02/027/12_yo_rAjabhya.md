@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -83,7 +84,12 @@ vasudā́vā ← vasudā́van- (nominal stem)
 
 vidátheṣu ← vidátha- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो राज॑भ्य ऋत॒निभ्यो॑ द॒दाश॒ यं व॒र्धय॑न्ति पु॒ष्टय॑श्च॒ नित्याः॑ ।  
+स रे॒वान्या॑ति प्रथ॒मो रथे॑न वसु॒दावा॑ वि॒दथे॑षु प्रश॒स्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “recommend; approve; praise; laud; favor; proclaim.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

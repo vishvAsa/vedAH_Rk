@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -83,7 +84,12 @@ gárbham ← gárbha- (nominal stem)
 
 rétaḥ ← rétas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॑ वद त॒वसं॑ गी॒र्भिरा॒भिः स्तु॒हि प॒र्जन्यं॒ नम॒सा वि॑वास ।  
+कनि॑क्रदद्वृष॒भो जी॒रदा॑नू॒ रेतो॑ दधा॒त्योष॑धीषु॒ गर्भ॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     inside; hole; baby; calyx; midst.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

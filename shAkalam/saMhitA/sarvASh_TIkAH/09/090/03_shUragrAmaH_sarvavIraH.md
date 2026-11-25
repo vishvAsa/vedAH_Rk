@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ sāhvā́n ← √sah- (root)
 
 śátrūn ← śátru- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शूर॑ग्रामः॒ सर्व॑वीरः॒ सहा॑वा॒ञ्जेता॑ पवस्व॒ सनि॑ता॒ धना॑नि ।  
+ति॒ग्मायु॑धः क्षि॒प्रध॑न्वा स॒मत्स्वषा॑ळ्हः सा॒ह्वान्पृत॑नासु॒ शत्रू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “enemy; foe; enemy; Asura.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

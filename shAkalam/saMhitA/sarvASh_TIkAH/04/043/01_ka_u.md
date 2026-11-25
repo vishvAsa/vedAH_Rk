@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पुरुमीळ्हाजमीळ्हौ सौहोत्रौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ suhavyā́m ← suhavyá- (nominal stem)
 
 suṣṭutím ← suṣṭutí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क उ॑ श्रवत्कत॒मो य॒ज्ञिया॑नां व॒न्दारु॑ दे॒वः क॑त॒मो जु॑षाते ।  
+कस्ये॒मां दे॒वीम॒मृते॑षु॒ प्रेष्ठां॑ हृ॒दि श्रे॑षाम सुष्टु॒तिं सु॑ह॒व्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “Havya; offering; havya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

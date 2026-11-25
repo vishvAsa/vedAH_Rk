@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "रातहव्य आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -68,7 +69,12 @@ kṣaranti ← √kṣar- (root)
 
 yā́mabhiḥ ← yā́man- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदृ॒तं पृ॑थिवि बृ॒हच्छ्र॑वए॒ष ऋषी॑णाम् ।  
+ज्र॒य॒सा॒नावरं॑ पृ॒थ्वति॑ क्षरन्ति॒ याम॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “expedition; path; expedition; arrival.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "असमातिः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - असमातिः
@@ -51,7 +52,12 @@ bhajérathasya ← bhajératha- (nominal stem)
 
 sátpatim ← sátpati- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस॑मातिं नि॒तोश॑नं त्वे॒षं नि॑य॒यिनं॒ रथ॑म् ।  
+भ॒जेर॑थस्य॒ सत्प॑तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +114,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

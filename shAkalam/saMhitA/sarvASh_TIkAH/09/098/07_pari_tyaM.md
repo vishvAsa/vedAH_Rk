@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अंबरीष ऋजिश्वा च"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ mádena ← máda- (nominal stem)
 
 sahá ← sahá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ त्यं ह॑र्य॒तं हरिं॑ ब॒भ्रुं पु॑नन्ति॒ वारे॑ण ।  
+यो दे॒वान्विश्वाँ॒ इत्परि॒ मदे॑न स॒ह गच्छ॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

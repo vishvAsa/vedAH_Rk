@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)
 
 sā́nau ← sā́nu- ~ snú- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॑ स्मा न॒ उद॑वता सजोषसो॒ रथं॑ देवासो अ॒भि वि॒क्षु वा॑ज॒युम् ।  
+यदा॒शवः॒ पद्या॑भि॒स्तित्र॑तो॒ रजः॑ पृथि॒व्याः सानौ॒ जङ्घ॑नन्त पा॒णिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “hand; hoof; pāṇi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

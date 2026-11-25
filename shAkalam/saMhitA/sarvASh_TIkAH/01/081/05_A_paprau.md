@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -91,7 +92,12 @@ vavakṣitha ← √vakṣ- (root)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ प॑प्रौ॒ पार्थि॑वं॒ रजो॑ बद्ब॒धे रो॑च॒ना दि॒वि ।  
+न त्वावाँ॑ इन्द्र॒ कश्च॒न न जा॒तो न ज॑निष्य॒तेऽति॒ विश्वं॑ ववक्षिथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “grow; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

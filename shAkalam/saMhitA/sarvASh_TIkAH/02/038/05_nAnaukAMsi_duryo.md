@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -95,7 +96,12 @@ kétam ← kéta- (nominal stem)
 
 savitrā́ ← savitár- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नानौकां॑सि॒ दुर्यो॒ विश्व॒मायु॒र्वि ति॑ष्ठते प्रभ॒वः शोको॑ अ॒ग्नेः ।  
+ज्येष्ठं॑ मा॒ता सू॒नवे॑ भा॒गमाधा॒दन्व॑स्य॒ केत॑मिषि॒तं स॑वि॒त्रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “Savitar; sun; Surya; Savitṛ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

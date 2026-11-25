@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वसामात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -65,7 +66,12 @@ mandrátamaḥ ← mandrátama- (nominal stem)
 
 viśí ← víś- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वि॑श्वसामन्नत्रि॒वदर्चा॑ पाव॒कशो॑चिषे ।  
+यो अ॑ध्व॒रेष्वीड्यो॒ होता॑ म॒न्द्रत॑मो वि॒शि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

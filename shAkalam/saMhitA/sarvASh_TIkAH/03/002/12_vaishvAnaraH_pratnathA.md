@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ pári ← pári (invariable)
 
 samānám ← samāná- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वै॒श्वा॒न॒रः प्र॒त्नथा॒ नाक॒मारु॑हद्दि॒वस्पृ॒ष्ठं भन्द॑मानः सु॒मन्म॑भिः ।  
+स पू॑र्व॒वज्ज॒नय॑ञ्ज॒न्तवे॒ धनं॑ समा॒नमज्मं॒ पर्ये॑ति॒ जागृ॑विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “attentive; argus-eyed; light.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

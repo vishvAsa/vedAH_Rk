@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेणुर्वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ kṣetravít ← kṣetravíd- (nominal stem)
 
 vipr̥chaté ← √praś- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व सोम दे॒ववी॑तये॒ वृषेन्द्र॑स्य॒ हार्दि॑ सोम॒धान॒मा वि॑श ।  
+पु॒रा नो॑ बा॒धाद्दु॑रि॒ताति॑ पारय क्षेत्र॒विद्धि दिश॒ आहा॑ विपृच्छ॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - \[verb noun\], dative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

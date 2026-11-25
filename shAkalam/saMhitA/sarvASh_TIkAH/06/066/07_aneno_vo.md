@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ ví ← ví (invariable)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ने॒नो वो॑ मरुतो॒ यामो॑ अस्त्वन॒श्वश्चि॒द्यमज॒त्यर॑थीः ।  
+अ॒न॒व॒सो अ॑नभी॒शू र॑ज॒स्तूर्वि रोद॑सी प॒थ्या॑ याति॒ साध॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “promote; succeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

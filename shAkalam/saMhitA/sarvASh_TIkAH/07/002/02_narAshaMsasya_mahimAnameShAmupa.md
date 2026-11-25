@@ -4,6 +4,7 @@ devataa = "नराशंसः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नराशंसः
@@ -77,7 +78,12 @@ svádanti ← √svad- (root)
 
 ubháyāni ← ubháya- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नरा॒शंस॑स्य महि॒मान॑मेषा॒मुप॑ स्तोषाम यज॒तस्य॑ य॒ज्ञैः ।  
+ये सु॒क्रत॑वः॒ शुच॑यो धियं॒धाः स्वद॑न्ति दे॒वा उ॒भया॑नि ह॒व्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “Havya; offering; havya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

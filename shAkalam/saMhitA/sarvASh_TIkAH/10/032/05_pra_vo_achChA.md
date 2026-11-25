@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ siñcata ← √sic- (root)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वोऽच्छा॑ रिरिचे देव॒युष्प॒दमेको॑ रु॒द्रेभि॑र्याति तु॒र्वणिः॑ ।  
+ज॒रा वा॒ येष्व॒मृते॑षु दा॒वने॒ परि॑ व॒ ऊमे॑भ्यः सिञ्चता॒ मधु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ tmánam ← tmán- (nominal stem)
 
 viśvádha ← viśvádha (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं त्यां न॑ इन्द्र देव चि॒त्रामिष॒मापो॒ न पी॑पयः॒ परि॑ज्मन् ।  
+यया॑ शूर॒ प्रत्य॒स्मभ्यं॒ यंसि॒ त्मन॒मूर्जं॒ न वि॒श्वध॒ क्षर॑ध्यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “run; melt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

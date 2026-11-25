@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -57,7 +58,12 @@ r̥cyáte ← √r̥c- (root)
 
 yā́bhyām ← yá- (pronoun)  
 {case:DAT, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आहं सर॑स्वतीवतोरिन्द्रा॒ग्न्योरवो॑ वृणे ।  
+याभ्यां॑ गाय॒त्रमृ॒च्यते॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “sing; worship; honor; praise; welcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

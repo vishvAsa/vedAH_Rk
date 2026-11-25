@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ vr̥ṣṇíḥ ← vr̥ṣṇí- (nominal stem)
 
 yūthéna ← yūthá- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्सानोः॒ सानु॒मारु॑ह॒द्भूर्यस्प॑ष्ट॒ कर्त्व॑म् ।  
+तदिन्द्रो॒ अर्थं॑ चेतति यू॒थेन॑ वृ॒ष्णिरे॑जति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “move; stir; tremble; travel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ bíbhrataḥ ← √bhr̥- (root)
 
 námaḥ ← námas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ प्रि॒यं पनि॑प्नतं॒ युवा॑नमाहुती॒वृध॑म् ।  
+अग॑न्म॒ बिभ्र॑तो॒ नमः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “adoration; court; namas \[word\]; bow; salute.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -150,12 +155,6 @@ Close to the dear youth who always excites wonder, the one growing  strong throu
 have we come, bearing homage.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The hapax āhutī-vṛ́dh- could be either passive (as in the published translation, also Geldner) or act.
-
-‘strengthening the oblation’ (Renou). Scarlatta (514) considers both possibilities and opts, weakly, for the former. Either could certainly work in context. The long final vowel -tī- is found only here, versus the standard ā́huti-. This can either be a metrical lengthening of the stem vowel, since *āhutĭ-vṛ́dham, with 3 (or actually 4) light syllables in a row, would produce an unacceptable cadence. Or it can be an instr. sg. to the -ti-stem (see inconclusive disc. in Scarlatta.), which would clinch the interpr. of the cmpd as passive ‘strengthened by the oblation’. I weakly favor the latter.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/28-29.md">
 <details><summary><h2>28-29 ...{Loading}...</h2></summary>
 
@@ -163,7 +162,6 @@ It’s not clear why we return to purely Soma vss. at this point, but the aorist
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

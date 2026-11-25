@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ samidhānáḥ ← √idh- 1 (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं त्वा॒ द्यावा॑पृथि॒वी यं त्वाप॒स्त्वष्टा॒ यं त्वा॑ सु॒जनि॑मा ज॒जान॑ ।  
+पन्था॒मनु॑ प्रवि॒द्वान्पि॑तृ॒याणं॑ द्यु॒मद॑ग्ने समिधा॒नो वि भा॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “look; shine; show; look like; glitter; reflect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ píba ← √pā- 2 (root)
 
 udakám ← udaká- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सू॒य॒व॒साद्भग॑वती॒ हि भू॒या अथो॑ व॒यं भग॑वन्तः स्याम ।  
+अ॒द्धि तृण॑मघ्न्ये विश्व॒दानीं॒ पिब॑ शु॒द्धमु॑द॒कमा॒चर॑न्ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     heed; treat; act; produce; behave; put on; do; undertake.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

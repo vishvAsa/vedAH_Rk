@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ marmr̥jyánte ← √mr̥j- (root)
 
 śíśum ← śíśu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि ब्रह्मी॑रनूषत य॒ह्वीरृ॒तस्य॑ मा॒तरः॑ ।  
+म॒र्मृ॒ज्यन्ते॑ दि॒वः शिशु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

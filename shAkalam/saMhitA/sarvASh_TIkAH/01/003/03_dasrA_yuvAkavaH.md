@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -54,7 +55,12 @@ rudravartanī ← rudrávartani- (nominal stem)
 
 yātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दस्रा॑ यु॒वाक॑वः सु॒ता नास॑त्या वृ॒क्तब॑र्हिषः ।  
+आ या॑तं रुद्रवर्तनी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +124,6 @@ _________
 - “Asvins.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

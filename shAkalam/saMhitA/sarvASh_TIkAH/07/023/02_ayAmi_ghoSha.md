@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ parṣi ← √pr̥- (root)
 
 tā́ni ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अया॑मि॒ घोष॑ इन्द्र दे॒वजा॑मिरिर॒ज्यन्त॒ यच्छु॒रुधो॒ विवा॑चि ।  
+न॒हि स्वमायु॑श्चिकि॒ते जने॑षु॒ तानीदंहां॒स्यति॑ पर्ष्य॒स्मान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

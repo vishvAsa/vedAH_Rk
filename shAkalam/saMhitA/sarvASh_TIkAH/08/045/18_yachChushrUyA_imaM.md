@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ bháveḥ ← √bhū- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यच्छु॑श्रू॒या इ॒मं हवं॑ दु॒र्मर्षं॑ चक्रिया उ॒त ।  
+भवे॑रा॒पिर्नो॒ अन्त॑मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “intimate; bosom(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

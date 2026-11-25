@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ síndhoḥ ← síndhu- (nominal stem)
 
 ūrmíḥ ← ūrmí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ ह॒स्तिनो॒ मधु॑मन्त॒मद्रि॑भिर्दु॒हन्त्य॒प्सु वृ॑ष॒भं दश॒ क्षिपः॑ ।  
+इन्द्रं॑ सोम मा॒दय॒न्दैव्यं॒ जनं॒ सिन्धो॑रिवो॒र्मिः पव॑मानो अर्षसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “run.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -253,10 +258,6 @@ You, honeyed, do those having hands milk with stones; you the bull do  the ten f
 Exhilarating Indra and the divine race, o Soma, purifying yourself, you  rush like the wave of a river.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first two pādas have the same structure as 4ab: they share a verb form of √duh, duhánti in b, with two different subjects, hastínaḥ (a) and dáśa kṣípaḥ (b) again. The “stones” of 4c (grā́vabhiḥ) return, but with different lexical realization (ádribhiḥ).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/080/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -264,7 +265,6 @@ Both vss. open with táṃ tvā, echoing yáṃ tvā beginning vs. 2.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

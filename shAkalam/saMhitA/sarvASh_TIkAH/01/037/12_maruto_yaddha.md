@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ acucyavītana ← √cyu- (root)
 
 girī́n ← girí- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मरु॑तो॒ यद्ध॑ वो॒ बलं॒ जनाँ॑ अचुच्यवीतन ।  
+गि॒रीँर॑चुच्यवीतन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
     dislodge; miss; deprive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

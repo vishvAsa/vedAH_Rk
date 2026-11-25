@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ ná ← ná (invariable)
 
 taktáḥ ← √tak- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ प्र सो॑म ते॒ रसोऽस॑र्जि क॒लशे॑ सु॒तः ।  
+श्ये॒नो न त॒क्तो अ॑र्षति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “run.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -180,7 +185,6 @@ Like a falcon launched in flight, it rushes.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -188,7 +192,6 @@ Little evidence of unity in the Viśvāmitra tṛca, though the falcon (śyená-
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

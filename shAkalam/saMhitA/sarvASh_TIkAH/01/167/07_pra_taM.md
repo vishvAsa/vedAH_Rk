@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ subhāgā́ḥ ← subhāgá- (nominal stem)
 
 váhate ← √vah- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र तं वि॑वक्मि॒ वक्म्यो॒ य ए॑षां म॒रुतां॑ महि॒मा स॒त्यो अस्ति॑ ।  
+सचा॒ यदीं॒ वृष॑मणा अहं॒युः स्थि॒रा चि॒ज्जनी॒र्वह॑ते सुभा॒गाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - \[noun\], accusative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -258,14 +263,6 @@ I proclaim what of theirs is worthy of proclamation, that the greatness  of the 
 when in company with them, her mind set on the bulls, she, self-reliant  and firm, brings with her the well-portioned Wives (of the Gods).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-For my tr. of vṛ́ṣamaṇas- see disc. of nṛmáṇas- in 5b.
-
-Geldner suggests that the greatness of the Maruts (pāda b) is demonstrated by the fact that Rodasī happily brings along their other lovers without jealousy. This seems like an interpretational male fantasy to me (though I realize that our poet is also male and therefore likely prone to the same fantasy). I have a much soberer and less entertaining interpr. based in ritual. In the plural, jánī- is regularly used of the wives of the gods, esp. in regard to their attendance at certain rituals. They are ordinarily brought by Tvaṣṭar, but here Rodasī, one of their own, as it were, seems to stand in as their chaperon and cicerone. In the Ṛtugraha offerings (the “sequential cups”), in which a fixed order of gods receives oblations, the offering to the Maruts is followed immediately by one to Tvaṣṭar along with the wives of the gods; see I.15.2-3, II.36.2-3 (II.36.3d tváṣṭar devébhir jánibhiḥ sumádgaṇaḥ). Thus, given the temporal proximity of the oblations made to them at this ritual, one might expect to find both the Maruts and the wives of the gods together on the ritual ground.
-
-I do not understand the force of cid in d, and in fact I think it’s been automatically imported from the passages containing sthirā́cid where the adj. is a neut. pl. and the point is that our hero (whoever it happens to be) has destroyed various items “even though they are firm/hard” (I.127.4, IV.7.10, VIII.20.1). In other words, I do not think it has a function here.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
 <details><summary><h2>03-07 ...{Loading}...</h2></summary>
 
@@ -273,7 +270,6 @@ Hoffmann (Injunk., 194-97) translates and comments on these verses.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

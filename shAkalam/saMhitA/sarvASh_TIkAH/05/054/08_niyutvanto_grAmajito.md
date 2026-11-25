@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ undanti ← √ud- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि॒युत्व॑न्तो ग्राम॒जितो॒ यथा॒ नरो॑ऽर्य॒मणो॒ न म॒रुतः॑ कब॒न्धिनः॑ ।  
+पिन्व॒न्त्युत्सं॒ यदि॒नासो॒ अस्व॑र॒न्व्यु॑न्दन्ति पृथि॒वीं मध्वो॒ अन्ध॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “Soma; drink; amṛta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

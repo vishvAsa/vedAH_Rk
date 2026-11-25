@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "जगती त्रिष्टुब्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,14 @@ sucetúnā ← sucetúna- (nominal stem)
 
 svastí ← svastí- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒स्ति नो॑ मिमीताम् अ॒श्विना॒  
+भगः॑ स्व॒स्ति दे॒व्य् अदि॑तिर् अन॒र्वणः॑ ।  
+स्व॒स्ति पू॒षा असु॑रो दधातु नः  
+स्व॒स्ति द्यावा॑पृथि॒वी सु॑चे॒तुना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +214,6 @@ _________
 - \[noun\], instrumental, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -238,12 +245,6 @@ Well-being let the Aśvins, let Fortune mete out to us; well-being let the  godd
 Well-being let lord Pūṣan establish for us; well-being let Heaven and  Earth, with kind attention.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-anarváṇaḥ receives far more attention than I think it deserves. See esp. Oldenberg
-
-However, now see the abundant references to my own comments on the various anarvá(n)(a)- stems in the lexical commentary index.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
 <details><summary><h2>11-15 ...{Loading}...</h2></summary>
 
@@ -253,7 +254,6 @@ Its lexical hero is svastí-, a form of which appears in every pāda between 11a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

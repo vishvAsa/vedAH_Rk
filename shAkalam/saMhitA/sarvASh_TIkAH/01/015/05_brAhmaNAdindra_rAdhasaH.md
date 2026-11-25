@@ -4,6 +4,7 @@ devataa = "ऋतवः इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतवः इन्द्रः
@@ -66,7 +67,12 @@ sakhyám ← sakhyá- (nominal stem)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्राह्म॑णादिन्द्र॒ राध॑सः॒ पिबा॒ सोम॑मृ॒तूँरनु॑ ।  
+तवेद्धि स॒ख्यमस्तृ॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “durable; invincible.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

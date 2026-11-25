@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ pr̥ṣṭhám ← pr̥ṣṭhá- (nominal stem)
 
 tiṣṭhanti ← √sthā- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तपो॑ष्प॒वित्रं॒ वित॑तं दि॒वस्प॒दे शोच॑न्तो अस्य॒ तन्त॑वो॒ व्य॑स्थिरन् ।  
+अव॑न्त्यस्य पवी॒तार॑मा॒शवो॑ दि॒वस्पृ॒ष्ठमधि॑ तिष्ठन्ति॒ चेत॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “mind; heart; consciousness; intelligence; purpose; cetas \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

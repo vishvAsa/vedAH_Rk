@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नभःप्रभेदनो वैरूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ cit ← cit (invariable)
 
 rāyé ← rayí- ~ rāy- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि॒ख्या नो॑ मघव॒न्नाध॑माना॒न्त्सखे॑ बो॒धि व॑सुपते॒ सखी॑नाम् ।  
+रणं॑ कृधि रणकृत्सत्यशु॒ष्माभ॑क्ते चि॒दा भ॑जा रा॒ये अ॒स्मान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

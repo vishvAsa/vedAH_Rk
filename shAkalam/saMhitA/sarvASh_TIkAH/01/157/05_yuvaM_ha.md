@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ aśvinau ← aśvín- (nominal stem)
 
 vánaspátīn ← vánaspáti- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं ह॒ गर्भं॒ जग॑तीषु धत्थो यु॒वं विश्वे॑षु॒ भुव॑नेष्व॒न्तः ।  
+यु॒वम॒ग्निं च॑ वृषणाव॒पश्च॒ वन॒स्पतीँ॑रश्विना॒वैर॑येथाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     enumerate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

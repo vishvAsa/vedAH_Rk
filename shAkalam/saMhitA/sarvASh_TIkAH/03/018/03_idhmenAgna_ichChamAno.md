@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कतो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ imā́m ← ayám (pronoun)
 
 śataséyāya ← śataséya- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ध्मेना॑ग्न इ॒च्छमा॑नो घृ॒तेन॑ जु॒होमि॑ ह॒व्यं तर॑से॒ बला॑य ।  
+याव॒दीशे॒ ब्रह्म॑णा॒ वन्द॑मान इ॒मां धियं॑ शत॒सेया॑य दे॒वीम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “divine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

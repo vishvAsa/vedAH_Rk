@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -76,7 +77,12 @@ sā́ ← sá- ~ tá- (pronoun)
 
 srídhaḥ ← srídh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्या नो॒ दिवा॑ म॒तिरदि॑तिरू॒त्या ग॑मत् ।  
+सा शन्ता॑ति॒ मय॑स्कर॒दप॒ स्रिधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “failure; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

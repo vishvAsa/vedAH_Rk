@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -60,7 +61,12 @@ bhrā́jantaḥ ← √bhrāj- (root)
 
 yathā ← yathā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अदृ॑श्रमस्य के॒तवो॒ वि र॒श्मयो॒ जनाँ॒ अनु॑ ।  
+भ्राज॑न्तो अ॒ग्नयो॑ यथा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

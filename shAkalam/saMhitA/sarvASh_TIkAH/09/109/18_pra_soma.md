@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -55,7 +56,11 @@ sutáḥ ← √su- (root)
 
 yemānáḥ ← √yam- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सो॑म या॒हीन्द्र॑स्य कु॒क्षा नृभि॑र्येमा॒नो अद्रि॑भिः सु॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +126,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -147,10 +151,6 @@ _________
 O Soma, journey forth to the cheeks of Indra, being guided by men,  pressed by stones.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On kukṣí- ‘cheek’ see comm. ad III.36.8, VIII.92.24.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -158,7 +158,6 @@ Vss. 16 and 17 contain the sequence akṣāḥ sahásra(-dhāraḥ / -retaḥ) i
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

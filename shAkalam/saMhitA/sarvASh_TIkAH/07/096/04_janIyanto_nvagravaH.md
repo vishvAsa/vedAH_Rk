@@ -4,6 +4,7 @@ devataa = "सरस्वान्"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वान्
@@ -51,7 +52,12 @@ havāmahe ← √hū- (root)
 
 sárasvantam ← sárasvant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज॒नी॒यन्तो॒ न्वग्र॑वः पुत्री॒यन्तः॑ सु॒दान॑वः ।  
+सर॑स्वन्तं हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +107,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

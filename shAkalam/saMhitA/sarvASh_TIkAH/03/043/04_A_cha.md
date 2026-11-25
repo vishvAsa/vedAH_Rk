@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sákhyuḥ ← sákhi- (nominal stem)
 
 vándanāni ← vándana- 3 (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ च॒ त्वामे॒ता वृष॑णा॒ वहा॑तो॒ हरी॒ सखा॑या सु॒धुरा॒ स्वङ्गा॑ ।  
+धा॒नाव॒दिन्द्रः॒ सव॑नं जुषा॒णः सखा॒ सख्युः॑ शृणव॒द्वन्द॑नानि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “worship; skin disease.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

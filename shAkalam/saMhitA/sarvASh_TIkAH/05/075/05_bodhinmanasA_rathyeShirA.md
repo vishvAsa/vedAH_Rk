@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -76,7 +77,12 @@ máma ← ahám (pronoun)
 
 śrutam ← √śru- (root)  
 {number:DU, person:2, mood:IND, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बो॒धिन्म॑नसा र॒थ्ये॑षि॒रा ह॑वन॒श्रुता॑ ।  
+विभि॒श्च्यवा॑नमश्विना॒ नि या॑थो॒ अद्व॑याविनं॒ माध्वी॒ मम॑ श्रुतं॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

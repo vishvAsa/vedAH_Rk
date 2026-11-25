@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ vā́jeṣu ← vā́ja- (nominal stem)
 
 vājínam ← vājín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आवो॒ यस्य॑ द्वि॒बर्ह॑सो॒ऽर्केषु॑ सानु॒षगस॑त् ।  
+आ॒जाविन्द्र॑स्येन्दो॒ प्रावो॒ वाजे॑षु वा॒जिन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “victorious; triumphant; strong; gainful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

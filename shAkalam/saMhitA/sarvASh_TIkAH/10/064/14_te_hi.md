@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ rétāṁsi ← rétas- (nominal stem)
 
 siñcataḥ ← √sic- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते हि द्यावा॑पृथि॒वी मा॒तरा॑ म॒ही दे॒वी दे॒वाञ्जन्म॑ना य॒ज्ञिये॑ इ॒तः ।  
+उ॒भे बि॑भृत उ॒भयं॒ भरी॑मभिः पु॒रू रेतां॑सि पि॒तृभि॑श्च सिञ्चतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

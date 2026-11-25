@@ -4,6 +4,7 @@ devataa = "वामदेवः"
 RShiH = "अदितिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वामदेवः
@@ -89,7 +90,12 @@ jā́yamānaḥ ← √janⁱ- (root)
 
 ródasī ← ródasī- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒व॒द्यमि॑व॒ मन्य॑माना॒ गुहा॑क॒रिन्द्रं॑ मा॒ता वी॒र्ये॑णा॒ न्यृ॑ष्टम् ।  
+अथोद॑स्थात्स्व॒यमत्कं॒ वसा॑न॒ आ रोद॑सी अपृणा॒ज्जाय॑मानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

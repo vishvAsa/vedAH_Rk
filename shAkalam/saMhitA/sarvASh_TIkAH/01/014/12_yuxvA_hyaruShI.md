@@ -4,6 +4,7 @@ devataa = "विश्वे देवाः (विश्वैर्देव
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः (विश्वैर्देवैः सहितोग्निः)
@@ -66,7 +67,12 @@ tā́bhiḥ ← sá- ~ tá- (pronoun)
 
 vaha ← √vah- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒क्ष्वा ह्यरु॑षी॒ रथे॑ ह॒रितो॑ देव रो॒हितः॑ ।  
+ताभि॑र्दे॒वाँ इ॒हा व॑ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

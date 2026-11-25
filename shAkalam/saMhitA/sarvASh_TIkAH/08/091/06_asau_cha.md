@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अपालात्रेयी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sárvā ← sárva- (nominal stem)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒सौ च॒ या न॑ उ॒र्वरादि॒मां त॒न्वं१॒॑ मम॑ ।  
+अथो॑ त॒तस्य॒ यच्छिरः॒ सर्वा॒ ता रो॑म॒शा कृ॑धि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,14 +253,12 @@ and my Papa’s head—make all these hairy.”
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/091/05-07.md">
 <details><summary><h2>05-07 ...{Loading}...</h2></summary>
 
 On the connection between hair growth and skin disease, see Jamison 1991: 146-70.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

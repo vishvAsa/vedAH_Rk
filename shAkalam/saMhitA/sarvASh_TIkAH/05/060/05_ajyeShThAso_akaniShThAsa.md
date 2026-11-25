@@ -4,6 +4,7 @@ devataa = "मरुतो मरुतो वाग्निश्च"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतो मरुतो वाग्निश्च
@@ -80,7 +81,12 @@ sudínā ← sudína- (nominal stem)
 
 sudúghā ← sudúgha- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ज्ये॒ष्ठासो॒ अक॑निष्ठास ए॒ते सं भ्रात॑रो वावृधुः॒ सौभ॑गाय ।  
+युवा॑ पि॒ता स्वपा॑ रु॒द्र ए॑षां सु॒दुघा॒ पृश्निः॑ सु॒दिना॑ म॒रुद्भ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “Marut; vāta; wind; Vayu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

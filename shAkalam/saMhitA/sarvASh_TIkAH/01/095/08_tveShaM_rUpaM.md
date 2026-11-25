@@ -4,6 +4,7 @@ devataa = "अग्निरग्निरौषस्योवा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निरौषस्योवा
@@ -86,7 +87,12 @@ sā́ ← sá- ~ tá- (pronoun)
 
 sámitiḥ ← sámiti- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे॒षं रू॒पं कृ॑णुत॒ उत्त॑रं॒ यत्स॑म्पृञ्चा॒नः सद॑ने॒ गोभि॑र॒द्भिः ।  
+क॒विर्बु॒ध्नं परि॑ मर्मृज्यते॒ धीः सा दे॒वता॑ता॒ समि॑तिर्बभूव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

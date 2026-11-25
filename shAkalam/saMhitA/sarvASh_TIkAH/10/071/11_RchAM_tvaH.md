@@ -4,6 +4,7 @@ devataa = "ज्ञानं"
 RShiH = "बृहस्पतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ज्ञानं
@@ -89,7 +90,12 @@ ví ← ví (invariable)
 
 yajñásya ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒चां त्वः॒ पोष॑मास्ते पुपु॒ष्वान्गा॑य॒त्रं त्वो॑ गायति॒ शक्व॑रीषु ।  
+ब्र॒ह्मा त्वो॒ वद॑ति जातवि॒द्यां य॒ज्ञस्य॒ मात्रां॒ वि मि॑मीत उ त्वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “many a(a); one.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

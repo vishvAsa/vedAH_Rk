@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -80,7 +81,12 @@ sárasvatīm ← sárasvant- (nominal stem)
 
 vivāsema ← √vanⁱ- (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं शुष्मे॑भिर्बिस॒खा इ॑वारुज॒त्सानु॑ गिरी॒णां त॑वि॒षेभि॑रू॒र्मिभिः॑ ।  
+पा॒रा॒व॒त॒घ्नीमव॑से सुवृ॒क्तिभिः॒ सर॑स्वती॒मा वि॑वासेम धी॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “thinking; prayer; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -234,8 +239,6 @@ Indeed, in our syncretic lineage this R^ik is taken to be the vaidika mantra of 
 Here, she is called prAjApatyA which in the later tradition means sarasvatI.
 </details>
 
-
-
 <details><summary>Wilson</summary>
 
 _________
@@ -255,12 +258,6 @@ She, like a root-grubbing (boar) with her snortings, broke the back of  the moun
 Sarasvatī, who smashes the foreigners, we would entice here for help  with well-plaited (hymns), with visionary thoughts.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Once again, the attributes and actions ascribed to Sarasvatī are decidedly unfeminine, starting with the almost comically off-kilter comparison of her to a rootgrubbing boar. The identification of the bisakhā́- as a boar is owing to Hoffmann (MSS 8: 5 = Aufs. 387). The point of comparison between the river and the boar must be their noise: śúṣmebhiḥ ‘with her snortings’, though the root-grubbing is presumably part of it, as the river in spate noisily pulls off pieces of the banks.
-
-Note ávase in c, which echoes avasám in 1c and is in turn echoed by á (vi)vās(ema) in d.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -268,7 +265,6 @@ The hymn begins with the near-deictic nom. sg. iyám, establishing the feminine 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

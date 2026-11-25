@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ prakrīḷínaḥ ← prakrīḷín- (nominal stem)
 
 vatsā́saḥ ← vatsá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्या॑सो॒ न ये म॒रुतः॒ स्वञ्चो॑ यक्ष॒दृशो॒ न शु॒भय॑न्त॒ मर्याः॑ ।  
+ते ह॑र्म्ये॒ष्ठाः शिश॑वो॒ न शु॒भ्रा व॒त्सासो॒ न प्र॑क्री॒ळिनः॑ पयो॒धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “giving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

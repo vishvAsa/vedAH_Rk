@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ cakāra ← √kr̥- (root)
 
 uṣásaḥ ← uṣás- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं द्यो॑तयद॒द्युतो॒ व्य१॒॑क्तून्दो॒षा वस्तोः॑ श॒रद॒ इन्दु॑रिन्द्र ।  
+इ॒मं के॒तुम॑दधु॒र्नू चि॒दह्नां॒ शुचि॑जन्मन उ॒षस॑श्चकार ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -263,10 +268,6 @@ This drop here lights up the unlit nights in the evening and at dawn  through th
 This one they established to be ever the beacon of the days: he has made  the dawns to have blazing birth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The identity of ayám as soma is fixed by índuḥ ‘drop’ towards the end of b, but not until fairly late in this sequence. The play of índu- and índra- so prominent in Maṇḍala IX is found here in their adjacency at the end of the hemistich.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md">
 <details><summary><h2>02-04 ...{Loading}...</h2></summary>
 
@@ -278,7 +279,6 @@ On vss. 3-4 see Hoffmann, Injunk. 142-43.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ jánam ← jána- (nominal stem)
 
 namasyá ← √namasy- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒शंसो॑ बोधि गृण॒ते य॑विष्ठ्य॒ मधु॑जिह्वः॒ स्वा॑हुतः ।  
+प्रस्क॑ण्वस्य प्रति॒रन्नायु॑र्जी॒वसे॑ नम॒स्या दैव्यं॒ जन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

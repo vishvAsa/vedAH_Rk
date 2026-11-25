@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गातुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ hávamānāsaḥ ← √hū- (root)
 
 vástoḥ ← vástu- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एकं॒ नु त्वा॒ सत्प॑तिं॒ पाञ्च॑जन्यं जा॒तं शृ॑णोमि य॒शसं॒ जने॑षु ।  
+तं मे॑ जगृभ्र आ॒शसो॒ नवि॑ष्ठं दो॒षा वस्तो॒र्हव॑मानास॒ इन्द्र॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

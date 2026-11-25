@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -88,7 +88,12 @@ yajatām ← √yaj- (root)
 
 yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्होता॑ गृ॒हप॑तिः॒ स राजा॒ विश्वा॑ वेद॒ जनि॑मा जा॒तवे॑दाः ।  
+दे॒वाना॑मु॒त यो मर्त्या॑नां॒ यजि॑ष्ठः॒ स प्र य॑जतामृ॒तावा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +219,6 @@ _________
 - “law-abiding; faithful; righteous.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -264,8 +268,6 @@ Agni ist Priester, Hausgebieter, König; der Wesenkenner kennet alle Wesen; Der 
 Тот, кто среди богов, а также среди людей  
 Лучший жертвователь, пусть принесет он жертву, соблюдая закон!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

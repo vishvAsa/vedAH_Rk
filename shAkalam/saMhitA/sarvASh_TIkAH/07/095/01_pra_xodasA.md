@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -86,7 +87,12 @@ síndhuḥ ← síndhu- (nominal stem)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र क्षोद॑सा॒ धाय॑सा सस्र ए॒षा सर॑स्वती ध॒रुण॒माय॑सी॒ पूः ।  
+प्र॒बाब॑धाना र॒थ्ये॑व याति॒ विश्वा॑ अ॒पो म॑हि॒ना सिन्धु॑र॒न्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     more(a); fresh; any(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

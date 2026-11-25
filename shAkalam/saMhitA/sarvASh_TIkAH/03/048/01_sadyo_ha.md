@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ rásāśiraḥ ← rásāśir- (nominal stem)
 
 somyásya ← somyá- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒द्यो ह॑ जा॒तो वृ॑ष॒भः क॒नीनः॒ प्रभ॑र्तुमाव॒दन्ध॑सः सु॒तस्य॑ ।  
+सा॒धोः पि॑ब प्रतिका॒मं यथा॑ ते॒ रसा॑शिरः प्रथ॒मं सो॒म्यस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “saumya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

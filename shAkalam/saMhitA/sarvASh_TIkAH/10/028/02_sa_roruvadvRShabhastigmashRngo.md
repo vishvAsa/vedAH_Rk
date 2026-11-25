@@ -4,6 +4,7 @@ devataa = "ऐन्द्रो वसुक्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऐन्द्रो वसुक्रः
@@ -86,7 +87,12 @@ sutásomaḥ ← sutásoma- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स रोरु॑वद्वृष॒भस्ति॒ग्मशृ॑ङ्गो॒ वर्ष्म॑न्तस्थौ॒ वरि॑म॒न्ना पृ॑थि॒व्याः ।  
+विश्वे॑ष्वेनं वृ॒जने॑षु पामि॒ यो मे॑ कु॒क्षी सु॒तसो॑मः पृ॒णाति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     mix; complete.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

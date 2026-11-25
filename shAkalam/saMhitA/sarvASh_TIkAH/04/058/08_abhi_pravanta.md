@@ -4,6 +4,7 @@ devataa = "अग्निः सूर्यो वापो वा गाव�
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
@@ -80,7 +81,12 @@ juṣāṇáḥ ← √juṣ- (root)
 
 tā́ḥ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्र॑वन्त॒ सम॑नेव॒ योषाः॑ कल्या॒ण्य१॑ः॒ स्मय॑मानासो अ॒ग्निम् ।  
+घृ॒तस्य॒ धाराः॑ स॒मिधो॑ नसन्त॒ ता जु॑षा॒णो ह॑र्यति जा॒तवे॑दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -216,12 +221,6 @@ They float—like lovely young women to (marriage) assemblies— smiling, to Agn
 The streams of ghee approach the kindling sticks. (Agni) Jātavedas  delights, taking pleasure in them.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The violence of the movement of the ghee-streams in the preceding vs. is abruptly replaced by the placid and benign approach of these same streams in this vs. _________
-**11**  
-Renou points out the ring composition of 11d mádhumantaṃ ta ūrmím and 1a ūrmír mádhumān.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details><summary><h2>05-10 ...{Loading}...</h2></summary>
 
@@ -229,7 +228,6 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

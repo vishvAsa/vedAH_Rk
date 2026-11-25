@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अत्रिः साङ्ख्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ návam ← náva- 2 (nominal stem)
 
 rátham ← rátha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्यं चि॒दत्रि॑मृत॒जुर॒मर्थ॒मश्वं॒ न यात॑वे ।  
+क॒क्षीव॑न्तं॒ यदी॒ पुना॒ रथं॒ न कृ॑णु॒थो नव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     fresh.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

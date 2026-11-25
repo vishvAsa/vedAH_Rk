@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ pipartana ← √pr̥- (root)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑न्तु नः पि॒तरः॑ सुप्रवाच॒ना उ॒त दे॒वी दे॒वपु॑त्रे ऋता॒वृधा॑ ।  
+रथं॒ न दु॒र्गाद्व॑सवः सुदानवो॒ विश्व॑स्मान्नो॒ अंह॑सो॒ निष्पि॑पर्तन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “protect; promote; rescue; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -60,7 +61,12 @@ iva ← iva (invariable)
 
 vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं वा॑म॒स्य मन्म॑न॒ इन्द्रा॑ग्नी पू॒र्व्यस्तु॑तिः ।  
+अ॒भ्राद्वृ॒ष्टिरि॑वाजनि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

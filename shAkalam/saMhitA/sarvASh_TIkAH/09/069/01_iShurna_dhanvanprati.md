@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -98,7 +99,12 @@ sómaḥ ← sóma- (nominal stem)
 
 vratéṣu ← vratá- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इषु॒र्न धन्व॒न्प्रति॑ धीयते म॒तिर्व॒त्सो न मा॒तुरुप॑ स॒र्ज्यूध॑नि ।  
+उ॒रुधा॑रेव दुहे॒ अग्र॑ आय॒त्यस्य॑ व्र॒तेष्वपि॒ सोम॑ इष्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +262,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

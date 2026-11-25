@@ -4,6 +4,7 @@ devataa = "अग्निर्वैश्वानरः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्वैश्वानरः
@@ -86,7 +87,12 @@ jyótiḥ ← jyótis- (nominal stem)
 
 vaíśvānara ← vaiśvānará- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मू॒र्धा दि॒वो नाभि॑र॒ग्निः पृ॑थि॒व्या अथा॑भवदर॒ती रोद॑स्योः ।  
+तं त्वा॑ दे॒वासो॑ऽजनयन्त दे॒वं वैश्वा॑नर॒ ज्योति॒रिदार्या॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “Ārya; Ārya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

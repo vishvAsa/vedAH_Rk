@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tr̥pát ← tr̥pát (invariable)
 
 vr̥ṣasva ← √vr̥ṣ- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गवा॑शिरं म॒न्थिन॑मिन्द्र शु॒क्रं पिबा॒ सोमं॑ ररि॒मा ते॒ मदा॑य ।  
+ब्र॒ह्म॒कृता॒ मारु॑तेना ग॒णेन॑ स॒जोषा॑ रु॒द्रैस्तृ॒पदा वृ॑षस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “shower; rain; effuse; shower; drench.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

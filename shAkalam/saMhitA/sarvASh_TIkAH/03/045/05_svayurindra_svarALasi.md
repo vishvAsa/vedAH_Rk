@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ naḥ ← ahám (pronoun)
 
 suśrávastamaḥ ← suśrávastama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒युरि॑न्द्र स्व॒राळ॑सि॒ स्मद्दि॑ष्टिः॒ स्वय॑शस्तरः ।  
+स वा॑वृधा॒न ओज॑सा पुरुष्टुत॒ भवा॑ नः सु॒श्रव॑स्तमः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

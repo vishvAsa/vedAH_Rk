@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ víśvam ← víśva- (nominal stem)
 
 yébhiḥ ← yá- (pronoun)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒जि॒रासो॒ हर॑यो॒ ये त॑ आ॒शवो॒ वाता॑ इव प्रस॒क्षिणः॑ ।  
+येभि॒रप॑त्यं॒ मनु॑षः प॒रीय॑से॒ येभि॒र्विश्वं॒ स्व॑र्दृ॒शे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     know; know; understand; understand; follow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

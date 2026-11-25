@@ -4,6 +4,7 @@ devataa = "उषाः;उषा रात्रिश्च"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः;उषा रात्रिश्च
@@ -89,7 +90,12 @@ uṣáse ← uṣás- (nominal stem)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं श्रेष्ठं॒ ज्योति॑षां॒ ज्योति॒रागा॑च्चि॒त्रः प्र॑के॒तो अ॑जनिष्ट॒ विभ्वा॑ ।  
+यथा॒ प्रसू॑ता सवि॒तुः स॒वायँ॑ ए॒वा रात्र्यु॒षसे॒ योनि॑मारैक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “empty; liberate; concede; surrender; purge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -61,7 +62,12 @@ saparyántī ← √sapary- (root)
 
 mímīte ← √mā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं त॑ ऋ॒त्विया॑वती धी॒तिरे॑ति॒ नवी॑यसी ।  
+स॒प॒र्यन्ती॑ पुरुप्रि॒या मिमी॑त॒ इत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “indeed; assuredly; entirely.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

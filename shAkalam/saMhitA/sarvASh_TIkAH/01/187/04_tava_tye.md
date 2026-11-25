@@ -4,6 +4,7 @@ devataa = "अन्नम्"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अन्नम्
@@ -63,7 +64,12 @@ iva ← iva (invariable)
 
 vā́tāḥ ← vā́ta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ त्ये पि॑तो॒ रसा॒ रजां॒स्यनु॒ विष्ठि॑ताः ।  
+दि॒वि वाता॑ इव श्रि॒ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

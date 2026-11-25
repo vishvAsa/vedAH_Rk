@@ -4,6 +4,7 @@ devataa = "आसङ्गः"
 RShiH = "शश्वत्याङ्गिरस्यासङ्गस्य पत्नी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आसङ्गः
@@ -80,7 +81,12 @@ bibharṣi ← √bhr̥- (root)
 
 súbhadram ← súbhadra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अन्व॑स्य स्थू॒रं द॑दृशे पु॒रस्ता॑दन॒स्थ ऊ॒रुर॑व॒रम्ब॑माणः ।  
+शश्व॑ती॒ नार्य॑भि॒चक्ष्या॑ह॒ सुभ॑द्रमर्य॒ भोज॑नं बिभर्षि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

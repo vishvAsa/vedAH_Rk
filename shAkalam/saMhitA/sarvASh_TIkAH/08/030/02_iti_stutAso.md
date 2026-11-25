@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "पुरउष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -69,7 +70,12 @@ mánoḥ ← mánu- (nominal stem)
 
 yajñiyāsaḥ ← yajñíya- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इति॑ स्तु॒तासो॑ असथा रिशादसो॒ ये स्थ त्रय॑श्च त्रिं॒शच्च॑ ।  
+मनो॑र्देवा यज्ञियासः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sadhamā́daḥ ← sadhamád- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्वाग्रथं॑ वि॒श्ववा॑रं त उ॒ग्रेन्द्र॑ यु॒क्तासो॒ हर॑यो वहन्तु ।  
+की॒रिश्चि॒द्धि त्वा॒ हव॑ते॒ स्व॑र्वानृधी॒महि॑ सध॒माद॑स्ते अ॒द्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “now; today; then; nowadays; adya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -254,10 +259,6 @@ Close to here let your yoked fallow bays convey your chariot, which  brings all 
 for even the weakling calls upon you, (as well as the man) of solar glory.  Might we achieve success as your feasting companions today.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I take svàrvān as implicitly conjoined with kīríḥ, with the pair displaying the range of mortals who call upon Indra. This is one of Oldenberg’s suggestions; alternatively he suggests that it is proleptic, but this seems overly complex — though it seems to underlie Geldner’s interpr.: “denn auch die Arme ruft dich erleuchtet.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -265,7 +266,6 @@ On the shift in referent between the hárayaḥ in 1b (Indra’s horses) and the
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

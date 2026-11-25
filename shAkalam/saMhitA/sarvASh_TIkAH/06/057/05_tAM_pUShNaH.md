@@ -4,6 +4,7 @@ devataa = "इन्द्रापूषणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रापूषणौ
@@ -66,7 +67,12 @@ ca ← ca (invariable)
 
 rabhāmahe ← √rabh- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तां पू॒ष्णः सु॑म॒तिं व॒यं वृ॒क्षस्य॒ प्र व॒यामि॑व ।  
+इन्द्र॑स्य॒ चा र॑भामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “clasp.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

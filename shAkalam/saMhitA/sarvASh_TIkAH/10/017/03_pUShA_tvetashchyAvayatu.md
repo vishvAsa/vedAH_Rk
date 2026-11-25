@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -86,7 +87,12 @@ devébhyaḥ ← devá- (nominal stem)
 
 suvidatríyebhyaḥ ← suvidatríya- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒षा त्वे॒तश्च्या॑वयतु॒ प्र वि॒द्वानन॑ष्टपशु॒र्भुव॑नस्य गो॒पाः ।  
+स त्वै॒तेभ्यः॒ परि॑ ददत्पि॒तृभ्यो॒ऽग्निर्दे॒वेभ्यः॑ सुविद॒त्रिये॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “gracious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

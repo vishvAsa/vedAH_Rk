@@ -4,6 +4,7 @@ devataa = "हरिस्तुतिः"
 RShiH = "बरुः सर्वहरिर्वैन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हरिस्तुतिः
@@ -89,7 +90,12 @@ vr̥ṣan ← vŕ̥ṣan- (nominal stem)
 
 vr̥ṣasva ← √vr̥ṣ- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपाः॒ पूर्वे॑षां हरिवः सु॒ताना॒मथो॑ इ॒दं सव॑नं॒ केव॑लं ते ।  
+म॒म॒द्धि सोमं॒ मधु॑मन्तमिन्द्र स॒त्रा वृ॑षञ्ज॒ठर॒ आ वृ॑षस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “shower; rain; effuse; shower; drench.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

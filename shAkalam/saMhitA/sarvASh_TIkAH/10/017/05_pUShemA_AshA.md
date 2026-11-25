@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -83,7 +84,12 @@ prajānán ← √jñā- (root)
 
 purás ← purás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒षेमा आशा॒ अनु॑ वेद॒ सर्वाः॒ सो अ॒स्माँ अभ॑यतमेन नेषत् ।  
+स्व॒स्ति॒दा आघृ॑णिः॒ सर्व॑वी॒रोऽप्र॑युच्छन्पु॒र ए॑तु प्रजा॒नन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “know; perceive; understand; detect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

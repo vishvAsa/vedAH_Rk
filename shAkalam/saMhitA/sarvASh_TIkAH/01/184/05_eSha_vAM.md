@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ mádantā ← √mad- (root)
 
 nāsatyā ← nā́satya- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष वां॒ स्तोमो॑ अश्विनावकारि॒ माने॑भिर्मघवाना सुवृ॒क्ति ।  
+या॒तं व॒र्तिस्तन॑याय॒ त्मने॑ चा॒गस्त्ये॑ नासत्या॒ मद॑न्ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

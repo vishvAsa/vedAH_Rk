@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ júṣṭāḥ ← júṣṭa- (nominal stem)
 
 júṣṭayaḥ ← júṣṭi- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ त्वा गिर्वणो॒ गिर॑ इ॒मा भ॑वन्तु वि॒श्वतः॑ ।  
+वृ॒द्धायु॒मनु॒ वृद्ध॑यो॒ जुष्टा॑ भवन्तु॒ जुष्ट॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “satisfaction; enjoyment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कौत्सो दुर्मित्रो नाम्ना दुर्मित्रो गुणतो वा नाम्ना दुर्मित्रो गुणतः"
 ChandaH = "उष्णिग्गायत्री वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ sutám ← √su- (root)
 
 vātā́pyāya ← vātā́pya- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒दा व॑सो स्तो॒त्रं हर्य॑त॒ आव॑ श्म॒शा रु॑ध॒द्वाः ।  
+दी॒र्घं सु॒तं वा॒ताप्या॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - \[noun\], dative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

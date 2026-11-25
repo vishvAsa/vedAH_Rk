@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -92,7 +93,12 @@ mitráḥ ← mitrá- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त या॑सि सवित॒स्त्रीणि॑ रोच॒नोत सूर्य॑स्य र॒श्मिभिः॒ समु॑च्यसि ।  
+उ॒त रात्री॑मुभ॒यतः॒ परी॑यस उ॒त मि॒त्रो भ॑वसि देव॒ धर्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “regulation; Dharma; law; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

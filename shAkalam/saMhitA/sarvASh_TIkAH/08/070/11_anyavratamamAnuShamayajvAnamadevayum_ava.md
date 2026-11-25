@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ párvataḥ ← párvata- (nominal stem)
 
 sughnā́ya ← sughná- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न्यव्र॑त॒ममा॑नुष॒मय॑ज्वान॒मदे॑वयुम् ।  
+अव॒ स्वः सखा॑ दुधुवीत॒ पर्व॑तः सु॒घ्नाय॒ दस्युं॒ पर्व॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
     height.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

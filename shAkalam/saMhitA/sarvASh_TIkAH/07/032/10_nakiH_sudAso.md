@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vrajé ← vrajá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नकिः॑ सु॒दासो॒ रथं॒ पर्या॑स॒ न री॑रमत् ।  
+इन्द्रो॒ यस्या॑वि॒ता यस्य॑ म॒रुतो॒ गम॒त्स गोम॑ति व्र॒जे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     herd; flock; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

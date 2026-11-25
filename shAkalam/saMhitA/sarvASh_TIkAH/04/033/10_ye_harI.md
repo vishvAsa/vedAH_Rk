@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -92,7 +93,12 @@ ná ← ná (invariable)
 
 r̥bhavaḥ ← r̥bhú- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये हरी॑ मे॒धयो॒क्था मद॑न्त॒ इन्द्रा॑य च॒क्रुः सु॒युजा॒ ये अश्वा॑ ।  
+ते रा॒यस्पोषं॒ द्रवि॑णान्य॒स्मे ध॒त्त ऋ॑भवः क्षेम॒यन्तो॒ न मि॒त्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

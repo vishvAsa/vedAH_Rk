@@ -4,6 +4,7 @@ devataa = "शची पौलोमी"
 RShiH = "शची पौलोमी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शची पौलोमी
@@ -80,7 +81,12 @@ pátyau ← páti- (nominal stem)
 
 uttamáḥ ← uttamá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मम॑ पु॒त्राः श॑त्रु॒हणोऽथो॑ मे दुहि॒ता वि॒राट् ।  
+उ॒ताहम॑स्मि संज॒या पत्यौ॑ मे॒ श्लोक॑ उत्त॒मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     finest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

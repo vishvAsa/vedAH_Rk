@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -101,7 +102,12 @@ krátvā ← krátu- (nominal stem)
 
 sacate ← √sac- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमित्पृ॑च्छन्ति॒ न सि॒मो वि पृ॑च्छति॒ स्वेने॑व॒ धीरो॒ मन॑सा॒ यदग्र॑भीत् ।  
+न मृ॑ष्यते प्रथ॒मं नाप॑रं॒ वचो॒ऽस्य क्रत्वा॑ सचते॒ अप्र॑दृपितः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -264,7 +270,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

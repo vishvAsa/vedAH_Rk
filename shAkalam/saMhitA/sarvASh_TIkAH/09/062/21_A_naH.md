@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ devaśrúttamam ← devaśrúttama- (nominal stem)
 
 devébhyaḥ ← devá- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नः॒ सोमं॑ प॒वित्र॒ आ सृ॒जता॒ मधु॑मत्तमम् ।  
+दे॒वेभ्यो॑ देव॒श्रुत्त॑मम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -157,7 +162,6 @@ for the gods, the most audible to the gods.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -165,7 +169,6 @@ There is some chaining between vss. (cows/milk in 19, 20; mádhu in 20, 21 and t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

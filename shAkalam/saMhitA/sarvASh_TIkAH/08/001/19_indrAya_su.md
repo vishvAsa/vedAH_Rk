@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ ná ← ná (invariable)
 
 vājayúm ← vājayú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑य॒ सु म॒दिन्त॑मं॒ सोमं॑ सोता॒ वरे॑ण्यम् ।  
+श॒क्र ए॑णं पीपय॒द्विश्व॑या धि॒या हि॑न्वा॒नं न वा॑ज॒युम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “competing(a); competitive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

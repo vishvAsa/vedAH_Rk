@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -74,7 +75,12 @@ práti ← práti (invariable)
 
 víprāsaḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यु॒तद्या॑मानं बृह॒तीमृ॒तेन॑ ऋ॒ताव॑रीमरु॒णप्सुं॑ विभा॒तीम् ।  
+दे॒वीमु॒षसं॒ स्व॑रा॒वह॑न्तीं॒ प्रति॒ विप्रा॑सो म॒तिभि॑र्जरन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “sing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ sahásrabhr̥ṣṭiḥ ← sahásrabhr̥ṣṭi- (nominal stem)
 
 śrávaḥ ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह॒विर्ह॑विष्मो॒ महि॒ सद्म॒ दैव्यं॒ नभो॒ वसा॑नः॒ परि॑ यास्यध्व॒रम् ।  
+राजा॑ प॒वित्र॑रथो॒ वाज॒मारु॑हः स॒हस्र॑भृष्टिर्जयसि॒ श्रवो॑ बृ॒हत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

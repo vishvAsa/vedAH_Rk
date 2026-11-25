@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ rā́sat ← √rā- 1 (root)
 
 vā́jān ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि त्यं वी॒रं गिर्व॑णसम॒र्चेन्द्रं॒ ब्रह्म॑णा जरित॒र्नवे॑न ।  
+श्रव॒दिद्धव॒मुप॑ च॒ स्तवा॑नो॒ रास॒द्वाजाँ॒ उप॑ म॒हो गृ॑णा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

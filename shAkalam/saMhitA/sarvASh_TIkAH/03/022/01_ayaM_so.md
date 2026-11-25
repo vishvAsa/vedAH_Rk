@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sasavā́n ← √sanⁱ- (root)
 
 stūyase ← √stu- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं सो अ॒ग्निर्यस्मि॒न्त्सोम॒मिन्द्रः॑ सु॒तं द॒धे ज॒ठरे॑ वावशा॒नः ।  
+स॒ह॒स्रिणं॒ वाज॒मत्यं॒ न सप्तिं॑ सस॒वान्त्सन्त्स्तू॑यसे जातवेदः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

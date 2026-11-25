@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ suyajñā́ḥ ← suyajñá- (nominal stem)
 
 vivāsanti ← √vanⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ मरुत्व इ॒ह पा॑हि॒ सोमं॒ यथा॑ शार्या॒ते अपि॑बः सु॒तस्य॑ ।  
+तव॒ प्रणी॑ती॒ तव॑ शूर॒ शर्म॒न्ना वि॑वासन्ति क॒वयः॑ सुय॒ज्ञाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -285,7 +290,6 @@ O Indra with the Maruts drink here the Soma,
 As thou didst drink the pressed drink with Çaryata  
 Under thy guidance, in thy protection, O hero,  
 The singers skilled in sacrifice are fain to serve.
-
 </details>
 
 <details><summary>Geldner</summary>

@@ -4,6 +4,7 @@ devataa = "इळः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इळः
@@ -83,7 +84,12 @@ sada ← √sad- (root)
 
 vakṣi ← √vah- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒श्व॒त्त॒ममी॑ळते दू॒त्या॑य ह॒विष्म॑न्तो मनु॒ष्या॑सो अ॒ग्निम् ।  
+वहि॑ष्ठै॒रश्वैः॑ सु॒वृता॒ रथे॒ना दे॒वान्व॑क्षि॒ नि ष॑दे॒ह होता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “Hotṛ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रापर्वतौ"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रापर्वतौ
@@ -80,7 +81,12 @@ mádantā ← √mad- (root)
 
 várdhethām ← √vr̥dh- (root)  
 {number:DU, person:2, mood:IMP, tense:IPRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑पर्वता बृह॒ता रथे॑न वा॒मीरिष॒ आ व॑हतं सु॒वीराः॑ ।  
+वी॒तं ह॒व्यान्य॑ध्व॒रेषु॑ देवा॒ वर्धे॑थां गी॒र्भिरिळ॑या॒ मद॑न्ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

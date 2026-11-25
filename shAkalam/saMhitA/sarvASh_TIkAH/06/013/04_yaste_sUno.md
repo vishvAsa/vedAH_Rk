@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ pátyate ← √pat- 2 (root)
 
 vasavyaìḥ ← vasavyà- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॑ सूनो सहसो गी॒र्भिरु॒क्थैर्य॒ज्ञैर्मर्तो॒ निशि॑तिं वे॒द्यान॑ट् ।  
+विश्वं॒ स दे॑व॒ प्रति॒ वार॑मग्ने ध॒त्ते धा॒न्यं१॒॑ पत्य॑ते वस॒व्यैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “wealth; wealth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

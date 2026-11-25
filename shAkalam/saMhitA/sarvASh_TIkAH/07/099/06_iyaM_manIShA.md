@@ -4,6 +4,7 @@ devataa = "इन्द्राविष्णू"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राविष्णू
@@ -80,7 +81,12 @@ pínvatam ← √pinv- (root)
 
 vr̥jáneṣu ← vr̥jána- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं म॑नी॒षा बृ॑ह॒ती बृ॒हन्तो॑रुक्र॒मा त॒वसा॑ व॒र्धय॑न्ती ।  
+र॒रे वां॒ स्तोमं॑ वि॒दथे॑षु विष्णो॒ पिन्व॑त॒मिषो॑ वृ॒जने॑ष्विन्द्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

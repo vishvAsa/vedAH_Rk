@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ sādaya ← √sad- (root)
 
 yákṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒नु॒ष्वद॑ग्ने अङ्गिर॒स्वद॑ङ्गिरो ययाति॒वत्सद॑ने पूर्व॒वच्छु॑चे ।  
+अच्छ॑ या॒ह्या व॑हा॒ दैव्यं॒ जन॒मा सा॑दय ब॒र्हिषि॒ यक्षि॑ च प्रि॒यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     good; liked; suitable; proper.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

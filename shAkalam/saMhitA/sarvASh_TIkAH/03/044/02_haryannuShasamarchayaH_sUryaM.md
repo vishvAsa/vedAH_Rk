@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ abhí ← abhí (invariable)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह॒र्यन्नु॒षस॑मर्चयः॒ सूर्यं॑ ह॒र्यन्न॑रोचयः ।  
+वि॒द्वाँश्चि॑कि॒त्वान्ह॑र्यश्व वर्धस॒ इन्द्र॒ विश्वा॑ अ॒भि श्रियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
     \[word\]; śrī; prosperity; auspiciousness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

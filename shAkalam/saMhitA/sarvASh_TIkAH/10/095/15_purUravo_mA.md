@@ -4,6 +4,7 @@ devataa = "पुरूरवा ऐळः"
 RShiH = "उर्वशी ऋषिका"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरूरवा ऐळः
@@ -92,7 +93,12 @@ hŕ̥dayāni ← hŕ̥daya- (nominal stem)
 
 sālāvr̥kā́ṇām ← sālāvr̥ká- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पुरू॑रवो॒ मा मृ॑था॒ मा प्र प॑प्तो॒ मा त्वा॒ वृका॑सो॒ अशि॑वास उ क्षन् ।  
+न वै स्त्रैणा॑नि स॒ख्यानि॑ सन्ति सालावृ॒काणां॒ हृद॑यान्ये॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “this; he,she,it (pers. pron.); etad \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

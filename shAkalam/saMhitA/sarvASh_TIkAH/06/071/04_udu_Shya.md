@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -83,7 +84,12 @@ suvati ← √sū- 1 (root)
 
 vāmám ← vāmá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒ ष्य दे॒वः स॑वि॒ता दमू॑ना॒ हिर॑ण्यपाणिः प्रतिदो॒षम॑स्थात् ।  
+अयो॑हनुर्यज॒तो म॒न्द्रजि॑ह्व॒ आ दा॒शुषे॑ सुवति॒ भूरि॑ वा॒मम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “agreeable; vāma \[word\]; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

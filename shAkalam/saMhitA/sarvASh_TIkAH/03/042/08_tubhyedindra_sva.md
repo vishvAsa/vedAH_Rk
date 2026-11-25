@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ rārantu ← √ranⁱ- (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्येदि॑न्द्र॒ स्व ओ॒क्ये॒३॒॑ सोमं॑ चोदामि पी॒तये॑ ।  
+ए॒ष रा॑रन्तु ते हृ॒दि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “heart; heart; mind; breast; hṛd \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

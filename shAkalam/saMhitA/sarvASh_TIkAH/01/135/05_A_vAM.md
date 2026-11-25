@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -125,7 +126,13 @@ vājadā ← vājadā́- (nominal stem)
 
 yuvám ← tvám (pronoun)  
 {case:NOM, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ धियो॑ ववृत्युरध्व॒राँ उपे॒ममिन्दुं॑ मर्मृजन्त वा॒जिन॑मा॒शुमत्यं॒ न वा॒जिन॑म् ।  
+तेषां॑ पिबतमस्म॒यू आ नो॑ गन्तमि॒होत्या ।  
+इन्द्र॑वायू सु॒ताना॒मद्रि॑भिर्यु॒वं मदा॑य वाजदा यु॒वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -334,7 +341,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -368,7 +374,6 @@ Drink of these (soma drinks), seeking us; come here to us with help. O Indra and
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -376,7 +381,6 @@ As indicated in the published introduction, this tṛca is constructed in parall
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

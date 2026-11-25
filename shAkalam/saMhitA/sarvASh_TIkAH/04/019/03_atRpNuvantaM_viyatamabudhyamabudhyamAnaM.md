@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ vájreṇa ← vájra- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अतृ॑प्णुवन्तं॒ विय॑तमबु॒ध्यमबु॑ध्यमानं सुषुपा॒णमि॑न्द्र ।  
+स॒प्त प्रति॑ प्र॒वत॑ आ॒शया॑न॒महिं॒ वज्रे॑ण॒ वि रि॑णा अप॒र्वन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “joint; knot; festival; day; articulation; knot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

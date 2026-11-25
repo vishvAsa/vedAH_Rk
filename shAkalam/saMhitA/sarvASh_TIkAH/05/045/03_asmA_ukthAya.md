@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सदापृण आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ bhū́ma ← bhū́man- (nominal stem)
 
 dasayanta ← √das- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मा उ॒क्थाय॒ पर्व॑तस्य॒ गर्भो॑ म॒हीनां॑ ज॒नुषे॑ पू॒र्व्याय॑ ।  
+वि पर्व॑तो॒ जिही॑त॒ साध॑त॒ द्यौरा॒विवा॑सन्तो दसयन्त॒ भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

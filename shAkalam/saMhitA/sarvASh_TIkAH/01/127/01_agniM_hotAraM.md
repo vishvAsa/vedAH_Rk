@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -110,7 +111,13 @@ víbhrāṣṭim ← víbhrāṣṭi- (nominal stem)
 
 sarpíṣaḥ ← sarpís- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं होता॑रं मन्ये॒ दास्व॑न्तं॒ वसुं॑ सू॒नुं सह॑सो जा॒तवे॑दसं॒ विप्रं॒ न जा॒तवे॑दसम् ।  
+य ऊ॒र्ध्वया॑ स्वध्व॒रो दे॒वो दे॒वाच्या॑ कृ॒पा ।  
+घृ॒तस्य॒ विभ्रा॑ष्टि॒मनु॑ वष्टि शो॒चिषा॒जुह्वा॑नस्य स॒र्पिषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -275,7 +282,6 @@ _________
 - “ghee; clarified butter; sarpiḥprameha.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

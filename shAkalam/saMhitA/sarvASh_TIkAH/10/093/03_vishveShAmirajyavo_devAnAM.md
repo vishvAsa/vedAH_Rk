@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -65,7 +66,12 @@ yajñéṣu ← yajñá- (nominal stem)
 
 yajñíyāḥ ← yajñíya- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑षामिरज्यवो दे॒वानां॒ वार्म॒हः ।  
+विश्वे॒ हि वि॒श्वम॑हसो॒ विश्वे॑ य॒ज्ञेषु॑ य॒ज्ञियाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

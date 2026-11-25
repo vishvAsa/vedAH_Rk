@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tatákṣa ← √takṣ- (root)
 
 vájram ← vájra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह्र॒दं न हि त्वा॑ न्यृ॒षन्त्यू॒र्मयो॒ ब्रह्मा॑णीन्द्र॒ तव॒ यानि॒ वर्ध॑ना ।  
+त्वष्टा॑ चित्ते॒ युज्यं॑ वावृधे॒ शव॑स्त॒तक्ष॒ वज्र॑म॒भिभू॑त्योजसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

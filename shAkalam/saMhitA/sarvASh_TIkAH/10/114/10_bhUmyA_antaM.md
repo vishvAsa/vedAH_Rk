@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सध्रिर्वैरूपो घर्मो वा तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ yadā́ ← yadā́ (invariable)
 
 yamáḥ ← yamá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूम्या॒ अन्तं॒ पर्येके॑ चरन्ति॒ रथ॑स्य धू॒र्षु यु॒क्तासो॑ अस्थुः ।  
+श्रम॑स्य दा॒यं वि भ॑जन्त्येभ्यो य॒दा य॒मो भव॑ति ह॒र्म्ये हि॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

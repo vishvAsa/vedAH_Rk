@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ pūrvī́ḥ ← purú- (nominal stem)
 
 uṣásaḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किं स्वि॒द्वनं॒ क उ॒ स वृ॒क्ष आ॑स॒ यतो॒ द्यावा॑पृथि॒वी नि॑ष्टत॒क्षुः ।  
+सं॒त॒स्था॒ने अ॒जरे॑ इ॒तऊ॑ती॒ अहा॑नि पू॒र्वीरु॒षसो॑ जरन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

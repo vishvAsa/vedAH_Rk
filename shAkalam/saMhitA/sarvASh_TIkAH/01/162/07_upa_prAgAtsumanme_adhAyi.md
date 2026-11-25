@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -92,7 +93,12 @@ puṣṭé ← √puṣ- (root)
 
 subándhum ← subándhu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॒ प्रागा॑त्सु॒मन्मे॑ऽधायि॒ मन्म॑ दे॒वाना॒माशा॒ उप॑ वी॒तपृ॑ष्ठः ।  
+अन्वे॑नं॒ विप्रा॒ ऋष॑यो मदन्ति दे॒वानां॑ पु॒ष्टे च॑कृमा सु॒बन्धु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “relative; bandhu \[word\]; association; friend; kin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

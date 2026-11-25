@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -104,7 +105,12 @@ naḥ ← ahám (pronoun)
 
 váne ← vána- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ अग्ने॒ऽवीर॑ते॒ परा॑ दा दु॒र्वास॒सेऽम॑तये॒ मा नो॑ अ॒स्यै ।  
+मा नः॑ क्षु॒धे मा र॒क्षस॑ ऋतावो॒ मा नो॒ दमे॒ मा वन॒ आ जु॑हूर्थाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -273,7 +279,6 @@ _________
 - \[verb\], singular, Present injunctive
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

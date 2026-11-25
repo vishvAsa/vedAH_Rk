@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ návyasīṣu ← návyas- (nominal stem)
 
 ní ← ní (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदिन्मा॒तॄरावि॑श॒द्यास्वा शुचि॒रहिं॑स्यमान उर्वि॒या वि वा॑वृधे ।  
+अनु॒ यत्पूर्वा॒ अरु॑हत्सना॒जुवो॒ नि नव्य॑सी॒ष्वव॑रासु धावते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - “run; run; wash.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

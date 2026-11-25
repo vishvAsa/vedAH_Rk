@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ háribhiḥ ← hári- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ ह॒र्यन्त॒मर्जु॑नं॒ वज्रं॑ शु॒क्रैर॒भीवृ॑तम् ।  
+अपा॑वृणो॒द्धरि॑भि॒रद्रि॑भिः सु॒तमुद्गा हरि॑भिराजत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - \[verb\], singular, Imperfect
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कृष्णो विश्वको वा कार्ष्णिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ ví ← ví (invariable)
 
 yauṣṭam ← √yu- 2 (root)  
 {number:DU, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तेन॑ दे॒वः स॑वि॒ता श॑मायत ऋ॒तस्य॒ शृङ्ग॑मुर्वि॒या वि प॑प्रथे ।  
+ऋ॒तं सा॑साह॒ महि॑ चित्पृतन्य॒तो मा नो॒ वि यौ॑ष्टं स॒ख्या मु॒मोच॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     discharge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

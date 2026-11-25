@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ ebhyaḥ ← ayám (pronoun)
 
 yāváya ← √yu- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ त्रि॒धातु॑ शर॒णं त्रि॒वरू॑थं स्वस्ति॒मत् ।  
+छ॒र्दिर्य॑च्छ म॒घव॑द्भ्यश्च॒ मह्यं॑ च या॒वया॑ दि॒द्युमे॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -212,7 +217,6 @@ that protection hold out to our benefactors and to me. Keep the arrow  away from
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -220,7 +224,6 @@ The unity of this pragātha is required by the fact that the rel. cl. of 10ab mu
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -95,7 +96,12 @@ tát ← sá- ~ tá- (pronoun)
 
 varuṇa ← váruṇa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒स्रो भूमी॑र्धारय॒न्त्रीँरु॒त द्यून्त्रीणि॑ व्र॒ता वि॒दथे॑ अ॒न्तरे॑षाम् ।  
+ऋ॒तेना॑दित्या॒ महि॑ वो महि॒त्वं तद॑र्यमन्वरुण मित्र॒ चारु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

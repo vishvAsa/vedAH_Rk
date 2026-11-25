@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ sudáṁsasam ← sudáṁsas- (nominal stem)
 
 vásūn ← vásu- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अदि॑ति॒र्द्यावा॑पृथि॒वी ऋ॒तं म॒हदिन्द्रा॒विष्णू॑ म॒रुतः॒ स्व॑र्बृ॒हत् ।  
+दे॒वाँ आ॑दि॒त्याँ अव॑से हवामहे॒ वसू॑न्रु॒द्रान्त्स॑वि॒तारं॑ सु॒दंस॑सम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

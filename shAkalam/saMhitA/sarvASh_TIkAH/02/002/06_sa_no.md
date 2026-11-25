@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ mánuṣaḥ ← mánus- (nominal stem)
 
 vītáye ← vītí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॑ रे॒वत्स॑मिधा॒नः स्व॒स्तये॑ सन्दद॒स्वान्र॒यिम॒स्मासु॑ दीदिहि ।  
+आ नः॑ कृणुष्व सुवि॒ताय॒ रोद॑सी॒ अग्ने॑ ह॒व्या मनु॑षो देव वी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “approach; ask; desire; go; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -252,10 +257,6 @@ When you have been kindled, (shine) richly for our well-being; even  after you a
 Turn the two world-halves toward here, for our easy progress, o god  Agni, (for them) to seek out the oblations of Manu.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note the phonological and morphological parallelism of the infinitival datives, s(u)vastáye, suvitā́ya, vītáye.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/002/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -263,7 +264,6 @@ Note the phonological and morphological parallelism of the infinitival datives, 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

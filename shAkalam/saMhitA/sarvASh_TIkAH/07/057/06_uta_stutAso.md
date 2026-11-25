@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 sūnŕ̥tā ← sūnŕ̥ta- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्तु॒तासो॑ म॒रुतो॑ व्यन्तु॒ विश्वे॑भि॒र्नाम॑भि॒र्नरो॑ ह॒वींषि॑ ।  
+ददा॑त नो अ॒मृत॑स्य प्र॒जायै॑ जिगृ॒त रा॒यः सू॒नृता॑ म॒घानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “gift; wealth; reward; wages; reward.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

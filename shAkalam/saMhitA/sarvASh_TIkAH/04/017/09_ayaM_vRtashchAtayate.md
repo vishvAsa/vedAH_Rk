@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sakhyé ← sakhyá- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं वृत॑श्चातयते समी॒चीर्य आ॒जिषु॑ म॒घवा॑ शृ॒ण्व एकः॑ ।  
+अ॒यं वाजं॑ भरति॒ यं स॒नोत्य॒स्य प्रि॒यासः॑ स॒ख्ये स्या॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -236,7 +241,6 @@ This one brings the prize that he wins. Might we be dear to him in his  partners
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -244,7 +248,6 @@ This sequence of vss. is marked by initial ayám ‘this one here’ (9a, 9c, 10
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

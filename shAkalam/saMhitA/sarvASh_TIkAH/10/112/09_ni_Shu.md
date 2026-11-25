@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नभःप्रभेदनो वैरूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ maghavan ← maghávan- (nominal stem)
 
 mahā́m ← máh- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि षु सी॑द गणपते ग॒णेषु॒ त्वामा॑हु॒र्विप्र॑तमं कवी॒नाम् ।  
+न ऋ॒ते त्वत्क्रि॑यते॒ किं च॒नारे म॒हाम॒र्कं म॑घवञ्चि॒त्रम॑र्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “sing; worship; honor; praise; welcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

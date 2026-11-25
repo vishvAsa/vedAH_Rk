@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -86,7 +87,12 @@ dvipā́de ← dvipád- (nominal stem)
 
 náryāya ← nárya- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नक्ष॒द्धव॑मरु॒णीः पू॒र्व्यं राट् तु॒रो वि॒शामङ्गि॑रसा॒मनु॒ द्यून् ।  
+तक्ष॒द्वज्रं॒ नियु॑तं त॒स्तम्भ॒द्द्यां चतु॑ष्पदे॒ नर्या॑य द्वि॒पादे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “biped; Vishnu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

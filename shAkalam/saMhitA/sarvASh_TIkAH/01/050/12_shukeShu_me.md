@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -68,7 +69,12 @@ harimā́ṇam ← harimán- (nominal stem)
 
 ní ← ní (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुके॑षु मे हरि॒माणं॑ रोप॒णाका॑सु दध्मसि ।  
+अथो॑ हारिद्र॒वेषु॑ मे हरि॒माणं॒ नि द॑ध्मसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ barhíḥ ← barhís- (nominal stem)
 
 vājī́ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्य ते॒ मधु॑माँ इन्द्र॒ सोमो॒ वृषा॒ वृष्णे॒ परि॑ प॒वित्रे॑ अक्षाः ।  
+स॒ह॒स्र॒साः श॑त॒सा भू॑रि॒दावा॑ शश्वत्त॒मं ब॒र्हिरा वा॒ज्य॑स्थात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

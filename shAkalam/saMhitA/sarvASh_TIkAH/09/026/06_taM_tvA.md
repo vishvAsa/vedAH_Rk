@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "इध्मवाहो दार्ढच्युतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ pávamāna ← √pū- (root)
 
 matsarám ← matsará- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ हिन्वन्ति वे॒धसः॒ पव॑मान गिरा॒वृध॑म् ।  
+इन्द॒विन्द्रा॑य मत्स॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “intoxicant; invigorating; hostile.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

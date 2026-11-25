@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -95,7 +96,12 @@ samithé ← samithá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किमित्ते॑ विष्णो परि॒चक्ष्यं॑ भू॒त्प्र यद्व॑व॒क्षे शि॑पिवि॒ष्टो अ॑स्मि ।  
+मा वर्पो॑ अ॒स्मदप॑ गूह ए॒तद्यद॒न्यरू॑पः समि॒थे ब॒भूथ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -123,7 +124,12 @@ dhenávaḥ ← dhenú- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्राह॒ तद्व॑हेथे॒ मध्व॒ आहु॑तिं॒ यम॑श्व॒त्थमु॑प॒तिष्ठ॑न्त जा॒यवो॒ऽस्मे ते स॑न्तु जा॒यवः॑ ।  
+सा॒कं गावः॒ सुव॑ते॒ पच्य॑ते॒ यवो॒ न ते॑ वाय॒ उप॑ दस्यन्ति धे॒नवो॒ नाप॑ दस्यन्ति धे॒नवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -316,7 +322,6 @@ _________
 - “cow; dhenu \[word\]; milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषासानक्ता"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषासानक्ता
@@ -83,7 +84,12 @@ upásthe ← upástha- (nominal stem)
 
 uraú ← urú- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वी दि॒वो दु॑हि॒तरा॑ सुशि॒ल्पे उ॒षासा॒नक्ता॑ सदतां॒ नि योनौ॑ ।  
+आ वां॑ दे॒वास॑ उशती उ॒शन्त॑ उ॒रौ सी॑दन्तु सुभगे उ॒पस्थे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “genitalia; lap; sexual desire; anus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

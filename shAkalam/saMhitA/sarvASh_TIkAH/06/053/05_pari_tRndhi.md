@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -60,7 +61,12 @@ asmábhyam ← ahám (pronoun)
 
 randhaya ← √randh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ तृन्धि पणी॒नामार॑या॒ हृद॑या कवे ।  
+अथे॑म॒स्मभ्यं॑ रन्धय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “subjugate; hand over.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,7 +169,6 @@ And make them subject to us.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -173,7 +177,6 @@ On ā́rā- see EWA s.v. It is difficult to determine exactly what tool it was, 
 5, 6, 8). Renou’s ‘lance’ seems entirely too elevated; Geldner’s ‘Stachel’ is a better fit.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

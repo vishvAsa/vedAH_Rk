@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ utá ← utá (invariable)
 
 vīryèṇa ← vīryà- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गुहा॑ हि॒तं गुह्यं॑ गू॒ळ्हम॒प्स्वपी॑वृतं मा॒यिनं॑ क्षि॒यन्त॑म् ।  
+उ॒तो अ॒पो द्यां त॑स्त॒भ्वांस॒मह॒न्नहिं॑ शूर वी॒र्ये॑ण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

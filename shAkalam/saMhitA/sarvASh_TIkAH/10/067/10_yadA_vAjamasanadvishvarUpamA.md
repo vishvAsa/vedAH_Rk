@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -83,7 +84,12 @@ nā́nā ← nā́nā (invariable)
 
 sántaḥ ← √as- 1 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒दा वाज॒मस॑नद्वि॒श्वरू॑प॒मा द्यामरु॑क्ष॒दुत्त॑राणि॒ सद्म॑ ।  
+बृह॒स्पतिं॒ वृष॑णं व॒र्धय॑न्तो॒ नाना॒ सन्तो॒ बिभ्र॑तो॒ ज्योति॑रा॒सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “mouth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

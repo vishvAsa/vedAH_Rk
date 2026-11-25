@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ kárat ← √kr̥- (root)
 
 vásūni ← vásu- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष वृषा॒ वृष॑व्रतः॒ पव॑मानो अशस्ति॒हा ।  
+कर॒द्वसू॑नि दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,10 +164,6 @@ This bull following his bullish commandments, purifying himself,  smashing maled
 will provide goods for the pious.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The nom. pávamānaḥ in b is helpful in identifying the referent as Soma, in that both vṛ́ṣā ‘bull’ (and related vṛ́ṣa-vrataḥ) and aśastihā́could be (and are) just as well used of Indra.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -170,7 +171,6 @@ In this tṛca all three vss. have a form of med. páva-: pávamānaḥ 10b, 11b
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -72,7 +73,12 @@ ví ← ví (invariable)
 
 vr̥dhi ← √vr̥- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वो॒ न च॑क्रदो॒ वृषा॒ सं गा इ॑न्दो॒ समर्व॑तः ।  
+वि नो॑ रा॒ये दुरो॑ वृधि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -196,14 +201,6 @@ You, the bull, whinny like a horse. Sur(round) the cows, sur(round) the  steeds,
 open up the doors for wealth for us.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As noted above, the bull theme gets suddenly muted in this vs.; in compensation, as it were, other animals are introduced: a horse (a), cows and steeds (b).
-
-Opinions vary on how to render the first two pādas, in part because of uncertainty about the verb cakradaḥ. Given the immediately preceding simile áśvo ná, the verb should be intransitive in the sense ‘roar, whinny’; this matches the usage of the simple thematic (aor.?) krada- in passages like IX.97.28 áśvo ná krado vŕ̥ṣabhir yujānáḥ “Like a horse you whinny on being yoked by the bulls.” However, the b pāda, sáṃ gā́ḥ … sám árvataḥ, with two acc. pl.s makes problems. Geldner jury-rigs what we might call a semi-transitive usage of the verb with sám, “zusammenbrüllen” (‘roar [smtg] together’)(see also Ober I.518), while registering the intransitive usage in the simile parenthetically: “Wie ein Ross (wiehernd) sollst du, der Bulle, uns Rinder und Rennpferde zusammen brüllen (brausen).” Despite the precarious nature of this solution, it may be the best one available, and I would entertain an alternative tr. “You the bull roar like a horse, (roaring) together cows and steeds.” I adopt a similar one in the published translation for the very similar passage IX.90.4 sáṃ cikrado mahó asmábhyaṃ vā́jān, with the variant stem cikrada-, also cited by Geldner and Renou, though I am not certain I subscribe to that now (see comm. ad loc.). By contrast, Renou clearly takes cakradaḥ as a trans./caus. redupl. aor.: “Tel un cheval, fais mugir ensemble … les vaches … ensemble (fais hennir) les coursiers.” However, the clear intrans. sense of krada- with the simile in the parallel passage cited above speaks against the caus. usage; moreover, as disc. at length in my -áya-book (110-11), neither cakrada- nor the redupl. aor. cikrada- with apparent “caus.” redupl. shows true transitive usage until the late RV; they also seem to be essentially interchangeable.
-
-I have a different solution for this passage (though it won’t work for IX.90.4): it is of course a commonplace that the preverbs sám and ví form a complementary pair. Here I suggest that the standard lexeme ví √vṛ ‘uncover, open up’ found in c has given rise situationally to an opposing expression sám √vṛ ‘cover, surround’ in b, with the verb gapped (or rather anticipated: vṛdhi at the end of c). The bull is urged to deliver cows and horses to us by confining them. The proposed lexeme sám √vṛ does marginally exist; see I.121.15, with sám … varanta in intrans. value, as well as ppl. sáṃvṛta- (VIII.17.7). I thus read the verb cakradaḥ only with pāda a.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -211,7 +208,6 @@ As noted in the published introduction, this opening tṛca is marked by the ide
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

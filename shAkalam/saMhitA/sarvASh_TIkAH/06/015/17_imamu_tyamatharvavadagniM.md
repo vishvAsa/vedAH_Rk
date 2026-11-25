@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "अनुष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -73,7 +73,12 @@ yám ← yá- (pronoun)
 
 śyāvyā̀bhyaḥ ← śyāvyā̀- (nominal stem)  
 {case:ABL, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ममु॒ त्यम॑थर्व॒वद॒ग्निं म॑न्थन्ति वे॒धसः॑ ।  
+यम॑ङ्कू॒यन्त॒मान॑य॒न्नमू॑रं श्या॒व्या॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +166,6 @@ _________
 - \[noun\], ablative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -215,8 +219,6 @@ Hier diesen Agni reiben nach Atharvan's Art die Ordner hervor, den in Windungen 
 Петляющего, не заблуждающегося,  
 Которого они привели из черных (глубин).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -92,7 +93,12 @@ riṇīte ← √rī- (root)
 
 uṣā́ḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भ्रा॒तेव॑ पुं॒स ए॑ति प्रती॒ची ग॑र्ता॒रुगि॑व स॒नये॒ धना॑नाम् ।  
+जा॒येव॒ पत्य॑ उश॒ती सु॒वासा॑ उ॒षा ह॒स्रेव॒ नि रि॑णीते॒ अप्सः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -260,10 +265,6 @@ Like a brotherless (girl) she goes right up to men—like one mounting a  chario
 Like an eager wife, richly dressed, for her husband, Dawn, like a wanton,  lets her breast spill over.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the female figures here, see published introduction. Though most interpr. (see recently Scarlatta [463], Witzel Gotō) see only a male figure in the simile in b (a charioteer seeking prizes), I find it unlikely that the middle simile of three, the two outer of which depict striking female types, would compare Dawn only to a male. As indicated in the published introduction, I think it is a double entendre, with not only the prizeseeking male competitor on his chariot seat but also a prostitute displaying herself on a platform or stage for money (or whatever counted for money in that period).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -271,7 +272,6 @@ suvā́śā(ḥ) in 7c is neatly echoed by svásā opening 8a.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

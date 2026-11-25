@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)
 
 upapŕ̥k ← upapŕ̥c- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अह॑न्वृ॒त्रं वृ॑त्र॒तरं॒ व्यं॑स॒मिन्द्रो॒ वज्रे॑ण मह॒ता व॒धेन॑ ।  
+स्कन्धां॑सीव॒ कुलि॑शेना॒ विवृ॒क्णाहिः॑ शयत उप॒पृक्पृ॑थि॒व्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

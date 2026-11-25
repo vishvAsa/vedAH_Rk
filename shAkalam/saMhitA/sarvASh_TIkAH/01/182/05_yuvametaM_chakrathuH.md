@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ petathuḥ ← √pat- 1 (root)
 
 supaptaní ← supaptaní- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वमे॒तं च॑क्रथुः॒ सिन्धु॑षु प्ल॒वमा॑त्म॒न्वन्तं॑ प॒क्षिणं॑ तौ॒ग्र्याय॒ कम् ।  
+येन॑ देव॒त्रा मन॑सा निरू॒हथुः॑ सुपप्त॒नी पे॑तथुः॒ क्षोद॑सो म॒हः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “great; great; distinguished; much(a); adult; long; high.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,7 +232,6 @@ You flew away, flying well, from the great stream.
 
 earliest philological evidence for a boat with sails in the Hindu tradition
 </details>
-
 
 <details><summary>Wilson</summary>
 

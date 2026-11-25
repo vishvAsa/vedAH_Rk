@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ r̥bhávaḥ ← r̥bhú- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ म॑नी॒षाम॒न्तरि॑क्षस्य॒ नृभ्यः॑ स्रु॒चेव॑ घृ॒तं जु॑हवाम वि॒द्मना॑ ।  
+त॒र॒णि॒त्वा ये पि॒तुर॑स्य सश्चि॒र ऋ॒भवो॒ वाज॑मरुहन्दि॒वो रजः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

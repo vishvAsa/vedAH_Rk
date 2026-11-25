@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ svàr ← svàr- (nominal stem)
 
 vr̥trám ← vr̥trá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्र भ॑र धृष॒ता धृ॑षन्मनः॒ श्रव॑श्चित्ते असद्बृ॒हत् ।  
+अर्ष॒न्त्वापो॒ जव॑सा॒ वि मा॒तरो॒ हनो॑ वृ॒त्रं जया॒ स्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “sun; sky; sunlight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ paryéti ← √i- 1 (root)
 
 vibhā́vā ← vibhā́van- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं स यस्य॒ शर्म॒न्नवो॑भिर॒ग्नेरेध॑ते जरि॒ताभिष्टौ॑ ।  
+ज्येष्ठे॑भि॒र्यो भा॒नुभि॑रृषू॒णां प॒र्येति॒ परि॑वीतो वि॒भावा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “illuminating; shining.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -72,7 +73,12 @@ sedhati ← √sidh- (root)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वा उ॑ वि॒श्पतिः॑ शि॒तः सुप्री॑तो॒ मनु॑षो वि॒शि ।  
+विश्वेद॒ग्निः प्रति॒ रक्षां॑सि सेधति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “chase away; repel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

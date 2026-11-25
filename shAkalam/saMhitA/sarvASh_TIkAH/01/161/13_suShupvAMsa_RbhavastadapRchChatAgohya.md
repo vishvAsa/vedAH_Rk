@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -86,7 +87,12 @@ saṁvatsaré ← saṁvatsará- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒षु॒प्वांस॑ ऋभव॒स्तद॑पृच्छ॒तागो॑ह्य॒ क इ॒दं नो॑ अबूबुधत् ।  
+श्वानं॑ ब॒स्तो बो॑धयि॒तार॑मब्रवीत्संवत्स॒र इ॒दम॒द्या व्य॑ख्यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “name; describe; call; enumerate; watch; know.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

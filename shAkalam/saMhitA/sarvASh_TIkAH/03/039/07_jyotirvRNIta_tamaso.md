@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ kāróḥ ← kārú- (nominal stem)
 
 purutámasya ← purutáma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज्योति॑र्वृणीत॒ तम॑सो विजा॒नन्ना॒रे स्या॑म दुरि॒ताद॒भीके॑ ।  
+इ॒मा गिरः॑ सोमपाः सोमवृद्ध जु॒षस्वे॑न्द्र पुरु॒तम॑स्य का॒रोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “poet; singer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

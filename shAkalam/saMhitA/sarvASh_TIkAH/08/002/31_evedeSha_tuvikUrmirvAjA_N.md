@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ dayate ← √dā- 3 (root)
 
 sanā́t ← sanā́t (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वेदे॒ष तु॑विकू॒र्मिर्वाजाँ॒ एको॒ वज्र॑हस्तः ।  
+स॒नादमृ॑क्तो दयते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “share.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ eṣi ← √i- 1 (root)
 
 vāmám ← vāmá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒ताव॑री दि॒वो अ॒र्कैर॑बो॒ध्या रे॒वती॒ रोद॑सी चि॒त्रम॑स्थात् ।  
+आ॒य॒तीम॑ग्न उ॒षसं॑ विभा॒तीं वा॒ममे॑षि॒ द्रवि॑णं॒ भिक्ष॑माणः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “beg; beg.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

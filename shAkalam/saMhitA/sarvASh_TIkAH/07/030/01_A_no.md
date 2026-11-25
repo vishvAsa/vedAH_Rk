@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ paúṁsyāya ← paúṁsya- (nominal stem)
 
 śūra ← śū́ra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ देव॒ शव॑सा याहि शुष्मि॒न्भवा॑ वृ॒ध इ॑न्द्र रा॒यो अ॒स्य ।  
+म॒हे नृ॒म्णाय॑ नृपते सुवज्र॒ महि॑ क्ष॒त्राय॒ पौंस्या॑य शूर ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

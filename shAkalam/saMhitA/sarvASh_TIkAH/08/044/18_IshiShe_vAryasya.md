@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ syām ← √as- 1 (root)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ईशि॑षे॒ वार्य॑स्य॒ हि दा॒त्रस्या॑ग्ने॒ स्व॑र्पतिः ।  
+स्तो॒ता स्यां॒ तव॒ शर्म॑णि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “protection; protective covering; refuge; joy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

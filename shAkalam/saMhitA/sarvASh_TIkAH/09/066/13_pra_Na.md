@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ vāsayiṣyáse ← √vas- 2 (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ण॑ इन्दो म॒हे रण॒ आपो॑ अर्षन्ति॒ सिन्ध॑वः ।  
+यद्गोभि॑र्वासयि॒ष्यसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “dress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,10 +172,6 @@ For our great joy the waters, the rivers rush forth, o drop,
 when you will clothe yourself with cows.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On pādas bc and esp. the remarkable causative future reflexive form vāsayiṣyase ‘you will cause yourself to be clothed’, see disc. in the comm. to the parallel passage IX.2.4.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -178,7 +179,6 @@ No signs of cohesion.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -85,7 +86,12 @@ pári ← pári (invariable)
 
 srava ← √sru- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्रा॑नुका॒मं चर॑णं त्रिना॒के त्रि॑दि॒वे दि॒वः ।  
+लो॒का यत्र॒ ज्योति॑ष्मन्त॒स्तत्र॒ माम॒मृतं॑ कृ॒धीन्द्रा॑येन्दो॒ परि॑ स्रव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     disappear; leak; fester.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -237,14 +242,12 @@ where there are worlds filled with light, there make me immortal.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">
 <details><summary><h2>08-11 ...{Loading}...</h2></summary>
 
 In addition to the fifth pāda refrain found throughout the hymn (as well as IX.112 and 114), these four vss. add a refrain in the fourth pāda: tátra mā́m amṛ́taṃ kṛdhi “there make me immortal,” each time serving as the main clause for a set of yátra clauses.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

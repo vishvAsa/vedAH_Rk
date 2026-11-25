@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ pinvatam ← √pinv- (root)
 
 uṣásaḥ ← uṣás- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मा॒ने अह॒न्त्रिर॑वद्यगोहना॒ त्रिर॒द्य य॒ज्ञं मधु॑ना मिमिक्षतम् ।  
+त्रिर्वाज॑वती॒रिषो॑ अश्विना यु॒वं दो॒षा अ॒स्मभ्य॑मु॒षस॑श्च पिन्वतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “swell; swell; overflow; abound.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

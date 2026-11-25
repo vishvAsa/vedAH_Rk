@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ harmyébhyaḥ ← harmyá- (nominal stem)
 
 pratīcī́ ← pratyáñc- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र मे॒ पन्था॑ देव॒याना॑ अदृश्र॒न्नम॑र्धन्तो॒ वसु॑भि॒रिष्कृ॑तासः ।  
+अभू॑दु के॒तुरु॒षसः॑ पु॒रस्ता॑त्प्रती॒च्यागा॒दधि॑ ह॒र्म्येभ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “mansion; house; palace.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

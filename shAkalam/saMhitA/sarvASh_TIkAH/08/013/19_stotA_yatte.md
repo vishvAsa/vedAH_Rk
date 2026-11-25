@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -67,7 +68,12 @@ ucyate ← √vac- (root)
 
 sáḥ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तो॒ता यत्ते॒ अनु॑व्रत उ॒क्थान्यृ॑तु॒था द॒धे ।  
+शुचिः॑ पाव॒क उ॑च्यते॒ सो अद्भु॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “extraordinary; amazing; supernatural.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

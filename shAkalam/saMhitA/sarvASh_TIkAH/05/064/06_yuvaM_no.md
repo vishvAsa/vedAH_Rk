@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -74,7 +75,12 @@ rāyé ← rayí- ~ rāy- (nominal stem)
 
 svastáye ← svastí- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं नो॒ येषु॑ वरुण क्ष॒त्रं बृ॒हच्च॑ बिभृ॒थः ।  
+उ॒रु णो॒ वाज॑सातये कृ॒तं रा॒ये स्व॒स्तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
     well; luck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

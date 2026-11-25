@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ nr̥ṣā́caḥ ← nr̥ṣác- (nominal stem)
 
 svàr ← svàr- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हत्स्वश्च॑न्द्र॒मम॑व॒द्यदु॒क्थ्य१॒॑मकृ॑ण्वत भि॒यसा॒ रोह॑णं दि॒वः ।  
+यन्मानु॑षप्रधना॒ इन्द्र॑मू॒तयः॒ स्व॑र्नृ॒षाचो॑ म॒रुतोऽम॑द॒न्ननु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “subsequently; behind; along; towards; because.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

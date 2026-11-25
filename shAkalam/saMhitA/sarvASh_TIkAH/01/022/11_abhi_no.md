@@ -4,6 +4,7 @@ devataa = "देव्यः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देव्यः
@@ -57,7 +58,12 @@ nr̥pátnīḥ ← nr̥pátnī- (nominal stem)
 
 sacantām ← √sac- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि नो॑ दे॒वीरव॑सा म॒हः शर्म॑णा नृ॒पत्नीः॑ ।  
+अच्छि॑न्नपत्राः सचन्ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

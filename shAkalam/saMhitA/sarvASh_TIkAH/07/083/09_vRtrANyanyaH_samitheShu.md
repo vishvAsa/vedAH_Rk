@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ indrāvaruṇā ← índrāváruṇa- (nominal stem)
 
 yachatam ← √yam- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒त्राण्य॒न्यः स॑मि॒थेषु॒ जिघ्न॑ते व्र॒तान्य॒न्यो अ॒भि र॑क्षते॒ सदा॑ ।  
+हवा॑महे वां वृषणा सुवृ॒क्तिभि॑र॒स्मे इ॑न्द्रावरुणा॒ शर्म॑ यच्छतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

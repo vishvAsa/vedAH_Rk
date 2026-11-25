@@ -5,13 +5,13 @@ RShiH = "श्रुतिविदात्रेयः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
 - ऋषिः - श्रुतिविदात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -82,7 +82,12 @@ cakṣāthe ← √cakṣ- (root)
 
 dítim ← díti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यरूपमु॒षसो॒ व्यु॑ष्टा॒वयः॑स्थूण॒मुदि॑ता॒ सूर्य॑स्य ।  
+आ रो॑हथो वरुण मित्र॒ गर्त॒मत॑श्चक्षाथे॒ अदि॑तिं॒ दितिं॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +211,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -258,8 +262,6 @@ Den goldgeschmückten Thron auf ehrnen Säulen besteigt ihr bei der Morgenröthe
 Вы поднимаетесь, о Варуна и Митра;  
 Отсюда вы созерцаете несвязанность и связанность.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रापूषणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रापूषणौ
@@ -57,7 +58,12 @@ mahyaí ← máh- (nominal stem)
 
 svastáye ← svastí- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उत्पू॒षणं॑ युवामहे॒ऽभीशूँ॑रिव॒ सार॑थिः ।  
+म॒ह्या इन्द्रं॑ स्व॒स्तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
     well; luck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

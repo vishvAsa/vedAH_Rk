@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -86,7 +87,12 @@ kr̥táḥ ← √kr̥- (root)
 
 súkr̥taḥ ← súkr̥ta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उत्सूर्यो॑ बृ॒हद॒र्चींष्य॑श्रेत्पु॒रु विश्वा॒ जनि॑म॒ मानु॑षाणाम् ।  
+स॒मो दि॒वा द॑दृशे॒ रोच॑मानः॒ क्रत्वा॑ कृ॒तः सुकृ॑तः क॒र्तृभि॑र्भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

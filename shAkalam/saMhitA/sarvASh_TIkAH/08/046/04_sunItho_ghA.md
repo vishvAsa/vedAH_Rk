@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ mitráḥ ← mitrá- (nominal stem)
 
 pā́nti ← √pā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒नी॒थो घा॒ स मर्त्यो॒ यं म॒रुतो॒ यम॑र्य॒मा ।  
+मि॒त्रः पान्त्य॒द्रुहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “friendly; benign.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

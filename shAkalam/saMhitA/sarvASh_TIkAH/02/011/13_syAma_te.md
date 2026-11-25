@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 vīrávantam ← vīrávant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्याम॒ ते त॑ इन्द्र॒ ये त॑ ऊ॒ती अ॑व॒स्यव॒ ऊर्जं॑ व॒र्धय॑न्तः ।  
+शु॒ष्मिन्त॑मं॒ यं चा॒कना॑म देवा॒स्मे र॒यिं रा॑सि वी॒रव॑न्तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “rich in men.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ sáhasvate ← sáhasvant- (nominal stem)
 
 ūrjáḥ ← ū́rj- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सखा॑यः॒ सं वः॑ स॒म्यञ्च॒मिषं॒ स्तोमं॑ चा॒ग्नये॑ ।  
+वर्षि॑ष्ठाय क्षिती॒नामू॒र्जो नप्त्रे॒ सह॑स्वते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “mighty; powerful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

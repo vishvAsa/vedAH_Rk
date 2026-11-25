@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ jóhuvatī ← √hū- (root)
 
 manīṣā́ ← manīṣā́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गृ॒भी॒तं ते॒ मन॑ इन्द्र द्वि॒बर्हाः॑ सु॒तः सोमः॒ परि॑षिक्ता॒ मधू॑नि ।  
+विसृ॑ष्टधेना भरते सुवृ॒क्तिरि॒यमिन्द्रं॒ जोहु॑वती मनी॒षा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "आस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -84,7 +85,12 @@ cétiṣṭham ← cétiṣṭha- (nominal stem)
 
 vívakṣase ← √vac- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां य॒ज्ञेष्वृ॒त्विजं॒ चारु॑मग्ने॒ नि षे॑दिरे ।  
+घृ॒तप्र॑तीकं॒ मनु॑षो॒ वि वो॒ मदे॑ शु॒क्रं चेति॑ष्ठम॒क्षभि॒र्विव॑क्षसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

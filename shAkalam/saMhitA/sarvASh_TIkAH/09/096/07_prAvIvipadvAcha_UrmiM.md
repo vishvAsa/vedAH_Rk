@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ tiṣṭhati ← √sthā- (root)
 
 vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रावी॑विपद्वा॒च ऊ॒र्मिं न सिन्धु॒र्गिरः॒ सोमः॒ पव॑मानो मनी॒षाः ।  
+अ॒न्तः पश्य॑न्वृ॒जने॒माव॑रा॒ण्या ति॑ष्ठति वृष॒भो गोषु॑ जा॒नन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     know; learn; ascertain; detect; deem.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

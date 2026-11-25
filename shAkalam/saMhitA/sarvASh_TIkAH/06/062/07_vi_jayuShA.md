@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ cyavānā ← √cyu- (root)
 
 sumatím ← sumatí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि ज॒युषा॑ रथ्या यात॒मद्रिं॑ श्रु॒तं हवं॑ वृषणा वध्रिम॒त्याः ।  
+द॒श॒स्यन्ता॑ श॒यवे॑ पिप्यथु॒र्गामिति॑ च्यवाना सुम॒तिं भु॑रण्यू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - \[noun\], vocative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

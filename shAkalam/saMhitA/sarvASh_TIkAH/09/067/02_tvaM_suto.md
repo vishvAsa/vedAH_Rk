@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भरद्वाजः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ matsaríntamaḥ ← matsaríntama- (nominal stem)
 
 sūríḥ ← sūrí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं सु॒तो नृ॒माद॑नो दध॒न्वान्म॑त्स॒रिन्त॑मः ।  
+इन्द्रा॑य सू॒रिरन्ध॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +124,6 @@ _________
 - “Soma; drink; amṛta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -147,7 +152,6 @@ are patron to Indra, with your stalk.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -156,7 +160,6 @@ Attributed to Bharadvāja, the tṛca shows elementary unity by positoning tvám
 Grassmann derives dhārayú- from dhā́rā- ‘stream’ and glosses ‘strömend’, an idea that goes back to Sāyaṇa. Geldner follows suit (“der hervorsprudelnde”), though in n. 1a he entertains a derivation from √dhṛ, which underlies Renou’s “le mainteneur” (see his n.) I also think that √dhṛ is the correct etymon. There would be no reason to shorten the final of dhā́rā- (though dhā́ra-pūta- ‘purified by streams’ (?) and dhāra-vāká- ‘recitation for the streams’ (?) do give me pause), while there is a well-established relationship between -ā̆-yá-(ti) verbs and - ā̆-yú- adjectives (type devayá- / devayú-). Though it has a different accent and a different functional profile, dhā́ráyati is a very common verb, and it is easy to imagine the creation of a -yú- nominal to that stem. However, if it is derived from dhā́rā- ‘stream’, the sense should not be of the type given by Grassmann and Geldner, but rather ‘seeking streams’, as is standard with -yuformations to nouns. The idea would be that the soma, once pressed, goes forth to seek the ritual waters.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

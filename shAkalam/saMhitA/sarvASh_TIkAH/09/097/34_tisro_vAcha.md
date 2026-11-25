@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ vāvaśānā́ḥ ← √vāś- (root)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒स्रो वाच॑ ईरयति॒ प्र वह्नि॑रृ॒तस्य॑ धी॒तिं ब्रह्म॑णो मनी॒षाम् ।  
+गावो॑ यन्ति॒ गोप॑तिं पृ॒च्छमा॑नाः॒ सोमं॑ यन्ति म॒तयो॑ वावशा॒नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “desire; agree; call; care; like; love.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -238,14 +243,6 @@ The draft-horse rouses forth the three voices, the hymnic vision of  truth, the 
 The cows go asking for a cowherd; the thoughts go bellowing eagerly  to Soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the “three voices” (tisró vā́caḥ) see comm. ad IX.33.4, 50.2.
-
-The parallel expressions in c and d -- … yanti … PTCLE contrast the progress of ritual substance (milk) and ritual speech (thoughts). As elsewhere, vāvaśānā́ḥ could belong to both √vāś ‘bellow’ and √vaś ‘desire, be eager’ (cf. IX.93.4, 95.4).
-
-Given the emphasis on noise in this tṛca, the former is probably primary, but both can be meant - hence my tr. “bellowing eagerly.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/34-36.md">
 <details><summary><h2>34-36 ...{Loading}...</h2></summary>
 
@@ -253,7 +250,6 @@ All three vss. concentrate on ritual speech and on the noisy approach of both co
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

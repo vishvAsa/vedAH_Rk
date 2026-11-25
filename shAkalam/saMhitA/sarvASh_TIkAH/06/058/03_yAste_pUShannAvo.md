@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -83,7 +84,12 @@ kr̥ta ← √kr̥- (root)
 
 śrávaḥ ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यास्ते॑ पूष॒न्नावो॑ अ॒न्तः स॑मु॒द्रे हि॑र॒ण्ययी॑र॒न्तरि॑क्षे॒ चर॑न्ति ।  
+ताभि॑र्यासि दू॒त्यां सूर्य॑स्य॒ कामे॑न कृत॒ श्रव॑ इ॒च्छमा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

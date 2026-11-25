@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ triviṣṭí ← triviṣṭí (invariable)
 
 urāṇáḥ ← √vr̥- ~ vr̥̄- (root)  
 {case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्ती॒र्णे ब॒र्हिषि॑ समिधा॒ने अ॒ग्ना ऊ॒र्ध्वो अ॑ध्व॒र्युर्जु॑जुषा॒णो अ॑स्थात् ।  
+पर्य॒ग्निः प॑शु॒पा न होता॑ त्रिवि॒ष्ट्ये॑ति प्र॒दिव॑ उरा॒णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

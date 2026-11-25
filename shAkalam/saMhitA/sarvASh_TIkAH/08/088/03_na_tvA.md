@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधाः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tát ← sá- ~ tá- (pronoun)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न त्वा॑ बृ॒हन्तो॒ अद्र॑यो॒ वर॑न्त इन्द्र वी॒ळवः॑ ।  
+यद्दित्स॑सि स्तुव॒ते माव॑ते॒ वसु॒ नकि॒ष्टदा मि॑नाति ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

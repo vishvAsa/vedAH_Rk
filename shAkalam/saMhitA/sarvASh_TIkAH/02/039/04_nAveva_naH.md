@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -101,7 +102,12 @@ pātam ← √pā- 1 (root)
 
 visrásaḥ ← √sraṁs- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ना॒वेव॑ नः पारयतं यु॒गेव॒ नभ्ये॑व न उप॒धीव॑ प्र॒धीव॑ ।  
+श्वाने॑व नो॒ अरि॑षण्या त॒नूनां॒ खृग॑लेव वि॒स्रसः॑ पातम॒स्मान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -77,7 +78,12 @@ ichámānāḥ ← √iṣ- 2 (root)
 
 śrávaḥ ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्षेत्र॑मिव॒ वि म॑मु॒स्तेज॑नेनँ॒ एकं॒ पात्र॑मृ॒भवो॒ जेह॑मानम् ।  
+उप॑स्तुता उप॒मं नाध॑माना॒ अम॑र्त्येषु॒ श्रव॑ इ॒च्छमा॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -55,7 +56,11 @@ putráḥ ← putrá- (nominal stem)
 
 sán ← √as- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ प्रजा॑तः॒ क्रत्वा॑ बभूथ॒ भुवो॑ दे॒वानां॑ पि॒ता पु॒त्रः सन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +134,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

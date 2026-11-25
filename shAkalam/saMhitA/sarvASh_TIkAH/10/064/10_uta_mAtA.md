@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ raṇváḥ ← raṇvá- (nominal stem)
 
 śaśamānásya ← √śamⁱ- (root)  
 {case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त मा॒ता बृ॑हद्दि॒वा शृ॑णोतु न॒स्त्वष्टा॑ दे॒वेभि॒र्जनि॑भिः पि॒ता वचः॑ ।  
+ऋ॒भु॒क्षा वाजो॒ रथ॒स्पति॒र्भगो॑ र॒ण्वः शंसः॑ शशमा॒नस्य॑ पातु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ dūtám ← dūtá- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ना वो॑ अ॒ग्निं नम॑सो॒र्जो नपा॑त॒मा हु॑वे ।  
+प्रि॒यं चेति॑ष्ठमर॒तिं स्व॑ध्व॒रं विश्व॑स्य दू॒तम॒मृत॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “immortal; amṛta; imperishable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

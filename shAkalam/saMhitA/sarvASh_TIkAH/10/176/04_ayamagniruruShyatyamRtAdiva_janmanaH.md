@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सूनुरार्भवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ jīvā́tave ← jīvā́tu- (nominal stem)
 
 kr̥táḥ ← √kr̥- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यम॒ग्निरु॑रुष्यत्य॒मृता॑दिव॒ जन्म॑नः ।  
+सह॑सश्चि॒त्सही॑यान्दे॒वो जी॒वात॑वे कृ॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

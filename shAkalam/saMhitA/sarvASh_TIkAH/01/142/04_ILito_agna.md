@@ -4,6 +4,7 @@ devataa = "इळः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इळः
@@ -80,7 +81,12 @@ sujihva ← sujihvá- (nominal stem)
 
 vacyáte ← √vañc- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒ळि॒तो अ॑ग्न॒ आ व॒हेन्द्रं॑ चि॒त्रमि॒ह प्रि॒यम् ।  
+इ॒यं हि त्वा॑ म॒तिर्ममाच्छा॑ सुजिह्व व॒च्यते॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

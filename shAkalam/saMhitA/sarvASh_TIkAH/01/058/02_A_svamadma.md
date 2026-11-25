@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sā́nu ← sā́nu- ~ snú- (nominal stem)
 
 stanáyan ← √stanⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ स्वमद्म॑ यु॒वमा॑नो अ॒जर॑स्तृ॒ष्व॑वि॒ष्यन्न॑त॒सेषु॑ तिष्ठति ।  
+अत्यो॒ न पृ॒ष्ठं प्रु॑षि॒तस्य॑ रोचते दि॒वो न सानु॑ स्त॒नय॑न्नचिक्रदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “roar; neigh; cry; howl; shout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

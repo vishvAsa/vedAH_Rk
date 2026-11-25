@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ undanti ← √ud- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र यद्रथे॑षु॒ पृष॑ती॒रयु॑ग्ध्वं॒ वाजे॒ अद्रिं॑ मरुतो रं॒हय॑न्तः ।  
+उ॒तारु॒षस्य॒ वि ष्य॑न्ति॒ धारा॒श्चर्मे॑वो॒दभि॒र्व्यु॑न्दन्ति॒ भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -256,14 +261,6 @@ When you have yoked the dappled mares to your chariots, speeding the  stone at t
 they unloose the streams of the ruddy one and inundate the earth with  waters like a skin.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As noted ad vs. 4, the person changes from 2nd to 3rd in the middle of this verse. But this is not the only disruption: the main clause of 5cd begins with utá, which has nothing to conjoin. Klein (DGRV I: 451) is puzzled and suggests, somewhat desperately, that the utá “focuses on and emphasizes the second action of the Maruts.” This seems to open the usage of utá unacceptably wide. It is possible instead to see it as an example of “inverse utá,” conjoining the actions of the two clauses of cd, with the parallel verbs ví ṣyanti and vy undanti (so also explicitly Macdonell, Reader). Or it may be signaling the resumption of 3rd ps. discourse after the 2nd ps.
-
-intrusions of 4cd-5ab.
-
-The inundation of the skin in pāda 4 presumably refers to the wetting of hides in the tanning process (so Geldner).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/085/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -271,7 +268,6 @@ Verse 5 is an intrusive Triṣṭubh in this Jagatī hymn. (The final verse is a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

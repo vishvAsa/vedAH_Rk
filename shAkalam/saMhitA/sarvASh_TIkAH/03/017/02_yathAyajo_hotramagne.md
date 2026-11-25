@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कतो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ tira ← √tr̥̄- 1 (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथाय॑जो हो॒त्रम॑ग्ने पृथि॒व्या यथा॑ दि॒वो जा॑तवेदश्चिकि॒त्वान् ।  
+ए॒वानेन॑ ह॒विषा॑ यक्षि दे॒वान्म॑नु॒ष्वद्य॒ज्ञं प्र ति॑रे॒मम॒द्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “now; today; then; nowadays; adya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

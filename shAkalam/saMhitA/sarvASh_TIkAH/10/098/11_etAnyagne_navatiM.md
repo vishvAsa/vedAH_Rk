@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "देवापिरार्ष्टिषेणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -89,7 +90,12 @@ dhehi ← √dhā- 1 (root)
 
 diví ← dyú- ~ div- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तान्य॑ग्ने नव॒तिं स॒हस्रा॒ सं प्र य॑च्छ॒ वृष्ण॒ इन्द्रा॑य भा॒गम् ।  
+वि॒द्वान्प॒थ ऋ॑तु॒शो दे॑व॒याना॒नप्यौ॑ला॒नं दि॒वि दे॒वेषु॑ धेहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

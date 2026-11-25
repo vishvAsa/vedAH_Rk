@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -83,7 +84,12 @@ sadāsā́ḥ ← sadāsā́- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू रो॑दसी बृ॒हद्भि॑र्नो॒ वरू॑थैः॒ पत्नी॑वद्भिरि॒षय॑न्ती स॒जोषाः॑ ।  
+उ॒रू॒ची विश्वे॑ यज॒ते नि पा॑तं धि॒या स्या॑म र॒थ्यः॑ सदा॒साः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “triumphant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

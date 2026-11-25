@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ vácasaḥ ← vácas- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॒ वृका॑य वृ॒क्ये॑ समस्मा अघाय॒ते री॑रधता यजत्राः ।  
+यू॒यं हि ष्ठा र॒थ्यो॑ नस्त॒नूनां॑ यू॒यं दक्ष॑स्य॒ वच॑सो बभू॒व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

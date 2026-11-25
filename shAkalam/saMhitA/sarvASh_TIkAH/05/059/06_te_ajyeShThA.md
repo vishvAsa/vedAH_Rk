@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ máryāḥ ← márya- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते अ॑ज्ये॒ष्ठा अक॑निष्ठास उ॒द्भिदोऽम॑ध्यमासो॒ मह॑सा॒ वि वा॑वृधुः ।  
+सु॒जा॒तासो॑ ज॒नुषा॒ पृश्नि॑मातरो दि॒वो मर्या॒ आ नो॒ अच्छा॑ जिगातन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

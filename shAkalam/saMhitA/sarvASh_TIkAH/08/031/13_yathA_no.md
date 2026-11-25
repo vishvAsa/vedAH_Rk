@@ -4,6 +4,7 @@ devataa = "दंपत्योराशिषः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपत्योराशिषः
@@ -60,7 +61,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 sugā́ḥ ← sugá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॑ नो मि॒त्रो अ॑र्य॒मा वरु॑णः॒ सन्ति॑ गो॒पाः ।  
+सु॒गा ऋ॒तस्य॒ पन्थाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “way; road; path \[word\]; journey; method.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

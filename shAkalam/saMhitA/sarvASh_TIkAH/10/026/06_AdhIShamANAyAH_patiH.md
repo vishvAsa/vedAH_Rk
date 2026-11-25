@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -65,7 +66,12 @@ mármr̥jat ← √mr̥j- (root)
 
 vā́sāṁsi ← vā́sas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒धीष॑माणायाः॒ पतिः॑ शु॒चाया॑श्च शु॒चस्य॑ च ।  
+वा॒सो॒वा॒योऽवी॑ना॒मा वासां॑सि॒ मर्मृ॑जत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “groom; wash; rub.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

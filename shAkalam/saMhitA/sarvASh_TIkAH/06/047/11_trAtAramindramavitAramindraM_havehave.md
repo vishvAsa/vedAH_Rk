@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ naḥ ← ahám (pronoun)
 
 svastí ← svastí- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रा॒तार॒मिन्द्र॑मवि॒तार॒मिन्द्रं॒ हवे॑हवे सु॒हवं॒ शूर॒मिन्द्र॑म् ।  
+ह्वया॑मि श॒क्रं पु॑रुहू॒तमिन्द्रं॑ स्व॒स्ति नो॑ म॒घवा॑ धा॒त्विन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,10 +247,6 @@ Indra the protector, Indra the helper, Indra the champion good to call  at every
 I call on Indra, the able one, called on by many. Let bounteous Indra  establish well-being for us.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-√hvā is the signature word here.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
 <details><summary><h2>11-13 ...{Loading}...</h2></summary>
 
@@ -253,7 +254,6 @@ The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

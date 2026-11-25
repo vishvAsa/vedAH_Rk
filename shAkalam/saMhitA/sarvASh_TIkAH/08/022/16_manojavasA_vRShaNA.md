@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -68,7 +69,12 @@ purubhojasā ← purubhójas- (nominal stem)
 
 pūrvī́bhiḥ ← purú- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मनो॑जवसा वृषणा मदच्युता मक्षुङ्ग॒माभि॑रू॒तिभिः॑ ।  
+आ॒रात्ता॑च्चिद्भूतम॒स्मे अव॑से पू॒र्वीभिः॑ पुरुभोजसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “advantage; utility; food.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

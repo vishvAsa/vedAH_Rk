@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ mándiṣṭhaḥ ← mándiṣṭha- (nominal stem)
 
 śū́rasya ← śū́ra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुचि॑रसि पुरुनिः॒ष्ठाः क्षी॒रैर्म॑ध्य॒त आशी॑र्तः ।  
+द॒ध्ना मन्दि॑ष्ठः॒ शूर॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

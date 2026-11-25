@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ máde ← máda- (nominal stem)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद॑स्मै॒ नव्य॑मङ्गिर॒स्वद॑र्चत॒ शुष्मा॒ यद॑स्य प्र॒त्नथो॒दीर॑ते ।  
+विश्वा॒ यद्गो॒त्रा सह॑सा॒ परी॑वृता॒ मदे॒ सोम॑स्य दृंहि॒तान्यैर॑यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     enumerate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

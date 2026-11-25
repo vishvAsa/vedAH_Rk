@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ sárgāḥ ← sárga- (nominal stem)
 
 uṣásaḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता आ च॑रन्ति सम॒ना पु॒रस्ता॑त्समा॒नतः॑ सम॒ना प॑प्रथा॒नाः ।  
+ऋ॒तस्य॑ दे॒वीः सद॑सो बुधा॒ना गवां॒ न सर्गा॑ उ॒षसो॑ जरन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -231,14 +236,12 @@ The Goddess Dawns, awakening from the seat of truth, like gushes of  cows, becom
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/051/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 The unbroken similarity of the dawns who just keep coming, day after day, is conveyed by the stasis of these two vss., where forms of ‘same’ (8ab samanā́ … sanānátaḥ samanyā́, 9a samanā́samānī́ḥ) and the same verb caranti (8a, 9b) bring all movement to a halt, even though the dawns are constantly on the move.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

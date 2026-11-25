@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ tvótaḥ ← tvóta- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां ही॒३॒॑न्द्राव॑से॒ विवा॑चो॒ हव॑न्ते चर्ष॒णयः॒ शूर॑सातौ ।  
+त्वं विप्रे॑भि॒र्वि प॒णीँर॑शाय॒स्त्वोत॒ इत्सनि॑ता॒ वाज॒मर्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “horse; arvan \[word\]; racehorse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

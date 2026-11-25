@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ tébhyaḥ ← sá- ~ tá- (pronoun)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पाव॑कशोचे॒ तव॒ हि क्षयं॒ परि॒ होत॑र्य॒ज्ञेषु॑ वृ॒क्तब॑र्हिषो॒ नरः॑ ।  
+अग्ने॒ दुव॑ इ॒च्छमा॑नास॒ आप्य॒मुपा॑सते॒ द्रवि॑णं धेहि॒ तेभ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     \[word\]; dative; once; same.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

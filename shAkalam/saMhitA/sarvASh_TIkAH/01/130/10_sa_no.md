@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ iva ← iva (invariable)
 
 vāvr̥dhīthā́ḥ ← √vr̥dh- (root)  
 {number:SG, person:2, mood:OPT, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॒ नव्ये॑भिर्वृषकर्मन्नु॒क्थैः पुरां॑ दर्तः पा॒युभिः॑ पाहि श॒ग्मैः ।  
+दि॒वो॒दा॒सेभि॑रिन्द्र॒ स्तवा॑नो वावृधी॒था अहो॑भिरिव॒ द्यौः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ tuvinr̥mṇa ← tuvinr̥mṇá- (nominal stem)
 
 vádhar ← vádhar- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य ऋक्षा॒दंह॑सो मु॒चद्यो वार्या॑त्स॒प्त सिन्धु॑षु ।  
+वध॑र्दा॒सस्य॑ तुविनृम्ण नीनमः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “bow; bend; condescend; worship; bend; lower.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

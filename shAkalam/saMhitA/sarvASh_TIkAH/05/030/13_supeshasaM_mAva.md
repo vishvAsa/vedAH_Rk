@@ -4,6 +4,7 @@ devataa = "ऋणंचयेन्द्रौ"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋणंचयेन्द्रौ
@@ -80,7 +81,12 @@ páritakmyāyāḥ ← páritakmya- (nominal stem)
 
 vyùṣṭau ← vyùṣṭi- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒पेश॑सं॒ माव॑ सृज॒न्त्यस्तं॒ गवां॑ स॒हस्रै॑ रु॒शमा॑सो अग्ने ।  
+ती॒व्रा इन्द्र॑मममन्दुः सु॒तासो॒ऽक्तोर्व्यु॑ष्टौ॒ परि॑तक्म्यायाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - \[noun\], genitive, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -217,7 +222,6 @@ The sharp (soma-drinks, when) pressed, exhilarated Indra at the early  brighteni
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/13-14.md">
 <details><summary><h2>13-14 ...{Loading}...</h2></summary>
 
@@ -235,7 +239,6 @@ The fact that the poet alters the expected form in two different ways in succeed
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

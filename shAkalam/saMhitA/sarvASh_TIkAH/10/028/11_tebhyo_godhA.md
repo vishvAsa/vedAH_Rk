@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "ऐन्द्रो वसुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ svayám ← svayám (invariable)
 
 tanvàḥ ← tanū́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तेभ्यो॑ गो॒धा अ॒यथं॑ कर्षदे॒तद्ये ब्र॒ह्मणः॑ प्रति॒पीय॒न्त्यन्नैः॑ ।  
+सि॒म उ॒क्ष्णो॑ऽवसृ॒ष्टाँ अ॑दन्ति स्व॒यं बला॑नि त॒न्वः॑ शृणा॒नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “fall off; break; disintegrate; crush; break; fracture.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ dāsápatnīḥ ← dāsápatnī- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ह॒ त्यद्वृ॑षभ चर्षणी॒नां घ॒नो वृ॒त्राणां॑ तवि॒षो ब॑भूथ ।  
+त्वं सिन्धूँ॑रसृजस्तस्तभा॒नान्त्वम॒पो अ॑जयो दा॒सप॑त्नीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “wife; mistress; queen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -236,12 +241,6 @@ You released the rivers, which had been blocked. You conquered the
 waters whose husband was a Dāsa.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Noteworthy here is the variant on the expression of Indra’s standard deed, vṛtrám √han and esp. his epithet vṛtrahán- in the phrase ghanó vṛtrā́ṇām “the bane of obstacles,” with the nominal ghaná- from √han and a pl. of vṛtrá-.
-
-On √stambh with the waters as obj. see comm. ad II.11.5.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -249,7 +248,6 @@ These three vss. begin tváṃ ha tyád. As elsewhere with this configuration (2
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

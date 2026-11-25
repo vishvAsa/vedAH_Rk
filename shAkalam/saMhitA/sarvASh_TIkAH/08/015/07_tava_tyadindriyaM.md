@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ vájram ← vájra- (nominal stem)
 
 váreṇyam ← váreṇya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ त्यदि॑न्द्रि॒यं बृ॒हत्तव॒ शुष्म॑मु॒त क्रतु॑म् ।  
+वज्रं॑ शिशाति धि॒षणा॒ वरे॑ण्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “excellent; desirable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -179,7 +184,6 @@ This lofty Indrian power of yours, your unbridled force and resolve, and the mac
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
 <details><summary><h2>07-10 ...{Loading}...</h2></summary>
 
@@ -187,7 +191,6 @@ Every half-verse in this tṛca but 7c and 10c opens with a form of the 2nd sg. 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

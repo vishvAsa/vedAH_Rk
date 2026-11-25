@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "वसिष्ठः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -71,7 +72,12 @@ stuvānā́ ← √stu- (root)
 
 vasiṣṭhavát ← vasiṣṭhavát (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रमिद्भ॒द्रा कृ॑णव॒त्सर॑स्व॒त्यक॑वारी चेतति वा॒जिनी॑वती ।  
+गृ॒णा॒ना ज॑मदग्नि॒वत्स्तु॑वा॒ना च॑ वसिष्ठ॒वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “equally; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -77,7 +78,12 @@ vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒भु॒तो र॒यिः प्र॑थ॒मश्र॑वस्तमो॒ वाज॑श्रुतासो॒ यमजी॑जन॒न्नरः॑ ।  
+वि॒भ्व॒त॒ष्टो वि॒दथे॑षु प्र॒वाच्यो॒ यं दे॑वा॒सोऽव॑था॒ स विच॑र्षणिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “excellent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 yuváti ← √yu- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धनं॒ न स्य॒न्द्रं ब॑हु॒लं यो अ॑स्मै ती॒व्रान्त्सोमाँ॑ आसु॒नोति॒ प्रय॑स्वान् ।  
+तस्मै॒ शत्रू॑न्त्सु॒तुका॑न्प्रा॒तरह्नो॒ नि स्वष्ट्रा॑न्यु॒वति॒ हन्ति॑ वृ॒त्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “Vṛtra; vṛtra \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

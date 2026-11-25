@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "देवापिरार्ष्टिषेणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -80,7 +81,12 @@ divyā́ḥ ← divyá- (nominal stem)
 
 varṣyā̀ḥ ← varṣyà- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒र्ष्टि॒षे॒णो हो॒त्रमृषि॑र्नि॒षीद॑न्दे॒वापि॑र्देवसुम॒तिं चि॑कि॒त्वान् ।  
+स उत्त॑रस्मा॒दध॑रं समु॒द्रम॒पो दि॒व्या अ॑सृजद्व॒र्ष्या॑ अ॒भि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “towards; on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

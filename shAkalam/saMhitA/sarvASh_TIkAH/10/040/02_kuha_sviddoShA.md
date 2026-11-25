@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -101,7 +102,12 @@ sadhásthe ← sadhástha- (nominal stem)
 
 yóṣā ← yóṣā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कुह॑ स्विद्दो॒षा कुह॒ वस्तो॑र॒श्विना॒ कुहा॑भिपि॒त्वं क॑रतः॒ कुहो॑षतुः ।  
+को वां॑ शयु॒त्रा वि॒धवे॑व दे॒वरं॒ मर्यं॒ न योषा॑ कृणुते स॒धस्थ॒ आ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -261,7 +267,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

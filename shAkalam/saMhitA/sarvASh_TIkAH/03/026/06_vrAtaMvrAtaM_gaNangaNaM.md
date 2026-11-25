@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -74,7 +75,12 @@ vidátheṣu ← vidátha- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्रातं॑व्रातं ग॒णङ्ग॑णं सुश॒स्तिभि॑र॒ग्नेर्भामं॑ म॒रुता॒मोज॑ ईमहे ।  
+पृष॑दश्वासो अनव॒भ्ररा॑धसो॒ गन्ता॑रो य॒ज्ञं वि॒दथे॑षु॒ धीराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “expert; wise; intelligent; versed; adept.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

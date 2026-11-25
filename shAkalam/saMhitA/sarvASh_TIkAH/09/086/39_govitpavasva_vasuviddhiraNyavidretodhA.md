@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ tvā ← tvám (pronoun)
 
 víprāḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गो॒वित्प॑वस्व वसु॒विद्धि॑रण्य॒विद्रे॑तो॒धा इ॑न्दो॒ भुव॑ने॒ष्वर्पि॑तः ।  
+त्वं सु॒वीरो॑ असि सोम विश्व॒वित्तं त्वा॒ विप्रा॒ उप॑ गि॒रेम आ॑सते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -265,7 +271,6 @@ _________
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -292,10 +297,6 @@ Purify yourself, as finder of cattle, of goods, of gold. Depositing seed, o  dro
 You, Soma, are rich in good heroes, finder of all [/all-knowing]. These  inspired poets here reverently approach you with a hymn.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On viśvavíd- see comm. ad vs. 29. Geldner takes it as ‘all-knowing’ here, but the other -víd- cmpds in the vs. favor ‘all-finding’. Renou, like me, ‘all-finding’ here, though ‘all-knowing’ in 29.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/37-39.md">
 <details><summary><h2>37-39 ...{Loading}...</h2></summary>
 
@@ -305,7 +306,6 @@ Note in 38 first the enclitic naḥ and then the 1st pl. opt. syāma. The poet b
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रयस्वन्त आत्रेयाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ anyávratasya ← anyávrata- (nominal stem)
 
 saścire ← √sac- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये अ॑ग्ने॒ नेरय॑न्ति ते वृ॒द्धा उ॒ग्रस्य॒ शव॑सः ।  
+अप॒ द्वेषो॒ अप॒ ह्वरो॒ऽन्यव्र॑तस्य सश्चिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

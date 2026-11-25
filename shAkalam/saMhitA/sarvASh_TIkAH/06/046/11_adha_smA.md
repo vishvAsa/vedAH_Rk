@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ didyávaḥ ← didyú- (nominal stem)
 
 tigmámūrdhānaḥ ← tigmámūrdhan- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॑ स्मा नो वृ॒धे भ॒वेन्द्र॑ ना॒यम॑वा यु॒धि ।  
+यद॒न्तरि॑क्षे प॒तय॑न्ति प॒र्णिनो॑ दि॒द्यव॑स्ति॒ग्ममू॑र्धानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -213,10 +218,6 @@ So then, as ever, be there to strengthen us. Indra, help our leader in  the figh
 when the feathered, sharp-headed arrows fly in the midspace,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first pāda is a bare variant of 3d: both contain the complex verbal construction vṛdhé √bhū ‘be for strengthening / be there to strengthen’, each with the complement enclitic naḥ. The only difference is the placement of the impv.: initial bhávā in 3d, final bhava in 11a, differing only in accent and, possibly, in the length of the final vowel: the Pp. resolves the cross-pāda sandhi bhavéndra with short bhava, like 10d, but a long vowel would be equally possible.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/11-12.md">
 <details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -226,7 +227,6 @@ On the particular connection of vs. 12 with vs. 9 see immed. below.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

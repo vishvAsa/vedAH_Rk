@@ -4,6 +4,7 @@ devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मन्युः
@@ -98,7 +99,12 @@ hánāva ← √han- (root)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं ते॑ अ॒स्म्युप॒ मेह्य॒र्वाङ्प्र॑तीची॒नः स॑हुरे विश्वधायः ।  
+मन्यो॑ वज्रिन्न॒भि मामा व॑वृत्स्व॒ हना॑व॒ दस्यूँ॑रु॒त बो॑ध्या॒पेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “friend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

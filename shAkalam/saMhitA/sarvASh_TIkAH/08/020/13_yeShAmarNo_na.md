@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -72,7 +73,12 @@ sáhaḥ ← sáhas- (nominal stem)
 
 váyaḥ ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येषा॒मर्णो॒ न स॒प्रथो॒ नाम॑ त्वे॒षं शश्व॑ता॒मेक॒मिद्भु॒जे ।  
+वयो॒ न पित्र्यं॒ सहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “force; strength; might; sahas \[word\]; conquest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

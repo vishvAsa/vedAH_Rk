@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ jávasā ← jávas- (nominal stem)
 
 sáran ← √sr̥- 1 (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भि॒नद्गि॒रिं शव॑सा॒ वज्र॑मि॒ष्णन्ना॑विष्कृण्वा॒नः स॑हसा॒न ओजः॑ ।  
+वधी॑द्वृ॒त्रं वज्रे॑ण मन्दसा॒नः सर॒न्नापो॒ जव॑सा ह॒तवृ॑ष्णीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “Vṛṣṇi; ram.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,12 +232,6 @@ He smashed Vr̥tra with his mace in his exhilaration. With their bull
 struck down, the waters ran swiftly.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Almost the full panoply of power terms is on display in the first hemistich: śávas-, sáhas- (in the pseudo-part., on which see comm. ad IV.3.6), and ójas-.
-
-The “bull” of the waters is of course Vṛtra.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
 <details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -250,7 +249,6 @@ Its medial ending is an example of -anta replacement of the usual type (cf. Jami
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ dūredŕ̥śam ← dūredŕ̥ś- (nominal stem)
 
 gr̥hápatim ← gr̥hápati- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं नरो॒ दीधि॑तिभिर॒रण्यो॒र्हस्त॑च्युती जनयन्त प्रश॒स्तम् ।  
+दू॒रे॒दृशं॑ गृ॒हप॑तिमथ॒र्युम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “blazing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

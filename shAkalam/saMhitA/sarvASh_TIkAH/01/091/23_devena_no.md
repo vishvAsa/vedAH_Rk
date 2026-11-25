@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -92,7 +93,12 @@ prá ← prá (invariable)
 
 ubháyebhyaḥ ← ubháya- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वेन॑ नो॒ मन॑सा देव सोम रा॒यो भा॒गं स॑हसावन्न॒भि यु॑ध्य ।  
+मा त्वा त॑न॒दीशि॑षे वी॒र्य॑स्यो॒भये॑भ्यः॒ प्र चि॑कित्सा॒ गवि॑ष्टौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “foray.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

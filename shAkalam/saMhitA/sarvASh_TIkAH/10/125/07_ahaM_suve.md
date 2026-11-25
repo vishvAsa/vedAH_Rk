@@ -4,6 +4,7 @@ devataa = "वागांभृणी"
 RShiH = "वागांभृणी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वागांभृणी
@@ -98,7 +99,12 @@ utá ← utá (invariable)
 
 varṣmáṇā ← varṣmán- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं सु॑वे पि॒तर॑मस्य मू॒र्धन्मम॒ योनि॑र॒प्स्व१॒॑न्तः स॑मु॒द्रे ।  
+ततो॒ वि ति॑ष्ठे॒ भुव॒नानु॒ विश्वो॒तामूं द्यां व॒र्ष्मणोप॑ स्पृशामि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “touch; enter (a state); reach; touch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

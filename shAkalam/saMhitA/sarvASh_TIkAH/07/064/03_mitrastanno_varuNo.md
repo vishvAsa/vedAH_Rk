@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -92,7 +93,12 @@ madema ← √mad- (root)
 
 sahá ← sahá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रस्तन्नो॒ वरु॑णो दे॒वो अ॒र्यः प्र साधि॑ष्ठेभिः प॒थिभि॑र्नयन्तु ।  
+ब्रव॒द्यथा॑ न॒ आद॒रिः सु॒दास॑ इ॒षा म॑देम स॒ह दे॒वगो॑पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “herder; defender.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

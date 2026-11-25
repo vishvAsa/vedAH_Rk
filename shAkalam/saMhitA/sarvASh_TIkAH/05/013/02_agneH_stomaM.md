@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ devásya ← devá- (nominal stem)
 
 draviṇasyávaḥ ← draviṇasyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्नेः स्तोमं॑ मनामहे सि॒ध्रम॒द्य दि॑वि॒स्पृशः॑ ।  
+दे॒वस्य॑ द्रविण॒स्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +123,6 @@ _________
 - “draviṇasyu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

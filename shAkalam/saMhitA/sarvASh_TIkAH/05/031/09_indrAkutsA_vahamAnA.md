@@ -4,6 +4,7 @@ devataa = "इन्द्राकुत्सौ"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राकुत्सौ
@@ -89,7 +90,12 @@ támāṁsi ← támas- (nominal stem)
 
 varathaḥ ← √vr̥- (root)  
 {number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑कुत्सा॒ वह॑माना॒ रथे॒ना वा॒मत्या॒ अपि॒ कर्णे॑ वहन्तु ।  
+निः षी॑म॒द्भ्यो धम॑थो॒ निः ष॒धस्था॑न्म॒घोनो॑ हृ॒दो व॑रथ॒स्तमां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     ignorance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ patsutaḥśī́ḥ ← patsutaḥśī́- (nominal stem)
 
 tā́sām ← sá- ~ tá- (pronoun)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒दं न भि॒न्नम॑मु॒या शया॑नं॒ मनो॒ रुहा॑णा॒ अति॑ य॒न्त्यापः॑ ।  
+याश्चि॑द्वृ॒त्रो म॑हि॒ना प॒र्यति॑ष्ठ॒त्तासा॒महिः॑ पत्सुतः॒शीर्ब॑भूव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

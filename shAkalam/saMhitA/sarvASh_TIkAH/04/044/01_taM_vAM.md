@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पुरुमीळ्हाजमीळ्हौ सौहोत्रौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ purutámam ← purutáma- (nominal stem)
 
 vasūyúm ← vasūyú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वां॒ रथं॑ व॒यम॒द्या हु॑वेम पृथु॒ज्रय॑मश्विना॒ सङ्ग॑तिं॒ गोः ।  
+यः सू॒र्यां वह॑ति वन्धुरा॒युर्गिर्वा॑हसं पुरु॒तमं॑ वसू॒युम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

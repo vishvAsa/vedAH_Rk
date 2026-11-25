@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ vā́jā ← vā́ja- (nominal stem)
 
 vaṁsva ← √vanⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हो दे॒वान्यज॑सि॒ यक्ष्या॑नु॒षक्तव॒ क्रत्वो॒त दं॒सना॑ ।  
+अ॒र्वाचः॑ सीं कृणुह्य॒ग्नेऽव॑से॒ रास्व॒ वाजो॒त वं॑स्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “obtain; gain; desire; get; like; love; overcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

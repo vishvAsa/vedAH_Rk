@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ ná ← ná (invariable)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा ते॑ गोदत्र॒ निर॑राम॒ राध॑स॒ इन्द्र॒ मा ते॑ गृहामहि ।  
+दृ॒ळ्हा चि॑द॒र्यः प्र मृ॑शा॒भ्या भ॑र॒ न ते॑ दा॒मान॑ आ॒दभे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -254,7 +260,6 @@ _________
 - \[verb noun\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ kārúdhāyāḥ ← kārúdhāyas- (nominal stem)
 
 vásuḥ ← vásu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पाता॑ सु॒तमिन्द्रो॑ अस्तु॒ सोमं॒ हन्ता॑ वृ॒त्रं वज्रे॑ण मन्दसा॒नः ।  
+गन्ता॑ य॒ज्ञं प॑रा॒वत॑श्चि॒दच्छा॒ वसु॑र्धी॒नाम॑वि॒ता का॒रुधा॑याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “alimentary; sustaining.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -247,12 +252,6 @@ who goes to the sacrifice, even from far away, who is the good helper of  insigh
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The vs. is characterized by three root-accented agent nouns (pā́tā a, hántā b, gántā c), all pāda-initial, all with acc. obj./goal. Then in d the pattern is switched: a suffix-accented agent noun (avitā́), interior in its pāda (immed. after caesura) with (objective) gen. complement. All of them are presumably predicates of astu in pāda a. I consider this simply an instance of the RVic tendency to shake up established patterns; I doubt that the poet is attempting to draw a distinction between Indra’s habitual roles as drinker, smiter, and goer, in contrast to a situational role as helper, as Tichy claims (Die Nomen agentis auf -tar- im Vedischen, 298-99; cf. 257 and passim). Among other things, “help” is one of the most frequent things we ask Indra to do for us; it is surely one of his standard, habitual roles. It happens that there is no root-accented *ávitar-, though avitár- is extremely common, and so no such form was available to match the first three -tar- stems in this vs. I do not know if the gap is accidental or systemic.
-
-Note that kārúdhāyas-, a rare bv., reappears here from 12 -- again, a possible reason for attaching this tṛca to the preceding one.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -260,7 +259,6 @@ Another soma tṛca.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sám ← sám (invariable)
 
 yutádveṣasaḥ ← yutádveṣas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒भिर्द्युभिः॑ सु॒मना॑ ए॒भिरिन्दु॑भिर्निरुन्धा॒नो अम॑तिं॒ गोभि॑र॒श्विना॑ ।  
+इन्द्रे॑ण॒ दस्युं॑ द॒रय॑न्त॒ इन्दु॑भिर्यु॒तद्वे॑षसः॒ समि॒षा र॑भेमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “clasp.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सदापृण आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ sthū́ṇā ← sthū́ṇā- (nominal stem)
 
 súmitā ← súmita- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि सूर्यो॑ अ॒मतिं॒ न श्रियं॑ सा॒दोर्वाद्गवां॑ मा॒ता जा॑न॒ती गा॑त् ।  
+धन्व॑र्णसो न॒द्य१॑ः॒ खादो॑अर्णाः॒ स्थूणे॑व॒ सुमि॑ता दृंहत॒ द्यौः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

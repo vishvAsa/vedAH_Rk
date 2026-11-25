@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शतप्रभेदनो वैरूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ mahimā́nam ← mahimán- (nominal stem)
 
 ugra ← ugrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒त्रेण॒ यदहि॑ना॒ बिभ्र॒दायु॑धा स॒मस्थि॑था यु॒धये॒ शंस॑मा॒विदे॑ ।  
+विश्वे॑ ते॒ अत्र॑ म॒रुतः॑ स॒ह त्मनाव॑र्धन्नुग्र महि॒मान॑मिन्द्रि॒यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “aindra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पूरणो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ brahmadvíṣaḥ ← brahmadvíṣ- (nominal stem)
 
 hanti ← √han- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॑स्पष्टो भवत्ये॒षो अ॑स्य॒ यो अ॑स्मै रे॒वान्न सु॒नोति॒ सोम॑म् ।  
+निर॑र॒त्नौ म॒घवा॒ तं द॑धाति ब्रह्म॒द्विषो॑ ह॒न्त्यना॑नुदिष्टः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

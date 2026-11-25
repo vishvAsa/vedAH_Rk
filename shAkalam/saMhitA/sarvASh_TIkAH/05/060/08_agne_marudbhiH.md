@@ -4,6 +4,7 @@ devataa = "मरुतो मरुतो वाग्निश्च"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतो मरुतो वाग्निश्च
@@ -77,7 +78,12 @@ sajū́s ← sajū́s (invariable)
 
 vaíśvānara ← vaiśvānará- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ म॒रुद्भिः॑ शु॒भय॑द्भि॒रृक्व॑भिः॒ सोमं॑ पिब मन्दसा॒नो ग॑ण॒श्रिभिः॑ ।  
+पा॒व॒केभि॑र्विश्वमि॒न्वेभि॑रा॒युभि॒र्वैश्वा॑नर प्र॒दिवा॑ के॒तुना॑ स॒जूः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

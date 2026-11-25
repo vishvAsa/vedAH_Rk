@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ kr̥ṇvántaḥ ← √kr̥- (root)
 
 tánā ← tán- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒घ्नन्तो॑ दुरि॒ता पु॒रु सु॒गा तो॒काय॑ वा॒जिनः॑ ।  
+तना॑ कृ॒ण्वन्तो॒ अर्व॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “horse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -154,16 +159,6 @@ The prize-seekers, smashing apart the many obstacles to progress,  making the wa
 and for our steed by their own extension,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. has no finite verb, just two nom. pl. participles. With its nom. pl. subj. it can be dependent on vs. 1 or vs. 3 (or both); I prefer anticipatory dependence on vs. 3 because of the repetition of kṛṇvántaḥ and the parallel datives.
-
-Note the juxtaposition of the opposites duritā́lit. ‘ill-goings’ (pāda a) and sugā́lit.
-
-‘good-goings’ (pāda b), formed with two different verbs of motion (√i, √gā). It is difficult to capture this relationship in Engl. without awkwardness, as the literal tr. just given demonstrate.
-
-My tr. follows Geldner in taking árvate parallel to tokā́ya “for our offsping and for our steed”; I am somewhat tempted to take árvate as an anticipatory parallel to gáve in 3a, with which it forms a more natural class (“making wide space for our steed and for our cow”), but I can’t see how to do that without brutally splitting up 2c, since kṛṇvántaḥ is required to govern sugā́in 2b.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -173,7 +168,6 @@ kṛṇvántaḥ and datives of benefit.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

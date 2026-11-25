@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ kṣitīnā́m ← kṣití- (nominal stem)
 
 páñca ← páñca- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य एक॑श्चर्षणी॒नां वसू॑नामिर॒ज्यति॑ ।  
+इन्द्रः॒ पञ्च॑ क्षिती॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +122,6 @@ _________
     estate; colony; house.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अंबरीष ऋजिश्वा च"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -71,7 +72,12 @@ sumnásya ← sumná- (nominal stem)
 
 syā́ma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं ते॑ अ॒स्य वृ॑त्रह॒न्वसो॒ वस्वः॑ पुरु॒स्पृहः॑ ।  
+नि नेदि॑ष्ठतमा इ॒षः स्याम॑ सु॒म्नस्या॑ध्रिगो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - “rich; powerful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

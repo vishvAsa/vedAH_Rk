@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ rudrā́n ← rudrá- (nominal stem)
 
 vásūn ← vásu- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒धि॒क्राम॒ग्निमु॒षसं॑ च दे॒वीं बृह॒स्पतिं॑ सवि॒तारं॑ च दे॒वम् ।  
+अ॒श्विना॑ मि॒त्रावरु॑णा॒ भगं॑ च॒ वसू॑न्रु॒द्राँ आ॑दि॒त्याँ इ॒ह हु॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

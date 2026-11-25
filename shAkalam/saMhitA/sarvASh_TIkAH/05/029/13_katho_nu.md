@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -107,7 +108,12 @@ u ← u (invariable)
 
 vidátheṣu ← vidátha- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒थो नु ते॒ परि॑ चराणि वि॒द्वान्वी॒र्या॑ मघव॒न्या च॒कर्थ॑ ।  
+या चो॒ नु नव्या॑ कृ॒णवः॑ शविष्ठ॒ प्रेदु॒ ता ते॑ वि॒दथे॑षु ब्रवाम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -289,7 +295,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

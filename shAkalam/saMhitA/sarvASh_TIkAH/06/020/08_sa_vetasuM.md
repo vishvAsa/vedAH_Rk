@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sr̥jai ← √sr̥j- (root)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वे॑त॒सुं दश॑मायं॒ दशो॑णिं॒ तूतु॑जि॒मिन्द्रः॑ स्वभि॒ष्टिसु॑म्नः ।  
+आ तुग्रं॒ शश्व॒दिभं॒ द्योत॑नाय मा॒तुर्न सी॒मुप॑ सृजा इ॒यध्यै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 yajatáḥ ← yajatá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञस्य॑ वो र॒थ्यं॑ वि॒श्पतिं॑ वि॒शां होता॑रम॒क्तोरति॑थिं वि॒भाव॑सुम् ।  
+शोच॒ञ्छुष्का॑सु॒ हरि॑णीषु॒ जर्भु॑र॒द्वृषा॑ के॒तुर्य॑ज॒तो द्याम॑शायत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “lie; sleep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

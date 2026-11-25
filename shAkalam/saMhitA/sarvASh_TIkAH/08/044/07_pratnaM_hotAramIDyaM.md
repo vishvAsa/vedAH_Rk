@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ abhiśríyam ← abhiśrī́- (nominal stem)
 
 adhvarā́ṇām ← adhvará- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒त्नं होता॑र॒मीड्यं॒ जुष्ट॑म॒ग्निं क॒विक्र॑तुम् ।  
+अ॒ध्व॒राणा॑मभि॒श्रिय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - \[noun\], accusative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

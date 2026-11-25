@@ -4,6 +4,7 @@ devataa = "सविता;सविता भगो वा"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता;सविता भगो वा
@@ -86,7 +87,12 @@ rátnam ← rátna- (nominal stem)
 
 yāti ← √yā- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॒ तन्नो॒ जास्पति॑र्मंसीष्ट॒ रत्नं॑ दे॒वस्य॑ सवि॒तुरि॑या॒नः ।  
+भग॑मु॒ग्रोऽव॑से॒ जोह॑वीति॒ भग॒मनु॑ग्रो॒ अध॑ याति॒ रत्न॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     jewelry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

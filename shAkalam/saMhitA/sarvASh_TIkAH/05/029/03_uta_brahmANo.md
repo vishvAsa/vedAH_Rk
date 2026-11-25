@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ asya ← ayám (pronoun)
 
 papivā́n ← √pā- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त ब्र॑ह्माणो मरुतो मे अ॒स्येन्द्रः॒ सोम॑स्य॒ सुषु॑तस्य पेयाः ।  
+तद्धि ह॒व्यं मनु॑षे॒ गा अवि॑न्द॒दह॒न्नहिं॑ पपि॒वाँ इन्द्रो॑ अस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

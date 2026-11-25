@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "कृत्नुर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -60,7 +61,12 @@ kā́vyena ← kā́vya- (nominal stem)
 
 vípraḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं कृ॒त्नुरगृ॑भीतो विश्व॒जिदु॒द्भिदित्सोमः॑ ।  
+ऋषि॒र्विप्रः॒ काव्ये॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “Uśanas; poem; Kāvya; wisdom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

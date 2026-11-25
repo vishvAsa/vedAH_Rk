@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ maháḥ ← máh- (nominal stem)
 
 vápūṁṣi ← vápus- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या जा॒मयो॒ वृष्ण॑ इ॒च्छन्ति॑ श॒क्तिं न॑म॒स्यन्ती॑र्जानते॒ गर्भ॑मस्मिन् ।  
+अच्छा॑ पु॒त्रं धे॒नवो॑ वावशा॒ना म॒हश्च॑रन्ति॒ बिभ्र॑तं॒ वपूं॑षि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     embodiment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

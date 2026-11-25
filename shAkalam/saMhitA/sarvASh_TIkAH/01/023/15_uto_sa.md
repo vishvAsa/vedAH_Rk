@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -66,7 +67,12 @@ ná ← ná (invariable)
 
 yávam ← yáva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तो स मह्य॒मिन्दु॑भिः॒ षड्यु॒क्ताँ अ॑नु॒सेषि॑धत् ।  
+गोभि॒र्यवं॒ न च॑र्कृषत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - \[verb\], singular, Present conjunctive (subjunctive)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

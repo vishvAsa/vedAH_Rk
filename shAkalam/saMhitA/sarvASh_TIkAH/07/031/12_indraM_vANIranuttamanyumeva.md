@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ háryaśvāya ← háryaśva- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रं॒ वाणी॒रनु॑त्तमन्युमे॒व स॒त्रा राजा॑नं दधिरे॒ सह॑ध्यै ।  
+हर्य॑श्वाय बर्हया॒ समा॒पीन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “friend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

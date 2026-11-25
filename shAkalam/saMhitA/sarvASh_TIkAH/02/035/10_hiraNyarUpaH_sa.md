@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -83,7 +84,12 @@ dadati ← √dā- 1 (root)
 
 hiraṇyadā́ḥ ← hiraṇyadā́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यरूपः॒ स हिर॑ण्यसन्दृग॒पां नपा॒त्सेदु॒ हिर॑ण्यवर्णः ।  
+हि॒र॒ण्यया॒त्परि॒ योने॑र्नि॒षद्या॑ हिरण्य॒दा द॑द॒त्यन्न॑मस्मै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

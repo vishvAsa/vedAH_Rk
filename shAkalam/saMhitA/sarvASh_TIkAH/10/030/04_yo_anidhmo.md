@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -86,7 +87,12 @@ vīryā̀ya ← vīryà- (nominal stem)
 
 yā́bhiḥ ← yá- (pronoun)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अ॑नि॒ध्मो दीद॑यद॒प्स्व१॒॑न्तर्यं विप्रा॑स॒ ईळ॑ते अध्व॒रेषु॑ ।  
+अपां॑ नपा॒न्मधु॑मतीर॒पो दा॒ याभि॒रिन्द्रो॑ वावृ॒धे वी॒र्या॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

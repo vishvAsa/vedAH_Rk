@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -83,7 +84,12 @@ yát ← yá- (pronoun)
 
 yuktáḥ ← √yuj- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्वे॑ति प्रसवी॒ता जना॑नां म॒हान्के॒तुर॑र्ण॒वः सूर्य॑स्य ।  
+स॒मा॒नं च॒क्रं प॑र्या॒विवृ॑त्स॒न्यदे॑त॒शो वह॑ति धू॒र्षु यु॒क्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     affect; challenge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -83,7 +84,12 @@ tvám ← tvám (pronoun)
 
 śóśucānaḥ ← √śuc- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॑ त्रि॒धातु॑ पृथि॒वी उ॒त द्यौर्वैश्वा॑नर व्र॒तम॑ग्ने सचन्त ।  
+त्वं भा॒सा रोद॑सी॒ आ त॑त॒न्थाज॑स्रेण शो॒चिषा॒ शोशु॑चानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “blaze.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

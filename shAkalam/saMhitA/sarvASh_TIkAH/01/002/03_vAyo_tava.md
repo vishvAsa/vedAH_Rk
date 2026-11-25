@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -54,7 +55,12 @@ sómapītaye ← sómapīti- (nominal stem)
 
 urūcī́ ← uruvyáñc- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वायो॒ तव॑ प्रपृञ्च॒ती धेना॑ जिगाति दा॒शुषे॑ ।  
+उ॒रू॒ची सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +124,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

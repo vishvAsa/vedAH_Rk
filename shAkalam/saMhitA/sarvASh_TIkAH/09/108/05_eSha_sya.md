@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऊरुः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ krī́ḷan ← √krīḍ- (root)
 
 ūrmíḥ ← ūrmí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्य धार॑या सु॒तोऽव्यो॒ वारे॑भिः पवते म॒दिन्त॑मः ।  
+क्रीळ॑न्नू॒र्मिर॒पामि॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -175,7 +180,6 @@ playing like a wave of the waters,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -183,7 +187,6 @@ The 1st hemistich of vs. 6 is a relative cl. in the 3rd ps. dependent on vs. 5, 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

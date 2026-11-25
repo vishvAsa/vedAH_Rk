@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ prāvitā́ ← prāvitár- (nominal stem)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि स्व॒सृत्पृष॑दश्वो॒ युवा॑ ग॒णो॒३॒॑ऽया ई॑शा॒नस्तवि॑षीभि॒रावृ॑तः ।  
+असि॑ स॒त्य ऋ॑ण॒यावाने॑द्यो॒ऽस्या धि॒यः प्रा॑वि॒ताथा॒ वृषा॑ ग॒णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     Ganesa; flight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

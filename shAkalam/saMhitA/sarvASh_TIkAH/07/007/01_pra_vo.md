@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ tmánā ← tmán- (nominal stem)
 
 vivide ← √vid- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॑ दे॒वं चि॑त्सहसा॒नम॒ग्निमश्वं॒ न वा॒जिनं॑ हिषे॒ नमो॑भिः ।  
+भवा॑ नो दू॒तो अ॑ध्व॒रस्य॑ वि॒द्वान्त्मना॑ दे॒वेषु॑ विविदे मि॒तद्रुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

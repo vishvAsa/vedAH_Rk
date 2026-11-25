@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -49,7 +50,11 @@ aspr̥dhran ← √spr̥dh- (root)
 
 vā́tasvanasaḥ ← vā́tasvanas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि स्व॒पूभि॑र्मि॒थो व॑पन्त॒ वात॑स्वनसः श्ये॒ना अ॑स्पृध्रन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +110,6 @@ _________
 - “rival.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

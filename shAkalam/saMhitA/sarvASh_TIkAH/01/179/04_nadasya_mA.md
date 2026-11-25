@@ -4,6 +4,7 @@ devataa = "रतिः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रतिः
@@ -89,7 +90,12 @@ dhī́ram ← dhī́ra- (nominal stem)
 
 śvasántam ← √śvasⁱ- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒दस्य॑ मा रुध॒तः काम॒ आग॑न्नि॒त आजा॑तो अ॒मुतः॒ कुत॑श्चित् ।  
+लोपा॑मुद्रा॒ वृष॑णं॒ नी रि॑णाति॒ धीर॒मधी॑रा धयति श्व॒सन्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “hiss; pant; sigh; breathe; blow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

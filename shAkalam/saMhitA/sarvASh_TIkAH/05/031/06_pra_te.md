@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ jáyan ← √ji- 1 (root)
 
 mánave ← mánu- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॒ पूर्वा॑णि॒ कर॑णानि वोचं॒ प्र नूत॑ना मघव॒न्या च॒कर्थ॑ ।  
+शक्ती॑वो॒ यद्वि॒भरा॒ रोद॑सी उ॒भे जय॑न्न॒पो मन॑वे॒ दानु॑चित्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     painted; obvious; patched; bizarre.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -264,14 +269,6 @@ I will proclaim your previous deeds, proclaim the current ones that you  have do
 when, potent one, you will pull apart both world-halves, winning the  waters, bright in drops, for Manu.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Though Grassmann refuses to tr., katpayám seems to contain the pejorative kaprefix; see EWA s.v. ká1 , p. 285.
-
-For ápa √gṝ ‘taunt’ see comm. ad V.29.4. As Oberlies (Relig. I.401) points out, this gerund depicts a pre-battle boasting/insulting match -- trash talk (needless to say, this last is not Oberlies’s formulation).
-
-What to do with uccaíḥ is unclear. Most take it with the gerund apagū́rya; so Geldner “hoch ausholend,” with his interpr. of the gerund as belonging to a √gṝ ‘hold out’; with the assignment to ápa √gṝ ‘insult’, Schaeffer “nachdem er laut Schmähreden geführt hat”; Oberlies “nachdem er ihn [zuvor] mit lauter Stimme geschmäht hatte”; Witzel Gotō “indem er ihn von oben herab verspottete.” The Schaeffer / Oberlies interpr. of the adverb as ‘loud’ is appealing, but uccā́is always positional in the RV. The Witzel Gotō interpr. recognizes this fact, but insulting from above seems an odd activity. I take it rather with jaghāna. A fatal blow is more likely to come from above than a taunt, and it is notable how often in the hymn it is emphasized that Vṛtra was smashed down: 1d áva … han, 4d ní jaghāna, 5a níṣattam, 7d adhamám, 8d ní … āvṛnak. To depict Indra as correspondingly acting above provides the thematic complement. Note also úd … índraḥ … vádhar yámiṣṭa (“… held up …”) in the next hemistich, 7ab.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -288,7 +285,6 @@ Hoffmann (244-45) classifies it as “Konjunktiv in präteritalem Sachverhalt”
 + SUBJUNCTIVE clause here in that way. The separation of the two world halves is, on a smaller scale, accomplished every morning when dawn reveals the horizon where the darkness had kept earth and sky undifferentiated. And winning waters is something that needs to be repeated at least yearly. The subjunctive here indicates that our focus is on the re-creation of these older deeds, not simply on celebrating their original performance. In this context mánave ‘for Manu’ would have the extended sense ‘for mankind’.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

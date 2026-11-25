@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ páyasā ← páyas- (nominal stem)
 
 pinvanti ← √pinv- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒शा॒न॒कृतो॒ धुन॑यो रि॒शाद॑सो॒ वाता॑न्वि॒द्युत॒स्तवि॑षीभिरक्रत ।  
+दु॒हन्त्यूध॑र्दि॒व्यानि॒ धूत॑यो॒ भूमिं॑ पिन्वन्ति॒ पय॑सा॒ परि॑ज्रयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “whirling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

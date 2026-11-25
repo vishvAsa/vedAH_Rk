@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ vásūnām ← vásu- (nominal stem)
 
 vasupate ← vásupati- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ भर॒ भग॑मिन्द्र द्यु॒मन्तं॒ नि ते॑ दे॒ष्णस्य॑ धीमहि प्ररे॒के ।  
+ऊ॒र्व इ॑व पप्रथे॒ कामो॑ अ॒स्मे तमा पृ॑ण वसुपते॒ वसू॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

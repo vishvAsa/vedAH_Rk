@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ vásuḥ ← vásu- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नः॒ स्तवा॑न॒ आ भ॑र र॒यिं चि॒त्रश्र॑वस्तमम् ।  
+नि॒रे॒के चि॒द्यो ह॑रिवो॒ वसु॑र्द॒दिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - “giving; big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

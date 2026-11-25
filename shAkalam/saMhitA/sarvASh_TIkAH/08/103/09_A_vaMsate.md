@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ sumatíḥ ← sumatí- (nominal stem)
 
 vā́jebhiḥ ← vā́ja- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वं॑सते म॒घवा॑ वी॒रव॒द्यशः॒ समि॑द्धो द्यु॒म्न्याहु॑तः ।  
+कु॒विन्नो॑ अस्य सुम॒तिर्नवी॑य॒स्यच्छा॒ वाजे॑भिरा॒गम॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
     inherit; hand down; achieve; reach; appear; happen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

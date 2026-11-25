@@ -4,6 +4,7 @@ devataa = "हरिस्तुतिः"
 RShiH = "बरुः सर्वहरिर्वैन्द्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हरिस्तुतिः
@@ -89,7 +90,12 @@ mádasya ← máda- (nominal stem)
 
 pītvā́ ← √pā- 2 (root)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्रुवे॑व॒ यस्य॒ हरि॑णी विपे॒ततुः॒ शिप्रे॒ वाजा॑य॒ हरि॑णी॒ दवि॑ध्वतः ।  
+प्र यत्कृ॒ते च॑म॒से मर्मृ॑ज॒द्धरी॑ पी॒त्वा मद॑स्य हर्य॒तस्यान्ध॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “Soma; drink; amṛta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

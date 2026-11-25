@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -57,7 +57,11 @@ svā́dma ← svā́dman- (nominal stem)
 
 ū́dhar ← ū́dhar- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वे॒धा अदृ॑प्तो अ॒ग्निर्वि॑जा॒नन्नूध॒र्न गोनां॒ स्वाद्मा॑ पितू॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +133,6 @@ _________
 - “food.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -171,10 +174,6 @@ Ein unbeirrter Meister, der sich auskennt, ist Agni. Wie der Kühe Euter ist er 
 
 Es kennet Agni, – der treue Sorger der Kühe Euter, – der Tränke Labsal, Der anzuflehn ist – als Freund dem Menschen, sich lieblich setzend – in Hauses Mitte.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

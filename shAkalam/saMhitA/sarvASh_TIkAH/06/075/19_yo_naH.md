@@ -4,6 +4,7 @@ devataa = "देवब्रह्माणि"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवब्रह्माणि
@@ -80,7 +81,12 @@ máma ← ahám (pronoun)
 
 várma ← várman- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नः॒ स्वो अर॑णो॒ यश्च॒ निष्ट्यो॒ जिघां॑सति ।  
+दे॒वास्तं सर्वे॑ धूर्वन्तु॒ ब्रह्म॒ वर्म॒ ममान्त॑रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     following.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

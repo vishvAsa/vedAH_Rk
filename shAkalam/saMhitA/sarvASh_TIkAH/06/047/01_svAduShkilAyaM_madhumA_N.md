@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -101,7 +102,12 @@ ná ← ná (invariable)
 
 sahate ← √sah- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वा॒दुष्किला॒यं मधु॑माँ उ॒तायं ती॒व्रः किला॒यं रस॑वाँ उ॒तायम् ।  
+उ॒तो न्व१॒॑स्य प॑पि॒वांस॒मिन्द्रं॒ न कश्च॒न स॑हत आह॒वेषु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “battle; fight; challenge; war.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

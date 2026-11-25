@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ naḥ ← ahám (pronoun)
 
 vasuvídam ← vasuvíd- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किम॒ङ्ग त्वा॑ मघवन्भो॒जमा॑हुः शिशी॒हि मा॑ शिश॒यं त्वा॑ शृणोमि ।  
+अप्न॑स्वती॒ मम॒ धीर॑स्तु शक्र वसु॒विदं॒ भग॑मि॒न्द्रा भ॑रा नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

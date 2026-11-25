@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ marútvantam ← marútvant- (nominal stem)
 
 sakhyā́ya ← sakhyá- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रु॒द्राणा॑मेति प्र॒दिशा॑ विचक्ष॒णो रु॒द्रेभि॒र्योषा॑ तनुते पृ॒थु ज्रयः॑ ।  
+इन्द्रं॑ मनी॒षा अ॒भ्य॑र्चति श्रु॒तं म॒रुत्व॑न्तं स॒ख्याय॑ हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

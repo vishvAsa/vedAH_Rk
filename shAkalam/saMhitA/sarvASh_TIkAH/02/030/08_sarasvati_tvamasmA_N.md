@@ -4,6 +4,7 @@ devataa = "सरस्वती;इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती;इन्द्रः
@@ -80,7 +81,12 @@ hanti ← √han- (root)
 
 vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सर॑स्वति॒ त्वम॒स्माँ अ॑विड्ढि म॒रुत्व॑ती धृष॒ती जे॑षि॒ शत्रू॑न् ।  
+त्यं चि॒च्छर्ध॑न्तं तविषी॒यमा॑ण॒मिन्द्रो॑ हन्ति वृष॒भं शण्डि॑कानाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “śaṇḍika \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

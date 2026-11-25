@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ devā́ḥ ← devá- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते हि प्र॒जाया॒ अभ॑रन्त॒ वि श्रवो॒ बृह॒स्पति॑र्वृष॒भः सोम॑जामयः ।  
+य॒ज्ञैरथ॑र्वा प्रथ॒मो वि धा॑रयद्दे॒वा दक्षै॒र्भृग॑वः॒ सं चि॑कित्रिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ nís ← nís (invariable)
 
 támasaḥ ← támas- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न ये दि॒वः पृ॑थि॒व्या अन्त॑मा॒पुर्न मा॒याभि॑र्धन॒दां प॒र्यभू॑वन् ।  
+युजं॒ वज्रं॑ वृष॒भश्च॑क्र॒ इन्द्रो॒ निर्ज्योति॑षा॒ तम॑सो॒ गा अ॑दुक्षत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

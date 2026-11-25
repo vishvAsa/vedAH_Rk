@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ hánmanā ← hánman- (nominal stem)
 
 ójiṣṭhena ← ójiṣṭha- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॑ स्व॒धाम॑क्षर॒न्नापो॑ अ॒स्याव॑र्धत॒ मध्य॒ आ ना॒व्या॑नाम् ।  
+स॒ध्री॒चीने॑न॒ मन॑सा॒ तमिन्द्र॒ ओजि॑ष्ठेन॒ हन्म॑नाहन्न॒भि द्यून् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

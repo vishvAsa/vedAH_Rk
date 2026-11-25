@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sumnám ← sumná- (nominal stem)
 
 yaviṣṭha ← yáviṣṭha- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॑ अ॒द्य कृ॒णव॑द्भद्रशोचेऽपू॒पं दे॑व घृ॒तव॑न्तमग्ने ।  
+प्र तं न॑य प्रत॒रं वस्यो॒ अच्छा॒भि सु॒म्नं दे॒वभ॑क्तं यविष्ठ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “youngest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

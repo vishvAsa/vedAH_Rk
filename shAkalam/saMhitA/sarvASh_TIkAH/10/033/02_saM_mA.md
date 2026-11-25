@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ véḥ ← ví- (nominal stem)
 
 vevīyate ← √vī- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं मा॑ तपन्त्य॒भितः॑ स॒पत्नी॑रिव॒ पर्श॑वः ।  
+नि बा॑धते॒ अम॑तिर्न॒ग्नता॒ जसु॒र्वेर्न वे॑वीयते म॒तिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
     desire; wish; conviction; plan; devotion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

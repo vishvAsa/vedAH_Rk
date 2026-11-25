@@ -4,6 +4,7 @@ devataa = "धनान्नदानप्रशंसा"
 RShiH = "भिक्षुराङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - धनान्नदानप्रशंसा
@@ -107,7 +108,12 @@ utá ← utá (invariable)
 
 vindate ← √vid- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न वा उ॑ दे॒वाः क्षुध॒मिद्व॒धं द॑दुरु॒ताशि॑त॒मुप॑ गच्छन्ति मृ॒त्यवः॑ ।  
+उ॒तो र॒यिः पृ॑ण॒तो नोप॑ दस्यत्यु॒तापृ॑णन्मर्डि॒तारं॒ न वि॑न्दते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -282,7 +288,6 @@ _________
 - “find; detect; marry; get; think.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

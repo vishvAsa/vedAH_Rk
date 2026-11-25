@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ pr̥tanāyū́n ← pr̥tanāyú- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒प॒क्षे॒तार॒स्तव॑ सुप्रणी॒तेऽग्ने॒ विश्वा॑नि॒ धन्या॒ दधा॑नाः ।  
+सु॒रेत॑सा॒ श्रव॑सा॒ तुञ्ज॑माना अ॒भि ष्या॑म पृतना॒यूँरदे॑वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

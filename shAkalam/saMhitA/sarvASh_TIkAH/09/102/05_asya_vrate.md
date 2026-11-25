@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -64,7 +65,12 @@ juṣánta ← √juṣ- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य व्र॒ते स॒जोष॑सो॒ विश्वे॑ दे॒वासो॑ अ॒द्रुहः॑ ।  
+स्पा॒र्हा भ॑वन्ति॒ रन्त॑यो जु॒षन्त॒ यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “once \[when\]; because; that; if; how.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

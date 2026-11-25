@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ r̥ṣūṇā́m ← r̥ṣú- (nominal stem)
 
 vástuḥ ← vástu- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं द्वेषो॒ योत॒वै नो॑ गृणीमस्य॒ग्निं शं योश्च॒ दात॑वे ।  
+विश्वा॑सु वि॒क्ष्व॑वि॒तेव॒ हव्यो॒ भुव॒द्वस्तु॑रृषू॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - \[noun\], genitive, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

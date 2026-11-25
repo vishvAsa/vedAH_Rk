@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ prá ← prá (invariable)
 
 tásya ← sá- ~ tá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒यं चि॒त्स म॑न्यते॒ दाशु॑रि॒र्जनो॒ यत्रा॒ सोम॑स्य तृ॒म्पसि॑ ।  
+इ॒दं ते॒ अन्नं॒ युज्यं॒ समु॑क्षितं॒ तस्येहि॒ प्र द्र॑वा॒ पिब॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -77,7 +78,12 @@ rakṣoháṇam ← rakṣohán- (nominal stem)
 
 svarvídam ← svarvíd- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वि॒बाध्या॑ परि॒राप॒स्तमां॑सि च॒ ज्योति॑ष्मन्तं॒ रथ॑मृ॒तस्य॑ तिष्ठसि ।  
+बृह॑स्पते भी॒मम॑मित्र॒दम्भ॑नं रक्षो॒हणं॑ गोत्र॒भिदं॑ स्व॒र्विद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “finding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

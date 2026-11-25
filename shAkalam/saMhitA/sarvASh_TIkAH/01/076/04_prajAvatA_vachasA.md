@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ prayantar ← prayantár- (nominal stem)
 
 vásūnām ← vásu- (nominal stem)  
 {case:GEN, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒जाव॑ता॒ वच॑सा॒ वह्नि॑रा॒सा च॑ हु॒वे नि च॑ सत्सी॒ह दे॒वैः ।  
+वेषि॑ हो॒त्रमु॒त पो॒त्रं य॑जत्र बो॒धि प्र॑यन्तर्जनित॒र्वसू॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

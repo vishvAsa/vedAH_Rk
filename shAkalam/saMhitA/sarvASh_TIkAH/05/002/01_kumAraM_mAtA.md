@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कुमार आत्रेयो वृशो वा जान उभौ वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ paśyanti ← √paś- (root)
 
 purás ← purás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कु॒मा॒रं मा॒ता यु॑व॒तिः समु॑ब्धं॒ गुहा॑ बिभर्ति॒ न द॑दाति पि॒त्रे ।  
+अनी॑कमस्य॒ न मि॒नज्जना॑सः पु॒रः प॑श्यन्ति॒ निहि॑तमर॒तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “charioteer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

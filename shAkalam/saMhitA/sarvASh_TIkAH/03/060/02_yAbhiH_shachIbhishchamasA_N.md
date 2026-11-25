@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -86,7 +87,12 @@ sám ← sám (invariable)
 
 téna ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+याभिः॒ शची॑भिश्चम॒साँ अपिं॑शत॒ यया॑ धि॒या गामरि॑णीत॒ चर्म॑णः ।  
+येन॒ हरी॒ मन॑सा नि॒रत॑क्षत॒ तेन॑ देव॒त्वमृ॑भवः॒ समा॑नश ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

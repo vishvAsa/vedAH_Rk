@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -79,7 +79,12 @@ yájamānāya ← √yaj- (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ विश्वे॑भिः स्वनीक दे॒वैरूर्णा॑वन्तं प्रथ॒मः सी॑द॒ योनि॑म् ।  
+कु॒ला॒यिनं॑ घृ॒तव॑न्तं सवि॒त्रे य॒ज्ञं न॑य॒ यज॑मानाय सा॒धु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +198,6 @@ _________
     efficient.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -251,8 +255,6 @@ O Agni, mit allen Göttern setze dich, o schöner, zuerst in den wollenweichen S
 Образующее гнездо, полное жира! К Савитару  
 Веди прямо жертву для жертвователя!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

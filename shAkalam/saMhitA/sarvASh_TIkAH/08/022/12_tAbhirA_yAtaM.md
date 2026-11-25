@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "मध्येज्योतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ vāvr̥dhúḥ ← √vr̥dh- (root)
 
 yā́bhiḥ ← yá- (pronoun)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ताभि॒रा या॑तं वृष॒णोप॑ मे॒ हवं॑ वि॒श्वप्सुं॑ वि॒श्ववा॑र्यम् ।  
+इ॒षा मंहि॑ष्ठा पुरु॒भूत॑मा नरा॒ याभिः॒ क्रिविं॑ वावृ॒धुस्ताभि॒रा ग॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "रात्रिः"
 RShiH = "कुशिकः सौभरो रात्रिर्वा भारद्वाजी"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रात्रिः
@@ -63,7 +64,12 @@ r̥ṇā́ ← r̥ṇá- (nominal stem)
 
 yātaya ← √yat- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ मा॒ पेपि॑श॒त्तमः॑ कृ॒ष्णं व्य॑क्तमस्थित ।  
+उष॑ ऋ॒णेव॑ यातय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “endeavor; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

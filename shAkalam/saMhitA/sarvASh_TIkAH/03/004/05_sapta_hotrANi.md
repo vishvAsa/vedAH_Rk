@@ -4,6 +4,7 @@ devataa = "देवीर्द्वारः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवीर्द्वारः
@@ -89,7 +90,12 @@ ví ← ví (invariable)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्त हो॒त्राणि॒ मन॑सा वृणा॒ना इन्व॑न्तो॒ विश्वं॒ प्रति॑ यन्नृ॒तेन॑ ।  
+नृ॒पेश॑सो वि॒दथे॑षु॒ प्र जा॒ता अ॒भी॒३॒॑मं य॒ज्ञं वि च॑रन्त पू॒र्वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “many; much(a); very.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ mánasā ← mánas- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शास॒द्वह्नि॑र्दुहि॒तुर्न॒प्त्यं॑ गाद्वि॒द्वाँ ऋ॒तस्य॒ दीधि॑तिं सप॒र्यन् ।  
+पि॒ता यत्र॑ दुहि॒तुः सेक॑मृ॒ञ्जन्त्सं श॒ग्म्ये॑न॒ मन॑सा दध॒न्वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “run.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

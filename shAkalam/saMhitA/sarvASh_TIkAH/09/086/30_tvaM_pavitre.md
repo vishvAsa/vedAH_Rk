@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ víśvā ← víśva- (nominal stem)
 
 yemire ← √yam- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं प॒वित्रे॒ रज॑सो॒ विध॑र्मणि दे॒वेभ्यः॑ सोम पवमान पूयसे ।  
+त्वामु॒शिजः॑ प्रथ॒मा अ॑गृभ्णत॒ तुभ्ये॒मा विश्वा॒ भुव॑नानि येमिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -230,10 +235,6 @@ You did the fire-priests first grasp; to you have all these worlds
 submitted themselves.1324 IX.86
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the expression pavítre rájaso vídharmaṇi and its more succinct variants see comm. ad IX.64.9.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -243,7 +244,6 @@ In terms of contents, the tṛca insistently asserts Soma’s universal rule ove
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

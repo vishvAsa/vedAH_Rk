@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ váram ← vára- 1 (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं यन्मि॒थः प॑स्पृधा॒नासो॒ अग्म॑त शु॒भे म॒खा अमि॑ता जा॒यवो॒ रणे॑ ।  
+यु॒वोरह॑ प्रव॒णे चे॑किते॒ रथो॒ यद॑श्विना॒ वह॑थः सू॒रिमा वर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “gift; favor; wish; privilege; varac; wages.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

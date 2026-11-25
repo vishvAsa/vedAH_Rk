@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -86,7 +87,12 @@ urú ← urú- (nominal stem)
 
 várīmabhiḥ ← várīman- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त म॑न्ये पि॒तुर॒द्रुहो॒ मनो॑ मा॒तुर्महि॒ स्वत॑व॒स्तद्धवी॑मभिः ।  
+सु॒रेत॑सा पि॒तरा॒ भूम॑ चक्रतुरु॒रु प्र॒जाया॑ अ॒मृतं॒ वरी॑मभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - \[noun\], instrumental, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -119,7 +120,13 @@ ajárāḥ ← ajára- (nominal stem)
 
 vyántaḥ ← √vī- 1 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम॑स्य पृ॒क्षमुप॑रासु धीमहि॒ नक्तं॒ यः सु॒दर्श॑तरो॒ दिवा॑तरा॒दप्रा॑युषे॒ दिवा॑तरात् ।  
+आद॒स्यायु॒र्ग्रभ॑णवद्वी॒ळु शर्म॒ न सू॒नवे॑ ।  
+भ॒क्तमभ॑क्त॒मवो॒ व्यन्तो॑ अ॒जरा॑ अ॒ग्नयो॒ व्यन्तो॑ अ॒जराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -305,7 +312,6 @@ _________
 - “undecaying; ageless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

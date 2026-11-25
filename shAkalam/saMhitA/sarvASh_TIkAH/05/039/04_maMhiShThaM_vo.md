@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -65,7 +66,12 @@ jujuṣe ← √juṣ- (root)
 
 pūrvī́bhiḥ ← purú- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मंहि॑ष्ठं वो म॒घोनां॒ राजा॑नं चर्षणी॒नाम् ।  
+इन्द्र॒मुप॒ प्रश॑स्तये पू॒र्वीभि॑र्जुजुषे॒ गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

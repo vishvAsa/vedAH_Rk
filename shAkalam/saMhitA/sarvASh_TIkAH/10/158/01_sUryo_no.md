@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "चक्षुः सौर्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -57,7 +58,12 @@ naḥ ← ahám (pronoun)
 
 pā́rthivebhyaḥ ← pā́rthiva- (nominal stem)  
 {case:ABL, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सूर्यो॑ नो दि॒वस्पा॑तु॒ वातो॑ अ॒न्तरि॑क्षात् ।  
+अ॒ग्निर्नः॒ पार्थि॑वेभ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “king; man; pārthiva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वत्सप्रिर्भालन्दनः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ r̥gmíyam ← r̥gmíya- (nominal stem)
 
 uśántam ← √vaś- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒न्द्रस्य॑ रू॒पं वि॑विदुर्मनी॒षिणः॑ श्ये॒नो यदन्धो॒ अभ॑रत्परा॒वतः॑ ।  
+तं म॑र्जयन्त सु॒वृधं॑ न॒दीष्वाँ उ॒शन्त॑मं॒शुं प॑रि॒यन्त॑मृ॒ग्मिय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “applaudable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

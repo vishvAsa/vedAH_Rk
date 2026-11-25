@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -80,7 +81,12 @@ tasthuḥ ← √sthā- (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ज्येष्ठान्बृ॒हद्भ्यः॒ पर्व॑तेभ्यः॒ क्षयाँ॑ एभ्यः सुवसि प॒स्त्या॑वतः ।  
+यथा॑यथा प॒तय॑न्तो वियेमि॒र ए॒वैव त॑स्थुः सवितः स॒वाय॑ ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -83,7 +84,12 @@ sutásya ← √su- (root)
 
 tébhiḥ ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यानी॑न्द्राग्नी च॒क्रथु॑र्वी॒र्या॑णि॒ यानि॑ रू॒पाण्यु॒त वृष्ण्या॑नि ।  
+या वां॑ प्र॒त्नानि॑ स॒ख्या शि॒वानि॒ तेभिः॒ सोम॑स्य पिबतं सु॒तस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

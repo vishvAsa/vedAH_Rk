@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अरुणो वैतहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ suvā́sāḥ ← suvā́sas- (nominal stem)
 
 uśatī́ ← √vaś- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मां प्र॒त्नाय॑ सुष्टु॒तिं नवी॑यसीं वो॒चेय॑मस्मा उश॒ते शृ॒णोतु॑ नः ।  
+भू॒या अन्त॑रा हृ॒द्य॑स्य नि॒स्पृशे॑ जा॒येव॒ पत्य॑ उश॒ती सु॒वासाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “clothing; fabric; garment; feather; dress; envelope.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -63,7 +64,12 @@ pī́varīḥ ← pī́van- (nominal stem)
 
 yuñjā́thām ← √yuj- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ हि रु॒हत॑मश्विना॒ रथे॒ कोशे॑ हिर॒ण्यये॑ वृषण्वसू ।  
+यु॒ञ्जाथां॒ पीव॑री॒रिषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

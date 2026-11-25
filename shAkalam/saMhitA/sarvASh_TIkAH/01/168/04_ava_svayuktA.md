@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ dr̥ḷhā́ni ← √dr̥h- (root)
 
 marútaḥ ← marút- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॒ स्वयु॑क्ता दि॒व आ वृथा॑ ययु॒रम॑र्त्याः॒ कश॑या चोदत॒ त्मना॑ ।  
+अ॒रे॒णव॑स्तुविजा॒ता अ॑चुच्यवुर्दृ॒ळ्हानि॑ चिन्म॒रुतो॒ भ्राज॑दृष्टयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “spear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

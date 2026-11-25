@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ pārayanti ← √pr̥- (root)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑विद्धं तौ॒ग्र्यम॒प्स्व१॒॑न्तर॑नारम्भ॒णे तम॑सि॒ प्रवि॑द्धम् ।  
+चत॑स्रो॒ नावो॒ जठ॑लस्य॒ जुष्टा॒ उद॒श्विभ्या॑मिषि॒ताः पा॑रयन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “rescue; keep alive; satisfy; save; resist; endure.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

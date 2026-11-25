@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अग्निः सौचीकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ saptátantum ← saptátantu- (nominal stem)
 
 trivŕ̥tam ← trivŕ̥t- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मां दे॒वा द॑धिरे हव्य॒वाह॒मप॑म्लुक्तं ब॒हु कृ॒च्छ्रा चर॑न्तम् ।  
+अ॒ग्निर्वि॒द्वान्य॒ज्ञं नः॑ कल्पयाति॒ पञ्च॑यामं त्रि॒वृतं॑ स॒प्तत॑न्तुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

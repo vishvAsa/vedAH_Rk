@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ iva ← iva (invariable)
 
 śyenā́n ← śyená- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑न्द्र॒ सर्गे॒ अर्व॑तश्चो॒दया॑से महाध॒ने ।  
+अ॒स॒म॒ने अध्व॑नि वृजि॒ने प॒थि श्ये॒नाँ इ॑व श्रवस्य॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - \[verb noun\], accusative, plural
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -196,12 +201,6 @@ on an uncrowded (race)course, on its twisting path, like falcons
 hunting fame,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The form árvataḥ ends the first pāda of this vs. and the last of vs. 1, but with different grammatical identities: gen. sg. in 1d, acc. pl. here. This difference may be one indication that this pragātha both responds to the rest of the hymn and distances itself from it.
-
-mahādhané is repeated from 4c.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/13-14.md">
 <details><summary><h2>13-14 ...{Loading}...</h2></summary>
 
@@ -209,7 +208,6 @@ As was noted in the published introduction, this last pragātha stands somewhat 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

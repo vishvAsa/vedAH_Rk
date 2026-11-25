@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ pátiḥ ← páti- (nominal stem)
 
 vā́jānām ← vā́ja- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वस्पृ॑थि॒व्या अधि॒ भवे॑न्दो द्युम्न॒वर्ध॑नः ।  
+भवा॒ वाजा॑नां॒ पतिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

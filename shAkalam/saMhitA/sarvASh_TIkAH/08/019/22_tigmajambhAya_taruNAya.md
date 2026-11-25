@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ agníḥ ← agní- (nominal stem)
 
 ghr̥tébhiḥ ← ghr̥tá- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒ग्मज॑म्भाय॒ तरु॑णाय॒ राज॑ते॒ प्रयो॑ गायस्य॒ग्नये॑ ।  
+यः पिं॒शते॑ सू॒नृता॑भिः सु॒वीर्य॑म॒ग्निर्घृ॒तेभि॒राहु॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “sacrifice; sprinkle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

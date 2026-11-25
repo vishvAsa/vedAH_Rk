@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ vā́ryāṇi ← vā́rya- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि त्रि॑पृ॒ष्ठं वृष॑णं वयो॒धामा॑ङ्गू॒षाणा॑मवावशन्त॒ वाणीः॑ ।  
+वना॒ वसा॑नो॒ वरु॑णो॒ न सिन्धू॒न्वि र॑त्न॒धा द॑यते॒ वार्या॑णि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “wealth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

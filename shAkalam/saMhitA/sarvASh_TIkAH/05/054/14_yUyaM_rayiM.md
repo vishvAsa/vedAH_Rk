@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ rā́jānam ← rā́jan- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यं र॒यिं म॑रुतः स्पा॒र्हवी॑रं यू॒यमृषि॑मवथ॒ साम॑विप्रम् ।  
+यू॒यमर्व॑न्तं भर॒ताय॒ वाजं॑ यू॒यं ध॑त्थ॒ राजा॑नं श्रुष्टि॒मन्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

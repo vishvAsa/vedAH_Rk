@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ nagnā́ḥ ← nagná- (nominal stem)
 
 ū́dhar ← ū́dhar- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हृ॒त्सु पी॒तासो॑ युध्यन्ते दु॒र्मदा॑सो॒ न सुरा॑याम् ।  
+ऊध॒र्न न॒ग्ना ज॑रन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

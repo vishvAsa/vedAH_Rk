@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 purupraíṣāḥ ← purupraíṣa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को वो॒ऽन्तर्म॑रुत ऋष्टिविद्युतो॒ रेज॑ति॒ त्मना॒ हन्वे॑व जि॒ह्वया॑ ।  
+ध॒न्व॒च्युत॑ इ॒षां न याम॑नि पुरु॒प्रैषा॑ अह॒न्यो॒३॒॑ नैत॑शः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “Etaśa; horse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

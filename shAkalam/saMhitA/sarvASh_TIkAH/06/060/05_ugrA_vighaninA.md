@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -57,7 +58,12 @@ naḥ ← ahám (pronoun)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ग्रा वि॑घ॒निना॒ मृध॑ इन्द्रा॒ग्नी ह॑वामहे ।  
+ता नो॑ मृळात ई॒दृशे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “such(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,7 +165,6 @@ They will be gracious to such as us.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -168,7 +172,6 @@ Note the phonological (and partly etymological) figure mardh(ataḥ) (4c), mṛ�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

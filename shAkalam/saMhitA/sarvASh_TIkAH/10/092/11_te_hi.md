@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ rodasī́ ← rodasī́- (nominal stem)
 
 víṣṇuḥ ← víṣṇu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते हि द्यावा॑पृथि॒वी भूरि॑रेतसा॒ नरा॒शंस॒श्चतु॑रङ्गो य॒मोऽदि॑तिः ।  
+दे॒वस्त्वष्टा॑ द्रविणो॒दा ऋ॑भु॒क्षणः॒ प्र रो॑द॒सी म॒रुतो॒ विष्णु॑रर्हिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “should; may; rate; can; can; equal; necessitate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

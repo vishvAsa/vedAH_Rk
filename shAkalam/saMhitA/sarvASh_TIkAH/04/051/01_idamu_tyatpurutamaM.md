@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ kr̥ṇavan ← √kr̥- (root)
 
 uṣásaḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दमु॒ त्यत्पु॑रु॒तमं॑ पु॒रस्ता॒ज्ज्योति॒स्तम॑सो व॒युना॑वदस्थात् ।  
+नू॒नं दि॒वो दु॑हि॒तरो॑ विभा॒तीर्गा॒तुं कृ॑णवन्नु॒षसो॒ जना॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

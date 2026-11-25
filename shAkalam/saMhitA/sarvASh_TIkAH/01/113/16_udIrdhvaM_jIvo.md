@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -98,7 +99,12 @@ pratiránte ← √tr̥̄- 1 (root)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदी॑र्ध्वं जी॒वो असु॑र्न॒ आगा॒दप॒ प्रागा॒त्तम॒ आ ज्योति॑रेति ।  
+आरै॒क्पन्थां॒ यात॑वे॒ सूर्या॒याग॑न्म॒ यत्र॑ प्रति॒रन्त॒ आयुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

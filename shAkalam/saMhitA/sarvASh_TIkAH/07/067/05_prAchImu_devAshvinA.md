@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ naḥ ← ahám (pronoun)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्राची॑मु देवाश्विना॒ धियं॒ मेऽमृ॑ध्रां सा॒तये॑ कृतं वसू॒युम् ।  
+विश्वा॑ अविष्टं॒ वाज॒ आ पुरं॑धी॒स्ता नः॑ शक्तं शचीपती॒ शची॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “Śacī; power; dexterity; ability; aid.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

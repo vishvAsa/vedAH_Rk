@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -98,7 +99,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 samudrā́t ← samudrá- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मध्वः॒ सूदं॑ पवस्व॒ वस्व॒ उत्सं॑ वी॒रं च॑ न॒ आ प॑वस्वा॒ भगं॑ च ।  
+स्वद॒स्वेन्द्रा॑य॒ पव॑मान इन्दो र॒यिं च॑ न॒ आ प॑वस्वा समु॒द्रात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -270,16 +275,6 @@ Purify yourself into the sweetness of honey, into a wellspring of goods;  by pur
 Sweeten yourself for Indra as you purify yourself, o drop, and by  purifying yourself bring here to us wealth from the sea.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note the (s)va repetition: mádhvaḥ ... pavasva vásva ... pavasva ...
-
-svádasva ... pavasva.
-
-As in IX.96.14 (see comm. ad loc.), I take the acc. with pavasva as expressing a transformation of soma into the substance expressed in the acc. This use of pavasva with the acc. contrasts with that of ā́pavasvā in pādas b and d, where ā́adds the sense ‘bring here by purification’ and the acc. expresses the materials thus obtained.
-
-On sū́da- see comm. ad VII.36.3. I argue there that, contra most views, it belongs with the ‘sweet’ words, and in fact that in this passage svádasva … pávamānaḥ in c is a virtual gloss (or poetic repair) of sū́dam pavasva in a.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/43-45.md">
 <details><summary><h2>43-45 ...{Loading}...</h2></summary>
 
@@ -287,7 +282,6 @@ The tṛca has a superficial unity from the (over-)abundance of forms of √pū,
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

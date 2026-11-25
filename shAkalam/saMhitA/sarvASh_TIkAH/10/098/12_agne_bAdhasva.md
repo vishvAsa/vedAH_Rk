@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "देवापिरार्ष्टिषेणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -98,7 +99,12 @@ sr̥ja ← √sr̥j- (root)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ बाध॑स्व॒ वि मृधो॒ वि दु॒र्गहापामी॑वा॒मप॒ रक्षां॑सि सेध ।  
+अ॒स्मात्स॑मु॒द्राद्बृ॑ह॒तो दि॒वो नो॒ऽपां भू॒मान॒मुप॑ नः सृजे॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “here; now; in this world; now; below; there; here; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

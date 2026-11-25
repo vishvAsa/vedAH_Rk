@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ sávane ← sávana- 1 (nominal stem)
 
 sutám ← √su- (root)  
 {case:NOM, gender:N, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ या॑तं॒ नहु॑ष॒स्पर्यान्तरि॑क्षात्सुवृ॒क्तिभिः॑ ।  
+पिबा॑थो अश्विना॒ मधु॒ कण्वा॑नां॒ सव॑ने सु॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

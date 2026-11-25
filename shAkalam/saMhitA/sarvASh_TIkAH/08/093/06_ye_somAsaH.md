@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ sárvān ← sárva- (nominal stem)
 
 tā́n ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये सोमा॑सः परा॒वति॒ ये अ॑र्वा॒वति॑ सुन्वि॒रे ।  
+सर्वाँ॒स्ताँ इ॑न्द्र गच्छसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,7 +169,6 @@ The soma drinks which have been pressed in the distance, which nearby, to all th
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -176,7 +180,6 @@ But sárvāṃs tā́n indra … semi-duplicates 4c sárvaṃ tád indra …, an
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

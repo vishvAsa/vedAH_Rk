@@ -4,6 +4,7 @@ devataa = "अरण्यानी"
 RShiH = "देवमुनिरैरम्मदः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अरण्यानी
@@ -62,7 +63,12 @@ araṇyāním ← araṇyāní- ~ araṇyānī́- (nominal stem)
 
 aśaṁsiṣam ← √śaṁs- (root)  
 {number:SG, person:1, mood:IND, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आञ्ज॑नगन्धिं सुर॒भिं ब॑ह्व॒न्नामकृ॑षीवलाम् ।  
+प्राहं मृ॒गाणां॑ मा॒तर॑मरण्या॒निम॑शंसिषम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

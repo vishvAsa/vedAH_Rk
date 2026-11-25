@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "एवयामरुदात्रेयः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -94,7 +95,12 @@ ná ← ná (invariable)
 
 śuśukvā́ṁsaḥ ← √śuc- (root)  
 {case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पा॒रो वो॑ महि॒मा वृ॑द्धशवसस्त्वे॒षं शवो॑ऽवत्वेव॒याम॑रुत् ।  
+स्थाता॑रो॒ हि प्रसि॑तौ सं॒दृशि॒ स्थन॒ ते न॑ उरुष्यता नि॒दः शु॑शु॒क्वांसो॒ नाग्नयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

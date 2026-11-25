@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -61,7 +62,12 @@ yéna ← yá- (pronoun)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येना॒ दश॑ग्व॒मध्रि॑गुं वे॒पय॑न्तं॒ स्व॑र्णरम् ।  
+येना॑ समु॒द्रमावि॑था॒ तमी॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -161,12 +166,6 @@ That with which (you helped) Daśagva and Adhrigu possessing solar  glory, who s
 with which you helped the sea—for that we beg.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Unlike Geldner I take svàrṇara- here as an epithet of Adhrigu, rather than a PN (sim. VIII.3.12), though not on strong grounds, and VIII.6.39, where I do take it as a PN, undercuts this position.
-
-Either Adhrigu or, if he is a personage, Svarṇara receives the qualifier vepáyant- ‘setting atremble’, without an object. Given how little we know about Adhrigu (or Svarṇara), it is not clear what such an object might be, though it might refer to poetic inspiration.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -174,7 +173,6 @@ This tṛca is unified by a series of relative clauses (mostly introduced by yé
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

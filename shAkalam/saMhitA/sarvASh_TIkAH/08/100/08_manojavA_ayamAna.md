@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ sómam ← sóma- (nominal stem)
 
 vajríṇe ← vajrín- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मनो॑जवा॒ अय॑मान आय॒सीम॑तर॒त्पुर॑म् ।  
+दिवं॑ सुप॒र्णो ग॒त्वाय॒ सोमं॑ व॒ज्रिण॒ आभ॑रत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “bring.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -186,10 +191,6 @@ He brought the Soma to the thunderer: Legend : **Gāyatrī** as a bird fetchedSo
 The fine-feathered (falcon), having gone to heaven, brought the soma to  the mace-bearer.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The stealing of the soma treated here logically precedes the outcome of the Vṛtra battle treated in 7 and 9, since Indra needed to drink the soma in order to fight Vṛtra, as is well known. I suggest that the theft is intercalated here, between two hemistichs about the vájra- (7cd, 9ab), not only because Rigvedic narratives are famously shattered chronologically, but also to play a trick. The vajrá- was let fly (a in 7d (apīpatat); in the next half-verse (8ab) the unspecified subject goes at the speed of thought. The default assumption would be that it is the flying mace, but cd disappoints our expectations by introducing the bird and the familiar soma-theft.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -197,7 +198,6 @@ I take these three Anuṣṭubh verses as the singer’s performance of the reci
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

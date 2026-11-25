@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ súkr̥taḥ ← súkr̥ta- (nominal stem)
 
 urúḥ ← urú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हाँ इन्द्रो॑ नृ॒वदा च॑र्षणि॒प्रा उ॒त द्वि॒बर्हा॑ अमि॒नः सहो॑भिः ।  
+अ॒स्म॒द्र्य॑ग्वावृधे वी॒र्या॑यो॒रुः पृ॒थुः सुकृ॑तः क॒र्तृभि॑र्भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -285,18 +290,6 @@ Inclined toward us, he has been strengthened for his heroic deed.
 Wide  and broad, he was well made by his makers.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The published translation should read “manfully” with adverbial nṛvát.
-
-On possible configurations of the terms connected by utá, see Klein DGRV I.341.
-
-Grassmann derives aminá- from √am (‘mächtig andringend, gewaltig’), but it must belong to √mī as thematic parallel to áminant-. See Oldenberg (ZDMG 55.323).
-
-The phrase in d, súkṛtaḥ kartṛ́bhir bhūt “he was well made by his makers,” is somewhat startling as a description of the great god Indra. Who are his makers? Is this a depiction of his original creation, or does it have a more narrow and current application? Because of the previous pāda, … vāvṛdhe vīryā̀ya “he has been strengthened for his heroic deed,” I am inclined towards the latter: the soma drinks and ritual activities and praise have made him the consummate heroic actor. The pl.
-
-agent noun kartár- may refer to the soma drinks or to the priests who prepared and offered them to Indra. Because I think the reference is to the immediate past, I would slightly alter the tr. from “was well made” to “has been well made.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -304,7 +297,6 @@ These two vss. show a penchant for synonymous pairs: 1d urúḥ pṛthúḥ “w
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

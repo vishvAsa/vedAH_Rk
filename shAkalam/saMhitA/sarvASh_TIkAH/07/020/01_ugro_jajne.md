@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 trātā́ ← trātár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ग्रो ज॑ज्ञे वी॒र्या॑य स्व॒धावा॒ञ्चक्रि॒रपो॒ नर्यो॒ यत्क॑रि॒ष्यन् ।  
+जग्मि॒र्युवा॑ नृ॒षद॑न॒मवो॑भिस्त्रा॒ता न॒ इन्द्र॒ एन॑सो म॒हश्चि॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “even; indeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

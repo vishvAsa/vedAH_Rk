@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ syātām ← √as- 1 (root)
 
 té ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॒ त्मना॑ भरते॒ केत॑वेदा॒ अव॒ त्मना॑ भरते॒ फेन॑मु॒दन् ।  
+क्षी॒रेण॑ स्नातः॒ कुय॑वस्य॒ योषे॑ ह॒ते ते स्या॑तां प्रव॒णे शिफा॑याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “fiber; śiphā.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

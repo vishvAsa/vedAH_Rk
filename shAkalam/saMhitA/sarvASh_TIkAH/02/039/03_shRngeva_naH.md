@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ rathyā̀ ← rathī́- (nominal stem)
 
 yātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शृङ्गे॑व नः प्रथ॒मा ग॑न्तम॒र्वाक्छ॒फावि॑व॒ जर्भु॑राणा॒ तरो॑भिः ।  
+च॒क्र॒वा॒केव॒ प्रति॒ वस्तो॑रुस्रा॒र्वाञ्चा॑ यातं र॒थ्ये॑व शक्रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “mighty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

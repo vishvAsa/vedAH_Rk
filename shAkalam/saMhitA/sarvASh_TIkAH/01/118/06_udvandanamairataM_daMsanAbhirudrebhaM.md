@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ púnar ← púnar (invariable)
 
 yúvānam ← yúvan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्वन्द॑नमैरतं दं॒सना॑भि॒रुद्रे॒भं द॑स्रा वृषणा॒ शची॑भिः ।  
+निष्टौ॒ग्र्यं पा॑रयथः समु॒द्रात्पुन॒श्च्यवा॑नं चक्रथु॒र्युवा॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     buck; young.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

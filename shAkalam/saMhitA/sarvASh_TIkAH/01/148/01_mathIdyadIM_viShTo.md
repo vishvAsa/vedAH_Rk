@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ vápuṣe ← vápus- (nominal stem)
 
 vibhā́vam ← vibhā́va- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मथी॒द्यदीं॑ वि॒ष्टो मा॑त॒रिश्वा॒ होता॑रं वि॒श्वाप्सुं॑ वि॒श्वदे॑व्यम् ।  
+नि यं द॒धुर्म॑नु॒ष्या॑सु वि॒क्षु स्व१॒॑र्ण चि॒त्रं वपु॑षे वि॒भाव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ vikṣú ← víś- (nominal stem)
 
 yájyū ← yájyu- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्या मे॒ रौद्रा॑वर्चि॒मन्ता॒ नास॑त्याविन्द्र गू॒र्तये॒ यज॑ध्यै ।  
+म॒नु॒ष्वद्वृ॒क्तब॑र्हिषे॒ ररा॑णा म॒न्दू हि॒तप्र॑यसा वि॒क्षु यज्यू॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “worshiping.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

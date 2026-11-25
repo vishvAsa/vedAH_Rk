@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ tvám ← tvám (pronoun)
 
 vásavānaḥ ← vásavāna- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं राजे॑न्द्र॒ ये च॑ दे॒वा रक्षा॒ नॄन्पा॒ह्य॑सुर॒ त्वम॒स्मान् ।  
+त्वं सत्प॑तिर्म॒घवा॑ न॒स्तरु॑त्र॒स्त्वं स॒त्यो वस॑वानः सहो॒दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “giving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

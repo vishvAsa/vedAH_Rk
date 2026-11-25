@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ svā́vasuḥ ← svā́vasu- (nominal stem)
 
 vanavat ← √vanⁱ- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वेत्यग्रु॒र्जनि॑वा॒न्वा अति॒ स्पृधः॑ समर्य॒ता मन॑सा॒ सूर्यः॑ क॒विः ।  
+घ्रं॒सं रक्ष॑न्तं॒ परि॑ वि॒श्वतो॒ गय॑म॒स्माकं॒ शर्म॑ वनव॒त्स्वाव॑सुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

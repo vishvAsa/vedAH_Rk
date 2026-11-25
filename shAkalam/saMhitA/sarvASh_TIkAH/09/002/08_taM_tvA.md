@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मेधातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ práśastayaḥ ← práśasti- (nominal stem)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॒ मदा॑य॒ घृष्व॑य उ लोककृ॒त्नुमी॑महे ।  
+तव॒ प्रश॑स्तयो म॒हीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “great; firm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

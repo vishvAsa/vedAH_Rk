@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -57,7 +58,12 @@ cárati ← √carⁱ- (root)
 
 róruvat ← √rū- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्या॑ अन॒न्तो अह्रु॑तस्त्वे॒षश्च॑रि॒ष्णुर॑र्ण॒वः ।  
+अम॒श्चर॑ति॒ रोरु॑वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “bellow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -149,10 +154,6 @@ Whose boundless, unswerving, turbulent, roving flood,
 her onslaught, proceeds ever roaring.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Like vs. 5, this middle vs. of the tṛca contains only a rel. cl., which I consider to hang off vs. 7, though it could also attach to the flg. vs. 9. Both 7 and 9 have an overt possible correlative for yásyāḥ in 8a: 7a syā́… sárasvatī, 9a sā́.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -160,7 +161,6 @@ Unlike the preceding tṛca, this one dispenses with repetition and therefore ha
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

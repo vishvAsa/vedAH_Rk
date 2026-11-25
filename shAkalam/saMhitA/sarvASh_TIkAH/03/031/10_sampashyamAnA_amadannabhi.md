@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ niṣṭhā́m ← niṣṭhā́- (nominal stem)
 
 vīrā́n ← vīrá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒म्पश्य॑माना अमदन्न॒भि स्वं पयः॑ प्र॒त्नस्य॒ रेत॑सो॒ दुघा॑नाः ।  
+वि रोद॑सी अतप॒द्घोष॑ एषां जा॒ते नि॒ष्ठामद॑धु॒र्गोषु॑ वी॒रान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

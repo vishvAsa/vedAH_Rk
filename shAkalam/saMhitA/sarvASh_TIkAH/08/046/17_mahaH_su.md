@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -90,7 +91,12 @@ námasā ← námas- (nominal stem)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हः सु वो॒ अर॑मिषे॒ स्तवा॑महे मी॒ळ्हुषे॑ अरङ्ग॒माय॒ जग्म॑ये ।  
+य॒ज्ञेभि॑र्गी॒र्भिर्वि॒श्वम॑नुषां म॒रुता॑मियक्षसि॒ गाये॑ त्वा॒ नम॑सा गि॒रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

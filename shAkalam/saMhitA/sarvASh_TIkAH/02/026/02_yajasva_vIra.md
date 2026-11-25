@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -89,7 +90,12 @@ páteḥ ← páti- (nominal stem)
 
 vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यज॑स्व वीर॒ प्र वि॑हि मनाय॒तो भ॒द्रं मनः॑ कृणुष्व वृत्र॒तूर्ये॑ ।  
+ह॒विष्कृ॑णुष्व सु॒भगो॒ यथास॑सि॒ ब्रह्म॑ण॒स्पते॒रव॒ आ वृ॑णीमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

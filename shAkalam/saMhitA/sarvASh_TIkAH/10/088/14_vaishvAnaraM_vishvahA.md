@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -83,7 +84,12 @@ utá ← utá (invariable)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वै॒श्वा॒न॒रं वि॒श्वहा॑ दीदि॒वांसं॒ मन्त्रै॑र॒ग्निं क॒विमच्छा॑ वदामः ।  
+यो म॑हि॒म्ना प॑रिब॒भूवो॒र्वी उ॒तावस्ता॑दु॒त दे॒वः प॒रस्ता॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “above; subsequently.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

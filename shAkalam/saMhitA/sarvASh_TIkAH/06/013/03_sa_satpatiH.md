@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ náptrā ← nápat- (nominal stem)
 
 sajóṣāḥ ← sajóṣas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सत्प॑तिः॒ शव॑सा हन्ति वृ॒त्रमग्ने॒ विप्रो॒ वि प॒णेर्भ॑र्ति॒ वाज॑म् ।  
+यं त्वं प्र॑चेत ऋतजात रा॒या स॒जोषा॒ नप्त्रा॒पां हि॒नोषि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “impel; send; spur; stimulate; urge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

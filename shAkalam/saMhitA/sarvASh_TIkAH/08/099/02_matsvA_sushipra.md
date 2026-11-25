@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ indra ← índra- (nominal stem)
 
 sutéṣu ← √su- (root)  
 {case:LOC, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मत्स्वा॑ सुशिप्र हरिव॒स्तदी॑महे॒ त्वे आ भू॑षन्ति वे॒धसः॑ ।  
+तव॒ श्रवां॑स्युप॒मान्यु॒क्थ्या॑ सु॒तेष्वि॑न्द्र गिर्वणः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

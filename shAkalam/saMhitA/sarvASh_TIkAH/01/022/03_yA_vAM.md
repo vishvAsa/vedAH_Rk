@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ táyā ← sá- ~ tá- (pronoun)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या वां॒ कशा॒ मधु॑म॒त्यश्वि॑ना सू॒नृता॑वती ।  
+तया॑ य॒ज्ञं मि॑मिक्षतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “season.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

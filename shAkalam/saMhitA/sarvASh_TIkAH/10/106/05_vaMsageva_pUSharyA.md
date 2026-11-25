@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भूतांशः काश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ púrīṣā ← púrīṣa- (nominal stem)
 
 saparyā̀ ← saparyà- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वंस॑गेव पूष॒र्या॑ शि॒म्बाता॑ मि॒त्रेव॑ ऋ॒ता श॒तरा॒ शात॑पन्ता ।  
+वाजे॑वो॒च्चा वय॑सा घर्म्ये॒ष्ठा मेषे॑वे॒षा स॑प॒र्या॒३॒॑ पुरी॑षा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     rust; affluence; defecation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

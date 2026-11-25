@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ kr̥ṇvīta ← √kr̥- (root)
 
 sádaneṣu ← sádana- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॒ यो नमो॒ नम॑सि स्तभा॒यन्निय॑र्ति॒ वाचं॑ ज॒नय॒न्यज॑ध्यै ।  
+ऋ॒ञ्ज॒सा॒नः पु॑रु॒वार॑ उ॒क्थैरेन्द्रं॑ कृण्वीत॒ सद॑नेषु॒ होता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “Hotṛ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

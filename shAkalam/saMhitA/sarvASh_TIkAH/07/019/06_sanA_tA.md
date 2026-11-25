@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vā́jam ← vā́ja- (nominal stem)
 
 vyántu ← √vī- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सना॒ ता त॑ इन्द्र॒ भोज॑नानि रा॒तह॑व्याय दा॒शुषे॑ सु॒दासे॑ ।  
+वृष्णे॑ ते॒ हरी॒ वृष॑णा युनज्मि॒ व्यन्तु॒ ब्रह्मा॑णि पुरुशाक॒ वाज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

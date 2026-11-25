@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -62,7 +63,12 @@ viṣṭāráḥ ← viṣṭārá- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आप॑थयो॒ विप॑थ॒योऽन्त॑स्पथा॒ अनु॑पथाः ।  
+ए॒तेभि॒र्मह्यं॒ नाम॑भिर्य॒ज्ञं वि॑ष्टा॒र ओ॑हते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “diagnose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

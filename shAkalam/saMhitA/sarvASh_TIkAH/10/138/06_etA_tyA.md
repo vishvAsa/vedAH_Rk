@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अङ्ग औरवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tváyā ← tvám (pronoun)
 
 víbhinnam ← √bhid- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ता त्या ते॒ श्रुत्या॑नि॒ केव॑ला॒ यदेक॒ एक॒मकृ॑णोरय॒ज्ञम् ।  
+मा॒सां वि॒धान॑मदधा॒ अधि॒ द्यवि॒ त्वया॒ विभि॑न्नं भरति प्र॒धिं पि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
     forefather.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

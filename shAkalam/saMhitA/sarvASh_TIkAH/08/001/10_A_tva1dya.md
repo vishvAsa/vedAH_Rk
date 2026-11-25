@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ araṁkŕ̥tam ← araṁkŕ̥t- (nominal stem)
 
 urúdhārām ← urúdhāra- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त्व१॒॑द्य स॑ब॒र्दुघां॑ हु॒वे गा॑य॒त्रवे॑पसम् ।  
+इन्द्रं॑ धे॒नुं सु॒दुघा॒मन्या॒मिष॑मु॒रुधा॑रामरं॒कृत॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - \[noun\], accusative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

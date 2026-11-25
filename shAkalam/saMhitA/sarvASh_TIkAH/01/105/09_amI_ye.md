@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "आप्त्यस्त्रितः कुत्स आङ्गिरसो वा"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -91,7 +92,12 @@ rodasī ← ródasī- (nominal stem)
 
 vittám ← √vid- 2 (root)  
 {number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒मी ये स॒प्त र॒श्मय॒स्तत्रा॑ मे॒ नाभि॒रात॑ता ।  
+त्रि॒तस्तद्वे॑दा॒प्त्यः स जा॑मि॒त्वाय॑ रेभति वि॒त्तं मे॑ अ॒स्य रो॑दसी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “heaven and earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -260,12 +265,6 @@ Trita Āptya knows this. He rasps (witness) to the kinship.
 – Take heed of this (speech) of mine, you two world-halves.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Various referents have been suggested for the seven reins. I tentatively take them as the seven seers (note the phonological echo between raśmáyah and ṛ́ṣayaḥ), which would allow a connection to be established both with the poetic tradition and, if the seven seers are already equated with the stars in the Big Dipper (in the Great Bear) as they are later, with that astronomical structure. That the next verse also presents what appears to be an astronomical image supports this interpr. Moreover the phrase tátrā me nā́bhir ā́tatā “to there my umbilical cord is stretched” recalls the idiom “tie navel to navel” (sám / ā́√dā), which asserts a family connection between the earthly poet and divine or semi-divine figures and elements in heaven. See comm. ad I.139.1.
-
-The verb ‘rasps’ (rebhati) may convey the sound of old man's voice, as would be appropriate for an ancestor.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -273,7 +272,6 @@ As noted in the published introduction, these verses are the omphalos and are ma
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

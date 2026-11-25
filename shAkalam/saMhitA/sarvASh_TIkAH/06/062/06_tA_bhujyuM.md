@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ patatríbhiḥ ← patatrín- (nominal stem)
 
 upásthāt ← upástha- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता भु॒ज्युं विभि॑र॒द्भ्यः स॑मु॒द्रात्तुग्र॑स्य सू॒नुमू॑हथू॒ रजो॑भिः ।  
+अ॒रे॒णुभि॒र्योज॑नेभिर्भु॒जन्ता॑ पत॒त्रिभि॒रर्ण॑सो॒ निरु॒पस्था॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “genitalia; lap; sexual desire; anus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

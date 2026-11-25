@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नृमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ inú ← √i- 2 (root)
 
 sadhryàk ← sadhryàñc- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॒ वसू॑नि सं॒जय॒न्पव॑स्व सोम॒ धार॑या ।  
+इ॒नु द्वेषां॑सि स॒ध्र्य॑क् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

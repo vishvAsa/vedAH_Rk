@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ vaḥ ← tvám (pronoun)
 
 śríyaḥ ← śrī́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त उ॒ग्रासो॒ वृष॑ण उ॒ग्रबा॑हवो॒ नकि॑ष्ट॒नूषु॑ येतिरे ।  
+स्थि॒रा धन्वा॒न्यायु॑धा॒ रथे॑षु॒ वोऽनी॑के॒ष्वधि॒ श्रियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     \[word\]; śrī; prosperity; auspiciousness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -60,7 +61,12 @@ juṣanta ← √juṣ- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तो॒त्रमिन्द्रो॑ म॒रुद्ग॑ण॒स्त्वष्टृ॑मान्मि॒त्रो अ॑र्य॒मा ।  
+इ॒मा ह॒व्या जु॑षन्त नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -166,10 +171,6 @@ Let Indra along with his Marut-flock, let Mitra and Aryaman along  with Tvaṣ�
 enjoy the praise song and these oblations of ours.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. is essentially parallel to vs. 10: various gods are to enjoy both verbal and material offerings, with the verb stem juṣá- ‘enjoy’ held constant. Vs. 10 has an impv. juṣántām, but our vs. an injunc. juṣanta. The latter may be a substitute for the impv. in a metrical situation that favors a light final syl.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details><summary><h2>07-12 ...{Loading}...</h2></summary>
 
@@ -177,7 +178,6 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

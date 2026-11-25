@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ tŕ̥ṇā ← tŕ̥ṇa- (nominal stem)
 
 vr̥ṇakti ← √vr̥j- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदी॒ मन्थ॑न्ति बा॒हुभि॒र्वि रो॑च॒तेऽश्वो॒ न वा॒ज्य॑रु॒षो वने॒ष्वा ।  
+चि॒त्रो न याम॑न्न॒श्विनो॒रनि॑वृतः॒ परि॑ वृण॒क्त्यश्म॑न॒स्तृणा॒ दह॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
     distress; destroy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

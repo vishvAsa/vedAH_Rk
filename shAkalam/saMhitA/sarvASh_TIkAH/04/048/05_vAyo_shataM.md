@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -71,7 +72,12 @@ ráthaḥ ← rátha- (nominal stem)
 
 yātu ← √yā- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वायो॑ श॒तं हरी॑णां यु॒वस्व॒ पोष्या॑णाम् ।  
+उ॒त वा॑ ते सह॒स्रिणो॒ रथ॒ आ या॑तु॒ पाज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “luminosity; look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

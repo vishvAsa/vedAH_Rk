@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ puraṁdarám ← puraṁdará- (nominal stem)
 
 vr̥traháṇam ← vr̥trahán- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ त्वा द॒ध्यङ्ङृषिः॑ पु॒त्र ई॑धे॒ अथ॑र्वणः ।  
+वृ॒त्र॒हणं॑ पुरन्द॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “Indra; puraṃdara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -166,7 +171,6 @@ as obstacle-smasher, stronghold-splitter.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -176,7 +180,6 @@ This tṛca is recited in śrauta ritual during the churning of the fire; see Kr
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ vividat ← √vid- 1 (root)
 
 yudhā́ ← yúdh- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि क्रत्वे॑न्द्र भू॒रध॒ ज्मन्न ते॑ विव्यङ्महि॒मानं॒ रजां॑सि ।  
+स्वेना॒ हि वृ॒त्रं शव॑सा ज॒घन्थ॒ न शत्रु॒रन्तं॑ विविदद्यु॒धा ते॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

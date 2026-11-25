@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ sahasrasāvé ← sahasrasāvá- (nominal stem)
 
 tirante ← √tr̥̄- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे भो॒जा अङ्गि॑रसो॒ विरू॑पा दि॒वस्पु॒त्रासो॒ असु॑रस्य वी॒राः ।  
+वि॒श्वामि॑त्राय॒ दद॑तो म॒घानि॑ सहस्रसा॒वे प्र ति॑रन्त॒ आयुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

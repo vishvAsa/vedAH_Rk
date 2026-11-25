@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ indra ← índra- (nominal stem)
 
 prajā́vān ← prajā́vant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒स्तये॑ वा॒जिभि॑श्च प्रणेतः॒ सं यन्म॒हीरिष॑ आ॒सत्सि॑ पू॒र्वीः ।  
+रा॒यो व॒न्तारो॑ बृह॒तः स्या॑मा॒स्मे अ॑स्तु॒ भग॑ इन्द्र प्र॒जावा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “prolific.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

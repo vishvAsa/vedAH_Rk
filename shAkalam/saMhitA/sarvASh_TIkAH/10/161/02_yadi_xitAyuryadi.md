@@ -4,6 +4,7 @@ devataa = "राजयक्ष्मघ्नं"
 RShiH = "यक्ष्मनाशनः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राजयक्ष्मघ्नं
@@ -86,7 +87,12 @@ enam ← ena- (pronoun)
 
 śatáśāradāya ← śatáśārada- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑ क्षि॒तायु॒र्यदि॑ वा॒ परे॑तो॒ यदि॑ मृ॒त्योर॑न्ति॒कं नी॑त ए॒व ।  
+तमा ह॑रामि॒ निरृ॑तेरु॒पस्था॒दस्पा॑र्षमेनं श॒तशा॑रदाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “Śārada; Śārada; dita.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

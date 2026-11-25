@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ vām ← tvám (pronoun)
 
 yaman ← √yam- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नरा॑ गौ॒रेव॑ वि॒द्युतं॑ तृषा॒णास्माक॑म॒द्य सव॒नोप॑ यातम् ।  
+पु॒रु॒त्रा हि वां॑ म॒तिभि॒र्हव॑न्ते॒ मा वा॑म॒न्ये नि य॑मन्देव॒यन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ dhánā ← dhána- (nominal stem)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्यु॒ञ्जाथे॒ वृष॑णमश्विना॒ रथं॑ घृ॒तेन॑ नो॒ मधु॑ना क्ष॒त्रमु॑क्षतम् ।  
+अ॒स्माकं॒ ब्रह्म॒ पृत॑नासु जिन्वतं व॒यं धना॒ शूर॑साता भजेमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     one's share; partake; share; get; approach; love; use.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

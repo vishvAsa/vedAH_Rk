@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ stotŕ̥bhyaḥ ← stotár- (nominal stem)
 
 vaha ← √vah- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्यं॒ सोमाः॑ सु॒ता इ॒मे स्ती॒र्णं ब॒र्हिर्वि॑भावसो ।  
+स्तो॒तृभ्य॒ इन्द्र॒मा व॑ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,12 +173,6 @@ For you have these soma drinks here been pressed and the ritual grass  strewn, o
 Convey Indra hither for the praisers—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The verse begins with a 2nd ps. pronoun túbhyam, and the content of what follows, until the end of b, seems entirely consonant with Indra as the 2nd ps. referent.
-
-However, the vocative closing b, vibhāvaso, otherwise used only of Agni, and the fact that Indra is the 3rd ps. object of the imperative ā́vaha in c, whose subject should be Agni, call the interpretation of the earlier part of the verse into question. Yet it is next to impossible, in my view, that the announcing of the soma drinks in a is made to anyone but Indra, and so we must reckon with a half verse that changed horses in midstream, as it were, without any poetic benefit accruing.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -181,7 +180,6 @@ The c pādas of all three verses in this tṛca have the same structure: dat. pl
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

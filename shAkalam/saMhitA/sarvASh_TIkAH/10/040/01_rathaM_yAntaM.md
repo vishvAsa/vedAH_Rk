@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ váhamānam ← √vah- (root)
 
 vástor-vastoḥ ← vástu- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रथं॒ यान्तं॒ कुह॒ को ह॑ वां नरा॒ प्रति॑ द्यु॒मन्तं॑ सुवि॒ताय॑ भूषति ।  
+प्रा॒त॒र्यावा॑णं वि॒भ्वं॑ वि॒शेवि॑शे॒ वस्तो॑र्वस्तो॒र्वह॑मानं धि॒या शमि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     labor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

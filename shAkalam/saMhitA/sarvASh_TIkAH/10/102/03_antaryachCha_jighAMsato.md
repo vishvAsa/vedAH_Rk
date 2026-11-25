@@ -4,6 +4,7 @@ devataa = "द्रुघण इन्द्रो वा"
 RShiH = "मुद्गलो भार्म्यश्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रुघण इन्द्रो वा
@@ -74,7 +75,12 @@ vadhám ← vadhá- (nominal stem)
 
 yavaya ← √yu- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न्तर्य॑च्छ॒ जिघां॑सतो॒ वज्र॑मिन्द्राभि॒दास॑तः ।  
+दास॑स्य वा मघव॒न्नार्य॑स्य वा सनु॒तर्य॑वया व॒धम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
     dysfunction; punishment; kick.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

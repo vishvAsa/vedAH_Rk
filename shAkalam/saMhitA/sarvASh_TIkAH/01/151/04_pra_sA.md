@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -101,7 +102,12 @@ ná ← ná (invariable)
 
 yuñjāthe ← √yuj- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सा क्षि॒तिर॑सुर॒ या महि॑ प्रि॒य ऋता॑वानावृ॒तमा घो॑षथो बृ॒हत् ।  
+यु॒वं दि॒वो बृ॑ह॒तो दक्ष॑मा॒भुवं॒ गां न धु॒र्युप॑ युञ्जाथे अ॒पः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -259,7 +265,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

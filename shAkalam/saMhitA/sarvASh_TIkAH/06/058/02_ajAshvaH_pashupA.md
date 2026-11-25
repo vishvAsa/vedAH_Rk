@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -77,7 +78,12 @@ deváḥ ← devá- (nominal stem)
 
 saṁcákṣāṇaḥ ← √cakṣ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒जाश्वः॑ पशु॒पा वाज॑पस्त्यो धियंजि॒न्वो भुव॑ने॒ विश्वे॒ अर्पि॑तः ।  
+अष्ट्रां॑ पू॒षा शि॑थि॒रामु॒द्वरी॑वृजत्सं॒चक्षा॑णो॒ भुव॑ना दे॒व ई॑यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

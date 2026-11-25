@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "देवापिरार्ष्टिषेणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -77,7 +78,12 @@ mr̥kṣíṇīṣu ← mr̥kṣín- (nominal stem)
 
 préṣitāḥ ← √iṣ- 1 (root)  
 {case:NOM, gender:F, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मिन्त्स॑मु॒द्रे अध्युत्त॑रस्मि॒न्नापो॑ दे॒वेभि॒र्निवृ॑ता अतिष्ठन् ।  
+ता अ॑द्रवन्नार्ष्टिषे॒णेन॑ सृ॒ष्टा दे॒वापि॑ना॒ प्रेषि॑ता मृ॒क्षिणी॑षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “rivulet.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

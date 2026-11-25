@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ sruvéṇa ← sruvá- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दश॒ रात्री॒रशि॑वेना॒ नव॒ द्यूनव॑नद्धं श्नथि॒तम॒प्स्व१॒॑न्तः ।  
+विप्रु॑तं रे॒भमु॒दनि॒ प्रवृ॑क्त॒मुन्नि॑न्यथुः॒ सोम॑मिव स्रु॒वेण॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “Sruva; sruva \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

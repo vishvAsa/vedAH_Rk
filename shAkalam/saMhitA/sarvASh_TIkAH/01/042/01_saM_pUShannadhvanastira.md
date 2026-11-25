@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -69,7 +70,12 @@ purás ← purás (invariable)
 
 sákṣva ← √sah- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं पू॑ष॒न्नध्व॑नस्तिर॒ व्यंहो॑ विमुचो नपात् ।  
+सक्ष्वा॑ देव॒ प्र ण॑स्पु॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

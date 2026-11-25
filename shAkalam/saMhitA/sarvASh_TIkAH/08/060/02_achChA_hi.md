@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ pūrvyám ← pūrvyá- (nominal stem)
 
 yajñéṣu ← yajñá- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॒ हि त्वा॑ सहसः सूनो अङ्गिरः॒ स्रुच॒श्चर॑न्त्यध्व॒रे ।  
+ऊ॒र्जो नपा॑तं घृ॒तके॑शमीमहे॒ऽग्निं य॒ज्ञेषु॑ पू॒र्व्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “first; precedent; age-old; excellent; former(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

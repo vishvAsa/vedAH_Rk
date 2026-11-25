@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ mahitvā́ ← mahitvá- (nominal stem)
 
 yatathaḥ ← √yat- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ या॑तं मित्रावरुणा सुश॒स्त्युप॑ प्रि॒या नम॑सा हू॒यमा॑ना ।  
+सं याव॑प्नः॒स्थो अ॒पसे॑व॒ जना॑ञ्छ्रुधीय॒तश्चि॑द्यतथो महि॒त्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “greatness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ sthiráḥ ← sthirá- (nominal stem)
 
 vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ अ॒ङ्ग म॒हद्भ॒यम॒भी षदप॑ चुच्यवत् ।  
+स हि स्थि॒रो विच॑र्षणिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “excellent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

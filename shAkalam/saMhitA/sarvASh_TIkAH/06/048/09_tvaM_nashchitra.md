@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ tucé ← túc- (nominal stem)
 
 vidā́ḥ ← √vid- 1 (root)  
 {number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं न॑श्चि॒त्र ऊ॒त्या वसो॒ राधां॑सि चोदय ।  
+अ॒स्य रा॒यस्त्वम॑ग्ने र॒थीर॑सि वि॒दा गा॒धं तु॒चे तु नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

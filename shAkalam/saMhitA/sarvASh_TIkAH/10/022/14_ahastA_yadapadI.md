@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "पुरस्ताद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ ní ← ní (invariable)
 
 viśvā́yave ← viśvā́yu- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ह॒स्ता यद॒पदी॒ वर्ध॑त॒ क्षाः शची॑भिर्वे॒द्याना॑म् ।  
+शुष्णं॒ परि॑ प्रदक्षि॒णिद्वि॒श्वाय॑वे॒ नि शि॑श्नथः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “pierce; kill.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

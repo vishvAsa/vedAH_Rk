@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ r̥tekarmám ← r̥tekarmá- (nominal stem)
 
 udájāyanta ← √janⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऐभि॑र्ददे॒ वृष्ण्या॒ पौंस्या॑नि॒ येभि॒रौक्ष॑द्वृत्र॒हत्या॑य व॒ज्री ।  
+ये कर्म॑णः क्रि॒यमा॑णस्य म॒ह्न ऋ॑तेक॒र्ममु॒दजा॑यन्त दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

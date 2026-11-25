@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ suté ← √su- (root)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये ते॒ वृष॑णो वृष॒भास॑ इन्द्र ब्रह्म॒युजो॒ वृष॑रथासो॒ अत्याः॑ ।  
+ताँ आ ति॑ष्ठ॒ तेभि॒रा या॑ह्य॒र्वाङ्हवा॑महे त्वा सु॒त इ॑न्द्र॒ सोमे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

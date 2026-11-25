@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शक्तिर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ ugrám ← ugrá- (nominal stem)
 
 vīrávantam ← vīrávant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा न॑ इन्दो अ॒भि दे॒ववी॑तिं॒ परि॑ स्रव॒ नभो॒ अर्ण॑श्च॒मूषु॑ ।  
+सोमो॑ अ॒स्मभ्यं॒ काम्यं॑ बृ॒हन्तं॑ र॒यिं द॑दातु वी॒रव॑न्तमु॒ग्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     atrocious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -246,7 +251,6 @@ Let Soma give to us desirable, lofty wealth, powerful and abounding in  heroes.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -254,7 +258,6 @@ Attributed to Śakti Vāsiṣṭha, who, unlike most of the other Vasiṣṭhids
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

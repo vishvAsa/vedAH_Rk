@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -60,7 +60,11 @@ ná ← ná (invariable)
 
 nákṣante ← √nakṣ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं व॑श्च॒राथा॑ व॒यं व॑स॒त्यास्तं॒ न गावो॒ नक्ष॑न्त इ॒द्धम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +139,6 @@ _________
 - “kindle; ignite; set ablaze.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -189,10 +192,6 @@ Zu diesem eurem Agni kommen die Wanderer und wir mit der Hausgenossenschaft wie 
 
 Zu dem entflammten – gehn eure Wege, in unser Haus wir – wie heim die Kühe; Wie Strom die Fluten – trieb er herab sie, die Kühe brüllten, – wie Licht zu schauen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

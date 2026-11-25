@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ tásya ← sá- ~ tá- (pronoun)
 
 vratā́ni ← vratá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रु॒व्यच॑से म॒हिने॑ सुवृ॒क्तिमिन्द्रा॑य॒ ब्रह्म॑ जनयन्त॒ विप्राः॑ ।  
+तस्य॑ व्र॒तानि॒ न मि॑नन्ति॒ धीराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “expert; wise; intelligent; versed; adept.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ abhyūrṇvānā́ ← √vr̥- (root)
 
 prabhr̥thásya ← prabhr̥thá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि न॒ इळा॑ यू॒थस्य॑ मा॒ता स्मन्न॒दीभि॑रु॒र्वशी॑ वा गृणातु ।  
+उ॒र्वशी॑ वा बृहद्दि॒वा गृ॑णा॒नाभ्यू॑र्ण्वा॒ना प्र॑भृ॒थस्या॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -237,7 +242,6 @@ Or Urvaśī Br̥haddivā, being sung, covering herself, (mother) of the
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/041/19-20.md">
 <details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -254,7 +258,6 @@ Besides Iḍā, explicitly “the mother of the flock” (yūthásya mātā́) h
 I am uncertain what to do with ūravyàsya in 20 (PN or not), and I also do not know what abhyūrṇvāṇā́in 19d is conveying.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

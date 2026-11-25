@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -65,7 +66,12 @@ naḥ ← ahám (pronoun)
 
 práśastim ← práśasti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अम्बि॑तमे॒ नदी॑तमे॒ देवि॑तमे॒ सर॑स्वति ।  
+अ॒प्र॒श॒स्ता इ॑व स्मसि॒ प्रश॑स्तिमम्ब नस्कृधि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

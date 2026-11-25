@@ -4,6 +4,7 @@ devataa = "इळः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इळः
@@ -83,7 +84,12 @@ yájīyān ← yájīyaṁs- (nominal stem)
 
 yakṣat ← √yaj- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र दीधि॑तिर्वि॒श्ववा॑रा जिगाति॒ होता॑रमि॒ळः प्र॑थ॒मं यज॑ध्यै ।  
+अच्छा॒ नमो॑भिर्वृष॒भं व॒न्दध्यै॒ स दे॒वान्य॑क्षदिषि॒तो यजी॑यान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

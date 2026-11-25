@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ vásūni ← vásu- (nominal stem)
 
 gírvaṇastamaḥ ← gírvaṇastama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि विश्वा॑नि॒ पार्थि॑वाँ॒ एको॒ वसू॑नि॒ पत्य॑ते ।  
+गिर्व॑णस्तमो॒ अध्रि॑गुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “rich; powerful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -153,7 +158,6 @@ the rich one who most longs for songs.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/19-20.md">
 <details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -161,7 +165,6 @@ These two vss. contain superlatives to bahuvrīhi s-stems that appear earlier in
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

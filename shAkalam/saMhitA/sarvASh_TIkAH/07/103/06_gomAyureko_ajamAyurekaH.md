@@ -4,6 +4,7 @@ devataa = "मंडूकाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मंडूकाः
@@ -83,7 +84,12 @@ vā́cam ← vā́c- (nominal stem)
 
 vádantaḥ ← √vadⁱ- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गोमा॑यु॒रेको॑ अ॒जमा॑यु॒रेकः॒ पृश्नि॒रेको॒ हरि॑त॒ एक॑ एषाम् ।  
+स॒मा॒नं नाम॒ बिभ्र॑तो॒ विरू॑पाः पुरु॒त्रा वाचं॑ पिपिशु॒र्वद॑न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     diagnose; address; say; pronounce; express; instruct; order.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

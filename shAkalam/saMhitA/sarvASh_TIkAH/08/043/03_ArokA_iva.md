@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ dadbhíḥ ← dánt- (nominal stem)
 
 vánāni ← vána- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒रो॒का इ॑व॒ घेदह॑ ति॒ग्मा अ॑ग्ने॒ तव॒ त्विषः॑ ।  
+द॒द्भिर्वना॑नि बप्सति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “chew; snatch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

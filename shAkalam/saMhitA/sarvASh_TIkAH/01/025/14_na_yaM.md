@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -60,7 +61,12 @@ devám ← devá- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न यं दिप्स॑न्ति दि॒प्सवो॒ न द्रुह्वा॑णो॒ जना॑नाम् ।  
+न दे॒वम॒भिमा॑तयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “unfriendly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

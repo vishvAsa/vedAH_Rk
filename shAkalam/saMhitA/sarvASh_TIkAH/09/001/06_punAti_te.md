@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मधुच्छन्दाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ tánā ← tán- (nominal stem)
 
 vā́reṇa ← vā́ra- 1 (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒नाति॑ ते परि॒स्रुतं॒ सोमं॒ सूर्य॑स्य दुहि॒ता ।  
+वारे॑ण॒ शश्व॑ता॒ तना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “continuity; sequence; longevity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

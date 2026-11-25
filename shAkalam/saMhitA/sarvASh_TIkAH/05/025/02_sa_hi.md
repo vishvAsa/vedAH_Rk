@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ sudītíbhiḥ ← sudītí- (nominal stem)
 
 vibhā́vasum ← vibhā́vasu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि स॒त्यो यं पूर्वे॑ चिद्दे॒वास॑श्चि॒द्यमी॑धि॒रे ।  
+होता॑रं म॒न्द्रजि॑ह्व॒मित्सु॑दी॒तिभि॑र्वि॒भाव॑सुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “fire; Agni; sun; Surya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

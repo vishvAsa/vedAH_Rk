@@ -4,6 +4,7 @@ devataa = "सोमारुद्रौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमारुद्रौ
@@ -80,7 +81,12 @@ naḥ ← ahám (pronoun)
 
 sumanasyámānā ← √sumanasy- (root)  
 {case:NOM, gender:M, number:DU, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒ग्मायु॑धौ ति॒ग्महे॑ती सु॒शेवौ॒ सोमा॑रुद्रावि॒ह सु मृ॑ळतं नः ।  
+प्र नो॑ मुञ्चतं॒ वरु॑णस्य॒ पाशा॑द्गोपा॒यतं॑ नः सुमन॒स्यमा॑ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “favorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

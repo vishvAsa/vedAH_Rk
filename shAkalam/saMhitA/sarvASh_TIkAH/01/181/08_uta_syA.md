@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ ná ← ná (invariable)
 
 séke ← séka- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्या वां॒ रुश॑तो॒ वप्स॑सो॒ गीस्त्रि॑ब॒र्हिषि॒ सद॑सि पिन्वते॒ नॄन् ।  
+वृषा॑ वां मे॒घो वृ॑षणा पीपाय॒ गोर्न सेके॒ मनु॑षो दश॒स्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

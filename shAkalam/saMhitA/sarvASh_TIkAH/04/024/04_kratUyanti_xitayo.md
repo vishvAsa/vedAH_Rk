@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ indrayante ← √indray- (root)
 
 néme ← néma- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्र॒तू॒यन्ति॑ क्षि॒तयो॒ योग॑ उग्राशुषा॒णासो॑ मि॒थो अर्ण॑सातौ ।  
+सं यद्विशोऽव॑वृत्रन्त यु॒ध्मा आदिन्नेम॑ इन्द्रयन्ते अ॒भीके॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “battle; meeting.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -236,12 +241,6 @@ The settled peoples show their resolve at the hitching up (for battle), o  power
 When the battling clans have rolled together, just then do those on the  one side seek Indra at the moment of confrontation.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The ‘winning of the flood’ (árṇasātau) presumably refers, as Geldner, etc., point out, to the battle to control water resources, esp. dwelling places near water.
-
-Most tr. give a more neutral rendering of ávavṛtranta, but my “have rolled together” is meant to convey the deeply entwined, rough-and-tumble quality of pitched battle (and, perhaps, the actual rolling of chariots onto the battlefield).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -251,7 +250,6 @@ Note also the similarity of the predicates of the two néme constructions: indra
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

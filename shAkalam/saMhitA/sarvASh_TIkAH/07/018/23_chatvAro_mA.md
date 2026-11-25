@@ -4,6 +4,7 @@ devataa = "सुदासः पैजवनस्य दानस्तुत�
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सुदासः पैजवनस्य दानस्तुतिः
@@ -77,7 +78,12 @@ tokā́ya ← toká- (nominal stem)
 
 vahanti ← √vah- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒त्वारो॑ मा पैजव॒नस्य॒ दानाः॒ स्मद्दि॑ष्टयः कृश॒निनो॑ निरे॒के ।  
+ऋ॒ज्रासो॑ मा पृथिवि॒ष्ठाः सु॒दास॑स्तो॒कं तो॒काय॒ श्रव॑से वहन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

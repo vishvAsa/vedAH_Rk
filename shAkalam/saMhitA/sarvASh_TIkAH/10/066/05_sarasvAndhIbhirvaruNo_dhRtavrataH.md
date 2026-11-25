@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ trivárūtham ← trivárūtha- (nominal stem)
 
 yaṁsan ← √yam- (root)  
 {number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सर॑स्वान्धी॒भिर्वरु॑णो धृ॒तव्र॑तः पू॒षा विष्णु॑र्महि॒मा वा॒युर॒श्विना॑ ।  
+ब्र॒ह्म॒कृतो॑ अ॒मृता॑ वि॒श्ववे॑दसः॒ शर्म॑ नो यंसन्त्रि॒वरू॑थ॒मंह॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “trouble; sin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

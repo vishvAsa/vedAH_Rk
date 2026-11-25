@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ pr̥tsutī́ḥ ← pr̥tsutí- (nominal stem)
 
 tiṣṭhema ← √sthā- (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒भुर्न॒ इन्द्रः॒ शव॑सा॒ नवी॑यानृ॒भुर्वाजे॑भि॒र्वसु॑भि॒र्वसु॑र्द॒दिः ।  
+यु॒ष्माकं॑ देवा॒ अव॒साह॑नि प्रि॒ये॒३॒॑ऽभि ति॑ष्ठेम पृत्सु॒तीरसु॑न्वताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

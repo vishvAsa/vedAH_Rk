@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ dhā́mne ← dhā́man- (nominal stem)
 
 índrasya ← índra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर॒मश्वा॑य गायति श्रु॒तक॑क्षो॒ अरं॒ गवे॑ ।  
+अर॒मिन्द्र॑स्य॒ धाम्ने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
     location.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -152,7 +157,6 @@ Sings for ahorse: indrasya dhāmne = for a house given by Indra; or, Indra's hea
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-25.md">
 <details><summary><h2>24-25 ...{Loading}...</h2></summary>
 
@@ -169,7 +173,6 @@ The final áram in 27c returns us to the situation found in 24, where the provid
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

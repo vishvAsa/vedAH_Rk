@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ jáyema ← √ji- 1 (root)
 
 tváyā ← tvám (pronoun)  
 {case:INS, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मानो अ॒भ्य॑र्षा सु॒वीर्य॑मु॒र्वीं गव्यू॑तिं॒ महि॒ शर्म॑ स॒प्रथः॑ ।  
+माकि॑र्नो अ॒स्य परि॑षूतिरीश॒तेन्दो॒ जये॑म॒ त्वया॒ धनं॑धनम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     dhan; capital; fight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,10 +253,6 @@ Let no constricting pressure take control of this (soma) of ours. O
 drop, with you may we win prize after prize.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The somewhat awkward tr. “constricting pressure” reflects the literal, additive sense of páriṣūti-: pári ‘around’ + √sū ‘impel, thrust’. Maybe something like “squeezing” would sound a bit more idiomatic, though it is hard to find any English idiom that more or less represents the etymology and fits with the verb. Of course, narrowness and constriction are particularly feared and avoided in the Rig Veda. Perhaps “claustrophobia” might work, though of course the -phobia part is absent; “constriction” is probably the best choice in English. It is also not clear what threat páriṣūti- poses to the ritual soma, which, after all, has been subjected to serious pressing (via the phonologically similar but unrelated root √su) and therefore has nothing left to fear in that regard. In real world terms it of course refers to the opposite of the “wide pasturage and great, extensive shelter” that Soma is urged to rush to in pāda b. In this regard it is similar to the words aṃhatí-, áṃhas- ‘constriction, constraint’. The other occurrence of páriṣūti- (I.119.6) is found in a similar context, with a contrast between constraint and wide space: yuváṃ rebhám páriṣūter uruṣyathaḥ. JPB tr. “You give Rebha space from being besieged,” but in my opinion the sense is more particular: “you give Rebha wide space from (/out of) constriction.” On īśata see comm. ad I.23.9.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -259,7 +260,6 @@ Pādas 7c and 8a have almost identical structure: pávamānā abhy àrṣanti su
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

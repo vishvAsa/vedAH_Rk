@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 vánaspátīn ← vánaspáti- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि वो॑ अर्चे पो॒ष्याव॑तो॒ नॄन्वास्तो॒ष्पतिं॒ त्वष्टा॑रं॒ ररा॑णः ।  
+धन्या॑ स॒जोषा॑ धि॒षणा॒ नमो॑भि॒र्वन॒स्पतीँ॒रोष॑धी रा॒य एषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “quest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

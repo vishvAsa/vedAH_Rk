@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -92,7 +93,12 @@ práti ← práti (invariable)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा त्वा॒ग्निर्ध्व॑नयीद्धू॒मग॑न्धि॒र्मोखा भ्राज॑न्त्य॒भि वि॑क्त॒ जघ्रिः॑ ।  
+इ॒ष्टं वी॒तम॒भिगू॑र्तं॒ वष॑ट्कृतं॒ तं दे॒वासः॒ प्रति॑ गृभ्ण॒न्त्यश्व॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “horse; aśva \[word\]; Aśva; stallion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

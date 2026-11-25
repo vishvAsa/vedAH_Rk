@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेणुर्वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ nirṇík ← nirṇíj- (nominal stem)
 
 tvák ← tvác- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रु॒वति॑ भी॒मो वृ॑ष॒भस्त॑वि॒ष्यया॒ शृङ्गे॒ शिशा॑नो॒ हरि॑णी विचक्ष॒णः ।  
+आ योनिं॒ सोमः॒ सुकृ॑तं॒ नि षी॑दति ग॒व्ययी॒ त्वग्भ॑वति नि॒र्णिग॒व्ययी॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “sheep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

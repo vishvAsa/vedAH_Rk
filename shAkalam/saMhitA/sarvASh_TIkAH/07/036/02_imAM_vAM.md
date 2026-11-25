@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ mitráḥ ← mitrá- (nominal stem)
 
 yatati ← √yat- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मां वां॑ मित्रावरुणा सुवृ॒क्तिमिषं॒ न कृ॑ण्वे असुरा॒ नवी॑यः ।  
+इ॒नो वा॑म॒न्यः प॑द॒वीरद॑ब्धो॒ जनं॑ च मि॒त्रो य॑तति ब्रुवा॒णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

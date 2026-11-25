@@ -4,6 +4,7 @@ devataa = "बर्हिः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बर्हिः
@@ -62,7 +63,12 @@ sapráthaḥ ← sapráthas- (nominal stem)
 
 śárma ← śárman- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तृ॒णा॒नासो॑ य॒तस्रु॑चो ब॒र्हिर्य॒ज्ञे स्व॑ध्व॒रे ।  
+वृ॒ञ्जे दे॒वव्य॑चस्तम॒मिन्द्रा॑य॒ शर्म॑ स॒प्रथः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “extensive; wide; extended.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

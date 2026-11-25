@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -83,7 +84,12 @@ jīvitā́ ← jīvitá- (nominal stem)
 
 mā́nuṣebhyaḥ ← mā́nuṣa- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वेभ्यो॒ हि प्र॑थ॒मं य॒ज्ञिये॑भ्योऽमृत॒त्वं सु॒वसि॑ भा॒गमु॑त्त॒मम् ।  
+आदिद्दा॒मानं॑ सवित॒र्व्यू॑र्णुषेऽनूची॒ना जी॑वि॒ता मानु॑षेभ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “man; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

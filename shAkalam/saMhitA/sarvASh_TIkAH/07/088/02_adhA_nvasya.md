@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -92,7 +93,12 @@ ninīyāt ← √nī- (root)
 
 vápuḥ ← vápus- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॒ न्व॑स्य सं॒दृशं॑ जग॒न्वान॒ग्नेरनी॑कं॒ वरु॑णस्य मंसि ।  
+स्व१॒॑र्यदश्म॑न्नधि॒पा उ॒ अन्धो॒ऽभि मा॒ वपु॑र्दृ॒शये॑ निनीयात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

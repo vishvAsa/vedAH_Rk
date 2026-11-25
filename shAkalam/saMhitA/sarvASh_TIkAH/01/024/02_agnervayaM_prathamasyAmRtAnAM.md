@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः | कृत्रिमो वैश्वामित्रो देवरातः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ mātáram ← mātár- (nominal stem)
 
 pitáram ← pitár- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्नेर्व॒यं प्र॑थ॒मस्या॒मृता॑नां॒ मना॑महे॒ चारु॑ दे॒वस्य॒ नाम॑ ।  
+स नो॑ म॒ह्या अदि॑तये॒ पुन॑र्दात्पि॒तरं॑ च दृ॒शेयं॑ मा॒तरं॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

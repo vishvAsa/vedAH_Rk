@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ máhi ← máh- (nominal stem)
 
 śrávaḥ ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ वाज॑स्य॒ गोम॑त॒ ईशा॑नः सहसो यहो ।  
+अ॒स्मे धे॑हि जातवेदो॒ महि॒ श्रवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “fame; glory; ear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

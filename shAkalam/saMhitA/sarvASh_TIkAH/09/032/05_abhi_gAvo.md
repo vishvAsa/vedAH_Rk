@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ hitám ← √dhā- 1 (root)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि गावो॑ अनूषत॒ योषा॑ जा॒रमि॑व प्रि॒यम् ।  
+अग॑न्ना॒जिं यथा॑ हि॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “impel; send; spur; stimulate; urge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

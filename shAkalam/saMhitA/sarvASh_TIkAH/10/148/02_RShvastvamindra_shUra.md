@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पृथुर्वैन्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ prasrávaṇe ← prasrávaṇa- (nominal stem)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒ष्वस्त्वमि॑न्द्र शूर जा॒तो दासी॒र्विशः॒ सूर्ये॑ण सह्याः ।  
+गुहा॑ हि॒तं गुह्यं॑ गू॒ळ्हम॒प्सु बि॑भृ॒मसि॑ प्र॒स्रव॑णे॒ न सोम॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

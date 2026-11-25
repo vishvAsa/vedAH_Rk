@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ pariṣṭúbhaḥ ← pariṣṭúbh- (nominal stem)
 
 sámmiślāḥ ← sámmiśla- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हान्तो॑ म॒ह्ना वि॒भ्वो॒३॒॑ विभू॑तयो दूरे॒दृशो॒ ये दि॒व्या इ॑व॒ स्तृभिः॑ ।  
+म॒न्द्राः सु॑जि॒ह्वाः स्वरि॑तार आ॒सभिः॒ सम्मि॑श्ला॒ इन्द्रे॑ म॒रुतः॑ परि॒ष्टुभः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

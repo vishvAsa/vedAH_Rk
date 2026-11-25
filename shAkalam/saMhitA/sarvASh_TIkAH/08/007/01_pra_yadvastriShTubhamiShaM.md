@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ rājatha ← √rāj- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र यद्व॑स्त्रि॒ष्टुभ॒मिषं॒ मरु॑तो॒ विप्रो॒ अक्ष॑रत् ।  
+वि पर्व॑तेषु राजथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -172,10 +177,6 @@ In that the inspired poet has let flow the triṣṭubh refreshment to you, o  M
 you rule [/shine] throughout the mountains.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-(Indra), a hymn that is also not in Triṣṭubh. Some remove the word here entirely from the poetic sphere, as in Macdonell’s “threefold Soma draught.” Geldner believes that it can’t refer to the Triṣṭubh meter here, but that it must be a different technical term in recitation. I do not think that the fact that these two hymns are not in Triṣṭubh necessarily means that that meter can’t be referred to in this expression; there are, after all, plenty of hymns to both the Maruts and Indra in Triṣṭubh, and the verb governing the phrase is in the imperfect and therefore should refer to another occasion. But following Geldner’s lead, I think it possible that ‘(having?) threefold rhythm’ could refer to the Gāyatrī meter in which this hymn is composed, since Gāyatrī consists of three pādas. Unfortunately this will not work for VIII.69, which is composed in a variety of meters (incl. Gāyatrī, but only vss. 4-6); the verse in which the phrase is found (VIII.69.1) is in Anuṣṭubh. I might emend the published translation to “refreshment in threefold rhythm.” For further on the compound see Scarlatta (641-42), who is somewhat indecisive about both the compound type and the sense.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
 <details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -183,7 +184,6 @@ Note recycling of vocab. -- íṣam 1, 3; párvata- 1, 2, 4; yā́mam 2, 4; vip/
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

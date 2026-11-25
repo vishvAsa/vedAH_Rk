@@ -4,6 +4,7 @@ devataa = "नृणां विवाहमन्त्रा आशीःप�
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नृणां विवाहमन्त्रा आशीःप्रायाः
@@ -68,7 +69,12 @@ bandhéṣu ← bandhá- (nominal stem)
 
 pátiḥ ← páti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नी॒ल॒लो॒हि॒तं भ॑वति कृ॒त्यास॒क्तिर्व्य॑ज्यते ।  
+एध॑न्ते अस्या ज्ञा॒तयः॒ पति॑र्ब॒न्धेषु॑ बध्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
     into; fasten.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

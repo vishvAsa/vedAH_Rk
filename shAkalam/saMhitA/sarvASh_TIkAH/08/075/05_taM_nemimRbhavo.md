@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ nédīyaḥ ← nédīyaṁs- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं ने॒मिमृ॒भवो॑ य॒था न॑मस्व॒ सहू॑तिभिः ।  
+नेदी॑यो य॒ज्ञम॑ङ्गिरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
     Aṅgiras.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ hr̥dbhíḥ ← hā́rdi ~ hr̥d- (nominal stem)
 
 mandrébhiḥ ← mandrá- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं म॒न्द्रं पु॑रुप्रि॒यं शी॒रं पा॑व॒कशो॑चिषम् ।  
+हृ॒द्भिर्म॒न्द्रेभि॑रीमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

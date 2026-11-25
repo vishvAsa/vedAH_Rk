@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ jātávedāḥ ← jātávedas- (nominal stem)
 
 níhitaḥ ← √dhā- 1 (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ता ते॑ अग्ने॒ जनि॑मा॒ सना॑नि॒ प्र पू॒र्व्याय॒ नूत॑नानि वोचम् ।  
+म॒हान्ति॒ वृष्णे॒ सव॑ना कृ॒तेमा जन्म॑ञ्जन्म॒न्निहि॑तो जा॒तवे॑दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

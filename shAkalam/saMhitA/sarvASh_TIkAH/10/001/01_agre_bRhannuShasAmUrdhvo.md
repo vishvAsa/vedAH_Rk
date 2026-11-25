@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sádmāni ← sádman- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्रे॑ बृ॒हन्नु॒षसा॑मू॒र्ध्वो अ॑स्थान्निर्जग॒न्वान्तम॑सो॒ ज्योति॒षागा॑त् ।  
+अ॒ग्निर्भा॒नुना॒ रुश॑ता॒ स्वङ्ग॒ आ जा॒तो विश्वा॒ सद्मा॑न्यप्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “fill; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

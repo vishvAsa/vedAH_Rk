@@ -4,6 +4,7 @@ devataa = "रतिः"
 RShiH = "अन्तेवासी ब्रह्मचारी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रतिः
@@ -80,7 +81,12 @@ jagāma ← √gam- (root)
 
 satyā́ḥ ← satyá- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒गस्त्यः॒ खन॑मानः ख॒नित्रैः॑ प्र॒जामप॑त्यं॒ बल॑मि॒च्छमा॑नः ।  
+उ॒भौ वर्णा॒वृषि॑रु॒ग्रः पु॑पोष स॒त्या दे॒वेष्वा॒शिषो॑ जगाम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

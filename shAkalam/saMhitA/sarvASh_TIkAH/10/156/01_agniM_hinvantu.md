@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "केतुराग्नेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ jeṣma ← √ji- 1 (root)
 
 téna ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं हि॑न्वन्तु नो॒ धियः॒ सप्ति॑मा॒शुमि॑वा॒जिषु॑ ।  
+तेन॑ जेष्म॒ धनं॑धनम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
     dhan; capital; fight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "रथाङ्गानि"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रथाङ्गानि
@@ -95,7 +96,12 @@ naḥ ← ahám (pronoun)
 
 sacasva ← √sac- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्थि॒रौ गावौ॑ भवतां वी॒ळुरक्षो॒ मेषा वि व॑र्हि॒ मा यु॒गं वि शा॑रि ।  
+इन्द्रः॑ पात॒ल्ये॑ ददतां॒ शरी॑तो॒ररि॑ष्टनेमे अ॒भि नः॑ सचस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

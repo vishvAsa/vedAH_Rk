@@ -4,6 +4,7 @@ devataa = "मंडूकाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मंडूकाः
@@ -83,7 +84,12 @@ sahasrasāvé ← sahasrasāvá- (nominal stem)
 
 tirante ← √tr̥̄- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गोमा॑युरदाद॒जमा॑युरदा॒त्पृश्नि॑रदा॒द्धरि॑तो नो॒ वसू॑नि ।  
+गवां॑ म॒ण्डूका॒ दद॑तः श॒तानि॑ सहस्रसा॒वे प्र ति॑रन्त॒ आयुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

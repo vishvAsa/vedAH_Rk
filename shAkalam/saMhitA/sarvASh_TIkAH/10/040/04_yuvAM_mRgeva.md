@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ patī ← páti- (nominal stem)
 
 vahathaḥ ← √vah- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वां मृ॒गेव॑ वार॒णा मृ॑ग॒ण्यवो॑ दो॒षा वस्तो॑र्ह॒विषा॒ नि ह्व॑यामहे ।  
+यु॒वं होत्रा॑मृतु॒था जुह्व॑ते न॒रेषं॒ जना॑य वहथः शुभस्पती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

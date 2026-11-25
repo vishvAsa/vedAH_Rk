@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ br̥hát ← br̥hánt- (nominal stem)
 
 reṇúm ← reṇú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वी यदि॒ तवि॑षी॒ त्वावृ॑धो॒तय॒ इन्द्रं॒ सिष॑क्त्यु॒षसं॒ न सूर्यः॑ ।  
+यो धृ॒ष्णुना॒ शव॑सा॒ बाध॑ते॒ तम॒ इय॑र्ति रे॒णुं बृ॒हद॑र्हरि॒ष्वणिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

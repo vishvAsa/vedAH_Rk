@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -69,7 +70,12 @@ sukrátum ← sukrátu- (nominal stem)
 
 víprāsaḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते घेद॑ग्ने स्वा॒ध्यो॒३॒॑ ये त्वा॑ विप्र निदधि॒रे नृ॒चक्ष॑सम् ।  
+विप्रा॑सो देव सु॒क्रतु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “wise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

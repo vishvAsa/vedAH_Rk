@@ -4,6 +4,7 @@ devataa = "इषवः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इषवः
@@ -77,7 +78,12 @@ mā́ ← mā́ (invariable)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑सृष्टा॒ परा॑ पत॒ शर॑व्ये॒ ब्रह्म॑संशिते ।  
+गच्छा॒मित्रा॒न्प्र प॑द्यस्व॒ मामीषां॒ कं च॒नोच्छि॑षः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “leave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

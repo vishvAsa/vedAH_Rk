@@ -4,6 +4,7 @@ devataa = "दंपत्योराशिषः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपत्योराशिषः
@@ -68,7 +69,12 @@ mitrám ← mitrá- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं वः॑ पू॒र्व्यं गि॒रा दे॒वमी॑ळे॒ वसू॑नाम् ।  
+स॒प॒र्यन्तः॑ पुरुप्रि॒यं मि॒त्रं न क्षे॑त्र॒साध॑सम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

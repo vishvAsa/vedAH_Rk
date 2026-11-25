@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ ná ← ná (invariable)
 
 r̥ṇóḥ ← √r̥- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ घ॒ त्वावा॒न्त्मना॒प्तः स्तो॒तृभ्यो॑ धृष्णविया॒नः ।  
+ऋ॒णोरक्षं॒ न च॒क्र्योः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “cakrikā.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

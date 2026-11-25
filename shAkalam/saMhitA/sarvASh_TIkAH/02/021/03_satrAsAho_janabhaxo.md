@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vīryā̀ ← vīryà- (nominal stem)
 
 vocam ← √vac- (root)  
 {number:SG, person:1, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒त्रा॒सा॒हो ज॑नभ॒क्षो ज॑नंस॒हश्च्यव॑नो यु॒ध्मो अनु॒ जोष॑मुक्षि॒तः ।  
+वृ॒तं॒च॒यः सहु॑रिर्वि॒क्ष्वा॑रि॒त इन्द्र॑स्य वोचं॒ प्र कृ॒तानि॑ वी॒र्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

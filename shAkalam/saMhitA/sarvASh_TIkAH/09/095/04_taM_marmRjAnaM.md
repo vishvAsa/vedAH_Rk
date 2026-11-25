@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रस्कण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ tritáḥ ← tritá- (nominal stem)
 
 váruṇam ← váruṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं म॑र्मृजा॒नं म॑हि॒षं न साना॑वं॒शुं दु॑हन्त्यु॒क्षणं॑ गिरि॒ष्ठाम् ।  
+तं वा॑वशा॒नं म॒तयः॑ सचन्ते त्रि॒तो बि॑भर्ति॒ वरु॑णं समु॒द्रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

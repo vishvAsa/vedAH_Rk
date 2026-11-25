@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ sakhitvé ← sakhitvá- (nominal stem)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कद्ध॑ नू॒नं क॑धप्रियो॒ यदिन्द्र॒मज॑हातन ।  
+को वः॑ सखि॒त्व ओ॑हते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “diagnose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

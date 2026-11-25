@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -89,7 +90,12 @@ kṣatrám ← kṣatrá- (nominal stem)
 
 rā́jānaḥ ← rā́jan- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि ये द॒धुः श॒रदं॒ मास॒मादह॑र्य॒ज्ञम॒क्तुं चादृच॑म् ।  
+अ॒ना॒प्यं वरु॑णो मि॒त्रो अ॑र्य॒मा क्ष॒त्रं राजा॑न आशत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

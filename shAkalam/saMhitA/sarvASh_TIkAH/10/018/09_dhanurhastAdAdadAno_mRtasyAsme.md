@@ -4,6 +4,7 @@ devataa = "पितृमेधः"
 RShiH = "सङ्कुसुको यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पितृमेधः
@@ -86,7 +87,12 @@ spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धनु॒र्हस्ता॑दा॒ददा॑नो मृ॒तस्या॒स्मे क्ष॒त्राय॒ वर्च॑से॒ बला॑य ।  
+अत्रै॒व त्वमि॒ह व॒यं सु॒वीरा॒ विश्वाः॒ स्पृधो॑ अ॒भिमा॑तीर्जयेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

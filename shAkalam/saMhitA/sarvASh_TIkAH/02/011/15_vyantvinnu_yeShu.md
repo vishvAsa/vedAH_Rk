@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ br̥hádbhiḥ ← br̥hánt- (nominal stem)
 
 dyā́m ← dyú- ~ div- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्यन्त्विन्नु येषु॑ मन्दसा॒नस्तृ॒पत्सोमं॑ पाहि द्र॒ह्यदि॑न्द्र ।  
+अ॒स्मान्त्सु पृ॒त्स्वा त॑रु॒त्राव॑र्धयो॒ द्यां बृ॒हद्भि॑र॒र्कैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     beam.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

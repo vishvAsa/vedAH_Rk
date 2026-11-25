@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ mahā́ni ← mahá- (nominal stem)
 
 purudhápratīkaḥ ← purudhápratīka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒प॒स्थाय॑ मा॒तर॒मन्न॑मैट्ट ति॒ग्मम॑पश्यद॒भि सोम॒मूधः॑ ।  
+प्र॒या॒वय॑न्नचर॒द्गृत्सो॑ अ॒न्यान्म॒हानि॑ चक्रे पुरु॒धप्र॑तीकः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -230,10 +235,6 @@ On approaching his mother, he called for food; he looked upon the sharp  soma as
 Clever, he took care to keep away the others; of manifold countenances,  he performed great things himself.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-It is not clear who the “others” (anyā́n) are whom he keeps away, but the medial pf. in the next pāda (cakre) implicitly claims that he did the great things (mahā́ni; cf. vīryā̀ṇi … mahā́ni in III.36.1cd) by himself, that is, without the help of others.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/048/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -242,7 +243,6 @@ I assume that purudhá-pratīka- in 3d refers to Indra’s shape-shifting powers
 These two vss. are noteworthy for containing 3 gerunds, upasthā́ya, abhibhū́ya, and āmúṣyā. The quest of the poet(s) of the Indra hymns in III to find a way to express anteriority (see disc. ad III.32.9-10, 33.11) is successful at least in this passage.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

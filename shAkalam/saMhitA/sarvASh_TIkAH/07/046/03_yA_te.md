@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -95,7 +96,12 @@ tánayeṣu ← tánaya- (nominal stem)
 
 tokéṣu ← toká- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या ते॑ दि॒द्युदव॑सृष्टा दि॒वस्परि॑ क्ष्म॒या चर॑ति॒ परि॒ सा वृ॑णक्तु नः ।  
+स॒हस्रं॑ ते स्वपिवात भेष॒जा मा न॑स्तो॒केषु॒ तन॑येषु रीरिषः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “suffer; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -261,16 +266,6 @@ The missile of yours, which, shot downward from heaven, circles around  the eart
 A thousand are your remedies, o you who are our familiar. Do no harm  to our offspring and descendants.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich contains two occurrences of pári, but in fact it should technically have three: the first pári at the end of pāda a governs the preceding abl.
-
-divás in the sense of ‘from’ (note the close sandhi divás pári); the second, in the middle of b, should be construed with both preceding cárati and following vṛṇaktu and is positioned exactly between the two clauses that contain those two verbs.
-
-I take the hapax voc. svapivāta to the lexeme ápi √vat, which I interpr. after the manner of Tichy. See comm. ad I.128.2. The intimacy implied by this lexeme (‘be/make familiar/intimate’) is appropriate to the focus on the household disc. above.
-
-My tr. “o you who are our familiar” does not represent the su-, but it is difficult to incorporate it without making an already heavy tr. even more so.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -280,7 +275,6 @@ anamīváḥ (… bhava) “be without affliction,” while 3d contains the stro
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ udábhiḥ ← udán- (nominal stem)
 
 yántaḥ ← √i- 1 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॒ ही॑न्द्र गिर्वण॒ उप॑ त्वा॒ कामा॑न्म॒हः स॑सृ॒ज्महे॑ ।  
+उ॒देव॒ यन्त॑ उ॒दभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “water.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

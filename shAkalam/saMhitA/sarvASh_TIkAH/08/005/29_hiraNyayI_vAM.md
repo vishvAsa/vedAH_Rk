@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ hiraṇyáyā ← hiraṇyáya- (nominal stem)
 
 ubhā́ ← ubhá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हि॒र॒ण्ययी॑ वां॒ रभि॑री॒षा अक्षो॑ हिर॒ण्ययः॑ ।  
+उ॒भा च॒क्रा हि॑र॒ण्यया॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “gold; aureate; hiraṇyaya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

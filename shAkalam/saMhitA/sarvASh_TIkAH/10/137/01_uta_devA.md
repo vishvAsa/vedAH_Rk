@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भरद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ jīváyatha ← √jīv- (root)
 
 púnar ← púnar (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त दे॑वा॒ अव॑हितं॒ देवा॒ उन्न॑यथा॒ पुनः॑ ।  
+उ॒ताग॑श्च॒क्रुषं॑ देवा॒ देवा॑ जी॒वय॑था॒ पुनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
     however; besides.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

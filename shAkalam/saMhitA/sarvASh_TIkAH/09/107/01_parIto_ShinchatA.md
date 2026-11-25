@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ sómam ← sóma- (nominal stem)
 
 suṣā́va ← √su- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परी॒तो षि॑ञ्चता सु॒तं सोमो॒ य उ॑त्त॒मं ह॒विः ।  
+द॒ध॒न्वाँ यो नर्यो॑ अ॒प्स्व१॒॑न्तरा सु॒षाव॒ सोम॒मद्रि॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -224,14 +229,6 @@ From here sprinkle around the pressed drink, which is the soma, the  highest obl
 The manly one who has run within the waters, the soma did he [=the  priest] press with stones.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The vs. begins with a most unusual sandhi: párītó ṣiñcatā. Geldner (n. 1a; cf. ZDMG 65: 307) suggests that it is Prakritizing. Oldenberg and Renou, less dramatically, consider it to be based on IX.63.10 párīto vāyáve sutám, where the sandhi of itás is correct. (Geldner also cites this vs.) Renou points out that that vs. ends with siñcata and suggests that the unusual sandhi here “résulte de l’assemblage des extrémités du v.
-
-63,10.” Although the invocation of 63.10 seems apposite, it doesn’t entirely explain the sandhi we find here. The -o of párītó can be explained as the adoption of this word sequence from its position before vd. C in 63.10, but the retroflexion in ṣiñcatā does not follow. In fact, in 63.10, though siñcata occurs after -u (vā́reṣu siñcata), there is no ruki-induced retroflexion over morpheme boundary (nor do we expect it).
-
-Instead I think we must explain the retroflexion as an effect of the preverb pári. By far the greatest number of the retroflexed initials of this root occur immediately after pári, esp. the passive stem (pari) ṣicyá- (15 exx.), but also the ppl. páriṣikta- (8x); see also, in the next hymn (IX.108.7), our exact 2nd pl. act. impv. pári ṣiñcata. There is also retroflexion after the preverb ní (5+), and after the particles tū́(2x) and hí (1x). All of these are contact-induced, unlike our example, where the preverb is separated from the verb. Under these circumstances, there is ordinarily no retroflexion (see pári … siñcata X.32.5, pári … siktáḥ IX.97.15). However, here I think either the numerous exx. of pári √ṣic in IX (15+) imposed distant retroflexion here where it was phonologically unmotivated, or an unretroflexed initial was changed redactionally under the influence of pári ṣiñcata in the next hymn.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -241,7 +238,6 @@ The vss. are knitted together by lexical repetition and variation. A sample of t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

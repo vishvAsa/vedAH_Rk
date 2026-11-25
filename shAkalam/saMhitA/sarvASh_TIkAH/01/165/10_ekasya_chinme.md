@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -98,7 +99,12 @@ eṣām ← ayám (pronoun)
 
 yā́ni ← yá- (pronoun)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एक॑स्य चिन्मे वि॒भ्व१॒॑स्त्वोजो॒ या नु द॑धृ॒ष्वान्कृ॒णवै॑ मनी॒षा ।  
+अ॒हं ह्यु१॒॑ग्रो म॑रुतो॒ विदा॑नो॒ यानि॒ च्यव॒मिन्द्र॒ इदी॑श एषाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ puṁsáḥ ← púmaṁs- (nominal stem)
 
 vahatúḥ ← vahatú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदिन्मे॑ छन्त्स॒द्वपु॑षो॒ वपु॑ष्टरं पु॒त्रो यज्जानं॑ पि॒त्रोर॒धीय॑ति ।  
+जा॒या पतिं॑ वहति व॒ग्नुना॑ सु॒मत्पुं॒स इद्भ॒द्रो व॑ह॒तुः परि॑ष्कृतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “decorate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

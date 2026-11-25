@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -63,7 +64,12 @@ kṣapáḥ ← kṣáp- (nominal stem)
 
 pūrvī́ḥ ← purú- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता वा॑म॒द्य ह॑वामहे ह॒व्येभि॑र्वाजिनीवसू ।  
+पू॒र्वीरि॒ष इ॒षय॑न्ता॒वति॑ क्ष॒पः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “night.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -71,7 +72,12 @@ jyótiḥ ← jyótis- (nominal stem)
 
 uttamám ← uttamá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्व॒यं तम॑स॒स्परि॒ ज्योति॒ष्पश्य॑न्त॒ उत्त॑रम् ।  
+दे॒वं दे॑व॒त्रा सूर्य॒मग॑न्म॒ ज्योति॑रुत्त॒मम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
     finest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

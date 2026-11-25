@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -51,7 +52,12 @@ vícarṣaṇim ← vícarṣaṇi- (nominal stem)
 
 sahásracakṣasam ← sahásracakṣas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र गा॑य॒त्रेण॑ गायत॒ पव॑मानं॒ विच॑र्षणिम् ।  
+इन्दुं॑ स॒हस्र॑चक्षसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +116,6 @@ _________
 - “eye; look; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -137,12 +142,6 @@ Sing forth with a song to the boundless self-purifying one,
 the drop with a thousand eyes.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The tr. “sing forth with a song” is meant to capture the etymological relationship of gāyatréṇa gāyata, but gāyatrá- of course refers more technically to a hymn in Gāyatrī meter
-
-- as this one indeed is.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -150,7 +149,6 @@ The chaining described in the published introduction. here involves repeating sa
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -74,7 +75,12 @@ indrāgnī́ ← indrāgní- (nominal stem)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॒ गव्ये॑भि॒रश्व्यै॑र्वस॒व्यै॒३॒॑रुप॑ गच्छतम् ।  
+सखा॑यौ दे॒वौ स॒ख्याय॑ श॒म्भुवे॑न्द्रा॒ग्नी ता ह॑वामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -211,7 +216,6 @@ The two partners, the two gods who are luck itself, Indra and Agni, do  we call 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -219,7 +223,6 @@ On the connection of these vss. to the hymn, see published introduction. For the
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

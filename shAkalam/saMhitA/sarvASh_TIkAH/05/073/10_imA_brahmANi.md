@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ br̥hát ← br̥hánt- (nominal stem)
 
 námaḥ ← námas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा ब्रह्मा॑णि॒ वर्ध॑ना॒श्विभ्यां॑ सन्तु॒ शन्त॑मा ।  
+या तक्षा॑म॒ रथाँ॑ इ॒वावो॑चाम बृ॒हन्नमः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - “adoration; court; namas \[word\]; bow; salute.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

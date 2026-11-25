@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -63,7 +64,12 @@ kát ← ká- (pronoun)
 
 stha ← √as- 1 (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जी॒वान्नो॑ अ॒भि धे॑त॒नादि॑त्यासः पु॒रा हथा॑त् ।  
+कद्ध॑ स्थ हवनश्रुतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “listening.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

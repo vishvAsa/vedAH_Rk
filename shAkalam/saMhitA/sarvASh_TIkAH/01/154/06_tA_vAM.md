@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -89,7 +90,12 @@ padám ← padá- (nominal stem)
 
 paramám ← paramá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता वां॒ वास्तू॑न्युश्मसि॒ गम॑ध्यै॒ यत्र॒ गावो॒ भूरि॑शृङ्गा अ॒यासः॑ ।  
+अत्राह॒ तदु॑रुगा॒यस्य॒ वृष्णः॑ पर॒मं प॒दमव॑ भाति॒ भूरि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

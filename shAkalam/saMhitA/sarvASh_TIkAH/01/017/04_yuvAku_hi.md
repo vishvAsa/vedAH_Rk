@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "पादनिचृत्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -51,7 +52,12 @@ bhūyā́ma ← √bhū- (root)
 
 vājadā́vnām ← vājadā́van- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वाकु॒ हि शची॑नां यु॒वाकु॑ सुमती॒नाम् ।  
+भू॒याम॑ वाज॒दाव्ना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - “giving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

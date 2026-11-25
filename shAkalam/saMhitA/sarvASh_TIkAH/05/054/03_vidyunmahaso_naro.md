@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -74,7 +75,12 @@ stanáyadamāḥ ← stanáyadama- (nominal stem)
 
 údojasaḥ ← údojas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒द्युन्म॑हसो॒ नरो॒ अश्म॑दिद्यवो॒ वात॑त्विषो म॒रुतः॑ पर्वत॒च्युतः॑ ।  
+अ॒ब्द॒या चि॒न्मुहु॒रा ह्रा॑दुनी॒वृतः॑ स्त॒नय॑दमा रभ॒सा उदो॑जसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “powerful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

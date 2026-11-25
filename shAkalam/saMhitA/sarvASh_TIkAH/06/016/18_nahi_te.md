@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ dúvaḥ ← dúvas- (nominal stem)
 
 vanavase ← √vanⁱ- (root)  
 {number:SG, person:2, mood:SBJV, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि ते॑ पू॒र्तम॑क्षि॒पद्भुव॑न्नेमानां वसो ।  
+अथा॒ दुवो॑ वनवसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “obtain; gain; desire; get; like; love; overcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

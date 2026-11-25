@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ svabdī́ ← svabdín- (nominal stem)
 
 váṁsagaḥ ← váṁsaga- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वर॑न्ति त्वा सु॒ते नरो॒ वसो॑ निरे॒क उ॒क्थिनः॑ ।  
+क॒दा सु॒तं तृ॑षा॒ण ओक॒ आ ग॑म॒ इन्द्र॑ स्व॒ब्दीव॒ वंस॑गः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “bull.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

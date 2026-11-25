@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -95,7 +96,12 @@ niyútvān ← niyútvant- (nominal stem)
 
 yuvase ← √yu- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता यो॑धिष्टम॒भि गा इ॑न्द्र नू॒नम॒पः स्व॑रु॒षसो॑ अग्न ऊ॒ळ्हाः ।  
+दिशः॒ स्व॑रु॒षस॑ इन्द्र चि॒त्रा अ॒पो गा अ॑ग्ने युवसे नि॒युत्वा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

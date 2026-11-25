@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नृमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ jyótiḥ ← jyótis- (nominal stem)
 
 ukthyàm ← ukthyà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सप्तिं॑ मृजन्ति वे॒धसो॑ गृ॒णन्तः॑ का॒रवो॑ गि॒रा ।  
+ज्योति॑र्जज्ञा॒नमु॒क्थ्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “applaudable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

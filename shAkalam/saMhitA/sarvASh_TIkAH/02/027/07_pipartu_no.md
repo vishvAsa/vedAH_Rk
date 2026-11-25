@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -80,7 +81,12 @@ syāma ← √as- 1 (root)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिप॑र्तु नो॒ अदि॑ती॒ राज॑पु॒त्राति॒ द्वेषां॑स्यर्य॒मा सु॒गेभिः॑ ।  
+बृ॒हन्मि॒त्रस्य॒ वरु॑णस्य॒ शर्मोप॑ स्याम पुरु॒वीरा॒ अरि॑ष्टाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “safe; unharmed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

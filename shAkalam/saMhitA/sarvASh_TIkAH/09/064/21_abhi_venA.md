@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -51,7 +52,12 @@ prácetasaḥ ← prácetas- (nominal stem)
 
 májjanti ← √majj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि वे॒ना अ॑नूष॒तेय॑क्षन्ति॒ प्रचे॑तसः ।  
+मज्ज॒न्त्यवि॑चेतसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +107,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -127,10 +132,6 @@ _________
 The seekers have cried out to (him); the discerning wish to attain (him). The undiscriminating sink down.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On vená- see comm. ad VIII.100.5.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -138,7 +139,6 @@ The undiscerning (ápracetasaḥ) in 20c are contrasted with the discerning (pr�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

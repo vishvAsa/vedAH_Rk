@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -65,7 +66,12 @@ gírvaṇastamā ← gírvaṇastama- (nominal stem)
 
 vidvā́ṁsā ← √vid- 2 (root)  
 {case:ACC, gender:M, number:DU, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता वा॒मेषे॒ रथा॑नामिन्द्रा॒ग्नी ह॑वामहे ।  
+पती॑ तु॒रस्य॒ राध॑सो वि॒द्वांसा॒ गिर्व॑णस्तमा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - \[noun\], accusative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

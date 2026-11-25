@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ utá ← utá (invariable)
 
 yā́man ← yā́man- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग्रावा॑णो॒ न सू॒रयः॒ सिन्धु॑मातर आदर्दि॒रासो॒ अद्र॑यो॒ न वि॒श्वहा॑ ।  
+शि॒शूला॒ न क्री॒ळयः॑ सुमा॒तरो॑ महाग्रा॒मो न याम॑न्नु॒त त्वि॒षा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “beam; color; beauty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इळः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इळः
@@ -92,7 +93,12 @@ naraḥ ← nár- (nominal stem)
 
 yajadhvam ← √yaj- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒ळि॒तो अ॑ग्ने॒ मन॑सा नो॒ अर्ह॑न्दे॒वान्य॑क्षि॒ मानु॑षा॒त्पूर्वो॑ अ॒द्य ।  
+स आ व॑ह म॒रुतां॒ शर्धो॒ अच्यु॑त॒मिन्द्रं॑ नरो बर्हि॒षदं॑ यजध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

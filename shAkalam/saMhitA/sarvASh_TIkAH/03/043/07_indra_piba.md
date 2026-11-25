@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vavártha ← √vr̥- (root)
 
 yásya ← yá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ पिब॒ वृष॑धूतस्य॒ वृष्ण॒ आ यं ते॑ श्ये॒न उ॑श॒ते ज॒भार॑ ।  
+यस्य॒ मदे॑ च्या॒वय॑सि॒ प्र कृ॒ष्टीर्यस्य॒ मदे॒ अप॑ गो॒त्रा व॒वर्थ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

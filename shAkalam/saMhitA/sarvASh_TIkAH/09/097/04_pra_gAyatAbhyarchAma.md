@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "इन्द्रप्रमतिर्वासिष्ठ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 sīdāti ← √sad- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र गा॑यता॒भ्य॑र्चाम दे॒वान्त्सोमं॑ हिनोत मह॒ते धना॑य ।  
+स्वा॒दुः प॑वाते॒ अति॒ वार॒मव्य॒मा सी॑दाति क॒लशं॑ देव॒युर्नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -245,7 +250,6 @@ The sweet one will purify himself across the sheep’s fleece. He will sit in  t
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -253,7 +257,6 @@ As Renou points out (ad vs. 6), the key to this tṛca is the dative of purpose:
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

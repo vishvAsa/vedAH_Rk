@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ svapatyā́ni ← svapatyá- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं वृषा॒ जना॑नां॒ मंहि॑ष्ठ इन्द्र जज्ञिषे ।  
+स॒त्रा विश्वा॑ स्वप॒त्यानि॑ दधिषे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -175,7 +180,6 @@ In every way you have acquired all things that bring good descendants.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
 <details><summary><h2>07-10 ...{Loading}...</h2></summary>
 
@@ -183,7 +187,6 @@ Every half-verse in this tṛca but 7c and 10c opens with a form of the 2nd sg. 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

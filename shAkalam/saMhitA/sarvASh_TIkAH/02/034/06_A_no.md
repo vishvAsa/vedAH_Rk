@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ kárta ← √kr̥- (root)
 
 vā́japeśasam ← vā́japeśas- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॒ ब्रह्मा॑णि मरुतः समन्यवो न॒रां न शंसः॒ सव॑नानि गन्तन ।  
+अश्वा॑मिव पिप्यत धे॒नुमूध॑नि॒ कर्ता॒ धियं॑ जरि॒त्रे वाज॑पेशसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “decoration; shape.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

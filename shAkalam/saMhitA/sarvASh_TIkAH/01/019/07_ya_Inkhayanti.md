@@ -4,6 +4,7 @@ devataa = "अग्निर्मरुतश्च"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्मरुतश्च
@@ -60,7 +61,12 @@ gahi ← √gam- (root)
 
 marúdbhiḥ ← marút- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य ई॒ङ्खय॑न्ति॒ पर्व॑तान्ति॒रः स॑मु॒द्रम॑र्ण॒वम् ।  
+म॒रुद्भि॑रग्न॒ आ ग॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -162,14 +167,12 @@ Those who make the mountains swing, across the undulating sea— with the Maruts
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/019/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 Geldner (sim. Renou) supplies a verb (“kommen”) with 7b. I am, as usual, reluctant to do so, but as Elizabeth Tucker points out, swinging the mountains across the sea is a very peculiar image. I would prefer to supply the ‘stretch’ (ā́… tánvanti) of the next verse, since the b pādas of 7-8 are structually identical, producing a tr. of 7ab “Those who make the mountains swing, (as they stretch) across the undulating sea.” However, Geldner/Renou don’t construe the ‘stretch’ verb with 8b either.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

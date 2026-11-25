@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ jā́gr̥viḥ ← jā́gr̥vi- (nominal stem)
 
 vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रा वस्त्रा॑ सम॒न्या॒३॒॑ वसा॑नो म॒हान्क॒विर्नि॒वच॑नानि॒ शंस॑न् ।  
+आ व॑च्यस्व च॒म्वोः॑ पू॒यमा॑नो विचक्ष॒णो जागृ॑विर्दे॒ववी॑तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - \[noun\], locative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -215,7 +220,6 @@ coil yourself into the two cups while being purified, wide-gazing and  watchful 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -223,7 +227,6 @@ No obvious cohesion in this tṛca, though it ends with a clan refrain.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

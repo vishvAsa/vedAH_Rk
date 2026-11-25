@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ vatsā́ya ← vatsá- (nominal stem)
 
 yachatam ← √yam- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यन्ना॑सत्या परा॒के अ॑र्वा॒के अस्ति॑ भेष॒जम् ।  
+तेन॑ नू॒नं वि॑म॒दाय॑ प्रचेतसा छ॒र्दिर्व॒त्साय॑ यच्छतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

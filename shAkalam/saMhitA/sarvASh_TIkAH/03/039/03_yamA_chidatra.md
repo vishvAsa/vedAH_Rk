@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ tamohánā ← tamohán- (nominal stem)
 
 tápuṣaḥ ← tápus- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒मा चि॒दत्र॑ यम॒सूर॑सूत जि॒ह्वाया॒ अग्रं॒ पत॒दा ह्यस्था॑त् ।  
+वपूं॑षि जा॒ता मि॑थु॒ना स॑चेते तमो॒हना॒ तपु॑षो बु॒ध्न एता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “come; travel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ mā́ ← mā́ (invariable)
 
 śiśrathaḥ ← √śrathⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॑ ब॒भ्रू वि॑चक्षण॒ शंसा॑मि गोषणो नपात् ।  
+माभ्यां॒ गा अनु॑ शिश्रथः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - \[verb\], singular, Aorist inj. (proh.)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

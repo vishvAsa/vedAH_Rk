@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "चित्रमहा वासिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ svastíbhiḥ ← svastí- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि त्वा॒ वसि॑ष्ठा अह्वन्त वा॒जिनं॑ गृ॒णन्तो॑ अग्ने वि॒दथे॑षु वे॒धसः॑ ।  
+रा॒यस्पोषं॒ यज॑मानेषु धारय यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

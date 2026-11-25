@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ gómantam ← gómant- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ प॑वस्व॒ हिर॑ण्यव॒दश्वा॑वत्सोम वी॒रव॑त् ।  
+वाजं॒ गोम॑न्त॒मा भ॑र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,14 +169,12 @@ bring hither a prize of cows.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 No evidence of unity, beyond vājínam (17b), vā́jaṃ (18c), and the vss. are quite hackneyed, even for Soma Gāyatrī hymns.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ pinvate ← √pinv- (root)
 
 úparā ← úpara- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स घा॒ राजा॒ सत्प॑तिः शूशुव॒ज्जनो॑ रा॒तह॑व्यः॒ प्रति॒ यः शास॒मिन्व॑ति ।  
+उ॒क्था वा॒ यो अ॑भिगृ॒णाति॒ राध॑सा॒ दानु॑रस्मा॒ उप॑रा पिन्वते दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

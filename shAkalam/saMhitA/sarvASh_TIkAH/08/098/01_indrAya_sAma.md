@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ panasyáve ← panasyú- (nominal stem)
 
 vipaścíte ← vipaścít- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑य॒ साम॑ गायत॒ विप्रा॑य बृह॒ते बृ॒हत् ।  
+ध॒र्म॒कृते॑ विप॒श्चिते॑ पन॒स्यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “brilliant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

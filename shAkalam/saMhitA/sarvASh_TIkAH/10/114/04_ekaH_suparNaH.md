@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सध्रिर्वैरूपो घर्मो वा तापसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -104,7 +105,12 @@ tám ← sá- ~ tá- (pronoun)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एकः॑ सुप॒र्णः स स॑मु॒द्रमा वि॑वेश॒ स इ॒दं विश्वं॒ भुव॑नं॒ वि च॑ष्टे ।  
+तं पाके॑न॒ मन॑सापश्य॒मन्ति॑त॒स्तं मा॒ता रे॑ळ्हि॒ स उ॑ रेळ्हि मा॒तर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -275,7 +281,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

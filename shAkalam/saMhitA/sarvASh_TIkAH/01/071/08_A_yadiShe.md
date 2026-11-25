@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sūdáyat ← √sūd- (root)
 
 svādhyàm ← svādhī́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यदि॒षे नृ॒पतिं॒ तेज॒ आन॒ट् छुचि॒ रेतो॒ निषि॑क्तं॒ द्यौर॒भीके॑ ।  
+अ॒ग्निः शर्ध॑मनव॒द्यं युवा॑नं स्वा॒ध्यं॑ जनयत्सू॒दय॑च्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

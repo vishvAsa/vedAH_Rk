@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sómaiḥ ← sóma- (nominal stem)
 
 sutébhiḥ ← √su- (root)  
 {case:INS, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा ते॒ हरी॒ वृष॑णा वी॒तपृ॑ष्ठा॒ नि री॑रम॒न्यज॑मानासो अ॒न्ये ।  
+अ॒त्याया॑हि॒ शश्व॑तो व॒यं तेऽरं॑ सु॒तेभिः॑ कृणवाम॒ सोमैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

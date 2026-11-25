@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ sumakha ← súmakha- (nominal stem)
 
 sutáḥ ← √su- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ द्वाभ्यां॒ हरि॑भ्यामिन्द्र या॒ह्या च॒तुर्भि॒रा ष॒ड्भिर्हू॒यमा॑नः ।  
+आष्टा॒भिर्द॒शभिः॑ सोम॒पेय॑म॒यं सु॒तः सु॑मख॒ मा मृध॑स्कः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

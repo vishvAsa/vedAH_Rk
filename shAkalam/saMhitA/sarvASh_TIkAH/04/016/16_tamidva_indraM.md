@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ spārhárādhāḥ ← spārhárādha- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमिद्व॒ इन्द्रं॑ सु॒हवं॑ हुवेम॒ यस्ता च॒कार॒ नर्या॑ पु॒रूणि॑ ।  
+यो माव॑ते जरि॒त्रे गध्यं॑ चिन्म॒क्षू वाजं॒ भर॑ति स्पा॒र्हरा॑धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

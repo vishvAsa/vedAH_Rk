@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ tasthau ← √sthā- (root)
 
 visargé ← visargá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्त म॒र्यादाः॑ क॒वय॑स्ततक्षु॒स्तासा॒मेका॒मिद॒भ्यं॑हु॒रो गा॑त् ।  
+आ॒योर्ह॑ स्क॒म्भ उ॑प॒मस्य॑ नी॒ळे प॒थां वि॑स॒र्गे ध॒रुणे॑षु तस्थौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

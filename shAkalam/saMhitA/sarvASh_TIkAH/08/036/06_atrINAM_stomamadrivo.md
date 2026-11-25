@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्यावाश्वः"
 ChandaH = "शक्वरी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -109,7 +110,12 @@ marútvān ← marútvant- (nominal stem)
 
 satpate ← sátpati- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्री॑णां॒ स्तोम॑मद्रिवो म॒हस्कृ॑धि॒ पिबा॒ सोमं॒ मदा॑य॒ कं श॑तक्रतो ।  
+यं ते॑ भा॒गमधा॑रय॒न्विश्वाः॑ सेहा॒नः पृत॑ना उ॒रु ज्रयः॒ सम॑प्सु॒जिन्म॒रुत्वाँ॑ इन्द्र सत्पते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -276,7 +282,6 @@ _________
 - “Indra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

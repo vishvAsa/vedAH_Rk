@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ vidhaté ← √vidh- (root)
 
 yantā́ ← yantár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र होता॑ जा॒तो म॒हान्न॑भो॒विन्नृ॒षद्वा॑ सीदद॒पामु॒पस्थे॑ ।  
+दधि॒र्यो धायि॒ स ते॒ वयां॑सि य॒न्ता वसू॑नि विध॒ते त॑नू॒पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “protecting.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

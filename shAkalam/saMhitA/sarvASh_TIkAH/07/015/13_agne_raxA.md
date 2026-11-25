@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ daha ← √dah- (root)
 
 tápiṣṭhaiḥ ← tápiṣṭha- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ रक्षा॑ णो॒ अंह॑सः॒ प्रति॑ ष्म देव॒ रीष॑तः ।  
+तपि॑ष्ठैर॒जरो॑ दह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
     distress; destroy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ své ← svá- (pronoun)
 
 toké ← toká- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॑ बोधि सहस्य प्र॒शंस्यो॒ यस्मि॑न्त्सुजा॒ता इ॒षय॑न्त सू॒रयः॑ ।  
+यम॑ग्ने य॒ज्ञमु॑प॒यन्ति॑ वा॒जिनो॒ नित्ये॑ तो॒के दी॑दि॒वांसं॒ स्वे दमे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “dwelling; home.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

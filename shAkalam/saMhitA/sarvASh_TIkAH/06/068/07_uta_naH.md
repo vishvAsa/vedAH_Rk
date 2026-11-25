@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ táturiḥ ← táturi- (nominal stem)
 
 tiráte ← √tr̥̄- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नः॑ सुत्रा॒त्रो दे॒वगो॑पाः सू॒रिभ्य॑ इन्द्रावरुणा र॒यिः ष्या॑त् ।  
+येषां॒ शुष्मः॒ पृत॑नासु सा॒ह्वान्प्र स॒द्यो द्यु॒म्ना ति॒रते॒ ततु॑रिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

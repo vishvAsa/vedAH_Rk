@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ johavīmi ← √hū- (root)
 
 madhupŕ̥cam ← madhupŕ̥c- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज्ञे॒या भा॒गं स॑हसा॒नो वरे॑ण॒ त्वादू॑तासो मनु॒वद्व॑देम ।  
+अनू॑नम॒ग्निं जु॒ह्वा॑ वच॒स्या म॑धु॒पृचं॑ धन॒सा जो॑हवीमि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “appeal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

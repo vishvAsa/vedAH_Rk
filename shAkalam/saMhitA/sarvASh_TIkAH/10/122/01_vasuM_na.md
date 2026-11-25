@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "चित्रमहा वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ hótā ← hótar- (nominal stem)
 
 suvī́ryam ← suvī́rya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वसुं॒ न चि॒त्रम॑हसं गृणीषे वा॒मं शेव॒मति॑थिमद्विषे॒ण्यम् ।  
+स रा॑सते शु॒रुधो॑ वि॒श्वधा॑यसो॒ऽग्निर्होता॑ गृ॒हप॑तिः सु॒वीर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

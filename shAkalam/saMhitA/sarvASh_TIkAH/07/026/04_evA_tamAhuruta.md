@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ priyā́ṇi ← priyá- (nominal stem)
 
 saścata ← √sac- 1 (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा तमा॑हुरु॒त शृ॑ण्व॒ इन्द्र॒ एको॑ विभ॒क्ता त॒रणि॑र्म॒घाना॑म् ।  
+मि॒थ॒स्तुर॑ ऊ॒तयो॒ यस्य॑ पू॒र्वीर॒स्मे भ॒द्राणि॑ सश्चत प्रि॒याणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     good; liked; suitable; proper.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

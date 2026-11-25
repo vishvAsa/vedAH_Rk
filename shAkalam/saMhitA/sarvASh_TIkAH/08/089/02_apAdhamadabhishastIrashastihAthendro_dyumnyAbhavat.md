@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ bŕ̥hadbhāno ← br̥hádbhānu- (nominal stem)
 
 márudgaṇa ← marúdgaṇa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपा॑धमद॒भिश॑स्तीरशस्ति॒हाथेन्द्रो॑ द्यु॒म्न्याभ॑वत् ।  
+दे॒वास्त॑ इन्द्र स॒ख्याय॑ येमिरे॒ बृह॑द्भानो॒ मरु॑द्गण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     Ganesa; flight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

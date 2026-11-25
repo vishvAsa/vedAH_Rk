@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ pátiḥ ← páti- (nominal stem)
 
 śūra ← śū́ra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पो वृ॒त्रं व॑व्रि॒वांसं॒ परा॑ह॒न्प्राव॑त्ते॒ वज्रं॑ पृथि॒वी सचे॑ताः ।  
+प्रार्णां॑सि समु॒द्रिया॑ण्यैनोः॒ पति॒र्भव॒ञ्छव॑सा शूर धृष्णो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “brave; ferocious; strong.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -243,17 +248,12 @@ You smashed away Vr̥tra, who had been enclosing the waters. Of one  mind with y
 You sped the seaward floods forward, becoming their lord by your  power, you daring champion.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner tr. párāhan as a 3rd sg., continuing the 3rd persons of vs. 6, but the rest of vs. 7 has 2nd ps. reference. The verb ahan, ambiguous between 2nd and 3rd sg., serves as a modulation form, as often (cf. I.32.3d, 4a, for ex.).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/016/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these two vss. tease apart the Vala and Vṛtra myths that have been intertwined in the previous vss., with the Vṛtra myth allotted to vs. 7 and the Vala myth to vs. 8. But even with the clear mention of Vṛtra in 7a and Saramā in 8b, there is some ambiguity, centered on the apó beginning 8a. See comm. on vs. 8.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

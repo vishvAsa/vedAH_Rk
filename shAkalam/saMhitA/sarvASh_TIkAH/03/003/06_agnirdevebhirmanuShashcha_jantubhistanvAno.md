@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -80,7 +81,12 @@ dámūnāḥ ← dámūnas- (nominal stem)
 
 jīráḥ ← jīrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्दे॒वेभि॒र्मनु॑षश्च ज॒न्तुभि॑स्तन्वा॒नो य॒ज्ञं पु॑रु॒पेश॑सं धि॒या ।  
+र॒थीर॒न्तरी॑यते॒ साध॑दिष्टिभिर्जी॒रो दमू॑ना अभिशस्ति॒चात॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “removing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

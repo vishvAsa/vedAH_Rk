@@ -4,6 +4,7 @@ devataa = "वागांभृणी"
 RShiH = "वागांभृणी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वागांभृणी
@@ -80,7 +81,12 @@ bhū́ri ← bhū́ri- (nominal stem)
 
 bhū́risthātrām ← bhū́risthātra- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं राष्ट्री॑ सं॒गम॑नी॒ वसू॑नां चिकि॒तुषी॑ प्रथ॒मा य॒ज्ञिया॑नाम् ।  
+तां मा॑ दे॒वा व्य॑दधुः पुरु॒त्रा भूरि॑स्थात्रां॒ भूर्या॑वे॒शय॑न्तीम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “rest; put; soak.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

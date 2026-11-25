@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ rutásya ← √ru- (root)
 
 yuvā́m ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒मा॒जुर॑श्चिद्भवथो यु॒वं भगो॑ऽना॒शोश्चि॑दवि॒तारा॑प॒मस्य॑ चित् ।  
+अ॒न्धस्य॑ चिन्नासत्या कृ॒शस्य॑ चिद्यु॒वामिदा॑हुर्भि॒षजा॑ रु॒तस्य॑ चित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “even; indeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

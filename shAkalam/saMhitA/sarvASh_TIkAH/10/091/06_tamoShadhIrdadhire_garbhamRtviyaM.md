@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अरुणो वैतहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ súvate ← √sū- 2 (root)
 
 viśváhā ← viśváhā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमोष॑धीर्दधिरे॒ गर्भ॑मृ॒त्वियं॒ तमापो॑ अ॒ग्निं ज॑नयन्त मा॒तरः॑ ।  
+तमित्स॑मा॒नं व॒निन॑श्च वी॒रुधो॒ऽन्तर्व॑तीश्च॒ सुव॑ते च वि॒श्वहा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

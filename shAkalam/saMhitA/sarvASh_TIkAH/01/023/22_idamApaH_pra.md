@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -86,7 +87,12 @@ vā ← vā (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दमा॑पः॒ प्र व॑हत॒ यत्किं च॑ दुरि॒तं मयि॑ ।  
+यद्वा॒हम॑भिदु॒द्रोह॒ यद्वा॑ शे॒प उ॒तानृ॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “false; untrue; lying(a); false.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

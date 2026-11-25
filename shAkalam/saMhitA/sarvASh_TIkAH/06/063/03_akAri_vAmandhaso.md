@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ nákṣantaḥ ← √nakṣ- (root)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अका॑रि वा॒मन्ध॑सो॒ वरी॑म॒न्नस्ता॑रि ब॒र्हिः सु॑प्राय॒णत॑मम् ।  
+उ॒त्ता॒नह॑स्तो युव॒युर्व॑व॒न्दा वां॒ नक्ष॑न्तो॒ अद्र॑य आञ्जन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “smear; anoint; mix; color.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

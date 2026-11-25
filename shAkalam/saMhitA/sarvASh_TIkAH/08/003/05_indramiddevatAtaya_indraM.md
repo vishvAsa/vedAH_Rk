@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ dhánasya ← dhána- (nominal stem)
 
 sātáye ← sātí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒मिद्दे॒वता॑तय॒ इन्द्रं॑ प्रय॒त्य॑ध्व॒रे ।  
+इन्द्रं॑ समी॒के व॒निनो॑ हवामह॒ इन्द्रं॒ धन॑स्य सा॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “victory; acquisition; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -184,7 +189,6 @@ indra, when the ritual begins,
 indra, imploring him in battle,  
 indra, in the contest for wealth.
 </details>
-
 
 <details><summary>Wilson</summary>
 

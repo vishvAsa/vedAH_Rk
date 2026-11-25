@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ vā́re ← vā́ra- 1 (nominal stem)
 
 dhītáyaḥ ← dhītí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॒ कोशं॑ मधु॒श्चुत॒मसृ॑ग्रं॒ वारे॑ अ॒व्यये॑ ।  
+अवा॑वशन्त धी॒तयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “thinking; prayer; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -146,7 +151,6 @@ The insightful thoughts have bellowed.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -154,7 +158,6 @@ This tṛca is thematically unified by the journey theme, reinforced by two form
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

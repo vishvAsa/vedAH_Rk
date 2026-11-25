@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः सौचीको वैश्वानरो वा सप्तिर्वा वाजंभरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ purutrā́ ← purutrā́ (invariable)
 
 víbhr̥tā ← √bhr̥- (root)  
 {case:NOM, gender:N, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्दा॒द्द्रवि॑णं वी॒रपे॑शा अ॒ग्निरृषिं॒ यः स॒हस्रा॑ स॒नोति॑ ।  
+अ॒ग्निर्दि॒वि ह॒व्यमा त॑ताना॒ग्नेर्धामा॑नि॒ विभृ॑ता पुरु॒त्रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “distributively.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

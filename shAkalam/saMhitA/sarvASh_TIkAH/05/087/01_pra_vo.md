@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "एवयामरुदात्रेयः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -85,7 +86,12 @@ dhúnivratāya ← dhúnivrata- (nominal stem)
 
 śávase ← śávas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॑ म॒हे म॒तयो॑ यन्तु॒ विष्ण॑वे म॒रुत्व॑ते गिरि॒जा ए॑व॒याम॑रुत् ।  
+प्र शर्धा॑य॒ प्रय॑ज्यवे सुखा॒दये॑ त॒वसे॑ भ॒न्ददि॑ष्टये॒ धुनि॑व्रताय॒ शव॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

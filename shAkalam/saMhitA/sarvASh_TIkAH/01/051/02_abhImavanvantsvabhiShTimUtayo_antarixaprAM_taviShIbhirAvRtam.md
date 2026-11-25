@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ jávanī ← jávana- (nominal stem)
 
 sūnŕ̥tā ← sūnŕ̥ta- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भीम॑वन्वन्त्स्वभि॒ष्टिमू॒तयो॑ऽन्तरिक्ष॒प्रां तवि॑षीभि॒रावृ॑तम् ।  
+इन्द्रं॒ दक्षा॑स ऋ॒भवो॑ मद॒च्युतं॑ श॒तक्र॑तुं॒ जव॑नी सू॒नृतारु॑हत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

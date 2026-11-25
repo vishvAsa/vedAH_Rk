@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ ní ← ní (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्वी॒र्यं॑ वो मरुतो महित्व॒नं दी॒र्घं त॑तान॒ सूर्यो॒ न योज॑नम् ।  
+एता॒ न यामे॒ अगृ॑भीतशोचि॒षोऽन॑श्वदां॒ यन्न्यया॑तना गि॒रिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

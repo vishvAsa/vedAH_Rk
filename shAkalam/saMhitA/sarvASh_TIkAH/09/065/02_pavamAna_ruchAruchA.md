@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ viśa ← √viś- (root)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मान रु॒चारु॑चा दे॒वो दे॒वेभ्य॒स्परि॑ ।  
+विश्वा॒ वसू॒न्या वि॑श ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,12 +161,6 @@ _________
 O self-purifying one, with light after light, as god from among the gods, enter all good things.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The āmreḍita rucā́-rucā evokes the single instr. rucā́at the end of the preceding hymn, IX.64.28 (also vs. 13 of the same hymn and vs. 27 of this one).
-
-Pāda c is characterized by alliteration of an unremarkable type: víśvā vásūny ā́viśa.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -171,7 +170,6 @@ pávamāna- and 3 also the impv. ā́… pavasva, but esp. in this hymn, the app
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

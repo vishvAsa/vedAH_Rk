@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 ugrā́ḥ ← ugrá- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वृ॒धन्तं॒ मारु॑तं॒ भ्राज॑दृष्टिं रु॒द्रस्य॑ सू॒नुं ह॒वसा वि॑वासे ।  
+दि॒वः शर्धा॑य॒ शुच॑यो मनी॒षा गि॒रयो॒ नाप॑ उ॒ग्रा अ॑स्पृध्रन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “rival.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

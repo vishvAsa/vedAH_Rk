@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -62,7 +63,12 @@ pārayiṣṇvàḥ ← pārayiṣṇú- (nominal stem)
 
 vīrúdhaḥ ← vīrúdh- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओष॑धीः॒ प्रति॑ मोदध्वं॒ पुष्प॑वतीः प्र॒सूव॑रीः ।  
+अश्वा॑ इव स॒जित्व॑रीर्वी॒रुधः॑ पारयि॒ष्ण्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - \[noun\], nominative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

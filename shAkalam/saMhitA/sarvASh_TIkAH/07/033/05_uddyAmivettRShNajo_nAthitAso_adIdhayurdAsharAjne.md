@@ -4,6 +4,7 @@ devataa = "वसिष्ठपुत्राः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वसिष्ठपुत्राः
@@ -83,7 +84,12 @@ ulokám ← uloká- (nominal stem)
 
 urúm ← urú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्द्यामि॒वेत्तृ॒ष्णजो॑ नाथि॒तासोऽदी॑धयुर्दाशरा॒ज्ञे वृ॒तासः॑ ।  
+वसि॑ष्ठस्य स्तुव॒त इन्द्रो॑ अश्रोदु॒रुं तृत्सु॑भ्यो अकृणोदु लो॒कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     \[word\]; space; Loka; topographic point; region; common sense.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

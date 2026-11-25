@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -86,7 +87,12 @@ sá ← sá- ~ tá- (pronoun)
 
 yacha ← √yam- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ व्र॒ते पृ॑थि॒वी नन्न॑मीति॒ यस्य॑ व्र॒ते श॒फव॒ज्जर्भु॑रीति ।  
+यस्य॑ व्र॒त ओष॑धीर्वि॒श्वरू॑पाः॒ स नः॑ पर्जन्य॒ महि॒ शर्म॑ यच्छ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

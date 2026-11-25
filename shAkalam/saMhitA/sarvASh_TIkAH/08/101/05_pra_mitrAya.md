@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ;मित्रावरुणौ~�
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ;मित्रावरुणौ~आदित्याः
@@ -71,7 +72,12 @@ rā́jasu ← rā́jan- (nominal stem)
 
 stotrám ← stotrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र मि॒त्राय॒ प्रार्य॒म्णे स॑च॒थ्य॑मृतावसो ।  
+व॒रू॒थ्यं१॒॑ वरु॑णे॒ छन्द्यं॒ वचः॑ स्तो॒त्रं राज॑सु गायत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “sing; praise; jap; recite; describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

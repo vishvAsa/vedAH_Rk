@@ -4,6 +4,7 @@ devataa = "अहिः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अहिः
@@ -52,7 +53,11 @@ rájassu ← rájas- (nominal stem)
 
 sī́dan ← √sad- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ब्जामु॒क्थैरहिं॑ गृणीषे बु॒ध्ने न॒दीनां॒ रज॑स्सु॒ षीद॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +122,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

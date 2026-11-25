@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -80,7 +81,12 @@ ihá ← ihá (invariable)
 
 suśríyam ← suśrī́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒न्द्रम॒ग्निं च॒न्द्रर॑थं॒ हरि॑व्रतं वैश्वान॒रम॑प्सु॒षदं॑ स्व॒र्विद॑म् ।  
+वि॒गा॒हं तूर्णिं॒ तवि॑षीभि॒रावृ॑तं॒ भूर्णिं॑ दे॒वास॑ इ॒ह सु॒श्रियं॑ दधुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

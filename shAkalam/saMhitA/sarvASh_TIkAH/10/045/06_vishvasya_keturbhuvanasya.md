@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ páñca ← páñca- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्व॑स्य के॒तुर्भुव॑नस्य॒ गर्भ॒ आ रोद॑सी अपृणा॒ज्जाय॑मानः ।  
+वी॒ळुं चि॒दद्रि॑मभिनत्परा॒यञ्जना॒ यद॒ग्निमय॑जन्त॒ पञ्च॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “five; fifth; pañcan \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

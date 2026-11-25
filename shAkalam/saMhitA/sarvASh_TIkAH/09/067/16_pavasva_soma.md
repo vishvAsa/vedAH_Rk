@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "द्विपदा गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -43,7 +44,11 @@ soma ← sóma- (nominal stem)
 
 mádhumattamaḥ ← mádhumattama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व सोम म॒न्दय॒न्निन्द्रा॑य॒ मधु॑मत्तमः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -82,7 +87,6 @@ _________
 - “sweetest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -109,14 +113,12 @@ Purify yourself, Soma, causing exhilaration, most honeyed for Indra.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 This tṛca, ascribed to Jamadagni, is unifed first and foremost by its meter, Dvipadā Gāyatrī, the only representative of this meter in the hymn - and in fact in all of the RV (see Arnold p. 244). There is no particular unity in lexicon (though note mandáyan 16a and madíntamaḥ 18a), but the tṛca does mention the two gods who receive the first soma oblation, Indra (16) and Vāyu (18).
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

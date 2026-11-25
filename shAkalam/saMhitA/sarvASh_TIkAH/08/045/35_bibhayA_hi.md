@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ dasmā́t ← dasmá- (nominal stem)
 
 r̥tīṣáhaḥ ← r̥tīṣáh- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बि॒भया॒ हि त्वाव॑त उ॒ग्राद॑भिप्रभ॒ङ्गिणः॑ ।  
+द॒स्माद॒हमृ॑ती॒षहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +116,6 @@ _________
 - \[noun\], ablative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

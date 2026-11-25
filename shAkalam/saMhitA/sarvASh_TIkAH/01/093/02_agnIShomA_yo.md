@@ -4,6 +4,7 @@ devataa = "अग्नीषोमौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नीषोमौ
@@ -71,7 +72,12 @@ póṣam ← póṣa- (nominal stem)
 
 sváśvyam ← sváśvya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्नी॑षोमा॒ यो अ॒द्य वा॑मि॒दं वचः॑ सप॒र्यति॑ ।  
+तस्मै॑ धत्तं सु॒वीर्यं॒ गवां॒ पोषं॒ स्वश्व्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

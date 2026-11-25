@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ sī́dati ← √sad- (root)
 
 jáhāti ← √hā- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यद्योनिं॑ हिर॒ण्यय॑मा॒शुरृ॒तस्य॒ सीद॑ति ।  
+जहा॒त्यप्र॑चेतसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “anserine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,7 +165,6 @@ he leaves behind the undiscerning.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -168,7 +172,6 @@ The undiscerning (ápracetasaḥ) in 20c are contrasted with the discerning (pr�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

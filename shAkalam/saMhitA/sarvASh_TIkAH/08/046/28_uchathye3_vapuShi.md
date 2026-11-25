@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वशोश्व्यः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -80,7 +81,12 @@ tát ← sá- ~ tá- (pronoun)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒च॒थ्ये॒३॒॑ वपु॑षि॒ यः स्व॒राळु॒त वा॑यो घृत॒स्नाः ।  
+अश्वे॑षितं॒ रजे॑षितं॒ शुने॑षितं॒ प्राज्म॒ तदि॒दं नु तत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     \[word\]; dative; once; same.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)
 
 vípram ← vípra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि त्यं मे॒षं पु॑रुहू॒तमृ॒ग्मिय॒मिन्द्रं॑ गी॒र्भिर्म॑दता॒ वस्वो॑ अर्ण॒वम् ।  
+यस्य॒ द्यावो॒ न वि॒चर॑न्ति॒ मानु॑षा भु॒जे मंहि॑ष्ठम॒भि विप्र॑मर्चत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “sing; worship; honor; praise; welcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

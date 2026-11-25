@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ br̥hádbhānuḥ ← br̥hádbhānu- (nominal stem)
 
 ukthaíḥ ← ukthá- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स रे॒वाँ इ॑व वि॒श्पति॒र्दैव्यः॑ के॒तुः शृ॑णोतु नः ।  
+उ॒क्थैर॒ग्निर्बृ॒हद्भा॑नुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “Agni; Bṛhadbhānu; Vishnu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

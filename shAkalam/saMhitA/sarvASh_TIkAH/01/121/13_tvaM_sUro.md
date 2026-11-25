@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -86,7 +87,12 @@ avartayaḥ ← √vr̥t- (root)
 
 kartám ← kartá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं सूरो॑ ह॒रितो॑ रामयो॒ नॄन्भर॑च्च॒क्रमेत॑शो॒ नायमि॑न्द्र ।  
+प्रास्य॑ पा॒रं न॑व॒तिं ना॒व्या॑ना॒मपि॑ क॒र्तम॑वर्त॒योऽय॑ज्यून् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “worshiping.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

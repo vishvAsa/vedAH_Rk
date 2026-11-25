@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ dātrám ← dātrá- (nominal stem)
 
 r̥jíśvane ← r̥jíśvan- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि पिप्रो॒रहि॑मायस्य दृ॒ळ्हाः पुरो॑ वज्रि॒ञ्छव॑सा॒ न द॑र्दः ।  
+सुदा॑म॒न्तद्रेक्णो॑ अप्रमृ॒ष्यमृ॒जिश्व॑ने दा॒त्रं दा॒शुषे॑ दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

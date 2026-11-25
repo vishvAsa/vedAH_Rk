@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -60,7 +61,12 @@ pūṣā́ ← pūṣán- (nominal stem)
 
 vándyāsaḥ ← vándya- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि नः॑ प॒थः सु॑वि॒ताय॑ चि॒यन्त्विन्द्रो॑ म॒रुतः॑ ।  
+पू॒षा भगो॒ वन्द्या॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “worship; laud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

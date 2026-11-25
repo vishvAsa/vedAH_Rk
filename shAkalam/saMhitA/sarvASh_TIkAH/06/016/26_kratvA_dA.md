@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ mártaḥ ← márta- (nominal stem)
 
 suvr̥ktím ← suvr̥ktí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्रत्वा॒ दा अ॑स्तु॒ श्रेष्ठो॒ऽद्य त्वा॑ व॒न्वन्त्सु॒रेक्णाः॑ ।  
+मर्त॑ आनाश सुवृ॒क्तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

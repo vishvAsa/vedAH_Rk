@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -97,7 +98,12 @@ víṣṇo ← víṣṇu- (nominal stem)
 
 vitse ← √vid- 2 (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒रो मात्र॑या त॒न्वा॑ वृधान॒ न ते॑ महि॒त्वमन्व॑श्नुवन्ति ।  
+उ॒भे ते॑ विद्म॒ रज॑सी पृथि॒व्या विष्णो॑ देव॒ त्वं प॑र॒मस्य॑ वित्से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -243,7 +248,6 @@ _________
 
 __________________
 हे विष्णो देव मात्रया कृत्स्नं जगन्मातुं प्रवृत्तया तनुवा त्रिविक्रमावताररूपया मूर्त्या वृधान हे वर्धमान परः उत्कृष्टोऽसि । ते त्वदीयं महित्वं महिमानं नान्यश्नुवन्ति केऽपि समर्था अनुगन्तुं न क्षमन्ते । ते तव लोकान्मातुं प्रवृत्तस्य पृथिव्या आरभ्योभे रजसी द्वे रञ्जनस्थाने पृथिव्यन्तरिक्षमित्येते त्वदीयपदे इति वयं विद्मः । त्वं पुनः परमस्योत्कृष्टस्य तृतीयस्य पदस्य स्थानं वित्से जानासि ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -265,12 +269,6 @@ O you who have grown with your body beyond measure, they do not  attain to your 
 We (only) know both your dusky realms of the earth; god Viṣṇu, you  yourself know the farthest one.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Renou supplies “other gods” as the subj. of ánv aśnuvanti in b. This seems perfectly acceptable, though not strictly necessary. And since in vs. 2 it is, presumably, mortals (since they are ‘born’) who fail to reach the limit of Viṣṇu’s greatness, mortals could also be the subject here. See remarks below on the formulatic connection between the two vss.
-
-As Renou points out, both the case of the complement (acc. versus gen.) and the voice (act. versus mid.) differ between 1st pl. vidma in c and 2nd sg. vitse in d. The middle voice of vitse makes sense, since Viṣṇu knows his own farthest realm; the variation in case is harder to account for. Perhaps the two earthly realms are subjects of direct knowledge, while the farthest realm is something even Viṣṇu only knows of.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/099/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -278,7 +276,6 @@ The b-pādas of these two vss. are variants of each other, using two different r
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

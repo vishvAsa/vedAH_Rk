@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ paribhū́ḥ ← paribhū́- (nominal stem)
 
 svàr ← svàr- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॒स्य पा॒रे रज॑सो॒ व्यो॑मनः॒ स्वभू॑त्योजा॒ अव॑से धृषन्मनः ।  
+च॒कृ॒षे भूमिं॑ प्रति॒मान॒मोज॑सो॒ऽपः स्वः॑ परि॒भूरे॒ष्या दिव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

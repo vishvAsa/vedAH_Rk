@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "लुशो धानाकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ rāsatām ← √rā- 1 (root)
 
 savitā́ ← savitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒वि॒ता प॒श्चाता॑त्सवि॒ता पु॒रस्ता॑त्सवि॒तोत्त॒रात्ता॑त्सवि॒ताध॒रात्ता॑त् ।  
+स॒वि॒ता नः॑ सुवतु स॒र्वता॑तिं सवि॒ता नो॑ रासतां दी॒र्घमायुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

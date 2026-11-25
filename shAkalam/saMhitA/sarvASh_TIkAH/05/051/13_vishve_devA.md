@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "जगती त्रिष्टुब्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,14 @@ rudráḥ ← rudrá- (nominal stem)
 
 svastí ← svastí- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ दे॒वा नो॑ अ॒द्या स्व॒स्तये॑  
+वैश्वान॒रो वसु॑र् अ॒ग्निः स्व॒स्तये॑ ।  
+दे॒वा अ॑वन्त्व् ऋ॒भवः॑ स्व॒स्तये॑  
+स्व॒स्ति नो॑ रु॒द्रः पा॒त्वंह॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +221,6 @@ _________
 - “trouble; sin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -241,7 +248,6 @@ Let the gods, the R̥bhus give aid for (our) well-being. With well-being  let Ru
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
 <details><summary><h2>11-15 ...{Loading}...</h2></summary>
 
@@ -251,7 +257,6 @@ Its lexical hero is svastí-, a form of which appears in every pāda between 11a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

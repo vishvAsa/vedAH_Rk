@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ návanta ← √nu- ~ nū- (root)
 
 yathā ← yathā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं न॑ इन्द्र शूर॒ शूरै॑रु॒त त्वोता॑सो ब॒र्हणा॑ ।  
+पु॒रु॒त्रा ते॒ वि पू॒र्तयो॒ नव॑न्त क्षो॒णयो॑ यथा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

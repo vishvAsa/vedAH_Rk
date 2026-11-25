@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ vāmám ← vāmá- (nominal stem)
 
 vásyaḥ ← vásyaṁs- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नः॑ सु॒द्योत्मा॑ जी॒राश्वो॒ होता॑ म॒न्द्रः शृ॑णवच्च॒न्द्रर॑थः ।  
+स नो॑ नेष॒न्नेष॑तमै॒रमू॑रो॒ऽग्निर्वा॒मं सु॑वि॒तं वस्यो॒ अच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

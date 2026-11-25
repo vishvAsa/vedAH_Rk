@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ dyaúḥ ← dyú- ~ div- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒शना॒ यत्प॑रा॒वत॑ उ॒क्ष्णो रन्ध्र॒मया॑तन ।  
+द्यौर्न च॑क्रदद्भि॒या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “fear; bhī; alarm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

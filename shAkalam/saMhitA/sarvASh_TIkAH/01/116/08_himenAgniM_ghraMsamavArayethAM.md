@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ svastí ← svastí- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हि॒मेना॒ग्निं घ्रं॒सम॑वारयेथां पितु॒मती॒मूर्ज॑मस्मा अधत्तम् ।  
+ऋ॒बीसे॒ अत्रि॑मश्वि॒नाव॑नीत॒मुन्नि॑न्यथुः॒ सर्व॑गणं स्व॒स्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
     well; luck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

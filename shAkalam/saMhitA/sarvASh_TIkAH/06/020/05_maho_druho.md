@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sātaú ← sātí- (nominal stem)
 
 sū́ryasya ← sū́rya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हो द्रु॒हो अप॑ वि॒श्वायु॑ धायि॒ वज्र॑स्य॒ यत्पत॑ने॒ पादि॒ शुष्णः॑ ।  
+उ॒रु ष स॒रथं॒ सार॑थये क॒रिन्द्रः॒ कुत्सा॑य॒ सूर्य॑स्य सा॒तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “victory; acquisition; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -271,10 +276,6 @@ A whole lifetime of great deception was set aside when Śuṣṇa was felled  at
 Sharing the same chariot, Indra made a wide way for Kutsa, the sharer  of his chariot, at the winning of the sun.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-For the unusual position of sá and its rukied initial (urú ṣá) see disc. ad VI.2.4.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/020/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -282,7 +283,6 @@ As Geldner (n. 4-5) notes, these two vss. probably belong together as an account
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ devéṣu ← devá- (nominal stem)
 
 dhíyaḥ ← dhī́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स पू॒र्व्यो म॒हानां॑ वे॒नः क्रतु॑भिरानजे ।  
+यस्य॒ द्वारा॒ मनु॑ष्पि॒ता दे॒वेषु॒ धिय॑ आन॒जे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “smear; anoint; mix; color.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

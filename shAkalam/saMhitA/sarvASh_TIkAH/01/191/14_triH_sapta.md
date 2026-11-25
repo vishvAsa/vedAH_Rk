@@ -4,6 +4,7 @@ devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अप्तृणसूर्याः
@@ -74,7 +75,12 @@ kumbhínīḥ ← kumbhín- (nominal stem)
 
 udakám ← udaká- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिः स॒प्त म॑यू॒र्यः॑ स॒प्त स्वसा॑रो अ॒ग्रुवः॑ ।  
+तास्ते॑ वि॒षं वि ज॑भ्रिर उद॒कं कु॒म्भिनी॑रिव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

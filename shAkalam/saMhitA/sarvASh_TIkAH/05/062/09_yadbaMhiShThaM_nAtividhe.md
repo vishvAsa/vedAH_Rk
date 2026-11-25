@@ -5,13 +5,13 @@ RShiH = "श्रुतिविदात्रेयः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
 - ऋषिः - श्रुतिविदात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -82,7 +82,12 @@ síṣāsantaḥ ← √sanⁱ- (root)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्बंहि॑ष्ठं॒ नाति॒विधे॑ सुदानू॒ अच्छि॑द्रं॒ शर्म॑ भुवनस्य गोपा ।  
+तेन॑ नो मित्रावरुणावविष्टं॒ सिषा॑सन्तो जिगी॒वांसः॑ स्याम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +196,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -237,8 +241,6 @@ Welch Schutz der stärkste, welcher undurchbrechbar, untilgbar ist, freigieb'ge 
 Им, о Митра-Варуна, защитите нас!  
 Желая добыть, пусть будем мы победителями всегда!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

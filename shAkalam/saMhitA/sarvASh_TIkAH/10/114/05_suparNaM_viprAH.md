@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सध्रिर्वैरूपो घर्मो वा तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ mimate ← √mā- 1 (root)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒प॒र्णं विप्राः॑ क॒वयो॒ वचो॑भि॒रेकं॒ सन्तं॑ बहु॒धा क॑ल्पयन्ति ।  
+छन्दां॑सि च॒ दध॑तो अध्व॒रेषु॒ ग्रहा॒न्त्सोम॑स्य मिमते॒ द्वाद॑श ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “twelve; twelfth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

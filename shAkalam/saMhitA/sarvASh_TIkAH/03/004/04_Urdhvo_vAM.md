@@ -4,6 +4,7 @@ devataa = "बर्हिः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बर्हिः
@@ -89,7 +90,12 @@ str̥ṇīmáhi ← √str̥̄- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वो वां॑ गा॒तुर॑ध्व॒रे अ॑कार्यू॒र्ध्वा शो॒चींषि॒ प्रस्थि॑ता॒ रजां॑सि ।  
+दि॒वो वा॒ नाभा॒ न्य॑सादि॒ होता॑ स्तृणी॒महि॑ दे॒वव्य॑चा॒ वि ब॒र्हिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “Barhis; barhis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

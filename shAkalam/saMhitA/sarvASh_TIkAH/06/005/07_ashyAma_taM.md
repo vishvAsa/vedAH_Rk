@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ dyumnám ← dyumná- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒श्याम॒ तं काम॑मग्ने॒ तवो॒ती अ॒श्याम॑ र॒यिं र॑यिवः सु॒वीर॑म् ।  
+अ॒श्याम॒ वाज॑म॒भि वा॒जय॑न्तो॒ऽश्याम॑ द्यु॒म्नम॑जरा॒जरं॑ ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

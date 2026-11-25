@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ páyaḥ ← páyas- (nominal stem)
 
 yā́ḥ ← yá- (pronoun)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कु॒विद्वृ॑ष॒ण्यन्ती॑भ्यः पुना॒नो गर्भ॑मा॒दध॑त् ।  
+याः शु॒क्रं दु॑ह॒ते पयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

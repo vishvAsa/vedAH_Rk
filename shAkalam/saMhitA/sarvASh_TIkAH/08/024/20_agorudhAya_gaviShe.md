@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ svā́dīyaḥ ← svā́dīyaṁs- (nominal stem)
 
 vocata ← √vac- (root)  
 {number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अगो॑रुधाय ग॒विषे॑ द्यु॒क्षाय॒ दस्म्यं॒ वचः॑ ।  
+घृ॒तात्स्वादी॑यो॒ मधु॑नश्च वोचत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

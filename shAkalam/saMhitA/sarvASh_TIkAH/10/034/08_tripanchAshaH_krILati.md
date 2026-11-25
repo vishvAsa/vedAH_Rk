@@ -4,6 +4,7 @@ devataa = "अक्षकितवनिन्दा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकितवनिन्दा
@@ -92,7 +93,12 @@ námaḥ ← námas- (nominal stem)
 
 rā́jā ← rā́jan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रि॒प॒ञ्चा॒शः क्री॑ळति॒ व्रात॑ एषां दे॒व इ॑व सवि॒ता स॒त्यध॑र्मा ।  
+उ॒ग्रस्य॑ चिन्म॒न्यवे॒ ना न॑मन्ते॒ राजा॑ चिदेभ्यो॒ नम॒ इत्कृ॑णोति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

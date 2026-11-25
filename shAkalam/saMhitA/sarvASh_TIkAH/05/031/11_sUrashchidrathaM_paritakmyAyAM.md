@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ purás ← purás (invariable)
 
 saniṣyati ← √sanⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:FUT, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सूर॑श्चि॒द्रथं॒ परि॑तक्म्यायां॒ पूर्वं॑ कर॒दुप॑रं जूजु॒वांस॑म् ।  
+भर॑च्च॒क्रमेत॑शः॒ सं रि॑णाति पु॒रो दध॑त्सनिष्यति॒ क्रतुं॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

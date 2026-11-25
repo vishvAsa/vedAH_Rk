@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -86,7 +87,12 @@ tám ← sá- ~ tá- (pronoun)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमू॒र्मिमा॑पो॒ मधु॑मत्तमं वो॒ऽपां नपा॑दवत्वाशु॒हेमा॑ ।  
+यस्मि॒न्निन्द्रो॒ वसु॑भिर्मा॒दया॑ते॒ तम॑श्याम देव॒यन्तो॑ वो अ॒द्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “now; today; then; nowadays; adya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

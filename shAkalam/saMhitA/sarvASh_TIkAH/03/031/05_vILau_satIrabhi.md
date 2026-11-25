@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tā́ ← sá- ~ tá- (pronoun)
 
 viveśa ← √viś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॒ळौ स॒तीर॒भि धीरा॑ अतृन्दन्प्रा॒चाहि॑न्व॒न्मन॑सा स॒प्त विप्राः॑ ।  
+विश्वा॑मविन्दन्प॒थ्या॑मृ॒तस्य॑ प्रजा॒नन्नित्ता नम॒सा वि॑वेश ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

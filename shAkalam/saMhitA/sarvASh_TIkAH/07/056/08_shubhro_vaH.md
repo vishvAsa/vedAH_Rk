@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -58,7 +59,11 @@ múniḥ ← múni- (nominal stem)
 
 śárdhasya ← śárdha- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒भ्रो वः॒ शुष्मः॒ क्रुध्मी॒ मनां॑सि॒ धुनि॒र्मुनि॑रिव॒ शर्ध॑स्य धृ॒ष्णोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +133,6 @@ _________
 - “brave; ferocious; strong.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

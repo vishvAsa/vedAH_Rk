@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -86,7 +87,12 @@ pātám ← √pā- 2 (root)
 
 prátibhr̥tasya ← √bhr̥- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या वां॑ श॒तं नि॒युतो॒ याः स॒हस्र॒मिन्द्र॑वायू वि॒श्ववा॑राः॒ सच॑न्ते ।  
+आभि॑र्यातं सुवि॒दत्रा॑भिर॒र्वाक्पा॒तं न॑रा॒ प्रति॑भृतस्य॒ मध्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

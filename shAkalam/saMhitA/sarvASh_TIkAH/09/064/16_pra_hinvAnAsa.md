@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ dhiyā́ ← dhī́- (nominal stem)
 
 jūtā́ḥ ← √jū- (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र हि॑न्वा॒नास॒ इन्द॒वोऽच्छा॑ समु॒द्रमा॒शवः॑ ।  
+धि॒या जू॒ता अ॑सृक्षत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
     use; be born; make.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -157,7 +162,6 @@ sped by insightful thought, have surged to the sea.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -165,7 +169,6 @@ The first two vss. of this tṛca both contain nom. ‘drops’ (índavaḥ) and
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

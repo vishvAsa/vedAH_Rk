@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ devávātatamāḥ ← devávātatama- (nominal stem)
 
 ukthā́ ← ukthá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सोम॒ आमि॑श्लतमः सु॒तो भू॒द्यस्मि॑न्प॒क्तिः प॒च्यते॒ सन्ति॑ धा॒नाः ।  
+इन्द्रं॒ नरः॑ स्तु॒वन्तो॑ ब्रह्मका॒रा उ॒क्था शंस॑न्तो दे॒ववा॑ततमाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “coveted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

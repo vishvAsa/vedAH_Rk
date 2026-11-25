@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -119,7 +120,13 @@ máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)
 
 vā́jasātaye ← vā́jasāti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एन्द्र॑ या॒ह्युप॑ नः परा॒वतो॒ नायमच्छा॑ वि॒दथा॑नीव॒ सत्प॑ति॒रस्तं॒ राजे॑व॒ सत्प॑तिः ।  
+हवा॑महे त्वा व॒यं प्रय॑स्वन्तः सु॒ते सचा॑ ।  
+पु॒त्रासो॒ न पि॒तरं॒ वाज॑सातये॒ मंहि॑ष्ठं॒ वाज॑सातये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -308,7 +315,6 @@ _________
 - “victory; battle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

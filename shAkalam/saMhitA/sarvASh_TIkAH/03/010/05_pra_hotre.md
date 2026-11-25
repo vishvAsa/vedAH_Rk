@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -67,7 +68,12 @@ ná ← ná (invariable)
 
 vedháse ← vedhás- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र होत्रे॑ पू॒र्व्यं वचो॒ऽग्नये॑ भरता बृ॒हत् ।  
+वि॒पां ज्योतीं॑षि॒ बिभ्र॑ते॒ न वे॒धसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

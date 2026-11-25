@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधाः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ svadhā́m ← svadhā́- (nominal stem)
 
 vavakṣitha ← √vakṣ- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र हि रि॑रि॒क्ष ओज॑सा दि॒वो अन्ते॑भ्य॒स्परि॑ ।  
+न त्वा॑ विव्याच॒ रज॑ इन्द्र॒ पार्थि॑व॒मनु॑ स्व॒धां व॑वक्षिथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “grow; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -218,7 +223,6 @@ Because you project beyond the limits of heaven with your strength, the earthly 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/088/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -226,7 +230,6 @@ jā́yathā(ḥ) in 5a echoes jáyā(ḥ) in the immediately preceding pāda (4d
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

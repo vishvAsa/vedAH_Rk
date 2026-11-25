@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -60,7 +61,12 @@ vadhūyúḥ ← vadhūyú- (nominal stem)
 
 yóṣaṇām ← yóṣaṇā- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तां जु॑षस्व॒ गिरं॒ मम॑ वाज॒यन्ती॑मवा॒ धिय॑म् ।  
+व॒धू॒युरि॑व॒ योष॑णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “girl; wife.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

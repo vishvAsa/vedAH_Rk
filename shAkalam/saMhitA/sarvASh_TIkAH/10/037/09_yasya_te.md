@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "अभितपाः सौर्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -92,7 +93,12 @@ naḥ ← ahám (pronoun)
 
 vásyasā-vasyasā ← vásyaṁs- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ ते॒ विश्वा॒ भुव॑नानि के॒तुना॒ प्र चेर॑ते॒ नि च॑ वि॒शन्ते॑ अ॒क्तुभिः॑ ।  
+अ॒ना॒गा॒स्त्वेन॑ हरिकेश सू॒र्याह्ना॑ह्ना नो॒ वस्य॑सावस्य॒सोदि॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

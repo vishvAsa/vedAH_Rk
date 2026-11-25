@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ paúṁsyam ← paúṁsya- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न्यर्बु॑दस्य वि॒ष्टपं॑ व॒र्ष्माणं॑ बृह॒तस्ति॑र ।  
+कृ॒षे तदि॑न्द्र॒ पौंस्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “manfulness; deed; army; strength.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

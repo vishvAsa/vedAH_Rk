@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ yád-yat ← yá- (pronoun)
 
 yā́mi ← √yā- 2 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पौ॒रो अश्व॑स्य पुरु॒कृद्गवा॑म॒स्युत्सो॑ देव हिर॒ण्ययः॑ ।  
+नकि॒र्हि दानं॑ परि॒मर्धि॑ष॒त्त्वे यद्य॒द्यामि॒ तदा भ॑र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "श्येनः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्येनः
@@ -92,7 +93,12 @@ véḥ ← ví- (nominal stem)
 
 yā́mani ← yā́man- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒जि॒प्य ई॒मिन्द्रा॑वतो॒ न भु॒ज्युं श्ये॒नो ज॑भार बृह॒तो अधि॒ ष्णोः ।  
+अ॒न्तः प॑तत्पत॒त्र्य॑स्य प॒र्णमध॒ याम॑नि॒ प्रसि॑तस्य॒ तद्वेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “vi; bird; vi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

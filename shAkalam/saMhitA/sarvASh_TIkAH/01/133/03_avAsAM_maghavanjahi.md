@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -62,7 +63,12 @@ armaké ← armaká- (nominal stem)
 
 mahā́vailasthe ← mahā́vailastha- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवा॑सां मघवञ्जहि॒ शर्धो॑ यातु॒मती॑नाम् ।  
+वै॒ल॒स्था॒न॒के अ॑र्म॒के म॒हावै॑लस्थे अर्म॒के ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - \[noun\], locative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

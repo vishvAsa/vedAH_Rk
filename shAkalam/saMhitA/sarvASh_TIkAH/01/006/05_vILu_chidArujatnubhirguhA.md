@@ -4,6 +4,7 @@ devataa = "मरुत इन्द्रश्च"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत इन्द्रश्च
@@ -60,7 +61,12 @@ váhnibhiḥ ← váhni- (nominal stem)
 
 usríyāḥ ← usríya- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॒ळु चि॑दारुज॒त्नुभि॒र्गुहा॑ चिदिन्द्र॒ वह्नि॑भिः ।  
+अवि॑न्द उ॒स्रिया॒ अनु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “subsequently; behind; along; towards; because.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

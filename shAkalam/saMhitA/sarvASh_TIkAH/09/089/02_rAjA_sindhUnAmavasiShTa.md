@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ pitā́ ← pitár- (nominal stem)
 
 pitúḥ ← pitár- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+राजा॒ सिन्धू॑नामवसिष्ट॒ वास॑ ऋ॒तस्य॒ नाव॒मारु॑ह॒द्रजि॑ष्ठाम् ।  
+अ॒प्सु द्र॒प्सो वा॑वृधे श्ये॒नजू॑तो दु॒ह ईं॑ पि॒ता दु॒ह ईं॑ पि॒तुर्जाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “child; jā; being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -57,7 +58,12 @@ samudríyaḥ ← samudríya- (nominal stem)
 
 véda ← √vid- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वेदा॒ यो वी॒नां प॒दम॒न्तरि॑क्षेण॒ पत॑ताम् ।  
+वेद॑ ना॒वः स॑मु॒द्रियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “oceanic; oceanic.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

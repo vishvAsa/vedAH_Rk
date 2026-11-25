@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पूरणो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sutā́saḥ ← √su- (root)
 
 túbhyam ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ती॒व्रस्या॒भिव॑यसो अ॒स्य पा॑हि सर्वर॒था वि हरी॑ इ॒ह मु॑ञ्च ।  
+इन्द्र॒ मा त्वा॒ यज॑मानासो अ॒न्ये नि री॑रम॒न्तुभ्य॑मि॒मे सु॒तासः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

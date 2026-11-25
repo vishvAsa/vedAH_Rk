@@ -4,6 +4,7 @@ devataa = "पणयः"
 RShiH = "सरमा देवशुनी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पणयः
@@ -86,7 +87,12 @@ rasā́yāḥ ← rasā́- (nominal stem)
 
 táthā ← táthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑स्य दू॒तीरि॑षि॒ता च॑रामि म॒ह इ॒च्छन्ती॑ पणयो नि॒धीन्वः॑ ।  
+अ॒ति॒ष्कदो॑ भि॒यसा॒ तन्न॑ आव॒त्तथा॑ र॒साया॑ अतरं॒ पयां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

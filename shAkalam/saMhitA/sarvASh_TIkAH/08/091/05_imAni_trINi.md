@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अपालात्रेयी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ udáre ← udára- (nominal stem)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मानि॒ त्रीणि॑ वि॒ष्टपा॒ तानी॑न्द्र॒ वि रो॑हय ।  
+शिर॑स्त॒तस्यो॒र्वरा॒मादि॒दं म॒ उपो॒दरे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
     garbha; abdominal disease; intestine; inside; uterus; vessel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -208,14 +213,12 @@ the head of my Papa, the field, and this on my belly.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/091/05-07.md">
 <details><summary><h2>05-07 ...{Loading}...</h2></summary>
 
 On the connection between hair growth and skin disease, see Jamison 1991: 146-70.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

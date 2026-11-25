@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ svarvídā ← svarvíd- (nominal stem)
 
 vásumatā ← vásumant- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि वां॑ नू॒नम॑श्विना॒ सुहो॑ता॒ स्तोमैः॑ सिषक्ति नासत्या विव॒क्वान् ।  
+पू॒र्वीभि॑र्यातं प॒थ्या॑भिर॒र्वाक्स्व॒र्विदा॒ वसु॑मता॒ रथे॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

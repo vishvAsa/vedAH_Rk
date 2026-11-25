@@ -4,6 +4,7 @@ devataa = "यूपाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यूपाः
@@ -80,7 +81,12 @@ avantu ← √avⁱ- (root)
 
 pr̥tanā́jyeṣu ← pr̥tanā́jya- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शृङ्गा॑णी॒वेच्छृ॒ङ्गिणां॒ सं द॑दृश्रे च॒षाल॑वन्तः॒ स्वर॑वः पृथि॒व्याम् ।  
+वा॒घद्भि॑र्वा विह॒वे श्रोष॑माणा अ॒स्माँ अ॑वन्तु पृत॒नाज्ये॑षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “fight; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

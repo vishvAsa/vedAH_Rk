@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ rāyā́ ← rayí- ~ rāy- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॑ य॒ज्ञेन॑ स॒मिधा॒ य उ॒क्थैर॒र्केभिः॑ सूनो सहसो॒ ददा॑शत् ।  
+स मर्त्ये॑ष्वमृत॒ प्रचे॑ता रा॒या द्यु॒म्नेन॒ श्रव॑सा॒ वि भा॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “look; shine; show; look like; glitter; reflect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -243,12 +248,6 @@ Whoever with sacrifice and with kindling wood, who with solemn  speeches and wit
 he, provident among mortals, o immortal one, shines out with wealth,  with brilliance, with fame.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I now would be inclined to take samídhā as an abstract “with kindling,” rather than as the concrete material “with kindling wood” as in the published translation See disc.
-
-ad VI.1.9, 2.5.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/005/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -256,7 +255,6 @@ These two vss. are contrastively paired: each has a generalizing rel. clause des
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ havāmahe ← √hū- (root)
 
 sutā́vantaḥ ← sutā́vant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं हि रा॑धस्पते॒ राध॑सो म॒हः क्षय॒स्यासि॑ विध॒तः ।  
+तं त्वा॑ व॒यं म॑घवन्निन्द्र गिर्वणः सु॒ताव॑न्तो हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

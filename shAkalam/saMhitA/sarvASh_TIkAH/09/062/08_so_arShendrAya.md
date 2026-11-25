@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ váneṣu ← vána- (nominal stem)
 
 yónā ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो अ॒र्षेन्द्रा॑य पी॒तये॑ ति॒रो रोमा॑ण्य॒व्यया॑ ।  
+सीद॒न्योना॒ वने॒ष्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -173,7 +178,6 @@ sitting on your womb, in the wooden (vessels).
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -181,7 +185,6 @@ The tṛca shows no strong signs of internal unity, save for the “sitting” f
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

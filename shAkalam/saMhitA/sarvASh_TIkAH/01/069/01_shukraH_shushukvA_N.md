@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -60,7 +60,11 @@ paprā́ ← √prā- (root)
 
 samīcī́ ← samyáñc- (nominal stem)  
 {case:ACC, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒क्रः शु॑शु॒क्वाँ उ॒षो न जा॒रः प॒प्रा स॑मी॒ची दि॒वो न ज्योतिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +134,6 @@ _________
     light; sunlight.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -182,10 +185,6 @@ Hell flammend wie der Buhle der Morgenröte hat er die beiden gepaarten Welten a
 
 Der lichte leuchtend, – der Uschas Buhle, füllt beide Welten – wie Licht des Himmels; Geboren ragtest – an Kraft hervor du, der Götter Vater, – obwol ihr Sohn doch.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

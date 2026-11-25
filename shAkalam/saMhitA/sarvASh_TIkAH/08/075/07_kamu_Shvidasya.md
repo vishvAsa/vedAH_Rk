@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ paṇím ← paṇí- (nominal stem)
 
 starāmahe ← √str̥- (root)  
 {number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कमु॑ ष्विदस्य॒ सेन॑या॒ग्नेरपा॑कचक्षसः ।  
+प॒णिं गोषु॑ स्तरामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “spread; kill; lay; cover.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

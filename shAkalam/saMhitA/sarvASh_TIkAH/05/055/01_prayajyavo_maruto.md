@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ ráthāḥ ← rátha- (nominal stem)
 
 yātā́m ← √yā- 1 (root)  
 {case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रय॑ज्यवो म॒रुतो॒ भ्राज॑दृष्टयो बृ॒हद्वयो॑ दधिरे रु॒क्मव॑क्षसः ।  
+ईय॑न्ते॒ अश्वैः॑ सु॒यमे॑भिरा॒शुभिः॒ शुभं॑ या॒तामनु॒ रथा॑ अवृत्सत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

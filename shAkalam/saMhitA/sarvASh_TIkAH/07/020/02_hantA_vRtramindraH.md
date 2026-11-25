@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ múhur ← múhur (invariable)
 
 vásu ← vásu- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हन्ता॑ वृ॒त्रमिन्द्रः॒ शूशु॑वानः॒ प्रावी॒न्नु वी॒रो ज॑रि॒तार॑मू॒ती ।  
+कर्ता॑ सु॒दासे॒ अह॒ वा उ॑ लो॒कं दाता॒ वसु॒ मुहु॒रा दा॒शुषे॑ भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

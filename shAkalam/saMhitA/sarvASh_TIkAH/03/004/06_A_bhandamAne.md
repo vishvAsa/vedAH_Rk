@@ -4,6 +4,7 @@ devataa = "उषासानक्ता"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषासानक्ता
@@ -86,7 +87,12 @@ utá ← utá (invariable)
 
 vā ← vā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ भन्द॑माने उ॒षसा॒ उपा॑के उ॒त स्म॑येते त॒न्वा॒३॒॑ विरू॑पे ।  
+यथा॑ नो मि॒त्रो वरु॑णो॒ जुजो॑ष॒दिन्द्रो॑ म॒रुत्वाँ॑ उ॒त वा॒ महो॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “greatness; festival; glory; reward; gladness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

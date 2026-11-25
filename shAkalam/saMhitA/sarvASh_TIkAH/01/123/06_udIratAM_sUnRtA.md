@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ uṣásaḥ ← uṣás- (nominal stem)
 
 vibhātī́ḥ ← √bhā- (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदी॑रतां सू॒नृता॒ उत्पुरं॑धी॒रुद॒ग्नयः॑ शुशुचा॒नासो॑ अस्थुः ।  
+स्पा॒र्हा वसू॑नि॒ तम॒साप॑गूळ्हा॒विष्कृ॑ण्वन्त्यु॒षसो॑ विभा॒तीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

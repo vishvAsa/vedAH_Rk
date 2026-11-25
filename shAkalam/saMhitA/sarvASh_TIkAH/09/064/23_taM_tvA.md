@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ sám ← sám (invariable)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॒ विप्रा॑ वचो॒विदः॒ परि॑ ष्कृण्वन्ति वे॒धसः॑ ।  
+सं त्वा॑ मृजन्त्या॒यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,10 +173,6 @@ adorn you;
 the Āyus groom you all over.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-A minor poetic echo, the rhyming openings of pāda a táṃ tvā and c sáṃ tvā.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -179,7 +180,6 @@ The mention of the divine recipients of the soma in vss. 22 and 24 marks this t�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ vidmá ← √vid- 2 (root)
 
 yátas ← yátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒द्मा ते॑ अग्ने त्रे॒धा त्र॒याणि॑ वि॒द्मा ते॒ धाम॒ विभृ॑ता पुरु॒त्रा ।  
+वि॒द्मा ते॒ नाम॑ पर॒मं गुहा॒ यद्वि॒द्मा तमुत्सं॒ यत॑ आज॒गन्थ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
     inherit; hand down; achieve; reach; appear; happen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

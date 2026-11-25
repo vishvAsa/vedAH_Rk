@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ rétaḥ ← rétas- (nominal stem)
 
 siñcat ← √sic- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इद्दा॒नाय॒ दभ्या॑य व॒न्वञ्च्यवा॑नः॒ सूदै॑रमिमीत॒ वेदि॑म् ।  
+तूर्व॑याणो गू॒र्तव॑चस्तमः॒ क्षोदो॒ न रेत॑ इ॒तऊ॑ति सिञ्चत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वरुणमित्रार्यमणः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणमित्रार्यमणः
@@ -57,7 +58,12 @@ ná ← ná (invariable)
 
 spr̥hayet ← √spr̥h- (root)  
 {number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒तुर॑श्चि॒द्दद॑मानाद्बिभी॒यादा निधा॑तोः ।  
+न दु॑रु॒क्ताय॑ स्पृहयेत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “envy; desire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

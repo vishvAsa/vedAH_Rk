@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ rā́dhase ← rā́dhas- (nominal stem)
 
 śuṣe ← √śvasⁱ- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रु॒तं वो॑ वृत्र॒हन्त॑मं॒ प्र शर्धं॑ चर्षणी॒नाम् ।  
+आ शु॑षे॒ राध॑से म॒हे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “great; great; distinguished; much(a); adult; long; high.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

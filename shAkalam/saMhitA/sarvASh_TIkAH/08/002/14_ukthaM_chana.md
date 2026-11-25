@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ gīyámānam ← √gā(y)- (root)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्थं च॒न श॒स्यमा॑न॒मगो॑र॒रिरा चि॑केत ।  
+न गा॑य॒त्रं गी॒यमा॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “sing; praise; jap; recite; describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

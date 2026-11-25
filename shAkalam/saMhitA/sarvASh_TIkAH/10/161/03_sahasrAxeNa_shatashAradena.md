@@ -4,6 +4,7 @@ devataa = "राजयक्ष्मघ्नं"
 RShiH = "यक्ष्मनाशनः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राजयक्ष्मघ्नं
@@ -80,7 +81,12 @@ pārám ← pārá- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒ह॒स्रा॒क्षेण॑ श॒तशा॑रदेन श॒तायु॑षा ह॒विषाहा॑र्षमेनम् ।  
+श॒तं यथे॒मं श॒रदो॒ नया॒तीन्द्रो॒ विश्व॑स्य दुरि॒तस्य॑ पा॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “shore; pāra \[word\]; end; excellence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

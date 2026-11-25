@@ -4,6 +4,7 @@ devataa = "तनूनपात्"
 RShiH = "जमदग्निस्तत्सुतो वा रामः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तनूनपात्
@@ -86,7 +87,12 @@ kr̥ṇuhi ← √kr̥- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तनू॑नपात्प॒थ ऋ॒तस्य॒ याना॒न्मध्वा॑ सम॒ञ्जन्त्स्व॑दया सुजिह्व ।  
+मन्मा॑नि धी॒भिरु॒त य॒ज्ञमृ॒न्धन्दे॑व॒त्रा च॑ कृणुह्यध्व॒रं नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

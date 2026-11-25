@@ -4,6 +4,7 @@ devataa = "पणयः"
 RShiH = "सरमा देवशुनी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पणयः
@@ -95,7 +96,12 @@ paṇayaḥ ← paṇí- (nominal stem)
 
 śayadhve ← √śī- (root)  
 {number:PL, person:2, mood:SBJV, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाहं तं वे॑द॒ दभ्यं॒ दभ॒त्स यस्ये॒दं दू॒तीरस॑रं परा॒कात् ।  
+न तं गू॑हन्ति स्र॒वतो॑ गभी॒रा ह॒ता इन्द्रे॑ण पणयः शयध्वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “lie; sleep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

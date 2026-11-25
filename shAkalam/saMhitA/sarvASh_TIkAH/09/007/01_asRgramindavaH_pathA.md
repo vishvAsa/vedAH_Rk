@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ vidānā́ḥ ← √vid- 2 (root)
 
 yójanam ← yójana- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असृ॑ग्र॒मिन्द॑वः प॒था धर्म॑न्नृ॒तस्य॑ सु॒श्रियः॑ ।  
+वि॒दा॒ना अ॑स्य॒ योज॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “yojana; use; yojana \[word\]; team.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

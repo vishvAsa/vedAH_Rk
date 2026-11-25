@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नभःप्रभेदनो वैरूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ niṣádya ← √sad- (root)
 
 sadhrīcīnáḥ ← sadhrīcīná- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हरि॑त्वता॒ वर्च॑सा॒ सूर्य॑स्य॒ श्रेष्ठै॑ रू॒पैस्त॒न्वं॑ स्पर्शयस्व ।  
+अ॒स्माभि॑रिन्द्र॒ सखि॑भिर्हुवा॒नः स॑ध्रीची॒नो मा॑दयस्वा नि॒षद्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “sit down; sit; put.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

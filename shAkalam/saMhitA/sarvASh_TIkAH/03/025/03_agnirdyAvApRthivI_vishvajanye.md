@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ puruścandráḥ ← puruścandrá- (nominal stem)
 
 vā́jaiḥ ← vā́ja- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्द्यावा॑पृथि॒वी वि॒श्वज॑न्ये॒ आ भा॑ति दे॒वी अ॒मृते॒ अमू॑रः ।  
+क्षय॒न्वाजैः॑ पुरुश्च॒न्द्रो नमो॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “adoration; court; namas \[word\]; bow; salute.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

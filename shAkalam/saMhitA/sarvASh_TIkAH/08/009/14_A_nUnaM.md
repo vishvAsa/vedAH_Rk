@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ káṇveṣu ← káṇva- (nominal stem)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नू॒नं या॑तमश्विने॒मा ह॒व्यानि॑ वां हि॒ता ।  
+इ॒मे सोमा॑सो॒ अधि॑ तु॒र्वशे॒ यदा॑वि॒मे कण्वे॑षु वा॒मथ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “now; then; furthermore; now; then.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

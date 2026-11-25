@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः आङ्गिरसो वा"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः आङ्गिरसो वा
@@ -71,7 +72,12 @@ pári ← pári (invariable)
 
 té ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विरू॑पास॒ इदृष॑य॒स्त इद्ग॑म्भी॒रवे॑पसः ।  
+ते अङ्गि॑रसः सू॒नव॒स्ते अ॒ग्नेः परि॑ जज्ञिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

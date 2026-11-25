@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ prajā́vataḥ ← prajā́vant- (nominal stem)
 
 svapatyásya ← svapatyá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भया॑सो जातवेदः स्याम ते स्तो॒तारो॑ अग्ने सू॒रय॑श्च॒ शर्म॑णि ।  
+वस्वो॑ रा॒यः पु॑रुश्च॒न्द्रस्य॒ भूय॑सः प्र॒जाव॑तः स्वप॒त्यस्य॑ शग्धि नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

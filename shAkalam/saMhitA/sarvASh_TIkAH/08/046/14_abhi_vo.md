@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "पिपीलिकमध्या बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -76,7 +77,12 @@ vácaḥ ← vácas- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि वो॑ वी॒रमन्ध॑सो॒ मदे॑षु गाय गि॒रा म॒हा विचे॑तसम् ।  
+इन्द्रं॒ नाम॒ श्रुत्यं॑ शा॒किनं॒ वचो॒ यथा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

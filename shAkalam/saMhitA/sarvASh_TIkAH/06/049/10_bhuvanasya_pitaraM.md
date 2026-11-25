@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ kavínā ← kaví- (nominal stem)
 
 ŕ̥dhak ← ŕ̥dhak (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भुव॑नस्य पि॒तरं॑ गी॒र्भिरा॒भी रु॒द्रं दिवा॑ व॒र्धया॑ रु॒द्रम॒क्तौ ।  
+बृ॒हन्त॑मृ॒ष्वम॒जरं॑ सुषु॒म्नमृध॑ग्घुवेम क॒विने॑षि॒तासः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - \[verb noun\], nominative, plural
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

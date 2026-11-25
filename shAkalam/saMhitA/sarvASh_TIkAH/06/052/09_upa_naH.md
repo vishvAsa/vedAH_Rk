@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -11,7 +12,7 @@ ChandaH = "गायत्री"
 - छन्दः - गायत्री
 </details>
 
-<details><summary>मूलम् तैत्तिरीयम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 उप॑ नस्सू॒नवो॒ गिरः॑ ।
 शृ॒ण्वन्त्व॒मृत॑स्य॒ ये ।
@@ -67,7 +68,12 @@ naḥ ← ahám (pronoun)
 
 sumr̥ḷīkā́ḥ ← sumr̥ḷīká- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ नः सू॒नवो॒ गिरः॑ शृ॒ण्वन्त्व॒मृत॑स्य॒ ये ।  
+सु॒मृ॒ळी॒का भ॑वन्तु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -182,12 +187,6 @@ Let the sons of the immortal one listen to our hymns.
 Let them be very merciful to us.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. consists of two 3rd pl. impv. clauses, ab and c. The 2nd is entirely straightforward, and the first is until the end, where we find a hemistich-final rel.
-
-prn. yé, clearly coreferential with the subj. of the impv. but difficult to construe: úpa naḥ sūnávo gíraḥ, śṛṇvántu amṛ́tasya yé. The only grammatical way to interpr. this is as a tag nominal rel. cl. amṛ́tasya yé “who (are) of the immortal one.” But this leaves the main-cl. subj. sūnávaḥ underdefined: it is not any set of sons that we invite to hear our hymns, but only the sons of the immortal one. But tag rel. clauses generally give additional, not necessary, information about their referents in the main clause, and so such an interpr. would leave the sentence oddly unbalanced. We cannot take the whole hemistich as a rel. cl. (“which sons of the immortal …”), not only because the rel. prn. would be too deep in its clause, following both subject and VP, but also because impvs. do not occur in subordinate clauses in the RV. I think we’re dealing with a poet who knew about tag rel. clauses and wanted to try his hand at one, but didn’t know how they work. As Geldner points out (n. 9ab), the substance of the cl. is identical to X.13.1 śṛṇvántu víśve amṛ́tasya putrā́ḥ. Given these considerations, I have not attempted to render the yé -- passing in silence over a journeyman’s lapse.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details><summary><h2>07-12 ...{Loading}...</h2></summary>
 
@@ -195,7 +194,6 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

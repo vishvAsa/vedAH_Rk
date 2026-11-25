@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "मृळीको वासिष्ठः"
 ChandaH = "उपरिष्टाज्ज्योतिर्जगती वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ dhánasātaye ← dhánasāti- (nominal stem)
 
 mr̥ḷīkám ← mr̥ḷīká- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्दे॒वो दे॒वाना॑मभवत्पु॒रोहि॑तो॒ऽग्निं म॑नु॒ष्या॒३॒॑ ऋष॑यः॒ समी॑धिरे ।  
+अ॒ग्निं म॒हो धन॑साताव॒हं हु॑वे मृळी॒कं धन॑सातये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “victory; acquisition; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

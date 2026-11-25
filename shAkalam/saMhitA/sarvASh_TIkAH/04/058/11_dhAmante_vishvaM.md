@@ -4,6 +4,7 @@ devataa = "अग्निः सूर्यो वापो वा गाव�
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
@@ -95,7 +96,12 @@ te ← tvám (pronoun)
 
 ūrmím ← ūrmí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धाम॑न्ते॒ विश्वं॒ भुव॑न॒मधि॑ श्रि॒तम॒न्तः स॑मु॒द्रे हृ॒द्य१॒॑न्तरायु॑षि ।  
+अ॒पामनी॑के समि॒थे य आभृ॑त॒स्तम॑श्याम॒ मधु॑मन्तं त ऊ॒र्मिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “wave; billow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

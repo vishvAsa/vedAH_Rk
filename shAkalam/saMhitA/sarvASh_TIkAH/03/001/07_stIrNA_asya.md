@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ mātárā ← mātár- (nominal stem)
 
 samīcī́ ← samyáñc- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्ती॒र्णा अ॑स्य सं॒हतो॑ वि॒श्वरू॑पा घृ॒तस्य॒ योनौ॑ स्र॒वथे॒ मधू॑नाम् ।  
+अस्थु॒रत्र॑ धे॒नवः॒ पिन्व॑माना म॒ही द॒स्मस्य॑ मा॒तरा॑ समी॒ची ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “conjugate; united.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

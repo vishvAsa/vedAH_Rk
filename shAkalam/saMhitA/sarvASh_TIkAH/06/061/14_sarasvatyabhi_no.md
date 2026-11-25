@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -101,7 +102,12 @@ mā́ ← mā́ (invariable)
 
 tvát ← tvám (pronoun)  
 {case:ABL, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सर॑स्वत्य॒भि नो॑ नेषि॒ वस्यो॒ माप॑ स्फरीः॒ पय॑सा॒ मा न॒ आ ध॑क् ।  
+जु॒षस्व॑ नः स॒ख्या वे॒श्या॑ च॒ मा त्वत्क्षेत्रा॒ण्यर॑णानि गन्म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -80,7 +81,12 @@ pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)
 
 sacante ← √sac- 1 (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते स॒त्येन॒ मन॑सा॒ दीध्या॑नाः॒ स्वेन॑ यु॒क्तासः॒ क्रतु॑ना वहन्ति ।  
+इन्द्र॑वायू वीर॒वाहं॒ रथं॑ वामीशा॒नयो॑र॒भि पृक्षः॑ सचन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

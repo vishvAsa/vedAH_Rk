@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ prá ← prá (invariable)
 
 usráḥ ← uṣár- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ म॑न्येथा॒मा ग॑तं॒ कच्चि॒देवै॒र्विश्वे॒ जना॑सो अ॒श्विना॑ हवन्ते ।  
+इ॒मा हि वां॒ गोऋ॑जीका॒ मधू॑नि॒ प्र मि॒त्रासो॒ न द॒दुरु॒स्रो अग्रे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
     glans.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

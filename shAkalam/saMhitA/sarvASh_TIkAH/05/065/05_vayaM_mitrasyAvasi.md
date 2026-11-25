@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "रातहव्य आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -59,7 +60,12 @@ satrā́ ← satrā́ (invariable)
 
 váruṇaśeṣasaḥ ← váruṇaśeṣas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं मि॒त्रस्याव॑सि॒ स्याम॑ स॒प्रथ॑स्तमे ।  
+अ॒ने॒हस॒स्त्वोत॑यः स॒त्रा वरु॑णशेषसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “offspring.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

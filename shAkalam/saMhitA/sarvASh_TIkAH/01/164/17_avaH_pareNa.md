@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -104,7 +105,12 @@ svit ← svit (invariable)
 
 yūthé ← yūthá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒वः परे॑ण प॒र ए॒नाव॑रेण प॒दा व॒त्सं बिभ्र॑ती॒ गौरुद॑स्थात् ।  
+सा क॒द्रीची॒ कं स्वि॒दर्धं॒ परा॑गा॒त्क्व॑ स्वित्सूते न॒हि यू॒थे अ॒न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -259,7 +265,6 @@ _________
 - “inside; in; antar \[word\]; midmost; between; among.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

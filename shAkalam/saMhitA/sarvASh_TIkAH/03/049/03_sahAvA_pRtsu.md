@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ suhávaḥ ← suháva- (nominal stem)
 
 vayodhā́ḥ ← vayodhā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हावा॑ पृ॒त्सु त॒रणि॒र्नार्वा॑ व्यान॒शी रोद॑सी मे॒हना॑वान् ।  
+भगो॒ न का॒रे हव्यो॑ मती॒नां पि॒तेव॒ चारुः॑ सु॒हवो॑ वयो॒धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “fortifying.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ papáthuḥ ← √pā- 2 (root)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्थेभि॑र॒र्वागव॑से पुरू॒वसू॑ अ॒र्कैश्च॒ नि ह्व॑यामहे ।  
+शश्व॒त्कण्वा॑नां॒ सद॑सि प्रि॒ये हि कं॒ सोमं॑ प॒पथु॑रश्विना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

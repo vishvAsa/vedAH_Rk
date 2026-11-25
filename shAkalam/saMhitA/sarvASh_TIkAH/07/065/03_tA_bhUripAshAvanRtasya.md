@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -80,7 +81,12 @@ nāvā́ ← naú- ~ nā́v- (nominal stem)
 
 tarema ← √tr̥̄- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता भूरि॑पाशा॒वनृ॑तस्य॒ सेतू॑ दुर॒त्येतू॑ रि॒पवे॒ मर्त्या॑य ।  
+ऋ॒तस्य॑ मित्रावरुणा प॒था वा॑म॒पो न ना॒वा दु॑रि॒ता त॑रेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -221,10 +226,8 @@ We cross difficulties like waters in a boat!
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-The special weapon of varuNa, pAsha (the lasso) also belongs mitra. Here both are said to have many pAsha-s. 
+The special weapon of varuNa, pAsha (the lasso) also belongs mitra. Here both are said to have many pAsha-s.
 </details>
-
-
 
 <details><summary>Wilson</summary>
 

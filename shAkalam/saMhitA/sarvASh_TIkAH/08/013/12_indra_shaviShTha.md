@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ sūríbhyaḥ ← sūrí- (nominal stem)
 
 vasutvanám ← vasutvaná- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ शविष्ठ सत्पते र॒यिं गृ॒णत्सु॑ धारय ।  
+श्रवः॑ सू॒रिभ्यो॑ अ॒मृतं॑ वसुत्व॒नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “wealth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

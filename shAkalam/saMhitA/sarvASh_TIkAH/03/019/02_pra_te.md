@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ vásubhiḥ ← vásu- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॑ अग्ने ह॒विष्म॑तीमिय॒र्म्यच्छा॑ सुद्यु॒म्नां रा॒तिनीं॑ घृ॒ताची॑म् ।  
+प्र॒द॒क्षि॒णिद्दे॒वता॑तिमुरा॒णः सं रा॒तिभि॒र्वसु॑भिर्य॒ज्ञम॑श्रेत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

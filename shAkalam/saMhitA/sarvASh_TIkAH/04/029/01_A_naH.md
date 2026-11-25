@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ gr̥ṇānáḥ ← √gr̥̄- 1 (root)
 
 satyárādhāḥ ← satyárādhas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नः॑ स्तु॒त उप॒ वाजे॑भिरू॒ती इन्द्र॑ या॒हि हरि॑भिर्मन्दसा॒नः ।  
+ति॒रश्चि॑द॒र्यः सव॑ना पु॒रूण्या॑ङ्गू॒षेभि॑र्गृणा॒नः स॒त्यरा॑धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

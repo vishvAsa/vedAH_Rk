@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "लुशो धानाकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ samidhānám ← √idh- 1 (root)
 
 svastí ← svastí- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यावा॑ नो अ॒द्य पृ॑थि॒वी अना॑गसो म॒ही त्रा॑येतां सुवि॒ताय॑ मा॒तरा॑ ।  
+उ॒षा उ॒च्छन्त्यप॑ बाधताम॒घं स्व॒स्त्य१॒॑ग्निं स॑मिधा॒नमी॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

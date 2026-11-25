@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ sumnám ← sumná- (nominal stem)
 
 yā́cante ← √yāc- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मु॒द्रिया॑ अप्स॒रसो॑ मनी॒षिण॒मासी॑ना अ॒न्तर॒भि सोम॑मक्षरन् ।  
+ता ईं॑ हिन्वन्ति ह॒र्म्यस्य॑ स॒क्षणिं॒ याच॑न्ते सु॒म्नं पव॑मान॒मक्षि॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “undecaying; uninjured.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -5,13 +5,13 @@ RShiH = "पुरुहन्मा"
 ChandaH = "बृहती"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
 - ऋषिः - पुरुहन्मा
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -79,7 +79,12 @@ hávyaḥ ← hávya- (nominal stem)
 
 vā́jeṣu ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वो॑ म॒हो म॒हाय्य॒मिन्द्रं॑ दा॒नाय॑ स॒क्षणि॑म् ।  
+यो गा॒धेषु॒ य आर॑णेषु॒ हव्यो॒ वाजे॒ष्वस्ति॒ हव्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +186,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -230,10 +234,6 @@ Diesen herrlichen, zu verherrlichenden, siegreichen Indra rufet zum Schenken, de
 
 Ihn, euren hehren Indra treibt, den Sieger, viel zu schenken uns, Den man an seichtem und den man an tiefem Ort, Den man in Schlachten rufen muss.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

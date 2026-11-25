@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -92,7 +93,12 @@ panā́yyam ← panā́yya- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते नो॑ गृणा॒ने म॑हिनी॒ महि॒ श्रवः॑ क्ष॒त्रं द्या॑वापृथिवी धासथो बृ॒हत् ।  
+येना॒भि कृ॒ष्टीस्त॒तना॑म वि॒श्वहा॑ प॒नाय्य॒मोजो॑ अ॒स्मे समि॑न्वतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “bring; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

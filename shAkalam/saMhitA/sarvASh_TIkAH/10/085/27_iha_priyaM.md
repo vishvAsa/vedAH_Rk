@@ -4,6 +4,7 @@ devataa = "नृणां विवाहमन्त्रा आशीःप�
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नृणां विवाहमन्त्रा आशीःप्रायाः
@@ -92,7 +93,12 @@ vadāthaḥ ← √vadⁱ- (root)
 
 vidátham ← vidátha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ह प्रि॒यं प्र॒जया॑ ते॒ समृ॑ध्यताम॒स्मिन्गृ॒हे गार्ह॑पत्याय जागृहि ।  
+ए॒ना पत्या॑ त॒न्वं१॒॑ सं सृ॑ज॒स्वाधा॒ जिव्री॑ वि॒दथ॒मा व॑दाथः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     diagnose; address; say; pronounce; express; instruct; order.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ svàr ← svàr- (nominal stem)
 
 uccā́ ← uccā́ (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यम॑ग्ने॒ अर्व॑ता वा सु॒वीर्यं॒ ब्रह्म॑णा वा चितयेमा॒ जनाँ॒ अति॑ ।  
+अ॒स्माकं॑ द्यु॒म्नमधि॒ पञ्च॑ कृ॒ष्टिषू॒च्चा स्व१॒॑र्ण शु॑शुचीत दु॒ष्टर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “incomparable; irresistible; unbearable; unconquerable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

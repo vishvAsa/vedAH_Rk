@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ sugopā́ḥ ← sugopā́- (nominal stem)
 
 syā́ma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू त॑ आ॒भिर॒भिष्टि॑भि॒स्तव॒ शर्म॑ञ्छतक्रतो ।  
+इन्द्र॒ स्याम॑ सुगो॒पाः शूर॒ स्याम॑ सुगो॒पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “herder; defender.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

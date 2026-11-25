@@ -4,6 +4,7 @@ devataa = "अग्निरग्निर्मध्यमो वा"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निर्मध्यमो वा
@@ -89,7 +90,12 @@ pátanti ← √pat- 1 (root)
 
 stanáyanti ← √stanⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ते॑ सुप॒र्णा अ॑मिनन्तँ॒ एवैः॑ कृ॒ष्णो नो॑नाव वृष॒भो यदी॒दम् ।  
+शि॒वाभि॒र्न स्मय॑मानाभि॒रागा॒त्पत॑न्ति॒ मिहः॑ स्त॒नय॑न्त्य॒भ्रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     cloudiness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

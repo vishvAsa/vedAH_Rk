@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ imám ← ayám (pronoun)
 
 sú ← sú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शीति॑के॒ शीति॑कावति॒ ह्लादि॑के॒ ह्लादि॑कावति ।  
+म॒ण्डू॒क्या॒३॒॑ सु सं ग॑म इ॒मं स्व१॒॑ग्निं ह॑र्षय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “gladden; stimulate; rejoice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

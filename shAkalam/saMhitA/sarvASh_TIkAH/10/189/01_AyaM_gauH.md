@@ -4,6 +4,7 @@ devataa = "सार्पराज्ञी सूर्यो वा"
 RShiH = "सार्पराज्ञी"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सार्पराज्ञी सूर्यो वा
@@ -66,7 +67,12 @@ prayán ← √i- 1 (root)
 
 svàr ← svàr- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः ।  
+पि॒तरं॑ च प्र॒यन्त्स्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “sun; sky; sunlight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

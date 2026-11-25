@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मनुराप्सवः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ papuḥ ← √pā- 2 (root)
 
 tvā́m ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॑ द्र॒प्सा उ॑द॒प्रुत॒ इन्द्रं॒ मदा॑य वावृधुः ।  
+त्वां दे॒वासो॑ अ॒मृता॑य॒ कं प॑पुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -179,7 +184,6 @@ The gods have drunk you for immortality
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -187,7 +191,6 @@ Because of the distribution of word boundaries, the first two vss. of this tṛc
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

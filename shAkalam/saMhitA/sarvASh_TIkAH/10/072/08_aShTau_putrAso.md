@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -77,7 +78,12 @@ mārtāṇḍám ← mārtāṇḍá- (nominal stem)
 
 párā ← párā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ष्टौ पु॒त्रासो॒ अदि॑ते॒र्ये जा॒तास्त॒न्व१॒॑स्परि॑ ।  
+दे॒वाँ उप॒ प्रैत्स॒प्तभिः॒ परा॑ मार्ता॒ण्डमा॑स्यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “shoot; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

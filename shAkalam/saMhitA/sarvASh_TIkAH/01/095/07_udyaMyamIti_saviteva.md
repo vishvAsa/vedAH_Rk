@@ -4,6 +4,7 @@ devataa = "अग्निरग्निरौषस्योवा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निरौषस्योवा
@@ -89,7 +90,12 @@ návā ← náva- 2 (nominal stem)
 
 vásanā ← vásana- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्यं॑यमीति सवि॒तेव॑ बा॒हू उ॒भे सिचौ॑ यतते भी॒म ऋ॒ञ्जन् ।  
+उच्छु॒क्रमत्क॑मजते सि॒मस्मा॒न्नवा॑ मा॒तृभ्यो॒ वस॑ना जहाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     foreswear; pour away; withdraw; depart; reduce.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -232,12 +237,12 @@ _________
 He (Agni) repeatedly raises up, like Savitṛ,  
 his two arms, he stretches himself to the two horizons \[of the sky\], the fierce straight-goer.  
 He impels his shining armor from his own self;  
-he leaves new clothes for the mothers.  
+he leaves new clothes for the mothers.
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-The first hemistich compares the rising Agni with the arms of Savitṛ and specifically their stretching from horizon to horizon. So what is the foundation of this shining manifestation of Savitṛ in the night sky that stretches from horizon to horizon? It is the Milky Way.+++(5)+++ Thus, this signal feature of Savitṛ, which repeatedly finds mention in ritual incantations relates this great stellar band of light of the night sky. 
+The first hemistich compares the rising Agni with the arms of Savitṛ and specifically their stretching from horizon to horizon. So what is the foundation of this shining manifestation of Savitṛ in the night sky that stretches from horizon to horizon? It is the Milky Way.+++(5)+++ Thus, this signal feature of Savitṛ, which repeatedly finds mention in ritual incantations relates this great stellar band of light of the night sky.
 </details>
 
 <details><summary>Wilson</summary>

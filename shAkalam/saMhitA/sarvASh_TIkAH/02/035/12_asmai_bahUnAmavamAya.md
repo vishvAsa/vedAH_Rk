@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -86,7 +87,12 @@ r̥gbhíḥ ← ŕ̥c- (nominal stem)
 
 vande ← √vandⁱ- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मै ब॑हू॒नाम॑व॒माय॒ सख्ये॑ य॒ज्ञैर्वि॑धेम॒ नम॑सा ह॒विर्भिः॑ ।  
+सं सानु॒ मार्ज्मि॒ दिधि॑षामि॒ बिल्मै॒र्दधा॒म्यन्नैः॒ परि॑ वन्द ऋ॒ग्भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sūnúḥ ← sūnú- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदू॒चुषे॒ मानु॑षे॒मा यु॒गानि॑ की॒र्तेन्यं॑ म॒घवा॒ नाम॒ बिभ्र॑त् ।  
+उ॒प॒प्र॒यन्द॑स्यु॒हत्या॑य व॒ज्री यद्ध॑ सू॒नुः श्रव॑से॒ नाम॑ द॒धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

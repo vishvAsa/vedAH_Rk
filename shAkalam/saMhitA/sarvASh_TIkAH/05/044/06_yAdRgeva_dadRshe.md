@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ sáhaḥ ← sáhas- (nominal stem)
 
 suvī́ram ← suvī́ra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या॒दृगे॒व ददृ॑शे ता॒दृगु॑च्यते॒ सं छा॒यया॑ दधिरे सि॒ध्रया॒प्स्वा ।  
+म॒हीम॒स्मभ्य॑मुरु॒षामु॒रु ज्रयो॑ बृ॒हत्सु॒वीर॒मन॑पच्युतं॒ सहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “force; strength; might; sahas \[word\]; conquest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

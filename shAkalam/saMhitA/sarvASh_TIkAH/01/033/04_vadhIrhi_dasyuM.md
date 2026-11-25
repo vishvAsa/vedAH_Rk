@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ prétim ← préti- (nominal stem)
 
 sanakā́ḥ ← sanaká- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वधी॒र्हि दस्युं॑ ध॒निनं॑ घ॒नेनँ॒ एक॒श्चर॑न्नुपशा॒केभि॑रिन्द्र ।  
+धनो॒रधि॑ विषु॒णक्ते व्या॑य॒न्नय॑ज्वानः सन॒काः प्रेति॑मीयुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

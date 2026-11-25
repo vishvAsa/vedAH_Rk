@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -55,7 +56,11 @@ sújātam ← sújāta- (nominal stem)
 
 yónā ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वर्ध॑न्ती॒मापः॑ प॒न्वा सुशि॑श्विमृ॒तस्य॒ योना॒ गर्भे॒ सुजा॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +133,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

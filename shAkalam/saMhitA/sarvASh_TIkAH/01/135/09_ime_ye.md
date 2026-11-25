@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -119,7 +120,13 @@ durniyántavaḥ ← durniyántu- (nominal stem)
 
 hástayoḥ ← hásta- (nominal stem)  
 {case:LOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे ये ते॒ सु वा॑यो बा॒ह्वो॑जसो॒ऽन्तर्न॒दी ते॑ प॒तय॑न्त्यु॒क्षणो॒ महि॒ व्राध॑न्त उ॒क्षणः॑ ।  
+धन्व॑ञ्चि॒द्ये अ॑ना॒शवो॑ जी॒राश्चि॒दगि॑रौकसः ।  
+सूर्य॑स्येव र॒श्मयो॑ दुर्नि॒यन्त॑वो॒ हस्त॑योर्दुर्नि॒यन्त॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -304,7 +311,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

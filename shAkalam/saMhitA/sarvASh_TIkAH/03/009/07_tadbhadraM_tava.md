@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ apiśarvaré ← apiśarvará- (nominal stem)
 
 sámiddham ← √idh- 1 (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्भ॒द्रं तव॑ दं॒सना॒ पाका॑य चिच्छदयति ।  
+त्वां यद॑ग्ने प॒शवः॑ स॒मास॑ते॒ समि॑द्धमपिशर्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - \[noun\], locative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

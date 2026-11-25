@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -62,7 +63,12 @@ yáḥ ← yá- (pronoun)
 
 enān ← ena- (pronoun)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञेय॑ज्ञे॒ स मर्त्यो॑ दे॒वान्त्स॑पर्यति ।  
+यः सु॒म्नैर्दी॑र्घ॒श्रुत्त॑म आ॒विवा॑सत्येनान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “this; he,she,it (pers. pron.).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

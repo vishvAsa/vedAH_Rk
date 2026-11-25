@@ -4,6 +4,7 @@ devataa = "ऋणंचयेन्द्रौ"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋणंचयेन्द्रौ
@@ -89,7 +90,12 @@ u ← u (invariable)
 
 víprāḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चतुः॑सहस्रं॒ गव्य॑स्य प॒श्वः प्रत्य॑ग्रभीष्म रु॒शमे॑ष्वग्ने ।  
+घ॒र्मश्चि॑त्त॒प्तः प्र॒वृजे॒ य आसी॑दय॒स्मय॒स्तम्वादा॑म॒ विप्राः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ ketúḥ ← ketú- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस॑म्मृष्टो जायसे मा॒त्रोः शुचि॑र्म॒न्द्रः क॒विरुद॑तिष्ठो वि॒वस्व॑तः ।  
+घृ॒तेन॑ त्वावर्धयन्नग्न आहुत धू॒मस्ते॑ के॒तुर॑भवद्दि॒वि श्रि॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

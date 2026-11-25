@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ práti ← práti (invariable)
 
 suvitā́ya ← suvitá- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तां वो॑ देवाः सुम॒तिमू॒र्जय॑न्ती॒मिष॑मश्याम वसवः॒ शसा॒ गोः ।  
+सा नः॑ सु॒दानु॑र्मृ॒ळय॑न्ती दे॒वी प्रति॒ द्रव॑न्ती सुवि॒ताय॑ गम्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

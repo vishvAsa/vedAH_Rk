@@ -4,6 +4,7 @@ devataa = "पावमान्यध्येतृस्तुतिः"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पावमान्यध्येतृस्तुतिः
@@ -71,7 +72,12 @@ sarpíḥ ← sarpís- (nominal stem)
 
 udakám ← udaká- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पा॒व॒मा॒नीर्यो अ॒ध्येत्यृषि॑भिः॒ सम्भृ॑तं॒ रस॑म् ।  
+तस्मै॒ सर॑स्वती दुहे क्षी॒रं स॒र्पिर्मधू॑द॒कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
     decoction; udakaprameha; washing water; kaṣāya; tear; ablution.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -200,7 +205,6 @@ Jagatı Hymns: 68–86 ̄
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">
 <details><summary><h2>31-32 ...{Loading}...</h2></summary>
 
@@ -209,7 +213,6 @@ On the import of these two vss., see published introduction. They are obviously 
 Commentary IX.68-114
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "निचृत्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ ná ← ná (invariable)
 
 putrakr̥thé ← putrakr̥thá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज॒घने॒ चोद॑ एषां॒ वि स॒क्थानि॒ नरो॑ यमुः ।  
+पु॒त्र॒कृ॒थे न जन॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “wife; jan; woman; jani \[word\]; birth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,12 +161,6 @@ _________
 like wives at the making of sons.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-For this vs. see published introduction.; as pointed out there, the simile in c can either refer to sex or to childbirth.
-
-It is interesting that sakthā́ni is plural. Although there are plural ‘men’ (náraḥ) and therefore twice as many thighs as men, in Classical Sanskrit it is my impression that the dual would ordinarily be used in such a situation, where a number of men each spread their two thighs. RV seems more flexible.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -172,7 +171,6 @@ simplex, we should presumably resist the temptation to emend.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

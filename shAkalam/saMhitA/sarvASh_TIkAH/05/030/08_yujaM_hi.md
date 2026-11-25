@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ prá ← prá (invariable)
 
 ródasī ← ródasī- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+युजं॒ हि मामकृ॑था॒ आदिदि॑न्द्र॒ शिरो॑ दा॒सस्य॒ नमु॑चेर्मथा॒यन् ।  
+अश्मा॑नं चित्स्व॒र्यं१॒॑ वर्त॑मानं॒ प्र च॒क्रिये॑व॒ रोद॑सी म॒रुद्भ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “Marut; vāta; wind; Vayu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

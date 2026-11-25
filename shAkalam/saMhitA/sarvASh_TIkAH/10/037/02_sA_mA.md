@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "अभितपाः सौर्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -104,7 +105,12 @@ viśvā́hā ← viśvā́hā (invariable)
 
 viśvā́hā ← viśvā́hā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा मा॑ स॒त्योक्तिः॒ परि॑ पातु वि॒श्वतो॒ द्यावा॑ च॒ यत्र॑ त॒तन॒न्नहा॑नि च ।  
+विश्व॑म॒न्यन्नि वि॑शते॒ यदेज॑ति वि॒श्वाहापो॑ वि॒श्वाहोदे॑ति॒ सूर्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -270,7 +276,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

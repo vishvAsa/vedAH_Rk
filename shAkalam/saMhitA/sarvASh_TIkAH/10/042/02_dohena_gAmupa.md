@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ maghadéyāya ← maghadéya- (nominal stem)
 
 śū́ram ← śū́ra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दोहे॑न॒ गामुप॑ शिक्षा॒ सखा॑यं॒ प्र बो॑धय जरितर्जा॒रमिन्द्र॑म् ।  
+कोशं॒ न पू॒र्णं वसु॑ना॒ न्यृ॑ष्ट॒मा च्या॑वय मघ॒देया॑य॒ शूर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

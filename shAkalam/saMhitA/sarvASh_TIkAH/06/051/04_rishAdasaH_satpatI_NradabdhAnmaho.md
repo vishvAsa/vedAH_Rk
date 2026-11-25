@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ duvoyú ← duvoyú- (nominal stem)
 
 yāmi ← √yā- 2 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रि॒शाद॑सः॒ सत्प॑तीँ॒रद॑ब्धान्म॒हो राज्ञः॑ सुवस॒नस्य॑ दा॒तॄन् ।  
+यूनः॑ सुक्ष॒त्रान्क्षय॑तो दि॒वो नॄना॑दि॒त्यान्या॒म्यदि॑तिं दुवो॒यु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

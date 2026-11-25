@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sá ← sá- ~ tá- (pronoun)
 
 sadhásthe ← sadhástha- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अ॒ग्निः क्र॒व्यात्प्र॑वि॒वेश॑ वो गृ॒हमि॒मं पश्य॒न्नित॑रं जा॒तवे॑दसम् ।  
+तं ह॑रामि पितृय॒ज्ञाय॑ दे॒वं स घ॒र्ममि॑न्वात्पर॒मे स॒धस्थे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “dwelling; location; home.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

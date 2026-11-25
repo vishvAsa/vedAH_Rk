@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ pramíyam ← √mī- 1 (root)
 
 sā́nu ← sā́nu- ~ snú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वैर्नो॑ दे॒व्यदि॑ति॒र्नि पा॑तु दे॒वस्त्रा॒ता त्रा॑यता॒मप्र॑युच्छन् ।  
+न॒हि मि॒त्रस्य॒ वरु॑णस्य धा॒सिमर्हा॑मसि प्र॒मियं॒ सान्व॒ग्नेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

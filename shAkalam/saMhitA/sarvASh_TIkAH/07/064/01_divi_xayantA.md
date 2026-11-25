@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ sukṣatráḥ ← sukṣatrá- (nominal stem)
 
 váruṇaḥ ← váruṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वि क्षय॑न्ता॒ रज॑सः पृथि॒व्यां प्र वां॑ घृ॒तस्य॑ नि॒र्णिजो॑ ददीरन् ।  
+ह॒व्यं नो॑ मि॒त्रो अ॑र्य॒मा सुजा॑तो॒ राजा॑ सुक्ष॒त्रो वरु॑णो जुषन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ soma ← sóma- (nominal stem)
 
 svāyudháḥ ← svāyudhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स प॑वस्व॒ सह॑मानः पृत॒न्यून्त्सेध॒न्रक्षां॒स्यप॑ दु॒र्गहा॑णि ।  
+स्वा॒यु॒धः सा॑स॒ह्वान्त्सो॑म॒ शत्रू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “enemy; foe; enemy; Asura.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -183,10 +188,6 @@ Purify yourself, vanquishing the battlers, repelling demons and difficult  plung
 having good weapons, having vanquished your rivals, Soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The c pāda also shows alliteration: s u vāyudháḥ sāsahvā́n soma śátrun.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -194,7 +195,6 @@ This very straightforward final tṛca concerning the ritual preparation of soma
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

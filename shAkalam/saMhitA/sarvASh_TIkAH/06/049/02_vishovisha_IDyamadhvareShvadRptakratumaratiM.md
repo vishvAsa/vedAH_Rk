@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ yájadhyai ← √yaj- (root)
 
 yajñásya ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒शोवि॑श॒ ईड्य॑मध्व॒रेष्वदृ॑प्तक्रतुमर॒तिं यु॑व॒त्योः ।  
+दि॒वः शिशुं॒ सह॑सः सू॒नुम॒ग्निं य॒ज्ञस्य॑ के॒तुम॑रु॒षं यज॑ध्यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

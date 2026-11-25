@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ uṣásām ← uṣás- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्री॒णामु॑दा॒रो ध॒रुणो॑ रयी॒णां म॑नी॒षाणां॒ प्रार्प॑णः॒ सोम॑गोपाः ।  
+वसुः॑ सू॒नुः सह॑सो अ॒प्सु राजा॒ वि भा॒त्यग्र॑ उ॒षसा॑मिधा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “kindle; ignite; set ablaze.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

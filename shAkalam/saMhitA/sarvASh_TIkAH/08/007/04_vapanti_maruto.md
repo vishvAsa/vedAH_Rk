@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ yā́nti ← √yā- 1 (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वप॑न्ति म॒रुतो॒ मिहं॒ प्र वे॑पयन्ति॒ पर्व॑तान् ।  
+यद्यामं॒ यान्ति॑ वा॒युभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     draft; vāyu \[word\]; Vāyu; Marut.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,10 +164,6 @@ The Maruts scatter mist; they make the mountains tremble,
 when they drive their course with the winds,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-vápanti is also echoed by vepayanti in the next pāda, and the whole verse is marked by alliteration: v’s, p’s, and r’s in vápanti … prá vepayanti párvatān; m’s in marúto míham (both sets in ab), and y’s in c: yád yā́maṃ yā́nti vāyúbhiḥ.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
 <details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -170,7 +171,6 @@ Note recycling of vocab. -- íṣam 1, 3; párvata- 1, 2, 4; yā́mam 2, 4; vip/
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -95,7 +96,12 @@ pū́rvā ← pū́rva- (nominal stem)
 
 súdhitāni ← súdhita- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं विश्वे॑षां वरुणासि॒ राजा॒ ये च॑ दे॒वा अ॑सुर॒ ये च॒ मर्ताः॑ ।  
+श॒तं नो॑ रास्व श॒रदो॑ वि॒चक्षे॒ऽश्यामायूं॑षि॒ सुधि॑तानि॒ पूर्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     firstborn; easterly; instrumental.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

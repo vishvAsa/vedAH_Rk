@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ jā́yamānaḥ ← √janⁱ- (root)
 
 śriyé ← śrī́- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अशो॑च्य॒ग्निः स॑मिधा॒नो अ॒स्मे उपो॑ अदृश्र॒न्तम॑सश्चि॒दन्ताः॑ ।  
+अचे॑ति के॒तुरु॒षसः॑ पु॒रस्ता॑च्छ्रि॒ये दि॒वो दु॑हि॒तुर्जाय॑मानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

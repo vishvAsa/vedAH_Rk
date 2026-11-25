@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sīrā́ḥ ← sīrā́- (nominal stem)
 
 srávitave ← √sru- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒र्वीरु॒षसः॑ श॒रद॑श्च गू॒र्ता वृ॒त्रं ज॑घ॒न्वाँ अ॑सृज॒द्वि सिन्धू॑न् ।  
+परि॑ष्ठिता अतृणद्बद्बधा॒नाः सी॒रा इन्द्रः॒ स्रवि॑तवे पृथि॒व्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

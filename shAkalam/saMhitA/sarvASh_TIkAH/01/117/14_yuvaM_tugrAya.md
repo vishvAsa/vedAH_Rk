@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ r̥jrébhiḥ ← r̥jrá- (nominal stem)
 
 víbhiḥ ← ví- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं तुग्रा॑य पू॒र्व्येभि॒रेवैः॑ पुनर्म॒न्याव॑भवतं युवाना ।  
+यु॒वं भु॒ज्युमर्ण॑सो॒ निः स॑मु॒द्राद्विभि॑रूहथुरृ॒ज्रेभि॒रश्वैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “horse; aśva \[word\]; Aśva; stallion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

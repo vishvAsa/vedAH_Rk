@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -80,7 +81,12 @@ svastíbhiḥ ← svastí- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर्व॑न्तो॒ न श्रव॑सो॒ भिक्ष॑माणा इन्द्रवा॒यू सु॑ष्टु॒तिभि॒र्वसि॑ष्ठाः ।  
+वा॒ज॒यन्तः॒ स्वव॑से हुवेम यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

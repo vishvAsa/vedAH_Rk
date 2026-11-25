@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ siṁháḥ ← siṁhá- (nominal stem)
 
 vástoḥ ← vástu- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अजा॒ वृत॑ इन्द्र॒ शूर॑पत्नी॒र्द्यां च॒ येभिः॑ पुरुहूत नू॒नम् ।  
+रक्षो॑ अ॒ग्निम॒शुषं॒ तूर्व॑याणं सिं॒हो न दमे॒ अपां॑सि॒ वस्तोः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

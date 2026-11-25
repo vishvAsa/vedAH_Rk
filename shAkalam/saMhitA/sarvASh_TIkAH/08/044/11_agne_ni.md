@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ dvéṣaḥ ← dvéṣas- (nominal stem)
 
 sahaskr̥ta ← sáhaskr̥ta- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ नि पा॑हि न॒स्त्वं प्रति॑ ष्म देव॒ रीष॑तः ।  
+भि॒न्धि द्वेषः॑ सहस्कृत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “increased; aroused.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -180,10 +185,6 @@ _________
 Split hatred, o might-made one.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Geldner I supply daha in b, with the preverb práti, since práti is not otherwise found with √pā, the verb of pāda a, but is common with √dah ‘burn’. Cf. esp. I.12.15 práti ṣma ríṣataḥ daha. VII.15.13b is identical to our pāda, and the verb in pāda c of that vs. is daha, which governs the acc. in b.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/044/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -191,7 +192,6 @@ The contents of the imploring mentioned in 10c seems to be given in direct speec
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शतप्रभेदनो वैरूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ urviyā́ ← urviyā́ (invariable)
 
 vidá ← √vid- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं पु॒रूण्या भ॑रा॒ स्वश्व्या॒ येभि॒र्मंसै॑ नि॒वच॑नानि॒ शंस॑न् ।  
+सु॒गेभि॒र्विश्वा॑ दुरि॒ता त॑रेम वि॒दो षु ण॑ उर्वि॒या गा॒धम॒द्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “now; today; then; nowadays; adya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

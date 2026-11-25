@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ samithéṣu ← samithá- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते नो॒ अर्व॑न्तो हवन॒श्रुतो॒ हवं॒ विश्वे॑ शृण्वन्तु वा॒जिनो॑ मि॒तद्र॑वः ।  
+स॒ह॒स्र॒सा मे॒धसा॑ताविव॒ त्मना॑ म॒हो ये धनं॑ समि॒थेषु॑ जभ्रि॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

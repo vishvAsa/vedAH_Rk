@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ रक्षोहणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ रक्षोहणौ
@@ -98,7 +99,12 @@ yáḥ ← yá- (pronoun)
 
 yā́tudhāna ← yātudhā́na- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒द्या मु॑रीय॒ यदि॑ यातु॒धानो॒ अस्मि॒ यदि॒ वायु॑स्त॒तप॒ पूरु॑षस्य ।  
+अधा॒ स वी॒रैर्द॒शभि॒र्वि यू॑या॒ यो मा॒ मोघं॒ यातु॑धा॒नेत्याह॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
     explain; say; define.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

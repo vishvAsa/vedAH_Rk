@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "द्विपदा गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -43,7 +44,11 @@ ráthāḥ ← rátha- (nominal stem)
 
 vājayántaḥ ← √vājay- 2 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असृ॑ग्रन्दे॒ववी॑तये वाज॒यन्तो॒ रथा॑ इव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -89,7 +94,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -116,14 +120,12 @@ They have been released to pursue the gods, like chariots seeking  the prize.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
 This tṛca, ascribed to Jamadagni, is unifed first and foremost by its meter, Dvipadā Gāyatrī, the only representative of this meter in the hymn - and in fact in all of the RV (see Arnold p. 244). There is no particular unity in lexicon (though note mandáyan 16a and madíntamaḥ 18a), but the tṛca does mention the two gods who receive the first soma oblation, Indra (16) and Vāyu (18).
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

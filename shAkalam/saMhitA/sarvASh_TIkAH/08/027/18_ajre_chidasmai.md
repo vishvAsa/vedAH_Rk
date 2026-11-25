@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ naśyatu ← √naś- 2 (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अज्रे॑ चिदस्मै कृणुथा॒ न्यञ्च॑नं दु॒र्गे चि॒दा सु॑सर॒णम् ।  
+ए॒षा चि॑दस्माद॒शनिः॑ प॒रो नु सास्रे॑धन्ती॒ वि न॑श्यतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

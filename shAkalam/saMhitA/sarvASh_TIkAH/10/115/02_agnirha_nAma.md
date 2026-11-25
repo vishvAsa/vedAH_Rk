@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उपस्तुतो वार्ष्टिहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 yávase ← yávasa- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्ह॒ नाम॑ धायि॒ दन्न॒पस्त॑मः॒ सं यो वना॑ यु॒वते॒ भस्म॑ना द॒ता ।  
+अ॒भि॒प्र॒मुरा॑ जु॒ह्वा॑ स्वध्व॒र इ॒नो न प्रोथ॑मानो॒ यव॑से॒ वृषा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “bull; Indra; stallion; Vṛṣan; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

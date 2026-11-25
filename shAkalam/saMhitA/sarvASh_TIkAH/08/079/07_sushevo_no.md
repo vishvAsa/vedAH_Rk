@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "कृत्नुर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -60,7 +61,12 @@ naḥ ← ahám (pronoun)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒शेवो॑ नो मृळ॒याकु॒रदृ॑प्तक्रतुरवा॒तः ।  
+भवा॑ नः सोम॒ शं हृ॒दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “heart; heart; mind; breast; hṛd \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

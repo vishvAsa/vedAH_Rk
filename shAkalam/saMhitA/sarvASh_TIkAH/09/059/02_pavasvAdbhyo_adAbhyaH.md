@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -51,7 +52,12 @@ dhiṣáṇābhyaḥ ← dhiṣáṇā- (nominal stem)
 
 pávasva ← √pū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्वा॒द्भ्यो अदा॑भ्यः॒ पव॒स्वौष॑धीभ्यः ।  
+पव॑स्व धि॒षणा॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +109,6 @@ _________
 - “heaven and earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

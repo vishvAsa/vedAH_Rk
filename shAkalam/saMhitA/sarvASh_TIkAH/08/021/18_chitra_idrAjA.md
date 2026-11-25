@@ -4,6 +4,7 @@ devataa = "चित्रस्य दानस्तुतिः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - चित्रस्य दानस्तुतिः
@@ -83,7 +84,12 @@ dádat ← √dā- 1 (root)
 
 sahásram ← sahásra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चित्र॒ इद्राजा॑ राज॒का इद॑न्य॒के य॒के सर॑स्वती॒मनु॑ ।  
+प॒र्जन्य॑ इव त॒तन॒द्धि वृ॒ष्ट्या स॒हस्र॑म॒युता॒ दद॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -64,7 +65,12 @@ stotŕ̥bhyaḥ ← stotár- (nominal stem)
 
 svastáye ← svastí- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नः॑ पावक दीदिहि द्यु॒मद॒स्मे सु॒वीर्य॑म् ।  
+भवा॑ स्तो॒तृभ्यो॒ अन्त॑मः स्व॒स्तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
     well; luck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

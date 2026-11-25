@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -119,7 +120,13 @@ imā́ḥ ← ayám (pronoun)
 
 mandasānáḥ ← mandasāná- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒दुष्टे॑ अ॒स्य वी॒र्य॑स्य पू॒रवः॒ पुरो॒ यदि॑न्द्र॒ शार॑दीर॒वाति॑रः सासहा॒नो अ॒वाति॑रः ।  
+शास॒स्तमि॑न्द्र॒ मर्त्य॒मय॑ज्युं शवसस्पते ।  
+म॒हीम॑मुष्णाः पृथि॒वीमि॒मा अ॒पो म॑न्दसा॒न इ॒मा अ॒पः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -301,7 +308,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

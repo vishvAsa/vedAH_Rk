@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -64,7 +65,12 @@ cíketa ← √cit- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज॒ज्ञा॒नं स॒प्त मा॒तरो॑ वे॒धाम॑शासत श्रि॒ये ।  
+अ॒यं ध्रु॒वो र॑यी॒णां चिके॑त॒ यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “once \[when\]; because; that; if; how.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ sásniḥ ← sásni- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं सो॑म नृ॒माद॑नः॒ पव॑स्व चर्षणी॒सहे॑ ।  
+सस्नि॒र्यो अ॑नु॒माद्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “praise; cheer; applaud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

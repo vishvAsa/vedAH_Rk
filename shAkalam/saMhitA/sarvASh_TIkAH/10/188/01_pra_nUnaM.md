@@ -4,6 +4,7 @@ devataa = "अग्निर्जातवेदाः"
 RShiH = "श्येन आग्नेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्जातवेदाः
@@ -60,7 +61,12 @@ idám ← ayám (pronoun)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र नू॒नं जा॒तवे॑दस॒मश्वं॑ हिनोत वा॒जिन॑म् ।  
+इ॒दं नो॑ ब॒र्हिरा॒सदे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

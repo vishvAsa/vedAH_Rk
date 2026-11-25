@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ mr̥janti ← √mr̥j- (root)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑य पवते॒ मदः॒ सोमो॑ म॒रुत्व॑ते सु॒तः ।  
+स॒हस्र॑धारो॒ अत्यव्य॑मर्षति॒ तमी॑ मृजन्त्या॒यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -204,10 +209,6 @@ Soma purifies himself as the exhilarating drink, pressed for Indra along  with t
 Possessed of a thousand streams he rushes beyond the sheep’s fleece.  The Āyus groom him.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The enclitic ī in d could stand for *īm in this sandhi position before mṛjanti with degemination.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/17-18.md">
 <details><summary><h2>17-18 ...{Loading}...</h2></summary>
 
@@ -215,7 +216,6 @@ No particular internal cohesion, but a number of ties with other parts of the hy
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

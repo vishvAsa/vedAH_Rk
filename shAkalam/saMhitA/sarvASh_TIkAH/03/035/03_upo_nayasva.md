@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ divé-dive ← dyú- ~ div- (nominal stem)
 
 sadŕ̥śīḥ ← sadŕ̥ś- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपो॑ नयस्व॒ वृष॑णा तपु॒ष्पोतेम॑व॒ त्वं वृ॑षभ स्वधावः ।  
+ग्रसे॑ता॒मश्वा॒ वि मु॑चे॒ह शोणा॑ दि॒वेदि॑वे स॒दृशी॑रद्धि धा॒नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “Dhānā; Coriander; corn; grain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

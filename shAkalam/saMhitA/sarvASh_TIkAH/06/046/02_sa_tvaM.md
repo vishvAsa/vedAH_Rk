@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ satrā́ ← satrā́ (invariable)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स त्वं न॑श्चित्र वज्रहस्त धृष्णु॒या म॒हः स्त॑वा॒नो अ॑द्रिवः ।  
+गामश्वं॑ र॒थ्य॑मिन्द्र॒ सं कि॑र स॒त्रा वाजं॒ न जि॒ग्युषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -252,10 +257,6 @@ So you—o dazzling one with mace in hand, o possessor of the stone,  being prai
 heap up for us cow, horse, and chariotry altogether like a prize for the  winner, o Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner takes rathyàm as an adj. modifying áśvam (Wagenross); Grassmann does as well, assigning the form to the vṛkī-inflected stem rathī́- (so also Lubotsky). Neither of these interpr. is impossible; however, I prefer to take rathyàm as belonging to the marginal them. stem rathyà- (beside better attested ráthya-) and also to take it as a third term in the gifts we want from Indra. There is nothing riding on the choice of interpr., however.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -269,7 +270,6 @@ kira (see my 1992 “Vedic ‘sá figé’: An inherited sentence connective?”
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

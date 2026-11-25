@@ -4,6 +4,7 @@ devataa = "अग्निरग्निरौषस्योवा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निरौषस्योवा
@@ -80,7 +81,12 @@ pratīcī́ ← pratyáñc- (nominal stem)
 
 siṁhám ← siṁhá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒विष्ट्यो॑ वर्धते॒ चारु॑रासु जि॒ह्माना॑मू॒र्ध्वः स्वय॑शा उ॒पस्थे॑ ।  
+उ॒भे त्वष्टु॑र्बिभ्यतु॒र्जाय॑मानात्प्रती॒ची सिं॒हं प्रति॑ जोषयेते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - \[verb\], dual, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,12 +232,6 @@ The beloved one, manifest, grows strong among them—the self-glorious  one upri
 Both (world-halves) are afraid of (the babe) of Tvaṣṭar while he is being  born, (but turning) back to face him, the two give the lion pleasure in  return.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The hymn began with unnamed dual feminines attending to the young fire; this verse also contains unnamed dual feminines in the same role. But the identities of the two pairs are different: Night and Dawn in 1, the world-halves in 5cd, 6a.
-
-Note the word play of pratīcī́… práti, with slightly different meanings.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/095/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -240,7 +239,6 @@ The caus. (práti) joṣayete in 5d, 6a literally means “they two cause (him) 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

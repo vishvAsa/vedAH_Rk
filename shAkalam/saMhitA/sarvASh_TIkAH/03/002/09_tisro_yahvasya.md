@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ ulokám ← uloká- (nominal stem)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒स्रो य॒ह्वस्य॑ स॒मिधः॒ परि॑ज्मनो॒ऽग्नेर॑पुनन्नु॒शिजो॒ अमृ॑त्यवः ।  
+तासा॒मेका॒मद॑धु॒र्मर्त्ये॒ भुज॑मु लो॒कमु॒ द्वे उप॑ जा॒मिमी॑यतुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

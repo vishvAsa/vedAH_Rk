@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "जरिता"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ purás ← purás (invariable)
 
 tmánā ← tmán- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒वत्ते॑ अग्ने॒ जनि॑मा पितूय॒तः सा॒चीव॒ विश्वा॒ भुव॑ना॒ न्यृ॑ञ्जसे ।  
+प्र सप्त॑यः॒ प्र स॑निषन्त नो॒ धियः॑ पु॒रश्च॑रन्ति पशु॒पा इ॑व॒ त्मना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “self.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

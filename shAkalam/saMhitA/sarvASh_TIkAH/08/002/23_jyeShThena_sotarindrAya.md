@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ náryāya ← nárya- (nominal stem)
 
 píbat ← √pā- 2 (root)  
 {number:SG, person:3, mood:INJ, tense:IPRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज्येष्ठे॑न सोत॒रिन्द्रा॑य॒ सोमं॑ वी॒राय॑ श॒क्राय॑ ।  
+भरा॒ पिब॒न्नर्या॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “manly; heroic; powerful; male; human.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

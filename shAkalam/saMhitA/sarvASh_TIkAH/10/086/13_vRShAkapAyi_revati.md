@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वृषाकपिः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -82,7 +83,12 @@ priyám ← priyá- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॑कपायि॒ रेव॑ति॒ सुपु॑त्र॒ आदु॒ सुस्नु॑षे ।  
+घस॑त्त॒ इन्द्र॑ उ॒क्षणः॑ प्रि॒यं का॑चित्क॒रं ह॒विर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -222,7 +227,7 @@ _________
 
 This seems to be also addressed by Indra to Indrāṇī, who is here called Vr̥ṣākapāyī. This latter name has caused a difference of opinion, some considering Vr̥ṣakapāyī to be the mother, some the wife of Vr̥ṣākapi. +++(See Max Muller's Lectures on the Science of Language, Vol. II., 538)+++ I do not see how the wife of Vriṣākapi as such, could be introduced in the song, unless Vr̥ṣākapi is understood to be the name of Indra himself. Commentators, who take Vr̥ṣākapāyī to mean the wife of Vr̥ṣākapi, accordingly adopt the latter view. Pischel and Geldner think that the verse is addressed by Vriṣākapi to his wife Vr̥ṣākapāyī.
 
-The verse means, "O rich Vr̥ṣākapāyī having a good son and a daughter-in-law, let Indra swallow the bulls, your favourite and delightful oblation, Indra &c." There has been much speculation as to who could be the son and the daughter-in-law of Vr̥ṣākapāyī. But if Vr̥ṣākapāyī be understood to mean the wife of Indra, it causes no such difficulty. The adjectives "having a good son." &c, are simply complimentary, corresponding to the statement of Indrāṇī, that she was the "mother of the brave" in verse 9. Indra accepting her statements, asks her to allow him to swallow the watery oblations said to come from Vr̥ṣākapi in the last verse. The words priyam and havis are the same in both the verses; and I think that both of them refer to the same oblations. 
+The verse means, "O rich Vr̥ṣākapāyī having a good son and a daughter-in-law, let Indra swallow the bulls, your favourite and delightful oblation, Indra &c." There has been much speculation as to who could be the son and the daughter-in-law of Vr̥ṣākapāyī. But if Vr̥ṣākapāyī be understood to mean the wife of Indra, it causes no such difficulty. The adjectives "having a good son." &c, are simply complimentary, corresponding to the statement of Indrāṇī, that she was the "mother of the brave" in verse 9. Indra accepting her statements, asks her to allow him to swallow the watery oblations said to come from Vr̥ṣākapi in the last verse. The words priyam and havis are the same in both the verses; and I think that both of them refer to the same oblations.
 </details>
 
 <details><summary>Wilson</summary>

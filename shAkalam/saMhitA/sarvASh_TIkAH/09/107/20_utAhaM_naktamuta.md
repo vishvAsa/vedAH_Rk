@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ paptima ← √pat- 1 (root)
 
 śakunā́ḥ ← śakuná- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ताहं नक्त॑मु॒त सो॑म ते॒ दिवा॑ स॒ख्याय॑ बभ्र॒ ऊध॑नि ।  
+घृ॒णा तप॑न्त॒मति॒ सूर्यं॑ प॒रः श॑कु॒ना इ॑व पप्तिम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     throw; lodge; disappear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -240,16 +245,6 @@ Both by night and by day, Soma, I am at your udder for fellowship with  you, o b
 We have flown like birds far past the sun that scorches with its heat.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. is identical in conceptual structure to 19. The first hemistich expresses the 1st-ps. speaker’s constant close relationship to Soma, using the word sakhyá- ‘fellowship’ and an “every day” expression (divé-dive in 19b, náktam utá … divā́in 20a). The 2nd iteration is more intimate than the first: in 19 the poet simply rejoices in his fellowship, but in 20 he is “at your udder for fellowship” (sakhyā́ya … ū́dhani, suggesting a mother/child suckling relationship.
-
-As for this ū́dhani: because this occurrence is followed by the phrase ghṛṇā́ tápantam “scorching with its heat” and because ū́dhar / ū́dhan- is found in V.34.3 in opposition to ghraṃsá- ‘heat’, Renou suggests that the two passages need to be interpr.
-
-in conjunction with each other. For Renou this means rejecting the existence of an independent (ū́dhar /) ū́dhan- meaning ‘cold’ (accepted by Geldner, EWA, and me), since ‘cold’ does not work in our passage. But I do subscribe to the two ū́dhan- view—see comm. ad VIII.2.12—with the one here belonging to the dominant ‘udder’ stem. I simply consider the mention of scorching heat in the next hemistich to be coincidence.
-
-The 2nd hemistich matches that of 19. In 19 the poet complains about his afflictions and then invites Soma to pass beyond the barriers. In this vs. the escape presumably effected by Soma in 19 provides the model for the one made by “us.” Just as Soma was to go “beyond the barriers” (paridhī́ṃr áti) so did we fly (paptima) “beyond the sun” (áti sū́ryam)—far beyond it (párah). The sun scorching with its heat, described in c, corresponds to the many things that got me down in 19c, and in both d pādas these troubles are overcome, passed beyond. Soma’s presumably successful journey beyond the barriers—barriers that are probably ritually related (see above)—makes it possible for us to overcome our own difficulties with triumphant flight.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/19-20.md">
 <details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -257,7 +252,6 @@ This is the first and only place in the hymn in which the 1st person is found. T
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

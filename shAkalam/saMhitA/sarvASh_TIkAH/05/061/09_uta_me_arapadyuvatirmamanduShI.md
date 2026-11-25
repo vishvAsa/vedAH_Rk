@@ -4,6 +4,7 @@ devataa = "पुरुमीळ्हो वैददश्विः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरुमीळ्हो वैददश्विः
@@ -74,7 +75,12 @@ dīrgháyaśase ← dīrgháyaśas- (nominal stem)
 
 víprāya ← vípra- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त मे॑ऽरपद्युव॒तिर्म॑म॒न्दुषी॒ प्रति॑ श्या॒वाय॑ वर्त॒निम् ।  
+वि रोहि॑ता पुरुमी॒ळ्हाय॑ येमतु॒र्विप्रा॑य दी॒र्घय॑शसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “fame; Yaśas.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

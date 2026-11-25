@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ préṣṭham ← préṣṭha- (nominal stem)
 
 rudrā́ya ← rudrá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यज॑न्ते अस्य स॒ख्यं वय॑श्च नम॒स्विनः॒ स्व ऋ॒तस्य॒ धाम॑न् ।  
+वि पृक्षो॑ बाबधे॒ नृभिः॒ स्तवा॑न इ॒दं नमो॑ रु॒द्राय॒ प्रेष्ठ॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “dearest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

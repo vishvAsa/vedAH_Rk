@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -74,7 +75,12 @@ párvatāḥ ← párvata- (nominal stem)
 
 pravátvantaḥ ← pravátvant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒वत्व॑ती॒यं पृ॑थि॒वी म॒रुद्भ्यः॑ प्र॒वत्व॑ती॒ द्यौर्भ॑वति प्र॒यद्भ्यः॑ ।  
+प्र॒वत्व॑तीः प॒थ्या॑ अ॒न्तरि॑क्ष्याः प्र॒वत्व॑न्तः॒ पर्व॑ता जी॒रदा॑नवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “Dānu; dew; drop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

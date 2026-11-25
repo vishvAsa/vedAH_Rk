@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -55,7 +56,11 @@ ugrā́ḥ ← ugrá- (nominal stem)
 
 vr̥tréṣu ← vr̥trá- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आप॑श्चिदस्मै॒ पिन्व॑न्त पृ॒थ्वीर्वृ॒त्रेषु॒ शूरा॒ मंस॑न्त उ॒ग्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +127,6 @@ _________
     atrocious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

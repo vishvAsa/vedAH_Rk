@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -61,7 +62,11 @@ rátnā ← rátna- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते ते॑ दे॒वाय॒ दाश॑तः स्याम म॒हो नो॒ रत्ना॒ वि द॑ध इया॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +147,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मनुराप्सवः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ sadaḥ ← √sad- (root)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व दे॒ववी॑तय॒ इन्दो॒ धारा॑भि॒रोज॑सा ।  
+आ क॒लशं॒ मधु॑मान्त्सोम नः सदः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -173,10 +178,6 @@ _________
 Purify yourself in streams, o drop, to pursue the gods with strength. Honeyed, sit in our tub, o Soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On imperatival sadaḥ, see comm. ad IX.2.2.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -184,7 +185,6 @@ Because of the distribution of word boundaries, the first two vss. of this tṛc
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

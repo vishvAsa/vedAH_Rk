@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ sātaú ← sātí- (nominal stem)
 
 vā́jasya ← vā́ja- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं य॒ज्ञं चनो॑ धा अग्न उ॒शन्यं त॑ आसा॒नो जु॑हु॒ते ह॒विष्मा॑न् ।  
+भ॒रद्वा॑जेषु दधिषे सुवृ॒क्तिमवी॒र्वाज॑स्य॒ गध्य॑स्य सा॒तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “victory; acquisition; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

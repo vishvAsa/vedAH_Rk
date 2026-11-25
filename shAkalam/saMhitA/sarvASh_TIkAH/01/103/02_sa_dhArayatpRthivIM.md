@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ maghávā ← maghávan- (nominal stem)
 
 vyàṁsam ← vyàṁsa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स धा॑रयत्पृथि॒वीं प॒प्रथ॑च्च॒ वज्रे॑ण ह॒त्वा निर॒पः स॑सर्ज ।  
+अह॒न्नहि॒मभि॑नद्रौहि॒णं व्यह॒न्व्यं॑सं म॒घवा॒ शची॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “Śacī; power; dexterity; ability; aid.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

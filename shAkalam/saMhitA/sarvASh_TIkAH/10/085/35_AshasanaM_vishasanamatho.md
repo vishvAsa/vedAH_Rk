@@ -4,6 +4,7 @@ devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्या
@@ -68,7 +69,12 @@ tā́ni ← sá- ~ tá- (pronoun)
 
 tú ← tú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒शस॑नं वि॒शस॑न॒मथो॑ अधिवि॒कर्त॑नम् ।  
+सू॒र्यायाः॑ पश्य रू॒पाणि॒ तानि॑ ब्र॒ह्मा तु शु॑न्धति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “become pure; purify; wash; expiate; clean; cleanse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

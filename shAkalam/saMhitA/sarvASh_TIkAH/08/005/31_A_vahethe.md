@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ dā́sīḥ ← dā́sī- (nominal stem)
 
 íṣaḥ ← íṣ- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ व॑हेथे परा॒कात्पू॒र्वीर॒श्नन्ता॑वश्विना ।  
+इषो॒ दासी॑रमर्त्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “immortal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ devā́saḥ ← devá- (nominal stem)
 
 svásr̥̄ṇām ← svásar- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मयो॑ दधे॒ मेधि॑रः पू॒तद॑क्षो दि॒वः सु॒बन्धु॑र्ज॒नुषा॑ पृथि॒व्याः ।  
+अवि॑न्दन्नु दर्श॒तम॒प्स्व१॒॑न्तर्दे॒वासो॑ अ॒ग्निम॒पसि॒ स्वसॄ॑णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “sister; svasṛ \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sákhāyam ← sákhi- (nominal stem)
 
 víṣūcoḥ ← víṣvañc- (nominal stem)  
 {case:LOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रो॒ळा इत्तु॒र्वशो॒ यक्षु॑रासीद्रा॒ये मत्स्या॑सो॒ निशि॑ता॒ अपी॑व ।  
+श्रु॒ष्टिं च॑क्रु॒र्भृग॑वो द्रु॒ह्यव॑श्च॒ सखा॒ सखा॑यमतर॒द्विषू॑चोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “dispersed; viṣvañc \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

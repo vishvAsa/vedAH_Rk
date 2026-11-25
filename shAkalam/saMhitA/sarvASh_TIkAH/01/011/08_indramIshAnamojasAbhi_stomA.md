@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "जेता माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ utá ← utá (invariable)
 
 vā ← vā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒मीशा॑न॒मोज॑सा॒भि स्तोमा॑ अनूषत ।  
+स॒हस्रं॒ यस्य॑ रा॒तय॑ उ॒त वा॒ सन्ति॒ भूय॑सीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “more(a); more(a); abounding in(p); stronger; bigger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

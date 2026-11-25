@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ gómatīḥ ← gómant- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उषो॒ यद॒द्य भा॒नुना॒ वि द्वारा॑वृ॒णवो॑ दि॒वः ।  
+प्र नो॑ यच्छतादवृ॒कं पृ॒थु च्छ॒र्दिः प्र दे॑वि॒ गोम॑ती॒रिषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

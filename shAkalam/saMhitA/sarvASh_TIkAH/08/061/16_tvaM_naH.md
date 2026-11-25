@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ kr̥ṇuhi ← √kr̥- (root)
 
 hetī́ḥ ← hetí- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नः॑ प॒श्चाद॑ध॒रादु॑त्त॒रात्पु॒र इन्द्र॒ नि पा॑हि वि॒श्वतः॑ ।  
+आ॒रे अ॒स्मत्कृ॑णुहि॒ दैव्यं॑ भ॒यमा॒रे हे॒तीरदे॑वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “godless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

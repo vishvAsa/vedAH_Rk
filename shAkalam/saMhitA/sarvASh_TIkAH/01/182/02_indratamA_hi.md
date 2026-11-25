@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ téna ← sá- ~ tá- (pronoun)
 
 yāthaḥ ← √yā- 1 (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑तमा॒ हि धिष्ण्या॑ म॒रुत्त॑मा द॒स्रा दंसि॑ष्ठा र॒थ्या॑ र॒थीत॑मा ।  
+पू॒र्णं रथं॑ वहेथे॒ मध्व॒ आचि॑तं॒ तेन॑ दा॒श्वांस॒मुप॑ याथो अश्विना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -236,12 +241,6 @@ Because you holy ones are the first of Indras and the first of Maruts, the  most
 you bring your full chariot loaded with honey. With it you drive right up  to the pious man, o Aśvins.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The two cmpds índratamā and marúttamā, superlative in form, are generally taken to mean ‘most similar to Indra / the Maruts’ (Grassmann, Geldner, Witzel Gotō). I suppose that is their ultimate purport, but I think the effect is stronger: the Aśvins are said to possess the qualities of those gods in an even higher degree than those gods themselves do.
-
-Idiomatic English would use the comparative: “more Indra than Indra” (or, in a wellknown colloquial expression, at least in my childhood, “more Catholic than the Pope”).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/182/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -249,7 +248,6 @@ The two 2nd dual middles, vahethe (2c) and āsāthe (3a), would both be better m
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ usríyāṇām ← usríya- (nominal stem)
 
 vidáḥ ← √vid- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्थि॒रं मन॑श्चकृषे जा॒त इ॑न्द्र॒ वेषीदेको॑ यु॒धये॒ भूय॑सश्चित् ।  
+अश्मा॑नं चि॒च्छव॑सा दिद्युतो॒ वि वि॒दो गवा॑मू॒र्वमु॒स्रिया॑णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “red.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "उरुक्षय आमहीयवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -57,7 +58,12 @@ dī́dyat ← √dī- 1 (root)
 
 urukṣáyeṣu ← urukṣáya- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स त्वम॑ग्ने॒ प्रती॑केन॒ प्रत्यो॑ष यातुधा॒न्यः॑ ।  
+उ॒रु॒क्षये॑षु॒ दीद्य॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “shine; glitter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -89,7 +90,12 @@ bŕ̥haspate ← bŕ̥haspáti- (nominal stem)
 
 nís ← nís (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॑ श्रि॒ये व्य॑जिहीत॒ पर्व॑तो॒ गवां॑ गो॒त्रमु॒दसृ॑जो॒ यद॑ङ्गिरः ।  
+इन्द्रे॑ण यु॒जा तम॑सा॒ परी॑वृतं॒ बृह॑स्पते॒ निर॒पामौ॑ब्जो अर्ण॒वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “wave; flood.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

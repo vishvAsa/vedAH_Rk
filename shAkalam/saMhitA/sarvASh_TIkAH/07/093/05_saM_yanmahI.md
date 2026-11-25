@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -77,7 +78,12 @@ satrā́ ← satrā́ (invariable)
 
 somasútā ← somasút- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं यन्म॒ही मि॑थ॒ती स्पर्ध॑माने तनू॒रुचा॒ शूर॑साता॒ यतै॑ते ।  
+अदे॑वयुं वि॒दथे॑ देव॒युभिः॑ स॒त्रा ह॑तं सोम॒सुता॒ जने॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

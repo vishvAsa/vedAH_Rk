@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ vaṣṭi ← √vaś- (root)
 
 vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध्व॑र्यवो॒ भर॒तेन्द्रा॑य॒ सोम॒माम॑त्रेभिः सिञ्चता॒ मद्य॒मन्धः॑ ।  
+का॒मी हि वी॒रः सद॑मस्य पी॒तिं जु॒होत॒ वृष्णे॒ तदिदे॒ष व॑ष्टि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “desire; agree; call; care; like; love.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

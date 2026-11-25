@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ ná ← ná (invariable)
 
 śravasyávaḥ ← śravasyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मानस्य ते कवे॒ वाजि॒न्त्सर्गा॑ असृक्षत ।  
+अर्व॑न्तो॒ न श्र॑व॒स्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “celebrated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -149,10 +154,6 @@ _________
 Of you purifying yourself, o poet and prizewinner, the surges have surged, like chargers seeking fame.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Soma’s acquisition of “imperishable fame” in 7c is anticipated, as it were, by his streams, likened to horses, “seeking fame” (śravasyávaḥ).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -160,7 +161,6 @@ This tṛca is thematically unified by the journey theme, reinforced by two form
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

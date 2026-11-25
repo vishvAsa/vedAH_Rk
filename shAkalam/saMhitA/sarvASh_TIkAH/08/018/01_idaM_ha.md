@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -61,7 +62,12 @@ sumnám ← sumná- (nominal stem)
 
 sávīmani ← sávīman- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं ह॑ नू॒नमे॑षां सु॒म्नं भि॑क्षेत॒ मर्त्यः॑ ।  
+आ॒दि॒त्याना॒मपू॑र्व्यं॒ सवी॑मनि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “impulse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

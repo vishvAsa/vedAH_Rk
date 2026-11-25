@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -60,7 +61,12 @@ gandharvásya ← gandharvá- (nominal stem)
 
 padé ← padá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तयो॒रिद्घृ॒तव॒त्पयो॒ विप्रा॑ रिहन्ति धी॒तिभिः॑ ।  
+ग॒न्ध॒र्वस्य॑ ध्रु॒वे प॒दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
     topographic point; path; residence; site; topic.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

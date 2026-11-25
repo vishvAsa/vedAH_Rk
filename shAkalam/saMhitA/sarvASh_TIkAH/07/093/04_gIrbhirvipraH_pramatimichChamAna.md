@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -80,7 +81,12 @@ prá ← prá (invariable)
 
 tiratam ← √tr̥̄- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गी॒र्भिर्विप्रः॒ प्रम॑तिमि॒च्छमा॑न॒ ईट्टे॑ र॒यिं य॒शसं॑ पूर्व॒भाज॑म् ।  
+इन्द्रा॑ग्नी वृत्रहणा सुवज्रा॒ प्र नो॒ नव्ये॑भिस्तिरतं दे॒ष्णैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “gift; giving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -241,7 +246,6 @@ With his hymns the inspired poet seeking your solicitude reverently  invokes (yo
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/093/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -253,7 +257,6 @@ However, the first pāda of vs. 4 echoes 3b exactly, save for number: 3b … ví
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

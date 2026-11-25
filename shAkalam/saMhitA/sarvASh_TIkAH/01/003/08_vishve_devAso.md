@@ -4,6 +4,7 @@ devataa = "विश्वे देवाः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः
@@ -60,7 +61,12 @@ svásarāṇi ← svásara- (nominal stem)
 
 usrā́ḥ ← usrá- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ दे॒वासो॑ अ॒प्तुरः॑ सु॒तमा ग॑न्त॒ तूर्ण॑यः ।  
+उ॒स्रा इ॑व॒ स्वस॑राणि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “pasture; stall.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

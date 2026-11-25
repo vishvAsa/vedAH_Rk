@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -80,7 +81,12 @@ sudhā́tu ← sudhā́tu- (nominal stem)
 
 urú ← urú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो ब्रह्म॑णे सुम॒तिमा॒यजा॑ते॒ वाज॑स्य सा॒तौ प॑र॒मस्य॑ रा॒यः ।  
+सीक्ष॑न्त म॒न्युं म॒घवा॑नो अ॒र्य उ॒रु क्षया॑य चक्रिरे सु॒धातु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     inorganic compound.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

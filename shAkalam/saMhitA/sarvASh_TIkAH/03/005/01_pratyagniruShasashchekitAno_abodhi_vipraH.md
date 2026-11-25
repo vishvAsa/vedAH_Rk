@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ támasaḥ ← támas- (nominal stem)
 
 váhniḥ ← váhni- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रत्य॒ग्निरु॒षस॒श्चेकि॑ता॒नोऽबो॑धि॒ विप्रः॑ पद॒वीः क॑वी॒नाम् ।  
+पृ॒थु॒पाजा॑ देव॒यद्भिः॒ समि॒द्धोऽप॒ द्वारा॒ तम॑सो॒ वह्नि॑रावः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

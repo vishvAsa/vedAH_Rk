@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ vavr̥tyāḥ ← √vr̥t- (root)
 
 yajñíyām ← yajñíya- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समु॑ वो य॒ज्ञं म॑हय॒न्नमो॑भिः॒ प्र होता॑ म॒न्द्रो रि॑रिच उपा॒के ।  
+यज॑स्व॒ सु पु॑र्वणीक दे॒वाना य॒ज्ञिया॑म॒रम॑तिं ववृत्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

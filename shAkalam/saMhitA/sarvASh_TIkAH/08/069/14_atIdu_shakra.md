@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ pacyámānam ← √pac- (root)
 
 parás ← parás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अतीदु॑ श॒क्र ओ॑हत॒ इन्द्रो॒ विश्वा॒ अति॒ द्विषः॑ ।  
+भि॒नत्क॒नीन॑ ओद॒नं प॒च्यमा॑नं प॒रो गि॒रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

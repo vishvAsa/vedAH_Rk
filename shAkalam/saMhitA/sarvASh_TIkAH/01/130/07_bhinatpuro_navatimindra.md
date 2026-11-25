@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -113,7 +114,13 @@ dhánāni ← dhána- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भि॒नत्पुरो॑ नव॒तिमि॑न्द्र पू॒रवे॒ दिवो॑दासाय॒ महि॑ दा॒शुषे॑ नृतो॒ वज्रे॑ण दा॒शुषे॑ नृतो ।  
+अ॒ति॒थि॒ग्वाय॒ शम्ब॑रं गि॒रेरु॒ग्रो अवा॑भरत् ।  
+म॒हो धना॑नि॒ दय॑मान॒ ओज॑सा॒ विश्वा॒ धना॒न्योज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -275,7 +282,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

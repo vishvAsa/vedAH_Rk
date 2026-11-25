@@ -4,6 +4,7 @@ devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्याविवाहः
@@ -83,7 +84,12 @@ pūṣā́ ← pūṣán- (nominal stem)
 
 putráḥ ← putrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॑श्विना पृ॒च्छमा॑ना॒वया॑तं त्रिच॒क्रेण॑ वह॒तुं सू॒र्यायाः॑ ।  
+विश्वे॑ दे॒वा अनु॒ तद्वा॑मजानन्पु॒त्रः पि॒तरा॑ववृणीत पू॒षा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “Pushan; pūṣan \[word\]; sun.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

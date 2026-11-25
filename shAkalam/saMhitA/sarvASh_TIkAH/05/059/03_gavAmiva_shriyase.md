@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ naraḥ ← nár- (nominal stem)
 
 śriyáse ← śriyás- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गवा॑मिव श्रि॒यसे॒ शृङ्ग॑मुत्त॒मं सूर्यो॒ न चक्षू॒ रज॑सो वि॒सर्ज॑ने ।  
+अत्या॑ इव सु॒भ्व१॒॑श्चार॑वः स्थन॒ मर्या॑ इव श्रि॒यसे॑ चेतथा नरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

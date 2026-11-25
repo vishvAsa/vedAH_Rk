@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ utá ← utá (invariable)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मु॒द्रः सिन्धू॒ रजो॑ अ॒न्तरि॑क्षम॒ज एक॑पात्तनयि॒त्नुर॑र्ण॒वः ।  
+अहि॑र्बु॒ध्न्यः॑ शृणव॒द्वचां॑सि मे॒ विश्वे॑ दे॒वास॑ उ॒त सू॒रयो॒ मम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

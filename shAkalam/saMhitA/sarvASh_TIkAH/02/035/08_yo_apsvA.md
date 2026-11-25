@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -89,7 +90,12 @@ prajā́bhiḥ ← prajā́- (nominal stem)
 
 vīrúdhaḥ ← vīrúdh- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अ॒प्स्वा शुचि॑ना॒ दैव्ये॑न ऋ॒तावाज॑स्र उर्वि॒या वि॒भाति॑ ।  
+व॒या इद॒न्या भुव॑नान्यस्य॒ प्र जा॑यन्ते वी॒रुध॑श्च प्र॒जाभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     child; descendants; population; race; animal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

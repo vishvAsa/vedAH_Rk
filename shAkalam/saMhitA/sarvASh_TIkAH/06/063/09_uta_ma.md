@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ r̥ṣvā́n ← r̥ṣvá- (nominal stem)
 
 vaśā́saḥ ← vaśā́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त म॑ ऋ॒ज्रे पुर॑यस्य र॒घ्वी सु॑मी॒ळ्हे श॒तं पे॑रु॒के च॑ प॒क्वा ।  
+शा॒ण्डो दा॑द्धिर॒णिनः॒ स्मद्दि॑ष्टी॒न्दश॑ व॒शासो॑ अभि॒षाच॑ ऋ॒ष्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “distinguished; high; noble; enormous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

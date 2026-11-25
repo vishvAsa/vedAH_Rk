@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ dhanaṁjayáḥ ← dhanaṁjayá- (nominal stem)
 
 ráṇe-raṇe ← ráṇa- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त ब्रु॑वन्तु ज॒न्तव॒ उद॒ग्निर्वृ॑त्र॒हाज॑नि ।  
+ध॒नं॒ज॒यो रणे॑रणे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “battle; fight; pleasure; joy; war; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

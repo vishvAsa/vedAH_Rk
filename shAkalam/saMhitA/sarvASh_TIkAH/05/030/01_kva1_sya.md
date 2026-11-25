@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ tát ← sá- ~ tá- (pronoun)
 
 ūtī́ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्व१॒॑ स्य वी॒रः को अ॑पश्य॒दिन्द्रं॑ सु॒खर॑थ॒मीय॑मानं॒ हरि॑भ्याम् ।  
+यो रा॒या व॒ज्री सु॒तसो॑ममि॒च्छन्तदोको॒ गन्ता॑ पुरुहू॒त ऊ॒ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -262,12 +267,6 @@ Where is this hero? Who has seen Indra of the well-naved chariot  speeding with 
 the mace-bearer, who, seeking one who has pressed the soma, will come  to that home, when he is much invoked, with wealth, with help?
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Despite the distance between them and the syntagms in between, I take rāyā́ and ūtī́as parallel polarized instr. to be construed primarily with gántā. Geldner and Witzel Gotō differently, though also differently from each other.
-
-It is tempting to interpr gántā in d as a periphrastic future, a temptation yielded to in the published translation
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -275,7 +274,6 @@ Note the reciprocal ‘seeking’ (ichán) of Indra (1c) and his devotee (2b).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

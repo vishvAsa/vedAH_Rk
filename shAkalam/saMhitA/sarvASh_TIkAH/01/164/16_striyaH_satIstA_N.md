@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -113,7 +114,12 @@ vijānā́t ← √jñā- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्त्रियः॑ स॒तीस्ताँ उ॑ मे पुं॒स आ॑हुः॒ पश्य॑दक्ष॒ण्वान्न वि चे॑तद॒न्धः ।  
+क॒विर्यः पु॒त्रः स ई॒मा चि॑केत॒ यस्ता वि॑जा॒नात्स पि॒तुष्पि॒तास॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -301,7 +307,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

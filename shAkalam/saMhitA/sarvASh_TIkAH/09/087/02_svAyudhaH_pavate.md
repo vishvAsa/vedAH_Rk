@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)
 
 viṣṭambháḥ ← viṣṭambhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वा॒यु॒धः प॑वते दे॒व इन्दु॑रशस्ति॒हा वृ॒जनं॒ रक्ष॑माणः ।  
+पि॒ता दे॒वानां॑ जनि॒ता सु॒दक्षो॑ विष्ट॒म्भो दि॒वो ध॒रुणः॑ पृथि॒व्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

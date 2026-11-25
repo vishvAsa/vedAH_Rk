@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ pūrbhíḥ ← púr- (nominal stem)
 
 yaviṣṭhya ← yáviṣṭhya- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये राधां॑सि॒ दद॒त्यश्व्या॑ म॒घा कामे॑न॒ श्रव॑सो म॒हः ।  
+ताँ अंह॑सः पिपृहि प॒र्तृभि॒ष्ट्वं श॒तं पू॒र्भिर्य॑विष्ठ्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “youngest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

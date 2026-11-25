@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ r̥tā́vani ← ŕ̥tāvan- (nominal stem)
 
 súdhitam ← súdhita- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञेभि॒रद्भु॑तक्रतुं॒ यं कृ॒पा सू॒दय॑न्त॒ इत् ।  
+मि॒त्रं न जने॒ सुधि॑तमृ॒ताव॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “law-abiding; faithful; righteous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

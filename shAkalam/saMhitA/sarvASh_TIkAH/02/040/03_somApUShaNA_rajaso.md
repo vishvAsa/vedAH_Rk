@@ -4,6 +4,7 @@ devataa = "सोमापूषणौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमापूषणौ
@@ -71,7 +72,12 @@ tám ← sá- ~ tá- (pronoun)
 
 vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमा॑पूषणा॒ रज॑सो वि॒मानं॑ स॒प्तच॑क्रं॒ रथ॒मवि॑श्वमिन्वम् ।  
+वि॒षू॒वृतं॒ मन॑सा यु॒ज्यमा॑नं॒ तं जि॑न्वथो वृषणा॒ पञ्च॑रश्मिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “beam; rein; sunbeam; shininess; cord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

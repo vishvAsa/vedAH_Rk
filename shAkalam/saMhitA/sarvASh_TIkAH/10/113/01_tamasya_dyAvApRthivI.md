@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शतप्रभेदनो वैरूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ pītvī́ ← √pā- 2 (root)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम॑स्य॒ द्यावा॑पृथि॒वी सचे॑तसा॒ विश्वे॑भिर्दे॒वैरनु॒ शुष्म॑मावताम् ।  
+यदैत्कृ॑ण्वा॒नो म॑हि॒मान॑मिन्द्रि॒यं पी॒त्वी सोम॑स्य॒ क्रतु॑माँ अवर्धत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

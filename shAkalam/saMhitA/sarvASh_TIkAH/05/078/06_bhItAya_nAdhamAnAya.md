@@ -4,6 +4,7 @@ devataa = "अश्विनौ (गर्भस्राविण्युप�
 RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ (गर्भस्राविण्युपनिषत्)
@@ -71,7 +72,12 @@ ví ← ví (invariable)
 
 vr̥kṣám ← vr̥kṣá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भी॒ताय॒ नाध॑मानाय॒ ऋष॑ये स॒प्तव॑ध्रये ।  
+मा॒याभि॑रश्विना यु॒वं वृ॒क्षं सं च॒ वि चा॑चथः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - \[verb\], dual, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

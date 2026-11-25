@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पूरुरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ r̥ṇvati ← √r̥- 1 (root)
 
 vā́ram ← vā́ra- 2 (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि द्युभि॒र्जना॑नां॒ होता॒ दक्ष॑स्य बा॒ह्वोः ।  
+वि ह॒व्यम॒ग्निरा॑नु॒षग्भगो॒ न वार॑मृण्वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
     begin; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

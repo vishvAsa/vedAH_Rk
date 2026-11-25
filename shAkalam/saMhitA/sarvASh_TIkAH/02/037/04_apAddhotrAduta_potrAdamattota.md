@@ -4,6 +4,7 @@ devataa = "द्रविणोदाः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रविणोदाः
@@ -83,7 +84,12 @@ drāviṇodasáḥ ← drāviṇodasá- (nominal stem)
 
 pibatu ← √pā- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपा॑द्धो॒त्रादु॒त पो॒त्राद॑मत्तो॒त ने॒ष्ट्राद॑जुषत॒ प्रयो॑ हि॒तम् ।  
+तु॒रीयं॒ पात्र॒ममृ॑क्त॒मम॑र्त्यं द्रविणो॒दाः पि॑बतु द्राविणोद॒सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

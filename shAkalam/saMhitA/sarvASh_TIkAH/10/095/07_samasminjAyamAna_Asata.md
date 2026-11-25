@@ -4,6 +4,7 @@ devataa = "पुरूरवा ऐळः"
 RShiH = "उर्वशी ऋषिका"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरूरवा ऐळः
@@ -86,7 +87,12 @@ dasyuhátyāya ← dasyuhátya- (nominal stem)
 
 devā́ḥ ← devá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सम॑स्मि॒ञ्जाय॑मान आसत॒ ग्ना उ॒तेम॑वर्धन्न॒द्य१॑ः॒ स्वगू॑र्ताः ।  
+म॒हे यत्त्वा॑ पुरूरवो॒ रणा॒याव॑र्धयन्दस्यु॒हत्या॑य दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

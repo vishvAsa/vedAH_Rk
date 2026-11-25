@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sahávatsā ← sahávatsa- (nominal stem)
 
 śaye ← √śī- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नी॒चाव॑या अभवद्वृ॒त्रपु॒त्रेन्द्रो॑ अस्या॒ अव॒ वध॑र्जभार ।  
+उत्त॑रा॒ सूरध॑रः पु॒त्र आ॑सी॒द्दानुः॑ शये स॒हव॑त्सा॒ न धे॒नुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “cow; dhenu \[word\]; milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

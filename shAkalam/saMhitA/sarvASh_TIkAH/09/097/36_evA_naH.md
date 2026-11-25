@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ vā́cam ← vā́c- (nominal stem)
 
 vardháya ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा नः॑ सोम परिषि॒च्यमा॑न॒ आ प॑वस्व पू॒यमा॑नः स्व॒स्ति ।  
+इन्द्र॒मा वि॑श बृह॒ता रवे॑ण व॒र्धया॒ वाचं॑ ज॒नया॒ पुरं॑धिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “liberality; Puraṃdhi; munificence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -234,10 +239,6 @@ Thus, o Soma, being poured around, being purified, bring well-being  here to us 
 Enter Indra with a lofty shout; strengthen speech, beget plenitude.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The hymn-summary evā́could once again be rendered more forcefully: “in just this way” vel sim.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/34-36.md">
 <details><summary><h2>34-36 ...{Loading}...</h2></summary>
 
@@ -245,7 +246,6 @@ All three vss. concentrate on ritual speech and on the noisy approach of both co
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

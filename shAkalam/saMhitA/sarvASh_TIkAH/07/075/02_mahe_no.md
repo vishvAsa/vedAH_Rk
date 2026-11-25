@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ márteṣu ← márta- (nominal stem)
 
 śravasyúm ← śravasyú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हे नो॑ अ॒द्य सु॑वि॒ताय॑ बो॒ध्युषो॑ म॒हे सौभ॑गाय॒ प्र य॑न्धि ।  
+चि॒त्रं र॒यिं य॒शसं॑ धेह्य॒स्मे देवि॒ मर्ते॑षु मानुषि श्रव॒स्युम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “celebrated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

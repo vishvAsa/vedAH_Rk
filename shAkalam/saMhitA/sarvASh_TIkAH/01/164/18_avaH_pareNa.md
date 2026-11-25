@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ mánaḥ ← mánas- (nominal stem)
 
 prájātam ← √janⁱ- (root)  
 {case:NOM, gender:N, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒वः परे॑ण पि॒तरं॒ यो अ॑स्यानु॒वेद॑ प॒र ए॒नाव॑रेण ।  
+क॒वी॒यमा॑नः॒ क इ॒ह प्र वो॑चद्दे॒वं मनः॒ कुतो॒ अधि॒ प्रजा॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     issue.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

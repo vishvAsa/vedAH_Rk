@@ -4,6 +4,7 @@ devataa = "उषासानक्ता"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषासानक्ता
@@ -80,7 +81,12 @@ suvitā́ya ← suvitá- (nominal stem)
 
 yajñíye ← yajñíya- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त योष॑णे दि॒व्ये म॒ही न॑ उ॒षासा॒नक्ता॑ सु॒दुघे॑व धे॒नुः ।  
+ब॒र्हि॒षदा॑ पुरुहू॒ते म॒घोनी॒ आ य॒ज्ञिये॑ सुवि॒ताय॑ श्रयेताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

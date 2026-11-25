@@ -4,6 +4,7 @@ devataa = "रथवीतिर्दाल्भ्यः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रथवीतिर्दाल्भ्यः
@@ -54,7 +55,12 @@ maghávā ← maghávan- (nominal stem)
 
 párvateṣu ← párvata- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष क्षे॑ति॒ रथ॑वीतिर्म॒घवा॒ गोम॑ती॒रनु॑ ।  
+पर्व॑ते॒ष्वप॑श्रितः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - “withdraw.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -144,12 +149,6 @@ This Rathavīti dwells in peace, a bounteous patron throughout the  cow-rich (cl
 set back among the mountains.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner and Renou take gómatīḥ as a ref. to the Gomatī river; Witzel Gotō to “cow-rich lands.” I think it’s likely a pun, and I supply víśaḥ ‘clans’ for one half of the pun.
-
-[V.62-78 JPB]
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/17-19.md">
 <details><summary><h2>17-19 ...{Loading}...</h2></summary>
 
@@ -157,7 +156,6 @@ As noted in the published introduction, the patron’s name Rathavīti (‘pursu
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

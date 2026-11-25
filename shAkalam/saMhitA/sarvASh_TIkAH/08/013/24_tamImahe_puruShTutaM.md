@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -67,7 +68,12 @@ sadat ← √sad- (root)
 
 dvitā́ ← dvitā́ (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमी॑महे पुरुष्टु॒तं य॒ह्वं प्र॒त्नाभि॑रू॒तिभिः॑ ।  
+नि ब॒र्हिषि॑ प्रि॒ये स॑द॒दध॑ द्वि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “again.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

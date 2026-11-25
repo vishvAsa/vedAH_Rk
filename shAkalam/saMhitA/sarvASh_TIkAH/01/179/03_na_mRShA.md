@@ -4,6 +4,7 @@ devataa = "रतिः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रतिः
@@ -95,7 +96,12 @@ samyáñcā ← samyáñc- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न मृषा॑ श्रा॒न्तं यदव॑न्ति दे॒वा विश्वा॒ इत्स्पृधो॑ अ॒भ्य॑श्नवाव ।  
+जया॒वेदत्र॑ श॒तनी॑थमा॒जिं यत्स॒म्यञ्चा॑ मिथु॒नाव॒भ्यजा॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “drive; expel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

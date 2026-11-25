@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "शुनःशेप आजीगर्तिः | कृत्रिमो वैश्वामित्रो देवरातः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -66,7 +67,12 @@ dadhé ← √dhā- 1 (root)
 
 hástayoḥ ← hásta- (nominal stem)  
 {case:LOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यश्चि॒द्धि त॑ इ॒त्था भगः॑ शशमा॒नः पु॒रा नि॒दः ।  
+अ॒द्वे॒षो हस्त॑योर्द॒धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

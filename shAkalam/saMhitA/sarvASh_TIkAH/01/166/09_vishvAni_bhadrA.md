@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ vāvr̥te ← √vr̥t- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑नि भ॒द्रा म॑रुतो॒ रथे॑षु वो मिथ॒स्पृध्ये॑व तवि॒षाण्याहि॑ता ।  
+अंसे॒ष्वा वः॒ प्रप॑थेषु खा॒दयोऽक्षो॑ वश्च॒क्रा स॒मया॒ वि वा॑वृते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

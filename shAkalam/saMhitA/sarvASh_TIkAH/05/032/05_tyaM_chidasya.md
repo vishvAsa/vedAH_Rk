@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गातुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ támasi ← támas- (nominal stem)
 
 yúyutsantam ← √yudh- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्यं चि॑दस्य॒ क्रतु॑भि॒र्निष॑त्तमम॒र्मणो॑ वि॒ददिद॑स्य॒ मर्म॑ ।  
+यदीं॑ सुक्षत्र॒ प्रभृ॑ता॒ मद॑स्य॒ युयु॑त्सन्तं॒ तम॑सि ह॒र्म्ये धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

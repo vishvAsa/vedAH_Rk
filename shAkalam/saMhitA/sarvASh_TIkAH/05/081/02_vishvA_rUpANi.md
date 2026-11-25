@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -92,7 +93,12 @@ uṣásaḥ ← uṣás- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑ रू॒पाणि॒ प्रति॑ मुञ्चते क॒विः प्रासा॑वीद्भ॒द्रं द्वि॒पदे॒ चतु॑ष्पदे ।  
+वि नाक॑मख्यत्सवि॒ता वरे॒ण्योऽनु॑ प्र॒याण॑मु॒षसो॒ वि रा॑जति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

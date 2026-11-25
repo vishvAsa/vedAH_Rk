@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ ruja ← √ruj- (root)
 
 vŕ̥ṣṇyā ← vŕ̥ṣṇya- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं ज॑येम॒ त्वया॑ यु॒जा वृत॑म॒स्माक॒मंश॒मुद॑वा॒ भरे॑भरे ।  
+अ॒स्मभ्य॑मिन्द्र॒ वरि॑वः सु॒गं कृ॑धि॒ प्र शत्रू॑णां मघव॒न्वृष्ण्या॑ रुज ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “break; bend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -51,7 +52,12 @@ práti ← práti (invariable)
 
 stómaiḥ ← stóma- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या॒व॒यद्द्वे॑षसं त्वा चिकि॒त्वित्सू॑नृतावरि ।  
+प्रति॒ स्तोमै॑रभुत्स्महि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +114,6 @@ _________
     attend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

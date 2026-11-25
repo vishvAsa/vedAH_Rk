@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ urubjám ← urubjá- (nominal stem)
 
 vrajám ← vrajá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं नो॑ वि॒द्वान्व॑नवद्वनुष्य॒त इन्दुः॑ स॒त्राचा॒ मन॑सा पुरुष्टु॒तः ।  
+इ॒नस्य॒ यः सद॑ने॒ गर्भ॑माद॒धे गवा॑मुरु॒ब्जम॒भ्यर्ष॑ति व्र॒जम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     herd; flock; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

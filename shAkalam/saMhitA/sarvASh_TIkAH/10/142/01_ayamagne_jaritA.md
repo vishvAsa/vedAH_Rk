@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "जरिता"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -104,7 +105,12 @@ híṁsānām ← √hiṁs- (root)
 
 kr̥dhi ← √kr̥- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यम॑ग्ने जरि॒ता त्वे अ॑भू॒दपि॒ सह॑सः सूनो न॒ह्य१॒॑न्यदस्त्याप्य॑म् ।  
+भ॒द्रं हि शर्म॑ त्रि॒वरू॑थ॒मस्ति॑ त आ॒रे हिंसा॑ना॒मप॑ दि॒द्युमा कृ॑धि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -280,7 +286,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

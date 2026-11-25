@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ vakṣan ← √vah- (root)
 
 várṇam ← várṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओ त्ये नर॒ इन्द्र॑मू॒तये॑ गु॒र्नू चि॒त्तान्त्स॒द्यो अध्व॑नो जगम्यात् ।  
+दे॒वासो॑ म॒न्युं दास॑स्य श्चम्न॒न्ते न॒ आ व॑क्षन्त्सुवि॒ताय॒ वर्ण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -260,7 +266,6 @@ _________
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

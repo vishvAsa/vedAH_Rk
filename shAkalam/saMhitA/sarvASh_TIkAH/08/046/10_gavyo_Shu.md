@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ mahāmaha ← mahāmahá- (nominal stem)
 
 varivasyá ← √varivasy- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग॒व्यो षु णो॒ यथा॑ पु॒राश्व॒योत र॑थ॒या ।  
+व॒रि॒व॒स्य म॑हामह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “great; abundant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

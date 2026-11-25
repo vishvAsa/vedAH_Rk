@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ paśváḥ ← paśú- (nominal stem)
 
 saṁgŕ̥bhya ← √gr̥bhⁱ- (root)  
 {non-finite:CVB}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॒ विश्वै॑र्वी॒र्यै॒३॑ः॒ पत्य॑मान उ॒भे आ प॑प्रौ॒ रोद॑सी महि॒त्वा ।  
+पु॒रं॒द॒रो वृ॑त्र॒हा धृ॒ष्णुषे॑णः सं॒गृभ्या॑ न॒ आ भ॑रा॒ भूरि॑ प॒श्वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     Paśu; herd; goat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

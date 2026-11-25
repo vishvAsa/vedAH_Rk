@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -86,7 +87,12 @@ uśaté ← √vaś- (root)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुचिं॒ नु स्तोमं॒ नव॑जातम॒द्येन्द्रा॑ग्नी वृत्रहणा जु॒षेथा॑म् ।  
+उ॒भा हि वां॑ सु॒हवा॒ जोह॑वीमि॒ ता वाजं॑ स॒द्य उ॑श॒ते धेष्ठा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - \[noun\], accusative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

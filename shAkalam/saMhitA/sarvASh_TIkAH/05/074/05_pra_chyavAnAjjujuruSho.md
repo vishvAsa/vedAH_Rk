@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ r̥ṇve ← √r̥- 1 (root)
 
 vadhvàḥ ← vadhū́- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र च्यवा॑नाज्जुजु॒रुषो॑ व॒व्रिमत्कं॒ न मु॑ञ्चथः ।  
+युवा॒ यदी॑ कृ॒थः पुन॒रा काम॑मृण्वे व॒ध्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “wife; woman; bride; female; Trigonella corniculata; female; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

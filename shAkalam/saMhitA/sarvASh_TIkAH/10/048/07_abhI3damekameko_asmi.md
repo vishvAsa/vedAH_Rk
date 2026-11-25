@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -101,7 +102,12 @@ nindanti ← √nid- (root)
 
 śátravaḥ ← śátru- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भी॒३॒॑दमेक॒मेको॑ अस्मि नि॒ष्षाळ॒भी द्वा किमु॒ त्रयः॑ करन्ति ।  
+खले॒ न प॒र्षान्प्रति॑ हन्मि॒ भूरि॒ किं मा॑ निन्दन्ति॒ शत्र॑वोऽनि॒न्द्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -269,7 +275,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

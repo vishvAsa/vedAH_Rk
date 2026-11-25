@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -51,7 +52,12 @@ indrāgnī́ ← indrāgní- (nominal stem)
 
 vājasā́tamā ← vājasā́tama- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तो॒शा वृ॑त्र॒हणा॑ हुवे स॒जित्वा॒नाप॑राजिता ।  
+इ॒न्द्रा॒ग्नी वा॑ज॒सात॑मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - \[noun\], accusative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

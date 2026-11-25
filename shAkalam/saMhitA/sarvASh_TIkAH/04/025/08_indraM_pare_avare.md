@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ náraḥ ← nár- (nominal stem)
 
 vājayántaḥ ← √vājay- 2 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रं॒ परेऽव॑रे मध्य॒मास॒ इन्द्रं॒ यान्तोऽव॑सितास॒ इन्द्र॑म् ।  
+इन्द्रं॑ क्षि॒यन्त॑ उ॒त युध्य॑माना॒ इन्द्रं॒ नरो॑ वाज॒यन्तो॑ हवन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

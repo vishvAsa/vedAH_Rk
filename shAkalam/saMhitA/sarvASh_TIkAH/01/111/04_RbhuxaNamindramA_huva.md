@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ sātáye ← sātí- (nominal stem)
 
 té ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒भु॒क्षण॒मिन्द्र॒मा हु॑व ऊ॒तय॑ ऋ॒भून्वाजा॑न्म॒रुतः॒ सोम॑पीतये ।  
+उ॒भा मि॒त्रावरु॑णा नू॒नम॒श्विना॒ ते नो॑ हिन्वन्तु सा॒तये॑ धि॒ये जि॒षे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

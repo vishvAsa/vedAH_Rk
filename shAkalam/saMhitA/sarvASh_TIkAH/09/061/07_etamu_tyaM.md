@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ akhyata ← √khyā- (root)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तमु॒ त्यं दश॒ क्षिपो॑ मृ॒जन्ति॒ सिन्धु॑मातरम् ।  
+समा॑दि॒त्येभि॑रख्यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “name; describe; call; enumerate; watch; know.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,14 +169,12 @@ Just him do the ten fingers groom, him whose mother is the river(s). He has been
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 The tṛca is characterized by the mention of gods in all three vss. The Ādityas frame it (ādityébhiḥ 7c, mitré váruṇe ca 9c), with a more miscellaneous group in between. It is also marked by initial repetition: sám opens pādas 7c, 8a, and 8c. This is imperfectly echoed by sá n(o) opening 9a.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ jā́gr̥vim ← jā́gr̥vi- (nominal stem)
 
 rátnavantam ← rátnavant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ तृ॒तीये॒ सव॑ने॒ हि कानि॑षः पुरो॒ळाशं॑ सहसः सून॒वाहु॑तम् ।  
+अथा॑ दे॒वेष्व॑ध्व॒रं वि॑प॒न्यया॒ धा रत्न॑वन्तम॒मृते॑षु॒ जागृ॑विम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “attentive; argus-eyed; light.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

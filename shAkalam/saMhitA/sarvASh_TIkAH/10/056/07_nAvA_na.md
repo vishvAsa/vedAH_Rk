@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ adadhāt ← √dhā- 1 (root)
 
 páreṣu ← pára- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ना॒वा न क्षोदः॑ प्र॒दिशः॑ पृथि॒व्याः स्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा॑ ।  
+स्वां प्र॒जां बृ॒हदु॑क्थो महि॒त्वाव॑रेष्वदधा॒दा परे॑षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     concluding; foreign; earlier; worse; longer; finest; excessive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "त्रसदस्युः पौरुकुत्स्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ dhattam ← √dhā- 1 (root)
 
 viśvā́hā ← viśvā́hā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रा॒या व॒यं स॑स॒वांसो॑ मदेम ह॒व्येन॑ दे॒वा यव॑सेन॒ गावः॑ ।  
+तां धे॒नुमि॑न्द्रावरुणा यु॒वं नो॑ वि॒श्वाहा॑ धत्त॒मन॑पस्फुरन्तीम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “lash.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

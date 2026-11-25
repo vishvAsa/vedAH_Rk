@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ manyáve ← manyú- (nominal stem)
 
 váhanti ← √vah- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ यु॒क्ष्वा हि ये तवाश्वा॑सो देव सा॒धवः॑ ।  
+अरं॒ वह॑न्ति म॒न्यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “anger; fury; rage; wrath.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

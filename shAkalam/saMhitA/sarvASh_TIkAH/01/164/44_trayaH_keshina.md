@@ -4,6 +4,7 @@ devataa = "अग्निः सूर्यो वायुश्च"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सूर्यो वायुश्च
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 rūpám ← rūpá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रयः॑ के॒शिन॑ ऋतु॒था वि च॑क्षते संवत्स॒रे व॑पत॒ एक॑ एषाम् ।  
+विश्व॒मेको॑ अ॒भि च॑ष्टे॒ शची॑भि॒र्ध्राजि॒रेक॑स्य ददृशे॒ न रू॒पम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     vision.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

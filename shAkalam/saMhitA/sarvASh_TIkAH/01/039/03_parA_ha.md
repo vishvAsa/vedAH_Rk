@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ párvatānām ← párvata- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परा॑ ह॒ यत्स्थि॒रं ह॒थ नरो॑ व॒र्तय॑था गु॒रु ।  
+वि या॑थन व॒निनः॑ पृथि॒व्या व्याशाः॒ पर्व॑तानाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
     height.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

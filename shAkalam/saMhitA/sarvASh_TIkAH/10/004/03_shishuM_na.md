@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ jígīṣase ← √ji- 1 (root)
 
 paśúḥ ← paśú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शिशुं॒ न त्वा॒ जेन्यं॑ व॒र्धय॑न्ती मा॒ता बि॑भर्ति सचन॒स्यमा॑ना ।  
+धनो॒रधि॑ प्र॒वता॑ यासि॒ हर्य॒ञ्जिगी॑षसे प॒शुरि॒वाव॑सृष्टः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “free; shoot; ejaculate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

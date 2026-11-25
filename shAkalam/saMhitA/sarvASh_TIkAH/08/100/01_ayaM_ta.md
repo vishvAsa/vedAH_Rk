@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ máyā ← ahám (pronoun)
 
 vīryā̀ṇi ← vīryà- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं त॑ एमि त॒न्वा॑ पु॒रस्ता॒द्विश्वे॑ दे॒वा अ॒भि मा॑ यन्ति प॒श्चात् ।  
+य॒दा मह्यं॒ दीध॑रो भा॒गमि॒न्द्रादिन्मया॑ कृणवो वी॒र्या॑णि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -278,10 +283,6 @@ I here go strength on my side: i.e., if you wish to give me the wealth ofmy enem
 When you will have secured a portion for me, Indra, only after that will  you perform manly deeds along with me.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I take dī́dharaḥ as the subjunctive of the redupl. aor., whose indicative forms are generally athematic (dīdhar, etc., though cf. augmented thematic ádīdharat in the very late hymn X.173.3). The sequence yadā́… dī́dharaḥ …, ā́d íd … kṛṇavaḥ with aorist subjunctive in the protasis and present subjunctive in the apodosis seems a rough-and-ready attempt to express anteriority (“when you will [have] …, only after that will you …”) in a language that does not, as far as I can see, have either a formalized system of sequence of tense in conditionals or a standard way to express anteriority with finite verb forms (as opposed to participles and, somewhat later, the gerund).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -291,7 +292,6 @@ Oldenberg also considers it an Indra-Vāyu dialogue.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ bráhma ← bráhman- (nominal stem)
 
 údyatam ← √yam- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ स्वराति॒ गर्ग॑रो गो॒धा परि॑ सनिष्वणत् ।  
+पिङ्गा॒ परि॑ चनिष्कद॒दिन्द्रा॑य॒ ब्रह्मोद्य॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “raise; prepare; begin; endeavor; specialize.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ ubhé ← ubhá- (pronoun)
 
 vivásvataḥ ← vivásvant- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ तेन॑ यातं॒ मन॑सो॒ जवी॑यसा॒ रथं॒ यं वा॑मृ॒भव॑श्च॒क्रुर॑श्विना ।  
+यस्य॒ योगे॑ दुहि॒ता जाय॑ते दि॒व उ॒भे अह॑नी सु॒दिने॑ वि॒वस्व॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “Surya; sun; Vivasvant; Vivasvant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "ऊर्ध्वग्रावार्बुदिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -57,7 +58,12 @@ sunvaté ← √su- (root)
 
 yájamānāya ← √yaj- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग्रावा॑णः सवि॒ता नु वो॑ दे॒वः सु॑वतु॒ धर्म॑णा ।  
+यज॑मानाय सुन्व॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

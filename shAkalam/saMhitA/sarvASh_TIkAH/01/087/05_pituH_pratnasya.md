@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ nā́māni ← nā́man- (nominal stem)
 
 yajñíyāni ← yajñíya- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒तुः प्र॒त्नस्य॒ जन्म॑ना वदामसि॒ सोम॑स्य जि॒ह्वा प्र जि॑गाति॒ चक्ष॑सा ।  
+यदी॒मिन्द्रं॒ शम्यृक्वा॑ण॒ आश॒तादिन्नामा॑नि य॒ज्ञिया॑नि दधिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

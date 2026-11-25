@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ ajárāḥ ← ajára- (nominal stem)
 
 rejante ← √rej- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य त्वे॒षा अ॒जरा॑ अ॒स्य भा॒नवः॑ सुसं॒दृशः॑ सु॒प्रती॑कस्य सु॒द्युतः॑ ।  
+भात्व॑क्षसो॒ अत्य॒क्तुर्न सिन्ध॑वो॒ऽग्ने रे॑जन्ते॒ अस॑सन्तो अ॒जराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “undecaying; ageless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

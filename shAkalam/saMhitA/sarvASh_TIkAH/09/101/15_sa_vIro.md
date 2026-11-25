@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रजापतिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ vedhā́ḥ ← vedhás- (nominal stem)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वी॒रो द॑क्ष॒साध॑नो॒ वि यस्त॒स्तम्भ॒ रोद॑सी ।  
+हरिः॑ प॒वित्रे॑ अव्यत वे॒धा न योनि॑मा॒सद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -206,10 +211,6 @@ He is a hero, bringing skill to realization, who has propped apart the  two worl
 The tawny one has wrapped himself in the filter, like a ritual adept, to  sit in the womb.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The isolated summary vs. The cow’s hide (gávye ádhi tvací) closely matches gór ádhi tvací in 11b, but the sheep’s fleece is found nowhere else in the hymn, unless the ví of 11a gestures towards it. See comm. ad loc. 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -217,7 +218,6 @@ The dog returns from the first tṛca in the first vs. of this one. The tṛca i
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

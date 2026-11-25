@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -68,7 +69,12 @@ sūrmyàm ← sūrmī́- (nominal stem)
 
 suṣirā́m ← suṣirá- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒दे॒वो अ॑सि वरुण॒ यस्य॑ ते स॒प्त सिन्ध॑वः ।  
+अ॒नु॒क्षर॑न्ति का॒कुदं॑ सू॒र्म्यं॑ सुषि॒रामि॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

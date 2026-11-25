@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "बिन्दुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ hinvanti ← √hi- (root)
 
 pītáye ← pītí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒प्सु त्वा॒ मधु॑मत्तमं॒ हरिं॑ हिन्व॒न्त्यद्रि॑भिः ।  
+इन्द॒विन्द्रा॑य पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vadhám ← vadhá- (nominal stem)
 
 yámat ← √yam- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यः सोमे॑न ज॒ठर॒मपि॑प्र॒ताम॑न्दत म॒घवा॒ मध्वो॒ अन्ध॑सः ।  
+यदीं॑ मृ॒गाय॒ हन्त॑वे म॒हाव॑धः स॒हस्र॑भृष्टिमु॒शना॑ व॒धं यम॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

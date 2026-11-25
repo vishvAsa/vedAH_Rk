@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -60,7 +61,12 @@ tápuṣim ← tápuṣi- (nominal stem)
 
 tiṣṭha ← √sthā- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं तस्य॑ द्वया॒विनो॒ऽघशं॑सस्य॒ कस्य॑ चित् ।  
+प॒दाभि ति॑ष्ठ॒ तपु॑षिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “ablaze(p); burning.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "विभ्राट् सौर्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -86,7 +87,12 @@ rājati ← √rāj- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒भ्राड्बृ॒हत्पि॑बतु सो॒म्यं मध्वायु॒र्दध॑द्य॒ज्ञप॑ता॒ववि॑ह्रुतम् ।  
+वात॑जूतो॒ यो अ॑भि॒रक्ष॑ति॒ त्मना॑ प्र॒जाः पु॑पोष पुरु॒धा वि रा॑जति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -235,7 +240,7 @@ having nourished them with food and lords over many regions.
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-The vikarNa sAman amongst the divAkIrtya-s is based on RV 10.170.1. 
+The vikarNa sAman amongst the divAkIrtya-s is based on RV 10.170.1.
 </details>
 
 <details><summary>Wilson</summary>

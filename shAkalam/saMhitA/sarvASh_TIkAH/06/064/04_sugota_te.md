@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -91,7 +91,12 @@ iṣayádhyai ← √iṣay- (root)
 
 rayím ← rayí- ~ rāy- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒गोत ते॑ सु॒पथा॒ पर्व॑तेष्ववा॒ते अ॒पस्त॑रसि स्वभानो ।  
+सा न॒ आ व॑ह पृथुयामन्नृष्वे र॒यिं दि॑वो दुहितरिष॒यध्यै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +234,6 @@ _________
 - \[verb noun\]
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -280,8 +284,6 @@ Und schön sind deine Bahnen auf den Bergen, durch Nebel dringst im stillen Raum
 Привези нам богатство для наслаждения,  
 О высокая дочь неба с широким путем!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

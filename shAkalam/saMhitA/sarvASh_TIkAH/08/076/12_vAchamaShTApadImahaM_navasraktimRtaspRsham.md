@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ pári ← pári (invariable)
 
 tanvàm ← tanū́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाच॑म॒ष्टाप॑दीम॒हं नव॑स्रक्तिमृत॒स्पृश॑म् ।  
+इन्द्रा॒त्परि॑ त॒न्वं॑ ममे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

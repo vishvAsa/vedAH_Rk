@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उपस्तुतो वार्ष्टिहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ ná ← ná (invariable)
 
 sánti ← √as- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वाग्निर्मर्तैः॑ स॒ह सू॒रिभि॒र्वसुः॑ ष्टवे॒ सह॑सः सू॒नरो॒ नृभिः॑ ।  
+मि॒त्रासो॒ न ये सुधि॑ता ऋता॒यवो॒ द्यावो॒ न द्यु॒म्नैर॒भि सन्ति॒ मानु॑षान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “man; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

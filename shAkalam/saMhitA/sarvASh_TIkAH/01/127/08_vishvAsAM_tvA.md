@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -119,7 +120,13 @@ havyā́ ← havyá- (nominal stem)
 
 váyaḥ ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑सां त्वा वि॒शां पतिं॑ हवामहे॒ सर्वा॑सां समा॒नं दम्प॑तिं भु॒जे स॒त्यगि॑र्वाहसं भु॒जे ।  
+अति॑थिं॒ मानु॑षाणां पि॒तुर्न यस्या॑स॒या ।  
+अ॒मी च॒ विश्वे॑ अ॒मृता॑स॒ आ वयो॑ ह॒व्या दे॒वेष्वा वयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -314,7 +321,6 @@ _________
     food.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

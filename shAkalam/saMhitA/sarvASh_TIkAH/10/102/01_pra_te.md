@@ -4,6 +4,7 @@ devataa = "द्रुघण इन्द्रो वा"
 RShiH = "मुद्गलो भार्म्यश्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रुघण इन्द्रो वा
@@ -74,7 +75,12 @@ dhanabhakṣéṣu ← dhanabhakṣá- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॒ रथं॑ मिथू॒कृत॒मिन्द्रो॑ऽवतु धृष्णु॒या ।  
+अ॒स्मिन्ना॒जौ पु॑रुहूत श्र॒वाय्ये॑ धनभ॒क्षेषु॑ नोऽव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ tāri ← √tr̥̄- 1 (root)
 
 vándanaḥ ← vándana- 1 (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं रे॒भं परि॑षूतेरुरुष्यथो हि॒मेन॑ घ॒र्मं परि॑तप्त॒मत्र॑ये ।  
+यु॒वं श॒योर॑व॒सं पि॑प्यथु॒र्गवि॒ प्र दी॒र्घेण॒ वन्द॑नस्ता॒र्यायु॑षा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

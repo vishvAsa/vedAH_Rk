@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -68,7 +69,12 @@ añjíbhiḥ ← añjí- (nominal stem)
 
 yā́maśrutebhiḥ ← yā́maśruta- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू म॑न्वा॒न ए॑षां दे॒वाँ अच्छा॒ न व॒क्षणा॑ ।  
+दा॒ना स॑चेत सू॒रिभि॒र्याम॑श्रुतेभिर॒ञ्जिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - \[noun\], instrumental, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

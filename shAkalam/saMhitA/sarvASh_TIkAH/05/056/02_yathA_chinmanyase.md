@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ tā́n ← sá- ~ tá- (pronoun)
 
 vardha ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॑ चि॒न्मन्य॑से हृ॒दा तदिन्मे॑ जग्मुरा॒शसः॑ ।  
+ये ते॒ नेदि॑ष्ठं॒ हव॑नान्या॒गम॒न्तान्व॑र्ध भी॒मसं॑दृशः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “appearance; view; view.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

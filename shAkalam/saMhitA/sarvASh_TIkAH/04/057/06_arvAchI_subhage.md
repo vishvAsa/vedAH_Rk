@@ -4,6 +4,7 @@ devataa = "सीता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सीता
@@ -74,7 +75,12 @@ suphálā ← suphála- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्वाची॑ सुभगे भव॒ सीते॒ वन्दा॑महे त्वा ।  
+यथा॑ नः सु॒भगास॑सि॒ यथा॑ नः सु॒फलास॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

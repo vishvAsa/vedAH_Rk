@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 yajñáḥ ← yajñá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ या॑हि॒ शश्व॑दुश॒ता य॑या॒थेन्द्र॑ म॒हा मन॑सा सोम॒पेय॑म् ।  
+उप॒ ब्रह्मा॑णि शृणव इ॒मा नोऽथा॑ ते य॒ज्ञस्त॒न्वे॒३॒॑ वयो॑ धात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

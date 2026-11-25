@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ pramā́dam ← pramā́da- (nominal stem)
 
 yánti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒च्छन्ति॑ दे॒वाः सु॒न्वन्तं॒ न स्वप्ना॑य स्पृहयन्ति ।  
+यन्ति॑ प्र॒माद॒मत॑न्द्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “untired.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ ná ← ná (invariable)
 
 riśā́dasaḥ ← riśā́das- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त न॑ ईं म॒रुतो॑ वृ॒द्धसे॑नाः॒ स्मद्रोद॑सी॒ सम॑नसः सदन्तु ।  
+पृष॑दश्वासो॒ऽवन॑यो॒ न रथा॑ रि॒शाद॑सो मित्र॒युजो॒ न दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

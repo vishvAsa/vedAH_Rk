@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ náraḥ ← nár- (nominal stem)
 
 paśúm ← paśú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदङ्गि॑राः प्रथ॒मं द॑धिरे॒ वय॑ इ॒द्धाग्न॑यः॒ शम्या॒ ये सु॑कृ॒त्यया॑ ।  
+सर्वं॑ प॒णेः सम॑विन्दन्त॒ भोज॑न॒मश्वा॑वन्तं॒ गोम॑न्त॒मा प॒शुं नरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

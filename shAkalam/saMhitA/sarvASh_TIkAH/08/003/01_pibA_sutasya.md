@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ dhíyaḥ ← dhī́- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिबा॑ सु॒तस्य॑ र॒सिनो॒ मत्स्वा॑ न इन्द्र॒ गोम॑तः ।  
+आ॒पिर्नो॑ बोधि सध॒माद्यो॑ वृ॒धे॒३॒॑ऽस्माँ अ॑वन्तु ते॒ धियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

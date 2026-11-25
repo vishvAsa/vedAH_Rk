@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ ugrā́ḥ ← ugrá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मध्वो॑ वो॒ नाम॒ मारु॑तं यजत्राः॒ प्र य॒ज्ञेषु॒ शव॑सा मदन्ति ।  
+ये रे॒जय॑न्ति॒ रोद॑सी चिदु॒र्वी पिन्व॒न्त्युत्सं॒ यदया॑सुरु॒ग्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     atrocious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

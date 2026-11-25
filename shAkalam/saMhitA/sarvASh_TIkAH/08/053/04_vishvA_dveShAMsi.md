@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tr̥mpási ← √tr̥p- (root)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॒ द्वेषां॑सि ज॒हि चाव॒ चा कृ॑धि॒ विश्वे॑ सन्व॒न्त्वा वसु॑ ।  
+शीष्टे॑षु चित्ते मदि॒रासो॑ अं॒शवो॒ यत्रा॒ सोम॑स्य तृ॒म्पसि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “satiate; enjoy; delight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

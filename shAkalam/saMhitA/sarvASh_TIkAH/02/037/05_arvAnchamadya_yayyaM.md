@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ sómam ← sóma- (nominal stem)
 
 vājinīvasū ← vājínīvasu- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्वाञ्च॑म॒द्य य॒य्यं॑ नृ॒वाह॑णं॒ रथं॑ युञ्जाथामि॒ह वां॑ वि॒मोच॑नम् ।  
+पृ॒ङ्क्तं ह॒वींषि॒ मधु॒ना हि कं॑ ग॒तमथा॒ सोमं॑ पिबतं वाजिनीवसू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - \[noun\], vocative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

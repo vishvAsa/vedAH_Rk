@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ tanvàḥ ← tanū́- (nominal stem)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒मा॒जूरि॑व पि॒त्रोः सचा॑ स॒ती स॑मा॒नादा सद॑स॒स्त्वामि॑ये॒ भग॑म् ।  
+कृ॒धि प्र॑के॒तमुप॑ मा॒स्या भ॑र द॒द्धि भा॒गं त॒न्वो॒३॒॑ येन॑ मा॒महः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +262,6 @@ _________
 - “give; accord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

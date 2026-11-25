@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -66,7 +67,12 @@ citre ← citrá- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं हि ते॒ अम॑न्म॒ह्यान्ता॒दा प॑रा॒कात् ।  
+अश्वे॒ न चि॑त्रे अरुषि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

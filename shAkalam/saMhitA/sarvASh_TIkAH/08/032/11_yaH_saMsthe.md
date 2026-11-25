@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ jaritŕ̥bhyaḥ ← jaritár- (nominal stem)
 
 purūvásuḥ ← purūvásu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यः सं॒स्थे चि॑च्छ॒तक्र॑तु॒रादीं॑ कृ॒णोति॑ वृत्र॒हा ।  
+ज॒रि॒तृभ्यः॑ पुरू॒वसुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “rich.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

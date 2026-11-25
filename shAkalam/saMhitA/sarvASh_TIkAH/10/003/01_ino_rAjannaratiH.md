@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ eti ← √i- 1 (root)
 
 rúśatīm ← rúśant- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒नो रा॑जन्नर॒तिः समि॑द्धो॒ रौद्रो॒ दक्षा॑य सुषु॒माँ अ॑दर्शि ।  
+चि॒किद्वि भा॑ति भा॒सा बृ॑ह॒तासि॑क्नीमेति॒ रुश॑तीम॒पाज॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “chase away.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

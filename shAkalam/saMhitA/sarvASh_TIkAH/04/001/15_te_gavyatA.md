@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ ví ← ví (invariable)
 
 vrajám ← vrajá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते ग॑व्य॒ता मन॑सा दृ॒ध्रमु॒ब्धं गा ये॑मा॒नं परि॒ षन्त॒मद्रि॑म् ।  
+दृ॒ळ्हं नरो॒ वच॑सा॒ दैव्ये॑न व्र॒जं गोम॑न्तमु॒शिजो॒ वि व॑व्रुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -245,10 +250,6 @@ Those with their mind set on cattle (opened up) the solid, knotted-up,  enclosin
 The firmly fixed pen full of cows did the men, the fire-priests, open up  with divine speech.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The hapax dṛdhrá- is plausibly explained by Hoffmann (reported in EWA s.v.) as a crossing of a redupl. nominal*dadhrá- (√dhṛ) and the ppl. dṛḍha (√dṛh), the latter found in the second hemistich (15c).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details><summary><h2>10-18 ...{Loading}...</h2></summary>
 
@@ -256,7 +257,6 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -89,7 +90,12 @@ prá ← prá (invariable)
 
 vr̥trahátye ← vr̥trahátya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं गु॒ङ्गुभ्यो॑ अतिथि॒ग्वमिष्क॑र॒मिषं॒ न वृ॑त्र॒तुरं॑ वि॒क्षु धा॑रयम् ।  
+यत्प॑र्णय॒घ्न उ॒त वा॑ करञ्ज॒हे प्राहं म॒हे वृ॑त्र॒हत्ये॒ अशु॑श्रवि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

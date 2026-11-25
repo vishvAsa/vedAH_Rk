@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ puruhūta ← puruhūtá- (nominal stem)
 
 yótoḥ ← √yu- 2 (root)  
 {case:ABL, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ स॒हस्रं॑ प॒थिभि॑रिन्द्र रा॒या तुवि॑द्युम्न तुवि॒वाजे॑भिर॒र्वाक् ।  
+या॒हि सू॑नो सहसो॒ यस्य॒ नू चि॒ददे॑व॒ ईशे॑ पुरुहूत॒ योतोः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “keep away; separate; ward off.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

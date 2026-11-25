@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ páriṣūtāḥ ← √sū- 1 (root)
 
 r̥jíśvanā ← r̥jíśvan- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं कर॑ञ्जमु॒त प॒र्णयं॑ वधी॒स्तेजि॑ष्ठयातिथि॒ग्वस्य॑ वर्त॒नी ।  
+त्वं श॒ता वङ्गृ॑दस्याभिन॒त्पुरो॑ऽनानु॒दः परि॑षूता ऋ॒जिश्व॑ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “Ṛjiśvan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

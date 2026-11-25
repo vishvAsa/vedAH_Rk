@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उत्कीलः कात्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ pári ← pári (invariable)
 
 sthāt ← √sthā- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र पी॑पय वृषभ॒ जिन्व॒ वाजा॒नग्ने॒ त्वं रोद॑सी नः सु॒दोघे॑ ।  
+दे॒वेभि॑र्देव सु॒रुचा॑ रुचा॒नो मा नो॒ मर्त॑स्य दुर्म॒तिः परि॑ ष्ठात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

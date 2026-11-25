@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -57,7 +58,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमो॑ जिगाति गातु॒विद्दे॒वाना॑मेति निष्कृ॒तम् ।  
+ऋ॒तस्य॒ योनि॑मा॒सद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -66,9 +72,9 @@ yónim ← yóni- (nominal stem)
 ऋ॒तस्य॑ । योनि॑म् । आ॒ऽसद॑म् ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-सोमः॑ । जि॒गा॒ति॒ । गा॒तु॒विदिति॑ गातु-वित् । दे॒वाना॑म् । ए॒ति॒ । नि॒ष्कृ॒तमिति॑ निः-कृ॒तम् । ऋ॒तस्य॑ । योनि॑म् । आ॒सद॒मित्या॑-सद॑म् । 
+सोमः॑ । जि॒गा॒ति॒ । गा॒तु॒विदिति॑ गातु-वित् । दे॒वाना॑म् । ए॒ति॒ । नि॒ष्कृ॒तमिति॑ निः-कृ॒तम् । ऋ॒तस्य॑ । योनि॑म् । आ॒सद॒मित्या॑-सद॑म् ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -135,7 +141,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

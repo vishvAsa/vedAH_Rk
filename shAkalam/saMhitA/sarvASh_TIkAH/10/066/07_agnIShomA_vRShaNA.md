@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ ví ← ví (invariable)
 
 yaṁsataḥ ← √yam- (root)  
 {number:DU, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्नीषोमा॒ वृष॑णा॒ वाज॑सातये पुरुप्रश॒स्ता वृष॑णा॒ उप॑ ब्रुवे ।  
+यावी॑जि॒रे वृष॑णो देवय॒ज्यया॒ ता नः॒ शर्म॑ त्रि॒वरू॑थं॒ वि यं॑सतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

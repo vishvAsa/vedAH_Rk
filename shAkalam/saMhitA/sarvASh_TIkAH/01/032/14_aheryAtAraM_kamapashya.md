@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ rájāṁsi ← rájas- (nominal stem)
 
 śyenáḥ ← śyená- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अहे॑र्या॒तारं॒ कम॑पश्य इन्द्र हृ॒दि यत्ते॑ ज॒घ्नुषो॒ भीरग॑च्छत् ।  
+नव॑ च॒ यन्न॑व॒तिं च॒ स्रव॑न्तीः श्ये॒नो न भी॒तो अत॑रो॒ रजां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

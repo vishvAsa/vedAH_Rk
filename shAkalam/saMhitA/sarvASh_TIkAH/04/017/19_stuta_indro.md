@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ nákiḥ ← nákiḥ (invariable)
 
 vāráyante ← √vr̥- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒त इन्द्रो॑ म॒घवा॒ यद्ध॑ वृ॒त्रा भूरी॒ण्येको॑ अप्र॒तीनि॑ हन्ति ।  
+अ॒स्य प्रि॒यो ज॑रि॒ता यस्य॒ शर्म॒न्नकि॑र्दे॒वा वा॒रय॑न्ते॒ न मर्ताः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

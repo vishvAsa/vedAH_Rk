@@ -4,6 +4,7 @@ devataa = "अग्निर्हवींषि वा"
 RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्हवींषि वा
@@ -54,7 +55,12 @@ avatásya ← avatá- (nominal stem)
 
 visárjane ← visárjana- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भ्यार॒मिदद्र॑यो॒ निषि॑क्तं॒ पुष्क॑रे॒ मधु॑ ।  
+अ॒व॒तस्य॑ वि॒सर्ज॑ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +117,6 @@ _________
 - “gift.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

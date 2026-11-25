@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ réjate ← √rej- (root)
 
 yā́meṣu ← yā́ma- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येषा॒मज्मे॑षु पृथि॒वी जु॑जु॒र्वाँ इ॑व वि॒श्पतिः॑ ।  
+भि॒या यामे॑षु॒ रेज॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “tremor; flicker.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

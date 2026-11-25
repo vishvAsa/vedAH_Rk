@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ mr̥ḷaya ← √mr̥ḍ- (root)
 
 stotŕ̥bhyaḥ ← stotár- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ते॑ दधामीन्द्रि॒यमु॒क्था विश्वा॑ शतक्रतो ।  
+स्तो॒तृभ्य॑ इन्द्र मृळय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “pardon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -161,10 +166,6 @@ I establish here your Indrian strength and set out all solemn words for  you, o 
 Be merciful, Indra, to the praisers.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Again I read the verb ā́… dadhāmi with both pādas, with slightly different senses with the two different objects and with te read as gen. with pāda a and dat. with pāda b.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -172,7 +173,6 @@ The c pādas of all three verses in this tṛca have the same structure: dat. pl
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

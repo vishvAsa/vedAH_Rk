@@ -4,6 +4,7 @@ devataa = "पाकस्थाम्नः कौरयाणस्य दा�
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पाकस्थाम्नः कौरयाणस्य दानस्तुतिः
@@ -74,7 +75,12 @@ iva ← iva (invariable)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं मे॒ दुरिन्द्रो॑ म॒रुतः॒ पाक॑स्थामा॒ कौर॑याणः ।  
+विश्वे॑षां॒ त्मना॒ शोभि॑ष्ठ॒मुपे॑व दि॒वि धाव॑मानम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “run; run; wash.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -54,7 +55,12 @@ dhukṣánta ← √duh- (root)
 
 pipyúṣīm ← √pī- 1 (root)  
 {case:ACC, gender:F, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदी॑रयन्त वा॒युभि॑र्वा॒श्रासः॒ पृश्नि॑मातरः ।  
+धु॒क्षन्त॑ पि॒प्युषी॒मिष॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -152,12 +157,6 @@ They raise themselves upward with the winds—the bellowing ones  whose mother i
 They have milked out swelling refreshment.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I take úd īrayanta here as a reflexive transitive. It thus contrast with intransitive úd … īrate in 7b.
-
-See also comm. on vs. 10.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md">
 <details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -165,7 +164,6 @@ Note recycling of vocab. -- íṣam 1, 3; párvata- 1, 2, 4; yā́mam 2, 4; vip/
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वशोश्व्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -86,7 +87,12 @@ máhi ← máh- (nominal stem)
 
 sadyás ← sadyás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ वायो म॒हे तने॑ या॒हि म॒खाय॒ पाज॑से ।  
+व॒यं हि ते॑ चकृ॒मा भूरि॑ दा॒वने॑ स॒द्यश्चि॒न्महि॑ दा॒वने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

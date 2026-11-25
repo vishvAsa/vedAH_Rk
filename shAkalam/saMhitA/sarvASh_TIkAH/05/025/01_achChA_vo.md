@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ parṣati ← √pr̥- (root)
 
 r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॑ वो अ॒ग्निमव॑से दे॒वं गा॑सि॒ स नो॒ वसुः॑ ।  
+रास॑त्पु॒त्र ऋ॑षू॒णामृ॒तावा॑ पर्षति द्वि॒षः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “hate; dviṣ; hostility; hostility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

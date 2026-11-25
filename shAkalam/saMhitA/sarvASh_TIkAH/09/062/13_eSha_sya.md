@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ kavíkratuḥ ← kavíkratu- (nominal stem)
 
 urugāyáḥ ← urugāyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्य परि॑ षिच्यते मर्मृ॒ज्यमा॑न आ॒युभिः॑ ।  
+उ॒रु॒गा॒यः क॒विक्र॑तुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,7 +164,6 @@ the wide-going one with a poet’s purpose.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -167,7 +171,6 @@ The first two vss. contain forms of kaví-. The epithet “wide-going” (urugā
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

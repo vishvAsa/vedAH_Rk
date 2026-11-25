@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ u ← u (invariable)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑श्चिद्घा॒ तद॑ब्रवीत्स्त्रि॒या अ॑शा॒स्यं मनः॑ ।  
+उ॒तो अह॒ क्रतुं॑ र॒घुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “low; fast.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -202,10 +207,6 @@ Indra said just this, “the mind of woman is not to be instructed,
 and her will is fickle.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Indra begins, cleverly, with concession: he admits that women’s mental powers are not as strong as they should be. I take this as Indra’s direct speech, even though pāda c is in the accusative (and pāda b could be), since I think such mixed constructions (X said “abc” / said that abc) are found elsewhere. However, little is lost if it is taken as indirect discourse.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md">
 <details><summary><h2>16-19 ...{Loading}...</h2></summary>
 
@@ -215,7 +216,6 @@ These verses are extensively discussed by Oldenberg and Geldner, with Oldenberg 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

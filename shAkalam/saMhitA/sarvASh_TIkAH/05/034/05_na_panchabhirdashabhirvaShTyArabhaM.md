@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ gómati ← gómant- (nominal stem)
 
 vrajé ← vrajá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न प॒ञ्चभि॑र्द॒शभि॑र्वष्ट्या॒रभं॒ नासु॑न्वता सचते॒ पुष्य॑ता च॒न ।  
+जि॒नाति॒ वेद॑मु॒या हन्ति॑ वा॒ धुनि॒रा दे॑व॒युं भ॑जति॒ गोम॑ति व्र॒जे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
     herd; flock; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

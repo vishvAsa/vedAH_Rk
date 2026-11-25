@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ píbatam ← √pā- 2 (root)
 
 somyám ← somyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं चि॒त्रं द॑दथु॒र्भोज॑नं नरा॒ चोदे॑थां सू॒नृता॑वते ।  
+अ॒र्वाग्रथं॒ सम॑नसा॒ नि य॑च्छतं॒ पिब॑तं सो॒म्यं मधु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

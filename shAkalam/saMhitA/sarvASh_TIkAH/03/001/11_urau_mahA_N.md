@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ jāmīnā́m ← jāmí- (nominal stem)
 
 svásr̥̄ṇām ← svásar- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रौ म॒हाँ अ॑निबा॒धे व॑व॒र्धापो॑ अ॒ग्निं य॒शसः॒ सं हि पू॒र्वीः ।  
+ऋ॒तस्य॒ योना॑वशय॒द्दमू॑ना जामी॒नाम॒ग्निर॒पसि॒ स्वसॄ॑णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “sister; svasṛ \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

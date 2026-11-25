@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ ghr̥taprúṣam ← ghr̥taprúṣ- (nominal stem)
 
 mánujātam ← mánujāta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने॒ वसूँ॑रि॒ह रु॒द्राँ आ॑दि॒त्याँ उ॒त ।  
+यजा॑ स्वध्व॒रं जनं॒ मनु॑जातं घृत॒प्रुष॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,12 +180,11 @@ _________
 - “dropping.”
 
 _________
-
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
-You O Agni offer ritual here to the Vasu-s, the Rudra-s and also the Āditya-s [on behalf] of the people who are Manu’s descendants, who perform proper rituals and pour the offering of ghee. 
+You O Agni offer ritual here to the Vasu-s, the Rudra-s and also the Āditya-s [on behalf] of the people who are Manu’s descendants, who perform proper rituals and pour the offering of ghee.
 </details>
 
 <details><summary>रङ्गनाथः</summary>

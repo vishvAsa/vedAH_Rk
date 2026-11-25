@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ stheyāma ← √sthā- (root)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रुं नो॑ लो॒कमनु॑ नेषि वि॒द्वान्त्स्व॑र्व॒ज्ज्योति॒रभ॑यं स्व॒स्ति ।  
+ऋ॒ष्वा त॑ इन्द्र॒ स्थवि॑रस्य बा॒हू उप॑ स्थेयाम शर॒णा बृ॒हन्ता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

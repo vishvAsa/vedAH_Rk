@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ ví ← ví (invariable)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष वि॑श्व॒वित्प॑वते मनी॒षी सोमो॒ विश्व॑स्य॒ भुव॑नस्य॒ राजा॑ ।  
+द्र॒प्साँ ई॒रय॑न्वि॒दथे॒ष्विन्दु॒र्वि वार॒मव्यं॑ स॒मयाति॑ याति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -241,10 +246,6 @@ This one, knowing all, possessing inspired thoughts, purifies himself— Soma, t
 Rousing the droplets at the rites, the drop proceeds over and across the  sheep’s fleece all at once.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note the phonological play in d: ví vā́ram ávyaṃ samáyā́ti yāti. The last bit is reminiscent of 54d, in that the phonological agreement crosscuts the word divisions: we have rhyming -yā́ti yāti, but the first yā́ti is to be segmented (samá)yā áti.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
 <details><summary><h2>55-58 ...{Loading}...</h2></summary>
 
@@ -256,7 +257,6 @@ Happily none of the vss. presents us with the desperate difficulties of the prec
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

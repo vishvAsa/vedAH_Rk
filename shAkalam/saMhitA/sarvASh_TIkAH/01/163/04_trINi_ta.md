@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -95,7 +96,12 @@ te ← tvám (pronoun)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रीणि॑ त आहुर्दि॒वि बन्ध॑नानि॒ त्रीण्य॒प्सु त्रीण्य॒न्तः स॑मु॒द्रे ।  
+उ॒तेव॑ मे॒ वरु॑णश्छन्त्स्यर्व॒न्यत्रा॑ त आ॒हुः प॑र॒मं ज॒नित्र॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “birthplace; parent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

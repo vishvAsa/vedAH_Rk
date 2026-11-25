@@ -4,6 +4,7 @@ devataa = "सिनीवाली"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सिनीवाली
@@ -62,7 +63,12 @@ juhotana ← √hu- (root)
 
 sinīvālyaí ← sinīvālī́- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या सु॑बा॒हुः स्व॑ङ्गु॒रिः सु॒षूमा॑ बहु॒सूव॑री ।  
+तस्यै॑ वि॒श्पत्न्यै॑ ह॒विः सि॑नीवा॒ल्यै जु॑होतन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “sacrifice; offer; pour; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

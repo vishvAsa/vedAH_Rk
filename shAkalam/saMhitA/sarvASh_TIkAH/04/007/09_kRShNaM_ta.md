@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -101,7 +102,12 @@ sadyás ← sadyás (invariable)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒ष्णं त॒ एम॒ रुश॑तः पु॒रो भाश्च॑रि॒ष्ण्व१॒॑र्चिर्वपु॑षा॒मिदेक॑म् ।  
+यदप्र॑वीता॒ दध॑ते ह॒ गर्भं॑ स॒द्यश्चि॑ज्जा॒तो भव॒सीदु॑ दू॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -265,7 +271,6 @@ _________
 - “messenger; emissary; dūta \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

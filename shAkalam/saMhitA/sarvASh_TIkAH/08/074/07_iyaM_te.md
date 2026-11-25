@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ súkrato ← sukrátu- (nominal stem)
 
 dásma ← dasmá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं ते॒ नव्य॑सी म॒तिरग्ने॒ अधा॑य्य॒स्मदा ।  
+मन्द्र॒ सुजा॑त॒ सुक्र॒तोऽमू॑र॒ दस्माति॑थे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “guest; atithi \[word\]; Atithi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

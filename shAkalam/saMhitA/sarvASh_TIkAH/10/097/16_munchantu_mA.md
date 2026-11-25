@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -71,7 +72,12 @@ devakilbiṣā́t ← devakilbiṣá- (nominal stem)
 
 sárvasmāt ← sárva- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मु॒ञ्चन्तु॑ मा शप॒थ्या॒३॒॑दथो॑ वरु॒ण्या॑दु॒त ।  
+अथो॑ य॒मस्य॒ पड्बी॑शा॒त्सर्व॑स्माद्देवकिल्बि॒षात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “sin; fault; misdemeanor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

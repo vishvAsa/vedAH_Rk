@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ rakṣati ← √rakṣⁱ- (root)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒भुश्च॑क्र॒ ईड्यं॒ चारु॒ नाम॒ विश्वा॑नि दे॒वो व॒युना॑नि वि॒द्वान् ।  
+स॒सस्य॒ चर्म॑ घृ॒तव॑त्प॒दं वेस्तदिद॒ग्नी र॑क्ष॒त्यप्र॑युच्छन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “ceaseless; attentive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

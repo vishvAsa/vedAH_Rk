@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "महाबृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -82,7 +83,12 @@ dyumát ← dyumánt- (nominal stem)
 
 pāvaka ← pāvaká- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हद्भि॑रग्ने अ॒र्चिभिः॑ शु॒क्रेण॑ देव शो॒चिषा॑ ।  
+भ॒रद्वा॑जे समिधा॒नो य॑विष्ठ्य रे॒वन्नः॑ शुक्र दीदिहि द्यु॒मत्पा॑वक दीदिहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “shine; glitter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

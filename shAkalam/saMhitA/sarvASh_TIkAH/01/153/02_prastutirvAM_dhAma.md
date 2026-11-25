@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ vām ← tvám (pronoun)
 
 vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रस्तु॑तिर्वां॒ धाम॒ न प्रयु॑क्ति॒रया॑मि मित्रावरुणा सुवृ॒क्तिः ।  
+अ॒नक्ति॒ यद्वां॑ वि॒दथे॑षु॒ होता॑ सु॒म्नं वां॑ सू॒रिर्वृ॑षणा॒विय॑क्षन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “endeavor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

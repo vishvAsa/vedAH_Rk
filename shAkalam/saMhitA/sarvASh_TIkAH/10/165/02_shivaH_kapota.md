@@ -4,6 +4,7 @@ devataa = "कपोपहतौ प्रायश्चित्तं वै�
 RShiH = "कपोतो नैऋतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कपोपहतौ प्रायश्चित्तं वैश्वदेवं
@@ -92,7 +93,12 @@ pári ← pári (invariable)
 
 vr̥ṇaktu ← √vr̥j- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शि॒वः क॒पोत॑ इषि॒तो नो॑ अस्त्वना॒गा दे॑वाः शकु॒नो गृ॒हेषु॑ ।  
+अ॒ग्निर्हि विप्रो॑ जु॒षतां॑ ह॒विर्नः॒ परि॑ हे॒तिः प॒क्षिणी॑ नो वृणक्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - \[verb\], singular, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

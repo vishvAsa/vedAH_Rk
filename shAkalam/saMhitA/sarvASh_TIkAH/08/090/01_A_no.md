@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ paramajyā́ḥ ← paramajyā́- (nominal stem)
 
 ŕ̥cīṣamaḥ ← ŕ̥cīṣama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॒ विश्वा॑सु॒ हव्य॒ इन्द्रः॑ स॒मत्सु॑ भूषतु ।  
+उप॒ ब्रह्मा॑णि॒ सव॑नानि वृत्र॒हा प॑रम॒ज्या ऋची॑षमः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “Indra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

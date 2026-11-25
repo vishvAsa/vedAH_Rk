@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -95,7 +96,12 @@ prá ← prá (invariable)
 
 vr̥ṇoti ← √vr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हे शु॒ल्काय॒ वरु॑णस्य॒ नु त्वि॒ष ओजो॑ मिमाते ध्रु॒वम॑स्य॒ यत्स्वम् ।  
+अजा॑मिम॒न्यः श्न॒थय॑न्त॒माति॑रद्द॒भ्रेभि॑र॒न्यः प्र वृ॑णोति॒ भूय॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “more(a); more(a); abounding in(p); stronger; bigger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

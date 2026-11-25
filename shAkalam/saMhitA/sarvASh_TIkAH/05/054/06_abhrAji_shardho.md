@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -95,7 +96,12 @@ sugám ← sugá- (nominal stem)
 
 yántam ← √i- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अभ्रा॑जि॒ शर्धो॑ मरुतो॒ यद॑र्ण॒सं मोष॑था वृ॒क्षं क॑प॒नेव॑ वेधसः ।  
+अध॑ स्मा नो अ॒रम॑तिं सजोषस॒श्चक्षु॑रिव॒ यन्त॒मनु॑ नेषथा सु॒गम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -244,7 +249,6 @@ _________
 
 The marut-s are said to "ravage a tree like a caterpillar (kapana)." It is the only time this word is used in the shruti TMK.
 </details>
-
 
 <details><summary>Wilson</summary>
 

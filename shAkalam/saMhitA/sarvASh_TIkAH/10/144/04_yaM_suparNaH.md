@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुपर्णस्तार्क्ष्यपुत्र ऊर्ध्वकृशनो वा यामायनः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ vartaníḥ ← vartaní- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं सु॑प॒र्णः प॑रा॒वतः॑ श्ये॒नस्य॑ पु॒त्र आभ॑रत् ।  
+श॒तच॑क्रं॒ यो॒३॒॑ऽह्यो॑ वर्त॒निः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “path; East; way.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

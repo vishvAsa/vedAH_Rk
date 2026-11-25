@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ kr̥ṇota ← √kr̥- (root)
 
 pánye ← pánya- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पन्य॒ इदुप॑ गायत॒ पन्य॑ उ॒क्थानि॑ शंसत ।  
+ब्रह्मा॑ कृणोत॒ पन्य॒ इत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “indeed; assuredly; entirely.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

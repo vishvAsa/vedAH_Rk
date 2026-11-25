@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ tám ← sá- ~ tá- (pronoun)
 
 vardhayāmasi ← √vr̥dh- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यम॒ग्निं मेध्या॑तिथिः॒ कण्व॑ ई॒ध ऋ॒तादधि॑ ।  
+तस्य॒ प्रेषो॑ दीदियु॒स्तमि॒मा ऋच॒स्तम॒ग्निं व॑र्धयामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “increase; strengthen; promote; rear; add; greet; laud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

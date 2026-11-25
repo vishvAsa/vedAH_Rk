@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हविर्धान आङ्गिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ vásumantam ← vásumant- (nominal stem)
 
 vītāt ← √vī- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॑ग्न ए॒षा समि॑ति॒र्भवा॑ति दे॒वी दे॒वेषु॑ यज॒ता य॑जत्र ।  
+रत्ना॑ च॒ यद्वि॒भजा॑सि स्वधावो भा॒गं नो॒ अत्र॒ वसु॑मन्तं वीतात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “approach; ask; desire; go; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

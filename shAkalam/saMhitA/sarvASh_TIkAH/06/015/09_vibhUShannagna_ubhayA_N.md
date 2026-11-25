@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "जगती"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -97,7 +97,12 @@ sma ← sma (invariable)
 
 trivárūthaḥ ← trivárūtha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒भूष॑न्नग्न उ॒भयाँ॒ अनु॑ व्र॒ता दू॒तो दे॒वानां॒ रज॑सी॒ समी॑यसे ।  
+यत्ते॑ धी॒तिं सु॑म॒तिमा॑वृणी॒महेऽध॑ स्मा नस्त्रि॒वरू॑थः शि॒वो भ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +251,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -297,8 +301,6 @@ Die beiden Stämme, Agni, schmückend nach der Pflicht, besuchst als Götterbote
 Раз мы выбираем твое вдохновение, благосклонность,  
 Будь же милостив к нам, давая тройную защиту!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

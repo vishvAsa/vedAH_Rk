@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ uraú ← urú- (nominal stem)
 
 vyùte ← √u- 2 (root)  
 {case:LOC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सना॑ पुरा॒णमध्ये॑म्या॒रान्म॒हः पि॒तुर्ज॑नि॒तुर्जा॒मि तन्नः॑ ।  
+दे॒वासो॒ यत्र॑ पनि॒तार॒ एवै॑रु॒रौ प॒थि व्यु॑ते त॒स्थुर॒न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “inside; in; antar \[word\]; midmost; between; among.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

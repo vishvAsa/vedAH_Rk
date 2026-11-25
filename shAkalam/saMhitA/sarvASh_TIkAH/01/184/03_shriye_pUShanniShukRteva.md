@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ váruṇasya ← váruṇa- (nominal stem)
 
 yugā́ ← yugá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रि॒ये पू॑षन्निषु॒कृते॑व दे॒वा नास॑त्या वह॒तुं सू॒र्यायाः॑ ।  
+व॒च्यन्ते॑ वां ककु॒हा अ॒प्सु जा॒ता यु॒गा जू॒र्णेव॒ वरु॑णस्य॒ भूरेः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

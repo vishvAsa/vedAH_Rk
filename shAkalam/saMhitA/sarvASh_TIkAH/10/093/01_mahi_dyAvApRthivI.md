@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ pātam ← √pā- 1 (root)
 
 śūṣáṇi ← √śū- 1 (root)  
 {case:LOC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+महि॑ द्यावापृथिवी भूतमु॒र्वी नारी॑ य॒ह्वी न रोद॑सी॒ सदं॑ नः ।  
+तेभि॑र्नः पातं॒ सह्य॑स ए॒भिर्नः॑ पातं शू॒षणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “swell; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

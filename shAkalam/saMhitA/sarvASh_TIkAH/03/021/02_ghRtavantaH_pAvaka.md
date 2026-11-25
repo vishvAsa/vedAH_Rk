@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ naḥ ← ahám (pronoun)
 
 vā́ryam ← vā́rya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घृ॒तव॑न्तः पावक ते स्तो॒काः श्चो॑तन्ति॒ मेद॑सः ।  
+स्वध॑र्मन्दे॒ववी॑तये॒ श्रेष्ठं॑ नो धेहि॒ वार्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “wealth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

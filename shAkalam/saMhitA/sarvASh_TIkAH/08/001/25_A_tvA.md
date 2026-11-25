@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ pītáye ← pītí- (nominal stem)
 
 vivákṣaṇasya ← vivákṣaṇa- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त्वा॒ रथे॑ हिर॒ण्यये॒ हरी॑ म॒यूर॑शेप्या ।  
+शि॒ति॒पृ॒ष्ठा व॑हतां॒ मध्वो॒ अन्ध॑सो वि॒वक्ष॑णस्य पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सहस्रं वसुरोचिषोङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ vásurociṣaḥ ← vásurocis- (nominal stem)
 
 paśúm ← paśú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यदिन्द्र॑श्च॒ दद्व॑हे स॒हस्रं॒ वसु॑रोचिषः ।  
+ओजि॑ष्ठ॒मश्व्यं॑ प॒शुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     Paśu; herd; goat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

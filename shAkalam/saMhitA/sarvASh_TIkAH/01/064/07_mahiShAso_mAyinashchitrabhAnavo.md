@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ táviṣīḥ ← táviṣī- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हि॒षासो॑ मा॒यिन॑श्चि॒त्रभा॑नवो गि॒रयो॒ न स्वत॑वसो रघु॒ष्यदः॑ ।  
+मृ॒गा इ॑व ह॒स्तिनः॑ खादथा॒ वना॒ यदारु॑णीषु॒ तवि॑षी॒रयु॑ग्ध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     affect; challenge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "बिन्दुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ punānáḥ ← √pū- (root)
 
 vā́cam ← vā́c- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र धारा॑ अस्य शु॒ष्मिणो॒ वृथा॑ प॒वित्रे॑ अक्षरन् ।  
+पु॒ना॒नो वाच॑मिष्यति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

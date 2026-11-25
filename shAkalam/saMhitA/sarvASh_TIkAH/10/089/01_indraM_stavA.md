@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ riricānáḥ ← √ric- (root)
 
 síndhubhyaḥ ← síndhu- (nominal stem)  
 {case:ABL, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रं॑ स्तवा॒ नृत॑मं॒ यस्य॑ म॒ह्ना वि॑बबा॒धे रो॑च॒ना वि ज्मो अन्ता॑न् ।  
+आ यः प॒प्रौ च॑र्षणी॒धृद्वरो॑भिः॒ प्र सिन्धु॑भ्यो रिरिचा॒नो म॑हि॒त्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “greatness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

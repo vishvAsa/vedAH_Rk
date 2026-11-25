@@ -4,6 +4,7 @@ devataa = "पाकस्थाम्नः कौरयाणस्य दा�
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पाकस्थाम्नः कौरयाणस्य दानस्तुतिः
@@ -71,7 +72,12 @@ bhojám ← bhojá- (nominal stem)
 
 dātā́ram ← dātár- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒त्मा पि॒तुस्त॒नूर्वास॑ ओजो॒दा अ॒भ्यञ्ज॑नम् ।  
+तु॒रीय॒मिद्रोहि॑तस्य॒ पाक॑स्थामानं भो॒जं दा॒तार॑मब्रवम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

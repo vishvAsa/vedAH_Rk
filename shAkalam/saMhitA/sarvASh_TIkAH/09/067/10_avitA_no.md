@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः पूषा वा"
 RShiH = "अत्रिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः पूषा वा
@@ -57,7 +58,12 @@ kanyā̀su ← kanyā̀- ~ kanī́n- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒वि॒ता नो॑ अ॒जाश्वः॑ पू॒षा याम॑नियामनि ।  
+आ भ॑क्षत्क॒न्या॑सु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,10 +175,6 @@ Pūṣan whose horses are goats is our helper on every journey.
 – He will give us a share in maidens.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The published translation presents the journeys as ours, reading naḥ with both avitā́and yā́mani-yāmani. Geldner and Renou instead assume the journeys are Pūṣan’s: e.g., “Unser Gönner ist Pūṣan, der auf jeder Ausfahrt Böcke als Rosse hat.” Since one hymn devoted to Pūṣan, I.42, is almost entirely devoted to Pūṣan’s protection of us on the journey and on the path and in the short Pūṣan cycle in VI (VI.53-58) the god is several times asked to lead or direct us (e.g., VI.53.2) and to clear paths for us (VI.53.4, 54.1-2), I think it likely that the focus here is on our journeys.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -185,7 +186,6 @@ Ober refines this somewhat by identifying the maidens as brides (e.g., I.320), b
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

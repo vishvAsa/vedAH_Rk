@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -95,7 +96,12 @@ rayivátaḥ ← rayivánt- (nominal stem)
 
 váṁsat ← √vanⁱ- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इत्सु॒दानुः॒ स्ववाँ॑ ऋ॒तावेन्द्रा॒ यो वां॑ वरुण॒ दाश॑ति॒ त्मन् ।  
+इ॒षा स द्वि॒षस्त॑रे॒द्दास्वा॒न्वंस॑द्र॒यिं र॑यि॒वत॑श्च॒ जना॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

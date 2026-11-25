@@ -4,6 +4,7 @@ devataa = "अग्निरग्निर्मध्यमो वा"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निर्मध्यमो वा
@@ -83,7 +84,12 @@ tvácam ← tvác- (nominal stem)
 
 yónau ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदी॑मृ॒तस्य॒ पय॑सा॒ पिया॑नो॒ नय॑न्नृ॒तस्य॑ प॒थिभी॒ रजि॑ष्ठैः ।  
+अ॒र्य॒मा मि॒त्रो वरु॑णः॒ परि॑ज्मा॒ त्वचं॑ पृञ्च॒न्त्युप॑रस्य॒ योनौ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     birth; kind; caste; kinship; bed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ návyase ← návyas- (nominal stem)
 
 sumnā́ya ← sumná- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्ति॒ हि वः॑ सजा॒त्यं॑ रिशादसो॒ देवा॑सो॒ अस्त्याप्य॑म् ।  
+प्र णः॒ पूर्व॑स्मै सुवि॒ताय॑ वोचत म॒क्षू सु॒म्नाय॒ नव्य॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “new.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

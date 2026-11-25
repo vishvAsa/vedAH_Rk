@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -54,7 +55,12 @@ máhyam ← ahám (pronoun)
 
 vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वाद॑त्तस्य धिष्ण्या यु॒वानी॑तस्य सू॒रिभिः॑ ।  
+अह॑रहर्वृषण॒ मह्यं॑ शिक्षतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +122,6 @@ _________
 - “help; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

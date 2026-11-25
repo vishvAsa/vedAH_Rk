@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ jabhruḥ ← √bhr̥- (root)
 
 śīrṣā́ṇi ← śíras- ~ śīrṣán- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आव॒दिन्द्रं॑ य॒मुना॒ तृत्स॑वश्च॒ प्रात्र॑ भे॒दं स॒र्वता॑ता मुषायत् ।  
+अ॒जास॑श्च॒ शिग्र॑वो॒ यक्ष॑वश्च ब॒लिं शी॒र्षाणि॑ जभ्रु॒रश्व्या॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “equine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

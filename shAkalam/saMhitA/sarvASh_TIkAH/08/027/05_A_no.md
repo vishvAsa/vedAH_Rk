@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ pástye ← pastyā̀- (nominal stem)
 
 sádane ← sádana- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ अ॒द्य सम॑नसो॒ गन्ता॒ विश्वे॑ स॒जोष॑सः ।  
+ऋ॒चा गि॒रा मरु॑तो॒ देव्यदि॑ते॒ सद॑ने॒ पस्त्ये॑ महि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
     Mahī; soil; earth; estate; area.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

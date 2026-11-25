@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ bhávantu ← √bhū- (root)
 
 varivovídaḥ ← varivovíd- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वासो॒ हि ष्मा॒ मन॑वे॒ सम॑न्यवो॒ विश्वे॑ सा॒कं सरा॑तयः ।  
+ते नो॑ अ॒द्य ते अ॑प॒रं तु॒चे तु नो॒ भव॑न्तु वरिवो॒विदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “finding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ marútaḥ ← marút- (nominal stem)
 
 svastáye ← svastí- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भरे॒ष्विन्द्रं॑ सु॒हवं॑ हवामहेंऽहो॒मुचं॑ सु॒कृतं॒ दैव्यं॒ जन॑म् ।  
+अ॒ग्निं मि॒त्रं वरु॑णं सा॒तये॒ भगं॒ द्यावा॑पृथि॒वी म॒रुतः॑ स्व॒स्तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     well; luck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

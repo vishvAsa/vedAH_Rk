@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ dānā́ya ← dāná- (nominal stem)
 
 mánaḥ ← mánas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अन॑र्शरातिं वसु॒दामुप॑ स्तुहि भ॒द्रा इन्द्र॑स्य रा॒तयः॑ ।  
+सो अ॑स्य॒ कामं॑ विध॒तो न रो॑षति॒ मनो॑ दा॒नाय॑ चो॒दय॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “impel; drive; incite; command; drive; arouse; propel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

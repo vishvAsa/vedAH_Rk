@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ ghr̥téna ← ghr̥tá- (nominal stem)
 
 jarate ← √gr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रा अ॒ग्नेर्व॑ध्र्य॒श्वस्य॑ सं॒दृशो॑ वा॒मी प्रणी॑तिः सु॒रणा॒ उपे॑तयः ।  
+यदीं॑ सुमि॒त्रा विशो॒ अग्र॑ इ॒न्धते॑ घृ॒तेनाहु॑तो जरते॒ दवि॑द्युतत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “flash.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

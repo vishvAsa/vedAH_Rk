@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ nyàṅ ← nyàñc- (nominal stem)
 
 uttānā́m ← uttāná- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒त्तो ज॑गार प्र॒त्यञ्च॑मत्ति शी॒र्ष्णा शिरः॒ प्रति॑ दधौ॒ वरू॑थम् ।  
+आसी॑न ऊ॒र्ध्वामु॒पसि॑ क्षिणाति॒ न्य॑ङ्ङुत्ता॒नामन्वे॑ति॒ भूमि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     distance; country; space; land; territory; topographic point.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

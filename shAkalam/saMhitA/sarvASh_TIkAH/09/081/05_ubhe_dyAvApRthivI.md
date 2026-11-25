@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ pávamānam ← √pū- (root)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भे द्यावा॑पृथि॒वी वि॑श्वमि॒न्वे अ॑र्य॒मा दे॒वो अदि॑तिर्विधा॒ता ।  
+भगो॒ नृशंस॑ उ॒र्व१॒॑न्तरि॑क्षं॒ विश्वे॑ दे॒वाः पव॑मानं जुषन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ prásitāsaḥ ← √sā- ~ si- (root)
 
 pravā́saḥ ← pravá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यं धू॒र्षु प्र॒युजो॒ न र॒श्मिभि॒र्ज्योति॑ष्मन्तो॒ न भा॒सा व्यु॑ष्टिषु ।  
+श्ये॒नासो॒ न स्वय॑शसो रि॒शाद॑सः प्र॒वासो॒ न प्रसि॑तासः परि॒प्रुषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

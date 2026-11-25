@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -71,7 +72,12 @@ naḥ ← ahám (pronoun)
 
 śr̥ṇavat ← √śru- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माक॑मू॒र्जा रथं॑ पू॒षा अ॑विष्टु॒ माहि॑नः ।  
+भुव॒द्वाजा॑नां वृ॒ध इ॒मं नः॑ शृणव॒द्धव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

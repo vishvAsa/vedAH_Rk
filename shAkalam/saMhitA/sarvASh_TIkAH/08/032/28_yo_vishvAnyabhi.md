@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ devéṣu ← devá- (nominal stem)
 
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो विश्वा॑न्य॒भि व्र॒ता सोम॑स्य॒ मदे॒ अन्ध॑सः ।  
+इन्द्रो॑ दे॒वेषु॒ चेत॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,14 +169,12 @@ oversees all commandments among the gods—Indra.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/032/27-28.md">
 <details><summary><h2>27-28 ...{Loading}...</h2></summary>
 
 These two verses form a sort of ring with vs. 1. There gā́thayā / máde sómasya vocata “with a song proclaim … in the exhilaration of soma”; here bráhma gāyata // … sómasya máde “sing a formulation … in the exhilaration of soma.”
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

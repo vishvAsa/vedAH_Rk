@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ arcanti ← √r̥c- (root)
 
 sácetasaḥ ← sácetas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विष्णु॑रि॒त्था प॑र॒मम॑स्य वि॒द्वाञ्जा॒तो बृ॒हन्न॒भि पा॑ति तृ॒तीय॑म् ।  
+आ॒सा यद॑स्य॒ पयो॒ अक्र॑त॒ स्वं सचे॑तसो अ॒भ्य॑र्च॒न्त्यत्र॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     alternatively; now.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

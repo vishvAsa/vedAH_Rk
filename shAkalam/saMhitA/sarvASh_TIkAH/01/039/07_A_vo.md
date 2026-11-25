@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ itthā́ ← itthā́ (invariable)
 
 káṇvāya ← káṇva- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वो॑ म॒क्षू तना॑य॒ कं रुद्रा॒ अवो॑ वृणीमहे ।  
+गन्ता॑ नू॒नं नोऽव॑सा॒ यथा॑ पु॒रेत्था कण्वा॑य बि॒भ्युषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “fear; fear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

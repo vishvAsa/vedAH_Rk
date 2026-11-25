@@ -5,13 +5,13 @@ RShiH = "श्रुतिविदात्रेयः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
 - ऋषिः - श्रुतिविदात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -91,7 +91,12 @@ devā́nām ← devá- (nominal stem)
 
 vápuṣām ← vápus- (nominal stem)  
 {case:GEN, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तेन॑ ऋ॒तमपि॑हितं ध्रु॒वं वां॒ सूर्य॑स्य॒ यत्र॑ विमु॒चन्त्यश्वा॑न् ।  
+दश॑ श॒ता स॒ह त॑स्थु॒स्तदेकं॑ दे॒वानां॒ श्रेष्ठं॒ वपु॑षामपश्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +232,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -277,8 +281,6 @@ An eurer heil'gen Recht-umschirmten Feste, bei welcher man der Sonne Rosse ablö
 Десять сот находятся вместе. Я увидел  
 То одно – лучшее из чудес богов.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

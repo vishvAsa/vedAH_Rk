@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ jyéṣṭhebhiḥ ← jyéṣṭha- (nominal stem)
 
 várūthaiḥ ← várūtha- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स द्वि॒बन्धु॑र्वैतर॒णो यष्टा॑ सब॒र्धुं धे॒नुम॒स्वं॑ दु॒हध्यै॑ ।  
+सं यन्मि॒त्रावरु॑णा वृ॒ञ्ज उ॒क्थैर्ज्येष्ठे॑भिरर्य॒मणं॒ वरू॑थैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “defense; protective covering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -86,7 +87,12 @@ taviṣīyántaḥ ← √taviṣīy- (root)
 
 vīrā́ḥ ← vīrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒नत्ति॒ भूमिं॑ पृथि॒वीमु॒त द्यां य॒दा दु॒ग्धं वरु॑णो॒ वष्ट्यादित् ।  
+सम॒भ्रेण॑ वसत॒ पर्व॑तासस्तविषी॒यन्तः॑ श्रथयन्त वी॒राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

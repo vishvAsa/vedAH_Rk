@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -71,7 +72,12 @@ díviṣṭiṣu ← díviṣṭi- (nominal stem)
 
 vyuchántī ← √vas- 1 (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उष॒ आ भा॑हि भा॒नुना॑ च॒न्द्रेण॑ दुहितर्दिवः ।  
+आ॒वह॑न्ती॒ भूर्य॒स्मभ्यं॒ सौभ॑गं व्यु॒च्छन्ती॒ दिवि॑ष्टिषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - \[noun\], locative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -75,7 +76,12 @@ sá ← sá- ~ tá- (pronoun)
 
 śrudhi ← √śru- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ त्वा॒ यः पु॒रासि॑थ॒ यो वा॑ नू॒नं हि॒ते धने॑ ।  
+हव्यः॒ स श्रु॑धी॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -209,10 +214,6 @@ Just you, who were before or who are now to be called upon when the  stake is se
 Hear our call!
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-It is worth noting that in the temporally contrastive rel. clauses (a: purā́ ‘previously’, b: nūnám ‘now’) whose joint predicate is the grdv. hávyaḥ (see above), the one with past reference has an overt copula, pf. ā́sitha, while the one with current reference has the copula gapped.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -222,7 +223,6 @@ Both vss. begin tám u tvā, with the iteration of this phrase in 11a still part
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

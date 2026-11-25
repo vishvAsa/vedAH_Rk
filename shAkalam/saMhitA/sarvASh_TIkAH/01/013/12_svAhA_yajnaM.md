@@ -4,6 +4,7 @@ devataa = "स्वाहाकृतयः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वाहाकृतयः
@@ -60,7 +61,12 @@ tátra ← tátra (invariable)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वाहा॑ य॒ज्ञं कृ॑णोत॒नेन्द्रा॑य॒ यज्व॑नो गृ॒हे ।  
+तत्र॑ दे॒वाँ उप॑ ह्वये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

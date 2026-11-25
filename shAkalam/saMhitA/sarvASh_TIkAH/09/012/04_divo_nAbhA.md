@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ sukrátuḥ ← sukrátu- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो नाभा॑ विचक्ष॒णोऽव्यो॒ वारे॑ महीयते ।  
+सोमो॒ यः सु॒क्रतुः॑ क॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
     guru; Brahma.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्तदेवताः (विष्णुत�
 RShiH = "त्वष्टा गर्भकर्ता, विष्णुर्वा प्राजापत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तदेवताः (विष्णुत्वष्टृप्रजापतिसिनीवालीसरस्वत्यश्विनः) गर्भार्थाशीः
@@ -71,7 +72,12 @@ dhattām ← √dhā- 1 (root)
 
 púṣkarasrajā ← púṣkarasraj- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गर्भं॑ धेहि सिनीवालि॒ गर्भं॑ धेहि सरस्वति ।  
+गर्भं॑ ते अ॒श्विनौ॑ दे॒वावा ध॑त्तां॒ पुष्क॑रस्रजा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “Asvins.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

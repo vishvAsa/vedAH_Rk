@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vardha ← √vr̥dh- (root)
 
 vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ ष्टुहि॒ यो अ॒भिभू॑त्योजा व॒न्वन्नवा॑तः पुरुहू॒त इन्द्रः॑ ।  
+अषा॑ळ्हमु॒ग्रं सह॑मानमा॒भिर्गी॒र्भिर्व॑र्ध वृष॒भं च॑र्षणी॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “people.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वे देवाः (विश्वैर्देव
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः (विश्वैर्देवैः सहितोग्निः)
@@ -63,7 +64,12 @@ mádhoḥ ← mádhu- (nominal stem)
 
 váṣaṭkr̥ti ← váṣaṭkr̥ti- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये यज॑त्रा॒ य ईड्या॒स्ते ते॑ पिबन्तु जि॒ह्वया॑ ।  
+मधो॑रग्ने॒ वष॑ट्कृति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
     writing; transforming; effecting.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

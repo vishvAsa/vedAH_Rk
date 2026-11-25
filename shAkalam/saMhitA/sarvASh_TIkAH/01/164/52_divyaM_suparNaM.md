@@ -4,6 +4,7 @@ devataa = "सरस्वान् सूर्यो वा"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वान् सूर्यो वा
@@ -74,7 +75,12 @@ johavīmi ← √hū- (root)
 
 sárasvantam ← sárasvant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒व्यं सु॑प॒र्णं वा॑य॒सं बृ॒हन्त॑म॒पां गर्भं॑ दर्श॒तमोष॑धीनाम् ।  
+अ॒भी॒प॒तो वृ॒ष्टिभि॑स्त॒र्पय॑न्तं॒ सर॑स्वन्त॒मव॑से जोहवीमि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “appeal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

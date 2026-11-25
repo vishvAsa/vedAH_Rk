@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ suyájam ← suyáj- (nominal stem)
 
 tuviṣvaṇásam ← tuviṣvaṇás- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने॒ मानु॑षीरीळते॒ विशो॑ होत्रा॒विदं॒ विवि॑चिं रत्न॒धात॑मम् ।  
+गुहा॒ सन्तं॑ सुभग वि॒श्वद॑र्शतं तुविष्व॒णसं॑ सु॒यजं॑ घृत॒श्रिय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     \[word\]; śrī; prosperity; auspiciousness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

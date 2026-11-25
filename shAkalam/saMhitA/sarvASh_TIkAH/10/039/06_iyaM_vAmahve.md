@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ spr̥tam ← √spr̥- (root)
 
 tásyāḥ ← sá- ~ tá- (pronoun)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं वा॑मह्वे शृणु॒तं मे॑ अश्विना पु॒त्राये॑व पि॒तरा॒ मह्यं॑ शिक्षतम् ।  
+अना॑पि॒रज्ञा॑ असजा॒त्याम॑तिः पु॒रा तस्या॑ अ॒भिश॑स्ते॒रव॑ स्पृतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - \[verb\], dual, Aorist imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -89,7 +90,12 @@ jā́tavedaḥ ← jātávedas- (nominal stem)
 
 tanvàḥ ← tanū́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हत्तदुल्बं॒ स्थवि॑रं॒ तदा॑सी॒द्येनावि॑ष्टितः प्रवि॒वेशि॑था॒पः ।  
+विश्वा॑ अपश्यद्बहु॒धा ते॑ अग्ने॒ जात॑वेदस्त॒न्वो॑ दे॒व एकः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     consistent; any(a); undifferentiated; disjunct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

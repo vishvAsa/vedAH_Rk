@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ makṣú ← makṣú- (nominal stem)
 
 váśaiḥ ← váśa- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒द्यो॒जुव॑स्ते॒ वाजा॑ अ॒स्मभ्यं॑ वि॒श्वश्च॑न्द्राः ।  
+वशै॑श्च म॒क्षू ज॑रन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “sing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

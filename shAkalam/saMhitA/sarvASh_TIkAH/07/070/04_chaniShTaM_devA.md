@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ pū́rvāṇi ← pū́rva- (nominal stem)
 
 yugā́ni ← yugá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒नि॒ष्टं दे॑वा॒ ओष॑धीष्व॒प्सु यद्यो॒ग्या अ॒श्नवै॑थे॒ ऋषी॑णाम् ।  
+पु॒रूणि॒ रत्ना॒ दध॑तौ॒ न्य१॒॑स्मे अनु॒ पूर्वा॑णि चख्यथुर्यु॒गानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
     \[word\]; Yuga; race.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

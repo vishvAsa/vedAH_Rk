@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ saparyávaḥ ← saparyú- (nominal stem)
 
 saparyéma ← √sapary- (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ गी॒र्भिर्गिर्व॑णसं द्रविण॒स्युं द्र॑विणोदः ।  
+स॒प॒र्येम॑ सप॒र्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “deferent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

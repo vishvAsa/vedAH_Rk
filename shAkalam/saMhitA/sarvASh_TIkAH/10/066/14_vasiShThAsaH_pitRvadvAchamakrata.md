@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ dhūnuta ← √dhū- (root)
 
 vásu ← vásu- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वसि॑ष्ठासः पितृ॒वद्वाच॑मक्रत दे॒वाँ ईळा॑ना ऋषि॒वत्स्व॒स्तये॑ ।  
+प्री॒ता इ॑व ज्ञा॒तयः॒ काम॒मेत्या॒स्मे दे॑वा॒सोऽव॑ धूनुता॒ वसु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

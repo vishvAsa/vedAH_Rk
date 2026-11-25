@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -71,7 +72,12 @@ imám ← ayám (pronoun)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒दि॒त्याना॒मव॑सा॒ नूत॑नेन सक्षी॒महि॒ शर्म॑णा॒ शन्त॑मेन ।  
+अ॒ना॒गा॒स्त्वे अ॑दिति॒त्वे तु॒रास॑ इ॒मं य॒ज्ञं द॑धतु॒ श्रोष॑माणाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - \[verb noun\], nominative, plural
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -192,8 +197,6 @@ vasiShTha creates the abstract word "adititva" from the name of the goddess adit
 
 However, it could also mean the lap of aditi -- the state of aditi-ness -- which is equated with the sacrificial altar as per the taittirIya shruti.
 </details>
-
-
 
 <details><summary>Wilson</summary>
 

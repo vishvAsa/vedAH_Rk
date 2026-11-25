@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ marútsu ← marút- (nominal stem)
 
 viśvábhānuṣu ← viśvábhānu- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सू न॑ एत्वध्व॒रो॒३॒॑ऽग्ना दे॒वेषु॑ पू॒र्व्यः ।  
+आ॒दि॒त्येषु॒ प्र वरु॑णे धृ॒तव्र॑ते म॒रुत्सु॑ वि॒श्वभा॑नुषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
     copper; light; twelve; appearance; Bhānu; flare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

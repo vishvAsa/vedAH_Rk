@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्तदेवताः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तदेवताः
@@ -83,7 +84,12 @@ naḥ ← ahám (pronoun)
 
 rákṣa ← √rakṣⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्राह्म॑णासः॒ पित॑रः॒ सोम्या॑सः शि॒वे नो॒ द्यावा॑पृथि॒वी अ॑ने॒हसा॑ ।  
+पू॒षा नः॑ पातु दुरि॒तादृ॑तावृधो॒ रक्षा॒ माकि॑र्नो अ॒घशं॑स ईशत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “govern; command; master; dominate; can; reign; control; own.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

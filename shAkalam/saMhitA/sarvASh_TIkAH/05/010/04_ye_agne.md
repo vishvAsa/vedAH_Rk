@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गय आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -85,7 +86,12 @@ sukīrtíḥ ← sukīrtí- (nominal stem)
 
 tmánā ← tmán- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये अ॑ग्ने चन्द्र ते॒ गिरः॑ शु॒म्भन्त्यश्व॑राधसः ।  
+शुष्मे॑भिः शु॒ष्मिणो॒ नरो॑ दि॒वश्चि॒द्येषां॑ बृ॒हत्सु॑की॒र्तिर्बोध॑ति॒ त्मना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “self.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

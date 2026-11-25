@@ -4,6 +4,7 @@ devataa = "अश्विनौ;चैद्यस्य कशोर्दा�
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ;चैद्यस्य कशोर्दानस्तुतिः
@@ -82,7 +83,12 @@ gónām ← gáv- ~ gó- (nominal stem)
 
 sahásrā ← sahásra- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता मे॑ अश्विना सनी॒नां वि॒द्यातं॒ नवा॑नाम् ।  
+यथा॑ चिच्चै॒द्यः क॒शुः श॒तमुष्ट्रा॑नां॒ दद॑त्स॒हस्रा॒ दश॒ गोना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

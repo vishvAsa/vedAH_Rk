@@ -4,6 +4,7 @@ devataa = "शशीयसी तरन्तमहिषी"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शशीयसी तरन्तमहिषी
@@ -63,7 +64,12 @@ kr̥ṇuté ← √kr̥- (root)
 
 mánaḥ ← mánas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि या जा॒नाति॒ जसु॑रिं॒ वि तृष्य॑न्तं॒ वि का॒मिन॑म् ।  
+दे॒व॒त्रा कृ॑णु॒ते मनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -175,14 +180,6 @@ While she pays attention to a famished man, or to a thirsting one, or to  one wh
 and sets her own mind upon the gods.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The relativization is loose, at least in the Eng. rendering. Literally it should be “More reliable than a man is a woman who discerns the thirsting one …,” etc.
-
-The lexeme ví √jñā means ‘discern, recognize’, and a full rendering of the implication of these VPS would be something like “who recognizes (that a particular man) is famished …” -- the idea presumably being that, having recognized their plights, she then sees to them, each in his own need. I have folded this two-step process into ‘pay attention to’. If she does see to the needs of each, the third in the series kāmínam ‘the desirous / lusting one’ again introduces the sexual: she feeds, clothes, and has sex with the three in turn, at least by my interpr. The standard tr.
-
-have a tendency to attenuate the third term -- e.g., Klein (DGRV I.432) “the one desiring (aid)” -- but in this saucy hymn I think sex is never far from the surface. I do have to admit, however, that kāmín- is not otherwise used of sexual desire, but has a more general application, incl. to the Maruts in this same cycle (V.53.16).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
 <details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
@@ -190,7 +187,6 @@ As indicated in the published translation, I consider these vss. a digression re
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

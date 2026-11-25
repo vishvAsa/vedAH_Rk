@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ maghónām ← maghávan- (nominal stem)
 
 rā́dhaḥ ← rā́dhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वा॑वती॒र्गोम॑तीर्विश्वसु॒विदो॒ भूरि॑ च्यवन्त॒ वस्त॑वे ।  
+उदी॑रय॒ प्रति॑ मा सू॒नृता॑ उष॒श्चोद॒ राधो॑ म॒घोना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

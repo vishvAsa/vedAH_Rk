@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ aśvinā ← aśvín- (nominal stem)
 
 vándanāya ← vándana- 1 (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒षु॒प्वांसं॒ न निरृ॑तेरु॒पस्थे॒ सूर्यं॒ न द॑स्रा॒ तम॑सि क्षि॒यन्त॑म् ।  
+शु॒भे रु॒क्मं न द॑र्श॒तं निखा॑त॒मुदू॑पथुरश्विना॒ वन्द॑नाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “worship; skin disease.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

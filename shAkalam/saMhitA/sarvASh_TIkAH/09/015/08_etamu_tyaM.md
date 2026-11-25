@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ madíntamam ← madíntama- (nominal stem)
 
 svāyudhám ← svāyudhá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तमु॒ त्यं दश॒ क्षिपो॑ मृ॒जन्ति॑ स॒प्त धी॒तयः॑ ।  
+स्वा॒यु॒धं म॒दिन्त॑मम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “exhilarating; intoxicant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

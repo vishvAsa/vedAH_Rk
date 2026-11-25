@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ havāmahe ← √hū- (root)
 
 suhávā ← suháva- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वामिद्यु॒त्सु पृत॑नासु॒ वह्न॑यो यु॒वां क्षेम॑स्य प्रस॒वे मि॒तज्ञ॑वः ।  
+ई॒शा॒ना वस्व॑ उ॒भय॑स्य का॒रव॒ इन्द्रा॑वरुणा सु॒हवा॑ हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

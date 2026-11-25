@@ -4,6 +4,7 @@ devataa = "पृथिवी"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पृथिवी
@@ -71,7 +72,12 @@ mahini ← mahín- (nominal stem)
 
 mahnā́ ← mahimán- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बळि॒त्था पर्व॑तानां खि॒द्रं बि॑भर्षि पृथिवि ।  
+प्र या भूमिं॑ प्रवत्वति म॒ह्ना जि॒नोषि॑ महिनि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “mighty; great.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

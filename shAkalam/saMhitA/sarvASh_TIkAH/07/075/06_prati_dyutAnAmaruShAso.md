@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ rátnam ← rátna- (nominal stem)
 
 vidhaté ← √vidh- (root)  
 {case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ द्युता॒नाम॑रु॒षासो॒ अश्वा॑श्चि॒त्रा अ॑दृश्रन्नु॒षसं॒ वह॑न्तः ।  
+याति॑ शु॒भ्रा वि॑श्व॒पिशा॒ रथे॑न॒ दधा॑ति॒ रत्नं॑ विध॒ते जना॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

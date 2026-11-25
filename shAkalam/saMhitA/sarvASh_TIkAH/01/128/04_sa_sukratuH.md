@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -110,7 +111,13 @@ váhniḥ ← váhni- (nominal stem)
 
 vedhā́ḥ ← vedhás- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सु॒क्रतुः॑ पु॒रोहि॑तो॒ दमे॑दमे॒ऽग्निर्य॒ज्ञस्या॑ध्व॒रस्य॑ चेतति॒ क्रत्वा॑ य॒ज्ञस्य॑ चेतति ।  
+क्रत्वा॑ वे॒धा इ॑षूय॒ते विश्वा॑ जा॒तानि॑ पस्पशे ।  
+यतो॑ घृत॒श्रीरति॑थि॒रजा॑यत॒ वह्नि॑र्वे॒धा अजा॑यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -290,7 +297,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

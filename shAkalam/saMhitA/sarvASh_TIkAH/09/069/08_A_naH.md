@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ prásthitāḥ ← √sthā- (root)
 
 vayaskŕ̥taḥ ← vayaskŕ̥t- (nominal stem)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नः॑ पवस्व॒ वसु॑म॒द्धिर॑ण्यव॒दश्वा॑व॒द्गोम॒द्यव॑मत्सु॒वीर्य॑म् ।  
+यू॒यं हि सो॑म पि॒तरो॒ मम॒ स्थन॑ दि॒वो मू॒र्धानः॒ प्रस्थि॑ता वय॒स्कृतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -68,7 +69,12 @@ amīvacā́tanaḥ ← amīvacā́tana- (nominal stem)
 
 rakṣohā́ ← rakṣohán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्रौष॑धीः स॒मग्म॑त॒ राजा॑नः॒ समि॑ताविव ।  
+विप्रः॒ स उ॑च्यते भि॒षग्र॑क्षो॒हामी॑व॒चात॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “removing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

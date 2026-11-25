@@ -4,6 +4,7 @@ devataa = "अग्निर्हवींषि वा"
 RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्हवींषि वा
@@ -57,7 +58,12 @@ bheṣajám ← bheṣajá- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोम॑स्य मित्रावरु॒णोदि॑ता॒ सूर॒ आ द॑दे ।  
+तदातु॑रस्य भेष॒जम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ suvitā́ya ← suvitá- (nominal stem)
 
 yāhi ← √yā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नी॒व्या॑भिर्जरि॒तार॒मच्छा॑ म॒हो वाजे॑भिर्म॒हद्भि॑श्च॒ शुष्मैः॑ ।  
+पु॒रु॒वीरा॑भिर्वृषभ क्षिती॒नामा गि॑र्वणः सुवि॒ताय॒ प्र या॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

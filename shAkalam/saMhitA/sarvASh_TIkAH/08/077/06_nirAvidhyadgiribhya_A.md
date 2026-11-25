@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ bundám ← bundá- (nominal stem)
 
 svā̀tatam ← svā̀tata- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+निरा॑विध्यद्गि॒रिभ्य॒ आ धा॒रय॑त्प॒क्वमो॑द॒नम् ।  
+इन्द्रो॑ बु॒न्दं स्वा॑ततम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “expand; prolong; chant; inflate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,7 +172,6 @@ Indra (took) the well-stretched Bunda-bow.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -175,7 +179,6 @@ The name índraḥ is identically positioned in all three verses of this tṛca,
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

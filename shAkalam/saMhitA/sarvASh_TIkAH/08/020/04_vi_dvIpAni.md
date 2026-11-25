@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ svabhānavaḥ ← svábhānu- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि द्वी॒पानि॒ पाप॑त॒न्तिष्ठ॑द्दु॒च्छुनो॒भे यु॑जन्त॒ रोद॑सी ।  
+प्र धन्वा॑न्यैरत शुभ्रखादयो॒ यदेज॑थ स्वभानवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     copper; light; twelve; appearance; Bhānu; flare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -229,12 +234,6 @@ The wasteplaces rise forth, when you stir (them), o you self-radiant
 ones with beautiful bangles.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The vs. describes the effects of the monsoon. The first hemistich contains three injunctives (pā́patan, tíṣṭhat, and yujanta) and the last pāda a present (éjatha), but pāda c contains the apparently augmented airata. Given this collection of verbs, it is difficult to produce a consistent temporal interpretation. The injunctives can harmonize either with the preterital airata or with the presential éjatha, but those two are incompatible. A way out of this dilemma was shown by Hoffmann (Injunc, 210), who suggests that the “cacophonous hiatus” dhánvāni *īrata was avoided by substituting the augmented form for the injunctive. (It would be good to have other exx. of such a hiatus-avoiding technique, however.) The whole verse can then be interpr. as presential or “general.” This temporal value continues in vs. 5, also describing the effects of the storm, with two present-tense verbs.
-
-The second clause in pāda a, tíṣṭhad duchúnā, has been interpreted in two opposing senses. Geldner supplies the ví of the first VP and tr. “das Unheil breitet sich aus.” But without the ví the verb would mean ‘stand (still)’ or ‘stop’ (so Renou “stoppe le misère”). I favor this latter interpretation. Since the monsoon brings desired rain, which makes the plants grow and produces food and attendant well-being, it stops misery in its tracks, as it were. This stoppage contrasts with the movement of the features of the natural world in pādas a and c.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -242,7 +241,6 @@ Pādas 3a, 3c, and 4a all begin with vi, with the last example doubled ví (d)v�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

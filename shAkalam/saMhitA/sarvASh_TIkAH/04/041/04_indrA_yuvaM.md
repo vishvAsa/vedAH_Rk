@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -89,7 +90,12 @@ mimāthām ← √mā- 1 (root)
 
 tásmin ← sá- ~ tá- (pronoun)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ यु॒वं व॑रुणा दि॒द्युम॑स्मि॒न्नोजि॑ष्ठमुग्रा॒ नि व॑धिष्टं॒ वज्र॑म् ।  
+यो नो॑ दु॒रेवो॑ वृ॒कति॑र्द॒भीति॒स्तस्मि॑न्मिमाथाम॒भिभू॒त्योजः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

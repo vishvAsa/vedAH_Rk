@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ pitúḥ ← pitár- (nominal stem)
 
 suhávam ← suháva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वां॒ परि॑ज्मा सु॒वृद॑श्विना॒ रथो॑ दो॒षामु॒षासो॒ हव्यो॑ ह॒विष्म॑ता ।  
+श॒श्व॒त्त॒मास॒स्तमु॑ वामि॒दं व॒यं पि॒तुर्न नाम॑ सु॒हवं॑ हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ hí ← hí (invariable)
 
 yuktā́ḥ ← √yuj- (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रू॒पंरू॑पं॒ प्रति॑रूपो बभूव॒ तद॑स्य रू॒पं प्र॑ति॒चक्ष॑णाय ।  
+इन्द्रो॑ मा॒याभिः॑ पुरु॒रूप॑ ईयते यु॒क्ता ह्य॑स्य॒ हर॑यः श॒ता दश॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “ten; tenth; daśan \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -262,18 +267,6 @@ He has a form corresponding to every form; this form of his is for  display.
 Indra keeps going about in many forms through his magical powers, for  ten hundred fallow bays are yoked for him.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. concerns Indra’s shape-shifting propensity, enabled by his māyā́-.
-
-It is a slightly more complex formulation of III.53.8 rūpám-rūpam maghávā bobhavīti, māyā́ḥ krṇ̥ vānás tanvàm pári svā́m “Form after form the bounteous one assumes, wrapping his own body in tricks.” Although prátirūpo babhūva should lit.
-
-mean “he has become one having a form corresponding …,” this seemed awkward.
-
-Geldner thinks the form in b is Indra’s true form, to be recognized behind the various disguises in pāda a; by contrast, I think each form Indra assumes is meant for display and none of them is the “real” one. práti √cakṣ is the lexeme used for the display of the girl at the svayaṃvara; see its use with Dawn in I.113.11 and 124.8.
-
-Each constituency is shown a different form—hence the āmreḍita rūpáṃ-rūpam in a and the thousand horses in d, which presumably take each different form of Indra in a different direction.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
 <details><summary><h2>15-18 ...{Loading}...</h2></summary>
 
@@ -281,7 +274,6 @@ As noted in the published introduction, this section, which concerns Indra’s f
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

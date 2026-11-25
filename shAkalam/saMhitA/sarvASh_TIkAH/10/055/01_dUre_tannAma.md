@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ putrā́n ← putrá- (nominal stem)
 
 titviṣāṇáḥ ← √tvíṣ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दू॒रे तन्नाम॒ गुह्यं॑ परा॒चैर्यत्त्वा॑ भी॒ते अह्व॑येतां वयो॒धै ।  
+उद॑स्तभ्नाः पृथि॒वीं द्याम॒भीके॒ भ्रातुः॑ पु॒त्रान्म॑घवन्तित्विषा॒णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

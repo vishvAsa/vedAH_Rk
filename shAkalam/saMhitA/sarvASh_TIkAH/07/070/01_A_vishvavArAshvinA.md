@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ yát ← yá- (pronoun)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वि॑श्ववाराश्विना गतं नः॒ प्र तत्स्थान॑मवाचि वां पृथि॒व्याम् ।  
+अश्वो॒ न वा॒जी शु॒नपृ॑ष्ठो अस्था॒दा यत्से॒दथु॑र्ध्रु॒वसे॒ न योनि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -270,7 +276,6 @@ _________
     birth; kind; caste; kinship; bed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

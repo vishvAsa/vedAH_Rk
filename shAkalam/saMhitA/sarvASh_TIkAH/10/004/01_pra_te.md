@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ pūráve ← pūrú- (nominal stem)
 
 rājan ← rā́jan- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॑ यक्षि॒ प्र त॑ इयर्मि॒ मन्म॒ भुवो॒ यथा॒ वन्द्यो॑ नो॒ हवे॑षु ।  
+धन्व॑न्निव प्र॒पा अ॑सि॒ त्वम॑ग्न इय॒क्षवे॑ पू॒रवे॑ प्रत्न राजन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

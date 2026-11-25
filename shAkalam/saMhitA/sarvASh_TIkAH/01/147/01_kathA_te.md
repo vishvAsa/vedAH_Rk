@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 sā́man ← sā́man- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था ते॑ अग्ने शु॒चय॑न्त आ॒योर्द॑दा॒शुर्वाजे॑भिराशुषा॒णाः ।  
+उ॒भे यत्तो॒के तन॑ये॒ दधा॑ना ऋ॒तस्य॒ साम॑न्र॒णय॑न्त दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

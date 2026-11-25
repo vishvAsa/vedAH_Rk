@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ níśitam ← √śā- ~ śī- (root)
 
 somasúdbhiḥ ← somasút- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒दा स॑म॒र्यं व्यचे॒दृघा॑वा दी॒र्घं यदा॒जिम॒भ्यख्य॑द॒र्यः ।  
+अचि॑क्रद॒द्वृष॑णं॒ पत्न्यच्छा॑ दुरो॒ण आ निशि॑तं सोम॒सुद्भिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - \[noun\], instrumental, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,14 +253,6 @@ his wife roared the bull (back) into the house, though he had been
 whetted sharp by the soma pressers.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Both Geldner and Oldenberg suggest that ṛ́ghāvā should be read as neut. *ṛ́ghāvad on the basis of similar (but not identical) X.27.3 yadā́vā́khyat samáraṇam ṛ́ghāvad. This seems unnec., since nom. sg. ṛ́ghāvā makes fine sense, and, as anyone who has tangled with it knows, X.27 is a very strange hymn. The only factor in favor of the emendation is the fact that ṛ́ghāvā is the only representative of the -van-stem ṛ́ghāvan-; otherwise we find the -vant-stem ṛ́ghāvant- (3x). But -van- and -vantstems coexist elsewhere -- cf. maghávan(t)- -- and eliminating the -van-stem here doesn’t seem sufficient reason to make the emendation. (Note that Witzel Gotō do not follow Geldner and Oldenberg, and Geldner allows for the possibility of the nom. in his n. 8a.) Geldner suggests that the subjects of a and b might be Indra’s wife. Scarlatta (616 and n.
-
-882) has her as the subj. of b but not a. After surveying the various possibilities in his n. he says, with remarkable understatement, “Das Dramolett lässt Raum für verschiedene Interpretationen.” I think it likely that Indra is the subj. of the first two pādas both because the word pátnī is only introduced in the 3rd pāda and because one wonders whether a woman would be in a position to survey the battlefield.
-
-In d “whetted sharp by the soma pressers” (níśitaṃ somasúbhiḥ) continues the theme of the previous vss., that getting Indra on one’s side in battle requires plying him with soma at the sacrifice.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md">
 <details><summary><h2>08-10 ...{Loading}...</h2></summary>
 
@@ -263,7 +260,6 @@ For my interpr. of these vss., see published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

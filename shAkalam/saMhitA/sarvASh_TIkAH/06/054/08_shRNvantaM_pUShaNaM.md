@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -54,7 +55,12 @@ vayám ← ahám (pronoun)
 
 rāyáḥ ← rayí- ~ rāy- (nominal stem)  
 {gender:M}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शृ॒ण्वन्तं॑ पू॒षणं॑ व॒यमिर्य॒मन॑ष्टवेदसम् ।  
+ईशा॑नं रा॒य ई॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

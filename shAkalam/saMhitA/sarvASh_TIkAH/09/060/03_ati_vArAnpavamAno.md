@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "पुरउष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ hā́rdi ← hā́rdi ~ hr̥d- (nominal stem)
 
 índrasya ← índra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अति॒ वारा॒न्पव॑मानो असिष्यदत्क॒लशाँ॑ अ॒भि धा॑वति ।  
+इन्द्र॑स्य॒ हार्द्या॑वि॒शन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     reach; wear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -158,12 +163,6 @@ _________
 Across the fleeces the self-purifying one has streamed. He runs into the tubs, entering the heart of Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. is in Puraüṣṇih meter (12 8 / 8), i.e., a Gāyatrī with an extended first pāda.
-
-This pāda is almost at the exact center of the hymn, preceded by 6 pādas, followed by 5. The positioning seems deliberate.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -171,7 +170,6 @@ Here the chaining involves only the first word índrasya.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

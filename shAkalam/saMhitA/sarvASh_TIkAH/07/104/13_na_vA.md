@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -89,7 +90,12 @@ prásitau ← prásiti- (nominal stem)
 
 ubhaú ← ubhá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न वा उ॒ सोमो॑ वृजि॒नं हि॑नोति॒ न क्ष॒त्रियं॑ मिथु॒या धा॒रय॑न्तम् ।  
+हन्ति॒ रक्षो॒ हन्त्यास॒द्वद॑न्तमु॒भाविन्द्र॑स्य॒ प्रसि॑तौ शयाते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “lie; sleep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ nā́bhinā ← nā́bhi- (nominal stem)
 
 svarvídā ← svarvíd- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं रो॑चयद॒रुचो॑ रुचा॒नो॒३॒॑ऽयं वा॑सय॒द्व्यृ१॒॑तेन॑ पू॒र्वीः ।  
+अ॒यमी॑यत ऋत॒युग्भि॒रश्वैः॑ स्व॒र्विदा॒ नाभि॑ना चर्षणि॒प्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “appreciated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -222,14 +227,6 @@ This one here, himself shining, makes the unshining ones shine. This one  makes 
 This one speeds with his horses whose yoke is truth, with his sun-finding  (wheel-)nave, as he fills the domains.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Whether the referent of the ‘unshining’ (arúcaḥ) is the same as that of the ‘unlit’ (adyútaḥ) of 3a, namely the nights (aktū́n 3a), is unclear. Hoffmann suggests so, with ?, and I see nothing against it. Both adyút- and arúc- are hapaxes in the RV, so we can’t bring to bear other usages of these words.
-
-Geldner (explicitly n. 2b) considers ṛtayúj- here as having a different sense from the same cmpd. in vs. 2: “mit dem Recht im Bunde” (2b) versus “mit den rechtzeitig geschirrten Rossen” (4c). Even if ṛtá- ever had the sense ‘timely, punctual’ (which it does not), it is inconceivable to me that in a hymn of this length, the poet would use the same cmpd. in two very different senses, within two vss. of each other and marking the boundaries of an omphalos. Schmidt (149) also considers this unlikely, though he attributes the contrary view to Lüders, who, as far as I can see, doesn’t hold it or at least explicitly state it; Scarlatta (425) temporizes in his disc., though he tr.
-
-the other three instances of ṛtayúj- (incl. our vs. 4), all modifying ‘horses’, with the anodyne ‘wohlgeschirrten’, as opposed to our vs. 2, which he renders ‘der Verbündete des Ṛta’ -- in other words, implicitly following Geldner’s differentiation. I would alter the published translation from “whose yoke is truth” to “yoked with truth,” as in vs. 2.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/039/02-04.md">
 <details><summary><h2>02-04 ...{Loading}...</h2></summary>
 
@@ -241,7 +238,6 @@ On vss. 3-4 see Hoffmann, Injunk. 142-43.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

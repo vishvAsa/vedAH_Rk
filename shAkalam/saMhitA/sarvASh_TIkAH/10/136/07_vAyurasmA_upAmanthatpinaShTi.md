@@ -4,6 +4,7 @@ devataa = "केशिनः"
 RShiH = "ऋष्यशृङ्गः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - केशिनः
@@ -74,7 +75,12 @@ sahá ← sahá (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒युर॑स्मा॒ उपा॑मन्थत्पि॒नष्टि॑ स्मा कुनन्न॒मा ।  
+के॒शी वि॒षस्य॒ पात्रे॑ण॒ यद्रु॒द्रेणापि॑बत्स॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “together; together; with; jointly; together; saha \[word\]; along.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

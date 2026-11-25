@@ -4,6 +4,7 @@ devataa = "यमः"
 RShiH = "कुमारो यामायनः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -71,7 +72,12 @@ gīrbhíḥ ← gír- ~ gīr- (nominal stem)
 
 páriṣkr̥taḥ ← √kr̥- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं य॒मस्य॒ साद॑नं देवमा॒नं यदु॒च्यते॑ ।  
+इ॒यम॑स्य धम्यते ना॒ळीर॒यं गी॒र्भिः परि॑ष्कृतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “decorate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ pāvaka ← pāvaká- (nominal stem)
 
 rócase ← √ruc- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे॒षस्ते॑ धू॒म ऋ॑ण्वति दि॒वि षञ्छु॒क्र आत॑तः ।  
+सूरो॒ न हि द्यु॒ता त्वं कृ॒पा पा॑वक॒ रोच॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “please; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

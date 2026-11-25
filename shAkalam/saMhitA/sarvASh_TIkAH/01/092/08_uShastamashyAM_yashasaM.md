@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ subhage ← subhága- (nominal stem)
 
 vā́japrasūtā ← vā́japrasūta- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उष॒स्तम॑श्यां य॒शसं॑ सु॒वीरं॑ दा॒सप्र॑वर्गं र॒यिमश्व॑बुध्यम् ।  
+सु॒दंस॑सा॒ श्रव॑सा॒ या वि॒भासि॒ वाज॑प्रसूता सुभगे बृ॒हन्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -235,12 +240,6 @@ o you of good portion, who with fame of wondrous power radiate
 forth, motivated by (desire for) the prize, to lofty (wealth).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-‘Forelock’ for pravarga- may seem slightly flippant, but I wanted to capture the ‘twist’ sense of prá √vṛj, in contrast to the anodyne ‘having slaves at the front’ found in the other tr.
-
-The final bṛhántam of d obviously refers back to the rayím so carefully detailed in ab, but is separated from that phrase by a considerable amount of material. Rather than making it a long-delayed part of that NP I have taken it as a pseudo-goal with vibhā́si, with vā́ja-prasūtā giving grounds for that goal.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -256,7 +255,6 @@ vibhā́si (8c) and ví bhāti (9b) should have been rendered with the same Engl
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

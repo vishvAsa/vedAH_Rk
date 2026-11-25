@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ ví ← ví (invariable)
 
 vidhatáḥ ← √vidh- (root)  
 {case:GEN, gender:M, number:SG, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+र॒यिर्न यः पि॑तृवि॒त्तो व॑यो॒धाः सु॒प्रणी॑तिश्चिकि॒तुषो॒ न शासुः॑ ।  
+स्यो॒न॒शीरति॑थि॒र्न प्री॑णा॒नो होते॑व॒ सद्म॑ विध॒तो वि ता॑रीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ váyaḥ ← váyas- 2 (nominal stem)
 
 yájamāne ← √yaj- (root)  
 {case:LOC, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सीद॑ होतः॒ स्व उ॑ लो॒के चि॑कि॒त्वान्त्सा॒दया॑ य॒ज्ञं सु॑कृ॒तस्य॒ योनौ॑ ।  
+दे॒वा॒वीर्दे॒वान्ह॒विषा॑ यजा॒स्यग्ने॑ बृ॒हद्यज॑माने॒ वयो॑ धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

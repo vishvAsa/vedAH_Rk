@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ sutā́ḥ ← √su- (root)
 
 mádhumattamāḥ ← mádhumattama- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमा॑ असृग्र॒मिन्द॑वः सु॒ता ऋ॒तस्य॒ साद॑ने ।  
+इन्द्रा॑य॒ मधु॑मत्तमाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +121,6 @@ _________
 - “sweetest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

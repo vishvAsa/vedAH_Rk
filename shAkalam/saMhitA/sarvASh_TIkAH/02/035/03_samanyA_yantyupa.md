@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -92,7 +93,12 @@ pári ← pári (invariable)
 
 tasthuḥ ← √sthā- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सम॒न्या यन्त्युप॑ यन्त्य॒न्याः स॑मा॒नमू॒र्वं न॒द्यः॑ पृणन्ति ।  
+तमू॒ शुचिं॒ शुच॑यो दीदि॒वांस॑म॒पां नपा॑तं॒ परि॑ तस्थु॒रापः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

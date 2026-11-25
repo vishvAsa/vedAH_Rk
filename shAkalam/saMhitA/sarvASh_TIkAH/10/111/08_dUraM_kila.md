@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्ट्रादंष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ nūnám ← nūnám (invariable)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दू॒रं किल॑ प्रथ॒मा ज॑ग्मुरासा॒मिन्द्र॑स्य॒ याः प्र॑स॒वे स॒स्रुरापः॑ ।  
+क्व॑ स्वि॒दग्रं॒ क्व॑ बु॒ध्न आ॑सा॒मापो॒ मध्यं॒ क्व॑ वो नू॒नमन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
     ant; edge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

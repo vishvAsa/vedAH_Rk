@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -71,7 +72,12 @@ gīrbhíḥ ← gír- ~ gīr- (nominal stem)
 
 káṇvāḥ ← káṇva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्यु॒च्छन्ती॒ हि र॒श्मिभि॒र्विश्व॑मा॒भासि॑ रोच॒नम् ।  
+तां त्वामु॑षर्वसू॒यवो॑ गी॒र्भिः कण्वा॑ अहूषत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

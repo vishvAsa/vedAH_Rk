@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -63,7 +64,12 @@ taú ← sá- ~ tá- (pronoun)
 
 yātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाय॒विन्द्र॑श्च चेतथः सु॒तानां॑ वाजिनीवसू ।  
+तावा या॑त॒मुप॑ द्र॒वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
     dissolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

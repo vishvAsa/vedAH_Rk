@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ sacethe ← √sac- 1 (root)
 
 uṣásaḥ ← uṣás- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वो रजां॑सि सु॒यमा॑सो॒ अश्वा॒ रथो॒ यद्वां॒ पर्यर्णां॑सि॒ दीय॑त् ।  
+हि॒र॒ण्यया॑ वां प॒वयः॑ प्रुषाय॒न्मध्वः॒ पिब॑न्ता उ॒षसः॑ सचेथे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

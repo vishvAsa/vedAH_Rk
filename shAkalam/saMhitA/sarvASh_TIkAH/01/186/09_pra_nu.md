@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ sénāḥ ← sénā- (nominal stem)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र नु यदे॑षां महि॒ना चि॑कि॒त्रे प्र यु॑ञ्जते प्र॒युज॒स्ते सु॑वृ॒क्ति ।  
+अध॒ यदे॑षां सु॒दिने॒ न शरु॒र्विश्व॒मेरि॑णं प्रुषा॒यन्त॒ सेनाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “army; senā \[word\]; armament.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

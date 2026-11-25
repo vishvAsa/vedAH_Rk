@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ dhíyaḥ ← dhī́- (nominal stem)
 
 vā́jebhiḥ ← vā́ja- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि ते॑ शूर॒ राध॒सोऽन्तं॑ वि॒न्दामि॑ स॒त्रा ।  
+द॒श॒स्या नो॑ मघव॒न्नू चि॑दद्रिवो॒ धियो॒ वाजे॑भिराविथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

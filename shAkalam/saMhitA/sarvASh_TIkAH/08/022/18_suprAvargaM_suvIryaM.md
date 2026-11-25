@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ vāmā́ni ← vāmá- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒प्रा॒व॒र्गं सु॒वीर्यं॑ सु॒ष्ठु वार्य॒मना॑धृष्टं रक्ष॒स्विना॑ ।  
+अ॒स्मिन्ना वा॑मा॒याने॑ वाजिनीवसू॒ विश्वा॑ वा॒मानि॑ धीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

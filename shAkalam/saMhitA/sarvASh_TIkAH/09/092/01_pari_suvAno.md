@@ -5,13 +5,13 @@ RShiH = "कश्यपः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
 - ऋषिः - कश्यपः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -88,7 +88,12 @@ práti ← práti (invariable)
 
 práyobhiḥ ← práyas- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ सुवा॒नो हरि॑रं॒शुः प॒वित्रे॒ रथो॒ न स॑र्जि स॒नये॑ हिया॒नः ।  
+आप॒च्छ्लोक॑मिन्द्रि॒यं पू॒यमा॑नः॒ प्रति॑ दे॒वाँ अ॑जुषत॒ प्रयो॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +214,6 @@ _________
 - “food; dainty; enjoyment.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -264,8 +268,6 @@ Ergossen ist der goldne Saft zur Seihe, gepresst, getrieben wie zum Preis der Wa
 Когда его очищают, он достиг ритма, свойственного Индре.  
 Он понравился богам (своими) жертвенными усладами.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

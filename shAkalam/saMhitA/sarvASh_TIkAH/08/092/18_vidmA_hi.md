@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ kr̥ṣṭíṣu ← kr̥ṣṭí- (nominal stem)
 
 víśvāsu ← víśva- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒द्मा हि यस्ते॑ अद्रिव॒स्त्वाद॑त्तः सत्य सोमपाः ।  
+विश्वा॑सु दस्म कृ॒ष्टिषु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “people; citizenry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

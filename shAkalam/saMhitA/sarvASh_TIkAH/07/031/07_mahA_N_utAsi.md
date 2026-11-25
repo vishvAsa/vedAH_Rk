@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ mamnā́te ← √man- 1 (root)
 
 ródasī ← ródasī- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हाँ उ॒तासि॒ यस्य॒ तेऽनु॑ स्व॒धाव॑री॒ सहः॑ ।  
+म॒म्नाते॑ इन्द्र॒ रोद॑सी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “heaven and earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -173,7 +178,6 @@ have yielded, o Indra.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -188,7 +192,6 @@ Echo between 7b svadhā́varī and 8b sayā́varī, though they occupy different
 Again there is responsion across the tṛca boundary: 7a mahām̐utā́si echoes 6a tvám vármāsi.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

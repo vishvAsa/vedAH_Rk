@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -92,7 +93,12 @@ saním ← saní- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊर्जं॑ नो॒ द्यौश्च॑ पृथि॒वी च॑ पिन्वतां पि॒ता मा॒ता वि॑श्व॒विदा॑ सु॒दंस॑सा ।  
+सं॒र॒रा॒णे रोद॑सी वि॒श्वश॑म्भुवा स॒निं वाजं॑ र॒यिम॒स्मे समि॑न्वताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “bring; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

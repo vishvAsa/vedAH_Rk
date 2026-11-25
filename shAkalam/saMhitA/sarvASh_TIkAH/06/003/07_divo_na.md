@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ supátnī ← supátnī- (nominal stem)
 
 vásunā ← vásu- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो न यस्य॑ विध॒तो नवी॑नो॒द्वृषा॑ रु॒क्ष ओष॑धीषु नूनोत् ।  
+घृणा॒ न यो ध्रज॑सा॒ पत्म॑ना॒ यन्ना रोद॑सी॒ वसु॑ना॒ दं सु॒पत्नी॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “wife; mistress; queen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कौत्सो दुर्मित्रो नाम्ना दुर्मित्रो गुणतो वा नाम्ना दुर्मित्रो गुणतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -97,7 +98,12 @@ prá ← prá (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं वा॒ यद॑सुर्य॒ प्रति॑ त्वा सुमि॒त्र इ॒त्थास्तौ॑द्दुर्मि॒त्र इ॒त्थास्तौ॑त् ।  
+आवो॒ यद्द॑स्यु॒हत्ये॑ कुत्सपु॒त्रं प्रावो॒ यद्द॑स्यु॒हत्ये॑ कुत्सव॒त्सम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +263,6 @@ _________
     son; male child.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

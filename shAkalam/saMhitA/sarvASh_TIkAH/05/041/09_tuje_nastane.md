@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ náryaḥ ← nárya- (nominal stem)
 
 várdhāt ← √vr̥dh- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तु॒जे न॒स्तने॒ पर्व॑ताः सन्तु॒ स्वैत॑वो॒ ये वस॑वो॒ न वी॒राः ।  
+प॒नि॒त आ॒प्त्यो य॑ज॒तः सदा॑ नो॒ वर्धा॑न्नः॒ शंसं॒ नर्यो॑ अ॒भिष्टौ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “prevalence; protection.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

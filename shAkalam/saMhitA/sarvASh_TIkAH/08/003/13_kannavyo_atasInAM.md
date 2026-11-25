@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ gr̥ṇántaḥ ← √gr̥̄- 1 (root)
 
 svàr ← svàr- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कन्नव्यो॑ अत॒सीनां॑ तु॒रो गृ॑णीत॒ मर्त्यः॑ ।  
+न॒ही न्व॑स्य महि॒मान॑मिन्द्रि॒यं स्व॑र्गृ॒णन्त॑ आन॒शुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

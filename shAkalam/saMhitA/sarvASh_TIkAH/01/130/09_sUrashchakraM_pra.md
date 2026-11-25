@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -122,7 +123,13 @@ turváṇiḥ ← turváṇi- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सूर॑श्च॒क्रं प्र वृ॑हज्जा॒त ओज॑सा प्रपि॒त्वे वाच॑मरु॒णो मु॑षायतीशा॒न आ मु॑षायति ।  
+उ॒शना॒ यत्प॑रा॒वतोऽज॑गन्नू॒तये॑ कवे ।  
+सु॒म्नानि॒ विश्वा॒ मनु॑षेव तु॒र्वणि॒रहा॒ विश्वे॑व तु॒र्वणिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -312,7 +319,6 @@ _________
 - “victorious; overpowering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

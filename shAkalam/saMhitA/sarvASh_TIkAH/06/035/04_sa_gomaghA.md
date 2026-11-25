@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ rurucyāḥ ← √ruc- (root)
 
 surúcaḥ ← surúc- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स गोम॑घा जरि॒त्रे अश्व॑श्चन्द्रा॒ वाज॑श्रवसो॒ अधि॑ धेहि॒ पृक्षः॑ ।  
+पी॒पि॒हीषः॑ सु॒दुघा॑मिन्द्र धे॒नुं भ॒रद्वा॑जेषु सु॒रुचो॑ रुरुच्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “please; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

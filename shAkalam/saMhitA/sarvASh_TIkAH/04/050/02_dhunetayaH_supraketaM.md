@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -80,7 +81,12 @@ rákṣatāt ← √rakṣⁱ- (root)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धु॒नेत॑यः सुप्रके॒तं मद॑न्तो॒ बृह॑स्पते अ॒भि ये न॑स्तत॒स्रे ।  
+पृष॑न्तं सृ॒प्रमद॑ब्धमू॒र्वं बृह॑स्पते॒ रक्ष॑तादस्य॒ योनि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     birth; kind; caste; kinship; bed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -222,16 +227,6 @@ O Br̥haspati, (after their action) guard its womb [=(the contents of)
 the Vala cave, the cows].
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The rel. clause of abc (by most interpr. -- c could also go with d) has no main clause correspondent in this vs. As most interpr. take it, the pl. yé seems rather to refer to the Ṛṣis in vs. 1 and continue that sentence, forming a transition to the explicit Vala myth.
-
-The acc. supraketám in pāda a is taken by some (e.g., Oldenberg, Macdonell, Schmidt) as coreferential with the acc. in c, but I consider it too far from the verb and from the other accusatives to be an anticipatory object. Instead I prefer Geldner’s solution, to construe it loosely with mádantaḥ (cf. IV.33.10 ukthā́mádantaḥ, also cited by Geldner): Geldner “jublend unter guten Vorzeichen,” my “exulting at the good sign.” Since Agni is several times called praketá- as the sign of the day or the ceremony (e.g., VII.11.1 mahā́m asy adhvarásya preketáḥ “you are the great visible sign of the ceremony”), I wonder if this is a temporal reference: dawn when the ritual fire is kindled.
-
-The acc. phrase in c refers to the Vala cave and is the obj. of abhí … tatasré in b. The head-noun ūrvá- ‘container, enclosure’ refers to the cave itself, but the three adj. pṛ́ṣantaṃ sṛprám ádabdham “dappled, glossy, uncheatable” are better applicable to its contents, the cows. Note the mirror-image phonetic figure beginning c: pṛ́ṣ(antaṃ) sṛp(rám), which contains partial anagrams of Bṛhaspati.
-
-The “future impv.” rákṣatāt in d is somewhat surprising, in that it does not follow a previous impv., as is usual. I take it to imply that Bṛhaspati should do his guarding after the Aṅgirases have breached the cave and released the cows. For another unexpected future impv. see nearby suvatāt in IV.54.3
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details><summary><h2>01-06 ...{Loading}...</h2></summary>
 
@@ -239,7 +234,6 @@ As indicated in the published introduction, this section concerns the unitary fi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

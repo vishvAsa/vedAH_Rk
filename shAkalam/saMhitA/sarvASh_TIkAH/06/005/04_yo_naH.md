@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ tápasvān ← tápasvant- (nominal stem)
 
 tapiṣṭha ← tápiṣṭha- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नः॒ सनु॑त्यो अभि॒दास॑दग्ने॒ यो अन्त॑रो मित्रमहो वनु॒ष्यात् ।  
+तम॒जरे॑भि॒र्वृष॑भि॒स्तव॒ स्वैस्तपा॑ तपिष्ठ॒ तप॑सा॒ तप॑स्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -244,10 +249,6 @@ Whoever at a distance will assail us, whoever close by will be rapacious, o  Agn
 with your own unaging bulls [=flames], most scorching one, scorch him  with your scorching heat, o you of scorching heat.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note the extreme etymological figure that occupies the whole of pāda d: tápā tapiṣṭha tápasā tápasvān. For the last two words, see the parallel structure in 6b.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/005/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -255,7 +256,6 @@ These two vss. are contrastively paired: each has a generalizing rel. clause des
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

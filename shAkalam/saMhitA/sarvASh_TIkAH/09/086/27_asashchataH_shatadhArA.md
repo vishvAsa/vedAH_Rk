@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ rocané ← rocaná- (nominal stem)
 
 tr̥tī́ye ← tr̥tī́ya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स॒श्चतः॑ श॒तधा॑रा अभि॒श्रियो॒ हरिं॑ नव॒न्तेऽव॒ ता उ॑द॒न्युवः॑ ।  
+क्षिपो॑ मृजन्ति॒ परि॒ गोभि॒रावृ॑तं तृ॒तीये॑ पृ॒ष्ठे अधि॑ रोच॒ने दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -252,12 +257,6 @@ one as they provide water.
 The fingers groom him wreathed with cows, on the third back, in the  luminous realm of heaven.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the likely pun on abhiśríyaḥ, see Geldner (n. 27ab), also Scarlatta 547-48.
-
-It is not entirely clear what “the third back” (tṛtī́ye pṛṣṭhé) refers to, but most likely the highest (third) realm of heaven. Cf., for the back of heaven in general, divás pṛṣṭhé in IX.66.5.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -267,7 +266,6 @@ Cows (that is, the milk-mixture) are esp. prominent in this tṛca: there are se
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

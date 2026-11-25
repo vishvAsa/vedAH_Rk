@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -83,7 +84,12 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 sádam ← sádam (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒न्द्रं होता॑रं॒ शुचि॒मद्व॑याविनं॒ दमू॑नसमु॒क्थ्यं॑ वि॒श्वच॑र्षणिम् ।  
+रथं॒ न चि॒त्रं वपु॑षाय दर्श॒तं मनु॑र्हितं॒ सद॒मिद्रा॒य ई॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

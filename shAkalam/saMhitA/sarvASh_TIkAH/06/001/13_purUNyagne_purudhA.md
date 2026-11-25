@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ vásu ← vásu- (nominal stem)
 
 vidhaté ← √vidh- (root)  
 {case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रूण्य॑ग्ने पुरु॒धा त्वा॒या वसू॑नि राजन्व॒सुता॑ ते अश्याम् ।  
+पु॒रूणि॒ हि त्वे पु॑रुवार॒ सन्त्यग्ने॒ वसु॑ विध॒ते राज॑नि॒ त्वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -257,7 +262,6 @@ For many are the goods in you, o Agni of many favors, for the one who  does (you
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -265,7 +269,6 @@ These two vss. play on the two words purú- ‘many’ and vásu- ‘good’ in 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

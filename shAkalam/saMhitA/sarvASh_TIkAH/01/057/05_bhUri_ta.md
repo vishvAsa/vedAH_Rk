@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ pr̥thivī́ ← pr̥thivī́- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूरि॑ त इन्द्र वी॒र्यं१॒॑ तव॑ स्मस्य॒स्य स्तो॒तुर्म॑घव॒न्काम॒मा पृ॑ण ।  
+अनु॑ ते॒ द्यौर्बृ॑ह॒ती वी॒र्यं॑ मम इ॒यं च॑ ते पृथि॒वी ने॑म॒ ओज॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -267,7 +273,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

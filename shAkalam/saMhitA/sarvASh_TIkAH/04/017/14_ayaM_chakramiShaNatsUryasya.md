@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ tvacáḥ ← tvác- (nominal stem)
 
 yónau ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं च॒क्रमि॑षण॒त्सूर्य॑स्य॒ न्येत॑शं रीरमत्ससृमा॒णम् ।  
+आ कृ॒ष्ण ईं॑ जुहुरा॒णो जि॑घर्ति त्व॒चो बु॒ध्ने रज॑सो अ॒स्य योनौ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     birth; kind; caste; kinship; bed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ kr̥ṣvá ← √kr̥- (root)
 
 sácā ← sácā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रु॒धी हवं॑ विपिपा॒नस्याद्रे॒र्बोधा॒ विप्र॒स्यार्च॑तो मनी॒षाम् ।  
+कृ॒ष्वा दुवां॒स्यन्त॑मा॒ सचे॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

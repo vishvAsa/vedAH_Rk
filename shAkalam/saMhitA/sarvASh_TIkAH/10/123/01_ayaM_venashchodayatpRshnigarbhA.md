@@ -4,6 +4,7 @@ devataa = "वेनः"
 RShiH = "वेनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वेनः
@@ -80,7 +81,12 @@ rihanti ← √rih- (root)
 
 víprāḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं वे॒नश्चो॑दय॒त्पृश्नि॑गर्भा॒ ज्योति॑र्जरायू॒ रज॑सो वि॒माने॑ ।  
+इ॒मम॒पां सं॑ग॒मे सूर्य॑स्य॒ शिशुं॒ न विप्रा॑ म॒तिभी॑ रिहन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “lick.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

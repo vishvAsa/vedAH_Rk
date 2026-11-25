@@ -4,6 +4,7 @@ devataa = "विश्वकर्मा"
 RShiH = "विश्वकर्मा भौवनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -89,7 +90,12 @@ víśvāni ← víśva- (nominal stem)
 
 yásmin ← yá- (pronoun)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमिद्गर्भं॑ प्रथ॒मं द॑ध्र॒ आपो॒ यत्र॑ दे॒वाः स॒मग॑च्छन्त॒ विश्वे॑ ।  
+अ॒जस्य॒ नाभा॒वध्येक॒मर्पि॑तं॒ यस्मि॒न्विश्वा॑नि॒ भुव॑नानि त॒स्थुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

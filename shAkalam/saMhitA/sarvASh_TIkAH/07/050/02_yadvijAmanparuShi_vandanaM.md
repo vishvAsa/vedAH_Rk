@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ tsáruḥ ← tsáru- (nominal stem)
 
 vidat ← √vid- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वि॒जाम॒न्परु॑षि॒ वन्द॑नं॒ भुव॑दष्ठी॒वन्तौ॒ परि॑ कु॒ल्फौ च॒ देह॑त् ।  
+अ॒ग्निष्टच्छोच॒न्नप॑ बाधतामि॒तो मा मां पद्ये॑न॒ रप॑सा विद॒त्त्सरुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “hilt; sycophant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

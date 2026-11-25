@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ suṣṭutím ← suṣṭutí- (nominal stem)
 
 vindhe ← √vidh- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तु॒ञ्जेतु॑ञ्जे॒ य उत्त॑रे॒ स्तोमा॒ इन्द्र॑स्य व॒ज्रिणः॑ ।  
+न वि॑न्धे अस्य सुष्टु॒तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “hymn; praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

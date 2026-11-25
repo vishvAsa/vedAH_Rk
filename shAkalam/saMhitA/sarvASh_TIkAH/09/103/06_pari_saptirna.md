@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "द्वित आप्त्यः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ ví ← ví (invariable)
 
 vyānaśíḥ ← vyānaśí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ सप्ति॒र्न वा॑ज॒युर्दे॒वो दे॒वेभ्यः॑ सु॒तः ।  
+व्या॒न॒शिः पव॑मानो॒ वि धा॑वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “run; run; wash.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

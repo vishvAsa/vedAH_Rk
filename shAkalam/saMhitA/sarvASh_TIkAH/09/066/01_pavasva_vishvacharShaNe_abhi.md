@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ sákhā ← sákhi- (nominal stem)
 
 sákhibhyaḥ ← sákhi- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व विश्वचर्षणे॒ऽभि विश्वा॑नि॒ काव्या॑ ।  
+सखा॒ सखि॑भ्य॒ ईड्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - “praise; invite; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -140,10 +145,6 @@ Purify yourself, you who are common to all the separate peoples,
 a comrade for your comrades, to be reverently invoked.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The b pāda lacks a verb: Geldner supplies (silently) “zu gewinnen,” Renou parenthetically “pour (atteindre).” The pāda is found 3x elsewhere (IX.23.1, 62.25, 63.25); in two the vs. contains a form of √sṛj ‘surge’ (asṛgram 23.1, asṛkṣata 63.25) and I therefore supply that verb here.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -153,7 +154,6 @@ contain a form of páva- (pávasva 1a, voc. pa/ávamāna 2b, 3c), but the stem v
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

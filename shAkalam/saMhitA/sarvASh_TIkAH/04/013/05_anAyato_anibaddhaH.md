@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sámr̥taḥ ← √r̥- 1 (root)
 
 skambháḥ ← skambhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अना॑यतो॒ अनि॑बद्धः क॒थायं न्य॑ङ्ङुत्ता॒नोऽव॑ पद्यते॒ न ।  
+कया॑ याति स्व॒धया॒ को द॑दर्श दि॒वः स्क॒म्भः समृ॑तः पाति॒ नाक॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “sky; celestial sphere; Svarga; nāka \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

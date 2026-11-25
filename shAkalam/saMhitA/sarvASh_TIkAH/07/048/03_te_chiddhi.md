@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -95,7 +96,12 @@ nr̥mṇám ← nr̥mṇá- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते चि॒द्धि पू॒र्वीर॒भि सन्ति॑ शा॒सा विश्वाँ॑ अ॒र्य उ॑प॒रता॑ति वन्वन् ।  
+इन्द्रो॒ विभ्वाँ॑ ऋभु॒क्षा वाजो॑ अ॒र्यः शत्रो॑र्मिथ॒त्या कृ॑णव॒न्वि नृ॒म्णम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “manhood; power.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

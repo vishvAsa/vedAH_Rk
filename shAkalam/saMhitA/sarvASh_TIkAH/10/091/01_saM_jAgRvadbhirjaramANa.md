@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अरुणो वैतहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ vibhā́vā ← vibhā́van- (nominal stem)
 
 vibhúḥ ← vibhú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं जा॑गृ॒वद्भि॒र्जर॑माण इध्यते॒ दमे॒ दमू॑ना इ॒षय॑न्नि॒ळस्प॒दे ।  
+विश्व॑स्य॒ होता॑ ह॒विषो॒ वरे॑ण्यो वि॒भुर्वि॒भावा॑ सु॒षखा॑ सखीय॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “befriend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "बिन्दुः पूतदक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -54,7 +55,12 @@ jā́vataḥ ← jā́vant- (nominal stem)
 
 triṣadhasthásya ← triṣadhasthá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिब॑न्ति मि॒त्रो अ॑र्य॒मा तना॑ पू॒तस्य॒ वरु॑णः ।  
+त्रि॒ष॒ध॒स्थस्य॒ जाव॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +117,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

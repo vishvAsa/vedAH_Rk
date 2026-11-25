@@ -4,6 +4,7 @@ devataa = "द्रुघण इन्द्रो वा"
 RShiH = "मुद्गलो भार्म्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रुघण इन्द्रो वा
@@ -80,7 +81,12 @@ múdgalaḥ ← múdgala- (nominal stem)
 
 pr̥tanā́jyeṣu ← pr̥tanā́jya- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं तं प॑श्य वृष॒भस्य॒ युञ्जं॒ काष्ठा॑या॒ मध्ये॑ द्रुघ॒णं शया॑नम् ।  
+येन॑ जि॒गाय॑ श॒तव॑त्स॒हस्रं॒ गवां॒ मुद्ग॑लः पृत॒नाज्ये॑षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “fight; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

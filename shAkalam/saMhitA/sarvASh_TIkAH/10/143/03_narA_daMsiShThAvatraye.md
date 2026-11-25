@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अत्रिः साङ्ख्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ stómaḥ ← stóma- (nominal stem)
 
 viśáse ← √śaṁs- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नरा॒ दंसि॑ष्ठा॒वत्र॑ये॒ शुभ्रा॒ सिषा॑सतं॒ धियः॑ ।  
+अथा॒ हि वां॑ दि॒वो न॑रा॒ पुनः॒ स्तोमो॒ न वि॒शसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “\_”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

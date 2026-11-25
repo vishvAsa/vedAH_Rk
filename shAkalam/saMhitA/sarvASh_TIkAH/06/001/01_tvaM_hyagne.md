@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sáhase ← sáhas- (nominal stem)
 
 víśvasmai ← víśva- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ह्य॑ग्ने प्रथ॒मो म॒नोता॒स्या धि॒यो अभ॑वो दस्म॒ होता॑ ।  
+त्वं सीं॑ वृषन्नकृणोर्दु॒ष्टरी॑तु॒ सहो॒ विश्व॑स्मै॒ सह॑से॒ सह॑ध्यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “endure; overcome; habituate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

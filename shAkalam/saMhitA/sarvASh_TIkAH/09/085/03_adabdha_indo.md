@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ niṁsate ← √nas- (root)
 
 rā́jānam ← rā́jan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद॑ब्ध इन्दो पवसे म॒दिन्त॑म आ॒त्मेन्द्र॑स्य भवसि धा॒सिरु॑त्त॒मः ।  
+अ॒भि स्व॑रन्ति ब॒हवो॑ मनी॒षिणो॒ राजा॑नम॒स्य भुव॑नस्य निंसते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “kiss.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

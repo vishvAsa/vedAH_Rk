@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ rā́yaḥ ← rayí- ~ rāy- (nominal stem)
 
 tārīt ← √tr̥̄- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वरि॑ष्ठे न इन्द्र व॒न्धुरे॑ धा॒ वहि॑ष्ठयोः शताव॒न्नश्व॑यो॒रा ।  
+इष॒मा व॑क्षी॒षां वर्षि॑ष्ठां॒ मा न॑स्तारीन्मघव॒न्रायो॑ अ॒र्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

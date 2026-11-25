@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ sákhibhyaḥ ← sákhi- (nominal stem)
 
 ūtáye ← ūtí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व ज॒नय॒न्निषो॒ऽभि विश्वा॑नि॒ वार्या॑ ।  
+सखा॒ सखि॑भ्य ऊ॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -149,10 +154,6 @@ _________
 Purify yourself, begetting refreshments, (surging) toward all valuables, as a comrade to aid your comrades.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As in 1b, I supply ‘surging’ with 4b, on the basis of their identical construction.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -160,7 +161,6 @@ This tṛca does not show particular internal cohesion, but it has striking echo
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

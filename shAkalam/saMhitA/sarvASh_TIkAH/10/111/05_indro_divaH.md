@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्ट्रादंष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ skábhīyān ← skábhīyaṁs- (nominal stem)
 
 skámbhanena ← skámbhana- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ दि॒वः प्र॑ति॒मानं॑ पृथि॒व्या विश्वा॑ वेद॒ सव॑ना॒ हन्ति॒ शुष्ण॑म् ।  
+म॒हीं चि॒द्द्यामात॑नो॒त्सूर्ये॑ण चा॒स्कम्भ॑ चि॒त्कम्भ॑नेन॒ स्कभी॑यान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

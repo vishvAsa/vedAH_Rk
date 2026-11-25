@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -101,7 +102,12 @@ ná ← ná (invariable)
 
 yajñíyaḥ ← yajñíya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्ये॒नो न योनिं॒ सद॑नं धि॒या कृ॒तं हि॑र॒ण्यय॑मा॒सदं॑ दे॒व एष॑ति ।  
+ए रि॑णन्ति ब॒र्हिषि॑ प्रि॒यं गि॒राश्वो॒ न दे॒वाँ अप्ये॑ति य॒ज्ञियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

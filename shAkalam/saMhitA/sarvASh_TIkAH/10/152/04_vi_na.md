@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शासो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ gamaya ← √gam- (root)
 
 támaḥ ← támas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि न॑ इन्द्र॒ मृधो॑ जहि नी॒चा य॑च्छ पृतन्य॒तः ।  
+यो अ॒स्माँ अ॑भि॒दास॒त्यध॑रं गमया॒ तमः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
     ignorance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

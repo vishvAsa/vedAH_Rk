@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ maghávā ← maghávan- (nominal stem)
 
 stotŕ̥bhyaḥ ← stotár- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हर्य॑श्वं॒ सत्प॑तिं चर्षणी॒सहं॒ स हि ष्मा॒ यो अम॑न्दत ।  
+आ तु नः॒ स व॑यति॒ गव्य॒मश्व्यं॑ स्तो॒तृभ्यो॑ म॒घवा॑ श॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “hundred; one-hundredth; śata \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

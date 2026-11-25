@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ samáraṇe ← samáraṇa- (nominal stem)
 
 vadhīḥ ← √vadhⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किं न॑ इन्द्र जिघांससि॒ भ्रात॑रो म॒रुत॒स्तव॑ ।  
+तेभिः॑ कल्पस्व साधु॒या मा नः॑ स॒मर॑णे वधीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “kill; assail; kick; māray; destroy; beat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

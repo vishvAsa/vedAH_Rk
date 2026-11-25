@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -80,7 +81,12 @@ mádāya ← máda- (nominal stem)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पीवो॑अश्वाः शु॒चद्र॑था॒ हि भू॒तायः॑शिप्रा वाजिनः सुनि॒ष्काः ।  
+इन्द्र॑स्य सूनो शवसो नपा॒तोऽनु॑ वश्चेत्यग्रि॒यं मदा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -54,7 +55,12 @@ bhágasya ← bhága- (nominal stem)
 
 rātím ← rātí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वस्य॑ सवि॒तुर्व॒यं वा॑ज॒यन्तः॒ पुरं॑ध्या ।  
+भग॑स्य रा॒तिमी॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -141,10 +146,6 @@ Seeking the prize, we beg for the generosity of Bhaga,
 along with the plenitude of god Savitar.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I take púraṃdhyā as an instr. of accompaniment, not (with Geldner [/Witzel Gotō]) an instr. of means.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -152,7 +153,6 @@ All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

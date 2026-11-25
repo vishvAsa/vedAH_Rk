@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ paśumā́nti ← paśumánt- (nominal stem)
 
 sádma ← sádman- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य प्रे॒षा हे॒मना॑ पू॒यमा॑नो दे॒वो दे॒वेभिः॒ सम॑पृक्त॒ रस॑म् ।  
+सु॒तः प॒वित्रं॒ पर्ये॑ति॒ रेभ॑न्मि॒तेव॒ सद्म॑ पशु॒मान्ति॒ होता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “Hotṛ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -245,14 +250,6 @@ Being purified by his impulsion, his drive, the god has intermingled his  sap wi
 Pressed, he goes rasping around the filter like the Hotar around the fixed  seats provided with (sacrificial) animals.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As Renou points out, init. asyá is reflexive or pseudo-reflexive, referring to Soma.
-
-Grassmann attributes the instr. preṣā́to a root noun préṣ- (← pra-íṣ-). Scarlatta (59-60) discusses the form extensively, pointing out that a root noun analysis is dispreferred because of the accent on the ending: root nouns generally keeping the accent on the root even in the oblique. An instr. to a putative them. stem preṣá- is possible (at least accentually distinct from préṣa- I.68.5).
-
-Almost identical to IX.92.6a, pāda d contains one of the few technical references to animal sacrifice (other than the horse sacrifice) in the RV.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -260,7 +257,6 @@ No obvious cohesion in this tṛca, though it ends with a clan refrain.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

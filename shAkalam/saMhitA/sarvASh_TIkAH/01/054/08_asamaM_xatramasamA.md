@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ stháviram ← sthávira- (nominal stem)
 
 vŕ̥ṣṇyam ← vŕ̥ṣṇya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस॑मं क्ष॒त्रमस॑मा मनी॒षा प्र सो॑म॒पा अप॑सा सन्तु॒ नेमे॑ ।  
+ये त॑ इन्द्र द॒दुषो॑ व॒र्धय॑न्ति॒ महि॑ क्ष॒त्रं स्थवि॑रं॒ वृष्ण्यं॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

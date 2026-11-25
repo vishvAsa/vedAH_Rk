@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -89,7 +90,12 @@ mahī́ ← máh- (nominal stem)
 
 purás ← purás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र द्यावा॑ य॒ज्ञैः पृ॑थि॒वी नमो॑भिः स॒बाध॑ ईळे बृह॒ती यज॑त्रे ।  
+ते चि॒द्धि पूर्वे॑ क॒वयो॑ गृ॒णन्तः॑ पु॒रो म॒ही द॑धि॒रे दे॒वपु॑त्रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

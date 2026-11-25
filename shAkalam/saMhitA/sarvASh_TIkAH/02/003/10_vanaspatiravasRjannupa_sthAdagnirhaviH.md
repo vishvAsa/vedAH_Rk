@@ -4,6 +4,7 @@ devataa = "वनस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वनस्पतिः
@@ -86,7 +87,12 @@ havyám ← havyá- (nominal stem)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वन॒स्पति॑रवसृ॒जन्नुप॑ स्थाद॒ग्निर्ह॒विः सू॑दयाति॒ प्र धी॒भिः ।  
+त्रिधा॒ सम॑क्तं नयतु प्रजा॒नन्दे॒वेभ्यो॒ दैव्यः॑ शमि॒तोप॑ ह॒व्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “Havya; offering; havya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

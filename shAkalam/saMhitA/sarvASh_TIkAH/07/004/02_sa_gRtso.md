@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ sadyás ← sadyás (invariable)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स गृत्सो॑ अ॒ग्निस्तरु॑णश्चिदस्तु॒ यतो॒ यवि॑ष्ठो॒ अज॑निष्ट मा॒तुः ।  
+सं यो वना॑ यु॒वते॒ शुचि॑द॒न्भूरि॑ चि॒दन्ना॒ समिद॑त्ति स॒द्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “immediately; just; daily; sadyas \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

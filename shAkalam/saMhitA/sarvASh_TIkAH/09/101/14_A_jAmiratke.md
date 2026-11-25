@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रजापतिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ varáḥ ← vará- (nominal stem)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ जा॒मिरत्के॑ अव्यत भु॒जे न पु॒त्र ओ॒ण्योः॑ ।  
+सर॑ज्जा॒रो न योष॑णां व॒रो न योनि॑मा॒सद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -215,10 +220,6 @@ Their kinsman has wrapped himself in a cloak (of milk) to enjoy it, like  a son 
 He runs like a swain to a maiden, like a wooer, to sit in the womb.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The d pāda (varó) ná yónim āsádam is almost identical to 15d (vedhā́) ná yónim āsádam, both expressing the endpoint of Soma’s ritual journey.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -226,7 +227,6 @@ The dog returns from the first tṛca in the first vs. of this one. The tṛca i
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

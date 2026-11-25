@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ indra ← índra- (nominal stem)
 
 kṣáranti ← √kṣar- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ग्रं न वी॒रं नम॒सोप॑ सेदिम॒ विभू॑ति॒मक्षि॑तावसुम् ।  
+उ॒द्रीव॑ वज्रिन्नव॒तो न सि॑ञ्च॒ते क्षर॑न्तीन्द्र धी॒तयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “thinking; prayer; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

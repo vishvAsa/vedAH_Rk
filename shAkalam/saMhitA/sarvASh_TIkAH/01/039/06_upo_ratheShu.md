@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ yā́māya ← yā́ma- (nominal stem)
 
 mā́nuṣāḥ ← mā́nuṣa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपो॒ रथे॑षु॒ पृष॑तीरयुग्ध्वं॒ प्रष्टि॑र्वहति॒ रोहि॑तः ।  
+आ वो॒ यामा॑य पृथि॒वी चि॑दश्रो॒दबी॑भयन्त॒ मानु॑षाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “man; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

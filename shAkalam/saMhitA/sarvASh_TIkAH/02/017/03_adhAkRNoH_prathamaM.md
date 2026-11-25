@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sadhryàk ← sadhryàñc- (nominal stem)
 
 sisrate ← √sr̥- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑कृणोः प्रथ॒मं वी॒र्यं॑ म॒हद्यद॒स्याग्रे॒ ब्रह्म॑णा॒ शुष्म॒मैर॑यः ।  
+र॒थे॒ष्ठेन॒ हर्य॑श्वेन॒ विच्यु॑ताः॒ प्र जी॒रयः॑ सिस्रते स॒ध्र्य१॒॑क्पृथ॑क् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

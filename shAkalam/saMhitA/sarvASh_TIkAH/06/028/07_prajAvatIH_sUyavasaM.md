@@ -4,6 +4,7 @@ devataa = "गावः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -86,7 +87,12 @@ vaḥ ← tvám (pronoun)
 
 vr̥jyāḥ ← √vr̥j- 1 (root)  
 {number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒जाव॑तीः सू॒यव॑सं रि॒शन्तीः॑ शु॒द्धा अ॒पः सु॑प्रपा॒णे पिब॑न्तीः ।  
+मा वः॑ स्ते॒न ई॑शत॒ माघशं॑सः॒ परि॑ वो हे॒ती रु॒द्रस्य॑ वृज्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - \[verb\], singular, Prekativ
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

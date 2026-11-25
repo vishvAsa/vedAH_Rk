@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ práti ← práti (invariable)
 
 śámbhaviṣṭhā ← śámbhaviṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न सं॑स्कृ॒तं प्र मि॑मीतो॒ गमि॒ष्ठान्ति॑ नू॒नम॒श्विनोप॑स्तुते॒ह ।  
+दिवा॑भिपि॒त्वेऽव॒साग॑मिष्ठा॒ प्रत्यव॑र्तिं दा॒शुषे॒ शम्भ॑विष्ठा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - \[noun\], nominative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

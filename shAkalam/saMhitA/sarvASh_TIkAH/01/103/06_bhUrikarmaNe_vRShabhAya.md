@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ védaḥ ← védas- 1 (nominal stem)
 
 vibhájan ← √bhaj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूरि॑कर्मणे वृष॒भाय॒ वृष्णे॑ स॒त्यशु॑ष्माय सुनवाम॒ सोम॑म् ।  
+य आ॒दृत्या॑ परिप॒न्थीव॒ शूरोऽय॑ज्वनो वि॒भज॒न्नेति॒ वेदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

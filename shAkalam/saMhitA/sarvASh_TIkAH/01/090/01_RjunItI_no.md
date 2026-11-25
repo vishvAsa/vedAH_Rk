@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -57,7 +58,12 @@ devaíḥ ← devá- (nominal stem)
 
 sajóṣāḥ ← sajóṣas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒जु॒नी॒ती नो॒ वरु॑णो मि॒त्रो न॑यतु वि॒द्वान् ।  
+अ॒र्य॒मा दे॒वैः स॒जोषाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “consentaneous; combined; associated; united.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ nā́vam ← naú- ~ nā́v- (nominal stem)
 
 vadhīt ← √vadhⁱ- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नः॑ समस्य दू॒ढ्य१॑ः॒ परि॑द्वेषसो अंह॒तिः ।  
+ऊ॒र्मिर्न नाव॒मा व॑धीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “kill; assail; kick; māray; destroy; beat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

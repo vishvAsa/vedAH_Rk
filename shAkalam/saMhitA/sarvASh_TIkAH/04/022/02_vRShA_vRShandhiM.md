@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ vivyé ← √vyā- (root)
 
 yásyāḥ ← yá- (pronoun)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॒ वृष॑न्धिं॒ चतु॑रश्रि॒मस्य॑न्नु॒ग्रो बा॒हुभ्यां॒ नृत॑मः॒ शची॑वान् ।  
+श्रि॒ये परु॑ष्णीमु॒षमा॑ण॒ ऊर्णां॒ यस्याः॒ पर्वा॑णि स॒ख्याय॑ वि॒व्ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “approach; ask; desire; go; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

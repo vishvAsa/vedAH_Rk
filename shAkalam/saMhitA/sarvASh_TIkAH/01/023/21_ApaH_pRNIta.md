@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "प्रतिष्ठा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -60,7 +61,12 @@ jyók ← jyók (invariable)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपः॑ पृणी॒त भे॑ष॒जं वरू॑थं त॒न्वे॒३॒॑ मम॑ ।  
+ज्योक्च॒ सूर्यं॑ दृ॒शे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     know; know; understand; understand; follow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

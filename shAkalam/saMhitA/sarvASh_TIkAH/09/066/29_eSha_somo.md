@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ jóhuvat ← √hū- (root)
 
 mádāya ← máda- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष सोमो॒ अधि॑ त्व॒चि गवां॑ क्रीळ॒त्यद्रि॑भिः ।  
+इन्द्रं॒ मदा॑य॒ जोहु॑वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “appeal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,7 +172,6 @@ repeatedly invoking Indra to exhilaration.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -175,7 +179,6 @@ No particular evidence of unity, except for an emphasis in the 1st two vss. on t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

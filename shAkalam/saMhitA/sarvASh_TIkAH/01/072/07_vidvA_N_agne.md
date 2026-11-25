@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ dūtáḥ ← dūtá- (nominal stem)
 
 havirvā́ṭ ← havirvā́h- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒द्वाँ अ॑ग्ने व॒युना॑नि क्षिती॒नां व्या॑नु॒षक्छु॒रुधो॑ जी॒वसे॑ धाः ।  
+अ॒न्त॒र्वि॒द्वाँ अध्व॑नो देव॒याना॒नत॑न्द्रो दू॒तो अ॑भवो हवि॒र्वाट् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “vah.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

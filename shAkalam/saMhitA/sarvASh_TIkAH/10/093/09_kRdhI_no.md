@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "अक्षरैः पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ raśmím ← raśmí- (nominal stem)
 
 yoyuve ← √yu- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒धी नो॒ अह्र॑यो देव सवितः॒ स च॑ स्तुषे म॒घोना॑म् ।  
+स॒हो न॒ इन्द्रो॒ वह्नि॑भि॒र्न्ये॑षां चर्षणी॒नां च॒क्रं र॒श्मिं न यो॑युवे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

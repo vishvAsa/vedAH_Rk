@@ -4,6 +4,7 @@ devataa = "उषासानक्ता"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषासानक्ता
@@ -83,7 +84,12 @@ sudúghe ← sudúgha- (nominal stem)
 
 yajñásya ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा॒ध्वपां॑सि स॒नता॑ न उक्षि॒ते उ॒षासा॒नक्ता॑ व॒य्ये॑व रण्वि॒ते ।  
+तन्तुं॑ त॒तं सं॒वय॑न्ती समी॒ची य॒ज्ञस्य॒ पेशः॑ सु॒दुघे॒ पय॑स्वती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “sappy; watery; milk(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

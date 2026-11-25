@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -85,7 +86,12 @@ hástayoḥ ← hásta- (nominal stem)
 
 vájram ← vájra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्रत्वा॑ म॒हाँ अ॑नुष्व॒धं भी॒म आ वा॑वृधे॒ शवः॑ ।  
+श्रि॒य ऋ॒ष्व उ॑पा॒कयो॒र्नि शि॒प्री हरि॑वान्दधे॒ हस्त॑यो॒र्वज्र॑माय॒सम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “iron; metallic.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

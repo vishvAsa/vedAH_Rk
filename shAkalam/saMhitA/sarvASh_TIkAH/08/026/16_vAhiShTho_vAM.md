@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ bhūtu ← √bhū- (root)
 
 yuvā́bhyām ← tvám (pronoun)  
 {case:INS, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाहि॑ष्ठो वां॒ हवा॑नां॒ स्तोमो॑ दू॒तो हु॑वन्नरा ।  
+यु॒वाभ्यां॑ भूत्वश्विना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

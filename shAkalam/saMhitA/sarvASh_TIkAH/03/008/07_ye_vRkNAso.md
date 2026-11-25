@@ -4,6 +4,7 @@ devataa = "यूपाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यूपाः
@@ -68,7 +69,12 @@ devatrā́ ← devatrā́ (invariable)
 
 kṣetrasā́dhasaḥ ← kṣetrasā́dhas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये वृ॒क्णासो॒ अधि॒ क्षमि॒ निमि॑तासो य॒तस्रु॑चः ।  
+ते नो॑ व्यन्तु॒ वार्यं॑ देव॒त्रा क्षे॑त्र॒साध॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

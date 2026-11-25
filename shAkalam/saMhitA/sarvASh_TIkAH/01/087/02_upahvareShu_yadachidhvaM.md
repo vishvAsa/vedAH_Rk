@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ mádhuvarṇam ← mádhuvarṇa- (nominal stem)
 
 ukṣata ← √ukṣ- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒प॒ह्व॒रेषु॒ यदचि॑ध्वं य॒यिं वय॑ इव मरुतः॒ केन॑ चित्प॒था ।  
+श्चोत॑न्ति॒ कोशा॒ उप॑ वो॒ रथे॒ष्वा घृ॒तमु॑क्षता॒ मधु॑वर्ण॒मर्च॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “sing; worship; honor; praise; welcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

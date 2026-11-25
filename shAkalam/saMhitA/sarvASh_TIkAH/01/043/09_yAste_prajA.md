@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "कण्वो घौरः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -74,7 +75,12 @@ soma ← sóma- (nominal stem)
 
 vedaḥ ← √vid- 2 (root)  
 {number:SG, person:2, mood:SBJV, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यास्ते॑ प्र॒जा अ॒मृत॑स्य॒ पर॑स्मि॒न्धाम॑न्नृ॒तस्य॑ ।  
+मू॒र्धा नाभा॑ सोम वेन आ॒भूष॑न्तीः सोम वेदः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

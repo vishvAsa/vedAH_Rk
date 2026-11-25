@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वार्षागिराः ऋज्राश्वांबरीष-सहदेव-भयमान-सुराधसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 ūtī́ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्याना॑प्तः॒ सूर्य॑स्येव॒ यामो॒ भरे॑भरे वृत्र॒हा शुष्मो॒ अस्ति॑ ।  
+वृष॑न्तमः॒ सखि॑भिः॒ स्वेभि॒रेवै॑र्म॒रुत्वा॑न्नो भव॒त्विन्द्र॑ ऊ॒ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः पावकः"
 ChandaH = "विष्टारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ dāśúṣe ← dāśváṁs- (nominal stem)
 
 kave ← kaví- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ तव॒ श्रवो॒ वयो॒ महि॑ भ्राजन्ते अ॒र्चयो॑ विभावसो ।  
+बृह॑द्भानो॒ शव॑सा॒ वाज॑मु॒क्थ्यं१॒॑ दधा॑सि दा॒शुषे॑ कवे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
     guru; Brahma.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

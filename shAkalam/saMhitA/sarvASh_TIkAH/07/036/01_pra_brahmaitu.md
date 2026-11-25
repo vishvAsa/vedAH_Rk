@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ prátīkam ← prátīka- (nominal stem)
 
 pr̥thú ← pr̥thú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ब्रह्मै॑तु॒ सद॑नादृ॒तस्य॒ वि र॒श्मिभिः॑ ससृजे॒ सूर्यो॒ गाः ।  
+वि सानु॑ना पृथि॒वी स॑स्र उ॒र्वी पृ॒थु प्रती॑क॒मध्येधे॑ अ॒ग्निः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

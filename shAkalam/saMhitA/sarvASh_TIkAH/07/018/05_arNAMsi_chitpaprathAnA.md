@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ akr̥ṇot ← √kr̥- (root)
 
 síndhūnām ← síndhu- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर्णां॑सि चित्पप्रथा॒ना सु॒दास॒ इन्द्रो॑ गा॒धान्य॑कृणोत्सुपा॒रा ।  
+शर्ध॑न्तं शि॒म्युमु॒चथ॑स्य॒ नव्यः॒ शापं॒ सिन्धू॑नामकृणो॒दश॑स्तीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “hex.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

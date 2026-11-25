@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -74,7 +75,12 @@ uṣásā ← uṣás- (nominal stem)
 
 vásubhiḥ ← vásu- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒धि॒क्रावा॑ प्रथ॒मो वा॒ज्यर्वाग्रे॒ रथा॑नां भवति प्रजा॒नन् ।  
+सं॒वि॒दा॒न उ॒षसा॒ सूर्ये॑णादि॒त्येभि॒र्वसु॑भि॒रङ्गि॑रोभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
     Aṅgiras.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ divé-dive ← dyú- ~ div- (nominal stem)
 
 vāvr̥dhvā́ṁsam ← √vr̥dh- (root)  
 {case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वार्ण त्वा॑ य॒व्याभि॒र्वर्ध॑न्ति शूर॒ ब्रह्मा॑णि ।  
+वा॒वृ॒ध्वांसं॑ चिदद्रिवो दि॒वेदि॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “day; sky; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ ataṣṭa ← √takṣ- (root)
 
 ūrdhvágrāvāṇaḥ ← ūrdhvágrāvan- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒कृत्सु॑पा॒णिः स्ववाँ॑ ऋ॒तावा॑ दे॒वस्त्वष्टाव॑से॒ तानि॑ नो धात् ।  
+पू॒ष॒ण्वन्त॑ ऋभवो मादयध्वमू॒र्ध्वग्रा॑वाणो अध्व॒रम॑तष्ट ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “produce; shape; fashion; chisel; invent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

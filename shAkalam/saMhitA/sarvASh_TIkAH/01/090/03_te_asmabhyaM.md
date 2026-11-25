@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -57,7 +58,12 @@ bā́dhamānāḥ ← √bādhⁱ- (root)
 
 dvíṣaḥ ← dvíṣ- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते अ॒स्मभ्यं॒ शर्म॑ यंसन्न॒मृता॒ मर्त्ये॑भ्यः ।  
+बाध॑माना॒ अप॒ द्विषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “hostile; hating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

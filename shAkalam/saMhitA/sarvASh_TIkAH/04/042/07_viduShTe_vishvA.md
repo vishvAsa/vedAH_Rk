@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "त्रसदस्युः पौरुकुत्स्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -89,7 +90,12 @@ tvám ← tvám (pronoun)
 
 vr̥tā́n ← √vr̥- (root)  
 {case:ACC, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒दुष्टे॒ विश्वा॒ भुव॑नानि॒ तस्य॒ ता प्र ब्र॑वीषि॒ वरु॑णाय वेधः ।  
+त्वं वृ॒त्राणि॑ शृण्विषे जघ॒न्वान्त्वं वृ॒ताँ अ॑रिणा इन्द्र॒ सिन्धू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “river; Indus; sindhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

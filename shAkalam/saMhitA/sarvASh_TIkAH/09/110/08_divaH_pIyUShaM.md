@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "ऊर्ध्वबृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -78,7 +79,12 @@ jā́yamānam ← √janⁱ- (root)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वः पी॒यूषं॑ पू॒र्व्यं यदु॒क्थ्यं॑ म॒हो गा॒हाद्दि॒व आ निर॑धुक्षत ।  
+इन्द्र॑म॒भि जाय॑मानं॒ सम॑स्वरन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “sing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -215,7 +220,6 @@ They cried out in unison toward Indra as he was being born.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -223,7 +227,6 @@ Considerably clearer than the previous tṛca.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ havyā́ ← havyá- (nominal stem)
 
 vŕ̥ṣaprayāvṇe ← vŕ̥ṣaprayāvan- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ वो वृषदञ्जयो॒ वृष्णे॒ शर्धा॑य॒ मारु॑ताय भरध्वम् ।  
+ह॒व्या वृष॑प्रयाव्णे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “traveling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -163,7 +168,6 @@ whose leader is a bull [=Indra].
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -171,7 +175,6 @@ The ‘bull’ stem (vṛ́ṣa(n)-) is dominant in these verses (9b, 9c, 10a [t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ priyám ← priyá- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हत्तन्नाम॒ गुह्यं॑ पुरु॒स्पृग्येन॑ भू॒तं ज॒नयो॒ येन॒ भव्य॑म् ।  
+प्र॒त्नं जा॒तं ज्योति॒र्यद॑स्य प्रि॒यं प्रि॒याः सम॑विशन्त॒ पञ्च॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “five; fifth; pañcan \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

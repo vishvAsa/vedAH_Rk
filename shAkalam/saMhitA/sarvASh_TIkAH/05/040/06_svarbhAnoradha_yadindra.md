@@ -4,6 +4,7 @@ devataa = "अत्रिः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अत्रिः
@@ -83,7 +84,12 @@ bráhmaṇā ← bráhman- (nominal stem)
 
 turī́yeṇa ← turī́ya- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॑र्भानो॒रध॒ यदि॑न्द्र मा॒या अ॒वो दि॒वो वर्त॑माना अ॒वाह॑न् ।  
+गू॒ळ्हं सूर्यं॒ तम॒साप॑व्रतेन तु॒रीये॑ण॒ ब्रह्म॑णाविन्द॒दत्रिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “Atri; Atri; atri \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

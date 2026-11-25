@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "बाहुवृक्त आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -57,7 +58,12 @@ dhíyaḥ ← dhī́- (nominal stem)
 
 pipyatam ← √pī- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्व॑स्य॒ हि प्र॑चेतसा॒ वरु॑ण॒ मित्र॒ राज॑थः ।  
+ई॒शा॒ना पि॑प्यतं॒ धियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
     knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

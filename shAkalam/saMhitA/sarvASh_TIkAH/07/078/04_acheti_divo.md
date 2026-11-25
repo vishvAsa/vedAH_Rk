@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ váhanti ← √vah- (root)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अचे॑ति दि॒वो दु॑हि॒ता म॒घोनी॒ विश्वे॑ पश्यन्त्यु॒षसं॑ विभा॒तीम् ।  
+आस्था॒द्रथं॑ स्व॒धया॑ यु॒ज्यमा॑न॒मा यमश्वा॑सः सु॒युजो॒ वह॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

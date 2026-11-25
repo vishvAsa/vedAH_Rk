@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ pr̥ṇītám ← √pr̥̄- 1 (root)
 
 udnáḥ ← udán- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ मित्रावरुणा ह॒व्यजु॑ष्टिं घृ॒तैर्गव्यू॑तिमुक्षत॒मिळा॑भिः ।  
+प्रति॑ वा॒मत्र॒ वर॒मा जना॑य पृणी॒तमु॒द्नो दि॒व्यस्य॒ चारोः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

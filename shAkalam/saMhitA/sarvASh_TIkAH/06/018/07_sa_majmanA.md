@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sámokāḥ ← sámokas- (nominal stem)
 
 vīryèṇa ← vīryà- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स म॒ज्मना॒ जनि॑म॒ मानु॑षाणा॒मम॑र्त्येन॒ नाम्नाति॒ प्र स॑र्स्रे ।  
+स द्यु॒म्नेन॒ स शव॑सो॒त रा॒या स वी॒र्ये॑ण॒ नृत॑मः॒ समो॑काः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

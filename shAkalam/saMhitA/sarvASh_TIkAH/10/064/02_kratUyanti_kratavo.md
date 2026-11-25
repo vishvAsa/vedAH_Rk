@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ kā́māḥ ← kā́ma- (nominal stem)
 
 me ← ahám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्र॒तू॒यन्ति॒ क्रत॑वो हृ॒त्सु धी॒तयो॒ वेन॑न्ति वे॒नाः प॒तय॒न्त्या दिशः॑ ।  
+न म॑र्डि॒ता वि॑द्यते अ॒न्य ए॑भ्यो दे॒वेषु॑ मे॒ अधि॒ कामा॑ अयंसत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

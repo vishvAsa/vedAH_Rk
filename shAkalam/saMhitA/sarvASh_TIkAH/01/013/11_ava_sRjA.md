@@ -4,6 +4,7 @@ devataa = "वनस्पतिः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वनस्पतिः
@@ -60,7 +61,12 @@ dātúḥ ← dātár- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ सृजा वनस्पते॒ देव॑ दे॒वेभ्यो॑ ह॒विः ।  
+प्र दा॒तुर॑स्तु॒ चेत॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “mind; consciousness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ kṣṇaumi ← √kṣṇu- (root)
 
 nā́ma ← nā́man- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हरी॒ न्व॑स्य॒ या वने॑ वि॒दे वस्विन्द्रो॑ म॒घैर्म॒घवा॑ वृत्र॒हा भु॑वत् ।  
+ऋ॒भुर्वाज॑ ऋभु॒क्षाः प॑त्यते॒ शवोऽव॑ क्ष्णौमि॒ दास॑स्य॒ नाम॑ चित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “even; indeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

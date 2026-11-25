@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -55,7 +56,11 @@ niktáḥ ← √nij- (root)
 
 vājī́ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व सोम॒ क्रत्वे॒ दक्षा॒याश्वो॒ न नि॒क्तो वा॒जी धना॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +124,6 @@ _________
     dhan; capital; fight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -147,14 +151,12 @@ prizewinning horse for the stake.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 Once again, three different forms of the root √pū: 10 pávasva, 11 punánti, 12 pavítre, all hemistich-initial. The washing/grooming of Soma as horse is found in vss. 10 and 12. The phrase krátve dákṣāya (10) is repeated from vs. 2, though in different metrical position.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

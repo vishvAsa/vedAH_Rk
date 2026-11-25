@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ kr̥ṇávāmahai ← √kr̥- (root)
 
 sákhāyam ← sákhi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न पा॒पासो॑ मनामहे॒ नारा॑यासो॒ न जळ्ह॑वः ।  
+यदिन्न्विन्द्रं॒ वृष॑णं॒ सचा॑ सु॒ते सखा॑यं कृ॒णवा॑महै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

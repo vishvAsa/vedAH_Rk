@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "सुपर्णः काण्वः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ nákiḥ ← nákiḥ (invariable)
 
 yáyoḥ ← yá- (pronoun)  
 {case:GEN, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि॒ष्षिध्व॑री॒रोष॑धी॒राप॑ आस्ता॒मिन्द्रा॑वरुणा महि॒मान॒माश॑त ।  
+या सिस्र॑तू॒ रज॑सः पा॒रे अध्व॑नो॒ ययोः॒ शत्रु॒र्नकि॒रादे॑व॒ ओह॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “diagnose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

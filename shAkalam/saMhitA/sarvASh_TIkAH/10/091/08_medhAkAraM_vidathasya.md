@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अरुणो वैतहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ tvát ← tvám (pronoun)
 
 vr̥ṇate ← √vr̥- ~ vr̥̄- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मे॒धा॒का॒रं वि॒दथ॑स्य प्र॒साध॑नम॒ग्निं होता॑रं परि॒भूत॑मं म॒तिम् ।  
+तमिदर्भे॑ ह॒विष्या स॑मा॒नमित्तमिन्म॒हे वृ॑णते॒ नान्यं त्वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

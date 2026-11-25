@@ -4,6 +4,7 @@ devataa = "इन्द्राविष्णू"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राविष्णू
@@ -83,7 +84,12 @@ hatháḥ ← √han- (root)
 
 vīrā́n ← vīrá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑विष्णू दृंहि॒ताः शम्ब॑रस्य॒ नव॒ पुरो॑ नव॒तिं च॑ श्नथिष्टम् ।  
+श॒तं व॒र्चिनः॑ स॒हस्रं॑ च सा॒कं ह॒थो अ॑प्र॒त्यसु॑रस्य वी॒रान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

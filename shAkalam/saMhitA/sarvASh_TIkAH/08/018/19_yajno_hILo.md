@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -69,7 +70,12 @@ vaḥ ← tvám (pronoun)
 
 yuṣmé ← tvám (pronoun)  
 {case:LOC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञो ही॒ळो वो॒ अन्त॑र॒ आदि॑त्या॒ अस्ति॑ मृ॒ळत॑ ।  
+यु॒ष्मे इद्वो॒ अपि॑ ष्मसि सजा॒त्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “relatedness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

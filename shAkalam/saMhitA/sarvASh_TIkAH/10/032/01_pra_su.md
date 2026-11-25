@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ somyásya ← somyá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सु ग्मन्ता॑ धियसा॒नस्य॑ स॒क्षणि॑ व॒रेभि॑र्व॒राँ अ॒भि षु प्र॒सीद॑तः ।  
+अ॒स्माक॒मिन्द्र॑ उ॒भयं॑ जुजोषति॒ यत्सो॒म्यस्यान्ध॑सो॒ बुबो॑धति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     attend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

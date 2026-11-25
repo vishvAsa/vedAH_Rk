@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ té ← sá- ~ tá- (pronoun)
 
 vāvr̥dhuḥ ← √vr̥dh- (root)  
 {number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रि॒ये मर्या॑सो अ॒ञ्जीँर॑कृण्वत सु॒मारु॑तं॒ न पू॒र्वीरति॒ क्षपः॑ ।  
+दि॒वस्पु॒त्रास॒ एता॒ न ये॑तिर आदि॒त्यास॒स्ते अ॒क्रा न वा॑वृधुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

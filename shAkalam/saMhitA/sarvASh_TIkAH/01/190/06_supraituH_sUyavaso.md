@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -80,7 +81,12 @@ aporṇuvántaḥ ← √vr̥- (root)
 
 asthuḥ ← √sthā- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒प्रैतुः॑ सू॒यव॑सो॒ न पन्था॑ दुर्नि॒यन्तुः॒ परि॑प्रीतो॒ न मि॒त्रः ।  
+अ॒न॒र्वाणो॑ अ॒भि ये चक्ष॑ते॒ नोऽपी॑वृता अपोर्णु॒वन्तो॑ अस्थुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ vánā ← vána- (nominal stem)
 
 vr̥kṣákeśāḥ ← vr̥kṣákeśa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था म॒हे रु॒द्रिया॑य ब्रवाम॒ कद्रा॒ये चि॑कि॒तुषे॒ भगा॑य ।  
+आप॒ ओष॑धीरु॒त नो॑ऽवन्तु॒ द्यौर्वना॑ गि॒रयो॑ वृ॒क्षके॑शाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “mane; hair; keśa \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

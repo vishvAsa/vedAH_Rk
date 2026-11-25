@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sáhaḥ ← sáhas- (nominal stem)
 
 vardhaya ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स जा॒तूभ॑र्मा श्र॒द्दधा॑न॒ ओजः॒ पुरो॑ विभि॒न्दन्न॑चर॒द्वि दासीः॑ ।  
+वि॒द्वान्व॑ज्रि॒न्दस्य॑वे हे॒तिम॒स्यार्यं॒ सहो॑ वर्धया द्यु॒म्नमि॑न्द्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

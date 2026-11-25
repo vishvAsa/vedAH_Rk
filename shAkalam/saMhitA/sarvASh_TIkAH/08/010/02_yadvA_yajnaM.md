@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "मध्येज्योतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ aśvínau ← aśvín- (nominal stem)
 
 índrāvíṣṇū ← índrāvíṣṇu- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वा॑ य॒ज्ञं मन॑वे सम्मिमि॒क्षथु॑रे॒वेत्का॒ण्वस्य॑ बोधतम् ।  
+बृह॒स्पतिं॒ विश्वा॑न्दे॒वाँ अ॒हं हु॑व॒ इन्द्रा॒विष्णू॑ अ॒श्विना॑वाशु॒हेष॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - \[noun\], accusative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

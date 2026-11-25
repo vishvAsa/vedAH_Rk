@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ jínva ← √ji- 2 ~ jinv- (root)
 
 vasuvídaḥ ← vasuvíd- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येन॒ वंसा॑म॒ पृत॑नासु॒ शर्ध॑त॒स्तर॑न्तो अ॒र्य आ॒दिशः॑ ।  
+स त्वं नो॑ वर्ध॒ प्रय॑सा शचीवसो॒ जिन्वा॒ धियो॑ वसु॒विदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “finding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "तनूनपात्"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तनूनपात्
@@ -62,7 +63,12 @@ dāśúṣaḥ ← dāśváṁs- (nominal stem)
 
 śaśamānásya ← √śamⁱ- (root)  
 {case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घृ॒तव॑न्त॒मुप॑ मासि॒ मधु॑मन्तं तनूनपात् ।  
+य॒ज्ञं विप्र॑स्य॒ माव॑तः शशमा॒नस्य॑ दा॒शुषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

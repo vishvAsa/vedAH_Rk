@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -74,7 +75,12 @@ purú ← purú- (nominal stem)
 
 śasta ← √śas- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं नो॑ वाजा ऋभुक्षण॒ इन्द्र॒ नास॑त्या र॒यिम् ।  
+समश्वं॑ चर्ष॒णिभ्य॒ आ पु॒रु श॑स्त म॒घत्त॑ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - \[noun\], dative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

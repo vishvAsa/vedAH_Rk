@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ tū́yam ← tū́ya- (nominal stem)
 
 yāta ← √yā- 1 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि व॑ ऊ॒तिः पृत॑नासु॒ मर्ध॑ति॒ यस्मा॒ अरा॑ध्वं नरः ।  
+अ॒भि व॒ आव॑र्त्सुम॒तिर्नवी॑यसी॒ तूयं॑ यात पिपीषवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “bibulous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -217,7 +222,6 @@ Your favor has turned here anew. Drive straightaway, you who desire  to drink.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -225,7 +229,6 @@ Both of these vss. begin nahí vaḥ; in neither one is it easy to produce a cau
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

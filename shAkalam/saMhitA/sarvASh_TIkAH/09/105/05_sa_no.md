@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पर्वतनारदौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ sákhā ← sákhi- (nominal stem)
 
 sákhye ← sákhi- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॑ हरीणां पत॒ इन्दो॑ दे॒वप्स॑रस्तमः ।  
+सखे॑व॒ सख्ये॒ नर्यो॑ रु॒चे भ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

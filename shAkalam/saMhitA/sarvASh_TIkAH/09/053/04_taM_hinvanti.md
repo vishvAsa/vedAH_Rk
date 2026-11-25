@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ vājínam ← vājín- (nominal stem)
 
 matsarám ← matsará- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं हि॑न्वन्ति मद॒च्युतं॒ हरिं॑ न॒दीषु॑ वा॒जिन॑म् ।  
+इन्दु॒मिन्द्रा॑य मत्स॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “intoxicant; invigorating; hostile.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

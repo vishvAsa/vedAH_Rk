@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "विभ्राट् सौर्यः"
 ChandaH = "आस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -71,7 +72,12 @@ viśvádevyāvatā ← viśvádevyāvant- (nominal stem)
 
 viśvákarmaṇā ← viśvákarman- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒भ्राज॒ञ्ज्योति॑षा॒ स्व१॒॑रग॑च्छो रोच॒नं दि॒वः ।  
+येने॒मा विश्वा॒ भुव॑ना॒न्याभृ॑ता वि॒श्वक॑र्मणा वि॒श्वदे॑व्यावता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - \[noun\], instrumental, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

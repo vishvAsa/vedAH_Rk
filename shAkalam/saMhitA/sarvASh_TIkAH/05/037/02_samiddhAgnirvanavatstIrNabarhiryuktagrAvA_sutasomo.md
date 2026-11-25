@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ havíṣā ← havís- (nominal stem)
 
 síndhum ← síndhu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धाग्निर्वनवत्स्ती॒र्णब॑र्हिर्यु॒क्तग्रा॑वा सु॒तसो॑मो जराते ।  
+ग्रावा॑णो॒ यस्ये॑षि॒रं वद॒न्त्यय॑दध्व॒र्युर्ह॒विषाव॒ सिन्धु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “river; Indus; sindhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

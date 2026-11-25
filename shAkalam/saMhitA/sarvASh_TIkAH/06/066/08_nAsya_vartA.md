@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -101,7 +102,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vrajám ← vrajá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नास्य॑ व॒र्ता न त॑रु॒ता न्व॑स्ति॒ मरु॑तो॒ यमव॑थ॒ वाज॑सातौ ।  
+तो॒के वा॒ गोषु॒ तन॑ये॒ यम॒प्सु स व्र॒जं दर्ता॒ पार्ये॒ अध॒ द्योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

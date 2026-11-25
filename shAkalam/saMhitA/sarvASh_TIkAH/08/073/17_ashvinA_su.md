@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गोपवन आत्रेयः सप्तवध्रिर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -63,7 +64,12 @@ sát ← √as- 1 (root)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒श्विना॒ सु वि॒चाक॑शद्वृ॒क्षं प॑रशु॒माँ इ॑व ।  
+अन्ति॒ षद्भू॑तु वा॒मवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “aid; favor; protection.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

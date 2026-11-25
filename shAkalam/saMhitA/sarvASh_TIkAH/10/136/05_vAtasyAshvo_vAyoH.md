@@ -4,6 +4,7 @@ devataa = "केशिनः"
 RShiH = "करिक्रतः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - केशिनः
@@ -83,7 +84,12 @@ utá ← utá (invariable)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वात॒स्याश्वो॑ वा॒योः सखाथो॑ दे॒वेषि॑तो॒ मुनिः॑ ।  
+उ॒भौ स॑मु॒द्रावा क्षे॑ति॒ यश्च॒ पूर्व॑ उ॒ताप॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     elder; remaining; some(a); later(a); back(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

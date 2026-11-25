@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "भौमोत्रिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -92,7 +93,12 @@ varṣyàm ← varṣyà- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+र॒थीव॒ कश॒याश्वाँ॑ अभिक्षि॒पन्ना॒विर्दू॒तान्कृ॑णुते व॒र्ष्याँ॒३॒॑ अह॑ ।  
+दू॒रात्सिं॒हस्य॑ स्त॒नथा॒ उदी॑रते॒ यत्प॒र्जन्यः॑ कृणु॒ते व॒र्ष्यं१॒॑ नभः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “sky; cloud; ākāśa; air; abhra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

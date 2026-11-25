@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -104,7 +105,12 @@ sā́ ← sá- ~ tá- (pronoun)
 
 subhvè ← subhū́- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रु॒द्रस्य॒ ये मी॒ळ्हुषः॒ सन्ति॑ पु॒त्रा याँश्चो॒ नु दाधृ॑वि॒र्भर॑ध्यै ।  
+वि॒दे हि मा॒ता म॒हो म॒ही षा सेत्पृश्निः॑ सु॒भ्वे॒३॒॑ गर्भ॒माधा॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -269,7 +275,6 @@ _________
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

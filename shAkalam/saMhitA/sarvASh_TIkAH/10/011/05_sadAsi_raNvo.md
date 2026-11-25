@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हविर्धान आङ्गिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ upayā́si ← √yā- 1 (root)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सदा॑सि र॒ण्वो यव॑सेव॒ पुष्य॑ते॒ होत्रा॑भिरग्ने॒ मनु॑षः स्वध्व॒रः ।  
+विप्र॑स्य वा॒ यच्छ॑शमा॒न उ॒क्थ्यं१॒॑ वाजं॑ सस॒वाँ उ॑प॒यासि॒ भूरि॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

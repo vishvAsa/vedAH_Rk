@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ svastíbhiḥ ← svastí- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये दे॒वानां॑ य॒ज्ञिया॑ य॒ज्ञिया॑नां॒ मनो॒र्यज॑त्रा अ॒मृता॑ ऋत॒ज्ञाः ।  
+ते नो॑ रासन्तामुरुगा॒यम॒द्य यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -241,10 +246,6 @@ Those who are the sacrificial ones of the sacrificial gods, the occasion  of sac
 let them grant us wide-ranging space today. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The just discussed phrase in 14d yé yajñíyāsaḥ is picked up by 15a yé devā́nāṃ yajñíyā yajñíyānām. I assume that this phrase doesn’t introduce another group of worthies, but is simply an intensive elaboration of the original phrase. The next pāda qualifies them with another derivative of √yaj, the -tra-stem yájatra-, which I interpr., somewhat capaciously, as meaning that they provide the occasion or reason for Manu’s sacrifice.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/035/14-15.md">
 <details><summary><h2>14-15 ...{Loading}...</h2></summary>
 
@@ -252,7 +253,6 @@ These last two vss. stand apart from the 13 monotonous vss. that precede them, t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

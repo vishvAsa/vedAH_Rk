@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अग्निवरुणसोमानां निहवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ manīṣā́ ← manīṣā́- (nominal stem)
 
 ní ← ní (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बी॒भ॒त्सूनां॑ स॒युजं॑ हं॒समा॑हुर॒पां दि॒व्यानां॑ स॒ख्ये चर॑न्तम् ।  
+अ॒नु॒ष्टुभ॒मनु॑ चर्चू॒र्यमा॑ण॒मिन्द्रं॒ नि चि॑क्युः क॒वयो॑ मनी॒षा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

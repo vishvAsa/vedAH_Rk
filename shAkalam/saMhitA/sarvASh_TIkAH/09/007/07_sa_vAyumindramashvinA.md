@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ ráṇā ← rán- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वा॒युमिन्द्र॑म॒श्विना॑ सा॒कं मदे॑न गच्छति ।  
+रणा॒ यो अ॑स्य॒ धर्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
     Dharma; Dharma; law; law; peculiarity; justice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

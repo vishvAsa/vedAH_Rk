@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "जगती"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -88,7 +88,12 @@ kavím ← kaví- (nominal stem)
 
 sumnaíḥ ← sumná- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धम॒ग्निं स॒मिधा॑ गि॒रा गृ॑णे॒ शुचिं॑ पाव॒कं पु॒रो अ॑ध्व॒रे ध्रु॒वम् ।  
+विप्रं॒ होता॑रं पुरु॒वार॑म॒द्रुहं॑ क॒विं सु॒म्नैरी॑महे जा॒तवे॑दसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +223,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -268,8 +272,6 @@ Ich preis' mit Lied den Agni, der durch Holz entflammt, hell vor dem Opfer aufge
 Вдохновенного хотара, богатого избранными дарами, лишенного обмана,  
 Поэта просим мы словами, приносящими милость Джатаведаса.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -71,7 +72,12 @@ náraḥ ← nár- (nominal stem)
 
 vŕ̥ṣakhādayaḥ ← vŕ̥ṣakhādi- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒श्ववे॑दसो र॒यिभिः॒ समो॑कसः॒ सम्मि॑श्लास॒स्तवि॑षीभिर्विर॒प्शिनः॑ ।  
+अस्ता॑र॒ इषुं॑ दधिरे॒ गभ॑स्त्योरन॒न्तशु॑ष्मा॒ वृष॑खादयो॒ नरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

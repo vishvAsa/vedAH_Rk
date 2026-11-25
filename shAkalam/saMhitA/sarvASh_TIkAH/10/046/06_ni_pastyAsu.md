@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ nr̥̄́n ← nár- (nominal stem)
 
 vídharmaṇā ← vídharman- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि प॒स्त्या॑सु त्रि॒तः स्त॑भू॒यन्परि॑वीतो॒ योनौ॑ सीदद॒न्तः ।  
+अतः॑ सं॒गृभ्या॑ वि॒शां दमू॑ना॒ विध॑र्मणाय॒न्त्रैरी॑यते॒ नॄन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

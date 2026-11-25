@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ u ← u (invariable)
 
 vípraḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑य्य॒ग्निर्मानु॑षीषु वि॒क्ष्व१॒॑पां गर्भो॑ मि॒त्र ऋ॒तेन॒ साध॑न् ।  
+आ ह॑र्य॒तो य॑ज॒तः सान्व॑स्था॒दभू॑दु॒ विप्रो॒ हव्यो॑ मती॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     desire; wish; conviction; plan; devotion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ pavítravantā ← pavítravant- (nominal stem)
 
 punántā ← √pū- (root)  
 {case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पीवा॑नं मे॒षम॑पचन्त वी॒रा न्यु॑प्ता अ॒क्षा अनु॑ दी॒व आ॑सन् ।  
+द्वा धनुं॑ बृह॒तीम॒प्स्व१॒॑न्तः प॒वित्र॑वन्ता चरतः पु॒नन्ता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “purify; filter; blow; purify; purge; sift.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

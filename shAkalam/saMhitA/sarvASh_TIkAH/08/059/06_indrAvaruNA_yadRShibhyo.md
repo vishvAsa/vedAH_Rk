@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "सुपर्णः काण्वः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -86,7 +87,12 @@ tápasā ← tápas- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑वरुणा॒ यदृ॒षिभ्यो॑ मनी॒षां वा॒चो म॒तिं श्रु॒तम॑दत्त॒मग्रे॑ ।  
+यानि॒ स्थाना॑न्यसृजन्त॒ धीरा॑ य॒ज्ञं त॑न्वा॒नास्तप॑सा॒भ्य॑पश्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

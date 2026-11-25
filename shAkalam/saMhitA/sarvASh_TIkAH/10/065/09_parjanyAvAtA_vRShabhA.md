@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ yé ← yá- (pronoun)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒र्जन्या॒वाता॑ वृष॒भा पु॑री॒षिणे॑न्द्रवा॒यू वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+दे॒वाँ आ॑दि॒त्याँ अदि॑तिं हवामहे॒ ये पार्थि॑वासो दि॒व्यासो॑ अ॒प्सु ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “who; which; yat \[pronoun\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

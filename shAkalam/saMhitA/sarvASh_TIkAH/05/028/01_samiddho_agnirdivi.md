@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्ववारात्रेयी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ havíṣā ← havís- (nominal stem)
 
 ī́ḷānā ← √īḍ- ~ √īḷ- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धो अ॒ग्निर्दि॒वि शो॒चिर॑श्रेत्प्र॒त्यङ्ङु॒षस॑मुर्वि॒या वि भा॑ति ।  
+एति॒ प्राची॑ वि॒श्ववा॑रा॒ नमो॑भिर्दे॒वाँ ईळा॑ना ह॒विषा॑ घृ॒ताची॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ tūrya ← √tūr(v)- ~ tur- (root)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमि॑न्द्र॒ प्रतू॑र्तिष्व॒भि विश्वा॑ असि॒ स्पृधः॑ ।  
+अ॒श॒स्ति॒हा ज॑नि॒ता वि॑श्व॒तूर॑सि॒ त्वं तू॑र्य तरुष्य॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - \[verb noun\], accusative, plural
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -205,10 +210,6 @@ You are the smiter of maledictions, the begetter, the all-overcomer.
 Overcome those who seek to overcome.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The lexeme abhí √bhū ‘dominate’, in play in the previous two hymns (VIII.97.9c, 10a, 98.2a, 5ab), is matched by synonymous abhí √as here. See also
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/099/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -216,7 +217,6 @@ This pragātha is tightly bound lexically. Note first víśvāḥ spṛ́dhaḥ 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

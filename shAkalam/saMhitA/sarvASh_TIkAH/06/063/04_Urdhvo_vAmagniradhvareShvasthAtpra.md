@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ nā́satyā ← nā́satya- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वो वा॑म॒ग्निर॑ध्व॒रेष्व॑स्था॒त्प्र रा॒तिरे॑ति जू॒र्णिनी॑ घृ॒ताची॑ ।  
+प्र होता॑ गू॒र्तम॑ना उरा॒णोऽयु॑क्त॒ यो नास॑त्या॒ हवी॑मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “call; invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

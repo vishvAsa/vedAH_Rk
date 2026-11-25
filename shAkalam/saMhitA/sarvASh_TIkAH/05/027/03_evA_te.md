@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्र्यरुणस्त्रैवृष्णस्त्रसदस्युः पौरुकुत्सः भारतोश्वमेधश्च राजानः भौमोत्रिर्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ tryàruṇaḥ ← tryàruṇa- (nominal stem)
 
 yukténa ← √yuj- (root)  
 {case:INS, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा ते॑ अग्ने सुम॒तिं च॑का॒नो नवि॑ष्ठाय नव॒मं त्र॒सद॑स्युः ।  
+यो मे॒ गिर॑स्तुविजा॒तस्य॑ पू॒र्वीर्यु॒क्तेना॒भि त्र्य॑रुणो गृ॒णाति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

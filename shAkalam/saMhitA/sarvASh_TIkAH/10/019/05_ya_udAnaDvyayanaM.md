@@ -4,6 +4,7 @@ devataa = "आपो गावो वा"
 RShiH = "मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपो गावो वा
@@ -68,7 +69,12 @@ ní ← ní (invariable)
 
 vartatām ← √vr̥t- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॒दान॒ड्व्यय॑नं॒ य उ॒दान॑ट् प॒राय॑णम् ।  
+आ॒वर्त॑नं नि॒वर्त॑न॒मपि॑ गो॒पा नि व॑र्तताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

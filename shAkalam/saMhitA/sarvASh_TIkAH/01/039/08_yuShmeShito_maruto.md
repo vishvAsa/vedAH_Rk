@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ ví ← ví (invariable)
 
 yuṣmā́kābhiḥ ← yuṣmā́ka- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒ष्मेषि॑तो मरुतो॒ मर्त्ये॑षित॒ आ यो नो॒ अभ्व॒ ईष॑ते ।  
+वि तं यु॑योत॒ शव॑सा॒ व्योज॑सा॒ वि यु॒ष्माका॑भिरू॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

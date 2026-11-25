@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -106,7 +107,12 @@ me ← ahám (pronoun)
 
 nírr̥tiḥ ← nírr̥ti- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इति॑ चि॒न्नु प्र॒जायै॑ पशु॒मत्यै॒ देवा॑सो॒ वन॑ते॒ मर्त्यो॑ व॒ आ दे॑वासो वनते॒ मर्त्यो॑ वः ।  
+अत्रा॑ शि॒वां त॒न्वो॑ धा॒सिम॒स्या ज॒रां चि॑न्मे॒ निरृ॑तिर्जग्रसीत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -267,7 +273,6 @@ _________
     eat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -306,7 +311,7 @@ It is true that two different words for ‘old age’ are involved: jarimán- in
 Instead I think de is the expression of his fear that if he fails to win the gods (abc) Dissolution will succeed in depriving him of his wished-for old age. I have pushed átrā perhaps a bit too much -- to ‘otherwise’; I would prefer a ‘lest’ (néd) clause or even a mā́clause, but néd, which becomes well developed in Vedic prose, barely exists in the RV and the poet may have been casting about for a way to express this modality. A further piece of evidence in favor of my interpr. is the word dhāsí.
 
 Although this word often means ‘well-spring’ or ‘source’ (see comm. ad I.62.3, 140.1), in some cases it seems to mean ‘place, depository’ and be associated with (/derived, at least synchronically, from) √dhā. Here the dhāsí- seems to be the nominalization of ní dhāyi in 15 (cf. hitáḥ in X.58.4) — that is, the place in which old age is securely held. I therefore take it as coreferential with jarā́m in e. _________
-**18-20 If, as suggested above, 16-17 are the finale of the hymn proper, these 3 (or 2 ¼) were tacked on. They certainly lack the complications of the rest of the hymn. The dominance of female figures is striking.**  
+**18-20 If, as suggested above, 16-17 are the finale of the hymn proper, these 3 (or 2 ¼) were tacked on. They certainly lack the complications of the rest of the hymn. The dominance of female figures is striking.**
 </details>
 
 <details><summary>Griffith</summary>

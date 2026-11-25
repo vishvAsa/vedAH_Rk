@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मृळीको वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ punānáḥ ← √pū- (root)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर्वाँ॑ इव॒ श्रव॑से सा॒तिमच्छेन्द्र॑स्य वा॒योर॒भि वी॒तिम॑र्ष ।  
+स नः॑ स॒हस्रा॑ बृह॒तीरिषो॑ दा॒ भवा॑ सोम द्रविणो॒वित्पु॑ना॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “purify; filter; blow; purify; purge; sift.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -266,7 +271,6 @@ Give us a thousand lofty refreshments; become a finder of chattels  while you ar
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -276,7 +280,6 @@ The poet is named as Mṛḍīka Vāsiṣṭha, who is also the poet of X.150. I
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

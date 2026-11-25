@@ -4,6 +4,7 @@ devataa = "विष्णुरिन्द्रश्च"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुरिन्द्रश्च
@@ -89,7 +90,12 @@ sādhúnā ← sādhú- (nominal stem)
 
 tasthátuḥ ← √sthā- (root)  
 {number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वः॒ पान्त॒मन्ध॑सो धियाय॒ते म॒हे शूरा॑य॒ विष्ण॑वे चार्चत ।  
+या सानु॑नि॒ पर्व॑ताना॒मदा॑भ्या म॒हस्त॒स्थतु॒रर्व॑तेव सा॒धुना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     efficient.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -322,7 +327,6 @@ _________
 स्वयम् एव पर्वतम् आसाद्य  
 अस्माकं क्षेमम् अवश्यं विधास्यतीति भावः ।
 </details>
-
 
 <details><summary>Wilson</summary>
 

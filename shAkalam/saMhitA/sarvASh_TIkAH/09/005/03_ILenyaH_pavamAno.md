@@ -4,6 +4,7 @@ devataa = "इळः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इळः
@@ -57,7 +58,12 @@ mádhoḥ ← mádhu- (nominal stem)
 
 ójasā ← ójas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒ळेन्यः॒ पव॑मानो र॒यिर्वि रा॑जति द्यु॒मान् ।  
+मधो॒र्धारा॑भि॒रोज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

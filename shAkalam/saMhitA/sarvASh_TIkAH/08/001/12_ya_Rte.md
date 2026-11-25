@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ púnar ← púnar (invariable)
 
 víhrutam ← √hvr̥- ~ hru- (root)  
 {case:NOM, gender:N, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य ऋ॒ते चि॑दभि॒श्रिषः॑ पु॒रा ज॒त्रुभ्य॑ आ॒तृदः॑ ।  
+सन्धा॑ता सं॒धिं म॒घवा॑ पुरू॒वसु॒रिष्क॑र्ता॒ विह्रु॑तं॒ पुनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
     however; besides.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

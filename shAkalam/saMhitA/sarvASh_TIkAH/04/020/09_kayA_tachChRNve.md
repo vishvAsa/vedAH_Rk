@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ dráviṇam ← dráviṇa- (nominal stem)
 
 jaritré ← jaritár- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कया॒ तच्छृ॑ण्वे॒ शच्या॒ शचि॑ष्ठो॒ यया॑ कृ॒णोति॒ मुहु॒ का चि॑दृ॒ष्वः ।  
+पु॒रु दा॒शुषे॒ विच॑यिष्ठो॒ अंहोऽथा॑ दधाति॒ द्रवि॑णं जरि॒त्रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “singer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

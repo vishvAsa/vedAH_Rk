@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ indra ← índra- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ह॒ त्यद॑प्रतिमा॒नमोजो॒ वज्रे॑ण वज्रिन्धृषि॒तो ज॑घन्थ ।  
+त्वं शुष्ण॒स्यावा॑तिरो॒ वध॑त्रै॒स्त्वं गा इ॑न्द्र॒ शच्येद॑विन्दः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “find; detect; marry; get; think.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -255,7 +260,6 @@ You brought low (the power) of Śuṣṇa with your murderous weapons.  You foun
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -263,7 +267,6 @@ These three vss. begin tváṃ ha tyád. As elsewhere with this configuration (2
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

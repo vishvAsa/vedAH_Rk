@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -83,7 +84,12 @@ devā́saḥ ← devá- (nominal stem)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒तो नू॒नं क॑वयः॒ सं शि॑शीत॒ वाशी॑भि॒र्याभि॑र॒मृता॑य॒ तक्ष॑थ ।  
+वि॒द्वांसः॑ प॒दा गुह्या॑नि कर्तन॒ येन॑ दे॒वासो॑ अमृत॒त्वमा॑न॒शुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

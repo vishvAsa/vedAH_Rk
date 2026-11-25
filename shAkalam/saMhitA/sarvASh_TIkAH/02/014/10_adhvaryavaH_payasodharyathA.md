@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ dítsantam ← √dā- 1 (root)
 
 yajatáḥ ← yajatá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध्व॑र्यवः॒ पय॒सोध॒र्यथा॒ गोः सोमे॑भिरीं पृणता भो॒जमिन्द्र॑म् ।  
+वेदा॒हम॑स्य॒ निभृ॑तं म ए॒तद्दित्स॑न्तं॒ भूयो॑ यज॒तश्चि॑केत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

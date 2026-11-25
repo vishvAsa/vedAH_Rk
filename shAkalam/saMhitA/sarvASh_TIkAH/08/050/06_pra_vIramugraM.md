@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ pīpetha ← √pī- 1 (root)
 
 sádā ← sádā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वी॒रमु॒ग्रं विवि॑चिं धन॒स्पृतं॒ विभू॑तिं॒ राध॑सो म॒हः ।  
+उ॒द्रीव॑ वज्रिन्नव॒तो व॑सुत्व॒ना सदा॑ पीपेथ दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

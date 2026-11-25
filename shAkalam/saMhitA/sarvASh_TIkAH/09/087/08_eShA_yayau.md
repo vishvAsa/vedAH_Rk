@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ sómasya ← sóma- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒षा य॑यौ पर॒माद॒न्तरद्रेः॒ कूचि॑त्स॒तीरू॒र्वे गा वि॑वेद ।  
+दि॒वो न वि॒द्युत्स्त॒नय॑न्त्य॒भ्रैः सोम॑स्य ते पवत इन्द्र॒ धारा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “flush; flow; current; spring; fountain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

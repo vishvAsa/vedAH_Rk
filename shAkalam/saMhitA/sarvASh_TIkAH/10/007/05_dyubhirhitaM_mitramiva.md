@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ ní ← ní (invariable)
 
 vikṣú ← víś- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्युभि॑र्हि॒तं मि॒त्रमि॑व प्र॒योगं॑ प्र॒त्नमृ॒त्विज॑मध्व॒रस्य॑ जा॒रम् ।  
+बा॒हुभ्या॑म॒ग्निमा॒यवो॑ऽजनन्त वि॒क्षु होता॑रं॒ न्य॑सादयन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - \[verb\], plural, Imperfect
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

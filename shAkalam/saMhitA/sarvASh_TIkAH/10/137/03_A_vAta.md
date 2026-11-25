@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गोतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ dūtáḥ ← dūtá- (nominal stem)
 
 ī́yase ← √i- 2 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वा॑त वाहि भेष॒जं वि वा॑त वाहि॒ यद्रपः॑ ।  
+त्वं हि वि॒श्वभे॑षजो दे॒वानां॑ दू॒त ईय॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

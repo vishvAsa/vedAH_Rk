@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ devā́ya ← devá- (nominal stem)
 
 jā́gr̥vi ← jā́gr̥vi- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हदिन्द्रा॑य गायत॒ मरु॑तो वृत्र॒हन्त॑मम् ।  
+येन॒ ज्योति॒रज॑नयन्नृता॒वृधो॑ दे॒वं दे॒वाय॒ जागृ॑वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “attentive; argus-eyed; light.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

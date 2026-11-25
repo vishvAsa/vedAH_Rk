@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "विराड्रूपा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ juṣasva ← √juṣ- (root)
 
 medhira ← médhira- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्यं॑ श्चोतन्त्यध्रिगो शचीवः स्तो॒कासो॑ अग्ने॒ मेद॑सो घृ॒तस्य॑ ।  
+क॒वि॒श॒स्तो बृ॑ह॒ता भा॒नुनागा॑ ह॒व्या जु॑षस्व मेधिर ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “wise; intelligent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

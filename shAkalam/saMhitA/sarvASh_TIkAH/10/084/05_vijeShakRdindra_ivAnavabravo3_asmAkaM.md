@@ -4,6 +4,7 @@ devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मन्युः
@@ -89,7 +90,12 @@ vidmá ← √vid- 2 (root)
 
 yátas ← yátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒जे॒ष॒कृदिन्द्र॑ इवानवब्र॒वो॒३॒॑ऽस्माकं॑ मन्यो अधि॒पा भ॑वे॒ह ।  
+प्रि॒यं ते॒ नाम॑ सहुरे गृणीमसि वि॒द्मा तमुत्सं॒ यत॑ आब॒भूथ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “originate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ mā́hinā ← mā́hina- (nominal stem)
 
 yéṣām ← yá- (pronoun)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जा॒नन्ति॒ वृष्णो॑ अरु॒षस्य॒ शेव॑मु॒त ब्र॒ध्नस्य॒ शास॑ने रणन्ति ।  
+दि॒वो॒रुचः॑ सु॒रुचो॒ रोच॑माना॒ इळा॒ येषां॒ गण्या॒ माहि॑ना॒ गीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "स्वनयस्य दानस्तुतिः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वनयस्य दानस्तुतिः
@@ -80,7 +81,12 @@ sūnŕ̥tābhiḥ ← sūnŕ̥ta- (nominal stem)
 
 vardhaya ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आय॑म॒द्य सु॒कृतं॑ प्रा॒तरि॒च्छन्नि॒ष्टेः पु॒त्रं वसु॑मता॒ रथे॑न ।  
+अं॒शोः सु॒तं पा॑यय मत्स॒रस्य॑ क्ष॒यद्वी॑रं वर्धय सू॒नृता॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “liberality.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

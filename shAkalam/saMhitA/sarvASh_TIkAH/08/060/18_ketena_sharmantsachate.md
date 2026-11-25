@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ nédiṣṭham ← nédiṣṭha- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+केते॑न॒ शर्म॑न्त्सचते सुषा॒मण्यग्ने॒ तुभ्यं॑ चिकि॒त्वना॑ ।  
+इ॒ष॒ण्यया॑ नः पुरु॒रूप॒मा भ॑र॒ वाजं॒ नेदि॑ष्ठमू॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

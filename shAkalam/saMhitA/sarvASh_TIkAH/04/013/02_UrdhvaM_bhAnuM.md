@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sū́ryam ← sū́rya- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वं भा॒नुं स॑वि॒ता दे॒वो अ॑श्रेद्द्र॒प्सं दवि॑ध्वद्गवि॒षो न सत्वा॑ ।  
+अनु॑ व्र॒तं वरु॑णो यन्ति मि॒त्रो यत्सूर्यं॑ दि॒व्या॑रो॒हय॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “raise; hop on; lift.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

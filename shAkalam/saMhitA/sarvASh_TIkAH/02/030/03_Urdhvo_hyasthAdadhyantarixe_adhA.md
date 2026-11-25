@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ ajayat ← √ji- 1 (root)
 
 tigmā́yudhaḥ ← tigmā́yudha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वो ह्यस्था॒दध्य॒न्तरि॒क्षेऽधा॑ वृ॒त्राय॒ प्र व॒धं ज॑भार ।  
+मिहं॒ वसा॑न॒ उप॒ हीमदु॑द्रोत्ति॒ग्मायु॑धो अजय॒च्छत्रु॒मिन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

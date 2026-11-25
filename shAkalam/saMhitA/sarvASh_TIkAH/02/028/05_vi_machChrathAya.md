@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -101,7 +102,12 @@ r̥tóḥ ← r̥tú- (nominal stem)
 
 śāri ← √śr̥̄- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि मच्छ्र॑थाय रश॒नामि॒वाग॑ ऋ॒ध्याम॑ ते वरुण॒ खामृ॒तस्य॑ ।  
+मा तन्तु॑श्छेदि॒ वय॑तो॒ धियं॑ मे॒ मा मात्रा॑ शार्य॒पसः॑ पु॒र ऋ॒तोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ pāvakáḥ ← pāvaká- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मि॒ध्यमा॑नो अध्व॒रे॒३॒॑ऽग्निः पा॑व॒क ईड्यः॑ ।  
+शो॒चिष्के॑श॒स्तमी॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +123,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

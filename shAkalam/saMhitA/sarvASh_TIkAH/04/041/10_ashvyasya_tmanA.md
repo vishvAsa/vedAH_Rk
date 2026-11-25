@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ rā́yaḥ ← rayí- ~ rāy- (nominal stem)
 
 sacantām ← √sac- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्व्य॑स्य॒ त्मना॒ रथ्य॑स्य पु॒ष्टेर्नित्य॑स्य रा॒यः पत॑यः स्याम ।  
+ता च॑क्रा॒णा ऊ॒तिभि॒र्नव्य॑सीभिरस्म॒त्रा रायो॑ नि॒युतः॑ सचन्ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

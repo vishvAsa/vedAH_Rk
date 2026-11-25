@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ pári ← pári (invariable)
 
 vā́ram ← vā́ra- 1 (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दुः॑ पुना॒नो अति॑ गाहते॒ मृधो॒ विश्वा॑नि कृ॒ण्वन्त्सु॒पथा॑नि॒ यज्य॑वे ।  
+गाः कृ॑ण्वा॒नो नि॒र्णिजं॑ हर्य॒तः क॒विरत्यो॒ न क्रीळ॒न्परि॒ वार॑मर्षति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “run.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -279,10 +284,6 @@ Making the cows into his raiment, the delightful poet, playful like a
 steed, rushes around the fleece.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The two pres. participles to √kṛ, act. kṛṇván (b) and med. kṛṇvānáḥ (c), provide almost a textbook example of the functional distribution of voices: in b Soma makes X (into) Y for someone else (dat. yájyave), while in c he makes X (into) his own Y.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -292,7 +293,6 @@ Cows (that is, the milk-mixture) are esp. prominent in this tṛca: there are se
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -5,13 +5,13 @@ RShiH = "कश्यपः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
 - ऋषिः - कश्यपः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -91,7 +91,12 @@ tvā ← tvám (pronoun)
 
 yahvī́ḥ ← yahvī́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ त्ये सो॑म पवमान नि॒ण्ये विश्वे॑ दे॒वास्त्रय॑ एकाद॒शासः॑ ।  
+दश॑ स्व॒धाभि॒रधि॒ सानो॒ अव्ये॑ मृ॒जन्ति॑ त्वा न॒द्यः॑ स॒प्त य॒ह्वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +222,6 @@ _________
 - “youngest; youthful; active.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -267,8 +271,6 @@ An deinem heil'gen Ort, o lichter Soma, sind alle diese dreiunddreissig Götter;
 По обычаям, тебя начищают десять (пальцев жреца)  
 На спине (цедилки) из овечьей шерсти, семь юных рек.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

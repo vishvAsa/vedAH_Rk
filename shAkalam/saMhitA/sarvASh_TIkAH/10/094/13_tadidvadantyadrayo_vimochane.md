@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -92,7 +93,12 @@ pr̥ñcánti ← √pr̥c- (root)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदिद्व॑द॒न्त्यद्र॑यो वि॒मोच॑ने॒ याम॑न्नञ्ज॒स्पा इ॑व॒ घेदु॑प॒ब्दिभिः॑ ।  
+वप॑न्तो॒ बीज॑मिव धान्या॒कृतः॑ पृ॒ञ्चन्ति॒ सोमं॒ न मि॑नन्ति॒ बप्स॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “chew; snatch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

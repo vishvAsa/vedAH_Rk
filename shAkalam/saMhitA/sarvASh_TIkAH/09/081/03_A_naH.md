@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -101,7 +102,12 @@ párā ← párā (invariable)
 
 sicaḥ ← √sic- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नः॑ सोम॒ पव॑मानः किरा॒ वस्विन्दो॒ भव॑ म॒घवा॒ राध॑सो म॒हः ।  
+शिक्षा॑ वयोधो॒ वस॑वे॒ सु चे॒तुना॒ मा नो॒ गय॑मा॒रे अ॒स्मत्परा॑ सिचः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -258,7 +264,6 @@ _________
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

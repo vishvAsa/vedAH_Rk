@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ svadhā́ḥ ← svadhā́- (nominal stem)
 
 yā́bhiḥ ← yá- (pronoun)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भीमृ॒तस्य॑ दो॒हना॑ अनूषत॒ योनौ॑ दे॒वस्य॒ सद॑ने॒ परी॑वृताः ।  
+अ॒पामु॒पस्थे॒ विभृ॑तो॒ यदाव॑स॒दध॑ स्व॒धा अ॑धय॒द्याभि॒रीय॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

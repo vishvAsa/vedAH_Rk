@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "अभितपाः सौर्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -80,7 +81,12 @@ práti ← práti (invariable)
 
 sūrya ← sū́rya- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒श्वाहा॑ त्वा सु॒मन॑सः सु॒चक्ष॑सः प्र॒जाव॑न्तो अनमी॒वा अना॑गसः ।  
+उ॒द्यन्तं॑ त्वा मित्रमहो दि॒वेदि॑वे॒ ज्योग्जी॒वाः प्रति॑ पश्येम सूर्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

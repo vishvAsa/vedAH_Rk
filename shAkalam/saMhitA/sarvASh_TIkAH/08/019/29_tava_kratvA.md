@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ dā́tave ← √dā- 1 (root)
 
 hárṣasva ← √hr̥ṣ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ क्रत्वा॑ सनेयं॒ तव॑ रा॒तिभि॒रग्ने॒ तव॒ प्रश॑स्तिभिः ।  
+त्वामिदा॑हुः॒ प्रम॑तिं वसो॒ ममाग्ने॒ हर्ष॑स्व॒ दात॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

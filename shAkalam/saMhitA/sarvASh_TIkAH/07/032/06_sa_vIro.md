@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ dhā́vati ← √dhāv- 2 (root)
 
 sunóti ← √su- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वी॒रो अप्र॑तिष्कुत॒ इन्द्रे॑ण शूशुवे॒ नृभिः॑ ।  
+यस्ते॑ गभी॒रा सव॑नानि वृत्रहन्त्सु॒नोत्या च॒ धाव॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “wash; purify; cleanse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

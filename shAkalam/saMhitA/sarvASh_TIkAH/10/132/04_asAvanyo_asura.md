@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "शकपूतो नार्मेधः"
 ChandaH = "विराड्रूपा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ etā́vatā ← etā́vant- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒साव॒न्यो अ॑सुर सूयत॒ द्यौस्त्वं विश्वे॑षां वरुणासि॒ राजा॑ ।  
+मू॒र्धा रथ॑स्य चाक॒न्नैताव॒तैन॑सान्तक॒ध्रुक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

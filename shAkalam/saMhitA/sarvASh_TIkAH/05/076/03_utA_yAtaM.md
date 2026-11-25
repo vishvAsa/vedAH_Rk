@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ pītíḥ ← pītí- (nominal stem)
 
 tatāna ← √tan- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ता या॑तं सङ्ग॒वे प्रा॒तरह्नो॑ म॒ध्यन्दि॑न॒ उदि॑ता॒ सूर्य॑स्य ।  
+दिवा॒ नक्त॒मव॑सा॒ शन्त॑मेन॒ नेदानीं॑ पी॒तिर॒श्विना त॑तान ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     speak; propagate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

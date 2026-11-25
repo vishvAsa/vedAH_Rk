@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ víśvāni ← víśva- (nominal stem)
 
 yásmin ← yá- (pronoun)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अक्षि॑तोतिः सनेदि॒मं वाज॒मिन्द्रः॑ सह॒स्रिण॑म् ।  
+यस्मि॒न्विश्वा॑नि॒ पौंस्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “manfulness; deed; army; strength.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ sī́dan ← √sad- (root)
 
 váneṣu ← vána- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒ना॒नश्च॒मू ज॒नय॑न्म॒तिं क॒विः सोमो॑ दे॒वेषु॑ रण्यति ।  
+अ॒पो वसा॑नः॒ परि॒ गोभि॒रुत्त॑रः॒ सीद॒न्वने॑ष्वव्यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “cover.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,10 +232,6 @@ Being purified in the cup, a poet begetting thought, Soma rejoices  among the go
 Clothing himself in waters, he has wrapped himself with cows as the  higher (oblation), sitting in the woods [/wooden cups].
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Soma as úttara- is also found in 2d, where it is also associated with cows: śrīṇanto góbhir úttaram “preparing you [tvā 2c] with cows as the higher (oblation)”; see comm. there. I supply ‘oblation’ in both instances because of 1b sómo yá uttamáṃ havíḥ.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/17-18.md">
 <details><summary><h2>17-18 ...{Loading}...</h2></summary>
 
@@ -238,7 +239,6 @@ No particular internal cohesion, but a number of ties with other parts of the hy
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

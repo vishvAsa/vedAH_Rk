@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ répaḥ ← répas- (nominal stem)
 
 tanvì ← tanū́- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रा ते॑ अग्ने स्वनीक सं॒दृग्घो॒रस्य॑ स॒तो विषु॑णस्य॒ चारुः॑ ।  
+न यत्ते॑ शो॒चिस्तम॑सा॒ वर॑न्त॒ न ध्व॒स्मान॑स्त॒न्वी॒३॒॑ रेप॒ आ धुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ havāmahe ← √hū- (root)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या सु॒रथा॑ र॒थीत॑मो॒भा दे॒वा दि॑वि॒स्पृशा॑ ।  
+अ॒श्विना॒ ता ह॑वामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

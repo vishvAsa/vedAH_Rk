@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -86,7 +87,12 @@ prajā́bhyaḥ ← prajā́- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑र्षीर्व॒र्षमुदु॒ षू गृ॑भा॒याक॒र्धन्वा॒न्यत्ये॑त॒वा उ॑ ।  
+अजी॑जन॒ ओष॑धी॒र्भोज॑नाय॒ कमु॒त प्र॒जाभ्यो॑ऽविदो मनी॒षाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

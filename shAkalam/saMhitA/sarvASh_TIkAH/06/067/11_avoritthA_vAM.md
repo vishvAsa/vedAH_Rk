@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ yát ← yá- (pronoun)
 
 yunájan ← √yuj- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒वोरि॒त्था वां॑ छ॒र्दिषो॑ अ॒भिष्टौ॑ यु॒वोर्मि॑त्रावरुणा॒वस्कृ॑धोयु ।  
+अनु॒ यद्गावः॑ स्फु॒रानृ॑जि॒प्यं धृ॒ष्णुं यद्रणे॒ वृष॑णं यु॒नज॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     affect; challenge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,12 +247,6 @@ In just this way, in the charge of you two and of your shelter, (we seek)  of yo
 when the cows [=milk mixture] will bound after the straight-flying one  [=soma], when they will yoke the bold bull [=soma] in battle-lust.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich lacks a verb, but something like ‘we seek’ is a reasonable bet, to govern áskṛdhoyu ‘not stunted’, which elsewhere modifies ‘wealth’ (VI.22.3) and ‘treasure-conferral’ (VII.53.3), hence my ‘giving’.
-
-Geldner produces an elaborate interpr. of cd as a portrayal of battle: ‘cows’ = bow string, ‘straight-flying one’ = arrow. Although such tropes would be at home in other parts of the RV, I see no martial context in this hymn that would encourage such a reading. Better to interpr. the hemistich within a ritual context, since this has been prominent in the hymn. The cows can, as so often, be the milk meant to be mixed with the soma; the ‘straight-flying one’ (ṛjipyá-, on which see comm. ad IV.27.4) can be the soma, or, as in IV.27.4, the falcon that carried the soma, and the bull in d is also the soma. Renou follows Geldner’s battle interpr., though (in his comm.) he also sees it overlaid with soma imagery.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md">
 <details><summary><h2>09-11 ...{Loading}...</h2></summary>
 
@@ -255,7 +254,6 @@ As noted in the published introduction, these vss. seem to concern themselves wi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -80,7 +81,12 @@ padā́ ← padá- (nominal stem)
 
 triṁśát ← triṁśát- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ग्नी अ॒पादि॒यं पूर्वागा॑त्प॒द्वती॑भ्यः ।  
+हि॒त्वी शिरो॑ जि॒ह्वया॒ वाव॑द॒च्चर॑त्त्रिं॒शत्प॒दा न्य॑क्रमीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “kram; step; go; continue; proceed; traverse; heat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

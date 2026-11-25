@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sudā́nuḥ ← sudā́nu- (nominal stem)
 
 vanate ← √vanⁱ- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपा॑दि॒त उदु॑ नश्चि॒त्रत॑मो म॒हीं भ॑र्षद्द्यु॒मती॒मिन्द्र॑हूतिम् ।  
+पन्य॑सीं धी॒तिं दैव्य॑स्य॒ याम॒ञ्जन॑स्य रा॒तिं व॑नते सु॒दानुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “big; lavish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -239,14 +244,6 @@ He [=Agni?] has drunk from here; the most glittering one will carry up  our grea
 On his journey he of good gifts will win a more admirable insightful  thought as present for the divine folk.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The unclear reference just noted is found in the first word of the hymn, 3rd sg. aor. ápāt ‘he has drunk’, whose subject is not expressed. On the one hand, this is an Indra hymn and Indra is the prototypical drinker of soma (cf., e.g., the opening of nearby VI.40.1 índra piba, as well as ápāḥ in the 1st vs. of the next hymn, nearly identical to our verb and with Indra clearly meant as subj.), so we might expect Indra as subject. On the other, the most likely referent of the almost immediately following nominative citrátamaḥ, who bears the invocation upward, is Agni, and as the mouth of the gods, he can also be considered to drink (though not usually soma). Parsimony might suggest that the two unidentified subjects in the first hemistich are identical, hence Agni. In the published translation I supply Agni, with ?, but I am not at all certain that the first subject isn’t Indra. Or, more likely, that the poet meant to leave it open.
-
-The subject of cd is also left unspecified; again I assume Agni: if he is embarking upward in ab, then the journey (yā́man) in c is most likely his, though Geldner supplies Indra. The only nominative attribute, sudā́nuḥ, is no help, as it is used of Agni and Indra about equally. What I take from the uncertainties of reference in this vs. is that the poet wants to keep us guessing.
-
-The pāda-final splv. citrátamaḥ produces a bad Triṣṭubh cadence. There is no obvious way to fix it, and the other 5 instances of this stem are found elsewhere in the line, where they work metrically.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -256,7 +253,6 @@ As noted in the published introduction, I think vs. 2 functions as complementary
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

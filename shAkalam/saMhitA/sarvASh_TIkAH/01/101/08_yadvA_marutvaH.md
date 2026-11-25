@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ satyarādhaḥ ← satyárādhas- (nominal stem)
 
 tvāyā́ ← tvám (pronoun)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वा॑ मरुत्वः पर॒मे स॒धस्थे॒ यद्वा॑व॒मे वृ॒जने॑ मा॒दया॑से ।  
+अत॒ आ या॑ह्यध्व॒रं नो॒ अच्छा॑ त्वा॒या ह॒विश्च॑कृमा सत्यराधः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "बुधगविष्ठिरावात्रेयौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ sáhasā ← sáhas- (nominal stem)
 
 víśvān ← víśva- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा॒र्जा॒ल्यो॑ मृज्यते॒ स्वे दमू॑नाः कविप्रश॒स्तो अति॑थिः शि॒वो नः॑ ।  
+स॒हस्र॑शृङ्गो वृष॒भस्तदो॑जा॒ विश्वाँ॑ अग्ने॒ सह॑सा॒ प्रास्य॒न्यान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     more(a); fresh; any(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

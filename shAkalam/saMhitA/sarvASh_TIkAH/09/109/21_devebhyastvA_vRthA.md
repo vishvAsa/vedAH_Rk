@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -52,7 +53,11 @@ mr̥janti ← √mr̥j- (root)
 
 vásānam ← √vas- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वेभ्य॑स्त्वा॒ वृथा॒ पाज॑से॒ऽपो वसा॑नं॒ हरिं॑ मृजन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +115,6 @@ _________
 - “purify; polish; rub; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -136,10 +140,6 @@ _________
 They groom you, the tawny one clothed in waters, for the gods, for (you  to attain) your full dimension at will.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-for vṛ́thā pā́jase see comm. ad IX.76.1. The phrase here is a truncated version of what is found in IX.76.1 and IX.88.5.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -147,7 +147,6 @@ No particular signs of cohesion, though assembled from the usual assortment of s
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उत्कीलः कात्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ anamīvásya ← anamīvá- (nominal stem)
 
 śuṣmíṇaḥ ← śuṣmín- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स त्वं नो॑ रा॒यः शि॑शीहि॒ मीढ्वो॑ अग्ने सु॒वीर्य॑स्य ।  
+तुवि॑द्युम्न॒ वर्षि॑ष्ठस्य प्र॒जाव॑तोऽनमी॒वस्य॑ शु॒ष्मिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “strong; hotheaded.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

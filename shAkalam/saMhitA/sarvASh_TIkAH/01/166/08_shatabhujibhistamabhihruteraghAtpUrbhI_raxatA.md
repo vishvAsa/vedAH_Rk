@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ puṣṭíṣu ← puṣṭí- (nominal stem)
 
 tánayasya ← tánaya- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तभु॑जिभि॒स्तम॒भिह्रु॑तेर॒घात्पू॒र्भी र॑क्षता मरुतो॒ यमाव॑त ।  
+जनं॒ यमु॑ग्रास्तवसो विरप्शिनः पा॒थना॒ शंसा॒त्तन॑यस्य पु॒ष्टिषु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     increase; corpulence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

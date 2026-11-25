@@ -4,6 +4,7 @@ devataa = "श्रुतर्वण आर्क्षस्य दानस�
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रुतर्वण आर्क्षस्य दानस्तुतिः
@@ -65,7 +66,12 @@ mr̥kṣā́ ← √mr̥j- (root)
 
 śīrṣā́ ← śíras- ~ śīrṣán- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं हु॑वा॒न आ॒र्क्षे श्रु॒तर्व॑णि मद॒च्युति॑ ।  
+शर्धां॑सीव स्तुका॒विनां॑ मृ॒क्षा शी॒र्षा च॑तु॒र्णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “four; catur \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ prathamáḥ ← prathamá- (nominal stem)
 
 yajñíyaḥ ← yajñíya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॒ हि त्वा॑ स॒जोष॑सो दे॒वासो॑ दू॒तमक्र॑त ।  
+श्रु॒ष्टी दे॑व प्रथ॒मो य॒ज्ञियो॑ भुवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -194,7 +199,6 @@ by harkening (to them), o god, you became the first one worthy of the  sacrifice
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/023/18-19.md">
 <details><summary><h2>18-19 ...{Loading}...</h2></summary>
 
@@ -202,7 +206,6 @@ Just as vs. 16 provides an ancestral pattern for the poet to gain goods from Agn
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

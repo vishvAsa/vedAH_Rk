@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ párṣat ← √pr̥- (root)
 
 saptá ← saptá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दमि॒त्था रौद्रं॑ गू॒र्तव॑चा॒ ब्रह्म॒ क्रत्वा॒ शच्या॑म॒न्तरा॒जौ ।  
+क्रा॒णा यद॑स्य पि॒तरा॑ मंहने॒ष्ठाः पर्ष॑त्प॒क्थे अह॒न्ना स॒प्त होतॄ॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “Hotṛ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

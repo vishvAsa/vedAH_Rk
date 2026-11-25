@@ -4,6 +4,7 @@ devataa = "वर्म"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वर्म
@@ -86,7 +87,12 @@ tvā ← tvám (pronoun)
 
 vármaṇaḥ ← várman- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जी॒मूत॑स्येव भवति॒ प्रती॑कं॒ यद्व॒र्मी याति॑ स॒मदा॑मु॒पस्थे॑ ।  
+अना॑विद्धया त॒न्वा॑ जय॒ त्वं स त्वा॒ वर्म॑णो महि॒मा पि॑पर्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “protect; promote; rescue; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

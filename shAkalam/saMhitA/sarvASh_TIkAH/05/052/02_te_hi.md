@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -74,7 +75,12 @@ pānti ← √pā- 1 (root)
 
 tmánā ← tmán- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते हि स्थि॒रस्य॒ शव॑सः॒ सखा॑यः॒ सन्ति॑ धृष्णु॒या ।  
+ते याम॒न्ना धृ॑ष॒द्विन॒स्त्मना॑ पान्ति॒ शश्व॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “all(a); each(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

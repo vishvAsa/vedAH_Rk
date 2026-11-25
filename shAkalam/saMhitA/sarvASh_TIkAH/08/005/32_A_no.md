@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -63,7 +64,12 @@ nā́satyā ← nā́satya- (nominal stem)
 
 púruścandrā ← puruścandrá- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ द्यु॒म्नैरा श्रवो॑भि॒रा रा॒या या॑तमश्विना ।  
+पुरु॑श्चन्द्रा॒ नास॑त्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “Asvins; nāsatya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः कश्यपो वा मारीचः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -49,7 +50,11 @@ samrā́jā ← samrā́j- (nominal stem)
 
 sarpírāsutī ← sarpírāsuti- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सदो॒ द्वा च॑क्राते उप॒मा दि॒वि स॒म्राजा॑ स॒र्पिरा॑सुती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +118,6 @@ _________
 - “āsuti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

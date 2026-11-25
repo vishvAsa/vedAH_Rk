@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -63,7 +64,12 @@ uśánti ← √vaś- (root)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑वायू इ॒मे सु॒ता उप॒ प्रयो॑भि॒रा ग॑तम् ।  
+इन्द॑वो वामु॒शन्ति॒ हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “because; indeed; for; therefore; hi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

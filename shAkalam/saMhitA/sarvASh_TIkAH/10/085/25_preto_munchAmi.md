@@ -4,6 +4,7 @@ devataa = "नृणां विवाहमन्त्रा आशीःप�
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नृणां विवाहमन्त्रा आशीःप्रायाः
@@ -77,7 +78,12 @@ subhágā ← subhága- (nominal stem)
 
 suputrā́ ← suputrá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रेतो मु॒ञ्चामि॒ नामुतः॑ सुब॒द्धाम॒मुत॑स्करम् ।  
+यथे॒यमि॑न्द्र मीढ्वः सुपु॒त्रा सु॒भगास॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

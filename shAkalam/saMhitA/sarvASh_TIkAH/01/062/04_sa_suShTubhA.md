@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ ráveṇa ← ráva- (nominal stem)
 
 valám ← valá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सु॒ष्टुभा॒ स स्तु॒भा स॒प्त विप्रैः॑ स्व॒रेणाद्रिं॑ स्व॒र्यो॒३॒॑ नव॑ग्वैः ।  
+स॒र॒ण्युभिः॑ फलि॒गमि॑न्द्र शक्र व॒लं रवे॑ण दरयो॒ दश॑ग्वैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - \[noun\], instrumental, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ svāyudháḥ ← svāyudhá- (nominal stem)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्रे॒ सिन्धू॑नां॒ पव॑मानो अर्ष॒त्यग्रे॑ वा॒चो अ॑ग्रि॒यो गोषु॑ गच्छति ।  
+अग्रे॒ वाज॑स्य भजते महाध॒नं स्वा॑यु॒धः सो॒तृभिः॑ पूयते॒ वृषा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “bull; Indra; stallion; Vṛṣan; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,10 +253,6 @@ At the forefront of the rivers, purifying himself he rushes; at the  forefront o
 At the forefront of the prize(-contest) he takes great stakes as his share.  The bull of good weapons is purified by the pressers.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The vs. is structured by three pāda-initial forms of ágre + GEN, reinforced by agriyáḥ in b.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -259,7 +260,6 @@ Following a pattern we’ve met earlier, the first vs. of the new tṛca echoes 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

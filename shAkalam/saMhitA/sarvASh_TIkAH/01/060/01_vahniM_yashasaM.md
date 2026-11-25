@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ mātaríśvā ← mātaríśvan- (nominal stem)
 
 rātím ← rātí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वह्निं॑ य॒शसं॑ वि॒दथ॑स्य के॒तुं सु॑प्रा॒व्यं॑ दू॒तं स॒द्योअ॑र्थम् ।  
+द्वि॒जन्मा॑नं र॒यिमि॑व प्रश॒स्तं रा॒तिं भ॑र॒द्भृग॑वे मात॒रिश्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “wind; Mātariśvan; Vayu; vāta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

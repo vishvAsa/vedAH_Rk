@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -69,7 +70,12 @@ iva ← iva (invariable)
 
 nirṇíjam ← nirṇíj- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदी॑ घृ॒तेभि॒राहु॑तो॒ वाशी॑म॒ग्निर्भर॑त॒ उच्चाव॑ च ।  
+असु॑र इव नि॒र्णिज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “attire; garment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

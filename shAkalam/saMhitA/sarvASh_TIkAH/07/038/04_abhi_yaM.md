@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -83,7 +84,12 @@ mitrā́saḥ ← mitrá- (nominal stem)
 
 sajóṣāḥ ← sajóṣa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि यं दे॒व्यदि॑तिर्गृ॒णाति॑ स॒वं दे॒वस्य॑ सवि॒तुर्जु॑षा॒णा ।  
+अ॒भि स॒म्राजो॒ वरु॑णो गृणन्त्य॒भि मि॒त्रासो॑ अर्य॒मा स॒जोषाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “consentaneous; combined; associated; united.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

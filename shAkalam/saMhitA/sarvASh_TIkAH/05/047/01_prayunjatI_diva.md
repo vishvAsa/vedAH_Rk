@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिरथ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ pitŕ̥bhyaḥ ← pitár- (nominal stem)
 
 sádane ← sádana- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒यु॒ञ्ज॒ती दि॒व ए॑ति ब्रुवा॒णा म॒ही मा॒ता दु॑हि॒तुर्बो॒धय॑न्ती ।  
+आ॒विवा॑सन्ती युव॒तिर्म॑नी॒षा पि॒तृभ्य॒ आ सद॑ने॒ जोहु॑वाना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “appeal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

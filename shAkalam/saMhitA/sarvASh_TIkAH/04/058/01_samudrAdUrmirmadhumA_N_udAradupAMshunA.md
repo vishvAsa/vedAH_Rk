@@ -4,6 +4,7 @@ devataa = "अग्निः सूर्यो वापो वा गाव�
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
@@ -89,7 +90,12 @@ jihvā́ ← jihvā́- (nominal stem)
 
 nā́bhiḥ ← nā́bhi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मु॒द्रादू॒र्मिर्मधु॑माँ॒ उदा॑र॒दुपां॒शुना॒ सम॑मृत॒त्वमा॑नट् ।  
+घृ॒तस्य॒ नाम॒ गुह्यं॒ यदस्ति॑ जि॒ह्वा दे॒वाना॑म॒मृत॑स्य॒ नाभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     \[word\]; friendship; center.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

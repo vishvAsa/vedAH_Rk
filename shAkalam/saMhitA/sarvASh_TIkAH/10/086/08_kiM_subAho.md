@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -79,7 +80,12 @@ vr̥ṣā́kapim ← vr̥ṣā́kapi- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किं सु॑बाहो स्वङ्गुरे॒ पृथु॑ष्टो॒ पृथु॑जाघने ।  
+किं शू॑रपत्नि न॒स्त्वम॒भ्य॑मीषि वृ॒षाक॑पिं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -219,7 +224,7 @@ _________
 
 Indra now tries to conciliate her. Sāyaṇa, following the Anukramaṇi, supposes that the seventh verse is addressed by Vr̥ṣākapi and the eighth by Indra. The only reason I can find for such an interpretation is the occurrence of the word amba, which means "mother," and this cannot be supposed to be used by Indra. But though we avoid one difficulty in this way, we are launched into another, for the verse speaks of Indrāṇī being pleasing "to me; " and if Vr̥ṣākapi is the speaker "me," cannot refer to him, as Indrāṇī is his mother and, consequently, "me" has to be interpreted to mean "my father," and this Sāyaṇa has done.
 
-I prefer taking amba as an affectionale and respectful mode of address, as in modern Sanskrit, and the verse presents no difficulty. We can then take both the 7th and the 8th verse together and give them a natural interpretation. I translate thus "O auspicious lady! what you say is true ...... you are pleasing to me.. But oh hero-wife, with beautiful arms, pretty figure, profuse hair, and broad hips, why should you be so angry with our Vr̥ṣākapi? Indra is in the upper (part) of the universe." 
+I prefer taking amba as an affectionale and respectful mode of address, as in modern Sanskrit, and the verse presents no difficulty. We can then take both the 7th and the 8th verse together and give them a natural interpretation. I translate thus "O auspicious lady! what you say is true ...... you are pleasing to me.. But oh hero-wife, with beautiful arms, pretty figure, profuse hair, and broad hips, why should you be so angry with our Vr̥ṣākapi? Indra is in the upper (part) of the universe."
 </details>
 
 <details><summary>Wilson</summary>

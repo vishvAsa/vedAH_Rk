@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ juṣasva ← √juṣ- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्वा॒वतो॑ न॒ आ ग॑हि परा॒वत॑श्च वृत्रहन् ।  
+इ॒मा जु॑षस्व नो॒ गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,17 +175,12 @@ From nearby come here to us, and from afar, Vr̥tra-smasher.
 Enjoy these songs of ours.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This is the only vs. in the hymn without a form of índra- (7 of the 8 of those forms being vocatives, the lone exception índram in 7b). Here voc. vṛtrahan is substituted.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 On the “magic square” of these vss., see published introduction. Vs. 9 actually seems to be covering the logical possibility that Indra might not be either far or near but somewhere in between, and in that case the exhortation in vs. 8 to come from nearby or far away might not work.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

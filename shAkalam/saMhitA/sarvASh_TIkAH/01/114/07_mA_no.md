@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -113,7 +114,12 @@ rudra ← rudrá- (nominal stem)
 
 tanvàḥ ← tanū́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ म॒हान्त॑मु॒त मा नो॑ अर्भ॒कं मा न॒ उक्ष॑न्तमु॒त मा न॑ उक्षि॒तम् ।  
+मा नो॑ वधीः पि॒तरं॒ मोत मा॒तरं॒ मा नः॑ प्रि॒यास्त॒न्वो॑ रुद्र रीरिषः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -290,7 +296,6 @@ _________
 - “suffer; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

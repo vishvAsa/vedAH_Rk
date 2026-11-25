@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -92,7 +93,12 @@ pratíram ← √tr̥̄- 1 (root)
 
 tásmai ← sá- ~ tá- (pronoun)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒दू॒दरे॑ण॒ सख्या॑ सचेय॒ यो मा॒ न रिष्ये॑द्धर्यश्व पी॒तः ।  
+अ॒यं यः सोमो॒ न्यधा॑य्य॒स्मे तस्मा॒ इन्द्रं॑ प्र॒तिर॑मे॒म्यायुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

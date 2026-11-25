@@ -4,6 +4,7 @@ devataa = "इध्मः समिद्धोग्निर्वा"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इध्मः समिद्धोग्निर्वा
@@ -57,7 +58,12 @@ prīṇán ← √prī- (root)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धो वि॒श्वत॒स्पतिः॒ पव॑मानो॒ वि रा॑जति ।  
+प्री॒णन्वृषा॒ कनि॑क्रदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “roar; neigh.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

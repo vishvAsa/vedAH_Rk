@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -83,7 +84,12 @@ rūpám ← rūpá- (nominal stem)
 
 vásānāḥ ← √vas- 2 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं श॒ग्मासो॑ अरु॒षासो॒ अश्वा॒ बृह॒स्पतिं॑ सह॒वाहो॑ वहन्ति ।  
+सह॑श्चि॒द्यस्य॒ नील॑वत्स॒धस्थं॒ नभो॒ न रू॒पम॑रु॒षं वसा॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “wear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वे देवाः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः
@@ -60,7 +61,12 @@ mr̥ḷayantu ← √mr̥ḍ- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह॒स्का॒राद्वि॒द्युत॒स्पर्यतो॑ जा॒ता अ॑वन्तु नः ।  
+म॒रुतो॑ मृळयन्तु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

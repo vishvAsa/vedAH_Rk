@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ púraṁdhyā ← púraṁdhi- (nominal stem)
 
 vivāsati ← √vanⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रप्र॑ वस्त्रि॒ष्टुभ॒मिषं॑ म॒न्दद्वी॑रा॒येन्द॑वे ।  
+धि॒या वो॑ मे॒धसा॑तये॒ पुरं॒ध्या वि॑वासति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “invite; endeavor; try for.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

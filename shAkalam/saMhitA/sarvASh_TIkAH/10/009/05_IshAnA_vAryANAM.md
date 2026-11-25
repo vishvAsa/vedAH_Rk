@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वांबरीषः"
 ChandaH = "वर्धमाना"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -51,7 +52,12 @@ bheṣajám ← bheṣajá- (nominal stem)
 
 yācāmi ← √yāc- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ईशा॑ना॒ वार्या॑णां॒ क्षय॑न्तीश्चर्षणी॒नाम् ।  
+अ॒पो या॑चामि भेष॒जम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +109,6 @@ _________
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

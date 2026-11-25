@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ víśvā ← víśva- (nominal stem)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यत्व॒ङ्मधु॑वर्णो घृ॒तस्नुः॒ पृक्षो॒ वह॒न्ना रथो॑ वर्तते वाम् ।  
+मनो॑जवा अश्विना॒ वात॑रंहा॒ येना॑तिया॒थो दु॑रि॒तानि॒ विश्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     wholly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

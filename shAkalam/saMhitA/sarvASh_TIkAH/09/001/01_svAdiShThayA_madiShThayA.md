@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मधुच्छन्दाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ pā́tave ← √pā- 2 (root)
 
 sutáḥ ← √su- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वादि॑ष्ठया॒ मदि॑ष्ठया॒ पव॑स्व सोम॒ धार॑या ।  
+इन्द्रा॑य॒ पात॑वे सु॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +117,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -144,7 +149,6 @@ when you are pressed for Indra to drink.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/001/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -152,7 +156,6 @@ After establishing the Soma Pavamāna theme in the 2nd pāda of the 1st vs., wit
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

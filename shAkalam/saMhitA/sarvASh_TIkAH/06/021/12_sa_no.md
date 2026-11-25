@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ vā́jam ← vā́ja- (nominal stem)
 
 vakṣi ← √vah- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॑ बोधि पुरए॒ता सु॒गेषू॒त दु॒र्गेषु॑ पथि॒कृद्विदा॑नः ।  
+ये अश्र॑मास उ॒रवो॒ वहि॑ष्ठा॒स्तेभि॑र्न इन्द्रा॒भि व॑क्षि॒ वाज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

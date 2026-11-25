@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ dávidyutati ← √dyut- (root)
 
 r̥ṣṭáyaḥ ← r̥ṣṭí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मा॒नम॒ञ्ज्ये॑षां॒ वि भ्रा॑जन्ते रु॒क्मासो॒ अधि॑ बा॒हुषु॑ ।  
+दवि॑द्युतत्यृ॒ष्टयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “spear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vīryā̀ṇi ← vīryà- (nominal stem)
 
 vr̥ṣabha ← vr̥ṣabhá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रः॑ सु॒शिप्रो॑ म॒घवा॒ तरु॑त्रो म॒हाव्रा॑तस्तुविकू॒र्मिरृघा॑वान् ।  
+यदु॒ग्रो धा बा॑धि॒तो मर्त्ये॑षु॒ क्व१॒॑ त्या ते॑ वृषभ वी॒र्या॑णि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -245,10 +250,6 @@ Indra of good lips, bounteous, overwhelming, having a great troop,  powerfully r
 that which you, powerful one, established among mortals, even when  hard-pressed, where are these manly powers of yours now, bull?
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The 2nd member of tuvikūrmí-, an epithet of Indra, is generally now derived from the seṭ root √cari , a derivation already found in AiG I.24, 141, 152 -- hence my ‘powerfully ranging’. See EWA s.v. tuvikūrmí-. The older deriv. from √kṛ (e.g., Grassmann, Wh Rts; explicitly rejected by AiG II.2.776) is nonetheless still reflected in the standard tr.: Geldner “der Tatenreiche,” Renou (with hesitation) “aux actes (?) puissants,” Witzel Gotō “der mächtig Wirkende” -- even though AiG I (1896) predates all of them by a good margin, well over a century in the case of Witzel Gotō! There is number incongruence between the neut. sg. yád of the rel. clause and neut. pl. tyā́… vīryā̀ṇi. The yád is, as it were, an anticipatory collective: “what(ever) you did … where are those deeds?”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/030/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -256,7 +257,6 @@ The next two vss. develop the theme sounded in pāda d of vs. 1.: Indra’s abse
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

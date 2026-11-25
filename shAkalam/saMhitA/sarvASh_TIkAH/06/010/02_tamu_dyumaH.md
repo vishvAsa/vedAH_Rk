@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ pavante ← √pū- (root)
 
 śúci ← śúci- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ द्युमः पुर्वणीक होत॒रग्ने॑ अ॒ग्निभि॒र्मनु॑ष इधा॒नः ।  
+स्तोमं॒ यम॑स्मै म॒मते॑व शू॒षं घृ॒तं न शुचि॑ म॒तयः॑ पवन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “purify; filter; blow; purify; purge; sift.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

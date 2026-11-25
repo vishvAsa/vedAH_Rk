@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ uruṣya ← √uruṣy- (root)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्त॑ इ॒ध्मं ज॒भर॑त्सिष्विदा॒नो मू॒र्धानं॑ वा त॒तप॑ते त्वा॒या ।  
+भुव॒स्तस्य॒ स्वत॑वाँः पा॒युर॑ग्ने॒ विश्व॑स्मात्सीमघाय॒त उ॑रुष्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “protect; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

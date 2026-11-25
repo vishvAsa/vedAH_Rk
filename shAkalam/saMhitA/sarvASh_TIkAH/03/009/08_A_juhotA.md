@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ saparyata ← √sapary- (root)
 
 śruṣṭī́ ← śruṣṭí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ जु॑होता स्वध्व॒रं शी॒रं पा॑व॒कशो॑चिषम् ।  
+आ॒शुं दू॒तम॑जि॒रं प्र॒त्नमीड्यं॑ श्रु॒ष्टी दे॒वं स॑पर्यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

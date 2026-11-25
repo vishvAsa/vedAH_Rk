@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vísr̥ṣṭāḥ ← √sr̥j- (root)
 
 yantu ← √i- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सखे॑ विष्णो वित॒रं वि क्र॑मस्व॒ द्यौर्दे॒हि लो॒कं वज्रा॑य वि॒ष्कभे॑ ।  
+हना॑व वृ॒त्रं रि॒णचा॑व॒ सिन्धू॒निन्द्र॑स्य यन्तु प्रस॒वे विसृ॑ष्टाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     from; discontinue; throw.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

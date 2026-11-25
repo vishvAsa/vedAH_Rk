@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -104,7 +105,12 @@ putré ← putrá- (nominal stem)
 
 vím ← ví- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र व॒ एको॑ मिमय॒ भूर्यागो॒ यन्मा॑ पि॒तेव॑ कित॒वं श॑शा॒स ।  
+आ॒रे पाशा॑ आ॒रे अ॒घानि॑ देवा॒ मा माधि॑ पु॒त्रे विमि॑व ग्रभीष्ट ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -267,7 +273,6 @@ _________
     touch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

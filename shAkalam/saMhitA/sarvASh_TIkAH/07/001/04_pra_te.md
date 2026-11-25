@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -69,7 +70,12 @@ sujātā́ḥ ← sujātá- (nominal stem)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते अ॒ग्नयो॒ऽग्निभ्यो॒ वरं॒ निः सु॒वीरा॑सः शोशुचन्त द्यु॒मन्तः॑ ।  
+यत्रा॒ नरः॑ स॒मास॑ते सुजा॒ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “noble; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

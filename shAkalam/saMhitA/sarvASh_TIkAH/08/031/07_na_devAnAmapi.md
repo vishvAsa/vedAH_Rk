@@ -4,6 +4,7 @@ devataa = "दंपती"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपती
@@ -60,7 +61,12 @@ br̥hát ← br̥hánt- (nominal stem)
 
 vivāsataḥ ← √vanⁱ- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न दे॒वाना॒मपि॑ ह्नुतः सुम॒तिं न जु॑गुक्षतः ।  
+श्रवो॑ बृ॒हद्वि॑वासतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “invite; endeavor; try for.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

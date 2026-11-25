@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ tanvàm ← tanū́- (nominal stem)
 
 vardhasva ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस॒न्नित्त्वे आ॒हव॑नानि॒ भूरि॒ भुवो॒ विश्वे॑भिः सु॒मना॒ अनी॑कैः ।  
+स्तु॒तश्चि॑दग्ने शृण्विषे गृणा॒नः स्व॒यं व॑र्धस्व त॒न्वं॑ सुजात ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ yám ← yá- (pronoun)
 
 yújam ← yúj- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तब्र॑ध्न॒ इषु॒स्तव॑ स॒हस्र॑पर्ण॒ एक॒ इत् ।  
+यमि॑न्द्र चकृ॒षे युज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “ally; friend; pair; two; companion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

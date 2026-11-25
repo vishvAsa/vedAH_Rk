@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "सुपर्णः काण्वः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ sāptébhiḥ ← sā́pta- (nominal stem)
 
 tríbhiḥ ← trí- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवो॑चाम मह॒ते सौभ॑गाय स॒त्यं त्वे॒षाभ्यां॑ महि॒मान॑मिन्द्रि॒यम् ।  
+अ॒स्मान्त्स्वि॑न्द्रावरुणा घृत॒श्चुत॒स्त्रिभिः॑ सा॒प्तेभि॑रवतं शुभस्पती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

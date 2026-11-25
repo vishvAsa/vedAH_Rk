@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -17,13 +18,13 @@ ChandaH = "गायत्री"
 वाजी᳓ स᳓न् प᳓रि णीयते  
 देवो᳓ देवे᳓षु यज्ञि᳓यः
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 अ॒ग्निर्होता॑ नो अध्व॒रे ।   
 वा॒जी सन्परि॑णीयते ।  
 दे॒वो दे॒वेषु॑ य॒ज्ञियः॑ ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -70,7 +71,12 @@ devéṣu ← devá- (nominal stem)
 
 yajñíyaḥ ← yajñíya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्होता॑ नो अध्व॒रे वा॒जी सन्परि॑ णीयते ।  
+दे॒वो दे॒वेषु॑ य॒ज्ञियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -279,5 +284,3 @@ Herumgeführt wird bei dem Fest als Priester Agni wie ein Ross, Der Gott bei Gö
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा अग्नी सूर्यरूपाने सर्व व्यवहारांना प्राप्त करवितो तसेच विद्वान संपूर्ण मनोरथांना प्राप्त करवितो. ॥ १ ॥
 </details>
-
-

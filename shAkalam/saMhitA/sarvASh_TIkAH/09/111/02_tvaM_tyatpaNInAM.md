@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अनानतः पारुच्छेपिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -122,7 +123,13 @@ rócamānaḥ ← √ruc- (root)
 
 váyaḥ ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं त्यत्प॑णी॒नां वि॑दो॒ वसु॒ सं मा॒तृभि॑र्मर्जयसि॒ स्व आ दम॑ ऋ॒तस्य॑ धी॒तिभि॒र्दमे॑ ।  
+प॒रा॒वतो॒ न साम॒ तद्यत्रा॒ रण॑न्ति धी॒तयः॑ ।  
+त्रि॒धातु॑भि॒ररु॑षीभि॒र्वयो॑ दधे॒ रोच॑मानो॒ वयो॑ दधे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -316,7 +323,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

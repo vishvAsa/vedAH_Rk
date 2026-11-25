@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -80,7 +81,12 @@ supārā́ ← supārá- (nominal stem)
 
 vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॑ मित्रावरुणा ह॒व्यजु॑ष्टिं॒ नम॑सा देवा॒वव॑सा ववृत्याम् ।  
+अ॒स्माकं॒ ब्रह्म॒ पृत॑नासु सह्या अ॒स्माकं॑ वृ॒ष्टिर्दि॒व्या सु॑पा॒रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “shore; pāra \[word\]; end; excellence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

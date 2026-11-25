@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -68,7 +69,12 @@ spūrdháse ← √spūrdh- (root)
 
 stotr̥̄ṇā́m ← stotár- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वाभ्यां॑ मित्रावरुणोप॒मं धे॑यामृ॒चा ।  
+यद्ध॒ क्षये॑ म॒घोनां॑ स्तोतॄ॒णां च॑ स्पू॒र्धसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “rival.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ amanmahi ← √man- 1 (root)
 
 duróṣāsaḥ ← duróṣa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा भू॑म॒ निष्ट्या॑ इ॒वेन्द्र॒ त्वदर॑णा इव ।  
+वना॑नि॒ न प्र॑जहि॒तान्य॑द्रिवो दु॒रोषा॑सो अमन्महि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

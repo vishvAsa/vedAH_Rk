@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -116,7 +117,12 @@ sá ← sá- ~ tá- (pronoun)
 
 śrát ← śrád ( √dhā-, √kr̥-) (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं स्मा॑ पृ॒च्छन्ति॒ कुह॒ सेति॑ घो॒रमु॒तेमा॑हु॒र्नैषो अ॒स्तीत्ये॑नम् ।  
+सो अ॒र्यः पु॒ष्टीर्विज॑ इ॒वा मि॑नाति॒ श्रद॑स्मै धत्त॒ स ज॑नास॒ इन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -296,7 +302,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -323,10 +328,6 @@ The terrifying one about whom they always ask, “Where is he?”—and  they sa
 he diminishes the riches of the stranger like the stakes. Put trust in him!  – he, o peoples, is Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although in answer to the question in pāda a kúha sá “where is he,” we might expect naíṣó asti to mean “he is not (here),” I prefer the existential “he does not exist” of the published translation for two reasons. In main clauses the pres. copula asti is almost always existential, and doubts about Indra’s existence are expressed elsewhere in the RV.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -336,7 +337,6 @@ abstract to √puṣ, both in the plural, do not seem to differ from each other 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

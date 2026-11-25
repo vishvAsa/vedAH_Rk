@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ mr̥ñjata ← √mr̥j- (root)
 
 śrīṇānā́ḥ ← √śrī- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र शु॒क्रासो॑ वयो॒जुवो॑ हिन्वा॒नासो॒ न सप्त॑यः ।  
+श्री॒णा॒ना अ॒प्सु मृ॑ञ्जत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “purify; polish; rub; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -152,10 +157,6 @@ Forth (go) the clear (soma juices), speeding with vigor, being impelled  like te
 Being brought to readiness, they are groomed in the waters.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the relationship of vayojúvaḥ in pāda a and sáho júvaḥ in 18a, see comm. ad 18 above. Scarlatta (174) hesitates between act. and pass. meaning for this hapax rt. noun cmpd vayo-jū́-: “die Lebenskraft fördenden” / “von Kraft beschleunigten.” In the published translation I opt for an intrans. + instr. value: “speeding with vigor,” though I now think passive “sped by vigor” would be even better, on the basis of the clear pass. forms in context (hinvānā́saḥ … śrīṇānā́ḥ … mṛñjata) as well as a passage in the immediately preceding hymn, IX.64.16 prá hinvānā́saḥ ... dhiyā́jūtā́ḥ “Being impelled forth … sped by insightful thoughts,” with the passive ppl. jūtá-.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -163,7 +164,6 @@ All three vss. in this tṛca contain a middle form of √hi ‘impel’ (25c hi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

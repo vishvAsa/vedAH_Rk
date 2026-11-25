@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "धरुण आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ maháḥ ← máh- (nominal stem)
 
 rāyé ← rayí- ~ rāy- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाजो॒ नु ते॒ शव॑सस्पा॒त्वन्त॑मु॒रुं दोघं॑ ध॒रुणं॑ देव रा॒यः ।  
+प॒दं न ता॒युर्गुहा॒ दधा॑नो म॒हो रा॒ये चि॒तय॒न्नत्रि॑मस्पः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - \[verb\], singular, Root aorist (Ind.)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

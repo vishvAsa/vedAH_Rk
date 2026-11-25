@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sī́vyan ← √sīv- ~ syū- (root)
 
 támāṁsi ← támas- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॒ यो विश्वा॒ भुव॑ना॒भि म॒ज्मने॑शान॒कृत्प्रव॑या अ॒भ्यव॑र्धत ।  
+आद्रोद॑सी॒ ज्योति॑षा॒ वह्नि॒रात॑नो॒त्सीव्य॒न्तमां॑सि॒ दुधि॑ता॒ सम॑व्ययत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “cover.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

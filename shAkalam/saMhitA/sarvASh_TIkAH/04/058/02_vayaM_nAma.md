@@ -4,6 +4,7 @@ devataa = "अग्निः सूर्यो वापो वा गाव�
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
@@ -83,7 +84,12 @@ etát ← eṣá (pronoun)
 
 gauráḥ ← gaurá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं नाम॒ प्र ब्र॑वामा घृ॒तस्या॒स्मिन्य॒ज्ञे धा॑रयामा॒ नमो॑भिः ।  
+उप॑ ब्र॒ह्मा शृ॑णवच्छ॒स्यमा॑नं॒ चतुः॑शृङ्गोऽवमीद्गौ॒र ए॒तत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “this; he,she,it (pers. pron.); etad \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

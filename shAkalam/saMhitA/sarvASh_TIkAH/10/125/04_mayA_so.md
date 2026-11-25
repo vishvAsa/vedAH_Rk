@@ -4,6 +4,7 @@ devataa = "वागांभृणी"
 RShiH = "वागांभृणी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वागांभृणी
@@ -98,7 +99,12 @@ te ← tvám (pronoun)
 
 vadāmi ← √vadⁱ- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मया॒ सो अन्न॑मत्ति॒ यो वि॒पश्य॑ति॒ यः प्राणि॑ति॒ य ईं॑ शृ॒णोत्यु॒क्तम् ।  
+अ॒म॒न्तवो॒ मां त उप॑ क्षियन्ति श्रु॒धि श्रु॑त श्रद्धि॒वं ते॑ वदामि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
     diagnose; address; say; pronounce; express; instruct; order.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

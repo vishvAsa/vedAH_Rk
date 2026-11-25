@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ naḥ ← ahám (pronoun)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द॒विन्द्रा॑य बृह॒ते प॑वस्व सुमृळी॒को अ॑नव॒द्यो रि॒शादाः॑ ।  
+भरा॑ च॒न्द्राणि॑ गृण॒ते वसू॑नि दे॒वैर्द्या॑वापृथिवी॒ प्राव॑तं नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

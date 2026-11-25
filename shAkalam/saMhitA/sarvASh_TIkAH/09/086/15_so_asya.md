@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -98,7 +99,12 @@ víśvāḥ ← víśva- (nominal stem)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो अ॑स्य वि॒शे महि॒ शर्म॑ यच्छति॒ यो अ॑स्य॒ धाम॑ प्रथ॒मं व्या॑न॒शे ।  
+प॒दं यद॑स्य पर॒मे व्यो॑म॒न्यतो॒ विश्वा॑ अ॒भि सं या॑ति सं॒यतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “battle; war.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -282,16 +287,6 @@ He extends his great shelter to the clan, when he has reached through  his first
 What is his footprint in the highest distant heaven—from that he  proceeds toward all the (streams) in uninterrupted array.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The gen. asya of pāda a could depend instead on viśé - or indeed on both viśé and śárma. Since I don’t know what ‘clan’ is in question, it is hard to determine if it belongs to Soma.
-
-On dhā́ma … vyānaśe, see comm. ad vs. 5. I do not think, with Geldner, that the dhā́man- refers to the first “form” of soma in the phases of soma-preparation.
-
-In d note the play in the phrase sáṃ yāti saṃyátaḥ, which belong to different roots (√yā and √yat respectively). The latter has been rendered in quite different ways: Geldner: “… gelangt er zu allen Stufenfolgen”; Renou “il parcourt toutes les confluences”; Lüders (702) “… geht er zu allen Treffpunkten”; Scarlatta (404) Nomen act.
-
-‘feste Aufstellung’. But saṃyát- is generally an adj., usually in the pl. of liquids (V.34.9 ā́paḥ saṃyátaḥ, VIII.100.9); esp. pertinent are two passages in our own hymn: vs. 18 in the next tṛca saṃyátam pipyúṣīm íṣam “continuous, swelling refreshment” and, by implication, in vs. 47 dhā́rāḥ … saṃyátaḥ “continuous streams.” On the basis of these passages, I supply “streams” here as well. See, e.g., vs. 8.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -299,7 +294,6 @@ This tṛca is characterized by increasingly larger claims for Soma’s cosmic r
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

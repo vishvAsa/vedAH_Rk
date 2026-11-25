@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ imé ← ayám (pronoun)
 
 tvā́m ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ या॑ह्य॒र्वाङुप॑ वन्धुरे॒ष्ठास्तवेदनु॑ प्र॒दिवः॑ सोम॒पेय॑म् ।  
+प्रि॒या सखा॑या॒ वि मु॒चोप॑ ब॒र्हिस्त्वामि॒मे ह॑व्य॒वाहो॑ हवन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

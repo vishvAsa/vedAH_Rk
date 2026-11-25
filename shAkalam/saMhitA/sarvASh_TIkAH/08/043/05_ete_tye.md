@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ ketávaḥ ← ketú- (nominal stem)
 
 uṣásām ← uṣás- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते त्ये वृथ॑ग॒ग्नय॑ इ॒द्धासः॒ सम॑दृक्षत ।  
+उ॒षसा॑मिव के॒तवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     signal; signal; luminosity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -162,7 +167,6 @@ like the beacons of the dawns.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/043/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -170,7 +174,6 @@ vṛ́thak is found only in these two vss. It is generally considered to be a fo
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ naḥ ← ahám (pronoun)
 
 véṣantīḥ ← √viṣ- 1 (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वां॑ श॒रद्वा॑न्वृष॒भो न नि॒ष्षाट् पू॒र्वीरिष॑श्चरति॒ मध्व॑ इ॒ष्णन् ।  
+एवै॑र॒न्यस्य॑ पी॒पय॑न्त॒ वाजै॒र्वेष॑न्तीरू॒र्ध्वा न॒द्यो॑ न॒ आगुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “come; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

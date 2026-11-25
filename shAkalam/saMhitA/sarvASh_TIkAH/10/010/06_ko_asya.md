@@ -4,6 +4,7 @@ devataa = "यमो वैवस्वतः"
 RShiH = "यमी वैवस्वती"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमो वैवस्वतः
@@ -98,7 +99,12 @@ u ← u (invariable)
 
 vī́cyā ← vī́ci- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को अ॒स्य वे॑द प्रथ॒मस्याह्नः॒ क ईं॑ ददर्श॒ क इ॒ह प्र वो॑चत् ।  
+बृ॒हन्मि॒त्रस्य॒ वरु॑णस्य॒ धाम॒ कदु॑ ब्रव आहनो॒ वीच्या॒ नॄन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

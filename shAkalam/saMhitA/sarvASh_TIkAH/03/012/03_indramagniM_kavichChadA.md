@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -60,7 +61,12 @@ tā́ ← sá- ~ tá- (pronoun)
 
 tr̥mpatām ← √tr̥p- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑म॒ग्निं क॑वि॒च्छदा॑ य॒ज्ञस्य॑ जू॒त्या वृ॑णे ।  
+ता सोम॑स्ये॒ह तृ॑म्पताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “satiate; enjoy; delight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

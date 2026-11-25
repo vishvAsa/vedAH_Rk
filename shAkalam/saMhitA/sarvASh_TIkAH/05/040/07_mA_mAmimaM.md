@@ -4,6 +4,7 @@ devataa = "अत्रिः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अत्रिः
@@ -98,7 +99,12 @@ taú ← sá- ~ tá- (pronoun)
 
 váruṇaḥ ← váruṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा मामि॒मं तव॒ सन्त॑मत्र इर॒स्या द्रु॒ग्धो भि॒यसा॒ नि गा॑रीत् ।  
+त्वं मि॒त्रो अ॑सि स॒त्यरा॑धा॒स्तौ मे॒हाव॑तं॒ वरु॑णश्च॒ राजा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

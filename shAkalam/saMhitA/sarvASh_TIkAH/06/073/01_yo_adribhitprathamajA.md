@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -77,7 +78,12 @@ roravīti ← √rū- (root)
 
 vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अ॑द्रि॒भित्प्र॑थम॒जा ऋ॒तावा॒ बृह॒स्पति॑राङ्गिर॒सो ह॒विष्मा॑न् ।  
+द्वि॒बर्ह॑ज्मा प्राघर्म॒सत्पि॒ता न॒ आ रोद॑सी वृष॒भो रो॑रवीति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “bellow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -64,7 +65,12 @@ añjaté ← √añj- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मी॒ची॒ने अ॒भि त्मना॑ य॒ह्वी ऋ॒तस्य॑ मा॒तरा॑ ।  
+त॒न्वा॒ना य॒ज्ञमा॑नु॒षग्यद॑ञ्ज॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “smear; anoint; mix; color.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

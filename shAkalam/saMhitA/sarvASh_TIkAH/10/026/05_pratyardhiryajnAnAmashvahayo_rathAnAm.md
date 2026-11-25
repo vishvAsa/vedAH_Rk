@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -62,7 +63,12 @@ víprasya ← vípra- (nominal stem)
 
 yāvayatsakháḥ ← yāvayatsakhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रत्य॑र्धिर्य॒ज्ञाना॑मश्वह॒यो रथा॑नाम् ।  
+ऋषिः॒ स यो मनु॑र्हितो॒ विप्र॑स्य यावयत्स॒खः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “friend; Kubera.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

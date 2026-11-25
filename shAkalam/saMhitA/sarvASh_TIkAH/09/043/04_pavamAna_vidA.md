@@ -5,13 +5,13 @@ RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
 - ऋषिः - मेध्यातिथिः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -56,7 +56,12 @@ suśríyam ← suśrī́- (nominal stem)
 
 sahásravarcasam ← sahásravarcas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मान वि॒दा र॒यिम॒स्मभ्यं॑ सोम सु॒श्रिय॑म् ।  
+इन्दो॑ स॒हस्र॑वर्चसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +136,6 @@ _________
     waste; droppings; color.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -173,10 +177,6 @@ Soma Pavamana! Mögest du uns herrlichen Reichtum ausfindig machen, tausendfach 
 
 O spende, Soma, flammender, uns Reichthum, welcher Glück verschafft, Und, Indu, tausendfach erglänzt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

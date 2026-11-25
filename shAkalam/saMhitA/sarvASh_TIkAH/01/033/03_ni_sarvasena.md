@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ paṇíḥ ← paṇí- (nominal stem)
 
 pravr̥ddha ← √vr̥dh- (root)  
 {case:VOC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि सर्व॑सेन इषु॒धीँर॑सक्त॒ सम॒र्यो गा अ॑जति॒ यस्य॒ वष्टि॑ ।  
+चो॒ष्कू॒यमा॑ण इन्द्र॒ भूरि॑ वा॒मं मा प॒णिर्भू॑र॒स्मदधि॑ प्रवृद्ध ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “increase; develop; advance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

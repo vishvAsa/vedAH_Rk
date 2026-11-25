@@ -4,6 +4,7 @@ devataa = "श्येनः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्येनः
@@ -86,7 +87,12 @@ utá ← utá (invariable)
 
 vivide ← √vid- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भर॒द्यदि॒ विरतो॒ वेवि॑जानः प॒थोरुणा॒ मनो॑जवा असर्जि ।  
+तूयं॑ ययौ॒ मधु॑ना सो॒म्येनो॒त श्रवो॑ विविदे श्ये॒नो अत्र॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     alternatively; now.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -243,13 +248,6 @@ When he brought it from there, quivering (in fear), the bird, swift as  thought,
 fame here.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-My interpr. depends on reading (as sometimes elsewhere) yádi (‘if’) as yád
-
-*ī (‘when it’), despite the short i before a single consonant. It is possible that yád *ī
-was changed redactionally, to match yádi in IV.27.3. A heavy syllable in fourth place in an opening of four is standard (see Arnold 182, 188), and in particular the sequence of four shorts in #(bhárad) yádi | vír á(to) seems quite unusual, while a long vowel before the caesura and preceding a break of two shorts is metrically more favorable -- though given the many metrical departures in this hymn (see, e.g., the next vs.), this is not a strong argument.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
 <details><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -257,7 +255,6 @@ The 3rd sg. act. impf./injunc. of √bhṛ is the “hero” of this, the mythol
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

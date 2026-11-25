@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ r̥dhyāḥ ← √r̥dh- (root)
 
 tanvàḥ ← tanū́- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रः॒ स्वाहा॑ पिबतु॒ यस्य॒ सोम॑ आ॒गत्या॒ तुम्रो॑ वृष॒भो म॒रुत्वा॑न् ।  
+ओरु॒व्यचाः॑ पृणतामे॒भिरन्नै॒रास्य॑ ह॒विस्त॒न्व१॑ः॒ काम॑मृध्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “boom; stick to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

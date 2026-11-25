@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नृमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ punānáḥ ← √pū- (root)
 
 srídhaḥ ← srídh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष क॒विर॒भिष्टु॑तः प॒वित्रे॒ अधि॑ तोशते ।  
+पु॒ना॒नो घ्नन्नप॒ स्रिधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “failure; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

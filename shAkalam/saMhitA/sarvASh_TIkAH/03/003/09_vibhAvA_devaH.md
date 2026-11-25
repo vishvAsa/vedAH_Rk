@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒भावा॑ दे॒वः सु॒रणः॒ परि॑ क्षि॒तीर॒ग्निर्ब॑भूव॒ शव॑सा सु॒मद्र॑थः ।  
+तस्य॑ व्र॒तानि॑ भूरिपो॒षिणो॑ व॒यमुप॑ भूषेम॒ दम॒ आ सु॑वृ॒क्तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

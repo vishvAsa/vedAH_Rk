@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 rocanéna ← rocaná- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ व॒यं सु॒ध्यो॒३॒॑ नव्य॑मग्ने सुम्ना॒यव॑ ईमहे देव॒यन्तः॑ ।  
+त्वं विशो॑ अनयो॒ दीद्या॑नो दि॒वो अ॑ग्ने बृह॒ता रो॑च॒नेन॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “light; celestial sphere.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -231,7 +236,6 @@ you led the clans, while shining through the lofty luminous realm of  heaven, o 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -253,7 +257,6 @@ The hapax cmpd. prétīṣaṇi- is curiously formed and its sense not entirely 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

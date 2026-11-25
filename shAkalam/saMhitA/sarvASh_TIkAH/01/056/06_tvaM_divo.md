@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ ví ← ví (invariable)
 
 vr̥trásya ← vr̥trá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं दि॒वो ध॒रुणं॑ धिष॒ ओज॑सा पृथि॒व्या इ॑न्द्र॒ सद॑नेषु॒ माहि॑नः ।  
+त्वं सु॒तस्य॒ मदे॑ अरिणा अ॒पो वि वृ॒त्रस्य॑ स॒मया॑ पा॒ष्या॑रुजः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “break; bend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

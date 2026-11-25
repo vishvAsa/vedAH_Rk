@@ -4,6 +4,7 @@ devataa = "यमो वैवस्वतः"
 RShiH = "यमी वैवस्वती"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमो वैवस्वतः
@@ -92,7 +93,12 @@ tanvàm ← tanū́- (nominal stem)
 
 viviśyāḥ ← √viś- (root)  
 {number:SG, person:2, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒शन्ति॑ घा॒ ते अ॒मृता॑स ए॒तदेक॑स्य चित्त्य॒जसं॒ मर्त्य॑स्य ।  
+नि ते॒ मनो॒ मन॑सि धाय्य॒स्मे जन्युः॒ पति॑स्त॒न्व१॒॑मा वि॑विश्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

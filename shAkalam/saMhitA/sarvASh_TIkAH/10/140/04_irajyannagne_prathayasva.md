@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः पावकः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ pr̥ṇákṣi ← √pr̥c- (root)
 
 sānasím ← sānasí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒र॒ज्यन्न॑ग्ने प्रथयस्व ज॒न्तुभि॑र॒स्मे रायो॑ अमर्त्य ।  
+स द॑र्श॒तस्य॒ वपु॑षो॒ वि रा॑जसि पृ॒णक्षि॑ सान॒सिं क्रतु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

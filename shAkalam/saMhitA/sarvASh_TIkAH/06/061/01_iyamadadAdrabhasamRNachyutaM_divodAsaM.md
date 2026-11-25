@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -83,7 +84,12 @@ taviṣā́ ← taviṣá- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यम॑ददाद्रभ॒समृ॑ण॒च्युतं॒ दिवो॑दासं वध्र्य॒श्वाय॑ दा॒शुषे॑ ।  
+या शश्व॑न्तमाच॒खादा॑व॒सं प॒णिं ता ते॑ दा॒त्राणि॑ तवि॒षा स॑रस्वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     vine; river.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -234,20 +239,6 @@ she who has wrenched away the provender from one niggard after
 another. These are your powerful gifts, o Sarasvatī.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although, as just noted, the hymn establishes the feminine referent from the very beginning, she is also credited, from the beginning, with powers and deeds that seem distinctly unfeminine, esp. pāda c.
-
-Sarasvatī’s gift to the pious Vadhryaśva is universally, and I think correctly, interpr. as a son named Divodāsa, and this gift is further interpr. as reflecting the requital of the “debt to the ancestors” found in the doctrine, attested somewhat later (1st clearly articulated in TS), of the three debts that a Brahmin owes on his birth (to gods, ancestors, and ṛṣis). The requital of this debt is, in the standard view, expressed by the root-noun cmpd ṛṇacyút- in our passage. I think this is more or less correct, but not in a straightforward way. Both Geldner and Renou twist the sense of √cyu to get it to express the requital of the debt directly: “der der Schuld (an die Manen) tilgte [paid off]” (sim. Kümmel 153); “qui ébranle la dette (aux mânes).” But √cyu means ‘set in motion, agitate, shake’, and the best we could do to get the idiom we want is to push its meaning to ‘shake off’, hence ‘get rid of’, the debt. But ‘shake off’ is not a sense of √cyu at least in my experience. An unmanipulated sense of the cmpd should be ‘shake/agitate the ṛṇa’, and that is how I interpr. it -- ‘shake the debtor’ -- with a masc. ṛṇá- ‘debtor’; the only other non-neut. form of this stem is also in VI (VI.12.5), where it likewise means ‘debtor’, not ‘debt’. In other words I assume that Divodāsa inflicts rough punishment on a debtor; this helps explain why he is characterized as rabhasá- ‘violent, wild’, which does not make much sense if he’s just a baby who serves as his father’s payment to the ancestors.
-
-However, I also think the sense seen by Geldner and Renou -- Divodāsa as requital for the debt his father owes to the ancestors -- is also indirectly signaled here. The standard lexeme for this technical term is rṇám √ci; a root-noun cmpd formed to this lexeme would be ṛṇa-cí-t-, which in fact is attested once, at II.23.17. Our cmpd ṛṇacyú-t- is phonologically similar to it, and an acc. sg. *ṛṇacítam would produce a terrible cadence (4 lights), whereas ṛṇacyútam is well adapted to a Jagatī cadence (though the immediately preceding syllable should be heavy, not light: (rabha)sám ṛṇacyútam. What I am suggesting is that ṛṇacyútam is the correct reading and it means what it looks like it should mean, without the manipulation of Geldner and Renou But that it also phonologically evokes *ṛṇa-cítam, which gives a second, resonant meaning to the passage. This suggestion is similar to, but ultimately quite distinct from, Gotō’s (133 n. 166) that ṛṇa-cyút- is a transitive active version of ṛṇa-cít-, generated from a Zwangslage (predicament, dilemma) in order to express the sense ‘entgegennehmen lassen’ barred from the other cmpd, which in his view means ‘die Busse entgegennehmen’. Scarlatta also discusses ṛṇa-cyút- at some length (126-27), offering several possibilities, but not very usefully.
-
-As for the notion of a man’s inborn debts in the RV, I think it is alluded to in our text, but quite rarely. The clearest ex. is in the late hymn X.135 (see my “The Earliest Evidence for the Inborn Debts of a Brahmin: A New Interpretation of Ṛgveda X.135.” Journal asiatique 302.2 [2014]: 245-57), but there is another more glancing reference to it in Maṇḍala VI in VI.20.11, also discussed in the art. cit. In that article I argue that the original system, as seen in the RV, involves only two debts: a son for the ancestors and sacrifice for the gods; Brahmacarya for the ṛṣis is a later addition after the institution of studentship had developed.
-
-On the root affiliation of cakhā́da see EWA s.v. KHED and Kümmel (152-53), with lit. The pf., which appears only here in the RV, takes a double acc. On this pāda see Oldenberg
-
-and the parallel I.93.4, with √muṣ ‘steal’: yád ámuṣṇītam avasám paṇíṃ gā́ḥ.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -255,7 +246,6 @@ The hymn begins with the near-deictic nom. sg. iyám, establishing the feminine 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

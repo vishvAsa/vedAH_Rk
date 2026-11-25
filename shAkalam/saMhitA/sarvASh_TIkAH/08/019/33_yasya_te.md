@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ táva ← tvám (pronoun)
 
 vardháyan ← √vr̥dh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ ते अग्ने अ॒न्ये अ॒ग्नय॑ उप॒क्षितो॑ व॒या इ॑व ।  
+विपो॒ न द्यु॒म्ना नि यु॑वे॒ जना॑नां॒ तव॑ क्ष॒त्राणि॑ व॒र्धय॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “increase; strengthen; promote; rear; add; greet; laud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

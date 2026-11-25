@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ madhupau ← madhupá- (nominal stem)
 
 vā́jāya ← vā́ja- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वमत्य॒स्याव॑ नक्षथो॒ यद्विप॑त्मनो॒ नर्य॑स्य॒ प्रय॑ज्योः ।  
+स्वसा॒ यद्वां॑ विश्वगूर्ती॒ भरा॑ति॒ वाजा॒येट्टे॑ मधुपावि॒षे च॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

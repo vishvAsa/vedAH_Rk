@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ kāríṇam ← kārín- (nominal stem)
 
 vr̥dhántaḥ ← √vr̥dh- (root)  
 {case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तुत॑श्च॒ यास्त्वा॒ वर्ध॑न्ति म॒हे राध॑से नृ॒म्णाय॑ ।  
+इन्द्र॑ का॒रिणं॑ वृ॒धन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -169,7 +174,6 @@ The praises that strengthen you for great generosity and manly action, o Indra, 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/002/29-30.md">
 <details><summary><h2>29-30 ...{Loading}...</h2></summary>
 
@@ -177,7 +181,6 @@ Verse 29 consists of a relative clause (beginning stútaś ca yā́ḥ) conjoine
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -83,7 +84,12 @@ cakā́ra ← √kr̥- (root)
 
 mahī́ḥ ← máh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रद॑त्प॒थो वरु॑णः॒ सूर्या॑य॒ प्रार्णां॑सि समु॒द्रिया॑ न॒दीना॑म् ।  
+सर्गो॒ न सृ॒ष्टो अर्व॑तीरृता॒यञ्च॒कार॑ म॒हीर॒वनी॒रह॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “day; day; ahar \[word\]; day; day.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

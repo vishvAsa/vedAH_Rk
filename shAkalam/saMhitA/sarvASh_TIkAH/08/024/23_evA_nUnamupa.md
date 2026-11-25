@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ carkŕ̥tyam ← carkŕ̥tya- (nominal stem)
 
 súvidvāṁsam ← súvidvaṁs- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा नू॒नमुप॑ स्तुहि॒ वैय॑श्व दश॒मं नव॑म् ।  
+सुवि॑द्वांसं च॒र्कृत्यं॑ च॒रणी॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - \[noun\], genitive, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

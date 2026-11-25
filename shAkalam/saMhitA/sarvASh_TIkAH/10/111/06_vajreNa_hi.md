@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्ट्रादंष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ bāhvòjāḥ ← bāhvòjas- (nominal stem)
 
 maghavan ← maghávan- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वज्रे॑ण॒ हि वृ॑त्र॒हा वृ॒त्रमस्त॒रदे॑वस्य॒ शूशु॑वानस्य मा॒याः ।  
+वि धृ॑ष्णो॒ अत्र॑ धृष॒ता ज॑घ॒न्थाथा॑भवो मघवन्बा॒ह्वो॑जाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

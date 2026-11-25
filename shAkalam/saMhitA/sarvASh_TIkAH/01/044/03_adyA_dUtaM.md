@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -65,7 +66,12 @@ adhvaraśríyam ← adhvaraśrī́- (nominal stem)
 
 yajñā́nām ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒द्या दू॒तं वृ॑णीमहे॒ वसु॑म॒ग्निं पु॑रुप्रि॒यम् ।  
+धू॒मके॑तुं॒ भाऋ॑जीकं॒ व्यु॑ष्टिषु य॒ज्ञाना॑मध्वर॒श्रिय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
     \[word\]; śrī; prosperity; auspiciousness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

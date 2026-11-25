@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रस्कण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ matī́ḥ ← matí- (nominal stem)
 
 svadhā́bhiḥ ← svadhā́- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कनि॑क्रन्ति॒ हरि॒रा सृ॒ज्यमा॑नः॒ सीद॒न्वन॑स्य ज॒ठरे॑ पुना॒नः ।  
+नृभि॑र्य॒तः कृ॑णुते नि॒र्णिजं॒ गा अतो॑ म॒तीर्ज॑नयत स्व॒धाभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     power.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

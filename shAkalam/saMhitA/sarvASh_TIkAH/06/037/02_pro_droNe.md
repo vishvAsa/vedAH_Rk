@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ rā́jā ← rā́jan- (nominal stem)
 
 somyásya ← somyá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रो द्रोणे॒ हर॑यः॒ कर्मा॑ग्मन्पुना॒नास॒ ऋज्य॑न्तो अभूवन् ।  
+इन्द्रो॑ नो अ॒स्य पू॒र्व्यः प॑पीयाद्द्यु॒क्षो मद॑स्य सो॒म्यस्य॒ राजा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -245,10 +250,6 @@ Indra should be the first to drink of this (soma) of ours, as the
 heaven-ruling king of soma’s exhilaration.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Accented asyá in c presupposes the gen. phrase in d mádasya somyásya, even though the two genitives are construed differently: the one in c as (partitive) gen. with √pā ‘drink’, the one in d dependent on rā́jā.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -264,7 +265,6 @@ The implicit identification of Indra’s horses with the soma drops is reinforce
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

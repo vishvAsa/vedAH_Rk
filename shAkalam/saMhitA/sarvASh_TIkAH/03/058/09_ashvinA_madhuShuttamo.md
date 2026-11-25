@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ niṣkr̥tám ← niṣkr̥tá- (nominal stem)
 
 sutā́vataḥ ← sutā́vant- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वि॑ना मधु॒षुत्त॑मो यु॒वाकुः॒ सोम॒स्तं पा॑त॒मा ग॑तं दुरो॒णे ।  
+रथो॑ ह वां॒ भूरि॒ वर्पः॒ करि॑क्रत्सु॒ताव॑तो निष्कृ॒तमाग॑मिष्ठः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “arriving(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

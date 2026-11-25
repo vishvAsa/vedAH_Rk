@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -95,7 +96,12 @@ sukŕ̥te ← sukŕ̥t- (nominal stem)
 
 yásmai ← yá- (pronoun)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्वः॑ सुजाता मरुतो महित्व॒नं दी॒र्घं वो॑ दा॒त्रमदि॑तेरिव व्र॒तम् ।  
+इन्द्र॑श्च॒न त्यज॑सा॒ वि ह्रु॑णाति॒ तज्जना॑य॒ यस्मै॑ सु॒कृते॒ अरा॑ध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - “give; impart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -54,7 +55,12 @@ dadhāte ← √dhā- 1 (root)
 
 dákṣam ← dákṣa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒वी नो॑ मि॒त्रावरु॑णा तुविजा॒ता उ॑रु॒क्षया॑ ।  
+दक्षं॑ दधाते अ॒पस॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “busy; effective; hardworking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ putrā́ḥ ← putrá- (nominal stem)
 
 śagmā́saḥ ← śagmá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे चे॒तारो॒ अनृ॑तस्य॒ भूरे॑र्मि॒त्रो अ॑र्य॒मा वरु॑णो॒ हि सन्ति॑ ।  
+इ॒म ऋ॒तस्य॑ वावृधुर्दुरो॒णे श॒ग्मासः॑ पु॒त्रा अदि॑ते॒रद॑ब्धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “unfailing; unimpaired.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -95,7 +96,12 @@ tā́ ← sá- ~ tá- (pronoun)
 
 vahataḥ ← √vah- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रह्मा॑णि मे म॒तयः॒ शं सु॒तासः॒ शुष्म॑ इयर्ति॒ प्रभृ॑तो मे॒ अद्रिः॑ ।  
+आ शा॑सते॒ प्रति॑ हर्यन्त्यु॒क्थेमा हरी॑ वहत॒स्ता नो॒ अच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

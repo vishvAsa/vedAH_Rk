@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ ná ← ná (invariable)
 
 prabhr̥théṣu ← prabhr̥thá- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं ते त॑ इन्द्र॒ ये च॒ नरः॒ शर्धो॑ जज्ञा॒ना या॒ताश्च॒ रथाः॑ ।  
+आस्माञ्ज॑गम्यादहिशुष्म॒ सत्वा॒ भगो॒ न हव्यः॑ प्रभृ॒थेषु॒ चारुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -254,7 +260,6 @@ _________
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

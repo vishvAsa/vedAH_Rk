@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ sadhanyàḥ ← sadhanī́- (nominal stem)
 
 voce ← √vac- (root)  
 {number:SG, person:1, mood:INJ, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒ष उ॑ वो म॒ह ऋ॒तस्य॑ गो॒पानदि॑तिं मि॒त्रं वरु॑णं सुजा॒तान् ।  
+अ॒र्य॒मणं॒ भग॒मद॑ब्धधीती॒नच्छा॑ वोचे सध॒न्यः॑ पाव॒कान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

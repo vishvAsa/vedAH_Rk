@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ tát ← sá- ~ tá- (pronoun)
 
 várdhanam ← várdhana- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम्व॒भि प्रार्च॒तेन्द्रं॒ सोम॑स्य पी॒तये॑ ।  
+तदिद्ध्य॑स्य॒ वर्ध॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “increase; increase.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ sádam ← sádam (invariable)
 
 srávitave ← √sru- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तेन॑ दे॒वीर॒मृता॒ अमृ॑क्ता॒ अर्णो॑भि॒रापो॒ मधु॑मद्भिरग्ने ।  
+वा॒जी न सर्गे॑षु प्रस्तुभा॒नः प्र सद॒मित्स्रवि॑तवे दधन्युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - \[verb\], plural, Perfect optative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -223,16 +228,6 @@ By truth the immortal, unharmable goddesses, the waters with their  honeyed floo
 like a competitor beating a tattoo at the start(ing posts)—should set to  running, to stream forever.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The ritual application of this final ṛténa vs. is less clear than for the first three. It may simply refer to the waters used at the first soma pressing. Or the ritual aspect may be muted, and the point is to make room for the Vṛtra myth next to the Vala myth in vs. 11. However, the opt. dadhanyuḥ seems to reflect a movement from what has happened (the injunctives and preterite indicative of the last few vss.) to what should now happen, which suggests that there should be a ritual application.
-
-The athem. mid. part. -stubhāná- is isolated, beside the act. them. 1st cl. pres.
-
-stóbhati, and it is therefore impossible to determine its exact value -- including whether it is passive (so, e.g., Oldenberg [SBE], Geldner, Renou) or not. Gotō (1st cl., 332 and n.
-
-808) argues against such a value, on the basis of the intrans. sense of the root, and I have followed him in the non-passive assessment. My tr. “beat a tattoo” reflects my sense that √stubh is associated esp. with rhythm. As for sárga-, lit. ‘surge, gush’, it can refer to the instant when the surge is released, hence here the start of a race.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md">
 <details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -240,7 +235,6 @@ Each of these vss. begins with the resonant and charged instr. ṛténa ‘by tr
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

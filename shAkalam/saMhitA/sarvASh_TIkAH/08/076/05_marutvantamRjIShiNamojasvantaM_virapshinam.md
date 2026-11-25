@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -51,7 +52,12 @@ havāmahe ← √hū- (root)
 
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒रुत्व॑न्तमृजी॒षिण॒मोज॑स्वन्तं विर॒प्शिन॑म् ।  
+इन्द्रं॑ गी॒र्भिर्ह॑वामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +109,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

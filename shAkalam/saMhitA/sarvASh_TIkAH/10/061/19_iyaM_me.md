@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ idám ← ayám (pronoun)
 
 jā́yamānā ← √janⁱ- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं मे॒ नाभि॑रि॒ह मे॑ स॒धस्थ॑मि॒मे मे॑ दे॒वा अ॒यम॑स्मि॒ सर्वः॑ ।  
+द्वि॒जा अह॑ प्रथम॒जा ऋ॒तस्ये॒दं धे॒नुर॑दुह॒ज्जाय॑माना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

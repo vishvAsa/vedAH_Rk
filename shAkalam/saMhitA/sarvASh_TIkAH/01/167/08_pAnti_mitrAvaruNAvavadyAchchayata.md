@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ marutaḥ ← marút- (nominal stem)
 
 vāvr̥dhé ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पान्ति॑ मि॒त्रावरु॑णावव॒द्याच्चय॑त ईमर्य॒मो अप्र॑शस्तान् ।  
+उ॒त च्य॑वन्ते॒ अच्यु॑ता ध्रु॒वाणि॑ वावृ॒ध ईं॑ मरुतो॒ दाति॑वारः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “treasure; choice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

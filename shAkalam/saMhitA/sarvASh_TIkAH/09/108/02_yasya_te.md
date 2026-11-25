@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गौरिवीतिः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ ná ← ná (invariable)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ ते पी॒त्वा वृ॑ष॒भो वृ॑षा॒यते॒ऽस्य पी॒ता स्व॒र्विदः॑ ।  
+स सु॒प्रके॑तो अ॒भ्य॑क्रमी॒दिषोऽच्छा॒ वाजं॒ नैत॑शः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “Etaśa; horse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -235,16 +240,6 @@ Since, having drunk of you, the bull acts as a bull, at the drinking of this  su
 Bearing good marks he [=Soma] strode toward the refreshments, like  Etaśa toward the prize.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. presents us with a syntactic trap of sorts. It appears to consist of a standard REL / COREL construction, with 2a beginning yásya te and 2c beg. sá. And indeed the rel. and the sá are coreferential; however, the grammatical person has changed from 2nd to 3rd. I therefore prefer (contra Geldner/Renou) to attach 2ab to the previous vs., in which Soma is also 2nd ps. Pāda b acts as a transition from Soma as 2nd ps. to Soma as 3rd ps., with asyá referring to him, but the parallelism between the two “drinking” expressions keeps it within the syntactic domain of the rel. clause.
-
-I have silently converted yásya into yád, since “upon drinking of which - of you --” is unparsable, or at least exceptionally awk., in English.
-
-The gerund pītvā́in a is echoed by the i-stem loc. pītā́in b.
-
-On the unexpected accent of supráketa-, as opposed to supraketá- (4x), see Oldenberg, who has no good explanation (nor do I).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -252,7 +247,6 @@ There is syntactic dependence between the two vss., at least by my reading: 2ab 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vanúm ← vanú- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वसू॑नां वा चर्कृष॒ इय॑क्षन्धि॒या वा॑ य॒ज्ञैर्वा॒ रोद॑स्योः ।  
+अर्व॑न्तो वा॒ ये र॑यि॒मन्तः॑ सा॒तौ व॒नुं वा॒ ये सु॒श्रुणं॑ सु॒श्रुतो॒ धुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

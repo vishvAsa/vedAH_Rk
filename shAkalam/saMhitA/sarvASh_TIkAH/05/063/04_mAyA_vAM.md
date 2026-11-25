@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -89,7 +90,12 @@ mádhumantaḥ ← mádhumant- (nominal stem)
 
 párjanya ← parjánya- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा॒या वां॑ मित्रावरुणा दि॒वि श्रि॒ता सूर्यो॒ ज्योति॑श्चरति चि॒त्रमायु॑धम् ।  
+तम॒भ्रेण॑ वृ॒ष्ट्या गू॑हथो दि॒वि पर्ज॑न्य द्र॒प्सा मधु॑मन्त ईरते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “go.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

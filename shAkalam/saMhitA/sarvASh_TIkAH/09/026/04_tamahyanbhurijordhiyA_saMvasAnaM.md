@@ -5,13 +5,13 @@ RShiH = "इध्मवाहो दार्ढच्युतः"
 ChandaH = "गायत्री"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
 - ऋषिः - इध्मवाहो दार्ढच्युतः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -59,7 +59,12 @@ pátim ← páti- (nominal stem)
 
 vācáḥ ← vā́c- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम॑ह्यन्भु॒रिजो॑र्धि॒या सं॒वसा॑नं वि॒वस्व॑तः ।  
+पतिं॑ वा॒चो अदा॑भ्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +133,6 @@ _________
 - “trustworthy; disabused(p).”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -183,8 +187,6 @@ In ihren Armen trieben sie Vivasvats Hausgenossen an, Durch Lied den treuen Lied
 (Сок,) рядящийся (в молоко) у Вивасвата,  
 Повелителя речи, безобманного.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

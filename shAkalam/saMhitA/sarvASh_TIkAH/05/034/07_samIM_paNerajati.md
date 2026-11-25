@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ táviṣīm ← táviṣī- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समीं॑ प॒णेर॑जति॒ भोज॑नं मु॒षे वि दा॒शुषे॑ भजति सू॒नरं॒ वसु॑ ।  
+दु॒र्गे च॒न ध्रि॑यते॒ विश्व॒ आ पु॒रु जनो॒ यो अ॑स्य॒ तवि॑षी॒मचु॑क्रुधत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “anger; kup.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

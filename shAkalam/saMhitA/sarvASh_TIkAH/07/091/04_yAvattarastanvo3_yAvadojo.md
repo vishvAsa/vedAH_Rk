@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -89,7 +90,12 @@ idám ← ayám (pronoun)
 
 sádatam ← √sad- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+याव॒त्तर॑स्त॒न्वो॒३॒॑ याव॒दोजो॒ याव॒न्नर॒श्चक्ष॑सा॒ दीध्या॑नाः ।  
+शुचिं॒ सोमं॑ शुचिपा पातम॒स्मे इन्द्र॑वायू॒ सद॑तं ब॒र्हिरेदम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

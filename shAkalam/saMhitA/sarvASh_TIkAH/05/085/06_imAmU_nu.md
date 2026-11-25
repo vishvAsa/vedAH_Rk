@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -89,7 +90,12 @@ avánayaḥ ← aváni- (nominal stem)
 
 samudrám ← samudrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मामू॒ नु क॒वित॑मस्य मा॒यां म॒हीं दे॒वस्य॒ नकि॒रा द॑धर्ष ।  
+एकं॒ यदु॒द्ना न पृ॒णन्त्येनी॑रासि॒ञ्चन्ती॑र॒वन॑यः समु॒द्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

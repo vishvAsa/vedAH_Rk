@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -80,7 +81,12 @@ náptrā ← nápat- (nominal stem)
 
 saṁvidānā́saḥ ← √vid- 2 (root)  
 {case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एमा अ॑ग्मन्रे॒वती॑र्जी॒वध॑न्या॒ अध्व॑र्यवः सा॒दय॑ता सखायः ।  
+नि ब॒र्हिषि॑ धत्तन सोम्यासो॒ऽपां नप्त्रा॑ संविदा॒नास॑ एनाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “this; he,she,it (pers. pron.).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

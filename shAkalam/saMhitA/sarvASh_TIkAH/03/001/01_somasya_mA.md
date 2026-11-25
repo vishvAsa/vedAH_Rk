@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ juṣasva ← √juṣ- (root)
 
 tanvàm ← tanū́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोम॑स्य मा त॒वसं॒ वक्ष्य॑ग्ने॒ वह्निं॑ चकर्थ वि॒दथे॒ यज॑ध्यै ।  
+दे॒वाँ अच्छा॒ दीद्य॑द्यु॒ञ्जे अद्रिं॑ शमा॒ये अ॑ग्ने त॒न्वं॑ जुषस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

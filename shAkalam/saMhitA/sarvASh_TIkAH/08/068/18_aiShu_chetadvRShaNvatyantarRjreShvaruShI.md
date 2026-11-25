@@ -4,6 +4,7 @@ devataa = "ऋक्षाश्वमेधयोर्दानस्तुत
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋक्षाश्वमेधयोर्दानस्तुतिः
@@ -57,7 +58,12 @@ káśāvatī ← káśāvant- (nominal stem)
 
 svabhīśúḥ ← svabhīśú- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऐषु॑ चेत॒द्वृष॑ण्वत्य॒न्तरृ॒ज्रेष्वरु॑षी ।  
+स्व॒भी॒शुः कशा॑वती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

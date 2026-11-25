@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -77,7 +78,12 @@ aratām ← √r̥- 1 (root)
 
 śū́nam ← śū́na- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्व॑ ऊ॒र्मिः शम्या॑ ह॒न्त्वापो॒ योक्त्रा॑णि मुञ्चत ।  
+मादु॑ष्कृतौ॒ व्ये॑नसा॒घ्न्यौ शून॒मार॑ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

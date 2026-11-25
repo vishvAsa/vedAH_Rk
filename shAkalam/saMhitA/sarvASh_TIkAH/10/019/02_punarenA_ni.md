@@ -4,6 +4,7 @@ devataa = "आपो गावो वा"
 RShiH = "मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपो गावो वा
@@ -80,7 +81,12 @@ enāḥ ← ena- (pronoun)
 
 upā́jatu ← √aj- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पुन॑रेना॒ नि व॑र्तय॒ पुन॑रेना॒ न्या कु॑रु ।  
+इन्द्र॑ एणा॒ नि य॑च्छत्व॒ग्निरे॑ना उ॒पाज॑तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

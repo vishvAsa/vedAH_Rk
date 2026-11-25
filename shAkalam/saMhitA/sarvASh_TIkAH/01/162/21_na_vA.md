@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -98,7 +99,12 @@ rā́sabhasya ← rā́sabha- (nominal stem)
 
 vājī́ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न वा उ॑ ए॒तन्म्रि॑यसे॒ न रि॑ष्यसि दे॒वाँ इदे॑षि प॒थिभिः॑ सु॒गेभिः॑ ।  
+हरी॑ ते॒ युञ्जा॒ पृष॑ती अभूता॒मुपा॑स्थाद्वा॒जी धु॒रि रास॑भस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “ass; domestic ass.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ r̥jipyā́saḥ ← r̥jipyá- (nominal stem)
 
 vayúneṣu ← vayúna- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पृ॒क्षे ता विश्वा॒ भुव॑ना ववक्षिरे मि॒त्राय॑ वा॒ सद॒मा जी॒रदा॑नवः ।  
+पृष॑दश्वासो अनव॒भ्ररा॑धस ऋजि॒प्यासो॒ न व॒युने॑षु धू॒र्षदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -236,10 +241,6 @@ The ones with lively drops have waxed strong, to fortify all the creatures  or f
 With their dappled horses, with their unreceding generosity, they sit at  the chariot-pole like the straight-flying (birds) on the traceries (of the  branches?).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The descriptor ásmera-, generally taken as a derivative of √smi ‘smile’, is somewhat curious. It may be simply, as Macdonell suggests, that the waters approach their task seriously, not like light-hearted lovers (sim. Doniger). Or (with Maurer) that they are shy. But I somehow think that this hapax is expressing something more particular, though I cannot define it more closely. It may be naturalistic: the circling waters perhaps whirl around without foam, which might be thought of as smiles. Or it may be meant to distinguish these attentive females from other natural phenomena: lightning, especially, is characterized by smiling (see I.168.8) and laughing, and Uṣas also smiles. Though the waters do gleam (see 3c), they are different from those bright celestial females, and the point may be to emphasize the two very different environments in which Apām Napāt finds himself -- the watery and the fiery. Note that in 9b Apām Napāt “clothes himself in the lightning flash” in 9b, but by then his assimilation to Agni/Fire is almost complete.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
 <details><summary><h2>02-05 ...{Loading}...</h2></summary>
 
@@ -255,7 +256,6 @@ The first words of each hemistich in this series of vss. echo each other: 1a úp
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

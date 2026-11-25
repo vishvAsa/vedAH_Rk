@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ návyasī ← návyas- (nominal stem)
 
 púnaḥ-punar ← púnar (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ योनि॑म॒ग्निर्घृ॒तव॑न्तमस्थात्पृ॒थुप्र॑गाणमु॒शन्त॑मुशा॒नः ।  
+दीद्या॑नः॒ शुचि॑रृ॒ष्वः पा॑व॒कः पुनः॑पुनर्मा॒तरा॒ नव्य॑सी कः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

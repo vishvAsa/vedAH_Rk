@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ saptā́syam ← saptā́sya- (nominal stem)
 
 vrajám ← vrajá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं ह॑ कृ॒शं यु॒वम॑श्विना श॒युं यु॒वं वि॒धन्तं॑ वि॒धवा॑मुरुष्यथः ।  
+यु॒वं स॒निभ्यः॑ स्त॒नय॑न्तमश्वि॒नाप॑ व्र॒जमू॑र्णुथः स॒प्तास्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

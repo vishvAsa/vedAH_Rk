@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अंबरीष ऋजिश्वा च"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -68,7 +69,12 @@ prātár ← prātár (invariable)
 
 tā́n ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते प्र॒त्नासो॒ व्यु॑ष्टिषु॒ सोमाः॑ प॒वित्रे॑ अक्षरन् ।  
+अ॒प॒प्रोथ॑न्तः सनु॒तर्हु॑र॒श्चितः॑ प्रा॒तस्ताँ अप्र॑चेतसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “anserine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ rīraman ← √ram- (root)
 
 yájamānāsaḥ ← √yaj- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हरी॒ नु कं॒ रथ॒ इन्द्र॑स्य योजमा॒यै सू॒क्तेन॒ वच॑सा॒ नवे॑न ।  
+मो षु त्वामत्र॑ ब॒हवो॒ हि विप्रा॒ नि री॑रम॒न्यज॑मानासो अ॒न्ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -259,7 +265,6 @@ _________
     more(a); fresh; any(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

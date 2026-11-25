@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ jaya ← √ji- 1 (root)
 
 vŕ̥ṣapatnīḥ ← vŕ̥ṣapatnī- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद॒द्या चि॑त्त उ॒क्थिनोऽनु॑ ष्टुवन्ति पू॒र्वथा॑ ।  
+वृष॑पत्नीर॒पो ज॑या दि॒वेदि॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “day; sky; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

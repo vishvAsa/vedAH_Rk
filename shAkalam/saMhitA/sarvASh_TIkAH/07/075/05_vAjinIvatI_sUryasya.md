@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -74,7 +75,12 @@ uṣā́ḥ ← uṣás- (nominal stem)
 
 váhnibhiḥ ← váhni- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒जिनी॑वती॒ सूर्य॑स्य॒ योषा॑ चि॒त्राम॑घा रा॒य ई॑शे॒ वसू॑नाम् ।  
+ऋषि॑ष्टुता ज॒रय॑न्ती म॒घोन्यु॒षा उ॑च्छति॒ वह्नि॑भिर्गृणा॒ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

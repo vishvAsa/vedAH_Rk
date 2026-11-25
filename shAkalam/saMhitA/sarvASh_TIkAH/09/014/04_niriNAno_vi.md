@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ sám ← sám (invariable)
 
 yujā́ ← yúj- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि॒रि॒णा॒नो वि धा॑वति॒ जह॒च्छर्या॑णि॒ तान्वा॑ ।  
+अत्रा॒ सं जि॑घ्नते यु॒जा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “ally; friend; pair; two; companion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

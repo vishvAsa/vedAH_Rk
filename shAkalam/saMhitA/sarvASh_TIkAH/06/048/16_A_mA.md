@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -69,7 +70,12 @@ aghā́ḥ ← aghá- (nominal stem)
 
 aryáḥ ← arí- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ मा॑ पूष॒न्नुप॑ द्रव॒ शंसि॑षं॒ नु ते॑ अपिक॒र्ण आ॑घृणे ।  
+अ॒घा अ॒र्यो अरा॑तयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “hostility; adversity; foe; envy; stinginess.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -188,10 +193,6 @@ Close at your side: saṃśiṣam nu te **karṇa** = I celebrate your praise qu
 Run up to me, Pūṣan. I will announce close to your ear, o glowing one: “Evil are the hostilities of the stranger.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The little nominal clause aghā́aryó árātayaḥ with its unremarkable sentiment (“evil are the hostilities of the stranger”) may have been a popular saying, as it’s found in the same form nearby in VI.59.8, an Indra-Agni hymn. It is not clear to me why Pūṣan would care or why the speaker seems to impart it as a secret.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details><summary><h2>14-19 ...{Loading}...</h2></summary>
 
@@ -199,7 +200,6 @@ On these Pūṣan vss., see published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

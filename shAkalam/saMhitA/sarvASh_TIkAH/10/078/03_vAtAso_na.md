@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ pitr̥̄ṇā́m ← pitár- (nominal stem)
 
 surātáyaḥ ← surātí- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाता॑सो॒ न ये धुन॑यो जिग॒त्नवो॑ऽग्नी॒नां न जि॒ह्वा वि॑रो॒किणः॑ ।  
+वर्म॑ण्वन्तो॒ न यो॒धाः शिमी॑वन्तः पितॄ॒णां न शंसाः॑ सुरा॒तयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “gift; bounty; favor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

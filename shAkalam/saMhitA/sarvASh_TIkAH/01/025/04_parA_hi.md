@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -60,7 +61,12 @@ vasatī́ḥ ← vasatí- (nominal stem)
 
 váyaḥ ← ví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परा॒ हि मे॒ विम॑न्यवः॒ पत॑न्ति॒ वस्य॑इष्टये ।  
+वयो॒ न व॑स॒तीरुप॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “towards; on; next.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

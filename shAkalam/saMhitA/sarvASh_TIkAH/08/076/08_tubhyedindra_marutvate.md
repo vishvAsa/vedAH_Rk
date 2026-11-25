@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ hūyante ← √hu- (root)
 
 ukthínaḥ ← ukthín- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्येदि॑न्द्र म॒रुत्व॑ते सु॒ताः सोमा॑सो अद्रिवः ।  
+हृ॒दा हू॑यन्त उ॒क्थिनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “laudatory.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

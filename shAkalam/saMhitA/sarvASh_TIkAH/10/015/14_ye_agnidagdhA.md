@@ -4,6 +4,7 @@ devataa = "पितरः"
 RShiH = "शङ्खो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पितरः
@@ -77,7 +78,12 @@ tanvàm ← tanū́- (nominal stem)
 
 yathāvaśám ← yathāvaśám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये अ॑ग्निद॒ग्धा ये अन॑ग्निदग्धा॒ मध्ये॑ दि॒वः स्व॒धया॑ मा॒दय॑न्ते ।  
+तेभिः॑ स्व॒राळसु॑नीतिमे॒तां य॑थाव॒शं त॒न्वं॑ कल्पयस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
     imitate; restore; make; treat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

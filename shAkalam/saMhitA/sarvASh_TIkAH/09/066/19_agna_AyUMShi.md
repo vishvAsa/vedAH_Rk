@@ -4,6 +4,7 @@ devataa = "अग्निः पवमानः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः पवमानः
@@ -66,7 +67,12 @@ bādhasva ← √bādhⁱ- (root)
 
 duchúnām ← duchúnā- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्न॒ आयूं॑षि पवस॒ आ सु॒वोर्ज॒मिषं॑ च नः ।  
+आ॒रे बा॑धस्व दु॒च्छुना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -75,10 +81,9 @@ duchúnām ← duchúnā- (nominal stem)
 आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना॑म् ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-अग्ने॑ । आयूँ॑षि । प॒व॒से॒ । एति॑ । सु॒व॒ । ऊर्ज॑म् । इष॑म् । च॒ । नः॒ ॥ आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना॑म् ॥ 
-
+अग्ने॑ । आयूँ॑षि । प॒व॒से॒ । एति॑ । सु॒व॒ । ऊर्ज॑म् । इष॑म् । च॒ । नः॒ ॥ आ॒रे । बा॒ध॒स्व॒ । दु॒च्छुना॑म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -156,7 +161,6 @@ _________
 - “calamity; misfortune.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -195,12 +199,6 @@ O Agni, you bring (longer) lifespans through your purification; impel  hither no
 Into the distance thrust misfortune.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Since pavase has an obj. ā́yūṃṣi, it would be desirable to have the preverb ā́, which has transitivizing function with this root. This is easily done: ā́yūṃṣi can be decomposed into ā́ā́yūṃṣi without change to the Saṃhitā text, though it is contra to the Pp.
-
-This preverb in tmesis shows up apparently 2nd in the clause because it follows the zeroposition voc. ágne.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -212,7 +210,6 @@ The equation and poetic merging of these two ritual gods is found elsewhere, mos
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

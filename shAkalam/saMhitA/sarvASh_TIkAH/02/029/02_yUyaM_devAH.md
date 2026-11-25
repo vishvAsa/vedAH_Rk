@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ mr̥ḷáyata ← √mr̥ḍ- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यं दे॑वाः॒ प्रम॑तिर्यू॒यमोजो॑ यू॒यं द्वेषां॑सि सनु॒तर्यु॑योत ।  
+अ॒भि॒क्ष॒त्तारो॑ अ॒भि च॒ क्षम॑ध्वम॒द्या च॑ नो मृ॒ळय॑ताप॒रं च॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

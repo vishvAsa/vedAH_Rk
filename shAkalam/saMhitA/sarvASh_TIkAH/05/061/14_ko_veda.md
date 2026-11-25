@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ arepásaḥ ← arepás- (nominal stem)
 
 r̥tájātāḥ ← r̥tájāta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को वे॑द नू॒नमे॑षां॒ यत्रा॒ मद॑न्ति॒ धूत॑यः ।  
+ऋ॒तजा॑ता अरे॒पसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “immaculate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

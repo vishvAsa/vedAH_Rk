@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्ट्रादंष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ pátiḥ ← páti- (nominal stem)
 
 sanajā́ḥ ← sanajā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रः॒ किल॒ श्रुत्या॑ अ॒स्य वे॑द॒ स हि जि॒ष्णुः प॑थि॒कृत्सूर्या॑य ।  
+आन्मेनां॑ कृ॒ण्वन्नच्यु॑तो॒ भुव॒द्गोः पति॑र्दि॒वः स॑न॒जा अप्र॑तीतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “irresistible.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

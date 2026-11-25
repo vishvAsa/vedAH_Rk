@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ mr̥dhrávācaḥ ← mr̥dhrávāc- (nominal stem)
 
 ní ← ní (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रान्यच्च॒क्रम॑वृहः॒ सूर्य॑स्य॒ कुत्सा॑या॒न्यद्वरि॑वो॒ यात॑वेऽकः ।  
+अ॒नासो॒ दस्यूँ॑रमृणो व॒धेन॒ नि दु॑र्यो॒ण आ॑वृणङ्मृ॒ध्रवा॑चः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     assurance; spell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

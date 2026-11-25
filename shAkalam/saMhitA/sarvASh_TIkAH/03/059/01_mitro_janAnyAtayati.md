@@ -5,13 +5,13 @@ RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रः
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -88,7 +88,12 @@ juhota ← √hu- (root)
 
 mitrā́ya ← mitrá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रो जना॑न्यातयति ब्रुवा॒णो मि॒त्रो दा॑धार पृथि॒वीमु॒त द्याम् ।  
+मि॒त्रः कृ॒ष्टीरनि॑मिषा॒भि च॑ष्टे मि॒त्राय॑ ह॒व्यं घृ॒तव॑ज्जुहोत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +214,6 @@ _________
 - “sacrifice; offer; pour; worship.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -264,8 +268,6 @@ Die Menschen einet Mitra freundlich redend, es hat befestigt Mitra Erd' und Himm
 Митра, не смыкая очей, озирает народы.  
 Митре возлейте жертву, богатую жиром.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

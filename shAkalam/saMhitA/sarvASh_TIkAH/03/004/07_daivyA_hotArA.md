@@ -4,6 +4,7 @@ devataa = "दैव्यौ होतारौ प्रचेतसौ"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दैव्यौ होतारौ प्रचेतसौ
@@ -89,7 +90,12 @@ vratám ← vratá- (nominal stem)
 
 vratapā́ḥ ← vratapā́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दैव्या॒ होता॑रा प्रथ॒मा न्यृ॑ञ्जे स॒प्त पृ॒क्षासः॑ स्व॒धया॑ मदन्ति ।  
+ऋ॒तं शंस॑न्त ऋ॒तमित्त आ॑हु॒रनु॑ व्र॒तं व्र॑त॒पा दीध्या॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “think; desire; chew over.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

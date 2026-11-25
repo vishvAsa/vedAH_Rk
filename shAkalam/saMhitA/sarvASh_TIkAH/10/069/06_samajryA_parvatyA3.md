@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ syāḥ ← √as- 1 (root)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सम॒ज्र्या॑ पर्व॒त्या॒३॒॑ वसू॑नि॒ दासा॑ वृ॒त्राण्यार्या॑ जिगेथ ।  
+शूर॑ इव धृ॒ष्णुश्च्यव॑नो॒ जना॑नां॒ त्वम॑ग्ने पृतना॒यूँर॒भि ष्याः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

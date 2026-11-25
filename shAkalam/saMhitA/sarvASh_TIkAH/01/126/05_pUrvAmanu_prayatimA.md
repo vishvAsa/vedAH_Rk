@@ -4,6 +4,7 @@ devataa = "भावयव्यः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भावयव्यः
@@ -92,7 +93,12 @@ pajrā́ḥ ← pajrá- (nominal stem)
 
 śrávaḥ ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पूर्वा॒मनु॒ प्रय॑ति॒मा द॑दे व॒स्त्रीन्यु॒क्ताँ अ॒ष्टाव॒रिधा॑यसो॒ गाः ।  
+सु॒बन्ध॑वो॒ ये वि॒श्या॑ इव॒ व्रा अन॑स्वन्तः॒ श्रव॒ ऐष॑न्त प॒ज्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

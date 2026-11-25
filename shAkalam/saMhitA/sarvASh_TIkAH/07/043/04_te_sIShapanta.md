@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ sthá ← √as- 1 (root)
 
 yáti ← yáti (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते सी॑षपन्त॒ जोष॒मा यज॑त्रा ऋ॒तस्य॒ धाराः॑ सु॒दुघा॒ दुहा॑नाः ।  
+ज्येष्ठं॑ वो अ॒द्य मह॒ आ वसू॑ना॒मा ग॑न्तन॒ सम॑नसो॒ यति॒ ष्ठ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

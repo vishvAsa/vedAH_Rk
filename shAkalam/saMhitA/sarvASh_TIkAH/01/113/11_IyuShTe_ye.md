@@ -95,6 +95,12 @@ yé ← yá- (pronoun)
 {}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒युष्टे ये पूर्व॑तरा॒मप॑श्यन्व्यु॒च्छन्ती॑मु॒षसं॒ मर्त्या॑सः ।  
+अ॒स्माभि॑रू॒ नु प्र॑ति॒चक्ष्या॑भू॒दो ते य॑न्ति॒ ये अ॑प॒रीषु॒ पश्या॑न् ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ई॒युः । ते । ये । पूर्व॑ऽतराम् । अप॑श्यन् । वि॒ऽउ॒च्छन्ती॑म् । उ॒षस॑म् । मर्त्या॑सः ।  
@@ -268,10 +274,6 @@ _________
 They have gone, the mortals who saw the earlier dawn dawning forth. (This dawn) has now come to be gazed upon by us. And there are those  coming hither who will see (the dawn) in the future.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Grassmann (et al.) I take praticákṣyā as the gerundive; cf. I.124.8.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 
 <details open><summary><h2>07-13 …{Loading}…</h2></summary>
@@ -282,7 +284,6 @@ These verses have a surprising density of forms of ví √vas ‘dawn forth’ (
 </details>
 
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

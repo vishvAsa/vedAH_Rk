@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ karati ← √kr̥- (root)
 
 svadhvarā́ ← svadhvará- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रो वो॑ म॒न्द्रं दि॒व्यं सु॑वृ॒क्तिं प्र॑य॒ति य॒ज्ञे अ॒ग्निम॑ध्व॒रे द॑धिध्वम् ।  
+पु॒र उ॒क्थेभिः॒ स हि नो॑ वि॒भावा॑ स्वध्व॒रा क॑रति जा॒तवे॑दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

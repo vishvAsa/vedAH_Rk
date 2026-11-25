@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ rā́jñe ← rā́jan- (nominal stem)
 
 yū́ne ← yúvan- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमा॑विथ सु॒श्रव॑सं॒ तवो॒तिभि॒स्तव॒ त्राम॑भिरिन्द्र॒ तूर्व॑याणम् ।  
+त्वम॑स्मै॒ कुत्स॑मतिथि॒ग्वमा॒युं म॒हे राज्ञे॒ यूने॑ अरन्धनायः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - \[verb\], singular, Imperfect
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

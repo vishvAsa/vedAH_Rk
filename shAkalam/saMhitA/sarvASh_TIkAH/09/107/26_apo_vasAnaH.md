@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ ná ← ná (invariable)
 
 nirṇíjam ← nirṇíj- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पो वसा॑नः॒ परि॒ कोश॑मर्ष॒तीन्दु॑र्हिया॒नः सो॒तृभिः॑ ।  
+ज॒नय॒ञ्ज्योति॑र्म॒न्दना॑ अवीवश॒द्गाः कृ॑ण्वा॒नो न नि॒र्णिज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “attire; garment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -223,12 +228,6 @@ Clothing himself in the waters, he rushes around the cask, the drop  being prope
 Begetting the light, he has made the delighting cows bellow, making the  cows as if into his fresh garment.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-apó vásānaḥ returns from 4b, 18c, along with the verb árṣa-, ubiquitous in this hymn.
-
-gā́ḥ ‘cows’ needs to be read with both c and d. In the former it is the referent of the hapax mandánāḥ (whose sense is, however, easy to divine) and the obj. of the caus. redupl. aor. ‘causes to bellow’; in the latter it is the obj. of kṛṇvānáḥ and the target of the simile: “making the cows as if into his garment” (a simile that of course depends on a metaphor: cows = milk). I consider the ná to be displaced - we might expect *nirṇíjaṃ ná. This pāda, in this order, is also found in IX.14.5; for variants on the phrase without simile particle see IX.86.26, 95.1, all adduced by Geldner (n. 26d).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/25-26.md">
 <details><summary><h2>25-26 ...{Loading}...</h2></summary>
 
@@ -236,7 +235,6 @@ No particular signs of cohesion.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

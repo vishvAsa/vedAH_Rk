@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "बुधगविष्ठिरावात्रेयौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ sasāda ← √sad- (root)
 
 yájīyān ← yájīyaṁs- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जनि॑ष्ट॒ हि जेन्यो॒ अग्रे॒ अह्नां॑ हि॒तो हि॒तेष्व॑रु॒षो वने॑षु ।  
+दमे॑दमे स॒प्त रत्ना॒ दधा॑नो॒ऽग्निर्होता॒ नि ष॑सादा॒ यजी॑यान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

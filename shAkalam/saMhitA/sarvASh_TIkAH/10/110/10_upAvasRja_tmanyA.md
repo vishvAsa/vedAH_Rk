@@ -4,6 +4,7 @@ devataa = "वनस्पतिः"
 RShiH = "जमदग्निस्तत्सुतो वा रामः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वनस्पतिः
@@ -77,7 +78,12 @@ mádhunā ← mádhu- (nominal stem)
 
 svádantu ← √svad- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒पाव॑सृज॒ त्मन्या॑ सम॒ञ्जन्दे॒वानां॒ पाथ॑ ऋतु॒था ह॒वींषि॑ ।  
+वन॒स्पतिः॑ शमि॒ता दे॒वो अ॒ग्निः स्वद॑न्तु ह॒व्यं मधु॑ना घृ॒तेन॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “ghee; fat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

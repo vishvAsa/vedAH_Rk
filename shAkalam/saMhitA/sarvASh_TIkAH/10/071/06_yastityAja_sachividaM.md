@@ -4,6 +4,7 @@ devataa = "ज्ञानं"
 RShiH = "बृहस्पतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ज्ञानं
@@ -89,7 +90,12 @@ pravéda ← √vid- 2 (root)
 
 sukr̥tásya ← sukr̥tá- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ति॒त्याज॑ सचि॒विदं॒ सखा॑यं॒ न तस्य॑ वा॒च्यपि॑ भा॒गो अ॑स्ति ।  
+यदीं॑ शृ॒णोत्यल॑कं शृणोति न॒हि प्र॒वेद॑ सुकृ॒तस्य॒ पन्था॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “way; road; path \[word\]; journey; method.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

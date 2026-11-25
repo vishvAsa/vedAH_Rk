@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ yáḥ ← yá- (pronoun)
 
 yúvā ← yúvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यन्मे॒ अभ्वं॑ व॒नदः॒ पन॑न्तो॒शिग्भ्यो॒ नामि॑मीत॒ वर्ण॑म् ।  
+स चि॒त्रेण॑ चिकिते॒ रंसु॑ भा॒सा जु॑जु॒र्वाँ यो मुहु॒रा युवा॒ भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

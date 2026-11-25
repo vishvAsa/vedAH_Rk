@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -89,7 +90,12 @@ siṣāsániḥ ← siṣāsáni- (nominal stem)
 
 vanate ← √vanⁱ- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गर्भे॒ योषा॒मद॑धुर्व॒त्समा॒सन्य॑पी॒च्ये॑न॒ मन॑सो॒त जि॒ह्वया॑ ।  
+स वि॒श्वाहा॑ सु॒मना॑ यो॒ग्या अ॒भि सि॑षा॒सनि॑र्वनते का॒र इज्जिति॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “victory.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

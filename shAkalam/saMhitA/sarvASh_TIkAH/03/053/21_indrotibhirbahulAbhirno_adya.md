@@ -4,6 +4,7 @@ devataa = "इन्द्रः (अभिशापः)"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (अभिशापः)
@@ -98,7 +99,12 @@ u ← u (invariable)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॒तिभि॑र्बहु॒लाभि॑र्नो अ॒द्य या॑च्छ्रे॒ष्ठाभि॑र्मघवञ्छूर जिन्व ।  
+यो नो॒ द्वेष्ट्यध॑रः॒ सस्प॑दीष्ट॒ यमु॑ द्वि॒ष्मस्तमु॑ प्रा॒णो ज॑हातु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
     foreswear; pour away; withdraw; depart; reduce.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -279,7 +284,6 @@ leave him.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/21-24.md">
 <details><summary><h2>21-24 ...{Loading}...</h2></summary>
 
@@ -288,7 +292,6 @@ As noted in the published introduction, these vss. are traditionally taken as de
 The first vs. of this sequence (21) is quite straightforward; vs. 22 is more complex, but I feel fairly confident in its interpr. But vss. 23-24 are very difficult, and my interpr. is correspondingly quite provisional.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

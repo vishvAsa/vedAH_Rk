@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "संवर्तः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -53,7 +54,11 @@ vartayati ← √vr̥t- (root)
 
 sujātátā ← sujātátā- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒षा अप॒ स्वसु॒स्तमः॒ सं व॑र्तयति वर्त॒निं सु॑जा॒तता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +131,6 @@ _________
 - “state; Lakshmi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

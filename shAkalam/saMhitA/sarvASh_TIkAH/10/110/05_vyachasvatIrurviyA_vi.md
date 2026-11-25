@@ -4,6 +4,7 @@ devataa = "देवीर्द्वारः"
 RShiH = "जमदग्निस्तत्सुतो वा रामः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवीर्द्वारः
@@ -77,7 +78,12 @@ devébhyaḥ ← devá- (nominal stem)
 
 suprāyaṇā́ḥ ← suprāyaṇá- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्यच॑स्वतीरुर्वि॒या वि श्र॑यन्तां॒ पति॑भ्यो॒ न जन॑यः॒ शुम्भ॑मानाः ।  
+देवी॑र्द्वारो बृहतीर्विश्वमिन्वा दे॒वेभ्यो॑ भवत सुप्राय॒णाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “beginning; beginning.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

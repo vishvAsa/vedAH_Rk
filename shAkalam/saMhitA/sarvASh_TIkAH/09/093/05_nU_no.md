@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नोधाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ makṣú ← makṣú- (nominal stem)
 
 prātár ← prātár (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू नो॑ र॒यिमुप॑ मास्व नृ॒वन्तं॑ पुना॒नो वा॒ताप्यं॑ वि॒श्वश्च॑न्द्रम् ।  
+प्र व॑न्दि॒तुरि॑न्दो ता॒र्यायुः॑ प्रा॒तर्म॒क्षू धि॒याव॑सुर्जगम्यात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

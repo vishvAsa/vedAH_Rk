@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -68,7 +69,12 @@ yáḥ ← yá- (pronoun)
 
 havyádātaye ← havyádāti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋध॑गि॒त्था स मर्त्यः॑ शश॒मे दे॒वता॑तये ।  
+यो नू॒नं मि॒त्रावरु॑णाव॒भिष्ट॑य आच॒क्रे ह॒व्यदा॑तये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - \[noun\], dative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

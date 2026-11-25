@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ mahī́m ← máh- (nominal stem)
 
 rātáhaviṣe ← rātáhavis- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्यु॒ञ्जते॑ म॒रुतो॑ रु॒क्मव॑क्ष॒सोऽश्वा॒न्रथे॑षु॒ भग॒ आ सु॒दान॑वः ।  
+धे॒नुर्न शिश्वे॒ स्वस॑रेषु पिन्वते॒ जना॑य रा॒तह॑विषे म॒हीमिष॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

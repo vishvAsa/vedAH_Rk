@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "आस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -87,7 +88,12 @@ pāhi ← √pā- 1 (root)
 
 vívakṣase ← √vac- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्पति॒र्वार्या॑णा॒मसि॑ र॒ध्रस्य॑ चोदि॒ता ।  
+इन्द्र॑ स्तोतॄ॒णाम॑वि॒ता वि वो॒ मदे॑ द्वि॒षो नः॑ पा॒ह्यंह॑सो॒ विव॑क्षसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

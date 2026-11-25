@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ gíraḥ ← gír- ~ gīr- (nominal stem)
 
 gúhā ← gúhā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा पु॑ना॒न इ॑न्द्र॒युर्मदं॑ मदिष्ठ वी॒तये॑ ।  
+गुहा॑ चिद्दधिषे॒ गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -165,10 +170,6 @@ In just this way, as you are being purified and seeking Indra, for him to  pursu
 you make the hymns, though hidden, your own.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. picks up various expressions from the hymn: índrayúḥ (pāda a) matches up with devayúḥ (1b) and asmayúḥ (1c), thus forming a slight ring. In b mádam … vītáye “(for Indra) to pursue exhilaration / the exhilarating drink” “repairs” the slightly anomalous mádam … kṣara in 2ab (see comm. there) and also echoes 6b mádāya devávītaye. I might therefore alter the tr. to “for him to pursue the exhilarating drink.” See also punānáḥ in pāda a, repeating the same part. in 4c.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/006/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -178,7 +179,6 @@ Note also that in the next hymn (IX.7.4a) Soma the poet clothes himself (vásān
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

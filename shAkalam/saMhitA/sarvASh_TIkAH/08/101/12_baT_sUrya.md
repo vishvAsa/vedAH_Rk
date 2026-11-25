@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -80,7 +81,12 @@ jyótiḥ ← jyótis- (nominal stem)
 
 vibhú ← vibhú- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बट् सू॑र्य॒ श्रव॑सा म॒हाँ अ॑सि स॒त्रा दे॑व म॒हाँ अ॑सि ।  
+म॒ह्ना दे॒वाना॑मसु॒र्यः॑ पु॒रोहि॑तो वि॒भु ज्योति॒रदा॑भ्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “trustworthy; disabused(p).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -225,10 +230,6 @@ Yes indeed! Sūrya, you are great in fame; in every way, god, you  are great.
 Because of his greatness the lordly one was set in front for the gods, as  the extensive undeceivable light.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Presumably the sun’s light is ‘undeceivable’ (adābhyàm) because the sun is witness to everything.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/101/11-12.md">
 <details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -236,7 +237,6 @@ As noted in the published introduction, the banality of these vss. is a surprisi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

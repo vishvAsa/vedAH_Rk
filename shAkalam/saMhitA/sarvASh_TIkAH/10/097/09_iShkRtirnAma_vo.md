@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -80,7 +81,12 @@ nís ← nís (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इष्कृ॑ति॒र्नाम॑ वो मा॒ताथो॑ यू॒यं स्थ॒ निष्कृ॑तीः ।  
+सी॒राः प॑त॒त्रिणीः॑ स्थन॒ यदा॒मय॑ति॒ निष्कृ॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

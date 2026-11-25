@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ yajñaíḥ ← yajñá- (nominal stem)
 
 dhr̥ṣṇvòjasam ← dhr̥ṣṇvòjas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नकि॒ष्टं कर्म॑णा नश॒द्यश्च॒कार॑ स॒दावृ॑धम् ।  
+इन्द्रं॒ न य॒ज्ञैर्वि॒श्वगू॑र्त॒मृभ्व॑स॒मधृ॑ष्टं धृ॒ष्ण्वो॑जसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

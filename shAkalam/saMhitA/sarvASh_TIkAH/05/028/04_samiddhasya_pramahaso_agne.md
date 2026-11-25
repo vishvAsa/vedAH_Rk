@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्ववारात्रेयी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ idhyase ← √idh- 1 (root)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धस्य॒ प्रम॑ह॒सोऽग्ने॒ वन्दे॒ तव॒ श्रिय॑म् ।  
+वृ॒ष॒भो द्यु॒म्नवाँ॑ असि॒ सम॑ध्व॒रेष्वि॑ध्यसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “kindle; ignite; set ablaze.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

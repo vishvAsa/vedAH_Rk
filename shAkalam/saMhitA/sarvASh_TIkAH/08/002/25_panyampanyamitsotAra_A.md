@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ sómam ← sóma- (nominal stem)
 
 vīrā́ya ← vīrá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पन्य॑म्पन्य॒मित्सो॑तार॒ आ धा॑वत॒ मद्या॑य ।  
+सोमं॑ वी॒राय॒ शूरा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “brave; powerful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

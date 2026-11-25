@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -95,7 +96,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vā ← vā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ ह॒ यो वरु॑णा च॒क्र आ॒पी दे॒वौ मर्तः॑ स॒ख्याय॒ प्रय॑स्वान् ।  
+स ह॑न्ति वृ॒त्रा स॑मि॒थेषु॒ शत्रू॒नवो॑भिर्वा म॒हद्भिः॒ स प्र शृ॑ण्वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -276,10 +281,6 @@ Indra and Varuṇa—the mortal who has made the two gods his own  friends for c
 he smashes obstacles and his rivals in clashes; by your great forms of  help he becomes far-famed.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Renou (EVP 7: 75) I take vā in d not as the disjunctive ‘or’, but the enclitic dual 2nd ps. prn. (vā(m)) before m-, though Oldenberg rejects this view. AiG III.477 also takes vā in this passage as the dual enclitic pronoun, but considers the -m-less form historically correct.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/041/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -287,7 +288,6 @@ Note āpa ending 1a matched with āpī́ending 2a. Also the accumulation of -van
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

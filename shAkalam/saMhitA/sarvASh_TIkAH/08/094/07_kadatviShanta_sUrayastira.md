@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "बिन्दुः पूतदक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ tirás ← tirás (invariable)
 
 pūtádakṣasaḥ ← pūtádakṣas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कद॑त्विषन्त सू॒रय॑स्ति॒र आप॑ इव॒ स्रिधः॑ ।  
+अर्ष॑न्ति पू॒तद॑क्षसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “intelligent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -154,7 +159,6 @@ the (Maruts) of refined skill.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -162,7 +166,6 @@ I take the initial kád in both verses as a question particle, introducing a rhe
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

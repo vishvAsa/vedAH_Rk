@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -89,7 +90,12 @@ vikŕ̥tya ← √kr̥t- 1 (root)
 
 viravéṇa ← viravá- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्नापि॑नद्धं॒ मधु॒ पर्य॑पश्य॒न्मत्स्यं॒ न दी॒न उ॒दनि॑ क्षि॒यन्त॑म् ।  
+निष्टज्ज॑भार चम॒सं न वृ॒क्षाद्बृह॒स्पति॑र्विर॒वेणा॑ वि॒कृत्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ jarante ← √gr̥- (root)
 
 samídhā ← samídh- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि चेदु॒च्छन्त्य॑श्विना उ॒षासः॒ प्र वां॒ ब्रह्मा॑णि का॒रवो॑ भरन्ते ।  
+ऊ॒र्ध्वं भा॒नुं स॑वि॒ता दे॒वो अ॑श्रेद्बृ॒हद॒ग्नयः॑ स॒मिधा॑ जरन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “sing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

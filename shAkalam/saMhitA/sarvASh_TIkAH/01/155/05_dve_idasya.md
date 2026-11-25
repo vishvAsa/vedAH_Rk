@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -83,7 +84,12 @@ patáyantaḥ ← √pat- 1 (root)
 
 váyaḥ ← ví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वे इद॑स्य॒ क्रम॑णे स्व॒र्दृशो॑ऽभि॒ख्याय॒ मर्त्यो॑ भुरण्यति ।  
+तृ॒तीय॑मस्य॒ नकि॒रा द॑धर्षति॒ वय॑श्च॒न प॒तय॑न्तः पत॒त्रिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “flying; winged.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

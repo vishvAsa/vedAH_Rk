@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ vā́taḥ ← vā́ta- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो चि॒न्नु वृ॒ष्टिर्यू॒थ्या॒३॒॑ स्वा सचाँ॒ इन्द्रः॒ श्मश्रू॑णि॒ हरि॑ता॒भि प्रु॑ष्णुते ।  
+अव॑ वेति सु॒क्षयं॑ सु॒ते मधूदिद्धू॑नोति॒ वातो॒ यथा॒ वन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -268,7 +274,6 @@ _________
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

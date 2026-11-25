@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ pīparaḥ ← √pr̥- (root)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्त्वा॑ दो॒षा य उ॒षसि॑ प्र॒शंसा॑त्प्रि॒यं वा॑ त्वा कृ॒णव॑ते ह॒विष्मा॑न् ।  
+अश्वो॒ न स्वे दम॒ आ हे॒म्यावा॒न्तमंह॑सः पीपरो दा॒श्वांस॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "निऋतिः सोमश्च"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - निऋतिः सोमश्च
@@ -98,7 +99,12 @@ parātarám ← parātarám (invariable)
 
 sú ← sú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मो षु णः॑ सोम मृ॒त्यवे॒ परा॑ दाः॒ पश्ये॑म॒ नु सूर्य॑मु॒च्चर॑न्तम् ।  
+द्युभि॑र्हि॒तो ज॑रि॒मा सू नो॑ अस्तु परात॒रं सु निरृ॑तिर्जिहीताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “move over; yield; give way.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

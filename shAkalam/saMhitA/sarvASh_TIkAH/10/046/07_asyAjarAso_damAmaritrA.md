@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ vanarṣádaḥ ← vanarṣád- (nominal stem)
 
 vāyávaḥ ← vāyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्याजरा॑सो द॒माम॒रित्रा॑ अ॒र्चद्धू॑मासो अ॒ग्नयः॑ पाव॒काः ।  
+श्वि॒ती॒चयः॑ श्वा॒त्रासो॑ भुर॒ण्यवो॑ वन॒र्षदो॑ वा॒यवो॒ न सोमाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

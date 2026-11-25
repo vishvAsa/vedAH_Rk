@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ santi ← √as- 1 (root)
 
 vácasaḥ ← vácas- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+के ते॑ अग्ने रि॒पवे॒ बन्ध॑नासः॒ के पा॒यवः॑ सनिषन्त द्यु॒मन्तः॑ ।  
+के धा॒सिम॑ग्ने॒ अनृ॑तस्य पान्ति॒ क आस॑तो॒ वच॑सः सन्ति गो॒पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “herder; defender.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

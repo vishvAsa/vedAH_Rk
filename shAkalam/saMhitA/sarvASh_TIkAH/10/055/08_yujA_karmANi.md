@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ nís ← nís (invariable)
 
 yudhā́ ← yúdh- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒जा कर्मा॑णि ज॒नय॑न्वि॒श्वौजा॑ अशस्ति॒हा वि॒श्वम॑नास्तुरा॒षाट् ।  
+पी॒त्वी सोम॑स्य दि॒व आ वृ॑धा॒नः शूरो॒ निर्यु॒धाध॑म॒द्दस्यू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “savage; outcast; mugger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

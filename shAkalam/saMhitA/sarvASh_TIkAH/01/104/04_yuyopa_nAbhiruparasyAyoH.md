@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ páyaḥ ← páyas- (nominal stem)
 
 udábhiḥ ← udán- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒योप॒ नाभि॒रुप॑रस्या॒योः प्र पूर्वा॑भिस्तिरते॒ राष्टि॒ शूरः॑ ।  
+अ॒ञ्ज॒सी कु॑लि॒शी वी॒रप॑त्नी॒ पयो॑ हिन्वा॒ना उ॒दभि॑र्भरन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ abhūvan ← √bhū- (root)
 
 vr̥jinā́ḥ ← vr̥jiná- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॒ङ्ग ज॑रि॒तारं॑ यविष्ठ॒ विश्वा॑न्यग्ने दुरि॒ताति॑ पर्षि ।  
+स्ते॒ना अ॑दृश्रन्रि॒पवो॒ जना॒सोऽज्ञा॑तकेता वृजि॒ना अ॑भूवन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

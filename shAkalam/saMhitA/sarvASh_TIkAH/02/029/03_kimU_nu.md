@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ indrāmarutaḥ ← indrāmarut- (nominal stem)
 
 svastím ← svastí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किमू॒ नु वः॑ कृणवा॒माप॑रेण॒ किं सने॑न वसव॒ आप्ये॑न ।  
+यू॒यं नो॑ मित्रावरुणादिते च स्व॒स्तिमि॑न्द्रामरुतो दधात ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

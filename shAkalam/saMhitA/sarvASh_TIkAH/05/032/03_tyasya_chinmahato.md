@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गातुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ asmāt ← ayám (pronoun)
 
 távyān ← távyaṁs- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्यस्य॑ चिन्मह॒तो निर्मृ॒गस्य॒ वध॑र्जघान॒ तवि॑षीभि॒रिन्द्रः॑ ।  
+य एक॒ इद॑प्र॒तिर्मन्य॑मान॒ आद॑स्माद॒न्यो अ॑जनिष्ट॒ तव्या॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “stronger; rich.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

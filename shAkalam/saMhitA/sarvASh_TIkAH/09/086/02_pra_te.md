@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ mádhumantaḥ ← mádhumant- (nominal stem)
 
 ūrmáyaḥ ← ūrmí- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॒ मदा॑सो मदि॒रास॑ आ॒शवोऽसृ॑क्षत॒ रथ्या॑सो॒ यथा॒ पृथ॑क् ।  
+धे॒नुर्न व॒त्सं पय॑सा॒भि व॒ज्रिण॒मिन्द्र॒मिन्द॑वो॒ मधु॑मन्त ऊ॒र्मयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “wave; billow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -247,10 +252,6 @@ As a milk-cow (goes) to her calf with milk, the drops, the honeyed
 waves (go) to Indra, possessor of the mace.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-It seems a little odd to say that chariot horses go “each separately,” since one would think that the horses would be attached to the same chariot and efficient movement would require them to pull together. But almost the same phrase occurs in X.91.7 … rathyò yáthā pṛ́thak, though there referring to charioteers, and so the words must belong together. Perhaps it refers to separate chariots, each with its own set of horses—or that each horse in a chariot team has its own place in harness and each individually contributes to the speed of the whole?
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -260,7 +261,6 @@ concern the swift journey of the soma drinks, which is compared to that of swift
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

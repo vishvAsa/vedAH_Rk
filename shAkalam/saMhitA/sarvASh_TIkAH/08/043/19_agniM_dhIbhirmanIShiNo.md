@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -51,7 +52,12 @@ admasádyāya ← admasádya- (nominal stem)
 
 hinvire ← √hi- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं धी॒भिर्म॑नी॒षिणो॒ मेधि॑रासो विप॒श्चितः॑ ।  
+अ॒द्म॒सद्या॑य हिन्विरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -105,7 +111,6 @@ _________
 - “impel; send; spur; stimulate; urge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

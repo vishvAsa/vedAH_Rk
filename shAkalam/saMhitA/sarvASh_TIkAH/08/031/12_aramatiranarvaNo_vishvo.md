@@ -4,6 +4,7 @@ devataa = "दंपत्योराशिषः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपत्योराशिषः
@@ -54,7 +55,12 @@ aneháḥ ← anehás- (nominal stem)
 
 ít ← ít (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒रम॑तिरन॒र्वणो॒ विश्वो॑ दे॒वस्य॒ मन॑सा ।  
+आ॒दि॒त्याना॑मने॒ह इत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “indeed; assuredly; entirely.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

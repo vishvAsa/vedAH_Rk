@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -86,7 +87,12 @@ raṇvāḥ ← raṇvá- (nominal stem)
 
 sudíneṣu ← sudína- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ नो वाजा अध्व॒रमृ॑भुक्षा॒ देवा॑ या॒त प॒थिभि॑र्देव॒यानैः॑ ।  
+यथा॑ य॒ज्ञं मनु॑षो वि॒क्ष्वा॒३॒॑सु द॑धि॒ध्वे र॑ण्वाः सु॒दिने॒ष्वह्ना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “day; day; ahar \[word\]; day; day.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

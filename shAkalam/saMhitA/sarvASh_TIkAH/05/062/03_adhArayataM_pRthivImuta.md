@@ -5,13 +5,13 @@ RShiH = "श्रुतिविदात्रेयः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
 - ऋषिः - श्रुतिविदात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -79,7 +79,12 @@ sr̥jatam ← √sr̥j- (root)
 
 vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑रयतं पृथि॒वीमु॒त द्यां मित्र॑राजाना वरुणा॒ महो॑भिः ।  
+व॒र्धय॑त॒मोष॑धीः॒ पिन्व॑तं॒ गा अव॑ वृ॒ष्टिं सृ॑जतं जीरदानू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +201,6 @@ _________
 - “Dānu; dew; drop.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -241,8 +245,6 @@ Ihr machtet fest die Erde und den Himmel mit Macht, o Herrscher Varuna und Mitra
 Умножайте растения, делайте коров набухшими (от молока),  
 Изливайте дождь, о быстродающие!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

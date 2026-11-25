@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रो मुष्कवान्"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ vayám ← ahám (pronoun)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नः॑ क्षु॒मन्तं॒ सद॑ने॒ व्यू॑र्णुहि॒ गोअ॑र्णसं र॒यिमि॑न्द्र श्र॒वाय्य॑म् ।  
+स्याम॑ ते॒ जय॑तः शक्र मे॒दिनो॒ यथा॑ व॒यमु॒श्मसि॒ तद्व॑सो कृधि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ pápriḥ ← pápri- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि द्व॒रो द्व॒रिषु॑ व॒व्र ऊध॑नि च॒न्द्रबु॑ध्नो॒ मद॑वृद्धो मनी॒षिभिः॑ ।  
+इन्द्रं॒ तम॑ह्वे स्वप॒स्यया॑ धि॒या मंहि॑ष्ठरातिं॒ स हि पप्रि॒रन्ध॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “Soma; drink; amṛta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

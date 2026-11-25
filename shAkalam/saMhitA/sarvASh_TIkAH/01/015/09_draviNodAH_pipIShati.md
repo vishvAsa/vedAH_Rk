@@ -4,6 +4,7 @@ devataa = "ऋतवः द्रविणोदाः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतवः द्रविणोदाः
@@ -57,7 +58,12 @@ neṣṭrā́t ← neṣṭrá- (nominal stem)
 
 r̥túbhiḥ ← r̥tú- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्र॒वि॒णो॒दाः पि॑पीषति जु॒होत॒ प्र च॑ तिष्ठत ।  
+ने॒ष्ट्रादृ॒तुभि॑रिष्यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “send.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

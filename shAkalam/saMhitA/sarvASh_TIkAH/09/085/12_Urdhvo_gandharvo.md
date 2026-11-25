@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ ródasī ← ródasī- (nominal stem)
 
 śúciḥ ← śúci- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वो ग॑न्ध॒र्वो अधि॒ नाके॑ अस्था॒द्विश्वा॑ रू॒पा प्र॑ति॒चक्षा॑णो अस्य ।  
+भा॒नुः शु॒क्रेण॑ शो॒चिषा॒ व्य॑द्यौ॒त्प्रारू॑रुच॒द्रोद॑सी मा॒तरा॒ शुचिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     impeccant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -250,12 +255,6 @@ Radiance has flashed forth with blazing blaze; the blazing one has
 made the two world-halves, the mothers, shine forth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This final vs. is esp. close in phraseology to the Vena hymn, with pāda a identical to X.123.7a and pāda c almost identical to X.123.8c. Note also that ádhi nā́ke asthāt unites ádhi ... asthāt of our 9a and nā́ke of our 10a.
-
-Geldner takes the part. praticákṣāṇaḥ as transitive/causative “seine Farben alle offenbarend” (though he questions this in n. 12b); sim. Ober (II.13) “erscheinen lassend.” Renou’s tr. is like mine (“regardant-en-face toutes les formes siennes”), although in his n. he considers the opposite possibility, citing passages with práti √cakṣ that supposedly have this transitive sense. But his exx. are not probative, and the middle voice of the participle makes it esp. unlikely to have this sense.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
 <details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -263,7 +262,6 @@ As noted in the published introduction, these four vss. treat the identification
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

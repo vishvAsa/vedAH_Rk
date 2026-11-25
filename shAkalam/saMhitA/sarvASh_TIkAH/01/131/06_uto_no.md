@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -122,7 +123,13 @@ návīyasaḥ ← návīyaṁs- (nominal stem)
 
 śrudhi ← √śru- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तो नो॑ अ॒स्या उ॒षसो॑ जु॒षेत॒ ह्य१॒॑र्कस्य॑ बोधि ह॒विषो॒ हवी॑मभिः॒ स्व॑र्षाता॒ हवी॑मभिः ।  
+यदि॑न्द्र॒ हन्त॑वे॒ मृधो॒ वृषा॑ वज्रि॒ञ्चिके॑तसि ।  
+आ मे॑ अ॒स्य वे॒धसो॒ नवी॑यसो॒ मन्म॑ श्रुधि॒ नवी॑यसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -308,7 +315,6 @@ _________
 - “new; fresh; up-to-the-minute.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

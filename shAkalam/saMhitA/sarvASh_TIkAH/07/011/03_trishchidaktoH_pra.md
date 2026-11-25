@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ dūtáḥ ← dūtá- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिश्चि॑द॒क्तोः प्र चि॑कितु॒र्वसू॑नि॒ त्वे अ॒न्तर्दा॒शुषे॒ मर्त्या॑य ।  
+म॒नु॒ष्वद॑ग्न इ॒ह य॑क्षि दे॒वान्भवा॑ नो दू॒तो अ॑भिशस्ति॒पावा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “protecting.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

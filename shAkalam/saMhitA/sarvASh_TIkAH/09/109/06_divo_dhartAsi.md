@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -55,7 +56,11 @@ vājī́ ← vājín- (nominal stem)
 
 vídharman ← vídharman- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो ध॒र्तासि॑ शु॒क्रः पी॒यूषः॑ स॒त्ये विध॑र्मन्वा॒जी प॑वस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +124,6 @@ _________
 - “purify; filter; blow; purify; purge; sift.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -145,10 +149,6 @@ _________
 You are the supporter of heaven, the gleaming beestings. In your real  expansion, as prizewinner purify yourself.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On Soma’s expansion (vídharmaṇ(i) see comm. ad IX.4.9, 64.9.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -156,7 +156,6 @@ All three vss. contain the impv. pavasva. Vss. 5-6 both contain śukrá-, also f
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

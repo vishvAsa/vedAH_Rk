@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ vām ← tvám (pronoun)
 
 vidhaté ← √vidh- (root)  
 {case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं वन्द॑नं॒ निरृ॑तं जर॒ण्यया॒ रथं॒ न द॑स्रा कर॒णा समि॑न्वथः ।  
+क्षेत्रा॒दा विप्रं॑ जनथो विप॒न्यया॒ प्र वा॒मत्र॑ विध॒ते दं॒सना॑ भुवत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ saúbhagā ← saúbhaga- (nominal stem)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते अ॑सृग्र॒मिन्द॑वस्ति॒रः प॒वित्र॑मा॒शवः॑ ।  
+विश्वा॑न्य॒भि सौभ॑गा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “well-being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -152,7 +157,6 @@ toward all gifts of good fortune.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -162,7 +166,6 @@ kṛṇvántaḥ and datives of benefit.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ girā́ ← gír- ~ gīr- (nominal stem)
 
 vā ← vā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अ॒ग्निं ह॒व्यदा॑तिभि॒र्नमो॑भिर्वा सु॒दक्ष॑मा॒विवा॑सति ।  
+गि॒रा वा॑जि॒रशो॑चिषम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “fire; flare; burn; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

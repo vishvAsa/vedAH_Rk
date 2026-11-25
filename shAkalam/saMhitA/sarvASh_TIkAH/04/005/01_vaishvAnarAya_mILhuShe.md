@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -80,7 +81,12 @@ stabhāyat ← √stambhⁱ- (root)
 
 upamít ← upamít- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वै॒श्वा॒न॒राय॑ मी॒ळ्हुषे॑ स॒जोषाः॑ क॒था दा॑शेमा॒ग्नये॑ बृ॒हद्भाः ।  
+अनू॑नेन बृह॒ता व॒क्षथे॒नोप॑ स्तभायदुप॒मिन्न रोधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “shore; bank; slope; wall.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

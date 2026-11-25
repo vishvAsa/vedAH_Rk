@@ -4,6 +4,7 @@ devataa = "विश्वेदेवा ऋत्विजो वा"
 RShiH = "बुधः सौम्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -68,7 +69,12 @@ vayám ← ahám (pronoun)
 
 suṣékam ← suṣéka- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+निरा॑हा॒वान्कृ॑णोतन॒ सं व॑र॒त्रा द॑धातन ।  
+सि॒ञ्चाम॑हा अव॒तमु॒द्रिणं॑ व॒यं सु॒षेक॒मनु॑पक्षितम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - \[verb noun\], accusative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

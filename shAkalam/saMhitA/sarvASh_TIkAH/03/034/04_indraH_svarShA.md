@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ jyótiḥ ← jyótis- (nominal stem)
 
 ráṇāya ← ráṇa- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रः॑ स्व॒र्षा ज॒नय॒न्नहा॑नि जि॒गायो॒शिग्भिः॒ पृत॑ना अभि॒ष्टिः ।  
+प्रारो॑चय॒न्मन॑वे के॒तुमह्ना॒मवि॑न्द॒ज्ज्योति॑र्बृह॒ते रणा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “battle; fight; pleasure; joy; war; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

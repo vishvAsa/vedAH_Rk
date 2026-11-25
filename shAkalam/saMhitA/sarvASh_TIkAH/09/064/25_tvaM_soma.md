@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ vā́cam ← vā́c- (nominal stem)
 
 sahásrabharṇasam ← sahásrabharṇas- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं सो॑म विप॒श्चितं॑ पुना॒नो वाच॑मिष्यसि ।  
+इन्दो॑ स॒हस्र॑भर्णसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +121,6 @@ _________
 - \[noun\], accusative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -148,7 +153,6 @@ and brings a thousand presents, o drop.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -157,7 +161,6 @@ The unusual acc. expression vā́cam … sahásrabharṇasam is found in both 25
 contain the nom. sg. masc. punānáḥ.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

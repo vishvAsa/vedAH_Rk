@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ nŕ̥bhiḥ ← nár- (nominal stem)
 
 vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दु॒हा॒न ऊध॑र्दि॒व्यं मधु॑ प्रि॒यं प्र॒त्नं स॒धस्थ॒मास॑दत् ।  
+आ॒पृच्छ्यं॑ ध॒रुणं॑ वा॒ज्य॑र्षति॒ नृभि॑र्धू॒तो वि॑चक्ष॒णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -215,10 +220,6 @@ The prizewinner rushes to the support worthy of the asking, the
 wide-gazing one rinsed by men.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Grassmann, Geldner, Renou all take dhūtáḥ to √dhū ‘shake’, but given apsú dhūtá- in IX.62.5, X.104.2, I prefer √dhū, dhāv ‘rinse’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -226,7 +227,6 @@ Both vss. describing Soma taking his seat (4c, 5b). There is also concatenation 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

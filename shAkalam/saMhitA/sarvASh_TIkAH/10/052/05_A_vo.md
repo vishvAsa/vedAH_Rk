@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अग्निः सौचीकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ pŕ̥tanāḥ ← pŕ̥tanā- (nominal stem)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वो॑ यक्ष्यमृत॒त्वं सु॒वीरं॒ यथा॑ वो देवा॒ वरि॑वः॒ करा॑णि ।  
+आ बा॒ह्वोर्वज्र॒मिन्द्र॑स्य धेया॒मथे॒मा विश्वाः॒ पृत॑ना जयाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

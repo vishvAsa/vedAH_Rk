@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -95,7 +96,12 @@ tújaye ← túji- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं पि॒तेव॑ वेत॒सूँर॒भिष्ट॑ये॒ तुग्रं॒ कुत्सा॑य॒ स्मदि॑भं च रन्धयम् ।  
+अ॒हं भु॑वं॒ यज॑मानस्य रा॒जनि॒ प्र यद्भरे॒ तुज॑ये॒ न प्रि॒याधृषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “overcome; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

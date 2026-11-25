@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "उरुक्षय आमहीयवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -54,7 +55,12 @@ saparyata ← √sapary- (root)
 
 gr̥hápatim ← gr̥hápati- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं म॑र्ता॒ अम॑र्त्यं घृ॒तेना॒ग्निं स॑पर्यत ।  
+अदा॑भ्यं गृ॒हप॑तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +122,6 @@ _________
 - “gṛhapati \[word\]; Gṛhastha.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

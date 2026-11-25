@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -95,7 +96,12 @@ pīpáyan ← √pī- 1 (root)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता हि दे॒वाना॒मसु॑रा॒ ताव॒र्या ता नः॑ क्षि॒तीः क॑रतमू॒र्जय॑न्तीः ।  
+अ॒श्याम॑ मित्रावरुणा व॒यं वां॒ द्यावा॑ च॒ यत्र॑ पी॒पय॒न्नहा॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

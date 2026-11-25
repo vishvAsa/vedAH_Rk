@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -107,7 +108,12 @@ nidháyaḥ ← nidhí- (nominal stem)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा वां॒ वृको॒ मा वृ॒कीरा द॑धर्षी॒न्मा परि॑ वर्क्तमु॒त माति॑ धक्तम् ।  
+अ॒यं वां॑ भा॒गो निहि॑त इ॒यं गीर्दस्रा॑वि॒मे वां॑ नि॒धयो॒ मधू॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -269,7 +275,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

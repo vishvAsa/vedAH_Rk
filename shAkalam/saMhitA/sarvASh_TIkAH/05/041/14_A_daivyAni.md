@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ udā́ ← úd- (nominal stem)
 
 vardhantām ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ दैव्या॑नि॒ पार्थि॑वानि॒ जन्मा॒पश्चाच्छा॒ सुम॑खाय वोचम् ।  
+वर्ध॑न्तां॒ द्यावो॒ गिर॑श्च॒न्द्राग्रा॑ उ॒दा व॑र्धन्ताम॒भिषा॑ता॒ अर्णाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “wave; flood.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

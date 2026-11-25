@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ pátiḥ ← páti- (nominal stem)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सूर्य॑स्य र॒श्मिभिः॒ परि॑ व्यत॒ तन्तुं॑ तन्वा॒नस्त्रि॒वृतं॒ यथा॑ वि॒दे ।  
+नय॑न्नृ॒तस्य॑ प्र॒शिषो॒ नवी॑यसीः॒ पति॒र्जनी॑ना॒मुप॑ याति निष्कृ॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “place; rendezvous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,12 +253,6 @@ He has enveloped himself with the rays of the sun, stretching his own  threefold
 Leading the newer directives of truth, as a husband he proceeds to the  rendezvous with his wives.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although the standard interpr. of yáthā vidé here makes Soma subj. of the verb (e.g., Geldner “wie er es versteht”), pāda-final yáthā vidé is a common tag (I.127.4, 132.2, etc.) with a passive reading of the verb: “as is known, in the way that is known.” The “directives of truth” (ṛtásya praśíṣaḥ) are convincingly identified as the hymns by Lüders (469-70), as the adj. návīyas-, a standard descriptor of hymns in the fem., suggests.
-
-I assume that the “threefold thread” (tántum … trivṛtám) refers to the three soma pressings.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/31-33.md">
 <details><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -265,7 +264,6 @@ As for external connections, GEN niṣkṛtám √yā in 32d is found also in 7b
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "वाक्"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -83,7 +84,12 @@ palastijamadagnáyaḥ ← palastijamadagní- (nominal stem)
 
 yā́m ← yá- (pronoun)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒स॒र्प॒रीर॑भर॒त्तूय॑मे॒भ्योऽधि॒ श्रवः॒ पाञ्च॑जन्यासु कृ॒ष्टिषु॑ ।  
+सा प॒क्ष्या॒३॒॑ नव्य॒मायु॒र्दधा॑ना॒ यां मे॑ पलस्तिजमद॒ग्नयो॑ द॒दुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -240,14 +245,6 @@ having taken on new life (like Dawn, though) in her winglessness, she  whom the 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Besides the continuing problem of sasarparī́-, the other difficulty is the hapax pakṣyā̀in c. Grassmann takes it as ‘aus Monatshälften bestehend’ (flg. BR), Geldner (/Witzel Gotō) ‘auf meiner Seite stehend’, Renou as ‘ailée’ or ‘prenant parti (pour moi)’. The published translation
-
-strikes out on its own (though closest to Renou’s first alternative). It involves reading sā́pakṣyā̀against the Pp (but involving no change in the Saṃhitā text), to be divided sā́apakṣyā̀. The latter would be the instr. of a nominal abstract in - i yā- (see AiG II.2.840), a rare but attested type built primarily to -a-stems. Here potentially to apakṣá- ‘wingless’ (cf. AV XI.5.21), hence ‘winglessness’. What might this bizarre confection have to do with the passage? The rather flimsy connection is via the daughter of the Sun (sū́ryasya duhitā́in 15c) and a possible reference to Dawn in 16c: the same phrase návyam ā́yur dádhānā is used of Dawn in VII.80.2). (Like) the former, Sasarparī has stretched the Kuśikas’ fame to the gods; (like) the latter, she has brought fame to all the five peoples. These feats might be expected to require special forms of transport, such as wings, if the agent is not a supernatural traveler like Dawn or the Sun’s Daughter. But Sasarparī is a cow, hence wingless.
-
-I realize how fragile -- and potentially ludicrous -- this suggestion is, however, and it might be better to play it safe with something like ‘on my side’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/15-16.md">
 <details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -266,7 +263,6 @@ The next question to ask is why Sasarparī “banishes neglect” (ámatim bā́
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

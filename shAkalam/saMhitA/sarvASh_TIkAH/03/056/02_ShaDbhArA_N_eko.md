@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ gúhā ← gúhā (invariable)
 
 níhite ← √dhā- 1 (root)  
 {case:NOM, gender:F, number:DU, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+षड्भा॒राँ एको॒ अच॑रन्बिभर्त्यृ॒तं वर्षि॑ष्ठ॒मुप॒ गाव॒ आगुः॑ ।  
+ति॒स्रो म॒हीरुप॑रास्तस्थु॒रत्या॒ गुहा॒ द्वे निहि॑ते॒ दर्श्येका॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
     consistent; any(a); undifferentiated; disjunct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

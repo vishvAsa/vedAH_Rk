@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -86,7 +87,12 @@ ruvát ← √rū- (root)
 
 ukṣā́ ← ukṣán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒ही द्यावा॑पृथि॒वी इ॒ह ज्येष्ठे॑ रु॒चा भ॑वतां शु॒चय॑द्भिर॒र्कैः ।  
+यत्सीं॒ वरि॑ष्ठे बृह॒ती वि॑मि॒न्वन्रु॒वद्धो॒क्षा प॑प्रथा॒नेभि॒रेवैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “eva \[word\]; habit; manner; behavior; custom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

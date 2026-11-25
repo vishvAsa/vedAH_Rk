@@ -4,6 +4,7 @@ devataa = "इषुधिः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इषुधिः
@@ -86,7 +87,12 @@ prásūtaḥ ← √sū- 1 (root)
 
 pr̥ṣṭhé ← pr̥ṣṭhá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब॒ह्वी॒नां पि॒ता ब॒हुर॑स्य पु॒त्रश्चि॒श्चा कृ॑णोति॒ सम॑नाव॒गत्य॑ ।  
+इ॒षु॒धिः सङ्काः॒ पृत॑नाश्च॒ सर्वाः॑ पृ॒ष्ठे निन॑द्धो जयति॒ प्रसू॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “give birth; be born; originate; impel; propel; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

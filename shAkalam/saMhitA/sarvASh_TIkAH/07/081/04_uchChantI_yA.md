@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ sūnávaḥ ← sūnú- (nominal stem)
 
 syā́ma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒च्छन्ती॒ या कृ॒णोषि॑ मं॒हना॑ महि प्र॒ख्यै दे॑वि॒ स्व॑र्दृ॒शे ।  
+तस्या॑स्ते रत्न॒भाज॑ ईमहे व॒यं स्याम॑ मा॒तुर्न सू॒नवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “son; offspring.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्टको वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ namasyā́ḥ ← namasyā́- (nominal stem)
 
 pananta ← √panⁱ- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्र॑वाजमभिमाति॒षाहं॑ सु॒तेर॑णं म॒घवा॑नं सुवृ॒क्तिम् ।  
+उप॑ भूषन्ति॒ गिरो॒ अप्र॑तीत॒मिन्द्रं॑ नम॒स्या ज॑रि॒तुः प॑नन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - \[verb\], plural, Present injunctive
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

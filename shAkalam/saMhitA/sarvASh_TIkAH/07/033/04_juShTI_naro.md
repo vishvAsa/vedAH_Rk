@@ -4,6 +4,7 @@ devataa = "वसिष्ठपुत्राः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वसिष्ठपुत्राः
@@ -86,7 +87,12 @@ yát ← yá- (pronoun)
 
 vasiṣṭhāḥ ← vásiṣṭha- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जुष्टी॑ नरो॒ ब्रह्म॑णा वः पितॄ॒णामक्ष॑मव्ययं॒ न किला॑ रिषाथ ।  
+यच्छक्व॑रीषु बृह॒ता रवे॒णेन्द्रे॒ शुष्म॒मद॑धाता वसिष्ठाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

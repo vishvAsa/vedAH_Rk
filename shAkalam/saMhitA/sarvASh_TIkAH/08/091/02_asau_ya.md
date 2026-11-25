@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अपालात्रेयी"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -73,7 +74,12 @@ apūpávantam ← apūpávant- (nominal stem)
 
 ukthínam ← ukthín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒सौ य एषि॑ वीर॒को गृ॒हङ्गृ॑हं वि॒चाक॑शद् ।  
+इ॒मं जम्भ॑सुतं पिब धा॒नाव॑न्तं कर॒म्भिण॑मपू॒पव॑न्तमु॒क्थिन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “laudatory.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

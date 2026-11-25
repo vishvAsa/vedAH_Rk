@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -58,7 +59,11 @@ síndhuḥ ← síndhu- (nominal stem)
 
 varāte ← √vr̥- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्यो॒ नाज्म॒न्त्सर्ग॑प्रतक्तः॒ सिन्धु॒र्न क्षोदः॒ क ईं॑ वराते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +137,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -151,10 +155,6 @@ Like a steed on its course, launched in a surge,
 like a river (sending) its gush: who can obstruct him?
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The construction of síndhur ná kṣódaḥ is clarified by its occurrences in the next hymn, I.66.10 síndhur ná kṣódaḥ prá nī́cīr ainot “Like a river its gush, he has sent forth those [=butter offerings?] heading downward.” Hence the “(sending)” supplied here.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -162,7 +162,6 @@ The similes continue in these verses, but with less strict parallelism in struct
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

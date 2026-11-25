@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ suvī́raḥ ← suvī́ra- (nominal stem)
 
 ucyase ← √vac- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नय॒सीद्वति॒ द्विषः॑ कृ॒णोष्यु॑क्थशं॒सिनः॑ ।  
+नृभिः॑ सु॒वीर॑ उच्यसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

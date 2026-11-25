@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -95,7 +96,12 @@ iva ← iva (invariable)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+राज्ञो॒ नु ते॒ वरु॑णस्य व्र॒तानि॑ बृ॒हद्ग॑भी॒रं तव॑ सोम॒ धाम॑ ।  
+शुचि॒ष्ट्वम॑सि प्रि॒यो न मि॒त्रो द॒क्षाय्यो॑ अर्य॒मेवा॑सि सोम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ nís ← nís (invariable)
 
 vr̥trám ← vr̥trá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वष्टा॒ यद्वज्रं॒ सुकृ॑तं हिर॒ण्ययं॑ स॒हस्र॑भृष्टिं॒ स्वपा॒ अव॑र्तयत् ।  
+ध॒त्त इन्द्रो॒ नर्यपां॑सि॒ कर्त॒वेऽह॑न्वृ॒त्रं निर॒पामौ॑ब्जदर्ण॒वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - “wave; flood.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

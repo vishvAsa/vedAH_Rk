@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ sám ← sám (invariable)
 
 tiṣṭha ← √sthā- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथाप॑वथा॒ मन॑वे वयो॒धा अ॑मित्र॒हा व॑रिवो॒विद्ध॒विष्मा॑न् ।  
+ए॒वा प॑वस्व॒ द्रवि॑णं॒ दधा॑न॒ इन्द्रे॒ सं ति॑ष्ठ ज॒नयायु॑धानि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “weapon; āyudha \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -239,12 +244,6 @@ Even as you purified yourself for Manu, as conferrer of vitality, smiter  of foe
 just so purify yourself now, conferring wealth. Stand side-by-side by  Indra. Generate weapons.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As pointed out in the published introduction, this vs. is strongly marked as a hymnfinal vs., with complementary yáthā ‘even as’ (ab) and evā́‘in just this way’ (cd) clauses, bringing this 4-versed hymn to a close. The matches between clauses are more expicit than in some such structures: the two finite verbs, impf. ápavathāḥ and impv. pavasva, match exactly save for tense/mood, and the root noun cmpd. vayodhā́ḥ of pāda a is recast as a syntagm dráviṇaṃ dádhānaḥ in c with the same root √dhā.
-
-The final pāda consists of two brief clauses, both somewhat aberrant. The first contains an idiom I have not found elsewhere, sám √sthā + LOC. My tr., “stand sideby-side by Indra,” is meant to capture this slightly off expression. The second clause, “beget/generate weapons,” is syntactically fine but semantically odd.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -252,7 +251,6 @@ The first vs. of the new hymn (13a) begins pávasva (see also pavasva in 14a), j
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

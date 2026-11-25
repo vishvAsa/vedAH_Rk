@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ diví ← dyú- ~ div- (nominal stem)
 
 spr̥śanti ← √spr̥ś- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र त्वा॑ दू॒तं वृ॑णीमहे॒ होता॑रं वि॒श्ववे॑दसम् ।  
+म॒हस्ते॑ स॒तो वि च॑रन्त्य॒र्चयो॑ दि॒वि स्पृ॑शन्ति भा॒नवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
     copper; light; twelve; appearance; Bhānu; flare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

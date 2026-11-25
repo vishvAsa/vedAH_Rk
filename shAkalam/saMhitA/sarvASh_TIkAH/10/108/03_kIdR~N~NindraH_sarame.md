@@ -4,6 +4,7 @@ devataa = "सरमा"
 RShiH = "पणयोसुराः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरमा
@@ -95,7 +96,12 @@ gópatiḥ ← gópati- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+की॒दृङ्ङिन्द्रः॑ सरमे॒ का दृ॑शी॒का यस्ये॒दं दू॒तीरस॑रः परा॒कात् ।  
+आ च॒ गच्छा॑न्मि॒त्रमे॑ना दधा॒माथा॒ गवां॒ गोप॑तिर्नो भवाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

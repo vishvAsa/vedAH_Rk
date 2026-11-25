@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -61,7 +62,12 @@ sūríbhiḥ ← sūrí- (nominal stem)
 
 suśármabhiḥ ← suśárman- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वेभि॑र्देव्यदि॒तेऽरि॑ष्टभर्म॒न्ना ग॑हि ।  
+स्मत्सू॒रिभिः॑ पुरुप्रिये सु॒शर्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “protection; protective covering; refuge; joy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

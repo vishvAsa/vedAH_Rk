@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ samānéna ← samāná- (nominal stem)
 
 saṁvidāné ← √vid- 2 (root)  
 {case:NOM, gender:F, number:DU, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒विर्नृ॒चक्षा॑ अ॒भि षी॑मचष्ट ऋ॒तस्य॒ योना॒ विघृ॑ते॒ मद॑न्ती ।  
+नाना॑ चक्राते॒ सद॑नं॒ यथा॒ वेः स॑मा॒नेन॒ क्रतु॑ना संविदा॒ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “agree; know; match; recognize.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

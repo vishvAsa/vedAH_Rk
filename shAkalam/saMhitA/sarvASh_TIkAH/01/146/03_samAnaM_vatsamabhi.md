@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ maháḥ ← máh- (nominal stem)
 
 víśvān ← víśva- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मा॒नं व॒त्सम॒भि सं॒चर॑न्ती॒ विष्व॑ग्धे॒नू वि च॑रतः सु॒मेके॑ ।  
+अ॒न॒प॒वृ॒ज्याँ अध्व॑नो॒ मिमा॑ने॒ विश्वा॒न्केताँ॒ अधि॑ म॒हो दधा॑ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

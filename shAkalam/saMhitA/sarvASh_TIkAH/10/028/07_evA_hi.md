@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "ऐन्द्रो वसुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ vam ← √vr̥- (root)
 
 vrajám ← vrajá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा हि मां त॒वसं॑ ज॒ज्ञुरु॒ग्रं कर्म॑न्कर्म॒न्वृष॑णमिन्द्र दे॒वाः ।  
+वधीं॑ वृ॒त्रं वज्रे॑ण मन्दसा॒नोऽप॑ व्र॒जं म॑हि॒ना दा॒शुषे॑ वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

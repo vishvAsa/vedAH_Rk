@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋणंचयः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ dáṁsasā ← dáṁsas- (nominal stem)
 
 tridhā́tu ← tridhā́tu- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॒ वि ज॑ज्ञे ज॒नय॒न्नम॑र्त्यः प्र॒तप॒ञ्ज्योति॑षा॒ तमः॑ ।  
+स सुष्टु॑तः क॒विभि॑र्नि॒र्णिजं॑ दधे त्रि॒धात्व॑स्य॒ दंस॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - \[noun\], instrumental, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -233,10 +238,6 @@ The bull has been born, the immortal that gives birth, burning away the  darknes
 Well-praised by the poets, he dons his raiment, a threefold one, by his  wondrous ability.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the “threefold” (tridhā́tu) nature of Soma’s clothing, see comm. ad IX.70.8.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/11-12.md">
 <details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -244,7 +245,6 @@ These two vss. are syntactically independent but both concern Soma as bull (vṛ
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

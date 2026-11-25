@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -55,7 +56,11 @@ préṣṭhaḥ ← préṣṭha- (nominal stem)
 
 stómaḥ ← stóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवी॑न्नो अ॒ग्निर्ह॒व्यान्नमो॑भिः॒ प्रेष्ठो॑ अस्मा अधायि॒ स्तोमः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +125,6 @@ _________
 - “hymn; Stoma; stoma \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

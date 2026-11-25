@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -80,7 +81,12 @@ anehásam ← anehás- (nominal stem)
 
 suprátūrtim ← suprátūrti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वा॒घते॒ ददा॑ति सू॒नरं॒ वसु॒ स ध॑त्ते॒ अक्षि॑ति॒ श्रवः॑ ।  
+तस्मा॒ इळां॑ सु॒वीरा॒मा य॑जामहे सु॒प्रतू॑र्तिमने॒हस॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “faultless; anehas \[word\]; incomparable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

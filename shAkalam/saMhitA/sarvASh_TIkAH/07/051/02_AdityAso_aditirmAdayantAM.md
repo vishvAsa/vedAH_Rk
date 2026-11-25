@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -80,7 +81,12 @@ píbantu ← √pā- 2 (root)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒दि॒त्यासो॒ अदि॑तिर्मादयन्तां मि॒त्रो अ॑र्य॒मा वरु॑णो॒ रजि॑ष्ठाः ।  
+अ॒स्माकं॑ सन्तु॒ भुव॑नस्य गो॒पाः पिब॑न्तु॒ सोम॒मव॑से नो अ॒द्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “now; today; then; nowadays; adya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

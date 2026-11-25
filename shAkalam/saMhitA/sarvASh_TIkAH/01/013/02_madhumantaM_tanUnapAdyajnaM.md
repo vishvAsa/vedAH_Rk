@@ -4,6 +4,7 @@ devataa = "तनूनपात्"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तनूनपात्
@@ -57,7 +58,12 @@ kr̥ṇuhi ← √kr̥- (root)
 
 vītáye ← vītí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मधु॑मन्तं तनूनपाद्य॒ज्ञं दे॒वेषु॑ नः कवे ।  
+अ॒द्या कृ॑णुहि वी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - \[noun\], dative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

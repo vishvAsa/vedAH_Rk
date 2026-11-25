@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पर्वतनारदौ द्वे शिखंडिन्यौ वा काश्यप्यावप्सरसौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ dvíśavasam ← dvíśavas- (nominal stem)
 
 mádam ← máda- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समी॑ व॒त्सं न मा॒तृभिः॑ सृ॒जता॑ गय॒साध॑नम् ।  
+दे॒वा॒व्यं१॒॑ मद॑म॒भि द्विश॑वसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

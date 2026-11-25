@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 vidúṣṭaraḥ ← vidúṣṭara- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वेर॑ध्व॒रस्य॑ दू॒त्या॑नि वि॒द्वानु॒भे अ॒न्ता रोद॑सी संचिकि॒त्वान् ।  
+दू॒त ई॑यसे प्र॒दिव॑ उरा॒णो वि॒दुष्ट॑रो दि॒व आ॒रोध॑नानि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - \[noun\], accusative, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -201,10 +206,6 @@ You, as the knowing one, pursue your missions for the ceremony  between the two 
 You speed as the messenger chosen from of old, since you know better  the means of ascending to heaven.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The VP √vid āródhanaṃ diváḥ (a variant of our vidúṣṭaro divá āródhanāni) occurs in the next hymn, IV.8.2, 4, assuring that the acc. here is governed by the comparative to the pf. part. vidúṣṭara-. With most (though not Grassmann, Witzel Gotō) I take āródhana- as belonging with √ruh ‘climb’ (/√rudh ‘grow’), not √rudh ‘obstruct’. On the difficulties in sorting out these roots, see EWA s.v. RODH2 .
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/007/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -216,7 +217,6 @@ The near repetition of the VP in 8a also clarifies the construction of the verb 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

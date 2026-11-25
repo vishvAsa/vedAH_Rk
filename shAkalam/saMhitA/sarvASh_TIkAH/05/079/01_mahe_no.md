@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -79,7 +80,12 @@ vāyyé ← vāyyá- (nominal stem)
 
 sújāte ← sujātá- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हे नो॑ अ॒द्य बो॑ध॒योषो॑ रा॒ये दि॒वित्म॑ती ।  
+यथा॑ चिन्नो॒ अबो॑धयः स॒त्यश्र॑वसि वा॒य्ये सुजा॑ते॒ अश्व॑सूनृते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “big; friendly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -223,12 +228,6 @@ just as you also awakened us at Satyaśravas Vāyya’s
 – o well-born lady, liberal with horses.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The phrase mahé … rāyé divítmatī is very reminiscent of IV.31.11 mahó rāyé divítmate, with an adverbial maháḥ but a dat. divítmate modifying rāyé. See comm. ad loc. It seems likely that our fem. divítmatī is a nonce adaptation to the fem.
-
-context. As for divítmant-, I now tentatively accept the analysis of divít- as containing the root noun -i-t- and would alter the tr. to “as one coming from heaven” or “as heaven-sent one.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -238,7 +237,6 @@ attributes the hymn to Satyaśravas Ātreya, but as Geldner points out [n. 1d] h
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

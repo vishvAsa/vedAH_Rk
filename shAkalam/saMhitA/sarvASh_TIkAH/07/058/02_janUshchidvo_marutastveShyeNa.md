@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ víśvaḥ ← víśva- (nominal stem)
 
 yā́man ← yā́man- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज॒नूश्चि॑द्वो मरुतस्त्वे॒ष्ये॑ण॒ भीमा॑स॒स्तुवि॑मन्य॒वोऽया॑सः ।  
+प्र ये महो॑भि॒रोज॑सो॒त सन्ति॒ विश्वो॑ वो॒ याम॑न्भयते स्व॒र्दृक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “seeing; knowing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

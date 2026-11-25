@@ -4,6 +4,7 @@ devataa = "उर्वशी"
 RShiH = "पुरूरवा ऐळः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उर्वशी
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 úrā ← úran- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इषु॒र्न श्रि॒य इ॑षु॒धेर॑स॒ना गो॒षाः श॑त॒सा न रंहिः॑ ।  
+अ॒वीरे॒ क्रतौ॒ वि द॑विद्युत॒न्नोरा॒ न मा॒युं चि॑तयन्त॒ धुन॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “deafening; boisterous; noisy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

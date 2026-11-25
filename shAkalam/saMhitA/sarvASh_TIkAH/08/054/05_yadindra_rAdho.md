@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ dānā́ya ← dāná- (nominal stem)
 
 vr̥trahan ← vr̥trahán- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑न्द्र॒ राधो॒ अस्ति॑ ते॒ माघो॑नं मघवत्तम ।  
+तेन॑ नो बोधि सध॒माद्यो॑ वृ॒धे भगो॑ दा॒नाय॑ वृत्रहन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “Indra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

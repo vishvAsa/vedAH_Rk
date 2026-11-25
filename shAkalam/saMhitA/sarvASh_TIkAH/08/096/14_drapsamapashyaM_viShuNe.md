@@ -4,6 +4,7 @@ devataa = "इन्द्रः;इन्द्रः~मरुतः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः;इन्द्रः~मरुतः
@@ -80,7 +81,12 @@ vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 yúdhyata ← √yudh- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्र॒प्सम॑पश्यं॒ विषु॑णे॒ चर॑न्तमुपह्व॒रे न॒द्यो॑ अंशु॒मत्याः॑ ।  
+नभो॒ न कृ॒ष्णम॑वतस्थि॒वांस॒मिष्या॑मि वो वृषणो॒ युध्य॑ता॒जौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “battle; fight; contest; āji \[word\]; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -238,14 +243,6 @@ descending like a black cloud.
 I dispatch you, bulls. Fight in the contest.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The final word in a, enā, is taken as enāḥ by the Pp., a reading followed by Grassmann, Geldner, Oldenberg, and Lubotsky; in this interpretation it modifies or doubles (since ena- is a pronominal, not an adjectival demonstrative stem) fem. acc. pl. púraḥ earlier in the pāda. I do not rule this out, but wonder whether it can be the enclitic instr. sg. enā to ayám in the meaning ‘in that way, i.e., how’. See enā ‘thereby’ in V.2.11, in addition to personal uses (‘with him’) in IX.96.2, X.108.3.
-
-Pāda b collects several words that have been prominent in the characterization of Indra earlier in the hymn: ójasā (ójiṣṭham 10d), śaviṣṭha (śavasas pate 6b, śávasā 9c), and śakra (śakra 4a). It is esp. clever that the grammatical identities of the first two terms have been switched: s-stem instr. to superlative and vice versa.
-
-Note that though cd forms a single clause with two different subjects (“all the worlds” and “heaven and earth”), the dual verb rejete agrees with the nearer one, the decomposed dual dvandva dyā́vā … pṛthivī́ca.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/14-15.md">
 <details><summary><h2>14-15 ...{Loading}...</h2></summary>
 
@@ -268,7 +265,6 @@ Schmidt (1968: 112-13) rejects Oldenberg’s interpretation and suggests that it
 I am inclined to see it as a treatment of the ritual step of rinsing the soma in water, as I said in the published introduction, though much remains murky.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

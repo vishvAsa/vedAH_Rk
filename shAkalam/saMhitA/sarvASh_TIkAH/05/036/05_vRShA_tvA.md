@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रभूवसुराङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 
 vŕ̥ṣakrato ← vŕ̥ṣakratu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॑ त्वा॒ वृष॑णं वर्धतु॒ द्यौर्वृषा॒ वृष॑भ्यां वहसे॒ हरि॑भ्याम् ।  
+स नो॒ वृषा॒ वृष॑रथः सुशिप्र॒ वृष॑क्रतो॒ वृषा॑ वज्रि॒न्भरे॑ धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

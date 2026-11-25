@@ -4,6 +4,7 @@ devataa = "अभ्यावर्तिनश्चायमानस्य �
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अभ्यावर्तिनश्चायमानस्य दानस्तुतिः
@@ -80,7 +81,12 @@ iyám ← ayám (pronoun)
 
 pārthavā́nām ← pārthavá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्व॒याँ अ॑ग्ने र॒थिनो॑ विंश॒तिं गा व॒धूम॑तो म॒घवा॒ मह्यं॑ स॒म्राट् ।  
+अ॒भ्या॒व॒र्ती चा॑यमा॒नो द॑दाति दू॒णाशे॒यं दक्षि॑णा पार्थ॒वाना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - \[noun\], genitive, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

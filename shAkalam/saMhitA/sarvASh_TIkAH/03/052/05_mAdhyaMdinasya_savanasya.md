@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ gīrbhíḥ ← gír- ~ gīr- (nominal stem)
 
 vr̥ṣāyámāṇaḥ ← √vr̥ṣāy- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+माध्यं॑दिनस्य॒ सव॑नस्य धा॒नाः पु॑रो॒ळाश॑मिन्द्र कृष्वे॒ह चारु॑म् ।  
+प्र यत्स्तो॒ता ज॑रि॒ता तूर्ण्य॑र्थो वृषा॒यमा॑ण॒ उप॑ गी॒र्भिरीट्टे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “praise; invite; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

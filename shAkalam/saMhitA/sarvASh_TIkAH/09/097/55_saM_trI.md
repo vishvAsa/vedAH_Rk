@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ maghávā ← maghávan- (nominal stem)
 
 maghávadbhyaḥ ← maghávan- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं त्री प॒वित्रा॒ वित॑तान्ये॒ष्यन्वेकं॑ धावसि पू॒यमा॑नः ।  
+असि॒ भगो॒ असि॑ दा॒त्रस्य॑ दा॒तासि॑ म॒घवा॑ म॒घव॑द्भ्य इन्दो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -243,12 +248,6 @@ You converge on the three filters stretched out, but you run along just  one whi
 You are Bhaga, you are the giver of the gift; you are bounteous to the  bounteous ones, o drop.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-We meet the three filters also in IX.73.8, where their identity is not clear.
-
-Needless to say, Lüders (703-4) has a cosmic explanation.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
 <details><summary><h2>55-58 ...{Loading}...</h2></summary>
 
@@ -260,7 +259,6 @@ Happily none of the vss. presents us with the desperate difficulties of the prec
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

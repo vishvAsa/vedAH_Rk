@@ -4,6 +4,7 @@ devataa = "प्रस्तोकस्य सांर्जयस्य द�
 RShiH = "गर्गः"
 ChandaH = "द्विपदा त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - प्रस्तोकस्य सांर्जयस्य दानस्तुतिः
@@ -52,7 +53,11 @@ bharádvājān ← bharádvāja- (nominal stem)
 
 sārñjayáḥ ← sārñjayá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+महि॒ राधो॑ वि॒श्वज॑न्यं॒ दधा॑नान्भ॒रद्वा॑जान्त्सार्ञ्ज॒यो अ॒भ्य॑यष्ट ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +114,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

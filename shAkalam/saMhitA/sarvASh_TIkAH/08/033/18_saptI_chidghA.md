@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ evá ← evá (invariable)
 
 vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सप्ती॑ चिद्घा मद॒च्युता॑ मिथु॒ना व॑हतो॒ रथ॑म् ।  
+ए॒वेद्धूर्वृष्ण॒ उत्त॑रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -187,10 +192,6 @@ _________
 but even so the chariot-pole of the bull [=husband] is higher.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In my interpretation Indra’s speech continues here, and having admitted the drawbacks to employing women in the ritual, he introduces the model of the yoked pair (that is, the married couple) drawing the chariot of sacrifice, a pair that must be more or less equally matched, but with the pole of the male somewhat higher than that of the female. (Some animals are more equal than others.) The image of the sacrifice as a chariot is of course a common one, and the word mithunā́ ‘complementary pair, sexual pair’ seems to me the tipoff that this is about the married couple. (Oldenberg is in general agreement.)
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md">
 <details><summary><h2>16-19 ...{Loading}...</h2></summary>
 
@@ -200,7 +201,6 @@ These verses are extensively discussed by Oldenberg and Geldner, with Oldenberg 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

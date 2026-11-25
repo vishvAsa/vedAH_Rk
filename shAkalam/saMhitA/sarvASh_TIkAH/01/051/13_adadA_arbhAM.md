@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ te ← tvám (pronoun)
 
 víśvā ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद॑दा॒ अर्भां॑ मह॒ते व॑च॒स्यवे॑ क॒क्षीव॑ते वृच॒यामि॑न्द्र सुन्व॒ते ।  
+मेना॑भवो वृषण॒श्वस्य॑ सुक्रतो॒ विश्वेत्ता ते॒ सव॑नेषु प्र॒वाच्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     impart; convey; address; proclaim.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ rocané ← rocaná- (nominal stem)
 
 triṣú ← trí- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता अ॑स्य॒ सूद॑दोहसः॒ सोमं॑ श्रीणन्ति॒ पृश्न॑यः ।  
+जन्म॑न्दे॒वानां॒ विश॑स्त्रि॒ष्वा रो॑च॒ने दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

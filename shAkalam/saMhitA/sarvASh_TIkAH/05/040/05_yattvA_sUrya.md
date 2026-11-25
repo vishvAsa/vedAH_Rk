@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -68,7 +69,12 @@ adīdhayuḥ ← √dhī- (root)
 
 bhúvanāni ← bhúvana- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्त्वा॑ सूर्य॒ स्व॑र्भानु॒स्तम॒सावि॑ध्यदासु॒रः ।  
+अक्षे॑त्रवि॒द्यथा॑ मु॒ग्धो भुव॑नान्यदीधयुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - “think; desire; chew over.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

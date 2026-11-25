@@ -4,6 +4,7 @@ devataa = "सरस्वान्"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वान्
@@ -54,7 +55,12 @@ bhakṣīmáhi ← √bhaj- (root)
 
 prajā́m ← prajā́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पी॒पि॒वांसं॒ सर॑स्वतः॒ स्तनं॒ यो वि॒श्वद॑र्शतः ।  
+भ॒क्षी॒महि॑ प्र॒जामिष॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

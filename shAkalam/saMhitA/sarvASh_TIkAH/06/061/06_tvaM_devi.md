@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -63,7 +64,12 @@ ráda ← √rad- (root)
 
 saním ← saní- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं दे॑वि सरस्व॒त्यवा॒ वाजे॑षु वाजिनि ।  
+रदा॑ पू॒षेव॑ नः स॒निम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,7 +172,6 @@ Aid (him), goddess Sarasvatī, at the prize (contests), you prizewinner. Channel
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -181,7 +185,6 @@ This tṛca is almost empty of content, in part because so much of each Gāyatr�
 This, the middle vs. of the tṛca, consists only of a rel. cl., which I consider preposed to vs. 6, though without a resumptive pronoun correlative with yáḥ. I supply one (‘him’) as obj. of ávā in 6b. Both Geldner and Renou instead supply ‘us’ as the obj. of that verb, leaving the rel. cl. in 5 without any syntactic tether. The middle vs. of the next tṛca (8) also consists just of a rel. cl.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

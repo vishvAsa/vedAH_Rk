@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ dróṇā ← dróṇa- (nominal stem)
 
 kánikradat ← √krand- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ क॒लशे॑षु धावति श्ये॒नो वर्म॒ वि गा॑हते ।  
+अ॒भि द्रोणा॒ कनि॑क्रदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “roar; neigh.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,12 +161,6 @@ He runs into the tubs; the falcon plunges through the armor
 toward the cups, roaring constantly.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-What is the “armor” (várma) that soma “plunges through” (ví gāhate)? Geldner (n.
-
-14ab) suggests that the image is of a warrior clothing himself in armor, that is, the wooden cup, but he doesn’t construe várma with the verb, but takes it as loosely descriptive with a verb used absolutely (“er taucht in seinen Panzer unter”). Renou also thinks the várma refers to the cup (“la paroi [wall] de la cuve” acdg. to his n.), but has the courage to construe it with the verb: “il plonge dans (le récipient, sa) cuirasse.” But ví is not “dans.” I think it refers instead to the filter, whose fleece both represents his armor and a substance that soma must get through, hence the slightly off-balance image. Note first of all that the same verb, though with different preverb, is used precisely with the filter a few vss. later in this hymn:
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -169,7 +168,6 @@ Little evidence of unity in the Viśvāmitra tṛca, though the falcon (śyená-
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

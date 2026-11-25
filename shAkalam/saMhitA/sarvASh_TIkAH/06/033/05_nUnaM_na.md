@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ pā́rye ← pā́rya- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू॒नं न॑ इन्द्राप॒राय॑ च स्या॒ भवा॑ मृळी॒क उ॒त नो॑ अ॒भिष्टौ॑ ।  
+इ॒त्था गृ॒णन्तो॑ म॒हिन॑स्य॒ शर्म॑न्दि॒वि ष्या॑म॒ पार्ये॑ गो॒षत॑माः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

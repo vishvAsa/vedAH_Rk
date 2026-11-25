@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ práśastaye ← práśasti- (nominal stem)
 
 ráthavate ← ráthavant- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॒ ग्मन्ता॒ नहु॑षो॒ हवं॑ सू॒रेः श्रोता॑ राजानो अ॒मृत॑स्य मन्द्राः ।  
+न॒भो॒जुवो॒ यन्नि॑र॒वस्य॒ राधः॒ प्रश॑स्तये महि॒ना रथ॑वते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “rich in chariots.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -83,7 +84,12 @@ víśvā ← víśva- (nominal stem)
 
 yāvayantu ← √yu- 2 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒धि॒क्रावा॑णं बुबुधा॒नो अ॒ग्निमुप॑ ब्रुव उ॒षसं॒ सूर्यं॒ गाम् ।  
+ब्र॒ध्नं मां॑श्च॒तोर्वरु॑णस्य ब॒भ्रुं ते विश्वा॒स्मद्दु॑रि॒ता या॑वयन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “keep away.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

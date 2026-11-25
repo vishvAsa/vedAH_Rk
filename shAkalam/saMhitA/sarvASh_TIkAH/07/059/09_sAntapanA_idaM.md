@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ riśādasaḥ ← riśā́das- (nominal stem)
 
 yuṣmā́ka ← tvám (pronoun)  
 {case:GEN, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सान्त॑पना इ॒दं ह॒विर्मरु॑त॒स्तज्जु॑जुष्टन ।  
+यु॒ष्माको॒ती रि॑शादसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “superior; superior; proud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -149,10 +154,6 @@ _________
 You descendants of the scorcher, Maruts, enjoy this oblation here. (Come here) with your help, you who care for the stranger.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With the standard tr., I supply “come” in c, anticipating ā́gata in 10a.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -169,7 +170,6 @@ Although, as noted in the published introduction, the last four vss. of the hymn
 were attached just here.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

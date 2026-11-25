@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -57,7 +57,11 @@ gúhā ← gúhā (invariable)
 
 niṣī́dan ← √sad- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हस्ते॒ दधा॑नो नृ॒म्णा विश्वा॒न्यमे॑ दे॒वान्धा॒द्गुहा॑ नि॒षीद॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +128,6 @@ _________
 - “sit down; sit; put.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -173,10 +176,6 @@ Da er alle Manneskräfte in der Hand hält, brachte er die Götter in Aufregung,
 
 Die Kräfte alle – in Händen haltend, schreckt' er die Götter, – als er versteckt sass; Dort fanden Männer – ihn auf durch Andacht, die Sprüche singend, – die herzentsprossnen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

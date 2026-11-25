@@ -4,6 +4,7 @@ devataa = "मरुतो मरुतो वाग्निश्च"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतो मरुतो वाग्निश्च
@@ -89,7 +90,12 @@ iva ← iva (invariable)
 
 sadhryàñcaḥ ← sadhryàñc- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पर्व॑तश्चि॒न्महि॑ वृ॒द्धो बि॑भाय दि॒वश्चि॒त्सानु॑ रेजत स्व॒ने वः॑ ।  
+यत्क्रीळ॑थ मरुत ऋष्टि॒मन्त॒ आप॑ इव स॒ध्र्य॑ञ्चो धवध्वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - \[verb\], plural, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -240,7 +245,6 @@ When you are at play, o Maruts, equipped with spears, you run toward a  single g
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/060/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -248,7 +252,6 @@ Note the concatenation: 2d … párvataś cit# // 3a #párvataś cit … The two
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

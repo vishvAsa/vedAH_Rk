@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -63,7 +64,12 @@ juṣata ← √juṣ- (root)
 
 me ← ahám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दर्शं॒ नु वि॒श्वद॑र्शतं॒ दर्शं॒ रथ॒मधि॒ क्षमि॑ ।  
+ए॒ता जु॑षत मे॒ गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

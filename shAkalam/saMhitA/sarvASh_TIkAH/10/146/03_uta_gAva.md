@@ -4,6 +4,7 @@ devataa = "अरण्यानी"
 RShiH = "देवमुनिरैरम्मदः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अरण्यानी
@@ -77,7 +78,12 @@ iva ← iva (invariable)
 
 sarjati ← √sarj- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त गाव॑ इवादन्त्यु॒त वेश्मे॑व दृश्यते ।  
+उ॒तो अ॑रण्या॒निः सा॒यं श॑क॒टीरि॑व सर्जति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

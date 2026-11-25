@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ sádanam ← sádana- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सदा॑ सु॒गः पि॑तु॒माँ अ॑स्तु॒ पन्था॒ मध्वा॑ देवा॒ ओष॑धीः॒ सं पि॑पृक्त ।  
+भगो॑ मे अग्ने स॒ख्ये न मृ॑ध्या॒ उद्रा॒यो अ॑श्यां॒ सद॑नं पुरु॒क्षोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

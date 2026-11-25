@@ -4,6 +4,7 @@ devataa = "नराशंसः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नराशंसः
@@ -77,7 +78,12 @@ devébhyaḥ ← devá- (nominal stem)
 
 suṣūdat ← √sūd- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ दे॒वाना॑मग्र॒यावे॒ह या॑तु॒ नरा॒शंसो॑ वि॒श्वरू॑पेभि॒रश्वैः॑ ।  
+ऋ॒तस्य॑ प॒था नम॑सा मि॒येधो॑ दे॒वेभ्यो॑ दे॒वत॑मः सुषूदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “sweeten; prepare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

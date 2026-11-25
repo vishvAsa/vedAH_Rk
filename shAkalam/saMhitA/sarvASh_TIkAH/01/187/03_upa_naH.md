@@ -4,6 +4,7 @@ devataa = "अन्नम्"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अन्नम्
@@ -71,7 +72,12 @@ sákhā ← sákhi- (nominal stem)
 
 suśévaḥ ← suśéva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ नः पित॒वा च॑र शि॒वः शि॒वाभि॑रू॒तिभिः॑ ।  
+म॒यो॒भुर॑द्विषे॒ण्यः सखा॑ सु॒शेवो॒ अद्व॑याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

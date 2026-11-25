@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ svám ← svá- (pronoun)
 
 vavákṣa ← √vakṣ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तो पि॒तृभ्यां॑ प्र॒विदानु॒ घोषं॑ म॒हो म॒हद्भ्या॑मनयन्त शू॒षम् ।  
+उ॒क्षा ह॒ यत्र॒ परि॒ धान॑म॒क्तोरनु॒ स्वं धाम॑ जरि॒तुर्व॒वक्ष॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “grow; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

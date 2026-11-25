@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -101,7 +102,12 @@ kr̥tíḥ ← kr̥tí- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमा॑सो॒ न ये सु॒तास्तृ॒प्तांश॑वो हृ॒त्सु पी॒तासो॑ दु॒वसो॒ नास॑ते ।  
+ऐषा॒मंसे॑षु र॒म्भिणी॑व रारभे॒ हस्ते॑षु खा॒दिश्च॑ कृ॒तिश्च॒ सं द॑धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

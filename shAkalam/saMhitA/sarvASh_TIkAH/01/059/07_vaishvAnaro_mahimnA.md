@@ -4,6 +4,7 @@ devataa = "अग्निर्वैश्वानरः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्वैश्वानरः
@@ -68,7 +69,12 @@ puruṇīthé ← puruṇīthá- (nominal stem)
 
 sūnŕ̥tāvān ← sūnŕ̥tāvant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वै॒श्वा॒न॒रो म॑हि॒म्ना वि॒श्वकृ॑ष्टिर्भ॒रद्वा॑जेषु यज॒तो वि॒भावा॑ ।  
+शा॒त॒व॒ने॒ये श॒तिनी॑भिर॒ग्निः पु॑रुणी॒थे ज॑रते सू॒नृता॑वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “happy; big; auspicious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

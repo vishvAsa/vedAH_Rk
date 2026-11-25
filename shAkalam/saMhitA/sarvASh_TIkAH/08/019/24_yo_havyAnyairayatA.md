@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ deváḥ ← devá- (nominal stem)
 
 hótā ← hótar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो ह॒व्यान्यैर॑यता॒ मनु॑र्हितो दे॒व आ॒सा सु॑ग॒न्धिना॑ ।  
+विवा॑सते॒ वार्या॑णि स्वध्व॒रो होता॑ दे॒वो अम॑र्त्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “immortal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

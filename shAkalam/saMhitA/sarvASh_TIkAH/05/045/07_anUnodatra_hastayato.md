@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सदापृण आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ satyā́ ← satyá- (nominal stem)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनू॑नो॒दत्र॒ हस्त॑यतो॒ अद्रि॒रार्च॒न्येन॒ दश॑ मा॒सो नव॑ग्वाः ।  
+ऋ॒तं य॒ती स॒रमा॒ गा अ॑विन्द॒द्विश्वा॑नि स॒त्याङ्गि॑राश्चकार ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -255,10 +260,6 @@ The (pressing) stone, guided by the hand, bellowed there, the stone along  with 
 Saramā, going after the truth, found the cows; the Aṅgiras made all  things real.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note that 3 of the 4 verbs are augmented (ánūnot, ā́rcan, avindat), the 4th a preterital pf. (cakāra).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -266,7 +267,6 @@ Here the mythic model of the dawn accompanying the dawn ritual, the opening of t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

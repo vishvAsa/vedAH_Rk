@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ mártyasya ← mártya- (nominal stem)
 
 māyínaḥ ← māyín- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्थि॒रा वः॑ स॒न्त्वायु॑धा परा॒णुदे॑ वी॒ळू उ॒त प्र॑ति॒ष्कभे॑ ।  
+यु॒ष्माक॑मस्तु॒ तवि॑षी॒ पनी॑यसी॒ मा मर्त्य॑स्य मा॒यिनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “artful; charming; crafty; deceptive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्र आत्मा वा"
 RShiH = "वामदेवो गौतम इन्द्रो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्र आत्मा वा
@@ -92,7 +93,12 @@ páśyata ← √paś- (root)
 
 uśánā ← uśánā- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं मनु॑रभवं॒ सूर्य॑श्चा॒हं क॒क्षीवाँ॒ ऋषि॑रस्मि॒ विप्रः॑ ।  
+अ॒हं कुत्स॑मार्जुने॒यं न्यृ॑ञ्जे॒ऽहं क॒विरु॒शना॒ पश्य॑ता मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

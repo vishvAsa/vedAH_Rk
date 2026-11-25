@@ -4,6 +4,7 @@ devataa = "उषासानक्ता"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषासानक्ता
@@ -60,7 +61,12 @@ sīdatām ← √sad- (root)
 
 uṣā́sau ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒रु॒क्मे हि सु॒पेश॒साधि॑ श्रि॒या वि॒राज॑तः ।  
+उ॒षासा॒वेह सी॑दताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sahásrā ← sahásra- (nominal stem)
 
 ṣaṣṭím ← ṣaṣṭí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं श्र॒द्धाभि॑र्मन्दसा॒नः सोमै॑र्द॒भीत॑ये॒ चुमु॑रिमिन्द्र सिष्वप् ।  
+त्वं र॒जिं पिठी॑नसे दश॒स्यन्ष॒ष्टिं स॒हस्रा॒ शच्या॒ सचा॑हन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -228,14 +233,6 @@ You, reaching elation through the hospitality offerings and the soma  juices, pu
 You, showing favor to Piṭhīnas, in partnership, smashed Raji and his  sixty thousand with your power.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As I have discussed elsewhere (Sacrificed Wife, 176-84), śraddhā́- in Vedic is not simply an abstract ‘trust, faith’, but refers specifically to trust in the efficacy of ritual and hospitality, and indeed to the concrete manifestations of this trust through ritual gift-giving. The plural śraddhā́bhiḥ here, paired with sómaiḥ, seems to refer to the offerings themselves.
-
-On sácā see comm. ad vs. 4.
-
-Pāda d contains a fine sequence of alliterative sibilants of all three types: ṣaṣtíṃ sahasrā śácyā sácā han.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
 <details><summary><h2>03-06 ...{Loading}...</h2></summary>
 
@@ -243,7 +240,6 @@ These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

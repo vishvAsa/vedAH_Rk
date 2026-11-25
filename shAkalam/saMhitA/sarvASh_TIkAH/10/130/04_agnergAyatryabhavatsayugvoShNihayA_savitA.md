@@ -4,6 +4,7 @@ devataa = "भाववृत्तं"
 RShiH = "यज्ञः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -80,7 +81,12 @@ br̥hatī́ ← br̥hánt- (nominal stem)
 
 vā́cam ← vā́c- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्नेर्गा॑य॒त्र्य॑भवत्स॒युग्वो॒ष्णिह॑या सवि॒ता सं ब॑भूव ।  
+अ॒नु॒ष्टुभा॒ सोम॑ उ॒क्थैर्मह॑स्वा॒न्बृह॒स्पते॑र्बृह॒ती वाच॑मावत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

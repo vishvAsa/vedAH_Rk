@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -80,7 +81,12 @@ prá ← prá (invariable)
 
 váruṇe ← váruṇa- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न॒श्वो जा॒तो अ॑नभी॒शुरर्वा॒ कनि॑क्रदत्पतयदू॒र्ध्वसा॑नुः ।  
+अ॒चित्तं॒ ब्रह्म॑ जुजुषु॒र्युवा॑नः॒ प्र मि॒त्रे धाम॒ वरु॑णे गृ॒णन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

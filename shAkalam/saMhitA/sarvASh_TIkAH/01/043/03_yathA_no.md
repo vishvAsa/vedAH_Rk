@@ -4,6 +4,7 @@ devataa = "रुद्रः मित्रावरुणौ च"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः मित्रावरुणौ च
@@ -60,7 +61,12 @@ víśve ← víśva- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॑ नो मि॒त्रो वरु॑णो॒ यथा॑ रु॒द्रश्चिके॑तति ।  
+यथा॒ विश्वे॑ स॒जोष॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “consentaneous; combined; associated; united.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

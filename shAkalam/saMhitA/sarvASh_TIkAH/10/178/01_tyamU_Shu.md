@@ -4,6 +4,7 @@ devataa = "तार्क्ष्यः"
 RShiH = "अरिष्थनेमिस्तार्क्ष्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तार्क्ष्यः
@@ -77,7 +78,12 @@ svastáye ← svastí- (nominal stem)
 
 tā́rkṣyam ← tā́rkṣya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्यमू॒ षु वा॒जिनं॑ दे॒वजू॑तं स॒हावा॑नं तरु॒तारं॒ रथा॑नाम् ।  
+अरि॑ष्टनेमिं पृत॒नाज॑मा॒शुं स्व॒स्तये॒ तार्क्ष्य॑मि॒हा हु॑वेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

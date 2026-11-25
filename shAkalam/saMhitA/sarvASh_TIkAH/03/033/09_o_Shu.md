@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -89,7 +90,12 @@ sindhavaḥ ← síndhu- (nominal stem)
 
 srotyā́bhiḥ ← srotyā́- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओ षु स्व॑सारः का॒रवे॑ शृणोत य॒यौ वो॑ दू॒रादन॑सा॒ रथे॑न ।  
+नि षू न॑मध्वं॒ भव॑ता सुपा॒रा अ॑धोअ॒क्षाः सि॑न्धवः स्रो॒त्याभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “river.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ dhītíbhiḥ ← dhītí- (nominal stem)
 
 saptá ← saptá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्रि॑पृ॒ष्ठे त्रि॑वन्धु॒रे रथे॑ युञ्जन्ति॒ यात॑वे ।  
+ऋषी॑णां स॒प्त धी॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “thinking; prayer; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -172,12 +177,6 @@ Seven ceremonies: The back are the three oblations, the benches are the three **
 They yoke him to the three-backed, three-seated chariot, to drive, yoking him by means of the seven visionary thoughts of the seven seers.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-See published introduction. for the ritual specificity of the images in this vs. The participle “yoking” in the published translation of c should properly be in parens., since it’s simply generated from the finite yuñjanti in b.
-
-The uninflected numeral ‘seven’ (saptá) is stationed between two pl. nouns, gen. ṛ́ṣīṇāṃ ‘of the seers’ and instr. dhītíbhiḥ ‘with visionary thoughts’. Of course seven is the canonical number of seers throughout Indian religious history, starting with the RV, but ‘seven’ is also used of dhītí- in IX.9.4 sá saptá dhītíbhir hitáḥ and passages cited there. Most tr. choose to construe it with one or the other (Geldner, Ober [II.72] ṛ́ṣi-; Renou, Lüders [710], Ober [II.222] dhītí-), with, surprisingly (to me), more going for dhītí- than ṛ́ṣi-. But surely its position helps signal that it should be construed with both (as Renou in his n. and Ober in his 2nd tr. indicate).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -185,7 +184,6 @@ Several elements link at least two of the vss. in the tṛca: the presence of v�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

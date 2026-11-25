@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "धृतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -128,7 +129,13 @@ sátvabhiḥ ← sátvan- (nominal stem)
 
 trisaptaíḥ ← trisaptá- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒वर्म॒ह इ॑न्द्र दादृ॒हि श्रु॒धी नः॑ शु॒शोच॒ हि द्यौः क्षा न भी॒षाँ अ॑द्रिवो घृ॒णान्न भी॒षाँ अ॑द्रिवः ।  
+शु॒ष्मिन्त॑मो॒ हि शु॒ष्मिभि॑र्व॒धैरु॒ग्रेभि॒रीय॑से ।  
+अपू॑रुषघ्नो अप्रतीत शूर॒ सत्व॑भिस्त्रिस॒प्तैः शू॑र॒ सत्व॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -334,7 +341,6 @@ _________
 - “warrior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -54,7 +55,12 @@ daśasyathaḥ ← √daśasy- (root)
 
 ūtī́ḥ ← ūtí- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं कण्वा॑य नासत्या॒ ऋपि॑रिप्ताय ह॒र्म्ये ।  
+शश्व॑दू॒तीर्द॑शस्यथः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +117,6 @@ _________
 - \[verb\], dual, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

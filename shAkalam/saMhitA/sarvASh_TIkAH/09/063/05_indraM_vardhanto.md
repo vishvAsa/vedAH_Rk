@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ apaghnántaḥ ← √han- (root)
 
 árāvṇaḥ ← árāvan- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रं॒ वर्ध॑न्तो अ॒प्तुरः॑ कृ॒ण्वन्तो॒ विश्व॒मार्य॑म् ।  
+अ॒प॒घ्नन्तो॒ अरा॑व्णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “begrudging; hostile; stingy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -153,10 +158,6 @@ Strengthening Indra, crossing the waters, making it all Ārya,
 smashing away the non-givers,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The phrase kṛṇvánto víśvam ā́ryam “making it all Ārya,” esp. in conjunction with aptúraḥ “crossing the waters,” most likely alludes to the Ārya expansion in their migration into the northern part of the subcontinent, specifically to crossing frontier rivers and laying claim to the land on the other side. This territorial expansion is implicitly compared here to Soma’s ritual journey. Since, as Geldner notes (n. 5b), the Soma cult is specifically Ārya, importing this practice into new lands would be a key part of the process of Arya-ization.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -164,7 +165,6 @@ Thematically somewhat unified by the journey theme.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

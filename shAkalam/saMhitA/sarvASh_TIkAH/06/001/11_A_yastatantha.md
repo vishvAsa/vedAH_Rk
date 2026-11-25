@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ ví ← ví (invariable)
 
 vitarám ← vitarám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यस्त॒तन्थ॒ रोद॑सी॒ वि भा॒सा श्रवो॑भिश्च श्रव॒स्य१॒॑स्तरु॑त्रः ।  
+बृ॒हद्भि॒र्वाजैः॒ स्थवि॑रेभिर॒स्मे रे॒वद्भि॑रग्ने वित॒रं वि भा॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “look; shine; show; look like; glitter; reflect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "देवीर्द्वारः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवीर्द्वारः
@@ -60,7 +61,12 @@ nūnám ← nūnám (invariable)
 
 yáṣṭave ← √yaj- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि श्र॑यन्तामृता॒वृधो॒ द्वारो॑ दे॒वीर॑स॒श्चतः॑ ।  
+अ॒द्या नू॒नं च॒ यष्ट॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

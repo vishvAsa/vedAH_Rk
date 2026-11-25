@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ dadhé ← √dhā- 1 (root)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं प्र॒त्नेन॒ मन्म॑ना॒ गिरः॑ शुम्भामि कण्व॒वत् ।  
+येनेन्द्रः॒ शुष्म॒मिद्द॒धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -176,7 +181,6 @@ just the one with which Indra acquired his unbridled force.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -184,7 +188,6 @@ This tṛca is characterized by emphatic pronominals: initial ahám 10a, 10c, 11
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

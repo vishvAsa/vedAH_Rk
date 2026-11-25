@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -92,7 +93,12 @@ tát ← sá- ~ tá- (pronoun)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्दे॒वस्य॑ सवि॒तुर्वार्यं॑ म॒हद्वृ॑णी॒महे॒ असु॑रस्य॒ प्रचे॑तसः ।  
+छ॒र्दिर्येन॑ दा॒शुषे॒ यच्छ॑ति॒ त्मना॒ तन्नो॑ म॒हाँ उद॑यान्दे॒वो अ॒क्तुभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “night; dark; beam.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

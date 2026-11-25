@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -92,7 +93,12 @@ yáṁ-yam ← yá- (pronoun)
 
 yújam ← yúj- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॒रेभि॑र्वी॒रान्व॑नवद्वनुष्य॒तो गोभी॑ र॒यिं प॑प्रथ॒द्बोध॑ति॒ त्मना॑ ।  
+तो॒कं च॒ तस्य॒ तन॑यं च वर्धते॒ यंयं॒ युजं॑ कृणु॒ते ब्रह्म॑ण॒स्पतिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “Brahmaṇaspati.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

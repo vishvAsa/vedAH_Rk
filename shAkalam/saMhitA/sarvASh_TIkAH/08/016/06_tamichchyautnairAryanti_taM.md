@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ eṣáḥ ← eṣá (pronoun)
 
 varivaskŕ̥t ← varivaskŕ̥t- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमिच्च्यौ॒त्नैरार्य॑न्ति॒ तं कृ॒तेभि॑श्चर्ष॒णयः॑ ।  
+ए॒ष इन्द्रो॑ वरिव॒स्कृत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

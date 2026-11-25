@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ tát ← sá- ~ tá- (pronoun)
 
 yajñébhiḥ ← yajñá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येन॑ दी॒र्घं म॑रुतः शू॒शवा॑म यु॒ष्माके॑न॒ परी॑णसा तुरासः ।  
+आ यत्त॒तन॑न्वृ॒जने॒ जना॑स ए॒भिर्य॒ज्ञेभि॒स्तद॒भीष्टि॑मश्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

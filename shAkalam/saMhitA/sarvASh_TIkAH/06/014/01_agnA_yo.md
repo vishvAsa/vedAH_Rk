@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vurīta ← √vr̥- ~ vr̥̄- (root)  
 {number:SG, person:3, mood:OPT, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्ना यो मर्त्यो॒ दुवो॒ धियं॑ जु॒जोष॑ धी॒तिभिः॑ ।  
+भस॒न्नु ष प्र पू॒र्व्य इषं॑ वुरी॒ताव॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ dhitā́vānam ← dhitā́van- (nominal stem)
 
 śruṣṭīvā́nam ← śruṣṭīván- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ईळे॑ अ॒ग्निं वि॑प॒श्चितं॑ गि॒रा य॒ज्ञस्य॒ साध॑नम् ।  
+श्रु॒ष्टी॒वानं॑ धि॒तावा॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “lucrative.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

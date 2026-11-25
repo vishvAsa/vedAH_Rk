@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ sám ← sám (invariable)
 
 víprāḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृष॑णं धी॒भिर॒प्तुरं॒ सोम॑मृ॒तस्य॒ धार॑या ।  
+म॒ती विप्राः॒ सम॑स्वरन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “sing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,7 +165,6 @@ thought.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -170,7 +174,6 @@ As for internal connections, see dhībhíḥ (20b, 21a), víprāḥ (20b, 21c), 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "ज्या"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ज्या
@@ -89,7 +90,12 @@ pāráyantī ← √pr̥- (root)
 
 sámane ← sámana- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒क्ष्यन्ती॒वेदा ग॑नीगन्ति॒ कर्णं॑ प्रि॒यं सखा॑यं परिषस्वजा॒ना ।  
+योषे॑व शिङ्क्ते॒ वित॒ताधि॒ धन्व॒ञ्ज्या इ॒यं सम॑ने पा॒रय॑न्ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “rescue; keep alive; satisfy; save; resist; endure.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

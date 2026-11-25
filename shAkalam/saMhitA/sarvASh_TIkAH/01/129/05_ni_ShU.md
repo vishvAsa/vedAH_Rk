@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -125,7 +126,13 @@ naḥ ← ahám (pronoun)
 
 váhniḥ ← váhni- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि षू न॒माति॑मतिं॒ कय॑स्य चि॒त्तेजि॑ष्ठाभिर॒रणि॑भि॒र्नोतिभि॑रु॒ग्राभि॑रुग्रो॒तिभिः॑ ।  
+नेषि॑ णो॒ यथा॑ पु॒राने॒नाः शू॑र॒ मन्य॑से ।  
+विश्वा॑नि पू॒रोरप॑ पर्षि॒ वह्नि॑रा॒सा वह्नि॑र्नो॒ अच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -318,7 +325,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

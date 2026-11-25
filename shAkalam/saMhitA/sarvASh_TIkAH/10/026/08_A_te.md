@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -68,7 +69,12 @@ víśvasya ← víśva- (nominal stem)
 
 sanojā́ḥ ← sanojā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ते॒ रथ॑स्य पूषन्न॒जा धुरं॑ ववृत्युः ।  
+विश्व॑स्या॒र्थिनः॒ सखा॑ सनो॒जा अन॑पच्युतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “abscond.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

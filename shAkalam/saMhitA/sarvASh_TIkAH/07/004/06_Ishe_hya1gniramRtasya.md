@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ pári ← pári (invariable)
 
 sadāma ← √sad- (root)  
 {number:PL, person:1, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ईशे॒ ह्य१॒॑ग्निर॒मृत॑स्य॒ भूरे॒रीशे॑ रा॒यः सु॒वीर्य॑स्य॒ दातोः॑ ।  
+मा त्वा॑ व॒यं स॑हसावन्न॒वीरा॒ माप्स॑वः॒ परि॑ षदाम॒ मादु॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कुमार आत्रेयो वृशो वा जान उभौ वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ jayema ← √ji- 1 (root)
 
 svàrvatīḥ ← svàrvant- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तं ते॒ स्तोमं॑ तुविजात॒ विप्रो॒ रथं॒ न धीरः॒ स्वपा॑ अतक्षम् ।  
+यदीद॑ग्ने॒ प्रति॒ त्वं दे॑व॒ हर्याः॒ स्व॑र्वतीर॒प ए॑ना जयेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

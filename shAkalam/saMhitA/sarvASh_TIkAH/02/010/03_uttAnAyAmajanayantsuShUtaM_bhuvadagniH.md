@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ prácetāḥ ← prácetas- (nominal stem)
 
 vasati ← √vas- 3 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त्ता॒नाया॑मजनय॒न्त्सुषू॑तं॒ भुव॑द॒ग्निः पु॑रु॒पेशा॑सु॒ गर्भः॑ ।  
+शिरि॑णायां चिद॒क्तुना॒ महो॑भि॒रप॑रीवृतो वसति॒ प्रचे॑ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “intelligent; mindful; attentive; wise; apt; observant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

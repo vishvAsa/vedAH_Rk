@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -65,7 +66,12 @@ devayaté ← √devay- (UNK_TYPE)
 
 yaja ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒नि॒र्मथा॒ निर्म॑थितः सुनि॒धा निहि॑तः क॒विः ।  
+अग्ने॑ स्वध्व॒रा कृ॑णु दे॒वान्दे॑वय॒ते य॑ज ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

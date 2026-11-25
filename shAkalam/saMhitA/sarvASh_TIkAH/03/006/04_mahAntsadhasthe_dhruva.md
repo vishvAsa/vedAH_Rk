@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ sabardúghe ← sabardúgha- (nominal stem)
 
 urugāyásya ← urugāyá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हान्त्स॒धस्थे॑ ध्रु॒व आ निष॑त्तो॒ऽन्तर्द्यावा॒ माहि॑ने॒ हर्य॑माणः ।  
+आस्क्रे॑ स॒पत्नी॑ अ॒जरे॒ अमृ॑क्ते सब॒र्दुघे॑ उरुगा॒यस्य॑ धे॒नू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “cow; dhenu \[word\]; milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

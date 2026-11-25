@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ ná ← ná (invariable)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ अ॒स्मिन्म॑घवन्पृ॒त्स्वंह॑सि न॒हि ते॒ अन्तः॒ शव॑सः परी॒णशे॑ ।  
+अक्र॑न्दयो न॒द्यो॒३॒॑ रोरु॑व॒द्वना॑ क॒था न क्षो॒णीर्भि॒यसा॒ समा॑रत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     begin; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

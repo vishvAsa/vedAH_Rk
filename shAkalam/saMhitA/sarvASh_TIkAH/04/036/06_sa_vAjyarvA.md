@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -101,7 +102,12 @@ yám ← yá- (pronoun)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वा॒ज्यर्वा॒ स ऋषि॑र्वच॒स्यया॒ स शूरो॒ अस्ता॒ पृत॑नासु दु॒ष्टरः॑ ।  
+स रा॒यस्पोषं॒ स सु॒वीर्यं॑ दधे॒ यं वाजो॒ विभ्वाँ॑ ऋ॒भवो॒ यमावि॑षुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -269,7 +275,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

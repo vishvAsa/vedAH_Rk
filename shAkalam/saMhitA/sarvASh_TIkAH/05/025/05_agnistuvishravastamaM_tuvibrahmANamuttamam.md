@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -59,7 +60,12 @@ dāśúṣe ← dāśváṁs- (nominal stem)
 
 putrám ← putrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निस्तु॒विश्र॑वस्तमं तु॒विब्र॑ह्माणमुत्त॒मम् ।  
+अ॒तूर्तं॑ श्राव॒यत्प॑तिं पु॒त्रं द॑दाति दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वकर्मा"
 RShiH = "विश्वकर्मा भौवनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -86,7 +87,12 @@ dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)
 
 ít ← ít (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चक्षु॑षः पि॒ता मन॑सा॒ हि धीरो॑ घृ॒तमे॑ने अजन॒न्नन्न॑माने ।  
+य॒देदन्ता॒ अद॑दृहन्त॒ पूर्व॒ आदिद्द्यावा॑पृथि॒वी अ॑प्रथेताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “be known; expand; expand; boom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

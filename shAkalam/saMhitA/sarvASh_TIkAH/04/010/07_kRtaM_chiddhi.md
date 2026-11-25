@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "पदपङ्क्तिः उष्णिग्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ r̥tāvaḥ ← ŕ̥tāvan- (nominal stem)
 
 yájamānāt ← √yaj- (root)  
 {case:ABL, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒तं चि॒द्धि ष्मा॒ सने॑मि॒ द्वेषोऽग्न॑ इ॒नोषि॒ मर्ता॑त् ।  
+इ॒त्था यज॑मानादृतावः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “law-abiding; faithful; righteous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

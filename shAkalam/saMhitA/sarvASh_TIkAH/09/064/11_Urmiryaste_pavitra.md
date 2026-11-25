@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ sī́dan ← √sad- (root)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्मिर्यस्ते॑ प॒वित्र॒ आ दे॑वा॒वीः प॒र्यक्ष॑रत् ।  
+सीद॑न्नृ॒तस्य॒ योनि॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -166,10 +171,6 @@ _________
 Your wave which, pursuing the gods, has streamed around in the filter, sitting on the womb of truth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. is entirely a rel. cl. and most comfortably adjoins vs. 10 (see comm. immed. above) - pace Lüders (603-4), who attaches 11 to 12.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -177,7 +178,6 @@ There are some unifying features in this tṛca. Although this is hardly strikin
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

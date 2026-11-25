@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -54,7 +54,11 @@ r̥tápravītam ← r̥tápravīta- (nominal stem)
 
 sthātúḥ ← sthātár- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वर्धा॒न्यं पू॒र्वीः क्ष॒पो विरू॑पाः स्था॒तुश्च॒ रथ॑मृ॒तप्र॑वीतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +127,6 @@ _________
 - “impregnate.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -176,10 +179,6 @@ Den sie während der vielen ungleichen Nächte und Morgen großzogen, den zur re
 
 Den vieler Nächte – Erscheinen nähre, den Sohn der Opfer, – was steht und wandert; Er thront im Glanze – gewählt zum Priester, der alle Werke – zum Ziele führet.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

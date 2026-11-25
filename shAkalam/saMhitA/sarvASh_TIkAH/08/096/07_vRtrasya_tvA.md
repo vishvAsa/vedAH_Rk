@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ pŕ̥tanāḥ ← pŕ̥tanā- (nominal stem)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒त्रस्य॑ त्वा श्व॒सथा॒दीष॑माणा॒ विश्वे॑ दे॒वा अ॑जहु॒र्ये सखा॑यः ।  
+म॒रुद्भि॑रिन्द्र स॒ख्यं ते॑ अ॒स्त्वथे॒मा विश्वाः॒ पृत॑ना जयासि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -253,10 +258,6 @@ Friendshi: (AitareyaBrāhmaṇa 3.20): The Maruts alone did not leave him
 Let your partnership be with the Maruts, Indra. Then you will win all  these battles here.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I have chosen to read the impv. bhávā in b with the two small clauses in c as well, though it is certainly possible to interpret those with Geldner as straight indicative nominal clauses: “you (are) there with help …; you (are) friendship …”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -264,7 +265,6 @@ The da capo-like structure of the verses in this tṛca, with the first pāda re
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -80,7 +81,12 @@ sadyás ← sadyás (invariable)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रा अश्वा॑ ह॒रितः॒ सूर्य॑स्य चि॒त्रा एत॑ग्वा अनु॒माद्या॑सः ।  
+न॒म॒स्यन्तो॑ दि॒व आ पृ॒ष्ठम॑स्थुः॒ परि॒ द्यावा॑पृथि॒वी य॑न्ति स॒द्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “immediately; just; daily; sadyas \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

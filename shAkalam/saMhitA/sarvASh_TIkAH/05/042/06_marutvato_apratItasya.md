@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ nū́tanaḥ ← nū́tana- (nominal stem)
 
 vīryàm ← vīryà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒रुत्व॑तो॒ अप्र॑तीतस्य जि॒ष्णोरजू॑र्यतः॒ प्र ब्र॑वामा कृ॒तानि॑ ।  
+न ते॒ पूर्वे॑ मघव॒न्नाप॑रासो॒ न वी॒र्यं१॒॑ नूत॑नः॒ कश्च॒नाप॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “enter (a state); get; reach; obtain; equal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

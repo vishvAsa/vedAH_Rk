@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ rayīṇā́m ← rayí- ~ rāy- (nominal stem)
 
 rayipátiḥ ← rayipáti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒शिक्पा॑व॒को वसु॒र्मानु॑षेषु॒ वरे॑ण्यो॒ होता॑धायि वि॒क्षु ।  
+दमू॑ना गृ॒हप॑ति॒र्दम॒ आँ अ॒ग्निर्भु॑वद्रयि॒पती॑ रयी॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

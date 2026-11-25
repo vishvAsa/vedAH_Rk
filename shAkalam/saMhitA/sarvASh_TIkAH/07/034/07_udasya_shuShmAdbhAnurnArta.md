@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -61,7 +62,11 @@ ná ← ná (invariable)
 
 pr̥thivī́ ← pr̥thivī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॑स्य॒ शुष्मा॑द्भा॒नुर्नार्त॒ बिभ॑र्ति भा॒रं पृ॑थि॒वी न भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +145,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

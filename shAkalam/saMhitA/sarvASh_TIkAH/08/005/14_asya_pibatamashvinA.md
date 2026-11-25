@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ mádhvaḥ ← mádhu- (nominal stem)
 
 rātásya ← √rā- 1 (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य पि॑बतमश्विना यु॒वं मद॑स्य॒ चारु॑णः ।  
+मध्वो॑ रा॒तस्य॑ धिष्ण्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “wise; beneficent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

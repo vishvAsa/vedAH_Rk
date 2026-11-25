@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -65,7 +66,12 @@ vr̥ktábarhiṣaḥ ← vr̥ktábarhis- (nominal stem)
 
 hitáprayasaḥ ← hitáprayas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॑ प्र॒त्नस्यौक॑सः प्रि॒यमे॑धास एषाम् ।  
+पूर्वा॒मनु॒ प्रय॑तिं वृ॒क्तब॑र्हिषो हि॒तप्र॑यस आशत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -189,14 +194,12 @@ with twisted ritual grass, with their pleasing offering set in place, have  equa
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/069/17-18.md">
 <details><summary><h2>17-18 ...{Loading}...</h2></summary>
 
 Note the responsion of 17b … āsate# and 18d … āśata#.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

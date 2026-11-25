@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -80,7 +81,12 @@ vidvā́n ← √vid- 2 (root)
 
 uruṣyet ← √uruṣy- (root)  
 {number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ धे॒नवो॑ मामते॒यमव॑न्तीर्ब्रह्म॒प्रियं॑ पीपय॒न्त्सस्मि॒न्नूध॑न् ।  
+पि॒त्वो भि॑क्षेत व॒युना॑नि वि॒द्वाना॒साविवा॑स॒न्नदि॑तिमुरुष्येत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “protect; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

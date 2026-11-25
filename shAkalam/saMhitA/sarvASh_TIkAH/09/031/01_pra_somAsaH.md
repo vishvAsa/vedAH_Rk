@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ kr̥ṇvanti ← √kr̥- (root)
 
 rayím ← rayí- ~ rāy- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सोमा॑सः स्वा॒ध्य१॑ः॒ पव॑मानासो अक्रमुः ।  
+र॒यिं कृ॑ण्वन्ति॒ चेत॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
     sentient.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

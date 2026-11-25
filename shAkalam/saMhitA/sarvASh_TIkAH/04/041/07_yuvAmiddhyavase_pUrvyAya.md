@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ pitárā ← pitár- (nominal stem)
 
 śū́rā ← śū́ra- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वामिद्ध्यव॑से पू॒र्व्याय॒ परि॒ प्रभू॑ती ग॒विषः॑ स्वापी ।  
+वृ॒णी॒महे॑ स॒ख्याय॑ प्रि॒याय॒ शूरा॒ मंहि॑ष्ठा पि॒तरे॑व श॒म्भू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “kind; benevolent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

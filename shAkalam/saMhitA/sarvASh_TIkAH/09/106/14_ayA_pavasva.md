@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्निः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ rébhan ← √ribh- (root)
 
 viśvátas ← viśvátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒या प॑वस्व देव॒युर्मधो॒र्धारा॑ असृक्षत ।  
+रेभ॑न्प॒वित्रं॒ पर्ये॑षि वि॒श्वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “everywhere; around; about.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,10 +173,6 @@ Rasping, circle around the filter on all sides.
 Hymns Arranged in Pragāthas: 107–108
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The fem. instr. ayā́opening this final vs. seems to fulfill the same role as evā́in other hymn-summary vss. Both Geldner and Renou supply a noun with it (Laüterung / clarification), but though the use of the fem. seems to invite something more than a semi-adverbial ‘in this way’, the model of hymn-summary vss. seems to me to outweigh that consideration.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/13-14.md">
 <details><summary><h2>13-14 ...{Loading}...</h2></summary>
 
@@ -179,7 +180,6 @@ The last two extra vss. do not allow a detached 4-syllable unit, because the wor
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

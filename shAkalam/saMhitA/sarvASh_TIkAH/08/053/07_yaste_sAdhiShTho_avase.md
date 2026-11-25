@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ manāmahe ← √man- 1 (root)
 
 sasavā́ṁsaḥ ← √sanⁱ- (root)  
 {case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॒ साधि॒ष्ठोऽव॑से॒ ते स्या॑म॒ भरे॑षु ते ।  
+व॒यं होत्रा॑भिरु॒त दे॒वहू॑तिभिः सस॒वांसो॑ मनामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

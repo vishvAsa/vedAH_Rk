@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ jugurat ← √gr̥̄- 1 (root)
 
 rā́dhasā ← rā́dhas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स्तो॑ष॒दुप॑ गासिष॒च्छ्रव॒त्साम॑ गी॒यमा॑नम् ।  
+अ॒भि राध॑सा जुगुरत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - \[verb\], singular, Perfect conjunctive (subj.)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

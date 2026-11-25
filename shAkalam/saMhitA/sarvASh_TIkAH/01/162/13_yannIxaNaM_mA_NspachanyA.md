@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -80,7 +81,12 @@ pári ← pári (invariable)
 
 sūnā́ḥ ← sūnā́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यन्नीक्ष॑णं माँ॒स्पच॑न्या उ॒खाया॒ या पात्रा॑णि यू॒ष्ण आ॒सेच॑नानि ।  
+ऊ॒ष्म॒ण्या॑पि॒धाना॑ चरू॒णाम॒ङ्काः सू॒नाः परि॑ भूष॒न्त्यश्व॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “horse; aśva \[word\]; Aśva; stallion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

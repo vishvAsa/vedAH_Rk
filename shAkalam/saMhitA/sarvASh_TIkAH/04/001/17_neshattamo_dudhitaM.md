@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ r̥jú ← r̥jú- (nominal stem)
 
 vr̥jinā́ ← vr̥jiná- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नेश॒त्तमो॒ दुधि॑तं॒ रोच॑त॒ द्यौरुद्दे॒व्या उ॒षसो॑ भा॒नुर॑र्त ।  
+आ सूर्यो॑ बृह॒तस्ति॑ष्ठ॒दज्राँ॑ ऋ॒जु मर्ते॑षु वृजि॒ना च॒ पश्य॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -256,12 +261,6 @@ The bilious darkness disappeared; heaven lightened; the radiance of the  goddess
 The Sun mounted the lofty fields, looking upon the straight and the  crooked among mortals.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On néśat as a replacement for an original thematic redupl. aor. with radical zero-grade (expected *na-nś-a-), with the vocalism of the first syllable replaced by that of the weak perfect, see Hoffmann, Injunk. 64-65.
-
-On dúdhita-, a qualifier of darkness, see EWA s.v., with ref. to Schindler (1967), who separates it from dudhrá-, etc., and adduces possible Germanic and Toch. color-term cognates.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details><summary><h2>10-18 ...{Loading}...</h2></summary>
 
@@ -269,7 +268,6 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

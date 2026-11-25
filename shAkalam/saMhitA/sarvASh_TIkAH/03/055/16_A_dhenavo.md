@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ devā́nām ← devá- (nominal stem)
 
 mahát ← mahā́nt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ धे॒नवो॑ धुनयन्ता॒मशि॑श्वीः सब॒र्दुघाः॑ शश॒या अप्र॑दुग्धाः ।  
+नव्या॑नव्या युव॒तयो॒ भव॑न्तीर्म॒हद्दे॒वाना॑मसुर॒त्वमेक॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     consistent; any(a); undifferentiated; disjunct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

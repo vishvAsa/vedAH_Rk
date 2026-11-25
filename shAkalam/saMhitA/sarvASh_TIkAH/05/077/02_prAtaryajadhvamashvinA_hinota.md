@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ vánīyān ← vánīyaṁs- (nominal stem)
 
 yájamānaḥ ← √yaj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒तर्य॑जध्वम॒श्विना॑ हिनोत॒ न सा॒यम॑स्ति देव॒या अजु॑ष्टम् ।  
+उ॒तान्यो अ॒स्मद्य॑जते॒ वि चावः॒ पूर्वः॑पूर्वो॒ यज॑मानो॒ वनी॑यान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

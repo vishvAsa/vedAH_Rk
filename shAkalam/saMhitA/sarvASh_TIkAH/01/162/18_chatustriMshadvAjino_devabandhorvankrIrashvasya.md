@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -80,7 +81,12 @@ páruṣ-paruḥ ← párus- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चतु॑स्त्रिंशद्वा॒जिनो॑ दे॒वब॑न्धो॒र्वङ्क्री॒रश्व॑स्य॒ स्वधि॑तिः॒ समे॑ति ।  
+अच्छि॑द्रा॒ गात्रा॑ व॒युना॑ कृणोत॒ परु॑ष्परुरनु॒घुष्या॒ वि श॑स्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

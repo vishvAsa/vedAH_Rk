@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -92,7 +93,12 @@ tát ← sá- ~ tá- (pronoun)
 
 várṣman ← várṣman- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न प्र॒मिये॑ सवि॒तुर्दैव्य॑स्य॒ तद्यथा॒ विश्वं॒ भुव॑नं धारयि॒ष्यति॑ ।  
+यत्पृ॑थि॒व्या वरि॑म॒न्ना स्व॑ङ्गु॒रिर्वर्ष्म॑न्दि॒वः सु॒वति॑ स॒त्यम॑स्य॒ तत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     \[word\]; dative; once; same.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

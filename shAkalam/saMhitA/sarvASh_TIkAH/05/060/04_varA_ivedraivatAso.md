@@ -4,6 +4,7 @@ devataa = "मरुतो मरुतो वाग्निश्च"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतो मरुतो वाग्निश्च
@@ -83,7 +84,12 @@ satrā́ ← satrā́ (invariable)
 
 tanū́ṣu ← tanū́- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒रा इ॒वेद्रै॑व॒तासो॒ हिर॑ण्यैर॒भि स्व॒धाभि॑स्त॒न्वः॑ पिपिश्रे ।  
+श्रि॒ये श्रेयां॑सस्त॒वसो॒ रथे॑षु स॒त्रा महां॑सि चक्रिरे त॒नूषु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “body; self; own(a); person; form.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ज्ञानं"
 RShiH = "बृहस्पतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ज्ञानं
@@ -92,7 +93,12 @@ saptá ← saptá- (nominal stem)
 
 tā́m ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञेन॑ वा॒चः प॑द॒वीय॑माय॒न्तामन्व॑विन्द॒न्नृषि॑षु॒ प्रवि॑ष्टाम् ।  
+तामा॒भृत्या॒ व्य॑दधुः पुरु॒त्रा तां स॒प्त रे॒भा अ॒भि सं न॑वन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “praise; shout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

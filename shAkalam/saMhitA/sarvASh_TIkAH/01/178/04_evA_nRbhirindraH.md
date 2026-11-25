@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ satrākaráḥ ← satrākará- (nominal stem)
 
 yájamānasya ← √yaj- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा नृभि॒रिन्द्रः॑ सुश्रव॒स्या प्र॑खा॒दः पृ॒क्षो अ॒भि मि॒त्रिणो॑ भूत् ।  
+स॒म॒र्य इ॒षः स्त॑वते॒ विवा॑चि सत्राक॒रो यज॑मानस्य॒ शंसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “praise; śaṃs; recitation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

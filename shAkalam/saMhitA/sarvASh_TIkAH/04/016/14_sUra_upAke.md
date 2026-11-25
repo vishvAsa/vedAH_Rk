@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ ná ← ná (invariable)
 
 siṁháḥ ← siṁhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सूर॑ उपा॒के त॒न्वं१॒॑ दधा॑नो॒ वि यत्ते॒ चेत्य॒मृत॑स्य॒ वर्पः॑ ।  
+मृ॒गो न ह॒स्ती तवि॑षीमुषा॒णः सिं॒हो न भी॒म आयु॑धानि॒ बिभ्र॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

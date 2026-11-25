@@ -4,6 +4,7 @@ devataa = "मंडूकाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मंडूकाः
@@ -86,7 +87,12 @@ prāvr̥ṣī́ṇam ← prāvr̥ṣī́ṇa- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रा॒ह्म॒णासो॑ अतिरा॒त्रे न सोमे॒ सरो॒ न पू॒र्णम॒भितो॒ वद॑न्तः ।  
+सं॒व॒त्स॒रस्य॒ तदहः॒ परि॑ ष्ठ॒ यन्म॑ण्डूकाः प्रावृ॒षीणं॑ ब॒भूव॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -244,12 +249,6 @@ you cycle around to that day of the year, which, o frogs, is the one
 marking the rainy season.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first ritual application is that of the Atirātra or “Overnight” soma ritual. Frogs are generally nocturnal; they are active during the day only if the weather is rainy or very humid. So, the first signal to humans of the frogs’ emergence from estivation would be the sound of the nocturnal frog chorus when the rain supplied them with the impetus to emerge. Hence they are compared to brahmins at an Overnight ritual speaking around a soma vessel configured as a pond.
-
-The similes are complexly intertwined: the frogs are compared to brahmins, but those hypothetical brahmins are then implicitly compared to frogs around a pond - in other words to the original target of comparison.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -257,7 +256,6 @@ With the behavioral model of the frogs established in the first 6 vss., the next
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

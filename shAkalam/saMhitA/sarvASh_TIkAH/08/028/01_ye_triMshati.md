@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -66,7 +67,12 @@ dvitā́ ← dvitā́ (invariable)
 
 vidán ← √vid- 1 (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये त्रिं॒शति॒ त्रय॑स्प॒रो दे॒वासो॑ ब॒र्हिरास॑दन् ।  
+वि॒दन्नह॑ द्वि॒तास॑नन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “win; get; gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

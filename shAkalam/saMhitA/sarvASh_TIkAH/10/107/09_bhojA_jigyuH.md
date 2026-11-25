@@ -4,6 +4,7 @@ devataa = "दक्षिणा तद्दातारो वा"
 RShiH = "दिव्यो दक्षिणा वा प्राजापत्या"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दक्षिणा तद्दातारो वा
@@ -89,7 +90,12 @@ prayánti ← √i- 1 (root)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भो॒जा जि॑ग्युः सुर॒भिं योनि॒मग्रे॑ भो॒जा जि॑ग्युर्व॒ध्वं१॒॑ या सु॒वासाः॑ ।  
+भो॒जा जि॑ग्युरन्तः॒पेयं॒ सुरा॑या भो॒जा जि॑ग्यु॒र्ये अहू॑ताः प्र॒यन्ति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “die; proceed; advance; continue; begin; depart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

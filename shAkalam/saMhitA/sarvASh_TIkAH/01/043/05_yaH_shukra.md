@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -60,7 +61,12 @@ devā́nām ← devá- (nominal stem)
 
 vásuḥ ← vásu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यः शु॒क्र इ॑व॒ सूर्यो॒ हिर॑ण्यमिव॒ रोच॑ते ।  
+श्रेष्ठो॑ दे॒वानां॒ वसुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “good; good; benign; vasu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -148,7 +153,7 @@ _________
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 He who shines like the Venu, the sun, like gold,
-[is] the rich chief of the gods, 
+[is] the rich chief of the gods,
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>

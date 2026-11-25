@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अंबरीष ऋजिश्वा च"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -62,7 +63,12 @@ tuvidyumnám ← tuvidyumná- (nominal stem)
 
 vibhvāsáham ← vibhvāsáha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि नो॑ वाज॒सात॑मं र॒यिम॑र्ष पुरु॒स्पृह॑म् ।  
+इन्दो॑ स॒हस्र॑भर्णसं तुविद्यु॒म्नं वि॑भ्वा॒सह॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

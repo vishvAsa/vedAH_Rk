@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ táva ← tvám (pronoun)
 
 vratám ← vratá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॒ पूर्वे॑भ्यः शत॒सा अमृ॑ध्रः सहस्र॒साः प॒र्यया॒ वाज॑मिन्दो ।  
+ए॒वा प॑वस्व सुवि॒ताय॒ नव्य॑से॒ तव॑ व्र॒तमन्वापः॑ सचन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

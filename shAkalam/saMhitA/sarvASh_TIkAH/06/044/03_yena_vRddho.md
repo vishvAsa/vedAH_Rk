@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ mádaḥ ← máda- (nominal stem)
 
 svadhāpate ← svadhāpati- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येन॑ वृ॒द्धो न शव॑सा तु॒रो न स्वाभि॑रू॒तिभिः॑ ।  
+सोमः॑ सु॒तः स इ॑न्द्र॒ तेऽस्ति॑ स्वधापते॒ मदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

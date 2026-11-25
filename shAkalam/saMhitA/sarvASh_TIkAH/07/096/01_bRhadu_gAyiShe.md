@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -71,7 +72,12 @@ stómaiḥ ← stóma- (nominal stem)
 
 vasiṣṭha ← vásiṣṭha- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हदु॑ गायिषे॒ वचो॑ऽसु॒र्या॑ न॒दीना॑म् ।  
+सर॑स्वती॒मिन्म॑हया सुवृ॒क्तिभिः॒ स्तोमै॑र्वसिष्ठ॒ रोद॑सी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “heaven and earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

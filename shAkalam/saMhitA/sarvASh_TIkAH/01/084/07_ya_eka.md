@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -64,7 +65,12 @@ aṅgá ← aṅgá (invariable)
 
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य एक॒ इद्वि॒दय॑ते॒ वसु॒ मर्ता॑य दा॒शुषे॑ ।  
+ईशा॑नो॒ अप्र॑तिष्कुत॒ इन्द्रो॑ अ॒ङ्ग ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “in truth; aṅga \[word\]; entirely; merely.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -174,17 +179,12 @@ He who alone apportions the goods to the pious mortal,
 the unrepulsable master – (that’s) Indra indeed!
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I take índro aṅgá as the main clause corresponding to the rel. cl. introduced by yáḥ.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/084/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Bloomfield (Rig-Veda Repetitions, ad I.7.8) suggests that each of these three verses reads like a brahmodya, with the last two words (the four-syllable tag índro aṅgá, which he considers to be prose “quite out of the metre”) serving as the answer. This analysis words best for vs. 7, but his separation of the two-word tag from the rest of the verse is clearly correct for all three verses -- though I do not think we need to consider índro aṅgá “simple prose.”
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

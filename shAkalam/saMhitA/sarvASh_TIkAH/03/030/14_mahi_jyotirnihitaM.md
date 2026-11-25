@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sīm ← sīm (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+महि॒ ज्योति॒र्निहि॑तं व॒क्षणा॑स्वा॒मा प॒क्वं च॑रति॒ बिभ्र॑ती॒ गौः ।  
+विश्वं॒ स्वाद्म॒ सम्भृ॑तमु॒स्रिया॑यां॒ यत्सी॒मिन्द्रो॒ अद॑धा॒द्भोज॑नाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

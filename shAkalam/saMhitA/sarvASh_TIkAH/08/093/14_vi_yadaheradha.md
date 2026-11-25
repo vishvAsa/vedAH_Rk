@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ tā́n ← sá- ~ tá- (pronoun)
 
 vidát ← √vid- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि यदहे॒रध॑ त्वि॒षो विश्वे॑ दे॒वासो॒ अक्र॑मुः ।  
+वि॒दन्मृ॒गस्य॒ ताँ अमः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “am; panic; power; ferocity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,10 +183,6 @@ _________
 Then as all the gods strode away from the turbulent power of the serpent, the onslaught of the wild beast found them.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The positioning ... yád ... ádha … is unusual, though Klein (II: 111) simply takes it as a variant of more common ádha yád …
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -189,7 +190,6 @@ The connection among the verses in this tṛca eludes me, though the fact that t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

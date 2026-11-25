@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ pūrváthā ← pūrváthā (invariable)
 
 yuvatíḥ ← yuvatí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒षा प्र॑ती॒ची दु॑हि॒ता दि॒वो नॄन्योषे॑व भ॒द्रा नि रि॑णीते॒ अप्सः॑ ।  
+व्यू॒र्ण्व॒ती दा॒शुषे॒ वार्या॑णि॒ पुन॒र्ज्योति॑र्युव॒तिः पू॒र्वथा॑कः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

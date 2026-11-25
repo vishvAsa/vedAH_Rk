@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)
 
 yávam ← yáva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपो॒ न सिन्धु॑म॒भि यत्स॒मक्ष॑र॒न्त्सोमा॑स॒ इन्द्रं॑ कु॒ल्या इ॑व ह्र॒दम् ।  
+वर्ध॑न्ति॒ विप्रा॒ महो॑ अस्य॒ साद॑ने॒ यवं॒ न वृ॒ष्टिर्दि॒व्येन॒ दानु॑ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “Dānu; dew; drop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

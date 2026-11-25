@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -66,7 +67,12 @@ r̥ñjate ← √r̥j- 1 (root)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अतः॑ परिज्म॒न्ना ग॑हि दि॒वो वा॑ रोच॒नादधि॑ ।  
+सम॑स्मिन्नृञ्जते॒ गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

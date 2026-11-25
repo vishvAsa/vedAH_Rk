@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sahásrā ← sahásra- (nominal stem)
 
 vartayāte ← √vr̥t- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒धूरि॒यं पति॑मि॒च्छन्त्ये॑ति॒ य ईं॒ वहा॑ते॒ महि॑षीमिषि॒राम् ।  
+आस्य॑ श्रवस्या॒द्रथ॒ आ च॑ घोषात्पु॒रू स॒हस्रा॒ परि॑ वर्तयाते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

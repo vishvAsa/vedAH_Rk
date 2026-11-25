@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सुकीर्तिः काक्षीवतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ sárasvatī ← sárasvant- (nominal stem)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒त्रमि॑व पि॒तरा॑व॒श्विनो॒भेन्द्रा॒वथुः॒ काव्यै॑र्दं॒सना॑भिः ।  
+यत्सु॒रामं॒ व्यपि॑बः॒ शची॑भिः॒ सर॑स्वती त्वा मघवन्नभिष्णक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - \[verb\], singular, Imperfect
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

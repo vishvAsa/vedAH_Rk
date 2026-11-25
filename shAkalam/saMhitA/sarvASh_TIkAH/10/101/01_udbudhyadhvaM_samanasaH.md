@@ -4,6 +4,7 @@ devataa = "विश्वेदेवा ऋत्विजो वा"
 RShiH = "बुधः सौम्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -89,7 +90,12 @@ ní ← ní (invariable)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्बु॑ध्यध्वं॒ सम॑नसः सखायः॒ सम॒ग्निमि॑न्ध्वं ब॒हवः॒ सनी॑ळाः ।  
+द॒धि॒क्राम॒ग्निमु॒षसं॑ च दे॒वीमिन्द्रा॑व॒तोऽव॑से॒ नि ह्व॑ये वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

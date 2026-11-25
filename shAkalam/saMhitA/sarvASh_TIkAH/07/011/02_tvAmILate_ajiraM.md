@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ bhavanti ← √bhū- (root)
 
 sudínā ← sudína- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वामी॑ळते अजि॒रं दू॒त्या॑य ह॒विष्म॑न्तः॒ सद॒मिन्मानु॑षासः ।  
+यस्य॑ दे॒वैरास॑दो ब॒र्हिर॒ग्नेऽहा॑न्यस्मै सु॒दिना॑ भवन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

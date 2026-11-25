@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ páñca ← páñca- (nominal stem)
 
 suprayásam ← suprayás- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अदि॑द्युत॒त्स्वपा॑को वि॒भावाग्ने॒ यज॑स्व॒ रोद॑सी उरू॒ची ।  
+आ॒युं न यं नम॑सा रा॒तह॑व्या अ॒ञ्जन्ति॑ सुप्र॒यसं॒ पञ्च॒ जनाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

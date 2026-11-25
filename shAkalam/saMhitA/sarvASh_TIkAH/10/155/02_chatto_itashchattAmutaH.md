@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "शिरिंबिठो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -74,7 +75,12 @@ tī́kṣṇaśr̥ṇga ← tīkṣṇaśr̥ṇga- (nominal stem)
 
 udr̥ṣán ← √r̥ṣ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒त्तो इ॒तश्च॒त्तामुतः॒ सर्वा॑ भ्रू॒णान्या॒रुषी॑ ।  
+अ॒रा॒य्यं॑ ब्रह्मणस्पते॒ तीक्ष्ण॑शृण्गोदृ॒षन्नि॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

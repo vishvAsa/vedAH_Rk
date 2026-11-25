@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ ná ← ná (invariable)
 
 yāciṣat ← √yāc- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा त्वा॒ सोम॑स्य॒ गल्द॑या॒ सदा॒ याच॑न्न॒हं गि॒रा ।  
+भूर्णिं॑ मृ॒गं न सव॑नेषु चुक्रुधं॒ क ईशा॑नं॒ न या॑चिषत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “beg; ask; offer; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

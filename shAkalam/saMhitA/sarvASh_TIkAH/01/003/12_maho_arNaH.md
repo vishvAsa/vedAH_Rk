@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -60,7 +61,12 @@ ví ← ví (invariable)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हो अर्णः॒ सर॑स्वती॒ प्र चे॑तयति के॒तुना॑ ।  
+धियो॒ विश्वा॒ वि रा॑जति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

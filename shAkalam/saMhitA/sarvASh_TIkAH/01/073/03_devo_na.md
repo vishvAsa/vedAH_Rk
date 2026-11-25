@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ nā́rī ← nā́rī- (nominal stem)
 
 pátijuṣṭā ← pátijuṣṭa- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वो न यः पृ॑थि॒वीं वि॒श्वधा॑या उप॒क्षेति॑ हि॒तमि॑त्रो॒ न राजा॑ ।  
+पु॒रः॒सदः॑ शर्म॒सदो॒ न वी॒रा अ॑नव॒द्या पति॑जुष्टेव॒ नारी॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “woman; wife; female.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

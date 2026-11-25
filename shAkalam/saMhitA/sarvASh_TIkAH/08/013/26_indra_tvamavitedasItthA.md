@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -70,7 +71,12 @@ te ← tvám (pronoun)
 
 manoyújam ← manoyúj- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ त्वम॑वि॒तेद॑सी॒त्था स्तु॑व॒तो अ॑द्रिवः ।  
+ऋ॒तादि॑यर्मि ते॒ धियं॑ मनो॒युज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “amalgamated; harnessed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

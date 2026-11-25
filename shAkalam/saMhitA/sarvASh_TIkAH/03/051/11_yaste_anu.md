@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ somyám ← somyá- (nominal stem)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॒ अनु॑ स्व॒धामस॑त्सु॒ते नि य॑च्छ त॒न्व॑म् ।  
+स त्वा॑ ममत्तु सो॒म्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “saumya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

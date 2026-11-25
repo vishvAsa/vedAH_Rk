@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ usráḥ ← uṣár- (nominal stem)
 
 yajñaíḥ ← yajñá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सास्माके॑भिरे॒तरी॒ न शू॒षैर॒ग्निः ष्ट॑वे॒ दम॒ आ जा॒तवे॑दाः ।  
+द्र्व॑न्नो व॒न्वन्क्रत्वा॒ नार्वो॒स्रः पि॒तेव॑ जार॒यायि॑ य॒ज्ञैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

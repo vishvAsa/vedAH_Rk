@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ tát ← sá- ~ tá- (pronoun)
 
 vácaḥ ← vácas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे त॑ इन्द्र॒ ते व॒यं पु॑रुष्टुत॒ ये त्वा॒रभ्य॒ चरा॑मसि प्रभूवसो ।  
+न॒हि त्वद॒न्यो गि॑र्वणो॒ गिरः॒ सघ॑त्क्षो॒णीरि॑व॒ प्रति॑ नो हर्य॒ तद्वचः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -264,7 +270,6 @@ _________
 - “statement; command; speech; words; advice; word; voice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -291,14 +296,6 @@ Here we are—those of yours, o much-praised Indra, who carry on,  having seized
 for none other than you bears up to our songs, o you who long for songs.  Gladly receive this speech of ours like war-cries.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The translation “Here we are -- those of yours” reflects the annunciatory imé as well as the te … té vayám, which identifies the speakers as Indra’s own. In c I take cárāmasi as an independent verb, meaning to ‘carry on’ with life and activities, though it is possible that it is an auxiliary verb with the gerund ārábhya, as Geldner takes it.
-
-On kṣoṇī́- as ‘war-cry’, see Thieme (1978[79]: KZ 92: 46), EWA s.v. _________
-**05**  
-táva smasi is a paraphrase of 4a (imé) te … té vayám
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/057/02-04.md">
 <details><summary><h2>02-04 ...{Loading}...</h2></summary>
 
@@ -306,7 +303,6 @@ A bit of word play in the sequence haryatá(ḥ) (2c), haríto (3d), harya tád 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

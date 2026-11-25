@@ -4,6 +4,7 @@ devataa = "संवत्सरसंस्थङ्कालचक्रवर
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - संवत्सरसंस्थङ्कालचक्रवर्णनम्
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 ṣaṣṭíḥ ← ṣaṣṭí- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वाद॑श प्र॒धय॑श्च॒क्रमेकं॒ त्रीणि॒ नभ्या॑नि॒ क उ॒ तच्चि॑केत ।  
+तस्मि॑न्त्सा॒कं त्रि॑श॒ता न श॒ङ्कवो॑ऽर्पि॒ताः ष॒ष्टिर्न च॑लाच॒लासः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “changeable; unsteady.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

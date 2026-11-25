@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ ririce ← √ric- (root)
 
 tátas ← tátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जग॑ता॒ सिन्धुं॑ दि॒व्य॑स्तभायद्रथन्त॒रे सूर्यं॒ पर्य॑पश्यत् ।  
+गा॒य॒त्रस्य॑ स॒मिध॑स्ति॒स्र आ॑हु॒स्ततो॑ म॒ह्ना प्र रि॑रिचे महि॒त्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “state; quality; cause; reason.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

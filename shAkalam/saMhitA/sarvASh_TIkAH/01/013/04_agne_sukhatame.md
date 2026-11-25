@@ -4,6 +4,7 @@ devataa = "इळः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इळः
@@ -60,7 +61,12 @@ hótā ← hótar- (nominal stem)
 
 mánurhitaḥ ← mánurhita- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ सु॒खत॑मे॒ रथे॑ दे॒वाँ ई॑ळि॒त आ व॑ह ।  
+असि॒ होता॒ मनु॑र्हितः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

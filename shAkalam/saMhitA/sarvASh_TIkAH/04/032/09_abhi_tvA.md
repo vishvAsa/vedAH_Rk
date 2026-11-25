@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ ghŕ̥ṣvaye ← ghŕ̥ṣvi- (nominal stem)
 
 vā́jāya ← vā́ja- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि त्वा॒ गोत॑मा गि॒रानू॑षत॒ प्र दा॒वने॑ ।  
+इन्द्र॒ वाजा॑य॒ घृष्व॑ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “anticipated; electrifying.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

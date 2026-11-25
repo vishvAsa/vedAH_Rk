@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ suvī́ryā ← suvī́rya- (nominal stem)
 
 yákṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे इद॑ग्ने सु॒भगे॑ यविष्ठ्य॒ विश्व॒मा हू॑यते ह॒विः ।  
+स त्वं नो॑ अ॒द्य सु॒मना॑ उ॒ताप॒रं यक्षि॑ दे॒वान्त्सु॒वीर्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

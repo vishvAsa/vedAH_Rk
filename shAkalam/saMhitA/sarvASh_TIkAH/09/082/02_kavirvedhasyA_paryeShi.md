@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ vásānaḥ ← √vas- 2 (root)
 
 yāsi ← √yā- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒विर्वे॑ध॒स्या पर्ये॑षि॒ माहि॑न॒मत्यो॒ न मृ॒ष्टो अ॒भि वाज॑मर्षसि ।  
+अ॒प॒सेध॑न्दुरि॒ता सो॑म मृळय घृ॒तं वसा॑नः॒ परि॑ यासि नि॒र्णिज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “attire; garment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

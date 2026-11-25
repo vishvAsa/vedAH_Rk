@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -63,7 +64,12 @@ víśvam ← víśva- (nominal stem)
 
 gachati ← √gam- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स रत्नं॒ मर्त्यो॒ वसु॒ विश्वं॑ तो॒कमु॒त त्मना॑ ।  
+अच्छा॑ गच्छ॒त्यस्तृ॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “durable; invincible.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

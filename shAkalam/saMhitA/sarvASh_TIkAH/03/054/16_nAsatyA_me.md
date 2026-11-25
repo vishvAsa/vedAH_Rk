@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ dātrám ← dātrá- (nominal stem)
 
 rakṣethe ← √rakṣⁱ- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नास॑त्या मे पि॒तरा॑ बन्धु॒पृच्छा॑ सजा॒त्य॑म॒श्विनो॒श्चारु॒ नाम॑ ।  
+यु॒वं हि स्थो र॑यि॒दौ नो॑ रयी॒णां दा॒त्रं र॑क्षेथे॒ अक॑वै॒रद॑ब्धा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “unfailing; unimpaired.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

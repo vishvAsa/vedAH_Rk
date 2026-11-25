@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ tanvàm ← tanū́- (nominal stem)
 
 ukṣámāṇāḥ ← √ukṣ- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न य ईष॑न्ते ज॒नुषोऽया॒ न्व१॒॑न्तः सन्तो॑ऽव॒द्यानि॑ पुना॒नाः ।  
+निर्यद्दु॒ह्रे शुच॒योऽनु॒ जोष॒मनु॑ श्रि॒या त॒न्व॑मु॒क्षमा॑णाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “grow; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

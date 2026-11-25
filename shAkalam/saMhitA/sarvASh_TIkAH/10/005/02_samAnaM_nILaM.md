@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ nā́māni ← nā́man- (nominal stem)
 
 párāṇi ← pára- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मा॒नं नी॒ळं वृष॑णो॒ वसा॑नाः॒ सं ज॑ग्मिरे महि॒षा अर्व॑तीभिः ।  
+ऋ॒तस्य॑ प॒दं क॒वयो॒ नि पा॑न्ति॒ गुहा॒ नामा॑नि दधिरे॒ परा॑णि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     concluding; foreign; earlier; worse; longer; finest; excessive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

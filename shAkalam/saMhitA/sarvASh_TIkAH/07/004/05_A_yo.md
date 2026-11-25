@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ ca ← ca (invariable)
 
 viśvádhāyasam ← viśvádhāyas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यो योनिं॑ दे॒वकृ॑तं स॒साद॒ क्रत्वा॒ ह्य१॒॑ग्निर॒मृताँ॒ अता॑रीत् ।  
+तमोष॑धीश्च व॒निन॑श्च॒ गर्भं॒ भूमि॑श्च वि॒श्वधा॑यसं बिभर्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +262,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ háṁsi ← √han- (root)
 
 sámr̥tā ← sámr̥ti- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने वृजि॒नव॑र्तनिं॒ नरं॒ सक्म॑न्पिपर्षि वि॒दथे॑ विचर्षणे ।  
+यः शूर॑साता॒ परि॑तक्म्ये॒ धने॑ द॒भ्रेभि॑श्चि॒त्समृ॑ता॒ हंसि॒ भूय॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “more(a); more(a); abounding in(p); stronger; bigger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

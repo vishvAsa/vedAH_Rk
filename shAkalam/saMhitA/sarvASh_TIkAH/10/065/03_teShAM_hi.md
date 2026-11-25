@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sumitryā́ḥ ← sumitryá- (nominal stem)
 
 té ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तेषां॒ हि म॒ह्ना म॑ह॒ताम॑न॒र्वणां॒ स्तोमाँ॒ इय॑र्म्यृत॒ज्ञा ऋ॑ता॒वृधा॑म् ।  
+ये अ॑प्स॒वम॑र्ण॒वं चि॒त्ररा॑धस॒स्ते नो॑ रासन्तां म॒हये॑ सुमि॒त्र्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - \[noun\], accusative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

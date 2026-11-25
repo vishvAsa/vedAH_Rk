@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ te ← tvám (pronoun)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वद्भि॒येन्द्र॒ पार्थि॑वानि॒ विश्वाच्यु॑ता चिच्च्यावयन्ते॒ रजां॑सि ।  
+द्यावा॒क्षामा॒ पर्व॑तासो॒ वना॑नि॒ विश्वं॑ दृ॒ळ्हं भ॑यते॒ अज्म॒न्ना ते॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

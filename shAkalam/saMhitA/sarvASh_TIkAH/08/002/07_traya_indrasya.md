@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ sutapā́vnaḥ ← sutapā́van- (nominal stem)
 
 své ← svá- (pronoun)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रय॒ इन्द्र॑स्य॒ सोमाः॑ सु॒तासः॑ सन्तु दे॒वस्य॑ ।  
+स्वे क्षये॑ सुत॒पाव्नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “drinking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

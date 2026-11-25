@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ adhūnuthāḥ ← √dhū- (root)
 
 dásyūn ← dásyu- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा॒याभि॑रु॒त्सिसृ॑प्सत॒ इन्द्र॒ द्यामा॒रुरु॑क्षतः ।  
+अव॒ दस्यूँ॑रधूनुथाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - “shake; remove; chase away.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

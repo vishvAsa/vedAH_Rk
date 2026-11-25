@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कक्षीवान्"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ ghr̥taścútaḥ ← ghr̥taścút- (nominal stem)
 
 havíḥ ← havís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्र॑धा॒रेऽव॒ ता अ॑स॒श्चत॑स्तृ॒तीये॑ सन्तु॒ रज॑सि प्र॒जाव॑तीः ।  
+चत॑स्रो॒ नाभो॒ निहि॑ता अ॒वो दि॒वो ह॒विर्भ॑रन्त्य॒मृतं॑ घृत॒श्चुतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “ghee-dripping.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ (गर्भस्राविण्युप�
 RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ (गर्भस्राविण्युपनिषत्)
@@ -71,7 +72,12 @@ muñcatam ← √muc- (root)
 
 saptávadhrim ← saptávadhri- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि जि॑हीष्व वनस्पते॒ योनिः॒ सूष्य॑न्त्या इव ।  
+श्रु॒तं मे॑ अश्विना॒ हवं॑ स॒प्तव॑ध्रिं च मुञ्चतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
     discharge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

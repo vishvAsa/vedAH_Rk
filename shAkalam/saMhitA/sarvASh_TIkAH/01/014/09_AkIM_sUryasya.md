@@ -4,6 +4,7 @@ devataa = "विश्वे देवाः (विश्वैर्देव
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः (विश्वैर्देवैः सहितोग्निः)
@@ -60,7 +61,12 @@ vakṣati ← √vah- (root)
 
 vípraḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आकीं॒ सूर्य॑स्य रोच॒नाद्विश्वा॑न्दे॒वाँ उ॑ष॒र्बुधः॑ ।  
+विप्रो॒ होते॒ह व॑क्षति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

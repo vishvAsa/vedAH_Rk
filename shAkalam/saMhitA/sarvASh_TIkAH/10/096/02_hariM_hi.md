@@ -4,6 +4,7 @@ devataa = "हरिस्तुतिः"
 RShiH = "बरुः सर्वहरिर्वैन्द्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हरिस्तुतिः
@@ -95,7 +96,12 @@ hárivantam ← hárivant- (nominal stem)
 
 śūṣám ← śūṣá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हरिं॒ हि योनि॑म॒भि ये स॒मस्व॑रन्हि॒न्वन्तो॒ हरी॑ दि॒व्यं यथा॒ सदः॑ ।  
+आ यं पृ॒णन्ति॒ हरि॑भि॒र्न धे॒नव॒ इन्द्रा॑य शू॒षं हरि॑वन्तमर्चत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “sing; worship; honor; praise; welcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

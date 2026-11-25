@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ saṁgathé ← saṁgathá- (nominal stem)
 
 vā́jasya ← vā́ja- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ प्या॑यस्व॒ समे॑तु ते वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
+भवा॒ वाज॑स्य सङ्ग॒थे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,7 +172,6 @@ _______________________
 
 _______________________
 आप्यायस्व समेतु त इति गायत्री ॥ इयञ्चाग्निकाण्डे 'मा नो हिंसीत्' इत्यत्र व्याख्यास्यते यत्राम्नायते । हे सोम आप्यायस्व वर्धस्व त्वत्प्रसादात् विश्वतः वृष्ण्यं शुक्लं समेतु समागच्छतु । भव च वाजस्यान्नस्य सङ्गथे सङ्गमनायैवेति ॥
-
 </details>
 
 <details><summary>Wilson</summary>

@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -80,7 +81,12 @@ pibadhvam ← √pā- 2 (root)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्तृ॒तीयं॒ सव॑नं रत्न॒धेय॒मकृ॑णुध्वं स्वप॒स्या सु॑हस्ताः ।  
+तदृ॑भवः॒ परि॑षिक्तं व ए॒तत्सं मदे॑भिरिन्द्रि॒येभिः॑ पिबध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

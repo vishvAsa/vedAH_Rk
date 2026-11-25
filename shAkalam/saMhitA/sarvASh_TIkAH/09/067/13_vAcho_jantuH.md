@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ devéṣu ← devá- (nominal stem)
 
 ratnadhā́ḥ ← ratnadhā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒चो ज॒न्तुः क॑वी॒नां पव॑स्व सोम॒ धार॑या ।  
+दे॒वेषु॑ रत्न॒धा अ॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,10 +169,6 @@ Genitive rator of the praises of the wise: Or, in the midst of the wise, it is y
 As child of the speech of the poets, o Soma, purify yourself in a stream. You are the one among the gods who establishes treasure.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Soma is obviously “child of the speech of the poets” (vācó jantúḥ kavīnā́m) because ritual speech sets in motion the preparation of soma.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -175,7 +176,6 @@ Little evidence of unity in the Viśvāmitra tṛca, though the falcon (śyená-
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

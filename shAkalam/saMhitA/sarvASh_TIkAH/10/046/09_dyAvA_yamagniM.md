@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ tatakṣuḥ ← √takṣ- (root)
 
 yájatram ← yájatra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यावा॒ यम॒ग्निं पृ॑थि॒वी जनि॑ष्टा॒माप॒स्त्वष्टा॒ भृग॑वो॒ यं सहो॑भिः ।  
+ई॒ळेन्यं॑ प्रथ॒मं मा॑त॒रिश्वा॑ दे॒वास्त॑तक्षु॒र्मन॑वे॒ यज॑त्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “adorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

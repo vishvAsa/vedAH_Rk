@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ mártyena ← mártya- (nominal stem)
 
 sáyoniḥ ← sáyoni- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒नच्छ॑ये तु॒रगा॑तु जी॒वमेज॑द्ध्रु॒वं मध्य॒ आ प॒स्त्या॑नाम् ।  
+जी॒वो मृ॒तस्य॑ चरति स्व॒धाभि॒रम॑र्त्यो॒ मर्त्ये॑ना॒ सयो॑निः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “related.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

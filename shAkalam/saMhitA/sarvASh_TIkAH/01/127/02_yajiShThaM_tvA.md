@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -113,7 +114,13 @@ prá ← prá (invariable)
 
 víśaḥ ← víś- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यजि॑ष्ठं त्वा॒ यज॑माना हुवेम॒ ज्येष्ठ॒मङ्गि॑रसां विप्र॒ मन्म॑भि॒र्विप्रे॑भिः शुक्र॒ मन्म॑भिः ।  
+परि॑ज्मानमिव॒ द्यां होता॑रं चर्षणी॒नाम् ।  
+शो॒चिष्के॑शं॒ वृष॑णं॒ यमि॒मा विशः॒ प्राव॑न्तु जू॒तये॒ विशः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -268,7 +275,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

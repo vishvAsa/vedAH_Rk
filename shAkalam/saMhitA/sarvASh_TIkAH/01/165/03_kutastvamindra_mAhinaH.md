@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "मरुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -98,7 +99,12 @@ vocéḥ ← √vac- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कुत॒स्त्वमि॑न्द्र॒ माहि॑नः॒ सन्नेको॑ यासि सत्पते॒ किं त॑ इ॒त्था ।  
+सं पृ॑च्छसे समरा॒णः शु॑भा॒नैर्वो॒चेस्तन्नो॑ हरिवो॒ यत्ते॑ अ॒स्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

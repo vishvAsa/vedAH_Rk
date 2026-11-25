@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ sajóṣāḥ ← sajóṣas- (nominal stem)
 
 vásubhiḥ ← vásu- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं नो॑ अग्ने म॒घव॑द्भ्यः पुरु॒क्षुं र॒यिं नि वाजं॒ श्रुत्यं॑ युवस्व ।  
+वैश्वा॑नर॒ महि॑ नः॒ शर्म॑ यच्छ रु॒द्रेभि॑रग्ने॒ वसु॑भिः स॒जोषाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “consentaneous; combined; associated; united.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

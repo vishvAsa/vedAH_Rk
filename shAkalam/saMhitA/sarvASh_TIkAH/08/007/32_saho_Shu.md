@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ híraṇyavāśībhiḥ ← híraṇyavāśī- (nominal stem)
 
 stuṣé ← √stu- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हो षु णो॒ वज्र॑हस्तैः॒ कण्वा॑सो अ॒ग्निं म॒रुद्भिः॑ ।  
+स्तु॒षे हिर॑ण्यवाशीभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “ax; chisel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -173,7 +178,6 @@ who have golden axes.1044 VIII.8
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/32-33.md">
 <details><summary><h2>32-33 ...{Loading}...</h2></summary>
 
@@ -181,7 +185,6 @@ Note opening 32a #saho ṣu / 33a #o ṣu. Holland & van Nooten Rig Veda edition
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

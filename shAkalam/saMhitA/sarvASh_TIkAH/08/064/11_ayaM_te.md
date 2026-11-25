@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ suṣómāyām ← suṣóma- (nominal stem)
 
 madíntamaḥ ← madíntama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं ते॑ शर्य॒णाव॑ति सु॒षोमा॑या॒मधि॑ प्रि॒यः ।  
+आ॒र्जी॒कीये॑ म॒दिन्त॑मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +117,6 @@ _________
 - “exhilarating; intoxicant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -92,7 +93,12 @@ vakṣayam ← √vakṣ- (root)
 
 vrā́dhataḥ ← √vrādh- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं स॑प्त॒हा नहु॑षो॒ नहु॑ष्टरः॒ प्राश्रा॑वयं॒ शव॑सा तु॒र्वशं॒ यदु॑म् ।  
+अ॒हं न्य१॒॑न्यं सह॑सा॒ सह॑स्करं॒ नव॒ व्राध॑तो नव॒तिं च॑ वक्षयम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “strengthen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ prajā́ḥ ← prajā́- (nominal stem)
 
 purudhá ← purudhá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सहो॑भि॒र्विश्वं॒ परि॑ चक्रमू॒ रजः॒ पूर्वा॒ धामा॒न्यमि॑ता॒ मिमा॑नाः ।  
+त॒नूषु॒ विश्वा॒ भुव॑ना॒ नि ये॑मिरे॒ प्रासा॑रयन्त पुरु॒ध प्र॒जा अनु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “subsequently; behind; along; towards; because.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

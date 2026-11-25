@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "अर्चन् हैरण्यस्तूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -98,7 +99,12 @@ savitā́ ← savitár- (nominal stem)
 
 viśvávāraḥ ← viśvávāra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गाव॑ इव॒ ग्रामं॒ यूयु॑धिरि॒वाश्वा॑न्वा॒श्रेव॑ व॒त्सं सु॒मना॒ दुहा॑ना ।  
+पति॑रिव जा॒याम॒भि नो॒ न्ये॑तु ध॒र्ता दि॒वः स॑वि॒ता वि॒श्ववा॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “treasure; choice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "त्वष्टा"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्वष्टा
@@ -57,7 +58,12 @@ astu ← √as- 1 (root)
 
 kévalaḥ ← kévala- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ह त्वष्टा॑रमग्रि॒यं वि॒श्वरू॑प॒मुप॑ ह्वये ।  
+अ॒स्माक॑मस्तु॒ केव॑लः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     alone(p); single(a); white; absolute.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

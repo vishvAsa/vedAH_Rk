@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ uṣā́ḥ ← uṣás- (nominal stem)
 
 yachati ← √yam- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒षा जनं॑ दर्श॒ता बो॒धय॑न्ती सु॒गान्प॒थः कृ॑ण्व॒ती या॒त्यग्रे॑ ।  
+बृ॒ह॒द्र॒था बृ॑ह॒ती वि॑श्वमि॒न्वोषा ज्योति॑र्यच्छ॒त्यग्रे॒ अह्ना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “day; day; ahar \[word\]; day; day.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -250,7 +255,6 @@ with a lofty chariot, herself lofty, setting all in motion. Dawn extends her  li
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -258,7 +262,6 @@ Just as Savitar follows the lead (prayā́ṇam) of Dawn in 2d, the other gods f
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

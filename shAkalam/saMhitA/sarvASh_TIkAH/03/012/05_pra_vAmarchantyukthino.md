@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -60,7 +61,12 @@ nīthāvídaḥ ← nīthāvíd- (nominal stem)
 
 vr̥ṇe ← √vr̥- ~ vr̥̄- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वा॑मर्चन्त्यु॒क्थिनो॑ नीथा॒विदो॑ जरि॒तारः॑ ।  
+इन्द्रा॑ग्नी॒ इष॒ आ वृ॑णे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

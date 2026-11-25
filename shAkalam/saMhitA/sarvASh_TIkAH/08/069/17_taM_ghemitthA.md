@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ yát ← yá- (pronoun)
 
 dāváne ← √dā- 1 (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं घे॑मि॒त्था न॑म॒स्विन॒ उप॑ स्व॒राज॑मासते ।  
+अर्थं॑ चिदस्य॒ सुधि॑तं॒ यदेत॑व आव॒र्तय॑न्ति दा॒वने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -226,14 +231,12 @@ to give.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/069/17-18.md">
 <details><summary><h2>17-18 ...{Loading}...</h2></summary>
 
 Note the responsion of 17b … āsate# and 18d … āśata#.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

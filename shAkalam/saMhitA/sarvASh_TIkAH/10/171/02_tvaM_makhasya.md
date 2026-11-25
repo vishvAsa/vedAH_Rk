@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इटो भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ gr̥hám ← gr̥há- (nominal stem)
 
 somínaḥ ← somín- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं म॒खस्य॒ दोध॑तः॒ शिरोऽव॑ त्व॒चो भ॑रः ।  
+अग॑च्छः सो॒मिनो॑ गृ॒हम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “house; palace; temple; home; place; family; family; stable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

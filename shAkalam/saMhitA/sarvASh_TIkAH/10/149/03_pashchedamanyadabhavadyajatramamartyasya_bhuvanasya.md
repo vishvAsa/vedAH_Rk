@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "अर्चन् हैरण्यस्तूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -89,7 +90,12 @@ sáḥ ← sá- ~ tá- (pronoun)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒श्चेदम॒न्यद॑भव॒द्यज॑त्र॒मम॑र्त्यस्य॒ भुव॑नस्य भू॒ना ।  
+सु॒प॒र्णो अ॒ङ्ग स॑वि॒तुर्ग॒रुत्मा॒न्पूर्वो॑ जा॒तः स उ॑ अ॒स्यानु॒ धर्म॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “regulation; Dharma; law; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

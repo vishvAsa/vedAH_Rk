@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ ví ← ví (invariable)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ध्रु॒वं ज्योति॒र्निहि॑तं दृ॒शये॒ कं मनो॒ जवि॑ष्ठं प॒तय॑त्स्व॒न्तः ।  
+विश्वे॑ दे॒वाः सम॑नसः॒ सके॑ता॒ एकं॒ क्रतु॑म॒भि वि य॑न्ति सा॒धु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     efficient.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -263,7 +268,6 @@ all the gods, of one mind and one perception, come separately straight to  (him)
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-07.md">
 <details><summary><h2>05-07 ...{Loading}...</h2></summary>
 
@@ -282,7 +286,6 @@ The two vss. are also contrastive. In 5 all the gods sharing the same mind and t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

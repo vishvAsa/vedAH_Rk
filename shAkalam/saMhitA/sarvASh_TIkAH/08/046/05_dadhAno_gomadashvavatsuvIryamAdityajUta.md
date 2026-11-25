@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ rāyā́ ← rayí- ~ rāy- (nominal stem)
 
 sádā ← sádā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दधा॑नो॒ गोम॒दश्व॑वत्सु॒वीर्य॑मादि॒त्यजू॑त एधते ।  
+सदा॑ रा॒या पु॑रु॒स्पृहा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “coveted; desirous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

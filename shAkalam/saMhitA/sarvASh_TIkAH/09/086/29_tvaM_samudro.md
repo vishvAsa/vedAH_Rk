@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं स॑मु॒द्रो अ॑सि विश्व॒वित्क॑वे॒ तवे॒माः पञ्च॑ प्र॒दिशो॒ विध॑र्मणि ।  
+त्वं द्यां च॑ पृथि॒वीं चाति॑ जभ्रिषे॒ तव॒ ज्योतीं॑षि पवमान॒ सूर्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -271,10 +276,6 @@ You have carried yourself beyond heaven and earth; yours are the
 lights, self-purifying one, and the sun.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The cmpd. viśva-víd- is ambiguous here. Geldner and Renou both tr. as ‘allknowing’, and that is favored by the context, since it is immediately followed by the voc. kave (‘sage poet’). But the cmpd recurs in the very similar pāda, 39c tváṃ suvī́ro asi soma viśvavít, and that vs. contains three similarly formed cmpds that surely belong to √vid ‘find’: IX.86.39a govít … vasuvíd dhiraṇyavít. There the context favors ‘all-finding’. (Scarlatta treats the two roots √vid together [489], so he is not forced to distinguish.) I suggest, as usual, that it’s a pun.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -284,7 +285,6 @@ In terms of contents, the tṛca insistently asserts Soma’s universal rule ove
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

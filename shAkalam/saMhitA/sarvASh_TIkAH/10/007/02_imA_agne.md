@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ sujāta ← sujātá- (nominal stem)
 
 váso ← vásu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा अ॑ग्ने म॒तय॒स्तुभ्यं॑ जा॒ता गोभि॒रश्वै॑र॒भि गृ॑णन्ति॒ राधः॑ ।  
+य॒दा ते॒ मर्तो॒ अनु॒ भोग॒मान॒ड्वसो॒ दधा॑नो म॒तिभिः॑ सुजात ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ duṣprāvyàḥ ← duṣprāvī́- (nominal stem)
 
 ít ← ít (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒प्रा॒व्यः॑ प्राशु॒षाळे॒ष वी॒रः सुष्वेः॑ प॒क्तिं कृ॑णुते॒ केव॒लेन्द्रः॑ ।  
+नासु॑ष्वेरा॒पिर्न सखा॒ न जा॒मिर्दु॑ष्प्रा॒व्यो॑ऽवह॒न्तेदवा॑चः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - \[noun\], accusative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -258,12 +263,6 @@ The swaggering victor, the hero—Indra—makes the cooked food of the  hard-str
 No friend of the non-presser, nor comrade, nor kinsman, he strikes  down, deep down, the ill-strivers.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-See Oldenberg’s disc. of kévalā as neut. pl., in agreement with Grassmann
-
-On prāśu-(/śū-) see comm ad VIII.31.6; 32.2, 16.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/025/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -271,7 +270,6 @@ For suprāvī́-/duṣprāvī́- see comm. ad I.34.4.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ sakhyé ← sakhyá- (nominal stem)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो जा॒गार॒ तमृचः॑ कामयन्ते॒ यो जा॒गार॒ तमु॒ सामा॑नि यन्ति ।  
+यो जा॒गार॒ तम॒यं सोम॑ आह॒ तवा॒हम॑स्मि स॒ख्ये न्यो॑काः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “homelike.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -277,7 +282,6 @@ fellowship with you.”
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/044/14-15.md">
 <details><summary><h2>14-15 ...{Loading}...</h2></summary>
 
@@ -288,7 +292,6 @@ are strictly responsive -- so strictly responsive that the replacement of yó in
 Rather the final word is found in the last pāda of both vss., the direct address of Soma to Agni (tám ayám sóma āha “to him does this Soma say”): távāhám asmi sakhyé nyòkaḥ “I am at home in fellowship with you.” It is the fellowship of Agni and Soma, intimately joined here and identified by name, though neither of them was named previously in the hymn, that we are left with and that allows us to revisit the many obscurities that preceded this statement.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

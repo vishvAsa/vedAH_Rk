@@ -4,6 +4,7 @@ devataa = "तनूनपात्"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तनूनपात्
@@ -86,7 +87,12 @@ tánūnapāt ← tánūnápāt- (nominal stem)
 
 vidhántam ← √vidh- (root)  
 {case:ACC, gender:M, number:SG, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं दे॒वास॒स्त्रिरह॑न्ना॒यज॑न्ते दि॒वेदि॑वे॒ वरु॑णो मि॒त्रो अ॒ग्निः ।  
+सेमं य॒ज्ञं मधु॑मन्तं कृधी न॒स्तनू॑नपाद्घृ॒तयो॑निं वि॒धन्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “worship; offer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

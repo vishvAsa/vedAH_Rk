@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -77,7 +78,12 @@ saptá ← saptá- (nominal stem)
 
 śatám ← śatá- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या ओष॑धीः॒ पूर्वा॑ जा॒ता दे॒वेभ्य॑स्त्रियु॒गं पु॒रा ।  
+मनै॒ नु ब॒भ्रूणा॑म॒हं श॒तं धामा॑नि स॒प्त च॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

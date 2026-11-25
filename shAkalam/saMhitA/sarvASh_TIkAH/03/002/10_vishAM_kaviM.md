@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -95,7 +96,12 @@ gárbham ← gárbha- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒शां क॒विं वि॒श्पतिं॒ मानु॑षी॒रिषः॒ सं सी॑मकृण्व॒न्त्स्वधि॑तिं॒ न तेज॑से ।  
+स उ॒द्वतो॑ नि॒वतो॑ याति॒ वेवि॑ष॒त्स गर्भ॑मे॒षु भुव॑नेषु दीधरत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
     begin; dip.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

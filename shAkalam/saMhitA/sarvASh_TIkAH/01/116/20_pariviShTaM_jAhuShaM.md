@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ párvatān ← párvata- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑विष्टं जाहु॒षं वि॒श्वतः॑ सीं सु॒गेभि॒र्नक्त॑मूहथू॒ रजो॑भिः ।  
+वि॒भि॒न्दुना॑ नासत्या॒ रथे॑न॒ वि पर्व॑ताँ अजर॒यू अ॑यातम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

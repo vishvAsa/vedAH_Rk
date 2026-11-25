@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ víśvā ← víśva- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒व॒क्ष इन्द्रो॒ अमि॑तमृजी॒ष्यु१॒॑भे आ प॑प्रौ॒ रोद॑सी महि॒त्वा ।  
+अत॑श्चिदस्य महि॒मा वि रे॑च्य॒भि यो विश्वा॒ भुव॑ना ब॒भूव॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

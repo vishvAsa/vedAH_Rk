@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -80,7 +81,12 @@ sthávirasya ← sthávira- (nominal stem)
 
 vā́jasya ← vā́ja- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता सा॑न॒सी श॑वसाना॒ हि भू॒तं सा॑कं॒वृधा॒ शव॑सा शूशु॒वांसा॑ ।  
+क्षय॑न्तौ रा॒यो यव॑सस्य॒ भूरेः॑ पृ॒ङ्क्तं वाज॑स्य॒ स्थवि॑रस्य॒ घृष्वेः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “anticipated; electrifying.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

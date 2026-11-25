@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ ráthe ← rátha- (nominal stem)
 
 vahantu ← √vah- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त॑ इन्द्र महि॒मानं॒ हर॑यो देव ते॒ महः॑ ।  
+रथे॑ वहन्तु॒ बिभ्र॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,10 +175,6 @@ _________
 Your greatness, Indra, your grandeur, god—let your fallow bays, bearing it, carry it here on your chariot.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Since váśat is a subjunctive, strictly speaking it should be tr. “as he will wish.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/065/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -181,7 +182,6 @@ Note the cross-pragātha lexical agreement: 4a purusambhrtám̥ , 5c sám bharā
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

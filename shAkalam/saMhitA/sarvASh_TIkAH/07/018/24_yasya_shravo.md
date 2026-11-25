@@ -4,6 +4,7 @@ devataa = "सुदासः पैजवनस्य दानस्तुत�
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सुदासः पैजवनस्य दानस्तुतिः
@@ -86,7 +87,12 @@ ní ← ní (invariable)
 
 yudhyāmadhím ← yudhyāmadhí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॒ श्रवो॒ रोद॑सी अ॒न्तरु॒र्वी शी॒र्ष्णेशी॑र्ष्णे विब॒भाजा॑ विभ॒क्ता ।  
+स॒प्तेदिन्द्रं॒ न स्र॒वतो॑ गृणन्ति॒ नि यु॑ध्याम॒धिम॑शिशाद॒भीके॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “battle; meeting.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

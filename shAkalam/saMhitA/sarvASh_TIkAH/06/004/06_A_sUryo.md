@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ pátman ← pátman- (nominal stem)
 
 śocíṣā ← śocís- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ सूर्यो॒ न भा॑नु॒मद्भि॑र॒र्कैरग्ने॑ त॒तन्थ॒ रोद॑सी॒ वि भा॒सा ।  
+चि॒त्रो न॑य॒त्परि॒ तमां॑स्य॒क्तः शो॒चिषा॒ पत्म॑न्नौशि॒जो न दीय॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

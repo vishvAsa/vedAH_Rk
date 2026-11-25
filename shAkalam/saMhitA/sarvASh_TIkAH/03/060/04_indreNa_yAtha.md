@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -92,7 +93,12 @@ saúdhanvanāḥ ← saudhanvaná- (nominal stem)
 
 vīryā̀ṇi ← vīryà- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रे॑ण याथ स॒रथं॑ सु॒ते सचाँ॒ अथो॒ वशा॑नां भवथा स॒ह श्रि॒या ।  
+न वः॑ प्रति॒मै सु॑कृ॒तानि॑ वाघतः॒ सौध॑न्वना ऋभवो वी॒र्या॑णि च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

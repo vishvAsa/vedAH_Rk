@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ mā ← ahám (pronoun)
 
 pitáraḥ ← pitár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑न्तु॒ मामु॒षसो॒ जाय॑माना॒ अव॑न्तु मा॒ सिन्ध॑वः॒ पिन्व॑मानाः ।  
+अव॑न्तु मा॒ पर्व॑तासो ध्रु॒वासोऽव॑न्तु मा पि॒तरो॑ दे॒वहू॑तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

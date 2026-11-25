@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ yát ← yá- (pronoun)
 
 várūtham ← várūtha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि नो॑ देवासो अद्रु॒होऽच्छि॑द्रं॒ शर्म॑ यच्छत ।  
+न यद्दू॒राद्व॑सवो॒ नू चि॒दन्ति॑तो॒ वरू॑थमाद॒धर्ष॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “overcome; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

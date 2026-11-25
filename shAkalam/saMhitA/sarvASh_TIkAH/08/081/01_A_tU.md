@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ dákṣiṇena ← dákṣiṇa- (nominal stem)
 
 mahāhastī́ ← mahāhastín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ तू न॑ इन्द्र क्षु॒मन्तं॑ चि॒त्रं ग्रा॒भं सं गृ॑भाय ।  
+म॒हा॒ह॒स्ती दक्षि॑णेन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
     clockwise; deft.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

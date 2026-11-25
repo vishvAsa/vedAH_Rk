@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ duduhe ← √duh- (root)
 
 śukrám ← śukrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दश॒ क्षिपो॑ युञ्जते बा॒हू अद्रिं॒ सोम॑स्य॒ या श॑मि॒तारा॑ सु॒हस्ता॑ ।  
+मध्वो॒ रसं॑ सु॒गभ॑स्तिर्गिरि॒ष्ठां चनि॑श्चदद्दुदुहे शु॒क्रमं॒शुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

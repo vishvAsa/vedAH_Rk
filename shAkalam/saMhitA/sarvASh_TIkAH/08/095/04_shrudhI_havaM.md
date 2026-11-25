@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ pūrdhi ← √pr̥̄- 2 (root)
 
 rāyáḥ ← rayí- ~ rāy- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रु॒धी हवं॑ तिर॒श्च्या इन्द्र॒ यस्त्वा॑ सप॒र्यति॑ ।  
+सु॒वीर्य॑स्य॒ गोम॑तो रा॒यस्पू॑र्धि म॒हाँ अ॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

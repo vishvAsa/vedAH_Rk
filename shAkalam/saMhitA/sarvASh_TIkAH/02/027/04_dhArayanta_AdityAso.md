@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -74,7 +75,12 @@ r̥ṇā́ni ← r̥ṇá- (nominal stem)
 
 r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धा॒रय॑न्त आदि॒त्यासो॒ जग॒त्स्था दे॒वा विश्व॑स्य॒ भुव॑नस्य गो॒पाः ।  
+दी॒र्घाधि॑यो॒ रक्ष॑माणा असु॒र्य॑मृ॒तावा॑न॒श्चय॑माना ऋ॒णानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “debt; debt; ṛṇa \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -52,7 +53,11 @@ ketúm ← ketú- (nominal stem)
 
 vīrám ← vīrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्मना॑ स॒मत्सु॑ हि॒नोत॑ य॒ज्ञं दधा॑त के॒तुं जना॑य वी॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +117,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -140,7 +144,6 @@ Establish it as a beacon, a hero for the people.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -156,7 +159,6 @@ The 2nd pl. impvs. in these two vss., 5a abhí prá sthāta, 5d hinota, 6b hinó
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

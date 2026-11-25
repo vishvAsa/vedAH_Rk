@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -92,7 +93,12 @@ uṣā́saḥ ← uṣás- (nominal stem)
 
 várṇena ← várṇa- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+का म॒र्यादा॑ व॒युना॒ कद्ध॑ वा॒ममच्छा॑ गमेम र॒घवो॒ न वाज॑म् ।  
+क॒दा नो॑ दे॒वीर॒मृत॑स्य॒ पत्नीः॒ सूरो॒ वर्णे॑न ततनन्नु॒षासः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “Ushas; dawn; uṣas \[word\]; morning.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

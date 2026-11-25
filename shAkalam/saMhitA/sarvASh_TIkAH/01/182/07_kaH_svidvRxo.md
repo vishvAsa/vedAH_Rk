@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ kám ← kám (invariable)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कः स्वि॑द्वृ॒क्षो निष्ठि॑तो॒ मध्ये॒ अर्ण॑सो॒ यं तौ॒ग्र्यो ना॑धि॒तः प॒र्यष॑स्वजत् ।  
+प॒र्णा मृ॒गस्य॑ प॒तरो॑रिवा॒रभ॒ उद॑श्विना ऊहथुः॒ श्रोम॑ताय॒ कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “kaṃ \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -64,7 +65,12 @@ vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)
 
 vavákṣitha ← √vakṣ- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नो॑ दे॒वः प॑रा॒वतः॑ सखित्व॒नाय॑ माम॒हे ।  
+दि॒वो न वृ॒ष्टिं प्र॒थय॑न्व॒वक्षि॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “grow; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -166,10 +171,6 @@ _________
 The god from afar who has become ready for partnership with us— spreading like the one who spreads the rain from heaven [=Parjanya],  you have waxed strong.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In c pratháyan is used differently in simile and frame. In the former it is straightforwardly transitive, with vṛṣṭím as object; in the latter it is intransitive or, at least, absolute, as in, e.g., IV.53.2.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -177,7 +178,6 @@ The verbal form that constitutes the refrain, vavákṣitha ‘you have waxed st
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

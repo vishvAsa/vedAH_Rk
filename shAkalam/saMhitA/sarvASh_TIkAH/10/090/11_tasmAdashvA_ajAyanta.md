@@ -83,6 +83,12 @@ ucyete ← √vac- (root)
 {case:NOM, gender:M, number:DU}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मा॒दश्वा॑ अजायन्त॒ ये के चो॑भ॒याद॑तः ।  
+गावो॑ ह जज्ञिरे॒ तस्मा॒त्तस्मा॑ज्जा॒ता अ॑जा॒वयः॑ ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तस्मा॑त् । अश्वाः॑ । अ॒जा॒य॒न्त॒ । ये । के । च॒ । उ॒भ॒याद॑तः ।  

@@ -4,6 +4,7 @@ devataa = "राज्ञस्तुतिः"
 RShiH = "ध्रुवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राज्ञस्तुतिः
@@ -80,7 +81,12 @@ dhruvám ← dhruvá- (nominal stem)
 
 rāṣṭrám ← rāṣṭrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ध्रु॒वं ते॒ राजा॒ वरु॑णो ध्रु॒वं दे॒वो बृह॒स्पतिः॑ ।  
+ध्रु॒वं त॒ इन्द्र॑श्चा॒ग्निश्च॑ रा॒ष्ट्रं धा॑रयतां ध्रु॒वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     immovable; fixed; fixed; vital; faithful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

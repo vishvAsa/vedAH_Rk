@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रस्नुषा वसुक्रपत्नी ऋषिका"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ púnar ← púnar (invariable)
 
 svā̀śitaḥ ← svā̀śita- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वो॒ ह्य१॒॑न्यो अ॒रिरा॑ज॒गाम॒ ममेदह॒ श्वशु॑रो॒ ना ज॑गाम ।  
+ज॒क्षी॒याद्धा॒ना उ॒त सोमं॑ पपीया॒त्स्वा॑शितः॒ पुन॒रस्तं॑ जगायात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

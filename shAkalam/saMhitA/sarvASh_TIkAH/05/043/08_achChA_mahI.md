@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ nā́bhim ← nā́bhi- (nominal stem)
 
 nidhím ← nidhí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॑ म॒ही बृ॑ह॒ती शन्त॑मा॒ गीर्दू॒तो न ग॑न्त्व॒श्विना॑ हु॒वध्यै॑ ।  
+म॒यो॒भुवा॑ स॒रथा या॑तम॒र्वाग्ग॒न्तं नि॒धिं धुर॑मा॒णिर्न नाभि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
     \[word\]; friendship; center.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

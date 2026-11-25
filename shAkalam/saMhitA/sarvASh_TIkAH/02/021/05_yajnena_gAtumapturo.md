@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ hinvānā́ḥ ← √hi- (root)
 
 índre ← índra- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञेन॑ गा॒तुम॒प्तुरो॑ विविद्रिरे॒ धियो॑ हिन्वा॒ना उ॒शिजो॑ मनी॒षिणः॑ ।  
+अ॒भि॒स्वरा॑ नि॒षदा॒ गा अ॑व॒स्यव॒ इन्द्रे॑ हिन्वा॒ना द्रवि॑णान्याशत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

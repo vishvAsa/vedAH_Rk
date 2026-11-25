@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "जगती"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -109,7 +109,12 @@ jyók ← jyók (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ममू॒ षु वो॒ अति॑थिमुष॒र्बुधं॒ विश्वा॑सां वि॒शां पति॑मृञ्जसे गि॒रा ।  
+वेतीद्दि॒वो ज॒नुषा॒ कच्चि॒दा शुचि॒र्ज्योक्चि॑दत्ति॒ गर्भो॒ यदच्यु॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -267,7 +272,6 @@ _________
 - “firm; regular; permanent; immovable; unchanging.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -333,8 +337,6 @@ Mit meinem Liede streb' ich diesem euren Gast, der Morgens wacht, dem Herren all
 Направляется он с неба, всегда чистый с самого рождения.  
 Еще зародышем, он уже съедает (то,) что непоколебимо.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "बिन्दुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ indriyám ← indriyá- (nominal stem)
 
 vagnúm ← vagnú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दु॑र्हिया॒नः सो॒तृभि॑र्मृ॒ज्यमा॑नः॒ कनि॑क्रदत् ।  
+इय॑र्ति व॒ग्नुमि॑न्द्रि॒यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “aindra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

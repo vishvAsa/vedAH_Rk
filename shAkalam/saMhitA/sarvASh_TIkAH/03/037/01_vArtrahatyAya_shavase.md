@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ tvā ← tvám (pronoun)
 
 vartayāmasi ← √vr̥t- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वार्त्र॑हत्याय॒ शव॑से पृतना॒षाह्या॑य च ।  
+इन्द्र॒ त्वा व॑र्तयामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +112,6 @@ _________
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vājī́ ← vājín- (nominal stem)
 
 vidáthe ← vidátha- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ततु॑रिर्वी॒रो नर्यो॒ विचे॑ताः॒ श्रोता॒ हवं॑ गृण॒त उ॒र्व्यू॑तिः ।  
+वसुः॒ शंसो॑ न॒रां का॒रुधा॑या वा॒जी स्तु॒तो वि॒दथे॑ दाति॒ वाज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -229,12 +234,6 @@ The surpassing hero, favorable to men, discriminating, the hearer of the  singer
 the good one, the Laud of Men, who gives succor to bards, praised as  the prizewinner, he gives the prize at the rite of distribution.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner supplies the verb ‘drive’ in c (“Mit diesen (treib) alle Angriffe auseinander”), but I see no reason why it can’t be in the orbit of d. In vs. 1 the two pādas cd share a single verb (avīḥ c), as do the first two pādas of this vs. (vyathayā).
-
-With this pattern established, it seems reasonable to take áva tārīḥ in d as also governing the accusatives of c. Under this interpr., I take víṣūcīḥ as proleptic, rather like 3d kṛṇuhī́párācaḥ “put them far away.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -242,7 +241,6 @@ On avīḥ (1c) and áva tārīḥ (2d) as “hortativ,” see Hoffmann Injunk. 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

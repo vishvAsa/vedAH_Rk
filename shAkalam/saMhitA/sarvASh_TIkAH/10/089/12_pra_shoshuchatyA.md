@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ héṣasā ← héṣas- (nominal stem)
 
 tápiṣṭhena ← tápiṣṭha- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र शोशु॑चत्या उ॒षसो॒ न के॒तुर॑सि॒न्वा ते॑ वर्ततामिन्द्र हे॒तिः ।  
+अश्मे॑व विध्य दि॒व आ सृ॑जा॒नस्तपि॑ष्ठेन॒ हेष॑सा॒ द्रोघ॑मित्रान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - \[noun\], accusative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -65,7 +66,12 @@ r̥jīṣíṇam ← r̥jīṣín- (nominal stem)
 
 sutébhiḥ ← √su- (root)  
 {case:INS, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एमे॑नं प्र॒त्येत॑न॒ सोमे॑भिः सोम॒पात॑मम् ।  
+अम॑त्रेभिरृजी॒षिण॒मिन्द्रं॑ सु॒तेभि॒रिन्दु॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

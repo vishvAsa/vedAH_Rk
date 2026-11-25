@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ tanū́ṣu ← tanū́- (nominal stem)
 
 viviśuḥ ← √viś- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हि॒म्न ए॑षां पि॒तर॑श्च॒नेशि॑रे दे॒वा दे॒वेष्व॑दधु॒रपि॒ क्रतु॑म् ।  
+सम॑विव्यचुरु॒त यान्यत्वि॑षु॒रैषां॑ त॒नूषु॒ नि वि॑विशुः॒ पुनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     however; besides.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

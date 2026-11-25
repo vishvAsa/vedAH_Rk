@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ vājinīvasū ← vājínīvasu- (nominal stem)
 
 yajñaíḥ ← yajñá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को वा॑म॒द्य पु॑रू॒णामा व॑व्ने॒ मर्त्या॑नाम् ।  
+को विप्रो॑ विप्रवाहसा॒ को य॒ज्ञैर्वा॑जिनीवसू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - \[noun\], vocative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

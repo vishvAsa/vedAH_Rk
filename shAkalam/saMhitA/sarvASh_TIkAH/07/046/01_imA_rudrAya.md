@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -74,7 +75,12 @@ naḥ ← ahám (pronoun)
 
 tigmā́yudhāya ← tigmā́yudha- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा रु॒द्राय॑ स्थि॒रध॑न्वने॒ गिरः॑ क्षि॒प्रेष॑वे दे॒वाय॑ स्व॒धाव्ने॑ ।  
+अषा॑ळ्हाय॒ सह॑मानाय वे॒धसे॑ ति॒ग्मायु॑धाय भरता शृ॒णोतु॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -217,10 +222,6 @@ Bring these songs to Rudra, whose bow is taut and whose arrow is swift,  to the 
 to the unvanquishable, vanquishing adept whose weapons are sharp. Let  him hear us.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I have deliberately omitted to tr. the 2nd enclitic vaḥ, found in c.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/046/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -229,7 +230,6 @@ devayántaḥ in 1ab with 3rd ps. referent (see the 3rd pl. verb ákṛṇvata) 
 [VII.48 JPB]
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

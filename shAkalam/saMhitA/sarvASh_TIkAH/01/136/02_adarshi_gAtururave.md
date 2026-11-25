@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -116,7 +117,13 @@ upastútyam ← upastútya- (nominal stem)
 
 váyaḥ ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद॑र्शि गा॒तुरु॒रवे॒ वरी॑यसी॒ पन्था॑ ऋ॒तस्य॒ सम॑यंस्त र॒श्मिभि॒श्चक्षु॒र्भग॑स्य र॒श्मिभिः॑ ।  
+द्यु॒क्षं मि॒त्रस्य॒ साद॑नमर्य॒म्णो वरु॑णस्य च ।  
+अथा॑ दधाते बृ॒हदु॒क्थ्यं१॒॑ वय॑ उप॒स्तुत्यं॑ बृ॒हद्वयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -292,7 +299,6 @@ _________
     food.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

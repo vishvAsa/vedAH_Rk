@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ रक्षोहणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ रक्षोहणौ
@@ -80,7 +81,12 @@ vāvr̥dhānám ← √vr̥dh- (root)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑सोमा व॒र्तय॑तं दि॒वो व॒धं सं पृ॑थि॒व्या अ॒घशं॑साय॒ तर्ह॑णम् ।  
+उत्त॑क्षतं स्व॒र्यं१॒॑ पर्व॑तेभ्यो॒ येन॒ रक्षो॑ वावृधा॒नं नि॒जूर्व॑थः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “burn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

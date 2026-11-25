@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ rájaḥ ← rájas- (nominal stem)
 
 vyàdhvanaḥ ← vyàdhvan- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि यदस्था॑द्यज॒तो वात॑चोदितो ह्वा॒रो न वक्वा॑ ज॒रणा॒ अना॑कृतः ।  
+तस्य॒ पत्म॑न्द॒क्षुषः॑ कृ॒ष्णजं॑हसः॒ शुचि॑जन्मनो॒ रज॒ आ व्य॑ध्वनः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

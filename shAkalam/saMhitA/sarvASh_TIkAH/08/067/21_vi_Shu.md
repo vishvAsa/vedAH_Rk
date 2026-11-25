@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -66,7 +67,12 @@ víṣvak ← víṣvañc- (nominal stem)
 
 vr̥hata ← √vr̥h- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि षु द्वेषो॒ व्यं॑ह॒तिमादि॑त्यासो॒ वि संहि॑तम् ।  
+विष्व॒ग्वि वृ॑हता॒ रपः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “injury; disease; infirmity; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

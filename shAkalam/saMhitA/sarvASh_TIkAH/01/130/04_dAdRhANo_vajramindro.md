@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -122,7 +123,13 @@ paraśvā́ ← paraśú- (nominal stem)
 
 vr̥ścasi ← √vr̥śc- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दा॒दृ॒हा॒णो वज्र॒मिन्द्रो॒ गभ॑स्त्योः॒ क्षद्मे॑व ति॒ग्ममस॑नाय॒ सं श्य॑दहि॒हत्या॑य॒ सं श्य॑त् ।  
+सं॒वि॒व्या॒न ओज॑सा॒ शवो॑भिरिन्द्र म॒ज्मना॑ ।  
+तष्टे॑व वृ॒क्षं व॒निनो॒ नि वृ॑श्चसि पर॒श्वेव॒ नि वृ॑श्चसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -308,7 +315,6 @@ _________
 - “cleave; fell; cut off; hew.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

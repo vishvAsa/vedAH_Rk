@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -67,7 +68,12 @@ raṇa ← √ranⁱ- (root)
 
 suté ← √su- (root)  
 {case:LOC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒जूर्विश्वे॑भिर्दे॒वेभि॑र॒श्विभ्या॑मु॒षसा॑ स॒जूः ।  
+आ या॑ह्यग्ने अत्रि॒वत्सु॒ते र॑ण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “rejoice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

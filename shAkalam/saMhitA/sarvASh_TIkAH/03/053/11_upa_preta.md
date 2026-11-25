@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ váre ← vára- 2 (nominal stem)
 
 yajāte ← √yaj- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॒ प्रेत॑ कुशिकाश्चे॒तय॑ध्व॒मश्वं॑ रा॒ये प्र मु॑ञ्चता सु॒दासः॑ ।  
+राजा॑ वृ॒त्रं ज॑ङ्घन॒त्प्रागपा॒गुद॒गथा॑ यजाते॒ वर॒ आ पृ॑थि॒व्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ víśaḥ ← víś- (nominal stem)
 
 yuṣmā́n ← tvám (pronoun)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्या॑ वृध॒स्नू रोहि॑ता घृ॒तस्नू॑ ऋ॒तस्य॑ मन्ये॒ मन॑सा॒ जवि॑ष्ठा ।  
+अ॒न्तरी॑यसे अरु॒षा यु॑जा॒नो यु॒ष्माँश्च॑ दे॒वान्विश॒ आ च॒ मर्ता॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

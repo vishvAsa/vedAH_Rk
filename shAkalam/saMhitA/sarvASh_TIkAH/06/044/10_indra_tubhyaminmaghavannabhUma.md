@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ radhracódanam ← radhracódana- (nominal stem)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ तुभ्य॒मिन्म॑घवन्नभूम व॒यं दा॒त्रे ह॑रिवो॒ मा वि वे॑नः ।  
+नकि॑रा॒पिर्द॑दृशे मर्त्य॒त्रा किम॒ङ्ग र॑ध्र॒चोद॑नं त्वाहुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     explain; say; define.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

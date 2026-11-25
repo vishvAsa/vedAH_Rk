@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ súṣutasya ← súṣuta- (nominal stem)
 
 tú ← tú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ते॑ सप॒र्यू ज॒वसे॑ युनज्मि॒ ययो॒रनु॑ प्र॒दिवः॑ श्रु॒ष्टिमावः॑ ।  
+इ॒ह त्वा॑ धेयु॒र्हर॑यः सुशिप्र॒ पिबा॒ त्व१॒॑स्य सुषु॑तस्य॒ चारोः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

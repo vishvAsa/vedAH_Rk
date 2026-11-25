@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ devā́n ← devá- (nominal stem)
 
 víśvān ← víśva- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दैव्या॒ होता॑रा प्रथ॒मा पु॒रोहि॑त ऋ॒तस्य॒ पन्था॒मन्वे॑मि साधु॒या ।  
+क्षेत्र॑स्य॒ पतिं॒ प्रति॑वेशमीमहे॒ विश्वा॑न्दे॒वाँ अ॒मृताँ॒ अप्र॑युच्छतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “ceaseless; attentive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

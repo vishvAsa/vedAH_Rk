@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "कृत्नुर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -66,7 +67,12 @@ tŕ̥ṣyataḥ ← √tr̥ṣ- (root)
 
 vavr̥jyúḥ ← √vr̥j- 1 (root)  
 {number:PL, person:3, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्थिनो॒ यन्ति॒ चेदर्थं॒ गच्छा॒निद्द॒दुषो॑ रा॒तिम् ।  
+व॒वृ॒ज्युस्तृष्य॑तः॒ काम॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

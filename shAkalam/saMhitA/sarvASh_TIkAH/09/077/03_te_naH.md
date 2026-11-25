@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ jujuṣúḥ ← √juṣ- (root)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते नः॒ पूर्वा॑स॒ उप॑रास॒ इन्द॑वो म॒हे वाजा॑य धन्वन्तु॒ गोम॑ते ।  
+ई॒क्षे॒ण्या॑सो अ॒ह्यो॒३॒॑ न चार॑वो॒ ब्रह्म॑ब्रह्म॒ ये जु॑जु॒षुर्ह॒विर्ह॑विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “Havya; offering; ghee; havis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

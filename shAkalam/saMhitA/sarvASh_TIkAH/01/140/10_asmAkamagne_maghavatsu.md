@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती त्रिष्टुब्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ várma ← várman- (nominal stem)
 
 yutsú ← yúdh- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माक॑मग्ने म॒घव॑त्सु दीदि॒ह्यध॒ श्वसी॑वान्वृष॒भो दमू॑नाः ।  
+अ॒वास्या॒ शिशु॑मतीरदीदे॒र्वर्मे॑व यु॒त्सु प॑रि॒जर्भु॑राणः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "चित्रमहा वासिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ pr̥ṇaté ← √pr̥̄- 1 (root)
 
 suvī́ryam ← suvī́rya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञस्य॑ के॒तुं प्र॑थ॒मं पु॒रोहि॑तं ह॒विष्म॑न्त ईळते स॒प्त वा॒जिन॑म् ।  
+शृ॒ण्वन्त॑म॒ग्निं घृ॒तपृ॑ष्ठमु॒क्षणं॑ पृ॒णन्तं॑ दे॒वं पृ॑ण॒ते सु॒वीर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

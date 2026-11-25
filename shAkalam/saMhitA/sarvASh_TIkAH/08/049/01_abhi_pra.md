@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ sahásreṇa ← sahásra- (nominal stem)
 
 śíkṣati ← √śak- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्र वः॑ सु॒राध॑स॒मिन्द्र॑मर्च॒ यथा॑ वि॒दे ।  
+यो ज॑रि॒तृभ्यो॑ म॒घवा॑ पुरू॒वसुः॑ स॒हस्रे॑णेव॒ शिक्ष॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “help; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

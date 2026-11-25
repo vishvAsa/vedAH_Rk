@@ -4,6 +4,7 @@ devataa = "नृणां विवाहमन्त्रा आशीःप�
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नृणां विवाहमन्त्रा आशीःप्रायाः
@@ -92,7 +93,12 @@ te ← tvám (pronoun)
 
 viddhi ← √vid- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदी॒र्ष्वातः॒ पति॑वती॒ ह्ये॒३॒॑षा वि॒श्वाव॑सुं॒ नम॑सा गी॒र्भिरी॑ळे ।  
+अ॒न्यामि॑च्छ पितृ॒षदं॒ व्य॑क्तां॒ स ते॑ भा॒गो ज॒नुषा॒ तस्य॑ विद्धि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

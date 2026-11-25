@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -61,7 +62,11 @@ védaḥ ← védas- 1 (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि त्वा॒ नरः॑ पुरु॒त्रा स॑पर्यन्पि॒तुर्न जिव्रे॒र्वि वेदो॑ भरन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +143,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -157,10 +161,6 @@ Men serve you separately in many places;
 they bear (you) away separately as (sons bear away) the property of  their aging father.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Neither of these hemistichs produces two proper Dvipadā Virāj pādas. The first divides into 4 / 6 and presents as a Triṣṭubh lacking a syllable; the second has 11 syllables and is simply a Triṣṭubh, though with an irregular break.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -168,7 +168,6 @@ See Proferes (pp. 48-49) on these contrastive verses. Note the complementary bh�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

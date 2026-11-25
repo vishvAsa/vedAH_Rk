@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -98,7 +99,12 @@ kar ← √kr̥- (root)
 
 míthu ← míthu (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा त्वा॑ तपत्प्रि॒य आ॒त्मापि॒यन्तं॒ मा स्वधि॑तिस्त॒न्व१॒॑ आ ति॑ष्ठिपत्ते ।  
+मा ते॑ गृ॒ध्नुर॑विश॒स्ताति॒हाय॑ छि॒द्रा गात्रा॑ण्य॒सिना॒ मिथू॑ कः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

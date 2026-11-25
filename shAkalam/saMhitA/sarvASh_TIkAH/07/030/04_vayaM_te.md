@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ jaraṇā́m ← jaraṇā́- (nominal stem)
 
 svābhúvaḥ ← svābhū́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं ते त॑ इन्द्र॒ ये च॑ देव॒ स्तव॑न्त शूर॒ दद॑तो म॒घानि॑ ।  
+यच्छा॑ सू॒रिभ्य॑ उप॒मं वरू॑थं स्वा॒भुवो॑ जर॒णाम॑श्नवन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ santu ← √as- 1 (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+माकि॑र्न ए॒ना स॒ख्या वि यौ॑षु॒स्तव॑ चेन्द्र विम॒दस्य॑ च॒ ऋषेः॑ ।  
+वि॒द्मा हि ते॒ प्रम॑तिं देव जामि॒वद॒स्मे ते॑ सन्तु स॒ख्या शि॒वानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -259,7 +265,6 @@ _________
     holy; nice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

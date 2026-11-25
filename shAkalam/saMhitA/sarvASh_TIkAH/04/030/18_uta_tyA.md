@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ saráyoḥ ← saráyu- (nominal stem)
 
 avadhīḥ ← √vadhⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्या स॒द्य आर्या॑ स॒रयो॑रिन्द्र पा॒रतः॑ ।  
+अर्णा॑चि॒त्रर॑थावधीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “kill; assail; kick; māray; destroy; beat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -158,7 +163,6 @@ to the far side of the Sarayu (River), o Indra.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details><summary><h2>08-21 ...{Loading}...</h2></summary>
 
@@ -166,7 +170,6 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

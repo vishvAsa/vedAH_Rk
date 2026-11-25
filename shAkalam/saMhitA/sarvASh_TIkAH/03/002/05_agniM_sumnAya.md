@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -77,7 +78,12 @@ sā́dhadiṣṭim ← sā́dhadiṣṭi- (nominal stem)
 
 yajñā́nām ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं सु॒म्नाय॑ दधिरे पु॒रो जना॒ वाज॑श्रवसमि॒ह वृ॒क्तब॑र्हिषः ।  
+य॒तस्रु॑चः सु॒रुचं॑ वि॒श्वदे॑व्यं रु॒द्रं य॒ज्ञानां॒ साध॑दिष्टिम॒पसा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “busy; effective; hardworking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

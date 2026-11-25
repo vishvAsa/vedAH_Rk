@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ sómaiḥ ← sóma- (nominal stem)
 
 vásūni ← vásu- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+योनि॑ष्ट इन्द्र॒ सद॑ने अकारि॒ तमा नृभिः॑ पुरुहूत॒ प्र या॑हि ।  
+असो॒ यथा॑ नोऽवि॒ता वृ॒धे च॒ ददो॒ वसू॑नि म॒मद॑श्च॒ सोमैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -259,7 +265,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

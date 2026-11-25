@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -92,7 +93,12 @@ ná ← ná (invariable)
 
 túviṣmān ← túviṣmant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑स्तुतिं॒ नम॑स॒ उद्य॑तिं च॒ श्लोकं॑ यंसत्सवि॒तेव॒ प्र बा॒हू ।  
+अ॒स्य क्रत्वा॑ह॒न्यो॒३॒॑ यो अस्ति॑ मृ॒गो न भी॒मो अ॑र॒क्षस॒स्तुवि॑ष्मान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “powerful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

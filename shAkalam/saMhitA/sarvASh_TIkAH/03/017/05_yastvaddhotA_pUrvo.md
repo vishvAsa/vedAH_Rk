@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कतो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -101,7 +102,12 @@ dhāḥ ← √dhā- 1 (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्त्वद्धोता॒ पूर्वो॑ अग्ने॒ यजी॑यान्द्वि॒ता च॒ सत्ता॑ स्व॒धया॑ च श॒म्भुः ।  
+तस्यानु॒ धर्म॒ प्र य॑जा चिकि॒त्वोऽथ॑ नो धा अध्व॒रं दे॒ववी॑तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -261,7 +267,6 @@ _________
 - \[noun\], locative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

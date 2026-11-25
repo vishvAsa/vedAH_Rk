@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ gáyam ← gáya- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒द्मा हि त्वा॑ धनंज॒यमिन्द्र॑ दृ॒ळ्हा चि॑दारु॒जम् ।  
+आ॒दा॒रिणं॒ यथा॒ गय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

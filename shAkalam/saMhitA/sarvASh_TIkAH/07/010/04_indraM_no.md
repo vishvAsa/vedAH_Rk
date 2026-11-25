@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)
 
 viśvávāram ← viśvávāra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रं॑ नो अग्ने॒ वसु॑भिः स॒जोषा॑ रु॒द्रं रु॒द्रेभि॒रा व॑हा बृ॒हन्त॑म् ।  
+आ॒दि॒त्येभि॒रदि॑तिं वि॒श्वज॑न्यां॒ बृह॒स्पति॒मृक्व॑भिर्वि॒श्ववा॑रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “treasure; choice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

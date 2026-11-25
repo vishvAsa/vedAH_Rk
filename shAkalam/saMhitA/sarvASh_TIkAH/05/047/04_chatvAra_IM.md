@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिरथ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ pári ← pári (invariable)
 
 sadyás ← sadyás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒त्वार॑ ईं बिभ्रति क्षेम॒यन्तो॒ दश॒ गर्भं॑ च॒रसे॑ धापयन्ते ।  
+त्रि॒धात॑वः पर॒मा अ॑स्य॒ गावो॑ दि॒वश्च॑रन्ति॒ परि॑ स॒द्यो अन्ता॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     ant; edge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -243,18 +248,6 @@ The four chief priests: the text has only catvāraḥ, four; ṛtvijaḥ are imp
 Four bear him, affording rest; ten give the infant suck, for (him to) move. Threefold are his highest cows; they circle around the ends of heaven in a  single day: (Agni?).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As often elsewhere in the RV, numerology begets obscurity. Nonetheless, the most likely referent here is Agni. As Geldner points out, the four and the ten in the 1st hemistich may well refer to the four priests (so already Sāyaṇa.) or the four arms of the two main priests, the ten, as often, to the fingers. The “bearing” by the four might refer to the transport of the new Āhavanīya to the east end of the ritual ground and the depositing there (hence the “rest”); the ten (fingers) are making offering into the fire (“giving it suck”), to cause it to flare up. Hence the balanced opposition of rest and motion in ab.
-
-The threefold cows of pāda c are puzzling, but three is of course a number closely associated with Agni: the three ritual fires, his three births (e.g., X.45.1), the three pressings, etc. For Agni’s triads, cf. X.45.2 (right after the three births just referred to) vidmā́te agne tredhā́trayā́ṇi “we know your threefold triads” (also VIII.39.9 for his three domains). See also tridhā́tu-śṛṅga- ‘having tripartite horns’ of Agni in nearby V.43.13, where it may refer to the three hearths - not candidates for our tripartite cows, I’m afraid. For these threefold cows Sāyaṇa (see Geldner n. 4c; so also Renou) suggests sun’s rays, Witzel Gotō milk-streams, but ‘threefold’ is not a standard characterization of either set. Note also tridhā́tubhir áruṣībhiḥ “with threefold ruddy (cows)” in IX.111.2, where the phrase refers to accoutrements of Soma, and Soma is a possible, if somewhat unlikely, referent for this vs. as well: the ten (fingers) are a common trope in the soma maṇḍala, referring to the priests pressing and preparing the drink. Pāda a is harder to apply to soma, beyond the generic notion of four priests.
-
-The circling threefold cows could, I suppose, be the streams of the heavenly soma.
-
-Still, Agni seems a better, though not perfect, candidate.
-
-Pāda d, with diváḥ … ántān# “the ends of heaven,” echoes 3d rájasaḥ … ántau# “the two ends of the airy realm,” and both contrast with the “endless” (anantā́saḥ) paths of 2cd. The dual in 3d points to a straight trajectory from one end to the other, reinforced by the verb ví cakrame ‘he strode’ (though it’s not in the same clause with the ends): the sun’s journey across the sky from one horizon to the other. The plural in 4d is more diffuse, as is the verb caranti pári “they wander/circle around.” The phrase divó ánta- [pl.] “the ends of heaven” is quite common, but I am not sure what the plural conveys -- that there are numerous divisions of heaven, each with its own boundaries? that heaven is effectively end-less (like the anantá- paths of 2) because there are always more ends? In any case the sun’s purposeful trip from one place to another in vs. 3 seems contrasted with the more comprehensive travels of the subject of caranti in 4d. Is that subject the threefold cows of 4c? If so, many of the possible triads suggested above are eliminated. Save for the ‘threefold’ (and, I guess, the cows), Agni’s plumes of smoke would make the most sense in d. But I confess bafflement.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/047/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -262,7 +255,6 @@ Note the parallel openings of 4a catvā́ra īm bibhrati … and 5c dvé yád ī
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

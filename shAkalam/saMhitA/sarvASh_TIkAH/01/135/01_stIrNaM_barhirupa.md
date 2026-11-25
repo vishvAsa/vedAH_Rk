@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -113,7 +114,13 @@ krátve ← krátu- (nominal stem)
 
 mádāya ← máda- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्ती॒र्णं ब॒र्हिरुप॑ नो याहि वी॒तये॑ स॒हस्रे॑ण नि॒युता॑ नियुत्वते श॒तिनी॑भिर्नियुत्वते ।  
+तुभ्यं॒ हि पू॒र्वपी॑तये दे॒वा दे॒वाय॑ येमि॒रे ।  
+प्र ते॑ सु॒तासो॒ मधु॑मन्तो अस्थिर॒न्मदा॑य॒ क्रत्वे॑ अस्थिरन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -289,7 +296,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -317,10 +323,6 @@ for the gods have conceded to you, the god, to drink first.
 The pressed, honeyed (soma drinks) have been set forth for you—have  been set forth for your exhilaration and for your resolve.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Unaccented niyutvate in bc appears to be a voc. to an otherwise unattested -istem niyutvati-, whose formation would be morphologically peculiar (a secondary -istem built to a -vant-stem?!). It must be a nonce manipulation of the standard -vantstem niyútvant-. As Renou points out, vocatives in -pate may have had some influence in producing this rhyme form. Since Vāyu is almost the only referent of niyútvant-, it is highly unlikely that the form represents a dative to the -vant-stem that lost its accent for some reason.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -328,7 +330,6 @@ The fronted forms of tvám (etc.) found in I.134.4-6 continue here, though not a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

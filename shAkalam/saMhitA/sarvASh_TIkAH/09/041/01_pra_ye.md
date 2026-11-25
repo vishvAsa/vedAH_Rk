@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मेध्यातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ kr̥ṣṇā́m ← kr̥ṣṇá- (nominal stem)
 
 tvácam ← tvác- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ये गावो॒ न भूर्ण॑यस्त्वे॒षा अ॒यासो॒ अक्र॑मुः ।  
+घ्नन्तः॑ कृ॒ष्णामप॒ त्वच॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -183,14 +188,6 @@ Those who strode forth like cattle—frenzied, turbulent, unruly,
 smashing away the black skin [=Dasyus]—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs., consisting entirely of a rel. cl., is not resumed by a main cl. Vs. 2, which might be configured as the main cl., is couched in the 1st pl., not the 3rd pl. like vs. 1, and it also has a very different tone. There is no reason, with Renou, to supply an anodyne introductory cl. “(Je chante les soma)” to provide a main cl. -- in fact, the abruptness of the expression and its incompleteness enhance the sense of violence.
-
-As I indicated in the published introduction, I think the unexpressed subj. is the soma juices. Many soma hymns begin with the soma rushing forth after its pressing, often compared to a horse or a bull charging; here the soma drinks are also likened to cattle, but stampeding cattle, and this uncontrollable mob tramples the enemy. So the poet has taken a standard opening trope and “weaponized” it, as it were.
-
-This enemy is identified as the “black skin” (kṛṣṇā́m … tvácam). For this phrase as a designation of non-Ārya “without commandments” (avratá-) see I.130.8 and IX.73.5 (in the latter tvácam ásiknīm; see above). The term avratá- is found in the next vs. (2c).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/041/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -198,7 +195,6 @@ These two vss. are somewhat illuminated by IX.73.4-5, containing some very simil
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

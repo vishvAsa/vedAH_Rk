@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -89,7 +90,12 @@ víprasya ← vípra- (nominal stem)
 
 yuvám ← tvám (pronoun)  
 {case:NOM, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वा॑मृ॒ताय॑ के॒शिनी॑रनूषत॒ मित्र॒ यत्र॒ वरु॑ण गा॒तुमर्च॑थः ।  
+अव॒ त्मना॑ सृ॒जतं॒ पिन्व॑तं॒ धियो॑ यु॒वं विप्र॑स्य॒ मन्म॑नामिरज्यथः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

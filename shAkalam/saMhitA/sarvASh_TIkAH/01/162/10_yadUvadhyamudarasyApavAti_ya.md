@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -83,7 +84,12 @@ pacantu ← √pac- (root)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदूव॑ध्यमु॒दर॑स्याप॒वाति॒ य आ॒मस्य॑ क्र॒विषो॑ ग॒न्धो अस्ति॑ ।  
+सु॒कृ॒ता तच्छ॑मि॒तारः॑ कृण्वन्तू॒त मेधं॑ शृत॒पाकं॑ पचन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     fry; cook; suppurate; inflame.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

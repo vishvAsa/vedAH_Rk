@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -60,7 +60,11 @@ gárbhaḥ ← gárbha- (nominal stem)
 
 sthātā́m ← √sthā- (root)  
 {case:GEN, gender:M, number:PL, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गर्भो॒ यो अ॒पां गर्भो॒ वना॑नां॒ गर्भ॑श्च स्था॒तां गर्भ॑श्च॒रथा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +142,6 @@ _________
 - \[noun\], genitive, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -185,10 +188,6 @@ Der der Keim der Gewässer, der Keim der Bäume, der Keim dessen, was steht und 
 
 Der Spross der Wasser, – der Spross der Wälder, der Spross des stehnden, – der Spross des gehnden, Im Haus sein Ursprung – und im Gewölk auch; es sorgt der ew'ge – für alle Stämme.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

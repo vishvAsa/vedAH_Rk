@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ vahanti ← √vah- (root)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं सी॒मकृ॑ण्व॒न्तम॑से वि॒पृचे॑ ध्रु॒वक्षे॑मा॒ अन॑वस्यन्तो॒ अर्थ॑म् ।  
+तं सूर्यं॑ ह॒रितः॑ स॒प्त य॒ह्वीः स्पशं॒ विश्व॑स्य॒ जग॑तो वहन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

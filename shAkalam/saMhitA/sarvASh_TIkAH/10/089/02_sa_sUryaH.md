@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ támāṁsi ← támas- (nominal stem)
 
 tvíṣyā ← tvíṣi- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सूर्यः॒ पर्यु॒रू वरां॒स्येन्द्रो॑ ववृत्या॒द्रथ्ये॑व च॒क्रा ।  
+अति॑ष्ठन्तमप॒स्यं१॒॑ न सर्गं॑ कृ॒ष्णा तमां॑सि॒ त्विष्या॑ जघान ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

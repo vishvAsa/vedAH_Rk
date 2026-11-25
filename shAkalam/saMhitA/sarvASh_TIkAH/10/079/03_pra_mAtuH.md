@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः सौचीको वैश्वानरो वा सप्तिर्वा वाजंभरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ ririhvā́ṁsam ← √rih- (root)
 
 upásthe ← upástha- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र मा॒तुः प्र॑त॒रं गुह्य॑मि॒च्छन्कु॑मा॒रो न वी॒रुधः॑ सर्पदु॒र्वीः ।  
+स॒सं न प॒क्वम॑विदच्छु॒चन्तं॑ रिरि॒ह्वांसं॑ रि॒प उ॒पस्थे॑ अ॒न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “inside; in; antar \[word\]; midmost; between; among.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "आप्त्यस्त्रितः कुत्स आङ्गिरसो वा"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -88,7 +89,12 @@ rodasī ← ródasī- (nominal stem)
 
 vittám ← √vid- 2 (root)  
 {number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒मी ये पञ्चो॒क्षणो॒ मध्ये॑ त॒स्थुर्म॒हो दि॒वः ।  
+दे॒व॒त्रा नु प्र॒वाच्यं॑ सध्रीची॒ना नि वा॑वृतुर्वि॒त्तं मे॑ अ॒स्य रो॑दसी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “heaven and earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -243,10 +248,6 @@ The five oxen that stand yonder in the middle of great heaven— this is now to 
 – Take heed of this (speech) of mine, you two world-halves.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I have no idea what the exact referent of the “five oxen” is, but given their stationing in the middle of heaven and their apparent retrograde motion, it seems that an astronomical body (a constellation?) is referred to. Geldner (/Witzel Gotō) take ní vāvṛtuḥ as “sind … verschwunden,” but ní √vṛt ordinarily means ‘turn back / home’, of bovines, and given that the subject is oxen, albeit metaphorical ones, this idiom works fine in the passage.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -254,7 +255,6 @@ As noted in the published introduction, these verses are the omphalos and are ma
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

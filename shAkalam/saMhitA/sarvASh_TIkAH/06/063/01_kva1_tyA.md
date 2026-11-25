@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ mánman ← mánman- (nominal stem)
 
 préṣṭhā ← préṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:DU, tense:AOR}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्व१॒॑ त्या व॒ल्गू पु॑रुहू॒ताद्य दू॒तो न स्तोमो॑ऽविद॒न्नम॑स्वान् ।  
+आ यो अ॒र्वाङ्नास॑त्या व॒वर्त॒ प्रेष्ठा॒ ह्यस॑थो अस्य॒ मन्म॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “hymn; idea; purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

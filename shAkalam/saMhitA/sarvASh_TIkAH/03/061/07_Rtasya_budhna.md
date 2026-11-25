@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ purutrā́ ← purutrā́ (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॑ बु॒ध्न उ॒षसा॑मिष॒ण्यन्वृषा॑ म॒ही रोद॑सी॒ आ वि॑वेश ।  
+म॒ही मि॒त्रस्य॒ वरु॑णस्य मा॒या च॒न्द्रेव॑ भा॒नुं वि द॑धे पुरु॒त्रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “distributively.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ darśatā́ḥ ← darśatá- (nominal stem)
 
 yájatrāḥ ← yájatra- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॑ विवक्मि॒ रोद॑सी सु॒मेके॒ ग्राव्णो॑ युजा॒नो अ॑ध्व॒रे म॑नी॒षा ।  
+इ॒मा उ॑ ते॒ मन॑वे॒ भूरि॑वारा ऊ॒र्ध्वा भ॑वन्ति दर्श॒ता यज॑त्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “adorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

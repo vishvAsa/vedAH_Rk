@@ -4,6 +4,7 @@ devataa = "तिस्रो देव्यः सरस्वतीळाभ�
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तिस्रो देव्यः सरस्वतीळाभारत्यः
@@ -68,7 +69,12 @@ sīdantu ← √sad- (root)
 
 yajñíyāḥ ← yajñíya- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुचि॑र्दे॒वेष्वर्पि॑ता॒ होत्रा॑ म॒रुत्सु॒ भार॑ती ।  
+इळा॒ सर॑स्वती म॒ही ब॒र्हिः सी॑दन्तु य॒ज्ञियाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

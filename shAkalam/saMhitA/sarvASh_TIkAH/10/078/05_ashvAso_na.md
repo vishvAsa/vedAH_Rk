@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ sā́mabhiḥ ← sā́man- (nominal stem)
 
 viśvárūpāḥ ← viśvárūpa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वा॑सो॒ न ये ज्येष्ठा॑स आ॒शवो॑ दिधि॒षवो॒ न र॒थ्यः॑ सु॒दान॑वः ।  
+आपो॒ न नि॒म्नैरु॒दभि॑र्जिग॒त्नवो॑ वि॒श्वरू॑पा॒ अङ्गि॑रसो॒ न साम॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

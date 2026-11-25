@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -86,7 +87,12 @@ savitúḥ ← savitár- (nominal stem)
 
 ślókam ← ślóka- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे इन्द्रो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा द्यु॒म्नं य॑च्छन्तु॒ महि॒ शर्म॑ स॒प्रथः॑ ।  
+अ॒व॒ध्रं ज्योति॒रदि॑तेरृता॒वृधो॑ दे॒वस्य॒ श्लोकं॑ सवि॒तुर्म॑नामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

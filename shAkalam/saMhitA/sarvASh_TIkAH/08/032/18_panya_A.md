@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ yáḥ ← yá- (pronoun)
 
 yájvanaḥ ← yájvan- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पन्य॒ आ द॑र्दिरच्छ॒ता स॒हस्रा॑ वा॒ज्यवृ॑तः ।  
+इन्द्रो॒ यो यज्व॑नो वृ॒धः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “increasing; promotive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

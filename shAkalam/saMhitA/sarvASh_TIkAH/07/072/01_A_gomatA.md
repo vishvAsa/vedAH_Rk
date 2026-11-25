@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ spārháyā ← spārhá- (nominal stem)
 
 tanvā̀ ← tanū́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ गोम॑ता नासत्या॒ रथे॒नाश्वा॑वता पुरुश्च॒न्द्रेण॑ यातम् ।  
+अ॒भि वां॒ विश्वा॑ नि॒युतः॑ सचन्ते स्पा॒र्हया॑ श्रि॒या त॒न्वा॑ शुभा॒ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “look; shine; beautify.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

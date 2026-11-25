@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ sádā ← sádā (invariable)
 
 saṁsát ← saṁsád- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स दू॒तो विश्वेद॒भि व॑ष्टि॒ सद्मा॒ होता॒ हिर॑ण्यरथो॒ रंसु॑जिह्वः ।  
+रो॒हिद॑श्वो वपु॒ष्यो॑ वि॒भावा॒ सदा॑ र॒ण्वः पि॑तु॒मती॑व सं॒सत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “assembly; court; company.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

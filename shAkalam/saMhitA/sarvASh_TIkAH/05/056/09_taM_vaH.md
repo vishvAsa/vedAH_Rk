@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ mīḷhuṣī́ ← mīḍhváṁs- (nominal stem)
 
 sácā ← sácā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वः॒ शर्धं॑ रथे॒शुभं॑ त्वे॒षं प॑न॒स्युमा हु॑वे ।  
+यस्मि॒न्त्सुजा॑ता सु॒भगा॑ मही॒यते॒ सचा॑ म॒रुत्सु॑ मीळ्हु॒षी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -220,7 +225,6 @@ in which the noble, well-portioned (Rodasī) shows her greatness, the  generous 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/056/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -232,7 +236,6 @@ Geldner’s acceptance of Sāyaṇa.’s interpr. of mīḷhuṣī́as the name 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

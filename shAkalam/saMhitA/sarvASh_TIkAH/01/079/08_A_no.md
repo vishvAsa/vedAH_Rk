@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ pr̥tsú ← pŕ̥t- (nominal stem)
 
 víśvāsu ← víśva- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ अग्ने र॒यिं भ॑र सत्रा॒साहं॒ वरे॑ण्यम् ।  
+विश्वा॑सु पृ॒त्सु दु॒ष्टर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “incomparable; irresistible; unbearable; unconquerable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

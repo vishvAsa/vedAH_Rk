@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ dhī́rāḥ ← dhī́ra- (nominal stem)
 
 śekuḥ ← √śak- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒वित्र॑वन्तः॒ परि॒ वाच॑मासते पि॒तैषां॑ प्र॒त्नो अ॒भि र॑क्षति व्र॒तम् ।  
+म॒हः स॑मु॒द्रं वरु॑णस्ति॒रो द॑धे॒ धीरा॒ इच्छे॑कुर्ध॒रुणे॑ष्वा॒रभ॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “begin; begin; undertake; do; take.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -260,18 +265,6 @@ As great Varuṇa, (Soma) has hidden himself in the sea. Only the
 insightful have been able to take hold of his supports.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Again, the subject of the verb in pāda a is unexpressed. On the basis of pavítravant- ‘provided with the filter’, one might expect that the referent is the ritual officiants, but note that the other occurrence of this -vant- stem in IX, at IX.101.4, modifies sómāḥ. Again, I think both readings are meant.
-
-On tiró dadhe see comm. ad IX.72.3. Though Geldner and Oldenberg take it as transitive (Geldner “… hat den Ozean verborgen (?)”), Renou and Lüders (268) interpr. it as reflexive ‘hid himself in x’, correctly in my view; Oldenberg explicitly rejects the reflexive interpr., but the middle voice makes this the more likely one. Oldenberg is motivated by his unconvincing interpr. of the hymn as a rain charm. In the ritual context the “hiding” refers to the post-pressing mixing of soma with water: the soma disappears into it.
-
-In d śekuḥ … ā́rábham “they have been able to seize” responds to 1c cakra ārábhe “caused to be seized.” Their connection would have been clearer in the published
-
-tr. if they were tr. with identical renderings of ā́√rabh, rather than “to take hold of” here. I would therefore emend the tr. to “have been able to seize.” The questions then are what is the referent of dharúṇeṣu and how does it relate to ārábham? In the flanking hymns, IX.72.7 and 74.2 sg. dharúṇa- is the soma itself. I am inclined to take the pl. here as referring to the soma configured in parts - in particular to the ‘heads’ of 1c, which soma caused to be seized (by my interpr.). The shared verb ā́ √rabh certainly encourages this identification. The point would be that only the insightful know how to separate soma from the cleansing waters. This interpr.
-
-requires that ā́√rabh can take a loc. of what is grasped, in addition to the more common acc. (as in 1c). For a passage with such a loc. see I.168.3 and comm. thereto. By contrast Geldner takes the dharúṇa- not as parts of soma but as instruments in which to seize him, namely the soma cups (n. 3d; apparently fld. by Lüders [268]). The use of the stem dharúṇa- in the sg. to refer to soma makes his interpr. difficult to sustain.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
 <details><summary><h2>02-04 ...{Loading}...</h2></summary>
 
@@ -286,7 +279,6 @@ The three even-numbered pādas 2d, 3b, 3d all end with an augmented 3rd pl. redu
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

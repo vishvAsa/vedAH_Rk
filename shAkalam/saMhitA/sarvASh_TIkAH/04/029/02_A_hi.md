@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ suṣvāṇébhiḥ ← √su- (root)
 
 vīraíḥ ← vīrá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ हि ष्मा॒ याति॒ नर्य॑श्चिकि॒त्वान्हू॒यमा॑नः सो॒तृभि॒रुप॑ य॒ज्ञम् ।  
+स्वश्वो॒ यो अभी॑रु॒र्मन्य॑मानः सुष्वा॒णेभि॒र्मद॑ति॒ सं ह॑ वी॒रैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

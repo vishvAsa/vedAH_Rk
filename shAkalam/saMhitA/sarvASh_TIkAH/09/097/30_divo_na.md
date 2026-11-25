@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुक्रो वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ pavasva ← √pū- (root)
 
 viśé ← víś- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो न सर्गा॑ अससृग्र॒मह्नां॒ राजा॒ न मि॒त्रं प्र मि॑नाति॒ धीरः॑ ।  
+पि॒तुर्न पु॒त्रः क्रतु॑भिर्यता॒न आ प॑वस्व वि॒शे अ॒स्या अजी॑तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - \[noun\], accusative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -262,16 +267,6 @@ according to the intentions of his father, bring freedom from
 overthrow here to this clan by purifying yourself.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I take áhnām as a 2nd, unmarked simile dependent on sárgāḥ, rather than supplying a different headnoun, as Geldner and Renou do. They are surely both right that “the surges of/from heaven” are the rains. As for “the surges of the days,” this could either refer to the passage of time or to an abundance of light; I favor the former.
-
-In b ná should be read as both the simile particle and the negation; see Oldenberg
-
-Pādas b-c show a clever chaining of significant vocabulary. In b Soma is compared to a king who doesn’t violate his alliance, with mitrá- in its common noun usage. But d contains the part. yatāná- ‘taking one’s place, being put in place’, and √yat is an action esp. associated with the god Mitra. Cf., e.g., VII.36.2 jánaṃ ca mitró yatati “Mitra puts the people in their place” (sim. III.59.1). Although Mitra is not explicitly present here, the lexical continuity might evoke him. It is indeed possible that it is Mitra’s intentions (or those of the alliance itself) acdg. to which Soma takes his place, rather than “ours” as in the published translation
-
-The vs. ends with yet another term relating to social life, namely víś- ‘clan’; as king, Soma would exert himself on behalf of this social unit.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -281,7 +276,6 @@ The tṛca is marked by the repetition of ā́pavasva in the 2nd hemistich of ea
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

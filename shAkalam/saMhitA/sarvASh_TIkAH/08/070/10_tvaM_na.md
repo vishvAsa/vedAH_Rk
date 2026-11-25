@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ ní ← ní (invariable)
 
 śiśnathaḥ ← √śnathⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं न॑ इन्द्र ऋत॒युस्त्वा॒निदो॒ नि तृ॑म्पसि ।  
+मध्ये॑ वसिष्व तुविनृम्णो॒र्वोर्नि दा॒सं शि॑श्नथो॒ हथैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “blow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

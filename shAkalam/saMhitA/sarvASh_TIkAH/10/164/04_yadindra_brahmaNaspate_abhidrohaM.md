@@ -4,6 +4,7 @@ devataa = "दुःस्वप्नघ्नं"
 RShiH = "प्रचेताः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दुःस्वप्नघ्नं
@@ -68,7 +69,12 @@ dviṣatā́m ← √dviṣ- (root)
 
 pātu ← √pā- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑न्द्र ब्रह्मणस्पतेऽभिद्रो॒हं चरा॑मसि ।  
+प्रचे॑ता न आङ्गिर॒सो द्वि॑ष॒तां पा॒त्वंह॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “trouble; sin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

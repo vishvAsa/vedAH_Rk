@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "द्युम्नो विचर्षणिरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ vā́ryā ← vā́rya- (nominal stem)
 
 vyánti ← √vī- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॒ हि त्वा॑ स॒जोष॑सो॒ जना॑सो वृ॒क्तब॑र्हिषः ।  
+होता॑रं॒ सद्म॑सु प्रि॒यं व्यन्ति॒ वार्या॑ पु॒रु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “many; much(a); very.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

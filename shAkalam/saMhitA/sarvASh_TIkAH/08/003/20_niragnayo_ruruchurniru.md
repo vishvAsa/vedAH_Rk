@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ paúṁsyam ← paúṁsya- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+निर॒ग्नयो॑ रुरुचु॒र्निरु॒ सूर्यो॒ निः सोम॑ इन्द्रि॒यो रसः॑ ।  
+निर॒न्तरि॑क्षादधमो म॒हामहिं॑ कृ॒षे तदि॑न्द्र॒ पौंस्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “manfulness; deed; army; strength.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -260,7 +265,6 @@ You blew the great serpent out from the midspace: that manly act did  you perfor
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/19-20.md">
 <details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -268,7 +272,6 @@ The preverb níḥ is the theme of this pragātha, with seven occurrences, six p
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

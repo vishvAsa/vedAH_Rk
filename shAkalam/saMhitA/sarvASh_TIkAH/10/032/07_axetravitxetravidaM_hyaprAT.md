@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ utá ← utá (invariable)
 
 vindati ← √vid- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अक्षे॑त्रवित्क्षेत्र॒विदं॒ ह्यप्रा॒ट् स प्रैति॑ क्षेत्र॒विदानु॑शिष्टः ।  
+ए॒तद्वै भ॒द्रम॑नु॒शास॑नस्यो॒त स्रु॒तिं वि॑न्दत्यञ्ज॒सीना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “correct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

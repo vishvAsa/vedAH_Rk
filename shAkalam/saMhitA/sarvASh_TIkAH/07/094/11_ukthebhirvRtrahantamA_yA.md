@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -57,7 +58,12 @@ yā́ ← yá- (pronoun)
 
 āvívāsataḥ ← √vanⁱ- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्थेभि॑र्वृत्र॒हन्त॑मा॒ या म॑न्दा॒ना चि॒दा गि॒रा ।  
+आ॒ङ्गू॒षैरा॒विवा॑सतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - \[verb noun\], genitive, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

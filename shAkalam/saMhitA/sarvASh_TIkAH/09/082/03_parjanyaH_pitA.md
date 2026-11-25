@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ sám ← sám (invariable)
 
 vīté ← √vī- 1 (root)  
 {case:LOC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒र्जन्यः॑ पि॒ता म॑हि॒षस्य॑ प॒र्णिनो॒ नाभा॑ पृथि॒व्या गि॒रिषु॒ क्षयं॑ दधे ।  
+स्वसा॑र॒ आपो॑ अ॒भि गा उ॒तास॑र॒न्त्सं ग्राव॑भिर्नसते वी॒ते अ॑ध्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

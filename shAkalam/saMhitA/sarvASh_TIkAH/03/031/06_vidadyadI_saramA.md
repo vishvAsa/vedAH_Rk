@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ prathamā́ ← prathamá- (nominal stem)
 
 rávam ← ráva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒दद्यदी॑ स॒रमा॑ रु॒ग्णमद्रे॒र्महि॒ पाथः॑ पू॒र्व्यं स॒ध्र्य॑क्कः ।  
+अग्रं॑ नयत्सु॒पद्यक्ष॑राणा॒मच्छा॒ रवं॑ प्रथ॒मा जा॑न॒ती गा॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

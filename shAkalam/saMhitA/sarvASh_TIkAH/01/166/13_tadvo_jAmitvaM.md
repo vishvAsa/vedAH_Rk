@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -95,7 +96,12 @@ náraḥ ← nár- (nominal stem)
 
 sākám ← sākám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्वो॑ जामि॒त्वं म॑रुतः॒ परे॑ यु॒गे पु॒रू यच्छंस॑ममृतास॒ आव॑त ।  
+अ॒या धि॒या मन॑वे श्रु॒ष्टिमाव्या॑ सा॒कं नरो॑ दं॒सनै॒रा चि॑कित्रिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

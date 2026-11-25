@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -97,7 +98,12 @@ te ← tvám (pronoun)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं रोद॑सी सु॒बन्ध॑वे य॒ह्वी ऋ॒तस्य॑ मा॒तरा॑ ।  
+भर॑ता॒मप॒ यद्रपो॒ द्यौः पृ॑थिवि क्ष॒मा रपो॒ मो षु ते॒ किं च॒नाम॑मत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “hurt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

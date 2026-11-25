@@ -4,6 +4,7 @@ devataa = "त्वष्टा"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्वष्टा
@@ -68,7 +69,12 @@ pávamānaḥ ← √pū- (root)
 
 prajā́patiḥ ← prajā́pati- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वष्टा॑रमग्र॒जां गो॒पां पु॑रो॒यावा॑न॒मा हु॑वे ।  
+इन्दु॒रिन्द्रो॒ वृषा॒ हरिः॒ पव॑मानः प्र॒जाप॑तिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “Prajapati; Brahma; Dakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

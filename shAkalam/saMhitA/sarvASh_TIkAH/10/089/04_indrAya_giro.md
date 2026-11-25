@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ utá ← utá (invariable)
 
 víṣvak ← víṣvañc- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑य॒ गिरो॒ अनि॑शितसर्गा अ॒पः प्रेर॑यं॒ सग॑रस्य बु॒ध्नात् ।  
+यो अक्षे॑णेव च॒क्रिया॒ शची॑भि॒र्विष्व॑क्त॒स्तम्भ॑ पृथि॒वीमु॒त द्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषासानक्ता"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषासानक्ता
@@ -54,7 +55,12 @@ ná ← ná (invariable)
 
 náktoṣā́sā ← náktoṣā́s- (nominal stem)  
 {case:ACC, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒शि॒ल्पे बृ॑ह॒ती म॒ही पव॑मानो वृषण्यति ।  
+नक्तो॒षासा॒ न द॑र्श॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “beautiful; visible; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

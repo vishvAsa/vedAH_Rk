@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उशना काव्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ svéṣu ← svá- (pronoun)
 
 vājínam ← vājín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं म॑र्जयन्त सु॒क्रतुं॑ पुरो॒यावा॑नमा॒जिषु॑ ।  
+स्वेषु॒ क्षये॑षु वा॒जिन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “victorious; triumphant; strong; gainful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

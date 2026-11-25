@@ -4,6 +4,7 @@ devataa = "अग्निरात्मा वा"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरात्मा वा
@@ -89,7 +90,12 @@ dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)
 
 pári ← pári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रि॒भिः प॒वित्रै॒रपु॑पो॒द्ध्य१॒॑र्कं हृ॒दा म॒तिं ज्योति॒रनु॑ प्रजा॒नन् ।  
+वर्षि॑ष्ठं॒ रत्न॑मकृत स्व॒धाभि॒रादिद्द्यावा॑पृथि॒वी पर्य॑पश्यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

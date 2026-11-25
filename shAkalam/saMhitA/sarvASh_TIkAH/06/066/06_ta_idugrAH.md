@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ rókaḥ ← róka- (nominal stem)
 
 tasthau ← √sthā- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त इदु॒ग्राः शव॑सा धृ॒ष्णुषे॑णा उ॒भे यु॑जन्त॒ रोद॑सी सु॒मेके॑ ।  
+अध॑ स्मैषु रोद॒सी स्वशो॑चि॒राम॑वत्सु तस्थौ॒ न रोकः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

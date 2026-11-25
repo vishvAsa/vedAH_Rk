@@ -4,6 +4,7 @@ devataa = "उपमश्रवा मैत्रातिथिः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उपमश्रवा मैत्रातिथिः
@@ -63,7 +64,12 @@ ví ← ví (invariable)
 
 yujā́ ← yúj- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न दे॒वाना॒मति॑ व्र॒तं श॒तात्मा॑ च॒न जी॑वति ।  
+तथा॑ यु॒जा वि वा॑वृते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

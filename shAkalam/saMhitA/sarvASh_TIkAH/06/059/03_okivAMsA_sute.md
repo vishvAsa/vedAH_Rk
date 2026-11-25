@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -80,7 +81,12 @@ havāmahe ← √hū- (root)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओ॒कि॒वांसा॑ सु॒ते सचाँ॒ अश्वा॒ सप्ती॑ इ॒वाद॑ने ।  
+इन्द्रा॒ न्व१॒॑ग्नी अव॑से॒ह व॒ज्रिणा॑ व॒यं दे॒वा ह॑वामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

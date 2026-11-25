@@ -4,6 +4,7 @@ devataa = "राजयक्ष्मघ्नं"
 RShiH = "यक्ष्मनाशनः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राजयक्ष्मघ्नं
@@ -86,7 +87,12 @@ púnar ← púnar (invariable)
 
 śatā́yuṣā ← śatā́yus- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं जी॑व श॒रदो॒ वर्ध॑मानः श॒तं हे॑म॒न्ताञ्छ॒तमु॑ वस॒न्तान् ।  
+श॒तमि॑न्द्रा॒ग्नी स॑वि॒ता बृह॒स्पतिः॑ श॒तायु॑षा ह॒विषे॒मं पुन॑र्दुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

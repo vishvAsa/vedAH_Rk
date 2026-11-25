@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -77,7 +78,12 @@ abhí ← abhí (invariable)
 
 cakṣate ← √cakṣ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते हि॑न्विरे अरु॒णं जेन्यं॒ वस्वेकं॑ पु॒त्रं ति॑सॄ॒णाम् ।  
+ते धामा॑न्य॒मृता॒ मर्त्या॑ना॒मद॑ब्धा अ॒भि च॑क्षते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “watch; look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

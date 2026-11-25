@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पूरुरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ mártāsaḥ ← márta- (nominal stem)
 
 purás ← purás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हद्वयो॒ हि भा॒नवेऽर्चा॑ दे॒वाया॒ग्नये॑ ।  
+यं मि॒त्रं न प्रश॑स्तिभि॒र्मर्ता॑सो दधि॒रे पु॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

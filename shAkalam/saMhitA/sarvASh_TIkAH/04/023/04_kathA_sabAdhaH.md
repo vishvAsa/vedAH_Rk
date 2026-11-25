@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ námaḥ ← námas- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था स॒बाधः॑ शशमा॒नो अ॑स्य॒ नश॑द॒भि द्रवि॑णं॒ दीध्या॑नः ।  
+दे॒वो भु॑व॒न्नवे॑दा म ऋ॒तानां॒ नमो॑ जगृ॒भ्वाँ अ॒भि यज्जुजो॑षत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ dhenū́ḥ ← dhenú- (nominal stem)
 
 vāśráḥ ← vāśrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समे॑न॒मह्रु॑ता इ॒मा गिरो॑ अर्षन्ति स॒स्रुतः॑ ।  
+धे॒नूर्वा॒श्रो अ॑वीवशत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “bellow; howl; sing; moo; shout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

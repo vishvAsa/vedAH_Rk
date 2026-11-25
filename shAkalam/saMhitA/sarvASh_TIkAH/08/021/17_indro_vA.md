@@ -4,6 +4,7 @@ devataa = "चित्रस्य दानस्तुतिः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - चित्रस्य दानस्तुतिः
@@ -75,7 +76,12 @@ tvám ← tvám (pronoun)
 
 vā ← vā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ वा॒ घेदिय॑न्म॒घं सर॑स्वती वा सु॒भगा॑ द॒दिर्वसु॑ ।  
+त्वं वा॑ चित्र दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

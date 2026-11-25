@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ paridī́yathaḥ ← √dī- 2 (root)
 
 trī́n ← trí- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येभि॑स्ति॒स्रः प॑रा॒वतो॑ दि॒वो विश्वा॑नि रोच॒ना ।  
+त्रीँर॒क्तून्प॑रि॒दीय॑थः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - \[verb\], dual, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

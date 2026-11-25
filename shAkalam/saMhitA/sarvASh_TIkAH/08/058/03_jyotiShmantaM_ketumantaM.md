@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ tám ← sá- ~ tá- (pronoun)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज्योति॑ष्मन्तं केतु॒मन्तं॑ त्रिच॒क्रं सु॒खं रथं॑ सु॒षदं॒ भूरि॑वारम् ।  
+चि॒त्राम॑घा॒ यस्य॒ योगे॑ऽधिजज्ञे॒ तं वां॑ हु॒वे अति॑ रिक्तं॒ पिब॑ध्यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

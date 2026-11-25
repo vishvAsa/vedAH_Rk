@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -83,7 +84,12 @@ rīradhā ← √randh- (root)
 
 suvr̥ktím ← suvr̥ktí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र दे॑व॒त्रा ब्रह्म॑णे गा॒तुरे॑त्व॒पो अच्छा॒ मन॑सो॒ न प्रयु॑क्ति ।  
+म॒हीं मि॒त्रस्य॒ वरु॑णस्य धा॒सिं पृ॑थु॒ज्रय॑से रीरधा सुवृ॒क्तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

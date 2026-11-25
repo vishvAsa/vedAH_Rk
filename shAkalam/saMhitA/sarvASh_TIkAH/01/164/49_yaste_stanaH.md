@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -92,7 +93,12 @@ sárasvati ← sárasvant- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॒ स्तनः॑ शश॒यो यो म॑यो॒भूर्येन॒ विश्वा॒ पुष्य॑सि॒ वार्या॑णि ।  
+यो र॑त्न॒धा व॑सु॒विद्यः सु॒दत्रः॒ सर॑स्वति॒ तमि॒ह धात॑वे कः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -260,7 +266,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

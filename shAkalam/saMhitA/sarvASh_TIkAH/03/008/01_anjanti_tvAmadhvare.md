@@ -4,6 +4,7 @@ devataa = "यूपः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यूपः
@@ -89,7 +90,12 @@ vā ← vā (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ञ्जन्ति॒ त्वाम॑ध्व॒रे दे॑व॒यन्तो॒ वन॑स्पते॒ मधु॑ना॒ दैव्ये॑न ।  
+यदू॒र्ध्वस्तिष्ठा॒ द्रवि॑णे॒ह ध॑त्ता॒द्यद्वा॒ क्षयो॑ मा॒तुर॒स्या उ॒पस्थे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “genitalia; lap; sexual desire; anus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ vr̥ścá ← √vr̥śc- (root)
 
 vŕ̥ṣṇyā ← vŕ̥ṣṇya- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे विश्वा॒ तवि॑षी स॒ध्र्य॑ग्घि॒ता तव॒ राधः॑ सोमपी॒थाय॑ हर्षते ।  
+तव॒ वज्र॑श्चिकिते बा॒ह्वोर्हि॒तो वृ॒श्चा शत्रो॒रव॒ विश्वा॑नि॒ वृष्ण्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “manfulness; virility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

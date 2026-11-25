@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ aghaśaṁsahā́ ← aghaśaṁsahán- (nominal stem)
 
 devāvī́ḥ ← devāvī́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष शु॒ष्म्यदा॑भ्यः॒ सोमः॑ पुना॒नो अ॑र्षति ।  
+दे॒वा॒वीर॑घशंस॒हा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “killing; curative; destroying; removing; māraka; stabbing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

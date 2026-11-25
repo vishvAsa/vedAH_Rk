@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ jánāmi ← √janⁱ- (root)
 
 suṣṭutím ← suṣṭutí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्मै॑ ते प्रति॒हर्य॑ते॒ जात॑वेदो॒ विच॑र्षणे ।  
+अग्ने॒ जना॑मि सुष्टु॒तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +121,6 @@ _________
 - “hymn; praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

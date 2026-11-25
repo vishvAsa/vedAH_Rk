@@ -4,6 +4,7 @@ devataa = "अग्निः;देवाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः;देवाः
@@ -68,7 +69,12 @@ tám ← sá- ~ tá- (pronoun)
 
 tiróahnyam ← tiróahnya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्वाञ्चं॒ दैव्यं॒ जन॒मग्ने॒ यक्ष्व॒ सहू॑तिभिः ।  
+अ॒यं सोमः॑ सुदानव॒स्तं पा॑त ति॒रोअ॑ह्न्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

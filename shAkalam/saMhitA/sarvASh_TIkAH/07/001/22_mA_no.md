@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ sahasaḥ ← sáhas- (nominal stem)
 
 sūno ← sūnú- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ अग्ने दुर्भृ॒तये॒ सचै॒षु दे॒वेद्धे॑ष्व॒ग्निषु॒ प्र वो॑चः ।  
+मा ते॑ अ॒स्मान्दु॑र्म॒तयो॑ भृ॒माच्चि॑द्दे॒वस्य॑ सूनो सहसो नशन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “reach; achieve; enter (a state); reach.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

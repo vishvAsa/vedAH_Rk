@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ súnītī ← súnīti- (nominal stem)
 
 sváyaśastaram ← sváyaśastara- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ अग्ने वयो॒वृधं॑ र॒यिं पा॑वक॒ शंस्य॑म् ।  
+रास्वा॑ च न उपमाते पुरु॒स्पृहं॒ सुनी॑ती॒ स्वय॑शस्तरम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

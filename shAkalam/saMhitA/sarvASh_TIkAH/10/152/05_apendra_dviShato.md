@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शासो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ várīyaḥ ← várīyaṁs- (nominal stem)
 
 yavaya ← √yu- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपे॑न्द्र द्विष॒तो मनोऽप॒ जिज्या॑सतो व॒धम् ।  
+वि म॒न्योः शर्म॑ यच्छ॒ वरी॑यो यवया व॒धम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
     dysfunction; punishment; kick.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

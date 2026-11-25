@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "बुधगविष्ठिरावात्रेयौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ nítyam ← nítya- (nominal stem)
 
 vājínam ← vājín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र णु त्यं विप्र॑मध्व॒रेषु॑ सा॒धुम॒ग्निं होता॑रमीळते॒ नमो॑भिः ।  
+आ यस्त॒तान॒ रोद॑सी ऋ॒तेन॒ नित्यं॑ मृजन्ति वा॒जिनं॑ घृ॒तेन॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “ghee; fat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ ná ← ná (invariable)
 
 súṣvim ← súṣvi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वः॑ सखायः॒ सं यथा॑ सु॒तेषु॒ सोमे॑भिरीं पृणता भो॒जमिन्द्र॑म् ।  
+कु॒वित्तस्मा॒ अस॑ति नो॒ भरा॑य॒ न सुष्वि॒मिन्द्रोऽव॑से मृधाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “neglect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

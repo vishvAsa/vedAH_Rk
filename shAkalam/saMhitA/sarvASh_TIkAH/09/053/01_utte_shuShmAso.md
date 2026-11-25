@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ parispŕ̥dhaḥ ← parispŕ̥dh- (nominal stem)
 
 yā́ḥ ← yá- (pronoun)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उत्ते॒ शुष्मा॑सो अस्थू॒ रक्षो॑ भि॒न्दन्तो॑ अद्रिवः ।  
+नु॒दस्व॒ याः प॑रि॒स्पृधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - \[noun\], nominative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

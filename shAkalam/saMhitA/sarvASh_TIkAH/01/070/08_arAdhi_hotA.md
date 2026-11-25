@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -52,7 +53,11 @@ satyā́ ← satyá- (nominal stem)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अरा॑धि॒ होता॒ स्व१॒॑र्निष॑त्तः कृ॒ण्वन्विश्वा॒न्यपां॑सि स॒त्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +122,6 @@ _________
 - “true; real; real; faithful; good.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -137,7 +141,6 @@ performing all the tasks to be realized.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -145,7 +148,6 @@ See Proferes (pp. 47-49), esp. for the identification of the Vaiśvānara fire i
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

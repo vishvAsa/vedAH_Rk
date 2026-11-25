@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -95,7 +96,12 @@ tanvā̀ ← tanū́- (nominal stem)
 
 viveṣa ← √viṣ- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स ईं॒ वृषा॑जनय॒त्तासु॒ गर्भं॒ स ईं॒ शिशु॑र्धयति॒ तं रि॑हन्ति ।  
+सो अ॒पां नपा॒दन॑भिम्लातवर्णो॒ऽन्यस्ये॑वे॒ह त॒न्वा॑ विवेष ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +262,6 @@ _________
 - “labor; act; perform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -271,7 +276,7 @@ _________
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
-Of great fertility, he has generated himself as a germ in those \[waters\]; he is their infant; he sucks the \[waters\]; the \[waters\] moisten him; apAm napAt of the waters of unfading color has entered here in a new body.  
+Of great fertility, he has generated himself as a germ in those \[waters\]; he is their infant; he sucks the \[waters\]; the \[waters\] moisten him; apAm napAt of the waters of unfading color has entered here in a new body.
 </details>
 
 <details><summary>Wilson</summary>

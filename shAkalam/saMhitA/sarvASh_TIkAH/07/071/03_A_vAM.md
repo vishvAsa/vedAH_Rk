@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ vahethām ← √vah- (root)
 
 vásumantam ← vásumant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ रथ॑मव॒मस्यां॒ व्यु॑ष्टौ सुम्ना॒यवो॒ वृष॑णो वर्तयन्तु ।  
+स्यूम॑गभस्तिमृत॒युग्भि॒रश्वै॒राश्वि॑ना॒ वसु॑मन्तं वहेथाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

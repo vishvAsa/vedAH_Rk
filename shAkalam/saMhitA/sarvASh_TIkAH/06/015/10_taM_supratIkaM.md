@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -85,7 +85,12 @@ prá ← prá (invariable)
 
 vocat ← √vac- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं सु॒प्रती॑कं सु॒दृशं॒ स्वञ्च॒मवि॑द्वांसो वि॒दुष्ट॑रं सपेम ।  
+स य॑क्ष॒द्विश्वा॑ व॒युना॑नि वि॒द्वान्प्र ह॒व्यम॒ग्निर॒मृते॑षु वोचत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +215,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -265,8 +269,6 @@ Der schön von Antlitz, lieblich und gewandt ist, den weisen lasst uns thöricht
 Да приносит он жертвы, зная все вехи (обрядов)!  
 Да провозгласит Агни (наше) возлияние среди бессмертных!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

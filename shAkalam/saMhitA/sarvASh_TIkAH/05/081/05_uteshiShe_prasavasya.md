@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -98,7 +99,12 @@ stómam ← stóma- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तेशि॑षे प्रस॒वस्य॒ त्वमेक॒ इदु॒त पू॒षा भ॑वसि देव॒ याम॑भिः ।  
+उ॒तेदं विश्वं॒ भुव॑नं॒ वि रा॑जसि श्या॒वाश्व॑स्ते सवितः॒ स्तोम॑मानशे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ upamám ← upamá- (nominal stem)
 
 vājayú ← vājayú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हन्तो॒ नु किमा॑ससे प्रथ॒मं नो॒ रथं॑ कृधि ।  
+उ॒प॒मं वा॑ज॒यु श्रवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “fame; glory; ear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

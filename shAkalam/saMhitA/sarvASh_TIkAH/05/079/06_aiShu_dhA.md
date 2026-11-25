@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -82,7 +83,12 @@ maghávānaḥ ← maghávan- (nominal stem)
 
 sújāte ← sujātá- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऐषु॑ धा वी॒रव॒द्यश॒ उषो॑ मघोनि सू॒रिषु॑ ।  
+ये नो॒ राधां॒स्यह्र॑या म॒घवा॑नो॒ अरा॑सत॒ सुजा॑ते॒ अश्व॑सूनृते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “big; friendly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -230,7 +235,6 @@ Upon them confer glory in heroes, bounteous Dawn—upon the patrons, who, bounte
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/079/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -241,7 +245,6 @@ emphasis on non-material rewards for the patrons continues in vs. 7 with “loft
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

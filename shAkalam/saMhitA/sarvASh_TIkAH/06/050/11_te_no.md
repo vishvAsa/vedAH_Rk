@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ gójātāḥ ← gójāta- (nominal stem)
 
 mr̥ḷáta ← √mr̥ḍ- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते नो॑ रा॒यो द्यु॒मतो॒ वाज॑वतो दा॒तारो॑ भूत नृ॒वतः॑ पुरु॒क्षोः ।  
+द॒श॒स्यन्तो॑ दि॒व्याः पार्थि॑वासो॒ गोजा॑ता॒ अप्या॑ मृ॒ळता॑ च देवाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

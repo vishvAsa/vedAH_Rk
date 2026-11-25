@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ vām ← tvám (pronoun)
 
 yajatrā ← yájatra- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॑ दा॒नाय॑ ववृतीय दस्रा॒ गोरोहे॑ण तौ॒ग्र्यो न जिव्रिः॑ ।  
+अ॒पः क्षो॒णी स॑चते॒ माहि॑ना वां जू॒र्णो वा॒मक्षु॒रंह॑सो यजत्रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “adorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

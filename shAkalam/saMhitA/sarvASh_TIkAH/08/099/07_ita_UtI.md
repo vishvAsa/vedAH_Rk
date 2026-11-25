@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ rathī́tamam ← rathī́tama- (nominal stem)
 
 tugryāvŕ̥dham ← tugryāvŕ̥dh- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒त ऊ॒ती वो॑ अ॒जरं॑ प्रहे॒तार॒मप्र॑हितम् ।  
+आ॒शुं जेता॑रं॒ हेता॑रं र॒थीत॑म॒मतू॑र्तं तुग्र्या॒वृध॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

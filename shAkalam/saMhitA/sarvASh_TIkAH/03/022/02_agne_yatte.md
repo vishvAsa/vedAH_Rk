@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ sá ← sá- ~ tá- (pronoun)
 
 tveṣáḥ ← tveṣá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ यत्ते॑ दि॒वि वर्चः॑ पृथि॒व्यां यदोष॑धीष्व॒प्स्वा य॑जत्र ।  
+येना॒न्तरि॑क्षमु॒र्वा॑त॒तन्थ॑ त्वे॒षः स भा॒नुर॑र्ण॒वो नृ॒चक्षाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “eye; look; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

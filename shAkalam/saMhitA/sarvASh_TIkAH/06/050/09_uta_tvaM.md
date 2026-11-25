@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ syām ← √as- 1 (root)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्वं सू॑नो सहसो नो अ॒द्या दे॒वाँ अ॒स्मिन्न॑ध्व॒रे व॑वृत्याः ।  
+स्याम॒हं ते॒ सद॒मिद्रा॒तौ तव॑ स्याम॒ग्नेऽव॑सा सु॒वीरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -274,10 +279,6 @@ And you, Son of Strength—you should turn the gods hither to us today  to this 
 Might I be always within (the sphere of) your giving; by your help might  I possess good heroes, Agni.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-“within (the sphere of)” is an attempt to render the loc. rātaú, since “Might I always be in your giving” is hard to parse. Klein’s (DGRV I.422) “Might I be ever (present) at thy giving” is more elegant. I might emend the published translation to “Might I always be (there) at your giving.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md">
 <details><summary><h2>08-10 ...{Loading}...</h2></summary>
 
@@ -285,7 +286,6 @@ These three vss. contain a series of perfect optatives, jagamyāt (8b), vavṛty
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

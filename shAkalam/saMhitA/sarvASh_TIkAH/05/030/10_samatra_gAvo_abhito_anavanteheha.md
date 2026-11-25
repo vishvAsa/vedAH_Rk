@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ súṣutāḥ ← súṣuta- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समत्र॒ गावो॒ऽभितो॑ऽनवन्ते॒हेह॑ व॒त्सैर्वियु॑ता॒ यदास॑न् ।  
+सं ता इन्द्रो॑ असृजदस्य शा॒कैर्यदीं॒ सोमा॑सः॒ सुषु॑ता॒ अम॑न्दन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

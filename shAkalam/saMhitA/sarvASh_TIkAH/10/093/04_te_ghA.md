@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "प्रस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ marútaḥ ← marút- (nominal stem)
 
 pūṣáṇaḥ ← pūṣáṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते घा॒ राजा॑नो अ॒मृत॑स्य म॒न्द्रा अ॑र्य॒मा मि॒त्रो वरु॑णः॒ परि॑ज्मा ।  
+कद्रु॒द्रो नृ॒णां स्तु॒तो म॒रुतः॑ पू॒षणो॒ भगः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
     well-being; happiness; overlord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

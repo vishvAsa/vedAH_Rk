@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ mánaḥ ← mánas- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒भ्रं चि॒द्धि त्वाव॑तः कृ॒तं शृ॒ण्वे अधि॒ क्षमि॑ ।  
+जिगा॑त्विन्द्र ते॒ मनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -230,6 +235,8 @@ Denn auch das kleinste, was du thust, so wie du bist, ist weltberühmt; Dir, Ind
 </details>
 
 <details><summary>शिव शंकर शर्मा (सं) - विषयः</summary>
+
+
 </details>
 
 <details><summary>शिव शंकर शर्मा (सं) - पदार्थः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निर्मरुतश्च"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्मरुतश्च
@@ -65,7 +66,12 @@ mādáyasva ← √mad- (root)
 
 svàrṇare ← svàrṇara- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आग्ने॑ याहि म॒रुत्स॑खा रु॒द्रेभिः॒ सोम॑पीतये ।  
+सोभ॑र्या॒ उप॑ सुष्टु॒तिं मा॒दय॑स्व॒ स्व॑र्णरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

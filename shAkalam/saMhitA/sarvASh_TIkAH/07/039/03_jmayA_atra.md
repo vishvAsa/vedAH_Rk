@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 śróta ← √śru- (root)  
 {number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज्म॒या अत्र॒ वस॑वो रन्त दे॒वा उ॒राव॒न्तरि॑क्षे मर्जयन्त शु॒भ्राः ।  
+अ॒र्वाक्प॒थ उ॑रुज्रयः कृणुध्वं॒ श्रोता॑ दू॒तस्य॑ ज॒ग्मुषो॑ नो अ॒स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

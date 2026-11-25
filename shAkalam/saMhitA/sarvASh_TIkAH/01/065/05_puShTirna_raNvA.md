@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -66,7 +66,11 @@ ná ← ná (invariable)
 
 śambhú ← śambhú- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒ष्टिर्न र॒ण्वा क्षि॒तिर्न पृ॒थ्वी गि॒रिर्न भुज्म॒ क्षोदो॒ न श॒म्भु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +152,6 @@ _________
 - “kind; benevolent.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -199,10 +202,6 @@ Erfreulich wie der Vermögenszuwachs, wie ein ausgedehnter Wohnsitz, eine Nutzqu
 
 Wie schöne Nahrung, – wie weiter Wohnsitz, wie Berge thalreich, – wie Ströme heilvoll, Wie auf der Rennbahn – ein Ross hinschiessend, wie Meere wogend – wer mag ihn hemmen?
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

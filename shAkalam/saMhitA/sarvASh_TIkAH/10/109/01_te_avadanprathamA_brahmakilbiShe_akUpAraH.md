@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "जुहूर्ब्रह्मजायोर्ध्वनाभा वा ब्राह्मः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ prathamajā́ḥ ← prathamajā́- (nominal stem)
 
 r̥téna ← r̥tá- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते॑ऽवदन्प्रथ॒मा ब्र॑ह्मकिल्बि॒षेऽकू॑पारः सलि॒लो मा॑त॒रिश्वा॑ ।  
+वी॒ळुह॑रा॒स्तप॑ उ॒ग्रो म॑यो॒भूरापो॑ दे॒वीः प्र॑थम॒जा ऋ॒तेन॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

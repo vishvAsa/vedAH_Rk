@@ -4,6 +4,7 @@ devataa = "वसिष्ठः;पृथिव्यन्तरिक्ष�
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वसिष्ठः;पृथिव्यन्तरिक्षे
@@ -92,7 +93,12 @@ divyā́t ← divyá- (nominal stem)
 
 pātu ← √pā- 1 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॒ रक्षो॑ अ॒भि न॑ड्यातु॒माव॑ता॒मपो॑च्छतु मिथु॒ना या कि॑मी॒दिना॑ ।  
+पृ॒थि॒वी नः॒ पार्थि॑वात्पा॒त्वंह॑सो॒ऽन्तरि॑क्षं दि॒व्यात्पा॑त्व॒स्मान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

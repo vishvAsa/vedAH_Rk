@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -71,7 +72,12 @@ niyútvatā ← niyútvant- (nominal stem)
 
 spārháḥ ← spārhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वायो॑ शु॒क्रो अ॑यामि ते॒ मध्वो॒ अग्रं॒ दिवि॑ष्टिषु ।  
+आ या॑हि॒ सोम॑पीतये स्पा॒र्हो दे॑व नि॒युत्व॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - \[noun\], instrumental, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

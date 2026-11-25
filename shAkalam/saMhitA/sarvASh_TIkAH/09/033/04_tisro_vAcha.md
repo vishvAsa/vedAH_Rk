@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ háriḥ ← hári- (nominal stem)
 
 kánikradat ← √krand- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒स्रो वाच॒ उदी॑रते॒ गावो॑ मिमन्ति धे॒नवः॑ ।  
+हरि॑रेति॒ कनि॑क्रदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “roar; neigh.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

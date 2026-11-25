@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ raghuṣyádam ← raghuṣyád- (nominal stem)
 
 jétāram ← jétar- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्द॑दाति॒ सत्प॑तिं सा॒साह॒ यो यु॒धा नृभिः॑ ।  
+अ॒ग्निरत्यं॑ रघु॒ष्यदं॒ जेता॑र॒मप॑राजितम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “overcome; overpower.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -86,7 +87,12 @@ tribhíḥ ← trí- (nominal stem)
 
 vimamé ← √mā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र विष्ण॑वे शू॒षमे॑तु॒ मन्म॑ गिरि॒क्षित॑ उरुगा॒याय॒ वृष्णे॑ ।  
+य इ॒दं दी॒र्घं प्रय॑तं स॒धस्थ॒मेको॑ विम॒मे त्रि॒भिरित्प॒देभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     topographic point; path; residence; site; topic.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

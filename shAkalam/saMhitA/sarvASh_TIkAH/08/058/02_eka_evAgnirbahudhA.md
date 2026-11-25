@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -101,7 +102,12 @@ vaí ← vaí (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एक॑ ए॒वाग्निर्ब॑हु॒धा समि॑द्ध॒ एकः॒ सूर्यो॒ विश्व॒मनु॒ प्रभू॑तः ।  
+एकै॒वोषाः सर्व॑मि॒दं वि भा॒त्येकं॒ वा इ॒दं वि ब॑भूव॒ सर्व॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -270,7 +276,6 @@ _________
     overall.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

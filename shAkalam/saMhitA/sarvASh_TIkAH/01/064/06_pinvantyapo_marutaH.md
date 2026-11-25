@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ stanáyantam ← √stanⁱ- (root)
 
 útsam ← útsa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिन्व॑न्त्य॒पो म॒रुतः॑ सु॒दान॑वः॒ पयो॑ घृ॒तव॑द्वि॒दथे॑ष्वा॒भुवः॑ ।  
+अत्यं॒ न मि॒हे वि न॑यन्ति वा॒जिन॒मुत्सं॑ दुहन्ति स्त॒नय॑न्त॒मक्षि॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     lose; lose; gasify; decline; decay; corrupt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

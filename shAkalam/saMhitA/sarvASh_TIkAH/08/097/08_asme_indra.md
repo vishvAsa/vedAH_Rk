@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sácā ← sácā (invariable)
 
 suté ← √su- (root)  
 {case:LOC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे इ॑न्द्र॒ सचा॑ सु॒ते नि ष॑दा पी॒तये॒ मधु॑ ।  
+कृ॒धी ज॑रि॒त्रे म॑घव॒न्नवो॑ म॒हद॒स्मे इ॑न्द्र॒ सचा॑ सु॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “Soma.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -57,7 +58,12 @@ dyumnā́ya ← dyumná- (nominal stem)
 
 sutárāḥ ← sutára- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इ॒द्ध आ॒विवा॑सति सु॒म्नमिन्द्र॑स्य॒ मर्त्यः॑ ।  
+द्यु॒म्नाय॑ सु॒तरा॑ अ॒पः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

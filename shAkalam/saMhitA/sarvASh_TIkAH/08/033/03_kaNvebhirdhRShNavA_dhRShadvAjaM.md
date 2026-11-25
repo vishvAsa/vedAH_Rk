@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ gómantam ← gómant- (nominal stem)
 
 makṣú ← makṣú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कण्वे॑भिर्धृष्ण॒वा धृ॒षद्वाजं॑ दर्षि सह॒स्रिण॑म् ।  
+पि॒शङ्ग॑रूपं मघवन्विचर्षणे म॒क्षू गोम॑न्तमीमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

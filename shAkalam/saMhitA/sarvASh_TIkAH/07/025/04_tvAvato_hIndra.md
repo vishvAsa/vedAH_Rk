@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 ókaḥ ← ókas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाव॑तो॒ ही॑न्द्र॒ क्रत्वे॒ अस्मि॒ त्वाव॑तोऽवि॒तुः शू॑र रा॒तौ ।  
+विश्वेदहा॑नि तविषीव उग्रँ॒ ओकः॑ कृणुष्व हरिवो॒ न म॑र्धीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “neglect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ manthāma ← √manthⁱ- (root)
 
 pūrváthā ← pūrváthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्ती॒दम॑धि॒मन्थ॑न॒मस्ति॑ प्र॒जन॑नं कृ॒तम् ।  
+ए॒तां वि॒श्पत्नी॒मा भ॑रा॒ग्निं म॑न्थाम पू॒र्वथा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

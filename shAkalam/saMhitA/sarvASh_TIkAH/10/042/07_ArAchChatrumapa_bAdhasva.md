@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ kr̥dhí ← √kr̥- (root)
 
 vā́jaratnām ← vā́jaratna- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒राच्छत्रु॒मप॑ बाधस्व दू॒रमु॒ग्रो यः शम्बः॑ पुरुहूत॒ तेन॑ ।  
+अ॒स्मे धे॑हि॒ यव॑म॒द्गोम॑दिन्द्र कृ॒धी धियं॑ जरि॒त्रे वाज॑रत्नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     jewelry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

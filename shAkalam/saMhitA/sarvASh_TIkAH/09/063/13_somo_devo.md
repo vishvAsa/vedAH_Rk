@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ kaláśe ← kaláśa- (nominal stem)
 
 rásam ← rása- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमो॑ दे॒वो न सूर्योऽद्रि॑भिः पवते सु॒तः ।  
+दधा॑नः क॒लशे॒ रस॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
     Rasātala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,10 +169,6 @@ Soma, like the Sun-god, purifies himself, pressed by stones,
 placing his own sap in the tub.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As in the tṛca vss. 7-9, Soma is again compared to the Sun - but curiously no clear point of comparison between them appears in the vs. The actions attributed to Soma here - purifying himself, being pressed by stones, putting his sap in the tub - are exclusive to him and certainly not characteristic of the Sun.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -175,7 +176,6 @@ Again no particular signs of unity. The unmixed (“clear” śukrá-) soma in 1
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

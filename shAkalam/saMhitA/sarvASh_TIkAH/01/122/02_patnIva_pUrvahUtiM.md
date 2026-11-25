@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ sudŕ̥śī ← sudŕ̥ś- (nominal stem)
 
 sū́ryasya ← sū́rya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पत्नी॑व पू॒र्वहू॑तिं वावृ॒धध्या॑ उ॒षासा॒नक्ता॑ पुरु॒धा विदा॑ने ।  
+स्त॒रीर्नात्कं॒ व्यु॑तं॒ वसा॑ना॒ सूर्य॑स्य श्रि॒या सु॒दृशी॒ हिर॑ण्यैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

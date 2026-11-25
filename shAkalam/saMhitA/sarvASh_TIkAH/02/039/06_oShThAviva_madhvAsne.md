@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ kárṇau ← kárṇa- (nominal stem)
 
 suśrútā ← suśrút- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओष्ठा॑विव॒ मध्वा॒स्ने वद॑न्ता॒ स्तना॑विव पिप्यतं जी॒वसे॑ नः ।  
+नासे॑व नस्त॒न्वो॑ रक्षि॒तारा॒ कर्णा॑विव सु॒श्रुता॑ भूतम॒स्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

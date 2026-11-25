@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -107,7 +108,13 @@ dyumnáhūtibhiḥ ← dyumnáhūti- (nominal stem)
 
 yájatram ← yájatra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒नेम॒ तद्धोत्र॑या चि॒तन्त्या॑ व॒नेम॑ र॒यिं र॑यिवः सु॒वीर्यं॑ र॒ण्वं सन्तं॑ सु॒वीर्य॑म् ।  
+दु॒र्मन्मा॑नं सु॒मन्तु॑भि॒रेमि॒षा पृ॑चीमहि ।  
+आ स॒त्याभि॒रिन्द्रं॑ द्यु॒म्नहू॑तिभि॒र्यज॑त्रं द्यु॒म्नहू॑तिभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -291,7 +298,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

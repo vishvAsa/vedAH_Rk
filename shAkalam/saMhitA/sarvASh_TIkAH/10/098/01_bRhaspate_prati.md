@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "देवापिरार्ष्टिषेणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -95,7 +96,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vr̥ṣāya ← √vr̥ṣāy- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृह॑स्पते॒ प्रति॑ मे दे॒वता॑मिहि मि॒त्रो वा॒ यद्वरु॑णो॒ वासि॑ पू॒षा ।  
+आ॒दि॒त्यैर्वा॒ यद्वसु॑भिर्म॒रुत्वा॒न्त्स प॒र्जन्यं॒ शन्त॑नवे वृषाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “rain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

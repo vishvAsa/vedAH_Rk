@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -101,7 +102,12 @@ sám ← sám (invariable)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒भुर्विभ्वा॒ वाज॒ इन्द्रो॑ नो॒ अच्छे॒मं य॒ज्ञं र॑त्न॒धेयोप॑ यात ।  
+इ॒दा हि वो॑ धि॒षणा॑ दे॒व्यह्ना॒मधा॑त्पी॒तिं सं मदा॑ अग्मता वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -263,7 +269,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

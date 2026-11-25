@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "न्यङ्कुसारिणी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ vaso ← vásu- (nominal stem)
 
 vedátā ← vedátā- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तं शंस॑मिन्द्रास्म॒युष्ट्वं कूचि॒त्सन्तं॑ सहसावन्न॒भिष्ट॑ये ।  
+सदा॑ पाह्य॒भिष्ट॑ये मे॒दतां॑ वे॒दता॑ वसो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “good; good; benign; vasu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

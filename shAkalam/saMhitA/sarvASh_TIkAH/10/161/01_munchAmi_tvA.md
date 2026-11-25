@@ -4,6 +4,7 @@ devataa = "राजयक्ष्मघ्नं"
 RShiH = "यक्ष्मनाशनः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राजयक्ष्मघ्नं
@@ -89,7 +90,12 @@ prá ← prá (invariable)
 
 tásyāḥ ← sá- ~ tá- (pronoun)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मु॒ञ्चामि॑ त्वा ह॒विषा॒ जीव॑नाय॒ कम॑ज्ञातय॒क्ष्मादु॒त रा॑जय॒क्ष्मात् ।  
+ग्राहि॑र्ज॒ग्राह॒ यदि॑ वै॒तदे॑नं॒ तस्या॑ इन्द्राग्नी॒ प्र मु॑मुक्तमेनम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “this; he,she,it (pers. pron.).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

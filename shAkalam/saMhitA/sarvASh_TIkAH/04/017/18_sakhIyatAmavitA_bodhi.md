@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ maháyantaḥ ← √mahay- (root)
 
 śámībhiḥ ← śámī- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒खी॒य॒ताम॑वि॒ता बो॑धि॒ सखा॑ गृणा॒न इ॑न्द्र स्तुव॒ते वयो॑ धाः ।  
+व॒यं ह्या ते॑ चकृ॒मा स॒बाध॑ आ॒भिः शमी॑भिर्म॒हय॑न्त इन्द्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

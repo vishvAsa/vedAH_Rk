@@ -4,6 +4,7 @@ devataa = "सपत्नघ्नं"
 RShiH = "ऋषभो वैराजः शाक्वरो वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सपत्नघ्नं
@@ -86,7 +87,12 @@ vádān ← √vadⁱ- (root)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्रै॒व वोऽपि॑ नह्याम्यु॒भे आर्त्नी॑ इव॒ ज्यया॑ ।  
+वाच॑स्पते॒ नि षे॑धे॒मान्यथा॒ मदध॑रं॒ वदा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     diagnose; address; say; pronounce; express; instruct; order.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

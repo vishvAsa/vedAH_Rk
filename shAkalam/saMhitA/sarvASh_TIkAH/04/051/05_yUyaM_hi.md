@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ dvipā́t ← dvipád- (nominal stem)
 
 jīvám ← jīvá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यं हि दे॑वीरृत॒युग्भि॒रश्वैः॑ परिप्रया॒थ भुव॑नानि स॒द्यः ।  
+प्र॒बो॒धय॑न्तीरुषसः स॒सन्तं॑ द्वि॒पाच्चतु॑ष्पाच्च॒रथा॑य जी॒वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “being; animal; life; jīva \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -77,7 +78,12 @@ spr̥hayā́yyāṇi ← spr̥hayā́yya- (nominal stem)
 
 vásūni ← vásu- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वद्विप्रो॑ जायते वा॒ज्य॑ग्ने॒ त्वद्वी॒रासो॑ अभिमाति॒षाहः॑ ।  
+वैश्वा॑नर॒ त्वम॒स्मासु॑ धेहि॒ वसू॑नि राजन्त्स्पृह॒याय्या॑णि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - \[noun\], accusative, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -208,7 +213,6 @@ O Vaiśvānara, establish in us goods to be craved, o king.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
@@ -216,7 +220,6 @@ The middle of the hymn is characterized by initial (or modified initial) forms o
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

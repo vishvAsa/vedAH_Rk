@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -80,7 +81,12 @@ etā́vantam ← etā́vant- (nominal stem)
 
 náryam ← nárya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू मर्तो॑ दयते सनि॒ष्यन्यो विष्ण॑व उरुगा॒याय॒ दाश॑त् ।  
+प्र यः स॒त्राचा॒ मन॑सा॒ यजा॑त ए॒ताव॑न्तं॒ नर्य॑मा॒विवा॑सात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - \[verb\], singular, Present conjunctive (subjunctive)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ vāvr̥dhuḥ ← √vr̥dh- (root)
 
 yajñaíḥ ← yajñá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्मा॑ ए॒तद्दि॒व्य१॒॑र्चेव॑ मा॒सा मि॑मि॒क्ष इन्द्रे॒ न्य॑यामि॒ सोमः॑ ।  
+जनं॒ न धन्व॑न्न॒भि सं यदापः॑ स॒त्रा वा॑वृधु॒र्हव॑नानि य॒ज्ञैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -275,7 +280,6 @@ Our invocations along with our sacrifices have entirely strengthened  (him), lik
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/034/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -295,7 +299,6 @@ In c the phrase (abhí) sáṃ yád ā́paḥ “when the waters con(verge) (on 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

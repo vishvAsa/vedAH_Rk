@@ -4,6 +4,7 @@ devataa = "इन्द्राश्वौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राश्वौ
@@ -57,7 +58,12 @@ babhrū́ ← babhrú- (nominal stem)
 
 yā́meṣu ← yā́ma- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒नी॒न॒केव॑ विद्र॒धे नवे॑ द्रुप॒दे अ॑र्भ॒के ।  
+ब॒भ्रू यामे॑षु शोभेते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “look; shine; beautify.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

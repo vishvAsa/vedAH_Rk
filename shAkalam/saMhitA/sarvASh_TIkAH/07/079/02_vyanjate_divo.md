@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -95,7 +96,12 @@ savitā́ ← savitár- (nominal stem)
 
 yachanti ← √yam- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्य॑ञ्जते दि॒वो अन्ते॑ष्व॒क्तून्विशो॒ न यु॒क्ता उ॒षसो॑ यतन्ते ।  
+सं ते॒ गाव॒स्तम॒ आ व॑र्तयन्ति॒ ज्योति॑र्यच्छन्ति सवि॒तेव॑ बा॒हू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “arm; bāhu \[word\]; elbow; forefoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

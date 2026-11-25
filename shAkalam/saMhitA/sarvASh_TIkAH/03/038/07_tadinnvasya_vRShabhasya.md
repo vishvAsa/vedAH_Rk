@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रजापतिर्वैश्वामित्रः (वाच्यो वा द्वौ वा तौ विश्वामित्रो वा)"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ ní ← ní (invariable)
 
 rūpám ← rūpá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदिन्न्व॑स्य वृष॒भस्य॑ धे॒नोरा नाम॑भिर्ममिरे॒ सक्म्यं॒ गोः ।  
+अ॒न्यद॑न्यदसु॒र्यं१॒॑ वसा॑ना॒ नि मा॒यिनो॑ ममिरे रू॒पम॑स्मिन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

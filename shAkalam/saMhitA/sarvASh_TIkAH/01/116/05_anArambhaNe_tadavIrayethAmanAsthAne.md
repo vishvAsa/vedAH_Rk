@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ nā́vam ← naú- ~ nā́v- (nominal stem)
 
 śatā́ritrām ← śatā́ritra- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ना॒र॒म्भ॒णे तद॑वीरयेथामनास्था॒ने अ॑ग्रभ॒णे स॑मु॒द्रे ।  
+यद॑श्विना ऊ॒हथु॑र्भु॒ज्युमस्तं॑ श॒तारि॑त्रां॒ नाव॑मातस्थि॒वांस॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
     hop on; climb; travel; seize; follow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

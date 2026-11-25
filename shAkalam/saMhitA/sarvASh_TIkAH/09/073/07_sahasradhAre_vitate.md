@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ sudŕ̥śaḥ ← sudŕ̥ś- (nominal stem)
 
 sváñcaḥ ← sváñc- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्र॑धारे॒ वित॑ते प॒वित्र॒ आ वाचं॑ पुनन्ति क॒वयो॑ मनी॒षिणः॑ ।  
+रु॒द्रास॑ एषामिषि॒रासो॑ अ॒द्रुहः॒ स्पशः॒ स्वञ्चः॑ सु॒दृशो॑ नृ॒चक्ष॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “eye; look; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ sthirám ← sthirá- (nominal stem)
 
 sūta ← √sū- 2 (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑सु म॒न्द्रो अ॑र॒तिर्वि॒भावाव॑ स्यति द्विवर्त॒निर्व॑ने॒षाट् ।  
+ऊ॒र्ध्वा यच्छ्रेणि॒र्न शिशु॒र्दन्म॒क्षू स्थि॒रं शे॑वृ॒धं सू॑त मा॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

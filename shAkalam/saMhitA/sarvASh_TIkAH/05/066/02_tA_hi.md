@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "रातहव्य आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -77,7 +78,12 @@ ná ← ná (invariable)
 
 svàr ← svàr- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता हि क्ष॒त्रमवि॑ह्रुतं स॒म्यग॑सु॒र्य१॒॑माशा॑ते ।  
+अध॑ व्र॒तेव॒ मानु॑षं॒ स्व१॒॑र्ण धा॑यि दर्श॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “beautiful; visible; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

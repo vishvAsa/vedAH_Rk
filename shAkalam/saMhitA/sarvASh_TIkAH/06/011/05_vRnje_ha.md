@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sū́rye ← sū́rya- (nominal stem)
 
 yajñáḥ ← yajñá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒ञ्जे ह॒ यन्नम॑सा ब॒र्हिर॒ग्नावया॑मि॒ स्रुग्घृ॒तव॑ती सुवृ॒क्तिः ।  
+अम्य॑क्षि॒ सद्म॒ सद॑ने पृथि॒व्या अश्रा॑यि य॒ज्ञः सूर्ये॒ न चक्षुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

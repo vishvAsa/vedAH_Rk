@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -98,7 +99,12 @@ pū́rvaḥ ← pū́rva- (nominal stem)
 
 sátsat ← √sad- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यमैच्छा॑म॒ मन॑सा॒ सो॒३॒॑ऽयमागा॑द्य॒ज्ञस्य॑ वि॒द्वान्परु॑षश्चिकि॒त्वान् ।  
+स नो॑ यक्षद्दे॒वता॑ता॒ यजी॑या॒न्नि हि षत्स॒दन्त॑रः॒ पूर्वो॑ अ॒स्मत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

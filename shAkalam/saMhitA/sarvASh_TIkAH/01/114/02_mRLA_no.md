@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -104,7 +105,12 @@ tát ← sá- ~ tá- (pronoun)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मृ॒ळा नो॑ रुद्रो॒त नो॒ मय॑स्कृधि क्ष॒यद्वी॑राय॒ नम॑सा विधेम ते ।  
+यच्छं च॒ योश्च॒ मनु॑राये॒जे पि॒ता तद॑श्याम॒ तव॑ रुद्र॒ प्रणी॑तिषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -268,7 +274,6 @@ _________
 - “guidance; guidance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

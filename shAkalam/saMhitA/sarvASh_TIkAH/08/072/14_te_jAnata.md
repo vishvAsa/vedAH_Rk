@@ -4,6 +4,7 @@ devataa = "अग्निर्हवींषि वा"
 RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्हवींषि वा
@@ -63,7 +64,12 @@ mithás ← mithás (invariable)
 
 nasanta ← √nas- (root)  
 {number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते जा॑नत॒ स्वमो॒क्यं१॒॑ सं व॒त्सासो॒ न मा॒तृभिः॑ ।  
+मि॒थो न॑सन्त जा॒मिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “sister; woman; daughter-in-law.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "आसङ्गस्य दानस्तुतिः"
 RShiH = "आसङ्गः प्लायोगिः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आसङ्गस्य दानस्तुतिः
@@ -80,7 +81,12 @@ yā́dvaḥ ← yā́dva- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यदश्वा॒न्वन॑न्वतः श्र॒द्धया॒हं रथे॑ रु॒हम् ।  
+उ॒त वा॒मस्य॒ वसु॑नश्चिकेतति॒ यो अस्ति॒ याद्वः॑ प॒शुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
     Paśu; herd; goat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवा ऋत्विजो वा"
 RShiH = "बुधः सौम्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -51,7 +52,12 @@ siñce ← √sic- (root)
 
 udríṇam ← udrín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इष्कृ॑ताहावमव॒तं सु॑वर॒त्रं सु॑षेच॒नम् ।  
+उ॒द्रिणं॑ सिञ्चे॒ अक्षि॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
     lose; lose; gasify; decline; decay; corrupt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

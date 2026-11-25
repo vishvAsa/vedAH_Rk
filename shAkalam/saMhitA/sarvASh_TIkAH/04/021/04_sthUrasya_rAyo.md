@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ prá ← prá (invariable)
 
 vásyaḥ ← vásyaṁs- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्थू॒रस्य॑ रा॒यो बृ॑ह॒तो य ईशे॒ तमु॑ ष्टवाम वि॒दथे॒ष्विन्द्र॑म् ।  
+यो वा॒युना॒ जय॑ति॒ गोम॑तीषु॒ प्र धृ॑ष्णु॒या नय॑ति॒ वस्यो॒ अच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

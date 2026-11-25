@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -57,7 +57,11 @@ uṣarbhút ← uṣarbúdh- (nominal stem)
 
 viśā́m ← víś- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्वसि॑त्य॒प्सु हं॒सो न सीद॒न्क्रत्वा॒ चेति॑ष्ठो वि॒शामु॑ष॒र्भुत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +126,6 @@ _________
 - “early rising.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -176,10 +179,6 @@ Er zischt dasitzend wie der Schwan im Wasser, durch Einsicht ausgezeichnet, der 
 
 Gleich einem Schwane – im Wasser zischt er, sehr klug an Einsicht – früh wach bei Menschen, Wie Soma waltend, – nach Brauch entsprossen, wie junges Füllen, – weitleuchtend, kräftig.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

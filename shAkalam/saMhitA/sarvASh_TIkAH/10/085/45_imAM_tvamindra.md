@@ -4,6 +4,7 @@ devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्या
@@ -77,7 +78,12 @@ kr̥dhi ← √kr̥- (root)
 
 pátim ← páti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मां त्वमि॑न्द्र मीढ्वः सुपु॒त्रां सु॒भगां॑ कृणु ।  
+दशा॑स्यां पु॒त्राना धे॑हि॒ पति॑मेकाद॒शं कृ॑धि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

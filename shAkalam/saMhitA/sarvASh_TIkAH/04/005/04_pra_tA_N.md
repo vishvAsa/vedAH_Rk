@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ mitrásya ← mitrá- (nominal stem)
 
 priyā́ ← priyá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ताँ अ॒ग्निर्ब॑भसत्ति॒ग्मज॑म्भ॒स्तपि॑ष्ठेन शो॒चिषा॒ यः सु॒राधाः॑ ।  
+प्र ये मि॒नन्ति॒ वरु॑णस्य॒ धाम॑ प्रि॒या मि॒त्रस्य॒ चेत॑तो ध्रु॒वाणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     immovable; fixed; fixed; vital; faithful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

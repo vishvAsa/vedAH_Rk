@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ sujāte ← sujātá- (nominal stem)
 
 úṣaḥ ← uṣás- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ त्वा॒ स्तोमै॑रीळते॒ वसि॑ष्ठा उष॒र्बुधः॑ सुभगे तुष्टु॒वांसः॑ ।  
+गवां॑ ने॒त्री वाज॑पत्नी न उ॒च्छोषः॑ सुजाते प्रथ॒मा ज॑रस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

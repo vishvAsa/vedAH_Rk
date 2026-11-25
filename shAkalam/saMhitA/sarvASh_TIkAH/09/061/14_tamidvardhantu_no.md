@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ hr̥daṁsániḥ ← hr̥daṁsáni- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमिद्व॑र्धन्तु नो॒ गिरो॑ व॒त्सं सं॒शिश्व॑रीरिव ।  
+य इन्द्र॑स्य हृदं॒सनिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -169,10 +174,6 @@ _________
 Only him let our hymns strengthen, as (cows) who share their young do a calf— him who gains the heart of Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The hapax tatpuruṣa hṛdaṃsáni- ‘gaining the heart’ is curious, in having an apparent acc. in -am to the neut. root noun hṛ́d-, as if to a masc. or fem. stem or to a thematic *hṛda- (see, e.g., AiG II.1.208).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -180,7 +181,6 @@ Again no signs of tṛca unity, unless the presence of cows in all three verses 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

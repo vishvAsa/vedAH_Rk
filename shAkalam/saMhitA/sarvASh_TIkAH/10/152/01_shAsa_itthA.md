@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शासो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ kádā ← kádā (invariable)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शा॒स इ॒त्था म॒हाँ अ॑स्यमित्रखा॒दो अद्भु॑तः ।  
+न यस्य॑ ह॒न्यते॒ सखा॒ न जीय॑ते॒ कदा॑ च॒न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “ever; sometimes.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

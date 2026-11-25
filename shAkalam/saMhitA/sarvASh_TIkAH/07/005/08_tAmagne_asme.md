@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -83,7 +84,12 @@ pr̥thú ← pr̥thú- (nominal stem)
 
 śrávaḥ ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ताम॑ग्ने अ॒स्मे इष॒मेर॑यस्व॒ वैश्वा॑नर द्यु॒मतीं॑ जातवेदः ।  
+यया॒ राधः॒ पिन्व॑सि विश्ववार पृ॒थु श्रवो॑ दा॒शुषे॒ मर्त्या॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

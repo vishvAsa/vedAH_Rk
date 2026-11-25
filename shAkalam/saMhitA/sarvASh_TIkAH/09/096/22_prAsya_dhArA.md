@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ ná ← ná (invariable)
 
 sákhyuḥ ← sákhi- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रास्य॒ धारा॑ बृह॒तीर॑सृग्रन्न॒क्तो गोभिः॑ क॒लशाँ॒ आ वि॑वेश ।  
+साम॑ कृ॒ण्वन्त्सा॑म॒न्यो॑ विप॒श्चित्क्रन्द॑न्नेत्य॒भि सख्यु॒र्न जा॒मिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “sister; woman; daughter-in-law.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

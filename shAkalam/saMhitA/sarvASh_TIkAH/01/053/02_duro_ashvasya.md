@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sákhibhyaḥ ← sákhi- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दु॒रो अश्व॑स्य दु॒र इ॑न्द्र॒ गोर॑सि दु॒रो यव॑स्य॒ वसु॑न इ॒नस्पतिः॑ ।  
+शि॒क्षा॒न॒रः प्र॒दिवो॒ अका॑मकर्शनः॒ सखा॒ सखि॑भ्य॒स्तमि॒दं गृ॑णीमसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

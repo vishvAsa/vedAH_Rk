@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ samanagā́ḥ ← samanagā́- (nominal stem)
 
 vrā́ḥ ← vrā́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वसा॒ स्वस्रे॒ ज्याय॑स्यै॒ योनि॑मारै॒गपै॑त्यस्याः प्रति॒चक्ष्ये॑व ।  
+व्यु॒च्छन्ती॑ र॒श्मिभिः॒ सूर्य॑स्या॒ञ्ज्य॑ङ्क्ते समन॒गा इ॑व॒ व्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -231,14 +236,6 @@ The (one) sister has left the natal place to her older sister. She goes away  fr
 Dawning forth with the rays of the sun, she smears unguent on herself,  like (maidens) with a choice going to assemblies.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As indicated in the published introduction, I believe that this verse continues the series of female portraits, this time with two vignettes of the svayaṃvara (‘self-choice’) marriage.
-
-On the basis of I.113.1, Geldner suggests persuasively that the subj. of pāda a is Night and her older sister is Dawn. Nonetheless, I take the subj. of b to be Dawn, who is going away from Night. The crucial word in b is praticákṣyă/ā (latter Pp.), which can be either a gerund (-ă) or a gerundive (-ā). Most (though not Oldenberg) take it as the latter, as I do, but with the sense “to be seen again” (e.g., Geldner “die man wiedersehen soll”), that is, as one who will return. But this is not the standard meaning of práti √cakṣ, which simply means ‘gaze upon’. Here I think “to be gazed upon” represents the display motif of the svayaṃvara marriage: before the girl exercises her choice among the assembled suitors, she enters the arena (vel sim.) and is announced and displayed for all to see (for disc. see esp. Jamison 1999 [Penelope] and for this passage in general Jamison 2003 [Fs. H.-P. Schmidt], pp. 42-44).
-
-The choosing maidens (vrā́ḥ) of the same marriage type are the topic of pāda d.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -246,7 +243,6 @@ suvā́śā(ḥ) in 7c is neatly echoed by svásā opening 8a.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

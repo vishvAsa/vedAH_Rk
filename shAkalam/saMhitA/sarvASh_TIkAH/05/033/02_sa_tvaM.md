@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sakṣi ← √sah- (root)
 
 vákṣaḥ ← √vah- (root)  
 {number:SG, person:2, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स त्वं न॑ इन्द्र धियसा॒नो अ॒र्कैर्हरी॑णां वृष॒न्योक्त्र॑मश्रेः ।  
+या इ॒त्था म॑घव॒न्ननु॒ जोषं॒ वक्षो॑ अ॒भि प्रार्यः स॑क्षि॒ जना॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ váram ← vára- 1 (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परे॑हि॒ विग्र॒मस्तृ॑त॒मिन्द्रं॑ पृच्छा विप॒श्चित॑म् ।  
+यस्ते॒ सखि॑भ्य॒ आ वर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “best; excellent; better; choice; optimum; maximal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

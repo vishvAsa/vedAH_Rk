@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ sácetasaḥ ← sácetas- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कूचि॑ज्जायते॒ सन॑यासु॒ नव्यो॒ वने॑ तस्थौ पलि॒तो धू॒मके॑तुः ।  
+अ॒स्ना॒तापो॑ वृष॒भो न प्र वे॑ति॒ सचे॑तसो॒ यं प्र॒णय॑न्त॒ मर्ताः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

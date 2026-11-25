@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ pári ← pári (invariable)
 
 vavrivā́ṁsam ← √vr̥- (root)  
 {case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॒पो यद्ध॑ वृ॒त्रं ज॑घ॒न्वाँ अत्याँ॑ इव॒ प्रासृ॑जः॒ सर्त॒वाजौ ।  
+शया॑नमिन्द्र॒ चर॑ता व॒धेन॑ वव्रि॒वांसं॒ परि॑ दे॒वीरदे॑वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

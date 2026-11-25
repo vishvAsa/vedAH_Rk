@@ -4,6 +4,7 @@ devataa = "यमः"
 RShiH = "कुमारो यामायनः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -65,7 +66,12 @@ púnar ← púnar (invariable)
 
 tásmai ← sá- ~ tá- (pronoun)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रा॒णाँ अ॑नु॒वेन॑न्तं॒ चर॑न्तं पा॒पया॑मु॒या ।  
+अ॒सू॒यन्न॒भ्य॑चाकशं॒ तस्मा॑ अस्पृहयं॒ पुनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     however; besides.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ tvā ← tvám (pronoun)
 
 upamám ← upamá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कस्ते॒ मद॑ इन्द्र॒ रन्त्यो॑ भू॒द्दुरो॒ गिरो॑ अ॒भ्यु१॒॑ग्रो वि धा॑व ।  
+कद्वाहो॑ अ॒र्वागुप॑ मा मनी॒षा आ त्वा॑ शक्यामुप॒मं राधो॒ अन्नैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -266,7 +272,6 @@ _________
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

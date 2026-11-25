@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रजापतिर्वैश्वामित्रः (वाच्यो वा द्वौ वा तौ विश्वामित्रो वा)"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ mánovātāḥ ← mánovāta- (nominal stem)
 
 nú ← nú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒नोत पृ॑च्छ॒ जनि॑मा कवी॒नां म॑नो॒धृतः॑ सु॒कृत॑स्तक्षत॒ द्याम् ।  
+इ॒मा उ॑ ते प्र॒ण्यो॒३॒॑ वर्ध॑माना॒ मनो॑वाता॒ अध॒ नु धर्म॑णि ग्मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

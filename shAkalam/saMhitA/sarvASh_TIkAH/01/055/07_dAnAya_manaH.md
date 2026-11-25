@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ ná ← ná (invariable)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दा॒नाय॒ मनः॑ सोमपावन्नस्तु ते॒ऽर्वाञ्चा॒ हरी॑ वन्दनश्रु॒दा कृ॑धि ।  
+यमि॑ष्ठासः॒ सार॑थयो॒ य इ॑न्द्र ते॒ न त्वा॒ केता॒ आ द॑भ्नुवन्ति॒ भूर्ण॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
 - “impatient; restless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

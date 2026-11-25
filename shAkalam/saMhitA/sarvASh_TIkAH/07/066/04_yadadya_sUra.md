@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -60,7 +61,12 @@ savitā́ ← savitár- (nominal stem)
 
 suvā́ti ← √sū- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒द्य सूर॒ उदि॒तेऽना॑गा मि॒त्रो अ॑र्य॒मा ।  
+सु॒वाति॑ सवि॒ता भगः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
     well-being; happiness; overlord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ tigmám ← tigmá- (nominal stem)
 
 vájram ← vájra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शश्व॑न्तो॒ हि शत्र॑वो रार॒धुष्टे॑ भे॒दस्य॑ चि॒च्छर्ध॑तो विन्द॒ रन्धि॑म् ।  
+मर्ताँ॒ एनः॑ स्तुव॒तो यः कृ॒णोति॑ ति॒ग्मं तस्मि॒न्नि ज॑हि॒ वज्र॑मिन्द्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

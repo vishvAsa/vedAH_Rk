@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ tásmin ← sá- ~ tá- (pronoun)
 
 vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इन्द्रा॑य सु॒नव॒त्सोम॑म॒द्य पचा॑त्प॒क्तीरु॒त भृ॒ज्जाति॑ धा॒नाः ।  
+प्रति॑ मना॒योरु॒चथा॑नि॒ हर्य॒न्तस्मि॑न्दध॒द्वृष॑णं॒ शुष्म॒मिन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -247,10 +252,6 @@ Whoever will press soma for Indra today, will cook the cooked foods,  and will r
 upon him will Indra, gladly receiving the recitations of the zealous one,  confer his bullish explosive force.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The śúṣma- that Indra confers on the sacrificer is the ‘explosive force’ that will help him (both Indra and the mortal aided by him) prevail in battle.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -258,7 +259,6 @@ The battle/sacrifice trajectory of vss. 4-5 is wrapped up in vss. 6-7, where it 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

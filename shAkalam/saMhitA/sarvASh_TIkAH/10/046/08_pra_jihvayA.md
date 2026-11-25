@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ mandrám ← mandrá- (nominal stem)
 
 yájiṣṭham ← yájiṣṭha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र जि॒ह्वया॑ भरते॒ वेपो॑ अ॒ग्निः प्र व॒युना॑नि॒ चेत॑सा पृथि॒व्याः ।  
+तमा॒यवः॑ शु॒चय॑न्तं पाव॒कं म॒न्द्रं होता॑रं दधिरे॒ यजि॑ष्ठम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

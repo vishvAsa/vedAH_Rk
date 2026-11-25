@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ sānasíḥ ← sānasí- (nominal stem)
 
 pr̥tanāṣā́ṭ ← pr̥tanāṣáh- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ न॑स्ते गन्तु मत्स॒रो वृषा॒ मदो॒ वरे॑ण्यः ।  
+स॒हावाँ॑ इन्द्र सान॒सिः पृ॑तना॒षाळम॑र्त्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “immortal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

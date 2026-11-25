@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -77,7 +78,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्वो॑ अ॒द्य म॑नामहे सू॒क्तैः सूर॒ उदि॑ते ।  
+यदोह॑ते॒ वरु॑णो मि॒त्रो अ॑र्य॒मा यू॒यमृ॒तस्य॑ रथ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

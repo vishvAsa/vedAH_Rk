@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ púram ← púr- (nominal stem)
 
 śūra ← śū́ra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स गोरश्व॑स्य॒ वि व्र॒जं म॑न्दा॒नः सो॒म्येभ्यः॑ ।  
+पुरं॒ न शू॑र दर्षसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “burst; burst.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

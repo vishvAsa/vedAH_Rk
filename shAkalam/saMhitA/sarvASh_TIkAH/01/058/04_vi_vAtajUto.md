@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ rúśadūrme ← ruśadūrmi- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि वात॑जूतो अत॒सेषु॑ तिष्ठते॒ वृथा॑ जु॒हूभिः॒ सृण्या॑ तुवि॒ष्वणिः॑ ।  
+तृ॒षु यद॑ग्ने व॒निनो॑ वृषा॒यसे॑ कृ॒ष्णं त॒ एम॒ रुश॑दूर्मे अजर ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “undecaying; ageless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

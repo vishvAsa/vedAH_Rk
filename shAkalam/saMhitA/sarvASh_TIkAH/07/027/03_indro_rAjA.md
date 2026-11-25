@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 
 úpastutaḥ ← √stu- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॒ राजा॒ जग॑तश्चर्षणी॒नामधि॒ क्षमि॒ विषु॑रूपं॒ यदस्ति॑ ।  
+ततो॑ ददाति दा॒शुषे॒ वसू॑नि॒ चोद॒द्राध॒ उप॑स्तुतश्चिद॒र्वाक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

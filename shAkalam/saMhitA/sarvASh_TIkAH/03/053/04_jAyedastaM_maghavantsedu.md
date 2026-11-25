@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ dūtáḥ ← dūtá- (nominal stem)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जा॒येदस्तं॑ मघव॒न्त्सेदु॒ योनि॒स्तदित्त्वा॑ यु॒क्ता हर॑यो वहन्तु ।  
+य॒दा क॒दा च॑ सु॒नवा॑म॒ सोम॑म॒ग्निष्ट्वा॑ दू॒तो ध॑न्वा॒त्यच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -272,7 +278,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

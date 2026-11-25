@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ amīvacā́tanam ← amīvacā́tana- (nominal stem)
 
 devám ← devá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒विम॒ग्निमुप॑ स्तुहि स॒त्यध॑र्माणमध्व॒रे ।  
+दे॒वम॑मीव॒चात॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “removing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

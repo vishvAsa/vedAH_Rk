@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ anehásaḥ ← anehás- (nominal stem)
 
 vivákṣaṇāḥ ← vivákṣaṇa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शनै॑श्चि॒द्यन्तो॑ अद्रि॒वोऽश्वा॑वन्तः शत॒ग्विनः॑ ।  
+वि॒वक्ष॑णा अने॒हसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +116,6 @@ _________
 - “faultless; anehas \[word\]; incomparable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

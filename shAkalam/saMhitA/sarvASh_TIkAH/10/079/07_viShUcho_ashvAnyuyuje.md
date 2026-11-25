@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः सौचीको वैश्वानरो वा सप्तिर्वा वाजंभरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ sám ← sám (invariable)
 
 vāvr̥dhānáḥ ← √vr̥dh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विषू॑चो॒ अश्वा॑न्युयुजे वने॒जा ऋजी॑तिभी रश॒नाभि॑र्गृभी॒तान् ।  
+च॒क्ष॒दे मि॒त्रो वसु॑भिः॒ सुजा॑तः॒ समा॑नृधे॒ पर्व॑भिर्वावृधा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

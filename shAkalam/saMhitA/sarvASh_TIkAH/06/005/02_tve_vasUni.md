@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ sám ← sám (invariable)
 
 saúbhagāni ← saúbhaga- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे वसू॑नि पुर्वणीक होतर्दो॒षा वस्तो॒रेरि॑रे य॒ज्ञिया॑सः ।  
+क्षामे॑व॒ विश्वा॒ भुव॑नानि॒ यस्मि॒न्त्सं सौभ॑गानि दधि॒रे पा॑व॒के ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     vahni.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

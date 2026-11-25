@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ uchántīm ← √vas- 1 (root)
 
 uṣásam ← uṣás- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॒ प्र जि॑न्वन्नुश॒तीरु॒शन्तं॒ पतिं॒ न नित्यं॒ जन॑यः॒ सनी॑ळाः ।  
+स्वसा॑रः॒ श्यावी॒मरु॑षीमजुष्रञ्चि॒त्रमु॒च्छन्ती॑मु॒षसं॒ न गावः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

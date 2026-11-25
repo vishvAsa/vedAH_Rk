@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ tanūpā́ḥ ← tanūpā́- (nominal stem)
 
 ugráḥ ← ugrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वेदिन्द्रा॑य वृष॒भाय॒ वृष्णे॒ ब्रह्मा॑कर्म॒ भृग॑वो॒ न रथ॑म् ।  
+नू चि॒द्यथा॑ नः स॒ख्या वि॒योष॒दस॑न्न उ॒ग्रो॑ऽवि॒ता त॑नू॒पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “protecting.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -281,12 +286,6 @@ Just in this way we have made a sacred formulation for Indra, the  bull-strong b
 so that he will never keep us far away from his partnership, and he will  be our powerful helper, the protector of our bodies.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The standard tr. (Geldner [/Witzel Gotō]) take viyóṣat as intransitive, a view argued for by Narten (Sig. aor. 214), with a neut. pl. subj. (sakhyā́) of a sg. verb. For my argument for a trans. interpr. of this s-aorist, see comm. ad II.32.2. As at II.32.2 I take sakhyā́here as an instr. sg. of separation, though an acc. pl. obj. (“he will not keep our partnerships far away”) is also possible.
-
-Note that tanūpā́ḥ picks up 7d tanvò bodhi gopā́ḥ.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/016/20-21.md">
 <details><summary><h2>20-21 ...{Loading}...</h2></summary>
 
@@ -294,7 +293,6 @@ These two vss. provide a double ending to this hymn. The first (20) begins, as s
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

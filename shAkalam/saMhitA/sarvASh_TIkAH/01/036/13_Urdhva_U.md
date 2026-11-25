@@ -4,6 +4,7 @@ devataa = "अग्निः यूपो वा"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः यूपो वा
@@ -80,7 +81,12 @@ vāghádbhiḥ ← vāghát- (nominal stem)
 
 vihváyāmahe ← √hvā- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्व ऊ॒ षु ण॑ ऊ॒तये॒ तिष्ठा॑ दे॒वो न स॑वि॒ता ।  
+ऊ॒र्ध्वो वाज॑स्य॒ सनि॑ता॒ यद॒ञ्जिभि॑र्वा॒घद्भि॑र्वि॒ह्वया॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “raise; compete.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

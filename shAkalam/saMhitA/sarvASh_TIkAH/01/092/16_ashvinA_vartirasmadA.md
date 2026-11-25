@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -66,7 +67,12 @@ sámanasā ← sámanas- (nominal stem)
 
 yachatam ← √yam- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वि॑ना व॒र्तिर॒स्मदा गोम॑द्दस्रा॒ हिर॑ण्यवत् ।  
+अ॒र्वाग्रथं॒ सम॑नसा॒ नि य॑च्छतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

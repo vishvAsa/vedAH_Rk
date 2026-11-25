@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vyácasvantā ← vyácasvant- (nominal stem)
 
 yádi ← yádi (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स प॑त्यत उ॒भयो॑र्नृ॒म्णम॒योर्यदी॑ वे॒धसः॑ समि॒थे हव॑न्ते ।  
+वृ॒त्रे वा॑ म॒हो नृ॒वति॒ क्षये॑ वा॒ व्यच॑स्वन्ता॒ यदि॑ वितन्त॒सैते॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - \[verb\], dual, Present conjunctive (subjunctive)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

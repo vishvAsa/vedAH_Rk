@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -60,7 +61,12 @@ dāśúṣe ← dāśváṁs- (nominal stem)
 
 dhr̥távratāya ← dhr̥távrata- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदित्स॑मा॒नमा॑शाते॒ वेन॑न्ता॒ न प्र यु॑च्छतः ।  
+धृ॒तव्र॑ताय दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,7 +172,6 @@ mitra cannot be separated from varuNa even when the devatA of the R^ik (for that
 
 The entire sUkta does not mention mitra by name. Yet in this R^ik it is clear that silently mitra is invoked alongside varuNa. That's why the dual specification is used. This linkage is mirrored again in the varuNa (=ahura)-centric reflexes of the Iranian religion.
 </details>
-
 
 <details><summary>Wilson</summary>
 

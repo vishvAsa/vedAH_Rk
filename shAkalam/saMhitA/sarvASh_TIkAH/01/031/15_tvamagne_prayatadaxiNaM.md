@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ upamā́ ← upamá- (nominal stem)
 
 yájate ← √yaj- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने॒ प्रय॑तदक्षिणं॒ नरं॒ वर्मे॑व स्यू॒तं परि॑ पासि वि॒श्वतः॑ ।  
+स्वा॒दु॒क्षद्मा॒ यो व॑स॒तौ स्यो॑न॒कृज्जी॑वया॒जं यज॑ते॒ सोप॒मा दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

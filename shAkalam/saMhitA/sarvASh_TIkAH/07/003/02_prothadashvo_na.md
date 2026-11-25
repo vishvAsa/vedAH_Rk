@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ te ← tvám (pronoun)
 
 vrájanam ← vrájana- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रोथ॒दश्वो॒ न यव॑सेऽवि॒ष्यन्य॒दा म॒हः सं॒वर॑णा॒द्व्यस्था॑त् ।  
+आद॑स्य॒ वातो॒ अनु॑ वाति शो॒चिरध॑ स्म ते॒ व्रज॑नं कृ॒ष्णम॑स्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -51,7 +52,12 @@ ajiráśociṣaḥ ← ajiráśocis- (nominal stem)
 
 jīrā́ḥ ← jīrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मानस्य॒ जङ्घ्न॑तो॒ हरे॑श्च॒न्द्रा अ॑सृक्षत ।  
+जी॒रा अ॑जि॒रशो॑चिषः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +116,6 @@ _________
 - “fire; flare; burn; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -137,16 +142,6 @@ Of the self-purifying one, continually smashing (back the darkness), of  the taw
 lively ones with flickering radiance.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Geldner and Renou, I supply ‘darkness(es)’ (támāṃsi) as obj. of jáṅghnataḥ on the basis of 24c.
-
-I supply ‘drops’ with candrā́ḥ on the basis of III.40.4 candrā́sa índavaḥ, though Geldner’s “Güsse” and Renou’s “coulées de soma” certainly fit the context, too. My “drops” is indirectly supported by the additional descriptor jīrā́ḥ ‘lively’, which is most commonly found in the cmpd. jīrá-dānu- ‘having lively drops’, with a different word for drop.
-
-Note the play jīrā́ajirá-. The cmpd ajirá-śocis- is a bit difficult to fit into context.
-
-The 1st member ajirá- means ‘quick, nimble, agile’, and the whole bahuvrīhi occurs once elsewhere of Agni, VIII.19.13, where I tr. “of nimble flame.” How this would apply to drops is not entirely clear; I assume it refers to the propensity of drops, esp. moving drops, to catch the light. It is also possible that ajiráśociṣaḥ is gen. sg. and modifies Soma, rather than nom. pl. modifying the drops. This would not appreciably change the image.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -156,7 +151,6 @@ jáṅghnataḥ in 25a, which picks up the same stem (in the nom. jáṅghanat) 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ carṣaṇīsáham ← carṣaṇīsáh- (nominal stem)
 
 iva ← iva (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं पे॒दवे॑ पुरु॒वार॑मश्विना स्पृ॒धां श्वे॒तं त॑रु॒तारं॑ दुवस्यथः ।  
+शर्यै॑र॒भिद्युं॒ पृत॑नासु दु॒ष्टरं॑ च॒र्कृत्य॒मिन्द्र॑मिव चर्षणी॒सह॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “regnant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

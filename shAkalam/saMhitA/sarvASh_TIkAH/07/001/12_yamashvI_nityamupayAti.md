@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ svájanmanā ← svájanman- (nominal stem)
 
 vāvr̥dhānám ← √vr̥dh- (root)  
 {case:ACC, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यम॒श्वी नित्य॑मुप॒याति॑ य॒ज्ञं प्र॒जाव॑न्तं स्वप॒त्यं क्षयं॑ नः ।  
+स्वज॑न्मना॒ शेष॑सा वावृधा॒नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

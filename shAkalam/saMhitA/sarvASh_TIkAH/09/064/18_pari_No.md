@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ pāhí ← √pā- 1 (root)
 
 vīrávat ← vīrávant- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ णो याह्यस्म॒युर्विश्वा॒ वसू॒न्योज॑सा ।  
+पा॒हि नः॒ शर्म॑ वी॒रव॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “rich in men.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -166,10 +171,6 @@ _________
 Inclined toward us, encompass for us all goods with your strength. Protect for us a shelter full of heroes.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The opening of pāda a #pári no yāhi gets remixed into c #pāhi naḥ.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -177,7 +178,6 @@ The first two vss. of this tṛca both contain nom. ‘drops’ (índavaḥ) and
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

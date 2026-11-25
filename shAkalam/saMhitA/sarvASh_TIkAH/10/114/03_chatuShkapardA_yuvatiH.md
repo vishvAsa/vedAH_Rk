@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सध्रिर्वैरूपो घर्मो वा तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ devā́ḥ ← devá- (nominal stem)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चतु॑ष्कपर्दा युव॒तिः सु॒पेशा॑ घृ॒तप्र॑तीका व॒युना॑नि वस्ते ।  
+तस्यां॑ सुप॒र्णा वृष॑णा॒ नि षे॑दतु॒र्यत्र॑ दे॒वा द॑धि॒रे भा॑ग॒धेय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “parcel; bhāgadheya \[word\]; Destiny; destiny.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

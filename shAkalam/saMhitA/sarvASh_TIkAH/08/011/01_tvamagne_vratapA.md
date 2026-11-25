@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "प्रतिष्ठा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ tvám ← tvám (pronoun)
 
 yajñéṣu ← yajñá- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने व्रत॒पा अ॑सि दे॒व आ मर्त्ये॒ष्वा ।  
+त्वं य॒ज्ञेष्वीड्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -72,10 +78,10 @@ yajñéṣu ← yajñá- (nominal stem)
 त्वम् । य॒ज्ञेषु॑ । ईड्यः॑ ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्वम् । अ॒ग्ने॒ । व्र॒त॒पा इति॑ व्रत-पाः । अ॒सि॒ । दे॒वः । एति॑ । मर्त्ये॑षु । आ ॥    
-त्वम् । [6]  य॒ज्ञेषु॑ । ईड्यः॑ ॥ 
+त्वम् । [6]  य॒ज्ञेषु॑ । ईड्यः॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -156,7 +162,6 @@ _________
 - “praise; invite; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

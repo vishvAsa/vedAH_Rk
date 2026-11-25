@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -95,7 +96,12 @@ tát ← sá- ~ tá- (pronoun)
 
 váyaḥ ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपो॑ रेवतीः॒ क्षय॑था॒ हि वस्वः॒ क्रतुं॑ च भ॒द्रं बि॑भृ॒थामृतं॑ च ।  
+रा॒यश्च॒ स्थ स्व॑प॒त्यस्य॒ पत्नीः॒ सर॑स्वती॒ तद्गृ॑ण॒ते वयो॑ धात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

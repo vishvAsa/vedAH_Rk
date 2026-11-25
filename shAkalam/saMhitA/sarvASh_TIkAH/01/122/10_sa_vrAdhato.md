@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ sádam ← sádam (invariable)
 
 víśvāsu ← víśva- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स व्राध॑तो॒ नहु॑षो॒ दंसु॑जूतः॒ शर्ध॑स्तरो न॒रां गू॒र्तश्र॑वाः ।  
+विसृ॑ष्टरातिर्याति बाळ्ह॒सृत्वा॒ विश्वा॑सु पृ॒त्सु सद॒मिच्छूरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -60,7 +61,12 @@ sárvayā ← sárva- (nominal stem)
 
 viśā́ ← víś- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एदं म॒रुतो॑ अ॒श्विना॑ मि॒त्रः सी॑दन्तु॒ वरु॑णः ।  
+दे॒वासः॒ सर्व॑या वि॒शा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

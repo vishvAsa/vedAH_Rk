@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ mā́nasya ← mā́na- 1 (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्पाञ्च॑जन्यया वि॒शेन्द्रे॒ घोषा॒ असृ॑क्षत ।  
+अस्तृ॑णाद्ब॒र्हणा॑ वि॒पो॒३॒॑ऽर्यो मान॑स्य॒ स क्षयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “dwelling; house; kṣaya \[word\]; home; family.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

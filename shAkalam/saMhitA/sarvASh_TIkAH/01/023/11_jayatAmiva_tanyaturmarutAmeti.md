@@ -4,6 +4,7 @@ devataa = "विश्वे देवाः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः
@@ -60,7 +61,12 @@ yát ← yá- (pronoun)
 
 yāthána ← √yā- 1 (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जय॑तामिव तन्य॒तुर्म॒रुता॑मेति धृष्णु॒या ।  
+यच्छुभं॑ या॒थना॑ नरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

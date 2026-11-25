@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ sú ← sú (invariable)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ य उ॒ नु ते॒ अस्ति॒ वाजो॒ विप्रे॑भिः॒ सनि॑त्वः ।  
+अ॒स्माभिः॒ सु तं स॑नुहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “win; get; gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

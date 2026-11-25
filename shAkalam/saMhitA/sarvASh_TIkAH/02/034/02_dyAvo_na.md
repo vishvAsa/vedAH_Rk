@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ pŕ̥śnyāḥ ← pŕ̥śni- (nominal stem)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यावो॒ न स्तृभि॑श्चितयन्त खा॒दिनो॒ व्य१॒॑भ्रिया॒ न द्यु॑तयन्त वृ॒ष्टयः॑ ।  
+रु॒द्रो यद्वो॑ मरुतो रुक्मवक्षसो॒ वृषाज॑नि॒ पृश्न्याः॑ शु॒क्र ऊध॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “udder; ūdhas \[word\]; night.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -259,13 +264,6 @@ Like the heavens with their stars they appeared with their spangles. They  flash
 when Rudra was begotten for you as the blazing bullish (semen [=rain?])  in the udder of Pr̥śni, o you Maruts with brilliants on your breasts.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-aryáḥ is morphologically multivalent; I take it as nom. sg. to aryá-, with most (Grassmann, Geldner [/Witzel Gotō], Macdonell, Thieme [Fremdling], Lubotsky, Maurer). Renou instead interpr. as acc. pl. to arí- (“les êtres-privilégiés”), in apposition to víśvāni … bhúvanā, and it must be admitted that its position between those two words invites it to be construed with them. Doniger seems to follow Renou (“all noble creatures”), but I do not understand how she interpr. aryáḥ grammatically. It could also be gen. sg. of arí- (or nom. pl., though this would not fit syntactically). _________
-**03-04 These two vss. are closely knit together verbally. Both contain an etymological figure, with nom. pl. fem. and acc. sg. masc. derived from the same root: 3c śúciṃ śúcayo, 4a yuvatáyo yúvānam. The √śuc of 3c recurs in 4c as śukrébhiḥ, which forms a phonetic figure with adjacent śíkvabhiḥ. The repeated PREVERB yánti … PREVERB yanti of 3a is echoed by PREVERB yanti of 4b, while 3d and 4b both end with a formulaic expression in which only the verb varies: 4b … pári tasthur ā́paḥ, 4d … pári yanti ā́paḥ. And finally 3d, 4b, 4d (and 5c) all end with forms of áp- ‘water’ (nom. pl., loc. pl.), contrasting with the pāda-initial gen. pl.**  
-
-apā́m when the god is mentioned (1c, 2c, 3d).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
 <details><summary><h2>02-05 ...{Loading}...</h2></summary>
 
@@ -281,7 +279,6 @@ The first words of each hemistich in this series of vss. echo each other: 1a úp
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

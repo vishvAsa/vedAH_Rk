@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -83,7 +84,12 @@ mádhunā ← mádhu- (nominal stem)
 
 pr̥ṅktám ← √pr̥c- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वाभ्यां॑ दे॒वी धि॒षणा॒ मदा॒येन्द्रा॑ग्नी॒ सोम॑मुश॒ती सु॑नोति ।  
+ताव॑श्विना भद्रहस्ता सुपाणी॒ आ धा॑वतं॒ मधु॑ना पृ॒ङ्क्तम॒प्सु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

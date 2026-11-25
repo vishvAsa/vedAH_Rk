@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ pīyóḥ ← pīyú- (nominal stem)
 
 vádhar ← vádhar- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सना॒ ता त॑ इन्द्र॒ नव्या॒ आगुः॒ सहो॒ नभोऽवि॑रणाय पू॒र्वीः ।  
+भि॒नत्पुरो॒ न भिदो॒ अदे॑वीर्न॒नमो॒ वध॒रदे॑वस्य पी॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ víśvān ← víśva- (nominal stem)
 
 yāhi ← √yā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रूणि॒ हि त्वा॒ सव॑ना॒ जना॑नां॒ ब्रह्मा॑णि॒ मन्द॑न्गृण॒तामृषी॑णाम् ।  
+इ॒मामा॒घोष॒न्नव॑सा॒ सहू॑तिं ति॒रो विश्वाँ॒ अर्च॑तो याह्य॒र्वाङ् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “approaching; facing; less.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

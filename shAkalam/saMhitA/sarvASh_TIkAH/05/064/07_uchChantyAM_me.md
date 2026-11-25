@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -79,7 +80,12 @@ arcanā́nasam ← arcanā́nas- (nominal stem)
 
 bíbhratau ← √bhr̥- (root)  
 {case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒च्छन्त्यां॑ मे यज॒ता दे॒वक्ष॑त्रे॒ रुश॑द्गवि ।  
+सु॒तं सोमं॒ न ह॒स्तिभि॒रा प॒ड्भिर्धा॑वतं नरा॒ बिभ्र॑तावर्च॒नान॑सम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ tā́ ← sá- ~ tá- (pronoun)
 
 tū́tujānaḥ ← √tuj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॒ वाज॑स्य॒ स्थवि॑रस्य दा॒तेन्द्रो॑ गी॒र्भिर्व॑र्धतां वृ॒द्धम॑हाः ।  
+इन्द्रो॑ वृ॒त्रं हनि॑ष्ठो अस्तु॒ सत्वा ता सू॒रिः पृ॑णति॒ तूतु॑जानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “draw.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

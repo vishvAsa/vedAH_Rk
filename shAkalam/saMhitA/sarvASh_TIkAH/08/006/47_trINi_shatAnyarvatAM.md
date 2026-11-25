@@ -4,6 +4,7 @@ devataa = "तिरिन्दिरस्य पारशव्यस्य �
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तिरिन्दिरस्य पारशव्यस्य दानस्तुतिः
@@ -57,7 +58,12 @@ pajrā́ya ← pajrá- (nominal stem)
 
 sā́mne ← sā́man- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रीणि॑ श॒तान्यर्व॑तां स॒हस्रा॒ दश॒ गोना॑म् ।  
+द॒दुष्प॒ज्राय॒ साम्ने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "कृतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -72,7 +73,12 @@ naḥ ← ahám (pronoun)
 
 stanābhújaḥ ← stanābhúj- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा कस्मै॑ धातम॒भ्य॑मि॒त्रिणे॑ नो॒ माकुत्रा॑ नो गृ॒हेभ्यो॑ धे॒नवो॑ गुः ।  
+स्त॒ना॒भुजो॒ अशि॑श्वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “aśiśu \[word\]; childless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

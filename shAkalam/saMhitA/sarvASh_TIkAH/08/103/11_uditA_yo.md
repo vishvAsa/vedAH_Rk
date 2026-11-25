@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ síṣāsataḥ ← √sanⁱ- (root)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदि॑ता॒ यो निदि॑ता॒ वेदि॑ता॒ वस्वा य॒ज्ञियो॑ व॒वर्त॑ति ।  
+दु॒ष्टरा॒ यस्य॑ प्रव॒णे नोर्मयो॑ धि॒या वाजं॒ सिषा॑सतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “win; gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

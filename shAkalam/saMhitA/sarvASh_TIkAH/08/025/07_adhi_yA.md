@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -66,7 +67,12 @@ r̥tā́vānā ← ŕ̥tāvan- (nominal stem)
 
 samrā́jā ← samrā́j- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधि॒ या बृ॑ह॒तो दि॒वो॒३॒॑ऽभि यू॒थेव॒ पश्य॑तः ।  
+ऋ॒तावा॑ना स॒म्राजा॒ नम॑से हि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

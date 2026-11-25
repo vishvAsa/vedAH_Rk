@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ māyā́ḥ ← māyā́- (nominal stem)
 
 vr̥há ← √vr̥h- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि दृ॒ळ्हानि॑ चिदद्रिवो॒ जना॑नां शचीपते ।  
+वृ॒ह मा॒या अ॑नानत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “bend; bow; crouch; bend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अग्नियुतः स्थौरोग्नियूपो वा स्थौरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ niriṇā́si ← √rī- (root)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒मत्तु॑ त्वा दि॒व्यः सोम॑ इन्द्र म॒मत्तु॒ यः सू॒यते॒ पार्थि॑वेषु ।  
+म॒मत्तु॒ येन॒ वरि॑वश्च॒कर्थ॑ म॒मत्तु॒ येन॑ निरि॒णासि॒ शत्रू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “enemy; foe; enemy; Asura.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ gmáḥ ← kṣám- (nominal stem)
 
 rājathaḥ ← √rāj- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुष्मा॑सो॒ ये ते॑ अद्रिवो मे॒हना॑ केत॒सापः॑ ।  
+उ॒भा दे॒वाव॒भिष्ट॑ये दि॒वश्च॒ ग्मश्च॑ राजथः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

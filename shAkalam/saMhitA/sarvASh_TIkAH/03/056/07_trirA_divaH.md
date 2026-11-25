@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ savā́ya ← savá- 1 (nominal stem)
 
 savitúḥ ← savitár- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिरा दि॒वः स॑वि॒ता सो॑षवीति॒ राजा॑ना मि॒त्रावरु॑णा सुपा॒णी ।  
+आप॑श्चिदस्य॒ रोद॑सी चिदु॒र्वी रत्नं॑ भिक्षन्त सवि॒तुः स॒वाय॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “yajña; command; impulse; direction; momentum.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

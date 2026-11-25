@@ -4,6 +4,7 @@ devataa = "सरमा"
 RShiH = "पणयोसुराः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरमा
@@ -86,7 +87,12 @@ padám ← padá- (nominal stem)
 
 réku ← réku- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं नि॒धिः स॑रमे॒ अद्रि॑बुध्नो॒ गोभि॒रश्वे॑भि॒र्वसु॑भि॒र्न्यृ॑ष्टः ।  
+रक्ष॑न्ति॒ तं प॒णयो॒ ये सु॑गो॒पा रेकु॑ प॒दमल॑क॒मा ज॑गन्थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

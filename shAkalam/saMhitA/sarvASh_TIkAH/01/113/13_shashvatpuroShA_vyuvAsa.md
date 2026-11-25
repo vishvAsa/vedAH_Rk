@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -104,7 +105,12 @@ carati ← √carⁱ- (root)
 
 svadhā́bhiḥ ← svadhā́- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शश्व॑त्पु॒रोषा व्यु॑वास दे॒व्यथो॑ अ॒द्येदं व्या॑वो म॒घोनी॑ ।  
+अथो॒ व्यु॑च्छा॒दुत्त॑राँ॒ अनु॒ द्यून॒जरा॒मृता॑ चरति स्व॒धाभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
     power.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -279,10 +284,6 @@ Over and over in the past the goddess Dawn dawned forth. And today  she has dawn
 And she will dawn forth through later days. Unaging, immortal, she  proceeds according to her own customs.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note that in this verse a single Dawn subsumes the various temporal dawns of the surrounding vss.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details><summary><h2>07-13 ...{Loading}...</h2></summary>
 
@@ -290,7 +291,6 @@ These verses have a surprising density of forms of ví √vas ‘dawn forth’ (
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

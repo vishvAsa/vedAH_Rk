@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vāyóḥ ← vāyú- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒स॒स्रा॒णासः॑ शवसा॒नमच्छेन्द्रं॑ सुच॒क्रे र॒थ्या॑सो॒ अश्वाः॑ ।  
+अ॒भि श्रव॒ ऋज्य॑न्तो वहेयु॒र्नू चि॒न्नु वा॒योर॒मृतं॒ वि द॑स्येत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - \[verb\], singular, Present optative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -244,10 +249,6 @@ as they are charging straight on toward fame. Never should Vāyu’s
 immortal (drink) give out.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-It is not possible to respect the hemistich boundary in tr. without awkwardness.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/037/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -255,7 +256,6 @@ The implicit identification of Indra’s horses with the soma drops is reinforce
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

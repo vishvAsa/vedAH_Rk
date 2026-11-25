@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वत्सप्रिर्भालन्दनः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ ní ← ní (invariable)
 
 váram ← vára- 1 (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स रोरु॑वद॒भि पूर्वा॑ अचिक्रददुपा॒रुहः॑ श्र॒थय॑न्त्स्वादते॒ हरिः॑ ।  
+ति॒रः प॒वित्रं॑ परि॒यन्नु॒रु ज्रयो॒ नि शर्या॑णि दधते दे॒व आ वर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “gift; favor; wish; privilege; varac; wages.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

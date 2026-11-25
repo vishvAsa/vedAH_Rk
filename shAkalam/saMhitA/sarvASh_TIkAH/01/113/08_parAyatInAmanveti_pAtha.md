@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ mr̥tám ← √mr̥- (root)
 
 uṣā́ḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒रा॒य॒ती॒नामन्वे॑ति॒ पाथ॑ आयती॒नां प्र॑थ॒मा शश्व॑तीनाम् ।  
+व्यु॒च्छन्ती॑ जी॒वमु॑दी॒रय॑न्त्यु॒षा मृ॒तं कं च॒न बो॒धय॑न्ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “awaken; ignite; advise; admonish; communicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -213,7 +218,6 @@ awakening no dead one at all.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details><summary><h2>07-13 ...{Loading}...</h2></summary>
 
@@ -221,7 +225,6 @@ These verses have a surprising density of forms of ví √vas ‘dawn forth’ (
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

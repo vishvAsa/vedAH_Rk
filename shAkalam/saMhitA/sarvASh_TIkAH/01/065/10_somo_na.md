@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -55,7 +56,11 @@ paśúḥ ← paśú- (nominal stem)
 
 vibhúḥ ← vibhú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमो॒ न वे॒धा ऋ॒तप्र॑जातः प॒शुर्न शिश्वा॑ वि॒भुर्दू॒रेभाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +130,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

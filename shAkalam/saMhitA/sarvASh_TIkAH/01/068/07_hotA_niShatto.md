@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -60,7 +60,11 @@ rayīṇā́m ← rayí- ~ rāy- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+होता॒ निष॑त्तो॒ मनो॒रप॑त्ये॒ स चि॒न्न्वा॑सां॒ पती॑ रयी॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +137,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -187,10 +190,6 @@ Als Hotri eingesetzt bei den Nachkommen des Manu, ist nur er der Herr dieser Rei
 
 Als Priester sitzend – bei Manu's Stamme ist dieser Güter – Gebieter stets er; Sie wünschten Samen – sich wechselseitig, die Weisen, einig – in ihren Plänen.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

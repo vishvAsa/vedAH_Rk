@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ padám ← padá- (nominal stem)
 
 véḥ ← ví- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एकः॑ समु॒द्रो ध॒रुणो॑ रयी॒णाम॒स्मद्धृ॒दो भूरि॑जन्मा॒ वि च॑ष्टे ।  
+सिष॒क्त्यूध॑र्नि॒ण्योरु॒पस्थ॒ उत्स॑स्य॒ मध्ये॒ निहि॑तं प॒दं वेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “vi; bird; vi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

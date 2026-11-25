@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -86,7 +87,12 @@ protháthaḥ ← prothátha- (nominal stem)
 
 śr̥ṇvé ← √śru- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ग्रा इ॑व प्र॒वह॑न्तः स॒माय॑मुः सा॒कं यु॒क्ता वृष॑णो॒ बिभ्र॑तो॒ धुरः॑ ।  
+यच्छ्व॒सन्तो॑ जग्रसा॒ना अरा॑विषुः शृ॒ण्व ए॑षां प्रो॒थथो॒ अर्व॑तामिव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

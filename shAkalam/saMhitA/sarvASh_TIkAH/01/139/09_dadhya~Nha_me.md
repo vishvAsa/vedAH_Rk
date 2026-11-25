@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -134,7 +135,13 @@ indrāgnī́ ← indrāgní- (nominal stem)
 
 name ← √nam- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒ध्यङ्ह॑ मे ज॒नुषं॒ पूर्वो॒ अङ्गि॑राः प्रि॒यमे॑धः॒ कण्वो॒ अत्रि॒र्मनु॑र्विदु॒स्ते मे॒ पूर्वे॒ मनु॑र्विदुः ।  
+तेषां॑ दे॒वेष्वाय॑तिर॒स्माकं॒ तेषु॒ नाभ॑यः ।  
+तेषां॑ प॒देन॒ मह्या न॑मे गि॒रेन्द्रा॒ग्नी आ न॑मे गि॒रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -369,7 +376,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

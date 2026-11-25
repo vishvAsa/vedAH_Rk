@@ -4,6 +4,7 @@ devataa = "अग्नीषोमौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नीषोमौ
@@ -60,7 +61,12 @@ dīdayatam ← √dī- 1 (root)
 
 tásmai ← sá- ~ tá- (pronoun)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्नी॑षोमाव॒नेन॑ वां॒ यो वां॑ घृ॒तेन॒ दाश॑ति ।  
+तस्मै॑ दीदयतं बृ॒हत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,16 +165,6 @@ Agni and Soma, whoever piously honors you with this (oblation), who  honors you 
 for him shine loftily.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-All standard tr. take b vṛṣabhásyeva te rávaḥ as the main cl. to the yád cl.
-
-beginning in a, while I take it as a part of that yád cl. There is no way to tell, since the second cl. lacks a verb whose accent or lack thereof would settle the matter.
-
-There are also no semantic implications; I weakly prefer mine because of the fairly emphatic ā́d ‘then, just after that’ beginning the second hemistich.
-
-All tr. take vanínaḥ as ‘trees’ (lit. ‘possessing wood’). This is doubtless the primary sense here, since this sequence of vss. describes a forest fire, but ‘winners’ is also possible, since the metaphorical context is that of a chariot race; see esp. 10a, 11c.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -177,7 +172,6 @@ All tr. take vanínaḥ as ‘trees’ (lit. ‘possessing wood’). This is dou
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

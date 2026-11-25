@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ pr̥tanyási ← √pr̥tany- (root)
 
 śitā́m ← √śā- ~ śī- (root)  
 {case:ACC, gender:F, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं दि॒वो बृ॑ह॒तः सानु॑ कोप॒योऽव॒ त्मना॑ धृष॒ता शम्ब॑रं भिनत् ।  
+यन्मा॒यिनो॑ व्र॒न्दिनो॑ म॒न्दिना॑ धृ॒षच्छि॒तां गभ॑स्तिम॒शनिं॑ पृत॒न्यसि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “attack.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

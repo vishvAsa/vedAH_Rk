@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ kánikradat ← √krand- (root)
 
 viveśa ← √viś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मर्यो॒ न शु॒भ्रस्त॒न्वं॑ मृजा॒नोऽत्यो॒ न सृत्वा॑ स॒नये॒ धना॑नाम् ।  
+वृषे॑व यू॒था परि॒ कोश॒मर्ष॒न्कनि॑क्रदच्च॒म्वो॒३॒॑रा वि॑वेश ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -256,10 +261,6 @@ Like a resplendent young blood grooming his own body, like a steed  running to g
 charging around the cask like a bull around the herds, constantly  roaring he has entered the two cups.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Soma’s journey from the filter (vs. 17) and across the domains on the ritual ground (vss. 18-19) reaches its end when he enters the two cups, presumably ready for the gods to consume.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/20-21.md">
 <details><summary><h2>20-21 ...{Loading}...</h2></summary>
 
@@ -267,7 +268,6 @@ Again these two vss. belong to separate mini-hymns, but they are clearly concate
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

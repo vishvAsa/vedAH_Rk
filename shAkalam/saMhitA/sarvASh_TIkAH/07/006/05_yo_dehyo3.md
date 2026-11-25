@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -83,7 +84,12 @@ sáhobhiḥ ← sáhas- (nominal stem)
 
 víśaḥ ← víś- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो दे॒ह्यो॒३॒॑ अन॑मयद्वध॒स्नैर्यो अ॒र्यप॑त्नीरु॒षस॑श्च॒कार॑ ।  
+स नि॒रुध्या॒ नहु॑षो य॒ह्वो अ॒ग्निर्विश॑श्चक्रे बलि॒हृतः॒ सहो॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “force; strength; might; sahas \[word\]; conquest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

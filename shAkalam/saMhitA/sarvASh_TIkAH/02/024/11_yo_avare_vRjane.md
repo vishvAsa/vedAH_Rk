@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -101,7 +102,12 @@ u ← u (invariable)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+योऽव॑रे वृ॒जने॑ वि॒श्वथा॑ वि॒भुर्म॒हामु॑ र॒ण्वः शव॑सा व॒वक्षि॑थ ।  
+स दे॒वो दे॒वान्प्रति॑ पप्रथे पृ॒थु विश्वेदु॒ ता प॑रि॒भूर्ब्रह्म॑ण॒स्पतिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “Brahmaṇaspati.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

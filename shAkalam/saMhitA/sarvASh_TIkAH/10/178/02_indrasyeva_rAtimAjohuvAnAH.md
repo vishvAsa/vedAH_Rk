@@ -4,6 +4,7 @@ devataa = "तार्क्ष्यः"
 RShiH = "अरिष्थनेमिस्तार्क्ष्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तार्क्ष्यः
@@ -92,7 +93,12 @@ riṣāma ← √riṣ- (root)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑स्येव रा॒तिमा॒जोहु॑वानाः स्व॒स्तये॒ नाव॑मि॒वा रु॑हेम ।  
+उर्वी॒ न पृथ्वी॒ बहु॑ले॒ गभी॑रे॒ मा वा॒मेतौ॒ मा परे॑तौ रिषाम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “suffer; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उपस्तुतो वार्ष्टिहव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ drā́ghīyaḥ ← drā́ghīyaṁs- (nominal stem)
 
 pratarám ← pratarám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊर्जो॑ नपात्सहसाव॒न्निति॑ त्वोपस्तु॒तस्य॑ वन्दते॒ वृषा॒ वाक् ।  
+त्वां स्तो॑षाम॒ त्वया॑ सु॒वीरा॒ द्राघी॑य॒ आयुः॑ प्रत॒रं दधा॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वागांभृणी"
 RShiH = "वागांभृणी"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वागांभृणी
@@ -92,7 +93,12 @@ tám ← sá- ~ tá- (pronoun)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हमे॒व स्व॒यमि॒दं व॑दामि॒ जुष्टं॑ दे॒वेभि॑रु॒त मानु॑षेभिः ।  
+यं का॒मये॒ तन्त॑मु॒ग्रं कृ॑णोमि॒ तं ब्र॒ह्माणं॒ तमृषिं॒ तं सु॑मे॒धाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +263,6 @@ _________
 - “intelligence; medhā \[word\]; Medhā.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

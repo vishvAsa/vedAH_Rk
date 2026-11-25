@@ -4,6 +4,7 @@ devataa = "अग्निरग्निरौषस्योवा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निरौषस्योवा
@@ -92,7 +93,12 @@ r̥tū́n ← r̥tú- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रीणि॒ जाना॒ परि॑ भूषन्त्यस्य समु॒द्र एकं॑ दि॒व्येक॑म॒प्सु ।  
+पूर्वा॒मनु॒ प्र दिशं॒ पार्थि॑वानामृ॒तून्प्र॒शास॒द्वि द॑धावनु॒ष्ठु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

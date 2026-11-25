@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -89,7 +90,12 @@ jujuṣan ← √juṣ- (root)
 
 kr̥tā́ni ← √kr̥- (root)  
 {case:NOM, gender:N, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समु॑ वां य॒ज्ञं म॑हयं॒ नमो॑भिर्हु॒वे वां॑ मित्रावरुणा स॒बाधः॑ ।  
+प्र वां॒ मन्मा॑न्यृ॒चसे॒ नवा॑नि कृ॒तानि॒ ब्रह्म॑ जुजुषन्नि॒मानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

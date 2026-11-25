@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -58,7 +59,11 @@ vā́cam ← vā́c- (nominal stem)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि वो॑ दे॒वीं धियं॑ दधिध्वं॒ प्र वो॑ देव॒त्रा वाचं॑ कृणुध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +142,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

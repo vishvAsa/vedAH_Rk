@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पृथुर्वैन्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ nimnaíḥ ← nimná- (nominal stem)
 
 vákvāḥ ← vákva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रु॒धी हव॑मिन्द्र शूर॒ पृथ्या॑ उ॒त स्त॑वसे वे॒न्यस्या॒र्कैः ।  
+आ यस्ते॒ योनिं॑ घृ॒तव॑न्त॒मस्वा॑रू॒र्मिर्न निम्नैर्द्र॑वयन्त॒ वक्वाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ svadhā́vān ← svadhā́vant- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त प्र॒हाम॑ति॒दीव्या॑ जयाति कृ॒तं यच्छ्व॒घ्नी वि॑चि॒नोति॑ का॒ले ।  
+यो दे॒वका॑मो॒ न धना॑ रुणद्धि॒ समित्तं रा॒या सृ॑जति स्व॒धावा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “autonomous; independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ náre ← nár- (nominal stem)
 
 víśrutāya ← √śru- (root)  
 {case:DAT, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र म॑न्महे शवसा॒नाय॑ शू॒षमा॑ङ्गू॒षं गिर्व॑णसे अङ्गिर॒स्वत् ।  
+सु॒वृ॒क्तिभिः॑ स्तुव॒त ऋ॑ग्मि॒यायार्चा॑मा॒र्कं नरे॒ विश्रु॑ताय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “laud; come to know; hear; listen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

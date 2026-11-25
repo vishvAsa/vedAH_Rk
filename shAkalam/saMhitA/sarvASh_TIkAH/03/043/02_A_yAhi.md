@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ juṣāṇā́ḥ ← √juṣ- (root)
 
 sakhyám ← sakhyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ या॑हि पू॒र्वीरति॑ चर्ष॒णीराँ अ॒र्य आ॒शिष॒ उप॑ नो॒ हरि॑भ्याम् ।  
+इ॒मा हि त्वा॑ म॒तयः॒ स्तोम॑तष्टा॒ इन्द्र॒ हव॑न्ते स॒ख्यं जु॑षा॒णाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

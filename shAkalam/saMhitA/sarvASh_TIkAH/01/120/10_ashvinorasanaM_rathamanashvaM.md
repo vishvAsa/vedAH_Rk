@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ cākana ← √kanⁱ- (root)
 
 téna ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒श्विनो॑रसनं॒ रथ॑मन॒श्वं वा॒जिनी॑वतोः ।  
+तेना॒हं भूरि॑ चाकन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “like; delight; desire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

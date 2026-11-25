@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -83,7 +84,12 @@ puruvā́raḥ ← puruvā́ra- (nominal stem)
 
 rāyā́ ← rayí- ~ rāy- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य श्रि॒ये स॑मिधा॒नस्य॒ वृष्णो॒ वसो॒रनी॑कं॒ दम॒ आ रु॑रोच ।  
+रुश॒द्वसा॑नः सु॒दृशी॑करूपः क्षि॒तिर्न रा॒या पु॑रु॒वारो॑ अद्यौत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “shine; inflame.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

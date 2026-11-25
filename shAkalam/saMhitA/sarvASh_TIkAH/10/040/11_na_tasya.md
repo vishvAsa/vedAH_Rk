@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ tát ← sá- ~ tá- (pronoun)
 
 uśmasi ← √vaś- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न तस्य॑ विद्म॒ तदु॒ षु प्र वो॑चत॒ युवा॑ ह॒ यद्यु॑व॒त्याः क्षेति॒ योनि॑षु ।  
+प्रि॒योस्रि॑यस्य वृष॒भस्य॑ रे॒तिनो॑ गृ॒हं ग॑मेमाश्विना॒ तदु॑श्मसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -262,7 +268,6 @@ _________
 - “desire; agree; call; care; like; love.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

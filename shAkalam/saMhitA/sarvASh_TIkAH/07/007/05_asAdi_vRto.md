@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ yájati ← √yaj- (root)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असा॑दि वृ॒तो वह्नि॑राजग॒न्वान॒ग्निर्ब्र॒ह्मा नृ॒षद॑ने विध॒र्ता ।  
+द्यौश्च॒ यं पृ॑थि॒वी वा॑वृ॒धाते॒ आ यं होता॒ यज॑ति वि॒श्ववा॑रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “treasure; choice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

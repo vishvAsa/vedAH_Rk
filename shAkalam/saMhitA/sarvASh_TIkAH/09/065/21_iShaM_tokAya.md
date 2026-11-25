@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ pavasva ← √pū- (root)
 
 sahasríṇam ← sahasrín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इषं॑ तो॒काय॑ नो॒ दध॑द॒स्मभ्यं॑ सोम वि॒श्वतः॑ ।  
+आ प॑वस्व सह॒स्रिण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “thousandfold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,14 +164,12 @@ by purifying yourself bring thousandfold (wealth) here.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 No clear cohesion, though vss. 19 and 20 both contain a form of √ṛṣ.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

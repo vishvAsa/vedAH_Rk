@@ -4,6 +4,7 @@ devataa = "रात्रिः"
 RShiH = "कुशिकः सौभरो रात्रिर्वा भारद्वाजी"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रात्रिः
@@ -69,7 +70,12 @@ rā́tri ← rā́trī- (nominal stem)
 
 stómam ← stóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ ते॒ गा इ॒वाक॑रं वृणी॒ष्व दु॑हितर्दिवः ।  
+रात्रि॒ स्तोमं॒ न जि॒ग्युषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

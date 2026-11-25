@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कर्णश्रुद्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ prá ← prá (invariable)
 
 raśmíbhiḥ ← raśmí- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र दा॑नु॒दो दि॒व्यो दा॑नुपि॒न्व ऋ॒तमृ॒ताय॑ पवते सुमे॒धाः ।  
+ध॒र्मा भु॑वद्वृज॒न्य॑स्य॒ राजा॒ प्र र॒श्मिभि॑र्द॒शभि॑र्भारि॒ भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -229,14 +234,6 @@ The divine giver of drops, sweller of drops, (goes) forth. As truth, he  purifie
 Possessing the (royal) mandate, he has become the king of what belongs  to the community. He has been brought forward to the earth by the  ten reins.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Since √pū does not appear with prá, it’s best to supply a verb of motion with the prá opening pāda a and take b (with pavate) separately. Note the alliteration in pāda a … dānudó divyó dānu(-pinváḥ).
-
-This vs. identifies Soma as ‘truth’ (ṛtám b) and also contains in c the possessive internal deriv. dharmán- to dhárman-. If I am correct that jyéṣṭhasya … dhármaṇi in the immed. preceding vs. 22b should be interpr. “on the foundation of preeminent (truth -- ṛtásya), both resonant words, ṛtá- and dhárman-/dharmán-, were already implicitly present in the previous vs. In 23 Soma is then depicted as the embodiment of these words (cf. Geldner’s “das (verkörperte) Gesetz” for ṛtám), and they define his kingship (rā́jā in c, also in 24b). Unfortunately it does not seem possible to signal the dhárman- / dharmán- connection in English tr., but ‘possessor of the (royal) mandate’ may be too specialized for the latter. Perhaps better ‘founder, foundation-giver, institutor, maintainer’. On Soma as “truth” see also IX.107.15 and IX.108.8.
-
-The ten reins are presumably the fingers of the presser, as is usual for ten anything in IX.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/23-24.md">
 <details><summary><h2>23-24 ...{Loading}...</h2></summary>
 
@@ -254,7 +251,6 @@ Karṇaśrut Vāsiṣṭha, a name that has no source in the text and is not oth
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

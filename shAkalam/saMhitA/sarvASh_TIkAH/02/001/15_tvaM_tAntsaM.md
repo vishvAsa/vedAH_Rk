@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -107,7 +108,12 @@ ródasī ← ródasī- (nominal stem)
 
 ubhé ← ubhá- (pronoun)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं तान्त्सं च॒ प्रति॑ चासि म॒ज्मनाग्ने॑ सुजात॒ प्र च॑ देव रिच्यसे ।  
+पृ॒क्षो यदत्र॑ महि॒ना वि ते॒ भुव॒दनु॒ द्यावा॑पृथि॒वी रोद॑सी उ॒भे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -285,7 +291,6 @@ _________
 - “both(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

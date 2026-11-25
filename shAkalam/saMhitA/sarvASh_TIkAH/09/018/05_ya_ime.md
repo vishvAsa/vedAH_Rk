@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ mádeṣu ← máda- (nominal stem)
 
 sarvadhā́ḥ ← sarvadhā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इ॒मे रोद॑सी म॒ही सं मा॒तरे॑व॒ दोह॑ते ।  
+मदे॑षु सर्व॒धा अ॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,14 +183,6 @@ Who will yield milk like these two great world-halves, the two mothers  together
 – You are the one who confers wholeness in the raptures of exhilaration.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Both Geldner and Renou take ródasī mahī́as acc. obj. of the frame, with mātárā as subj.
-
-(Renou) or obj. (Geldner) in the simile: e.g., “qui trait ces Deux grands Mondes ensemble, comme deux (vaches) mères.” In favor of this view is the fact that in VIII.6.17a, identical to our apāda, the dual is acc. (though in a very different context); furthermore, the position of iva in b might suggest that the simile consists only of the preceding word mātárā. However, I prefer to take both duals as part of the simile, parallel nominatives corresponding to the unexpressed subj. of the frame, Soma. Cows (or their correspondants) are the standard subjects of med. forms of √duh, with the obj. being the milk (or milk substitute), and therefore the accusatives of Renou and Geldner would be semantically and functionally anomalous.
-
-For Heaven and Earth (i.e., the two world-halves represented by ródasī here) as subject of medial √duh, see VI.70.2 ghṛtáṃ duhāte “the two yield ghee as milk,” in a hymn to Heaven and Earth, which are the default referent of the many duals in the hymn.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">
 <details><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -193,7 +190,6 @@ Vss. 4-6 all (save for the refrain pāda) consist of rel. clauses headed by yá�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

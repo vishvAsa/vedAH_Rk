@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ paśumā́n ← paśumánt- (nominal stem)
 
 prajā́vān ← prajā́vant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्य॒मा णो॒ अदि॑तिर्य॒ज्ञिया॒सोऽद॑ब्धानि॒ वरु॑णस्य व्र॒तानि॑ ।  
+यु॒योत॑ नो अनप॒त्यानि॒ गन्तोः॑ प्र॒जावा॑न्नः पशु॒माँ अ॑स्तु गा॒तुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “path; way.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

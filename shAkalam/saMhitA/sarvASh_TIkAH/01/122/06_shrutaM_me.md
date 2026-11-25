@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "विराड्रूपा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ síndhuḥ ← síndhu- (nominal stem)
 
 sukṣétrā ← sukṣétra- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रु॒तं मे॑ मित्रावरुणा॒ हवे॒मोत श्रु॑तं॒ सद॑ने वि॒श्वतः॑ सीम् ।  
+श्रोतु॑ नः॒ श्रोतु॑रातिः सु॒श्रोतुः॑ सु॒क्षेत्रा॒ सिन्धु॑र॒द्भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

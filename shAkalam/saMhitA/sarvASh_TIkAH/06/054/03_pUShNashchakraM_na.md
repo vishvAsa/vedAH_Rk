@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -69,7 +70,12 @@ u ← u (invariable)
 
 vyathate ← √vyath- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒ष्णश्च॒क्रं न रि॑ष्यति॒ न कोशोऽव॑ पद्यते ।  
+नो अ॑स्य व्यथते प॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “vajra; tire; rim.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

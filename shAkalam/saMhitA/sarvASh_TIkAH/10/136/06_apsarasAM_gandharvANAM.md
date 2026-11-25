@@ -4,6 +4,7 @@ devataa = "केशिनः"
 RShiH = "एतशः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - केशिनः
@@ -65,7 +66,12 @@ sákhā ← sákhi- (nominal stem)
 
 svādúḥ ← svādú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒प्स॒रसां॑ गन्ध॒र्वाणां॑ मृ॒गाणां॒ चर॑णे॒ चर॑न् ।  
+के॒शी केत॑स्य वि॒द्वान्त्सखा॑ स्वा॒दुर्म॒दिन्त॑मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “exhilarating; intoxicant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ jāmí ← jāmí- (nominal stem)
 
 veti ← √vī- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य त्रि॒तः क्रतु॑ना व॒व्रे अ॒न्तरि॒च्छन्धी॒तिं पि॒तुरेवैः॒ पर॑स्य ।  
+स॒च॒स्यमा॑नः पि॒त्रोरु॒पस्थे॑ जा॒मि ब्रु॑वा॒ण आयु॑धानि वेति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “approach; ask; desire; go; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

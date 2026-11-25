@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ madíntamaḥ ← madíntama- (nominal stem)
 
 matsaráḥ ← matsará- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व सोम॒ मधु॑माँ ऋ॒तावा॒पो वसा॑नो॒ अधि॒ सानो॒ अव्ये॑ ।  
+अव॒ द्रोणा॑नि घृ॒तवा॑न्ति सीद म॒दिन्त॑मो मत्स॒र इ॑न्द्र॒पानः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     \[word\]; vagina; well; cup; inhalation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -221,7 +226,6 @@ Sit down in the cups full of ghee as the most elating, exhilarating drink  for I
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -229,7 +233,6 @@ The first vs. of the new hymn (13a) begins pávasva (see also pavasva in 14a), j
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

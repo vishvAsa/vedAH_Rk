@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ píba ← √pā- 2 (root)
 
 sutám ← √su- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ गृणी॒ष उ॑ स्तु॒षे म॒हाँ उ॒ग्र ई॑शान॒कृत् ।  
+एहि॑ नः सु॒तं पिब॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -180,16 +185,6 @@ Indra, you are to be hymned and praised: great, powerful, performing  the master
 Come to our pressed soma! Drink!
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The morphological identity of the forms gṛṇīṣé and stuṣé is disputed. Geldner takes them as 2nd sg. passives (favored also by Oldenberg), though he mentions the possibility that they are 1st sg. -se forms in his n.; Lubotsky identifies them as 1st singulars.
-
-I take them as infinitives rather than 1st sgs, primarily because they are accented.
-
-However, it is possible that a finite verb would bear the accent after the accented initial voc. índra, and that the second form would be accented contrastively, so 1st sg.
-
-is certainly not excluded. Since the “you” of the published translation (/ “dich” of Geldner’s tr.) is not overtly expressed, either interpretation fits the text. ## 066 Indra
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/065/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -197,7 +192,6 @@ Note the cross-pragātha lexical agreement: 4a purusambhrtám̥ , 5c sám bharā
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

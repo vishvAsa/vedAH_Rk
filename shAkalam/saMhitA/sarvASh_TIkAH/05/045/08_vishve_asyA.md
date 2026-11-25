@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सदापृण आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sarámā ← sarámā- (nominal stem)
 
 vidat ← √vid- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ अ॒स्या व्युषि॒ माहि॑नायाः॒ सं यद्गोभि॒रङ्गि॑रसो॒ नव॑न्त ।  
+उत्स॑ आसां पर॒मे स॒धस्थ॑ ऋ॒तस्य॑ प॒था स॒रमा॑ विद॒द्गाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -236,16 +241,6 @@ When all the Aṅgirases roared along with the cows at the brightening of  this 
 at the fountainhead of them [=cows], in the highest seat, Saramā found  the cows along the path of truth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The subordinator yád comes quite late (2nd position pāda b) in the subordinate clause presumably occupying the first hemistich, and it is preceded not only by the subj. (víśve) but by a heavy temporal loc. expression (asyā́vyúṣi mā́hināyāḥ) -- in violation of standard RVic subordinator placement. This anomaly may have led Witzel Gotō to take pāda a as a nominal main clause: “Sie alle (waren) … (zugegen).” I am sympathetic, but think the clause division is unnecessarily radical.
-
-It is possible that b is a conversion into a subordinate clause of IV.3.11b sám áṅgiraso navanta góbhiḥ with pāda a acting as a preposed afterthought.
-
-The 2nd hemistich brings another syntactic problem: in c the Pp. interprets útsa (before a vowel) as nom. -aḥ, a grammatical ident. that in turn requires that c be an independent clause. The Pp. reading is defended by Oldenberg and fld. by many, incl. Geldner, Hoffmann (Injunk. 165), Witzel Gotō. With Lüders (385 n. 2; fld. by Schmidt p. 177, Janert p.
-
-10) I prefer the loc. útse, parallel to paramé sadhásthe, and defining the place where Saramā found the cows in d.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -253,7 +248,6 @@ Here the mythic model of the dawn accompanying the dawn ritual, the opening of t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

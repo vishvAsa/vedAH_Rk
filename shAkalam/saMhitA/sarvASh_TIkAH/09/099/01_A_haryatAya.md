@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -71,7 +72,12 @@ mahīyúvaḥ ← mahīyú- (nominal stem)
 
 vipā́m ← víp- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ह॑र्य॒ताय॑ धृ॒ष्णवे॒ धनु॑स्तन्वन्ति॒ पौंस्य॑म् ।  
+शु॒क्रां व॑य॒न्त्यसु॑राय नि॒र्णिजं॑ वि॒पामग्रे॑ मही॒युवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - \[noun\], nominative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

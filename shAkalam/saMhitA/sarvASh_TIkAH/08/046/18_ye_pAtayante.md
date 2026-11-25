@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "उपरिष्टाद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -70,7 +71,12 @@ adhvaré ← adhvará- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये पा॒तय॑न्ते॒ अज्म॑भिर्गिरी॒णां स्नुभि॑रेषाम् ।  
+य॒ज्ञं म॑हि॒ष्वणी॑नां सु॒म्नं तु॑वि॒ष्वणी॑नां॒ प्राध्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

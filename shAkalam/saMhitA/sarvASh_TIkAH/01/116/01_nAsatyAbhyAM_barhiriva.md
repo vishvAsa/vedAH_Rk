@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ ráthena ← rátha- (nominal stem)
 
 senājúvā ← senājū́- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नास॑त्याभ्यां ब॒र्हिरि॑व॒ प्र वृ॑ञ्जे॒ स्तोमाँ॑ इयर्म्य॒भ्रिये॑व॒ वातः॑ ।  
+यावर्भ॑गाय विम॒दाय॑ जा॒यां से॑ना॒जुवा॑ न्यू॒हतू॒ रथे॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

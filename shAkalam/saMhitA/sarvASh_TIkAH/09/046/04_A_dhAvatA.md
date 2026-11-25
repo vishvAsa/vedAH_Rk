@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ matsarám ← matsará- (nominal stem)
 
 śrīṇīta ← √śrī- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ धा॑वता सुहस्त्यः शु॒क्रा गृ॑भ्णीत म॒न्थिना॑ ।  
+गोभिः॑ श्रीणीत मत्स॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “envy; hostility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

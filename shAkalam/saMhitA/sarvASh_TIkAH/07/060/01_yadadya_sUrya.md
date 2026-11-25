@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -83,7 +84,12 @@ priyā́saḥ ← priyá- (nominal stem)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒द्य सू॑र्य॒ ब्रवोऽना॑गा उ॒द्यन्मि॒त्राय॒ वरु॑णाय स॒त्यम् ।  
+व॒यं दे॑व॒त्रादि॑ते स्याम॒ तव॑ प्रि॒यासो॑ अर्यमन्गृ॒णन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

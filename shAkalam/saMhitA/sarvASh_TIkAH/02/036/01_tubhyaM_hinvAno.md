@@ -4,6 +4,7 @@ devataa = "इन्द्रो मधुश्च"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो मधुश्च
@@ -95,7 +96,12 @@ sómam ← sóma- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्यं॑ हिन्वा॒नो व॑सिष्ट॒ गा अ॒पोऽधु॑क्षन्त्सी॒मवि॑भि॒रद्रि॑भि॒र्नरः॑ ।  
+पिबे॑न्द्र॒ स्वाहा॒ प्रहु॑तं॒ वष॑ट्कृतं हो॒त्रादा सोमं॑ प्रथ॒मो य ईशि॑षे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “govern; command; master; dominate; can; reign; control; own.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

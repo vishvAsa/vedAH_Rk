@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ daṁsánābhiḥ ← daṁsánā- (nominal stem)
 
 pāráyantā ← √pr̥- (root)  
 {case:NOM, gender:M, number:DU, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं भु॒ज्युमव॑विद्धं समु॒द्र उदू॑हथु॒रर्ण॑सो॒ अस्रि॑धानैः ।  
+प॒त॒त्रिभि॑रश्र॒मैर॑व्य॒थिभि॑र्दं॒सना॑भिरश्विना पा॒रय॑न्ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “rescue; keep alive; satisfy; save; resist; endure.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

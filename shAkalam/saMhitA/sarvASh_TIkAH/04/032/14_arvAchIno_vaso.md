@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ sómānām ← sóma- (nominal stem)
 
 somapāḥ ← somapā́- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्वा॒ची॒नो व॑सो भवा॒स्मे सु म॒त्स्वान्ध॑सः ।  
+सोमा॑नामिन्द्र सोमपाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “drinking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

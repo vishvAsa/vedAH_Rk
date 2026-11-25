@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ tvā ← tvám (pronoun)
 
 yamyāḥ ← √yam- (root)  
 {number:SG, person:3, mood:OPT, tense:AOR, voice:ACT, mood:PREC}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स म॑न्दस्वा॒ ह्यनु॒ जोष॑मुग्र॒ प्र त्वा॑ य॒ज्ञास॑ इ॒मे अ॑श्नुवन्तु ।  
+प्रेमे हवा॑सः पुरुहू॒तम॒स्मे आ त्वे॒यं धीरव॑स इन्द्र यम्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

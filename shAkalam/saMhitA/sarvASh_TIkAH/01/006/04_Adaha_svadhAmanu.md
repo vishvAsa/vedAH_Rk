@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ nā́ma ← nā́man- (nominal stem)
 
 yajñíyam ← yajñíya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदह॑ स्व॒धामनु॒ पुन॑र्गर्भ॒त्वमे॑रि॒रे ।  
+दधा॑ना॒ नाम॑ य॒ज्ञिय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

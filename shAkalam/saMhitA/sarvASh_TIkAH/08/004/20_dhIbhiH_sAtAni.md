@@ -4,6 +4,7 @@ devataa = "कुरुङ्गस दानस्तुतिः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कुरुङ्गस दानस्तुतिः
@@ -77,7 +78,12 @@ nís ← nís (invariable)
 
 yūthā́ni ← yūthá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धी॒भिः सा॒तानि॑ का॒ण्वस्य॑ वा॒जिनः॑ प्रि॒यमे॑धैर॒भिद्यु॑भिः ।  
+ष॒ष्टिं स॒हस्रानु॒ निर्म॑जामजे॒ निर्यू॒थानि॒ गवा॒मृषिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

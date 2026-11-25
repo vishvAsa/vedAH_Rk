@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ rakṣohā́ ← rakṣohán- (nominal stem)
 
 vā́ram ← vā́ra- 1 (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष तु॒न्नो अ॒भिष्टु॑तः प॒वित्र॒मति॑ गाहते ।  
+र॒क्षो॒हा वार॑म॒व्यय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “sheep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -153,17 +158,12 @@ This one, pounded, bepraised, plunges across the filter,
 the sheep’s fleece, as demon-smasher.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-pavítram áti gāhate / … vā́ram avyáyam “he plunges across the filter, the sheep’s fleece.” As for the fleece as Soma’s armor, see the very full expression in IX.98.2 pári ṣyá svānó avyáyam ráthe ná vármāvyata “This one, being pressed, has engirded himself in the sheep's fleece, as a man on a chariot does in armor.” Ober (II.77) also considers the armor to be the fleece.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 This is the last tṛca of the hymn, attributed to Vasiṣṭha. The 1st two vss. are variants of each, couched in 2nd and 3rd ps. respectively: their first pādas differ only in their initial disyllable, with the rest identical: … tunnó abhíṣṭutaḥ; their second pādas both depict the journey to and across the filter, both beginning pavítram. The third vs. stands apart, though the identification of Soma as ‘demon-smasher’ in 20c is thematically linked to the plea in 21 that Soma “smash away” peril.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

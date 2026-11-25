@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ kám ← ká- (pronoun)
 
 yātha ← √yā- 1 (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र यदि॒त्था प॑रा॒वतः॑ शो॒चिर्न मान॒मस्य॑थ ।  
+कस्य॒ क्रत्वा॑ मरुतः॒ कस्य॒ वर्प॑सा॒ कं या॑थ॒ कं ह॑ धूतयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “Marut.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

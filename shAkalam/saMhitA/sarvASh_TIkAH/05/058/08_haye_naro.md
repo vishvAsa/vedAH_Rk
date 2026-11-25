@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -74,7 +75,12 @@ br̥hát ← br̥hánt- (nominal stem)
 
 ukṣámāṇāḥ ← √vakṣ- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह॒ये नरो॒ मरु॑तो मृ॒ळता॑ न॒स्तुवी॑मघासो॒ अमृ॑ता॒ ऋत॑ज्ञाः ।  
+सत्य॑श्रुतः॒ कव॑यो॒ युवा॑नो॒ बृह॑द्गिरयो बृ॒हदु॒क्षमा॑णाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “grow; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ saptádhātuḥ ← saptádhātu- (nominal stem)
 
 vāṇásya ← vāṇá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदित्स॒धस्थ॑म॒भि चारु॑ दीधय॒ गावो॒ यच्छास॑न्वह॒तुं न धे॒नवः॑ ।  
+मा॒ता यन्मन्तु॑र्यू॒थस्य॑ पू॒र्व्याभि वा॒णस्य॑ स॒प्तधा॑तु॒रिज्जनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

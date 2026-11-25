@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ suśármāṇam ← suśárman- (nominal stem)
 
 svávasam ← svávas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने॒ अति॑थिं पू॒र्व्यं विशः॑ शो॒चिष्के॑शं गृ॒हप॑तिं॒ नि षे॑दिरे ।  
+बृ॒हत्के॑तुं पुरु॒रूपं॑ धन॒स्पृतं॑ सु॒शर्मा॑णं॒ स्वव॑सं जर॒द्विष॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

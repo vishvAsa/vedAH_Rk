@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ tuñjánti ← √tuj- (root)
 
 yádi ← yádi (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष हि॒तो वि नी॑यते॒ऽन्तः शु॒भ्राव॑ता प॒था ।  
+यदी॑ तु॒ञ्जन्ति॒ भूर्ण॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “impatient; restless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

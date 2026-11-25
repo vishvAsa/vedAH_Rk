@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ nī́cīḥ ← nyàñc- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधि॒ श्रियं॒ नि द॑धु॒श्चारु॑मस्मिन्दि॒वो यद॒क्षी अ॒मृता॒ अकृ॑ण्वन् ।  
+अध॑ क्षरन्ति॒ सिन्ध॑वो॒ न सृ॒ष्टाः प्र नीची॑रग्ने॒ अरु॑षीरजानन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     know; learn; ascertain; detect; deem.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

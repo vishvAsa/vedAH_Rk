@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 pári ← pári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वय॑श्चित्ते पत॒त्रिणो॑ द्वि॒पच्चतु॑ष्पदर्जुनि ।  
+उषः॒ प्रार॑न्नृ॒तूँरनु॑ दि॒वो अन्ते॑भ्य॒स्परि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “from; about; around.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गय आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ paśúḥ ← paśú- (nominal stem)
 
 yávase ← yávasa- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्म॑ दुर्गृभीयसे पु॒त्रो न ह्वा॒र्याणा॑म् ।  
+पु॒रू यो दग्धासि॒ वनाग्ने॑ प॒शुर्न यव॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “eatage; pasture; fodder.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

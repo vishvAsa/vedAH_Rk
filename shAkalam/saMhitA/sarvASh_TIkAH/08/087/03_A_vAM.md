@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ júṣṭam ← júṣṭa- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ विश्वा॑भिरू॒तिभिः॑ प्रि॒यमे॑धा अहूषत ।  
+ता व॒र्तिर्या॑त॒मुप॑ वृ॒क्तब॑र्हिषो॒ जुष्टं॑ य॒ज्ञं दिवि॑ष्टिषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - \[noun\], locative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

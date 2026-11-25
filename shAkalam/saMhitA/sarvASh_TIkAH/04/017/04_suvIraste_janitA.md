@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 sádasaḥ ← sádas- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒वीर॑स्ते जनि॒ता म॑न्यत॒ द्यौरिन्द्र॑स्य क॒र्ता स्वप॑स्तमो भूत् ।  
+य ईं॑ ज॒जान॑ स्व॒र्यं॑ सु॒वज्र॒मन॑पच्युतं॒ सद॑सो॒ न भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -269,14 +274,6 @@ Janitā = **prajāpati**
 Rich in heroes, Heaven is considered to be your begetter. The best  craftsman was the creator of Indra, who begot him, booming and bearing the good mace, not to be moved,  any more than the Earth from its seat.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. shows a clever twist on ring composition. Like vss. 1 and 2 it contains occurrences of both heaven and earth (here dyaúḥ a, bhū́ma d), and in fact pāda a ends exactly as 1b does: manyata dyaúḥ. But the two phrases mean very different things: in vs. 1 manyata is construed with ánu in the lexeme meaning ‘concede’, whereas here there is no preverb and the verb means ‘be considered as’.
-
-Moreover, although in the 1st two vss. heaven and earth functioned as a pair, though expressed as two singulars, here they have nothing to do with each other, and indeed earth is found only in a negative simile (sádaso ná bhū́ma, which in Engl. has to be awkwardly rendered by “any more than …”).
-
-On the tangled paternity here, see published introduction.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
 <details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -284,7 +281,6 @@ Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disrup
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

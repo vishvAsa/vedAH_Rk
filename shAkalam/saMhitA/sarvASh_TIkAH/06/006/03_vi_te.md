@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ vánā ← vána- (nominal stem)
 
 vananti ← √vanⁱ- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि ते॒ विष्व॒ग्वात॑जूतासो अग्ने॒ भामा॑सः शुचे॒ शुच॑यश्चरन्ति ।  
+तु॒वि॒म्र॒क्षासो॑ दि॒व्या नव॑ग्वा॒ वना॑ वनन्ति धृष॒ता रु॒जन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “break; bend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अङ्ग औरवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ prá ← prá (invariable)
 
 uṣā́ḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अयु॑द्धसेनो वि॒भ्वा॑ विभिन्द॒ता दाश॑द्वृत्र॒हा तुज्या॑नि तेजते ।  
+इन्द्र॑स्य॒ वज्रा॑दबिभेदभि॒श्नथः॒ प्राक्रा॑मच्छु॒न्ध्यूरज॑हादु॒षा अनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “cart; anas \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

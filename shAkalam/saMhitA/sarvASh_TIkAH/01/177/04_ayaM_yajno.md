@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ píba ← √pā- 2 (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं य॒ज्ञो दे॑व॒या अ॒यं मि॒येध॑ इ॒मा ब्रह्मा॑ण्य॒यमि॑न्द्र॒ सोमः॑ ।  
+स्ती॒र्णं ब॒र्हिरा तु श॑क्र॒ प्र या॑हि॒ पिबा॑ नि॒षद्य॒ वि मु॑चा॒ हरी॑ इ॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -263,7 +269,6 @@ _________
 - “here; now; in this world; now; below; there; here; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

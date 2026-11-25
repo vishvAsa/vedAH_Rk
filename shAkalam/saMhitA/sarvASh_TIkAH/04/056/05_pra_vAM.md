@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -60,7 +61,12 @@ práśastaye ← práśasti- (nominal stem)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वां॒ महि॒ द्यवी॑ अ॒भ्युप॑स्तुतिं भरामहे ।  
+शुची॒ उप॒ प्रश॑स्तये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “announcement; praise; respect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

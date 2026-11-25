@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -25,7 +26,7 @@ ChandaH = "जगती"
 से᳓द् उ श्र᳓वोभिर् यु᳓जियं चिद् अभ्य् अ᳙सत्
 </details>
 
-<details><summary>तैत्तिरीयं मूलम्</summary>
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 यᳶ पू॒र्व्याय॑ वे॒धसे॒ नवी॑यसे ।  
 सु॒मज्जा॑नये॒ विष्ण॑वे॒ ददा॑शति ।  
@@ -109,7 +110,12 @@ u ← u (invariable)
 
 yújyam ← yújya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यः पू॒र्व्याय॑ वे॒धसे॒ नवी॑यसे सु॒मज्जा॑नये॒ विष्ण॑वे॒ ददा॑शति ।  
+यो जा॒तम॑स्य मह॒तो महि॒ ब्रव॒त्सेदु॒ श्रवो॑भि॒र्युज्यं॑ चिद॒भ्य॑सत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +263,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

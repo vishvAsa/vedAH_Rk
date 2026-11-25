@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ ulokám ← uloká- (nominal stem)
 
 vaha ← √vah- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒जो भा॒गस्तप॑सा॒ तं त॑पस्व॒ तं ते॑ शो॒चिस्त॑पतु॒ तं ते॑ अ॒र्चिः ।  
+यास्ते॑ शि॒वास्त॒न्वो॑ जातवेद॒स्ताभि॑र्वहैनं सु॒कृता॑मु लो॒कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -268,7 +274,6 @@ _________
     \[word\]; space; Loka; topographic point; region; common sense.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

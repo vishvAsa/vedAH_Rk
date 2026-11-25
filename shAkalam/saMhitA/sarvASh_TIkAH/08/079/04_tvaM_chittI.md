@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "कृत्नुर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -66,7 +67,12 @@ dvéṣaḥ ← dvéṣas- (nominal stem)
 
 yā́vīḥ ← √yu- 2 (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं चि॒त्ती तव॒ दक्षै॑र्दि॒व आ पृ॑थि॒व्या ऋ॑जीषिन् ।  
+यावी॑र॒घस्य॑ चि॒द्द्वेषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “hostility; enemy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

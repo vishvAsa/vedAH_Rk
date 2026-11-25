@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अप्रतिरथ ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sénāḥ ← sénā- (nominal stem)
 
 yutsú ← yúdh- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि गो॒त्राणि॒ सह॑सा॒ गाह॑मानोऽद॒यो वी॒रः श॒तम॑न्यु॒रिन्द्रः॑ ।  
+दु॒श्च्य॒व॒नः पृ॑तना॒षाळ॑यु॒ध्यो॒३॒॑ऽस्माकं॒ सेना॑ अवतु॒ प्र यु॒त्सु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “battle; fight; war; combat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -206,7 +211,6 @@ ____________________
 दुश्च्यवनश्च्यावयितुं दुःशक्यः।  
 पृतनाषाट् परकीयसेनानामभिभविता।  
 अयुध्यः केनापि योद्धुमशक्यः।
-
 </details>
 
 <details><summary>Wilson</summary>

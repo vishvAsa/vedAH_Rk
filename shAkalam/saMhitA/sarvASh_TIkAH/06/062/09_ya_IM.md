@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ dróghāya ← drógha- (nominal stem)
 
 vácase ← vácas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य ईं॒ राजा॑नावृतु॒था वि॒दध॒द्रज॑सो मि॒त्रो वरु॑ण॒श्चिके॑तत् ।  
+ग॒म्भी॒राय॒ रक्ष॑से हे॒तिम॑स्य॒ द्रोघा॑य चि॒द्वच॑स॒ आन॑वाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - \[noun\], dative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

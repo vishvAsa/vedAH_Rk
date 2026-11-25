@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -95,7 +96,12 @@ aryamā́ ← áryaman- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो अ॑ग्न ए॒ना नम॑सा॒ समि॒द्धोऽच्छा॑ मि॒त्रं वरु॑ण॒मिन्द्रं॑ वोचेः ।  
+यत्सी॒माग॑श्चकृ॒मा तत्सु मृ॑ळ॒ तद॑र्य॒मादि॑तिः शिश्रथन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - \[verb\], plural, Aorist imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नो॑ अग्ने स॒नये॒ धना॑नां य॒शसं॑ का॒रुं कृ॑णुहि॒ स्तवा॑नः ।  
+ऋ॒ध्याम॒ कर्मा॒पसा॒ नवे॑न दे॒वैर्द्या॑वापृथिवी॒ प्राव॑तं नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

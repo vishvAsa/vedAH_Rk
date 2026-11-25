@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ jaghánat ← √han- (root)
 
 nú ← nú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य पी॒त्वा मदा॑ना॒मिन्द्रो॑ वृ॒त्राण्य॑प्र॒ति ।  
+ज॒घान॑ ज॒घन॑च्च॒ नु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “now; already.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

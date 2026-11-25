@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)
 
 víṣvañcam ← víṣvañc- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्रि॒याणि॑ पवते॒ चनो॑हितो॒ नामा॑नि य॒ह्वो अधि॒ येषु॒ वर्ध॑ते ।  
+आ सूर्य॑स्य बृह॒तो बृ॒हन्नधि॒ रथं॒ विष्व॑ञ्चमरुहद्विचक्ष॒णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

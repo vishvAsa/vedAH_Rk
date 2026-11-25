@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ svarā́jaḥ ← svarā́j- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ नू॒नं तवि॑षीमन्तमेषां स्तु॒षे ग॒णं मारु॑तं॒ नव्य॑सीनाम् ।  
+य आ॒श्व॑श्वा॒ अम॑व॒द्वह॑न्त उ॒तेशि॑रे अ॒मृत॑स्य स्व॒राजः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “svarāj; Vishnu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

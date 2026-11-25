@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ yájāsi ← √yaj- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूरी॑णि॒ हि त्वे द॑धि॒रे अनी॒काग्ने॑ दे॒वस्य॒ यज्य॑वो॒ जना॑सः ।  
+स आ व॑ह दे॒वता॑तिं यविष्ठ॒ शर्धो॒ यद॒द्य दि॒व्यं यजा॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

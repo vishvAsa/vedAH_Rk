@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ dhenávaḥ ← dhenú- (nominal stem)
 
 páyasā ← páyas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॒ धियो॑ मन्द्र॒युवो॑ विप॒न्युवः॑ पन॒स्युवः॑ सं॒वस॑नेष्वक्रमुः ।  
+सोमं॑ मनी॒षा अ॒भ्य॑नूषत॒ स्तुभो॒ऽभि धे॒नवः॒ पय॑सेमशिश्रयुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -230,14 +235,6 @@ Forth have your insights stridden, arousing exhilaration, expressing  admiration
 The inspired thoughts, the rhythms have roared to Soma; the milk-cows  have mixed him with milk.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The published translation does not make it clear that “your” is pl. (enclitic vaḥ) and must refer to the poet/officiants.
-
-What is striking stylistically in this vs. is the sequence of three heavy nom. pl.
-
-fem. -yu-adjectives: mandrayúvo vipanyúvaḥ, panasyúvaḥ, the latter two derived from the same root. Though morphologically parallel, they are somewhat disharmonious: mandrayú- is a hapax, vipanyú- is reasonably well attested and generally modifies the human officiants (gods a few times), while the rather fewer occurrences of panasyú- (and the related verb panasyá-) refer to gods. Hence the “thoughts” of our vs. seem both to “express admiration,” as humans do to gods, and “invite/require admiration,” as gods do from humans - so the thoughts’ purposes seem to be various, both to praise the gods and be admired for their fine crafting? I’m not exactly sure what saṃvásana- (a hapax), lit. ‘dwelling together, joint dwelling’ is expressing here. Geldner seems similarly puzzled, tr. “in den Sitzungen” with a question mark; Renou’s “dans les sessions-rituelles” is more definite and appealing, but I don’t see where he gets it. Perhaps it doesn’t indicate that the thoughts are dwelling with each other but that they, as a group, are dwelling with something/-one else - perhaps the soma, perhaps the milk and other non-verbal parts of the ritual machinery?
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -245,7 +242,6 @@ The first two vss. of this tṛca begin with prá with a verb of motion, but oth
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

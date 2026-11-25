@@ -4,6 +4,7 @@ devataa = "रतिः"
 RShiH = "लोपामुद्रा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रतिः
@@ -101,7 +102,12 @@ u ← u (invariable)
 
 vŕ̥ṣabhiḥ ← vŕ̥ṣan- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये चि॒द्धि पूर्व॑ ऋत॒साप॒ आस॑न्त्सा॒कं दे॒वेभि॒रव॑दन्नृ॒तानि॑ ।  
+ते चि॒दवा॑सुर्न॒ह्यन्त॑मा॒पुः समू॒ नु पत्नी॒र्वृष॑भिर्जगम्युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -261,7 +267,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -290,7 +295,6 @@ should now unite with their bullish (husbands).”
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/179/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -298,7 +302,6 @@ The final pādas of these two verses depict a neatly contrasting sexual conjunct
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

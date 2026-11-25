@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ yóṣā ← yóṣā- (nominal stem)
 
 yuvā́m ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वोर॑श्विना॒ वपु॑षे युवा॒युजं॒ रथं॒ वाणी॑ येमतुरस्य॒ शर्ध्य॑म् ।  
+आ वां॑ पति॒त्वं स॒ख्याय॑ ज॒ग्मुषी॒ योषा॑वृणीत॒ जेन्या॑ यु॒वां पती॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

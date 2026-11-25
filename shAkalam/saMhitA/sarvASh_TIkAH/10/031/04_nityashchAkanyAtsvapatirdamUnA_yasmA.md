@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ syāt ← √as- 1 (root)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नित्य॑श्चाकन्या॒त्स्वप॑ति॒र्दमू॑ना॒ यस्मा॑ उ दे॒वः स॑वि॒ता ज॒जान॑ ।  
+भगो॑ वा॒ गोभि॑रर्य॒मेम॑नज्या॒त्सो अ॑स्मै॒ चारु॑श्छदयदु॒त स्या॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

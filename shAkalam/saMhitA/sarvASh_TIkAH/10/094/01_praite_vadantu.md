@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -92,7 +93,12 @@ ghóṣam ← ghóṣa- (nominal stem)
 
 somínaḥ ← somín- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रैते व॑दन्तु॒ प्र व॒यं व॑दाम॒ ग्राव॑भ्यो॒ वाचं॑ वदता॒ वद॑द्भ्यः ।  
+यद॑द्रयः पर्वताः सा॒कमा॒शवः॒ श्लोकं॒ घोषं॒ भर॒थेन्द्रा॑य सो॒मिनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

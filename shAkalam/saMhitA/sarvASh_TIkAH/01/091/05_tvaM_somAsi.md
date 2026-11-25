@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -17,12 +18,12 @@ ChandaH = "गायत्री"
 तुवं᳓ रा᳓जोत᳓ वृत्रहा᳓  
 तुव᳓म् भद्रो᳓ असि क्र᳓तुः
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 त्वँ सो॑मासि॒ सत्प॑ति॒स्त्वँ राजो॒त वृ॑त्र॒हा ।  
 त्वम्भ॒द्रो अ॑सि॒ क्रतुः॑ ॥
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -72,7 +73,12 @@ krátuḥ ← krátu- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं सो॑मासि॒ सत्प॑ति॒स्त्वं राजो॒त वृ॑त्र॒हा ।  
+त्वं भ॒द्रो अ॑सि॒ क्रतुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -198,7 +203,6 @@ _____________
 
 यद्यप्य् एतन्-मन्त्रद्वयं [[चोद कप्राप्तं|चोदक-प्राप्तं]], तथाप्य् अमावास्या-विकृतित्व-युक्तां वृधन्वत्योः प्राप्तिं वारयितुं पुनः पाठः।
 </details>
-
 
 <details><summary>Wilson</summary>
 

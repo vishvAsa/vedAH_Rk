@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ tā́tr̥pim ← tā́tr̥pi- (nominal stem)
 
 vr̥ṣasva ← √vr̥ṣ- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ क्रतु॒विदं॑ सु॒तं सोमं॑ हर्य पुरुष्टुत ।  
+पिबा वृ॑षस्व॒ तातृ॑पिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -163,7 +168,6 @@ Indra! Enjoy the pressed soma that finds the will, you much-praised one. Drink i
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -171,7 +175,6 @@ The difference, if any, between pāhi (1c) and píba (2c) is as usual not clear.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

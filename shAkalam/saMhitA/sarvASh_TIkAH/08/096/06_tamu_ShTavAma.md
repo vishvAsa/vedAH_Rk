@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ viśema ← √viś- (root)
 
 vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ ष्टवाम॒ य इ॒मा ज॒जान॒ विश्वा॑ जा॒तान्यव॑राण्यस्मात् ।  
+इन्द्रे॑ण मि॒त्रं दि॑धिषेम गी॒र्भिरुपो॒ नमो॑भिर्वृष॒भं वि॑शेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

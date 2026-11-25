@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ tvāyā́ ← tvám (pronoun)
 
 prā́cāmanyo ← prācāmanyu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒वि॒प्रो वा॒ यदवि॑ध॒द्विप्रो॑ वेन्द्र ते॒ वचः॑ ।  
+स प्र म॑मन्दत्त्वा॒या श॑तक्रतो॒ प्राचा॑मन्यो॒ अहं॑सन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "शकपूतो नार्मेधः"
 ChandaH = "महासतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -88,7 +89,12 @@ sumédhaḥ ← sumédha- (nominal stem)
 
 tatre ← √trā- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं ह्य॑प्न॒राजा॒वसी॑दतं॒ तिष्ठ॒द्रथं॒ न धू॒र्षदं॑ वन॒र्षद॑म् ।  
+ता नः॑ कणूक॒यन्ती॑र्नृ॒मेध॑स्तत्रे॒ अंह॑सः सु॒मेध॑स्तत्रे॒ अंह॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “trouble; sin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

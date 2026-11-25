@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ cikitúṣe ← √cit- (root)
 
 mánma ← mánman- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ स्य शू॒राध्व॑नो॒ नान्ते॒ऽस्मिन्नो॑ अ॒द्य सव॑ने म॒न्दध्यै॑ ।  
+शंसा॑त्यु॒क्थमु॒शने॑व वे॒धाश्चि॑कि॒तुषे॑ असु॒र्या॑य॒ मन्म॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “hymn; idea; purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

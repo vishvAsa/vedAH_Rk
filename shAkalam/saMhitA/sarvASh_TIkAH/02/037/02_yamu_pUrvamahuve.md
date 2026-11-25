@@ -4,6 +4,7 @@ devataa = "द्रविणोदाः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रविणोदाः
@@ -104,7 +105,12 @@ r̥túbhiḥ ← r̥tú- (nominal stem)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यमु॒ पूर्व॒महु॑वे॒ तमि॒दं हु॑वे॒ सेदु॒ हव्यो॑ द॒दिर्यो नाम॒ पत्य॑ते ।  
+अ॒ध्व॒र्युभिः॒ प्रस्थि॑तं सो॒म्यं मधु॑ पो॒त्रात्सोमं॑ द्रविणोदः॒ पिब॑ ऋ॒तुभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -268,7 +274,6 @@ _________
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -295,10 +300,6 @@ The one I invoked previously, him I invoke right now. Just he is to be  invoked,
 The somian honey has been set forth by the Adhvaryus. The soma from  the Potar’s cup, o Wealth-Giver—drink it at your turns.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The nom. dadíḥ must be part of the rel. cl., specifying acc. nā́ma. dadíḥ is nominative because it is a quotation of the name.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -306,7 +307,6 @@ The d pādas of the first three vss. have a rigid structure: PRIEST’S CUP sóm
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

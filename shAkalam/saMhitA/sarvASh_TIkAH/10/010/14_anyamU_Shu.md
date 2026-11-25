@@ -4,6 +4,7 @@ devataa = "यमी वैवस्वती"
 RShiH = "यमो वैवस्वतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमी वैवस्वती
@@ -107,7 +108,12 @@ saṁvídam ← saṁvíd- (nominal stem)
 
 súbhadrām ← súbhadra- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न्यमू॒ षु त्वं य॑म्य॒न्य उ॒ त्वां परि॑ ष्वजाते॒ लिबु॑जेव वृ॒क्षम् ।  
+तस्य॑ वा॒ त्वं मन॑ इ॒च्छा स वा॒ तवाधा॑ कृणुष्व सं॒विदं॒ सुभ॑द्राम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -282,7 +288,6 @@ _________
 - “fortunate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

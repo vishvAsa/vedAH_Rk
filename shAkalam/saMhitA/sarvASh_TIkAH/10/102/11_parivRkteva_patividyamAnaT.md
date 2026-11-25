@@ -4,6 +4,7 @@ devataa = "द्रुघण इन्द्रो वा"
 RShiH = "मुद्गलो भार्म्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रुघण इन्द्रो वा
@@ -80,7 +81,12 @@ sínavat ← sínavant- (nominal stem)
 
 sumaṅgálam ← sumaṅgála- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒रि॒वृ॒क्तेव॑ पति॒विद्य॑मान॒ट् पीप्या॑ना॒ कूच॑क्रेणेव सि॒ञ्चन् ।  
+ए॒षै॒ष्या॑ चिद्र॒थ्या॑ जयेम सुम॒ङ्गलं॒ सिन॑वदस्तु सा॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “wealth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

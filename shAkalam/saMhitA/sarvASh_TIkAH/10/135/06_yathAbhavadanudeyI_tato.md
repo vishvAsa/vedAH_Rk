@@ -4,6 +4,7 @@ devataa = "यमः"
 RShiH = "कुमारो यामायनः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -68,7 +69,12 @@ niráyaṇam ← niráyaṇa- (nominal stem)
 
 paścā́t ← paścā́t (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथाभ॑वदनु॒देयी॒ ततो॒ अग्र॑मजायत ।  
+पु॒रस्ता॑द्बु॒ध्न आत॑तः प॒श्चान्नि॒रय॑णं कृ॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

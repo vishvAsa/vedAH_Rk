@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -57,7 +58,12 @@ pracetúne ← pracetúna- (nominal stem)
 
 yachatam ← √yam- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तेन॑ स॒त्येन॑ जागृत॒मधि॑ प्रचे॒तुने॑ प॒दे ।  
+इन्द्रा॑ग्नी॒ शर्म॑ यच्छतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

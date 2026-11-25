@@ -4,6 +4,7 @@ devataa = "इन्द्रो मरुत्वान्"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो मरुत्वान्
@@ -54,7 +55,12 @@ sajū́s ← sajū́s (invariable)
 
 tr̥mpatu ← √tr̥p- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒रुत्व॑न्तं हवामह॒ इन्द्र॒मा सोम॑पीतये ।  
+स॒जूर्ग॒णेन॑ तृम्पतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “satiate; enjoy; delight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

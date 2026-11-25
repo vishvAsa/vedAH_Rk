@@ -4,6 +4,7 @@ devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मन्युः
@@ -89,7 +90,12 @@ sáhaskr̥tena ← sáhaskr̥ta- (nominal stem)
 
 sáhasvatā ← sáhasvant- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॑ म॒न्योऽवि॑धद्वज्र सायक॒ सह॒ ओजः॑ पुष्यति॒ विश्व॑मानु॒षक् ।  
+सा॒ह्याम॒ दास॒मार्यं॒ त्वया॑ यु॒जा सह॑स्कृतेन॒ सह॑सा॒ सह॑स्वता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “mighty; powerful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

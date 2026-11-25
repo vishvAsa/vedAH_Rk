@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -72,7 +73,12 @@ sutáḥ ← √su- (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॒ गा अ॒न्तरश्म॑नो॒ मदे॑ दृ॒ळ्हा अ॒वासृ॑जः ।  
+अ॒यं स सोम॑ इन्द्र ते सु॒तः पिब॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -200,10 +205,6 @@ In whose exhilaration you set loose from the rock the cows fixed firm  within—
 here is that soma, Indra, pressed for you. Drink!
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. subtly undermines the autonomous power of Indra. In the refrain of all three vss. Indra is addressed as svadhāpate ‘lord of independent power’, but here in the first hemistich Indra is said to be like (ná) “one grown strong by (his own) power,” like “one overpowering by his own forms of help” (svā́bhir ūtíbhih). In other words the power that appears to be Indra’s own (svá-) is really produced for him by soma.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -217,7 +218,6 @@ are structured by rel. clauses in ab with soma as the referent of the rel. prn.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

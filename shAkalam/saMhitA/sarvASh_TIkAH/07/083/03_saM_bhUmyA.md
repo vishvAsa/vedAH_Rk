@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -92,7 +93,12 @@ gatam ← √gam- (root)
 
 havanaśrutā ← havanaśrút- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं भूम्या॒ अन्ता॑ ध्वसि॒रा अ॑दृक्ष॒तेन्द्रा॑वरुणा दि॒वि घोष॒ आरु॑हत् ।  
+अस्थु॒र्जना॑ना॒मुप॒ मामरा॑तयो॒ऽर्वागव॑सा हवनश्रु॒ता ग॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

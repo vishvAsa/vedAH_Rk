@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ ví ← ví (invariable)
 
 vīráḥ ← vīrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने सु॒हवो॑ र॒ण्वसं॑दृक्सुदी॒ती सू॑नो सहसो दिदीहि ।  
+मा त्वे सचा॒ तन॑ये॒ नित्य॒ आ ध॒ङ्मा वी॒रो अ॒स्मन्नर्यो॒ वि दा॑सीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - \[verb\], singular, Present injunctive
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

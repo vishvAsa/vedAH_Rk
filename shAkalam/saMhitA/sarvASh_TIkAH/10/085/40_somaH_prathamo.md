@@ -4,6 +4,7 @@ devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्या
@@ -71,7 +72,12 @@ te ← tvám (pronoun)
 
 turī́yaḥ ← turī́ya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमः॑ प्रथ॒मो वि॑विदे गन्ध॒र्वो वि॑विद॒ उत्त॑रः ।  
+तृ॒तीयो॑ अ॒ग्निष्टे॒ पति॑स्तु॒रीय॑स्ते मनुष्य॒जाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “born.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

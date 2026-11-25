@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -95,7 +96,12 @@ somyásya ← somyá- (nominal stem)
 
 sutásya ← √su- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये ते॑ विप्र ब्रह्म॒कृतः॑ सु॒ते सचा॒ वसू॑नां च॒ वसु॑नश्च दा॒वने॑ ।  
+प्र ते सु॒म्नस्य॒ मन॑सा प॒था भु॑व॒न्मदे॑ सु॒तस्य॑ सो॒म्यस्यान्ध॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “Soma; drink; amṛta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

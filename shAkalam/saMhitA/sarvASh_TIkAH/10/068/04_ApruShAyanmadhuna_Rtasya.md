@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -89,7 +90,12 @@ udnā́ ← udán- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒प्रु॒षा॒यन्मधु॑न ऋ॒तस्य॒ योनि॑मवक्षि॒पन्न॒र्क उ॒ल्कामि॑व॒ द्योः ।  
+बृह॒स्पति॑रु॒द्धर॒न्नश्म॑नो॒ गा भूम्या॑ उ॒द्नेव॒ वि त्वचं॑ बिभेद ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     betray; fester; strike.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "जरत्कर्ण ऐरावतः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -92,7 +93,12 @@ aśiśrayuḥ ← √śri- (root)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदिद्ध्य॑स्य॒ सव॑नं वि॒वेर॒पो यथा॑ पु॒रा मन॑वे गा॒तुमश्रे॑त् ।  
+गोअ॑र्णसि त्वा॒ष्ट्रे अश्व॑निर्णिजि॒ प्रेम॑ध्व॒रेष्व॑ध्व॒राँ अ॑शिश्रयुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

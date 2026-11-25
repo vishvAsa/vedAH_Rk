@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ chardíḥ ← chardís- (nominal stem)
 
 sudītáye ← sudītí- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निमी॑ळि॒ष्वाव॑से॒ गाथा॑भिः शी॒रशो॑चिषम् ।  
+अ॒ग्निं रा॒ये पु॑रुमीळ्ह श्रु॒तं नरो॒ऽग्निं सु॑दी॒तये॑ छ॒र्दिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “protection; protective covering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

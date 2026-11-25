@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 rocanā́t ← rocaná- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ शर्ध॑न्त॒मा ग॒णं पि॒ष्टं रु॒क्मेभि॑र॒ञ्जिभिः॑ ।  
+विशो॑ अ॒द्य म॒रुता॒मव॑ ह्वये दि॒वश्चि॑द्रोच॒नादधि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “on; from; accordingly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

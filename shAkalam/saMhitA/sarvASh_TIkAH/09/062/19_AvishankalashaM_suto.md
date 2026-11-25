@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ ná ← ná (invariable)
 
 tiṣṭhati ← √sthā- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒वि॒शन्क॒लशं॑ सु॒तो विश्वा॒ अर्ष॑न्न॒भि श्रियः॑ ।  
+शूरो॒ न गोषु॑ तिष्ठति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -180,7 +185,6 @@ he stands among the cows like a champion.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -188,7 +192,6 @@ There is some chaining between vss. (cows/milk in 19, 20; mádhu in 20, 21 and t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

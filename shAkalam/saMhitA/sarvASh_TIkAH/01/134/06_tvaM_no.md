@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -116,7 +117,13 @@ duhrate ← √duh- (root)
 
 ghr̥tám ← ghr̥tá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नो॑ वायवेषा॒मपू॑र्व्यः॒ सोमा॑नां प्रथ॒मः पी॒तिम॑र्हसि सु॒तानां॑ पी॒तिम॑र्हसि ।  
+उ॒तो वि॒हुत्म॑तीनां वि॒शां व॑व॒र्जुषी॑णाम् ।  
+विश्वा॒ इत्ते॑ धे॒नवो॑ दुह्र आ॒शिरं॑ घृ॒तं दु॑ह्रत आ॒शिर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -284,7 +291,6 @@ _________
 - “mixture.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -319,12 +325,6 @@ toward them)—
 all their milk-cows have milked out the milk-mixture for you—have  milked out the ghee and the milk-mixture.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-For abc as a “repair” of pāsi in 5fg, see disc. there.
-
-Most supply barhis as the obj. of the perf. part. vavarjúṣīṇām, and this is quite possibly correct. By contrast I take it in the metaphorical sense “twist s.o. towards oneself,” that is, attract to the sacrifice -- though we might prefer a medial form in that sense. And the mention of barhis at the beginning of the next hymn (I.135.1a) may support that standard view. As Kümmel points out (461 and n. 873), there’s no obvious explanation for the full-grade stem (expect *vavṛjúṣ-).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -332,7 +332,6 @@ Fronted forms of the 2nd sg. pronoun begin most of the metrically significant se
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

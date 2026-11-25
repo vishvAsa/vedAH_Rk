@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "सिन्धुक्षित् प्रैयमेधः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -104,7 +105,12 @@ pravátām ← pravát- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि त्वा॑ सिन्धो॒ शिशु॒मिन्न मा॒तरो॑ वा॒श्रा अ॑र्षन्ति॒ पय॑सेव धे॒नवः॑ ।  
+राजे॑व॒ युध्वा॑ नयसि॒ त्वमित्सिचौ॒ यदा॑सा॒मग्रं॑ प्र॒वता॒मिन॑क्षसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -260,7 +266,6 @@ _________
 - “wish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

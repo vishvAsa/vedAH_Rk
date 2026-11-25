@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -89,7 +90,12 @@ samrājā ← samrā́j- (nominal stem)
 
 ukṣatam ← √ukṣ- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रथं॑ युञ्जते म॒रुतः॑ शु॒भे सु॒खं शूरो॒ न मि॑त्रावरुणा॒ गवि॑ष्टिषु ।  
+रजां॑सि चि॒त्रा वि च॑रन्ति त॒न्यवो॑ दि॒वः स॑म्राजा॒ पय॑सा न उक्षतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “sprinkle; wet.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

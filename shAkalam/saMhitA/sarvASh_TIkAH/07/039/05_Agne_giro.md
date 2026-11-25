@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ marútaḥ ← marút- (nominal stem)
 
 sárasvatī ← sárasvant- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आग्ने॒ गिरो॑ दि॒व आ पृ॑थि॒व्या मि॒त्रं व॑ह॒ वरु॑ण॒मिन्द्र॑म॒ग्निम् ।  
+आर्य॒मण॒मदि॑तिं॒ विष्णु॑मेषां॒ सर॑स्वती म॒रुतो॑ मादयन्ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

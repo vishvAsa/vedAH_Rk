@@ -5,13 +5,13 @@ RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
 - ऋषिः - प्रस्कण्वः काण्वः
 - छन्दः - अनुष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -70,7 +70,12 @@ harimā́ṇam ← harimán- (nominal stem)
 
 nāśaya ← √naś- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒द्यन्न॒द्य मि॑त्रमह आ॒रोह॒न्नुत्त॑रां॒ दिव॑म् ।  
+हृ॒द्रो॒गं मम॑ सूर्य हरि॒माणं॑ च नाशय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +173,6 @@ _________
 - “cure; destroy; kill; remove; māray; obstruct; expiate; eliminate.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -220,8 +224,6 @@ Aufgehend heute, o Freunderfreuer, aufsteigend zum höchsten Himmel, o Sonnengot
 Уничтожь, о Сурья,  
 Мою болезнь сердца и желтуху!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

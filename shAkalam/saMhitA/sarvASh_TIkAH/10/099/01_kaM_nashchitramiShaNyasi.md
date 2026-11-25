@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वम्रो वैखानसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vájram ← vájra- (nominal stem)
 
 vr̥tratúram ← vr̥tratúr- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कं न॑श्चि॒त्रमि॑षण्यसि चिकि॒त्वान्पृ॑थु॒ग्मानं॑ वा॒श्रं वा॑वृ॒धध्यै॑ ।  
+कत्तस्य॒ दातु॒ शव॑सो॒ व्यु॑ष्टौ॒ तक्ष॒द्वज्रं॑ वृत्र॒तुर॒मपि॑न्वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “swell; swell; overflow; abound.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

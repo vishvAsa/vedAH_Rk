@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दुवस्युर्वान्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ pári ← pári (invariable)
 
 tū́tūrṣati ← √tūr(v)- ~ tur- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चि॒त्रस्ते॑ भा॒नुः क्र॑तु॒प्रा अ॑भि॒ष्टिः सन्ति॒ स्पृधो॑ जरणि॒प्रा अधृ॑ष्टाः ।  
+रजि॑ष्ठया॒ रज्या॑ प॒श्व आ गोस्तूतू॑र्षति॒ पर्यग्रं॑ दुव॒स्युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

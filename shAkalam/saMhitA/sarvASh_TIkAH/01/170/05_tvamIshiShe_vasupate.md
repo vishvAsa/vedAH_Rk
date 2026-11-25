@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ prá ← prá (invariable)
 
 r̥tuthā́ ← r̥tuthā́ (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमी॑शिषे वसुपते॒ वसू॑नां॒ त्वं मि॒त्राणां॑ मित्रपते॒ धेष्ठः॑ ।  
+इन्द्र॒ त्वं म॒रुद्भिः॒ सं व॑द॒स्वाध॒ प्राशा॑न ऋतु॒था ह॒वींषि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “Havya; offering; ghee; havis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

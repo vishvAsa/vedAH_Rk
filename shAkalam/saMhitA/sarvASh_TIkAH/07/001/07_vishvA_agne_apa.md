@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -69,7 +70,12 @@ nisvarám ← nisvará- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑ अ॒ग्नेऽप॑ द॒हारा॑ती॒र्येभि॒स्तपो॑भि॒रद॑हो॒ जरू॑थम् ।  
+प्र नि॑स्व॒रं चा॑तय॒स्वामी॑वाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “disease; affliction.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

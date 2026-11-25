@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -63,7 +63,11 @@ ví ← ví (invariable)
 
 víśaḥ ← víś- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒त्रो न जा॒तो र॒ण्वो दु॑रो॒णे वा॒जी न प्री॒तो विशो॒ वि ता॑रीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +144,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -192,10 +195,6 @@ Wie ein geborener Sohn der Erfreuer im Hause; wie ein freudiges Streitroß den R
 
 Als Sohn geboren – im Hause lieblich, durchdrang die Stämme – gleich liebem Ross er; Wenn die mit Helden – vereinten Stämme ich ruf', erreiche, – Allgottheit Agni.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

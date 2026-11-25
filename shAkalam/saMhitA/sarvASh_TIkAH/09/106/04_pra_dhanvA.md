@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "चक्षुर्मानवः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -70,7 +71,12 @@ dyumántam ← dyumánt- (nominal stem)
 
 svarvídam ← svarvíd- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ध॑न्वा सोम॒ जागृ॑वि॒रिन्द्रा॑येन्दो॒ परि॑ स्रव ।  
+द्यु॒मन्तं॒ शुष्म॒मा भ॑रा स्व॒र्विद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “finding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -195,14 +200,12 @@ Run forth as the wakeful one, o Soma; flow around for Indra, o drop. Bring here 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
 Oldenberg classifies this tṛca as a third variety of Uṣṇih in which the last four syllables are technically separable but form part of a larger Jagatī pāda with the 8 syllables that precede. Although there is not the same semantic or syntactic distance as with some Uṣṇih vss., I’m not sure that Oldenberg’s distinction between the two types is nec. As for tṛca unity, all three vss. concern themselves with Soma’s ritual journey and the paths he takes. See esp. pathi- in 5c and 6c and the deconstruction of the bahuvrīhi sahásra-yāman- in 5c into the VP sahásraṃ yāhi, with the addition of pathíbhiḥ to substitute for the noun yā́man-. In this figure there's a nice little phonological interchange: sahásrayāmā : sahásraṃyāhi The dat. índrāya is also found in both 4b and 5a.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

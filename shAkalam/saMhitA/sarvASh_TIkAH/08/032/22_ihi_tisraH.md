@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ dhénāḥ ← dhénā- (nominal stem)
 
 indra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒हि ति॒स्रः प॑रा॒वत॑ इ॒हि पञ्च॒ जनाँ॒ अति॑ ।  
+धेना॑ इन्द्राव॒चाक॑शत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मन्युः
@@ -83,7 +84,12 @@ ní ← ní (invariable)
 
 párājitāsaḥ ← √ji- 1 (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+संसृ॑ष्टं॒ धन॑मु॒भयं॑ स॒माकृ॑तम॒स्मभ्यं॑ दत्तां॒ वरु॑णश्च म॒न्युः ।  
+भियं॒ दधा॑ना॒ हृद॑येषु॒ शत्र॑वः॒ परा॑जितासो॒ अप॒ नि ल॑यन्ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “disappear; repose; lie; adhere.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

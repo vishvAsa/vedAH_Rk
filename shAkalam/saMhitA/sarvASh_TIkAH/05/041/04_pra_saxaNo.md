@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ jagmuḥ ← √gam- (root)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स॒क्षणो॑ दि॒व्यः कण्व॑होता त्रि॒तो दि॒वः स॒जोषा॒ वातो॑ अ॒ग्निः ।  
+पू॒षा भगः॑ प्रभृ॒थे वि॒श्वभो॑जा आ॒जिं न ज॑ग्मुरा॒श्व॑श्वतमाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

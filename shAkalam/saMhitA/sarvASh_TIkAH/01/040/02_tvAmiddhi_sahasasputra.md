@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -83,7 +84,12 @@ vaḥ ← tvám (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वामिद्धि स॑हसस्पुत्र॒ मर्त्य॑ उपब्रू॒ते धने॑ हि॒ते ।  
+सु॒वीर्यं॑ मरुत॒ आ स्वश्व्यं॒ दधी॑त॒ यो व॑ आच॒के ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - \[verb\], singular, Perfect indicative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

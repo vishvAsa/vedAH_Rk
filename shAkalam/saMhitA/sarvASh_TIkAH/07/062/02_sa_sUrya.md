@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -92,7 +93,12 @@ aryamṇé ← áryaman- (nominal stem)
 
 ca ← ca (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सू॑र्य॒ प्रति॑ पु॒रो न॒ उद्गा॑ ए॒भिः स्तोमे॑भिरेत॒शेभि॒रेवैः॑ ।  
+प्र नो॑ मि॒त्राय॒ वरु॑णाय वो॒चोऽना॑गसो अर्य॒म्णे अ॒ग्नये॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

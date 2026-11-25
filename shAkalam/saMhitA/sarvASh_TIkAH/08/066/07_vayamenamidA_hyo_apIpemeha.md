@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कलिः प्रगाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ nūnám ← nūnám (invariable)
 
 śruté ← √śru- (root)  
 {case:LOC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यमे॑नमि॒दा ह्योऽपी॑पेमे॒ह व॒ज्रिण॑म् ।  
+तस्मा॑ उ अ॒द्य स॑म॒ना सु॒तं भ॒रा नू॒नं भू॑षत श्रु॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

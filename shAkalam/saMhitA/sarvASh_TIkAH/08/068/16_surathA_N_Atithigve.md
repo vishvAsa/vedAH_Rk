@@ -4,6 +4,7 @@ devataa = "ऋक्षाश्वमेधयोर्दानस्तुत
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋक्षाश्वमेधयोर्दानस्तुतिः
@@ -48,7 +49,12 @@ svabhīśū́n ← svabhīśú- (nominal stem)
 
 supéśasaḥ ← supéśas- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒रथाँ॑ आतिथि॒ग्वे स्व॑भी॒शूँरा॒र्क्षे ।  
+आ॒श्व॒मे॒धे सु॒पेश॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +109,6 @@ _________
 - “beautiful; fine-looking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -131,7 +136,6 @@ and those having good ornaments from the son of Aśvamedha.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md">
 <details><summary><h2>15-17 ...{Loading}...</h2></summary>
 
@@ -143,7 +147,6 @@ I have made no effort to sort out the internal relationships among the patrons
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

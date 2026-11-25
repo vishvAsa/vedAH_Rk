@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -92,7 +93,12 @@ varūthyàm ← varūthyà- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं मद्वां॒ प्र स्तृ॑णीते मनी॒षोप॑ प्रि॒या नम॑सा ब॒र्हिरच्छ॑ ।  
+य॒न्तं नो॑ मित्रावरुणा॒वधृ॑ष्टं छ॒र्दिर्यद्वां॑ वरू॒थ्यं॑ सुदानू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “big; lavish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

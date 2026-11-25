@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ nákiḥ ← nákiḥ (invariable)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि नु ते॑ महि॒मनः॑ समस्य॒ न म॑घवन्मघव॒त्त्वस्य॑ वि॒द्म ।  
+न राध॑सोराधसो॒ नूत॑न॒स्येन्द्र॒ नकि॑र्ददृश इन्द्रि॒यं ते॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ sā́cyam ← sā́cya- (nominal stem)
 
 várdhanam ← várdhana- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒ष्ण॒प्रुतौ॑ वेवि॒जे अ॑स्य स॒क्षिता॑ उ॒भा त॑रेते अ॒भि मा॒तरा॒ शिशु॑म् ।  
+प्रा॒चाजि॑ह्वं ध्व॒सय॑न्तं तृषु॒च्युत॒मा साच्यं॒ कुप॑यं॒ वर्ध॑नं पि॒तुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     forefather.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

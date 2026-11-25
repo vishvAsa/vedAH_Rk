@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "जुहूर्ब्रह्मजायोर्ध्वनाभा वा ब्राह्मः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ paramé ← paramá- (nominal stem)
 
 vyòman ← vyòman- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वा ए॒तस्या॑मवदन्त॒ पूर्वे॑ सप्तऋ॒षय॒स्तप॑से॒ ये नि॑षे॒दुः ।  
+भी॒मा जा॒या ब्रा॑ह्म॒णस्योप॑नीता दु॒र्धां द॑धाति पर॒मे व्यो॑मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

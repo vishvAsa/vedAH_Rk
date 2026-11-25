@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "उपरिष्टाद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -79,7 +80,12 @@ sú ← sú (invariable)
 
 svapa ← √svap- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्ते॒नं रा॑य सारमेय॒ तस्क॑रं वा पुनःसर ।  
+स्तो॒तॄनिन्द्र॑स्य रायसि॒ किम॒स्मान्दु॑च्छुनायसे॒ नि षु स्व॑प ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “sleep; numb; fall asleep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

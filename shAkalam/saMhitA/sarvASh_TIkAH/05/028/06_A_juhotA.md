@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्ववारात्रेयी"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ havyavā́hanam ← havyavā́hana- (nominal stem)
 
 vr̥ṇīdhvám ← √vr̥- ~ vr̥̄- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ जु॑होता दुव॒स्यता॒ग्निं प्र॑य॒त्य॑ध्व॒रे ।  
+वृ॒णी॒ध्वं ह॑व्य॒वाह॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

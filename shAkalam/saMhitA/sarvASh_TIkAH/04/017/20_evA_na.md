@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ mā́hinam ← mā́hina- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा न॒ इन्द्रो॑ म॒घवा॑ विर॒प्शी कर॑त्स॒त्या च॑र्षणी॒धृद॑न॒र्वा ।  
+त्वं राजा॑ ज॒नुषां॑ धेह्य॒स्मे अधि॒ श्रवो॒ माहि॑नं॒ यज्ज॑रि॒त्रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “singer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

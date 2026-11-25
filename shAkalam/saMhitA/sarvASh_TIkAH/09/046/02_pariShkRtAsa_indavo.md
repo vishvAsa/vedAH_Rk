@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ sómāḥ ← sóma- (nominal stem)
 
 vāyúm ← vāyú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ष्कृतास॒ इन्द॑वो॒ योषे॑व॒ पित्र्या॑वती ।  
+वा॒युं सोमा॑ असृक्षत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
     use; be born; make.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

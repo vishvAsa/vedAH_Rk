@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ ví ← ví (invariable)
 
 vocaḥ ← √vac- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ह॒ नु त्यद॑दमायो॒ दस्यूँ॒रेकः॑ कृ॒ष्टीर॑वनो॒रार्या॑य ।  
+अस्ति॑ स्वि॒न्नु वी॒र्यं१॒॑ तत्त॑ इन्द्र॒ न स्वि॑दस्ति॒ तदृ॑तु॒था वि वो॑चः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -271,7 +277,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

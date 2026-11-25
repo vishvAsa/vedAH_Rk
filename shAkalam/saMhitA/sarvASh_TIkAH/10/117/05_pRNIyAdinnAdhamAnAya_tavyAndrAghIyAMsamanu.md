@@ -4,6 +4,7 @@ devataa = "धनान्नदानप्रशंसा"
 RShiH = "भिक्षुराङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - धनान्नदानप्रशंसा
@@ -89,7 +90,12 @@ tiṣṭhanta ← √sthā- (root)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पृ॒णी॒यादिन्नाध॑मानाय॒ तव्या॒न्द्राघी॑यांस॒मनु॑ पश्येत॒ पन्था॑म् ।  
+ओ हि वर्त॑न्ते॒ रथ्ये॑व च॒क्रान्यम॑न्य॒मुप॑ तिष्ठन्त॒ रायः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “wealth; possession; rai \[word\]; gold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

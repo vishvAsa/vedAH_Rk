@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ matīnā́m ← matí- (nominal stem)
 
 pitā́ ← pitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्व॑स्य॒ राजा॑ पवते स्व॒र्दृश॑ ऋ॒तस्य॑ धी॒तिमृ॑षि॒षाळ॑वीवशत् ।  
+यः सूर्य॒स्यासि॑रेण मृ॒ज्यते॑ पि॒ता म॑ती॒नामस॑मष्टकाव्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “Uśanas; poem; Kāvya; wisdom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ ca ← ca (invariable)
 
 vr̥trahā́ ← vr̥trahán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नव॒ यो न॑व॒तिं पुरो॑ बि॒भेद॑ बा॒ह्वो॑जसा ।  
+अहिं॑ च वृत्र॒हाव॑धीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “kill; assail; kick; māray; destroy; beat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

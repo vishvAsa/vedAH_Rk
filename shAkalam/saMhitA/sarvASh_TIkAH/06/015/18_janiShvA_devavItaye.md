@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "बृहती"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - बृहती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -70,7 +70,12 @@ pispr̥śaḥ ← √spr̥ś- (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जनि॑ष्वा दे॒ववी॑तये स॒र्वता॑ता स्व॒स्तये॑ ।  
+आ दे॒वान्व॑क्ष्य॒मृताँ॑ ऋता॒वृधो॑ य॒ज्ञं दे॒वेषु॑ पिस्पृशः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +169,6 @@ _________
 - “touch; enter (a state); reach; touch.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -213,8 +217,6 @@ Geboren sei zum Göttermahl, zum Heile mit der ganzen Schar; fahre her die unste
 Привози бессмертных богов, усиленных законом!  
 Сделай, чтобы жертва коснулась богов!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

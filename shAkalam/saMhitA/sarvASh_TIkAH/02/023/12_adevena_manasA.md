@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -89,7 +90,12 @@ ní ← ní (invariable)
 
 śárdhataḥ ← √śardh- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अदे॑वेन॒ मन॑सा॒ यो रि॑ष॒ण्यति॑ शा॒सामु॒ग्रो मन्य॑मानो॒ जिघां॑सति ।  
+बृह॑स्पते॒ मा प्रण॒क्तस्य॑ नो व॒धो नि क॑र्म म॒न्युं दु॒रेव॑स्य॒ शर्ध॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - \[verb noun\], genitive, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

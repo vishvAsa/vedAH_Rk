@@ -4,6 +4,7 @@ devataa = "अन्नम्"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अन्नम्
@@ -60,7 +61,12 @@ avitā́ ← avitár- (nominal stem)
 
 bhava ← √bhū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वादो॑ पितो॒ मधो॑ पितो व॒यं त्वा॑ ववृमहे ।  
+अ॒स्माक॑मवि॒ता भ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

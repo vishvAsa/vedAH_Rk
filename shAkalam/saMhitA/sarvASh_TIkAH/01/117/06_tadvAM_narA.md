@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ mádhūnām ← mádhu- (nominal stem)
 
 śatám ← śatá- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्वां॑ नरा॒ शंस्यं॑ पज्रि॒येण॑ क॒क्षीव॑ता नासत्या॒ परि॑ज्मन् ।  
+श॒फादश्व॑स्य वा॒जिनो॒ जना॑य श॒तं कु॒म्भाँ अ॑सिञ्चतं॒ मधू॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 yaṁsat ← √yam- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ नो दे॒वा अव॒सा ग॑म॒न्त्वङ्गि॑रसां॒ साम॑भिः स्तू॒यमा॑नाः ।  
+इन्द्र॑ इन्द्रि॒यैर्म॒रुतो॑ म॒रुद्भि॑रादि॒त्यैर्नो॒ अदि॑तिः॒ शर्म॑ यंसत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

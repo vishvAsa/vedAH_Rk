@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ puṣṭím ← puṣṭí- (nominal stem)
 
 sadyás ← sadyás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒षे सा वां॑ वरुण मित्र रा॒तिर्गवां॑ श॒ता पृ॒क्षया॑मेषु प॒ज्रे ।  
+श्रु॒तर॑थे प्रि॒यर॑थे॒ दधा॑नाः स॒द्यः पु॒ष्टिं नि॑रुन्धा॒नासो॑ अग्मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -233,12 +238,6 @@ This gift of yours is to be praised, Mitra and Varuṇa. Having received  hundre
 Śrutaratha, Priyaratha, they [=priests and poets] immediately came to  prosperity, upon penning them in.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The transition between the All God portion of the hymn and the dānastuti is eased by verbal repetition: Mitra and Varuṇa, who were the last gods invoked (6ab), are again called on here, though in opposite order and not in a dvandva but in individual vocatives (varuṇa mitra versus 6a mitrāvaruṇā). Independent rātíḥ picks up the 2nd cmpd member in śrótu-rātiḥ (6c) and the PN śrutáratha- (7c) also echoes śrótu-rātiḥ.
-
-The locc. pajré / śrutárathe priyárathe mark these men as givers, which makes some trouble, since Kakṣīvant’s family seems to be called Pajra (quite possibly in the next verse and in I.126.4-5) and Kakṣīvant himself pajriyá- (I.116.7, 117.6, 120.5). Nonetheless, grammar can’t be gainsaid, and they must be patrons here. See Geldner’s n. 7bc for attempts to reconcile the discrepancies.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/122/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -246,7 +245,6 @@ The passively used 3rd sg. stuṣé (7a), stuṣe (8a) contrast in function with
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

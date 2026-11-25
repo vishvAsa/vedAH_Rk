@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ bhágattim ← bhágatti- (nominal stem)
 
 váha ← √vah- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ न॑ इन्दो शत॒ग्विनं॒ गवां॒ पोषं॒ स्वश्व्य॑म् ।  
+वहा॒ भग॑त्तिमू॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,7 +169,6 @@ and the gift of good fortune, for aid.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -172,7 +176,6 @@ The tṛca is thematically unified by the journey of Soma and, in vss. 17-18 his
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

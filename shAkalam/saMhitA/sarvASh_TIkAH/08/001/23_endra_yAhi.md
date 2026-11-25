@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sphirám ← sphirá- (nominal stem)
 
 urú ← urú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एन्द्र॑ याहि॒ मत्स्व॑ चि॒त्रेण॑ देव॒ राध॑सा ।  
+सरो॒ न प्रा॑स्यु॒दरं॒ सपी॑तिभि॒रा सोमे॑भिरु॒रु स्फि॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “sphira \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

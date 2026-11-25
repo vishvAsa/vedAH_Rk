@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ hiraṇyáyī ← hiraṇyáya- (nominal stem)
 
 vákvarī ← vákvan- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ह्य॑ग्ने दि॒व्यस्य॒ राज॑सि॒ त्वं पार्थि॑वस्य पशु॒पा इ॑व॒ त्मना॑ ।  
+एनी॑ त ए॒ते बृ॑ह॒ती अ॑भि॒श्रिया॑ हिर॒ण्ययी॒ वक्व॑री ब॒र्हिरा॑शाते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

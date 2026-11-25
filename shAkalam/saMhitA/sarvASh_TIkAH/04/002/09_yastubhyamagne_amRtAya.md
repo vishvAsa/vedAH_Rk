@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ pári ← pári (invariable)
 
 varat ← √vr̥- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्तुभ्य॑मग्ने अ॒मृता॑य॒ दाश॒द्दुव॒स्त्वे कृ॒णव॑ते य॒तस्रु॑क् ।  
+न स रा॒या श॑शमा॒नो वि यो॑ष॒न्नैन॒मंहः॒ परि॑ वरदघा॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “malevolent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ náktam ← nákt- (nominal stem)
 
 trā́sīthām ← √trā- (root)  
 {number:DU, person:2, mood:OPT, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒पाया॑तं दा॒शुषे॒ मर्त्या॑य॒ रथे॑न वा॒मम॑श्विना॒ वह॑न्ता ।  
+यु॒यु॒तम॒स्मदनि॑रा॒ममी॑वां॒ दिवा॒ नक्तं॑ माध्वी॒ त्रासी॑थां नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

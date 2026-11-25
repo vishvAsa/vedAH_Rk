@@ -4,6 +4,7 @@ devataa = "त्वष्टा"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्वष्टा
@@ -92,7 +93,12 @@ uśán ← √vaś- (root)
 
 yakṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+देव॑ त्वष्ट॒र्यद्ध॑ चारु॒त्वमान॒ड्यदङ्गि॑रसा॒मभ॑वः सचा॒भूः ।  
+स दे॒वानां॒ पाथ॒ उप॒ प्र वि॒द्वाँ उ॒शन्य॑क्षि द्रविणोदः सु॒रत्नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
     jewelry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "दंपत्योराशिषः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपत्योराशिषः
@@ -60,7 +61,12 @@ svastáye ← svastí- (nominal stem)
 
 urúḥ ← urú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऐतु॑ पू॒षा र॒यिर्भगः॑ स्व॒स्ति स॑र्व॒धात॑मः ।  
+उ॒रुरध्वा॑ स्व॒स्तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
     well; luck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

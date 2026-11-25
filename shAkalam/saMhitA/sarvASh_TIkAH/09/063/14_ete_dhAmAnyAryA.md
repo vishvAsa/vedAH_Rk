@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ gómantam ← gómant- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते धामा॒न्यार्या॑ शु॒क्रा ऋ॒तस्य॒ धार॑या ।  
+वाजं॒ गोम॑न्तमक्षरन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “run; melt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -149,10 +154,6 @@ Across the Ārya domains these clear juices in a stream of truth
 have flowed to a prize of cows.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In vs. 5 during his journey Soma “made it all Ārya”; here he crosses these Ārya domains (dhā́māny ā́ryā) on his journey to the cows’ milk. My interpr. takes this first acc. phrase as an acc. of extent, of space traversed, while the acc. in pāda c, vā́jaṃ gómantam I take as the goal of akṣaran. In the next vs., 15c, pavítram áti “across the filter” has the same function I see for dhā́māny ā́ryā here, and in fact the filter may be identified as the Ārya domains. By contrast Geldner takes dhā́māny ā́ryā as parallel goal to vā́jaṃ gómantam, while Renou characteristically supplies a separate participle (āviśántaḥ “ont occupé”) to govern dhā́māny ā́ryā. The parallels he cites in the n. do not seem sufficient to me.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -160,7 +161,6 @@ Again no particular signs of unity. The unmixed (“clear” śukrá-) soma in 1
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

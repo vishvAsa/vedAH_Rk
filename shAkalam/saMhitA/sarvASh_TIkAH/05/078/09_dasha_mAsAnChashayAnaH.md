@@ -4,6 +4,7 @@ devataa = "अश्विनौ (गर्भस्राविण्युप�
 RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ (गर्भस्राविण्युपनिषत्)
@@ -68,7 +69,12 @@ jīváḥ ← jīvá- (nominal stem)
 
 jī́vantyāḥ ← √jīv- (root)  
 {case:ABL, gender:F, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दश॒ मासा॑ञ्छशया॒नः कु॑मा॒रो अधि॑ मा॒तरि॑ ।  
+नि॒रैतु॑ जी॒वो अक्ष॑तो जी॒वो जीव॑न्त्या॒ अधि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “on; from; accordingly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

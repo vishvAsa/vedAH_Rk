@@ -4,6 +4,7 @@ devataa = "सोमार्कौ"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमार्कौ
@@ -86,7 +87,12 @@ r̥tū́n ← r̥tú- (nominal stem)
 
 vidádhat ← √dhā- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒र्वा॒प॒रं च॑रतो मा॒ययै॒तौ शिशू॒ क्रीळ॑न्तौ॒ परि॑ यातो अध्व॒रम् ।  
+विश्वा॑न्य॒न्यो भुव॑नाभि॒चष्ट॑ ऋ॒तूँर॒न्यो वि॒दध॑ज्जायते॒ पुनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     however; besides.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

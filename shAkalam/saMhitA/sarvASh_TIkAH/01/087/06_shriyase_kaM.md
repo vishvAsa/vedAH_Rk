@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ priyásya ← priyá- (nominal stem)
 
 vidré ← √vid- 2 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रि॒यसे॒ कं भा॒नुभिः॒ सं मि॑मिक्षिरे॒ ते र॒श्मिभि॒स्त ऋक्व॑भिः सुखा॒दयः॑ ।  
+ते वाशी॑मन्त इ॒ष्मिणो॒ अभी॑रवो वि॒द्रे प्रि॒यस्य॒ मारु॑तस्य॒ धाम्नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     location.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

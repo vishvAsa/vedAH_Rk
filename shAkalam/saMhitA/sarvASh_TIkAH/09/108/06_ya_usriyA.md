@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋजिश्वा"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ ruja ← √ruj- (root)
 
 varmī́ ← varmín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॒स्रिया॒ अप्या॑ अ॒न्तरश्म॑नो॒ निर्गा अकृ॑न्त॒दोज॑सा ।  
+अ॒भि व्र॒जं त॑त्निषे॒ गव्य॒मश्व्यं॑ व॒र्मीव॑ धृष्ण॒वा रु॑ज ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “break; bend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,12 +254,6 @@ He who with his might cut the ruddy, watery cows out from within the rock. You h
 horses. Like a man in armor, break into it, o bold one.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner suggests that pāda a concerns the Vṛtra myth and b the Vala myth, based primarily on ápya- ‘watery’ as a descriptor of the cows in the former. This does not seem to me sufficient evidence, esp. because ápya- is not elsewhere used in connection with the Vṛtra myth. In his n. (6b) Geldner appears amenable to a unitary interpr. of ab, as only depicting the Vala myth, as I also take it, though why the cows are ‘watery’ isn’t clear to me. Geldner’s alternative explanation, involving X.67.5, does not seem terribly strong. It suggest it may be connected with the waters used in the ritual preparation of soma; see vs. 7.
-
-On abhí √tan see comm. ad VIII.6.25.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -262,7 +261,6 @@ The 1st hemistich of vs. 6 is a relative cl. in the 3rd ps. dependent on vs. 5, 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

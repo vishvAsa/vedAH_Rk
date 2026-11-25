@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "मृळीको वासिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ mr̥ḷīkā́ya ← mr̥ḷīká- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धश्चि॒त्समि॑ध्यसे दे॒वेभ्यो॑ हव्यवाहन ।  
+आ॒दि॒त्यै रु॒द्रैर्वसु॑भिर्न॒ आ ग॑हि मृळी॒काय॑ न॒ आ ग॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

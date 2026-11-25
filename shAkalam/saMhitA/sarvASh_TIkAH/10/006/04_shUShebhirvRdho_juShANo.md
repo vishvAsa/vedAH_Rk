@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ jigharti ← √ghr̥- 1 (root)
 
 sámmiślaḥ ← sámmiśla- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शू॒षेभि॑र्वृ॒धो जु॑षा॒णो अ॒र्कैर्दे॒वाँ अच्छा॑ रघु॒पत्वा॑ जिगाति ।  
+म॒न्द्रो होता॒ स जु॒ह्वा॒३॒॑ यजि॑ष्ठः॒ सम्मि॑श्लो अ॒ग्निरा जि॑घर्ति दे॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

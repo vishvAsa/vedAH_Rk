@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ pratháyan ← √prathⁱ- (root)
 
 sū́ryaḥ ← sū́rya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रश्च॒ तुभ्यं॒ वरु॑णः सह॒स्वोऽग्ने॒ विश्वे॑ म॒रुतः॑ सु॒म्नम॑र्चन् ।  
+यच्छो॒चिषा॑ सहसस्पुत्र॒ तिष्ठा॑ अ॒भि क्षि॒तीः प्र॒थय॒न्त्सूर्यो॒ नॄन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

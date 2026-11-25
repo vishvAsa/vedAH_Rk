@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ naḥ ← ahám (pronoun)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒ना॒नः सो॑म॒ जागृ॑वि॒रव्यो॒ वारे॒ परि॑ प्रि॒यः ।  
+त्वं विप्रो॑ अभ॒वोऽङ्गि॑रस्तमो॒ मध्वा॑ य॒ज्ञं मि॑मिक्ष नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -207,10 +212,6 @@ you became an inspired poet, the best of the Aṅgirases. Equip our
 sacrifice with honey.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The impv. mimikṣa probably belongs to √myakṣ ‘provide, etc’. See Kümmel (387-88).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -218,7 +219,6 @@ The c pādas of these two vss. are identically constructed: tváṃ vípro [6] /
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

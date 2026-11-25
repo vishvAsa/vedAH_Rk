@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ sajóṣasaḥ ← sajóṣas- (nominal stem)
 
 vāvaśānā́ḥ ← √vaś- (root)  
 {case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निमु॒षस॑म॒श्विना॑ दधि॒क्रां व्यु॑ष्टिषु हवते॒ वह्नि॑रु॒क्थैः ।  
+सु॒ज्योति॑षो नः शृण्वन्तु दे॒वाः स॒जोष॑सो अध्व॒रं वा॑वशा॒नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “desire; agree; call; care; like; love.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

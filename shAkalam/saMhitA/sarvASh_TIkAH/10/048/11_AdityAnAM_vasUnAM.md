@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -80,7 +81,12 @@ té ← sá- ~ tá- (pronoun)
 
 ástr̥tam ← ástr̥ta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒दि॒त्यानां॒ वसू॑नां रु॒द्रिया॑णां दे॒वो दे॒वानां॒ न मि॑नामि॒ धाम॑ ।  
+ते मा॑ भ॒द्राय॒ शव॑से ततक्षु॒रप॑राजित॒मस्तृ॑त॒मषा॑ळ्हम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “invincible.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

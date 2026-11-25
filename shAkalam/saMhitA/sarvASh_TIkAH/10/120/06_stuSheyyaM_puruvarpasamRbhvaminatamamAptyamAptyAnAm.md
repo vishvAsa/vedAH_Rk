@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहद्दिव आथर्वणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ pratimā́nāni ← pratimā́na- (nominal stem)
 
 sākṣate ← √sah- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒षेय्यं॑ पुरु॒वर्प॑स॒मृभ्व॑मि॒नत॑ममा॒प्त्यमा॒प्त्याना॑म् ।  
+आ द॑र्षते॒ शव॑सा स॒प्त दानू॒न्प्र सा॑क्षते प्रति॒माना॑नि॒ भूरि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

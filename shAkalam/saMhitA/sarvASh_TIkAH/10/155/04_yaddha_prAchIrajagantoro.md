@@ -4,6 +4,7 @@ devataa = "अलक्ष्मीघ्नं"
 RShiH = "शिरिंबिठो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अलक्ष्मीघ्नं
@@ -65,7 +66,12 @@ budbudáyāśavaḥ ← budbudáyāśu- (nominal stem)
 
 sárve ← sárva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्ध॒ प्राची॒रज॑ग॒न्तोरो॑ मण्डूरधाणिकीः ।  
+ह॒ता इन्द्र॑स्य॒ शत्र॑वः॒ सर्वे॑ बुद्बु॒दया॑शवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

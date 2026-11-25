@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ दे॒वो द॑दे बु॒ध्न्या॒३॒॑ वसू॑नि वैश्वान॒र उदि॑ता॒ सूर्य॑स्य ।  
+आ स॑मु॒द्रादव॑रा॒दा पर॑स्मा॒दाग्निर्द॑दे दि॒व आ पृ॑थि॒व्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

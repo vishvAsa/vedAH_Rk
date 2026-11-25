@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -86,7 +87,12 @@ tmáne ← tmán- (nominal stem)
 
 tokā́ya ← toká- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं पि॒त्रे म॒रुता॑मुच्यते॒ वचः॑ स्वा॒दोः स्वादी॑यो रु॒द्राय॒ वर्ध॑नम् ।  
+रास्वा॑ च नो अमृत मर्त॒भोज॑नं॒ त्मने॑ तो॒काय॒ तन॑याय मृळ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “pardon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

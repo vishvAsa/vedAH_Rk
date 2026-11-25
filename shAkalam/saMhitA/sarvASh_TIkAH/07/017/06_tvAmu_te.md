@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -58,7 +59,11 @@ nápātam ← nápat- (nominal stem)
 
 ūrjáḥ ← ū́rj- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वामु॒ ते द॑धिरे हव्य॒वाहं॑ दे॒वासो॑ अग्न ऊ॒र्ज आ नपा॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +138,6 @@ _________
 - “grandson; nephew; napāt \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

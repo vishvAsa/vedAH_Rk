@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ ví ← ví (invariable)
 
 vr̥ścaḥ ← √vr̥śc- (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमध॑ प्रथ॒मं जाय॑मा॒नोऽमे॒ विश्वा॑ अधिथा इन्द्र कृ॒ष्टीः ।  
+त्वं प्रति॑ प्र॒वत॑ आ॒शया॑न॒महिं॒ वज्रे॑ण मघव॒न्वि वृ॑श्चः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “cleave; fell; cut off; hew.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -238,7 +243,6 @@ With your mace you hewed apart the serpent who was lying against the  (mountain)
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -246,7 +250,6 @@ I take the idiom found in 6d and 7b, LOC. ACC. adhithāḥ, as meaning ‘put s.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

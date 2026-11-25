@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -86,7 +87,12 @@ sukīrtím ← sukīrtí- (nominal stem)
 
 váruṇasya ← váruṇa- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं क॒वेरा॑दि॒त्यस्य॑ स्व॒राजो॒ विश्वा॑नि॒ सान्त्य॒भ्य॑स्तु म॒ह्ना ।  
+अति॒ यो म॒न्द्रो य॒जथा॑य दे॒वः सु॑की॒र्तिं भि॑क्षे॒ वरु॑णस्य॒ भूरेः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

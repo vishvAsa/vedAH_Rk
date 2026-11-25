@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ ná ← ná (invariable)
 
 vatsám ← vatsá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा उ॑ त्वा सु॒तेसु॑ते॒ नक्ष॑न्ते गिर्वणो॒ गिरः॑ ।  
+व॒त्सं गावो॒ न धे॒नवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “cow; dhenu \[word\]; milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -174,10 +179,6 @@ These songs come near to you at every pressing, o you who long  for songs,
 as milk-cows do their calf—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although, as just noted, there’s no unity in the tṛca, there is some continuity between tṛcas. Like the first vs. of the previous tṛca (25), this one has polarized nom. #imā́ḥ … gíraḥ# “these songs” framing the first hemistich, which responds to the acc. gíraḥ in the middle of the tṛca before that (23c). Moreover, the simile “like cows their calf” (28c) reprises “like mothers their calf” in 25c.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -185,7 +186,6 @@ Again no unity in the tṛca.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "आदित्यः(स्वस्त्ययनं)"
 RShiH = "सत्यधृतिर्वारुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्यः(स्वस्त्ययनं)
@@ -57,7 +58,12 @@ jyótiḥ ← jyótis- (nominal stem)
 
 yáchanti ← √yam- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मै॑ पु॒त्रासो॒ अदि॑तेः॒ प्र जी॒वसे॒ मर्त्या॑य ।  
+ज्योति॒र्यच्छ॒न्त्यज॑स्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “ceaseless; ageless; incessant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

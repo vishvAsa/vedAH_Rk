@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -71,7 +72,12 @@ mahitvanā́ ← mahitvaná- (nominal stem)
 
 pávamāna ← √pū- (root)  
 {case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं द्यां च॑ महिव्रत पृथि॒वीं चाति॑ जभ्रिषे ।  
+प्रति॑ द्रा॒पिम॑मुञ्चथाः॒ पव॑मान महित्व॒ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “greatness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -198,10 +203,6 @@ O you of great commandment, you have carried yourself beyond heaven  and earth.
 You have fastened on your mantle in your greatness, self-purifying one.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The contents and phraseology of this vs. are furthest from its match, vs. 3, but as noted in the published translation, dyā́ṃ ca … pṛthivī́ṃ ca in 9ab recalls 3cd (vásūni) pā́rthivā divyā́ca “heavenly and earthly goods.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
 <details><summary><h2>06-09 ...{Loading}...</h2></summary>
 
@@ -209,7 +210,6 @@ As noted in the published introduction, these vss., constituting a separate hymn
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

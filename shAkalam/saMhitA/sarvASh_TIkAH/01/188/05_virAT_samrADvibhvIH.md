@@ -4,6 +4,7 @@ devataa = "देवीर्द्वारः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवीर्द्वारः
@@ -66,7 +67,12 @@ dúraḥ ← dvā́r- (nominal stem)
 
 ghr̥tā́ni ← ghr̥tá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒राट् स॒म्राड्वि॒भ्वीः प्र॒भ्वीर्ब॒ह्वीश्च॒ भूय॑सीश्च॒ याः ।  
+दुरो॑ घृ॒तान्य॑क्षरन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “run; melt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

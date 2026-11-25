@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ naḥ ← ahám (pronoun)
 
 voḷham ← √vah- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तोमं॑ जुषेथां युव॒शेव॑ क॒न्यनां॒ विश्वे॒ह दे॑वौ॒ सव॒नाव॑ गच्छतम् ।  
+स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चेषं॑ नो वोळ्हमश्विना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

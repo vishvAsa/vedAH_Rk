@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -119,7 +120,13 @@ durmatíḥ ← durmatí- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं तमि॑न्द्र वावृधा॒नो अ॑स्म॒युर॑मित्र॒यन्तं॑ तुविजात॒ मर्त्यं॒ वज्रे॑ण शूर॒ मर्त्य॑म् ।  
+ज॒हि यो नो॑ अघा॒यति॑ शृणु॒ष्व सु॒श्रव॑स्तमः ।  
+रि॒ष्टं न याम॒न्नप॑ भूतु दुर्म॒तिर्विश्वाप॑ भूतु दुर्म॒तिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -317,7 +324,6 @@ _________
 - “hate; envy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

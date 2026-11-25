@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ nr̥ṣā́caḥ ← nr̥ṣác- (nominal stem)
 
 vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र य॑न्ति य॒ज्ञं वि॒पय॑न्ति ब॒र्हिः सो॑म॒मादो॑ वि॒दथे॑ दु॒ध्रवा॑चः ।  
+न्यु॑ भ्रियन्ते य॒शसो॑ गृ॒भादा दू॒रउ॑पब्दो॒ वृष॑णो नृ॒षाचः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

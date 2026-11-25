@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ paśū́n ← paśú- (nominal stem)
 
 sthātr̥̄́n ← sthātár- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिः स॒प्त यद्गुह्या॑नि॒ त्वे इत्प॒दावि॑द॒न्निहि॑ता य॒ज्ञिया॑सः ।  
+तेभी॑ रक्षन्ते अ॒मृतं॑ स॒जोषाः॑ प॒शूञ्च॑ स्था॒तॄञ्च॒रथं॑ च पाहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “protect; govern.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

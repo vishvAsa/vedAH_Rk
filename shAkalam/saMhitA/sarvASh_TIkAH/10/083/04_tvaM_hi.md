@@ -4,6 +4,7 @@ devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मन्युः
@@ -74,7 +75,12 @@ dhehi ← √dhā- 1 (root)
 
 pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं हि म॑न्यो अ॒भिभू॑त्योजाः स्वय॒म्भूर्भामो॑ अभिमातिषा॒हः ।  
+वि॒श्वच॑र्षणिः॒ सहु॑रिः॒ सहा॑वान॒स्मास्वोजः॒ पृत॑नासु धेहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

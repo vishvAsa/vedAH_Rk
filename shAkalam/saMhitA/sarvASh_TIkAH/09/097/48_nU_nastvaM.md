@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ savitā́ ← savitár- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू न॒स्त्वं र॑थि॒रो दे॑व सोम॒ परि॑ स्रव च॒म्वोः॑ पू॒यमा॑नः ।  
+अ॒प्सु स्वादि॑ष्ठो॒ मधु॑माँ ऋ॒तावा॑ दे॒वो न यः स॑वि॒ता स॒त्यम॑न्मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “hymn; idea; purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -253,7 +258,6 @@ sweetest in the waters, honeyed, truthful, you whose thoughts become  reality, l
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">
 <details><summary><h2>46-48 ...{Loading}...</h2></summary>
 
@@ -263,7 +267,6 @@ to the sun.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

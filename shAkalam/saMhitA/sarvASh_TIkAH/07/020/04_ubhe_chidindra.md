@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ uvoca ← √uc- (root)
 
 vaí ← vaí (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भे चि॑दिन्द्र॒ रोद॑सी महि॒त्वा प॑प्राथ॒ तवि॑षीभिस्तुविष्मः ।  
+नि वज्र॒मिन्द्रो॒ हरि॑वा॒न्मिमि॑क्ष॒न्त्समन्ध॑सा॒ मदे॑षु॒ वा उ॑वोच ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - \[verb\], singular, Perfect indicative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

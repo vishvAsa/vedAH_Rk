@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ suvitáḥ ← suvitá- (nominal stem)
 
 suvitáḥ ← suvitá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒ज्य॑सि॒ वाजि॑नेना सुवे॒नीः सु॑वि॒तः स्तोमं॑ सुवि॒तो दिवं॑ गाः ।  
+सु॒वि॒तो धर्म॑ प्रथ॒मानु॑ स॒त्या सु॑वि॒तो दे॒वान्त्सु॑वि॒तोऽनु॒ पत्म॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “flight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

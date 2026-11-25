@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ gamema ← √gam- (root)
 
 surátnāsaḥ ← surátna- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒वि॒ष्टं धी॒ष्व॑श्विना न आ॒सु प्र॒जाव॒द्रेतो॒ अह्र॑यं नो अस्तु ।  
+आ वां॑ तो॒के तन॑ये॒ तूतु॑जानाः सु॒रत्ना॑सो दे॒ववी॑तिं गमेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

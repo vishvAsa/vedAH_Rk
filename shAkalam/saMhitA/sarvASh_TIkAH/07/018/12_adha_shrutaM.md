@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ tvāyántaḥ ← √tvāy- (root)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॑ श्रु॒तं क॒वषं॑ वृ॒द्धम॒प्स्वनु॑ द्रु॒ह्युं नि वृ॑ण॒ग्वज्र॑बाहुः ।  
+वृ॒णा॒ना अत्र॑ स॒ख्याय॑ स॒ख्यं त्वा॒यन्तो॒ ये अम॑द॒न्ननु॑ त्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

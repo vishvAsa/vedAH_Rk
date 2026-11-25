@@ -4,6 +4,7 @@ devataa = "विश्वामित्रः"
 RShiH = "नद्यः ऋषिकाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वामित्रः
@@ -104,7 +105,12 @@ puruṣatrā́ ← puruṣatrā́ (invariable)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तद्वचो॑ जरित॒र्मापि॑ मृष्ठा॒ आ यत्ते॒ घोषा॒नुत्त॑रा यु॒गानि॑ ।  
+उ॒क्थेषु॑ कारो॒ प्रति॑ नो जुषस्व॒ मा नो॒ नि कः॑ पुरुष॒त्रा नम॑स्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -269,7 +275,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

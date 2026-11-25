@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -92,7 +93,12 @@ prajā́bhiḥ ← prajā́- (nominal stem)
 
 rudra ← rudrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ते॑ पितर्मरुतां सु॒म्नमे॑तु॒ मा नः॒ सूर्य॑स्य सं॒दृशो॑ युयोथाः ।  
+अ॒भि नो॑ वी॒रो अर्व॑ति क्षमेत॒ प्र जा॑येमहि रुद्र प्र॒जाभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     child; descendants; population; race; animal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

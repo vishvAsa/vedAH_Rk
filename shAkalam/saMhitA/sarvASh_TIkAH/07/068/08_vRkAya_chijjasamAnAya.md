@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ cit ← cit (invariable)
 
 staryàm ← starī́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृका॑य चि॒ज्जस॑मानाय शक्तमु॒त श्रु॑तं श॒यवे॑ हू॒यमा॑ना ।  
+याव॒घ्न्यामपि॑न्वतम॒पो न स्त॒र्यं॑ चिच्छ॒क्त्य॑श्विना॒ शची॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “Śacī; power; dexterity; ability; aid.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

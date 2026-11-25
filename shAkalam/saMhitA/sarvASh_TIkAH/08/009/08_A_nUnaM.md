@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ ná ← ná (invariable)
 
 nábhaḥ ← nábhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नू॒नं र॒घुव॑र्तनिं॒ रथं॑ तिष्ठाथो अश्विना ।  
+आ वां॒ स्तोमा॑ इ॒मे मम॒ नभो॒ न चु॑च्यवीरत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
     dislodge; miss; deprive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -204,7 +209,6 @@ Here and now you two will mount the swift-tracked chariot, o Aśvins. Here shoul
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/009/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -216,7 +220,6 @@ has full grade in some kind of imitation of the full grade of act. 3rd pl. imper
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

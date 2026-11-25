@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "पुरउष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ rátheṣu ← rátha- (nominal stem)
 
 śrāyā́ḥ ← śrāyá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये अ॒ञ्जिषु॒ ये वाशी॑षु॒ स्वभा॑नवः स्र॒क्षु रु॒क्मेषु॑ खा॒दिषु॑ ।  
+श्रा॒या रथे॑षु॒ धन्व॑सु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “bow; desert; steppe; barren.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

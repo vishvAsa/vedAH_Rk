@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -95,7 +96,12 @@ ví ← ví (invariable)
 
 vidhaté ← √vidh- (root)  
 {case:DAT, gender:M, number:SG, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व आ दमे॑ सु॒दुघा॒ यस्य॑ धे॒नुः स्व॒धां पी॑पाय सु॒भ्वन्न॑मत्ति ।  
+सो अ॒पां नपा॑दू॒र्जय॑न्न॒प्स्व१॒॑न्तर्व॑सु॒देया॑य विध॒ते वि भा॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
 - “look; shine; show; look like; glitter; reflect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

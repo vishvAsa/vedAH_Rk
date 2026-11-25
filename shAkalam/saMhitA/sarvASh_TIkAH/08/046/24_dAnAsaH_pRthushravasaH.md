@@ -4,6 +4,7 @@ devataa = "पृथुश्रवसः कानीतस्य दानस�
 RShiH = "वशोश्व्यः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पृथुश्रवसः कानीतस्य दानस्तुतिः
@@ -73,7 +74,12 @@ akr̥ta ← √kr̥- (root)
 
 várṣiṣṭham ← várṣiṣṭha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दाना॑सः पृथु॒श्रव॑सः कानी॒तस्य॑ सु॒राध॑सः ।  
+रथं॑ हिर॒ण्ययं॒ दद॒न्मंहि॑ष्ठः सू॒रिर॑भू॒द्वर्षि॑ष्ठमकृत॒ श्रवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “fame; glory; ear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

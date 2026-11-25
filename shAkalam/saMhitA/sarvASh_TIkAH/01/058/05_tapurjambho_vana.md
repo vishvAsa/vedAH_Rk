@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ patatríṇaḥ ← patatrín- (nominal stem)
 
 sthātúḥ ← sthātár- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तपु॑र्जम्भो॒ वन॒ आ वात॑चोदितो यू॒थे न सा॒ह्वाँ अव॑ वाति॒ वंस॑गः ।  
+अ॒भि॒व्रज॒न्नक्षि॑तं॒ पाज॑सा॒ रजः॑ स्था॒तुश्च॒रथं॑ भयते पत॒त्रिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “bird; arrow; horse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ krátvā ← krátu- (nominal stem)
 
 śākináḥ ← śākiná- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो धृ॑षि॒तो योऽवृ॑तो॒ यो अस्ति॒ श्मश्रु॑षु श्रि॒तः ।  
+विभू॑तद्युम्न॒श्च्यव॑नः पुरुष्टु॒तः क्रत्वा॒ गौरि॑व शाकि॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “mighty; strong.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

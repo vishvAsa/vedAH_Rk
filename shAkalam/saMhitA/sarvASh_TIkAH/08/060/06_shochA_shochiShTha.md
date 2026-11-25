@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ sūráyaḥ ← sūrí- (nominal stem)
 
 svagnáyaḥ ← svagní- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शोचा॑ शोचिष्ठ दीदि॒हि वि॒शे मयो॒ रास्व॑ स्तो॒त्रे म॒हाँ अ॑सि ।  
+दे॒वानां॒ शर्म॒न्मम॑ सन्तु सू॒रयः॑ शत्रू॒षाहः॑ स्व॒ग्नयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

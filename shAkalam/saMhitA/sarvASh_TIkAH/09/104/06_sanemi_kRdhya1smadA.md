@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पर्वतनारदौ द्वे शिखंडिन्यौ वा काश्यप्यावप्सरसौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -72,7 +73,12 @@ naḥ ← ahám (pronoun)
 
 yuyodhi ← √yu- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सने॑मि कृ॒ध्य१॒॑स्मदा र॒क्षसं॒ कं चि॑द॒त्रिण॑म् ।  
+अपादे॑वं द्व॒युमंहो॑ युयोधि नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

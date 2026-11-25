@@ -4,6 +4,7 @@ devataa = "इध्मः समिद्धोग्निर्वा"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इध्मः समिद्धोग्निर्वा
@@ -86,7 +87,12 @@ sumánāḥ ← sumánas- (nominal stem)
 
 yakṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मित्स॑मित्सु॒मना॑ बोध्य॒स्मे शु॒चाशु॑चा सुम॒तिं रा॑सि॒ वस्वः॑ ।  
+आ दे॑व दे॒वान्य॒जथा॑य वक्षि॒ सखा॒ सखी॑न्त्सु॒मना॑ यक्ष्यग्ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

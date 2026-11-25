@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ purumitrásya ← purumitrá- (nominal stem)
 
 yóṣām ← yóṣā- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधे॑नुं दस्रा स्त॒र्यं१॒॑ विष॑क्ता॒मपि॑न्वतं श॒यवे॑ अश्विना॒ गाम् ।  
+यु॒वं शची॑भिर्विम॒दाय॑ जा॒यां न्यू॑हथुः पुरुमि॒त्रस्य॒ योषा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “woman; puppet; daughter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

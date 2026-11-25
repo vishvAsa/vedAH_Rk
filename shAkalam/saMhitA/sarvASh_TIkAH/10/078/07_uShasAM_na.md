@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ parāvátaḥ ← parāvát- (nominal stem)
 
 yójanāni ← yójana- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒षसां॒ न के॒तवो॑ऽध्वर॒श्रियः॑ शुभं॒यवो॒ नाञ्जिभि॒र्व्य॑श्वितन् ।  
+सिन्ध॑वो॒ न य॒यियो॒ भ्राज॑दृष्टयः परा॒वतो॒ न योज॑नानि ममिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

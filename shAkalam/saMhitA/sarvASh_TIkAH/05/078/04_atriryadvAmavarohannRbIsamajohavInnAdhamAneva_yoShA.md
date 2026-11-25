@@ -4,6 +4,7 @@ devataa = "अश्विनौ (गर्भस्राविण्युप�
 RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ (गर्भस्राविण्युपनिषत्)
@@ -83,7 +84,12 @@ aśvinā ← aśvín- (nominal stem)
 
 śáṁtamena ← śáṁtama- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्रि॒र्यद्वा॑मव॒रोह॑न्नृ॒बीस॒मजो॑हवी॒न्नाध॑मानेव॒ योषा॑ ।  
+श्ये॒नस्य॑ चि॒ज्जव॑सा॒ नूत॑ने॒नाग॑च्छतमश्विना॒ शन्त॑मेन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “beneficent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

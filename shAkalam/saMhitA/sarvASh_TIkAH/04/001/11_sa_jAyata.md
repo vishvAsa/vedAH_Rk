@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ nīḷé ← nīḷá- (nominal stem)
 
 vr̥ṣabhásya ← vr̥ṣabhá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स जा॑यत प्रथ॒मः प॒स्त्या॑सु म॒हो बु॒ध्ने रज॑सो अ॒स्य योनौ॑ ।  
+अ॒पाद॑शी॒र्षा गु॒हमा॑नो॒ अन्ता॒योयु॑वानो वृष॒भस्य॑ नी॒ळे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “nest; seat; seat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -235,10 +240,6 @@ He was born first in the dwelling places, at the base of this great realm,  as h
 footless, headless, concealing his two ends, continually retracting (his  limbs [=flames]), in the nest of the bull.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The vs. treats the birth of the ritual fire on earth, with the second hemistich describing the amorphous shape and constant motion of physical fire. That it has neither foot nor head (apā́d aśīrṣā́) presumably refers to the lack of consistent vertical definition of a flickering fire; “concealing its two ends” (guhámāno ántā) is reminiscent of 7c “enveloped within the limitless” (ananté antáḥ párivītaḥ), and the explanations suggested there may apply here. In addition, the “two ends” may be the non-existent foot and head just referred to.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details><summary><h2>10-18 ...{Loading}...</h2></summary>
 
@@ -254,7 +255,6 @@ The repeated phrase “in the nest of the bull” (vṛṣabhásya nīḷé, 11d
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

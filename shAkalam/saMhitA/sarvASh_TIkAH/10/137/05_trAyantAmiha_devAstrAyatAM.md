@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "विश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -71,7 +72,12 @@ ayám ← ayám (pronoun)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्राय॑न्तामि॒ह दे॒वास्त्राय॑तां म॒रुतां॑ ग॒णः ।  
+त्राय॑न्तां॒ विश्वा॑ भू॒तानि॒ यथा॒यम॑र॒पा अस॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

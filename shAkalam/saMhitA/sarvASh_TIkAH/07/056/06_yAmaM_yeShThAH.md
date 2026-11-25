@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -52,7 +53,11 @@ sámmiślāḥ ← sámmiśla- (nominal stem)
 
 ugrā́ḥ ← ugrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यामं॒ येष्ठाः॑ शु॒भा शोभि॑ष्ठाः श्रि॒या सम्मि॑श्ला॒ ओजो॑भिरु॒ग्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -108,7 +113,6 @@ _________
     atrocious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

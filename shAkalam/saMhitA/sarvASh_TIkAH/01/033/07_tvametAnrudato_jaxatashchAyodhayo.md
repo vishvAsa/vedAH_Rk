@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ stuvatáḥ ← √stu- (root)
 
 sunvatáḥ ← √su- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमे॒तान्रु॑द॒तो जक्ष॑त॒श्चायो॑धयो॒ रज॑स इन्द्र पा॒रे ।  
+अवा॑दहो दि॒व आ दस्यु॑मु॒च्चा प्र सु॑न्व॒तः स्तु॑व॒तः शंस॑मावः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

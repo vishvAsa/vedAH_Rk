@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -61,7 +62,12 @@ gr̥hám ← gr̥há- (nominal stem)
 
 namasvínaḥ ← namasvín- (nominal stem)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒हि श्रु॒तं वि॑प॒श्चितं॒ हरी॒ यस्य॑ प्रस॒क्षिणा॑ ।  
+गन्ता॑रा दा॒शुषो॑ गृ॒हं न॑म॒स्विनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “worshiping; reverent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

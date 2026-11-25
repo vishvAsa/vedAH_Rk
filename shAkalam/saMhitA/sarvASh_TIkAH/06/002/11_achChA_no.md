@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "शक्वरी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -103,7 +104,12 @@ tarema ← √tr̥̄- 1 (root)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॑ नो मित्रमहो देव दे॒वानग्ने॒ वोचः॑ सुम॒तिं रोद॑स्योः ।  
+वी॒हि स्व॒स्तिं सु॑क्षि॒तिं दि॒वो नॄन्द्वि॒षो अंहां॑सि दुरि॒ता त॑रेम॒ ता त॑रेम॒ तवाव॑सा तरेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -276,7 +282,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

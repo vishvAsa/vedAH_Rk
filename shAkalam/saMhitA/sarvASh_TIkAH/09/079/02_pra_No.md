@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ vayám ← ahám (pronoun)
 
 viśvádhā ← viśvádhā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र णो॑ धन्व॒न्त्विन्द॑वो मद॒च्युतो॒ धना॑ वा॒ येभि॒रर्व॑तो जुनी॒मसि॑ ।  
+ति॒रो मर्त॑स्य॒ कस्य॑ चि॒त्परि॑ह्वृतिं व॒यं धना॑नि वि॒श्वधा॑ भरेमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

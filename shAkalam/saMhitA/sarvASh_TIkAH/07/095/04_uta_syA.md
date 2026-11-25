@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -86,7 +87,12 @@ sákhibhyaḥ ← sákhi- (nominal stem)
 
 yujā́ ← yúj- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्या नः॒ सर॑स्वती जुषा॒णोप॑ श्रवत्सु॒भगा॑ य॒ज्णे अ॒स्मिन् ।  
+मि॒तज्ञु॑भिर्नम॒स्यै॑रिया॒ना रा॒या यु॒जा चि॒दुत्त॑रा॒ सखि॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

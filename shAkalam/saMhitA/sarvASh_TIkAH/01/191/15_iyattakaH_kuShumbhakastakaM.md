@@ -4,6 +4,7 @@ devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अप्तृणसूर्याः
@@ -68,7 +69,12 @@ párācīḥ ← párāñc- (nominal stem)
 
 saṁvátaḥ ← saṁvát- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒य॒त्त॒कः कु॑षुम्भ॒कस्त॒कं भि॑न॒द्म्यश्म॑ना ।  
+ततो॑ वि॒षं प्र वा॑वृते॒ परा॑ची॒रनु॑ सं॒वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “tract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -191,7 +196,6 @@ Thence has the poison rolled forth, following channels facing away  (from us).
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/15-16.md">
 <details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -202,7 +206,6 @@ iyattakáḥ (‘such a one’), the pronoun takám, and the participle pravarta
 The word for ‘scorpion’, vṛ́ścika- only appears in that form, but appears to contain the -ka- suffix as well, very common in words for noxious insects (see my “-kasuffix,” IIJ 52 [2009]: 318).
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

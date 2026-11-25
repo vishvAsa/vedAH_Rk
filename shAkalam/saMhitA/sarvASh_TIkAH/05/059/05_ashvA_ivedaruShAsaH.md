@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -95,7 +96,12 @@ sū́ryasya ← sū́rya- (nominal stem)
 
 vr̥ṣṭíbhiḥ ← vr̥ṣṭí- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वा॑ इ॒वेद॑रु॒षासः॒ सब॑न्धवः॒ शूरा॑ इव प्र॒युधः॒ प्रोत यु॑युधुः ।  
+मर्या॑ इव सु॒वृधो॑ वावृधु॒र्नरः॒ सूर्य॑स्य॒ चक्षुः॒ प्र मि॑नन्ति वृ॒ष्टिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “rain; shower; rainy season.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

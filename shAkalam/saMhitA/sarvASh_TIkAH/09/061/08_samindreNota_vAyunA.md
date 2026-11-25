@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ sám ← sám (invariable)
 
 sū́ryasya ← sū́rya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समिन्द्रे॑णो॒त वा॒युना॑ सु॒त ए॑ति प॒वित्र॒ आ ।  
+सं सूर्य॑स्य र॒श्मिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “beam; rein; sunbeam; shininess; cord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,14 +175,12 @@ uniting with the rays of the sun.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 The tṛca is characterized by the mention of gods in all three vss. The Ādityas frame it (ādityébhiḥ 7c, mitré váruṇe ca 9c), with a more miscellaneous group in between. It is also marked by initial repetition: sám opens pādas 7c, 8a, and 8c. This is imperfectly echoed by sá n(o) opening 9a.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

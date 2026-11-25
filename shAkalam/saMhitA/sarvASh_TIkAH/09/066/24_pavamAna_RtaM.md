@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ kr̥ṣṇā́ ← kr̥ṣṇá- (nominal stem)
 
 támāṁsi ← támas- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मान ऋ॒तं बृ॒हच्छु॒क्रं ज्योति॑रजीजनत् ।  
+कृ॒ष्णा तमां॑सि॒ जङ्घ॑नत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “murder; kill.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -154,12 +159,6 @@ gleaming light,
 continually smashing (back) the black shades of darkness.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Lüders (266), I take ṛtáṃ bṛhát as a nom. in apposition to Soma, rather than another acc. obj. to ajījanat as Geldner/Renou do. Either of course is possible; there are several passages in which an identification of Soma with ṛtá seems likely. See comm. ad IX.56.1.
-
-But I would certainly accept an acc. interpr. as alternative.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -171,7 +170,6 @@ The light imagery in this tṛca may pick up on the identification with Agni in 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

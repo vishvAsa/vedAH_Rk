@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -54,7 +55,12 @@ mārḍīkébhiḥ ← mārḍīká- (nominal stem)
 
 nā́dhamānam ← √nādh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒दा ग॑च्छाथ मरुत इ॒त्था विप्रं॒ हव॑मानम् ।  
+मा॒र्डी॒केभि॒र्नाध॑मानम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “suffer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

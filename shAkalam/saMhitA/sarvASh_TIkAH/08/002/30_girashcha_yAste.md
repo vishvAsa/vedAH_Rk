@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ satrā́ ← satrā́ (invariable)
 
 śávāṁsi ← śávas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गिर॑श्च॒ यास्ते॑ गिर्वाह उ॒क्था च॒ तुभ्यं॒ तानि॑ ।  
+स॒त्रा द॑धि॒रे शवां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,7 +183,6 @@ those which have in every way deployed their powers.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/002/29-30.md">
 <details><summary><h2>29-30 ...{Loading}...</h2></summary>
 
@@ -186,7 +190,6 @@ Verse 29 consists of a relative clause (beginning stútaś ca yā́ḥ) conjoine
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

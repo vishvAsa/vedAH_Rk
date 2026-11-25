@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अग्नियुतः स्थौरोग्नियूपो वा स्थौरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vigadéṣu ← vigadá- (nominal stem)
 
 vr̥śca ← √vr̥śc- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि ति॒ग्मानि॑ भ्रा॒शय॒न्भ्राश्या॒न्यव॑ स्थि॒रा त॑नुहि यातु॒जूना॑म् ।  
+उ॒ग्राय॑ ते॒ सहो॒ बलं॑ ददामि प्र॒तीत्या॒ शत्रू॑न्विग॒देषु॑ वृश्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “cleave; fell; cut off; hew.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

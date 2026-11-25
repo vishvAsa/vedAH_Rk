@@ -4,6 +4,7 @@ devataa = "ज्ञानं"
 RShiH = "बृहस्पतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ज्ञानं
@@ -86,7 +87,12 @@ apuṣpā́m ← apuṣpá- (nominal stem)
 
 vā́cam ← vā́c- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्वं॑ स॒ख्ये स्थि॒रपी॑तमाहु॒र्नैनं॑ हिन्व॒न्त्यपि॒ वाजि॑नेषु ।  
+अधे॑न्वा चरति मा॒ययै॒ष वाचं॑ शुश्रु॒वाँ अ॑फ॒लाम॑पु॒ष्पाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
     puṣpāñjana; puṣpa \[word\]; puṣpa; calx; flower.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

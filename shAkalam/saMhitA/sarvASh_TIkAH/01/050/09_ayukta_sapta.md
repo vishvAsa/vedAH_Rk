@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -57,7 +58,12 @@ tā́bhiḥ ← sá- ~ tá- (pronoun)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अयु॑क्त स॒प्त शु॒न्ध्युवः॒ सूरो॒ रथ॑स्य न॒प्त्यः॑ ।  
+ताभि॑र्याति॒ स्वयु॑क्तिभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
     consideration; addition.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -169,10 +174,6 @@ He has yoked the seven sleek daughters of the Sun’s chariot.
 With these of his own yoking he drives.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-sū́raḥ: Although most take this as nom. sg. (Grassmann, Geldner, Thieme, Lüders), Renou makes a good case for it as gen. sg. (followed, it seems, by Witzel Gotō), also adducing V.31.11 sū́raś cid rátham.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/050/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -180,7 +181,6 @@ I assume that the seven mares of vs. 8 are the same as the sleek daughters (śun
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

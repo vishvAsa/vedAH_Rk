@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ gā́yantaḥ ← √gā(y)- (root)
 
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं पु॒रू स॒हस्रा॑णि श॒तानि॑ च यू॒था दा॒नाय॑ मंहसे ।  
+आ पु॑रन्द॒रं च॑कृम॒ विप्र॑वचस॒ इन्द्रं॒ गाय॒न्तोऽव॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

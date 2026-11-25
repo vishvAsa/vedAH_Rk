@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ sasrā́the ← √sr̥- 1 (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वसू॑ रु॒द्रा पु॑रु॒मन्तू॑ वृ॒धन्ता॑ दश॒स्यतं॑ नो वृषणाव॒भिष्टौ॑ ।  
+दस्रा॑ ह॒ यद्रेक्ण॑ औच॒थ्यो वां॒ प्र यत्स॒स्राथे॒ अक॑वाभिरू॒ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

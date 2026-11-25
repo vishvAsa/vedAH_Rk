@@ -4,6 +4,7 @@ devataa = "गावः"
 RShiH = "शबरः काक्षीवतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -80,7 +81,12 @@ padváte ← padvánt- (nominal stem)
 
 rudra ← rudrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒यो॒भूर्वातो॑ अ॒भि वा॑तू॒स्रा ऊर्ज॑स्वती॒रोष॑धी॒रा रि॑शन्ताम् ।  
+पीव॑स्वतीर्जी॒वध॑न्याः पिबन्त्वव॒साय॑ प॒द्वते॑ रुद्र मृळ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “pardon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

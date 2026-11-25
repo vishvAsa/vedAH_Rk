@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 rūpā́ ← rūpá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सू म॒हे सु॑शर॒णाय॑ मे॒धां गिरं॑ भरे॒ नव्य॑सीं॒ जाय॑मानाम् ।  
+य आ॑ह॒ना दु॑हि॒तुर्व॒क्षणा॑सु रू॒पा मि॑ना॒नो अकृ॑णोदि॒दं नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

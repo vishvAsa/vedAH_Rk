@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ pávasva ← √pū- (root)
 
 sū́ryaḥ ← sū́rya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒धक्सो॑म स्व॒स्तये॑ संजग्मा॒नो दि॒वः क॒विः ।  
+पव॑स्व॒ सूर्यो॑ दृ॒शे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
     know; know; understand; understand; follow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,10 +165,6 @@ Separately [=unmixed], o Soma, and uniting (with milk), as poet  of heaven
 purify yourself for well-being and as the sun to be seen.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As indicated above (ad 28-30), I believe that the unmixed and mixed soma drinks are referred to here, though no interpr. I know of shares this opinion. The adv. ṛ́dhak (so accented) means ‘separately, apart’; the form ṛdhák with final accent is found only here, and it is difficult to assess what the accentual difference means: is it just a mistake or meaningless variant? or is it meant to signal some change in grammatical function or meaning? If we can fancifully imagine an internal derivation of adverbs quasi-parallel to that of bráhman- à brahmán-, yáśas- à yaśás-, perhaps ṛdhák refers to something characterized by separateness. With a further flight of fancy, we can suggest that this would be the unmixed soma, referred to unequivocally two vss. earlier as śukrá- (28c), and contrasting with the soma that “unites” (saṃjagmāná-) with milk, again straightforwardly referred to in 28c as gávāśir-. Although neither of the terms in vs. 30 is elsewhere used of a type of soma, at least as far as I know, the contrastive pairing was set up at the beginning of the tṛca and could, I would assert, have been decoded by a RVic audience and applied to the more opaque expressions here. I will not discuss the alternative interpr. (Geldner, Renou, Lüders 259, Ober I.457, II.143), which differ wildly from mine and from each other and, in the case of Geldner and Renou, depend on an out-of-date interpr. of ṛ́dhak.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -171,7 +172,6 @@ The contrast between the two types of soma drinks, pure and mixed with milk, are
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

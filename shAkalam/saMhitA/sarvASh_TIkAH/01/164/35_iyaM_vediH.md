@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ vācáḥ ← vā́c- (nominal stem)
 
 vyòma ← vyòman- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं वेदिः॒ परो॒ अन्तः॑ पृथि॒व्या अ॒यं य॒ज्ञो भुव॑नस्य॒ नाभिः॑ ।  
+अ॒यं सोमो॒ वृष्णो॒ अश्व॑स्य॒ रेतो॑ ब्र॒ह्मायं वा॒चः प॑र॒मं व्यो॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ piprīhí ← √prī- (root)
 
 súṣutasya ← súṣuta- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा न॑ इन्द्रो॒तिभि॑रव पा॒हि गृ॑ण॒तः शू॑र का॒रून् ।  
+उ॒त त्वचं॒ दद॑तो॒ वाज॑सातौ पिप्री॒हि मध्वः॒ सुषु॑तस्य॒ चारोः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

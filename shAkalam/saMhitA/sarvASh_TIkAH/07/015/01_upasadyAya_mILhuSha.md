@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ nédiṣṭham ← nédiṣṭha- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒प॒सद्या॑य मी॒ळ्हुष॑ आ॒स्ये॑ जुहुता ह॒विः ।  
+यो नो॒ नेदि॑ष्ठ॒माप्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “friendship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

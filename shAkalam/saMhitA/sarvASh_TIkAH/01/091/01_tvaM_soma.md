@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -89,13 +90,18 @@ dhī́rāḥ ← dhī́ra- (nominal stem)
 
 rátnam ← rátna- (nominal stem)  
 {case:NOM, gender:N, number:SG}
-
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्वम् । सो॒म॒ । प्र । चि॒कि॒तः॒ । म॒नी॒षा । त्वम् । रजि॑ष्ठम् । अनु॑ । ने॒षि॒ । पन्था॑म् ।  
 तव॑ । प्रऽनी॑ती । पि॒तरः॑ । नः॒ । इ॒न्दो॒ इति॑ । दे॒वेषु॑ । रत्न॑म् । अ॒भ॒ज॒न्त॒ । धीराः॑ ॥
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं सो॑म॒ प्र चि॑कितो मनी॒षा त्वं रजि॑ष्ठ॒मनु॑ नेषि॒ पन्था॑म् ।  
+तव॒ प्रणी॑ती पि॒तरो॑ न इन्दो दे॒वेषु॒ रत्न॑मभजन्त॒ धीराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “expert; wise; intelligent; versed; adept.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

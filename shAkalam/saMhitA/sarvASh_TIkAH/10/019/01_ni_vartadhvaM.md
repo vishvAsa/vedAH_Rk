@@ -4,6 +4,7 @@ devataa = "आपो गावो वा;अग्नीषोमौ"
 RShiH = "मथितो यामायनो भृगुर्वा वारुणिश्च्यवनो वा भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपो गावो वा;अग्नीषोमौ
@@ -71,7 +72,12 @@ dhārayatam ← √dhr̥- (root)
 
 rayím ← rayí- ~ rāy- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि व॑र्तध्वं॒ मानु॑ गाता॒स्मान्त्सि॑षक्त रेवतीः ।  
+अग्नी॑षोमा पुनर्वसू अ॒स्मे धा॑रयतं र॒यिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

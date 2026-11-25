@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sásmin ← sá- ~ tá- (pronoun)
 
 víṣurūpe ← víṣurūpa- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ व॒ एषे॒ नम॑सा जिगी॒षोषासा॒नक्ता॑ सु॒दुघे॑व धे॒नुः ।  
+स॒मा॒ने अह॑न्वि॒मिमा॑नो अ॒र्कं विषु॑रूपे॒ पय॑सि॒ सस्मि॒न्नूध॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “udder; ūdhas \[word\]; night.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

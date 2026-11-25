@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ bíbhrat ← √bhr̥- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यन्न॒ इन्द्रो॑ जुजु॒षे यच्च॒ वष्टि॒ तन्नो॑ म॒हान्क॑रति शु॒ष्म्या चि॑त् ।  
+ब्रह्म॒ स्तोमं॑ म॒घवा॒ सोम॑मु॒क्था यो अश्मा॑नं॒ शव॑सा॒ बिभ्र॒देति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -274,7 +280,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

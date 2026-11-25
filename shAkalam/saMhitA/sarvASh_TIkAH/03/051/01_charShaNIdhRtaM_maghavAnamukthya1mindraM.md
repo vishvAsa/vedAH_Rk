@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ divé-dive ← dyú- ~ div- (nominal stem)
 
 járamāṇam ← √gr̥- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒र्ष॒णी॒धृतं॑ म॒घवा॑नमु॒क्थ्य१॒॑मिन्द्रं॒ गिरो॑ बृह॒तीर॒भ्य॑नूषत ।  
+वा॒वृ॒धा॒नं पु॑रुहू॒तं सु॑वृ॒क्तिभि॒रम॑र्त्यं॒ जर॑माणं दि॒वेदि॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “day; sky; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

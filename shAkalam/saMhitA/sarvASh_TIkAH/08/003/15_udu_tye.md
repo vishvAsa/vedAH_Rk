@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ ráthāḥ ← rátha- (nominal stem)
 
 vājayántaḥ ← √vājay- 2 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒ त्ये मधु॑मत्तमा॒ गिरः॒ स्तोमा॑स ईरते ।  
+स॒त्रा॒जितो॑ धन॒सा अक्षि॑तोतयो वाज॒यन्तो॒ रथा॑ इव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

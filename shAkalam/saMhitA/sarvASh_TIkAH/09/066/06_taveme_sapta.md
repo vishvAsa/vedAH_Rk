@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ dhenávaḥ ← dhenú- (nominal stem)
 
 túbhyam ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तवे॒मे स॒प्त सिन्ध॑वः प्र॒शिषं॑ सोम सिस्रते ।  
+तुभ्यं॑ धावन्ति धे॒नवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “cow; dhenu \[word\]; milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -157,7 +162,6 @@ Yours are these seven streams that flow forth to your command, Soma. For you do 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -165,7 +169,6 @@ This tṛca does not show particular internal cohesion, but it has striking echo
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

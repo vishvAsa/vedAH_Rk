@@ -4,6 +4,7 @@ devataa = "शुनासीरौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शुनासीरौ
@@ -89,7 +90,12 @@ dhattam ← √dhā- 1 (root)
 
 śúnāsīrā ← śunāsīra- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒नं नः॒ फाला॒ वि कृ॑षन्तु॒ भूमिं॑ शु॒नं की॒नाशा॑ अ॒भि य॑न्तु वा॒हैः ।  
+शु॒नं प॒र्जन्यो॒ मधु॑ना॒ पयो॑भिः॒ शुना॑सीरा शु॒नम॒स्मासु॑ धत्तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ kṣoṇī́ḥ ← kṣoṇí- ~ kṣoṇī́- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येना॑ समु॒द्रमसृ॑जो म॒हीर॒पस्तदि॑न्द्र॒ वृष्णि॑ ते॒ शवः॑ ।  
+स॒द्यः सो अ॑स्य महि॒मा न सं॒नशे॒ यं क्षो॒णीर॑नुचक्र॒दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - \[verb\], singular, Perfect indicative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,12 +254,6 @@ With which you sent the great waters surging to the sea, that is your  bullish v
 In a single day that greatness of his cannot be fully attained, toward  which the battle-cry has roared.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-For vṛ́ṣṇi and the phrase vṛ́ṣṇi te śávaḥ see disc. ad VIII.96.19.
-
-Thieme (KZ 92: 46) rejects the usual interpr. of kṣonī́ḥ as nom. sg., on the grounds that the nom. sg. is attested as kṣoṇī́in I.180.5 and that kṣoṇī́ḥ is otherwise nom. or acc. pl. However, this requires him to interpr. it as an acc. pl. of Inhalts or result with a passive verb: “dem (d.h.: wenn ihm) Gebrüll (aufrüttelndes Kampfgechrei) hinterhergeschreien worden ist.” The syntactic complications of this interpr. seem to me to outweigh the drawbacks of assuming that the poorly attested stem kṣoṇī́- could generate a nom. sg. in -ī́s, esp. since its suffixal accent matches that of vṛkī́-type nouns.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -266,7 +265,6 @@ In 9c a verb needs to be supplied. Although the sentiment seems to be essentiall
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

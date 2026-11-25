@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वृषाकपिः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -85,7 +86,12 @@ yásyāḥ ← yá- (pronoun)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पर्शु॑र्ह॒ नाम॑ मान॒वी सा॒कं स॑सूव विंश॒तिम् ।  
+भ॒द्रं भ॑ल॒ त्यस्या॑ अभू॒द्यस्या॑ उ॒दर॒माम॑य॒द्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -228,7 +233,7 @@ We also suspect that in the last ṛk of the sūkta, there is an allusion to the
 
 Sāyaṇa translates, "O arrow I Manu's daughter, named Parśu, gave birth to twenty (sons) together. Let her whose belly was big be happy! Indra is in the upper (portion) of the universe." I cannot, however, understand what it means. Parshu, according to Sāyaṇa, is a Mr̥gī or a female antelope. But why address the arrow to give happiness to her ? Can it have any reference to the arrow with which Orion was killed ? Then who are these twenty sons ? Are they the same as twenty mentioned in verse 14 ? Is it likely that twenty alone are mentioned leaving the additional fifteen to be understood from the context?
 
-The concluding verse undoubtedly appears to be benedictory. But I have not found a satisfactory solution of the above questions, Perhaps bhala meaning 'auspicious,' may be used for Vr̥ṣākapi, and Indra addressing him pronounces benediction on the female that gave birth to the yellow antelope and several other stars that are supposed to be either killed or swallowed by Indra in this hymn. But I cannot speak with certainty on the point and must leave the verse as it is. 
+The concluding verse undoubtedly appears to be benedictory. But I have not found a satisfactory solution of the above questions, Perhaps bhala meaning 'auspicious,' may be used for Vr̥ṣākapi, and Indra addressing him pronounces benediction on the female that gave birth to the yellow antelope and several other stars that are supposed to be either killed or swallowed by Indra in this hymn. But I cannot speak with certainty on the point and must leave the verse as it is.
 </details>
 
 <details><summary>Wilson</summary>

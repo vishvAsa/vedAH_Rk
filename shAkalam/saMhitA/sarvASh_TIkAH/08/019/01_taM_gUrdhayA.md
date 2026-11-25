@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ havyám ← havyá- (nominal stem)
 
 ūhire ← √vah- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं गू॑र्धया॒ स्व॑र्णरं दे॒वासो॑ दे॒वम॑र॒तिं द॑धन्विरे ।  
+दे॒व॒त्रा ह॒व्यमोहि॑रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “bring; marry; cause; run; perform; exude.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

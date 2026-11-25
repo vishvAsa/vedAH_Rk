@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ deváhūtiṣu ← deváhūti- (nominal stem)
 
 eṣām ← ayám (pronoun)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दश॒ राजा॑नः॒ समि॑ता॒ अय॑ज्यवः सु॒दास॑मिन्द्रावरुणा॒ न यु॑युधुः ।  
+स॒त्या नृ॒णाम॑द्म॒सदा॒मुप॑स्तुतिर्दे॒वा ए॑षामभवन्दे॒वहू॑तिषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

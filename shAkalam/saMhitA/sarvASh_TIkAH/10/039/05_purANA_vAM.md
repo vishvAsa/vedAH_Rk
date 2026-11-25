@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -104,7 +105,12 @@ nāsatyā ← nā́satya- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रा॒णा वां॑ वी॒र्या॒३॒॑ प्र ब्र॑वा॒ जनेऽथो॑ हासथुर्भि॒षजा॑ मयो॒भुवा॑ ।  
+ता वां॒ नु नव्या॒वव॑से करामहे॒ऽयं ना॑सत्या॒ श्रद॒रिर्यथा॒ दध॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -270,7 +276,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

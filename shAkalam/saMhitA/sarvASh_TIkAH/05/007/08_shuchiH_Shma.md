@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ krāṇā́ ← √kr̥- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुचिः॑ ष्म॒ यस्मा॑ अत्रि॒वत्प्र स्वधि॑तीव॒ रीय॑ते ।  
+सु॒षूर॑सूत मा॒ता क्रा॒णा यदा॑न॒शे भग॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     well-being; happiness; overlord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

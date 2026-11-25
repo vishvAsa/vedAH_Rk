@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ nákiḥ ← nákiḥ (invariable)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नू॒नं यदि॑न्द्रि॒यं क॑रि॒ष्या इ॑न्द्र॒ पौंस्य॑म् ।  
+अ॒द्या नकि॒ष्टदा मि॑नत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “transgress; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

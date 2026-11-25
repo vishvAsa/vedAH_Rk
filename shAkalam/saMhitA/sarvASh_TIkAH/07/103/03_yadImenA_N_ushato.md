@@ -4,6 +4,7 @@ devataa = "मंडूकाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मंडूकाः
@@ -86,7 +87,12 @@ eti ← √i- 1 (root)
 
 vádantam ← √vadⁱ- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदी॑मेनाँ उश॒तो अ॒भ्यव॑र्षीत्तृ॒ष्याव॑तः प्रा॒वृष्याग॑तायाम् ।  
+अ॒ख्ख॒ली॒कृत्या॑ पि॒तरं॒ न पु॒त्रो अ॒न्यो अ॒न्यमुप॒ वद॑न्तमेति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

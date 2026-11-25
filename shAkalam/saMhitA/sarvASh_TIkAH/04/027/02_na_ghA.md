@@ -4,6 +4,7 @@ devataa = "श्येनः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्येनः
@@ -92,7 +93,12 @@ utá ← utá (invariable)
 
 vā́tān ← vā́ta- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न घा॒ स मामप॒ जोषं॑ जभारा॒भीमा॑स॒ त्वक्ष॑सा वी॒र्ये॑ण ।  
+ई॒र्मा पुरं॑धिरजहा॒दरा॑तीरु॒त वाताँ॑ अतर॒च्छूशु॑वानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “swell; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

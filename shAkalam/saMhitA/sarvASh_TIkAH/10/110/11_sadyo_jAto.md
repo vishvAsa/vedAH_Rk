@@ -4,6 +4,7 @@ devataa = "स्वाहाकृतयः"
 RShiH = "जमदग्निस्तत्सुतो वा रामः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वाहाकृतयः
@@ -86,7 +87,12 @@ havíḥ ← havís- (nominal stem)
 
 svā́hākr̥tam ← svā́hākr̥ta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒द्यो जा॒तो व्य॑मिमीत य॒ज्ञम॒ग्निर्दे॒वाना॑मभवत्पुरो॒गाः ।  
+अ॒स्य होतुः॑ प्र॒दिश्यृ॒तस्य॑ वा॒चि स्वाहा॑कृतं ह॒विर॑दन्तु दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

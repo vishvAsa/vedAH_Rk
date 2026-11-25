@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -83,7 +84,12 @@ svayám ← svayám (invariable)
 
 yahvī́ḥ ← yahvī́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मिन्प॒दे प॑र॒मे त॑स्थि॒वांस॑मध्व॒स्मभि॑र्वि॒श्वहा॑ दीदि॒वांस॑म् ।  
+आपो॒ नप्त्रे॑ घृ॒तमन्नं॒ वह॑न्तीः स्व॒यमत्कैः॒ परि॑ दीयन्ति य॒ह्वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “river.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

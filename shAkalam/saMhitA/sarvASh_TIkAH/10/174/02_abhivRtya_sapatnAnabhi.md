@@ -4,6 +4,7 @@ devataa = "राज्ञस्तुतिः"
 RShiH = "अभीवर्तः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राज्ञस्तुतिः
@@ -71,7 +72,12 @@ naḥ ← ahám (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि॒वृत्य॑ स॒पत्ना॑न॒भि या नो॒ अरा॑तयः ।  
+अ॒भि पृ॑त॒न्यन्तं॑ तिष्ठा॒भि यो न॑ इर॒स्यति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “envy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

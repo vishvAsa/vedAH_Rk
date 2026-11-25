@@ -4,6 +4,7 @@ devataa = "वाक्"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाक्
@@ -74,7 +75,12 @@ devéṣu ← devá- (nominal stem)
 
 śrávaḥ ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒स॒र्प॒रीरम॑तिं॒ बाध॑माना बृ॒हन्मि॑माय ज॒मद॑ग्निदत्ता ।  
+आ सूर्य॑स्य दुहि॒ता त॑तान॒ श्रवो॑ दे॒वेष्व॒मृत॑मजु॒र्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “ageless; amaranthine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -214,7 +219,6 @@ Jamadagnis’]) fame, immortal and unaging, to the gods.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/15-16.md">
 <details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -233,7 +237,6 @@ The next question to ask is why Sasarparī “banishes neglect” (ámatim bā́
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

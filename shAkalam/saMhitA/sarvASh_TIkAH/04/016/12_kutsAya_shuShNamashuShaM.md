@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sū́raḥ ← svàr- (nominal stem)
 
 vr̥hatāt ← √vr̥h- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कुत्सा॑य॒ शुष्ण॑म॒शुषं॒ नि ब॑र्हीः प्रपि॒त्वे अह्नः॒ कुय॑वं स॒हस्रा॑ ।  
+स॒द्यो दस्यू॒न्प्र मृ॑ण कु॒त्स्येन॒ प्र सूर॑श्च॒क्रं वृ॑हताद॒भीके॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “battle; meeting.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

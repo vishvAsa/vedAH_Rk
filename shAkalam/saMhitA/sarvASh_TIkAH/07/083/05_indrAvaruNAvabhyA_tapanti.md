@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -92,7 +93,12 @@ pā́rye ← pā́rya- (nominal stem)
 
 sma ← sma (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑वरुणाव॒भ्या त॑पन्ति मा॒घान्य॒र्यो व॒नुषा॒मरा॑तयः ।  
+यु॒वं हि वस्व॑ उ॒भय॑स्य॒ राज॒थोऽध॑ स्मा नोऽवतं॒ पार्ये॑ दि॒वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

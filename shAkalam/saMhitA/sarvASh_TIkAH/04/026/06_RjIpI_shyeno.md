@@ -4,6 +4,7 @@ devataa = "श्येनः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्येनः
@@ -80,7 +81,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 úttarāt ← úttara- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒जी॒पी श्ये॒नो दद॑मानो अं॒शुं प॑रा॒वतः॑ शकु॒नो म॒न्द्रं मद॑म् ।  
+सोमं॑ भरद्दादृहा॒णो दे॒वावा॑न्दि॒वो अ॒मुष्मा॒दुत्त॑रादा॒दाय॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     impound; keep; eat; use; distill.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -222,14 +227,6 @@ Flying straight, the falcon, the bird, hanging onto the plant, brought  from afa
 the soma, holding it firmly, having the gods on his side, having taken it  from yonder high heaven.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Three of the four cadences in this verse are bad (b, c, d).
-
-ṛjīpín- (2x) must be closely related to better-attested ṛjipyá- (6x), which also has Iranian cognates, e.g., Aves. ərəzifiia-. Werba bei EWA, s.v., suggests that it is a contamination with ṛjīṣín-, which seems a promising suggestion.
-
-Goto (1st Kl, 171-72, flg. Wackernagel) argues that the thematic middle dádate is synchronicially distinct from √dā 'give' and means 'keep safe'. My ‘hanging onto’ represents a compromise between such a rendering and ‘take’, the standard sense of medial (ā́) √dā (see 7a ādā́ya).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
 <details><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -237,7 +234,6 @@ The 3rd sg. act. impf./injunc. of √bhṛ is the “hero” of this, the mythol
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ satyáḥ ← satyá- (nominal stem)
 
 vidhántam ← √vidh- (root)  
 {case:ACC, gender:M, number:SG, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सनि॑ता॒ विप्रो॒ अर्व॑द्भि॒र्हन्ता॑ वृ॒त्रं नृभिः॒ शूरः॑ ।  
+स॒त्यो॑ऽवि॒ता वि॒धन्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “worship; offer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

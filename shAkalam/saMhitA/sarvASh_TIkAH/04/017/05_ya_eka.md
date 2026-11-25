@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ maghónaḥ ← maghávan- (nominal stem)
 
 rātím ← rātí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य एक॑ इच्च्या॒वय॑ति॒ प्र भूमा॒ राजा॑ कृष्टी॒नां पु॑रुहू॒त इन्द्रः॑ ।  
+स॒त्यमे॑न॒मनु॒ विश्वे॑ मदन्ति रा॒तिं दे॒वस्य॑ गृण॒तो म॒घोनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “Indra; maghavan \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

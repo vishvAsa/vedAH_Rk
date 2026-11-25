@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ hariśríyam ← hariśrī́- (nominal stem)
 
 ulokakr̥tnúm ← ulokakr̥tnú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं ते॒ मदं॑ गृणीमसि॒ वृष॑णं पृ॒त्सु सा॑स॒हिम् ।  
+उ॒ लो॒क॒कृ॒त्नुम॑द्रिवो हरि॒श्रिय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
     \[word\]; śrī; prosperity; auspiciousness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

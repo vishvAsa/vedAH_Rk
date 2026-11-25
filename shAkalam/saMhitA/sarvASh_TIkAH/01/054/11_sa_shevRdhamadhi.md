@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ rāyé ← rayí- ~ rāy- (nominal stem)
 
 svapatyaí ← svapatyá- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स शेवृ॑ध॒मधि॑ धा द्यु॒म्नम॒स्मे महि॑ क्ष॒त्रं ज॑ना॒षाळि॑न्द्र॒ तव्य॑म् ।  
+रक्षा॑ च नो म॒घोनः॑ पा॒हि सू॒रीन्रा॒ये च॑ नः स्वप॒त्या इ॒षे धाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -259,7 +265,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

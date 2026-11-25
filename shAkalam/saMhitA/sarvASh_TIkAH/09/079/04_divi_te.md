@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -98,7 +99,12 @@ manīṣíṇaḥ ← manīṣín- (nominal stem)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वि ते॒ नाभा॑ पर॒मो य आ॑द॒दे पृ॑थि॒व्यास्ते॑ रुरुहुः॒ सान॑वि॒ क्षिपः॑ ।  
+अद्र॑यस्त्वा बप्सति॒ गोरधि॑ त्व॒च्य१॒॑प्सु त्वा॒ हस्तै॑र्दुदुहुर्मनी॒षिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “sage; expert; devout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

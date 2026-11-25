@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "केतुराग्नेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ naḥ ← ahám (pronoun)
 
 tā́m ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यया॒ गा आ॒करा॑महे॒ सेन॑याग्ने॒ तवो॒त्या ।  
+तां नो॑ हिन्व म॒घत्त॑ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - \[noun\], dative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sómaiḥ ← sóma- (nominal stem)
 
 tīvraíḥ ← tīvrá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विशं॑विशं म॒घवा॒ पर्य॑शायत॒ जना॑नां॒ धेना॑ अव॒चाक॑श॒द्वृषा॑ ।  
+यस्याह॑ श॒क्रः सव॑नेषु॒ रण्य॑ति॒ स ती॒व्रैः सोमैः॑ सहते पृतन्य॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “attack.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

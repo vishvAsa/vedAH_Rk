@@ -4,6 +4,7 @@ devataa = "विश्वेदेवा ऋत्विजो वा"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -86,7 +87,12 @@ tátra ← tátra (invariable)
 
 yájamānasya ← √yaj- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यमृ॒त्विजो॑ बहु॒धा क॒ल्पय॑न्तः॒ सचे॑तसो य॒ज्ञमि॒मं वह॑न्ति ।  
+यो अ॑नूचा॒नो ब्रा॑ह्म॒णो यु॒क्त आ॑सी॒त्का स्वि॒त्तत्र॒ यज॑मानस्य सं॒वित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “agreement; cannabis; plan; rendezvous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

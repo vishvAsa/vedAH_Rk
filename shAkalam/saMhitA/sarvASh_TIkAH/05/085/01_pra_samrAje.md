@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -86,7 +87,12 @@ sū́ryāya ← sū́rya- (nominal stem)
 
 upastíre ← upastír- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स॒म्राजे॑ बृ॒हद॑र्चा गभी॒रं ब्रह्म॑ प्रि॒यं वरु॑णाय श्रु॒ताय॑ ।  
+वि यो ज॒घान॑ शमि॒तेव॒ चर्मो॑प॒स्तिरे॑ पृथि॒वीं सूर्या॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

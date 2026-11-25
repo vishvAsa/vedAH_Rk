@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -61,7 +62,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्व॒राजे॒ अदि॑तिः॒ स्तोम॒मिन्द्रा॑य जीजनत् ।  
+पु॒रु॒प्र॒श॒स्तमू॒तय॑ ऋ॒तस्य॒ यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “who; which; yat \[pronoun\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -179,7 +184,6 @@ And Aditi gave birth to the praise song for Indra, the sovereign king, (the song
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -187,7 +191,6 @@ Lüders (Varuṇa 450) comments about the tṛca that it concerns only the songs
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

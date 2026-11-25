@@ -4,6 +4,7 @@ devataa = "अग्निसूर्यानिलाः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निसूर्यानिलाः
@@ -73,7 +74,12 @@ vātu ← √vā- 1 (root)
 
 srídhaḥ ← srídh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शम॒ग्निर॒ग्निभिः॑ कर॒च्छं न॑स्तपतु॒ सूर्यः॑ ।  
+शं वातो॑ वात्वर॒पा अप॒ स्रिधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “failure; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

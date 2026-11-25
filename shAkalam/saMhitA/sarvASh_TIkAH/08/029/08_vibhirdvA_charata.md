@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः कश्यपो वा मारीचः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -55,7 +56,11 @@ pravāsā́ ← pravāsá- (nominal stem)
 
 vasataḥ ← √vas- 3 (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विभि॒र्द्वा च॑रत॒ एक॑या स॒ह प्र प्र॑वा॒सेव॑ वसतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +127,6 @@ _________
 - “stay; dwell; get stale; be situated; exist; continue; bide.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

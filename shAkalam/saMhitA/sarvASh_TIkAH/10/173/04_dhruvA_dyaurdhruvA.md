@@ -4,6 +4,7 @@ devataa = "राज्ञस्तुतिः"
 RShiH = "ध्रुवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राज्ञस्तुतिः
@@ -77,7 +78,12 @@ rā́jā ← rā́jan- (nominal stem)
 
 viśā́m ← víś- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ध्रु॒वा द्यौर्ध्रु॒वा पृ॑थि॒वी ध्रु॒वासः॒ पर्व॑ता इ॒मे ।  
+ध्रु॒वं विश्व॑मि॒दं जग॑द्ध्रु॒वो राजा॑ वि॒शाम॒यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भौमोत्रिः"
 ChandaH = "विराट्पूर्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -93,7 +94,12 @@ gr̥ṇátsu ← √gr̥̄- 1 (root)
 
 íṣam ← íṣ- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वेन्द्रा॒ग्निभ्या॒महा॑वि ह॒व्यं शू॒ष्यं॑ घृ॒तं न पू॒तमद्रि॑भिः ।  
+ता सू॒रिषु॒ श्रवो॑ बृ॒हद्र॒यिं गृ॒णत्सु॑ दिधृत॒मिषं॑ गृ॒णत्सु॑ दिधृतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     begin; dip.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

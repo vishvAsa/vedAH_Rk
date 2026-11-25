@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ rathíne ← rathín- (nominal stem)
 
 śaktam ← √śak- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वां ह॒ घोषा॒ पर्य॑श्विना य॒ती राज्ञ॑ ऊचे दुहि॒ता पृ॒च्छे वां॑ नरा ।  
+भू॒तं मे॒ अह्न॑ उ॒त भू॑तम॒क्तवेऽश्वा॑वते र॒थिने॑ शक्त॒मर्व॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “running.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

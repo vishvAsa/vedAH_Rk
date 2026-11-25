@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -70,7 +71,12 @@ adhvaré ← adhvará- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मां त॑ इन्द्र सुष्टु॒तिं विप्र॑ इयर्ति धी॒तिभिः॑ ।  
+जा॒मिं प॒देव॒ पिप्र॑तीं॒ प्राध्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -189,12 +194,6 @@ _________
 The inspired poet, through his insights, raises this good praise to you, Indra, which guides its kin safely across, like footsteps, while the ceremony is  pro(ceeding).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Pāda c presents some difficulties of interpretation, in particular how to distribute the three accusatives jāmím, padā́, and pípratīm. The last, a participle, takes padám as object in IX.10.7 (adduced by both Oldenberg and Geldner): padám ékasya píprataḥ “guiding the track of the lone one safely across.” But it also takes personal objects, as in nearby VIII.6.2 prajā́m rtásya p ̥ íprataḥ “guiding the child of truth [=poem] safely across.” I therefore take it as a semantically mixed construction, with jāmím ‘kin’ (which in this case, as in VIII.6.2, would be a poem or hymn) in the frame and ‘footsteps’ in the simile. By contrast, Geldner takes jāmím as the subject of the simile, parallel to suṣṭutím: “die wie eine Schwester deine Schritte geleitet.” His interpretation reads better, but ignores the position of iva and also the contrasting constructions of the participle píprat- elsewhere. By my interpretation the point is that the suṣṭutí- produced in ab takes the rest of the verbal portion of the sacrifice along with it to the god.
-
-I take the refrain prā́dhvaré as a (quasi) locative absolute, as in VIII.46.18, rather than as integrated into what precedes.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/31-33.md">
 <details><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -202,7 +201,6 @@ This tṛca is unified by the 4-syllable pāda prā́dhvaré. This pāda appears
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "वसिष्ठपुत्राः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वसिष्ठपुत्राः
@@ -83,7 +84,12 @@ tŕ̥tsūnām ← tŕ̥tsu- (nominal stem)
 
 víśaḥ ← víś- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒ण्डा इ॒वेद्गो॒अज॑नास आस॒न्परि॑च्छिन्ना भर॒ता अ॑र्भ॒कासः॑ ।  
+अभ॑वच्च पुरए॒ता वसि॑ष्ठ॒ आदित्तृत्सू॑नां॒ विशो॑ अप्रथन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “be known; expand; expand; boom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पितृमेधः"
 RShiH = "सङ्कुसुको यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पितृमेधः
@@ -80,7 +81,12 @@ tvā ← tvám (pronoun)
 
 upásthāt ← upástha- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ सर्प मा॒तरं॒ भूमि॑मे॒तामु॑रु॒व्यच॑सं पृथि॒वीं सु॒शेवा॑म् ।  
+ऊर्ण॑म्रदा युव॒तिर्दक्षि॑णावत ए॒षा त्वा॑ पातु॒ निरृ॑तेरु॒पस्था॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “genitalia; lap; sexual desire; anus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -83,7 +84,12 @@ samānám ← samāná- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒भ्राज॑मान उ॒षसा॑मु॒पस्था॑द्रे॒भैरुदे॑त्यनुम॒द्यमा॑नः ।  
+ए॒ष मे॑ दे॒वः स॑वि॒ता च॑च्छन्द॒ यः स॑मा॒नं न प्र॑मि॒नाति॒ धाम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     location.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

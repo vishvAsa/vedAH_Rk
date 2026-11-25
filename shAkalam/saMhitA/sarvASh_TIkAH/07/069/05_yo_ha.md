@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ vahatam ← √vah- (root)
 
 yajñé ← yajñá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो ह॒ स्य वां॑ रथिरा॒ वस्त॑ उ॒स्रा रथो॑ युजा॒नः प॑रि॒याति॑ व॒र्तिः ।  
+तेन॑ नः॒ शं योरु॒षसो॒ व्यु॑ष्टौ॒ न्य॑श्विना वहतं य॒ज्ञे अ॒स्मिन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

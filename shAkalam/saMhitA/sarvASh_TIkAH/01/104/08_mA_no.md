@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -107,7 +108,12 @@ pā́trā ← pā́tra- (nominal stem)
 
 sahájānuṣāṇi ← sahájānuṣa- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ वधीरिन्द्र॒ मा परा॑ दा॒ मा नः॑ प्रि॒या भोज॑नानि॒ प्र मो॑षीः ।  
+आ॒ण्डा मा नो॑ मघवञ्छक्र॒ निर्भे॒न्मा नः॒ पात्रा॑ भेत्स॒हजा॑नुषाणि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -278,7 +284,6 @@ _________
 - \[noun\], accusative, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

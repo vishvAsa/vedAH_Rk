@@ -4,6 +4,7 @@ devataa = "श्रुतर्वण आर्क्षस्य दानस�
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रुतर्वण आर्क्षस्य दानस्तुतिः
@@ -68,7 +69,12 @@ vákṣan ← √vah- (root)
 
 váyaḥ ← ví- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मां च॒त्वार॑ आ॒शवः॒ शवि॑ष्ठस्य द्रवि॒त्नवः॑ ।  
+सु॒रथा॑सो अ॒भि प्रयो॒ वक्ष॒न्वयो॒ न तुग्र्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

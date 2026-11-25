@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -58,7 +59,11 @@ práṇak ← √naś- 1 (root)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सने॑म्य॒स्मद्यु॒योत॑ दि॒द्युं मा वो॑ दुर्म॒तिरि॒ह प्रण॑ङ्नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +130,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

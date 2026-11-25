@@ -4,6 +4,7 @@ devataa = "धाता"
 RShiH = "सङ्कुसुको यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - धाता
@@ -89,7 +90,12 @@ evá ← evá (invariable)
 
 kalpaya ← √kl̥p- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथाहा॑न्यनुपू॒र्वं भव॑न्ति॒ यथ॑ ऋ॒तव॑ ऋ॒तुभि॒र्यन्ति॑ सा॒धु ।  
+यथा॒ न पूर्व॒मप॑रो॒ जहा॑त्ये॒वा धा॑त॒रायूं॑षि कल्पयैषाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

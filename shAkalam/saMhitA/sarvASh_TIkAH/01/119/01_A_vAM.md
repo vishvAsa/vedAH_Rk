@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ práyaḥ ← práyas- (nominal stem)
 
 varivodhā́m ← varivodhā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ रथं॑ पुरुमा॒यं म॑नो॒जुवं॑ जी॒राश्वं॑ य॒ज्ञियं॑ जी॒वसे॑ हुवे ।  
+स॒हस्र॑केतुं व॒निनं॑ श॒तद्व॑सुं श्रुष्टी॒वानं॑ वरिवो॒धाम॒भि प्रयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “food; dainty; enjoyment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

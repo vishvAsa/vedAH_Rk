@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -63,7 +64,12 @@ ná ← ná (invariable)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒गः पन्था॑ अनृक्ष॒र आदि॑त्यास ऋ॒तं य॒ते ।  
+नात्रा॑वखा॒दो अ॑स्ति वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

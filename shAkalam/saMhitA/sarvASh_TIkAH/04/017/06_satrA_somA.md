@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ kr̥ṣṭī́ḥ ← kr̥ṣṭí- (nominal stem)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒त्रा सोमा॑ अभवन्नस्य॒ विश्वे॑ स॒त्रा मदा॑सो बृह॒तो मदि॑ष्ठाः ।  
+स॒त्राभ॑वो॒ वसु॑पति॒र्वसू॑नां॒ दत्रे॒ विश्वा॑ अधिथा इन्द्र कृ॒ष्टीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “people; citizenry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,12 +253,6 @@ Entirely the goods-lord of goods you became. You placed all the
 separate peoples in (the path of) your giving, Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In pāda a the word víśve was omitted in the published translation, which should be emended to “Entirely his were all the soma-drinks.” The three initial satrā́(a, b, c) are echoed by dátre beginning d. Although there is some dissension on the root etym. of dátra- (cf., e.g., Oldenberg, who cites Neisser derivation from dáyate ‘apportion’ -- an analysis apparently followed by both Geldner and Witzel Gotō, judging from their tr. ‘Anteil’), the correct analysis was already sketched by Grassmann s.v.: it is a -tra- deriv. built to the weak stem of the redupl. pres. to √dā ‘give’ (dad-), hence *dáttra, with simplification of the geminate before r, as often. See AiG II.2.703 and the important (if lapidary) correction in the Nachtr. to AiG I: Nachtr. p.
-
-3, to I.5 ll. 30-31.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -261,7 +260,6 @@ I take the idiom found in 6d and 7b, LOC. ACC. adhithāḥ, as meaning ‘put s.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

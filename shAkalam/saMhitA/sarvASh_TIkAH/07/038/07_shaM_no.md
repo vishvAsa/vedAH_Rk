@@ -4,6 +4,7 @@ devataa = "वाजिनः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाजिनः
@@ -80,7 +81,12 @@ sánemi ← sánemi- (nominal stem)
 
 yuyavan ← √yu- 2 (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नो॑ भवन्तु वा॒जिनो॒ हवे॑षु दे॒वता॑ता मि॒तद्र॑वः स्व॒र्काः ।  
+ज॒म्भय॒न्तोऽहिं॒ वृकं॒ रक्षां॑सि॒ सने॑म्य॒स्मद्यु॑यव॒न्नमी॑वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “disease; affliction.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -229,10 +234,6 @@ Crushing the serpent, the wolf, the demonic powers, they will keep
 afflictions away from us, bag and baggage.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The cmpd. sanemí- lit. means ‘along with its/the felly’ (see, e.g., AiG III.75, EWA s.v. némi-), but is a way to express ‘entirely’ (“felly and all”): “with all its gear,” “bag and baggage,” “lock, stock, and barrel” are idiomatic English equivalents.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/038/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -242,7 +243,6 @@ And there are numerous phraseological parallels that support the identification.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

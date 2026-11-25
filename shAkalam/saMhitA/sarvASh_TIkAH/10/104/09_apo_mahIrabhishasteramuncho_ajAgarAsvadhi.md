@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्टको वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ tanvàm ← tanū́- (nominal stem)
 
 viśvā́yuḥ ← viśvā́yu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पो म॒हीर॒भिश॑स्तेरमु॒ञ्चोऽजा॑गरा॒स्वधि॑ दे॒व एकः॑ ।  
+इन्द्र॒ यास्त्वं वृ॑त्र॒तूर्ये॑ च॒कर्थ॒ ताभि॑र्वि॒श्वायु॑स्त॒न्वं॑ पुपुष्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “boom; grow; promote; foster.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

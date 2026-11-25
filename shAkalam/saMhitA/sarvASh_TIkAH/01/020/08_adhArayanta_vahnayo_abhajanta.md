@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -51,7 +52,12 @@ devéṣu ← devá- (nominal stem)
 
 yajñíyam ← yajñíya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑रयन्त॒ वह्न॒योऽभ॑जन्त सुकृ॒त्यया॑ ।  
+भा॒गं दे॒वेषु॑ य॒ज्ञिय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +123,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

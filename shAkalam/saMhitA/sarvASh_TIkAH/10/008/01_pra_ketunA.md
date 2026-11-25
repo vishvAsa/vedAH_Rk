@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ upásthe ← upástha- (nominal stem)
 
 vavardha ← √vr̥dh- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र के॒तुना॑ बृह॒ता या॑त्य॒ग्निरा रोद॑सी वृष॒भो रो॑रवीति ।  
+दि॒वश्चि॒दन्ताँ॑ उप॒माँ उदा॑नळ॒पामु॒पस्थे॑ महि॒षो व॑वर्ध ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ kát ← ká- (pronoun)
 
 śárave ← śáru- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था म॒हे पु॑ष्टिम्भ॒राय॑ पू॒ष्णे कद्रु॒द्राय॒ सुम॑खाय हवि॒र्दे ।  
+कद्विष्ण॑व उरुगा॒याय॒ रेतो॒ ब्रवः॒ कद॑ग्ने॒ शर॑वे बृह॒त्यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,23 +247,6 @@ How (will you speak) to great Pūṣan who brings prosperity, what to  Rudra, th
 what to wide-striding Viṣṇu, (for him to give) semen? What will you say,  Agni, to (Rudra’s) lofty arrow?
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the benevolent Rudra see comm. ad vss. 5-8. It is not clear why or how Rudra is the giver of the oblation. Oldenberg (see also Witzel Gotō’s n.) suggests that it is in his capacity as paśupati-: he provides the beast for sacrifice. This is possible: though he is not so called in the RV (where the word is not found), this epithet is applied to him in AV (e.g., XI.2.28) and VS (e.g., XXVI.28).
-
-In c rétaḥ ‘semen’ is somewhat surprising, esp. if it is to be construed as the object of brávaḥ -- so much so that Grassmann (tr., not Wö.) suggested emendation to répaḥ ‘stain’, an emendation accepted by Oldenberg (SBE, Noten) and Lüders (622) and maintained tentatively by Scarlatta (214). Renou keeps the transmitted form but interprets it as a way of referring to negative speech: “Quelle semence (de blâme dirais-tu) …?” But in a culture so fixated on fertility, semen is basically always a positive concept. Important is the fact noted by Geldner (n. 7c) that Viṣṇu is elsewhere the protector of semen (cf., e.g., VII.36.9 víṣṇuṃ niṣiktapā́m “Viṣṇu, protector of the poured-out [semen]”). In his n.
-
-(and contra his tr.) Renou suggests an alternative interpr. of rétaḥ here as a truncated
-
-*retodhe (cf. retodhā́- 5x) or *retode (Renou does not accent either proposed form). This
-seems the correct solution, with the -de extracted from havirdé, which ended the preceding pāda.
-
-In d Renou suggests that śárave bṛhatyaí is the “état pré-compositionnel” of a bahuvrīhi *bṛhatśarave (no accent provided and no application of sandhi), whose referent is Rudra. Although the arrow is surely Rudra’s as all standard interpr.
-
-recognize, there is no reason to substitute the god for his symbolic accoutrement. Just as Agni can speak to the chariot of the Aśvins (6c, by my interpr.), he can also speak to Rudra’s arrow.
-
-Geldner (n. 7d) points out the contrast between Viṣṇu as creator (c) and Rudra as destroyer (d).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
 <details><summary><h2>05-08 ...{Loading}...</h2></summary>
 
@@ -270,7 +258,6 @@ Although we might have expected the Sun here, because he serves as the Ādityas�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

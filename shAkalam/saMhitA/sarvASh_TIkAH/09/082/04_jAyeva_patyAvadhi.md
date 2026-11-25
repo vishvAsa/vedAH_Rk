@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ soma ← sóma- (nominal stem)
 
 vr̥jáne ← vr̥jána- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जा॒येव॒ पत्या॒वधि॒ शेव॑ मंहसे॒ पज्रा॑या गर्भ शृणु॒हि ब्रवी॑मि ते ।  
+अ॒न्तर्वाणी॑षु॒ प्र च॑रा॒ सु जी॒वसे॑ऽनि॒न्द्यो वृ॒जने॑ सोम जागृहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “wake; watch; awaken; wake up; oversee.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

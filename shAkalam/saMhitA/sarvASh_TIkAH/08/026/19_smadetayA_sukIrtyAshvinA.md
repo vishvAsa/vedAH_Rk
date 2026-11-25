@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -54,7 +55,12 @@ dhiyā́ ← dhī́- (nominal stem)
 
 váhethe ← √vah- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्मदे॒तया॑ सुकी॒र्त्याश्वि॑ना श्वे॒तया॑ धि॒या ।  
+वहे॑थे शुभ्रयावाना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “traveler.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

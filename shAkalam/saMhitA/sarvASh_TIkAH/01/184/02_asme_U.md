@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ narā ← nár- (nominal stem)
 
 nícetārā ← nícetar- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे ऊ॒ षु वृ॑षणा मादयेथा॒मुत्प॒णीँर्ह॑तमू॒र्म्या मद॑न्ता ।  
+श्रु॒तं मे॒ अच्छो॑क्तिभिर्मती॒नामेष्टा॑ नरा॒ निचे॑तारा च॒ कर्णैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

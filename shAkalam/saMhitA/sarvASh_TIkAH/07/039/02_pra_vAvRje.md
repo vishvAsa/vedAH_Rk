@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ svastáye ← svastí- (nominal stem)
 
 vāyúḥ ← vāyú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वा॑वृजे सुप्र॒या ब॒र्हिरे॑षा॒मा वि॒श्पती॑व॒ बीरि॑ट इयाते ।  
+वि॒शाम॒क्तोरु॒षसः॑ पू॒र्वहू॑तौ वा॒युः पू॒षा स्व॒स्तये॑ नि॒युत्वा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

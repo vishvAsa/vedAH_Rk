@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -63,7 +64,12 @@ cakrám ← cakrá- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रथं॑ वा॒मनु॑गायसं॒ य इ॒षा वर्त॑ते स॒ह ।  
+न च॒क्रम॒भि बा॑धते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वम्रो वैखानसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ cátuṣpāt ← cátuṣpad- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं द॑श॒स्यन्नर्ये॑भिरस्य द॒स्मो दे॒वेभि॒र्वरु॑णो॒ न मा॒यी ।  
+अ॒यं क॒नीन॑ ऋतु॒पा अ॑वे॒द्यमि॑मीता॒ररुं॒ यश्चतु॑ष्पात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “quadruped.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ rabhasám ← rabhasá- (nominal stem)
 
 vyáciṣṭham ← vyáciṣṭha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जिघ॑र्म्य॒ग्निं ह॒विषा॑ घृ॒तेन॑ प्रतिक्षि॒यन्तं॒ भुव॑नानि॒ विश्वा॑ ।  
+पृ॒थुं ति॑र॒श्चा वय॑सा बृ॒हन्तं॒ व्यचि॑ष्ठ॒मन्नै॑ रभ॒सं दृशा॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
     know; know; understand; understand; follow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

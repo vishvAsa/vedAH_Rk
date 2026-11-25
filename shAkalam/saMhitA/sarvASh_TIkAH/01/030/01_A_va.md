@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)
 
 siñce ← √sic- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ व॒ इन्द्रं॒ क्रिविं॑ यथा वाज॒यन्तः॑ श॒तक्र॑तुम् ।  
+मंहि॑ष्ठं सिञ्च॒ इन्दु॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

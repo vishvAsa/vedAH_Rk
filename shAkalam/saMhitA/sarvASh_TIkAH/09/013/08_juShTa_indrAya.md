@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ jahi ← √han- (root)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जुष्ट॒ इन्द्रा॑य मत्स॒रः पव॑मान॒ कनि॑क्रदत् ।  
+विश्वा॒ अप॒ द्विषो॑ जहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -153,14 +158,12 @@ Pleasing to Indra, exhilarating, constantly roaring—o self-purifying one, stri
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/013/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
 The impv. ápa … jahi of 8c is converted into the part. apaghnántaḥ in 9a. The sg. subj. of 8 is also replaced by a pl., but sg. sómaḥ / indo and pl. sómāḥ / índavaḥ alternate throughout the hymn.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

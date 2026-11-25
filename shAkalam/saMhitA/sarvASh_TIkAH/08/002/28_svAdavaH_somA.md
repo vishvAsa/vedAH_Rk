@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ nā́yám? ← nā́yám? (invariable)
 
 sadhamā́dam ← sadhamā́da- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वा॒दवः॒ सोमा॒ आ या॑हि श्री॒ताः सोमा॒ आ या॑हि ।  
+शिप्रि॒न्नृषी॑वः॒ शची॑वो॒ नायमच्छा॑ सध॒माद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “banquet; party; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

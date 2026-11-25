@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ prá ← prá (invariable)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्या॒यमद्रि॑भिः सु॒तो गोभिः॑ श्री॒तो मदा॑य॒ कम् ।  
+प्र सोम॑ इन्द्र हूयते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “sacrifice; offer; pour; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -180,7 +185,6 @@ The soma is being poured forth, Indra.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/082/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -188,7 +192,6 @@ The soma is being poured forth, Indra.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

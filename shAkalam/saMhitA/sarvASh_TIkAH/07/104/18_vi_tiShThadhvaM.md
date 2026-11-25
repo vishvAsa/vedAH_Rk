@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ vā ← vā (invariable)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि ति॑ष्ठध्वं मरुतो वि॒क्ष्वि१॒॑च्छत॑ गृभा॒यत॑ र॒क्षसः॒ सं पि॑नष्टन ।  
+वयो॒ ये भू॒त्वी प॒तय॑न्ति न॒क्तभि॒र्ये वा॒ रिपो॑ दधि॒रे दे॒वे अ॑ध्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

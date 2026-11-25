@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ taviṣā́ṇi ← taviṣá- (nominal stem)
 
 yudhā́ ← yúdh- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तन्नु वो॑चाम रभ॒साय॒ जन्म॑ने॒ पूर्वं॑ महि॒त्वं वृ॑ष॒भस्य॑ के॒तवे॑ ।  
+ऐ॒धेव॒ याम॑न्मरुतस्तुविष्वणो यु॒धेव॑ शक्रास्तवि॒षाणि॑ कर्तन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "बृबुस्तक्षा"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृबुस्तक्षा
@@ -60,7 +61,12 @@ ná ← ná (invariable)
 
 urúḥ ← urú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधि॑ बृ॒बुः प॑णी॒नां वर्षि॑ष्ठे मू॒र्धन्न॑स्थात् ।  
+उ॒रुः कक्षो॒ न गा॒ङ्ग्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ uśmási ← √vaś- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वा॒वान॑ पुरु॒तमं॑ पुरा॒षाळा वृ॑त्र॒हेन्द्रो॒ नामा॑न्यप्राः ।  
+अचे॑ति प्रा॒सह॒स्पति॒स्तुवि॑ष्मा॒न्यदी॑मु॒श्मसि॒ कर्त॑वे॒ कर॒त्तत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     \[word\]; dative; once; same.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

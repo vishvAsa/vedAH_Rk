@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "कृत्नुर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -57,7 +58,12 @@ várūtham ← várūtha- (nominal stem)
 
 yantā́ ← yantár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं सो॑म तनू॒कृद्भ्यो॒ द्वेषो॑भ्यो॒ऽन्यकृ॑तेभ्यः ।  
+उ॒रु य॒न्तासि॒ वरू॑थम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -68,7 +74,7 @@ yantā́ ← yantár- (nominal stem)
 
 <details><summary>पद-पाठः</summary>
 
-त्वम् । सो॒म॒ । त॒नू॒कृद्भ्य॒ इति॑ तनू॒कृत्-भ्यः॒ ।  द्वेषो॑भ्य॒ इति॒ द्वेषः॑-भ्यः॒ । अ॒न्यकृ॑तेभ्य॒ इत्य॒न्य-कृ॒ते॒भ्यः॒ । उ॒रु । य॒न्ता । अ॒सि॒ । वरू॑थम् । 
+त्वम् । सो॒म॒ । त॒नू॒कृद्भ्य॒ इति॑ तनू॒कृत्-भ्यः॒ ।  द्वेषो॑भ्य॒ इति॒ द्वेषः॑-भ्यः॒ । अ॒न्यकृ॑तेभ्य॒ इत्य॒न्य-कृ॒ते॒भ्यः॒ । उ॒रु । य॒न्ता । अ॒सि॒ । वरू॑थम् ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -141,7 +147,6 @@ _________
 - “defense; protective covering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

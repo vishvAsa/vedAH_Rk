@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -86,7 +87,12 @@ vidáthe ← vidátha- (nominal stem)
 
 vīryā̀ṇi ← vīryà- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ मि॒त्रो वरु॑णो अर्य॒मायुरिन्द्र॑ ऋभु॒क्षा म॒रुतः॒ परि॑ ख्यन् ।  
+यद्वा॒जिनो॑ दे॒वजा॑तस्य॒ सप्तेः॑ प्रव॒क्ष्यामो॑ वि॒दथे॑ वी॒र्या॑णि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

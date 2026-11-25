@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ kavíḥ ← kaví- (nominal stem)
 
 kāvyáḥ ← kāvyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अतः॑ स॒हस्र॑निर्णिजा॒ रथे॒ना या॑तमश्विना ।  
+व॒त्सो वां॒ मधु॑म॒द्वचोऽशं॑सीत्का॒व्यः क॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
     guru; Brahma.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "संवर्तः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -53,7 +54,11 @@ práti ← práti (invariable)
 
 yájāmasi ← √yaj- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒तु॒भृतो॒ न तन्तु॒मित्सु॒दान॑वः॒ प्रति॑ दध्मो॒ यजा॑मसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +122,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

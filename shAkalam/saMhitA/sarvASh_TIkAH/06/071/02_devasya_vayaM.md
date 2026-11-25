@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -89,7 +90,12 @@ nivéśane ← nivéśana- (nominal stem)
 
 prasavé ← prasavá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वस्य॑ व॒यं स॑वि॒तुः सवी॑मनि॒ श्रेष्ठे॑ स्याम॒ वसु॑नश्च दा॒वने॑ ।  
+यो विश्व॑स्य द्वि॒पदो॒ यश्चतु॑ष्पदो नि॒वेश॑ने प्रस॒वे चासि॒ भूम॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

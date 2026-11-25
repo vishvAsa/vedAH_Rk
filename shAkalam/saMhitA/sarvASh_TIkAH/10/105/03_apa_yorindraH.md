@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कौत्सो दुर्मित्रो नाम्ना दुर्मित्रो गुणतो वा नाम्ना दुर्मित्रो गुणतः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ yát ← yá- (pronoun)
 
 yuyujé ← √yuj- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप॒ योरिन्द्रः॒ पाप॑ज॒ आ मर्तो॒ न श॑श्रमा॒णो बि॑भी॒वान् ।  
+शु॒भे यद्यु॑यु॒जे तवि॑षीवान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “strong.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

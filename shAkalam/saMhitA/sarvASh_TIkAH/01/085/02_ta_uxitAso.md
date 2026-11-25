@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ pŕ̥śnimātaraḥ ← pŕ̥śnimātar- (nominal stem)
 
 śríyaḥ ← śrī́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त उ॑क्षि॒तासो॑ महि॒मान॑माशत दि॒वि रु॒द्रासो॒ अधि॑ चक्रिरे॒ सदः॑ ।  
+अर्च॑न्तो अ॒र्कं ज॒नय॑न्त इन्द्रि॒यमधि॒ श्रियो॑ दधिरे॒ पृश्नि॑मातरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

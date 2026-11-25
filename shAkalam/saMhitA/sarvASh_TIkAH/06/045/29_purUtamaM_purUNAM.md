@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "अतिनिचृत्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -48,7 +49,12 @@ vājayatā́m ← √vājay- 2 (root)
 
 vā́jebhiḥ ← vā́ja- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रू॒तमं॑ पुरू॒णां स्तो॑तॄ॒णां विवा॑चि ।  
+वाजे॑भिर्वाजय॒ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -94,7 +100,6 @@ _________
 - “incite.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -127,12 +132,6 @@ praiser-singers,
 who compete for the prize with their prizes.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. is syntactically dependent on 28, with the acc. purūtámam picking up tvā in 28a.
-
-The cognate expression vā́jebhir vājayatā́m “competing for the prize with their prizes” is a bit puzzling. I interpr. it as being a slight play on words, with the instr. vā́jebhiḥ referring to the singers’ songs, expressing the means by which they compete, while the prizes they compete for are material goods and fame. This interpr. is somewhat supported by the next vs., where we hope that our praise-song is the most successful one.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -140,7 +139,6 @@ Again no unity in the tṛca.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

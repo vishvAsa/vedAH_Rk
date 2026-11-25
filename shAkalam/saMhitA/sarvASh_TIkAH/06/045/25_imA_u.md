@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ ná ← ná (invariable)
 
 vatsám ← vatsá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा उ॑ त्वा शतक्रतो॒ऽभि प्र णो॑नुवु॒र्गिरः॑ ।  
+इन्द्र॑ व॒त्सं न मा॒तरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -179,10 +184,6 @@ These songs bellow out again and again to you, o you of a hundred  resolves,
 like mothers to their calf, Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the intensive pf. nonuvuḥ see Schaeffer (45) and Kümmel (283).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -190,7 +191,6 @@ There is no obvious unifying feature in this tṛca, though Indra is compared to
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

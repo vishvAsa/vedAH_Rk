@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tiranti ← √tr̥̄- 1 (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्त वी॒रासो॑ अध॒रादुदा॑यन्न॒ष्टोत्त॒रात्ता॒त्सम॑जग्मिर॒न्ते ।  
+नव॑ प॒श्चाता॑त्स्थिवि॒मन्त॑ आय॒न्दश॒ प्राक्सानु॒ वि ति॑र॒न्त्यश्नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “stone; rock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

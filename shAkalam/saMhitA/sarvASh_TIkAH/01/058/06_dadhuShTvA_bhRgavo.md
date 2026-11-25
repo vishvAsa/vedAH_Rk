@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 śévam ← śéva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒धुष्ट्वा॒ भृग॑वो॒ मानु॑षे॒ष्वा र॒यिं न चारुं॑ सु॒हवं॒ जने॑भ्यः ।  
+होता॑रमग्ने॒ अति॑थिं॒ वरे॑ण्यं मि॒त्रं न शेवं॑ दि॒व्याय॒ जन्म॑ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     parentage; descent; appearance; age; birthplace; beginning; being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "भाववृत्तं"
 RShiH = "यज्ञः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -83,7 +84,12 @@ manuṣyā̀ḥ ← manuṣyà- (nominal stem)
 
 téna ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒राण्मि॒त्रावरु॑णयोरभि॒श्रीरिन्द्र॑स्य त्रि॒ष्टुबि॒ह भा॒गो अह्नः॑ ।  
+विश्वा॑न्दे॒वाञ्जग॒त्या वि॑वेश॒ तेन॑ चाकॢप्र॒ ऋष॑यो मनु॒ष्याः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “human.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

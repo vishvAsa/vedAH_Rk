@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ somyám ← somyá- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हं॒सा इ॑व कृणुथ॒ श्लोक॒मद्रि॑भि॒र्मद॑न्तो गी॒र्भिर॑ध्व॒रे सु॒ते सचा॑ ।  
+दे॒वेभि॑र्विप्रा ऋषयो नृचक्षसो॒ वि पि॑बध्वं कुशिकाः सो॒म्यं मधु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

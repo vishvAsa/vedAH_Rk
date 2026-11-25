@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ syā́ma ← √as- 1 (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा उ॑ त्वा पस्पृधा॒नासो॒ अत्र॑ म॒न्द्रा गिरो॑ देव॒यन्ती॒रुप॑ स्थुः ।  
+अ॒र्वाची॑ ते प॒थ्या॑ रा॒य ए॑तु॒ स्याम॑ ते सुम॒तावि॑न्द्र॒ शर्म॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “protection; protective covering; refuge; joy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

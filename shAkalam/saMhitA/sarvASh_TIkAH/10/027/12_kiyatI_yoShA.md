@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ svayám ← svayám (invariable)
 
 vanute ← √vanⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किय॑ती॒ योषा॑ मर्य॒तो व॑धू॒योः परि॑प्रीता॒ पन्य॑सा॒ वार्ये॑ण ।  
+भ॒द्रा व॒धूर्भ॑वति॒ यत्सु॒पेशाः॑ स्व॒यं सा मि॒त्रं व॑नुते॒ जने॑ चित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “even; indeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

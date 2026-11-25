@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ sadhásthe ← sadhástha- (nominal stem)
 
 yájiṣṭhaḥ ← yájiṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि द्वि॒जन्मा॒ त्री रो॑च॒नानि॒ विश्वा॒ रजां॑सि शुशुचा॒नो अ॑स्थात् ।  
+होता॒ यजि॑ष्ठो अ॒पां स॒धस्थे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “dwelling; location; home.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ supārā́saḥ ← supārá- (nominal stem)
 
 vasavaḥ ← vásu- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज्योति॑र्य॒ज्ञाय॒ रोद॑सी॒ अनु॑ ष्यादा॒रे स्या॑म दुरि॒तस्य॒ भूरेः॑ ।  
+भूरि॑ चि॒द्धि तु॑ज॒तो मर्त्य॑स्य सुपा॒रासो॑ वसवो ब॒र्हणा॑वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

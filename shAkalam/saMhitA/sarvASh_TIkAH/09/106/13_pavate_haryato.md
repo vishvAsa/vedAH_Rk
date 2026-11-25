@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्निः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ vīrávat ← vīrávant- (nominal stem)
 
 yáśaḥ ← yáśas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑ते हर्य॒तो हरि॒रति॒ ह्वरां॑सि॒ रंह्या॑ ।  
+अ॒भ्यर्ष॑न्त्स्तो॒तृभ्यो॑ वी॒रव॒द्यशः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “fame; Yaśas.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -155,10 +160,6 @@ _________
 The delightful fallow bay purifies himself, across the tufts, at speed, streaming glory consisting of heroes to the praisers.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The well-loved pun haryatá- ‘delightful’ and hári- ‘tawny, fallow bay’ is found here.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/13-14.md">
 <details><summary><h2>13-14 ...{Loading}...</h2></summary>
 
@@ -166,7 +167,6 @@ The last two extra vss. do not allow a detached 4-syllable unit, because the wor
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

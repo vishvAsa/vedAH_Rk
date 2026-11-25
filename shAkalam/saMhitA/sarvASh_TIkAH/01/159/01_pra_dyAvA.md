@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -83,7 +84,12 @@ prabhū́ṣataḥ ← √bhūṣ- (root)
 
 vā́ryāṇi ← vā́rya- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र द्यावा॑ य॒ज्ञैः पृ॑थि॒वी ऋ॑ता॒वृधा॑ म॒ही स्तु॑षे वि॒दथे॑षु॒ प्रचे॑तसा ।  
+दे॒वेभि॒र्ये दे॒वपु॑त्रे सु॒दंस॑से॒त्था धि॒या वार्या॑णि प्र॒भूष॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - \[verb\], dual, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

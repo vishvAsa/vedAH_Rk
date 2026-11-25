@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -86,7 +87,12 @@ cáyase ← √ci- 2 (root)
 
 píyārum ← píyāru- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये त्वा॑ देवोस्रि॒कं मन्य॑मानाः पा॒पा भ॒द्रमु॑प॒जीव॑न्ति प॒ज्राः ।  
+न दू॒ढ्ये॒३॒॑ अनु॑ ददासि वा॒मं बृह॑स्पते॒ चय॑स॒ इत्पिया॑रुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “unfriendly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

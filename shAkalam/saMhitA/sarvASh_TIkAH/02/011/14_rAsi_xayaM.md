@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ prá ← prá (invariable)
 
 vāyávaḥ ← vāyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रासि॒ क्षयं॒ रासि॑ मि॒त्रम॒स्मे रासि॒ शर्ध॑ इन्द्र॒ मारु॑तं नः ।  
+स॒जोष॑सो॒ ये च॑ मन्दसा॒नाः प्र वा॒यवः॑ पा॒न्त्यग्र॑णीतिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - \[noun\], accusative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

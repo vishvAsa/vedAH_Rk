@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ rā́jā ← rā́jan- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स रा॒यस्खामुप॑ सृजा गृणा॒नः पु॑रुश्च॒न्द्रस्य॒ त्वमि॑न्द्र॒ वस्वः॑ ।  
+पति॑र्बभू॒थास॑मो॒ जना॑ना॒मेको॒ विश्व॑स्य॒ भुव॑नस्य॒ राजा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

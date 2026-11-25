@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ vaso ← vásu- (nominal stem)
 
 yaviṣṭha ← yáviṣṭha- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं व॑रो सु॒षाम्णेऽग्ने॒ जना॑य चोदय ।  
+सदा॑ वसो रा॒तिं य॑विष्ठ॒ शश्व॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “all(a); each(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

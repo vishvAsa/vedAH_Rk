@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "अभितपाः सौर्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -92,7 +93,12 @@ duṣvápnyam ← duṣvápnya- (nominal stem)
 
 suva ← √sū- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येन॑ सूर्य॒ ज्योति॑षा॒ बाध॑से॒ तमो॒ जग॑च्च॒ विश्व॑मुदि॒यर्षि॑ भा॒नुना॑ ।  
+तेना॒स्मद्विश्वा॒मनि॑रा॒मना॑हुति॒मपामी॑वा॒मप॑ दु॒ष्ष्वप्न्यं॑ सुव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “give birth; urge; bestow; cause.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

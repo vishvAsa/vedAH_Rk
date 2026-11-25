@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुदीतिपुरुमीळ्हौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ sákhe ← sákhi- (nominal stem)
 
 vaso ← vásu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॒ वस्व॒ उप॑ मा॒स्यूर्जो॑ नपा॒न्माहि॑नस्य ।  
+सखे॑ वसो जरि॒तृभ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “singer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

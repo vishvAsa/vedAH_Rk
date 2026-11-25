@@ -4,6 +4,7 @@ devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्याविवाहः
@@ -74,7 +75,12 @@ pátim ← páti- (nominal stem)
 
 prayatī́ ← √i- 1 (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुची॑ ते च॒क्रे या॒त्या व्या॒नो अक्ष॒ आह॑तः ।  
+अनो॑ मन॒स्मयं॑ सू॒र्यारो॑हत्प्रय॒ती पति॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

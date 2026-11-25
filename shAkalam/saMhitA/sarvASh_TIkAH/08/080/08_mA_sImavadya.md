@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "एकद्यूर्नौधसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ apā́vr̥ktāḥ ← √vr̥j- 1 (root)
 
 aratnáyaḥ ← aratní- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा सी॑मव॒द्य आ भा॑गु॒र्वी काष्ठा॑ हि॒तं धन॑म् ।  
+अ॒पावृ॑क्ता अर॒त्नयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “aratni; elbow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

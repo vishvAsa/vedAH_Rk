@@ -4,6 +4,7 @@ devataa = "इन्द्रः पूषा वा"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः पूषा वा
@@ -89,7 +90,12 @@ tvám ← tvám (pronoun)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं नः॑ शिशीहि भु॒रिजो॑रिव क्षु॒रं रास्व॑ रा॒यो वि॑मोचन ।  
+त्वे तन्नः॑ सु॒वेद॑मु॒स्रियं॒ वसु॒ यं त्वं हि॒नोषि॒ मर्त्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ dhattam ← √dhā- 1 (root)
 
 puruspŕ̥ham ← puruspŕ̥h- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒दासे॑ दस्रा॒ वसु॒ बिभ्र॑ता॒ रथे॒ पृक्षो॑ वहतमश्विना ।  
+र॒यिं स॑मु॒द्रादु॒त वा॑ दि॒वस्पर्य॒स्मे ध॑त्तं पुरु॒स्पृह॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “coveted; desirous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

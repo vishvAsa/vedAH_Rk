@@ -4,6 +4,7 @@ devataa = "अग्नीषोमौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नीषोमौ
@@ -71,7 +72,12 @@ dāśúṣe ← dāśváṁs- (nominal stem)
 
 máyaḥ ← máyas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्नी॑षोमावि॒मं सु मे॑ शृणु॒तं वृ॑षणा॒ हव॑म् ।  
+प्रति॑ सू॒क्तानि॑ हर्यतं॒ भव॑तं दा॒शुषे॒ मयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “pleasure; refreshment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

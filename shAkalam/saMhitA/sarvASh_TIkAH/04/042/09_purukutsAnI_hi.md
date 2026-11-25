@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "त्रसदस्युः पौरुकुत्स्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -74,7 +75,12 @@ dadathuḥ ← √dā- 1 (root)
 
 vr̥traháṇam ← vr̥trahán- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रु॒कुत्सा॑नी॒ हि वा॒मदा॑शद्ध॒व्येभि॑रिन्द्रावरुणा॒ नमो॑भिः ।  
+अथा॒ राजा॑नं त्र॒सद॑स्युमस्या वृत्र॒हणं॑ ददथुरर्धदे॒वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

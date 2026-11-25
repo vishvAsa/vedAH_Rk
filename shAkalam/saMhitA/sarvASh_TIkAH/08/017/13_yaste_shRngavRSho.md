@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ mánaḥ ← mánas- (nominal stem)
 
 ní ← ní (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॑ शृङ्गवृषो नपा॒त्प्रण॑पात्कुण्ड॒पाय्यः॑ ।  
+न्य॑स्मिन्दध्र॒ आ मनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -175,12 +180,6 @@ to-be-drunk-from-a-jar:
 upon that has (Indra) fixed his mind.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-kuṇḍapā́yya- is a technical term in later śrauta ritual; see Oldenberg I have given a literal tr. of the word and disclaim any knowledge of what this verse really refers to.
-
-The verb dadhre is taken by Oldenberg as most likely a 1st sg.; Geldner allows that possibility but tr. with a 3rd sg. I supply Indra as subject, both because he is the deity of the hymn and because he is the default consumer of soma. Kümmel (264) takes the verb as intransitive and presential with mánaḥ as subject: “darin bleibt das Denken fast.” He also notes the possibility that this is a 3rd plural to √dhā, rather than belonging to √dhṛ.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/017/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -188,7 +187,6 @@ Contains a number of PNs, whose exact identity eludes us. See Geldner’s nn., M
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

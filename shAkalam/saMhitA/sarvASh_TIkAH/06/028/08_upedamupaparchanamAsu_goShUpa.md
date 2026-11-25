@@ -4,6 +4,7 @@ devataa = "इन्द्रो गावो वा"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो गावो वा
@@ -74,7 +75,12 @@ táva ← tvám (pronoun)
 
 vīryè ← vīryà- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपे॒दमु॑प॒पर्च॑नमा॒सु गोषूप॑ पृच्यताम् ।  
+उप॑ ऋष॒भस्य॒ रेत॒स्युपे॑न्द्र॒ तव॑ वी॒र्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उर्वशी"
 RShiH = "पुरूरवा ऐळः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उर्वशी
@@ -89,7 +90,12 @@ tirata ← √tr̥̄- 1 (root)
 
 urváśī ← urváśī- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒द्युन्न या पत॑न्ती॒ दवि॑द्यो॒द्भर॑न्ती मे॒ अप्या॒ काम्या॑नि ।  
+जनि॑ष्टो अ॒पो नर्यः॒ सुजा॑तः॒ प्रोर्वशी॑ तिरत दी॒र्घमायुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

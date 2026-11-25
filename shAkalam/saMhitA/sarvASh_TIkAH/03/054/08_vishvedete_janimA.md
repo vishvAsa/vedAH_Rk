@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ ví ← ví (invariable)
 
 víṣuṇam ← víṣuṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वेदे॒ते जनि॑मा॒ सं वि॑विक्तो म॒हो दे॒वान्बिभ्र॑ती॒ न व्य॑थेते ।  
+एज॑द्ध्रु॒वं प॑त्यते॒ विश्व॒मेकं॒ चर॑त्पत॒त्रि विषु॑णं॒ वि जा॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

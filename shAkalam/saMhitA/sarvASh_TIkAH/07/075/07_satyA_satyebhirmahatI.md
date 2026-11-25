@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ uṣásam ← uṣás- (nominal stem)
 
 vāvaśanta ← √vāś- (root)  
 {number:PL, person:3, mood:INJ, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒त्या स॒त्येभि॑र्मह॒ती म॒हद्भि॑र्दे॒वी दे॒वेभि॑र्यज॒ता यज॑त्रैः ।  
+रु॒जद्दृ॒ळ्हानि॒ दद॑दु॒स्रिया॑णां॒ प्रति॒ गाव॑ उ॒षसं॑ वावशन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “bellow; howl; sing; moo; shout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

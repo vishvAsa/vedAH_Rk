@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "ऐन्द्रो वसुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ nís ← nís (invariable)
 
 varāhám ← varāhá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं सु मे॑ जरित॒रा चि॑किद्धि प्रती॒पं शापं॑ न॒द्यो॑ वहन्ति ।  
+लो॒पा॒शः सिं॒हं प्र॒त्यञ्च॑मत्साः क्रो॒ष्टा व॑रा॒हं निर॑तक्त॒ कक्षा॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     recess.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -75,7 +76,12 @@ tvám ← tvám (pronoun)
 
 viśvádhā ← viśvádhā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्येदि॒मा सव॑ना शूर॒ विश्वा॒ तुभ्यं॒ ब्रह्मा॑णि॒ वर्ध॑ना कृणोमि ।  
+त्वं नृभि॒र्हव्यो॑ वि॒श्वधा॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

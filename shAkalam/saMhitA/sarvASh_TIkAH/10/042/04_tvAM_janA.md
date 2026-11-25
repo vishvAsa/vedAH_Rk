@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sakhyám ← sakhyá- (nominal stem)
 
 vaṣṭi ← √vaś- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां जना॑ ममस॒त्येष्वि॑न्द्र सन्तस्था॒ना वि ह्व॑यन्ते समी॒के ।  
+अत्रा॒ युजं॑ कृणुते॒ यो ह॒विष्मा॒न्नासु॑न्वता स॒ख्यं व॑ष्टि॒ शूरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

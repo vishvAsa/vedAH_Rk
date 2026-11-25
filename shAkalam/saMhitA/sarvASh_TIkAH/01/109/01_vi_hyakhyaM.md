@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -98,7 +99,12 @@ vājayántīm ← √vājay- 2 (root)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि ह्यख्यं॒ मन॑सा॒ वस्य॑ इ॒च्छन्निन्द्रा॑ग्नी ज्ञा॒स उ॒त वा॑ सजा॒तान् ।  
+नान्या यु॒वत्प्रम॑तिरस्ति॒ मह्यं॒ स वां॒ धियं॑ वाज॒यन्ती॑मतक्षम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +262,6 @@ _________
 - “produce; shape; fashion; chisel; invent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -283,10 +288,6 @@ Because, seeking a better state, I have surveyed with my mind my kith  and kin, 
 there exists for me no other (fatherly) solicitude than you two. So I have  fashioned for you a thought that seeks the prize.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The kinship theme of the first hemistich is continued in pāda c, with prámati- ‘solicitude’, since this abstract noun is regularly identified with the father -- e.g., I.31.10 tvám agne prámatis tvám pitā́si naḥ. See further disc. ad I.71.7.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/109/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -294,7 +295,6 @@ These two vss. are parallel in structure, with an initial hí clause with a 1st 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

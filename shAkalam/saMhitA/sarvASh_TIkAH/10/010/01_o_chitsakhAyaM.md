@@ -4,6 +4,7 @@ devataa = "यमो वैवस्वतः"
 RShiH = "यमी वैवस्वती"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमो वैवस्वतः
@@ -92,7 +93,12 @@ kṣámi ← kṣám- (nominal stem)
 
 pratarám ← pratarám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओ चि॒त्सखा॑यं स॒ख्या व॑वृत्यां ति॒रः पु॒रू चि॑दर्ण॒वं ज॑ग॒न्वान् ।  
+पि॒तुर्नपा॑त॒मा द॑धीत वे॒धा अधि॒ क्षमि॑ प्रत॒रं दीध्या॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “think; desire; chew over.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

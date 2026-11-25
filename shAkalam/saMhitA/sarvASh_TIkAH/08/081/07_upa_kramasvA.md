@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुसीदी काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ jánānām ← jána- (nominal stem)
 
 védaḥ ← védas- 1 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ क्रम॒स्वा भ॑र धृष॒ता धृ॑ष्णो॒ जना॑नाम् ।  
+अदा॑शूष्टरस्य॒ वेदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

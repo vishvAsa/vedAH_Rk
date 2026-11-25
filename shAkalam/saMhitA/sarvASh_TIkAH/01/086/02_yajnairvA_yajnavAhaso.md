@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ márutaḥ ← marút- (nominal stem)
 
 śr̥ṇutá ← √śru- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञैर्वा॑ यज्ञवाहसो॒ विप्र॑स्य वा मती॒नाम् ।  
+मरु॑तः शृणु॒ता हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -158,10 +163,6 @@ Or he by whose sacrifices (you were attracted), o you whose vehicle is  the sacr
 you heard the call, o Maruts—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-My interpretation requires matīnā́m to be construed with hávam “the call of the thoughts”; for this expression see, e.g., VI.69.4 hávanā matīnā́m.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -169,7 +170,6 @@ As discussed in the published introduction, the syntax of these two verses is to
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ amítram ← amítra- (nominal stem)
 
 ardaya ← √r̥d- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नम॑स्ते अग्न॒ ओज॑से गृ॒णन्ति॑ देव कृ॒ष्टयः॑ ।  
+अमै॑र॒मित्र॑मर्दय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “afflict; afflict; affect; distress; torment; impel; grind; suffer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

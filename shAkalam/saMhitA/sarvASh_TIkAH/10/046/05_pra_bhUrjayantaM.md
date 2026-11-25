@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ híriśmaśrum ← híriśmaśru- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र भू॒र्जय॑न्तं म॒हां वि॑पो॒धां मू॒रा अमू॑रं पु॒रां द॒र्माण॑म् ।  
+नय॑न्तो॒ गर्भं॑ व॒नां धियं॑ धु॒र्हिरि॑श्मश्रुं॒ नार्वा॑णं॒ धन॑र्चम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

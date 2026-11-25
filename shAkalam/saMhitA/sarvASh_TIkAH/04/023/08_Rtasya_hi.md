@@ -4,6 +4,7 @@ devataa = "इन्द्र ऋतदेवता वा"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्र ऋतदेवता वा
@@ -83,7 +84,12 @@ kárṇā ← kárṇa- (nominal stem)
 
 śucámānaḥ ← √śuc- (root)  
 {case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॒ हि शु॒रुधः॒ सन्ति॑ पू॒र्वीरृ॒तस्य॑ धी॒तिर्वृ॑जि॒नानि॑ हन्ति ।  
+ऋ॒तस्य॒ श्लोको॑ बधि॒रा त॑तर्द॒ कर्णा॑ बुधा॒नः शु॒चमा॑न आ॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

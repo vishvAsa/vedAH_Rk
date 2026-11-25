@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -74,7 +75,12 @@ uchat ← √vas- 1 (root)
 
 uṣā́ḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रवः॑ सू॒रिभ्यो॑ अ॒मृतं॑ वसुत्व॒नं वाजाँ॑ अ॒स्मभ्यं॒ गोम॑तः ।  
+चो॒द॒यि॒त्री म॒घोनः॑ सू॒नृता॑वत्यु॒षा उ॑च्छ॒दप॒ स्रिधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “failure; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

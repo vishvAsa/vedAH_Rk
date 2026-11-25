@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -113,7 +114,13 @@ devám ← devá- (nominal stem)
 
 parāvátaḥ ← parāvát- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं य॑ज्ञ॒साध॒मपि॑ वातयामस्यृ॒तस्य॑ प॒था नम॑सा ह॒विष्म॑ता दे॒वता॑ता ह॒विष्म॑ता ।  
+स न॑ ऊ॒र्जामु॒पाभृ॑त्य॒या कृ॒पा न जू॑र्यति ।  
+यं मा॑त॒रिश्वा॒ मन॑वे परा॒वतो॑ दे॒वं भाः प॑रा॒वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -279,7 +286,6 @@ _________
 - “distance; distance; distance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

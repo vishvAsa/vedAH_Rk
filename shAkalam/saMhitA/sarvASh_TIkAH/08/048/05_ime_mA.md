@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -95,7 +96,12 @@ utá ← utá (invariable)
 
 yavayantu ← √yu- 2 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे मा॑ पी॒ता य॒शस॑ उरु॒ष्यवो॒ रथं॒ न गावः॒ सम॑नाह॒ पर्व॑सु ।  
+ते मा॑ रक्षन्तु वि॒स्रस॑श्च॒रित्रा॑दु॒त मा॒ स्रामा॑द्यवय॒न्त्विन्द॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

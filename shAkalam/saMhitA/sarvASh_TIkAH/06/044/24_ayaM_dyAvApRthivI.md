@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sómaḥ ← sóma- (nominal stem)
 
 útsam ← útsa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं द्यावा॑पृथि॒वी वि ष्क॑भायद॒यं रथ॑मयुनक्स॒प्तर॑श्मिम् ।  
+अ॒यं गोषु॒ शच्या॑ प॒क्वम॒न्तः सोमो॑ दाधार॒ दश॑यन्त्र॒मुत्स॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “spring; fountain; utsa \[word\]; well.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -250,12 +255,6 @@ cows, the wellspring with its ten fastenings: Soma!
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-(ví) ṣkabhāyat echoes astabhāyat in the first vs. of the tṛca (22b).
-
-I will not speculate on the numerology in saptáraśmi- ‘having seven reins’ and daśayantra- ‘having ten fastenings’, whose referents may be ritual or cosmological, or (most likely) both.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -263,7 +262,6 @@ As noted in the published introduction, repetition also characterizes this tṛc
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

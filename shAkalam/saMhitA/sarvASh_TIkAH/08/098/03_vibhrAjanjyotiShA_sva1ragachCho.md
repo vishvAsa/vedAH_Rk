@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ te ← tvám (pronoun)
 
 yemire ← √yam- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒भ्राज॒ञ्ज्योति॑षा॒ स्व१॒॑रग॑च्छो रोच॒नं दि॒वः ।  
+दे॒वास्त॑ इन्द्र स॒ख्याय॑ येमिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -177,7 +182,6 @@ The gods yielded themselves to partnership with you, Indra.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/098/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -193,7 +197,6 @@ The bahuvrīhi epithet of Indra viśvákarmā (2c) is of course a play on the di
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

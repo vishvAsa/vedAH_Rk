@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ sáḥ ← sá- ~ tá- (pronoun)
 
 vánāni ← vána- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद॑स्ये॒दं प॑श्यता॒ भूरि॑ पु॒ष्टं श्रदिन्द्र॑स्य धत्तन वी॒र्या॑य ।  
+स गा अ॑विन्द॒त्सो अ॑विन्द॒दश्वा॒न्त्स ओष॑धीः॒ सो अ॒पः स वना॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +263,6 @@ _________
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

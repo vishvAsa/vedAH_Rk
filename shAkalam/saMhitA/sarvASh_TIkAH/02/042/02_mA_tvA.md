@@ -4,6 +4,7 @@ devataa = "इन्द्रः (कपिंजलरूपी)"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (कपिंजलरूपी)
@@ -95,7 +96,12 @@ sumaṅgálaḥ ← sumaṅgála- (nominal stem)
 
 vada ← √vadⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा त्वा॑ श्ये॒न उद्व॑धी॒न्मा सु॑प॒र्णो मा त्वा॑ विद॒दिषु॑मान्वी॒रो अस्ता॑ ।  
+पित्र्या॒मनु॑ प्र॒दिशं॒ कनि॑क्रदत्सुम॒ङ्गलो॑ भद्रवा॒दी व॑दे॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “here; now; in this world; now; below; there; here; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

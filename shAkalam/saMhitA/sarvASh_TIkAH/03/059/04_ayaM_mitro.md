@@ -5,13 +5,13 @@ RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रः
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -82,7 +82,12 @@ saumanasé ← saumanasá- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं मि॒त्रो न॑म॒स्यः॑ सु॒शेवो॒ राजा॑ सुक्ष॒त्रो अ॑जनिष्ट वे॒धाः ।  
+तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञिय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +212,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -257,8 +261,6 @@ Sehr lieb ist dieser Mitra, hoch zu ehren, als holder Fürst geboren, wohlregier
 Да будем мы в милости у него, достойного жертв,  
 И в добром его расположении!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

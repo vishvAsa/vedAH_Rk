@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ dāváne ← √dā- 1 (root)
 
 purukṣóḥ ← purukṣú- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वोता॑सो मघवन्निन्द्र॒ विप्रा॑ व॒यं ते॑ स्याम सू॒रयो॑ गृ॒णन्तः॑ ।  
+भे॒जा॒नासो॑ बृ॒हद्दि॑वस्य रा॒य आ॑का॒य्य॑स्य दा॒वने॑ पुरु॒क्षोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

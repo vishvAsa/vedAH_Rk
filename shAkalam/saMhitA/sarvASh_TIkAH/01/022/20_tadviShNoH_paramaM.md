@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -63,7 +64,12 @@ diví ← dyú- ~ div- (nominal stem)
 
 iva ← iva (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्विष्णोः॑ पर॒मं प॒दं सदा॑ पश्यन्ति सू॒रयः॑ ।  
+दि॒वी॑व॒ चक्षु॒रात॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -72,9 +78,9 @@ iva ← iva (invariable)
 दि॒विऽइ॑व । चक्षुः॑ । आऽत॑तम् ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-तत् । विष्णोः॑ । प॒र॒मम् । प॒दम् । सदा॑ । प॒श्य॒न्ति॒ । सू॒रयः॑ ॥ दि॒वि । इ॒व॒ । चक्षुः॑ । आत॑त॒मित्या-त॒त॒म् ॥  
+तत् । विष्णोः॑ । प॒र॒मम् । प॒दम् । सदा॑ । प॒श्य॒न्ति॒ । सू॒रयः॑ ॥ दि॒वि । इ॒व॒ । चक्षुः॑ । आत॑त॒मित्या-त॒त॒म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -151,7 +157,6 @@ _________
 - “expand; prolong; chant; inflate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः | कृत्रिमो वैश्वामित्रो देवरातः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -92,7 +93,12 @@ mumugdhi ← √muc- (root)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं ते॑ राजन्भि॒षजः॑ स॒हस्र॑मु॒र्वी ग॑भी॒रा सु॑म॒तिष्टे॑ अस्तु ।  
+बाध॑स्व दू॒रे निरृ॑तिं परा॒चैः कृ॒तं चि॒देनः॒ प्र मु॑मुग्ध्य॒स्मत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

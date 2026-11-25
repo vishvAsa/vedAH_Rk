@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ mā́sāḥ ← mā́sa- (nominal stem)
 
 várdhān ← √vr̥dh- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वर्धा॒द्यं य॒ज्ञ उ॒त सोम॒ इन्द्रं॒ वर्धा॒द्ब्रह्म॒ गिर॑ उ॒क्था च॒ मन्म॑ ।  
+वर्धाहै॑नमु॒षसो॒ याम॑न्न॒क्तोर्वर्धा॒न्मासाः॑ श॒रदो॒ द्याव॒ इन्द्र॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +263,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -285,25 +290,12 @@ so strengthen him at the coming of dawn from night. The months,
 autumns, and days will strengthen Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The singular number of both forms of várdhāt (a, b) is worthy of a small note. The subject of the first is the conjoined NP yajñá utá sómaḥ, with 2 singular nouns. As often, the verb agrees with one of them (presumably the nearer one), rather than being in the dual, as would also be possible. In b the subject is the even more complex NP bráhma gíra ukthā́ca mánma, of which the two middle terms are clearly plural (fem. and neut. respectively), while the two neut. -n-stems that bookend the phrase, bráhma and mánma, could be either sg. or pl. Flg. Geldner (sim.
-
-Klein DGRV I.198-99), I take the first as sg. and the last as pl., again assuming that the verb agrees with the nearer term, namely bráhma. But it is possible that bráhma is actually pl. and that this is an ex. of the famous but fairly rare construction of a sg.
-
-verb with a neut. pl. subj. Although there is no way to tell, I’m tempted to alter the tr. to pl.: “… the sacred formulations will strengthen,” given the undoubted pl. of the two middle terms and the possible pl. of the last one.
-
-yā́man reprises the same word in 1c, though they have somewhat different meanings.
-
-Although nom. pl. dyā́vaḥ ordinarily refers to ‘heavens’, in this case the context clearly establishes the meaning ‘days’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md">
 <details><summary><h2>02-04 ...{Loading}...</h2></summary>
 
 After the absence of overt referents in vs. 1, starting with 2b we have a form of índra- in every hemistich through vs. 4 (2b índrasya, 2d índram, 3b índram, 3d índre, 4a índram, 4d índram). His name is again absent in the final vs. of the hymn, vs. 5, suggesting that this pattern is deliberate and a species of ring composition, marked by absence not presence. The next hymn (VI.39) also shows this structure, with the three middle verses (2-4) united by the shared initial deictic ayám and the first and last (1, 5) standing out against this pattern.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

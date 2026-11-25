@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -60,7 +61,12 @@ dhénāḥ ← dhénā- (nominal stem)
 
 dhiyā́ ← dhī́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रे॑ अ॒ग्ना नमो॑ बृ॒हत्सु॑वृ॒क्तिमेर॑यामहे ।  
+धि॒या धेना॑ अव॒स्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “seeking protection; helpless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः सूर्यो वापो वा गाव�
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
@@ -89,7 +90,12 @@ mártyān ← mártya- (nominal stem)
 
 viveśa ← √viś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒त्वारि॒ शृङ्गा॒ त्रयो॑ अस्य॒ पादा॒ द्वे शी॒र्षे स॒प्त हस्ता॑सो अस्य ।  
+त्रिधा॑ ब॒द्धो वृ॑ष॒भो रो॑रवीति म॒हो दे॒वो मर्त्याँ॒ आ वि॑वेश ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

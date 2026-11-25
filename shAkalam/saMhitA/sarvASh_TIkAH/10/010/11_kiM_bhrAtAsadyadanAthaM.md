@@ -4,6 +4,7 @@ devataa = "यमो वैवस्वतः"
 RShiH = "यमी वैवस्वती"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमो वैवस्वतः
@@ -95,7 +96,12 @@ tanvā̀ ← tanū́- (nominal stem)
 
 tanvàm ← tanū́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किं भ्राता॑स॒द्यद॑ना॒थं भवा॑ति॒ किमु॒ स्वसा॒ यन्निरृ॑तिर्नि॒गच्छा॑त् ।  
+काम॑मूता ब॒ह्वे॒३॒॑तद्र॑पामि त॒न्वा॑ मे त॒न्वं१॒॑ सं पि॑पृग्धि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “mix; unite.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

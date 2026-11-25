@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ pŕ̥ṣadyoniḥ ← pŕ̥ṣadyoni- (nominal stem)
 
 mayobhúḥ ← mayobhú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र शन्त॑मा॒ वरु॑णं॒ दीधि॑ती॒ गीर्मि॒त्रं भग॒मदि॑तिं नू॒नम॑श्याः ।  
+पृष॑द्योनिः॒ पञ्च॑होता शृणो॒त्वतू॑र्तपन्था॒ असु॑रो मयो॒भुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भुवन आप्त्यः साधनो वा भौवनः"
 ChandaH = "द्विपदा त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -58,7 +59,11 @@ pári ← pári (invariable)
 
 svadhā́m ← svadhā́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒त्यञ्च॑म॒र्कम॑नय॒ञ्छची॑भि॒रादित्स्व॒धामि॑षि॒रां पर्य॑पश्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +136,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

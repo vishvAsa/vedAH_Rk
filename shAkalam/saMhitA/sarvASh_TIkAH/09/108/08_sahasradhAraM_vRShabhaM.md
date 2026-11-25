@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऊर्ध्वसद्मा"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ rā́jā ← rā́jan- (nominal stem)
 
 r̥tám ← r̥tá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्र॑धारं वृष॒भं प॑यो॒वृधं॑ प्रि॒यं दे॒वाय॒ जन्म॑ने ।  
+ऋ॒तेन॒ य ऋ॒तजा॑तो विवावृ॒धे राजा॑ दे॒व ऋ॒तं बृ॒हत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -212,10 +217,6 @@ The bull of a thousand streams, growing strong through the milk, dear to  the di
 who born of truth through truth has grown strong as king, god, and  lofty truth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On Soma as truth see IX.97.23, 107.15.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -223,7 +224,6 @@ Once again the 2nd vs. is syntactically dependent on the 1st in this pragātha: 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

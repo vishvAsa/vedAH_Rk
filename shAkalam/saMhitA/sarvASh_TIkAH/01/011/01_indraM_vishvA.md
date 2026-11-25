@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "जेता माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -62,7 +63,12 @@ sátpatim ← sátpati- (nominal stem)
 
 vā́jānām ← vā́ja- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रं॒ विश्वा॑ अवीवृधन्त्समु॒द्रव्य॑चसं॒ गिरः॑ ।  
+र॒थीत॑मं र॒थीनां॒ वाजा॑नां॒ सत्प॑तिं॒ पति॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

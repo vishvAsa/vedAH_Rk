@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ sakṣīmáhi ← √sac- 1 (root)
 
 yújyebhiḥ ← yújya- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+र॒रे ह॒व्यं म॒तिभि॑र्य॒ज्ञिया॑नां॒ नक्ष॒त्कामं॒ मर्त्या॑ना॒मसि॑न्वन् ।  
+धाता॑ र॒यिम॑विद॒स्यं स॑दा॒सां स॑क्षी॒महि॒ युज्ये॑भि॒र्नु दे॒वैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

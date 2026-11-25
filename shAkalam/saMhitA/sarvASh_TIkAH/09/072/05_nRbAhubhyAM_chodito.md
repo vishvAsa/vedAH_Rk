@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हरिमन्तः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -101,7 +102,12 @@ ná ← ná (invariable)
 
 véḥ ← ví- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नृबा॒हुभ्यां॑ चोदि॒तो धार॑या सु॒तो॑ऽनुष्व॒धं प॑वते॒ सोम॑ इन्द्र ते ।  
+आप्राः॒ क्रतू॒न्त्सम॑जैरध्व॒रे म॒तीर्वेर्न द्रु॒षच्च॒म्वो॒३॒॑रास॑द॒द्धरिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “reddish brown; yellow; pale; yellow; aureate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -278,10 +283,6 @@ Driven on by the two arms of men, pressed in a stream, following his  own nature
 He has fulfilled their intentions; he has won completely the thoughts at  the ceremony. Like a bird sitting in the wood the tawny one has taken  his seat in the two cups.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On 3rd sg. ajais and its AV replacements, see Narten (Sig.Aor. 119-20).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/072/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -293,7 +294,6 @@ Both vss. also begin with a sequence of AGENT/INSTR. + past part. expressions: 4
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

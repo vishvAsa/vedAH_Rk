@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sudhyàḥ ← sudhī́- (nominal stem)
 
 yemuḥ ← √yam- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑ ह॒ यद्व॒यम॑ग्ने त्वा॒या प॒ड्भिर्हस्ते॑भिश्चकृ॒मा त॒नूभिः॑ ।  
+रथं॒ न क्रन्तो॒ अप॑सा भु॒रिजो॑रृ॒तं ये॑मुः सु॒ध्य॑ आशुषा॒णाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - \[verb noun\], nominative, plural
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

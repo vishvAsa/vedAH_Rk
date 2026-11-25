@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ práti ← práti (invariable)
 
 śvasántam ← √śvasⁱ- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आद्रोद॑सी वित॒रं वि ष्क॑भायत्संविव्या॒नश्चि॑द्भि॒यसे॑ मृ॒गं कः॑ ।  
+जिग॑र्ति॒मिन्द्रो॑ अप॒जर्गु॑राणः॒ प्रति॑ श्व॒सन्त॒मव॑ दान॒वं ह॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

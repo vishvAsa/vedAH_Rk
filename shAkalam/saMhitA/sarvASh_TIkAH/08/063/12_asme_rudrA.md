@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -80,7 +81,12 @@ devā́ḥ ← devá- (nominal stem)
 
 índrajyeṣṭhāḥ ← índrajyeṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे रु॒द्रा मे॒हना॒ पर्व॑तासो वृत्र॒हत्ये॒ भर॑हूतौ स॒जोषाः॑ ।  
+यः शंस॑ते स्तुव॒ते धायि॑ प॒ज्र इन्द्र॑ज्येष्ठा अ॒स्माँ अ॑वन्तु दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

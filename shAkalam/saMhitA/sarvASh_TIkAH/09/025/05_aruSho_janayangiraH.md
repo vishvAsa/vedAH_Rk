@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दृळ्हच्युत आगस्त्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ gáchan ← √gam- (root)
 
 kavíkratuḥ ← kavíkratu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒रु॒षो ज॒नय॒न्गिरः॒ सोमः॑ पवत आयु॒षक् ।  
+इन्द्रं॒ गच्छ॑न्क॒विक्र॑तुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

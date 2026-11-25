@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vájram ← vájra- (nominal stem)
 
 yā́si ← √yā- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒त इत्त्वं निमि॑श्ल इन्द्र॒ सोमे॒ स्तोमे॒ ब्रह्म॑णि श॒स्यमा॑न उ॒क्थे ।  
+यद्वा॑ यु॒क्ताभ्यां॑ मघव॒न्हरि॑भ्यां॒ बिभ्र॒द्वज्रं॑ बा॒ह्वोरि॑न्द्र॒ यासि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

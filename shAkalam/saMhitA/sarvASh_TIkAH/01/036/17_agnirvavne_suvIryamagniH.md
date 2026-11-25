@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ sātaú ← sātí- (nominal stem)
 
 upastutám ← upastutá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्व॑व्ने सु॒वीर्य॑म॒ग्निः कण्वा॑य॒ सौभ॑गम् ।  
+अ॒ग्निः प्राव॑न्मि॒त्रोत मेध्या॑तिथिम॒ग्निः सा॒ता उ॑पस्तु॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “Upastuta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

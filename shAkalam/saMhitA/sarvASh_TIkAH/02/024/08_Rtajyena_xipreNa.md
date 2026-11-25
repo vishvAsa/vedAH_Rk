@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -86,7 +87,12 @@ kárṇayonayaḥ ← kárṇayoni- (nominal stem)
 
 nr̥cákṣasaḥ ← nr̥cákṣas- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तज्ये॑न क्षि॒प्रेण॒ ब्रह्म॑ण॒स्पति॒र्यत्र॒ वष्टि॒ प्र तद॑श्नोति॒ धन्व॑ना ।  
+तस्य॑ सा॒ध्वीरिष॑वो॒ याभि॒रस्य॑ति नृ॒चक्ष॑सो दृ॒शये॒ कर्ण॑योनयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     birth; kind; caste; kinship; bed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

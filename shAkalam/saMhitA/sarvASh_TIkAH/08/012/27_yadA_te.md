@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -70,7 +71,12 @@ te ← tvám (pronoun)
 
 vavakṣatuḥ ← √vakṣ- (root)  
 {number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒दा ते॒ विष्णु॒रोज॑सा॒ त्रीणि॑ प॒दा वि॑चक्र॒मे ।  
+आदित्ते॑ हर्य॒ता हरी॑ ववक्षतुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “grow; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -193,10 +198,6 @@ When Viṣṇu strode his three steps by your might,
 just after that your two beloved fallow bays waxed strong.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-That te in a is a dative of benefit, not a genitive with ójasā is shown by 52.3 yásmai víṣṇus trī́ṇi padā vicakramé.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
 <details><summary><h2>25-28 ...{Loading}...</h2></summary>
 
@@ -204,7 +205,6 @@ The phonetic figure noted in VIII.6.36 dominates the next four verses: haryatā�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

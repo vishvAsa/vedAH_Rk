@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ parṣat ← √pr̥- (root)
 
 sūríḥ ← sūrí- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रेष्ठं॑ वो॒ अति॑थिं गृणीषे॒ऽग्निं श॒स्तिभि॑स्तु॒र्वणिः॑ स॒जोषाः॑ ।  
+अस॒द्यथा॑ नो॒ वरु॑णः सुकी॒र्तिरिष॑श्च पर्षदरिगू॒र्तः सू॒रिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “patron.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -246,10 +251,6 @@ so that our good praise will be Varuṇa. And he [=Agni] will deliver
 refreshments like a patron praised by a stranger.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On pāda c see Thieme, Fremdling, 36-37, and his revised interpr., Mitra and Aryaman, 66, which I follow here. Geldner’s “dessen Name in Ehren steht” (sim. Thieme [Fremdling], Klein [DGRV I.228], Witzel Gotō) for sukīrtí- cannot be correct, because sukīrtí- is otherwise a noun.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -257,7 +258,6 @@ The c-pādas of all three verses consist of a yáthā purpose clause with subjun
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

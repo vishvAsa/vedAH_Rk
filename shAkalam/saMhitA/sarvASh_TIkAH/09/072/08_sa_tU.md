@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हरिमन्तः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 vasīmahi ← √vanⁱ- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स तू प॑वस्व॒ परि॒ पार्थि॑वं॒ रजः॑ स्तो॒त्रे शिक्ष॑न्नाधून्व॒ते च॑ सुक्रतो ।  
+मा नो॒ निर्भा॒ग्वसु॑नः सादन॒स्पृशो॑ र॒यिं पि॒शङ्गं॑ बहु॒लं व॑सीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “wear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

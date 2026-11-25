@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ saniṣyán ← √sanⁱ- (root)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्रत्वा॒ दक्ष॑स्य॒ तरु॑षो॒ विध॑र्मणि दे॒वासो॑ अ॒ग्निं ज॑नयन्त॒ चित्ति॑भिः ।  
+रु॒रु॒चा॒नं भा॒नुना॒ ज्योति॑षा म॒हामत्यं॒ न वाजं॑ सनि॒ष्यन्नुप॑ ब्रुवे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ tīvrā́ḥ ← tīvrá- (nominal stem)
 
 yācante ← √yāc- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे त॑ इन्द्र॒ सोमा॑स्ती॒व्रा अ॒स्मे सु॒तासः॑ ।  
+शु॒क्रा आ॒शिरं॑ याचन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “beg; ask; offer; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

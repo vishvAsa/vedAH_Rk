@@ -4,6 +4,7 @@ devataa = "रतिः"
 RShiH = "अन्तेवासी ब्रह्मचारी"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रतिः
@@ -86,7 +87,12 @@ mártyaḥ ← mártya- (nominal stem)
 
 pulukā́maḥ ← pulukā́ma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं नु सोम॒मन्ति॑तो हृ॒त्सु पी॒तमुप॑ ब्रुवे ।  
+यत्सी॒माग॑श्चकृ॒मा तत्सु मृ॑ळतु पुलु॒कामो॒ हि मर्त्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

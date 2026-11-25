@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ cit ← cit (invariable)
 
 dadhr̥ṣváṇim ← dadhr̥ṣváṇi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वृ॑षस्व पुरूवसो सु॒तस्ये॒न्द्रान्ध॑सः ।  
+वि॒द्मा हि त्वा॑ हरिवः पृ॒त्सु सा॑स॒हिमधृ॑ष्टं चिद्दधृ॒ष्वणि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

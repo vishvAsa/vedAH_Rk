@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ vivekṣi ← √viṣ- 2 (root)
 
 yávam ← yáva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि यस्य॑ ते पृथि॒व्यां पाजो॒ अश्रे॑त्तृ॒षु यदन्ना॑ स॒मवृ॑क्त॒ जम्भैः॑ ।  
+सेने॑व सृ॒ष्टा प्रसि॑तिष्ट एति॒ यवं॒ न द॑स्म जु॒ह्वा॑ विवेक्षि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “labor; act; perform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

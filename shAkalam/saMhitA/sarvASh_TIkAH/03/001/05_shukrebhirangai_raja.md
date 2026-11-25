@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ mimīte ← √mā- 1 (root)
 
 śríyaḥ ← śrī́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒क्रेभि॒रङ्गै॒ रज॑ आतत॒न्वान्क्रतुं॑ पुना॒नः क॒विभिः॑ प॒वित्रैः॑ ।  
+शो॒चिर्वसा॑नः॒ पर्यायु॑र॒पां श्रियो॑ मिमीते बृह॒तीरनू॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “perfect; entire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

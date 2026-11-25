@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ vr̥trahā́ ← vr̥trahán- (nominal stem)
 
 ástr̥taḥ ← ástr̥ta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदु॑ मे निव॒रो भु॑वद्वृत्र॒हादि॑ष्ट॒ पौंस्य॑म् ।  
+अजा॑तशत्रु॒रस्तृ॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “durable; invincible.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -174,10 +179,6 @@ And after that he became a covering for me: the Vr̥tra-smiter displayed  his ma
 he for whom no rival has been born, he who cannot be laid low.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Judging from Geldner’s tr. of the first pāda, “Davor sei mir Bewahrung,” he takes ā́t as an ablative pronoun referring to ámaḥ in 14c (his “Panik,” my “onslaught”), but as far as I can tell, ā́t is elsewhere only adverbial, as opposed to the fuller pronominal form asmā́t. I also question his modal, indeed imperatival interpretation of bhuvat in this preterital context; thematic forms belonging originally to the root aorist stem (á)bhū- can be either subjunctive or a secondarily thematicized injunctive. See Hoffmann 1967 passim, esp. 214-15.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -185,7 +186,6 @@ The connection among the verses in this tṛca eludes me, though the fact that t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

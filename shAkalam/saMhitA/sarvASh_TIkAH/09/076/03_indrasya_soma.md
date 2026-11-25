@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ ná ← ná (invariable)
 
 vā́jān ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑स्य सोम॒ पव॑मान ऊ॒र्मिणा॑ तवि॒ष्यमा॑णो ज॒ठरे॒ष्वा वि॑श ।  
+प्र णः॑ पिन्व वि॒द्युद॒भ्रेव॒ रोद॑सी धि॒या न वाजाँ॒ उप॑ मासि॒ शश्व॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “all(a); each(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

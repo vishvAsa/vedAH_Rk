@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ sukṣitím ← sukṣití- (nominal stem)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा ते॑ अग्ने विम॒दो म॑नी॒षामूर्जो॑ नपाद॒मृते॑भिः स॒जोषाः॑ ।  
+गिर॒ आ व॑क्षत्सुम॒तीरि॑या॒न इष॒मूर्जं॑ सुक्षि॒तिं विश्व॒माभाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “bring.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

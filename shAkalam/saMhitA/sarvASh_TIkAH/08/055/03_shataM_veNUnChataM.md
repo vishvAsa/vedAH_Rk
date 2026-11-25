@@ -4,6 +4,7 @@ devataa = "प्रस्कण्वस्य दानस्तुतिः (
 RShiH = "कृशः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - प्रस्कण्वस्य दानस्तुतिः (इन्द्रो वा)
@@ -68,7 +69,12 @@ me ← ahám (pronoun)
 
 cátuḥśatam ← cátuḥśata- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं वे॒णूञ्छ॒तं शुनः॑ श॒तं चर्मा॑णि म्ला॒तानि॑ ।  
+श॒तं मे॑ बल्बजस्तु॒का अरु॑षीणां॒ चतुः॑शतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “hundred; one-hundredth; śata \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

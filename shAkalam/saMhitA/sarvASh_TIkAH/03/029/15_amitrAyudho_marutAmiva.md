@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ dáme ← dáma- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒मि॒त्रा॒युधो॑ म॒रुता॑मिव प्र॒याः प्र॑थम॒जा ब्रह्म॑णो॒ विश्व॒मिद्वि॑दुः ।  
+द्यु॒म्नव॒द्ब्रह्म॑ कुशि॒कास॒ एरि॑र॒ एक॑एको॒ दमे॑ अ॒ग्निं समी॑धिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “kindle; ignite; set ablaze.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

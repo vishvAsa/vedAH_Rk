@@ -5,13 +5,13 @@ RShiH = "भौमोत्रिः"
 ChandaH = "एकपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
 - ऋषिः - भौमोत्रिः
 - छन्दः - एकपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -40,7 +40,11 @@ syāma ← √as- 1 (root)
 
 uraú ← urú- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रौ दे॑वा अनिबा॒धे स्या॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -74,7 +78,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -114,8 +117,6 @@ Wir sein in freier Unbedrängtheit, Götter.
 
 Да будем мы, о боги, в широком (просторе), в нестесненности!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

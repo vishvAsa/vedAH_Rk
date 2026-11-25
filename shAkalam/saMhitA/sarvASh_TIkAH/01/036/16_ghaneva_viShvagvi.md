@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ ripúḥ ← ripú- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घ॒नेव॒ विष्व॒ग्वि ज॒ह्यरा॑व्ण॒स्तपु॑र्जम्भ॒ यो अ॑स्म॒ध्रुक् ।  
+यो मर्त्यः॒ शिशी॑ते॒ अत्य॒क्तुभि॒र्मा नः॒ स रि॒पुरी॑शत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “govern; command; master; dominate; can; reign; control; own.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

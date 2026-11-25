@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -101,7 +102,12 @@ suvitā́ya ← suvitá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को वो॑ म॒हान्ति॑ मह॒तामुद॑श्नव॒त्कस्काव्या॑ मरुतः॒ को ह॒ पौंस्या॑ ।  
+यू॒यं ह॒ भूमिं॑ कि॒रणं॒ न रे॑जथ॒ प्र यद्भर॑ध्वे सुवि॒ताय॑ दा॒वने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -259,7 +265,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

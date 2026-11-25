@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "ऐन्द्रो वसुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ te ← tvám (pronoun)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था त॑ ए॒तद॒हमा चि॑केतं॒ गृत्स॑स्य॒ पाक॑स्त॒वसो॑ मनी॒षाम् ।  
+त्वं नो॑ वि॒द्वाँ ऋ॑तु॒था वि वो॑चो॒ यमर्धं॑ ते मघवन्क्षे॒म्या धूः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

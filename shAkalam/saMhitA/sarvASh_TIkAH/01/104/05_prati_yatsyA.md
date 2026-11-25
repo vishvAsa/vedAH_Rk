@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -107,7 +108,12 @@ niṣṣapī́ ← niṣṣapín- (nominal stem)
 
 párā ← párā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॒ यत्स्या नीथाद॑र्शि॒ दस्यो॒रोको॒ नाच्छा॒ सद॑नं जान॒ती गा॑त् ।  
+अध॑ स्मा नो मघवञ्चर्कृ॒तादिन्मा नो॑ म॒घेव॑ निष्ष॒पी परा॑ दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -273,7 +279,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

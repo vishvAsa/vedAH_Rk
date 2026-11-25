@@ -4,6 +4,7 @@ devataa = "सोमापूषणौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमापूषणौ
@@ -80,7 +81,12 @@ somāpūṣábhyām ← somāpūṣán- (nominal stem)
 
 usríyāsu ← usríya- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मौ दे॒वौ जाय॑मानौ जुषन्ते॒मौ तमां॑सि गूहता॒मजु॑ष्टा ।  
+आ॒भ्यामिन्द्रः॑ प॒क्वमा॒मास्व॒न्तः सो॑मापू॒षभ्यां॑ जनदु॒स्रिया॑सु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “cow; dairy product.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -218,7 +223,6 @@ _________
 प्रपाठकस्समाप्तः काण्डश्च ॥
 
 हरिः ओम् ॥
-
 </details>
 
 <details><summary>Wilson</summary>

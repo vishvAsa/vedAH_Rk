@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ rabhante ← √rabh- (root)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अजी॑जनन्न॒मृतं॒ मर्त्या॑सोऽस्रे॒माणं॑ त॒रणिं॑ वी॒ळुज॑म्भम् ।  
+दश॒ स्वसा॑रो अ॒ग्रुवः॑ समी॒चीः पुमां॑सं जा॒तम॒भि सं र॑भन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “clasp.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

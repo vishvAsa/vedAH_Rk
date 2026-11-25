@@ -4,6 +4,7 @@ devataa = "भावयव्यः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भावयव्यः
@@ -89,7 +90,12 @@ diví ← dyú- ~ div- (nominal stem)
 
 tatāna ← √tan- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं राज्ञो॒ नाध॑मानस्य नि॒ष्काञ्छ॒तमश्वा॒न्प्रय॑तान्त्स॒द्य आद॑म् ।  
+श॒तं क॒क्षीवाँ॒ असु॑रस्य॒ गोनां॑ दि॒वि श्रवो॒ऽजर॒मा त॑तान ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     speak; propagate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

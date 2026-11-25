@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -98,7 +99,12 @@ tūtumā́ ← tūtumá- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवा॒ नु कं॒ ज्याया॑न्य॒ज्ञव॑नसो म॒हीं त॒ ओमा॑त्रां कृ॒ष्टयो॑ विदुः ।  
+असो॒ नु क॑म॒जरो॒ वर्धा॑श्च॒ विश्वेदे॒ता सव॑ना तूतु॒मा कृ॑षे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

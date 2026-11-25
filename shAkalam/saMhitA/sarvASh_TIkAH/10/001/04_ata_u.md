@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ tvám ← tvám (pronoun)
 
 vikṣú ← víś- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत॑ उ त्वा पितु॒भृतो॒ जनि॑त्रीरन्ना॒वृधं॒ प्रति॑ चर॒न्त्यन्नैः॑ ।  
+ता ईं॒ प्रत्ये॑षि॒ पुन॑र॒न्यरू॑पा॒ असि॒ त्वं वि॒क्षु मानु॑षीषु॒ होता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “Hotṛ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

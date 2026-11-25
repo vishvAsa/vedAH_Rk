@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ soma ← sóma- (nominal stem)
 
 makṣū́tamebhiḥ ← makṣū́tama- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नो॑ गो॒विद॑श्व॒वित्पव॑स्व सो॒मान्ध॑सा ।  
+म॒क्षूत॑मेभि॒रह॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “day; aha \[word\]; day.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

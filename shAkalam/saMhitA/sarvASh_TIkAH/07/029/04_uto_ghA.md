@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ prámatiḥ ← prámati- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तो घा॒ ते पु॑रु॒ष्या॒३॒॑ इदा॑स॒न्येषां॒ पूर्वे॑षा॒मशृ॑णो॒रृषी॑णाम् ।  
+अधा॒हं त्वा॑ मघवञ्जोहवीमि॒ त्वं न॑ इन्द्रासि॒ प्रम॑तिः पि॒तेव॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

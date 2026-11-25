@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -63,7 +64,12 @@ kr̥ṇuta ← √kr̥- (root)
 
 viśvavedasaḥ ← viśvávedas- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒योता॒ शरु॑म॒स्मदाँ आदि॑त्यास उ॒ताम॑तिम् ।  
+ऋध॒ग्द्वेषः॑ कृणुत विश्ववेदसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

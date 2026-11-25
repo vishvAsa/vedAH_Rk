@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -65,7 +66,12 @@ anūṣātām ← √nu- ~ nū- (root)
 
 váhnī ← váhni- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रु॒म॒न्द्रा पु॑रू॒वसू॑ मनो॒तरा॑ रयी॒णाम् ।  
+स्तोमं॑ मे अ॒श्विना॑वि॒मम॒भि वह्नी॑ अनूषाताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “praise; shout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ párācaḥ ← párāñc- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ना म॑न्दा॒नो ज॒हि शू॑र॒ शत्रू॑ञ्जा॒मिमजा॑मिं मघवन्न॒मित्रा॑न् ।  
+अ॒भि॒षे॒णाँ अ॒भ्या॒३॒॑देदि॑शाना॒न्परा॑च इन्द्र॒ प्र मृ॑णा ज॒ही च॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -238,10 +243,6 @@ Those with weapons aimed at us, setting their sights on us—pulverize  and smas
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The object phrase in the 1st hemistich provides an ex. of number disharmony (of a different type from that in vs. 13). The main objects of Indra’s smiting are “rivals (and) foes,” the pl. phrase śátrūn … amítrān, but they are further specified as “kin and non-kin,” jāmím ájāmim, in the singular. The same disharmony is found in IV.4.5 jāmím ájāmim … śátrūn, where the śátrūn that closes our pāda a substitutes for amítrān.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/17-18.md">
 <details><summary><h2>17-18 ...{Loading}...</h2></summary>
 
@@ -259,7 +260,6 @@ Here the power of soma to rouse Indra to beneficial action is the general subjec
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

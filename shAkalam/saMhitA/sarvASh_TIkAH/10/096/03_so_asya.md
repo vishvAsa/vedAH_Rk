@@ -4,6 +4,7 @@ devataa = "हरिस्तुतिः"
 RShiH = "बरुः सर्वहरिर्वैन्द्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हरिस्तुतिः
@@ -89,7 +90,12 @@ ní ← ní (invariable)
 
 rūpā́ ← rūpá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो अ॑स्य॒ वज्रो॒ हरि॑तो॒ य आ॑य॒सो हरि॒र्निका॑मो॒ हरि॒रा गभ॑स्त्योः ।  
+द्यु॒म्नी सु॑शि॒प्रो हरि॑मन्युसायक॒ इन्द्रे॒ नि रू॒पा हरि॑ता मिमिक्षिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “season.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

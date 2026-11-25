@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ jáne ← jána- (nominal stem)
 
 jātávedāḥ ← jātávedas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हु॒वे वः॑ सु॒द्योत्मा॑नं सुवृ॒क्तिं वि॒शाम॒ग्निमति॑थिं सुप्र॒यस॑म् ।  
+मि॒त्र इ॑व॒ यो दि॑धि॒षाय्यो॒ भूद्दे॒व आदे॑वे॒ जने॑ जा॒तवे॑दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

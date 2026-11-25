@@ -4,6 +4,7 @@ devataa = "अन्नम्"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अन्नम्
@@ -60,7 +61,12 @@ pī́vaḥ ← pī́vas- (nominal stem)
 
 vā́tāpe ← vātāpi- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒र॒म्भ ओ॑षधे भव॒ पीवो॑ वृ॒क्क उ॑दार॒थिः ।  
+वाता॑पे॒ पीव॒ इद्भ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

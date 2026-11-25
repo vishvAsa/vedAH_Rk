@@ -4,6 +4,7 @@ devataa = "अग्निसूर्यौ"
 RShiH = "पृषध्रः काण्वः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निसूर्यौ
@@ -79,7 +80,12 @@ diví ← dyú- ~ div- (nominal stem)
 
 sū́ryaḥ ← sū́rya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अचे॑त्य॒ग्निश्चि॑कि॒तुर्ह॑व्य॒वाट् स सु॒मद्र॑थः ।  
+अ॒ग्निः शु॒क्रेण॑ शो॒चिषा॑ बृ॒हत्सूरो॑ अरोचत दि॒वि सूर्यो॑ अरोचत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “please; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

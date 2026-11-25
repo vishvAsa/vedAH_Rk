@@ -4,6 +4,7 @@ devataa = "बर्हिः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बर्हिः
@@ -57,7 +58,12 @@ devéṣu ← devá- (nominal stem)
 
 īyate ← √i- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब॒र्हिः प्रा॒चीन॒मोज॑सा॒ पव॑मानः स्तृ॒णन्हरिः॑ ।  
+दे॒वेषु॑ दे॒व ई॑यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

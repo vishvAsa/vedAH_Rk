@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "विपरीता"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ taviṣám ← taviṣá- (nominal stem)
 
 yatásrucaḥ ← yatásruc- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य ऋ॒ष्वः श्रा॑व॒यत्स॑खा॒ विश्वेत्स वे॑द॒ जनि॑मा पुरुष्टु॒तः ।  
+तं विश्वे॒ मानु॑षा यु॒गेन्द्रं॑ हवन्ते तवि॒षं य॒तस्रु॑चः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “Sruc.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

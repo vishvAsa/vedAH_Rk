@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ práti ← práti (invariable)
 
 samidhānám ← √idh- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒ळेन्यो॑ वो॒ मनु॑षो यु॒गेषु॑ समन॒गा अ॑शुचज्जा॒तवे॑दाः ।  
+सु॒सं॒दृशा॑ भा॒नुना॒ यो वि॒भाति॒ प्रति॒ गावः॑ समिधा॒नं बु॑धन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     attend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

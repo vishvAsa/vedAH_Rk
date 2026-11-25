@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ sácā ← sácā (invariable)
 
 várpaḥ ← várpas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सं॒स्तिरो॑ वि॒ष्टिरः॒ सं गृ॑भायति जा॒नन्ने॒व जा॑न॒तीर्नित्य॒ आ श॑ये ।  
+पुन॑र्वर्धन्ते॒ अपि॑ यन्ति दे॒व्य॑म॒न्यद्वर्पः॑ पि॒त्रोः कृ॑ण्वते॒ सचा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “jointly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -277,12 +282,6 @@ lies in his own (place).
 They grow again; they approach divinity. They make for themselves a  form different from their parents, (though) in company with them.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The idiom punar √vṛdh ‘grow again’ recurs from 2b, again referring to the plants immolated by the fire (at least in my opinion; others take the subject to be the flames). Here their regeneration is linked with their contact or merger with divinity.
-
-The final pāda is variously interpreted. I take the plants still to be the subject and the form “different from their parents” refers to their burned residue as ash and cinders, as opposed to the branches and leaves that were fed to the fire. But if pitróḥ is taken as a loc., the referent may be different; some take it as referring to Heaven and Earth (Sāyaṇa, Oldenberg [SBE], Witzel Gotō).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md">
 <details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
@@ -292,7 +291,6 @@ This proposed split reference seems to me to break the thematic unity of the ver
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ rājan ← rā́jan- (nominal stem)
 
 várivaḥ ← várivas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ह॒ त्यदि॑न्द्र स॒प्त युध्य॒न्पुरो॑ वज्रिन्पुरु॒कुत्सा॑य दर्दः ।  
+ब॒र्हिर्न यत्सु॒दासे॒ वृथा॒ वर्गं॒हो रा॑ज॒न्वरि॑वः पू॒रवे॑ कः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -270,10 +275,6 @@ You then, mace-bearing Indra, attacking, split seven fortifications for  Purukut
 When at will you twisted them like ritual grass for Sudās, o king, from  narrowness you made wide space for Pūru.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-“one after the other” is my attempt to render an “object-distributive” value for the intensive dardaḥ. (For this notion see Schaefer 1994: 86-87, though she considers dardar- lexicalized and does not attribute this sense to it, pp. 135-36.) The use of várg ‘you twisted’ differs in tone in simile and frame. In the frame it is distinctly hostile and destructive, but in the simile it simply expresses the ritual action of twisting the barhis grass into seats for the visiting gods.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
 <details><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -281,7 +282,6 @@ tváṃ ha tyád provides the opening of the next four verses. Although tyád is
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

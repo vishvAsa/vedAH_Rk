@@ -4,6 +4,7 @@ devataa = "अग्निर्वैश्वानरः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्वैश्वानरः
@@ -86,7 +87,12 @@ kā́ṣṭhāḥ ← kā́ṣṭhā- (nominal stem)
 
 śámbaram ← śámbara- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र नू म॑हि॒त्वं वृ॑ष॒भस्य॑ वोचं॒ यं पू॒रवो॑ वृत्र॒हणं॒ सच॑न्ते ।  
+वै॒श्वा॒न॒रो दस्यु॑म॒ग्निर्ज॑घ॒न्वाँ अधू॑नो॒त्काष्ठा॒ अव॒ शम्ब॑रं भेत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     betray; fester; strike.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -260,14 +265,12 @@ barriers, cut down Śambara.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/059/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 5d pāda here = VII.98.3d, of Indra, and Nodhas uses a similar expression of Indra in I.63.7d. Vs. 6 is even more Indraic. As noted in the introduction, this part of the hymn is designed to associate Indra and his great deeds with Agni.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

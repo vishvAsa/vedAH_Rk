@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ rocané ← rocaná- (nominal stem)
 
 tr̥tī́yam ← tr̥tī́ya- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॑ जि॒ह्वा प॑वते॒ मधु॑ प्रि॒यं व॒क्ता पति॑र्धि॒यो अ॒स्या अदा॑भ्यः ।  
+दधा॑ति पु॒त्रः पि॒त्रोर॑पी॒च्यं१॒॑ नाम॑ तृ॒तीय॒मधि॑ रोच॒ने दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

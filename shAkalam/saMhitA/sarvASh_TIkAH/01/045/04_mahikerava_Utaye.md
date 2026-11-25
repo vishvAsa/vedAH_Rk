@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -59,7 +60,12 @@ agním ← agní- (nominal stem)
 
 śukréṇa ← śukrá- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+महि॑केरव ऊ॒तये॑ प्रि॒यमे॑धा अहूषत ।  
+राज॑न्तमध्व॒राणा॑म॒ग्निं शु॒क्रेण॑ शो॒चिषा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “fire; flare; burn; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

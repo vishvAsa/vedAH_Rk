@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ bhānúm ← bhānú- (nominal stem)
 
 rúśantam ← rúśant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॑पप्तन्नरु॒णा भा॒नवो॒ वृथा॑ स्वा॒युजो॒ अरु॑षी॒र्गा अ॑युक्षत ।  
+अक्र॑न्नु॒षासो॑ व॒युना॑नि पू॒र्वथा॒ रुश॑न्तं भा॒नुमरु॑षीरशिश्रयुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

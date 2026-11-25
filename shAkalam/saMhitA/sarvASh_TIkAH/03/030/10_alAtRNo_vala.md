@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ puruhūtám ← puruhūtá- (nominal stem)
 
 vā́ṇīḥ ← vā́ṇī- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ला॒तृ॒णो व॒ल इ॑न्द्र व्र॒जो गोः पु॒रा हन्तो॒र्भय॑मानो॒ व्या॑र ।  
+सु॒गान्प॒थो अ॑कृणोन्नि॒रजे॒ गाः प्राव॒न्वाणीः॑ पुरुहू॒तं धम॑न्तीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

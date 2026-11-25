@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ páyaḥ ← páyas- (nominal stem)
 
 rúśat ← rúśant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमे॒तद॑धारयः कृ॒ष्णासु॒ रोहि॑णीषु च ।  
+परु॑ष्णीषु॒ रुश॒त्पयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -150,7 +155,6 @@ You fixed this fast in the black (cows) and in the reddish ones, and in the gray
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -158,7 +162,6 @@ The connection among the verses in this tṛca eludes me, though the fact that t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कृतयशाः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ vásūni ← vásu- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तमु॒ त्यं म॑द॒च्युतं॑ स॒हस्र॑धारं वृष॒भं दिवो॑ दुहुः ।  
+विश्वा॒ वसू॑नि॒ बिभ्र॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -182,10 +187,6 @@ They have milked out of the heavens this thousand-streamed bull, who  arouses ex
 who brings all good things.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The accentuation of dívaḥ poses problems. Pace Geldner (n. 11b), who considers dívaḥ a gen. sg. with unusual accent, I take it as acc. pl. (flg. Oldenberg, in turn fld. by Renou and Lüders 202). Given the correctly accented gen./abl. sg. diváḥ in the immediately preceding vs. (10c), it is hard to believe that the poet would get the accent wrong, esp. in this exceptionally common form. As Oldenberg suggests, √duh takes a double acc. here. On dívaḥ as acc. pl., see also AiG III.226-27.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/11-12.md">
 <details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -193,7 +194,6 @@ These two vss. are syntactically independent but both concern Soma as bull (vṛ
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

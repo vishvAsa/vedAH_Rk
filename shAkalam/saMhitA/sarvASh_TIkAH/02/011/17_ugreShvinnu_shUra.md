@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sutásya ← √su- (root)
 
 yāhí ← √yā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ग्रेष्विन्नु शू॑र मन्दसा॒नस्त्रिक॑द्रुकेषु पाहि॒ सोम॑मिन्द्र ।  
+प्र॒दोधु॑व॒च्छ्मश्रु॑षु प्रीणा॒नो या॒हि हरि॑भ्यां सु॒तस्य॑ पी॒तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

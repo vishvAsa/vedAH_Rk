@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -86,7 +87,12 @@ purā́ ← purā́ (invariable)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒रो हि मर्त्यै॒रसि॑ स॒मो दे॒वैरु॒त श्रि॒या ।  
+अ॒भि ख्यः॑ पूष॒न्पृत॑नासु न॒स्त्वमवा॑ नू॒नं यथा॑ पु॒रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “once; earlier; first; purā \[indecl.\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -240,7 +245,6 @@ For you are beyond mortals and equal with the gods in your splendor. Keep an eye
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details><summary><h2>14-19 ...{Loading}...</h2></summary>
 
@@ -248,7 +252,6 @@ On these Pūṣan vss., see published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

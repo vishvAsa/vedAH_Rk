@@ -4,6 +4,7 @@ devataa = "भावयव्यः"
 RShiH = "रोमशा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भावयव्यः
@@ -77,7 +78,12 @@ gandhā́rīṇām ← gandhā́ri- (nominal stem)
 
 iva ← iva (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपो॑प मे॒ परा॑ मृश॒ मा मे॑ द॒भ्राणि॑ मन्यथाः ।  
+सर्वा॒हम॑स्मि रोम॒शा ग॒न्धारी॑णामिवावि॒का ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “ewe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

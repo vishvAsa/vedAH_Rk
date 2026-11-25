@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ saraṇyúbhiḥ ← saraṇyú- (nominal stem)
 
 sisarṣi ← √sr̥- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒नु॒ष्वदि॑न्द्र॒ सव॑नं जुषा॒णः पिबा॒ सोमं॒ शश्व॑ते वी॒र्या॑य ।  
+स आ व॑वृत्स्व हर्यश्व य॒ज्ञैः स॑र॒ण्युभि॑र॒पो अर्णा॑ सिसर्षि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “sṛ; liquefy; run; spread; stretch out.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

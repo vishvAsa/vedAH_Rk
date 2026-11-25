@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -54,7 +55,12 @@ páyaḥ ← páyas- (nominal stem)
 
 yújyam ← yújya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ दे॒वा ऋ॑ता॒वृध॑ ऋ॒तुभि॑र्हवन॒श्रुतः॑ ।  
+जु॒षन्तां॒ युज्यं॒ पयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,12 +165,6 @@ Yuyam **payas**, a mixture of milk and curds, termed **āmikṣā**: cf. tapte p
 Let all the gods, strong through truth, hearing the calls in their turns, enjoy the associated milk.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich here does assay a little figure: ṛtā- ṛtú- across the pāda boundary.
-
-The use of yújya- in c is not entirely clear to me. I take it to mean that the offering, the milk (páyaḥ), is ritually associated with the calls (hávana-) the gods are hearing. Cf. VI.3.8. Geldner and Renou think that the association is between the substance and the gods.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details><summary><h2>07-12 ...{Loading}...</h2></summary>
 
@@ -173,7 +172,6 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ nr̥cákṣasaḥ ← nr̥cákṣas- (nominal stem)
 
 pīyū́ṣam ← pīyū́ṣa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधि॒ द्याम॑स्थाद्वृष॒भो वि॑चक्ष॒णोऽरू॑रुच॒द्वि दि॒वो रो॑च॒ना क॒विः ।  
+राजा॑ प॒वित्र॒मत्ये॑ति॒ रोरु॑वद्दि॒वः पी॒यूषं॑ दुहते नृ॒चक्ष॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “eye; look; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,12 +254,6 @@ The wide-gazing bull has mounted heaven. The poet has caused the  luminous realm
 The king goes ever bellowing across the filter. Those having the eyes of  men milk for themselves the beestings of heaven.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The double vision of both heavenly Soma/Sun and earthly ritual soma is clear here, with pādas a, b, d all having a celestial orientation, each containing a form of div-/dyu- ‘heaven’, while the filter of pāda c brings us back to the ritual. The subj.
-
-of d is probably, on the one hand, the ritual officiants, who perform the ritual action of milking (that is, pressing) the soma. But the substance obtained is “the beestings [colostrum, first milk] of heaven” (pīyúṣam … diváḥ), and the next vs. makes clear that those performing the milking here are also the venā́ḥ ‘seekers’ in 10b, where they are located “in the vault of heaven” (divó nā́ke).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
 <details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -262,7 +261,6 @@ As noted in the published introduction, these four vss. treat the identification
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

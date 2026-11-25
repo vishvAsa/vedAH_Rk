@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ vaiśvānaráḥ ← vaiśvānará- (nominal stem)
 
 yahváḥ ← yahvá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नि॑न्दत॒ य इ॒मां मह्यं॑ रा॒तिं दे॒वो द॒दौ मर्त्या॑य स्व॒धावा॑न् ।  
+पाका॑य॒ गृत्सो॑ अ॒मृतो॒ विचे॑ता वैश्वान॒रो नृत॑मो य॒ह्वो अ॒ग्निः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निर्हवींषि वा"
 RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्हवींषि वा
@@ -60,7 +61,12 @@ stótave ← √stu- (root)
 
 véti ← √vī- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चर॑न्व॒त्सो रुश॑न्नि॒ह नि॑दा॒तारं॒ न वि॑न्दते ।  
+वेति॒ स्तोत॑व अ॒म्ब्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “mother.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

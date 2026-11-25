@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -89,7 +90,12 @@ sánti ← √as- 1 (root)
 
 spáśaḥ ← spáś- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॒ यद्वां॑ मं॒हना॒ मन्द॑मानाः क्ष॒त्रं दे॒वासो॒ अद॑धुः स॒जोषाः॑ ।  
+परि॒ यद्भू॒थो रोद॑सी चिदु॒र्वी सन्ति॒ स्पशो॒ अद॑ब्धासो॒ अमू॑राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “wise; intelligent; apt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

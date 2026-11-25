@@ -4,6 +4,7 @@ devataa = "ज्ञानं"
 RShiH = "बृहस्पतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ज्ञानं
@@ -80,7 +81,12 @@ tve ← tva- (pronoun)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒क्ष॒ण्वन्तः॒ कर्ण॑वन्तः॒ सखा॑यो मनोज॒वेष्वस॑मा बभूवुः ।  
+आ॒द॒घ्नास॑ उपक॒क्षास॑ उ त्वे ह्र॒दा इ॑व॒ स्नात्वा॑ उ त्वे ददृश्रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     know; know; understand; understand; follow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

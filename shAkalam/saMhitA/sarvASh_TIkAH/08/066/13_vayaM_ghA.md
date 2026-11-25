@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कलिः प्रगाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ mághavan ← maghávan- (nominal stem)
 
 marḍitā́ ← marḍitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं घा॑ ते॒ त्वे इद्विन्द्र॒ विप्रा॒ अपि॑ ष्मसि ।  
+न॒हि त्वद॒न्यः पु॑रुहूत॒ कश्च॒न मघ॑व॒न्नस्ति॑ मर्डि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “sympathizer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

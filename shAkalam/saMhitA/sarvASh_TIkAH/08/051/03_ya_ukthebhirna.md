@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ bhójase ← √bhuj- 2 (root)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॒क्थेभि॒र्न वि॒न्धते॑ चि॒किद्य ऋ॑षि॒चोद॑नः ।  
+इन्द्रं॒ तमच्छा॑ वद॒ नव्य॑स्या म॒त्यवि॑ष्यन्तं॒ न भोज॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

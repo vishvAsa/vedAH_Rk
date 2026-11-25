@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 revátaḥ ← revánt- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिबा॑पि॒बेदि॑न्द्र शूर॒ सोमं॒ मा रि॑षण्यो वसवान॒ वसुः॒ सन् ।  
+उ॒त त्रा॑यस्व गृण॒तो म॒घोनो॑ म॒हश्च॑ रा॒यो रे॒वत॑स्कृधी नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

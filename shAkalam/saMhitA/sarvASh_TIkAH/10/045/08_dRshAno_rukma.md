@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ surétāḥ ← surétas- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दृ॒शा॒नो रु॒क्म उ॑र्वि॒या व्य॑द्यौद्दु॒र्मर्ष॒मायुः॑ श्रि॒ये रु॑चा॒नः ।  
+अ॒ग्निर॒मृतो॑ अभव॒द्वयो॑भि॒र्यदे॑नं॒ द्यौर्ज॒नय॑त्सु॒रेताः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “semen; sperm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -282,7 +287,6 @@ Shining like gold, he hath become widely resplendent,
 For glory shining with immortal life;  
 Agni became immortal in his strength [5],  
 What time prolific Dyaus begat him.
-
 </details>
 
 <details><summary>Geldner</summary>

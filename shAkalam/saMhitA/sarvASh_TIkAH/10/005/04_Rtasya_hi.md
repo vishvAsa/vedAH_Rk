@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ mádhūnām ← mádhu- (nominal stem)
 
 vāvr̥dhāte ← √vr̥dh- (root)  
 {number:DU, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॒ हि व॑र्त॒नयः॒ सुजा॑त॒मिषो॒ वाजा॑य प्र॒दिवः॒ सच॑न्ते ।  
+अ॒धी॒वा॒सं रोद॑सी वावसा॒ने घृ॒तैरन्नै॑र्वावृधाते॒ मधू॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

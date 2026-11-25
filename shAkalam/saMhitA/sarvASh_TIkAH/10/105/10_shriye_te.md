@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कौत्सो दुर्मित्रो नाम्ना दुर्मित्रो गुणतो वा नाम्ना दुर्मित्रो गुणतः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ své ← svá- (pronoun)
 
 yáyā ← yá- (pronoun)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रि॒ये ते॒ पृश्नि॑रुप॒सेच॑नी भूच्छ्रि॒ये दर्वि॑ररे॒पाः ।  
+यया॒ स्वे पात्रे॑ सि॒ञ्चस॒ उत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - “up.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

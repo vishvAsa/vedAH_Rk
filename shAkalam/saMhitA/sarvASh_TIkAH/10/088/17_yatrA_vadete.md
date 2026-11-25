@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -95,7 +96,12 @@ vocat ← √vac- (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्रा॒ वदे॑ते॒ अव॑रः॒ पर॑श्च यज्ञ॒न्योः॑ कत॒रो नौ॒ वि वे॑द ।  
+आ शे॑कु॒रित्स॑ध॒मादं॒ सखा॑यो॒ नक्ष॑न्त य॒ज्ञं क इ॒दं वि वो॑चत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

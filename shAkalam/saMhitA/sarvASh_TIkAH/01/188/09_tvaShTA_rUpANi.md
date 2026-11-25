@@ -4,6 +4,7 @@ devataa = "त्वष्टा"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्वष्टा
@@ -66,7 +67,12 @@ téṣām ← sá- ~ tá- (pronoun)
 
 yaja ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वष्टा॑ रू॒पाणि॒ हि प्र॒भुः प॒शून्विश्वा॑न्त्समान॒जे ।  
+तेषां॑ नः स्फा॒तिमा य॑ज ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -86,7 +87,12 @@ mádhvaḥ ← mádhu- (nominal stem)
 
 virapśám ← virapśá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृह॑स्पते॒ या प॑र॒मा प॑रा॒वदत॒ आ त॑ ऋत॒स्पृशो॒ नि षे॑दुः ।  
+तुभ्यं॑ खा॒ता अ॑व॒ता अद्रि॑दुग्धा॒ मध्वः॑ श्चोतन्त्य॒भितो॑ विर॒प्शम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,12 +253,6 @@ For you do the deep-dug springs, milked by the stone, drip an
 abundance of honey all about.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Ths vs. also contains phonetic echoes of Bṛhaspati: ṛtaspṛ́ś(o) (b) and (vi)rapś(ám) (d). Another phonetic pattern worthy of note, though it doesn’t directly reference Bṛhaspati, is the unbroken sequence of short and long a, starting with yā́in pāda a (right after initial bṛ́haspate) and continuing into pāda b, till right before ṛtaspṛ́śo, the echo of the name: ā a a ā a ā a, a a ā a.
-
-As Geldner’s cited parallels make clear, pāda b concerns the Sattra that the Aṅgirases performed.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details><summary><h2>01-06 ...{Loading}...</h2></summary>
 
@@ -261,7 +260,6 @@ As indicated in the published introduction, this section concerns the unitary fi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

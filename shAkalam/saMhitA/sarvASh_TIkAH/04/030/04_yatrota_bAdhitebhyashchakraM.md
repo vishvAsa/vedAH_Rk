@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ muṣāyáḥ ← √muṣⁱ- (root)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्रो॒त बा॑धि॒तेभ्य॑श्च॒क्रं कुत्सा॑य॒ युध्य॑ते ।  
+मु॒षा॒य इ॑न्द्र॒ सूर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,10 +161,6 @@ When, for those hard pressed and for Kutsa as he fought,
 you stole the wheel from the Sun, o Indra;
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-√muṣ takes a double acc. 
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -171,7 +172,6 @@ Klein (DGRV I.431-32). It would be better if the first one were in vs. 5, not vs
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "कपोपहतौ प्रायश्चित्तं वै�
 RShiH = "कपोतो नैऋतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कपोपहतौ प्रायश्चित्तं वैश्वदेवं
@@ -98,7 +99,12 @@ mā́ ← mā́ (invariable)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हे॒तिः प॒क्षिणी॒ न द॑भात्य॒स्माना॒ष्ट्र्यां प॒दं कृ॑णुते अग्नि॒धाने॑ ।  
+शं नो॒ गोभ्य॑श्च॒ पुरु॑षेभ्यश्चास्तु॒ मा नो॑ हिंसीदि॒ह दे॑वाः क॒पोतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - “dove; kapotapuṭa; pigeon; sauvīrāñjana; bird.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

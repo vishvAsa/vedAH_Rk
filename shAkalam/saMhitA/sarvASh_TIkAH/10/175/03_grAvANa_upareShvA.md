@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "ऊर्ध्वग्रावार्बुदिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -54,7 +55,12 @@ vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)
 
 vŕ̥ṣṇyam ← vŕ̥ṣṇya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग्रावा॑ण॒ उप॑रे॒ष्वा म॑ही॒यन्ते॑ स॒जोष॑सः ।  
+वृष्णे॒ दध॑तो॒ वृष्ण्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - “manfulness; virility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

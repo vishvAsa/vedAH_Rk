@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अतिशक्वरी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -104,7 +105,13 @@ pītáye ← pītí- (nominal stem)
 
 r̥tā́ya ← r̥tá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒म आ या॑त॒मिन्द॑वः॒ सोमा॑सो॒ दध्या॑शिरः सु॒तासो॒ दध्या॑शिरः ।  
+उ॒त वा॑मु॒षसो॑ बु॒धि सा॒कं सूर्य॑स्य र॒श्मिभिः॑ ।  
+सु॒तो मि॒त्राय॒ वरु॑णाय पी॒तये॒ चारु॑रृ॒ताय॑ पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -262,7 +269,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -289,10 +295,6 @@ Here—you two, drive hither—are the drops, the soma drinks mixed with  curds�
 And at the waking of the dawn, simultaneous with the rays of the sun, it is pressed for you two, Mitra and Varuṇa, for drinking—the pleasing  one (pressed) for truth and for drinking.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-For the temporal expression in e, see disc. ad I.135.3.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/137/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -300,7 +302,6 @@ For the temporal expression in e, see disc. ad I.135.3.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ mádeṣu ← máda- (nominal stem)
 
 sarvadhā́ḥ ← sarvadhā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स शु॒ष्मी क॒लशे॒ष्वा पु॑ना॒नो अ॑चिक्रदत् ।  
+मदे॑षु सर्व॒धा अ॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,10 +169,6 @@ He, tempestuous in the tubs, kept roaring while being purified.
 – You are the one who confers wholeness in the raptures of exhilaration.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Because of the rel. cl. / main cl. structure of vss. 4-7 (see above), I would lightly emend to the tr. to “he/that one, tempestuous in the tubs, kept roaring …,” to display this structure more clearly.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">
 <details><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -175,7 +176,6 @@ Vss. 4-6 all (save for the refrain pāda) consist of rel. clauses headed by yá�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

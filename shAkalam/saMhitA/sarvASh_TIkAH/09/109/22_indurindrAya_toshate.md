@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -56,7 +57,11 @@ riṇán ← √rī- (root)
 
 ugráḥ ← ugrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दु॒रिन्द्रा॑य तोशते॒ नि तो॑शते श्री॒णन्नु॒ग्रो रि॒णन्न॒पः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +125,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

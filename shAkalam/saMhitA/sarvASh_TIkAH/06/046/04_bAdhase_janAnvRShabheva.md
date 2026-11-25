@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ sū́rye ← sū́rya- (nominal stem)
 
 tanū́ṣu ← tanū́- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बाध॑से॒ जना॑न्वृष॒भेव॑ म॒न्युना॒ घृषौ॑ मी॒ळ्ह ऋ॑चीषम ।  
+अ॒स्माकं॑ बोध्यवि॒ता म॑हाध॒ने त॒नूष्व॒प्सु सूर्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

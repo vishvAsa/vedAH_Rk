@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ pāhi ← √pā- 1 (root)
 
 pári ← pári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप्र॑युच्छ॒न्नप्र॑युच्छद्भिरग्ने शि॒वेभि॑र्नः पा॒युभिः॑ पाहि श॒ग्मैः ।  
+अद॑ब्धेभि॒रदृ॑पितेभिरि॒ष्टेऽनि॑मिषद्भिः॒ परि॑ पाहि नो॒ जाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “born.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

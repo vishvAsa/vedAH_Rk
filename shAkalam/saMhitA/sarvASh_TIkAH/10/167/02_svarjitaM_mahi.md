@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वामित्रजमदग्नी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ maghávānam ← maghávan- (nominal stem)
 
 spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒र्जितं॒ महि॑ मन्दा॒नमन्ध॑सो॒ हवा॑महे॒ परि॑ श॒क्रं सु॒ताँ उप॑ ।  
+इ॒मं नो॑ य॒ज्ञमि॒ह बो॒ध्या ग॑हि॒ स्पृधो॒ जय॑न्तं म॒घवा॑नमीमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

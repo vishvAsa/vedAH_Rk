@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ vaḥ ← tvám (pronoun)
 
 vasavaḥ ← vásu- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रः॒ सु पू॒षा वृष॑णा सु॒हस्ता॑ दि॒वो न प्री॒ताः श॑श॒यं दु॑दुह्रे ।  
+विश्वे॒ यद॑स्यां र॒णय॑न्त दे॒वाः प्र वोऽत्र॑ वसवः सु॒म्नम॑श्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

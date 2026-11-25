@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ vām ← tvám (pronoun)
 
 víśvā ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं च्यवा॑नं स॒नयं॒ यथा॒ रथं॒ पुन॒र्युवा॑नं च॒रथा॑य तक्षथुः ।  
+निष्टौ॒ग्र्यमू॑हथुर॒द्भ्यस्परि॒ विश्वेत्ता वां॒ सव॑नेषु प्र॒वाच्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     impart; convey; address; proclaim.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

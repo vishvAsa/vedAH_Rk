@@ -4,6 +4,7 @@ devataa = "अत्रिः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अत्रिः
@@ -86,7 +87,12 @@ māyā́ḥ ← māyā́- (nominal stem)
 
 svàrbhānoḥ ← svàrbhānu- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग्राव्णो॑ ब्र॒ह्मा यु॑युजा॒नः स॑प॒र्यन्की॒रिणा॑ दे॒वान्नम॑सोप॒शिक्ष॑न् ।  
+अत्रिः॒ सूर्य॑स्य दि॒वि चक्षु॒राधा॒त्स्व॑र्भानो॒रप॑ मा॒या अ॑घुक्षत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “hide; cover; conceal; shroud; obscure.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

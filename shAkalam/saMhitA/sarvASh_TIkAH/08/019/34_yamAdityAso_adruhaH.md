@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -57,7 +58,12 @@ sudānavaḥ ← sudā́nu- (nominal stem)
 
 víśveṣām ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यमा॑दित्यासो अद्रुहः पा॒रं नय॑थ॒ मर्त्य॑म् ।  
+म॒घोनां॒ विश्वे॑षां सुदानवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “big; lavish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,7 +161,6 @@ you who are the best givers among all the generous—
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/34-35.md">
 <details><summary><h2>34-35 ...{Loading}...</h2></summary>
 
@@ -164,7 +168,6 @@ These two vss. are so interrupted by heavy voc. phrases addressed to the Āditya
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ stotr̥̄ṇā́m ← stotár- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं हि स्तो॑म॒वर्ध॑न॒ इन्द्रास्यु॑क्थ॒वर्ध॑नः ।  
+स्तो॒तॄ॒णामु॒त भ॑द्र॒कृत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     writing; transforming; effecting.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

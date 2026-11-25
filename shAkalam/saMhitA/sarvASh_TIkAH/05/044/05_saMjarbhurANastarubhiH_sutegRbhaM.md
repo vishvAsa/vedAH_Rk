@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ pátnīḥ ← pátnī- (nominal stem)
 
 várdhasva ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं॒जर्भु॑राण॒स्तरु॑भिः सुते॒गृभं॑ वया॒किनं॑ चि॒त्तग॑र्भासु सु॒स्वरुः॑ ।  
+धा॒र॒वा॒केष्वृ॑जुगाथ शोभसे॒ वर्ध॑स्व॒ पत्नी॑र॒भि जी॒वो अ॑ध्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

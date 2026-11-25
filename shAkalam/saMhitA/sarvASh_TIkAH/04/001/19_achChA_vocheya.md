@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ páriṣiktam ← √sic- (root)
 
 pūtám ← √pū- (root)  
 {case:NOM, gender:N, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॑ वोचेय शुशुचा॒नम॒ग्निं होता॑रं वि॒श्वभ॑रसं॒ यजि॑ष्ठम् ।  
+शुच्यूधो॑ अतृण॒न्न गवा॒मन्धो॒ न पू॒तं परि॑षिक्तमं॒शोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

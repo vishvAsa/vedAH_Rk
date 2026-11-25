@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ sánitā ← sánitar- (nominal stem)
 
 śū́raiḥ ← śū́ra- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॒ त्वमू॒र्ध्वो अ॑ध्व॒राय॒ तिष्ठ॑सि क्ष॒यद्वी॑रः॒ स सा॑धते ।  
+सो अर्व॑द्भिः॒ सनि॑ता॒ स वि॑प॒न्युभिः॒ स शूरैः॒ सनि॑ता कृ॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

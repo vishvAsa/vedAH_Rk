@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vamráḥ ← vamrá- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॑व्रताय र॒न्धय॒न्नप॑व्रताना॒भूभि॒रिन्द्रः॑ श्न॒थय॒न्नना॑भुवः ।  
+वृ॒द्धस्य॑ चि॒द्वर्ध॑तो॒ द्यामिन॑क्षतः॒ स्तवा॑नो व॒म्रो वि ज॑घान सं॒दिहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “rampart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

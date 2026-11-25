@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ ní ← ní (invariable)
 
 paprathan ← √prathⁱ- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि पर्व॑तः सा॒द्यप्र॑युच्छ॒न्त्सं मा॒तृभि॑र्वावशा॒नो अ॑क्रान् ।  
+दू॒रे पा॒रे वाणीं॑ व॒र्धय॑न्त॒ इन्द्रे॑षितां ध॒मनिं॑ पप्रथ॒न्नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “back; down.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

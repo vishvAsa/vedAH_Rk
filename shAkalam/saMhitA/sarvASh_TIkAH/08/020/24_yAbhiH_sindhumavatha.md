@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ asacadviṣaḥ ← asacadviṣ- (nominal stem)
 
 śivā́bhiḥ ← śivá- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+याभिः॒ सिन्धु॒मव॑थ॒ याभि॒स्तूर्व॑थ॒ याभि॑र्दश॒स्यथा॒ क्रिवि॑म् ।  
+मयो॑ नो भूतो॒तिभि॑र्मयोभुवः शि॒वाभि॑रसचद्विषः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “hostile; hating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

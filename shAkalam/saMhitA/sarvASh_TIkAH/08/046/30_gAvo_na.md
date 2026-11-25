@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -61,7 +62,11 @@ vádhrayaḥ ← vádhri- (nominal stem)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गावो॒ न यू॒थमुप॑ यन्ति॒ वध्र॑य॒ उप॒ मा य॑न्ति॒ वध्र॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +136,6 @@ _________
 - “castrated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

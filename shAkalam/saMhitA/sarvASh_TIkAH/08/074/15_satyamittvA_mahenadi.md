@@ -4,6 +4,7 @@ devataa = "श्रुतर्वण आर्क्षस्य दानस�
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्रुतर्वण आर्क्षस्य दानस्तुतिः
@@ -74,7 +75,12 @@ mártyaḥ ← mártya- (nominal stem)
 
 śáviṣṭhāt ← śáviṣṭha- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒त्यमित्त्वा॑ महेनदि॒ परु॒ष्ण्यव॑ देदिशम् ।  
+नेमा॑पो अश्व॒दात॑रः॒ शवि॑ष्ठादस्ति॒ मर्त्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

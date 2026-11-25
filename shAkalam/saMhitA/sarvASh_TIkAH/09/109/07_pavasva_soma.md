@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -52,7 +53,11 @@ mahā́m ← máh- (nominal stem)
 
 pūrvyáḥ ← pūrvyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व सोम द्यु॒म्नी सु॑धा॒रो म॒हामवी॑ना॒मनु॑ पू॒र्व्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +120,6 @@ _________
 - “first; precedent; age-old; excellent; former(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -141,14 +145,6 @@ _________
 Purify yourself, o Soma, possessing heavenly brilliance and good  streams, along the (fleece) of the sheep as the great ancient one.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The morphological identity of mahā́m is uncertain: it could be acc. sg. (m.) (see AiG III.251, etc.) or gen. pl. to máh- (so Grassmann) - or, in my opinion, nom. sg. masc.
-
-to mahā́nt-. Most (Oldenberg, Geldner, Renou, Lubotsky) take it as an acc., supplying ‘fleece’ or ‘back’, hence “along the great (fleece) of the sheep.” For detailed disc. see Oldenberg ad loc. and ad II.24.11. Although this is certainly possible, the filter is not usually so described.
-
-A similar problem arises with a gen. pl. interpr., acdg. to which it would modify ávīnāmi “of the great sheep.” Since the most likely entity to be called ‘great’ in this vs. is Soma (cf., e.g., mahā́n samudráḥ in vs. 4, I think it likely that the form is nom. sg. In this sandhi position (before vowel) we would expect mahā́m̐(cf., e.g., IX.66.16 mahā́m̐asi), but I suggest that the anunāsika was redactionally changed to m because the form was reinterp. as a gen. pl. modifying immed. following ávīnām.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -156,7 +152,6 @@ Unlike the previous tṛca with repeated pavasva, each vs. of this tṛca has a 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

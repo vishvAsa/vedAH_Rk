@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अग्नियुतः स्थौरोग्नियूपो वा स्थौरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ udbhídaḥ ← udbhíd- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रेन्द्रा॒ग्निभ्यां॑ सुवच॒स्यामि॑यर्मि॒ सिन्धा॑विव॒ प्रेर॑यं॒ नाव॑म॒र्कैः ।  
+अया॑ इव॒ परि॑ चरन्ति दे॒वा ये अ॒स्मभ्यं॑ धन॒दा उ॒द्भिद॑श्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

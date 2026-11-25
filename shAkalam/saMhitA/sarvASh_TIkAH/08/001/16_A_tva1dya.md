@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ te ← tvám (pronoun)
 
 vaśmi ← √vaś- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त्व१॒॑द्य स॒धस्तु॑तिं वा॒वातुः॒ सख्यु॒रा ग॑हि ।  
+उप॑स्तुतिर्म॒घोनां॒ प्र त्वा॑व॒त्वधा॑ ते वश्मि सुष्टु॒तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “hymn; praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -228,10 +233,6 @@ Laudation = laudation made byhim together with manyother priests; subsidiary pra
 Come here today to the joint praise from your favorite and comrade. Let the invitatory praise of the bounteous ones help you forward. Then  I am eager for good praise for you.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The phraseology of this verse echoes some previous ones: its opening ā́tv àdyá is identical to 10a, and vāvā́tar- ‘favorite’ occurs in the RV only here and in 8b (in the same position).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
 <details><summary><h2>14-17 ...{Loading}...</h2></summary>
 
@@ -239,7 +240,6 @@ Note the concentration of nominal forms of the root √stu ‘praise’ in these
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

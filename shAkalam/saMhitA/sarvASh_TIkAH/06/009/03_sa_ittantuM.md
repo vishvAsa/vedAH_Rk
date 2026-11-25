@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -95,7 +96,12 @@ parás ← parás (invariable)
 
 páśyan ← √paś- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इत्तन्तुं॒ स वि जा॑ना॒त्योतुं॒ स वक्त्वा॑न्यृतु॒था व॑दाति ।  
+य ईं॒ चिके॑तद॒मृत॑स्य गो॒पा अ॒वश्चर॑न्प॒रो अ॒न्येन॒ पश्य॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
     visit; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

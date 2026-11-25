@@ -4,6 +4,7 @@ devataa = "इन्द्र ऋभवश्च"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्र ऋभवश्च
@@ -60,7 +61,12 @@ vājī́ ← vājín- (nominal stem)
 
 vājínam ← vājín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ इ॒षे द॑दातु न ऋभु॒क्षण॑मृ॒भुं र॒यिम् ।  
+वा॒जी द॑दातु वा॒जिन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “victorious; triumphant; strong; gainful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ pūrvya ← pūrvyá- (nominal stem)
 
 stómāya ← stóma- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒ग्धी न॑ इन्द्र॒ यत्त्वा॑ र॒यिं यामि॑ सु॒वीर्य॑म् ।  
+श॒ग्धि वाजा॑य प्रथ॒मं सिषा॑सते श॒ग्धि स्तोमा॑य पूर्व्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “first; precedent; age-old; excellent; former(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

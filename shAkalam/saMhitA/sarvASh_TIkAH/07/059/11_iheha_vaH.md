@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ vr̥ṇe ← √vr̥- ~ vr̥̄- (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒हेह॑ वः स्वतवसः॒ कव॑यः॒ सूर्य॑त्वचः ।  
+य॒ज्ञं म॑रुत॒ आ वृ॑णे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,14 +172,6 @@ Here, just here—you self-strong, sun-skinned poets—
 I will you (to come) here to (my) sacrifice, o Maruts.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The āmreḍita ihéha echoes that in vs. 1, idám-idam, forming a superficial ring. Given the apparent composite nature of the hymn, this apparent ring is presumbly not a sign of a hymn conceived originally as a unity, but perhaps a hasty adjustment to try to integrate the separate pieces.
-
-Pāda c appears to mean “I choose the/your sacrifice” (yajñám … ā́vṛṇe), as in Renou’s “je choisis votre sacrifice.” But this doesn’t make a lot of sense in its baldest form. Although ā́√vṛ normally just means ‘choose’, in this passage the ā́appears to be used as it is with √yaj: ā́√yaj means ‘attract through sacrifice’ (sim. ā́√pū ‘attract through purification’), hence my “I will you (to come) here to (my) sacrifice,” that is, I attract you to it by the force of my will.
-
-[VII.60-74 JPB]
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -182,7 +179,6 @@ For the Sākamedha rites reflected in these vss., see published introduction. an
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

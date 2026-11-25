@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ mandayátsakham ← mandayátsakha- (nominal stem)
 
 patayát ← patayát(sakha-) (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एमा॒शुमा॒शवे॑ भर यज्ञ॒श्रियं॑ नृ॒माद॑नम् ।  
+प॒त॒यन्म॑न्द॒यत्स॑खम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “friend; Kubera.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

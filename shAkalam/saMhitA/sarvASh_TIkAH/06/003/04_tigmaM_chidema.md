@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ dravíḥ ← draví- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒ग्मं चि॒देम॒ महि॒ वर्पो॑ अस्य॒ भस॒दश्वो॒ न य॑मसा॒न आ॒सा ।  
+वि॒जेह॑मानः पर॒शुर्न जि॒ह्वां द्र॒विर्न द्रा॑वयति॒ दारु॒ धक्ष॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     distress; destroy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

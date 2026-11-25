@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -52,7 +53,11 @@ nŕ̥bhiḥ ← nár- (nominal stem)
 
 sutásya ← √su- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिब॑न्त्यस्य॒ विश्वे॑ दे॒वासो॒ गोभिः॑ श्री॒तस्य॒ नृभिः॑ सु॒तस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +117,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -139,7 +143,6 @@ All the gods drink of him, prepared with cows, pressed by men.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -147,7 +150,6 @@ The adj. cā́ru- ‘dear’ occurs in 13 and 14. The gods as recipients of soma
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

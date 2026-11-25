@@ -4,6 +4,7 @@ devataa = "बर्हिः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बर्हिः
@@ -60,7 +61,12 @@ sātáye ← sātí- (nominal stem)
 
 śubhra ← śubhrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊर्ण॑म्रदा॒ वि प्र॑थस्वा॒भ्य१॒॑र्का अ॑नूषत ।  
+भवा॑ नः शुभ्र सा॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “victory; acquisition; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

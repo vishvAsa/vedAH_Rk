@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "वसिष्ठः कुमारो वाग्नेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -89,7 +90,12 @@ svabhiṣṭí ← svabhiṣṭí- (nominal stem)
 
 trivártu ← trivártu- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वर्ध॑न॒ ओष॑धीनां॒ यो अ॒पां यो विश्व॑स्य॒ जग॑तो दे॒व ईशे॑ ।  
+स त्रि॒धातु॑ शर॒णं शर्म॑ यंसत्त्रि॒वर्तु॒ ज्योतिः॑ स्वभि॒ष्ट्य१॒॑स्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

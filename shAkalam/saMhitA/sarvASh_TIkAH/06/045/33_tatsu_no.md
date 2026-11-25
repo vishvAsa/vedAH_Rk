@@ -4,6 +4,7 @@ devataa = "बृबुस्तक्षा"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृबुस्तक्षा
@@ -71,7 +72,12 @@ sahasrasā́tamam ← sahasrasā́tama- (nominal stem)
 
 sūrím ← sūrí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्सु नो॒ विश्वे॑ अ॒र्य आ सदा॑ गृणन्ति का॒रवः॑ ।  
+बृ॒बुं स॑हस्र॒दात॑मं सू॒रिं स॑हस्र॒सात॑मम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -92,7 +93,12 @@ rā́jani ← rā́jan- (nominal stem)
 
 yásmin ← yá- (pronoun)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इत्क्षे॑ति॒ सुधि॑त॒ ओक॑सि॒ स्वे तस्मा॒ इळा॑ पिन्वते विश्व॒दानी॑म् ।  
+तस्मै॒ विशः॑ स्व॒यमे॒वा न॑मन्ते॒ यस्मि॑न्ब्र॒ह्मा राज॑नि॒ पूर्व॒ एति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -262,7 +267,6 @@ Formulator comes first.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -272,7 +276,6 @@ The figure in vs. 6 is Bṛhaspati; filling the same slot in vs. 7 is the brahm�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -92,7 +93,12 @@ grāvāṇaḥ ← grā́van- (nominal stem)
 
 yásya ← yá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॑ वो अं॒शुर्न किला॑ रिषाथ॒नेळा॑वन्तः॒ सद॒मित्स्थ॒नाशि॑ताः ।  
+रै॒व॒त्येव॒ मह॑सा॒ चार॑वः स्थन॒ यस्य॑ ग्रावाणो॒ अजु॑षध्वमध्व॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

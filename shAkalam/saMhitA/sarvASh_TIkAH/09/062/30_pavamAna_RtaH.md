@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ stotré ← stotár- (nominal stem)
 
 suvī́ryam ← suvī́rya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मान ऋ॒तः क॒विः सोमः॑ प॒वित्र॒मास॑दत् ।  
+दध॑त्स्तो॒त्रे सु॒वीर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -161,10 +166,6 @@ Self-purifying Soma, the entruthed poet, has sat in the filter,
 establishing for the praiser an abundance of heroes.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the masc. ṛtáḥ and the phrase ṛtáḥ kavíḥ see comm. ad VIII.60.5, which contains the same phrase, save for sandhi variation.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -172,7 +173,6 @@ No overt signs of unity.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

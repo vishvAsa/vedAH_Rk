@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -54,7 +55,12 @@ ródhasvatīḥ ← ródhasvant- (nominal stem)
 
 yātá ← √yā- 1 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मरु॑तो वीळुपा॒णिभि॑श्चि॒त्रा रोध॑स्वती॒रनु॑ ।  
+या॒तेमखि॑द्रयामभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “expedition; path; expedition; arrival.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

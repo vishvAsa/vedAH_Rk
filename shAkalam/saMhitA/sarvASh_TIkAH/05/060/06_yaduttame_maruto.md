@@ -4,6 +4,7 @@ devataa = "मरुतो मरुतो वाग्निश्च"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतो मरुतो वाग्निश्च
@@ -101,7 +102,12 @@ yájāma ← √yaj- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदु॑त्त॒मे म॑रुतो मध्य॒मे वा॒ यद्वा॑व॒मे सु॑भगासो दि॒वि ष्ठ ।  
+अतो॑ नो रुद्रा उ॒त वा॒ न्व१॒॑स्याग्ने॑ वि॒त्ताद्ध॒विषो॒ यद्यजा॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -258,7 +264,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

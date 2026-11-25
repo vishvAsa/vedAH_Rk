@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ tanvì ← tanū́- (nominal stem)
 
 váśam ← váśa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यावा॑पृथि॒वी ज॑नयन्न॒भि व्र॒ताप॒ ओष॑धीर्व॒निना॑नि य॒ज्ञिया॑ ।  
+अ॒न्तरि॑क्षं॒ स्व१॒॑रा प॑प्रुरू॒तये॒ वशं॑ दे॒वास॑स्त॒न्वी॒३॒॑ नि मा॑मृजुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “purify; polish; rub; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

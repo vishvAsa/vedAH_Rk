@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -128,7 +129,13 @@ pr̥kṣám ← pr̥kṣá- (nominal stem)
 
 vājínam ← vājín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स श्रु॑धि॒ यः स्मा॒ पृत॑नासु॒ कासु॑ चिद्द॒क्षाय्य॑ इन्द्र॒ भर॑हूतये॒ नृभि॒रसि॒ प्रतू॑र्तये॒ नृभिः॑ ।  
+यः शूरैः॒ स्व१॑ः॒ सनि॑ता॒ यो विप्रै॒र्वाजं॒ तरु॑ता ।  
+तमी॑शा॒नास॑ इरधन्त वा॒जिनं॑ पृ॒क्षमत्यं॒ न वा॒जिन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -328,7 +335,6 @@ _________
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

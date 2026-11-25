@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ nís ← nís (invariable)
 
 ródasyoḥ ← ródasī- (nominal stem)  
 {case:GEN, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परा॑ चिच्छी॒र्षा व॑वृजु॒स्त इ॒न्द्राय॑ज्वानो॒ यज्व॑भिः॒ स्पर्ध॑मानाः ।  
+प्र यद्दि॒वो ह॑रिवः स्थातरुग्र॒ निर॑व्र॒ताँ अ॑धमो॒ रोद॑स्योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “heaven and earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

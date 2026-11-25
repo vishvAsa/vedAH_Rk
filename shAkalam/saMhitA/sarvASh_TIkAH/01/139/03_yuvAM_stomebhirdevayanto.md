@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -116,7 +117,13 @@ hiraṇyáye ← hiraṇyáya- (nominal stem)
 
 ráthe ← rátha- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वां स्तोमे॑भिर्देव॒यन्तो॑ अश्विनाश्रा॒वय॑न्त इव॒ श्लोक॑मा॒यवो॑ यु॒वां ह॒व्याभ्या॒३॒॑यवः॑ ।  
+यु॒वोर्विश्वा॒ अधि॒ श्रियः॒ पृक्ष॑श्च विश्ववेदसा ।  
+प्रु॒षा॒यन्ते॑ वां प॒वयो॑ हिर॒ण्यये॒ रथे॑ दस्रा हिर॒ण्यये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -291,7 +298,6 @@ _________
 - “gold; aureate; hiraṇyaya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -66,7 +67,12 @@ naḥ ← ahám (pronoun)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒प्रा॒वीर॑स्तु॒ स क्षयः॒ प्र नु याम॑न्त्सुदानवः ।  
+ये नो॒ अंहो॑ऽति॒पिप्र॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - \[verb\], plural, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

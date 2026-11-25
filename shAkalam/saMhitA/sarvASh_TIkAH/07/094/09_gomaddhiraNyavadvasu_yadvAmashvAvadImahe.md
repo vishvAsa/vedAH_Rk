@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -60,7 +61,12 @@ tát ← sá- ~ tá- (pronoun)
 
 vanemahi ← √vanⁱ- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गोम॒द्धिर॑ण्यव॒द्वसु॒ यद्वा॒मश्वा॑व॒दीम॑हे ।  
+इन्द्रा॑ग्नी॒ तद्व॑नेमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “obtain; gain; desire; get; like; love; overcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

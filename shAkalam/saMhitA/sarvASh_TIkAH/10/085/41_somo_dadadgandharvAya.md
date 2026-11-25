@@ -4,6 +4,7 @@ devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्या
@@ -80,7 +81,12 @@ máhyam ← ahám (pronoun)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमो॑ ददद्गन्ध॒र्वाय॑ गन्ध॒र्वो द॑दद॒ग्नये॑ ।  
+र॒यिं च॑ पु॒त्राँश्चा॑दाद॒ग्निर्मह्य॒मथो॑ इ॒माम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

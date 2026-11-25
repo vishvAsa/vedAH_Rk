@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ kṣiprā́ ← kṣiprá- (nominal stem)
 
 vidhyati ← √vyadh- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स विप्र॑श्चर्षणी॒नां शव॑सा॒ मानु॑षाणाम् ।  
+अति॑ क्षि॒प्रेव॑ विध्यति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “pierce; vedhay; pierce; transfix; bleed; pierce; cut off; injure.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

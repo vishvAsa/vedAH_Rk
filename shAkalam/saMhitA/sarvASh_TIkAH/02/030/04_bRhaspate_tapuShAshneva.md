@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ jahi ← √han- (root)
 
 śátrum ← śátru- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृह॑स्पते॒ तपु॒षाश्ने॑व विध्य॒ वृक॑द्वरसो॒ असु॑रस्य वी॒रान् ।  
+यथा॑ ज॒घन्थ॑ धृष॒ता पु॒रा चि॑दे॒वा ज॑हि॒ शत्रु॑म॒स्माक॑मिन्द्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

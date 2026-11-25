@@ -4,6 +4,7 @@ devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्याविवाहः
@@ -74,7 +75,12 @@ mánasā ← mánas- (nominal stem)
 
 savitā́ ← savitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमो॑ वधू॒युर॑भवद॒श्विना॑स्तामु॒भा व॒रा ।  
+सू॒र्यां यत्पत्ये॒ शंस॑न्तीं॒ मन॑सा सवि॒ताद॑दात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

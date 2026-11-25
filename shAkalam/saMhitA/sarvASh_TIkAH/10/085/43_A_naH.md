@@ -4,6 +4,7 @@ devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्या
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 śám ← śám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नः॑ प्र॒जां ज॑नयतु प्र॒जाप॑तिराजर॒साय॒ सम॑नक्त्वर्य॒मा ।  
+अदु॑र्मङ्गलीः पतिलो॒कमा वि॑श॒ शं नो॑ भव द्वि॒पदे॒ शं चतु॑ष्पदे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “quadrupedal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

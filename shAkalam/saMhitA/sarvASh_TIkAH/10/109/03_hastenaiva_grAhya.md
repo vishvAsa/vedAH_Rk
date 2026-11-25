@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "जुहूर्ब्रह्मजायोर्ध्वनाभा वा ब्राह्मः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ rāṣṭrám ← rāṣṭrá- (nominal stem)
 
 táthā ← táthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हस्ते॑नै॒व ग्रा॒ह्य॑ आ॒धिर॑स्या ब्रह्मजा॒येयमिति॒ चेदवो॑चन् ।  
+न दू॒ताय॑ प्र॒ह्ये॑ तस्थ ए॒षा तथा॑ रा॒ष्ट्रं गु॑पि॒तं क्ष॒त्रिय॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “Kshatriya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

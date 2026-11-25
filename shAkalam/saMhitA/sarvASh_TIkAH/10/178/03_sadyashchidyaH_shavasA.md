@@ -4,6 +4,7 @@ devataa = "तार्क्ष्यः"
 RShiH = "अरिष्थनेमिस्तार्क्ष्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तार्क्ष्यः
@@ -95,7 +96,12 @@ varante ← √vr̥- (root)
 
 yuvatím ← yuvatí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒द्यश्चि॒द्यः शव॑सा॒ पञ्च॑ कृ॒ष्टीः सूर्य॑ इव॒ ज्योति॑षा॒पस्त॒तान॑ ।  
+स॒ह॒स्र॒साः श॑त॒सा अ॑स्य॒ रंहि॒र्न स्मा॑ वरन्ते युव॒तिं न शर्या॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “arrow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

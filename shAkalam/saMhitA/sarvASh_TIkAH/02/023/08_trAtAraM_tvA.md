@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -83,7 +84,12 @@ sumnám ← sumná- (nominal stem)
 
 úttaram ← úttara- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रा॒तारं॑ त्वा त॒नूनां॑ हवाम॒हेऽव॑स्पर्तरधिव॒क्तार॑मस्म॒युम् ।  
+बृह॑स्पते देव॒निदो॒ नि ब॑र्हय॒ मा दु॒रेवा॒ उत्त॑रं सु॒म्नमुन्न॑शन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “reach; achieve; enter (a state); reach.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

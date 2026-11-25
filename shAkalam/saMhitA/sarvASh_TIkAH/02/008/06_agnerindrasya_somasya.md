@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -65,7 +66,12 @@ pr̥tanyatáḥ ← √pr̥tany- (root)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्नेरिन्द्र॑स्य॒ सोम॑स्य दे॒वाना॑मू॒तिभि॑र्व॒यम् ।  
+अरि॑ष्यन्तः सचेमह्य॒भि ष्या॑म पृतन्य॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “attack.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -180,7 +185,6 @@ not suffering harm. May we surmount those who do battle.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -189,7 +193,6 @@ As the just-mentioned structural device expires in 4a, another takes its place. 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

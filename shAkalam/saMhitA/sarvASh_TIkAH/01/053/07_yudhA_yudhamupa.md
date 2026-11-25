@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ námucim ← námuci- (nominal stem)
 
 nibarháyaḥ ← √br̥h- (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒धा युध॒मुप॒ घेदे॑षि धृष्णु॒या पु॒रा पुरं॒ समि॒दं हं॒स्योज॑सा ।  
+नम्या॒ यदि॑न्द्र॒ सख्या॑ परा॒वति॑ निब॒र्हयो॒ नमु॑चिं॒ नाम॑ मा॒यिन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “artful; charming; crafty; deceptive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

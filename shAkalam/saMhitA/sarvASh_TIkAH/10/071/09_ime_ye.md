@@ -4,6 +4,7 @@ devataa = "ज्ञानं"
 RShiH = "बृहस्पतिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ज्ञानं
@@ -92,7 +93,12 @@ tántram ← tántra- (nominal stem)
 
 tanvate ← √tan- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे ये नार्वाङ्न प॒रश्चर॑न्ति॒ न ब्रा॑ह्म॒णासो॒ न सु॒तेक॑रासः ।  
+त ए॒ते वाच॑मभि॒पद्य॑ पा॒पया॑ सि॒रीस्तन्त्रं॑ तन्वते॒ अप्र॑जज्ञयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

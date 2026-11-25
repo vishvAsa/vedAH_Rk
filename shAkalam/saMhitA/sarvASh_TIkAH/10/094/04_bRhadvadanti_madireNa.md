@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -80,7 +81,12 @@ pr̥thivī́m ← pr̥thivī́- (nominal stem)
 
 upabdíbhiḥ ← upabdí- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हद्व॑दन्ति मदि॒रेण॑ म॒न्दिनेन्द्रं॒ क्रोश॑न्तोऽविदन्न॒ना मधु॑ ।  
+सं॒रभ्या॒ धीराः॒ स्वसृ॑भिरनर्तिषुराघो॒षय॑न्तः पृथि॒वीमु॑प॒ब्दिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “trample.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

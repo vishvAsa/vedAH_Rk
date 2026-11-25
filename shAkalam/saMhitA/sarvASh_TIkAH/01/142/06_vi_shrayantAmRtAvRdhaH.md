@@ -4,6 +4,7 @@ devataa = "देवीर्द्वारः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवीर्द्वारः
@@ -65,7 +66,12 @@ devī́ḥ ← devī́- (nominal stem)
 
 dvā́raḥ ← dvā́r- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि श्र॑यन्तामृता॒वृधः॑ प्र॒यै दे॒वेभ्यो॑ म॒हीः ।  
+पा॒व॒कासः॑ पुरु॒स्पृहो॒ द्वारो॑ दे॒वीर॑स॒श्चतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “inexhaustible.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

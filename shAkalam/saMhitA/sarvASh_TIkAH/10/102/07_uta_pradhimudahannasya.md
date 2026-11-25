@@ -4,6 +4,7 @@ devataa = "द्रुघण इन्द्रो वा"
 RShiH = "मुद्गलो भार्म्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रुघण इन्द्रो वा
@@ -89,7 +90,12 @@ kakúdmān ← kakúdmant- (nominal stem)
 
 pádyābhiḥ ← pádyā- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त प्र॒धिमुद॑हन्नस्य वि॒द्वानुपा॑युन॒ग्वंस॑ग॒मत्र॒ शिक्ष॑न् ।  
+इन्द्र॒ उदा॑व॒त्पति॒मघ्न्या॑ना॒मरं॑हत॒ पद्या॑भिः क॒कुद्मा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “bull; mountain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

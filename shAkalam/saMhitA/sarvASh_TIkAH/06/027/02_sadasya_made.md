@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ u ← u (invariable)
 
 vividre ← √vid- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सद॑स्य॒ मदे॒ सद्व॑स्य पी॒ताविन्द्रः॒ सद॑स्य स॒ख्ये च॑कार ।  
+रणा॑ वा॒ ये नि॒षदि॒ सत्ते अ॑स्य पु॒रा वि॑विद्रे॒ सदु॒ नूत॑नासः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -269,7 +275,6 @@ _________
 - “new; fresh; recent; contemporary; present(a); first.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -297,7 +302,6 @@ Or those [=priests] who were there with joy at the installation of it—the  pre
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/027/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -305,7 +309,6 @@ These two vss. form a tight pair, whose responsions are detailed below.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

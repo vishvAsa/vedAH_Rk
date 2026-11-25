@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ kavím ← kaví- (nominal stem)
 
 prayajyo ← práyajyu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वा॒युमच्छा॑ बृह॒ती म॑नी॒षा बृ॒हद्र॑यिं वि॒श्ववा॑रं रथ॒प्राम् ।  
+द्यु॒तद्या॑मा नि॒युतः॒ पत्य॑मानः क॒विः क॒विमि॑यक्षसि प्रयज्यो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

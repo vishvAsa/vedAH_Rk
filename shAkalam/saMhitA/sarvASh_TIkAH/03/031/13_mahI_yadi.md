@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ táviṣīḥ ← táviṣī- (nominal stem)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒ही यदि॑ धि॒षणा॑ शि॒श्नथे॒ धात्स॑द्यो॒वृधं॑ वि॒भ्वं१॒॑ रोद॑स्योः ।  
+गिरो॒ यस्मि॑न्ननव॒द्याः स॑मी॒चीर्विश्वा॒ इन्द्रा॑य॒ तवि॑षी॒रनु॑त्ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “anutta \[word\]; insuperable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

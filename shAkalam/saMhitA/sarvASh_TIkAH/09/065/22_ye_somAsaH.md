@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ vā ← vā (invariable)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये सोमा॑सः परा॒वति॒ ये अ॑र्वा॒वति॑ सुन्वि॒रे ।  
+ये वा॒दः श॑र्य॒णाव॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,12 +164,6 @@ _________
 The soma juices that have been pressed in the distance, those nearby, or those yonder in a reed-filled (lake),
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first two pādas contain antonymic locations.
-
-The location in c is taken by Geldner/Renou as a place name, “in Śaryaṇāvat,” but a place descriptor seems preferable, given the other locative expressions in these vss. On the word see comm. ad VIII.6.39 and Thieme, Unters. p. 40 n. 2.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -172,7 +171,6 @@ As noted in the published introduction, this tṛca is thematically unified by a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

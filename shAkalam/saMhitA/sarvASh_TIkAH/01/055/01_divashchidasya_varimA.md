@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ vájram ← vájra- (nominal stem)
 
 váṁsagaḥ ← váṁsaga- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वश्चि॑दस्य वरि॒मा वि प॑प्रथ॒ इन्द्रं॒ न म॒ह्ना पृ॑थि॒वी च॒न प्रति॑ ।  
+भी॒मस्तुवि॑ष्माञ्चर्ष॒णिभ्य॑ आत॒पः शिशी॑ते॒ वज्रं॒ तेज॑से॒ न वंस॑गः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “bull.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -259,10 +264,6 @@ His expansion spreads out even beyond heaven; not even the earth is the  counter
 Fearsome and mighty, a scorching firebrand for the settled domains, he  hones his mace, like a buffalo (its horn), to be piercingly sharp.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-phonetic figure … ví papratha, … pṛthivī́… práti #
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/055/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -270,7 +271,6 @@ The two stems varimán- and várīman- appear here in successive verses without 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

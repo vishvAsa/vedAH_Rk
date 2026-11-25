@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ gáyena ← gáya- (nominal stem)
 
 jánaḥ ← jána- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा प्ल॒तेः सू॒नुर॑वीवृधद्वो॒ विश्व॑ आदित्या अदिते मनी॒षी ।  
+ई॒शा॒नासो॒ नरो॒ अम॑र्त्ये॒नास्ता॑वि॒ जनो॑ दि॒व्यो गये॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -95,7 +96,12 @@ pátim ← páti- (nominal stem)
 
 śraddhā́manāḥ ← śraddhā́manas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इज्जने॑न॒ स वि॒शा स जन्म॑ना॒ स पु॒त्रैर्वाजं॑ भरते॒ धना॒ नृभिः॑ ।  
+दे॒वानां॒ यः पि॒तर॑मा॒विवा॑सति श्र॒द्धाम॑ना ह॒विषा॒ ब्रह्म॑ण॒स्पति॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “Brahmaṇaspati.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

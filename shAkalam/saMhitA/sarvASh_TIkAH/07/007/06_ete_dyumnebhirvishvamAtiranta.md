@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते द्यु॒म्नेभि॒र्विश्व॒माति॑रन्त॒ मन्त्रं॒ ये वारं॒ नर्या॒ अत॑क्षन् ।  
+प्र ये विश॑स्ति॒रन्त॒ श्रोष॑माणा॒ आ ये मे॑ अ॒स्य दीध॑यन्नृ॒तस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

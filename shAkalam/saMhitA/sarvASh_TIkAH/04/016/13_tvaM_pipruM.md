@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ púraḥ ← púr- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं पिप्रुं॒ मृग॑यं शूशु॒वांस॑मृ॒जिश्व॑ने वैदथि॒नाय॑ रन्धीः ।  
+प॒ञ्चा॒शत्कृ॒ष्णा नि व॑पः स॒हस्रात्कं॒ न पुरो॑ जरि॒मा वि द॑र्दः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “cleave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

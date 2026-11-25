@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ kṣára ← √kṣar- (root)
 
 sahasríṇīḥ ← sahasrín- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ णो॒ अश्व॑मश्व॒विद्गोम॑दिन्दो॒ हिर॑ण्यवत् ।  
+क्षरा॑ सह॒स्रिणी॒रिषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “refreshment; enjoyment; stores.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,12 +169,6 @@ Stream around to us horseflesh, as horse-finder, and (wealth) in cattle  and gol
 and thousandfold refreshments.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The Inhaltsakk. with pári … kṣárā are disharmonious in formation, with the sg.
-
-noun áśvam (rendered in the published translation as the mass noun ‘horseflesh’, perhaps a bit too vividly) in pāda a followed by two possessive adj. gómat and híraṇyavat ‘possessing / consisting of cattle (and) gold’ in pāda b, followed by a pl. NP sahasríṇīr íṣaḥ ‘thousandfold refreshments’ in c. In a we might have expected áśvāvat ‘possessing / consisting of horses’, to match the adjectival forms in b, but the phonologically similar and adjacent aśvavíd ‘horse-finding’ may have blocked it (to avoid *áśvāvad aśvavíd [though some RVic poets would have loved that phrase]).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -177,7 +176,6 @@ This tṛca shows some signs of unity. The 1st two vss. are a syntactic unit, wi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अयास्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ kármabhiḥ ← kárman- (nominal stem)
 
 vardhanti ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते सोमा॑स॒ इन्द॑वः॒ प्रय॑स्वन्तश्च॒मू सु॒ताः ।  
+इन्द्रं॑ वर्धन्ति॒ कर्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
     process; duty; therapy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

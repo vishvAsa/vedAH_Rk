@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ vardháyatam ← √vr̥dh- (root)
 
 vīrám ← vīrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रि॒व॒न्धु॒रेण॑ त्रि॒वृता॒ रथे॑न त्रिच॒क्रेण॑ सु॒वृता या॑तम॒र्वाक् ।  
+पिन्व॑तं॒ गा जिन्व॑त॒मर्व॑तो नो व॒र्धय॑तमश्विना वी॒रम॒स्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

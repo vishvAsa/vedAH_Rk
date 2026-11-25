@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ tārīḥ ← √tr̥̄- 1 (root)
 
 vaíśvānara ← vaiśvānará- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद॑ब्धेभि॒स्तव॑ गो॒पाभि॑रिष्टे॒ऽस्माकं॑ पाहि त्रिषधस्थ सू॒रीन् ।  
+रक्षा॑ च नो द॒दुषां॒ शर्धो॑ अग्ने॒ वैश्वा॑नर॒ प्र च॑ तारीः॒ स्तवा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “laud; praise; declare; stu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

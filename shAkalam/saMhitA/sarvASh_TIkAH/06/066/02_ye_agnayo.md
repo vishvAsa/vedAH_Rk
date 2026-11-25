@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ paúṁsyebhiḥ ← paúṁsya- (nominal stem)
 
 sākám ← sākám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये अ॒ग्नयो॒ न शोशु॑चन्निधा॒ना द्विर्यत्त्रिर्म॒रुतो॑ वावृ॒धन्त॑ ।  
+अ॒रे॒णवो॑ हिर॒ण्यया॑स एषां सा॒कं नृ॒म्णैः पौंस्ये॑भिश्च भूवन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

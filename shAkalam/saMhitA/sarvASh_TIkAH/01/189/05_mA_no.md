@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ rī́ṣate ← √riṣ- (root)
 
 sahasāvan ← sahasāvan- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ अ॒ग्नेऽव॑ सृजो अ॒घाया॑वि॒ष्यवे॑ रि॒पवे॑ दु॒च्छुना॑यै ।  
+मा द॒त्वते॒ दश॑ते॒ मादते॑ नो॒ मा रीष॑ते सहसाव॒न्परा॑ दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -65,7 +66,12 @@ r̥ṣṭíbhiḥ ← r̥ṣṭí- (nominal stem)
 
 tápuragrābhiḥ ← tápuragra- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒षेण॑ भङ्गु॒राव॑तः॒ प्रति॑ ष्म र॒क्षसो॑ दह ।  
+अग्ने॑ ति॒ग्मेन॑ शो॒चिषा॒ तपु॑रग्राभिरृ॒ष्टिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “spear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

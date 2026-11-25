@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ párvatān ← párvata- (nominal stem)
 
 savitā́ram ← savitár- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रोतये॒ वरु॑णं मि॒त्रमिन्द्रं॑ म॒रुतः॑ कृ॒ष्वाव॑से नो अ॒द्य ।  
+प्र पू॒षणं॒ विष्णु॑म॒ग्निं पुरं॑धिं सवि॒तार॒मोष॑धीः॒ पर्व॑ताँश्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -80,7 +81,12 @@ puruścandrásya ← puruścandrá- (nominal stem)
 
 rāyáḥ ← rayí- ~ rāy- (nominal stem)  
 {gender:M}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं वि॑ष्णो सुम॒तिं वि॒श्वज॑न्या॒मप्र॑युतामेवयावो म॒तिं दाः॑ ।  
+पर्चो॒ यथा॑ नः सुवि॒तस्य॒ भूरे॒रश्वा॑वतः पुरुश्च॒न्द्रस्य॑ रा॒यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “wealth; possession; rai \[word\]; gold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

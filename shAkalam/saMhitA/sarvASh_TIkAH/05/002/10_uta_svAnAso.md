@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कुमार आत्रेयो वृशो वा जान उभौ वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ paribā́dhaḥ ← paribā́dh- (nominal stem)
 
 varante ← √vr̥- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्वा॒नासो॑ दि॒वि ष॑न्त्व॒ग्नेस्ति॒ग्मायु॑धा॒ रक्ष॑से॒ हन्त॒वा उ॑ ।  
+मदे॑ चिदस्य॒ प्र रु॑जन्ति॒ भामा॒ न व॑रन्ते परि॒बाधो॒ अदे॑वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “godless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -276,7 +281,6 @@ Let the roarings of Agni rise to the heaven,
 Sharp weapons to slay the Raksas;  
 In the carouse his radiance bursteth forth  
 The godless assailers cannot restrain him.
-
 </details>
 
 <details><summary>Geldner</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ rūpám ← rūpá- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दुं॑ रिहन्ति महि॒षा अद॑ब्धाः प॒दे रे॑भन्ति क॒वयो॒ न गृध्राः॑ ।  
+हि॒न्वन्ति॒ धीरा॑ द॒शभिः॒ क्षिपा॑भिः॒ सम॑ञ्जते रू॒पम॒पां रसे॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     Rasātala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,10 +247,6 @@ The undeceivable buffaloes lick the drop. On his track the poets squawk  like bi
 The insightful ones impel him with their ten fingers. They jointly anoint  his form with the sap of the waters.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The simile in b is one of the best pieces of evidence for my interpr. of √ribh as ‘squawk, creak,’ etc., rather than ‘sing’. The simile “like birds of prey” (ná gṛ́dhrāḥ) only makes sense if the verb that expresses the sounds of the voices of the poets (kaváyaḥ) is not a mellifluous one. Both Geldner and Renou struggle with this. Geldner reduces rebhanti to ‘become hearable/known’: “… werden die Seher lautbar wie die Geier” (not the first quality one things of for a Geier); Renou simply recasts the simile: “sur sa trace ils psalmodient, comme des poètes avides (de gain).”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/55-58.md">
 <details><summary><h2>55-58 ...{Loading}...</h2></summary>
 
@@ -257,7 +258,6 @@ Happily none of the vss. presents us with the desperate difficulties of the prec
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

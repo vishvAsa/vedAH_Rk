@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ devā́nām ← devá- (nominal stem)
 
 mahát ← mahā́nt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मां च॑ नः पृथि॒वीं वि॒श्वधा॑या॒ उप॑ क्षेति हि॒तमि॑त्रो॒ न राजा॑ ।  
+पु॒रः॒सदः॑ शर्म॒सदो॒ न वी॒रा म॒हद्दे॒वाना॑मसुर॒त्वमेक॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     consistent; any(a); undifferentiated; disjunct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -260,10 +265,6 @@ And he who suckles all of us [=Agni] dwells peacefully on this earth  here, like
 stationed in front like heroes stationed for protection. – Great is the one  and only lordship of the gods.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first three pādas here are almost identical to I.73.3abc, where Agni is definitely the referent. For disc. of some of the detail, see comm. there.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -271,7 +272,6 @@ I’m not sure why Tvaṣṭar appears here. The previous vs., with the arrival 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

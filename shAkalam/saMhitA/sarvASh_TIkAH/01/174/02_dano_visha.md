@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 yū́ne ← yúvan- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दनो॒ विश॑ इन्द्र मृ॒ध्रवा॑चः स॒प्त यत्पुरः॒ शर्म॒ शार॑दी॒र्दर्त् ।  
+ऋ॒णोर॒पो अ॑नव॒द्यार्णा॒ यूने॑ वृ॒त्रं पु॑रु॒कुत्सा॑य रन्धीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “subjugate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

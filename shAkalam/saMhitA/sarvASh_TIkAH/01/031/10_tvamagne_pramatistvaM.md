@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ vratapā́m ← vratapā́- (nominal stem)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने॒ प्रम॑ति॒स्त्वं पि॒तासि॑ न॒स्त्वं व॑य॒स्कृत्तव॑ जा॒मयो॑ व॒यम् ।  
+सं त्वा॒ रायः॑ श॒तिनः॒ सं स॑ह॒स्रिणः॑ सु॒वीरं॑ यन्ति व्रत॒पाम॑दाभ्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “trustworthy; disabused(p).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

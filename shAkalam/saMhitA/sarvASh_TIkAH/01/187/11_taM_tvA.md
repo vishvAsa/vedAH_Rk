@@ -4,6 +4,7 @@ devataa = "अन्नम्"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अन्नम्
@@ -77,7 +78,12 @@ sadhamā́dam ← sadhamā́da- (nominal stem)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ व॒यं पि॑तो॒ वचो॑भि॒र्गावो॒ न ह॒व्या सु॑षूदिम ।  
+दे॒वेभ्य॑स्त्वा सध॒माद॑म॒स्मभ्यं॑ त्वा सध॒माद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “banquet; party; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

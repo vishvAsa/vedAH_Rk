@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ mandráyā ← mandrá- (nominal stem)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोम॑ उ षुवा॒णः सो॒तृभि॒रधि॒ ष्णुभि॒रवी॑नाम् ।  
+अश्व॑येव ह॒रिता॑ याति॒ धार॑या म॒न्द्रया॑ याति॒ धार॑या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “flush; flow; current; spring; fountain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -205,10 +210,6 @@ Soma, being pressed by the pressers upon the backs of the sheep, drives with his
 delighting stream.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Since áśvayā is fem., the tr. should be emended to “with a golden mare.” See Geldner’s disc. (n. 8cd) and dismissal of Roth’s proposed emendation (also rejected by Oldenberg), to bring out the comparison of the stream of soma to the urine stream of a horse, which, as Geldner points out, is still possible without emendation.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -216,7 +217,6 @@ The 2nd hemistich of vs. 8 and the first of vs. 9 have a refrain-like structure 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -95,7 +96,12 @@ yát ← yá- (pronoun)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तं वो॑चे॒ नम॑सा पृ॒च्छ्यमा॑न॒स्तवा॒शसा॑ जातवेदो॒ यदी॒दम् ।  
+त्वम॒स्य क्ष॑यसि॒ यद्ध॒ विश्वं॑ दि॒वि यदु॒ द्रवि॑णं॒ यत्पृ॑थि॒व्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

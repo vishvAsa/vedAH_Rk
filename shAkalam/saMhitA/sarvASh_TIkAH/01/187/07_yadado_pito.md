@@ -4,6 +4,7 @@ devataa = "अन्नम्"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अन्नम्
@@ -74,7 +75,12 @@ bhakṣā́ya ← bhakṣá- (nominal stem)
 
 gamyāḥ ← √gam- (root)  
 {number:SG, person:2, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒दो पि॑तो॒ अज॑गन्वि॒वस्व॒ पर्व॑तानाम् ।  
+अत्रा॑ चिन्नो मधो पि॒तोऽरं॑ भ॒क्षाय॑ गम्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

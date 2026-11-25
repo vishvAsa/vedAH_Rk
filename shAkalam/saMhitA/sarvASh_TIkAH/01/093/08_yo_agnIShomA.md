@@ -4,6 +4,7 @@ devataa = "अग्नीषोमौ"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती त्रिष्टुब्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नीषोमौ
@@ -86,7 +87,12 @@ viśé ← víś- (nominal stem)
 
 yachatam ← √yam- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अ॒ग्नीषोमा॑ ह॒विषा॑ सप॒र्याद्दे॑व॒द्रीचा॒ मन॑सा॒ यो घृ॒तेन॑ ।  
+तस्य॑ व्र॒तं र॑क्षतं पा॒तमंह॑सो वि॒शे जना॑य॒ महि॒ शर्म॑ यच्छतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

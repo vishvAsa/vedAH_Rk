@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "वसिष्ठः"
 ChandaH = "अतिजगती शक्वरी वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -94,7 +95,12 @@ nadyàḥ ← nadī́- (nominal stem)
 
 sárvāḥ ← sárva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+याः प्र॒वतो॑ नि॒वत॑ उ॒द्वत॑ उद॒न्वती॑रनुद॒काश्च॒ याः ।  
+ता अ॒स्मभ्यं॒ पय॑सा॒ पिन्व॑मानाः शि॒वा दे॒वीर॑शिप॒दा भ॑वन्तु॒ सर्वा॑ न॒द्यो॑ अशिमि॒दा भ॑वन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

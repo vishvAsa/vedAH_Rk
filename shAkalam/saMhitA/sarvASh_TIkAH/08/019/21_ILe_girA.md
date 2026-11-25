@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ havyavā́hanam ← havyavā́hana- (nominal stem)
 
 yájiṣṭham ← yájiṣṭha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ईळे॑ गि॒रा मनु॑र्हितं॒ यं दे॒वा दू॒तम॑र॒तिं न्ये॑रि॒रे ।  
+यजि॑ष्ठं हव्य॒वाह॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

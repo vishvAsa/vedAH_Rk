@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ saparyā́mi ← √sapary- (root)
 
 yā́mi ← √yā- 2 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+होता॑रं स॒प्त जु॒ह्वो॒३॒॑ यजि॑ष्ठं॒ यं वा॒घतो॑ वृ॒णते॑ अध्व॒रेषु॑ ।  
+अ॒ग्निं विश्वे॑षामर॒तिं वसू॑नां सप॒र्यामि॒ प्रय॑सा॒ यामि॒ रत्न॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
     jewelry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

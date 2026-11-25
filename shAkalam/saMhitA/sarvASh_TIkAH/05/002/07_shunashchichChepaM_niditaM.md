@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कुमार आत्रेयो वृशो वा जान उभौ वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ niṣádya ← √sad- (root)
 
 tú ← tú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुन॑श्चि॒च्छेपं॒ निदि॑तं स॒हस्रा॒द्यूपा॑दमुञ्चो॒ अश॑मिष्ट॒ हि षः ।  
+ए॒वास्मद॑ग्ने॒ वि मु॑मुग्धि॒ पाशा॒न्होत॑श्चिकित्व इ॒ह तू नि॒षद्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “sit down; sit; put.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

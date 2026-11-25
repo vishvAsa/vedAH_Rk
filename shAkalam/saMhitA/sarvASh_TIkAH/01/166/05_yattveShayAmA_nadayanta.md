@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ prá ← prá (invariable)
 
 rathīyántī ← √rathīy- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्त्वे॒षया॑मा न॒दय॑न्त॒ पर्व॑तान्दि॒वो वा॑ पृ॒ष्ठं नर्या॒ अचु॑च्यवुः ।  
+विश्वो॑ वो॒ अज्म॑न्भयते॒ वन॒स्पती॑ रथी॒यन्ती॑व॒ प्र जि॑हीत॒ ओष॑धिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -71,7 +72,12 @@ bhindanti ← √bhid- (root)
 
 ójasā ← ójas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्म॒ ते परु॑ष्ण्या॒मूर्णा॑ वसत शु॒न्ध्यवः॑ ।  
+उ॒त प॒व्या रथा॑ना॒मद्रिं॑ भिन्द॒न्त्योज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -195,14 +200,6 @@ And they clothe themselves in wool [=foam] in the Paruṣṇī (River)—they  (
 and with the wheel-rim of their chariots they split the stone with force.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The phrase páruṣṇyām ū́rṇā vasata is similar to IV.22.2 páruṣṇīm uṣámāṇa ū́rṇām, but while in the latter páruṣṇīm modifies ‘wool’, here it must be a loc. sg.
-
-The ‘wool’ in both passages is best understood as a metaphor for ‘foam’. The stem páruṣṇī- is the fem. corresponding to paruṣá- ‘gray’. It is also a river name, presumably so called because it is covered with grayish foam. For disc. see Oldenberg, Hoffmann (Aufs. 333-35 [=Die Sprache 1974]). The mediating image in this picture is provided by śundhyávaḥ; I follow Thieme (KZ 79 [1965] = Kl Sch. 219ff.) in interpr. this form as ‘preening [waterbird]’ (to √śudh ‘clean’). As pointed out in the published introduction, the density of imagery is remarkable: the Maruts swathed in clouds (not explicitly mentioned) are compared to birds in a river covered with foam, with the foam (again not explicit) characterized as wool.
-
-The instr. sg. pavyā́to the masc. stem paví- shows the older -ā ending, which becomes limited to fem. -i-stems when the masc./ neut. adopt -inā.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/052/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -210,7 +207,6 @@ I don't understand the force of utá sma, which opens 8c and 9a, with utá openi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

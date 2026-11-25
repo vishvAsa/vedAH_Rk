@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ hí ← hí (invariable)
 
 viṣpáṭ ← viṣpáś- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि घ॒ त्वावाँ॑ ऋतजात यंसद्गृणा॒नो अ॑ग्ने त॒न्वे॒३॒॑ वरू॑थम् ।  
+विश्वा॑द्रिरि॒क्षोरु॒त वा॑ निनि॒त्सोर॑भि॒ह्रुता॒मसि॒ हि दे॑व वि॒ष्पट् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

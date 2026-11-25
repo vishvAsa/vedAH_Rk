@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ akar ← √kr̥- (root)
 
 védanā ← védana- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आवः॒ शमं॑ वृष॒भं तुग्र्या॑सु क्षेत्रजे॒षे म॑घव॒ञ्छ्वित्र्यं॒ गाम् ।  
+ज्योक्चि॒दत्र॑ तस्थि॒वांसो॑ अक्रञ्छत्रूय॒तामध॑रा॒ वेद॑नाकः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

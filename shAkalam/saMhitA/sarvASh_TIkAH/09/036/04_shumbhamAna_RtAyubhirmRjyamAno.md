@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -51,7 +52,12 @@ pávate ← √pū- (root)
 
 vā́re ← vā́ra- 1 (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒म्भमा॑न ऋता॒युभि॑र्मृ॒ज्यमा॑नो॒ गभ॑स्त्योः ।  
+पव॑ते॒ वारे॑ अ॒व्यये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +108,6 @@ _________
 - “sheep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

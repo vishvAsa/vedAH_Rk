@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ yát ← yá- (pronoun)
 
 vájreṇa ← vájra- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता तू त॑ इन्द्र मह॒तो म॒हानि॒ विश्वे॒ष्वित्सव॑नेषु प्र॒वाच्या॑ ।  
+यच्छू॑र धृष्णो धृष॒ता द॑धृ॒ष्वानहिं॒ वज्रे॑ण॒ शव॒सावि॑वेषीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “labor; act; perform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -250,7 +255,6 @@ that, o daring champion, having dared with daring, you worked over the  serpent 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/022/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -258,7 +262,6 @@ These vss. summarizing Indra’s great deeds begin identically: tā́tū́te [ta
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

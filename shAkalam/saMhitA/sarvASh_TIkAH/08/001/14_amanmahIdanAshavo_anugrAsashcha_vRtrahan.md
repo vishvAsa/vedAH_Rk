@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ mudīmahi ← √mud- (root)
 
 stómam ← stóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अम॑न्म॒हीद॑ना॒शवो॑ऽनु॒ग्रास॑श्च वृत्रहन् ।  
+स॒कृत्सु ते॑ मह॒ता शू॑र॒ राध॑सा॒ अनु॒ स्तोमं॑ मुदीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “rejoice; delight; revel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -209,10 +214,6 @@ Indeed we have considered ourselves neither swift nor strong, you  Vr̥tra-smash
 But in an instant, through your great generosity, o champion, we could  (again) take delight in your praise.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although the primary sense of d, “take delight in your praise,” is surely that the poets will enjoy praising Indra, in the context of these two verses it presumably also implies that they will take delight because their praise will put them (back?) into Indra’s good graces and thereby improve their own view of themselves and their chances of making good.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
 <details><summary><h2>14-17 ...{Loading}...</h2></summary>
 
@@ -220,7 +221,6 @@ Note the concentration of nominal forms of the root √stu ‘praise’ in these
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

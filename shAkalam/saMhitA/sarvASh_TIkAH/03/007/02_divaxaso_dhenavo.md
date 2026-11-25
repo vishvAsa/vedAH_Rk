@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ pári ← pári (invariable)
 
 vartaním ← vartaní- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वक्ष॑सो धे॒नवो॒ वृष्णो॒ अश्वा॑ दे॒वीरा त॑स्थौ॒ मधु॑म॒द्वह॑न्तीः ।  
+ऋ॒तस्य॑ त्वा॒ सद॑सि क्षेम॒यन्तं॒ पर्येका॑ चरति वर्त॒निं गौः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

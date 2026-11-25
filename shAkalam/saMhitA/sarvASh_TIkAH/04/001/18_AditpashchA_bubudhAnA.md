@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ satyám ← satyá- (nominal stem)
 
 varuṇa ← váruṇa- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदित्प॒श्चा बु॑बुधा॒ना व्य॑ख्य॒न्नादिद्रत्नं॑ धारयन्त॒ द्युभ॑क्तम् ।  
+विश्वे॒ विश्वा॑सु॒ दुर्या॑सु दे॒वा मित्र॑ धि॒ये व॑रुण स॒त्यम॑स्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -267,14 +272,6 @@ all the gods (did so) in all the houses. O Mitra, Varuṇa—let it
 [=treasure] come into existence (also) for our insightful thought.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I interpr. the “treasure apportioned by heaven” (rátnam … dyúbhaktam) to be in the first instance cows (as in I.73.6), those released from the Vala cave, but the cows conceived of as dawns and therefore as light, including the light of the newly kindled ritual fire. See vs. 10 above, with rátnam … devábhaktam. This buried “light” motif works well with the houses in pāda c, where the ritual fire is at home (see vss.
-
-9, 11 above), and provides an easy transition to the invocation of Agni in the next vs. The subj. of dhārayanta in b I take as the gods in c (with Oldenberg, SBE, Hoffmann, Witzel Gotō), rather than taking c as a separate nominal cl. (Geldner, Renou). Note the chiastic morphological figure in c, allowing alliteration between the nom./loc. pairs: víśve víśvāsu dúryāsu devā́(ḥ).
-
-In d I supply the treasure (in the form of light) as the subj. of satyám astu (so also Hoffmann). This VP should be interpr. in the context of santi satyā́in 7a. See comm. there.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
 <details><summary><h2>10-18 ...{Loading}...</h2></summary>
 
@@ -282,7 +279,6 @@ Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

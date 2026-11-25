@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -63,7 +64,12 @@ yát ← yá- (pronoun)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्वार्यं॑ वृणीमहे॒ वरि॑ष्ठं गोप॒यत्य॑म् ।  
+मि॒त्रो यत्पान्ति॒ वरु॑णो॒ यद॑र्य॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “Aryaman; aryaman \[word\]; sun.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

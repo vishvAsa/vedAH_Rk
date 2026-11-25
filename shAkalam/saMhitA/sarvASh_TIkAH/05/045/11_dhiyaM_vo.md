@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सदापृण आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ dhiyā́ ← dhī́- (nominal stem)
 
 tuturyāma ← √tūr(v)- ~ tur- (root)  
 {number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धियं॑ वो अ॒प्सु द॑धिषे स्व॒र्षां ययात॑र॒न्दश॑ मा॒सो नव॑ग्वाः ।  
+अ॒या धि॒या स्या॑म दे॒वगो॑पा अ॒या धि॒या तु॑तुर्या॒मात्यंहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “trouble; sin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

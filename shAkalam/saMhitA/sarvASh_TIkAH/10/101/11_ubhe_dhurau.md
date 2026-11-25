@@ -4,6 +4,7 @@ devataa = "विश्वेदेवा ऋत्विजो वा"
 RShiH = "बुधः सौम्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -86,7 +87,12 @@ sú ← sú (invariable)
 
 útsam ← útsa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भे धुरौ॒ वह्नि॑रा॒पिब्द॑मानो॒ऽन्तर्योने॑व चरति द्वि॒जानिः॑ ।  
+वन॒स्पतिं॒ वन॒ आस्था॑पयध्वं॒ नि षू द॑धिध्व॒मख॑नन्त॒ उत्स॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “spring; fountain; utsa \[word\]; well.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

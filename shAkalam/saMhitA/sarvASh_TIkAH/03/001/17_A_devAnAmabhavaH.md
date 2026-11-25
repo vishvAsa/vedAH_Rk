@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ sā́dhan ← √sādh- ~ sidh- (root)
 
 yāsi ← √yā- 1 (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ दे॒वाना॑मभवः के॒तुर॑ग्ने म॒न्द्रो विश्वा॑नि॒ काव्या॑नि वि॒द्वान् ।  
+प्रति॒ मर्ताँ॑ अवासयो॒ दमू॑ना॒ अनु॑ दे॒वान्र॑थि॒रो या॑सि॒ साध॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “promote; succeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

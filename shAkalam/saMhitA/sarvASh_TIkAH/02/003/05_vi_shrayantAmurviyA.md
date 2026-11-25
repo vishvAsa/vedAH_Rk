@@ -4,6 +4,7 @@ devataa = "देवीर्द्वारः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवीर्द्वारः
@@ -80,7 +81,12 @@ várṇam ← várṇa- (nominal stem)
 
 yaśásam ← yaśás- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि श्र॑यन्तामुर्वि॒या हू॒यमा॑ना॒ द्वारो॑ दे॒वीः सु॑प्राय॒णा नमो॑भिः ।  
+व्यच॑स्वती॒र्वि प्र॑थन्तामजु॒र्या वर्णं॑ पुना॒ना य॒शसं॑ सु॒वीर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

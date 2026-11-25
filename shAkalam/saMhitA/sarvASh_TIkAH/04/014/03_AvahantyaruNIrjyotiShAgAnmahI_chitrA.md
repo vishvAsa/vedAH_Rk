@@ -4,6 +4,7 @@ devataa = "अग्निर्लिङ्गोक्तदेवता व�
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्लिङ्गोक्तदेवता वा
@@ -80,7 +81,12 @@ suyújā ← suyúj- (nominal stem)
 
 uṣā́ḥ ← uṣás- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒वह॑न्त्यरु॒णीर्ज्योति॒षागा॑न्म॒ही चि॒त्रा र॒श्मिभि॒श्चेकि॑ताना ।  
+प्र॒बो॒धय॑न्ती सुवि॒ताय॑ दे॒व्यु१॒॑षा ई॑यते सु॒युजा॒ रथे॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

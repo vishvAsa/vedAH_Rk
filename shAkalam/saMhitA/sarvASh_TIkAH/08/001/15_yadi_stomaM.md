@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ mándantu ← √mand- (root)
 
 tugryāvŕ̥dhaḥ ← tugryāvŕ̥dh- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॒ स्तोमं॒ मम॒ श्रव॑द॒स्माक॒मिन्द्र॒मिन्द॑वः ।  
+ति॒रः प॒वित्रं॑ ससृ॒वांस॑ आ॒शवो॒ मन्द॑न्तु तुग्र्या॒वृधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -193,10 +198,6 @@ Through the filter: An epithet is added: the filtering cloth is plural ced slant
 If he will listen to my praise, let our (soma-)drops invigorate Indra, when they have run swift across the filter, they that strengthen the son  of Tugra [=Bhujyu].
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Again the uncertainty about whether Indra will pay attention to their praise gives a slightly nervous air to the beginning of this verse. In the 2nd pāda the full form of ‘our’ (asmā́kam) is fronted; a tr. better reflecting this emphasis and in harmony with the poets’ anxieties about Indra’s attention would be “let it be our (soma-)drops that invigorate Indra…” Cf. 3cd.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/001/14-17.md">
 <details><summary><h2>14-17 ...{Loading}...</h2></summary>
 
@@ -204,7 +205,6 @@ Note the concentration of nominal forms of the root √stu ‘praise’ in these
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

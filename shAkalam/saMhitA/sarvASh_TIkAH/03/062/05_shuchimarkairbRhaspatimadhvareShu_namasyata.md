@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -57,7 +58,12 @@ cake ← √kā- (root)
 
 ójaḥ ← ójas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुचि॑म॒र्कैर्बृह॒स्पति॑मध्व॒रेषु॑ नमस्यत ।  
+अना॒म्योज॒ आ च॑के ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “like; delight; desire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -136,7 +141,6 @@ _________
 हे ऋत्विजो यूयम् **अध्वरेषु** **शुचिं** शुद्धं **बृहस्पतिम्** **अर्कैः** अर्चनीयैः स्तोत्रैः **नमस्यत** परिचरत । **अनामि** अनमनशीलं परैरनभिभवनीयम् **ओजः** तस्य बलम् **आ** **चके** सर्वतो याचे ॥ बृहस्पतिम् । वनस्पत्यादित्वादुभयपदप्रकृतिस्वरः । चके । कमेर्लिट्युत्तमे मकारलोपश्छान्दसः ॥ ॥ ९ ॥
 ________________
 हे ऋत्विजः! शुचिं शुद्धं बृहस्पतिमध्वरेषु याजेषु अर्कैरर्चनैस्सह नमस्यत नमस्कुरुत । तस्य बृहस्पतेः प्रसादादहम् अनामि कस्याप्य् अवशं **ओजो** बलम् **आचके** सर्वतः प्राप्नवानि ।
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -152,10 +156,6 @@ _________
 To blazing Br̥haspati give reverence with recitations at the ceremonies— his unbowed power I desire—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner (/Witzel Gotō) take ā́cake as 3rd sg. (Geldner: “Er liebt unbeugsame Kraft”). This is certainly possible, but Schmidt (Bṛhaspati und Indra, 131) makes good arguments for flg. Sāyaṇa and Grassmann in taking it as 1st sg.; see also Renou (EVP XVI, ad loc.).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -163,7 +163,6 @@ Vs. 6 is entirely couched in the acc. and picks up from 5ab, where the acc. phra
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

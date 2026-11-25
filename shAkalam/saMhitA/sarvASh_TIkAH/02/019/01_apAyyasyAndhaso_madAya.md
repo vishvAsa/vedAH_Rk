@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ náraḥ ← nár- (nominal stem)
 
 ókaḥ ← ókas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपा॑य्य॒स्यान्ध॑सो॒ मदा॑य॒ मनी॑षिणः सुवा॒नस्य॒ प्रय॑सः ।  
+यस्मि॒न्निन्द्रः॑ प्र॒दिवि॑ वावृधा॒न ओको॑ द॒धे ब्र॑ह्म॒ण्यन्त॑श्च॒ नरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

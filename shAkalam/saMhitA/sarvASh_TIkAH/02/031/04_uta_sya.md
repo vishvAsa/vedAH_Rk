@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ púraṁdhiḥ ← púraṁdhi- (nominal stem)
 
 pūṣā́ ← pūṣán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्य दे॒वो भुव॑नस्य स॒क्षणि॒स्त्वष्टा॒ ग्नाभिः॑ स॒जोषा॑ जूजुव॒द्रथ॑म् ।  
+इळा॒ भगो॑ बृहद्दि॒वोत रोद॑सी पू॒षा पुरं॑धिर॒श्विना॒वधा॒ पती॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

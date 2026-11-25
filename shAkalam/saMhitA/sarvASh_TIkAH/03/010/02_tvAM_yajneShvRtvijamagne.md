@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -64,7 +65,12 @@ dáme ← dáma- (nominal stem)
 
 své ← svá- (pronoun)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां य॒ज्ञेष्वृ॒त्विज॒मग्ने॒ होता॑रमीळते ।  
+गो॒पा ऋ॒तस्य॑ दीदिहि॒ स्वे दमे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “dwelling; home.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

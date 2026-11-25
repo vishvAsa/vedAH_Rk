@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ bibheda ← √bhid- (root)
 
 vr̥ṣṇínā ← vr̥ṣṇí- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि चि॑द्वृ॒त्रस्य॒ दोध॑तो॒ वज्रे॑ण श॒तप॑र्वणा ।  
+शिरो॑ बिभेद वृ॒ष्णिना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - \[noun\], instrumental, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

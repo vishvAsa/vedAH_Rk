@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -60,7 +61,12 @@ bodhatam ← √budh- (root)
 
 tásya ← sá- ~ tá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञस्य॒ हि स्थ ऋ॒त्विजा॒ सस्नी॒ वाजे॑षु॒ कर्म॑सु ।  
+इन्द्रा॑ग्नी॒ तस्य॑ बोधतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
     attend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -176,7 +181,6 @@ prize-contests and in (cultic/heroic) acts,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/038/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -184,7 +188,6 @@ The referent of tásya in the refrain pāda is not specified. It must fall into 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

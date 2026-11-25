@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गोतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ tirás ← tirás (invariable)
 
 yā́mebhiḥ ← yā́ma- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मानास॒ इन्द॑वस्ति॒रः प॒वित्र॑मा॒शवः॑ ।  
+इन्द्रं॒ यामे॑भिराशत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -142,7 +147,6 @@ have reached Indra on their journeys.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -153,7 +157,6 @@ On úsrayaḥ as ‘rosy (fingers)’ see comm. ad IV.65.1.
 The published translation contains a grammatical error: asvaran should of course be ‘they cried’ not ‘they cry’.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

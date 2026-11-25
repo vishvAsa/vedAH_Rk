@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ puruhūta ← puruhūtá- (nominal stem)
 
 rāyáḥ ← rayí- ~ rāy- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न यस्य॑ व॒र्ता ज॒नुषा॒ न्वस्ति॒ न राध॑स आमरी॒ता म॒घस्य॑ ।  
+उ॒द्वा॒वृ॒षा॒णस्त॑विषीव उग्रा॒स्मभ्यं॑ दद्धि पुरुहूत रा॒यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “wealth; possession; rai \[word\]; gold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

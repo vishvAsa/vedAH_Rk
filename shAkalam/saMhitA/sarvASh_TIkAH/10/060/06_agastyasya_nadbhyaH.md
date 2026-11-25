@@ -4,6 +4,7 @@ devataa = "असमातिः"
 RShiH = "अगस्त्यस्य स्वसैषां माता ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - असमातिः
@@ -68,7 +69,12 @@ rājan ← rā́jan- (nominal stem)
 
 víśvān ← víśva- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒गस्त्य॑स्य॒ नद्भ्यः॒ सप्ती॑ युनक्षि॒ रोहि॑ता ।  
+प॒णीन्न्य॑क्रमीर॒भि विश्वा॑न्राजन्नरा॒धसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “stingy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

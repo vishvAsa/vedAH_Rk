@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ pūrbhít ← pūrbhíd- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यः सु॑ष॒व्यः सु॒दक्षि॑ण इ॒नो यः सु॒क्रतु॑र्गृ॒णे ।  
+य आ॑क॒रः स॒हस्रा॒ यः श॒ताम॑घ॒ इन्द्रो॒ यः पू॒र्भिदा॑रि॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

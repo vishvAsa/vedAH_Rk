@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -74,7 +75,12 @@ usríyāḥ ← usríya- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते स॒त्येन॒ मन॑सा॒ गोप॑तिं॒ गा इ॑या॒नास॑ इषणयन्त धी॒भिः ।  
+बृह॒स्पति॑र्मि॒थोअ॑वद्यपेभि॒रुदु॒स्रिया॑ असृजत स्व॒युग्भिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “ally; friend; pair; two; companion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

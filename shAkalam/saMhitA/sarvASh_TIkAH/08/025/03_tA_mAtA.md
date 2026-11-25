@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -57,7 +58,12 @@ mahī́ ← máh- (nominal stem)
 
 r̥tā́varī ← ŕ̥tāvan- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता मा॒ता वि॒श्ववे॑दसासु॒र्या॑य॒ प्रम॑हसा ।  
+म॒ही ज॑जा॒नादि॑तिरृ॒ताव॑री ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “law-abiding; faithful; righteous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ stuṣé ← √stu- (root)
 
 śūṣásya ← śūṣá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒शोवि॑शो वो॒ अति॑थिं वाज॒यन्तः॑ पुरुप्रि॒यम् ।  
+अ॒ग्निं वो॒ दुर्यं॒ वचः॑ स्तु॒षे शू॒षस्य॒ मन्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “hymn; idea; purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

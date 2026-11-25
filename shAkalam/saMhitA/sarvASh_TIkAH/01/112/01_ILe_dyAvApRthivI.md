@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ~अग्निः;अश�
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ~अग्निः;अश्विनौ
@@ -92,7 +93,12 @@ u ← u (invariable)
 
 ūtíbhiḥ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ईळे॒ द्यावा॑पृथि॒वी पू॒र्वचि॑त्तये॒ऽग्निं घ॒र्मं सु॒रुचं॒ याम॑न्नि॒ष्टये॑ ।  
+याभि॒र्भरे॑ का॒रमंशा॑य॒ जिन्व॑थ॒स्ताभि॑रू॒ षु ऊ॒तिभि॑रश्वि॒ना ग॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

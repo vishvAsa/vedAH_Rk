@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उपस्तुतो वार्ष्टिहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ dhánvanā ← dhánur ~ dhánvan- (nominal stem)
 
 mahíntamāya ← mahíntama- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒जिन्त॑माय॒ सह्य॑से सुपित्र्य तृ॒षु च्यवा॑नो॒ अनु॑ जा॒तवे॑दसे ।  
+अ॒नु॒द्रे चि॒द्यो धृ॑ष॒ता वरं॑ स॒ते म॒हिन्त॑माय॒ धन्व॒नेद॑विष्य॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

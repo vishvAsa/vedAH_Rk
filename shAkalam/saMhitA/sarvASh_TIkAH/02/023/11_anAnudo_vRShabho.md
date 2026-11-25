@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -83,7 +84,12 @@ ugrásya ← ugrá- (nominal stem)
 
 vīḷuharṣíṇaḥ ← vīḷuharṣín- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ना॒नु॒दो वृ॑ष॒भो जग्मि॑राह॒वं निष्ट॑प्ता॒ शत्रुं॒ पृत॑नासु सास॒हिः ।  
+असि॑ स॒त्य ऋ॑ण॒या ब्र॑ह्मणस्पत उ॒ग्रस्य॑ चिद्दमि॒ता वी॑ळुह॒र्षिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

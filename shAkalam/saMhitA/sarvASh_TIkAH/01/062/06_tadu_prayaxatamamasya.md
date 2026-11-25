@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ mádhvarṇasaḥ ← mádhvarṇas- (nominal stem)
 
 nadyàḥ ← nadī́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदु॒ प्रय॑क्षतममस्य॒ कर्म॑ द॒स्मस्य॒ चारु॑तममस्ति॒ दंसः॑ ।  
+उ॒प॒ह्व॒रे यदुप॑रा॒ अपि॑न्व॒न्मध्व॑र्णसो न॒द्य१॒॑श्चत॑स्रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “four; catur \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

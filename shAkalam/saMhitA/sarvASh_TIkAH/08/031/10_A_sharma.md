@@ -4,6 +4,7 @@ devataa = "दंपत्योराशिषः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "पादनिचृत्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपत्योराशिषः
@@ -54,7 +55,12 @@ sacābhúvaḥ ← sacābhū́- (nominal stem)
 
 víṣṇoḥ ← víṣṇu- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ शर्म॒ पर्व॑तानां वृणी॒महे॑ न॒दीना॑म् ।  
+आ विष्णोः॑ सचा॒भुवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “ally.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

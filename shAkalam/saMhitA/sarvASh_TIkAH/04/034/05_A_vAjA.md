@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -92,7 +93,12 @@ iva ← iva (invariable)
 
 navasvàḥ ← navasū́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वा॑जा या॒तोप॑ न ऋभुक्षा म॒हो न॑रो॒ द्रवि॑णसो गृणा॒नाः ।  
+आ वः॑ पी॒तयो॑ऽभिपि॒त्वे अह्ना॑मि॒मा अस्तं॑ नव॒स्व॑ इव ग्मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

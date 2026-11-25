@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -83,7 +84,12 @@ naḥ ← ahám (pronoun)
 
 tā́ni ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माद॒हं त॑वि॒षादीष॑माण॒ इन्द्रा॑द्भि॒या म॑रुतो॒ रेज॑मानः ।  
+यु॒ष्मभ्यं॑ ह॒व्या निशि॑तान्यास॒न्तान्या॒रे च॑कृमा मृ॒ळता॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

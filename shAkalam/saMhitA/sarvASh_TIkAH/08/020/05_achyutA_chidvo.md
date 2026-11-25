@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ rejate ← √rej- (root)
 
 yā́meṣu ← yā́ma- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्यु॑ता चिद्वो॒ अज्म॒न्ना नान॑दति॒ पर्व॑तासो॒ वन॒स्पतिः॑ ।  
+भूमि॒र्यामे॑षु रेजते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “tremor; flicker.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

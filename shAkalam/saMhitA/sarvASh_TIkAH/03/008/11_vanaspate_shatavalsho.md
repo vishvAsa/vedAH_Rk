@@ -4,6 +4,7 @@ devataa = "व्रश्चनः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - व्रश्चनः
@@ -80,7 +81,12 @@ praṇinā́ya ← √nī- (root)
 
 saúbhagāya ← saúbhaga- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वन॑स्पते श॒तव॑ल्शो॒ वि रो॑ह स॒हस्र॑वल्शा॒ वि व॒यं रु॑हेम ।  
+यं त्वाम॒यं स्वधि॑ति॒स्तेज॑मानः प्रणि॒नाय॑ मह॒ते सौभ॑गाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “well-being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

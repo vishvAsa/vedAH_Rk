@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -131,7 +132,13 @@ cit ← cit (invariable)
 
 rírikṣantam ← √riṣ- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं न॑ इन्द्र रा॒या तरू॑षसो॒ग्रं चि॑त्त्वा महि॒मा स॑क्ष॒दव॑से म॒हे मि॒त्रं नाव॑से ।  
+ओजि॑ष्ठ॒ त्रात॒रवि॑ता॒ रथं॒ कं चि॑दमर्त्य ।  
+अ॒न्यम॒स्मद्रि॑रिषेः॒ कं चि॑दद्रिवो॒ रिरि॑क्षन्तं चिदद्रिवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -330,7 +337,6 @@ _________
 - “rocky; petrous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -368,7 +374,6 @@ the stone.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/129/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -376,7 +381,6 @@ Note identical openings to these two vss: tváṃ na indra rāyā́…, with the
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

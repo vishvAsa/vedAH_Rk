@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ janayanta ← √janⁱ- (root)
 
 pā́tram ← pā́tra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मू॒र्धानं॑ दि॒वो अ॑र॒तिं पृ॑थि॒व्या वै॑श्वान॒रमृ॒त आ जा॒तम॒ग्निम् ।  
+क॒विं स॒म्राज॒मति॑थिं॒ जना॑नामा॒सन्ना पात्रं॑ जनयन्त दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -265,14 +270,6 @@ The head of heaven, the spoked wheel of the earth, Agni Vaiśvānara,  born in t
 sage poet, sovereign king, guest of the peoples—as a drinking cup to  their mouth did the gods beget (him).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Since Agni is often called the mouth of the gods, Geldner (and others) assume that the loc. āsán in d refers to Agni, and the gods have produced a drinking cup (pā́tram) to put in his mouth. But this requires Geldner to treat the three-pāda accusative phrase that opens the hymn and refers to Agni as grammatically untethered, as an anacoluthon with the referent picked up in the loc. in pāda d (see his n. 1d). But, with Renou, I see no reason why Agni cannot be conceptualized here as the cup that the gods drink from.
-
-Renou considers āsán simply an attribute limiting the pā́tra-, a “récipient pour la bouche, récipient à boire,” while I take it as referring to the gods’ (collective) mouth.
-
-Note the phonologically matching words aratím and átithim stationed in the same metrical position in pādas a and c.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -282,7 +279,6 @@ There are only three finite verbs in this two-vs. sequence, all injunctives: 1d 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -296,7 +292,6 @@ The head of the sky, the messenger of earth,
 Vaiśvanara, born for holy order, Agni,  
 The sage, the king, the guest of men,  
 The gods have produced as a cup for their mouths.
-
 </details>
 
 <details><summary>Geldner</summary>

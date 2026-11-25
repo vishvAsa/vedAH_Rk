@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ rūpaíḥ ← rūpá- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भुव॑त्त्रि॒तस्य॒ मर्ज्यो॒ भुव॒दिन्द्रा॑य मत्स॒रः ।  
+सं रू॒पैर॑ज्यते॒ हरिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “reddish brown; yellow; pale; yellow; aureate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -173,24 +178,12 @@ exhilaration for Indra.
 The tawny one is anointed with the forms (of milk).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On Trita, see comm. ad IX.37.4.
-
-Geldner interpr. the rūpaíḥ with which the soma is anointed as its colors (“mit seinen Farben”). However, (sám) √añj is specialized in IX for cows (that is, their milk). Cf. ## 47
-yád góbhiḥ ... samajyáse, IX.72.1 sáṃ dhenúbhiḥ ... ajyate; without sám there are multiple passages, e.g., góbhir añjānáḥ ... (IX.50.5, etc.), góbhir ajyase (IX.85.5), and, esp., nearby IX.32.3 átyo ná góbhir ajyate. I therefore think that our passage must refer to “forms” of milk; so also Renou in his n., though unusually for him he does not supply it in tr.
-
-(“de formes-concrètes”). That this vs. is sandwiched between two vss. that contain the verb ‘milk’, 3c duhanti, 5b duhaté, further supports this interpr., though in both 3 and 5 the milk is not literal milk, but soma itself.
-
-The published translation does not reflect the possible pun on sám … ajyate that was noted in
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/034/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The final words of these two vss. are the phonologically similar háriḥ and havíḥ, both referring to soma -- though one is masc. nom. and the other neut. acc. 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

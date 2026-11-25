@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ samudrám ← samudrá- (nominal stem)
 
 viśa ← √viś- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मान॒ नि तो॑शसे र॒यिं सो॑म श्र॒वाय्य॑म् ।  
+प्रि॒यः स॑मु॒द्रमा वि॑श ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -157,10 +162,6 @@ O self-purifying Soma, you spill down wealth worthy of fame.
 As dear one, enter the sea.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On (ní) √tuś see comm. ad VIII.38.2.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -168,7 +169,6 @@ A form of páva- in each vs.: 22a pávasva, 23a pávamāna, 24a pavase, a patter
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ aśoci ← √śuc- (root)
 
 uṣásām ← uṣás- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒न्धे राजा॒ सम॒र्यो नमो॑भि॒र्यस्य॒ प्रती॑क॒माहु॑तं घृ॒तेन॑ ।  
+नरो॑ ह॒व्येभि॑रीळते स॒बाध॒ आग्निरग्र॑ उ॒षसा॑मशोचि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “mourn; grieve; flame; glow; burn; repent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

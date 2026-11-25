@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ gíraḥ ← gír- ~ gīr- (nominal stem)
 
 sasr̥jmáhe ← √sr̥j- (root)  
 {number:PL, person:1, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ त्वा र॒ण्वसं॑दृशं॒ प्रय॑स्वन्तः सहस्कृत ।  
+अग्ने॑ ससृ॒ज्महे॒ गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

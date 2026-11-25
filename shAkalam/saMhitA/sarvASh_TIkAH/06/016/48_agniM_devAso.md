@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -65,7 +66,12 @@ tr̥ḷhā́ ← √tr̥h- (root)
 
 vājínā ← vājín- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं दे॒वासो॑ अग्रि॒यमि॒न्धते॑ वृत्र॒हन्त॑मम् ।  
+येना॒ वसू॒न्याभृ॑ता तृ॒ळ्हा रक्षां॑सि वा॒जिना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “victorious; triumphant; strong; gainful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -175,14 +180,12 @@ Agni do the gods kindle at the front, as the best obstacle-smasher by whom goods
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/47-48.md">
 <details><summary><h2>47-48 ...{Loading}...</h2></summary>
 
 This long hymn (or the short final tṛca) seems to end with a buried poetic signature: 47b ends with bharāmasi, 48c with vājínā, the last word of the hymn. Together they are the elements that make up the poet’s name Bharadvāja.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ ní ← ní (invariable)
 
 sahásrāṇi ← sahásra- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते त्वा॒ मदा॑ अमद॒न्तानि॒ वृष्ण्या॒ ते सोमा॑सो वृत्र॒हत्ये॑षु सत्पते ।  
+यत्का॒रवे॒ दश॑ वृ॒त्राण्य॑प्र॒ति ब॒र्हिष्म॑ते॒ नि स॒हस्रा॑णि ब॒र्हयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - \[verb\], singular, Present injunctive
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

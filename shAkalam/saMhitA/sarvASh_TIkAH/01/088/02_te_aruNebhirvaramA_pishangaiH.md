@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ pavyā́ ← paví- (nominal stem)
 
 ráthasya ← rátha- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते॑ऽरु॒णेभि॒र्वर॒मा पि॒शङ्गैः॑ शु॒भे कं या॑न्ति रथ॒तूर्भि॒रश्वैः॑ ।  
+रु॒क्मो न चि॒त्रः स्वधि॑तीवान्प॒व्या रथ॑स्य जङ्घनन्त॒ भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

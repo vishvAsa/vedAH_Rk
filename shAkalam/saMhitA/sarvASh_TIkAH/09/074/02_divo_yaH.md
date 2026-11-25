@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कक्षीवान्"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ sám ← sám (invariable)
 
 samīcīné ← samīcīná- (nominal stem)  
 {case:ACC, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो यः स्क॒म्भो ध॒रुणः॒ स्वा॑तत॒ आपू॑र्णो अं॒शुः प॒र्येति॑ वि॒श्वतः॑ ।  
+सेमे म॒ही रोद॑सी यक्षदा॒वृता॑ समीची॒ने दा॑धार॒ समिषः॑ क॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     guru; Brahma.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

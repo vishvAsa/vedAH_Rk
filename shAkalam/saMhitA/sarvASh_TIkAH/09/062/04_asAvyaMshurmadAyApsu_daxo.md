@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ ná ← ná (invariable)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असा॑व्यं॒शुर्मदा॑या॒प्सु दक्षो॑ गिरि॒ष्ठाः ।  
+श्ये॒नो न योनि॒मास॑दत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,10 +173,6 @@ The plant has been pressed in the waters for exhilaration, the potent  one abidi
 Like a falcon he has sat on his womb.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As in IX.61.18 I take dákṣa- adjectivally (so also Geldner, Renou); even more than in that passage, a noun interpr. is difficult: “… the skill, abiding on a mountain”? The loc. apsú and the locativally used stem giri- implicitly contrast.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -179,7 +180,6 @@ Again no obvious signs of unity, beyond the progress through the preparation of 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

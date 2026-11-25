@@ -4,6 +4,7 @@ devataa = "स्वनयस्य दानस्तुतिः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वनयस्य दानस्तुतिः
@@ -83,7 +84,12 @@ sacate ← √sac- 1 (root)
 
 suvī́raḥ ← suvī́ra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒ता रत्नं॑ प्रात॒रित्वा॑ दधाति॒ तं चि॑कि॒त्वान्प्र॑ति॒गृह्या॒ नि ध॑त्ते ।  
+तेन॑ प्र॒जां व॒र्धय॑मान॒ आयू॑ रा॒यस्पोषे॑ण सचते सु॒वीरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

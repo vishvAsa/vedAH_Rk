@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ bhara ← √bhr̥- (root)
 
 ubhayāhastí ← ubhayāhastí(n)- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑न्द्र चित्र मे॒हनास्ति॒ त्वादा॑तमद्रिवः ।  
+राध॒स्तन्नो॑ विदद्वस उभयाह॒स्त्या भ॑र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -202,19 +207,12 @@ Since precious treasure is to be distributed by you: mehanāsti tvā dātam **r�
 What is given by you in profusion, bright Indra, possessor of the stone, that largesse bring here to us with both hands full, you finder of goods.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The poet re-uses mehánā from V.38.3 and rā́dhaḥ from V.38.1, as well as adrivaḥ (though that voc. is quite common in this run of hymns). Because of their commitment to mehánā as ‘rain’ in 38.3, Witzel Gotō are forced to insert rain here, though the context is hardly favorable.
-
-The Pp. reads ubhayāhastí with short -í, which is assigned to an -i-stem by Grassmann, as a neut. modifying rā́dhaḥ, though he also suggests that it might be read -ī́, as the masc. nom. sg. of an -ín-stem. The latter works better morphologically than the former: hastín- is well attested and well formed, whereas there is no straight -i-stem hastí- and no easy mechanism for producing one -- though a nonce back-formation from the well-formed adj. -hasti ya- might be possible. See esp. ubhayāhasti yā́vásu in I.81.7. (A neut. to the -ín-stem would likewise probably come out as -í, and this may be an easier solution). I nonetheless tentatively suggest that ubhayāhastí here (if that is the reading) might be compared with the problematic dakṣiṇít ‘with the right (hand)’ in nearby V.36.4, which appears in the same kind of context, concerns hands, and has a problematic suffixal short -i-, followed there by a morphologically mysterious dental final.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 In the refrain (1-3cd) the pl. ‘bulls’ (vṛ́ṣabhiḥ) accompanying Indra were identified with the Maruts already by Sāyaṇa. Since this section culminates in the Midday Pressing (4d), this identification makes sense, since that pressing is shared by Indra and the Maruts.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

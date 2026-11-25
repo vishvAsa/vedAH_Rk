@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ nú ← nú (invariable)
 
 tr̥pṇávaḥ ← √tr̥p- (root)  
 {number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमि॑न्द्र॒ मद॒मा ग॑हि बर्हिः॒ष्ठां ग्राव॑भिः सु॒तम् ।  
+कु॒विन्न्व॑स्य तृ॒प्णवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “satiate; enjoy; delight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

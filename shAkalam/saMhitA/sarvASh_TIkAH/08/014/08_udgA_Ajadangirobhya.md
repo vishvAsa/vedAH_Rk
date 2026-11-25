@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ nunude ← √nud- (root)
 
 valám ← valá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्गा आ॑ज॒दङ्गि॑रोभ्य आ॒विष्कृ॒ण्वन्गुहा॑ स॒तीः ।  
+अ॒र्वाञ्चं॑ नुनुदे व॒लम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “Vala; vala; cave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

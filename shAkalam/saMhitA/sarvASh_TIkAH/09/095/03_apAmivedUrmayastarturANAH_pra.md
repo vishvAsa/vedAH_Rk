@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रस्कण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ uśatī́ḥ ← √vaś- (root)
 
 viśanti ← √viś- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पामि॒वेदू॒र्मय॒स्तर्तु॑राणाः॒ प्र म॑नी॒षा ई॑रते॒ सोम॒मच्छ॑ ।  
+न॒म॒स्यन्ती॒रुप॑ च॒ यन्ति॒ सं चा च॑ विशन्त्युश॒तीरु॒शन्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “desire; agree; call; care; like; love.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

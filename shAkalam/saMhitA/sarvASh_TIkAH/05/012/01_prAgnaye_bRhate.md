@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ pratīcī́m ← pratyáñc- (nominal stem)
 
 vr̥ṣabhā́ya ← vr̥ṣabhá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्राग्नये॑ बृह॒ते य॒ज्ञिया॑य ऋ॒तस्य॒ वृष्णे॒ असु॑राय॒ मन्म॑ ।  
+घृ॒तं न य॒ज्ञ आ॒स्ये॒३॒॑ सुपू॑तं॒ गिरं॑ भरे वृष॒भाय॑ प्रती॒चीम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ nayanti ← √nī- (root)
 
 raśanā́bhiḥ ← raśanā́- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र तु द्र॑व॒ परि॒ कोशं॒ नि षी॑द॒ नृभिः॑ पुना॒नो अ॒भि वाज॑मर्ष ।  
+अश्वं॒ न त्वा॑ वा॒जिनं॑ म॒र्जय॒न्तोऽच्छा॑ ब॒र्ही र॑श॒नाभि॑र्नयन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

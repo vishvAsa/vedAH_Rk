@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अत्रिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -98,7 +99,12 @@ nárā ← nár- (nominal stem)
 
 śáṁsam ← śáṁsa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो अग्रे॒ अह्नां॒ हरि॑र्हर्य॒तो मदः॒ प्र चेत॑सा चेतयते॒ अनु॒ द्युभिः॑ ।  
+द्वा जना॑ या॒तय॑न्न॒न्तरी॑यते॒ नरा॑ च॒ शंसं॒ दैव्यं॑ च ध॒र्तरि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “supporter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -278,14 +283,6 @@ The two men: i.e., the praiser and the worshipper; or, secular and sacred people
 At the vanguard of the days [=dawn] the tawny, delightful, exhilarating  drink makes himself conspicuous with his appearance through the days. Setting in place the two peoples [=gods and men], he speeds between  them in upholding the “praise of men” and the heavenly (praise).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs., too, contains the two ‘day’ words, gen. pl. áhnām, dependent on ágre, and the adverbial instr. expression ánu dyúbhiḥ. See comm. ad vss. 19, 41.
-
-I take prá … cetayate as a reflexive trans./caus. ‘makes oneself perceived’, contrary to the intrans. interpr. in my -áya- book (p. 163).
-
-As is generally recognized, nárā ca śáṃsam shows a species of tmesis, from the cmpd nárāśáṃsa-.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md">
 <details><summary><h2>40-42 ...{Loading}...</h2></summary>
 
@@ -293,7 +290,6 @@ The focus on our welfare found in the last tṛca is found here in vs. 41 but is
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

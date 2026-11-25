@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अन्धीगुः श्यावाश्विः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ hinvanti ← √hi- (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं दु॒रोष॑म॒भी नरः॒ सोमं॑ वि॒श्वाच्या॑ धि॒या ।  
+य॒ज्ञं हि॑न्व॒न्त्यद्रि॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,7 +164,6 @@ impel to the sacrifice with stones.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -175,7 +179,6 @@ These two vss. are quoted in JB I.163 just after Indra’s use of our vs. 1 to k
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

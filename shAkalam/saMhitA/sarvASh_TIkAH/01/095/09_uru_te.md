@@ -4,6 +4,7 @@ devataa = "अग्निरग्निरौषस्योवा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निरौषस्योवा
@@ -83,7 +84,12 @@ pāhi ← √pā- 1 (root)
 
 pāyúbhiḥ ← pāyú- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रु ते॒ ज्रयः॒ पर्ये॑ति बु॒ध्नं वि॒रोच॑मानं महि॒षस्य॒ धाम॑ ।  
+विश्वे॑भिरग्ने॒ स्वय॑शोभिरि॒द्धोऽद॑ब्धेभिः पा॒युभिः॑ पाह्य॒स्मान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

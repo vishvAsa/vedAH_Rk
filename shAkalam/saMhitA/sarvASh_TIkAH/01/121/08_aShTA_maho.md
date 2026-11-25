@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -92,7 +93,12 @@ górabhasam ← górabhasa- (nominal stem)
 
 vātā́pyam ← vātā́pya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ष्टा म॒हो दि॒व आदो॒ हरी॑ इ॒ह द्यु॑म्ना॒साह॑म॒भि यो॑धा॒न उत्स॑म् ।  
+हरिं॒ यत्ते॑ म॒न्दिनं॑ दु॒क्षन्वृ॒धे गोर॑भस॒मद्रि॑भिर्वा॒ताप्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

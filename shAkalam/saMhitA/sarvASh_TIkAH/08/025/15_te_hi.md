@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -69,7 +70,12 @@ pratighnánti ← √han- (root)
 
 tigmám ← tigmá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते हि ष्मा॑ व॒नुषो॒ नरो॒ऽभिमा॑तिं॒ कय॑स्य चित् ।  
+ति॒ग्मं न क्षोदः॑ प्रति॒घ्नन्ति॒ भूर्ण॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “impatient; restless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

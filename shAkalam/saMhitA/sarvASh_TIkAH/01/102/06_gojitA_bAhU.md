@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ siṣāsávaḥ ← siṣāsú- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गो॒जिता॑ बा॒हू अमि॑तक्रतुः सि॒मः कर्म॑न्कर्मञ्छ॒तमू॑तिः खजङ्क॒रः ।  
+अ॒क॒ल्प इन्द्रः॑ प्रति॒मान॒मोज॒साथा॒ जना॒ वि ह्व॑यन्ते सिषा॒सवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

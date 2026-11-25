@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "यवमध्या महाबृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -97,7 +98,12 @@ jyéṣṭham ← jyéṣṭha- (nominal stem)
 
 vr̥trahám ← vr̥trahá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒द्यश्चि॒द्यस्य॑ चर्कृ॒तिः परि॒ द्यां दे॒वो नैति॒ सूर्यः॑ ।  
+त्वे॒षं शवो॑ दधिरे॒ नाम॑ य॒ज्ञियं॑ म॒रुतो॑ वृत्र॒हं शवो॒ ज्येष्ठं॑ वृत्र॒हं शवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

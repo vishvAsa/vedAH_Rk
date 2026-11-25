@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधाः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ máṁhiṣṭhaḥ ← máṁhiṣṭha- (nominal stem)
 
 vā́jasātaye ← vā́jasāti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नकिः॒ परि॑ष्टिर्मघवन्म॒घस्य॑ ते॒ यद्दा॒शुषे॑ दश॒स्यसि॑ ।  
+अ॒स्माकं॑ बोध्यु॒चथ॑स्य चोदि॒ता मंहि॑ष्ठो॒ वाज॑सातये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “victory; acquisition; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

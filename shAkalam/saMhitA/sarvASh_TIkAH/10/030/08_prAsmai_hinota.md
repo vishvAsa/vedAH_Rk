@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -89,7 +90,12 @@ revatīḥ ← revánt- (nominal stem)
 
 śr̥ṇutá ← √śru- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रास्मै॑ हिनोत॒ मधु॑मन्तमू॒र्मिं गर्भो॒ यो वः॑ सिन्धवो॒ मध्व॒ उत्सः॑ ।  
+घृ॒तपृ॑ष्ठ॒मीड्य॑मध्व॒रेष्वापो॑ रेवतीः शृणु॒ता हवं॑ मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ támāṁsi ← támas- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ षीम॒ग्निर्ज॑रते॒ समि॑द्धः॒ प्रति॒ विप्रा॑सो म॒तिभि॑र्गृ॒णन्तः॑ ।  
+उ॒षा या॑ति॒ ज्योति॑षा॒ बाध॑माना॒ विश्वा॒ तमां॑सि दुरि॒ताप॑ दे॒वी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “Parvati; queen; goddess; Devi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

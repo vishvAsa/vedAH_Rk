@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ prá ← prá (invariable)
 
 stuvīmahi ← √stu- (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒श॒स्यन्ता॒ मन॑वे पू॒र्व्यं दि॒वि यवं॒ वृके॑ण कर्षथः ।  
+ता वा॑म॒द्य सु॑म॒तिभिः॑ शुभस्पती॒ अश्वि॑ना॒ प्र स्तु॑वीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “laud; praise; declare; stu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

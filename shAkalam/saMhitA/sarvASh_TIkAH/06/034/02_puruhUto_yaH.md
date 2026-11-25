@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ bhūt ← √bhū- (root)
 
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रु॒हू॒तो यः पु॑रुगू॒र्त ऋभ्वाँ॒ एकः॑ पुरुप्रश॒स्तो अस्ति॑ य॒ज्ञैः ।  
+रथो॒ न म॒हे शव॑से युजा॒नो॒३॒॑ऽस्माभि॒रिन्द्रो॑ अनु॒माद्यो॑ भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

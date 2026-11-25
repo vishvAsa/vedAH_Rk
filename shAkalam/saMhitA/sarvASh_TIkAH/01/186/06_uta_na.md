@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ narā́m ← nár- (nominal stem)
 
 tuvíṣṭamaḥ ← tuvíṣṭama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त न॑ ईं॒ त्वष्टा ग॒न्त्वच्छा॒ स्मत्सू॒रिभि॑रभिपि॒त्वे स॒जोषाः॑ ।  
+आ वृ॑त्र॒हेन्द्र॑श्चर्षणि॒प्रास्तु॒विष्ट॑मो न॒रां न॑ इ॒ह ग॑म्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

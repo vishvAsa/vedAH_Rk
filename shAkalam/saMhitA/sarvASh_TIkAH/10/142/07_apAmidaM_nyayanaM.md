@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "स्तंबमित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ váśān ← váśa- (nominal stem)
 
 yāhi ← √yā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पामि॒दं न्यय॑नं समु॒द्रस्य॑ नि॒वेश॑नम् ।  
+अ॒न्यं कृ॑णुष्वे॒तः पन्थां॒ तेन॑ याहि॒ वशाँ॒ अनु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “subsequently; behind; along; towards; because.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

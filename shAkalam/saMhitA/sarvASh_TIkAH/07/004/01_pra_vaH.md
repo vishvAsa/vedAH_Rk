@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ vidmánā ← vidmán- (nominal stem)
 
 víśvāni ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वः॑ शु॒क्राय॑ भा॒नवे॑ भरध्वं ह॒व्यं म॒तिं चा॒ग्नये॒ सुपू॑तम् ।  
+यो दैव्या॑नि॒ मानु॑षा ज॒नूंष्य॒न्तर्विश्वा॑नि वि॒द्मना॒ जिगा॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

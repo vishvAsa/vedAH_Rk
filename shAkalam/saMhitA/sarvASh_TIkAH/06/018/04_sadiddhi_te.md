@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ babhūva ← √bhū- (root)
 
 radhratúraḥ ← radhratúr- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सदिद्धि ते॑ तुविजा॒तस्य॒ मन्ये॒ सहः॑ सहिष्ठ तुर॒तस्तु॒रस्य॑ ।  
+उ॒ग्रमु॒ग्रस्य॑ त॒वस॒स्तवी॒योऽर॑ध्रस्य रध्र॒तुरो॑ बभूव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

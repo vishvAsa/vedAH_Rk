@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ dhiṣaṇe ← dhiṣáṇā- (nominal stem)
 
 kṣáyāya ← kṣáya- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त द्या॑वापृथिवी क्ष॒त्रमु॒रु बृ॒हद्रो॑दसी शर॒णं सु॑षुम्ने ।  
+म॒हस्क॑रथो॒ वरि॑वो॒ यथा॑ नो॒ऽस्मे क्षया॑य धिषणे अने॒हः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “faultless; anehas \[word\]; incomparable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

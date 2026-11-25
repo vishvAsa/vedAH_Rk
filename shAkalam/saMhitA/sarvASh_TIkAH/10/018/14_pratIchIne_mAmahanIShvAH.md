@@ -4,6 +4,7 @@ devataa = "पितृमेधः प्रजापतिर्वा"
 RShiH = "सङ्कुसुको यामायनः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पितृमेधः प्रजापतिर्वा
@@ -74,7 +75,12 @@ raśanáyā ← raśanā́- (nominal stem)
 
 yathā ← yathā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒ती॒चीने॒ मामह॒नीष्वाः॑ प॒र्णमि॒वा द॑धुः ।  
+प्र॒तीचीं॑ जग्रभा॒ वाच॒मश्वं॑ रश॒नया॑ यथा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

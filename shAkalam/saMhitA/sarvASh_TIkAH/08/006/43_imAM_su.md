@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ ukthéna ← ukthá- (nominal stem)
 
 vāvr̥dhuḥ ← √vr̥dh- (root)  
 {number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मां सु पू॒र्व्यां धियं॒ मधो॑र्घृ॒तस्य॑ पि॒प्युषी॑म् ।  
+कण्वा॑ उ॒क्थेन॑ वावृधुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

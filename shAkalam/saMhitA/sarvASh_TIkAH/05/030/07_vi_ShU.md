@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ ichán ← √iṣ- 2 (root)
 
 mánave ← mánu- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि षू मृधो॑ ज॒नुषा॒ दान॒मिन्व॒न्नह॒न्गवा॑ मघवन्त्संचका॒नः ।  
+अत्रा॑ दा॒सस्य॒ नमु॑चेः॒ शिरो॒ यदव॑र्तयो॒ मन॑वे गा॒तुमि॒च्छन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

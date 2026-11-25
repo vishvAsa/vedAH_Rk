@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -101,7 +102,12 @@ vām ← tvám (pronoun)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रु हि वां॑ पुरुभुजा दे॒ष्णं धे॒नुं न॒ इषं॑ पिन्वत॒मस॑क्राम् ।  
+स्तुत॑श्च वां माध्वी सुष्टु॒तिश्च॒ रसा॑श्च॒ ये वा॒मनु॑ रा॒तिमग्म॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -261,7 +267,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

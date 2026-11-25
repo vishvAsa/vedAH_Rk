@@ -4,6 +4,7 @@ devataa = "राज्ञस्तुतिः"
 RShiH = "अभीवर्तः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राज्ञस्तुतिः
@@ -68,7 +69,12 @@ rāṣṭrā́ya ← rāṣṭrá- (nominal stem)
 
 vartaya ← √vr̥t- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भी॒व॒र्तेन॑ ह॒विषा॒ येनेन्द्रो॑ अभिवावृ॒ते ।  
+तेना॒स्मान्ब्र॑ह्मणस्पते॒ऽभि रा॒ष्ट्राय॑ वर्तय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

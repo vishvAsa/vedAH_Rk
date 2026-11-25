@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कृष्णः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ pītáye ← pītí- (nominal stem)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शृ॒णु॒तं ज॑रि॒तुर्हवं॒ कृष्ण॑स्य स्तुव॒तो न॑रा ।  
+मध्वः॒ सोम॑स्य पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -151,7 +156,6 @@ to drink of the honeyed soma.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/085/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -159,7 +163,6 @@ The Anukramaṇī identifies the poet as Kṛṣṇa Āṅgirasa.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

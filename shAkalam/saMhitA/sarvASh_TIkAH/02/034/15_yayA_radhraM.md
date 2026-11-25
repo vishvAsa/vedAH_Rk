@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -98,7 +99,12 @@ u ← u (invariable)
 
 vāśrā́ ← vāśrá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यया॑ र॒ध्रं पा॒रय॒थात्यंहो॒ यया॑ नि॒दो मु॒ञ्चथ॑ वन्दि॒तार॑म् ।  
+अ॒र्वाची॒ सा म॑रुतो॒ या व॑ ऊ॒तिरो षु वा॒श्रेव॑ सुम॒तिर्जि॑गातु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

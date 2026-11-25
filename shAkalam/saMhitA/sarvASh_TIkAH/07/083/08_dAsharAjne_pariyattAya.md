@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -74,7 +75,12 @@ dhiyā́ ← dhī́- (nominal stem)
 
 tŕ̥tsavaḥ ← tŕ̥tsu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दा॒श॒रा॒ज्ञे परि॑यत्ताय वि॒श्वतः॑ सु॒दास॑ इन्द्रावरुणावशिक्षतम् ।  
+श्वि॒त्यञ्चो॒ यत्र॒ नम॑सा कप॒र्दिनो॑ धि॒या धीव॑न्तो॒ अस॑पन्त॒ तृत्स॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - “Tṛtsu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

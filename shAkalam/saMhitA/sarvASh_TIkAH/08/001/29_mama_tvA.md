@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ avr̥tsata ← √vr̥t- (root)
 
 stómāsaḥ ← stóma- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मम॑ त्वा॒ सूर॒ उदि॑ते॒ मम॑ म॒ध्यन्दि॑ने दि॒वः ।  
+मम॑ प्रपि॒त्वे अ॑पिशर्व॒रे व॑स॒वा स्तोमा॑सो अवृत्सत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

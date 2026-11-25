@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -101,7 +102,12 @@ vahanti ← √vah- (root)
 
 yuktā́ḥ ← √yuj- (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये अ॒र्वाञ्च॒स्ताँ उ॒ परा॑च आहु॒र्ये परा॑ञ्च॒स्ताँ उ॑ अ॒र्वाच॑ आहुः ।  
+इन्द्र॑श्च॒ या च॒क्रथुः॑ सोम॒ तानि॑ धु॒रा न यु॒क्ता रज॑सो वहन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -271,7 +277,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

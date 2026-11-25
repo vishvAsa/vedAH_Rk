@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ rákṣaḥ ← rákṣas- (nominal stem)
 
 vāvr̥dhānám ← √vr̥dh- (root)  
 {case:NOM, gender:N, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रक्षा॑ णो अग्ने॒ तव॒ रक्ष॑णेभी रारक्षा॒णः सु॑मख प्रीणा॒नः ।  
+प्रति॑ ष्फुर॒ वि रु॑ज वी॒ड्वंहो॑ ज॒हि रक्षो॒ महि॑ चिद्वावृधा॒नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

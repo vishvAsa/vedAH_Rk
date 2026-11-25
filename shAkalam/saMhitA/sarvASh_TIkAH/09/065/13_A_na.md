@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ gātuvít ← gātuvíd- (nominal stem)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ न॑ इन्दो म॒हीमिषं॒ पव॑स्व वि॒श्वद॑र्शतः ।  
+अ॒स्मभ्यं॑ सोम गातु॒वित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “conversant(p); aware(p); enlightened; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -172,7 +177,6 @@ finding the way for us, o Soma.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -180,7 +184,6 @@ Again, no signs of unity.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

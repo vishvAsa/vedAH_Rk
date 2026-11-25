@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ vām ← tvám (pronoun)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कं या॑थः॒ कं ह॑ गच्छथः॒ कमच्छा॑ युञ्जाथे॒ रथ॑म् ।  
+कस्य॒ ब्रह्मा॑णि रण्यथो व॒यं वा॑मुश्मसी॒ष्टये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “seeking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

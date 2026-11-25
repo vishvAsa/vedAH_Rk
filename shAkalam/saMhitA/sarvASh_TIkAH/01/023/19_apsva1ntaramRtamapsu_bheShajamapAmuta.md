@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "पुरउष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -63,7 +64,12 @@ dévāḥ ← devá- (nominal stem)
 
 vājínaḥ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒प्स्व१॒॑न्तर॒मृत॑म॒प्सु भे॑ष॒जम॒पामु॒त प्रश॑स्तये ।  
+देवा॒ भव॑त वा॒जिनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “victorious; triumphant; strong; gainful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

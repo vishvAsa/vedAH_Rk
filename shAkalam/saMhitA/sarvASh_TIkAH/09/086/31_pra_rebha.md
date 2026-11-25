@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रय ऋषिगणाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ rihanti ← √rih- (root)
 
 śíśum ← śíśu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र रे॒भ ए॒त्यति॒ वार॑म॒व्ययं॒ वृषा॒ वने॒ष्वव॑ चक्रद॒द्धरिः॑ ।  
+सं धी॒तयो॑ वावशा॒ना अ॑नूषत॒ शिशुं॑ रिहन्ति म॒तयः॒ पनि॑प्नतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - \[verb noun\], accusative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -241,7 +246,6 @@ The hymnic visions, bellowing [/in their longing], have roared together.  The th
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/31-33.md">
 <details><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -253,7 +257,6 @@ As for external connections, GEN niṣkṛtám √yā in 32d is found also in 7b
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

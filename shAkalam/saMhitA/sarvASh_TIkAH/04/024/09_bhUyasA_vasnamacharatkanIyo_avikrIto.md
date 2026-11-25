@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ vāṇám ← vāṇá- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूय॑सा व॒स्नम॑चर॒त्कनी॒योऽवि॑क्रीतो अकानिषं॒ पुन॒र्यन् ।  
+स भूय॑सा॒ कनी॑यो॒ नारि॑रेचीद्दी॒ना दक्षा॒ वि दु॑हन्ति॒ प्र वा॒णम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “music.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -257,16 +262,6 @@ He did not replace the lesser with a greater. Skimpy skills milk the
 bargain [?] dry.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As noted in the published introduction, this vs. introduces the vocabulary of commerce, which is otherwise little represented in our texts (though see AVŚ III.15, called by Whitney “For success in trade”) and therefore difficult to get a handle on. My interpr.
-
-differs on some important points from the standard (Oldenberg, Geldner, Witzel Gotō, Kümmel [425]). In pāda a most interpr. take kánīyaḥ ‘lesser’ as referring to the price and bhū́yasā ‘greater’ as what is being bought. But price is always in the instr.: see in the next vs. 10ab daśábhiḥ … dhenúbhiḥ. Therefore, grammar requires us to conclude that, rather than complaining that the potential purchaser offered too little for that very valuable asset, Indra himself, Indra is protesting that the purchaser went for an inferior product (another god?) with too high an offer. In pādas b and c he further points out that the purchaser failed to take advantage of the chance to buy Indra (who therefore went away ‘unsold’ ávikrītaḥ) and to leave behind (/replace) the poor bargain he made in the first place.
-
-As also indicated in the published introduction, I take pāda d as an old saying encapsulating the wisdom of not wasting your money on a substandard item. The problem in this pāda is vāṇám, which ordinarily means ‘voice, music’ (see EWA s.v.).
-
-However, Geldner tr. ‘Handel’ and suggests (n. 9d) that it is derived from vaṇíj- ‘merchant’, which seems very plausible. That it is otherwise unknown in this meaning would not be surprising, given the specialized lexical level it inhabits.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md">
 <details><summary><h2>08-10 ...{Loading}...</h2></summary>
 
@@ -274,7 +269,6 @@ For my interpr. of these vss., see published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

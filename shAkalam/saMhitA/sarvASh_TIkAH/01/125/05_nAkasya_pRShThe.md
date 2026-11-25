@@ -4,6 +4,7 @@ devataa = "स्वनयस्य दानस्तुतिः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वनयस्य दानस्तुतिः
@@ -95,7 +96,12 @@ sádā ← sádā (invariable)
 
 tásmai ← sá- ~ tá- (pronoun)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाक॑स्य पृ॒ष्ठे अधि॑ तिष्ठति श्रि॒तो यः पृ॒णाति॒ स ह॑ दे॒वेषु॑ गच्छति ।  
+तस्मा॒ आपो॑ घृ॒तम॑र्षन्ति॒ सिन्ध॑व॒स्तस्मा॑ इ॒यं दक्षि॑णा पिन्वते॒ सदा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “always; continually; always; perpetually.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

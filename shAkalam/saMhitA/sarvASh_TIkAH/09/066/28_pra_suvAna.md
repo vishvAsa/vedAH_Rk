@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ pavítram ← pavítra- (nominal stem)
 
 punānáḥ ← √pū- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सु॑वा॒न इन्दु॑रक्षाः प॒वित्र॒मत्य॒व्यय॑म् ।  
+पु॒ना॒न इन्दु॒रिन्द्र॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -169,12 +174,6 @@ Being pressed, the drop has flowed forth across the fleecy filter;
 being purified, the drop (has flowed) to Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. has two passively used participles, suvānáḥ ‘being pressed’ and punānáḥ ‘being purified’, which contrast with the agency implicitly accorded to Soma Pavamāna, “self-purifying” Soma. This more agentive participle returns in the final vs. (30b), just before we ask Soma for his favor.
-
-The repetition of índuḥ (pādas a and c) is somewhat clumsy, but the 2nd occurrences enables the usual word play with adjacent índram.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -182,7 +181,6 @@ No particular evidence of unity, except for an emphasis in the 1st two vss. on t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

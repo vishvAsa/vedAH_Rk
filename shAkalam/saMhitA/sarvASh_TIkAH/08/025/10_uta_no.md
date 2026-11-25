@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -57,7 +58,12 @@ uruṣyántu ← √uruṣy- (root)
 
 vr̥ddháśavasaḥ ← vr̥ddháśavas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नो॑ दे॒व्यदि॑तिरुरु॒ष्यतां॒ नास॑त्या ।  
+उ॒रु॒ष्यन्तु॑ म॒रुतो॑ वृ॒द्धश॑वसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -155,7 +160,6 @@ And let the goddess Aditi, let the two Nāsatyas [=Aśvins] give us room; let th
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -163,7 +167,6 @@ This tṛca takes a break from Mitra and Varuṇa, introducing a somewhat random
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

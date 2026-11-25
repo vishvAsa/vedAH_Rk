@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ sacathyaìḥ ← sacathyà- (nominal stem)
 
 sácemahi ← √sac- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते ते॑ देव नेत॒र्ये चे॒माँ अ॑नु॒शसे॑ ।  
+ते रा॒या ते ह्या॒३॒॑पृचे॒ सचे॑महि सच॒थ्यैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - \[noun\], instrumental, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

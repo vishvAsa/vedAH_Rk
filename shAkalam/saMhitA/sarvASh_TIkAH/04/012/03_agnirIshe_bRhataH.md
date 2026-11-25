@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ svadhā́vān ← svadhā́vant- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निरी॑शे बृह॒तः क्ष॒त्रिय॑स्या॒ग्निर्वाज॑स्य पर॒मस्य॑ रा॒यः ।  
+दधा॑ति॒ रत्नं॑ विध॒ते यवि॑ष्ठो॒ व्या॑नु॒षङ्मर्त्या॑य स्व॒धावा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “autonomous; independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ yajāmahe ← √yaj- (root)
 
 yamásya ← yamá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञैरथ॑र्वा प्रथ॒मः प॒थस्त॑ते॒ ततः॒ सूर्यो॑ व्रत॒पा वे॒न आज॑नि ।  
+आ गा आ॑जदु॒शना॑ का॒व्यः सचा॑ य॒मस्य॑ जा॒तम॒मृतं॑ यजामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ pāyáya ← √pā- 2 (root)
 
 sādaya ← √sad- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या ते॑ जि॒ह्वा मधु॑मती सुमे॒धा अग्ने॑ दे॒वेषू॒च्यत॑ उरू॒ची ।  
+तये॒ह विश्वाँ॒ अव॑से॒ यज॑त्रा॒ना सा॑दय पा॒यया॑ चा॒ मधू॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

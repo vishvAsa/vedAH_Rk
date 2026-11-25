@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ tám ← sá- ~ tá- (pronoun)
 
 támobhiḥ ← támas- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इ॒मे रोद॑सी म॒ही स॑मी॒ची स॒मज॑ग्रभीत् ।  
+तमो॑भिरिन्द्र॒ तं गु॑हः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “hide; cover; conceal; shroud; obscure.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

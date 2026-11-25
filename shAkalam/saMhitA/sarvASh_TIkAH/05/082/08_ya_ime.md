@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -60,7 +61,12 @@ savitā́ ← savitár- (nominal stem)
 
 svādhī́ḥ ← svādhī́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इ॒मे उ॒भे अह॑नी पु॒र एत्यप्र॑युच्छन् ।  
+स्वा॒धीर्दे॒वः स॑वि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “Savitar; sun; Surya; Savitṛ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -158,10 +163,6 @@ Who goes in front of both these two day-halves unremittingly
 and with good intentions: god Savitar.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With regard to áprayuchan see disc. of áprāyu- ad V.80.3.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/082/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -171,7 +172,6 @@ prns. yáḥ hang off the accs. in vs. 7, but it is possible that the vs.-final 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

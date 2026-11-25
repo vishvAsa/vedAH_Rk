@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ mathāyáti ← √mathⁱ- (root)
 
 sántam ← √as- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+निर्यदीं॑ बु॒ध्नान्म॑हि॒षस्य॒ वर्प॑स ईशा॒नासः॒ शव॑सा॒ क्रन्त॑ सू॒रयः॑ ।  
+यदी॒मनु॑ प्र॒दिवो॒ मध्व॑ आध॒वे गुहा॒ सन्तं॑ मात॒रिश्वा॑ मथा॒यति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

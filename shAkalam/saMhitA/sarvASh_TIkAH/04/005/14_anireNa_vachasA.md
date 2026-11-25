@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -77,7 +78,12 @@ anāyudhā́saḥ ← anāyudhá- (nominal stem)
 
 sacantām ← √sac- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒नि॒रेण॒ वच॑सा फ॒ल्ग्वे॑न प्र॒तीत्ये॑न कृ॒धुना॑तृ॒पासः॑ ।  
+अधा॒ ते अ॑ग्ने॒ किमि॒हा व॑दन्त्यनायु॒धास॒ आस॑ता सचन्ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

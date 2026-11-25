@@ -4,6 +4,7 @@ devataa = "ऋतवः त्वष्टा"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतवः त्वष्टा
@@ -66,7 +67,12 @@ ratnadhā́ḥ ← ratnadhā́- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि य॒ज्ञं गृ॑णीहि नो॒ ग्नावो॒ नेष्टः॒ पिब॑ ऋ॒तुना॑ ।  
+त्वं हि र॑त्न॒धा असि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

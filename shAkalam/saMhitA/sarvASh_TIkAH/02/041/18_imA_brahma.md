@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -71,7 +72,12 @@ júhvati ← √hu- (root)
 
 priyā́ ← priyá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा ब्रह्म॑ सरस्वति जु॒षस्व॑ वाजिनीवति ।  
+या ते॒ मन्म॑ गृत्सम॒दा ऋ॑तावरि प्रि॒या दे॒वेषु॒ जुह्व॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “sacrifice; offer; pour; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

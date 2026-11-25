@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -55,7 +56,11 @@ sádma ← sádman- (nominal stem)
 
 sammā́ya ← √mā- 1 (root)  
 {non-finite:CVB}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चित्ति॑र॒पां दमे॑ वि॒श्वायुः॒ सद्मे॑व॒ धीराः॑ स॒म्माय॑ चक्रुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +130,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

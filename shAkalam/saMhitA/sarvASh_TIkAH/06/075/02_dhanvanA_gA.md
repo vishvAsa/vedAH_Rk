@@ -4,6 +4,7 @@ devataa = "धनुः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - धनुः
@@ -83,7 +84,12 @@ pradíśaḥ ← pradíś- (nominal stem)
 
 sárvāḥ ← sárva- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धन्व॑ना॒ गा धन्व॑ना॒जिं ज॑येम॒ धन्व॑ना ती॒व्राः स॒मदो॑ जयेम ।  
+धनुः॒ शत्रो॑रपका॒मं कृ॑णोति॒ धन्व॑ना॒ सर्वाः॑ प्र॒दिशो॑ जयेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

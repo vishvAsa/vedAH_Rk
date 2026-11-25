@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -95,7 +96,12 @@ jyótiḥ ← jyótis- (nominal stem)
 
 yuṣmā́nītaḥ ← yuṣmā́nīta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न द॑क्षि॒णा वि चि॑किते॒ न स॒व्या न प्रा॒चीन॑मादित्या॒ नोत प॒श्चा ।  
+पा॒क्या॑ चिद्वसवो धी॒र्या॑ चिद्यु॒ष्मानी॑तो॒ अभ॑यं॒ ज्योति॑रश्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "जुहूर्ब्रह्मजायोर्ध्वनाभा वा ब्राह्मः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ nītā́m ← √nī- (root)
 
 sómena ← sóma- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्र॒ह्म॒चा॒री च॑रति॒ वेवि॑ष॒द्विषः॒ स दे॒वानां॑ भव॒त्येक॒मङ्ग॑म् ।  
+तेन॑ जा॒यामन्व॑विन्द॒द्बृह॒स्पतिः॒ सोमे॑न नी॒तां जु॒ह्वं१॒॑ न दे॑वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -92,7 +93,12 @@ niṣiñcán ← √sic- (root)
 
 pitā́ ← pitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो नो॑ वृ॒ष्टिं म॑रुतो ररीध्वं॒ प्र पि॑न्वत॒ वृष्णो॒ अश्व॑स्य॒ धाराः॑ ।  
+अ॒र्वाङे॒तेन॑ स्तनयि॒त्नुनेह्य॒पो नि॑षि॒ञ्चन्नसु॑रः पि॒ता नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

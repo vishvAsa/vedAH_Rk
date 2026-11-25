@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ hávāmahe ← √hū- (root)
 
 tánaye ← tánaya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जनं॑ वज्रि॒न्महि॑ चि॒न्मन्य॑मानमे॒भ्यो नृभ्यो॑ रन्धया॒ येष्वस्मि॑ ।  
+अधा॒ हि त्वा॑ पृथि॒व्यां शूर॑सातौ॒ हवा॑महे॒ तन॑ये॒ गोष्व॒प्सु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

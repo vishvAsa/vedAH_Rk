@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ opaśám ← opaśá- (nominal stem)
 
 svadhā́vān ← svadhā́vant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र यदि॒त्था म॑हि॒ना नृभ्यो॒ अस्त्यरं॒ रोद॑सी क॒क्ष्ये॒३॒॑ नास्मै॑ ।  
+सं वि॑व्य॒ इन्द्रो॑ वृ॒जनं॒ न भूमा॒ भर्ति॑ स्व॒धावाँ॑ ओप॒शमि॑व॒ द्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

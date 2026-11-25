@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ atiraḥ ← √tr̥̄- 1 (root)
 
 dā́num ← dā́nu- 1 (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किमादु॒तासि॑ वृत्रह॒न्मघ॑वन्मन्यु॒मत्त॑मः ।  
+अत्राह॒ दानु॒माति॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - \[verb\], singular, Imperfect
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,16 +173,6 @@ And after that are you (still) the one best possessed of battle fury, o  bounteo
 At that time you passed over Dānu (lying there),
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In c átra seems to correspond to the three yátra’s in the preceding tṛca. The point seems to be that even after all the energy Indra expended in his fight with the sun (and the gods), he still has a lot of manyú- left to apply in the Uṣas incident.
-
-The repetition of ā́tiraḥ here was already noted ad vs. 3. Note the similarity of the pādas: 3c (yád) áhā … ā́tiraḥ / 7c (átr)ā́ha … ā́tiraḥ; though áhā ‘days’ in 3 and the particle áha in 7 are unrelated, the echo is surely deliberate.
-
-I supply “lying there” with Dānu, because in two of the four singular passages containing dā́nu- what the Dānu does is ‘lie’: I.32.9 dā́nuḥ śaye; II.12.11 dā́nuṃ śáyānam. So, although ‘overcame’ is probably part of the semantics of ā́tiraḥ, the lit.
-
-sense ‘pass over’ fits having the prostrate enemy as the object.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -189,7 +184,6 @@ I suggest instead that pāda a contains an abbreviated form of a common formula 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

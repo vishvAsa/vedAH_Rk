@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विश्वामित्रजमदग्नी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ práti ← práti (invariable)
 
 viśvāmitrajamadagnī ← viśvāmitrajamadagni- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रसू॑तो भ॒क्षम॑करं च॒रावपि॒ स्तोमं॑ चे॒मं प्र॑थ॒मः सू॒रिरुन्मृ॑जे ।  
+सु॒ते सा॒तेन॒ यद्याग॑मं वां॒ प्रति॑ विश्वामित्रजमदग्नी॒ दमे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “dwelling; home.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

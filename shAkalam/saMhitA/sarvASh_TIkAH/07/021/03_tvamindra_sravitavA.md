@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ réjante ← √rej- (root)
 
 víśvā ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमि॑न्द्र॒ स्रवि॑त॒वा अ॒पस्कः॒ परि॑ष्ठिता॒ अहि॑ना शूर पू॒र्वीः ।  
+त्वद्वा॑वक्रे र॒थ्यो॒३॒॑ न धेना॒ रेज॑न्ते॒ विश्वा॑ कृ॒त्रिमा॑णि भी॒षा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “fear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

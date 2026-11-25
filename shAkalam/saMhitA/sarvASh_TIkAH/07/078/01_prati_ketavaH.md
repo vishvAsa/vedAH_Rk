@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ vakṣi ← √vah- (root)
 
 vāmám ← vāmá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ के॒तवः॑ प्रथ॒मा अ॑दृश्रन्नू॒र्ध्वा अ॑स्या अ॒ञ्जयो॒ वि श्र॑यन्ते ।  
+उषो॑ अ॒र्वाचा॑ बृह॒ता रथे॑न॒ ज्योति॑ष्मता वा॒मम॒स्मभ्यं॑ वक्षि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

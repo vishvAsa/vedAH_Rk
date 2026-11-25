@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ tiṣṭhantu ← √sthā- (root)
 
 vā́jaḥ ← vā́ja- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सिन्धो॑रिव प्रव॒णे नि॒म्न आ॒शवो॒ वृष॑च्युता॒ मदा॑सो गा॒तुमा॑शत ।  
+शं नो॑ निवे॒शे द्वि॒पदे॒ चतु॑ष्पदे॒ऽस्मे वाजाः॑ सोम तिष्ठन्तु कृ॒ष्टयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “people; citizenry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

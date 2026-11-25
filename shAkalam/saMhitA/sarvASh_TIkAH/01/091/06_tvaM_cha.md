@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -60,7 +61,12 @@ priyástotraḥ ← priyástotra- (nominal stem)
 
 vánaspátiḥ ← vánaspáti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं च॑ सोम नो॒ वशो॑ जी॒वातुं॒ न म॑रामहे ।  
+प्रि॒यस्तो॑त्रो॒ वन॒स्पतिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

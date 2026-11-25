@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ vavr̥dhvam ← √vr̥t- (root)
 
 yúvānaḥ ← yúvan- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये चार्ह॑न्ति म॒रुतः॑ सु॒दान॑वः॒ स्मन्मी॒ळ्हुष॒श्चर॑न्ति॒ ये ।  
+अत॑श्चि॒दा न॒ उप॒ वस्य॑सा हृ॒दा युवा॑न॒ आ व॑वृध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “\_”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

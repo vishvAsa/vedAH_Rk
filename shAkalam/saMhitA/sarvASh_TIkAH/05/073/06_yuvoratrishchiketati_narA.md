@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ bhuraṇyáti ← √bhuraṇy- (root)
 
 nā́satyā ← nā́satya- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वोरत्रि॑श्चिकेतति॒ नरा॑ सु॒म्नेन॒ चेत॑सा ।  
+घ॒र्मं यद्वा॑मरे॒पसं॒ नास॑त्या॒स्ना भु॑र॒ण्यति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “be active.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

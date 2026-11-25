@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ rátham ← rátha- (nominal stem)
 
 yukṣvá ← √yuj- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त॒नू॒त्यजे॑व॒ तस्क॑रा वन॒र्गू र॑श॒नाभि॑र्द॒शभि॑र॒भ्य॑धीताम् ।  
+इ॒यं ते॑ अग्ने॒ नव्य॑सी मनी॒षा यु॒क्ष्वा रथं॒ न शु॒चय॑द्भि॒रङ्गैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     ingredient.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

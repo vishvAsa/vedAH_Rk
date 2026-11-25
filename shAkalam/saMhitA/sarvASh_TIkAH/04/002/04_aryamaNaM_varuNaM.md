@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ u ← u (invariable)
 
 vaha ← √vah- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्य॒मणं॒ वरु॑णं मि॒त्रमे॑षा॒मिन्द्रा॒विष्णू॑ म॒रुतो॑ अ॒श्विनो॒त ।  
+स्वश्वो॑ अग्ने सु॒रथः॑ सु॒राधा॒ एदु॑ वह सुह॒विषे॒ जना॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

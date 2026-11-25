@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ vásānāḥ ← √vas- 2 (root)
 
 vavrím ← vavrí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ह ब्र॑वीतु॒ य ई॑म॒ङ्ग वेदा॒स्य वा॒मस्य॒ निहि॑तं प॒दं वेः ।  
+शी॒र्ष्णः क्षी॒रं दु॑ह्रते॒ गावो॑ अस्य व॒व्रिं वसा॑ना उद॒कं प॒दापुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

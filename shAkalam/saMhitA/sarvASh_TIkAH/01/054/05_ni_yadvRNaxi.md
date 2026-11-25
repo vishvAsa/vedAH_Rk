@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tvā ← tvám (pronoun)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि यद्वृ॒णक्षि॑ श्वस॒नस्य॑ मू॒र्धनि॒ शुष्ण॑स्य चिद्व्र॒न्दिनो॒ रोरु॑व॒द्वना॑ ।  
+प्रा॒चीने॑न॒ मन॑सा ब॒र्हणा॑वता॒ यद॒द्या चि॑त्कृ॒णवः॒ कस्त्वा॒ परि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “from; about; around.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

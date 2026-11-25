@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्टको वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ dāśvā́n ← dāśváṁs- (nominal stem)
 
 praketáḥ ← praketá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॒ ब्रह्मा॑णि हरिवो॒ हरि॑भ्यां॒ सोम॑स्य याहि पी॒तये॑ सु॒तस्य॑ ।  
+इन्द्र॑ त्वा य॒ज्ञः क्षम॑माणमानड्दा॒श्वाँ अ॑स्यध्व॒रस्य॑ प्रके॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “sight; knowledge; appearance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

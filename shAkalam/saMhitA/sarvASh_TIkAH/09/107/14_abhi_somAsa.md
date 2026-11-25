@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -68,7 +69,12 @@ matsarā́saḥ ← matsará- (nominal stem)
 
 svarvídaḥ ← svarvíd- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि सोमा॑स आ॒यवः॒ पव॑न्ते॒ मद्यं॒ मद॑म् ।  
+स॒मु॒द्रस्याधि॑ वि॒ष्टपि॑ मनी॒षिणो॑ मत्स॒रासः॑ स्व॒र्विदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “finding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -185,7 +190,6 @@ they of inspired thought, bringing exhilaration and finding the sun,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md">
 <details><summary><h2>14-16 ...{Loading}...</h2></summary>
 
@@ -193,7 +197,6 @@ Like vss. 1-3, this pragātha has a two-pāda addition (vs. 16), also 12 8. Both
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sadhamā́daḥ ← sadhamád- (nominal stem)
 
 vahantu ← √vah- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एन्द्र॒वाहो॑ नृ॒पतिं॒ वज्र॑बाहुमु॒ग्रमु॒ग्रास॑स्तवि॒षास॑ एनम् ।  
+प्रत्व॑क्षसं वृष॒भं स॒त्यशु॑ष्म॒मेम॑स्म॒त्रा स॑ध॒मादो॑ वहन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्नीन्द्रौ"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नीन्द्रौ
@@ -69,7 +70,12 @@ devā ← devá- (nominal stem)
 
 somapéyāya ← somapéya- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्न॒ इन्द्र॑श्च दा॒शुषो॑ दुरो॒णे सु॒ताव॑तो य॒ज्ञमि॒होप॑ यातम् ।  
+अम॑र्धन्ता सोम॒पेया॑य देवा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ tásmin ← sá- ~ tá- (pronoun)
 
 víśvā ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सने॑मि च॒क्रम॒जरं॒ वि वा॑वृत उत्ता॒नायां॒ दश॑ यु॒क्ता व॑हन्ति ।  
+सूर्य॑स्य॒ चक्षू॒ रज॑सै॒त्यावृ॑तं॒ तस्मि॒न्नार्पि॑ता॒ भुव॑नानि॒ विश्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     wholly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

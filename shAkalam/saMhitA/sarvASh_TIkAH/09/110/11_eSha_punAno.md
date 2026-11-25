@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ varivovít ← varivovíd- (nominal stem)
 
 vayodhā́ḥ ← vayodhā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष पु॑ना॒नो मधु॑माँ ऋ॒तावेन्द्रा॒येन्दुः॑ पवते स्वा॒दुरू॒र्मिः ।  
+वा॒ज॒सनि॑र्वरिवो॒विद्व॑यो॒धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “giving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -200,10 +205,6 @@ This one being purified, the honeyed and truth-possessing drop, the  sweet wave,
 the one who gains the prize, finds wide space, and confers vitality.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note the alliteration in c: vājasánir varivovíd vayodhā́ḥ. The first word vājasániḥ forms a ring with vā́jasā́taye in vs. 1a.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -211,7 +212,6 @@ This very straightforward final tṛca concerning the ritual preparation of soma
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

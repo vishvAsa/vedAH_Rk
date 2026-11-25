@@ -4,6 +4,7 @@ devataa = "सरस्वान्"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वान्
@@ -60,7 +61,12 @@ naḥ ← ahám (pronoun)
 
 tébhiḥ ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये ते॑ सरस्व ऊ॒र्मयो॒ मधु॑मन्तो घृत॒श्चुतः॑ ।  
+तेभि॑र्नोऽवि॒ता भ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

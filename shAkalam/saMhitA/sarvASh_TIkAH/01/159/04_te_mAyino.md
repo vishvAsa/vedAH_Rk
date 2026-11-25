@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -83,7 +84,12 @@ samudré ← samudrá- (nominal stem)
 
 sudītáyaḥ ← sudītí- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते मा॒यिनो॑ ममिरे सु॒प्रचे॑तसो जा॒मी सयो॑नी मिथु॒ना समो॑कसा ।  
+नव्यं॑नव्यं॒ तन्तु॒मा त॑न्वते दि॒वि स॑मु॒द्रे अ॒न्तः क॒वयः॑ सुदी॒तयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

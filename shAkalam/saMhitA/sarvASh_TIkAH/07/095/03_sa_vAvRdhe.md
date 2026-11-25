@@ -4,6 +4,7 @@ devataa = "सरस्वान्"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वान्
@@ -80,7 +81,12 @@ tanvàm ← tanū́- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वा॑वृधे॒ नर्यो॒ योष॑णासु॒ वृषा॒ शिशु॑र्वृष॒भो य॒ज्ञिया॑सु ।  
+स वा॒जिनं॑ म॒घव॑द्भ्यो दधाति॒ वि सा॒तये॑ त॒न्वं॑ मामृजीत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “purify; polish; rub; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

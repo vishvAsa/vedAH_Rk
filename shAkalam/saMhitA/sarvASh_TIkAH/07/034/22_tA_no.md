@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ tváṣṭā ← tváṣṭar- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता नो॑ रासन्राति॒षाचो॒ वसू॒न्या रोद॑सी वरुणा॒नी शृ॑णोतु ।  
+वरू॑त्रीभिः सुशर॒णो नो॑ अस्तु॒ त्वष्टा॑ सु॒दत्रो॒ वि द॑धातु॒ रायः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “wealth; possession; rai \[word\]; gold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

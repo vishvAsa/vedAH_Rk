@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ
@@ -77,7 +78,12 @@ ná ← ná (invariable)
 
 pratimā́nāni ← pratimā́na- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपा॑न्तमन्युस्तृ॒पल॑प्रभर्मा॒ धुनिः॒ शिमी॑वा॒ञ्छरु॑माँ ऋजी॒षी ।  
+सोमो॒ विश्वा॑न्यत॒सा वना॑नि॒ नार्वागिन्द्रं॑ प्रति॒माना॑नि देभुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - \[verb\], plural, Perfect indicative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

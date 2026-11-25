@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ r̥tāvr̥dhā ← r̥tāvŕ̥dh- (nominal stem)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नू॒नं या॑तमश्वि॒नाश्वे॑भिः प्रुषि॒तप्सु॑भिः ।  
+दस्रा॒ हिर॑ण्यवर्तनी शुभस्पती पा॒तं सोम॑मृतावृधा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “sincere.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

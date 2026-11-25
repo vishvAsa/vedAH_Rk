@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -89,7 +90,12 @@ ví ← ví (invariable)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मामू॒ ष्वा॑सु॒रस्य॑ श्रु॒तस्य॑ म॒हीं मा॒यां वरु॑णस्य॒ प्र वो॑चम् ।  
+माने॑नेव तस्थि॒वाँ अ॒न्तरि॑क्षे॒ वि यो म॒मे पृ॑थि॒वीं सूर्ये॑ण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

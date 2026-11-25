@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "अग्निः सौचीकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -101,7 +102,12 @@ etám ← eṣá (pronoun)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हो॒त्राद॒हं व॑रुण॒ बिभ्य॑दायं॒ नेदे॒व मा॑ यु॒नज॒न्नत्र॑ दे॒वाः ।  
+तस्य॑ मे त॒न्वो॑ बहु॒धा निवि॑ष्टा ए॒तमर्थं॒ न चि॑केता॒हम॒ग्निः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -264,7 +270,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

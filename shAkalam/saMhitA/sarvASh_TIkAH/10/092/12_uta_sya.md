@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ dhiyā́ ← dhī́- (nominal stem)
 
 śamīnahuṣī ← śamīnahuṣī (invariable)  
 {case:VOC, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्य न॑ उ॒शिजा॑मुर्वि॒या क॒विरहिः॑ शृणोतु बु॒ध्न्यो॒३॒॑ हवी॑मनि ।  
+सूर्या॒मासा॑ वि॒चर॑न्ता दिवि॒क्षिता॑ धि॒या श॑मीनहुषी अ॒स्य बो॑धतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     attend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

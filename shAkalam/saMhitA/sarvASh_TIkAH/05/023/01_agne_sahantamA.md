@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "द्युम्नो विचर्षणिरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ sāsáhat ← √sah- (root)
 
 vā́jeṣu ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ सह॑न्त॒मा भ॑र द्यु॒म्नस्य॑ प्रा॒सहा॑ र॒यिम् ।  
+विश्वा॒ यश्च॑र्ष॒णीर॒भ्या॒३॒॑सा वाजे॑षु सा॒सह॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “endure; overcome; habituate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -60,7 +60,11 @@ nŕ̥bhyaḥ ← nár- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नकि॑ष्ट ए॒ता व्र॒ता मि॑नन्ति॒ नृभ्यो॒ यदे॒भ्यः श्रु॒ष्टिं च॒कर्थ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +140,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -182,10 +185,6 @@ Nicht übertreten sie diese deine Gebote, da du diesen Herren Gehorsam geleistet
 
 Niemand kann hemmen – all dies dein Wirken, wenn diesen Männern – Gehör du schenkest; Das ist dein Werk ja, – dass du verbündet mit gleichen Helden – Schmach schlägst und tilgest.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

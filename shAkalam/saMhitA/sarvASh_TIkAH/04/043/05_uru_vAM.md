@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पुरुमीळ्हाजमीळ्हौ सौहोत्रौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -101,7 +102,12 @@ vām ← tvám (pronoun)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रु वां॒ रथः॒ परि॑ नक्षति॒ द्यामा यत्स॑मु॒द्राद॒भि वर्त॑ते वाम् ।  
+मध्वा॑ माध्वी॒ मधु॑ वां प्रुषाय॒न्यत्सीं॑ वां॒ पृक्षो॑ भु॒रज॑न्त प॒क्वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

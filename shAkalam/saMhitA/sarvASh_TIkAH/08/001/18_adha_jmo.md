@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ pr̥ṇa ← √pr̥̄- 1 (root)
 
 sukrato ← sukrátu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॒ ज्मो अध॑ वा दि॒वो बृ॑ह॒तो रो॑च॒नादधि॑ ।  
+अ॒या व॑र्धस्व त॒न्वा॑ गि॒रा ममा जा॒ता सु॑क्रतो पृण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

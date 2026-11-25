@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -72,7 +73,12 @@ mahásya ← mahá- (nominal stem)
 
 todásya ← todá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रु त्वा॑ दा॒श्वान्वो॑चे॒ऽरिर॑ग्ने॒ तव॑ स्वि॒दा ।  
+तो॒दस्ये॑व शर॒ण आ म॒हस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “great; abundant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

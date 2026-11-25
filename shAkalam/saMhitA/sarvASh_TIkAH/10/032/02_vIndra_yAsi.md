@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ vagvanā́n ← vagvaná- (nominal stem)
 
 vanvantu ← √vanⁱ- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॑न्द्र यासि दि॒व्यानि॑ रोच॒ना वि पार्थि॑वानि॒ रज॑सा पुरुष्टुत ।  
+ये त्वा॒ वह॑न्ति॒ मुहु॑रध्व॒राँ उप॒ ते सु व॑न्वन्तु वग्व॒नाँ अ॑रा॒धसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “stingy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

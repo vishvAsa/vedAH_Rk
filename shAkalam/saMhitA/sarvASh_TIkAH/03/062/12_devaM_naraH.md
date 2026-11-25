@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -57,7 +58,12 @@ iṣitā́ḥ ← √iṣ- 1 (root)
 
 namasyánti ← √namasy- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वं नरः॑ सवि॒तारं॒ विप्रा॑ य॒ज्ञैः सु॑वृ॒क्तिभिः॑ ।  
+न॒म॒स्यन्ति॑ धि॒येषि॒ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “send.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -151,7 +156,6 @@ when impelled by insight.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -159,7 +163,6 @@ All three vss. in this tṛca contain déva- (…) savitár- (or vice versa).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -66,7 +67,12 @@ paṇī́n ← paṇí- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒श्विना॒ स्वृ॑षे स्तुहि कु॒वित्ते॒ श्रव॑तो॒ हव॑म् ।  
+नेदी॑यसः कूळयातः प॒णीँरु॒त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

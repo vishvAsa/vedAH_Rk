@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -63,7 +64,12 @@ pāyúbhiḥ ← pāyú- (nominal stem)
 
 sacemahi ← √sac- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते नो॑ ना॒वमु॑रुष्यत॒ दिवा॒ नक्तं॑ सुदानवः ।  
+अरि॑ष्यन्तो॒ नि पा॒युभिः॑ सचेमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -177,12 +182,6 @@ Guard our vessel: no nāvam uruṣyata: nāvam yajñiyām (occurs in 10.044.06) 
 You (all) of good drops—give room to our roar by day and by night. Not suffering harm, might we be accompanied by protectors.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The lexeme ní √sac is found only here in the RV and indeed, judging from MonWms, in all of Sanskrit. I consider the ní here intrusive, having crept in from passsages like VII.38.3 víśvebhiḥ pātu pāyúbhir ní sūrī́n. The lexeme ní √pā is fairly well attested, and so I think ní has, as it were, hitched a ride on pāyúbhiḥ, which is ordinarily found with a form of the cognate verb as in the just cited passage.
-
-The insistent ní’s of 11c may also have played a part.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -190,7 +189,6 @@ This tṛca takes a break from Mitra and Varuṇa, introducing a somewhat random
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "सुदासः पैजवनस्य दानस्तुत�
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सुदासः पैजवनस्य दानस्तुतिः
@@ -89,7 +90,12 @@ rébhan ← √ribh- (root)
 
 sádma ← sádman- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वे नप्तु॑र्दे॒वव॑तः श॒ते गोर्द्वा रथा॑ व॒धूम॑न्ता सु॒दासः॑ ।  
+अर्ह॑न्नग्ने पैजव॒नस्य॒ दानं॒ होते॑व॒ सद्म॒ पर्ये॑मि॒ रेभ॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “moo; murmur; praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

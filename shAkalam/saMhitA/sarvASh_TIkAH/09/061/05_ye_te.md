@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ soma ← sóma- (nominal stem)
 
 tébhiḥ ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये ते॑ प॒वित्र॑मू॒र्मयो॑ऽभि॒क्षर॑न्ति॒ धार॑या ।  
+तेभि॑र्नः सोम मृळय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “pardon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -158,10 +163,6 @@ Your waves that flow into the filter in a stream—
 with them be gracious to us, Soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-We might fault the poet for a certain laxness of phraseology: how exactly is Soma meant to be gracious / merciful to us “with his waves”?
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -169,7 +170,6 @@ There are faint signs of unity in this tṛca: the word pavítram ‘filter’ i
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ nartáyan ← √nr̥t- (root)
 
 vāvasānásya ← √vas- 2 (root)  
 {case:GEN, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं गो॒त्रमङ्गि॑रोभ्योऽवृणो॒रपो॒तात्र॑ये श॒तदु॑रेषु गातु॒वित् ।  
+स॒सेन॑ चिद्विम॒दाया॑वहो॒ वस्वा॒जावद्रिं॑ वावसा॒नस्य॑ न॒र्तय॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

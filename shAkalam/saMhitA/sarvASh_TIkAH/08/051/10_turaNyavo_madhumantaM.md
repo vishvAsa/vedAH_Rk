@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ asmé ← ahám (pronoun)
 
 suvānā́saḥ ← √su- (root)  
 {case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तु॒र॒ण्यवो॒ मधु॑मन्तं घृत॒श्चुतं॒ विप्रा॑सो अ॒र्कमा॑नृचुः ।  
+अ॒स्मे र॒यिः प॑प्रथे॒ वृष्ण्यं॒ शवो॒ऽस्मे सु॑वा॒नास॒ इन्द॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

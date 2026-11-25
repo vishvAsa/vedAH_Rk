@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "ऊर्ध्वग्रावार्बुदिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -60,7 +61,12 @@ sunutá ← √su- (root)
 
 yujyadhvam ← √yuj- (root)  
 {number:PL, person:2, mood:IND, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॑ ग्रावाणः सवि॒ता दे॒वः सु॑वतु॒ धर्म॑णा ।  
+धू॒र्षु यु॑ज्यध्वं सुनु॒त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -72,7 +73,12 @@ prátibhr̥tā ← √bhr̥- (root)
 
 vītám ← √vī- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ शु॑भ्रा यातमश्विना॒ स्वश्वा॒ गिरो॑ दस्रा जुजुषा॒णा यु॒वाकोः॑ ।  
+ह॒व्यानि॑ च॒ प्रति॑भृता वी॒तं नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -58,7 +59,11 @@ krátve ← krátu- (nominal stem)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑स्ते सोम सु॒तस्य॑ पेयाः॒ क्रत्वे॒ दक्षा॑य॒ विश्वे॑ च दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +136,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -158,14 +162,12 @@ Indra should drink of you, Soma, when you are pressed, for will and  skill—and
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
 No particular signs of cohesion, beyond the mention of Soma’s divine recipients in vss. 1-2. Vs. 3 begins with a possibly summary evā́.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

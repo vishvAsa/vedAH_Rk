@@ -4,6 +4,7 @@ devataa = "वाजिनः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वाजिनः
@@ -80,7 +81,12 @@ tr̥ptā́ḥ ← √tr̥p- (root)
 
 yāta ← √yā- 1 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाजे॑वाजेऽवत वाजिनो नो॒ धने॑षु विप्रा अमृता ऋतज्ञाः ।  
+अ॒स्य मध्वः॑ पिबत मा॒दय॑ध्वं तृ॒प्ता या॑त प॒थिभि॑र्देव॒यानैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “vehicle; journey; campaign; carriage; vessel; cart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -241,10 +246,6 @@ Help us to every prize, o prizewinners, when the stakes (are set), you  truth-kn
 Drink of this honey here; make yourselves exhilarated. Satisfied, drive  along the paths that lead to the gods.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-It is appropriate that the vājíns should be the topic in a clause with the āmreḍita loc. absol. vā́je-vāje. The etym. figure would be clearer if the loc. had been tr. “whenever prizes (are at stake)” vel sim.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/038/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -254,7 +255,6 @@ And there are numerous phraseological parallels that support the identification.
 
 </details>
 </div>
-</details>
 
 <details><summary>Keith</summary>
 

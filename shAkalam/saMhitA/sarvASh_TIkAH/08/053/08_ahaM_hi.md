@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ gavyúḥ ← gavyú- (nominal stem)
 
 mathīnā́m ← mathí- (?) (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं हि ते॑ हरिवो॒ ब्रह्म॑ वाज॒युरा॒जिं यामि॒ सदो॒तिभिः॑ ।  
+त्वामिदे॒व तममे॒ सम॑श्व॒युर्ग॒व्युरग्रे॑ मथी॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     desire; wish; conviction; plan; devotion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

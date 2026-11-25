@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -122,7 +123,13 @@ uṣásaḥ ← uṣás- (nominal stem)
 
 vāsaya ← √vas- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒युर्यु॑ङ्क्ते॒ रोहि॑ता वा॒युर॑रु॒णा वा॒यू रथे॑ अजि॒रा धु॒रि वोळ्ह॑वे॒ वहि॑ष्ठा धु॒रि वोळ्ह॑वे ।  
+प्र बो॑धया॒ पुरं॑धिं जा॒र आ स॑स॒तीमि॑व ।  
+प्र च॑क्षय॒ रोद॑सी वासयो॒षसः॒ श्रव॑से वासयो॒षसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -306,7 +313,6 @@ _________
 - “Ushas; dawn; uṣas \[word\]; morning.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

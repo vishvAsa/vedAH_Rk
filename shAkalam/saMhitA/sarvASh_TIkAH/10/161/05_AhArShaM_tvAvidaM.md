@@ -4,6 +4,7 @@ devataa = "राजयक्ष्मघ्नं"
 RShiH = "यक्ष्मनाशनः प्राजापत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राजयक्ष्मघ्नं
@@ -86,7 +87,12 @@ sárvam ← sárva- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आहा॑र्षं॒ त्वावि॑दं त्वा॒ पुन॒रागाः॑ पुनर्नव ।  
+सर्वा॑ङ्ग॒ सर्वं॑ ते॒ चक्षुः॒ सर्व॒मायु॑श्च तेऽविदम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “find; detect; marry; get; think.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

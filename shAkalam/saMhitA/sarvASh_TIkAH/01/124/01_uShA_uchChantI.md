@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -95,7 +96,12 @@ prá ← prá (invariable)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒षा उ॒च्छन्ती॑ समिधा॒ने अ॒ग्ना उ॒द्यन्त्सूर्य॑ उर्वि॒या ज्योति॑रश्रेत् ।  
+दे॒वो नो॒ अत्र॑ सवि॒ता न्वर्थं॒ प्रासा॑वीद्द्वि॒पत्प्र चतु॑ष्पदि॒त्यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

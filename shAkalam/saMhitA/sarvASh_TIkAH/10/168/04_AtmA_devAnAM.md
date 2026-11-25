@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "अनिलो वातायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -86,7 +87,12 @@ vā́tāya ← vā́ta- (nominal stem)
 
 vidhema ← √vidh- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒त्मा दे॒वानां॒ भुव॑नस्य॒ गर्भो॑ यथाव॒शं च॑रति दे॒व ए॒षः ।  
+घोषा॒ इद॑स्य शृण्विरे॒ न रू॒पं तस्मै॒ वाता॑य ह॒विषा॑ विधेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “worship; offer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

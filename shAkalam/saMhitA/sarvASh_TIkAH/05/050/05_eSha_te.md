@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -79,7 +80,12 @@ devastútaḥ ← devastút- (nominal stem)
 
 manāmahe ← √man- 1 (root)  
 {number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष ते॑ देव नेता॒ रथ॒स्पतिः॒ शं र॒यिः ।  
+शं रा॒ये शं स्व॒स्तय॑ इषः॒स्तुतो॑ मनामहे देव॒स्तुतो॑ मनामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

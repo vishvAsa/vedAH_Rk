@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उपमन्युर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ pracetáyan ← √cit- (root)
 
 vā́cam ← vā́c- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॒ शोणो॑ अभि॒कनि॑क्रद॒द्गा न॒दय॑न्नेति पृथि॒वीमु॒त द्याम् ।  
+इन्द्र॑स्येव व॒ग्नुरा शृ॑ण्व आ॒जौ प्र॑चे॒तय॑न्नर्षति॒ वाच॒मेमाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -250,16 +255,6 @@ The ruddy bull keeps roaring at the cows; bellowing he goes to heaven  and earth
 His voice, like Indra’s, is heard at the contest. He rushes, making this  speech perceptible here.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The part. nadáyan here (as well as the other 2 forms of this stem) is universally taken as a trans.-caus. ‘causing to resound’ with Heaven and Earth as obj.
-
-As I argue in my -áya-book (60-61), all 3 passages are better taken as intrans. In this vs. the focus is on the noise that Soma makes; see esp. the parallel part.
-
-abhikánikradat ‘constantly roaring’. And so intrans. ‘bellowing’ fits this pattern.
-
-Note also IX.70.6 mātárā … nā́nadad eti “he goes bellowing to his two mothers [=Heaven and Earth,” with the same config. of participle to √nad + eti + H+E.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -269,7 +264,6 @@ The poet is supposed to be Upamanyu Vāsiṣṭha, presumably following up on th
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ vidvā́n ← √vid- 2 (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॒ हि सोमः॑ क॒लशाँ॒ असि॑ष्यद॒दत्यो॒ न वोळ्हा॑ र॒घुव॑र्तनि॒र्वृषा॑ ।  
+अथा॑ दे॒वाना॑मु॒भय॑स्य॒ जन्म॑नो वि॒द्वाँ अ॑श्नोत्य॒मुत॑ इ॒तश्च॒ यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “who; which; yat \[pronoun\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -263,10 +268,6 @@ For soma has flowed to the tubs. Like a steed that pulls (the chariot), the  bul
 and knowing of the double birth of gods (and men), he attains to what is  from yonder and what from here.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Oldenberg I see “of gods” (devā́nām) in the phrase “the double birth of gods” as pregnant for “of gods (and men),” very much as a pregnant dual like dyā́vā “two heavens” or pitárā “two fathers” implies its opposite number. As Oldenberg points out, the locational adverbs in the next pāda amúta itáś ca “from yonder and from here” strongly suggest heaven and earth as their spheres. Geldner considers “gods and men to be the sense, but, in order not to supply a 2nd gen. pl., he achieves this by way of the unlikely “(heavenly and earthly) gods,” that is, gods and men. Ober (I.391) thinks that the double birth is of Devas and Asuras, but this is anachronistic.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/081/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -274,7 +275,6 @@ As Geldner points out (nn. 1d, 2d), ghee (ghṛtá-) in these two vss. stands fo
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

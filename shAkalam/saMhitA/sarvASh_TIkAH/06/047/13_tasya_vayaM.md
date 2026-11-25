@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sanutár ← sanutár (invariable)
 
 yuyotu ← √yu- 2 (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्य॑ व॒यं सु॑म॒तौ य॒ज्ञिय॒स्यापि॑ भ॒द्रे सौ॑मन॒से स्या॑म ।  
+स सु॒त्रामा॒ स्ववाँ॒ इन्द्रो॑ अ॒स्मे आ॒राच्चि॒द्द्वेषः॑ सनु॒तर्यु॑योतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “keep away; separate; ward off.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -247,7 +252,6 @@ Let Indra of good protection, of good help to us keep hatred away even  from a d
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
 <details><summary><h2>11-13 ...{Loading}...</h2></summary>
 
@@ -255,7 +259,6 @@ The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram
 
 </details>
 </div>
-</details>
 
 <details><summary>Keith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ iva ← iva (invariable)
 
 vŕ̥thā ← vŕ̥thā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते वाता॑ इवो॒रवः॑ प॒र्जन्य॑स्येव वृ॒ष्टयः॑ ।  
+अ॒ग्नेरि॑व भ्र॒मा वृथा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “vainly; incorrectly; unnecessarily; at will.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

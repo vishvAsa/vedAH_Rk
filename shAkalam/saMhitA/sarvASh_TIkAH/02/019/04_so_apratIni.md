@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sātaú ← sātí- (nominal stem)
 
 sū́ryasya ← sū́rya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो अ॑प्र॒तीनि॒ मन॑वे पु॒रूणीन्द्रो॑ दाशद्दा॒शुषे॒ हन्ति॑ वृ॒त्रम् ।  
+स॒द्यो यो नृभ्यो॑ अत॒साय्यो॒ भूत्प॑स्पृधा॒नेभ्यः॒ सूर्य॑स्य सा॒तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “victory; acquisition; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

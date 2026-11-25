@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्तदेवताः पितरो वा"
 RShiH = "यमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तदेवताः पितरो वा
@@ -92,7 +93,12 @@ váruṇam ← váruṇa- (nominal stem)
 
 yamám ← yamá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रेहि॒ प्रेहि॑ प॒थिभिः॑ पू॒र्व्येभि॒र्यत्रा॑ नः॒ पूर्वे॑ पि॒तरः॑ परे॒युः ।  
+उ॒भा राजा॑ना स्व॒धया॒ मद॑न्ता य॒मं प॑श्यासि॒ वरु॑णं च दे॒वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

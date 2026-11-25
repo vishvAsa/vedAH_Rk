@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -92,7 +93,12 @@ tr̥pṇuta ← √tr̥p- (root)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त॒तं मे॒ अप॒स्तदु॑ तायते॒ पुनः॒ स्वादि॑ष्ठा धी॒तिरु॒चथा॑य शस्यते ।  
+अ॒यं स॑मु॒द्र इ॒ह वि॒श्वदे॑व्यः॒ स्वाहा॑कृतस्य॒ समु॑ तृप्णुत ऋभवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “Ribhus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

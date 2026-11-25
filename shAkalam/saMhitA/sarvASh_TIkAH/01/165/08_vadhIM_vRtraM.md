@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -80,7 +81,12 @@ sugā́ḥ ← sugá- (nominal stem)
 
 vájrabāhuḥ ← vájrabāhu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वधीं॑ वृ॒त्रं म॑रुत इन्द्रि॒येण॒ स्वेन॒ भामे॑न तवि॒षो ब॑भू॒वान् ।  
+अ॒हमे॒ता मन॑वे वि॒श्वश्च॑न्द्राः सु॒गा अ॒पश्च॑कर॒ वज्र॑बाहुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “arm; bāhu \[word\]; elbow; forefoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ gādhám ← gādhá- (nominal stem)
 
 gambhīré ← gambhīrá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न वी॒ळवे॒ नम॑ते॒ न स्थि॒राय॒ न शर्ध॑ते॒ दस्यु॑जूताय स्त॒वान् ।  
+अज्रा॒ इन्द्र॑स्य गि॒रय॑श्चिदृ॒ष्वा ग॑म्भी॒रे चि॑द्भवति गा॒धम॑स्मै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,10 +254,6 @@ He does not bow to the tough, nor to the stubborn, nor to the vaunting  one sped
 Even the towering mountains are flatlands for Indra. Even in the deep  there is a ford for him.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The Holland & van Nooten Rig Veda edition ed. resolves the contraction across pāda boundary of yajatréndra as yajatrā́índra. This must be a careless error, since the Pp. has yajatra índra, and the stem yájatra- has root accent.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md">
 <details><summary><h2>06-08 ...{Loading}...</h2></summary>
 
@@ -260,7 +261,6 @@ Each of these vss. contains at least one derivative of nṛ́- ‘(superior) man
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

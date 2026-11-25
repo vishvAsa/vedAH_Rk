@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ gā́ḥ ← gáv- ~ gó- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि त्वा॒ रोद॑सी उ॒भे ऋ॑घा॒यमा॑ण॒मिन्व॑तः ।  
+जेषः॒ स्व॑र्वतीर॒पः सं गा अ॒स्मभ्यं॑ धूनुहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “shake; remove; chase away.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

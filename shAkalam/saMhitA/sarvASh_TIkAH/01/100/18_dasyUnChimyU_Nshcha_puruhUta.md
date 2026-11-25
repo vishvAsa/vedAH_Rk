@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वार्षागिराः ऋज्राश्वांबरीष-सहदेव-भयमान-सुराधसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sū́ryam ← sū́rya- (nominal stem)
 
 suvájraḥ ← suvájra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दस्यू॒ञ्छिम्यूँ॑श्च पुरुहू॒त एवै॑र्ह॒त्वा पृ॑थि॒व्यां शर्वा॒ नि ब॑र्हीत् ।  
+सन॒त्क्षेत्रं॒ सखि॑भिः श्वि॒त्न्येभिः॒ सन॒त्सूर्यं॒ सन॑द॒पः सु॒वज्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sacemahi ← √sac- 1 (root)
 
 sádā ← sádā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+र॒ण्वः सन्दृ॑ष्टौ पितु॒माँ इ॑व॒ क्षयो॑ भ॒द्रा रु॒द्राणां॑ म॒रुता॒मुप॑स्तुतिः ।  
+गोभिः॑ ष्याम य॒शसो॒ जने॒ष्वा सदा॑ देवास॒ इळ॑या सचेमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

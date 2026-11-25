@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ pr̥tsú ← pŕ̥t- (nominal stem)
 
 turváṇe ← √tūr(v)- ~ tur- (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वा॑ तृ॒क्षौ म॑घवन्द्रु॒ह्यावा जने॒ यत्पू॒रौ कच्च॒ वृष्ण्य॑म् ।  
+अ॒स्मभ्यं॒ तद्रि॑रीहि॒ सं नृ॒षाह्ये॒ऽमित्रा॑न्पृ॒त्सु तु॒र्वणे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - \[verb noun\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -250,17 +255,12 @@ Or what bullish power is in Tr̥kṣi and in the Druhyu people, or whatever  is 
 grant that to us fully at (the time of) the conquering of men, for us to  vanquish our foes in battles.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the verbal rection of turváṇe see Keydana (Inf., 245-47). Note also that the circumstantial loc. nṛṣā́hye “at the conquering of men” and the purpose infinitival phrase amitrā́n … turváṇe “to vanquish our foes” have the same semantic structure, though different syntax.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 This pragātha is stitched together by the yád (vā) construction (7a, c, 8a, b).
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

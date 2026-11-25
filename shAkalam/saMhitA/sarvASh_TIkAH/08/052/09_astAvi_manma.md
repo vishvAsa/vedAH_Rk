@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ medhā́ḥ ← medhā́- (nominal stem)
 
 stotúḥ ← stotár- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्ता॑वि॒ मन्म॑ पू॒र्व्यं ब्रह्मेन्द्रा॑य वोचत ।  
+पू॒र्वीरृ॒तस्य॑ बृह॒तीर॑नूषत स्तो॒तुर्मे॒धा अ॑सृक्षत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
     use; be born; make.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

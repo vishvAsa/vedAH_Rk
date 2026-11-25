@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ sī́kṣantaḥ ← √sah- (root)
 
 vrataíḥ ← vratá- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाना॒ ह्य१॒॑ग्नेऽव॑से॒ स्पर्ध॑न्ते॒ रायो॑ अ॒र्यः ।  
+तूर्व॑न्तो॒ दस्यु॑मा॒यवो॑ व्र॒तैः सीक्ष॑न्तो अव्र॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “disobedient; evil.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

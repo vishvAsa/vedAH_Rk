@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ ví ← ví (invariable)
 
 vrajám ← vrajá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑नि श॒क्रो नर्या॑णि वि॒द्वान॒पो रि॑रेच॒ सखि॑भि॒र्निका॑मैः ।  
+अश्मा॑नं चि॒द्ये बि॑भि॒दुर्वचो॑भिर्व्र॒जं गोम॑न्तमु॒शिजो॒ वि व॑व्रुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

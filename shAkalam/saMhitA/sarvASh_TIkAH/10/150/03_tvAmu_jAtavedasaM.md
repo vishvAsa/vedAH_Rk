@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "मृळीको वासिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ mr̥ḷīkā́ya ← mr̥ḷīká- (nominal stem)
 
 priyávratān ← priyávrata- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वामु॑ जा॒तवे॑दसं वि॒श्ववा॑रं गृणे धि॒या ।  
+अग्ने॑ दे॒वाँ आ व॑ह नः प्रि॒यव्र॑तान्मृळी॒काय॑ प्रि॒यव्र॑तान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     \[word\]; rule; behavior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

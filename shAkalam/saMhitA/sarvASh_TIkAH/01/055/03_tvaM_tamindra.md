@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ ugráḥ ← ugrá- (nominal stem)
 
 víśvasmai ← víśva- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं तमि॑न्द्र॒ पर्व॑तं॒ न भोज॑से म॒हो नृ॒म्णस्य॒ धर्म॑णामिरज्यसि ।  
+प्र वी॒र्ये॑ण दे॒वताति॑ चेकिते॒ विश्व॑स्मा उ॒ग्रः कर्म॑णे पु॒रोहि॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

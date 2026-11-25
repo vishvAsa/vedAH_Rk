@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ tokā́ya ← toká- (nominal stem)
 
 yós ← yós (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ त्वं पा॑रया॒ नव्यो॑ अ॒स्मान्त्स्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा॑ ।  
+पूश्च॑ पृ॒थ्वी ब॑हु॒ला न॑ उ॒र्वी भवा॑ तो॒काय॒ तन॑याय॒ शं योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “fortune.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -293,7 +298,7 @@ Agni! Thou who art young, help us safely across all difficulties. Be for us a br
 O Agni, once more lead us  
 With thy favour over every trouble.  
 Be a broad, thick, wide fortress for us,  
-Health and wealth for our children and descendants. 
+Health and wealth for our children and descendants.
 </details>
 
 <details><summary>त्रिभुवनः</summary>

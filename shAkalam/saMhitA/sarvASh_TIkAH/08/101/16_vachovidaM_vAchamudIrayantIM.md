@@ -4,6 +4,7 @@ devataa = "गौः"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गौः
@@ -80,7 +81,12 @@ mā ← ahám (pronoun)
 
 mártyaḥ ← mártya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒चो॒विदं॒ वाच॑मुदी॒रय॑न्तीं॒ विश्वा॑भिर्धी॒भिरु॑प॒तिष्ठ॑मानाम् ।  
+दे॒वीं दे॒वेभ्यः॒ पर्ये॒युषीं॒ गामा मा॑वृक्त॒ मर्त्यो॑ द॒भ्रचे॑ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “mind; heart; consciousness; intelligence; purpose; cetas \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

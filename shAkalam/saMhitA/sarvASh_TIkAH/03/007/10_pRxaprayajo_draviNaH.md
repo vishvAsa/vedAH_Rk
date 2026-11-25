@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ mahé ← máh- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पृ॒क्षप्र॑यजो द्रविणः सु॒वाचः॑ सुके॒तव॑ उ॒षसो॑ रे॒वदू॑षुः ।  
+उ॒तो चि॑दग्ने महि॒ना पृ॑थि॒व्याः कृ॒तं चि॒देनः॒ सं म॒हे द॑शस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - \[verb\], singular, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उपमश्रवा मैत्रातिथिः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उपमश्रवा मैत्रातिथिः
@@ -60,7 +61,12 @@ maghávā ← maghávan- (nominal stem)
 
 máma ← ahám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदीशी॑या॒मृता॑नामु॒त वा॒ मर्त्या॑नाम् ।  
+जीवे॒दिन्म॒घवा॒ मम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

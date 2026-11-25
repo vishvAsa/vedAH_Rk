@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ jyótiḥ ← jyótis- (nominal stem)
 
 sū́rye ← sū́rya- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हत्तत्सोमो॑ महि॒षश्च॑कारा॒पां यद्गर्भोऽवृ॑णीत दे॒वान् ।  
+अद॑धा॒दिन्द्रे॒ पव॑मान॒ ओजोऽज॑नय॒त्सूर्ये॒ ज्योति॒रिन्दुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -252,7 +257,6 @@ Purifying himself, he placed strength in Indra. The drop begat the light  in the
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/40-42.md">
 <details><summary><h2>40-42 ...{Loading}...</h2></summary>
 
@@ -260,7 +264,6 @@ No particular unity detectable in the tṛca, though the 2nd two vss. do focus o
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

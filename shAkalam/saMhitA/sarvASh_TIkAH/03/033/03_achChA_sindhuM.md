@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -80,7 +81,12 @@ saṁcárantī ← √carⁱ- (root)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॒ सिन्धुं॑ मा॒तृत॑मामयासं॒ विपा॑शमु॒र्वीं सु॒भगा॑मगन्म ।  
+व॒त्समि॑व मा॒तरा॑ संरिहा॒णे स॑मा॒नं योनि॒मनु॑ सं॒चर॑न्ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “wander; approach; meet.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

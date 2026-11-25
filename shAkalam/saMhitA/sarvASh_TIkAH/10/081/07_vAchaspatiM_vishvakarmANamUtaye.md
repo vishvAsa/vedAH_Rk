@@ -4,6 +4,7 @@ devataa = "विश्वकर्मा"
 RShiH = "विश्वकर्मा भौवनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -80,7 +81,12 @@ sādhúkarmā ← sādhúkarman- (nominal stem)
 
 viśváśambhūḥ ← viśváśambhū- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒चस्पतिं॑ वि॒श्वक॑र्माणमू॒तये॑ मनो॒जुवं॒ वाजे॑ अ॒द्या हु॑वेम ।  
+स नो॒ विश्वा॑नि॒ हव॑नानि जोषद्वि॒श्वश॑म्भू॒रव॑से सा॒धुक॑र्मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     process; duty; therapy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ u ← u (invariable)
 
 yaṁsate ← √yam- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घृ॒तप्र॑तीकं व ऋ॒तस्य॑ धू॒र्षद॑म॒ग्निं मि॒त्रं न स॑मिधा॒न ऋ॑ञ्जते ।  
+इन्धा॑नो अ॒क्रो वि॒दथे॑षु॒ दीद्य॑च्छु॒क्रव॑र्णा॒मुदु॑ नो यंसते॒ धिय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

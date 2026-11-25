@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ havyádātim ← havyádāti- (nominal stem)
 
 sūdaya ← √sūd- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स म॒न्द्रया॑ च जि॒ह्वया॒ वह्नि॑रा॒सा वि॒दुष्ट॑रः ।  
+अग्ने॑ र॒यिं म॒घव॑द्भ्यो न॒ आ व॑ह ह॒व्यदा॑तिं च सूदय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “kill; promote.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

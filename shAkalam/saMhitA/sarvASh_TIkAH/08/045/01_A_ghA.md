@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -66,7 +67,12 @@ yéṣām ← yá- (pronoun)
 
 yúvā ← yúvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ घा॒ ये अ॒ग्निमि॑न्ध॒ते स्तृ॒णन्ति॑ ब॒र्हिरा॑नु॒षक् ।  
+येषा॒मिन्द्रो॒ युवा॒ सखा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tūtoḥ ← √tū- (root)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं रथं॒ प्र भ॑रो यो॒धमृ॒ष्वमावो॒ युध्य॑न्तं वृष॒भं दश॑द्युम् ।  
+त्वं तुग्रं॑ वेत॒सवे॒ सचा॑ह॒न्त्वं तुजिं॑ गृ॒णन्त॑मिन्द्र तूतोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “strengthen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -257,18 +262,6 @@ You struck down Tugra for Vetasu, in partnership. You, Indra,
 strengthened Tuji, the singer.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As in 3c, Hoffmann (184) reads sácā han in c rather than Pp. sácā ahan, which seems perfectly plausible. As for the unequivocal imperfect ā́vaḥ in b, he suggests that this may not have been the original form, citing the almost identical I.33.14b prā́vo yúdhyantaṃ vṛṣabháṃ dáśadyum. If the original reading was *prā́vaḥ, it could contain the injunctive: prá avaḥ. However, it is unclear to me how the corruption would have arisen, particularly because in the next vs. (5) the d pāda begins prā́vaḥ. Moreover the pāda preceding I.33.14b begins with ā́vaḥ, a clear imperfect matching the one here. Hoffmann’s other observation -- that this pres. stem has no clear injunctive forms (and only one possible one, ávaḥ in I.121.12, which more likely belongs to the s-stem noun; see comm. ad loc.) -- seems more apposite.
-
-For whatever reason the injunctive to this stem was avoided -- or, perhaps better phrased, ā́va- was treated as the injunctive stem.
-
-I do not entirely understand what sácā is doing here; it seems to add little and have no obvious syntactic connection to the rest. As discussed ad IV.31.5, sácā with loc. is regularly a pleonastic+++(=redundant)+++ marker of the loc. abs., but there is no loc. here. Grassmann cites our passage here as an ex. of sácā after a dat. meaning “zu seinen Gunsten,” but I don’t understand how this meaning would have developed from ‘together with’. The same sequence (sácā han) is found two vss. later (6d) in the same general context: Indra’s smiting of an enemy on behalf of a mortal friend, and I.63.3 tváṃ śúṣṇam … kútsāya dyumáte sácā han shows the same configuration. In all three passages I tr. it ‘in partnership’ as an adverbial. Perhaps sácā signals an esp. close relationship between Indra and his mortal beneficiary. The voc. epithet of Indra in 7c, hapax sadhavīra ‘you who have our heroes as companions’ in my tr., might support this view, and see also 8ab. I am not entirely persuaded by my own interpr., however.
-
-On tūtos, tūtot as belonging to a redup. aor., not the perfect (contra Wh Rts, Macdonell VGS), see detailed disc. by Kümmel (220-21); Hoffmann also identifies it as an aor.
-
-(183); Grassmann already took it as a caus. aor., and see also Schaeffer (Intens. 129-30).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
 <details><summary><h2>03-06 ...{Loading}...</h2></summary>
 
@@ -276,7 +269,6 @@ These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

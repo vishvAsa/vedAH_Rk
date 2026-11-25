@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ indra ← índra- (nominal stem)
 
 kr̥ṇutāt ← √kr̥- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ क्षिप दि॒वो अश्मा॑नमु॒च्चा येन॒ शत्रुं॑ मन्दसा॒नो नि॒जूर्वाः॑ ।  
+तो॒कस्य॑ सा॒तौ तन॑यस्य॒ भूरे॑र॒स्माँ अ॒र्धं कृ॑णुतादिन्द्र॒ गोना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

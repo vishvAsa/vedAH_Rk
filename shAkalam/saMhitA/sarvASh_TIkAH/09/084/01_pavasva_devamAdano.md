@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रजापतिर्वाच्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ jánam ← jána- (nominal stem)
 
 urukṣitaú ← urukṣití- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व देव॒माद॑नो॒ विच॑र्षणिर॒प्सा इन्द्रा॑य॒ वरु॑णाय वा॒यवे॑ ।  
+कृ॒धी नो॑ अ॒द्य वरि॑वः स्वस्ति॒मदु॑रुक्षि॒तौ गृ॑णीहि॒ दैव्यं॒ जन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

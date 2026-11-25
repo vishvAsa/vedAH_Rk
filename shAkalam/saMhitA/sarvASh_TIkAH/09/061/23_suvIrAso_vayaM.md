@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ punānáḥ ← √pū- (root)
 
 vardha ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒वीरा॑सो व॒यं धना॒ जये॑म सोम मीढ्वः ।  
+पु॒ना॒नो व॑र्ध नो॒ गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -167,10 +172,6 @@ Might we of good heroes win the stakes, o Soma the rewarder.
 Becoming purified, strengthen our hymns.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Pāda c … vardha no gíraḥ “strengthen our hymns” is the reciprocal to vs. 14a tán íd vardhantu no gíraḥ “let our hymns strengthen just him.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -178,7 +179,6 @@ The tṛca has something of an emphasis on combat and winning, and the Vṛtra t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

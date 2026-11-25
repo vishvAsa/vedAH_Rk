@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -69,7 +70,12 @@ gā́ya ← √gā(y)- (root)
 
 iva ← iva (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यून॑ ऊ॒ षु नवि॑ष्ठया॒ वृष्णः॑ पाव॒काँ अ॒भि सो॑भरे गि॒रा ।  
+गाय॒ गा इ॑व॒ चर्कृ॑षत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

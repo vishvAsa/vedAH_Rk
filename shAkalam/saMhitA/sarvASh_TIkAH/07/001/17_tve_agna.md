@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ ubhā́ ← ubhá- (pronoun)
 
 vahatū́ ← vahatú- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे अ॑ग्न आ॒हव॑नानि॒ भूरी॑शा॒नास॒ आ जु॑हुयाम॒ नित्या॑ ।  
+उ॒भा कृ॒ण्वन्तो॑ वह॒तू मि॒येधे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

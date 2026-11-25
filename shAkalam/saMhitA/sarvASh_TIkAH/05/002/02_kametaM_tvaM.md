@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वृशो जानः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ mātā́ ← mātár- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कमे॒तं त्वं यु॑वते कुमा॒रं पेषी॑ बिभर्षि॒ महि॑षी जजान ।  
+पू॒र्वीर्हि गर्भः॑ श॒रदो॑ व॒वर्धाप॑श्यं जा॒तं यदसू॑त मा॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

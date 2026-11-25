@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथो घौरः काण्वो वा"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ múhur ← múhur (invariable)
 
 ukthā́ ← ukthá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा चि॑द॒न्यद्वि शं॑सत॒ सखा॑यो॒ मा रि॑षण्यत ।  
+इन्द्र॒मित्स्तो॑ता॒ वृष॑णं॒ सचा॑ सु॒ते मुहु॑रु॒क्था च॑ शंसत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

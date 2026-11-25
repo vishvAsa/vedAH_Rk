@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ mayobhúvam ← mayobhū́- (nominal stem)
 
 svā́diṣṭham ← svā́diṣṭha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गो॒जिन्नः॒ सोमो॑ रथ॒जिद्धि॑रण्य॒जित्स्व॒र्जिद॒ब्जित्प॑वते सहस्र॒जित् ।  
+यं दे॒वास॑श्चक्रि॒रे पी॒तये॒ मदं॒ स्वादि॑ष्ठं द्र॒प्सम॑रु॒णं म॑यो॒भुव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

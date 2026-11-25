@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "पुरस्ताद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ sayā́vabhiḥ ← sayā́van- (nominal stem)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒क्षू ता त॑ इन्द्र दा॒नाप्न॑स आक्षा॒णे शू॑र वज्रिवः ।  
+यद्ध॒ शुष्ण॑स्य द॒म्भयो॑ जा॒तं विश्वं॑ स॒याव॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “traveler.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

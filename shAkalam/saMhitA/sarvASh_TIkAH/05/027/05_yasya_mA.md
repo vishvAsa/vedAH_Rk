@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्र्यरुणस्त्रैवृष्णस्त्रसदस्युः पौरुकुत्सः भारतोश्वमेधश्च राजानः भौमोत्रिर्वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -65,7 +66,12 @@ sómāḥ ← sóma- (nominal stem)
 
 tryā̀śiraḥ ← tryā̀śir- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ मा परु॒षाः श॒तमु॑द्ध॒र्षय॑न्त्यु॒क्षणः॑ ।  
+अश्व॑मेधस्य॒ दानाः॒ सोमा॑ इव॒ त्र्या॑शिरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “mixture.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

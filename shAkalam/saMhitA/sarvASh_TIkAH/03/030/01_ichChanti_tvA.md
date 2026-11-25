@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ praketáḥ ← praketá- (nominal stem)
 
 tvát ← tvám (pronoun)  
 {case:ABL, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒च्छन्ति॑ त्वा सो॒म्यासः॒ सखा॑यः सु॒न्वन्ति॒ सोमं॒ दध॑ति॒ प्रयां॑सि ।  
+तिति॑क्षन्ते अ॒भिश॑स्तिं॒ जना॑ना॒मिन्द्र॒ त्वदा कश्च॒न हि प्र॑के॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “sight; knowledge; appearance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

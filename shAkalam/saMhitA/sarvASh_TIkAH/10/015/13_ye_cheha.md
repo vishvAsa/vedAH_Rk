@@ -4,6 +4,7 @@ devataa = "पितरः"
 RShiH = "शङ्खो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पितरः
@@ -107,7 +108,12 @@ svadhā́bhiḥ ← svadhā́- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये चे॒ह पि॒तरो॒ ये च॒ नेह याँश्च॑ वि॒द्म याँ उ॑ च॒ न प्र॑वि॒द्म ।  
+त्वं वे॑त्थ॒ यति॒ ते जा॑तवेदः स्व॒धाभि॑र्य॒ज्ञं सुकृ॑तं जुषस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -286,7 +292,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -64,7 +65,12 @@ saptá ← saptá- (nominal stem)
 
 havíṣmate ← havíṣmant- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स के॒तुर॑ध्व॒राणा॑म॒ग्निर्दे॒वेभि॒रा ग॑मत् ।  
+अ॒ञ्जा॒नः स॒प्त होतृ॑भिर्ह॒विष्म॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “sacrificing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

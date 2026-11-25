@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "देवापिरार्ष्टिषेणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -92,7 +93,12 @@ te ← tvám (pronoun)
 
 vā́cam ← vā́c- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ दे॒वो दू॒तो अ॑जि॒रश्चि॑कि॒त्वान्त्वद्दे॑वापे अ॒भि माम॑गच्छत् ।  
+प्र॒ती॒ची॒नः प्रति॒ मामा व॑वृत्स्व॒ दधा॑मि ते द्यु॒मतीं॒ वाच॑मा॒सन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “mouth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

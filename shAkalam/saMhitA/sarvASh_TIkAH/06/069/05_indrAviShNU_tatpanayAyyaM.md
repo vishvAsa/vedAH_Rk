@@ -4,6 +4,7 @@ devataa = "इन्द्राविष्णू"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राविष्णू
@@ -77,7 +78,12 @@ naḥ ← ahám (pronoun)
 
 rájāṁsi ← rájas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑विष्णू॒ तत्प॑न॒याय्यं॑ वां॒ सोम॑स्य॒ मद॑ उ॒रु च॑क्रमाथे ।  
+अकृ॑णुतम॒न्तरि॑क्षं॒ वरी॒योऽप्र॑थतं जी॒वसे॑ नो॒ रजां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

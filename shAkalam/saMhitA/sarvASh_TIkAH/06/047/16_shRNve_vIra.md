@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ manuṣyā̀n ← manuṣyà- (nominal stem)
 
 víśaḥ ← víś- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शृ॒ण्वे वी॒र उ॒ग्रमु॑ग्रं दमा॒यन्न॒न्यम॑न्यमतिनेनी॒यमा॑नः ।  
+ए॒ध॒मा॒न॒द्विळु॒भय॑स्य॒ राजा॑ चोष्कू॒यते॒ विश॒ इन्द्रो॑ मनु॒ष्या॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “man; people; man; manuṣya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -207,10 +212,6 @@ keeps prodding the clans, the sons of Manu—first one, then
 the other.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In d víśaḥ … manuṣyā̀n do not match in gender. Oldenberg suggests that the latter might be gen. pl., and Geldner’s tr. as such: “die Stämme der Menschen.” I see no reason not to take it as the acc. pl. it appears to be, as a parallel obj. to víśaḥ, not a modifier.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/15-18.md">
 <details><summary><h2>15-18 ...{Loading}...</h2></summary>
 
@@ -218,7 +219,6 @@ As noted in the published introduction, this section, which concerns Indra’s f
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

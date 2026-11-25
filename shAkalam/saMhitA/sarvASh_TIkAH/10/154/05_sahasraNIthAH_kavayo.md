@@ -4,6 +4,7 @@ devataa = "भाववृत्तं"
 RShiH = "यमी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -65,7 +66,12 @@ gachatāt ← √gam- (root)
 
 tapojā́n ← tapojā́- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्र॑णीथाः क॒वयो॒ ये गो॑पा॒यन्ति॒ सूर्य॑म् ।  
+ऋषी॒न्तप॑स्वतो यम तपो॒जाँ अपि॑ गच्छतात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

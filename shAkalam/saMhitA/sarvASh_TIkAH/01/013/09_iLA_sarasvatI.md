@@ -4,6 +4,7 @@ devataa = "तिस्रो देव्यः सरस्वतीळाभ�
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तिस्रो देव्यः सरस्वतीळाभारत्यः
@@ -57,7 +58,12 @@ barhíḥ ← barhís- (nominal stem)
 
 sīdantu ← √sad- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इळा॒ सर॑स्वती म॒ही ति॒स्रो दे॒वीर्म॑यो॒भुवः॑ ।  
+ब॒र्हिः सी॑दन्त्व॒स्रिधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “unfailing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

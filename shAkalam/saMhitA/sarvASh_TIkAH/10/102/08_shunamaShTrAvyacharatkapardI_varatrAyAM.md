@@ -4,6 +4,7 @@ devataa = "द्रुघण इन्द्रो वा"
 RShiH = "मुद्गलो भार्म्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रुघण इन्द्रो वा
@@ -77,7 +78,12 @@ paspaśānáḥ ← √spaś- (root)
 
 táviṣīḥ ← táviṣī- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒नम॑ष्ट्रा॒व्य॑चरत्कप॒र्दी व॑र॒त्रायां॒ दार्वा॒नह्य॑मानः ।  
+नृ॒म्णानि॑ कृ॒ण्वन्ब॒हवे॒ जना॑य॒ गाः प॑स्पशा॒नस्तवि॑षीरधत्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ devā́n ← devá- (nominal stem)
 
 svardŕ̥śaḥ ← svardŕ̥ś- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पति॒र्ह्य॑ध्व॒राणा॒मग्ने॑ दू॒तो वि॒शामसि॑ ।  
+उ॒ष॒र्बुध॒ आ व॑ह॒ सोम॑पीतये दे॒वाँ अ॒द्य स्व॒र्दृशः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “eye; dṛś; dṛś \[word\]; sight; evil eye.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 yaṁsat ← √yam- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये ते॒ त्रिरह॑न्त्सवितः स॒वासो॑ दि॒वेदि॑वे॒ सौभ॑गमासु॒वन्ति॑ ।  
+इन्द्रो॒ द्यावा॑पृथि॒वी सिन्धु॑र॒द्भिरा॑दि॒त्यैर्नो॒ अदि॑तिः॒ शर्म॑ यंसत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

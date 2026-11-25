@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -86,7 +87,12 @@ paśvíṣe ← paśvíṣ- (nominal stem)
 
 turā́ya ← turá- 1 (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वि॒ध्मा यद्व॒नधि॑तिरप॒स्यात्सूरो॑ अध्व॒रे परि॒ रोध॑ना॒ गोः ।  
+यद्ध॑ प्र॒भासि॒ कृत्व्याँ॒ अनु॒ द्यूनन॑र्विशे प॒श्विषे॑ तु॒राय॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “powerful; noble; noble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

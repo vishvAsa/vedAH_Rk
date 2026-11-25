@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -89,7 +90,12 @@ takvavī́ḥ ← takvavī́- (nominal stem)
 
 uṣásaḥ ← uṣás- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒ही अत्र॑ महि॒ना वार॑मृण्वथोऽरे॒णव॒स्तुज॒ आ सद्म॑न्धे॒नवः॑ ।  
+स्वर॑न्ति॒ ता उ॑प॒रता॑ति॒ सूर्य॒मा नि॒म्रुच॑ उ॒षस॑स्तक्व॒वीरि॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

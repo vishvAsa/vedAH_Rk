@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "जरत्कर्ण ऐरावतः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 náraḥ ← nár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒न्वन्ति॒ सोमं॑ रथि॒रासो॒ अद्र॑यो॒ निर॑स्य॒ रसं॑ ग॒विषो॑ दुहन्ति॒ ते ।  
+दु॒हन्त्यूध॑रुप॒सेच॑नाय॒ कं नरो॑ ह॒व्या न म॑र्जयन्त आ॒सभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “mouth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

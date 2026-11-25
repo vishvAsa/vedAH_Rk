@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ vípraḥ ← vípra- (nominal stem)
 
 vr̥jáneṣu ← vr̥jána- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता गृ॑णीहि नम॒स्ये॑भिः शू॒षैः सु॒म्नेभि॒रिन्द्रा॒वरु॑णा चका॒ना ।  
+वज्रे॑णा॒न्यः शव॑सा॒ हन्ति॑ वृ॒त्रं सिष॑क्त्य॒न्यो वृ॒जने॑षु॒ विप्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

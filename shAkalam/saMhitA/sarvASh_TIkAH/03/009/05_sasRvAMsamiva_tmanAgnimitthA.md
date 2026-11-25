@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ mathitám ← √mathⁱ- (root)
 
 pári ← pári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒सृ॒वांस॑मिव॒ त्मना॒ग्निमि॒त्था ति॒रोहि॑तम् ।  
+ऐनं॑ नयन्मात॒रिश्वा॑ परा॒वतो॑ दे॒वेभ्यो॑ मथि॒तं परि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “from; about; around.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

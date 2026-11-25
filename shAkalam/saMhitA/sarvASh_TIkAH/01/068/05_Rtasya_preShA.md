@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -54,7 +54,11 @@ viśvā́yuḥ ← viśvā́yu- (nominal stem)
 
 víśve ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॒ प्रेषा॑ ऋ॒तस्य॑ धी॒तिर्वि॒श्वायु॒र्विश्वे॒ अपां॑सि चक्रुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +129,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -174,10 +177,6 @@ Die Mahnungen der Wahrheit, die Erkenntnis der Wahrheit haben es bewirkt: Alle h
 
 Der Wahrheit Triebe, – der Wahrheit Andacht, alllabend, alle – vollbrachten Werke; Wer dich verehret, – und wer dir spendet, an den, du weiser, – vertheile Reichthum.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

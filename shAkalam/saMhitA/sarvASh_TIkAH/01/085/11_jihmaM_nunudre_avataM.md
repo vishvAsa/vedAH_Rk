@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ tarpayanta ← √tr̥p- (root)
 
 víprasya ← vípra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जि॒ह्मं नु॑नुद्रेऽव॒तं तया॑ दि॒शासि॑ञ्च॒न्नुत्सं॒ गोत॑माय तृ॒ष्णजे॑ ।  
+आ ग॑च्छन्ती॒मव॑सा चि॒त्रभा॑नवः॒ कामं॒ विप्र॑स्य तर्पयन्त॒ धाम॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     location.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

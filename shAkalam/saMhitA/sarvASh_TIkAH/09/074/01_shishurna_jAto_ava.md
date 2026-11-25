@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कक्षीवान्"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ sumatī́ ← sumatí- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शिशु॒र्न जा॒तोऽव॑ चक्रद॒द्वने॒ स्व१॒॑र्यद्वा॒ज्य॑रु॒षः सिषा॑सति ।  
+दि॒वो रेत॑सा सचते पयो॒वृधा॒ तमी॑महे सुम॒ती शर्म॑ स॒प्रथः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “extensive; wide; extended.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ arvācīnā́ḥ ← arvācīná- (nominal stem)
 
 kr̥ṇuṣva ← √kr̥- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं यस्मि॒न्विश्वा॒ वसू॑नि ज॒ग्मुर्वाजे॒ नाश्वाः॒ सप्ती॑वन्त॒ एवैः॑ ।  
+अ॒स्मे ऊ॒तीरिन्द्र॑वाततमा अर्वाची॒ना अ॑ग्न॒ आ कृ॑णुष्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

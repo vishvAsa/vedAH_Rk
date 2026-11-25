@@ -4,6 +4,7 @@ devataa = "इन्द्राविष्णू"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राविष्णू
@@ -89,7 +90,12 @@ pāráyantā ← √pr̥- (root)
 
 pathíbhiḥ ← pánthā- ~ path- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं वां॒ कर्म॑णा॒ समि॒षा हि॑नो॒मीन्द्रा॑विष्णू॒ अप॑सस्पा॒रे अ॒स्य ।  
+जु॒षेथां॑ य॒ज्ञं द्रवि॑णं च धत्त॒मरि॑ष्टैर्नः प॒थिभिः॑ पा॒रय॑न्ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “rescue; keep alive; satisfy; save; resist; endure.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

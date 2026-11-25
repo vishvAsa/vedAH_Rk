@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कक्षीवान्"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ pītáye ← pītí- (nominal stem)
 
 svádasva ← √svad- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒द्भिः सो॑म पपृचा॒नस्य॑ ते॒ रसोऽव्यो॒ वारं॒ वि प॑वमान धावति ।  
+स मृ॒ज्यमा॑नः क॒विभि॑र्मदिन्तम॒ स्वद॒स्वेन्द्रा॑य पवमान पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

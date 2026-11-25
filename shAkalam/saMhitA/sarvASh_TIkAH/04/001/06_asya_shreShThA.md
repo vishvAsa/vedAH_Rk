@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ maṁhánā ← maṁhánā- (nominal stem)
 
 spārhā́ ← spārhá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य श्रेष्ठा॑ सु॒भग॑स्य सं॒दृग्दे॒वस्य॑ चि॒त्रत॑मा॒ मर्त्ये॑षु ।  
+शुचि॑ घृ॒तं न त॒प्तमघ्न्या॑याः स्पा॒र्हा दे॒वस्य॑ मं॒हने॑व धे॒नोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “cow; dhenu \[word\]; milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

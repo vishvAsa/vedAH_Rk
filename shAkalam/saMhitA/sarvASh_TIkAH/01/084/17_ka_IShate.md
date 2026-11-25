@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ káḥ ← ká- (pronoun)
 
 tanvè ← tanū́- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क ई॑षते तु॒ज्यते॒ को बि॑भाय॒ को मं॑सते॒ सन्त॒मिन्द्रं॒ को अन्ति॑ ।  
+कस्तो॒काय॒ क इभा॑यो॒त रा॒येऽधि॑ ब्रवत्त॒न्वे॒३॒॑ को जना॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

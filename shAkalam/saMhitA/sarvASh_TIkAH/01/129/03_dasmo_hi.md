@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -122,7 +123,13 @@ sapráthaḥ ← sapráthas- (nominal stem)
 
 sumr̥ḷīkā́ya ← sumr̥ḷīká- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒स्मो हि ष्मा॒ वृष॑णं॒ पिन्व॑सि॒ त्वचं॒ कं चि॑द्यावीर॒ररुं॑ शूर॒ मर्त्यं॑ परिवृ॒णक्षि॒ मर्त्य॑म् ।  
+इन्द्रो॒त तुभ्यं॒ तद्दि॒वे तद्रु॒द्राय॒ स्वय॑शसे ।  
+मि॒त्राय॑ वोचं॒ वरु॑णाय स॒प्रथः॑ सुमृळी॒काय॑ स॒प्रथः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -322,7 +329,6 @@ _________
 - “extensive; wide; extended.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

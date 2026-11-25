@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ iva ← iva (invariable)
 
 kulyā́ḥ ← kulyā́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग॒म्भी॒राँ उ॑द॒धीँरि॑व॒ क्रतुं॑ पुष्यसि॒ गा इ॑व ।  
+प्र सु॑गो॒पा यव॑सं धे॒नवो॑ यथा ह्र॒दं कु॒ल्या इ॑वाशत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

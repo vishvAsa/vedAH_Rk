@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ tviṣé ← tvíṣ- (nominal stem)
 
 ū́māḥ ← ū́ma- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+छ॒न्दः॒स्तुभः॑ कुभ॒न्यव॒ उत्स॒मा की॒रिणो॑ नृतुः ।  
+ते मे॒ के चि॒न्न ता॒यव॒ ऊमा॑ आसन्दृ॒शि त्वि॒षे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “beam; color; beauty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

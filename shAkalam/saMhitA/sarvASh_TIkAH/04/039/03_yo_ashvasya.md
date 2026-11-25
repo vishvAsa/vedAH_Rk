@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -80,7 +81,12 @@ sajóṣāḥ ← sajóṣas- (nominal stem)
 
 váruṇena ← váruṇa- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अश्व॑स्य दधि॒क्राव्णो॒ अका॑री॒त्समि॑द्धे अ॒ग्ना उ॒षसो॒ व्यु॑ष्टौ ।  
+अना॑गसं॒ तमदि॑तिः कृणोतु॒ स मि॒त्रेण॒ वरु॑णेना स॒जोषाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “consentaneous; combined; associated; united.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ rórucānaḥ ← √ruc- (root)
 
 śukráḥ ← śukrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिर॑स्य॒ ता प॑र॒मा स॑न्ति स॒त्या स्पा॒र्हा दे॒वस्य॒ जनि॑मान्य॒ग्नेः ।  
+अ॒न॒न्ते अ॒न्तः परि॑वीत॒ आगा॒च्छुचिः॑ शु॒क्रो अ॒र्यो रोरु॑चानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

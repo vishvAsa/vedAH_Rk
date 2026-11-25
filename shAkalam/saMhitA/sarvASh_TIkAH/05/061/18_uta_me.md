@@ -4,6 +4,7 @@ devataa = "रथवीतिर्दाल्भ्यः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रथवीतिर्दाल्भ्यः
@@ -63,7 +64,12 @@ ná ← ná (invariable)
 
 veti ← √vī- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त मे॑ वोचता॒दिति॑ सु॒तसो॑मे॒ रथ॑वीतौ ।  
+न कामो॒ अप॑ वेति मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -175,10 +180,6 @@ _________
 And then speak for me thus to Rathavīti who has pressed the soma: “My desire does not go off track.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The Rathavīti phrase is in the loc.; the published translation renders it as if the addressee, which is technically incorrect. It is either a loc. absol. without participle or a “chez/bei” expression: “speak for me thus when R. (is present) / at R’s.” Since the net result is the same, I have kept the easier-to-parse addressee tr.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/17-19.md">
 <details><summary><h2>17-19 ...{Loading}...</h2></summary>
 
@@ -186,7 +187,6 @@ As noted in the published introduction, the patron’s name Rathavīti (‘pursu
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

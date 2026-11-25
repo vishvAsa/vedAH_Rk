@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -55,7 +56,11 @@ marúdbhiḥ ← marút- (nominal stem)
 
 túviṣmān ← túviṣmant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ग्रं व॒ ओजः॑ स्थि॒रा शवां॒स्यधा॑ म॒रुद्भि॑र्ग॒णस्तुवि॑ष्मान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +128,6 @@ _________
 - “powerful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

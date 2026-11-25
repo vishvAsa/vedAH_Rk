@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -86,7 +87,12 @@ vāmā́ ← vāmá- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमिद्वो॑चेमा वि॒दथे॑षु श॒म्भुवं॒ मन्त्रं॑ देवा अने॒हस॑म् ।  
+इ॒मां च॒ वाचं॑ प्रति॒हर्य॑था नरो॒ विश्वेद्वा॒मा वो॑ अश्नवत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

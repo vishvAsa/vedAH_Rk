@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ góbhiḥ ← gáv- ~ gó- (nominal stem)
 
 úttaram ← úttara- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू॒नं पु॑ना॒नोऽवि॑भिः॒ परि॑ स्र॒वाद॑ब्धः सुर॒भिन्त॑रः ।  
+सु॒ते चि॑त्त्वा॒प्सु म॑दामो॒ अन्ध॑सा श्री॒णन्तो॒ गोभि॒रुत्त॑रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -223,10 +228,6 @@ Even when (you) have just been pressed in the waters, we become
 exhilarated by your stalk, while preparing you with cows as the higher  (oblation),
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The 2nd hemistich of this vs. is intricately interwoven with constituents overlapping; see Oldenberg’s sensible treatment at loc. The initial loc. expression consists of suté cit … apsú, with tvā interspersed in modified 2nd position. This tvā is not to construed with the nearby verb madāma (pace Grassmann), because máda- without preverb is almost never construed with an acc.; here that verb goes with the instr. ándhasā. The tvā finally finds its governing verb form in the participle śrīṇántaḥ beginning pāda d; it is so distant from it, with parts of two different constituents in between, because it took Wackernagel’s position in the clause. The adj. úttaram at the very end of the vs. modifies it: the soma is “higher” or “better” at this point presumably because the mixing with milk, the last step depicted, improves it.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -236,7 +237,6 @@ The vss. are knitted together by lexical repetition and variation. A sample of t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

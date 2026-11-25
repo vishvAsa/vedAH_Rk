@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -88,7 +88,12 @@ téjasā ← téjas- (nominal stem)
 
 tigména ← tigmá- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यमु॑ त्वा गृहपते जनाना॒मग्ने॒ अक॑र्म स॒मिधा॑ बृ॒हन्त॑म् ।  
+अ॒स्थू॒रि नो॒ गार्ह॑पत्यानि सन्तु ति॒ग्मेन॑ न॒स्तेज॑सा॒ सं शि॑शाधि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +223,6 @@ _________
 - “sharpen; whet; strengthen.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -274,8 +278,6 @@ Wir haben dich, o Agni, Hausherr der Menschen, gross gemacht durch Brennholz; vi
 Да не будет одноконным наше домашнее хозяйство!  
 Отточи нас острым лезвием!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

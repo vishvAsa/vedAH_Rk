@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ supáthā ← supátha- (nominal stem)
 
 tirás ← tirás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे मि॒त्रो वरु॑णो दू॒ळभा॑सोऽचे॒तसं॑ चिच्चितयन्ति॒ दक्षैः॑ ।  
+अपि॒ क्रतुं॑ सु॒चेत॑सं॒ वत॑न्तस्ति॒रश्चि॒दंहः॑ सु॒पथा॑ नयन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

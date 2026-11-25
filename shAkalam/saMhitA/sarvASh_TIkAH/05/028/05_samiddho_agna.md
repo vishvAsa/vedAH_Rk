@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्ववारात्रेयी"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ hí ← hí (invariable)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धो अग्न आहुत दे॒वान्य॑क्षि स्वध्वर ।  
+त्वं हि ह॑व्य॒वाळसि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

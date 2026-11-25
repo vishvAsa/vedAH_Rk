@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोषूक्त्यश्वसूक्तिनौ काण्वायनौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ svàr ← svàr- (nominal stem)
 
 vr̥ṣatvanā́ ← vr̥ṣatvaná- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ द्वि॒बर्ह॑सो बृ॒हत्सहो॑ दा॒धार॒ रोद॑सी ।  
+गि॒रीँरज्राँ॑ अ॒पः स्व॑र्वृषत्व॒ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - \[noun\], instrumental, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -18,7 +19,8 @@ ChandaH = "त्रिष्टुप्"
 दधा᳓ते ये᳓ सुभ᳓गे सुप्र᳓तूर्ती  
 द्या᳓वा र᳓क्षतम् पृथिवी नो अ᳓भ्वात्
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 उ॒र्वी पृ॒थ्वी ब॑हु॒ले दू॒रे अ॑न्ते ।  
 उप॑ ब्रुवे॒ नम॑सा य॒ज्ञे अ॒स्मिन् ।  
@@ -93,7 +95,12 @@ pr̥thivī ← pr̥thivī́- (nominal stem)
 
 rákṣatam ← √rakṣⁱ- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒र्वी पृ॒थ्वी ब॑हु॒ले दू॒रेअ॑न्ते॒ उप॑ ब्रुवे॒ नम॑सा य॒ज्ञे अ॒स्मिन् ।  
+द॒धाते॒ ये सु॒भगे॑ सु॒प्रतू॑र्ती॒ द्यावा॒ रक्ष॑तं पृथिवी नो॒ अभ्वा॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +226,6 @@ _________
 - “monstrosity; nothingness; void; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

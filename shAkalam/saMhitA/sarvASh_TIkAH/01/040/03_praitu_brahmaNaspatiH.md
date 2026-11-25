@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -80,7 +81,12 @@ nayantu ← √nī- (root)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रैतु॒ ब्रह्म॑ण॒स्पतिः॒ प्र दे॒व्ये॑तु सू॒नृता॑ ।  
+अच्छा॑ वी॒रं नर्यं॑ प॒ङ्क्तिरा॑धसं दे॒वा य॒ज्ञं न॑यन्तु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

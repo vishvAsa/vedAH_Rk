@@ -4,6 +4,7 @@ devataa = "इन्द्रः (मरुतः)"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (मरुतः)
@@ -89,7 +90,12 @@ veda ← √vid- 2 (root)
 
 yátas ← yátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वा॑दिया॒येति॒ यद्वद॒न्त्योज॑सो जा॒तमु॒त म॑न्य एनम् ।  
+म॒न्योरि॑याय ह॒र्म्येषु॑ तस्थौ॒ यतः॑ प्रज॒ज्ञ इन्द्रो॑ अस्य वेद ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

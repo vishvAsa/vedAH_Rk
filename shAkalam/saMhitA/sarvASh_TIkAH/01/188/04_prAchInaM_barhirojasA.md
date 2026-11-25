@@ -4,6 +4,7 @@ devataa = "बर्हिः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बर्हिः
@@ -54,7 +55,12 @@ virā́jatha ← √rāj- (root)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒चीनं॑ ब॒र्हिरोज॑सा स॒हस्र॑वीरमस्तृणन् ।  
+यत्रा॑दित्या वि॒राज॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +124,6 @@ _________
 - “shine; excel; govern; dominate; glitter; light.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

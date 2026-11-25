@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ vr̥ṣayúḥ ← vr̥ṣayú- (nominal stem)
 
 yūthé ← yūthá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चक्रि॑र्दि॒वः प॑वते॒ कृत्व्यो॒ रसो॑ म॒हाँ अद॑ब्धो॒ वरु॑णो हु॒रुग्य॒ते ।  
+असा॑वि मि॒त्रो वृ॒जने॑षु य॒ज्ञियोऽत्यो॒ न यू॒थे वृ॑ष॒युः कनि॑क्रदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “roar; neigh.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

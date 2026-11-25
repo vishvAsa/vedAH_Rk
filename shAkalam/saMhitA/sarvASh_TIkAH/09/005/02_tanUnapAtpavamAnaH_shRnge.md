@@ -4,6 +4,7 @@ devataa = "तनूनपात्"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तनूनपात्
@@ -51,7 +52,12 @@ antárikṣeṇa ← antárikṣa- (nominal stem)
 
 rā́rajat ← √rāj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तनू॒नपा॒त्पव॑मानः॒ शृङ्गे॒ शिशा॑नो अर्षति ।  
+अ॒न्तरि॑क्षेण॒ रार॑जत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +108,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

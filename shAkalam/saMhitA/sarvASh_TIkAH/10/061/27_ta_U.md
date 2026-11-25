@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sthá ← √as- 1 (root)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त ऊ॒ षु णो॑ म॒हो य॑जत्रा भू॒त दे॑वास ऊ॒तये॑ स॒जोषाः॑ ।  
+ये वाजाँ॒ अन॑यता वि॒यन्तो॒ ये स्था नि॑चे॒तारो॒ अमू॑राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “wise; intelligent; apt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

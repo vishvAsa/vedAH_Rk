@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ uṣásam ← uṣás- (nominal stem)
 
 vā́tam ← vā́ta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नरा॑ वा॒ शंसं॑ पू॒षण॒मगो॑ह्यम॒ग्निं दे॒वेद्ध॑म॒भ्य॑र्चसे गि॒रा ।  
+सूर्या॒मासा॑ च॒न्द्रम॑सा य॒मं दि॒वि त्रि॒तं वात॑मु॒षस॑म॒क्तुम॒श्विना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

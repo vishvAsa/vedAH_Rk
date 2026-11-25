@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ ráthyaḥ ← ráthya- (nominal stem)
 
 vā́rān ← vā́ra- 1 (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य र॒ण्वा स्वस्ये॑व पु॒ष्टिः सन्दृ॑ष्टिरस्य हिया॒नस्य॒ दक्षोः॑ ।  
+वि यो भरि॑भ्र॒दोष॑धीषु जि॒ह्वामत्यो॒ न रथ्यो॑ दोधवीति॒ वारा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “hair; tail.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

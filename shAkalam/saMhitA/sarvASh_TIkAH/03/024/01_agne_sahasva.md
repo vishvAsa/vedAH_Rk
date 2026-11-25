@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ várcaḥ ← várcas- (nominal stem)
 
 yajñávāhase ← yajñavāhas- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ सह॑स्व॒ पृत॑ना अ॒भिमा॑ती॒रपा॑स्य ।  
+दु॒ष्टर॒स्तर॒न्नरा॑ती॒र्वर्चो॑ धा य॒ज्ञवा॑हसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

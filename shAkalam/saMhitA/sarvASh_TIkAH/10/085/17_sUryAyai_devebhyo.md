@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -68,7 +69,12 @@ námaḥ ← námas- (nominal stem)
 
 tébhyaḥ ← sá- ~ tá- (pronoun)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सू॒र्यायै॑ दे॒वेभ्यो॑ मि॒त्राय॒ वरु॑णाय च ।  
+ये भू॒तस्य॒ प्रचे॑तस इ॒दं तेभ्यो॑ऽकरं॒ नमः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “adoration; court; namas \[word\]; bow; salute.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

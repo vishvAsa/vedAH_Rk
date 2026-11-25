@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ saparyā́mi ← √sapary- (root)
 
 yā́mi ← √yā- 2 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वोरृ॒तं रो॑दसी स॒त्यम॑स्तु म॒हे षु णः॑ सुवि॒ताय॒ प्र भू॑तम् ।  
+इ॒दं दि॒वे नमो॑ अग्ने पृथि॒व्यै स॑प॒र्यामि॒ प्रय॑सा॒ यामि॒ रत्न॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     jewelry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

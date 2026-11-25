@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -77,7 +78,12 @@ mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)
 
 táturim ← táturi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हश्च॑र्क॒र्म्यर्व॑तः क्रतु॒प्रा द॑धि॒क्राव्णः॑ पुरु॒वार॑स्य॒ वृष्णः॑ ।  
+यं पू॒रुभ्यो॑ दीदि॒वांसं॒ नाग्निं द॒दथु॑र्मित्रावरुणा॒ ततु॑रिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

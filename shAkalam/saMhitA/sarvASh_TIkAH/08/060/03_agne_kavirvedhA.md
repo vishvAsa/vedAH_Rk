@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ mánmabhiḥ ← mánman- (nominal stem)
 
 víprebhiḥ ← vípra- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ क॒विर्वे॒धा अ॑सि॒ होता॑ पावक॒ यक्ष्यः॑ ।  
+म॒न्द्रो यजि॑ष्ठो अध्व॒रेष्वीड्यो॒ विप्रे॑भिः शुक्र॒ मन्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “hymn; idea; purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

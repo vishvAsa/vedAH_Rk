@@ -4,6 +4,7 @@ devataa = "धनान्नदानप्रशंसा"
 RShiH = "भिक्षुराङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - धनान्नदानप्रशंसा
@@ -83,7 +84,12 @@ sákhāyam ← sákhi- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इद्भो॒जो यो गृ॒हवे॒ ददा॒त्यन्न॑कामाय॒ चर॑ते कृ॒शाय॑ ।  
+अर॑मस्मै भवति॒ याम॑हूता उ॒ताप॒रीषु॑ कृणुते॒ सखा॑यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

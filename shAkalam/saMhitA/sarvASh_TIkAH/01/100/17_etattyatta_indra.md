@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वार्षागिराः ऋज्राश्वांबरीष-सहदेव-भयमान-सुराधसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sahádevaḥ ← sahádeva- (nominal stem)
 
 surā́dhāḥ ← surā́dhas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तत्त्यत्त॑ इन्द्र॒ वृष्ण॑ उ॒क्थं वा॑र्षागि॒रा अ॒भि गृ॑णन्ति॒ राधः॑ ।  
+ऋ॒ज्राश्वः॒ प्रष्टि॑भिरम्ब॒रीषः॑ स॒हदे॑वो॒ भय॑मानः सु॒राधाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

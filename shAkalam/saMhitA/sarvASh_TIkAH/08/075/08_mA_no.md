@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ kr̥śám ← kr̥śá- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ दे॒वानां॒ विशः॑ प्रस्ना॒तीरि॑वो॒स्राः ।  
+कृ॒शं न हा॑सु॒रघ्न्याः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

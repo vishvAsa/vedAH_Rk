@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ nákṣantaḥ ← √nakṣ- (root)
 
 naraḥ ← nár- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यु॑वानः कवयो यज्ञियासो॒ मरु॑तो ग॒न्त गृ॑ण॒तो व॑र॒स्याम् ।  
+अ॒चि॒त्रं चि॒द्धि जिन्व॑था वृ॒धन्त॑ इ॒त्था नक्ष॑न्तो नरो अङ्गिर॒स्वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

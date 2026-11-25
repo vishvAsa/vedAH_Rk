@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ pári ← pári (invariable)
 
 varjati ← √vr̥j- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य एको॒ अस्ति॑ दं॒सना॑ म॒हाँ उ॒ग्रो अ॒भि व्र॒तैः ।  
+गम॒त्स शि॒प्री न स यो॑ष॒दा ग॑म॒द्धवं॒ न परि॑ वर्जति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - \[verb\], singular, Aorist conj./subj.
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

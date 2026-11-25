@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "अभितपाः सौर्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -83,7 +84,12 @@ sūrya ← sū́rya- (nominal stem)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+महि॒ ज्योति॒र्बिभ्र॑तं त्वा विचक्षण॒ भास्व॑न्तं॒ चक्षु॑षेचक्षुषे॒ मयः॑ ।  
+आ॒रोह॑न्तं बृह॒तः पाज॑स॒स्परि॑ व॒यं जी॒वाः प्रति॑ पश्येम सूर्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

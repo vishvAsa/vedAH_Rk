@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -63,7 +64,12 @@ sr̥prádānū ← sr̥prádānu- (nominal stem)
 
 vā́stu ← vā́stu- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नपा॑ता॒ शव॑सो म॒हः सू॒नू दक्ष॑स्य सु॒क्रतू॑ ।  
+सृ॒प्रदा॑नू इ॒षो वास्त्वधि॑ क्षितः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -179,7 +184,6 @@ The two grandsons of great strength, the sons of skill, strong-willed, possessin
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -187,7 +191,6 @@ The usual problem with (-)dānu-: ‘gift’ or ‘drop’ or both? In this case
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -71,7 +72,12 @@ mā́hinaḥ ← mā́hina- (nominal stem)
 
 pūṣā́ ← pūṣán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ह्यच्छा॑ मनी॒षा स्पा॒र्हा यन्ति॑ नि॒युतः॑ ।  
+प्र द॒स्रा नि॒युद्र॑थः पू॒षा अ॑विष्टु॒ माहि॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “mighty; large.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

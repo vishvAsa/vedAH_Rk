@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ pā́rye ← pā́rya- (nominal stem)
 
 ugrám ← ugrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रु॒धी न॑ इन्द्र॒ ह्वया॑मसि त्वा म॒हो वाज॑स्य सा॒तौ वा॑वृषा॒णाः ।  
+सं यद्विशोऽय॑न्त॒ शूर॑साता उ॒ग्रं नोऽवः॒ पार्ये॒ अह॑न्दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -262,10 +267,6 @@ When the clans clash together at the contest of champions, give us
 mighty help on the decisive day.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On vāvṛṣāṇā́ḥ, see comm. ad VIII.61.7 on úd vāvṛṣasva.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -273,7 +274,6 @@ As noted in the published introduction, the 1st two vss. play on the word vā́j
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

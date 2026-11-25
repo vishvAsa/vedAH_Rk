@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ iṣaṇyán ← √iṣaṇ- (root)
 
 ūrmím ← ūrmí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स म॑त्स॒रः पृ॒त्सु व॒न्वन्नवा॑तः स॒हस्र॑रेता अ॒भि वाज॑मर्ष ।  
+इन्द्रा॑येन्दो॒ पव॑मानो मनी॒ष्यं१॒॑शोरू॒र्मिमी॑रय॒ गा इ॑ष॒ण्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -240,10 +245,6 @@ thousand-spurting—rush to the prize.
 Purifying yourself for Indra, o drop, as inspired thinker raise a wave  from the plant, driving the cows.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner takes iṣaṇyán in d to mean ‘desiring’ (“nach den Kühen verlangend”) as in the sim. passage he cites, III.50.3. But this verb stem always means ‘drive, send’ (see Renou’s n. ad loc.) and is, one way or another, derived from iṣṇā́ti ‘impels, sends’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -251,7 +252,6 @@ Although these two vss. belong to two different hymns within the larger structur
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ abhī́śavaḥ ← abhī́śu- (nominal stem)
 
 súsaṁskr̥tāḥ ← súsaṁskr̥ta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्थि॒रा वः॑ सन्तु ने॒मयो॒ रथा॒ अश्वा॑स एषाम् ।  
+सुसं॑स्कृता अ॒भीश॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “beam; rein.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

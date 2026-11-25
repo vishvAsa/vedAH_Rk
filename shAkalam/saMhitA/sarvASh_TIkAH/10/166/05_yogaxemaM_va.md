@@ -4,6 +4,7 @@ devataa = "सपत्नघ्नं"
 RShiH = "ऋषभो वैराजः शाक्वरो वा"
 ChandaH = "महापङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सपत्नघ्नं
@@ -96,7 +97,12 @@ maṇḍū́kāḥ ← maṇḍū́ka- (nominal stem)
 
 udakā́t ← udaká- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो॒ग॒क्षे॒मं व॑ आ॒दाया॒हं भू॑यासमुत्त॒म आ वो॑ मू॒र्धान॑मक्रमीम् ।  
+अ॒ध॒स्प॒दान्म॒ उद्व॑दत म॒ण्डूका॑ इवोद॒कान्म॒ण्डूका॑ उद॒कादि॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

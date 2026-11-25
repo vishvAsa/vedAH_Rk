@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ vayám ← ahám (pronoun)
 
 vidhemahi ← √vidh- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येन॒ चष्टे॒ वरु॑णो मि॒त्रो अ॑र्य॒मा येन॒ नास॑त्या॒ भगः॑ ।  
+व॒यं तत्ते॒ शव॑सा गातु॒वित्त॑मा॒ इन्द्र॑त्वोता विधेमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “worship; offer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

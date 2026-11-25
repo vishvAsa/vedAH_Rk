@@ -4,6 +4,7 @@ devataa = "अग्निः सूर्यो वापो वा गाव�
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
@@ -89,7 +90,12 @@ pavante ← √pū- (root)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒न्या॑ इव वह॒तुमेत॒वा उ॑ अ॒ञ्ज्य॑ञ्जा॒ना अ॒भि चा॑कशीमि ।  
+यत्र॒ सोमः॑ सू॒यते॒ यत्र॑ य॒ज्ञो घृ॒तस्य॒ धारा॑ अ॒भि तत्प॑वन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “purify; filter; blow; purify; purge; sift.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -243,7 +248,6 @@ Where the soma is pressed, where the sacrifice (is performed), toward  that do t
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details><summary><h2>05-10 ...{Loading}...</h2></summary>
 
@@ -251,7 +255,6 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

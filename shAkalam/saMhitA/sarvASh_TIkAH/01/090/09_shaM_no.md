@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ urukramáḥ ← urukramá- (nominal stem)
 
 víṣṇuḥ ← víṣṇu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नो॑ मि॒त्रः शं वरु॑णः॒ शं नो॑ भवत्वर्य॒मा ।  
+शं न॒ इन्द्रो॒ बृह॒स्पतिः॒ शं नो॒ विष्णु॑रुरुक्र॒मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     step; measure.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

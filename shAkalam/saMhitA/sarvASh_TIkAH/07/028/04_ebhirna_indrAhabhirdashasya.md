@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ sāt ← √sā- ~ si- (root)
 
 váruṇaḥ ← váruṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒भिर्न॑ इ॒न्द्राह॑भिर्दशस्य दुर्मि॒त्रासो॒ हि क्षि॒तयः॒ पव॑न्ते ।  
+प्रति॒ यच्चष्टे॒ अनृ॑तमने॒ना अव॑ द्वि॒ता वरु॑णो मा॒यी नः॑ सात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “tie.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

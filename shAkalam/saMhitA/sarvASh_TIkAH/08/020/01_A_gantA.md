@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -66,7 +67,12 @@ namayiṣṇavaḥ ← namayiṣṇu- (nominal stem)
 
 sthirā́ ← sthirá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ग॑न्ता॒ मा रि॑षण्यत॒ प्रस्था॑वानो॒ माप॑ स्थाता समन्यवः ।  
+स्थि॒रा चि॑न्नमयिष्णवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

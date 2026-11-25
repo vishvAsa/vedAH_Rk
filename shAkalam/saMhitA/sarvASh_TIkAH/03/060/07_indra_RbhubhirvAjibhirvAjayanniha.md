@@ -4,6 +4,7 @@ devataa = "इन्द्र ऋभवश्च"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्र ऋभवश्च
@@ -83,7 +84,12 @@ hómani ← hóman- 2 (nominal stem)
 
 sahásraṇīthaḥ ← sahásraṇītha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ ऋ॒भुभि॑र्वा॒जिभि॑र्वा॒जय॑न्नि॒ह स्तोमं॑ जरि॒तुरुप॑ याहि य॒ज्ञिय॑म् ।  
+श॒तं केते॑भिरिषि॒रेभि॑रा॒यवे॑ स॒हस्र॑णीथो अध्व॒रस्य॒ होम॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - \[noun\], locative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

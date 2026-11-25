@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -86,7 +87,12 @@ manā́yai ← manā́- 1 (nominal stem)
 
 puṣṭím ← puṣṭí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒दार॒मक्र॑न्नृ॒भवः॑ पि॒तृभ्यां॒ परि॑विष्टी वे॒षणा॑ दं॒सना॑भिः ।  
+आदिद्दे॒वाना॒मुप॑ स॒ख्यमा॑य॒न्धीरा॑सः पु॒ष्टिम॑वहन्म॒नायै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “jewelry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

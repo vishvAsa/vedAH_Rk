@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -75,7 +76,12 @@ sīm ← sīm (invariable)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को वो॒ वर्षि॑ष्ठ॒ आ न॑रो दि॒वश्च॒ ग्मश्च॑ धूतयः ।  
+यत्सी॒मन्तं॒ न धू॑नु॒थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “shake; remove; chase away.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

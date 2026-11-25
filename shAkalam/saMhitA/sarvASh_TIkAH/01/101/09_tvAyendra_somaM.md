@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ mādayasva ← √mad- (root)
 
 yajñé ← yajñá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वा॒येन्द्र॒ सोमं॑ सुषुमा सुदक्ष त्वा॒या ह॒विश्च॑कृमा ब्रह्मवाहः ।  
+अधा॑ नियुत्वः॒ सग॑णो म॒रुद्भि॑र॒स्मिन्य॒ज्ञे ब॒र्हिषि॑ मादयस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

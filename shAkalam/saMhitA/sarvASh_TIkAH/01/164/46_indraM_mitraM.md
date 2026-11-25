@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -92,7 +93,12 @@ mātaríśvānam ← mātaríśvan- (nominal stem)
 
 yamám ← yamá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रं॑ मि॒त्रं वरु॑णम॒ग्निमा॑हु॒रथो॑ दि॒व्यः स सु॑प॒र्णो ग॒रुत्मा॑न् ।  
+एकं॒ सद्विप्रा॑ बहु॒धा व॑दन्त्य॒ग्निं य॒मं मा॑त॒रिश्वा॑नमाहुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
     explain; say; define.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -260,7 +265,6 @@ _________
 वस्तुतस् तु, अनुक्रमणीम् उपेक्ष्य मूलम् एव वीक्षामहे चेत्, देवग्राम एवात्र सच्छब्देन वाच्यो भवति।
 </details>
 
-
 <details><summary>Wilson</summary>
 
 _________
@@ -286,7 +290,6 @@ The third foot is very popular.
 It is misinterpreted as saying that one brahman appears in multiple superficial forms.  
 Yes - One reality is spoken of in multiple ways (because it consists of multiple things). The idea that these distinctions are merely distinctions of "form", and not anything deeper does not hold up. There is no such claim in the original.
 </details>
-
 
 <details><summary>Griffith</summary>
 

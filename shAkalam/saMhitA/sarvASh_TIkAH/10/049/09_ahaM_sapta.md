@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -89,7 +90,12 @@ vidam ← √vid- 1 (root)
 
 yudhā́ ← yúdh- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं स॒प्त स्र॒वतो॑ धारयं॒ वृषा॑ द्रवि॒त्न्वः॑ पृथि॒व्यां सी॒रा अधि॑ ।  
+अ॒हमर्णां॑सि॒ वि ति॑रामि सु॒क्रतु॑र्यु॒धा वि॑दं॒ मन॑वे गा॒तुमि॒ष्टये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “seeking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

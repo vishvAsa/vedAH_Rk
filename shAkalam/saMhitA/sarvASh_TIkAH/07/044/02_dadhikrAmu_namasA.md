@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -77,7 +78,12 @@ suhávā ← suháva- (nominal stem)
 
 víprā ← vípra- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒धि॒क्रामु॒ नम॑सा बो॒धय॑न्त उ॒दीरा॑णा य॒ज्ञमु॑पप्र॒यन्तः॑ ।  
+इळां॑ दे॒वीं ब॒र्हिषि॑ सा॒दय॑न्तो॒ऽश्विना॒ विप्रा॑ सु॒हवा॑ हुवेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

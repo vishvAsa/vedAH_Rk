@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ utá ← utá (invariable)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञेनेन्द्र॒मव॒सा च॑क्रे अ॒र्वागैनं॑ सु॒म्नाय॒ नव्य॑से ववृत्याम् ।  
+यः स्तोमे॑भिर्वावृ॒धे पू॒र्व्येभि॒र्यो म॑ध्य॒मेभि॑रु॒त नूत॑नेभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “new; fresh; recent; contemporary; present(a); first.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

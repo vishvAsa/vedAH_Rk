@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ praśasta ← √śaṁs- (root)
 
 sr̥já ← √sr̥j- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं सी॑दस्व म॒हाँ अ॑सि॒ शोच॑स्व देव॒वीत॑मः ।  
+वि धू॒मम॑ग्ने अरु॒षं मि॑येध्य सृ॒ज प्र॑शस्त दर्श॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “beautiful; visible; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

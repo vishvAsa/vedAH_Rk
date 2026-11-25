@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ svastíbhiḥ ← svastí- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये च॒ पूर्व॒ ऋष॑यो॒ ये च॒ नूत्ना॒ इन्द्र॒ ब्रह्मा॑णि ज॒नय॑न्त॒ विप्राः॑ ।  
+अ॒स्मे ते॑ सन्तु स॒ख्या शि॒वानि॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -265,10 +270,6 @@ Neither the older seers nor the new ones, the inspired poets, who have  created 
 Let there be friendly fellowship of you for us. – Do you protect us always  with your blessings.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The published translation interpr. asmé as a dat. But the parallel in IV.10.8 śivā́naḥ sakhyā́sántu ... devéṣu yuṣmé, where the -mé pronominal form is anchored as a loc. by devéṣu, makes a loc. reading more likely. Cf. also VI.18.5 tán naḥ pratnáṃ sakhyám astu yuṣmé. I would therefore change the tr. to “Let there be friendly fellowship of you among [or, with] us.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/022/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -276,7 +277,6 @@ The subject of the verb in 8b, úd aśnuvanti, is not specified. In my view the 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

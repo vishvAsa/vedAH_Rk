@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः सौचीको वैश्वानरो वा सप्तिर्वा वाजंभरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ bápsatī ← √bhas- (root)
 
 bhū́ri ← bhū́ri- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप॑श्यमस्य मह॒तो म॑हि॒त्वमम॑र्त्यस्य॒ मर्त्या॑सु वि॒क्षु ।  
+नाना॒ हनू॒ विभृ॑ते॒ सं भ॑रेते॒ असि॑न्वती॒ बप्स॑ती॒ भूर्य॑त्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “eat; devour.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

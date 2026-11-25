@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यो वीत
 ChandaH = "जगती"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
 - छन्दः - जगती
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -91,7 +91,12 @@ vibhúm ← vibhú- (nominal stem)
 
 viśpátim ← viśpáti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां दू॒तम॑ग्ने अ॒मृतं॑ यु॒गेयु॑गे हव्य॒वाहं॑ दधिरे पा॒युमीड्य॑म् ।  
+दे॒वास॑श्च॒ मर्ता॑सश्च॒ जागृ॑विं वि॒भुं वि॒श्पतिं॒ नम॑सा॒ नि षे॑दिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +233,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -274,8 +278,6 @@ Als Boten setzten, Agni, dich unsterblichen, als Opferfahrer, werthen Hüter, al
 И боги, и смертные усадили с поклонением  
 Бодрствующего могущественного господина племен.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

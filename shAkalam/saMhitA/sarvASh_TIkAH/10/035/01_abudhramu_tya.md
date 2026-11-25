@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "लुशो धानाकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ devā́nām ← devá- (nominal stem)
 
 vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अबु॑ध्रमु॒ त्य इन्द्र॑वन्तो अ॒ग्नयो॒ ज्योति॒र्भर॑न्त उ॒षसो॒ व्यु॑ष्टिषु ।  
+म॒ही द्यावा॑पृथि॒वी चे॑तता॒मपो॒ऽद्या दे॒वाना॒मव॒ आ वृ॑णीमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

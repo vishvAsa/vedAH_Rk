@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहद्दिव आथर्वणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ hinvánti ← √hi- (root)
 
 vardháyanti ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा म॒हान्बृ॒हद्दि॑वो॒ अथ॒र्वावो॑च॒त्स्वां त॒न्व१॒॑मिन्द्र॑मे॒व ।  
+स्वसा॑रो मात॒रिभ्व॑रीररि॒प्रा हि॒न्वन्ति॑ च॒ शव॑सा व॒र्धय॑न्ति च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -113,7 +114,13 @@ ní ← ní (invariable)
 
 oṣati ← √uṣ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रः॑ स॒मत्सु॒ यज॑मान॒मार्यं॒ प्राव॒द्विश्वे॑षु श॒तमू॑तिरा॒जिषु॒ स्व॑र्मीळ्हेष्वा॒जिषु॑ ।  
+मन॑वे॒ शास॑दव्र॒तान्त्वचं॑ कृ॒ष्णाम॑रन्धयत् ।  
+दक्ष॒न्न विश्वं॑ ततृषा॒णमो॑षति॒ न्य॑र्शसा॒नमो॑षति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -271,7 +278,6 @@ _________
 - “burn; punish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

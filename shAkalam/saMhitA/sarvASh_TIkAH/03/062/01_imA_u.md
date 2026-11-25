@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -89,7 +90,12 @@ sma ← sma (invariable)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा उ॑ वां भृ॒मयो॒ मन्य॑माना यु॒वाव॑ते॒ न तुज्या॑ अभूवन् ।  
+क्व१॒॑ त्यदि॑न्द्रावरुणा॒ यशो॑ वां॒ येन॑ स्मा॒ सिनं॒ भर॑थः॒ सखि॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ te ← tvám (pronoun)
 
 váśe ← váśa- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒द्य कच्च॑ वृत्रहन्नु॒दगा॑ अ॒भि सू॑र्य ।  
+सर्वं॒ तदि॑न्द्र ते॒ वशे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
     authority; control; wish; supervision.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -195,14 +200,6 @@ _________
 O Vr̥tra-smiter—whatever today you have risen over, o Sun, all that is under your will, Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The two vocatives addressed to Indra, vṛtrahan (a) and indra (c), flank that to the sun (sūrya, b), with the first embedded in a 2nd ps. clause with Sūrya as subject.
-
-Only the unambiguous reference of vṛtrahan to Indra saves it from being applied to Sūrya, but the effect is still somewhat unsettling.
-
-The verb udágāḥ reprises úd … eṣi expressing the same action in vs. 1. In fact 1a #ud ghéd abhí is echoed by 4b #udágā abhí with the actual verb agā́(ḥ) substituting for the intervening particles of the former.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -214,7 +211,6 @@ But sárvāṃs tā́n indra … semi-duplicates 4c sárvaṃ tád indra …, an
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

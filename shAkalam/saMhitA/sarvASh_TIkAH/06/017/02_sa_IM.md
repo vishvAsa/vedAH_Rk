@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ tr̥ndhi ← √tr̥d- (root)
 
 vā́jān ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स ईं॑ पाहि॒ य ऋ॑जी॒षी तरु॑त्रो॒ यः शिप्र॑वान्वृष॒भो यो म॑ती॒नाम् ।  
+यो गो॑त्र॒भिद्व॑ज्र॒भृद्यो ह॑रि॒ष्ठाः स इ॑न्द्र चि॒त्राँ अ॒भि तृ॑न्धि॒ वाजा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -270,10 +275,6 @@ Drink it! You who are the victorious possessor of the silvery drink, who  are th
 who are the cowpen-splitter, the mace-bearer, who are the mounter of  fallow bays, you, Indra—drill through to the shimmering prizes.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Again I think the “drink!” imperative is semi-detached from the rest of the vs., a mere interruption of the sequence of rel. clauses with Indra as subj., which begins with a fully realized clause in 1cd and continues in 2abc with a set of five compressed definitional nominal clauses with an izafe-like feel.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -281,7 +282,6 @@ These first three vss. form something of a unity. Each begins with a “drink!�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

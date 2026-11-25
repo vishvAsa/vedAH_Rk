@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -86,7 +87,12 @@ duvasya ← √duvasy- (root)
 
 námobhiḥ ← námas- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ ष्टुहि॒ यः स्वि॒षुः सु॒धन्वा॒ यो विश्व॑स्य॒ क्षय॑ति भेष॒जस्य॑ ।  
+यक्ष्वा॑ म॒हे सौ॑मन॒साय॑ रु॒द्रं नमो॑भिर्दे॒वमसु॑रं दुवस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

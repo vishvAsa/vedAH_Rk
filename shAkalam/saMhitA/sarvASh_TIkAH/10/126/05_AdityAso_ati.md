@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कुल्मलबर्हिषः शैलूषिरंहोमुग्वा वामदेव्यः"
 ChandaH = "उपरिष्टाद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -78,7 +79,12 @@ svastáye ← svastí- (nominal stem)
 
 dvíṣaḥ ← dvíṣ- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒दि॒त्यासो॒ अति॒ स्रिधो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+उ॒ग्रं म॒रुद्भी॑ रु॒द्रं हु॑वे॒मेन्द्र॑म॒ग्निं स्व॒स्तयेऽति॒ द्विषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “hate; dviṣ; hostility; hostility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -203,7 +208,7 @@ May the Adityas (carry us) beyond mishaps:
 varuNa, mitra, aryaman!  
 We shall invoke the fierce rudra with the marut-s,  
 indra, agni for auspiciousness,  
-beyond all enmities. 
+beyond all enmities.
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>

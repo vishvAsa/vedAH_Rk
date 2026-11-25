@@ -5,13 +5,13 @@ RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
 - ऋषिः - गोतमो राहूगणः
 - छन्दः - गायत्री
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -65,7 +65,12 @@ saṁgathé ← saṁgathá- (nominal stem)
 
 vā́jasya ← vā́ja- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ प्या॑यस्व॒ समे॑तु ते वि॒श्वतः॑ सोम॒ वृष्ण्य॑म् ।  
+भवा॒ वाज॑स्य सङ्ग॒थे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +148,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -185,8 +189,6 @@ Schwill an von Saft, in dich geh ein, o Soma, alle Stieresmacht, Sei da, wo Kraf
 Со всех сторон твоя бычья сила!  
 Будь (всегда), где собирается добыча!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

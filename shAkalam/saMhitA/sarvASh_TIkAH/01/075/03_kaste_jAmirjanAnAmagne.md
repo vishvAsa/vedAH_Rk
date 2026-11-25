@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ kásmin ← ká- (pronoun)
 
 śritáḥ ← √śri- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कस्ते॑ जा॒मिर्जना॑ना॒मग्ने॒ को दा॒श्व॑ध्वरः ।  
+को ह॒ कस्मि॑न्नसि श्रि॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -179,7 +184,6 @@ Who are you and fixed in what?
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -187,7 +191,6 @@ As noted in the published introduction, only the first of the questions in vs. 3
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

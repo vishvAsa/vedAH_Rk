@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "उरुचक्रिरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)
 
 vratā́ni ← vratá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या ध॒र्तारा॒ रज॑सो रोच॒नस्यो॒तादि॒त्या दि॒व्या पार्थि॑वस्य ।  
+न वां॑ दे॒वा अ॒मृता॒ आ मि॑नन्ति व्र॒तानि॑ मित्रावरुणा ध्रु॒वाणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
     immovable; fixed; fixed; vital; faithful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

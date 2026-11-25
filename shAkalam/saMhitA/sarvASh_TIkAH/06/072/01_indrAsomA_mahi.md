@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ
@@ -89,7 +90,12 @@ támāṁsi ← támas- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑सोमा॒ महि॒ तद्वां॑ महि॒त्वं यु॒वं म॒हानि॑ प्रथ॒मानि॑ चक्रथुः ।  
+यु॒वं सूर्यं॑ विवि॒दथु॑र्यु॒वं स्व१॒॑र्विश्वा॒ तमां॑स्यहतं नि॒दश्च॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

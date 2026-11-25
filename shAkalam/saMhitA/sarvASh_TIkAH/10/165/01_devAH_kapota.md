@@ -4,6 +4,7 @@ devataa = "कपोपहतौ प्रायश्चित्तं वै�
 RShiH = "कपोतो नैऋतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कपोपहतौ प्रायश्चित्तं वैश्वदेवं
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 śám ← śám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+देवाः॑ क॒पोत॑ इषि॒तो यदि॒च्छन्दू॒तो निरृ॑त्या इ॒दमा॑ज॒गाम॑ ।  
+तस्मा॑ अर्चाम कृ॒णवा॑म॒ निष्कृ॑तिं॒ शं नो॑ अस्तु द्वि॒पदे॒ शं चतु॑ष्पदे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “quadrupedal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ dyúbhiḥ ← dyú- ~ div- (nominal stem)
 
 hinvanti ← √hi- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पश्चि॑दे॒ष वि॒भ्वो॒३॒॑ दमू॑नाः॒ प्र स॒ध्रीची॑रसृजद्वि॒श्वश्च॑न्द्राः ।  
+मध्वः॑ पुना॒नाः क॒विभिः॑ प॒वित्रै॒र्द्युभि॑र्हिन्वन्त्य॒क्तुभि॒र्धनु॑त्रीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - \[noun\], accusative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

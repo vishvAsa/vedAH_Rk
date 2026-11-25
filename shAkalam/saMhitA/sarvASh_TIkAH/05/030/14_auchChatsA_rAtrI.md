@@ -4,6 +4,7 @@ devataa = "ऋणंचयेन्द्रौ"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋणंचयेन्द्रौ
@@ -83,7 +84,12 @@ catvā́ri ← catúr- (nominal stem)
 
 sahásrā ← sahásra- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+औच्छ॒त्सा रात्री॒ परि॑तक्म्या॒ याँ ऋ॑णंच॒ये राज॑नि रु॒शमा॑नाम् ।  
+अत्यो॒ न वा॒जी र॒घुर॒ज्यमा॑नो ब॒भ्रुश्च॒त्वार्य॑सनत्स॒हस्रा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “thousand; one-thousandth; sahasra \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -223,10 +228,6 @@ R̥ṇaṃcaya, king of the Ruśamas,
 like a steed quick in competition, being driven [/anointed], Babhru won  four thousand (cows).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The primary reading of ajyámānaḥ is surely “being driven,” as the standard interpr. have it. But it could also be the passive of √añj ‘anoint’ and inhabit the same semantic realm as “well-ornamented with thousands of cows” in 13ab: he would be anointed with prize cows.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/13-14.md">
 <details><summary><h2>13-14 ...{Loading}...</h2></summary>
 
@@ -244,7 +245,6 @@ The fact that the poet alters the expected form in two different ways in succeed
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

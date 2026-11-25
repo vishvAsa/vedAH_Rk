@@ -4,6 +4,7 @@ devataa = "रक्षोहाग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -95,7 +96,12 @@ nīcā́ ← nyàñc- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॑ग्ने तिष्ठ॒ प्रत्या त॑नुष्व॒ न्य१॒॑मित्राँ॑ ओषतात्तिग्महेते ।  
+यो नो॒ अरा॑तिं समिधान च॒क्रे नी॒चा तं ध॑क्ष्यत॒सं न शुष्क॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +110,7 @@ tám ← sá- ~ tá- (pronoun)
 यः । नः॒ । अरा॑तिम् । स॒म्ऽइ॒धा॒न॒ । च॒क्रे । नी॒चा । तम् । ध॒क्षि॒ । अ॒त॒सम् । न । शुष्क॑म् ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 उदिति॑ । अ॒ग्ने॒ । ति॒ष्ठ॒ । प्रति॑ । एति॑ । त॒नु॒ष्व॒ । नीति॑ । अ॒मित्रान्॑ । ओ॒ष॒ता॒त् । ति॒ग्म॒हे॒त॒ इति॑ तिग्म-हे॒ते॒ ॥ यः । नः॒ । अरा॑तिम् । स॒मि॒धा॒नेति॑ सम्-इ॒धा॒न॒ । च॒क्रे । नी॒चा । तम् । ध॒क्षि॒ । अ॒त॒सम् । न । शुष्क॑म् ॥
 </details>
@@ -257,7 +263,6 @@ _________
 - “dried; dry; dried-up; śuṣka \[word\]; baseless; arid.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -298,10 +303,6 @@ Who acts as an enemy: āratim cakre may also mean, who annuls or prevents our do
 Stand up, Agni; stretch yourself out [/stretch (your bow)] against  (them). Then scorch down the foes, o you whose missiles are sharp. Whoever has directed hostility toward us, o kindled one, burn him  down like a dry thicket.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As Geldner suggests in his n. 4a, ā́tanuṣva could reflect the common idiom ā́√tan ‘draw/stretch (the bow [dhánus-, dhánvan-])’. Given that Agni is identified as a ‘shooter’ (ástā) in 1c and that bows are the presumed object of a different form of √tan in the next vs. (5c, see there), this seems quite possible, though I think the primary reading is simply the reflexive ‘stretch yourself out’; cf. 1a for Agni’s making himself broad.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/004/02-04.md">
 <details><summary><h2>02-04 ...{Loading}...</h2></summary>
 
@@ -309,7 +310,6 @@ Note the preverb chaining: 2d ví sṛja, 3a práti … ví sṛja, 4b práti.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

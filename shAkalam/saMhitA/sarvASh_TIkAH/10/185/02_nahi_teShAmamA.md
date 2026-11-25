@@ -4,6 +4,7 @@ devataa = "आदित्यः(स्वस्त्ययनं)"
 RShiH = "सत्यधृतिर्वारुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्यः(स्वस्त्ययनं)
@@ -60,7 +61,12 @@ agháśaṁsaḥ ← agháśaṁsa- (nominal stem)
 
 ripúḥ ← ripú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि तेषा॑म॒मा च॒न नाध्व॑सु वार॒णेषु॑ ।  
+ईशे॑ रि॒पुर॒घशं॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “speaking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पृथुश्रवसः कानीतस्य दानस�
 RShiH = "वशोश्व्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पृथुश्रवसः कानीतस्य दानस्तुतिः
@@ -57,7 +58,12 @@ ní ← ní (invariable)
 
 vāvr̥tuḥ ← √vr̥t- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दश॑ श्या॒वा ऋ॒धद्र॑यो वी॒तवा॑रास आ॒शवः॑ ।  
+म॒थ्रा ने॒मिं नि वा॑वृतुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

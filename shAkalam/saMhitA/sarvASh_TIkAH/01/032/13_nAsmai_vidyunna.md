@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ utá ← utá (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नास्मै॑ वि॒द्युन्न त॑न्य॒तुः सि॑षेध॒ न यां मिह॒मकि॑रद्ध्रा॒दुनिं॑ च ।  
+इन्द्र॑श्च॒ यद्यु॑यु॒धाते॒ अहि॑श्चो॒ताप॒रीभ्यो॑ म॒घवा॒ वि जि॑ग्ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

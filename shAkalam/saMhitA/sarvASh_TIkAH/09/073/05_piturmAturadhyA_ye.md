@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ pári ← pári (invariable)
 
 tvácam ← tvác- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒तुर्मा॒तुरध्या ये स॒मस्व॑रन्नृ॒चा शोच॑न्तः सं॒दह॑न्तो अव्र॒तान् ।  
+इन्द्र॑द्विष्टा॒मप॑ धमन्ति मा॒यया॒ त्वच॒मसि॑क्नीं॒ भूम॑नो दि॒वस्परि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “from; about; around.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,12 +254,6 @@ Those who sounded in unison from the father and the mother [=Heaven  and Earth],
 they blow away by magic power the black skin hated by Indra, from  earth and from heaven—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Sāyaṇa. and Renou but contra Geldner, I consider the father and mother of pāda a to be Heaven and Earth, matching that same pair in d. The reference is to the earthly and heavenly soma of 4a and b, which “sound in unison,” though also including the priest-poets, as disc. in the published introduction. They marshall their joint power, embodied in the māyā́associated with Varuṇa, against those “without commandments” (avratā́n); vratá- are of course esp. associated with Varuṇa, and by virtue of their presence in both heaven and earth can banish enemies from both places.
-
-Note the return of √dham ‘blow’ from 1a. In its earlier occurrence this root simply expressed the action of the drop (drapsásya dhámataḥ), but here the verb has been weaponized, as it were, against enemies.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -272,7 +271,6 @@ Their first pādas are nearly identical: ABL ABL ádhy ā́yé samásvaran “Th
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

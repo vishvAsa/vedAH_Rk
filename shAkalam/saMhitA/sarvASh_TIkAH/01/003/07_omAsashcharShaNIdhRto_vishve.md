@@ -4,6 +4,7 @@ devataa = "विश्वे देवाः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः
@@ -60,7 +61,12 @@ dāśvā́ṁsaḥ ← dāśváṁs- (nominal stem)
 
 sutám ← √su- (root)  
 {case:ACC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओमा॑सश्चर्षणीधृतो॒ विश्वे॑ देवास॒ आ ग॑त ।  
+दा॒श्वांसो॑ दा॒शुषः॑ सु॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “Soma.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ nr̥to ← nr̥tú- (nominal stem)
 
 svàr ← svàr- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रि॒ये ते॒ पादा॒ दुव॒ आ मि॑मिक्षुर्धृ॒ष्णुर्व॒ज्री शव॑सा॒ दक्षि॑णावान् ।  
+वसा॑नो॒ अत्कं॑ सुर॒भिं दृ॒शे कं स्व१॒॑र्ण नृ॑तविषि॒रो ब॑भूथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

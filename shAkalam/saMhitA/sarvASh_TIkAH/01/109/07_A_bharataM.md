@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -86,7 +87,12 @@ sapitvám ← sapitvá- (nominal stem)
 
 yébhiḥ ← yá- (pronoun)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ भ॑रतं॒ शिक्ष॑तं वज्रबाहू अ॒स्माँ इ॑न्द्राग्नी अवतं॒ शची॑भिः ।  
+इ॒मे नु ते र॒श्मयः॒ सूर्य॑स्य॒ येभिः॑ सपि॒त्वं पि॒तरो॑ न॒ आस॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

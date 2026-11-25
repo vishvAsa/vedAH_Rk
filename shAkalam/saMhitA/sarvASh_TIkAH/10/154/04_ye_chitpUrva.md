@@ -4,6 +4,7 @@ devataa = "भाववृत्तं"
 RShiH = "यमी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -74,7 +75,12 @@ gachatāt ← √gam- (root)
 
 tā́n ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये चि॒त्पूर्व॑ ऋत॒साप॑ ऋ॒तावा॑न ऋता॒वृधः॑ ।  
+पि॒तॄन्तप॑स्वतो यम॒ ताँश्चि॑दे॒वापि॑ गच्छतात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

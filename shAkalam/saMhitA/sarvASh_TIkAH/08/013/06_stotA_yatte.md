@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -67,7 +68,12 @@ juṣánta ← √juṣ- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तो॒ता यत्ते॒ विच॑र्षणिरतिप्रश॒र्धय॒द्गिरः॑ ।  
+व॒या इ॒वानु॑ रोहते जु॒षन्त॒ यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “once \[when\]; because; that; if; how.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

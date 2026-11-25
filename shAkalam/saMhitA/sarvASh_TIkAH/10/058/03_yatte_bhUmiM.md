@@ -4,6 +4,7 @@ devataa = "मन आवर्तनं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मन आवर्तनं
@@ -74,7 +75,12 @@ jīváse ← √jīv- (root)
 
 kṣáyāya ← kṣáya- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्ते॒ भूमिं॒ चतु॑र्भृष्टिं॒ मनो॑ ज॒गाम॑ दूर॒कम् ।  
+तत्त॒ आ व॑र्तयामसी॒ह क्षया॑य जी॒वसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

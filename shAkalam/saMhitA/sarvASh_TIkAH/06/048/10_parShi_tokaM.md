@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ ca ← ca (invariable)
 
 hvárāṁsi ← hváras- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पर्षि॑ तो॒कं तन॑यं प॒र्तृभि॒ष्ट्वमद॑ब्धै॒रप्र॑युत्वभिः ।  
+अग्ने॒ हेळां॑सि॒ दैव्या॑ युयोधि॒ नोऽदे॑वानि॒ ह्वरां॑सि च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

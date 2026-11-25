@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -92,7 +93,12 @@ parirā́paḥ ← pariráp- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तेजि॑ष्ठया तप॒नी र॒क्षस॑स्तप॒ ये त्वा॑ नि॒दे द॑धि॒रे दृ॒ष्टवी॑र्यम् ।  
+आ॒विस्तत्कृ॑ष्व॒ यदस॑त्त उ॒क्थ्यं१॒॑ बृह॑स्पते॒ वि प॑रि॒रापो॑ अर्दय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “afflict; afflict; affect; distress; torment; impel; grind; suffer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sá ← sá- ~ tá- (pronoun)
 
 śáyānam ← √śī- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यः शम्ब॑रं॒ पर्व॑तेषु क्षि॒यन्तं॑ चत्वारिं॒श्यां श॒रद्य॒न्ववि॑न्दत् ।  
+ओ॒जा॒यमा॑नं॒ यो अहिं॑ ज॒घान॒ दानुं॒ शया॑नं॒ स ज॑नास॒ इन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,7 +232,6 @@ who smashed the serpent displaying its strength, the son of Dānu,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/09-11.md">
 <details><summary><h2>09-11 ...{Loading}...</h2></summary>
 
@@ -235,7 +239,6 @@ Note the phonological sequence, with several different interlocking repetitions:
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

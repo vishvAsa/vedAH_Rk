@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गातुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ namanta ← √nam- 1 (root)
 
 svadhā́vne ← svadhā́van- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न्य॑स्मै दे॒वी स्वधि॑तिर्जिहीत॒ इन्द्रा॑य गा॒तुरु॑श॒तीव॑ येमे ।  
+सं यदोजो॑ यु॒वते॒ विश्व॑माभि॒रनु॑ स्व॒धाव्ने॑ क्षि॒तयो॑ नमन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “bow; bend; condescend; worship; bend; lower.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

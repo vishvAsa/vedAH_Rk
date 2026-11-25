@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ grasitā́m ← √gras- (root)
 
 yuvám ← tvám (pronoun)  
 {case:NOM, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता व॒र्तिर्या॑तं ज॒युषा॒ वि पर्व॑त॒मपि॑न्वतं श॒यवे॑ धे॒नुम॑श्विना ।  
+वृक॑स्य चि॒द्वर्ति॑काम॒न्तरा॒स्या॑द्यु॒वं शची॑भिर्ग्रसि॒ताम॑मुञ्चतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     discharge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

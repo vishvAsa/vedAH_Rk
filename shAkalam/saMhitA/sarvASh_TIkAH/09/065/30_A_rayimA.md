@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ pā́ntam ← pā́nta- (nominal stem)
 
 puruspŕ̥ham ← puruspŕ̥h- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ र॒यिमा सु॑चे॒तुन॒मा सु॑क्रतो त॒नूष्वा ।  
+पान्त॒मा पु॑रु॒स्पृह॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “coveted; desirous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -173,14 +178,12 @@ here the much coveted drink.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
 As if to make up for scanting tṛca cohesion earlier in the hymn, this tṛca is bound by bonds of iron: 13 occurrences of ā́, most construed with an acc. of a desirable object, all sharing a single verb (ā́) vṛṇīmahe (28b). In addition the three c pādas are identical. This refrain contains the nom. stem pā́nta- ‘drink’, not the pres. part.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

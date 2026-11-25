@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ rā́dhase ← rā́dhas- (nominal stem)
 
 vasutvanā́ya ← vasutvaná- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वस्याँ॑ इन्द्रासि मे पि॒तुरु॒त भ्रातु॒रभु॑ञ्जतः ।  
+मा॒ता च॑ मे छदयथः स॒मा व॑सो वसुत्व॒नाय॒ राध॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

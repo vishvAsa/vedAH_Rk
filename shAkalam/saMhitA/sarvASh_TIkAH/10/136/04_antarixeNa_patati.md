@@ -4,6 +4,7 @@ devataa = "केशिनः"
 RShiH = "वृषाणकः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - केशिनः
@@ -62,7 +63,12 @@ sákhā ← sákhi- (nominal stem)
 
 saúkr̥tyāya ← saúkr̥tya- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न्तरि॑क्षेण पतति॒ विश्वा॑ रू॒पाव॒चाक॑शत् ।  
+मुनि॑र्दे॒वस्य॑देवस्य॒ सौकृ॑त्याय॒ सखा॑ हि॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

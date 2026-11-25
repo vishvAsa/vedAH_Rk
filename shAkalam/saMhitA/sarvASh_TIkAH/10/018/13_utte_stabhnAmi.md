@@ -4,6 +4,7 @@ devataa = "पितृमेधः"
 RShiH = "सङ्कुसुको यामायनः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पितृमेधः
@@ -101,7 +102,12 @@ te ← tvám (pronoun)
 
 yamáḥ ← yamá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उत्ते॑ स्तभ्नामि पृथि॒वीं त्वत्परी॒मं लो॒गं नि॒दध॒न्मो अ॒हं रि॑षम् ।  
+ए॒तां स्थूणां॑ पि॒तरो॑ धारयन्तु॒ तेऽत्रा॑ य॒मः साद॑ना ते मिनोतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -254,7 +260,6 @@ _________
 - \[verb\], singular, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

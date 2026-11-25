@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ yemire ← √yam- (root)
 
 suvānā́saḥ ← √su- (root)  
 {case:NOM, gender:M, number:PL, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ म॒ह्ना रोद॑सी पप्रथ॒च्छव॒ इन्द्रः॒ सूर्य॑मरोचयत् ।  
+इन्द्रे॑ ह॒ विश्वा॒ भुव॑नानि येमिर॒ इन्द्रे॑ सुवा॒नास॒ इन्द॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -213,7 +218,6 @@ indra made the sun shine.
 In indra are all world;  
 in indra are the well pressed drops [of soma].
 </details>
-
 
 <details><summary>Wilson</summary>
 

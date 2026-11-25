@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -74,7 +75,12 @@ syā́ma ← √as- 1 (root)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तावा॑न ऋ॒तजा॑ता ऋता॒वृधो॑ घो॒रासो॑ अनृत॒द्विषः॑ ।  
+तेषां॑ वः सु॒म्ने सु॑च्छ॒र्दिष्ट॑मे नरः॒ स्याम॒ ये च॑ सू॒रयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “patron.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

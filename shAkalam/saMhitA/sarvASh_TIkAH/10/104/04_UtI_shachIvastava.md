@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्टको वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ sadhamā́dyāsaḥ ← sadhamā́dya- (nominal stem)
 
 tasthúḥ ← √sthā- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒ती श॑चीव॒स्तव॑ वी॒र्ये॑ण॒ वयो॒ दधा॑ना उ॒शिज॑ ऋत॒ज्ञाः ।  
+प्र॒जाव॑दिन्द्र॒ मनु॑षो दुरो॒णे त॒स्थुर्गृ॒णन्तः॑ सध॒माद्या॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

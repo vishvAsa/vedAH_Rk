@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ maghám ← maghá- (nominal stem)
 
 tébhiḥ ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ सोम॒ प्र ध॑न्वा स्व॒स्तये॒ नृभिः॑ पुना॒नो अ॒भि वा॑सया॒शिर॑म् ।  
+ये ते॒ मदा॑ आह॒नसो॒ विहा॑यस॒स्तेभि॒रिन्द्रं॑ चोदय॒ दात॑वे म॒घम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “gift; wealth; reward; wages; reward.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

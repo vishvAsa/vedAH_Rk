@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ te ← tvám (pronoun)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒रा॒कात्ता॑च्चिदद्रिव॒स्त्वां न॑क्षन्त नो॒ गिरः॑ ।  
+अरं॑ गमाम ते व॒यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,7 +173,6 @@ Even from a distance our hymns reach you, possessor of the stone. Let us go fitt
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-27.md">
 <details><summary><h2>24-27 ...{Loading}...</h2></summary>
 
@@ -178,7 +182,6 @@ The final áram in 27c returns us to the situation found in 24, where the provid
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

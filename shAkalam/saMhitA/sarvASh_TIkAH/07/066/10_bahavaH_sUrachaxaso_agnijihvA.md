@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -65,7 +66,12 @@ páribhūtibhiḥ ← páribhūti- (nominal stem)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब॒हवः॒ सूर॑चक्षसोऽग्निजि॒ह्वा ऋ॑ता॒वृधः॑ ।  
+त्रीणि॒ ये ये॒मुर्वि॒दथा॑नि धी॒तिभि॒र्विश्वा॑नि॒ परि॑भूतिभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - \[noun\], instrumental, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

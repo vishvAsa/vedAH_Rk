@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ suśipra ← suśiprá- (nominal stem)
 
 vā́je ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒द्मा स॑खि॒त्वमु॒त शू॑र भो॒ज्य१॒॑मा ते॒ ता व॑ज्रिन्नीमहे ।  
+उ॒तो स॑मस्मि॒न्ना शि॑शीहि नो वसो॒ वाजे॑ सुशिप्र॒ गोम॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “rich in cattle; bovine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

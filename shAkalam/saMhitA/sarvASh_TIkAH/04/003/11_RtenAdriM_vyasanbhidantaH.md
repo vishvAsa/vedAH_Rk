@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ jāté ← √janⁱ- (root)
 
 svàr ← svàr- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तेनाद्रिं॒ व्य॑सन्भि॒दन्तः॒ समङ्गि॑रसो नवन्त॒ गोभिः॑ ।  
+शु॒नं नरः॒ परि॑ षदन्नु॒षास॑मा॒विः स्व॑रभवज्जा॒ते अ॒ग्नौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -259,12 +264,6 @@ By truth they threw open the rock, having split it. The Aṅgirases roared  alon
 For blessing the men besieged the dawn; the sun became visible when  the fire was born.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The third truth-formulation vs. sets up the Vala myth as the model for the coming of dawn: just as the Aṅgirases breached the Vala cave and let loose the cows, so the human sacrificers break Dawn out of her confinement by kindling the ritual fire. This is the third step in the depiction of the morning ritual. As noted elsewhere (see esp. the published introduction to Maṇḍala IV and to IV.1), the Vala myth and the Aṅgirases play an outsize role in the Agni cycle of IV.
-
-Despite the injunctives of pāda a (vy àsan) and c (pári ṣadan), I am tempted, with Grassmann, to read anavanta in b, to produce 11 syllables. (Consider the augmented impf. in d, abhavat.) Oldenberg (Noten) considers this restoration possible but not necessary. Hoffmann (Injunk., 209) gives a typical treatment of the vs. in his interpretational system, assuming an injunc. navanta in b.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md">
 <details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -272,7 +271,6 @@ Each of these vss. begins with the resonant and charged instr. ṛténa ‘by tr
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

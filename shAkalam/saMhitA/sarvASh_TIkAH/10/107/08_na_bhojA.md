@@ -4,6 +4,7 @@ devataa = "दक्षिणा तद्दातारो वा"
 RShiH = "दिव्यो दक्षिणा वा प्राजापत्या"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दक्षिणा तद्दातारो वा
@@ -101,7 +102,12 @@ etát ← eṣá (pronoun)
 
 sárvam ← sárva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न भो॒जा म॑म्रु॒र्न न्य॒र्थमी॑यु॒र्न रि॑ष्यन्ति॒ न व्य॑थन्ते ह भो॒जाः ।  
+इ॒दं यद्विश्वं॒ भुव॑नं॒ स्व॑श्चै॒तत्सर्वं॒ दक्षि॑णैभ्यो ददाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

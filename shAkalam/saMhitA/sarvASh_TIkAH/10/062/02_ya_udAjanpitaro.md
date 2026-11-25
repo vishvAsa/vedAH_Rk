@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः आङ्गिरसो वा"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः आङ्गिरसो वा
@@ -83,7 +84,12 @@ práti ← práti (invariable)
 
 sumedhasaḥ ← sumedhás- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॒दाज॑न्पि॒तरो॑ गो॒मयं॒ वस्वृ॒तेनाभि॑न्दन्परिवत्स॒रे व॒लम् ।  
+दी॒र्घा॒यु॒त्वम॑ङ्गिरसो वो अस्तु॒ प्रति॑ गृभ्णीत मान॒वं सु॑मेधसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “wise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

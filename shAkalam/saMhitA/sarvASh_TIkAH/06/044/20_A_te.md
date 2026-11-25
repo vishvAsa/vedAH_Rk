@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ vr̥ṣabhā́ya ← vr̥ṣabhá- (nominal stem)
 
 vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ते॑ वृष॒न्वृष॑णो॒ द्रोण॑मस्थुर्घृत॒प्रुषो॒ नोर्मयो॒ मद॑न्तः ।  
+इन्द्र॒ प्र तुभ्यं॒ वृष॑भिः सु॒तानां॒ वृष्णे॑ भरन्ति वृष॒भाय॒ सोम॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -252,10 +257,6 @@ Indra, to you, the bullish bull, they present soma from out of the  (drops) pres
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although they belong to different, and distant, tṛcas, the partitive gen. construction here, … prá … sutā́nām, DAT bharanti …, matches that in vs. 13: … prá … sutā́nām, DAT bhara … and occupies the same position in the vs., though in our vs. √bhṛ also has a direct acc. object sómam.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -267,7 +268,6 @@ The concentration on the bull words leaves little room or energy for other poeti
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

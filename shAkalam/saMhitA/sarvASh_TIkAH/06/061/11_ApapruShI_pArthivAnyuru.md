@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -54,7 +55,12 @@ pātu ← √pā- 1 (root)
 
 sárasvatī ← sárasvant- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒प॒प्रुषी॒ पार्थि॑वान्यु॒रु रजो॑ अ॒न्तरि॑क्षम् ।  
+सर॑स्वती नि॒दस्पा॑तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “protect; govern.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

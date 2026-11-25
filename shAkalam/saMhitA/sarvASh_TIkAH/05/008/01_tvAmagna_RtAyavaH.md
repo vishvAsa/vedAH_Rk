@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ gr̥hápatim ← gr̥hápati- (nominal stem)
 
 váreṇyam ← váreṇya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्न ऋता॒यवः॒ समी॑धिरे प्र॒त्नं प्र॒त्नास॑ ऊ॒तये॑ सहस्कृत ।  
+पु॒रु॒श्च॒न्द्रं य॑ज॒तं वि॒श्वधा॑यसं॒ दमू॑नसं गृ॒हप॑तिं॒ वरे॑ण्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “excellent; desirable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

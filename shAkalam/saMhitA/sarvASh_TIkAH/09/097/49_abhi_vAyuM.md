@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ vájrabāhum ← vájrabāhu- (nominal stem)
 
 vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि वा॒युं वी॒त्य॑र्षा गृणा॒नो॒३॒॑ऽभि मि॒त्रावरु॑णा पू॒यमा॑नः ।  
+अ॒भी नरं॑ धी॒जव॑नं रथे॒ष्ठाम॒भीन्द्रं॒ वृष॑णं॒ वज्र॑बाहुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “arm; bāhu \[word\]; elbow; forefoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -226,10 +231,6 @@ _________
 Rush toward Vāyu in pursuit while being hymned, toward Mitra and  Varuṇa while being purified, toward the superior man who quickens insightful thought and bestrides  the chariot, toward Indra the bull with the mace in his arms.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Oldenberg, Geldner, Renou identify the acc. goal in c as Pūṣan, because dhījávana- ‘quickening insightful thought’ is used in a simile comparing Soma to Pūṣan in
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/49-51.md">
 <details><summary><h2>49-51 ...{Loading}...</h2></summary>
 
@@ -237,7 +238,6 @@ In contrast to the tṛcas with faint or no signs of cohesion, this one is over-
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

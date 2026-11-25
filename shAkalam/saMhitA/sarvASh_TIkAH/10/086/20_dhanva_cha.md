@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -94,7 +95,12 @@ ihi ← √i- 1 (root)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धन्व॑ च॒ यत्कृ॒न्तत्रं॑ च॒ कति॑ स्वि॒त्ता वि योज॑ना ।  
+नेदी॑यसो वृषाक॒पेऽस्त॒मेहि॑ गृ॒हाँ उप॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -255,7 +260,7 @@ I would therefore translate the verse thus, "O Vr̥ṣākapi! go to the house th
 
 The idea that the sun falls down from the autumnal equinox is an old one. To Ait. Br. iii. 18 and in Taitt. Br. i. 3. 12. 1 the ceremonies on on the Viṣūvān or the equinoctial day in a satra are described, and there we are told that "gods were afraid of the sun falling down from the sky and so supported him," and being thus supported he "became uttara to all". The ait. Br. iii. 18 has thus the same word uttara that we have in this verse, and it is natural to suppose that both relate to the same subject. I have also quoted a passage from the Aitareya Brāhmaṇa where nedīyas is contrasted with upariṣhṭat. From these I infer that the verse, we are now considering, describes the descent of the sun into the southern or the lower hemisphere, and that Indra asks him to come back again to the house of Gods, i.e., the northern hemisphere.
 
-I have already given in full my reasons for understanding nedīyas in a different sense. But I may remark that, even accepting the common meaning of the word, the verse may still be interpreted in the way I have suggested. 
+I have already given in full my reasons for understanding nedīyas in a different sense. But I may remark that, even accepting the common meaning of the word, the verse may still be interpreted in the way I have suggested.
 </details>
 
 <details><summary>Wilson</summary>

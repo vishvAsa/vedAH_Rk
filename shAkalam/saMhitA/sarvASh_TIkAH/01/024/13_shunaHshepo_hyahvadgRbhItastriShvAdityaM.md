@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः | कृत्रिमो वैश्वामित्रो देवरातः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -86,7 +87,12 @@ ví ← ví (invariable)
 
 vidvā́n ← √vid- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शुनः॒शेपो॒ ह्यह्व॑द्गृभी॒तस्त्रि॒ष्वा॑दि॒त्यं द्रु॑प॒देषु॑ ब॒द्धः ।  
+अवै॑नं॒ राजा॒ वरु॑णः ससृज्याद्वि॒द्वाँ अद॑ब्धो॒ वि मु॑मोक्तु॒ पाशा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “noose; shackle; eye; pāśa \[word\]; fetter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

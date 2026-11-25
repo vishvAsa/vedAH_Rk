@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ sárīmaṇi ← sárīman- (nominal stem)
 
 vā́tasya ← vā́ta- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तनू॒नपा॑दुच्यते॒ गर्भ॑ आसु॒रो नरा॒शंसो॑ भवति॒ यद्वि॒जाय॑ते ।  
+मा॒त॒रिश्वा॒ यदमि॑मीत मा॒तरि॒ वात॑स्य॒ सर्गो॑ अभव॒त्सरी॑मणि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

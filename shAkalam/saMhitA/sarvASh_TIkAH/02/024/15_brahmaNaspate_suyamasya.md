@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -92,7 +93,12 @@ véṣi ← √vī- 1 (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रह्म॑णस्पते सु॒यम॑स्य वि॒श्वहा॑ रा॒यः स्या॑म र॒थ्यो॒३॒॑ वय॑स्वतः ।  
+वी॒रेषु॑ वी॒राँ उप॑ पृङ्धि न॒स्त्वं यदीशा॑नो॒ ब्रह्म॑णा॒ वेषि॑ मे॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

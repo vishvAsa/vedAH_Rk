@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -86,7 +87,12 @@ nidhī́n ← nidhí- (nominal stem)
 
 usríyāṇām ← usríya- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒दा व॒लस्य॒ पीय॑तो॒ जसुं॒ भेद्बृह॒स्पति॑रग्नि॒तपो॑भिर॒र्कैः ।  
+द॒द्भिर्न जि॒ह्वा परि॑विष्ट॒माद॑दा॒विर्नि॒धीँर॑कृणोदु॒स्रिया॑णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “cow; dairy product.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

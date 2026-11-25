@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ juhvé ← √hu- (root)
 
 sumnāyúḥ ← sumnāyú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒जोष॑स्त्वा दि॒वो नरो॑ य॒ज्ञस्य॑ के॒तुमि॑न्धते ।  
+यद्ध॒ स्य मानु॑षो॒ जनः॑ सुम्ना॒युर्जु॒ह्वे अ॑ध्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

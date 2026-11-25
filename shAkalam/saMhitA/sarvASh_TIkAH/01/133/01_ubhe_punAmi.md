@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tr̥ḷhā́ḥ ← √tr̥h- (root)
 
 vailasthānám ← vailasthāná- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भे पु॑नामि॒ रोद॑सी ऋ॒तेन॒ द्रुहो॑ दहामि॒ सं म॒हीर॑नि॒न्द्राः ।  
+अ॒भि॒व्लग्य॒ यत्र॑ ह॒ता अ॒मित्रा॑ वैलस्था॒नं परि॑ तृ॒ळ्हा अशे॑रन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “lie; sleep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

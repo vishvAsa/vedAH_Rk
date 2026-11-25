@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ mádaḥ ← máda- (nominal stem)
 
 ukthám ← ukthá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य वी॒रस्य॑ ब॒र्हिषि॑ सु॒तः सोमो॒ दिवि॑ष्टिषु ।  
+उ॒क्थं मद॑श्च शस्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,7 +165,6 @@ his solemn speech and exhilarating drink are being announced.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -168,7 +172,6 @@ As indicated in the published introduction, the genitive of the human worshiper 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ jahí ← √han- (root)
 
 tr̥ndhi ← √tr̥d- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा पा॑हि प्र॒त्नथा॒ मन्द॑तु त्वा श्रु॒धि ब्रह्म॑ वावृ॒धस्वो॒त गी॒र्भिः ।  
+आ॒विः सूर्यं॑ कृणु॒हि पी॑पि॒हीषो॑ ज॒हि शत्रूँ॑र॒भि गा इ॑न्द्र तृन्धि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - \[verb\], singular, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -273,10 +278,6 @@ Disclose the sun, swell refreshments, and smash rivals. Indra, drill
 through to the cows.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The “drink!” sequence is brought to an end with a summary evā́in 3a. The verse continues with a series of 7 choppy imperatival clauses, all but the first (mándatu tvā) with Indra as subj., which balance the choppy nominal relative clauses of vs. 2. The last of these clauses is the third iteration of abhí √tṛd, with which we began.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/03-05ab.md">
 <details><summary><h2>03-05ab ...{Loading}...</h2></summary>
 
@@ -292,7 +293,6 @@ These first three vss. form something of a unity. Each begins with a “drink!�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

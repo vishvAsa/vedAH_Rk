@@ -4,6 +4,7 @@ devataa = "अश्विनौ (गर्भस्राविण्युप�
 RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ (गर्भस्राविण्युपनिषत्)
@@ -69,7 +70,12 @@ sutā́n ← √su- (root)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वि॑ना हरि॒णावि॑व गौ॒रावि॒वानु॒ यव॑सम् ।  
+हं॒सावि॑व पतत॒मा सु॒ताँ उप॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “towards; on; next.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

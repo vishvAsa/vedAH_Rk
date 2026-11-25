@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ jyótiḥ ← jyótis- (nominal stem)
 
 támāṁsi ← támas- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपो॑ रुरुचे युव॒तिर्न योषा॒ विश्वं॑ जी॒वं प्र॑सु॒वन्ती॑ च॒रायै॑ ।  
+अभू॑द॒ग्निः स॒मिधे॒ मानु॑षाणा॒मक॒र्ज्योति॒र्बाध॑माना॒ तमां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     ignorance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

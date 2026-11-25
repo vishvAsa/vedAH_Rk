@@ -4,6 +4,7 @@ devataa = "रथः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रथः
@@ -83,7 +84,12 @@ vayám ← ahám (pronoun)
 
 viśvā́hā ← viśvā́hā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+र॒थ॒वाह॑नं ह॒विर॑स्य॒ नाम॒ यत्रायु॑धं॒ निहि॑तमस्य॒ वर्म॑ ।  
+तत्रा॒ रथ॒मुप॑ श॒ग्मं स॑देम वि॒श्वाहा॑ व॒यं सु॑मन॒स्यमा॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “favorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

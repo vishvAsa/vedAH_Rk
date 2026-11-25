@@ -4,6 +4,7 @@ devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्या
@@ -74,7 +75,12 @@ prajáyā ← prajā́- (nominal stem)
 
 sahá ← sahá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्य॒मग्रे॒ पर्य॑वहन्त्सू॒र्यां व॑ह॒तुना॑ स॒ह ।  
+पुनः॒ पति॑भ्यो जा॒यां दा अ॑ग्ने प्र॒जया॑ स॒ह ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “together; together; with; jointly; together; saha \[word\]; along.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ bráhmāṇi ← bráhman- (nominal stem)
 
 táviṣīm ← táviṣī- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वात॑स्य यु॒क्तान्त्सु॒युज॑श्चि॒दश्वा॑न्क॒विश्चि॑दे॒षो अ॑जगन्नव॒स्युः ।  
+विश्वे॑ ते॒ अत्र॑ म॒रुतः॒ सखा॑य॒ इन्द्र॒ ब्रह्मा॑णि॒ तवि॑षीमवर्धन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

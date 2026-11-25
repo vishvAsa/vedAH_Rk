@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ hávam ← háva- (nominal stem)
 
 śrudhí ← √śru- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्व॑स्य॒ हि प्राण॑नं॒ जीव॑नं॒ त्वे वि यदु॒च्छसि॑ सूनरि ।  
+सा नो॒ रथे॑न बृह॒ता वि॑भावरि श्रु॒धि चि॑त्रामघे॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

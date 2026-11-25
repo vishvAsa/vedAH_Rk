@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "द्युम्नो विचर्षणिरात्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -88,7 +89,12 @@ dyumát ← dyumánt- (nominal stem)
 
 pāvaka ← pāvaká- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि ष्मा॑ वि॒श्वच॑र्षणिर॒भिमा॑ति॒ सहो॑ द॒धे ।  
+अग्न॑ ए॒षु क्षये॒ष्वा रे॒वन्नः॑ शुक्र दीदिहि द्यु॒मत्पा॑वक दीदिहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “shine; glitter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

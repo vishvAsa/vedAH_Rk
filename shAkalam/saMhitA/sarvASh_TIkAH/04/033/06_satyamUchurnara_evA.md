@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -89,7 +90,12 @@ dadr̥śvā́n ← √dr̥ś- (root)
 
 tváṣṭā ← tváṣṭar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒त्यमू॑चु॒र्नर॑ ए॒वा हि च॒क्रुरनु॑ स्व॒धामृ॒भवो॑ जग्मुरे॒ताम् ।  
+वि॒भ्राज॑मानाँश्चम॒साँ अहे॒वावे॑न॒त्त्वष्टा॑ च॒तुरो॑ ददृ॒श्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     know; know; understand; understand; follow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

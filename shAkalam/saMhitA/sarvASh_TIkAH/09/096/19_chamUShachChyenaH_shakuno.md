@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ turī́yam ← turī́ya- (nominal stem)
 
 vivakti ← √vañc- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒मू॒षच्छ्ये॒नः श॑कु॒नो वि॒भृत्वा॑ गोवि॒न्दुर्द्र॒प्स आयु॑धानि॒ बिभ्र॑त् ।  
+अ॒पामू॒र्मिं सच॑मानः समु॒द्रं तु॒रीयं॒ धाम॑ महि॒षो वि॑वक्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

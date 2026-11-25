@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 vajríṇaḥ ← vajrín- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ क्ष॒त्रं पृ॑ञ्ची॒त हन्ति॒ राज॑भिर्भ॒ये चि॑त्सुक्षि॒तिं द॑धे ।  
+नास्य॑ व॒र्ता न त॑रु॒ता म॑हाध॒ने नार्भे॑ अस्ति व॒ज्रिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

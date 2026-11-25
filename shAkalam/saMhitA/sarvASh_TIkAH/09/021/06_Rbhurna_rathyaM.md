@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ pavadhvam ← √pū- (root)
 
 śukrā́ḥ ← śukrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒भुर्न रथ्यं॒ नवं॒ दधा॑ता॒ केत॑मा॒दिशे॑ ।  
+शु॒क्राः प॑वध्व॒मर्ण॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “body of water; water.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ dhattam ← √dhā- 1 (root)
 
 prajā́vatīḥ ← prajā́vant- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्नी॑पर्जन्या॒वव॑तं॒ धियं॑ मे॒ऽस्मिन्हवे॑ सुहवा सुष्टु॒तिं नः॑ ।  
+इळा॑म॒न्यो ज॒नय॒द्गर्भ॑म॒न्यः प्र॒जाव॑ती॒रिष॒ आ ध॑त्तम॒स्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ dyumnám ← dyumná- (nominal stem)
 
 svàrvat ← svàrvant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कर्हि॑ स्वि॒त्तदि॑न्द्र॒ यन्नृभि॒र्नॄन्वी॒रैर्वी॒रान्नी॒ळया॑से॒ जया॒जीन् ।  
+त्रि॒धातु॒ गा अधि॑ जयासि॒ गोष्विन्द्र॑ द्यु॒म्नं स्व॑र्वद्धेह्य॒स्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ matsaráḥ ← matsará- (nominal stem)
 
 rásaḥ ← rása- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज्योति॑र्य॒ज्ञस्य॑ पवते॒ मधु॑ प्रि॒यं पि॒ता दे॒वानां॑ जनि॒ता वि॒भूव॑सुः ।  
+दधा॑ति॒ रत्नं॑ स्व॒धयो॑रपी॒च्यं॑ म॒दिन्त॑मो मत्स॒र इ॑न्द्रि॒यो रसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     Rasātala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -234,10 +239,6 @@ He establishes a secret treasure in the two independent powers
 Indrian sap.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner notes the parallels between our vs. and IX.75.2: IX.75.2a. … pavate mádhu priyám, …  2cd dádhāti putráḥ pitrór apīcyàm, nā́ma … IX.86.10a … pavate mádhu priyám, …  .10c dádhāti rátnaṃ svadháyor apīcyàm But he doesn’t seem to take the parallelism too seriously. In particular, though both 75.2c and 86.10c have a dual gen./loc. to be construed with a VP in which the subject deposits / establishes a secret X [name in 75.2, treasure in 86.10], Geldner takes the dual as loc. in 75.2 (where there’s a parallel loc. sg. rocané), but gen. here (“Er bringt das verborgene Kleinod der beiden Eigenmächte”)(sim. Renou), with a somewhat forced interpr. of dádhāti as ‘bringt’. Since the dual seems to have the same referent in both passages, Heaven and Earth (so both Geldner and Renou), and the passages are otherwise so similar, it seems to me very likely that they are structured in the same way. I therefore take svadháyoḥ as loc. It’s worth noting that this is the only du. form of the stem svadhā́-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -245,7 +246,6 @@ Following a pattern we’ve met earlier, the first vs. of the new tṛca echoes 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "ज्ञानं"
 RShiH = "बृहस्पतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ज्ञानं
@@ -77,7 +78,12 @@ hitáḥ ← √hi- (root)
 
 vā́jināya ← vā́jina- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सर्वे॑ नन्दन्ति य॒शसाग॑तेन सभासा॒हेन॒ सख्या॒ सखा॑यः ।  
+कि॒ल्बि॒ष॒स्पृत्पि॑तु॒षणि॒र्ह्ये॑षा॒मरं॑ हि॒तो भव॑ति॒ वाजि॑नाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “race; emulation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

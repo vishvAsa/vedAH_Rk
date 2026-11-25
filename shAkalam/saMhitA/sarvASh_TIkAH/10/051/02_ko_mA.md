@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "अग्निः सौचीकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -89,7 +90,12 @@ samídhaḥ ← samídh- (nominal stem)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को मा॑ ददर्श कत॒मः स दे॒वो यो मे॑ त॒न्वो॑ बहु॒धा प॒र्यप॑श्यत् ।  
+क्वाह॑ मित्रावरुणा क्षियन्त्य॒ग्नेर्विश्वाः॑ स॒मिधो॑ देव॒यानीः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “leading; leading to heaven.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

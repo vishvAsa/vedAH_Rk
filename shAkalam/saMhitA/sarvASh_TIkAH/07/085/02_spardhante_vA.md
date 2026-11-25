@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ párācaḥ ← párāñc- (nominal stem)
 
 víṣūcaḥ ← víṣvañc- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्पर्ध॑न्ते॒ वा उ॑ देव॒हूये॒ अत्र॒ येषु॑ ध्व॒जेषु॑ दि॒द्यवः॒ पत॑न्ति ।  
+यु॒वं ताँ इ॑न्द्रावरुणाव॒मित्रा॑न्ह॒तं परा॑चः॒ शर्वा॒ विषू॑चः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “dispersed; viṣvañc \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

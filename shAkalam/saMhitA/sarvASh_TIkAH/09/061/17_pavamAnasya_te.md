@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ vā́ram ← vā́ra- 1 (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मानस्य ते॒ रसो॒ मदो॑ राजन्नदुच्छु॒नः ।  
+वि वार॒मव्य॑मर्षति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “run.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -162,7 +167,6 @@ When you are purifying yourself, o king, your sap, the exhilarating  drink that 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -170,7 +174,6 @@ This tṛca is unified by the simple device of stationing a form of pávamāna- 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

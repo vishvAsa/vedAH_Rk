@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ nú ← nú (invariable)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑ स्तु॒तस्य॑ मरुतो अधी॒थेत्था विप्र॑स्य वा॒जिनो॒ हवी॑मन् ।  
+म॒क्षू रा॒यः सु॒वीर्य॑स्य दात॒ नू चि॒द्यम॒न्य आ॒दभ॒दरा॑वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “begrudging; hostile; stingy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

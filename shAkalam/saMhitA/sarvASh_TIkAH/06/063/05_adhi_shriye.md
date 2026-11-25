@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ nr̥tū ← nr̥tú- (nominal stem)
 
 yajñíyānām ← yajñíya- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधि॑ श्रि॒ये दु॑हि॒ता सूर्य॑स्य॒ रथं॑ तस्थौ पुरुभुजा श॒तोति॑म् ।  
+प्र मा॒याभि॑र्मायिना भूत॒मत्र॒ नरा॑ नृतू॒ जनि॑मन्य॒ज्ञिया॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

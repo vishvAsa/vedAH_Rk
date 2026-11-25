@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sarpírāsutiḥ ← sarpírāsuti- (nominal stem)
 
 sū́ryaḥ ← sū́rya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घृ॒तम॒ग्नेर्व॑ध्र्य॒श्वस्य॒ वर्ध॑नं घृ॒तमन्नं॑ घृ॒तम्व॑स्य॒ मेद॑नम् ।  
+घृ॒तेनाहु॑त उर्वि॒या वि प॑प्रथे॒ सूर्य॑ इव रोचते स॒र्पिरा॑सुतिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “āsuti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

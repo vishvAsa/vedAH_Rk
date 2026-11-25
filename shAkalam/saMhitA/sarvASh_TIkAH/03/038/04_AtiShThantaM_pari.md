@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रजापतिर्वैश्वामित्रः (वाच्यो वा द्वौ वा तौ विश्वामित्रो वा)"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tasthau ← √sthā- (root)
 
 viśvárūpaḥ ← viśvárūpa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒तिष्ठ॑न्तं॒ परि॒ विश्वे॑ अभूष॒ञ्छ्रियो॒ वसा॑नश्चरति॒ स्वरो॑चिः ।  
+म॒हत्तद्वृष्णो॒ असु॑रस्य॒ नामा वि॒श्वरू॑पो अ॒मृता॑नि तस्थौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

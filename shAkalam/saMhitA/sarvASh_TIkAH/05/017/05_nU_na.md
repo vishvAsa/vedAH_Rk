@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पूरुरात्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -91,7 +92,12 @@ utá ← utá (invariable)
 
 vr̥dhé ← vŕ̥dh- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू न॒ इद्धि वार्य॑मा॒सा स॑चन्त सू॒रयः॑ ।  
+ऊर्जो॑ नपाद॒भिष्ट॑ये पा॒हि श॒ग्धि स्व॒स्तय॑ उ॒तैधि॑ पृ॒त्सु नो॑ वृ॒धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

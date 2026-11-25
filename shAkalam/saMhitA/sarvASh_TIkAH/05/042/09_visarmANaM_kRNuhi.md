@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ sū́ryāt ← sū́rya- (nominal stem)
 
 yāvayasva ← √yu- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒स॒र्माणं॑ कृणुहि वि॒त्तमे॑षां॒ ये भु॒ञ्जते॒ अपृ॑णन्तो न उ॒क्थैः ।  
+अप॑व्रतान्प्रस॒वे वा॑वृधा॒नान्ब्र॑ह्म॒द्विषः॒ सूर्या॑द्यावयस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “keep away.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वव्रिरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ ná ← ná (invariable)
 
 vājayúḥ ← vājayú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ श्वै॑त्रे॒यस्य॑ ज॒न्तवो॑ द्यु॒मद्व॑र्धन्त कृ॒ष्टयः॑ ।  
+नि॒ष्कग्री॑वो बृ॒हदु॑क्थ ए॒ना मध्वा॒ न वा॑ज॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “competing(a); competitive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

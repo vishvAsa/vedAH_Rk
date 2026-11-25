@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ gahi ← √gam- (root)
 
 yachanti ← √yam- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वा॒ रुमे॒ रुश॑मे॒ श्याव॑के॒ कृप॒ इन्द्र॑ मा॒दय॑से॒ सचा॑ ।  
+कण्वा॑सस्त्वा॒ ब्रह्म॑भिः॒ स्तोम॑वाहस॒ इन्द्रा य॑च्छ॒न्त्या ग॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

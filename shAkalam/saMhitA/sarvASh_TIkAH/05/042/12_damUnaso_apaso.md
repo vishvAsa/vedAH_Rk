@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ daśasyántīḥ ← √daśasy- (root)
 
 varivasyantu ← √varivasy- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दमू॑नसो अ॒पसो॒ ये सु॒हस्ता॒ वृष्णः॒ पत्नी॑र्न॒द्यो॑ विभ्वत॒ष्टाः ।  
+सर॑स्वती बृहद्दि॒वोत रा॒का द॑श॒स्यन्ती॑र्वरिवस्यन्तु शु॒भ्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

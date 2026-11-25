@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ rákṣa ← √rakṣⁱ- (root)
 
 samasya ← sama- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या ते॑ भी॒मान्यायु॑धा ति॒ग्मानि॒ सन्ति॒ धूर्व॑णे ।  
+रक्षा॑ समस्य नो नि॒दः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “derision; scoffer; contempt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -169,14 +174,6 @@ Your fearful sharp weapons, which exist to injure,
 (with them) guard us from the insult of anyone at all.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The nominal rel. cl. in ab has no resumptive prn. in the main cl. of c, though “with these/them” is clearly the intent.
-
-On the construction of dhū́rvane here, see Keydana, Infin. 247, though the arbitrary line he tends to draw between “true” infinitives and datival purpose nouns seems over-strict here.
-
-As is shown by IX.29.5 rákṣa ... svanā́t samasya kásya cit (cited by Geldner), nidáḥ must be an abl. (as we would expect in any case with a form of √rakṣ) with a dependent gen., the indefinite samasya.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -184,7 +181,6 @@ The last tṛca continues the concentration on combat and victory.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

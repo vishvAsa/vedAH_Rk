@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ tā́ ← sá- ~ tá- (pronoun)
 
 tarpayethām ← √tr̥p- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वां॒ गर्तं॒ मन॑सा॒ तक्ष॑दे॒तमू॒र्ध्वां धी॒तिं कृ॒णव॑द्धा॒रय॑च्च ।  
+उ॒क्षेथां॑ मित्रावरुणा घृ॒तेन॒ ता रा॑जाना सुक्षि॒तीस्त॑र्पयेथाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “nourish; offer; nutrify; satisfy; gladden; replenish; fill.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

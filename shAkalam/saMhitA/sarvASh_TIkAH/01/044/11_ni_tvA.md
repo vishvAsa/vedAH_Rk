@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ dūtám ← dūtá- (nominal stem)
 
 jīrám ← jīrá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि त्वा॑ य॒ज्ञस्य॒ साध॑न॒मग्ने॒ होता॑रमृ॒त्विज॑म् ।  
+म॒नु॒ष्वद्दे॑व धीमहि॒ प्रचे॑तसं जी॒रं दू॒तमम॑र्त्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “immortal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

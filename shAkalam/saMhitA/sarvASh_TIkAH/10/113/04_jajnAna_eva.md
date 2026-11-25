@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शतप्रभेदनो वैरूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ pr̥thúm ← pr̥thú- (nominal stem)
 
 svapasyáyā ← svapasyā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज॒ज्ञा॒न ए॒व व्य॑बाधत॒ स्पृधः॒ प्राप॑श्यद्वी॒रो अ॒भि पौंस्यं॒ रण॑म् ।  
+अवृ॑श्च॒दद्रि॒मव॑ स॒स्यदः॑ सृज॒दस्त॑भ्ना॒न्नाकं॑ स्वप॒स्यया॑ पृ॒थुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ tát ← sá- ~ tá- (pronoun)
 
 vaśmi ← √vaś- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अजी॑त॒येऽह॑तये पवस्व स्व॒स्तये॑ स॒र्वता॑तये बृह॒ते ।  
+तदु॑शन्ति॒ विश्व॑ इ॒मे सखा॑य॒स्तद॒हं व॑श्मि पवमान सोम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

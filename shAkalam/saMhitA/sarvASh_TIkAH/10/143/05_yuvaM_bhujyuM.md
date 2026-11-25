@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अत्रिः साङ्ख्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ nā́satyā ← nā́satya- (nominal stem)
 
 sātáye ← sātí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं भु॒ज्युं स॑मु॒द्र आ रज॑सः पा॒र ई॑ङ्खि॒तम् ।  
+या॒तमच्छा॑ पत॒त्रिभि॒र्नास॑त्या सा॒तये॑ कृतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

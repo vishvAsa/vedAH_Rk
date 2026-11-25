@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ devébhyaḥ ← devá- (nominal stem)
 
 pitŕ̥bhyaḥ ← pitár- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अ॒ग्निः क्र॑व्य॒वाह॑नः पि॒तॄन्यक्ष॑दृता॒वृधः॑ ।  
+प्रेदु॑ ह॒व्यानि॑ वोचति दे॒वेभ्य॑श्च पि॒तृभ्य॒ आ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

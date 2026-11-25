@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ kr̥ṇuhi ← √kr̥- (root)
 
 priyā́ ← priyá- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असा॑वि ते जुजुषा॒णाय॒ सोमः॒ क्रत्वे॒ दक्षा॑य बृह॒ते मदा॑य ।  
+हरी॒ रथे॑ सु॒धुरा॒ योगे॑ अ॒र्वागिन्द्र॑ प्रि॒या कृ॑णुहि हू॒यमा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

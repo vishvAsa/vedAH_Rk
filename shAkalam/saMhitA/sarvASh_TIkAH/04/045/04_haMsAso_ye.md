@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ ná ← ná (invariable)
 
 sávanāni ← sávana- 1 (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हं॒सासो॒ ये वां॒ मधु॑मन्तो अ॒स्रिधो॒ हिर॑ण्यपर्णा उ॒हुव॑ उष॒र्बुधः॑ ।  
+उ॒द॒प्रुतो॑ म॒न्दिनो॑ मन्दिनि॒स्पृशो॒ मध्वो॒ न मक्षः॒ सव॑नानि गच्छथः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निरग्निः शुचिर्वा"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निः शुचिर्वा
@@ -66,7 +67,12 @@ naḥ ← ahám (pronoun)
 
 śóśucat ← √śuc- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नः॒ सिन्धु॑मिव ना॒वयाति॑ पर्षा स्व॒स्तये॑ ।  
+अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “sin; evil; impurity; agha \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

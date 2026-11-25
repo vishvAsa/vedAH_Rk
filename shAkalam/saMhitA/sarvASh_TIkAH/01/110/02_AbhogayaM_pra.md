@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -86,7 +87,12 @@ gr̥hám ← gr̥há- (nominal stem)
 
 savitúḥ ← savitár- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒भो॒गयं॒ प्र यदि॒च्छन्त॒ ऐत॒नापा॑काः॒ प्राञ्चो॒ मम॒ के चि॑दा॒पयः॑ ।  
+सौध॑न्वनासश्चरि॒तस्य॑ भू॒मनाग॑च्छत सवि॒तुर्दा॒शुषो॑ गृ॒हम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “house; palace; temple; home; place; family; family; stable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "शची पौलोमी"
 RShiH = "शची पौलोमी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शची पौलोमी
@@ -74,7 +75,12 @@ asapatnā́ ← asapatná- (nominal stem)
 
 kíla ← kíla (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येनेन्द्रो॑ ह॒विषा॑ कृ॒त्व्यभ॑वद्द्यु॒म्न्यु॑त्त॒मः ।  
+इ॒दं तद॑क्रि देवा असप॒त्ना किला॑भुवम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

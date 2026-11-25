@@ -4,6 +4,7 @@ devataa = "गावः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -98,7 +99,12 @@ ichā́mi ← √iṣ- 2 (root)
 
 mánasā ← mánas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गावो॒ भगो॒ गाव॒ इन्द्रो॑ मे अच्छा॒न्गावः॒ सोम॑स्य प्रथ॒मस्य॑ भ॒क्षः ।  
+इ॒मा या गावः॒ स ज॑नास॒ इन्द्र॑ इ॒च्छामीद्धृ॒दा मन॑सा चि॒दिन्द्र॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

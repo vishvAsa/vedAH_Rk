@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -52,7 +53,11 @@ kṣatrám ← kṣatrá- (nominal stem)
 
 viśvā́yu ← viśvā́yu- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+राजा॑ रा॒ष्ट्रानां॒ पेशो॑ न॒दीना॒मनु॑त्तमस्मै क्ष॒त्रं वि॒श्वायु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +114,6 @@ _________
 - “lifelong.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -137,7 +141,6 @@ lifelong lordship has been conceded to him.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -150,7 +153,6 @@ The easiest thing to do with fem. gen. pl. āsām is to have it modify fem.
 gen. pl. nadī́nām, as Geldner and Renou do (e.g., “de ces rivières”). But it is unaccented and therefore should be a pronominal demonstrative, rather than an adjectival one. I therefore assume that it picks up the waters (ā́paḥ) earlier in the hymn (2c, 3a); the connection of Varuṇa with the waters, though not as firm in the RV as it is later, would evoke them. The rivers are then in apposition to these unnamed waters. Renou in his comm. notes the “lien” of āsām with ā́paḥ earlier in the hymn but seems to stop short of syntactically separating āsām from the rivers in this vs. For further disc. see comm. ad I.68.7.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

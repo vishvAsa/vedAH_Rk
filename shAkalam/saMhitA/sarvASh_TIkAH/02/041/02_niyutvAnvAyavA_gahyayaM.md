@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -66,7 +67,12 @@ gr̥hám ← gr̥há- (nominal stem)
 
 sunvatáḥ ← √su- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि॒युत्वा॑न्वाय॒वा ग॑ह्य॒यं शु॒क्रो अ॑यामि ते ।  
+गन्ता॑सि सुन्व॒तो गृ॒हम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “house; palace; temple; home; place; family; family; stable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -185,7 +190,6 @@ You are wont to come to the house of the presser.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -193,7 +197,6 @@ This tṛca is characterized by lexical chaining. The first pāda of vs. 2 repri
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

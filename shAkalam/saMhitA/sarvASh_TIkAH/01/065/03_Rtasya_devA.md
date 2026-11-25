@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -60,7 +60,11 @@ ná ← ná (invariable)
 
 páriṣṭiḥ ← páriṣṭi- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॑ दे॒वा अनु॑ व्र॒ता गु॒र्भुव॒त्परि॑ष्टि॒र्द्यौर्न भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +138,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -161,17 +164,6 @@ The gods followed the commandments of truth.
 Like heaven (enclosing) the earth was his enclosing.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The second half of this verse is very economically and ingeniously expressed.
-
-First, the syntactic modes of simile and frame are entirely different. The frame consists of a single noun, nominalized from an underlying verb (páriṣṭiḥ ‘enclosing’ ← pári √as ‘enclose’), with the object (Agni, an underlying objective genitive) to be supplied from context (“the enclosing [of Agni]”). The simile contains both subject and object in the appropriate cases (nom. dyaúḥ and [presumably] acc. bhū́ma) but no verb, which must be generated from the noun páriṣṭiḥ (“as heaven [encloses] the earth”), which in turn was generated from the underlying verb. Thus, the frame and the simile are in syntactic complementary distribution - the former with a verb (or verb substitute) but no overt nominal complements, the latter with nominal complements but no overt verb. That the verb-y half is expressed nominally and the noun-y half as if it contained a governing verb is a further bit of cleverness. This syntactic skew produces case mismatch, with the nom. “heaven” of the simile apparently compared to nom. “the enclosing” (páriṣṭir dyaúr ná), and, further, the mismatch between the single (presumed) complement of the frame and the two overt complements in the simile gives an impression almost of case disharmony of the type treated in Jamison 1982, although in fact the objective gen. “of Agni” that must be supplied matches the acc. object bhū́ma in the simile.
-
-Or at least it matches bhū́ma acdg. to the standard renderings (Geldner, Renou, Witzel Gotō, Lüders, Varuṇa p. 590, and the published translation). However, bhū́ma is a neuter and ambiguous as to case, and heaven enclosing the earth does not strike me as a standard Vedic image — though it slips easily into our round-earth cosmological worldview. Far more commonly in Vedic heaven and earth together encompass something else (e.g., X.27.7, under an epithet) or fail to (II.16.3, again under an epithet), or they themselves are encompassed (see the expressions quoted in Jamison 1998). For a nicely balanced passage in which the two appear both as object and subject, see nearby (but attributed to a different poet) I.61.8cd pári dyā́vāprthivī́jabhra urvī́,  nā́sya té mahimā́nam pári ṣṭaḥ “He held encircled broad heaven and earth; they did not encompass his greatness.” I therefore now wonder if bhū́ma should be taken as a nominative parallel to dyaúḥ, with an object to be supplied (“… as heaven [and] earth [encompass X]”) or even if dyaúḥ … bhū́ma should be recombined into a dual dvandva (cf. dyā́vā-bhūmī́, with slightly different 2nd member) and taken as an object (“as [X encompasses] heaven [and] earth”). (Note that the disyllabic reading of di yaúḥ could accommodate a dyā́vā.) In any case, I believe that the poet kept these possibilities open by the ambiguous concision of his wording.
-
-Yet another aspect of this little expression is its relation to other such expressions in this small group of hymns attributed to Parāśara Śāktya (I.65-73): twice elsewhere in this collection Agni is depicted as encompassing something else, with the lexemes pári √bhū (I.68.2 pári … bhúvat, I.69.2 pári … babhūtha), while in
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -179,7 +171,6 @@ These verses contain 3rd pl. act. root aorists ánu gman (2b) and ánu … guḥ
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -201,10 +192,6 @@ Die Götter befolgten die Gebote der Wahrheit. Man hielt ihn eingeschlossen wie 
 
 Die Götter folgten – des Opfers Werken, umgeben rings es – wie Erd' der Himmel; Die Wasser nähren – mit Lob das Kindlein, das schöngeborne – im Schooss des Opfers.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

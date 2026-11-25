@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -80,7 +81,12 @@ nr̥pátim ← nr̥páti- (nominal stem)
 
 śū́ram ← śū́ra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त वा॒जिनं॑ पुरुनि॒ष्षिध्वा॑नं दधि॒क्रामु॑ ददथुर्वि॒श्वकृ॑ष्टिम् ।  
+ऋ॒जि॒प्यं श्ये॒नं प्रु॑षि॒तप्सु॑मा॒शुं च॒र्कृत्य॑म॒र्यो नृ॒पतिं॒ न शूर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “brave; powerful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

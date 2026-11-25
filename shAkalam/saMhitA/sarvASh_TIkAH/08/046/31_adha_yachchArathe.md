@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ yát ← yá- (pronoun)
 
 viṁśatím ← viṁśatí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॒ यच्चार॑थे ग॒णे श॒तमुष्ट्राँ॒ अचि॑क्रदत् ।  
+अध॒ श्वित्ने॑षु विंश॒तिं श॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “hundred; one-hundredth; śata \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

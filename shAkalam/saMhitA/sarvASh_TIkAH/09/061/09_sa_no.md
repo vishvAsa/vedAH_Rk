@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ mitré ← mitrá- (nominal stem)
 
 váruṇe ← váruṇa- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॒ भगा॑य वा॒यवे॑ पू॒ष्णे प॑वस्व॒ मधु॑मान् ।  
+चारु॑र्मि॒त्रे वरु॑णे च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -172,14 +177,12 @@ dear to Mitra and Varuṇa.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 The tṛca is characterized by the mention of gods in all three vss. The Ādityas frame it (ādityébhiḥ 7c, mitré váruṇe ca 9c), with a more miscellaneous group in between. It is also marked by initial repetition: sám opens pādas 7c, 8a, and 8c. This is imperfectly echoed by sá n(o) opening 9a.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

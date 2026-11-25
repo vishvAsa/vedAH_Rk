@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -89,7 +90,12 @@ niveśáyan ← √viś- (root)
 
 prasuván ← √sū- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आप्रा॒ रजां॑सि दि॒व्यानि॒ पार्थि॑वा॒ श्लोकं॑ दे॒वः कृ॑णुते॒ स्वाय॒ धर्म॑णे ।  
+प्र बा॒हू अ॑स्राक्सवि॒ता सवी॑मनि निवे॒शय॑न्प्रसु॒वन्न॒क्तुभि॒र्जग॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

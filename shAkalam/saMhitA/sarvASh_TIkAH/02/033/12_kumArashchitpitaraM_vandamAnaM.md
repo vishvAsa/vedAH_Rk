@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -83,7 +84,12 @@ stutáḥ ← √stu- (root)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कु॒मा॒रश्चि॑त्पि॒तरं॒ वन्द॑मानं॒ प्रति॑ नानाम रुद्रोप॒यन्त॑म् ।  
+भूरे॑र्दा॒तारं॒ सत्प॑तिं गृणीषे स्तु॒तस्त्वं भे॑ष॒जा रा॑स्य॒स्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

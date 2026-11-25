@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ gopīthé ← gopīthá- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॒दृचि॑ य॒ज्ञे अ॑ध्वरे॒ष्ठा म॒रुद्भ्यो॒ न मानु॑षो॒ ददा॑शत् ।  
+रे॒वत्स वयो॑ दधते सु॒वीरं॒ स दे॒वाना॒मपि॑ गोपी॒थे अ॑स्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

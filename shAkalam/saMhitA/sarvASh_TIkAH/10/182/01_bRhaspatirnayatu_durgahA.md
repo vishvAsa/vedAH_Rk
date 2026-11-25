@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "तपुर्मूर्धा बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -86,7 +87,12 @@ yájamānāya ← √yaj- (root)
 
 yós ← yós (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृह॒स्पति॑र्नयतु दु॒र्गहा॑ ति॒रः पुन॑र्नेषद॒घशं॑साय॒ मन्म॑ ।  
+क्षि॒पदश॑स्ति॒मप॑ दुर्म॒तिं ह॒न्नथा॑ कर॒द्यज॑मानाय॒ शं योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “fortune.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

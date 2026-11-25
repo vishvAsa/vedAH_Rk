@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -95,7 +96,12 @@ yā́n ← yá- (pronoun)
 
 cakríyā ← cakrī́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ताँ इ॑या॒नो महि॒ वरू॑थमू॒तय॒ उप॒ घेदे॒ना नम॑सा गृणीमसि ।  
+त्रि॒तो न यान्पञ्च॒ होतॄ॑न॒भिष्ट॑य आव॒वर्त॒दव॑राञ्च॒क्रियाव॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

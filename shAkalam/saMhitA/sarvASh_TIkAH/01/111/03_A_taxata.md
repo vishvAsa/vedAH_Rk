@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -92,7 +93,12 @@ pŕ̥tanāsu ← pŕ̥tanā- (nominal stem)
 
 sakṣáṇim ← sakṣáṇi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त॑क्षत सा॒तिम॒स्मभ्य॑मृभवः सा॒तिं रथा॑य सा॒तिमर्व॑ते नरः ।  
+सा॒तिं नो॒ जैत्रीं॒ सं म॑हेत वि॒श्वहा॑ जा॒मिमजा॑मिं॒ पृत॑नासु स॒क्षणि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

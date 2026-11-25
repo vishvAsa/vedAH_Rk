@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ dasmám ← dasmá- (nominal stem)
 
 víśaḥ ← víś- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि क्रतुः॒ स मर्यः॒ स सा॒धुर्मि॒त्रो न भू॒दद्भु॑तस्य र॒थीः ।  
+तं मेधे॑षु प्रथ॒मं दे॑व॒यन्ती॒र्विश॒ उप॑ ब्रुवते द॒स्ममारीः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

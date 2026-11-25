@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिभानुरात्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ rátnam ← rátna- (nominal stem)
 
 viśé ← víś- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ताम॑स्य री॒तिं प॑र॒शोरि॑व॒ प्रत्यनी॑कमख्यं भु॒जे अ॑स्य॒ वर्प॑सः ।  
+सचा॒ यदि॑ पितु॒मन्त॑मिव॒ क्षयं॒ रत्नं॒ दधा॑ति॒ भर॑हूतये वि॒शे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

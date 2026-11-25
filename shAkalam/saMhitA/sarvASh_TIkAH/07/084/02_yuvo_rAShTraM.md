@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -89,7 +90,12 @@ ulokám ← uloká- (nominal stem)
 
 urúm ← urú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वो रा॒ष्ट्रं बृ॒हदि॑न्वति॒ द्यौर्यौ से॒तृभि॑रर॒ज्जुभिः॑ सिनी॒थः ।  
+परि॑ नो॒ हेळो॒ वरु॑णस्य वृज्या उ॒रुं न॒ इन्द्रः॑ कृणवदु लो॒कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     \[word\]; space; Loka; topographic point; region; common sense.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

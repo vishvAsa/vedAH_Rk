@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ mīḷhúṣaḥ ← mīḍhváṁs- (nominal stem)
 
 tigmájambhasya ← tigmájambha- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्य॑ घा वी॒र ईव॑तो॒ऽग्नेरी॑शीत॒ मर्त्यः॑ ।  
+ति॒ग्मज॑म्भस्य मी॒ळ्हुषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -92,7 +93,12 @@ námasvān ← námasvant- (nominal stem)
 
 paspárśat ← √spr̥ś- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॒ को वां॑ वरुणा सु॒म्नमा॑प॒ स्तोमो॑ ह॒विष्माँ॑ अ॒मृतो॒ न होता॑ ।  
+यो वां॑ हृ॒दि क्रतु॑माँ अ॒स्मदु॒क्तः प॒स्पर्श॑दिन्द्रावरुणा॒ नम॑स्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “respectful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -254,12 +259,6 @@ O Indra and Varuṇa, which praise song obtains your favor, bringing  oblations 
 (The one) spoken by us, which, filled with resolve, filled with homage,  will touch your heart, o Indra and Varuṇa.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I am unhappy with the preterital value (‘has obtained’) universally assigned (incl. Kümmel 115) to āpa in pāda a, because it ill-fits the subj. paspárśat ‘will touch’ in d.
-
-My ‘will obtain’ is a wishful thinking, however, at odds with the grammar. I would emend to ‘obtains’, with a presential value that Kümmel (116) allows for some passages.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/041/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -267,7 +266,6 @@ Note āpa ending 1a matched with āpī́ending 2a. Also the accumulation of -van
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

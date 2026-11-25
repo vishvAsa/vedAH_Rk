@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ rákṣamāṇā ← √rakṣⁱ- (root)
 
 yatáḥ ← √yam- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रोरोर्मि॑त्रावरुणा पृथि॒व्याः प्र दि॒व ऋ॒ष्वाद्बृ॑ह॒तः सु॑दानू ।  
+स्पशो॑ दधाथे॒ ओष॑धीषु वि॒क्ष्वृध॑ग्य॒तो अनि॑मिषं॒ रक्ष॑माणा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

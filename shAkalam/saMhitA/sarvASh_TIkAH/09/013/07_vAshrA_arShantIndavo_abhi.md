@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ dadhanviré ← √dhanv- (root)
 
 gábhastyoḥ ← gábhasti- (nominal stem)  
 {case:LOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒श्रा अ॑र्ष॒न्तीन्द॑वो॒ऽभि व॒त्सं न धे॒नवः॑ ।  
+द॒ध॒न्वि॒रे गभ॑स्त्योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “beam; hand; sun.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ bhūt ← √bhū- (root)
 
 vā́jeṣu ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां ह॒ त्यदि॒न्द्रार्ण॑सातौ॒ स्व॑र्मीळ्हे॒ नर॑ आ॒जा ह॑वन्ते ।  
+तव॑ स्वधाव इ॒यमा स॑म॒र्य ऊ॒तिर्वाजे॑ष्वत॒साय्या॑ भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -245,12 +250,6 @@ This help of yours here in the clash when prizes (are at stake), o
 autonomous one, has become something unshakeable.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The gerundive atasā́yya- is taken by Geldner as belonging to √at ‘wander’ and tr.
-
-“soll … erreichbar sein,” while most (Grassmann, Renou (?), AiG II.2.286, Hoffman, Witzel Gotō) take it to mean “to be asked for/begged” and derived from the hapax atasī́- supposedly ‘beggar’ (VIII.3.13). But this is entirely circular, with the meaning of each of these two words determined on the basis of the other, with an occasional nod towards √at ‘wander’ as their possible root (whose relevance Mayrhofer casts doubts on; see EWA s.v. atasī́-). I instead take it as a negated gerundive to √taṃs ‘tug, yank, shake’, which forms a similar gerundive to its intensive, vitantasā́yya-. Negated gerundives do not ordinarily take accent on the privative (AiG II.1.217), and the derivational opacity of atasā́yya- would make it likely to receive the usual -ā́yya- gerundive accent. Geldner also suggests the possibility of derivation from √taṃs in a note.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
 <details><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -258,7 +257,6 @@ tváṃ ha tyád provides the opening of the next four verses. Although tyád is
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भूतांशः काश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ sūyavasā́t ← sūyavasā́d- (nominal stem)
 
 ūrjā́ ← ū́rj- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒र॒ङ्ग॒रेव॒ मध्वेर॑येथे सार॒घेव॒ गवि॑ नी॒चीन॑बारे ।  
+की॒नारे॑व॒ स्वेद॑मासिष्विदा॒ना क्षामे॑वो॒र्जा सू॑यव॒सात्स॑चेथे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

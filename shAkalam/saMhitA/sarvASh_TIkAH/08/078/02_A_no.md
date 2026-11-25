@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ manā́ ← manā́- 2 (nominal stem)
 
 sácā ← sácā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ भर॒ व्यञ्ज॑नं॒ गामश्व॑म॒भ्यञ्ज॑नम् ।  
+सचा॑ म॒ना हि॑र॒ण्यया॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “aureate; gold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

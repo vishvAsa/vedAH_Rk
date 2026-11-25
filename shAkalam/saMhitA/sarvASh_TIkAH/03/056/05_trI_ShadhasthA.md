@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ trís ← trís (invariable)
 
 vidáthe ← vidátha- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्री ष॒धस्था॑ सिन्धव॒स्त्रिः क॑वी॒नामु॒त त्रि॑मा॒ता वि॒दथे॑षु स॒म्राट् ।  
+ऋ॒ताव॑री॒र्योष॑णास्ति॒स्रो अप्या॒स्त्रिरा दि॒वो वि॒दथे॒ पत्य॑मानाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “own; have; master.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

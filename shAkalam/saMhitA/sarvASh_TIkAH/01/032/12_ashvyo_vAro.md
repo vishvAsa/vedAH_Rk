@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sártave ← √sr̥- 1 (root)
 
 síndhūn ← síndhu- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्व्यो॒ वारो॑ अभव॒स्तदि॑न्द्र सृ॒के यत्त्वा॑ प्र॒त्यह॑न्दे॒व एकः॑ ।  
+अज॑यो॒ गा अज॑यः शूर॒ सोम॒मवा॑सृजः॒ सर्त॑वे स॒प्त सिन्धू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “river; Indus; sindhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

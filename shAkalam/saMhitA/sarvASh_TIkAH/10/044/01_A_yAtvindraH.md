@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ mahatā́ ← mahā́nt- (nominal stem)
 
 vŕ̥ṣṇyena ← vŕ̥ṣṇya- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ या॒त्विन्द्रः॒ स्वप॑ति॒र्मदा॑य॒ यो धर्म॑णा तूतुजा॒नस्तुवि॑ष्मान् ।  
+प्र॒त्व॒क्षा॒णो अति॒ विश्वा॒ सहां॑स्यपा॒रेण॑ मह॒ता वृष्ण्ये॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “manfulness; virility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -122,7 +123,13 @@ dhītáyaḥ ← dhītí- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं यज्जना॒न्क्रतु॑भिः॒ शूर॑ ई॒क्षय॒द्धने॑ हि॒ते त॑रुषन्त श्रव॒स्यवः॒ प्र य॑क्षन्त श्रव॒स्यवः॑ ।  
+तस्मा॒ आयुः॑ प्र॒जाव॒दिद्बाधे॑ अर्च॒न्त्योज॑सा ।  
+इन्द्र॑ ओ॒क्यं॑ दिधिषन्त धी॒तयो॑ दे॒वाँ अच्छा॒ न धी॒तयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -306,7 +313,6 @@ _________
 - “thinking; prayer; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

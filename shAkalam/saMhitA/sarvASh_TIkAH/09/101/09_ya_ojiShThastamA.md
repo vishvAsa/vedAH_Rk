@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नहुषो मानवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ vánāmahai ← √vanⁱ- (root)
 
 yéna ← yá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य ओजि॑ष्ठ॒स्तमा भ॑र॒ पव॑मान श्र॒वाय्य॑म् ।  
+यः पञ्च॑ चर्ष॒णीर॒भि र॒यिं येन॒ वना॑महै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “obtain; gain; desire; get; like; love; overcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -198,12 +203,6 @@ The one who is strongest [=Indra], bring him here, o self-purifying one,  the on
 who sur(mounts) the five domains, with whom we shall gain wealth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Both Geldner and Renou supply ‘wealth’ (rayím), found in d, as the referent of all the previous nom. and acc. forms. I think rather of Indra. The splv. ójiṣṭha- regularly modifies Indra (and never wealth). Though Geldner is correct (n. 9a) that śravā́yya- is a “beliebtes Beiwort” of wealth, Indra is hardly unworthy of fame, and see V.86.2b, where du. śravā́yyā characterizes Indra and Agni. In the same vs. (V.86.2c) both gods are described as yā́páñca carṣanī́r abhí (though variants of this pāda are usually applied to Agni alone: IV.7.4=V.23.1, VII.15.2), exactly like our c save for the number of the rel. prn. The clinching arg. against rayí- as the referent seems to me to be pāda d. Geldner and Renou clearly take the rel. cl. there as consisting only of yéna vánāmahai, with pāda-init. acc. rayím part of the main cl.: the referent for tám back in pāda a and the antecedent of immed. flg. yéna in its own pāda. But this would be an unusual syntactic configuration for several reasons. First, there’s a rel. cl. (in c) intervening between the acc. tám and its distant referent in pāda a (and acc. modifier in b). Moreover, in a pāda with the structure #X REL …, the rel. is usually postposed and the pāda syntactically self-contained - that is, the X is part of the rel. cl. The type of intra-pāda clausal break envisioned by Geldner/Renou is rare. Moreover, Geldner and Renou are required to interpr. vánāmahai in absolute usage (“… wir Sieger werden”; “nous serons vainqueurs”), but √van ordinarily takes a direct object, on occasion, in fact, rayím (e.g., VI.38.1). For all these reasons I think it’s clear that rayím and yéna in d cannot be coreferential and we need a different referent for the tám and yá- forms - with Indra the most obvious one, for the reasons just given.
-
-In c I supply a form of √as with abhí in the meaning ‘surmount, dominate, prevail over’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -211,7 +210,6 @@ Again, quite straightforward and not particularly cohesive.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

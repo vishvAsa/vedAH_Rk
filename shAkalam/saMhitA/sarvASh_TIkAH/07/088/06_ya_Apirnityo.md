@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -95,7 +96,12 @@ vípraḥ ← vípra- (nominal stem)
 
 yandhí ← √yam- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य आ॒पिर्नित्यो॑ वरुण प्रि॒यः सन्त्वामागां॑सि कृ॒णव॒त्सखा॑ ते ।  
+मा त॒ एन॑स्वन्तो यक्षिन्भुजेम य॒न्धि ष्मा॒ विप्रः॑ स्तुव॒ते वरू॑थम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “defense; protective covering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

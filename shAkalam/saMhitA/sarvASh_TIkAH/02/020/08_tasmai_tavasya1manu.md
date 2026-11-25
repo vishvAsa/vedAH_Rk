@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ púraḥ ← púr- (nominal stem)
 
 tārīt ← √tr̥̄- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मै॑ तव॒स्य१॒॑मनु॑ दायि स॒त्रेन्द्रा॑य दे॒वेभि॒रर्ण॑सातौ ।  
+प्रति॒ यद॑स्य॒ वज्रं॑ बा॒ह्वोर्धुर्ह॒त्वी दस्यू॒न्पुर॒ आय॑सी॒र्नि ता॑रीत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -104,7 +105,12 @@ pitŕ̥bhyaḥ ← pitár- (nominal stem)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मैन॑मग्ने॒ वि द॑हो॒ माभि शो॑चो॒ मास्य॒ त्वचं॑ चिक्षिपो॒ मा शरी॑रम् ।  
+य॒दा शृ॒तं कृ॒णवो॑ जातवे॒दोऽथे॑मेनं॒ प्र हि॑णुतात्पि॒तृभ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -269,7 +275,6 @@ _________
     forefather.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

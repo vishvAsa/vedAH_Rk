@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ sumatyā́ ← sumatí- (nominal stem)
 
 vā́javatyā ← vā́javant- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तेना॑ग्ने॒ ब्रह्म॑णा वावृधस्व॒ शक्ती॑ वा॒ यत्ते॑ चकृ॒मा वि॒दा वा॑ ।  
+उ॒त प्र णे॑ष्य॒भि वस्यो॑ अ॒स्मान्त्सं नः॑ सृज सुम॒त्या वाज॑वत्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
 - \[noun\], instrumental, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "यूपाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यूपाः
@@ -86,7 +87,12 @@ pā́thaḥ ← pā́thas- (nominal stem)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हं॒सा इ॑व श्रेणि॒शो यता॑नाः शु॒क्रा वसा॑नाः॒ स्वर॑वो न॒ आगुः॑ ।  
+उ॒न्नी॒यमा॑नाः क॒विभिः॑ पु॒रस्ता॑द्दे॒वा दे॒वाना॒मपि॑ यन्ति॒ पाथः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “pāthas \[word\]; water; place.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

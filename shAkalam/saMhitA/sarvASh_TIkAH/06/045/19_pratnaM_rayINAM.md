@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -51,7 +52,12 @@ bráhmavāhastamam ← bráhmavāhastama- (nominal stem)
 
 huve ← √hū- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒त्नं र॑यी॒णां युजं॒ सखा॑यं कीरि॒चोद॑नम् ।  
+ब्रह्म॑वाहस्तमं हुवे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -141,7 +146,6 @@ The ancient yokemate of riches, the comrade who spurs on the weak, the one who m
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/19-20.md">
 <details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -149,7 +153,6 @@ These two vss. contain superlatives to bahuvrīhi s-stems that appear earlier in
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

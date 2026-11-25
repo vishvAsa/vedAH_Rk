@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकक्षः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ sutám ← √su- (root)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ नो॒ हरि॑भिः सु॒तं या॒हि म॑दानां पते ।  
+उप॑ नो॒ हरि॑भिः सु॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “Soma.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -173,7 +178,6 @@ right up to our pressed soma with your fallow bays.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">
 <details><summary><h2>31-33 ...{Loading}...</h2></summary>
 
@@ -181,7 +185,6 @@ As noted in the published introduction, the first pāda of the first verse of th
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

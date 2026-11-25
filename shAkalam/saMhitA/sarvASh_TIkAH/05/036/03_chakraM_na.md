@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रभूवसुराङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ purūvásuḥ ← purūvásu- (nominal stem)
 
 stoṣat ← √stu- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒क्रं न वृ॒त्तं पु॑रुहूत वेपते॒ मनो॑ भि॒या मे॒ अम॑ते॒रिद॑द्रिवः ।  
+रथा॒दधि॑ त्वा जरि॒ता स॑दावृध कु॒विन्नु स्तो॑षन्मघवन्पुरू॒वसुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “rich.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

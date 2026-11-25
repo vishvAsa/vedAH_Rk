@@ -4,6 +4,7 @@ devataa = "विश्वेदेवा ऋत्विजो वा"
 RShiH = "बुधः सौम्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -89,7 +90,12 @@ váhnim ← váhni- (nominal stem)
 
 yunakta ← √yuj- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ तू षि॑ञ्च॒ हरि॑मीं॒ द्रोरु॒पस्थे॒ वाशी॑भिस्तक्षताश्म॒न्मयी॑भिः ।  
+परि॑ ष्वजध्वं॒ दश॑ क॒क्ष्या॑भिरु॒भे धुरौ॒ प्रति॒ वह्निं॑ युनक्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     affect; challenge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

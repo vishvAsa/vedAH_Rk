@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नोधाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ nanakṣe ← √nakṣ- (root)
 
 vājī́ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा॒क॒मुक्षो॑ मर्जयन्त॒ स्वसा॑रो॒ दश॒ धीर॑स्य धी॒तयो॒ धनु॑त्रीः ।  
+हरिः॒ पर्य॑द्रव॒ज्जाः सूर्य॑स्य॒ द्रोणं॑ ननक्षे॒ अत्यो॒ न वा॒जी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “victorious; triumphant; strong; gainful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

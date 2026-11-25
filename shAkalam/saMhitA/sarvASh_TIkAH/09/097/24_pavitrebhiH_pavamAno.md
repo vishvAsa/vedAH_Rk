@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कर्णश्रुद्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ r̥tám ← r̥tá- (nominal stem)
 
 súbhr̥tam ← súbhr̥ta- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒वित्रे॑भिः॒ पव॑मानो नृ॒चक्षा॒ राजा॑ दे॒वाना॑मु॒त मर्त्या॑नाम् ।  
+द्वि॒ता भु॑वद्रयि॒पती॑ रयी॒णामृ॒तं भ॑र॒त्सुभृ॑तं॒ चार्विन्दुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -244,10 +249,6 @@ Purifying himself with the filters, having his gaze on men, as the king of  gods
 he has become once again the wealth-lord of wealth; the drop bears the  pleasing truth that is easy to bear.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The two words making up the VP in d, ṛtám bharat, appear also in vs. 23, though not together (ṛtám ṛtā́ya b, bhāri d). As is pointed out by Hoffmann (implicitly: Injunc. 122 and esp. n. 34) and Ober (II.121), this appears to be an Indo-Iranian phrase, and it thus invests Soma with yet more traditional dignity. The pāda thus deserves a more solemn tr. than I gave it in the published translation - perhaps “the drop bears the dear truth that is well worth the bearing.” Although the morphological means are different, the lexical duplication in both rayipátī rayīṇā́m (c) and ṛtám bharat súbhṛtam (d) gives the end of this tṛca a stately and archaic air.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/23-24.md">
 <details><summary><h2>23-24 ...{Loading}...</h2></summary>
 
@@ -265,7 +266,6 @@ Karṇaśrut Vāsiṣṭha, a name that has no source in the text and is not oth
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

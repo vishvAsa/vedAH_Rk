@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ nr̥ṇā́m ← nár- (nominal stem)
 
 priyátamasya ← priyátama- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यावा॑भूमी अदिते॒ त्रासी॑थां नो॒ ये वां॑ ज॒ज्ञुः सु॒जनि॑मान ऋष्वे ।  
+मा हेळे॑ भूम॒ वरु॑णस्य वा॒योर्मा मि॒त्रस्य॑ प्रि॒यत॑मस्य नृ॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

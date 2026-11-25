@@ -4,6 +4,7 @@ devataa = "शची पौलोमी"
 RShiH = "शची पौलोमी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शची पौलोमी
@@ -74,7 +75,12 @@ sehānā́yāḥ ← √sah- (root)
 
 upā́caret ← √carⁱ- (root)  
 {number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं के॒तुर॒हं मू॒र्धाहमु॒ग्रा वि॒वाच॑नी ।  
+ममेदनु॒ क्रतुं॒ पतिः॑ सेहा॒नाया॑ उ॒पाच॑रेत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “treat; treat; perform; administer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

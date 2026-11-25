@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vavanvā́n ← √vanⁱ- (root)
 
 yunajat ← √yuj- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं यद्वयं॑ यव॒सादो॒ जना॑नाम॒हं य॒वाद॑ उ॒र्वज्रे॑ अ॒न्तः ।  
+अत्रा॑ यु॒क्तो॑ऽवसा॒तार॑मिच्छा॒दथो॒ अयु॑क्तं युनजद्वव॒न्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “obtain; gain; desire; get; like; love; overcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

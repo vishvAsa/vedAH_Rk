@@ -4,6 +4,7 @@ devataa = "अरण्यानी"
 RShiH = "देवमुनिरैरम्मदः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अरण्यानी
@@ -77,7 +78,12 @@ padyate ← √pad- (root)
 
 yathākā́mam ← yathākā́mam (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न वा अ॑रण्या॒निर्ह॑न्त्य॒न्यश्चेन्नाभि॒गच्छ॑ति ।  
+स्वा॒दोः फल॑स्य ज॒ग्ध्वाय॑ यथा॒कामं॒ नि प॑द्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “fall.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

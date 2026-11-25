@@ -5,13 +5,13 @@ RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -97,7 +97,12 @@ táva ← tvám (pronoun)
 
 vanuṣva ← √vanⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हश्चि॒त्त्वमि॑न्द्र य॒त ए॒तान्म॒हश्चि॑दसि॒ त्यज॑सो वरू॒ता ।  
+स नो॑ वेधो म॒रुतां॑ चिकि॒त्वान्त्सु॒म्ना व॑नुष्व॒ तव॒ हि प्रेष्ठा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +241,6 @@ _________
 - “dearest.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -296,8 +300,6 @@ Du Indra bist's, der grosses auch bewältigt, der auch die grosse Todeswaffe abw
 О наш устроитель (обряда), ты знаток Марутов,  
 Завоюй себе (их) расположение, ведь оно тебе дороже всего!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

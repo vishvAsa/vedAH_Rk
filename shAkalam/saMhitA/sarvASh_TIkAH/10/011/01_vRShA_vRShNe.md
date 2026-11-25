@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हविर्धान आङ्गिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ yajñíyaḥ ← yajñíya- (nominal stem)
 
 yajñíyān ← yajñíya- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॒ वृष्णे॑ दुदुहे॒ दोह॑सा दि॒वः पयां॑सि य॒ह्वो अदि॑ते॒रदा॑भ्यः ।  
+विश्वं॒ स वे॑द॒ वरु॑णो॒ यथा॑ धि॒या स य॒ज्ञियो॑ यजतु य॒ज्ञियाँ॑ ऋ॒तून् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

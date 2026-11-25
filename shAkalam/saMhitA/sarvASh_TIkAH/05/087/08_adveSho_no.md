@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "एवयामरुदात्रेयः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -97,7 +98,12 @@ dvéṣāṁsi ← dvéṣas- (nominal stem)
 
 sanutár ← sanutár (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒द्वे॒षो नो॑ मरुतो गा॒तुमेत॑न॒ श्रोता॒ हवं॑ जरि॒तुरे॑व॒याम॑रुत् ।  
+विष्णो॑र्म॒हः स॑मन्यवो युयोतन॒ स्मद्र॒थ्यो॒३॒॑ न दं॒सनाप॒ द्वेषां॑सि सनु॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “away.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अक्षकितवनिन्दा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकितवनिन्दा
@@ -92,7 +93,12 @@ ná ← ná (invariable)
 
 náyata ← √nī- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न्ये जा॒यां परि॑ मृशन्त्यस्य॒ यस्यागृ॑ध॒द्वेद॑ने वा॒ज्य१॒॑क्षः ।  
+पि॒ता मा॒ता भ्रात॑र एनमाहु॒र्न जा॑नीमो॒ नय॑ता ब॒द्धमे॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “this; he,she,it (pers. pron.); etad \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

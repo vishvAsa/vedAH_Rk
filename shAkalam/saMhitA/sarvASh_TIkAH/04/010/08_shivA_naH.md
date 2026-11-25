@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ sásmin ← sá- ~ tá- (pronoun)
 
 ū́dhan ← ū́dhar- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शि॒वा नः॑ स॒ख्या सन्तु॑ भ्रा॒त्राग्ने॑ दे॒वेषु॑ यु॒ष्मे ।  
+सा नो॒ नाभिः॒ सद॑ने॒ सस्मि॒न्नूध॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “udder; ūdhas \[word\]; night.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

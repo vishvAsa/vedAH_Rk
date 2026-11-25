@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -83,7 +84,12 @@ pūrvyā́ ← pūrvyá- (nominal stem)
 
 vratā́ni ← vratá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒विं के॒तुं धा॒सिं भा॒नुमद्रे॑र्हि॒न्वन्ति॒ शं रा॒ज्यं रोद॑स्योः ।  
+पु॒रं॒द॒रस्य॑ गी॒र्भिरा वि॑वासे॒ऽग्नेर्व्र॒तानि॑ पू॒र्व्या म॒हानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “great; abundant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

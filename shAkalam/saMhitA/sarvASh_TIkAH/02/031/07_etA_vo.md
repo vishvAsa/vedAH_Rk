@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ ráthyaḥ ← ráthya- (nominal stem)
 
 sáptiḥ ← sápti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ता वो॑ व॒श्म्युद्य॑ता यजत्रा॒ अत॑क्षन्ना॒यवो॒ नव्य॑से॒ सम् ।  
+श्र॒व॒स्यवो॒ वाजं॑ चका॒नाः सप्ति॒र्न रथ्यो॒ अह॑ धी॒तिम॑श्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -101,7 +102,12 @@ padám ← padá- (nominal stem)
 
 réku ← réku- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किं नो॑ अ॒स्य द्रवि॑णं॒ कद्ध॒ रत्नं॒ वि नो॑ वोचो जातवेदश्चिकि॒त्वान् ।  
+गुहाध्व॑नः पर॒मं यन्नो॑ अ॒स्य रेकु॑ प॒दं न नि॑दा॒ना अग॑न्म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -260,7 +266,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

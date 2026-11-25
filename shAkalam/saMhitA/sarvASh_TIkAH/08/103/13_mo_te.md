@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ rātáhavyaḥ ← rātáhavya- (nominal stem)
 
 svadhvaráḥ ← svadhvará- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मो ते रि॑ष॒न्ये अच्छो॑क्तिभिर्व॒सोऽग्ने॒ केभि॑श्चि॒देवैः॑ ।  
+की॒रिश्चि॒द्धि त्वामीट्टे॑ दू॒त्या॑य रा॒तह॑व्यः स्वध्व॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,7 +254,6 @@ For even a weakling reverently invokes you for a mission if he is a man  of good
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -257,7 +261,6 @@ Both vss. end identically with svadhvaráḥ, but in 12c it refers to Agni, in 1
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

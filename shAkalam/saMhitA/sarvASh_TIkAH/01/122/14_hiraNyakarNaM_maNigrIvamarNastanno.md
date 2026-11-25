@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ ubháyeṣu ← ubháya- (nominal stem)
 
 usrā́ḥ ← usrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यकर्णं मणिग्रीव॒मर्ण॒स्तन्नो॒ विश्वे॑ वरिवस्यन्तु दे॒वाः ।  
+अ॒र्यो गिरः॑ स॒द्य आ ज॒ग्मुषी॒रोस्राश्चा॑कन्तू॒भये॑ष्व॒स्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

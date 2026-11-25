@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -101,7 +102,12 @@ pŕ̥śniḥ ← pŕ̥śni- (nominal stem)
 
 śám ← śám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नो॑ अ॒ज एक॑पाद्दे॒वो अ॑स्तु॒ शं नोऽहि॑र्बु॒ध्न्य१॑ः॒ शं स॑मु॒द्रः ।  
+शं नो॑ अ॒पां नपा॑त्पे॒रुर॑स्तु॒ शं नः॒ पृश्नि॑र्भवतु दे॒वगो॑पा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -268,7 +274,6 @@ _________
 - “cowboy; Gopa; defender.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

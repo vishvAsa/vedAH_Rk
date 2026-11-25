@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "पुरस्ताद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ dāsásya ← dāsá- (nominal stem)
 
 vádhar ← vádhar- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒क॒र्मा दस्यु॑र॒भि नो॑ अम॒न्तुर॒न्यव्र॑तो॒ अमा॑नुषः ।  
+त्वं तस्या॑मित्रह॒न्वध॑र्दा॒सस्य॑ दम्भय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “subjugate; destroy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

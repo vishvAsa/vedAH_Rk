@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ r̥ṣváḥ ← r̥ṣvá- (nominal stem)
 
 r̥ṣvébhiḥ ← r̥ṣvá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्ध॑ नू॒नं प॑रा॒वति॒ यद्वा॑ पृथि॒व्यां दि॒वि ।  
+यु॒जा॒न इ॑न्द्र॒ हरि॑भिर्महेमत ऋ॒ष्व ऋ॒ष्वेभि॒रा ग॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

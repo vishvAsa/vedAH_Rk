@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्निष्चाक्षुषः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -73,7 +74,12 @@ apsujít ← apsujít- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्येदिन्द्रो॒ मदे॒ष्वा ग्रा॒भं गृ॑भ्णीत सान॒सिम् ।  
+वज्रं॑ च॒ वृष॑णं भर॒त्सम॑प्सु॒जित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -207,16 +212,6 @@ bringing gain,
 and he carried the bullish mace—he who is entirely victorious in the waters.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The etym. figure grābháṃ gṛbhṇīta seems to belong to dicing vocab.; see comm. ad VIII.81.1 and Lüders (Würfelspiel, 49-50).
-
-Geldner seems to take gṛbhṇīta as opt. (which, of course, it can be), but this reading makes it even less compatible with the already loosely connected injunc.
-
-bharat conjoined by ca (see Klein, DGRV I.233). The published translation takes both verbs as preterital injunctives, but I would now be inclined to see them, with Hoffmann (Injunk.
-
-124), as general presents describing a regularly recurring situation: Indra’s behavior when(ever) he is under the influence of soma. Hence “he grabs … and he carries …” On the phrase sám apsujít, which constitutes an independent 4-syl. pāda in all 3 occurrences (here, VIII.13.2, VIII.36.1-6), see comm. ad VIII.13.2 and Scarlatta’s views cited there.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -226,7 +221,6 @@ Vss. 2 and 3 are also lexically linked: sānasí- (2a, 3b), jaítrasya (2c) / -j
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ paryetā́ ← paryetár- (nominal stem)
 
 váśasya ← váśa- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न्यद॒द्य कर्व॑रम॒न्यदु॒ श्वोऽस॑च्च॒ सन्मुहु॑राच॒क्रिरिन्द्रः॑ ।  
+मि॒त्रो नो॒ अत्र॒ वरु॑णश्च पू॒षार्यो वश॑स्य पर्ये॒तास्ति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

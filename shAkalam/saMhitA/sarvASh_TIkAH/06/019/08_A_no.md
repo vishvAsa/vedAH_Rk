@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ utá ← utá (invariable)
 
 ūtíbhiḥ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ भर॒ वृष॑णं॒ शुष्म॑मिन्द्र धन॒स्पृतं॑ शूशु॒वांसं॑ सु॒दक्ष॑म् ।  
+येन॒ वंसा॑म॒ पृत॑नासु॒ शत्रू॒न्तवो॒तिभि॑रु॒त जा॒मीँरजा॑मीन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “unrelated; foreign-born.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,10 +253,6 @@ through which we will vanquish our rivals in battles, both kin and
 non-kin, with your help.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In d the utá is oddly positioned, since it appears to be meant to conjoin jāmī́m̐r ájāmīn “kin and non-kin,” there being no other likely candidates. Klein (DGRV I.356-57) calls it a “peculiar passage” and classes it with two other examples of what he schematizes as utá X Y (/ Z …). The pair jāmí- ájāmi- is several times asyndectic (I.111.3, IV.4.5, VI.44.17) as here, so no conjunction is actually necessary, but we can cite nearby VI.25.3 … jāmáya utá yé ‘jāmayaḥ, where the utá is correctly placed. Perhaps our passage is a blend of the asyndectic figure and the “X and which Y” construction in VI.25.3.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -269,7 +270,6 @@ As noted in the published introduction, all three of these vss. contain the phra
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

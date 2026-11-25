@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -61,7 +62,12 @@ havyavā́ham ← havyavā́h- (nominal stem)
 
 sahovŕ̥dham ← sahovŕ̥dh- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॒ विप्रा॑ विप॒न्यवो॑ जागृ॒वांसः॒ समि॑न्धते ।  
+ह॒व्य॒वाह॒मम॑र्त्यं सहो॒वृध॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “increasing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

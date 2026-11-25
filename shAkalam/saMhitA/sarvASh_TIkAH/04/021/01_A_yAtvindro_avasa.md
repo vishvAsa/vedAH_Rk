@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ ná ← ná (invariable)
 
 púṣyāt ← √puṣ- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ या॒त्विन्द्रोऽव॑स॒ उप॑ न इ॒ह स्तु॒तः स॑ध॒माद॑स्तु॒ शूरः॑ ।  
+वा॒वृ॒धा॒नस्तवि॑षी॒र्यस्य॑ पू॒र्वीर्द्यौर्न क्ष॒त्रम॒भिभू॑ति॒ पुष्या॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “boom; grow; promote; foster.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

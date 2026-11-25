@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -91,7 +91,12 @@ u ← u (invariable)
 
 vásvī ← vásu- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॑ श्रि॒य उ॒षसो॒ रोच॑माना॒ अस्थु॑र॒पां नोर्मयो॒ रुश॑न्तः ।  
+कृ॒णोति॒ विश्वा॑ सु॒पथा॑ सु॒गान्यभू॑दु॒ वस्वी॒ दक्षि॑णा म॒घोनी॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +233,6 @@ _________
 - “big.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -283,8 +287,6 @@ Auf stiegen schon der Morgenröthe Strahlen, hell schimmernd wie der Wasser lich
 Она делает все пути счастливыми, легкопроходимыми.  
 Появилась богатая, щедрая Дакшина.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

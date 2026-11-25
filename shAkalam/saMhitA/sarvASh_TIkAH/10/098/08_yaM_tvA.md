@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "देवापिरार्ष्टिषेणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -77,7 +78,12 @@ prá ← prá (invariable)
 
 vr̥ṣṭimántam ← vr̥ṣṭimánt- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं त्वा॑ दे॒वापिः॑ शुशुचा॒नो अ॑ग्न आर्ष्टिषे॒णो म॑नु॒ष्यः॑ समी॒धे ।  
+विश्वे॑भिर्दे॒वैर॑नुम॒द्यमा॑नः॒ प्र प॒र्जन्य॑मीरया वृष्टि॒मन्त॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “rain; raining; rainy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

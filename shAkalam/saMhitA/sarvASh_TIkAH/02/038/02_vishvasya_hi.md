@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -92,7 +93,12 @@ ramate ← √ram- (root)
 
 vā́taḥ ← vā́ta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्व॑स्य॒ हि श्रु॒ष्टये॑ दे॒व ऊ॒र्ध्वः प्र बा॒हवा॑ पृ॒थुपा॑णिः॒ सिस॑र्ति ।  
+आप॑श्चिदस्य व्र॒त आ निमृ॑ग्रा अ॒यं चि॒द्वातो॑ रमते॒ परि॑ज्मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

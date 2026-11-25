@@ -4,6 +4,7 @@ devataa = "बर्हिः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बर्हिः
@@ -83,7 +84,12 @@ uśatáḥ ← √vaś- (root)
 
 yakṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि प्र॑थतां दे॒वजु॑ष्टं तिर॒श्चा दी॒र्घं द्रा॒घ्मा सु॑र॒भि भू॑त्व॒स्मे ।  
+अहे॑ळता॒ मन॑सा देव बर्हि॒रिन्द्र॑ज्येष्ठाँ उश॒तो य॑क्षि दे॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

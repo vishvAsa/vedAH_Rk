@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ bruvate ← √brū- (root)
 
 urujráyasam ← urujráyas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॑ ह॒विष्म॑ती॒र्विश॒ उप॑ ब्रुवत ऊ॒तये॑ ।  
+उ॒रु॒ज्रय॑स॒मिन्दु॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,7 +164,6 @@ Upon you the clans, offering oblations, call for help,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/26-27.md">
 <details><summary><h2>26-27 ...{Loading}...</h2></summary>
 
@@ -173,7 +177,6 @@ As often in the RV, I think some of the difficulties arise because two separate 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

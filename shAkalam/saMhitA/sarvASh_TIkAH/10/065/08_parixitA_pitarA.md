@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ páyaḥ ← páyas- (nominal stem)
 
 pinvataḥ ← √pinv- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒रि॒क्षिता॑ पि॒तरा॑ पूर्व॒जाव॑री ऋ॒तस्य॒ योना॑ क्षयतः॒ समो॑कसा ।  
+द्यावा॑पृथि॒वी वरु॑णाय॒ सव्र॑ते घृ॒तव॒त्पयो॑ महि॒षाय॑ पिन्वतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “swell; swell; overflow; abound.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

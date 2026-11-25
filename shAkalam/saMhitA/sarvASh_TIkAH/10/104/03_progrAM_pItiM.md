@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्टको वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ gr̥ṇānáḥ ← √gr̥̄- 1 (root)
 
 víśvābhiḥ ← víśva- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रोग्रां पी॒तिं वृष्ण॑ इयर्मि स॒त्यां प्र॒यै सु॒तस्य॑ हर्यश्व॒ तुभ्य॑म् ।  
+इन्द्र॒ धेना॑भिरि॒ह मा॑दयस्व धी॒भिर्विश्वा॑भिः॒ शच्या॑ गृणा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्र ऋतदेवता वा"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्र ऋतदेवता वा
@@ -83,7 +84,12 @@ r̥téna ← r̥tá- (nominal stem)
 
 viveśuḥ ← √viś- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॑ दृ॒ळ्हा ध॒रुणा॑नि सन्ति पु॒रूणि॑ च॒न्द्रा वपु॑षे॒ वपूं॑षि ।  
+ऋ॒तेन॑ दी॒र्घमि॑षणन्त॒ पृक्ष॑ ऋ॒तेन॒ गाव॑ ऋ॒तमा वि॑वेशुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

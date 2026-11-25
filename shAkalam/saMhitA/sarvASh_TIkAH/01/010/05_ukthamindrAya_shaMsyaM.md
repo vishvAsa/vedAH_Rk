@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ rāráṇat ← √ranⁱ- (root)
 
 sakhyéṣu ← sakhyá- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्थमिन्द्रा॑य॒ शंस्यं॒ वर्ध॑नं पुरुनि॒ष्षिधे॑ ।  
+श॒क्रो यथा॑ सु॒तेषु॑ णो रा॒रण॑त्स॒ख्येषु॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

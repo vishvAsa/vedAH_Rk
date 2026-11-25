@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ práyatāḥ ← √yam- (root)
 
 vrajám ← vrajá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्ये मा॑ ध्व॒न्य॑स्य॒ जुष्टा॑ लक्ष्म॒ण्य॑स्य सु॒रुचो॒ यता॑नाः ।  
+म॒ह्ना रा॒यः सं॒वर॑णस्य॒ ऋषे॑र्व्र॒जं न गावः॒ प्रय॑ता॒ अपि॑ ग्मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,12 +247,6 @@ And (let) these (convey me)—the enjoyable (horses) of Dhvanya  Lakṣmaṇya, 
 Through the greatness of his wealth the proffered (horses) have come,  like cows to the cowpen, (to the enclosure) of the seer Saṃvaraṇa.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As in 9a “me” should be removed from parens.
-
-The notion of enclosure in cd puns on the name of the Poet Saṃvaraṇa ‘entirely enclosing’ vel sim.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033/08-10.md">
 <details><summary><h2>08-10 ...{Loading}...</h2></summary>
 
@@ -255,7 +254,6 @@ As just noted, 7c begins with utá as do vss. 8-10, but those vss. of the dānas
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

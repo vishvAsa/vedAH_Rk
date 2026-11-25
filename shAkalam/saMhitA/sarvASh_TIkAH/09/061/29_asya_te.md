@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ pr̥tanyatáḥ ← √pr̥tany- (root)
 
 sāsahyā́ma ← √sah- (root)  
 {number:PL, person:1, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्य॑ ते स॒ख्ये व॒यं तवे॑न्दो द्यु॒म्न उ॑त्त॒मे ।  
+सा॒स॒ह्याम॑ पृतन्य॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “attack.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,10 +169,6 @@ Food: dyumnam dyotate'ryaśo vānnam vā (**Nirukta**. 5.5)
 In the companionship of you here, in your highest brilliance, o drop, might we overcome those who do battle.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first two pādas open with somewhat emphatic 2nd sg. genitives, the first with a fronted initially accented demonst. + enclitic (ásya te), the second with a more conventional full form of the prn. (táva). See disc. ad IX.66.14.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -175,7 +176,6 @@ The last tṛca continues the concentration on combat and victory.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

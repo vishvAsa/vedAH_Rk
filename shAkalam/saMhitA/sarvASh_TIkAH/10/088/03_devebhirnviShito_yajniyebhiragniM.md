@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -83,7 +84,12 @@ antárikṣam ← antárikṣa- (nominal stem)
 
 ródasī ← ródasī- (nominal stem)  
 {case:ACC, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वेभि॒र्न्वि॑षि॒तो य॒ज्ञिये॑भिर॒ग्निं स्तो॑षाण्य॒जरं॑ बृ॒हन्त॑म् ।  
+यो भा॒नुना॑ पृथि॒वीं द्यामु॒तेमामा॑त॒तान॒ रोद॑सी अ॒न्तरि॑क्षम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “sky; atmosphere; air; abhra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

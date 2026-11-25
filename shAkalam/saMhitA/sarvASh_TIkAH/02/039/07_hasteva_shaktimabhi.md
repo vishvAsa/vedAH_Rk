@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ sám ← sám (invariable)
 
 svádhitim ← svádhiti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हस्ते॑व श॒क्तिम॒भि सं॑द॒दी नः॒ क्षामे॑व नः॒ सम॑जतं॒ रजां॑सि ।  
+इ॒मा गिरो॑ अश्विना युष्म॒यन्तीः॒ क्ष्णोत्रे॑णेव॒ स्वधि॑तिं॒ सं शि॑शीतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “sharpen; whet; strengthen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

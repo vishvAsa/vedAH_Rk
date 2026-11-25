@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ indra ← índra- (nominal stem)
 
 matsva ← √mad- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नक्ष॑न्त॒ इन्द्र॒मव॑से सुकृ॒त्यया॒ येषां॑ सु॒तेषु॒ मन्द॑से ।  
+यथा॑ संव॒र्ते अम॑दो॒ यथा॑ कृ॒श ए॒वास्मे इ॑न्द्र मत्स्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

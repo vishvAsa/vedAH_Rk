@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वम्रो वैखानसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ utá ← utá (invariable)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स व्राध॑तः शवसा॒नेभि॑रस्य॒ कुत्सा॑य॒ शुष्णं॑ कृ॒पणे॒ परा॑दात् ।  
+अ॒यं क॒विम॑नयच्छ॒स्यमा॑न॒मत्कं॒ यो अ॑स्य॒ सनि॑तो॒त नृ॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः, अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ tā́ ← sá- ~ tá- (pronoun)
 
 yaviṣṭhya ← yáviṣṭhya- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॑ग्ने॒ कानि॒ कानि॑ चि॒दा ते॒ दारू॑णि द॒ध्मसि॑ ।  
+ता जु॑षस्व यविष्ठ्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “youngest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -187,14 +192,12 @@ enjoy them, youngest one.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">
 <details><summary><h2>19-22 ...{Loading}...</h2></summary>
 
 See published introduction. for my general interpr. of these verses.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

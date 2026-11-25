@@ -4,6 +4,7 @@ devataa = "मरुतो लिङ्गोक्तदेवता वा"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतो लिङ्गोक्तदेवता वा
@@ -103,7 +104,12 @@ suvédā ← suvéda- (nominal stem)
 
 vásu ← vásu- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे॒षं शर्धो॒ न मारु॑तं तुवि॒ष्वण्य॑न॒र्वाणं॑ पू॒षणं॒ सं यथा॑ श॒ता ।  
+सं स॒हस्रा॒ कारि॑षच्चर्ष॒णिभ्य॒ आँ आ॒विर्गू॒ळ्हा वसू॑ करत्सु॒वेदा॑ नो॒ वसू॑ करत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -268,7 +274,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -295,14 +300,6 @@ Turbulent like the troop of Maruts, powerfully noisy, without  assailant—Pū�
 thousands (of goods) he will heap together from the settled domains.  He will make the hidden goods visible; he will make goods easy for  us to find.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. not only continues the identification of Pūṣan with other gods -- here the Maruts, characterized by three different descriptors -- but is syntactically dependent on the previous vs. and its verb stuṣe. It also contains the first mention of Pūṣan himself (pāda b), at the end of the series of identifications.
-
-The three adjectives, tveṣám, tuviṣváṇi, and anarvā́nam, must qualify both the śárdhaḥ ‘troop’ of the Maruts, a neut. acc. s-stem, in the simile, and pūṣáṇam, a masc. acc. -n-stem, in the frame. They seem to split the difference with regard to gender: tveṣám is of course ambiguous as to gender, but tuviṣváṇi is neut. and anarvā́nam masc. The latter is adjacent to masc. pūṣáṇam and separated by the pāda boundary from the neut. phrase, so it is not surprising that it would adopt a masc.
-
-form. Moreover, a proper neut. acc. to this stem would be *anarvá, which almost fatally obscures the 2nd member of the bahuvrīhi. The same substitution of masc. acc. anarvā́nam for expected neut. *anarvá- is found with the very same neut. acc. referent śárdho mā́rutam in I.37.1; cf. comm. there. The expected neut. NA presumably underlies the them. adj. anarvá-; see comm. ad I.185.3. Geldner’s and Renou’s strategy of taking anarvā́ṇam as only modifying Puṣan (e.g., Geldner “den unerreichten Pūṣan, der …”) is thus both unnecessary and probably wrong, given its application (not in a simile) to the Marut troop in I.37.1.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details><summary><h2>14-19 ...{Loading}...</h2></summary>
 
@@ -310,7 +307,6 @@ On these Pūṣan vss., see published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

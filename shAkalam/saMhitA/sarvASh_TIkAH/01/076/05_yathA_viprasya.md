@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ mandráyā ← mandrá- (nominal stem)
 
 yajasva ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॒ विप्र॑स्य॒ मनु॑षो ह॒विर्भि॑र्दे॒वाँ अय॑जः क॒विभिः॑ क॒विः सन् ।  
+ए॒वा हो॑तः सत्यतर॒ त्वम॒द्याग्ने॑ म॒न्द्रया॑ जु॒ह्वा॑ यजस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

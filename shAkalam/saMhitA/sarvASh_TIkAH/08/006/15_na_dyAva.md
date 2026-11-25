@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ ná ← ná (invariable)
 
 vivyacanta ← √vyac- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न द्याव॒ इन्द्र॒मोज॑सा॒ नान्तरि॑क्षाणि व॒ज्रिण॑म् ।  
+न वि॑व्यचन्त॒ भूम॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     distance; country; space; land; territory; topographic point.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

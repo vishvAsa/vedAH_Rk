@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -86,7 +87,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 syā́ma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यं रा॑जानः॒ कं चि॑च्चर्षणीसहः॒ क्षय॑न्तं॒ मानु॑षाँ॒ अनु॑ ।  
+व॒यं ते वो॒ वरु॑ण॒ मित्रार्य॑म॒न्त्स्यामेदृ॒तस्य॑ र॒थ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -228,10 +233,6 @@ Any (man) holding power throughout the sons of Manu—you kings  who conquer ter
 might we be those to you, o Varuṇa, Mitra, and Aryaman; might we  alone be the charioteers of truth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The triple voc. phrase váruṇa mítrā́ryaman is accented despite being internal in a pāda that begins with tonic elements. There is no obvious reason for this: although the vocc. follow the caesura and immediately follow an enclitic (vayám té vo, váruṇa mítrā́ryaman), neither of these factors ordinarily triggers voc. accentuation. See, e.g., I.122.7 stuṣé sā́vāṃ, varuṇa mitra rātíḥ, where both conditions are found. For discussion of a similar case, see comm. ad VII.59.1.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/34-35.md">
 <details><summary><h2>34-35 ...{Loading}...</h2></summary>
 
@@ -239,7 +240,6 @@ These two vss. are so interrupted by heavy voc. phrases addressed to the Āditya
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

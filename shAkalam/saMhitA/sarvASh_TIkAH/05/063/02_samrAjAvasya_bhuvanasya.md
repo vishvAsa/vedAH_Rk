@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -80,7 +81,12 @@ tanyávaḥ ← tanyú- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒म्राजा॑व॒स्य भुव॑नस्य राजथो॒ मित्रा॑वरुणा वि॒दथे॑ स्व॒र्दृशा॑ ।  
+वृ॒ष्टिं वां॒ राधो॑ अमृत॒त्वमी॑महे॒ द्यावा॑पृथि॒वी वि च॑रन्ति त॒न्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 páyaḥ ← páyas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सर॑स्वती स॒रयुः॒ सिन्धु॑रू॒र्मिभि॑र्म॒हो म॒हीरव॒सा य॑न्तु॒ वक्ष॑णीः ।  
+दे॒वीरापो॑ मा॒तरः॑ सूदयि॒त्न्वो॑ घृ॒तव॒त्पयो॒ मधु॑मन्नो अर्चत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “sing; worship; honor; praise; welcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

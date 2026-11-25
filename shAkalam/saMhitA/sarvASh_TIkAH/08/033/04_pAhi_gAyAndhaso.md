@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ ráthaḥ ← rátha- (nominal stem)
 
 vajrī́ ← vajrín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पा॒हि गायान्ध॑सो॒ मद॒ इन्द्रा॑य मेध्यातिथे ।  
+यः सम्मि॑श्लो॒ हर्यो॒र्यः सु॒ते सचा॑ व॒ज्री रथो॑ हिर॒ण्ययः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “gold; aureate; hiraṇyaya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

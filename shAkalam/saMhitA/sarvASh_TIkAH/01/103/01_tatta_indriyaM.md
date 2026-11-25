@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sám ← sám (invariable)
 
 samanā́ ← samanā́ (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तत्त॑ इन्द्रि॒यं प॑र॒मं प॑रा॒चैरधा॑रयन्त क॒वयः॑ पु॒रेदम् ।  
+क्ष॒मेदम॒न्यद्दि॒व्य१॒॑न्यद॑स्य॒ समी॑ पृच्यते सम॒नेव॑ के॒तुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     signal; signal; luminosity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

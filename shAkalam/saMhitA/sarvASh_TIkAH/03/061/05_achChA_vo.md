@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ rocanā́ ← rocaná- (nominal stem)
 
 ruruce ← √ruc- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॑ वो दे॒वीमु॒षसं॑ विभा॒तीं प्र वो॑ भरध्वं॒ नम॑सा सुवृ॒क्तिम् ।  
+ऊ॒र्ध्वं म॑धु॒धा दि॒वि पाजो॑ अश्रे॒त्प्र रो॑च॒ना रु॑रुचे र॒ण्वसं॑दृक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “appearance; view; view.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

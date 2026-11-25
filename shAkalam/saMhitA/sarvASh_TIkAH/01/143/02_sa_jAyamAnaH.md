@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ pr̥thivī́ ← pr̥thivī́- (nominal stem)
 
 śocíḥ ← śocís- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स जाय॑मानः पर॒मे व्यो॑मन्या॒विर॒ग्निर॑भवन्मात॒रिश्व॑ने ।  
+अ॒स्य क्रत्वा॑ समिधा॒नस्य॑ म॒ज्मना॒ प्र द्यावा॑ शो॒चिः पृ॑थि॒वी अ॑रोचयत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “like; approve; like; simulate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋक्षाश्वमेधयोर्दानस्तुत
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋक्षाश्वमेधयोर्दानस्तुतिः
@@ -54,7 +55,12 @@ sácā ← sácā (invariable)
 
 sanam ← √sanⁱ- (root)  
 {number:SG, person:1, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+षळश्वाँ॑ आतिथि॒ग्व इ॑न्द्रो॒ते व॒धूम॑तः ।  
+सचा॑ पू॒तक्र॑तौ सनम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +115,6 @@ _________
 - “win; get; gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -141,12 +146,6 @@ I gained six (horses), along with brides [?], from the son of Atithigva,  from I
 along with Pūtakratu.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-vadhúmant- means literally ‘having women, brides’, but Geldner raises the question whether in this context it really refers to mares. I think this unlikely.
-
-Dānastutis regularly lump horses and female humans together. Very parallel is I.126.3 śyāvāḥ ... vadhū́mantaḥ ... ráthāsaḥ, “dusky (horses) and chariots carrying brides.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md">
 <details><summary><h2>15-17 ...{Loading}...</h2></summary>
 
@@ -158,7 +157,6 @@ I have made no effort to sort out the internal relationships among the patrons
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

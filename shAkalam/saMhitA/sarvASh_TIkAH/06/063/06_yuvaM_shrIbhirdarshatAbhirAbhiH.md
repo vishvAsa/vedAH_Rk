@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ vām ← tvám (pronoun)
 
 vā́ṇī ← vā́ṇī- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं श्री॒भिर्द॑र्श॒ताभि॑रा॒भिः शु॒भे पु॒ष्टिमू॑हथुः सू॒र्यायाः॑ ।  
+प्र वां॒ वयो॒ वपु॒षेऽनु॑ पप्त॒न्नक्ष॒द्वाणी॒ सुष्टु॑ता धिष्ण्या वाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

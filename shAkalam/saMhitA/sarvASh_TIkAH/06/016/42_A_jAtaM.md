@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ gr̥hápatim ← gr̥hápati- (nominal stem)
 
 syoné ← syoná- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ जा॒तं जा॒तवे॑दसि प्रि॒यं शि॑शी॒ताति॑थिम् ।  
+स्यो॒न आ गृ॒हप॑तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “gṛhapati \[word\]; Gṛhastha.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

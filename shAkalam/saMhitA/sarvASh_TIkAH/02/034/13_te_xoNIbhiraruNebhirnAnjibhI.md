@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ suścandrám ← suścandrá- (nominal stem)
 
 várṇam ← várṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते क्षो॒णीभि॑ररु॒णेभि॒र्नाञ्जिभी॑ रु॒द्रा ऋ॒तस्य॒ सद॑नेषु वावृधुः ।  
+नि॒मेघ॑माना॒ अत्ये॑न॒ पाज॑सा सुश्च॒न्द्रं वर्णं॑ दधिरे सु॒पेश॑सम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “decoration; shape.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ bruvate ← √brū- (root)
 
 jāmí ← jāmí- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कण्वा॒ इन्द्रं॒ यदक्र॑त॒ स्तोमै॑र्य॒ज्ञस्य॒ साध॑नम् ।  
+जा॒मि ब्रु॑वत॒ आयु॑धम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “weapon; āyudha \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

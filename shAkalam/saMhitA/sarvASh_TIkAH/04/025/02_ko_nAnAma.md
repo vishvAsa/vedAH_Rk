@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ kaváye ← kaví- (nominal stem)
 
 vaṣṭi ← √vaś- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को ना॑नाम॒ वच॑सा सो॒म्याय॑ मना॒युर्वा॑ भवति॒ वस्त॑ उ॒स्राः ।  
+क इन्द्र॑स्य॒ युज्यं॒ कः स॑खि॒त्वं को भ्रा॒त्रं व॑ष्टि क॒वये॒ क ऊ॒ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

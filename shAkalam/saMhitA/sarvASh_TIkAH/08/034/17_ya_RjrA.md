@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सहस्रं वसुरोचिषोङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ iva ← iva (invariable)
 
 sū́ryāḥ ← sū́rya- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य ऋ॒ज्रा वात॑रंहसोऽरु॒षासो॑ रघु॒ष्यदः॑ ।  
+भ्राज॑न्ते॒ सूर्या॑ इव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

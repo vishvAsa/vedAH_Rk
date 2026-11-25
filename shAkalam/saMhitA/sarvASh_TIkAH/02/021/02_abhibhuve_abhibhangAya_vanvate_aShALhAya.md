@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ satrāsā́he ← satrāsáh- (nominal stem)
 
 vocata ← √vac- (root)  
 {number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि॒भुवे॑ऽभिभ॒ङ्गाय॑ वन्व॒तेऽषा॑ळ्हाय॒ सह॑मानाय वे॒धसे॑ ।  
+तु॒वि॒ग्रये॒ वह्न॑ये दु॒ष्टरी॑तवे सत्रा॒साहे॒ नम॒ इन्द्रा॑य वोचत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

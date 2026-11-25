@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ dāsásya ← dāsá- (nominal stem)
 
 svadhā́vān ← svadhā́vant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स ह॑ श्रु॒त इन्द्रो॒ नाम॑ दे॒व ऊ॒र्ध्वो भु॑व॒न्मनु॑षे द॒स्मत॑मः ।  
+अव॑ प्रि॒यम॑र्शसा॒नस्य॑ सा॒ह्वाञ्छिरो॑ भरद्दा॒सस्य॑ स्व॒धावा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “autonomous; independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

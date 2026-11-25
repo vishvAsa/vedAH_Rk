@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 svapán ← √svap- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒त॒म्भ॒रो यज॑मानस्य॒ सत्प॑ति॒र्विश्वा॑सा॒मूधः॒ स धि॒यामु॒दञ्च॑नः ।  
+भर॑द्धे॒नू रस॑वच्छिश्रिये॒ पयो॑ऽनुब्रुवा॒णो अध्ये॑ति॒ न स्व॒पन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “sleep; numb; fall asleep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

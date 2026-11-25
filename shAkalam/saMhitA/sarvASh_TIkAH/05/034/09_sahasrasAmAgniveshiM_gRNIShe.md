@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tásmin ← sá- ~ tá- (pronoun)
 
 tveṣám ← tveṣá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒ह॒स्र॒सामाग्नि॑वेशिं गृणीषे॒ शत्रि॑मग्न उप॒मां के॒तुम॒र्यः ।  
+तस्मा॒ आपः॑ सं॒यतः॑ पीपयन्त॒ तस्मि॑न्क्ष॒त्रमम॑वत्त्वे॒षम॑स्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

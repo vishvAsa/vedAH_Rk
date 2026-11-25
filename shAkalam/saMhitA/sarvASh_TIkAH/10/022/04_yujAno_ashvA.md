@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "पुरस्ताद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ sr̥jānáḥ ← √sr̥j- (root)
 
 stoṣi ← √stu- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒जा॒नो अश्वा॒ वात॑स्य॒ धुनी॑ दे॒वो दे॒वस्य॑ वज्रिवः ।  
+स्यन्ता॑ प॒था वि॒रुक्म॑ता सृजा॒नः स्तो॒ष्यध्व॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
     distance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

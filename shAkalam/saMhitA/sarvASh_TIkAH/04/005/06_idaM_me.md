@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ saptádhātu ← saptádhātu- (nominal stem)
 
 yahvám ← yahvá- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं मे॑ अग्ने॒ किय॑ते पाव॒कामि॑नते गु॒रुं भा॒रं न मन्म॑ ।  
+बृ॒हद्द॑धाथ धृष॒ता ग॑भी॒रं य॒ह्वं पृ॒ष्ठं प्रय॑सा स॒प्तधा॑तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     inorganic compound.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

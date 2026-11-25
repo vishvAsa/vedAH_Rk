@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ vāyúḥ ← vāyú- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रस्तन्नो॒ वरु॑णो॒ रोद॑सी च॒ द्युभ॑क्त॒मिन्द्रो॑ अर्य॒मा द॑दातु ।  
+दिदे॑ष्टु दे॒व्यदि॑ती॒ रेक्णो॑ वा॒युश्च॒ यन्नि॑यु॒वैते॒ भग॑श्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

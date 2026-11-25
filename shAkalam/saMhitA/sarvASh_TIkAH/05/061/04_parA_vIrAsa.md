@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -54,7 +55,12 @@ agnitápaḥ ← agnitáp- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परा॑ वीरास एतन॒ मर्या॑सो॒ भद्र॑जानयः ।  
+अ॒ग्नि॒तपो॒ यथास॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -146,10 +151,6 @@ Go forth, heroes, you young bloods with lucky women,
 so that you will be hot as fire.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The 2nd pl. impv. etana shows an unexpected full-grade root syllable in the Saṃhitā text, but is read with metrically problematic but morphologically “correct” zero-grade in the Pp (itana). Of course, such full-grade 2nd pl. impvs. are found elsewhere, but in this case I wonder if it’s a secondary extraction from forms cmpded with the preverb ā́, as in V.87.8, also a Marut hymn, with pāda-final étana. See also disc. ad VI.42.2.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -160,7 +161,6 @@ simplex, we should presumably resist the temptation to emend.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

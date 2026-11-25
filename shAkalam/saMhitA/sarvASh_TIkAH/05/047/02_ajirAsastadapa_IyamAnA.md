@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिरथ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ pári ← pári (invariable)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒जि॒रास॒स्तद॑प॒ ईय॑माना आतस्थि॒वांसो॑ अ॒मृत॑स्य॒ नाभि॑म् ।  
+अ॒न॒न्तास॑ उ॒रवो॑ वि॒श्वतः॑ सीं॒ परि॒ द्यावा॑पृथि॒वी य॑न्ति॒ पन्थाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “way; road; path \[word\]; journey; method.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

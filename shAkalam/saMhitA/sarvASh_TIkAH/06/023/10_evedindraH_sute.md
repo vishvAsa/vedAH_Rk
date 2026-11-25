@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 viśvávārasya ← viśvávāra- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वेदिन्द्रः॑ सु॒ते अ॑स्तावि॒ सोमे॑ भ॒रद्वा॑जेषु॒ क्षय॒दिन्म॒घोनः॑ ।  
+अस॒द्यथा॑ जरि॒त्र उ॒त सू॒रिरिन्द्रो॑ रा॒यो वि॒श्ववा॑रस्य दा॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

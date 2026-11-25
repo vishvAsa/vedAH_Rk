@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्यु१॒॑षा आ॑वः प॒थ्या॒३॒॑ जना॑नां॒ पञ्च॑ क्षि॒तीर्मानु॑षीर्बो॒धय॑न्ती ।  
+सु॒सं॒दृग्भि॑रु॒क्षभि॑र्भा॒नुम॑श्रे॒द्वि सूर्यो॒ रोद॑सी॒ चक्ष॑सावः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

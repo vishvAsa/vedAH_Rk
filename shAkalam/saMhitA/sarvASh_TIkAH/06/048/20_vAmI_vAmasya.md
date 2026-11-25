@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -71,7 +72,12 @@ vā ← vā (invariable)
 
 prayajyavaḥ ← práyajyu- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒मी वा॒मस्य॑ धूतयः॒ प्रणी॑तिरस्तु सू॒नृता॑ ।  
+दे॒वस्य॑ वा मरुतो॒ मर्त्य॑स्य वेजा॒नस्य॑ प्रयज्यवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - \[noun\], vocative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

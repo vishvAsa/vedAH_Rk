@@ -4,6 +4,7 @@ devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अप्तृणसूर्याः
@@ -71,7 +72,12 @@ alipsata ← √lip- (root)
 
 ní ← ní (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कङ्क॑तो॒ न कङ्क॒तोऽथो॑ सती॒नक॑ङ्कतः ।  
+द्वाविति॒ प्लुषी॒ इति॒ न्य१॒॑दृष्टा॑ अलिप्सत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “smear; tarnish; dirty; anoint; poultice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

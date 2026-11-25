@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अग्निस्तापसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ naḥ ← ahám (pronoun)
 
 rāyáḥ ← rayí- ~ rāy- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र नो॑ यच्छत्वर्य॒मा प्र भगः॒ प्र बृह॒स्पतिः॑ ।  
+प्र दे॒वाः प्रोत सू॒नृता॑ रा॒यो दे॒वी द॑दातु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "यथानिपातं"
 RShiH = "अग्निवरुणसोमानां निहवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यथानिपातं
@@ -89,7 +90,12 @@ máma ← ahám (pronoun)
 
 rāṣṭrásya ← rāṣṭrá- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+निर्मा॑या उ॒ त्ये असु॑रा अभूव॒न्त्वं च॑ मा वरुण का॒मया॑से ।  
+ऋ॒तेन॑ राज॒न्ननृ॑तं विवि॒ञ्चन्मम॑ रा॒ष्ट्रस्याधि॑पत्य॒मेहि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “come; travel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

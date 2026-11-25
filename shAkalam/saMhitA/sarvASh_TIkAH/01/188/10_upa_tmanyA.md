@@ -4,6 +4,7 @@ devataa = "वनस्पतिः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वनस्पतिः
@@ -57,7 +58,12 @@ havyā́ni ← havyá- (nominal stem)
 
 siṣvadat ← √svad- (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॒ त्मन्या॑ वनस्पते॒ पाथो॑ दे॒वेभ्यः॑ सृज ।  
+अ॒ग्निर्ह॒व्यानि॑ सिष्वदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “sweeten.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

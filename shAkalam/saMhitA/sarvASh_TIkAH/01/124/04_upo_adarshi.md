@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -92,7 +93,12 @@ púnar ← púnar (invariable)
 
 śaśvattamā́ ← śaśvattamá- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपो॑ अदर्शि शु॒न्ध्युवो॒ न वक्षो॑ नो॒धा इ॑वा॒विर॑कृत प्रि॒याणि॑ ।  
+अ॒द्म॒सन्न स॑स॒तो बो॒धय॑न्ती शश्वत्त॒मागा॒त्पुन॑रे॒युषी॑णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

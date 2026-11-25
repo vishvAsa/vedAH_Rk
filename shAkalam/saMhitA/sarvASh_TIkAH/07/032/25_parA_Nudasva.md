@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ sákhīnām ← sákhi- (nominal stem)
 
 vr̥dháḥ ← vr̥dhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परा॑ णुदस्व मघवन्न॒मित्रा॑न्त्सु॒वेदा॑ नो॒ वसू॑ कृधि ।  
+अ॒स्माकं॑ बोध्यवि॒ता म॑हाध॒ने भवा॑ वृ॒धः सखी॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

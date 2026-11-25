@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ mādáyasva ← √mad- (root)
 
 vaha ← √vah- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऐभि॑रग्ने स॒रथं॑ याह्य॒र्वाङ्ना॑नार॒थं वा॑ वि॒भवो॒ ह्यश्वाः॑ ।  
+पत्नी॑वतस्त्रिं॒शतं॒ त्रीँश्च॑ दे॒वान॑नुष्व॒धमा व॑ह मा॒दय॑स्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ navyasi ← návyas- (nominal stem)
 
 vavr̥tsva ← √vr̥t- (root)  
 {number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उषः॑ प्रती॒ची भुव॑नानि॒ विश्वो॒र्ध्वा ति॑ष्ठस्य॒मृत॑स्य के॒तुः ।  
+स॒मा॒नमर्थं॑ चरणी॒यमा॑ना च॒क्रमि॑व नव्य॒स्या व॑वृत्स्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

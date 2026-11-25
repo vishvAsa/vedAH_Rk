@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -66,7 +67,12 @@ sujātā́ ← sujātá- (nominal stem)
 
 tánayā ← tánaya- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रा तना॒ न र॒थ्या॒३॒॑ वरु॑णो॒ यश्च॑ सु॒क्रतुः॑ ।  
+स॒नात्सु॑जा॒ता तन॑या धृ॒तव्र॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
     \[word\]; rule; behavior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

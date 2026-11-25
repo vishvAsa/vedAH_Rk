@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ tám ← sá- ~ tá- (pronoun)
 
 vanóṣi ← √vanⁱ- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने॒ यज्य॑वे पा॒युरन्त॑रोऽनिष॒ङ्गाय॑ चतुर॒क्ष इ॑ध्यसे ।  
+यो रा॒तह॑व्योऽवृ॒काय॒ धाय॑से की॒रेश्चि॒न्मन्त्रं॒ मन॑सा व॒नोषि॒ तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     \[word\]; dative; once; same.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

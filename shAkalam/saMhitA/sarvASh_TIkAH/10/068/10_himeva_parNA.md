@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -80,7 +81,12 @@ uccárātaḥ ← √carⁱ- (root)
 
 yā́t ← yā́t (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हि॒मेव॑ प॒र्णा मु॑षि॒ता वना॑नि॒ बृह॒स्पति॑नाकृपयद्व॒लो गाः ।  
+अ॒ना॒नु॒कृ॒त्यम॑पु॒नश्च॑कार॒ यात्सूर्या॒मासा॑ मि॒थ उ॒च्चरा॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “rise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

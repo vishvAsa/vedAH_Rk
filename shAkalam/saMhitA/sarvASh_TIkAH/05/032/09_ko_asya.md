@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गातुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ jihāte ← √hā- 1 (root)
 
 ójasaḥ ← ójas- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को अ॑स्य॒ शुष्मं॒ तवि॑षीं वरात॒ एको॒ धना॑ भरते॒ अप्र॑तीतः ।  
+इ॒मे चि॑दस्य॒ ज्रय॑सो॒ नु दे॒वी इन्द्र॒स्यौज॑सो भि॒यसा॑ जिहाते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “move over; yield; give way.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

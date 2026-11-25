@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ iva ← iva (invariable)
 
 víbhiḥ ← ví- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शमू॒ षु वां॑ मधूयुवा॒स्माक॑मस्तु चर्कृ॒तिः ।  
+अ॒र्वा॒ची॒ना वि॑चेतसा॒ विभिः॑ श्ये॒नेव॑ दीयतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - \[verb\], dual, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

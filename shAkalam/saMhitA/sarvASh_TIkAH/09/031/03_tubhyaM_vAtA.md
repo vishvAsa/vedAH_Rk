@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ te ← tvám (pronoun)
 
 várdhanti ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्यं॒ वाता॑ अभि॒प्रिय॒स्तुभ्य॑मर्षन्ति॒ सिन्ध॑वः ।  
+सोम॒ वर्ध॑न्ति ते॒ महः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “greatness; festival; glory; reward; gladness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

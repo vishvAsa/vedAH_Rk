@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ
@@ -89,7 +90,12 @@ riricáthuḥ ← √ric- (root)
 
 tatr̥dānā́ ← √tr̥d- (root)  
 {case:NOM, gender:F, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा स॒त्यं म॑घवाना यु॒वं तदिन्द्र॑श्च सोमो॒र्वमश्व्यं॒ गोः ।  
+आद॑र्दृत॒मपि॑हिता॒न्यश्ना॑ रिरि॒चथुः॒ क्षाश्चि॑त्ततृदा॒ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - \[verb noun\], nominative, dual
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

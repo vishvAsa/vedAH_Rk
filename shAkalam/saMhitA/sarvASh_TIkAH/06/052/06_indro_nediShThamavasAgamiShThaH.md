@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ suhávaḥ ← suháva- (nominal stem)
 
 suśáṁsaḥ ← suśáṁsa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॒ नेदि॑ष्ठ॒मव॒साग॑मिष्ठः॒ सर॑स्वती॒ सिन्धु॑भिः॒ पिन्व॑माना ।  
+प॒र्जन्यो॑ न॒ ओष॑धीभिर्मयो॒भुर॒ग्निः सु॒शंसः॑ सु॒हवः॑ पि॒तेव॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

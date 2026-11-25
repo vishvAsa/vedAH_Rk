@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -92,7 +93,12 @@ r̥bhavaḥ ← r̥bhú- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न॒श्वो जा॒तो अ॑नभी॒शुरु॒क्थ्यो॒३॒॑ रथ॑स्त्रिच॒क्रः परि॑ वर्तते॒ रजः॑ ।  
+म॒हत्तद्वो॑ दे॒व्य॑स्य प्र॒वाच॑नं॒ द्यामृ॑भवः पृथि॒वीं यच्च॒ पुष्य॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “boom; grow; promote; foster.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

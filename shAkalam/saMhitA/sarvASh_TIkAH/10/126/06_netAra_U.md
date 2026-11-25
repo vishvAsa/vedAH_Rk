@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कुल्मलबर्हिषः शैलूषिरंहोमुग्वा वामदेव्यः"
 ChandaH = "उपरिष्टाद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -78,7 +79,12 @@ rā́jānaḥ ← rā́jan- (nominal stem)
 
 dvíṣaḥ ← dvíṣ- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नेता॑र ऊ॒ षु ण॑स्ति॒रो वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+अति॒ विश्वा॑नि दुरि॒ता राजा॑नश्चर्षणी॒नामति॒ द्विषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “hate; dviṣ; hostility; hostility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ síṣāsantaḥ ← √sanⁱ- (root)
 
 vanāmahe ← √vanⁱ- (root)  
 {number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ ष्टवाम॒ यं गिर॒ इन्द्र॑मु॒क्थानि॑ वावृ॒धुः ।  
+पु॒रूण्य॑स्य॒ पौंस्या॒ सिषा॑सन्तो वनामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “obtain; gain; desire; get; like; love; overcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

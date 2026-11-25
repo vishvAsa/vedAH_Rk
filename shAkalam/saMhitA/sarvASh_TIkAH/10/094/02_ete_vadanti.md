@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -83,7 +84,12 @@ hótuḥ ← hótar- (nominal stem)
 
 pū́rve ← pū́rva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते व॑दन्ति श॒तव॑त्स॒हस्र॑वद॒भि क्र॑न्दन्ति॒ हरि॑तेभिरा॒सभिः॑ ।  
+वि॒ष्ट्वी ग्रावा॑णः सु॒कृतः॑ सुकृ॒त्यया॒ होतु॑श्चि॒त्पूर्वे॑ हवि॒रद्य॑माशत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

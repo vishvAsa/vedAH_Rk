@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ vásu ← vásu- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र हि॑न्वा॒नो ज॑नि॒ता रोद॑स्यो॒ रथो॒ न वाजं॑ सनि॒ष्यन्न॑यासीत् ।  
+इन्द्रं॒ गच्छ॒न्नायु॑धा सं॒शिशा॑नो॒ विश्वा॒ वसु॒ हस्त॑योरा॒दधा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

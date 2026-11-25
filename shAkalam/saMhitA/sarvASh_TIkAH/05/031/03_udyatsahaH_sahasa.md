@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ támaḥ ← támas- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्यत्सहः॒ सह॑स॒ आज॑निष्ट॒ देदि॑ष्ट॒ इन्द्र॑ इन्द्रि॒याणि॒ विश्वा॑ ।  
+प्राचो॑दयत्सु॒दुघा॑ व॒व्रे अ॒न्तर्वि ज्योति॑षा संववृ॒त्वत्तमो॑ऽवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -247,10 +252,6 @@ When he was born as might from might, Indra displayed all his Indrian  powers.
 He impelled forth the good milkers (who were) within the cave; he pried  apart the darkness, which was rolled up in a ball, with light.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner and Witzel Gotō take sáhaḥ as the only subj. of ájaniṣṭa, while I take sáhaḥ as an appositive qualifying the unexpressed subj. índraḥ. Again the difference is minor, but I favor my interpr. because the birth of Indra and the prodigous feats he performs immediately thereafter are frequent topics in the RV.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -264,7 +265,6 @@ In c ékaḥ … apratíḥ “alone (and) unopposable” applies to (the unname
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

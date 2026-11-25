@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -71,7 +72,12 @@ gáve ← gáv- ~ gó- (nominal stem)
 
 yachata ← √yam- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये दे॑वास इ॒ह स्थन॒ विश्वे॑ वैश्वान॒रा उ॒त ।  
+अ॒स्मभ्यं॒ शर्म॑ स॒प्रथो॒ गवेऽश्वा॑य यच्छत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

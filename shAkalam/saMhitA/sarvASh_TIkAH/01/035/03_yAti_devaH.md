@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -86,7 +87,12 @@ duritā́ ← duritá- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+याति॑ दे॒वः प्र॒वता॒ यात्यु॒द्वता॒ याति॑ शु॒भ्राभ्यां॑ यज॒तो हरि॑भ्याम् ।  
+आ दे॒वो या॑ति सवि॒ता प॑रा॒वतोऽप॒ विश्वा॑ दुरि॒ता बाध॑मानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

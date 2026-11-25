@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -98,7 +99,12 @@ sumatíḥ ← sumatí- (nominal stem)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋध॒क्सा वो॑ मरुतो दि॒द्युद॑स्तु॒ यद्व॒ आगः॑ पुरु॒षता॒ करा॑म ।  
+मा व॒स्तस्या॒मपि॑ भूमा यजत्रा अ॒स्मे वो॑ अस्तु सुम॒तिश्चनि॑ष्ठा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -264,7 +270,6 @@ _________
 - “gracious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

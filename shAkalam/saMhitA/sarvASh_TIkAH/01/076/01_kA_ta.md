@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ te ← tvám (pronoun)
 
 vā ← vā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+का त॒ उपे॑ति॒र्मन॑सो॒ वरा॑य॒ भुव॑दग्ने॒ शन्त॑मा॒ का म॑नी॒षा ।  
+को वा॑ य॒ज्ञैः परि॒ दक्षं॑ त आप॒ केन॑ वा ते॒ मन॑सा दाशेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

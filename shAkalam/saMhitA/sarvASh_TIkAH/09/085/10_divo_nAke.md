@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ síndhoḥ ← síndhu- (nominal stem)
 
 ūrmā́ ← ūrmí- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो नाके॒ मधु॑जिह्वा अस॒श्चतो॑ वे॒ना दु॑हन्त्यु॒क्षणं॑ गिरि॒ष्ठाम् ।  
+अ॒प्सु द्र॒प्सं वा॑वृधा॒नं स॑मु॒द्र आ सिन्धो॑रू॒र्मा मधु॑मन्तं प॒वित्र॒ आ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -244,14 +249,6 @@ In the vault of heaven the seekers milk honey-tongued, inexhaustible  (streams) 
 the droplet growing strong in the waters, in the sea, the honeyed one in  the wave of the river, in the filter.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The cosmic/natural and the earthly/ritual double vision is played out simultaneously throughout this vs. In ab the seekers milk the streams “in the vault of heaven” (divó nā́ke) but milk them out of “the mountain-dwelling ox” (ukṣáṇaṃ giristhā́m), the earthly soma plant. In c the drop grows strong not only “in the waters” (apsú), presumably the ritual waters used to swell the plant, but also “in the sea” (samudrá ā́); in d it is both “in the wave of the river” (síndhor ūrmā́) and “in the filter” (pavítra ā́).
-
-On the basis of the shared verb (duhate in 9d, duhanti in 10b) the venā́ḥ here appear to be identical to the subjects of 9d, as suggested above.
-
-Pāda b is identical to IX.73.4. As noted in the comm. thereon, there is good reason to supply “streams” (dhā́rāḥ) as the referent for the pl. adjs. mádhujihvā(ḥ) and asaścátaḥ, which are therefore fem. acc. pl. Curiously Geldner takes the former as nom. pl. m. here, though fem. in 73.4, while Ober (II.13149-50, ) takes them both as nom. pl. m.; Renou tr. as I do.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
 <details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -267,7 +264,6 @@ The two tr. of vená- in 10b ‘seekers’ and 11b ‘trackers’ respectively s
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

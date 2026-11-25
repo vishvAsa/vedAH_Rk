@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "अनुष्टुप्पिपीलिकमध्या"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -72,7 +73,12 @@ r̥ṇayā́ḥ ← r̥ṇayā́- (nominal stem)
 
 tarádhyai ← √tr̥̄- 1 (root)  
 {case:DAT, number:SG, tense:PRS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पर्यू॒ षु प्र ध॑न्व॒ वाज॑सातये॒ परि॑ वृ॒त्राणि॑ स॒क्षणिः॑ ।  
+द्वि॒षस्त॒रध्या॑ ऋण॒या न॑ ईयसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

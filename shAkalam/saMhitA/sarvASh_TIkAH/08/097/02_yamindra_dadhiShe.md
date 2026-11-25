@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ tám ← sá- ~ tá- (pronoun)
 
 tásmin ← sá- ~ tá- (pronoun)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यमि॑न्द्र दधि॒षे त्वमश्वं॒ गां भा॒गमव्य॑यम् ।  
+यज॑माने सुन्व॒ति दक्षि॑णावति॒ तस्मि॒न्तं धे॑हि॒ मा प॒णौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “niggard; paṇ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

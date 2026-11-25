@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "महासतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -97,7 +98,12 @@ aruṣáḥ ← aruṣá- (nominal stem)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यः प॒प्रौ भा॒नुना॒ रोद॑सी उ॒भे धू॒मेन॑ धावते दि॒वि ।  
+ति॒रस्तमो॑ ददृश॒ ऊर्म्या॒स्वा श्या॒वास्व॑रु॒षो वृषा श्या॒वा अ॑रु॒षो वृषा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “bull; Indra; stallion; Vṛṣan; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

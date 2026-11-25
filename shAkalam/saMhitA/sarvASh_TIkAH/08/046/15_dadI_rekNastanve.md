@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "ककुम्न्यङ्कुशिरा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ vājínam ← vājín- (nominal stem)
 
 nūnám ← nūnám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒दी रेक्ण॑स्त॒न्वे॑ द॒दिर्वसु॑ द॒दिर्वाजे॑षु पुरुहूत वा॒जिन॑म् ।  
+नू॒नमथ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “now; then; furthermore; now; then.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

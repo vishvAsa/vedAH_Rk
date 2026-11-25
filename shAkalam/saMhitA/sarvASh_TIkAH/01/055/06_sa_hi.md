@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sr̥jat ← √sr̥j- (root)
 
 sukrátuḥ ← sukrátu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि श्र॑व॒स्युः सद॑नानि कृ॒त्रिमा॑ क्ष्म॒या वृ॑धा॒न ओज॑सा विना॒शय॑न् ।  
+ज्योतीं॑षि कृ॒ण्वन्न॑वृ॒काणि॒ यज्य॒वेऽव॑ सु॒क्रतुः॒ सर्त॒वा अ॒पः सृ॑जत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     use; be born; make.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

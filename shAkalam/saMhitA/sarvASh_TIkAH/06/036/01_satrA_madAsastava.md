@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ dhāráyathāḥ ← √dhr̥- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒त्रा मदा॑स॒स्तव॑ वि॒श्वज॑न्याः स॒त्रा रायोऽध॒ ये पार्थि॑वासः ।  
+स॒त्रा वाजा॑नामभवो विभ॒क्ता यद्दे॒वेषु॑ धा॒रय॑था असु॒र्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “dignity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

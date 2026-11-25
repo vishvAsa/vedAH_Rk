@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ naḥ ← ahám (pronoun)
 
 uruṣyatam ← √uruṣy- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न यः स॒म्पृच्छे॒ न पुन॒र्हवी॑तवे॒ न सं॑वा॒दाय॒ रम॑ते ।  
+तस्मा॑न्नो अ॒द्य समृ॑तेरुरुष्यतं बा॒हुभ्यां॑ न उरुष्यतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “protect; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

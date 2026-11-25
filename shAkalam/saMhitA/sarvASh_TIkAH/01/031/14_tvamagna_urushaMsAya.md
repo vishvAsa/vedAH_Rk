@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ prá ← prá (invariable)
 
 vidúṣṭaraḥ ← vidúṣṭara- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्न उरु॒शंसा॑य वा॒घते॑ स्पा॒र्हं यद्रेक्णः॑ पर॒मं व॒नोषि॒ तत् ।  
+आ॒ध्रस्य॑ चि॒त्प्रम॑तिरुच्यसे पि॒ता प्र पाकं॒ शास्सि॒ प्र दिशो॑ वि॒दुष्ट॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

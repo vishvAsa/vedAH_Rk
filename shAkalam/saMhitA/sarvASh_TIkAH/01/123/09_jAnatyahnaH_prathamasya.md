@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ yóṣā ← yóṣā- (nominal stem)
 
 niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जा॒न॒त्यह्नः॑ प्रथ॒मस्य॒ नाम॑ शु॒क्रा कृ॒ष्णाद॑जनिष्ट श्विती॒ची ।  
+ऋ॒तस्य॒ योषा॒ न मि॑नाति॒ धामाह॑रहर्निष्कृ॒तमा॒चर॑न्ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     heed; treat; act; produce; behave; put on; do; undertake.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

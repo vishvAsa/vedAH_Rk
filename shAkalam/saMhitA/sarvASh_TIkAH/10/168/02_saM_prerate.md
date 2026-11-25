@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "अनिलो वातायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -95,7 +96,12 @@ rā́jā ← rā́jan- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं प्रेर॑ते॒ अनु॒ वात॑स्य वि॒ष्ठा ऐनं॑ गच्छन्ति॒ सम॑नं॒ न योषाः॑ ।  
+ताभिः॑ स॒युक्स॒रथं॑ दे॒व ई॑यते॒ऽस्य विश्व॑स्य॒ भुव॑नस्य॒ राजा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

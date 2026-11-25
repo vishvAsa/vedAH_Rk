@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -98,7 +99,12 @@ ní ← ní (invariable)
 
 yachatam ← √yam- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्वाङ्न॑रा॒ दैव्ये॒नाव॒सा ग॑तं शृणु॒तं हवं॒ यदि॑ मे॒ जुजो॑षथः ।  
+यु॒वोर्हि स॒ख्यमु॒त वा॒ यदाप्यं॑ मार्डी॒कमि॑न्द्रावरुणा॒ नि य॑च्छतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

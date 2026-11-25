@@ -4,6 +4,7 @@ devataa = "इन्द्रः (मरुतः)"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (मरुतः)
@@ -89,7 +90,12 @@ prapitvā́t ← prapitvá- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्रु॒हो निष॑त्ता पृश॒नी चि॒देवैः॑ पु॒रू शंसे॑न वावृधु॒ष्ट इन्द्र॑म् ।  
+अ॒भीवृ॑तेव॒ ता म॑हाप॒देन॑ ध्वा॒न्तात्प्र॑पि॒त्वादुद॑रन्त॒ गर्भाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     inside; hole; baby; calyx; midst.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

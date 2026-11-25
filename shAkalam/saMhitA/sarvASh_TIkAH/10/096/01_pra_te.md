@@ -4,6 +4,7 @@ devataa = "हरिस्तुतिः"
 RShiH = "बरुः सर्वहरिर्वैन्द्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हरिस्तुतिः
@@ -101,7 +102,12 @@ tvā ← tvám (pronoun)
 
 viśantu ← √viś- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॑ म॒हे वि॒दथे॑ शंसिषं॒ हरी॒ प्र ते॑ वन्वे व॒नुषो॑ हर्य॒तं मद॑म् ।  
+घृ॒तं न यो हरि॑भि॒श्चारु॒ सेच॑त॒ आ त्वा॑ विशन्तु॒ हरि॑वर्पसं॒ गिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -260,7 +266,6 @@ _________
     language.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हरिमन्तः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ paripríyaḥ ← pariprī́- (nominal stem)
 
 puruṣṭutásya ← puruṣṭutá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हरिं॑ मृजन्त्यरु॒षो न यु॑ज्यते॒ सं धे॒नुभिः॑ क॒लशे॒ सोमो॑ अज्यते ।  
+उद्वाच॑मी॒रय॑ति हि॒न्वते॑ म॒ती पु॑रुष्टु॒तस्य॒ कति॑ चित्परि॒प्रियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

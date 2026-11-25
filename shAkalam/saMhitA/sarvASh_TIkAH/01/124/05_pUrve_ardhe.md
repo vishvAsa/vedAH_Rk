@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ ubhā́ ← ubhá- (pronoun)
 
 upásthā ← upástha- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पूर्वे॒ अर्धे॒ रज॑सो अ॒प्त्यस्य॒ गवां॒ जनि॑त्र्यकृत॒ प्र के॒तुम् ।  
+व्यु॑ प्रथते वित॒रं वरी॑य॒ ओभा पृ॒णन्ती॑ पि॒त्रोरु॒पस्था॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “genitalia; lap; sexual desire; anus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

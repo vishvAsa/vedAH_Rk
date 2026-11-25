@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -60,7 +61,12 @@ niyútvān ← niyútvant- (nominal stem)
 
 sómapītaye ← sómapīti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वायो॒ ये ते॑ सह॒स्रिणो॒ रथा॑स॒स्तेभि॒रा ग॑हि ।  
+नि॒युत्वा॒न्त्सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -173,7 +178,6 @@ O Vāyu, the chariots in thousands that are yours—with them come here, you wit
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -181,7 +185,6 @@ This tṛca is characterized by lexical chaining. The first pāda of vs. 2 repri
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

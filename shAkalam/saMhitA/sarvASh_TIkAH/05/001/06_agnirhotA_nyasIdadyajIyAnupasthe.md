@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "बुधगविष्ठिरावात्रेयौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ mádhye ← mádhya- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्होता॒ न्य॑सीद॒द्यजी॑यानु॒पस्थे॑ मा॒तुः सु॑र॒भा उ॑ लो॒के ।  
+युवा॑ क॒विः पु॑रुनि॒ष्ठ ऋ॒तावा॑ ध॒र्ता कृ॑ष्टी॒नामु॒त मध्य॑ इ॒द्धः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “kindle; ignite; set ablaze.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

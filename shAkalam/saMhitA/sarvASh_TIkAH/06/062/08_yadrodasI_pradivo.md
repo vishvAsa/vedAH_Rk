@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ rakṣoyúje ← rakṣoyúj- (nominal stem)
 
 tápuḥ ← tápus- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्रो॑दसी प्र॒दिवो॒ अस्ति॒ भूमा॒ हेळो॑ दे॒वाना॑मु॒त म॑र्त्य॒त्रा ।  
+तदा॑दित्या वसवो रुद्रियासो रक्षो॒युजे॒ तपु॑र॒घं द॑धात ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

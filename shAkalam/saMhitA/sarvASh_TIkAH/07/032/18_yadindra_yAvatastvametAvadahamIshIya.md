@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ pāpatvā́ya ← pāpatvá- (nominal stem)
 
 rāsīya ← √rā- 1 (root)  
 {number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑न्द्र॒ याव॑त॒स्त्वमे॒ताव॑द॒हमीशी॑य ।  
+स्तो॒तार॒मिद्दि॑धिषेय रदावसो॒ न पा॑प॒त्वाय॑ रासीय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “give; impart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

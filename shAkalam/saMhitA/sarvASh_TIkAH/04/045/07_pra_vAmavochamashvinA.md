@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ havíṣmantam ← havíṣmant- (nominal stem)
 
 taráṇim ← taráṇi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वा॑मवोचमश्विना धियं॒धा रथः॒ स्वश्वो॑ अ॒जरो॒ यो अस्ति॑ ।  
+येन॑ स॒द्यः परि॒ रजां॑सि या॒थो ह॒विष्म॑न्तं त॒रणिं॑ भो॒जमच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

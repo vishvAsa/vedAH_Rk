@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मन्युर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ várivaḥ ← várivas- (nominal stem)
 
 vr̥jánasya ← vr̥jána- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दु॑र्वा॒जी प॑वते॒ गोन्यो॑घा॒ इन्द्रे॒ सोमः॒ सह॒ इन्व॒न्मदा॑य ।  
+हन्ति॒ रक्षो॒ बाध॑ते॒ पर्यरा॑ती॒र्वरि॑वः कृ॒ण्वन्वृ॒जन॑स्य॒ राजा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -243,15 +248,6 @@ The prizewinning drop purifies himself, bringing cows down in flood— Soma stim
 He smashes demonic force; he deflects hostilities, making wide space as  king of the community.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The sense and derivation of gó-nyoghas- are disputed. Geldner tr. “der die Kühe würdigt” and tentatively connects the 2nd member with what he cites as ny òhate in V.52.11. I do not construe ní with ohate in that passage (see comm. ad loc.), in part because √uh does not otherwise appear with ní. The sense he attributes to the cmpd is also rather jarring. He is followed in both sense (“respectant les vaches”) and derivation by Renou, who adds to the dossier of parallels I.180.5 gór óheṇa, which, however, is too riddled with uncertainties (see comm. ad loc.) to provide good evidence. By contrast Oldenberg considers BR’s conjectured emendation *gó-nyokas- ‘accustomed to cows’ (?—he doesn’t gloss) very likely. He rejects the view that the cmpd as transmitted contains an s-stem oghas- ‘flood’, related to later Vedic ogha-, aughá- ‘flood’ (even though he states that if we stick with the transmitted text he would tr. “auf den die Kuh(milch) hernieder flutet”). This dismissal of a potential
-
-*oghas- is shared by Mayr (EWA s.v. ogha-): “RV 9,97,10 gónyoghas- ist nicht für
-ein ved. *oghas- ‘Strömung’ verwertbar.” Mayr instead tentatively follows the Geldner/Renou interpr. (s.v. OH), “vielleicht ‘die Kühe preisend’ od. dgl.” I am puzzled by this blanket rejection, esp. from Mayr, who cites (s.v. ogha-) with approbation Narten’s positing (YH 221) of an Indo-Iranian root √*uag̯ h ‘fliessen’, found in ogha-, aughá-.
-
-Admittedly, there is no independently attested s-stem *óghas-. But consider the semantically and morphologically parallel gó-arṇas- (4x) ‘having a flood of cows’, with the well-attested s-stem árṇas- ‘flood’. It is easy (at least for me) to imagine that an s-stem *óghas- was coined in analogy to árṇas- for just this cmpd.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -261,7 +257,6 @@ All three vss. contain a hemistich beginning índuḥ (10a, 11c, 12c); the verb 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

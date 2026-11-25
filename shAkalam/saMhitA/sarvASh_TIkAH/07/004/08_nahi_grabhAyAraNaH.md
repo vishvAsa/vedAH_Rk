@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ návyaḥ ← návya- (nominal stem)
 
 vājī́ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि ग्रभा॒यार॑णः सु॒शेवो॒ऽन्योद॑र्यो॒ मन॑सा॒ मन्त॒वा उ॑ ।  
+अधा॑ चि॒दोकः॒ पुन॒रित्स ए॒त्या नो॑ वा॒ज्य॑भी॒षाळे॑तु॒ नव्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “new; fresh.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

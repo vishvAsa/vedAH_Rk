@@ -4,6 +4,7 @@ devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मन्युः
@@ -77,7 +78,12 @@ prá ← prá (invariable)
 
 yantu ← √i- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वया॑ मन्यो स॒रथ॑मारु॒जन्तो॒ हर्ष॑माणासो धृषि॒ता म॑रुत्वः ।  
+ति॒ग्मेष॑व॒ आयु॑धा सं॒शिशा॑ना अ॒भि प्र य॑न्तु॒ नरो॑ अ॒ग्निरू॑पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     vision.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ vā ← vā (invariable)
 
 víprāsaḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मो॒हे वा॒ य आश॑त॒ नर॑स्तो॒कस्य॒ सनि॑तौ ।  
+विप्रा॑सो वा धिया॒यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “thoughtful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

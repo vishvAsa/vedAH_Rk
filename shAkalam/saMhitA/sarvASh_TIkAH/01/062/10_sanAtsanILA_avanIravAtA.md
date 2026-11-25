@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ duvasyánti ← √duvasy- (root)
 
 svásāraḥ ← svásar- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒नात्सनी॑ळा अ॒वनी॑रवा॒ता व्र॒ता र॑क्षन्ते अ॒मृताः॒ सहो॑भिः ।  
+पु॒रू स॒हस्रा॒ जन॑यो॒ न पत्नी॑र्दुव॒स्यन्ति॒ स्वसा॑रो॒ अह्र॑याणम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “audacious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

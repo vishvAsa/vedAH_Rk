@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ sakŕ̥t ← sakŕ̥t (invariable)
 
 ū́dhar ← ū́dhar- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वपु॒र्नु तच्चि॑कि॒तुषे॑ चिदस्तु समा॒नं नाम॑ धे॒नु पत्य॑मानम् ।  
+मर्ते॑ष्व॒न्यद्दो॒हसे॑ पी॒पाय॑ स॒कृच्छु॒क्रं दु॑दुहे॒ पृश्नि॒रूधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “udder; ūdhas \[word\]; night.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

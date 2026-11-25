@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उशना काव्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ rátham ← rátha- (nominal stem)
 
 védyam ← védya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रेष्ठं॑ वो॒ अति॑थिं स्तु॒षे मि॒त्रमि॑व प्रि॒यम् ।  
+अ॒ग्निं रथं॒ न वेद्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

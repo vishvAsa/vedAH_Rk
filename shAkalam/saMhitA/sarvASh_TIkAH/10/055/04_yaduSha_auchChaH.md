@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ mahát ← mahā́nt- (nominal stem)
 
 mahatyā́ḥ ← mahā́nt- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदु॑ष॒ औच्छः॑ प्रथ॒मा वि॒भाना॒मज॑नयो॒ येन॑ पु॒ष्टस्य॑ पु॒ष्टम् ।  
+यत्ते॑ जामि॒त्वमव॑रं॒ पर॑स्या म॒हन्म॑ह॒त्या अ॑सुर॒त्वमेक॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     consistent; any(a); undifferentiated; disjunct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

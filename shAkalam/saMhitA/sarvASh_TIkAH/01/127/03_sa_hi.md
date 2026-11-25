@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -122,7 +123,13 @@ dhanvāsáhā ← dhanvāsáh- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि पु॒रू चि॒दोज॑सा वि॒रुक्म॑ता॒ दीद्या॑नो॒ भव॑ति द्रुहन्त॒रः प॑र॒शुर्न द्रु॑हन्त॒रः ।  
+वी॒ळु चि॒द्यस्य॒ समृ॑तौ॒ श्रुव॒द्वने॑व॒ यत्स्थि॒रम् ।  
+निः॒षह॑माणो यमते॒ नाय॑ते धन्वा॒सहा॒ नाय॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -304,7 +311,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

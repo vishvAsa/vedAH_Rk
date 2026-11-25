@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ kát ← ká- (pronoun)
 
 kát ← ká- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था ह॒ तद्वरु॑णाय॒ त्वम॑ग्ने क॒था दि॒वे ग॑र्हसे॒ कन्न॒ आगः॑ ।  
+क॒था मि॒त्राय॑ मी॒ळ्हुषे॑ पृथि॒व्यै ब्रवः॒ कद॑र्य॒म्णे कद्भगा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     well-being; happiness; overlord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -266,10 +271,6 @@ How will you speak to Mitra the rewarder, to Earth? What to
 Aryaman, to Fortune?
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The last pāda would be more accurately rendered “What to Aryaman, what to Fortune?”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
 <details><summary><h2>05-08 ...{Loading}...</h2></summary>
 
@@ -281,7 +282,6 @@ Although we might have expected the Sun here, because he serves as the Ādityas�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

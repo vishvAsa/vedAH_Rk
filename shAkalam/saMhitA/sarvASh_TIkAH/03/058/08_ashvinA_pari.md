@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ sadyás ← sadyás (invariable)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वि॑ना॒ परि॑ वा॒मिषः॑ पुरू॒चीरी॒युर्गी॒र्भिर्यत॑माना॒ अमृ॑ध्राः ।  
+रथो॑ ह वामृत॒जा अद्रि॑जूतः॒ परि॒ द्यावा॑पृथि॒वी या॑ति स॒द्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “immediately; just; daily; sadyas \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

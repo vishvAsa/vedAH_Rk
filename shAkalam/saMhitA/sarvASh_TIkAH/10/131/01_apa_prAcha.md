@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकीर्तिः काक्षीवतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ uraú ← urú- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप॒ प्राच॑ इन्द्र॒ विश्वाँ॑ अ॒मित्रा॒नपापा॑चो अभिभूते नुदस्व ।  
+अपोदी॑चो॒ अप॑ शूराध॒राच॑ उ॒रौ यथा॒ तव॒ शर्म॒न्मदे॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

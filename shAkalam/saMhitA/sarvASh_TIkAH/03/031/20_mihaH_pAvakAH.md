@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ makṣū́-makṣu ← makṣú- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मिहः॑ पाव॒काः प्रत॑ता अभूवन्त्स्व॒स्ति नः॑ पिपृहि पा॒रमा॑साम् ।  
+इन्द्र॒ त्वं र॑थि॒रः पा॑हि नो रि॒षो म॒क्षूम॑क्षू कृणुहि गो॒जितो॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -265,10 +270,6 @@ The far-extended mists have just become clear; carry us across to the  edge of t
 O Indra, as charioteer protect us from harm. Quickly, quickly make us  winners of cows.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The mists are probably in part metaphorical -- menacing threats and mental darkness -- but may also refer physically to morning mists, which are clearing as the dawn sacrifice begins. Note also that pāda-initial míhaḥ is a mirror image of máhi, which opens so many pādas in this hymn (see comm. ad 12b).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/19-20.md">
 <details><summary><h2>19-20 ...{Loading}...</h2></summary>
 
@@ -276,7 +277,6 @@ Note the echo of 19d #s ú vaś ca naḥ in 20b s u vastí naḥ.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

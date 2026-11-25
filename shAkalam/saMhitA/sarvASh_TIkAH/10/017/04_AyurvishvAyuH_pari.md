@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -95,7 +96,12 @@ tátra ← tátra (invariable)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आयु॑र्वि॒श्वायुः॒ परि॑ पासति त्वा पू॒षा त्वा॑ पातु॒ प्रप॑थे पु॒रस्ता॑त् ।  
+यत्रास॑ते सु॒कृतो॒ यत्र॒ ते य॒युस्तत्र॑ त्वा दे॒वः स॑वि॒ता द॑धातु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

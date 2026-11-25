@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -72,7 +73,12 @@ sahásrapāthāḥ ← sahásrapāthas- (nominal stem)
 
 saméti ← √i- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सेद॒ग्निर॒ग्नीँरत्य॑स्त्व॒न्यान्यत्र॑ वा॒जी तन॑यो वी॒ळुपा॑णिः ।  
+स॒हस्र॑पाथा अ॒क्षरा॑ स॒मेति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “meet.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

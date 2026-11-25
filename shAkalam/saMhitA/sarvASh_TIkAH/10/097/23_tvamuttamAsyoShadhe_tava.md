@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -74,7 +75,12 @@ asmā́n ← ahám (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमु॑त्त॒मास्यो॑षधे॒ तव॑ वृ॒क्षा उप॑स्तयः ।  
+उप॑स्तिरस्तु॒ सो॒३॒॑ऽस्माकं॒ यो अ॒स्माँ अ॑भि॒दास॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “threaten; endanger.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

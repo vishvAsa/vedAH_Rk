@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ evá ← evá (invariable)
 
 kāṇvásya ← kāṇvá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒द्य वां॑ नासत्यो॒क्थैरा॑चुच्युवी॒महि॑ ।  
+यद्वा॒ वाणी॑भिरश्विने॒वेत्का॒ण्वस्य॑ बोधतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
     attend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -200,10 +205,6 @@ or with our voices, o Aśvins, even so, take note only of the son
 of Kaṇva.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The last pāda of the verse (d) is identical with the last pāda of vs. 3 (c), but the point is very different. In vs. 3 the poet asks the Aśvins to pay attention only to him despite the activities of other poets; here it’s “we” who are moving the Aśvins, but the poet still asks for their exclusive attention. Given the constant interchange between 1st singular and plural in ritual situations, I find it difficult to think that the poet is trying to distance himself from his priestly comrades and get the Aśvins all to himself. But I don’t have a good explanation.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/009/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -215,7 +216,6 @@ has full grade in some kind of imitation of the full grade of act. 3rd pl. imper
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

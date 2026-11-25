@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ jyotī́ratham ← jyotī́ratha- (nominal stem)
 
 tamohánam ← tamohán- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वे॒दि॒षदे॑ प्रि॒यधा॑माय सु॒द्युते॑ धा॒सिमि॑व॒ प्र भ॑रा॒ योनि॑म॒ग्नये॑ ।  
+वस्त्रे॑णेव वासया॒ मन्म॑ना॒ शुचिं॑ ज्यो॒तीर॑थं शु॒क्रव॑र्णं तमो॒हन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “killing; curative; destroying; removing; māraka; stabbing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

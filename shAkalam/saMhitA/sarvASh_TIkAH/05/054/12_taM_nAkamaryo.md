@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ sváranti ← √svar- (root)
 
 vítatam ← √tan- (root)  
 {case:ACC, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं नाक॑म॒र्यो अगृ॑भीतशोचिषं॒ रुश॒त्पिप्प॑लं मरुतो॒ वि धू॑नुथ ।  
+सम॑च्यन्त वृ॒जनाति॑त्विषन्त॒ यत्स्वर॑न्ति॒ घोषं॒ वित॑तमृता॒यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

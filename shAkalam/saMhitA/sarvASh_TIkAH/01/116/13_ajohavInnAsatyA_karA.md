@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ aśvinau ← aśvín- (nominal stem)
 
 híraṇyahastam ← híraṇyahasta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अजो॑हवीन्नासत्या क॒रा वां॑ म॒हे याम॑न्पुरुभुजा॒ पुरं॑धिः ।  
+श्रु॒तं तच्छासु॑रिव वध्रिम॒त्या हिर॑ण्यहस्तमश्विनावदत्तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

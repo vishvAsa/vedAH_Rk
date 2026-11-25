@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -101,7 +102,12 @@ karté ← kartá- (nominal stem)
 
 vidhyati ← √vyadh- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॑ गो॒पा न दभा॑य सु॒क्रतु॒स्त्री ष प॒वित्रा॑ हृ॒द्य१॒॑न्तरा द॑धे ।  
+वि॒द्वान्त्स विश्वा॒ भुव॑ना॒भि प॑श्य॒त्यवाजु॑ष्टान्विध्यति क॒र्ते अ॑व्र॒तान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -256,7 +262,6 @@ _________
 - “disobedient; evil.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ aśvinā ← aśvín- (nominal stem)
 
 samudré ← samudrá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मा॒नयो॑जनो॒ हि वां॒ रथो॑ दस्रा॒वम॑र्त्यः ।  
+स॒मु॒द्रे अ॑श्वि॒नेय॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

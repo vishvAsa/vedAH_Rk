@@ -4,6 +4,7 @@ devataa = "उर्वशी"
 RShiH = "पुरूरवा ऐळः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उर्वशी
@@ -92,7 +93,12 @@ dī́dayat ← √dī- 1 (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒दा सू॒नुः पि॒तरं॑ जा॒त इ॑च्छाच्च॒क्रन्नाश्रु॑ वर्तयद्विजा॒नन् ।  
+को दम्प॑ती॒ सम॑नसा॒ वि यू॑यो॒दध॒ यद॒ग्निः श्वशु॑रेषु॒ दीद॑यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “shine; glitter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ sma ← sma (invariable)
 
 vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं चि॒द्धि वां॑ जरि॒तारः॑ स॒त्या वि॑प॒न्याम॑हे॒ वि प॒णिर्हि॒तावा॑न् ।  
+अधा॑ चि॒द्धि ष्मा॑श्विनावनिन्द्या पा॒थो हि ष्मा॑ वृषणा॒वन्ति॑देवम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -261,12 +266,6 @@ Since we, your trusty singers, are expressing our admiration for you, the  nigga
 And since, o Aśvins, (you are) irreproachable, because you protect (the  man) who has the gods nearby, o bulls,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The nonce verbal form vipanyā́mahe has attracted a remarkable amount of discussion; for a detailed and clear summary see Kulikov (-ya-presents, 143-46), though his passive/reciprocal interpr. I cannot follow. Insofar as there has been a standard analysis of it, it has been as a passive to √pan ‘admire’ (Wh Rts, reflected in Geldner’s tr.), but other root associations and morphological analyses abound, which I will not discuss further. It belongs with a group of other, better-attested formations: fem. noun vipanyā́- and adj. vipanyú-, which I take as ‘admiration’ and ‘seeking/expressing admiration’ respectively. (This point was made forcefully by Thieme in Fs. Risch [1986: 165-66], though I do not follow his ultimately etymology.) (For a similar system, cf. vasūyá-(ti), vasūyā́-, vasūyú-.) I take vipanyā́mahe as a denominative -yá-verb associated with these nominal forms, derived from the root √pan (in my view); it is transitive in value and takes vām as object. With Thieme (an analysis fld. by subsequent interpr. Kulikov Witzel Gotō), I take the last part of pāda b, ví paṇír hitā́vān, as a separate nominal clause, but unlike these interpr. I take it as the main clause attached to the causal clause beginning in pāda a.
-
-The phonological play of vipan(yā́mahe) ví paṇ(ír) clearly contributed to the word choice here, as Kulikov also notes. As for the sense of this hemistich, it simply rephrases the purport of vs. 6: because we singers are doing our job in the ritual economy by praising the gods, our patron is being generous to us and cannot be labeled a ‘niggard’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/180/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -278,7 +277,6 @@ With the standard tr. I take anindyā in 7c as a predicted voc., with c and d se
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

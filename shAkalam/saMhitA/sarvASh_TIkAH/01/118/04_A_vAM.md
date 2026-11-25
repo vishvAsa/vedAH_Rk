@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ práyaḥ ← práyas- (nominal stem)
 
 váhanti ← √vah- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॑ श्ये॒नासो॑ अश्विना वहन्तु॒ रथे॑ यु॒क्तास॑ आ॒शवः॑ पतं॒गाः ।  
+ये अ॒प्तुरो॑ दि॒व्यासो॒ न गृध्रा॑ अ॒भि प्रयो॑ नासत्या॒ वह॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

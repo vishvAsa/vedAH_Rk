@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -62,7 +63,12 @@ dhenūnā́m ← dhenú- (nominal stem)
 
 iṣudhyasi ← √iṣudhy- (root)  
 {number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒दं व॒ ओद॑तीनां न॒दं योयु॑वतीनाम् ।  
+पतिं॑ वो॒ अघ्न्या॑नां धेनू॒नामि॑षुध्यसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "आस्तारपङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ svadhā́bhiḥ ← svadhā́- (nominal stem)
 
 yā́ ← yá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ययो॒रधि॒ प्र य॒ज्ञा अ॑सू॒रे सन्ति॑ सू॒रयः॑ ।  
+ता य॒ज्ञस्या॑ध्व॒रस्य॒ प्रचे॑तसा स्व॒धाभि॒र्या पिब॑तः सो॒म्यं मधु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

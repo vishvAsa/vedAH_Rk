@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ pūrúm ← pūrú- (nominal stem)
 
 vidáthe ← vidátha- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि स॒द्यो विश्वा॑ दृंहि॒तान्ये॑षा॒मिन्द्रः॒ पुरः॒ सह॑सा स॒प्त द॑र्दः ।  
+व्यान॑वस्य॒ तृत्स॑वे॒ गयं॑ भा॒ग्जेष्म॑ पू॒रुं वि॒दथे॑ मृ॒ध्रवा॑चम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “abusive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

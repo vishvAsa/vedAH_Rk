@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ mahā́n ← mahā́nt- (nominal stem)
 
 yúvajāniḥ ← yúvajāni- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओ षु प्र या॑हि॒ वाजे॑भि॒र्मा हृ॑णीथा अ॒भ्य१॒॑स्मान् ।  
+म॒हाँ इ॑व॒ युव॑जानिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “wife.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

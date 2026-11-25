@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ yáḥ ← yá- (pronoun)
 
 yásya ← yá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष द्र॒प्सो वृ॑ष॒भो वि॒श्वरू॑प॒ इन्द्रा॑य॒ वृष्णे॒ सम॑कारि॒ सोमः॑ ।  
+ए॒तं पि॑ब हरिवः स्थातरुग्र॒ यस्येशि॑षे प्र॒दिवि॒ यस्ते॒ अन्न॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

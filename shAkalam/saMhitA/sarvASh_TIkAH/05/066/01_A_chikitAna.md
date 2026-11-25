@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "रातहव्य आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -65,7 +66,12 @@ mahé ← máh- (nominal stem)
 
 práyase ← práyas- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ चि॑कितान सु॒क्रतू॑ दे॒वौ म॑र्त रि॒शाद॑सा ।  
+वरु॑णाय ऋ॒तपे॑शसे दधी॒त प्रय॑से म॒हे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “great; great; distinguished; much(a); adult; long; high.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -104,7 +105,12 @@ kám ← ká- (pronoun)
 
 stavāma ← √stu- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सु स्तोमं॑ भरत वाज॒यन्त॒ इन्द्रा॑य स॒त्यं यदि॑ स॒त्यमस्ति॑ ।  
+नेन्द्रो॑ अ॒स्तीति॒ नेम॑ उ त्व आह॒ क ईं॑ ददर्श॒ कम॒भि ष्ट॑वाम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -265,7 +271,6 @@ _________
 - “laud; praise; declare; stu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -98,7 +99,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आग॑न्दे॒व ऋ॒तुभि॒र्वर्ध॑तु॒ क्षयं॒ दधा॑तु नः सवि॒ता सु॑प्र॒जामिष॑म् ।  
+स नः॑ क्ष॒पाभि॒रह॑भिश्च जिन्वतु प्र॒जाव॑न्तं र॒यिम॒स्मे समि॑न्वतु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “bring; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

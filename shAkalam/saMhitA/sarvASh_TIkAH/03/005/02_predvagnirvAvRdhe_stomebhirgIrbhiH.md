@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ uṣásaḥ ← uṣás- (nominal stem)
 
 viroké ← viroká- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रेद्व॒ग्निर्वा॑वृधे॒ स्तोमे॑भिर्गी॒र्भिः स्तो॑तॄ॒णां न॑म॒स्य॑ उ॒क्थैः ।  
+पू॒र्वीरृ॒तस्य॑ सं॒दृश॑श्चका॒नः सं दू॒तो अ॑द्यौदु॒षसो॑ विरो॒के ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

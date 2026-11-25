@@ -4,6 +4,7 @@ devataa = "उषासानक्ता"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषासानक्ता
@@ -68,7 +69,12 @@ sī́datām ← √sad- (root)
 
 sumát ← sumát ~ smat- (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ भन्द॑माने॒ उपा॑के॒ नक्तो॒षासा॑ सु॒पेश॑सा ।  
+य॒ह्वी ऋ॒तस्य॑ मा॒तरा॒ सीद॑तां ब॒र्हिरा सु॒मत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “together.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

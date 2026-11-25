@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ pitré ← pitár- (nominal stem)
 
 vibhukrátum ← vibhukrátu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्भ॒को न कु॑मार॒कोऽधि॑ तिष्ठ॒न्नवं॒ रथ॑म् ।  
+स प॑क्षन्महि॒षं मृ॒गं पि॒त्रे मा॒त्रे वि॑भु॒क्रतु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

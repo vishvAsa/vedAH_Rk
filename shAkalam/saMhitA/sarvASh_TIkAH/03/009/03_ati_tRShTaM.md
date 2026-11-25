@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ sakhyé ← sakhyá- (nominal stem)
 
 yéṣām ← yá- (pronoun)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अति॑ तृ॒ष्टं व॑वक्षि॒थाथै॒व सु॒मना॑ असि ।  
+प्रप्रा॒न्ये यन्ति॒ पर्य॒न्य आ॑सते॒ येषां॑ स॒ख्ये असि॑ श्रि॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

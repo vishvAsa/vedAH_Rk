@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ víśvā ← víśva- (nominal stem)
 
 vr̥trám ← vr̥trá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिबा॒ सोम॑म॒भि यमु॑ग्र॒ तर्द॑ ऊ॒र्वं गव्यं॒ महि॑ गृणा॒न इ॑न्द्र ।  
+वि यो धृ॑ष्णो॒ वधि॑षो वज्रहस्त॒ विश्वा॑ वृ॒त्रम॑मि॒त्रिया॒ शवो॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -251,15 +256,6 @@ Drink the soma! The cattle enclosure that you will drill through to,  mighty Ind
 you bold mace-bearer, who will hew apart Vr̥tra and all hostile things  with your powers—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner (flg Grassmann, fld. by Schmidt, Bṛhaspati und Indra, 144) takes yám as obj. of abhí and referring to sómam in the opening impv. phrase (“Drink the soma, towards which …”). As Oldenberg points out (both ZDMG 55.319-20 and Noten), this entails either that the soma is within the cow enclosure or at least that breaking into the cow enclosure is a necessary auxiliary action for getting or preparing the soma -- which is, of course, not a standard part of the Vala myth. Oldenberg therefore emends the text, from yám to
-
-*yáḥ, producing parallel rel. clauses concerning the Vala myth and the Vṛtra myth
-respectively, with Indra the subject of both, represented by *yáḥ. But how would this corruption arise? Oldenberg suggests that *yáḥ (*yá in this sandhi context) was changed to yám because it immediately follows abhí, but it is hard to conceive of a Rigvedic poet who could be misled by a separable preverb, esp. since the 2nd hemistich has a supposedly parallel rel. cl. containing yáḥ, likewise following a preverb (ví). I agree with Oldenberg that Geldner’s interpr. is unlikely, but I do not think this requires changing the text. Instead I think píbā sómam is an abrupt hortatory opening, essentially detached from the rest of the vs., and I take the yám as referring to the ūrváṃ gávyam. This whole clause anticipates the imperatival main clauses that end the next vss., 2d sá indra citrā́m̐abhí tṛndhi vā́jān and 3d … abhí gā́indra tṛndhi, both with abhí √tṛd and an obj. that refers to the contents of the cattle enclosure. My interpr. requires the rel. cl. of 1ab to float in syntactic suspension till it is resolved in 2d, with a number of other things going on in between -- mostly rel. clauses with Indra as subject, but I do not think this is much to ask of a Rigvedic audience. In fact, I think that the rel. cl. in 1ab is the initial marker of the ring structure that prevails in these three vss.
-
-In d Geldner suggests that vṛtrám is a “collective singular” and should be construed with neut. pl. víśvā amitríyā, tr. “alle feindseligen Vṛtra’s.” I see no advantage to ignoring the number, and the passages he adduces as parallel do not impose the notion of “collective singular.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -267,7 +263,6 @@ These first three vss. form something of a unity. Each begins with a “drink!�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

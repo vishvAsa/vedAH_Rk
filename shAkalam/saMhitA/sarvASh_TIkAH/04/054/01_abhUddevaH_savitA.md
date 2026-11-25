@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -95,7 +96,12 @@ naḥ ← ahám (pronoun)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अभू॑द्दे॒वः स॑वि॒ता वन्द्यो॒ नु न॑ इ॒दानी॒मह्न॑ उप॒वाच्यो॒ नृभिः॑ ।  
+वि यो रत्ना॒ भज॑ति मान॒वेभ्यः॒ श्रेष्ठं॑ नो॒ अत्र॒ द्रवि॑णं॒ यथा॒ दध॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

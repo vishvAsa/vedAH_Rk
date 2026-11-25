@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ cakrám ← cakrá- (nominal stem)
 
 muṣāyáḥ ← √muṣⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं कुत्से॑ना॒भि शुष्ण॑मिन्द्रा॒शुषं॑ युध्य॒ कुय॑वं॒ गवि॑ष्टौ ।  
+दश॑ प्रपि॒त्वे अध॒ सूर्य॑स्य मुषा॒यश्च॒क्रमवि॑वे॒ रपां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “injury; disease; infirmity; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

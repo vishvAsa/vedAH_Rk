@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ putraíḥ ← putrá- (nominal stem)
 
 véḥ ← ví- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ये विश्वा॑ स्वप॒त्यानि॑ त॒स्थुः कृ॑ण्वा॒नासो॑ अमृत॒त्वाय॑ गा॒तुम् ।  
+म॒ह्ना म॒हद्भिः॑ पृथि॒वी वि त॑स्थे मा॒ता पु॒त्रैरदि॑ति॒र्धाय॑से॒ वेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “vi; bird; vi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

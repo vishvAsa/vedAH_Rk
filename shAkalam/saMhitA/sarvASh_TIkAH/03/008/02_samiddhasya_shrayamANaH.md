@@ -4,6 +4,7 @@ devataa = "यूपः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यूपः
@@ -77,7 +78,12 @@ saúbhagāya ← saúbhaga- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धस्य॒ श्रय॑माणः पु॒रस्ता॒द्ब्रह्म॑ वन्वा॒नो अ॒जरं॑ सु॒वीर॑म् ।  
+आ॒रे अ॒स्मदम॑तिं॒ बाध॑मान॒ उच्छ्र॑यस्व मह॒ते सौभ॑गाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “well-being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

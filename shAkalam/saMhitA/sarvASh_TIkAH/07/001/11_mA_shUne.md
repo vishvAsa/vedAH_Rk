@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -72,7 +73,12 @@ dúryāsu ← dúrya- (nominal stem)
 
 prajā́vatīṣu ← prajā́vant- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा शूने॑ अग्ने॒ नि ष॑दाम नृ॒णां माशेष॑सो॒ऽवीर॑ता॒ परि॑ त्वा ।  
+प्र॒जाव॑तीषु॒ दुर्या॑सु दुर्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

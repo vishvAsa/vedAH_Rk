@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ mā́ ← mā́ (invariable)
 
 yuṣmā́vatsu ← yuṣmā́vant- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह॒ये दे॑वा यू॒यमिदा॒पयः॑ स्थ॒ ते मृ॑ळत॒ नाध॑मानाय॒ मह्य॑म् ।  
+मा वो॒ रथो॑ मध्यम॒वाळृ॒ते भू॒न्मा यु॒ष्माव॑त्स्वा॒पिषु॑ श्रमिष्म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “tire; exercise; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

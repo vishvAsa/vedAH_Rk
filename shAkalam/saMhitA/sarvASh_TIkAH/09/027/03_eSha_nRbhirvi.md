@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "नृमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ váneṣu ← vána- (nominal stem)
 
 viśvavít ← viśvavíd- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष नृभि॒र्वि नी॑यते दि॒वो मू॒र्धा वृषा॑ सु॒तः ।  
+सोमो॒ वने॑षु विश्व॒वित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “conversant(p); aware(p); enlightened; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

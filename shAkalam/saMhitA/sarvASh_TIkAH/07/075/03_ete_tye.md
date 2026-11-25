@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ asthuḥ ← √sthā- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते त्ये भा॒नवो॑ दर्श॒ताया॑श्चि॒त्रा उ॒षसो॑ अ॒मृता॑स॒ आगुः॑ ।  
+ज॒नय॑न्तो॒ दैव्या॑नि व्र॒तान्या॑पृ॒णन्तो॑ अ॒न्तरि॑क्षा॒ व्य॑स्थुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

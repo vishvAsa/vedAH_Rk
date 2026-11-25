@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उत्कीलः कात्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ práṇītau ← práṇīti- (nominal stem)
 
 suhávasya ← suháva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि पाज॑सा पृ॒थुना॒ शोशु॑चानो॒ बाध॑स्व द्वि॒षो र॒क्षसो॒ अमी॑वाः ।  
+सु॒शर्म॑णो बृह॒तः शर्म॑णि स्याम॒ग्नेर॒हं सु॒हव॑स्य॒ प्रणी॑तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “guidance; guidance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

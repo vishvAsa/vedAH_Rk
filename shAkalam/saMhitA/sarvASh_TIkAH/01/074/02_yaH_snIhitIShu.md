@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -54,7 +55,12 @@ dāśúṣe ← dāśváṁs- (nominal stem)
 
 gáyam ← gáya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यः स्नीहि॑तीषु पू॒र्व्यः सं॑जग्मा॒नासु॑ कृ॒ष्टिषु॑ ।  
+अर॑क्षद्दा॒शुषे॒ गय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +117,6 @@ _________
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

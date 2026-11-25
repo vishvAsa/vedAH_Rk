@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथो घौरः काण्वो वा"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)
 
 ubhayāvínam ← ubhayāvín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒व॒क्र॒क्षिणं॑ वृष॒भं य॑था॒जुरं॒ गां न च॑र्षणी॒सह॑म् ।  
+वि॒द्वेष॑णं सं॒वन॑नोभयङ्क॒रं मंहि॑ष्ठमुभया॒विन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ caṣṭe ← √cakṣ- (root)
 
 sū́raḥ ← sū́ra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वेद॒ यस्त्रीणि॑ वि॒दथा॑न्येषां दे॒वानां॒ जन्म॑ सनु॒तरा च॒ विप्रः॑ ।  
+ऋ॒जु मर्ते॑षु वृजि॒ना च॒ पश्य॑न्न॒भि च॑ष्टे॒ सूरो॑ अ॒र्य एवा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “eva \[word\]; habit; manner; behavior; custom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

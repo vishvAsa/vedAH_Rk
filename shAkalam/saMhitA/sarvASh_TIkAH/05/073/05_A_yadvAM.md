@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ ghr̥ṇā́ḥ ← ghr̥ṇá- (nominal stem)
 
 varante ← √vr̥- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यद्वां॑ सू॒र्या रथं॒ तिष्ठ॑द्रघु॒ष्यदं॒ सदा॑ ।  
+परि॑ वामरु॒षा वयो॑ घृ॒णा व॑रन्त आ॒तपः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “heat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

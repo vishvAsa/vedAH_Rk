@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ nú ← nú (invariable)
 
 saśce ← √sac- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्ये मा॑ पौरुकु॒त्स्यस्य॑ सू॒रेस्त्र॒सद॑स्योर्हिर॒णिनो॒ ररा॑णाः ।  
+वह॑न्तु मा॒ दश॒ श्येता॑सो अस्य गैरिक्षि॒तस्य॒ क्रतु॑भि॒र्नु स॑श्चे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “accompany; follow; company; obey; participate; enter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -222,12 +227,6 @@ Trasadasyu, when they are given—
 let his ten white ones convey me. I am attended by the intentions of  Gairikṣita.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-It is unclear whether the horses in ab and those in c are the same or different.
-
-In the published translation they are treated as the same; the standard tr. take them as separate groups. The two occurrences of mā (a, c) may support the standard view, in which case vahantu needs to be supplied in the first hemistich (so Geldner, etc.). I take saśce in pass. sense: “I am followed/accompanied.” Geldner (/Witzel Gotō, also Klein I.425) take it to mean “be in agreement with,” but I do not know of other occurrences of √sac with this meaning. (Geldner’s overelaborate set of explanatory glosses in n. 8d and n. 2 to that n. may attest to his discomfort with it.) The ‘intentions” by which I am attended are G’s intentions to give; see the expansion on krátu- in 9b. I think the point is not that the poet thinks it’s a good idea for G. to give horses to him (that is, agrees with G), but that G’s intentions to give are the poet’s escorts, as it were. (One is reminded of the curious beings known as rātiṣā́c- ‘Giftescort’.) Indeed these “intentions” may be the actual horses given; see 9b where the “bounties” produced by such intention are also actualized as horses.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033/08-10.md">
 <details><summary><h2>08-10 ...{Loading}...</h2></summary>
 
@@ -235,7 +234,6 @@ As just noted, 7c begins with utá as do vss. 8-10, but those vss. of the dānas
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

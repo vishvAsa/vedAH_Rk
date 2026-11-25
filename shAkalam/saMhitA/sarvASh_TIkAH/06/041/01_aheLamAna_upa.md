@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ prathamáḥ ← prathamá- (nominal stem)
 
 yajñíyānām ← yajñíya- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अहे॑ळमान॒ उप॑ याहि य॒ज्ञं तुभ्यं॑ पवन्त॒ इन्द॑वः सु॒तासः॑ ।  
+गावो॒ न व॑ज्रि॒न्त्स्वमोको॒ अच्छेन्द्रा ग॑हि प्रथ॒मो य॒ज्ञिया॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

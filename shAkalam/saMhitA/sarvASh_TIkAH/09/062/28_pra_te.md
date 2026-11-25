@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ abhí ← abhí (invariable)
 
 upastíram ← upastír- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॑ दि॒वो न वृ॒ष्टयो॒ धारा॑ यन्त्यस॒श्चतः॑ ।  
+अ॒भि शु॒क्रामु॑प॒स्तिर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - \[noun\], accusative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -165,10 +170,6 @@ Like rains from heaven your streams go forth inexhaustible,
 toward the gleaming underlayer.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first two pādas are simply a word-order variant of IX.57.1ab prá te dhā́rā asaścáto, divó ná yanti vṛṣṭáyaḥ.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -176,7 +177,6 @@ No overt signs of unity.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ sú ← sú (invariable)
 
 sudītíbhiḥ ← sudītí- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॒ ह्य॑ग्ने अ॒जरो॑ म॒हान्वि॒भास्य॒र्चिषा॑ ।  
+अज॑स्रेण शो॒चिषा॒ शोशु॑चच्छुचे सुदी॒तिभिः॒ सु दी॑दिहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “shine; glitter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

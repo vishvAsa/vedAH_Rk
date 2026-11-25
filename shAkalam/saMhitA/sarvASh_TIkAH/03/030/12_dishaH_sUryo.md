@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ tú ← tú (invariable)
 
 vimócanam ← vimócana- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दिशः॒ सूर्यो॒ न मि॑नाति॒ प्रदि॑ष्टा दि॒वेदि॑वे॒ हर्य॑श्वप्रसूताः ।  
+सं यदान॒ळध्व॑न॒ आदिदश्वै॑र्वि॒मोच॑नं कृणुते॒ तत्त्व॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

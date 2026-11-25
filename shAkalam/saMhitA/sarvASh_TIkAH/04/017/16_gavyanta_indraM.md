@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ kóśam ← kóśa- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग॒व्यन्त॒ इन्द्रं॑ स॒ख्याय॒ विप्रा॑ अश्वा॒यन्तो॒ वृष॑णं वा॒जय॑न्तः ।  
+ज॒नी॒यन्तो॑ जनि॒दामक्षि॑तोति॒मा च्या॑वयामोऽव॒ते न कोश॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
     treasure; calyx; container; bucket; box.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

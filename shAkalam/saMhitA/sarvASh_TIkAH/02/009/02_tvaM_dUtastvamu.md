@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ dī́dyat ← √dī- 1 (root)
 
 gopā́ḥ ← gopā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं दू॒तस्त्वमु॑ नः पर॒स्पास्त्वं वस्य॒ आ वृ॑षभ प्रणे॒ता ।  
+अग्ने॑ तो॒कस्य॑ न॒स्तने॑ त॒नूना॒मप्र॑युच्छ॒न्दीद्य॑द्बोधि गो॒पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “herder; defender.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

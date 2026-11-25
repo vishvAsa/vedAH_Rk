@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहद्दिव आथर्वणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ kárvarā ← kárvara- (nominal stem)
 
 purū́ṇi ← purú- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि तद्द॑धि॒षेऽव॑रं॒ परं॑ च॒ यस्मि॒न्नावि॒थाव॑सा दुरो॒णे ।  
+आ मा॒तरा॑ स्थापयसे जिग॒त्नू अत॑ इनोषि॒ कर्व॑रा पु॒रूणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “many; much(a); very.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

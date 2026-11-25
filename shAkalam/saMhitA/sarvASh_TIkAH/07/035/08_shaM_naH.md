@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -101,7 +102,12 @@ síndhavaḥ ← síndhu- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नः॒ सूर्य॑ उरु॒चक्षा॒ उदे॑तु॒ शं न॒श्चत॑स्रः प्र॒दिशो॑ भवन्तु ।  
+शं नः॒ पर्व॑ता ध्रु॒वयो॑ भवन्तु॒ शं नः॒ सिन्ध॑वः॒ शमु॑ स॒न्त्वापः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -263,7 +269,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

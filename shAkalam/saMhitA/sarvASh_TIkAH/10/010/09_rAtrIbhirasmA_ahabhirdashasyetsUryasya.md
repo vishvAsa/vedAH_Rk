@@ -4,6 +4,7 @@ devataa = "यमी वैवस्वती"
 RShiH = "यमो वैवस्वतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमी वैवस्वती
@@ -83,7 +84,12 @@ yamásya ← yamá- (nominal stem)
 
 yamī́ḥ ← yamī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रात्री॑भिरस्मा॒ अह॑भिर्दशस्ये॒त्सूर्य॑स्य॒ चक्षु॒र्मुहु॒रुन्मि॑मीयात् ।  
+दि॒वा पृ॑थि॒व्या मि॑थु॒ना सब॑न्धू य॒मीर्य॒मस्य॑ बिभृया॒दजा॑मि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “incest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

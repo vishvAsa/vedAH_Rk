@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गौरिवीतिः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ mádaḥ ← máda- (nominal stem)
 
 máhi ← máh- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व॒ मधु॑मत्तम॒ इन्द्रा॑य सोम क्रतु॒वित्त॑मो॒ मदः॑ ।  
+महि॑ द्यु॒क्षत॑मो॒ मदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -161,7 +166,6 @@ greatly, as the exhilarating drink that best rules heaven,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -169,7 +173,6 @@ There is syntactic dependence between the two vss., at least by my reading: 2ab 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

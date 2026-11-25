@@ -4,6 +4,7 @@ devataa = "अलक्ष्मीघ्नं"
 RShiH = "शिरिंबिठो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अलक्ष्मीघ्नं
@@ -65,7 +66,12 @@ tébhiḥ ← sá- ~ tá- (pronoun)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अरा॑यि॒ काणे॒ विक॑टे गि॒रिं ग॑च्छ सदान्वे ।  
+शि॒रिम्बि॑ठस्य॒ सत्व॑भि॒स्तेभि॑ष्ट्वा चातयामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “chase away.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

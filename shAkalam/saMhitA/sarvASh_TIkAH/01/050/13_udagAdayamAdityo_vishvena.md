@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -77,7 +78,12 @@ radham ← √randh- (root)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॑गाद॒यमा॑दि॒त्यो विश्वे॑न॒ सह॑सा स॒ह ।  
+द्वि॒षन्तं॒ मह्यं॑ र॒न्धय॒न्मो अ॒हं द्वि॑ष॒ते र॑धम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “subjugate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

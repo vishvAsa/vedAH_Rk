@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ sákhā ← sákhi- (nominal stem)
 
 sákhibhyaḥ ← sákhi- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं जा॒मिर्जना॑ना॒मग्ने॑ मि॒त्रो अ॑सि प्रि॒यः ।  
+सखा॒ सखि॑भ्य॒ ईड्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “praise; invite; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -162,7 +167,6 @@ You are the kinsman of the peoples. O Agni, you are the dear envoy, a comrade fo
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -170,7 +174,6 @@ As noted in the published introduction, only the first of the questions in vs. 3
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

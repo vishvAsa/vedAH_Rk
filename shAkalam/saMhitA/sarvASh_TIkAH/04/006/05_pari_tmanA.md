@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ víśvā ← víśva- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ त्मना॑ मि॒तद्रु॑रेति॒ होता॒ग्निर्म॒न्द्रो मधु॑वचा ऋ॒तावा॑ ।  
+द्रव॑न्त्यस्य वा॒जिनो॒ न शोका॒ भय॑न्ते॒ विश्वा॒ भुव॑ना॒ यदभ्रा॑ट् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “shine; glitter; look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

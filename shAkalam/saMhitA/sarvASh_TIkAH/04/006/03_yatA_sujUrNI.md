@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ súdhitaḥ ← súdhita- (nominal stem)
 
 sumékaḥ ← suméka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ता सु॑जू॒र्णी रा॒तिनी॑ घृ॒ताची॑ प्रदक्षि॒णिद्दे॒वता॑तिमुरा॒णः ।  
+उदु॒ स्वरु॑र्नव॒जा नाक्रः प॒श्वो अ॑नक्ति॒ सुधि॑तः सु॒मेकः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “fast; fixed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -71,7 +72,12 @@ dárśyā ← dárśya- (nominal stem)
 
 rūpā́ṇi ← rūpá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॒ नरो॒ न्यो॑ह॒तेऽधा॑ नि॒युत॑ ओहते ।  
+अधा॒ पारा॑वता॒ इति॑ चि॒त्रा रू॒पाणि॒ दर्श्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - \[noun\], nominative, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

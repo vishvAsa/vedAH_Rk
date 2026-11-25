@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भूतांशः काश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ iva ← iva (invariable)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हन्ते॑व ग॒म्भरे॑षु प्रति॒ष्ठां पादे॑व गा॒धं तर॑ते विदाथः ।  
+कर्णे॑व॒ शासु॒रनु॒ हि स्मरा॒थोंऽशे॑व नो भजतं चि॒त्रमप्नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

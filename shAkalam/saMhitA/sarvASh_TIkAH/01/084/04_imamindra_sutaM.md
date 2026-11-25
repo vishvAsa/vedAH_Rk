@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 sā́dane ← sā́dana- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ममि॑न्द्र सु॒तं पि॑ब॒ ज्येष्ठ॒मम॑र्त्यं॒ मद॑म् ।  
+शु॒क्रस्य॑ त्वा॒भ्य॑क्षर॒न्धारा॑ ऋ॒तस्य॒ साद॑ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “home; dwelling; seat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

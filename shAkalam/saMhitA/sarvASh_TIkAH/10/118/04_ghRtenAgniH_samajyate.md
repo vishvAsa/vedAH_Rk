@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "उरुक्षय आमहीयवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -54,7 +55,12 @@ rócamānaḥ ← √ruc- (root)
 
 vibhā́vasuḥ ← vibhā́vasu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घृ॒तेना॒ग्निः सम॑ज्यते॒ मधु॑प्रतीक॒ आहु॑तः ।  
+रोच॑मानो वि॒भाव॑सुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “fire; Agni; sun; Surya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ bibharti ← √bhr̥- (root)
 
 tuṣáyantī ← √tuṣ- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒शा॒नामेकं॑ कपि॒लं स॑मा॒नं तं हि॑न्वन्ति॒ क्रत॑वे॒ पार्या॑य ।  
+गर्भं॑ मा॒ता सुधि॑तं व॒क्षणा॒स्ववे॑नन्तं तु॒षय॑न्ती बिभर्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

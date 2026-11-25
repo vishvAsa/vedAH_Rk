@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सदापृण आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ prā́ñcaḥ ← prā́ñc- (nominal stem)
 
 yájamānam ← √yaj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एतो॒ न्व१॒॑द्य सु॒ध्यो॒३॒॑ भवा॑म॒ प्र दु॒च्छुना॑ मिनवामा॒ वरी॑यः ।  
+आ॒रे द्वेषां॑सि सनु॒तर्द॑धा॒माया॑म॒ प्राञ्चो॒ यज॑मान॒मच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -233,17 +238,12 @@ Let us put hatreds aside in the distance; let us go forward to the
 sacrificer.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As suggested already by Geldner (n. 5b) and, independently, Thieme (ZDMG 95 [1941] 82-83 [=KlSch. 7-8]) and accepted by all subsequent tr., a better reading is obtained by segmenting duchúnām inavāma, against Pp. duchúnā minavāma. This requires no emendation to the Saṃhitā text.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 As noted in the published introduction, these two vss. form an omphalos and are structurally parallel, with the poet addressing his priest-poet colleagues with hortatory subjunctives. The immediacy of the vss. and the sacrificial context of the hymn make this a more likely scenario than Sāyaṇa.’s suggestion that the Aṅgirases are speaking these vss. For strenuous arguments against Sāyaṇa.’s interpr., see Lüders p. 327.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

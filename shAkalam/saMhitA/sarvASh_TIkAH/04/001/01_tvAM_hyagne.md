@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -111,7 +112,12 @@ prácetasam ← prácetas- (nominal stem)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां ह्य॑ग्ने॒ सद॒मित्स॑म॒न्यवो॑ दे॒वासो॑ दे॒वम॑र॒तिं न्ये॑रि॒र इति॒ क्रत्वा॑ न्येरि॒रे ।  
+अम॑र्त्यं यजत॒ मर्त्ये॒ष्वा दे॒वमादे॑वं जनत॒ प्रचे॑तसं॒ विश्व॒मादे॑वं जनत॒ प्रचे॑तसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -278,7 +284,6 @@ _________
 - “intelligent; mindful; attentive; wise; apt; observant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

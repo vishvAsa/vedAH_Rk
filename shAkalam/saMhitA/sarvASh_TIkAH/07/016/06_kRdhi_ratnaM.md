@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ suśáṁsaḥ ← suśáṁsa- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒धि रत्नं॒ यज॑मानाय सुक्रतो॒ त्वं हि र॑त्न॒धा असि॑ ।  
+आ न॑ ऋ॒ते शि॑शीहि॒ विश्व॑मृ॒त्विजं॑ सु॒शंसो॒ यश्च॒ दक्ष॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 yájate ← √yaj- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं पय॑ उ॒स्रिया॑यामधत्तं प॒क्वमा॒माया॒मव॒ पूर्व्यं॒ गोः ।  
+अ॒न्तर्यद्व॒निनो॑ वामृतप्सू ह्वा॒रो न शुचि॒र्यज॑ते ह॒विष्मा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “sacrificing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

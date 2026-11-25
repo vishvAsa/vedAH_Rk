@@ -4,6 +4,7 @@ devataa = "मरुत्वानिन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत्वानिन्द्रः
@@ -89,7 +90,12 @@ me ← ahám (pronoun)
 
 nūnám ← nūnám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वेदे॒ते प्रति॑ मा॒ रोच॑माना॒ अने॑द्यः॒ श्रव॒ एषो॒ दधा॑नाः ।  
+सं॒चक्ष्या॑ मरुतश्च॒न्द्रव॑र्णा॒ अच्छा॑न्त मे छ॒दया॑था च नू॒नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “now; surely; immediately; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

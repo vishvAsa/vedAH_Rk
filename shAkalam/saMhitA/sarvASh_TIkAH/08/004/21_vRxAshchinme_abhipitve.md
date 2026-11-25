@@ -4,6 +4,7 @@ devataa = "कुरुङ्गस दानस्तुतिः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "पुरउष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कुरुङ्गस दानस्तुतिः
@@ -63,7 +64,12 @@ bhajanta ← √bhaj- (root)
 
 mehánā ← mehánā- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒क्षाश्चि॑न्मे अभिपि॒त्वे अ॑रारणुः ।  
+गां भ॑जन्त मे॒हनाश्वं॑ भजन्त मे॒हना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

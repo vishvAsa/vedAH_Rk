@@ -4,6 +4,7 @@ devataa = "पृथिवी"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पृथिवी
@@ -74,7 +75,12 @@ arjuni ← árjuna- (nominal stem)
 
 perúm ← perú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तोमा॑सस्त्वा विचारिणि॒ प्रति॑ ष्टोभन्त्य॒क्तुभिः॑ ।  
+प्र या वाजं॒ न हेष॑न्तं पे॒रुमस्य॑स्यर्जुनि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “cow; Arjunī.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

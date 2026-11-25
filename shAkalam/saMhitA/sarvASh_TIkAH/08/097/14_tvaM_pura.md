@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ pr̥thivī́ ← pr̥thivī́- (nominal stem)
 
 rejete ← √rej- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं पुर॑ इन्द्र चि॒किदे॑ना॒ व्योज॑सा शविष्ठ शक्र नाश॒यध्यै॑ ।  
+त्वद्विश्वा॑नि॒ भुव॑नानि वज्रि॒न्द्यावा॑ रेजेते पृथि॒वी च॑ भी॒षा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “fear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

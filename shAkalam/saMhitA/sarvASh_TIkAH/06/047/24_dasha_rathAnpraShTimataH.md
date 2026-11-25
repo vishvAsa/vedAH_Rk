@@ -4,6 +4,7 @@ devataa = "प्रस्तोकस्य सांर्जयस्य द�
 RShiH = "गर्गः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - प्रस्तोकस्य सांर्जयस्य दानस्तुतिः
@@ -57,7 +58,12 @@ aśvatháḥ ← aśvathá- (nominal stem)
 
 pāyáve ← pāyú- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दश॒ रथा॒न्प्रष्टि॑मतः श॒तं गा अथ॑र्वभ्यः ।  
+अ॒श्व॒थः पा॒यवे॑ऽदात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

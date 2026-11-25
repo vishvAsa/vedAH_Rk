@@ -4,6 +4,7 @@ devataa = "दुन्दुभिः;इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दुन्दुभिः;इन्द्रः
@@ -83,7 +84,12 @@ jayantu ← √ji- 1 (root)
 
 rathínaḥ ← rathín- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आमूर॑ज प्र॒त्याव॑र्तये॒माः के॑तु॒मद्दु॑न्दु॒भिर्वा॑वदीति ।  
+समश्व॑पर्णा॒श्चर॑न्ति नो॒ नरो॒ऽस्माक॑मिन्द्र र॒थिनो॑ जयन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -237,12 +242,6 @@ Our men, with horses as their wings, are converging: (so) let our
 charioteers win, o Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner explains pāda a persuasively as “Raub und Wiederraub der Kühe,” with the ‘yonder ones’ (amū́ḥ) those belonging to the enemy and the ones here (imā́ḥ) our own.
-
-I do not understand why cáranti is accented. Geldner takes it as implicitly subordinated (“Wenn … sich sammeln”), which would account for the accent, but there’s no other evidence for subordination. It could be ascribed to the vague principle that the verb is accented in a clause that provides the basis for the next clause, as Oldenberg suggests only to question (ZDMG 60: 725 n. 1 = KlSch. p. 200).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
 <details><summary><h2>26-31 ...{Loading}...</h2></summary>
 
@@ -250,7 +249,6 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

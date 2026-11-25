@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -73,7 +74,12 @@ aṅgá ← aṅgá (invariable)
 
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यश्चि॒द्धि त्वा॑ ब॒हुभ्य॒ आ सु॒तावाँ॑ आ॒विवा॑सति ।  
+उ॒ग्रं तत्प॑त्यते॒ शव॒ इन्द्रो॑ अ॒ङ्ग ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “in truth; aṅga \[word\]; entirely; merely.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -197,19 +202,12 @@ For someone who has pressed soma seeks to entice you here, away from  the many.
 He has control of powerful strength – Indra indeed!
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-A broken construction. The subject of the 3rd ps. verb in c (patyate) must be Indra, though he is represented by 2nd ps. tvā in the apparent rel. cl. of ab. (The parallel in III.36.4b ugráṃ śávaḥ patyate dhṛṣṇv ójaḥ, where Indra is undeniably the subject, makes it clear that the mortal soma-presser of our ab cannot be the subject of patyate.) The yá- clause of ab thus has no direct grammatical connection with what ought to be its main clause in c, and I therefore take yáś cid as the functional equivalent of the indefinite káś cid.
-
-I.84.10-12: See published introduction. for the structure of this tṛca and its relation to I.80. The subjects of all three verses are feminine (gauryàḥ, yā́ḥ … sayā́varīḥ 10; tā́(ḥ) … pṛ́śnayaḥ, … dhenávaḥ 11; tā́(ḥ) 12; vásvīḥ 10-12), but, in my opinion, the hidden referent of all three verses is the Maruts. See also comm. on vs. 16.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/084/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
 Bloomfield (Rig-Veda Repetitions, ad I.7.8) suggests that each of these three verses reads like a brahmodya, with the last two words (the four-syllable tag índro aṅgá, which he considers to be prose “quite out of the metre”) serving as the answer. This analysis words best for vs. 7, but his separation of the two-word tag from the rest of the verse is clearly correct for all three verses -- though I do not think we need to consider índro aṅgá “simple prose.”
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

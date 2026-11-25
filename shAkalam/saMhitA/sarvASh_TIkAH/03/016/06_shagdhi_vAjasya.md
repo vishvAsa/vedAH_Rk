@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उत्कीलः कात्यः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ túvidyumna ← tuvidyumná- (nominal stem)
 
 yáśasvatā ← yáśasvant- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒ग्धि वाज॑स्य सुभग प्र॒जाव॒तोऽग्ने॑ बृह॒तो अ॑ध्व॒रे ।  
+सं रा॒या भूय॑सा सृज मयो॒भुना॒ तुवि॑द्युम्न॒ यश॑स्वता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - \[noun\], instrumental, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

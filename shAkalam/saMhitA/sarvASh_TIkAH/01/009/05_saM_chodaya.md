@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ te ← tvám (pronoun)
 
 vibhú ← vibhú- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं चो॑दय चि॒त्रम॒र्वाग्राध॑ इन्द्र॒ वरे॑ण्यम् ।  
+अस॒दित्ते॑ वि॒भु प्र॒भु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “mighty; powerful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

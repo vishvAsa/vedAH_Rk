@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "गाथिनो विश्वामित्रो जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -54,7 +55,12 @@ r̥tāvr̥dhā ← r̥tāvŕ̥dh- (nominal stem)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गृ॒णा॒ना ज॒मद॑ग्निना॒ योना॑वृ॒तस्य॑ सीदतम् ।  
+पा॒तं सोम॑मृतावृधा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +121,6 @@ _________
 - “sincere.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

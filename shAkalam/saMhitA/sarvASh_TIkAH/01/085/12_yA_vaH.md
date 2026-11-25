@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ suvī́ram ← suvī́ra- (nominal stem)
 
 vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या वः॒ शर्म॑ शशमा॒नाय॒ सन्ति॑ त्रि॒धातू॑नि दा॒शुषे॑ यच्छ॒ताधि॑ ।  
+अ॒स्मभ्यं॒ तानि॑ मरुतो॒ वि य॑न्त र॒यिं नो॑ धत्त वृषणः सु॒वीर॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ sū́ryam ← sū́rya- (nominal stem)
 
 uṣásam ← uṣás- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+महि॒ क्षेत्रं॑ पु॒रु श्च॒न्द्रं वि॑वि॒द्वानादित्सखि॑भ्यश्च॒रथं॒ समै॑रत् ।  
+इन्द्रो॒ नृभि॑रजन॒द्दीद्या॑नः सा॒कं सूर्य॑मु॒षसं॑ गा॒तुम॒ग्निम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

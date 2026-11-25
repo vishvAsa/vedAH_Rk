@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ rohate ← √ruh- (root)
 
 vayā́ḥ ← vayā́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा॒कं हि शुचि॑ना॒ शुचिः॑ प्रशा॒स्ता क्रतु॒नाज॑नि ।  
+वि॒द्वाँ अ॑स्य व्र॒ता ध्रु॒वा व॒या इ॒वानु॑ रोहते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

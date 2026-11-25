@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ panitā́raḥ ← panitár- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र मे॑ विवि॒क्वाँ अ॑विदन्मनी॒षां धे॒नुं चर॑न्तीं॒ प्रयु॑ता॒मगो॑पाम् ।  
+स॒द्यश्चि॒द्या दु॑दु॒हे भूरि॑ धा॒सेरिन्द्र॒स्तद॒ग्निः प॑नि॒तारो॑ अस्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

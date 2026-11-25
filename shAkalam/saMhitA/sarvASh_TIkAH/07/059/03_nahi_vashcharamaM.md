@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -74,7 +75,12 @@ pibata ← √pā- 2 (root)
 
 víśve ← víśva- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि व॑श्चर॒मं च॒न वसि॑ष्ठः परि॒मंस॑ते ।  
+अ॒स्माक॑म॒द्य म॑रुतः सु॒ते सचा॒ विश्वे॑ पिबत का॒मिनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “desirous; aroused; loving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -194,14 +199,6 @@ Vasiṣṭha will certainly not neglect even the last of you:
 when our (soma) is pressed today, o Maruts, drink it avidly, all of you.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. plays on the common contrast, also found earlier in this Marut cycle, between the Maruts as individuals -- here “the last” (caramá-) of them -- and as a collective (víśve).
-
-On sácā as loc. absol. marker, see comm. ad IV.31.5.
-
-I have rendered the nom. pl. kāmínaḥ as an adverb (avidly) to avoid the somewhat heavy ‘having desire (for it)’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -209,7 +206,6 @@ Both of these vss. begin nahí vaḥ; in neither one is it easy to produce a cau
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नभःप्रभेदनो वैरूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ ukthébhiḥ ← ukthá- (nominal stem)
 
 vīryā̀ ← vīryà- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ पिब॑ प्रतिका॒मं सु॒तस्य॑ प्रातःसा॒वस्तव॒ हि पू॒र्वपी॑तिः ।  
+हर्ष॑स्व॒ हन्त॑वे शूर॒ शत्रू॑नु॒क्थेभि॑ष्टे वी॒र्या॒३॒॑ प्र ब्र॑वाम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

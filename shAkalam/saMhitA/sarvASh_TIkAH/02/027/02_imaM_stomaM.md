@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -77,7 +78,12 @@ anavadyā́ḥ ← anavadyá- (nominal stem)
 
 ávr̥jināḥ ← ávr̥jina- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं स्तोमं॒ सक्र॑तवो मे अ॒द्य मि॒त्रो अ॑र्य॒मा वरु॑णो जुषन्त ।  
+आ॒दि॒त्यासः॒ शुच॑यो॒ धार॑पूता॒ अवृ॑जिना अनव॒द्या अरि॑ष्टाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “safe; unharmed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

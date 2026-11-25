@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -57,7 +58,12 @@ maṁhánā ← maṁhánā- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां हि सु॒प्सर॑स्तमं नृ॒षद॑नेषु हू॒महे॑ ।  
+ग्रावा॑णं॒ नाश्व॑पृष्ठं मं॒हना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - \[noun\], instrumental, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

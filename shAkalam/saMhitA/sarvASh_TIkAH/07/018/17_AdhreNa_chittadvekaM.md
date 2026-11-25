@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ sudā́se ← sudā́s- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒ध्रेण॑ चि॒त्तद्वेकं॑ चकार सिं॒ह्यं॑ चि॒त्पेत्वे॑ना जघान ।  
+अव॑ स्र॒क्तीर्वे॒श्या॑वृश्च॒दिन्द्रः॒ प्राय॑च्छ॒द्विश्वा॒ भोज॑ना सु॒दासे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “Sudās.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

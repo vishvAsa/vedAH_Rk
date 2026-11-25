@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tritáḥ ← tritá- (nominal stem)
 
 valásya ← valá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि स्ववृ॑ष्टिं॒ मदे॑ अस्य॒ युध्य॑तो र॒घ्वीरि॑व प्रव॒णे स॑स्रुरू॒तयः॑ ।  
+इन्द्रो॒ यद्व॒ज्री धृ॒षमा॑णो॒ अन्ध॑सा भि॒नद्व॒लस्य॑ परि॒धीँरि॑व त्रि॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “Trita.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

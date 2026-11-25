@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भुवन आप्त्यः साधनो वा भौवनः"
 ChandaH = "द्विपदा त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -58,7 +59,11 @@ devā́ḥ ← devá- (nominal stem)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा नु कं॒ भुव॑ना सीषधा॒मेन्द्र॑श्च॒ विश्वे॑ च दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +135,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

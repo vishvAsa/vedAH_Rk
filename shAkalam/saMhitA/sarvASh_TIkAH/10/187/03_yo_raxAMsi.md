@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्स आग्नेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ parṣat ← √pr̥- (root)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो रक्षां॑सि नि॒जूर्व॑ति॒ वृषा॑ शु॒क्रेण॑ शो॒चिषा॑ ।  
+स नः॑ पर्ष॒दति॒ द्विषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “hostile; hating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

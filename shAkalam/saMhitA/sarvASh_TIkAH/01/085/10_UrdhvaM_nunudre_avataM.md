@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ ráṇyāni ← ráṇya- (nominal stem)
 
 sómasya ← sóma- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वं नु॑नुद्रेऽव॒तं त ओज॑सा दादृहा॒णं चि॑द्बिभिदु॒र्वि पर्व॑तम् ।  
+धम॑न्तो वा॒णं म॒रुतः॑ सु॒दान॑वो॒ मदे॒ सोम॑स्य॒ रण्या॑नि चक्रिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

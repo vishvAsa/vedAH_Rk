@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ svā́danam ← svā́dana- (nominal stem)
 
 cit ← cit (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं मर्त्यः॑ पुरु॒स्पृहं॑ वि॒दद्विश्व॑स्य॒ धाय॑से ।  
+प्र स्वाद॑नं पितू॒नामस्त॑तातिं चिदा॒यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - \[noun\], dative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

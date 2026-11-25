@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ kavayaḥ ← kaví- (nominal stem)
 
 yuvānaḥ ← yúvan- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वो॑ यन्तूदवा॒हासो॑ अ॒द्य वृ॒ष्टिं ये विश्वे॑ म॒रुतो॑ जु॒नन्ति॑ ।  
+अ॒यं यो अ॒ग्निर्म॑रुतः॒ समि॑द्ध ए॒तं जु॑षध्वं कवयो युवानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “young; youthful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ akṣaran ← √kṣar- (root)
 
 pavítram ← pavítra- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒ता इन्द्रा॑य व॒ज्रिणे॒ सोमा॑सो॒ दध्या॑शिरः ।  
+प॒वित्र॒मत्य॑क्षरन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “run; melt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -146,7 +151,6 @@ Pressed for Indra the mace-bearer, the soma juices, mixed with curds, have strea
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -154,7 +158,6 @@ Again no particular signs of unity. The unmixed (“clear” śukrá-) soma in 1
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

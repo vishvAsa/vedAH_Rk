@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -86,7 +87,12 @@ reṇúm ← reṇú- (nominal stem)
 
 rérihat ← √rih- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्मा॑सु प्रथ॒मः स॑रि॒ष्यन्नि वे॑वेति॒ श्रेणि॑भी॒ रथा॑नाम् ।  
+स्रजं॑ कृण्वा॒नो जन्यो॒ न शुभ्वा॑ रे॒णुं रेरि॑हत्कि॒रणं॑ दद॒श्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “bite; sting.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

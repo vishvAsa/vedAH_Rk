@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -92,7 +93,12 @@ vām ← tvám (pronoun)
 
 vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒म्राळ॒न्यः स्व॒राळ॒न्य उ॑च्यते वां म॒हान्ता॒विन्द्रा॒वरु॑णा म॒हाव॑सू ।  
+विश्वे॑ दे॒वासः॑ पर॒मे व्यो॑मनि॒ सं वा॒मोजो॑ वृषणा॒ सं बलं॑ दधुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

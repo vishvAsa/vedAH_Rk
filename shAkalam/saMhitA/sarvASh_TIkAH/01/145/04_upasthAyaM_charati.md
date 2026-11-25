@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ uśatī́ḥ ← √vaś- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒प॒स्थायं॑ चरति॒ यत्स॒मार॑त स॒द्यो जा॒तस्त॑त्सार॒ युज्ये॑भिः ।  
+अ॒भि श्वा॒न्तं मृ॑शते ना॒न्द्ये॑ मु॒दे यदीं॒ गच्छ॑न्त्युश॒तीर॑पिष्ठि॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - \[verb noun\], accusative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

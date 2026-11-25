@@ -4,6 +4,7 @@ devataa = "पुरूरवा ऐळः"
 RShiH = "उर्वशी ऋषिका"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरूरवा ऐळः
@@ -101,7 +102,12 @@ nahí ← nahí (invariable)
 
 párā ← párā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ ब्रवाणि व॒र्तय॑ते॒ अश्रु॑ च॒क्रन्न क्र॑न्ददा॒ध्ये॑ शि॒वायै॑ ।  
+प्र तत्ते॑ हिनवा॒ यत्ते॑ अ॒स्मे परे॒ह्यस्तं॑ न॒हि मू॑र॒ मापः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “enter (a state); get; reach; obtain; equal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

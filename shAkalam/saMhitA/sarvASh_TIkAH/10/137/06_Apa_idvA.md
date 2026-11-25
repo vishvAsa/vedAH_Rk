@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "जमदग्निः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आप॒ इद्वा उ॑ भेष॒जीरापो॑ अमीव॒चात॑नीः ।  
+आपः॒ सर्व॑स्य भेष॒जीस्तास्ते॑ कृण्वन्तु भेष॒जम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

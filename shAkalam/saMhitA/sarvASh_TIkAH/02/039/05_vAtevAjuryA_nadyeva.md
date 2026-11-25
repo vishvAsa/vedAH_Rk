@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ pā́dā ← pád- (nominal stem)
 
 vásyaḥ ← vásyaṁs- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाते॑वाजु॒र्या न॒द्ये॑व री॒तिर॒क्षी इ॑व॒ चक्षु॒षा या॑तम॒र्वाक् ।  
+हस्ता॑विव त॒न्वे॒३॒॑ शम्भ॑विष्ठा॒ पादे॑व नो नयतं॒ वस्यो॒ अच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

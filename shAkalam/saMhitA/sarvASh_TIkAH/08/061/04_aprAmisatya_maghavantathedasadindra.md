@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ makṣú ← makṣú- (nominal stem)
 
 yántaḥ ← √i- 1 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप्रा॑मिसत्य मघव॒न्तथेद॑स॒दिन्द्र॒ क्रत्वा॒ यथा॒ वशः॑ ।  
+स॒नेम॒ वाजं॒ तव॑ शिप्रि॒न्नव॑सा म॒क्षू चि॒द्यन्तो॑ अद्रिवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “rocky; petrous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

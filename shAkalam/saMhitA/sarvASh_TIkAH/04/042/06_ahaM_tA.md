@@ -4,6 +4,7 @@ devataa = "त्रसदस्युः"
 RShiH = "त्रसदस्युः पौरुकुत्स्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्रसदस्युः
@@ -92,7 +93,12 @@ rájasī ← rájas- (nominal stem)
 
 ubhé ← ubhá- (pronoun)  
 {case:NOM, gender:N, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं ता विश्वा॑ चकरं॒ नकि॑र्मा॒ दैव्यं॒ सहो॑ वरते॒ अप्र॑तीतम् ।  
+यन्मा॒ सोमा॑सो म॒मद॒न्यदु॒क्थोभे भ॑येते॒ रज॑सी अपा॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “boundless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

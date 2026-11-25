@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुवेदाः शैरीषिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ medhásātā ← medhásāti- (nominal stem)
 
 vājínam ← vājín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऐषु॑ चाकन्धि पुरुहूत सू॒रिषु॑ वृ॒धासो॒ ये म॑घवन्नान॒शुर्म॒घम् ।  
+अर्च॑न्ति तो॒के तन॑ये॒ परि॑ष्टिषु मे॒धसा॑ता वा॒जिन॒मह्र॑ये॒ धने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     dhan; capital; fight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

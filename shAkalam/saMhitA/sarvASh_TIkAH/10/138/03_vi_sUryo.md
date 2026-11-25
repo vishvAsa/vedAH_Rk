@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अङ्ग औरवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ r̥jíśvanā ← r̥jíśvan- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि सूर्यो॒ मध्ये॑ अमुच॒द्रथं॑ दि॒वो वि॒दद्दा॒साय॑ प्रति॒मान॒मार्यः॑ ।  
+दृ॒ळ्हानि॒ पिप्रो॒रसु॑रस्य मा॒यिन॒ इन्द्रो॒ व्या॑स्यच्चकृ॒वाँ ऋ॒जिश्व॑ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “Ṛjiśvan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

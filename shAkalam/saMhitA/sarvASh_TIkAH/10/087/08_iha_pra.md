@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -92,7 +93,12 @@ nr̥cákṣasaḥ ← nr̥cákṣas- (nominal stem)
 
 randhaya ← √randh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ह प्र ब्रू॑हि यत॒मः सो अ॑ग्ने॒ यो या॑तु॒धानो॒ य इ॒दं कृ॒णोति॑ ।  
+तमा र॑भस्व स॒मिधा॑ यविष्ठ नृ॒चक्ष॑स॒श्चक्षु॑षे रन्धयैनम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “this; he,she,it (pers. pron.).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

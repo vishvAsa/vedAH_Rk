@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ gā́ḥ ← gáv- ~ gó- (nominal stem)
 
 svayúgbhiḥ ← svayúj- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज॒घान॑ वृ॒त्रं स्वधि॑ति॒र्वने॑व रु॒रोज॒ पुरो॒ अर॑द॒न्न सिन्धू॑न् ।  
+बि॒भेद॑ गि॒रिं नव॒मिन्न कु॒म्भमा गा इन्द्रो॑ अकृणुत स्व॒युग्भिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
 - “ally; friend; pair; two; companion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

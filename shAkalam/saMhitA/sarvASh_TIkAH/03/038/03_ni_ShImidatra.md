@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रजापतिर्वैश्वामित्रः (वाच्यो वा द्वौ वा तौ विश्वामित्रो वा)"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ mahī́ ← máh- (nominal stem)
 
 sámr̥te ← √r̥- 1 (root)  
 {case:ACC, gender:F, number:DU, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि षी॒मिदत्र॒ गुह्या॒ दधा॑ना उ॒त क्ष॒त्राय॒ रोद॑सी॒ सम॑ञ्जन् ।  
+सं मात्रा॑भिर्ममि॒रे ये॒मुरु॒र्वी अ॒न्तर्म॒ही समृ॑ते॒ धाय॑से धुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ párvataḥ ← párvata- (nominal stem)
 
 sariṣyán ← √sr̥- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:FUT, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हरी॒ नु त॑ इन्द्र वा॒जय॑न्ता घृत॒श्चुतं॑ स्वा॒रम॑स्वार्ष्टाम् ।  
+वि स॑म॒ना भूमि॑रप्रथि॒ष्टारं॑स्त॒ पर्व॑तश्चित्सरि॒ष्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “sṛ; liquefy; run; spread; stretch out.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

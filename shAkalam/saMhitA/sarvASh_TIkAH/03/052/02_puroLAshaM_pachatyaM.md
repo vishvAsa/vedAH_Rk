@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ sisrate ← √sr̥- 1 (root)
 
 túbhyam ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रो॒ळाशं॑ पच॒त्यं॑ जु॒षस्वे॒न्द्रा गु॑रस्व च ।  
+तुभ्यं॑ ह॒व्यानि॑ सिस्रते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “sṛ; liquefy; run; spread; stretch out.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

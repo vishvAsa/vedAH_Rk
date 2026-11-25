@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ gómati ← gómant- (nominal stem)
 
 vrajé ← vrajá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो दु॒ष्टरो॑ विश्ववार श्र॒वाय्यो॒ वाजे॒ष्वस्ति॑ तरु॒ता ।  
+स नः॑ शविष्ठ॒ सव॒ना व॑सो गहि ग॒मेम॒ गोम॑ति व्र॒जे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     herd; flock; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -239,7 +244,6 @@ you, o strongest good one—come here to our pressings. May we go to a  pen full
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/046/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -247,7 +251,6 @@ A thematic and syntactic modulation. The yáḥ clauses of vs. 8 (which lacks a 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

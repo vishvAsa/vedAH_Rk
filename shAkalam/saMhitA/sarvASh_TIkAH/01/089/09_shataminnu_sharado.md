@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ naḥ ← ahám (pronoun)
 
 rīriṣata ← √riṣ- (root)  
 {number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तमिन्नु श॒रदो॒ अन्ति॑ देवा॒ यत्रा॑ नश्च॒क्रा ज॒रसं॑ त॒नूना॑म् ।  
+पु॒त्रासो॒ यत्र॑ पि॒तरो॒ भव॑न्ति॒ मा नो॑ म॒ध्या री॑रिष॒तायु॒र्गन्तोः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “going.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "चित्रमहा वासिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ agne ← agní- (nominal stem)
 
 nimr̥jántaḥ ← √mr̥j- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वामिद॒स्या उ॒षसो॒ व्यु॑ष्टिषु दू॒तं कृ॑ण्वा॒ना अ॑यजन्त॒ मानु॑षाः ।  
+त्वां दे॒वा म॑ह॒याय्या॑य वावृधु॒राज्य॑मग्ने निमृ॒जन्तो॑ अध्व॒रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

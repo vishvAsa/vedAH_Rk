@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिभानुरात्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ vitanóti ← √tan- (root)
 
 vr̥ṇānā́ ← √vr̥- ~ vr̥̄- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कदु॑ प्रि॒याय॒ धाम्ने॑ मनामहे॒ स्वक्ष॑त्राय॒ स्वय॑शसे म॒हे व॒यम् ।  
+आ॒मे॒न्यस्य॒ रज॑सो॒ यद॒भ्र आँ अ॒पो वृ॑णा॒ना वि॑त॒नोति॑ मा॒यिनी॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “artful; charming; crafty; deceptive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

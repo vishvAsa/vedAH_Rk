@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ véviṣat ← √viṣ- 2 (root)
 
 víṣaḥ ← víṣ- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्या॒ग्निर्वपु॑र्गृ॒हे स्तोमं॒ चनो॒ दधी॑त वि॒श्ववा॑र्यः ।  
+ह॒व्या वा॒ वेवि॑ष॒द्विषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “fecal matter; droppings; body waste.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -186,7 +191,6 @@ or in the oblations, while he [=Agni] keeps laboring at his labors,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/11-12.md">
 <details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -196,7 +200,6 @@ Note the alliterative v’s of 11c havyā́vā véviṣad víṣah (immediately 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

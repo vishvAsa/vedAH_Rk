@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्भिणी वामदेवस्य माता"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ viṣṇo ← víṣṇu- (nominal stem)
 
 vitarám ← vitarám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त मा॒ता म॑हि॒षमन्व॑वेनद॒मी त्वा॑ जहति पुत्र दे॒वाः ।  
+अथा॑ब्रवीद्वृ॒त्रमिन्द्रो॑ हनि॒ष्यन्त्सखे॑ विष्णो वित॒रं वि क्र॑मस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “kram; step; go; continue; proceed; traverse; heat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

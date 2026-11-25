@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अंबरीष ऋजिश्वा च"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ dhā́rābhiḥ ← dhā́rā- 1 (nominal stem)
 
 hiyānáḥ ← √hi- (root)  
 {case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ ष्य सु॑वा॒नो अ॒व्ययं॒ रथे॒ न वर्मा॑व्यत ।  
+इन्दु॑र॒भि द्रुणा॑ हि॒तो हि॑या॒नो धारा॑भिरक्षाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “run; melt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -214,14 +219,6 @@ This one, being pressed, has engirded himself in the sheep’s fleece, as a  man
 The drop, impelled by the wooden (paddle), has flowed in streams while  being impelled.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the instr. drúṇā and the phrase drúṇā hitá- see comm. ad IX.1.2. One of the problems with the standard interpr. of this phrase, that it refers to the wooden cup into which the Soma is poured, is that it would be out of sequence, since the vs. otherwise describes the early part of Soma’s journey across the ritual ground.
-
-The pāda-final avyáyam (a) and avyata (b) echo each other.
-
-The actual target of the simile in b, the nominative equivalent of Soma in the frame, is gapped, being represented only by the adjuncts ráthe and várma: “like (a man/warrior) on a chariot his armor.” In the published translation “a man” should be in parens.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/098/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -229,7 +226,6 @@ These two vss. share vocab. and structure. Both begin pári ṣyá s(u)vānáḥ
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

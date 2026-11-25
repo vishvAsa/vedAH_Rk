@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "वसिष्ठः कुमारो वाग्नेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -80,7 +81,12 @@ devágopāḥ ← devágopā- (nominal stem)
 
 supippalā́ḥ ← supippalá- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं वचः॑ प॒र्जन्या॑य स्व॒राजे॑ हृ॒दो अ॒स्त्वन्त॑रं॒ तज्जु॑जोषत् ।  
+म॒यो॒भुवो॑ वृ॒ष्टयः॑ सन्त्व॒स्मे सु॑पिप्प॒ला ओष॑धीर्दे॒वगो॑पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “herder; defender.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

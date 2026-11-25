@@ -4,6 +4,7 @@ devataa = "इन्द्राब्रह्मणस्पती"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राब्रह्मणस्पती
@@ -86,7 +87,12 @@ rā́jā ← rā́jan- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॒ ज्येष्ठं॒ नम॑सा ह॒विर्भिः॑ सु॒शेवं॒ ब्रह्म॑ण॒स्पतिं॑ गृणीषे ।  
+इन्द्रं॒ श्लोको॒ महि॒ दैव्यः॑ सिषक्तु॒ यो ब्रह्म॑णो दे॒वकृ॑तस्य॒ राजा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

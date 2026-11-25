@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ víśvān ← víśva- (nominal stem)
 
 yákṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ या॒हि दू॒त्यं१॒॑ मा रि॑षण्यो दे॒वाँ अच्छा॑ ब्रह्म॒कृता॑ ग॒णेन॑ ।  
+सर॑स्वतीं म॒रुतो॑ अ॒श्विना॒पो यक्षि॑ दे॒वान्र॑त्न॒धेया॑य॒ विश्वा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     wholly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

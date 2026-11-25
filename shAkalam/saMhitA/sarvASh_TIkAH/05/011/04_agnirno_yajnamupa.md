@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ vr̥ṇānā́ḥ ← √vr̥- ~ vr̥̄- (root)
 
 vr̥ṇate ← √vr̥- ~ vr̥̄- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्नो॑ य॒ज्ञमुप॑ वेतु साधु॒याग्निं नरो॒ वि भ॑रन्ते गृ॒हेगृ॑हे ।  
+अ॒ग्निर्दू॒तो अ॑भवद्धव्य॒वाह॑नो॒ऽग्निं वृ॑णा॒ना वृ॑णते क॒विक्र॑तुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

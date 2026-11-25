@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ yathā ← yathā (invariable)
 
 yajñásya ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्पा॒र्हा यस्य॒ श्रियो॑ दृ॒शे र॒यिर्वी॒रव॑तो यथा ।  
+अग्रे॑ य॒ज्ञस्य॒ शोच॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “mourn; grieve; flame; glow; burn; repent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

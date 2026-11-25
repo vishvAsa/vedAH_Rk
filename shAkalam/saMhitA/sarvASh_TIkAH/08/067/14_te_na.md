@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -60,7 +61,12 @@ iva ← iva (invariable)
 
 stenám ← stená- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते न॑ आ॒स्नो वृका॑णा॒मादि॑त्यासो मु॒मोच॑त ।  
+स्ते॒नं ब॒द्धमि॑वादिते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “Aditi; aditi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

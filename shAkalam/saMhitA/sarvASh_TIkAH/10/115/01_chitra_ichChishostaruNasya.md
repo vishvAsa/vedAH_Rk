@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उपस्तुतो वार्ष्टिहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ sadyás ← sadyás (invariable)
 
 vavákṣa ← √vakṣ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चि॒त्र इच्छिशो॒स्तरु॑णस्य व॒क्षथो॒ न यो मा॒तरा॑व॒प्येति॒ धात॑वे ।  
+अ॒नू॒धा यदि॒ जीज॑न॒दधा॑ च॒ नु व॒वक्ष॑ स॒द्यो महि॑ दू॒त्यं१॒॑ चर॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     heed; process; administer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ puruścandrám ← puruścandrá- (nominal stem)
 
 puruspŕ̥ham ← puruspŕ̥h- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ प॑वस्व सह॒स्रिणं॑ र॒यिं गोम॑न्तम॒श्विन॑म् ।  
+पु॒रु॒श्च॒न्द्रं पु॑रु॒स्पृह॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +124,6 @@ _________
 - “coveted; desirous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -145,7 +150,6 @@ In purifying yourself bring wealth in thousands of cows and of horses, much glea
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -153,7 +157,6 @@ In this tṛca all three vss. have a form of med. páva-: pávamānaḥ 10b, 11b
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

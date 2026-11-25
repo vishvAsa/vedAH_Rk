@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sákhāyaḥ ← sákhi- (nominal stem)
 
 sānasím ← sānasí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ त्वा॒ कर्म॑न्नू॒तये॒ स नो॒ युवो॒ग्रश्च॑क्राम॒ यो धृ॒षत् ।  
+त्वामिद्ध्य॑वि॒तारं॑ ववृ॒महे॒ सखा॑य इन्द्र सान॒सिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “victorious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

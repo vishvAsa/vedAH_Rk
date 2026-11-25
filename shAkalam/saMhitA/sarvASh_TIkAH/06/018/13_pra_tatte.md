@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ tū́rvayāṇam ← tū́rvayāṇa- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र तत्ते॑ अ॒द्या कर॑णं कृ॒तं भू॒त्कुत्सं॒ यदा॒युम॑तिथि॒ग्वम॑स्मै ।  
+पु॒रू स॒हस्रा॒ नि शि॑शा अ॒भि क्षामुत्तूर्व॑याणं धृष॒ता नि॑नेथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

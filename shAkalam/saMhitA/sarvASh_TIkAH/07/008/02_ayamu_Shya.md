@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ kr̥ṣṇápaviḥ ← kr̥ṣṇápavi- (nominal stem)
 
 vavakṣe ← √vakṣ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यमु॒ ष्य सुम॑हाँ अवेदि॒ होता॑ म॒न्द्रो मनु॑षो य॒ह्वो अ॒ग्निः ।  
+वि भा अ॑कः ससृजा॒नः पृ॑थि॒व्यां कृ॒ष्णप॑वि॒रोष॑धीभिर्ववक्षे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “grow; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

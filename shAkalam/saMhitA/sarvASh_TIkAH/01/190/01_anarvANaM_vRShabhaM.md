@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -74,7 +75,12 @@ mártāḥ ← márta- (nominal stem)
 
 návamānasya ← √nu- ~ nū- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न॒र्वाणं॑ वृष॒भं म॒न्द्रजि॑ह्वं॒ बृह॒स्पतिं॑ वर्धया॒ नव्य॑म॒र्कैः ।  
+गा॒था॒न्यः॑ सु॒रुचो॒ यस्य॑ दे॒वा आ॑शृ॒ण्वन्ति॒ नव॑मानस्य॒ मर्ताः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

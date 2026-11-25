@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -71,7 +72,12 @@ stha ← √as- 1 (root)
 
 supīvásaḥ ← supīvás- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तृ॒दि॒ला अतृ॑दिलासो॒ अद्र॑योऽश्रम॒णा अशृ॑थिता॒ अमृ॑त्यवः ।  
+अ॒ना॒तु॒रा अ॒जराः॒ स्थाम॑विष्णवः सुपी॒वसो॒ अतृ॑षिता॒ अतृ॑ष्णजः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

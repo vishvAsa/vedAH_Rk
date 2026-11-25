@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -57,7 +58,12 @@ paramásyāḥ ← paramá- (nominal stem)
 
 parāvátaḥ ← parāvát- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+के ष्ठा॑ नरः॒ श्रेष्ठ॑तमा॒ य एक॑एक आय॒य ।  
+प॒र॒मस्याः॑ परा॒वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “distance; distance; distance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -171,7 +176,7 @@ Note the doubly marked superlative śréṣṭhatama- (also I.113.12), which the
 unaccented naraḥ.
 
 It is somewhat notable that the Maruts are referred to éka-ekaḥ “one by one,” since they are usually not differentiated at all. _________
-**01-02 These two vss. contain a fairly high percentage of the total number of RVic 2nd pl. active pfs., with the poorly characterized ending -a on the weak stem: āyayá (1b), śeka, yaya (2b). Macdonell (VG p. 358) lists only twelve forms in all of Vedic (some of which have more than one token) of the 2nd pl. act. pf., and one of these (anāha) is better interpr. otherwise (see comm. ad VIII.48.5).**  
+**01-02 These two vss. contain a fairly high percentage of the total number of RVic 2nd pl. active pfs., with the poorly characterized ending -a on the weak stem: āyayá (1b), śeka, yaya (2b). Macdonell (VG p. 358) lists only twelve forms in all of Vedic (some of which have more than one token) of the 2nd pl. act. pf., and one of these (anāha) is better interpr. otherwise (see comm. ad VIII.48.5).**
 </details>
 
 <details><summary>Griffith</summary>

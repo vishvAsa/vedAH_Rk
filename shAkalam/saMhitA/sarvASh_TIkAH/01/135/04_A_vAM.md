@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -131,7 +132,13 @@ gatam ← √gam- (root)
 
 rā́dhasā ← rā́dhas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ रथो॑ नि॒युत्वा॑न्वक्ष॒दव॑से॒ऽभि प्रयां॑सि॒ सुधि॑तानि वी॒तये॒ वायो॑ ह॒व्यानि॑ वी॒तये॑ ।  
+पिब॑तं॒ मध्वो॒ अन्ध॑सः पूर्व॒पेयं॒ हि वां॑ हि॒तम् ।  
+वाय॒वा च॒न्द्रेण॒ राध॒सा ग॑त॒मिन्द्र॑श्च॒ राध॒सा ग॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -325,7 +332,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -358,10 +364,6 @@ Drink of the honey of the stalk, for the first drinking was established for  you
 O Vāyu, you two come here with shimmering bounty—and Indra, you  two come here with bounty.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The vā́yav índraś ca construction here unfolds over two pādas.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -369,7 +371,6 @@ As indicated in the published introduction, this tṛca is constructed in parall
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

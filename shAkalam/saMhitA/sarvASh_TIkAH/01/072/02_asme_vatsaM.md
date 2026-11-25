@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ paramé ← paramá- (nominal stem)
 
 tasthúḥ ← √sthā- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे व॒त्सं परि॒ षन्तं॒ न वि॑न्दन्नि॒च्छन्तो॒ विश्वे॑ अ॒मृता॒ अमू॑राः ।  
+श्र॒म॒युवः॑ पद॒व्यो॑ धियं॒धास्त॒स्थुः प॒दे प॑र॒मे चार्व॒ग्नेः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

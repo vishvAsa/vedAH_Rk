@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ r̥tádhītayaḥ ← r̥tádhīti- (nominal stem)
 
 vakmarā́jasatyāḥ ← vakmarā́jasatya- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते हि श्रेष्ठ॑वर्चस॒स्त उ॑ नस्ति॒रो विश्वा॑नि दुरि॒ता नय॑न्ति ।  
+सु॒क्ष॒त्रासो॒ वरु॑णो मि॒त्रो अ॒ग्निरृ॒तधी॑तयो वक्म॒राज॑सत्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “true; real; real; faithful; good.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

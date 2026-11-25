@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ varṣmā́ṇam ← varṣmán- (nominal stem)
 
 vasate ← √vas- 2 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नृ॒चक्ष॑सो॒ अनि॑मिषन्तो अ॒र्हणा॑ बृ॒हद्दे॒वासो॑ अमृत॒त्वमा॑नशुः ।  
+ज्यो॒तीर॑था॒ अहि॑माया॒ अना॑गसो दि॒वो व॒र्ष्माणं॑ वसते स्व॒स्तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     well; luck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

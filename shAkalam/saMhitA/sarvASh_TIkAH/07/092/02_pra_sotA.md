@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -86,7 +87,12 @@ devayántaḥ ← √devay- (UNK_TYPE)
 
 śácībhiḥ ← śácī- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सोता॑ जी॒रो अ॑ध्व॒रेष्व॑स्था॒त्सोम॒मिन्द्रा॑य वा॒यवे॒ पिब॑ध्यै ।  
+प्र यद्वां॒ मध्वो॑ अग्रि॒यं भर॑न्त्यध्व॒र्यवो॑ देव॒यन्तः॒ शची॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “Śacī; power; dexterity; ability; aid.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

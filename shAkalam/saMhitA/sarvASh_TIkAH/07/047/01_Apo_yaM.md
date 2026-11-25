@@ -4,6 +4,7 @@ devataa = "आपः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः
@@ -86,7 +87,12 @@ mádhumantam ← mádhumant- (nominal stem)
 
 vanema ← √vanⁱ- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आपो॒ यं वः॑ प्रथ॒मं दे॑व॒यन्त॑ इन्द्र॒पान॑मू॒र्मिमकृ॑ण्वते॒ळः ।  
+तं वो॑ व॒यं शुचि॑मरि॒प्रम॒द्य घृ॑त॒प्रुषं॒ मधु॑मन्तं वनेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “obtain; gain; desire; get; like; love; overcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

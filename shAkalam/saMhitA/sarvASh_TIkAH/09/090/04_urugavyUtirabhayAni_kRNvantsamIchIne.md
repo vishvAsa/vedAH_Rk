@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ sám ← sám (invariable)
 
 vā́jān ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रुग॑व्यूति॒रभ॑यानि कृ॒ण्वन्त्स॑मीची॒ने आ प॑वस्वा॒ पुरं॑धी ।  
+अ॒पः सिषा॑सन्नु॒षसः॒ स्व१॒॑र्गाः सं चि॑क्रदो म॒हो अ॒स्मभ्यं॒ वाजा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "रक्षोहाग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -83,7 +84,12 @@ ví ← ví (invariable)
 
 víṣvak ← víṣvañc- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॑ भ्र॒मास॑ आशु॒या प॑त॒न्त्यनु॑ स्पृश धृष॒ता शोशु॑चानः ।  
+तपूं॑ष्यग्ने जु॒ह्वा॑ पतं॒गानसं॑दितो॒ वि सृ॑ज॒ विष्व॑गु॒ल्काः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -92,9 +98,9 @@ víṣvak ← víṣvañc- (nominal stem)
 तपूं॑षि । अ॒ग्ने॒ । जु॒ह्वा॑ । प॒त॒ङ्गान् । अस॑म्ऽदितः । वि । सृ॒ज॒ । विष्व॑क् । उ॒ल्काः ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
-तव॑ । भ्र॒मासः॑ । आ॒शु॒या । प॒त॒न्ति॒ । अन्विति॑ । स्पृ॒श॒ । धृ॒ष॒ता । शोशु॑चानः ॥ तपूँ॑षि । अ॒ग्ने॒ । जु॒ह्वा॑ । प॒त॒ङ्गान् । अस॑न्दित॒ इत्यस॑म्-दि॒तः॒ । वीति॑ । सृ॒ज॒ । विष्व॑क् । उ॒ल्काः ॥ 
+तव॑ । भ्र॒मासः॑ । आ॒शु॒या । प॒त॒न्ति॒ । अन्विति॑ । स्पृ॒श॒ । धृ॒ष॒ता । शोशु॑चानः ॥ तपूँ॑षि । अ॒ग्ने॒ । जु॒ह्वा॑ । प॒त॒ङ्गान् । अस॑न्दित॒ इत्यस॑म्-दि॒तः॒ । वीति॑ । सृ॒ज॒ । विष्व॑क् । उ॒ल्काः ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -208,7 +214,6 @@ _________
 - “meteor; torch; brand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -250,12 +255,6 @@ Your swirling (flames) fly swiftly; touch down boldly following (them  [/your on
 Unfettered, o Agni, with your tongue hurl out bursts of heat, flying  (embers), firebrands in all directions.564 IV.4
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Since √spṛś does not otherwise occur with ánu in the RV or, per MonierWilliams, in all of Skt., I supply an object with this preposition -- either the flames of pāda a or, perhaps preferably, the prásitim construed with ánu in 1c.
-
-Most interpr. take pataṃgā́n as an unmarked simile, e.g. Geldner “(gleich) Vögeln.” My interpr. requires supplying an unparalleled noun but avoids the need for a simile particle.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/004/02-04.md">
 <details><summary><h2>02-04 ...{Loading}...</h2></summary>
 
@@ -263,7 +262,6 @@ Note the preverb chaining: 2d ví sṛja, 3a práti … ví sṛja, 4b práti.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ rébhan ← √ribh- (root)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शिशुं॑ जज्ञा॒नं ह॑र्य॒तं मृ॑जन्ति शु॒म्भन्ति॒ वह्निं॑ म॒रुतो॑ ग॒णेन॑ ।  
+क॒विर्गी॒र्भिः काव्ये॑ना क॒विः सन्त्सोमः॑ प॒वित्र॒मत्ये॑ति॒ रेभ॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “moo; murmur; praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -246,12 +251,6 @@ The colt just born, the delightful one they groom; the Maruts in a flock  beauti
 Though being a poet by virtue of his hymns, a poet by his poetry, Soma  goes rasping across the filter.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I don’t know what the Maruts are doing here.
-
-In c I have rendered the nom. pres. part. sán concessively, in its usual value, but it’s not exactly clear what the concession would be. Perhaps the contrast is between Soma as poet - so emphasized by kavíḥ … kā́vyena kavíḥ -- and the less than melodious sound indicated by the root √ribh ‘squawk, rasp’ (see comm. ad VI.3.6, IX.66.9).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/17-18.md">
 <details><summary><h2>17-18 ...{Loading}...</h2></summary>
 
@@ -259,7 +258,6 @@ These two vss. outfit Soma with the lexicon of poetry, with 17c concentrating on
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्राबृहस्पती"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राबृहस्पती
@@ -51,7 +52,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 sahasríṇam ← sahasrín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे इ॑न्द्राबृहस्पती र॒यिं ध॑त्तं शत॒ग्विन॑म् ।  
+अश्वा॑वन्तं सह॒स्रिण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -103,7 +109,6 @@ _________
 - “thousandfold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

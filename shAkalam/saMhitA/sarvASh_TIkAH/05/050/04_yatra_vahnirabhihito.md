@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -68,7 +69,12 @@ iva ← iva (invariable)
 
 sánitā ← sánitar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्र॒ वह्नि॑र॒भिहि॑तो दु॒द्रव॒द्द्रोण्यः॑ प॒शुः ।  
+नृ॒मणा॑ वी॒रप॒स्त्योऽर्णा॒ धीरे॑व॒ सनि॑ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “win; get; gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

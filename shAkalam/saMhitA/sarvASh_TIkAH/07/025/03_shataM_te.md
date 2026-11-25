@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ dyumnám ← dyumná- (nominal stem)
 
 rátnam ← rátna- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं ते॑ शिप्रिन्नू॒तयः॑ सु॒दासे॑ स॒हस्रं॒ शंसा॑ उ॒त रा॒तिर॑स्तु ।  
+ज॒हि वध॑र्व॒नुषो॒ मर्त्य॑स्या॒स्मे द्यु॒म्नमधि॒ रत्नं॑ च धेहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पुरुमीळ्हाजमीळ्हौ सौहोत्रौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ vavartat ← √vr̥t- (root)
 
 yemānáḥ ← √yam- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को वा॑म॒द्या क॑रते रा॒तह॑व्य ऊ॒तये॑ वा सुत॒पेया॑य वा॒र्कैः ।  
+ऋ॒तस्य॑ वा व॒नुषे॑ पू॒र्व्याय॒ नमो॑ येमा॒नो अ॑श्वि॒ना व॑वर्तत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

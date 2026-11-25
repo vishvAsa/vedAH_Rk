@@ -4,6 +4,7 @@ devataa = "इन्दुः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्दुः
@@ -128,7 +129,13 @@ kṣudrám ← kṣudrá- (nominal stem)
 
 sravet ← √sru- (root)  
 {number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र तद्वो॑चेयं॒ भव्या॒येन्द॑वे॒ हव्यो॒ न य इ॒षवा॒न्मन्म॒ रेज॑ति रक्षो॒हा मन्म॒ रेज॑ति ।  
+स्व॒यं सो अ॒स्मदा नि॒दो व॒धैर॑जेत दुर्म॒तिम् ।  
+अव॑ स्रवेद॒घशं॑सोऽवत॒रमव॑ क्षु॒द्रमि॑व स्रवेत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -343,7 +350,6 @@ _________
     disappear; leak; fester.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

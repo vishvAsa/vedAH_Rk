@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ रक्षोहणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ रक्षोहणौ
@@ -86,7 +87,12 @@ nudéthām ← √nud- (root)
 
 śiśītam ← √śā- ~ śī- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑सोमा॒ तप॑तं॒ रक्ष॑ उ॒ब्जतं॒ न्य॑र्पयतं वृषणा तमो॒वृधः॑ ।  
+परा॑ शृणीतम॒चितो॒ न्यो॑षतं ह॒तं नु॒देथां॒ नि शि॑शीतम॒त्रिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “Atrin; eater.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ gáchantaḥ ← √gam- (root)
 
 índram ← índra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒ता अनु॒ स्वमा रजो॒ऽभ्य॑र्षन्ति ब॒भ्रवः॑ ।  
+इन्द्रं॒ गच्छ॑न्त॒ इन्द॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -174,7 +179,6 @@ the drops, going to Indra.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -182,7 +186,6 @@ Thematically somewhat unified by the journey theme.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

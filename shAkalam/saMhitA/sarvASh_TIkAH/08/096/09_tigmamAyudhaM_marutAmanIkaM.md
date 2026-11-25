@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ tā́n ← sá- ~ tá- (pronoun)
 
 vapa ← √vap- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒ग्ममायु॑धं म॒रुता॒मनी॑कं॒ कस्त॑ इन्द्र॒ प्रति॒ वज्रं॑ दधर्ष ।  
+अ॒ना॒यु॒धासो॒ असु॑रा अदे॒वाश्च॒क्रेण॒ ताँ अप॑ वप ऋजीषिन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -254,10 +259,6 @@ The lords lacking gods are weapon-less. With your wheel [=discus?]
 scatter them, possessor of the silvery drink.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-However tempting it might be, the juxtaposed phrase ásurā adevā́ḥ is most likely not to be interpreted as an early instantiation of the Asura/Deva conflict of middle Vedic times. Instead it probably refers to human or semi-divine lords (for the former see W. E. Hale, 1986: 83) who do not have the gods on their side. Hale points out that adevá- is the only form in the RV so accented (contrasting with ádeva-), and it must be a bahuvrīhi meaning “not having gods, without gods.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -265,7 +266,6 @@ The da capo-like structure of the verses in this tṛca, with the first pāda re
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

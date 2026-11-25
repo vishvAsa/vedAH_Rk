@@ -4,6 +4,7 @@ devataa = "आपः सोमो वा"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः सोमो वा
@@ -95,7 +96,12 @@ te ← tvám (pronoun)
 
 váṣaṭkr̥tam ← váṣaṭkr̥ta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॑ द्र॒प्सः स्कन्द॑ति॒ यस्ते॑ अं॒शुर्बा॒हुच्यु॑तो धि॒षणा॑या उ॒पस्था॑त् ।  
+अ॒ध्व॒र्योर्वा॒ परि॑ वा॒ यः प॒वित्रा॒त्तं ते॑ जुहोमि॒ मन॑सा॒ वष॑ट्कृतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - \[verb noun\], accusative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

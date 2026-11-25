@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पर्वतनारदौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ svadayanta ← √svad- (root)
 
 yajñaíḥ ← yajñá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वः॑ सखायो॒ मदा॑य पुना॒नम॒भि गा॑यत ।  
+शिशुं॒ न य॒ज्ञैः स्व॑दयन्त गू॒र्तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - \[noun\], instrumental, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

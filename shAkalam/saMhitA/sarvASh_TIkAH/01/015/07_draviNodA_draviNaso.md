@@ -4,6 +4,7 @@ devataa = "ऋतवः द्रविणोदाः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतवः द्रविणोदाः
@@ -51,7 +52,12 @@ devám ← devá- (nominal stem)
 
 yajñéṣu ← yajñá- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्र॒वि॒णो॒दा द्रवि॑णसो॒ ग्राव॑हस्तासो अध्व॒रे ।  
+य॒ज्ञेषु॑ दे॒वमी॑ळते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +122,6 @@ _________
 - “praise; invite; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

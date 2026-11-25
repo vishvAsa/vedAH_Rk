@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ váyasā ← váyas- 2 (nominal stem)
 
 yugé-yuge ← yugá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स तु श्रु॑धि॒ श्रुत्या॒ यो दु॑वो॒युर्द्यौर्न भूमा॒भि रायो॑ अ॒र्यः ।  
+असो॒ यथा॑ नः॒ शव॑सा चका॒नो यु॒गेयु॑गे॒ वय॑सा॒ चेकि॑तानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “chew over.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

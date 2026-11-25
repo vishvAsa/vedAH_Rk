@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अतिशक्वरी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -110,7 +111,13 @@ sómāḥ ← sóma- (nominal stem)
 
 śukrā́ḥ ← śukrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒षु॒मा या॑त॒मद्रि॑भि॒र्गोश्री॑ता मत्स॒रा इ॒मे सोमा॑सो मत्स॒रा इ॒मे ।  
+आ रा॑जाना दिविस्पृशास्म॒त्रा ग॑न्त॒मुप॑ नः ।  
+इ॒मे वां॑ मित्रावरुणा॒ गवा॑शिरः॒ सोमाः॑ शु॒क्रा गवा॑शिरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -267,7 +274,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -302,7 +308,6 @@ You two kings, touching heaven, come here right to us, into our midst. These wit
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/137/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -310,7 +315,6 @@ You two kings, touching heaven, come here right to us, into our midst. These wit
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

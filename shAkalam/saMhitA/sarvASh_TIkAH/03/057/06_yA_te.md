@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ váso ← vásu- (nominal stem)
 
 viśvájanyām ← viśvájanya- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या ते॑ अग्ने॒ पर्व॑तस्येव॒ धारास॑श्चन्ती पी॒पय॑द्देव चि॒त्रा ।  
+ताम॒स्मभ्यं॒ प्रम॑तिं जातवेदो॒ वसो॒ रास्व॑ सुम॒तिं वि॒श्वज॑न्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “omnipresent; worldwide.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

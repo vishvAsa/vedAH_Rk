@@ -4,6 +4,7 @@ devataa = "श्येन इन्द्रो वा"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "शक्वरी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्येन इन्द्रो वा
@@ -103,7 +104,12 @@ práti ← práti (invariable)
 
 śū́raḥ ← śū́ra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॑ श्वे॒तं क॒लशं॒ गोभि॑र॒क्तमा॑पिप्या॒नं म॒घवा॑ शु॒क्रमन्धः॑ ।  
+अ॒ध्व॒र्युभिः॒ प्रय॑तं॒ मध्वो॒ अग्र॒मिन्द्रो॒ मदा॑य॒ प्रति॑ ध॒त्पिब॑ध्यै॒ शूरो॒ मदा॑य॒ प्रति॑ ध॒त्पिब॑ध्यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -262,7 +268,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

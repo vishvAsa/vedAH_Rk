@@ -80,6 +80,12 @@ padbhyā́m ← pád- (nominal stem)
 {case:NOM, gender:M, number:SG}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्पुरु॑षं॒ व्यद॑धुः कति॒धा व्य॑कल्पयन् ।  
+मुखं॒ किम॑स्य॒ कौ बा॒हू का ऊ॒रू पादा॑ उच्येते ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । पुरु॑षम् । वि । अद॑धुः । क॒ति॒धा । वि । अ॒क॒ल्प॒य॒न् ।  

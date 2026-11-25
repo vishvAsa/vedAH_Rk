@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -77,7 +78,12 @@ sthivíbhyaḥ ← sthiví- (nominal stem)
 
 yávam ← yáva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा॒ध्व॒र्या अ॑ति॒थिनी॑रिषि॒राः स्पा॒र्हाः सु॒वर्णा॑ अनव॒द्यरू॑पाः ।  
+बृह॒स्पतिः॒ पर्व॑तेभ्यो वि॒तूर्या॒ निर्गा ऊ॑पे॒ यव॑मिव स्थि॒विभ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “sack.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

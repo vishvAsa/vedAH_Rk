@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -71,7 +72,12 @@ sárasvatī ← sárasvant- (nominal stem)
 
 vā́ryam ← vā́rya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सर॑स्वतीं देव॒यन्तो॑ हवन्ते॒ सर॑स्वतीमध्व॒रे ता॒यमा॑ने ।  
+सर॑स्वतीं सु॒कृतो॑ अह्वयन्त॒ सर॑स्वती दा॒शुषे॒ वार्यं॑ दात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

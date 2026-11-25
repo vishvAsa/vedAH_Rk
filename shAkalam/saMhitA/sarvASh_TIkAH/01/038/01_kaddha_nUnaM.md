@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ dadhidhvé ← √dhā- 1 (root)
 
 vr̥ktabarhiṣaḥ ← vr̥ktábarhis- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कद्ध॑ नू॒नं क॑धप्रियः पि॒ता पु॒त्रं न हस्त॑योः ।  
+द॒धि॒ध्वे वृ॑क्तबर्हिषः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “Barhis; barhis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

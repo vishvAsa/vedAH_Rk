@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ suyámā ← suyáma- (nominal stem)
 
 tváṣṭā ← tváṣṭar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नः॑ पू॒षा पव॑मानः सुरा॒तयो॑ मि॒त्रो ग॑च्छन्तु॒ वरु॑णः स॒जोष॑सः ।  
+बृह॒स्पति॑र्म॒रुतो॑ वा॒युर॒श्विना॒ त्वष्टा॑ सवि॒ता सु॒यमा॒ सर॑स्वती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     vine; river.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

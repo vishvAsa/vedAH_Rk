@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अग्निस्तापसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -68,7 +69,12 @@ bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)
 
 ca ← ca (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमं॒ राजा॑न॒मव॑से॒ऽग्निं गी॒र्भिर्ह॑वामहे ।  
+आ॒दि॒त्यान्विष्णुं॒ सूर्यं॑ ब्र॒ह्माणं॑ च॒ बृह॒स्पति॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “Brihaspati; Jupiter; Bṛhaspati.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

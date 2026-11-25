@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ satrā́ ← satrā́ (invariable)
 
 víśvam ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं तमि॑न्द्र॒ पर्व॑तं म॒हामु॒रुं वज्रे॑ण वज्रिन्पर्व॒शश्च॑कर्तिथ ।  
+अवा॑सृजो॒ निवृ॑ताः॒ सर्त॒वा अ॒पः स॒त्रा विश्वं॑ दधिषे॒ केव॑लं॒ सहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “force; strength; might; sahas \[word\]; conquest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

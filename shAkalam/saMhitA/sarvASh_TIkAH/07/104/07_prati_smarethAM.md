@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ रक्षोहणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती त्रिष्टुब्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ रक्षोहणौ
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ स्मरेथां तु॒जय॑द्भि॒रेवै॑र्ह॒तं द्रु॒हो र॒क्षसो॑ भङ्गु॒राव॑तः ।  
+इन्द्रा॑सोमा दु॒ष्कृते॒ मा सु॒गं भू॒द्यो नः॑ क॒दा चि॑दभि॒दास॑ति द्रु॒हा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

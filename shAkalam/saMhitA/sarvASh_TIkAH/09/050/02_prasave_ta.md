@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उचथ्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ sā́navi ← sā́nu- ~ snú- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒स॒वे त॒ उदी॑रते ति॒स्रो वाचो॑ मख॒स्युवः॑ ।  
+यदव्य॒ एषि॒ सान॑वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “tableland; ridge; peak; back; ridge; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

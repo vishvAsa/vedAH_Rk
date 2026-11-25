@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -68,7 +69,12 @@ píbatam ← √pā- 2 (root)
 
 somyám ← somyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ग्नी शृणु॒तं हवं॒ यज॑मानस्य सुन्व॒तः ।  
+वी॒तं ह॒व्यान्या ग॑तं॒ पिब॑तं सो॒म्यं मधु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -189,7 +194,6 @@ O Indra and Agni, hear the call of the sacrificer who presses (soma). Pursue his
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -197,7 +201,6 @@ On the connection of these vss. to the hymn, see published introduction. For the
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

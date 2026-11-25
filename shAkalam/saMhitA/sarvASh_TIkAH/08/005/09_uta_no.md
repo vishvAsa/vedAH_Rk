@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -63,7 +64,12 @@ sitam ← √sā- ~ si- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नो॒ गोम॑ती॒रिष॑ उ॒त सा॒तीर॑हर्विदा ।  
+वि प॒थः सा॒तये॑ सितम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “tie.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

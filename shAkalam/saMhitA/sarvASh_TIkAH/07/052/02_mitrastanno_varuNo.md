@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -92,7 +93,12 @@ vasavaḥ ← vásu- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रस्तन्नो॒ वरु॑णो मामहन्त॒ शर्म॑ तो॒काय॒ तन॑याय गो॒पाः ।  
+मा वो॑ भुजेमा॒न्यजा॑त॒मेनो॒ मा तत्क॑र्म वसवो॒ यच्चय॑ध्वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “cover; accumulate; pile up; pick; cover.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

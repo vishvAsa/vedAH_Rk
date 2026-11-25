@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कलिः प्रगाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ kāríṇam ← kārín- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तरो॑भिर्वो वि॒दद्व॑सु॒मिन्द्रं॑ स॒बाध॑ ऊ॒तये॑ ।  
+बृ॒हद्गाय॑न्तः सु॒तसो॑मे अध्व॒रे हु॒वे भरं॒ न का॒रिण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “causing; making; acting; performing; producing; doing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

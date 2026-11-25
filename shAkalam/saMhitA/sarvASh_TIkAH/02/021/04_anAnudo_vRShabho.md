@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ svàr ← svàr- (nominal stem)
 
 uṣásaḥ ← uṣás- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ना॒नु॒दो वृ॑ष॒भो दोध॑तो व॒धो ग॑म्भी॒र ऋ॒ष्वो अस॑मष्टकाव्यः ।  
+र॒ध्र॒चो॒दः श्नथ॑नो वीळि॒तस्पृ॒थुरिन्द्रः॑ सुय॒ज्ञ उ॒षसः॒ स्व॑र्जनत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

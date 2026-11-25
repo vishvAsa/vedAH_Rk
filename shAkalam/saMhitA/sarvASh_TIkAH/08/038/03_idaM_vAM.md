@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -60,7 +61,12 @@ bodhatam ← √budh- (root)
 
 tásya ← sá- ~ tá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं वां॑ मदि॒रं मध्वधु॑क्ष॒न्नद्रि॑भि॒र्नरः॑ ।  
+इन्द्रा॑ग्नी॒ तस्य॑ बोधतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
     attend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -169,10 +174,6 @@ Here is the exhilarating honey for you two—the men have milked it out  with st
 – Indra and Agni, take note of this.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Pāda a can of course be in the acc. (not nom. as I take it) and form a single sentence with b (so Geldner). There are no implications either way, but I prefer to take fronted forms of ayám as annunciatory (“here is …”) if at all possible. However, given initial imā́(5a) and imā́m (6a), which can’t be so tr., this is not a strong arg.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/038/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -180,7 +181,6 @@ The referent of tásya in the refrain pāda is not specified. It must fall into 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

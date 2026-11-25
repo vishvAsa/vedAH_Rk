@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उत्कीलः कात्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ suméke ← suméka- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छि॑द्रा॒ शर्म॑ जरितः पु॒रूणि॑ दे॒वाँ अच्छा॒ दीद्या॑नः सुमे॒धाः ।  
+रथो॒ न सस्नि॑र॒भि व॑क्षि॒ वाज॒मग्ने॒ त्वं रोद॑सी नः सु॒मेके॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “fast; fixed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

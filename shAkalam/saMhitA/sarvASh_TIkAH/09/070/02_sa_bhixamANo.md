@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेणुर्वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ vidúḥ ← √vid- 2 (root)
 
 yádi ← yádi (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स भिक्ष॑माणो अ॒मृत॑स्य॒ चारु॑ण उ॒भे द्यावा॒ काव्ये॑ना॒ वि श॑श्रथे ।  
+तेजि॑ष्ठा अ॒पो मं॒हना॒ परि॑ व्यत॒ यदी॑ दे॒वस्य॒ श्रव॑सा॒ सदो॑ वि॒दुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

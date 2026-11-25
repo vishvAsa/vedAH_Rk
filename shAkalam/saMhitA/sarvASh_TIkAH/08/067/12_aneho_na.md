@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -57,7 +58,12 @@ kr̥dhí ← √kr̥- (root)
 
 tokā́ya ← toká- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ने॒हो न॑ उरुव्रज॒ उरू॑चि॒ वि प्रस॑र्तवे ।  
+कृ॒धि तो॒काय॑ जी॒वसे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - “survive; be; exist; live on; dwell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -162,10 +167,6 @@ Make faultless (shelter) for us, o widely spreading (goddess) possessing  a wide
 and for our offspring to live.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Since anehás- is an adjective, a noun needs to be supplied with it (contra Geldner, Renou). I supply ‘shelter’ on the basis of VIII.18.21 (also a hymn to the Ādityas) containing aneháḥ … trivárūtham … chardíḥ, with the várūtha- and chardís- found in our vss. 3b, 6b.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/067/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -173,7 +174,6 @@ The correlative of yé in 13 is té in 14, but this unremarkable pairing actuall
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -65,7 +66,12 @@ dhiyā́ ← dhī́- (nominal stem)
 
 gr̥ṇántaḥ ← √gr̥̄- 1 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वन्दे॑वं॒ वोऽव॑से दे॒वन्दे॑वम॒भिष्ट॑ये ।  
+दे॒वन्दे॑वं हुवेम॒ वाज॑सातये गृ॒णन्तो॑ दे॒व्या धि॒या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
     knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

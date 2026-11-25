@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ parihrút ← parihrút- (nominal stem)
 
 pátataḥ ← √pat- 1 (root)  
 {case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+निति॑क्ति॒ यो वा॑र॒णमन्न॒मत्ति॑ वा॒युर्न राष्ट्र्यत्ये॑त्य॒क्तून् ।  
+तु॒र्याम॒ यस्त॑ आ॒दिशा॒मरा॑ती॒रत्यो॒ न ह्रुतः॒ पत॑तः परि॒ह्रुत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

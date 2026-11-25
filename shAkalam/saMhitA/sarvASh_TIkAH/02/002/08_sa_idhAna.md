@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ rā́jā ← rā́jan- (nominal stem)
 
 viśā́m ← víś- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इ॑धा॒न उ॒षसो॒ राम्या॒ अनु॒ स्व१॒॑र्ण दी॑देदरु॒षेण॑ भा॒नुना॑ ।  
+होत्रा॑भिर॒ग्निर्मनु॑षः स्वध्व॒रो राजा॑ वि॒शामति॑थि॒श्चारु॑रा॒यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - \[noun\], dative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ te ← tvám (pronoun)
 
 yā́ ← yá- (pronoun)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रह्मा॑ त इन्द्र गिर्वणः क्रि॒यन्ते॒ अन॑तिद्भुता ।  
+इ॒मा जु॑षस्व हर्यश्व॒ योज॒नेन्द्र॒ या ते॒ अम॑न्महि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

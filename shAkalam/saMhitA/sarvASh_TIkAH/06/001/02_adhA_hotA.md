@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ maháḥ ← máh- (nominal stem)
 
 rāyé ← rayí- ~ rāy- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॒ होता॒ न्य॑सीदो॒ यजी॑यानि॒ळस्प॒द इ॒षय॒न्नीड्यः॒ सन् ।  
+तं त्वा॒ नरः॑ प्रथ॒मं दे॑व॒यन्तो॑ म॒हो रा॒ये चि॒तय॑न्तो॒ अनु॑ ग्मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -69,7 +70,12 @@ tū́yam ← tū́ya- (nominal stem)
 
 yāhi ← √yā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑न्द्र॒ प्रागपा॒गुद॒ङ्न्य॑ग्वा हू॒यसे॒ नृभिः॑ ।  
+आ या॑हि॒ तूय॑मा॒शुभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “quick; fast; immediate; agile.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -86,7 +87,12 @@ sahásradvāram ← sahásradvār- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्व१॒॑ त्यानि॑ नौ स॒ख्या ब॑भूवुः॒ सचा॑वहे॒ यद॑वृ॒कं पु॒रा चि॑त् ।  
+बृ॒हन्तं॒ मानं॑ वरुण स्वधावः स॒हस्र॑द्वारं जगमा गृ॒हं ते॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -60,7 +61,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 duhitā́ ← duhitár- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॒ ष्या सू॒नरी॒ जनी॑ व्यु॒च्छन्ती॒ परि॒ स्वसुः॑ ।  
+दि॒वो अ॑दर्शि दुहि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “daughter; duhitṛ \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

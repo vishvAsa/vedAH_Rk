@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -49,7 +50,11 @@ rā́jā ← rā́jan- (nominal stem)
 
 samudríyaḥ ← samudríya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नृभि॑र्येमा॒नो ह॑र्य॒तो वि॑चक्ष॒णो राजा॑ दे॒वः स॑मु॒द्रियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +106,6 @@ _________
 - “oceanic; oceanic.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -129,7 +133,6 @@ belonging to the sea.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md">
 <details><summary><h2>14-16 ...{Loading}...</h2></summary>
 
@@ -137,7 +140,6 @@ Like vss. 1-3, this pragātha has a two-pāda addition (vs. 16), also 12 8. Both
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ ihá ← ihá (invariable)
 
 santu ← √as- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑य सोम॒ सुषु॑तः॒ परि॑ स्र॒वापामी॑वा भवतु॒ रक्ष॑सा स॒ह ।  
+मा ते॒ रस॑स्य मत्सत द्वया॒विनो॒ द्रवि॑णस्वन्त इ॒ह स॒न्त्विन्द॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

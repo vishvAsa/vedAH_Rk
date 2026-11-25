@@ -4,6 +4,7 @@ devataa = "कुरुश्रवणस्य त्रासदस्यव�
 RShiH = "कवष ऐलूषः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कुरुश्रवणस्य त्रासदस्यवस्य दानस्तुतिः
@@ -57,7 +58,12 @@ sahásradakṣiṇe ← sahásradakṣiṇa- (nominal stem)
 
 stávai ← √stu- (root)  
 {number:SG, person:1, mood:SBJV, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ मा ह॒रितो॒ रथे॑ ति॒स्रो वह॑न्ति साधु॒या ।  
+स्तवै॑ स॒हस्र॑दक्षिणे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - \[noun\], dative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

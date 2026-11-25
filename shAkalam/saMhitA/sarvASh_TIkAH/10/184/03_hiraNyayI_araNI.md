@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्तदेवताः (विष्णुत�
 RShiH = "त्वष्टा गर्भकर्ता, विष्णुर्वा प्राजापत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तदेवताः (विष्णुत्वष्टृप्रजापतिसिनीवालीसरस्वत्यश्विनः) गर्भार्थाशीः
@@ -68,7 +69,12 @@ māsí ← mā́s- 1 (nominal stem)
 
 sū́tave ← √sū- 2 (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हि॒र॒ण्ययी॑ अ॒रणी॒ यं नि॒र्मन्थ॑तो अ॒श्विना॑ ।  
+तं ते॒ गर्भं॑ हवामहे दश॒मे मा॒सि सूत॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “give birth; urge; bestow; cause.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

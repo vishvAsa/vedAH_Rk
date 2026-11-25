@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ vadat ← √vadⁱ- (root)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्या वां॒ मधु॑म॒न्मक्षि॑कारप॒न्मदे॒ सोम॑स्यौशि॒जो हु॑वन्यति ।  
+यु॒वं द॑धी॒चो मन॒ आ वि॑वास॒थोऽथा॒ शिरः॒ प्रति॑ वा॒मश्व्यं॑ वदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     diagnose; address; say; pronounce; express; instruct; order.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

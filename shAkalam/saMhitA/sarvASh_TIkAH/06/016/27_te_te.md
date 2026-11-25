@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ aryáḥ ← arí- (nominal stem)
 
 vanvántaḥ ← √vanⁱ- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते ते॑ अग्ने॒ त्वोता॑ इ॒षय॑न्तो॒ विश्व॒मायुः॑ ।  
+तर॑न्तो अ॒र्यो अरा॑तीर्व॒न्वन्तो॑ अ॒र्यो अरा॑तीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “hostility; adversity; foe; envy; stinginess.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

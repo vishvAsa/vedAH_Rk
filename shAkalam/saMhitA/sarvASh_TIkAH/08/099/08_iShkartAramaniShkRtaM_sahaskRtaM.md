@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -65,7 +66,12 @@ vásavānam ← vásavāna- (nominal stem)
 
 vasūjúvam ← vasūjū́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ष्क॒र्तार॒मनि॑ष्कृतं॒ सह॑स्कृतं श॒तमू॑तिं श॒तक्र॑तुम् ।  
+स॒मा॒नमिन्द्र॒मव॑से हवामहे॒ वस॑वानं वसू॒जुव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

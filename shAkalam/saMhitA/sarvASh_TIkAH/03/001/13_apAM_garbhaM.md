@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ pániṣṭham ← pániṣṭha- (nominal stem)
 
 tavásam ← tavás- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒पां गर्भं॑ दर्श॒तमोष॑धीनां॒ वना॑ जजान सु॒भगा॒ विरू॑पम् ।  
+दे॒वास॑श्चि॒न्मन॑सा॒ सं हि ज॒ग्मुः पनि॑ष्ठं जा॒तं त॒वसं॑ दुवस्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

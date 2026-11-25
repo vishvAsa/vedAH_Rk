@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ sárvasenā ← sárvasena- (nominal stem)
 
 vr̥tratúrā ← vr̥tratúr- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता हि श्रेष्ठा॑ दे॒वता॑ता तु॒जा शूरा॑णां॒ शवि॑ष्ठा॒ ता हि भू॒तम् ।  
+म॒घोनां॒ मंहि॑ष्ठा तुवि॒शुष्म॑ ऋ॒तेन॑ वृत्र॒तुरा॒ सर्व॑सेना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “army; senā \[word\]; armament.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

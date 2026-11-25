@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ mādayadhvam ← √mad- (root)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्ती॒र्णे ब॒र्हिषि॑ समिधा॒ने अ॒ग्नौ सू॒क्तेन॑ म॒हा नम॒सा वि॑वासे ।  
+अ॒स्मिन्नो॑ अ॒द्य वि॒दथे॑ यजत्रा॒ विश्वे॑ देवा ह॒विषि॑ मादयध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

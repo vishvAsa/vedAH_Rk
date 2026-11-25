@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -57,7 +58,12 @@ naḥ ← ahám (pronoun)
 
 surā́dhasaḥ ← surā́dhas- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वरु॑णः प्रावि॒ता भु॑वन्मि॒त्रो विश्वा॑भिरू॒तिभिः॑ ।  
+कर॑तां नः सु॒राध॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “affluent; big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

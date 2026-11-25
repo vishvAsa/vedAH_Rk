@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sīm ← sīm (invariable)
 
 vrájantīḥ ← √vraj- (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भीक॑ आसां पद॒वीर॑बोध्यादि॒त्याना॑मह्वे॒ चारु॒ नाम॑ ।  
+आप॑श्चिदस्मा अरमन्त दे॒वीः पृथ॒ग्व्रज॑न्तीः॒ परि॑ षीमवृञ्जन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - \[verb\], plural, Imperfect
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

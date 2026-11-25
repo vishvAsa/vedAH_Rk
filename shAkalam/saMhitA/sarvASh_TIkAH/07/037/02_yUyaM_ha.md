@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ rā́dhāṁsi ← rā́dhas- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यं ह॒ रत्नं॑ म॒घव॑त्सु धत्थ स्व॒र्दृश॑ ऋभुक्षणो॒ अमृ॑क्तम् ।  
+सं य॒ज्ञेषु॑ स्वधावन्तः पिबध्वं॒ वि नो॒ राधां॑सि म॒तिभि॑र्दयध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “share.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -232,7 +237,6 @@ Drink together at the sacrifices, autonomous ones. Apportion rewards to  us in a
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/037/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -240,7 +244,6 @@ The stationing of the adj. ámṛkta- ‘indestructible’ at the end of the b p
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -58,7 +59,11 @@ pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)
 
 róma ← róman- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्वात॑जूतो॒ वना॒ व्यस्था॑द॒ग्निर्ह॑ दाति॒ रोमा॑ पृथि॒व्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +143,6 @@ _________
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

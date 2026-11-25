@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -77,7 +78,12 @@ svìṣṭena ← svìṣṭa- (nominal stem)
 
 vakṣáṇāḥ ← vakṣáṇā- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+होता॑ध्व॒र्युराव॑या अग्निमि॒न्धो ग्रा॑वग्रा॒भ उ॒त शंस्ता॒ सुवि॑प्रः ।  
+तेन॑ य॒ज्ञेन॒ स्व॑रङ्कृतेन॒ स्वि॑ष्टेन व॒क्षणा॒ आ पृ॑णध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निवरुणसोमानां निहवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ jyók ← jyók (invariable)
 
 támaḥ ← támas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं नो॑ अग्न॒ उप॑ य॒ज्ञमेहि॒ पञ्च॑यामं त्रि॒वृतं॑ स॒प्तत॑न्तुम् ।  
+असो॑ हव्य॒वाळु॒त नः॑ पुरो॒गा ज्योगे॒व दी॒र्घं तम॒ आश॑यिष्ठाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “lie; stay.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

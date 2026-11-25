@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ ní ← ní (invariable)
 
 viśvā́yuḥ ← viśvā́yu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॒ द्यौश्चि॑त्ते॒ अप॒ सा नु वज्रा॑द्द्वि॒तान॑मद्भि॒यसा॒ स्वस्य॑ म॒न्योः ।  
+अहिं॒ यदिन्द्रो॑ अ॒भ्योह॑सानं॒ नि चि॑द्वि॒श्वायुः॑ श॒यथे॑ ज॒घान॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

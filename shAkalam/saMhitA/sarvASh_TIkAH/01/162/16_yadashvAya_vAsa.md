@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -77,7 +78,12 @@ priyā́ ← priyá- (nominal stem)
 
 yāmayanti ← √yam- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदश्वा॑य॒ वास॑ उपस्तृ॒णन्त्य॑धीवा॒सं या हिर॑ण्यान्यस्मै ।  
+सं॒दान॒मर्व॑न्तं॒ पड्बी॑शं प्रि॒या दे॒वेष्वा या॑मयन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “unfold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

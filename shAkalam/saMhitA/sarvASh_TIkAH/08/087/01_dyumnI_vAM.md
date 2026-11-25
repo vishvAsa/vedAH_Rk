@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ iva ← iva (invariable)
 
 pātám ← √pā- 2 (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यु॒म्नी वां॒ स्तोमो॑ अश्विना॒ क्रिवि॒र्न सेक॒ आ ग॑तम् ।  
+मध्वः॑ सु॒तस्य॒ स दि॒वि प्रि॒यो न॑रा पा॒तं गौ॒रावि॒वेरि॑णे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “hole; rivulet.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -255,12 +260,6 @@ Brilliant is the praise song for you two, o Aśvins, like a blood-red  (horse) [
 This (outpouring) of pressed honey is dear to heaven, o men. Drink like  buffaloes at a salt-pocket.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the difficult word krívi-, see comm. ad I.30.1. Though krívi- is found in a discouraging variety of contexts, our passage is similar to I.30.1, in that the root √sic ‘pour’ is associated with it.
-
-This verse modulates rather cleverly from praise for the Aśvins (stómaḥ, pāda a) to pressed soma for them (mádhvaḥ sutásya, pāda c), pivoting on séke ‘at its outpouring’, which is literally applicable to the soma but, as is well known, metaphorically applicable to the praise.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/087/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -268,7 +267,6 @@ The d pādas of these two vss. apparently begin with the same verb: 1d pātám, 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

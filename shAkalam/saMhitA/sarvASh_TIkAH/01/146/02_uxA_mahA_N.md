@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ rihánti ← √rih- (root)
 
 ū́dhaḥ ← ū́dhar- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्षा म॒हाँ अ॒भि व॑वक्ष एने अ॒जर॑स्तस्थावि॒तऊ॑तिरृ॒ष्वः ।  
+उ॒र्व्याः प॒दो नि द॑धाति॒ सानौ॑ रि॒हन्त्यूधो॑ अरु॒षासो॑ अस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्ट्रादंष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sám ← sám (invariable)
 
 vivyāca ← √vyac- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॒ हि सद॑सो धी॒तिरद्यौ॒त्सं गा॑र्ष्टे॒यो वृ॑ष॒भो गोभि॑रानट् ।  
+उद॑तिष्ठत्तवि॒षेणा॒ रवे॑ण म॒हान्ति॑ चि॒त्सं वि॑व्याचा॒ रजां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

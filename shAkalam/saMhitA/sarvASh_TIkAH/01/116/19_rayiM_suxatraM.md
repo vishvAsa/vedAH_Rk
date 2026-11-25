@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ dádhatīm ← √dhā- 1 (root)
 
 trís ← trís (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+र॒यिं सु॑क्ष॒त्रं स्व॑प॒त्यमायुः॑ सु॒वीर्यं॑ नासत्या॒ वह॑न्ता ।  
+आ ज॒ह्नावीं॒ सम॑न॒सोप॒ वाजै॒स्त्रिरह्नो॑ भा॒गं दध॑तीमयातम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

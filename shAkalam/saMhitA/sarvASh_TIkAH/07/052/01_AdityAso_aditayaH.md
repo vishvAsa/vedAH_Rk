@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -71,7 +72,12 @@ bhávema ← √bhū- (root)
 
 dyāvāpr̥thivī ← dyā́vāpr̥thivī́- (nominal stem)  
 {case:VOC, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒दि॒त्यासो॒ अदि॑तयः स्याम॒ पूर्दे॑व॒त्रा व॑सवो मर्त्य॒त्रा ।  
+सने॑म मित्रावरुणा॒ सन॑न्तो॒ भवे॑म द्यावापृथिवी॒ भव॑न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

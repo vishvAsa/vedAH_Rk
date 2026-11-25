@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ mádanti ← √mad- (root)
 
 suvī́ryāya ← suvī́rya- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे सा वां॑ माध्वी रा॒तिर॑स्तु॒ स्तोमं॑ हिनोतं मा॒न्यस्य॑ का॒रोः ।  
+अनु॒ यद्वां॑ श्रव॒स्या॑ सुदानू सु॒वीर्या॑य चर्ष॒णयो॒ मद॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

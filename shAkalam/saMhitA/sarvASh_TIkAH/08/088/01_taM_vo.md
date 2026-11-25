@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधाः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ gīrbhíḥ ← gír- ~ gīr- (nominal stem)
 
 navāmahe ← √nu- ~ nū- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वो॑ द॒स्ममृ॑ती॒षहं॒ वसो॑र्मन्दा॒नमन्ध॑सः ।  
+अ॒भि व॒त्सं न स्वस॑रेषु धे॒नव॒ इन्द्रं॑ गी॒र्भिर्न॑वामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “praise; shout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

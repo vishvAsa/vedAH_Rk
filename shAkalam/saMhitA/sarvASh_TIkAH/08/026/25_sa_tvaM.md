@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -66,7 +67,12 @@ kr̥dhí ← √kr̥- (root)
 
 vā́jān ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स त्वं नो॑ देव॒ मन॑सा॒ वायो॑ मन्दा॒नो अ॑ग्रि॒यः ।  
+कृ॒धि वाजाँ॑ अ॒पो धियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
     knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

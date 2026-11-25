@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उत्कीलः कात्यः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ yé ← yá- (pronoun)
 
 viśvā́hā ← viśvā́hā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं न॑रो मरुतः सश्चता॒ वृधं॒ यस्मि॒न्रायः॒ शेवृ॑धासः ।  
+अ॒भि ये सन्ति॒ पृत॑नासु दू॒ढ्यो॑ वि॒श्वाहा॒ शत्रु॑माद॒भुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - \[verb\], plural, Root aorist (Ind.)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

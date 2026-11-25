@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ vádhar ← vádhar- (nominal stem)
 
 vanúṣaḥ ← vanús- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे वर्षि॑ष्ठा कृणुहि॒ ज्येष्ठा॑ नृ॒म्णानि॑ स॒त्रा स॑हुरे॒ सहां॑सि ।  
+अ॒स्मभ्यं॑ वृ॒त्रा सु॒हना॑नि रन्धि ज॒हि वध॑र्व॒नुषो॒ मर्त्य॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

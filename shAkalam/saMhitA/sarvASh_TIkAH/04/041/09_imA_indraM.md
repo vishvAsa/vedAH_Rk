@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -89,7 +90,12 @@ raghvī́ḥ ← raghú- (nominal stem)
 
 śrávasaḥ ← śrávas- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा इन्द्रं॒ वरु॑णं मे मनी॒षा अग्म॒न्नुप॒ द्रवि॑णमि॒च्छमा॑नाः ।  
+उपे॑मस्थुर्जो॒ष्टार॑ इव॒ वस्वो॑ र॒घ्वीरि॑व॒ श्रव॑सो॒ भिक्ष॑माणाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “beg; beg.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

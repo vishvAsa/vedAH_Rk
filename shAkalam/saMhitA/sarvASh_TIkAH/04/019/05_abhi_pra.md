@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ tvám ← tvám (pronoun)
 
 vr̥tā́n ← √vr̥- (root)  
 {case:ACC, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्र द॑द्रु॒र्जन॑यो॒ न गर्भं॒ रथा॑ इव॒ प्र य॑युः सा॒कमद्र॑यः ।  
+अत॑र्पयो वि॒सृत॑ उ॒ब्ज ऊ॒र्मीन्त्वं वृ॒ताँ अ॑रिणा इन्द्र॒ सिन्धू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “river; Indus; sindhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

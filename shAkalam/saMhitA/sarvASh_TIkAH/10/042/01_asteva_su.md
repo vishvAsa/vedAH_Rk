@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ rāmaya ← √ram- (root)
 
 sóme ← sóma- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्ते॑व॒ सु प्र॑त॒रं लाय॒मस्य॒न्भूष॑न्निव॒ प्र भ॑रा॒ स्तोम॑मस्मै ।  
+वा॒चा वि॑प्रास्तरत॒ वाच॑म॒र्यो नि रा॑मय जरितः॒ सोम॒ इन्द्र॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

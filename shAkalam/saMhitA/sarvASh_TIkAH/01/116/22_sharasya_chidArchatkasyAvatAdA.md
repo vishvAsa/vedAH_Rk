@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ pipyathuḥ ← √pī- 1 (root)
 
 staryàm ← starī́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒रस्य॑ चिदार्च॒त्कस्या॑व॒तादा नी॒चादु॒च्चा च॑क्रथुः॒ पात॑वे॒ वाः ।  
+श॒यवे॑ चिन्नासत्या॒ शची॑भि॒र्जसु॑रये स्त॒र्यं॑ पिप्यथु॒र्गाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

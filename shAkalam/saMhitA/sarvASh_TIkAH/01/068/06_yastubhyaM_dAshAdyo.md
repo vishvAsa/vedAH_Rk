@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -61,7 +62,11 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 tásmai ← sá- ~ tá- (pronoun)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्तुभ्यं॒ दाशा॒द्यो वा॑ ते॒ शिक्षा॒त्तस्मै॑ चिकि॒त्वान्र॒यिं द॑यस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +143,6 @@ _________
 - “share.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

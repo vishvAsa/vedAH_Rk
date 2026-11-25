@@ -5,13 +5,13 @@ RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -82,7 +82,12 @@ vidyā́ma ← √vid- 2 (root)
 
 vr̥jánam ← vr̥jána- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं माने॑भ्य इन्द्र वि॒श्वज॑न्या॒ रदा॑ म॒रुद्भिः॑ शु॒रुधो॒ गोअ॑ग्राः ।  
+स्तवा॑नेभिः स्तवसे देव दे॒वैर्वि॒द्यामे॒षं वृ॒जनं॑ जी॒रदा॑नुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +210,6 @@ _________
 - “Dānu; dew; drop.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -257,8 +261,6 @@ Den Sängern spende du für alle Menschen milchreiche Gaben, Indra mit den Marut
 Тебя должны прославлять, о бог, вместе с прославляемыми богами!  
 Мы хотим найти щедрую общину, легко дарящую!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

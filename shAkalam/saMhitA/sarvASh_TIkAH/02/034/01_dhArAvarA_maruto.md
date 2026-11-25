@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ dhámantaḥ ← √dhamⁱ- (root)
 
 gā́ḥ ← gáv- ~ gó- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धा॒रा॒व॒रा म॒रुतो॑ धृ॒ष्ण्वो॑जसो मृ॒गा न भी॒मास्तवि॑षीभिर॒र्चिनः॑ ।  
+अ॒ग्नयो॒ न शु॑शुचा॒ना ऋ॑जी॒षिणो॒ भृमिं॒ धम॑न्तो॒ अप॒ गा अ॑वृण्वत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -240,12 +245,6 @@ Wooers of the gushing streams, the Maruts of audacious power, like wild  beasts 
 blazing like fires, possessing the silvery drink, blowing a whirlwind—they  unclosed the cows.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-It is somewhat curious that the hymn begins with the expression “I have set loose my eloquence,” with the augmented aor. asṛkṣi. Such phrases are more usual in the final vss. of hymns, summing up the hymn that has just been produced. Perhaps here the poet means that he has set his eloquence in motion, in preparation for hymn composition. Ian Hollenbaugh suggests it’s a performative “I (have) (hearby) set loose …” kuvíd ordinarily appears with accented verb. Grassmann allows an unaccented verb only when the particle and the verb are in different pāda -- but in other passages where kuvíd and the verb are not in the same pāda the verb can nonetheless be accented, e.g., VIII.91.4cd, VIII.103.9, IX.19.5. (In VII.91.1 the verb is accented though it is in a different pāda, but it may also be in a relative clause -- though see comm. ad loc.) It would be possible to take kuvíd here as construed only with āśuhémā “surely the Child of the Waters is one impelling swift (horses); he will make (the hymns) well-ornamented.” But this seems rather artificial. Perhaps karati lost the expected accent because the hí induced accent of jóṣisat was more syntactically prominent. In any case the unaccented verb vanate in V.3.10 (cited by Grassmann) is also difficult not to construe with the kuvíd in the previous pāda. Grassmann’s rule seems to be variable: in addition to the accented verbs in different clauses cited above, there is at least one example of an unaccented verb in the same clause -- V.36.3 kuvín nú stoṣat … (pace Grassmann’s accented stóṣan s.v. kuvíd; he gives correct stoṣat s.v. stu). For further on verbal accentuation with kuvíd see Hettrich, Hypotaxe 151-52.
-
-As Geldner (and Renou) point out, ‘well-ornamented’ (supéśas-) of hymns means not only poetically skillful but also receiving adequate recompense from the gods; cf. vā́japeśas- ‘having prizes as its ornament’ in the preceding hymn (II.34.6), esp. in conjunction with vājayúḥ ‘seeking prizes’ in our pāda a.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md">
 <details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
@@ -253,7 +252,6 @@ The first words of each hemistich in this series of vss. echo each other: 1a úp
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ ha ← ha (invariable)
 
 prathamā́ḥ ← prathamá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तच्च॒न त्वो॒ वि चि॑केतदेषां स॒त्यो मन्त्रः॑ कविश॒स्त ऋघा॑वान् ।  
+त्रि॒रश्रिं॑ हन्ति॒ चतु॑रश्रिरु॒ग्रो दे॑व॒निदो॒ ह प्र॑थ॒मा अ॑जूर्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

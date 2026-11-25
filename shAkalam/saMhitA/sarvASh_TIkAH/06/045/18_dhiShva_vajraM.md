@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ sāsahīṣṭhā́ḥ ← √sah- (root)
 
 spŕ̥dhaḥ ← spŕ̥dh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धि॒ष्व वज्रं॒ गभ॑स्त्यो रक्षो॒हत्या॑य वज्रिवः ।  
+सा॒स॒ही॒ष्ठा अ॒भि स्पृधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “rival; enemy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

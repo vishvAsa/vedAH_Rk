@@ -4,6 +4,7 @@ devataa = "ज्ञानं"
 RShiH = "बृहस्पतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ज्ञानं
@@ -101,7 +102,12 @@ suvā́sāḥ ← suvā́sas- (nominal stem)
 
 uśatī́ ← √vaś- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्वः॒ पश्य॒न्न द॑दर्श॒ वाच॑मु॒त त्वः॑ शृ॒ण्वन्न शृ॑णोत्येनाम् ।  
+उ॒तो त्व॑स्मै त॒न्वं१॒॑ वि स॑स्रे जा॒येव॒ पत्य॑ उश॒ती सु॒वासाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -261,7 +267,6 @@ _________
 - “clothing; fabric; garment; feather; dress; envelope.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

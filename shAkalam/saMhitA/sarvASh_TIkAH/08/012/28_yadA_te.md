@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ víśvā ← víśva- (nominal stem)
 
 yemire ← √yam- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒दा ते॑ हर्य॒ता हरी॑ वावृ॒धाते॑ दि॒वेदि॑वे ।  
+आदित्ते॒ विश्वा॒ भुव॑नानि येमिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -183,7 +188,6 @@ When your two beloved fallow bays grew strong from day to day, just after that a
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -201,7 +205,6 @@ The phonetic figure noted in VIII.6.36 dominates the next four verses: haryatā�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

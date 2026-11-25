@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ ráṇam ← ráṇa- (nominal stem)
 
 vibhumádbhyaḥ ← vibhumánt- (nominal stem)  
 {case:DAT, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ह॒ त्यत्स॒प्तभ्यो॒ जाय॑मानोऽश॒त्रुभ्यो॑ अभवः॒ शत्रु॑रिन्द्र ।  
+गू॒ळ्हे द्यावा॑पृथि॒वी अन्व॑विन्दो विभु॒मद्भ्यो॒ भुव॑नेभ्यो॒ रणं॑ धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -233,12 +238,6 @@ You then—just as you were being born, you became the rival to the  seven unriv
 You discovered heaven and earth, which were hidden. You provided joy  to the wide-ranging creatures.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The identity of the “seven” is unclear; ordinarily that number refers to rivers or priestly offices, but neither makes sense here. However, Geldner (n. to 16a) points to seven enemies destroyed by Indra in X.49.8, 120.6.
-
-Geldner takes vibhu-mánt- (only here) as ‘die in dir einen Gebieter hatten’; this might be plausible, because Indra is characterized as vibhū́in 11 and so creatures associated with him might possess him as vibhú-. But the problem is that vibhú-/ū́- is only adjectival, as far as I can tell, and does not have the ‘lord, master’ meaning presupposed here. Though possessive -vant-/-mant- stems should be built to nouns, Debrunner (AiG II.2.877-78) allows for pleonastic+++(=redundant)+++ use of the suffix with adjectives in this and a number of other cases.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -246,7 +245,6 @@ These three vss. begin tváṃ ha tyád. As elsewhere with this configuration (2
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

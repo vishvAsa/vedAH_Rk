@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -92,7 +93,12 @@ dāt ← √dā- 1 (root)
 
 sū́raḥ ← sū́ra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॑स्य बा॒हू शि॑थि॒रा बृ॒हन्ता॑ हिर॒ण्यया॑ दि॒वो अन्ताँ॑ अनष्टाम् ।  
+नू॒नं सो अ॑स्य महि॒मा प॑निष्ट॒ सूर॑श्चिदस्मा॒ अनु॑ दादप॒स्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “activity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -261,14 +266,6 @@ Suraścid **asmā** anudād apasyām = sūryo asminsavitre karmecchām anudadāt
 His two golden arms, pliant and lofty, have reached up to the ends of heaven. Now this greatness of his has been marveled at. Even the sun has ceded  to him his task.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Both Geldner and Renou take the aor. injunc. paniṣṭa in c as modal, but the aor.
-
-injunc. ánu dāt in d as general pres. (e.g., “Jetzt sei … gepriesen; … ordnet …”). But there is no reason that the first needs to be assigned modal value: the temporal adv.
-
-nūnám can instead draw attention to an immediate past action (“has [just] been wondered at”). And it seems preferable, if contextually possible, to take the two adjacent aor. injunctives in the same value.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -276,7 +273,6 @@ Although Savitar’s role as god of evening, causing the world and its activitie
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

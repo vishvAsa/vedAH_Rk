@@ -4,6 +4,7 @@ devataa = "पवमानः"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः
@@ -89,7 +90,12 @@ pávamānaḥ ← √pū- (root)
 
 viveśa ← √viś- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒जा ह॑ ति॒स्रो अ॒त्याय॑मीयु॒र्न्य१॒॑न्या अ॒र्कम॒भितो॑ विविश्रे ।  
+बृ॒हद्ध॑ तस्थौ॒ भुव॑नेष्व॒न्तः पव॑मानो ह॒रित॒ आ वि॑वेश ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

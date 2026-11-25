@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ naḥ ← ahám (pronoun)
 
 urugāyám ← urugāyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒च्छा दि॑वो दुहितः प्रत्न॒वन्नो॑ भरद्वाज॒वद्वि॑ध॒ते म॑घोनि ।  
+सु॒वीरं॑ र॒यिं गृ॑ण॒ते रि॑रीह्युरुगा॒यमधि॑ धेहि॒ श्रवो॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

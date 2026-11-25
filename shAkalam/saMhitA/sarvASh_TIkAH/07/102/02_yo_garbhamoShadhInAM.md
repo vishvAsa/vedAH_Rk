@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "वसिष्ठः कुमारो वाग्नेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -54,7 +55,12 @@ parjányaḥ ← parjánya- (nominal stem)
 
 puruṣī́ṇām ← puruṣī́- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो गर्भ॒मोष॑धीनां॒ गवां॑ कृ॒णोत्यर्व॑ताम् ।  
+प॒र्जन्यः॑ पुरु॒षीणा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “woman.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

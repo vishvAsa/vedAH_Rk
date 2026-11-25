@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -64,7 +65,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं विप्रा॑ उ॒क्थवा॑हसोऽभिप्रम॒न्दुरा॒यवः॑ ।  
+घृ॒तं न पि॑प्य आ॒सन्यृ॒तस्य॒ यत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “who; which; yat \[pronoun\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,12 +175,6 @@ Whom [=Indra] the inspired Āyus, whose conveyance is solemn speech,  have broug
 like ghee, it swells in his mouth—(the speech) that belongs to truth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner interprets the verb abhipramandúḥ somewhat bizarrely as ‘go on a pilgrimage to’ (“Zu dem … die … Āyu’s … pilgerten”), presumably influenced by ukthávāhasaḥ ‘whose conveyance is solemn speech’. Kümmel (357) takes the same verb as intransitive, with the yám expressing the source of pleasure (“An dem die Erregten … sich (schon immer) erfreuen”). I see no reason why it is not a straight transitive “bring to exhilaration” like other forms of the act. pf. of √mad.
-
-The question is what is the relationship between ab and c. Properly speaking, the yám should have a referent in the main clause (which is c: note the unaccented verb pipye), but there is no obvious candidate. Geldner simply treats ab as an unresolved relative clause, without comment. I assume that Indra, the presumed referent of yám in pāda a, is covertly present in c: it is his mouth in which the speech/hymn swells - the speech having been homologized to soma already by the √mad form in b. See also 4ab where praise is compared to purified ghee, which may mediate the simile in our c, ghṛtám iva. Geldner, however, seems to take the mouth as belonging to the Āyus (“… ihrem Mund”); this would make sense as the source of the speech offered to Indra. Perhaps the lack of an overt genitive limiting ‘mouth’ allows both interpretations some currency. I might therefore emend the published translation to “it swells in his/their mouth.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -183,7 +182,6 @@ Lüders (Varuṇa 450) comments about the tṛca that it concerns only the songs
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

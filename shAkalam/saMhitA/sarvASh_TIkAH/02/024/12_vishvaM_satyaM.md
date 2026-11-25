@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिरिन्द्रश्च"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिरिन्द्रश्च
@@ -92,7 +93,12 @@ vājínā ← vājín- (nominal stem)
 
 yújā ← yúj- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वं॑ स॒त्यं म॑घवाना यु॒वोरिदाप॑श्च॒न प्र मि॑नन्ति व्र॒तं वा॑म् ।  
+अच्छे॑न्द्राब्रह्मणस्पती ह॒विर्नोऽन्नं॒ युजे॑व वा॒जिना॑ जिगातम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

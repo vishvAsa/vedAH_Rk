@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "द्रोणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ vapasi ← √vap- 1 (root)
 
 váptā ← váptar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदु॒द्वतो॑ नि॒वतो॒ यासि॒ बप्स॒त्पृथ॑गेषि प्रग॒र्धिनी॑व॒ सेना॑ ।  
+य॒दा ते॒ वातो॑ अनु॒वाति॑ शो॒चिर्वप्ते॑व॒ श्मश्रु॑ वपसि॒ प्र भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

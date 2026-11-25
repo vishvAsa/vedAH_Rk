@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ ná ← ná (invariable)
 
 sáptiḥ ← sápti- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो भा॒नुभि॑र्वि॒भावा॑ वि॒भात्य॒ग्निर्दे॒वेभि॑रृ॒तावाज॑स्रः ।  
+आ यो वि॒वाय॑ स॒ख्या सखि॒भ्योऽप॑रिह्वृतो॒ अत्यो॒ न सप्तिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “horse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

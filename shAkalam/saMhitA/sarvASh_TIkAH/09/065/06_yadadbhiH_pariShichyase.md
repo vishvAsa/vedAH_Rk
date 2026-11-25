@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ drúṇā ← dā́ru- (nominal stem)
 
 sadhástham ← sadhástha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒द्भिः प॑रिषि॒च्यसे॑ मृ॒ज्यमा॑नो॒ गभ॑स्त्योः ।  
+द्रुणा॑ स॒धस्थ॑मश्नुषे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -112,7 +118,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -139,10 +144,6 @@ When you are poured all around with waters, being groomed in the  two hands,
 you attain to your seat by means of the wooden (vessel).
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On druṇā́see comm. ad IX.1.2.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -150,7 +151,6 @@ No obvious signs of unity
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

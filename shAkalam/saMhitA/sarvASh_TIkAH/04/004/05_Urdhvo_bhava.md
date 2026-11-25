@@ -4,6 +4,7 @@ devataa = "रक्षोहाग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रक्षोहाग्निः
@@ -89,7 +90,12 @@ prá ← prá (invariable)
 
 śátrūn ← śátru- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वो भ॑व॒ प्रति॑ वि॒ध्याध्य॒स्मदा॒विष्कृ॑णुष्व॒ दैव्या॑न्यग्ने ।  
+अव॑ स्थि॒रा त॑नुहि यातु॒जूनां॑ जा॒मिमजा॑मिं॒ प्र मृ॑णीहि॒ शत्रू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -98,7 +104,7 @@ prá ← prá (invariable)
 अव॑ । स्थि॒रा । त॒नु॒हि॒ । या॒तु॒ऽजूना॑म् । जा॒मिम् । अजा॑मिम् । प्र । मृ॒णी॒हि॒ । शत्रू॑न् ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 ऊ॒र्ध्वः । भ॒व॒ । प्रतीति॑ । वि॒ध्य॒ । अधीति॑ । अ॒स्मत् । आ॒विः । कृ॒णु॒ष्व॒ । दैव्या॑नि । अ॒ग्ने॒ ॥ अवेति॑ । स्थि॒रा । त॒नु॒हि॒ । या॒तु॒जूना॑म् । जा॒मिम् । अजा॑मिम् । प्रेति॑ । मृ॒णी॒हि॒ । शत्रून्॑ ॥
 </details>
@@ -233,7 +239,6 @@ _________
 - “enemy; foe; enemy; Asura.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -259,7 +264,7 @@ _________
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 Rise up O agni, hit back against those who fight against us, putting forth your celestial might.  
-Slacken the firm bows of the inciters of yAtus, destroy our foemen whether from our people or foreigners. 
+Slacken the firm bows of the inciters of yAtus, destroy our foemen whether from our people or foreigners.
 </details>
 
 <details><summary>Wilson</summary>

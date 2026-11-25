@@ -4,6 +4,7 @@ devataa = "धनान्नदानप्रशंसा"
 RShiH = "भिक्षुराङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - धनान्नदानप्रशंसा
@@ -89,7 +90,12 @@ pr̥ṇán ← √pr̥̄- 1 (root)
 
 syāt ← √as- 1 (root)  
 {number:SG, person:3, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒षन्नित्फाल॒ आशि॑तं कृणोति॒ यन्नध्वा॑न॒मप॑ वृङ्क्ते च॒रित्रैः॑ ।  
+वद॑न्ब्र॒ह्माव॑दतो॒ वनी॑यान्पृ॒णन्ना॒पिरपृ॑णन्तम॒भि ष्या॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

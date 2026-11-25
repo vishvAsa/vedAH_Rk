@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ urú ← urú- (nominal stem)
 
 yachata ← √yam- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपामी॑वा॒मप॒ विश्वा॒मना॑हुति॒मपारा॑तिं दुर्वि॒दत्रा॑मघाय॒तः ।  
+आ॒रे दे॑वा॒ द्वेषो॑ अ॒स्मद्यु॑योतनो॒रु णः॒ शर्म॑ यच्छता स्व॒स्तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     well; luck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

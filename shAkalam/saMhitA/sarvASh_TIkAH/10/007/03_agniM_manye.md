@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ sū́ryasya ← sū́rya- (nominal stem)
 
 yajatám ← yajatá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं म॑न्ये पि॒तर॑म॒ग्निमा॒पिम॒ग्निं भ्रात॑रं॒ सद॒मित्सखा॑यम् ।  
+अ॒ग्नेरनी॑कं बृह॒तः स॑पर्यं दि॒वि शु॒क्रं य॑ज॒तं सूर्य॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

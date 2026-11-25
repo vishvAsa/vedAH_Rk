@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -61,7 +62,11 @@ tmánā ← tmán- (nominal stem)
 
 yā́tā ← yā́tar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्र स्था॒ताहे॑व य॒ज्ञं याते॑व॒ पत्म॒न्त्मना॑ हिनोत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +142,6 @@ _________
 - “impel; send; spur; stimulate; urge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,10 +168,6 @@ Set out on the sacrifice as if through the days.
 Like a (chariot-)driver in flight, spur it on by yourself.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-sá śardhad aryó víṣuṇasya jantóḥ, where the second phrase shows (or at least strongly suggests) that aryáḥ is gen. sg. On the phrase see Thieme (Fremdling 54-55).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -183,7 +183,6 @@ The 2nd pl. impvs. in these two vss., 5a abhí prá sthāta, 5d hinota, 6b hinó
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

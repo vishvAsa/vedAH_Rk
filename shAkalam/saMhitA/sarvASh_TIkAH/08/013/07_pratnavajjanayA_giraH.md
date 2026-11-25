@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -58,7 +59,12 @@ vavakṣitha ← √vakṣ- (root)
 
 sukŕ̥tvane ← sukŕ̥tvan- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒त्न॒वज्ज॑नया॒ गिरः॑ शृणु॒धी ज॑रि॒तुर्हव॑म् ।  
+मदे॑मदे ववक्षिथा सु॒कृत्व॑ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “busy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

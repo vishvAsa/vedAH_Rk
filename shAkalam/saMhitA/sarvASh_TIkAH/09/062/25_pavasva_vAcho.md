@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ kā́vyā ← kā́vya- (nominal stem)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व वा॒चो अ॑ग्रि॒यः सोम॑ चि॒त्राभि॑रू॒तिभिः॑ ।  
+अ॒भि विश्वा॑नि॒ काव्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “Uśanas; poem; Kāvya; wisdom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -152,10 +157,6 @@ Purify yourself, Soma, with your bright help, going at the forefront  of speech
 toward all products of poetic skill.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Both Geldner and Renou supply an intermediate infinitive to govern víśvāni kā́vyā: “um alle Sehergabe zu gewinnen” and “en vue de (nous procurer) tous pouvoirs-poétiques” respectively - on what basis is completely unclear to me. I see no reason why it can’t simply be a goal, as I’ve taken it. See also comm. ad IX.75.1.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -163,7 +164,6 @@ This tṛca shows more signs of unity than others in this hymn, esp. in the 1st 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

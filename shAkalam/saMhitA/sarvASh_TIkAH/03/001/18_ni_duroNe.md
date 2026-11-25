@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ vidvā́n ← √vid- 2 (root)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि दु॑रो॒णे अ॒मृतो॒ मर्त्या॑नां॒ राजा॑ ससाद वि॒दथा॑नि॒ साध॑न् ।  
+घृ॒तप्र॑तीक उर्वि॒या व्य॑द्यौद॒ग्निर्विश्वा॑नि॒ काव्या॑नि वि॒द्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     specify; watch; recognize; detect; call.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

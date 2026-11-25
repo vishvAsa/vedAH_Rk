@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ práyasā ← práyas- (nominal stem)
 
 vardháyantīḥ ← √vr̥dh- (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दध॑न्नृ॒तं ध॒नय॑न्नस्य धी॒तिमादिद॒र्यो दि॑धि॒ष्वो॒३॒॑ विभृ॑त्राः ।  
+अतृ॑ष्यन्तीर॒पसो॑ य॒न्त्यच्छा॑ दे॒वाञ्जन्म॒ प्रय॑सा व॒र्धय॑न्तीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “increase; strengthen; promote; rear; add; greet; laud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

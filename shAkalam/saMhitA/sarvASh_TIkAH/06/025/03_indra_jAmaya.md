@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ párācaḥ ← párāñc- (nominal stem)
 
 vŕ̥ṣṇyāni ← vŕ̥ṣṇya- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ जा॒मय॑ उ॒त येऽजा॑मयोऽर्वाची॒नासो॑ व॒नुषो॑ युयु॒ज्रे ।  
+त्वमे॑षां विथु॒रा शवां॑सि ज॒हि वृष्ण्या॑नि कृणु॒ही परा॑चः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “fleeing(a); departing(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

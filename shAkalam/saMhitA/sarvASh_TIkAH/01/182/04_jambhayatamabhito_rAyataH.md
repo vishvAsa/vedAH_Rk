@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ nāsatyā ← nā́satya- (nominal stem)
 
 ubhā́ ← ubhá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज॒म्भय॑तम॒भितो॒ राय॑तः॒ शुनो॑ ह॒तं मृधो॑ वि॒दथु॒स्तान्य॑श्विना ।  
+वाचं॑वाचं जरि॒तू र॒त्निनीं॑ कृतमु॒भा शंसं॑ नासत्यावतं॒ मम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

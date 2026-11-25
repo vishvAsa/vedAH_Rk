@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -119,7 +120,13 @@ dadāti ← √dā- 1 (root)
 
 rayím ← rayí- ~ rāy- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒नोति॒ हि सु॒न्वन्क्षयं॒ परी॑णसः सुन्वा॒नो हि ष्मा॒ यज॒त्यव॒ द्विषो॑ दे॒वाना॒मव॒ द्विषः॑ ।  
+सु॒न्वा॒न इत्सि॑षासति स॒हस्रा॑ वा॒ज्यवृ॑तः ।  
+सु॒न्वा॒नायेन्द्रो॑ ददात्या॒भुवं॑ र॒यिं द॑दात्या॒भुव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -298,7 +305,6 @@ _________
 - “assistant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

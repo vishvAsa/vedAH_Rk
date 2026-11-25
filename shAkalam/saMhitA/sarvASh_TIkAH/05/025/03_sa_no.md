@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ suvr̥ktíbhiḥ ← suvr̥ktí- (nominal stem)
 
 vareṇya ← váreṇya- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॑ धी॒ती वरि॑ष्ठया॒ श्रेष्ठ॑या च सुम॒त्या ।  
+अग्ने॑ रा॒यो दि॑दीहि नः सुवृ॒क्तिभि॑र्वरेण्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “excellent; desirable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विभिन्दोर्दानस्तुतिः"
 RShiH = "मेधातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विभिन्दोर्दानस्तुतिः
@@ -57,7 +58,12 @@ janitvanā́ya ← janitvaná- (nominal stem)
 
 māmahe ← √maṁh- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त सु त्ये प॑यो॒वृधा॑ मा॒की रण॑स्य न॒प्त्या॑ ।  
+ज॒नि॒त्व॒नाय॑ मामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “give; accord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

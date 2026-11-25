@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sunávāma ← √su- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं भा॒नुना॑ यतते॒ सूर्य॑स्या॒जुह्वा॑नो घृ॒तपृ॑ष्ठः॒ स्वञ्चाः॑ ।  
+तस्मा॒ अमृ॑ध्रा उ॒षसो॒ व्यु॑च्छा॒न्य इन्द्रा॑य सु॒नवा॒मेत्याह॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     explain; say; define.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

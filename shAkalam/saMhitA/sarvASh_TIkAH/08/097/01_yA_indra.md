@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ vr̥ktábarhiṣaḥ ← vr̥ktábarhis- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या इ॑न्द्र॒ भुज॒ आभ॑रः॒ स्व॑र्वाँ॒ असु॑रेभ्यः ।  
+स्तो॒तार॒मिन्म॑घवन्नस्य वर्धय॒ ये च॒ त्वे वृ॒क्तब॑र्हिषः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “Barhis; barhis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

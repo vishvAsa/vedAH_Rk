@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "बाहुवृक्त आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -63,7 +64,12 @@ imám ← ayám (pronoun)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ गन्तं रिशादसा॒ वरु॑ण॒ मित्र॑ ब॒र्हणा॑ ।  
+उपे॒मं चारु॑मध्व॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

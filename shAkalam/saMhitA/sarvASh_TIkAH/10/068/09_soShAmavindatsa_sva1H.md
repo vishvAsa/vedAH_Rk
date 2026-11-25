@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -92,7 +93,12 @@ nís ← nís (invariable)
 
 párvaṇaḥ ← párvan- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोषाम॑विन्द॒त्स स्व१॑ः॒ सो अ॒ग्निं सो अ॒र्केण॒ वि ब॑बाधे॒ तमां॑सि ।  
+बृह॒स्पति॒र्गोव॑पुषो व॒लस्य॒ निर्म॒ज्जानं॒ न पर्व॑णो जभार ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

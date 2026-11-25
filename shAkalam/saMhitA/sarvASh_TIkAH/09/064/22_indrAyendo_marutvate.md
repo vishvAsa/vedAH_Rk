@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑येन्दो म॒रुत्व॑ते॒ पव॑स्व॒ मधु॑मत्तमः ।  
+ऋ॒तस्य॒ योनि॑मा॒सद॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +122,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -143,7 +148,6 @@ For Indra with the Maruts, o drop, purify yourself as the most honeyed, to sit o
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -151,7 +155,6 @@ The mention of the divine recipients of the soma in vss. 22 and 24 marks this t�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

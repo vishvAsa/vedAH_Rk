@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ kā́ṣṭhāsu ← kā́ṣṭhā- (nominal stem)
 
 tvā́m ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वामिद्धि हवा॑महे सा॒ता वाज॑स्य का॒रवः॑ ।  
+त्वां वृ॒त्रेष्वि॑न्द्र॒ सत्प॑तिं॒ नर॒स्त्वां काष्ठा॒स्वर्व॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “horse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -217,7 +222,6 @@ obstacles, you at the finish lines of our steed,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -231,7 +235,6 @@ kira (see my 1992 “Vedic ‘sá figé’: An inherited sentence connective?”
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

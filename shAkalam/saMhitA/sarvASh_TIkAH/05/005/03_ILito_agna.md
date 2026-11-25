@@ -4,6 +4,7 @@ devataa = "इळः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इळः
@@ -63,7 +64,12 @@ sukhaíḥ ← sukhá- (nominal stem)
 
 ūtáye ← ūtí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒ळि॒तो अ॑ग्न॒ आ व॒हेन्द्रं॑ चि॒त्रमि॒ह प्रि॒यम् ।  
+सु॒खै रथे॑भिरू॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

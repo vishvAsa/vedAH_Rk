@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -92,7 +93,12 @@ mártyāya ← mártya- (nominal stem)
 
 úṣaḥ ← uṣás- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उत्ते॒ वय॑श्चिद्वस॒तेर॑पप्त॒न्नर॑श्च॒ ये पि॑तु॒भाजो॒ व्यु॑ष्टौ ।  
+अ॒मा स॒ते व॑हसि॒ भूरि॑ वा॒ममुषो॑ देवि दा॒शुषे॒ मर्त्या॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

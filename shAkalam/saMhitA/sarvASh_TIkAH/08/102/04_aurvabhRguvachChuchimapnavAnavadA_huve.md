@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रयोगो भार्गव अग्निर्वा पावको बार्हस्पत्यः, अथवाग्नी गृहपतियविष्ठौ सहसः सुतौ तयोर्वान्यतरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -51,7 +52,12 @@ agním ← agní- (nominal stem)
 
 samudrávāsasam ← samudrávāsas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+औ॒र्व॒भृ॒गु॒वच्छुचि॑मप्नवान॒वदा हु॑वे ।  
+अ॒ग्निं स॑मु॒द्रवा॑ससम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “clothing; fabric; garment; feather; dress; envelope.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

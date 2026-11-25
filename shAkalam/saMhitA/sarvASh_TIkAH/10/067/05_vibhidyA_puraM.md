@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -89,7 +90,12 @@ stanáyan ← √stanⁱ- (root)
 
 viveda ← √vid- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒भिद्या॒ पुरं॑ श॒यथे॒मपा॑चीं॒ निस्त्रीणि॑ सा॒कमु॑द॒धेर॑कृन्तत् ।  
+बृह॒स्पति॑रु॒षसं॒ सूर्यं॒ गाम॒र्कं वि॑वेद स्त॒नय॑न्निव॒ द्यौः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

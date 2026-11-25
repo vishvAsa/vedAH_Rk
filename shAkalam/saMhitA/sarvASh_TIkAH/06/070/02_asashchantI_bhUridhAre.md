@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -80,7 +81,12 @@ siñcatam ← √sic- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस॑श्चन्ती॒ भूरि॑धारे॒ पय॑स्वती घृ॒तं दु॑हाते सु॒कृते॒ शुचि॑व्रते ।  
+राज॑न्ती अ॒स्य भुव॑नस्य रोदसी अ॒स्मे रेतः॑ सिञ्चतं॒ यन्मनु॑र्हितम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,7 +247,6 @@ Ruling over this creation, you two World-Halves, for us pour the semen,  as was 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/070/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -252,7 +256,6 @@ madhu-dúgha- ‘milking out honey’ in 1b is reprised by the VP ghṛtáṃ du
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

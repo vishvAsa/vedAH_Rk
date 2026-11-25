@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ párṣat ← √pr̥- (root)
 
 sukrátuḥ ← sukrátu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वाँ अ॒ग्निं व॑सू॒यवः॑ सहसा॒नं व॑वन्दिम ।  
+स नो॒ विश्वा॒ अति॒ द्विषः॒ पर्ष॑न्ना॒वेव॑ सु॒क्रतुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

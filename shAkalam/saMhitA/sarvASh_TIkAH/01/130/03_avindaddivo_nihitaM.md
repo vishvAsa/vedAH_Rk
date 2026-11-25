@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -119,7 +120,13 @@ dvā́raḥ ← dvā́r- (nominal stem)
 
 párīvr̥tāḥ ← √vr̥- (root)  
 {case:ACC, gender:F, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवि॑न्दद्दि॒वो निहि॑तं॒ गुहा॑ नि॒धिं वेर्न गर्भं॒ परि॑वीत॒मश्म॑न्यन॒न्ते अ॒न्तरश्म॑नि ।  
+व्र॒जं व॒ज्री गवा॑मिव॒ सिषा॑स॒न्नङ्गि॑रस्तमः ।  
+अपा॑वृणो॒दिष॒ इन्द्रः॒ परी॑वृता॒ द्वार॒ इषः॒ परी॑वृताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -293,7 +300,6 @@ _________
 - “enclose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

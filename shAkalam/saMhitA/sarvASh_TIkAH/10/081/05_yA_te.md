@@ -4,6 +4,7 @@ devataa = "विश्वकर्मा"
 RShiH = "विश्वकर्मा भौवनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वकर्मा
@@ -89,7 +90,12 @@ vr̥dhānáḥ ← √vr̥dh- (root)
 
 yajasva ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या ते॒ धामा॑नि पर॒माणि॒ याव॒मा या म॑ध्य॒मा वि॑श्वकर्मन्नु॒तेमा ।  
+शिक्षा॒ सखि॑भ्यो ह॒विषि॑ स्वधावः स्व॒यं य॑जस्व त॒न्वं॑ वृधा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

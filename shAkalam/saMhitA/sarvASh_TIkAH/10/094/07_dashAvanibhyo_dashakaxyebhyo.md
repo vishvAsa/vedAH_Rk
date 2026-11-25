@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "अर्बुदः काद्रवेयः सर्पः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -68,7 +69,12 @@ váhadbhyaḥ ← √vah- (root)
 
 yuktā́ḥ ← √yuj- (root)  
 {case:ACC, gender:F, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दशा॑वनिभ्यो॒ दश॑कक्ष्येभ्यो॒ दश॑योक्त्रेभ्यो॒ दश॑योजनेभ्यः ।  
+दशा॑भीशुभ्यो अर्चता॒जरे॑भ्यो॒ दश॒ धुरो॒ दश॑ यु॒क्ता वह॑द्भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

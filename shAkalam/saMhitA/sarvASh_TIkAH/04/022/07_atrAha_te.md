@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ prásitim ← prásiti- (nominal stem)
 
 syandayádhyai ← √syand- (root)  
 {case:DAT, number:SG, tense:PRS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्राह॑ ते हरिव॒स्ता उ॑ दे॒वीरवो॑भिरिन्द्र स्तवन्त॒ स्वसा॑रः ।  
+यत्सी॒मनु॒ प्र मु॒चो ब॑द्बधा॒ना दी॒र्घामनु॒ प्रसि॑तिं स्यन्द॒यध्यै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
     knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -277,12 +282,6 @@ when you let loose those (waters) that had been hard pressed, to let
 them flow along their long trajectory.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Most tr. take stavanta as passive, and this seems the correct interpr. The sisters are likely the rivers or waters released after the killing of Vṛtra. The question is why they would be praised as well as Indra. Geldner’s suggestion (n. 7ab) is that it is essentially a spill-over effect (not that he uses that term), that Indra’s praiseworthy deed that brought the waters release also brought them praise by association.
-
-I don’t understand the double ánu (pādas c and d), though my surmise is that the first one simply anticipates the second, which is in a semi-fixed expression dīrghā́m ánu prásitim (cf. X.40.10). Grassmann takes it as part of a preverb complex with √muc: ánu prá √muc ‘nacheinander loslassen’, and its position might support that assumption. But surely one of points in the Vṛtra myth is that the rivers burst out dramatically all at once. Geldner, by contrast, compares the identical sequence yát sīm ánu in I.37.9, I.141.9, but those two passages seem unconnected with ours, with the ánu construed with preceding sīm “following them.” (One can also compare IV.38.3 yáṃ sīm ánu, but this has yet a different sense.)
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/022/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -290,7 +289,6 @@ Another responsion: 6c ádhā ha / 7a átrā́ha. Later in the pāda 7a tā́u r
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

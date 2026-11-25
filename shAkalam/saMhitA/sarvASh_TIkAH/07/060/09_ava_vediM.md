@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ urúm ← urú- (nominal stem)
 
 vr̥ṣaṇau ← vŕ̥ṣan- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॒ वेदिं॒ होत्रा॑भिर्यजेत॒ रिपः॒ काश्चि॑द्वरुण॒ध्रुतः॒ सः ।  
+परि॒ द्वेषो॑भिरर्य॒मा वृ॑णक्तू॒रुं सु॒दासे॑ वृषणा उ लो॒कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     \[word\]; space; Loka; topographic point; region; common sense.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

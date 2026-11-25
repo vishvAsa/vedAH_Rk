@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ pāyúbhiḥ ← pāyú- (nominal stem)
 
 śivébhiḥ ← śivá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॒ मर्ता॑य रि॒पवे॑ रक्ष॒स्विने॒ माघशं॑साय रीरधः ।  
+अस्रे॑धद्भिस्त॒रणि॑भिर्यविष्ठ्य शि॒वेभिः॑ पाहि पा॒युभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “guard; pāyu \[word\]; Pāyu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

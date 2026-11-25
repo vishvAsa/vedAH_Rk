@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -104,7 +105,12 @@ triṣṭhám ← triṣṭhá- (nominal stem)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिर्नो॑ र॒यिं व॑हतमश्विना यु॒वं त्रिर्दे॒वता॑ता॒ त्रिरु॒ताव॑तं॒ धियः॑ ।  
+त्रिः सौ॑भग॒त्वं त्रिरु॒त श्रवां॑सि नस्त्रि॒ष्ठं वां॒ सूरे॑ दुहि॒ता रु॑ह॒द्रथ॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -265,7 +271,6 @@ _________
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

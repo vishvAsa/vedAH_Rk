@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -64,7 +65,12 @@ iva ← iva (invariable)
 
 vayā́ḥ ← vayā́- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमिद्विप्रा॑ अव॒स्यवः॑ प्र॒वत्व॑तीभिरू॒तिभिः॑ ।  
+इन्द्रं॑ क्षो॒णीर॑वर्धयन्व॒या इ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,12 +175,6 @@ Just him did the inspired poets, seeking aid, (increase) with downward  coursing
 The battle cries made Indra increase, as tree-branches do.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I am puzzled as to what “downward coursing help(s)” (pravátvatībhir ūtíbhiḥ) might be. As Geldner points out, vs. 25 shows that the instr. phrase should be construed with avardhayan and so it must be help that the poets are giving Indra rather than getting from him (though they themselves are also avasyávaḥ ‘seeking aid’). The stem pravátvant- is generally used of landscape/cosmic features that have a gentle, and by implication pleasant and easily traversed, slope; see esp. V.54.9, where heaven and earth, the paths, and the mountains all provide a pravát- for the Maruts’ journey. The help provided to Indra by the poets may be of the same quality, smoothing and easing his journey to the sacrifice and his participation in it. In our 8b we met waters at play going along a slope (pravátā). Again ‘downhill, sloping down’ implies the path of least resistance and the opposite of effortful activity. If the identification of the poets with the Maruts suggested above is correct, it might be worth noting that four of the seven forms of pravátvant- are found in a single verse in a Marut hymn (the aforementioned V.54.9).
-
-We meet vayā́iva again, repeating the simile of 6c. As in 6 I think that the tree branches are compared with Indra (and hence are acc. here), rather than being compared to the battle cries. They make Indra grow as tree-branches grow.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/013/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -183,7 +182,6 @@ This tṛca begins and ends in the same way: 16a índraṃ vardhantu no gíraḥ
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

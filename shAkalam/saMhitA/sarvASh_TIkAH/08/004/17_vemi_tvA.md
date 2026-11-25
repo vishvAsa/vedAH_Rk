@@ -4,6 +4,7 @@ devataa = "इन्द्रः पूषा वा"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः पूषा वा
@@ -83,7 +84,12 @@ sā́mne ← sā́man- (nominal stem)
 
 stuṣé ← √stu- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वेमि॑ त्वा पूषन्नृ॒ञ्जसे॒ वेमि॒ स्तोत॑व आघृणे ।  
+न तस्य॑ वे॒म्यर॑णं॒ हि तद्व॑सो स्तु॒षे प॒ज्राय॒ साम्ने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

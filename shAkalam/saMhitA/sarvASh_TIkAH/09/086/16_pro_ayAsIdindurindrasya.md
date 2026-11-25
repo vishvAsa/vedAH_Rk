@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ pathā́ ← pánthā- ~ path- (nominal stem)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रो अ॑यासी॒दिन्दु॒रिन्द्र॑स्य निष्कृ॒तं सखा॒ सख्यु॒र्न प्र मि॑नाति सं॒गिर॑म् ।  
+मर्य॑ इव युव॒तिभिः॒ सम॑र्षति॒ सोमः॑ क॒लशे॑ श॒तया॑म्ना प॒था ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “way; road; path \[word\]; journey; method.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -267,10 +272,6 @@ Forth has the drop proceeded to the rendezvous with Indra: a comrade  does not t
 As a young blood rushes together with young women, so does Soma— into the tub, along a path with a hundred courses.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Pāda b strikes me as the quotation of a well-known general truth or proverb, providing the basis for the particular action of pāda a: Soma cannot let Indra down, because (of the old saw) “a comrade …” It’s also worth noting that the other occurrence of saṃgír- (X.89.9) is also the obj. of prá √mī. Renou also adduces IV.25.7 ná … sakhyám índraḥ … sáṃ gṛṇīte “Indra does not agree to companionship (with …).”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -278,7 +279,6 @@ The first two vss. of this tṛca begin with prá with a verb of motion, but oth
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

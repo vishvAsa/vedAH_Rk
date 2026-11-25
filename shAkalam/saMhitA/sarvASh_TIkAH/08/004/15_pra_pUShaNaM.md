@@ -4,6 +4,7 @@ devataa = "इन्द्रः पूषा वा"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः पूषा वा
@@ -74,7 +75,12 @@ túje ← √tuj- (root)
 
 vimocana ← vimócana- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र पू॒षणं॑ वृणीमहे॒ युज्या॑य पुरू॒वसु॑म् ।  
+स श॑क्र शिक्ष पुरुहूत नो धि॒या तुजे॑ रा॒ये वि॑मोचन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - \[noun\], vocative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

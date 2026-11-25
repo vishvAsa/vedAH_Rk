@@ -4,6 +4,7 @@ devataa = "हविर्धाने"
 RShiH = "विवस्वानादित्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हविर्धाने
@@ -86,7 +87,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पञ्च॑ प॒दानि॑ रु॒पो अन्व॑रोहं॒ चतु॑ष्पदी॒मन्वे॑मि व्र॒तेन॑ ।  
+अ॒क्षरे॑ण॒ प्रति॑ मिम ए॒तामृ॒तस्य॒ नाभा॒वधि॒ सं पु॑नामि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “purify; filter; blow; purify; purge; sift.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

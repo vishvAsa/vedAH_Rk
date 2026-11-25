@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ kā́vyā ← kā́vya- (nominal stem)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑माना असृक्षत॒ सोमाः॑ शु॒क्रास॒ इन्द॑वः ।  
+अ॒भि विश्वा॑नि॒ काव्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +121,6 @@ _________
 - “Uśanas; poem; Kāvya; wisdom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -143,14 +148,12 @@ toward all products of poetic skill.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
 This tṛca shows clear signs of unity, indeed of a monotonous sort. Like the previous tṛca, each vs. in this one contains a form of páva-, but in this tṛca all three are the nom. pl. part. pávamānā(sā)ḥ, always opening the vs. Each vs. also contains one finite verb, an augmented form of √sṛj (asṛkṣata 25a, 27b; asṛgram 26b). The first two vss. also contain nom. pl. índavaḥ in the same metrical position (final in the b pāda). The lexeme ápa √han found in the previous tṛca (apaghnán 24a) also reappears here (26c ghnántaḥ … ápa) (and in the next tṛca).
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

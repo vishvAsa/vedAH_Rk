@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -80,7 +81,12 @@ valgūyáti ← √valgūy- (root)
 
 vándate ← √vandⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इद्राजा॒ प्रति॑जन्यानि॒ विश्वा॒ शुष्मे॑ण तस्थाव॒भि वी॒र्ये॑ण ।  
+बृह॒स्पतिं॒ यः सुभृ॑तं बि॒भर्ति॑ वल्गू॒यति॒ वन्द॑ते पूर्व॒भाज॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -226,12 +231,6 @@ who supports Br̥haspati (to be) well-supported, behaves agreeably  to him, and 
 portion.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note the etymological figure in c: súbhṛtam bibhárti.
-
-The sense of pūrvabhā́j- is limited by pū́rva eti in 8d and for that reason is presumably not a ritual technical term. (Vāyu would be the god who “receives the first portion” by that measure.)
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -241,7 +240,6 @@ The figure in vs. 6 is Bṛhaspati; filling the same slot in vs. 7 is the brahm�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

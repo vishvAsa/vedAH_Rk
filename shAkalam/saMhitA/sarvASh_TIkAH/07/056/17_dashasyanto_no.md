@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ sumnébhiḥ ← sumná- (nominal stem)
 
 vasavaḥ ← vásu- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒श॒स्यन्तो॑ नो म॒रुतो॑ मृळन्तु वरिव॒स्यन्तो॒ रोद॑सी सु॒मेके॑ ।  
+आ॒रे गो॒हा नृ॒हा व॒धो वो॑ अस्तु सु॒म्नेभि॑र॒स्मे व॑सवो नमध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “bow; bend; condescend; worship; bend; lower.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

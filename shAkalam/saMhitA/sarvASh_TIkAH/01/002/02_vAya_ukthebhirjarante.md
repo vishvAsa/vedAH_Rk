@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -54,7 +55,12 @@ aharvídaḥ ← aharvíd- (nominal stem)
 
 sutásomāḥ ← sutásoma- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाय॑ उ॒क्थेभि॑र्जरन्ते॒ त्वामच्छा॑ जरि॒तारः॑ ।  
+सु॒तसो॑मा अह॒र्विदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “conversant(p); aware(p); enlightened; understanding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋतवः अग्निः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतवः अग्निः
@@ -66,7 +67,12 @@ píba ← √pā- 2 (root)
 
 r̥túnā ← r̥tú- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ दे॒वाँ इ॒हा व॑ह सा॒दया॒ योनि॑षु त्रि॒षु ।  
+परि॑ भूष॒ पिब॑ ऋ॒तुना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

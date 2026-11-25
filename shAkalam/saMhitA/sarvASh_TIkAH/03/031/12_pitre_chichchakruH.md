@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ rabhasám ← rabhasá- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒त्रे चि॑च्चक्रुः॒ सद॑नं॒ सम॑स्मै॒ महि॒ त्विषी॑मत्सु॒कृतो॒ वि हि ख्यन् ।  
+वि॒ष्क॒भ्नन्तः॒ स्कम्भ॑नेना॒ जनि॑त्री॒ आसी॑ना ऊ॒र्ध्वं र॑भ॒सं वि मि॑न्वन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - \[verb\], plural, Imperfect
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "शची पौलोमी"
 RShiH = "शची पौलोमी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शची पौलोमी
@@ -65,7 +66,12 @@ iva ← iva (invariable)
 
 rā́dhaḥ ← rā́dhas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स॒प॒त्ना स॑पत्न॒घ्नी जय॑न्त्यभि॒भूव॑री ।  
+आवृ॑क्षम॒न्यासां॒ वर्चो॒ राधो॒ अस्थे॑यसामिव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

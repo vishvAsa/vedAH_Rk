@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -83,7 +84,12 @@ pári ← pári (invariable)
 
 tirás ← tirás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यः स्मा॑रुन्धा॒नो गध्या॑ स॒मत्सु॒ सनु॑तर॒श्चर॑ति॒ गोषु॒ गच्छ॑न् ।  
+आ॒विरृ॑जीको वि॒दथा॑ नि॒चिक्य॑त्ति॒रो अ॑र॒तिं पर्याप॑ आ॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - \[noun\], ablative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

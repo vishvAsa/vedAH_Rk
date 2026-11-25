@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ yáḥ ← yá- (pronoun)
 
 gábhastau ← gábhasti- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मनो॒ न येषु॒ हव॑नेषु ति॒ग्मं विपः॒ शच्या॑ वनु॒थो द्रव॑न्ता ।  
+आ यः शर्या॑भिस्तुविनृ॒म्णो अ॒स्याश्री॑णीता॒दिशं॒ गभ॑स्तौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “beam; hand; sun.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

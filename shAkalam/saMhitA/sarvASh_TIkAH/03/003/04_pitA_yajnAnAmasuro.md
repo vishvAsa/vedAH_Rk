@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -83,7 +84,12 @@ kavíḥ ← kaví- (nominal stem)
 
 purupriyáḥ ← purupriyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒ता य॒ज्ञाना॒मसु॑रो विप॒श्चितां॑ वि॒मान॑म॒ग्निर्व॒युनं॑ च वा॒घता॑म् ।  
+आ वि॑वेश॒ रोद॑सी॒ भूरि॑वर्पसा पुरुप्रि॒यो भ॑न्दते॒ धाम॑भिः क॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “mental; wise; mental; enlightened.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

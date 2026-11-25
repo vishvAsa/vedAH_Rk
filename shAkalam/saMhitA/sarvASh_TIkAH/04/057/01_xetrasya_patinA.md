@@ -4,6 +4,7 @@ devataa = "क्षेत्रपतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - क्षेत्रपतिः
@@ -74,7 +75,12 @@ naḥ ← ahám (pronoun)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्षेत्र॑स्य॒ पति॑ना व॒यं हि॒तेने॑व जयामसि ।  
+गामश्वं॑ पोषयि॒त्न्वा स नो॑ मृळाती॒दृशे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “such(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

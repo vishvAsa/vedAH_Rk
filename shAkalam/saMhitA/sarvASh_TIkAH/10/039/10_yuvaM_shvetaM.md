@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 nŕ̥bhyaḥ ← nár- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं श्वे॒तं पे॒दवे॑ऽश्वि॒नाश्वं॑ न॒वभि॒र्वाजै॑र्नव॒ती च॑ वा॒जिन॑म् ।  
+च॒र्कृत्यं॑ ददथुर्द्राव॒यत्स॑खं॒ भगं॒ न नृभ्यो॒ हव्यं॑ मयो॒भुव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -95,7 +96,12 @@ devī́ḥ ← devī́- (nominal stem)
 
 dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वेद्यूने॑ युव॒तयो॑ नमन्त॒ यदी॑मु॒शन्नु॑श॒तीरेत्यच्छ॑ ।  
+सं जा॑नते॒ मन॑सा॒ सं चि॑कित्रेऽध्व॒र्यवो॑ धि॒षणाप॑श्च दे॒वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “divine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

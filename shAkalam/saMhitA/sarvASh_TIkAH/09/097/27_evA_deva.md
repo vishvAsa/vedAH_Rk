@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मृळीको वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ ródasī ← ródasī- (nominal stem)
 
 suṣṭhāné ← suṣṭhāná- (nominal stem)  
 {case:ACC, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा दे॑व दे॒वता॑ते पवस्व म॒हे सो॑म॒ प्सर॑से देव॒पानः॑ ।  
+म॒हश्चि॒द्धि ष्मसि॑ हि॒ताः स॑म॒र्ये कृ॒धि सु॑ष्ठा॒ने रोद॑सी पुना॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “purify; filter; blow; purify; purge; sift.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -246,12 +251,6 @@ Thus, o god Soma, purify yourself for the conclave of gods, for their  great del
 for we are greatly driven at the encounter. Make the two world-halves  of good standing while you are being purified.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The summary evā́might be more emphatically rendered as “in just this way” or sim. The “conclave of the gods” (devátāte) returns from 19a. As Geldner points out, the whole hemistich is almost identical to IX.96.3, save for evā́in place of sá naḥ and devapā́naḥ for indrapā́naḥ.
-
-The ppl. in the periphrasis in d, smási hitā́ḥ, could belong either to √dhā or to √hi (so Sāyaṇa.). It is actually not clear to me which one Geldner favors from his “denn wir sind in grossem Wettstreit begriffen” (and his n. 27c doesn’t entirely clarify). Renou clear chose √dhā: “Avec ambition [maháś cid?] nous nous sommes en vérité placéś dans la compétition.” I favor √hi: I think the point is that we are “driven” / “hardpressed” in the hostile encounter, and we need divine help - which we will only get once they have partaken of our soma. But there are several logical steps missing in every interpr.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -261,7 +260,6 @@ The poet is named as Mṛḍīka Vāsiṣṭha, who is also the poet of X.150. I
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

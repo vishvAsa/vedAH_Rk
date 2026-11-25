@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ nákiḥ ← nákiḥ (invariable)
 
 r̥tám ← r̥tá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त कण्वं॑ नृ॒षदः॑ पु॒त्रमा॑हुरु॒त श्या॒वो धन॒माद॑त्त वा॒जी ।  
+प्र कृ॒ष्णाय॒ रुश॑दपिन्व॒तोध॑रृ॒तमत्र॒ नकि॑रस्मा अपीपेत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “swell; abound; swell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

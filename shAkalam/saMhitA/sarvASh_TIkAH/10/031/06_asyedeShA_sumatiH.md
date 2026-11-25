@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ bíbhramāṇāḥ ← √bhr̥- (root)
 
 samāné ← samāná- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्येदे॒षा सु॑म॒तिः प॑प्रथा॒नाभ॑वत्पू॒र्व्या भूम॑ना॒ गौः ।  
+अ॒स्य सनी॑ळा॒ असु॑रस्य॒ योनौ॑ समा॒न आ भर॑णे॒ बिभ्र॑माणाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "प्रतोदः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - प्रतोदः
@@ -68,7 +69,12 @@ codaya ← √cud- (root)
 
 samátsu ← samád- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ज॑ङ्घन्ति॒ सान्वे॑षां ज॒घनाँ॒ उप॑ जिघ्नते ।  
+अश्वा॑जनि॒ प्रचे॑त॒सोऽश्वा॑न्त्स॒मत्सु॑ चोदय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “impel; drive; incite; command; drive; arouse; propel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

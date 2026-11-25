@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -68,7 +69,12 @@ havanaśrutā ← havanaśrút- (nominal stem)
 
 stómebhiḥ ← stóma- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वश्चि॑द्रोच॒नादध्या नो॑ गन्तं स्वर्विदा ।  
+धी॒भिर्व॑त्सप्रचेतसा॒ स्तोमे॑भिर्हवनश्रुता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “listening.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

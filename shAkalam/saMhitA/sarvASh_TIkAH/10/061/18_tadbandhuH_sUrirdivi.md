@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ paścā́ ← paścā́ (invariable)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्ब॑न्धुः सू॒रिर्दि॒वि ते॑ धियं॒धा नाभा॒नेदि॑ष्ठो रपति॒ प्र वेन॑न् ।  
+सा नो॒ नाभिः॑ पर॒मास्य वा॑ घा॒हं तत्प॒श्चा क॑ति॒थश्चि॑दास ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

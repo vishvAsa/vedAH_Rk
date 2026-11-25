@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ suvī́ryam ← suvī́rya- (nominal stem)
 
 várṣiṣṭham ← várṣiṣṭha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू नो॑ रास्व स॒हस्र॑वत्तो॒कव॑त्पुष्टि॒मद्वसु॑ ।  
+द्यु॒मद॑ग्ने सु॒वीर्यं॒ वर्षि॑ष्ठ॒मनु॑पक्षितम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - \[verb noun\], accusative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

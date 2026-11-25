@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -51,7 +52,12 @@ mahé ← máh- (nominal stem)
 
 sahásracakṣase ← sahásracakṣas- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सोमा॑य व्यश्व॒वत्पव॑मानाय गायत ।  
+म॒हे स॒हस्र॑चक्षसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “eye; look; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -141,12 +146,6 @@ Sing forth to self-purifying Soma, as Vyaśva did—
 to the great one with a thousand eyes—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The vs. contains an address (in pl.) to priest-singers to sing (gāyata), with comparison to a previous singer Vyaśva (vyaśvavát ‘like Vyaśva’) who did the same. Why Vyaśva appears here is something of a mystery. Aside from a bare mention in an Aśvin list hymn (I.112.15), Vyaśva is found only in VIII, where he is identified as a ṛṣi (VIII.9.10, 23.10) and his descendants receive the dakṣiṇā at the end of the sacrifice (VIII.24.28-29).
-
-The adv. vyaśvavát ‘like Vyaśva’ is found 3x in that little group of hymns in VIII (23-26), attributed in the Anukramaṇī to one of his descendents, Viśvamanas Vaiyaśva. I don’t know why he should surface once in IX; our hymn is not attributed to him or any of his obvious relatives (rather to Bhṛgu Vāruṇi or Jamadagni Bhārgava), and there is nothing particularly somic about his appearances in VIII - though his descendents may once be called somín- ‘having or providing soma” (VIII.24.29; see comm. ad loc.). He is more closely associated with the Aśvins (I.112.15 just mentioned; VIII.9.10, 26.9 [both Aśvin hymns]).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -154,7 +153,6 @@ Again no signs of unity.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

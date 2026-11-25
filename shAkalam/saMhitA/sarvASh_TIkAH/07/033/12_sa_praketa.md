@@ -4,6 +4,7 @@ devataa = "ट्-९ वसिष्ठः"
 RShiH = "वसिष्ठपुत्राः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ट्-९ वसिष्ठः
@@ -80,7 +81,12 @@ pári ← pári (invariable)
 
 vásiṣṭhaḥ ← vásiṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स प्र॑के॒त उ॒भय॑स्य प्रवि॒द्वान्त्स॒हस्र॑दान उ॒त वा॒ सदा॑नः ।  
+य॒मेन॑ त॒तं प॑रि॒धिं व॑यि॒ष्यन्न॑प्स॒रसः॒ परि॑ जज्ञे॒ वसि॑ष्ठः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -232,19 +237,6 @@ He, foreknowing of both in his insight, possessing a thousand gifts and  one gif
 intending to weave the covering stretched by Yama, was born from the  Apsaras—Vasiṣṭha.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As Geldner points out (n. 12a), praketá- is otherwise only a noun, and so it is best to go against the Pp’s reading praketáḥ in favor of the loc. praketé. (Geldner also entertains the possibility of reading *sapraketáḥ.) The “both” are presumably both births; so Geldner
-
-The weaving in pāda c is repeated almost verbatim from 9c, but with the single Vasiṣṭha, not the pl. Vasiṣṭhas as subject. As noted in the published introduction, I assume that this refers to the production of the sacrifice. See comm. ad vs. 14 below.
-
-The hapax sádāna- is not entirely clear. Geldner suggests that it stands for
-
-*sádādāna- by haplology and tr. “der … immerdar Geschenke hat.” He does not
-render the utá vā, implicitly taking sahásradānaḥ … sádānaḥ as appositive adjectives.
-
-Klein (DGRV II.169) follows Geldner’s interpr. of sádānaḥ without mentioning the possible haplology and states that the conjoined terms in the phrase sahásradana utá vā sádānaḥ “come close to being synonymous.” His tr. “having a thousand gifts or having constant gifts” both illustrates this suggestion and shows how flat-footed such a phrase would be. Oldenberg discusses without coming to a conclusion, though he does reject the haplology explan., which goes back to Ludwig. My own interpr. takes the text as given and interprets the second adj. as additive “and one gift (more),” with sádāna- ‘with (a) gift’ standing for ‘with one gift’. If the utá vā should be read as disjunctive ‘or’ (as I admit it should), perhaps this is instead a version of the Archilochus fox-and-hedgehog dichotomy (“the fox knows many things, but the 41 hedgehog one big one”) -- hence “having a thousand gifts -- or one (big) gift.” This in fact is now my preferred tr. What the gifts refer to I have no idea.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/033/10-13.md">
 <details><summary><h2>10-13 ...{Loading}...</h2></summary>
 
@@ -254,7 +246,6 @@ Oldenberg is uncertain about the details; I am even more uncertain.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

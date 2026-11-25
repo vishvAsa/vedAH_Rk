@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -89,7 +90,12 @@ rathatúram ← rathatúr- (nominal stem)
 
 vā́tam ← vā́ta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं सी॒मनु॑ प्र॒वते॑व॒ द्रव॑न्तं॒ विश्वः॑ पू॒रुर्मद॑ति॒ हर्ष॑माणः ।  
+प॒ड्भिर्गृध्य॑न्तं मेध॒युं न शूरं॑ रथ॒तुरं॒ वात॑मिव॒ ध्रज॑न्तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “rush.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

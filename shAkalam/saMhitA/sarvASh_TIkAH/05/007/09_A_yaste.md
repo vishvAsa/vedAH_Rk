@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ dhāḥ ← √dhā- 1 (root)
 
 mártyeṣu ← mártya- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यस्ते॑ सर्पिरासु॒तेऽग्ने॒ शमस्ति॒ धाय॑से ।  
+ऐषु॑ द्यु॒म्नमु॒त श्रव॒ आ चि॒त्तं मर्त्ये॑षु धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

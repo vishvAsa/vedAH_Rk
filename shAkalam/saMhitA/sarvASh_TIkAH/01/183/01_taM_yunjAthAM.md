@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ tridhā́tunā ← tridhā́tu- (nominal stem)
 
 víḥ ← ví- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं यु॑ञ्जाथां॒ मन॑सो॒ यो जवी॑यान्त्रिवन्धु॒रो वृ॑षणा॒ यस्त्रि॑च॒क्रः ।  
+येनो॑पया॒थः सु॒कृतो॑ दुरो॒णं त्रि॒धातु॑ना पतथो॒ विर्न प॒र्णैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

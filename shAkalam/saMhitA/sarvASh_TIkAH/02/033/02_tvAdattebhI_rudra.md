@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -83,7 +84,12 @@ ví ← ví (invariable)
 
 víṣūcīḥ ← víṣvañc- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाद॑त्तेभी रुद्र॒ शन्त॑मेभिः श॒तं हिमा॑ अशीय भेष॒जेभिः॑ ।  
+व्य१॒॑स्मद्द्वेषो॑ वित॒रं व्यंहो॒ व्यमी॑वाश्चातयस्वा॒ विषू॑चीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “dispersed; viṣvañc \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

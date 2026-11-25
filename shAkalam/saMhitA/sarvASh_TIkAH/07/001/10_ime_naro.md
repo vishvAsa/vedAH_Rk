@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -72,7 +73,12 @@ praśastā́m ← √śaṁs- (root)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे नरो॑ वृत्र॒हत्ये॑षु॒ शूरा॒ विश्वा॒ अदे॑वीर॒भि स॑न्तु मा॒याः ।  
+ये मे॒ धियं॑ प॒नय॑न्त प्रश॒स्ताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “recommend; approve; praise; laud; favor; proclaim.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

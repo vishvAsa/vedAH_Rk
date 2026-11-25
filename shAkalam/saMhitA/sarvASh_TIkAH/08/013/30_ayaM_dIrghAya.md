@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -61,7 +62,12 @@ yajñám ← yajñá- (nominal stem)
 
 vicákṣya ← √cakṣ- (root)  
 {non-finite:CVB}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं दी॒र्घाय॒ चक्ष॑से॒ प्राचि॑ प्रय॒त्य॑ध्व॒रे ।  
+मिमी॑ते य॒ज्ञमा॑नु॒षग्वि॒चक्ष्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - \[verb noun\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

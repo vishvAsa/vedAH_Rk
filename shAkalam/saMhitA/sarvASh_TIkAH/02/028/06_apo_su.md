@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -104,7 +105,12 @@ nimíṣaḥ ← nimíṣ- (nominal stem)
 
 tvát ← tvám (pronoun)  
 {case:ABL, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपो॒ सु म्य॑क्ष वरुण भि॒यसं॒ मत्सम्रा॒ळृता॒वोऽनु॑ मा गृभाय ।  
+दामे॑व व॒त्साद्वि मु॑मु॒ग्ध्यंहो॑ न॒हि त्वदा॒रे नि॒मिष॑श्च॒नेशे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -263,7 +269,6 @@ _________
 - “govern; command; master; dominate; can; reign; control; own.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

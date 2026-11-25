@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ naiṣṭa ← √nī- (root)
 
 parāvátaḥ ← parāvát- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते न॑स्त्राध्वं॒ ते॑ऽवत॒ त उ॑ नो॒ अधि॑ वोचत ।  
+मा नः॑ प॒थः पित्र्या॑न्मान॒वादधि॑ दू॒रं नै॑ष्ट परा॒वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “distance; distance; distance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

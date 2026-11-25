@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -60,7 +61,12 @@ naḥ ← ahám (pronoun)
 
 tā́ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॒वरु॑णयोर॒हं स॒म्राजो॒रव॒ आ वृ॑णे ।  
+ता नो॑ मृळात ई॒दृशे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “such(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

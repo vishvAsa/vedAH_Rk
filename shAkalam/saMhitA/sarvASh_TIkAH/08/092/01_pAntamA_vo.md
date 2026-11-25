@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ carṣaṇīnā́m ← carṣaṇí- (nominal stem)
 
 máṁhiṣṭham ← máṁhiṣṭha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पान्त॒मा वो॒ अन्ध॑स॒ इन्द्र॑म॒भि प्र गा॑यत ।  
+वि॒श्वा॒साहं॑ श॒तक्र॑तुं॒ मंहि॑ष्ठं चर्षणी॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “people.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

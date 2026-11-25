@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "द्वित आप्त्यः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ sadhásthā ← sadhástha- (nominal stem)
 
 trī́ ← trí- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ वारा॑ण्य॒व्यया॒ गोभि॑रञ्जा॒नो अ॑र्षति ।  
+त्री ष॒धस्था॑ पुना॒नः कृ॑णुते॒ हरिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “reddish brown; yellow; pale; yellow; aureate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

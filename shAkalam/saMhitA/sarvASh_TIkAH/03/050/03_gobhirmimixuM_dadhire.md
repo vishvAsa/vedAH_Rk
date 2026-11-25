@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ purudhā́ ← purudhā́ (invariable)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गोभि॑र्मिमि॒क्षुं द॑धिरे सुपा॒रमिन्द्रं॒ ज्यैष्ठ्या॑य॒ धाय॑से गृणा॒नाः ।  
+म॒न्दा॒नः सोमं॑ पपि॒वाँ ऋ॑जीषि॒न्त्सम॒स्मभ्यं॑ पुरु॒धा गा इ॑षण्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - \[verb\], singular, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

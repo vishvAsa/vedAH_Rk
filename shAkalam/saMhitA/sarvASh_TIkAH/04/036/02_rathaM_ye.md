@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -92,7 +93,12 @@ vājāḥ ← vā́ja- (nominal stem)
 
 vedayāmasi ← √vid- 2 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रथं॒ ये च॒क्रुः सु॒वृतं॑ सु॒चेत॒सोऽवि॑ह्वरन्तं॒ मन॑स॒स्परि॒ ध्यया॑ ।  
+ताँ ऊ॒ न्व१॒॑स्य सव॑नस्य पी॒तय॒ आ वो॑ वाजा ऋभवो वेदयामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “bode.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

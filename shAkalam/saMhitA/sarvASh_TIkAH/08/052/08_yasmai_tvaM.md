@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ kaṇvavát ← kaṇvavát (invariable)
 
 śr̥ṇudhi ← √śru- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मै॒ त्वं म॑घवन्निन्द्र गिर्वणः॒ शिक्षो॒ शिक्ष॑सि दा॒शुषे॑ ।  
+अ॒स्माकं॒ गिर॑ उ॒त सु॑ष्टु॒तिं व॑सो कण्व॒वच्छृ॑णुधी॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ tvótayaḥ ← tvóti- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषे॑व यू॒था परि॒ कोश॑मर्षस्य॒पामु॒पस्थे॑ वृष॒भः कनि॑क्रदत् ।  
+स इन्द्रा॑य पवसे मत्स॒रिन्त॑मो॒ यथा॒ जेषा॑म समि॒थे त्वोत॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -244,7 +249,6 @@ The splv. matsaríntama- is somewhat oddly formed, with the possessive suffix - 
 
 *matsara-tama-, based on madín-tama-. Given the metrical unfavorability of the
 stem *matsaratama-, this seems a plausible explan.
-
 </details>
 
 <details><summary>Griffith</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ gávyāni ← gávya- (nominal stem)
 
 pári ← pári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒ना॒नः क॒लशे॒ष्वा वस्त्रा॑ण्यरु॒षो हरिः॑ ।  
+परि॒ गव्या॑न्यव्यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “cover.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

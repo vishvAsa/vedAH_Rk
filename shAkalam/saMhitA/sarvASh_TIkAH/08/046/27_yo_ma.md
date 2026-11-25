@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वशोश्व्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -77,7 +78,12 @@ sukrátuḥ ← sukrátu- (nominal stem)
 
 sukŕ̥ttarāya ← sukŕ̥ttara- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो म॑ इ॒मं चि॑दु॒ त्मनाम॑न्दच्चि॒त्रं दा॒वने॑ ।  
+अ॒र॒ट्वे अक्षे॒ नहु॑षे सु॒कृत्व॑नि सु॒कृत्त॑राय सु॒क्रतुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ naḥ ← ahám (pronoun)
 
 yánta ← √yam- (root)  
 {number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॒ हि ष्मा॒ मन॑वे वि॒श्ववे॑दसो॒ भुव॑न्वृ॒धे रि॒शाद॑सः ।  
+अरि॑ष्टेभिः पा॒युभि॑र्विश्ववेदसो॒ यन्ता॑ नोऽवृ॒कं छ॒र्दिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “protection; protective covering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

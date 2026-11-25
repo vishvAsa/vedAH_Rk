@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -66,7 +67,12 @@ stómaiḥ ← stóma- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॑ स्वा॒नेभि॑रीरत॒ उद्रथै॒रुदु॑ वा॒युभिः॑ ।  
+उत्स्तोमैः॒ पृश्नि॑मातरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
     Citrullus colocynthis Schrad.; cow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -184,7 +189,6 @@ up with praises—they whose mother is Pr̥śni.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/16-17.md">
 <details><summary><h2>16-17 ...{Loading}...</h2></summary>
 
@@ -194,7 +198,6 @@ On svānébhiḥ in 17a see comm. on 14. Because vss. 16 and 17 are so closely t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

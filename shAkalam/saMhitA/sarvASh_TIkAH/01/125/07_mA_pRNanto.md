@@ -4,6 +4,7 @@ devataa = "स्वनयस्य दानस्तुतिः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वनयस्य दानस्तुतिः
@@ -95,7 +96,12 @@ sám ← sám (invariable)
 
 yantu ← √i- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा पृ॒णन्तो॒ दुरि॑त॒मेन॒ आर॒न्मा जा॑रिषुः सू॒रयः॑ सुव्र॒तासः॑ ।  
+अ॒न्यस्तेषां॑ परि॒धिर॑स्तु॒ कश्चि॒दपृ॑णन्तम॒भि सं य॑न्तु॒ शोकाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     trouble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -60,7 +61,12 @@ sutā́vantaḥ ← sutā́vant- (nominal stem)
 
 vāyúm ← vāyú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वष्टु॒र्जामा॑तरं व॒यमीशा॑नं रा॒य ई॑महे ।  
+सु॒ताव॑न्तो वा॒युं द्यु॒म्ना जना॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

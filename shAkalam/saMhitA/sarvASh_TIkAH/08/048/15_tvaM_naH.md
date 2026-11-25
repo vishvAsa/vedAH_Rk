@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -92,7 +93,12 @@ utá ← utá (invariable)
 
 vā ← vā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नः॑ सोम वि॒श्वतो॑ वयो॒धास्त्वं स्व॒र्विदा वि॑शा नृ॒चक्षाः॑ ।  
+त्वं न॑ इन्द ऊ॒तिभिः॑ स॒जोषाः॑ पा॒हि प॒श्चाता॑दु॒त वा॑ पु॒रस्ता॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “ahead; eastward; earlier; above; above.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वामित्रः"
 RShiH = "नद्यः ऋषिकाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वामित्रः
@@ -80,7 +81,12 @@ nadyàḥ ← nadī́- (nominal stem)
 
 vípraḥ ← vípra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ना व॒यं पय॑सा॒ पिन्व॑माना॒ अनु॒ योनिं॑ दे॒वकृ॑तं॒ चर॑न्तीः ।  
+न वर्त॑वे प्रस॒वः सर्ग॑तक्तः किं॒युर्विप्रो॑ न॒द्यो॑ जोहवीति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “appeal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

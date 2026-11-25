@@ -4,6 +4,7 @@ devataa = "वरुणमित्रार्यमणः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणमित्रार्यमणः
@@ -63,7 +64,12 @@ nú ← nú (invariable)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं रक्ष॑न्ति॒ प्रचे॑तसो॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ।  
+नू चि॒त्स द॑भ्यते॒ जनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

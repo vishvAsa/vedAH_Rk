@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sómapītaye ← sómapīti- (nominal stem)
 
 víśvebhiḥ ← víśva- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं हि त्वा॒ बन्धु॑मन्तमब॒न्धवो॒ विप्रा॑स इन्द्र येमि॒म ।  
+या ते॒ धामा॑नि वृषभ॒ तेभि॒रा ग॑हि॒ विश्वे॑भिः॒ सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कृष्णो द्युम्नीको वा वासिष्ठः प्रियमेधो वा"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ gauraú ← gaurá- (nominal stem)
 
 iva ← iva (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिब॑तं॒ सोमं॒ मधु॑मन्तमश्वि॒ना ब॒र्हिः सी॑दतं सु॒मत् ।  
+ता वा॑वृधा॒ना उप॑ सुष्टु॒तिं दि॒वो ग॒न्तं गौ॒रावि॒वेरि॑णम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “hole; rivulet.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ jánaḥ ← jána- (nominal stem)
 
 sástu ← √sas- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सस्तु॑ मा॒ता सस्तु॑ पि॒ता सस्तु॒ श्वा सस्तु॑ वि॒श्पतिः॑ ।  
+स॒सन्तु॒ सर्वे॑ ज्ञा॒तयः॒ सस्त्व॒यम॒भितो॒ जनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

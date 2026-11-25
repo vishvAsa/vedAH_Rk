@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ sadyás ← sadyás (invariable)
 
 stuván ← √stu- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता घा॒ ता भ॒द्रा उ॒षसः॑ पु॒रासु॑रभि॒ष्टिद्यु॑म्ना ऋ॒तजा॑तसत्याः ।  
+यास्वी॑जा॒नः श॑शमा॒न उ॒क्थैः स्तु॒वञ्छंस॒न्द्रवि॑णं स॒द्य आप॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “enter (a state); get; reach; obtain; equal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

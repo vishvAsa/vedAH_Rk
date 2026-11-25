@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ hūyase ← √hū- (root)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शाचि॑गो॒ शाचि॑पूजना॒यं रणा॑य ते सु॒तः ।  
+आख॑ण्डल॒ प्र हू॑यसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +125,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -158,7 +163,6 @@ Radiance: śācigo: śaktā gāvo yasya, he whose cattle are strong;
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/017/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -166,7 +170,6 @@ Contains a number of PNs, whose exact identity eludes us. See Geldner’s nn., M
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वार्षागिराः ऋज्राश्वांबरीष-सहदेव-भयमान-सुराधसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ naḥ ← ahám (pronoun)
 
 ūtī́ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सू॒नुभि॒र्न रु॒द्रेभि॒रृभ्वा॑ नृ॒षाह्ये॑ सास॒ह्वाँ अ॒मित्रा॑न् ।  
+सनी॑ळेभिः श्रव॒स्या॑नि॒ तूर्व॑न्म॒रुत्वा॑न्नो भव॒त्विन्द्र॑ ऊ॒ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -217,10 +222,6 @@ _________
 He, the skillful one, along with the Rudras [=Maruts] as if with his own  sons having conquered his foes at the time for men-conquering, along with the nest-mates [=Maruts] bringing to triumph (deeds)  worthy of fame. – Accompanied by the Maruts, let Indra be here for  us with help.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The participial phrase śravasyā̀ni tū́rvan has a close parallel in VIII.74.10c yásya śrávāṃsi tū́rvatha. I translate the latter as “whose claims to fame you bring to triumph.” Given the similarities I would change the tr. here to “along with the nestmates bringing to triumph (deeds) worthy of fame.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/100/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -228,7 +229,6 @@ The pattern of instrumentals set in vs. 4 -- “X with the X-es,” that is, “
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

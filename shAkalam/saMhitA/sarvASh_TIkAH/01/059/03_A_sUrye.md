@@ -4,6 +4,7 @@ devataa = "अग्निर्वैश्वानरः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्वैश्वानरः
@@ -86,7 +87,12 @@ tásya ← sá- ~ tá- (pronoun)
 
 yā́ ← yá- (pronoun)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ सूर्ये॒ न र॒श्मयो॑ ध्रु॒वासो॑ वैश्वान॒रे द॑धिरे॒ऽग्ना वसू॑नि ।  
+या पर्व॑ते॒ष्वोष॑धीष्व॒प्सु या मानु॑षे॒ष्वसि॒ तस्य॒ राजा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

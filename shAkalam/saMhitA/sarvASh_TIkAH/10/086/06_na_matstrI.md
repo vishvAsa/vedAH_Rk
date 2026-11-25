@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -82,7 +83,12 @@ sákthi ← sákthi- ~ sákthan- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न मत्स्त्री सु॑भ॒सत्त॑रा॒ न सु॒याशु॑तरा भुवत् ।  
+न मत्प्रति॑च्यवीयसी॒ न सक्थ्युद्य॑मीयसी॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -208,7 +213,7 @@ _________
 
 <details><summary>Tilak - Commentary</summary>
 
-This verse presents no difficulty. Thus satisfied, Indraṇī speaks of herself as the best of women, best in every way. 
+This verse presents no difficulty. Thus satisfied, Indraṇī speaks of herself as the best of women, best in every way.
 </details>
 
 <details><summary>Wilson</summary>

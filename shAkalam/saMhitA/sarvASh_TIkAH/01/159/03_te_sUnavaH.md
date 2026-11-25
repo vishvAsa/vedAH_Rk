@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -86,7 +87,12 @@ pāthaḥ ← √pā- 1 (root)
 
 putrásya ← putrá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते सू॒नवः॒ स्वप॑सः सु॒दंस॑सो म॒ही ज॑ज्ञुर्मा॒तरा॑ पू॒र्वचि॑त्तये ।  
+स्था॒तुश्च॑ स॒त्यं जग॑तश्च॒ धर्म॑णि पु॒त्रस्य॑ पाथः प॒दमद्व॑याविनः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “dishonest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

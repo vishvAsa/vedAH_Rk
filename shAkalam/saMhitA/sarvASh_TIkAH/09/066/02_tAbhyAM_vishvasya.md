@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ soma ← sóma- (nominal stem)
 
 tasthátuḥ ← √sthā- (root)  
 {number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ताभ्यां॒ विश्व॑स्य राजसि॒ ये प॑वमान॒ धाम॑नी ।  
+प्र॒ती॒ची सो॑म त॒स्थतुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,14 +164,6 @@ From those two you rule over all, self-purifying one—from the two  domains [=H
 that stand facing (each other), o Soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The issue in this vs. is the identify of the two dhā́manī; dependent on the answer to that is the function of the du. pronoun tā́bhyām, which could be instr., dat., or abl.
-
-Answering the first question is made difficult by the fact that this is the only du. form of dhā́man- in the RV. Geldner tr. “Formen” (likewise Renou “formes”) and in n. 2-3 explains these as the different stages (Stadien) the soma goes through in its preparation. This interpr. fails to explain the difference between the du. of vs. 2 and the pl. of 3; nor does it account for how Soma “rules with” these forms (taking tā́bhyām as instr. as he does). Renou’s interpr. of dhā́manī in 2 as the pure and mixed forms of soma provides a satisfactory account of the dual, but does not explain the transition to the pl. in 3 and again fails to explain how Soma rules with them. I take the term quite differently, as ‘domains’ (rather than ‘forms’). In vs. 2 the dual refers to Heaven and Earth and alludes to the split of Soma into heavenly and earthly forms, a common trope in IX: he has a home in both places. Taking tā́bhyām as abl., I see Soma as ruling from both those polarized spaces, which together contain everything.
-
-This interpr. gives pratīcī́in c more content than the fairly empty renderings of Geldner (“die sich (uns) darbieten”) and Renou (“qui se tiennent face (à nous)”): Heaven and Earth as the two cosmic halves face each other.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -176,7 +173,6 @@ contain a form of páva- (pávasva 1a, voc. pa/ávamāna 2b, 3c), but the stem v
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

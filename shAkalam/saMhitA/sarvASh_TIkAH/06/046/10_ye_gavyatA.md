@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ bhava ← √bhū- (root)
 
 tanūpā́ḥ ← tanūpā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये ग॑व्य॒ता मन॑सा॒ शत्रु॑माद॒भुर॑भिप्र॒घ्नन्ति॑ धृष्णु॒या ।  
+अध॑ स्मा नो मघवन्निन्द्र गिर्वणस्तनू॒पा अन्त॑मो भव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -220,10 +225,6 @@ Who, with their mind set on cattle, outwit their rival and smite him  boldly.
 So then, as ever, o bounteous Indra longing for songs, as the protector  of our bodies, come up close to us.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-dhṛṣṇuyā́reprises 2a.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -231,7 +232,6 @@ The unity of this pragātha is required by the fact that the rel. cl. of 10ab mu
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

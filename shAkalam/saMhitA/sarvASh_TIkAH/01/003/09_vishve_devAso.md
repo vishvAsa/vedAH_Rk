@@ -4,6 +4,7 @@ devataa = "विश्वे देवाः"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः
@@ -54,7 +55,12 @@ médham ← médha- (nominal stem)
 
 váhnayaḥ ← váhni- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ दे॒वासो॑ अ॒स्रिध॒ एहि॑मायासो अ॒द्रुहः॑ ।  
+मेधं॑ जुषन्त॒ वह्न॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +122,6 @@ _________
     leader.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

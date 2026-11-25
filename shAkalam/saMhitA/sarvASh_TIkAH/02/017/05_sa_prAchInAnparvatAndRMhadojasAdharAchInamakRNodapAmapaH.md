@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ dyā́m ← dyú- ~ div- (nominal stem)
 
 māyáyā ← māyā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स प्रा॒चीना॒न्पर्व॑तान्दृंह॒दोज॑साधरा॒चीन॑मकृणोद॒पामपः॑ ।  
+अधा॑रयत्पृथि॒वीं वि॒श्वधा॑यस॒मस्त॑भ्नान्मा॒यया॒ द्याम॑व॒स्रसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “fall down.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

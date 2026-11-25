@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ narā ← nár- (nominal stem)
 
 sīdatam ← √sad- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्वाञ्चा॑ वां॒ सप्त॑योऽध्वर॒श्रियो॒ वह॑न्तु॒ सव॒नेदुप॑ ।  
+इषं॑ पृ॒ञ्चन्ता॑ सु॒कृते॑ सु॒दान॑व॒ आ ब॒र्हिः सी॑दतं नरा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

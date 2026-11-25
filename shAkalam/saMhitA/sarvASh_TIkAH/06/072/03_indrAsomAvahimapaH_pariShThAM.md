@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ
@@ -86,7 +87,12 @@ purū́ṇi ← purú- (nominal stem)
 
 samudrā́ṇi ← samudrá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑सोमा॒वहि॑म॒पः प॑रि॒ष्ठां ह॒थो वृ॒त्रमनु॑ वां॒ द्यौर॑मन्यत ।  
+प्रार्णां॑स्यैरयतं न॒दीना॒मा स॑मु॒द्राणि॑ पप्रथुः पु॒रूणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “many; much(a); very.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

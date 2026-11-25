@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -69,7 +70,12 @@ sádaḥ ← sádas- (nominal stem)
 
 yámaḥ ← yáma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्व१॒॑ वोऽश्वाः॒ क्वा॒३॒॑भीश॑वः क॒थं शे॑क क॒था य॑य ।  
+पृ॒ष्ठे सदो॑ न॒सोर्यमः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

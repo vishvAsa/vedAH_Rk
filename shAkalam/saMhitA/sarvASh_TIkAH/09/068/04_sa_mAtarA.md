@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वत्सप्रिर्भालन्दनः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ sám ← sám (invariable)
 
 śíraḥ ← śíras- ~ śīrṣán- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स मा॒तरा॑ वि॒चर॑न्वा॒जय॑न्न॒पः प्र मेधि॑रः स्व॒धया॑ पिन्वते प॒दम् ।  
+अं॒शुर्यवे॑न पिपिशे य॒तो नृभिः॒ सं जा॒मिभि॒र्नस॑ते॒ रक्ष॑ते॒ शिरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

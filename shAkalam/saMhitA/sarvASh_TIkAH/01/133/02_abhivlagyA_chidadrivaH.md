@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -62,7 +63,12 @@ mahā́vaṭūriṇā ← mahā́vaṭūrin- (nominal stem)
 
 padā́ ← pád- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि॒व्लग्या॑ चिदद्रिवः शी॒र्षा या॑तु॒मती॑नाम् ।  
+छि॒न्धि व॑टू॒रिणा॑ प॒दा म॒हाव॑टूरिणा प॒दा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “foot; pad \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

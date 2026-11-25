@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसूयव आत्रेयाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ dhībhíḥ ← dhī́- (nominal stem)
 
 saparyata ← √sapary- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्दे॒वेषु॑ राजत्य॒ग्निर्मर्ते॑ष्वावि॒शन् ।  
+अ॒ग्निर्नो॑ हव्य॒वाह॑नो॒ऽग्निं धी॒भिः स॑पर्यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

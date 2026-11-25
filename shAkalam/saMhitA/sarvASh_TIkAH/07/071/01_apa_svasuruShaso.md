@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ náktam ← nákt- (nominal stem)
 
 yuyotam ← √yu- 2 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप॒ स्वसु॑रु॒षसो॒ नग्जि॑हीते रि॒णक्ति॑ कृ॒ष्णीर॑रु॒षाय॒ पन्था॑म् ।  
+अश्वा॑मघा॒ गोम॑घा वां हुवेम॒ दिवा॒ नक्तं॒ शरु॑म॒स्मद्यु॑योतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “keep away; separate; ward off.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

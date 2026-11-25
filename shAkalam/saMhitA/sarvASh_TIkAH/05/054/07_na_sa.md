@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -107,7 +108,12 @@ vā ← vā (invariable)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न स जी॑यते मरुतो॒ न ह॑न्यते॒ न स्रे॑धति॒ न व्य॑थते॒ न रि॑ष्यति ।  
+नास्य॒ राय॒ उप॑ दस्यन्ति॒ नोतय॒ ऋषिं॑ वा॒ यं राजा॑नं वा॒ सुषू॑दथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -270,7 +276,6 @@ _________
 - “sweeten; prepare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

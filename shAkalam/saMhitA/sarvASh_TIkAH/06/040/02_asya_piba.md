@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ sám ← sám (invariable)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्य॑ पिब॒ यस्य॑ जज्ञा॒न इ॑न्द्र॒ मदा॑य॒ क्रत्वे॒ अपि॑बो विरप्शिन् ।  
+तमु॑ ते॒ गावो॒ नर॒ आपो॒ अद्रि॒रिन्दुं॒ सम॑ह्यन्पी॒तये॒ सम॑स्मै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -57,7 +58,12 @@ dūtáḥ ← dūtá- (nominal stem)
 
 máderaghuḥ ← máderaghu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र यो वां॑ मित्रावरुणाजि॒रो दू॒तो अद्र॑वत् ।  
+अयः॑शीर्षा॒ मदे॑रघुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

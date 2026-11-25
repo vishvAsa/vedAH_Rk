@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "अनुष्टुप्पिपीलिकमध्या"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ púraṁdhyā ← púraṁdhi- (nominal stem)
 
 ráṁhamāṇaḥ ← √raṁh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अजी॑जनो॒ हि प॑वमान॒ सूर्यं॑ वि॒धारे॒ शक्म॑ना॒ पयः॑ ।  
+गोजी॑रया॒ रंह॑माणः॒ पुरं॑ध्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “liberality; Puraṃdhi; munificence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रो मुष्कवान्"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ tvā́vān ← tvā́vant- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒वृजं॒ हि त्वाम॒हमि॑न्द्र शु॒श्रवा॑नानु॒दं वृ॑षभ रध्र॒चोद॑नम् ।  
+प्र मु॑ञ्चस्व॒ परि॒ कुत्सा॑दि॒हा ग॑हि॒ किमु॒ त्वावा॑न्मु॒ष्कयो॑र्ब॒द्ध आ॑सते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

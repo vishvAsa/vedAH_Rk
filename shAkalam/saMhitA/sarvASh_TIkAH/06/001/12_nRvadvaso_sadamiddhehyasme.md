@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ santu ← √as- 1 (root)
 
 sauśravasā́ni ← sauśravasá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नृ॒वद्व॑सो॒ सद॒मिद्धे॑ह्य॒स्मे भूरि॑ तो॒काय॒ तन॑याय प॒श्वः ।  
+पू॒र्वीरिषो॑ बृह॒तीरा॒रेअ॑घा अ॒स्मे भ॒द्रा सौ॑श्रव॒सानि॑ सन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -236,10 +241,6 @@ O good one, manfully establish for us forever and for our progeny and  posterity
 Let there be for us many lofty refreshments that keep evil at a distance  and auspicious things bringing good fame.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I take nṛvát as an adverb, since this neut. is almost always so used. Geldner and Renou instead take it as a full adj. ‘consisting of men, accompanied by men’ modifying a gapped noun (Besitz, la richesse) and implicitly parallel to bhū́ri … paśváḥ “abundance of livestock.” I am not convinced, and curiously the passage Geldner cites in his n. 10a as support for the interpr. contains a nṛvát that must be adverbial. Still, I do have to admit that a few such expressions do exist outside of the neut. sg.: I.92.7 nrváta ̥ ḥ … vā́jān, IX.93.5 rayím ... nrvántam ̥ .
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -247,7 +248,6 @@ These two vss. play on the two words purú- ‘many’ and vásu- ‘good’ in 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

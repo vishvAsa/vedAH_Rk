@@ -4,6 +4,7 @@ devataa = "मरुतो मरुतो वाग्निश्च"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतो मरुतो वाग्निश्च
@@ -95,7 +96,12 @@ pr̥thivī́ ← pr̥thivī́- (nominal stem)
 
 rejate ← √rej- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ये त॒स्थुः पृष॑तीषु श्रु॒तासु॑ सु॒खेषु॑ रु॒द्रा म॒रुतो॒ रथे॑षु ।  
+वना॑ चिदुग्रा जिहते॒ नि वो॑ भि॒या पृ॑थि॒वी चि॑द्रेजते॒ पर्व॑तश्चित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “even; indeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -262,14 +267,6 @@ Those who have mounted on the famed dappled mares, on the well-naved  chariots�
 even the trees duck down with fear of you, powerful ones. Even the earth  trembles, even the mountain.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The parallelism between the two loc. phrases pṛ̥ṣatīṣu śrutā́su (a) and sukhéṣu … rátheṣu (b) seems clear, but this entails that the Maruts are mounted both on their horses and on their chariots. This is a price that most tr. are willing to pay, but Renou avoids it at the price of the parallelism, by attaching the dappled females to the chariots: “… qui sont montés sur les chars aisés conduit par les (antilopes) tachetées.” Since the Maruts are clearly astride horses in the next hymn, V.61.3, I think we can have them there here as well.
-
-The person changes between hemistichs from 3rd (ab: yé tasthúḥ) in the rel. cl.
-
-to 2nd (cd: voc. ugrāḥ … vaḥ) in the main cl.. This is hardly unusual in the RV. The standard tr. register this anacoluthon in various ways, Witzel Gotō most sharply, by supplying a main cl. for ab: “(Sie sind es), die …” and separating the two hemistichs into two sentences. This seems unnec.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/060/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -277,7 +274,6 @@ Note the concatenation: 2d … párvataś cit# // 3a #párvataś cit … The two
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

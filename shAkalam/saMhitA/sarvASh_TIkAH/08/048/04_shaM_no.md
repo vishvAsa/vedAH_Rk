@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -101,7 +102,12 @@ soma ← sóma- (nominal stem)
 
 tārīḥ ← √tr̥̄- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नो॑ भव हृ॒द आ पी॒त इ॑न्दो पि॒तेव॑ सोम सू॒नवे॑ सु॒शेवः॑ ।  
+सखे॑व॒ सख्य॑ उरुशंस॒ धीरः॒ प्र ण॒ आयु॑र्जी॒वसे॑ सोम तारीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -266,7 +272,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

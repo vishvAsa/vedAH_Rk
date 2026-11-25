@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ prathamáḥ ← prathamá- (nominal stem)
 
 svéṣu ← svá- (pronoun)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मु॒मोद॒ गर्भो॑ वृष॒भः क॒कुद्मा॑नस्रे॒मा व॒त्सः शिमी॑वाँ अरावीत् ।  
+स दे॒वता॒त्युद्य॑तानि कृ॒ण्वन्त्स्वेषु॒ क्षये॑षु प्रथ॒मो जि॑गाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

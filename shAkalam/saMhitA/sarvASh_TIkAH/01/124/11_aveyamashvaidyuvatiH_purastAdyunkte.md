@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ tiṣṭhāte ← √sthā- (root)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवे॒यम॑श्वैद्युव॒तिः पु॒रस्ता॑द्यु॒ङ्क्ते गवा॑मरु॒णाना॒मनी॑कम् ।  
+वि नू॒नमु॑च्छा॒दस॑ति॒ प्र के॒तुर्गृ॒हङ्गृ॑ह॒मुप॑ तिष्ठाते अ॒ग्निः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

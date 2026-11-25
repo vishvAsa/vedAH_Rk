@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "श्यावाश्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ hinvanti ← √hi- (root)
 
 pītáye ← pītí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदीं॑ त्रि॒तस्य॒ योष॑णो॒ हरिं॑ हिन्व॒न्त्यद्रि॑भिः ।  
+इन्दु॒मिन्द्रा॑य पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -157,10 +162,6 @@ Then the maidens of Trita [=fingers] impel him, the tawny one, with the  stones,
 the drop for Indra to drink.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On Trita as the archetypal soma-presser and his “maidens” (yóṣanaḥ) as the fingers, see disc. ad IX.37.4.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/032/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -168,7 +169,6 @@ The ā́d that begins both these vss. does not seem to have its usual “(just) 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

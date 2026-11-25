@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ pūṣaṇásya ← pūṣaṇá- (nominal stem)
 
 vavrím ← vavrí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्त स्वसॄ॒ररु॑षीर्वावशा॒नो वि॒द्वान्मध्व॒ उज्ज॑भारा दृ॒शे कम् ।  
+अ॒न्तर्ये॑मे अ॒न्तरि॑क्षे पुरा॒जा इ॒च्छन्व॒व्रिम॑विदत्पूष॒णस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “Pushan; sun.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -57,7 +58,12 @@ sákhā ← sákhi- (nominal stem)
 
 yújyaḥ ← yújya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विष्णोः॒ कर्मा॑णि पश्यत॒ यतो॑ व्र॒तानि॑ पस्प॒शे ।  
+इन्द्र॑स्य॒ युज्यः॒ सखा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -66,7 +72,7 @@ yújyaḥ ← yújya- (nominal stem)
 इन्द्र॑स्य । युज्यः॑ । सखा॑ ॥
 </details>
 
-<details><summary>पद-पाठः-तैत्तिरीयः</summary>
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 विष्णोः॑ । कर्मा॑णि । प॒श्य॒त॒ । यतः॑ । व्र॒तानि॑ । प॒स्प॒शे ॥ इन्द्र॑स्य । युज्यः॑ । सखा॑ ॥
 </details>
@@ -134,7 +140,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

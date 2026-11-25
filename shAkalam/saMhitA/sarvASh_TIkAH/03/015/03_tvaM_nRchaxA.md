@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उत्कीलः कात्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ uśíjaḥ ← uśíj- (nominal stem)
 
 yaviṣṭha ← yáviṣṭha- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नृ॒चक्षा॑ वृष॒भानु॑ पू॒र्वीः कृ॒ष्णास्व॑ग्ने अरु॒षो वि भा॑हि ।  
+वसो॒ नेषि॑ च॒ पर्षि॒ चात्यंहः॑ कृ॒धी नो॑ रा॒य उ॒शिजो॑ यविष्ठ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
 - “youngest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

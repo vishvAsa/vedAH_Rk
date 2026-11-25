@@ -4,6 +4,7 @@ devataa = "मन्युः"
 RShiH = "मन्युस्तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मन्युः
@@ -89,7 +90,12 @@ ubhaú ← ubhá- (pronoun)
 
 upāṁśú ← upāṁśú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्रेहि॑ दक्षिण॒तो भ॑वा॒ मेऽधा॑ वृ॒त्राणि॑ जङ्घनाव॒ भूरि॑ ।  
+जु॒होमि॑ ते ध॒रुणं॒ मध्वो॒ अग्र॑मु॒भा उ॑पां॒शु प्र॑थ॒मा पि॑बाव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

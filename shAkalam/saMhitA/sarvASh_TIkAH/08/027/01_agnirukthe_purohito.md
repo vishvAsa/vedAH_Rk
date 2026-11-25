@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ devā́n ← devá- (nominal stem)
 
 váreṇyam ← váreṇya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निरु॒क्थे पु॒रोहि॑तो॒ ग्रावा॑णो ब॒र्हिर॑ध्व॒रे ।  
+ऋ॒चा या॑मि म॒रुतो॒ ब्रह्म॑ण॒स्पतिं॑ दे॒वाँ अवो॒ वरे॑ण्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “excellent; desirable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

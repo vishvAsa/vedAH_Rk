@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ sū́raḥ ← sū́ra- (nominal stem)
 
 viśvádarśataḥ ← viśvádarśata- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑मानो॒ अति॒ स्रिधो॒ऽभ्य॑र्षति सुष्टु॒तिम् ।  
+सूरो॒ न वि॒श्वद॑र्शतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “beautiful; visible; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -157,7 +162,6 @@ visible to all like the sun.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -169,7 +173,6 @@ The light imagery in this tṛca may pick up on the identification with Agni in 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

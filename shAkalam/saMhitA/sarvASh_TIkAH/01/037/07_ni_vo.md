@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -60,7 +61,12 @@ jíhīta ← √hā- 1 (root)
 
 párvataḥ ← párvata- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि वो॒ यामा॑य॒ मानु॑षो द॒ध्र उ॒ग्राय॑ म॒न्यवे॑ ।  
+जिही॑त॒ पर्व॑तो गि॒रिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

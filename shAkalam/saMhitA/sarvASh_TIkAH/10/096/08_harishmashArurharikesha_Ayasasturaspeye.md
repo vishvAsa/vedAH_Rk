@@ -4,6 +4,7 @@ devataa = "हरिस्तुतिः"
 RShiH = "बरुः सर्वहरिर्वैन्द्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हरिस्तुतिः
@@ -80,7 +81,12 @@ pā́riṣat ← √pr̥- (root)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हरि॑श्मशारु॒र्हरि॑केश आय॒सस्तु॑र॒स्पेये॒ यो ह॑रि॒पा अव॑र्धत ।  
+अर्व॑द्भि॒र्यो हरि॑भिर्वा॒जिनी॑वसु॒रति॒ विश्वा॑ दुरि॒ता पारि॑ष॒द्धरी॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     haritāla; Hari; snake; frog.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

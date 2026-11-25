@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ sīdati ← √sad- (root)
 
 yónā ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भ॒यतः॒ पव॑मानस्य र॒श्मयो॑ ध्रु॒वस्य॑ स॒तः परि॑ यन्ति के॒तवः॑ ।  
+यदी॑ प॒वित्रे॒ अधि॑ मृ॒ज्यते॒ हरिः॒ सत्ता॒ नि योना॑ क॒लशे॑षु सीदति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -235,14 +240,6 @@ The rays, the beacons of the self-purifying one circle around on both  sides, th
 When the fallow bay is groomed in the filter, seated in his womb, he sits  down in the tubs.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The referent changes from 2nd ps. (vs. 5) to 3rd (vs. 6), although this is not clear until the 3rd sg. verbs in the 2nd hemistich.
-
-“On both sides” (ubhayátaḥ) probably reflects the double reference just noted: the ritual and the cosmic, or the earthly and the heavenly. See Geldner n. 6ab.
-
-I read yádī as yád ī (with enclitic prn.), since “if” does not work well here.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -260,7 +257,6 @@ As noted above, these two vss. have parallel structures in the crucial 2nd pāda
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

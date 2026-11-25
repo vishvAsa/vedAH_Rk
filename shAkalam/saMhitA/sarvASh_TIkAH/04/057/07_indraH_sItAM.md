@@ -4,6 +4,7 @@ devataa = "सीता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सीता
@@ -74,7 +75,12 @@ sámām ← sámā- (nominal stem)
 
 úttarām-uttarām ← úttara- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रः॒ सीतां॒ नि गृ॑ह्णातु॒ तां पू॒षानु॑ यच्छतु ।  
+सा नः॒ पय॑स्वती दुहा॒मुत्त॑रामुत्तरां॒ समा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “year; samā \[word\]; Devi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

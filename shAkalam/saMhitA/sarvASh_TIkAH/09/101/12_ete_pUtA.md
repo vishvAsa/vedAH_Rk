@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मनुः सांवरणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -65,7 +66,12 @@ ghr̥té ← ghr̥tá- (nominal stem)
 
 jigatnávaḥ ← jigatnú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते पू॒ता वि॑प॒श्चितः॒ सोमा॑सो॒ दध्या॑शिरः ।  
+सूर्या॑सो॒ न द॑र्श॒तासो॑ जिग॒त्नवो॑ ध्रु॒वा घृ॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “ghee; fat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -176,14 +181,12 @@ These purified soma juices, attentive to poetic inspiration, mixed with curds, a
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 Again no particular signs of cohesion, save for the X-víd- ‘finding X’ cmpds in 10b, 10d, and 11d.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

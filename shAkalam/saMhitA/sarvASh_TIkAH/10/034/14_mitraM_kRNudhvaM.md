@@ -4,6 +4,7 @@ devataa = "अक्षकितवनिन्दा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकितवनिन्दा
@@ -98,7 +99,12 @@ nú ← nú (invariable)
 
 prásitau ← prásiti- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रं कृ॑णुध्वं॒ खलु॑ मृ॒ळता॑ नो॒ मा नो॑ घो॒रेण॑ चरता॒भि धृ॒ष्णु ।  
+नि वो॒ नु म॒न्युर्वि॑शता॒मरा॑तिर॒न्यो ब॑भ्रू॒णां प्रसि॑तौ॒ न्व॑स्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

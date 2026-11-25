@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ svàr ← svàr- (nominal stem)
 
 vidát ← √vid- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वयो॒ न वृ॒क्षं सु॑पला॒शमास॑द॒न्त्सोमा॑स॒ इन्द्रं॑ म॒न्दिन॑श्चमू॒षदः॑ ।  
+प्रैषा॒मनी॑कं॒ शव॑सा॒ दवि॑द्युतद्वि॒दत्स्व१॒॑र्मन॑वे॒ ज्योति॒रार्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

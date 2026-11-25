@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -81,7 +82,12 @@ dhrájantam ← √dhraj- (root)
 
 vidhán ← √vidh- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हः स रा॒य एष॑ते॒ पति॒र्दन्नि॒न इ॒नस्य॒ वसु॑नः प॒द आ ।  
+उप॒ ध्रज॑न्त॒मद्र॑यो वि॒धन्नित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “indeed; assuredly; entirely.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

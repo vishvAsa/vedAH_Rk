@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ váreṇa ← vára- 1 (nominal stem)
 
 vāvr̥dhānáḥ ← √vr̥dh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पृ॒ष्टो दि॒वि धाय्य॒ग्निः पृ॑थि॒व्यां ने॒ता सिन्धू॑नां वृष॒भः स्तिया॑नाम् ।  
+स मानु॑षीर॒भि विशो॒ वि भा॑ति वैश्वान॒रो वा॑वृधा॒नो वरे॑ण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “gift; favor; wish; privilege; varac; wages.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

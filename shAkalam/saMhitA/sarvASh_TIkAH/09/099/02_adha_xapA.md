@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -71,7 +72,12 @@ hinvánti ← √hi- (root)
 
 yā́tave ← √yā- 1 (root)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॑ क्ष॒पा परि॑ष्कृतो॒ वाजाँ॑ अ॒भि प्र गा॑हते ।  
+यदी॑ वि॒वस्व॑तो॒ धियो॒ हरिं॑ हि॒न्वन्ति॒ यात॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

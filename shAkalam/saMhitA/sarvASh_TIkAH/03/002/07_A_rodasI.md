@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -92,7 +93,12 @@ ná ← ná (invariable)
 
 vā́jasātaye ← vā́jasāti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ रोद॑सी अपृण॒दा स्व॑र्म॒हज्जा॒तं यदे॑नम॒पसो॒ अधा॑रयन् ।  
+सो अ॑ध्व॒राय॒ परि॑ णीयते क॒विरत्यो॒ न वाज॑सातये॒ चनो॑हितः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “popular; favorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

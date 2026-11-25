@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ nā́nadat ← √nad- (root)
 
 stanáyan ← √stanⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आद॑स्य॒ ते ध्व॒सय॑न्तो॒ वृथे॑रते कृ॒ष्णमभ्वं॒ महि॒ वर्पः॒ करि॑क्रतः ।  
+यत्सीं॑ म॒हीम॒वनिं॒ प्राभि मर्मृ॑शदभिश्व॒सन्त्स्त॒नय॒न्नेति॒ नान॑दत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “bellow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

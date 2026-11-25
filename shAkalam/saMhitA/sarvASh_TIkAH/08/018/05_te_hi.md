@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -64,7 +65,12 @@ urucákrayaḥ ← urucákri- (nominal stem)
 
 anehásaḥ ← anehás- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते हि पु॒त्रासो॒ अदि॑तेर्वि॒दुर्द्वेषां॑सि॒ योत॑वे ।  
+अं॒होश्चि॑दुरु॒चक्र॑योऽने॒हसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “faultless; anehas \[word\]; incomparable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

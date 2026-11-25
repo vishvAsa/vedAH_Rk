@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sphigyā̀ ← sphigī́- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अह॒न्नहिं॑ परि॒शया॑न॒मर्ण॑ ओजा॒यमा॑नं तुविजात॒ तव्या॑न् ।  
+न ते॑ महि॒त्वमनु॑ भू॒दध॒ द्यौर्यद॒न्यया॑ स्फि॒ग्या॒३॒॑ क्षामव॑स्थाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “wear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विष्णुरिन्द्रश्च"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुरिन्द्रश्च
@@ -95,7 +96,12 @@ rocané ← rocaná- (nominal stem)
 
 tr̥tī́yam ← tr̥tī́ya- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता ईं॑ वर्धन्ति॒ मह्य॑स्य॒ पौंस्यं॒ नि मा॒तरा॑ नयति॒ रेत॑से भु॒जे ।  
+दधा॑ति पु॒त्रोऽव॑रं॒ परं॑ पि॒तुर्नाम॑ तृ॒तीय॒मधि॑ रोच॒ने दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

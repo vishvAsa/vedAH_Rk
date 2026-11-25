@@ -4,6 +4,7 @@ devataa = "असमातिः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - असमातिः
@@ -63,7 +64,12 @@ kr̥ṣṭáyaḥ ← kr̥ṣṭí- (nominal stem)
 
 páñca ← páñca- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ये॑क्ष्वा॒कुरुप॑ व्र॒ते रे॒वान्म॑रा॒य्येध॑ते ।  
+दि॒वी॑व॒ पञ्च॑ कृ॒ष्टयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “people; citizenry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

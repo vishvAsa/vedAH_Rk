@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tvā́vataḥ ← tvā́vant- (nominal stem)
 
 varūtā́ ← varūtár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+की॒रिश्चि॒द्धि त्वामव॑से जु॒हावेशा॑नमिन्द्र॒ सौभ॑गस्य॒ भूरेः॑ ।  
+अवो॑ बभूथ शतमूते अ॒स्मे अ॑भिक्ष॒त्तुस्त्वाव॑तो वरू॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “varūtṛ \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -224,10 +229,6 @@ O you of a hundred forms of help, you have become a help to us, and  you have be
 portions.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The “man like you” (tvā́vataḥ) is the human patron because he, too, distributes largesse. So also Geldner (n. 8d).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/021/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -235,7 +236,6 @@ Final varūtā́of 8d is matched by final tarutra in 9b.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

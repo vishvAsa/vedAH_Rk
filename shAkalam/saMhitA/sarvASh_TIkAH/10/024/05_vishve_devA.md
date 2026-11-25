@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -68,7 +69,12 @@ púnar ← púnar (invariable)
 
 vahatāt ← √vah- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ दे॒वा अ॑कृपन्त समी॒च्योर्नि॒ष्पत॑न्त्योः ।  
+नास॑त्यावब्रुवन्दे॒वाः पुन॒रा व॑हता॒दिति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “thus; so; iti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

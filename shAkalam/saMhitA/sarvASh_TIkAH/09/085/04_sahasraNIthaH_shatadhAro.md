@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ soma ← sóma- (nominal stem)
 
 urúm ← urú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्र॑णीथः श॒तधा॑रो॒ अद्भु॑त॒ इन्द्रा॒येन्दुः॑ पवते॒ काम्यं॒ मधु॑ ।  
+जय॒न्क्षेत्र॑म॒भ्य॑र्षा॒ जय॑न्न॒प उ॒रुं नो॑ गा॒तुं कृ॑णु सोम मीढ्वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

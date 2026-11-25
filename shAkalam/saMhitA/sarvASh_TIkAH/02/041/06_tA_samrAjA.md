@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -54,7 +55,12 @@ pátī ← páti- (nominal stem)
 
 sácete ← √sac- 1 (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता स॒म्राजा॑ घृ॒तासु॑ती आदि॒त्या दानु॑न॒स्पती॑ ।  
+सचे॑ते॒ अन॑वह्वरम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

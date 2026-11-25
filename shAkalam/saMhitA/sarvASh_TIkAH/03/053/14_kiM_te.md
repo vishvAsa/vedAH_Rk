@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ naicāśākhám ← naicāśākhá- (nominal stem)
 
 randhaya ← √randh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किं ते॑ कृण्वन्ति॒ कीक॑टेषु॒ गावो॒ नाशिरं॑ दु॒ह्रे न त॑पन्ति घ॒र्मम् ।  
+आ नो॑ भर॒ प्रम॑गन्दस्य॒ वेदो॑ नैचाशा॒खं म॑घवन्रन्धया नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

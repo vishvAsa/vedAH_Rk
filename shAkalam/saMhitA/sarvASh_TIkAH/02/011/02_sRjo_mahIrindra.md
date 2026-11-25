@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ ukthaíḥ ← ukthá- (nominal stem)
 
 vāvr̥dhānáḥ ← √vr̥dh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सृ॒जो म॒हीरि॑न्द्र॒ या अपि॑न्वः॒ परि॑ष्ठिता॒ अहि॑ना शूर पू॒र्वीः ।  
+अम॑र्त्यं चिद्दा॒सं मन्य॑मान॒मवा॑भिनदु॒क्थैर्वा॑वृधा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

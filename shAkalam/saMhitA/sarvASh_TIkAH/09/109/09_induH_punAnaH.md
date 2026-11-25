@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -52,7 +53,11 @@ naḥ ← ahám (pronoun)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्दुः॑ पुना॒नः प्र॒जामु॑रा॒णः कर॒द्विश्वा॑नि॒ द्रवि॑णानि नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +124,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -152,14 +156,6 @@ Urāṇaḥ = uru kurvāṇaḥ, i.e. devān **bahu** kurvāṇaḥ
 The drop being purified, being chosen, will make offspring and all  goods for us.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In all clear cases urāṇá- is passive, ‘being chosen’ (see comm. ad IV.6.3).
-
-Grassmann, Geldner, and Renou all take it as trans. with prajā́m as obj., but there is no reason why this acc. can’t be taken as an obj. of kárat, parallel to víśvāni drávaṇāni.
-
-kárat opening the 2nd hemistich rhymes with kṣárat in the same position in vs. 8. Nonetheless they are morphologically divergent, with kárat a subjunctive and kṣárat an injunc. Despite their parallelism kṣárat is unlikely to have modal value anticipating kárat; Hoffmann (123 and n. 26) convincingly takes kṣárat in “general” sense.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -167,7 +163,6 @@ Unlike the previous tṛca with repeated pavasva, each vs. of this tṛca has a 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

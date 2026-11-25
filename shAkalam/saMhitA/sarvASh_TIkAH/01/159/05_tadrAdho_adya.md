@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -80,7 +81,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 vásumantam ← vásumant- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्राधो॑ अ॒द्य स॑वि॒तुर्वरे॑ण्यं व॒यं दे॒वस्य॑ प्रस॒वे म॑नामहे ।  
+अ॒स्मभ्यं॑ द्यावापृथिवी सुचे॒तुना॑ र॒यिं ध॑त्तं॒ वसु॑मन्तं शत॒ग्विन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

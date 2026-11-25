@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -131,7 +132,13 @@ tā́m ← sá- ~ tá- (pronoun)
 
 veda ← √vid- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ओ षू णो॑ अग्ने शृणुहि॒ त्वमी॑ळि॒तो दे॒वेभ्यो॑ ब्रवसि य॒ज्ञिये॑भ्यो॒ राज॑भ्यो य॒ज्ञिये॑भ्यः ।  
+यद्ध॒ त्यामङ्गि॑रोभ्यो धे॒नुं दे॑वा॒ अद॑त्तन ।  
+वि तां दु॑ह्रे अर्य॒मा क॒र्तरी॒ सचाँ॑ ए॒ष तां वे॑द मे॒ सचा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -343,7 +350,6 @@ _________
 - “jointly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

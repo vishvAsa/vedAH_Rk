@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ r̥jūyaté ← √r̥jūy- (root)
 
 vr̥jinā́ni ← vr̥jiná- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सखा॑यस्ते॒ विषु॑णा अग्न ए॒ते शि॒वासः॒ सन्तो॒ अशि॑वा अभूवन् ।  
+अधू॑र्षत स्व॒यमे॒ते वचो॑भिरृजूय॒ते वृ॑जि॒नानि॑ ब्रु॒वन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

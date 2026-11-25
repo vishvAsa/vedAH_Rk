@@ -4,6 +4,7 @@ devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्याविवाहः
@@ -68,7 +69,12 @@ gā́thayā ← gā́thā- (nominal stem)
 
 páriṣkr̥tam ← √kr̥- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रैभ्या॑सीदनु॒देयी॑ नाराशं॒सी न्योच॑नी ।  
+सू॒र्याया॑ भ॒द्रमिद्वासो॒ गाथ॑यैति॒ परि॑ष्कृतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “decorate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

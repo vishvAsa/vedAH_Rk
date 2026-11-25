@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -63,7 +64,12 @@ prá ← prá (invariable)
 
 yā́mabhiḥ ← yā́man- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्यं चि॑द्घा दी॒र्घं पृ॒थुं मि॒हो नपा॑त॒ममृ॑ध्रम् ।  
+प्र च्या॑वयन्ति॒ याम॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “expedition; path; expedition; arrival.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

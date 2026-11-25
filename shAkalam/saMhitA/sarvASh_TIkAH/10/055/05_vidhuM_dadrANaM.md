@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sá ← sá- ~ tá- (pronoun)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒धुं द॑द्रा॒णं सम॑ने बहू॒नां युवा॑नं॒ सन्तं॑ पलि॒तो ज॑गार ।  
+दे॒वस्य॑ पश्य॒ काव्यं॑ महि॒त्वाद्या म॒मार॒ स ह्यः समा॑न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “breathe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sómam ← sóma- (nominal stem)
 
 vīrā́ya ← vīrá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य मदे॑ पु॒रु वर्पां॑सि वि॒द्वानिन्द्रो॑ वृ॒त्राण्य॑प्र॒ती ज॑घान ।  
+तमु॒ प्र हो॑षि॒ मधु॑मन्तमस्मै॒ सोमं॑ वी॒राय॑ शि॒प्रिणे॒ पिब॑ध्यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,16 +253,6 @@ Pour forth for him the honeyed soma, for the belipped hero to drink.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As Geldner point out (n. 14a), the “many shapes” (purú várpāṃsi) that Indra knows could either be his own (given his penchant for shape-shifting) or those of the various demonic enemies he destroys. I assume that the poet meant to leave it ambiguous, though it’s worth noting that the one instance of the bahuvrīhi puruvárpas- refers to Indra (though in the late hymn X.120.6).
-
-The hapax -si impv. hoṣi has no structural support in the RV, the only aor.
-
-attested being the pass. aor. áhāvi. However, an act. s-aor. is reasonably well attested in Vedic prose, beginning with the BYV Saṃhitās (ahauṣīt, etc.); see Narten (Sig.Aor. 288). It is difficult to know whether yoṣi is indirect evidence for a s-aor.
-
-subjunctive to this aor., *hoṣat, etc., to which hoṣi would ultimately belong, or whether it was created as a nonce beside the other -si impvs. in this ritual sphere such as yákṣi, mátsi and has nothing to do with the aor. forms in prose. I weakly favor the latter explanation.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -265,7 +260,6 @@ Another soma tṛca.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

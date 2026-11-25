@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ ná ← ná (invariable)
 
 ródasī ← ródasī- (nominal stem)  
 {case:NOM, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यजा॑म॒ इन्नम॑सा वृ॒द्धमिन्द्रं॑ बृ॒हन्त॑मृ॒ष्वम॒जरं॒ युवा॑नम् ।  
+यस्य॑ प्रि॒ये म॒मतु॑र्य॒ज्ञिय॑स्य॒ न रोद॑सी महि॒मानं॑ म॒माते॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

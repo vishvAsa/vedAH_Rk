@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इटो भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ tirás ← tirás (invariable)
 
 váśam ← váśa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं त्यमि॑न्द्र॒ सूर्यं॑ प॒श्चा सन्तं॑ पु॒रस्कृ॑धि ।  
+दे॒वानां॑ चित्ति॒रो वश॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
     authority; control; wish; supervision.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

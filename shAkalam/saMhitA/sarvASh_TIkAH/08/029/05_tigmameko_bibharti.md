@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः कश्यपो वा मारीचः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -52,7 +53,11 @@ jálāṣabheṣajaḥ ← jálāṣabheṣaja- (nominal stem)
 
 ugráḥ ← ugrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒ग्ममेको॑ बिभर्ति॒ हस्त॒ आयु॑धं॒ शुचि॑रु॒ग्रो जला॑षभेषजः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +125,6 @@ _________
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

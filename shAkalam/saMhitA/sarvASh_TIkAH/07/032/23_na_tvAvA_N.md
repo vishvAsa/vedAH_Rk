@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ havāmahe ← √hū- (root)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न त्वावाँ॑ अ॒न्यो दि॒व्यो न पार्थि॑वो॒ न जा॒तो न ज॑निष्यते ।  
+अ॒श्वा॒यन्तो॑ मघवन्निन्द्र वा॒जिनो॑ ग॒व्यन्त॑स्त्वा हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

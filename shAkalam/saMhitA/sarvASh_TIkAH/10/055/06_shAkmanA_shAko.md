@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ utá ← utá (invariable)
 
 vásu ← vásu- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शाक्म॑ना शा॒को अ॑रु॒णः सु॑प॒र्ण आ यो म॒हः शूरः॑ स॒नादनी॑ळः ।  
+यच्चि॒केत॑ स॒त्यमित्तन्न मोघं॒ वसु॑ स्पा॒र्हमु॒त जेतो॒त दाता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -253,7 +259,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

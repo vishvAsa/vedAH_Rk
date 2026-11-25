@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कतो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sr̥prā́ ← sr̥prá- (nominal stem)
 
 vápūṁṣi ← vápus- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒धि रत्नं॑ सुसनित॒र्धना॑नां॒ स घेद॑ग्ने भवसि॒ यत्समि॑द्धः ।  
+स्तो॒तुर्दु॑रो॒णे सु॒भग॑स्य रे॒वत्सृ॒प्रा क॒रस्ना॑ दधिषे॒ वपूं॑षि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     embodiment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

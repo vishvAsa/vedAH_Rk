@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ píba ← √pā- 2 (root)
 
 tū́yam ← tū́ya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒व्यामनु॑ स्फि॒ग्यं॑ वावसे॒ वृषा॒ न दा॒नो अ॑स्य रोषति ।  
+मध्वा॒ सम्पृ॑क्ताः सार॒घेण॑ धे॒नव॒स्तूय॒मेहि॒ द्रवा॒ पिब॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

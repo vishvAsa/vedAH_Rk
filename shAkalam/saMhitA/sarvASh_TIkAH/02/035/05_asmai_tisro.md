@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -86,7 +87,12 @@ pūrvasū́nām ← pūrvasū́- (nominal stem)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मै ति॒स्रो अ॑व्य॒थ्याय॒ नारी॑र्दे॒वाय॑ दे॒वीर्दि॑धिष॒न्त्यन्न॑म् ।  
+कृता॑ इ॒वोप॒ हि प्र॑स॒र्स्रे अ॒प्सु स पी॒यूषं॑ धयति पूर्व॒सूना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “sū; mother.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

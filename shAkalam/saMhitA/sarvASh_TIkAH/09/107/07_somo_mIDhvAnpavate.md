@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -77,7 +78,12 @@ rohayaḥ ← √ruh- (root)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमो॑ मी॒ढ्वान्प॑वते गातु॒वित्त॑म॒ ऋषि॒र्विप्रो॑ विचक्ष॒णः ।  
+त्वं क॒विर॑भवो देव॒वीत॑म॒ आ सूर्यं॑ रोहयो दि॒वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -220,10 +225,6 @@ Soma the rewarder purifies himself, the best pathfinder, the inspired,  wide-gaz
 You became the sage poet who best pursues the gods. You made the sun  mount in heaven.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The two splvs ending the a and c pādas show a nice phonological relationship: (gātu-)vít-tama- and (deva-)vī́-tama, with interchange between long vowel + single cons. and short vowel + geminate in otherwise identical phonetic seequences, an effect reminiscent of MIA quantitative trade-offs.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
@@ -231,7 +232,6 @@ The c pādas of these two vss. are identically constructed: tváṃ vípro [6] /
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

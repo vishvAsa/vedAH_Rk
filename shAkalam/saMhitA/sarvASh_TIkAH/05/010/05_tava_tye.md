@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गय आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ svānáḥ ← svāná- (nominal stem)
 
 vājayúḥ ← vājayú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ त्ये अ॑ग्ने अ॒र्चयो॒ भ्राज॑न्तो यन्ति धृष्णु॒या ।  
+परि॑ज्मानो॒ न वि॒द्युतः॑ स्वा॒नो रथो॒ न वा॑ज॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “competing(a); competitive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ súṣvaye ← súṣvi- (nominal stem)
 
 várivaḥ ← várivas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वृ॑त्र॒हत्ये॒ हव्यः॒ स ईड्यः॒ स सुष्टु॑त॒ इन्द्रः॑ स॒त्यरा॑धाः ।  
+स याम॒न्ना म॒घवा॒ मर्त्या॑य ब्रह्मण्य॒ते सुष्व॑ये॒ वरि॑वो धात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

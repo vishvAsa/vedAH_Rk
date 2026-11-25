@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पर्वतनारदौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -69,7 +70,12 @@ te ← tvám (pronoun)
 
 várṇam ← várṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गोम॑न्न इन्दो॒ अश्व॑वत्सु॒तः सु॑दक्ष धन्व ।  
+शुचिं॑ ते॒ वर्ण॒मधि॒ गोषु॑ दीधरम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
     begin; dip.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ sadhamā́de ← sadhamā́da- (nominal stem)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं ते॒ यवं॒ यथा॒ गोभिः॑ स्वा॒दुम॑कर्म श्री॒णन्तः॑ ।  
+इन्द्र॑ त्वा॒स्मिन्त्स॑ध॒मादे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “banquet; party; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ yajñíyāsaḥ ← yajñíya- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒दि॒त्या रु॒द्रा वस॑वो जुषन्ते॒दं ब्रह्म॑ क्रि॒यमा॑णं॒ नवी॑यः ।  
+शृ॒ण्वन्तु॑ नो दि॒व्याः पार्थि॑वासो॒ गोजा॑ता उ॒त ये य॒ज्ञिया॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -232,12 +237,6 @@ The Ādityas, the Rudras, the Vasus enjoy this sacred formulation being  made he
 Let them hear us—the Heavenly ones, the Earthly ones, the Cow-Born  ones, and those who are worthy of the sacrifice.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich refers, as often, to the hymn just concluding, with particular insistence on its absolute currency in the present moment, as shown by the 50 pres. participle and the comparative adj. ‘newer’: idám bráhma kriyámānaṃ návīyaḥ “this sacred formulation being made anew.” Who the “cow-born ones” are is debated (see, e.g., Geldner, Renou, and the long n. by Bloomfield [RV Rep. 316-17]), a question I confess to finding not very interesting, perhaps because the longueurs of this hymn have dulled my senses.
-
-The last phrase of 14, the afterthought nominal rel. cl. utá yé yajñíyāsaḥ, is probably meant to include all stray divinities and cosmic or natural elements that don’t fall under the first three categories (heavenly, earthly, cow-born) but might deserve worship. It might be better rendered “and those (others) who are worthy of the sacrifice.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/035/14-15.md">
 <details><summary><h2>14-15 ...{Loading}...</h2></summary>
 
@@ -245,7 +244,6 @@ These last two vss. stand apart from the 13 monotonous vss. that precede them, t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ r̥cáse ← √r̥c- (root)
 
 rirīhi ← √rā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू गृ॑णा॒नो गृ॑ण॒ते प्र॑त्न राज॒न्निषः॑ पिन्व वसु॒देया॑य पू॒र्वीः ।  
+अ॒प ओष॑धीरवि॒षा वना॑नि॒ गा अर्व॑तो॒ नॄनृ॒चसे॑ रिरीहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “give; impart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

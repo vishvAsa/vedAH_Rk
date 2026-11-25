@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "जेता माधुच्छन्दसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ tvā́m ← tvám (pronoun)
 
 tujyámānāsaḥ ← √tuj- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:PASS}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं व॒लस्य॒ गोम॒तोऽपा॑वरद्रिवो॒ बिल॑म् ।  
+त्वां दे॒वा अबि॑भ्युषस्तु॒ज्यमा॑नास आविषुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

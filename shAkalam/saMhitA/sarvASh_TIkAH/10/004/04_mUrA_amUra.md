@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ viśpátiḥ ← viśpáti- (nominal stem)
 
 yuvatím ← yuvatí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मू॒रा अ॑मूर॒ न व॒यं चि॑कित्वो महि॒त्वम॑ग्ने॒ त्वम॒ङ्ग वि॑त्से ।  
+शये॑ व॒व्रिश्चर॑ति जि॒ह्वया॒दन्रे॑रि॒ह्यते॑ युव॒तिं वि॒श्पतिः॒ सन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ naḥ ← ahám (pronoun)
 
 tanū́ṣu ← tanū́- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्त्वा॒ होता॑रम॒नज॑न्मि॒येधे॑ निषा॒दय॑न्तो य॒जथा॑य दे॒वाः ।  
+स त्वं नो॑ अग्नेऽवि॒तेह बो॒ध्यधि॒ श्रवां॑सि धेहि नस्त॒नूषु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “body; self; own(a); person; form.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

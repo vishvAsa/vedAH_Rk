@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ māyáyā ← māyā́- (nominal stem)
 
 varṣayathaḥ ← √vr̥ṣ- 1 (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒म्राजा॑ उ॒ग्रा वृ॑ष॒भा दि॒वस्पती॑ पृथि॒व्या मि॒त्रावरु॑णा॒ विच॑र्षणी ।  
+चि॒त्रेभि॑र॒भ्रैरुप॑ तिष्ठथो॒ रवं॒ द्यां व॑र्षयथो॒ असु॑रस्य मा॒यया॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     trick.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

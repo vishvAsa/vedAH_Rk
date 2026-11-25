@@ -4,6 +4,7 @@ devataa = "इन्द्रः~इन्द्र उशना वा;इन�
 RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः~इन्द्र उशना वा;इन्द्रः
@@ -83,7 +84,12 @@ kútsena ← kútsa- (nominal stem)
 
 śúṣṇam ← śúṣṇa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒शना॒ यत्स॑ह॒स्यै॒३॒॑रया॑तं गृ॒हमि॑न्द्र जूजुवा॒नेभि॒रश्वैः॑ ।  
+व॒न्वा॒नो अत्र॑ स॒रथं॑ ययाथ॒ कुत्से॑न दे॒वैरव॑नोर्ह॒ शुष्ण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “Śuṣṇa.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

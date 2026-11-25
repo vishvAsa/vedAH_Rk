@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -131,7 +132,13 @@ cit ← cit (invariable)
 
 hr̥ṇāyántam ← √hr̥ṇāy- (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू इ॒त्था ते॑ पू॒र्वथा॑ च प्र॒वाच्यं॒ यदङ्गि॑रो॒भ्योऽवृ॑णो॒रप॑ व्र॒जमिन्द्र॒ शिक्ष॒न्नप॑ व्र॒जम् ।  
+ऐभ्यः॑ समा॒न्या दि॒शास्मभ्यं॑ जेषि॒ योत्सि॑ च ।  
+सु॒न्वद्भ्यो॑ रन्धया॒ कं चि॑दव्र॒तं हृ॑णा॒यन्तं॑ चिदव्र॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -335,7 +342,6 @@ _________
 - “disobedient; evil.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

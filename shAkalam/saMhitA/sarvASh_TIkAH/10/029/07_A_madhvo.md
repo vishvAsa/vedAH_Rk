@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ náryaḥ ← nárya- (nominal stem)
 
 paúṁsyaiḥ ← paúṁsya- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ मध्वो॑ अस्मा असिच॒न्नम॑त्र॒मिन्द्रा॑य पू॒र्णं स हि स॒त्यरा॑धाः ।  
+स वा॑वृधे॒ वरि॑म॒न्ना पृ॑थि॒व्या अ॒भि क्रत्वा॒ नर्यः॒ पौंस्यै॑श्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

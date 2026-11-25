@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sudeváḥ ← sudevá- (nominal stem)
 
 vītíhotraḥ ← vītíhotra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को अ॒ग्निमी॑ट्टे ह॒विषा॑ घृ॒तेन॑ स्रु॒चा य॑जाता ऋ॒तुभि॑र्ध्रु॒वेभिः॑ ।  
+कस्मै॑ दे॒वा आ व॑हाना॒शु होम॒ को मं॑सते वी॒तिहो॑त्रः सुदे॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -52,7 +53,11 @@ pipráyat ← √prī- (root)
 
 yákṣat ← √yaj- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒ध्व॒रा क॑रति जा॒तवे॑दा॒ यक्ष॑द्दे॒वाँ अ॒मृता॑न्पि॒प्रय॑च्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +128,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

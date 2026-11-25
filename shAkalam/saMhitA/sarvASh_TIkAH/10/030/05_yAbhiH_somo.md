@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -89,7 +90,12 @@ punītāt ← √pū- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+याभिः॒ सोमो॒ मोद॑ते॒ हर्ष॑ते च कल्या॒णीभि॑र्युव॒तिभि॒र्न मर्यः॑ ।  
+ता अ॑ध्वर्यो अ॒पो अच्छा॒ परे॑हि॒ यदा॑सि॒ञ्चा ओष॑धीभिः पुनीतात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “purify; filter; blow; purify; purge; sift.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

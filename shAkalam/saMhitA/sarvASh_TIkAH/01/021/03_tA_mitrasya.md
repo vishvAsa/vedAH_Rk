@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -54,7 +55,12 @@ somapā́ ← somapā́- (nominal stem)
 
 sómapītaye ← sómapīti- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता मि॒त्रस्य॒ प्रश॑स्तय इन्द्रा॒ग्नी ता ह॑वामहे ।  
+सो॒म॒पा सोम॑पीतये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “drinking; haritāla.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

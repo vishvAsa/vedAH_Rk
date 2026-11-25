@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहद्दिव आथर्वणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ víśve ← víśva- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदिदा॑स॒ भुव॑नेषु॒ ज्येष्ठं॒ यतो॑ ज॒ज्ञ उ॒ग्रस्त्वे॒षनृ॑म्णः ।  
+स॒द्यो ज॑ज्ञा॒नो नि रि॑णाति॒ शत्रू॒ननु॒ यं विश्वे॒ मद॒न्त्यूमाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “assistant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

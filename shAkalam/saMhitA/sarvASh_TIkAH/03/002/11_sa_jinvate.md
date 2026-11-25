@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -83,7 +84,12 @@ vásu ← vásu- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स जि॑न्वते ज॒ठरे॑षु प्रजज्ञि॒वान्वृषा॑ चि॒त्रेषु॒ नान॑द॒न्न सिं॒हः ।  
+वै॒श्वा॒न॒रः पृ॑थु॒पाजा॒ अम॑र्त्यो॒ वसु॒ रत्ना॒ दय॑मानो॒ वि दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

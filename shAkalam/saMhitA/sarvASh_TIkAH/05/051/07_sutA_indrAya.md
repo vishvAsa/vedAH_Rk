@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -64,7 +65,12 @@ abhí ← abhí (invariable)
 
 práyaḥ ← práyas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒ता इन्द्रा॑य वा॒यवे॒ सोमा॑सो॒ दध्या॑शिरः ।  
+नि॒म्नं न य॑न्ति॒ सिन्ध॑वो॒ऽभि प्रयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “food; dainty; enjoyment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

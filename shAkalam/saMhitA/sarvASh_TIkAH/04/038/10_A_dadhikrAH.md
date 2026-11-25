@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -89,7 +90,12 @@ sám ← sám (invariable)
 
 vácāṁsi ← vácas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ द॑धि॒क्राः शव॑सा॒ पञ्च॑ कृ॒ष्टीः सूर्य॑ इव॒ ज्योति॑षा॒पस्त॑तान ।  
+स॒ह॒स्र॒साः श॑त॒सा वा॒ज्यर्वा॑ पृ॒णक्तु॒ मध्वा॒ समि॒मा वचां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “statement; command; speech; words; advice; word; voice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

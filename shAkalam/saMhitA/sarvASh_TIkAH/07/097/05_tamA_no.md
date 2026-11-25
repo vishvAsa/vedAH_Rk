@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -80,7 +81,12 @@ bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)
 
 huvema ← √hū- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमा नो॑ अ॒र्कम॒मृता॑य॒ जुष्ट॑मि॒मे धा॑सुर॒मृता॑सः पुरा॒जाः ।  
+शुचि॑क्रन्दं यज॒तं प॒स्त्या॑नां॒ बृह॒स्पति॑मन॒र्वाणं॑ हुवेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ námasā ← námas- (nominal stem)
 
 vivāse ← √vanⁱ- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:MED, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नम॒ इदु॒ग्रं नम॒ आ वि॑वासे॒ नमो॑ दाधार पृथि॒वीमु॒त द्याम् ।  
+नमो॑ दे॒वेभ्यो॒ नम॑ ईश एषां कृ॒तं चि॒देनो॒ नम॒सा वि॑वासे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “invite; endeavor; try for.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

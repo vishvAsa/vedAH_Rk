@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -74,7 +75,12 @@ gr̥ṇānáḥ ← √gr̥̄- 1 (root)
 
 pratidoṣám ← pratidoṣám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यहस्तो॒ असु॑रः सुनी॒थः सु॑मृळी॒कः स्ववाँ॑ यात्व॒र्वाङ् ।  
+अ॒प॒सेध॑न्र॒क्षसो॑ यातु॒धाना॒नस्था॑द्दे॒वः प्र॑तिदो॒षं गृ॑णा॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

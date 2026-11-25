@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ rátheṣu ← rátha- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्य वा॒ज्य॑रु॒षस्तु॑वि॒ष्वणि॑रि॒ह स्म॑ धायि दर्श॒तः ।  
+मा वो॒ यामे॑षु मरुतश्चि॒रं क॑र॒त्प्र तं रथे॑षु चोदत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “urge; rush.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

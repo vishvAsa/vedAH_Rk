@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -85,7 +86,12 @@ nr̥̄́n ← nár- (nominal stem)
 
 sāsahyāt ← √sah- (root)  
 {number:SG, person:3, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इति॑ चिन्म॒न्युम॒ध्रिज॒स्त्वादा॑त॒मा प॒शुं द॑दे ।  
+आद॑ग्ने॒ अपृ॑ण॒तोऽत्रिः॑ सासह्या॒द्दस्यू॑नि॒षः सा॑सह्या॒न्नॄन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

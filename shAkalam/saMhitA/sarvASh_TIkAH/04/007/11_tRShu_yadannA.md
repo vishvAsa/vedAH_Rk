@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 vājayate ← √vājay- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तृ॒षु यदन्ना॑ तृ॒षुणा॑ व॒वक्ष॑ तृ॒षुं दू॒तं कृ॑णुते य॒ह्वो अ॒ग्निः ।  
+वात॑स्य मे॒ळिं स॑चते नि॒जूर्व॑न्ना॒शुं न वा॑जयते हि॒न्वे अर्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “horse; arvan \[word\]; racehorse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ samīdhé ← √idh- 1 (root)
 
 sántam ← √as- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद॑स्तम्भीत्स॒मिधा॒ नाक॑मृ॒ष्वो॒३॒॑ऽग्निर्भव॑न्नुत्त॒मो रो॑च॒नाना॑म् ।  
+यदी॒ भृगु॑भ्यः॒ परि॑ मात॒रिश्वा॒ गुहा॒ सन्तं॑ हव्य॒वाहं॑ समी॒धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “kindle; blaze.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

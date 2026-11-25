@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उपस्तुतो वार्ष्टिहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ naḥ ← ahám (pronoun)
 
 téṣām ← sá- ~ tá- (pronoun)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स इद॒ग्निः कण्व॑तमः॒ कण्व॑सखा॒र्यः पर॒स्यान्त॑रस्य॒ तरु॑षः ।  
+अ॒ग्निः पा॑तु गृण॒तो अ॒ग्निः सू॒रीन॒ग्निर्द॑दातु॒ तेषा॒मवो॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

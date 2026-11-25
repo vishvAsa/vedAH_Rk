@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशोकः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ sáraḥ ← sáras- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ह त्वा॒ गोप॑रीणसा म॒हे म॑न्दन्तु॒ राध॑से ।  
+सरो॑ गौ॒रो यथा॑ पिब ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +143,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,7 +173,7 @@ Drink a lake, as a buffalo does.
 <details><summary>Jamison Brereton Notes</summary>
 
 mahé was mistakenly omitted in the published translation Substitute “to great generosity.” I follow Oldenberg in taking góparīṇasā as standing for -āḥ, nom. pl. to a thematic stem, rather than, with Geldner (and Pp.), as -ā and instr. sg. of the s-stem. In the simplex both párīṇas- and parīṇasá- exist, though the latter occurs only once (IX.97.9), where it is indirectly associated with cows/milk. Oldenberg points out that soma is generally the subject of √mand (as in 14b mandantu … índavaḥ), and taking góparīṇasā(ḥ) here as modifying a plural form of soma drinks or drops would save having to supply another element in the instrumental. However, Geldner’s interpretation does have in its favor that the more common simplex is párīṇas- and that it is regularly found in the instrumental. _________
-**25-27 The proclamation of Indra’s deeds called for in 25c is presumably contained in the following two verses.**  
+**25-27 The proclamation of Indra’s deeds called for in 25c is presumably contained in the following two verses.**
 </details>
 
 <details><summary>Griffith</summary>

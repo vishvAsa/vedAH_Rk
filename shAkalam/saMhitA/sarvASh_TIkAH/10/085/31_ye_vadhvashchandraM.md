@@ -4,6 +4,7 @@ devataa = "यक्ष्मनाशनी दंपत्योः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यक्ष्मनाशनी दंपत्योः
@@ -77,7 +78,12 @@ náyantu ← √nī- (root)
 
 yátas ← yátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये व॒ध्व॑श्च॒न्द्रं व॑ह॒तुं यक्ष्मा॒ यन्ति॒ जना॒दनु॑ ।  
+पुन॒स्तान्य॒ज्ञिया॑ दे॒वा नय॑न्तु॒ यत॒ आग॑ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
     inherit; hand down; achieve; reach; appear; happen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

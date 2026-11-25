@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ uṣásā ← uṣás- (nominal stem)
 
 tiróahnyam ← tiróahnya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्रे॑रिव शृणुतं पू॒र्व्यस्तु॑तिं श्या॒वाश्व॑स्य सुन्व॒तो म॑दच्युता ।  
+स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चाश्वि॑ना ति॒रोअ॑ह्न्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ tatasré ← √taṁs- (root)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था कद॒स्या उ॒षसो॒ व्यु॑ष्टौ दे॒वो मर्त॑स्य स॒ख्यं जु॑जोष ।  
+क॒था कद॑स्य स॒ख्यं सखि॑भ्यो॒ ये अ॑स्मि॒न्कामं॑ सु॒युजं॑ तत॒स्रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - \[verb\], plural, Perfect indicative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -247,17 +252,12 @@ How and what comradeship with a mortal does the god enjoy at the  breaking of th
 How and what is his comradeship for his comrades, who have tugged  their well-harnessed desire to him?
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As noted above, fem. asyā́(ḥ) patterns with the ubiquitous asya in this vs.: 5a kathā́kád asyā́/ 5c kathā́kád asya.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/023/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
 The root √juṣ encountered in two different forms in 1bc recurs here in the perfect, subjunctive (4d) and indicative (5b).
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

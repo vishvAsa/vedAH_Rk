@@ -4,6 +4,7 @@ devataa = "यूपा विश्वेदेवो वा"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यूपा विश्वेदेवो वा
@@ -77,7 +78,12 @@ kr̥ṇvantu ← √kr̥- (root)
 
 ūrdhvám ← ūrdhvá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒दि॒त्या रु॒द्रा वस॑वः सुनी॒था द्यावा॒क्षामा॑ पृथि॒वी अ॒न्तरि॑क्षम् ।  
+स॒जोष॑सो य॒ज्ञम॑वन्तु दे॒वा ऊ॒र्ध्वं कृ॑ण्वन्त्वध्व॒रस्य॑ के॒तुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     signal; signal; luminosity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

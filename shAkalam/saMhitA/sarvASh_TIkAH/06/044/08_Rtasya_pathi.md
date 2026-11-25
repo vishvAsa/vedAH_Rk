@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "विराट् त्रिष्थुब्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ venyáḥ ← venyá- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॑ प॒थि वे॒धा अ॑पायि श्रि॒ये मनां॑सि दे॒वासो॑ अक्रन् ।  
+दधा॑नो॒ नाम॑ म॒हो वचो॑भि॒र्वपु॑र्दृ॒शये॑ वे॒न्यो व्या॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -238,22 +243,6 @@ Acquiring the name of “great” by (ritual) speeches, the one worthy of  the q
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The passive interpr. of the pf. part. papāná- in 7b is affirmed by the pass.
-
-aor. apāyi in 8a.
-
-Similarly, the second pāda clarifies the sense of 7b, where it was said that soma “has perceived what is better for the gods.” What is better seems to be the gods’ intent, announced here in 8b, to achieve glory. The VP mánas √kṛ generally means ‘set one’s mind on/to’; cf. V.61.7, I.54.9, II.26.2=VIII.19.20 (though V.30.4 and X.117.2 are outliers).
-
-The forms grouped by Grassmann under a stem mahás-, an adj. meaning ‘gross’, generally have other interpr., either adverbial or belonging to a diff. stem (e.g., gen. sg. to máh-). Although a suffix-accented adj. mahás- built by accent shift to neut.
-
-máhas- ‘greatness’ would fit the standard pattern (type yáśas- ‘glory’ à yaśás- ‘glorious’), the realization of the pattern in this lexical item seems to have been rare to non-existent. In this passage most (Grassmann, Geldner) do take maháḥ as a neut. adj. to this stem, modifying nā́ma (“acquiring a great name”), but because of the general avoidance of such an adj. I prefer to take maháḥ as the masc. nom. sg. to mahá-, a quotation of the name he received.
-
-In keeping with the interpr. of the root √ven as ‘track, trace, seek’, I interpr.
-
-its grdv. venyá-, when not a PN, as ‘(worthy) to be tracked/sought’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -263,7 +252,6 @@ The tṛca concerns soma and contains lexical and thematic responsions.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

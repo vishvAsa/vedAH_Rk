@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ
@@ -80,7 +81,12 @@ ní ← ní (invariable)
 
 vádhatraiḥ ← vádhatra- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्व॑स्मात्सीमध॒माँ इ॑न्द्र॒ दस्यू॒न्विशो॒ दासी॑रकृणोरप्रश॒स्ताः ।  
+अबा॑धेथा॒ममृ॑णतं॒ नि शत्रू॒नवि॑न्देथा॒मप॑चितिं॒ वध॑त्रैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “weapon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

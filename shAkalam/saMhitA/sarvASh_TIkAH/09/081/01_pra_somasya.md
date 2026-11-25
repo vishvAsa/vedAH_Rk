@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुर्भारद्वाजः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ sutā́ḥ ← √su- (root)
 
 udámandiṣuḥ ← √mand- (root)  
 {number:PL, person:3, mood:IND, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सोम॑स्य॒ पव॑मानस्यो॒र्मय॒ इन्द्र॑स्य यन्ति ज॒ठरं॑ सु॒पेश॑सः ।  
+द॒ध्ना यदी॒मुन्नी॑ता य॒शसा॒ गवां॑ दा॒नाय॒ शूर॑मु॒दम॑न्दिषुः सु॒ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -240,12 +245,6 @@ of Indra,
 when, ladled up with the curds, with the glorious (product) of the cows,  the pressings have exhilarated the champion for giving.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The simile in b is also found in X.43.2 rā́jeva dasma (with voc.), as Geldner (n.
-
-1b) points out. The simile is likely to be self-contained, not a necessary part of the rest of the clause, contra Ober (II.214-15), who sees it as expressing a peculiar trope, “der ‘brüllende’ König.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/081/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -253,7 +252,6 @@ As Geldner points out (nn. 1d, 2d), ghee (ghṛtá-) in these two vss. stands fo
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

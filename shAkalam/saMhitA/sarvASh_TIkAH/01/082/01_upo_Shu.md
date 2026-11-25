@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -97,7 +98,12 @@ te ← tvám (pronoun)
 
 yójā ← √yuj- (root)  
 {number:SG, person:1, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपो॒ षु शृ॑णु॒ही गिरो॒ मघ॑व॒न्मात॑था इव ।  
+य॒दा नः॑ सू॒नृता॑वतः॒ कर॒ आद॒र्थया॑स॒ इद्योजा॒ न्वि॑न्द्र ते॒ हरी॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     haritāla; Hari; snake; frog.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

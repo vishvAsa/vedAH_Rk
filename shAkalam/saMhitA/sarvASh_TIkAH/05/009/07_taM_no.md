@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गय आत्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -97,7 +98,12 @@ utá ← utá (invariable)
 
 vr̥dhé ← vŕ̥dh- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं नो॑ अग्ने अ॒भी नरो॑ र॒यिं स॑हस्व॒ आ भ॑र ।  
+स क्षे॑पय॒त्स पो॑षय॒द्भुव॒द्वाज॑स्य सा॒तय॑ उ॒तैधि॑ पृ॒त्सु नो॑ वृ॒धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -57,7 +58,12 @@ atríṇaḥ ← atrín- (nominal stem)
 
 santu ← √as- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता म॒हान्ता॒ सद॒स्पती॒ इन्द्रा॑ग्नी॒ रक्ष॑ उब्जतम् ।  
+अप्र॑जाः सन्त्व॒त्रिणः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “Atrin; eater.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

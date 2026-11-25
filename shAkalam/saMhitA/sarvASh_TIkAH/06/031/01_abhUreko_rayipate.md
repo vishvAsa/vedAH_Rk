@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ carṣaṇáyaḥ ← carṣaṇí- (nominal stem)
 
 vívācaḥ ← vívāc- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अभू॒रेको॑ रयिपते रयी॒णामा हस्त॑योरधिथा इन्द्र कृ॒ष्टीः ।  
+वि तो॒के अ॒प्सु तन॑ये च॒ सूरेऽवो॑चन्त चर्ष॒णयो॒ विवा॑चः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “arguing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

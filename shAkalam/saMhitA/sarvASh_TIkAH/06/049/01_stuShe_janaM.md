@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ sukṣatrā́saḥ ← sukṣatrá- (nominal stem)
 
 váruṇaḥ ← váruṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तु॒षे जनं॑ सुव्र॒तं नव्य॑सीभिर्गी॒र्भिर्मि॒त्रावरु॑णा सुम्न॒यन्ता॑ ।  
+त आ ग॑मन्तु॒ त इ॒ह श्रु॑वन्तु सुक्ष॒त्रासो॒ वरु॑णो मि॒त्रो अ॒ग्निः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

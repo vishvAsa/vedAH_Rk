@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ agním ← agní- (nominal stem)
 
 vyùṣṭiṣu ← vyùṣṭi- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रेष्ठं॒ यवि॑ष्ठ॒मति॑थिं॒ स्वा॑हुतं॒ जुष्टं॒ जना॑य दा॒शुषे॑ ।  
+दे॒वाँ अच्छा॒ यात॑वे जा॒तवे॑दसम॒ग्निमी॑ळे॒ व्यु॑ष्टिषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “dawn; happiness; consequence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

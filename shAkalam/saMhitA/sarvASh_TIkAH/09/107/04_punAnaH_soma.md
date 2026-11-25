@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)
 
 útsaḥ ← útsa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒ना॒नः सो॑म॒ धार॑या॒पो वसा॑नो अर्षसि ।  
+आ र॑त्न॒धा योनि॑मृ॒तस्य॑ सीद॒स्युत्सो॑ देव हिर॒ण्ययः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “gold; aureate; hiraṇyaya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -212,7 +217,6 @@ Conferring treasure, you sit here upon the womb of truth as the golden  wellspri
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -220,7 +224,6 @@ Both vss. describing Soma taking his seat (4c, 5b). There is also concatenation 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

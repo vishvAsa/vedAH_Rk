@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sácetasaḥ ← sácetas- (nominal stem)
 
 sacítaḥ ← sacít- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॑ वा॒युं र॑थ॒युजं॒ पुरं॑धिं॒ स्तोमैः॑ कृणुध्वं स॒ख्याय॑ पू॒षण॑म् ।  
+ते हि दे॒वस्य॑ सवि॒तुः सवी॑मनि॒ क्रतुं॒ सच॑न्ते स॒चितः॒ सचे॑तसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “consentaneous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

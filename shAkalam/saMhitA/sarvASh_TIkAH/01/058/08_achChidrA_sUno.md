@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ pūrbhíḥ ← púr- (nominal stem)
 
 ū́rjaḥ ← ū́rj- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छि॑द्रा सूनो सहसो नो अ॒द्य स्तो॒तृभ्यो॑ मित्रमहः॒ शर्म॑ यच्छ ।  
+अग्ने॑ गृ॒णन्त॒मंह॑स उरु॒ष्योर्जो॑ नपात्पू॒र्भिराय॑सीभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “iron; metallic.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -233,7 +238,6 @@ O Agni, child of nourishment, deliver the singer from narrow straits,  with your
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/058/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -242,7 +246,6 @@ Vs. 9 is essentially a paraphrase of vs. 8, with several parallel expressions.
 And the final pāda of 9 is the Nodhas refrain.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

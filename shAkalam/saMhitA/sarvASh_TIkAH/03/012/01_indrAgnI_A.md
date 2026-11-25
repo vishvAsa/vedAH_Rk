@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -63,7 +64,12 @@ iṣitā́ ← √iṣ- 1 (root)
 
 pātam ← √pā- 2 (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ग्नी॒ आ ग॑तं सु॒तं गी॒र्भिर्नभो॒ वरे॑ण्यम् ।  
+अ॒स्य पा॑तं धि॒येषि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “send.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "उपस्तुतो वार्ष्टिहव्यः"
 ChandaH = "शक्वरी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -106,7 +107,12 @@ námaḥ ← námas- (nominal stem)
 
 ūrdhvā́saḥ ← ūrdhvá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इति॑ त्वाग्ने वृष्टि॒हव्य॑स्य पु॒त्रा उ॑पस्तु॒तास॒ ऋष॑योऽवोचन् ।  
+ताँश्च॑ पा॒हि गृ॑ण॒तश्च॑ सू॒रीन्वष॒ड्वष॒ळित्यू॒र्ध्वासो॑ अनक्ष॒न्नमो॒ नम॒ इत्यू॒र्ध्वासो॑ अनक्षन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -268,7 +274,6 @@ _________
 - “reach; approach.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

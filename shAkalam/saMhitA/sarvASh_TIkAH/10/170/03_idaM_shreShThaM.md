@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "विभ्राट् सौर्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -89,7 +90,12 @@ sáhaḥ ← sáhas- (nominal stem)
 
 urú ← urú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं श्रेष्ठं॒ ज्योति॑षां॒ ज्योति॑रुत्त॒मं वि॑श्व॒जिद्ध॑न॒जिदु॑च्यते बृ॒हत् ।  
+वि॒श्व॒भ्राड्भ्रा॒जो महि॒ सूर्यो॑ दृ॒श उ॒रु प॑प्रथे॒ सह॒ ओजो॒ अच्यु॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “firm; regular; permanent; immovable; unchanging.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

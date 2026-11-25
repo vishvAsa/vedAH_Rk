@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ máhi ← máh- (nominal stem)
 
 yajasva ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं य॒ज्ञं स॑हसाव॒न्त्वं नो॑ देव॒त्रा धे॑हि सुक्रतो॒ ररा॑णः ।  
+प्र यं॑सि होतर्बृह॒तीरिषो॒ नोऽग्ने॒ महि॒ द्रवि॑ण॒मा य॑जस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

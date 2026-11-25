@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विरूप आङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ rocate ← √ruc- (root)
 
 śúciḥ ← śúci- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निः शुचि॑व्रततमः॒ शुचि॒र्विप्रः॒ शुचिः॑ क॒विः ।  
+शुची॑ रोचत॒ आहु॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “sacrifice; sprinkle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -183,7 +188,7 @@ Agni who bears most holy sway, the holy Singer, holy Sage,
 
 Agni, of purest vows,  
 Pure sage, pure poet,  
-Shineth in purity, when offering is made.  
+Shineth in purity, when offering is made.
 </details>
 
 <details><summary>Geldner</summary>

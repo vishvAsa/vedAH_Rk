@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ te ← tvám (pronoun)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा नः॒ स्पृधः॒ सम॑जा स॒मत्स्विन्द्र॑ रार॒न्धि मि॑थ॒तीरदे॑वीः ।  
+वि॒द्याम॒ वस्तो॒रव॑सा गृ॒णन्तो॑ भ॒रद्वा॑जा उ॒त त॑ इन्द्र नू॒नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “now; surely; immediately; just.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

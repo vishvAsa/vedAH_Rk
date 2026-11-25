@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -60,7 +61,12 @@ savitā́ ← savitár- (nominal stem)
 
 suvā́ti ← √sū- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य इ॒मा विश्वा॑ जा॒तान्या॑श्रा॒वय॑ति॒ श्लोके॑न ।  
+प्र च॑ सु॒वाति॑ सवि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “Savitar; sun; Surya; Savitṛ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -157,14 +162,6 @@ Who makes all these creatures hearken with his signal-call
 and will impel (them) forth: Savitar.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-A further question concerns the last clause of 9c, prá ca suvā́ti savitā́. Geldner (fld.
-
-by Klein [DGRV I.248 n. 93, 251]) takes cá as subordinating, tr. ‘wenn’, thus producing a dependent clause dependent on another dependent clause “who …, when he …” (Renou has a fussy interpr. involving an ellipse that I find puzzling.) I see no reason for Geldner’s interpr., but take the ca as conjoining the two clauses ab and c (or their verbs). The accent on suvā́ti is already accounted for by its presence in a rel. cl., and I think it more likely that the poet would end the hymn with a ringing announcement of what Savitar is going to do rather than a conditional uncertainty about whether he’s going to do it.
-
-The phrase āśrāváyati ślókena is technically an etymological figure, somewhat obscured by the l-form of ślóka- and its highly lexicalized state.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/082/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -174,7 +171,6 @@ prns. yáḥ hang off the accs. in vs. 7, but it is possible that the vs.-final 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

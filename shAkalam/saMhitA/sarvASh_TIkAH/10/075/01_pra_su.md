@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "सिन्धुक्षित् प्रैयमेधः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -92,7 +93,12 @@ síndhuḥ ← síndhu- (nominal stem)
 
 sŕ̥tvarīṇām ← sŕ̥tvan- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सु व॑ आपो महि॒मान॑मुत्त॒मं का॒रुर्वो॑चाति॒ सद॑ने वि॒वस्व॑तः ।  
+प्र स॒प्तस॑प्त त्रे॒धा हि च॑क्र॒मुः प्र सृत्व॑रीणा॒मति॒ सिन्धु॒रोज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

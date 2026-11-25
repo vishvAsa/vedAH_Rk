@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ mātā́ ← mātár- (nominal stem)
 
 netrī́ ← netrī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वं॑ प्रती॒ची स॒प्रथा॒ उद॑स्था॒द्रुश॒द्वासो॒ बिभ्र॑ती शु॒क्रम॑श्वैत् ।  
+हिर॑ण्यवर्णा सु॒दृशी॑कसन्दृ॒ग्गवां॑ मा॒ता ने॒त्र्यह्ना॑मरोचि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “please; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

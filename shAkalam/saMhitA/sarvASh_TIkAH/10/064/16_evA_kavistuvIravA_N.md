@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ gáyaḥ ← gáya- (nominal stem)
 
 jánma ← jánman- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा क॒विस्तु॑वी॒रवाँ॑ ऋत॒ज्ञा द्र॑विण॒स्युर्द्रवि॑णसश्चका॒नः ।  
+उ॒क्थेभि॒रत्र॑ म॒तिभि॑श्च॒ विप्रोऽपी॑पय॒द्गयो॑ दि॒व्यानि॒ जन्म॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     parentage; descent; appearance; age; birthplace; beginning; being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

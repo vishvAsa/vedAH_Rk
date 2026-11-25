@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रो वा कुशिक ऐषीरथिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ maghavan ← maghávan- (nominal stem)
 
 sú ← sú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मह्या ते॑ स॒ख्यं व॑श्मि श॒क्तीरा वृ॑त्र॒घ्ने नि॒युतो॑ यन्ति पू॒र्वीः ।  
+महि॑ स्तो॒त्रमव॒ आग॑न्म सू॒रेर॒स्माकं॒ सु म॑घवन्बोधि गो॒पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “herder; defender.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

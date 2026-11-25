@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ dravát ← dravát (invariable)
 
 ihá ← ihá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+होता॑रं वि॒श्ववे॑दसं॒ सं हि त्वा॒ विश॑ इ॒न्धते॑ ।  
+स आ व॑ह पुरुहूत॒ प्रचे॑त॒सोऽग्ने॑ दे॒वाँ इ॒ह द्र॒वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     dissolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ havyám ← havyá- (nominal stem)
 
 juṣásva ← √juṣ- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वेषि॒ ह्य॑ध्वरीय॒तामग्ने॒ होता॒ दमे॑ वि॒शाम् ।  
+स॒मृधो॑ विश्पते कृणु जु॒षस्व॑ ह॒व्यम॑ङ्गिरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
     Aṅgiras.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

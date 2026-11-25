@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -65,7 +66,12 @@ svāpayāmasi ← √svap- (root)
 
 tā́ḥ ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रो॒ष्ठे॒श॒या व॑ह्येश॒या नारी॒र्यास्त॑ल्प॒शीव॑रीः ।  
+स्त्रियो॒ याः पुण्य॑गन्धा॒स्ताः सर्वाः॑ स्वापयामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - “put to sleep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

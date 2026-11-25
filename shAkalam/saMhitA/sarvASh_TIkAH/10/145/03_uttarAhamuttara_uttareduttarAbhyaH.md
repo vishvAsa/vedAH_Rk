@@ -4,6 +4,7 @@ devataa = "उपनिषत्सपत्नीबाधनं"
 RShiH = "इन्द्राणी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उपनिषत्सपत्नीबाधनं
@@ -71,7 +72,12 @@ yā́ ← yá- (pronoun)
 
 sā́ ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उत्त॑रा॒हमु॑त्तर॒ उत्त॒रेदुत्त॑राभ्यः ।  
+अथा॑ स॒पत्नी॒ या ममाध॑रा॒ साध॑राभ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “lower; adhara \[word\]; worse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

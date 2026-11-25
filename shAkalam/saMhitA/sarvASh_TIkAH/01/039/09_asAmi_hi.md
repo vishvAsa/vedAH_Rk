@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ vidyútaḥ ← vidyút- (nominal stem)
 
 vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असा॑मि॒ हि प्र॑यज्यवः॒ कण्वं॑ द॒द प्र॑चेतसः ।  
+असा॑मिभिर्मरुत॒ आ न॑ ऊ॒तिभि॒र्गन्ता॑ वृ॒ष्टिं न वि॒द्युतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “lightning; Vidyut; thunderbolt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

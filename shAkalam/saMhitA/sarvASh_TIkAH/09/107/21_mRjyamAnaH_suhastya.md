@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -68,7 +69,12 @@ arṣasi ← √arṣ- (root)
 
 pávamāna ← √pū- (root)  
 {case:VOC, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मृ॒ज्यमा॑नः सुहस्त्य समु॒द्रे वाच॑मिन्वसि ।  
+र॒यिं पि॒शङ्गं॑ बहु॒लं पु॑रु॒स्पृहं॒ पव॑माना॒भ्य॑र्षसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “run.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -187,10 +192,6 @@ O self-purifying one, you rush toward ample, much-craved, golden
 wealth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Both Geldner and Renou construe samudré with mṛjyámānaḥ (e.g., “Im Meer sauber gemacht”), but surely our passage can't be separated from IX.12.6 prá vā́cam índur iṣyati, samudrásyā́dhi viṣṭápi “The drop sends forth his speech upon the surface of the sea,” a passage adduced by Geldner (n. 21b) without comment.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/21-22.md">
 <details><summary><h2>21-22 ...{Loading}...</h2></summary>
 
@@ -198,7 +199,6 @@ Lexical cohesion: mṛjyámānaḥ opening 21a echoed by mṛjānáḥ opening 2
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

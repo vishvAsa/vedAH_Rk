@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "महासतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -91,7 +92,12 @@ stotŕ̥bhyaḥ ← stotár- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑सां गृ॒हप॑तिर्वि॒शाम॑सि॒ त्वम॑ग्ने॒ मानु॑षीणाम् ।  
+श॒तं पू॒र्भिर्य॑विष्ठ पा॒ह्यंह॑सः समे॒द्धारं॑ श॒तं हिमाः॑ स्तो॒तृभ्यो॒ ये च॒ दद॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुपर्णस्तार्क्ष्यपुत्र ऊर्ध्वकृशनो वा यामायनः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ enā́ ← ayám (pronoun)
 
 jāgāra ← √gr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं ते॑ श्ये॒नश्चारु॑मवृ॒कं प॒दाभ॑रदरु॒णं मा॒नमन्ध॑सः ।  
+ए॒ना वयो॒ वि ता॒र्यायु॑र्जी॒वस॑ ए॒ना जा॑गार ब॒न्धुता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “state; Lakshmi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

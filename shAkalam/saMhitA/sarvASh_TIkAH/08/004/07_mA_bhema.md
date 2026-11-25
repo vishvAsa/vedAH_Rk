@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ turváśam ← turváśa- (nominal stem)
 
 yádum ← yádu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा भे॑म॒ मा श्र॑मिष्मो॒ग्रस्य॑ स॒ख्ये तव॑ ।  
+म॒हत्ते॒ वृष्णो॑ अभि॒चक्ष्यं॑ कृ॒तं पश्ये॑म तु॒र्वशं॒ यदु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “Yadu; Yadu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

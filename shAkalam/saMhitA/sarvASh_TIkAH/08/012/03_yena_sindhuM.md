@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -67,7 +68,12 @@ yā́tave ← √yā- 1 (root)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येन॒ सिन्धुं॑ म॒हीर॒पो रथाँ॑ इव प्रचो॒दयः॑ ।  
+पन्था॑मृ॒तस्य॒ यात॑वे॒ तमी॑महे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -180,7 +185,6 @@ to travel the path of truth—for that we beg.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -188,7 +192,6 @@ This tṛca is unified by a series of relative clauses (mostly introduced by yé
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

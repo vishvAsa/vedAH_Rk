@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ sudītím ← sudītí- (nominal stem)
 
 suvitā́ya ← suvitá- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तावा॑नं य॒ज्ञियं॒ विप्र॑मु॒क्थ्य१॒॑मा यं द॒धे मा॑त॒रिश्वा॑ दि॒वि क्षय॑म् ।  
+तं चि॒त्रया॑मं॒ हरि॑केशमीमहे सुदी॒तिम॒ग्निं सु॑वि॒ताय॒ नव्य॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “new.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

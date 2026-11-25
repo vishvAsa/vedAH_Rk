@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः कश्यपो वा मारीचः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -52,7 +53,11 @@ devéṣu ← devá- (nominal stem)
 
 nídhruviḥ ← nídhruvi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वाशी॒मेको॑ बिभर्ति॒ हस्त॑ आय॒सीम॒न्तर्दे॒वेषु॒ निध्रु॑विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +118,6 @@ _________
 - “sedentary.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "यथानिपातं"
 RShiH = "अग्निवरुणसोमानां निहवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यथानिपातं
@@ -95,7 +96,12 @@ bībhatsúvaḥ ← bībhatsú- (nominal stem)
 
 vr̥trā́t ← vr̥trá- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता अ॑स्य॒ ज्येष्ठ॑मिन्द्रि॒यं स॑चन्ते॒ ता ई॒मा क्षे॑ति स्व॒धया॒ मद॑न्तीः ।  
+ता ईं॒ विशो॒ न राजा॑नं वृणा॒ना बी॑भ॒त्सुवो॒ अप॑ वृ॒त्राद॑तिष्ठन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

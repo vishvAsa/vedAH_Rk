@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -52,7 +53,11 @@ mádāya ← máda- (nominal stem)
 
 vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ञ्जन्त्ये॑नं॒ मध्वो॒ रसे॒नेन्द्रा॑य॒ वृष्ण॒ इन्दुं॒ मदा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +122,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -144,7 +148,6 @@ With the sap of honey they anoint him, the drop for Indra the bull, for  exhilar
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -152,7 +155,6 @@ No particular signs of cohesion, though assembled from the usual assortment of s
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

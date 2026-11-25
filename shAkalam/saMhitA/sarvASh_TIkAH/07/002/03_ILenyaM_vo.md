@@ -4,6 +4,7 @@ devataa = "इळः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इळः
@@ -83,7 +84,12 @@ sádam ← sádam (invariable)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒ळेन्यं॑ वो॒ असु॑रं सु॒दक्ष॑म॒न्तर्दू॒तं रोद॑सी सत्य॒वाच॑म् ।  
+म॒नु॒ष्वद॒ग्निं मनु॑ना॒ समि॑द्धं॒ सम॑ध्व॒राय॒ सद॒मिन्म॑हेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “give; accord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

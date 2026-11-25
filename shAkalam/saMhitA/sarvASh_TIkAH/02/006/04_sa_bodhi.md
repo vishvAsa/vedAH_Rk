@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ dvéṣāṁsi ← dvéṣas- (nominal stem)
 
 yuyodhí ← √yu- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स बो॑धि सू॒रिर्म॒घवा॒ वसु॑पते॒ वसु॑दावन् ।  
+यु॒यो॒ध्य१॒॑स्मद्द्वेषां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “hostility; enemy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

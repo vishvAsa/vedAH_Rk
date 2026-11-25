@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ tásmin ← sá- ~ tá- (pronoun)
 
 yájamānaḥ ← √yaj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+के॒तुं य॒ज्ञानां॑ वि॒दथ॑स्य॒ साध॑नं॒ विप्रा॑सो अ॒ग्निं म॑हयन्त॒ चित्ति॑भिः ।  
+अपां॑सि॒ यस्मि॒न्नधि॑ सन्द॒धुर्गिर॒स्तस्मि॑न्त्सु॒म्नानि॒ यज॑मान॒ आ च॑के ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “like; delight; desire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

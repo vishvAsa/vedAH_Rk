@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ svàr ← svàr- (nominal stem)
 
 yébhiḥ ← yá- (pronoun)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+र॒थि॒रासो॒ हर॑यो॒ ये ते॑ अ॒स्रिध॒ ओजो॒ वात॑स्य॒ पिप्र॑ति ।  
+येभि॒र्नि दस्युं॒ मनु॑षो नि॒घोष॑यो॒ येभिः॒ स्वः॑ प॒रीय॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “circumambulate; wander; revolve; overwhelm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

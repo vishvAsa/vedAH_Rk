@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -122,7 +123,13 @@ tvā ← tvám (pronoun)
 
 vaso ← vásu- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पा॒हि न॑ इन्द्र सुष्टुत स्रि॒धो॑ऽवया॒ता सद॒मिद्दु॑र्मती॒नां दे॒वः सन्दु॑र्मती॒नाम् ।  
+ह॒न्ता पा॒पस्य॑ र॒क्षस॑स्त्रा॒ता विप्र॑स्य॒ माव॑तः ।  
+अधा॒ हि त्वा॑ जनि॒ता जीज॑नद्वसो रक्षो॒हणं॑ त्वा॒ जीज॑नद्वसो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -314,7 +321,6 @@ _________
 - “good; good; benign; vasu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

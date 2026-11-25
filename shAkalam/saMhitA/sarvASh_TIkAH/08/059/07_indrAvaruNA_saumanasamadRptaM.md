@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "सुपर्णः काण्वः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ prá ← prá (invariable)
 
 tiratam ← √tr̥̄- 1 (root)  
 {number:DU, person:2, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑वरुणा सौमन॒समदृ॑प्तं रा॒यस्पोषं॒ यज॑मानेषु धत्तम् ।  
+प्र॒जां पु॒ष्टिं भू॑तिम॒स्मासु॑ धत्तं दीर्घायु॒त्वाय॒ प्र ति॑रतं न॒ आयुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

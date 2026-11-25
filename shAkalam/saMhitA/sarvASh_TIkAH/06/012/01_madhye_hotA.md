@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 tatāna ← √tan- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मध्ये॒ होता॑ दुरो॒णे ब॒र्हिषो॒ राळ॒ग्निस्तो॒दस्य॒ रोद॑सी॒ यज॑ध्यै ।  
+अ॒यं स सू॒नुः सह॑स ऋ॒तावा॑ दू॒रात्सूर्यो॒ न शो॒चिषा॑ ततान ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     speak; propagate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

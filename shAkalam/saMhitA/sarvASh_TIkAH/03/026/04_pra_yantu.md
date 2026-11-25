@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ prá ← prá (invariable)
 
 vepayanti ← √vip- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र य॑न्तु॒ वाजा॒स्तवि॑षीभिर॒ग्नयः॑ शु॒भे सम्मि॑श्लाः॒ पृष॑तीरयुक्षत ।  
+बृ॒ह॒दुक्षो॑ म॒रुतो॑ वि॒श्ववे॑दसः॒ प्र वे॑पयन्ति॒ पर्व॑ताँ॒ अदा॑भ्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “trustworthy; disabused(p).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

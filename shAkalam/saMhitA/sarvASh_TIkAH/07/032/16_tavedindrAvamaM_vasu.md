@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ tvā ← tvám (pronoun)
 
 vr̥ṇvate ← √vr̥- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तवेदि॑न्द्राव॒मं वसु॒ त्वं पु॑ष्यसि मध्य॒मम् ।  
+स॒त्रा विश्व॑स्य पर॒मस्य॑ राजसि॒ नकि॑ष्ट्वा॒ गोषु॑ वृण्वते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

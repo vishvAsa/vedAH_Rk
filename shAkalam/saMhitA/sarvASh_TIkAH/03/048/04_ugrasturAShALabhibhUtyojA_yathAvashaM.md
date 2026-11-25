@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ camū́ṣu ← camū́- (nominal stem)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒ग्रस्तु॑रा॒षाळ॒भिभू॑त्योजा यथाव॒शं त॒न्वं॑ चक्र ए॒षः ।  
+त्वष्टा॑र॒मिन्द्रो॑ ज॒नुषा॑भि॒भूया॒मुष्या॒ सोम॑मपिबच्च॒मूषु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “army; camū; Camū.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -229,7 +234,6 @@ Having overwhelmed Tvaṣṭar at his birth, Indra, having stolen the soma,  dra
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/048/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -238,7 +242,6 @@ I assume that purudhá-pratīka- in 3d refers to Indra’s shape-shifting powers
 These two vss. are noteworthy for containing 3 gerunds, upasthā́ya, abhibhū́ya, and āmúṣyā. The quest of the poet(s) of the Indra hymns in III to find a way to express anteriority (see disc. ad III.32.9-10, 33.11) is successful at least in this passage.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

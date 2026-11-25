@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ r̥tádhītayaḥ ← r̥tádhīti- (nominal stem)
 
 rurucanta ← √ruc- (root)  
 {number:PL, person:3, mood:SBJV, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ये धामा॑नि पू॒र्व्याण्यर्चा॒न्वि यदु॒च्छान्वि॑यो॒तारो॒ अमू॑राः ।  
+वि॒धा॒तारो॒ वि ते द॑धु॒रज॑स्रा ऋ॒तधी॑तयो रुरुचन्त द॒स्माः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “overlord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

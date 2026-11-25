@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अग्निस्तापसः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -71,7 +72,12 @@ sáṁgatyām ← sáṁgati- (nominal stem)
 
 sumánāḥ ← sumánas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒न्द्र॒वा॒यू बृह॒स्पतिं॑ सु॒हवे॒ह ह॑वामहे ।  
+यथा॑ नः॒ सर्व॒ इज्जनः॒ सङ्ग॑त्यां सु॒मना॒ अस॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

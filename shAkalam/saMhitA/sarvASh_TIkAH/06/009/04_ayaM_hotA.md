@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -86,7 +87,12 @@ tanvā̀ ← tanū́- (nominal stem)
 
 várdhamānaḥ ← √vr̥dh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं होता॑ प्रथ॒मः पश्य॑ते॒ममि॒दं ज्योति॑र॒मृतं॒ मर्त्ये॑षु ।  
+अ॒यं स ज॑ज्ञे ध्रु॒व आ निष॒त्तोऽम॑र्त्यस्त॒न्वा॒३॒॑ वर्ध॑मानः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

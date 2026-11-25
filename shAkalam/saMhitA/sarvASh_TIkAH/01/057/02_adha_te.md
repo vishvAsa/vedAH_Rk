@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ hiraṇyáyaḥ ← hiraṇyáya- (nominal stem)
 
 vájraḥ ← vájra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॑ ते॒ विश्व॒मनु॑ हासदि॒ष्टय॒ आपो॑ नि॒म्नेव॒ सव॑ना ह॒विष्म॑तः ।  
+यत्पर्व॑ते॒ न स॒मशी॑त हर्य॒त इन्द्र॑स्य॒ वज्रः॒ श्नथि॑ता हिर॒ण्ययः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “gold; aureate; hiraṇyaya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -268,12 +273,6 @@ Then will everything be at hand for you to seek it: the soma-pressings of  the m
 when the gladdening golden mace of Indra has been whetted, as if on a  mountain, to be the piercer.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note the Wackernagel particle ha positioned between the preverb ánu and the verb asat, despite the material preceding it in its clause.
-
-With Geldner I supply a verb of motion in b, because the “like waters to the depths” simile regularly appears with one (e.g., V.51.7 nimnáṃ ná yanti síndhavaḥ).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/057/02-04.md">
 <details><summary><h2>02-04 ...{Loading}...</h2></summary>
 
@@ -281,7 +280,6 @@ A bit of word play in the sequence haryatá(ḥ) (2c), haríto (3d), harya tád 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ bhrā́jajjanmānaḥ ← bhrā́jajjanman- (nominal stem)
 
 marútaḥ ← marút- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्विषी॑मन्तो अध्व॒रस्ये॑व दि॒द्युत्तृ॑षु॒च्यव॑सो जु॒ह्वो॒३॒॑ नाग्नेः ।  
+अ॒र्चत्र॑यो॒ धुन॑यो॒ न वी॒रा भ्राज॑ज्जन्मानो म॒रुतो॒ अधृ॑ष्टाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “modest; invincible.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

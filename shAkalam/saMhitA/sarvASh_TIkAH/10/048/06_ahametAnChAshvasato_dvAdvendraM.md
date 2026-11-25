@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -83,7 +84,12 @@ namasvínaḥ ← namasvín- (nominal stem)
 
 vádan ← √vadⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हमे॒ताञ्छाश्व॑सतो॒ द्वाद्वेन्द्रं॒ ये वज्रं॑ यु॒धयेऽकृ॑ण्वत ।  
+आ॒ह्वय॑मानाँ॒ अव॒ हन्म॑नाहनं दृ॒ळ्हा वद॒न्नन॑मस्युर्नम॒स्विनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “worshiping; reverent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

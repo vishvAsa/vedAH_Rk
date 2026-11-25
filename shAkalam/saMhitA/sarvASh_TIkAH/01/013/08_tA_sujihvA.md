@@ -4,6 +4,7 @@ devataa = "दैव्यौ होतारौ प्रचेतसौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दैव्यौ होतारौ प्रचेतसौ
@@ -63,7 +64,12 @@ yajñám ← yajñá- (nominal stem)
 
 yakṣatām ← √yaj- (root)  
 {number:DU, person:3, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता सु॑जि॒ह्वा उप॑ ह्वये॒ होता॑रा॒ दैव्या॑ क॒वी ।  
+य॒ज्ञं नो॑ यक्षतामि॒मम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

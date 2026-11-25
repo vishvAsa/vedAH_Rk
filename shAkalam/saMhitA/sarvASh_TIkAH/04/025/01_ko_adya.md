@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sámiddhe ← √idh- 1 (root)
 
 sutásomaḥ ← sutásoma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को अ॒द्य नर्यो॑ दे॒वका॑म उ॒शन्निन्द्र॑स्य स॒ख्यं जु॑जोष ।  
+को वा॑ म॒हेऽव॑से॒ पार्या॑य॒ समि॑द्धे अ॒ग्नौ सु॒तसो॑म ईट्टे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “praise; invite; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

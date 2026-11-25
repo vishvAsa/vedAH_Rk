@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 tásya ← sá- ~ tá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सेदु॒ग्रो अ॑स्तु मरुतः॒ स शु॒ष्मी यं मर्त्यं॑ पृषदश्वा॒ अवा॑थ ।  
+उ॒तेम॒ग्निः सर॑स्वती जु॒नन्ति॒ न तस्य॑ रा॒यः प॑र्ये॒तास्ति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

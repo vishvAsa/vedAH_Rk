@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ vīrávat ← vīrávant- (nominal stem)
 
 yáśaḥ ← yáśas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हो नो॑ रा॒य आ भ॑र॒ पव॑मान ज॒ही मृधः॑ ।  
+रास्वे॑न्दो वी॒रव॒द्यशः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “fame; Yaśas.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -179,7 +184,6 @@ Bring great wealth here to us, self-purifying one; smash the scorners. Give glor
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -187,7 +191,6 @@ This tṛca focuses even more strongly on combat, with forms of √han in 25 and
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

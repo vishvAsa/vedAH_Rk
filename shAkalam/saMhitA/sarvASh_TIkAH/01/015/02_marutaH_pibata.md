@@ -4,6 +4,7 @@ devataa = "ऋतवः मरुतः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतवः मरुतः
@@ -60,7 +61,12 @@ sudānavaḥ ← sudā́nu- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मरु॑तः॒ पिब॑त ऋ॒तुना॑ पो॒त्राद्य॒ज्ञं पु॑नीतन ।  
+यू॒यं हि ष्ठा सु॑दानवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “big; lavish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

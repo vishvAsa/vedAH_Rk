@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ sáḥ ← sá- ~ tá- (pronoun)
 
 vā́je ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒धेन॒ दस्युं॒ प्र हि चा॒तय॑स्व॒ वयः॑ कृण्वा॒नस्त॒न्वे॒३॒॑ स्वायै॑ ।  
+पिप॑र्षि॒ यत्स॑हसस्पुत्र दे॒वान्त्सो अ॑ग्ने पाहि नृतम॒ वाजे॑ अ॒स्मान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

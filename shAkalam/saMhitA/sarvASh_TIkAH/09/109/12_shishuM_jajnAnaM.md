@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -52,7 +53,11 @@ pavítre ← pavítra- (nominal stem)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शिशुं॑ जज्ञा॒नं हरिं॑ मृजन्ति प॒वित्रे॒ सोमं॑ दे॒वेभ्य॒ इन्दु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +118,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -140,14 +144,12 @@ They groom the tawny child just born, the soma in the filter, the drop  for the 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 Once again, three different forms of the root √pū: 10 pávasva, 11 punánti, 12 pavítre, all hemistich-initial. The washing/grooming of Soma as horse is found in vss. 10 and 12. The phrase krátve dákṣāya (10) is repeated from vs. 2, though in different metrical position.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

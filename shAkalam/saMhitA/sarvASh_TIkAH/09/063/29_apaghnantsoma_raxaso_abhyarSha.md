@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ dyumántam ← dyumánt- (nominal stem)
 
 uttamám ← uttamá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒प॒घ्नन्त्सो॑म र॒क्षसो॒ऽभ्य॑र्ष॒ कनि॑क्रदत् ।  
+द्यु॒मन्तं॒ शुष्म॑मुत्त॒मम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
     finest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -151,7 +156,6 @@ toward highest brilliant tempestuousness.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -159,7 +163,6 @@ The páva- sequence found in the last two tṛcas is brought to an end with the 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

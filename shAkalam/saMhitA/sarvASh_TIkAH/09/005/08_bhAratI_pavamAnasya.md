@@ -4,6 +4,7 @@ devataa = "तिस्रो देव्यः सरस्वतीळाभ�
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - तिस्रो देव्यः सरस्वतीळाभारत्यः
@@ -71,7 +72,12 @@ supéśasaḥ ← supéśas- (nominal stem)
 
 tisráḥ ← trí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भार॑ती॒ पव॑मानस्य॒ सर॑स्व॒तीळा॑ म॒ही ।  
+इ॒मं नो॑ य॒ज्ञमा ग॑मन्ति॒स्रो दे॒वीः सु॒पेश॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “beautiful; fine-looking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

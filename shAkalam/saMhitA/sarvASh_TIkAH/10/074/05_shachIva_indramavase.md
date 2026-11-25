@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ vájram ← vájra- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शची॑व॒ इन्द्र॒मव॑से कृणुध्व॒मना॑नतं द॒मय॑न्तं पृत॒न्यून् ।  
+ऋ॒भु॒क्षणं॑ म॒घवा॑नं सुवृ॒क्तिं भर्ता॒ यो वज्रं॒ नर्यं॑ पुरु॒क्षुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

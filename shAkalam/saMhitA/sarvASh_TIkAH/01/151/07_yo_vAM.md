@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -95,7 +96,12 @@ gíraḥ ← gír- ~ gīr- (nominal stem)
 
 sumatím ← sumatí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वां॑ य॒ज्ञैः श॑शमा॒नो ह॒ दाश॑ति क॒विर्होता॒ यज॑ति मन्म॒साध॑नः ।  
+उपाह॒ तं गच्छ॑थो वी॒थो अ॑ध्व॒रमच्छा॒ गिरः॑ सुम॒तिं ग॑न्तमस्म॒यू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - \[noun\], nominative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

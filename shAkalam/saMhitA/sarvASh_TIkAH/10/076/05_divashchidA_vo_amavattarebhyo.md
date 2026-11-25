@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "जरत्कर्ण ऐरावतः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -80,7 +81,12 @@ cit ← cit (invariable)
 
 pitukŕ̥ttarebhyaḥ ← pitukŕ̥ttara- (nominal stem)  
 {case:DAT, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वश्चि॒दा वोऽम॑वत्तरेभ्यो वि॒भ्वना॑ चिदा॒श्व॑पस्तरेभ्यः ।  
+वा॒योश्चि॒दा सोम॑रभस्तरेभ्यो॒ऽग्नेश्चि॑दर्च पितु॒कृत्त॑रेभ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - \[noun\], dative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

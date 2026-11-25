@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ jánānām ← jána- (nominal stem)
 
 tú ← tú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+होता॑रं चि॒त्रर॑थमध्व॒रस्य॑ य॒ज्ञस्य॑यज्ञस्य के॒तुं रुश॑न्तम् ।  
+प्रत्य॑र्धिं दे॒वस्य॑देवस्य म॒ह्ना श्रि॒या त्व१॒॑ग्निमति॑थिं॒ जना॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

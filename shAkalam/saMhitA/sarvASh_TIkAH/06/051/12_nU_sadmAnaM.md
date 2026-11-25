@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ vasūyúḥ ← vasūyú- (nominal stem)
 
 vavanda ← √vandⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू स॒द्मानं॑ दि॒व्यं नंशि॑ देवा॒ भार॑द्वाजः सुम॒तिं या॑ति॒ होता॑ ।  
+आ॒सा॒नेभि॒र्यज॑मानो मि॒येधै॑र्दे॒वानां॒ जन्म॑ वसू॒युर्व॑वन्द ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “worship; laud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -122,7 +123,13 @@ sū́ryam ← sū́rya- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिबा॒ सोम॑मिन्द्र सुवा॒नमद्रि॑भिः॒ कोशे॑न सि॒क्तम॑व॒तं न वंस॑गस्तातृषा॒णो न वंस॑गः ।  
+मदा॑य हर्य॒ताय॑ ते तु॒विष्ट॑माय॒ धाय॑से ।  
+आ त्वा॑ यच्छन्तु ह॒रितो॒ न सूर्य॒महा॒ विश्वे॑व॒ सूर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -307,7 +314,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

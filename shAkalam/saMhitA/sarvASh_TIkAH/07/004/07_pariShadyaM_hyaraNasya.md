@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ patháḥ ← pánthā- ~ path- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒रि॒षद्यं॒ ह्यर॑णस्य॒ रेक्णो॒ नित्य॑स्य रा॒यः पत॑यः स्याम ।  
+न शेषो॑ अग्ने अ॒न्यजा॑तम॒स्त्यचे॑तानस्य॒ मा प॒थो वि दु॑क्षः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

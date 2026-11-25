@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tébhiḥ ← sá- ~ tá- (pronoun)
 
 tū́yam ← tū́ya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये ते॒ सन्ति॑ दश॒ग्विनः॑ श॒तिनो॒ ये स॑ह॒स्रिणः॑ ।  
+अश्वा॑सो॒ ये ते॒ वृष॑णो रघु॒द्रुव॒स्तेभि॑र्न॒स्तूय॒मा ग॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

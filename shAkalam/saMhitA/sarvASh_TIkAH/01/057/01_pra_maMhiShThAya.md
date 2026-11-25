@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 
 viśvā́yu ← viśvā́yu- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र मंहि॑ष्ठाय बृह॒ते बृ॒हद्र॑ये स॒त्यशु॑ष्माय त॒वसे॑ म॒तिं भ॑रे ।  
+अ॒पामि॑व प्रव॒णे यस्य॑ दु॒र्धरं॒ राधो॑ वि॒श्वायु॒ शव॑से॒ अपा॑वृतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “open; gape.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

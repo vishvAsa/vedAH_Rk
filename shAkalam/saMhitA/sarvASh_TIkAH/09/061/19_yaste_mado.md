@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ aghaśaṁsahā́ ← aghaśaṁsahán- (nominal stem)
 
 devāvī́ḥ ← devāvī́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॒ मदो॒ वरे॑ण्य॒स्तेना॑ पव॒स्वान्ध॑सा ।  
+दे॒वा॒वीर॑घशंस॒हा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “killing; curative; destroying; removing; māraka; stabbing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,7 +169,6 @@ pursuing the gods, smashing those who utter evil.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -172,7 +176,6 @@ Little evidence of unity, though 19 and 20 share ‘smashing’ and 20 and 21 co
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

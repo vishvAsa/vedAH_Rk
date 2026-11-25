@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ saníbhyaḥ ← saní- (nominal stem)
 
 vājínam ← vājín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं सु॑ष्टु॒त्या वि॑वासे ज्येष्ठ॒राजं॒ भरे॑ कृ॒त्नुम् ।  
+म॒हो वा॒जिनं॑ स॒निभ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

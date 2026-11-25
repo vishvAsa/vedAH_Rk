@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ raśmíbhiḥ ← raśmí- (nominal stem)
 
 sū́ryasya ← sū́rya- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒शून्न चि॒त्रा सु॒भगा॑ प्रथा॒ना सिन्धु॒र्न क्षोद॑ उर्वि॒या व्य॑श्वैत् ।  
+अमि॑नती॒ दैव्या॑नि व्र॒तानि॒ सूर्य॑स्य चेति र॒श्मिभि॑र्दृशा॒ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     know; know; understand; understand; follow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

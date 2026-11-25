@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ marútaḥ ← marút- (nominal stem)
 
 vándasva ← √vandⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा॒हा ये सन्ति॑ मुष्टि॒हेव॒ हव्यो॒ विश्वा॑सु पृ॒त्सु होतृ॑षु ।  
+वृष्ण॑श्च॒न्द्रान्न सु॒श्रव॑स्तमान्गि॒रा वन्द॑स्व म॒रुतो॒ अह॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “aha \[word\]; indeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

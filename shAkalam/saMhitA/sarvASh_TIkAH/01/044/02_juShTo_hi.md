@@ -4,6 +4,7 @@ devataa = "अग्निरश्विनावुषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरश्विनावुषाः
@@ -80,7 +81,12 @@ dhehi ← √dhā- 1 (root)
 
 śrávaḥ ← śrávas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जुष्टो॒ हि दू॒तो असि॑ हव्य॒वाह॒नोऽग्ने॑ र॒थीर॑ध्व॒राणा॑म् ।  
+स॒जूर॒श्विभ्या॑मु॒षसा॑ सु॒वीर्य॑म॒स्मे धे॑हि॒ श्रवो॑ बृ॒हत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

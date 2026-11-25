@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -101,7 +102,12 @@ váne ← vána- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्ते॒गो न क्षामत्ये॑ति पृ॒थ्वीं मिहं॒ न वातो॒ वि ह॑ वाति॒ भूम॑ ।  
+मि॒त्रो यत्र॒ वरु॑णो अ॒ज्यमा॑नो॒ऽग्निर्वने॒ न व्यसृ॑ष्ट॒ शोक॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
     trouble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

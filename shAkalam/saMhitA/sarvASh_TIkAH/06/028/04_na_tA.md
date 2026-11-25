@@ -4,6 +4,7 @@ devataa = "गावः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -95,7 +96,12 @@ ví ← ví (invariable)
 
 yájvanaḥ ← yájvan- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न ता अर्वा॑ रे॒णुक॑काटो अश्नुते॒ न सं॑स्कृत॒त्रमुप॑ यन्ति॒ ता अ॒भि ।  
+उ॒रु॒गा॒यमभ॑यं॒ तस्य॒ ता अनु॒ गावो॒ मर्त॑स्य॒ वि च॑रन्ति॒ यज्व॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -265,7 +270,6 @@ ___________________
 ताडनार्थो दण्डो नापेक्षितः ।  
 **यज्वनो** यागाशीलस्य तस्य **मर्त्यस्य** मनुष्यस्य  
 **ता गाव उरुगायं** विस्तीर्णगतियोग्यं भयरहितं स्थानं प्राप्य **विचरन्ति** विस्रम्भेण चरन्ति ।
-
 </details>
 
 <details><summary>Wilson</summary>

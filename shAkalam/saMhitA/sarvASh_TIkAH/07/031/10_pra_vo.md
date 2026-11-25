@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -72,7 +73,12 @@ pūrvī́ḥ ← purú- (nominal stem)
 
 víśaḥ ← víś- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वो॑ म॒हे म॑हि॒वृधे॑ भरध्वं॒ प्रचे॑तसे॒ प्र सु॑म॒तिं कृ॑णुध्वम् ।  
+विशः॑ पू॒र्वीः प्र च॑रा चर्षणि॒प्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “appreciated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

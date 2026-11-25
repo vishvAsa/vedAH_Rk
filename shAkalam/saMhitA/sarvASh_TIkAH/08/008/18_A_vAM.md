@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -62,7 +63,12 @@ rā́jantau ← √rāj- (root)
 
 yā́mahūtiṣu ← yā́mahūti- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ विश्वा॑भिरू॒तिभिः॑ प्रि॒यमे॑धा अहूषत ।  
+राज॑न्तावध्व॒राणा॒मश्वि॑ना॒ याम॑हूतिषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

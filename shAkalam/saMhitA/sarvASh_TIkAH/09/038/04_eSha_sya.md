@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ ná ← ná (invariable)
 
 yoṣítam ← yoṣít- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्य मानु॑षी॒ष्वा श्ये॒नो न वि॒क्षु सी॑दति ।  
+गच्छ॑ञ्जा॒रो न यो॒षित॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “woman; wife; strīvajra; sexual activity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

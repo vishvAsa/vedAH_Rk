@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ sobharīyávaḥ ← sobharīyú- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॒ळु॒प॒विभि॑र्मरुत ऋभुक्षण॒ आ रु॑द्रासः सुदी॒तिभिः॑ ।  
+इ॒षा नो॑ अ॒द्या ग॑ता पुरुस्पृहो य॒ज्ञमा सो॑भरी॒यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

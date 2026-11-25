@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ mánum ← mánu- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू म॒ आ वाच॒मुप॑ याहि वि॒द्वान्विश्वे॑भिः सूनो सहसो॒ यज॑त्रैः ।  
+ये अ॑ग्निजि॒ह्वा ऋ॑त॒साप॑ आ॒सुर्ये मनुं॑ च॒क्रुरुप॑रं॒ दसा॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - \[noun\], dative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

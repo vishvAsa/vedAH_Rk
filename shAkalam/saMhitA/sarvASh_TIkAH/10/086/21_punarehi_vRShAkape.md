@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -82,7 +83,12 @@ púnar ← púnar (invariable)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पुन॒रेहि॑ वृषाकपे सुवि॒ता क॑ल्पयावहै ।  
+य ए॒ष स्व॑प्न॒नंश॒नोऽस्त॒मेषि॑ प॒था पुन॒र्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -203,7 +208,7 @@ _________
 
 <details><summary>Tilak - Commentary</summary>
 
-Vr̥ṣikapi has gone down to the netherworld. This verse now describes what Indra will do when he returns. Says Indra, "O Vr̥ṣākapi ! You, the destroyer of sleep, who are going to the house, come back again, again by (your) way. We would perform the sacrifices. Indra, &c." The verse thus distinctly refers to the recommencement of the sacrifices in the Devayāna or the Uttarāyaṇa as understood in old days. The word suvita is from the same root as vaitānika and kalpyāvahai is from kl̥p, the root which gives us the word kalpa in kalpasūtras. Savita kalpyāvahai thus means “we would perform the vaitānika ceremonies," which, as described in the first verse, were stopped when the sun went down to the neither world I may also here point out that the house in the nether world or, as Sāyaṇa interprets it, the house of the enemy is called asta - literally 'thrown', while Indra's house is called gr̥ha. The sun goes down to the asta and returns up to the gr̥ha of Indra. This verse, in so far as it speaks of the recommencement of sacrificial ceremonies, confirms the interpretation I have proposed for the preceding verse. 
+Vr̥ṣikapi has gone down to the netherworld. This verse now describes what Indra will do when he returns. Says Indra, "O Vr̥ṣākapi ! You, the destroyer of sleep, who are going to the house, come back again, again by (your) way. We would perform the sacrifices. Indra, &c." The verse thus distinctly refers to the recommencement of the sacrifices in the Devayāna or the Uttarāyaṇa as understood in old days. The word suvita is from the same root as vaitānika and kalpyāvahai is from kl̥p, the root which gives us the word kalpa in kalpasūtras. Savita kalpyāvahai thus means “we would perform the vaitānika ceremonies," which, as described in the first verse, were stopped when the sun went down to the neither world I may also here point out that the house in the nether world or, as Sāyaṇa interprets it, the house of the enemy is called asta - literally 'thrown', while Indra's house is called gr̥ha. The sun goes down to the asta and returns up to the gr̥ha of Indra. This verse, in so far as it speaks of the recommencement of sacrificial ceremonies, confirms the interpretation I have proposed for the preceding verse.
 </details>
 
 <details><summary>Wilson</summary>

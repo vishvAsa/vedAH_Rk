@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ ariṣṭutáḥ ← ariṣṭutá- (nominal stem)
 
 viśvágūrtaḥ ← viśvágūrta- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शेवा॑रे॒ वार्या॑ पु॒रु दे॒वो मर्ता॑य दा॒शुषे॑ ।  
+स सु॑न्व॒ते च॑ स्तुव॒ते च॑ रासते वि॒श्वगू॑र्तो अरिष्टु॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

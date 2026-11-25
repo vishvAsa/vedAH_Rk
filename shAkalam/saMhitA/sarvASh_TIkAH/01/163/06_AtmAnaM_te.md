@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -80,7 +81,12 @@ jéhamānam ← √jeh- (root)
 
 patatrí ← patatrín- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒त्मानं॑ ते॒ मन॑सा॒राद॑जानाम॒वो दि॒वा प॒तय॑न्तं पतं॒गम् ।  
+शिरो॑ अपश्यं प॒थिभिः॑ सु॒गेभि॑ररे॒णुभि॒र्जेह॑मानं पत॒त्रि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “flying; winged.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -223,10 +228,6 @@ With my mind I recognized your lifebreath from afar, a bird flying  below heaven
 I saw your winged head panting along the dustless paths easy to  travel.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As indicated in the published introduction. to both I.162 and I.163, I take ā́tman- in these hymns as referring to the lifebreath of the horse, as opposed to his sacrificed body; see I.162.20--21. Although ā́tman- can mean ‘self’ in the RV and sometimes perhaps even ‘body’, the contrast between the horse’s ā́tman- and his tanū́- (see I.162.20ab) seems to exclude those meanings here, pace Geldner’s “dein eigenes Selbst” and Witzel Gotō’s “Rumpf.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/163/05-07.md">
 <details><summary><h2>05-07 ...{Loading}...</h2></summary>
 
@@ -234,7 +235,6 @@ Note the apaśyam ‘I saw’ in all three verses (5c, 6c, 7a): the poet bears w
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

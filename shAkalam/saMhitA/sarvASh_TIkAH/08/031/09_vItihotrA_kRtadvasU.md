@@ -4,6 +4,7 @@ devataa = "दंपती"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपती
@@ -68,7 +69,12 @@ dúvaḥ ← dúvas- (nominal stem)
 
 kr̥ṇutaḥ ← √kr̥- (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॒तिहो॑त्रा कृ॒तद्व॑सू दश॒स्यन्ता॒मृता॑य॒ कम् ।  
+समूधो॑ रोम॒शं ह॑तो दे॒वेषु॑ कृणुतो॒ दुवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

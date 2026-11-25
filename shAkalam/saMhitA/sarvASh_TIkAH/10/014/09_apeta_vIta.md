@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्तदेवताः पितरो वा"
 RShiH = "यमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तदेवताः पितरो वा
@@ -95,7 +96,12 @@ dadāti ← √dā- 1 (root)
 
 yamáḥ ← yamá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपे॑त॒ वी॑त॒ वि च॑ सर्प॒तातो॒ऽस्मा ए॒तं पि॒तरो॑ लो॒कम॑क्रन् ।  
+अहो॑भिर॒द्भिर॒क्तुभि॒र्व्य॑क्तं य॒मो द॑दात्यव॒सान॑मस्मै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

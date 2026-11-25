@@ -4,6 +4,7 @@ devataa = "अक्षकितवनिन्दा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकितवनिन्दा
@@ -83,7 +84,12 @@ kr̥tā́ni ← √kr̥- (root)
 
 pratidī́vne ← pratidī́van- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒भामे॑ति कित॒वः पृ॒च्छमा॑नो जे॒ष्यामीति॑ त॒न्वा॒३॒॑ शूशु॑जानः ।  
+अ॒क्षासो॑ अस्य॒ वि ति॑रन्ति॒ कामं॑ प्रति॒दीव्ने॒ दध॑त॒ आ कृ॒तानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
     \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

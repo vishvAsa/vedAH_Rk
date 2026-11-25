@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ uróḥ ← urú- (nominal stem)
 
 varivasya ← √varivasy- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॑ देव दे॒वता॑ते पवस्व म॒हे सो॑म॒ प्सर॑स इन्द्र॒पानः॑ ।  
+कृ॒ण्वन्न॒पो व॒र्षय॒न्द्यामु॒तेमामु॒रोरा नो॑ वरिवस्या पुना॒नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “purify; filter; blow; purify; purge; sift.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

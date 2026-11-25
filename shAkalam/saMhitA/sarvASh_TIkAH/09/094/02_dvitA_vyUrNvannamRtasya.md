@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ r̥tāyántīḥ ← √r̥tāy- (root)
 
 vāvaśre ← √vāś- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वि॒ता व्यू॒र्ण्वन्न॒मृत॑स्य॒ धाम॑ स्व॒र्विदे॒ भुव॑नानि प्रथन्त ।  
+धियः॑ पिन्वा॒नाः स्वस॑रे॒ न गाव॑ ऋता॒यन्ती॑र॒भि वा॑वश्र॒ इन्दु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

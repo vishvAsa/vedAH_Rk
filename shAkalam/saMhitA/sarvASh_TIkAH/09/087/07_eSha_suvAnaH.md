@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ sátvā ← sátvan- (nominal stem)
 
 śū́raḥ ← śū́ra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष सु॑वा॒नः परि॒ सोमः॑ प॒वित्रे॒ सर्गो॒ न सृ॒ष्टो अ॑दधाव॒दर्वा॑ ।  
+ति॒ग्मे शिशा॑नो महि॒षो न शृङ्गे॒ गा ग॒व्यन्न॒भि शूरो॒ न सत्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “warrior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

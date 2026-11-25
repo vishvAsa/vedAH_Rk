@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "ब्रह्मातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -54,7 +55,12 @@ purukṣúm ← purukṣú- (nominal stem)
 
 viśvádhāyasam ← viśvádhāyas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे आ व॑हतं र॒यिं श॒तव॑न्तं सह॒स्रिण॑म् ।  
+पु॒रु॒क्षुं वि॒श्वधा॑यसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +124,6 @@ _________
 - “alimentary; sustaining.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

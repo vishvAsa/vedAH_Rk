@@ -4,6 +4,7 @@ devataa = "वनस्पतिः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वनस्पतिः
@@ -80,7 +81,12 @@ hávam ← háva- (nominal stem)
 
 me ← ahám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वन॑स्पते रश॒नया॑ नि॒यूया॑ दे॒वानां॒ पाथ॒ उप॑ वक्षि वि॒द्वान् ।  
+स्वदा॑ति दे॒वः कृ॒णव॑द्ध॒वींष्यव॑तां॒ द्यावा॑पृथि॒वी हवं॑ मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

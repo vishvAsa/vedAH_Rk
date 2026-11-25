@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -69,7 +70,12 @@ sá ← sá- ~ tá- (pronoun)
 
 tigmajambha ← tigmájambha- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्ष॒पो रा॑जन्नु॒त त्मनाग्ने॒ वस्तो॑रु॒तोषसः॑ ।  
+स ति॑ग्मजम्भ र॒क्षसो॑ दह॒ प्रति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “towards; per; regarding; respectively; according to; until.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

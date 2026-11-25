@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ sumánāḥ ← sumánas- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वद॑स्व ह॒व्या समिषो॑ दिदीह्यस्म॒द्र्य१॒॑क्सं मि॑मीहि॒ श्रवां॑सि ।  
+विश्वाँ॑ अग्ने पृ॒त्सु ताञ्जे॑षि॒ शत्रू॒नहा॒ विश्वा॑ सु॒मना॑ दीदिही नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

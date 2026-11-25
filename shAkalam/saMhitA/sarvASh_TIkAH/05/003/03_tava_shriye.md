@@ -4,6 +4,7 @@ devataa = "मरुद्रुद्रविष्णवः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुद्रुद्रविष्णवः
@@ -92,7 +93,12 @@ pāsi ← √pā- 1 (root)
 
 téna ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॑ श्रि॒ये म॒रुतो॑ मर्जयन्त॒ रुद्र॒ यत्ते॒ जनि॑म॒ चारु॑ चि॒त्रम् ।  
+प॒दं यद्विष्णो॑रुप॒मं नि॒धायि॒ तेन॑ पासि॒ गुह्यं॒ नाम॒ गोना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

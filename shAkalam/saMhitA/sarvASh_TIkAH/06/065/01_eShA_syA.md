@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ támasaḥ ← támas- (nominal stem)
 
 tirás ← tirás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒षा स्या नो॑ दुहि॒ता दि॑वो॒जाः क्षि॒तीरु॒च्छन्ती॒ मानु॑षीरजीगः ।  
+या भा॒नुना॒ रुश॑ता रा॒म्यास्वज्ञा॑यि ति॒रस्तम॑सश्चिद॒क्तून् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “night; dark; beam.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -89,7 +90,12 @@ pradíśaḥ ← pradíś- (nominal stem)
 
 túbhyam ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॑ प्रया॒जा अ॑नुया॒जाश्च॒ केव॑ल॒ ऊर्ज॑स्वन्तो ह॒विषः॑ सन्तु भा॒गाः ।  
+तवा॑ग्ने य॒ज्ञो॒३॒॑ऽयम॑स्तु॒ सर्व॒स्तुभ्यं॑ नमन्तां प्र॒दिश॒श्चत॑स्रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “four; catur \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

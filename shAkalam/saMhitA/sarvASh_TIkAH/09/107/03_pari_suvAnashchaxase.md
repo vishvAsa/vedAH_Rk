@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -49,7 +50,11 @@ krátuḥ ← krátu- (nominal stem)
 
 vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ सुवा॒नश्चक्ष॑से देव॒माद॑नः॒ क्रतु॒रिन्दु॑र्विचक्ष॒णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +114,6 @@ _________
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -135,12 +139,6 @@ _________
 Being pressed all around to be seen—the exhilarator of the gods, the  wide-gazing drop that is resolve.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Both Geldner and Renou make this vs. a separate cl., supplying a verb (“fliesst,” “coule”), generated from pári srava in 2a, suggested by the init. pári in 3a. This is certainly possible, but since this vs. is an afterthought to the pragātha, I take it as dependent on vs. 2, specifically 2ab, simply stringing together more descriptors of soma.
-
-Note cákṣase … vicakṣaṇáh.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -150,7 +148,6 @@ The vss. are knitted together by lexical repetition and variation. A sample of t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

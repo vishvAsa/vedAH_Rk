@@ -4,6 +4,7 @@ devataa = "मृत्युः"
 RShiH = "सङ्कुसुको यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मृत्युः
@@ -98,7 +99,12 @@ utá ← utá (invariable)
 
 vīrā́n ← vīrá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परं॑ मृत्यो॒ अनु॒ परे॑हि॒ पन्थां॒ यस्ते॒ स्व इत॑रो देव॒याना॑त् ।  
+चक्षु॑ष्मते शृण्व॒ते ते॑ ब्रवीमि॒ मा नः॑ प्र॒जां री॑रिषो॒ मोत वी॒रान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

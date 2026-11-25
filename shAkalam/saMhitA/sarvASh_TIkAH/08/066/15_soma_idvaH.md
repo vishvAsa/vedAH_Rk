@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कलिः प्रगाथः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ gha ← gha (invariable)
 
 svayám ← svayám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोम॒ इद्वः॑ सु॒तो अ॑स्तु॒ कल॑यो॒ मा बि॑भीतन ।  
+अपेदे॒ष ध्व॒स्माय॑ति स्व॒यं घै॒षो अपा॑यति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “disappear; leave; deviate; want; dislodge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

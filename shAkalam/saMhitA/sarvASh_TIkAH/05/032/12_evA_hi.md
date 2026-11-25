@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गातुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ tvāyā́ ← tvám (pronoun)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा हि त्वामृ॑तु॒था या॒तय॑न्तं म॒घा विप्रे॑भ्यो॒ दद॑तं शृ॒णोमि॑ ।  
+किं ते॑ ब्र॒ह्माणो॑ गृहते॒ सखा॑यो॒ ये त्वा॒या नि॑द॒धुः काम॑मिन्द्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

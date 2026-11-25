@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अग्नियुतः स्थौरोग्नियूपो वा स्थौरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ tanvàm ← tanū́- (nominal stem)
 
 vāvr̥dhasva ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्य१॒॑र्य इ॑न्द्र तनुहि॒ श्रवां॒स्योजः॑ स्थि॒रेव॒ धन्व॑नो॒ऽभिमा॑तीः ।  
+अ॒स्म॒द्र्य॑ग्वावृधा॒नः सहो॑भि॒रनि॑भृष्टस्त॒न्वं॑ वावृधस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

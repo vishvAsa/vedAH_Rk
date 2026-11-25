@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ ulokám ← uloká- (nominal stem)
 
 urúm ← urú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नो॑ बोधि पुरो॒ळाशं॒ ररा॑णः॒ पिबा॒ तु सोमं॒ गोऋ॑जीकमिन्द्र ।  
+एदं ब॒र्हिर्यज॑मानस्य सीदो॒रुं कृ॑धि त्वाय॒त उ॑ लो॒कम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     \[word\]; space; Loka; topographic point; region; common sense.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

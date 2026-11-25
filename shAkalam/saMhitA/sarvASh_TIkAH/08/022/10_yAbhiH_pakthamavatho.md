@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ bhiṣajyátam ← √bhiṣajy- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+याभिः॑ प॒क्थमव॑थो॒ याभि॒रध्रि॑गुं॒ याभि॑र्ब॒भ्रुं विजो॑षसम् ।  
+ताभि॑र्नो म॒क्षू तूय॑मश्वि॒ना ग॑तं भिष॒ज्यतं॒ यदातु॑रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “ill; miserable; suffering; brainsick; unhappy; desirous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

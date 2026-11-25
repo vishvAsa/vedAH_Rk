@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -92,7 +93,12 @@ prā́cīm ← prā́ñc- (nominal stem)
 
 pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न ते॑ विष्णो॒ जाय॑मानो॒ न जा॒तो देव॑ महि॒म्नः पर॒मन्त॑माप ।  
+उद॑स्तभ्ना॒ नाक॑मृ॒ष्वं बृ॒हन्तं॑ दा॒धर्थ॒ प्राचीं॑ क॒कुभं॑ पृथि॒व्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -268,10 +273,6 @@ No one now born, no one previously born has reached the far end of  your greatne
 You propped up the vault, lofty and high; you fixed fast the eastern peak  of the earth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Ordinarily the pres. part. should express ‘being Xed’, in contrast to the past part. ‘Xed’. But in this context jā́yamāna- must refer not to someone in the process of being born, but more likely someone who is still alive, against jātá-, someone born in the past and presumably now dead.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/099/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -279,7 +280,6 @@ The b-pādas of these two vss. are variants of each other, using two different r
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

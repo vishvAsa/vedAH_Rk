@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "सिन्धुक्षित् प्रैयमेधः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 vápuṣī ← vápuṣa- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋजी॒त्येनी॒ रुश॑ती महि॒त्वा परि॒ ज्रयां॑सि भरते॒ रजां॑सि ।  
+अद॑ब्धा॒ सिन्धु॑र॒पसा॑म॒पस्त॒माश्वा॒ न चि॒त्रा वपु॑षीव दर्श॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “beautiful; visible; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -70,7 +71,12 @@ yátra ← yátra (invariable)
 
 vícetasaḥ ← vícetas- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदिद्रु॒द्रस्य॑ चेतति य॒ह्वं प्र॒त्नेषु॒ धाम॑सु ।  
+मनो॒ यत्रा॒ वि तद्द॒धुर्विचे॑तसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - “wise; diligent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

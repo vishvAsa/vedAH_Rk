@@ -4,6 +4,7 @@ devataa = "दक्षिणा तद्दातारो वा"
 RShiH = "दिव्यो दक्षिणा वा प्राजापत्या"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दक्षिणा तद्दातारो वा
@@ -92,7 +93,12 @@ várma ← várman- (nominal stem)
 
 vijānán ← √jñā- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दक्षि॒णाश्वं॒ दक्षि॑णा॒ गां द॑दाति॒ दक्षि॑णा च॒न्द्रमु॒त यद्धिर॑ण्यम् ।  
+दक्षि॒णान्नं॑ वनुते॒ यो न॑ आ॒त्मा दक्षि॑णां॒ वर्म॑ कृणुते विजा॒नन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     name; deem; recognize; explain; know.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

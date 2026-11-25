@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ yát ← yá- (pronoun)
 
 śíkṣan ← √śak- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं ह॒ त्यदि॑न्द्र॒ कुत्स॑मावः॒ शुश्रू॑षमाणस्त॒न्वा॑ सम॒र्ये ।  
+दासं॒ यच्छुष्णं॒ कुय॑वं॒ न्य॑स्मा॒ अर॑न्धय आर्जुने॒याय॒ शिक्ष॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “help; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

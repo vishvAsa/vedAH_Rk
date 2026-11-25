@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -60,7 +61,12 @@ pūrvapā́ḥ ← pūrvapā́- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्रं॑ पिबा॒ मधू॑नां सु॒तं वा॑यो॒ दिवि॑ष्टिषु ।  
+त्वं हि पू॑र्व॒पा असि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

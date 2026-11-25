@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ cit ← cit (invariable)
 
 máṁhīyān ← máṁhīyaṁs- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॒ग्रेभ्य॑श्चि॒दोजी॑या॒ञ्छूरे॑भ्यश्चि॒च्छूर॑तरः ।  
+भू॒रि॒दाभ्य॑श्चि॒न्मंही॑यान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -162,10 +167,6 @@ _________
 more generous even than those who give much,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. expands on the etymological figure and superlative phrase in 16b, ugrā́ṇām … ójiṣṭhaḥ, but with three pairs of comparatives, beginning with the ugrébhyaḥ … ójīyān, lexically identical to the splv. phrase but morphologically different. The second is also an etym. figure, of less interest than the first because it lacks morphological variation: śū́rebhyaḥ … śū́rataraḥ. While the third substitutes a synonymic cmpd. for the abl. term: bhūridā́bhyaḥ … máṃhīyān “more generous than those who give much.” A low-key but pleasing set of variations on a phrasal theme.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -173,7 +174,6 @@ The first two vss. are linked lexically and by their investment in grammatical c
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रजापतिर्वैश्वामित्रः (वाच्यो वा द्वौ वा तौ विश्वामित्रो वा)"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ vāyúkeśān ← vāyúkeśa- (nominal stem)
 
 vraté ← vratá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रीणि॑ राजाना वि॒दथे॑ पु॒रूणि॒ परि॒ विश्वा॑नि भूषथः॒ सदां॑सि ।  
+अप॑श्य॒मत्र॒ मन॑सा जग॒न्वान्व्र॒ते ग॑न्ध॒र्वाँ अपि॑ वा॒युके॑शान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “mane; hair; keśa \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

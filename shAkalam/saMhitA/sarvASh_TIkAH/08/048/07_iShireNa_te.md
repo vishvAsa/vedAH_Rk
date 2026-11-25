@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -86,7 +87,12 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 vāsarā́ṇi ← vāsará- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒षि॒रेण॑ ते॒ मन॑सा सु॒तस्य॑ भक्षी॒महि॒ पित्र्य॑स्येव रा॒यः ।  
+सोम॑ राज॒न्प्र ण॒ आयूं॑षि तारी॒रहा॑नीव॒ सूर्यो॑ वास॒राणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “matutinal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

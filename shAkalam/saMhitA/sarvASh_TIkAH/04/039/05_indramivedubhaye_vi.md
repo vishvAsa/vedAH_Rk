@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -83,7 +84,12 @@ mitrāvaruṇā ← mitrā́váruṇa- (nominal stem)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑मि॒वेदु॒भये॒ वि ह्व॑यन्त उ॒दीरा॑णा य॒ज्ञमु॑पप्र॒यन्तः॑ ।  
+द॒धि॒क्रामु॒ सूद॑नं॒ मर्त्या॑य द॒दथु॑र्मित्रावरुणा नो॒ अश्व॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “horse; aśva \[word\]; Aśva; stallion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

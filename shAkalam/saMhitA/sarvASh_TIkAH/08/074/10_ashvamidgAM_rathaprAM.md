@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोपवन आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ kr̥ṣṭáyaḥ ← kr̥ṣṭí- (nominal stem)
 
 pányam-panyam ← pánya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्व॒मिद्गां र॑थ॒प्रां त्वे॒षमिन्द्रं॒ न सत्प॑तिम् ।  
+यस्य॒ श्रवां॑सि॒ तूर्व॑थ॒ पन्य॑म्पन्यं च कृ॒ष्टयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “people; citizenry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

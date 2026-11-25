@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नभःप्रभेदनो वैरूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sutáḥ ← √su- (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॒ शश्व॑त्पपि॒वाँ इ॑न्द्र॒ शत्रू॑ननानुकृ॒त्या रण्या॑ च॒कर्थ॑ ।  
+स ते॒ पुरं॑धिं॒ तवि॑षीमियर्ति॒ स ते॒ मदा॑य सु॒त इ॑न्द्र॒ सोमः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

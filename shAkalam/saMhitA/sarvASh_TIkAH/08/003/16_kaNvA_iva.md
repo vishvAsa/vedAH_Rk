@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ asvaran ← √svar- (root)
 
 priyámedhāsaḥ ← priyámedha- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कण्वा॑ इव॒ भृग॑वः॒ सूर्या॑ इव॒ विश्व॒मिद्धी॒तमा॑नशुः ।  
+इन्द्रं॒ स्तोमे॑भिर्म॒हय॑न्त आ॒यवः॑ प्रि॒यमे॑धासो अस्वरन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “sing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गृत्समदः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ vadema ← √vadⁱ- (root)
 
 vidáthe ← vidátha- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व सोम क्रतु॒विन्न॑ उ॒क्थ्योऽव्यो॒ वारे॒ परि॑ धाव॒ मधु॑ प्रि॒यम् ।  
+ज॒हि विश्वा॑न्र॒क्षस॑ इन्दो अ॒त्रिणो॑ बृ॒हद्व॑देम वि॒दथे॑ सु॒वीराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -274,12 +279,6 @@ Smite all rapacious demons, o drop. – May we speak loftily at the ritual  dist
 Trisṭubh Hymns: 87–97 ̣
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The aggressively hostile command in pāda c comes as something of a surprise in this otherwise ritually and cosmically focused hymn.
-
-The last pāda is the Gṛtsamada refrain from Maṇḍala II. This tṛca is attributed by the Anukramaṇī to Gṛtsamada, but perhaps only on the basis of the refrain.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/46-48.md">
 <details><summary><h2>46-48 ...{Loading}...</h2></summary>
 
@@ -287,7 +286,6 @@ The hymn ends with a tṛca no more unified than most of those that preceded it,
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

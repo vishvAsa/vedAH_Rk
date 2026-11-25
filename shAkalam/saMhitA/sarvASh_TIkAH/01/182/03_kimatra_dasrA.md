@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ vacasyáve ← vacasyú- (nominal stem)
 
 víprāya ← vípra- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किमत्र॑ दस्रा कृणुथः॒ किमा॑साथे॒ जनो॒ यः कश्चि॒दह॑विर्मही॒यते॑ ।  
+अति॑ क्रमिष्टं जु॒रतं॑ प॒णेरसुं॒ ज्योति॒र्विप्रा॑य कृणुतं वच॒स्यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -254,7 +260,6 @@ _________
 - “eloquent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -283,10 +288,6 @@ Pass him by; wear away the life of the niggard. Make light for the
 eloquent inspired poet.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The sense of pāda a would be better conveyed by “what are you doing there?” The main cl. kím āsāthe lacks an expressed antecedent to jáno yáḥ in the following rel. cl., but it is not difficult to supply.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/182/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -294,7 +295,6 @@ The two 2nd dual middles, vahethe (2c) and āsāthe (3a), would both be better m
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

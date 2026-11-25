@@ -4,6 +4,7 @@ devataa = "शुनः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शुनः
@@ -74,7 +75,12 @@ iṅgaya ← √iṅg- (root)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒नं वा॒हाः शु॒नं नरः॑ शु॒नं कृ॑षतु॒ लाङ्ग॑लम् ।  
+शु॒नं व॑र॒त्रा ब॑ध्यन्तां शु॒नमष्ट्रा॒मुदि॑ङ्गय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - \[verb\], singular, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

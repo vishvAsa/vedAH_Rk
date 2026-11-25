@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अवस्युरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ jīrám ← jīrá- (nominal stem)
 
 yásya ← yá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आयं ज॑ना अभि॒चक्षे॑ जगा॒मेन्द्रः॒ सखा॑यं सु॒तसो॑ममि॒च्छन् ।  
+वद॒न्ग्रावाव॒ वेदिं॑ भ्रियाते॒ यस्य॑ जी॒रम॑ध्व॒र्यव॒श्चर॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     heed; process; administer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

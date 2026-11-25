@@ -4,6 +4,7 @@ devataa = "रुद्रः (मृत्युविमोचिनी ऋक
 RShiH = "वसिष्ठः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः (मृत्युविमोचिनी ऋक्)
@@ -65,7 +66,12 @@ mr̥tyóḥ ← mr̥tyú- (nominal stem)
 
 mukṣīya ← √muc- (root)  
 {number:SG, person:1, mood:OPT, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्र्य॑म्बकं यजामहे सु॒गन्धिं॑ पुष्टि॒वर्ध॑नम् ।  
+उ॒र्वा॒रु॒कमि॑व॒ बन्ध॑नान्मृ॒त्योर्मु॑क्षीय॒ मामृता॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “immortal; amṛta; imperishable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -215,7 +220,6 @@ Like a cucumber from its stem, might I be freed from death, not from  deathlessn
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
 <details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -223,7 +227,6 @@ For the Sākamedha rites reflected in these vss., see published introduction. an
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

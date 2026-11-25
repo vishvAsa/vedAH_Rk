@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ dīdayaḥ ← √dī- 1 (root)
 
 sumitréṣu ← sumitrá- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दी॒र्घत॑न्तुर्बृ॒हदु॑क्षा॒यम॒ग्निः स॒हस्र॑स्तरीः श॒तनी॑थ॒ ऋभ्वा॑ ।  
+द्यु॒मान्द्यु॒मत्सु॒ नृभि॑र्मृ॒ज्यमा॑नः सुमि॒त्रेषु॑ दीदयो देव॒यत्सु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

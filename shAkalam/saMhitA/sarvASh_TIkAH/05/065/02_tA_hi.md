@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "रातहव्य आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -62,7 +63,12 @@ jáne-jane ← jána- (nominal stem)
 
 r̥tā́vānā ← ŕ̥tāvan- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता हि श्रेष्ठ॑वर्चसा॒ राजा॑ना दीर्घ॒श्रुत्त॑मा ।  
+ता सत्प॑ती ऋता॒वृध॑ ऋ॒तावा॑ना॒ जने॑जने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

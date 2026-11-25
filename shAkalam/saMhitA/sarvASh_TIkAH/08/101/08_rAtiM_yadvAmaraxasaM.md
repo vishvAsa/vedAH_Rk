@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ gr̥ṇānā́ ← √gr̥̄- 1 (root)
 
 jamádagninā ← jamádagni- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रा॒तिं यद्वा॑मर॒क्षसं॒ हवा॑महे यु॒वाभ्यां॑ वाजिनीवसू ।  
+प्राचीं॒ होत्रां॑ प्रति॒रन्ता॑वितं नरा गृणा॒ना ज॒मद॑ग्निना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “Jamadagni.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

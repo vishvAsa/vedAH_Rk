@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भुवन आप्त्यः साधनो वा भौवनः"
 ChandaH = "द्विपदा त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -52,7 +53,11 @@ devā́ḥ ← devá- (nominal stem)
 
 devatvám ← devatvá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह॒त्वाय॑ दे॒वा असु॑रा॒न्यदाय॑न्दे॒वा दे॑व॒त्वम॑भि॒रक्ष॑माणाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +125,6 @@ _________
 - “guard; protect; defend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ pitā́ ← pitár- (nominal stem)
 
 śr̥ṇuhi ← √śru- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒र्वाङेहि॒ सोम॑कामं त्वाहुर॒यं सु॒तस्तस्य॑ पिबा॒ मदा॑य ।  
+उ॒रु॒व्यचा॑ ज॒ठर॒ आ वृ॑षस्व पि॒तेव॑ नः शृणुहि हू॒यमा॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उपमश्रवा मैत्रातिथिः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उपमश्रवा मैत्रातिथिः
@@ -57,7 +58,12 @@ raṇvám ← raṇvá- (nominal stem)
 
 ūcúṣe ← √uc- (root)  
 {case:DAT, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॒ प्रस्वा॑दसो॒ गिर॑ उप॒मश्र॑वसः पि॒तुः ।  
+क्षेत्रं॒ न र॒ण्वमू॒चुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

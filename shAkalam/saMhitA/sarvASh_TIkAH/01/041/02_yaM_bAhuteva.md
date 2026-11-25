@@ -4,6 +4,7 @@ devataa = "वरुणमित्रार्यमणः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणमित्रार्यमणः
@@ -60,7 +61,12 @@ edhate ← √idh- 2 (root)
 
 sárvaḥ ← sárva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं बा॒हुते॑व॒ पिप्र॑ति॒ पान्ति॒ मर्त्यं॑ रि॒षः ।  
+अरि॑ष्टः॒ सर्व॑ एधते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “boom; get; thrive; increase; increase.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

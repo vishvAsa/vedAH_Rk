@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ upanāyám ← upanāyá- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रु॒जा दृ॒ळ्हा चि॑द्र॒क्षसः॒ सदां॑सि पुना॒न इ॑न्द ऊर्णुहि॒ वि वाजा॑न् ।  
+वृ॒श्चोपरि॑ष्टात्तुज॒ता व॒धेन॒ ये अन्ति॑ दू॒रादु॑पना॒यमे॑षाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

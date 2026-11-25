@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -71,7 +72,12 @@ tát ← sá- ~ tá- (pronoun)
 
 uttānápadaḥ ← uttānápad- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वानां॑ यु॒गे प्र॑थ॒मेऽस॑तः॒ सद॑जायत ।  
+तदाशा॒ अन्व॑जायन्त॒ तदु॑त्ता॒नप॑द॒स्परि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “from; about; around.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

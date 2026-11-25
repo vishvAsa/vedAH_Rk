@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "शार्यातो मानवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ devébhiḥ ← devá- (nominal stem)
 
 índraḥ ← índra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्रा॒णा रु॒द्रा म॒रुतो॑ वि॒श्वकृ॑ष्टयो दि॒वः श्ये॒नासो॒ असु॑रस्य नी॒ळयः॑ ।  
+तेभि॑श्चष्टे॒ वरु॑णो मि॒त्रो अ॑र्य॒मेन्द्रो॑ दे॒वेभि॑रर्व॒शेभि॒रर्व॑शः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

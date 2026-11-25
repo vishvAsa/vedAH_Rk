@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -66,7 +67,12 @@ sajóṣasā ← sajóṣas- (nominal stem)
 
 váruṇaḥ ← váruṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वै॒य॒श्वस्य॑ श्रुतं नरो॒तो मे॑ अ॒स्य वे॑दथः ।  
+स॒जोष॑सा॒ वरु॑णो मि॒त्रो अ॑र्य॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “Aryaman; aryaman \[word\]; sun.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

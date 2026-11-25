@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sanáye ← saní- (nominal stem)
 
 vr̥trā́ṇām ← vr̥trá- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं ते॑ अ॒स्यामि॑न्द्र द्यु॒म्नहू॑तौ॒ सखा॑यः स्याम महिन॒ प्रेष्ठाः॑ ।  
+प्रात॑र्दनिः क्षत्र॒श्रीर॑स्तु॒ श्रेष्ठो॑ घ॒ने वृ॒त्राणां॑ स॒नये॒ धना॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     dhan; capital; fight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

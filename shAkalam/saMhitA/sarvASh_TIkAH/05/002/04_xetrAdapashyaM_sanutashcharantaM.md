@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कुमार आत्रेयो वृशो वा जान उभौ वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ páliknīḥ ← palitá- (nominal stem)
 
 yuvatáyaḥ ← yuvatí- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्षेत्रा॑दपश्यं सनु॒तश्चर॑न्तं सु॒मद्यू॒थं न पु॒रु शोभ॑मानम् ।  
+न ता अ॑गृभ्र॒न्नज॑निष्ट॒ हि षः पलि॑क्नी॒रिद्यु॑व॒तयो॑ भवन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

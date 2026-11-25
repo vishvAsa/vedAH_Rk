@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ dadhe ← √dhā- 1 (root)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्रि॒मनु॑ स्व॒राज्य॑म॒ग्निमु॒क्थानि॑ वावृधुः ।  
+विश्वा॒ अधि॒ श्रियो॑ दधे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -172,7 +177,6 @@ He has laid on himself all beauties.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -181,7 +185,6 @@ As the just-mentioned structural device expires in 4a, another takes its place. 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

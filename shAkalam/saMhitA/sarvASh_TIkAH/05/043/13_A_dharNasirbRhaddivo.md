@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ vayodhā́ḥ ← vayodhā́- (nominal stem)
 
 vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ध॑र्ण॒सिर्बृ॒हद्दि॑वो॒ ररा॑णो॒ विश्वे॑भिर्ग॒न्त्वोम॑भिर्हुवा॒नः ।  
+ग्ना वसा॑न॒ ओष॑धी॒रमृ॑ध्रस्त्रि॒धातु॑शृङ्गो वृष॒भो व॑यो॒धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “fortifying.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

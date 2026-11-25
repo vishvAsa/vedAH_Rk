@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -86,7 +87,12 @@ te ← tvám (pronoun)
 
 trī́ṇi ← trí- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असि॑ य॒मो अस्या॑दि॒त्यो अ॑र्व॒न्नसि॑ त्रि॒तो गुह्ये॑न व्र॒तेन॑ ।  
+असि॒ सोमे॑न स॒मया॒ विपृ॑क्त आ॒हुस्ते॒ त्रीणि॑ दि॒वि बन्ध॑नानि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     constipation; kapha; bandhana; ligament.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

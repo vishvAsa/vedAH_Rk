@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ práśastayaḥ ← práśasti- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रो नो॑ अ॒ग्निराहु॑तो भ॒द्रा रा॒तिः सु॑भग भ॒द्रो अ॑ध्व॒रः ।  
+भ॒द्रा उ॒त प्रश॑स्तयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “announcement; praise; respect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

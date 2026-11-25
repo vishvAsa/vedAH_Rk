@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गय आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vakṣi ← √vah- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने ह॒विष्म॑न्तो दे॒वं मर्ता॑स ईळते ।  
+मन्ये॑ त्वा जा॒तवे॑दसं॒ स ह॒व्या व॑क्ष्यानु॒षक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “correctly; in sequence; punctually.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रासोमौ रक्षोहणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रासोमौ रक्षोहणौ
@@ -95,7 +96,12 @@ tát ← sá- ~ tá- (pronoun)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑सोमा दु॒ष्कृतो॑ व॒व्रे अ॒न्तर॑नारम्भ॒णे तम॑सि॒ प्र वि॑ध्यतम् ।  
+यथा॒ नातः॒ पुन॒रेक॑श्च॒नोदय॒त्तद्वा॑मस्तु॒ सह॑से मन्यु॒मच्छवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “strength; power; superiority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -259,7 +264,6 @@ _________
 > If I lock someone in a room, they cannot get out. Indra is the king of the gods, so he can do the same to the rakṣasas. But calling that an eternal hell is absurd—the rakṣasa would simply die there and take another birth. No return simply would mean the rAkShasas will not return in the same condition(upadhi/body-phusical/mental). Their aupAdhika identity will not escape and will persist in it until it perishes.  
 > Also the verse uses तमस्, not नरक, and occurs within an intensely imprecatory hymn against wicked/demonic forces.
 </details>
-
 
 <details><summary>Wilson</summary>
 

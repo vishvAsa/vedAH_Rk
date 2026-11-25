@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ sadŕ̥śīḥ ← sadŕ̥ś- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्व॑ स्विदासां कत॒मा पु॑रा॒णी यया॑ वि॒धाना॑ विद॒धुरृ॑भू॒णाम् ।  
+शुभं॒ यच्छु॒भ्रा उ॒षस॒श्चर॑न्ति॒ न वि ज्ञा॑यन्ते स॒दृशी॑रजु॒र्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “ageless; amaranthine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -86,7 +87,12 @@ sūnŕ̥tāyai ← sūnŕ̥ta- (nominal stem)
 
 yandhi ← √yam- (root)  
 {number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं नो॑ अ॒स्या इ॑न्द्र दु॒र्हणा॑याः पा॒हि व॑ज्रिवो दुरि॒ताद॒भीके॑ ।  
+प्र नो॒ वाजा॑न्र॒थ्यो॒३॒॑ अश्व॑बुध्यानि॒षे य॑न्धि॒ श्रव॑से सू॒नृता॑यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “liberality.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -80,7 +81,12 @@ kánikradat ← √krand- (root)
 
 vā́vaśatīḥ ← √vāś- (root)  
 {case:ACC, gender:F, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सु॒ष्टुभा॒ स ऋक्व॑ता ग॒णेन॑ व॒लं रु॑रोज फलि॒गं रवे॑ण ।  
+बृह॒स्पति॑रु॒स्रिया॑ हव्य॒सूदः॒ कनि॑क्रद॒द्वाव॑शती॒रुदा॑जत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +193,6 @@ _________
 - “drive; expel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -215,7 +220,6 @@ Br̥haspati drove up the ruddy (cows) who sweeten the oblation, who  kept lowing
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details><summary><h2>01-06 ...{Loading}...</h2></summary>
 
@@ -223,7 +227,6 @@ As indicated in the published introduction, this section concerns the unitary fi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

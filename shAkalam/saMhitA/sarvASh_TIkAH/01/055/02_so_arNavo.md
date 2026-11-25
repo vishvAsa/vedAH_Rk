@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सव्य आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sanā́t ← sanā́t (invariable)
 
 yudhmáḥ ← yudhmá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सो अ॑र्ण॒वो न न॒द्यः॑ समु॒द्रियः॒ प्रति॑ गृभ्णाति॒ विश्रि॑ता॒ वरी॑मभिः ।  
+इन्द्रः॒ सोम॑स्य पी॒तये॑ वृषायते स॒नात्स यु॒ध्म ओज॑सा पनस्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -241,12 +246,6 @@ As the sea’s flood receives the rivers, he receives the sprawling
 Indra acts the bull to drink the soma. From of old he seeks admiration  as a battler by his power.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The object of the verb práti gṛbhṇāti in the frame, which would correspond to the rivers in the simile, is not expressed. Geldner (/Witzel Gotō) supplies “die Somaströme,” Renou “chants.” Given the liquid nature of the simile, Geldner’s suggestion seems the most likely.
-
-Unfortunately most of the examples of ví √śri are used of the opening of the divine doors in Āprī hymns, so there is no formulaic material to aid in determining what to supply. The phrase yudhmá ójasā is repeated in 5b and ójasā alone in 6b, both in the same metrical position.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/055/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -254,7 +253,6 @@ The two stems varimán- and várīman- appear here in successive verses without 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

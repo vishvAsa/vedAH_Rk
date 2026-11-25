@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -92,7 +93,12 @@ vásiṣṭham ← vásiṣṭha- (nominal stem)
 
 vatsám ← vatsá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ द्रु॒ग्धानि॒ पित्र्या॑ सृजा॒ नोऽव॒ या व॒यं च॑कृ॒मा त॒नूभिः॑ ।  
+अव॑ राजन्पशु॒तृपं॒ न ता॒युं सृ॒जा व॒त्सं न दाम्नो॒ वसि॑ष्ठम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

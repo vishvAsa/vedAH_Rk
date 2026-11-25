@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ avidhyat ← √vyadh- (root)
 
 hiména ← himá- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अह॑न्वृ॒त्रमृची॑षम और्णवा॒भम॑ही॒शुव॑म् ।  
+हि॒मेना॑विध्य॒दर्बु॑दम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “Arbuda; Arbuda; Arbuda.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

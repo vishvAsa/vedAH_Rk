@@ -4,6 +4,7 @@ devataa = "गर्भसंस्रावे प्रायश्चित�
 RShiH = "रक्षोहा ब्राह्मः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गर्भसंस्रावे प्रायश्चित्तं
@@ -74,7 +75,12 @@ nāśayāmasi ← √naś- 2 (root)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॒ हन्ति॑ प॒तय॑न्तं निष॒त्स्नुं यः स॑रीसृ॒पम् ।  
+जा॒तं यस्ते॒ जिघां॑सति॒ तमि॒तो ना॑शयामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “cure; destroy; kill; remove; māray; obstruct; expiate; eliminate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

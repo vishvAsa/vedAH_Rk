@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -85,7 +86,12 @@ bhava ← √bhū- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा॒दय॑स्व सु॒ते सचा॒ शव॑से शूर॒ राध॑से ।  
+वि॒द्मा हि त्वा॑ पुरू॒वसु॒मुप॒ कामा॑न्त्ससृ॒ज्महेऽथा॑ नोऽवि॒ता भ॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

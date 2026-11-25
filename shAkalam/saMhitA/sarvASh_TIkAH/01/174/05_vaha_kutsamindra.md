@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vájrabāhuḥ ← vájrabāhu- (nominal stem)
 
 yāsiṣat ← √yā- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वह॒ कुत्स॑मिन्द्र॒ यस्मि॑ञ्चा॒कन्त्स्यू॑म॒न्यू ऋ॒ज्रा वात॒स्याश्वा॑ ।  
+प्र सूर॑श्च॒क्रं वृ॑हताद॒भीके॒ऽभि स्पृधो॑ यासिष॒द्वज्र॑बाहुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “arm; bāhu \[word\]; elbow; forefoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

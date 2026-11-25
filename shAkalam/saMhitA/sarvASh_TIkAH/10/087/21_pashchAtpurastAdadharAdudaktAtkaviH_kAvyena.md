@@ -4,6 +4,7 @@ devataa = "अग्नी रक्षोहा"
 RShiH = "पायुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्नी रक्षोहा
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒श्चात्पु॒रस्ता॑दध॒रादुद॑क्तात्क॒विः काव्ये॑न॒ परि॑ पाहि राजन् ।  
+सखे॒ सखा॑यम॒जरो॑ जरि॒म्णेऽग्ने॒ मर्ताँ॒ अम॑र्त्य॒स्त्वं नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

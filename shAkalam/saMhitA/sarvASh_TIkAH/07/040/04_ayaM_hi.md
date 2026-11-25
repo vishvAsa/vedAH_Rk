@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ parṣan ← √pr̥- (root)
 
 té ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं हि ने॒ता वरु॑ण ऋ॒तस्य॑ मि॒त्रो राजा॑नो अर्य॒मापो॒ धुः ।  
+सु॒हवा॑ दे॒व्यदि॑तिरन॒र्वा ते नो॒ अंहो॒ अति॑ पर्ष॒न्नरि॑ष्टान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “safe; unharmed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

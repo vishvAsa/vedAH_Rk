@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ abhíkratūnām ← abhíkratu- (nominal stem)
 
 damitā́ ← damitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒ ओष॑धीरसनो॒दहा॑नि॒ वन॒स्पतीँ॑रसनोद॒न्तरि॑क्षम् ।  
+बि॒भेद॑ व॒लं नु॑नु॒दे विवा॒चोऽथा॑भवद्दमि॒ताभिक्र॑तूनाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “rebel(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

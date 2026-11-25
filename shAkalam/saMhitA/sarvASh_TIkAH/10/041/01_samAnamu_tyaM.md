@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सुहस्त्यो घौषेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ vayám ← ahám (pronoun)
 
 vyùṣṭau ← vyùṣṭi- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मा॒नमु॒ त्यं पु॑रुहू॒तमु॒क्थ्यं१॒॑ रथं॑ त्रिच॒क्रं सव॑ना॒ गनि॑ग्मतम् ।  
+परि॑ज्मानं विद॒थ्यं॑ सुवृ॒क्तिभि॑र्व॒यं व्यु॑ष्टा उ॒षसो॑ हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

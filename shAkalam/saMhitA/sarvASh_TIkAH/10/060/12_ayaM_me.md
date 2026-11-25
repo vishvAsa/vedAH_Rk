@@ -4,6 +4,7 @@ devataa = "हस्तः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हस्तः
@@ -68,7 +69,12 @@ ayám ← ayám (pronoun)
 
 śivā́bhimarśanaḥ ← śivā́bhimarśana- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं मे॒ हस्तो॒ भग॑वान॒यं मे॒ भग॑वत्तरः ।  
+अ॒यं मे॑ वि॒श्वभे॑षजो॒ऽयं शि॒वाभि॑मर्शनः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “touch; contact.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

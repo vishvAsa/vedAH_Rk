@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ náram ← nár- (nominal stem)
 
 nr̥ṣā́ham ← nr̥ṣáh- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स॒म्राजं॑ चर्षणी॒नामिन्द्रं॑ स्तोता॒ नव्यं॑ गी॒र्भिः ।  
+नरं॑ नृ॒षाहं॒ मंहि॑ष्ठम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “big.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

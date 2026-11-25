@@ -4,6 +4,7 @@ devataa = "अक्षकृषिप्रशंसा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकृषिप्रशंसा
@@ -92,7 +93,12 @@ tát ← sá- ~ tá- (pronoun)
 
 vadāmi ← √vadⁱ- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वः॑ सेना॒नीर्म॑ह॒तो ग॒णस्य॒ राजा॒ व्रात॑स्य प्रथ॒मो ब॒भूव॑ ।  
+तस्मै॑ कृणोमि॒ न धना॑ रुणध्मि॒ दशा॒हं प्राची॒स्तदृ॒तं व॑दामि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     diagnose; address; say; pronounce; express; instruct; order.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

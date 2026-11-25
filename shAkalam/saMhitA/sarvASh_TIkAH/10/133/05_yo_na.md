@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुदाः पैजवनः"
 ChandaH = "महापङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -102,7 +103,12 @@ dhánvasu ← dhánur ~ dhánvan- (nominal stem)
 
 jyākā́ḥ ← jyāká- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो न॑ इन्द्राभि॒दास॑ति॒ सना॑भि॒र्यश्च॒ निष्ट्यः॑ ।  
+अव॒ तस्य॒ बलं॑ तिर म॒हीव॒ द्यौरध॒ त्मना॒ नभ॑न्तामन्य॒केषां॑ ज्या॒का अधि॒ धन्व॑सु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “bow; desert; steppe; barren.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

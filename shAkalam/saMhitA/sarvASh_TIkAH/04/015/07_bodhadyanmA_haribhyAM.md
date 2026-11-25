@@ -4,6 +4,7 @@ devataa = "सोमकः साहदेव्यः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमकः साहदेव्यः
@@ -63,7 +64,12 @@ ná ← ná (invariable)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बोध॒द्यन्मा॒ हरि॑भ्यां कुमा॒रः सा॑हदे॒व्यः ।  
+अच्छा॒ न हू॒त उद॑रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
     begin; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

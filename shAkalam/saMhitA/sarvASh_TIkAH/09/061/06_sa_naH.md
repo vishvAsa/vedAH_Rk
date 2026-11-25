@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अमहीयुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ soma ← sóma- (nominal stem)
 
 viśvátas ← viśvátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नः॑ पुना॒न आ भ॑र र॒यिं वी॒रव॑ती॒मिष॑म् ।  
+ईशा॑नः सोम वि॒श्वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “everywhere; around; about.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,10 +173,6 @@ _________
 Being purified, bring us wealth and refreshment consisting of heroes, while you hold sway everywhere, o Soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Note the echo across the b-c pāda boundary: … íṣam / ī́śānaḥ …
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -179,7 +180,6 @@ There are faint signs of unity in this tṛca: the word pavítram ‘filter’ i
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -60,7 +61,12 @@ víṣṇoḥ ← víṣṇu- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्विप्रा॑सो विप॒न्यवो॑ जागृ॒वांसः॒ समि॑न्धते ।  
+विष्णो॒र्यत्प॑र॒मं प॒दम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
     topographic point; path; residence; site; topic.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

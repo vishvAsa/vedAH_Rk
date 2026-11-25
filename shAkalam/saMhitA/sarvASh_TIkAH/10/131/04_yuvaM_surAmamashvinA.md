@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सुकीर्तिः काक्षीवतः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -68,7 +69,12 @@ vipipānā́ ← √pā- 3 (root)
 
 kármasu ← kárman- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं सु॒राम॑मश्विना॒ नमु॑चावासु॒रे सचा॑ ।  
+वि॒पि॒पा॒ना शु॑भस्पती॒ इन्द्रं॒ कर्म॑स्वावतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

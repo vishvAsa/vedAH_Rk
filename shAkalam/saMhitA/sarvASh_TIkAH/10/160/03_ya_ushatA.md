@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पूरणो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ kr̥ṇoti ← √kr̥- (root)
 
 praśastám ← √śaṁs- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॑श॒ता मन॑सा॒ सोम॑मस्मै सर्वहृ॒दा दे॒वका॑मः सु॒नोति॑ ।  
+न गा इन्द्र॒स्तस्य॒ परा॑ ददाति प्रश॒स्तमिच्चारु॑मस्मै कृणोति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

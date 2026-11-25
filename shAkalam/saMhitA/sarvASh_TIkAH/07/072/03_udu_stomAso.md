@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ vípraḥ ← vípra- (nominal stem)
 
 vivakti ← √vañc- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒ स्तोमा॑सो अ॒श्विनो॑रबुध्रञ्जा॒मि ब्रह्मा॑ण्यु॒षस॑श्च दे॒वीः ।  
+आ॒विवा॑स॒न्रोद॑सी॒ धिष्ण्ये॒मे अच्छा॒ विप्रो॒ नास॑त्या विवक्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

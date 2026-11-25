@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ abhiṣṭikŕ̥t ← abhiṣṭikŕ̥t- (nominal stem)
 
 vícarṣaṇiḥ ← vícarṣaṇi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑ हिन्वा॒न इ॑न्द्रि॒यं ज्यायो॑ महि॒त्वमा॑नशे ।  
+अ॒भि॒ष्टि॒कृद्विच॑र्षणिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “excellent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

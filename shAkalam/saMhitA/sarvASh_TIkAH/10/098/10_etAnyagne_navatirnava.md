@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "देवापिरार्ष्टिषेणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -86,7 +87,12 @@ rirīhi ← √rā- 1 (root)
 
 vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तान्य॑ग्ने नव॒तिर्नव॒ त्वे आहु॑ता॒न्यधि॑रथा स॒हस्रा॑ ।  
+तेभि॑र्वर्धस्व त॒न्वः॑ शूर पू॒र्वीर्दि॒वो नो॑ वृ॒ष्टिमि॑षि॒तो रि॑रीहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “give; impart.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

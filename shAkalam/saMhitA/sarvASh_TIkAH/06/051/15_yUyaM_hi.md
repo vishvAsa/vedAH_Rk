@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -70,7 +71,12 @@ amā́ ← amā́ (invariable)
 
 gopā́ḥ ← gopā́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यू॒यं हि ष्ठा सु॑दानव॒ इन्द्र॑ज्येष्ठा अ॒भिद्य॑वः ।  
+कर्ता॑ नो॒ अध्व॒न्ना सु॒गं गो॒पा अ॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “at home.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -199,10 +204,6 @@ _________
 Because you of good drops, with Indra preeminent, are heaven-bound, make good passage for us on the road. (Be) herdsmen at home.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In the second hemistich ádhvan ‘on the road’ and amā́‘at home’ are contrastive, as Renou points out. The brief tag gopā́amā́must be a separate clause: both Geldner and Renou supply an imperatival “be,” as do I. Again clausal division supports the metrical division suggested ad vs. 13.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -210,7 +211,6 @@ As noted in the published introduction, I consider the remaining vss. to belong 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

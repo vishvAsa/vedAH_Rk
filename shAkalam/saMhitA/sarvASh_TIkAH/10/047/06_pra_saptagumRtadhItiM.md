@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "सप्तगुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -83,7 +84,12 @@ rayím ← rayí- ~ rāy- (nominal stem)
 
 vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स॒प्तगु॑मृ॒तधी॑तिं सुमे॒धां बृह॒स्पतिं॑ म॒तिरच्छा॑ जिगाति ।  
+य आ॑ङ्गिर॒सो नम॑सोप॒सद्यो॒ऽस्मभ्यं॑ चि॒त्रं वृष॑णं र॒यिं दाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

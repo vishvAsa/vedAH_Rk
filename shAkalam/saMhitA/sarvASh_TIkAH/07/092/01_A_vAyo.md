@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -92,7 +93,12 @@ pūrvapéyam ← pūrvapéya- (nominal stem)
 
 yásya ← yá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वा॑यो भूष शुचिपा॒ उप॑ नः स॒हस्रं॑ ते नि॒युतो॑ विश्ववार ।  
+उपो॑ ते॒ अन्धो॒ मद्य॑मयामि॒ यस्य॑ देव दधि॒षे पू॑र्व॒पेय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

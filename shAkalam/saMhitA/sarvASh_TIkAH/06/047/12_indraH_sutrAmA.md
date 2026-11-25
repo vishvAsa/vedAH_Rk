@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ suvī́ryasya ← suvī́rya- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रः॑ सु॒त्रामा॒ स्ववाँ॒ अवो॑भिः सुमृळी॒को भ॑वतु वि॒श्ववे॑दाः ।  
+बाध॑तां॒ द्वेषो॒ अभ॑यं कृणोतु सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -235,10 +240,6 @@ Let Indra be of good protection, of good help with his help, very  gracious, aff
 Let him thrust away hatred; let him create fearlessness. Might we be  lords of good heroes in abundance.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In addition to the repetition just described, 12b sumṛḷīkó bhavatu is a variant of 10a mṛḷá, and ábhayaṃ kṛṇotu reminds us of 8ab ánu neṣi … ábhayam.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
 <details><summary><h2>11-13 ...{Loading}...</h2></summary>
 
@@ -246,7 +247,6 @@ The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram
 
 </details>
 </div>
-</details>
 
 <details><summary>Whitney</summary>
 

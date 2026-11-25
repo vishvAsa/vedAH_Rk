@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ urvárāsu ← urvárā- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शूरो॑ वा॒ शूरं॑ वनते॒ शरी॑रैस्तनू॒रुचा॒ तरु॑षि॒ यत्कृ॒ण्वैते॑ ।  
+तो॒के वा॒ गोषु॒ तन॑ये॒ यद॒प्सु वि क्रन्द॑सी उ॒र्वरा॑सु॒ ब्रवै॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     proclaim; talk; talk; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

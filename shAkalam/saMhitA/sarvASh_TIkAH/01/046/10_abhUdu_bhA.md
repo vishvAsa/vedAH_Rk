@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -66,7 +67,12 @@ jihváyā ← jihvā́- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अभू॑दु॒ भा उ॑ अं॒शवे॒ हिर॑ण्यं॒ प्रति॒ सूर्यः॑ ।  
+व्य॑ख्यज्जि॒ह्वयासि॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “black; dark; dark; black.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

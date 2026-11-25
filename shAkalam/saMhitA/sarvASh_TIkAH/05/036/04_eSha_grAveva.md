@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रभूवसुराङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ venaḥ ← √ven- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष ग्रावे॑व जरि॒ता त॑ इ॒न्द्रेय॑र्ति॒ वाचं॑ बृ॒हदा॑शुषा॒णः ।  
+प्र स॒व्येन॑ मघव॒न्यंसि॑ रा॒यः प्र द॑क्षि॒णिद्ध॑रिवो॒ मा वि वे॑नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “circulate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

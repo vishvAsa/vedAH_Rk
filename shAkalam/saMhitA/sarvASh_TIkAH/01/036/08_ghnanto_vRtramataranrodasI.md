@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ gáviṣṭiṣu ← gáviṣṭi- (nominal stem)
 
 krándat ← √krand- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घ्नन्तो॑ वृ॒त्रम॑तर॒न्रोद॑सी अ॒प उ॒रु क्षया॑य चक्रिरे ।  
+भुव॒त्कण्वे॒ वृषा॑ द्यु॒म्न्याहु॑तः॒ क्रन्द॒दश्वो॒ गवि॑ष्टिषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “foray.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

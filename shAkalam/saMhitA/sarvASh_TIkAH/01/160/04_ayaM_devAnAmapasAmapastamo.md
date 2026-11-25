@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -83,7 +84,12 @@ sám ← sám (invariable)
 
 skámbhanebhiḥ ← skámbhana- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं दे॒वाना॑म॒पसा॑म॒पस्त॑मो॒ यो ज॒जान॒ रोद॑सी वि॒श्वश॑म्भुवा ।  
+वि यो म॒मे रज॑सी सुक्रतू॒यया॒जरे॑भिः॒ स्कम्भ॑नेभिः॒ समा॑नृचे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “sing; worship; honor; praise; welcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

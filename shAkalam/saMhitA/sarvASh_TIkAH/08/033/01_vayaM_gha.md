@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ pári ← pári (invariable)
 
 stotā́raḥ ← stotár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं घ॑ त्वा सु॒ताव॑न्त॒ आपो॒ न वृ॒क्तब॑र्हिषः ।  
+प॒वित्र॑स्य प्र॒स्रव॑णेषु वृत्रह॒न्परि॑ स्तो॒तार॑ आसते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -162,7 +168,6 @@ _________
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

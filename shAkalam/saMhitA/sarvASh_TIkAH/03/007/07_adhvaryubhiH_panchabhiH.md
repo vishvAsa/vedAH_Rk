@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ hí ← hí (invariable)
 
 vratā́ ← vratá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ध्व॒र्युभिः॑ प॒ञ्चभिः॑ स॒प्त विप्राः॑ प्रि॒यं र॑क्षन्ते॒ निहि॑तं प॒दं वेः ।  
+प्राञ्चो॑ मदन्त्यु॒क्षणो॑ अजु॒र्या दे॒वा दे॒वाना॒मनु॒ हि व्र॒ता गुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

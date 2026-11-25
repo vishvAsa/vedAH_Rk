@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ jánasya ← jána- (nominal stem)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं गी॒र्भिर्वा॑चमीङ्ख॒यं पु॑ना॒नं वा॑सयामसि ।  
+सोमं॒ जन॑स्य॒ गोप॑तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -115,7 +121,6 @@ _________
 - “Shiva; bull; cowboy; Indra; Gopati; king.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

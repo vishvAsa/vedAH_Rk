@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ vām ← tvám (pronoun)
 
 váyaḥ ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वोः श्रियं॒ परि॒ योषा॑वृणीत॒ सूरो॑ दुहि॒ता परि॑तक्म्यायाम् ।  
+यद्दे॑व॒यन्त॒मव॑थः॒ शची॑भिः॒ परि॑ घ्रं॒समो॒मना॑ वां॒ वयो॑ गात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

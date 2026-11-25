@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -107,7 +108,13 @@ sádmāni ← sádman- (nominal stem)
 
 sukrátuḥ ← sukrátu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+होता॑ यक्षद्व॒निनो॑ वन्त॒ वार्यं॒ बृह॒स्पति॑र्यजति वे॒न उ॒क्षभिः॑ पुरु॒वारे॑भिरु॒क्षभिः॑ ।  
+ज॒गृ॒भ्मा दू॒रआ॑दिशं॒ श्लोक॒मद्रे॒रध॒ त्मना॑ ।  
+अधा॑रयदर॒रिन्दा॑नि सु॒क्रतुः॑ पु॒रू सद्मा॑नि सु॒क्रतुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -266,7 +273,6 @@ _________
 - “wise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

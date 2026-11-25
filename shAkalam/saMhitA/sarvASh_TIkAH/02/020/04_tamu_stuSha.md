@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ brahmaṇyatáḥ ← √brahmaṇy- (root)
 
 nū́tanasya ← nū́tana- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॑ स्तुष॒ इन्द्रं॒ तं गृ॑णीषे॒ यस्मि॑न्पु॒रा वा॑वृ॒धुः शा॑श॒दुश्च॑ ।  
+स वस्वः॒ कामं॑ पीपरदिया॒नो ब्र॑ह्मण्य॒तो नूत॑नस्या॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

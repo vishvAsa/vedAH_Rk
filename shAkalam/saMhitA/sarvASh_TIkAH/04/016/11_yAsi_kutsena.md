@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ pā́ryāya ← pā́rya- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यासि॒ कुत्से॑न स॒रथ॑मव॒स्युस्तो॒दो वात॑स्य॒ हर्यो॒रीशा॑नः ।  
+ऋ॒ज्रा वाजं॒ न गध्यं॒ युयू॑षन्क॒विर्यदह॒न्पार्या॑य॒ भूषा॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “endeavor; attend; strive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

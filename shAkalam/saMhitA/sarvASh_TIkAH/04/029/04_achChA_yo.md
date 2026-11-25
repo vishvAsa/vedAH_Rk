@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sahásrāṇi ← sahásra- (nominal stem)
 
 vájrabāhuḥ ← vájrabāhu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अच्छा॒ यो गन्ता॒ नाध॑मानमू॒ती इ॒त्था विप्रं॒ हव॑मानं गृ॒णन्त॑म् ।  
+उप॒ त्मनि॒ दधा॑नो धु॒र्या॒३॒॑शून्त्स॒हस्रा॑णि श॒तानि॒ वज्र॑बाहुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “arm; bāhu \[word\]; elbow; forefoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

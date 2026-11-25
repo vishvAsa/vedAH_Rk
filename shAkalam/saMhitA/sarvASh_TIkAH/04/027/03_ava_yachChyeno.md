@@ -4,6 +4,7 @@ devataa = "श्येनः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्येनः
@@ -104,7 +105,12 @@ kr̥śā́nuḥ ← kr̥śā́nu- (nominal stem)
 
 mánasā ← mánas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॒ यच्छ्ये॒नो अस्व॑नी॒दध॒ द्योर्वि यद्यदि॒ वात॑ ऊ॒हुः पुरं॑धिम् ।  
+सृ॒जद्यद॑स्मा॒ अव॑ ह क्षि॒पज्ज्यां कृ॒शानु॒रस्ता॒ मन॑सा भुर॒ण्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -262,7 +268,6 @@ _________
 - “be active.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -74,7 +75,12 @@ sumnaíḥ ← sumná- (nominal stem)
 
 yā́ ← yá- (pronoun)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या शर्धा॑य॒ मारु॑ताय॒ स्वभा॑नवे॒ श्रवोऽमृ॑त्यु॒ धुक्ष॑त ।  
+या मृ॑ळी॒के म॒रुतां॑ तु॒राणां॒ या सु॒म्नैरे॑व॒याव॑री ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -208,12 +213,6 @@ Evayāvari = from eva, who or what goes, as a horse, or the water of mid-air, th
 Who will milk out undying fame for the self-radiant troop of Maruts, who is in the grace of the precipitous Maruts, who goes her own way  with benevolent thoughts.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The published translation renders dhúkṣata as if it were a subjunctive (“will milk out”; sim. Geldner) to an s-aor., but the form must be an injunctive to a sa-aor., given the augmented forms ádhukṣata, etc., and the sec. ending -ta. Of course, the injunc.
-
-could be used modally, but a presential “who milks out” might be better.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md">
 <details><summary><h2>11-13 ...{Loading}...</h2></summary>
 
@@ -221,7 +220,6 @@ On these three vss., see published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

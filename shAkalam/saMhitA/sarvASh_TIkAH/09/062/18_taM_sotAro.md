@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ hinota ← √hi- (root)
 
 vājínam ← vājín- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं सो॑तारो धन॒स्पृत॑मा॒शुं वाजा॑य॒ यात॑वे ।  
+हरिं॑ हिनोत वा॒जिन॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +136,6 @@ _________
 - “victorious; triumphant; strong; gainful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,10 +161,6 @@ _________
 O pressers, impel the swift one to drive for the prize—the winner of spoils, the tawny prize-seeker.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. is notable for its 2nd ps. address to the priests (sotāraḥ … hinota “o pressers, impel …”), also found in vss. 21, 29. Ordinarily 2nd ps. in soma hymns is reserved for Soma (sg.) and his drops (etc.) (pl.).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -167,7 +168,6 @@ Several elements link at least two of the vss. in the tṛca: the presence of v�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

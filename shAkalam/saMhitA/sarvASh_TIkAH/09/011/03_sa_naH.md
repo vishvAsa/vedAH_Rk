@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ rājan ← rā́jan- (nominal stem)
 
 śám ← śám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स नः॑ पवस्व॒ शं गवे॒ शं जना॑य॒ शमर्व॑ते ।  
+शं रा॑ज॒न्नोष॑धीभ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “herb; plant; drug; herb.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

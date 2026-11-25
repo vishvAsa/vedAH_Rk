@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -92,7 +93,12 @@ tiretam ← √tr̥̄- 1 (root)
 
 ūtíbhiḥ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒तं नो॑ य॒ज्ञं वि॒दथे॑षु॒ चारुं॑ कृ॒तं ब्रह्मा॑णि सू॒रिषु॑ प्रश॒स्ता ।  
+उपो॑ र॒यिर्दे॒वजू॑तो न एतु॒ प्र णः॑ स्पा॒र्हाभि॑रू॒तिभि॑स्तिरेतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

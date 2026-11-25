@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "इध्मवाहो दार्ढच्युतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ bhū́ridhāyasam ← bhū́ridhāyas- (nominal stem)
 
 dharṇasím ← dharṇasí- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वे॒धां मे॒धया॑ह्य॒न्पव॑मान॒मधि॒ द्यवि॑ ।  
+ध॒र्ण॒सिं भूरि॑धायसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “alimentary; sustaining.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिभानुरात्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ pū́rvābhiḥ ← pū́rva- (nominal stem)
 
 tirate ← √tr̥̄- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता अ॑त्नत व॒युनं॑ वी॒रव॑क्षणं समा॒न्या वृ॒तया॒ विश्व॒मा रजः॑ ।  
+अपो॒ अपा॑ची॒रप॑रा॒ अपे॑जते॒ प्र पूर्वा॑भिस्तिरते देव॒युर्जनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

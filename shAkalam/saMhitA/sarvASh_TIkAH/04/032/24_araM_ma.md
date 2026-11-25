@@ -4,6 +4,7 @@ devataa = "इन्द्राश्वौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राश्वौ
@@ -54,7 +55,12 @@ babhrū́ ← babhrú- (nominal stem)
 
 yā́meṣu ← yā́ma- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अरं॑ म उ॒स्रया॒म्णेऽर॒मनु॑स्रयाम्णे ।  
+ब॒भ्रू यामे॑ष्व॒स्रिधा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “unfailing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

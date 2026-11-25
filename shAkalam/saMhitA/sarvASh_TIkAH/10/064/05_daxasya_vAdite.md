@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ saptáhotā ← saptáhotar- (nominal stem)
 
 víṣurūpeṣu ← víṣurūpa- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दक्ष॑स्य वादिते॒ जन्म॑नि व्र॒ते राजा॑ना मि॒त्रावरु॒णा वि॑वाससि ।  
+अतू॑र्तपन्थाः पुरु॒रथो॑ अर्य॒मा स॒प्तहो॑ता॒ विषु॑रूपेषु॒ जन्म॑सु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     parentage; descent; appearance; age; birthplace; beginning; being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

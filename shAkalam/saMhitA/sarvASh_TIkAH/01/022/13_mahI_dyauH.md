@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -63,7 +64,12 @@ naḥ ← ahám (pronoun)
 
 pipr̥tā́m ← √pr̥- (root)  
 {number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒ही द्यौः पृ॑थि॒वी च॑ न इ॒मं य॒ज्ञं मि॑मिक्षताम् ।  
+पि॒पृ॒तां नो॒ भरी॑मभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “support.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

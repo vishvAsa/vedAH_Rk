@@ -4,6 +4,7 @@ devataa = "इन्द्रः (मरुतः)"
 RShiH = "गौरवीतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः (मरुतः)
@@ -95,7 +96,12 @@ góṣu ← gáv- ~ gó- (nominal stem)
 
 páyaḥ ← páyas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒क्रं यद॑स्या॒प्स्वा निष॑त्तमु॒तो तद॑स्मै॒ मध्विच्च॑च्छद्यात् ।  
+पृ॒थि॒व्यामति॑षितं॒ यदूधः॒ पयो॒ गोष्वद॑धा॒ ओष॑धीषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “herb; plant; drug; herb.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

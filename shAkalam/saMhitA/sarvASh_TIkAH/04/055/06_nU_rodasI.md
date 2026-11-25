@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ nadyàḥ ← nadī́- (nominal stem)
 
 vran ← √vr̥- (root)  
 {number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू रो॑दसी॒ अहि॑ना बु॒ध्न्ये॑न स्तुवी॒त दे॑वी॒ अप्ये॑भिरि॒ष्टैः ।  
+स॒मु॒द्रं न सं॒चर॑णे सनि॒ष्यवो॑ घ॒र्मस्व॑रसो न॒द्यो॒३॒॑ अप॑ व्रन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

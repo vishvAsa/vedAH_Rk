@@ -4,6 +4,7 @@ devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "उरोबृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्या
@@ -83,7 +84,12 @@ sáḥ ← sá- ~ tá- (pronoun)
 
 vā́dhūyam ← vā́dhūya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तृ॒ष्टमे॒तत्कटु॑कमे॒तद॑पा॒ष्ठव॑द्वि॒षव॒न्नैतदत्त॑वे ।  
+सू॒र्यां यो ब्र॒ह्मा वि॒द्यात्स इद्वाधू॑यमर्हति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “should; may; rate; can; can; equal; necessitate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

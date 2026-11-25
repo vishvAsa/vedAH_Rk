@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ prasársrāṇasya ← √sr̥- 2 (root)
 
 śéṣaḥ ← śéṣas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॑ अग्ने॒ नम॑सा य॒ज्ञमीट्ट॑ ऋ॒तं स पा॑त्यरु॒षस्य॒ वृष्णः॑ ।  
+तस्य॒ क्षयः॑ पृ॒थुरा सा॒धुरे॑तु प्र॒सर्स्रा॑णस्य॒ नहु॑षस्य॒ शेषः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “offspring.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

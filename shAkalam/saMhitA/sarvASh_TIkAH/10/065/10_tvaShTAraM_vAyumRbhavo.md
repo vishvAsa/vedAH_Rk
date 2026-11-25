@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ sómam ← sóma- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वष्टा॑रं वा॒युमृ॑भवो॒ य ओह॑ते॒ दैव्या॒ होता॑रा उ॒षसं॑ स्व॒स्तये॑ ।  
+बृह॒स्पतिं॑ वृत्रखा॒दं सु॑मे॒धस॑मिन्द्रि॒यं सोमं॑ धन॒सा उ॑ ईमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

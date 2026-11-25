@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "व्याघ्रपाद्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -98,7 +99,12 @@ máryaḥ ← márya- (nominal stem)
 
 pastyā̀vān ← pastyā̀vant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग्र॒न्थिं न वि ष्य॑ ग्रथि॒तं पु॑ना॒न ऋ॒जुं च॑ गा॒तुं वृ॑जि॒नं च॑ सोम ।  
+अत्यो॒ न क्र॑दो॒ हरि॒रा सृ॑जा॒नो मर्यो॑ देव धन्व प॒स्त्या॑वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -268,14 +273,6 @@ Untie like a knot the straight and the crooked way that are knotted up,  when yo
 Like a fallow bay steed you whinny on being let loose; run, o god, as a  man in his prime in possession of a dwelling place.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The “straight versus crooked” theme is continued here, and in fact the expression vītā́vṛjinā́ca “straight and crooked” cited from IV.2.11 in the immed.
-
-preceding comm. is lexically renewed (/clarified) by ṛjúṃ ca … vṛjináṃ ca, with a better attested and unambiguous word for ‘straight’, ṛjú-. Again, Soma’s progress across the tufted filter is the topic, made clearer by the use of gātú- ‘way’. Both Geldner and Renou (also Ober II.60) take the verb ví ṣya only with pāda a and supply a new verb (‘discriminate’ or the like) with b, relying perhaps too heavily on the model of IV.2.11. I think literal unknotting is what’s at stake - finding a way between the entangled wool tufts. Geldner further suggests (n. 18a) that the unknotting refers to getting rid of the stalk of the plant in the soma press, but the filter makes far more sense.
-
-The two images in d seem oddly incoherent together: máryaḥ … pastiyā̀vān “a man in his prime in possession of a dwelling place,” but a passage adduced by Geldner (n. 18d) demonstrates that the young man and the house go together: I.91.13 márya iva svá okyè “(take pleasure) like a young man in his own home.” Perhaps the point of the house-proud márya- is that a man in his prime, perhaps roughly the equivalent of the later gṛhastha, should have achieved the goals of a mature life: a house and household; Soma is implicitly likened to such a man after he has been purified and acquired the water and milk that make him the fully prepared ritual substance, and the pastyā̀- itself is the ritual ground. Geldner’s parallel also neatly provides indirect evidence for the semantic equivalence of pastyā̀- and okyà- ‘home’ and therefore against the interpr. of pastyā̀- as ‘river’ (often indeed by Geldner; see, e.g., IX.65.23, though he tr. it here as Haus). See comm. ad I.40.7.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -285,7 +282,6 @@ The Anukramaṇī names Vyāghrapād (‘Tigerfoot(ed)’) Vāsiṣṭha as the 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

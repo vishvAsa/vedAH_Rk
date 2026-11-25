@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ prá ← prá (invariable)
 
 vidátheṣu ← vidátha- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+माध्यं॑दिने॒ सव॑ने जातवेदः पुरो॒ळाश॑मि॒ह क॑वे जुषस्व ।  
+अग्ने॑ य॒ह्वस्य॒ तव॑ भाग॒धेयं॒ न प्र मि॑नन्ति वि॒दथे॑षु॒ धीराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “expert; wise; intelligent; versed; adept.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

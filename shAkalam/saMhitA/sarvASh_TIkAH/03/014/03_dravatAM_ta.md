@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ tasthatuḥ ← √sthā- (root)
 
 vandhúrā ← vandhúra- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्रव॑तां त उ॒षसा॑ वा॒जय॑न्ती॒ अग्ने॒ वात॑स्य प॒थ्या॑भि॒रच्छ॑ ।  
+यत्सी॑म॒ञ्जन्ति॑ पू॒र्व्यं ह॒विर्भि॒रा व॒न्धुरे॑व तस्थतुर्दुरो॒णे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “home; dwelling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

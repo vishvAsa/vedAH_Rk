@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -51,7 +52,12 @@ uttamé ← uttamá- (nominal stem)
 
 sahásrasthūṇe ← sahásrasthūṇa- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+राजा॑ना॒वन॑भिद्रुहा ध्रु॒वे सद॑स्युत्त॒मे ।  
+स॒हस्र॑स्थूण आसाते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -118,7 +124,6 @@ _________
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

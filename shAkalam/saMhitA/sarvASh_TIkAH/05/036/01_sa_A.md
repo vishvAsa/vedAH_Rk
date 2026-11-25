@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रभूवसुराङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ dugdhám ← √duh- (root)
 
 pibatu ← √pā- 2 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स आ ग॑म॒दिन्द्रो॒ यो वसू॑नां॒ चिके॑त॒द्दातुं॒ दाम॑नो रयी॒णाम् ।  
+ध॒न्व॒च॒रो न वंस॑गस्तृषा॒णश्च॑कमा॒नः पि॑बतु दु॒ग्धमं॒शुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ riṇāti ← √rī- (root)
 
 vánā ← vána- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृष्णो॑ अस्तोषि भू॒म्यस्य॒ गर्भं॑ त्रि॒तो नपा॑तम॒पां सु॑वृ॒क्ति ।  
+गृ॒णी॒ते अ॒ग्निरे॒तरी॒ न शू॒षैः शो॒चिष्के॑शो॒ नि रि॑णाति॒ वना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

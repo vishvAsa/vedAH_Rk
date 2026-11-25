@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ nidé ← níd- (nominal stem)
 
 rīradhatam ← √randh- (root)  
 {number:DU, person:2, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॒ विश्वा॑न्यश्विना ध॒त्तं राधां॒स्यह्र॑या ।  
+कृ॒तं न॑ ऋ॒त्विया॑वतो॒ मा नो॑ रीरधतं नि॒दे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “derision; scoffer; contempt.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

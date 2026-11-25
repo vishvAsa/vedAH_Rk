@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पूरुरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ svadhvaré ← svadhvará- (nominal stem)
 
 pūrúḥ ← pūrú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ य॒ज्ञैर्दे॑व॒ मर्त्य॑ इ॒त्था तव्यां॑समू॒तये॑ ।  
+अ॒ग्निं कृ॒ते स्व॑ध्व॒रे पू॒रुरी॑ळी॒ताव॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

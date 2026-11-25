@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पराशरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ sóme ← sóma- (nominal stem)
 
 triṣṭúbhaḥ ← triṣṭúbh- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमं॒ गावो॑ धे॒नवो॑ वावशा॒नाः सोमं॒ विप्रा॑ म॒तिभिः॑ पृ॒च्छमा॑नाः ।  
+सोमः॑ सु॒तः पू॑यते अ॒ज्यमा॑नः॒ सोमे॑ अ॒र्कास्त्रि॒ष्टुभः॒ सं न॑वन्ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “praise; shout.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -225,10 +230,6 @@ To Soma (go) the milk-cows bellowing eagerly; to Soma the inspired  poets asking
 Soma, pressed, is purified while being anointed [/driven]; to Soma the  chants, the triṣṭubh verses cry out together.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first two pādas of this vs. are variants of the last two of the previous vs. (34cd), with the repeated yanti of 34 gapped, and redistribution of some of the lexicon: the two participles in 34cd, prchámānāḥ and vāvaśānā́ḥ, switch positions, with each paired with a more natural subject (cows bellowing 35a, poets asking 35b), and the thoughts of 34d are relegated to the instr. in 35b with their producers, the viprā́ḥ, taking over the subject role in 35b, again a more natural configuration. We can consider 35ab as a complex poetic repair of 34cd.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/34-36.md">
 <details><summary><h2>34-36 ...{Loading}...</h2></summary>
 
@@ -236,7 +237,6 @@ All three vss. concentrate on ritual speech and on the noisy approach of both co
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

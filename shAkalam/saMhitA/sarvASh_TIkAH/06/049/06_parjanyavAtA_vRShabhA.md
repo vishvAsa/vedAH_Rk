@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ kr̥ṇudhvam ← √kr̥- (root)
 
 sthātar ← sthā́tar- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पर्ज॑न्यवाता वृषभा पृथि॒व्याः पुरी॑षाणि जिन्वत॒मप्या॑नि ।  
+सत्य॑श्रुतः कवयो॒ यस्य॑ गी॒र्भिर्जग॑तः स्थात॒र्जग॒दा कृ॑णुध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

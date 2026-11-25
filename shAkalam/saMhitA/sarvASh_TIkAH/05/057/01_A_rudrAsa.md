@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ udanyáve ← udanyú- (nominal stem)
 
 útsāḥ ← útsa- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ रु॑द्रास॒ इन्द्र॑वन्तः स॒जोष॑सो॒ हिर॑ण्यरथाः सुवि॒ताय॑ गन्तन ।  
+इ॒यं वो॑ अ॒स्मत्प्रति॑ हर्यते म॒तिस्तृ॒ष्णजे॒ न दि॒व उत्सा॑ उद॒न्यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - \[noun\], dative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "द्रविणोदाः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रविणोदाः
@@ -92,7 +93,12 @@ r̥túbhiḥ ← r̥tú- (nominal stem)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मन्द॑स्व हो॒त्रादनु॒ जोष॒मन्ध॒सोऽध्व॑र्यवः॒ स पू॒र्णां व॑ष्ट्या॒सिच॑म् ।  
+तस्मा॑ ए॒तं भ॑रत तद्व॒शो द॒दिर्हो॒त्रात्सोमं॑ द्रविणोदः॒ पिब॑ ऋ॒तुभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -276,10 +281,6 @@ Become exhilarated on the stalk, from the Hotar’s cup at your pleasure.  O Adh
 Bring this to him. Such is the desire of the giver. The soma from the  Hotar’s cup, o Wealth-Giver—drink it at your turns.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As noted above ad II.36.3 the VP mándasva … ándhasaḥ repeats the same phrase there; our ánu jóṣam echoes the part. jujuṣāṇáḥ there.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -287,7 +288,6 @@ The d pādas of the first three vss. have a rigid structure: PRIEST’S CUP sóm
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

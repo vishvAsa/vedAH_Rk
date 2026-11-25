@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -85,7 +86,12 @@ rāyáḥ ← rayí- ~ rāy- (nominal stem)
 
 śiśīhí ← √śā- ~ śī- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मदे॑मदे॒ हि नो॑ द॒दिर्यू॒था गवा॑मृजु॒क्रतुः॑ ।  
+सं गृ॑भाय पु॒रू श॒तोभ॑याह॒स्त्या वसु॑ शिशी॒हि रा॒य आ भ॑र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

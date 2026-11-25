@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sādhat ← √sādh- ~ sidh- (root)
 
 vayúnāni ← vayúna- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स माहि॑न॒ इन्द्रो॒ अर्णो॑ अ॒पां प्रैर॑यदहि॒हाच्छा॑ समु॒द्रम् ।  
+अज॑नय॒त्सूर्यं॑ वि॒दद्गा अ॒क्तुनाह्नां॑ व॒युना॑नि साधत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “promote; succeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मन्युर्वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ kṣípaḥ ← kṣíp- (nominal stem)
 
 sā́no ← sā́nu- ~ snú- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्रि॒याणि॑ पवते पुना॒नो दे॒वो दे॒वान्त्स्वेन॒ रसे॑न पृ॒ञ्चन् ।  
+इन्दु॒र्धर्मा॑ण्यृतु॒था वसा॑नो॒ दश॒ क्षिपो॑ अव्यत॒ सानो॒ अव्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - \[noun\], locative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -240,16 +245,6 @@ He purifies himself toward his own dear (tracks?), while being purified,  the go
 The drop, clothing himself in his foundations according to the ritual order,  has enwrapped himself in the ten fingers on the back of the sheep.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first pāda is alliterative: … priyā́ṇi pavate punānáḥ, while opening of the 2nd is an etymological figure that matches the one opening 11d.
-
-The referent of priyā́ṇi, the obj. or goal of abhí … pavate, is uncertain. In the pub. tr. I supply ‘tracks’, on the basis of 7c padā́… abhy èti, as well as IX.12.8 abhí priyā́divás padā́… arṣati “he rushes towards the dear tracks of heaven.” However, as noted above, I no longer think padā́in vs. 7 is an acc. pl., and I am also more moved by Geldner’s cited parallel, IX.75.1 abhí priyā́ṇi pavate ..., nā́māni “he purifies himself towards his own dear names.” But cf. also IX.57.2 abhí priyā́ṇi kā́vyā ...
-
-arṣati. I would now be inclined to supply ‘names’ (“he purifies himself towards his own dear names”), since Soma’s progress across the ritual ground to his names is a trope (see comm. ad IX.75.1). But since there are a number of other referential possibilities for the construction abhí priyā́(ṇi), it might be best simply to tr.
-
-“towards his own dear (things).” Pāda c is also puzzling: the phrase “clothing himself in his foundations” (dhármāṇi … vásānaḥ) is not immediately interpretable, and there are no illuminating parallels (at least that I have found). The adverbial ṛtuthā́“according to the ritual order” suggests that the process of “clothing himself” involves following the orderly steps of the sacrifice - which in turn suggests that Soma is making his progress across the ritual ground, encountering first the waters, then the milk, before arriving at his destination. I therefore think that the “foundations” here are the waters and the milk - his supports, the materials of which the soma drink is built. But this cannot be demonstrated.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -259,7 +254,6 @@ All three vss. contain a hemistich beginning índuḥ (10a, 11c, 12c); the verb 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

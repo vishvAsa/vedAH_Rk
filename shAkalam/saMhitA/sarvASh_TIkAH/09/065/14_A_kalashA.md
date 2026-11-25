@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ pītáye ← pītí- (nominal stem)
 
 viśa ← √viś- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ क॒लशा॑ अनूष॒तेन्दो॒ धारा॑भि॒रोज॑सा ।  
+एन्द्र॑स्य पी॒तये॑ विश ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,7 +165,6 @@ enter (them) for Indra’s drinking.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -168,7 +172,6 @@ Again, no signs of unity.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

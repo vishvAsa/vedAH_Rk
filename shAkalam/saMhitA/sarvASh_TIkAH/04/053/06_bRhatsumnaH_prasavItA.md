@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -86,7 +87,12 @@ kṣáyāya ← kṣáya- (nominal stem)
 
 trivárūtham ← trivárūtha- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हत्सु॑म्नः प्रसवी॒ता नि॒वेश॑नो॒ जग॑तः स्था॒तुरु॒भय॑स्य॒ यो व॒शी ।  
+स नो॑ दे॒वः स॑वि॒ता शर्म॑ यच्छत्व॒स्मे क्षया॑य त्रि॒वरू॑थ॒मंह॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “trouble; sin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

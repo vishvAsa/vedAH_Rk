@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -63,7 +64,12 @@ tā́n ← sá- ~ tá- (pronoun)
 
 vā́yo ← vāyú- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ती॒व्राः सोमा॑स॒ आ ग॑ह्या॒शीर्व॑न्तः सु॒ता इ॒मे ।  
+वायो॒ तान्प्रस्थि॑तान्पिब ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

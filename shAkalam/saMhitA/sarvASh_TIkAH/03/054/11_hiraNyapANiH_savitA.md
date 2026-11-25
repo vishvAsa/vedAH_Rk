@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sarvátātim ← sarvátāti- (nominal stem)
 
 suva ← √sū- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यपाणिः सवि॒ता सु॑जि॒ह्वस्त्रिरा दि॒वो वि॒दथे॒ पत्य॑मानः ।  
+दे॒वेषु॑ च सवितः॒ श्लोक॒मश्रे॒राद॒स्मभ्य॒मा सु॑व स॒र्वता॑तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “completeness; prosperity; sum.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

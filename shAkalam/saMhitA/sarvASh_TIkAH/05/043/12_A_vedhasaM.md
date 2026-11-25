@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ híraṇyavarṇam ← híraṇyavarṇa- (nominal stem)
 
 sapema ← √sap- (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वे॒धसं॒ नील॑पृष्ठं बृ॒हन्तं॒ बृह॒स्पतिं॒ सद॑ने सादयध्वम् ।  
+सा॒दद्यो॑निं॒ दम॒ आ दी॑दि॒वांसं॒ हिर॑ण्यवर्णमरु॒षं स॑पेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - \[verb\], plural, Present optative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

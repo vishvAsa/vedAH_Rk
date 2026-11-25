@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ sūnúm ← sūnú- (nominal stem)
 
 tánayam ← tánaya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तं वां॒ स्तोम॑मश्विनावक॒र्मात॑क्षाम॒ भृग॑वो॒ न रथ॑म् ।  
+न्य॑मृक्षाम॒ योष॑णां॒ न मर्ये॒ नित्यं॒ न सू॒नुं तन॑यं॒ दधा॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अंबरीष ऋजिश्वा च"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -74,7 +75,12 @@ ná ← ná (invariable)
 
 svàr ← svàr- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य वो॒ ह्यव॑सा॒ पान्तो॑ दक्ष॒साध॑नम् ।  
+यः सू॒रिषु॒ श्रवो॑ बृ॒हद्द॒धे स्व१॒॑र्ण ह॑र्य॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “desirable; delightful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

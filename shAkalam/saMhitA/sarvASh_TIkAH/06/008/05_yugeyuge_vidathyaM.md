@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ vanínam ← vanín- (nominal stem)
 
 vr̥śca ← √vr̥śc- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒गेयु॑गे विद॒थ्यं॑ गृ॒णद्भ्योऽग्ने॑ र॒यिं य॒शसं॑ धेहि॒ नव्य॑सीम् ।  
+प॒व्येव॑ राजन्न॒घशं॑समजर नी॒चा नि वृ॑श्च व॒निनं॒ न तेज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     ferocity; power; edge; efficacy; ardor; authority.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

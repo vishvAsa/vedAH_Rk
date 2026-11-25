@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -60,7 +61,12 @@ gr̥hám ← gr̥há- (nominal stem)
 
 somínaḥ ← somín- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि वा॒मस्ति॑ दूर॒के यत्रा॒ रथे॑न॒ गच्छ॑थः ।  
+अश्वि॑ना सो॒मिनो॑ गृ॒हम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “house; palace; temple; home; place; family; family; stable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

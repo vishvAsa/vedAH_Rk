@@ -4,6 +4,7 @@ devataa = "इन्द्राबृहस्पती"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राबृहस्पती
@@ -51,7 +52,12 @@ mādáyethām ← √mad- (root)
 
 tádokasā ← tádokas- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोम॑मिन्द्राबृहस्पती॒ पिब॑तं दा॒शुषो॑ गृ॒हे ।  
+मा॒दये॑थां॒ तदो॑कसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +117,6 @@ _________
 - “home; house; oka \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

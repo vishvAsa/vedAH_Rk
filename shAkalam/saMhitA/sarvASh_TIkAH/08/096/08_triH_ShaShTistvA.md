@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ te ← tvám (pronoun)
 
 vidhema ← √vidh- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिः ष॒ष्टिस्त्वा॑ म॒रुतो॑ वावृधा॒ना उ॒स्रा इ॑व रा॒शयो॑ य॒ज्ञिया॑सः ।  
+उप॒ त्वेमः॑ कृ॒धि नो॑ भाग॒धेयं॒ शुष्मं॑ त ए॒ना ह॒विषा॑ विधेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “worship; offer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -266,10 +271,6 @@ We reverently approach you. Make a share for us. We would honor
 your unbridled force with this oblation.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although the med. pf. of √vṛdh is ordinarily intransitive or reflexive, vāvṛdhānā́ḥ is here best interpreted as transitive in the frame (“increasing you,” with tvā in a as obj.) but intransitive in the simile (“as ruddy throngs increase,” with the nominative NP usrā́iva rāśáyaḥ). See X.78.8 for a similar example of case disharmony.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -277,7 +278,6 @@ The da capo-like structure of the verses in this tṛca, with the first pāda re
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

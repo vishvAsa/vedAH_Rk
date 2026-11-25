@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "वशोश्व्यः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -82,7 +83,12 @@ devágopāḥ ← devágopā- (nominal stem)
 
 mádanti ← √mad- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं दा॒से ब॑ल्बू॒थे विप्र॒स्तरु॑क्ष॒ आ द॑दे ।  
+ते ते॑ वायवि॒मे जना॒ मद॒न्तीन्द्र॑गोपा॒ मद॑न्ति दे॒वगो॑पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “herder; defender.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

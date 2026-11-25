@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,14 @@ naḥ ← ahám (pronoun)
 
 svastí ← svastí- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒स्ति मि॑त्रावरुणा  
+स्व॒स्ति प॑थ्ये रेवति ।  
+स्व॒स्ति न॒ इन्द्र॑श् चा॒ग्निश् च॑  
+स्व॒स्ति नो॑ अदिते कृधि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +199,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -229,7 +236,6 @@ for us.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
 <details><summary><h2>11-15 ...{Loading}...</h2></summary>
 
@@ -239,7 +245,6 @@ Its lexical hero is svastí-, a form of which appears in every pāda between 11a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ vr̥ṇīṣva ← √vr̥- ~ vr̥̄- (root)
 
 yújyāya ← yújya- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒द्यश्चि॒न्नु ते म॑घवन्न॒भिष्टौ॒ नरः॑ शंसन्त्युक्थ॒शास॑ उ॒क्था ।  
+ये ते॒ हवे॑भि॒र्वि प॒णीँरदा॑शन्न॒स्मान्वृ॑णीष्व॒ युज्या॑य॒ तस्मै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     \[word\]; dative; once; same.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ sákhye ← sákhi- (nominal stem)
 
 váreṇyaḥ ← váreṇya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ हि ष्मा॑ सू॒नवे॑ पि॒तापिर्यज॑त्या॒पये॑ ।  
+सखा॒ सख्ये॒ वरे॑ण्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “excellent; desirable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "दुःस्वप्ननाशनम्"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दुःस्वप्ननाशनम्
@@ -63,7 +64,12 @@ tā́ ← sá- ~ tá- (pronoun)
 
 ubhā́ ← ubhá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॒ स्वप्न॑स्य॒ निर्वि॒देऽभु॑ञ्जतश्च रे॒वतः॑ ।  
+उ॒भा ता बस्रि॑ नश्यतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

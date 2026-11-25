@@ -5,13 +5,13 @@ RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
 - ऋषिः - दीर्घतमा औचथ्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -85,7 +85,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yā́ḥ ← yá- (pronoun)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा ते॑ वाजिन्नव॒मार्ज॑नानी॒मा श॒फानां॑ सनि॒तुर्नि॒धाना॑ ।  
+अत्रा॑ ते भ॒द्रा र॑श॒ना अ॑पश्यमृ॒तस्य॒ या अ॑भि॒रक्ष॑न्ति गो॒पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +204,6 @@ _________
 - “herder; defender.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -226,12 +230,6 @@ Here are (the waters?) to rub you down, o prizewinner, and here places  for the 
 Here I saw your good halters, over which the herdsmen of the truth  keep guard.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As in I.162.14 I take the -ana-nominals here (avamā́rjana- and nidhā́na-) as having trans./caus. value.
-
-
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/163/05-07.md">
 <details><summary><h2>05-07 ...{Loading}...</h2></summary>
 
@@ -239,7 +237,6 @@ Note the apaśyam ‘I saw’ in all three verses (5c, 6c, 7a): the poet bears w
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -264,8 +261,6 @@ Hier habe ich, o Ross, deine Striegel, hier neben dir die Tritte deiner Hufe erb
 Здесь я увидел твои несущие счастье поводья,  
 Которые охраняют пастырей закона.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

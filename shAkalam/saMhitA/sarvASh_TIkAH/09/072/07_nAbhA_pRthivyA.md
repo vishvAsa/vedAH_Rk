@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हरिमन्तः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ pavate ← √pū- (root)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाभा॑ पृथि॒व्या ध॒रुणो॑ म॒हो दि॒वो॒३॒॑ऽपामू॒र्मौ सिन्धु॑ष्व॒न्तरु॑क्षि॒तः ।  
+इन्द्र॑स्य॒ वज्रो॑ वृष॒भो वि॒भूव॑सुः॒ सोमो॑ हृ॒दे प॑वते॒ चारु॑ मत्स॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “intoxicant; invigorating; hostile.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

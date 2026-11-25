@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "अभितपाः सौर्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -104,7 +105,12 @@ sūrya ← sū́rya- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शं नो॑ भव॒ चक्ष॑सा॒ शं नो॒ अह्ना॒ शं भा॒नुना॒ शं हि॒मा शं घृ॒णेन॑ ।  
+यथा॒ शमध्व॒ञ्छमस॑द्दुरो॒णे तत्सू॑र्य॒ द्रवि॑णं धेहि चि॒त्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -271,7 +277,6 @@ _________
     painted; obvious; patched; bizarre.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रस्कण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ suvī́ryasya ← suvī́rya- (nominal stem)
 
 syāma ← √as- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इष्य॒न्वाच॑मुपव॒क्तेव॒ होतुः॑ पुना॒न इ॑न्दो॒ वि ष्या॑ मनी॒षाम् ।  
+इन्द्र॑श्च॒ यत्क्षय॑थः॒ सौभ॑गाय सु॒वीर्य॑स्य॒ पत॑यः स्याम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

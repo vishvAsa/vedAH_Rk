@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "संवरणः प्राजापत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sr̥jate ← √sr̥j- (root)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं यज्जनौ॑ सु॒धनौ॑ वि॒श्वश॑र्धसा॒ववे॒दिन्द्रो॑ म॒घवा॒ गोषु॑ शु॒भ्रिषु॑ ।  
+युजं॒ ह्य१॒॑न्यमकृ॑त प्रवेप॒न्युदीं॒ गव्यं॑ सृजते॒ सत्व॑भि॒र्धुनिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
 - “deafening; boisterous; noisy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

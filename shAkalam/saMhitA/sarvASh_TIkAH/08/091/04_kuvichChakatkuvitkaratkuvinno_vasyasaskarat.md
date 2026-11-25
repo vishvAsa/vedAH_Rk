@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अपालात्रेयी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ yatī́ḥ ← √i- 1 (root)
 
 saṁgámāmahai ← √gam- (root)  
 {number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कु॒विच्छक॑त्कु॒वित्कर॑त्कु॒विन्नो॒ वस्य॑स॒स्कर॑त् ।  
+कु॒वित्प॑ति॒द्विषो॑ य॒तीरिन्द्रे॑ण सं॒गमा॑महै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “meet; unite; love; connect; exist; land; justify.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

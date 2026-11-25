@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ kr̥ṇuhi ← √kr̥- (root)
 
 svadhvarā́ ← svadhvará- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॑ वा के॒शिना॑ यो॒ग्याभि॑र्घृत॒स्नुवा॒ रोहि॑ता धु॒रि धि॑ष्व ।  
+अथा व॑ह दे॒वान्दे॑व॒ विश्वा॑न्त्स्वध्व॒रा कृ॑णुहि जातवेदः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

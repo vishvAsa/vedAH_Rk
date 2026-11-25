@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ hí ← hí (invariable)
 
 strī́ ← strī́- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒धः प॑श्यस्व॒ मोपरि॑ सन्त॒रां पा॑द॒कौ ह॑र ।  
+मा ते॑ कशप्ल॒कौ दृ॑श॒न् स्त्री हि ब्र॒ह्मा ब॒भूवि॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -216,12 +221,6 @@ _________
 don’t let them see your two little “lips” [?].’ For you, a brahmin, have  turned into a woman!”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The poet returns in his own voice to mock the new model, by imitating in the first three pādas the speech of a mother to her little daughter, inculcating proper behavior. kaśaplakaú in c is a hapax, but its -ka- suffix suggests that it belongs to a low register (note also pādakaú in b) and the fact that it is in the dual limits its possible applications. Oldenberg suggests “weibl. Geschlechsteile” (though he moves on to breasts), and the fact that keeping one’s feet together keeps them from being seen makes the labia a good possibility.
-
-The poet then unleashes a devastating insult on his addressee, a brahman - that he has turned into a woman. I take this unfortunate figure to be the ritualist favoring the new model, and our poet is suggesting that too much association with and sympathy for women, too much emphasis on equality, will unman a man.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md">
 <details><summary><h2>16-19 ...{Loading}...</h2></summary>
 
@@ -231,7 +230,6 @@ These verses are extensively discussed by Oldenberg and Geldner, with Oldenberg 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

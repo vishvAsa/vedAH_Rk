@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ góbhiḥ ← gáv- ~ gó- (nominal stem)
 
 marmr̥jānáḥ ← √mr̥j- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॒ती जन॑स्य दि॒व्यस्य॑ क॒व्यैरधि॑ सुवा॒नो न॑हु॒ष्ये॑भि॒रिन्दुः॑ ।  
+प्र यो नृभि॑र॒मृतो॒ मर्त्ये॑भिर्मर्मृजा॒नोऽवि॑भि॒र्गोभि॑र॒द्भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

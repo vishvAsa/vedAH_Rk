@@ -4,6 +4,7 @@ devataa = "पर्जन्यः"
 RShiH = "वसिष्ठः कुमारो वाग्नेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पर्जन्यः
@@ -89,7 +90,12 @@ sadyás ← sadyás (invariable)
 
 vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒स्रो वाचः॒ प्र व॑द॒ ज्योति॑रग्रा॒ या ए॒तद्दु॒ह्रे म॑धुदो॒घमूधः॑ ।  
+स व॒त्सं कृ॒ण्वन्गर्भ॒मोष॑धीनां स॒द्यो जा॒तो वृ॑ष॒भो रो॑रवीति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “bellow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

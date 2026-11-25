@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुकीर्तिः काक्षीवतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ námovr̥ktim ← námovr̥kti- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कु॒विद॒ङ्ग यव॑मन्तो॒ यवं॑ चि॒द्यथा॒ दान्त्य॑नुपू॒र्वं वि॒यूय॑ ।  
+इ॒हेहै॑षां कृणुहि॒ भोज॑नानि॒ ये ब॒र्हिषो॒ नमो॑वृक्तिं॒ न ज॒ग्मुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

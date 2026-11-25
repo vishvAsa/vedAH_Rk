@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ vā́ryāṇi ← vā́rya- (nominal stem)
 
 vyūrṇuté ← √vr̥- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ दे॒वः स॑वि॒ता त्राय॑माणो॒ हिर॑ण्यपाणिर्यज॒तो ज॑गम्यात् ।  
+यो दत्र॑वाँ उ॒षसो॒ न प्रती॑कं व्यूर्णु॒ते दा॒शुषे॒ वार्या॑णि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “wealth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -223,10 +228,6 @@ God Savitar, who gives protection, should come hither to us—the  golden-palmed
 who, rich in gifts, like the face of Dawn discloses valuables to the pious.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Geldner and Renou, I take the simile uṣáso ná prátīkam as a nominative phrase, matching the subject Savitar. Since the dakṣiṇās are distributed at dawn and Dawn is therefore associated with munificence, her face (= her light) can be characterized as a discloser of valuables. However, it would also be grammatically possible to take it as acc., with Savitar disclosing valuables as if disclosing the face of Dawn, though I think this less likely.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md">
 <details><summary><h2>08-10 ...{Loading}...</h2></summary>
 
@@ -234,7 +235,6 @@ These three vss. contain a series of perfect optatives, jagamyāt (8b), vavṛty
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

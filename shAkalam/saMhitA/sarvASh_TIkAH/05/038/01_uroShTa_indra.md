@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ maṁhaya ← √maṁh- (root)
 
 sukṣatra ← sukṣatrá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रोष्ट॑ इन्द्र॒ राध॑सो वि॒भ्वी रा॒तिः श॑तक्रतो ।  
+अधा॑ नो विश्वचर्षणे द्यु॒म्ना सु॑क्षत्र मंहय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - \[verb\], singular, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -57,7 +57,11 @@ víśvasmai ← víśva- (nominal stem)
 
 yónau ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दु॒रोक॑शोचिः॒ क्रतु॒र्न नित्यो॑ जा॒येव॒ योना॒वरं॒ विश्व॑स्मै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -130,7 +134,6 @@ _________
     wholly.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -179,10 +182,6 @@ Dessen Flamme schwer heimisch wird, und doch ist er eingeboren wie die Einsicht,
 
 Nicht leicht entzündbar, – wie Kraft beständig, wie Frau im Hause – bereit für jeden; Hell, wenn er aufstrahlt – wie Licht in Häusern, wie goldner Wagen – in Schlachten eilend.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

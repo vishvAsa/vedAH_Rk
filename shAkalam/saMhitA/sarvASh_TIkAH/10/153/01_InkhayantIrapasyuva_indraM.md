@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रमातरो देवजामयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ bhejānā́saḥ ← √bhaj- (root)
 
 suvī́ryam ← suvī́rya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒ङ्खय॑न्तीरप॒स्युव॒ इन्द्रं॑ जा॒तमुपा॑सते ।  
+भे॒जा॒नासः॑ सु॒वीर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -117,7 +123,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

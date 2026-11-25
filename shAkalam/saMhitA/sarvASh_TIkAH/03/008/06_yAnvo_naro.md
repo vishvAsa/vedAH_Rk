@@ -4,6 +4,7 @@ devataa = "यूपाः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यूपाः
@@ -83,7 +84,12 @@ prajā́vat ← prajā́vant- (nominal stem)
 
 rátnam ← rátna- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यान्वो॒ नरो॑ देव॒यन्तो॑ निमि॒म्युर्वन॑स्पते॒ स्वधि॑तिर्वा त॒तक्ष॑ ।  
+ते दे॒वासः॒ स्वर॑वस्तस्थि॒वांसः॑ प्र॒जाव॑द॒स्मे दि॑धिषन्तु॒ रत्न॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     jewelry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

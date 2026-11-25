@@ -4,6 +4,7 @@ devataa = "पावमान्यध्येतृस्तुतिः"
 RShiH = "पवित्रो वसिष्ठो वोभौ वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पावमान्यध्येतृस्तुतिः
@@ -68,7 +69,12 @@ mātaríśvanā ← mātaríśvan- (nominal stem)
 
 svaditám ← √svad- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यः पा॑वमा॒नीर॒ध्येत्यृषि॑भिः॒ सम्भृ॑तं॒ रस॑म् ।  
+सर्वं॒ स पू॒तम॑श्नाति स्वदि॒तं मा॑त॒रिश्व॑ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - “wind; Mātariśvan; Vayu; vāta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -190,7 +195,6 @@ that one eats the whole purified (sap), sweetened by Mātariśvan.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">
 <details><summary><h2>31-32 ...{Loading}...</h2></summary>
 
@@ -199,7 +203,6 @@ On the import of these two vss., see published introduction. They are obviously 
 Commentary IX.68-114
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

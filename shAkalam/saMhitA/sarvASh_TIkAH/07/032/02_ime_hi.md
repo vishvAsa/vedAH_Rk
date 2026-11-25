@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ pā́dam ← pád- (nominal stem)
 
 ráthe ← rátha- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे हि ते॑ ब्रह्म॒कृतः॑ सु॒ते सचा॒ मधौ॒ न मक्ष॒ आस॑ते ।  
+इन्द्रे॒ कामं॑ जरि॒तारो॑ वसू॒यवो॒ रथे॒ न पाद॒मा द॑धुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

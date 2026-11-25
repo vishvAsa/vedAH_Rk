@@ -4,6 +4,7 @@ devataa = "वनस्पतिः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वनस्पतिः
@@ -62,7 +63,12 @@ bhrā́jamānam ← √bhrāj- (root)
 
 hiraṇyáyam ← hiraṇyáya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वन॒स्पतिं॑ पवमान॒ मध्वा॒ सम॑ङ्ग्धि॒ धार॑या ।  
+स॒हस्र॑वल्शं॒ हरि॑तं॒ भ्राज॑मानं हिर॒ण्यय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “gold; aureate; hiraṇyaya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

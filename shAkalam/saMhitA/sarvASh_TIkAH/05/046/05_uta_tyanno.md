@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिक्षत्र आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ váruṇaḥ ← váruṇa- (nominal stem)
 
 varūthyàm ← varūthyà- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्यन्नो॒ मारु॑तं॒ शर्ध॒ आ ग॑मद्दिविक्ष॒यं य॑ज॒तं ब॒र्हिरा॒सदे॑ ।  
+बृह॒स्पतिः॒ शर्म॑ पू॒षोत नो॑ यमद्वरू॒थ्यं१॒॑ वरु॑णो मि॒त्रो अ॑र्य॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “Aryaman; aryaman \[word\]; sun.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

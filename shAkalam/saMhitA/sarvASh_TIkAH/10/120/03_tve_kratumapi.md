@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहद्दिव आथर्वणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ sú ← sú (invariable)
 
 yodhīḥ ← √yudh- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे क्रतु॒मपि॑ वृञ्जन्ति॒ विश्वे॒ द्विर्यदे॒ते त्रिर्भव॒न्त्यूमाः॑ ।  
+स्वा॒दोः स्वादी॑यः स्वा॒दुना॑ सृजा॒ सम॒दः सु मधु॒ मधु॑ना॒भि यो॑धीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “fight; overcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

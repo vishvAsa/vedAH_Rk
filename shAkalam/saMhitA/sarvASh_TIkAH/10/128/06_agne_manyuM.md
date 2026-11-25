@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "विहव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ prabúdhām ← prabúdh- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ म॒न्युं प्र॑तिनु॒दन्परे॑षा॒मद॑ब्धो गो॒पाः परि॑ पाहि न॒स्त्वम् ।  
+प्र॒त्यञ्चो॑ यन्तु नि॒गुतः॒ पुन॒स्ते॒३॒॑ऽमैषां॑ चि॒त्तं प्र॒बुधां॒ वि ने॑शत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

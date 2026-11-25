@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ té ← sá- ~ tá- (pronoun)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये दे॑वासो दि॒व्येका॑दश॒ स्थ पृ॑थि॒व्यामध्येका॑दश॒ स्थ ।  
+अ॒प्सु॒क्षितो॑ महि॒नैका॑दश॒ स्थ ते दे॑वासो य॒ज्ञमि॒मं जु॑षध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

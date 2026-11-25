@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tūtot ← √tū- (root)
 
 yájamānasya ← √yaj- (root)  
 {case:GEN, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स वृ॑त्र॒हेन्द्रः॑ कृ॒ष्णयो॑नीः पुरन्द॒रो दासी॑रैरय॒द्वि ।  
+अज॑नय॒न्मन॑वे॒ क्षाम॒पश्च॑ स॒त्रा शंसं॒ यज॑मानस्य तूतोत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “strengthen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

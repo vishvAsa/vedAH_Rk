@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ jātavedaḥ ← jātávedas- (nominal stem)
 
 sā́dha ← √sādh- ~ sidh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था शर्धा॑य म॒रुता॑मृ॒ताय॑ क॒था सू॒रे बृ॑ह॒ते पृ॒च्छ्यमा॑नः ।  
+प्रति॑ ब्र॒वोऽदि॑तये तु॒राय॒ साधा॑ दि॒वो जा॑तवेदश्चिकि॒त्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “notice; observe; attend to; intend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -215,16 +220,6 @@ How (will you speak) to the troop of Maruts, for truth? How to the  lofty Sun? W
 (how) will you answer to Aditi, to powerful (Indra?)? Send (our  thought) to its goal, all the way to heaven—(you are) the observant  one, o Jātavedas.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although it is tempting to take ṛtā́ya as an adj. modifying śárdhāya (so, e.g., Geldner “der rechtwandelnden Schar,” sim. Witzel Gotō, Oldenberg SBE), the stem ṛtá- is overwhelmingly a neut. noun. It is possible, with Renou, to take it as an appositive with the Marut troop: “Ordre (incarné)” or, with Lüders (623), as a separate entity to whom Agni’s speech is directed, but I think it more likely that it is a dative of purpose, like (ya)kṣé in 6d, havirdé in 7b: “for truth,” that is, for the Maruts to attain or ascertain the truth.
-
-The masc. (/neut.) turā́ya cannot modify fem. áditaye (pace Oldenberg SBE). Geldner supplies “heaven”; Witzel Gotō suggest the sun. With Renou I opt tentatively for Indra, who is frequently modified by this adj. and who is otherwise absent from this fairly comprehensive list of important gods (see Geldner n. 8c). Brereton (Ādityas, 205-6) instead thinks turā́ya represents an Āditya, probably Varuṇa, and takes áditaye not as the name of the goddess but as a common noun ‘innocence’, with the dative phrase meaning “for the mighty one (=Varuṇa) to (ascertain our) innocence.” This assertion of innocence at the end of a series of questions about potential blame would set the stage for the request that Agni make our sacrifice succeed (pāda d). This suggestion is appealing, but I am not convinced that áditi- ever means ‘innocence’, and further in this sequence the purpose datives are only pāda-final, which áditaye is not.
-
-Pāda d poses some syntactic challenges. The first is that sā́dhā, by all accounts a 2nd sg. act. impv. to √sādh, has no expressed obj., though act. forms of this root are fundamentally tr. (but sometimes, esp. in the participle, used in absolute sense “assuring success”; cf. nearby IV.1.9). I supply dhíyam ‘thought’ vel sim. as the object, since forms of dhī́- or other words for thought/prayer are regularly construed with √sādh. The other problem is what to construe gen./abl. diváḥ with. (It cannot be acc. pl. because of the accent.) The standard solution has been to take it with cikitvā́n (e.g., Geldner “der du den Himmel kennst”), but as Renou points out, cikitvā́n is never otherwise construed with a gen. His solution is to supply an obj. for sā́dhā on which diváḥ is dependent: “Mène droit au but (les affaires) du ciel.” My interpr.
-
-requires a slight emendation, from sā́dhā diváḥ to *sā́dhā́diváḥ -- that is, sā́dha ā́ diváḥ, with ā́+ ABL in the meaning “all the way to.” Cf. I.92.17 yaú … ślókam ā́ diváḥ … cakráthuḥ “you two who made your signal-call (reach) all the way to heaven”; sim. III.61.4. See comm. ad locc. An asterisk should be inserted before “all the way.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
 <details><summary><h2>05-08 ...{Loading}...</h2></summary>
 
@@ -236,7 +231,6 @@ Although we might have expected the Sun here, because he serves as the Ādityas�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

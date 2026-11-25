@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ kartám ← kartá- (nominal stem)
 
 padāti ← √pad- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॒ तन्तु॒र्वित॑तः प॒वित्र॒ आ जि॒ह्वाया॒ अग्रे॒ वरु॑णस्य मा॒यया॑ ।  
+धीरा॑श्चि॒त्तत्स॒मिन॑क्षन्त आश॒तात्रा॑ क॒र्तमव॑ पदा॒त्यप्र॑भुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “powerless.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

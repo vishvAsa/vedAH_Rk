@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ ná ← ná (invariable)
 
 suṣṭúbhaḥ ← suṣṭúbh- (nominal stem)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रथा॑नां॒ न ये॒३॒॑ऽराः सना॑भयो जिगी॒वांसो॒ न शूरा॑ अ॒भिद्य॑वः ।  
+व॒रे॒यवो॒ न मर्या॑ घृत॒प्रुषो॑ऽभिस्व॒र्तारो॑ अ॒र्कं न सु॒ष्टुभः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

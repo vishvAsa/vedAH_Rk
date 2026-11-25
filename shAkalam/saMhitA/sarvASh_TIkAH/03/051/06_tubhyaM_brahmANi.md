@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vaso ← vásu- (nominal stem)
 
 váyaḥ ← váyas- 2 (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्यं॒ ब्रह्मा॑णि॒ गिर॑ इन्द्र॒ तुभ्यं॑ स॒त्रा द॑धिरे हरिवो जु॒षस्व॑ ।  
+बो॒ध्या॒३॒॑पिरव॑सो॒ नूत॑नस्य॒ सखे॑ वसो जरि॒तृभ्यो॒ वयो॑ धाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

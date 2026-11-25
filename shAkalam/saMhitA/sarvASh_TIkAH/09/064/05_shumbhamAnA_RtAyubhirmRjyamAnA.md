@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -51,7 +52,12 @@ pávante ← √pū- (root)
 
 vā́re ← vā́ra- 1 (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒म्भमा॑ना ऋता॒युभि॑र्मृ॒ज्यमा॑ना॒ गभ॑स्त्योः ।  
+पव॑न्ते॒ वारे॑ अ॒व्यये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -102,7 +108,6 @@ _________
 - “sheep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -129,7 +134,6 @@ Being beautified by those who seek truth, being groomed in the two hands, they p
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -137,7 +141,6 @@ No strong signs of unity. Vs. 4 does link to vs. 3 in the preceding tṛca throu
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

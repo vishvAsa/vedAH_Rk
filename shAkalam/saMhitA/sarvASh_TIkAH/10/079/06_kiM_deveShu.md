@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः सौचीको वैश्वानरो वा सप्तिर्वा वाजंभरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ parvaśás ← parvaśás (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किं दे॒वेषु॒ त्यज॒ एन॑श्चक॒र्थाग्ने॑ पृ॒च्छामि॒ नु त्वामवि॑द्वान् ।  
+अक्री॑ळ॒न्क्रीळ॒न्हरि॒रत्त॑वे॒ऽदन्वि प॑र्व॒शश्च॑कर्त॒ गामि॑वा॒सिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -259,7 +265,6 @@ _________
 - “sword; knife; knife.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

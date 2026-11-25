@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कलिः प्रगाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ déṣṭhaḥ ← déṣṭha- (nominal stem)
 
 sunvaté ← √su- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सचा॒ सोमे॑षु पुरुहूत वज्रिवो॒ मदा॑य द्युक्ष सोमपाः ।  
+त्वमिद्धि ब्र॑ह्म॒कृते॒ काम्यं॒ वसु॒ देष्ठः॑ सुन्व॒ते भुवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

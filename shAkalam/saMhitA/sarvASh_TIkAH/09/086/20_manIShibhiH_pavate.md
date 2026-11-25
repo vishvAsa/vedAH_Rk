@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ sakhyā́ya ← sakhyá- (nominal stem)
 
 vāyóḥ ← vāyú- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒नी॒षिभिः॑ पवते पू॒र्व्यः क॒विर्नृभि॑र्य॒तः परि॒ कोशाँ॑ अचिक्रदत् ।  
+त्रि॒तस्य॒ नाम॑ ज॒नय॒न्मधु॑ क्षर॒दिन्द्र॑स्य वा॒योः स॒ख्याय॒ कर्त॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -245,12 +250,6 @@ Engendering the name of Trita, he flows as honey, to create the
 partnership of Indra and Vāyu.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner interpr. pavate as a passive, with manīṣíbhiḥ as agent (“Von den Verständigen wird der allerste Seher geläutert”), but pávate is so insistently reflexive in the Soma maṇḍala that I strongly resist a passive here. Renou’s tr. is like mine, though he doesn’t comment.
-
-Trita is the ur-Soma presser. See disc. ad IX.37.4. Here, as Geldner (n. 20c) suggests, Soma re-creates him for the current pressing, to ensure that Indra and Vāyu will get their soma.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
@@ -258,7 +257,6 @@ No obvious signs of unity. The instr. manīṣíbhiḥ is found at the end of 19
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

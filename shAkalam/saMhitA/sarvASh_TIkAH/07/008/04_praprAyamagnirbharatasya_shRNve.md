@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ dyutānáḥ ← √dyut- (root)
 
 śuśoca ← √śuc- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रप्रा॒यम॒ग्निर्भ॑र॒तस्य॑ शृण्वे॒ वि यत्सूर्यो॒ न रोच॑ते बृ॒हद्भाः ।  
+अ॒भि यः पू॒रुं पृत॑नासु त॒स्थौ द्यु॑ता॒नो दैव्यो॒ अति॑थिः शुशोच ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “mourn; grieve; flame; glow; burn; repent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

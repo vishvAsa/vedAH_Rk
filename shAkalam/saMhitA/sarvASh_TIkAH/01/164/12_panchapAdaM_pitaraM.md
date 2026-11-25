@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ vicakṣaṇám ← vicakṣaṇá- (nominal stem)
 
 saptácakre ← saptácakra- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पञ्च॑पादं पि॒तरं॒ द्वाद॑शाकृतिं दि॒व आ॑हुः॒ परे॒ अर्धे॑ पुरी॒षिण॑म् ।  
+अथे॒मे अ॒न्य उप॑रे विचक्ष॒णं स॒प्तच॑क्रे॒ षळ॑र आहु॒रर्पि॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “shoot; give; direct; hide; put; insert.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

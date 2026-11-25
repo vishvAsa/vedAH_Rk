@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ mártasya ← márta- (nominal stem)
 
 sadhanitvám ← sadhanitvá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स चे॑तय॒न्मनु॑षो य॒ज्ञब॑न्धुः॒ प्र तं म॒ह्या र॑श॒नया॑ नयन्ति ।  
+स क्षे॑त्यस्य॒ दुर्या॑सु॒ साध॑न्दे॒वो मर्त॑स्य सधनि॒त्वमा॑प ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “enter (a state); get; reach; obtain; equal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

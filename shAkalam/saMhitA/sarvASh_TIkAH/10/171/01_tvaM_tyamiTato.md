@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इटो भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ hávam ← háva- (nominal stem)
 
 somínaḥ ← somín- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं त्यमि॒टतो॒ रथ॒मिन्द्र॒ प्रावः॑ सु॒ताव॑तः ।  
+अशृ॑णोः सो॒मिनो॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

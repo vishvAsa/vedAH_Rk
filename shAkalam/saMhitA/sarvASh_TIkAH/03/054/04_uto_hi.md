@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ vavandiré ← √vandⁱ- (root)
 
 vévidānāḥ ← √vid- 1 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒तो हि वां॑ पू॒र्व्या आ॑विवि॒द्र ऋता॑वरी रोदसी सत्य॒वाचः॑ ।  
+नर॑श्चिद्वां समि॒थे शूर॑सातौ ववन्दि॒रे पृ॑थिवि॒ वेवि॑दानाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - \[verb noun\], nominative, plural
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

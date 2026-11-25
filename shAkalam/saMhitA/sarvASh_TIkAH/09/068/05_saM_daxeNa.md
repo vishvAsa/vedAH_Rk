@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वत्सप्रिर्भालन्दनः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ némam ← néma- (nominal stem)
 
 údyatam ← √yam- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं दक्षे॑ण॒ मन॑सा जायते क॒विरृ॒तस्य॒ गर्भो॒ निहि॑तो य॒मा प॒रः ।  
+यूना॑ ह॒ सन्ता॑ प्रथ॒मं वि ज॑ज्ञतु॒र्गुहा॑ हि॒तं जनि॑म॒ नेम॒मुद्य॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “raise; prepare; begin; endeavor; specialize.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

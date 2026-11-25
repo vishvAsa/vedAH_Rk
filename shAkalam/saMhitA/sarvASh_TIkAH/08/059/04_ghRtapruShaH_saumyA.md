@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "सुपर्णः काण्वः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -80,7 +81,12 @@ tā́bhiḥ ← sá- ~ tá- (pronoun)
 
 yájamānāya ← √yaj- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घृ॒त॒प्रुषः॒ सौम्या॑ जी॒रदा॑नवः स॒प्त स्वसा॑रः॒ सद॑न ऋ॒तस्य॑ ।  
+या ह॑ वामिन्द्रावरुणा घृत॒श्चुत॒स्ताभि॑र्धत्तं॒ यज॑मानाय शिक्षतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “help; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

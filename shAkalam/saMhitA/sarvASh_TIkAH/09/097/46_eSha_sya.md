@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्य ते॑ पवत इन्द्र॒ सोम॑श्च॒मूषु॒ धीर॑ उश॒ते तव॑स्वान् ।  
+स्व॑र्चक्षा रथि॒रः स॒त्यशु॑ष्मः॒ कामो॒ न यो दे॑वय॒तामस॑र्जि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     use; be born; make.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -246,7 +251,6 @@ the charioteer having the eye of the sun, whose impetuosity is real, who  has be
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">
 <details><summary><h2>46-48 ...{Loading}...</h2></summary>
 
@@ -256,7 +260,6 @@ to the sun.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

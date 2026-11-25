@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ mahnā́ ← mahimán- (nominal stem)
 
 rájāṁsi ← rájas- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒र्मान्यद्वपु॑षे॒ वपु॑श्च॒क्रं रथ॑स्य येमथुः ।  
+पर्य॒न्या नाहु॑षा यु॒गा म॒ह्ना रजां॑सि दीयथः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - \[verb\], dual, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

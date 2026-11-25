@@ -4,6 +4,7 @@ devataa = "सूर्याविवाहः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्याविवाहः
@@ -77,7 +78,12 @@ kvà ← kvà (invariable)
 
 tasthathuḥ ← √sthā- (root)  
 {number:DU, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदया॑तं शुभस्पती वरे॒यं सू॒र्यामुप॑ ।  
+क्वैकं॑ च॒क्रं वा॑मासी॒त्क्व॑ दे॒ष्ट्राय॑ तस्थथुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

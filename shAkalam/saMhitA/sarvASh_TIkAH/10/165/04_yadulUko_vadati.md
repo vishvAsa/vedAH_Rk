@@ -4,6 +4,7 @@ devataa = "कपोपहतौ प्रायश्चित्तं वै�
 RShiH = "कपोतो नैऋतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कपोपहतौ प्रायश्चित्तं वैश्वदेवं
@@ -92,7 +93,12 @@ tásmai ← sá- ~ tá- (pronoun)
 
 yamā́ya ← yamá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदुलू॑को॒ वद॑ति मो॒घमे॒तद्यत्क॒पोतः॑ प॒दम॒ग्नौ कृ॒णोति॑ ।  
+यस्य॑ दू॒तः प्रहि॑त ए॒ष ए॒तत्तस्मै॑ य॒माय॒ नमो॑ अस्तु मृ॒त्यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “death; Yama; māraṇa; Mṛtyu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

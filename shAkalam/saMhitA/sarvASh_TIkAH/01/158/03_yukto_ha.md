@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ patáyadbhiḥ ← √pat- 1 (root)
 
 śū́raḥ ← śū́ra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒क्तो ह॒ यद्वां॑ तौ॒ग्र्याय॑ पे॒रुर्वि मध्ये॒ अर्ण॑सो॒ धायि॑ प॒ज्रः ।  
+उप॑ वा॒मवः॑ शर॒णं ग॑मेयं॒ शूरो॒ नाज्म॑ प॒तय॑द्भि॒रेवैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “eva \[word\]; habit; manner; behavior; custom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

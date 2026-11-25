@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ mahā́n ← mahā́nt- (nominal stem)
 
 rocanéna ← rocaná- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं त्वा॒ जना॑सो अ॒भि सं॒चर॑न्ति॒ गाव॑ उ॒ष्णमि॑व व्र॒जं य॑विष्ठ ।  
+दू॒तो दे॒वाना॑मसि॒ मर्त्या॑नाम॒न्तर्म॒हाँश्च॑रसि रोच॒नेन॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “light; celestial sphere.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

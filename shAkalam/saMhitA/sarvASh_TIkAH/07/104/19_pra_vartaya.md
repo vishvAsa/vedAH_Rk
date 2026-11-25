@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ párvatena ← párvata- (nominal stem)
 
 rakṣásaḥ ← rakṣás- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र व॑र्तय दि॒वो अश्मा॑नमिन्द्र॒ सोम॑शितं मघव॒न्त्सं शि॑शाधि ।  
+प्राक्ता॒दपा॑क्तादध॒रादुद॑क्ताद॒भि ज॑हि र॒क्षसः॒ पर्व॑तेन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     height.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

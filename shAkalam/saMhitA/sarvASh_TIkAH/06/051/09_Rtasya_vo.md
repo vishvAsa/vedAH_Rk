@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ víśvān ← víśva- (nominal stem)
 
 yajatrāḥ ← yájatra- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॑ वो र॒थ्यः॑ पू॒तद॑क्षानृ॒तस्य॑ पस्त्य॒सदो॒ अद॑ब्धान् ।  
+ताँ आ नमो॑भिरुरु॒चक्ष॑सो॒ नॄन्विश्वा॑न्व॒ आ न॑मे म॒हो य॑जत्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “adorable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

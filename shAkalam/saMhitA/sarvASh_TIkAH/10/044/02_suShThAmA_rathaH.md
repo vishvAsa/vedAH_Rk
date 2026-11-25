@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कृष्णः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ várdhāma ← √vr̥dh- (root)
 
 vŕ̥ṣṇyāni ← vŕ̥ṣṇya- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒ष्ठामा॒ रथः॑ सु॒यमा॒ हरी॑ ते मि॒म्यक्ष॒ वज्रो॑ नृपते॒ गभ॑स्तौ ।  
+शीभं॑ राजन्त्सु॒पथा या॑ह्य॒र्वाङ्वर्धा॑म ते प॒पुषो॒ वृष्ण्या॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “manfulness; virility.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

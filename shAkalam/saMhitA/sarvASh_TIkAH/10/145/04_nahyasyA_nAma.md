@@ -4,6 +4,7 @@ devataa = "उपनिषत्सपत्नीबाधनं"
 RShiH = "इन्द्राणी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उपनिषत्सपत्नीबाधनं
@@ -74,7 +75,12 @@ gamayāmasi ← √gam- (root)
 
 sapátnīm ← sapátnī- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒ह्य॑स्या॒ नाम॑ गृ॒भ्णामि॒ नो अ॒स्मिन्र॑मते॒ जने॑ ।  
+परा॑मे॒व प॑रा॒वतं॑ स॒पत्नीं॑ गमयामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “bring; spend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

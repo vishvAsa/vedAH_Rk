@@ -5,13 +5,13 @@ RShiH = "श्रुतिविदात्रेयः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
 - ऋषिः - श्रुतिविदात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -79,7 +79,12 @@ sahá ← sahá (invariable)
 
 sahásrasthūṇam ← sahásrasthūṇa- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अक्र॑विहस्ता सु॒कृते॑ पर॒स्पा यं त्रासा॑थे वरु॒णेळा॑स्व॒न्तः ।  
+राजा॑ना क्ष॒त्रमहृ॑णीयमाना स॒हस्र॑स्थूणं बिभृथः स॒ह द्वौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +214,6 @@ _________
 - “two; dvi \[word\]; second.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -263,8 +267,6 @@ Wen ihr mit Händen rein von Blut beschirmet, des Frommen Schutzherrn, Varuna, b
 О два царя, лишенные враждебности, вы несете  
 Власть на тысяче колонн, оба вместе.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

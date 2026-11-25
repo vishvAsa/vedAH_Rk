@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ sanutár ← sanutár (invariable)
 
 yuyota ← √yu- 2 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र यद्वह॑ध्वे मरुतः परा॒काद्यू॒यं म॒हः सं॒वर॑णस्य॒ वस्वः॑ ।  
+वि॒दा॒नासो॑ वसवो॒ राध्य॑स्या॒राच्चि॒द्द्वेषः॑ सनु॒तर्यु॑योत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “keep away; separate; ward off.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

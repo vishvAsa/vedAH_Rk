@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ ródasī ← ródasī- (nominal stem)
 
 vakṣi ← √vah- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒षा॒यन्ते॑ म॒हे अत्या॑य पू॒र्वीर्वृष्णे॑ चि॒त्राय॑ र॒श्मयः॑ सुया॒माः ।  
+देव॑ होतर्म॒न्द्रत॑रश्चिकि॒त्वान्म॒हो दे॒वान्रोद॑सी॒ एह व॑क्षि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

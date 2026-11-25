@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिक्षत्र आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ me ← ahám (pronoun)
 
 uruvyácāḥ ← uruvyácas- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्ये नः॒ पर्व॑तासः सुश॒स्तयः॑ सुदी॒तयो॑ न॒द्य१॒॑स्त्राम॑णे भुवन् ।  
+भगो॑ विभ॒क्ता शव॒साव॒सा ग॑मदुरु॒व्यचा॒ अदि॑तिः श्रोतु मे॒ हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

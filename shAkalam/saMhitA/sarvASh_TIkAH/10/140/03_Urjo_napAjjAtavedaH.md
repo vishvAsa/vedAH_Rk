@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः पावकः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ citrótayaḥ ← citróti- (nominal stem)
 
 vāmájātāḥ ← vāmájāta- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊर्जो॑ नपाज्जातवेदः सुश॒स्तिभि॒र्मन्द॑स्व धी॒तिभि॑र्हि॒तः ।  
+त्वे इषः॒ सं द॑धु॒र्भूरि॑वर्पसश्चि॒त्रोत॑यो वा॒मजा॑ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

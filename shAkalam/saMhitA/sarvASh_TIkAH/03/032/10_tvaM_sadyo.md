@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ kārúdhāyāḥ ← kārúdhāyas- (nominal stem)
 
 pūrvyáḥ ← pūrvyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं स॒द्यो अ॑पिबो जा॒त इ॑न्द्र॒ मदा॑य॒ सोमं॑ पर॒मे व्यो॑मन् ।  
+यद्ध॒ द्यावा॑पृथि॒वी आवि॑वेशी॒रथा॑भवः पू॒र्व्यः का॒रुधा॑याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “alimentary; sustaining.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

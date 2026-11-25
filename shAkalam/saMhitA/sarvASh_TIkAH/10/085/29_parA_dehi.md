@@ -4,6 +4,7 @@ devataa = "वधूवासःसंस्पर्शनिन्दा"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वधूवासःसंस्पर्शनिन्दा
@@ -77,7 +78,12 @@ pátim ← páti- (nominal stem)
 
 viśate ← √viś- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परा॑ देहि शामु॒ल्यं॑ ब्र॒ह्मभ्यो॒ वि भ॑जा॒ वसु॑ ।  
+कृ॒त्यैषा प॒द्वती॑ भू॒त्व्या जा॒या वि॑शते॒ पति॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

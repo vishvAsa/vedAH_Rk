@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ svàr ← svàr- (nominal stem)
 
 tanvántaḥ ← √tan- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्वां॑ पृ॒क्षासो॒ मधु॑मन्त ईरते॒ रथा॒ अश्वा॑स उ॒षसो॒ व्यु॑ष्टिषु ।  
+अ॒पो॒र्णु॒वन्त॒स्तम॒ आ परी॑वृतं॒ स्व१॒॑र्ण शु॒क्रं त॒न्वन्त॒ आ रजः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

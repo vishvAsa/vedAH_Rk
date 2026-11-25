@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -57,7 +57,11 @@ satyaíḥ ← satyá- (nominal stem)
 
 tastámbha ← √stambhⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒जो न क्षां दा॒धार॑ पृथि॒वीं त॒स्तम्भ॒ द्यां मन्त्रे॑भिः स॒त्यैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +127,6 @@ _________
 - “true; real; real; faithful; good.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -179,10 +182,6 @@ Wie der Ungeborene befestigt er den Erdboden; er hat den Himmel mit wahrhaften S
 
 Als ew'ger trug er – die Erd' als Wohnsitz, durch wahre Sprüche – den Himmel stützend, Die lieben Stätten – der Heerden schütze, alllabend Agni – durchschreit die Schluchten.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ sisrate ← √sr̥- 1 (root)
 
 vāyáve ← vāyú- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्थेष्विन्नु शू॑र॒ येषु॑ चा॒कन्स्तोमे॑ष्विन्द्र रु॒द्रिये॑षु च ।  
+तुभ्येदे॒ता यासु॑ मन्दसा॒नः प्र वा॒यवे॑ सिस्रते॒ न शु॒भ्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

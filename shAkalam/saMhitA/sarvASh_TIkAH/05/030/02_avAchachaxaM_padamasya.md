@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ bubudhānā́ḥ ← √budh- (root)
 
 náraḥ ← nár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवा॑चचक्षं प॒दम॑स्य स॒स्वरु॒ग्रं नि॑धा॒तुरन्वा॑यमि॒च्छन् ।  
+अपृ॑च्छम॒न्याँ उ॒त ते म॑ आहु॒रिन्द्रं॒ नरो॑ बुबुधा॒ना अ॑शेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -253,14 +258,6 @@ I spotted his track in secret; I followed the powerful track of the one who  lai
 I asked the others, and they said to me, “We men might attain Indra,  since we have wakened (early).”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Witzel Gotō take sasvár as ‘in sleep’, against the standard interpr. ‘in secret’, arguing that the latter does not make sense with bubudhānā́ḥ in d. But pāda d is not directly associated with pāda a, which, with b, compares the poet’s pursuit of Indra to the stealthy tracking behavior of a hunter. Moreover, the other three exx. of sasvár(tā) (in a tight knot in VII.58.5, 59.7, 60.10) clearly mean ‘in secret’, as opposed to ‘in the open’ (cf. the contrast in VII.58.5 with āvír ‘openly’). It is true that the standard etymology of sasvár takes it from √sas ‘sleep’ (see EWA s.v. SAS), but the semantic development to ‘in secret’ isn’t difficult to imagine -- esp. if Skt. √sas, which violates standard root structure constraints, was onomatopoetic for the shushing/hushing verbal gesture (English “shh,” etc.). From “keep quiet” to “keep secret” is a short step. Although √sas is clearly an inherited root, with cognates in Avestan and Anatolian, the onomatopoetic interpr. could be regularly (re-)actualized by association with the (near-universal?) living “shh” interjection.
-
-The position of anyā́n in b should, by my rules, make it definite (“the others”).
-
-Though both Geldner and Witzel Gotō render it as indefinite, there is no reason why it can’t be definite: the poet consults with his priestly/poetic colleagues or with those “who know” (vidváṃs-) Their answer, referring to “we men,” suggests that it is a defined group, quite possibly the priests performing the morning ritual. The action that qualifies them for attaining Indra -- waking up (early) -- is surely not simply reflecting a general sentiment like “the early bird gets the worm,” but refers to Indra’s attendance at the morning pressing; cf., e.g., IV.35.7 prātáḥ sutám apibo haryaśva “Early in the morning you drank the pressed (soma), you of the fallow bays.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -268,7 +265,6 @@ Note the reciprocal ‘seeking’ (ichán) of Indra (1c) and his devotee (2b).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "उर्वशी"
 RShiH = "पुरूरवा ऐळः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उर्वशी
@@ -89,7 +90,12 @@ máyaḥ ← máyas- (nominal stem)
 
 páratare ← páratara- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह॒ये जाये॒ मन॑सा॒ तिष्ठ॑ घोरे॒ वचां॑सि मि॒श्रा कृ॑णवावहै॒ नु ।  
+न नौ॒ मन्त्रा॒ अनु॑दितास ए॒ते मय॑स्कर॒न्पर॑तरे च॒नाह॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “day; day; ahar \[word\]; day; day.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

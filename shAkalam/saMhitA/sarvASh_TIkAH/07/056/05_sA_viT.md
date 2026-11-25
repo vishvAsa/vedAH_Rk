@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -55,7 +56,11 @@ sáhantī ← √sah- (root)
 
 sanā́t ← sanā́t (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सा विट् सु॒वीरा॑ म॒रुद्भि॑रस्तु स॒नात्सह॑न्ती॒ पुष्य॑न्ती नृ॒म्णम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +131,6 @@ _________
 - “manhood; power.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

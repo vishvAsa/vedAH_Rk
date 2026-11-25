@@ -4,6 +4,7 @@ devataa = "सदसस्पतिः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सदसस्पतिः
@@ -57,7 +58,12 @@ gachati ← √gam- (root)
 
 hótrā ← hótrā- 1 (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदृ॑ध्नोति ह॒विष्कृ॑तिं॒ प्राञ्चं॑ कृणोत्यध्व॒रम् ।  
+होत्रा॑ दे॒वेषु॑ गच्छति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

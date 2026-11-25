@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "स्वस्त्यात्रेयः"
 ChandaH = "जगती त्रिष्टुब्वा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,14 @@ naḥ ← ahám (pronoun)
 
 svastáye ← svastí- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒स्तये॑ वा॒युम् उप॑ ब्रवामहै॒  
+सोमं॑ स्व॒स्ति भुव॑नस्य॒ यस् पतिः॑ ।  
+बृह॒स्पतिं॒ सर्व॑गणं स्व॒स्तये॑  
+स्व॒स्तय॑ आदि॒त्यासो॑ भवन्तु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +214,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -233,10 +240,6 @@ For well-being we shall call upon Vāyu, on Soma; well-being (let him  mete out)
 On Br̥haspati with his whole flock (we shall call) for well-being. For  well-being let the Ādityas be there for us.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Bṛhaspati’s “whole flock” (bv. sárva-gaṇa-) may refer to the Aṅgirases. In any case note sárva- rather than the older víśva-, esp. notable in a Viśve Devāḥ hymn (though víśve devā́ḥ opens the next vs.).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/051/11-15.md">
 <details><summary><h2>11-15 ...{Loading}...</h2></summary>
 
@@ -246,7 +249,6 @@ Its lexical hero is svastí-, a form of which appears in every pāda between 11a
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

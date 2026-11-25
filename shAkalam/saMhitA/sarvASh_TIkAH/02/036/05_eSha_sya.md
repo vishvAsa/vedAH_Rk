@@ -4,6 +4,7 @@ devataa = "इन्द्रो नभश्च"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो नभश्च
@@ -95,7 +96,12 @@ tr̥pát ← tr̥pát (invariable)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष स्य ते॑ त॒न्वो॑ नृम्ण॒वर्ध॑नः॒ सह॒ ओजः॑ प्र॒दिवि॑ बा॒ह्वोर्हि॒तः ।  
+तुभ्यं॑ सु॒तो म॑घव॒न्तुभ्य॒माभृ॑त॒स्त्वम॑स्य॒ ब्राह्म॑णा॒दा तृ॒पत्पि॑ब ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

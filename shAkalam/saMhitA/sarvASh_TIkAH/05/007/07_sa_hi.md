@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ híriśmaśruḥ ← híriśmaśru- (nominal stem)
 
 r̥bhúḥ ← r̥bhú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि ष्मा॒ धन्वाक्षि॑तं॒ दाता॒ न दात्या प॒शुः ।  
+हिरि॑श्मश्रुः॒ शुचि॑दन्नृ॒भुरनि॑भृष्टतविषिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “strength; power.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

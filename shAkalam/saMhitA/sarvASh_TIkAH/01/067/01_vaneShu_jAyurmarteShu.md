@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -57,7 +57,11 @@ rā́jā ← rā́jan- (nominal stem)
 
 vr̥ṇīté ← √vr̥- ~ vr̥̄- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वने॑षु जा॒युर्मर्ते॑षु मि॒त्रो वृ॑णी॒ते श्रु॒ष्टिं राजे॑वाजु॒र्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -119,7 +123,6 @@ _________
 - “ageless; amaranthine.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -173,10 +176,6 @@ In den Hölzern Sieger, unter Menschen der Freund, beansprucht er wie der König
 
 In Hölzern siegreich, – ein Freund der Menschen heischt stets Gehorsam – er wie ein König, Wie Friede heilvoll, – wie Kraft voll Segen, als treuer Priester – die Opfer fahrend.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

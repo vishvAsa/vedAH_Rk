@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 vanatām ← √vanⁱ- (root)  
 {number:SG, person:3, mood:IMP, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒गव्यं॑ नो वा॒जी स्वश्व्यं॑ पुं॒सः पु॒त्राँ उ॒त वि॑श्वा॒पुषं॑ र॒यिम् ।  
+अ॒ना॒गा॒स्त्वं नो॒ अदि॑तिः कृणोतु क्ष॒त्रं नो॒ अश्वो॑ वनतां ह॒विष्मा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “sacrificing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

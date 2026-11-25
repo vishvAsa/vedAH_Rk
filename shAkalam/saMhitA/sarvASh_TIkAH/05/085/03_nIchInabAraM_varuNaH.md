@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -83,7 +84,12 @@ vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)
 
 yávam ← yáva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नी॒चीन॑बारं॒ वरु॑णः॒ कव॑न्धं॒ प्र स॑सर्ज॒ रोद॑सी अ॒न्तरि॑क्षम् ।  
+तेन॒ विश्व॑स्य॒ भुव॑नस्य॒ राजा॒ यवं॒ न वृ॒ष्टिर्व्यु॑नत्ति॒ भूम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “Earth; floor.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

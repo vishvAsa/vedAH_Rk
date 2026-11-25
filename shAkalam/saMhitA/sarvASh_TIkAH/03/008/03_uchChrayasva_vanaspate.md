@@ -4,6 +4,7 @@ devataa = "यूपः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यूपः
@@ -18,7 +19,8 @@ ChandaH = "अनुष्टुप्"
 सु᳓मिती मीय᳓मानो  
 व᳓र्चो धा यज्ञ᳓वाहसे
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 उच्छ्र॑यस्व वनस्पते ।   
 वर्ष्म॑न्पृथि॒व्या अधि॑ ।   
@@ -72,7 +74,12 @@ várcaḥ ← várcas- (nominal stem)
 
 yajñávāhase ← yajñavāhas- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उच्छ्र॑यस्व वनस्पते॒ वर्ष्म॑न्पृथि॒व्या अधि॑ ।  
+सुमि॑ती मी॒यमा॑नो॒ वर्चो॑ धा य॒ज्ञवा॑हसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +168,6 @@ _________
 - \[noun\], dative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -269,4 +275,3 @@ Erhebe du, o Waldesherr auf dieser Erde Fläche dicli, mit rechtem Mass gemessen
 
 भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसे वड इत्यादी वनस्पती मूळ, खोड, फांद्या इत्यादीने वाढतात, तसेच पुरुषार्थाने विद्येचा प्रचार करून माणसांना वाढविले पाहिजे. ॥ ३ ॥
 </details>
-

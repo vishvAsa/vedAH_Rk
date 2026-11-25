@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -75,7 +76,12 @@ te ← tvám (pronoun)
 
 vivakmi ← √vañc- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न ते॒ गिरो॒ अपि॑ मृष्ये तु॒रस्य॒ न सु॑ष्टु॒तिम॑सु॒र्य॑स्य वि॒द्वान् ।  
+सदा॑ ते॒ नाम॑ स्वयशो विवक्मि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

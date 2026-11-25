@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वव्रिरात्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ púram ← púr- (nominal stem)
 
 viviśuḥ ← √viś- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जु॒हु॒रे वि चि॒तय॒न्तोऽनि॑मिषं नृ॒म्णं पा॑न्ति ।  
+आ दृ॒ळ्हां पुरं॑ विविशुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

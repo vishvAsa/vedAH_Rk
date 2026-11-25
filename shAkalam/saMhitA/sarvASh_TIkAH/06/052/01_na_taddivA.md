@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ ní ← ní (invariable)
 
 yaṣṭā́ ← yaṣṭár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न तद्दि॒वा न पृ॑थि॒व्यानु॑ मन्ये॒ न य॒ज्ञेन॒ नोत शमी॑भिरा॒भिः ।  
+उ॒ब्जन्तु॒ तं सु॒भ्व१॑ः॒ पर्व॑तासो॒ नि ही॑यतामतिया॒जस्य॑ य॒ष्टा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “sacrificing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -282,14 +287,6 @@ Let the well-founded mountains crush him. Let the sacrificer of an
 excessive sacrifice be bent double.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The instr. of ab, in two semantic sets -- Heaven and Earth, sacrifice and ritual labors -- apparently are the entities that the speaker swears by.
-
-The vs., at least its 2nd hemistich, has a slangy feel -- with the unusual phonology of the root √ubj ‘crush’ and the lexeme ní √hā ‘be bent double’ (in my rendering), found elsewhere only in a curse in the Anhangslied VII.104.10.
-
-The agent noun yaṣṭár- seems like a potential candidate for the role of technical term for ‘Sacrificer’, which was rejected in favor of yájamāna-.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -297,7 +294,6 @@ It is unfortunately impossible to capture in Engl. the play between ánu √man 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

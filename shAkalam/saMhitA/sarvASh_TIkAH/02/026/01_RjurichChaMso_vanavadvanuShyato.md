@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -95,7 +96,12 @@ ví ← ví (invariable)
 
 yájvā ← yájvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒जुरिच्छंसो॑ वनवद्वनुष्य॒तो दे॑व॒यन्निददे॑वयन्तम॒भ्य॑सत् ।  
+सु॒प्रा॒वीरिद्व॑नवत्पृ॒त्सु दु॒ष्टरं॒ यज्वेदय॑ज्यो॒र्वि भ॑जाति॒ भोज॑नम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

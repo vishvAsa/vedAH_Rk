@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सारिसृक्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -101,7 +102,12 @@ vásavaḥ ← vásu- (nominal stem)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उत्ते॒ शुष्मा॑ जिहता॒मुत्ते॑ अ॒र्चिरुत्ते॑ अग्ने शशमा॒नस्य॒ वाजाः॑ ।  
+उच्छ्व॑ञ्चस्व॒ नि न॑म॒ वर्ध॑मान॒ आ त्वा॒द्य विश्वे॒ वस॑वः सदन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -68,7 +69,12 @@ huvé ← √hū- (root)
 
 tuvíṣṭamā ← tuvíṣṭama- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ह त्या पु॑रु॒भूत॑मा पु॒रू दंसां॑सि॒ बिभ्र॑ता ।  
+व॒र॒स्या या॒म्यध्रि॑गू हु॒वे तु॒विष्ट॑मा भु॒जे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

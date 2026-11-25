@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ mandráḥ ← mandrá- (nominal stem)
 
 r̥tā́vā ← ŕ̥tāvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒द्यो अ॑ध्व॒रे र॑थि॒रं ज॑नन्त॒ मानु॑षासो॒ विचे॑तसो॒ य ए॑षाम् ।  
+वि॒शाम॑धायि वि॒श्पति॑र्दुरो॒णे॒३॒॑ऽग्निर्म॒न्द्रो मधु॑वचा ऋ॒तावा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “law-abiding; faithful; righteous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

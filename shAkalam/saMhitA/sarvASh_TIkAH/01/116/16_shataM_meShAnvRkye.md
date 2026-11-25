@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ bhiṣajau ← bhiṣáj- (nominal stem)
 
 dasrā ← dasrá- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒तं मे॒षान्वृ॒क्ये॑ चक्षदा॒नमृ॒ज्राश्वं॒ तं पि॒तान्धं च॑कार ।  
+तस्मा॑ अ॒क्षी ना॑सत्या वि॒चक्ष॒ आध॑त्तं दस्रा भिषजावन॒र्वन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “unchallenged; unrivaled.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

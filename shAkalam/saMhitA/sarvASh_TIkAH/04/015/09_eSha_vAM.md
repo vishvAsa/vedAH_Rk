@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -57,7 +58,12 @@ dīrghā́yuḥ ← dīrghā́yuṣ- (nominal stem)
 
 sómakaḥ ← sómaka- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष वां॑ देवावश्विना कुमा॒रः सा॑हदे॒व्यः ।  
+दी॒र्घायु॑रस्तु॒ सोम॑कः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “Somaka.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

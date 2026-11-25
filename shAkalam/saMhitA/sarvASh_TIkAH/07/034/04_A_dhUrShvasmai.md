@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -55,7 +56,11 @@ ná ← ná (invariable)
 
 vajrī́ ← vajrín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ धू॒र्ष्व॑स्मै॒ दधा॒ताश्वा॒निन्द्रो॒ न व॒ज्री हिर॑ण्यबाहुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +131,6 @@ _________
 - “arm; bāhu \[word\]; elbow; forefoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -153,16 +157,6 @@ Put the horses to the chariot-poles for him.
 Golden-armed, he carries the mace like Indra.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The 2nd pl. subj. of dádhāta is unspecified, but is probably the priests / poets associated with the current sacrifice, who were referred to in the 1st pl. asmát in vs. 1. See vss. 5-6, where this identification is more explicit.
-
-Once again both Geldner and Renou take asmai as referring to the sacrifice. They also take the nominative(s) of the 2nd hemistich as coreferential with the subj. of the impv.
-
-dádhāta in a: in other words, “put the horses to the chariot pole, as Indra (does/did).” This seems unnec. Oldenberg’s view that the asmai refers to Savitar, who is then the subj.
-
-of the 2nd hemistich, is far more plausible. Although híraṇya-bāhu- is found only here in the RV, the very similar híraṇya-pāṇi- ‘having gold hands’ is used a number of times of Savitar, and the uncompounded phrase bāhū́… hiraṇyáyā is used of Savitar’s arms in nearby VII.45.2 (also VI.71.1, 5), as Oldenberg points out. Since Tvaṣṭar fashions the mace for Indra in I.32.2, calling him vajrín- here is perfectly sensible.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -170,7 +164,6 @@ Note the chiasmic verb sequence 4b dádhāta [… 5a sthāta] ... 5d tmánā hin
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ prá ← prá (invariable)
 
 svàrṇaram ← svàrṇara- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श॒ग्धी नो॑ अ॒स्य यद्ध॑ पौ॒रमावि॑थ॒ धिय॑ इन्द्र॒ सिषा॑सतः ।  
+श॒ग्धि यथा॒ रुश॑मं॒ श्याव॑कं॒ कृप॒मिन्द्र॒ प्रावः॒ स्व॑र्णरम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

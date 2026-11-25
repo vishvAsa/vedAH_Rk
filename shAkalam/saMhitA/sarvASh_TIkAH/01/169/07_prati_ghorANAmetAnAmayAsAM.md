@@ -5,13 +5,13 @@ RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
 - ऋषिः - अगस्त्यो मैत्रावरुणिः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -82,7 +82,12 @@ r̥ṇāvā́nam ← r̥ṇāván- (nominal stem)
 
 sárgaiḥ ← sárga- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ घो॒राणा॒मेता॑नाम॒यासां॑ म॒रुतां॑ शृण्व आय॒तामु॑प॒ब्दिः ।  
+ये मर्त्यं॑ पृतना॒यन्त॒मूमै॑रृणा॒वानं॒ न प॒तय॑न्त॒ सर्गैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -187,7 +192,6 @@ _________
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -243,8 +247,6 @@ Man hört den Lärm der wilden, muntern Schecken, der Marutscharen wenn zum Trun
 Которые налетают на воюющего смертного  
 Со своими спасительными отрядами, как (бросаются) на должника.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

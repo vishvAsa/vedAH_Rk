@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -92,7 +93,12 @@ tmánā ← tmán- (nominal stem)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वैश्वा॑नर॒ तव॒ धामा॒न्या च॑के॒ येभिः॑ स्व॒र्विदभ॑वो विचक्षण ।  
+जा॒त आपृ॑णो॒ भुव॑नानि॒ रोद॑सी॒ अग्ने॒ ता विश्वा॑ परि॒भूर॑सि॒ त्मना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “self.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

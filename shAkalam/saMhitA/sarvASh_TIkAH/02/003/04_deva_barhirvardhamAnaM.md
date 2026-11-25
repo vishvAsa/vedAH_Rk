@@ -4,6 +4,7 @@ devataa = "बर्हिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बर्हिः
@@ -86,7 +87,12 @@ víśve ← víśva- (nominal stem)
 
 yajñíyāsaḥ ← yajñíya- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+देव॑ बर्हि॒र्वर्ध॑मानं सु॒वीरं॑ स्ती॒र्णं रा॒ये सु॒भरं॒ वेद्य॒स्याम् ।  
+घृ॒तेना॒क्तं व॑सवः सीदते॒दं विश्वे॑ देवा आदित्या य॒ज्ञिया॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

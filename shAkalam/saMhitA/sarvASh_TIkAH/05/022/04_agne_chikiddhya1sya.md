@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वसामात्रेयः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -85,7 +86,12 @@ gīrbhíḥ ← gír- ~ gīr- (nominal stem)
 
 śumbhanti ← √śubh- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॑ चिकि॒द्ध्य१॒॑स्य न॑ इ॒दं वचः॑ सहस्य ।  
+तं त्वा॑ सुशिप्र दम्पते॒ स्तोमै॑र्वर्ध॒न्त्यत्र॑यो गी॒र्भिः शु॑म्भ॒न्त्यत्र॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “Atri; Atri; atri \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सदसस्पतिः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सदसस्पतिः
@@ -63,7 +64,12 @@ sá ← sá- ~ tá- (pronoun)
 
 yógam ← yóga- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मा॑दृ॒ते न सिध्य॑ति य॒ज्ञो वि॑प॒श्चित॑श्च॒न ।  
+स धी॒नां योग॑मिन्वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “bring; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

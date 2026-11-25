@@ -4,6 +4,7 @@ devataa = "सदसस्पतिर्नराशंसो वा"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सदसस्पतिर्नराशंसो वा
@@ -51,7 +52,12 @@ ná ← ná (invariable)
 
 sádmamakhasam ← sádmamakhas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नरा॒शंसं॑ सु॒धृष्ट॑म॒मप॑श्यं स॒प्रथ॑स्तमम् ।  
+दि॒वो न सद्म॑मखसम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -101,7 +107,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

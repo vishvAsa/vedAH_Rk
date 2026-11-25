@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -60,7 +60,11 @@ sūktaíḥ ← sūktá- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि क्ष॒पावाँ॑ अ॒ग्नी र॑यी॒णां दाश॒द्यो अ॑स्मा॒ अरं॑ सू॒क्तैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +136,6 @@ _________
 - “Mantra; hymn.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -193,10 +196,6 @@ Denn der Agni ist der Schirmherr der Reichtümer für den, der ihm mit schönen 
 
 Denn Agni ist ja – des Guts Beschirmer für den, der gerne – ihm dient mit Liedern; Beschütz', o weiser, – du diese Wesen, den Stamm der Götter – und Menschen kennend.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

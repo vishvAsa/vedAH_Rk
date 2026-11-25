@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -89,7 +90,12 @@ pári ← pári (invariable)
 
 vr̥jyām ← √vr̥j- 1 (root)  
 {number:SG, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒द्यामा॑दित्या॒ अव॑सो वो अ॒स्य यद॑र्यमन्भ॒य आ चि॑न्मयो॒भु ।  
+यु॒ष्माकं॑ मित्रावरुणा॒ प्रणी॑तौ॒ परि॒ श्वभ्रे॑व दुरि॒तानि॑ वृज्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - \[verb\], singular, Aorist optative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

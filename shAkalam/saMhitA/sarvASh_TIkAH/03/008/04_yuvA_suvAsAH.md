@@ -4,6 +4,7 @@ devataa = "यूपः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यूपः
@@ -86,7 +87,12 @@ mánasā ← mánas- (nominal stem)
 
 svādhyàḥ ← svādhī́- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+युवा॑ सु॒वासाः॒ परि॑वीत॒ आगा॒त्स उ॒ श्रेया॑न्भवति॒ जाय॑मानः ।  
+तं धीरा॑सः क॒वय॒ उन्न॑यन्ति स्वा॒ध्यो॒३॒॑ मन॑सा देव॒यन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

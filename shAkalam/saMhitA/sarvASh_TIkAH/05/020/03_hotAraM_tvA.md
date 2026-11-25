@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रयस्वन्त आत्रेयाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -65,7 +66,12 @@ havāmahe ← √hū- (root)
 
 práyasvantaḥ ← práyasvant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+होता॑रं त्वा वृणीम॒हेऽग्ने॒ दक्ष॑स्य॒ साध॑नम् ।  
+य॒ज्ञेषु॑ पू॒र्व्यं गि॒रा प्रय॑स्वन्तो हवामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

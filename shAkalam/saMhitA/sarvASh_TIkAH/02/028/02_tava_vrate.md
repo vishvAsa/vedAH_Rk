@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -77,7 +78,12 @@ járamāṇāḥ ← √gr̥- (root)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॑ व्र॒ते सु॒भगा॑सः स्याम स्वा॒ध्यो॑ वरुण तुष्टु॒वांसः॑ ।  
+उ॒पाय॑न उ॒षसां॒ गोम॑तीनाम॒ग्नयो॒ न जर॑माणा॒ अनु॒ द्यून् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

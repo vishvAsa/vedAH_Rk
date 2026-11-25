@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -54,7 +55,12 @@ medhásātā ← medhásāti- (nominal stem)
 
 saniṣyávaḥ ← saniṣyú- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता वां॑ गी॒र्भिर्वि॑प॒न्यवः॒ प्रय॑स्वन्तो हवामहे ।  
+मे॒धसा॑ता सनि॒ष्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “eager; plundering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -149,7 +154,6 @@ seeking to win at the contest for wisdom.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/094/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -159,7 +163,6 @@ and is object of a 1st ps. verb (havāmahe “we call upon you two”) -- thus e
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

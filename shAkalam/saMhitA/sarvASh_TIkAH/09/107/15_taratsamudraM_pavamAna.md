@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ prá ← prá (invariable)
 
 r̥tám ← r̥tá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तर॑त्समु॒द्रं पव॑मान ऊ॒र्मिणा॒ राजा॑ दे॒व ऋ॒तं बृ॒हत् ।  
+अर्ष॑न्मि॒त्रस्य॒ वरु॑णस्य॒ धर्म॑णा॒ प्र हि॑न्वा॒न ऋ॒तं बृ॒हत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
     strong; huge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -223,12 +228,6 @@ rushing according to the ordinance of Mitra and Varuṇa, being
 propelled—the lofty truth,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On Soma identified as “truth” (ṛtám), see IX.97.23, IX.108.8, and Lüders 581-82. Although ṛtáṃ bṛhát could be an acc. goal here, the parallels, esp. the identical pāda in the next hymn, IX.108.8, support a nom. identification. In IX.97.23-24 Soma is also identified as a king (rā́jā 24b) as here and as ‘possessing dhárman’ (dharmā́23c), reminiscent of dhármaṇā here.
-
-The Pp. analyses árṣan opening c as injunc. árṣat, while the published translation assumes a nom. sg. pres. part. árṣan. Either is of course possible, but the parallelism with vs. initial tárat may support the finite verb interpr., as Oldenberg points out. So an alt. tr. would be: “he rushes …” See Hoffmann (117) on this vs.; he is surely right that the two injunctives should receive the same interpr., rather than Renou’s indic. pres. tárat, modal árṣat, and Hoffmann’s “general” pres. interpr. seems apt here for both.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md">
 <details><summary><h2>14-16 ...{Loading}...</h2></summary>
 
@@ -236,7 +235,6 @@ Like vss. 1-3, this pragātha has a two-pāda addition (vs. 16), also 12 8. Both
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निरात्मा वा"
 RShiH = "आत्मा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरात्मा वा
@@ -89,7 +90,12 @@ havíḥ ← havís- (nominal stem)
 
 nā́ma ← nā́man- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर॑स्मि॒ जन्म॑ना जा॒तवे॑दा घृ॒तं मे॒ चक्षु॑र॒मृतं॑ म आ॒सन् ।  
+अ॒र्कस्त्रि॒धातू॒ रज॑सो वि॒मानोऽज॑स्रो घ॒र्मो ह॒विर॑स्मि॒ नाम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “by name; indeed; however; indeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नेमो भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ jaṅghanāva ← √han- (root)
 
 vr̥trā́ṇi ← vr̥trá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दधा॑मि ते॒ मधु॑नो भ॒क्षमग्रे॑ हि॒तस्ते॑ भा॒गः सु॒तो अ॑स्तु॒ सोमः॑ ।  
+अस॑श्च॒ त्वं द॑क्षिण॒तः सखा॒ मेऽधा॑ वृ॒त्राणि॑ जङ्घनाव॒ भूरि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -265,12 +270,6 @@ _________
 [Indra:] “I establish a draught of the honey for you at the beginning (of  the sacrifice). Let the pressed soma be established as your portion, and you will be my comrade on my right side. Then we two will keep  smashing obstacles in abundance.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner (followed by Klein, DGRV I.242, II.108) takes pāda c as a subordinated conditional clause with d, with the subordination marked by ca (i.e., “if you will be my comrade, then we will …”). This is certainly possible, but it is impossible to tell formally if c is subordinated to d or coordinated with b (as I take it) because the accent on the verb ásaḥ can result from its initial position. Perhaps in favor of the Geldner/Klein interpretation is the fact that both c and d contain subjunctives, while b has an imperative. On the other hand, in a related passage (also adduced by Geldner), the two expressions are parallel, not in a subordinate/main clause relation: X.83.7 … dakṣiṇató bhavā me, ádhā vṛtrā́ṇi jaṅghanāva bhū́ri “Be on my right side.
-
-Then we two will keep smiting obstacles in abundance.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -280,7 +279,6 @@ Oldenberg also considers it an Indra-Vāyu dialogue.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

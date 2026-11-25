@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भौमोत्रिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -77,7 +78,12 @@ tritáḥ ← tritá- (nominal stem)
 
 vā́ṇīḥ ← vā́ṇī- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑ग्नी॒ यमव॑थ उ॒भा वाजे॑षु॒ मर्त्य॑म् ।  
+दृ॒ळ्हा चि॒त्स प्र भे॑दति द्यु॒म्ना वाणी॑रिव त्रि॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - “Trita.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

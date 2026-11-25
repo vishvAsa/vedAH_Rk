@@ -4,6 +4,7 @@ devataa = "अक्षकितवनिन्दा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकितवनिन्दा
@@ -89,7 +90,12 @@ arodham ← √rudh- 1 (root)
 
 jāyā́m ← jāyā́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न मा॑ मिमेथ॒ न जि॑हीळ ए॒षा शि॒वा सखि॑भ्य उ॒त मह्य॑मासीत् ।  
+अ॒क्षस्या॒हमे॑कप॒रस्य॑ हे॒तोरनु॑व्रता॒मप॑ जा॒याम॑रोधम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     connect.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

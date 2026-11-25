@@ -4,6 +4,7 @@ devataa = "नराशंसः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नराशंसः
@@ -57,7 +58,12 @@ haviṣkŕ̥tam ← haviṣkŕ̥t- (nominal stem)
 
 mádhujihvam ← mádhujihva- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नरा॒शंस॑मि॒ह प्रि॒यम॒स्मिन्य॒ज्ञ उप॑ ह्वये ।  
+मधु॑जिह्वं हवि॒ष्कृत॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

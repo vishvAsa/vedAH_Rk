@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिभानुरात्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ vā́ryam ← vā́rya- (nominal stem)
 
 yátas ← yátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स जि॒ह्वया॒ चतु॑रनीक ऋञ्जते॒ चारु॒ वसा॑नो॒ वरु॑णो॒ यत॑न्न॒रिम् ।  
+न तस्य॑ विद्म पुरुष॒त्वता॑ व॒यं यतो॒ भगः॑ सवि॒ता दाति॒ वार्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “wealth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

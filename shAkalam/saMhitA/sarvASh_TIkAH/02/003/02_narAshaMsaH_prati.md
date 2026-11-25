@@ -4,6 +4,7 @@ devataa = "नराशंसः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नराशंसः
@@ -86,7 +87,12 @@ sám ← sám (invariable)
 
 yajñásya ← yajñá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नरा॒शंसः॒ प्रति॒ धामा॑न्य॒ञ्जन्ति॒स्रो दिवः॒ प्रति॑ म॒ह्ना स्व॒र्चिः ।  
+घृ॒त॒प्रुषा॒ मन॑सा ह॒व्यमु॒न्दन्मू॒र्धन्य॒ज्ञस्य॒ सम॑नक्तु दे॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

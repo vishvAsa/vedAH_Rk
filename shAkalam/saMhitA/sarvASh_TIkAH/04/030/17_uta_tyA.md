@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -54,7 +55,12 @@ apārayat ← √pr̥- (root)
 
 vidvā́n ← √vid- 2 (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त त्या तु॒र्वशा॒यदू॑ अस्ना॒तारा॒ शची॒पतिः॑ ।  
+इन्द्रो॑ वि॒द्वाँ अ॑पारयत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - “rescue; keep alive; satisfy; save; resist; endure.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,12 +161,6 @@ And these two, Turvaśa and Yadu, who could not swim, did the lord of  powers,
 the knowing Indra, bring to the far shore.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Witzel Gotō render asnātā́rā as “ohne dass sie untertauchen,” flg. Tichy (Nom.Ag.
-
-107). It seems to me to be pushing the syntax to render a negated agent noun as the equivalent of negative purpose clause (though in her comment Tichy simply says that it’s “gleichzeitig,” presumably with the time of the main verb), though it is also the case that we don’t know much if anything about swimming in ancient India.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details><summary><h2>08-21 ...{Loading}...</h2></summary>
 
@@ -169,7 +168,6 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

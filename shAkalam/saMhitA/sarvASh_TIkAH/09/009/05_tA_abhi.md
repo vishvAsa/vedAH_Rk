@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -66,7 +67,12 @@ táva ← tvám (pronoun)
 
 vraté ← vratá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता अ॒भि सन्त॒मस्तृ॑तं म॒हे युवा॑न॒मा द॑धुः ।  
+इन्दु॑मिन्द्र॒ तव॑ व्र॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -156,7 +162,6 @@ _________
     \[word\]; rule; behavior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -182,12 +187,6 @@ _________
 They installed the youth as dominating and indestructible for the great; they installed the drop, Indra, under your commandment.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. presents the same problem as 4c: because of init. tā́ḥ, nom. pl. fem., the subject of ā́dadhuḥ has to be feminine, and there are several pl. feminines in play: the “insightful thoughts” (dhītí-) of 4a and the rivers (nadī́-) of 4b. But which one (or both)? In any case, presumably the subjects of 4c and 5 are the same -- though Sāyaṇa opts for “fingers” in this vs. but “rivers” in 4c.
-
-The unspecified dat. (or with Renou loc.) mahé ‘for/in great …” has too many possibilities for its referent, and I have made no effort to choose one.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/009/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -195,7 +194,6 @@ As noted in the published introduction, I consider this an omphalos hymn, with v
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

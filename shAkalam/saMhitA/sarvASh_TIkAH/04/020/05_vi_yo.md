@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ puruhūtám ← puruhūtá- (nominal stem)
 
 vivakmi ← √vañc- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि यो र॑र॒प्श ऋषि॑भि॒र्नवे॑भिर्वृ॒क्षो न प॒क्वः सृण्यो॒ न जेता॑ ।  
+मर्यो॒ न योषा॑म॒भि मन्य॑मा॒नोऽच्छा॑ विवक्मि पुरुहू॒तमिन्द्र॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ kṣáyāya ← kṣáya- (nominal stem)
 
 mā́nuṣāya ← mā́nuṣa- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पृ॒थू रथो॒ दक्षि॑णाया अयो॒ज्यैनं॑ दे॒वासो॑ अ॒मृता॑सो अस्थुः ।  
+कृ॒ष्णादुद॑स्थाद॒र्या॒३॒॑ विहा॑या॒श्चिकि॑त्सन्ती॒ मानु॑षाय॒ क्षया॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “dwelling; house; kṣaya \[word\]; home; family.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

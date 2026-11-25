@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -74,7 +75,12 @@ sāsahvā́ṁsaḥ ← √sah- (root)
 
 yudhā́ ← yúdh- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ये वा॒यव॑ इन्द्र॒माद॑नास॒ आदे॑वासो नि॒तोश॑नासो अ॒र्यः ।  
+घ्नन्तो॑ वृ॒त्राणि॑ सू॒रिभिः॑ ष्याम सास॒ह्वांसो॑ यु॒धा नृभि॑र॒मित्रा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “enemy; foe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

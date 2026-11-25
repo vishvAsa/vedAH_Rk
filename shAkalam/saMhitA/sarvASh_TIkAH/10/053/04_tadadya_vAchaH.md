@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "अग्निः सौचीकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -86,7 +87,12 @@ máma ← ahám (pronoun)
 
 páñca ← páñca- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद॒द्य वा॒चः प्र॑थ॒मं म॑सीय॒ येनासु॑राँ अ॒भि दे॒वा असा॑म ।  
+ऊर्जा॑द उ॒त य॑ज्ञियासः॒ पञ्च॑ जना॒ मम॑ हो॒त्रं जु॑षध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

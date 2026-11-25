@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ saumanasā́ya ← saumanasá- (nominal stem)
 
 yája ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एह्य॑ग्न इ॒ह होता॒ नि षी॒दाद॑ब्धः॒ सु पु॑रए॒ता भ॑वा नः ।  
+अव॑तां त्वा॒ रोद॑सी विश्वमि॒न्वे यजा॑ म॒हे सौ॑मन॒साय॑ दे॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

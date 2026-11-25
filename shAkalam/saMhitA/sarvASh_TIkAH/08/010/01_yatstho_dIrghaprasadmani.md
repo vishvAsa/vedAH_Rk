@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ aśvinā ← aśvín- (nominal stem)
 
 yātam ← √yā- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्स्थो दी॒र्घप्र॑सद्मनि॒ यद्वा॒दो रो॑च॒ने दि॒वः ।  
+यद्वा॑ समु॒द्रे अध्याकृ॑ते गृ॒हेऽत॒ आ या॑तमश्विना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

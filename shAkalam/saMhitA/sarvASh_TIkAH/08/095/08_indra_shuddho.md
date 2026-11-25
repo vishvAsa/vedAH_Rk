@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ somyáḥ ← somyá- (nominal stem)
 
 śuddháḥ ← √śudh- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ शु॒द्धो न॒ आ ग॑हि शु॒द्धः शु॒द्धाभि॑रू॒तिभिः॑ ।  
+शु॒द्धो र॒यिं नि धा॑रय शु॒द्धो म॑मद्धि सो॒म्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “saumya.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -216,7 +221,6 @@ exhilarated as the one deserving of soma.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/095/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -224,7 +228,6 @@ See the introduction. for the curious density in this tṛca of the ppl. śuddh�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

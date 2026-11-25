@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ rájāṁsi ← rájas- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वां॑ निचे॒रुः क॑कु॒हो वशाँ॒ अनु॑ पि॒शङ्ग॑रूपः॒ सद॑नानि गम्याः ।  
+हरी॑ अ॒न्यस्य॑ पी॒पय॑न्त॒ वाजै॑र्म॒थ्ना रजां॑स्यश्विना॒ वि घोषैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     twang.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ tmánā ← tmán- (nominal stem)
 
 yádi ← yádi (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जेता॒ नृभि॒रिन्द्रः॑ पृ॒त्सु शूरः॒ श्रोता॒ हवं॒ नाध॑मानस्य का॒रोः ।  
+प्रभ॑र्ता॒ रथं॑ दा॒शुष॑ उपा॒क उद्य॑न्ता॒ गिरो॒ यदि॑ च॒ त्मना॒ भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

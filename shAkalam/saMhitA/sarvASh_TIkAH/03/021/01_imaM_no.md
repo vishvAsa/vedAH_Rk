@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ prá ← prá (invariable)
 
 prathamáḥ ← prathamá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं नो॑ य॒ज्ञम॒मृते॑षु धेही॒मा ह॒व्या जा॑तवेदो जुषस्व ।  
+स्तो॒काना॑मग्ने॒ मेद॑सो घृ॒तस्य॒ होतः॒ प्राशा॑न प्रथ॒मो नि॒षद्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “sit down; sit; put.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

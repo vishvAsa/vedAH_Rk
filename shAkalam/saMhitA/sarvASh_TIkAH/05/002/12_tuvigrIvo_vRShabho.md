@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कुमार आत्रेयो वृशो वा जान उभौ वा"
 ChandaH = "शक्वरी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -97,7 +98,12 @@ mánave ← mánu- (nominal stem)
 
 yaṁsat ← √yam- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तु॒वि॒ग्रीवो॑ वृष॒भो वा॑वृधा॒नो॑ऽश॒त्र्व१॒॑र्यः सम॑जाति॒ वेदः॑ ।  
+इती॒मम॒ग्निम॒मृता॑ अवोचन्ब॒र्हिष्म॑ते॒ मन॑वे॒ शर्म॑ यंसद्ध॒विष्म॑ते॒ मन॑वे॒ शर्म॑ यंसत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

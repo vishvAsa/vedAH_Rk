@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vr̥trahā́ ← vr̥trahán- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स सु॒क्रतू॒ रणि॑ता॒ यः सु॒तेष्वनु॑त्तमन्यु॒र्यो अहे॑व रे॒वान् ।  
+य एक॒ इन्नर्यपां॑सि॒ कर्ता॒ स वृ॑त्र॒हा प्रतीद॒न्यमा॑हुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -268,7 +274,6 @@ _________
     explain; say; define.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "वेनः"
 RShiH = "वेनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वेनः
@@ -89,7 +90,12 @@ vrā́ḥ ← vrā́- (nominal stem)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मु॒द्रादू॒र्मिमुदि॑यर्ति वे॒नो न॑भो॒जाः पृ॒ष्ठं ह॑र्य॒तस्य॑ दर्शि ।  
+ऋ॒तस्य॒ साना॒वधि॑ वि॒ष्टपि॒ भ्राट् स॑मा॒नं योनि॑म॒भ्य॑नूषत॒ व्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - \[noun\], nominative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

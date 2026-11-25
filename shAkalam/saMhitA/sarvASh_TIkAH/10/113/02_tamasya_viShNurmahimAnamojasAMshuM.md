@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शतप्रभेदनो वैरूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ váreṇyaḥ ← váreṇya- (nominal stem)
 
 vr̥trám ← vr̥trá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम॑स्य॒ विष्णु॑र्महि॒मान॒मोज॑सां॒शुं द॑ध॒न्वान्मधु॑नो॒ वि र॑प्शते ।  
+दे॒वेभि॒रिन्द्रो॑ म॒घवा॑ स॒याव॑भिर्वृ॒त्रं ज॑घ॒न्वाँ अ॑भव॒द्वरे॑ण्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “excellent; desirable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

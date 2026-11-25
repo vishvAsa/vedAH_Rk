@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "जरत्कर्ण ऐरावतः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -83,7 +84,12 @@ udbhídā ← udbhíd- (nominal stem)
 
 varivasyā́taḥ ← √varivasy- (root)  
 {number:DU, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ व॑ ऋञ्जस ऊ॒र्जां व्यु॑ष्टि॒ष्विन्द्रं॑ म॒रुतो॒ रोद॑सी अनक्तन ।  
+उ॒भे यथा॑ नो॒ अह॑नी सचा॒भुवा॒ सदः॑सदो वरिव॒स्यात॑ उ॒द्भिदा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “\_”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

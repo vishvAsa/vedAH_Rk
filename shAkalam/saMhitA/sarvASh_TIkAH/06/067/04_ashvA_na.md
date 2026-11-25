@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -92,7 +93,12 @@ ní ← ní (invariable)
 
 ripáve ← ripú- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वा॒ न या वा॒जिना॑ पू॒तब॑न्धू ऋ॒ता यद्गर्भ॒मदि॑ति॒र्भर॑ध्यै ।  
+प्र या महि॑ म॒हान्ता॒ जाय॑माना घो॒रा मर्ता॑य रि॒पवे॒ नि दी॑धः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     begin; dip.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

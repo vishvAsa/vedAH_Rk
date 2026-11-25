@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ padám ← padá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समी॒ रथं॒ न भु॒रिजो॑रहेषत॒ दश॒ स्वसा॑रो॒ अदि॑तेरु॒पस्थ॒ आ ।  
+जिगा॒दुप॑ ज्रयति॒ गोर॑पी॒च्यं॑ प॒दं यद॑स्य म॒तुथा॒ अजी॑जनन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

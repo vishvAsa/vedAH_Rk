@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ sá ← sá- ~ tá- (pronoun)
 
 tárat ← √tr̥̄- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ध्व॒स्रयोः॑ पुरु॒षन्त्यो॒रा स॒हस्रा॑णि दद्महे ।  
+तर॒त्स म॒न्दी धा॑वति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “run; run; wash.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -158,7 +163,6 @@ At (the hands of) Dhvasra and Puruṣanti we take thousands.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/058/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -171,7 +175,6 @@ For another pāda-initial form in -at that I take as a participle see disc. of b
 As to what Soma is crossing, it is most likely the waters (cf. ap-túr- IX.61.13, 63.5, 21), as suggested by Geldner, Renou, et al. - in this case perhaps the waters with which the stalk is swelled. Or, given IX.59.3b víśvāni duritā́tara in the immediately following hymn, it could be “all difficult passages.”
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "लुशो धानाकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sómaḥ ← sóma- (nominal stem)
 
 suvānáḥ ← √su- (root)  
 {case:NOM, gender:M, number:SG, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वस्पृ॑थि॒व्योरव॒ आ वृ॑णीमहे मा॒तॄन्त्सिन्धू॒न्पर्व॑ताञ्छर्य॒णाव॑तः ।  
+अ॒ना॒गा॒स्त्वं सूर्य॑मु॒षास॑मीमहे भ॒द्रं सोमः॑ सुवा॒नो अ॒द्या कृ॑णोतु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

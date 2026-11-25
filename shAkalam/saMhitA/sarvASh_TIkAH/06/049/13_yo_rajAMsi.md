@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ tánā ← tán- (nominal stem)
 
 tanvā̀ ← tanū́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो रजां॑सि विम॒मे पार्थि॑वानि॒ त्रिश्चि॒द्विष्णु॒र्मन॑वे बाधि॒ताय॑ ।  
+तस्य॑ ते॒ शर्म॑न्नुपद॒द्यमा॑ने रा॒या म॑देम त॒न्वा॒३॒॑ तना॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

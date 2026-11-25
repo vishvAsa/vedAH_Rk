@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -80,7 +81,12 @@ vr̥jánam ← vr̥jána- (nominal stem)
 
 yajñámanmā ← yajñámanman- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शंसा॑ मि॒त्रस्य॒ वरु॑णस्य॒ धाम॒ शुष्मो॒ रोद॑सी बद्बधे महि॒त्वा ।  
+अय॒न्मासा॒ अय॑ज्वनाम॒वीराः॒ प्र य॒ज्ञम॑न्मा वृ॒जनं॑ तिराते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

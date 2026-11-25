@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ samudráḥ ← samudrá- (nominal stem)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+के॒तुं कृ॒ण्वन्दि॒वस्परि॒ विश्वा॑ रू॒पाभ्य॑र्षसि ।  
+स॒मु॒द्रः सो॑म पिन्वसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “swell; swell; overflow; abound.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,12 +183,6 @@ Making a beacon, from heaven you rush toward all forms.
 O Soma, you swell as the sea.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As noted above, it’s quite possible, even likely, that the beacon in pāda a is a reference to the sun and therefore another assimilation of Soma to the Sun, as is more explicit in vss. 7 and 9. For the association between ketú- and the sun, cf., e.g., VII.63.2 ketúḥ … sū́ryasya. Lüders (702) suggests rather that the ketú- is lightning, without argument.
-
-Geldner renders b as “… rinnst du ... alle Farben annehmend”; similar Lüders (702) “strömst du vom Himmel her in alle Erscheinungsformen.” But the acc. with abhí √ṛṣ is always a goal (to choose just one example, cf. nearby IX.62.3 abhy àrṣanti suṣṭutím “they rush towards the lovely praise-hymn”), and I don’t see where (or why) they get their alternative interpr. By my interpr. the “all forms” to which the soma rushes could be the materials the soma will be mixed with (water, milk), or everything found on the ritual ground, or indeed everything on earth and in the midspace, the “all goods” of vs. 6.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -191,7 +190,6 @@ As just noted, pávamānasya in 7a chains with forms to the same stem in vss. 5 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

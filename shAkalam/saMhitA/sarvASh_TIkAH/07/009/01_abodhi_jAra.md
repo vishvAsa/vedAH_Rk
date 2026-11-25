@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ havyā́ ← havyá- (nominal stem)
 
 sukŕ̥tsu ← sukŕ̥t- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अबो॑धि जा॒र उ॒षसा॑मु॒पस्था॒द्धोता॑ म॒न्द्रः क॒वित॑मः पाव॒कः ।  
+दधा॑ति के॒तुमु॒भय॑स्य ज॒न्तोर्ह॒व्या दे॒वेषु॒ द्रवि॑णं सु॒कृत्सु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “devout; virtuous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

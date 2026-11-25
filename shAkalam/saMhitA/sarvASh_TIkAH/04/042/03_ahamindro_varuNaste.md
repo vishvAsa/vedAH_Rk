@@ -4,6 +4,7 @@ devataa = "त्रसदस्युः"
 RShiH = "त्रसदस्युः पौरुकुत्स्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्रसदस्युः
@@ -89,7 +90,12 @@ ródasī ← ródasī- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हमिन्द्रो॒ वरु॑ण॒स्ते म॑हि॒त्वोर्वी ग॑भी॒रे रज॑सी सु॒मेके॑ ।  
+त्वष्टे॑व॒ विश्वा॒ भुव॑नानि वि॒द्वान्त्समै॑रयं॒ रोद॑सी धा॒रयं॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

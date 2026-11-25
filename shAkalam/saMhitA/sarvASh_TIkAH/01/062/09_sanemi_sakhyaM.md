@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ róhiṇīṣu ← róhiṇī- (nominal stem)
 
 rúśat ← rúśant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सने॑मि स॒ख्यं स्व॑प॒स्यमा॑नः सू॒नुर्दा॑धार॒ शव॑सा सु॒दंसाः॑ ।  
+आ॒मासु॑ चिद्दधिषे प॒क्वम॒न्तः पयः॑ कृ॒ष्णासु॒ रुश॒द्रोहि॑णीषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “growing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

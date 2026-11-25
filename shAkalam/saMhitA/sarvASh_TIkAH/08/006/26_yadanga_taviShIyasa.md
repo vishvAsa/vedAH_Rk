@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -57,7 +58,12 @@ mahā́n ← mahā́nt- (nominal stem)
 
 ójasā ← ójas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒ङ्ग त॑विषी॒यस॒ इन्द्र॑ प्र॒राज॑सि क्षि॒तीः ।  
+म॒हाँ अ॑पा॒र ओज॑सा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -151,7 +156,6 @@ great and unbounded in your might,
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/26-27.md">
 <details><summary><h2>26-27 ...{Loading}...</h2></summary>
 
@@ -165,7 +169,6 @@ As often in the RV, I think some of the difficulties arise because two separate 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

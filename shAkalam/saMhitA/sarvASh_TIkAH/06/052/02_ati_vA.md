@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ dyaúḥ ← dyú- ~ div- (nominal stem)
 
 tám ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अति॑ वा॒ यो म॑रुतो॒ मन्य॑ते नो॒ ब्रह्म॑ वा॒ यः क्रि॒यमा॑णं॒ निनि॑त्सात् ।  
+तपूं॑षि॒ तस्मै॑ वृजि॒नानि॑ सन्तु ब्रह्म॒द्विष॑म॒भि तं शो॑चतु॒ द्यौः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -278,14 +283,6 @@ let his twisted (ways) be twisting, scorching (flames) for him. Let
 Heaven blaze at him who hates the formulation.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-nínitsāt is an unusual formation: a subjunctive to a desiderative. It may lend immediacy to the action, which is to be taken against a formulation that is being performed (note the pres. part. kriyámāṇam).
-
-Oldenberg, Geldner, and Renou all take vṛjinā́ni as a nominalized adjective (“seine Falschheiten,” etc.), modified by or identified with tápūṃṣi (e.g., Geldner “dem mögen seine Falschheiten zu Feuerflammen werden”), rather than simply as an adjective. It would be possible to tr. it adjectivally (“for him let there be twisting, scorching [flames]”). In the published translation I chose to render vṛjinā́ni both ways, as a nominalized adj.
-
-(‘twisted [ways]’) and as an adj. ‘twisting’ characterizing the flames. In this way the punishment fits the crime. Note that vṛjiná- was used twice in the preceding hymn, VI.51.2, 13.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -293,7 +290,6 @@ It is unfortunately impossible to capture in Engl. the play between ánu √man 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

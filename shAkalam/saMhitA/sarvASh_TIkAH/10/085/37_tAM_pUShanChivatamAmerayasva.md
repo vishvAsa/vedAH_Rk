@@ -4,6 +4,7 @@ devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्या
@@ -86,7 +87,12 @@ uśántaḥ ← √vaś- (root)
 
 yásyām ← yá- (pronoun)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तां पू॑षञ्छि॒वत॑मा॒मेर॑यस्व॒ यस्यां॒ बीजं॑ मनु॒ष्या॒३॒॑ वप॑न्ति ।  
+या न॑ ऊ॒रू उ॑श॒ती वि॒श्रया॑ते॒ यस्या॑मु॒शन्तः॑ प्र॒हरा॑म॒ शेप॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “penis.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

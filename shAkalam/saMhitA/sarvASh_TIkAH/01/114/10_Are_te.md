@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -101,7 +102,12 @@ naḥ ← ahám (pronoun)
 
 yacha ← √yam- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒रे ते॑ गो॒घ्नमु॒त पू॑रुष॒घ्नं क्षय॑द्वीर सु॒म्नम॒स्मे ते॑ अस्तु ।  
+मृ॒ळा च॑ नो॒ अधि॑ च ब्रूहि दे॒वाधा॑ च नः॒ शर्म॑ यच्छ द्वि॒बर्हाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -265,7 +271,6 @@ _________
 - “double.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

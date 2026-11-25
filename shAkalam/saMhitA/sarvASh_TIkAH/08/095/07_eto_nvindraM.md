@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ mamattu ← √mad- (root)
 
 śuddháḥ ← √śudh- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एतो॒ न्विन्द्रं॒ स्तवा॑म शु॒द्धं शु॒द्धेन॒ साम्ना॑ ।  
+शु॒द्धैरु॒क्थैर्वा॑वृ॒ध्वांसं॑ शु॒द्ध आ॒शीर्वा॑न्ममत्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -203,12 +208,6 @@ Legend from Śāṭyāyana **Brāhmaṇa**: Indra, after theslaughter of **Vṛt
 Come now! Let us praise Indra the cleansed with a cleansed sāman. Him grown strong through cleansed hymns let the cleansed (soma) with  its milk-mixture exhilarate.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Instead of Holland & van Nooten Rig Veda edition’s restoration nu índram (for nv índram), nú should of course be accented.
-
-VIII.95.7-8: These two vss. contain successive occurrences of the pf. act. impv. built to √mad: 3rd sg. mamattu (7d), 2nd sg. mamaddhi (8d). Despite their apparently parallel formation, they have distinct transitivity values: the 3rd sg. is transitive, the 2nd sg. not. This difference is consistent in the usage of the two forms: the other instance of mamaddhí (X.96.13) is also intransitive, the 10 of the other 11 occurrences of mamáttu are transitive (save for late X.59.2) The difference may have arisen from the fact that, while mamáttu is a properly formed impv. to the pf. of √mad with expected full grade of the root syllable, in the 2nd sg. we should expect zero grade, hence *ma-md-dhí, which would probably simplify to *mandhí, with the superficially unredupl. weak perfect stem mand-, which is reinterpreted as a secondary root. Hence mamaddhí must be secondarily formed. I do not understand why this would affect its valency, though.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/095/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -216,7 +215,6 @@ See the introduction. for the curious density in this tṛca of the ppl. śuddh�
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

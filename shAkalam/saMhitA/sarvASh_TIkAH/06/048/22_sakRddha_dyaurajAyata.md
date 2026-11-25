@@ -4,6 +4,7 @@ devataa = "पृश्निर्द्यावाभूमी वा"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पृश्निर्द्यावाभूमी वा
@@ -80,7 +81,12 @@ ná ← ná (invariable)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒कृद्ध॒ द्यौर॑जायत स॒कृद्भूमि॑रजायत ।  
+पृश्न्या॑ दु॒ग्धं स॒कृत्पय॒स्तद॒न्यो नानु॑ जायते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

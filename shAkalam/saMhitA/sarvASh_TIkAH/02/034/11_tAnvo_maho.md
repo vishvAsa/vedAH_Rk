@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 
 śáṁsyam ← śáṁsya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तान्वो॑ म॒हो म॒रुत॑ एव॒याव्नो॒ विष्णो॑रे॒षस्य॑ प्रभृ॒थे ह॑वामहे ।  
+हिर॑ण्यवर्णान्ककु॒हान्य॒तस्रु॑चो ब्रह्म॒ण्यन्तः॒ शंस्यं॒ राध॑ ईमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -239,10 +244,6 @@ With offering spoons extended, creating sacred formulations, we
 implore the prominent ones of golden hue for generosity worthy to  be proclaimed.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-See disc. in the published introduction. on this as the climactic vs. of the hymn -- both introducing unambiguous fire references and identifying Apām Napāt as the secret name of Agni.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/10-11.md">
 <details><summary><h2>10-11 ...{Loading}...</h2></summary>
 
@@ -250,7 +251,6 @@ The ends of the d pādas in these vss. are very similar: 10d … ánnam asmai, 1
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

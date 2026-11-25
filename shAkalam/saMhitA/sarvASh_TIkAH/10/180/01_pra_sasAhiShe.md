@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "जय ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ revátīnām ← revánt- (nominal stem)
 
 síndhūnām ← síndhu- (nominal stem)  
 {case:GEN, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स॑साहिषे पुरुहूत॒ शत्रू॒ञ्ज्येष्ठ॑स्ते॒ शुष्म॑ इ॒ह रा॒तिर॑स्तु ।  
+इन्द्रा भ॑र॒ दक्षि॑णेना॒ वसू॑नि॒ पतिः॒ सिन्धू॑नामसि रे॒वती॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “abundant; rich; affluent; brilliant; brilliant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

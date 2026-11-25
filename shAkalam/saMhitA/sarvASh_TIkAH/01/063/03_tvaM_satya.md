@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ sácā ← sácā (invariable)
 
 yū́ne ← yúvan- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं स॒त्य इ॑न्द्र धृ॒ष्णुरे॒तान्त्वमृ॑भु॒क्षा नर्य॒स्त्वं षाट् ।  
+त्वं शुष्णं॑ वृ॒जने॑ पृ॒क्ष आ॒णौ यूने॒ कुत्सा॑य द्यु॒मते॒ सचा॑हन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्टको वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ sūnŕ̥tābhiḥ ← sūnŕ̥ta- (nominal stem)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रणी॑तिभिष्टे हर्यश्व सु॒ष्टोः सु॑षु॒म्नस्य॑ पुरु॒रुचो॒ जना॑सः ।  
+मंहि॑ष्ठामू॒तिं वि॒तिरे॒ दधा॑नाः स्तो॒तार॑ इन्द्र॒ तव॑ सू॒नृता॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “liberality.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

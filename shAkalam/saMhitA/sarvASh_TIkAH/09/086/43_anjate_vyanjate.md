@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अत्रिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ hiraṇyapāvā́ḥ ← hiraṇyapāvá- (nominal stem)
 
 paśúm ← paśú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ञ्जते॒ व्य॑ञ्जते॒ सम॑ञ्जते॒ क्रतुं॑ रिहन्ति॒ मधु॑ना॒भ्य॑ञ्जते ।  
+सिन्धो॑रुच्छ्वा॒से प॒तय॑न्तमु॒क्षणं॑ हिरण्यपा॒वाः प॒शुमा॑सु गृभ्णते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     touch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,18 +253,6 @@ him, the ox flying in the burbling up of the river. (The waters,) who
 purify the gold (of soma), grasp the stock-animal within themselves.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich is striking with its series of identical verbs in pāda a, with pāda b ending with the same verb: añjáte vy àñjate sám añjate, … abhy àñjate.
-
-The first pāda lacks a syllable (rest at 4); as Oldenberg suggests, the metrical irregularity is most likely meant to call attention to the word play.
-
-Geldner, Renou, Lüders (239) take the various verbs as reflex., with Geldner (n. 43ab) taking the subj. as the soma-drinking singers and Renou as the waters. But though mid. √añj is probably more often reflex./pass. than trans., it can be the latter, and that makes more sense here. Cf., e.g., IX.97.57 sám añjate rūpám “they jointly anoint his form,” and recall the many times in this maṇḍala in which soma “is anointed,” using the true passive ajyáte (-se) (often as a pun with ‘is driven’ to √aj). See especially in the next tṛca of this hymn 47c góbhiḥ … samajyáse, in the same metrical position as sám añjate here. I supply the default Soma as obj. throughout the first hemistich; he is found as explicit (though metaphorical) obj. in the 2nd hemistich. As for the subj. of all these verbs, I agree with Renou that it is the waters.
-
-The “ox flying in the burbling up of the river” of pāda c is an ex. of the layers of metaphor just alluded to above: it compresses three different representations of Soma into a single image.
-
-I take the subj. of gṛbhṇate and referent of hiraṇya-pāvā́ḥ in d still to be the waters, with āsu functioning as reflexive. Renou explicitly changes his subj. here to “les hommes.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
 <details><summary><h2>43-45 ...{Loading}...</h2></summary>
 
@@ -267,7 +260,6 @@ This tṛca seems more artful than most of the other, with metaphor layered upon
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

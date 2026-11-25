@@ -4,6 +4,7 @@ devataa = "अग्निर्हवींषि वा"
 RShiH = "हर्यतः प्रागाथः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्हवींषि वा
@@ -57,7 +58,12 @@ rasā́ ← rasā́- (nominal stem)
 
 vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ सु॒ते सि॑ञ्चत॒ श्रियं॒ रोद॑स्योरभि॒श्रिय॑म् ।  
+र॒सा द॑धीत वृष॒भम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

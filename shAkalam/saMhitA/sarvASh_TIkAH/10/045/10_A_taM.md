@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वत्सप्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ jāténa ← √janⁱ- (root)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ तं भ॑ज सौश्रव॒सेष्व॑ग्न उ॒क्थौ॑क्थ॒ आ भ॑ज श॒स्यमा॑ने ।  
+प्रि॒यः सूर्ये॑ प्रि॒यो अ॒ग्ना भ॑वा॒त्युज्जा॒तेन॑ भि॒नद॒दुज्जनि॑त्वैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

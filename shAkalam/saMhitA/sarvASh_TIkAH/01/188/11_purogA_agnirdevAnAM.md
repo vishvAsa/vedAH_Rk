@@ -4,6 +4,7 @@ devataa = "स्वाहाकृतयः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वाहाकृतयः
@@ -54,7 +55,12 @@ rocate ← √ruc- (root)
 
 svā́hākr̥tīṣu ← svā́hākr̥ti- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒रो॒गा अ॒ग्निर्दे॒वानां॑ गाय॒त्रेण॒ सम॑ज्यते ।  
+स्वाहा॑कृतीषु रोचते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
 - “please; shine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

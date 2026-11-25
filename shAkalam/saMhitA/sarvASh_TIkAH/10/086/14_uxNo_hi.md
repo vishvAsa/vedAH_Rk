@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -91,7 +92,12 @@ ubhā́ ← ubhá- (pronoun)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्ष्णो हि मे॒ पञ्च॑दश सा॒कं पच॑न्ति विंश॒तिम् ।  
+उ॒ताहम॑द्मि॒ पीव॒ इदु॒भा कु॒क्षी पृ॑णन्ति मे॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -240,7 +245,7 @@ _________
 
 Indra, satisfied with the prospect of getting the oblations, describes his appetite: "Twenty and ffteen oxen are being cooked for me; I shall eat them and be fat. Both the sides of my belly will be filled up. Indra, &c." 
  
-The practice of sacrificing bulls to Indra seems to have been out of date even at the time of the R̥gveda (cf. i, 164. 43, where it is said to be an old custom). But the old custom could not be entirely forgotten, and if real bulls were not offered to Indra, poets supposed that clouds or stars might answer the same purpose. The number 35 mentioned in the verse may thus refer to the Nakṣatras (28), and planets (7). But this explanation is doubtful and I cannot suggest a better one. 
+The practice of sacrificing bulls to Indra seems to have been out of date even at the time of the R̥gveda (cf. i, 164. 43, where it is said to be an old custom). But the old custom could not be entirely forgotten, and if real bulls were not offered to Indra, poets supposed that clouds or stars might answer the same purpose. The number 35 mentioned in the verse may thus refer to the Nakṣatras (28), and planets (7). But this explanation is doubtful and I cannot suggest a better one.
 </details>
 
 <details><summary>Wilson</summary>

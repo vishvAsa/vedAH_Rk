@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sanáye ← saní- (nominal stem)
 
 sanitā́ ← sanitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शश्व॒दिन्द्रः॒ पोप्रु॑थद्भिर्जिगाय॒ नान॑दद्भिः॒ शाश्व॑सद्भि॒र्धना॑नि ।  
+स नो॑ हिरण्यर॒थं दं॒सना॑वा॒न्त्स नः॑ सनि॒ता स॒नये॒ स नो॑ऽदात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

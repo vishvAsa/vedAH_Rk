@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ savitā́ram ← savitár- (nominal stem)
 
 trātr̥̄́n ← trātár- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हु॒वे वो॑ दे॒वीमदि॑तिं॒ नमो॑भिर्मृळी॒काय॒ वरु॑णं मि॒त्रम॒ग्निम् ।  
+अ॒भि॒क्ष॒दाम॑र्य॒मणं॑ सु॒शेवं॑ त्रा॒तॄन्दे॒वान्त्स॑वि॒तारं॒ भगं॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

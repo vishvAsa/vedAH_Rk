@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेध्यातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ pūrváthā ← pūrváthā (invariable)
 
 stuvanti ← √stu- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्येदिन्द्रो॑ वावृधे॒ वृष्ण्यं॒ शवो॒ मदे॑ सु॒तस्य॒ विष्ण॑वि ।  
+अ॒द्या तम॑स्य महि॒मान॑मा॒यवोऽनु॑ ष्टुवन्ति पू॒र्वथा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

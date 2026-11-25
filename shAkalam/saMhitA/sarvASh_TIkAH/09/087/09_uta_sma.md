@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ táva ← tvám (pronoun)
 
 upaṣṭút ← UNK_ROOT (UNK_TYPE)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्म॑ रा॒शिं परि॑ यासि॒ गोना॒मिन्द्रे॑ण सोम स॒रथं॑ पुना॒नः ।  
+पू॒र्वीरिषो॑ बृह॒तीर्जी॑रदानो॒ शिक्षा॑ शचीव॒स्तव॒ ता उ॑प॒ष्टुत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - \[noun\], nominative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

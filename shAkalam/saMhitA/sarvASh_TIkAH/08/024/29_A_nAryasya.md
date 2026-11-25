@@ -4,6 +4,7 @@ devataa = "वरोः सौषाम्णस्य दानस्तुत�
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरोः सौषाम्णस्य दानस्तुतिः
@@ -63,7 +64,12 @@ sahásravat ← sahásravant- (nominal stem)
 
 sthūrám ← sthūrá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ना॒र्यस्य॒ दक्षि॑णा॒ व्य॑श्वाँ एतु सो॒मिनः॑ ।  
+स्थू॒रं च॒ राधः॑ श॒तव॑त्स॒हस्र॑वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - \[noun\], nominative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "आपः सोमो वा"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः सोमो वा
@@ -95,7 +96,12 @@ juhomi ← √hu- (root)
 
 saptá ← saptá- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्र॒प्सश्च॑स्कन्द प्रथ॒माँ अनु॒ द्यूनि॒मं च॒ योनि॒मनु॒ यश्च॒ पूर्वः॑ ।  
+स॒मा॒नं योनि॒मनु॑ सं॒चर॑न्तं द्र॒प्सं जु॑हो॒म्यनु॑ स॒प्त होत्राः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
 - “hotrā \[word\]; Hautra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

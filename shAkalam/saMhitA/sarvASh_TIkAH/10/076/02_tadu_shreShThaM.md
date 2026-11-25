@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "जरत्कर्ण ऐरावतः सर्पः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -95,7 +96,12 @@ tarute ← √tr̥̄- 1 (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तदु॒ श्रेष्ठं॒ सव॑नं सुनोत॒नात्यो॒ न हस्त॑यतो॒ अद्रिः॑ सो॒तरि॑ ।  
+वि॒दद्ध्य१॒॑र्यो अ॒भिभू॑ति॒ पौंस्यं॑ म॒हो रा॒ये चि॑त्तरुते॒ यदर्व॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “horse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

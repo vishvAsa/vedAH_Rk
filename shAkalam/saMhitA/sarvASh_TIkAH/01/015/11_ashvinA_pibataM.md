@@ -4,6 +4,7 @@ devataa = "ऋतवः अश्विनौ"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतवः अश्विनौ
@@ -51,7 +52,12 @@ r̥túnā ← r̥tú- (nominal stem)
 
 yajñavāhasā ← yajñavāhas- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वि॑ना॒ पिब॑तं॒ मधु॒ दीद्य॑ग्नी शुचिव्रता ।  
+ऋ॒तुना॑ यज्ञवाहसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +130,6 @@ _________
 - \[noun\], vocative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

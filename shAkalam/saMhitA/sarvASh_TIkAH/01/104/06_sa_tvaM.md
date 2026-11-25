@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ mahaté ← mahā́nt- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स त्वं न॑ इन्द्र॒ सूर्ये॒ सो अ॒प्स्व॑नागा॒स्त्व आ भ॑ज जीवशं॒से ।  
+मान्त॑रां॒ भुज॒मा री॑रिषो नः॒ श्रद्धि॑तं ते मह॒त इ॑न्द्रि॒याय॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
     penis; manfulness; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

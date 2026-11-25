@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "द्वितो मृक्तवाहा आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ márteṣu ← márta- (nominal stem)
 
 ráṇyati ← √ranⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒तर॒ग्निः पु॑रुप्रि॒यो वि॒शः स्त॑वे॒ताति॑थिः ।  
+विश्वा॑नि॒ यो अम॑र्त्यो ह॒व्या मर्ते॑षु॒ रण्य॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “rejoice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

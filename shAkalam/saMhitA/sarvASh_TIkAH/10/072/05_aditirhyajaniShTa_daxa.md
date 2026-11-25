@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -71,7 +72,12 @@ amŕ̥tabandhavaḥ ← amŕ̥tabandhu- (nominal stem)
 
 bhadrā́ḥ ← bhadrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अदि॑ति॒र्ह्यज॑निष्ट॒ दक्ष॒ या दु॑हि॒ता तव॑ ।  
+तां दे॒वा अन्व॑जायन्त भ॒द्रा अ॒मृत॑बन्धवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “relative; bandhu \[word\]; association; friend; kin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

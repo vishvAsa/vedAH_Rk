@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ pūrvī́ ← purú- (nominal stem)
 
 sūnŕ̥tāyai ← sūnŕ̥ta- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वोर्यदि॑ स॒ख्याया॒स्मे शर्धा॑य॒ स्तोमं॑ जुजु॒षे नम॑स्वान् ।  
+वि॒श्वत्र॒ यस्मि॒न्ना गिरः॑ समी॒चीः पू॒र्वीव॑ गा॒तुर्दाश॑त्सू॒नृता॑यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “liberality.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

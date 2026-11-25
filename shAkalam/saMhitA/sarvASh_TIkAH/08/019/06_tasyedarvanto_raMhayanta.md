@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ ná ← ná (invariable)
 
 naśat ← √naś- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्येदर्व॑न्तो रंहयन्त आ॒शव॒स्तस्य॑ द्यु॒म्नित॑मं॒ यशः॑ ।  
+न तमंहो॑ दे॒वकृ॑तं॒ कुत॑श्च॒न न मर्त्य॑कृतं नशत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “reach; achieve; enter (a state); reach.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

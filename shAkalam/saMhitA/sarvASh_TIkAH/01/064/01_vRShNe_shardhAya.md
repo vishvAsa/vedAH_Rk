@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ sám ← sám (invariable)
 
 vidátheṣu ← vidátha- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृष्णे॒ शर्धा॑य॒ सुम॑खाय वे॒धसे॒ नोधः॑ सुवृ॒क्तिं प्र भ॑रा म॒रुद्भ्यः॑ ।  
+अ॒पो न धीरो॒ मन॑सा सु॒हस्त्यो॒ गिरः॒ सम॑ञ्जे वि॒दथे॑ष्वा॒भुवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “assistant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

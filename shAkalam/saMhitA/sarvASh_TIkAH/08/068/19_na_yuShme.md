@@ -4,6 +4,7 @@ devataa = "ऋक्षाश्वमेधयोर्दानस्तुत
 RShiH = "प्रियमेध"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋक्षाश्वमेधयोर्दानस्तुतिः
@@ -57,7 +58,12 @@ avadyám ← avadyá- (nominal stem)
 
 dīdharat ← √dhr̥- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न यु॒ष्मे वा॑जबन्धवो निनि॒त्सुश्च॒न मर्त्यः॑ ।  
+अ॒व॒द्यमधि॑ दीधरत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
     begin; dip.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

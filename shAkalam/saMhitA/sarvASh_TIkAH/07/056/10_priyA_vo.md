@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -58,7 +59,11 @@ vāvaśānā́ḥ ← √vaś- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रि॒या वो॒ नाम॑ हुवे तु॒राणा॒मा यत्तृ॒पन्म॑रुतो वावशा॒नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +134,6 @@ _________
 - “desire; agree; call; care; like; love.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

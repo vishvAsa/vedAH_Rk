@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ svādhyàḥ ← svādhī́- (nominal stem)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सेमं नः॒ काम॒मा पृ॑ण॒ गोभि॒रश्वैः॑ शतक्रतो ।  
+स्तवा॑म त्वा स्वा॒ध्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - “longing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

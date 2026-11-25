@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ gamemahi ← √gam- (root)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदु॒स्रियाः॑ सृजते॒ सूर्यः॒ सचाँ॑ उ॒द्यन्नक्ष॑त्रमर्चि॒वत् ।  
+तवेदु॑षो॒ व्युषि॒ सूर्य॑स्य च॒ सं भ॒क्तेन॑ गमेमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "त्वष्टा"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्वष्टा
@@ -69,7 +70,12 @@ naḥ ← ahám (pronoun)
 
 yajñé-yajñe ← yajñá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शि॒वस्त्व॑ष्टरि॒हा ग॑हि वि॒भुः पोष॑ उ॒त त्मना॑ ।  
+य॒ज्ञेय॑ज्ञे न॒ उद॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

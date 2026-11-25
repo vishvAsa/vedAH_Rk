@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ vájrahastaḥ ← vájrahasta- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भी॒मो वि॑वे॒षायु॑धेभिरेषा॒मपां॑सि॒ विश्वा॒ नर्या॑णि वि॒द्वान् ।  
+इन्द्रः॒ पुरो॒ जर्हृ॑षाणो॒ वि दू॑धो॒द्वि वज्र॑हस्तो महि॒ना ज॑घान ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

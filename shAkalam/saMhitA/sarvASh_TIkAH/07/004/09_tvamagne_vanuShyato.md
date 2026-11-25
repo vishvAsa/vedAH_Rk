@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ sám ← sám (invariable)
 
 spr̥hayā́yyaḥ ← spr̥hayā́yya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने वनुष्य॒तो नि पा॑हि॒ त्वमु॑ नः सहसावन्नव॒द्यात् ।  
+सं त्वा॑ ध्वस्म॒न्वद॒भ्ये॑तु॒ पाथः॒ सं र॒यिः स्पृ॑ह॒याय्यः॑ सह॒स्री ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “thousandfold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

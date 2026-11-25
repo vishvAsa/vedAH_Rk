@@ -4,6 +4,7 @@ devataa = "विश्वे देवाः (विश्वैर्देव
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वे देवाः (विश्वैर्देवैः सहितोग्निः)
@@ -51,7 +52,12 @@ araṁkŕ̥taḥ ← araṁkŕ̥t- (nominal stem)
 
 havíṣmantaḥ ← havíṣmant- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ईळ॑ते॒ त्वाम॑व॒स्यवः॒ कण्वा॑सो वृ॒क्तब॑र्हिषः ।  
+ह॒विष्म॑न्तो अरं॒कृतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +113,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वत्सप्रिर्भालन्दनः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ parisrútam ← parisrút- (nominal stem)
 
 usríyāḥ ← usríya- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र दे॒वमच्छा॒ मधु॑मन्त॒ इन्द॒वोऽसि॑ष्यदन्त॒ गाव॒ आ न धे॒नवः॑ ।  
+ब॒र्हि॒षदो॑ वच॒नाव॑न्त॒ ऊध॑भिः परि॒स्रुत॑मु॒स्रिया॑ नि॒र्णिजं॑ धिरे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

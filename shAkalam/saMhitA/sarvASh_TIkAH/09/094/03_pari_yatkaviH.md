@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ purubhū́ṣu ← purubhū́- (nominal stem)
 
 rāyáḥ ← rayí- ~ rāy- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ यत्क॒विः काव्या॒ भर॑ते॒ शूरो॒ न रथो॒ भुव॑नानि॒ विश्वा॑ ।  
+दे॒वेषु॒ यशो॒ मर्ता॑य॒ भूष॒न्दक्षा॑य रा॒यः पु॑रु॒भूषु॒ नव्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “new.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

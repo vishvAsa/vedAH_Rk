@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सध्रिर्वैरूपो घर्मो वा तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -98,7 +99,12 @@ ní ← ní (invariable)
 
 svit ← svit (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कश्छन्द॑सां॒ योग॒मा वे॑द॒ धीरः॒ को धिष्ण्यां॒ प्रति॒ वाचं॑ पपाद ।  
+कमृ॒त्विजा॑मष्ट॒मं शूर॑माहु॒र्हरी॒ इन्द्र॑स्य॒ नि चि॑काय॒ कः स्वि॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -252,7 +258,6 @@ _________
 - “svid \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

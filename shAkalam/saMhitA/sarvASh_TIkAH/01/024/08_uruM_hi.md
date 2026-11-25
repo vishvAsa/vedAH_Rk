@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः | कृत्रिमो वैश्वामित्रो देवरातः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -83,7 +84,12 @@ hr̥dayāvídhaḥ ← hr̥dayāvídh- (nominal stem)
 
 utá ← utá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रुं हि राजा॒ वरु॑णश्च॒कार॒ सूर्या॑य॒ पन्था॒मन्वे॑त॒वा उ॑ ।  
+अ॒पदे॒ पादा॒ प्रति॑धातवेऽकरु॒ताप॑व॒क्ता हृ॑दया॒विध॑श्चित् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “even; indeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -267,7 +272,6 @@ King Varuna hath made a broad path
 For the sun to travel;  
 He hath made him set his feet in the pathless way;  
 He driveth away whatever woundeth the heart.
-
 </details>
 
 <details><summary>Geldner</summary>

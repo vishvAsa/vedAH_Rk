@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "कण्वो घौरः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ nú ← nú (invariable)
 
 rúdrāsaḥ ← rudrá- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न॒हि वः॒ शत्रु॑र्विवि॒दे अधि॒ द्यवि॒ न भूम्यां॑ रिशादसः ।  
+यु॒ष्माक॑मस्तु॒ तवि॑षी॒ तना॑ यु॒जा रुद्रा॑सो॒ नू चि॑दा॒धृषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “overcome; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

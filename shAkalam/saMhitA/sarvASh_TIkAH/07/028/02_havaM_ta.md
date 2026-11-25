@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ krátvā ← krátu- (nominal stem)
 
 sán ← √as- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हवं॑ त इन्द्र महि॒मा व्या॑न॒ड्ब्रह्म॒ यत्पासि॑ शवसि॒न्नृषी॑णाम् ।  
+आ यद्वज्रं॑ दधि॒षे हस्त॑ उग्र घो॒रः सन्क्रत्वा॑ जनिष्ठा॒ अषा॑ळ्हः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “invincible.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

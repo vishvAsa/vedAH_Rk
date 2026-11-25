@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ codáyantā ← √cud- (root)
 
 vr̥ṣaṇā ← vŕ̥ṣan- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋषिं॑ नरा॒वंह॑सः॒ पाञ्च॑जन्यमृ॒बीसा॒दत्रिं॑ मुञ्चथो ग॒णेन॑ ।  
+मि॒नन्ता॒ दस्यो॒रशि॑वस्य मा॒या अ॑नुपू॒र्वं वृ॑षणा चो॒दय॑न्ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “impel; drive; incite; command; drive; arouse; propel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

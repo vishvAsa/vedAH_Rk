@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शतं वैखानसाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ práyasvān ← práyasvant- (nominal stem)
 
 vicakṣaṇáḥ ← vicakṣaṇá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स म॑र्मृजा॒न आ॒युभिः॒ प्रय॑स्वा॒न्प्रय॑से हि॒तः ।  
+इन्दु॒रत्यो॑ विचक्ष॒णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -155,12 +160,6 @@ He, being constantly groomed by the Āyus, affording pleasure, is  established f
 the drop, a steed visible afar.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-hitáḥ in b could of course belong to √hi ‘impel’, though little would change if did.
-
-As it happens both Geldner and Renou also opt for √dhā here.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -172,7 +171,6 @@ The light imagery in this tṛca may pick up on the identification with Agni in 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

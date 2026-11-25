@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sahá ← sahá (invariable)
 
 sárasvatī ← sárasvant- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पावी॑रवी तन्य॒तुरेक॑पाद॒जो दि॒वो ध॒र्ता सिन्धु॒रापः॑ समु॒द्रियः॑ ।  
+विश्वे॑ दे॒वासः॑ शृणव॒न्वचां॑सि मे॒ सर॑स्वती स॒ह धी॒भिः पुरं॑ध्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “liberality; Puraṃdhi; munificence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

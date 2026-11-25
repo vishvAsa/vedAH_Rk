@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -80,7 +81,12 @@ sómam ← sóma- (nominal stem)
 
 súṣutam ← súṣuta- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॒ यदापो॒ अदृ॑श्रमाय॒तीर्घृ॒तं पयां॑सि॒ बिभ्र॑ती॒र्मधू॑नि ।  
+अ॒ध्व॒र्युभि॒र्मन॑सा संविदा॒ना इन्द्रा॑य॒ सोमं॒ सुषु॑तं॒ भर॑न्तीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ vŕ̥ṣan ← vŕ̥ṣan- (nominal stem)
 
 vr̥trahantama ← vr̥trahántama- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॑ त्वा॒ वृष॑णं हुवे॒ वज्रि॑ञ्चि॒त्राभि॑रू॒तिभिः॑ ।  
+वृष॑न्निन्द्र॒ वृष॑भिर्वृत्रहन्तम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -148,7 +154,6 @@ _________
 - “killing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

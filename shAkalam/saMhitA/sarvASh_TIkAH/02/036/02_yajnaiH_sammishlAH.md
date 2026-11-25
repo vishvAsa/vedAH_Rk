@@ -4,6 +4,7 @@ devataa = "मरुतो माधवश्च"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतो माधवश्च
@@ -89,7 +90,12 @@ potrā́t ← potrá- (nominal stem)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञैः सम्मि॑श्लाः॒ पृष॑तीभिरृ॒ष्टिभि॒र्याम॑ञ्छु॒भ्रासो॑ अ॒ञ्जिषु॑ प्रि॒या उ॒त ।  
+आ॒सद्या॑ ब॒र्हिर्भ॑रतस्य सूनवः पो॒त्रादा सोमं॑ पिबता दिवो नरः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ vā́cam ← vā́c- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वा॑नि दे॒वी भुव॑नाभि॒चक्ष्या॑ प्रती॒ची चक्षु॑रुर्वि॒या वि भा॑ति ।  
+विश्वं॑ जी॒वं च॒रसे॑ बो॒धय॑न्ती॒ विश्व॑स्य॒ वाच॑मविदन्मना॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “poetic; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -228,14 +233,6 @@ Awakening all life to activity, she has found the speech of every
 zealous one.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Unfortunately it is not possible to render the three fronted forms of víśva- (pādas a, c, d) in non-awkward English.
-
-cákṣuḥ in b can be either nom. or acc. Most tr. take it as the latter, with Dawn facing either the eye(s) of, presumably, humans (so Geldner [/Witzel Gotō], Renou) or the eye of the sun (so Macdonell [Hymns from the Rigveda], Maurer). The latter is unlikely on pragmatic grounds: although the eye of the sun is a standard trope in the RV (see in fact 11d), the sun rises after dawn, and Dawn surely wouldn’t be looking behind her, to the east. The former is certainly possible, but I prefer to take cákṣuḥ as nominative, referring to Dawn as an eye, since she has just been said to oversee (abhicákṣyā) all creatures.
-
-I’m not entirely sure what pāda d refers to, but perhaps it means that by dawning she has stimulated ritual speech and therefore “finds” it.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -243,7 +240,6 @@ vibhā́si (8c) and ví bhāti (9b) should have been rendered with the same Engl
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

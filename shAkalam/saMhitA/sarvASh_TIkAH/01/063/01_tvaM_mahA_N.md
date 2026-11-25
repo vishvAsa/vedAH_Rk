@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ kiráṇāḥ ← kiráṇa- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं म॒हाँ इ॑न्द्र॒ यो ह॒ शुष्मै॒र्द्यावा॑ जज्ञा॒नः पृ॑थि॒वी अमे॑ धाः ।  
+यद्ध॑ ते॒ विश्वा॑ गि॒रय॑श्चि॒दभ्वा॑ भि॒या दृ॒ळ्हासः॑ कि॒रणा॒ नैज॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -258,7 +264,6 @@ _________
 - “move; stir; tremble; travel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

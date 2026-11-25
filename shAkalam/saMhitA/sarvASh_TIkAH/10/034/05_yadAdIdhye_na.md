@@ -4,6 +4,7 @@ devataa = "अक्षकितवनिन्दा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकितवनिन्दा
@@ -92,7 +93,12 @@ jāríṇī ← jāríṇī- (nominal stem)
 
 niṣkr̥tám ← niṣkr̥tá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदा॒दीध्ये॒ न द॑विषाण्येभिः परा॒यद्भ्योऽव॑ हीये॒ सखि॑भ्यः ।  
+न्यु॑प्ताश्च ब॒भ्रवो॒ वाच॒मक्र॑तँ॒ एमीदे॑षां निष्कृ॒तं जा॒रिणी॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

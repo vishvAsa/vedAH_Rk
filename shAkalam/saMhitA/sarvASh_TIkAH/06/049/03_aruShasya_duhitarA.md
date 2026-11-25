@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ r̥cyámāne ← √r̥c- (root)
 
 śrutám ← √śru- (root)  
 {case:ACC, gender:N, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒रु॒षस्य॑ दुहि॒तरा॒ विरू॑पे॒ स्तृभि॑र॒न्या पि॑पि॒शे सूरो॑ अ॒न्या ।  
+मि॒थ॒स्तुरा॑ वि॒चर॑न्ती पाव॒के मन्म॑ श्रु॒तं न॑क्षत ऋ॒च्यमा॑ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “sing; worship; honor; praise; welcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुष्टिगुः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ hariśríyam ← hariśrī́- (nominal stem)
 
 máyi ← ahám (pronoun)  
 {case:LOC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॒ कण्वे॑ मघव॒न्मेधे॑ अध्व॒रे दी॒र्घनी॑थे॒ दमू॑नसि ।  
+यथा॒ गोश॑र्ये॒ असि॑षासो अद्रिवो॒ मयि॑ गो॒त्रं ह॑रि॒श्रिय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
     \[word\]; śrī; prosperity; auspiciousness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

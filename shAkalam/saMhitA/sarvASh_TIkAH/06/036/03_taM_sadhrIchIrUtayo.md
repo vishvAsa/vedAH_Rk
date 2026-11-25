@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ uruvyácasam ← uruvyácas- (nominal stem)
 
 viśanti ← √viś- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं स॒ध्रीची॑रू॒तयो॒ वृष्ण्या॑नि॒ पौंस्या॑नि नि॒युतः॑ सश्चु॒रिन्द्र॑म् ।  
+स॒मु॒द्रं न सिन्ध॑व उ॒क्थशु॑ष्मा उरु॒व्यच॑सं॒ गिर॒ आ वि॑शन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -200,7 +206,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

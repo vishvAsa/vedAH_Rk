@@ -4,6 +4,7 @@ devataa = "अग्निः सौचीकः"
 RShiH = "देवाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सौचीकः
@@ -86,7 +87,12 @@ havíṣaḥ ← havís- (nominal stem)
 
 sujāta ← sujātá- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कु॒र्मस्त॒ आयु॑र॒जरं॒ यद॑ग्ने॒ यथा॑ यु॒क्तो जा॑तवेदो॒ न रिष्याः॑ ।  
+अथा॑ वहासि सुमन॒स्यमा॑नो भा॒गं दे॒वेभ्यो॑ ह॒विषः॑ सुजात ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ táva ← tvám (pronoun)
 
 yaviṣṭhya ← yáviṣṭhya- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं त्वा॒ मर्ता॑ अगृभ्णत दे॒वेभ्यो॑ हव्यवाहन ।  
+विश्वा॒न्यद्य॒ज्ञाँ अ॑भि॒पासि॑ मानुष॒ तव॒ क्रत्वा॑ यविष्ठ्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “youngest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

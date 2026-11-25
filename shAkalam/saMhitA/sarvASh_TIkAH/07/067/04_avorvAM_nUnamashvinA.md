@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ píbāthaḥ ← √pā- 2 (root)
 
 súṣutā ← súṣuta- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒वोर्वां॑ नू॒नम॑श्विना यु॒वाकु॑र्हु॒वे यद्वां॑ सु॒ते मा॑ध्वी वसू॒युः ।  
+आ वां॑ वहन्तु॒ स्थवि॑रासो॒ अश्वाः॒ पिबा॑थो अ॒स्मे सुषु॑ता॒ मधू॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

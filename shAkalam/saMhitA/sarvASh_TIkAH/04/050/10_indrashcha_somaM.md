@@ -4,6 +4,7 @@ devataa = "इन्द्राबृहस्पती"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राबृहस्पती
@@ -89,7 +90,12 @@ sárvavīram ← sárvavīra- (nominal stem)
 
 yachatam ← √yam- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑श्च॒ सोमं॑ पिबतं बृहस्पते॒ऽस्मिन्य॒ज्ञे म॑न्दसा॒ना वृ॑षण्वसू ।  
+आ वां॑ विश॒न्त्विन्द॑वः स्वा॒भुवो॒ऽस्मे र॒यिं सर्व॑वीरं॒ नि य॑च्छतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -258,7 +263,6 @@ consisting of hale heroes.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -266,7 +270,6 @@ This last section consisting of two vss. introduces Indra by name for the first 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

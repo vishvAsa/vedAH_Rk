@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ svā́yām ← svá- (pronoun)
 
 tvíṣim ← tvíṣi- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हे यत्पि॒त्र ईं॒ रसं॑ दि॒वे करव॑ त्सरत्पृश॒न्य॑श्चिकि॒त्वान् ।  
+सृ॒जदस्ता॑ धृष॒ता दि॒द्युम॑स्मै॒ स्वायां॑ दे॒वो दु॑हि॒तरि॒ त्विषिं॑ धात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

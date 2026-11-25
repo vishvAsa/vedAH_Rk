@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -65,7 +66,12 @@ ní ← ní (invariable)
 
 svāpayāmasi ← √svap- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒हस्र॑शृङ्गो वृष॒भो यः स॑मु॒द्रादु॒दाच॑रत् ।  
+तेना॑ सह॒स्ये॑ना व॒यं नि जना॑न्त्स्वापयामसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “put to sleep.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

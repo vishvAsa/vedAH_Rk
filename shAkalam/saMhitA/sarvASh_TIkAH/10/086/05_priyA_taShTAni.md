@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -88,7 +89,12 @@ sugám ← sugá- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रि॒या त॒ष्टानि॑ मे क॒पिर्व्य॑क्ता॒ व्य॑दूदुषत् ।  
+शिरो॒ न्व॑स्य राविषं॒ न सु॒गं दु॒ष्कृते॑ भुवं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -235,7 +240,7 @@ Sāyaṇa is literally correct, but again misses the spirit, or rather has misse
 
 [^†]: The word in the original is taṣṭāni, which literally means made, shaped, &c. Mādhava Bhaṭṭa understands it to mean oblations offered to Indraṇī. I translate it by things generally. Whatever meaning we may adopt, it is quite evident that the Kapi's interfering with them has offended lndrāṇī.
 
-Here Indrāṇī is herself prepared to punish Vr̥ṣākapi by setting the dog at his ear, and cutting off his head. I have in a previous chapter shown how the figure of Mr̥ga's head is to be obtained in the sky. Taking the three stars in the belt of Orion as the top of the head, the dog is close by the right ear of Mr̥ga and may properly be said to bite it. The word varāha also points out the place where we may expect to find the dog. In Rig. i. 61.7, varāha is said to be killed by Vishnu beyond a mountain, which, in all probability, is the same story as that of Indra killing Vr̥tra. +++(\* ln Rig. x. 99, 6, Indra is said to have killed Trishīrśan, had with his aid Trita killed varāha. )+++ A dog chasing varāha is therefore no other than Canis Major following the constellation of Orion, or the " antelope's head " representing Vr̥tra. Sāyaṇa and Yāska and even European scholars are silent as to who this dog is. The verses, in fact, may be said to have remained altogether unexplained hitherto, though the words themselves are simple enough and have caused no difficulty. 
+Here Indrāṇī is herself prepared to punish Vr̥ṣākapi by setting the dog at his ear, and cutting off his head. I have in a previous chapter shown how the figure of Mr̥ga's head is to be obtained in the sky. Taking the three stars in the belt of Orion as the top of the head, the dog is close by the right ear of Mr̥ga and may properly be said to bite it. The word varāha also points out the place where we may expect to find the dog. In Rig. i. 61.7, varāha is said to be killed by Vishnu beyond a mountain, which, in all probability, is the same story as that of Indra killing Vr̥tra. +++(\* ln Rig. x. 99, 6, Indra is said to have killed Trishīrśan, had with his aid Trita killed varāha. )+++ A dog chasing varāha is therefore no other than Canis Major following the constellation of Orion, or the " antelope's head " representing Vr̥tra. Sāyaṇa and Yāska and even European scholars are silent as to who this dog is. The verses, in fact, may be said to have remained altogether unexplained hitherto, though the words themselves are simple enough and have caused no difficulty.
 </details>
 
 <details><summary>Wilson</summary>

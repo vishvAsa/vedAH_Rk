@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -58,7 +59,12 @@ sánti ← √as- 1 (root)
 
 sugevŕ̥dhaḥ ← sugevŕ̥dh- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न॒र्वाणो॒ ह्ये॑षां॒ पन्था॑ आदि॒त्याना॑म् ।  
+अद॑ब्धाः॒ सन्ति॑ पा॒यवः॑ सुगे॒वृधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

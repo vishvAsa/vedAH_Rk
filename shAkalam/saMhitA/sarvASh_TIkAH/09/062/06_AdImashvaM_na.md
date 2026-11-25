@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ rásam ← rása- (nominal stem)
 
 sadhamā́de ← sadhamā́da- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आदी॒मश्वं॒ न हेता॒रोऽशू॑शुभन्न॒मृता॑य ।  
+मध्वो॒ रसं॑ सध॒मादे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “banquet; party; drink.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,7 +165,6 @@ Then, like drivers a horse, they have beautified him for the immortal, the sap o
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -168,7 +172,6 @@ Again no obvious signs of unity, beyond the progress through the preparation of 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "मरुत इन्द्रश्च"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुत इन्द्रश्च
@@ -54,7 +55,12 @@ mandū́ ← mandú- (nominal stem)
 
 samānávarcasā ← samānávarcas- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रे॑ण॒ सं हि दृक्ष॑से संजग्मा॒नो अबि॑भ्युषा ।  
+म॒न्दू स॑मा॒नव॑र्चसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
     waste; droppings; color.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

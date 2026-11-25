@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ ruruhuḥ ← √ruh- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अक्षो॒ न च॒क्र्योः॑ शूर बृ॒हन्प्र ते॑ म॒ह्ना रि॑रिचे॒ रोद॑स्योः ।  
+वृ॒क्षस्य॒ नु ते॑ पुरुहूत व॒या व्यू॒३॒॑तयो॑ रुरुहुरिन्द्र पू॒र्वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “many; much(a); very.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

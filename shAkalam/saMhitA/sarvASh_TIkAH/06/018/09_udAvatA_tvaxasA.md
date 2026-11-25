@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ prá ← prá (invariable)
 
 purudatra ← purudatra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒दाव॑ता॒ त्वक्ष॑सा॒ पन्य॑सा च वृत्र॒हत्या॑य॒ रथ॑मिन्द्र तिष्ठ ।  
+धि॒ष्व वज्रं॒ हस्त॒ आ द॑क्षिण॒त्राभि प्र म॑न्द पुरुदत्र मा॒याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     trick.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ mr̥ḷáta ← √mr̥ḍ- (root)
 
 naḥ ← ahám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒स्वश्चि॒द्धि समृ॑तिस्त्वे॒ष्ये॑षामपी॒च्ये॑न॒ सह॑सा॒ सह॑न्ते ।  
+यु॒ष्मद्भि॒या वृ॑षणो॒ रेज॑माना॒ दक्ष॑स्य चिन्महि॒ना मृ॒ळता॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

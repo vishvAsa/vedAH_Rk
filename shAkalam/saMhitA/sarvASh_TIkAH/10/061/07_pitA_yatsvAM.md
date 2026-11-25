@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ vā́stoḥ ← vā́stu- (nominal stem)
 
 vratapā́m ← vratapā́- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒ता यत्स्वां दु॑हि॒तर॑मधि॒ष्कन्क्ष्म॒या रेतः॑ संजग्मा॒नो नि षि॑ञ्चत् ।  
+स्वा॒ध्यो॑ऽजनय॒न्ब्रह्म॑ दे॒वा वास्तो॒ष्पतिं॑ व्रत॒पां निर॑तक्षन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “produce; shape; fashion; chisel; invent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

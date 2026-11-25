@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -92,7 +93,12 @@ rā́dhaḥ ← rā́dhas- (nominal stem)
 
 ráthavat ← ráthavant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे श्रेष्ठे॑भिर्भा॒नुभि॒र्वि भा॒ह्युषो॑ देवि प्रति॒रन्ती॑ न॒ आयुः॑ ।  
+इषं॑ च नो॒ दध॑ती विश्ववारे॒ गोम॒दश्वा॑व॒द्रथ॑वच्च॒ राधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

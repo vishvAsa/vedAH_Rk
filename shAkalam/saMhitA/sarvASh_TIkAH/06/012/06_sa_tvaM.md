@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ mádema ← √mad- (root)
 
 suvī́rāḥ ← suvī́ra- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स त्वं नो॑ अर्व॒न्निदा॑या॒ विश्वे॑भिरग्ने अ॒ग्निभि॑रिधा॒नः ।  
+वेषि॑ रा॒यो वि या॑सि दु॒च्छुना॒ मदे॑म श॒तहि॑माः सु॒वीराः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

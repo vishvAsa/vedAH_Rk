@@ -4,6 +4,7 @@ devataa = "उलूखलमुसले"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उलूखलमुसले
@@ -60,7 +61,12 @@ mádhumat ← mádhumant- (nominal stem)
 
 sutam ← √su- (root)  
 {number:DU, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता नो॑ अ॒द्य व॑नस्पती ऋ॒ष्वावृ॒ष्वेभिः॑ सो॒तृभिः॑ ।  
+इन्द्रा॑य॒ मधु॑मत्सुतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

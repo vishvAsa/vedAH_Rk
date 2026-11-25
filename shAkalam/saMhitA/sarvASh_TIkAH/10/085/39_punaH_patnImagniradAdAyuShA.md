@@ -4,6 +4,7 @@ devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्या
@@ -74,7 +75,12 @@ jī́vāti ← √jīv- (root)
 
 śatám ← śatá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पुनः॒ पत्नी॑म॒ग्निर॑दा॒दायु॑षा स॒ह वर्च॑सा ।  
+दी॒र्घायु॑रस्या॒ यः पति॒र्जीवा॑ति श॒रदः॑ श॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -183,7 +189,6 @@ _________
 - “hundred; one-hundredth; śata \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

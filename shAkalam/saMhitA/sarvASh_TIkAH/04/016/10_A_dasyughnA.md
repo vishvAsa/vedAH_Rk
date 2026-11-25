@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ vām ← tvám (pronoun)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ द॑स्यु॒घ्ना मन॑सा या॒ह्यस्तं॒ भुव॑त्ते॒ कुत्सः॑ स॒ख्ये निका॑मः ।  
+स्वे योनौ॒ नि ष॑दतं॒ सरू॑पा॒ वि वां॑ चिकित्सदृत॒चिद्ध॒ नारी॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - “woman; wife; female.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

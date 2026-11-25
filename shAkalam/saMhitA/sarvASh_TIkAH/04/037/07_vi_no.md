@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -71,7 +72,12 @@ tarīṣáṇi ← √tr̥̄- 1 (root)
 
 víśvāḥ ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि नो॑ वाजा ऋभुक्षणः प॒थश्चि॑तन॒ यष्ट॑वे ।  
+अ॒स्मभ्यं॑ सूरयः स्तु॒ता विश्वा॒ आशा॑स्तरी॒षणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

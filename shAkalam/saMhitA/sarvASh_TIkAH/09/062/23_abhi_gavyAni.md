@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ sanádvājaḥ ← sanádvāja- (nominal stem)
 
 srava ← √sru- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि गव्या॑नि वी॒तये॑ नृ॒म्णा पु॑ना॒नो अ॑र्षसि ।  
+स॒नद्वा॑जः॒ परि॑ स्रव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +133,6 @@ _________
     disappear; leak; fester.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -155,7 +160,6 @@ Winning the prizes, flow around.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -163,7 +167,6 @@ gṛṇāná- is found in the first and last vs. (22b, 24c); vss. 23 and 24 cont
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

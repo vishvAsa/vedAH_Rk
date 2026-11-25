@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ urúbhiḥ ← urú- (nominal stem)
 
 uruṣyá ← √uruṣy- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒स्ति नो॑ दि॒वो अ॑ग्ने पृथि॒व्या वि॒श्वायु॑र्धेहि य॒जथा॑य देव ।  
+सचे॑महि॒ तव॑ दस्म प्रके॒तैरु॑रु॒ष्या ण॑ उ॒रुभि॑र्देव॒ शंसैः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “praise; śaṃs; recitation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

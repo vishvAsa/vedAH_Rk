@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sudītíbhiḥ ← sudītí- (nominal stem)
 
 yaśásā ← yaśás- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने धर्ण॒सिं वि॒श्वधा॑ व॒यं गी॒र्भिर्गृ॒णन्तो॒ नम॒सोप॑ सेदिम ।  
+स नो॑ जुषस्व समिधा॒नो अ॑ङ्गिरो दे॒वो मर्त॑स्य य॒शसा॑ सुदी॒तिभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - \[noun\], instrumental, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

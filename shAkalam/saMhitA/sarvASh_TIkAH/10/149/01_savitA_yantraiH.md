@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "अर्चन् हैरण्यस्तूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -83,7 +84,12 @@ samudrám ← samudrá- (nominal stem)
 
 savitā́ ← savitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒वि॒ता य॒न्त्रैः पृ॑थि॒वीम॑रम्णादस्कम्भ॒ने स॑वि॒ता द्याम॑दृंहत् ।  
+अश्व॑मिवाधुक्ष॒द्धुनि॑म॒न्तरि॑क्षम॒तूर्ते॑ ब॒द्धं स॑वि॒ता स॑मु॒द्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -216,7 +221,7 @@ _________
 Savitṛ fastened the earth with a restrainer device;  
 in the supportless \[realm\] Savitṛ held firm the heaven.  
 Savitṛ has milked the roaring atmosphere like a horse  
-\[and\] bound the sea in unfathomable \[depths\].  
+\[and\] bound the sea in unfathomable \[depths\].
 </details>
 
 <details><summary>Wilson</summary>

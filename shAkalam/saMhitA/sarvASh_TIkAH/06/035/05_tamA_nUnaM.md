@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ jinva ← √ji- 2 ~ jinv- (root)
 
 vipra ← vípra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमा नू॒नं वृ॒जन॑म॒न्यथा॑ चि॒च्छूरो॒ यच्छ॑क्र॒ वि दुरो॑ गृणी॒षे ।  
+मा निर॑रं शुक्र॒दुघ॑स्य धे॒नोरा॑ङ्गिर॒सान्ब्रह्म॑णा विप्र जिन्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “enliven; animate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

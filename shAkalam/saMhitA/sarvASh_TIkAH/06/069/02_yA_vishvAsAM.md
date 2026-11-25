@@ -4,6 +4,7 @@ devataa = "इन्द्राविष्णू"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राविष्णू
@@ -80,7 +81,12 @@ prá ← prá (invariable)
 
 stómāsaḥ ← stóma- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या विश्वा॑सां जनि॒तारा॑ मती॒नामिन्द्रा॒विष्णू॑ क॒लशा॑ सोम॒धाना॑ ।  
+प्र वां॒ गिरः॑ श॒स्यमा॑ना अवन्तु॒ प्र स्तोमा॑सो गी॒यमा॑नासो अ॒र्कैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     beam.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पुरूरवा ऐळः"
 RShiH = "उर्वशी ऋषिका"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पुरूरवा ऐळः
@@ -95,7 +96,12 @@ ná ← ná (invariable)
 
 vadāsi ← √vadⁱ- (root)  
 {number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज॒ज्ञि॒ष इ॒त्था गो॒पीथ्या॑य॒ हि द॒धाथ॒ तत्पु॑रूरवो म॒ ओजः॑ ।  
+अशा॑सं त्वा वि॒दुषी॒ सस्मि॒न्नह॒न्न म॒ आशृ॑णोः॒ किम॒भुग्व॑दासि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     diagnose; address; say; pronounce; express; instruct; order.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

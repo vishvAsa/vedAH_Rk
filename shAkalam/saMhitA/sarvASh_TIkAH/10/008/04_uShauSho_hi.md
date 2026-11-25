@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ svā́yai ← svá- (pronoun)
 
 tanvè ← tanū́- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒षौ॑षो॒ हि व॑सो॒ अग्र॒मेषि॒ त्वं य॒मयो॑रभवो वि॒भावा॑ ।  
+ऋ॒ताय॑ स॒प्त द॑धिषे प॒दानि॑ ज॒नय॑न्मि॒त्रं त॒न्वे॒३॒॑ स्वायै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     present(a); independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

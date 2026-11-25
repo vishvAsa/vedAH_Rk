@@ -4,6 +4,7 @@ devataa = "सावर्णेर्दानस्तुतिः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सावर्णेर्दानस्तुतिः
@@ -77,7 +78,12 @@ síndhuḥ ← síndhu- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न तम॑श्नोति॒ कश्च॒न दि॒व इ॑व॒ सान्वा॒रभ॑म् ।  
+सा॒व॒र्ण्यस्य॒ दक्षि॑णा॒ वि सिन्धु॑रिव पप्रथे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “be known; expand; expand; boom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

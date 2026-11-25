@@ -4,6 +4,7 @@ devataa = "वेनः"
 RShiH = "वेनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वेनः
@@ -92,7 +93,12 @@ priyā́ṇi ← priyá- (nominal stem)
 
 svàr ← svàr- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्ध्वो ग॑न्ध॒र्वो अधि॒ नाके॑ अस्थात्प्र॒त्यङ्चि॒त्रा बिभ्र॑द॒स्यायु॑धानि ।  
+वसा॑नो॒ अत्कं॑ सुर॒भिं दृ॒शे कं स्व१॒॑र्ण नाम॑ जनत प्रि॒याणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
     good; liked; suitable; proper.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

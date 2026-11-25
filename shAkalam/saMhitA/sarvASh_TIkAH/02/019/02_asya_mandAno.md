@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ nadī́nām ← nadī́- (nominal stem)
 
 práyāṁsi ← práyas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य म॑न्दा॒नो मध्वो॒ वज्र॑ह॒स्तोऽहि॒मिन्द्रो॑ अर्णो॒वृतं॒ वि वृ॑श्चत् ।  
+प्र यद्वयो॒ न स्वस॑रा॒ण्यच्छा॒ प्रयां॑सि च न॒दीनां॒ चक्र॑मन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “kram; step; go; continue; proceed; traverse; heat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

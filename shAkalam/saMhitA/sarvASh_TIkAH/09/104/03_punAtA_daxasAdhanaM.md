@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पर्वतनारदौ द्वे शिखंडिन्यौ वा काश्यप्यावप्सरसौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ váruṇāya ← váruṇa- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒नाता॑ दक्ष॒साध॑नं॒ यथा॒ शर्धा॑य वी॒तये॑ ।  
+यथा॑ मि॒त्राय॒ वरु॑णाय॒ शन्त॑मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “beneficent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

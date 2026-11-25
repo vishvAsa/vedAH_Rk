@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ jányā ← jánya- (nominal stem)
 
 purutrā́ ← purutrā́ (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग्रावा॑णेव॒ तदिदर्थं॑ जरेथे॒ गृध्रे॑व वृ॒क्षं नि॑धि॒मन्त॒मच्छ॑ ।  
+ब्र॒ह्माणे॑व वि॒दथ॑ उक्थ॒शासा॑ दू॒तेव॒ हव्या॒ जन्या॑ पुरु॒त्रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “distributively.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मान्धाता यौवनाश्वः"
 ChandaH = "महापङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -96,7 +97,12 @@ bhadrā́ ← bhadrá- (nominal stem)
 
 jánitrī ← jánitrī- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॒ स्वेदा॑ इवा॒भितो॒ विष्व॑क्पतन्तु दि॒द्यवः॑ ।  
+दूर्वा॑या इव॒ तन्त॑वो॒ व्य१॒॑स्मदे॑तु दुर्म॒तिर्दे॒वी जनि॑त्र्यजीजनद्भ॒द्रा जनि॑त्र्यजीजनत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

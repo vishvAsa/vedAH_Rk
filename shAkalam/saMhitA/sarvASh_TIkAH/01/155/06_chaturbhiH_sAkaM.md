@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -86,7 +87,12 @@ práti ← práti (invariable)
 
 yúvā ← yúvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+च॒तुर्भिः॑ सा॒कं न॑व॒तिं च॒ नाम॑भिश्च॒क्रं न वृ॒त्तं व्यतीँ॑रवीविपत् ।  
+बृ॒हच्छ॑रीरो वि॒मिमा॑न॒ ऋक्व॑भि॒र्युवाकु॑मारः॒ प्रत्ये॑त्याह॒वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “battle; fight; challenge; war.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

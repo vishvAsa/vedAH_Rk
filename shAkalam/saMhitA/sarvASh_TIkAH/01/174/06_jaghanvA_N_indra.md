@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ tváyā ← tvám (pronoun)
 
 váhamānāḥ ← √vah- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ज॒घ॒न्वाँ इ॑न्द्र मि॒त्रेरू॑ञ्चो॒दप्र॑वृद्धो हरिवो॒ अदा॑शून् ।  
+प्र ये पश्य॑न्नर्य॒मणं॒ सचा॒योस्त्वया॑ शू॒र्ता वह॑माना॒ अप॑त्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “child; offspring; patronymic; descendant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

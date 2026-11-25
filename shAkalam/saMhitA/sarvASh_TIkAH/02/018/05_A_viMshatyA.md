@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ saptatyā́ ← saptatí- (nominal stem)
 
 somapéyam ← somapéya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ विं॑श॒त्या त्रिं॒शता॑ याह्य॒र्वाङा च॑त्वारिं॒शता॒ हरि॑भिर्युजा॒नः ।  
+आ प॑ञ्चा॒शता॑ सु॒रथे॑भिरि॒न्द्रा ष॒ष्ट्या स॑प्त॒त्या सो॑म॒पेय॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “beverage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

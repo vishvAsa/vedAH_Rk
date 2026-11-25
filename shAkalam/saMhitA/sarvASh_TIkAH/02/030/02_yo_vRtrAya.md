@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ divé-dive ← dyú- ~ div- (nominal stem)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वृ॒त्राय॒ सिन॒मत्राभ॑रिष्य॒त्प्र तं जनि॑त्री वि॒दुष॑ उवाच ।  
+प॒थो रद॑न्ती॒रनु॒ जोष॑मस्मै दि॒वेदि॑वे॒ धुन॑यो य॒न्त्यर्थ॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     enterprise; reason; cause; five; application; application.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

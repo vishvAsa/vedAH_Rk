@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ hinvānáḥ ← √hi- (root)
 
 mā́nuṣīḥ ← mā́nuṣa- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒या प॑वस्व॒ धार॑या॒ यया॒ सूर्य॒मरो॑चयः ।  
+हि॒न्वा॒नो मानु॑षीर॒पः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -148,10 +153,6 @@ _________
 Purify yourself in the very stream with which you made the sun shine, impelling the waters belonging to Manu.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-It is specifically stated here that the stream of soma “made the sun shine” (sū́ryam árocayaḥ), in other words that the ritual activity produced cosmic effects.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -159,7 +160,6 @@ On this tṛca see published introduction. In these vss. Soma is compared to the
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

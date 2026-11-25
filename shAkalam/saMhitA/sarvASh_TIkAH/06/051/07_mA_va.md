@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ svayám ← svayám (invariable)
 
 tanvàm ← tanū́- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा व॒ एनो॑ अ॒न्यकृ॑तं भुजेम॒ मा तत्क॑र्म वसवो॒ यच्चय॑ध्वे ।  
+विश्व॑स्य॒ हि क्षय॑थ विश्वदेवाः स्व॒यं रि॒पुस्त॒न्वं॑ रीरिषीष्ट ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “suffer; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रित आप्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ pū́rve ← pū́rva- (nominal stem)
 
 vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस॑च्च॒ सच्च॑ पर॒मे व्यो॑म॒न्दक्ष॑स्य॒ जन्म॒न्नदि॑तेरु॒पस्थे॑ ।  
+अ॒ग्निर्ह॑ नः प्रथम॒जा ऋ॒तस्य॒ पूर्व॒ आयु॑नि वृष॒भश्च॑ धे॒नुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “cow; dhenu \[word\]; milk.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

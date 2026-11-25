@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "सत्यश्रवा आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ ná ← ná (invariable)
 
 prajānatī́ ← √jñā- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒षा व्ये॑नी भवति द्वि॒बर्हा॑ आविष्कृण्वा॒ना त॒न्वं॑ पु॒रस्ता॑त् ।  
+ऋ॒तस्य॒ पन्था॒मन्वे॑ति सा॒धु प्र॑जान॒तीव॒ न दिशो॑ मिनाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “transgress; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,14 +232,12 @@ She follows along the path of truth, straight to the goal. Like one who  knows t
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 4b and 5d are entirely parallel in structure: 4b utá mitró bhavasi deva dhármabhiḥ 5d utá pūṣā́bhavasi deva yā́mabhiḥ This strict parallelism should extend to the two final instr. pls. -- that is, Savitar should become the god in question by virtue of a quality/entity held in common and expressed in the instr. I therefore think it unlikely that dhármabhiḥ is the vague “nach deinen Eigenschaften” of Geldner or “par (tes) dispositions-naturelles” of Renou; it needs to refer to an actual thing, like Pūṣan’s journeys. In the published translation I render it as ‘supports’ (sim. Witzel Gotō “durch deine Unterstützungen”), keeping in mind that Savitar often holds up his arms, which may function as literal supports. But it may rather be something like ‘institutes, ordinances’, referring to the regulation of time and activity that Savitar performs.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अतिशक्वरी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -116,7 +117,13 @@ pāhi ← √pā- 1 (root)
 
 sádā ← sádā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं न॑ इन्द्र रा॒या परी॑णसा या॒हि प॒थाँ अ॑ने॒हसा॑ पु॒रो या॑ह्यर॒क्षसा॑ ।  
+सच॑स्व नः परा॒क आ सच॑स्वास्तमी॒क आ ।  
+पा॒हि नो॑ दू॒रादा॒राद॒भिष्टि॑भिः॒ सदा॑ पाह्य॒भिष्टि॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -284,7 +291,6 @@ _________
 - “prevalence; protection.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -314,7 +320,6 @@ always protect us with your superior powers.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/129/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
@@ -322,7 +327,6 @@ Note identical openings to these two vss: tváṃ na indra rāyā́…, with the
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

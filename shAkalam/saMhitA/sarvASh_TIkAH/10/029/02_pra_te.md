@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ sasavā́n ← √sanⁱ- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र ते॑ अ॒स्या उ॒षसः॒ प्राप॑रस्या नृ॒तौ स्या॑म॒ नृत॑मस्य नृ॒णाम् ।  
+अनु॑ त्रि॒शोकः॑ श॒तमाव॑ह॒न्नॄन्कुत्से॑न॒ रथो॒ यो अस॑त्सस॒वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “win; get; gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

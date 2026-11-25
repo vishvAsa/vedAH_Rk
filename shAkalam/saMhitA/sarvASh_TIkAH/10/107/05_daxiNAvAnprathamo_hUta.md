@@ -4,6 +4,7 @@ devataa = "दक्षिणा तद्दातारो वा"
 RShiH = "दिव्यो दक्षिणा वा प्राजापत्या"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दक्षिणा तद्दातारो वा
@@ -83,7 +84,12 @@ prathamáḥ ← prathamá- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दक्षि॑णावान्प्रथ॒मो हू॒त ए॑ति॒ दक्षि॑णावान्ग्राम॒णीरग्र॑मेति ।  
+तमे॒व म॑न्ये नृ॒पतिं॒ जना॑नां॒ यः प्र॑थ॒मो दक्षि॑णामावि॒वाय॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - \[verb\], singular, Perfect indicative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

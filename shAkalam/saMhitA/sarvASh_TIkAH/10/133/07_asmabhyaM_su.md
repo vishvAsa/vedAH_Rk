@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुदाः पैजवनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ páyasā ← páyas- (nominal stem)
 
 sahásradhārā ← sahásradhāra- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मभ्यं॒ सु त्वमि॑न्द्र॒ तां शि॑क्ष॒ या दोह॑ते॒ प्रति॒ वरं॑ जरि॒त्रे ।  
+अच्छि॑द्रोध्नी पी॒पय॒द्यथा॑ नः स॒हस्र॑धारा॒ पय॑सा म॒ही गौः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

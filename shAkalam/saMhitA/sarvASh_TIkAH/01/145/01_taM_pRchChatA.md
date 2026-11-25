@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vā́jasya ← vā́ja- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं पृ॑च्छता॒ स ज॑गामा॒ स वे॑द॒ स चि॑कि॒त्वाँ ई॑यते॒ सा न्वी॑यते ।  
+तस्मि॑न्त्सन्ति प्र॒शिष॒स्तस्मि॑न्नि॒ष्टयः॒ स वाज॑स्य॒ शव॑सः शु॒ष्मिण॒स्पतिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -262,7 +268,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

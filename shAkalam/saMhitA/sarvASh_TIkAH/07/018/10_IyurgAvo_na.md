@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ rántayaḥ ← ránti- (nominal stem)
 
 śruṣṭím ← śruṣṭí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒युर्गावो॒ न यव॑सा॒दगो॑पा यथाकृ॒तम॒भि मि॒त्रं चि॒तासः॑ ।  
+पृश्नि॑गावः॒ पृश्नि॑निप्रेषितासः श्रु॒ष्टिं च॑क्रुर्नि॒युतो॒ रन्त॑यश्च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गय आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ mártyānām ← mártya- (nominal stem)
 
 turyā́ma ← √tūr(v)- ~ tur- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तवा॒हम॑ग्न ऊ॒तिभि॑र्मि॒त्रस्य॑ च॒ प्रश॑स्तिभिः ।  
+द्वे॒षो॒युतो॒ न दु॑रि॒ता तु॒र्याम॒ मर्त्या॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

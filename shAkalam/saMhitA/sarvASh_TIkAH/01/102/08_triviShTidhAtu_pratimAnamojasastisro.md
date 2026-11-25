@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ janúṣā ← janúṣ- (nominal stem)
 
 sanā́t ← sanā́t (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रि॒वि॒ष्टि॒धातु॑ प्रति॒मान॒मोज॑सस्ति॒स्रो भूमी॑र्नृपते॒ त्रीणि॑ रोच॒ना ।  
+अती॒दं विश्वं॒ भुव॑नं ववक्षिथाश॒त्रुरि॑न्द्र ज॒नुषा॑ स॒नाद॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "विश्वावसुर्देवगन्धर्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -83,7 +84,12 @@ sampáśyan ← √paś- (root)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सूर्य॑रश्मि॒र्हरि॑केशः पु॒रस्ता॑त्सवि॒ता ज्योति॒रुद॑याँ॒ अज॑स्रम् ।  
+तस्य॑ पू॒षा प्र॑स॒वे या॑ति वि॒द्वान्त्स॒म्पश्य॒न्विश्वा॒ भुव॑नानि गो॒पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “herder; defender.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -116,7 +117,13 @@ kr̥tám ← √kr̥- (root)
 
 vājayántaḥ ← √vājay- 2 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वया॑ व॒यं म॑घव॒न्पूर्व्ये॒ धन॒ इन्द्र॑त्वोताः सासह्याम पृतन्य॒तो व॑नु॒याम॑ वनुष्य॒तः ।  
+नेदि॑ष्ठे अ॒स्मिन्नह॒न्यधि॑ वोचा॒ नु सु॑न्व॒ते ।  
+अ॒स्मिन्य॒ज्ञे वि च॑येमा॒ भरे॑ कृ॒तं वा॑ज॒यन्तो॒ भरे॑ कृ॒तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -294,7 +301,6 @@ _________
     \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

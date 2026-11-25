@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ hinvānáḥ ← √hi- (root)
 
 tvací ← tvác- (nominal stem)  
 {case:LOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑ते हर्य॒तो हरि॑र्गृणा॒नो ज॒मद॑ग्निना ।  
+हि॒न्वा॒नो गोरधि॑ त्व॒चि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -149,10 +154,6 @@ He purifies himself, the delightful tawny one, while being hymned by  Jamadagni
 and being impelled onto the hide of the cow.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-haryató háriḥ “delightful tawny one” is a word play, with two semantically different stems. This same word play is the focus of a whole hymn, III.44, and obviously was a staple of RVic phraseology.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -160,7 +161,6 @@ All three vss. in this tṛca contain a middle form of √hi ‘impel’ (25c hi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

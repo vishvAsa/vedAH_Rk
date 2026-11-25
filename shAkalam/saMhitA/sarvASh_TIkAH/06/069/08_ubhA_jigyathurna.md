@@ -4,6 +4,7 @@ devataa = "इन्द्राविष्णू"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राविष्णू
@@ -95,7 +96,12 @@ tredhā́ ← tredhā́ (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भा जि॑ग्यथु॒र्न परा॑ जयेथे॒ न परा॑ जिग्ये कत॒रश्च॒नैनोः॑ ।  
+इन्द्र॑श्च विष्णो॒ यदप॑स्पृधेथां त्रे॒धा स॒हस्रं॒ वि तदै॑रयेथाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
     enumerate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

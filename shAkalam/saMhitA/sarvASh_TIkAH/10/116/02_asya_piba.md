@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अग्नियुतः स्थौरोग्नियूपो वा स्थौरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ reváte ← revánt- (nominal stem)
 
 saúbhagāya ← saúbhaga- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य पि॑ब क्षु॒मतः॒ प्रस्थि॑त॒स्येन्द्र॒ सोम॑स्य॒ वर॒मा सु॒तस्य॑ ।  
+स्व॒स्ति॒दा मन॑सा मादयस्वार्वाची॒नो रे॒वते॒ सौभ॑गाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “well-being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

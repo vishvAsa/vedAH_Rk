@@ -4,6 +4,7 @@ devataa = "रथगोपाः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रथगोपाः
@@ -68,7 +69,12 @@ urávaḥ ← urú- (nominal stem)
 
 vrātasāhā́ḥ ← vrātasāhá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वा॒दु॒षं॒सदः॑ पि॒तरो॑ वयो॒धाः कृ॑च्छ्रे॒श्रितः॒ शक्ती॑वन्तो गभी॒राः ।  
+चि॒त्रसे॑ना॒ इषु॑बला॒ अमृ॑ध्राः स॒तोवी॑रा उ॒रवो॑ व्रातसा॒हाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

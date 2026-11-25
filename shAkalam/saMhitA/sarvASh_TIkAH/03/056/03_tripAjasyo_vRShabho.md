@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रि॒पा॒ज॒स्यो वृ॑ष॒भो वि॒श्वरू॑प उ॒त त्र्यु॒धा पु॑रु॒ध प्र॒जावा॑न् ।  
+त्र्य॒नी॒कः प॑त्यते॒ माहि॑नावा॒न्त्स रे॑तो॒धा वृ॑ष॒भः शश्व॑तीनाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “all(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

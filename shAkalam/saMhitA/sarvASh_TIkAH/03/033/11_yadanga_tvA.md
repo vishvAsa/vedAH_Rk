@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -86,7 +87,12 @@ vr̥ṇe ← √vr̥- ~ vr̥̄- (root)
 
 yajñíyānām ← yajñíya- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒ङ्ग त्वा॑ भर॒ताः सं॒तरे॑युर्ग॒व्यन्ग्राम॑ इषि॒त इन्द्र॑जूतः ।  
+अर्षा॒दह॑ प्रस॒वः सर्ग॑तक्त॒ आ वो॑ वृणे सुम॒तिं य॒ज्ञिया॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पर्वतनारदौ"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -72,7 +73,12 @@ pári ← pári (invariable)
 
 sāhvā́n ← √sah- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सने॑मि॒ त्वम॒स्मदाँ अदे॑वं॒ कं चि॑द॒त्रिण॑म् ।  
+सा॒ह्वाँ इ॑न्दो॒ परि॒ बाधो॒ अप॑ द्व॒युम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

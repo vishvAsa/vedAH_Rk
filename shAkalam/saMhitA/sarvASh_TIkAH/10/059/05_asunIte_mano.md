@@ -4,6 +4,7 @@ devataa = "असुनीतिः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - असुनीतिः
@@ -86,7 +87,12 @@ tvám ← tvám (pronoun)
 
 vardhayasva ← √vr̥dh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असु॑नीते॒ मनो॑ अ॒स्मासु॑ धारय जी॒वात॑वे॒ सु प्र ति॑रा न॒ आयुः॑ ।  
+रा॒र॒न्धि नः॒ सूर्य॑स्य सं॒दृशि॑ घृ॒तेन॒ त्वं त॒न्वं॑ वर्धयस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “increase; strengthen; promote; rear; add; greet; laud.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

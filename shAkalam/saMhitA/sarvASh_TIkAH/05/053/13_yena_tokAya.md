@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ saúbhagam ← saúbhaga- (nominal stem)
 
 viśvā́yu ← viśvā́yu- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येन॑ तो॒काय॒ तन॑याय धा॒न्यं१॒॑ बीजं॒ वह॑ध्वे॒ अक्षि॑तम् ।  
+अ॒स्मभ्यं॒ तद्ध॑त्तन॒ यद्व॒ ईम॑हे॒ राधो॑ वि॒श्वायु॒ सौभ॑गम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “well-being.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

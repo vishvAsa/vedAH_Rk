@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ rákṣāṁsi ← rákṣas- (nominal stem)
 
 syuḥ ← √as- 1 (root)  
 {number:PL, person:3, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं वां॑ श॒ता ना॑सत्या स॒हस्राश्वा॑नां पुरु॒पन्था॑ गि॒रे दा॑त् ।  
+भ॒रद्वा॑जाय वीर॒ नू गि॒रे दा॑द्ध॒ता रक्षां॑सि पुरुदंससा स्युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

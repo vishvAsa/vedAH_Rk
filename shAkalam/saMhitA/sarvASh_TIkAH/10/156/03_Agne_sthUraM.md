@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "केतुराग्नेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ paṇím ← paṇí- (nominal stem)
 
 vartáya ← √vr̥t- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आग्ने॑ स्थू॒रं र॒यिं भ॑र पृ॒थुं गोम॑न्तम॒श्विन॑म् ।  
+अ॒ङ्ग्धि खं व॒र्तया॑ प॒णिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “niggard; paṇ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

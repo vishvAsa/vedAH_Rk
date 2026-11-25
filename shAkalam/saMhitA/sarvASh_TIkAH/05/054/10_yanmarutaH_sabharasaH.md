@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -92,7 +93,12 @@ pārám ← pārá- (nominal stem)
 
 sadyás ← sadyás (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यन्म॑रुतः सभरसः स्वर्णरः॒ सूर्य॒ उदि॑ते॒ मद॑था दिवो नरः ।  
+न वोऽश्वाः॑ श्रथय॒न्ताह॒ सिस्र॑तः स॒द्यो अ॒स्याध्व॑नः पा॒रम॑श्नुथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

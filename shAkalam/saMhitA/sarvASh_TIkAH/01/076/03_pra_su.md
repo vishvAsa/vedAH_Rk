@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ cakr̥ma ← √kr̥- (root)
 
 sudā́vne ← sudā́van- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सु विश्वा॑न्र॒क्षसो॒ धक्ष्य॑ग्ने॒ भवा॑ य॒ज्ञाना॑मभिशस्ति॒पावा॑ ।  
+अथा व॑ह॒ सोम॑पतिं॒ हरि॑भ्यामाति॒थ्यम॑स्मै चकृमा सु॒दाव्ने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “giving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

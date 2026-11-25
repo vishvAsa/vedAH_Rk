@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वेनो भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ madirā́saḥ ← madirá- (nominal stem)
 
 viśanti ← √viś- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अत्यं॑ मृजन्ति क॒लशे॒ दश॒ क्षिपः॒ प्र विप्रा॑णां म॒तयो॒ वाच॑ ईरते ।  
+पव॑माना अ॒भ्य॑र्षन्ति सुष्टु॒तिमेन्द्रं॑ विशन्ति मदि॒रास॒ इन्द॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -247,7 +252,6 @@ exhilarating drops enter Indra.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -255,7 +259,6 @@ Pādas 7c and 8a have almost identical structure: pávamānā abhy àrṣanti su
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

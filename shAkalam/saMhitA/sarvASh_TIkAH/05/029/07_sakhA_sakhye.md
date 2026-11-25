@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गौरवीतिः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sutám ← √su- (root)
 
 vr̥trahátyāya ← vr̥trahátya- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सखा॒ सख्ये॑ अपच॒त्तूय॑म॒ग्निर॒स्य क्रत्वा॑ महि॒षा त्री श॒तानि॑ ।  
+त्री सा॒कमिन्द्रो॒ मनु॑षः॒ सरां॑सि सु॒तं पि॑बद्वृत्र॒हत्या॑य॒ सोम॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ऋतवः द्रविणोदाः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋतवः द्रविणोदाः
@@ -57,7 +58,12 @@ tā́ ← sá- ~ tá- (pronoun)
 
 vanāmahe ← √vanⁱ- (root)  
 {number:PL, person:1, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्र॒वि॒णो॒दा द॑दातु नो॒ वसू॑नि॒ यानि॑ शृण्वि॒रे ।  
+दे॒वेषु॒ ता व॑नामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “obtain; gain; desire; get; like; love; overcome.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

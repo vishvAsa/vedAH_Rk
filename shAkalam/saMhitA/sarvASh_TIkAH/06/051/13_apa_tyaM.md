@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -67,7 +68,12 @@ kr̥dhí ← √kr̥- (root)
 
 sugám ← sugá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप॒ त्यं वृ॑जि॒नं रि॒पुं स्ते॒नम॑ग्ने दुरा॒ध्य॑म् ।  
+द॒वि॒ष्ठम॑स्य सत्पते कृ॒धी सु॒गम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - \[noun\], accusative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -190,16 +195,6 @@ Away with this crooked, cheating, ill-intentioned thief, o Agni.
 Make an easy passage for him far, far away, o lord of settlements.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This first vs. of the extra material has various lexical ties to the first hymn: vṛjinám: 2c vṛjinā́; satpate: 4a sátpatīn; ripúm: 7d ripúḥ, which might help explain why it (and the following two vss.) were attached here.
-
-Geldner attaches daviṣṭhám asya satpate to ab and begins a new cl. with kṛdhī́: “Schaffe gute Fahrt.” I assume that one of his motivations is the accent on kṛdhī́, which appears to be in the middle of a pāda. And he may feel that making “easy passage” (sugám) for a criminal would be contrary to expectation. However, he seems to ignore the asya -- at least I find nothing in his tr. that corresponds to it. The accentual problem can be easily resolved: the three vss. 13-15 seem to have an 8 8 / 8 4 structure, rather than 8 8 / 12. On this analysis of the meter, kṛdhī́starts a new pāda and should be accented. In vs. 14 vṛ́ko hí ṣáḥ is a new clause and nicely fits a separate pāda, and in vs. 15 gopā́amā́is also syntactically separate.
-
-Vs. 15 also supports my interpr. in another way: kártā naḥ … sugám “make good passage for us” is syntactically parallel to my interpr. of 13 … asya … kṛdhī́ sugám “make good passage for him,” with naḥ corresponding to asya. As for making good passage for a criminal, the point is to get him as far away as fast as possible, and good passage will accomplish this faster than bad.
-
-(Renou’s interpr. is overly complex; though he does find space for the asya, he does not deal with the accented verb. I won’t treat it further here.)
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/051/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -207,7 +202,6 @@ As noted in the published introduction, I consider the remaining vss. to belong 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

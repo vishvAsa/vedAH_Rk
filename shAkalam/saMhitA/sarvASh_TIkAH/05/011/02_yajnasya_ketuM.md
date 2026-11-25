@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sukrátuḥ ← sukrátu- (nominal stem)
 
 yajáthāya ← yajátha- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञस्य॑ के॒तुं प्र॑थ॒मं पु॒रोहि॑तम॒ग्निं नर॑स्त्रिषध॒स्थे समी॑धिरे ।  
+इन्द्रे॑ण दे॒वैः स॒रथं॒ स ब॒र्हिषि॒ सीद॒न्नि होता॑ य॒जथा॑य सु॒क्रतुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “wise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

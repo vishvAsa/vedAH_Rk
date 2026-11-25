@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ ajīgar ← √gr̥- (root)
 
 pathyā̀ḥ ← pathyā̀- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्यु१॒॑षा आ॑वो दिवि॒जा ऋ॒तेना॑विष्कृण्वा॒ना म॑हि॒मान॒मागा॑त् ।  
+अप॒ द्रुह॒स्तम॑ आव॒रजु॑ष्ट॒मङ्गि॑रस्तमा प॒थ्या॑ अजीगः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “wake; watch; awaken; wake up; oversee.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ sumnám ← sumná- (nominal stem)
 
 yakṣate ← √yaj- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऊ॒र्जो नपा॑तं सु॒भगं॑ सु॒दीदि॑तिम॒ग्निं श्रेष्ठ॑शोचिषम् ।  
+स नो॑ मि॒त्रस्य॒ वरु॑णस्य॒ सो अ॒पामा सु॒म्नं य॑क्षते दि॒वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

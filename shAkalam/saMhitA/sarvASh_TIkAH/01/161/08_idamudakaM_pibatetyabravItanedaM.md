@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -92,7 +93,12 @@ sávane ← sávana- 1 (nominal stem)
 
 tr̥tī́ye ← tr̥tī́ya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दमु॑द॒कं पि॑ब॒तेत्य॑ब्रवीतने॒दं वा॑ घा पिबता मुञ्ज॒नेज॑नम् ।  
+सौध॑न्वना॒ यदि॒ तन्नेव॒ हर्य॑थ तृ॒तीये॑ घा॒ सव॑ने मादयाध्वै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

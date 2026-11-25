@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -116,7 +117,12 @@ sunvántam ← √su- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न मा॑ तम॒न्न श्र॑म॒न्नोत त॑न्द्र॒न्न वो॑चाम॒ मा सु॑नो॒तेति॒ सोम॑म् ।  
+यो मे॑ पृ॒णाद्यो दद॒द्यो नि॒बोधा॒द्यो मा॑ सु॒न्वन्त॒मुप॒ गोभि॒राय॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -295,7 +301,6 @@ _________
 - “come; travel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -5,13 +5,13 @@ RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रः
 - ऋषिः - गाथिनो विश्वामित्रः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -76,7 +76,12 @@ syāma ← √as- 1 (root)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न॒मी॒वास॒ इळ॑या॒ मद॑न्तो मि॒तज्ञ॑वो॒ वरि॑म॒न्ना पृ॑थि॒व्याः ।  
+आ॒दि॒त्यस्य॑ व्र॒तमु॑पक्षि॒यन्तो॑ व॒यं मि॒त्रस्य॑ सुम॒तौ स्या॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +176,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -226,8 +230,6 @@ Von Krankheit frei, uns frischer Kraft erfreuend, und starken Knies auf dem Rund
 Живя в завете Адитьи,  
 Да будем мы в милости у Митры!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

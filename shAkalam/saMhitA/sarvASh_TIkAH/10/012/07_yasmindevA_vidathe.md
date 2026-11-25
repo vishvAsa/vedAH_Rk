@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हविर्धान आङ्गिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ dyotaním ← dyotaní- (nominal stem)
 
 pári ← pári (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मि॑न्दे॒वा वि॒दथे॑ मा॒दय॑न्ते वि॒वस्व॑तः॒ सद॑ने धा॒रय॑न्ते ।  
+सूर्ये॒ ज्योति॒रद॑धुर्मा॒स्य१॒॑क्तून्परि॑ द्योत॒निं च॑रतो॒ अज॑स्रा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “ceaseless; ageless; incessant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

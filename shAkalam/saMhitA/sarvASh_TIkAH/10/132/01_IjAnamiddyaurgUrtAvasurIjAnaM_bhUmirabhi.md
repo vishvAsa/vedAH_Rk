@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्तदेवताः"
 RShiH = "शकपूतो नार्मेधः"
 ChandaH = "न्यङ्कुसारिणी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तदेवताः
@@ -74,7 +75,12 @@ avardhatām ← √vr̥dh- (root)
 
 sumnaíḥ ← sumná- (nominal stem)  
 {case:INS, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒जा॒नमिद्द्यौर्गू॒र्ताव॑सुरीजा॒नं भूमि॑र॒भि प्र॑भू॒षणि॑ ।  
+ई॒जा॒नं दे॒वाव॒श्विना॑व॒भि सु॒म्नैर॑वर्धताम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

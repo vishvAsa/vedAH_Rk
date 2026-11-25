@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -60,7 +61,12 @@ sumr̥ḷīkáḥ ← sumr̥ḷīká- (nominal stem)
 
 viśa ← √viś- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोम॑ गी॒र्भिष्ट्वा॑ व॒यं व॒र्धया॑मो वचो॒विदः॑ ।  
+सु॒मृ॒ळी॒को न॒ आ वि॑श ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -170,7 +175,6 @@ Very compassionate to us, enter us.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">
 <details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -178,7 +182,6 @@ The two alliterative root noun compounds vacovíd- (11b) and vasuvíd- (12b) non
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

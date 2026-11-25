@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ sūnúḥ ← sūnú- (nominal stem)
 
 vivakmi ← √vañc- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ वां॒ रथं॑ नृपती ज॒रध्यै॑ ह॒विष्म॑ता॒ मन॑सा य॒ज्ञिये॑न ।  
+यो वां॑ दू॒तो न धि॑ष्ण्या॒वजी॑ग॒रच्छा॑ सू॒नुर्न पि॒तरा॑ विवक्मि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     determine; mention; designate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

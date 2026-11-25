@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sasr̥je ← √sr̥j- (root)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नकि॑रेषां निन्दि॒ता मर्त्ये॑षु॒ ये अ॒स्माकं॑ पि॒तरो॒ गोषु॑ यो॒धाः ।  
+इन्द्र॑ एषां दृंहि॒ता माहि॑नावा॒नुद्गो॒त्राणि॑ ससृजे दं॒सना॑वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

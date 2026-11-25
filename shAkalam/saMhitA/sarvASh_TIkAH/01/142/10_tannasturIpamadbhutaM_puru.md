@@ -4,6 +4,7 @@ devataa = "त्वष्टा"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्वष्टा
@@ -80,7 +81,12 @@ naḥ ← ahám (pronoun)
 
 rāyé ← rayí- ~ rāy- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तन्न॑स्तु॒रीप॒मद्भु॑तं पु॒रु वारं॑ पु॒रु त्मना॑ ।  
+त्वष्टा॒ पोषा॑य॒ वि ष्य॑तु रा॒ये नाभा॑ नो अस्म॒युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

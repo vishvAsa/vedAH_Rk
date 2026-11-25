@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ jóhuvānam ← √hū- (root)
 
 purūvásuḥ ← purūvásu- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ स्तुहि प्रथ॒मं र॑त्न॒धेयं॒ बृह॒स्पतिं॑ सनि॒तारं॒ धना॑नाम् ।  
+यः शंस॑ते स्तुव॒ते शम्भ॑विष्ठः पुरू॒वसु॑रा॒गम॒ज्जोहु॑वानम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “appeal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अक्षकितवनिन्दा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकितवनिन्दा
@@ -86,7 +87,12 @@ ná ← ná (invariable)
 
 vindāmi ← √vid- 1 (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्वेष्टि॑ श्व॒श्रूरप॑ जा॒या रु॑णद्धि॒ न ना॑थि॒तो वि॑न्दते मर्डि॒तार॑म् ।  
+अश्व॑स्येव॒ जर॑तो॒ वस्न्य॑स्य॒ नाहं वि॑न्दामि कित॒वस्य॒ भोग॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     possession.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

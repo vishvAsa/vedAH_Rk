@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ dīrghám ← dīrghá- (nominal stem)
 
 támaḥ ← támas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अति॑ष्ठन्तीनामनिवेश॒नानां॒ काष्ठा॑नां॒ मध्ये॒ निहि॑तं॒ शरी॑रम् ।  
+वृ॒त्रस्य॑ नि॒ण्यं वि च॑र॒न्त्यापो॑ दी॒र्घं तम॒ आश॑य॒दिन्द्र॑शत्रुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “enemy; foe; enemy; Asura.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

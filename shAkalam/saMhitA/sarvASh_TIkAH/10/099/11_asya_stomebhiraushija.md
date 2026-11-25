@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वम्रो वैखानसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ púraḥ ← púr- (nominal stem)
 
 várpasā ← várpas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य स्तोमे॑भिरौशि॒ज ऋ॒जिश्वा॑ व्र॒जं द॑रयद्वृष॒भेण॒ पिप्रोः॑ ।  
+सुत्वा॒ यद्य॑ज॒तो दी॒दय॒द्गीः पुर॑ इया॒नो अ॒भि वर्प॑सा॒ भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

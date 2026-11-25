@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सदापृण आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ mā́nuṣīḥ ← mā́nuṣa- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒दा दि॒वो वि॒ष्यन्नद्रि॑मु॒क्थैरा॑य॒त्या उ॒षसो॑ अ॒र्चिनो॑ गुः ।  
+अपा॑वृत व्र॒जिनी॒रुत्स्व॑र्गा॒द्वि दुरो॒ मानु॑षीर्दे॒व आ॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

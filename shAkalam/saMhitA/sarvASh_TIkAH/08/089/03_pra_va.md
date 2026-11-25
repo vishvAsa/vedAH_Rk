@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 vájreṇa ← vájra- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र व॒ इन्द्रा॑य बृह॒ते मरु॑तो॒ ब्रह्मा॑र्चत ।  
+वृ॒त्रं ह॑नति वृत्र॒हा श॒तक्र॑तु॒र्वज्रे॑ण श॒तप॑र्वणा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “joint; knot; festival; day; articulation; knot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

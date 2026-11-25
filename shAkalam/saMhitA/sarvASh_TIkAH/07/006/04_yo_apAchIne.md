@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -80,7 +81,12 @@ damáyantam ← √damⁱ- (root)
 
 pr̥tanyū́n ← pr̥tanyú- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो अ॑पा॒चीने॒ तम॑सि॒ मद॑न्तीः॒ प्राची॑श्च॒कार॒ नृत॑मः॒ शची॑भिः ।  
+तमीशा॑नं॒ वस्वो॑ अ॒ग्निं गृ॑णी॒षेऽना॑नतं द॒मय॑न्तं पृत॒न्यून् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “enemy; attacker.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

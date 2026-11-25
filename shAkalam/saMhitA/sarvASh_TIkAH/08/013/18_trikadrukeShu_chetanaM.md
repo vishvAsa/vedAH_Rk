@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नारदः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -64,7 +65,12 @@ vardhantu ← √vr̥dh- (root)
 
 sadā́vr̥dham ← sadā́vr̥dha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिक॑द्रुकेषु॒ चेत॑नं दे॒वासो॑ य॒ज्ञम॑त्नत ।  
+तमिद्व॑र्धन्तु नो॒ गिरः॑ स॒दावृ॑धम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -178,10 +183,6 @@ The gods stretched for themselves a noteworthy sacrifice among the  Trikadrukas.
 Just him [=Indra] let our hymns increase—him who ever increases.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-See the discussion of the tṛca as a whole above.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/013/16-18.md">
 <details><summary><h2>16-18 ...{Loading}...</h2></summary>
 
@@ -189,7 +190,6 @@ This tṛca begins and ends in the same way: 16a índraṃ vardhantu no gíraḥ
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

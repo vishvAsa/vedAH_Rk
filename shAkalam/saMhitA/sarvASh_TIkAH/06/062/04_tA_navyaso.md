@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -83,7 +84,12 @@ yakṣat ← √yaj- (root)
 
 yúvānā ← yúvan- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता नव्य॑सो॒ जर॑माणस्य॒ मन्मोप॑ भूषतो युयुजा॒नस॑प्ती ।  
+शुभं॒ पृक्ष॒मिष॒मूर्जं॒ वह॑न्ता॒ होता॑ यक्षत्प्र॒त्नो अ॒ध्रुग्युवा॑ना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “young; youthful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

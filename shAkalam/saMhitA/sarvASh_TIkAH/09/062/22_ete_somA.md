@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ dhā́rayā ← dhā́rā- 1 (nominal stem)
 
 madíntamasya ← madíntama- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते सोमा॑ असृक्षत गृणा॒नाः श्रव॑से म॒हे ।  
+म॒दिन्त॑मस्य॒ धार॑या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “flush; flow; current; spring; fountain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -140,7 +145,6 @@ These soma juices, while being hymned, have surged for great fame in a stream of
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/22-24.md">
 <details><summary><h2>22-24 ...{Loading}...</h2></summary>
 
@@ -148,7 +152,6 @@ gṛṇāná- is found in the first and last vs. (22b, 24c); vss. 23 and 24 cont
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

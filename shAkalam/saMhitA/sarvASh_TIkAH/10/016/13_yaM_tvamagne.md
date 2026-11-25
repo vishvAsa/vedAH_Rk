@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दमनो यामायनः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ pākadūrvā́ ← pākadūrvā́- (nominal stem)
 
 vyàlkaśā ← vyàlkaśā- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं त्वम॑ग्ने स॒मद॑ह॒स्तमु॒ निर्वा॑पया॒ पुनः॑ ।  
+कि॒याम्ब्वत्र॑ रोहतु पाकदू॒र्वा व्य॑ल्कशा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “vyalkaśā.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

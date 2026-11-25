@@ -4,6 +4,7 @@ devataa = "ईज्यास्तवो यजमानप्रशंसा �
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ईज्यास्तवो यजमानप्रशंसा च
@@ -60,7 +61,12 @@ vanván ← √vanⁱ- (root)
 
 víśvā ← víśva- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्य॑ द्यु॒माँ अ॑स॒द्रथो॑ दे॒वजू॑तः॒ स शू॑शुवत् ।  
+विश्वा॑ व॒न्वन्न॑मि॒त्रिया॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -143,7 +149,6 @@ _________
 - “hostile.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

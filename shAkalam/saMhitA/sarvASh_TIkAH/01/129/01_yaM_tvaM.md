@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -125,7 +126,13 @@ vā́cam ← vā́c- (nominal stem)
 
 vedhásām ← vedhás- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं त्वं रथ॑मिन्द्र मे॒धसा॑तयेऽपा॒का सन्त॑मिषिर प्र॒णय॑सि॒ प्रान॑वद्य॒ नय॑सि ।  
+स॒द्यश्चि॒त्तम॒भिष्ट॑ये॒ करो॒ वश॑श्च वा॒जिन॑म् ।  
+सास्माक॑मनवद्य तूतुजान वे॒धसा॑मि॒मां वाचं॒ न वे॒धसा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -331,7 +338,6 @@ _________
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

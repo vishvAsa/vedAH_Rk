@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ vā́jeṣu ← vā́ja- (nominal stem)
 
 vásvaḥ ← vásu- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ भज पर॒मेष्वा वाजे॑षु मध्य॒मेषु॑ ।  
+शिक्षा॒ वस्वो॒ अन्त॑मस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “intimate; bosom(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

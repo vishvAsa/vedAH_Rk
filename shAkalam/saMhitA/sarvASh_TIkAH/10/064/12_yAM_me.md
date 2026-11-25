@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "गयः प्लातः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ ráthe ← rátha- (nominal stem)
 
 váhātha ← √vah- (root)  
 {number:PL, person:2, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यां मे॒ धियं॒ मरु॑त॒ इन्द्र॒ देवा॒ अद॑दात वरुण मित्र यू॒यम् ।  
+तां पी॑पयत॒ पय॑सेव धे॒नुं कु॒विद्गिरो॒ अधि॒ रथे॒ वहा॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

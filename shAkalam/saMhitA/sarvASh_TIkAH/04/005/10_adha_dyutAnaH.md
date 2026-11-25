@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ práyatasya ← √yam- (root)
 
 vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॑ द्युता॒नः पि॒त्रोः सचा॒साम॑नुत॒ गुह्यं॒ चारु॒ पृश्नेः॑ ।  
+मा॒तुष्प॒दे प॑र॒मे अन्ति॒ षद्गोर्वृष्णः॑ शो॒चिषः॒ प्रय॑तस्य जि॒ह्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “tongue; tongue; jihvā \[word\]; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

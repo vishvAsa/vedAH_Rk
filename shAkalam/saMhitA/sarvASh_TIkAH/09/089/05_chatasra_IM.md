@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 
 viśvátas ← viśvátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चत॑स्र ईं घृत॒दुहः॑ सचन्ते समा॒ने अ॒न्तर्ध॒रुणे॒ निष॑त्ताः ।  
+ता ई॑मर्षन्ति॒ नम॑सा पुना॒नास्ता ईं॑ वि॒श्वतः॒ परि॑ षन्ति पू॒र्वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “many; much(a); very.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

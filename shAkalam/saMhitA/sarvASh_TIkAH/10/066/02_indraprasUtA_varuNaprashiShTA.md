@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसुकर्णो वासुक्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ sūráyaḥ ← sūrí- (nominal stem)
 
 yajñám ← yajñá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑प्रसूता॒ वरु॑णप्रशिष्टा॒ ये सूर्य॑स्य॒ ज्योति॑षो भा॒गमा॑न॒शुः ।  
+म॒रुद्ग॑णे वृ॒जने॒ मन्म॑ धीमहि॒ माघो॑ने य॒ज्ञं ज॑नयन्त सू॒रयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

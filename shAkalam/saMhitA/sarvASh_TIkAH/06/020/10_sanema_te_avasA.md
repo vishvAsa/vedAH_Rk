@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ purukútsāya ← purukútsa- (nominal stem)
 
 śíkṣan ← √śak- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒नेम॒ तेऽव॑सा॒ नव्य॑ इन्द्र॒ प्र पू॒रवः॑ स्तवन्त ए॒ना य॒ज्ञैः ।  
+स॒प्त यत्पुरः॒ शर्म॒ शार॑दी॒र्दर्द्धन्दासीः॑ पुरु॒कुत्सा॑य॒ शिक्ष॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “help; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

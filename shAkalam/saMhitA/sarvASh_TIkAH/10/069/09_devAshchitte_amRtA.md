@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुमित्रो वाध्र्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ tvám ← tvám (pronoun)
 
 tvā́vr̥dhebhiḥ ← tvā́vr̥dha- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वाश्चि॑त्ते अ॒मृता॑ जातवेदो महि॒मानं॑ वाध्र्यश्व॒ प्र वो॑चन् ।  
+यत्स॒म्पृच्छं॒ मानु॑षी॒र्विश॒ आय॒न्त्वं नृभि॑रजय॒स्त्वावृ॑धेभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - \[noun\], instrumental, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

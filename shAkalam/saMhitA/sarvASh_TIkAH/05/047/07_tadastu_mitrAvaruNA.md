@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिरथ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ námaḥ ← námas- (nominal stem)
 
 sā́danāya ← sā́dana- (nominal stem)  
 {case:DAT, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद॑स्तु मित्रावरुणा॒ तद॑ग्ने॒ शं योर॒स्मभ्य॑मि॒दम॑स्तु श॒स्तम् ।  
+अ॒शी॒महि॑ गा॒धमु॒त प्र॑ति॒ष्ठां नमो॑ दि॒वे बृ॑ह॒ते साद॑नाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “home; dwelling; seat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

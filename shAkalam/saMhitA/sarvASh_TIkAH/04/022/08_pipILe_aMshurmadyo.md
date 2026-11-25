@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ raśmím ← raśmí- (nominal stem)
 
 tuvyójasam ← tuvyójas- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒पी॒ळे अं॒शुर्मद्यो॒ न सिन्धु॒रा त्वा॒ शमी॑ शशमा॒नस्य॑ श॒क्तिः ।  
+अ॒स्म॒द्र्य॑क्छुशुचा॒नस्य॑ यम्या आ॒शुर्न र॒श्मिं तु॒व्योज॑सं॒ गोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

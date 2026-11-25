@@ -4,6 +4,7 @@ devataa = "यथानिपातं"
 RShiH = "अग्निवरुणसोमानां निहवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यथानिपातं
@@ -89,7 +90,12 @@ tvā ← tvám (pronoun)
 
 yajāma ← √yaj- (root)  
 {number:PL, person:1, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं स्व॑रि॒दमिदा॑स वा॒मम॒यं प्र॑का॒श उ॒र्व१॒॑न्तरि॑क्षम् ।  
+हना॑व वृ॒त्रं नि॒रेहि॑ सोम ह॒विष्ट्वा॒ सन्तं॑ ह॒विषा॑ यजाम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - “sacrifice; worship; worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

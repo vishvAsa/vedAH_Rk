@@ -4,6 +4,7 @@ devataa = "ऋणंचयेन्द्रौ"
 RShiH = "बभ्रुरात्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋणंचयेन्द्रौ
@@ -80,7 +81,12 @@ nŕ̥tamasya ← nŕ̥tama- (nominal stem)
 
 práti ← práti (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रमि॒दं रु॒शमा॑ अग्ने अक्र॒न्गवां॑ च॒त्वारि॒ दद॑तः स॒हस्रा॑ ।  
+ऋ॒णं॒च॒यस्य॒ प्रय॑ता म॒घानि॒ प्रत्य॑ग्रभीष्म॒ नृत॑मस्य नृ॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

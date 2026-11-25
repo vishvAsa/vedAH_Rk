@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ ukṣámāṇaḥ ← √ukṣ- (root)
 
 vidyútā ← vidyút- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सु॑ष्टु॒तिः स्त॒नय॑न्तं रु॒वन्त॑मि॒ळस्पतिं॑ जरितर्नू॒नम॑श्याः ।  
+यो अ॑ब्दि॒माँ उ॑दनि॒माँ इय॑र्ति॒ प्र वि॒द्युता॒ रोद॑सी उ॒क्षमा॑णः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “sprinkle; wet.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -223,12 +228,6 @@ to him who, rich in clouds, rich in water, sets in motion the two
 world-halves with his lightning, as he sprinkles them.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Despite the position of prá, opening a pāda that ends with the part.
-
-ukṣámāṇaḥ, I take the prá not with that participle but with immediately preceding pāda-final íyarti. For one thing, prá is found elsewhere with íyar- while it is not with √ukṣ, and in addition tmesis of preverb + participle is fairly uncommon (though certainly not unheard of). Geldner and Renou seem to follow the other route, taking it as license to interpr. íyarti as intrans. or at least objectless (Geldner ‘heraufzieht’, Renou ‘s’avance’). But íyar- is otherwise always transitive, and though we would prefer the two world halves not to be in motion, the point here is that Parjanya’s thunderstorm is powerful enough to shake them. Witzel Gotō’s interpr. is like mine.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/042/14-16.md">
 <details><summary><h2>14-16 ...{Loading}...</h2></summary>
 
@@ -236,7 +235,6 @@ This trio of vss. echoes vs. 1 and ring-compositionally seems to bring the hymn 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

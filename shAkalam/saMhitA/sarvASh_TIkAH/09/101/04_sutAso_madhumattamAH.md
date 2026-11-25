@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ययातिर्नाहुषः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -65,7 +66,12 @@ mádāḥ ← máda- (nominal stem)
 
 vaḥ ← tvám (pronoun)  
 {case:ACC, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒तासो॒ मधु॑मत्तमाः॒ सोमा॒ इन्द्रा॑य म॒न्दिनः॑ ।  
+प॒वित्र॑वन्तो अक्षरन्दे॒वान्ग॑च्छन्तु वो॒ मदाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
     vivification.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -175,7 +180,6 @@ provided with filters, have flowed. Let your exhilarating drinks go to  the gods
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -183,7 +187,6 @@ No particular unity in this tṛca unless the mention of Indra in each vs. count
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

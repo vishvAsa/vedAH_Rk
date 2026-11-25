@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -76,7 +77,12 @@ dhī́ram ← dhī́ra- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यमे॑मि वि॒चाक॑शद्विचि॒न्वन्दास॒मार्य॑म् ।  
+पिबा॑मि पाक॒सुत्व॑नो॒ऽभि धीर॑मचाकशं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -193,7 +198,7 @@ Pischel and Geldaer translate the verse very nearly as I have done. They, howeve
 
 Indrāṇī now says that this dead animal should be given to Vr̥ṣhākapi, especially as Indra has already got his oblations of bulls. I have already shown that there were several legends about the " antelope's head." It seems that Indrāṇī, referring to some of them, assures Indra that it was not Vriṣākapi in the form of the antelope which she killed, but some one else (literally parasvantam - representing another than Vr̥ṣākapi, as Sāyaṇa takes it.)
 
-Thereon Indra, having thus saved Vr̥ṣākapi by his intercession, observes, "Thus do I go seeing and discriminating between a dasa and an arya ; I take my drink from those that prepare Soma juice and cook the oblations, and thus behold or protect the intelligent sacrificers." In another word, Indra is glad that he has saved an Arya, and triumphantly declares that he is always careful to distinguish between an Arya and a Dāsa, the latter of whom he would punish and kill, e.g., Vr̥tra, who is said to be a Dāsa, Vr̥ṣākapi being thus saved Indra, in the following verses, bids him a farewell, wishing for a safe journey and speedy return. These verses are very important for our present purpose, and I shall therefore examine them singly. 
+Thereon Indra, having thus saved Vr̥ṣākapi by his intercession, observes, "Thus do I go seeing and discriminating between a dasa and an arya ; I take my drink from those that prepare Soma juice and cook the oblations, and thus behold or protect the intelligent sacrificers." In another word, Indra is glad that he has saved an Arya, and triumphantly declares that he is always careful to distinguish between an Arya and a Dāsa, the latter of whom he would punish and kill, e.g., Vr̥tra, who is said to be a Dāsa, Vr̥ṣākapi being thus saved Indra, in the following verses, bids him a farewell, wishing for a safe journey and speedy return. These verses are very important for our present purpose, and I shall therefore examine them singly.
 </details>
 
 <details><summary>Wilson</summary>

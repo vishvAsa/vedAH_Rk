@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -95,7 +96,12 @@ prá ← prá (invariable)
 
 vīthaḥ ← √vī- 1 (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॑ भूषन्क्षि॒तयो॒ जन्म॒ रोद॑स्योः प्र॒वाच्यं॑ वृषणा॒ दक्ष॑से म॒हे ।  
+यदी॑मृ॒ताय॒ भर॑थो॒ यदर्व॑ते॒ प्र होत्र॑या॒ शिम्या॑ वीथो अध्व॒रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “yajña; ceremony; adhvara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

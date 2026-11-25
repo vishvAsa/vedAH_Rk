@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ cit ← cit (invariable)
 
 vr̥dhé ← vŕ̥dh- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यू॒थेव॑ क्षु॒मति॑ प॒श्वो अ॑ख्यद्दे॒वानां॒ यज्जनि॒मान्त्यु॑ग्र ।  
+मर्ता॑नां चिदु॒र्वशी॑रकृप्रन्वृ॒धे चि॑द॒र्य उप॑रस्या॒योः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -77,7 +78,12 @@ sukŕ̥te ← sukŕ̥t- (nominal stem)
 
 vásūni ← vásu- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अभू॑दु॒षा इन्द्र॑तमा म॒घोन्यजी॑जनत्सुवि॒ताय॒ श्रवां॑सि ।  
+वि दि॒वो दे॒वी दु॑हि॒ता द॑धा॒त्यङ्गि॑रस्तमा सु॒कृते॒ वसू॑नि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

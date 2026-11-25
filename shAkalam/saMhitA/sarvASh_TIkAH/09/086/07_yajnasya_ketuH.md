@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "आकृष्टा माषाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ róruvat ← √rū- (root)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञस्य॑ के॒तुः प॑वते स्वध्व॒रः सोमो॑ दे॒वाना॒मुप॑ याति निष्कृ॒तम् ।  
+स॒हस्र॑धारः॒ परि॒ कोश॑मर्षति॒ वृषा॑ प॒वित्र॒मत्ये॑ति॒ रोरु॑वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “bellow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -248,7 +253,6 @@ Having a thousand streams, he rushes around the cask. The bull keeps  bellowing 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -256,7 +260,6 @@ The beginning and end of this tṛca echo the preceding one: ketúḥ in 7a pick
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

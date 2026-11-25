@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ sújātāḥ ← sújāta- (nominal stem)
 
 tanvàḥ ← tanū́- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ति॒स्रो यद॑ग्ने श॒रद॒स्त्वामिच्छुचिं॑ घृ॒तेन॒ शुच॑यः सप॒र्यान् ।  
+नामा॑नि चिद्दधिरे य॒ज्ञिया॒न्यसू॑दयन्त त॒न्व१॑ः॒ सुजा॑ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

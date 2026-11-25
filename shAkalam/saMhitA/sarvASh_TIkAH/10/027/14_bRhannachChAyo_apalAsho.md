@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ ní ← ní (invariable)
 
 ū́dhar ← ū́dhar- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृ॒हन्न॑च्छा॒यो अ॑पला॒शो अर्वा॑ त॒स्थौ मा॒ता विषि॑तो अत्ति॒ गर्भः॑ ।  
+अ॒न्यस्या॑ व॒त्सं रि॑ह॒ती मि॑माय॒ कया॑ भु॒वा नि द॑धे धे॒नुरूधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “udder; ūdhas \[word\]; night.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -80,7 +81,12 @@ paprathanta ← √prathⁱ- (root)
 
 svadháyā ← svadhā́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ह॒विष्पान्त॑म॒जरं॑ स्व॒र्विदि॑ दिवि॒स्पृश्याहु॑तं॒ जुष्ट॑म॒ग्नौ ।  
+तस्य॒ भर्म॑णे॒ भुव॑नाय दे॒वा धर्म॑णे॒ कं स्व॒धया॑ पप्रथन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “be known; expand; expand; boom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

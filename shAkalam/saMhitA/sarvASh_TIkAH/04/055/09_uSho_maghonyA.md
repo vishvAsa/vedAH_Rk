@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -57,7 +58,12 @@ asmábhyam ← ahám (pronoun)
 
 vājinīvati ← vājínīvant- (nominal stem)  
 {case:VOC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उषो॑ मघो॒न्या व॑ह॒ सूनृ॑ते॒ वार्या॑ पु॒रु ।  
+अ॒स्मभ्यं॑ वाजिनीवति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “rich; rich in horses.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

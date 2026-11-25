@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ rā́yaḥ ← rayí- ~ rāy- (nominal stem)
 
 syuḥ ← √as- 1 (root)  
 {number:PL, person:3, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तस्य॑ र॒श्मिम॑नु॒यच्छ॑माना भ॒द्रम्भ॑द्रं॒ क्रतु॑म॒स्मासु॑ धेहि ।  
+उषो॑ नो अ॒द्य सु॒हवा॒ व्यु॑च्छा॒स्मासु॒ रायो॑ म॒घव॑त्सु च स्युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

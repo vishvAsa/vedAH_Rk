@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ pári ← pári (invariable)
 
 vā́ram ← vā́ra- 1 (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपो॑ म॒तिः पृ॒च्यते॑ सि॒च्यते॒ मधु॑ म॒न्द्राज॑नी चोदते अ॒न्तरा॒सनि॑ ।  
+पव॑मानः सन्त॒निः प्र॑घ्न॒तामि॑व॒ मधु॑मान्द्र॒प्सः परि॒ वार॑मर्षति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “run.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

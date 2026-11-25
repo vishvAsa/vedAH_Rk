@@ -4,6 +4,7 @@ devataa = "वेनः"
 RShiH = "वेनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वेनः
@@ -83,7 +84,12 @@ rájasi ← rájas- (nominal stem)
 
 tr̥tī́ye ← tr̥tī́ya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्र॒प्सः स॑मु॒द्रम॒भि यज्जिगा॑ति॒ पश्य॒न्गृध्र॑स्य॒ चक्ष॑सा॒ विध॑र्मन् ।  
+भा॒नुः शु॒क्रेण॑ शो॒चिषा॑ चका॒नस्तृ॒तीये॑ चक्रे॒ रज॑सि प्रि॒याणि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     good; liked; suitable; proper.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

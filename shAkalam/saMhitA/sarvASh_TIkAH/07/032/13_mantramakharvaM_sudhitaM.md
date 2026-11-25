@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ kármaṇā ← kárman- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मन्त्र॒मख॑र्वं॒ सुधि॑तं सु॒पेश॑सं॒ दधा॑त य॒ज्ञिये॒ष्वा ।  
+पू॒र्वीश्च॒न प्रसि॑तयस्तरन्ति॒ तं य इन्द्रे॒ कर्म॑णा॒ भुव॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

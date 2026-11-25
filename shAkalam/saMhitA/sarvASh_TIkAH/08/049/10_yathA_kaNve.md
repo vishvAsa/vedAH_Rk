@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ híraṇyavat ← híraṇyavant- (nominal stem)
 
 índra ← índra- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॒ कण्वे॑ मघवन्त्र॒सद॑स्यवि॒ यथा॑ प॒क्थे दश॑व्रजे ।  
+यथा॒ गोश॑र्ये॒ अस॑नोरृ॒जिश्व॒नीन्द्र॒ गोम॒द्धिर॑ण्यवत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -166,7 +172,6 @@ _________
 - “possessing gold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

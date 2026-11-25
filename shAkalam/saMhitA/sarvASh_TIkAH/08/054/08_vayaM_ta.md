@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ práskaṇvāya ← práskaṇva- (nominal stem)
 
 tośaya ← √tuś- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व॒यं त॑ इन्द्र॒ स्तोमे॑भिर्विधेम॒ त्वम॒स्माकं॑ शतक्रतो ।  
+महि॑ स्थू॒रं श॑श॒यं राधो॒ अह्र॑यं॒ प्रस्क॑ण्वाय॒ नि तो॑शय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - \[verb\], singular, Present imperative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

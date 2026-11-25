@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -83,7 +84,12 @@ takṣata ← √takṣ- (root)
 
 vr̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वः॑ सु॒नोत्य॑भिपि॒त्वे अह्नां॑ ती॒व्रं वा॑जासः॒ सव॑नं॒ मदा॑य ।  
+तस्मै॑ र॒यिमृ॑भवः॒ सर्व॑वीर॒मा त॑क्षत वृषणो मन्दसा॒नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “rejoice; exhilarate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

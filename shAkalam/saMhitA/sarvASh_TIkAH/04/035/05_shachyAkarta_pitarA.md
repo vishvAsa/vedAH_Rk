@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -77,7 +78,12 @@ r̥bhavaḥ ← r̥bhú- (nominal stem)
 
 vājaratnāḥ ← vā́jaratna- (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शच्या॑कर्त पि॒तरा॒ युवा॑ना॒ शच्या॑कर्त चम॒सं दे॑व॒पान॑म् ।  
+शच्या॒ हरी॒ धनु॑तरावतष्टेन्द्र॒वाहा॑वृभवो वाजरत्नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
     jewelry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

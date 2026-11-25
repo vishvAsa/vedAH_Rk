@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ puraṁdara ← puraṁdará- (nominal stem)
 
 vr̥trā́ṇi ← vr̥trá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उत्ते॑ श॒तान्म॑घव॒न्नुच्च॒ भूय॑स॒ उत्स॒हस्रा॑द्रिरिचे कृ॒ष्टिषु॒ श्रवः॑ ।  
+अ॒मा॒त्रं त्वा॑ धि॒षणा॑ तित्विषे म॒ह्यधा॑ वृ॒त्राणि॑ जिघ्नसे पुरन्दर ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “Indra; puraṃdara \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

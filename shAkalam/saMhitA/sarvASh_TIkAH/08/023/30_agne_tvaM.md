@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ r̥tā́vānā ← ŕ̥tāvan- (nominal stem)
 
 samrā́jā ← samrā́j- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ त्वं य॒शा अ॒स्या मि॒त्रावरु॑णा वह ।  
+ऋ॒तावा॑ना स॒म्राजा॑ पू॒तद॑क्षसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “intelligent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

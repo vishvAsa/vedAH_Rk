@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ yā́ ← yá- (pronoun)
 
 yā́ ← yá- (pronoun)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रथा॑य॒ नाव॑मु॒त नो॑ गृ॒हाय॒ नित्या॑रित्रां प॒द्वतीं॑ रास्यग्ने ।  
+अ॒स्माकं॑ वी॒राँ उ॒त नो॑ म॒घोनो॒ जनाँ॑श्च॒ या पा॒रया॒च्छर्म॒ या च॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

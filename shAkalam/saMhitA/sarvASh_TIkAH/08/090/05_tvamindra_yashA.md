@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ vr̥trā́ṇi ← vr̥trá- (nominal stem)
 
 carṣaṇīdhŕ̥tā ← carṣaṇīdhŕ̥t- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमि॑न्द्र य॒शा अ॑स्यृजी॒षी श॑वसस्पते ।  
+त्वं वृ॒त्राणि॑ हंस्यप्र॒तीन्येक॒ इदनु॑त्ता चर्षणी॒धृता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “maintaining.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

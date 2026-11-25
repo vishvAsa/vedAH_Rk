@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -75,7 +76,12 @@ nítyaḥ ← nítya- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम॒ग्निमस्ते॒ वस॑वो॒ न्यृ॑ण्वन्त्सुप्रति॒चक्ष॒मव॑से॒ कुत॑श्चित् ।  
+द॒क्षाय्यो॒ यो दम॒ आस॒ नित्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
     connatural; necessary; durable; ageless; invariable; biological.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

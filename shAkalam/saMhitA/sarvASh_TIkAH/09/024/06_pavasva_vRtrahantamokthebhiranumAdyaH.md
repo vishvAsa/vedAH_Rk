@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -51,7 +52,12 @@ pāvakáḥ ← pāvaká- (nominal stem)
 
 śúciḥ ← śúci- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व वृत्रहन्तमो॒क्थेभि॑रनु॒माद्यः॑ ।  
+शुचिः॑ पाव॒को अद्भु॑तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -110,7 +116,6 @@ _________
 - “extraordinary; amazing; supernatural.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

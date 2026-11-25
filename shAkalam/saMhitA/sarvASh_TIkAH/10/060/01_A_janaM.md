@@ -4,6 +4,7 @@ devataa = "असमातिः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - असमातिः
@@ -54,7 +55,12 @@ bíbhrataḥ ← √bhr̥- (root)
 
 námaḥ ← námas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ जनं॑ त्वे॒षसं॑दृशं॒ माही॑नाना॒मुप॑स्तुतम् ।  
+अग॑न्म॒ बिभ्र॑तो॒ नमः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “adoration; court; namas \[word\]; bow; salute.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ gandharvám ← gandharvá- (nominal stem)
 
 tsárat ← √tsar- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्तु॒दत्सूर॒ एत॑शं व॒ङ्कू वात॑स्य प॒र्णिना॑ ।  
+वह॒त्कुत्स॑मार्जुने॒यं श॒तक्र॑तुः॒ त्सर॑द्गन्ध॒र्वमस्तृ॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “durable; invincible.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

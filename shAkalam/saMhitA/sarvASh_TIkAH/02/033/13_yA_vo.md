@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -98,7 +99,12 @@ vaśmi ← √vaś- (root)
 
 yós ← yós (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या वो॑ भेष॒जा म॑रुतः॒ शुची॑नि॒ या शन्त॑मा वृषणो॒ या म॑यो॒भु ।  
+यानि॒ मनु॒रवृ॑णीता पि॒ता न॒स्ता शं च॒ योश्च॑ रु॒द्रस्य॑ वश्मि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -250,7 +256,6 @@ _________
 - “desire; agree; call; care; like; love.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

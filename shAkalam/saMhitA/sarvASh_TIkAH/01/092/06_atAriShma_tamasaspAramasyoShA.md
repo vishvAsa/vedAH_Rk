@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ saumanasā́ya ← saumanasá- (nominal stem)
 
 suprátīkā ← suprátīka- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अता॑रिष्म॒ तम॑सस्पा॒रम॒स्योषा उ॒च्छन्ती॑ व॒युना॑ कृणोति ।  
+श्रि॒ये छन्दो॒ न स्म॑यते विभा॒ती सु॒प्रती॑का सौमन॒साया॑जीगः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “wake; watch; awaken; wake up; oversee.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

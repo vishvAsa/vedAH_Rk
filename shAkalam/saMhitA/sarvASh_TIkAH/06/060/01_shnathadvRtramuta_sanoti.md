@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -80,7 +81,12 @@ sáhastamā ← sáhastama- (nominal stem)
 
 vājayántā ← √vājay- 2 (root)  
 {case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्नथ॑द्वृ॒त्रमु॒त स॑नोति॒ वाज॒मिन्द्रा॒ यो अ॒ग्नी सहु॑री सप॒र्यात् ।  
+इ॒र॒ज्यन्ता॑ वस॒व्य॑स्य॒ भूरेः॒ सह॑स्तमा॒ सह॑सा वाज॒यन्ता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “incite.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

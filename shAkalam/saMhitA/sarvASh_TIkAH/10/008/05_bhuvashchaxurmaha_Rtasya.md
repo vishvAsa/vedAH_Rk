@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ jújoṣaḥ ← √juṣ- (root)
 
 yásya ← yá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भुव॒श्चक्षु॑र्म॒ह ऋ॒तस्य॑ गो॒पा भुवो॒ वरु॑णो॒ यदृ॒ताय॒ वेषि॑ ।  
+भुवो॑ अ॒पां नपा॑ज्जातवेदो॒ भुवो॑ दू॒तो यस्य॑ ह॒व्यं जुजो॑षः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ bháreṣu ← bhára- (nominal stem)
 
 jigyúṣām ← √ji- 1 (root)  
 {case:GEN, gender:M, number:PL, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सि॒षा॒सतू॑ रयी॒णां वाजे॒ष्वर्व॑तामिव ।  
+भरे॑षु जि॒ग्युषा॑मसि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -114,7 +120,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

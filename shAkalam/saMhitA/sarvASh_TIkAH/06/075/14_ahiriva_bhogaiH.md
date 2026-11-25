@@ -4,6 +4,7 @@ devataa = "हस्तघ्नः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - हस्तघ्नः
@@ -86,7 +87,12 @@ púmān ← púmaṁs- (nominal stem)
 
 viśvátas ← viśvátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अहि॑रिव भो॒गैः पर्ये॑ति बा॒हुं ज्याया॑ हे॒तिं प॑रि॒बाध॑मानः ।  
+ह॒स्त॒घ्नो विश्वा॑ व॒युना॑नि वि॒द्वान्पुमा॒न्पुमां॑सं॒ परि॑ पातु वि॒श्वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “everywhere; around; about.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

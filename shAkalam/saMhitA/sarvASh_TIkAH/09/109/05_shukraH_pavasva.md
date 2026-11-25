@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अग्नयो धिष्ण्या ऐश्वराः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -55,7 +56,11 @@ pr̥thivyaí ← pr̥thivī́- (nominal stem)
 
 śám ← śám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒क्रः प॑वस्व दे॒वेभ्यः॑ सोम दि॒वे पृ॑थि॒व्यै शं च॑ प्र॒जायै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +125,6 @@ _________
     child; descendants; population; race; animal.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -147,7 +151,6 @@ Gleaming, purify yourself for the gods, o Soma, for heaven, for earth,  and as w
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -155,7 +158,6 @@ All three vss. contain the impv. pavasva. Vss. 5-6 both contain śukrá-, also f
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

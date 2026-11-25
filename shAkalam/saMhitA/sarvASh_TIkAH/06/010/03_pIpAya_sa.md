@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ sātā́ ← sātí- (nominal stem)
 
 vrajásya ← vrajá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पी॒पाय॒ स श्रव॑सा॒ मर्त्ये॑षु॒ यो अ॒ग्नये॑ द॒दाश॒ विप्र॑ उ॒क्थैः ।  
+चि॒त्राभि॒स्तमू॒तिभि॑श्चि॒त्रशो॑चिर्व्र॒जस्य॑ सा॒ता गोम॑तो दधाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पितरः"
 RShiH = "शङ्खो यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पितरः
@@ -92,7 +93,12 @@ vaḥ ← tvám (pronoun)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आच्या॒ जानु॑ दक्षिण॒तो नि॒षद्ये॒मं य॒ज्ञम॒भि गृ॑णीत॒ विश्वे॑ ।  
+मा हिं॑सिष्ट पितरः॒ केन॑ चिन्नो॒ यद्व॒ आगः॑ पुरु॒षता॒ करा॑म ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

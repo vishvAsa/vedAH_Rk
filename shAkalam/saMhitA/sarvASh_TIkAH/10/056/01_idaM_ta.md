@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ paramé ← paramá- (nominal stem)
 
 priyáḥ ← priyá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒दं त॒ एकं॑ प॒र ऊ॑ त॒ एकं॑ तृ॒तीये॑न॒ ज्योति॑षा॒ सं वि॑शस्व ।  
+सं॒वेश॑ने त॒न्व१॒॑श्चारु॑रेधि प्रि॒यो दे॒वानां॑ पर॒मे ज॒नित्रे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “birthplace; parent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

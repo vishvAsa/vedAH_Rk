@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ patī ← páti- (nominal stem)
 
 vasūyā́t ← √vasūy- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रास्मा॒ ऊर्जं॑ घृत॒श्चुत॒मश्वि॑ना॒ यच्छ॑तं यु॒वम् ।  
+यो वां॑ सु॒म्नाय॑ तु॒ष्टव॑द्वसू॒याद्दा॑नुनस्पती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -196,7 +201,6 @@ who will praise you for your favor and will seek goods from you, o lords  of the
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/008/15-16.md">
 <details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -204,7 +208,6 @@ Another example of chained vocabulary: ghṛtaścút- ‘dripping with ghee’, 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

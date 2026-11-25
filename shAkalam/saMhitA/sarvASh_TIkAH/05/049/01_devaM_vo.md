@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिप्रभ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ divé-dive ← dyú- ~ div- (nominal stem)
 
 sakhīyán ← √sakhīy- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वं वो॑ अ॒द्य स॑वि॒तार॒मेषे॒ भगं॑ च॒ रत्नं॑ वि॒भज॑न्तमा॒योः ।  
+आ वां॑ नरा पुरुभुजा ववृत्यां दि॒वेदि॑वे चिदश्विना सखी॒यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “befriend.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

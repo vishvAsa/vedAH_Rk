@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ usrā́ḥ ← usrá- (nominal stem)
 
 vividuḥ ← √vid- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॒ळु चि॑द्दृ॒ळ्हा पि॒तरो॑ न उ॒क्थैरद्रिं॑ रुज॒न्नङ्गि॑रसो॒ रवे॑ण ।  
+च॒क्रुर्दि॒वो बृ॑ह॒तो गा॒तुम॒स्मे अहः॒ स्व॑र्विविदुः के॒तुमु॒स्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

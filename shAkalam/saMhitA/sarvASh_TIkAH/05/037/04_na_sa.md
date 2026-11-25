@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ púṣyan ← √puṣ- (root)
 
 subhágaḥ ← subhága- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न स राजा॑ व्यथते॒ यस्मि॒न्निन्द्र॑स्ती॒व्रं सोमं॒ पिब॑ति॒ गोस॑खायम् ।  
+आ स॑त्व॒नैरज॑ति॒ हन्ति॑ वृ॒त्रं क्षेति॑ क्षि॒तीः सु॒भगो॒ नाम॒ पुष्य॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “boom; grow; promote; foster.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

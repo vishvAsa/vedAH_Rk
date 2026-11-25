@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ ní ← ní (invariable)
 
 śithiré ← śithirá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒वं च्यवा॑नं ज॒रसो॑ऽमुमुक्तं॒ नि पे॒दव॑ ऊहथुरा॒शुमश्व॑म् ।  
+निरंह॑स॒स्तम॑सः स्पर्त॒मत्रिं॒ नि जा॑हु॒षं शि॑थि॒रे धा॑तम॒न्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “inside; in; antar \[word\]; midmost; between; among.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

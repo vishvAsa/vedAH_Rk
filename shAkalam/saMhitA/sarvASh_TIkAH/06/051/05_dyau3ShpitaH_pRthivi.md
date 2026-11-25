@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ ví ← ví (invariable)
 
 yanta ← √yam- (root)  
 {number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यौ॒३॒॑ष्पितः॒ पृथि॑वि॒ मात॒रध्रु॒गग्ने॑ भ्रातर्वसवो मृ॒ळता॑ नः ।  
+विश्व॑ आदित्या अदिते स॒जोषा॑ अ॒स्मभ्यं॒ शर्म॑ बहु॒लं वि य॑न्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

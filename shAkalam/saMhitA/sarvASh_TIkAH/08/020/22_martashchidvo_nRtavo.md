@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ vaḥ ← tvám (pronoun)
 
 nídhruvi ← nídhruvi- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मर्त॑श्चिद्वो नृतवो रुक्मवक्षस॒ उप॑ भ्रातृ॒त्वमाय॑ति ।  
+अधि॑ नो गात मरुतः॒ सदा॒ हि व॑ आपि॒त्वमस्ति॒ निध्रु॑वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “sedentary.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोमाहुतिर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -66,7 +67,12 @@ jányā ← jánya- (nominal stem)
 
 mítryaḥ ← mítrya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न्तर्ह्य॑ग्न॒ ईय॑से वि॒द्वाञ्जन्मो॒भया॑ कवे ।  
+दू॒तो जन्ये॑व॒ मित्र्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “friendly.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ sajóṣāḥ ← sajóṣa- (nominal stem)
 
 stómam ← stóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते नो॑ मि॒त्रो वरु॑णो अर्य॒मायुरिन्द्र॑ ऋभु॒क्षा म॒रुतो॑ जुषन्त ।  
+नमो॑भिर्वा॒ ये दध॑ते सुवृ॒क्तिं स्तोमं॑ रु॒द्राय॑ मी॒ळ्हुषे॑ स॒जोषाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

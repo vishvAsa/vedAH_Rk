@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ upásthe ← upástha- (nominal stem)
 
 uruṣyát ← √uruṣy- (root)  
 {number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒द्यो जा॒त ओष॑धीभिर्ववक्षे॒ यदी॒ वर्ध॑न्ति प्र॒स्वो॑ घृ॒तेन॑ ।  
+आप॑ इव प्र॒वता॒ शुम्भ॑माना उरु॒ष्यद॒ग्निः पि॒त्रोरु॒पस्थे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
 - “genitalia; lap; sexual desire; anus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

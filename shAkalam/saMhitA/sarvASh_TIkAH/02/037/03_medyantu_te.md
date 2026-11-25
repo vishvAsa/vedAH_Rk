@@ -4,6 +4,7 @@ devataa = "द्रविणोदाः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रविणोदाः
@@ -83,7 +84,12 @@ r̥túbhiḥ ← r̥tú- (nominal stem)
 
 sómam ← sóma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मेद्य॑न्तु ते॒ वह्न॑यो॒ येभि॒रीय॒सेऽरि॑षण्यन्वीळयस्वा वनस्पते ।  
+आ॒यूया॑ धृष्णो अभि॒गूर्या॒ त्वं ने॒ष्ट्रात्सोमं॑ द्रविणोदः॒ पिब॑ ऋ॒तुभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -235,12 +240,6 @@ Allowing no harm to befall, make yourself firm, o lord of the forest  [=chariot]
 Having drawn it to you, bold one, having greeted it: the soma from the  Neṣṭar’s cup, o Wealth-Giver—drink it at your turns.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Although the default referent of the voc. vanaspate in a ritual context might be assumed to be the sacrificial post (cf. III.8.1, 3, 6, 11), the contents of ab -- both the draught animals of a and vīḍayasvā in b -- point rather to the chariot. See VI.47.26 cited by both Geldner and Renou Why the chariot is addressed and identified with the wealth-giver is not clear to me, save for the fact that in the later ritual the Ṛtugraha libations take place in the cart shed (see, e.g., Eggeling, SBE 26.319-20).
-
-Note that the havirdhāna carts are the subject of the last tṛca of nearby II.41 (vss. 19- 21).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
@@ -248,7 +247,6 @@ The d pādas of the first three vss. have a rigid structure: PRIEST’S CUP sóm
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ sahásrāṇi ← sahásra- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वाम॑ग्ने॒ दम॒ आ वि॒श्पतिं॒ विश॒स्त्वां राजा॑नं सुवि॒दत्र॑मृञ्जते ।  
+त्वं विश्वा॑नि स्वनीक पत्यसे॒ त्वं स॒हस्रा॑णि श॒ता दश॒ प्रति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “towards; per; regarding; respectively; according to; until.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

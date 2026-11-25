@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -88,7 +89,12 @@ sakthyā̀ ← sakthī́- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न सेशे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते ।  
+सेदी॑शे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॒द्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -230,7 +235,7 @@ _________
 
 <details><summary>Tilak - Commentary</summary>
 
-The fifteenth and the sixteenth seem to be addressed to Indra by Indrāṇī, and the seventeenth to Indrāṇī by Indra. In the fifteenth Indrāni, according to Sāyāṇa, asked Indra to sport with her just as a bull, with pointed horns, roars amongst a number of cows. The next two verses do not appear to be relevant to our purpose. We may therefore pass these over, and resume the thread of the story. Pischel and Geldner suppose that the 17th and 18th verses are addressed by Vr̥ṣakapāyī. 
+The fifteenth and the sixteenth seem to be addressed to Indra by Indrāṇī, and the seventeenth to Indrāṇī by Indra. In the fifteenth Indrāni, according to Sāyāṇa, asked Indra to sport with her just as a bull, with pointed horns, roars amongst a number of cows. The next two verses do not appear to be relevant to our purpose. We may therefore pass these over, and resume the thread of the story. Pischel and Geldner suppose that the 17th and 18th verses are addressed by Vr̥ṣakapāyī.
 </details>
 
 <details><summary>Wilson</summary>

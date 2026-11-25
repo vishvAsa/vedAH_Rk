@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -57,7 +58,12 @@ véda ← √vid- 2 (root)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वेद॒ वात॑स्य वर्त॒निमु॒रोरृ॒ष्वस्य॑ बृह॒तः ।  
+वेदा॒ ये अ॒ध्यास॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “dwell; sit down.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

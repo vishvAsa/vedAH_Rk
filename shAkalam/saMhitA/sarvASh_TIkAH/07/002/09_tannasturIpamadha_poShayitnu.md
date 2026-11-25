@@ -4,6 +4,7 @@ devataa = "त्वष्टा"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्वष्टा
@@ -83,7 +84,12 @@ jā́yate ← √janⁱ- (root)
 
 yuktágrāvā ← yuktágrāvan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तन्न॑स्तु॒रीप॒मध॑ पोषयि॒त्नु देव॑ त्वष्ट॒र्वि र॑रा॒णः स्य॑स्व ।  
+यतो॑ वी॒रः क॑र्म॒ण्यः॑ सु॒दक्षो॑ यु॒क्तग्रा॑वा॒ जाय॑ते दे॒वका॑मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

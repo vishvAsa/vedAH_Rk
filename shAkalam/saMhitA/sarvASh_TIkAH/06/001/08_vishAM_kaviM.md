@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ rayīṇā́m ← rayí- ~ rāy- (nominal stem)
 
 yajatám ← yajatá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒शां क॒विं वि॒श्पतिं॒ शश्व॑तीनां नि॒तोश॑नं वृष॒भं च॑र्षणी॒नाम् ।  
+प्रेती॑षणिमि॒षय॑न्तं पाव॒कं राज॑न्तम॒ग्निं य॑ज॒तं र॑यी॒णाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “wealth; property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

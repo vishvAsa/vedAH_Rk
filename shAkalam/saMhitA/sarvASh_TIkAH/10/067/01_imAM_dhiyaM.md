@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "अयास्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -80,7 +81,12 @@ ayā́syaḥ ← ayā́sya- (nominal stem)
 
 ukthám ← ukthá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मां धियं॑ स॒प्तशी॑र्ष्णीं पि॒ता न॑ ऋ॒तप्र॑जातां बृह॒तीम॑विन्दत् ।  
+तु॒रीयं॑ स्विज्जनयद्वि॒श्वज॑न्यो॒ऽयास्य॑ उ॒क्थमिन्द्रा॑य॒ शंस॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     bode; name; agree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

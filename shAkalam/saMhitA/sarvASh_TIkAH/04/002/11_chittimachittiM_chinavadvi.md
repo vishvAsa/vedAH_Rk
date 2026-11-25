@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ rā́sva ← √rā- 1 (root)
 
 uruṣya ← √uruṣy- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चित्ति॒मचि॑त्तिं चिनव॒द्वि वि॒द्वान्पृ॒ष्ठेव॑ वी॒ता वृ॑जि॒ना च॒ मर्ता॑न् ।  
+रा॒ये च॑ नः स्वप॒त्याय॑ देव॒ दितिं॑ च॒ रास्वादि॑तिमुरुष्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
 - “protect; help.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

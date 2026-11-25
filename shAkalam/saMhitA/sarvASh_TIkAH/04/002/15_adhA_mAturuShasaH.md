@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ rujema ← √ruj- (root)
 
 śucántaḥ ← √śuc- (root)  
 {case:NOM, gender:M, number:PL, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑ मा॒तुरु॒षसः॑ स॒प्त विप्रा॒ जाये॑महि प्रथ॒मा वे॒धसो॒ नॄन् ।  
+दि॒वस्पु॒त्रा अङ्गि॑रसो भवे॒माद्रिं॑ रुजेम ध॒निनं॑ शु॒चन्तः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “mourn; grieve; flame; glow; burn; repent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

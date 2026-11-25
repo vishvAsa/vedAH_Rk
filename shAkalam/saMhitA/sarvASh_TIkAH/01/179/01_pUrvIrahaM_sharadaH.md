@@ -4,6 +4,7 @@ devataa = "रतिः"
 RShiH = "लोपामुद्रा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रतिः
@@ -86,7 +87,12 @@ u ← u (invariable)
 
 vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒र्वीर॒हं श॒रदः॑ शश्रमा॒णा दो॒षा वस्तो॑रु॒षसो॑ ज॒रय॑न्तीः ।  
+मि॒नाति॒ श्रियं॑ जरि॒मा त॒नूना॒मप्यू॒ नु पत्नी॒र्वृष॑णो जगम्युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -238,10 +243,6 @@ _________
 Old age diminishes the beauty of bodies. Bullish (men) should now come  to their wives.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich contains a predicated perfect participle śaśramāṇā́.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/179/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -249,7 +250,6 @@ The final pādas of these two verses depict a neatly contrasting sexual conjunct
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

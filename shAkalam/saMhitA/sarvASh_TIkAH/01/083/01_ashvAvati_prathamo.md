@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ vícetasaḥ ← vícetas- (nominal stem)
 
 yáthā ← yáthā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वा॑वति प्रथ॒मो गोषु॑ गच्छति सुप्रा॒वीरि॑न्द्र॒ मर्त्य॒स्तवो॒तिभिः॑ ।  
+तमित्पृ॑णक्षि॒ वसु॑ना॒ भवी॑यसा॒ सिन्धु॒मापो॒ यथा॒भितो॒ विचे॑तसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “wise; diligent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

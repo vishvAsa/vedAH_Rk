@@ -4,6 +4,7 @@ devataa = "इन्द्रो वैकुंठः"
 RShiH = "इन्द्रो वैकुंठः"
 ChandaH = "अभिसारिणी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो वैकुंठः
@@ -98,7 +99,12 @@ svā́su ← svá- (pronoun)
 
 urvárāsu ← urvárā- (nominal stem)  
 {case:LOC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+के ते नर॑ इन्द्र॒ ये त॑ इ॒षे ये ते॑ सु॒म्नं स॑ध॒न्य१॒॑मिय॑क्षान् ।  
+के ते॒ वाजा॑यासु॒र्या॑य हिन्विरे॒ के अ॒प्सु स्वासू॒र्वरा॑सु॒ पौंस्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - “manfulness; deed; army; strength.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

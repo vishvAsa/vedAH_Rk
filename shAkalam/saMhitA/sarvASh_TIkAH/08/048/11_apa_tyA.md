@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -86,7 +87,12 @@ pratiránte ← √tr̥̄- 1 (root)
 
 yátra ← yátra (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अप॒ त्या अ॑स्थु॒रनि॑रा॒ अमी॑वा॒ निर॑त्रस॒न्तमि॑षीची॒रभै॑षुः ।  
+आ सोमो॑ अ॒स्माँ अ॑रुह॒द्विहा॑या॒ अग॑न्म॒ यत्र॑ प्रति॒रन्त॒ आयुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

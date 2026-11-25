@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ dyumát ← dyumánt- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जन॑स्य गो॒पा अ॑जनिष्ट॒ जागृ॑विर॒ग्निः सु॒दक्षः॑ सुवि॒ताय॒ नव्य॑से ।  
+घृ॒तप्र॑तीको बृह॒ता दि॑वि॒स्पृशा॑ द्यु॒मद्वि भा॑ति भर॒तेभ्यः॒ शुचिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
     impeccant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

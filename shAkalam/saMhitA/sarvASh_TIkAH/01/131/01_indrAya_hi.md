@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -110,7 +111,13 @@ rātā́ni ← √rā- 1 (root)
 
 santu ← √as- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑य॒ हि द्यौरसु॑रो॒ अन॑म्न॒तेन्द्रा॑य म॒ही पृ॑थि॒वी वरी॑मभिर्द्यु॒म्नसा॑ता॒ वरी॑मभिः ।  
+इन्द्रं॒ विश्वे॑ स॒जोष॑सो दे॒वासो॑ दधिरे पु॒रः ।  
+इन्द्रा॑य॒ विश्वा॒ सव॑नानि॒ मानु॑षा रा॒तानि॑ सन्तु॒ मानु॑षा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -278,7 +285,6 @@ _________
 - “human.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

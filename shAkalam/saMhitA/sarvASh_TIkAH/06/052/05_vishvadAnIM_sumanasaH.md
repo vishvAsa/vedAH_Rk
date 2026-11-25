@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ devā́n ← devá- (nominal stem)
 
 óhānaḥ ← √uh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒श्व॒दानीं॑ सु॒मन॑सः स्याम॒ पश्ये॑म॒ नु सूर्य॑मु॒च्चर॑न्तम् ।  
+तथा॑ कर॒द्वसु॑पति॒र्वसू॑नां दे॒वाँ ओहा॒नोऽव॒साग॑मिष्ठः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “arriving(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

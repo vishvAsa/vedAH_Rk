@@ -4,6 +4,7 @@ devataa = "अग्निर्निर्मथ्योग्निराह
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निर्निर्मथ्योग्निराहवनीयश्च
@@ -57,7 +58,12 @@ havyavā́ṭ ← havyavā́h- (nominal stem)
 
 juhvā̀syaḥ ← juhvā̀sya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निना॒ग्निः समि॑ध्यते क॒विर्गृ॒हप॑ति॒र्युवा॑ ।  
+ह॒व्य॒वाड्जु॒ह्वा॑स्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

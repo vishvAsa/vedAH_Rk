@@ -4,6 +4,7 @@ devataa = "विभिन्दोर्दानस्तुतिः"
 RShiH = "मेधातिथिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विभिन्दोर्दानस्तुतिः
@@ -57,7 +58,12 @@ parás ← parás (invariable)
 
 sahásrā ← sahásra- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शिक्षा॑ विभिन्दो अस्मै च॒त्वार्य॒युता॒ दद॑त् ।  
+अ॒ष्टा प॒रः स॒हस्रा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “thousand; one-thousandth; sahasra \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

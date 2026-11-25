@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -60,7 +60,11 @@ sasā́da ← √sad- (root)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य ईं॑ चि॒केत॒ गुहा॒ भव॑न्त॒मा यः स॒साद॒ धारा॑मृ॒तस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +136,6 @@ _________
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -155,7 +158,6 @@ and who has taken his seat at the stream of truth—
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/067/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -165,7 +167,6 @@ clauses have singular rel. pronouns (yáḥ 71, 7c) and the pronoun in the main 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
@@ -186,10 +187,6 @@ Wer ihn entdeckt hat, da er sich versteckt hielt, wer zum Strom der Wahrheit gel
 
 Wer ihn erblickte, – der im Versteck lag, wer auf den Strom sich – des Opfers setzte, Und die ihn lösen – der Bräuche wartend, für die hat Güter – er stets verkündet.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

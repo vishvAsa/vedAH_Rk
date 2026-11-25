@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ mántrāḥ ← mántra- (nominal stem)
 
 stutā́ḥ ← √stu- (root)  
 {case:NOM, gender:M, number:PL, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नोऽहि॑र्बु॒ध्न्यः॑ शृणोत्व॒ज एक॑पात्पृथि॒वी स॑मु॒द्रः ।  
+विश्वे॑ दे॒वा ऋ॑ता॒वृधो॑ हुवा॒नाः स्तु॒ता मन्त्राः॑ कविश॒स्ता अ॑वन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

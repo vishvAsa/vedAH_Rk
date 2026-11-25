@@ -4,6 +4,7 @@ devataa = "इळः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इळः
@@ -60,7 +61,12 @@ asi ← √as- 1 (root)
 
 sahasrasā́ḥ ← sahasrasā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒जुह्वा॑नो न॒ ईड्यो॑ दे॒वाँ आ व॑क्षि य॒ज्ञिया॑न् ।  
+अग्ने॑ सहस्र॒सा अ॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -141,7 +147,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

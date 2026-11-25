@@ -4,6 +4,7 @@ devataa = "अग्निः सूर्यो वापो वा गाव�
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
@@ -83,7 +84,12 @@ kṣipaṇóḥ ← kṣipaṇú- (nominal stem)
 
 mr̥gā́ḥ ← mr̥gá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒म्यक्स्र॑वन्ति स॒रितो॒ न धेना॑ अ॒न्तर्हृ॒दा मन॑सा पू॒यमा॑नाः ।  
+ए॒ते अ॑र्षन्त्यू॒र्मयो॑ घृ॒तस्य॑ मृ॒गा इ॑व क्षिप॒णोरीष॑माणाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - \[verb noun\], nominative, plural
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -229,10 +234,6 @@ These nourishing liquids flow together like streams, being purified  within by h
 These waves of ghee rush, like wild beasts retreating from a javelin.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Pāda c combines etā́arṣanti from 5a with a variant of the repeated ghr̥tásya dhā́rāḥ, namely ūrmáyo ghrtásya ̥ .
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
 <details><summary><h2>05-10 ...{Loading}...</h2></summary>
 
@@ -240,7 +241,6 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

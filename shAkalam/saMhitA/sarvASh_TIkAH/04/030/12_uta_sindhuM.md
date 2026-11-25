@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ pári ← pári (invariable)
 
 sthāḥ ← √sthā- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त सिन्धुं॑ विबा॒ल्यं॑ वितस्था॒नामधि॒ क्षमि॑ ।  
+परि॑ ष्ठा इन्द्र मा॒यया॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
     trick.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,12 +169,6 @@ And the River Vibālī, which had spread out upon the earth,
 did you hem in, Indra, by your magic power.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-vibālī́- is almost universally taken as the name of (another) river, though the name (and indeed the word) shows up nowhere else. By contrast, in the first ed.
-
-of the dictionary (1872) MonWms. takes it as an adj. vibālya- “passed beyond a state of youth, in full vigor; swollen (said of a river),” though in the 2nd ed. (1899) it is simply the fem. river name vibālī́-. Witzel Gotō take it not as a toponym but with the sense ‘mit breiter Öffnung’. An attributive adjective would certainly be preferable to an unlocatable placename. Although Witzel Gotō give no explan. of their interpr., it rests on earlier discussions, whose details can be recovered in EWA (s.v.). EWA considers it the name of a river (produced from the confluence of the Vipās and the Śutudrī), but derived from a word with the same (or similar) sense as Witzel Gotō ascribe to it: ‘dessen Ufer weit auseinanderstehen’, an early MIA word with -bāra- representing pārá- ‘far shore’. See the lit. cited there.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/08-21.md">
 <details><summary><h2>08-21 ...{Loading}...</h2></summary>
 
@@ -177,7 +176,6 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

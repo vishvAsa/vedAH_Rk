@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "इन्द्रप्रमतिर्वासिष्ठ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ svastíbhiḥ ← svastí- (nominal stem)
 
 yūyám ← tvám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तो॒त्रे रा॒ये हरि॑रर्षा पुना॒न इन्द्रं॒ मदो॑ गच्छतु ते॒ भरा॑य ।  
+दे॒वैर्या॑हि स॒रथं॒ राधो॒ अच्छा॑ यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -264,10 +269,6 @@ As a fallow bay, rush for wealth for the praiser as you are being purified.  Let
 Drive on the same chariot with the gods to bounty. – Do you protect us  always with your blessings.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Like the first tṛca, this one ends with the Vasiṣṭha clan refrain. The tṛca is attributed not to Vasiṣṭha himself, but to one Indrapramati Vāsiṣṭha, who is not known from elsewhere.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -275,7 +276,6 @@ As Renou points out (ad vs. 6), the key to this tṛca is the dative of purpose:
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -83,7 +84,12 @@ támāṁsi ← támas- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्वे॑ति सु॒भगो॑ वि॒श्वच॑क्षाः॒ साधा॑रणः॒ सूर्यो॒ मानु॑षाणाम् ।  
+चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्य दे॒वश्चर्मे॑व॒ यः स॒मवि॑व्य॒क्तमां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     ignorance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

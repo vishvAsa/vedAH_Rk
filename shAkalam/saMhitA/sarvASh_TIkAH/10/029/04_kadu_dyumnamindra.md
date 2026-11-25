@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ samasya ← sama- (pronoun)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कदु॑ द्यु॒म्नमि॑न्द्र॒ त्वाव॑तो॒ नॄन्कया॑ धि॒या क॑रसे॒ कन्न॒ आग॑न् ।  
+मि॒त्रो न स॒त्य उ॑रुगाय भृ॒त्या अन्ने॑ समस्य॒ यदस॑न्मनी॒षाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -255,7 +261,6 @@ _________
     intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

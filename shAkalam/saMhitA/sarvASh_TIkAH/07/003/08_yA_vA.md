@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ smát ← smát (invariable)
 
 sūrī́n ← sūrí- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या वा॑ ते॒ सन्ति॑ दा॒शुषे॒ अधृ॑ष्टा॒ गिरो॑ वा॒ याभि॑र्नृ॒वती॑रुरु॒ष्याः ।  
+ताभि॑र्नः सूनो सहसो॒ नि पा॑हि॒ स्मत्सू॒रीञ्ज॑रि॒तॄञ्जा॑तवेदः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

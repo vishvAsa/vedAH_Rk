@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ purā́ ← purā́ (invariable)
 
 tásyāḥ ← sá- ~ tá- (pronoun)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॑ अग्ने स॒ख्या पित्र्या॑णि॒ प्र म॑र्षिष्ठा अ॒भि वि॒दुष्क॒विः सन् ।  
+नभो॒ न रू॒पं ज॑रि॒मा मि॑नाति पु॒रा तस्या॑ अ॒भिश॑स्ते॒रधी॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “learn; learn; recite; read; understand.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

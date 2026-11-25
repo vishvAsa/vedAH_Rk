@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ srasema ← √sraṁs- (root)
 
 vr̥jánam ← vr̥jána- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒श॒स्या नः॑ पुर्वणीक होतर्दे॒वेभि॑रग्ने अ॒ग्निभि॑रिधा॒नः ।  
+रा॒यः सू॑नो सहसो वावसा॒ना अति॑ स्रसेम वृ॒जनं॒ नांहः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -198,7 +204,6 @@ _________
 - “trouble; sin.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

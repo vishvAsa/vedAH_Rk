@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "तिरश्चीराङ्गिरसो द्युतानो वा मारुतः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tvā ← tvám (pronoun)
 
 vr̥ṣabhám ← vr̥ṣabhá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मन्ये॑ त्वा य॒ज्ञियं॑ य॒ज्ञिया॑नां॒ मन्ये॑ त्वा॒ च्यव॑न॒मच्यु॑तानाम् ।  
+मन्ये॑ त्वा॒ सत्व॑नामिन्द्र के॒तुं मन्ये॑ त्वा वृष॒भं च॑र्षणी॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “people.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

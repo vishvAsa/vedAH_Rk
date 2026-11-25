@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "तान्वः पार्थ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -68,7 +69,12 @@ viṣṭā́ntā ← viṣṭā́nta- (nominal stem)
 
 vŕ̥thā ← vŕ̥thā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒वर्त॒ येषां॑ रा॒या यु॒क्तैषां॑ हिर॒ण्ययी॑ ।  
+ने॒मधि॑ता॒ न पौंस्या॒ वृथे॑व वि॒ष्टान्ता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
     ant; edge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नृमेधपुरुमेधौ"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ putrásya ← putrá- (nominal stem)
 
 śávasaḥ ← śávas- (nominal stem)  
 {case:GEN, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं दा॒ता प्र॑थ॒मो राध॑साम॒स्यसि॑ स॒त्य ई॑शान॒कृत् ।  
+तु॒वि॒द्यु॒म्नस्य॒ युज्या वृ॑णीमहे पु॒त्रस्य॒ शव॑सो म॒हः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “great; great; distinguished; much(a); adult; long; high.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ dákṣiṇābhiḥ ← dákṣiṇa- (nominal stem)
 
 hótrā ← hótrā- 2 (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्मे तदि॑न्द्रावरुणा॒ वसु॑ ष्याद॒स्मे र॒यिर्म॑रुतः॒ सर्व॑वीरः ।  
+अ॒स्मान्वरू॑त्रीः शर॒णैर॑वन्त्व॒स्मान्होत्रा॒ भार॑ती॒ दक्षि॑णाभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

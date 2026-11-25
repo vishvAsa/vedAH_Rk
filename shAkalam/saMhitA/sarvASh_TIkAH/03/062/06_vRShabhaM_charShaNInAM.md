@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -48,7 +49,12 @@ bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)
 
 váreṇyam ← váreṇya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒ष॒भं च॑र्षणी॒नां वि॒श्वरू॑प॒मदा॑भ्यम् ।  
+बृह॒स्पतिं॒ वरे॑ण्यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -104,7 +110,6 @@ _________
 - “excellent; desirable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -131,7 +136,6 @@ To the bull of the settled domains, having all forms, undeceivable, Br̥haspati 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/062/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -139,7 +143,6 @@ Vs. 6 is entirely couched in the acc. and picks up from 5ab, where the acc. phra
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

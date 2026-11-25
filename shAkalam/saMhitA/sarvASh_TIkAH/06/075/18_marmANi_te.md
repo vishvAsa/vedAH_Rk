@@ -4,6 +4,7 @@ devataa = "कवच-सोम-वरुणाः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - कवच-सोम-वरुणाः
@@ -92,7 +93,12 @@ madantu ← √mad- (root)
 
 tvā ← tvám (pronoun)  
 {case:ACC, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मर्मा॑णि ते॒ वर्म॑णा छादयामि॒ सोम॑स्त्वा॒ राजा॒मृते॒नानु॑ वस्ताम् ।  
+उ॒रोर्वरी॑यो॒ वरु॑णस्ते कृणोतु॒ जय॑न्तं॒ त्वानु॑ दे॒वा म॑दन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ u ← u (invariable)
 
 vajrin ← vajrín- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒नज्मि॑ ते॒ ब्रह्म॑णा के॒शिना॒ हरी॒ उप॒ प्र या॑हि दधि॒षे गभ॑स्त्योः ।  
+उत्त्वा॑ सु॒तासो॑ रभ॒सा अ॑मन्दिषुः पूष॒ण्वान्व॑ज्रि॒न्त्समु॒ पत्न्या॑मदः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -238,7 +244,6 @@ _________
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

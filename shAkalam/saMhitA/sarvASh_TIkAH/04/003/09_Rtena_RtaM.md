@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ páyasā ← páyas- (nominal stem)
 
 pīpāya ← √pī- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तेन॑ ऋ॒तं निय॑तमीळ॒ आ गोरा॒मा सचा॒ मधु॑मत्प॒क्वम॑ग्ने ।  
+कृ॒ष्णा स॒ती रुश॑ता धा॒सिनै॒षा जाम॑र्येण॒ पय॑सा पीपाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “swell; abound; swell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -244,22 +249,6 @@ With truth I reverently invoke the (mystical) truth set down [=acquired]  from t
 Though she is black, she is swollen with the gleaming gush, with milk  for nourishing offspring.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-This vs. expresses the beloved paradox about cows and milk, that the cow is “raw” but her milk “cooked” (that is, ready to consume), and further that a black cow can still give white milk. These paradoxes describe in the first instance the production of the ritual offering, the milk that will produce the ghee to be poured into the ritual fire. But it may also (esp. the 2nd hemistich) characterize the transition from the night (black cow) to dawn (the gleaming milk) at the dawn sacrifice; see Janert (Dhāsi, 29ff.).
-
-The standard interpr. (save for Witzel Gotō) take ṛténa as the agent with the ppl.
-
-níyatam (e.g., Renou “L’Ordre a été fixé par l’Ordre (même)”). Because the flg. 3 vss.
-
-also begin with ṛténa, interpreting the first one outside of the pattern established by the rest seems misguided, esp. given the usual function of initial ṛténa (see comm. above on vss. 9-12).
-
-I take the ṛtám that I reverently invoke (īḍe) to represent the paradoxes just discussed -- the mystical truth of the cow’s nature -- and I interpr. ā́góḥ as an ablative phrase, referring to the source of this truth. Most take góḥ as a gen., but this makes ā́hard to construe. (The phrase ā́góḥ occurs 3x elsewhere, always pāda final, twice in this maṇḍala [IV.22.4, 23.6] and once in X [X.100.12]; nowhere is it clear.) At least acdg. to Oldenberg (SBE) and Geldner, the ṛtám is actually a reference to the milk. I am skeptical.
-
-On dhāsí- see comm. ad I.62.3, 140.1.
-
-The hapax jā́marya- is opaque; see EWA s.v. My tr. follows Janert’s analysis (Dhāsi, 33ff.), that it is a secondary derivative to jām-ara- “die die Nachkommen Nährende.” Geldner’s suggestion (n. 9d) that it is related to YAves. zǝmar ‘on/in the earth’ (in zǝmar-gūz-), hence ‘earthly’ (versus heavenly milk = rain), fits the passage less well.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md">
 <details><summary><h2>09-12 ...{Loading}...</h2></summary>
 
@@ -267,7 +256,6 @@ Each of these vss. begins with the resonant and charged instr. ṛténa ‘by tr
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

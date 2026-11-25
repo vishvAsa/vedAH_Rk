@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अष्टको वैश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ píba ← √pā- 2 (root)
 
 sutásya ← √su- (root)  
 {case:GEN, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असा॑वि॒ सोमः॑ पुरुहूत॒ तुभ्यं॒ हरि॑भ्यां य॒ज्ञमुप॑ याहि॒ तूय॑म् ।  
+तुभ्यं॒ गिरो॒ विप्र॑वीरा इया॒ना द॑धन्वि॒र इ॑न्द्र॒ पिबा॑ सु॒तस्य॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “Soma.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

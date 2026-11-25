@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ práti ← práti (invariable)
 
 vītáye ← vītí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ मे॒ वचां॒स्युद्य॑ता द्यु॒मत्त॑मानि॒ कर्त्वा॑ ।  
+उ॒भा या॑तं नासत्या स॒जोष॑सा॒ प्रति॑ ह॒व्यानि॑ वी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - \[noun\], dative, singular, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

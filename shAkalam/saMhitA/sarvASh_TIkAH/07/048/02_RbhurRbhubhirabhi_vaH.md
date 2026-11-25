@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -86,7 +87,12 @@ vr̥trám ← vr̥trá- (nominal stem)
 
 yujā́ ← yúj- (nominal stem)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒भुरृ॒भुभि॑र॒भि वः॑ स्याम॒ विभ्वो॑ वि॒भुभिः॒ शव॑सा॒ शवां॑सि ।  
+वाजो॑ अ॒स्माँ अ॑वतु॒ वाज॑साता॒विन्द्रे॑ण यु॒जा त॑रुषेम वृ॒त्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “Vṛtra; vṛtra \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

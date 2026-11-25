@@ -4,6 +4,7 @@ devataa = "अपान्नपात्"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अपान्नपात्
@@ -89,7 +90,12 @@ karati ← √kr̥- (root)
 
 supéśasaḥ ← supéśas- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उपे॑मसृक्षि वाज॒युर्व॑च॒स्यां चनो॑ दधीत ना॒द्यो गिरो॑ मे ।  
+अ॒पां नपा॑दाशु॒हेमा॑ कु॒वित्स सु॒पेश॑सस्करति॒ जोषि॑ष॒द्धि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “because; indeed; for; therefore; hi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

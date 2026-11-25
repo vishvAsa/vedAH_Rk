@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ múnīnām ← múni- (nominal stem)
 
 sákhā ← sákhi- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वास्तो॑ष्पते ध्रु॒वा स्थूणांस॑त्रं सो॒म्याना॑म् ।  
+द्र॒प्सो भे॒त्ता पु॒रां शश्व॑तीना॒मिन्द्रो॒ मुनी॑नां॒ सखा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -155,7 +161,6 @@ _________
 - “friend; companion; sakhi \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

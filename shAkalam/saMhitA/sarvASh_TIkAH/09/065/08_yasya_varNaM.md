@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ hinvánti ← √hi- (root)
 
 pītáye ← pītí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॒ वर्णं॑ मधु॒श्चुतं॒ हरिं॑ हि॒न्वन्त्यद्रि॑भिः ।  
+इन्दु॒मिन्द्रा॑य पी॒तये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -150,10 +155,6 @@ Him whose tawny hue, dripping with honey, they impel (like) a fallow  bay with t
 the drop for Indra to drink,
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The construction of the first hemistich is somewhat tricky. The rel. yásya must refer to soma, with the rel. cl. hanging off vs. 7. In pāda a the yásya qualifies várṇam ‘color’, which serves as obj. of hinvánti in b. “They impel his color” is a slightly odd locution, and it becomes odder in b, with the acc. hárim. The stem hári- is a color term and could qualify várṇa- (“tawny color”), but it also is regularly applied directly to soma (e.g., in vss. 12 and 25 of this hymn) and also identifies Indra’s horse(s). Geldner (n. 8b) cleverly suggests that hári- is to be read twice, with the second reading an unmarked simile referring to a horse of the appropriate color. This provides a more appropriate obj. for hinvánti (“they impel (like) a fallow bay (horse)”), while connecting the putative horse with the “tawny color” (várṇam … hárim) that is the 1st obj. of the verb.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -161,7 +162,6 @@ Again no signs of unity.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

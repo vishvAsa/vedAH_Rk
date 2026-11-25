@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ duhitáram ← duhitár- (nominal stem)
 
 vádhīḥ ← √vadhⁱ- (root)  
 {number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तद्घेदु॒त वी॒र्य१॒॑मिन्द्र॑ च॒कर्थ॒ पौंस्य॑म् ।  
+स्त्रियं॒ यद्दु॑र्हणा॒युवं॒ वधी॑र्दुहि॒तरं॑ दि॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -209,10 +214,6 @@ And you performed this manly and masculine deed, Indra:
 that you smote a woman, the evilly angry daughter of Heaven.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The juxtaposition of vīryám … paúṃsyam “manly and masculine” with stríyam “woman” brings the gender polarization into sharp relief. There is certainly no sense that it’s unseemly or unsporting to hit a girl!
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/030/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -232,7 +233,6 @@ These vss. are tr. by Hoffmann (Injunk., 184-86).
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ u ← u (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पाकः॑ पृच्छामि॒ मन॒सावि॑जानन्दे॒वाना॑मे॒ना निहि॑ता प॒दानि॑ ।  
+व॒त्से ब॒ष्कयेऽधि॑ स॒प्त तन्तू॒न्वि त॑त्निरे क॒वय॒ ओत॒वा उ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “ukāra; besides; now; indeed; u.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

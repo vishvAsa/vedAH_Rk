@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेणुः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ ririce ← √ric- (root)
 
 síndhubhyaḥ ← síndhu- (nominal stem)  
 {case:ABL, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्राक्तुभ्य॒ इन्द्रः॒ प्र वृ॒धो अह॑भ्यः॒ प्रान्तरि॑क्षा॒त्प्र स॑मु॒द्रस्य॑ धा॒सेः ।  
+प्र वात॑स्य॒ प्रथ॑सः॒ प्र ज्मो अन्ता॒त्प्र सिन्धु॑भ्यो रिरिचे॒ प्र क्षि॒तिभ्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     estate; colony; house.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

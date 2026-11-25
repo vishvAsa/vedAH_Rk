@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -83,7 +84,12 @@ púnar ← púnar (invariable)
 
 víhrutam ← √hvr̥- ~ hru- (root)  
 {case:NOM, gender:N, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वं॒ पश्य॑न्तो बिभृथा त॒नूष्वा तेना॑ नो॒ अधि॑ वोचत ।  
+क्ष॒मा रपो॑ मरुत॒ आतु॑रस्य न॒ इष्क॑र्ता॒ विह्रु॑तं॒ पुनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     however; besides.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

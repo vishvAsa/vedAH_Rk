@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -80,7 +81,12 @@ duhitā́ ← duhitár- (nominal stem)
 
 pátnī ← pátnī- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒षा स्या यु॑जा॒ना प॑रा॒कात्पञ्च॑ क्षि॒तीः परि॑ स॒द्यो जि॑गाति ।  
+अ॒भि॒पश्य॑न्ती व॒युना॒ जना॑नां दि॒वो दु॑हि॒ता भुव॑नस्य॒ पत्नी॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “wife; mistress; queen.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

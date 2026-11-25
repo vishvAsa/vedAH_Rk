@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -68,7 +69,12 @@ mádanti ← √mad- (root)
 
 yajñíyāḥ ← yajñíya- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र श्या॑वाश्व धृष्णु॒यार्चा॑ म॒रुद्भि॒रृक्व॑भिः ।  
+ये अ॑द्रो॒घम॑नुष्व॒धं श्रवो॒ मद॑न्ति य॒ज्ञियाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - “sacrificial; divine; devoted.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

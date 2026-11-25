@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -95,7 +96,12 @@ usríyāyāḥ ← usríya- (nominal stem)
 
 vītám ← √vī- 1 (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त वां॑ वि॒क्षु मद्या॒स्वन्धो॒ गाव॒ आप॑श्च पीपयन्त दे॒वीः ।  
+उ॒तो नो॑ अ॒स्य पू॒र्व्यः पति॒र्दन्वी॒तं पा॒तं पय॑स उ॒स्रिया॑याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “cow; dairy product.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

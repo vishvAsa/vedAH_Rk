@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अरुणो वैतहव्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ pári ← pári (invariable)
 
 svayám ← svayám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तव॒ श्रियो॑ व॒र्ष्य॑स्येव वि॒द्युत॑श्चि॒त्राश्चि॑कित्र उ॒षसां॒ न के॒तवः॑ ।  
+यदोष॑धीर॒भिसृ॑ष्टो॒ वना॑नि च॒ परि॑ स्व॒यं चि॑नु॒षे अन्न॑मा॒स्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

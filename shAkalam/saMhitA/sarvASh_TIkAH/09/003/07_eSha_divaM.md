@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शुनःशेपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ kánikradat ← √krand- (root)
 
 pávamānaḥ ← √pū- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष दिवं॒ वि धा॑वति ति॒रो रजां॑सि॒ धार॑या ।  
+पव॑मानः॒ कनि॑क्रदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “roar; neigh.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -149,7 +154,6 @@ This one streaks through heaven, across the airy spaces in his stream, whinnying
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/003/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -161,7 +165,6 @@ Thus, although the nearly identical vss. 7 and 8 might seem evidence that the po
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हिरण्यस्तूपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ vavrím ← vavrí- (nominal stem)
 
 vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ते सोमाः॒ पव॑मानास॒ इन्द्रं॒ रथा॑ इव॒ प्र य॑युः सा॒तिमच्छ॑ ।  
+सु॒ताः प॒वित्र॒मति॑ य॒न्त्यव्यं॑ हि॒त्वी व॒व्रिं ह॒रितो॑ वृ॒ष्टिमच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

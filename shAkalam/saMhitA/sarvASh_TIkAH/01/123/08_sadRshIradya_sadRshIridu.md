@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ sadyás ← sadyás (invariable)
 
 yanti ← √i- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒दृशी॑र॒द्य स॒दृशी॒रिदु॒ श्वो दी॒र्घं स॑चन्ते॒ वरु॑णस्य॒ धाम॑ ।  
+अ॒न॒व॒द्यास्त्रिं॒शतं॒ योज॑ना॒न्येकै॑का॒ क्रतुं॒ परि॑ यन्ति स॒द्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “immediately; just; daily; sadyas \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

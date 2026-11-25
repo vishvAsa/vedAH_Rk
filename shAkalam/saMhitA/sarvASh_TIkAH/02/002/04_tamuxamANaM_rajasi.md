@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ pāyúm ← pāyú- (nominal stem)
 
 ubhé ← ubhá- (pronoun)  
 {case:ACC, gender:N, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमु॒क्षमा॑णं॒ रज॑सि॒ स्व आ दमे॑ च॒न्द्रमि॑व सु॒रुचं॑ ह्वा॒र आ द॑धुः ।  
+पृश्न्याः॑ पत॒रं चि॒तय॑न्तम॒क्षभिः॑ पा॒थो न पा॒युं जन॑सी उ॒भे अनु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “subsequently; behind; along; towards; because.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

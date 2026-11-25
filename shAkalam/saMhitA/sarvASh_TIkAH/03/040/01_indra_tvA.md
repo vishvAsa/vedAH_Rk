@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ pāhi ← √pā- 2 (root)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॑ त्वा वृष॒भं व॒यं सु॒ते सोमे॑ हवामहे ।  
+स पा॑हि॒ मध्वो॒ अन्ध॑सः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “Soma; drink; amṛta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -175,7 +180,6 @@ Drink of the honey, of the stalk.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/01-02.md">
 <details><summary><h2>01-02 ...{Loading}...</h2></summary>
 
@@ -183,7 +187,6 @@ The difference, if any, between pāhi (1c) and píba (2c) is as usual not clear.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

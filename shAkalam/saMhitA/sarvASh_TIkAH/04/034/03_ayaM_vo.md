@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -92,7 +93,12 @@ vājāḥ ← vā́ja- (nominal stem)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं वो॑ य॒ज्ञ ऋ॑भवोऽकारि॒ यमा म॑नु॒ष्वत्प्र॒दिवो॑ दधि॒ध्वे ।  
+प्र वोऽच्छा॑ जुजुषा॒णासो॑ अस्थु॒रभू॑त॒ विश्वे॑ अग्रि॒योत वा॑जाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

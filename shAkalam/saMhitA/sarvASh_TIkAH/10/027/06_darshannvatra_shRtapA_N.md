@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसुक्र ऐन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ u ← u (invariable)
 
 vavr̥tyuḥ ← √vr̥t- (root)  
 {number:PL, person:3, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दर्श॒न्न्वत्र॑ शृत॒पाँ अ॑नि॒न्द्रान्बा॑हु॒क्षदः॒ शर॑वे॒ पत्य॑मानान् ।  
+घृषुं॑ वा॒ ये नि॑नि॒दुः सखा॑य॒मध्यू॒ न्वे॑षु प॒वयो॑ ववृत्युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शतप्रभेदनो वैरूपः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ párīvr̥tam ← √vr̥- (root)
 
 támasā ← támas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒स्यात्र॒ तवि॑षीभ्यो विर॒प्शिन॑ ऋघाय॒तो अ॑रंहयन्त म॒न्यवे॑ ।  
+वृ॒त्रं यदु॒ग्रो व्यवृ॑श्च॒दोज॑सा॒पो बिभ्र॑तं॒ तम॑सा॒ परी॑वृतम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “enclose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

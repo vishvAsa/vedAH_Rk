@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ purás ← purás (invariable)
 
 rátham ← rátha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वां दे॒वेषु॑ प्रथ॒मं ह॑वामहे॒ त्वं ब॑भूथ॒ पृत॑नासु सास॒हिः ।  
+सेमं नः॑ का॒रुमु॑पम॒न्युमु॒द्भिद॒मिन्द्रः॑ कृणोतु प्रस॒वे रथं॑ पु॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

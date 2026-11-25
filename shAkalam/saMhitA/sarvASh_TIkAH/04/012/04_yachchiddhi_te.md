@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ ví ← ví (invariable)
 
 víṣvak ← víṣvañc- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यच्चि॒द्धि ते॑ पुरुष॒त्रा य॑वि॒ष्ठाचि॑त्तिभिश्चकृ॒मा कच्चि॒दागः॑ ।  
+कृ॒धी ष्व१॒॑स्माँ अदि॑ते॒रना॑गा॒न्व्येनां॑सि शिश्रथो॒ विष्व॑गग्ने ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

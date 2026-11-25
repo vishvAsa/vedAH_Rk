@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -57,7 +58,12 @@ vaṣṭi ← √vaś- (root)
 
 vr̥traghnī́ ← vr̥trahán- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्या नः॒ सर॑स्वती घो॒रा हिर॑ण्यवर्तनिः ।  
+वृ॒त्र॒घ्नी व॑ष्टि सुष्टु॒तिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “hymn; praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -161,10 +166,6 @@ And this Sarasvatī, having a golden course, fearsome,
 obstacle-smashing, wants our good praise—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The vs.-initial utá seems to introduce the tṛca, as does the identically placed utá in vs. 10.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -172,7 +173,6 @@ Unlike the preceding tṛca, this one dispenses with repetition and therefore ha
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

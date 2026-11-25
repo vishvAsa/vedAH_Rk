@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ jánimāni ← jániman- (nominal stem)
 
 sattáḥ ← √sad- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒गस्ते॑ अग्ने॒ सन॑वित्तो॒ अध्वा॑ यु॒ङ्क्ष्वा सु॒ते ह॒रितो॑ रो॒हित॑श्च ।  
+ये वा॒ सद्म॑न्नरु॒षा वी॑र॒वाहो॑ हु॒वे दे॒वानां॒ जनि॑मानि स॒त्तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

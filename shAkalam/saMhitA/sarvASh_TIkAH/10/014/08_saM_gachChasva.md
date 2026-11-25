@@ -4,6 +4,7 @@ devataa = "लिङ्गोक्तदेवताः पितरो वा"
 RShiH = "यमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - लिङ्गोक्तदेवताः पितरो वा
@@ -86,7 +87,12 @@ suvárcāḥ ← suvárcas- (nominal stem)
 
 tanvā̀ ← tanū́- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं ग॑च्छस्व पि॒तृभिः॒ सं य॒मेने॑ष्टापू॒र्तेन॑ पर॒मे व्यो॑मन् ।  
+हि॒त्वाया॑व॒द्यं पुन॒रस्त॒मेहि॒ सं ग॑च्छस्व त॒न्वा॑ सु॒वर्चाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “vigorous; brilliant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

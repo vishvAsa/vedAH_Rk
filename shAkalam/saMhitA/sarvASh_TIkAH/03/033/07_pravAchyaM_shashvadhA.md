@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ ví ← ví (invariable)
 
 ichámānāḥ ← √iṣ- 2 (root)  
 {case:NOM, gender:F, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒वाच्यं॑ शश्व॒धा वी॒र्यं१॒॑ तदिन्द्र॑स्य॒ कर्म॒ यदहिं॑ विवृ॒श्चत् ।  
+वि वज्रे॑ण परि॒षदो॑ जघा॒नाय॒न्नापोऽय॑नमि॒च्छमा॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     commend; assent; permit; choose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "नद्यः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - नद्यः
@@ -83,7 +84,12 @@ eti ← √i- 1 (root)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रे॑षिते प्रस॒वं भिक्ष॑माणे॒ अच्छा॑ समु॒द्रं र॒थ्ये॑व याथः ।  
+स॒मा॒रा॒णे ऊ॒र्मिभिः॒ पिन्व॑माने अ॒न्या वा॑म॒न्यामप्ये॑ति शुभ्रे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

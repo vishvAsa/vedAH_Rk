@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "स्तंबमित्रः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ imé ← ayám (pronoun)
 
 samudrásya ← samudrá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आय॑ने ते प॒राय॑णे॒ दूर्वा॑ रोहन्तु पु॒ष्पिणीः॑ ।  
+ह्र॒दाश्च॑ पु॒ण्डरी॑काणि समु॒द्रस्य॑ गृ॒हा इ॒मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

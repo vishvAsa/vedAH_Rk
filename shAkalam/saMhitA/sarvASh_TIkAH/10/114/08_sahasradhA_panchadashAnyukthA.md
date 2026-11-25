@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "सध्रिर्वैरूपो घर्मो वा तापसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ víṣṭhitam ← √sthā- (root)
 
 yā́vat ← yā́vant- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒ह॒स्र॒धा प॑ञ्चद॒शान्यु॒क्था याव॒द्द्यावा॑पृथि॒वी ताव॒दित्तत् ।  
+स॒ह॒स्र॒धा म॑हि॒मानः॑ स॒हस्रं॒ याव॒द्ब्रह्म॒ विष्ठि॑तं॒ ताव॑ती॒ वाक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     assurance; spell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

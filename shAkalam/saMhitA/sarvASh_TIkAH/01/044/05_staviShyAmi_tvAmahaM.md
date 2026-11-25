@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ havyavāhana ← havyavā́hana- (nominal stem)
 
 yájiṣṭham ← yájiṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्त॒वि॒ष्यामि॒ त्वाम॒हं विश्व॑स्यामृत भोजन ।  
+अग्ने॑ त्रा॒तार॑म॒मृतं॑ मियेध्य॒ यजि॑ष्ठं हव्यवाहन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “Agni; fire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

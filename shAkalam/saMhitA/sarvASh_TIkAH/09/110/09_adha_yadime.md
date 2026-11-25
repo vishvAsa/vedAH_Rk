@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "ऊर्ध्वबृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -81,7 +82,12 @@ vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)
 
 yūthé ← yūthá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अध॒ यदि॒मे प॑वमान॒ रोद॑सी इ॒मा च॒ विश्वा॒ भुव॑ना॒भि म॒ज्मना॑ ।  
+यू॒थे न नि॒ष्ठा वृ॑ष॒भो वि ति॑ष्ठसे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -222,10 +227,6 @@ Now, o self-purifying one, in that (you) sur(mount) these two worlds  here and a
 outstanding like a bull in the herd you extend yourself over them.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On niṣṭhā́- see comm. ad III.31.10.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -233,7 +234,6 @@ Considerably clearer than the previous tṛca.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

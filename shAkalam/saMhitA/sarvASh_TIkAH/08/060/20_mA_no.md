@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ rakṣasvínaḥ ← rakṣasvín- (nominal stem)
 
 sédha ← √sidh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा नो॒ रक्ष॒ आ वे॑शीदाघृणीवसो॒ मा या॒तुर्या॑तु॒माव॑ताम् ।  
+प॒रो॒ग॒व्यू॒त्यनि॑रा॒मप॒ क्षुध॒मग्ने॒ सेध॑ रक्ष॒स्विनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -186,7 +192,6 @@ _________
 - “malevolent; demoniac; obsessed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

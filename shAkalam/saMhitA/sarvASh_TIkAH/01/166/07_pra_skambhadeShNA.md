@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -74,7 +75,12 @@ vidúḥ ← √vid- 2 (root)
 
 vīrásya ← vīrá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स्क॒म्भदे॑ष्णा अनव॒भ्ररा॑धसोऽलातृ॒णासो॑ वि॒दथे॑षु॒ सुष्टु॑ताः ।  
+अर्च॑न्त्य॒र्कं म॑दि॒रस्य॑ पी॒तये॑ वि॒दुर्वी॒रस्य॑ प्रथ॒मानि॒ पौंस्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -181,7 +187,6 @@ _________
 - “manfulness; deed; army; strength.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -65,7 +66,12 @@ aśvasā́tamaḥ ← aśvasā́tama- (nominal stem)
 
 maṁsīṣṭhā́ḥ ← √man- 1 (root)  
 {number:SG, person:2, mood:OPT, tense:AOR, voice:MED, mood:PREC}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शु॒ष्मिन्त॑मो॒ हि ते॒ मदो॑ द्यु॒म्निन्त॑म उ॒त क्रतुः॑ ।  
+वृ॒त्र॒घ्ना व॑रिवो॒विदा॑ मंसी॒ष्ठा अ॑श्व॒सात॑मः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

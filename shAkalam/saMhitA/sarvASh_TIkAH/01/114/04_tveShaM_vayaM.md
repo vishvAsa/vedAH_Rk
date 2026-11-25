@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -92,7 +93,12 @@ vayám ← ahám (pronoun)
 
 vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वे॒षं व॒यं रु॒द्रं य॑ज्ञ॒साधं॑ व॒ङ्कुं क॒विमव॑से॒ नि ह्व॑यामहे ।  
+आ॒रे अ॒स्मद्दैव्यं॒ हेळो॑ अस्यतु सुम॒तिमिद्व॒यम॒स्या वृ॑णीमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “choose; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

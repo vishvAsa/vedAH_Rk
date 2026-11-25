@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sutúkā ← sutúka- (nominal stem)
 
 vajrin ← vajrín- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ सं॒यत॑मिन्द्र णः स्व॒स्तिं श॑त्रु॒तूर्या॑य बृह॒तीममृ॑ध्राम् ।  
+यया॒ दासा॒न्यार्या॑णि वृ॒त्रा करो॑ वज्रिन्त्सु॒तुका॒ नाहु॑षाणि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - \[noun\], accusative, plural, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -86,7 +87,12 @@ práti ← práti (invariable)
 
 vitanvaté ← √tan- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सूर्यो॑ दे॒वीमु॒षसं॒ रोच॑मानां॒ मर्यो॒ न योषा॑म॒भ्ये॑ति प॒श्चात् ।  
+यत्रा॒ नरो॑ देव॒यन्तो॑ यु॒गानि॑ वितन्व॒ते प्रति॑ भ॒द्राय॑ भ॒द्रम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     fine-looking; beautiful.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

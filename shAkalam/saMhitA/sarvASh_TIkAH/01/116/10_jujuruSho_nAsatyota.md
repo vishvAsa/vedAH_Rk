@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ kanī́nām ← kanyā̀- ~ kanī́n- (nominal stem)
 
 pátim ← páti- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जु॒जु॒रुषो॑ नासत्यो॒त व॒व्रिं प्रामु॑ञ्चतं द्रा॒पिमि॑व॒ च्यवा॑नात् ।  
+प्राति॑रतं जहि॒तस्यायु॑र्द॒स्रादित्पति॑मकृणुतं क॒नीना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - \[noun\], genitive, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

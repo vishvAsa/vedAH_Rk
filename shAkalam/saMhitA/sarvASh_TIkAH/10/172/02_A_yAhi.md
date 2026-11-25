@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "संवर्तः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -50,7 +51,11 @@ máṁhiṣṭhaḥ ← máṁhiṣṭha- (nominal stem)
 
 sudā́nubhiḥ ← sudā́nu- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ या॑हि॒ वस्व्या॑ धि॒या मंहि॑ष्ठो जार॒यन्म॑खः सु॒दानु॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -109,7 +114,6 @@ _________
 - “big; lavish.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

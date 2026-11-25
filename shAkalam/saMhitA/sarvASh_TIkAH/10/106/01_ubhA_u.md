@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भूतांशः काश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ sudínā ← sudína- (nominal stem)
 
 taṁsayethe ← √taṁs- (root)  
 {number:DU, person:2, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒भा उ॑ नू॒नं तदिद॑र्थयेथे॒ वि त॑न्वाथे॒ धियो॒ वस्त्रा॒पसे॑व ।  
+स॒ध्री॒ची॒ना यात॑वे॒ प्रेम॑जीगः सु॒दिने॑व॒ पृक्ष॒ आ तं॑सयेथे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - \[verb\], dual, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

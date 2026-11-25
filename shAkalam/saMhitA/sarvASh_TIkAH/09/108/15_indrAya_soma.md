@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शक्तिः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ mádhumattamaḥ ← mádhumattama- (nominal stem)
 
 pávasva ← √pū- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रा॑य सोम॒ पात॑वे॒ नृभि॑र्य॒तः स्वा॑यु॒धो म॒दिन्त॑मः ।  
+पव॑स्व॒ मधु॑मत्तमः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “sweetest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -155,10 +160,6 @@ For Indra to drink, o Soma—held by men, having good weapons and  most exhilara
 purify yourself as the most honeyed.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-As pointed out in the published introduction, the beginning of vs. 1, pávasva mádhumattama, índrāya soma …, recurs here, framing the vs., which begins índrāya soma and ends with the pāda pávasva mádhumattama.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/15-16.md">
 <details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
@@ -166,7 +167,6 @@ No particular signs of cohesion, but see the ring compositional elements connect
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

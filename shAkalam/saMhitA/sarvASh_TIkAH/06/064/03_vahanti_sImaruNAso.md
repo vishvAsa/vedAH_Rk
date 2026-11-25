@@ -5,13 +5,13 @@ RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
 - ऋषिः - भरद्वाजो बार्हस्पत्यः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -91,7 +91,12 @@ támaḥ ← támas- (nominal stem)
 
 vóḷhā ← vóḷhar- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वह॑न्ति सीमरु॒णासो॒ रुश॑न्तो॒ गावः॑ सु॒भगा॑मुर्वि॒या प्र॑था॒नाम् ।  
+अपे॑जते॒ शूरो॒ अस्ते॑व॒ शत्रू॒न्बाध॑ते॒ तमो॑ अजि॒रो न वोळ्हा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +216,6 @@ _________
 - “charioteer.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -271,8 +275,6 @@ Es fahren sie die rothen, lichten Stiere, die selige, die weithin sich verbreite
 Она гонит (тьму) прочь, словно храбрый стрелок – врагов.  
 Она оттесняет тьму, словно проворный возница – (врагов).
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "दैवोदासिः प्रतर्दनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ sáptiḥ ← sápti- (nominal stem)
 
 vājī́ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॑ प्रि॒यः क॒लशे॑ दे॒ववा॑त॒ इन्द्रा॑य॒ सोमो॒ रण्यो॒ मदा॑य ।  
+स॒हस्र॑धारः श॒तवा॑ज॒ इन्दु॑र्वा॒जी न सप्तिः॒ सम॑ना जिगाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “go; enter (a state); arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -237,12 +242,6 @@ The drop of a thousand streams, a hundred prizes, goes like a
 prizewinning team to the concourses.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In addition to its echoing ávāta- in 8, devávāte is reminiscent of devátāte in 3a.
-
-My “for Indra’s exhilaration” is a somewhat loose rendering of the double dative índrāya … mádāya “for Indra, for exhilaration.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -250,7 +249,6 @@ Although these two vss. belong to two different hymns within the larger structur
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

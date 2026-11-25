@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -71,7 +72,12 @@ iva ← iva (invariable)
 
 sárgam ← sárga- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उत्ति॑ष्ठ नू॒नमे॑षां॒ स्तोमैः॒ समु॑क्षितानाम् ।  
+म॒रुतां॑ पुरु॒तम॒मपू॑र्व्यं॒ गवां॒ सर्ग॑मिव ह्वये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नद्यः ऋषिकाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vayám ← ahám (pronoun)
 
 yāmaḥ ← √yā- 1 (root)  
 {number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्रो॑ अ॒स्माँ अ॑रद॒द्वज्र॑बाहु॒रपा॑हन्वृ॒त्रं प॑रि॒धिं न॒दीना॑म् ।  
+दे॒वो॑ऽनयत्सवि॒ता सु॑पा॒णिस्तस्य॑ व॒यं प्र॑स॒वे या॑म उ॒र्वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

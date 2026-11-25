@@ -4,6 +4,7 @@ devataa = "गावः"
 RShiH = "शबरः काक्षीवतः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गावः
@@ -92,7 +93,12 @@ tā́sām ← sá- ~ tá- (pronoun)
 
 vayám ← ahám (pronoun)  
 {case:NOM, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒जाप॑ति॒र्मह्य॑मे॒ता ररा॑णो॒ विश्वै॑र्दे॒वैः पि॒तृभिः॑ संविदा॒नः ।  
+शि॒वाः स॒तीरुप॑ नो गो॒ष्ठमाक॒स्तासां॑ व॒यं प्र॒जया॒ सं स॑देम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

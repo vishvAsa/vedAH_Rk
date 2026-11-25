@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "आप्त्यस्त्रितः कुत्स आङ्गिरसो वा"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -91,7 +92,12 @@ rodasī ← ródasī- (nominal stem)
 
 vittám ← √vid- 2 (root)  
 {number:DU, person:2, mood:IMP, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ तव॒ त्यदु॒क्थ्यं॑ दे॒वेष्व॒स्त्याप्य॑म् ।  
+स नः॑ स॒त्तो म॑नु॒ष्वदा दे॒वान्य॑क्षि वि॒दुष्ट॑रो वि॒त्तं मे॑ अ॒स्य रो॑दसी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “heaven and earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -252,7 +257,6 @@ Seated here, sacrifice to the gods for us as you did for Manu—as the  one who 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/12-15.md">
 <details><summary><h2>12-15 ...{Loading}...</h2></summary>
 
@@ -267,7 +271,6 @@ This set of verses forms a small internal ring: 12 and 15 contain ṛtám and n�
 I do not know why 13cd and 14ab are virtually identical. Perhaps it shows that the poet/sacrificer can now make the ritual happen. The yakṣi of the 13d is a praiṣa of sorts, and then the poet somewhat triumphantly reports that his command worked.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

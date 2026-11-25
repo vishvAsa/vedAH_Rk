@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "अग्निः सौचीको वैश्वानरो वा सप्तिर्वा वाजंभरः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ sá ← sá- ~ tá- (pronoun)
 
 vícetāḥ ← vícetas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्वा॑मृ॒तं रो॑दसी॒ प्र ब्र॑वीमि॒ जाय॑मानो मा॒तरा॒ गर्भो॑ अत्ति ।  
+नाहं दे॒वस्य॒ मर्त्य॑श्चिकेता॒ग्निर॒ङ्ग विचे॑ताः॒ स प्रचे॑ताः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “intelligent; mindful; attentive; wise; apt; observant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

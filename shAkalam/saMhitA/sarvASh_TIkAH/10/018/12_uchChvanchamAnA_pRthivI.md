@@ -4,6 +4,7 @@ devataa = "पितृमेधः"
 RShiH = "सङ्कुसुको यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पितृमेधः
@@ -86,7 +87,12 @@ santu ← √as- 1 (root)
 
 viśvā́hā ← viśvā́hā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒च्छ्वञ्च॑माना पृथि॒वी सु ति॑ष्ठतु स॒हस्रं॒ मित॒ उप॒ हि श्रय॑न्ताम् ।  
+ते गृ॒हासो॑ घृत॒श्चुतो॑ भवन्तु वि॒श्वाहा॑स्मै शर॒णाः स॒न्त्वत्र॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     alternatively; now.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,7 +232,7 @@ _________
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 May the earth stand piled high above him; verily upheld by a 1000 props. May it be
-the house dripping with ghee; Through eternity may he be sheltered here! 
+the house dripping with ghee; Through eternity may he be sheltered here!
 </details>
 
 <details><summary>Wilson</summary>

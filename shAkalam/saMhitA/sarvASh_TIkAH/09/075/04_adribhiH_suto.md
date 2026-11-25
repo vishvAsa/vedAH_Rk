@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ mádhoḥ ← mádhu- (nominal stem)
 
 pínvamānā ← √pinv- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अद्रि॑भिः सु॒तो म॒तिभि॒श्चनो॑हितः प्ररो॒चय॒न्रोद॑सी मा॒तरा॒ शुचिः॑ ।  
+रोमा॒ण्यव्या॑ स॒मया॒ वि धा॑वति॒ मधो॒र्धारा॒ पिन्व॑माना दि॒वेदि॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “day; sky; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

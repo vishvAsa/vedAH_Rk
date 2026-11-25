@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ vapā́vantam ← vapā́vant- (nominal stem)
 
 viśváhā ← viśváhā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒तेव॒ यन्तं॑ ब॒हुभि॑र्वस॒व्यै॒३॒॑स्त्वे र॒यिं जा॑गृ॒वांसो॒ अनु॑ ग्मन् ।  
+रुश॑न्तम॒ग्निं द॑र्श॒तं बृ॒हन्तं॑ व॒पाव॑न्तं वि॒श्वहा॑ दीदि॒वांस॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “shine; glitter.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

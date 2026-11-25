@@ -4,6 +4,7 @@ devataa = "ब्रह्मणस्पतिः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ब्रह्मणस्पतिः
@@ -95,7 +96,12 @@ vásumantam ← vásumant- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो नन्त्वा॒न्यन॑म॒न्न्योज॑सो॒ताद॑र्दर्म॒न्युना॒ शम्ब॑राणि॒ वि ।  
+प्राच्या॑वय॒दच्यु॑ता॒ ब्रह्म॑ण॒स्पति॒रा चावि॑श॒द्वसु॑मन्तं॒ वि पर्व॑तम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     height.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

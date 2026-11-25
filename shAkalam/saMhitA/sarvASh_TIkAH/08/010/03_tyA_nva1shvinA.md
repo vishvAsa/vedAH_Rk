@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ yáyoḥ ← yá- (pronoun)
 
 devéṣu ← devá- (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्या न्व१॒॑श्विना॑ हुवे सु॒दंस॑सा गृ॒भे कृ॒ता ।  
+ययो॒रस्ति॒ प्र णः॑ स॒ख्यं दे॒वेष्वध्याप्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +196,6 @@ _________
 - “friendship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -89,7 +90,12 @@ prá ← prá (invariable)
 
 tā́-tā ← sá- ~ tá- (pronoun)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एक॒स्त्वष्टु॒रश्व॑स्या विश॒स्ता द्वा य॒न्तारा॑ भवत॒स्तथ॑ ऋ॒तुः ।  
+या ते॒ गात्रा॑णामृतु॒था कृ॒णोमि॒ ताता॒ पिण्डा॑नां॒ प्र जु॑होम्य॒ग्नौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -239,7 +245,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -61,7 +62,11 @@ vásūni ← vásu- (nominal stem)
 
 vavāca ← √vac- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि ये चृ॒तन्त्यृ॒ता सप॑न्त॒ आदिद्वसू॑नि॒ प्र व॑वाचास्मै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -137,7 +142,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -156,12 +160,6 @@ Those who unbind (the fetters of deceit?), serving truths —
 for him, because of this, he [=Agni] has proclaimed good things.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The verb ví … cṛntánti lacks an overt object, and several different ones have been proposed: Geldner (in n.) suggests it’s “the stream of truth” from 7d; Renou supplies “(l’énigme)”; and Witzel Gotō read ṛtā́with this verb as well as the participle sápantaḥ (“welche … die Ṛtas aufknoten, (sie) pflegend”). Since the other two occurrences of this root (impv. ví … cṛta I.25.21, ppl. vícṛtta-) are both construed with pā́śa- ‘fetter’, that seems the likely object here as well. More speculatively, on the basis of VII.59.8 druháḥ pā́śān ‘fetters of deceit’, I have supplied that whole phrase here, since ‘deceit’ contrasts nicely with the emphasis on ṛtá- ‘truth’.
-
-The pf. prá vavāca is one of the very few pf. forms to √vac with full reduplication (against uvā́ca, etc.). On the basis of its agreement with Aves. vauuac-, Kümmel (p. 441) considers this the older type of reduplication, with the newer type spreading from Samprasāraṇa roots.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/067/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
@@ -171,7 +169,6 @@ clauses have singular rel. pronouns (yáḥ 71, 7c) and the pronoun in the main 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

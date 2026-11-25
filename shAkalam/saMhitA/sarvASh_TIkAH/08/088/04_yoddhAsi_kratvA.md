@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधाः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ gótamāḥ ← gótama- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+योद्धा॑सि॒ क्रत्वा॒ शव॑सो॒त दं॒सना॒ विश्वा॑ जा॒ताभि म॒ज्मना॑ ।  
+आ त्वा॒यम॒र्क ऊ॒तये॑ ववर्तति॒ यं गोत॑मा॒ अजी॑जनन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -254,10 +259,6 @@ This chant here will turn you hither for help, the chant which the
 Gotamas have generated.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner’s suggestion (n.) that this verse constitutes the Maruts’ direct speech to Indra is a persuasive one.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/088/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
@@ -265,7 +266,6 @@ jā́yathā(ḥ) in 5a echoes jáyā(ḥ) in the immediately preceding pāda (4d
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ turáḥ ← turá- 1 (nominal stem)
 
 ukthā́ ← ukthá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असा॑म॒ यथा॑ सुष॒खाय॑ एन स्वभि॒ष्टयो॑ न॒रां न शंसैः॑ ।  
+अस॒द्यथा॑ न॒ इन्द्रो॑ वन्दने॒ष्ठास्तु॒रो न कर्म॒ नय॑मान उ॒क्था ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “hymn; praise; uktha \[word\]; encomium.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 sadantu ← √sad- (root)  
 {number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्रि॒या म॑रुतो॒ या वो॒ अश्व्या॑ ह॒व्या मि॑त्र प्रया॒थन॑ ।  
+आ ब॒र्हिरिन्द्रो॒ वरु॑णस्तु॒रा नर॑ आदि॒त्यासः॑ सदन्तु नः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

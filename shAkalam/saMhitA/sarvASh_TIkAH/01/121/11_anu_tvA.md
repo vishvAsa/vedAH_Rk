@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -83,7 +84,12 @@ vájreṇa ← vájra- (nominal stem)
 
 varā́hum ← varā́hu- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॑ त्वा म॒ही पाज॑सी अच॒क्रे द्यावा॒क्षामा॑ मदतामिन्द्र॒ कर्म॑न् ।  
+त्वं वृ॒त्रमा॒शया॑नं सि॒रासु॑ म॒हो वज्रे॑ण सिष्वपो व॒राहु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “wild boar.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

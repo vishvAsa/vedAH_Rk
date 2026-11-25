@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथी कौशिकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ vā́jāya ← vā́ja- (nominal stem)
 
 vanate ← √vanⁱ- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं होता॑रं॒ प्र वृ॑णे मि॒येधे॒ गृत्सं॑ क॒विं वि॑श्व॒विद॒ममू॑रम् ।  
+स नो॑ यक्षद्दे॒वता॑ता॒ यजी॑यान्रा॒ये वाजा॑य वनते म॒घानि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “gift; wealth; reward; wages; reward.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ viṣéṇa ← viṣá- (nominal stem)
 
 viṣvā́caḥ ← viṣvā́(ñ)c- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अजो॑हवीदश्विना॒ वर्ति॑का वामा॒स्नो यत्सी॒ममु॑ञ्चतं॒ वृक॑स्य ।  
+वि ज॒युषा॑ ययथुः॒ सान्वद्रे॑र्जा॒तं वि॒ष्वाचो॑ अहतं वि॒षेण॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     \[word\]; Viṣa; myrrh; myrrh.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

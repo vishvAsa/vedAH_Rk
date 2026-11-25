@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ katidhā́ ← katidhā́ (invariable)
 
 śayúḥ ← śayú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने प्रथ॒मो अङ्गि॑रस्तमः क॒विर्दे॒वानां॒ परि॑ भूषसि व्र॒तम् ।  
+वि॒भुर्विश्व॑स्मै॒ भुव॑नाय॒ मेधि॑रो द्विमा॒ता श॒युः क॑ति॒धा चि॑दा॒यवे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
 - \[noun\], dative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

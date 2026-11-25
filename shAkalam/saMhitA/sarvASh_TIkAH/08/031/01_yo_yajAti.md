@@ -4,6 +4,7 @@ devataa = "ईज्यास्तवो यजमानप्रशंसा �
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ईज्यास्तवो यजमानप्रशंसा च
@@ -66,7 +67,12 @@ cākanat ← √kanⁱ- (root)
 
 ít ← ít (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो यजा॑ति॒ यजा॑त॒ इत्सु॒नव॑च्च॒ पचा॑ति च ।  
+ब्र॒ह्मेदिन्द्र॑स्य चाकनत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -151,7 +157,6 @@ _________
 - “like; delight; desire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

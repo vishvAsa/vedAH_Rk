@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -101,7 +102,12 @@ ugra ← ugrá- (nominal stem)
 
 vā́jaiḥ ← vā́ja- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+या त॑ ऊ॒तिर॑व॒मा या प॑र॒मा या म॑ध्य॒मेन्द्र॑ शुष्मि॒न्नस्ति॑ ।  
+ताभि॑रू॒ षु वृ॑त्र॒हत्ये॑ऽवीर्न ए॒भिश्च॒ वाजै॑र्म॒हान्न॑ उग्र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -264,7 +270,6 @@ _________
     atrocious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

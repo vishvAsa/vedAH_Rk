@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -63,7 +64,12 @@ havyádātibhiḥ ← havyádāti- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न तस्य॑ मा॒यया॑ च॒न रि॒पुरी॑शीत॒ मर्त्यः॑ ।  
+यो अ॒ग्नये॑ द॒दाश॑ ह॒व्यदा॑तिभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -149,7 +155,6 @@ _________
 - \[noun\], instrumental, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

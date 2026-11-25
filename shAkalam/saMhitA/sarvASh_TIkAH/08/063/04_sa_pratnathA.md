@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ asmatrā́ ← asmatrā́ (invariable)
 
 gantu ← √gam- (root)  
 {number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स प्र॒त्नथा॑ कविवृ॒ध इन्द्रो॑ वा॒कस्य॑ व॒क्षणिः॑ ।  
+शि॒वो अ॒र्कस्य॒ होम॑न्यस्म॒त्रा ग॒न्त्वव॑से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “support; help; prefer; prefer; like.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

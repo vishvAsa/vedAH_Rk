@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -54,7 +55,12 @@ hí ← hí (invariable)
 
 sthā́thaḥ ← √sthā- (root)  
 {number:DU, person:2, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रथं॒ हिर॑ण्यवन्धुर॒मिन्द्र॑वायू स्वध्व॒रम् ।  
+आ हि स्थाथो॑ दिवि॒स्पृश॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “heavenward.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ pr̥ṇanti ← √pr̥̄- 1 (root)
 
 vardháyanti ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्ये॒दम॑ग्ने॒ मधु॑मत्तमं॒ वच॒स्तुभ्यं॑ मनी॒षा इ॒यम॑स्तु॒ शं हृ॒दे ।  
+त्वां गिरः॒ सिन्धु॑मिवा॒वनी॑र्म॒हीरा पृ॑णन्ति॒ शव॑सा व॒र्धय॑न्ति च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

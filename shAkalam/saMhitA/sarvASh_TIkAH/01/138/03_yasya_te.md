@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -119,7 +120,13 @@ sárī ← sárin- (nominal stem)
 
 vā́je-vāje ← vā́ja- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ ते पूषन्त्स॒ख्ये वि॑प॒न्यवः॒ क्रत्वा॑ चि॒त्सन्तोऽव॑सा बुभुज्रि॒र इति॒ क्रत्वा॑ बुभुज्रि॒रे ।  
+तामनु॑ त्वा॒ नवी॑यसीं नि॒युतं॑ रा॒य ई॑महे ।  
+अहे॑ळमान उरुशंस॒ सरी॑ भव॒ वाजे॑वाजे॒ सरी॑ भव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -319,7 +326,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

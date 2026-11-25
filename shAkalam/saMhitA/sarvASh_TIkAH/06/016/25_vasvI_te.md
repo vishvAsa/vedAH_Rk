@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ napāt ← nápat- (nominal stem)
 
 ū́rjaḥ ← ū́rj- (nominal stem)  
 {case:GEN, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वस्वी॑ ते अग्ने॒ सन्दृ॑ष्टिरिषय॒ते मर्त्या॑य ।  
+ऊर्जो॑ नपाद॒मृत॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
 - “immortal; amṛta; imperishable.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

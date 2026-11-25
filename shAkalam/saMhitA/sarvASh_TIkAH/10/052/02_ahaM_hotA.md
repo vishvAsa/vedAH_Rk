@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अग्निः सौचीकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ samít ← samídh- (nominal stem)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं होता॒ न्य॑सीदं॒ यजी॑या॒न्विश्वे॑ दे॒वा म॒रुतो॑ मा जुनन्ति ।  
+अह॑रहरश्वि॒नाध्व॑र्यवं वां ब्र॒ह्मा स॒मिद्भ॑वति॒ साहु॑तिर्वाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

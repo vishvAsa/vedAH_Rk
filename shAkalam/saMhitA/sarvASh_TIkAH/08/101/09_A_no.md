@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -77,7 +78,12 @@ ayāmi ← √yam- (root)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ य॒ज्ञं दि॑वि॒स्पृशं॒ वायो॑ या॒हि सु॒मन्म॑भिः ।  
+अ॒न्तः प॒वित्र॑ उ॒परि॑ श्रीणा॒नो॒३॒॑ऽयं शु॒क्रो अ॑यामि ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -185,7 +191,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

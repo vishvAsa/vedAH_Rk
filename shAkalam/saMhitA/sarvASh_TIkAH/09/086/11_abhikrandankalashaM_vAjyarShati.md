@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -80,7 +81,12 @@ síndhubhiḥ ← síndhu- (nominal stem)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि॒क्रन्द॑न्क॒लशं॑ वा॒ज्य॑र्षति॒ पति॑र्दि॒वः श॒तधा॑रो विचक्ष॒णः ।  
+हरि॑र्मि॒त्रस्य॒ सद॑नेषु सीदति मर्मृजा॒नोऽवि॑भिः॒ सिन्धु॑भि॒र्वृषा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “bull; Indra; stallion; Vṛṣan; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -221,10 +226,6 @@ Roaring toward the tub, the prize-seeker rushes, the lord of heaven with  his hu
 The fallow bay sits in the seats of Mitra, the bull constantly being  groomed by the sheep, the streams.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I do not know why the seats are identified as those of Mitra. I doubt that Lüders is correct that it is only because Mitra’s seat is in highest heaven (210), much less that Mitra is at this stage in Vedic being identified with the sun (605).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -232,7 +233,6 @@ Following a pattern we’ve met earlier, the first vs. of the new tṛca echoes 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

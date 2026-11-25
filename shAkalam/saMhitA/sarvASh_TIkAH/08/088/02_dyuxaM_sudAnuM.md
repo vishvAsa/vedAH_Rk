@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधाः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ gómantam ← gómant- (nominal stem)
 
 makṣú ← makṣú- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्यु॒क्षं सु॒दानुं॒ तवि॑षीभि॒रावृ॑तं गि॒रिं न पु॑रु॒भोज॑सम् ।  
+क्षु॒मन्तं॒ वाजं॑ श॒तिनं॑ सह॒स्रिणं॑ म॒क्षू गोम॑न्तमीमहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “beg; solicit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "दधिक्राः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दधिक्राः
@@ -92,7 +93,12 @@ táritrataḥ ← √tr̥̄- 1 (root)
 
 ūrjā́ ← ū́rj- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त स्मा॑स्य॒ द्रव॑तस्तुरण्य॒तः प॒र्णं न वेरनु॑ वाति प्रग॒र्धिनः॑ ।  
+श्ये॒नस्ये॑व॒ ध्रज॑तो अङ्क॒सं परि॑ दधि॒क्राव्णः॑ स॒होर्जा तरि॑त्रतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - \[verb noun\], genitive, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -262,20 +267,6 @@ And (the wind) fans up his “feathers” [=mane], like the feathers of a bird  
 while he swoops like a falcon around the curving (racecourse), while he  keeps advancing with his vigor—Dadhikrāvan.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The imagery of this vs. picks up the ‘flying’ (pataṃgaráḥ) of 2c.
-
-In pāda a drávataḥ both looks back to dravó dravaráḥ in 2c (all derived from the same root and with dravaráḥ metrically identical to and in the same metrical position as drávataḥ) and forward to dhrájataḥ in 3c (same metrical shape and position, rhyming forms).
-
-Most tr. give ánu vāti additive semantics, ‘blows after, blows following’, but elsewhere this lexeme means ‘fan (flames)’ (I.148.4, IV.7.10, VII.3.2, X.142.4). Here I think it’s used figuratively, of the wind ruffling up mane/feathers. The standard tr.
-
-(including mine) supply ‘wind’ as the subj.
-
-As both Geldner and Oldenberg point out, the parṇám ‘wing, feather(s)’ in the simile lacks an overt correspondent in the frame, where we’d expect a body part of the horse. Oldenberg suggests quick feet or (from Ludwig) the mane. I assume the latter, and in fact I think that parṇám can be read with both simile and frame. In the simile parṇám is used as a collective for the bird’s feathers, in the frame metaphorically for a horse’s mane. (A Google search of “feathery mane” produces respectable results, including a snatch of John Keats, “the eagle’s feathery mane” [“Hymn to Apollo”], which shows the metaphor going the opposite direction.) pragardhín- ‘greedy’ is appropriate for both the bird and Dadhikrā, as Geldner also points out: cf. IV.38.3 paḍbhír gṛ́dhyantam.
-
-I follow Schaeffer (Intens. 131) in taking aṅkasám as referring to the curving racetrack rather than, with some, as a curvy part of a horse. Since áṅkāṃsi in the next vs. clearly refers to the racetrack, it’s unlikely that a related word would have an entirely different referent in such close proximity.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -285,7 +276,6 @@ There is also a concentration of intensives: 3d táritrataḥ, 4c saṃtā́vīt
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ subhágaḥ ← subhága- (nominal stem)
 
 ūhe ← √vāh- (root)  
 {number:SG, person:3, mood:IND, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒हेह॑ जा॒ता सम॑वावशीतामरे॒पसा॑ त॒न्वा॒३॒॑ नाम॑भिः॒ स्वैः ।  
+जि॒ष्णुर्वा॑म॒न्यः सुम॑खस्य सू॒रिर्दि॒वो अ॒न्यः सु॒भगः॑ पु॒त्र ऊ॑हे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “diagnose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

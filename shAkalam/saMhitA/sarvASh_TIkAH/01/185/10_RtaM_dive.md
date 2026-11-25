@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -83,7 +84,12 @@ pitā́ ← pitár- (nominal stem)
 
 rakṣatām ← √rakṣⁱ- (root)  
 {number:DU, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तं दि॒वे तद॑वोचं पृथि॒व्या अ॑भिश्रा॒वाय॑ प्रथ॒मं सु॑मे॒धाः ।  
+पा॒ताम॑व॒द्याद्दु॑रि॒ताद॒भीके॑ पि॒ता मा॒ता च॑ रक्षता॒मवो॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “aid; favor; protection.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

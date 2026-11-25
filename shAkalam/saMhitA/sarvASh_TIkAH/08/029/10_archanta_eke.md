@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मनुर्वैवस्वतः कश्यपो वा मारीचः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -52,7 +53,11 @@ sū́ryam ← sū́rya- (nominal stem)
 
 téna ← sá- ~ tá- (pronoun)  
 {case:INS, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अर्च॑न्त॒ एके॒ महि॒ साम॑ मन्वत॒ तेन॒ सूर्य॑मरोचयन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -116,7 +121,6 @@ _________
 - “like; approve; like; simulate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

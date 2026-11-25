@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "एवयामरुदात्रेयः"
 ChandaH = "अतिजगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -91,7 +92,12 @@ yéṣām ← yá- (pronoun)
 
 śárdhāṁsi ← śárdhas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते रु॒द्रासः॒ सुम॑खा अ॒ग्नयो॑ यथा तुविद्यु॒म्ना अ॑वन्त्वेव॒याम॑रुत् ।  
+दी॒र्घं पृ॒थु प॑प्रथे॒ सद्म॒ पार्थि॑वं॒ येषा॒मज्मे॒ष्वा म॒हः शर्धां॒स्यद्भु॑तैनसाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “sin; calamity; blame.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

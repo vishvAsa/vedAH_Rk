@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ me ← ahám (pronoun)
 
 śyenáḥ ← śyená- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑र्त्या॒ शुन॑ आ॒न्त्राणि॑ पेचे॒ न दे॒वेषु॑ विविदे मर्डि॒तार॑म् ।  
+अप॑श्यं जा॒यामम॑हीयमाना॒मधा॑ मे श्ये॒नो मध्वा ज॑भार ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -237,18 +242,6 @@ I saw his wife being dishonored. Then the falcon carried the honey
 here to me.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Indra gets the last word in this hymn and, having described his situation in the direst of terms, ends with a note of hope and coming triumph: the falcon’s arrival with the soma, to be treated (in even more enigmatic terms) in two nearby hymns, IV.26-27. Since in our hymn the new-born Indra drank soma in Tvaṣṭar’s house (3c) and presumably had a good dose of it before the Vṛtra battle, the falcon’s stolen soma cannot be the primal soma, though it sometimes mythologically seems to parallel the primal stealing of fire in the Prometheus myth.
-
-A dog-cooker (śvapaca-) in later texts is a person living outside of societal norms (cf., e.g., MDŚ III.92), grouped with those who have fallen from caste and so forth.
-
-Notice that Indra here finds no one to be merciful to him (ná … vivide marḍitā́ram), in contrast to the merciful waters when he was a baby (8c).
-
-Most take the dishonored wife to be Indra’s own, but no wife has intruded on the family drama we’ve been observing. I assume rather that this is another reference to his mother, who, now that she is a widow, receives slighting treatment.
-
-IV.19. Indra
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -258,7 +251,6 @@ In light of d, which describes Indra’s killing his father, the question in a, 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

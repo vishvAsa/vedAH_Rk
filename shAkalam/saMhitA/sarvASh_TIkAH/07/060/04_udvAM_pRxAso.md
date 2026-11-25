@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ sajóṣāḥ ← sajóṣa- (nominal stem)
 
 váruṇaḥ ← váruṇa- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उद्वां॑ पृ॒क्षासो॒ मधु॑मन्तो अस्थु॒रा सूर्यो॑ अरुहच्छु॒क्रमर्णः॑ ।  
+यस्मा॑ आदि॒त्या अध्व॑नो॒ रद॑न्ति मि॒त्रो अ॑र्य॒मा वरु॑णः स॒जोषाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “consentaneous; combined; associated; united.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

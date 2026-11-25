@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुवेदाः शैरीषिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ réjate ← √rej- (root)
 
 śúṣmāt ← śúṣma- (nominal stem)  
 {case:ABL, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रत्ते॑ दधामि प्रथ॒माय॑ म॒न्यवेऽह॒न्यद्वृ॒त्रं नर्यं॑ वि॒वेर॒पः ।  
+उ॒भे यत्त्वा॒ भव॑तो॒ रोद॑सी॒ अनु॒ रेज॑ते॒ शुष्मा॑त्पृथि॒वी चि॑दद्रिवः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “rocky; petrous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

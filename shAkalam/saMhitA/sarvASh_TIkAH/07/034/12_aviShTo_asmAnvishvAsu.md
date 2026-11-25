@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -55,7 +56,11 @@ ninitsóḥ ← ninitsú- (nominal stem)
 
 śáṁsam ← śáṁsa- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अवि॑ष्टो अ॒स्मान्विश्वा॑सु वि॒क्ष्वद्युं॑ कृणोत॒ शंसं॑ निनि॒त्सोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -124,7 +129,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -151,12 +155,6 @@ Aid us amid all the clans;
 render harmless the “laud” of him who wishes to scorn.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The hapax ádyu- has been variously analyzed and rendered: e.g., Sāyaṇa. adīpti- ‘non-shining’, reflected in Grassmann’s ‘glanzlos’ and probably Renou’s ‘sans éclat’; Oldenberg ‘excluded from heaven’. But Geldner’s (n. 12b) comparison of Oldenberg Avestan aidiiu- (YH 2x, plus a YA rep.) ‘harmless’ is surely correct and is accepted by EWA, etc. For disc., with earlier lit., see Narten, YH 280-81.
-
-Our half-verse ádyuṃ kṛṇota śáṃsaṃ ninitsóḥ is nearly identical to VII.25.2c āré táṃ śáṃsaṃ kṛṇuhi ninitsóḥ, though in a different meter (our two 5-syl. pādas of Dvipadā versus Triṣṭubh). To accommodate the meter the verb and object had to be flipped and a different predicate supplied. This metrically driven modification procedure is instructive.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/12-13.md">
 <details><summary><h2>12-13 ...{Loading}...</h2></summary>
 
@@ -164,7 +162,6 @@ The 2nd pl. subjects of all the verbs but vy ètu in 13a must be the gods in gen
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पौर आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ pŕ̥kṣaḥ ← pŕ̥kṣ- (nominal stem)
 
 vām ← tvám (pronoun)  
 {case:ACC, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मध्व॑ ऊ॒ षु म॑धूयुवा॒ रुद्रा॒ सिष॑क्ति पि॒प्युषी॑ ।  
+यत्स॑मु॒द्राति॒ पर्ष॑थः प॒क्वाः पृक्षो॑ भरन्त वाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "देवातिथिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ sávanā ← sávana- 1 (nominal stem)
 
 váhantu ← √vah- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ ब्र॒ध्नं वा॒वाता॒ वृष॑णा॒ हरी॒ इन्द्र॑म॒पसु॑ वक्षतः ।  
+अ॒र्वाञ्चं॑ त्वा॒ सप्त॑योऽध्वर॒श्रियो॒ वह॑न्तु॒ सव॒नेदुप॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
 - “towards; on; next.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

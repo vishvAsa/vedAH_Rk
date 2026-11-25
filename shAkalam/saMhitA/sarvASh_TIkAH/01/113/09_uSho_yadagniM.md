@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ devéṣu ← devá- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उषो॒ यद॒ग्निं स॒मिधे॑ च॒कर्थ॒ वि यदाव॒श्चक्ष॑सा॒ सूर्य॑स्य ।  
+यन्मानु॑षान्य॒क्ष्यमा॑णाँ॒ अजी॑ग॒स्तद्दे॒वेषु॑ चकृषे भ॒द्रमप्नः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “property.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -262,7 +267,6 @@ since you have awakened the sons of Manu who are about to sacrifice,  so you hav
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
 <details><summary><h2>07-13 ...{Loading}...</h2></summary>
 
@@ -270,7 +274,6 @@ These verses have a surprising density of forms of ví √vas ‘dawn forth’ (
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

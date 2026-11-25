@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भुवन आप्त्यः साधनो वा भौवनः"
 ChandaH = "द्विपदा त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -61,7 +62,11 @@ cīkl̥pāti ← √kl̥p- (root)
 
 sahá ← sahá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒ज्ञं च॑ नस्त॒न्वं॑ च प्र॒जां चा॑दि॒त्यैरिन्द्रः॑ स॒ह ची॑कॢपाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +144,6 @@ _________
     contribute.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

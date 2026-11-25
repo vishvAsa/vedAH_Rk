@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -74,7 +75,12 @@ gīrbhíḥ ← gír- ~ gīr- (nominal stem)
 
 vatsáḥ ← vatsá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किम॒न्ये पर्या॑सते॒ऽस्मत्स्तोमे॑भिर॒श्विना॑ ।  
+पु॒त्रः कण्व॑स्य वा॒मृषि॑र्गी॒र्भिर्व॒त्सो अ॑वीवृधत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
     spread.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "शची पौलोमी"
 RShiH = "शची पौलोमी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - शची पौलोमी
@@ -71,7 +72,12 @@ jánasya ← jána- (nominal stem)
 
 virā́jāni ← √rāj- (root)  
 {number:SG, person:1, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सम॑जैषमि॒मा अ॒हं स॒पत्नी॑रभि॒भूव॑री ।  
+यथा॒हम॒स्य वी॒रस्य॑ वि॒राजा॑नि॒ जन॑स्य च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

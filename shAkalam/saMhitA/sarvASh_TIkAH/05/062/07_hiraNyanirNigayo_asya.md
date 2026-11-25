@@ -5,13 +5,13 @@ RShiH = "श्रुतिविदात्रेयः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
 - ऋषिः - श्रुतिविदात्रेयः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -85,7 +85,12 @@ mádhvaḥ ← mádhu- (nominal stem)
 
 sanéma ← √sanⁱ- (root)  
 {number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यनिर्णि॒गयो॑ अस्य॒ स्थूणा॒ वि भ्रा॑जते दि॒व्य१॒॑श्वाज॑नीव ।  
+भ॒द्रे क्षेत्रे॒ निमि॑ता॒ तिल्वि॑ले वा स॒नेम॒ मध्वो॒ अधि॑गर्त्यस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +209,6 @@ _________
 - \[noun\], genitive, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -249,8 +253,6 @@ Mit Gold geschmückt von Erz ist dessen Säule; sie strahlt am Himmel wie der Pe
 Воздвигнутая на счастливом или на плодородном месте.  
 Пусть добьемся мы меду, находящегося на троне!
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

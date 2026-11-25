@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पुरुमीळ्हाजमीळ्हौ सौहोत्रौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ uruṣyátam ← √uruṣy- (root)
 
 ūtī́ ← ūtí- (nominal stem)  
 {case:INS, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+का वां॑ भू॒दुप॑मातिः॒ कया॑ न॒ आश्वि॑ना गमथो हू॒यमा॑ना ।  
+को वां॑ म॒हश्चि॒त्त्यज॑सो अ॒भीक॑ उरु॒ष्यतं॑ माध्वी दस्रा न ऊ॒ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “aid; favor; ūti \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

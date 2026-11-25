@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "निध्रुविः काश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ siñcata ← √sic- (root)
 
 vā́reṣu ← vā́ra- 1 (nominal stem)  
 {case:LOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परी॒तो वा॒यवे॑ सु॒तं गिर॒ इन्द्रा॑य मत्स॒रम् ।  
+अव्यो॒ वारे॑षु सिञ्चत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -132,7 +138,6 @@ _________
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,14 +164,6 @@ From here sprinkle in circles the soma pressed for Vāyu, the songs, (the  soma)
 onto the sheep’s fleece.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The datives vāyáve … índrāya of course identify this as a ref. to the morning soma pressing, where both those gods receive the soma, and also echo the same datives (in diff. order) in vs. 3.
-
-If gíraḥ opening pāda b is an acc. pl. (as seems likely), it is somewhat awkwardly placed between two reff. to soma, sutám and matsarám, ending their respective pādas (a and b). All the acc.s should be objects of pári … siñcata ‘pour in circles’, which obviously fits the soma liquid better than the songs. Probably for this reason Grassmann identifies the form as a voc., the only voc. to the stem, but this certainly does not improve the sense: commanding the songs to pour the soma is appreciably worse than ordering unidentified priests to pour songs as well as soma. Elizarenkova’s tr. (Language and Style of the Vedic Ṛṣis, p. 85) exemplifies this awkwardness however unintentionally: “From here make libation rounds for Vāyu, for Indra, of the pressed intoxication, O eulogies (or: O eulogizers), onto the sheep strainer!” She claims that the root noun gír- can be used as an agent (hence her “O eulogizers”; Sāyaṇa. and Ludwig also take it as agentive: see Geldner n. 10b), but I know of no such usage of this extremely common noun. On the other hand, the trope of “pouring prayers” is not rare in the RV, though pouring them onto the fleece strainer is a bit extreme. Renou solves the problem by supplying a separate verb to govern gíraḥ (“émettez”), but this seems a typical cop-out on his part.
-
-As in the previous hymn (see comm. ad IX.62.18), the priests are addressed in the 2nd pl. here (pári … siñcata). See also vs. 19, with the same verb.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -174,7 +171,6 @@ No particular unity, though vss. 11-12 are concerned with wealth.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "दक्षिणा तद्दातारो वा"
 RShiH = "दिव्यो दक्षिणा वा प्राजापत्या"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दक्षिणा तद्दातारो वा
@@ -80,7 +81,12 @@ samanīkéṣu ← samanīká- (nominal stem)
 
 śátrūn ← śátru- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भो॒जमश्वाः॑ सुष्ठु॒वाहो॑ वहन्ति सु॒वृद्रथो॑ वर्तते॒ दक्षि॑णायाः ।  
+भो॒जं दे॑वासोऽवता॒ भरे॑षु भो॒जः शत्रू॑न्त्समनी॒केषु॒ जेता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

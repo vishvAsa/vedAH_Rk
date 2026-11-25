@@ -4,6 +4,7 @@ devataa = "इध्मःसमिद्धोवाग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इध्मःसमिद्धोवाग्निः
@@ -68,7 +69,12 @@ dāśúṣe ← dāśváṁs- (nominal stem)
 
 sutásomāya ← sutásoma- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समि॑द्धो अग्न॒ आ व॑ह दे॒वाँ अ॒द्य य॒तस्रु॑चे ।  
+तन्तुं॑ तनुष्व पू॒र्व्यं सु॒तसो॑माय दा॒शुषे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “sacrifice; give.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

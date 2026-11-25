@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अग्निः सौचीकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ hótāram ← hótar- (nominal stem)
 
 ní ← ní (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रीणि॑ श॒ता त्री स॒हस्रा॑ण्य॒ग्निं त्रिं॒शच्च॑ दे॒वा नव॑ चासपर्यन् ।  
+औक्ष॑न्घृ॒तैरस्तृ॑णन्ब॒र्हिर॑स्मा॒ आदिद्धोता॑रं॒ न्य॑सादयन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - \[verb\], plural, Imperfect
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

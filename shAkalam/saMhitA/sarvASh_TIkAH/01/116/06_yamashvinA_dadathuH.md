@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ sádam ← sádam (invariable)
 
 vājī́ ← vājín- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यम॑श्विना द॒दथुः॑ श्वे॒तमश्व॑म॒घाश्वा॑य॒ शश्व॒दित्स्व॒स्ति ।  
+तद्वां॑ दा॒त्रं महि॑ की॒र्तेन्यं॑ भूत्पै॒द्वो वा॒जी सद॒मिद्धव्यो॑ अ॒र्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -243,7 +249,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

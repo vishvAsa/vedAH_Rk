@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ pravátā ← pravát- (nominal stem)
 
 yāhi ← √yā- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ ति॑ष्ठ॒ रथं॒ वृष॑णं॒ वृषा॑ ते सु॒तः सोमः॒ परि॑षिक्ता॒ मधू॑नि ।  
+यु॒क्त्वा वृष॑भ्यां वृषभ क्षिती॒नां हरि॑भ्यां याहि प्र॒वतोप॑ म॒द्रिक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

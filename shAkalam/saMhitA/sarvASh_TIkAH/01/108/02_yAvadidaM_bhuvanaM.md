@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -83,7 +84,12 @@ mánase ← mánas- (nominal stem)
 
 yuvábhyām ← tvám (pronoun)  
 {case:INS, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+याव॑दि॒दं भुव॑नं॒ विश्व॒मस्त्यु॑रु॒व्यचा॑ वरि॒मता॑ गभी॒रम् ।  
+तावाँ॑ अ॒यं पात॑वे॒ सोमो॑ अ॒स्त्वर॑मिन्द्राग्नी॒ मन॑से यु॒वभ्या॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     buck; young.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

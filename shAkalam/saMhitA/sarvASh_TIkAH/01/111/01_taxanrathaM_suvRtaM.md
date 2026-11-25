@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -83,7 +84,12 @@ tákṣan ← √takṣ- (root)
 
 vatsā́ya ← vatsá- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तक्ष॒न्रथं॑ सु॒वृतं॑ विद्म॒नाप॑स॒स्तक्ष॒न्हरी॑ इन्द्र॒वाहा॒ वृष॑ण्वसू ।  
+तक्ष॑न्पि॒तृभ्या॑मृ॒भवो॒ युव॒द्वय॒स्तक्ष॑न्व॒त्साय॑ मा॒तरं॑ सचा॒भुव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “ally.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -89,7 +90,12 @@ vām ← tvám (pronoun)
 
 vasūyúḥ ← vasūyú- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य मे॑ द्यावापृथिवी ऋताय॒तो भू॒तम॑वि॒त्री वच॑सः॒ सिषा॑सतः ।  
+ययो॒रायुः॑ प्रत॒रं ते इ॒दं पु॒र उप॑स्तुते वसू॒युर्वां॑ म॒हो द॑धे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

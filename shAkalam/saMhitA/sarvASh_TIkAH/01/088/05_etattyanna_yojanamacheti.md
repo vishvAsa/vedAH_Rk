@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "विराड्रूपा"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ varā́hūn ← varā́hu- (nominal stem)
 
 vidhā́vataḥ ← √dhāv- 1 (root)  
 {case:ACC, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒तत्त्यन्न योज॑नमचेति स॒स्वर्ह॒ यन्म॑रुतो॒ गोत॑मो वः ।  
+पश्य॒न्हिर॑ण्यचक्रा॒नयो॑दंष्ट्रान्वि॒धाव॑तो व॒राहू॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “wild boar.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

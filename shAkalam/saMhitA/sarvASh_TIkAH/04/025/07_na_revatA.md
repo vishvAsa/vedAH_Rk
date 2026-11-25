@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ súṣvaye ← súṣvi- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न रे॒वता॑ प॒णिना॑ स॒ख्यमिन्द्रोऽसु॑न्वता सुत॒पाः सं गृ॑णीते ।  
+आस्य॒ वेदः॑ खि॒दति॒ हन्ति॑ न॒ग्नं वि सुष्व॑ये प॒क्तये॒ केव॑लो भूत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

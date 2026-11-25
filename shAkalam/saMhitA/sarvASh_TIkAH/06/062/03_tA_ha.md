@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ pári ← pári (invariable)
 
 vyáthiḥ ← vyáthi- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ता ह॒ त्यद्व॒र्तिर्यदर॑ध्रमुग्रे॒त्था धिय॑ ऊहथुः॒ शश्व॒दश्वैः॑ ।  
+मनो॑जवेभिरिषि॒रैः श॒यध्यै॒ परि॒ व्यथि॑र्दा॒शुषो॒ मर्त्य॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

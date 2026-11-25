@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -98,7 +99,12 @@ ugrā́n ← ugrá- (nominal stem)
 
 yāsat ← √yā- 2 (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒क्षू न येषु॑ दो॒हसे॑ चिद॒या आ नाम॑ धृ॒ष्णु मारु॑तं॒ दधा॑नाः ।  
+न ये स्तौ॒ना अ॒यासो॑ म॒ह्ना नू चि॑त्सु॒दानु॒रव॑ यासदु॒ग्रान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
     atrocious.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

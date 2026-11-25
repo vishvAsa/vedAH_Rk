@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ hárī ← hári- (nominal stem)
 
 yuyójate ← √yuj- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न सी॒मदे॑व आप॒दिषं॑ दीर्घायो॒ मर्त्यः॑ ।  
+एत॑ग्वा चि॒द्य एत॑शा यु॒योज॑ते॒ हरी॒ इन्द्रो॑ यु॒योज॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     affect; challenge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

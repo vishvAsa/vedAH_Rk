@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -74,7 +75,12 @@ sahávīram ← sahávīra- (nominal stem)
 
 turāsaḥ ← turá- 1 (nominal stem)  
 {case:VOC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒द्युद्र॑था म॒रुत॑ ऋष्टि॒मन्तो॑ दि॒वो मर्या॑ ऋ॒तजा॑ता अ॒यासः॑ ।  
+सर॑स्वती शृणवन्य॒ज्ञिया॑सो॒ धाता॑ र॒यिं स॒हवी॑रं तुरासः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -189,7 +195,6 @@ _________
 - “powerful; noble; noble.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

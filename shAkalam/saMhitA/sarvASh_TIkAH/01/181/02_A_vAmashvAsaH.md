@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ svarā́jaḥ ← svarā́j- (nominal stem)
 
 vahantu ← √vah- (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वा॒मश्वा॑सः॒ शुच॑यः पय॒स्पा वात॑रंहसो दि॒व्यासो॒ अत्याः॑ ।  
+म॒नो॒जुवो॒ वृष॑णो वी॒तपृ॑ष्ठा॒ एह स्व॒राजो॑ अ॒श्विना॑ वहन्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

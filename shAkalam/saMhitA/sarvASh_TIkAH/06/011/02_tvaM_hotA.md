@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ táva ← tvám (pronoun)
 
 yájasva ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं होता॑ म॒न्द्रत॑मो नो अ॒ध्रुग॒न्तर्दे॒वो वि॒दथा॒ मर्त्ये॑षु ।  
+पा॒व॒कया॑ जु॒ह्वा॒३॒॑ वह्नि॑रा॒साग्ने॒ यज॑स्व त॒न्वं१॒॑ तव॒ स्वाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     present(a); independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

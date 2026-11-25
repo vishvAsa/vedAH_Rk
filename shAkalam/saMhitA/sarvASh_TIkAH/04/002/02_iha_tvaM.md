@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ r̥jumuṣkā́n ← r̥jumuṣká- (nominal stem)
 
 vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒ह त्वं सू॑नो सहसो नो अ॒द्य जा॒तो जा॒ताँ उ॒भयाँ॑ अ॒न्तर॑ग्ने ।  
+दू॒त ई॑यसे युयुजा॒न ऋ॑ष्व ऋजुमु॒ष्कान्वृष॑णः शु॒क्राँश्च॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

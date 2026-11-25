@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ párvatāḥ ← párvata- (nominal stem)
 
 tasthivā́ṁsaḥ ← √sthā- (root)  
 {case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न ता मि॑नन्ति मा॒यिनो॒ न धीरा॑ व्र॒ता दे॒वानां॑ प्रथ॒मा ध्रु॒वाणि॑ ।  
+न रोद॑सी अ॒द्रुहा॑ वे॒द्याभि॒र्न पर्व॑ता नि॒नमे॑ तस्थि॒वांसः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
     last; dwell; lie; stand; stop.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

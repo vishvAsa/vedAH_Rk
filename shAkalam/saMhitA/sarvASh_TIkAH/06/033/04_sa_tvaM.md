@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शुनहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ pr̥tsú ← pŕ̥t- (nominal stem)
 
 yúdhyantaḥ ← √yudh- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स त्वं न॑ इ॒न्द्राक॑वाभिरू॒ती सखा॑ वि॒श्वायु॑रवि॒ता वृ॒धे भूः॑ ।  
+स्व॑र्षाता॒ यद्ध्वया॑मसि त्वा॒ युध्य॑न्तो ने॒मधि॑ता पृ॒त्सु शू॑र ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

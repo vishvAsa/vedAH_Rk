@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "देवश्रवा देववातश्च भारतौ"
 ChandaH = "सतोबृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ vaśī́ ← vaśín- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दश॒ क्षिपः॑ पू॒र्व्यं सी॑मजीजन॒न्त्सुजा॑तं मा॒तृषु॑ प्रि॒यम् ।  
+अ॒ग्निं स्तु॑हि दैववा॒तं दे॑वश्रवो॒ यो जना॑ना॒मस॑द्व॒शी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “powerful; controlling; regnant; authoritative.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

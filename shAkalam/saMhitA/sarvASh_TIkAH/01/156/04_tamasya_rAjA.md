@@ -4,6 +4,7 @@ devataa = "विष्णुः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुः
@@ -89,7 +90,12 @@ víṣṇuḥ ← víṣṇu- (nominal stem)
 
 vrajám ← vrajá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम॑स्य॒ राजा॒ वरु॑ण॒स्तम॒श्विना॒ क्रतुं॑ सचन्त॒ मारु॑तस्य वे॒धसः॑ ।  
+दा॒धार॒ दक्ष॑मुत्त॒मम॑ह॒र्विदं॑ व्र॒जं च॒ विष्णुः॒ सखि॑वाँ अपोर्णु॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “open.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

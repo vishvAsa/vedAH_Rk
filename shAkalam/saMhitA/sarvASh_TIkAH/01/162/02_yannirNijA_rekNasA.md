@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -83,7 +84,12 @@ pā́thaḥ ← pā́thas- (nominal stem)
 
 priyám ← priyá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यन्नि॒र्णिजा॒ रेक्ण॑सा॒ प्रावृ॑तस्य रा॒तिं गृ॑भी॒तां मु॑ख॒तो नय॑न्ति ।  
+सुप्रा॑ङ॒जो मेम्य॑द्वि॒श्वरू॑प इन्द्रापू॒ष्णोः प्रि॒यमप्ये॑ति॒ पाथः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
 - “pāthas \[word\]; water; place.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

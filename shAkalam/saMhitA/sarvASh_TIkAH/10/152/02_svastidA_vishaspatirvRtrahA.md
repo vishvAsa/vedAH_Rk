@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शासो भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -71,7 +72,12 @@ abhayaṁkaráḥ ← abhayaṁkará- (nominal stem)
 
 somapā́ḥ ← somapā́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒स्ति॒दा वि॒शस्पति॑र्वृत्र॒हा वि॑मृ॒धो व॒शी ।  
+वृषेन्द्रः॑ पु॒र ए॑तु नः सोम॒पा अ॑भयङ्क॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

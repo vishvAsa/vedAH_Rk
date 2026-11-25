@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -98,7 +99,12 @@ vaḥ ← tvám (pronoun)
 
 víśvā ← víśva- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒ष्टयो॑ वो मरुतो॒ अंस॑यो॒रधि॒ सह॒ ओजो॑ बा॒ह्वोर्वो॒ बलं॑ हि॒तम् ।  
+नृ॒म्णा शी॒र्षस्वायु॑धा॒ रथे॑षु वो॒ विश्वा॑ वः॒ श्रीरधि॑ त॒नूषु॑ पिपिशे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “decorate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "बृहस्पतिर्बृहस्पतिर्वा लौक्य अदितिर्वा दाक्षायणी"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -71,7 +72,12 @@ yáḥ ← yá- (pronoun)
 
 yugé ← yugá- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दे॒वानां॒ नु व॒यं जाना॒ प्र वो॑चाम विप॒न्यया॑ ।  
+उ॒क्थेषु॑ श॒स्यमा॑नेषु॒ यः पश्या॒दुत्त॑रे यु॒गे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
     \[word\]; Yuga; race.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

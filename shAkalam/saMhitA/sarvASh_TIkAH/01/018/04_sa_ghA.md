@@ -4,6 +4,7 @@ devataa = "इन्द्रो ब्रह्मणस्पतिः सो�
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रो ब्रह्मणस्पतिः सोमश्च
@@ -66,7 +67,12 @@ mártyam ← mártya- (nominal stem)
 
 sómaḥ ← sóma- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स घा॑ वी॒रो न रि॑ष्यति॒ यमिन्द्रो॒ ब्रह्म॑ण॒स्पतिः॑ ।  
+सोमो॑ हि॒नोति॒ मर्त्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -152,7 +158,6 @@ _________
 - “man; people; martya \[word\]; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

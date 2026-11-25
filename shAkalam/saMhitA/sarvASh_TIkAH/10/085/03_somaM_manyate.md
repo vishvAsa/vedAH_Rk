@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -77,7 +78,12 @@ ná ← ná (invariable)
 
 tásya ← sá- ~ tá- (pronoun)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमं॑ मन्यते पपि॒वान्यत्स॑म्पिं॒षन्त्योष॑धिम् ।  
+सोमं॒ यं ब्र॒ह्माणो॑ वि॒दुर्न तस्या॑श्नाति॒ कश्च॒न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “some(a); any(a); some(a); any(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

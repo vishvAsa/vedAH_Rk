@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ sadata ← √sad- (root)
 
 vītáye ← vītí- (nominal stem)  
 {case:DAT, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि॒चे॒तारो॒ हि म॒रुतो॑ गृ॒णन्तं॑ प्रणे॒तारो॒ यज॑मानस्य॒ मन्म॑ ।  
+अ॒स्माक॑म॒द्य वि॒दथे॑षु ब॒र्हिरा वी॒तये॑ सदत पिप्रिया॒णाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “delight; gladden; satisfy; nutrify; comfort.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

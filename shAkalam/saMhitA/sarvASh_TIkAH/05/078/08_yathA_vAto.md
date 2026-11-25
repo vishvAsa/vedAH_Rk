@@ -4,6 +4,7 @@ devataa = "अश्विनौ (गर्भस्राविण्युप�
 RShiH = "सप्तवध्रिरात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ (गर्भस्राविण्युपनिषत्)
@@ -74,7 +75,12 @@ jarā́yuṇā ← jarā́yu- (nominal stem)
 
 sahá ← sahá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यथा॒ वातो॒ यथा॒ वनं॒ यथा॑ समु॒द्र एज॑ति ।  
+ए॒वा त्वं द॑शमास्य स॒हावे॑हि ज॒रायु॑णा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -163,7 +169,6 @@ _________
 - “afterbirth; chorion; placenta.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

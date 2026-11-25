@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ pariṣádantaḥ ← √sad- (root)
 
 ūrvám ← ūrvá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒कर्मा॑णः सु॒रुचो॑ देव॒यन्तोऽयो॒ न दे॒वा जनि॑मा॒ धम॑न्तः ।  
+शु॒चन्तो॑ अ॒ग्निं व॑वृ॒धन्त॒ इन्द्र॑मू॒र्वं गव्यं॑ परि॒षद॑न्तो अग्मन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

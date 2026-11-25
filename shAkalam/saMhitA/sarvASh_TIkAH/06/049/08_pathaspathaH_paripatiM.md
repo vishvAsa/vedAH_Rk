@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ pūṣā́ ← pūṣán- (nominal stem)
 
 sīṣadhāti ← √sādh- ~ sidh- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒थस्प॑थः॒ परि॑पतिं वच॒स्या कामे॑न कृ॒तो अ॒भ्या॑नळ॒र्कम् ।  
+स नो॑ रासच्छु॒रुध॑श्च॒न्द्राग्रा॒ धियं॑धियं सीषधाति॒ प्र पू॒षा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “Pushan; pūṣan \[word\]; sun.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "कृत्नुर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -75,7 +76,12 @@ prá ← prá (invariable)
 
 śroṇáḥ ← śroṇá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भ्यू॑र्णोति॒ यन्न॒ग्नं भि॒षक्ति॒ विश्वं॒ यत्तु॒रम् ।  
+प्रेम॒न्धः ख्य॒न्निः श्रो॒णो भू॑त् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

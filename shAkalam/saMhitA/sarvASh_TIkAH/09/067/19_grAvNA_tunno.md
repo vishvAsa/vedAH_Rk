@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ stotré ← stotár- (nominal stem)
 
 suvī́ryam ← suvī́rya- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग्राव्णा॑ तु॒न्नो अ॒भिष्टु॑तः प॒वित्रं॑ सोम गच्छसि ।  
+दध॑त्स्तो॒त्रे सु॒वीर्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     virility; manfulness; jewel; force.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -161,14 +166,12 @@ establishing for the praiser an abundance of heroes.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
 This is the last tṛca of the hymn, attributed to Vasiṣṭha. The 1st two vss. are variants of each, couched in 2nd and 3rd ps. respectively: their first pādas differ only in their initial disyllable, with the rest identical: … tunnó abhíṣṭutaḥ; their second pādas both depict the journey to and across the filter, both beginning pavítram. The third vs. stands apart, though the identification of Soma as ‘demon-smasher’ in 20c is thematically linked to the plea in 21 that Soma “smash away” peril.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

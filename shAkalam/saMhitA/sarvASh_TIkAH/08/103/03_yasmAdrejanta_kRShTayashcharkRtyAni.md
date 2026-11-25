@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -68,7 +69,12 @@ dhībhíḥ ← dhī́- (nominal stem)
 
 saparyata ← √sapary- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मा॒द्रेज॑न्त कृ॒ष्टय॑श्च॒र्कृत्या॑नि कृण्व॒तः ।  
+स॒ह॒स्र॒सां मे॒धसा॑ताविव॒ त्मना॒ग्निं धी॒भिः स॑पर्यत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
 - “worship.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -201,7 +206,6 @@ wisdom—serve Agni with insightful thoughts.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
@@ -209,7 +213,6 @@ In both these vss. tmánā ‘by himself’ contrasts with the vast number (thou
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ yātam ← √yā- 1 (root)
 
 yuvóḥ ← tvám (pronoun)  
 {case:GEN, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒युग्व॑हन्ति॒ प्रति॑ वामृ॒तेनो॒र्ध्वा भ॑वन्ति पि॒तरे॑व॒ मेधाः॑ ।  
+जरे॑थाम॒स्मद्वि प॒णेर्म॑नी॒षां यु॒वोरव॑श्चकृ॒मा या॑तम॒र्वाक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

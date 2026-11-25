@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पर्वतः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -61,7 +62,12 @@ víśvābhiḥ ← víśva- (nominal stem)
 
 vavákṣitha ← √vakṣ- (root)  
 {number:SG, person:2, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं जु॑षस्व गिर्वणः समु॒द्र इ॑व पिन्वते ।  
+इन्द्र॒ विश्वा॑भिरू॒तिभि॑र्व॒वक्षि॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
 - “grow; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -160,7 +165,6 @@ This one enjoy, o you who yearn for songs—it swells like the sea. O Indra, wit
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -168,7 +172,6 @@ The verbal form that constitutes the refrain, vavákṣitha ‘you have waxed st
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

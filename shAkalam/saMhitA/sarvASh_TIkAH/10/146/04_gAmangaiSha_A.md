@@ -4,6 +4,7 @@ devataa = "अरण्यानी"
 RShiH = "देवमुनिरैरम्मदः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अरण्यानी
@@ -80,7 +81,12 @@ vásan ← √vas- 3 (root)
 
 manyate ← √man- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गाम॒ङ्गैष आ ह्व॑यति॒ दार्व॒ङ्गैषो अपा॑वधीत् ।  
+वस॑न्नरण्या॒न्यां सा॒यमक्रु॑क्ष॒दिति॑ मन्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

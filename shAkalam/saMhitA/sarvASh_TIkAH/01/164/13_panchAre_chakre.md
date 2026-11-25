@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -86,7 +87,12 @@ sanā́t ← sanā́t (invariable)
 
 śīryate ← √śr̥̄- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पञ्चा॑रे च॒क्रे प॑रि॒वर्त॑माने॒ तस्मि॒न्ना त॑स्थु॒र्भुव॑नानि॒ विश्वा॑ ।  
+तस्य॒ नाक्ष॑स्तप्यते॒ भूरि॑भारः स॒नादे॒व न शी॑र्यते॒ सना॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     \[word\]; friendship; center.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

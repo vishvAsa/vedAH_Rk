@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वशोश्व्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ codayanmate ← codayánmati- (nominal stem)
 
 jyéṣṭham ← jyéṣṭha- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र॒भ॒ङ्गं दु॑र्मती॒नामिन्द्र॑ शवि॒ष्ठा भ॑र ।  
+र॒यिम॒स्मभ्यं॒ युज्यं॑ चोदयन्मते॒ ज्येष्ठं॑ चोदयन्मते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
     desire; wish; conviction; plan; devotion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

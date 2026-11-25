@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ kāmapréṇa ← kāmaprá- (nominal stem)
 
 mánasā ← mánas- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को वां॑ दाशत्सुम॒तये॑ चिद॒स्यै वसू॒ यद्धेथे॒ नम॑सा प॒दे गोः ।  
+जि॒गृ॒तम॒स्मे रे॒वतीः॒ पुरं॑धीः काम॒प्रेणे॑व॒ मन॑सा॒ चर॑न्ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     heed; process; administer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

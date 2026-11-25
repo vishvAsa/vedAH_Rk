@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -95,7 +96,12 @@ te ← tvám (pronoun)
 
 vīryàm ← vīryà- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अनु॑ त्वा॒ रथो॒ अनु॒ मर्यो॑ अर्व॒न्ननु॒ गावोऽनु॒ भगः॑ क॒नीना॑म् ।  
+अनु॒ व्राता॑स॒स्तव॑ स॒ख्यमी॑यु॒रनु॑ दे॒वा म॑मिरे वी॒र्यं॑ ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “you.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

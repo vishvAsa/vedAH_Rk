@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ maghávā ← maghávan- (nominal stem)
 
 surā́dhāḥ ← surā́dhas- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒त्रा॒हणं॒ दाधृ॑षिं॒ तुम्र॒मिन्द्रं॑ म॒हाम॑पा॒रं वृ॑ष॒भं सु॒वज्र॑म् ।  
+हन्ता॒ यो वृ॒त्रं सनि॑तो॒त वाजं॒ दाता॑ म॒घानि॑ म॒घवा॑ सु॒राधाः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
 - “gift; munificence; liberality; bounty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

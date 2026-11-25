@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -86,7 +87,12 @@ sáḥ ← sá- ~ tá- (pronoun)
 
 viśvárūpāḥ ← viśvárūpa- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्तोमे॑न॒ हि दि॒वि दे॒वासो॑ अ॒ग्निमजी॑जन॒ञ्छक्ति॑भी रोदसि॒प्राम् ।  
+तमू॑ अकृण्वन्त्रे॒धा भु॒वे कं स ओष॑धीः पचति वि॒श्वरू॑पाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     vision.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

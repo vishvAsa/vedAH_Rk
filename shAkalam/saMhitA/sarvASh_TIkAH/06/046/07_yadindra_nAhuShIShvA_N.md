@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ satrā́ ← satrā́ (invariable)
 
 víśvāni ← víśva- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदि॑न्द्र॒ नाहु॑षी॒ष्वाँ ओजो॑ नृ॒म्णं च॑ कृ॒ष्टिषु॑ ।  
+यद्वा॒ पञ्च॑ क्षिती॒नां द्यु॒म्नमा भ॑र स॒त्रा विश्वा॑नि॒ पौंस्या॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “manfulness; deed; army; strength.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -232,19 +237,12 @@ _________
 The might and manliness that are in the Nahuṣa territories, Indra, or the brilliance that belongs to the five settlements—bring them here: all  the masculine powers altogether.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The main cl. begins in the middle (or rather towards the end) of pāda c, with ā́bhara. Since this phrase is only 3 syllables, the audience would not mistake the syntactic break for a pāda break despite the extra length of the c-pāda in Bṛhatī.
-
-satrā́reappears once again (cf. 2d, 3a).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
 This pragātha is stitched together by the yád (vā) construction (7a, c, 8a, b).
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

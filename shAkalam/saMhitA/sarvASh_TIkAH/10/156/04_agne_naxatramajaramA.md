@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "केतुराग्नेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -60,7 +61,12 @@ jánebhyaḥ ← jána- (nominal stem)
 
 jyótiḥ ← jyótis- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ नक्ष॑त्रम॒जर॒मा सूर्यं॑ रोहयो दि॒वि ।  
+दध॒ज्ज्योति॒र्जने॑भ्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

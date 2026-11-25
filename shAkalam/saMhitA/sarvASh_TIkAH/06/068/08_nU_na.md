@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -83,7 +84,12 @@ nāvā́ ← naú- ~ nā́v- (nominal stem)
 
 tarema ← √tr̥̄- 1 (root)  
 {number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नू न॑ इन्द्रावरुणा गृणा॒ना पृ॒ङ्क्तं र॒यिं सौ॑श्रव॒साय॑ देवा ।  
+इ॒त्था गृ॒णन्तो॑ म॒हिन॑स्य॒ शर्धो॒ऽपो न ना॒वा दु॑रि॒ता त॑रेम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “traverse; overcome; float; rescue; reach; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

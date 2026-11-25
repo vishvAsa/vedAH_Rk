@@ -4,6 +4,7 @@ devataa = "अश्वः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्वः
@@ -83,7 +84,12 @@ prathamáḥ ← prathamá- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हिर॑ण्यशृ॒ङ्गोऽयो॑ अस्य॒ पादा॒ मनो॑जवा॒ अव॑र॒ इन्द्र॑ आसीत् ।  
+दे॒वा इद॑स्य हवि॒रद्य॑माय॒न्यो अर्व॑न्तं प्रथ॒मो अ॒ध्यति॑ष्ठत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “reach; board; repose on; govern; sit down; stand; prevail.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

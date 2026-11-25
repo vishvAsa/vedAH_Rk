@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ purú ← purú- (nominal stem)
 
 rájāṁsi ← rájas- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मा॒ ऊमा॑सो अ॒मृता॒ अरा॑सत रा॒यस्पोषं॑ च ह॒विषा॑ ददा॒शुषे॑ ।  
+उ॒क्षन्त्य॑स्मै म॒रुतो॑ हि॒ता इ॑व पु॒रू रजां॑सि॒ पय॑सा मयो॒भुवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - \[noun\], nominative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

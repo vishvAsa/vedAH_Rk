@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः प्रियमेधश्चाङ्गिरसः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ sómaiḥ ← sóma- (nominal stem)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यज॑ध्वैनं प्रियमेधा॒ इन्द्रं॑ स॒त्राचा॒ मन॑सा ।  
+यो भूत्सोमैः॑ स॒त्यम॑द्वा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
 - “intoxicated.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

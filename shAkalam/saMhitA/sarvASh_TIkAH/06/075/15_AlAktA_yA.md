@@ -4,6 +4,7 @@ devataa = "इषवः"
 RShiH = "पायुर्भारद्वाजः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इषवः
@@ -74,7 +75,12 @@ devyaí ← devī́- (nominal stem)
 
 námaḥ ← námas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आला॑क्ता॒ या रुरु॑शी॒र्ष्ण्यथो॒ यस्या॒ अयो॒ मुख॑म् ।  
+इ॒दं प॒र्जन्य॑रेतस॒ इष्वै॑ दे॒व्यै बृ॒हन्नमः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -178,7 +184,6 @@ _________
 - “adoration; court; namas \[word\]; bow; salute.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -71,6 +71,12 @@ agnídūtaḥ ← agnídūta- (nominal stem)
 {case:NOM, gender:M, number:SG, non-finite:PPP}
 </details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒माय॒ सोमं॑ सुनुत य॒माय॑ जुहुता ह॒विः ।  
+य॒मं ह॑ य॒ज्ञो ग॑च्छत्य॒ग्निदू॑तो॒ अरं॑कृतः ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 य॒माय॑ । सोम॑म् । सु॒नु॒त॒ । य॒माय॑ । जु॒हु॒त॒ । ह॒विः ।  

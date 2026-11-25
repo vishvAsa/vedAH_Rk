@@ -4,6 +4,7 @@ devataa = "वरुणः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणः
@@ -77,7 +78,12 @@ prácetasaḥ ← prácetas- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ स्पशो॒ वरु॑णस्य॒ स्मदि॑ष्टा उ॒भे प॑श्यन्ति॒ रोद॑सी सु॒मेके॑ ।  
+ऋ॒तावा॑नः क॒वयो॑ य॒ज्ञधी॑राः॒ प्रचे॑तसो॒ य इ॒षय॑न्त॒ मन्म॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “hymn; idea; purpose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

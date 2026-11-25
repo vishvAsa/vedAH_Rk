@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "सध्वंसः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -62,7 +63,12 @@ gámbhīracetasā ← gambhīracetas- (nominal stem)
 
 kávī ← kaví- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नू॒नं या॑तमश्विना॒ रथे॑न॒ सूर्य॑त्वचा ।  
+भुजी॒ हिर॑ण्यपेशसा॒ कवी॒ गम्भी॑रचेतसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “mind; heart; consciousness; intelligence; purpose; cetas \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "सपत्नघ्नं"
 RShiH = "ऋषभो वैराजः शाक्वरो वा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सपत्नघ्नं
@@ -65,7 +66,12 @@ gópatim ← gópati- (nominal stem)
 
 virā́jam ← virā́j- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒ष॒भं मा॑ समा॒नानां॑ स॒पत्ना॑नां विषास॒हिम् ।  
+ह॒न्तारं॒ शत्रू॑णां कृधि वि॒राजं॒ गोप॑तिं॒ गवा॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

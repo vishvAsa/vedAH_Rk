@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "प्रियमेध"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ sátpate ← sátpati- (nominal stem)
 
 śáviṣṭha ← śáviṣṭha- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त्वा॒ रथं॒ यथो॒तये॑ सु॒म्नाय॑ वर्तयामसि ।  
+तु॒वि॒कू॒र्मिमृ॑ती॒षह॒मिन्द्र॒ शवि॑ष्ठ॒ सत्प॑ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “Indra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

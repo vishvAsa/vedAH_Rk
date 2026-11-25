@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कुत्सः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ sámaneṣu ← sámana- (nominal stem)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒ष प्र॒त्नेन॒ वय॑सा पुना॒नस्ति॒रो वर्पां॑सि दुहि॒तुर्दधा॑नः ।  
+वसा॑नः॒ शर्म॑ त्रि॒वरू॑थम॒प्सु होते॑व याति॒ सम॑नेषु॒ रेभ॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “moo; murmur; praise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -236,12 +241,6 @@ He, being purified with age-old vitality, hiding himself in the forms of  the da
 in the waters clothing himself in shelter providing threefold defense,  rasping like a Hotar he drives to the concourses.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-In pāda b my interpr. differs significantly from that of Geldner (fld. by Renou) and that favored by Oldenberg, though all of us assume that “daughter” is short for “daughter of the Sun.” Geldner takes duhitúḥ as abl. and assumes an idiom ABL X tiráḥ √dhā “hide X from …,” an ex. of which he cites from the Kena Up., which seems a distant text from which to harvest a parallel. He takes the várpāṃsi as Soma’s own forms, but does not suggest why Soma would want to keep them hidden from the Sun’s daughter. I instead take duhitúḥ as gen., dependent on várpāṃsi, which Oldenberg considers the more natural construal. Since the acc. with medial tiráḥ √dhā expresses the medium in which the subject hides himself (at least in my view: see comm. ad IX.73.3), in our passage here Soma hides himself “in the forms of the daughter (of the Sun)” - a designation of milk, since the gleaming white milk is often assimilated to the sun. I see the same idiom in IX.72.3, though more disguised: see extensive comm. there. The reference, of course, is to the mixing of soma with milk.
-
-The following pāda provides a different but parallel image of the mixing of soma with water, with the more widespread trope of “clothing himself in.” The last pāda provides a clever multilevel play, as long as rébhan is properly interpr. As I have often disc. (incl. ad vs. 8 above), √ribh does not mean ‘sing’ as it’s usually glossed, but rather expresses a variety of harsh sounds: rasp, creak, squawk, and crackle. In this pāda Soma is compared to a Hotar priest. But the quintessential Hotar is actually the god Agni, the ritual fire - and fires crackle. So the comparison is to the sound of a lively burning fire, but mediated through the priest.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">
 <details><summary><h2>46-48 ...{Loading}...</h2></summary>
 
@@ -251,7 +250,6 @@ to the sun.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

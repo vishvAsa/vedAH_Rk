@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ prá ← prá (invariable)
 
 tiṣṭha ← √sthā- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्त होता॑र॒स्तमिदी॑ळते॒ त्वाग्ने॑ सु॒त्यज॒मह्र॑यम् ।  
+भि॒नत्स्यद्रिं॒ तप॑सा॒ वि शो॒चिषा॒ प्राग्ने॑ तिष्ठ॒ जनाँ॒ अति॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “very; excessively; beyond; excessively.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

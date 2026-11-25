@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "असितः काश्यपो देवलो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -54,7 +55,12 @@ dharṇasím ← dharṇasí- (nominal stem)
 
 pariṣkr̥ṇvánti ← √kr̥- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गि॒रा यदी॒ सब॑न्धवः॒ पञ्च॒ व्राता॑ अप॒स्यवः॑ ।  
+प॒रि॒ष्कृ॒ण्वन्ति॑ धर्ण॒सिम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -113,7 +119,6 @@ _________
 - “permanent; firm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "जमदग्निः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -63,7 +64,12 @@ pavítram ← pavítra- (nominal stem)
 
 tā́bhiḥ ← sá- ~ tá- (pronoun)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यास्ते॒ धारा॑ मधु॒श्चुतोऽसृ॑ग्रमिन्द ऊ॒तये॑ ।  
+ताभिः॑ प॒वित्र॒मास॑दः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - “approach; attack; sit down; approach; find; arrive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -164,7 +169,6 @@ with them you have sat down on the filter.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/07-09.md">
 <details><summary><h2>07-09 ...{Loading}...</h2></summary>
 
@@ -172,7 +176,6 @@ The tṛca shows no strong signs of internal unity, save for the “sitting” f
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

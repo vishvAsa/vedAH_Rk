@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -72,7 +73,12 @@ rurukvā́n ← √ruc- (root)
 
 sū́raḥ ← sū́ra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यः पुरं॒ नार्मि॑णी॒मदी॑दे॒दत्यः॑ क॒विर्न॑भ॒न्यो॒३॒॑ नार्वा॑ ।  
+सूरो॒ न रु॑रु॒क्वाञ्छ॒तात्मा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -172,7 +178,6 @@ _________
     \[word\]; person; life; peculiarity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

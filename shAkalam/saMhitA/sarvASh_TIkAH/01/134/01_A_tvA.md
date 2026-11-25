@@ -4,6 +4,7 @@ devataa = "वायुः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वायुः
@@ -119,7 +120,13 @@ makhásya ← makhá- (nominal stem)
 
 vā́yo ← vāyú- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त्वा॒ जुवो॑ रारहा॒णा अ॒भि प्रयो॒ वायो॒ वह॑न्त्वि॒ह पू॒र्वपी॑तये॒ सोम॑स्य पू॒र्वपी॑तये ।  
+ऊ॒र्ध्वा ते॒ अनु॑ सू॒नृता॒ मन॑स्तिष्ठतु जान॒ती ।  
+नि॒युत्व॑ता॒ रथे॒ना या॑हि दा॒वने॒ वायो॑ म॒खस्य॑ दा॒वने॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -322,7 +329,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

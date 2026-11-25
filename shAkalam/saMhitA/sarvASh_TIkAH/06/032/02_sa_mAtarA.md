@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सुहोत्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -77,7 +78,12 @@ usríyāṇām ← usríya- (nominal stem)
 
 út ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स मा॒तरा॒ सूर्ये॑णा कवी॒नामवा॑सयद्रु॒जदद्रिं॑ गृणा॒नः ।  
+स्वा॒धीभि॒रृक्व॑भिर्वावशा॒न उदु॒स्रिया॑णामसृजन्नि॒दान॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “nidāna; cause; symptom; band.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

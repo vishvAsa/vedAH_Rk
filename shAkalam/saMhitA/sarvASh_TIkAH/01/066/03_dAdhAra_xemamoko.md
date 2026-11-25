@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -60,7 +60,11 @@ pakváḥ ← pakvá- (nominal stem)
 
 yávaḥ ← yáva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दा॒धार॒ क्षेम॒मोको॒ न र॒ण्वो यवो॒ न प॒क्वो जेता॒ जना॑नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +138,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -181,10 +184,6 @@ Er sichert die Ruhe, behaglich wie das Heim, wie reifes Korn, der Besieger der V
 
 Behagen schafft er, – hold wie ein Wohnhaus, wie reife Gerste, – der Männer Sieger, Wie Sänger rauschend, – gerühmt bei Menschen, wie lieber Renner – verschafft er Labung.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

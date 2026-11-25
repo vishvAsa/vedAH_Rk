@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ kṣitáyaḥ ← kṣití- (nominal stem)
 
 vardhanti ← √vr̥dh- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तम॒र्केभि॒स्तं साम॑भि॒स्तं गा॑य॒त्रैश्च॑र्ष॒णयः॑ ।  
+इन्द्रं॑ वर्धन्ति क्षि॒तयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
     estate; colony; house.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

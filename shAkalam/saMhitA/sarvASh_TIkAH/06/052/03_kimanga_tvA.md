@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ hetím ← hetí- (nominal stem)
 
 tápuṣim ← tápuṣi- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किम॒ङ्ग त्वा॒ ब्रह्म॑णः सोम गो॒पां किम॒ङ्ग त्वा॑हुरभिशस्ति॒पां नः॑ ।  
+किम॒ङ्ग नः॑ पश्यसि नि॒द्यमा॑नान्ब्रह्म॒द्विषे॒ तपु॑षिं हे॒तिम॑स्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -247,7 +253,6 @@ _________
 - “shoot; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

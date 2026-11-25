@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ ní ← ní (invariable)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ व ए॒ना नम॑सा॒हमे॑मि सू॒क्तेन॑ भिक्षे सुम॒तिं तु॒राणा॑म् ।  
+र॒रा॒णता॑ मरुतो वे॒द्याभि॒र्नि हेळो॑ ध॒त्त वि मु॑चध्व॒मश्वा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “horse; aśva \[word\]; Aśva; stallion.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -71,7 +72,12 @@ váso ← vásu- (nominal stem)
 
 vividúṣaḥ ← √vid- 1 (root)  
 {case:GEN, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विप्र॑स्य वा स्तुव॒तः स॑हसो यहो म॒क्षूत॑मस्य रा॒तिषु॑ ।  
+अ॒वोदे॑वमु॒परि॑मर्त्यं कृधि॒ वसो॑ विवि॒दुषो॒ वचः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -164,7 +170,6 @@ _________
 - “statement; command; speech; words; advice; word; voice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -196,10 +201,6 @@ Or in the gifts of the inspired praiser who is quickest, o youthful (son)  of st
 make his speech, when he has found it, one that brings the gods below  and is above (that of) mortals, o good one.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Both Geldner and Renou take the hapax avódevam, modifying vácaḥ, as meaning ‘below / inferior to (that of) the gods’. This makes a nice contrast to upárimartyam ‘above (that of) mortals’. However, it otherwise seems an odd sentiment: it is surely a given that anything we mortals produce will be inferior to whatever comes from the gods, but this is a given that we don’t necessarily want to emphasize. In this ritual context the point of our speech is that it should be good enough (better than that of other mortals) to bring the gods to us. Hence something like Grassmann’s “die Götter herunterholend, sie herablockend” seems preferable (see also Kümmel 492). The compound itself is a version of, or manipulation of, the reasonably common expression avó divā́/ diváḥ (I.163.6, V.40.6, VIII.40.8, IX.74.6).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/11-12.md">
 <details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
@@ -209,7 +210,6 @@ Note the alliterative v’s of 11c havyā́vā véviṣad víṣah (immediately 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

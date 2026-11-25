@@ -4,6 +4,7 @@ devataa = "इन्द्राब्रह्मणस्पती"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राब्रह्मणस्पती
@@ -83,7 +84,12 @@ jajastám ← √jas- (root)
 
 vanúṣām ← vanús- (nominal stem)  
 {case:GEN, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒यं वां॑ ब्रह्मणस्पते सुवृ॒क्तिर्ब्रह्मेन्द्रा॑य व॒ज्रिणे॑ अकारि ।  
+अ॒वि॒ष्टं धियो॑ जिगृ॒तं पुरं॑धीर्जज॒स्तम॒र्यो व॒नुषा॒मरा॑तीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “hostility; adversity; foe; envy; stinginess.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

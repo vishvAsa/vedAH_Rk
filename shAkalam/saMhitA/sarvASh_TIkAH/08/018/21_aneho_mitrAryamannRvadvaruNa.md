@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -63,7 +64,12 @@ trivárūtham ← trivárūtha- (nominal stem)
 
 yanta ← √yam- (root)  
 {number:PL, person:2, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ने॒हो मि॑त्रार्यमन्नृ॒वद्व॑रुण॒ शंस्य॑म् ।  
+त्रि॒वरू॑थं मरुतो यन्त नश्छ॒र्दिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -147,7 +153,6 @@ _________
 - “protection; protective covering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

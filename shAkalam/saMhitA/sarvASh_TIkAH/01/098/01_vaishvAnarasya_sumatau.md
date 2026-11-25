@@ -4,6 +4,7 @@ devataa = "अग्निरग्निर्वैश्वानरो व�
 RShiH = "कुत्स आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरग्निर्वैश्वानरो वा
@@ -83,7 +84,12 @@ vaiśvānaráḥ ← vaiśvānará- (nominal stem)
 
 yatate ← √yat- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वै॒श्वा॒न॒रस्य॑ सुम॒तौ स्या॑म॒ राजा॒ हि कं॒ भुव॑नानामभि॒श्रीः ।  
+इ॒तो जा॒तो विश्व॑मि॒दं वि च॑ष्टे वैश्वान॒रो य॑तते॒ सूर्ये॑ण ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

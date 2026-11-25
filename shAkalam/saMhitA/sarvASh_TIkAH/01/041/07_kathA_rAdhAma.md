@@ -4,6 +4,7 @@ devataa = "वरुणमित्रार्यमणः"
 RShiH = "कण्वो घौरः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वरुणमित्रार्यमणः
@@ -57,7 +58,12 @@ psáraḥ ← psáras- (nominal stem)
 
 váruṇasya ← váruṇa- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+क॒था रा॑धाम सखायः॒ स्तोमं॑ मि॒त्रस्या॑र्य॒म्णः ।  
+महि॒ प्सरो॒ वरु॑णस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -121,7 +127,6 @@ _________
     varuṇādi.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

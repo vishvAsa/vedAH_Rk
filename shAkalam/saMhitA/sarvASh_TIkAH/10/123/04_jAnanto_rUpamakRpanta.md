@@ -4,6 +4,7 @@ devataa = "वेनः"
 RShiH = "वेनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वेनः
@@ -86,7 +87,12 @@ nā́ma ← nā́man- (nominal stem)
 
 vidát ← √vid- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जा॒नन्तो॑ रू॒पम॑कृपन्त॒ विप्रा॑ मृ॒गस्य॒ घोषं॑ महि॒षस्य॒ हि ग्मन् ।  
+ऋ॒तेन॒ यन्तो॒ अधि॒ सिन्धु॑मस्थुर्वि॒दद्ग॑न्ध॒र्वो अ॒मृता॑नि॒ नाम॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     word.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ pr̥kṣáḥ ← pŕ̥kṣ- (nominal stem)
 
 pūrvī́ḥ ← purú- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ वां॒ वयोऽश्वा॑सो॒ वहि॑ष्ठा अ॒भि प्रयो॑ नासत्या वहन्तु ।  
+प्र वां॒ रथो॒ मनो॑जवा असर्जी॒षः पृ॒क्ष इ॒षिधो॒ अनु॑ पू॒र्वीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “many; much(a); very.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

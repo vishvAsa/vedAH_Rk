@@ -4,6 +4,7 @@ devataa = "दंपती"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपती
@@ -60,7 +61,12 @@ vā́jeṣu ← vā́ja- (nominal stem)
 
 vāyataḥ ← √vā- 2 (root)  
 {number:DU, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रति॑ प्राश॒व्याँ॑ इतः स॒म्यञ्चा॑ ब॒र्हिरा॑शाते ।  
+न ता वाजे॑षु वायतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “blow; blow; emit.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

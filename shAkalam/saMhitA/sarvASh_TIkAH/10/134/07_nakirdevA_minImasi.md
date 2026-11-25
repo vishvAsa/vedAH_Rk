@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गोधा"
 ChandaH = "पङ्क्तिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -76,7 +77,12 @@ rabhāmahe ← √rabh- (root)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नकि॑र्देवा मिनीमसि॒ नकि॒रा यो॑पयामसि मन्त्र॒श्रुत्यं॑ चरामसि ।  
+प॒क्षेभि॑रपिक॒क्षेभि॒रत्रा॒भि सं र॑भामहे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -175,7 +181,6 @@ _________
 - “clasp.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

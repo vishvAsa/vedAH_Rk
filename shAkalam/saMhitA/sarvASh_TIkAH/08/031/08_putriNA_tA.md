@@ -4,6 +4,7 @@ devataa = "दंपती"
 RShiH = "मनुर्वैवस्वतः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - दंपती
@@ -57,7 +58,12 @@ híraṇyapeśasā ← híraṇyapeśas- (nominal stem)
 
 ubhā́ ← ubhá- (pronoun)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पु॒त्रिणा॒ ता कु॑मा॒रिणा॒ विश्व॒मायु॒र्व्य॑श्नुतः ।  
+उ॒भा हिर॑ण्यपेशसा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “decoration; shape.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

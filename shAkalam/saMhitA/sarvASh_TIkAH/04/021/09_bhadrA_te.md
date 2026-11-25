@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -107,7 +108,12 @@ u ← u (invariable)
 
 úd-ut ← út (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भ॒द्रा ते॒ हस्ता॒ सुकृ॑तो॒त पा॒णी प्र॑य॒न्तारा॑ स्तुव॒ते राध॑ इन्द्र ।  
+का ते॒ निष॑त्तिः॒ किमु॒ नो म॑मत्सि॒ किं नोदु॑दु हर्षसे॒ दात॒वा उ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -289,7 +295,6 @@ _________
 - “ukāra; besides; now; indeed; u.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

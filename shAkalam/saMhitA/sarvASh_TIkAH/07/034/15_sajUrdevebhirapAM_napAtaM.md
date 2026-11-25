@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -55,7 +56,11 @@ sákhāyam ← sákhi- (nominal stem)
 
 śiváḥ ← śivá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒जूर्दे॒वेभि॑र॒पां नपा॑तं॒ सखा॑यं कृध्वं शि॒वो नो॑ अस्तु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -127,7 +132,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 sasrútaḥ ← sasrút- (nominal stem)  
 {case:NOM, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बळि॒त्था तद्वपु॑षे धायि दर्श॒तं दे॒वस्य॒ भर्गः॒ सह॑सो॒ यतो॒ जनि॑ ।  
+यदी॒मुप॒ ह्वर॑ते॒ साध॑ते म॒तिरृ॒तस्य॒ धेना॑ अनयन्त स॒स्रुतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - \[noun\], accusative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

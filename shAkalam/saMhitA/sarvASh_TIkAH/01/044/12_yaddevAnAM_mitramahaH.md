@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ arcáyaḥ ← arcí- (nominal stem)
 
 bhrājante ← √bhrāj- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्दे॒वानां॑ मित्रमहः पु॒रोहि॒तोऽन्त॑रो॒ यासि॑ दू॒त्य॑म् ।  
+सिन्धो॑रिव॒ प्रस्व॑नितास ऊ॒र्मयो॒ऽग्नेर्भ्रा॑जन्ते अ॒र्चयः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -177,7 +183,6 @@ _________
 - “flare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

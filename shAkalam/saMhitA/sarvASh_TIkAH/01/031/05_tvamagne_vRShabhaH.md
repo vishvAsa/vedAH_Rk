@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "हिरण्यस्तूप आङ्गिरसः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ yáḥ ← yá- (pronoun)
 
 víśaḥ ← víś- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने वृष॒भः पु॑ष्टि॒वर्ध॑न॒ उद्य॑तस्रुचे भवसि श्र॒वाय्यः॑ ।  
+य आहु॑तिं॒ परि॒ वेदा॒ वष॑ट्कृति॒मेका॑यु॒रग्रे॒ विश॑ आ॒विवा॑ससि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - \[verb\], singular, Present indikative
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

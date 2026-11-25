@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ gúhyam ← gúhya- (nominal stem)
 
 nā́ma ← nā́man- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋषि॒र्विप्रः॑ पुरए॒ता जना॑नामृ॒भुर्धीर॑ उ॒शना॒ काव्ये॑न ।  
+स चि॑द्विवेद॒ निहि॑तं॒ यदा॑सामपी॒च्यं१॒॑ गुह्यं॒ नाम॒ गोना॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

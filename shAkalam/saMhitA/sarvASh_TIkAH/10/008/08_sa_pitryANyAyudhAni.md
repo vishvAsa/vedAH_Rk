@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "त्रिशिरास्त्वाष्ट्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tritáḥ ← tritá- (nominal stem)
 
 tvāṣṭrásya ← tvāṣṭrá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स पित्र्या॒ण्यायु॑धानि वि॒द्वानिन्द्रे॑षित आ॒प्त्यो अ॒भ्य॑युध्यत् ।  
+त्रि॒शी॒र्षाणं॑ स॒प्तर॑श्मिं जघ॒न्वान्त्वा॒ष्ट्रस्य॑ चि॒न्निः स॑सृजे त्रि॒तो गाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "काक्षिवती घोषा"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ rājaputrā́ ← rājaputrá- (nominal stem)
 
 sávanā ← sávana- 1 (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒तर्ज॑रेथे जर॒णेव॒ काप॑या॒ वस्तो॑र्वस्तोर्यज॒ता ग॑च्छथो गृ॒हम् ।  
+कस्य॑ ध्व॒स्रा भ॑वथः॒ कस्य॑ वा नरा राजपु॒त्रेव॒ सव॒नाव॑ गच्छथः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
     to be located; run; detect; refer; go; shall; drive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

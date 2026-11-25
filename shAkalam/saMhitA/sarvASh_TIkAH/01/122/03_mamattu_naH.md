@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ varivasyantu ← √varivasy- (root)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒मत्तु॑ नः॒ परि॑ज्मा वस॒र्हा म॒मत्तु॒ वातो॑ अ॒पां वृष॑ण्वान् ।  
+शि॒शी॒तमि॑न्द्रापर्वता यु॒वं न॒स्तन्नो॒ विश्वे॑ वरिवस्यन्तु दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

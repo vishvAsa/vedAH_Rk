@@ -5,13 +5,13 @@ RShiH = "पराशरः शाक्त्यः"
 ChandaH = "द्विपदा विराट्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
 - ऋषिः - पराशरः शाक्त्यः
 - छन्दः - द्विपदा विराट्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -60,7 +60,11 @@ sthātúḥ ← sthātár- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्री॒णन्नुप॑ स्था॒द्दिवं॑ भुर॒ण्युः स्था॒तुश्च॒रथ॑म॒क्तून्व्यू॑र्णोत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +133,6 @@ _________
     envelop.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -184,10 +187,6 @@ Die Schmalzlöffel mischend steigt er eilfertig gen Himmel. Was geht und steht, 
 
 Zum Himmel stieg er, – geschäftig flammend, enthüllt' die Nächte, – was steht und wandert; Da er von diesen, – den Göttern allen, der Gott an Grösse – allein hervorragt.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

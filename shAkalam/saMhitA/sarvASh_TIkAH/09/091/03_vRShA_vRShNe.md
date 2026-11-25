@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ ví ← ví (invariable)
 
 yāti ← √yā- 1 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॒ वृष्णे॒ रोरु॑वदं॒शुर॑स्मै॒ पव॑मानो॒ रुश॑दीर्ते॒ पयो॒ गोः ।  
+स॒हस्र॒मृक्वा॑ प॒थिभि॑र्वचो॒विद॑ध्व॒स्मभिः॒ सूरो॒ अण्वं॒ वि या॑ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

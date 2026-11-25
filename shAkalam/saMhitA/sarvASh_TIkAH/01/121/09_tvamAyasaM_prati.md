@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः इन्द्रो वा"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः इन्द्रो वा
@@ -83,7 +84,12 @@ pariyā́si ← √yā- 1 (root)
 
 vadhaíḥ ← vadhá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वमा॑य॒सं प्रति॑ वर्तयो॒ गोर्दि॒वो अश्मा॑न॒मुप॑नीत॒मृभ्वा॑ ।  
+कुत्सा॑य॒ यत्र॑ पुरुहूत व॒न्वञ्छुष्ण॑मन॒न्तैः प॑रि॒यासि॑ व॒धैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
     dysfunction; punishment; kick.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ párā ← párā (invariable)
 
 vr̥ṇak ← √vr̥j- 1 (root)  
 {number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा न॑ इन्द्र॒ परा॑ वृण॒ग्भवा॑ नः सध॒माद्यः॑ ।  
+त्वं न॑ ऊ॒ती त्वमिन्न॒ आप्यं॒ मा न॑ इन्द्र॒ परा॑ वृणक् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -224,7 +230,6 @@ _________
 - \[verb\], singular, Present injunctive
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

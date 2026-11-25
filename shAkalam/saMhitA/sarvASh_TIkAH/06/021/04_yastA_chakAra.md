@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -107,7 +108,12 @@ katamáḥ ← katamá- (pronoun)
 
 sá ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ता च॒कार॒ स कुह॑ स्वि॒दिन्द्रः॒ कमा जनं॑ चरति॒ कासु॑ वि॒क्षु ।  
+कस्ते॑ य॒ज्ञो मन॑से॒ शं वरा॑य॒ को अ॒र्क इ॑न्द्र कत॒मः स होता॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -287,7 +293,6 @@ _________
 - “Hotṛ.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

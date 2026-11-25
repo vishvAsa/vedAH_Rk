@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वमना वैयश्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -51,7 +52,12 @@ yájasva ← √yaj- (root)
 
 cariṣṇúdhūmam ← cariṣṇúdhūma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ईळि॑ष्वा॒ हि प्र॑ती॒व्यं१॒॑ यज॑स्व जा॒तवे॑दसम् ।  
+च॒रि॒ष्णुधू॑म॒मगृ॑भीतशोचिषम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -125,7 +131,6 @@ _________
 - “fire; flare; burn; radiance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

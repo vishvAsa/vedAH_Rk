@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ jūjuvā́n ← √jū- (root)
 
 tvát ← tvám (pronoun)  
 {case:ABL, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वद्वा॒जी वा॑जम्भ॒रो विहा॑या अभिष्टि॒कृज्जा॑यते स॒त्यशु॑ष्मः ।  
+त्वद्र॒यिर्दे॒वजू॑तो मयो॒भुस्त्वदा॒शुर्जू॑जु॒वाँ अ॑ग्ने॒ अर्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “horse; arvan \[word\]; racehorse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

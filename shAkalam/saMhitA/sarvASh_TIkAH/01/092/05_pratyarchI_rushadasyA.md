@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -92,7 +93,12 @@ diváḥ ← dyú- ~ div- (nominal stem)
 
 duhitā́ ← duhitár- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रत्य॒र्ची रुश॑दस्या अदर्शि॒ वि ति॑ष्ठते॒ बाध॑ते कृ॒ष्णमभ्व॑म् ।  
+स्वरुं॒ न पेशो॑ वि॒दथे॑ष्व॒ञ्जञ्चि॒त्रं दि॒वो दु॑हि॒ता भा॒नुम॑श्रेत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

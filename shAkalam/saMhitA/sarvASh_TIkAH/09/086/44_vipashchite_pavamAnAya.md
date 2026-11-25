@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अत्रिः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ ná ← ná (invariable)
 
 vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒प॒श्चिते॒ पव॑मानाय गायत म॒ही न धारात्यन्धो॑ अर्षति ।  
+अहि॒र्न जू॒र्णामति॑ सर्पति॒ त्वच॒मत्यो॒ न क्रीळ॑न्नसर॒द्वृषा॒ हरिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “reddish brown; yellow; pale; yellow; aureate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -258,14 +263,6 @@ Sing to the self-purifying one who is attentive to poetic inspiration. Like  a g
 like a snake he slinks beyond his withered skin. Playful like a steed, the  tawny bull has run.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner, Renou, Ober (II.54) take ándhaḥ as nom., parallel to dhā́rā in the simile.
-
-But insofar as it is possible to narrow the referent of this word, it is used of the stalk of the soma (see comm. ad IV.1.19). I take it here as acc., construed with áti. This pāda, like the following one, depicts the soma juice leaving behind the solid parts of the plant, and áti ‘beyond’ is used in both pādas to express the material beyond which the soma juice has gone.
-
-The simile in d, átyo ná krīḷan, is also found in 26d.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/43-45.md">
 <details><summary><h2>43-45 ...{Loading}...</h2></summary>
 
@@ -273,7 +270,6 @@ This tṛca seems more artful than most of the other, with metaphor layered upon
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

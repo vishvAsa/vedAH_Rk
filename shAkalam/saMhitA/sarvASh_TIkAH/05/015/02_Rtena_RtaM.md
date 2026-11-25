@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "धरुण आङ्गिरसः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ nanakṣúḥ ← √nakṣ- (root)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तेन॑ ऋ॒तं ध॒रुणं॑ धारयन्त य॒ज्ञस्य॑ शा॒के प॑र॒मे व्यो॑मन् ।  
+दि॒वो धर्म॑न्ध॒रुणे॑ से॒दुषो॒ नॄञ्जा॒तैरजा॑ताँ अ॒भि ये न॑न॒क्षुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - “reach; approach.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

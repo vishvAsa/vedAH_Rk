@@ -4,6 +4,7 @@ devataa = "केशिनः"
 RShiH = "वातजूतिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - केशिनः
@@ -68,7 +69,12 @@ devā́saḥ ← devá- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मुन॑यो॒ वात॑रशनाः पि॒शङ्गा॑ वसते॒ मला॑ ।  
+वात॒स्यानु॒ ध्राजिं॑ यन्ति॒ यद्दे॒वासो॒ अवि॑क्षत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “enter; penetrate; settle; settle.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

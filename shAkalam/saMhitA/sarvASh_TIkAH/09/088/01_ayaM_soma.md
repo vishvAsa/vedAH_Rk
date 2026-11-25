@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "उशनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ sómam ← sóma- (nominal stem)
 
 yújyāya ← yújya- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं सोम॑ इन्द्र॒ तुभ्यं॑ सुन्वे॒ तुभ्यं॑ पवते॒ त्वम॑स्य पाहि ।  
+त्वं ह॒ यं च॑कृ॒षे त्वं व॑वृ॒ष इन्दुं॒ मदा॑य॒ युज्या॑य॒ सोम॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “Soma; moon; soma \[word\]; Candra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -5,13 +5,13 @@ RShiH = "कश्यपः"
 ChandaH = "त्रिष्टुप्"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
 - ऋषिः - कश्यपः
 - छन्दः - त्रिष्टुप्
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -91,7 +91,12 @@ sī́dan ← √sad- (root)
 
 váneṣu ← vána- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परि॒ सद्मे॑व पशु॒मान्ति॒ होता॒ राजा॒ न स॒त्यः समि॑तीरिया॒नः ।  
+सोमः॑ पुना॒नः क॒लशाँ॑ अयासी॒त्सीद॑न्मृ॒गो न म॑हि॒षो वने॑षु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +222,6 @@ _________
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -269,8 +273,6 @@ Wie um den vieh-versehnen Sitz der Priester, wie zur Versammlung geht der gute K
 Сома, очищаясь, отправляется в кувшины,  
 Усаживаясь в деревянных (сосудах), словно дикий зверь-буйвол в лесах.
 </details>
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

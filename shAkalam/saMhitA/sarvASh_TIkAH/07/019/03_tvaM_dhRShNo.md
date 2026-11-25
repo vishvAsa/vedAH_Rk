@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ pūrúm ← pūrú- (nominal stem)
 
 vr̥trahátyeṣu ← vr̥trahátya- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वं धृ॑ष्णो धृष॒ता वी॒तह॑व्यं॒ प्रावो॒ विश्वा॑भिरू॒तिभिः॑ सु॒दास॑म् ।  
+प्र पौरु॑कुत्सिं त्र॒सद॑स्युमावः॒ क्षेत्र॑साता वृत्र॒हत्ये॑षु पू॒रुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “Pūru; Pūru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

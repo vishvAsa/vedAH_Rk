@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अतिशक्वरी"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -116,7 +117,13 @@ sómaḥ ← sóma- (nominal stem)
 
 sutáḥ ← √su- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तां वां॑ धे॒नुं न वा॑स॒रीमं॒शुं दु॑ह॒न्त्यद्रि॑भिः॒ सोमं॑ दुह॒न्त्यद्रि॑भिः ।  
+अ॒स्म॒त्रा ग॑न्त॒मुप॑ नो॒ऽर्वाञ्चा॒ सोम॑पीतये ।  
+अ॒यं वां॑ मित्रावरुणा॒ नृभिः॑ सु॒तः सोम॒ आ पी॒तये॑ सु॒तः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -293,7 +300,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

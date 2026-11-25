@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "पुनर्वत्सः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -51,7 +52,12 @@ nícakrayā ← nícakrā- (nominal stem)
 
 yayúḥ ← √yā- 1 (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒षोमे॑ शर्य॒णाव॑त्यार्जी॒के प॒स्त्या॑वति ।  
+य॒युर्निच॑क्रया॒ नरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -106,7 +112,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

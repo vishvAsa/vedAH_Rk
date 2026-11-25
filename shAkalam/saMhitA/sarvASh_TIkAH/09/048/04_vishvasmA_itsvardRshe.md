@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविर्भार्गवः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 víḥ ← ví- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्व॑स्मा॒ इत्स्व॑र्दृ॒शे साधा॑रणं रज॒स्तुर॑म् ।  
+गो॒पामृ॒तस्य॒ विर्भ॑रत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -161,14 +166,12 @@ the herdsman of truth, crossing through the airy realm.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/048/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
 The phrases suparṇáḥ … bharat (3c) “the falcon brought” and vír bharat (4c) “the bird brought” are directly reminiscent of IV.26, where the 3rd sg. (a)bharat occurs 4x in 4 vss. (4-7), incl. 4cd suparṇáḥ … bhárat and 5a bhárat … víḥ, with the same subjects as here.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

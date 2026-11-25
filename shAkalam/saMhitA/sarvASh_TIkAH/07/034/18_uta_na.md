@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -61,7 +62,11 @@ rāyé ← rayí- ~ rāy- (nominal stem)
 
 yantu ← √i- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त न॑ ए॒षु नृषु॒ श्रवो॑ धुः॒ प्र रा॒ये य॑न्तु॒ शर्ध॑न्तो अ॒र्यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +140,6 @@ _________
 - \[noun\], accusative, plural, feminine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "पुरुहन्मा"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -68,7 +69,12 @@ parādádaḥ ← √dā- 1 (root)
 
 vatsā́n ← vatsá- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूरि॑भिः समह॒ ऋषि॑भिर्ब॒र्हिष्म॑द्भिः स्तविष्यसे ।  
+यदि॒त्थमेक॑मेक॒मिच्छर॑ व॒त्सान्प॑रा॒ददः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -159,7 +165,6 @@ _________
 - \[verb\], singular, Present conjunctive (subjunctive)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

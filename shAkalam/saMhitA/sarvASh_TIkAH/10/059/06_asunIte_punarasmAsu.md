@@ -4,6 +4,7 @@ devataa = "असुनीतिः"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - असुनीतिः
@@ -86,7 +87,12 @@ naḥ ← ahám (pronoun)
 
 svastí ← svastí- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+असु॑नीते॒ पुन॑र॒स्मासु॒ चक्षुः॒ पुनः॑ प्रा॒णमि॒ह नो॑ धेहि॒ भोग॑म् ।  
+ज्योक्प॑श्येम॒ सूर्य॑मु॒च्चर॑न्त॒मनु॑मते मृ॒ळया॑ नः स्व॒स्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
     well; luck.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -230,7 +235,7 @@ _________
 O asunIti (leader of life breath) [give] us our sight again,  
 give us again our breath and our enjoyment,  
 long may we see the Sun rising up,  
-o anumati grant us mercy and wellbeing 
+o anumati grant us mercy and wellbeing
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>

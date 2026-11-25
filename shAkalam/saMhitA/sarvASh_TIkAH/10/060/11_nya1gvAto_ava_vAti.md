@@ -4,6 +4,7 @@ devataa = "सुबन्धोर्जीविताह्वानं"
 RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सुबन्धोर्जीविताह्वानं
@@ -74,7 +75,12 @@ rápaḥ ← rápas- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न्य१॒॑ग्वातोऽव॑ वाति॒ न्य॑क्तपति॒ सूर्यः॑ ।  
+नी॒चीन॑म॒घ्न्या दु॑हे॒ न्य॑ग्भवतु ते॒ रपः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “injury; disease; infirmity; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

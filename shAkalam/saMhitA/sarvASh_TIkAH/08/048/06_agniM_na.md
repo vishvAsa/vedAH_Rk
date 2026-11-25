@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "प्रगाथः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -104,7 +105,12 @@ puṣṭím ← puṣṭí- (nominal stem)
 
 revā́n ← revánt- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं न मा॑ मथि॒तं सं दि॑दीपः॒ प्र च॑क्षय कृणु॒हि वस्य॑सो नः ।  
+अथा॒ हि ते॒ मद॒ आ सो॑म॒ मन्ये॑ रे॒वाँ इ॑व॒ प्र च॑रा पु॒ष्टिमच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -273,7 +279,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

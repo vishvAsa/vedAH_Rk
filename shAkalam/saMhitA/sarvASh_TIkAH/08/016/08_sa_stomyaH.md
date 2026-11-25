@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ cit ← cit (invariable)
 
 sán ← √as- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स स्तोम्यः॒ स हव्यः॑ स॒त्यः सत्वा॑ तुविकू॒र्मिः ।  
+एक॑श्चि॒त्सन्न॒भिभू॑तिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -144,7 +150,6 @@ _________
 - “superior; overpowering.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

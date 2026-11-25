@@ -4,6 +4,7 @@ devataa = "मृत्युः"
 RShiH = "सङ्कुसुको यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मृत्युः
@@ -89,7 +90,12 @@ drā́ghīyaḥ ← drā́ghīyaṁs- (nominal stem)
 
 pratarám ← pratarám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे जी॒वा वि मृ॒तैराव॑वृत्र॒न्नभू॑द्भ॒द्रा दे॒वहू॑तिर्नो अ॒द्य ।  
+प्राञ्चो॑ अगाम नृ॒तये॒ हसा॑य॒ द्राघी॑य॒ आयुः॑ प्रत॒रं दधा॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

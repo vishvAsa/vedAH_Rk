@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ ná ← ná (invariable)
 
 vāsé ← vāsá- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा॒तुष्प॒दे प॑र॒मे शु॒क्र आ॒योर्वि॑प॒न्यवो॑ रास्पि॒रासो॑ अग्मन् ।  
+सु॒शेव्यं॒ नम॑सा रा॒तह॑व्याः॒ शिशुं॑ मृजन्त्या॒यवो॒ न वा॒से ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
 - “stay; dwelling; vāsa; residency; vāsa \[word\]; camp; bedroom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

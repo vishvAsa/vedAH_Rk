@@ -4,6 +4,7 @@ devataa = "श्येनः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - श्येनः
@@ -89,7 +90,12 @@ havyám ← havyá- (nominal stem)
 
 mánave ← mánu- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र सु ष विभ्यो॑ मरुतो॒ विर॑स्तु॒ प्र श्ये॒नः श्ये॒नेभ्य॑ आशु॒पत्वा॑ ।  
+अ॒च॒क्रया॒ यत्स्व॒धया॑ सुप॒र्णो ह॒व्यं भर॒न्मन॑वे दे॒वजु॑ष्टम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -240,7 +246,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -272,10 +277,6 @@ Let that bird stand out from (all other) birds, o Maruts, the swift-flying  falc
 because the fine-feathered one, with his independent power that needed  no (chariot-)wheel, brought to Manu the oblation that is pleasing to  the gods.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first hemistich sounds like a formal eulogistic opening, though I don’t know of any parallels elsewhere (quite possibly for want of looking).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026/04-07.md">
 <details><summary><h2>04-07 ...{Loading}...</h2></summary>
 
@@ -283,7 +284,6 @@ The 3rd sg. act. impf./injunc. of √bhṛ is the “hero” of this, the mythol
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

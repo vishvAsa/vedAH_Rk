@@ -5,13 +5,13 @@ RShiH = "इन्द्राणी"
 ChandaH = "पङ्क्तिः"
 
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
 - ऋषिः - इन्द्राणी
 - छन्दः - पङ्क्तिः
 </details>
-
 
 <details><summary>Thomson & Solcum</summary>
 
@@ -90,7 +90,12 @@ vijŕ̥mbhate ← √jr̥mbh- (root)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न सेशे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॑त् ।  
+सेदी॑शे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +222,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -254,10 +258,6 @@ Der kann nichts, dessen Rute zwischen den Schenkeln hängt; nur der kann´s, dem
 
 Nicht der ist stark, dessen Glied schlaff zwischen den Schenkeln herabhängt; sondern der ist stark, dessen behaartes Glied, wenn er sich niedergelassen hat, sich ausdehnt. Höher als alles ist Indra.
 </details>
-
-
-
-
 
 <details><summary>अधिमन्त्रम् (VC)</summary>
 

@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "यजत आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -71,7 +72,12 @@ kṣatrám ← kṣatrá- (nominal stem)
 
 várṣiṣṭham ← várṣiṣṭha- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बळि॒त्था दे॑व निष्कृ॒तमादि॑त्या यज॒तं बृ॒हत् ।  
+वरु॑ण॒ मित्रार्य॑म॒न्वर्षि॑ष्ठं क्ष॒त्रमा॑शाथे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

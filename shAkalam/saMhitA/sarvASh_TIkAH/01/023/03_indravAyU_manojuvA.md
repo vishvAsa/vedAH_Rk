@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -54,7 +55,12 @@ pátī ← páti- (nominal stem)
 
 sahasrākṣā́ ← sahasrākṣá- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒न्द्र॒वा॒यू म॑नो॒जुवा॒ विप्रा॑ हवन्त ऊ॒तये॑ ।  
+स॒ह॒स्रा॒क्षा धि॒यस्पती॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
     commanding officer; leader; owner; mayor; lord.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

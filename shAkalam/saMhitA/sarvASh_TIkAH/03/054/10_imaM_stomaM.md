@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ kaváyaḥ ← kaví- (nominal stem)
 
 paprathānā́ḥ ← √prathⁱ- (root)  
 {case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं स्तोमं॑ रोदसी॒ प्र ब्र॑वीम्यृदू॒दराः॑ शृणवन्नग्निजि॒ह्वाः ।  
+मि॒त्रः स॒म्राजो॒ वरु॑णो॒ युवा॑न आदि॒त्यासः॑ क॒वयः॑ पप्रथा॒नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “be known; expand; expand; boom.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "इरिंबिठिः काण्वः"
 ChandaH = "उष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -64,7 +65,12 @@ pātu ← √pā- 1 (root)
 
 sadā́vr̥dhā ← sadā́vr̥dha- (nominal stem)  
 {case:NOM, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अदि॑तिर्नो॒ दिवा॑ प॒शुमदि॑ति॒र्नक्त॒मद्व॑याः ।  
+अदि॑तिः पा॒त्वंह॑सः स॒दावृ॑धा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -146,7 +152,6 @@ _________
 - “increasing; promotive.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

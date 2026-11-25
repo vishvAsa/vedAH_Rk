@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ nŕ̥tamaḥ ← nŕ̥tama- (nominal stem)
 
 yahváḥ ← yahvá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒क्रो न ब॒भ्रिः स॑मि॒थे म॒हीनां॑ दिदृ॒क्षेयः॑ सू॒नवे॒ भाऋ॑जीकः ।  
+उदु॒स्रिया॒ जनि॑ता॒ यो ज॒जाना॒पां गर्भो॒ नृत॑मो य॒ह्वो अ॒ग्निः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     jāraṇa; pyre; fireplace; heating.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

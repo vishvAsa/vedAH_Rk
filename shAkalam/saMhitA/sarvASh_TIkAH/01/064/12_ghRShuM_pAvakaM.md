@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "नोधा गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -80,7 +81,12 @@ saścata ← √sac- 1 (root)
 
 vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घृषुं॑ पाव॒कं व॒निनं॒ विच॑र्षणिं रु॒द्रस्य॑ सू॒नुं ह॒वसा॑ गृणीमसि ।  
+र॒ज॒स्तुरं॑ त॒वसं॒ मारु॑तं ग॒णमृ॑जी॒षिणं॒ वृष॑णं सश्चत श्रि॒ये ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
     \[word\]; śrī; prosperity; auspiciousness.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

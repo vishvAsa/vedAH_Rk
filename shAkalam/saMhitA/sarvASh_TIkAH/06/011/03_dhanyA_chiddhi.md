@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ mádhu ← mádhu- (nominal stem)
 
 rebháḥ ← rebhá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धन्या॑ चि॒द्धि त्वे धि॒षणा॒ वष्टि॒ प्र दे॒वाञ्जन्म॑ गृण॒ते यज॑ध्यै ।  
+वेपि॑ष्ठो॒ अङ्गि॑रसां॒ यद्ध॒ विप्रो॒ मधु॑ च्छ॒न्दो भन॑ति रे॒भ इ॒ष्टौ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “seeking.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

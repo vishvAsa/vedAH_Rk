@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ sá ← sá- ~ tá- (pronoun)
 
 yodháya ← √yudh- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒हाँ अ॑सि महिष॒ वृष्ण्ये॑भिर्धन॒स्पृदु॑ग्र॒ सह॑मानो अ॒न्यान् ।  
+एको॒ विश्व॑स्य॒ भुव॑नस्य॒ राजा॒ स यो॒धया॑ च क्ष॒यया॑ च॒ जना॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

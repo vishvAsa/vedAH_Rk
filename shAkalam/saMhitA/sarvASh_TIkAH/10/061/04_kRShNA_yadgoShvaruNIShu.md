@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ ná ← ná (invariable)
 
 vavanvā́ṁsā ← √vanⁱ- (root)  
 {case:NOM, gender:M, number:DU, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+कृ॒ष्णा यद्गोष्व॑रु॒णीषु॒ सीद॑द्दि॒वो नपा॑ताश्विना हुवे वाम् ।  
+वी॒तं मे॑ य॒ज्ञमा ग॑तं मे॒ अन्नं॑ वव॒न्वांसा॒ नेष॒मस्मृ॑तध्रू ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - \[noun\], nominative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

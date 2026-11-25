@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ gharmáḥ ← gharmá- (nominal stem)
 
 r̥táyan ← √r̥tay- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ञ्जन्ति॒ यं प्र॒थय॑न्तो॒ न विप्रा॑ व॒पाव॑न्तं॒ नाग्निना॒ तप॑न्तः ।  
+पि॒तुर्न पु॒त्र उ॒पसि॒ प्रेष्ठ॒ आ घ॒र्मो अ॒ग्निमृ॒तय॑न्नसादि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
     stop; besiege; tire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

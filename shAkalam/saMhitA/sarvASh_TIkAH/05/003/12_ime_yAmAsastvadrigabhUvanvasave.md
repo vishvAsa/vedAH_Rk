@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ rī́ṣate ← √riṣ- (root)
 
 vāvr̥dhānáḥ ← √vr̥dh- (root)  
 {case:NOM, gender:M, number:SG, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मे यामा॑सस्त्व॒द्रिग॑भूव॒न्वस॑वे वा॒ तदिदागो॑ अवाचि ।  
+नाहा॒यम॒ग्निर॒भिश॑स्तये नो॒ न रीष॑ते वावृधा॒नः परा॑ दात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
     splint; poultice; create.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

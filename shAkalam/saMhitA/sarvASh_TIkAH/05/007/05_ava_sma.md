@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "इष आत्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -77,7 +78,12 @@ pr̥ṣṭhā́ ← pr̥ṣṭhá- (nominal stem)
 
 ruruhuḥ ← √ruh- (root)  
 {number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ स्म॒ यस्य॒ वेष॑णे॒ स्वेदं॑ प॒थिषु॒ जुह्व॑ति ।  
+अ॒भीमह॒ स्वजे॑न्यं॒ भूमा॑ पृ॒ष्ठेव॑ रुरुहुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -182,7 +188,6 @@ _________
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

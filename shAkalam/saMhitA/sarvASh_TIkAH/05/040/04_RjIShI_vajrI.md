@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ matsat ← √mad- (root)
 
 sávane ← sávana- 1 (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒जी॒षी व॒ज्री वृ॑ष॒भस्तु॑रा॒षाट् छु॒ष्मी राजा॑ वृत्र॒हा सो॑म॒पावा॑ ।  
+यु॒क्त्वा हरि॑भ्या॒मुप॑ यासद॒र्वाङ्माध्यं॑दिने॒ सव॑ने मत्स॒दिन्द्रः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     Indra; sapphire; fourteen; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

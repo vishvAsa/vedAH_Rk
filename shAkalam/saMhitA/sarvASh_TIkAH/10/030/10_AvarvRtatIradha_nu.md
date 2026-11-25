@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -80,7 +81,12 @@ sáyonīḥ ← sáyoni- (nominal stem)
 
 vandasva ← √vandⁱ- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒वर्वृ॑तती॒रध॒ नु द्वि॒धारा॑ गोषु॒युधो॒ न नि॑य॒वं चर॑न्तीः ।  
+ऋषे॒ जनि॑त्री॒र्भुव॑नस्य॒ पत्नी॑र॒पो व॑न्दस्व स॒वृधः॒ सयो॑नीः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “related.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

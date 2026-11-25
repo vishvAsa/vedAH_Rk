@@ -4,6 +4,7 @@ devataa = "मायाभेदः"
 RShiH = "पतङ्गः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मायाभेदः
@@ -86,7 +87,12 @@ pānti ← √pā- 1 (root)
 
 r̥tásya ← r̥tá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒तं॒गो वाचं॒ मन॑सा बिभर्ति॒ तां ग॑न्ध॒र्वो॑ऽवद॒द्गर्भे॑ अ॒न्तः ।  
+तां द्योत॑मानां स्व॒र्यं॑ मनी॒षामृ॒तस्य॑ प॒दे क॒वयो॒ नि पा॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “protect; govern.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

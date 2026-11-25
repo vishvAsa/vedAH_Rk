@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -83,7 +84,12 @@ kāróḥ ← kārú- (nominal stem)
 
 úpastutim ← úpastuti- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द॒दा॒नमिन्न द॑दभन्त॒ मन्मा॒ग्निर्वरू॑थं॒ मम॒ तस्य॑ चाकन् ।  
+जु॒षन्त॒ विश्वा॑न्यस्य॒ कर्मोप॑स्तुतिं॒ भर॑माणस्य का॒रोः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “poet; singer.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ antarikṣaprúdbhiḥ ← antarikṣaprút- (nominal stem)
 
 ápodakābhiḥ ← ápodaka- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुग्रो॑ ह भु॒ज्युम॑श्विनोदमे॒घे र॒यिं न कश्चि॑न्ममृ॒वाँ अवा॑हाः ।  
+तमू॑हथुर्नौ॒भिरा॑त्म॒न्वती॑भिरन्तरिक्ष॒प्रुद्भि॒रपो॑दकाभिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -205,7 +211,6 @@ _________
 - “arid; terrestrial.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

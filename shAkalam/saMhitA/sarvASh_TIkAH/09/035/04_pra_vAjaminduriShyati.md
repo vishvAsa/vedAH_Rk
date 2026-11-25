@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रभूवसुः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ vidānáḥ ← √vid- 2 (root)
 
 vratā́ ← vratá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र वाज॒मिन्दु॑रिष्यति॒ सिषा॑सन्वाज॒सा ऋषिः॑ ।  
+व्र॒ता वि॑दा॒न आयु॑धा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -140,7 +146,6 @@ _________
 - “weapon; āyudha \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

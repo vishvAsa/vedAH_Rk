@@ -4,6 +4,7 @@ devataa = "इन्द्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रावरुणौ
@@ -86,7 +87,12 @@ dhíyaḥ ← dhī́- (nominal stem)
 
 pínvatam ← √pinv- (root)  
 {number:DU, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अन्व॒पां खान्य॑तृन्त॒मोज॒सा सूर्य॑मैरयतं दि॒वि प्र॒भुम् ।  
+इन्द्रा॑वरुणा॒ मदे॑ अस्य मा॒यिनोऽपि॑न्वतम॒पितः॒ पिन्व॑तं॒ धियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -202,7 +208,6 @@ _________
     knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

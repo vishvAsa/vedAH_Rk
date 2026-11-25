@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -83,7 +84,12 @@ cakāra ← √kr̥- (root)
 
 pū́rvaḥ ← pū́rva- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न्य॑क्र॒तून्ग्र॒थिनो॑ मृ॒ध्रवा॑चः प॒णीँर॑श्र॒द्धाँ अ॑वृ॒धाँ अ॑य॒ज्ञान् ।  
+प्रप्र॒ तान्दस्यूँ॑र॒ग्निर्वि॑वाय॒ पूर्व॑श्चका॒राप॑राँ॒ अय॑ज्यून् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -231,7 +237,6 @@ _________
 - “worshiping.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

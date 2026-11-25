@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "अर्चनाना आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ rátham ← rátha- (nominal stem)
 
 sū́ryam ← sū́rya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धर्म॑णा मित्रावरुणा विपश्चिता व्र॒ता र॑क्षेथे॒ असु॑रस्य मा॒यया॑ ।  
+ऋ॒तेन॒ विश्वं॒ भुव॑नं॒ वि रा॑जथः॒ सूर्य॒मा ध॑त्थो दि॒वि चित्र्यं॒ रथ॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

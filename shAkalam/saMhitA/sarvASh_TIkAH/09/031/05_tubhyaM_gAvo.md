@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ sā́navi ← sā́nu- ~ snú- (nominal stem)
 
 várṣiṣṭhe ← várṣiṣṭha- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तुभ्यं॒ गावो॑ घृ॒तं पयो॒ बभ्रो॑ दुदु॒ह्रे अक्षि॑तम् ।  
+वर्षि॑ष्ठे॒ अधि॒ सान॑वि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “tableland; ridge; peak; back; ridge; guru.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

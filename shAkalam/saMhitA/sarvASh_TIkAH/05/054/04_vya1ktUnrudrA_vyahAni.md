@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -104,7 +105,12 @@ riṣyatha ← √riṣ- (root)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+व्य१॒॑क्तून्रु॑द्रा॒ व्यहा॑नि शिक्वसो॒ व्य१॒॑न्तरि॑क्षं॒ वि रजां॑सि धूतयः ।  
+वि यदज्राँ॒ अज॑थ॒ नाव॑ ईं यथा॒ वि दु॒र्गाणि॑ मरुतो॒ नाह॑ रिष्यथ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -257,7 +263,6 @@ _________
 - “suffer; harm.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

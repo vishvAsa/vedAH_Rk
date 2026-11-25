@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सिकता निवावरी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ pratnám ← pratná- (nominal stem)
 
 vivāsati ← √vanⁱ- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्रा॒पिं वसा॑नो यज॒तो दि॑वि॒स्पृश॑मन्तरिक्ष॒प्रा भुव॑ने॒ष्वर्पि॑तः ।  
+स्व॑र्जज्ञा॒नो नभ॑सा॒भ्य॑क्रमीत्प्र॒त्नम॑स्य पि॒तर॒मा वि॑वासति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “invite; endeavor; try for.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -236,14 +241,6 @@ Clothing himself in a mantle that touches heaven, the one worthy of the  sacrifi
 While being born, he has stridden along the cloud toward the sun; he  wishes to entice his age-old father here.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-I would now tr. the pf. part. jajñānáḥ with past value, “once having been born.” The standard tr. (and incl. Ober II.76; Lowe, Part. 158) take svár as nom. with the pf. part.: “having been born as the sun.” This is of course quite possible. But I would expect a goal with abhí √kram and therefore take svàr as acc. in that function (see also Scarlatta 330).
-
-I take nábhasā as instr. of extent of space, rather than accompaniment (Geldner, Lowe) or, even less likely, agent (Renou “s’est élancé par la nuée,” despite the absence of any verbal form that could be interpr. as passive).
-
-The identify of the “age-old father” isn’t clear, and various candidates have been suggested: Sāyaṇa.: Indra; Geldner (n. 14d): Parjanya or Heaven; Renou: Heaven. I’m generally inclined towards Heaven, though of course bringing Heaven here is not physcially possible.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
@@ -251,7 +248,6 @@ This tṛca is characterized by increasingly larger claims for Soma’s cosmic r
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कश्यपः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -60,7 +61,12 @@ sahasríṇam ← sahasrín- (nominal stem)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ न॑ इन्दो शत॒ग्विनं॑ र॒यिं गोम॑न्तम॒श्विन॑म् ।  
+भरा॑ सोम सह॒स्रिण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -131,7 +137,6 @@ _________
 - “thousandfold.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -159,7 +164,6 @@ a hundredfold, a thousandfold, o soma.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -167,7 +171,6 @@ The Kaśyapa tṛca: it lacks cohesion across all 3 vss., though 4 and 5 share �
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

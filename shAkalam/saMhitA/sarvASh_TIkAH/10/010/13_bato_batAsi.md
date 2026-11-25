@@ -4,6 +4,7 @@ devataa = "यमो वैवस्वतः"
 RShiH = "यमी वैवस्वती"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमो वैवस्वतः
@@ -98,7 +99,12 @@ svajāte ← √svaj- (root)
 
 vr̥kṣám ← vr̥kṣá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब॒तो ब॑तासि यम॒ नैव ते॒ मनो॒ हृद॑यं चाविदाम ।  
+अ॒न्या किल॒ त्वां क॒क्ष्ये॑व यु॒क्तं परि॑ ष्वजाते॒ लिबु॑जेव वृ॒क्षम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “tree; fruit tree.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

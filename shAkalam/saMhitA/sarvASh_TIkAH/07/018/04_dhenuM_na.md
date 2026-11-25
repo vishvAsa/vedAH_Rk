@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ naḥ ← ahám (pronoun)
 
 sumatím ← sumatí- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धे॒नुं न त्वा॑ सू॒यव॑से॒ दुदु॑क्ष॒न्नुप॒ ब्रह्मा॑णि ससृजे॒ वसि॑ष्ठः ।  
+त्वामिन्मे॒ गोप॑तिं॒ विश्व॑ आ॒हा न॒ इन्द्रः॑ सुम॒तिं ग॒न्त्वच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -244,7 +250,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

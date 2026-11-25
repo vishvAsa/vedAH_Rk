@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "ऋजिश्वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ barhíṣi ← barhís- (nominal stem)
 
 mādayadhvam ← √mad- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑ देवाः शृणु॒तेमं हवं॑ मे॒ ये अ॒न्तरि॑क्षे॒ य उप॒ द्यवि॒ ष्ठ ।  
+ये अ॑ग्निजि॒ह्वा उ॒त वा॒ यज॑त्रा आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -242,7 +248,6 @@ _________
 - “delight; enjoy; intoxicate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -261,7 +266,6 @@ _________
 
 इति श्रीभट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये द्वितीये काण्डे चतुर्थे प्रश्ने चतुर्दशोनुवाकस्समाप्तः ॥
 समाप्तश्च प्रपाठकः ॥
-
 </details>
 
 <details><summary>Wilson</summary>
@@ -280,17 +284,12 @@ sacrifice. Having sat on this ritual grass here, bring yourselves to
 exhilaration.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The disjunctive pairing yé agnijihvā́utá vā yájatrāḥ is puzzling if we take the utá vā seriously. Klein’s tr. (DGRV II.168-69) can stand for the standard tr.: “which ones have Agni as their tongue or are worthy of worship.” Klein considers this an example of “opposed but nonantonymous terms” giving a “subcategorization of heavenly ones.” But when so rendered there seems to be no distinction between the two groups: the general run of gods who are worthy of the sacrifice also receive those oblations through Agni -- there’s no reason for a vā. I am therefore inclined to pay attention to the -tra instrument suffix on yájatrāḥ: ‘the instruments or means of sacrifice’. Such an interpr. divides the set into those who require Agni as intermediary and those who directly effect the sacrifice. Exactly who the latter might be, I’m not certain -- perhaps only Soma. If I am correct, yájatra- is used differently from yajñíya- in the next vs. But see vs. 17 where yájatra- does not seem to have the instrument sense.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
 I consider these three vss. as a tṛca. They are thematically unified, by their focus on the gods in general and (esp. vss. 13 and 15) by their classification of the gods into groups based on their location and type. On the supposed Jagatī meter of vs. 14, which would not match its tṛca partners, see ad loc. 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

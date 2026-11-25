@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "शशकर्णः काण्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -71,7 +72,12 @@ gharmám ← gharmá- (nominal stem)
 
 siñcāt ← √sic- (root)  
 {number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नू॒नम॒श्विनो॒रृषिः॒ स्तोमं॑ चिकेत वा॒मया॑ ।  
+आ सोमं॒ मधु॑मत्तमं घ॒र्मं सि॑ञ्चा॒दथ॑र्वणि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -160,7 +166,6 @@ _________
 - “Atharva-Veda.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ r̥tā́vā ← ŕ̥tāvan- (nominal stem)
 
 svaíḥ ← svá- (pronoun)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रू॒पंरू॑पं म॒घवा॑ बोभवीति मा॒याः कृ॑ण्वा॒नस्त॒न्वं१॒॑ परि॒ स्वाम् ।  
+त्रिर्यद्दि॒वः परि॑ मुहू॒र्तमागा॒त्स्वैर्मन्त्रै॒रनृ॑तुपा ऋ॒तावा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “law-abiding; faithful; righteous.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

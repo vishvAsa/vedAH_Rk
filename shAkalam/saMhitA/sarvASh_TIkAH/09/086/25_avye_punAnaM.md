@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पृश्नयोजाः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ r̥tásya ← r̥tá- (nominal stem)
 
 yónā ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव्ये॑ पुना॒नं परि॒ वार॑ ऊ॒र्मिणा॒ हरिं॑ नवन्ते अ॒भि स॒प्त धे॒नवः॑ ।  
+अ॒पामु॒पस्थे॒ अध्या॒यवः॑ क॒विमृ॒तस्य॒ योना॑ महि॒षा अ॑हेषत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “impel; send; spur; stimulate; urge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -247,7 +252,6 @@ Into the lap of the waters, into the womb of truth have the Āyus, the  buffaloe
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/25-27.md">
 <details><summary><h2>25-27 ...{Loading}...</h2></summary>
 
@@ -257,7 +261,6 @@ Cows (that is, the milk-mixture) are esp. prominent in this tṛca: there are se
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

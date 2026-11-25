@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ sámanasā ← sámanas- (nominal stem)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑र्य॒मा भ॑वसि॒ यत्क॒नीनां॒ नाम॑ स्वधाव॒न्गुह्यं॑ बिभर्षि ।  
+अ॒ञ्जन्ति॑ मि॒त्रं सुधि॑तं॒ न गोभि॒र्यद्दम्प॑ती॒ सम॑नसा कृ॒णोषि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     utter; compose.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

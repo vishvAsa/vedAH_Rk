@@ -4,6 +4,7 @@ devataa = "सविता"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सविता
@@ -98,7 +99,12 @@ sūrī́n ← sūrí- (nominal stem)
 
 víśvebhiḥ ← víśva- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपि॑ ष्टु॒तः स॑वि॒ता दे॒वो अ॑स्तु॒ यमा चि॒द्विश्वे॒ वस॑वो गृ॒णन्ति॑ ।  
+स नः॒ स्तोमा॑न्नम॒स्य१॒॑श्चनो॑ धा॒द्विश्वे॑भिः पातु पा॒युभि॒र्नि सू॒रीन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -248,7 +254,6 @@ _________
 - “patron.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

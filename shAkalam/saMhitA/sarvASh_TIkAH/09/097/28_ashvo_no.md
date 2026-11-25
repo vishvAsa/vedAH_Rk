@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "वसुक्रो वासिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ pavasva ← √pū- (root)
 
 saumanasám ← saumanasá- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अश्वो॒ नो क्र॑दो॒ वृष॑भिर्युजा॒नः सिं॒हो न भी॒मो मन॑सो॒ जवी॑यान् ।  
+अ॒र्वा॒चीनैः॑ प॒थिभि॒र्ये रजि॑ष्ठा॒ आ प॑वस्व सौमन॒सं न॑ इन्दो ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -252,12 +257,6 @@ Like a horse you whinny on being yoked by the bulls, fearsome like a  lion, swif
 bring benevolence here to us by purifying yourself, o drop.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The opening of the vs., áśvo ná kradaḥ, is very close to 18c átyo ná kradaḥ. The first hemistich contains three animals, incl. the fairly rare lion. Geldner, fld.
-
-by Renou, identifies the bulls as the priests.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -267,7 +266,6 @@ The tṛca is marked by the repetition of ā́pavasva in the 2nd hemistich of ea
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

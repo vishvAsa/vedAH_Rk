@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -95,7 +96,12 @@ tuturyā́t ← √tūr(v)- ~ tur- (root)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अरं॑ मे गन्तं॒ हव॑नाया॒स्मै गृ॑णा॒ना यथा॒ पिबा॑थो॒ अन्धः॑ ।  
+परि॑ ह॒ त्यद्व॒र्तिर्या॑थो रि॒षो न यत्परो॒ नान्त॑रस्तुतु॒र्यात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - \[verb\], singular, Perfect conjunctive (subj.)
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

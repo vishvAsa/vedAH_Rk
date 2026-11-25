@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "मातरिश्वा काण्वः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -77,7 +78,12 @@ pr̥thivī́ ← pr̥thivī́- (nominal stem)
 
 śr̥ṇótu ← √śru- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पू॒षा विष्णु॒र्हव॑नं मे॒ सर॑स्व॒त्यव॑न्तु स॒प्त सिन्ध॑वः ।  
+आपो॒ वातः॒ पर्व॑तासो॒ वन॒स्पतिः॑ शृ॒णोतु॑ पृथि॒वी हव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “invocation.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

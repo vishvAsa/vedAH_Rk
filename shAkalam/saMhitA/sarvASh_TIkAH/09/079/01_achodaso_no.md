@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ naśanta ← √naś- 1 (root)
 
 sániṣanta ← √sanⁱ- (root)  
 {number:PL, person:3, mood:SBJV, tense:AOR, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒चो॒दसो॑ नो धन्व॒न्त्विन्द॑वः॒ प्र सु॑वा॒नासो॑ बृ॒हद्दि॑वेषु॒ हर॑यः ।  
+वि च॒ नश॑न्न इ॒षो अरा॑तयो॒ऽर्यो न॑शन्त॒ सनि॑षन्त नो॒ धियः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
     knowledge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

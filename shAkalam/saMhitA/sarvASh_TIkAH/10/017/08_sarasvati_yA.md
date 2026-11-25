@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "देवश्रवा यामायनः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -83,7 +84,12 @@ dhehi ← √dhā- 1 (root)
 
 íṣaḥ ← íṣ- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सर॑स्वति॒ या स॒रथं॑ य॒याथ॑ स्व॒धाभि॑र्देवि पि॒तृभि॒र्मद॑न्ती ।  
+आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयस्वानमी॒वा इष॒ आ धे॑ह्य॒स्मे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “I; mine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

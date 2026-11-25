@@ -4,6 +4,7 @@ devataa = "उलूखलं"
 RShiH = "शुनःशेप आजीगर्तिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उलूखलं
@@ -71,7 +72,12 @@ iva ← iva (invariable)
 
 jáyatām ← √ji- 1 (root)  
 {case:GEN, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यच्चि॒द्धि त्वं गृ॒हेगृ॑ह॒ उलू॑खलक यु॒ज्यसे॑ ।  
+इ॒ह द्यु॒मत्त॑मं वद॒ जय॑तामिव दुन्दु॒भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “dundubhi; war drum; Dundubhi; Vishnu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

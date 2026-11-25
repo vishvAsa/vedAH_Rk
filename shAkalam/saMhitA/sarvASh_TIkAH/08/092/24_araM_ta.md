@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -60,7 +61,12 @@ dhā́mabhyaḥ ← dhā́man- (nominal stem)
 
 índavaḥ ← índu- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अरं॑ त इन्द्र कु॒क्षये॒ सोमो॑ भवतु वृत्रहन् ।  
+अरं॒ धाम॑भ्य॒ इन्द॑वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -135,7 +141,6 @@ _________
     juice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,7 +173,6 @@ fit for your “fundament” the drops.
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/24-25.md">
 <details><summary><h2>24-25 ...{Loading}...</h2></summary>
 
@@ -185,7 +189,6 @@ The final áram in 27c returns us to the situation found in 24, where the provid
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

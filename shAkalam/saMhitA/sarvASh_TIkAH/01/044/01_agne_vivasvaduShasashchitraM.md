@@ -4,6 +4,7 @@ devataa = "अग्निरश्विनावुषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निरश्विनावुषाः
@@ -74,7 +75,12 @@ devā́n ← devá- (nominal stem)
 
 uṣarbúdhaḥ ← uṣarbúdh- (nominal stem)  
 {case:ACC, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ विव॑स्वदु॒षस॑श्चि॒त्रं राधो॑ अमर्त्य ।  
+आ दा॒शुषे॑ जातवेदो वहा॒ त्वम॒द्या दे॒वाँ उ॑ष॒र्बुधः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -173,7 +179,6 @@ _________
 - “early rising.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

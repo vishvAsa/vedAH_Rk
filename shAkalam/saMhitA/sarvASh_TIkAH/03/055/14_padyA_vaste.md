@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ devā́nām ← devá- (nominal stem)
 
 mahát ← mahā́nt- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पद्या॑ वस्ते पुरु॒रूपा॒ वपूं॑ष्यू॒र्ध्वा त॑स्थौ॒ त्र्यविं॒ रेरि॑हाणा ।  
+ऋ॒तस्य॒ सद्म॒ वि च॑रामि वि॒द्वान्म॒हद्दे॒वाना॑मसुर॒त्वमेक॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     consistent; any(a); undifferentiated; disjunct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -254,10 +259,6 @@ lambing-seasons old.
 I roam through the seat of truth as a knowing one. – Great is the one  and only lordship of the gods.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner (/Witzel Gotō) takes pádyā as merely a locational ‘unten’, contrasting with ūrdhvā́at the beginning of the next pāda. It seems unlikely that a formation with so much lexical content would be used in so colorless a manner, esp. given the deployment of padá-forms elsewhere in the hymn (padé iva níhite beginning the next vs. [15a], padé góḥ 1b, padajṇā́ḥ 2b). The “feet” of Dawn are presumably, in naturalistic terms, the light of dawn nearest to the horizon; shining through morning mists it will take on various shapes and colors. (Lüders [617 n. 3] suggests that the various shapes and forms are vegetation on the earth, which is also worth considering.) But in mytho-ritual terms, if Dawn is the cow nurturing the young fire in 13b (as well as pāda b in this vs.), the “wondrous forms” (vápūṃṣi) she clothes herself in and the “many shapes” she possesses (pururū́pā) are the forms and colors of the fire over which she stands. That the scene is set on the ritual ground is suggested by pāda c, where “I” roam across “the seat of truth” (ṛtásya sádma), which I take as a reference to seat of the ritual. Geldner (/Witzel Gotō), however, interpret the pāda as simply meaning “I wander ‘im Geiste’” -- I think because of the vidvā́n ‘knowing’, though that word usually refers to knowledge of the ritual or to cosmic knowledge related to the religio-ritual system. With Geldner (/Witzel Gotō) I take pururū́pā as fem. nom. sg.; however, it can equally be neut. acc. pl. (with Grassmann and Renou) modifying vápūṃṣi. The choice actually has almost no effect on the sense of the pāda.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/14-15.md">
 <details><summary><h2>14-15 ...{Loading}...</h2></summary>
 
@@ -265,7 +266,6 @@ The published translation is somewhat misleading, in that vápūṃṣi in 14a i
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

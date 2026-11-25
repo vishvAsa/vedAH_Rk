@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ mártam ← márta- (nominal stem)
 
 vadhasnaíḥ ← vadhasná- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒दा चि॒न्नु म॑हान्तो॒ ये व॒ एवा॒ ब्रवा॑म दस्मा॒ वार्यं॒ दधा॑नाः ।  
+वय॑श्च॒न सु॒भ्व१॒॑ आव॑ यन्ति क्षु॒भा मर्त॒मनु॑यतं वध॒स्नैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “weapon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

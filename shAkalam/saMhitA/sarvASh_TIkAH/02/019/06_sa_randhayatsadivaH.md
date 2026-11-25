@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ púraḥ ← púr- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स र॑न्धयत्स॒दिवः॒ सार॑थये॒ शुष्ण॑म॒शुषं॒ कुय॑वं॒ कुत्सा॑य ।  
+दिवो॑दासाय नव॒तिं च॒ नवेन्द्रः॒ पुरो॒ व्यै॑र॒च्छम्ब॑रस्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -196,7 +202,6 @@ _________
 - “Śambara; Śambara.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

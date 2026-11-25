@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ pāhi ← √pā- 1 (root)
 
 ubhé ← ubhá- (pronoun)  
 {case:ACC, gender:F, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पि॒तुश्च॒ गर्भं॑ जनि॒तुश्च॑ बभ्रे पू॒र्वीरेको॑ अधय॒त्पीप्या॑नाः ।  
+वृष्णे॑ स॒पत्नी॒ शुच॑ये॒ सब॑न्धू उ॒भे अ॑स्मै मनु॒ष्ये॒३॒॑ नि पा॑हि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “protect; govern.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

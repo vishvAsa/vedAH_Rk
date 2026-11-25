@@ -4,6 +4,7 @@ devataa = "वागांभृणी"
 RShiH = "वागांभृणी"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वागांभृणी
@@ -80,7 +81,12 @@ suprāvyè ← suprāvī́- (nominal stem)
 
 yájamānāya ← √yaj- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒हं सोम॑माह॒नसं॑ बिभर्म्य॒हं त्वष्टा॑रमु॒त पू॒षणं॒ भग॑म् ।  
+अ॒हं द॑धामि॒ द्रवि॑णं ह॒विष्म॑ते सुप्रा॒व्ये॒३॒॑ यज॑मानाय सुन्व॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -188,7 +194,6 @@ _________
 - “press out; su.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

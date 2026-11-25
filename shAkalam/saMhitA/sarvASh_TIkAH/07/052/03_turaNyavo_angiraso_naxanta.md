@@ -4,6 +4,7 @@ devataa = "आदित्याः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आदित्याः
@@ -83,7 +84,12 @@ sámanasaḥ ← sámanas- (nominal stem)
 
 víśve ← víśva- (nominal stem)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तु॒र॒ण्यवोऽङ्गि॑रसो नक्षन्त॒ रत्नं॑ दे॒वस्य॑ सवि॒तुरि॑या॒नाः ।  
+पि॒ता च॒ तन्नो॑ म॒हान्यज॑त्रो॒ विश्वे॑ दे॒वाः सम॑नसो जुषन्त ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

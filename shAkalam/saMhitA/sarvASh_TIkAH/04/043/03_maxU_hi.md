@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "पुरुमीळ्हाजमीळ्हौ सौहोत्रौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -86,7 +87,12 @@ káyā ← ká- (pronoun)
 
 śáciṣṭhā ← śáciṣṭha- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒क्षू हि ष्मा॒ गच्छ॑थ॒ ईव॑तो॒ द्यूनिन्द्रो॒ न श॒क्तिं परि॑तक्म्यायाम् ।  
+दि॒व आजा॑ता दि॒व्या सु॑प॒र्णा कया॒ शची॑नां भवथः॒ शचि॑ष्ठा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - \[noun\], nominative, dual, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

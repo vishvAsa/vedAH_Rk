@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "प्रजापतिर्वाच्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ sū́ryaḥ ← sū́rya- (nominal stem)
 
 uṣásam ← uṣás- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यस्त॒स्थौ भुव॑ना॒न्यम॑र्त्यो॒ विश्वा॑नि॒ सोमः॒ परि॒ तान्य॑र्षति ।  
+कृ॒ण्वन्त्सं॒चृतं॑ वि॒चृत॑म॒भिष्ट॑य॒ इन्दुः॑ सिषक्त्यु॒षसं॒ न सूर्यः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

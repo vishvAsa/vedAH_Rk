@@ -4,6 +4,7 @@ devataa = "गर्भसंस्रावे प्रायश्चित�
 RShiH = "रक्षोहा ब्राह्मः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गर्भसंस्रावे प्रायश्चित्तं
@@ -71,7 +72,12 @@ durṇā́mā ← durṇā́man- (nominal stem)
 
 yónim ← yóni- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्रह्म॑णा॒ग्निः सं॑विदा॒नो र॑क्षो॒हा बा॑धतामि॒तः ।  
+अमी॑वा॒ यस्ते॒ गर्भं॑ दु॒र्णामा॒ योनि॑मा॒शये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -171,7 +177,6 @@ _________
 - “lie; stay.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

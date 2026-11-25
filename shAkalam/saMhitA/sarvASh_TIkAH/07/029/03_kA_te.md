@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ me ← ahám (pronoun)
 
 śr̥ṇavaḥ ← √śru- (root)  
 {number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+का ते॑ अ॒स्त्यरं॑कृतिः सू॒क्तैः क॒दा नू॒नं ते॑ मघवन्दाशेम ।  
+विश्वा॑ म॒तीरा त॑तने त्वा॒याधा॑ म इन्द्र शृणवो॒ हवे॒मा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -234,7 +240,6 @@ _________
 - “this; he,she,it (pers. pron.); here.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

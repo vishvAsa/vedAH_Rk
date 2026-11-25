@@ -4,6 +4,7 @@ devataa = "सूर्यवैश्वानरोग्नी"
 RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यवैश्वानरोग्नी
@@ -89,7 +90,12 @@ u ← u (invariable)
 
 yán ← √i- 1 (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्व॑स्मा अ॒ग्निं भुव॑नाय दे॒वा वै॑श्वान॒रं के॒तुमह्ना॑मकृण्वन् ।  
+आ यस्त॒तानो॒षसो॑ विभा॒तीरपो॑ ऊर्णोति॒ तमो॑ अ॒र्चिषा॒ यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

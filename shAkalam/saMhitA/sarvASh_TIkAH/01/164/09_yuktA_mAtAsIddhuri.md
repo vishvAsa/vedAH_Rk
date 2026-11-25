@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ viśvarūpyàm ← viśvarūpī́- (nominal stem)
 
 yójaneṣu ← yójana- (nominal stem)  
 {case:LOC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यु॒क्ता मा॒तासी॑द्धु॒रि दक्षि॑णाया॒ अति॑ष्ठ॒द्गर्भो॑ वृज॒नीष्व॒न्तः ।  
+अमी॑मेद्व॒त्सो अनु॒ गाम॑पश्यद्विश्वरू॒प्यं॑ त्रि॒षु योज॑नेषु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “yojana; use; yojana \[word\]; team.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "आयुः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ mitrásya ← mitrá- (nominal stem)
 
 úpa ← úpa (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+य उ॒क्था केव॑ला द॒धे यः सोमं॑ धृषि॒तापि॑बत् ।  
+यस्मै॒ विष्णु॒स्त्रीणि॑ प॒दा वि॑चक्र॒म उप॑ मि॒त्रस्य॒ धर्म॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     Dharma; Dharma; law; law; peculiarity; justice.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

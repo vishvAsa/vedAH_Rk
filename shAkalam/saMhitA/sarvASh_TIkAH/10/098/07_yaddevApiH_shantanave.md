@@ -4,6 +4,7 @@ devataa = "देवाः"
 RShiH = "देवापिरार्ष्टिषेणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - देवाः
@@ -77,7 +78,12 @@ bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)
 
 vā́cam ← vā́c- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्दे॒वापिः॒ शन्त॑नवे पु॒रोहि॑तो हो॒त्राय॑ वृ॒तः कृ॒पय॒न्नदी॑धेत् ।  
+दे॒व॒श्रुतं॑ वृष्टि॒वनिं॒ ररा॑णो॒ बृह॒स्पति॒र्वाच॑मस्मा अयच्छत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

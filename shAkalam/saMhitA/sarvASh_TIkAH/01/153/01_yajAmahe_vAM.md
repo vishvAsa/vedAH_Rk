@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -83,7 +84,12 @@ dhītíbhiḥ ← dhītí- (nominal stem)
 
 ná ← ná (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यजा॑महे वां म॒हः स॒जोषा॑ ह॒व्येभि॑र्मित्रावरुणा॒ नमो॑भिः ।  
+घृ॒तैर्घृ॑तस्नू॒ अध॒ यद्वा॑म॒स्मे अ॑ध्व॒र्यवो॒ न धी॒तिभि॒र्भर॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -195,7 +201,6 @@ _________
     hire; have; satiate; follow; bear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

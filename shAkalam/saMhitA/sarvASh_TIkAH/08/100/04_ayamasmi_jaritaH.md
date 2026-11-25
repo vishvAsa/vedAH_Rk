@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "इन्द्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ bhúvanā ← bhúvana- (nominal stem)
 
 dardarīmi ← √dr̥- ~ dr̥̄- (root)  
 {number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यम॑स्मि जरितः॒ पश्य॑ मे॒ह विश्वा॑ जा॒तान्य॒भ्य॑स्मि म॒ह्ना ।  
+ऋ॒तस्य॑ मा प्र॒दिशो॑ वर्धयन्त्यादर्दि॒रो भुव॑ना दर्दरीमि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “cleave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

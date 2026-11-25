@@ -4,6 +4,7 @@ devataa = "स्वाहाकृतयः"
 RShiH = "वसुश्रुत आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - स्वाहाकृतयः
@@ -57,7 +58,12 @@ havíḥ ← havís- (nominal stem)
 
 svā́hā ← svā́hā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्वाहा॒ग्नये॒ वरु॑णाय॒ स्वाहेन्द्रा॑य म॒रुद्भ्यः॑ ।  
+स्वाहा॑ दे॒वेभ्यो॑ ह॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “Havya; offering; ghee; havis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

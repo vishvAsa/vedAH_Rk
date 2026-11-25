@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ gr̥ṇaté ← √gr̥̄- 1 (root)
 
 yuvasva ← √yu- 1 (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒न्द्रस्य॑ क॒वेर्दि॒व्यस्य॒ वह्ने॒र्विप्र॑मन्मनो वच॒नस्य॒ मध्वः॑ ।  
+अपा॑ न॒स्तस्य॑ सच॒नस्य॑ दे॒वेषो॑ युवस्व गृण॒ते गोअ॑ग्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
     glans.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

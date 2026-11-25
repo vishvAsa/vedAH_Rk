@@ -4,6 +4,7 @@ devataa = "भाववृत्तं"
 RShiH = "यज्ञः प्राजापत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - भाववृत्तं
@@ -89,7 +90,12 @@ yajñám ← yajñá- (nominal stem)
 
 yé ← yá- (pronoun)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चा॒कॢ॒प्रे तेन॒ ऋष॑यो मनु॒ष्या॑ य॒ज्ञे जा॒ते पि॒तरो॑ नः पुरा॒णे ।  
+पश्य॑न्मन्ये॒ मन॑सा॒ चक्ष॑सा॒ तान्य इ॒मं य॒ज्ञमय॑जन्त॒ पूर्वे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -225,7 +231,6 @@ _________
     firstborn; easterly; instrumental.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

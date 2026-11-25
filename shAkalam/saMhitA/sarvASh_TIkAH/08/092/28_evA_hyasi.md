@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "श्रुतकक्षः सुकक्षो वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ rā́dhyam ← rā́dhya- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा ह्यसि॑ वीर॒युरे॒वा शूर॑ उ॒त स्थि॒रः ।  
+ए॒वा ते॒ राध्यं॒ मनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -154,7 +160,6 @@ _________
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -181,10 +186,6 @@ For as surely as you are one who acts the hero and as surely as you are a  stead
 just as surely is your thought to be realized—
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Klein (318) takes utá as linking śū́raḥ and sthiráḥ “Certainly (thou art) heroic and firm,” but this assumes that śū́ra- can be adjectival, which, pace Grassmann, I don’t. Instead, despite its position, I take the utá as conjoining vīrayúḥ and śū́raḥ … sthiráḥ, a variant on the complementary pairing of vīrá- ‘hero’ and śū́ra- ‘champion’.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/28-29.md">
 <details><summary><h2>28-29 ...{Loading}...</h2></summary>
 
@@ -192,7 +193,6 @@ Geldner tr. rā́dhya- as “leicht zu gewinnen,” but I take it rather as “t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

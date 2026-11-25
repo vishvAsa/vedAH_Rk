@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्रितः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ havíḥ ← havís- (nominal stem)
 
 priyátamam ← priyátama- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भीमृ॒तस्य॑ वि॒ष्टपं॑ दुह॒ते पृश्नि॑मातरः ।  
+चारु॑ प्रि॒यत॑मं ह॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -126,7 +132,6 @@ _________
 - “Havya; offering; ghee; havis \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -153,17 +158,12 @@ They whose mother is Pr̥śni [=Maruts] milk for themselves the cherished  oblat
 toward the upper surface of truth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-On the sense of this vs., see published introduction. Needless to say, this vs. is catnip for Lüders; see his disc. p. 606.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/034/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
 The final words of these two vss. are the phonologically similar háriḥ and havíḥ, both referring to soma -- though one is masc. nom. and the other neut. acc. 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

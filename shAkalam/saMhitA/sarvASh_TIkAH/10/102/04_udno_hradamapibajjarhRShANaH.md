@@ -4,6 +4,7 @@ devataa = "द्रुघण इन्द्रो वा"
 RShiH = "मुद्गलो भार्म्यश्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्रुघण इन्द्रो वा
@@ -83,7 +84,12 @@ bāhū́ ← bāhú- (nominal stem)
 
 síṣāsan ← √sanⁱ- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:ACT, mood:DES}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒द्नो ह्र॒दम॑पिब॒ज्जर्हृ॑षाणः॒ कूटं॑ स्म तृं॒हद॒भिमा॑तिमेति ।  
+प्र मु॒ष्कभा॑रः॒ श्रव॑ इ॒च्छमा॑नोऽजि॒रं बा॒हू अ॑भर॒त्सिषा॑सन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “win; gain.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

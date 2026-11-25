@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -77,7 +78,12 @@ rodasī́ ← rodasī́- (nominal stem)
 
 sácā ← sácā (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रथं॒ नु मारु॑तं व॒यं श्र॑व॒स्युमा हु॑वामहे ।  
+आ यस्मि॑न्त॒स्थौ सु॒रणा॑नि॒ बिभ्र॑ती॒ सचा॑ म॒रुत्सु॑ रोद॒सी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -179,7 +185,6 @@ _________
 - “heaven and earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -212,7 +217,6 @@ on which there stands, bearing great delights, Rodasī in company with  the Maru
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/056/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
@@ -224,7 +228,6 @@ Geldner’s acceptance of Sāyaṇa.’s interpr. of mīḷhuṣī́as the name 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

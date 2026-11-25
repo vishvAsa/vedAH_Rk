@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -89,7 +90,12 @@ sánitā ← sánitar- (nominal stem)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+भूरि॑ चक्र मरुतः॒ पित्र्या॑ण्यु॒क्थानि॒ या वः॑ श॒स्यन्ते॑ पु॒रा चि॑त् ।  
+म॒रुद्भि॑रु॒ग्रः पृत॑नासु॒ साळ्हा॑ म॒रुद्भि॒रित्सनि॑ता॒ वाज॒मर्वा॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “horse; arvan \[word\]; racehorse.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

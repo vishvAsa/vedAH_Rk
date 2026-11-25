@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "अभितपाः सौर्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -92,7 +93,12 @@ jaraṇā́m ← jaraṇā́- (nominal stem)
 
 jī́vantaḥ ← √jīv- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं नो॒ द्यावा॑पृथि॒वी तन्न॒ आप॒ इन्द्रः॑ शृण्वन्तु म॒रुतो॒ हवं॒ वचः॑ ।  
+मा शूने॑ भूम॒ सूर्य॑स्य सं॒दृशि॑ भ॒द्रं जीव॑न्तो जर॒णाम॑शीमहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “get; reach; enter (a state).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

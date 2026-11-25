@@ -4,6 +4,7 @@ devataa = "ज्ञानं"
 RShiH = "बृहस्पतिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ज्ञानं
@@ -95,7 +96,12 @@ preṇā́ ← premán- (nominal stem)
 
 tát ← sá- ~ tá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृह॑स्पते प्रथ॒मं वा॒चो अग्रं॒ यत्प्रैर॑त नाम॒धेयं॒ दधा॑नाः ।  
+यदे॑षां॒ श्रेष्ठं॒ यद॑रि॒प्रमासी॑त्प्रे॒णा तदे॑षां॒ निहि॑तं॒ गुहा॒विः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “openly; obviously.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

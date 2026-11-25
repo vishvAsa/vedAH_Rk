@@ -4,6 +4,7 @@ devataa = "इन्द्राग्नी"
 RShiH = "वसिष्ठः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्राग्नी
@@ -57,7 +58,12 @@ saparyávaḥ ← saparyú- (nominal stem)
 
 sáptīvantā ← sáptīvant- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्सोम॒ आ सु॒ते नर॑ इन्द्रा॒ग्नी अजो॑हवुः ।  
+सप्ती॑वन्ता सप॒र्यवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -129,7 +135,6 @@ _________
 - “deferent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

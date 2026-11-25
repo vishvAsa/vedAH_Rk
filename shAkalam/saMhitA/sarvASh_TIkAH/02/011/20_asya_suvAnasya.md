@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "विराट्स्थाना त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ bhinát ← √bhid- (root)
 
 valám ← valá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य सु॑वा॒नस्य॑ म॒न्दिन॑स्त्रि॒तस्य॒ न्यर्बु॑दं वावृधा॒नो अ॑स्तः ।  
+अव॑र्तय॒त्सूर्यो॒ न च॒क्रं भि॒नद्व॒लमिन्द्रो॒ अङ्गि॑रस्वान् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -193,7 +199,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

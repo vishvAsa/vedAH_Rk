@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ jániman ← jániman- (nominal stem)
 
 vapuṣyan ← √vapuṣy- (root)  
 {case:VOC, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑र्धयन्त्सु॒भगं॑ स॒प्त य॒ह्वीः श्वे॒तं ज॑ज्ञा॒नम॑रु॒षं म॑हि॒त्वा ।  
+शिशुं॒ न जा॒तम॒भ्या॑रु॒रश्वा॑ दे॒वासो॑ अ॒ग्निं जनि॑मन्वपुष्यन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -213,7 +219,6 @@ _________
 - “marvel.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

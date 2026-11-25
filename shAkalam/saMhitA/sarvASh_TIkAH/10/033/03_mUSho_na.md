@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कवष ऐलूषः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ naḥ ← ahám (pronoun)
 
 pitā́ ← pitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मूषो॒ न शि॒श्ना व्य॑दन्ति मा॒ध्यः॑ स्तो॒तारं॑ ते शतक्रतो ।  
+स॒कृत्सु नो॑ मघवन्निन्द्र मृळ॒याधा॑ पि॒तेव॑ नो भव ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

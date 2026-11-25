@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ usríyābhiḥ ← usríya- (nominal stem)
 
 vāvaśanta ← √vāś- (root)  
 {number:PL, person:3, mood:INJ, tense:PRF, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इन्द्र॒स्याङ्गि॑रसां चे॒ष्टौ वि॒दत्स॒रमा॒ तन॑याय धा॒सिम् ।  
+बृह॒स्पति॑र्भि॒नदद्रिं॑ वि॒दद्गाः समु॒स्रिया॑भिर्वावशन्त॒ नरः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - “man; man; nṛ \[word\]; crew; masculine.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

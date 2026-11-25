@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ pitā́ ← pitár- (nominal stem)
 
 vásyaḥ ← vásyaṁs- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शिक्षे॑य॒मिन्म॑हय॒ते दि॒वेदि॑वे रा॒य आ कु॑हचि॒द्विदे॑ ।  
+न॒हि त्वद॒न्यन्म॑घवन्न॒ आप्यं॒ वस्यो॒ अस्ति॑ पि॒ता च॒न ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “not even; cana \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

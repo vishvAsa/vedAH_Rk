@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -98,7 +99,12 @@ práti ← práti (invariable)
 
 sū́raḥ ← sū́ra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒सं॒दृक्ते॑ स्वनीक॒ प्रती॑कं॒ वि यद्रु॒क्मो न रोच॑स उपा॒के ।  
+दि॒वो न ते॑ तन्य॒तुरे॑ति॒ शुष्म॑श्चि॒त्रो न सूरः॒ प्रति॑ चक्षि भा॒नुम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -254,7 +260,6 @@ _________
     copper; light; twelve; appearance; Bhānu; flare.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

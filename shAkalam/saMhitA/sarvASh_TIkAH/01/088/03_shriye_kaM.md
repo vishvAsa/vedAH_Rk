@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गोतमो राहूगणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ dhanayante ← √dhanⁱ- (root)
 
 tuvidyumnā́saḥ ← tuvidyumná- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्रि॒ये कं वो॒ अधि॑ त॒नूषु॒ वाशी॑र्मे॒धा वना॒ न कृ॑णवन्त ऊ॒र्ध्वा ।  
+यु॒ष्मभ्यं॒ कं म॑रुतः सुजातास्तुविद्यु॒म्नासो॑ धनयन्ते॒ अद्रि॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

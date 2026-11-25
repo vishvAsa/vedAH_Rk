@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भूतांशः काश्यपः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ bhūtā́ṁśaḥ ← bhūtā́ṁśa- (nominal stem)
 
 kā́mam ← kā́ma- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒ध्याम॒ स्तोमं॑ सनु॒याम॒ वाज॒मा नो॒ मन्त्रं॑ स॒रथे॒होप॑ यातम् ।  
+यशो॒ न प॒क्वं मधु॒ गोष्व॒न्तरा भू॒तांशो॑ अ॒श्विनोः॒ काम॑मप्राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - “fill; satisfy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

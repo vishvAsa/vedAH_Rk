@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "शक्तिः"
 ChandaH = "सतो बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ yéna ← yá- (pronoun)
 
 mahé ← máh- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्य॑ न॒ इन्द्रः॒ पिबा॒द्यस्य॑ म॒रुतो॒ यस्य॑ वार्य॒मणा॒ भगः॑ ।  
+आ येन॑ मि॒त्रावरु॑णा॒ करा॑मह॒ एन्द्र॒मव॑से म॒हे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “great; great; distinguished; much(a); adult; long; high.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -242,12 +247,6 @@ by whom we will bring Mitra and Varuṇa here and Indra here for
 great help.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The nom., acc., voc., and gen. pl. of marút- do not fit any standard RVic cadence. It is not surprising then that though instr. marúdbhiḥ and dat./abl.
-
-marúdbhyaḥ are regularly found in cadences, the other forms are almost entirely absent. Pāda b has a nom. pl. in the cadence (made worse by the fact that the word is preceded by a light syllable, (yá)sya. VII.32.10 has the same sequence, also in a double yásya construction. Most of the few other cadential forms are found in dimeter vs. (e.g., VIII.3.21, VIII.7.30).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/13-14.md">
 <details><summary><h2>13-14 ...{Loading}...</h2></summary>
 
@@ -255,7 +254,6 @@ The main cl. in these two vss. consists of the first two words of 13, sá sunve 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

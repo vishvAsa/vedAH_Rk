@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ vŕ̥ṣaṇaḥ ← vŕ̥ṣan- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त नोऽहि॑र्बु॒ध्न्यो॒३॒॑ मय॑स्कः॒ शिशुं॒ न पि॒प्युषी॑व वेति॒ सिन्धुः॑ ।  
+येन॒ नपा॑तम॒पां जु॒नाम॑ मनो॒जुवो॒ वृष॑णो॒ यं वह॑न्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

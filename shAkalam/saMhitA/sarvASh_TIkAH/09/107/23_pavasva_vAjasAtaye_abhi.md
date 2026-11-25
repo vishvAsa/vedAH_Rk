@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -71,7 +72,12 @@ matsaráḥ ← matsará- (nominal stem)
 
 soma ← sóma- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व॒ वाज॑सातये॒ऽभि विश्वा॑नि॒ काव्या॑ ।  
+त्वं स॑मु॒द्रं प्र॑थ॒मो वि धा॑रयो दे॒वेभ्यः॑ सोम मत्स॒रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “intoxicant; invigorating; hostile.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -197,10 +202,6 @@ Purify yourself to win the prize, (aiming) toward all products of  poetic skill.
 Soma, you, the exhilarating one, were [/are] the first to spread out the  sea for the gods.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The injunc. ví dhārayaḥ in c, in conjunction with prathamáḥ, invites a dual reading, both cosmogonic in the past and the ritual present. Hoffmann doesn’t cite this passage.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/23-24.md">
 <details><summary><h2>23-24 ...{Loading}...</h2></summary>
 
@@ -208,7 +209,6 @@ Both vss. contain the impv. pávasva (/ pavasva), and the mention of the sea in 
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

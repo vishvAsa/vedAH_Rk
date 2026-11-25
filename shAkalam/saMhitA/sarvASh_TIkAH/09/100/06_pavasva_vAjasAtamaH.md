@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेभसूनू काश्यपौ"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -62,7 +63,12 @@ devébhyaḥ ← devá- (nominal stem)
 
 mádhumattamaḥ ← mádhumattama- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पव॑स्व वाज॒सात॑मः प॒वित्रे॒ धार॑या सु॒तः ।  
+इन्द्रा॑य सोम॒ विष्ण॑वे दे॒वेभ्यो॒ मधु॑मत्तमः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -139,7 +145,6 @@ _________
 - “sweetest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -165,10 +170,6 @@ _________
 Purify yourself as best winner of prizes in the filter, pressed in a stream, most honeyed for Indra and Viṣṇu, for the gods, Soma.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The first vs. of the new hymn matches the final vs. (5) of the previous one: 6ab pávasva … dhā́rayā sutáḥ enlarges on 5b pávasva soma dhā́rayā, with 5c containing sutáḥ. The 2nd hemistichs of both vss. consist primarily of datives of the gods who will drink the soma, both beginning with Indra: 5cd índrāya …, mitrā́ya váruṇāya ca; 6cd índrāya … víṣṇave, devébhyaḥ … There is also a strong echo of vs. 4: 6a vājasā́tamaḥ ‘best winner of prizes’ incorporates in a single word the simile in 4d vājī́va sānasíḥ “like a winner possessing prizes.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
 <details><summary><h2>06-09 ...{Loading}...</h2></summary>
 
@@ -176,7 +177,6 @@ As noted in the published introduction, these vss., constituting a separate hymn
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

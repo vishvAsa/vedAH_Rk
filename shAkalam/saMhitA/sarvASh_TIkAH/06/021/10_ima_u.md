@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ tvát ← tvám (pronoun)
 
 tvā́vān ← tvā́vant- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒म उ॑ त्वा पुरुशाक प्रयज्यो जरि॒तारो॑ अ॒भ्य॑र्चन्त्य॒र्कैः ।  
+श्रु॒धी हव॒मा हु॑व॒तो हु॑वा॒नो न त्वावाँ॑ अ॒न्यो अ॑मृत॒ त्वद॑स्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -229,7 +235,6 @@ _________
     stay; be; equal; exist; transform.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

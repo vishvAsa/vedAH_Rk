@@ -4,6 +4,7 @@ devataa = "वैश्वानरोग्निः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - वैश्वानरोग्निः
@@ -89,7 +90,12 @@ gopā́ḥ ← gopā́- (nominal stem)
 
 rakṣitā́ ← rakṣitár- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि यो रजां॒स्यमि॑मीत सु॒क्रतु॑र्वैश्वान॒रो वि दि॒वो रो॑च॒ना क॒विः ।  
+परि॒ यो विश्वा॒ भुव॑नानि पप्र॒थेऽद॑ब्धो गो॒पा अ॒मृत॑स्य रक्षि॒ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

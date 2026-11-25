@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "बुधगविष्ठिरावात्रेयौ"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ ihá ← ihá (invariable)
 
 vakṣi ← √vah- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आद्य रथं॑ भानुमो भानु॒मन्त॒मग्ने॒ तिष्ठ॑ यज॒तेभिः॒ सम॑न्तम् ।  
+वि॒द्वान्प॑थी॒नामु॒र्व१॒॑न्तरि॑क्ष॒मेह दे॒वान्ह॑वि॒रद्या॑य वक्षि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -216,7 +222,6 @@ _________
     nirvāpay; blow; transport; discharge; assume; remove.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

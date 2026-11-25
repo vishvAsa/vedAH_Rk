@@ -4,6 +4,7 @@ devataa = "रुद्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - रुद्रः
@@ -83,7 +84,12 @@ rīradhat ← √randh- (root)
 
 suśípraḥ ← suśípra- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हवी॑मभि॒र्हव॑ते॒ यो ह॒विर्भि॒रव॒ स्तोमे॑भी रु॒द्रं दि॑षीय ।  
+ऋ॒दू॒दरः॑ सु॒हवो॒ मा नो॑ अ॒स्यै ब॒भ्रुः सु॒शिप्रो॑ रीरधन्म॒नायै॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “jewelry.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

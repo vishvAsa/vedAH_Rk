@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "सुतंभर आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -51,7 +52,12 @@ svādhī́bhiḥ ← svādhī́- (nominal stem)
 
 vacasyúbhiḥ ← vacasyú- (nominal stem)  
 {case:INS, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निं घृ॒तेन॑ वावृधुः॒ स्तोमे॑भिर्वि॒श्वच॑र्षणिम् ।  
+स्वा॒धीभि॑र्वच॒स्युभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -111,7 +117,6 @@ _________
 - “eloquent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

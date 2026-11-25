@@ -4,6 +4,7 @@ devataa = "विश्वेदेवा ऋत्विजो वा"
 RShiH = "बुधः सौम्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवा ऋत्विजो वा
@@ -74,7 +75,12 @@ nr̥pā́ṇam ← nr̥pā́ṇa- (nominal stem)
 
 siñcata ← √sic- (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्री॒णी॒ताश्वा॑न्हि॒तं ज॑याथ स्वस्ति॒वाहं॒ रथ॒मित्कृ॑णुध्वम् ।  
+द्रोणा॑हावमव॒तमश्म॑चक्र॒मंस॑त्रकोशं सिञ्चता नृ॒पाण॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - \[noun\], accusative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

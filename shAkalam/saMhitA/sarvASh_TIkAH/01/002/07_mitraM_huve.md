@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "मधुच्छन्दा वैश्वामित्रः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -57,7 +58,12 @@ ghr̥tā́cīm ← ghr̥tā́ñc- (nominal stem)
 
 sā́dhantā ← √sādh- ~ sidh- (root)  
 {case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मि॒त्रं हु॑वे पू॒तद॑क्षं॒ वरु॑णं च रि॒शाद॑सम् ।  
+धियं॑ घृ॒ताचीं॒ साध॑न्ता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “promote; succeed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "हरिमन्तः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -86,7 +87,12 @@ sádane ← sádana- (nominal stem)
 
 yónā ← yóni- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अं॒शुं दु॑हन्ति स्त॒नय॑न्त॒मक्षि॑तं क॒विं क॒वयो॒ऽपसो॑ मनी॒षिणः॑ ।  
+समी॒ गावो॑ म॒तयो॑ यन्ति सं॒यत॑ ऋ॒तस्य॒ योना॒ सद॑ने पुन॒र्भुवः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -210,7 +216,6 @@ _________
 - “punarbhū; punarnavā.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

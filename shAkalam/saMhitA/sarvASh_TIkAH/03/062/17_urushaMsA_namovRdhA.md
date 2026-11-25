@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "गाथिनो विश्वामित्रो जमदग्निर्वा"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -51,7 +52,12 @@ drā́ghiṣṭhābhiḥ ← drā́ghiṣṭha- (nominal stem)
 
 śucivratā ← śúcivrata- (nominal stem)  
 {case:VOC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒रु॒शंसा॑ नमो॒वृधा॑ म॒ह्ना दक्ष॑स्य राजथः ।  
+द्राघि॑ष्ठाभिः शुचिव्रता ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
     \[word\]; rule; behavior.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

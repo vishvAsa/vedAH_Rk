@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -92,7 +93,12 @@ maghavan ← maghávan- (nominal stem)
 
 sú ← sú (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ नो॑ गो॒त्रा द॑र्दृहि गोपते॒ गाः सम॒स्मभ्यं॑ स॒नयो॑ यन्तु॒ वाजाः॑ ।  
+दि॒वक्षा॑ असि वृषभ स॒त्यशु॑ष्मो॒ऽस्मभ्यं॒ सु म॑घवन्बोधि गो॒दाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
 - “giving.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

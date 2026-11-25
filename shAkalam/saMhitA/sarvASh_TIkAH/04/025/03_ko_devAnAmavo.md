@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ mánasā ← mánas- (nominal stem)
 
 pibanti ← √pā- 2 (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को दे॒वाना॒मवो॑ अ॒द्या वृ॑णीते॒ क आ॑दि॒त्याँ अदि॑तिं॒ ज्योति॑रीट्टे ।  
+कस्या॒श्विना॒विन्द्रो॑ अ॒ग्निः सु॒तस्यां॒शोः पि॑बन्ति॒ मन॒सावि॑वेनम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -218,7 +224,6 @@ _________
 - \[adverb\]
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

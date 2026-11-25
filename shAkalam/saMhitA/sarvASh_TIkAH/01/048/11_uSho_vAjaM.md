@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "प्रस्कण्वः काण्वः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -86,7 +87,12 @@ váhnayaḥ ← váhni- (nominal stem)
 
 yé ← yá- (pronoun)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उषो॒ वाजं॒ हि वंस्व॒ यश्चि॒त्रो मानु॑षे॒ जने॑ ।  
+तेना व॑ह सु॒कृतो॑ अध्व॒राँ उप॒ ये त्वा॑ गृ॒णन्ति॒ वह्न॑यः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
     leader.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

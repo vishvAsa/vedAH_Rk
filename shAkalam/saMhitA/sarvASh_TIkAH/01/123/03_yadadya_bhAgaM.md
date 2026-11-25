@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -83,7 +84,12 @@ sū́ryāya ← sū́rya- (nominal stem)
 
 vocati ← √vac- (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद॒द्य भा॒गं वि॒भजा॑सि॒ नृभ्य॒ उषो॑ देवि मर्त्य॒त्रा सु॑जाते ।  
+दे॒वो नो॒ अत्र॑ सवि॒ता दमू॑ना॒ अना॑गसो वोचति॒ सूर्या॑य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
     gigantea Beng.; sūryakānta; sunlight; best.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

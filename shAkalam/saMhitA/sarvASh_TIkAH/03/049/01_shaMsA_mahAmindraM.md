@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ janáyanta ← √janⁱ- (root)
 
 vr̥trā́ṇām ← vr̥trá- (nominal stem)  
 {case:GEN, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+शंसा॑ म॒हामिन्द्रं॒ यस्मि॒न्विश्वा॒ आ कृ॒ष्टयः॑ सोम॒पाः काम॒मव्य॑न् ।  
+यं सु॒क्रतुं॑ धि॒षणे॑ विभ्वत॒ष्टं घ॒नं वृ॒त्राणां॑ ज॒नय॑न्त दे॒वाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
     Viśvedevās; mercury; natural phenomenon; gambling.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

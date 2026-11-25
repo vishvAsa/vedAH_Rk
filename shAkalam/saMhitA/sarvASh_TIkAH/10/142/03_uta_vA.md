@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "द्रोणः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ táviṣīm ← táviṣī- (nominal stem)
 
 te ← tvám (pronoun)  
 {case:DAT, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒त वा उ॒ परि॑ वृणक्षि॒ बप्स॑द्ब॒होर॑ग्न॒ उल॑पस्य स्वधावः ।  
+उ॒त खि॒ल्या उ॒र्वरा॑णां भवन्ति॒ मा ते॑ हे॒तिं तवि॑षीं चुक्रुधाम ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “anger; kup.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

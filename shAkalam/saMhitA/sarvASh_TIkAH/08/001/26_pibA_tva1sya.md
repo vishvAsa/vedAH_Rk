@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिमेध्यातिथी काण्वौ"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -74,7 +75,12 @@ mádāya ← máda- (nominal stem)
 
 patyate ← √pat- 2 (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पिबा॒ त्व१॒॑स्य गि॑र्वणः सु॒तस्य॑ पूर्व॒पा इ॑व ।  
+परि॑ष्कृतस्य र॒सिन॑ इ॒यमा॑सु॒तिश्चारु॒र्मदा॑य पत्यते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -176,7 +182,6 @@ _________
 - “own; have; master.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

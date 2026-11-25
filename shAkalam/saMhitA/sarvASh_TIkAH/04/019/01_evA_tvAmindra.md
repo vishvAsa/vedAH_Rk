@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ vr̥ṇate ← √vr̥- ~ vr̥̄- (root)
 
 vr̥trahátye ← vr̥trahátya- (nominal stem)  
 {case:LOC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वा त्वामि॑न्द्र वज्रि॒न्नत्र॒ विश्वे॑ दे॒वासः॑ सु॒हवा॑स॒ ऊमाः॑ ।  
+म॒हामु॒भे रोद॑सी वृ॒द्धमृ॒ष्वं निरेक॒मिद्वृ॑णते वृत्र॒हत्ये॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “killing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

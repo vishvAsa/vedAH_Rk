@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "रेणुर्वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -92,7 +93,12 @@ manánāḥ ← manána- (nominal stem)
 
 rā́jānam ← rā́jan- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते अ॑स्य सन्तु के॒तवोऽमृ॑त्य॒वोऽदा॑भ्यासो ज॒नुषी॑ उ॒भे अनु॑ ।  
+येभि॑र्नृ॒म्णा च॑ दे॒व्या॑ च पुन॒त आदिद्राजा॑नं म॒नना॑ अगृभ्णत ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -228,7 +234,6 @@ _________
     touch.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

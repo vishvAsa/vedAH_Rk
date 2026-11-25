@@ -4,6 +4,7 @@ devataa = "यमः"
 RShiH = "कुमारो यामायनः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - यमः
@@ -71,7 +72,12 @@ purāṇā́n ← purāṇá- (nominal stem)
 
 venati ← √ven- (root)  
 {number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मि॑न्वृ॒क्षे सु॑पला॒शे दे॒वैः स॒म्पिब॑ते य॒मः ।  
+अत्रा॑ नो वि॒श्पतिः॑ पि॒ता पु॑रा॒णाँ अनु॑ वेनति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -168,7 +174,6 @@ _________
 - “circulate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

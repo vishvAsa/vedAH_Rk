@@ -4,6 +4,7 @@ devataa = "इन्द्रवायू"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रवायू
@@ -83,7 +84,12 @@ sahyuḥ ← √sah- (root)
 
 vīraíḥ ← vīrá- (nominal stem)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ई॒शा॒नासो॒ ये दध॑ते॒ स्व॑र्णो॒ गोभि॒रश्वे॑भि॒र्वसु॑भि॒र्हिर॑ण्यैः ।  
+इन्द्र॑वायू सू॒रयो॒ विश्व॒मायु॒रर्व॑द्भिर्वी॒रैः पृत॑नासु सह्युः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “endure; overcome; habituate.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

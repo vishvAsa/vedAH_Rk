@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ pī́pyānāḥ ← √pī- 1 (root)
 
 svéna ← svá- (pronoun)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ यत्सा॒कं य॒शसो॑ वावशा॒नाः सर॑स्वती स॒प्तथी॒ सिन्धु॑माता ।  
+याः सु॒ष्वय॑न्त सु॒दुघाः॑ सुधा॒रा अ॒भि स्वेन॒ पय॑सा॒ पीप्या॑नाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -207,7 +213,6 @@ _________
 - “swell; abound; swell.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

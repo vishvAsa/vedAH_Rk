@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "बृहदुक्थो वामदेव्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sárūpeṇa ← sárūpa- (nominal stem)
 
 vívratena ← vívrata- (nominal stem)  
 {case:INS, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ रोद॑सी अपृणा॒दोत मध्यं॒ पञ्च॑ दे॒वाँ ऋ॑तु॒शः स॒प्तस॑प्त ।  
+चतु॑स्त्रिंशता पुरु॒धा वि च॑ष्टे॒ सरू॑पेण॒ ज्योति॑षा॒ विव्र॑तेन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -214,7 +220,6 @@ _________
 - “refractory; loath.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

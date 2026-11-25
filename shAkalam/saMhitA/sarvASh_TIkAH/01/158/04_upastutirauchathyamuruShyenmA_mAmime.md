@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ vām ← tvám (pronoun)
 
 yát ← yá- (pronoun)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑स्तुतिरौच॒थ्यमु॑रुष्ये॒न्मा मामि॒मे प॑त॒त्रिणी॒ वि दु॑ग्धाम् ।  
+मा मामेधो॒ दश॑तयश्चि॒तो धा॒क्प्र यद्वां॑ ब॒द्धस्त्मनि॒ खाद॑ति॒ क्षाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -245,7 +251,6 @@ _________
 - “Earth; Earth.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

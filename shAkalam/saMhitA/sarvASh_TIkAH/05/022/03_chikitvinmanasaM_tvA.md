@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "विश्वसामात्रेयः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -62,7 +63,12 @@ amanmahi ← √man- 1 (root)
 
 iyānā́saḥ ← √yā- 2 (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+चि॒कि॒त्विन्म॑नसं त्वा दे॒वं मर्ता॑स ऊ॒तये॑ ।  
+वरे॑ण्यस्य॒ तेऽव॑स इया॒नासो॑ अमन्महि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -134,7 +140,6 @@ _________
     describe.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

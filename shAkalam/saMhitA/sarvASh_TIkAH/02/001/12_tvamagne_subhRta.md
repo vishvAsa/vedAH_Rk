@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -95,7 +96,12 @@ tvám ← tvám (pronoun)
 
 viśvátas ← viśvátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वम॑ग्ने॒ सुभृ॑त उत्त॒मं वय॒स्तव॑ स्पा॒र्हे वर्ण॒ आ सं॒दृशि॒ श्रियः॑ ।  
+त्वं वाजः॑ प्र॒तर॑णो बृ॒हन्न॑सि॒ त्वं र॒यिर्ब॑हु॒लो वि॒श्वत॑स्पृ॒थुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

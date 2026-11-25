@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ svā́sam ← svā́s- (nominal stem)
 
 tigmám ← tigmá- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+द्विर्यं पञ्च॒ जीज॑नन्त्सं॒वसा॑नाः॒ स्वसा॑रो अ॒ग्निं मानु॑षीषु वि॒क्षु ।  
+उ॒ष॒र्बुध॑मथ॒र्यो॒३॒॑ न दन्तं॑ शु॒क्रं स्वासं॑ पर॒शुं न ति॒ग्मम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
 - “sharp; pointed; fiery.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

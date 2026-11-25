@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "पराशरः शाक्त्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -104,7 +105,12 @@ yám ← yá- (pronoun)
 
 yā́sat ← √yā- 1 (root)  
 {number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व आ यस्तुभ्यं॒ दम॒ आ वि॒भाति॒ नमो॑ वा॒ दाशा॑दुश॒तो अनु॒ द्यून् ।  
+वर्धो॑ अग्ने॒ वयो॑ अस्य द्वि॒बर्हा॒ यास॑द्रा॒या स॒रथं॒ यं जु॒नासि॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -270,7 +276,6 @@ _________
 - “animate; encourage; impel; inspire.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

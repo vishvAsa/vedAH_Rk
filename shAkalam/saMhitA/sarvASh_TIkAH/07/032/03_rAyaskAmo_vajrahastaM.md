@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "द्विपदा विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -49,7 +50,11 @@ pitáram ← pitár- (nominal stem)
 
 putráḥ ← putrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+रा॒यस्का॑मो॒ वज्र॑हस्तं सु॒दक्षि॑णं पु॒त्रो न पि॒तरं॑ हुवे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -107,7 +112,6 @@ _________
 - “raise; call on; call; summon.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

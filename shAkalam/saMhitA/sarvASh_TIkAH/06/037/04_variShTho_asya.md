@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ sūrī́n ← sūrí- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वरि॑ष्ठो अस्य॒ दक्षि॑णामिय॒र्तीन्द्रो॑ म॒घोनां॑ तुविकू॒र्मित॑मः ।  
+यया॑ वज्रिवः परि॒यास्यंहो॑ म॒घा च॑ धृष्णो॒ दय॑से॒ वि सू॒रीन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
 - “patron.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

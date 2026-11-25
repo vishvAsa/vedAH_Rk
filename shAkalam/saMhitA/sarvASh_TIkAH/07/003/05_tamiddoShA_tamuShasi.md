@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -89,7 +90,12 @@ dīdā́ya ← √dī- 1 (root)
 
 vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तमिद्दो॒षा तमु॒षसि॒ यवि॑ष्ठम॒ग्निमत्यं॒ न म॑र्जयन्त॒ नरः॑ ।  
+नि॒शिशा॑ना॒ अति॑थिमस्य॒ योनौ॑ दी॒दाय॑ शो॒चिराहु॑तस्य॒ वृष्णः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -220,7 +226,6 @@ _________
 - “bull; Indra; stallion; Vṛṣan; man.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

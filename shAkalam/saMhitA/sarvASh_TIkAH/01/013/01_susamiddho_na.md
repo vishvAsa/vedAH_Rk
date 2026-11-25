@@ -4,6 +4,7 @@ devataa = "इध्मः समिद्धो वाग्निः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इध्मः समिद्धो वाग्निः
@@ -63,7 +64,12 @@ pāvaka ← pāvaká- (nominal stem)
 
 yákṣi ← √yaj- (root)  
 {number:SG, person:2, mood:IMP, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सुस॑मिद्धो न॒ आ व॑ह दे॒वाँ अ॑ग्ने ह॒विष्म॑ते ।  
+होतः॑ पावक॒ यक्षि॑ च ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
 - “and; besides; then; now; even.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

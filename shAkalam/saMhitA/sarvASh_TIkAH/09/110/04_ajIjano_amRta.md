@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "त्र्यरुणत्रसदस्यू"
 ChandaH = "ऊर्ध्वबृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -69,7 +70,12 @@ sániṣyadat ← √syand- (root)
 
 vā́jam ← vā́ja- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अजी॑जनो अमृत॒ मर्त्ये॒ष्वाँ ऋ॒तस्य॒ धर्म॑न्न॒मृत॑स्य॒ चारु॑णः ।  
+सदा॑सरो॒ वाज॒मच्छा॒ सनि॑ष्यदत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -157,7 +163,6 @@ _________
 - \[verb noun\], nominative, singular
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -188,18 +193,6 @@ Streaming forth: saniṣyadat = sambhajan, distributing (blessings?): from san, 
 You have begotten it, o immortal one, here among mortals, upon the  foundation of the truth, of the dear immortal one [=heavenly soma]. You have always flowed, ever streaming toward the prize.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Though the meter changes here, vss. 3 and 4 are knit together by initial ájījanaḥ. Here the obj. is left unspecified and presumably re-supplies the obj. of 3.
-
-Renou notes the play between ā́m̐ṛtásya and amṛ́tasya, which might suggest that the anunāsika sometimes inserted after final vowels at the end of a pāda to prevent coalescence with the following initial vowel is not merely a redactional addition, as Oldenberg (Proleg. 470) asserts.
-
-Geldner (n. 4b) identifies amṛ́tasya cā́ruṇaḥ as a reference to the drink of immortality, namely soma. In this I think he is correct; see comm. ad IX.70.2.
-
-However, he also wants it to be a type of partitive genitive (“eine Art von Genit.
-
-partit.”) dependent on ájījanaḥ; it is difficult to imagine what sort of partitive gen. could be construed with ‘beget’. I see no reason why this gen. cannot depend on dhárman as ṛtásya does (Sāyaṇa.’s solution).
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
 <details><summary><h2>04-06 ...{Loading}...</h2></summary>
 
@@ -207,7 +200,6 @@ A very challenging tṛca, esp. the last two vss.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

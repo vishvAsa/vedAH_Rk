@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -95,7 +96,12 @@ tsáruḥ ← tsáru- (nominal stem)
 
 vidat ← √vid- 1 (root)  
 {number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ मां मि॑त्रावरुणे॒ह र॑क्षतं कुला॒यय॑द्वि॒श्वय॒न्मा न॒ आ ग॑न् ।  
+अ॒ज॒का॒वं दु॒र्दृशी॑कं ति॒रो द॑धे॒ मा मां पद्ये॑न॒ रप॑सा विद॒त्त्सरुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -232,7 +238,6 @@ _________
 - “hilt; sycophant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

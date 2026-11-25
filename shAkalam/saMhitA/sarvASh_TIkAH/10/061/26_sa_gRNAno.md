@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "नाभानेदिष्ठो मानवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ usríyāyāḥ ← usríya- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स गृ॑णा॒नो अ॒द्भिर्दे॒ववा॒निति॑ सु॒बन्धु॒र्नम॑सा सू॒क्तैः ।  
+वर्ध॑दु॒क्थैर्वचो॑भि॒रा हि नू॒नं व्यध्वै॑ति॒ पय॑स उ॒स्रिया॑याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “cow; dairy product.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

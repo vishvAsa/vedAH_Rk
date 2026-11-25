@@ -4,6 +4,7 @@ devataa = "ओषधीस्तुतिः"
 RShiH = "भिषगाथर्वः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ओषधीस्तुतिः
@@ -68,7 +69,12 @@ madhyamaśī́ḥ ← madhyamaśī́- (nominal stem)
 
 ugráḥ ← ugrá- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्यौ॑षधीः प्र॒सर्प॒थाङ्ग॑मङ्गं॒ परु॑ष्परुः ।  
+ततो॒ यक्ष्मं॒ वि बा॑धध्व उ॒ग्रो म॑ध्यम॒शीरि॑व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -167,7 +173,6 @@ _________
 - “like; as it were; somehow; just so.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

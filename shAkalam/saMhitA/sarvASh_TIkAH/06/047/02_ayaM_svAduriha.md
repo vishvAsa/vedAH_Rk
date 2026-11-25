@@ -4,6 +4,7 @@ devataa = "सोमः"
 RShiH = "गर्गः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सोमः
@@ -89,7 +90,12 @@ navatím ← navatí- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यं स्वा॒दुरि॒ह मदि॑ष्ठ आस॒ यस्येन्द्रो॑ वृत्र॒हत्ये॑ म॒माद॑ ।  
+पु॒रूणि॒ यश्च्यौ॒त्ना शम्ब॑रस्य॒ वि न॑व॒तिं नव॑ च दे॒ह्यो॒३॒॑ हन् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     affect; strike; hammer; love; obstruct; shoot.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

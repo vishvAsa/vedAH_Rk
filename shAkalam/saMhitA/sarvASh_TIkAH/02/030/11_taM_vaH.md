@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ divé-dive ← dyú- ~ div- (nominal stem)
 
 śrútyam ← śrútya- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तं वः॒ शर्धं॒ मारु॑तं सुम्न॒युर्गि॒रोप॑ ब्रुवे॒ नम॑सा॒ दैव्यं॒ जन॑म् ।  
+यथा॑ र॒यिं सर्व॑वीरं॒ नशा॑महा अपत्य॒साचं॒ श्रुत्यं॑ दि॒वेदि॑वे ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
 - “day; sky; Svarga.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

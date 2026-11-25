@@ -4,6 +4,7 @@ devataa = "गौः"
 RShiH = "जमदग्निर्भार्गवः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - गौः
@@ -86,7 +87,12 @@ mā́ ← mā́ (invariable)
 
 vadhiṣṭa ← √vadhⁱ- (root)  
 {number:PL, person:2, mood:INJ, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा॒ता रु॒द्राणां॑ दुहि॒ता वसू॑नां॒ स्वसा॑दि॒त्याना॑म॒मृत॑स्य॒ नाभिः॑ ।  
+प्र नु वो॑चं चिकि॒तुषे॒ जना॑य॒ मा गामना॑गा॒मदि॑तिं वधिष्ट ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -212,7 +218,6 @@ _________
 - “kill; assail; kick; māray; destroy; beat.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

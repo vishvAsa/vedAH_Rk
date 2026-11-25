@@ -4,6 +4,7 @@ devataa = "अप्तृणसूर्याः"
 RShiH = "अगस्त्यो मैत्रावरुणिः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अप्तृणसूर्याः
@@ -77,7 +78,12 @@ pinaṣṭi ← √piṣ- (root)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒दृष्टा॑न्हन्त्याय॒त्यथो॑ हन्ति पराय॒ती ।  
+अथो॑ अवघ्न॒ती ह॒न्त्यथो॑ पिनष्टि पिंष॒ती ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - “grind; knead; paste; crush; press out.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

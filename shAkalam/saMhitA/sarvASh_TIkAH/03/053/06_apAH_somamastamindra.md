@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -86,7 +87,12 @@ vājínaḥ ← vājín- (nominal stem)
 
 vimócanam ← vimócana- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अपाः॒ सोम॒मस्त॑मिन्द्र॒ प्र या॑हि कल्या॒णीर्जा॒या सु॒रणं॑ गृ॒हे ते॑ ।  
+यत्रा॒ रथ॑स्य बृह॒तो नि॒धानं॑ वि॒मोच॑नं वा॒जिनो॒ दक्षि॑णावत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - \[noun\], nominative, singular, neuter
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

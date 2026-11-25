@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -17,13 +18,13 @@ ChandaH = "गायत्री"
 ह᳓री इहो᳓प वक्षतः  
 इ᳓न्द्रं सुख᳓तमे र᳓थे
 </details>
-<details><summary>तैत्तिरीयम् मूलम्</summary>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
 
 इ॒मा धा॒ना घृ॑त॒स्नुवः॑ ।  
 हरी॑ इ॒होप॑वक्षतः ।  
 इन्द्रँ॑ सु॒खत॑मे॒ रथे॑ ।
 </details>
-
 
 <details><summary>Vedaweb annotation</summary>
 
@@ -67,7 +68,12 @@ ráthe ← rátha- (nominal stem)
 
 sukhátame ← sukhátama- (nominal stem)  
 {case:LOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मा धा॒ना घृ॑त॒स्नुवो॒ हरी॑ इ॒होप॑ वक्षतः ।  
+इन्द्रं॑ सु॒खत॑मे॒ रथे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -138,7 +144,6 @@ _________
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

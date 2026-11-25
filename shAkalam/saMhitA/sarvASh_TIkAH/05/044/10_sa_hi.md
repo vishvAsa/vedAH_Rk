@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "अवत्सारः, काश्यपः (अन्ये च ऋषयो दृष्टलिङ्गाः)"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -80,7 +81,12 @@ vā́jam ← vā́ja- (nominal stem)
 
 vidúṣā ← √vid- 2 (root)  
 {case:INS, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स हि क्ष॒त्रस्य॑ मन॒सस्य॒ चित्ति॑भिरेवाव॒दस्य॑ यज॒तस्य॒ सध्रेः॑ ।  
+अ॒व॒त्सा॒रस्य॑ स्पृणवाम॒ रण्व॑भिः॒ शवि॑ष्ठं॒ वाजं॑ वि॒दुषा॑ चि॒दर्ध्य॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -184,7 +190,6 @@ _________
 - “boom; stick to.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

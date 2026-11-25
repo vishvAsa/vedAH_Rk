@@ -4,6 +4,7 @@ devataa = "उषाः"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - उषाः
@@ -89,7 +90,12 @@ ná ← ná (invariable)
 
 prajānatī́ ← √jñā- (root)  
 {case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒षा दि॒वो दु॑हि॒ता प्रत्य॑दर्शि॒ ज्योति॒र्वसा॑ना सम॒ना पु॒रस्ता॑त् ।  
+ऋ॒तस्य॒ पन्था॒मन्वे॑ति सा॒धु प्र॑जान॒तीव॒ न दिशो॑ मिनाति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -217,7 +223,6 @@ _________
 - “transgress; damage.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -245,7 +250,6 @@ She follows along the path of truth, straight to the goal. Like one who  knows t
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/02-03.md">
 <details><summary><h2>02-03 ...{Loading}...</h2></summary>
 
@@ -253,7 +257,6 @@ She follows along the path of truth, straight to the goal. Like one who  knows t
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

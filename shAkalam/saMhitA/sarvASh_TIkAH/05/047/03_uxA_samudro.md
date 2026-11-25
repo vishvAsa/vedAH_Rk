@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रतिरथ आत्रेयः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -89,7 +90,12 @@ rájasaḥ ← rájas- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्षा स॑मु॒द्रो अ॑रु॒षः सु॑प॒र्णः पूर्व॑स्य॒ योनिं॑ पि॒तुरा वि॑वेश ।  
+मध्ये॑ दि॒वो निहि॑तः॒ पृश्नि॒रश्मा॒ वि च॑क्रमे॒ रज॑सस्पा॒त्यन्तौ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +232,6 @@ _________
     ant; edge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

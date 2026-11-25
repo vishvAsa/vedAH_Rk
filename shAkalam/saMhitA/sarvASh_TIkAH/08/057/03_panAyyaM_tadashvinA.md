@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "मेध्यः काण्वः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -92,7 +93,12 @@ tā́n ← sá- ~ tá- (pronoun)
 
 yāta ← √yā- 1 (root)  
 {number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒नाय्यं॒ तद॑श्विना कृ॒तं वां॑ वृष॒भो दि॒वो रज॑सः पृथि॒व्याः ।  
+स॒हस्रं॒ शंसा॑ उ॒त ये गवि॑ष्टौ॒ सर्वाँ॒ इत्ताँ उप॑ याता॒ पिब॑ध्यै ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -236,7 +242,6 @@ _________
 - “drink; gulp; soak; drink; suck; inhale.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

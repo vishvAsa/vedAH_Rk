@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "चक्षुः सौर्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -66,7 +67,12 @@ pāhí ← √pā- 1 (root)
 
 pátantyāḥ ← √pat- 1 (root)  
 {case:ABL, gender:F, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जोषा॑ सवित॒र्यस्य॑ ते॒ हरः॑ श॒तं स॒वाँ अर्ह॑ति ।  
+पा॒हि नो॑ दि॒द्युतः॒ पत॑न्त्याः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -150,7 +156,6 @@ _________
     throw; lodge; disappear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

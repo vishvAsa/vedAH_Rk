@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "कक्षीवान् दैर्घतमस औशिजः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ pradháne ← pradhána- (nominal stem)
 
 yamásya ← yamá- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वी॒ळु॒पत्म॑भिराशु॒हेम॑भिर्वा दे॒वानां॑ वा जू॒तिभिः॒ शाश॑दाना ।  
+तद्रास॑भो नासत्या स॒हस्र॑मा॒जा य॒मस्य॑ प्र॒धने॑ जिगाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -192,7 +198,6 @@ _________
     govern; surpass; suppress.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

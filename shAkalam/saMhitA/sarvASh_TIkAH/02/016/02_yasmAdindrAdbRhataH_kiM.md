@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -98,7 +99,12 @@ krátum ← krátu- (nominal stem)
 
 vájram ← vájra- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्मा॒दिन्द्रा॑द्बृह॒तः किं च॒नेमृ॒ते विश्वा॑न्यस्मि॒न्त्सम्भृ॒ताधि॑ वी॒र्या॑ ।  
+ज॒ठरे॒ सोमं॑ त॒न्वी॒३॒॑ सहो॒ महो॒ हस्ते॒ वज्रं॒ भर॑ति शी॒र्षणि॒ क्रतु॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -241,7 +247,6 @@ _________
     kratu \[word\]; desire; resoluteness; ritual.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

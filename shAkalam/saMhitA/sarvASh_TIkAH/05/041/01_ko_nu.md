@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -95,7 +96,12 @@ vā́jān ← vā́ja- (nominal stem)
 
 yajñāyaté ← √yajñāy- (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+को नु वां॑ मित्रावरुणावृता॒यन्दि॒वो वा॑ म॒हः पार्थि॑वस्य वा॒ दे ।  
+ऋ॒तस्य॑ वा॒ सद॑सि॒ त्रासी॑थां नो यज्ञाय॒ते वा॑ पशु॒षो न वाजा॑न् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -235,7 +241,6 @@ _________
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

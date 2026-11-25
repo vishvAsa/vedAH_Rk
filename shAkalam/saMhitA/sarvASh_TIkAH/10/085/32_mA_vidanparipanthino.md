@@ -4,6 +4,7 @@ devataa = "सूर्या"
 RShiH = "सावित्री सूर्या ऋषिका"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्या
@@ -71,7 +72,12 @@ sugébhiḥ ← sugá- (nominal stem)
 
 drāntu ← √drā- 1 (root)  
 {number:PL, person:3, mood:IMP, tense:AOR, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मा वि॑दन्परिप॒न्थिनो॒ य आ॒सीद॑न्ति॒ दम्प॑ती ।  
+सु॒गेभि॑र्दु॒र्गमती॑ता॒मप॑ द्रा॒न्त्वरा॑तयः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -153,7 +159,6 @@ _________
 - “hostility; adversity; foe; envy; stinginess.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

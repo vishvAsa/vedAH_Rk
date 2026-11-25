@@ -4,6 +4,7 @@ devataa = "बृहस्पतिः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - बृहस्पतिः
@@ -74,7 +75,12 @@ támāṁsi ← támas- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+बृह॒स्पतिः॑ प्रथ॒मं जाय॑मानो म॒हो ज्योति॑षः पर॒मे व्यो॑मन् ।  
+स॒प्तास्य॑स्तुविजा॒तो रवे॑ण॒ वि स॒प्तर॑श्मिरधम॒त्तमां॑सि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -194,7 +200,6 @@ _________
     ignorance.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -227,14 +232,6 @@ he, possessing seven mouths [=Aṅgirases] and seven reins [=seers?],  being pow
 his roar.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-With Macdonell, I take mahó jyótiṣaḥ as a separate abl. phrase, rather than a gen. qualifying paramé vyòman with the standard interpr. Since we otherwise know little or nothing about Bṛhaspati’s birth, it is difficult to make an informed choice. I have gone with the abl. interpr. because the common phrase paramá- vyòman- does not seem to be qualified by a gen. phrase elsewhere (though this is not decisive) and because the contrast in this vs. between light and the darkness that Bṛhaspati blows away would be stronger if he were directly born from light.
-
-As usual, numerology is difficult to interpr. I think Geldner is correct that the seven in saptā́sya- ‘having seven mouths’ must be the Aṅgirases (see the same word in the next hymn, IV.51.4). What the seven reins (saptáraśmi-) are is more difficult.
-
-Geldner suggests the seven reins of the sacrifice; I prefer the seven seers, who are, in my opinion, the referents of the phrase saptá raśmáyaḥ in the enigmatic I.105.9 (see comm. ad loc.). This would provide Bṛhaspati with two different connections to poetic speech, appropriately enough.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details><summary><h2>01-06 ...{Loading}...</h2></summary>
 
@@ -242,7 +239,6 @@ As indicated in the published introduction, this section concerns the unitary fi
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

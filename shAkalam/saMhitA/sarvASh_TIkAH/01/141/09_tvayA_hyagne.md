@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -92,7 +93,12 @@ nemíḥ ← nemí- (nominal stem)
 
 paribhū́ḥ ← paribhū́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्वया॒ ह्य॑ग्ने॒ वरु॑णो धृ॒तव्र॑तो मि॒त्रः शा॑श॒द्रे अ॑र्य॒मा सु॒दान॑वः ।  
+यत्सी॒मनु॒ क्रतु॑ना वि॒श्वथा॑ वि॒भुर॒रान्न ने॒मिः प॑रि॒भूरजा॑यथाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
     produce; generate; be; become; arise; come on.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

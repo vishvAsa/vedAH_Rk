@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -80,7 +81,12 @@ pūrvabhā́jaḥ ← pūrvabháj- (nominal stem)
 
 śaṁsanti ← √śaṁs- (root)  
 {number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रा॒त॒र्यावा॑णा प्रथ॒मा य॑जध्वं पु॒रा गृध्रा॒दर॑रुषः पिबातः ।  
+प्रा॒तर्हि य॒ज्ञम॒श्विना॑ द॒धाते॒ प्र शं॑सन्ति क॒वयः॑ पूर्व॒भाजः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -201,7 +207,6 @@ _________
 - \[noun\], accusative, plural, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "श्यावाश्व आत्रेयः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -54,7 +55,12 @@ tveṣárathaḥ ← tveṣáratha- (nominal stem)
 
 śubhaṁyā́vā ← śubhaṁyā́van- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+युवा॒ स मारु॑तो ग॒णस्त्वे॒षर॑थो॒ अने॑द्यः ।  
+शु॒भं॒यावाप्र॑तिष्कुतः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -120,7 +126,6 @@ _________
 - “unhampered; unrestrained; unchallenged.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

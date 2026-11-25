@@ -4,6 +4,7 @@ devataa = "ऋभवः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ऋभवः
@@ -86,7 +87,12 @@ tákṣatha ← √takṣ- (root)
 
 yúvānā ← yúvan- (nominal stem)  
 {case:ACC, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+तद्वो॑ वाजा ऋभवः सुप्रवाच॒नं दे॒वेषु॑ विभ्वो अभवन्महित्व॒नम् ।  
+जिव्री॒ यत्सन्ता॑ पि॒तरा॑ सना॒जुरा॒ पुन॒र्युवा॑ना च॒रथा॑य॒ तक्ष॑थ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -222,7 +228,6 @@ _________
 - “produce; shape; fashion; chisel; invent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "ग्रावाणः"
 RShiH = "ऊर्ध्वग्रावार्बुदिः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - ग्रावाणः
@@ -57,7 +58,12 @@ kartana ← √kr̥- (root)
 
 usrā́ḥ ← usrá- (nominal stem)  
 {case:ACC, gender:F, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ग्रावा॑णो॒ अप॑ दु॒च्छुना॒मप॑ सेधत दुर्म॒तिम् ।  
+उ॒स्राः क॑र्तन भेष॒जम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -128,7 +134,6 @@ _________
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "ऋषभो वैश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -95,7 +96,12 @@ tánā ← tán- (nominal stem)
 
 upaprútam ← upaprút- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र कृ॑ष्टि॒हेव॑ शू॒ष ए॑ति॒ रोरु॑वदसु॒र्यं१॒॑ वर्णं॒ नि रि॑णीते अस्य॒ तम् ।  
+जहा॑ति व॒व्रिं पि॒तुरे॑ति निष्कृ॒तमु॑प॒प्रुतं॑ कृणुते नि॒र्णिजं॒ तना॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -249,7 +255,6 @@ _________
 - “continuity; sequence; longevity.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

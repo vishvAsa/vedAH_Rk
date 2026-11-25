@@ -4,6 +4,7 @@ devataa = "सूर्यः"
 RShiH = "अभितपाः सौर्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सूर्यः
@@ -86,7 +87,12 @@ tát ← sá- ~ tá- (pronoun)
 
 yós ← yós (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माकं॑ देवा उ॒भया॑य॒ जन्म॑ने॒ शर्म॑ यच्छत द्वि॒पदे॒ चतु॑ष्पदे ।  
+अ॒दत्पिब॑दू॒र्जय॑मान॒माशि॑तं॒ तद॒स्मे शं योर॑र॒पो द॑धातन ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

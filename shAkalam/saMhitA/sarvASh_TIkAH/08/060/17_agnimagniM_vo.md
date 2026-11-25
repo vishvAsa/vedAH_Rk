@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "भर्गः प्रागाथः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -65,7 +66,12 @@ carṣaṇīnā́m ← carṣaṇí- (nominal stem)
 
 hótāram ← hótar- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निम॑ग्निं वो॒ अध्रि॑गुं हु॒वेम॑ वृ॒क्तब॑र्हिषः ।  
+अ॒ग्निं हि॒तप्र॑यसः शश्व॒तीष्वा होता॑रं चर्षणी॒नाम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -165,7 +171,6 @@ _________
 - “people.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

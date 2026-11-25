@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ jánān ← jána- (nominal stem)
 
 svaíḥ ← svá- (pronoun)  
 {case:INS, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+विश्वे॑षां वः स॒तां ज्येष्ठ॑तमा गी॒र्भिर्मि॒त्रावरु॑णा वावृ॒धध्यै॑ ।  
+सं या र॒श्मेव॑ य॒मतु॒र्यमि॑ष्ठा॒ द्वा जनाँ॒ अस॑मा बा॒हुभिः॒ स्वैः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
     present(a); independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

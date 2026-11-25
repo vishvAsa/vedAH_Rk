@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "चित्रमहा वासिष्ठः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -86,7 +87,12 @@ te ← tvám (pronoun)
 
 yáḥ ← yá- (pronoun)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒प्त धामा॑नि परि॒यन्नम॑र्त्यो॒ दाश॑द्दा॒शुषे॑ सु॒कृते॑ मामहस्व ।  
+सु॒वीरे॑ण र॒यिणा॑ग्ने स्वा॒भुवा॒ यस्त॒ आन॑ट् स॒मिधा॒ तं जु॑षस्व ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -223,7 +229,6 @@ _________
     approve; affect; attend; befit; blend; contract.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

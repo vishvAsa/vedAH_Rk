@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "वसिष्ठः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -77,7 +78,12 @@ chardíḥ ← chardís- (nominal stem)
 
 nā́satyā ← nā́satya- (nominal stem)  
 {case:NOM, gender:M, number:DU}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अधा॑ ह॒ यन्तो॑ अ॒श्विना॒ पृक्षः॑ सचन्त सू॒रयः॑ ।  
+ता यं॑सतो म॒घव॑द्भ्यो ध्रु॒वं यश॑श्छ॒र्दिर॒स्मभ्यं॒ नास॑त्या ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -180,7 +186,6 @@ _________
 - “Asvins; nāsatya \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

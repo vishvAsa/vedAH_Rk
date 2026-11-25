@@ -4,6 +4,7 @@ devataa = "त्रसदस्युः"
 RShiH = "त्रसदस्युः पौरुकुत्स्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - त्रसदस्युः
@@ -80,7 +81,12 @@ abhíbhūtyojāḥ ← abhíbhūtyojas- (nominal stem)
 
 reṇúm ← reṇú- (nominal stem)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+मां नरः॒ स्वश्वा॑ वा॒जय॑न्तो॒ मां वृ॒ताः स॒मर॑णे हवन्ते ।  
+कृ॒णोम्या॒जिं म॒घवा॒हमिन्द्र॒ इय॑र्मि रे॒णुम॒भिभू॑त्योजाः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -208,7 +214,6 @@ _________
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

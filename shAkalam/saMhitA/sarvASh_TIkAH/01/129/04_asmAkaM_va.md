@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "परुच्छेपो दैवोदासिः"
 ChandaH = "अत्यष्टिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -125,7 +126,13 @@ víśvam ← víśva- (nominal stem)
 
 yám ← yá- (pronoun)  
 {case:ACC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माकं॑ व॒ इन्द्र॑मुश्मसी॒ष्टये॒ सखा॑यं वि॒श्वायुं॑ प्रा॒सहं॒ युजं॒ वाजे॑षु प्रा॒सहं॒ युज॑म् ।  
+अ॒स्माकं॒ ब्रह्मो॒तयेऽवा॑ पृ॒त्सुषु॒ कासु॑ चित् ।  
+न॒हि त्वा॒ शत्रुः॒ स्तर॑ते स्तृ॒णोषि॒ यं विश्वं॒ शत्रुं॑ स्तृ॒णोषि॒ यम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -317,7 +324,6 @@ _________
 - “who; which; yat \[pronoun\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

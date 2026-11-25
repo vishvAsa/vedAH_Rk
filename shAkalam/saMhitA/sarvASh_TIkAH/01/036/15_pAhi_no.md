@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "कण्वो घौरः"
 ChandaH = "बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -74,7 +75,12 @@ bŕ̥hadbhāno ← br̥hádbhānu- (nominal stem)
 
 yáviṣṭhya ← yáviṣṭhya- (nominal stem)  
 {case:VOC, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पा॒हि नो॑ अग्ने र॒क्षसः॑ पा॒हि धू॒र्तेररा॑व्णः ।  
+पा॒हि रीष॑त उ॒त वा॒ जिघां॑सतो॒ बृह॑द्भानो॒ यवि॑ष्ठ्य ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -170,7 +176,6 @@ _________
 - “youngest.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "कुरुसुतिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -66,7 +67,12 @@ dasyuhā́ ← dasyuhán- (nominal stem)
 
 právr̥ddhaḥ ← √vr̥dh- (root)  
 {case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+समित्तान्वृ॑त्र॒हाखि॑द॒त्खे अ॒राँ इ॑व॒ खेद॑या ।  
+प्रवृ॑द्धो दस्यु॒हाभ॑वत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -158,7 +164,6 @@ _________
     behave.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

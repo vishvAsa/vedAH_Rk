@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "श्यावाश्वः"
 ChandaH = "उपरिष्टाज्ज्योतिः"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -98,7 +99,12 @@ naḥ ← ahám (pronoun)
 
 ū́rjam ← ū́rj- (nominal stem)  
 {case:ACC, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+जय॑तं च॒ प्र स्तु॑तं च॒ प्र चा॑वतं प्र॒जां च॑ ध॒त्तं द्रवि॑णं च धत्तम् ।  
+स॒जोष॑सा उ॒षसा॒ सूर्ये॑ण॒ चोर्जं॑ नो धत्तमश्विना ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -246,7 +252,6 @@ _________
 - “Asvins; two.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -273,10 +278,6 @@ Conquer and sing praise and offer help. – Provide progeny and provide  propert
 In concert with Dawn and the Sun, provide nourishment for us, o  Aśvins.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-The distribution of ca’s in pāda a is somewhat puzzling or, perhaps, syncopated, with the 2nd ca following preverb+verb (prá stutaṃ ca), though the other two preverb/verb combinations in this tṛca place the ca in the expected position after the preverb (ā́ca gachatam 10a and immediately following prá cāvatam 11a). This does not seem to be metri causa, or at least not in some obvious way.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
@@ -284,7 +285,6 @@ The first hemistichs of the three verses in this tṛca are excessively provided
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

@@ -4,6 +4,7 @@ devataa = "अश्विनौ"
 RShiH = "भौमोत्रिः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अश्विनौ
@@ -89,7 +90,12 @@ gharmám ← gharmá- (nominal stem)
 
 pīpivā́ṁsam ← √pī- 1 (root)  
 {case:ACC, gender:M, number:SG, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ भा॑त्य॒ग्निरु॒षसा॒मनी॑क॒मुद्विप्रा॑णां देव॒या वाचो॑ अस्थुः ।  
+अ॒र्वाञ्चा॑ नू॒नं र॑थ्ये॒ह या॑तं पीपि॒वांस॑मश्विना घ॒र्ममच्छ॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -227,7 +233,6 @@ _________
 - “towards; accha \[prefix\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

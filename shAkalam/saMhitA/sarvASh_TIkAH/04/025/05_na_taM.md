@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ somī́ ← somín- (nominal stem)
 
 suprāvī́ḥ ← suprāvī́- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न तं जि॑नन्ति ब॒हवो॒ न द॒भ्रा उ॒र्व॑स्मा॒ अदि॑तिः॒ शर्म॑ यंसत् ।  
+प्रि॒यः सु॒कृत्प्रि॒य इन्द्रे॑ मना॒युः प्रि॒यः सु॑प्रा॒वीः प्रि॒यो अ॑स्य सो॒मी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -251,7 +257,6 @@ _________
 - \[noun\], nominative, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -279,7 +284,6 @@ Dear to Indra is the good performer (of sacrifice), dear the zealous man,  dear 
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/025/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
@@ -287,7 +291,6 @@ For suprāvī́-/duṣprāvī́- see comm. ad I.34.4.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

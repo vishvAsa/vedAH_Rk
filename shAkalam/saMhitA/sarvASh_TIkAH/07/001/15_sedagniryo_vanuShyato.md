@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वसिष्ठः"
 ChandaH = "विराट्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -69,7 +70,12 @@ sujātā́saḥ ← sujātá- (nominal stem)
 
 vīrā́ḥ ← vīrá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सेद॒ग्निर्यो व॑नुष्य॒तो नि॒पाति॑ समे॒द्धार॒मंह॑स उरु॒ष्यात् ।  
+सु॒जा॒तासः॒ परि॑ चरन्ति वी॒राः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -161,7 +167,6 @@ _________
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

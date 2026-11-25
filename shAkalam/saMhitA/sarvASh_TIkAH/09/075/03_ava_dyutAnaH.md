@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "कविः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -89,7 +90,12 @@ uṣásaḥ ← uṣás- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अव॑ द्युता॒नः क॒लशाँ॑ अचिक्रद॒न्नृभि॑र्येमा॒नः कोश॒ आ हि॑र॒ण्यये॑ ।  
+अ॒भीमृ॒तस्य॑ दो॒हना॑ अनूष॒ताधि॑ त्रिपृ॒ष्ठ उ॒षसो॒ वि रा॑जति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -219,7 +225,6 @@ _________
 - “govern; shine; glitter; direct.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अक्षकृषिप्रशंसा"
 RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अक्षकृषिप्रशंसा
@@ -80,7 +81,12 @@ sántaḥ ← √as- 1 (root)
 
 śītā́ḥ ← śītá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नी॒चा व॑र्तन्त उ॒परि॑ स्फुरन्त्यह॒स्तासो॒ हस्त॑वन्तं सहन्ते ।  
+दि॒व्या अङ्गा॑रा॒ इरि॑णे॒ न्यु॑प्ताः शी॒ताः सन्तो॒ हृद॑यं॒ निर्द॑हन्ति ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -191,7 +197,6 @@ _________
     distress; destroy.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

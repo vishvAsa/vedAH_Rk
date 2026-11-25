@@ -4,6 +4,7 @@ devataa = "राज्ञस्तुतिः"
 RShiH = "ध्रुवः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - राज्ञस्तुतिः
@@ -83,7 +84,12 @@ rāṣṭrám ← rāṣṭrá- (nominal stem)
 
 tvát ← tvám (pronoun)  
 {case:ABL, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ त्वा॑हार्षम॒न्तरे॑धि ध्रु॒वस्ति॒ष्ठावि॑चाचलिः ।  
+विश॑स्त्वा॒ सर्वा॑ वाञ्छन्तु॒ मा त्वद्रा॒ष्ट्रमधि॑ भ्रशत् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -203,7 +209,6 @@ _________
 - “fall; decay; fail; lose; apostatize; disappear.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

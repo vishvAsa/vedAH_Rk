@@ -4,6 +4,7 @@ devataa = "द्यावापृथिव्यौ"
 RShiH = "दीर्घतमा औचथ्यः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - द्यावापृथिव्यौ
@@ -80,7 +81,12 @@ dhármaṇā ← dhárman- (nominal stem)
 
 sū́ryaḥ ← sū́rya- (nominal stem)  
 {case:NOM, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते हि द्यावा॑पृथि॒वी वि॒श्वश॑म्भुव ऋ॒ताव॑री॒ रज॑सो धार॒यत्क॑वी ।  
+सु॒जन्म॑नी धि॒षणे॑ अ॒न्तरी॑यते दे॒वो दे॒वी धर्म॑णा॒ सूर्यः॒ शुचिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -215,7 +221,6 @@ _________
     impeccant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

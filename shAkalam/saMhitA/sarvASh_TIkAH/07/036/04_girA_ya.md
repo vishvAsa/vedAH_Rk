@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -92,7 +93,12 @@ sukrátum ← sukrátu- (nominal stem)
 
 vavr̥tyām ← √vr̥t- (root)  
 {number:SG, person:1, mood:OPT, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+गि॒रा य ए॒ता यु॒नज॒द्धरी॑ त॒ इन्द्र॑ प्रि॒या सु॒रथा॑ शूर धा॒यू ।  
+प्र यो म॒न्युं रिरि॑क्षतो मि॒नात्या सु॒क्रतु॑मर्य॒मणं॑ ववृत्याम् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -237,7 +243,6 @@ _________
     account for; begin; do; inhere; revolve.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

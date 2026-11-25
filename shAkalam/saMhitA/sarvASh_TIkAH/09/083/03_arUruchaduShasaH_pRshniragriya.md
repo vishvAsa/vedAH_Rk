@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "पवित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -83,7 +84,12 @@ nr̥cákṣasaḥ ← nr̥cákṣas- (nominal stem)
 
 pitáraḥ ← pitár- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अरू॑रुचदु॒षसः॒ पृश्नि॑रग्रि॒य उ॒क्षा बि॑भर्ति॒ भुव॑नानि वाज॒युः ।  
+मा॒या॒विनो॑ ममिरे अस्य मा॒यया॑ नृ॒चक्ष॑सः पि॒तरो॒ गर्भ॒मा द॑धुः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -206,7 +212,6 @@ _________
     have; enter (a state); supply; hold; take; show.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "विष्णुर्देवा वा"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विष्णुर्देवा वा
@@ -60,7 +61,12 @@ pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)
 
 saptá ← saptá- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अतो॑ दे॒वा अ॑वन्तु नो॒ यतो॒ विष्णु॑र्विचक्र॒मे ।  
+पृ॒थि॒व्याः स॒प्त धाम॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -133,7 +139,6 @@ _________
     location.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

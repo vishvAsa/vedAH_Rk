@@ -4,6 +4,7 @@ devataa = "आपः अपान्नपाद्वा"
 RShiH = "कवष ऐलूषः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - आपः अपान्नपाद्वा
@@ -86,7 +87,12 @@ hinotana ← √hi- (root)
 
 prá ← prá (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यो वो॑ वृ॒ताभ्यो॒ अकृ॑णोदु लो॒कं यो वो॑ म॒ह्या अ॒भिश॑स्ते॒रमु॑ञ्चत् ।  
+तस्मा॒ इन्द्रा॑य॒ मधु॑मन्तमू॒र्मिं दे॑व॒माद॑नं॒ प्र हि॑णोतनापः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “water; body of water; water; ap \[word\]; juice; jala.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

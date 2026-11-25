@@ -4,6 +4,7 @@ devataa = "मरुतः"
 RShiH = "स्यूमरश्मिर्भार्गवः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मरुतः
@@ -86,7 +87,12 @@ suśármāṇaḥ ← suśárman- (nominal stem)
 
 yaté ← √i- 1 (root)  
 {case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्न ये भ्राज॑सा रु॒क्मव॑क्षसो॒ वाता॑सो॒ न स्व॒युजः॑ स॒द्यऊ॑तयः ।  
+प्र॒ज्ञा॒तारो॒ न ज्येष्ठाः॑ सुनी॒तयः॑ सु॒शर्मा॑णो॒ न सोमा॑ ऋ॒तं य॒ते ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -230,7 +236,6 @@ _________
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

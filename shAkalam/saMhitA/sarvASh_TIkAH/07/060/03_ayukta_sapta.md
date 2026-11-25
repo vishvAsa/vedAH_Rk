@@ -4,6 +4,7 @@ devataa = "मित्रावरुणौ"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - मित्रावरुणौ
@@ -86,7 +87,12 @@ yáḥ ← yá- (pronoun)
 
 yūthā́ ← yūthá- (nominal stem)  
 {case:ACC, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अयु॑क्त स॒प्त ह॒रितः॑ स॒धस्था॒द्या ईं॒ वह॑न्ति॒ सूर्यं॑ घृ॒ताचीः॑ ।  
+धामा॑नि मित्रावरुणा यु॒वाकुः॒ सं यो यू॒थेव॒ जनि॑मानि॒ चष्टे॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -209,7 +215,6 @@ _________
 - “watch; look.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

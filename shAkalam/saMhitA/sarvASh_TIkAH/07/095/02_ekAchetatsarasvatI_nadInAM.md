@@ -4,6 +4,7 @@ devataa = "सरस्वती"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - सरस्वती
@@ -83,7 +84,12 @@ nā́huṣāya ← nā́huṣa- (nominal stem)
 
 páyaḥ ← páyas- (nominal stem)  
 {case:NOM, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+एका॑चेत॒त्सर॑स्वती न॒दीनां॒ शुचि॑र्य॒ती गि॒रिभ्य॒ आ स॑मु॒द्रात् ।  
+रा॒यश्चेत॑न्ती॒ भुव॑नस्य॒ भूरे॑र्घृ॒तं पयो॑ दुदुहे॒ नाहु॑षाय ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “Yayāti.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

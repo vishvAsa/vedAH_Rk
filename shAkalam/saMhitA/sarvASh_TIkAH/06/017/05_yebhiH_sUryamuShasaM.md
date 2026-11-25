@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "भरद्वाजो बार्हस्पत्यः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -89,7 +90,12 @@ sádasaḥ ← sádas- (nominal stem)
 
 svā́t ← svá- (pronoun)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+येभिः॒ सूर्य॑मु॒षसं॑ मन्दसा॒नोऽवा॑स॒योऽप॑ दृ॒ळ्हानि॒ दर्द्र॑त् ।  
+म॒हामद्रिं॒ परि॒ गा इ॑न्द्र॒ सन्तं॑ नु॒त्था अच्यु॑तं॒ सद॑स॒स्परि॒ स्वात् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -221,7 +227,6 @@ _________
     present(a); independent.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -249,7 +254,6 @@ You shoved the great, immoveable rock that was enclosing the cattle  from its ow
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/03-05ab.md">
 <details><summary><h2>03-05ab ...{Loading}...</h2></summary>
 
@@ -257,7 +261,6 @@ mándatu tvā in 3a inaugurates a 3-vs. sequence chained together by the root �
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

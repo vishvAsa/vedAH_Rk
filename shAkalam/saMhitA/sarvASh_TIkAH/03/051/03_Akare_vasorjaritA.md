@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "गाथिनो विश्वामित्रः"
 ChandaH = "जगती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -80,7 +81,12 @@ satrāsā́ham ← satrāsáh- (nominal stem)
 
 stuhi ← √stu- (root)  
 {number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒क॒रे वसो॑र्जरि॒ता प॑नस्यतेऽने॒हसः॒ स्तुभ॒ इन्द्रो॑ दुवस्यति ।  
+वि॒वस्व॑तः॒ सद॑न॒ आ हि पि॑प्रि॒ये स॑त्रा॒साह॑मभिमाति॒हनं॑ स्तुहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -197,7 +203,6 @@ _________
 - “laud; praise; declare; stu.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

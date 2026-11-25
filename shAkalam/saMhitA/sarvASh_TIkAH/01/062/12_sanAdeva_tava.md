@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "नोधा गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -95,7 +96,12 @@ naḥ ← ahám (pronoun)
 
 táva ← tvám (pronoun)  
 {case:GEN, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒नादे॒व तव॒ रायो॒ गभ॑स्तौ॒ न क्षीय॑न्ते॒ नोप॑ दस्यन्ति दस्म ।  
+द्यु॒माँ अ॑सि॒ क्रतु॑माँ इन्द्र॒ धीरः॒ शिक्षा॑ शचीव॒स्तव॑ नः॒ शची॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -233,7 +239,6 @@ _________
 - “Śacī; power; dexterity; ability; aid.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

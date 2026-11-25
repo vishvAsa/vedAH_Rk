@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "सोभरिः काण्वः"
 ChandaH = "ककुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -72,7 +73,12 @@ purā́ ← purā́ (invariable)
 
 vidmá ← √vid- 2 (root)  
 {number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नूत्ना॒ इदि॑न्द्र ते व॒यमू॒ती अ॑भूम न॒हि नू ते॑ अद्रिवः ।  
+वि॒द्मा पु॒रा परी॑णसः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -169,7 +175,6 @@ _________
 - “plenty.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "वामदेवो गौतमः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -80,7 +81,12 @@ devásya ← devá- (nominal stem)
 
 mármr̥jataḥ ← √mr̥j- (root)  
 {case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अक॑र्म ते॒ स्वप॑सो अभूम ऋ॒तम॑वस्रन्नु॒षसो॑ विभा॒तीः ।  
+अनू॑नम॒ग्निं पु॑रु॒धा सु॑श्च॒न्द्रं दे॒वस्य॒ मर्मृ॑जत॒श्चारु॒ चक्षुः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -211,7 +217,6 @@ _________
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

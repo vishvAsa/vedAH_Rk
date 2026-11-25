@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "मनुः सांवरणः"
 ChandaH = "अनुष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -62,7 +63,12 @@ svādhyàḥ ← svādhī́- (nominal stem)
 
 svarvídaḥ ← svarvíd- (nominal stem)  
 {case:NOM, gender:M, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सोमाः॑ पवन्त॒ इन्द॑वो॒ऽस्मभ्यं॑ गातु॒वित्त॑माः ।  
+मि॒त्राः सु॑वा॒ना अ॑रे॒पसः॑ स्वा॒ध्यः॑ स्व॒र्विदः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -145,7 +151,6 @@ _________
 - “finding.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -172,14 +177,12 @@ The soma drops purify themselves, as best pathfinders for us, allies, unblemishe
 ᳓
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">
 <details><summary><h2>10-12 ...{Loading}...</h2></summary>
 
 Again no particular signs of cohesion, save for the X-víd- ‘finding X’ cmpds in 10b, 10d, and 11d.
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

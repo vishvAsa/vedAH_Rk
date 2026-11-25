@@ -4,6 +4,7 @@ devataa = "विश्वेदेवाः"
 RShiH = "प्रजापतिर्वैश्वामित्रः प्रजापतिर्वाच्यो वा"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - विश्वेदेवाः
@@ -83,7 +84,12 @@ divyaíḥ ← divyá- (nominal stem)
 
 śr̥ṇótu ← √śru- (root)  
 {number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒मं म॒हे वि॑द॒थ्या॑य शू॒षं शश्व॒त्कृत्व॒ ईड्या॑य॒ प्र ज॑भ्रुः ।  
+शृ॒णोतु॑ नो॒ दम्ये॑भि॒रनी॑कैः शृ॒णोत्व॒ग्निर्दि॒व्यैरज॑स्रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -199,7 +205,6 @@ _________
 - “ceaseless; ageless; incessant.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

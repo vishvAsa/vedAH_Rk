@@ -4,6 +4,7 @@ devataa = "पवमानः सोमः"
 RShiH = "अवत्सारः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पवमानः सोमः
@@ -57,7 +58,12 @@ háriḥ ← hári- (nominal stem)
 
 tuñjānáḥ ← √tuj- (root)  
 {case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भि प्रि॒याणि॒ काव्या॒ विश्वा॒ चक्षा॑णो अर्षति ।  
+हरि॑स्तुञ्जा॒न आयु॑धा ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -123,7 +129,6 @@ _________
 - “weapon; āyudha \[word\].”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

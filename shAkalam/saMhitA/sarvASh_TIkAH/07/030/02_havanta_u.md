@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "वसिष्ठः"
 ChandaH = "त्रिष्टुप्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -83,7 +84,12 @@ tvám ← tvám (pronoun)
 
 vr̥trā́ṇi ← vr̥trá- (nominal stem)  
 {case:NOM, gender:N, number:PL}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+हव॑न्त उ त्वा॒ हव्यं॒ विवा॑चि त॒नूषु॒ शूराः॒ सूर्य॑स्य सा॒तौ ।  
+त्वं विश्वे॑षु॒ सेन्यो॒ जने॑षु॒ त्वं वृ॒त्राणि॑ रन्धया सु॒हन्तु॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -204,7 +210,6 @@ _________
 - “killing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

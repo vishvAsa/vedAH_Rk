@@ -4,6 +4,7 @@ devataa = "पूषा"
 RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
 ChandaH = "पुरउष्णिक्"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - पूषा
@@ -60,7 +61,12 @@ dadhanvátaḥ ← dadhanvánt- (nominal stem)
 
 súpūrṇasya ← súpūrṇa- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+दृते॑रिव तेऽवृ॒कम॑स्तु स॒ख्यम् ।  
+अच्छि॑द्रस्य दध॒न्वतः॒ सुपू॑र्णस्य दध॒न्वतः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -136,7 +142,6 @@ _________
 - \[noun\], genitive, singular, masculine
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -168,10 +173,6 @@ Skin containing curds: said to be always carried in **Pūṣan**'s chariot
 an unsplit one that holds curds, a well-filled one that holds curds.”
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Geldner and Renou take the comparison to be between the partnership and the leather bag (e.g., Geldner “Deine … Freundschaft soll sein wie der … Schlauch”), but the partnership is in the nom. (sakhyám) and the bag is in the gen. (dṛ́teḥ), as is Pūṣan (te). Given the deep uncertainty of this part of the hymn, grammar is all we have to hold onto, and grammar tells us that it is Pūṣan who is compared to the bag. For the partnership with Pūṣan, see I.138.4fg.
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
 <details><summary><h2>14-19 ...{Loading}...</h2></summary>
 
@@ -179,7 +180,6 @@ On these Pūṣan vss., see published introduction.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 

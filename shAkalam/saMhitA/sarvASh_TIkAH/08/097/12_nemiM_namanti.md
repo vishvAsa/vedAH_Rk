@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "रेभः काश्यपः"
 ChandaH = "उपरिष्टाद्बृहती"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -75,7 +76,12 @@ tarasvínaḥ ← tarasvín- (nominal stem)
 
 sám ← sám (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ने॒मिं न॑मन्ति॒ चक्ष॑सा मे॒षं विप्रा॑ अभि॒स्वरा॑ ।  
+सु॒दी॒तयो॑ वो अ॒द्रुहोऽपि॒ कर्णे॑ तर॒स्विनः॒ समृक्व॑भिः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -174,7 +180,6 @@ _________
 - “singing.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

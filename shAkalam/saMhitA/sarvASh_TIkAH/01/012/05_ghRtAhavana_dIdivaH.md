@@ -4,6 +4,7 @@ devataa = "अग्निः"
 RShiH = "मेधातिथिः काण्वः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - अग्निः
@@ -57,7 +58,12 @@ rakṣasvínaḥ ← rakṣasvín- (nominal stem)
 
 tvám ← tvám (pronoun)  
 {case:NOM, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+घृता॑हवन दीदिवः॒ प्रति॑ ष्म॒ रिष॑तो दह ।  
+अग्ने॒ त्वं र॑क्ष॒स्विनः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -122,7 +128,6 @@ _________
 - “malevolent; demoniac; obsessed.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

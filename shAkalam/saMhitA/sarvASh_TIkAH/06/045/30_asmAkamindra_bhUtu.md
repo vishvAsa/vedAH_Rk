@@ -4,6 +4,7 @@ devataa = "इन्द्रः"
 RShiH = "शंयुर्बार्हस्पत्यः"
 ChandaH = "गायत्री"
 +++
+
 <details><summary>अधिमन्त्रम् - sa</summary>
 
 - देवता - इन्द्रः
@@ -63,7 +64,12 @@ mahé ← máh- (nominal stem)
 
 rāyé ← rayí- ~ rāy- (nominal stem)  
 {case:DAT, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्माक॑मिन्द्र भूतु ते॒ स्तोमो॒ वाहि॑ष्ठो॒ अन्त॑मः ।  
+अ॒स्मान्रा॒ये म॒हे हि॑नु ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -142,7 +148,6 @@ _________
 - “impel; send; spur; stimulate; urge.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -173,12 +178,6 @@ Most elevating praise: stomo vāhiṣṭhaḥ = voḍhṛtama, most bearing, upl
 Let ours be the praise song that best conveys you nearest, Indra. Impel us toward great wealth.
 </details>
 
-<details><summary>Jamison Brereton Notes</summary>
-
-Notice the very un-Ārya phonology of the name of the patron, Bṛbu with two plain b’s. (On Bṛbu as patron see Kuiper, Aryans, p. 6.) It is probably not an accident that this vs. contains only one of two reff. to the Gaṅgā in the RV (the other a voc. gaṅge in X.75.5), since the Gaṅgā is at the limits of the RVic geographical horizon.
-
-The simile is more lit. “(he is) broad like the Gangetic girth.”
-
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/28-30.md">
 <details><summary><h2>28-30 ...{Loading}...</h2></summary>
 
@@ -186,7 +185,6 @@ Again no unity in the tṛca.
 
 </details>
 </div>
-</details>
 
 <details><summary>Griffith</summary>
 
