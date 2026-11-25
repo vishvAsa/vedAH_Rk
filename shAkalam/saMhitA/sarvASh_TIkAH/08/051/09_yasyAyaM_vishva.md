@@ -92,6 +92,12 @@ túbhya ← tvám (pronoun)
 ति॒रश्चि॑द॒र्ये रुश॑मे॒ परी॑रवि॒ तुभ्येत्सो अ॑ज्यते र॒यिः ॥
 </details>
 
+<details><summary>मूलम् - काण्वम्</summary>
+
+यस्या॒यं विश्व॒ आर्यो॒ दासः॑ शेवधि॒पा अ॒रिः । 
+ति॒रश्चि॑द॒र्ये रु॒शमे॒ पवी॑रवि॒ तुभ्येत्सो अ॑ज्यते र॒यिः ॥१३॥ ८२
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यस्य॑ । अ॒यम् । विश्वः॑ । आर्यः॑ । दासः॑ । शे॒व॒धि॒ऽपाः । अ॒रिः ।  
@@ -219,12 +225,49 @@ _________
 Sayana bhashya empty
 </details>
 
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+यस्य इन्द्रस्य, अयं विश्वः प्रतीयमानः प्रपञ्चः वर्णाश्रमादि-लक्षणः आर्य: अरणीयः दासः उपक्षीणः यस्य शेवधिपाः शेवधि: निधिः, यज्ञाख्यस्य निधेः पालयिता ।
+
+अरिः शत्रुभ्यः अग्निर् एव इति शेषः ।
+
+कथं शेवधित्वम् इत्युच्यते, अर्ये उक्त-लक्षणे अग्नौ, रुशमे दीप्यमाने हिंसके वा, पवीरवि पावनं पविः वज्रं तस्य रव इव रवः यस्य सः पवीरवः, सः अस्य अस्तीति पवीरवी, तस्मिन् उक्त-लक्षणे अग्नौ सः प्रसिद्धो रयिः आज्य-सोमादि-लक्षणः, तुभ्येत् तुभ्यं त्वद्-अर्थम् अपि अज्यते सिच्यते हूयते इत्य् अर्थः ।
+
+अतस् तस्य शेवधित्वम् ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+सौभी गायत्री ।
+
+ऋषिर् देवलो ऽसितः ।
+
+उपास्मै गायत ।
+
+हे नरः, ऋत्विजः ।
+
+अस्मै पवमानाय महा-पवित्र-रूपाय ।
+
+इन्दवे सोमाय ।
+
+उपगायत उपगानं कुरुत ।
+
+देवान् अभि इयक्षते ।
+
+यष्टुमिच्छतीति इयक्षते ॥ ६२ ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
 **English translation:**  
 
 “That wealth, which every **Ārya** here covets and every miserly **Dāsa**, is sent direct to yo, the piousRuśama Paviru.”
+</details>
+
+<details><summary>Griffith</summary>
+
+Good Lord of wealth is he to whom all Âryas, Dâsas here belong. E’en over unto thee, the pious Rusama Pavîru, is that wealth brought nigh.
 </details>
 
 <details><summary>Jamison Brereton</summary>

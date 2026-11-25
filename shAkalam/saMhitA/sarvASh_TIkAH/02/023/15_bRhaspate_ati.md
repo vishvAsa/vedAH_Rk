@@ -101,6 +101,11 @@ tát ← sá- ~ tá- (pronoun)
 यत् । दी॒दय॑त् । शव॑सा । ऋ॒त॒ऽप्र॒जा॒त॒ । तत् । अ॒स्मासु॑ । द्रवि॑णम् । धे॒हि॒ । चि॒त्रम् ॥
 </details>
 
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+बृह॑स्पते। अति॑। यत्। अ॒र्यः। अर्हा॑त्। द्यु॒मदिति॑ द्यु॒ऽमत्। वि॒भातीति॑ वि॒ऽभाति॑। क्रतु॑म॒दिति॒ क्रतु॑ऽमत्। जने॑षु। यत्। दी॒दय॑त्। शव॑सा। ऋ॒त॒प्र॒जा॒तेत्यृ॑तऽप्रजात। तत्। अ॒स्मासु॑। द्रवि॑णम्। धे॒हि॒। चि॒त्रम्।
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *bṛhaspate* ← *bṛhaspati*
@@ -287,6 +292,11 @@ That shall be resplendent in glory, O thou who art born of holy order [2].
 
 Brhaspati, that which the foe deserves not which shines among the folk effectual, splendid,  
      That, Son of Law I which is with might refulgent-that treasure wonderful bestow thou on us.
+</details>
+
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
+
+Give us, Brihaspati, that wondrous treasure, that which exceeds the merit of the foeman, Which shines among the folk effectual, splendid, that, Son of Law, which is with might refulgent.
 </details>
 
 <details><summary>Geldner</summary>

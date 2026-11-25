@@ -75,6 +75,16 @@ sómapītaye ← sómapīti- (nominal stem)
 नि॒युत्वा॑न् । सोम॑ऽपीतये ॥
 </details>
 
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+वायो॒ इति॒ वायो॑। ये। ते॒। स॒ह॒स्रिणः॑। रथा॑सः। तेभिः॑। आ। ग॒हि॒। नि॒युत्वा॑न्। सोम॑पीतय॒ इति॒ सोम॑ऽपीतये। ३२।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+वायो॒ इति॒ वायो॑। ये। ते॒। स॒ह॒स्रिणः॑। रथा॑सः। तेभिः॑। आ। ग॒हि॒। नि॒युत्वा॑न्। सोम॑पीतय॒ इति॒ सोम॑ऽपीतये। ५।
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *vāyo* ← *vāyu*
@@ -159,6 +169,109 @@ _________
 हेवायो तेत्वदीयायेसहस्रिणः सहस्रसङ्ख्याकारथासः रथाः तेभिस्तैर्नियुत्वान् नियुद्भिर्युक्त स्त्वं सोमपीतये सोमपानार्थमागह्यागच्छ नानारूपत्वात् वायोः सर्वाभिर्विभूतिभिः सहा- गमनं प्रार्थ्यतइतिभावः ॥ १ ॥
 </details>
 
+<details><summary>उवट-टीका</summary>
+
+वायो ये।
+
+हे वायो, ये ते तव।
+
+सहस्रिणः सहस्रसंख्याभिर्युक्ताः।
+
+रथासः रथा एव रथासः।
+
+तेभिः तैः आगहि आगच्छ।
+
+नियुत्वान्भूत्वा सोमपीतये सोमपानाय॥ ३२॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हे वायो, ये ते तव सहस्रिणः सहस्रसंख्याका रथासः रथाः तेभिस्तैः रथैः आगहि आगच्छ।
+
+किमर्थं।
+
+सोमपानाय।
+
+कीदृशस्त्वम्।
+
+नियुत्वानश्वायुक्तः।
+
+नियुतो वायोरिति निघण्टूक्तेः॥ ३२॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ पञ्चमीहे वायो !
+
+ये सहस्रिणः सहस्र-संख्यायुक्ता रथासः रथाः ते वसन्ति, तेभिः तैः आगहि आगच्छ अस्मद्-यज्ञम् ।
+
+कीदृशस्त्वम् ?
+
+नियुत्वान् नियुत्संज्ञकाश्ववान्, सोम-पीतये सोम-पानार्थम् ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+'वायो ये' इति ।
+
+वायुदेवत्या गायत्री ।
+
+हे वायो "ये ते तव । ये सहस्रिणः
+तेभिः तैः रथैः करण-भूतैः युक्तः नियुत्वान् ।
+सहस्र-संख्याताः रथासः रथाः अतिरथाः सन्ति
+आगहि आगच्छ ।
+नियुत्वान् इतीश्वर-नाम। ईश्वरो वायुस्त्वम् सोम-पानार्थम् ॥२७॥
+सोमपीतये । यज्ञे
+</details>
+
+<details><summary>अनन्ताचार्य-टीका</summary>
+
+'वायो ये'।
+
+वायुदेवत्या गायत्री ।
+
+हे वायो ते तव सहस्रिणः सहस्त्र-संख्याकाः 'ये "रथासः रथाः सन्ति । तेभिः तैः रथैः आगहि आगच्छतु । अनुनासिकलोपादिश्छान्दसः । किमर्थम् "सोम-पीतये सोम-पानाय ।
+
+कीदृशस्त्वम् ।
+
+"नियुत्वान् । सहस्र-संख्यातः अधिका "नियुतः अश्वा यस्य सः तथा ॥ ५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (वायो) पवन के तुल्य वर्त्तमान विद्वन् ! (ये) जो (ते) आप के (सहस्रिणः) प्रशस्त सहस्रों मनुष्यों से युक्त (रथासः) सुन्दर आराम देनेवाले यान हैं, (तेभिः) उन के सहित (नियुत्वान्) समर्थ हुए आप (सोमपीतये) सोम ओषधि का रस पीने के लिये (आ, गहि) आइये ॥३२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। हे मनुष्यो ! जैसे वायु की असंख्य रमण करने योग्य गति हैं, वैसे अनेक प्रकार की गतियों से समर्थ होके ऐश्वर्य को भोगो ॥३२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे वायो वायुरिव वर्त्तमान विद्वन् ! ये ते सहस्रिणो रथासः सन्ति, तेभिः सह नियुत्वान्त्संस्त्वं सोमपीतय आ गहि ॥३२ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। हे मनुष्याः ! यथा वायोरसंख्या रमणीया गतयः सन्ति, तथा विविधाभिर्गतिभिः समर्था भूत्वैश्वर्यं भुङ्ग्ध्वम् ॥३२ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे माणसांनो ! वायूच्या रमण करण्यायोग्य असंख्य गती आहेत तशा अनेक प्रकारच्या गतीने तुम्हीही समर्थ बनून ऐश्वर्य भोगा.
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -181,7 +294,10 @@ O Vāyu, the chariots in thousands that are yours—with them come here, you wit
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 This tṛca is characterized by lexical chaining. The first pāda of vs. 2 reprises niyútvān from 1c, vāyo from (accented) vā́yo (1a), and ā́gahi (1b). Vs. 3 is less closely tied to what precedes, but śukrá- ‘clear’, which characterizes the first drink of soma, offered to Vāyu, is repeated in 3a from 2b, and niyútvant- also recurs from 1c and 2a. The impv. píbatam (3c) picks up (sóma-)pītaye from 1c. More subtly, ā́yātam repeats the preverb of ā́gahi (1b, 2a) and also echoes the unrelated verb ayāmi of 2b.
+</details>
 
 </details>
 </div>
@@ -190,6 +306,11 @@ This tṛca is characterized by lexical chaining. The first pāda of vs. 2 repri
 
 O VAYU, come to us with all the thousand chariots that are thine,  
      Team-borne, to drink the Soma juice.
+</details>
+
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
+
+With all the thousand chariots that are thine, O Vâyu, come to us, Team-drawn, to drink the Soma juice.
 </details>
 
 <details><summary>Geldner</summary>
@@ -213,6 +334,11 @@ Mit tausend Wagen die du hast, o Yāju, komme her zu uns, Zum Somatrunk mit Viel
 
 - वायु:
 - गृत्समदः शौनकः
+- गायत्री
+- षड्जः
+
+- वायुर्देवता
+- गृत्समद ऋषिः
 - गायत्री
 - षड्जः
 </details>

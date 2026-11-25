@@ -75,6 +75,11 @@ rayím ← rayí- ~ rāy- (nominal stem)
 दध॑त् । र॒यिम् । मयि॑ । पोष॑म् ॥
 </details>
 
+<details><summary>पदपाठः - काण्वः</summary>
+
+अग्ने॑। पव॑स्व। स्वपा॒ इति॑ सु॒ऽअपाः॑। अ॒स्मेऽइत्य॒स्मे। वर्चः॑ सु॒वीर्य्य॒मिति॑ सु॒ऽवीर्य्य॑म्। दध॑त्। र॒यिम्। मयि॑। पोष॑म्।
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *agne* ← *agni*
@@ -182,6 +187,13 @@ _____________
 हे अग्ने शोभनकर्मा त्वमसि अस्मान् शोभनानुष्ठानान् कुरु । अस्मदर्थं शोभनं वीर्यं तेजो दीप्तिं च बलं वा शोधय प्रापय । पोषं वृद्धियुक्तं रयिं धनं च मयि दधत् स्थापयन्निति ॥
 </details>
 
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+त्रयोदशे ऽनुवाके प्रथमाति-ग्राह्यस्य ग्रहण-भक्षण-मन्त्रावुक्तौ ।
+
+चतुर्-दशे द्वितीयाति-ग्राह्यस्य ग्रहण-भक्षण-मन्त्रावुच्येते ।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -199,11 +211,14 @@ establishing in me wealth and thriving.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/19-21.md">
 <details><summary><h2>19-21 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 On this tṛca see published introduction. It is so insistently Agni-focused (all three vss.
 
 begin with a form of that stem, two as voc.) that the Anukramaṇī lists Agni as the deity of the three vss. But it is of course far more likely that Soma is being identified with Agni here.
 
 The equation and poetic merging of these two ritual gods is found elsewhere, most notably in “the hardest hymn in the RV” (V.44), which is simultaneously applicable to both gods throughout its length. Their blending is shown here by the use of both Somian and Agnian vocab.: for the latter, see esp. puróhitaḥ (20b); for the former, the three forms of páva-, one each in each vs.: 19a pavase, 20a pávamānaḥ, 21a pavasva. Note that after this Agni tṛca the word sóma- doesn’t appear until vs. 29 and a likely identification with Indra (as well as comparison with the sun) intervenes.
+</details>
 
 </details>
 </div>
