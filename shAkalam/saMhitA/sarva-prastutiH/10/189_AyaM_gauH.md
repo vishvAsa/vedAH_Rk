@@ -13,12 +13,18 @@ title = "१८९"
 <details><summary>Jamison Brereton</summary>
 
 189 (1015)  
-Sārparājñı or Su ̄ ̄rya  
+Sārparājñı or Su ̄ ̄rya  
 Sārparājñī  
 3 verses: gāyatrī  
 The Anukramaṇī assigns this hymn either to Sūrya or to the shadowy figure  Sārparājñī ([female] descendant of the Queen of the Snakes), who is also said to  be its author. The former identification seems far more likely, or, rather, the hymn  appears to be set at the dawn sacrifice and to play with the various sources of light  
 1660 X.190–191  
 that compete and combine at that time: the sun and the ritual fire, as well as Dawn  (vs. 2ab). The fire, and in part its counterpart the sun, is portrayed as a variety of  animals: a (male) cow (vs. 1), a buffalo (vs. 2), and a bird. The association of speech  with the bird is also found in the Pataṃga hymn (X.177) and probably reflects the  importance of ritual speech at the dawn sacrifice. There are no signs of snakes,  much less their queen.
+</details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    १८९  सार्पराज्ञी। आत्मा, सूर्यो वा। गायत्री।
 </details>
 </details>
 </div>
@@ -31,13 +37,6 @@ that compete and combine at that time: the sun and the ritual fire, as well as D
 **अ᳓सदन्** +++(→असनत् इति तैत्तिरीये)+++ मात᳓रं +++(भूमिं)+++ पुरः᳓ ।  
 पित᳓रं +++(द्यौः)+++ च, प्रय᳓न्त् स्वः+++(→सुवः इति तैत्तिरीये)+++ ॥
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/189/01_AyaM_gauH.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः ।  
-पि॒तरं॑ च प्र॒यन्त्स्वः॑ ॥
 </details>
 </div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/01_AyaM_gauH.md">
@@ -104,7 +103,12 @@ prayán ← √i- 1 (root)
 
 svàr ← svàr- (nominal stem)  
 {case:ACC, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+आयं गौः पृश्नि॑रक्रमी॒दस॑दन्मा॒तरं॑ पु॒रः ।  
+पि॒तरं॑ च प्र॒यन्त्स्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -190,7 +194,11 @@ _________
 - “sun; sky; sunlight.”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इयम्- एषा। पृश्निः गौः- पृथिवी। पुरः- पुरस्तात्। मातरम्- स्वजननीभूतामुदकदेवताम्।  असदन्- आश्रित्य। पितरम्- स्वजनकम्। स्वः- सूर्यम्। च। प्रयन्- प्रगच्छन्ती। अक्रमीत्-  आक्रान्तवती॥१॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -287,13 +295,6 @@ Den Wesenkenner spornet nun gleich einem schnellen Rosse an, Zu setzen sich auf 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/189/02_antashcharati_rochanAsya.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-अ॒न्तश्च॑रति रोच॒नास्य प्रा॒णाद॑पान॒ती ।  
-व्य॑ख्यन्महि॒षो दिव॑म् ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/02_antashcharati_rochanAsya.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -352,7 +353,12 @@ mahiṣáḥ ← mahiṣá- (nominal stem)
 
 ví ← ví (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒न्तश्च॑रति रोच॒नास्य प्रा॒णाद॑पान॒ती ।  
+व्य॑ख्यन्महि॒षो दिव॑म् ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -424,7 +430,11 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+रोचना- सूर्याख्यप्रकाशः। आत्मसूर्य इत्याध्यात्मिके। अन्तः- ब्रह्माण्डस्य मध्ये। पिण्डाण्डस्य  मध्य इत्याध्यात्मिके। चरति। प्राणादपानती- प्राणापानौ चालयति। ऊर्ध्वं प्राणमुन्नयति अपानं  प्रत्यगस्यति। मध्ये वामनमासीनं विश्वे देवा उपासते॥ इति ह्युक्तम्। दिवम्- नभः।  चित्ताकाशमित्याध्यात्मिके। महिषः- महात्मा। व्यख्यत्- प्रकाशयति॥२॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -514,13 +524,6 @@ Dem Wesenkenner bringe ich, dem heldbesungnen, gnädigen Ein grosses schönes Lo
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/189/03_triMshaddhAma_vi.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-त्रिं॒शद्धाम॒ वि रा॑जति॒ वाक्प॑तं॒गाय॑ धीयते ।  
-प्रति॒ वस्तो॒रह॒ द्युभिः॑ ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/189/03_triMshaddhAma_vi.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -582,7 +585,12 @@ práti ← práti (invariable)
 
 vástoḥ ← vástu- (nominal stem)  
 {case:ABL, gender:F, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+त्रिं॒शद्धाम॒ वि रा॑जति॒ वाक्प॑तं॒गाय॑ धीयते ।  
+प्रति॒ वस्तो॒रह॒ द्युभिः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -662,7 +670,11 @@ _________
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वस्तोः- अहोरात्रावयवभूताः। त्रिंशद्धाम- त्रिंशद्धटिकाः। प्रति। वि राजति- सूर्यो विराजते। वाक्-  मन्त्रः। पतङ्गाय- सूर्याय। धीयते- ध्रियते॥३॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -729,12 +741,12 @@ Der Wesenkenner fördere durch seinen Strahl, der götterwärts Die Tränke fäh
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (वाक्) पृथिवी (वस्तोः) दिन के-अहोरात्र के (त्रिंशत्-धाम) तीस मुहूर्त घड़ी नामक को (विराजति) प्राप्त होती है (द्युभिः) दिनों से दिनों दिन (पतङ्गाय) सूर्य में (प्रति धीयते-अह) निरन्तर आश्रय लेती है ॥३॥
+पदार्थान्वयभाषाः -  (वाक्) पृथिवी (वस्तोः) दिन के-अहोरात्र के (त्रिंशत्-धाम) तीस मुहूर्त घड़ी नामक को (विराजति) प्राप्त होती है (द्युभिः) दिनों से दिनों दिन (पतङ्गाय) सूर्य में (प्रति धीयते-अह) निरन्तर आश्रय लेती है ॥३॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  पृथिवी पर दिन-रात में तीस मुहूर्त घड़ियों के रूप में होते हैं, पृथिवी के सूर्य पर आश्रित होने पर ॥३॥
+भावार्थभाषाः -  पृथिवी पर दिन-रात में तीस मुहूर्त घड़ियों के रूप में होते हैं, पृथिवी के सूर्य पर आश्रित होने पर ॥३॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>

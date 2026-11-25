@@ -19,6 +19,7 @@ Aghamarṣaṇa Mādhuchandasa
 This hymn presents a cosmogony with tápas “ascetic heat, fervor” as the ultimate  origin of everything. The entities created and the order and source of their cre ation are curious and thought-provoking, but unlike the famous cosmogonic hymn  X.129, there are no puzzles to decode.
 </details>
 
+
 <details><summary>रङ्गनाथः</summary>
 
 १    १९०  माधुच्छन्दसोऽघमर्षणः। भाववृत्तम् । अनुष्टुप् ।
@@ -37,16 +38,6 @@ This hymn presents a cosmogony with tápas “ascetic heat, fervor” as the ult
 त᳓तो रा᳓त्रिर् +++(रात्र्य् इति शाकले)+++ अजायत  
 त᳓तः समुद्रो᳓ अर्णवः᳓+++(←अर्णः = जलम्)+++ ॥
 
-</details>
-
-</div>
-
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/190/01_RtaM_cha.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-ऋ॒तं च॑ स॒त्यं चा॒भी॑द्धा॒त्तप॒सोऽध्य॑जायत ।  
-ततो॒ रात्र्य॑जायत॒ ततः॑ समु॒द्रो अ॑र्ण॒वः ॥
 </details>
 
 </div>
@@ -124,7 +115,12 @@ samudráḥ ← samudrá- (nominal stem)
 
 tátas ← tátas (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+ऋ॒तं च॑ स॒त्यं चा॒भी॑द्धा॒त्तप॒सोऽध्य॑जायत ।  
+ततो॒ रात्र्य॑जायत॒ ततः॑ समु॒द्रो अ॑र्ण॒वः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -226,7 +222,6 @@ _________
 - “ocean; sea; four.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -364,16 +359,6 @@ Genaht ist dieser bunte Stier; zum Vater und zur Mutter hat Er sich gesetzt beim
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-स॒मु॒द्राद॑र्ण॒वादधि॑ संवत्स॒रो अ॑जायत ।  
-अ॒हो॒रा॒त्राणि॑ वि॒दध॒द्विश्व॑स्य मिष॒तो व॒शी ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/190/02_samudrAdarNavAdadhi_saMvatsaro.md">
 
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
@@ -435,7 +420,12 @@ vaśī́ ← vaśín- (nominal stem)
 
 víśvasya ← víśva- (nominal stem)  
 {case:GEN, gender:M, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+स॒मु॒द्राद॑र्ण॒वादधि॑ संवत्स॒रो अ॑जायत ।  
+अ॒हो॒रा॒त्राणि॑ वि॒दध॒द्विश्व॑स्य मिष॒तो व॒शी ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -511,7 +501,6 @@ _________
 - “powerful; controlling; regnant; authoritative.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -621,16 +610,6 @@ Er wandelt in des Lichtes Raum, vor seinem Hauch erlischt das Roth, Der starke h
 
 </div>
 
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/190/03_sUryAchandramasau_dhAtA.md">
-
-<details><summary><h5>मूलम् …{Loading}…</h5></summary>
-
-सू॒र्या॒च॒न्द्र॒मसौ॑ धा॒ता य॑थापू॒र्वम॑कल्पयत् ।  
-दिवं॑ च पृथि॒वीं चा॒न्तरि॑क्ष॒मथो॒ स्वः॑ ॥
-</details>
-
-</div>
-
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/190/03_sUryAchandramasau_dhAtA.md">
 
 <details><summary><h5>सर्वाष् टीकाः …{Loading}…</h5></summary>
@@ -698,7 +677,12 @@ svàr ← svàr- (nominal stem)
 
 u ← u (invariable)  
 {}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सू॒र्या॒च॒न्द्र॒मसौ॑ धा॒ता य॑थापू॒र्वम॑कल्पयत् ।  
+दिवं॑ च पृथि॒वीं चा॒न्तरि॑क्ष॒मथो॒ स्वः॑ ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -774,7 +758,6 @@ _________
 - “sun; sky; sunlight.”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>

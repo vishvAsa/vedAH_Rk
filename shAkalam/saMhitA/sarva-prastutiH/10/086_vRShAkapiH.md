@@ -5,12 +5,14 @@ title = "०८६"
 
 <div class="js_include" newlevelforh1="2" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/_index.md">
 <details open><summary><h2>सर्वाष् टीकाः ...{Loading}...</h2></summary>
-<details open><summary>विश्वास-टिप्पनी</summary>
+<details><summary>विश्वास-टिप्पनी</summary>
 
 - वृषाकपिर् इति खे मृगशीर्षम् (तदेवं धीमान् तिलक-बालगङ्गाधरः)।
 - प्रजापतितुल्यो देवः। thracian-प्रभावेण यावनेष्व् अपि प्रसिद्धः (Erikepaius)। 
 - प्रायेण विषुवस्थानं यदा तत्रावर्तत, तदा केषुचित् प्रधानो ऽवर्तत (4500 BCE)। ततः पश्चाद् विषुवस्थानं रोहिण्याम् अवर्तत (3000 BCE)। तदानीन्तनम् इदं सूक्तम् इति भाति। 
 </details>
+
+
 
 <details><summary>सायण-भाष्यम्</summary>
 
@@ -25,8 +27,8 @@ title = "०८६"
 <details><summary>Jamison Brereton</summary>
 
 86 (912)  
-Vr̥ṣākapi (Conversation of Vr̥ṣākapi Aindra, Indrāṇı, ̄ and Indra)  
-Indra (1, 8, 11–12, 14, 19–22), Indrāṇī (2–6, 9–10, 15–18), Vrṣḁ̄ kapi Aindra (7, 13,  23) [per the Anukramaṇī]  
+Vr̥ṣākapi (Conversation of Vr̥ṣākapi Aindra, Indrāṇı, ̄ and Indra)  
+Indra (1, 8, 11–12, 14, 19–22), Indrāṇī (2–6, 9–10, 15–18), Vrṣḁ̄ kapi Aindra (7, 13,  23) [per the Anukramaṇī]  
 23 verses: paṅkti  
 
 This dialogue hymn was called by Renou “the strangest poem in the R̥gveda” (“le  poème le plus étrange du RV,” 1956: 246). The three participants in the dialogue are  Indra, his wife Indrāṇī, and his raffish monkey pal Vr̥ṣākapi, who is making sexual  advances to Indrāṇī. The hymn contains startlingly explicit sexual discourse, as well  as a dazzling array of apparent non-sequiturs, all embedded in an exaltation of  Indra, signaled by its consistent refrain.  
@@ -79,6 +81,12 @@ I, therefore, conclude that the hymn gives us not only a description of the cons
 
 Indra's Frau:
 </details>
+
+
+<details><summary>रङ्गनाथः</summary>
+
+१    ८६  इन्द्रः, ७,१३,२३ ऐन्द्रो वृषाकपिः, २-६, ९-१०, १५-१८ इन्द्राणी। इन्द्रः। पङ्क्तिः
+</details>
 </details>
 </div>
 
@@ -93,13 +101,6 @@ Indra's Frau:
 अर्यः᳓ पुष्टे᳓षु म᳓त्सखा  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः +++(नक्षत्रचक्रे देवनक्षत्राणाम् उत्तरवर्तित्वात्)+++ ॥ १०.०८६.०१
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/01_vi_hi.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-वि हि सोतो॒रसृ॑क्षत॒ नेन्द्रं॑ दे॒वम॑मंसत ।  
-यत्राम॑दद्वृ॒षाक॑पिर॒र्यः पु॒ष्टेषु॒ मत्स॑खा॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/01_vi_hi.md">
@@ -128,11 +129,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
 _________
 **Morph**  
 ásr̥kṣata ← √sr̥j- (root)  
@@ -185,7 +186,12 @@ puṣṭéṣu ← √puṣ- (root)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि हि सोतो॒रसृ॑क्षत॒ नेन्द्रं॑ दे॒वम॑मंसत ।  
+यत्राम॑दद्वृ॒षाक॑पिर॒र्यः पु॒ष्टेषु॒ मत्स॑खा॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -311,7 +317,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+सोतोः- रसं निष्पादयितुम्। वि असृक्षत- विसृष्टाः। इन्द्रं देवम्- ईशनाधिदैवतम्। न। अमंसत-  मेनिरे। यत्र- तस्मिन् यज्ञे। पुष्टेषु- हव्येषु। अर्यः- आर्यः। मत्सखा- मम सुहृत्। वृषाकपिः।  अमदत्- तुष्टो भवति। इन्द्रः। विश्वस्मात्- सर्वस्मात्। उत्तरः- उत्तमः। इन्द्र आत्मावरणभेदको  बलाधिदेवता परमैश्वर्यदेवता। मेधाया बलमिन्द्रः। वृषाकपिस्तु तदधरांशो  प्राणमयकोशस्थबलोद्यमाद्यधिदेवता। अत्यन्तमेधाबलस्य  प्राणमयकोशस्थनिकृष्टांशाश्चलनचापल्यादिगुणाः। त एव वृषाकपिः। इन्द्रस्य निकृष्टांशमेव  इन्द्रमिति मत्वा पूजयन्ति साधारणजनाः। तस्मादेव नेन्द्रं देवममंसतेत्युच्यते। तथापि इन्द्रस्य  श्रैष्ठ्ये न हानिर्भवतीति कारणेन विश्वस्मादिन्द्र उत्तर इत्युच्यते॥१॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -381,7 +391,7 @@ Sie haben abgelassen vom Somapressen, sie achteten Indra nicht als Gott, dort, w
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (सोतोः) विश्व को प्रकाशित करने के लिये (वि असृक्षत हि)जब किरणें विसर्जन की गयीं-छोड़ी गईं तब (इन्द्रं देवं न-अमंसत) उन्होंने इन्द्र उत्तर-ध्रुव को अपना देव प्रकाशक नहीं माना (यत्र पुष्टेषु)जिन पुष्ट अर्थात् पूर्ण प्रकाशित हुई किरणों में (अर्यः-वृषाकपिः-अमदत्) उनका स्वामी सूर्य हर्षित-प्रकाशित हुआ (मत्सखा-इन्द्रः)मेरा पति मुझ व्योमकक्षा का पति इन्द्र-उत्तरध्रुव (विश्वस्मात्-उत्तरः)विश्व के उत्तर में है ॥१॥
+पदार्थान्वयभाषाः -  (सोतोः) विश्व को प्रकाशित करने के लिये (वि असृक्षत हि)जब किरणें विसर्जन की गयीं-छोड़ी गईं तब (इन्द्रं देवं न-अमंसत) उन्होंने इन्द्र उत्तर-ध्रुव को अपना देव प्रकाशक नहीं माना (यत्र पुष्टेषु)जिन पुष्ट अर्थात् पूर्ण प्रकाशित हुई किरणों में (अर्यः-वृषाकपिः-अमदत्) उनका स्वामी सूर्य हर्षित-प्रकाशित हुआ (मत्सखा-इन्द्रः)मेरा पति मुझ व्योमकक्षा का पति इन्द्र-उत्तरध्रुव (विश्वस्मात्-उत्तरः)विश्व के उत्तर में है ॥१॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
@@ -414,13 +424,6 @@ Sie haben abgelassen vom Somapressen, sie achteten Indra nicht als Gott, dort, w
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/02_parA_hIndra.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-परा॒ ही॑न्द्र॒ धाव॑सि वृ॒षाक॑पे॒रति॒ व्यथिः॑ ।  
-नो अह॒ प्र वि॑न्दस्य॒न्यत्र॒ सोम॑पीतये॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/02_parA_hIndra.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -447,11 +450,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 dhā́vasi ← √dhāv- 1 (root)  
@@ -504,7 +507,12 @@ sómapītaye ← sómapīti- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+परा॒ ही॑न्द्र॒ धाव॑सि वृ॒षाक॑पे॒रति॒ व्यथिः॑ ।  
+नो अह॒ प्र वि॑न्दस्य॒न्यत्र॒ सोम॑पीतये॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -622,7 +630,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मेधाबलस्य स्वनिकृष्टांशभूते प्राणबले स्नेहं वर्णयति। इन्द्र- परमेश्वर। अति व्यथिः- चलितः सन्।  वृषाकपेः- वृषाकपिमेव। परा धावसि- प्रतिगच्छसि।  सोमपीतये- रसानुभूतये। अन्यत्र- इतरत्र।  नो अह- नैव  च। प्र विन्दसि- प्रगच्छसि॥२॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -706,13 +718,6 @@ Du läufst ja weiter, Indra, über die Verfehlung des Vrisakapi hinweg sehend. A
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/03_kimayaM_tvAM.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-किम॒यं त्वां वृ॒षाक॑पिश्च॒कार॒ हरि॑तो मृ॒गः ।  
-यस्मा॑ इर॒स्यसीदु॒ न्व१॒॑र्यो वा॑ पुष्टि॒मद्वसु॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/03_kimayaM_tvAM.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -739,11 +744,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ayám ← ayám (pronoun)  
@@ -802,7 +807,12 @@ vásu ← vásu- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किम॒यं त्वां वृ॒षाक॑पिश्च॒कार॒ हरि॑तो मृ॒गः ।  
+यस्मा॑ इर॒स्यसीदु॒ न्व१॒॑र्यो वा॑ पुष्टि॒मद्वसु॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -930,7 +940,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+हरितो मृगः- मर्कटः। अयम्- एषः। वृषाकपिः। त्वाम्। किम्। चकार- अकरोत्। अर्यः- उदारः  सन्। यस्मै- वृषाकपये। पुष्टिमत् वसु- पुष्टियुक्तसम्पदम्। इरस्यसि- प्रयच्छसि॥३॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -992,7 +1006,7 @@ Was hat dir dieser Vrischākapi, dieses gelbe Wild, gethan, dass du ihm nun so z
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  यहआलङ्कारिकभाषा में कहा जा रहा है, व्योमकक्षा के प्रति या उसकी वस्तुओं के प्रति सूर्य कुछ बिगाड़ करता है, वह बिगाड़ अगले मन्त्र में बताया जा रहा है ॥३॥
+भावार्थभाषाः -  यहआलङ्कारिकभाषा में कहा जा रहा है, व्योमकक्षा के प्रति या उसकी वस्तुओं के प्रति सूर्य कुछ बिगाड़ करता है, वह बिगाड़ अगले मन्त्र में बताया जा रहा है ॥३॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
@@ -1013,13 +1027,6 @@ Was hat dir dieser Vrischākapi, dieses gelbe Wild, gethan, dass du ihm nun so z
 अ᳓पि क᳓र्णे वराहयु᳓र्  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः ॥ १०.०८६.०४  
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/04_yamimaM_tvaM.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-यमि॒मं त्वं वृ॒षाक॑पिं प्रि॒यमि॑न्द्राभि॒रक्ष॑सि ।  
-श्वा न्व॑स्य जम्भिष॒दपि॒ कर्णे॑ वराह॒युर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/04_yamimaM_tvaM.md">
@@ -1048,11 +1055,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 imám ← ayám (pronoun)  
@@ -1105,7 +1112,12 @@ varāhayúḥ ← varāhayú- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यमि॒मं त्वं वृ॒षाक॑पिं प्रि॒यमि॑न्द्राभि॒रक्ष॑सि ।  
+श्वा न्व॑स्य जम्भिष॒दपि॒ कर्णे॑ वराह॒युर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1223,7 +1235,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। यम्। इमम्- एनम्। वृषाकपिम्। प्रियम्। त्वम्। अभिरक्षसि- पालयसि। एनम्। वराहयुः  श्वा- मेघापेक्षो ग्रीष्मदग्धः श्वा। वराहो मेघः। ग्रीष्मदग्धस्य शुनः अत्यन्तक्रोधो भवति। तादृशः  श्वा । जम्भिषत्- भक्षयतु। अपि- अपि च। अस्य- एतस्य। कर्णे। नु- क्षिप्रं गृह्णातु॥४॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -1271,12 +1287,12 @@ Den lieben Vrisakapi, den du, Indra, da in Schutz nimmst, den soll gleich der Hu
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  इन्द्राणी का प्रत्युत्तर (इन्द्र त्वम्) हे इन्द्र-उत्तरध्रुव ! तू (यम्-इमं प्रियं वृषाकपिम्) जिस इस अपने सूर्यकी(अभिरक्षसि) अभिरक्षा करता है-तरफदारी करता है (कपिः मे प्रिया व्यक्ता) वृषाकपि-सूर्य ने मेरी प्रिया प्रकाशित सब ताराओं को दूषित कर दिया, केवल अपनी योगतारा पर ही स्थिर नहीं रहा,अतः (वराहयुः श्वा) वराह-शूकर को चाहनेवाला कुत्ता-वृक भेड़िया चन्द्रमा (अस्य कर्णे नु) इसके दोनों कान कोण भी अवश्य (जम्भिषत्) ग्रसलेता है (अस्य शिरः-नु राविषम्) इनके शिर को मैं अवश्य काट डालूँ (दुष्कृते न सुगं भुवम्) दुष्कर्मी के लिये मैं कभी सुखदा न होऊँ ॥४-५॥
+पदार्थान्वयभाषाः -  इन्द्राणी का प्रत्युत्तर (इन्द्र त्वम्) हे इन्द्र-उत्तरध्रुव ! तू (यम्-इमं प्रियं वृषाकपिम्) जिस इस अपने सूर्यकी(अभिरक्षसि) अभिरक्षा करता है-तरफदारी करता है (कपिः मे प्रिया व्यक्ता) वृषाकपि-सूर्य ने मेरी प्रिया प्रकाशित सब ताराओं को दूषित कर दिया, केवल अपनी योगतारा पर ही स्थिर नहीं रहा,अतः (वराहयुः श्वा) वराह-शूकर को चाहनेवाला कुत्ता-वृक भेड़िया चन्द्रमा (अस्य कर्णे नु) इसके दोनों कान कोण भी अवश्य (जम्भिषत्) ग्रसलेता है (अस्य शिरः-नु राविषम्) इनके शिर को मैं अवश्य काट डालूँ (दुष्कृते न सुगं भुवम्) दुष्कर्मी के लिये मैं कभी सुखदा न होऊँ ॥४-५॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  ज्योतिर्विद्या केक्षेत्र में सूर्य अपनी एक योगतारा रेवती पर स्थिर न रहकर अन्य ताराओंकास्पर्श करता जाता है।व्योमकक्षा की समस्त ताराओं को स्पर्श किया, पुनः क्रमशः ऐसी स्थिति में आता है कि चन्द्रमा इसके कोण को ग्रस लेता है, तो सूर्यग्रहण पड़ जाता है। यह वर्णनआलङ्कारिकढंग से कहा गया है ॥४-५॥
+भावार्थभाषाः -  ज्योतिर्विद्या केक्षेत्र में सूर्य अपनी एक योगतारा रेवती पर स्थिर न रहकर अन्य ताराओंकास्पर्श करता जाता है।व्योमकक्षा की समस्त ताराओं को स्पर्श किया, पुनः क्रमशः ऐसी स्थिति में आता है कि चन्द्रमा इसके कोण को ग्रस लेता है, तो सूर्यग्रहण पड़ जाता है। यह वर्णनआलङ्कारिकढंग से कहा गया है ॥४-५॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
@@ -1297,13 +1313,6 @@ Den lieben Vrisakapi, den du, Indra, da in Schutz nimmst, den soll gleich der Hu
 न᳓ सुगं᳓ दुष्कृ᳓ते भुवं  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः ॥ १०.०८६.०५  
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/05_priyA_taShTAni.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-प्रि॒या त॒ष्टानि॑ मे क॒पिर्व्य॑क्ता॒ व्य॑दूदुषत् ।  
-शिरो॒ न्व॑स्य राविषं॒ न सु॒गं दु॒ष्कृते॑ भुवं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/05_priyA_taShTAni.md">
@@ -1332,11 +1341,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 kapíḥ ← kapí- (nominal stem)  
@@ -1392,7 +1401,12 @@ sugám ← sugá- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्रि॒या त॒ष्टानि॑ मे क॒पिर्व्य॑क्ता॒ व्य॑दूदुषत् ।  
+शिरो॒ न्व॑स्य राविषं॒ न सु॒गं दु॒ष्कृते॑ भुवं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1520,7 +1534,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मे- मदर्थम्। तष्टानि- तनूकृतानि। प्रिया- मत्प्रियाणि। व्यक्ता- व्यक्तानि। कपिः। व्यदूदुषत्-  दूषितवान्। अस्य- एतस्य। शिरः। नु- क्षिप्रम्। राविषम्- लुनीयाम्। दुष्कृते- दुष्टकर्मकारिणे।  सुगम्- सुखमहम्। न। भुवम्- भवेयम्॥५॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -1534,7 +1552,7 @@ Sāyaṇa is literally correct, but again misses the spirit, or rather has misse
 
 [^†]: The word in the original is taṣṭāni, which literally means made, shaped, &c. Mādhava Bhaṭṭa understands it to mean oblations offered to Indraṇī. I translate it by things generally. Whatever meaning we may adopt, it is quite evident that the Kapi's interfering with them has offended lndrāṇī.
 
-Here Indrāṇī is herself prepared to punish Vr̥ṣākapi by setting the dog at his ear, and cutting off his head. I have in a previous chapter shown how the figure of Mr̥ga's head is to be obtained in the sky. Taking the three stars in the belt of Orion as the top of the head, the dog is close by the right ear of Mr̥ga and may properly be said to bite it. The word varāha also points out the place where we may expect to find the dog. In Rig. i. 61.7, varāha is said to be killed by Vishnu beyond a mountain, which, in all probability, is the same story as that of Indra killing Vr̥tra. +++(\* ln Rig. x. 99, 6, Indra is said to have killed Trishīrśan, had with his aid Trita killed varāha. )+++ A dog chasing varāha is therefore no other than Canis Major following the constellation of Orion, or the " antelope's head " representing Vr̥tra. Sāyaṇa and Yāska and even European scholars are silent as to who this dog is. The verses, in fact, may be said to have remained altogether unexplained hitherto, though the words themselves are simple enough and have caused no difficulty. 
+Here Indrāṇī is herself prepared to punish Vr̥ṣākapi by setting the dog at his ear, and cutting off his head. I have in a previous chapter shown how the figure of Mr̥ga's head is to be obtained in the sky. Taking the three stars in the belt of Orion as the top of the head, the dog is close by the right ear of Mr̥ga and may properly be said to bite it. The word varāha also points out the place where we may expect to find the dog. In Rig. i. 61.7, varāha is said to be killed by Vishnu beyond a mountain, which, in all probability, is the same story as that of Indra killing Vr̥tra. +++(\* ln Rig. x. 99, 6, Indra is said to have killed Trishīrśan, had with his aid Trita killed varāha. )+++ A dog chasing varāha is therefore no other than Canis Major following the constellation of Orion, or the " antelope's head " representing Vr̥tra. Sāyaṇa and Yāska and even European scholars are silent as to who this dog is. The verses, in fact, may be said to have remained altogether unexplained hitherto, though the words themselves are simple enough and have caused no difficulty.
 </details>
 
 <details><summary>Wilson</summary>
@@ -1583,12 +1601,12 @@ Die mir theuren, schönen Kunstwerke hat mir der Affe verdorben; nun will ich ih
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  इन्द्राणी का प्रत्युत्तर (इन्द्र त्वम्) हे इन्द्र-उत्तरध्रुव ! तू (यम्-इमं प्रियं वृषाकपिम्) जिस इस अपने सूर्यकी(अभिरक्षसि) अभिरक्षा करता है-तरफदारी करता है (कपिः मे प्रिया व्यक्ता) वृषाकपि-सूर्य ने मेरी प्रिया प्रकाशित सब ताराओं को दूषित कर दिया, केवल अपनी योगतारा पर ही स्थिर नहीं रहा,अतः (वराहयुः श्वा) वराह-शूकर को चाहनेवाला कुत्ता-वृक भेड़िया चन्द्रमा (अस्य कर्णे नु) इसके दोनों कान कोण भी अवश्य (जम्भिषत्) ग्रसलेता है (अस्य शिरः-नु राविषम्) इनके शिर को मैं अवश्य काट डालूँ (दुष्कृते न सुगं भुवम्) दुष्कर्मी के लिये मैं कभी सुखदा न होऊँ ॥४-५॥
+पदार्थान्वयभाषाः -  इन्द्राणी का प्रत्युत्तर (इन्द्र त्वम्) हे इन्द्र-उत्तरध्रुव ! तू (यम्-इमं प्रियं वृषाकपिम्) जिस इस अपने सूर्यकी(अभिरक्षसि) अभिरक्षा करता है-तरफदारी करता है (कपिः मे प्रिया व्यक्ता) वृषाकपि-सूर्य ने मेरी प्रिया प्रकाशित सब ताराओं को दूषित कर दिया, केवल अपनी योगतारा पर ही स्थिर नहीं रहा,अतः (वराहयुः श्वा) वराह-शूकर को चाहनेवाला कुत्ता-वृक भेड़िया चन्द्रमा (अस्य कर्णे नु) इसके दोनों कान कोण भी अवश्य (जम्भिषत्) ग्रसलेता है (अस्य शिरः-नु राविषम्) इनके शिर को मैं अवश्य काट डालूँ (दुष्कृते न सुगं भुवम्) दुष्कर्मी के लिये मैं कभी सुखदा न होऊँ ॥४-५॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  ज्योतिर्विद्या केक्षेत्र में सूर्य अपनी एक योगतारा रेवती पर स्थिर न रहकर अन्य ताराओंकास्पर्श करता जाता है।व्योमकक्षा की समस्त ताराओं को स्पर्श किया, पुनः क्रमशः ऐसी स्थिति में आता है कि चन्द्रमा इसके कोण को ग्रस लेता है, तो सूर्यग्रहण पड़ जाता है। यह वर्णनआलङ्कारिकढंग से कहा गया है ॥४-५॥
+भावार्थभाषाः -  ज्योतिर्विद्या केक्षेत्र में सूर्य अपनी एक योगतारा रेवती पर स्थिर न रहकर अन्य ताराओंकास्पर्श करता जाता है।व्योमकक्षा की समस्त ताराओं को स्पर्श किया, पुनः क्रमशः ऐसी स्थिति में आता है कि चन्द्रमा इसके कोण को ग्रस लेता है, तो सूर्यग्रहण पड़ जाता है। यह वर्णनआलङ्कारिकढंग से कहा गया है ॥४-५॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
@@ -1608,13 +1626,6 @@ Die mir theuren, schönen Kunstwerke hat mir der Affe verdorben; nun will ich ih
 न᳓ स᳓क्थ्+++(=ऊरु)+++-उ᳓द्यमीयसी  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः ॥ १०.०८६.०६  
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/06_na_matstrI.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-न मत्स्त्री सु॑भ॒सत्त॑रा॒ न सु॒याशु॑तरा भुवत् ।  
-न मत्प्रति॑च्यवीयसी॒ न सक्थ्युद्य॑मीयसी॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/06_na_matstrI.md">
@@ -1643,11 +1654,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 mát ← ahám (pronoun)  
@@ -1697,7 +1708,12 @@ sákthi ← sákthi- ~ sákthan- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न मत्स्त्री सु॑भ॒सत्त॑रा॒ न सु॒याशु॑तरा भुवत् ।  
+न मत्प्रति॑च्यवीयसी॒ न सक्थ्युद्य॑मीयसी॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -1808,7 +1824,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मत्- मत्तः। सुभसत्तरा- सुयोनिः सुजघना वा। स्त्री- नारी। नास्ति। सुयाशुतरा- सुमैथुना। न  भुवत्- न भवति। मत्- मत्तः। प्रतिच्यवीयसी- च्यावयित्री। न भवति। सक्थ्युद्यमीयसी-  ऊरुगतसक्थिचालिका। न भवति। इदमिन्द्राण्या वचनम्। उपासक एवात्र इन्द्राणी।  मैथुनरूपककल्पनकारणेनात्र उपासकस्य नारीत्त्वम्। अस्मिन् मैथुनरूपककल्पने इन्द्रः प्रियः पतिः।  तदुपासक इन्द्राणीरूपकस्तद्दयिता। किमर्थमत्र मैथुनरूपककल्पनम्। आत्मानुभवमृषयो वैदिका हृदा  चक्रुः। तमेव विचारविमर्शाभ्यां चक्रुर्वेदापेक्षया अर्वाचीनाः सूत्रभाष्यविदः। तन्त्रेषु तमेव प्राणैरवगन्तुं  यत्नः क्रियते। प्राणमयकोशे तदवतरणाय यतन्ते। दिव्यचेतनस्य प्राणमयकोशेऽवतरणस्य  रूपणभाषाशैली कामोद्रेकयुक्तैव भवति। तस्मिन्नुद्रेके कटुवचनानि च भवितुमर्हन्ति। तेषु वाच्यार्थो  न ग्रहीतव्यः। श्वा न्यस्य जम्भिषदित्याद्यपि प्रेमपूर्वमेव लीलयोच्यते। कामोद्रेकस्तु प्राणमयकोशे  आध्यात्मिकानुभवस्य रूपणभाषाशैली यथा गीतगोविन्दादिषु॥६॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -1818,7 +1838,7 @@ _________
 
 <details><summary>Tilak - Commentary</summary>
 
-This verse presents no difficulty. Thus satisfied, Indraṇī speaks of herself as the best of women, best in every way. 
+This verse presents no difficulty. Thus satisfied, Indraṇī speaks of herself as the best of women, best in every way.
 </details>
 
 <details><summary>Wilson</summary>
@@ -1888,13 +1908,6 @@ Es gibt keine Frau mit schönerem Hintern und zum Beischlaf geeigneter als mich,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/07_uve_amba.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-उ॒वे अ॑म्ब सुलाभिके॒ यथे॑वा॒ङ्ग भ॑वि॒ष्यति॑ ।  
-भ॒सन्मे॑ अम्ब॒ सक्थि॑ मे॒ शिरो॑ मे॒ वी॑व हृष्यति॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/07_uve_amba.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -1921,11 +1934,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 amba ← amba (nominal stem)  
@@ -1987,7 +2000,12 @@ ví ← ví (invariable)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒वे अ॑म्ब सुलाभिके॒ यथे॑वा॒ङ्ग भ॑वि॒ष्यति॑ ।  
+भ॒सन्मे॑ अम्ब॒ सक्थि॑ मे॒ शिरो॑ मे॒ वी॑व हृष्यति॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2123,7 +2141,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+३    सुलाभिके- शोभनलाभे। अम्ब। यथा वदसि तथा। भविष्यति- भवेत्। मे- मम। भसत्। सक्थि।  शिरः। वीव- पक्षीव। हृष्यति- मोदते॥७॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -2204,13 +2226,6 @@ Ich spreche, o leicht zu gewinnende Mutter, wie es bald geschehen wird. Mein Hin
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/08_kiM_subAho.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-किं सु॑बाहो स्वङ्गुरे॒ पृथु॑ष्टो॒ पृथु॑जाघने ।  
-किं शू॑रपत्नि न॒स्त्वम॒भ्य॑मीषि वृ॒षाक॑पिं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/08_kiM_subAho.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2288,7 +2303,12 @@ vr̥ṣā́kapim ← vr̥ṣā́kapi- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+किं सु॑बाहो स्वङ्गुरे॒ पृथु॑ष्टो॒ पृथु॑जाघने ।  
+किं शू॑रपत्नि न॒स्त्वम॒भ्य॑मीषि वृ॒षाक॑पिं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2411,7 +2431,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -2428,7 +2447,7 @@ _________
 
 Indra now tries to conciliate her. Sāyaṇa, following the Anukramaṇi, supposes that the seventh verse is addressed by Vr̥ṣākapi and the eighth by Indra. The only reason I can find for such an interpretation is the occurrence of the word amba, which means "mother," and this cannot be supposed to be used by Indra. But though we avoid one difficulty in this way, we are launched into another, for the verse speaks of Indrāṇī being pleasing "to me; " and if Vr̥ṣākapi is the speaker "me," cannot refer to him, as Indrāṇī is his mother and, consequently, "me" has to be interpreted to mean "my father," and this Sāyaṇa has done.
 
-I prefer taking amba as an affectionale and respectful mode of address, as in modern Sanskrit, and the verse presents no difficulty. We can then take both the 7th and the 8th verse together and give them a natural interpretation. I translate thus "O auspicious lady! what you say is true ...... you are pleasing to me.. But oh hero-wife, with beautiful arms, pretty figure, profuse hair, and broad hips, why should you be so angry with our Vr̥ṣākapi? Indra is in the upper (part) of the universe." 
+I prefer taking amba as an affectionale and respectful mode of address, as in modern Sanskrit, and the verse presents no difficulty. We can then take both the 7th and the 8th verse together and give them a natural interpretation. I translate thus "O auspicious lady! what you say is true ...... you are pleasing to me.. But oh hero-wife, with beautiful arms, pretty figure, profuse hair, and broad hips, why should you be so angry with our Vr̥ṣākapi? Indra is in the upper (part) of the universe."
 </details>
 
 <details><summary>Wilson</summary>
@@ -2506,13 +2525,6 @@ Warum, schönarmige, schönfingrige, breitflechtige, breithüftige, warum, o Hel
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/09_avIrAmiva_mAmayaM.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-अ॒वीरा॑मिव॒ माम॒यं श॒रारु॑र॒भि म॑न्यते ।  
-उ॒ताहम॑स्मि वी॒रिणीन्द्र॑पत्नी म॒रुत्स॑खा॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/09_avIrAmiva_mAmayaM.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2539,11 +2551,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 avī́rām ← avī́ra- (nominal stem)  
@@ -2593,7 +2605,12 @@ marútsakhā ← marútsakhi- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒वीरा॑मिव॒ माम॒यं श॒रारु॑र॒भि म॑न्यते ।  
+उ॒ताहम॑स्मि वी॒रिणीन्द्र॑पत्नी म॒रुत्स॑खा॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2717,7 +2734,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+माम्। अयम्- एषः। शरारुः- घातकः। अवीरामिव- वीर्यरहितामिव। मन्यते- जानाति। उत-  अपि च। अहम्। वीरिणी- वीर्यसम्पन्ना। इन्द्रपत्नी- इन्द्राणी। मरुत्सखा- मरुतां प्राणविशेषाणां  सखी। अस्मि- भवामि॥९॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -2727,7 +2748,7 @@ _________
 
 <details><summary>Tilak - Commentary</summary>
 
-Indrāṇī replies, "This mischievous (Vr̥ṣākapi) considers me to be avirā (i. e., without a brave husband or son), while I am the wife of Indra, the mother of the brave, and the friend of Maruts. Indra, &c." 
+Indrāṇī replies, "This mischievous (Vr̥ṣākapi) considers me to be avirā (i. e., without a brave husband or son), while I am the wife of Indra, the mother of the brave, and the friend of Maruts. Indra, &c."
 </details>
 
 <details><summary>Wilson</summary>
@@ -2789,13 +2810,6 @@ Dieser Boshafte hat es auf mich abgesehen, als ob ich keinen Mann hätte. Und ic
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/10_saMhotraM_sma.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-सं॒हो॒त्रं स्म॑ पु॒रा नारी॒ सम॑नं॒ वाव॑ गच्छति ।  
-वे॒धा ऋ॒तस्य॑ वी॒रिणीन्द्र॑पत्नी महीयते॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/10_saMhotraM_sma.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -2822,11 +2836,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 nā́rī ← nā́rī- (nominal stem)  
@@ -2876,7 +2890,12 @@ mahīyate ← √mahīy- (root)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+सं॒हो॒त्रं स्म॑ पु॒रा नारी॒ सम॑नं॒ वाव॑ गच्छति ।  
+वे॒धा ऋ॒तस्य॑ वी॒रिणीन्द्र॑पत्नी महीयते॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -2988,7 +3007,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पुरा- पुरातनकालतः। नारी- स्त्री। संहोत्रम्- आर्त्विज्यम्। समनं वा- सङ्ग्रामं वा। अव गच्छति-  गच्छति। ऋतस्य- प्रकृतिनियत्याः। वेधाः- विधात्री इयं नारी। विधात्री मेधाविनी वा। वीरिणी-  वीर्यसम्पन्ना। इन्द्रपत्नी- इन्द्राणी। महीयते- प्रशंस्यते॥१०॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -3061,13 +3084,6 @@ Sonst ist die Frau auch zum gemeinsamen Opfer oder zur Festversammlung gegangen;
 नह्य् अ᳙स्या अपरं᳓ चन᳓  
 जर᳓सा म᳓रते प᳓तिर्  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/11_indrANImAsu_nAriShu.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-इ॒न्द्रा॒णीमा॒सु नारि॑षु सु॒भगा॑म॒हम॑श्रवम् ।  
-न॒ह्य॑स्या अप॒रं च॒न ज॒रसा॒ मर॑ते॒ पति॒र्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/11_indrANImAsu_nAriShu.md">
@@ -3150,7 +3166,12 @@ pátiḥ ← páti- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒न्द्रा॒णीमा॒सु नारि॑षु सु॒भगा॑म॒हम॑श्रवम् ।  
+न॒ह्य॑स्या अप॒रं च॒न ज॒रसा॒ मर॑ते॒ पति॒र्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3263,7 +3284,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>रङ्गनाथः</summary>
@@ -3278,7 +3298,7 @@ _________
 
 <details><summary>Tilak - Commentary</summary>
 
-Pischel and Geldner suppose that the first is addressed by Vr̥ṣākapi to Indrāṇī, and the second by Vr̥ṣakapayī. Sāyaṇa understands them to be addressed by Indra. Whichsoever construction we adopt, the meaning remains the same. Indrāṇī is here told that she is highly respected everywhere; she is the blessed of all women, and that her husband never suffers from old age. This is obviously intended to pacify her. 
+Pischel and Geldner suppose that the first is addressed by Vr̥ṣākapi to Indrāṇī, and the second by Vr̥ṣakapayī. Sāyaṇa understands them to be addressed by Indra. Whichsoever construction we adopt, the meaning remains the same. Indrāṇī is here told that she is highly respected everywhere; she is the blessed of all women, and that her husband never suffers from old age. This is obviously intended to pacify her.
 </details>
 
 <details><summary>Wilson</summary>
@@ -3348,13 +3368,6 @@ Die Indrānī habe ich als die selige unter diesen Weibern nennen gehört; denn 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/12_nAhamindrANi_rAraNa.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-नाहमि॑न्द्राणि रारण॒ सख्यु॑र्वृ॒षाक॑पेरृ॒ते ।  
-यस्ये॒दमप्यं॑ ह॒विः प्रि॒यं दे॒वेषु॒ गच्छ॑ति॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/12_nAhamindrANi_rAraNa.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -3381,11 +3394,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ahám ← ahám (pronoun)  
@@ -3438,7 +3451,12 @@ priyám ← priyá- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+नाहमि॑न्द्राणि रारण॒ सख्यु॑र्वृ॒षाक॑पेरृ॒ते ।  
+यस्ये॒दमप्यं॑ ह॒विः प्रि॒यं दे॒वेषु॒ गच्छ॑ति॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3560,7 +3578,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्राणि- इन्द्रपत्नि। सख्युः- मित्रम्। वृषाकपेः- वृषाकपिम्। ऋते- विना। अहम्। न ररण- न  रमे। यस्य। इदम्- एतत्। अप्यम्- अम्मयं जीवोदकमयम्। हविः- हव्यम्। प्रियम्। देवेषु-  देवतासु। गच्छति॥१२॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -3575,12 +3597,12 @@ _________
 
 <details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
 
-However, the statement by Indra: “yasyedam apyaṃ haviḥ priyaṃ deveṣu gacchati” – the watery haviṣ might be linked to the carrying of the seed of the gods by Erikepaius. 
+However, the statement by Indra: “yasyedam apyaṃ haviḥ priyaṃ deveṣu gacchati” – the watery haviṣ might be linked to the carrying of the seed of the gods by Erikepaius.
 </details>
 
 <details><summary>Tilak - Commentary</summary>
 
-Indra says "O Indrāṇī! I am not delighted without my friend Vriṣākapi, of whom these favourite watery oblations reach the gods. Indra is in the upper (part) of the universe." 
+Indra says "O Indrāṇī! I am not delighted without my friend Vriṣākapi, of whom these favourite watery oblations reach the gods. Indra is in the upper (part) of the universe."
 </details>
 
 <details><summary>Wilson</summary>
@@ -3657,13 +3679,6 @@ Doch, o Indrānī, ich habe keine Freude ohne diesen Genossen, den Vrischākapi,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/13_vRShAkapAyi_revati.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-वृषा॑कपायि॒ रेव॑ति॒ सुपु॑त्र॒ आदु॒ सुस्नु॑षे ।  
-घस॑त्त॒ इन्द्र॑ उ॒क्षणः॑ प्रि॒यं का॑चित्क॒रं ह॒विर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/13_vRShAkapAyi_revati.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -3690,11 +3705,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 révati ← revánt- (nominal stem)  
@@ -3744,7 +3759,12 @@ priyám ← priyá- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृषा॑कपायि॒ रेव॑ति॒ सुपु॑त्र॒ आदु॒ सुस्नु॑षे ।  
+घस॑त्त॒ इन्द्र॑ उ॒क्षणः॑ प्रि॒यं का॑चित्क॒रं ह॒विर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -3867,7 +3887,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषाकपायि। रेवति- सम्पद्वति। सुपुत्रे- शोभनवत्से। आदु- अथ। सुस्नुषे- साधु सम्भक्त्रि। साधु  सानिनीति यास्कः। ते- तव। इन्द्रः। उक्षणः- सेक्तॄणाम्। प्रियम्। काचित्करम्- सुखाचयकरं  सुखकरमिति यास्कः। कं सुखम्। तस्याचित् सङ्घः। तत्करमिति सायणः। हविः- हव्यम्। घसत्-  प्राश्नातु॥१३॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -3879,7 +3903,7 @@ _________
 
 This seems to be also addressed by Indra to Indrāṇī, who is here called Vr̥ṣākapāyī. This latter name has caused a difference of opinion, some considering Vr̥ṣakapāyī to be the mother, some the wife of Vr̥ṣākapi. +++(See Max Muller's Lectures on the Science of Language, Vol. II., 538)+++ I do not see how the wife of Vriṣākapi as such, could be introduced in the song, unless Vr̥ṣākapi is understood to be the name of Indra himself. Commentators, who take Vr̥ṣākapāyī to mean the wife of Vr̥ṣākapi, accordingly adopt the latter view. Pischel and Geldner think that the verse is addressed by Vriṣākapi to his wife Vr̥ṣākapāyī.
 
-The verse means, "O rich Vr̥ṣākapāyī having a good son and a daughter-in-law, let Indra swallow the bulls, your favourite and delightful oblation, Indra &c." There has been much speculation as to who could be the son and the daughter-in-law of Vr̥ṣākapāyī. But if Vr̥ṣākapāyī be understood to mean the wife of Indra, it causes no such difficulty. The adjectives "having a good son." &c, are simply complimentary, corresponding to the statement of Indrāṇī, that she was the "mother of the brave" in verse 9. Indra accepting her statements, asks her to allow him to swallow the watery oblations said to come from Vr̥ṣākapi in the last verse. The words priyam and havis are the same in both the verses; and I think that both of them refer to the same oblations. 
+The verse means, "O rich Vr̥ṣākapāyī having a good son and a daughter-in-law, let Indra swallow the bulls, your favourite and delightful oblation, Indra &c." There has been much speculation as to who could be the son and the daughter-in-law of Vr̥ṣākapāyī. But if Vr̥ṣākapāyī be understood to mean the wife of Indra, it causes no such difficulty. The adjectives "having a good son." &c, are simply complimentary, corresponding to the statement of Indrāṇī, that she was the "mother of the brave" in verse 9. Indra accepting her statements, asks her to allow him to swallow the watery oblations said to come from Vr̥ṣākapi in the last verse. The words priyam and havis are the same in both the verses; and I think that both of them refer to the same oblations.
 </details>
 
 <details><summary>Wilson</summary>
@@ -3955,13 +3979,6 @@ O reiche Vrischākapājī, die du treffliche Söhne und Schwiegertöchter hast, 
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/14_uxNo_hi.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-उ॒क्ष्णो हि मे॒ पञ्च॑दश सा॒कं पच॑न्ति विंश॒तिम् ।  
-उ॒ताहम॑द्मि॒ पीव॒ इदु॒भा कु॒क्षी पृ॑णन्ति मे॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/14_uxNo_hi.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -3988,11 +4005,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 hí ← hí (invariable)  
@@ -4051,7 +4068,12 @@ ubhā́ ← ubhá- (pronoun)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+उ॒क्ष्णो हि मे॒ पञ्च॑दश सा॒कं पच॑न्ति विंश॒तिम् ।  
+उ॒ताहम॑द्मि॒ पीव॒ इदु॒भा कु॒क्षी पृ॑णन्ति मे॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4183,7 +4205,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+मे- मदर्थम्। पञ्चदश विंशतिं उक्ष्णः- प्रभूतसेक्तॄन् सोमान्। पचन्ति- पक्वं कुर्वन्ति। हि- खलु।  उत- अपि च। अहम्। अद्मिु- भक्षयामि। पीवः- पुष्टो भवामि। उभा कुक्षी- उभौ कुक्षी। मे-  मम। पृणन्ति- पूरयन्ति॥१४॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -4195,7 +4221,7 @@ _________
 
 Indra, satisfied with the prospect of getting the oblations, describes his appetite: "Twenty and ffteen oxen are being cooked for me; I shall eat them and be fat. Both the sides of my belly will be filled up. Indra, &c." 
  
-The practice of sacrificing bulls to Indra seems to have been out of date even at the time of the R̥gveda (cf. i, 164. 43, where it is said to be an old custom). But the old custom could not be entirely forgotten, and if real bulls were not offered to Indra, poets supposed that clouds or stars might answer the same purpose. The number 35 mentioned in the verse may thus refer to the Nakṣatras (28), and planets (7). But this explanation is doubtful and I cannot suggest a better one. 
+The practice of sacrificing bulls to Indra seems to have been out of date even at the time of the R̥gveda (cf. i, 164. 43, where it is said to be an old custom). But the old custom could not be entirely forgotten, and if real bulls were not offered to Indra, poets supposed that clouds or stars might answer the same purpose. The number 35 mentioned in the verse may thus refer to the Nakṣatras (28), and planets (7). But this explanation is doubtful and I cannot suggest a better one.
 </details>
 
 <details><summary>Wilson</summary>
@@ -4271,13 +4297,6 @@ Denn zwanzig Ochsen braten mir die fünfzehn [Vrischākapi mit Frau, Söhnen und
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/15_vRShabho_na.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-वृ॒ष॒भो न ति॒ग्मशृ॑ङ्गो॒ऽन्तर्यू॒थेषु॒ रोरु॑वत् ।  
-म॒न्थस्त॑ इन्द्र॒ शं हृ॒दे यं ते॑ सु॒नोति॑ भाव॒युर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/15_vRShabho_na.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -4304,11 +4323,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ná ← ná (invariable)  
@@ -4364,7 +4383,12 @@ yám ← yá- (pronoun)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+वृ॒ष॒भो न ति॒ग्मशृ॑ङ्गो॒ऽन्तर्यू॒थेषु॒ रोरु॑वत् ।  
+म॒न्थस्त॑ इन्द्र॒ शं हृ॒दे यं ते॑ सु॒नोति॑ भाव॒युर्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4493,7 +4517,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+तिग्मशृङ्गः - तीक्ष्णशृङ्गः। वृषभः। न- यथा। यूथेषु- गवाम्। अन्तः- मध्ये। रोरुवत्- गर्जति।  तथा। इन्द्र- ईशनाधिदैवत। ते- तव। हृदे- हृदयाय। मन्थः- मथ्नतः। शम्- मङ्गळं भवतु।  यम्-  यं रसम्। ते- त्वदर्थम्। भावयुः- भावकामः। सुनोति- निष्पादयति तमनुभवतु॥१५॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -4546,12 +4574,12 @@ Wie ein spitzhorniger Stier, der in den Herden brüllt, ist er: Der Gerstentrank
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (वृषभः-न तिग्मशृङ्गः) जैसे तीक्ष्ण शृङ्गवाला वृषभ-साँड (यूथेषु-अन्तः-रोरुवत्) गोसमूहों के अन्दर बहुत शब्द करता है, तथा वैसे (इन्द्र) हे उत्तरध्रुव ! तू खगोल के पिण्डों में मानो अपना घोष करता है (ते मन्थः) तेरा मन्थन व्यापार पिण्डों को आन्दोलित करने का (हृदे शम्) हृदय के लिये कल्याणकारी हो (तं यं भावयुः-सुनोति) उस जिस पुत्र को आत्मभाव चाहनेवाली अपनानेवाली इन्द्राणी उत्पन्न करती है (न सः-ईशे) वह नहीं स्वामित्व करता है, न ही गृहस्थभाव को प्राप्त है (यस्य कपृत्) जिसका सुख देनेवाला अङ्ग (सक्थ्या-अन्तरा लम्बते) दोनोंसांथलों जङ्घाओं के मध्य में लम्बित होता है(स-इत्-ईशे)वह ही गृहस्थ कर्म पर अधिकार करता है (यस्य निषेदुषः) जिस निकट शयन करते हुए का (रोमशं विजृम्भते) रोमोंवाला अङ्ग विजृम्भन करता है-फड़कता है (न सः-ईशे) वह गृहस्थ कर्म पर अधिकार नहीं करता है (यस्य निषेदुषः-रोमशं विजृम्भते) जिसके निकट शयन किये हुए रोमोंवालाअङ्गफड़कता है (सः-इत्-ईशे) वह ही गृहस्थकर्म पर अधिकार रखता है (यस्य सक्थ्या-अन्तरा कपृत्-लम्बते) जिसके निकट शयन करने पर सांथलों-जङ्घाओं के बीच में सुखदायक अङ्ग विजृम्भित होता है, वह ही गृहस्थकर्म पर अधिकार करता है ॥१५-१७॥
+पदार्थान्वयभाषाः -  (वृषभः-न तिग्मशृङ्गः) जैसे तीक्ष्ण शृङ्गवाला वृषभ-साँड (यूथेषु-अन्तः-रोरुवत्) गोसमूहों के अन्दर बहुत शब्द करता है, तथा वैसे (इन्द्र) हे उत्तरध्रुव ! तू खगोल के पिण्डों में मानो अपना घोष करता है (ते मन्थः) तेरा मन्थन व्यापार पिण्डों को आन्दोलित करने का (हृदे शम्) हृदय के लिये कल्याणकारी हो (तं यं भावयुः-सुनोति) उस जिस पुत्र को आत्मभाव चाहनेवाली अपनानेवाली इन्द्राणी उत्पन्न करती है (न सः-ईशे) वह नहीं स्वामित्व करता है, न ही गृहस्थभाव को प्राप्त है (यस्य कपृत्) जिसका सुख देनेवाला अङ्ग (सक्थ्या-अन्तरा लम्बते) दोनोंसांथलों जङ्घाओं के मध्य में लम्बित होता है(स-इत्-ईशे)वह ही गृहस्थ कर्म पर अधिकार करता है (यस्य निषेदुषः) जिस निकट शयन करते हुए का (रोमशं विजृम्भते) रोमोंवाला अङ्ग विजृम्भन करता है-फड़कता है (न सः-ईशे) वह गृहस्थ कर्म पर अधिकार नहीं करता है (यस्य निषेदुषः-रोमशं विजृम्भते) जिसके निकट शयन किये हुए रोमोंवालाअङ्गफड़कता है (सः-इत्-ईशे) वह ही गृहस्थकर्म पर अधिकार रखता है (यस्य सक्थ्या-अन्तरा कपृत्-लम्बते) जिसके निकट शयन करने पर सांथलों-जङ्घाओं के बीच में सुखदायक अङ्ग विजृम्भित होता है, वह ही गृहस्थकर्म पर अधिकार करता है ॥१५-१७॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  रोमवाले अङ्ग का फड़फड़ाना सुखप्रद अङ्ग का सांथलों-योनिमध्य में अवलम्बित होना गृहस्थकर्म पर अधिकार कराता है ॥१५-१७॥
+भावार्थभाषाः -  रोमवाले अङ्ग का फड़फड़ाना सुखप्रद अङ्ग का सांथलों-योनिमध्य में अवलम्बित होना गृहस्थकर्म पर अधिकार कराता है ॥१५-१७॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
@@ -4572,13 +4600,6 @@ Wie ein spitzhorniger Stier, der in den Herden brüllt, ist er: Der Gerstentrank
 +++(अतो मय्य् अवधेहि, न मृगे।)+++  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः ॥ १०.०८६.१६  
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/16_na_seshe.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-न सेशे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॑त् ।  
-सेदी॑शे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/16_na_seshe.md">
@@ -4667,7 +4688,12 @@ vijŕ̥mbhate ← √jr̥mbh- (root)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न सेशे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॑त् ।  
+सेदी॑शे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -4794,7 +4820,6 @@ _________
     chief(a).”
 
 _________
-
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -4871,13 +4896,6 @@ Nicht der ist stark, dessen Glied schlaff zwischen den Schenkeln herabhängt; so
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/17_na_seshe.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-न सेशे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते ।  
-सेदी॑शे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॒द्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/17_na_seshe.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -4904,11 +4922,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 īśe ← √īś- (root)  
@@ -4964,7 +4982,12 @@ sakthyā̀ ← sakthī́- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+न सेशे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते ।  
+सेदी॑शे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॒द्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -5091,7 +5114,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यस्य। कपृत्- शेपः। सक्थ्या अन्तरा- सक्थिनी अन्तरा। रम्बते- लम्बते। सः। न ईशे- न  मैथुनाय ईष्टे। यस्य। निषेदुषः- शयानस्य। रोमशम्- उपस्थम्। विजृम्भते- विवृतं भवति। सः।  इत्- एव। ईशे- मैथुनाय ईष्टे॥ १६-१७॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -5101,7 +5128,7 @@ _________
 
 <details><summary>Tilak - Commentary</summary>
 
-The fifteenth and the sixteenth seem to be addressed to Indra by Indrāṇī, and the seventeenth to Indrāṇī by Indra. In the fifteenth Indrāni, according to Sāyāṇa, asked Indra to sport with her just as a bull, with pointed horns, roars amongst a number of cows. The next two verses do not appear to be relevant to our purpose. We may therefore pass these over, and resume the thread of the story. Pischel and Geldner suppose that the 17th and 18th verses are addressed by Vr̥ṣakapāyī. 
+The fifteenth and the sixteenth seem to be addressed to Indra by Indrāṇī, and the seventeenth to Indrāṇī by Indra. In the fifteenth Indrāni, according to Sāyāṇa, asked Indra to sport with her just as a bull, with pointed horns, roars amongst a number of cows. The next two verses do not appear to be relevant to our purpose. We may therefore pass these over, and resume the thread of the story. Pischel and Geldner suppose that the 17th and 18th verses are addressed by Vr̥ṣakapāyī.
 </details>
 
 <details><summary>Wilson</summary>
@@ -5127,7 +5154,7 @@ He is master, whose penis hangs (limp) between his thighs.”
 <details><summary>Griffith</summary>
 
 न सेशे॒ यस्य॑ रोम॒शं नि॑षे॒दुषो॑ वि॒जृम्भ॑ते ।  
-सेदी॑शे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॒द्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
+सेदी॑शे॒ यस्य॒ रम्ब॑तेऽन्त॒रा स॒क्थ्या॒३॒॑ कपृ॒द्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>Geldner</summary>
@@ -5150,12 +5177,12 @@ Nicht der ist stark, dessen behaartes Glied, wenn er sich niedergelassen hat, si
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (वृषभः-न तिग्मशृङ्गः) जैसे तीक्ष्ण शृङ्गवाला वृषभ-साँड (यूथेषु-अन्तः-रोरुवत्) गोसमूहों के अन्दर बहुत शब्द करता है, तथा वैसे (इन्द्र) हे उत्तरध्रुव ! तू खगोल के पिण्डों में मानो अपना घोष करता है (ते मन्थः) तेरा मन्थन व्यापार पिण्डों को आन्दोलित करने का (हृदे शम्) हृदय के लिये कल्याणकारी हो (तं यं भावयुः-सुनोति) उस जिस पुत्र को आत्मभाव चाहनेवाली अपनानेवाली इन्द्राणी उत्पन्न करती है (न सः-ईशे) वह नहीं स्वामित्व करता है, न ही गृहस्थभाव को प्राप्त है (यस्य कपृत्) जिसका सुख देनेवाला अङ्ग (सक्थ्या-अन्तरा लम्बते) दोनोंसांथलों जङ्घाओं के मध्य में लम्बित होता है(स-इत्-ईशे)वह ही गृहस्थ कर्म पर अधिकार करता है (यस्य निषेदुषः) जिस निकट शयन करते हुए का (रोमशं विजृम्भते) रोमोंवाला अङ्ग विजृम्भन करता है-फड़कता है (न सः-ईशे) वह गृहस्थ कर्म पर अधिकार नहीं करता है (यस्य निषेदुषः-रोमशं विजृम्भते) जिसके निकट शयन किये हुए रोमोंवालाअङ्गफड़कता है (सः-इत्-ईशे) वह ही गृहस्थकर्म पर अधिकार रखता है (यस्य सक्थ्या-अन्तरा कपृत्-लम्बते) जिसके निकट शयन करने पर सांथलों-जङ्घाओं के बीच में सुखदायक अङ्ग विजृम्भित होता है, वह ही गृहस्थकर्म पर अधिकार करता है ॥१५-१७॥
+पदार्थान्वयभाषाः -  (वृषभः-न तिग्मशृङ्गः) जैसे तीक्ष्ण शृङ्गवाला वृषभ-साँड (यूथेषु-अन्तः-रोरुवत्) गोसमूहों के अन्दर बहुत शब्द करता है, तथा वैसे (इन्द्र) हे उत्तरध्रुव ! तू खगोल के पिण्डों में मानो अपना घोष करता है (ते मन्थः) तेरा मन्थन व्यापार पिण्डों को आन्दोलित करने का (हृदे शम्) हृदय के लिये कल्याणकारी हो (तं यं भावयुः-सुनोति) उस जिस पुत्र को आत्मभाव चाहनेवाली अपनानेवाली इन्द्राणी उत्पन्न करती है (न सः-ईशे) वह नहीं स्वामित्व करता है, न ही गृहस्थभाव को प्राप्त है (यस्य कपृत्) जिसका सुख देनेवाला अङ्ग (सक्थ्या-अन्तरा लम्बते) दोनोंसांथलों जङ्घाओं के मध्य में लम्बित होता है(स-इत्-ईशे)वह ही गृहस्थ कर्म पर अधिकार करता है (यस्य निषेदुषः) जिस निकट शयन करते हुए का (रोमशं विजृम्भते) रोमोंवाला अङ्ग विजृम्भन करता है-फड़कता है (न सः-ईशे) वह गृहस्थ कर्म पर अधिकार नहीं करता है (यस्य निषेदुषः-रोमशं विजृम्भते) जिसके निकट शयन किये हुए रोमोंवालाअङ्गफड़कता है (सः-इत्-ईशे) वह ही गृहस्थकर्म पर अधिकार रखता है (यस्य सक्थ्या-अन्तरा कपृत्-लम्बते) जिसके निकट शयन करने पर सांथलों-जङ्घाओं के बीच में सुखदायक अङ्ग विजृम्भित होता है, वह ही गृहस्थकर्म पर अधिकार करता है ॥१५-१७॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  रोमवाले अङ्ग का फड़फड़ाना सुखप्रद अङ्ग का सांथलों-योनिमध्य में अवलम्बित होना गृहस्थकर्म पर अधिकार कराता है ॥१५-१७॥
+भावार्थभाषाः -  रोमवाले अङ्ग का फड़फड़ाना सुखप्रद अङ्ग का सांथलों-योनिमध्य में अवलम्बित होना गृहस्थकर्म पर अधिकार कराता है ॥१५-१७॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
@@ -5177,13 +5204,6 @@ Nicht der ist stark, dessen behaartes Glied, wenn er sich niedergelassen hat, si
 +++(प्रजापतेः शकट इत्यपि प्रसिद्धः वृषराशिः!)+++  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः ॥ १०.०८६.१८  
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/18_ayamindra_vRShAkapiH.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-अ॒यमि॑न्द्र वृ॒षाक॑पिः॒ पर॑स्वन्तं ह॒तं वि॑दत् ।  
-अ॒सिं सू॒नां नवं॑ च॒रुमादेध॒स्यान॒ आचि॑तं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/18_ayamindra_vRShAkapiH.md">
@@ -5212,11 +5232,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ayám ← ayám (pronoun)  
@@ -5269,7 +5289,12 @@ sūnā́m ← sūnā́- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यमि॑न्द्र वृ॒षाक॑पिः॒ पर॑स्वन्तं ह॒तं वि॑दत् ।  
+अ॒सिं सू॒नां नवं॑ च॒रुमादेध॒स्यान॒ आचि॑तं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -5383,7 +5408,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र। अयम्- एषः। वृषाकपिः। परस्वन्तम्- परस्वहारकम्। हतम्। विदत्- विन्दतु। असिम्-  खड्गम्। सूनाम्- शत्रुवधम्। प्रसूतिं वा। षूङ् प्राणिप्रसवे। नवं चरुम्। आत्- अथ। एधस्य  आचितं अनः- काष्ठपूर्णशकटम्। विन्दतु॥१८॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -5437,7 +5466,7 @@ Indra! Dieser Vrisakapi fand einen getöteten Waldesel, ein Schlachtmesser, eine
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  फिर ज्योतिष विषय प्रारम्भ होता है−(इन्द्र) हे उत्तरध्रुव ! (अयं वृषाकपिः) यह वृषाकपि-सूर्य (परस्वन्तं हतं विदत्) वराहयु-वन्य कुत्ते को मार सका (असिम्) काटनेवाले शस्त्र तलवार को (सूनाम्) वधस्थान को (नवं चरुम्) प्रत्यग्र विषयुक्त अन्न को (आत्) अनन्तर और (एधस्य-आचितम्-अनः) जलाने के लिये ईंधन के भरे शकट-छकड़े को इन हत्या के साधनों को अपने अधीन कर लिया, न मर पाया, यह आश्चर्य है ॥१८॥
+पदार्थान्वयभाषाः -  फिर ज्योतिष विषय प्रारम्भ होता है−(इन्द्र) हे उत्तरध्रुव ! (अयं वृषाकपिः) यह वृषाकपि-सूर्य (परस्वन्तं हतं विदत्) वराहयु-वन्य कुत्ते को मार सका (असिम्) काटनेवाले शस्त्र तलवार को (सूनाम्) वधस्थान को (नवं चरुम्) प्रत्यग्र विषयुक्त अन्न को (आत्) अनन्तर और (एधस्य-आचितम्-अनः) जलाने के लिये ईंधन के भरे शकट-छकड़े को इन हत्या के साधनों को अपने अधीन कर लिया, न मर पाया, यह आश्चर्य है ॥१८॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
@@ -5463,13 +5492,6 @@ Indra! Dieser Vrisakapi fand einen getöteten Waldesel, ein Schlachtmesser, eine
 ऽभि᳓ धी᳓रम् अचाकशं  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः ॥ १०.०८६.१९  
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/19_ayamemi_vichAkashadvichinvandAsamAryam.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-अ॒यमे॑मि वि॒चाक॑शद्विचि॒न्वन्दास॒मार्य॑म् ।  
-पिबा॑मि पाक॒सुत्व॑नो॒ऽभि धीर॑मचाकशं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/19_ayamemi_vichAkashadvichinvandAsamAryam.md">
@@ -5498,11 +5520,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ayám ← ayám (pronoun)  
@@ -5546,7 +5568,12 @@ dhī́ram ← dhī́ra- (nominal stem)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यमे॑मि वि॒चाक॑शद्विचि॒न्वन्दास॒मार्य॑म् ।  
+पिबा॑मि पाक॒सुत्व॑नो॒ऽभि धीर॑मचाकशं॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -5642,7 +5669,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+दासमार्यम्। विचाकशत्- पश्यन्। विचिन्वन्- अन्विष्यन्। अयम्- एषोहम्। एमि- आगच्छामि।  पाकसुत्वनः- रसनिष्पादकस्य रसम्। पिबामि- अनुभवामि। धीरम्- धारणाकुशलम्। अभि  चाकशम्- अभिपश्यामि॥१९॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -5658,7 +5689,7 @@ Pischel and Geldaer translate the verse very nearly as I have done. They, howeve
 
 Indrāṇī now says that this dead animal should be given to Vr̥ṣhākapi, especially as Indra has already got his oblations of bulls. I have already shown that there were several legends about the " antelope's head." It seems that Indrāṇī, referring to some of them, assures Indra that it was not Vriṣākapi in the form of the antelope which she killed, but some one else (literally parasvantam - representing another than Vr̥ṣākapi, as Sāyaṇa takes it.)
 
-Thereon Indra, having thus saved Vr̥ṣākapi by his intercession, observes, "Thus do I go seeing and discriminating between a dasa and an arya ; I take my drink from those that prepare Soma juice and cook the oblations, and thus behold or protect the intelligent sacrificers." In another word, Indra is glad that he has saved an Arya, and triumphantly declares that he is always careful to distinguish between an Arya and a Dāsa, the latter of whom he would punish and kill, e.g., Vr̥tra, who is said to be a Dāsa, Vr̥ṣākapi being thus saved Indra, in the following verses, bids him a farewell, wishing for a safe journey and speedy return. These verses are very important for our present purpose, and I shall therefore examine them singly. 
+Thereon Indra, having thus saved Vr̥ṣākapi by his intercession, observes, "Thus do I go seeing and discriminating between a dasa and an arya ; I take my drink from those that prepare Soma juice and cook the oblations, and thus behold or protect the intelligent sacrificers." In another word, Indra is glad that he has saved an Arya, and triumphantly declares that he is always careful to distinguish between an Arya and a Dāsa, the latter of whom he would punish and kill, e.g., Vr̥tra, who is said to be a Dāsa, Vr̥ṣākapi being thus saved Indra, in the following verses, bids him a farewell, wishing for a safe journey and speedy return. These verses are very important for our present purpose, and I shall therefore examine them singly.
 </details>
 
 <details><summary>Wilson</summary>
@@ -5735,13 +5766,6 @@ Ich hier gehe scharf blickend einher, Arier und Barbaren unterscheidend; ich tri
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/20_dhanva_cha.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-धन्व॑ च॒ यत्कृ॒न्तत्रं॑ च॒ कति॑ स्वि॒त्ता वि योज॑ना ।  
-नेदी॑यसो वृषाक॒पेऽस्त॒मेहि॑ गृ॒हाँ उप॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/20_dhanva_cha.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -5768,11 +5792,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ca ← ca (invariable)  
@@ -5834,7 +5858,12 @@ ihi ← √i- 1 (root)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+धन्व॑ च॒ यत्कृ॒न्तत्रं॑ च॒ कति॑ स्वि॒त्ता वि योज॑ना ।  
+नेदी॑यसो वृषाक॒पेऽस्त॒मेहि॑ गृ॒हाँ उप॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -5964,7 +5993,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यः। कृन्तत्रम्- कर्तनीयं तर्तव्यमिति भावः। सः- तत् । धन्व- अन्तरिक्षम्। कति स्वित्-  कति। ता- तानि। योजना- योजनानि सन्ति। नेदीयसः- समीपस्थानात्। वृषाकपे। अस्तमेहि-  त्वद्गृहं गच्छ। गृहान्- अस्मत्सदनानि। उप- आगच्छ॥२०॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -5990,7 +6023,7 @@ I would therefore translate the verse thus, "O Vr̥ṣākapi! go to the house th
 
 The idea that the sun falls down from the autumnal equinox is an old one. To Ait. Br. iii. 18 and in Taitt. Br. i. 3. 12. 1 the ceremonies on on the Viṣūvān or the equinoctial day in a satra are described, and there we are told that "gods were afraid of the sun falling down from the sky and so supported him," and being thus supported he "became uttara to all". The ait. Br. iii. 18 has thus the same word uttara that we have in this verse, and it is natural to suppose that both relate to the same subject. I have also quoted a passage from the Aitareya Brāhmaṇa where nedīyas is contrasted with upariṣhṭat. From these I infer that the verse, we are now considering, describes the descent of the sun into the southern or the lower hemisphere, and that Indra asks him to come back again to the house of Gods, i.e., the northern hemisphere.
 
-I have already given in full my reasons for understanding nedīyas in a different sense. But I may remark that, even accepting the common meaning of the word, the verse may still be interpreted in the way I have suggested. 
+I have already given in full my reasons for understanding nedīyas in a different sense. But I may remark that, even accepting the common meaning of the word, the verse may still be interpreted in the way I have suggested.
 </details>
 
 <details><summary>Wilson</summary>
@@ -6034,12 +6067,12 @@ Das wüste Land und die jähen Abhänge, wie viele Meilen sind sie entfernt? dru
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
 
-पदार्थान्वयभाषाः -  (वृषाकपे) हे सूर्य ! (धन्व च यत् कृन्तत्रं च) चाप-कमान और जो छेदनसाधन शर-बाण (कति स्वित्-ता योजना) किन्हीं योजन-योक्तव्य स्थान हैं (अस्तं वि-आ-इहि) अपने वसन्तसम्पात घर को छोड़ (नेदीयसः-गृहान्-उप०) अत्यन्त निकट के घरों को प्राप्त कर ॥२०॥
+पदार्थान्वयभाषाः -  (वृषाकपे) हे सूर्य ! (धन्व च यत् कृन्तत्रं च) चाप-कमान और जो छेदनसाधन शर-बाण (कति स्वित्-ता योजना) किन्हीं योजन-योक्तव्य स्थान हैं (अस्तं वि-आ-इहि) अपने वसन्तसम्पात घर को छोड़ (नेदीयसः-गृहान्-उप०) अत्यन्त निकट के घरों को प्राप्त कर ॥२०॥
 </details>
 
 <details><summary>ब्रह्ममुनि - भावार्थः</summary>
 
-भावार्थभाषाः -  सूर्य का वसन्तसम्पात बिन्दु निज स्थान है और ध्रुव का उत्तर में तीन राशि परे है। छः राशियों के चाप को शर-बाण तीन राशि पर चाप मेंखड़ा होता है। जब उधर दृष्ट होगा, दिखाई पड़ेगा, उत्तरी ध्रुव के पास पहुँचता है ॥२०॥
+भावार्थभाषाः -  सूर्य का वसन्तसम्पात बिन्दु निज स्थान है और ध्रुव का उत्तर में तीन राशि परे है। छः राशियों के चाप को शर-बाण तीन राशि पर चाप मेंखड़ा होता है। जब उधर दृष्ट होगा, दिखाई पड़ेगा, उत्तरी ध्रुव के पास पहुँचता है ॥२०॥
 </details>
 
 <details><summary>ब्रह्ममुनि - पदार्थः</summary>
@@ -6059,13 +6092,6 @@ Das wüste Land und die jähen Abhänge, wie viele Meilen sind sie entfernt? dru
 +++(तस्य)+++ ऽस्तम् ए᳓षि पथा᳓ पु᳓नर्  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः ॥ १०.०८६.२१  
 
-</details>
-</div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/21_punarehi_vRShAkape.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-पुन॒रेहि॑ वृषाकपे सुवि॒ता क॑ल्पयावहै ।  
-य ए॒ष स्व॑प्न॒नंश॒नोऽस्त॒मेषि॑ प॒था पुन॒र्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 </div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/21_punarehi_vRShAkape.md">
@@ -6094,11 +6120,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ā́ ← ā́ (invariable)  
@@ -6148,7 +6174,12 @@ púnar ← púnar (invariable)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पुन॒रेहि॑ वृषाकपे सुवि॒ता क॑ल्पयावहै ।  
+य ए॒ष स्व॑प्न॒नंश॒नोऽस्त॒मेषि॑ प॒था पुन॒र्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -6254,7 +6285,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+६    वृषाकपे। पुनरेहि- पुनरागच्छ। सुविता- कल्याणानि। कल्पयावहै- अहमिन्द्राणी च कुर्याव। यः।  एषः- अयम्। स्वप्ननंशनः- स्वापनाशनः। तेन। पथा- मार्गेण। अस्तम्- गृहम्। एषि- गच्छ।  इदमिन्द्रवचनम्। यद्यपि मेधाबलस्याध्यात्मसाधने चापल्यादिलक्षणयुक्तं प्राणमयस्थबलं स्वनिकृष्टं  क्वचिदपेक्षितं तथापि तेनानासक्तिरावश्यकी। तस्मादेव इन्द्रेण वृषाकपेर्दूरप्रापणम्॥२१॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -6264,7 +6299,7 @@ _________
 
 <details><summary>Tilak - Commentary</summary>
 
-Vr̥ṣikapi has gone down to the netherworld. This verse now describes what Indra will do when he returns. Says Indra, "O Vr̥ṣākapi ! You, the destroyer of sleep, who are going to the house, come back again, again by (your) way. We would perform the sacrifices. Indra, &c." The verse thus distinctly refers to the recommencement of the sacrifices in the Devayāna or the Uttarāyaṇa as understood in old days. The word suvita is from the same root as vaitānika and kalpyāvahai is from kl̥p, the root which gives us the word kalpa in kalpasūtras. Savita kalpyāvahai thus means “we would perform the vaitānika ceremonies," which, as described in the first verse, were stopped when the sun went down to the neither world I may also here point out that the house in the nether world or, as Sāyaṇa interprets it, the house of the enemy is called asta - literally 'thrown', while Indra's house is called gr̥ha. The sun goes down to the asta and returns up to the gr̥ha of Indra. This verse, in so far as it speaks of the recommencement of sacrificial ceremonies, confirms the interpretation I have proposed for the preceding verse. 
+Vr̥ṣikapi has gone down to the netherworld. This verse now describes what Indra will do when he returns. Says Indra, "O Vr̥ṣākapi ! You, the destroyer of sleep, who are going to the house, come back again, again by (your) way. We would perform the sacrifices. Indra, &c." The verse thus distinctly refers to the recommencement of the sacrifices in the Devayāna or the Uttarāyaṇa as understood in old days. The word suvita is from the same root as vaitānika and kalpyāvahai is from kl̥p, the root which gives us the word kalpa in kalpasūtras. Savita kalpyāvahai thus means “we would perform the vaitānika ceremonies," which, as described in the first verse, were stopped when the sun went down to the neither world I may also here point out that the house in the nether world or, as Sāyaṇa interprets it, the house of the enemy is called asta - literally 'thrown', while Indra's house is called gr̥ha. The sun goes down to the asta and returns up to the gr̥ha of Indra. This verse, in so far as it speaks of the recommencement of sacrificial ceremonies, confirms the interpretation I have proposed for the preceding verse.
 </details>
 
 <details><summary>Wilson</summary>
@@ -6340,13 +6375,6 @@ Gehe wieder zurück, Vrischākapi, wir beide wollen dein Wohlergehen bewirken; g
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/22_yadudancho_vRShAkape.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-यदुद॑ञ्चो वृषाकपे गृ॒हमि॒न्द्राज॑गन्तन ।  
-क्व१॒॑ स्य पु॑ल्व॒घो मृ॒गः कम॑गञ्जन॒योप॑नो॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/22_yadudancho_vRShAkape.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -6373,11 +6401,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 údañcaḥ ← údañc- (nominal stem)  
@@ -6427,7 +6455,12 @@ kám ← ká- (pronoun)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+यदुद॑ञ्चो वृषाकपे गृ॒हमि॒न्द्राज॑गन्तन ।  
+क्व१॒॑ स्य पु॑ल्व॒घो मृ॒गः कम॑गञ्जन॒योप॑नो॒ विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -6556,7 +6589,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+वृषाकपे। इन्द्र। यत्- यदा। उदञ्चः- उद्गामिनः सन्तः। गृहम्- सदनम्। अजगन्त- आगच्छत।  तदा। पुल्वघः- बह्वादीति यास्कः। मृगः- मर्कटः। सः। जनयोपनः- जनमोदयिता। क्व- कुत्र।  कम्- कं वा देशम्। अगन्- अगच्छत्॥२२॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -6578,7 +6615,7 @@ Sāyaṇa, however, has nothiag else to propose, and he quietly leaves the word 
 
 In the Taittirīya Brāhmaṇa i. 8. 2. 1, we are told that the Vedic priests, e.g., Maisoni, observed the position of the sun amongst stars in the morning, and, as the Nakṣatras disappear when the sun rises, they determined the position by observing what Nakṣatra rose a little before the sun. The present verse records an observation to make which no greater skill is required. It tells us that when Vr̥ṣākapi went to the house of Indra his Mr̥ga was not visible anywhere, thus clearly indicating that sun rose with Orion on that day. The word udancha is especially remarkable in this case. The sun must be udancha when he goes to the house of Indra, which, the burden of the song tells us, is in the northern or the upper part of the universe. This verse, therefore, clearly describes not merely the rising sun, but the position of the rising sun amongst the constellations when he is at the vernal equinox, the entrance of the house of gods or the house of Indra. Sāyaṇa and Yāska have completely missed this point and have made Vr̥ṣākapi represent the rising sun as an unnecessary rival to Savita (Nirukta 12. 12). 
 
-If the meaning I have proposed is correct, we have here a record of the position of the sun at the vernal equinox. I take pulvaghas in the original to mean "great sinner;" but it may be translated as Yāska proposes by "omnivorous" or "voracious." But in either case I would take it as referring to the antelope's spoiling the things of Indrāṇī. The point is that the sinning Mr̥ga would not be with Vr̥ṣākapi when he again goes to the house of Indra, and Indrāṇī would have no cause to complain of the presence of the odious Mr̥ga at the time. 
+If the meaning I have proposed is correct, we have here a record of the position of the sun at the vernal equinox. I take pulvaghas in the original to mean "great sinner;" but it may be translated as Yāska proposes by "omnivorous" or "voracious." But in either case I would take it as referring to the antelope's spoiling the things of Indrāṇī. The point is that the sinning Mr̥ga would not be with Vr̥ṣākapi when he again goes to the house of Indra, and Indrāṇī would have no cause to complain of the presence of the odious Mr̥ga at the time.
 </details>
 
 <details><summary>Wilson</summary>
@@ -6654,13 +6691,6 @@ Als ihr, Indra und Vrisakapi, aufwärts nach Hause gegangen waret, wo war das vi
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="5" title="मूलम्" unfilled url="/vedAH_Rk/shAkalam/saMhitA/mUlam/10/086/23_parshurha_nAma.md">
-<details><summary><h5>मूलम् ...{Loading}...</h5></summary>
-
-पर्शु॑र्ह॒ नाम॑ मान॒वी सा॒कं स॑सूव विंश॒तिम् ।  
-भ॒द्रं भ॑ल॒ त्यस्या॑ अभू॒द्यस्या॑ उ॒दर॒माम॑य॒द्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
-</details>
-</div>
 <div class="js_include collapsed" fieldnames="devataa,RShiH,ChandaH" newlevelforh1="5" title="सर्वाष् टीकाः" unfilled url="/vedAH_Rk/shAkalam/saMhitA/sarvASh_TIkAH/10/086/23_parshurha_nAma.md">
 <details><summary><h5>सर्वाष् टीकाः ...{Loading}...</h5></summary>
 <details><summary>अधिमन्त्रम् - sa</summary>
@@ -6687,11 +6717,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 ha ← ha (invariable)  
@@ -6744,7 +6774,12 @@ yásyāḥ ← yá- (pronoun)
 
 víśvasmāt ← víśva- (nominal stem)  
 {case:ABL, gender:N, number:SG}
+</details>
 
+<details><summary>मूलम् - शाकलम्</summary>
+
+पर्शु॑र्ह॒ नाम॑ मान॒वी सा॒कं स॑सूव विंश॒तिम् ।  
+भ॒द्रं भ॑ल॒ त्यस्या॑ अभू॒द्यस्या॑ उ॒दर॒माम॑य॒द्विश्व॑स्मा॒दिन्द्र॒ उत्त॑रः ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
@@ -6865,7 +6900,11 @@ _________
     chief(a).”
 
 _________
+</details>
 
+<details><summary>रङ्गनाथः</summary>
+
+पर्शुह नाम- परशुर्नारीरूपेणात्रोच्यते। सा विवेकप्रतीकभूता भेदनात्। तस्मादेव सा मानवी। मन  ज्ञाने। मन अवबोधे। मानवी- मनुजा ज्ञानजा अवबोधजेत्यर्थः। साकम्- युगपदेव। विंशतिम्-  प्रभूतम्। सूसव- सोमं रसं ससर्ज। साकं पचन्ति विंशतिमिति श्रुतेः। भल- हे भेदक।  भलतिर्भेदनकर्मा। यस्याः- यस्याः पर्शोः कारणात्। उदरम्। आमयत्- पुष्टमभवत्। रसः  सम्यगनुभूत इति भावः। उताहमद्मिु पीव इदुभा कुक्षी पृणन्तीति श्रुतेः। त्यस्याः- तस्याः। भद्रम्-  मङ्गळम्। अभूत्- अभवत्॥२३॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -6882,7 +6921,7 @@ We also suspect that in the last ṛk of the sūkta, there is an allusion to the
 
 Sāyaṇa translates, "O arrow I Manu's daughter, named Parśu, gave birth to twenty (sons) together. Let her whose belly was big be happy! Indra is in the upper (portion) of the universe." I cannot, however, understand what it means. Parshu, according to Sāyaṇa, is a Mr̥gī or a female antelope. But why address the arrow to give happiness to her ? Can it have any reference to the arrow with which Orion was killed ? Then who are these twenty sons ? Are they the same as twenty mentioned in verse 14 ? Is it likely that twenty alone are mentioned leaving the additional fifteen to be understood from the context?
 
-The concluding verse undoubtedly appears to be benedictory. But I have not found a satisfactory solution of the above questions, Perhaps bhala meaning 'auspicious,' may be used for Vr̥ṣākapi, and Indra addressing him pronounces benediction on the female that gave birth to the yellow antelope and several other stars that are supposed to be either killed or swallowed by Indra in this hymn. But I cannot speak with certainty on the point and must leave the verse as it is. 
+The concluding verse undoubtedly appears to be benedictory. But I have not found a satisfactory solution of the above questions, Perhaps bhala meaning 'auspicious,' may be used for Vr̥ṣākapi, and Indra addressing him pronounces benediction on the female that gave birth to the yellow antelope and several other stars that are supposed to be either killed or swallowed by Indra in this hymn. But I cannot speak with certainty on the point and must leave the verse as it is.
 </details>
 
 <details><summary>Wilson</summary>
