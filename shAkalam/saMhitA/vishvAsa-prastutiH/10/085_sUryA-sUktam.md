@@ -90,8 +90,8 @@ unicode_script = "devanagari"
 
 सूर्या᳓या वहतुः᳓ प्रा᳓गात्  
 सविता᳓ य᳓मवा᳓सृजत् ।  
-अघा᳓सु+++(=मघासु इति शौनकसंहितायां)+++᳓ ह᳓न्य᳓न्ते+++(=ताड्यन्ते)+++ गा᳓वो᳓ +++(रथबन्धनाय)+++  
-ऽर्जुन्योः+++(=पल्गुनीषु इति शौनकसंहितायां)+++᳓ प᳓र्युह्यते ॥१३  
+अघा᳓सु+++(=मघासु इति शौनकसंहितायां)+++ ह᳓न्य᳓न्ते+++(=ताड्यन्ते)+++ गा᳓वो᳓ +++(रथबन्धनाय)+++  
+ऽर्जुन्योः+++(=पल्गुनीषु इति शौनकसंहितायां)+++ प᳓र्युह्यते ॥१३  
 
 </details>
 </div>
@@ -167,7 +167,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/21_udIrShvAtaH_pativatI.md">
 <details open><summary><h2>२१ उदीर्ष्वातः पतिवती ...{Loading}...</h2></summary>
 
-उ᳓दीर्ष्व᳓+++(=उद्गच्छ)+++ +अ᳓तः प᳓तिवती ह्ये३᳓षा᳓  
+उ᳓दीर्ष्व+++(=उद्गच्छ)+++ +अ᳓तः प᳓तिवती ह्ये᳙षा᳓  
 विश्वा᳓वसुं न᳓मसा गीर्भि᳓र् ईळे ।  
 अन्या᳓म् इच्छ पितृष᳓दं व्य᳙क्तां  
 स᳓ ते भागो᳓ जनु᳓षा त᳓स्य विद्धि ॥२१
@@ -254,7 +254,7 @@ unicode_script = "devanagari"
 
 अश्रीरा᳓ तनू᳓र् भवति  
 रु᳓शती पाप᳓यामुया᳓  
-प᳓तिर् य᳓द् वध्वो᳡ वा᳓ससा  
+प᳓तिर् य᳓द् वध्वो᳙ वा᳓ससा  
 स्व᳓म् अ᳓ङ्गम् अभिधि᳓त्सते
 </details>
 </div>
@@ -329,7 +329,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085/38_tubhyamagre_paryavahantsUryAM.md">
 <details open><summary><h2>३८ तुभ्यमग्रे पर्यवहन्त्सूर्यां ...{Loading}...</h2></summary>
 
-+++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](../../AdityaH/Rk/raibhy_AsId_anudeyI/) दृश्या।)+++  
++++(सूर्या नाम सवितुर्दुहिता विवाहस्य अधिष्ठात्री देवता -  [सूर्यासूक्ते](/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/085_sUryA-sUktam/) दृश्या।)+++  
 
 तु᳓भ्यम् +++(अग्नये)+++ अ᳓ग्रे +++(गन्धर्वाः)+++  प᳓र्यवहन्त्  
 सूर्यां᳓ वहतु᳓ना सह᳓ ।  

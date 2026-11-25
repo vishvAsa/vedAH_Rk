@@ -10,7 +10,7 @@ unicode_script = "devanagari"
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/01_yamaichChAma_manasA.md">
 <details open><summary><h2>०१ यमैच्छाम मनसा ...{Loading}...</h2></summary>
 
-य᳓मै᳓च्छाम म᳓नसा सो३᳓ ऽय᳓म् आ᳓गाद्+++(=आजगाम)+++  
+य᳓मै᳓च्छाम म᳓नसा सो᳙ ऽय᳓म् आ᳓गाद्+++(=आजगाम)+++  
 यज्ञ᳓स्य विद्वा᳓न् प᳓रुषश्+++(=अङ्गानां)+++ चिकित्वा᳓न् ।  
 स᳓ नो यक्षद् देव᳓ताता+++([तौ] - यज्ञे)+++ य᳓जीयान्+++(=यष्टृतरः)+++  
 नि᳓ हि᳓ ष᳓त्सद्+++(=सीदतु)+++ अ᳓न्तरः+++(=मध्यवर्ती)+++ पू᳓र्वो अस्म᳓त्+++(तः)+++ ॥१

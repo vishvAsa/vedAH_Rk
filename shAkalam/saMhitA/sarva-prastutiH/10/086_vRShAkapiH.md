@@ -701,7 +701,7 @@ Du läufst ja weiter, Indra, über die Verfehlung des Vrisakapi hinweg sehend. A
 कि᳓म् अयं᳓ त्वां᳓ वृषा᳓कपिश्  
 चका᳓र +++(सूर्यसंसर्गाद् इन्द्रप्रीत्या च)+++ ह᳓रितो+++(=सुवर्णो)+++ मृगः᳓ ।  
 य᳓स्मा +++(ईर्ष्याम्)+++ इरस्य᳓सि+++(=यच्छसि)+++ +इद् उ न्व्,  
-अ᳓१᳓र्यो᳓+++(←अरि)+++ वा पुष्टिम᳓द् व᳓सु?  
+अ᳙र्यो᳓+++(←अरि)+++ वा पुष्टिम᳓द् व᳓सु?  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः ॥ १०.०८६.०३  
 
 </details>
@@ -2225,7 +2225,7 @@ Ich spreche, o leicht zu gewinnende Mutter, wie es bald geschehen wird. Mein Hin
 किं᳓ सुबाहो सुअङ्गुरे  
 पृ᳓थुष्टो पृ᳓थुजाघने  
 किं᳓ शूरपत्नि नस् तुव᳓म्  
-अभ्य् अ᳡मीषि वृषा᳓कपिं  
+अभ्य् अ᳙मीषि वृषा᳓कपिं  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
 
@@ -2237,11 +2237,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 kím ← ká- (pronoun)  
@@ -2412,6 +2412,11 @@ _________
 
 _________
 
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सुबाहो- शोभनबाहो। स्वङ्गुरे- शोभनाङ्गुळिके। पृथिष्टो- पृथुभावे। पृथुजाघने- पृथुजघने।  शूरपत्नि- वीरपत्नि। किम्। नः- अस्मदीयम्। वृषाकपिम्। अभ्यमीषि- अभिक्रुध्यसि॥८॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -3053,7 +3058,7 @@ Sonst ist die Frau auch zum gemeinsamen Opfer oder zur Festversammlung gegangen;
 
 इन्द्राणी᳓म् आसु᳓ ना᳓रिषु  
 सुभ᳓गाम् अह᳓म् अश्रवम्  
-नह्य् अ᳡स्या अपरं᳓ चन᳓  
+नह्य् अ᳙स्या अपरं᳓ चन᳓  
 जर᳓सा म᳓रते प᳓तिर्  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
@@ -3078,7 +3083,7 @@ Sonst ist die Frau auch zum gemeinsamen Opfer oder zur Festversammlung gegangen;
 
 इन्द्राणी᳓म् आसु᳓ ना᳓रिषु  
 सुभ᳓गाम् अह᳓म् अश्रवम्  
-नह्य् अ᳡स्या अपरं᳓ चन᳓  
+नह्य् अ᳙स्या अपरं᳓ चन᳓  
 जर᳓सा म᳓रते प᳓तिर्  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः
 </details>
@@ -3091,11 +3096,11 @@ Popular for linguistic reasons, and possibly also for non-linguistic reasons
 
 _________
 **Pāda-label**  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525)  
-popular;; epic anuṣṭubh (525);; repeated line
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
 _________
 **Morph**  
 āsú ← ayám (pronoun)  
@@ -3259,6 +3264,11 @@ _________
 
 _________
 
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+आसु- एतासु। नारीषु- स्त्रीषु। इन्द्राणीम्- इन्द्रपत्नीम्। सुभगाम्- सौभाग्यवतीम्। अहम्।  अश्रवम्- अशृणवम्। अस्याः- एतस्याः। पतिः- भर्ता। अपरं चन- अपरं भूतजातमिव। जरसा-  वार्धक्येन। न  मरते- न म्रियते॥११॥
 </details>
 
 <details><summary>सायण-भाष्यम्</summary>
@@ -4556,7 +4566,7 @@ Wie ein spitzhorniger Stier, der in den Herden brüllt, ist er: Der Gerstentrank
 <details open><summary><h5>विश्वास-प्रस्तुतिः ...{Loading}...</h5></summary>
 
 न᳓ स᳓+ईशे य᳓स्य र᳓+++(ल)+++म्बते  
-ऽन्तरा᳓ सक्थ्या३᳓+++(=ऊर्वा)+++ क᳓पृत्+++(=शेफः)+++ ।  
+ऽन्तरा᳓ सक्थ्या᳙+++(=ऊर्वा)+++ क᳓पृत्+++(=शेफः)+++ ।  
 से᳓द् ईशे य᳓स्य रोमशं᳓+++(→उपस्थं)+++  
 निषेदु᳓षो +++(मयि मग्नस्य)+++ विजृ᳓म्भते  
 +++(अतो मय्य् अवधेहि, न मृगे।)+++  
@@ -4855,7 +4865,7 @@ Nicht der ist stark, dessen Glied schlaff zwischen den Schenkeln herabhängt; so
 न᳓ स᳓+ईशे य᳓स्य रोमशं᳓  
 निषेदु᳓षो विजृ᳓म्भते ।  
 से᳓दीशे य᳓स्य र᳓+++(ल)+++म्बते  
-ऽन्तरा᳓ सक्थ्या३᳓ क᳓पृद्+++(=शेफः)+++  
+ऽन्तरा᳓ सक्थ्या᳙ क᳓पृद्+++(=शेफः)+++  
 +++(त्वत्प्रभावस् तादृशः!)+++  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः ॥ १०.०८६.१७  
 
@@ -6324,7 +6334,7 @@ Gehe wieder zurück, Vrischākapi, wir beide wollen dein Wohlergehen bewirken; g
 
 य᳓द् उ᳓दञ्चो वृषाकपे  
 +++(तव)+++ गृह᳓म् इन्द्रा᳓जगन्तन ।  
-क्व᳓१᳓ स्य᳓+++(=स)+++ पुल्वघो᳓+++(=बहुभक्षो)+++ मृगः᳓ +++(सूर्येण सहोदयेनास्तं गतो विषुवाद् ऊर्ध्वम्)+++  
+क्व᳙ स्य᳓+++(=स)+++ पुल्वघो᳓+++(=बहुभक्षो)+++ मृगः᳓ +++(सूर्येण सहोदयेनास्तं गतो विषुवाद् ऊर्ध्वम्)+++  
 क᳓म् +++(देशम्)+++ अगञ्+++(=अगच्छत्)+++ जन-यो᳓पनो+++(=मोदनः)+++  
 वि᳓श्वस्माद् इ᳓न्द्र उ᳓त्तरः ॥ १०.०८६.२२  
 

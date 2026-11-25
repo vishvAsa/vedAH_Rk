@@ -37,7 +37,7 @@ unicode_script: devanagari
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/170/04_vibhrAjanjyotiShA_sva1ragachCho.md">
 <details open><summary><h2>०४ विभ्राजञ्ज्योतिषा स्व१रगच्छो ...{Loading}...</h2></summary>
 
-विभ्रा᳓जञ् ज्यो᳓तिषा स्व᳓१᳓र्  
+विभ्रा᳓जञ् ज्यो᳓तिषा स्व᳙र्  
 अ᳓गच्छो रोच+++(मा)+++नं᳓ दिवः᳓ ।  
 ये᳓नेमा᳓ वि᳓श्वा भु᳓वनान्य् आ᳓भृता  
 विश्व᳓कर्मणा विश्व᳓देव्या+++(=वैश्वदेवयागादि)+++वता ॥ ४  

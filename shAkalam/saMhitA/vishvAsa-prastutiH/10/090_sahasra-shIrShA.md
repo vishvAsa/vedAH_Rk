@@ -121,12 +121,10 @@ unicode_script = "devanagari"
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/13_brAhmaNo_asya_mukhamAsIdbAhU.md">
-
-ब्राह्मणो᳡ ऽस्य मु᳓खम् आसीद्  
+ब्राह्मणो᳙ ऽस्य मु᳓खम् आसीद्  
 बाहू᳓ राजनि᳓यः कृतः᳓  
 ऊरू᳓ त᳓द् अस्य य᳓द् वइ᳓श्यः  
 पद्भ्यां᳓ शूद्रो᳓ अजायत
-
 </div>
 
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/090/14_chandramA_manaso.md">
