@@ -98,6 +98,12 @@ viśvā́hā ← viśvā́hā (invariable)
 तत्रा॒ रथ॒मुप॑ श॒ग्मँ स॑देम वि॒श्वाहा॑ व॒यँ सु॑मन॒स्यमा॑नाः ॥४५ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+र॒थ॒वाह॑नँ ह॒विर॑स्य॒ नाम॒ यत्रायु॑ध॒न्निहि॑तमस्य॒ वर्म॑ ।  
+तत्रा॒ रथ॒मुप॑ श॒ग्मँ स॑देम वि॒श्वाहा॑ व॒यँ सु॑मन॒स्यमा॑नाः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 र॒थ॒ऽवाह॑नम् । ह॒विः । अ॒स्य॒ । नाम॑ । यत्र॑ । आयु॑धम् । निऽहि॑तम् । अ॒स्य॒ । वर्म॑ ।  
@@ -107,6 +113,11 @@ viśvā́hā ← viśvā́hā (invariable)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 र॒थ॒वाह॑नम्। र॒थ॒वाह॑न॒मिति॑ रथ॒ऽवाह॑नम्। ह॒विः। अ॒स्य॒। नाम॑। यत्र॑। आयु॑धम्। निहि॑त॒मिति॒ निऽहि॑तम्। अ॒स्य॒। वर्म॑। तत्र॑। रथ॑म्। उप॑। श॒ग्मम्। स॒दे॒म॒। वि॒श्वाहा॑। व॒यम्। सु॒म॒न॒स्यमा॑ना॒ इति॑ सुऽमन॒स्यमा॑नाः। ४५।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+र॒थ॒वाह॑न॒मिति॑ रथ-वाह॑नम् । ह॒विः । अ॒स्य॒ । नाम॑ । यत्र॑ । आयु॑धम् । निहि॑त॒मिति॒ नि-हि॒त॒म् । अ॒स्य॒ । वर्म॑ ॥ तत्र॑ । रथ॑म् । उपेति॑ । श॒ग्मम् । स॒दे॒म॒ । वि॒श्वाहेति॑ विश्वा-अहा॑ । व॒यम् । सु॒म॒न॒स्यमा॑ना॒ इति॑ सु-म॒न॒स्यमा॑नाः ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -282,6 +293,11 @@ _________
 तत्रेत्यस्य संहितायां ‘निपातस्य च’ (पा० ६। ३। १३६) इति दीर्घः॥ ४५॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यत्र यस्मिन्नल्पे शकटेऽस्य यजमानस्यऽऽयुध घनूरदिकं वर्म कवचं चेत्येवमादिकं निहितं स्थापितं, य(अ)स्य शकटस्य रथवाहनमिति नामधेयं, प्रत्यागत्य रथोऽस्मिञ्शकटे स्थाप्यत इति तच्छकटं रथवाहनं, तस्य हविर्वदुपकारकत्वाद्धविष्ट्वं, तत्र तस्मिन्रथवाहने शकटे विश्वाहा सर्वेष्वपि दिनेषु सुमनस्यपानाः सौमनस्यं प्राप्ता वयं शग्मं सुखगमनहेतुं रथमुपसदेमोपेत्य स्थाप याम।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -347,6 +363,14 @@ The standard tr. take úpa … sadema as transitive with the chariot as object: 
 
 Car-bearer is the name of his oblation, whercon are laid his Weapons and his Armour.  
      So let us here, each day that passes, honour the helpful Car with hearts exceeding joyful.
+</details>
+
+<details><summary>Keith</summary>
+
+The chariot-bearer is his oblation by name,  
+Where is deposited his armour and his weapon;  
+Then may we sit on the strong car,  
+All the days, with friendly hearts.
 </details>
 
 <details><summary>Geldner</summary>

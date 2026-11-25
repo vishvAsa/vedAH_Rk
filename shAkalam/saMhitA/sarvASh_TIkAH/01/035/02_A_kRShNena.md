@@ -89,6 +89,12 @@ yāti ← √yā- 1 (root)
 हि॒र॒ण्यये॑न सवि॒ता रथे॒ना दे॒वो या॑ति॒ भुव॑नानि॒ पश्य॑न् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+आ स॒त्येन॒ रज॑सा॒ वर्त॑मानो निवे॒शय॑न्न॒मृत॒म्मर्त्य॑ञ्च ।   
+हि॒र॒ण्यये॑न सवि॒ता रथे॒ना दे॒वो या॑ति॒ भुव॑ना वि॒पश्य॑न् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । कृ॒ष्णेन॑ । रज॑सा । वर्त॑मानः । नि॒ऽवे॒शय॑न् । अ॒मृत॑म् । मर्त्य॑म् । च॒ ।  
@@ -103,6 +109,11 @@ yāti ← √yā- 1 (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 आ। कृ॒ष्णेन॑। रज॑सा। वर्त्त॑मानः। नि॒वे॒शय॒न्निति॑ निऽवे॒शय॑न्। अ॒मृत॑म्। मर्त्य॑म्। च॒। हि॒र॒ण्यये॑न। स॒वि॒ता। रथे॑न। आ। दे॒वः। या॒ति॒। भुव॑नानि। पश्य॑न्। १४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+एति॑ । स॒त्येन॑ । रज॑सा । वर्त॑मानः । नि॒वे॒शय॒न्निति॑ नि-वे॒शय॑न् । अ॒मृत॑म् । मर्त्य॑म् । च॒ ॥ हि॒र॒ण्यये॑न । स॒वि॒ता । रथे॑न । एति॑ । दे॒वः । या॒ति॒ । भुव॑ना । वि॒पश्य॒न्निति॑ वि-पश्य॑न्न् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -333,6 +344,11 @@ _________
 ४अभिवेति "अनुगच्छति । अस्तमिते ऽनुगच्छतीत्यर्थः । द्यां भूमिं च ऋणोति व्याप्नोति यस्तं यथोक्त-गुणं सूर्यमभिष्टुम इति सम्बन्धः ॥ १६ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+सत्येन नित्येन रजसा लोकेन ज्योतिर्मयेन मण्डलात्मना आवर्तमानः उदयमस्तमयं चानुपूर्व्येण कुर्वाणः निवेशयन् स्थापयन् जीवयन् अमृतं देवादिलक्षणं मर्त्यं मनुष्यादिलक्षणं च । 'नञो जरमर' इत्युत्तरपदाद्युदात्तत्वम् । हिरण्ययेन हिरण्मयेन रथेन । 'ऋत्व्यवास्त्व' इति निपात्यते । हिरण्यया हिरण्ययानी[नेने]त्येके । सविता देवः । एवं भुवना भुवनानि भूतजातानि विपश्यन् विविधं पश्यन् हितेन योजयन् आयाति आगच्छतु ॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (सं, मा.) - विषयः</summary>
 
 अथ विद्युता किं साध्यमित्याह ॥
@@ -409,6 +425,14 @@ with his golden chariot Savitar the god drives here, gazing upon the  creatures.
 
 Throughout the dusky firmament advancing, laying to rest the immortal and the mortal,  
      Borne in his golden chariot he cometh, Savitar, God who looks on every creature.
+</details>
+
+<details><summary>Keith</summary>
+
+Coming with true light,  
+Placing the mortal and the immortal,  
+With golden car Savitr  
+The god advanceth gazing on the worlds.
 </details>
 
 <details><summary>Griffith (माध्यन्दिनम्)</summary>

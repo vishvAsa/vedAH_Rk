@@ -116,6 +116,14 @@ mādayadhvam ← √mad- (root)
 ये अ॑ग्निजि॒ह्वा उ॒त वा॒ यज॑त्रा आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वम् ॥१०॥ ॥ ५३
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+विश्वे॑ देवाश्शृणु॒तेमँ हव॑म्मे ।   
+ये अ॒न्तरि॑क्षे॒ य उप॒ द्यवि॒ ष्ठ ।  
+ये अ॑ग्निजि॒ह्वा उ॒त वा॒ यज॑त्राः ।  
+आ॒सद्या॒स्मिन्ब॒र्हिषि॑ मादयध्वम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 विश्वे॑ । दे॒वाः॒ । शृ॒णु॒त । इ॒मम् । हव॑म् । मे॒ । ये । अ॒न्तरि॑क्षे । ये । उप॑ । द्यवि॑ । स्थ ।  
@@ -130,6 +138,11 @@ mādayadhvam ← √mad- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 विश्वे॑। दे॒वाः॒। शृ॒णु॒त॒। इम॑म्। हव॑म्। मे॒। ये। अ॒न्तरि॑क्षे। ये। उप॑। द्यवि॑। स्थ। ये। अ॒ग्नि॒जि॒ह्वा। इत्य॑ग्निऽजि॒ह्वाः। उ॒त। वा। यज॑त्राः। आ॒स॒द्येत्या॑ऽस॒द्य। अ॒स्मिन्। ब॒र्हिषि॑। मा॒द॒य॒ध्व॒म्। १०।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+वि᳓श्वे । देवाः । शृणुत᳓ । इम᳓म् । ह᳓वम् । मे । ये᳓ । अन्त᳓रिक्षे । यः᳓ । उ᳓प । द्य᳓वि । ष्ठ᳓ । ये᳓ । अग्नि-जिह्वाः᳓ । उत᳓ । वा । य᳓जत्राः । आ-स᳓द्य । अस्मि᳓न् । बर्हि᳓षि । मादयध्वम् ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -424,6 +437,11 @@ _________
 स्वस्तये अविनाशाय इयात इति ॥ ४४ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे विश्वे देवाः मे हवं मदीयमाह्वानं शृणुत । ये यूयमन्तरिक्षे स्थ अन्तरिक्षलोके स्थिताः ये चोप समीपे पृथिव्यां स्थिताः ये च द्यवि दिवि लोके स्थ ये यूयमग्निजिह्वा अग्निद्वारेण हविषः स्वीकर्तारः उत वा अन्येऽपि वा यजत्राः यष्टव्याः ते सर्वेऽप्यस्मिर्न्बीहषि यागे आसद्य उपविश्य मादयध्वं दृप्ता भवत । अस्मानपि हर्षयत ॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर मनुष्यों को क्या करना चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
@@ -489,6 +507,14 @@ I consider these three vss. as a tṛca. They are thematically unified, by their
 
 Listen, All-Gods, to this mine invocation, Ye who inhabit heaven, and air's midregions,  
      All ye, O Holy Ones, whose tongue is Agni, seated upon this sacred grass, be joyful.
+</details>
+
+<details><summary>Keith</summary>
+
+O ye All-gods, hear my invocation,  
+Ye that are in the atmosphere, ye that are in the sky;  
+Ye with Agni as your tongue, worthy of sacrifice,  
+Sit on this strew and rejoice.
 </details>
 
 <details><summary>Geldner</summary>

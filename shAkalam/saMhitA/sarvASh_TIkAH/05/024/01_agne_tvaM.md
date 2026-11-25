@@ -74,6 +74,12 @@ varūthyàḥ ← varūthyà- (nominal stem)
 अग्ने॒ त्वं नो॒ अन्त॑म उ॒त त्रा॒ता शि॒वो भ॑व वरू॒थ्यः॑ ।
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अग्ने॒ त्वन्नो॒ अन्त॑मः ।    
+उ॒त त्रा॒ता शि॒वो भ॑व वरू॒थ्यः॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । त्वम् । नः॒ । अन्त॑मः । उ॒त । त्रा॒ता । शि॒वः । भ॒व॒ । व॒रू॒थ्यः॑ ॥
@@ -297,6 +303,11 @@ _________
 किंच- हे अग्ने, "वसुः अस्मन्-मित्र-जनानां वासयिता ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+२०६८ अग्ने त्वमिति ।   हेऽग्ने त्वं नोऽस्माकमन्तमोऽन्तिकतमो भव ।   वरूथ्यवरूथे गृहे नित्यं संनिहितो भव ।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -324,6 +335,12 @@ O Agni, be our nearest and our kind rescuer, providing (us) a shield.
 <details><summary>Griffith</summary>
 
 O AGNI, be our nearest Friend, be thou a kind deliverer and a gracious Friend.
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, be thou our nearest,  
+Our protector, kindly, a shield;
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -289,6 +289,14 @@ MAY they ascend, the lowest, highest, midmost, the Fathers who deserve a share o
      May they who have attained the life of spirits, gentle and righteous, aid us when we call them.
 </details>
 
+<details><summary>Keith</summary>
+
+Let them arise, the lower and the higher  
+And the middle fathers who love the Soma;  
+They who lived their lives [3] in goodness and without sin;  
+May these fathers help us when we call.
+</details>
+
 <details><summary>Geldner</summary>
 
 Es sollen sich die näheren, die ferneren und die mittleren somawürdigen Väter aufmachen, die ungefährdet zum Leben eingegangen sind, des Rechten kundig. Diese Väter sollen uns bei den Anrufungen gewogen sein.

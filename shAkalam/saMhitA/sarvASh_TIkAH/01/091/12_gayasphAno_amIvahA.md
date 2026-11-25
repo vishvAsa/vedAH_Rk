@@ -63,10 +63,21 @@ sumitráḥ ← sumitrá- (nominal stem)
 सु॒मि॒त्रः सो॑म नो भव ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+ग॒य॒स्फानो॑ अमीव॒हा व॑सु॒वित्पु॑ष्टि॒वर्ध॑नः ।  
+सु॒मि॒त्रस्सो॑म नो भव ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ग॒य॒ऽस्फानः॑ । अ॒मी॒व॒ऽहा । व॒सु॒ऽवित् । पु॒ष्टि॒ऽवर्ध॑नः ।  
 सु॒ऽमि॒त्रः । सो॒म॒ । नः॒ । भ॒व॒ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ग॒य॒स्फान॒ इति॑ गय-स्फानः॑ । अ॒मी॒व॒हेत्य॑मीव-हा । व॒सु॒विदिति॑ वसु-वित् । पु॒ष्टि॒वर्ध॑न॒ इति॑ पुष्टि-वर्ध॑नः ॥ सु॒मि॒त्र इति॑ सु-मि॒त्रः । सो॒म॒ । नः॒ । भ॒व॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -157,6 +168,13 @@ _________
 **गयस्फानः** । गयः इति धननाम । धनस्य वर्धयिता **अमीवहा** अमीवानां रोगाणां हन्ता **वसुवित्** स्तोतॄणां धनस्य लम्भयिता प्रापयिता **पुष्टिवर्धनः** पुष्टेः संपदो वर्धयिता **सुमित्रः** । शोभनानि मित्राणि सखायो यस्य स तथोक्तः । हे **सोम** त्वं **नः** अस्माकम् एवंगुणविशिष्टः **भव** ॥ गयस्फानः ।  ‘ स्फायी वृद्धौ ' । अन्तर्भावितण्यर्थात् ल्युटि व्यत्ययेन यलोपः । इदमादिषु चतुर्षु पदेषु कृदुत्तरपदप्रकृतिस्वरत्वम् । सुमित्रः । नञ्सुभ्याम् ' इत्युत्तरपदान्तोदात्तत्वम् ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे सोम नो ऽस्मान् प्रत्युच्यमान-विशेषण-विशिष्टो भव।
+
+कानि तानि विशेषणानीति तान्य् उच्यन्ते— गयस्फानो गृहाणां वर्धयिता। अमीवहा रोगाणां हन्ता। वसुविद् धनस्य लम्भयिता। पुष्टि-वर्धनो गवादिषु पुष्टेर् वर्धयिता। सुमित्रः शोभनं यजमान-रूपं मित्रं यस्यासौ सुमित्रः।
+</details>
+
 <details><summary>Wilson</summary>
 
 ## English translation:
@@ -174,7 +192,10 @@ Soma, be a good ally to us.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">
 <details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 The two alliterative root noun compounds vacovíd- (11b) and vasuvíd- (12b) nonetheless contain the two synchronically separate roots, ‘know’ and ‘find’.
+</details>
 
 </details>
 </div>
@@ -183,6 +204,13 @@ The two alliterative root noun compounds vacovíd- (11b) and vasuvíd- (12b) non
 
 Enricher, healer of disease, wealth-finder, prospering our store,  
      Be, Soma, a good Friend to us.
+</details>
+
+<details><summary>Keith</summary>
+
+Enricher, slayer of disease,  
+Wealth-finder, prospering prosperity,  
+O Soma, be a good friend to us.
 </details>
 
 <details><summary>Geldner</summary>

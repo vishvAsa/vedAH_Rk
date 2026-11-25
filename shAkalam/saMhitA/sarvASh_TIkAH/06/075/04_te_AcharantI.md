@@ -107,6 +107,12 @@ viṣphurántī ← √sphr̥̄- (root)
 अप॒ शत्रू॑न्विध्यताँ संविदा॒ने आर्त्नी॑ इ॒मे वि॑षफु॒रन्ती॑ अ॒मित्रा॑न् ॥४॥ १५
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+ते आ॒चर॑न्ती॒ सम॑नेव॒ योषा॑ मा॒तेव॑ पु॒त्रम्बि॑भृतामु॒पस्थे॑ ।  
+अप॒ शत्रू॑न् विध्यताँ सव्ँविदा॒ने आर्त्नी॑ इ॒मे वि॑ष्फु॒रन्ती॑ अ॒मित्रा॑न् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ते इति॑ । आ॒चर॑न्ती॒ इत्या॒ऽचर॑न्ती । सम॑नाऽइव । योषा॑ । मा॒ताऽइ॑व । पु॒त्रम् । बि॒भृ॒ता॒म् । उ॒पऽस्थे॑ ।  
@@ -121,6 +127,11 @@ viṣphurántī ← √sphr̥̄- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 ते। आ। चरन्ती। समना। इव। योषा। माता। इव। पुत्रम्। विसृताम्। उपस्थे। अप। शत्रून्। विध्यताम्। सम्। विदाने। आत्न। इमे। दि। स्फुरन्ती। अमित्रान्। ४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ते इति॑ । आ॒चर॑न्ती॒ इत्या॑-चर॑न्ती । सम॑ना । इ॒व॒ । योषा॑ । मा॒ता । इ॒व॒ । पु॒त्रम् । बि॒भृ॒ता॒म् । उ॒पस्थ॒ इत्यु॒प-स्थे॒ ॥ अपेति॑ । शत्रून्॑ । वि॒ध्य॒ता॒म् । सव्ँ॒वि॒दा॒ने इति॑ सम्-वि॒दा॒ने । आर्त्नी॒ इति॑ । इ॒मे इति॑ । वि॒ष्फु॒रन्ती॒ इति॑ वि-स्फु॒रन्ती॑ । अ॒मित्रान्॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -381,6 +392,13 @@ _________
 अपविध्यताम् अमित्रान् तान् ताडयताम्' ॥ १५ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+ते धनुषः कोट्यौ विस्फुरन्ती विस्फुरन्त्यौ पुनः पुनः प्रवर्तमाने सत्यौ संविदाने परस्परमैकमत्यं गते अमित्रानत्यन्तविरो॑धिनः शत्रूनपविघ्यताम् ।  
+कीदृशे कोट्यौ, समने युद्धे योषेवाऽऽचरन्ती तद्वन्मधुशब्देन हि बोधयन्त्यौ ।  
+पुनः कीदृशे, उपस्थे बिभृतां माता पुत्रमिब तद्वद्धितकारिण्यावित्यर्थः।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -448,6 +466,14 @@ The 2nd hemistich depicts the positions of the ends of the bow while the arrow i
 
 These, meeting like a woman and her lover, bear, mother-like, their child upon their bosom.  
      May the two Bow-ends, starting swift asunder, scatter, in unison, the foes who hate us.
+</details>
+
+<details><summary>Keith</summary>
+
+They coming together as a maiden to the assembly,  
+As a mother her child, shall bear (the arrow) in their lap;  
+In unison shall they pierce the foes,  
+These two ends springing asunder, the enemies.
 </details>
 
 <details><summary>Geldner</summary>

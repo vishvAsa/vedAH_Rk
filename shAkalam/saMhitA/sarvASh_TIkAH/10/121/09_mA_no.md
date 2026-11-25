@@ -300,6 +300,14 @@ Neer may he harm us who is earth's Begetter, nor he whose laws are sure, the hea
      He who brought forth the great and lucid waters. What God shall we adore with our oblation?
 </details>
 
+<details><summary>Keith</summary>
+
+May I be harm us not who is father of earth  
+Or who, of true law, created the sky,  
+And he who created the great bright waters;  
+To what god shall we offer with oblation?
+</details>
+
 <details><summary>Geldner</summary>
 
 Nicht möge er uns schädigen, der der Schöpfer der Erde ist, oder der den Himmel erschaffen hat mit gültigen Gesetzen, und der die schimmernden hohen Gewässer erschaffen hat. - Wer ist der Gott, dem wir mit Opfer dienen sollen?

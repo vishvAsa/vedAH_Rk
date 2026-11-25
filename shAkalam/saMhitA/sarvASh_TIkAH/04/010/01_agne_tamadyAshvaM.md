@@ -86,6 +86,12 @@ te ← tvám (pronoun)
 ऋ॒ध्यामा॑ त॒ऽओहैः॑ ॥४४ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अग्ने॒ तम॒द्याश्व॒न्न स्तोमै॒ᳵ क्रतु॒न्न भ॒द्रँ हृ॑दि॒स्पृश॑म् ।    
+ऋ॒ध्यामा॑ त॒ ओहैः॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । तम् । अ॒द्य । अश्व॑म् । न । स्तोमैः॑ । क्रतु॑म् । न । भ॒द्रम् । हृ॒दि॒ऽस्पृश॑म् ।  
@@ -346,6 +352,11 @@ _________
 तथेमं यज्ञं समर्धये महीति संबन्धः ॥ २६ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हेऽग्ने हृदिस्पृशं हृद्यमन्तःप्रियं तं त्वामध्यास्मिन्कर्मणि ओहैः समूहरूपैः स्तोमैस्त्वदीयैः स्तोत्रैर्ऋध्याम समृद्धं करवाम ।   तत्रैको दृष्टान्तः अश्वं न यथाऽर्श्व घासादिप्रदानेन समर्थ [ र्ध ] यन्ति तद्वत् ।   अथापरो दऽष्टान्त– क्रतुं न भद्रं यथा समीचीनं ज्यातिष्टोमादिक्रतुं सर्वयागानुष्ठानेन समंर्ध   २०६७ यन्ति तद्वत् ।   भद्रं कल्याणमित्यग्निविशेषणं वा ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (सं, मा.) - विषयः</summary>
 
 पुनस्तमेव विषयमाह ॥
@@ -434,6 +445,13 @@ The accent on ṛdhyā́ma is anomalous within Oldenberg’s persuasive characte
 
 अग्ने॒ तम॒द्याश्वं॒ न स्तोमैः॒ क्रतुं॒ न भ॒द्रं हृ॑दि॒स्पृश॑म् ।  
 ऋ॒ध्यामा॑ त॒ ओहैः॑ ॥
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni to-day, let us make to prosper by praises,  
+By devotions, for thee this (sacrifice) like a (good) steed,  
+Like a noble resolve which toucheth the heart.
 </details>
 
 <details><summary>Griffith (माध्यन्दिनम्)</summary>

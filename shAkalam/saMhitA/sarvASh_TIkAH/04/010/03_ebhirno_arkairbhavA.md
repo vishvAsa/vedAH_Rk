@@ -92,6 +92,12 @@ víśvebhiḥ ← víśva- (nominal stem)
 अग्ने॒ विश्वे॑भिः सु॒मना॒ अनी॑कैः ॥२८॥ ६८
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+ए॒भिर्नो॑ अ॒र्कैर्भवा॑ नो अ॒र्वाङ् [16]  सुव॒र्न ज्योतिः॑ ।    
+अग्ने॒ विश्वे॑भिस्सु॒मना॒ अनी॑कैः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ए॒भिः । नः॒ । अ॒र्कैः । भव॑ । नः॒ । अ॒र्वाङ् । स्वः॑ । न । ज्योतिः॑ ।  
@@ -278,6 +284,11 @@ _________
 एवम् अर्वागञ्चनो ऽनुग्रह-परतया हे श्री-भगवन्नने, विश्वेभिः सर्वैः 'अनीकैः मुखैः सुमनाः भव शोभन-मनस्को भव ॥२९॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हेऽग्ने विश्वेभिरनीकैः सर्वसैन्यैः सहितः सुमनाः सौ मनस्यं प्राप्त एभिरिदानीं क्रियमाणैर्नोऽस्मत्संवन्धिभिरर्कैरर्चनीयैर्नोऽस्मान्प्रत्यर्वाङ्भव समीपस्थो भव ।   समीपदेशमभिगच्छतीत्यर्वाङ्भव ।   तत्र दृष्टान्तः – सुवर्न स्वर्गलोकं प्रकाशरूप आदित्यो यथा समीपवर्ती भवति तद्वत् ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर भी वही विषय अगले मन्त्र में कहा है ॥
@@ -338,6 +349,13 @@ svàr ṇá jyótiḥ could be take as a quasi-compound in the Renou mode, or it
 
 Through these our praises come thou to meet us, bright as the sunlight,  
      O Agni, well disposed, with all thine aspects.
+</details>
+
+<details><summary>Keith</summary>
+
+At these our hymns of praise do thou be propitious,  
+Like the light of heaven,  
+O Agni, propitious with all thy faces.
 </details>
 
 <details><summary>Oldenberg</summary>

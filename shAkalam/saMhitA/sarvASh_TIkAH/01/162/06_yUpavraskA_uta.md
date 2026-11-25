@@ -110,6 +110,12 @@ utá ← utá (invariable)
 ये चार्व॑ते॒ पच॑नँ सं॒भर॑न्त्यु॒तो तेषा॑म॒भिगू॑र्तिर्न इन्वतु ॥६॥ ३३
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यू॒प॒व्र॒स्का उ॒त ये यू॑पवा॒हाश्च॒षालय्ँ॒ये अ॑श्वयू॒पाय॒ तक्ष॑ति ।  
+ये चार्व॑ते॒ पच॑नँ स॒म्भर॑न्त्यु॒तो [40]  तेषा॑म॒भिगू॑र्तिर्न इन्वतु ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यू॒प॒ऽव्र॒स्काः । उ॒त । ये । यू॒प॒ऽवा॒हाः । च॒षाल॑म् । ये । अ॒श्व॒ऽयू॒पाय॑ । तक्ष॑ति ।  
@@ -124,6 +130,11 @@ utá ← utá (invariable)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यू॒प॒व्र॒स्का। ति॑। यूपऽव्र॒स्काः। उ॒त। ये। यू॒प॒वा॒हा इति॑ यूपऽवा॒हाः। च॒षाल॑म्। ये। अ॒श्व॒यू॒पायेति॑ अश्वऽयू॒पाय॑। तक्ष॑ति। ये। च॒। अर्व॑ते। पच॑नम्। स॒म्भर॒न्तीति॑ स॒म्ऽभर॑न्ति। उ॒तोऽइत्यु॒तो। तेषा॑म्। अ॒भिगू॑र्त्ति॒रित्य॒भिऽगू॑र्त्तिः। नः॒। इ॒न्व॒तु॒। ६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यू॒प॒व्र॒स्का इति॑ यूप-व्र॒स्काः । उ॒त । ये । यू॒प॒वा॒हा इति॑ यूप-वा॒हाः । च॒षाल॑म् । ये । अ॒श्व॒यू॒पायेत्य॑श्व-यू॒पाय॑ । तक्ष॑ति ॥ ये । च॒ । अर्व॑ते । पच॑नम् । स॒म्भर॒न्तीति॑ सम्-भर॑न्ति । उ॒तो इति॑ । तेषा॑म् । अ॒भिगू॑र्ति॒रित्य॒भि-गू॒र्तिः॒ । नः॒ । इ॒न्व॒तु॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -389,6 +400,11 @@ _________
 'तेषामभिगूर्तिर् न इन्वतु' इति संबन्धः ॥६॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+ये यूपव्रस्का यज्ञार्थं यूपं वृश्चन्ति, उतापि च ये यूपवाहाश्छिन्नं यूपं यज्ञभूमौ वहन्ति, येऽप्यन्येऽश्वयूपार्थं चषालं यूपकटकं तक्षति तक्षणेन संस्कृर्वन्वि, उतो अपि च येऽप्यन्ये पुरुषा अर्वतेऽर्वार्थं पचनं पाकसा धनकाष्ठं संभरन्ति संपादयन्ति, तेषां सर्वेषामभिगूर्तिः संकल्पो नोऽस्मानिन्वतु प्रीणयतु ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर वे क्या करें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -455,6 +471,12 @@ I render the utó in d with ‘also’; this is also Klein’s tr., though his d
 
 The hewers of the post and those who carry it, and those who carve the knob to deck the Horse's stake;  
      Those who prepare the cooking-vessels for the Steed,--may the approving help of these promote our work.
+</details>
+
+<details><summary>Keith</summary>
+
+The cutters of the stake, the bearers of the stake,  
+And they that fashion the top piece for the stake for the horse, And they that collect the cooking-pot for the steed [2], May their approval quicken us.
 </details>
 
 <details><summary>Geldner</summary>

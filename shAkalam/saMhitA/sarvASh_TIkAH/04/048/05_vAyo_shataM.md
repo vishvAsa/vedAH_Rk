@@ -80,10 +80,21 @@ yātu ← √yā- 1 (root)
 उ॒त वा॑ ते सह॒स्रिणो॒ रथ॒ आ या॑तु॒ पाज॑सा ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+वायो॑ श॒तँ हरी॑णाय्ँयु॒वस्व॒ पोष्या॑णाम् ।   
+उ॒त वा॑ ते सह॒स्रिणो॒ रथ॒ आ या॑तु॒ पाज॑सा ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वायो॒ इति॑ । श॒तम् । हरी॑णाम् । यु॒वस्व॑ । पोष्या॑णाम् ।  
 उ॒त । वा॒ । ते॒ । स॒ह॒स्रिणः॑ । रथः॑ । आ । या॒तु॒ । पाज॑सा ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+वायो॒ इति॑ । श॒तम् । हरी॑णाम् । यु॒वस्व॑ । पोष्या॑णाम् ॥ उ॒त । वा॒ । ते । स॒ह॒स्रिणः॑ । रथः॑ । एति॑ । या॒तु॒ । पाज॑सा ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -180,6 +191,11 @@ _________
 हे **वायो** त्वं **पोष्याणां** पोषणीयानां **हरीणां** **शतं** **युवस्व** योजय रथे। **उत** **वा** अपि च **ते** **सहस्रिणः** सहस्रसंख्यापूरका अश्वाः । तैर्युक्तः **रथः** **पाजसा** बलेन **आ** **यातु** आगच्छतु ॥ ॥ २४ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे वायो हरीणां हरितवर्णानामश्वानां शतं युवस्व मिश्रय रथे योजयास्मद्द्युम्नमागन्तुम् । यौतेः व्यत्ययेन शः, आत्मनेपदं च । पोष्याणामिति । पोषे साधूनामिति 'तत्र साधुः' इति यत् । उत वा अपि वा ते तव सहस्रिणः ; किं ? हरिसहस्रवतः ; किं ? सहस्रं हरीणां रथे युज्यतामिति सामर्थ्याल्लभ्यते । यद्वा - ते हरयः सहस्रिणः सहस्रसङ्ख्यावन्तो रथे युज्यन्ताम् । तत एवंयुक्तो रथ आयातु अस्मत्सकाशमागच्छतु पाजसा बलेन सहितः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -198,6 +214,11 @@ or, since you have thousands, let your chariot drive here with its (full)  dimen
 
 Harness, O Vayu, to thy car a hundred well-fed tawny steeds,  
      Yea, or a thousand steeds, and let thy chariot come to us with might.
+</details>
+
+<details><summary>Keith</summary>
+
+O Vayu, a hundred of bay (steeds) Worthy of nourishment do thou yoke; Or let the chariot of thee that hast a thousand (steeds) Come with might.
 </details>
 
 <details><summary>Geldner</summary>

@@ -83,6 +83,12 @@ sám ← sám (invariable)
 उद्धू॒मासो॑ अरु॒षासो॑ दिवि॒स्पृशः॒ सम॒ग्निमि॑न्धते॒ नरः॑ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+उद॑स्य शो॒चिर॑स्थादा॒जुह्वा॑नस्य मी॒ढुषः॑ ।    
+उद्धू॒मासो॑ अरु॒षासो॑ दिवि॒स्पृश॒स्सम॒ग्निमि॑न्धते॒ नरः॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उत् । अ॒स्य॒ । शो॒चिः । अ॒स्था॒त् । आ॒ऽजुह्वा॑नस्य । मी॒ळ्हुषः॑ ।  
@@ -191,6 +197,11 @@ _________
 **मीळ्हुषः** कामानां वर्षितुः **आजुह्वानस्य** अभिहूयमानस्याग्नेः **शोचिः** तेजः **उत्** **अस्थात्** उत्तिष्ठति । **अरुषासः** आरोचमानाः **दिविस्पृशः** अन्तरिक्षस्पृशः **धूमासः** धूमाश्च **उत्** अस्थुः। अस्थादित्येकवचनान्तं बहुवचनान्ततया विपरिणतं सदत्रान्वेति । तमिमम् **अग्निं** **नरः** कर्मणां नेतार ऋत्विजः **सम्** **इन्धते** सम्यग्दीपयन्ति ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अस्याग्नेः शोजिर्दीप्तिरुदस्थादुत्थितम्।   कीदृशस्याग्नेः आजुह्वानस्य सर्वतो होमनिष्पादकस्य, मीढुष  आहुतिद्वारा वृष्टिसेचनसमर्थस्य।   उद्धूमासो धूमाश्वोत्थिता अरुषासो रोषरहितास्वक्षुराद्युपद्रवमकुर्वन्त इत्यर्थः।   दिविस्पृश आकाशस्पर्शिनोऽत्युन्नता इत्यर्थः।   यथेतत्सर्वं भवति तथा नर ऋत्विग्यजमाना अग्निमिन्धते दीपयन्ति।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -209,6 +220,14 @@ upward the ruddy smoke, touching heaven: our men kindle Agni.
 
 The flame of him the Bountiful, the Much-invoked, hath mounted up,  
      And his red-coloured smoke-clouds reach and touch the sky: the men are kindling Agni well.
+</details>
+
+<details><summary>Keith</summary>
+
+The radiance of the bounteous offerer  
+Hath mounted on high,  
+The ruddy smoke (riseth) touching the sky;  
+Men in unison kindle Agni.
 </details>
 
 <details><summary>Geldner</summary>

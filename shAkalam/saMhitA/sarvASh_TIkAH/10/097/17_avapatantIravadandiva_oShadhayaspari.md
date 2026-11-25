@@ -89,6 +89,12 @@ sá ← sá- ~ tá- (pronoun)
 यं जी॒वम॒श्नवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ॥१७॥ ९२
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अ॒व॒पत॑न्तीरवदन्दि॒व ओष॑धय॒ᳶ परि॑ ।  
+यञ्जी॒वम॒श्ञवा॑महै॒ न स रि॑ष्याति॒ पूरु॑षः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒व॒ऽपत॑न्तीः । अ॒व॒द॒न् । दि॒वः । ओष॑धयः । परि॑ ।  
@@ -103,6 +109,11 @@ sá ← sá- ~ tá- (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अ॒वय॒तीरित्य॑व॒ऽय॒तीः। सम्। अ॒व॒दन्त॒। दि॒वः। ओष॑धयः। परि॑। यम्। जीवमश्नवामहै। न। स। रिष्याति। पूरुषः'। १७।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अ॒व॒पत॑न्ती॒रित्य॑व-पत॑न्तीः । अ॒व॒द॒न् । दि॒वः । ओष॑धयः । परि॑ ॥ यम् । जी॒वम् । अ॒श्ञवा॑महै । न । सः । रि॒ष्या॒ति॒ । पूरु॑षः ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -238,6 +249,11 @@ BI om. अवपूर्वस्य
 तत्रापि हृदे हृदयाय शं सुखम् अलं समर्थम् ॥१८॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+द्युरोकात्पतन्तो वृष्टिबिन्दव ओषधिरूपेणोत्वद्यन्ते ।   तथा चाग्निहोत्रब्राह्मणे समाम्नायते– “यावन्तः स्तोका अवापद्यन्त ।   तावतीरोषधयो-ऽजायन्त” इति ।   अत्रापि दिवः परि स्वर्गस्योऽपरितनप्रदेशादवपतन्तीरधस्ताद्भूमौ पतन्त्य ओषधयोऽवदन्नेतद्ववचनमुक्तवत्यः ।   कीदृशं वचनमिति तदुच्यते—यं जीवमश्नवामहै व्याप्नुमः स पुरुषो न रिष्याति नैव विनश्यति ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 अध्यापक लोग सब को उत्तम ओषधि जनावें, यह विषय अगले मन्त्र में कहा है ॥
@@ -291,6 +307,14 @@ Flying down from heaven, the plants spoke:
 
 What time, descending from the sky, the Plants flew earthward, thus they spake:  
      No evil shall befall the man whom while he liveth we pervade,
+</details>
+
+<details><summary>Keith</summary>
+
+Falling from the sky  
+The plants said,  
+'He, whom we reach while in life,  
+Shall not come to ill.'
 </details>
 
 <details><summary>Geldner</summary>

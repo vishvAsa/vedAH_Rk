@@ -336,6 +336,14 @@ Ours be the potent host of mighty Indra, King Varuna, and Maruts, and Adityas.
      Uplifted is the shout of Gods who conquer high-minded Gods who cause the worlds to tremble.
 </details>
 
+<details><summary>Keith</summary>
+
+Of Indra, the strong, of Varuna, the king,  
+Of the Adityas, of the Maruts the mighty host--  
+The voice hath ascended of the gods  
+Great-hearted that shake the worlds as they conquer.
+</details>
+
 <details><summary>Geldner</summary>
 
 Das Getöse des Bullen Indra, des Königs Varuna, der Aditya´s - der Marut gewaltige Heerschar - das Getöse der hochgemuten, welterschütternden siegenden Götter hat sich erhoben.

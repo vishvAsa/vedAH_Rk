@@ -110,6 +110,12 @@ yé ← yá- (pronoun)
 अ॒सूर्ते॒ सूर्ते॒ रज॑सि निष॒त्ते ये भू॒तानि॑ स॒मकृ॑ण्वन्नि॒मानि॑ ॥४॥ २८
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+त आय॑जन्त॒ द्रवि॑णँ॒ सम॑स्मा॒ ऋष॑य॒ᳶ पूर्वे॑ जरि॒तारो॒ न भू॒ना ।  
+अ॒सूर्ता॒ सूर्ता॒ रज॑सो वि॒माने॒ ये भू॒तानि॑ स॒मकृ॑ण्वन्नि॒मानि॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ते । आ । अ॒य॒ज॒न्त॒ । द्रवि॑णम् । सम् । अ॒स्मै॒ । ऋष॑यः । पूर्वे॑ । ज॒रि॒तारः॑ । न । भू॒ना ।  
@@ -124,6 +130,11 @@ yé ← yá- (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 ते। आ। अ॒य॒ज॒न्त॒। द्रवि॑णम्। सम्। अ॒स्मै॒। ऋष॑यः। पूर्वे॑। ज॒रि॒तारः॑। न। भू॒ना। अ॒सूर्त्ते॑। सूर्त्ते॑। रज॑सि। नि॒ष॒त्ते। नि॒स॒त्त इति॑ निऽस॒त्ते। ये। भू॒तानि॑। स॒मकृ॑ण्व॒न्निति॑ स॒म्ऽअकृ॑ण्वन्। इमानि॑। ४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ते । एति॑ । अ॒य॒ज॒न्त॒ । द्रवि॑णम् । समिति॑ । अ॒स्मै॒ । ऋष॑यः । पूर्वे॑ । ज॒रि॒तारः॑ । न । भू॒ना ॥ अ॒सूर्ता॑ । सूर्ता॑ । रज॑सः । वि॒मान॒ इति॑ वि-माने॑ । ये । भू॒तानि॑ । स॒मकृ॑ण्व॒न्निति॑ सम्-अकृ॑ण्वन् । इ॒मानि॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -341,6 +352,15 @@ _________
 परो दिवा पर एना पृथिव्या परो देवेभिरसुरैर् यद् अस्ति ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+पूर्वोदाहृतेन विश्वकर्मणा प्रथममुपादिता य स्रष्टार इमानि भूतानि सर्वानेतान्प्राणिनः समकृण्वन्सम्यगुत्पादितवन्तः, ते पूर्वे स्रष्टारोऽस्मै सृष्टाय जगते द्रविणं धनरूपं भोग्यजातं समायजन्त सम्यक्संपादितवन्तः।    कीदृशास्ते ऋषयोऽतीन्द्रियद्रष्टारः।  
+सर्वज्ञा इत्यर्थः।  
+भूना जरितारो न भूम्ना स्वकीयेन महत्त्वेन कदाचिदपि जीर्णा न भवन्ति।  
+कीदृशानि भूतानि असूर्ताऽसुभिः प्राणैरीरितानि प्राणयुक्तानीत्यर्थः।  
+तथा रजसो विमाने सूर्ता रञ्जनात्मकस्य विशेषेण प्रमितौ स्वस्वकर्मभिः सुष्टु प्रेरितानि।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर भी उसी विषय को अगले मन्त्र में कहा है ॥
@@ -394,6 +414,13 @@ they who together created these creatures after the airy realm, sunlit and  unsu
 
 To him in sacrifice they offered treasures,-Rsis of old, in numerous troops, as singers,  
      Who, in the distant, near, and lower region, made ready all these things that have existence.
+</details>
+
+<details><summary>Keith</summary>
+
+Wealth they won by offering to him  
+The seers of old like singers in abundance,  
+They who fashioned these beings illumined and unillumined In the expanse of space.
 </details>
 
 <details><summary>Geldner</summary>

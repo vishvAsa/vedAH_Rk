@@ -207,6 +207,13 @@ INDRA, great in his power and might, and like Parjanya rich in rain,
      Is magnified by Vatsa's lauds.
 </details>
 
+<details><summary>Keith</summary>
+
+Great is Indra who through his might  
+Is like Parjanya with the rain;  
+He waxeth with the praises of Vatsa.
+</details>
+
 <details><summary>English</summary>
 
 Great is Indra who through his might  

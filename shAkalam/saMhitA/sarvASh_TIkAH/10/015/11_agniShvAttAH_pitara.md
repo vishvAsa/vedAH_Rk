@@ -398,6 +398,14 @@ Fathers whom Agni's flames have tasted, come ye nigh: ye kindly leaders, take ye
      Eat sacrificial food presented on the grass: grant riches with a multitude of hero sons.
 </details>
 
+<details><summary>Keith</summary>
+
+O fathers, made ready by Agni, come hither;  
+With good leadership sit ye on each seat;  
+Eat ye the offerings set out on the strew;  
+And give us wealth with many heroes.
+</details>
+
 <details><summary>Geldner</summary>
 
 Ihr vom Feuer schmackhaft befundenen Väter, kommet hierher, setzet euch jeder an seinen Platz, ihr guten Führer! Esset die auf dem Barhis dargereichten Opferspenden und verleihet dann einen Schatz von lauter Söhnen!

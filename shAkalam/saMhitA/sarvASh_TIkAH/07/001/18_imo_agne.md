@@ -81,10 +81,21 @@ vyantu ← √vī- 1 (root)
 प्रति॑ न ईं सुर॒भीणि॑ व्यन्तु ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+इ॒मो अ॑ग्ने वी॒तत॑मानि ह॒व्याज॑स्रो वक्षि दे॒वता॑ति॒मच्छ॑ ।  
+प्रति॑ न ईँ सुर॒भीणि॑ वियन्तु ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒मो इति॑ । अ॒ग्ने॒ । वी॒तऽत॑मानि । ह॒व्या । अज॑स्रः । व॒क्षि॒ । दे॒वऽता॑तिम् । अच्छ॑ ।  
 प्रति॑ । नः॒ । ई॒म् । सु॒र॒भीणि॑ । व्य॒न्तु॒ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+इ॒मो इति॑ । अ॒ग्ने॒ । वी॒तत॑मा॒नीति॑ वी॒त-त॒मा॒नि॒ । ह॒व्या । अज॑स्रः । व॒क्षि॒ । दे॒वता॑ति॒मिति॑ दे॒व-ता॒ति॒म् । अच्छ॑ ॥ प्रतीति॑ । नः॒ । ई॒म् । सु॒र॒भीणि॑ । वि॒य॒न्तु॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -185,6 +196,12 @@ _________
 हे **अग्ने** त्वम् **अजस्रः** अनवरतः सन् **इमो** इमानि **वीततमानि** अतिशयेन कान्तानि **हव्या** हव्यानि **देवतातिं** देवानां समूहम् अभि **वक्षि** वह । **अच्छ** गच्छ त! **नः** अस्मदीयानि **सुरभीणि** शोभनानि **ईम्** एतानि हव्यानि देवाः **प्रति** **व्यन्तु** प्रत्येकं कामयन्ताम् ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे ऽग्ने, इमो इमानि वीततमान्यतिशयेन कान्तानि हव्या हवींषि देवतातिम् अच्छ देवान् अभिप्राप्तुम् अजस्रो ऽनुपरतो वक्षि वह।
+नो ऽस्मत्-संबन्धीनि सुरभीणि सुगन्धीनि हवींषि प्रतीं प्रत्येकम् एव वियन्तु देवा भक्षयतु।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -203,6 +220,13 @@ Let them [=the gods] seek these, our sweet-scented (oblations).
 
 Agni, bear thou, Eternal, these most welcome oblations to the Deities' assembly:  
      Let them enjoy our very fragrant presents.
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, these most acceptable oblations,  
+Immortal one, bear for the divine worship;  
+Let them accept our fragrant (offerings).
 </details>
 
 <details><summary>Geldner</summary>

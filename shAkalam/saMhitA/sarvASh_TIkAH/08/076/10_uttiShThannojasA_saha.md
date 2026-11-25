@@ -69,6 +69,12 @@ sutám ← √su- (root)
 सोम॑मिन्द्र च॒मू सु॒तम् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+उ॒त्तिष्ठ॒न्नोज॑सा स॒ह पी॒त्वा शिप्रे॑ अवेपयः ।  
+सोम॑मिन्द्र च॒मू सु॒तम् ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒त्ऽतिष्ठ॑न् । ओज॑सा । स॒ह । पी॒त्वी । शिप्रे॒ इति॑ । अ॒वे॒प॒यः॒ ।  
@@ -78,6 +84,11 @@ sutám ← √su- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 उ॒त्तिष्ठ॒न्नित्यु॒त्ऽतिष्ठ॑न्। ओज॑सा। स॒ह। पी॒त्वी। शिप्रे॒ऽइति॒ शिप्रे॑। अ॒वे॒प॒यः॒। सोम॑म्। इ॒न्द्र॒। च॒मूऽइति॑ च॒मू। सु॒तम्।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+उ॒त्तिष्ठ॒न्नित्यु॑त्-तिष्ठ॑न् । ओज॑सा । स॒ह । पी॒त्वा । शिप्रे॒ इति॑ । अ॒वे॒प॒यः॒ ॥ सोम॑म् । इ॒न्द्र॒ । च॒मू इति॑ । सु॒तम् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -181,6 +192,13 @@ _________
 एषः " ते " योनिः 'इन्द्राय त्वा ओजसे, त्वां सादयामि ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे **इन्द्र सुतम्** अभिषुतं **सोमं पीत्वा ओजसा** बलेन महता **सह उत्तिष्ठन् शिप्रे** हनू । कीदृग्भूते? **चमू** अदन-करण-भूते **अवेपयः** वेपय आचूषणिकान्तां तृप्तिं जनयन् हनुयुगळं चालय । 
+
+चमु छमु अदने, औणादिक ऊप्रत्ययः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -199,6 +217,13 @@ the pressed soma in the cup, Indra.1174 VIII.77
 
 Arising in thy might, thy jaws thou shookest, Indra, having quaffed  
      The Soma which the mortar pressed.
+</details>
+
+<details><summary>Keith</summary>
+
+Arising in might,  
+Thou didst move thy jaws, O Indra,  
+When thou hadst drunk the cup-pressed Soma.
 </details>
 
 <details><summary>Geldner</summary>

@@ -256,6 +256,14 @@ All thy kind thoughts, O Raka, lovely in their form, wherewith thou grantest wea
      With these come thou to us this day benevolent, O Blessed One, bestowing food of thousand sorts.
 </details>
 
+<details><summary>Keith</summary>
+
+The fair thoughts of thine, O Raka,  
+Whereby thou art wont to give wealth to the giver,  
+With them to-day come to us in kindliness,  
+Granting, O fortunate one, a thousandfold prosperity.
+</details>
+
 <details><summary>Geldner</summary>
 
 Deine ausgezeichneten Gnaden, o Raka, mit denen du dem Opferspendenden Schätze schenkst, mit diesem komm heute wohlwollend zu uns, indem du, Holde, Wohlstand für Tausend spendest!

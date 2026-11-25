@@ -80,6 +80,14 @@ udakám ← udaká- (nominal stem)
 तस्मै॒ सर॑स्वती दुहे क्षी॒रं स॒र्पिर्मधू॑द॒कम् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+पा॒व॒मा॒नीर् यो अ॒ध्येति॑ ।   
+ऋषि॑भि॒स् सम्भृ॑तँ॒ रस॑म् ।  
+तस्मै॒ सर॑स्वती दुहे ।   
+क्षी॒रँ स॒र्पिर् मधू॑द॒कम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पा॒व॒मा॒नीः । यः । अ॒धि॒ऽएति॑ । ऋषि॑ऽभिः । सम्ऽभृ॑तम् । रस॑म् ।  
@@ -184,6 +192,12 @@ _________
 **यः** ब्राह्मणः **पावमानीः** पवमानदेवताका ऋचः तदात्मकम् **ऋषिभिः** मधुच्छन्दआदिभिः । **संभृतं** **रसं** वेदसारं सूक्तसंघम् **अध्येति** अधीते **तस्मै** पवमानाध्ययनं कुर्वते जनाय **सरस्वती** सर्वत्र सरणवती वाग्देवता **क्षीरं** यज्ञसाधनभूतं पयः **सर्पिः** तादृशं घृतं **मधु** मदकरम् **उदकं** सोमं **दुहे** स्वयमेव दोग्धि। एनं नरं यागादिपरं वेदशास्त्रविदं करोतीत्यर्थः । दुह प्रपूरणे । कर्मकर्तरि ‘न दुहस्नुनमां यक्चिणौ ' इति यकः प्रतिषेधः । ‘लोपस्त आत्मनेपदेषु' इति तलोपः॥ ॥१८॥ ॥३॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+11 अथ एकादशी - पावमानीरित्यनुष्टुप् ॥ अर्धर्चो गतः ।  
+**तस्मै** महाभागाय **सरस्वती दुहे** दुग्धे समृद्धं ददाति **क्षीरादि** - अध्ययनमात्रस्यैवेयत् फलम् इति स्तुतिः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -208,9 +222,12 @@ Jagatı Hymns: 68–86 ̄
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">
 <details><summary><h2>31-32 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 On the import of these two vss., see published introduction. They are obviously secondary additions to the hymn, promising great benefits to anyone who studies the previous vss. of the hymn.
 
 Commentary IX.68-114
+</details>
 </details>
 </div>
 

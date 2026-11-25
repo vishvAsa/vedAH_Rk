@@ -91,6 +91,11 @@ ráṇe-raṇe ← ráṇa- (nominal stem)
 तम्। इ॒त्यै॑। त्वा॒। पा॒थ्यः। वृषा॑। सम्। ई॑वे॒। द॒स्यु॒हन्त॑म॒मिति॑ द॒स्यु॒ऽहन्त॑मम्। ध॒न॒ञ्ज॒यमिति॑ धनम्ऽज॒यम्। रणे॑रण॒ इति॒ रणे॑ऽरणे। ७।
 </details>
 
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+तम् । उ॒ । त्वा॒ । पा॒थ्यः । वृषा॑ । समिति॑ । ई॒धे॒ । द॒स्यु॒हन्त॑म॒मिति॑ दस्यु-हन्त॑मम् ॥ ध॒न॒ञ्ज॒यमिति॑ धनं-ज॒यम् । रणे॑रण॒ इति॒ रणे॑-र॒णे॒ ॥
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *tam* ← *tad*
@@ -256,6 +261,17 @@ _________
 समीधे संदीपयति ॥ ६ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तमेव त्वां पाथ्यो नाम ऋषिः वृषा प्रधानः समीधे दीपितवान् दस्युहन्तमं दस्यूनां हन्तृतमं हन्तारम् । 'नाढ्घस्य' इति नुट् । धनञ्जयं धनानां जेतारं रणेरणे संग्रामे । पूर्ववत्खच् ।'अनुदात्तं च' इति द्वितीयो रणशब्दोनुदात्तः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हेऽग्ने पाथ्यनामकः कश्चिदृषिस्तमु त्वा समीधे   १७८० तमेव त्वां प्रज्वालितवान्।   कीदृशः पाथ्यः।   वृषा श्रेष्ठः।   कीदृशं त्वाम्।   दस्युहन्तमं तस्कराणामतिशयेन हन्तारं, रणेरणे धनंजयं तेषु तेषु संग्रामेषु धनस्य जेतारम्।  
+इत्थमिमा गायत्र्य उक्ताः ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर भी उक्त विषय अगले मन्त्र में कहा है ॥
@@ -323,6 +339,13 @@ This tṛca is recited in śrauta ritual during the churning of the fire; see Kr
 
 The hero Pathya kindled thee the Dasyus'. most destructive foe,  
      Winner of spoil in every fight.
+</details>
+
+<details><summary>Keith</summary>
+
+Thee Pathya Vrsan doth kindle,  
+Best slayer of foes,  
+Winner of booty in every conflict.
 </details>
 
 <details><summary>Geldner</summary>

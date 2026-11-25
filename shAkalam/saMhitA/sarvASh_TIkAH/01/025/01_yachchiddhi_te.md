@@ -199,6 +199,13 @@ WHATEVER law of thine, O God, O Varuna, as we are men,
      Day after day we violate.
 </details>
 
+<details><summary>Keith</summary>
+
+Whatever [5] law of thine, as men,  
+O god Varuna,  
+Day by day we transgress.
+</details>
+
 <details><summary>Geldner</summary>
 
 Wenn wir gleich Tag für Tag wie die Untertanen dein Gebot übertreten, Gott Varuna,

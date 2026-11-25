@@ -72,6 +72,12 @@ svastáye ← svastí- (nominal stem)
 सच॑स्वा नः स्व॒स्तये॑ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+स नᳶ॑ पि॒तेव॑ सू॒नवेऽग्ने॑ सूपाय॒नो भ॑व ।  
+सच॑स्वा नस्स्व॒स्तये॑  ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । नः॒ । पि॒ताऽइ॑व । सू॒नवे॑ । अग्ने॑ । सु॒ऽउ॒पा॒य॒नः । भ॒व॒ ।  
@@ -86,6 +92,11 @@ svastáye ← svastí- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 सः। नः॒। पि॒तेत्रेति॑ पि॒ताऽइ॑व। सू॒नवे॑। अग्ने॑। सुमा॒य॒न इति॑ सु॒ऽउ॒पय॑नः। क्ष॒त्र॒। सच॑स्व। नः॒। स्व॒स्तये॑। १६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+सः । नः॒ । पि॒ता । इ॒व॒ । सू॒नवे॑ । अग्ने॑ । सू॒पा॒य॒न इति॑ सु-उ॒पा॒य॒नः । भ॒व॒ ॥ सच॑स्व । नः॒ । स्व॒स्तये॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -244,6 +255,12 @@ _________
 सुखोपगमनः "भत्र । किं च, सचस्व नः अस्मान् । सच से (व) नेच । सिश्च सेच (? व स्व वा । स्वस्तये स्वस्तीत्य्-अविनाशिनाम । अविनाशाय ॥ १६ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने स त्वं नः अस्मभ्यं पितेव सूनवे तात इव पुत्राय सूपायनः सूपचरणः सुखेनोपचरणीयः परिचरणीयो वा भव । 'छन्दसि गत्यर्थेभ्यः' इति युच् । शोभनोपायनो वा ।   
+किञ्च - नः अस्मान् स्वस्तये अविनाशाय **सचस्व** सङ्गच्छस्व मा कदाचिदपि मुचः । 'अन्येषामपि दृश्येत' इति संहितायां दीर्घत्वम् । स्वस्तय इति विभक्त्यन्तप्रतिरूपोव्ययः ॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 अब अगले मन्त्र में ईश्वर ही का उपदेश किया है ॥
@@ -297,6 +314,13 @@ Accompany us for our well-being.
 
 Be to us easy of approach, even as a father to his son:  
    Agni, be with us for our weal.
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, be of easy access to us,  
+As a father to his son;  
+Befriend us for prosperity.
 </details>
 
 <details><summary>Oldenberg</summary>

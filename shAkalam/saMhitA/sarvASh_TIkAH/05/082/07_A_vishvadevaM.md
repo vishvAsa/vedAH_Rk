@@ -63,10 +63,21 @@ savitā́ram ← savitár- (nominal stem)
 स॒त्यस॑वं सवि॒तार॑म् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+आ वि॒श्वदे॑वँ॒ सत्प॑तिँ सू॒क्तैर॒द्या वृ॑णीमहे ।   
+स॒त्यस॑वँ सवि॒तार॑म् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । वि॒श्वऽदे॑वम् । सत्ऽप॑तिम् । सु॒ऽउ॒क्तैः । अ॒द्य । वृ॒णी॒म॒हे॒ ।  
 स॒त्यऽस॑वम् । स॒वि॒तार॑म् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+एति॑ । वि॒श्वदे॑व॒मिति॑ वि॒श्व-दे॒व॒म्॒ । सत्प॑ति॒मिति॒ सत्-प॒ति॒म्॒ । सू॒क्तैरिति॑ सु-उ॒क्तैः । अ॒द्य । वृ॒णी॒म॒हे॒ ॥ स॒त्यस॑व॒मिति॑ स॒त्य-स॒व॒म्॒ । स॒वि॒तार॑म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -151,6 +162,11 @@ _________
 **विश्वदेवम्** । विश्वे देवा यस्य वशे भवन्ति तं तादृशम् । स हि सर्वात्मा, इन्द्रं मित्रं वरुणमग्निमाहुः' (ऋ. सं. १. १६४. ४६ ) इत्यादिश्रुतेः इतरेषां तद्विभूतित्वात् । **सत्पतिं** सतामनुष्ठातॄणां पालकं **सत्यसवं** सत्यानुज्ञं **सवितारं** देवम् **अद्य** अस्मिन् यागदिने **सूक्तैः** **आ** **वृणीमहे** संभजामहे ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विश्वदेवं विश्वेऽपि देवा दीव्यन्तेऽस्मिन्निति विश्वदेवस्सविता । 'विश्वं संज्ञायाम्' इति विश्वशब्दस्याद्युदात्तत्वम् । सत्पतिं सतां विदुषां पातारम् । 'पत्यावैश्वर्ये' इति पूर्वपदप्रकृतिस्वरत्वम् । सूक्तैस्सम्यगुक्तैः स्तोत्रैः अद्यास्मिन् यज्ञे वृणीमहे सत्यसवं सत्यानुज्ञं सवितारं देवम् ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -174,6 +190,13 @@ whose impulsion comes true: Savitar.
 
 We with our hymns this day elect the general God, Lord of the good,  
      Savitar whose decrees are true.
+</details>
+
+<details><summary>Keith</summary>
+
+With our hymns to-day we choose  
+The god of all, the lord of the true,  
+Savitr of true instigation.
 </details>
 
 <details><summary>Geldner</summary>

@@ -248,6 +248,14 @@ As the cow yieldeth milk, pour for us freely, Lord of the Field, the wave that b
      Distilling meath, well-purified like butter, and let the. Lords of holy Law be gracious.
 </details>
 
+<details><summary>Keith</summary>
+
+O lord of the field, the honey-bearing wave,  
+As a cow milk, so for us milk;  
+May the lords of right graciously accord us  
+That which drops honey and is well purified like ghee.
+</details>
+
 <details><summary>Geldner</summary>
 
 Herr der Flur! Ergieß bei uns deine honigreiche Woge wie die Kuh ihre Milch, die honigträufende, wie Schmalz gutgeläuterte. Mögen die Herren des Gesetzes uns gnädig sein.

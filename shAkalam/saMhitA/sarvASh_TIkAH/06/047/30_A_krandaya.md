@@ -107,6 +107,12 @@ vīḷáyasva ← √vīḍ- ~ √vīḷ- (root)
 अप॑ प्रोथ दुन्दुभे दु॒च्छुना॑ऽइ॒तऽइन्द्र॑स्य मु॒ष्टिर॑सि वी॒डय॑स्व ॥५६ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+आ क्र॑न्दय॒ बल॒मोजो॑ न॒ आ धा॒ नि ष्ट॑निहि दुरि॒ता बाध॑मानः ।  
+अप॑ प्रोथ दुन्दुभे दु॒च्छुनाँ॑ इ॒त इन्द्र॑स्य मु॒ष्टिर॑सि वी॒डय॑स्व ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । क्र॒न्द॒य॒ । बल॑म् । ओजः॑ । नः॒ । आ । धाः॒ । निः । स्त॒नि॒हि॒ । दुः॒ऽइ॒ता । बाध॑मानः ।  
@@ -116,6 +122,11 @@ vīḷáyasva ← √vīḍ- ~ √vīḷ- (root)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 आ। क्र॒न्द॒य। बल॑म्। ओजः॑। नः॒। आ। धाः॒। निः। स्त॒नि॒हि॒। दु॒रि॒तेति॑ दुःऽइ॒ता। बाध॑मानः। अप॑। प्रो॒थ॒। दु॒न्दु॒भे॒। दु॒च्छुना॑। इ॒तः। इन्द्र॑स्य। मु॒ष्टिः। अ॒सि॒। वी॒डय॑स्व। ५६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+एति॑ । क्र॒न्द॒य॒ । बल॑म् । ओजः॑ । नः॒ । एति॑ । धाः॒ । निरिति॑ । स्त॒नि॒हि॒ । दु॒रि॒तेति॑ दुः-इ॒ता । बाध॑मानः ॥ अपेति॑ । प्रो॒थ॒ । दु॒न्दु॒भे॒ । दु॒च्छुना॑म् । इ॒तः । इन्द्र॑स्य । मु॒ष्टिः । अ॒सि॒ । वी॒डय॑स्व ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -308,6 +319,11 @@ _________
 अतो वीडयस्व आत्मानमस्मान्दृढय॥ ५६॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे दुन्दुभे बलं परकीयसैन्यं प्रत्याक्रन्दयाऽऽक्रोशं कुरु।   अमुं जह्यमुं प्रहरेत्यत्यन्तभीतिहेतुं शब्दं कुरु।   नोऽस्माकप्रोजो बलमाधा आधेहि सम्यक्संपादय।   दुरिता बाधमानोऽस्मदीयानि दुरितानि विनाशयन्निष्टनिहि गर्जनसमानमस्मदुत्साहहेतुं शब्दं कुरु।   दुच्छुनान्दुष्टचित्तान्पुरुषानितोऽस्मादपप्रो  २२०६ थापसारय।   त्वमिन्द्रस्य मुष्टिरसि वज्रधारमकुष्टिसमानोस्यतो वडियस्व दृढी भव।   ईद्रृशैर्द्रुन्द्रुभिध्वनिभिः सहितोऽयं रथः प्रवर्तत इति तात्पर्यार्थः॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 राजपुरुषों को क्या करना चाहिए, इस विषय को अगले मन्त्र में कहा है ॥
@@ -374,6 +390,14 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 
 Thunder out strength and fill us full of vigour: yea, thunder forth and drive away all dangers.  
      Drive hence, O War-drum, drive away misfortune: thou art the Fist of Indra: show thy firmness.
+</details>
+
+<details><summary>Keith</summary>
+
+Roar thou! Grant us force and might.  
+Thunder, overthrowing obstacles;  
+Snort away, O drum, misfortune hence;  
+Indra's fist art thou; show thy strength.
 </details>
 
 <details><summary>Geldner</summary>

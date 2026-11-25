@@ -240,6 +240,14 @@ Our Fathers are Angirases, Navagvas, Atharvans, Bhrgus who deserve the Soma.
      May these, the Holy, look on us with favour, may we enjoy their gracious loving-kindness.
 </details>
 
+<details><summary>Keith</summary>
+
+The Angirases, our fathers, the Navagvas,  
+Atharvans, Bhrgus, who love the Soma;  
+May we be in the favour of those ones worthy of sacrifice;  
+May we have their kindly good will.
+</details>
+
 <details><summary>Macdonell</summary>
 
 The Aṅgiras, our fathers, the Navagvas, The Bhṛgus and Atharvans, Soma-loving: May we abide for ever in the favour And the good graces of those holy sages.

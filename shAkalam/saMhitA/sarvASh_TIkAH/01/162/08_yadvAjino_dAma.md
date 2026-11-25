@@ -122,6 +122,12 @@ te ← tvám (pronoun)
 यद्वा॑ घास्य॒ प्रभृ॑तमा॒स्ये॒ तृणँ॒ सर्वा॒ ता ते॒ अपि॑ दे॒वेष्व॑स्तु ॥८॥ (१२) ३५ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यद्वा॒जिनो॒ दाम॑ स॒न्दान॒मर्व॑तो॒ या शी॑र्ष॒ण्या॑ रश॒ना रज्जु॑रस्य ।  
+यद्वा॑ घास्य॒ प्रभृ॑तमा॒स्ये॑ तृणँ॒ सर्वा॒ ता ते॒ अपि॑ दे॒वेष्व॑स्तु ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । वा॒जिनः॑ । दाम॑ । स॒म्ऽदान॑म् । अर्व॑तः । या । शी॒र्ष॒ण्या॑ । र॒श॒ना । रज्जुः॑ । अ॒स्य॒ ।  
@@ -136,6 +142,11 @@ te ← tvám (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यत्। वा॒जिनः॑। दाम॑। स॒न्दान॒मिति॑ स॒म्ऽदान॑म्। अर्व॑तः। या। शी॒र्ष॒ण्या᳖। र॒श॒ना। रज्जुः॑। अ॒स्य॒। यत्। वा॒। घ॒। अ॒स्य॒। प्रभृ॑त॒मिति॒ प्रऽभृ॑तम्। आ॒स्ये᳖। तृण॑म्। सर्वा॑। ता। ते॒। अपि॑। दे॒वेषु॑। अ॒स्तु॒। ८।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यत् । वा॒जिनः॑ । दाम॑ । स॒न्दान॒मिति॑ सम्-दान॑म् । अर्व॑तः । या । शी॒र्ष॒ण्या॑ । र॒श॒ना । रज्जुः॑ । अ॒स्य॒ ॥ यत् । वा॒ । घ॒ । अ॒स्य॒ । प्रभृ॑त॒मिति॒ प्र-भृ॒त॒म् । आ॒स्ये॑ । तृण॑म् । सर्वा॑ । ता । ते॒ । अपीति॑ । दे॒वेषु॑ । अ॒स्तु॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -398,6 +409,12 @@ _________
 (त्रयोदशो ऽनुवाकः ।)
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+वाजिनोऽश्वस्य यद्दाम गलबन्धनं, यच्च संदानं पृष्ठपादे बन्धनसाधनं दाम पादसंदानादि, अश्वा गले बद्धा अपि पुनः पृष्ठपादे रज्ज्वन्तरेण बध्यन्ते, या चार्वतोऽश्वस्य शीर्षण्या रशना शिरसि संबद्धा रज्जुः, याऽप्यन्या पुच्छलग्नाऽस्याश्वस्य रज्जुः, यद्वा यदपि आ[अस्याऽऽ]स्ये मुखे प्रभृतं क्षिप्तं तृणं, सर्वा वा तत्सर्वमपि देवेष्वपि प्राप्तस्य ते तव यजमानस्यास्तु विद्यताम् ।  
+यथेह लोके सर्वसाधनसंपूर्णोऽश्वस्तवास्ति तद्वत्परलोकेऽप्यस्त्वित्यर्थः ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर कौन किनसे क्या करें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -467,6 +484,14 @@ Pāda d contains a nice ex. of a neut. pl. subj. with sg. verb.
 
 May the fleet Courser's halter and his heel-ropes, the head-stall and the girths and cords about him.  
      And the grass put within his mouth to bait him,--among the Gods, too, let all these be with thee.
+</details>
+
+<details><summary>Keith</summary>
+
+The bond of the strong one, the tie of the steed,  
+The head stall, the rope of him,  
+And the grass placed in his mouth,  
+May all these of thine be with the gods.
 </details>
 
 <details><summary>Geldner</summary>

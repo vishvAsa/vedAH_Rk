@@ -98,10 +98,21 @@ udvátaḥ ← udvát- (nominal stem)
 दृतिं॒ सु क॑र्ष॒ विषि॑तं॒ न्य॑ञ्चं स॒मा भ॑वन्तू॒द्वतो॑ निपा॒दाः ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अ॒भि क्र॑न्द स्त॒नय॒ गर्भ॒मा धा॑ उद॒न्वता॒ परि॑ दीया॒ रथे॑न ।   
+दृतिँ॒ सु क॑र्ष॒ विषि॑त॒न्न्य॑ञ्चँ स॒मा भ॑वन्तू॒द्वता॑ निपा॒दाः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒भि । क्र॒न्द॒ । स्त॒नय॑ । गर्भ॑म् । आ । धाः॒ । उ॒द॒न्ऽवता॑ । परि॑ । दी॒य॒ । रथे॑न ।  
 दृति॑म् । सु । क॒र्ष॒ । विऽसि॑तम् । न्य॑ञ्चम् । स॒माः । भ॒व॒न्तु॒ । उ॒त्ऽवतः॑ । नि॒ऽपा॒दाः ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अ॒भीति॑ । क्र॒न्द॒ । स्त॒नय॑ । गर्भ॑म् । एति॑ । धाः॒ । उ॒द॒न्वतेत्यु॑दन्-वता॑ । परीति॑ । दी॒य॒ । रथे॑न ॥ दृति॑म् । सु । क॒र्ष॒ । विषि॑त॒मिति॒ वि-सि॒त॒म् । न्य॑ञ्चम् । स॒माः । भ॒व॒न्तु॒ । उ॒द्वतेत्यु॑त्-वता॑ । नि॒पा॒दा इति॑ नि-पा॒दाः ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -236,6 +247,11 @@ _________
 **अभि** भूम्यभिमुखं **क्रन्द** शब्दय । तदेव पुनरुच्यते दार्ढ्याय । **स्तनय** गर्ज। **गर्भं** गर्भस्थानीयमुदकम् ओषधीषु **आ** **धाः** आधेहि । तदर्थम् **उदन्वता** उदकवता **रथेन** **परि** **दीय** परितो गच्छ। **दृतिं** दृतिवदुदकधारकं मेघं **विषितं** विशेषेण सितं बद्धं **न्यञ्चं** न्यक् अधोमुखं **सु** सुष्टु **कर्ष** आकर्ष वृष्ट्यर्थम् । यद्वा । विषितं विमुक्तबन्धनमेवं कर्ष । एवं कृते उद्वतः ऊर्ध्ववन्तः उन्नतप्रदेशाः **निपादाः** न्यग्भूतपादा निकृष्टपादा वा निम्नोन्नतप्रदेशाः समाः एकस्थाः **भवन्तु** उदकपूर्णा भवन्त्वित्यर्थः ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अभिक्रन्द अभितस्सर्वतः शब्दं कुरु स्तनय उच्चैर्गर्ज । तिङः परत्वान्न निहन्यते । ततश्च गर्भं मेघस्योदकं आधाः गर्भमाधेहि । लेटि शपो लुक् । किंच - उदन्वता उदकवता रथेन रंहणेन परिदीय सर्वतो गच्छ, दीयतिः छान्दसो गतिकर्मा । उदकस्योदन्भावश्छान्दसः, 'ह्रस्वनुङ्भ्यां मतुप्' इति मतुप उदात्तत्वम् । ततस्तं मेघं चर्ममयो जलाधारविशेषो दृतिः तद्वत्सुकर्ष सुखेन कर्ष विषितं विमुक्तद्वारम् । 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । न्यञ्चं अवाङ्मुखीकृतम् । 'न्यधी च' इति गतेः प्रकृतिस्वरत्वम् । ततश्चैवं त्वया कृते समा भवन्तु तुल्या भवन्तु । उद्वता उन्नतेन स्थलेन निपादाः निम्नाः उदकेन सर्वं समीकृतमस्तु । पदेर्घञ्, थाथादिनोत्तरपदान्तोदात्तत्वम् । एवमश्वात्मनाऽग्निस्स्तूयते 'उपसर्गाच्छन्दसि' इति उच्छब्दाद्वतिः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -255,7 +271,10 @@ lowlands become alike.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/083/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 These two vss. ring changes in the oppositional pair úd ‘up and ní ‘down’: 7c ní añcam, 7d udváto nipādā́ḥ, 8a úd acā ní ṣiñca. Note that 7b udanvátā might seem to belong with this sequence, but udan- there is the ‘water’ word.
+</details>
 </details>
 </div>
 
@@ -263,6 +282,14 @@ These two vss. ring changes in the oppositional pair úd ‘up and ní ‘down�
 
 Thunder and roar: the germ of life deposit. Fly round us on thy chariot waterladen.  
      Thine opened water-skin draw with thee downward, and let the hollows and the heights be level.
+</details>
+
+<details><summary>Keith</summary>
+
+Roar and thunder, deposit a germ,  
+Fly around with thy chariot water-laden;  
+Draw downward thy opened water-skin,  
+And let the heights and the depths be level.
 </details>
 
 <details><summary>Macdonell</summary>

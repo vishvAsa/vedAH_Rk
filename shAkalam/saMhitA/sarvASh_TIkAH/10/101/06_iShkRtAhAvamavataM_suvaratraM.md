@@ -60,10 +60,21 @@ udríṇam ← udrín- (nominal stem)
 उ॒द्रिणं॑ सिञ्चे॒ अक्षि॑तम् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+निष्कृ॑ताहावमव॒टँ सु॑वर॒त्रँ सु॑षेच॒नम् ।  
+उ॒द्रिणँ॑ सिञ्चे॒ अक्षि॑तम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इष्कृ॑तऽआहावम् । अ॒व॒तम् । सु॒ऽव॒र॒त्रम् । सु॒ऽसे॒च॒नम् ।  
 उ॒द्रिण॑म् । सि॒ञ्चे॒ । अक्षि॑तम् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+निष्कृ॑ताहाव॒मिति॒ निष्कृ॑त-आ॒हा॒व॒म् । अ॒व॒टम् । सु॒व॒र॒त्रमिति॑ सु-व॒र॒त्रम् । सु॒षे॒च॒नमिति॑ सु-से॒च॒नम् ॥ उ॒द्रिण॑म् । सि॒ञ्चे॒ । अक्षि॑तम् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -139,6 +150,11 @@ _________
 **इष्कृताहावं** संस्कृताहावं **अवतम्** अवटं द्रोणं **सिञ्चे** सेचयामि । पुनः कीदृशमवतम् । **सुवरत्रं** शोभनवरत्रोपेतं **सुषेचनं** शोभनोदकसेकोपेतम् **उद्रिणम्** उद्राववन्तम् **अक्षितम्** अक्षीणम्॥॥१८॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+काष्ठपाषाणनिर्मितानां द्रोणीनामन्तस्थितावकाशरूपो योऽयमवटस्तमवटमहं सिञ्चे तत्रोदकं क्षारयामि ।   कीदृशमवटं, निष्कृताहावं पार्श्वेषु सच्छिद्रत्वेन निष्कृता निष्पादिता आहावा द्रोण्यो यस्यावटस्य सोऽयं निष्कृताहावस्त, सुवरत्रं कूपादुदकमुद्धर्तुं शोभना दृढा वरत्राश्चर्ममयरज्जवो यस्यासौ सुवरत्रस्तम् ।   सुषेचनं सुष्ठु सेक्तुं योग्यान्युदकोद्धरणसाधनानि पात्राणि यस्यासौ सुषेचनस्तम् ।   उद्रिणमुदकवन्तम् ।   अक्षितमुदकस्यागलितत्वेनापक्षयरहितम् ।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -156,6 +172,12 @@ The wellspring with its buckets prepared, with good cords, easy to dip, watery, 
 
 I pour the water from the well with pails prepared and goodly straps,  
      Unfailing, full, with plenteous stream.
+</details>
+
+<details><summary>Keith</summary>
+
+The well with buckets fastened,  
+With strong straps, that yieldeth abundantly, Full of water, unexhausted, I drain.
 </details>
 
 <details><summary>Geldner</summary>

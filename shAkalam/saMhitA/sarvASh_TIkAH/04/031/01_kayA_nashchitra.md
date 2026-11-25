@@ -361,6 +361,13 @@ WITH what help will he come to us, wonderful, ever-waxing Friend;
      With what most mighty company?
 </details>
 
+<details><summary>Keith</summary>
+
+With what aid will he come to us,  
+Our wondrous, ever-waxing, friend?  
+With what most potent aid [2]?
+</details>
+
 <details><summary>Geldner</summary>
 
 Mit welcher Hilfe wird uns der wunderbare, immer fördernde Freund beistehen, mit welchem mächtigsten Gefolge?

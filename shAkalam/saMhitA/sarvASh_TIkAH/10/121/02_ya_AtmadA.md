@@ -95,6 +95,12 @@ vidhema ← √vidh- (root)
 यस्य॑ छा॒यामृतं॒ यस्य॑ मृ॒त्युः कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+य आ॑त्म॒दा ब॑ल॒दा यस्य॒ विश्व॑ उ॒पास॑ते प्र॒शिषय्ँ॒यस्य॑ दे॒वाः ।  
+यस्य॑ छा॒यामृतय्ँ॒यस्य॑ मृ॒त्युᳵ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । आ॒त्म॒ऽदाः । ब॒ल॒ऽदाः । यस्य॑ । विश्वे॑ । उ॒प॒ऽआस॑ते । प्र॒ऽशिष॑म् । यस्य॑ । दे॒वाः ।  
@@ -109,6 +115,11 @@ vidhema ← √vidh- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यः। आ॒त्म॒दा। इत्या॑त्म॒ऽदाः। ब॒ल॒दा इति॑ बल॒ऽदाः। यस्य॑। विश्वे॑। उ॒पास॑त॒। इत्यु॑प॒ऽआस॑ते। प्र॒शिष॒मिति॑ प्र॒ऽशिष॑म्। यस्य॑। दे॒वाः। यस्य॑। छा॒या। अ॒मृत॑म्। यस्य॑। मृ॒त्युः। कस्मै॑। दे॒वाय॑। ह॒विषा॑। वि॒धे॒म॒। ४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यः । आ॒त्म॒दा इत्या॑त्म-दाः । ब॒ल॒दा इति॑ बल-दाः । यस्य॑ । विश्वे॑ । उ॒पास॑त॒ इत्यु॑प-आस॑ते । प्र॒शिष॒मिति॑ प्र-शिष॑म् । यस्य॑ । दे॒वाः ॥ यस्य॑ । छा॒या । अ॒मृत॑म् । यस्य॑ । मृ॒त्युः । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -422,6 +433,13 @@ _________
 (एकादशो ऽनुवाकः ।)
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यः प्रजापतिरात्मदाः शरीरेषु जीवरूपेणऽऽत्मप्रद बलदाः सामर्थ्यप्रदश्च, यस्य प्रजापतेः प्रशिषमाज्ञां विश्वे सर्वे मनुष्या उपासते नातिवर्तन्ते ।  
+किंच यस्य प्रशिषं देवा अप्युपासते ।  
+अमृतममरणं मोक्षरूपं यस्य च्छाया, यस्य प्रजापतेश्छायावत्स्वाधीने, मृत्युः प्राणिनां मरणमपि यस्य च्छायेव स्वाधीनस्तादृशाय कस्मै देवाय हविषा विधेम ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर उपासना किया ईश्वर क्या देता है, इस विषय को अगले मन्त्र में कहा है ॥
@@ -482,6 +500,18 @@ whose shadow is immortality, whose shadow is death— – Who is the god  to who
 
 Giver of vital breath, of power and vigour, he whose commandments all the Gods acknowledge -.  
      The Lord of death, whose shade is life immortal. What God shall we adore with our oblation?
+</details>
+
+<details><summary>Keith</summary>
+
+He who is giver of breath, giver of strength,  
+Upon whose bidding all, even the gods, wait,  
+Whose shadow is immortality and death;  
+To what god shall we offer with oblation?  
+He whose are these snowy mountains through his might,  
+Whose they call the ocean with the Rasa [4],  
+Whose two arms are these quarters;  
+To what god shall we offer with oblation?
 </details>
 
 <details><summary>Geldner</summary>

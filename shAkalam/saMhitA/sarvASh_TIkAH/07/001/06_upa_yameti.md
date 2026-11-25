@@ -81,10 +81,21 @@ vasūyúḥ ← vasūyú- (nominal stem)
 उप॒ स्वैन॑म॒रम॑तिर्वसू॒युः ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+उप॒ यमेति॑ युव॒तिस्सु॒दक्ष॑न्दो॒षा वस्तो॑र्ह॒विष्म॑ती घृ॒ताची॑ ।  
+उप॒ स्वैन॑म॒रम॑तिर्वसू॒युः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उप॑ । यम् । एति॑ । यु॒व॒तिः । सु॒ऽदक्ष॑म् । दो॒षा । वस्तोः॑ । ह॒विष्म॑ती । घृ॒ताची॑ ।  
 उप॑ । स्वा । ए॒न॒म् । अ॒रम॑तिः । व॒सु॒ऽयुः ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+उपेति॑ । यम् । एति॑ । यु॒व॒तिः । सु॒दक्ष॒मिति॑ सु-दक्ष॑म् । दो॒षा । वस्तोः॑ । ह॒विष्म॑ती । घृ॒ताची॑ ॥ उपेति॑ । स्वा । ए॒न॒म् । अ॒रम॑तिः । व॒सू॒युरिति॑ वसु-युः ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -189,6 +200,13 @@ _________
 **सुदक्षं** सुबलं **यम्** अग्निं **हविष्मती** हविषा युक्ता **घृताची** । घृतमञ्चतीति घृताची जुहूः । **युवतिः** अग्निना नित्ययुक्ता **दोषा** **वस्तोः** रात्रावहनि च **उप** **एति** उपगच्छति तम् **एनं** **स्वा** स्वकीया **अरमतिः** दीप्तिः **वसूयुः** स्तोतॄणां धनमिच्छन्ती **उप** एति ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+युवतिर् मन्त्रेण मिश्री-भूता हविष्मती संपूर्ण-हविर्-युक्ता घृताची घृतपुष्टेयम् आहुतिर् दोषा रात्रौ वस्तोर् दिवसे च सुदक्षं कुशलं यं स्विष्टकृतम् अग्निम् उपैति प्राप्नोति।
+
+एनं स्विष्टकृतम् अग्निम् अरमतिः कदाचिद् अप्य् उपरति-रहितो वसूयुर् धनम् इच्छन् यजमानः स्वा स्वकीयेन हविषोपैति प्राप्नोति सेवत इत्य् अर्थः।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -207,6 +225,12 @@ toward him (goes) our own devotion, seeking goods.
 
 To whom, the Strong, at morn and eve comes, maid-like, the ladle dropping oil, with its oblation.  
      Wealth-seeking comes to him his own devotion.
+</details>
+
+<details><summary>Keith</summary>
+
+Him to whom, the strong, the youthful maiden,  
+Rich in oblation, bearing ghee, approacheth night and morning, To him his own devotion (approacheth) seeking wealth.
 </details>
 
 <details><summary>Geldner</summary>

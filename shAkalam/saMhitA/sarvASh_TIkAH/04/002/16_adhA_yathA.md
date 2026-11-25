@@ -552,6 +552,14 @@ As in the days of old our ancient Fathers, speeding the work of holy worship, Ag
      Sought pure light and devotion, singing praises; they cleft the ground and made red Dawns apparent.
 </details>
 
+<details><summary>Keith</summary>
+
+As our fathers before,  
+Of old, O Agni, furthering right,  
+Sought the pure, the devotion, singing hymns,  
+Cleaving the earth they disclosed the red ones.
+</details>
+
 <details><summary>Oldenberg</summary>
 
 And as our first, ancient fathers, O Agni, were aspiring after Rita 1—they attained to pure devotion 2, chanting their litanies. Cleaving the earth they disclosed the red (cows).

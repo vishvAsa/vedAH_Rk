@@ -66,6 +66,11 @@ uṣádbhiḥ ← uṣás- (nominal stem)
 समु॒षद्भि॑रजायथाः ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+के॒तुङ् कृ॒ण्वन्न् अ॑के॒तवे॒ पेशो॑ मर्या अपे॒शसे॑ । समु॒षद्भि॑र् अजायथाः ॥ [51]
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 के॒तुम् । कृ॒ण्वन् । अ॒के॒तवे॑ । पेशः॑ । म॒र्याः॒ । अ॒पे॒शसे॑ ।  
@@ -80,6 +85,11 @@ uṣádbhiḥ ← uṣás- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 के॒तुम्। कृ॒ण्वन्। अ॒के॒तवे॑। पेशः॑। म॒र्याः॒। अ॒पे॒शसे॑। सम्। उ॒षद्भि॒रित्यु॒षत्ऽभिः॑। अ॒जा॒य॒थाः॒। १।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+के॒तुम् । कृ॒ण्वन् । अ॒के॒तवे॑ । पेशः॑ । म॒र्याः॒ । अ॒पे॒शसे॑ ॥ समिति॑ । उ॒षद्भि॒रित्यु॒षत्-भिः॒ । अ॒जा॒य॒थाः॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -275,6 +285,13 @@ _________
 ज॒मूत॑स्येव भवति॒ प्रतीकं॒ यद्वि॒र्मी याति॑ स॒मदा॑म् उ॒पस्थे ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+केतुं ध्वजं कृण्वन् कुर्वन्तु । कृवि हिंसाकरणयोः, लेटि 'धिन्विकृण्व्योरच्' इत्युप्रत्ययः, छान्दसो निघाताभावः । अकेतवे असत्यस्मिन्नज्ञापकाय पेशः रूपं रूपवृन्दं हे मर्याः मनुष्याः । 'छन्दसि निष्टर्क्य' इत्यत्र निपात्यते । अपेशसे असत्यस्मिन् रूपरहिताय । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । तथा हि सति त्वं उषद्भिः ज्वलद्भिरिव समजायथाः ज्वालावानिव संजायस्व । जानातेर्वा छान्दसो जभावः । ज्ञापकेन हेतुना ज्वालावानिव सर्वत्र ज्ञायस्व । 'दृक् स्ववस्स्वतवसाम्' इत्यादिना उषसः तत्वम् ॥
+
+इति सप्तमे चतुर्थे विंशोनुवाकः ॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 आप्त लोग कैसे होते हैं, इस विषय को अगले मन्त्र में कहा है ॥
@@ -344,6 +361,13 @@ As for the subject of ajāyathāḥ, contrary to most interpretations I take thi
 
 Thou, making light where no light was, and form, O men: where form was not,  
      Wast born together with the Dawns.
+</details>
+
+<details><summary>Keith</summary>
+
+A Making a banner for that which hath none,
+Form for the formless, O ye men,
+Thou wert born with the dawns.
 </details>
 
 <details><summary>Geldner</summary>

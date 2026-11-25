@@ -87,6 +87,12 @@ sán ← √as- 1 (root)
 गर्भे॒ सन्जा॑यसे॒ पुनः॑ ॥७॥ ३७
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अ॒प्स्व॑ग्ने॒ सधि॒ष्टव॑ [11]  सौष॑धी॒रनु॑ रुध्यसे ।  
+गर्भे॒ सञ्जा॑यसे॒ पुनः॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒प्ऽसु । अ॒ग्ने॒ । सधिः॑ । तव॑ । सः । ओष॑धीः । अनु॑ । रु॒ध्य॒से॒ ।  
@@ -101,6 +107,11 @@ sán ← √as- 1 (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अ॒प्स्वित्य॒प्ऽसु। अ॒ग्ने॒। सधिः॑। तव॑। सः। ओष॑धीः। अनु॑। रु॒ध्य॒से॒। गर्भे॑। सन्। जा॒य॒से॒। पुन॒रिति॒ पुनः॑। ७।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अ॒प्स्वित्य॑प्-सु । अग्ने॑ । सधिः॑ । तव॑ । सः । ओष॑धीः । अन्विति॑ । रु॒ध्य॒से॒ ॥ गर्भे॑ । सन् । जा॒य॒से॒ । पुनः॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -265,6 +276,11 @@ _________
 ततः "गर्भे संबध्यमान: पुन: जायसे ॥७॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हेग्ने तव सघिः सहो बलं भस्मरूपमप्सु वर्तते।   स त्वमोषधीरनु-रुध्यसे व्रीहियवाद्योषधीरनुसरसि।   जाठराग्निरूपेण तत्स्वीकारात।   अरण्योर्गर्भे स्थितः सन्पुनः पुनः सम्यग्जायसे।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 अब जीव किस-किस प्रकार पुनर्जन्म को प्राप्त होते हैं, यह विषय अगले मन्त्र में कहा है ॥
@@ -323,6 +339,13 @@ Assuming with the Pp., Macdonell (VGS §48a), and Lubotsky (s.v. sá) that saú�
 
 Agni, thine home is in the floods: into the plants thou forcest way,  
      And as their Child art born anew.
+</details>
+
+<details><summary>Keith</summary>
+
+In the waters, O Agni, is thy seat [2],  
+Thou enterest the plants;  
+Being in the germ thou art born again.
 </details>
 
 <details><summary>Geldner</summary>

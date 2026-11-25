@@ -69,10 +69,21 @@ vakṣat ← √vah- (root)
 ह॒व्या नो॑ वक्षदानु॒षक् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+प्र दे॒वन्दे॒व्या धि॒या भर॑ता जा॒तवे॑दसम्  ।   
+ह॒व्या नो॑ वक्षदानु॒षक्  ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । दे॒वम् । दे॒व्या । धि॒या । भर॑त । जा॒तऽवे॑दसम् ।  
 ह॒व्या । नः॒ । व॒क्ष॒त् । आ॒नु॒षक् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+प्रेति॑ । दे॒वम् । दे॒व्या । धि॒या । भर॑त । जा॒तवे॑दस॒मिति॑ जा॒त-वे॒द॒स॒म् ॥ ह॒व्या । नः॒ । व॒क्ष॒त् । आ॒नु॒षक् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -153,6 +164,11 @@ _________
 अयमु य अ देवयुहता यज्ञार्य नीयते ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे ऋत्विग्यजमानाः देवं जातवेदसं जातानां वेदितारं जातधनादिकं वा अग्निं प्रभरत प्रकर्षेण भरत प्रणयत । 'अन्येषामपि दृश्यते' इति सांहितिको दीर्घः । देव्या दीप्तया धिया प्रज्ञयाकर्मणा वा । 'उदात्तयणः' इति विभक्तेरुदात्तत्वम् । किं प्रयोजनमिति चेत्? नः अस्माकं हव्या हव्यानि हवींषि । 'शेश्छन्दसि' इति लोपः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -171,6 +187,13 @@ He will convey our oblations in their proper order.
 
 Bring forth the God with song divine, being Jatavedas hitherward,  
      To bear our gifts at once to heaven.
+</details>
+
+<details><summary>Keith</summary>
+
+Bring onward with meditation divine  
+The god, who knoweth all;  
+May he duly bear our sacrifices.
 </details>
 
 <details><summary>Geldner</summary>

@@ -101,6 +101,12 @@ járbhurāṇā ← √bhur- (root)
 तव॒ शृङ्गा॑णि॒ विष्ठि॑ता पुरु॒त्रार॑ण्येषु॒ जर्भु॑राणा चरन्ति ॥११॥ ॥ ३४
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+तव॒ शरी॑रम्पतयि॒ष्ण्व॑र्व॒न्तव॑ चि॒त्तव्ँवात॑ इव॒ ध्रजी॑मान् ।  
+तव॒ शृङ्गा॑णि॒ विष्ठि॑ता पुरु॒त्रार॑ण्येषु॒ जर्भु॑राणा चरन्ति ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तव॑ । शरी॑रम् । प॒त॒यि॒ष्णु । अ॒र्व॒न् । तव॑ । चि॒त्तम् । वातः॑ऽइव । ध्रजी॑मान् ।  
@@ -115,6 +121,11 @@ járbhurāṇā ← √bhur- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 तव। शरीरम्। पतयिष्णु। अर्वन्। तव। चित्तम्। वातः। इव। ध्रजीमान्। तव। शृङ्गाणि। वि। स्थिता। पुरुत्रा। अरण्येषु। जर्भुराणा। चरन्ति। ११।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+तव॑ । शरी॑रम् । प॒त॒यि॒ष्णु । अ॒र्व॒न् । तव॑ । चि॒त्तम् । वातः॑ । इ॒व॒ । ध्रजी॑मान् ॥ तव॑ । शृङ्गा॑णि । विष्ठि॒तेति॒ वि-स्थि॒ता॒ । पु॒रु॒त्रेति॑ पुरु-त्रा । अर॑ण्येषु । जर्भु॑राणा । च॒र॒न्ति॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -348,6 +359,11 @@ _________
 आनन्द-बोध भट्टोपाध्याय-प्रणीतः
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हेवर्वंस्तव शरीरं षतयिष्णु पतनशीलं शीघ्रगमशीलमित्यर्थः तव चितं वात इव वातसदृशश्च(शं च )।   वायुः कीदृशः, घ्रजीमान्वेनवान्।   तव शृङ्गाणि शृङ्गस्थानीयानि।   उपरि प्रक्षिप्तान्यायुधानि विष्ठिता विशेषेण तत्र तत्र स्थितानि साधितानि।   अश्वस्योपरि क्वचिदिषुधिः क्यचित्खड्ग इत्येवं बहून्बायुधानि प्राप्यन्ते।   तानि च पुरुषु बहुषु अरण्येषु ग्रामेन्यो बहिर्भूतेषु युद्धप्रदेशेषु जर्भुराणा परसैन्यान्यतिशयेन भरमाणानि चरन्ति प्रवर्तन्ते।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 मनुष्यों को अनित्य शरीर पाके क्या करना चाहिए, इस विषय को अगले मन्त्र में कहा है ॥
@@ -411,6 +427,14 @@ I take caranti as aux. with járbhurāṇā(ḥ), but it could be an independent
 
 A body formed for flight hast thou, O Charger; swift as the wind in motion is thy spirit.  
      Thy horns are spread abroad in all directions: they move with restless beat in wildernesses.
+</details>
+
+<details><summary>Keith</summary>
+
+Thy body is fain to fly, O steed;  
+Thy thought is like the blowing wind;  
+Thy horns are scattered in many places,  
+They wander busy in the woods.
 </details>
 
 <details><summary>Geldner</summary>

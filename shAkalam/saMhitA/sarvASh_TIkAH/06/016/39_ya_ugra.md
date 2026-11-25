@@ -202,6 +202,13 @@ Mighty as one who slays with shafts, or like a bull with sharpened horn,
      Agni, thou breakest down the forts.
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, who art like a mighty man who slayeth with the dart  
+Or a sharp-horned bull,  
+O Agni, hast rent the forts.
+</details>
+
 <details><summary>Geldner</summary>
 
 Der du wie ein gewaltiger Pfeilkämpfer, wie ein spitzhörniger Stier, o Agni, die Burgen gebrochen hast.

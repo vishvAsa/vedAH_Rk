@@ -226,6 +226,13 @@ Thou, Soma, art the Lord of heroes, King, yea, Vrtra-slayer thou:
      Thou art auspicious energy.
 </details>
 
+<details><summary>Keith</summary>
+
+Thou Soma art very lord,  
+Thou art king, and slayer of foes;  
+Thou art favouring strength.
+</details>
+
 <details><summary>Geldner</summary>
 
 Du, Soma, bist der rechtmäßige Gebieter, du der König und Vritratöter; du bist die gute Einsicht.

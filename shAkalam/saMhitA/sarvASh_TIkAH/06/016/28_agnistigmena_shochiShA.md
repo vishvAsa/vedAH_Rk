@@ -84,6 +84,12 @@ vanate ← √vanⁱ- (root)
 अ॒ग्निर्नो॑ वनते र॒यिम् ॥१॥ १६
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अ॒ग्निस्ति॒ग्मेन॑ शो॒चिषा॒ यँस॒द्विश्व॒न्न्य॑त्रिण॑म् ।  
+अ॒ग्निर्नो॑ वँसते र॒यिम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निः । ति॒ग्मेन॑ । शो॒चिषा॑ । यास॑त् । विश्व॑म् । नि । अ॒त्रिण॑म् ।  
@@ -98,6 +104,11 @@ vanate ← √vanⁱ- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अ॒ग्निः। ति॒ग्मेन॑। शो॒चिषा॑। यास॑त्। विश्व॑म्। नि। अ॒त्रिण॑म्। अ॒ग्निः। नः॒। व॒न॒ते॒। र॒यिम्। १।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अ॒ग्निः । ति॒ग्मेन॑ । शो॒चिषा॑ । यँस॑त् । विश्व॑म् । नीति॑ । अ॒त्रिण॑म् ॥ अ॒ग्निः । नः॒ । वँ॒स॒ते॒ । र॒यिम् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -267,6 +278,11 @@ _________
 । अत्रम् अदनं तदस्यास्तीति अत्री केवलादी । नि नितराम् अत्यर्थं स्वोदर-पोषकस् तमस्त्रिणम् । विश्वं सर्वमस्त्रिणमतिपापिनं राक्षसादिकं यः अग्निः दहति सोऽस्मभ्यं रथिं वनुत इति ॥ १ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अयं चीयमानोऽग्निस्तिग्मेन शोचिषा तीक्ष्णया ज्वालयाऽत्त्रिणं राक्षसादिं विश्वं सर्व विरोधिनं नियंसन्नियमयतु।   विनाशयीत्वत्यर्थः।   अत्त्रमदनशीलं बाधकमनिष्टं तदस्यास्तीत्यत्त्री तं विनाशयतु।   किंचायमग्निर्नोऽस्मदर्थं रयिं धनं वंसते वंसितुं संभाजयितुमिच्छतु।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 विद्वान् कैसा हो, इस विषय का उपदेश अगले मन्त्र में किया है ॥
@@ -320,6 +336,13 @@ Agni will win us wealth.
 
 May Agni with his pointed blaze cast down each fierce devouring fiend  
      May Agni win us wealth by war.
+</details>
+
+<details><summary>Keith</summary>
+
+May Agni with his piercing blaze  
+Cast down every foe;  
+May Agni win for us wealth.
 </details>
 
 <details><summary>Geldner</summary>

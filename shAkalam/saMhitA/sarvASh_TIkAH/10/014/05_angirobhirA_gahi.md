@@ -253,6 +253,14 @@ Come, Yama, with the Angirases the Holy, rejoice thee here with children of Viru
      To sit on sacred grass at this our worship, I call Vivasvan, too, thy Father hither.
 </details>
 
+<details><summary>Keith</summary>
+
+Come with the Angirases who deserve the sacrifice,  
+Yama, rejoice here with the Vairupas;  
+I summon Vivasvant who is thy father,  
+Sitting down on the strew at this sacrifice.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Come hither with the Aṅgiras, the holy: Here with Virūpa's sons, O Yama revel, Vivasvant I invoke, who is thy father, When at this rite upon the straw he's seated.

@@ -107,6 +107,12 @@ pr̥ṣṭhé ← pr̥ṣṭhá- (nominal stem)
 इ॒षु॒धिः सङ्काः॒ पृत॑नाश्च॒ सर्वाः॑ पृ॒ष्ठे निन॑द्धो जयति॒ प्रसू॑तः ॥७॥ १८
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+ब॒ह्वी॒नाम्पि॒ता ब॒हुर॑स्य पु॒त्रश्चि॒श्चा कृ॑णोति॒ सम॑नाव॒गत्य॑ ।  
+इ॒षु॒धिस्सङ्का॒ᳶ पृत॑नाश्च॒ सर्वाः॑ पृ॒ष्ठे निन॑द्धो जयति॒ प्रसू॑तः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ब॒ह्वी॒नाम् । पि॒ता । ब॒हुः । अ॒स्य । पु॒त्रः । चि॒श्चा । कृ॒णो॒ति॒ । सम॑ना । अ॒व॒ऽगत्य॑ ।  
@@ -121,6 +127,11 @@ pr̥ṣṭhé ← pr̥ṣṭhá- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 बह्वीनाम्। पिता। बहुः। अस्य। पुत्रः। चिश्चा। कृणोति। समना। अवगत्य। इषुधिः। सङ्काः। पृतनाः। च। सर्वाः। पृष्ठे। निनद्धः। जयति। प्र। सूतः। ७।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ब॒ह्वी॒नाम् । पि॒ता । ब॒हुः । अ॒स्य॒ । पु॒त्रः । चि॒श्चा । कृ॒णो॒ति॒ । सम॑ना । अ॒व॒गत्येत्य॑व-गत्य॑ ॥ इ॒षु॒धिरिती॑षु-धिः । सङ्काः॑ । पृत॑नाः । च॒ । सर्वाः॑ । पृ॒ष्ठे । निन॑द्ध॒ इति॒ नि-न॒द्धः॒ । ज॒य॒ति॒ । प्रसू॑त॒ इति॒ प्र-सू॒तः॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -360,6 +371,15 @@ _________
 वा । 'कु विक्षेपे' [ १४१० तुद्-आदिः ] । संग्रामे जाल-विततिवत् संकीर्यन्ते इति संका इति पृतना-विशेषणं वा । वर्णलोपश्छान्दसः । पृतनाः इषुधिर् जयतीति स्पर्द्धनीयतमाः संग्राम- भक्तीः सर्वाः ॥ १८ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अयमिषुधिर्बाणाधारः समनाऽवगत्य समने युद्धे प्राप्य चिश्चा कृणोति बाणाकर्षणवेलायामव्यक्तं ध्वनिं करोति ।  
+तस्य ध्वनेरनुकरणं चिश्चेति ।  
+कीदृश इषुधिः, बहुवीनामिषूणां पालकः ।  
+अत एवास्य षितृस्थानीयस्य पुत्रस्थानीय इषुसंघो बहुविधः ।  
+सोऽयमिषुधिः पृष्ठे निनद्धः पृष्टभागे नितरां बद्धः प्रसूतो धानुष्केण प्रेरितो बाणाकर्षणे सङ्काः सम्यक्प्राप्ताः सर्वा अपि पृतना जयति ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -425,6 +445,14 @@ Another onomatopoetic word: ciścā́, which is a hapax (though cf. ciściṣāk
 
 With many a son, father of many daughters, He clangs and clashes as he goes to battle.  
      Slung on the back, pouring his brood, the Quiver vanquishes all opposing bands and armies.
+</details>
+
+<details><summary>Keith</summary>
+
+Father of many (daughters), many his sons,  
+He whizzeth as he goeth to battle,  
+The quiver, slung on the back, yielding its content,  
+Doth conquer every band and army.
 </details>
 
 <details><summary>Geldner</summary>

@@ -81,6 +81,12 @@ vr̥traháṇam ← vr̥trahán- (nominal stem)
 वृ॒त्र॒हणं॑ पुरंद॒रम् ॥६॥ ३३
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+तमु॑ [34]  त्वा॒ द॒ध्यङ्ङृषिᳶ॑ पु॒त्र ई॑धे॒ अथ॑र्वणः  ।   
+वृ॒त्र॒हण॑म्पुरन्द॒रम्  ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तम् । ऊं॒ इति॑ । त्वा॒ । द॒ध्यङ् । ऋषिः॑ । पु॒त्रः । ई॒धे॒ । अथ॑र्वणः ।  
@@ -95,6 +101,11 @@ vr̥traháṇam ← vr̥trahán- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 तम्। इत्यै॑। त्वा॒। द॒ध्यङ्। ऋषिः॑। पुत्रः। ई॑धे॒। अथ॑र्वणः। वृ॒त्र॒हण॑म्। वृ॒त्र॒हन॒मिति॑ि वृ॒त्र॒ऽहन॑म्। पु॒र॒दूरमिति॑ पु॒रंऽ द॒रम्। ६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+तम् । उ॒ । त्वा॒ । द॒ध्यङ्ङ् । ऋषिः॑ । पु॒त्रः । ई॒धे॒ । अथ॑र्वणः ॥ वृ॒त्र॒हण॒मिति॑ वृत्र-हन॑म् । पु॒र॒न्द॒रमिति॑ पुरं-द॒रम् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -251,6 +262,16 @@ _________
 । असुर-पुराणां च दारयितारम् । इन्धी दीप्तौ । आदीपयामि आदीपयति वा । अग्नेर् अपि परमैश्वर्य-योगाद् इन्द्रात्मना स्तुतिः ॥६॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तमेव त्वा दध्यङ्नाम ऋषिः अथर्वणः पुत्रः ईधे दीपयामास । 'इन्धिभवतिभ्यां च' इति कित्त्वात् 'अनिदिताम्' इति लोपः । वृत्रहणं वृत्रस्यासुरस्य पाप्मनो वा हन्तारं पुरन्दरं पुरामसुरसम्बन्धिनीनां दारयितारम् । 'पूस्सर्वयोः' इति खच्, 'वाचयमपुरन्दरौ' इति निपात्यते ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हेऽग्नेऽथर्वणः पुत्रो दध्यङ्नामक ऋषिस्तमु त्वेधे तमेव त्वां प्रज्वलितवान्।   कीदृशं त्वाम्।   वृत्रहणं वैरिनाशनं पुरंदरं रुद्ररूपेणासुरसंबन्धिनां त्रयाणां पुराणां विदारयितारम्।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर भी उक्त विषय अगले मन्त्र में कहा है ॥
@@ -318,6 +339,13 @@ This tṛca is recited in śrauta ritual during the churning of the fire; see Kr
 
 Thee. Vrtra's slayer, breaker down of castles, hath Atharvan's son,  
      Dadhyac the Rsi, lighted up.
+</details>
+
+<details><summary>Keith</summary>
+
+Thee [3] the sage, Dadhyañc,  
+Son of Atharvan, doth kindle,  
+Slayer of Vrtra, destroyer of forts.
 </details>
 
 <details><summary>Griffith (माध्यन्दिनम्)</summary>

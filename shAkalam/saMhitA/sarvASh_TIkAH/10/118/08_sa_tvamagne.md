@@ -72,6 +72,11 @@ urukṣáyeṣu ← urukṣáya- (nominal stem)
 उ॒रु॒ऽक्षये॑षु । दीद्य॑त् ॥
 </details>
 
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+सः । त्वम् । अ॒ग्ने॒ । प्रती॑केन । प्रतीति॑ । ओ॒ष॒ । या॒तु॒धा॒न्य॑ इति॑ यातु-धा॒न्यः॑ ॥ उ॒रु॒क्षये॒ष्वित्यु॑रु-क्षये॑षु । दीद्य॑त् ॥
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
@@ -141,6 +146,11 @@ _________
 हे **अग्ने** **स** **त्वं** **प्रतीकेन** त्वदवयवभूतेन तेजसा **यातुधान्यः** यातुधानी राक्षसीः **प्रत्योष** प्रतिकूलं दह ॥  ‘ उष दाहे' । भौवादिकः । लोटि हेर्लुक् ।  ‘ जातेरस्त्रीविषयात्°' (पा. सू. ४. १. ६३ ) इति यातुधानशब्दस्य ङीष् ' । 'उदात्तस्वरितयोर्यणः” इति स्वरितत्वम् ॥ किं कुर्वन् । **उरुक्षयेषु** विस्तीर्णेषु निवासेष्वाहवनीयादिषु **दीद्यत्** दीप्यमानः ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने स त्वं प्रतीकेन ज्वालाया उपक्रमणमात्रेण प्रत्योषं प्रतिमुखं प्रत्येकं वा यातुधान्यः यातुधानीः यातुधानजातीः क्षयेषु यज्ञगृहेषु । 'क्षयो निवासे' इत्याद्युदात्तत्वम् । उरु महत् दीद्यत् जाज्वल्यमानः । दीद्यतिश्छान्दसः । अभ्यस्तसंज्ञिकत्वान्नुमभावः । 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -159,6 +169,11 @@ as you shine among those dwelling far and wide [/the Urukṣayas].
 
 So, Agni, with thy glowing face burn fierce against the female fiends,  
      Shining among Uruksayas.
+</details>
+
+<details><summary>Keith</summary>
+
+Agni, with thy front, Burn the sorceresses, Shining in the broad dwellings.
 </details>
 
 <details><summary>Geldner</summary>

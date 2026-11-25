@@ -83,6 +83,12 @@ vóḷhave ← √vah- (root)
 शो॒चिष्के॑शं पुरुप्रि॒याग्ने॑ ह॒व्याय॒ वोळह॑वे ॥१३॥ ५३
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+त्वाञ्चि॑त्रश्रवस्तम॒ हव॑न्ते वि॒क्षु ज॒न्तवः॑ ।    
+शो॒चिष्के॑शम्पुरुप्रि॒याग्ने॑ ह॒व्याय॒ वोढ॑वे ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वाम् । चि॒त्र॒श्र॒वः॒ऽत॒म॒ । हव॑न्ते । वि॒क्षु । ज॒न्तवः॑ ।  
@@ -270,6 +276,11 @@ _________
 त्वामाह्वयन्तीति संबन्धः ॥ १३ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+चित्रं श्रवो विचित्रा क्रीर्तिर्यस्यासा चित्रश्रवा अति शयेन चित्रश्रयाश्विवश्रवस्तमः।   पुरूणां यजमानानां प्रिय, तथाविध हेऽग्ने विक्षुप्रजासु मध्ये जन्तवो जन्तव इव जनास्त्वां हवन्त आह्वयन्ति।   किमर्थम् हव्याय वोढवे हविर्वोढुम्।   कीदृशं त्वां शोचिष्केशं शोचीषि ज्वाला एव केशस्थानीवा यस्यासौ शोचिष्केशस्तम्।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 मनुष्य लोग अग्नि से क्या सिद्ध करें, यह विषय अगले मन्त्र में कहा है ॥
@@ -322,6 +333,14 @@ O you of brightest fame, the kinsmen within their clans call upon you, o much be
 
 O Agni, loved by many, thou of fame most wondrous, in their homes  
      Men call on thee whose hair is flame, to be the bearer of their gifts.
+</details>
+
+<details><summary>Keith</summary>
+
+Thee of most resplendent fame  
+Men invoke in their dwellings,  
+With flaming hair, O dear to many,  
+O Agni, to bear the oblation.
 </details>
 
 <details><summary>Oldenberg</summary>

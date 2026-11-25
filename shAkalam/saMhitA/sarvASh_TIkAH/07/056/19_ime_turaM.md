@@ -95,10 +95,23 @@ gurú ← gurú- (nominal stem)
 इ॒मे शंसं॑ वनुष्य॒तो नि पा॑न्ति गु॒रु द्वेषो॒ अर॑रुषे दधन्ति ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+इ॒मे तु॒रम्म॒रुतो॑ रामयन्ति ।  
+इ॒मे सह॒स्सह॑स॒ आ न॑मन्ति ।  
+इ॒मे शँसव्ँ॑वनुष्य॒तो नि पा॑न्ति ॥ 36 ॥  
+गु॒रुद्वेषो॒ अर॑रुषे दधन्ति ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒मे । तु॒रम् । म॒रुतः॑ । र॒म॒य॒न्ति॒ । इ॒मे । सहः॑ । सह॑सः । आ । न॒म॒न्ति॒ ।  
 इ॒मे । शंस॑म् । व॒नु॒ष्य॒तः । नि । पा॒न्ति॒ । गु॒रु । द्वेषः॑ । अर॑रुषे । द॒ध॒न्ति॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+इमे᳓ । तुर᳓म् । मरु᳓तः । राम । यन्ति । इमे᳓ । स᳓हः । स᳓हसः । आ᳓ । नमन्ति । इमे᳓ । शं᳓सम् । वनुष्यतः᳓ । नि᳓ । पान्ति । गुरु᳓ । द्वे᳓षः । अ᳓ररुषे । दधन्ति ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -228,6 +241,11 @@ _________
 **इमे** ईदृशः **मरुतः** **तुरं** कर्मसु क्षिप्रवन्तं यजमानं **रमयन्ति** क्रीडयन्ति । **इमे** मरुतः **सहः** सहसा बलेन **सहसः** बलवतो जनान् **आ** **नमन्ति** । **इमे** मरुतः **वनुष्यतः** हिंसकात् पुरुषात् **शंसं** शंसकं स्तोतारं **नि** **पान्ति** नितरां पालयन्ति । **अररुषे** हविरप्रयच्छते जनाय **गुरु** महत् **द्वेषः** अप्रियं **दधन्ति** कुर्वन्ति ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इमे मरुतः तुरं तूर्ण रामयन्ति अस्मान् क्रीडयन्ति । इमे मरुतः सहसो बलवतः शत्रोः सहो बलमानयन्ति आनतं कुर्वन्ति विनाशयन्तीत्यर्थः । इमे मरुतः शंसं शंसितारं यजमानं वनुष्यतो हिंसितुः शत्रोः सकाशान्निपान्ति नितरां रक्षन्ति । अररुषे हविष्प्रदानमकुर्वते नास्तिकाय गुरुद्वेषो महान्तं द्वेषं दधन्ति कुर्वन्ति ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -245,7 +263,10 @@ They protect the laud from the rapacious; they establish heavy hatred  for the u
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/056/18-19.md">
 <details><summary><h2>18-19 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 As was just noted, vs. 17 “feels” like a final (or pseudo-final) vs. If vs. 18 marks a new beginning, we can note both that in vs. 18 the Hotar invokes the gods as he would at the beginning of a sacrifice and that in vs. 19 (and 20a) the Maruts are referred to four times (19a, b, c, 20a) with the near-deictic pronoun imé “these right here,” which might indicate their epiphany on the ritual ground.
+</details>
 
 </details>
 </div>

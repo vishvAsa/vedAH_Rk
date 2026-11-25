@@ -168,7 +168,10 @@ Let all the gods, strong through truth, hearing the calls in their turns, enjoy 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
 <details><summary><h2>07-12 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an elementary production, with almost no tricks (though see vs. 9). One wonders whether great swaths of RV-period poetry were similarly lackluster and therefore not generally preserved.
+</details>
 
 </details>
 </div>
@@ -177,6 +180,13 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 
 May all the Gods who strengthen Law, with Rtus, listening to our call,  
      Be pleased with theit appropriate draught.
+</details>
+
+<details><summary>Keith</summary>
+
+May the All-gods who further right,  
+Who hearken to the call in due season,  
+Find pleasure in this proper drink.
 </details>
 
 <details><summary>Geldner</summary>

@@ -484,6 +484,14 @@ For our sage fathers, Soma Pavamana, of old performed, by thee, their sacred dut
      Fighting unvanquished, open the enclosures: enrich us with large gifts of steeds and heroes.
 </details>
 
+<details><summary>Keith</summary>
+
+By thee, O Soma Pavamana, our ancient fathers  
+Wisely ordained the offerings;  
+Conquering, untroubled, do thou open the barriers;  
+Be generous to us in heroes and horses [1].
+</details>
+
 <details><summary>Geldner</summary>
 
 Denn mit dir, o Soma, haben unsere weisen Väter vormals ihre Taten getan, o Pavamana. Ein unüberwundener Überwinder öffne du die Schranken; sei gegen uns freigebig mit Söhnen und Rossen!

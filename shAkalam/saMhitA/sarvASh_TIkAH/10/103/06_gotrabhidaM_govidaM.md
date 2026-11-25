@@ -415,6 +415,13 @@ Cleaver of stalls, kine-winner, armed with thunder, who quells an army and with 
      Follow him, brothers! quit yourselves like heroes, and like this Indra show your zeal and courage.
 </details>
 
+<details><summary>Keith</summary>
+
+The cleaver of the cowstalls, finder of the cows, with the thunderbolt on his arm, Victorious, crushing in might a host,  
+Be heroes, O my fellows, like him;  
+O comrades, follow in Indra's footsteps.
+</details>
+
 <details><summary>Geldner</summary>
 
 Der die Kuhställe aufsprengt, die Rinder ausfindig macht mit der Keule im Arm, der das Rennen gewinnt, mit Kraft zermalmt, ihm tut es an Tapferkeit gleich, ihr Clangenossen; an Indra haltet euch fest, ihr Freunde!

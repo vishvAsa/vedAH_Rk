@@ -98,6 +98,12 @@ sárvam ← sárva- (nominal stem)
 द्वि॒पच्चतु॑ष्पद॒स्माकँ॒ सर्व॑मस्त्वनातु॒रम् ॥२२॥ ॥ ९७
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+मा वो॑ रिषत्खनि॒ता यस्मै॑ चा॒हङ्खना॑मि वः ।  
+द्वि॒पच्चतु॑ष्पद॒स्माकँ॒ सर्व॑म॒स्त्वना॑तुरम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मा । वः॒ । रि॒ष॒त् । ख॒नि॒ता । यस्मै॑ । च॒ । अ॒हम् । खना॑मि । वः॒ ।  
@@ -112,6 +118,11 @@ sárvam ← sárva- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 मा। वः॒। रि॒ष॒त्। ख॒नि॒ता। यस्मै॑। च॒। अ॒हम्। खना॑मि। वः॒। द्विपदिति॑ि द्वि॒ऽपत्। चतु॑ष्पत्। चतु॑प॒दिति॒ चतु॑ ऽपत्। अ॒स्माक॑म्। सर्व॑म्। अ॒स्तु। अ॒ना॒तुरम्। २२।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+मा । वः॒ । रि॒ष॒त् । ख॒नि॒ता । यस्मै॑ । च॒ । अ॒हम् । खना॑मि । वः॒ ॥ द्वि॒पदिति॑ द्वि-पत् । चतु॑ष्प॒दिति॒ चतुः॑-प॒त् । अ॒स्माक॑म् । सर्व॑म् । अ॒स्तु॒ । अना॑तुर॒मित्यना॑-तु॒र॒म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -258,6 +269,11 @@ _________
 अस्तु भवतु ॥ २२ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे ओषधयो वो युष्माकं खनिता चिकित्सायै युष्मदीयं मूलं ग्रहीतुं खननस्य कर्ता मा रिषन्मा विनश्यतु ।   अहं च यस्मै रुग्णाय चिकित्सार्थं खनामि युष्मन्मूलं ग्रहीतुं खननं करोमि सोऽपि मा विनश्यतु ।   किं वहुनाऽस्माकं संब-न्धि यद्द्विपच्चतुष्पाद्वा प्राणिजातं युष्मदुपजीवति तत्सर्वमनातुरं रोगरहितमस्तु ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 कोई भी मनुष्य ओषधियों की हानि न करे, यह विषय अगले मन्त्र में कहा है ॥
@@ -311,6 +327,14 @@ Let our two-footed and four-footed all be free of affliction.
 
 Unharmed be he who digs you up, unharmed the man for whom I dig:  
      And let no malady attack biped or quadruped of ours.
+</details>
+
+<details><summary>Keith</summary>
+
+May the digger of you come to no ill,  
+Nor he for whom I dig you;  
+May all our bipeds and quadrupeds  
+Be free from disease.
 </details>
 
 <details><summary>Geldner</summary>

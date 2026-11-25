@@ -456,6 +456,14 @@ Her tooth a deer, dressed in an eagle's feathers, bound with cow-hide, launched 
      There where the heroes speed hither and thither, there may the Arrows shelter and protect us.
 </details>
 
+<details><summary>Keith</summary>
+
+A feather her garment, a deer her tooth,  
+Tied with cowhide she flieth shot forth;  
+Where men run together and apart,  
+There may the arrows accord us protection.
+</details>
+
 <details><summary>Geldner</summary>
 
 Mit Adlerfedern kleidet er sich, von der Antilope ist sein Zahn, mit Rindersehnen umbunden fliegt er entsandt. Wo die Männer aneinander und auseinander rennen, da sollen uns die Pfeile Schutz gewähren.

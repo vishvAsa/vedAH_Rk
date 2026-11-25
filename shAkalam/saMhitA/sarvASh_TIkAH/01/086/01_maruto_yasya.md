@@ -280,6 +280,13 @@ THE best of guardians hath that man within whose dwelling place ye drink,
      O Maruts, giants of the sky.
 </details>
 
+<details><summary>Keith</summary>
+
+In whose house [1], O Maruts,  
+Ye drink, O joyous ones of the sky  
+That man hath the best of guardians.
+</details>
+
 <details><summary>Geldner</summary>
 
 Denn in wes Haus ihr Marut wachet, ihr ausgezeichneten Mannen des Himmels, der Mann ist am besten bewacht.

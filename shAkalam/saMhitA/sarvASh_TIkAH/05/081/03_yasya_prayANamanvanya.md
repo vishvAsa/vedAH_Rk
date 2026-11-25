@@ -104,6 +104,12 @@ savitā́ ← savitár- (nominal stem)
 यः पार्थि॑वानि विम॒मे सऽएत॑शो॒ रजाँ॑सि दे॒वः स॑वि॒ता म॑हित्व॒ना ॥६ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यस्य॑ प्र॒याण॒मन्व॒न्य इद्य॒युर्दे॒वा दे॒वस्य॑ महि॒मान॒मर्च॑तः ।   
+यᳶ पार्थि॑वानि विम॒मे स एत॑शो॒ रजाँ॑सि दे॒वस्स॑वि॒ता म॑हित्व॒ना ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यस्य॑ । प्र॒ऽयान॑म् । अनु॑ । अ॒न्ये । इत् । य॒युः । दे॒वाः । दे॒वस्य॑ । म॒हि॒मान॑म् । ओज॑सा ।  
@@ -118,6 +124,11 @@ savitā́ ← savitár- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यस्य॑। प्र॒याण॑म्। प्र॒यान॒मिति॑ प्र॒ऽयान॑म्। अनु॑। अ॒न्ये। इत्। य॒युः। दे॒वाः। दे॒वस्य॑। म॒हि॒मान॑म्। ओज॑सा। यः। पार्थि॑वानि। वि॒म॒म इति॑ विऽम॒मे। सः। एत॑शः। रजाँ॑सि। दे॒वः। स॒वि॒ता। म॒हि॒त्व॒नेति॑ महिऽत्व॒ना। ६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यस्य॑ । प्र॒याण॒मिति॑ प्र-यान॑म् । अन्विति॑ । अ॒न्ये । इत् । य॒युः । दे॒वाः । दे॒वस्य॑ । म॒हि॒मान॑म् । अर्च॑तः ॥ यः । पार्थि॑वानि । वि॒म॒म इति॑ वि-म॒मे । सः । एत॑शः । रजाँ॑सि । दे॒वः । स॒वि॒ता । म॒हि॒त्व॒नेति॑ महि-त्व॒ना ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -357,6 +368,12 @@ _________
 तथा ह्यमिहितम् - "उषा वा अश्वस्य मेध्यस्य शिरः सूर्यश् चक्षुः ( तैसे ७.५.२५.१, बृड १.१.१ ) इत्य्-आदिना ॥ ६॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यस्य सवितुः प्रयाणं प्रवृत्तिमन्ये सर्वे देवा अनुय- युरिदवश्यमनुगच्छन्त्येव।  
+किं कुर्वन्तः।   अस्य देवस्य महिमानमर्चतोऽर्चयन्तः।   किंच, यः सविता पार्थिवानि रजांसि विममे पृथिवीगतान्परमाणून्विशेषेण गणयित्वा निश्चितवान्स सविता देवो महित्वना महत्त्वेनैतशो व्याप्तवानेति सर्वत्र गच्छतीत्येतशः।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 मनुष्य किस की उपासना करें, यह विषय अगले मन्त्र में कहा है ॥
@@ -415,6 +432,14 @@ who measured out the earthly (spaces)—he, the steed [/Etaśa], (also)  measure
 
 Even he, the God whose going-forth and majesty the other Deities have followed with their might,  
      He who hath measured the terrestrial regions out by his great power, he is the Courser Savitar.
+</details>
+
+<details><summary>Keith</summary>
+
+He whose advance others followed,  
+Gods, of the god praising might,  
+He who meted out the regions of earth,  
+He is the brilliant god Savitr in greatness.
 </details>
 
 <details><summary>Geldner</summary>

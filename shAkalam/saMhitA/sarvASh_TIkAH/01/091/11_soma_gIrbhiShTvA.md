@@ -69,10 +69,22 @@ viśa ← √viś- (root)
 सु॒मृ॒ळी॒को न॒ आ वि॑श ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+सोम॑ गी॒र्भिष्ट्वा॑ व॒यम् ।  
+व॒र्धया॑मो वचो॒विदः॑ ।  
+सु॒मृ॒डी॒को न॒ आवि॑श ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सोम॑ । गीः॒ऽभिः । त्वा॒ । व॒यम् । व॒र्धया॑मः । व॒चः॒ऽविदः॑ ।  
 सु॒ऽमृ॒ळी॒कः । नः॒ । आ । वि॒श॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+सो᳓म । गीर्भिः᳓ । ट्वा । वय᳓म् । वर्ध᳓यामः । वचः-वि᳓दः । सु-मृडीकः᳓ । नः । आ᳓ । विश ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -161,6 +173,11 @@ _________
 हे **सोम** **त्वा** त्वां **वचोविदः** स्तुतिलक्षणानां वचसां वेदितारः **वयम्** अनुष्ठातारः **गीर्भिः** स्तुतिलक्षणैर्वचोभिः **वर्धयामः** प्रवृद्धं कुर्मः । तादृशस्त्वं च **नः** अस्माकं **सुमृळीकः** शोभनं सुखं कुर्वन् सन् **आ** **विश** आगच्छ । सुमृळीकः ।  ‘ मृड सुखने ' ।  ‘ मृडेः कीकन्ककनौ ' ( उ. सू. ४. ४६४ ) इति भावे कीकन्प्रत्ययः । शोभनं मृडीकं यस्येति बहुव्रीहौ ‘नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+गीर्भिः सूक्तिभिः वर्धयामः महायशसं कुर्मः । यस्मात् वयं वचोविदः वचसां वेदितारः वाग्योगविदः, अतः त्वं सुमृडीकः सुष्ठु सुखयिता भूत्वा नः अस्मान् आविश अनुप्रविश्य अनुगृहाण ।
+</details>
+
 <details><summary>Wilson</summary>
 
 ## English translation:
@@ -178,7 +195,10 @@ Very compassionate to us, enter us.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">
 <details><summary><h2>11-12 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 The two alliterative root noun compounds vacovíd- (11b) and vasuvíd- (12b) nonetheless contain the two synchronically separate roots, ‘know’ and ‘find’.
+</details>
 
 </details>
 </div>

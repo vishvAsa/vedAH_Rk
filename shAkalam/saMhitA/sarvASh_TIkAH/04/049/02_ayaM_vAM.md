@@ -165,6 +165,13 @@ This lovely Soma is effused, O Indra and Brhaspati,
      For you, to drink it and rejoice.
 </details>
 
+<details><summary>Keith</summary>
+
+This Soma is poured for you,  
+O Indra and Brhaspati,  
+Dear for delight, for drinking.
+</details>
+
 <details><summary>Geldner</summary>
 
 Dieser Soma wird euch beiden eingeschenkt, Indra und Brihsapati, der angenehm zum Rausch, zum Trinken ist.

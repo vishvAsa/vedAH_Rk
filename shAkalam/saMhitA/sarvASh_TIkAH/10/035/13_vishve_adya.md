@@ -107,6 +107,12 @@ víśvam ← víśva- (nominal stem)
 विश्वे॑ नो दे॒वाऽअव॒सा ग॑मन्तु॒ विश्व॑मस्तु॒ द्रवि॑णं॒ वाजो॑ऽअ॒स्मै ॥५२ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+विश्वे॑ अ॒द्य म॒रुतो॒ विश्व॑ ऊ॒ती विश्वे॑ भवन्त्व॒ग्नय॒स्समि॑द्धाः ।   
+विश्वे॑ नो दे॒वा अव॒सा ऽऽग॑मन्तु॒ विश्व॑मस्तु॒ द्रवि॑णव्ँ॒वाजो॑ अ॒स्मे ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 विश्वे॑ । अ॒द्य । म॒रुतः॑ । विश्वे॑ । ऊ॒ती । विश्वे॑ । भ॒व॒न्तु॒ । अ॒ग्नयः॑ । सम्ऽइ॑द्धाः ।  
@@ -123,6 +129,11 @@ víśvam ← víśva- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 विश्वे॑। अ॒द्य। म॒रुतः॑। विश्वे॑। ऊ॒ती। विश्वे॑। भ॒व॒न्तु॒। अ॒ग्नयः॑। समि॑द्धा॒ इति॒ सम्ऽइ॑द्धाः। विश्वे॑। नः॒। दे॒वाः। अ॒व॒सा। आ। ग॒म॒न्तु॒। विश्व॑म्। अ॒स्तु॒। द्रवि॑णम्। वाजः॑। अ॒स्मेऽइत्य॒स्मे। २।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+विश्वे॑ । अ॒द्य । म॒रुतः॑ । विश्वे॑ । ऊ॒ती । विश्वे॑ । भ॒व॒न्तु॒ । अ॒ग्नयः॑ । समि॑द्धा॒ इति॒ सम्-इ॒द्धाः॒ ॥ विश्वे॑ । नः॒ । दे॒वाः । अव॑सा । एति॑ । ग॒म॒न्तु॒ । विश्व॑म् । अ॒स्तु॒ । द्रवि॑णम् । वाजः॑ । अ॒स्मे इति॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -433,6 +444,14 @@ ssगमन्तु ' । "नः अस्माकम् " असा अन�
 अथ वैश्वदेवश्चतुर्थमहर्भवति--
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अद्यास्मिन्दिने विश्वे सर्वेऽपि मरुतः, तथाऽग्न्ये विश्वे सर्वेऽपि देवा ऊती रक्षणाय भवन्तु प्रवर्तन्ताम् ।  
+तथा विश्वे सर्वेऽयग्नयः समिद्धाः सम्यक्प्रज्वलिता भवन्तु ।  
+तथा विश्वे सर्वेऽपि देवा नोऽस्माकमवसा रक्षणेन निमित्तभूतेनाऽऽगमन्त्वागच्छन्तु ।  
+तथा विश्वं द्रविणं सर्वमपि धनमस्मे अस्मासु अस्तु भवतु ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -527,6 +546,14 @@ Let all the gods come here to us with help; let all wealth, (every) prize  be fo
 
 This day may all the Maruts, all he near us with aid: may all our fires be well enkindled.  
      May all Gods come to us with gracious favour. May spoil and wealth he ours, and all possessions.
+</details>
+
+<details><summary>Keith</summary>
+
+May all the Maruts to-day be present, all, to aid us,  
+Be the fires all enkindled present;  
+May the All-gods come to us with aid;  
+All wealth, and strength, be ours.
 </details>
 
 <details><summary>Griffith (माध्यन्दिनम्)</summary>

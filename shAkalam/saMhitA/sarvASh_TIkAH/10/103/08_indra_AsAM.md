@@ -357,6 +357,14 @@ Indra guide these: Brhaspati precede them, the guerdon, and the sacrifice, and S
      And let the banded Maruts march in forefront of heavenly hosts that conquer and demolish.
 </details>
 
+<details><summary>Keith</summary>
+
+Indra (be) their leader, and let Brhaspati,  
+The sacrificial fee, the sacrifice and Soma go before;  
+Let the Maruts precede the hosts divine,  
+That overthrow and conquer.
+</details>
+
 <details><summary>Geldner</summary>
 
 Indra soll als deren Anführer, Brihaspati, die Daksina, das Opfer und Soma vorangehen. Die Marut sollen an der Spitze der einbrechenden, siegreichen Götterheere gehen.

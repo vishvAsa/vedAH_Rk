@@ -98,6 +98,12 @@ kave ← kaví- (nominal stem)
 बृह॑द्भानो॒ शव॑सा॒ वाज॑मु॒क्थ्यं॒ दधा॑सि दा॒शुषे॑ कवे ॥५॥ १०५
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अग्ने॒ तव॒ श्रवो॒ वयो॒ महि॑ भ्राजन्त्य॒र्चयो॑ विभावसो ।  
+बृह॑द्भानो॒ शव॑सा॒ वाज॑मु॒क्थ्य॑न्दधा॑सि दा॒शुषे॑ कवे ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । तव॑ । श्रवः॑ । वयः॑ । महि॑ । भ्रा॒ज॒न्ते॒ । अ॒र्चयः॑ । वि॒भा॒व॒सो॒ इति॑ विभाऽवसो ।  
@@ -112,6 +118,11 @@ kave ← kaví- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अग्ने॑। तव॑। श्रवः॑। वयः॑। महि॑। भ्रा॒ज॒न्ते॒। अ॒र्चयः॑। वि॒भा॒व॒सो॒ इति॑ विभाऽवसो। बृह॑द्भानो॒ इति॒ बृह॑त्ऽभानो। शव॑सा। वाज॑म्। उ॒क्थ्य᳙म्। दधा॑सि। दा॒शुषे॑। क॒वे॒। ५।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अग्ने॑ । तव॑ । श्रवः॑ । वयः॑ । महि॑ । भ्रा॒ज॒न्ति॒ । अ॒र्चयः॑ । वि॒भा॒व॒सो॒ इति॑ विभा-व॒सो॒ ॥ बृह॑द्भानो॒ इति॒ बृह॑त्-भा॒नो॒ । शव॑सा । वाज॑म् । उ॒क्थ्य॑म् । दधा॑सि । दा॒शुषे॑ । क॒वे॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -315,6 +326,11 @@ _________
 हे "विभावसो विभूत-धन हे अग्ने, तब अर्चय: अचींषि भ्राजन्ते दीप्यन्ते । किं च- ' बृहद्-भानो शवसा बाजमुक्थ्यम् ' । हे "बृहद्-भानो महादीप्त हे 'कवे क्रान्त-दर्शन, 'शवसा बलेन सहितम् "उक्थ्यम् उक्थाहं 'वाजम् अन्नं दधासि दाशुषे इवींषि दत्तवते यजमानाय ददासि ॥ ५ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+वीयते प्राणिभिरश्यत इति वयोऽन्नम् ।   हेऽग्ने तव श्रवस्त्व-तीयत्वेन श्रूयमाणं वयोऽन्नं महि महदस्ति ।   विभा दीप्तिरेव वसु धनं यस्यासौ विभाव-सुः।   हे विभावसोऽर्चयस्तव दीप्तयो भ्राजन्ति दीप्यन्ते ।   बृहन्तो भानवो यस्यासौ बृह-द्भानुः ।   कविर्विद्वान्यजमानाभिप्रायाभिज्ञः ।   तादृश हेऽग्ने दाशुषे हविर्दत्तवते यजमा-नायोक्थ्यं शस्राद्युपेतयज्ञयोग्यं वाजमन्नं शवसा त्वदीयेन बलेन दधासि ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 मनुष्यों को कैसा होना चाहिये, यह विषये अगले मन्त्र में कहा है ॥
@@ -369,6 +385,13 @@ prize for the pious, o sage poet.
 
 AGNI, life-power and fame are thine: thy fires blaze mightily, thou rich in wealth of beams!  
      Sage, passing bright, thou givest to the worshipper, with strength, the food that merits laud.
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, strength and fame are thine,  
+Thy rays shine mightily, O rich in light;  
+O thou of broad radiance, with thy might, strength worthy of laud, Thou bestowest on the worshipper, O sage.
 </details>
 
 <details><summary>Geldner</summary>

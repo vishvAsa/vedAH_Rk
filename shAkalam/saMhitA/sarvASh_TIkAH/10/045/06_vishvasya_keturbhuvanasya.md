@@ -107,6 +107,12 @@ yát ← yá- (pronoun)
 वी॒ळुं चि॒दद्रि॑मभिनत् परा॒यञ्जना॒ यद॒ग्निमय॑जन्त॒ पञ्च॑ ॥६॥ २४
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+विश्व॑स्य के॒तुर्भुव॑नस्य॒ गर्भ॒ आ [7]  रोद॑सी अपृणा॒ज्जाय॑मानः ।  
+वी॒डुञ्चि॒दद्रि॑मभिनत्परा॒यञ्जना॒ यद॒ग्निमय॑जन्त॒ पञ्च॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 विश्व॑स्य । के॒तुः । भुव॑नस्य । गर्भः॑ । आ । रोद॑सी॒ इति॑ । अ॒पृ॒णा॒त् । जाय॑मानः ।  
@@ -121,6 +127,11 @@ yát ← yá- (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 विश्व॑स्य। के॒तुः। भुव॑नस्य। गर्भः॑। आ। रोद॑सीऽइति॒ रोद॑सी। अ॒पृ॒णा॒त्। जाय॑मानः। वी॒डुम्। चि॒त्। अद्रि॑म्। अ॒भि॒न॒त्। प॒रा॒यन्निति॑ परा॒ऽयन्। जनाः॑। यत्। अ॒ग्निम्। अय॑जन्त। पञ्च॑। ६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+विश्व॑स्य । के॒तुः । भुव॑नस्य । गर्भः॑ । एति॑ । रोद॑सी॒ इति॑ । अ॒पृ॒णा॒त् । जाय॑मानः ॥ वी॒डुम् । चि॒त् । अद्रि॑म् । अ॒भि॒न॒त् । प॒रा॒यन्निति॑ परा-यन् । जनाः॑ । यत् । अ॒ग्निम् । अय॑जन्त । पञ्च॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -336,6 +347,11 @@ _________
 यः "आ रोदसी अपृणात् 'जायमानः, द्यावापृथिव्यौ आपूणात् आपूरयति स्वतेजांसि । स एव मध्यमं स्थानम् आरुह्य इन्द्रात्मना स्थितः । बीळं चित् 'अद्रिम् अतिदृढमप्य् अद्रिम् अभितः अद्रि-पक्ष-भेदं कृतवान् । मेघं वा । परायन् परावतो गच्छन् वि [ अ ] दारयदिति ॥६॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+विश्वस्य केतुर्जगतो ज्ञाता भुवनस्य गर्भो गर्भवदन्तरवस्थितो जायमानो जातमात्र एव सन्रोदसी द्यावापृथिव्यावापृणात्सर्वतः स्वतेजसा पूरयति।   यद्यदा पञ्च यजमानसहितं ऋत्विग्रूपा पञ्चसंख्याका जना अग्निमयजन्त तदानीं परायन्नाहुतिरूपेणाऽऽदित्यस्य समीपं गच्छन्वीहुंचिद्ढमेवाद़िं पर्वतसमानं मेघमभिनद्विदारितवान्।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर भी वही विषय अगले मन्त्र में कहा है ॥
@@ -399,6 +415,14 @@ Beacon of all creation, the embryo filled both world-halves while he was  being 
 
 Germ of the world, ensign of all creation, be sprang to life and filled the earth and heavens.  
      Even the firm rock he cleft when passing over, when the Five Tribes brought sacrifice to Agni.
+</details>
+
+<details><summary>Keith</summary>
+
+The banner of the whole world, the germ [2],  
+Filled on birth the firmaments;  
+Even the firm mountain he cleft passing over,  
+When the five peoples sacrificed to Agni.
 </details>
 
 <details><summary>Geldner</summary>

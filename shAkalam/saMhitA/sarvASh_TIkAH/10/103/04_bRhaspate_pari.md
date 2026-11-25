@@ -372,6 +372,14 @@ Brhaspati, fly with thy chariot hither, slayer of demons, driving off our foemen
      Be thou protector of our cars, destroyer, victor in battle, breaker-up of armies.
 </details>
 
+<details><summary>Keith</summary>
+
+O Brhaspati, fly round with thy chariot [1],  
+Slaying the foe, driving away the enemy;  
+Defeating hosts, destroyer, victor in battle,  
+Be thou protector of our chariots.
+</details>
+
 <details><summary>Geldner</summary>
 
 Brihaspati, fliege mit deinem Wagen umher, die Unholde tötend, die Feinde vertreibend, die Heere durchbrechend, zerschmetternd, im Kampfe siegend sei du der Helfer unserer Wagen!

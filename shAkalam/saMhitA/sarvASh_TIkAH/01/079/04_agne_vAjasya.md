@@ -72,6 +72,12 @@ máhi ← máh- (nominal stem)
 अ॒स्मे धे॑हि जातवेदो॒ महि॒ श्रवः॑ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अग्ने॒ वाज॑स्य॒ गोम॑त॒ ईशा॑नस्सहसो यहो ।    
+अ॒स्मे धे॑हि जातवेदो॒ महि॒ श्रवः॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । वाज॑स्य । गोऽम॑तः । ईशा॑नः । स॒ह॒सः॒ । य॒हो॒ इति॑ ।  
@@ -244,6 +250,11 @@ _________
 हे " जात-वेदः, 'महि माहात्म्य-युक्तं श्रवः धनं यशश्व "अस्मे अस्मासु धेहि स्थापय ॥ १७ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+सहसो वलस्य यहा सूनो जातवेद उत्मन्नजगदभिज्ञाग्ने गोमतो गोभिर्युक्तस्य वाजस्यान्नस्येसानस्त्वमस्मे अस्मासु महि श्रवो महतीं कीर्तिं धेहि संपादयं।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे (सहसः) बलवान् पुरुष के (यहो) सन्तान ! (जातवेदः) विज्ञान को प्राप्त हुए (अग्ने) तेजस्वी विद्वान् आप अग्नि के तुल्य (गोमतः) प्रशस्त गौ और पृथिवी से युक्त (वाजस्य) अन्न के (ईशानः) स्वामी समर्थ हुए (अस्मे) हमारे लिये (महि) बड़े (श्रवः) धन को (धेहि) धारण कीजिये ॥३५ ॥
@@ -292,6 +303,13 @@ on us confer great fame, o Jātavedas.
 
 O Agni, thou who art the lord of wealth in kine, thou Son of Strength,  
      Vouchsafe to us, O Jatavedas, high renown.
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, lording it over strength rich in kine,  
+Youthful son of strength,  
+Bestow upon us, O all-knower, great fame.
 </details>
 
 <details><summary>Oldenberg</summary>

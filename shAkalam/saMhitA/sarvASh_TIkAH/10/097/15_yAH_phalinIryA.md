@@ -86,6 +86,12 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वँह॑सः ॥८९ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+याᳶ फ॒लिनी॒र्या अ॑फ॒ला अ॑पु॒ष्पा याश्च॑ पु॒ष्पिणीः॑ ।  
+बृह॒स्पति॑प्रसूता॒स्ता नो॑ मुञ्च॒न्त्वँह॑सः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 याः । फ॒लिनीः॑ । याः । अ॒फ॒लाः । अ॒पु॒ष्पाः । याः । च॒ । पु॒ष्पिणीः॑ ।  
@@ -100,6 +106,11 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 याः। फ॒लिनीः॑। याः। अ॒फ॒लाः। अ॒पु॒ष्पाः। याः। च॒। पु॒ष्पिणीः॑। बृह॒स्पति॑प्रसूता॒ इति॒ बृह॒स्पति॑ऽप्रसूताः। ताः। नः॒। मु॒ञ्च॒न्तु। अँह॑सः। १५।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+याः । फ॒लिनीः॑ । याः । अ॒फ॒लाः । अ॒पु॒ष्पाः । याः । च॒ । पु॒ष्पिणीः॑ ॥ बृह॒स्पति॑प्रसूता॒ इति॒ बृह॒स्पति॑-प्र॒सू॒ताः॒ । ताः । नः॒ । मु॒ञ्च॒न्तु॒ । अँह॑सः ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -236,6 +247,11 @@ _________
 बृहतो ब्रह्मणो देवस्य पत्या श्री-भगवता प्रसूताः अभ्यनुज्ञाताः ओषधयः 'नः अस्मान् "अंहसः पापात् मुञ्चन्तु । एव मोषधिवापार्थानि पञ्च तृष्वान्याम्नातानि ॥ १५ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+या ओषधयः फलयुक्ता याः फलरहिता याश्च पुष्प रहिता याश्च पुष्पयुक्तास्ताः सर्वा बृहस्पतिप्रसूताः सत्यो नोऽस्मानंहसः पापान्मोचयन्तु ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 रोगों के निवृत्त होने के लिये ही ओषधी ईश्वर ने रची है, यह विषय अगले मन्त्र में कहा है ॥
@@ -289,6 +305,14 @@ impelled by Br̥haspati, let them release us from distress.1554 X.98
 
 Let fruitful Plants, and fruitless, those that blossom, and the blossomless,  
      Urged onward by Brhaspati, release us from our pain and grief;
+</details>
+
+<details><summary>Keith</summary>
+
+The fruitful, the fruitless,  
+The flowering, the flowerless,  
+Impelled by Brhaspati,  
+May they free us from tribulation.
 </details>
 
 <details><summary>Geldner</summary>

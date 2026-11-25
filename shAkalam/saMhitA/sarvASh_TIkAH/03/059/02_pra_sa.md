@@ -301,6 +301,14 @@ Foremost be he who brings thee food, O Mitra, who strives to keep thy sacred Law
      He whom thou helpest ne'er is slain or conquered, on him, from near or far, falls no affliction.
 </details>
 
+<details><summary>Keith</summary>
+
+Rich in food be that mortal, O Mitra,  
+Who, O Aditya, seeks to follow thy law;  
+Aided by thee he is not slain nor oppressed;  
+Affliction cometh to him neither from near nor from afar.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Let him who, Mitra, brings thee food be foremost. Who to thy law, O Āditya, pays homage. Aided by thee no man is slain or vanquished; To him from near or far no trouble reaches.

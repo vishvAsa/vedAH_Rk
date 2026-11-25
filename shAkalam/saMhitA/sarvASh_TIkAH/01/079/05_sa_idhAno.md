@@ -78,6 +78,12 @@ revát ← revánt- (nominal stem)
 रे॒वद॒स्मभ्यं॑ पुर्वणीक दीदिहि ॥३६ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+स इ॑धा॒नो वसु॑ष्क॒विर॒ग्निरी॒डेन्यो॑ गि॒रा ।    
+रे॒वद॒स्मभ्य॑म्पुर्वणीक दीदिहि ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । इ॒धा॒नः । वसुः॑ । क॒विः । अ॒ग्निः । ई॒ळेन्यः॑ । गि॒रा ।  
@@ -287,6 +293,11 @@ _________
 पुर्वणीक । " रेवत् रयिमान् अस्मभ्यम् अस्मद्-अर्थं दीदि हि दीप्यस्व ॥१८॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+पुरु बहु अनीकं सैन्यं यस्यासौ पूर्वणीकः।   तादृश हेऽग्ने स त्वमस्मभ्यं रेबन्धनयुक्तं गृहक्षेत्रादिकं दीदिहि प्रयच्छ।   कीडशस्त्वम्, इधानो दीप्यमानो वसुर्निवासहेतुः, कविर्विद्वानग्निरग्रणीः।   प्रथमं यज्ञप्रवर्तक इत्यर्थः।   गिरा मन्त्ररूपया वाचेडेन्यः स्तुत्यः।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे (पुर्वणीक) बहुत सेनावाले राजपुरुष विद्वन् ! (गिरा) वाणी से (ईडेन्यः) खोजने योग्य (वसुः) निवास का हेतु (कविः) समर्थ (इधानः) प्रदीप्त (सः) उस पूर्वोक्त (अग्निः) अग्नि के समान (अस्मभ्यम्) हमारे लिये (रेवत्) प्रशंसित धनयुक्त पदार्थों को (दीदिहि) प्रकाशित कीजिये ॥३६ ॥
@@ -345,6 +356,13 @@ The irregular sandhi of váṣuṣ kavíḥ may be based on that in nearby vidú
 
 He, Agni, kindled, good and wise, must be exalted in our song:  
      Shine, thou of many forms, shine radiantly on us.
+</details>
+
+<details><summary>Keith</summary>
+
+Being kindled, bright, sage,  
+Agni, to be praised with song,  
+Do thou shine with wealth for us, O thou of many faces.
 </details>
 
 <details><summary>Oldenberg</summary>

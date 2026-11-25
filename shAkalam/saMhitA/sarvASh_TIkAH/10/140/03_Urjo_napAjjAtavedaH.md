@@ -95,6 +95,12 @@ vāmájātāḥ ← vāmájāta- (nominal stem)
 त्वे इषः॒ सन्द॑धु॒र्भूरि॑वर्पसश्चि॒त्रोत॑यो वा॒मजा॑ताः ॥७॥ १०७
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+ऊर्जो॑ नपा॒ज्जात॑वेदस्सुश॒स्तिभि॒र्मन्द॑स्व [30]  धी॒तिभि॑र्हि॒तः ।  
+त्वे इष॒स्सन्द॑धु॒र्भूरि॑रेतसश्चि॒त्रोत॑यो वा॒मजा॑ताः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ऊर्जः॑ । न॒पा॒त् । जा॒त॒ऽवे॒दः॒ । सु॒श॒स्तिऽभिः॑ । मन्द॑स्व । धी॒तिऽभिः॑ । हि॒तः ।  
@@ -109,6 +115,11 @@ vāmájātāḥ ← vāmájāta- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 ऊर्जः॑। न॒पा॒त्। जा॒त॒वे॒द॒ इति॑ जातऽवेदः। सु॒श॒स्तिभि॒रिति॑ सुश॒स्तिऽभिः॑। मन्द॑स्व। धी॒तिभि॒रिति॑ धी॒तिऽभिः॑। हि॒तः। त्वेऽइति॒ त्वे। इषः॑। सम्। द॒धुः॒। भूरि॑वर्पस॒ इति भूरि॑ऽवर्पसः। चि॒त्रोत॑य॒ इति॑ चि॒त्रऽऊ॑तयः। वा॒मजा॑ता॒ इति॑ वा॒मऽजा॑ताः। ७।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ऊर्जः॑ । न॒पा॒त् । जात॑वेद॒ इति॒ जात॑-वे॒दः॒ । सु॒श॒स्तिभि॒रिति॑ सुश॒स्ति-भिः॒ । मन्द॑स्व । धी॒तिभि॒रिति॑ धी॒ति-भिः॒ । हि॒तः ॥ त्वे इति॑ । इषः॑ । समिति॑ । द॒धुः॒ । भूरि॑रेतस॒ इति॒ भूरि॑-रे॒त॒सः॒ । चि॒त्रोत॑य॒ इति॑ चि॒त्र-ऊ॒त॒यः॒ । वा॒मजा॑ता॒ इति॑ वा॒म-जा॒ताः॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -387,6 +398,11 @@ _________
 अतस्त्वं मन्दस्वेति संबन्धः ॥७॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+ऊर्जोऽन्नस्य नपादविनाशयिता, तादृश भो जातवेदो धीतिभिर्हितो दीप्तिभिर्युक्तः सन्सुशस्तिभर्मन्दस्व शोभनस्तुतिभिर्हर्ष्यस्व ।   भूरिरेतसः प्रभूतसारा इषोऽन्नरूपा आहुतीस्त्वे त्वयि संदधुर्यजमाना संपादितवन्तः ।   कीदृश यजमानाः, चित्रोतयो विचित्रास्त्वया कृता ऊतयो रक्षा येषां ते चित्रोतयो वामजाता    * वननीये संभजनीये देशे कुले चोत्पन्नाः ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 माता-पिता और पुत्र कैसे हों, इस विषय का उपदेश अगले मन्त्र में किया है ॥
@@ -440,6 +456,15 @@ In you have those of brilliant help assembled precious-born refreshments  of man
 
 O Jatavedas, Son of Strength, rejoice ihyself, gracious, in our fair hymns and songs.  
      In thee are treasured various forms of strengthening food, born nobly and of wondrous help.
+</details>
+
+<details><summary>Keith</summary>
+
+O son of strength, O all-knower,  
+Rejoice in our fair praises [2], being adored in our prayers;
+  
+In thee have they placed food, rich in seed,  
+Of wondrous aid, of prosperous birth.
 </details>
 
 <details><summary>Geldner</summary>

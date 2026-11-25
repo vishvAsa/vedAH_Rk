@@ -69,10 +69,21 @@ yajñám ← yajñá- (nominal stem)
 य॒ज्ञं दे॒वेषु॑ यच्छताम् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+द्यावा॑ नᳶ पृथि॒वी इ॒मँ सि॒ध्रम॒द्य दि॑वि॒स्पृश॑म् ।  
+य॒ज्ञन्दे॒वेषु॑ यच्छताम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 द्यावा॑ । नः॒ । पृ॒थि॒वी इति॑ । इ॒मम् । सि॒ध्रम् । अ॒द्य । दि॒वि॒ऽस्पृश॑म् ।  
 य॒ज्ञम् । दे॒वेषु॑ । य॒च्छ॒ता॒म् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+द्यावा॑ । नः॒ । पृ॒थि॒वी इति॑ । इ॒मम् । सि॒ध्रम् । अ॒द्य । दि॒वि॒स्पृश॒मिति॑ दिवि-स्पृश॑म् ॥ य॒ज्ञम् । दे॒वेषु॑ । य॒च्छ॒ता॒म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -149,6 +160,12 @@ _________
 द्यावाद्यौश्चपृथिवीचउभे सिध्रंस्वर्गादेःसाधकं दिविस्पृशं देवान् गच्छन्तं अद्यास्मिन्नहनि अस्माकं इमंयज्ञन्देवेषुयच्छतान्नियच्छताम् ॥ २० ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+द्यावापृथिवी द्युदेवता पृथिवीदेवता चेत्युभे अद्या-स्मिन्दिने नोऽस्मदीयमिमं यज्ञं देवेषु समर्पयेताम्।  
+कीदृशं यज्ञं, फलस्य साधकं, दिविस्पृशम् अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठत इति न्यायेन स्वर्गस्पर्शयुक्तम्।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -166,6 +183,13 @@ Let Heaven and Earth today hold fast this effective, heaven-touching sacrifice o
 
 This our.effectual sacrifice, reaching the sky, shall Heaven and Earth  
      Present unto the Gods to-day.
+</details>
+
+<details><summary>Keith</summary>
+
+May sky and earth this day  
+Place among the gods this sacrifice,  
+Successful, touching the sky.
 </details>
 
 <details><summary>Geldner</summary>

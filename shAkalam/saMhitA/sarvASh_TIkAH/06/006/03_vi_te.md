@@ -263,6 +263,14 @@ Incited by the wind thy flames, O Agni, move onward, Pure One! pure, in all dire
      Thy most destructive heavenly Navagvas break the woods down and devastate them boldly.
 </details>
 
+<details><summary>Keith</summary>
+
+Sped by the winds on all sides, O Agni,  
+Thy flames [1], O pure one, pure are diffused  
+Mightily destroying, the divine ones, the Navagvas  
+Assail the forests, rudely crushing (them).
+</details>
+
 <details><summary>Macdonell</summary>
 
 Thy flames when driven by the wind, O Agni, Disperse, O pure one, pure in all directions; And thy divine Navagvas, most destructive, Lay low the woods and devastate them boldly.

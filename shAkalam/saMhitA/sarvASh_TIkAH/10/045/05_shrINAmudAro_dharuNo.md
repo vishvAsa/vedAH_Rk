@@ -92,6 +92,12 @@ ví ← ví (invariable)
 वसुः॑ सू॒नुः सह॑सो अ॒प्सु राजा॒ वि भा॒त्यग्र॑ उ॒षसा॑मिधा॒नः ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+श्री॒णामु॑दा॒रो ध॒रुणो॑ रयी॒णाम्म॑नी॒षाणा॒म्प्रार्प॑ण॒स्सोम॑गोपाः ।  
+वसोः॑ सू॒नुस्सह॑सो अ॒प्सु राजा॒ वि भा॒त्यग्र॑ उ॒षसा॑मिधा॒नः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 श्री॒णाम् । उ॒त्ऽआ॒रः । ध॒रुणः॑ । र॒यी॒णाम् । म॒नी॒षाणा॑म् । प्र॒ऽअर्प॑णः । सोम॑ऽगोपाः ।  
@@ -106,6 +112,11 @@ ví ← ví (invariable)
 <details><summary>पदपाठः - काण्वः</summary>
 
 श्रीणाम्। उ॒दा॒र। इत्यु॑त्। आ॒रः। ध॒रुणैः। र॒र्या॑णाम्। मनी॒षाणा॑म्। प्रार्पण॒ इति॑ प्रा॒ऽअर्पणः। सोम॑गोपा॒ इति॒ सोम॑ऽगोपाः। वसुः॑। सूनुः। सह॑सः। आ॒प्स्वत्य॒प्सु। राजा॑। वि। भा॑ति। अग्रे॑। उ॒षसा॑म्। धा॒नः। ५।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+श्री॒णाम् । उ॒दा॒रः । ध॒रुणः॑ । र॒यी॒णाम् । म॒नी॒षाणा॑म् । प्रार्प॑ण॒ इति॑ प्र-अर्प॑णः । सोम॑गोपा॒ इति॒ सोम॑-गो॒पाः॒ ॥ वसोः॑ । सू॒नुः । सह॑सः । अ॒प्स्वित्य॑प्-सु । राजा॑ । वीति॑ । भा॒ति॒ । अग्रे॑ । उ॒षसा॑म् । इ॒धा॒नः ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -325,6 +336,11 @@ _________
 "अप्सु अवहितो वरुणात्मना राजा । विभात्य्-अग्र उषसामिधान: ' । ' उषसाम् अग्रे आदित्यात्मना इधान: इन्धानः दीप्यमानः विभाति उषःकाले अग्नीनां प्रादुष्करणं क्रियते । तद् अभिप्रायो ऽयम् ॥५॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+श्रीणां गवाश्वादीनां संपदामुदार उत्कर्षेण प्रापयिता।     १८७१ रयीणां घनानां धरूणो घारयिता ।   मनीषाणामपेक्षितानां स्वर्गादिफलानां प्रार्पणः प्रापयिता।   सोमगोपा यजमानेनानुष्ठेयस्य सोमयागस्य रक्षिता।   वसोर्निवासहेतोसहसो मथन-वेगरूपस्य बलस्य सूनुः पुत्रः।   अप्सु वृष्टिरूपासु राजा वैद्युतरूपेण दीप्यमानः उषसामग्रे प्रातःकाल इधानोऽग्निहोत्रभिर्दीप्यमानो विभाति विशेषेण भासते।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 इन राजकार्यों में कैसे पुरुष को राजा बनावें, यह विषय अगले मन्त्र में कहा है ॥
@@ -383,6 +399,14 @@ good one, son of strength, king in the waters, he radiates forth, being  kindled
 
 The spring of glories and support of riches, rouser of thoughts and guardian of the Soma,  
      Good Son of Strength, a King amid the waters, in forefront of the Dawns he shines enkindled.
+</details>
+
+<details><summary>Keith</summary>
+
+Receptacle of prosperity, supporter of riches,  
+Granter of thoughts, guardian of the Soma,  
+Son of the bright one, of strength, the king  
+Is resplendent within the waters, kindled before the dawns.
 </details>
 
 <details><summary>Geldner</summary>

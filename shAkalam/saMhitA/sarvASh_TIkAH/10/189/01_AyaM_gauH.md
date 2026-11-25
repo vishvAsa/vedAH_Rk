@@ -75,6 +75,12 @@ svàr ← svàr- (nominal stem)
 पि॒तरं॑ च प्र॒यन्त्स्वः॑ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+आऽयङ्गौᳶ पृश्ञि॑रक्रमी॒दस॑नन्मा॒तर॒म्पुनः॑ ।  
+पि॒तर॑ञ्च प्र॒यन्त्सुवः॑  ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । अ॒यम् । गौः । पृश्निः॑ । अ॒क्र॒मी॒त् । अस॑दत् । मा॒तर॑म् । पु॒रः ।  
@@ -89,6 +95,11 @@ svàr ← svàr- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 आ। अ॒यम्। गौः। पृश्निः॑। अ॒क्र॒मी॒त्। अस॑दत्। मा॒तर॑म्। पु॒रः। पि॒तर॑म्। च॒। प्र॒यन्निति॑ प्र॒ऽयन्। स्व॒रिति॒ स्वः᳙। ६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अ॒यम् । गौः । पृश्ञिः॑ । अ॒क्र॒मी॒त् । अस॑नत् । मा॒तर॑म् । पुनः॑ ॥ पि॒तर॑म् । च॒ । प्र॒यन्निति॑ प्र-यन् । सुवः॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -257,6 +268,15 @@ _________
 Vच अक्रमीत् ॥ ६ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इदानीमादित्यात्मना स्तूयते - **अयम् अग्निः गौर्** आदित्यात्मा गच्छतीति **गौः** गमनशीलः **पृश्निः** शुक्लवर्णः आदित्यानामे[मै]व वा । **आक्रमीत्** अयमेवादित्यात्मना विश्वम् आक्रामतीति । 
+
+प्रकर्षेणाविच्छेदेन गच्छन् सुवः शोभना रतिः । छान्दसौ लुङ्लङौ । 
+
+आक्रम्य च मातरं भूमिम् **असनत्** भूमौ मातरि शान्तोभूत् । **पितरं** दिवं **प्रयन्** प्रकर्षेण गच्छन् सर्वतो ज्वलन् धूमज्वालाभ्यामभ्रं लिहन् **सुवः** पितृस्थानीये दिवि स्वरतिरभूत् ॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 अब अग्नि के निमित्त से पृथिवी का भ्रमण होता है, इस विषय को अगले मन्त्र में प्रकाशित किया है ॥
@@ -317,6 +337,14 @@ and its father, as it goes forth toward the sun.
 
 THIS spotted Bull hath come, and sat before the Mother in the east,  
      Advancing to his Father heaven.
+</details>
+
+<details><summary>Keith</summary>
+
+The spotted bull hath come  
+And reached again the mother
+  
+And the father, faring to the heaven.
 </details>
 
 <details><summary>Griffith (माध्यन्दिनम्)</summary>

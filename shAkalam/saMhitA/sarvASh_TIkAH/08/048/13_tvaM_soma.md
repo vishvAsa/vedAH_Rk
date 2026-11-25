@@ -372,6 +372,14 @@ Associate with the Fathers thou, O Soma, hast spread thyself abroad through eart
      So with oblation let us serve thee, Indu, and so let us become the lords of riches,
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Soma, in accord with the fathers,  
+Hast stretched over sky and earth;  
+To thee, O drop, let us make sacrifice with offering;  
+Let us be lords of wealth.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Uniting with the Fathers thou, O Soma, Hast over Heaven and Earth thyself extended. So, Indu, we would serve thee with oblation: Thus we would be the lords of ample riches.

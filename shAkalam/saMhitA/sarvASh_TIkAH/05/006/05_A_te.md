@@ -97,6 +97,12 @@ stotŕ̥bhyaḥ ← stotár- (nominal stem)
 सुश्च॑न्द्र॒ दस्म॒ विश्प॑ते॒ हव्य॑वा॒ट् तुभ्यं॑ हूयत॒ इषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+आ ते॑ अग्न ऋ॒चा ह॒विश्शु॒क्रस्य॑ ज्योतिषस्पते ।    
+सुश्च॑न्द्र॒ दस्म॒ विश्प॑ते॒ हव्य॑वा॒ट्तुभ्यँ॑ हूयत॒ इषँ॑ स्तो॒तृभ्य॒ आ भ॑र ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । ते॒ । अ॒ग्ने॒ । ऋ॒चा । ह॒विः । शुक्र॑स्य । शो॒चि॒षः॒ । प॒ते॒ ।  
@@ -234,6 +240,11 @@ _________
 हे **शोचिषः** दीप्तेः **पते** स्वामिन् **अग्ने** **शुक्रस्य** दीप्तस्य **ते** तुभ्यम् **ऋचा** मन्त्रेण सह **हविः** हूयते । हे **सुश्चन्द्र** सुष्ठ्वाह्लादक शोभनहिरण्य वा हे **दस्म** शत्रूणामुपक्षपयितः **विश्पते** विशां प्रजानां पालक **हव्यवाट्** हविषो वोढः । इषमिति गतम् ॥ ॥ २२ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+शुक्रस्य शुद्धस्य ज्योतिषः पते पालक, सुष्ठ्वाह्लादकारिन्सुश्चन्द्र, पापस्योपक्षपयितर्दस्म, प्रजानां पालक विश्पते, हविषो वोढा हव्यवाट्, तथाविध हेऽग्ने त ऋचा त्वत्संबन्धिना मन्त्रेण तुभ्यं हविरा समन्ताद्धूयते ।   इषमित्यादि गतम् ।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -253,6 +264,15 @@ beautifully shimmering, wondrous clanlord, and conveyor of oblations. – Bring 
 To thee the splendid, Lord of flame, bright, wondrous, Prince of men, is brought.  
      Oblation with the holy verse, O Agni, bearer of our gifts.  
      Bring food to those who sing thy praise.
+</details>
+
+<details><summary>Keith</summary>
+
+With the song, O Agni, the oblation,  
+O lord of brilliant light,  
+Bright shining, wonderworker, lord of the people,  
+O bearer of the oblation, is offered to thee;  
+Do thou bear food to thy praisers.
 </details>
 
 <details><summary>Oldenberg</summary>

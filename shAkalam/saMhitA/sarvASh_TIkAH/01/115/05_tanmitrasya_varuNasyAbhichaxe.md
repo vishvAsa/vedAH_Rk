@@ -98,10 +98,23 @@ sám ← sám (invariable)
 अ॒न॒न्तम॒न्यद्रुश॑दस्य॒ पाजः॑ कृ॒ष्णम॒न्यद्ध॒रितः॒ सं भ॑रन्ति ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+तन्मि॒त्रस्य॒ वरु॑णस्याभि॒चक्षे॑ ।   
+सूर्यो॑ रू॒पङ्कृ॑णुते॒ द्योरु॒पस्थे॑ ।  
+अ॒न॒न्तम॒न्यद्रुश॑दस्य॒ पाजः॑ ।   
+कृ॒ष्णम॒न्यद्ध॒रित॒स्सम्भ॑रन्ति ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तत् । मि॒त्रस्य॑ । वरु॑णस्य । अ॒भि॒ऽचक्षे॑ । सूर्यः॑ । रू॒पम् । कृ॒णु॒ते॒ । द्योः । उ॒पऽस्थे॑ ।  
 अ॒न॒न्तम् । अ॒न्यत् । रुश॑त् । अ॒स्य॒ । पाजः॑ । कृ॒ष्णम् । अ॒न्यत् । ह॒रितः॑ । सम् । भ॒र॒न्ति॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+त᳓त् । मित्र᳓स्य । व᳓रुणस्य । अभि । च᳓क्षे । सू᳓र्यः । रूप᳓म् । कृणुते । द्योः᳓ । उप᳓-स्थे । अनन्त᳓म् । अन्य᳓त् । रु᳓शत् । अस्य । पा᳓जः । कृष्ण᳓म् । अन्य᳓त् । हरि᳓तः । स᳓म् । भरन्ति ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -247,6 +260,11 @@ _________
 **तत्** तदानीम् उदयसमये **मित्रस्य** **वरुणस्य** एतदुभयोपलक्षितस्य सर्वस्य जगतः **अभिचक्षे** आभिमुख्येन प्रकाशनाय **द्योः** नभसः **उपस्थे** उपस्थाने मध्ये **सूर्यः** सर्वस्य प्रेरकः सविता **रूपं** सर्वस्य निरूपकं प्रकाशकं तेजः **कृणुते** करोति । अपि च **अस्य** सूर्यस्य **हरितः** रसहरणशीला रश्मयः हरिद्वर्णाः अश्वा वा **अनन्तम्[१]** अवसानरहितं कृत्स्नस्य जगतो व्यापकं **रुशत्** दीप्यमानं श्वेतवर्णं **पाजः** । बलनामैतत् । बलयुक्तम् अतिबलस्यापि नैशस्य तमसो निवारणे समर्थम् **अन्यत्** तमसो विलक्षणं तेजः **सं** **भरन्ति** अहनि स्वकीयागमनेन निष्पादयन्ति । तथा **कृष्णं** कृष्णवर्णम् **अन्यत्** तमः स्वकीयापगमनेन रात्रौ । अस्य रश्मयोऽप्येवं कुर्वन्ति किमु वक्तव्यं तस्य माहात्म्यमिति सूर्यस्य स्तुतिः ॥ अभिचक्षे । संपदादिलक्षणो भावे क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् । द्योः ।  ‘ ङसिङसोश्च ' ( पा. सू. ६. १. ११० ) इति पूर्वरूपता । उपस्थे ।  ‘ घञर्थे कविधानम्' इति कप्रत्ययः । मरुद्वृधादित्वात् पूर्वपदान्तोदात्तत्वम् । पाजः । पाति रक्षतीति पाजो बलम् । पातेर्बले जुट् च ' ( उ. सू. ४, ६४२) इति असुन् जुडागमश्च । छान्दसो मत्वर्थीयस्य विनो लोपः ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अयं सूर्यः द्योरुपस्थे द्युलोकस्योपरि रूपं कृणुते स्वकीयं रूपं करोति प्रादुर्भवतीति यदस्ति तदेतत्प्रादुर्भूतं रूपं मित्रस्य वरुणस्य तदुभयोरुपलक्षितस्य सर्वस्य जगतः अभिचक्षे अभितो दर्शनाय संपद्यते । अस्य सूर्यस्य अनन्तं पाज अत्यधिकं रश्मिजालरूपं बलं अन्यत् वक्ष्यमाणापेक्षया पृथगेव भूत्वा रुशत् दीप्यते । मध्याह्नकालेऽत्यधिकेन तेजसा प्रकाशते । अत एवान्यत्राम्नातम् - 'बृहस्पतेर्मध्यंदिनः । तत्पुण्यं तेजसाऽहः । तस्मात्तर्हि तेक्ष्णिष्ठं तपति' इति । अन्यत् पूर्वोक्तान्मध्यंदिनात्पृथगेव रात्रौ कृष्णं रूपं हरितः सूर्यस्याश्वाः संभरन्ति संपादयन्ति । एतेऽश्वा यदा मेरोः पश्चिमभागे गच्छन्ति तदानीमत्र कृष्णं रूपं संपद्यते ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -269,9 +287,12 @@ His one surface, gleaming, is unbounded; the tawny (horses) together  bring the 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/115/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 As indicated in the published introduction, although at the time I was not certain what these verses depict, I was (and remain) skeptical of the notion that the two hemistichs refer to the so-called day-sun and night-sun respectively, as Geldner (/Witzel Gotō in part) and Renou take it. Among other things, I find it unlikely that the unequivocal proclamation of the Sun’s supremacy that begins this verse (tát sū́ryasya devatváṃ tán mahitvám “This is the Sun's divinity, this his greatness”) would pertain to what these scholars see in 4d: the rather ignominious bundling up of the Sun in Night’s garment to sneak him back across the sky to rise again the next day. I now feel I have a much clearer understanding of what is going on in these verses -- I think I have cracked their code
 
 -- and it all refers to the rising sun. I will lay it out below.
+</details>
 
 </details>
 </div>

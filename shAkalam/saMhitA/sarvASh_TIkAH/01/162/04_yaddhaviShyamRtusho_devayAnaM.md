@@ -101,6 +101,12 @@ yajñám ← yajñá- (nominal stem)
 अत्रा॑ पू॒ष्णः प्र॑थ॒मो भा॒गऽए॑ति य॒ज्ञं दे॒वेभ्यः॑ प्रतिवे॒दय॑न्न॒जः ॥२७ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यद्ध॒विष्य॑मृतु॒शो दे॑व॒यान॒न्त्रिर्मानु॑षा॒ᳶ पर्यश्व॒न्नय॑न्ति ।  
+अत्रा॑ पू॒ष्णᳶ प्र॑थ॒मो भा॒ग ए॑ति य॒ज्ञन्दे॒वेभ्यᳶ॑ प्रतिवे॒दय॑न्न॒जः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । ह॒वि॒ष्य॑म् । ऋ॒तु॒ऽशः । दे॒व॒ऽयान॑म् । त्रिः । मानु॑षाः । परि॑ । अश्व॑म् । नय॑न्ति ।  
@@ -115,6 +121,11 @@ yajñám ← yajñá- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यत्। ह॒वि॒ष्य᳖म्। ऋ॒तु॒श। इत्यृ॑तु॒ऽशः। दे॒व॒यान॒मिति॑ देव॒ऽयान॑म्। त्रिः। मानु॑षाः। परि॑। अश्व॑म्। नय॑न्ति। अत्र॑। पू॒ष्णः। प्र॒थ॒मः। भा॒गः। ए॒ति॒। य॒ज्ञम्। दे॒वेभ्यः॑। प्र॒ति॒वे॒दय॒न्निति॑ प्रतिऽवे॒दय॑न्। अ॒जः। ४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यत् । ह॒विष्य॑म् । ऋ॒तु॒श इत्यृ॑तु-शः । दे॒व॒यान॒मिति॑ देव-यान॑म् । त्रिः । मानु॑षाः । परीति॑ । अश्व॑म् । नय॑न्ति ॥ अत्र॑ । पू॒ष्णः । प्र॒थ॒मः । भा॒गः । ए॒ति॒ । य॒ज्ञम् । दे॒वेभ्यः॑ । प्र॒ति॒वे॒दय॒न्निति॑ प्रति-वे॒दय॑न् । अ॒जः ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -342,6 +353,16 @@ _________
 'पूष वृद्धौ' इति धातुः ॥४॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यद्यत्र मानुषा ऋत्विजोऽश्वं त्रिः परिणयन्ति त्रिवारं प्रदक्षिणी कुर्वन्ति ।  
+कीदृशमश्वं, हविष्यं हविषो योग्यम् ।  
+ऋतुशो देवयानमृता वृतौ देवान्गच्छन्तम् ।  
+अत्रास्मिन्देशेऽजः प्रथम एति ।  
+कीदृशोऽजः, पूष्णो भागः ।  
+किं कुर्वन्, देवेभ्यो यज्ञं प्रतिवेदयन्, हे देवा यज्ञः प्रवर्तत इस्येवं दवेभ्यो ज्ञापयन् ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर किससे कौन क्या करते हैं, इस विषय को अगले मन्त्र में कहा है ॥
@@ -400,6 +421,13 @@ then the goat, Pūṣan’s portion, goes first, announcing the sacrifice to  th
 
 When thrice the men lead round the Steed, in order, who goeth to the Gods as meet oblation,  
      The goat precedeth him, the share of Pusan, and to the Gods the sacrifice announceth.
+</details>
+
+<details><summary>Keith</summary>
+
+When men thrice lead round in due season  
+The steed going to the gods as an acceptable offering Then first goeth Pusan's share,  
+The goat announcing the sacrifice to the gods.
 </details>
 
 <details><summary>Geldner</summary>

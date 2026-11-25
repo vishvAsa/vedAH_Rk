@@ -177,6 +177,13 @@ DEAR is this offering in your mouth, O Indra and Brhaspati:
      Famed is the laud, the gladdening draught.
 </details>
 
+<details><summary>Keith</summary>
+
+This oblation is dear in your mouth,  
+O Indra and Brhaspati,  
+The hymn and acclamation is recited.
+</details>
+
 <details><summary>Geldner</summary>
 
 Diese liebe Spende opfere ich in euren Mund, Indra und Brihaspati. Lobgedicht und Trinkfreude wird verkündigt.

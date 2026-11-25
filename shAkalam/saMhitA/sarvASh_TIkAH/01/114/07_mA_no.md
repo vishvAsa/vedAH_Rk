@@ -128,6 +128,12 @@ tanvàḥ ← tanū́- (nominal stem)
 मा नो॑ वधीः पि॒तरं॒ मोत मा॒तरं॒ मा नः॑ प्रि॒यास्त॒न्वो᳖ रुद्र रीरिषः ॥१५ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+मा नो॑ म॒हान्त॑मु॒त मा नो॑ अर्भ॒कम्मा न॒ उक्ष॑न्तमु॒त मा न॑ उक्षि॒तम् ।   
+मा नो॑ वधीᳶ पि॒तर॒म्मोत मा॒तर॑म्प्रि॒या मा न॑स्त॒नुवः॑ [22]  रु॒द्र॒ री॒रि॒षः॒ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मा । नः॒ । म॒हान्त॑म् । उ॒त । मा । नः॒ । अ॒र्भ॒कम् । मा । नः॒ । उक्ष॑न्तम् । उ॒त । मा । नः॒ । उ॒क्षि॒तम् ।  
@@ -142,6 +148,11 @@ tanvàḥ ← tanū́- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 मा। नः॒। म॒हान्त॑म्। उ॒त। मा। नः॒। अ॒र्भ॒कम्। मा। नः॒। उक्ष॑न्तम्। उ॒त। मा। नः॒। उ॒क्षि॒तम्। मा। नः॒। व॒धीः॒। पि॒तर॑म्। मा। उ॒त। मा॒तर॑म्। मा। नः॒। प्रि॒याः। त॒न्वः᳖। रु॒द्र॒। री॒रि॒ष॒ इति॑ रीरिषः। १५।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+मा । नः॒ । म॒हान्त॑म् । उ॒त । मा । नः॒ । अ॒र्भ॒कम् । मा । नः॒ । उक्ष॑न्तम् । उ॒त । मा । नः॒ । उ॒क्षि॒तम् ॥ मा । नः॒ । व॒धीः॒ । पि॒तर॑म् । मा । उ॒त । मा॒तर॑म् । प्रि॒याः । मा । नः॒ । त॒नुवः॑ । रु॒द्र॒ । री॒रि॒षः॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -415,6 +426,17 @@ _________
 रिषतिहिंसार्थः ॥१५॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे रुद्र नोऽस्मदीयं महान्तं स्थविरं पुरुषं मा रीरिषो मा हिंसीः।  
+उतापि च नोऽस्मदीयमर्भकं बालं मा रीरिषः।  
+किंच नोऽस्मदीयम् **उक्षन्तं** सेचन-समर्थं युवानं पुरुषं मा रीरिषः।  
+उतापि च नोऽस्मदीयमुक्षितं गर्भस्थं पुरुषं मा रीरिषः।  
+नोऽस्मदीयं पितरं मा वधीः।  
+उतापि च मातरं मा वधीः।  
+नोऽस्मदीयाः प्रियाश्च तनुवः शरीराणि मा रीरिषः
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 राजपुरुषों को क्या नहीं करना चाहिये, यह विषय अगले मन्त्र में कहा है ॥
@@ -474,6 +496,14 @@ bodies, Rudra.
 
 O Rudra, harm not either great or small of us, harm not the growing boy, harm not the full-grown man.  
      Slay not a sire among us, slay no mother here, and to our own dear bodies, Rudra, do not harm.
+</details>
+
+<details><summary>Keith</summary>
+
+Neither our great, nor our small,  
+Our waxing or what has waxed,  
+Do thou slay, nor father nor mother;  
+Injure not, O Rudra, our dear bodies [2].
 </details>
 
 <details><summary>Geldner</summary>

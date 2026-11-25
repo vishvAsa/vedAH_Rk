@@ -104,6 +104,12 @@ yátas ← yátas (invariable)
 वि॒द्मा ते॒ नाम॑ पर॒मं गुहा॒ यद्वि॒द्मा तमुत्सं॒ यत॑ आज॒गन्थ॑ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+वि॒द्मा ते॑ अग्ने त्रे॒धा त्र॒याणि॑ वि॒द्मा ते॒ सद्म॒ विभृ॑तम्पुरु॒त्रा ।  
+वि॒द्मा ते॒ नाम॑ पर॒मङ्गुहा॒ यद्वि॒द्मा तमुत्सय्ँ॒यत॑ आज॒गन्थ॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वि॒द्म । ते॒ । अ॒ग्ने॒ । त्रे॒धा । त्र॒याणि॑ । वि॒द्म । ते॒ । धाम॑ । विऽभृ॑ता । पु॒रु॒ऽत्रा ।  
@@ -118,6 +124,11 @@ yátas ← yátas (invariable)
 <details><summary>पदपाठः - काण्वः</summary>
 
 वि॒द्म। ते॒। अ॒ग्ने॒। त्रे॒धा। त्र॒याणि॑। वि॒द्म। ते॒। धाम॑। विभृ॒तेति॒ विभृ॑ऽता। पु॒रु॒त्रेति॑ पुरु॒ऽत्रा। वि॒द्म। ते॒। नाम॑। प॒र॒मम्। गुहा॑। यत्। वि॒द्म। तम्। उत्स॑म्। यतः॑। आ॒ज॒गन्थेत्या॑ऽज॒गन्थ॑। २।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+वि॒द्म । ते॒ । अ॒ग्ने॒ । त्रे॒धा । त्र॒याणि॑ । वि॒द्म । ते॒ । सद्म॑ । विभृ॑त॒मिति॒ वि-भृ॒त॒म् । पु॒रु॒त्रेति॑ पुरु-त्रा ॥ वि॒द्म । ते॒ । नाम॑ । प॒र॒मम् । गुहा॑ । यत् । वि॒द्म । तम् । उत्स॑म् । यतः॑ । आ॒ज॒गन्थेत्या॑-ज॒गन्थ॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -350,6 +361,14 @@ BI om. श्री.
 * अमय इति ( I 18 )
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हेऽग्ने यानि पूर्वस्मिन्मन्त्रे दिवस्परीत्यादिना त्रेधा स्वरूपाण्युक्तानि आदित्याग्निवडवानलरूपाणि तानि त्रयाणि त्रित्वसंख्याकानि रूपाणि वयं विद्म ज्ञातुमिच्छाम ।  
+किंच ते तव पुरुषा पुरुषु प्रदेशेषु गार्हपत्याहवनीयान्वाहार्यपचनाग्नीघ्रीयशामित्ररूपेषु सद्म विभृतमवस्थानं देवेद्धमन्विद्धेत्यादिमन्त्रप्रतिपाद्यं नाम यदस्ति तदपि विद्म ।  
+देवेद्धादीनां नामत्वं मन्त्रान्तरे संबुद्धिबलादवगम्यते—अग्ने देवेद्ध मन्विद्ध मन्द्रजिह्वेति ।  
+किंच यत उत्साद्वृष्टिरूपात्प्रस्रवणादाजगन्थ वैद्युतरूपेण त्वमागतोऽसि तमुत्सं विद्म ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर भी वही विषय अगले मन्त्र में कहा है ॥
@@ -413,6 +432,14 @@ We know your highest name, which is hidden; we know the wellspring  whence you h
 
 Agni, we know thy three powers in three stations, we know thy forms in many a place divided.  
      We know what name supreme thou hast in secret: we know the source from which thou hast proceeded.
+</details>
+
+<details><summary>Keith</summary>
+
+We know thy three places threefold, O Agni,  
+We know thy seat that is established in many places;  
+We know thy highest name in secret;  
+We know the spring whence thou hast come.
 </details>
 
 <details><summary>Geldner</summary>

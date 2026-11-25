@@ -449,6 +449,14 @@ Thou, Soma, art preeminent for wisdom; along the straightest path thou art our l
      Our wise forefathers by thy guidance, Indu, dealt out among the Gods their share of treasure.
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Soma, art pre-eminent in wisdom;  
+Thou movest along the straightest path;  
+Through thy guidance, O drop, our fathers wisely divided  
+The treasure among the gods.
+</details>
+
 <details><summary>Geldner</summary>
 
 Du, Soma, offenbare dich durch dichterische Gedanken, führe du uns den richtigsten Weg! Unter deiner Führung, du Saft, empfingen unsere weisen Väter von den Göttern das Kleinod.

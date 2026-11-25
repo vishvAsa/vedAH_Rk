@@ -107,6 +107,12 @@ víśvam ← víśva- (nominal stem)
 यथा॒ शमस॑द् द्वि॒पदे॒ चतु॑ष्पदे॒ विश्वं॑ पु॒ष्टं ग्रामे॑ अ॒स्मिन्न॑नातु॒रम् ॥२॥ ४८
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+इ॒माँ रु॒द्राय॑ त॒वसे॑ कप॒र्दिने॑ क्ष॒यद्वी॑राय॒ प्र भ॑रामहे म॒तिम् ।   
+यथा॑ न॒श्शमस॑द्द्वि॒पदे॒ चतु॑ष्पदे॒ विश्व॑म्पु॒ष्टङ्ग्रा॒मे॑ अ॒स्मिन्न् [21]  अना॑तुरम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒माः । रु॒द्राय॑ । त॒वसे॑ । क॒प॒र्दिने॑ । क्ष॒यत्ऽवी॑राय । प्र । भ॒रा॒म॒हे॒ । म॒तीः ।  
@@ -121,6 +127,11 @@ víśvam ← víśva- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 इ॒माः। रु॒द्राय॑। त॒वसे॑। क॒प॒र्दिने॑। क्ष॒यद्वी॑रा॒येति॑ क्ष॒यत्ऽवी॑राय। प्र। भ॒रा॒म॒हे॒। म॒तीः। यथा॑। श॒म्। अ॒स॒त्। द्वि॒पद॒ इति॑ द्वि॒ऽपदे॑। चतु॑ष्पदे। चतुः॑पद॒ इति॒ चतुः॑ऽपदे। विश्व॑म्। पु॒ष्टम्। ग्रामे॑। अ॒स्मिन्। अ॒ना॒तु॒रम्। २।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+इ॒माम् । रु॒द्राय॑ । त॒वसे॑ । क॒प॒र्दिने॑ । क्ष॒यद्वी॑रा॒येति॑ क्ष॒यत्-वी॒रा॒य॒ । प्रेति॑ । भ॒रा॒म॒हे॒ । म॒तिम् ॥ यथा॑ । नः॒ । शम् । अस॑त् । द्वि॒पद॒ इति॑ द्वि-पदे॑ । चतु॑ष्पद॒ इति॒ चतुः॑-प॒दे॒ । विश्व॑म् । पु॒ष्टम् । ग्रामे॑ । अ॒स्मिन् । अना॑तुर॒मित्यना॑-तु॒र॒म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -363,6 +374,14 @@ for अथ दशम:
 तेषाम् इति ॥ ५६ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यथा येन प्रकारेण नोऽस्मदीयाय द्विपदे पुत्रपौत्रादिरूपाया मनुष्याय चतुष्पदे गोमहिष्यादिरूपाय पशवे च शमसत्सुखं स्यात्।  
+किंचस्मिन्ग्रामे विश्वं सर्वं प्राणिजातं पुष्टं सुखपूर्णमनातुरमुपद्रवरहितं च यथा भवति तथा मयं रुद्राय रुद्रार्थ इमां मतिं पूजाध्यानादिविषयां बुद्धिं प्रभरामहे प्रकर्षेण पोषयामः।  
+कीदृशाय रुद्राय, तवसे बलयुक्तायास्मदषेक्षितं कर्तुं समर्थायेत्यर्थः।  
+कपर्दिने जटाबन्धयुक्ताय तापसवेषायेत्यर्थः क्षयद्वीराय क्षीयमाणप्रतिपक्षपुरुषायान्यथाभानरूपपापविनाशहेतव इत्यर्थः।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -387,6 +406,13 @@ everything in this settlement will be flourishing, free of affliction.
 
 To the strong Rudra bring we these our songs of praise, to him the Lord of Heroes with the braided hair,  
      That it be well with all our cattle and our men, that in this village all be healthy and well-fed.
+</details>
+
+<details><summary>Keith</summary>
+
+This prayer we offer up to the impetuous Rudra, With plaited hair, destroyer of men,  
+That health be for our bipeds and quadrupeds,  
+And that all in this village be prosperous [1] and free from ill.
 </details>
 
 <details><summary>Geldner</summary>

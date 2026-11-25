@@ -92,6 +92,12 @@ prajā́m ← prajā́- (nominal stem)
 जु॒षस्व॑ ह॒व्यमाहु॑तं प्र॒जां दे॑वि दिदिड्ढि नः ॥४॥ ४
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+सिनी॑वालि॒ पृथु॑ष्टुके॒ या दे॒वाना॒मसि॒ स्वसा॑ ।  
+जु॒षस्व॑ ह॒व्यम् [37]  आहु॑तम्प्र॒जान्दे॑वि दिदिड्ढि नः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सिनी॑वालि । पृथु॑ऽस्तुके । या । दे॒वाना॑म् । असि॑ । स्वसा॑ ।  
@@ -106,6 +112,11 @@ prajā́m ← prajā́- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 जु॒षस्व॑। ह॒व्यम्। आहु॑त॒मित्याऽहु॑तम्। प्र॒जामिति॑ प्र॒ऽजाम्। दे॒वि॒। दि॒दि॒ड्ढि॒। नः॒। ४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+सिनी॑वालि । पृथु॑ष्टुक॒ इति॒ पृथु॑-स्तु॒के॒ । या । दे॒वाना॑म् । असि॑ । स्वसा॑ ॥ जु॒षस्व॑ । ह॒व्यम् । आहु॑त॒मित्या-हु॑तम् । प्र॒जामिति॑ प्र-जाम् । दे॒वि॒ । दि॒दि॒ड्ढि॒ । नः॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -298,6 +309,11 @@ _________
 हिनु ७"हि गतौ ' [ १२५८ स्वादिः ] । मम गमनाय समर्थ-नामापादय । प्रण आयूंषि तारिषः । नः अस्माकम् । आयूंषि देह-स्थिति-हेतु-भूतानि कालावयव-लक्षणानि । प्रतारिषः प्रवर्धय विस्तारय ॥ ३ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+दृष्टचन्द्रामावास्या सिनीवाली, स्त्रीत्वेन रूप्यते । हे सिनीवालि पृथुष्टुके पृथुजघने पृथुसंहते वा । स्त्यायतेस्स्तुकः, पूर्वस्याविद्यमानत्वादिदं न निहन्यते । या त्वं देवानां स्वसा स्वयं सारिण्यसि । वृष्ट्यादीनां भगिन्येव वा; समानकार्यत्वात् । सा त्वं जुषस्व सेवस्व हव्यं आहुतम् । पूर्ववद्गतेः प्रकृतिस्वरत्वम् । किं च - हे सिनीवालि नः अस्मभ्यं प्रजां पुत्रादिकां दिदिढ्ढि उपचिनु देहीत्यर्थः । दिहेर्लेटि शपश्श्लुः ॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 अब विदुषी कुमारी क्या करें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -358,6 +374,19 @@ enjoy the oblation that is poured. Allot offspring to us, goddess.
 
 O broad-tressed Sinivali, thou who art the Sister of the Gods,  
      Accept the offered sacrifice, and, Goddess, grant us progeny.
+</details>
+
+<details><summary>Keith</summary>
+
+O Sinivali,
+</details>
+
+<details><summary>Keith (तैत्तिरीयम्)</summary>
+
+O Sinivali, with broad braids,  
+Who art the sister of the gods,  
+Accept the offering [3] which is made;  
+Grant, O goddess, offspring to us.
 </details>
 
 <details><summary>Geldner</summary>

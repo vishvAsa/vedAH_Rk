@@ -401,6 +401,13 @@ Let those who are our foemen stay. afar from us: with Indra and with Agni we wil
      Vasus, Adityas, Rudras have exalted me, made me far-reaching, inighty, thinker, sovran lord.
 </details>
 
+<details><summary>Keith</summary>
+
+May our rivals depart;  
+With Indra and Agni we overthrow them;  
+The Vasus, the Rudras, the Adityas have made me A dread corrector and overlord, sky reaching.
+</details>
+
 <details><summary>Geldner</summary>
 
 Unsere Nebenbuhler sollen sich wegheben, mit Indra und Agni unterdrücken wir sie. Die Vasu´s, Rudra´s, Aditya´s haben mich zum überragenden, zum gewaltigen Meister und Oberherrn gemacht.

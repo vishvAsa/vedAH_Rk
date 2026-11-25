@@ -285,6 +285,14 @@ With eulogy I call on Raka swift to hear may she, auspicious, hear us, and herse
      With never-breaking needle may she sew her work, and give a hero son most wealthy, meet for praise.
 </details>
 
+<details><summary>Keith</summary>
+
+Raka, easy to invoke, I invoke with fair praise;  
+May the fortunate one hear us and be aware of us  
+With needle that breaks not may she sew her task;  
+May she give a hero, whose wergild is a hundred, worthy of song.
+</details>
+
 <details><summary>Geldner</summary>
 
 Ich rufe die leicht zu rufende Raka mit schönem Loblied; die Holde soll uns erhören, soll es von selbst merken. Sie soll ihr Werk mit unzerbrechlicher Nadel nähen; sie soll einen vollwertigen, lobeswürdigen Sohn schenken.

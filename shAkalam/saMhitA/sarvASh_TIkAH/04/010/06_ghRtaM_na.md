@@ -80,10 +80,21 @@ te ← tvám (pronoun)
 तत्ते॑ रु॒क्मो न रो॑चत स्वधावः ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+घृ॒तन्न पू॒तन्त॒नूर॑रे॒पाश्शुचि॒ हिर॑ण्यम् ।  
+तत्ते॑ रु॒क्मो न रो॑चत स्वधावः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 घृ॒तम् । न । पू॒तम् । त॒नूः । अ॒रे॒पाः । शुचि॑ । हिर॑ण्यम् ।  
 तत् । ते॒ । रु॒क्मः । न । रो॒च॒त॒ । स्व॒धा॒ऽवः॒ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+न । पू॒तम् । त॒नूः । अ॒रे॒पाः । शुचि॑ । हिर॑ण्यम् ॥ तत् । ते॒ । रु॒क्मः । न । रो॒च॒त॒ । स्व॒धा॒व॒ इति॑ स्वधा-वः॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -180,6 +191,11 @@ _________
 हे **स्वधावः** । स्वधाशब्दोऽन्नवाची । अन्नवन्नग्ने **पूतं** शोधितं **घृतं** **न** आज्यमिव **तनूः** त्वदीया मूर्तिः **अरेपाः** पापरहिता भवति । **शुचि** शुद्धं **हिरण्यं** हितरमणीयं **ते** त्वदीयं **तत्** प्रसिद्धं तेजः **रुक्मो** **न** भूषणमिव **रोचत** रोचते भासते ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+घृतं न घृतमिव पूतं शुद्धं तनूश्शरीरं तव ; अनिरुक्तत्वात् प्रजापतिरामन्त्र्यते । हे स्वधावः अन्नवन् । 'मतुवसोः' इति रुत्वम् । अरेपाः अपापा तनूः तव रोचते हिरण्यमिव शुचि रोचते, रुक्मो न रजतमिव रोचते तव तनूरिति । तदिति लिङ्गव्यत्ययः सा तव तनूरिति । यद्वा - तत्ते अन्नं रोचते किमिवेत्याह - पूतं घृतमिव अरेपास्तनूरिव शुचि हिरण्यमिव रोचनशीलं रजतमिवेति ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -205,6 +221,11 @@ simply leave the referent blank.
 
 Spotless thy body, brilliant as gold, like clarified butter:  
      This gleams like gold on thee, O Self. dependent.
+</details>
+
+<details><summary>Keith</summary>
+
+Thy body is faultless, Like ghee purified, like pure gold That of thine shineth like an ornament, O thou powerful one.
 </details>
 
 <details><summary>Oldenberg</summary>

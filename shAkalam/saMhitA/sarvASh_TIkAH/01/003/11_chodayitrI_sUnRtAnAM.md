@@ -60,6 +60,12 @@ yajñám ← yajñá- (nominal stem)
 य॒ज्ञं द॑धे॒ सर॑स्वती ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+चो॒द॒यि॒त्री सू॒नृता॑ना॒ञ्चेत॑न्ती सुमती॒नाम् ।  
+य॒ज्ञन्द॑धे॒ सर॑स्वती ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 चो॒द॒यि॒त्री । सू॒नृता॑नाम् । चेत॑न्ती । सु॒ऽम॒ती॒नाम् ।  
@@ -74,6 +80,11 @@ yajñám ← yajñá- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 चो॒द॒यि॒त्री। सू॒नृता॑नाम्। चेत॑न्ती। सु॒म॒ती॒नामिति॑ सुऽमती॒नाम्। य॒ज्ञम्। द॒धे॒। सर॑स्वती। ६।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+चो॒द॒यि॒त्री । सू॒नृता॑नाम् । चेत॑न्ती । सु॒म॒ती॒नामिति॑ सु-म॒ती॒नाम् ॥ य॒ज्ञम् । द॒धे॒ । सर॑स्वती ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -195,6 +206,11 @@ _________
 ( पा ४०१०५ ) इति ततो ङीप् । 'सुमतीनां शोभन-बुद्धीनां शोभन-कर्मणां वा 'चेतन्ती चेतयन्ती प्रकटयन्ती । मतेः कर्मनाम् असु पाठात् तद् अर्थता ऽपि, सुमतिदात्रीत्यर्थः । चेतन्तीत्य्-अत्र " ( पा ३०४-११७ ) इति शपो ऽप्यार्धधातुकत्वात् णिचो लोपः ॥६॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+स्नृतानां प्रियवाक्यानां [णा] चोदयित्री प्रेरयित्री सुमतीनां शोभनबुद्धीनामस्माकं कृत्यं चेतन्ती जानन्ती सरस्वती यज्ञमिमं दधे धारितवती।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -213,6 +229,13 @@ Sarasvatī has received our sacrifice.
 
 Inciter of all pleasant songs, inspirer o all gracious thought,  
      Sarasvati accept our rite
+</details>
+
+<details><summary>Keith</summary>
+
+Impeller of righteousness,  
+Instigator of devotions,  
+Sarasvati hath established the sacrifice.
 </details>
 
 <details><summary>Griffith (माध्यन्दिनम्)</summary>

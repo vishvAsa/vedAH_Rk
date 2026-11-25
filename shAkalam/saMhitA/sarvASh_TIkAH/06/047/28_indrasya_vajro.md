@@ -95,6 +95,12 @@ ratha ← rátha- (nominal stem)
 सेमां नो॑ ह॒व्यदा॑तिं जुषा॒णो देव॑ रथ॒ प्रति॑ ह॒व्या गृ॑भाय ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+इन्द्र॑स्य॒ वज्रो॑ म॒रुता॒मनी॑कम्मि॒त्रस्य॒ गर्भो॒ वरु॑णस्य॒ नाभिः॑ ।  
+सेमान्नो॑ ह॒व्यदा॑तिञ्जुषा॒णो देव॑ रथ॒ प्रति॑ ह॒व्या गृ॑भाय ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्र॑स्य । वज्रः॑ । म॒रुता॑म् । अनी॑कम् । मि॒त्रस्य॑ । गर्भः॑ । वरु॑णस्य । नाभिः॑ ।  
@@ -104,6 +110,11 @@ ratha ← rátha- (nominal stem)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 इन्द्रस्य। वज्रः॑। म॒रुता॑म्। अनी॑कम्। मि॒त्रस्य॑। गर्भः॑। वरु॑णस्य। नाभिः॑। सः। इ॒माम्। नः॒। ह॒व्यदा॑ति॒मिति॑ ह॒व्यऽदा॑तिम्। जु॒षा॒णः। देव॑। र॒थ॒। प्रति॑। ह॒व्या। गृ॒भा॒य॒। ५४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+इन्द्र॑स्य । वज्रः॑ । म॒रुता॑म् । अनी॑कम् । मि॒त्रस्य॑ । गर्भः॑ । वरु॑णस्य । नाभिः॑ ॥ सः । इ॒माम् । नः॒ । ह॒व्यदा॑ति॒मिति॑ ह॒व्य-दा॒ति॒म् । जु॒षा॒णः । देव॑ । र॒थ॒ । प्रतीति॑ । ह॒व्या । गृ॒भा॒य॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -281,6 +292,11 @@ _________
 गृभाय गृह्णातेः ‘हलः श्नः शानज्झौ’ (पा० ३। १। ८३) इत्यनुवृत्तौ ‘छन्दसि शायजपि’ (पा० ३। १। ८४) इति हौ परे श्नाप्रत्ययस्य शायजादेशः हस्य भश्च॥ ५४॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यथेन्द्रस्य वज्रोऽत्यन्तं दृढः, यथा च मरुतामनीकं सैन्यं बहुभिर्मटैरुपेतं, यथा मित्रस्य गर्भोऽत्यन्तं सुरक्षितः, यथा वरुणस्य नाभिः केनापि तिरस्कर्तुमशक्यस्तथाविधैर्गुणैरुपेत हे देव रथ नोऽस्मदीयामिमां हव्यदातिं हविर्दानं जुषाणो हव्याऽस्मद्दत्तानि हव्यानि प्रति गृभाय प्रत्येकं गृहाण।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -350,6 +366,13 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 
 Thou Bolt of Indra, Vanguard of the Maruts, close knit to Varuna and Child of Mitra,-  
      As such, accepting gifts which here we offer, receive, O Godlike Chariot, these oblations.
+</details>
+
+<details><summary>Keith</summary>
+
+The thunderbolt of Indra, the face of the Maruts, The embryo of Mitra, the navel of Varuna,  
+Do thou, accepting this our sacrifice,  
+O chariot divine, take to thyself the oblations.
 </details>
 
 <details><summary>Geldner</summary>

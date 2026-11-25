@@ -98,6 +98,12 @@ tā́-tā ← sá- ~ tá- (pronoun)
 या ते॒ गात्रा॑णामृतु॒था कृ॒णोमि॒ ताता॒ पिण्डा॑नां॒ प्र जु॑होम्य॒ग्नौ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+एक॒स्त्वष्टु॒रश्व॑स्या विश॒स्ता द्वा य॒न्तारा॑ भवत॒स्तथ॒र्तुः ।  
+या ते॒ गात्रा॑णामृतु॒था कृ॒णोमि॒ ताता॒ पिण्डा॑ना॒म्प्र जु॑होम्य॒ग्नौ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 एकः॑ । त्वष्टुः॑ । अश्व॑स्य । वि॒ऽश॒स्ता । द्वा । य॒न्तारा॑ । भ॒व॒तः॒ । तथा॑ । ऋ॒तुः ।  
@@ -107,6 +113,11 @@ tā́-tā ← sá- ~ tá- (pronoun)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 एकः॑। त्वष्टुः॑। अश्व॑स्य। वि॒श॒स्तेति॑ विऽश॒स्ता। द्वा। य॒न्तारा॑। भ॒व॒तः॒। तथा॑। ऋ॒तुः। या। ते॒। गात्रा॑णाम्। ऋ॒तु॒थेत्यृ॑तु॒ऽथा। कृ॒णोमि॑। तातेति॒ ताता॑। पिण्डा॑नाम्। प्र। जु॒हो॒मि॒। अ॒ग्नौ। ४२।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+एकः॑ । त्वष्टुः॑ । अश्व॑स्य । वि॒श॒स्तेति॑ वि-श॒स्ता । द्वा । य॒न्तारा॑ । भ॒व॒तः॒ । तथा॑ । ऋ॒तुः ॥ या । ते॒ । गात्रा॑णाम् । ऋ॒तु॒थेत्यृ॑तु-था । कृ॒णोमि॑ । तातेति॒ ता-ता॒ । पिण्डा॑नाम् । प्रेति॑ । जु॒हो॒मि॒ । अ॒ग्नौ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -312,6 +323,14 @@ _________
 ऋतुथा ऋतौ ऋतूपलक्षिते वसन्तादियज्ञकाले ता ता तानि तान्यङ्गानि अग्नौ प्रजुहोमि प्रकर्षेण हुतानि करोमि॥ ४२॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+त्वष्टुर्दीप्तिमतोऽऽश्वस्यर्तूपलक्षितकालीन एको विशस्ताहिंसिता ।  
+तथा द्वा यन्तारा विशसनकाले यथेतस्ततो न चलति तथा नि या मकौ द्वौ।  
+अत एवान्यत्राऽऽम्नातम् “अघ्रिगुश्चापापश्च ।  
+उभौ देवानाँ शमि तारौ” इति हेऽश्व ते तव गात्राणां यान्यङ्गानि ऋतुथर्तूपलक्षिते तत्तत्काले कृणोमि च्छिनद्मि, पिण्डानां मांसपिण्डानां मध्ये ताता तानि तान्यङ्गानि प्रजुहोम्यग्नौ प्रकर्षेण जुहोमि ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर किस प्रकार पशु सिखाने चाहियें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -375,6 +394,14 @@ In d I didn’t tr. píṇḍānām as a partitive gen. because the English got 
 
 Of Tvastar's Charger there is one dissector,--this is the custom-two there are who guide him.  
      Such of his limbs as I divide in order, these, amid the balls, in fire I offer.
+</details>
+
+<details><summary>Keith</summary>
+
+One carver is there of the steed of Tvastr  
+Two restrainers are there, so is the use;  
+Those parts of thy limbs that I place in order,  
+Those in balls I offer in the fire.
 </details>
 
 <details><summary>Geldner</summary>

@@ -291,6 +291,14 @@ O Indra, if a hundred heavens and if a hundred earths were thine-
      No, not a thousand Suns could match thee at thy birth, not both the worlds, O Thunderer.
 </details>
 
+<details><summary>Keith</summary>
+
+If, O Indra, a hundred skies,  
+A hundred earths were thine,  
+Not a thousand suns could match thee at birth,  
+Nor the two worlds.
+</details>
+
 <details><summary>Geldner</summary>
 
 Wenn dir, Indra, auch hundert Himmel und hundert Erden wären, nicht tausend Sonnen würden dir, dem Geborenen, gleichkommen, noch beide Welten, o Keulenträger.

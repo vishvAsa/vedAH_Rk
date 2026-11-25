@@ -291,6 +291,14 @@ Yea, of a truth, his magnitude surpasseth the magnitude of earth, mid-air, and h
      Indra, approved by all men, self-resplendent, waxed in his home, loud-voiced and strong for battle.
 </details>
 
+<details><summary>Keith</summary>
+
+His greatness surpasseth  
+Sky or earth or heaven;  
+Indra sole lord, hailed by all, in his home  
+Boisterous and brave, waxeth great for the conflict.
+</details>
+
 <details><summary>Geldner</summary>
 
 Seine Größe reicht über Himmel und Erde, über das Luftreich hinaus. Indra ist der Selbstherrscher in seinem Hause, von allen gepriesen; ein nobler Herr, ein Gefäß ist er zum Kampf herangewachsen.

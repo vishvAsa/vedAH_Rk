@@ -447,6 +447,14 @@ Like kine unmilked we call aloud, Hero, to thee, and sing thy praise,
      Looker on heavenly light, Lord of this moving world, Lord, Indra, of what moveth not.
 </details>
 
+<details><summary>Keith</summary>
+
+We call on thee, O hero, in praise,  
+Like kine unmilked,  
+Lord [2] of this moving world, seeing the heavenly light,  
+Lord, O Indra, of what standeth.
+</details>
+
 <details><summary>Geldner</summary>
 
 Wir schreien nach dir, du Held, wie ungemolkene Kühe, nach dem Herrn über diese lebende Welt, nach dem Herrn über die unbewegliche Natur, dessen Auge die Sonne ist, o Indra.

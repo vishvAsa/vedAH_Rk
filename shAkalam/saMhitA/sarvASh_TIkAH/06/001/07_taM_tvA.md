@@ -92,10 +92,23 @@ rocanéna ← rocaná- (nominal stem)
 त्वं विशो॑ अनयो॒ दीद्या॑नो दि॒वो अ॑ग्ने बृह॒ता रो॑च॒नेन॑ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+तन्त्वा॑ व॒यँ सु॒धियो॒ नव्य॑मग्ने ।   
+सु॒म्ना॒यव॑ ईमहे देव॒यन्तः॑ ।  
+त्वव्ँ विशो॑ अनयो॒ दीद्या॑नः ।   
+दि॒वो अ॑ग्ने बृह॒ता रो॑च॒नेन॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । त्वा॒ । व॒यम् । सु॒ऽध्यः॑ । नव्य॑म् । अ॒ग्ने॒ । सु॒म्न॒ऽयवः॑ । ई॒म॒हे॒ । दे॒व॒ऽयन्तः॑ ।  
 त्वम् । विशः॑ । अ॒न॒यः॒ । दीद्या॑नः । दि॒वः । अ॒ग्ने॒ । बृ॒ह॒ता । रो॒च॒नेन॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+त᳓म् । त्वा । वय᳓म् । सु । धि᳓यः । न᳓व्यम् । अग्ने । सुम्नाय᳓वः । ईमहे । देव-य᳓न्तः । त्व᳓म् । वि᳓शः । अनयः । दी᳓द्यानः । दिवः᳓ । अग्ने । बृहता᳓ । रोचने᳓न ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -221,6 +234,11 @@ _________
 हे अग्ने तं तादृशं महानुभावं नव्यं स्तुत्यं **त्वा** त्वां **सुध्यः** शोभनबुद्धयः **सुम्नायवः** सुखमिच्छन्तः **देवयन्तः** देवं स्वामिच्छन्तः **वयम्** ईमहे याचामहे । स्तुम इत्यर्थः । हे अग्ने त्वं **दीद्यानः** दीप्यमानः सन् । केन । **बृहता** महता **रोचनेन** रोचमानेन तेजसा दीद्यानः विशः प्रजाः स्तोतॄनस्मान् **दिवः** स्वर्गम् अनयः अगमयः । रोचनेनादित्येन दिवमगमय इति वा संबन्धः । आदित्यमार्गेणेत्यर्थः ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+7तं त्वा वयमिति ॥ हे अग्ने! तादृशं त्वां नव्यं स्तुत्यं नवं वा वयं सुधियः शोभनप्रज्ञाः शोभनकर्माणो वा सुम्नायवः सुखमिच्छन्तः तदर्थं देवान् प्राप्तुमिच्छन्तः ईमहे याचामहे भजामहे वा । त्वं खलु दीद्यानः विशः मनुष्यान् अनयः नयसि प्रापयसि दिवः द्युलोकान् इष्टान् । छान्दसो लङ् । हे अग्ने! अङ्गनादिगुण रोचनेन दीप्त्या इत्थंभूतः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -239,6 +257,8 @@ you led the clans, while shining through the lofty luminous realm of  heaven, o 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/06-07.md">
 <details><summary><h2>06-07 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 I do not understand why 6c has the act. pf. part. dīdivā́ṃsam while, in the same metrical position, qualifying the same entity, and apparently meaning the same thing, 7c has the middle part. dī́diyānaḥ (whose tense-aspect stem affiliation is not entirely clear: its accent weakly suggests that it already belongs to the new redupl.
 
 pres. [reinterpreted from the pf.], but the redupl. forms to this root are in flux; see my “perfect impv” paper in the Lubotsky Fs.). Of course a nom. form of the act. part would not fit this slot in 7c, but an acc. form of the middle part. would be fine in 6c. I doubt that the poet is contrasting old perfect and new pres., or trying to draw a semantic difference between the voices. The participle dī́diyāna- is the only medial form to this root; all the finite forms are active, with intrans. value, as are the two act.
@@ -254,6 +274,7 @@ Vs. 8 is couched entirely in the acc., referring to Agni. It can’t be directly
 On the semantics of the root √tuś in nitóśana-, see comm. ad VIII.38.2.
 
 The hapax cmpd. prétīṣaṇi- is curiously formed and its sense not entirely clear, esp. because the root affiliation of -iṣaṇi- is uncertain and because the cmpd type is muddled, at least by its interpreters. Geldner takes the 2nd member with √iṣ ‘seek, desire’: “der das Auftreten (des Opferpriesters) wünscht”; while Renou opts for √iṣ ‘impel’: “qui pousse en avant l'incitation,” with alternatives in the notes “qui aspire à aller de l’avant” (√iṣ ‘seek, desire’) or “qui fait avancer l'incitation (des humains)” (√iṣ ‘impel’). The ‘seek, desire’ root is also represented by Debrunner’s “zum Vormarsch strebend” (AiG II.2.208). In my interpr. I take Oldenberg’s point (Noten ad loc.; he doesn’t discuss in ZDMG 55) that the accent suggests a bahuvrīhi, and I favor a connection of the 2nd member with √iṣ ‘impel’ and esp. the 2ndary verbal stems iṣanaya- and iṣaṇya-, both ‘impel’. A literal rendering would then be something like “having the impulsion of the forward progress (of the sacrifice),” but in English the bahuvrīhi gloss is too awkward, hence my “impelling …” The point here is that Agni controls the pace and movement of the sacrifice, which progress is often expressed by the idiom prá √i (cf. the common loc. absol. prayaty àdhvaré “while the ceremony is advancing”) found in the 1st member préti-. The 2nd member iṣaṇi- is immediately followed by the part. iṣáyantam, but I think this is a playful juxtaposition: the two words have nothing to do with each other, and the sense ‘prospering’ for the latter was established in the fuller expression in 2b.
+</details>
 
 </details>
 </div>

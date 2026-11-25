@@ -95,6 +95,12 @@ sr̥já ← √sr̥j- (root)
 वि धू॒मम॑ग्ने अरु॒षं मि॑येध्य सृ॒ज प्र॑शस्त दर्श॒तम् ॥१०॥ ॥ (३) ३७ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+सँ सी॑दस्व म॒हाँ अ॑सि॒ शोच॑स्व [12]  दे॒व॒वीत॑मः ।  
+वि धू॒मम॑ग्ने अरु॒षम्मि॑येध्य सृ॒ज प्र॑शस्त दर्श॒तम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सम् । सी॒द॒स्व॒ । म॒हान् । अ॒सि॒ । शोच॑स्व । दे॒व॒ऽवीत॑मः ।  
@@ -109,6 +115,11 @@ sr̥já ← √sr̥j- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 सम्। सी॒द॒स्व॒। म॒हान्। अ॒सि॒। शोच॑स्व। दे॒व॒वीत॑म॒ इति॑ देव॒ऽवीत॑मः। वि। धू॒मम्। अ॒ग्ने॒। अ॒रु॒षम्। मि॒ये॒ध्य॒। सृ॒ज। प्र॒श॒स्तेति॑ प्रऽशस्त। द॒र्श॒तम्। १०।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+समिति॑ । सी॒द॒स्व॒ । म॒हान् । अ॒सि॒ । शोच॑स्व । दे॒व॒वीत॑म॒ इति॑ देव-वीत॑मः ॥ वीति॑ । धू॒मम् । अ॒ग्ने॒ । अ॒रु॒षम् । मि॒ये॒ध्य॒ । सृ॒ज । प्र॒श॒स्तेति॑ प्र-श॒स्त॒ । द॒र्श॒तम् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -298,6 +309,11 @@ _________
 दर्शनीयम् इति शेषः ॥ १० ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हेऽग्ने त्वमस्मिन्पुष्करपर्णे संसीदस्व सम्यगुपविश।   त्वमनेकक्रतुत्वान्महानसि, देवान्वेति गच्छतीति देववीरतिशयेन देववीर्देव-वीतमः।   ता दृशस्त्वं शोचस्व दीप्यस्व।   हे मियेध्य मेधार्ह प्रशस्तोत्कृष्टाग्नेऽ-रुषभरोषणमनुग्रं दर्शतं द्रष्टुं शक्यं शान्तं धूमं विशेषेण सृज।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 इस पठन-पाठन विषय में अध्यापक कैसा होवे, यह विषय अगले मन्त्र में कहा है ॥
@@ -350,6 +366,13 @@ Sit together (with us): you are great. Blaze as the best at pursuing the gods. L
 
 Seat thee, for thou art mighty; shine, best entertainer of the Gods.  
      Worthy of sacred food, praised Agni! loose the smoke, ruddy and beautiful to see.
+</details>
+
+<details><summary>Keith</summary>
+
+Sit thou down, thou art great,  
+Burn [3] best servant of the gods;  
+O Agni, pure one, send forth the ruddy smoke, O famous one, that can be seen afar.
 </details>
 
 <details><summary>Oldenberg</summary>

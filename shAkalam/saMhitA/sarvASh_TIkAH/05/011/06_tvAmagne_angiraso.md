@@ -110,6 +110,12 @@ tvā́m ← tvám (pronoun)
 स जा॑यसे म॒थ्यमा॑नः॒ सहो॑ म॒हत्त्वामा॑हुः॒ सह॑सस्पु॒त्रम॑ङ्गिरः ॥९॥ ४९
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+त्वाम॑ग्ने॒ अङ्गि॑रसः [11]  गुहा॑ हि॒तमन्व॑विन्दञ्छिश्रिया॒णव्ँवने॑वने ।  
+स जा॑यसे म॒थ्यमा॑न॒स्सहो॑ म॒हत्त्वामा॑हु॒स्सह॑सस्पु॒त्रम॑ङ्गिरः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वाम् । अ॒ग्ने॒ । अङ्गि॑रसः । गुहा॑ । हि॒तम् । अनु॑ । अ॒वि॒न्द॒न् । शि॒श्रि॒या॒णम् । वने॑ऽवने ।  
@@ -327,6 +333,11 @@ _________
 हे अङ्गिरः अग्ने, अतएव सहसो बलस्य पुत्रं त्वामाहुः वदन्ति मुनयः बलेन मन्थनाज्जायमानत्वाद्बलपुत्रं वदन्तीत्यर्थः॥ २८॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हेऽग्ने त्वामङ्गिरसो महर्षयोऽन्वविन्दन्नन्दिव्य लब्धवन्तः।   कीदृशं त्वां, गुहा हितमरणीप्रभृतिषु गाष्यस्थानेष्ववस्थितम्।   वने वने शिश्नियाणं तस्मिस्तस्मिन्वने दावाग्निरूपेणाऽऽश्रितम्।   स त्वं महत्सहः प्रौढं बलं विमथ्यमानो जायते।   हेऽङ्गिरोऽङ्गसौष्ठवयुक्ताग्ने त्वां सहसस्पुत्र   २०६४ वलस्य पुत्रमाहुः।   महता वलेन मन्थने सति जायमानत्वात्।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर वह कैसा हो, यह विषय अगले मन्त्र में कहा है ॥
@@ -380,6 +391,14 @@ Being churned, you are born to great strength. You they call the child of  stren
 
 O Agni, the Angirases discovered thee what time thou layest hidden, fleeing back from wood to wood.  
      Thou by attrition art produced as conquer.ing might, and men, O Angiras, call thee the Son of Strength.
+</details>
+
+<details><summary>Keith</summary>
+
+Thee, O Agni, the Angirases found  
+When hidden in secret, resting in every wood;  
+Thou when rubbed art born as mighty strength;  
+Son of strength they call thee, O Angiras.
 </details>
 
 <details><summary>Oldenberg</summary>

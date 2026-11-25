@@ -110,6 +110,12 @@ sámane ← sámana- (nominal stem)
 योषे॑व शिङ्क्ते॒ वित॒ताधि॒ धन्व॒न् ज्या इ॒यँ सम॑ने पा॒रय॑न्ती ॥५॥ १६
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+व॒क्ष्यन्ती॒वेदा ग॑नीगन्ति॒ कर्ण॑म्प्रि॒यँ सखा॑यम्परिषस्वजा॒ना ।  
+योषे॑व शिङ्क्ते॒ वित॒ताधि॒ धन्व॑न्न् [27]  ज्या इ॒यँ सम॑ने पा॒रय॑न्ती ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 व॒क्ष्यन्ती॑ऽइव । इत् । आ । ग॒नी॒ग॒न्ति॒ । कर्ण॑म् । प्रि॒यम् । सखा॑यम् । प॒रि॒ऽस॒स्व॒जा॒ना ।  
@@ -124,6 +130,11 @@ sámane ← sámana- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 व॒क्ष्यन्ती॒वेति॑ व॒क्ष्यन्ती॑ऽइव। इत्। आ॒ग॒नी॒गन्ति॒। कर्ण॑म्। प्रि॒यम्। सखा॑यम्। प॒रि॒ष॒स्व॒जा॒ना। प॒रि॒ष॒स्व॒जा॒नेति॑ परिऽसस्वजा॒ना। योषे॒वेति॒ योषा॑ऽइव। शि॒ङ्क्ते॒। वित॒तेति॒ विऽत॑ता। अधि॑। धन्व॑न्। ज्या। इ॒यम्। सम॑ने। पा॒रय॑न्ती। ५।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+व॒क्ष्यन्ती॑ । इ॒व॒ । इत् । एति॑ । ग॒नी॒ग॒न्ति॒ । कर्ण॑म् । प्रि॒यम् । सखा॑यम् । प॒रि॒ष॒स्व॒जा॒नेति॑ परि-स॒स्व॒जा॒ना ॥ योषा॑ । इ॒व॒ । शि॒ङ्क्ते॒ । वित॒तेति॒ वि-त॒ता॒ । अधीति॑ । धन्व॑न् । ज्या । इ॒यम् । सम॑ने । पा॒रय॑न्ती ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -404,6 +415,15 @@ _________
 संग्रामात्तारयन्तीति ज्या स्तुता ।। १६ ।।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इयं ज्या घनुष्यारोपिता मौर्वी वक्ष्यन्तीव किंचि द्रहस्यं वाक्यं वदिष्यन्तवि कर्णं [र्णमा] गनीगन्ति कर्णसमीपमागच्छति ।  
+तत्रं दृष्टान्तः प्रियं सखायं परिषस्वजाना प्रीतियुक्तं सखिसमानं विश्रम्भव्यवहारयोग्यं भर्तीरमालिङ्गन्ती योषेव शिङ्क्तेऽव्यक्तं शब्दं करोति ।  
+सा यथा स्वकीयं योगक्षेमं शनैः कथयति तद्वदियमपि ज्या शब्दयतीत्यर्थः ।  
+कीदृशी ज्या अधि धन्वन्धनुष उपरि वितता विशेषेण प्रसारिता, समने युद्धे पारयन्ती युद्धसमाप्तिं गमयन्ती ।  
+२२०२ ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -465,6 +485,14 @@ The standard tr. take pāráyantī in a fairly generic sense (e.g., Geldner’s 
 
 Close to his car, as fain to speak, She presses, holding her well-loved Friend in her embraces.  
      Strained on the Bow, She whispers like a woman-this Bowstring that preserves us in the combat.
+</details>
+
+<details><summary>Keith</summary>
+
+As if about to speak it approacheth the ear,  
+Embracing its dear comrade,  
+Like a woman this bowstring twangeth stretched over the bow [1],  
+Saving in the battle.
 </details>
 
 <details><summary>Geldner</summary>

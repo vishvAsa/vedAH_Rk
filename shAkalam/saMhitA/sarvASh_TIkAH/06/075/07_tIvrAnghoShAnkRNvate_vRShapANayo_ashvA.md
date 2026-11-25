@@ -89,6 +89,12 @@ kṣiṇánti ← √kṣī- (root)
 अ॒व॒क्राम॑न्तः॒ प्रप॑दैर॒मित्रा॑न् क्षि॒णन्ति॒ शत्रूँ॒१ ॥ऽरन॑पव्ययन्तः ॥४४ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+ती॒व्रान्घोषा॑न्कृण्वते॒ वृष॑पाण॒योऽश्वा॒ रथे॑भिस्स॒ह वा॒जय॑न्तः ।  
+अ॒व॒क्राम॑न्त॒ᳶ प्रप॑दैर॒मित्रा॑न्क्षि॒णन्ति॒ शत्रूँ॒रन॑पव्ययन्तः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ती॒व्रान् । घोषा॑न् । कृ॒ण्व॒ते॒ । वृष॑ऽपाणयः । अश्वाः॑ । रथे॑भिः । स॒ह । वा॒जय॑न्तः ।  
@@ -98,6 +104,11 @@ kṣiṇánti ← √kṣī- (root)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ती॒व्रान्। घोषा॑न्। कृ॒ण्व॒ते॒। वृष॑पाणय॒ इति॒ वृष॑ऽपाणयः। अश्वाः॑। रथे॑भिः। स॒ह। वा॒जय॑न्तः। अ॒व॒क्राम॑न्त॒ इत्य॑व॒ऽक्राम॑न्तः। प्रप॑दै॒रिति॒ प्रऽप॑दैः। अ॒मित्रा॑न्। क्षि॒णन्ति॑। शत्रू॑न्। अन॑पव्ययन्त॒ इत्य॑नपऽव्ययन्तः। ४४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ती॒व्रान् । घोषान्॑ । कृ॒ण्व॒ते॒ । वृष॑पाणय॒ इति॒ वृष॑-पा॒ण॒यः॒ । अश्वाः॑ । रथे॑भिः । स॒ह । वा॒जय॑न्तः ॥ अ॒व॒क्राम॑न्त॒ इत्य॑व-क्राम॑न्तः । प्रप॑दै॒रिति॒ प्र-प॒दैः॒ । अ॒मित्रान्॑ । क्षि॒णन्ति॑ । शत्रून्॑ । अन॑पव्ययन्त॒ इत्यन॑प-व्य॒य॒न्तः॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -256,6 +267,17 @@ _________
 वाजिनः ‘वज गतौ’ स्वार्थे णिच्॥४४॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+एतेऽश्वास्तीव्रानत्युच्चान्घोषान्ह्रेषाशब्दान्कृण्वते कुर्वते।  
+कीदृशा अश्वाः, वृषपाणयः, सेचनवाचिना वृषशब्देन शक्तिरुपलक्ष्यते ।  
+पाणिशब्दः पादलक्षकः ।  
+गन्तुं शक्ताः पादा येषां ते वृषपाणयः ।  
+रथेभिः सह वाजयन्तो रथैः सह शीघ्रं गच्छतः ।  
+प्रपदैः पादाग्रैः खरैरमित्रान्वैरिणोऽवक्रा मन्तः ।  
+तादृशा अश्वा अनपव्ययन्तः प्रत्यापत्तिमकुर्वन्तो भीतिरहिता इत्यर्थः ।     २२०३ शूत्रून्क्षिणन्ति हिंसन्ति ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -329,6 +351,15 @@ The sense of ánapavyayantaḥ is disputed, or rather most tr. water down what I
 
 Horses whose hoofs rain dust are neighing loudly, yoked to the Chariots, showing forth their vigour,  
      With their forefeet descending on the foemen, they, never flinching, trample and destroy them.
+</details>
+
+<details><summary>Keith</summary>
+
+Shrilly the strong-hooved horses neigh,  
+As with the cars they show their strength;
+  
+Trampling with their forefeet the enemy  
+They unflinchingly destroy the foe.
 </details>
 
 <details><summary>Geldner</summary>

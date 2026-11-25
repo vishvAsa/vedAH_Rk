@@ -192,6 +192,13 @@ As Savitar's productive Power, as him who sends down bliss, I call
      Agni who clothes him with the sea.
 </details>
 
+<details><summary>Keith</summary>
+
+As the impulse of Savitr,  
+The favour of Bhaga, I call  
+Agni who is clothed with the sea.
+</details>
+
 <details><summary>Geldner</summary>
 
 Ich rufe ihn an wie die Anweisung des Savitri, wie des Bhaga Wohltat, den Agni, der sich in das Meer einhüllt.

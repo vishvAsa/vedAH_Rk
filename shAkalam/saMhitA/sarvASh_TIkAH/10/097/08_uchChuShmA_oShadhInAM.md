@@ -83,6 +83,12 @@ táva ← tvám (pronoun)
 धनँ॑ सनि॒ष्यन्ती॑नामा॒त्मानं॒ तव॑ पूरुष ॥८२ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+उच्छुष्मा॒ ओष॑धीना॒ङ्गावो॑ गो॒ष्ठादि॑वेरते ।  
+धनँ॑ सनि॒ष्यन्ती॑नामा॒त्मान॒न्तव॑ पूरुष ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उत् । शुष्माः॑ । ओष॑धीनाम् । गावः॑ । गो॒स्थात्ऽइ॑व । ई॒र॒ते॒ ।  
@@ -97,6 +103,11 @@ táva ← tvám (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 उत्। शुष्म। ओष॑धीनाम्। गात्रः॑। गो॒ष्ठादि॑। गा॒स्थादि॒वेति॑ ग॒स्थात्ऽइ॑व। धन॑म्। स॒नि॒ष्यन्ती॑नाम्। आ॒त्मान॑म्। तव॑। पू॒रु॒ष॒। ८।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+वचः॑ ॥ उदिति॑ । शुष्माः॑ । ओष॑धीनाम् । गावः॑ । गो॒ष्ठादिति॑ गो-स्थात् । इ॒व॒ । ई॒र॒ते॒ ॥ धन॑म् । स॒नि॒ष्यन्ती॑नाम् । आ॒त्मान॑म् । तव॑ । पू॒रु॒ष॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -254,6 +265,11 @@ _________
 । व्यत्ययः । यज्ञपुरुषं च, पुरु बहुलं सनोति ददातीति पुरुषः तं संभजमानानाम् ओषधीनां शुष्मा उदीरत इति संबन्धः ॥८॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+ओषधीनां शुष्मास्तदु भोगजन्या बलविशेषा उदीरत उद्ग- गच्छन्ति ।   तत्र दृष्टान्तः-गावो गोष्ठादिव, यथा गांवो निवासस्थानाद्गृहादरण्यदेशं प्रत्यु-द्गच्छन्ति तद्वत्।   कीदृशीनामोषधीनां पूरुष तवाऽऽत्मानं धनं सनिष्यन्तीनां हे यजमान त्वदीयं शरीरं धनमिव दातुमिच्छन्तीनां यथा धनं दास्यन्ति एवमोषधयोऽपि त्वदीयशरी-राकारेण परिणता शरीरं दास्यन्तीत्यर्थः ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 ओषधियों का क्या निमित्त है, इस विषय को अगले मन्त्र में कहा है ॥
@@ -306,6 +322,13 @@ The unbridled forces of the plants rise up like cows from the cowpen as they see
 
 The healing virtues of the Plants stream forth like cattle from the stall,-  
      Plants that shall win me store of wealth, and save thy vital breath, O man.
+</details>
+
+<details><summary>Keith</summary>
+
+The strength of the plants hath arisen Like cows from the pasturage,  
+Of them that are fain to win gain,  
+To the self of thee, O man.
 </details>
 
 <details><summary>Geldner</summary>

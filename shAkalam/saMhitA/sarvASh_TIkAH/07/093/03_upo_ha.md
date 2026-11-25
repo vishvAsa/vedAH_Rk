@@ -98,10 +98,23 @@ té ← sá- ~ tá- (pronoun)
 अर्व॑न्तो॒ न काष्ठां॒ नक्ष॑माणा इन्द्रा॒ग्नी जोहु॑वतो॒ नर॒स्ते ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+उपो॑ ह॒ यद्वि॒दथव्ँ॑वा॒जिनो॒ गूः ।   
+गी॒र्भिर्विप्रा॒ᳶ प्रम॑तिमि॒च्छमा॑नाः ।  
+अ॒र्वन्तो॒ न काष्ठा॒न्नक्ष॑माणाः ।   
+इ॒न्द्रा॒ग्नी जोहु॑वतो॒ नर॒स्ते ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उपो॒ इति॑ । ह॒ । यत् । वि॒दथ॑म् । वा॒जिनः॑ । गुः । धी॒भिः । विप्राः॑ । प्रऽम॑तिम् । इ॒च्छमा॑नाः ।  
 अर्व॑न्तः । न । काष्ठा॑म् । नक्ष॑माणाः । इ॒न्द्रा॒ग्नी इति॑ । जोहु॑वतः । नरः॑ । ते ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+उ᳓पो । ह । य᳓त् । विद᳓थम् । वाजि᳓नः । गूः᳓ । गीर्भिः᳓ । वि᳓प्राः । प्र᳓-मतिम् । इच्छ᳓मानाः । अर्व᳓न्तः । न᳓ । का᳓ष्ठाम् । न᳓क्षमाणाः । इन्द्राग्नी᳓ । जो᳓हुवतः । न᳓रः । ते᳓ ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -245,6 +258,11 @@ _________
 **वाजिनः** हविष्मन्तः **विप्राः** मेधाविनः **प्रमतिं** प्रकृष्टां मतिमिन्द्राग्न्योरनुग्रहबुद्धिम् **इच्छमानाः** आत्मन इच्छन्तः **यत्** ये यजमानाः **विदथम्** । विदन्ति जानन्ति देवानत्र यष्टव्यत्वेनेति विदथो यज्ञः । तं **धीभिः** कर्मभिर्बुद्धिभिर्वा **उपो** **गुः** उपगच्छन्ति । उ इति पूरकः । **ते** **नरः** कर्मणां नेतारो जनाः **अर्वन्तो** **न** **काष्ठां** यथाश्वाः शीघ्रं युद्धभूमिं व्याप्नुवन्ति तथा **नक्षमाणाः** ऐन्द्राग्नानि कर्माणि व्याप्नुवन्तः **इन्द्राग्नी** इन्द्रमग्निं च **जोहुवतः** पुनःपुनराह्वयन्तो भवन्ति ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+विदथं यज्ञं उपोह यज्ञस्य समीपत एव गूः गच्छन्तः, क्विपि 'ऊञ्चगमादीनाम्' इत्यूकारः, 'सुपां सुलुक्' इति जसः स्वादेशः । वाजिनः अन्नवन्तः हविष्मन्तः गीर्भिः स्तुतिभिः इत्थंभूता प्रमतिं प्रकृष्टं मन्तव्यं फलं इच्छमानाः प्राप्तुमिच्छन्तः विप्राः मेधाविनः ऋत्विजः यत् ये प्रकृष्टफलार्थिनः यज्ञसमीपं गच्छन्तीत्यर्थः । पूर्ववत् जसो लुक् । ते तथाकुर्वन्तो नरः नेतारो मनुष्याः ऋत्विजः इन्द्राग्नी एव जोहुवतो भृशं होमेनाराधयन्तः अर्वन्तोन अश्वा इव काष्ठा नक्षमाणाः व्याप्तुमिच्छन्तः णशेः गतिकर्मणः अभ्यासस्य लोपादिकं छान्दसम् । ते नरा इन्द्राग्नी एव जुहुवतो भवन्ति ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -264,11 +282,14 @@ and Agni—
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/093/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 There is no main clause in vs. 3: the three co-referential participial phrases (… ichámānāḥ b, … nákṣamānāḥ c, … jóhuvataḥ …d) all simply expanding on the dependent cl. of pāda a, úpo ha yád … gúḥ “When they have come”).
 
 However, the first pāda of vs. 4 echoes 3b exactly, save for number: 3b … víprāḥ prámatim ichámānāḥ (pl.) versus 4a … vípraḥ prámatim ichámānaḥ (sg.), vs. 4 seems to continue vs. 3. Interestingly enough, it is not possible to determine whether his new start in 4 is a main clause or continues the dependent cl. in vs. 3 -- though Geldner, Renou, and I all take it as an independent cl. The problem is that the finite verb ī́ṭṭe opens the second pāda; its accent then can be owing to its metrical position and it can be a main-cl. verb (as we all interpret it). However, the accent could also signal that it’s the verb of a dependent cl., and the whole complex of vss. 34 could be interpr.
 
 “When the prize seekers have come …., (when) the inspired poet … invokes …, (then,) o Indra and Agni, further us …” -- in other words 4cd would supply the main cl. for all of 3-4ab.
+</details>
 
 </details>
 </div>

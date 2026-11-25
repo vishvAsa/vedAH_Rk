@@ -83,6 +83,12 @@ samátsu ← samád- (nominal stem)
 अश्वा॑जनि॒ प्रचे॑त॒सोऽश्वा॑न्त्स॒मत्सु॑ चोदय ॥५० ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+आ ज॑ङ्घन्ति॒ सान्वे॑षाञ्ज॒घनाँ॒ उप॑ जिघ्नते ।  
+अश्वा॑जनि॒ प्रचे॑त॒सोऽश्वा॑न्त्स॒मत्सु॑ चोदय ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । ज॒ङ्घ॒न्ति॒ । सानु॑ । ए॒षा॒म् । ज॒घना॑न् । उप॑ । जि॒घ्न॒ते॒ ।  
@@ -97,6 +103,11 @@ samátsu ← samád- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 आ। ज॒ङ्घ॒न्ति॒। सानु॑। ए॒षा॒म्। ज॒घना॑न्। उप॑। जि॒घ्न॒ते॒। अश्वा॑ज॒नीत्यश्व॑ऽजनि। प्रचे॑तस॒ इति॒ प्रऽचे॑तसः। अश्वा॑न्। स॒मत्स्विति॑ स॒मत्ऽसु॑। चो॒द॒य॒। ११।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+एति॑ । ज॒ङ्घ॒न्ति॒ । सानु॑ । ए॒षा॒म् । ज॒घनान्॑ । उपेति॑ । जि॒घ्न॒ते॒ ॥ अश्वा॑ज॒नीत्यश्व॑-अ॒ज॒नि॒ । प्रचे॑तस॒ इति॒ प्र-चे॒त॒सः॒ । अश्वान्॑ । स॒मत्स्विति॑ स॒मत्-सु॒ । चो॒द॒य॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -266,6 +277,13 @@ _________
 'णी प्रापणे' [ ६०१ भ्वादि: ] इति च । अजनम् अजः, अजो नीयते यया कराया सा भवति अजनिः । अश्वस्य अजनिः अश्वाजनिः । कशासंबोधनम् । हे अश्वाजनि, प्रचेतसः प्रकृष्ट- . ज्ञानान् अश्व-शिक्षा-विधि-ज्ञान संयन्त्रान् ? अश्वान् । समत्सु संग्रामेषु । चोदय ॥२२॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+कशाधारिणः सारथय एषामश्वानां सानु पर्वतसानुसदृशं पार्श्वमाजङ्घन्ति सर्वेतरताडयन्ति।  
+तथा पृष्ठभागानुपजिघ्नत उपेस्य ताड यन्ति।  
+तथाविधताडनहेतुभूते हेऽश्वाजनि अश्वप्रेरके कशे प्रचेतसस्ताडनेन प्रकृष्टगमने चित्तयुक्तान्समत्सु युद्धेषु चोदय प्ररेय ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर राजधर्म को कहते हैं ॥
@@ -330,6 +348,14 @@ prácetas- ‘discerning’ may seem an odd descriptor for horses, but the point
 
 He lays his blows upon their backs, he deals his blows upon their thighs.  
      Thou, Whip, who urgest horses, drive sagacious horses in the fray.
+</details>
+
+<details><summary>Keith</summary>
+
+Their backs it smites,  
+Their thighs it belabours;  
+O horse-whip, do ye stimulate  
+The skilled horses in the battles.
 </details>
 
 <details><summary>Geldner</summary>

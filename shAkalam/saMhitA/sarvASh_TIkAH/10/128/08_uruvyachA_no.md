@@ -297,6 +297,12 @@ Foodful, and much-invoked, at this our calling may the great Bull vouchsafe us w
      Lord of Bay Coursers, Indra, blew our children: harm us not, give us riot as prey to others.
 </details>
 
+<details><summary>Keith</summary>
+
+May the bull, wide extending, afford us protection rich in food, He much invoked in this invocation;  
+O thou of the bay steeds, be gracious unto our progeny; Harm us not [3], abandon not us.
+</details>
+
 <details><summary>Geldner</summary>
 
 Der umfängliche Büffel soll uns Zuflucht gewähren bei diesem Anruf, der Vielgerufene, Viehreiche. Sei unseren Kindern gnädig, o Falbenherr; schädige uns nicht, Indra, gib uns nicht preis!

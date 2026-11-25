@@ -101,6 +101,12 @@ vidhema ← √vidh- (root)
 यस्ये॒माः प्र॒दिशो॒ यस्य॑ बा॒हू कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥ ॥१२ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यस्ये॒मे हि॒मव॑न्तो महि॒त्वा यस्य॑ समु॒द्रँ र॒सया॑ स॒ह [32]  आ॒हुः ।  
+यस्ये॒माᳶ प्र॒दिशो॒ यस्य॑ बा॒हू कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यस्य॑ । इ॒मे । हि॒मऽव॑न्तः । म॒हि॒ऽत्वा । यस्य॑ । स॒मु॒द्रम् । र॒सया॑ । स॒ह । आ॒हुः ।  
@@ -115,6 +121,11 @@ vidhema ← √vidh- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यस्य॑। इ॒मे। हि॒मव॑न्त॒ इति॑ हि॒मऽव॑न्तः। म॒हि॒त्वेति॑ महि॒ऽत्वा। यस्य॑। स॒मु॒द्रम्। र॒सया॑। सह। आ॒हुः। यस्य॑। इ॒माः। प्र॒दिश॒ इति॑ प्र॒ऽदिशः॑। यस्य॑। बा॒हू इति॑ बा॒हू। कस्मै॑। दे॒वाय॑। ह॒विषा॑। वि॒धे॒म॒। ३।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यस्य॑ । इ॒मे । हि॒मव॑न्त॒ इति॑ हि॒म-व॒न्तः॒ । म॒हि॒त्वेति॑ महि-त्वा । यस्य॑ । स॒मु॒द्रम् । र॒सया॑ । स॒ह । आ॒हुः ॥ यस्य॑ । इ॒माः । प्र॒दिश॒ इति॑ प्र-दिशः॑ । यस्य॑ । बा॒हू इति॑ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -361,6 +372,15 @@ _________
 तत्-तदेवावगच्छ त्वं मम तेजो-ऽशसंभवम् ॥ (भगी १०.४१) इति भगवद्-वचनात् ॥३॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इमे हिमवन्तो हिमवत्प्रमुखाः पर्वता यस्य महित्वा महिम्ना वर्तन्ते ।  
+रसया भूभ्या सहावस्थितं समुद्रं यस्य स्वाधीनमाहुः ।  
+इमादृश्य-मानाः प्रदिशः प्राच्यादिदिशो यस्याधीना आहुः ।  
+यस्य प्रजापतेर्बाहू धर्माधर्माविति शेषः ।  
+तादृशाय कस्मा इत्यादि ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर सूर्य के वर्णन विषय को अगले मन्त्र में कहा है ॥
@@ -415,6 +435,14 @@ nadir?]— – Who is the god to whom we should do homage with our  oblation?
 
 His, through his might, are these snow-covered mountains, and men call sea and Rasa his possession:  
      His arms are these, his are these heavenly regions. What God shall we adore with our oblation?
+</details>
+
+<details><summary>Keith</summary>
+
+He whose are these snowy mountains through his might,  
+Whose they call the ocean with the Rasa [4],  
+Whose two arms are these quarters;  
+To what god shall we offer with oblation?
 </details>
 
 <details><summary>Geldner</summary>

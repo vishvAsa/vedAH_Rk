@@ -107,10 +107,21 @@ yudhā́ ← yúdh- (nominal stem)
 स्वेना॒ हि वृ॒त्रं शव॑सा ज॒घन्थ॒ न शत्रु॒रन्तं॑ विविदद्यु॒धा ते॑ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अ॒भि क्रत्वे॑न्द्र भू॒रध॒ ज्मन्न ते॑ विव्यङ्महि॒मानँ॒ रजाँ॑सि । 
+ स्वेना॒ हि वृ॒त्रँ शव॑सा ज॒घन्थ॒ न शत्रु॒रन्तव्ँ॑ विविदद् यु॒धा ते॑ ॥ [41]
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒भि । क्रत्वा॑ । इ॒न्द्र॒ । भूः॒ । अध॑ । ज्मन् । न । ते॒ । वि॒व्य॒क् । म॒हि॒मान॑म् । रजां॑सि ।  
 स्वेन॑ । हि । वृ॒त्रम् । शव॑सा । ज॒घन्थ॑ । न । शत्रुः॑ । अन्त॑म् । वि॒वि॒द॒त् । यु॒धा । ते॒ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अ॒भीति॑ । क्रत्वा॑ । इ॒न्द्र॒ । भूः॒ । अध॑ । ज्मन् । न । ते॒ । वि॒व्य॒क् । म॒हि॒मान॑म् । रजाँ॑सि ॥ स्वेन॑ । हि । वृ॒त्रम् । शव॑सा । ज॒घन्थ॑ । न । शत्रुः॑ । अन्त॑म् । वि॒वि॒द॒त् । यु॒धा । ते॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -268,6 +279,13 @@ _________
 हे **इन्द्र** त्वं **क्रत्वा** कर्मणा **ज्मन्** पृथिव्यां वर्तमानान् जन्तून् वा **अभि** **भूः** अभ्यभूः । **अध** अपि च **ते** तव  **महिमानं**  **रजांसि** सर्वे लोकाः **न** **विव्यक्** । व्यचिर्व्याप्तिकर्मा । न व्याप्नुवन्नित्यर्थः । **स्वेन** **हि** आत्मीयेन च **शवसा** बलेन **वृत्रं** **जघन्थ** त्वमवधीः । **शत्रुः** च **युधा** युद्धेन **ते** तव  **अन्तं** हिंसां **न** **विविदत्** न लब्धवान् ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+4अभि क्रत्वेत्यादि ॥ स्वेना हीति । सांहितिकं दीर्घत्वं छान्दसम् । शत्रुः ते तव अन्तं विनाशं युधा युद्धेनापि न विविदत् न वेत्तु न लभतां वा । वेत्तेर्विन्दतेर्वा लेटि शपः 'लेटोडाटौ' इत्यडागमः 'नाभ्यस्तस्याचि' इति गुणाभावः ॥
+
+इति सप्तमे चतुर्थे पञ्चदशोनुवाकः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -299,6 +317,14 @@ Geldner construes the enclitic te with ántam: “… dein Ende finden,” but t
 
 Thou in thy strength surpassest Earth and Heaven: the regions comprehend not all thy greatness.  
      With thine own power and might thou slewest Vrtra: no foe hath found the end of thee in battle.
+</details>
+
+<details><summary>Keith</summary>
+
+Thou hast surpassed in might, O Indra, on the earth
+The regions comprehend not thy greatness;
+For with thine own strength thou didst slay Vrtra;
+No foe hath found the end of thee in fight.
 </details>
 
 <details><summary>Geldner</summary>

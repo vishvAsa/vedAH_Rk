@@ -113,6 +113,12 @@ utá ← utá (invariable)
 ये चार्व॑तो माँसभि॒क्षामु॒पास॑तऽउ॒तो तेषा॑म॒भिगू॑र्त्तिर्नऽइन्वतु ॥३५ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+ये वा॒जिन॑म्परि॒पश्य॑न्ति प॒क्वय्ँय ई॑मा॒हुस्सु॑र॒भिर्निर्ह॒रेति॑ ।  
+ये चार्व॑तो माँसभि॒क्षामु॒पास॑त उ॒तो तेषा॑म॒भिगू॑र्तिर्न इन्वतु ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ये । वा॒जिन॑म् । प॒रि॒ऽपश्य॑न्ति । प॒क्वम् । ये । ई॒म् । आ॒हुः । सु॒र॒भिः । निः । ह॒र॒ । इति॑ ।  
@@ -127,6 +133,11 @@ utá ← utá (invariable)
 <details><summary>पदपाठः - काण्वः</summary>
 
 ये। वा॒जिन॑म्। प॒रि॒पश्य॒न्तीति॑ प॒रि॒ऽपश्य॑न्ति। प॒क्वम्। ये। ईम्। आहुः। सुर॒भिः। निः। हुर्। इति॑। ये। च॒। अर्व॑तः। मा॒स॒भि॒क्षामिति॑ मा॒स॒ऽभि॒क्षाम्। उ॒पास॑त॒। इत्यु॑प॒ऽ। आस॑ते। उ॒तो। इत्यु॒तो। तेषा॑म्। अ॒भिश॑र्त॒रित्य॒भिऽगृ॑र्तिः। नः॒। इ॒न्व॒तु॒। ४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ये । वा॒जिन॑म् । प॒रि॒पश्य॒न्तीति॑ परि-पश्य॑न्ति । प॒क्वम् । ये । ई॒म् । आ॒हुः । सु॒र॒भिः । निरिति॑ । ह॒र॒ । इति॑ ॥ ये । च॒ । अर्व॑तः । माँ॒स॒भि॒क्षामिति॑ माँस-भि॒क्षाम् । उ॒पास॑त॒ इत्यु॑प-आस॑ते । उ॒तो इति॑ । तेषा॑म् । अ॒भिगू॑र्ति॒रित्य॒भि-गू॒र्तिः॒ । नः॒ । इ॒न्व॒तु॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -383,6 +394,11 @@ _________
 ये च देवा अर्वतो मांसभिक्षाम् उपासते मांसं याचन्ते तेषामभिगूर्तिः संकल्पः नो ऽस्मान् प्रीणयतु सुफलो भवतु ॥४॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+ये पुरुषा वाजिनमेतमश्वं पक्वं पाकं प्राप्तं परिपश्यन्ति षरित आगत्याऽऽदूरेण पश्यन्ति, य ईं येऽप्यन्ये सुरभिः सुगन्धोऽयमश्वोऽस्मान्निर्हर निष्कृष्याल्पमाहरेत्याहुः, उतो अपि च ये चान्येऽर्वतोश्वस्य संबन्धिनीं मांसभिक्षामुपासते प्रार्थयन्ते, तेषां सर्वेषामभिगूर्तिः संकल्पो न इन्वतु प्राप्नोत्वस्माकं श्रेयते भवत्वित्यर्थः।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर कौन रोकने योग्य है, इस विषय को अगले मन्त्र में कहा है ॥
@@ -448,6 +464,13 @@ I do not believe that bhikṣā́- has yet developed the later ubiquitous sense 
 
 They who observing that the Horse is ready call out and say, the smell is good; remove it;  
      And, craving meat, await the distribution,--may their approving help promote labour.
+</details>
+
+<details><summary>Keith</summary>
+
+Those who watch for the cooking of the strong one, And call out, 'It is fragrant; take it out,'  
+And who wait to beg for the meat of the steed,  
+May their approval quicken us.
 </details>
 
 <details><summary>Geldner</summary>

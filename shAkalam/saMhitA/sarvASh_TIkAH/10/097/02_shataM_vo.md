@@ -86,6 +86,12 @@ me ← ahám (pronoun)
 अधा॑ शतक्रत्वो यू॒यमि॒मं मे॑ अग॒दं कृ॑त ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+श॒तव्ँवो॑ अम्ब॒ धामा॑नि स॒हस्र॑मु॒त वो॒ रुहः॑ ।  
+अथा॑ शतक्रत्वो यू॒यमि॒मम्मे॑ अग॒दङ्कृ॑त ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 श॒तम् । वः॒ । अ॒म्ब॒ । धामा॑नि । स॒हस्र॑म् । उ॒त । वः॒ । रुहः॑ ।  
@@ -100,6 +106,11 @@ me ← ahám (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 श॒तम्। वः॒। अ॒म्ब॒। धामा॑नि। स॒हस्र॑म्। उ॒त। वः॒। रुहः॑। अध॑। श॒त॒क्र॒त्व॒ इति॑ शतऽक्रत्वः। यू॒यम्। इ॒मम्। मे॒। अ॒ग॒द॒म्। कृ॒त॒। २।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+श॒तम् । वः॒ । अ॒म्ब॒ । धामा॑नि । स॒हस्र॑म् । उ॒त । वः॒ । रुहः॑ ॥ अथ॑ । श॒त॒क्र॒त्व॒ इति॑ शत-क्र॒त्वः॒ । यू॒यम् । इ॒मम् । मे॒ । अ॒ग॒दम् । कृ॒त॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -280,6 +291,14 @@ _________
 तम् अगदं कृत कुरुध्वम् ॥२॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हेऽम्ब मातृस्थानीया ओषधयो वो युष्माकं धामानि जातिभेदाः क्षेत्राणि वा शतं सन्ति ।  
+उतापि च वो युष्माकं रुहः प्ररोहा अङ्कुराश्च सहस्रं सन्ति ।  
+सहस्रमित्यासामपरिमितत्वमुपलक्ष्यते ।  
+अथैवं बहुभेदोपेतत्वे सति शतसंख्याकाः क्रतवो याभिर्युष्माभिर्निष्पाद्यन्ते तादृश्यः शतक्रत्वे यूयं मे मदीयमिमं यजमानमगदं कृत क्षुत्पिपासादिरोगरहितं कुरूत ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 मनुष्य क्या करके किस को सिद्ध करें, यह विषय अगले मन्त्र में कहा है ॥
@@ -333,6 +352,13 @@ So then, o you all who possess a hundred strategies, make this (man)  here to be
 
 Ye, Mothers, have a hundred homes, yea, and a thousand are your growths.  
      Do ye who have a thousand powers free this my patient from disease.
+</details>
+
+<details><summary>Keith</summary>
+
+A hundred, O mother, are your abodes, A thousand too your shoots,  
+Therefore do ye, with a hundred powers,  
+Make him whole for me.
 </details>
 
 <details><summary>Geldner</summary>

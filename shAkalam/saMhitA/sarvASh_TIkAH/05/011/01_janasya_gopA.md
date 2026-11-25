@@ -89,6 +89,12 @@ ví ← ví (invariable)
 घृ॒तप्र॑तीको बृह॒ता दि॑वि॒स्पृशा॑ द्यु॒मद्वि भा॑ति भर॒तेभ्यः॒ शुचिः॑ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+जन॑स्य गो॒पा अ॑जनिष्ट॒ जागृ॑विर॒ग्निस्सु॒दक्ष॑स्सुवि॒ताय॒ नव्य॑से ।    
+घृ॒तप्र॑तीको बृह॒ता दि॑वि॒स्पृशा॑ द्यु॒मद्वि भा॑ति भर॒तेभ्य॒श्शुचिः॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 जन॑स्य । गो॒पाः । अ॒ज॒नि॒ष्ट॒ । जागृ॑विः । अ॒ग्निः । सु॒ऽदक्षः॑ । सु॒वि॒ताय॑ । नव्य॑से ।  
@@ -339,6 +345,11 @@ _________
 शिश्रियाणं वनेवने ओषधि-वनस्पतीन् संश्रयमाणं पुनर् अङ्गिर् असः अन्वविन्दन् ।' स जायसे मथ्यमानः सहो महत् ' । महता बलेन अरणिकाष्ठेषु मध्यमानः अरणे: जायसे । यतो ऽतः हे 'अङ्गिरः, "वां "सहसः 'पुत्रम् आहुः ॥९॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अयमग्निरजनिष्टोत्पन्नः।   किमर्थम्, सुविताय नव्यसे सुष्टु दीप्ताय स्तुतियुक्ताय कर्मणे, एतत्कर्मसिद्ध्यर्थगित्यर्थः।   कीदृशः जनस्य गोपाः प्राणिनो रक्षकः।   सुदक्षोऽत्यन्तकुशलः।   जागृविः कर्मणि सावधानः।   घृतं प्रतीके मुके यस्यासौ घृतप्रतीकः।   तादृशोऽयमग्निर्वृहता प्रौढेन दिविस्पृश द्युरोकस्पर्शिना ज्वालासमूहेन द्युमद्दीप्यमानः शुचिः शुद्धः सन्भरतेभ्यो भरणकुशरयजमानाद्यर्यं विभाति विशेषेण भासते।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर वह कैसा हो, यह विषय अगले मन्त्र में कहा है ॥
@@ -399,6 +410,14 @@ His face covered with ghee, blazing (Agni) radiates brilliantly for the  Bharata
 
 THE watchful Guardian of the people hath been born, Agni, the very strong, for fresh prosperity.  
      With oil upon his face, with high heaventouching flame, he shineth splendidly, pure, for the Bharatas.
+</details>
+
+<details><summary>Keith</summary>
+
+He hath been born as guardian of men, wakeful,  
+Agni, skilful, for fresh prosperity;  
+Ghee-faced, with mighty sky-reaching (blaze)  
+He shineth gloriously, pure for the Bharatas.
 </details>
 
 <details><summary>Oldenberg</summary>

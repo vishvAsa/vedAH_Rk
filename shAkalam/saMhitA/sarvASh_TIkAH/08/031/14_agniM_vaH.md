@@ -204,6 +204,14 @@ I glorify with song, for wealth, Agni the God, the first of you.
      We honour as a well-loved Friend the God who prospereth our fields.
 </details>
 
+<details><summary>Keith</summary>
+
+Agni for you I honour in song,  
+The god first of the bright ones;  
+Honouring him who prospereth the fields  
+Like a much loved friend.
+</details>
+
 <details><summary>Geldner</summary>
 
 Agni berufe ich euch, den Gott als Ersten der Vasu´s mit meiner Lobrede, den Viellieben in Ehren haltend wie einen Freund und Mittler, der den Streit um die Felder schlichtet.

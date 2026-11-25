@@ -107,6 +107,12 @@ vidhema ← √vidh- (root)
 य ईशे॑ अ॒स्य द्वि॒पद॒श्चतु॑ष्पदः॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥१॥ ३
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यᳶ प्रा॑ण॒तो नि॑मिष॒तो म॑हि॒त्वैक॒ इद्राजा॒ जग॑तो ब॒भूव॑ ।  
+य ईशे॑ अ॒स्य द्वि॒पद॒श्चतु॑ष्पद॒ᳵ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । प्रा॒ण॒तः । नि॒ऽमि॒ष॒तः । म॒हि॒ऽत्वा । एकः॑ । इत् । राजा॑ । जग॑तः । ब॒भूव॑ ।  
@@ -121,6 +127,11 @@ vidhema ← √vidh- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यः। प्रा॒ण॒तः। नि॒मि॒ष॒त इति॑ निऽमिष॒तः। म॒हि॒त्वेति॑ महि॒ऽत्वा। एकः॑। इत्। राजा॑। जग॑तः। ब॒भूव॑। यः। ईशे॑। अ॒स्य। द्वि॒पद॒ इति॑ द्वि॒ऽपदः॑। चतु॑ष्पदः। चतुः॑पद इति॒ चतुः॑पदः। कस्मै॑। दे॒वाय॑। ह॒विषा॑। वि॒धे॒म॒। १।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यः । प्रा॒ण॒त इति॑ प्र-अ॒न॒तः । नि॒मि॒ष॒त इति॑ नि-मि॒ष॒तः । म॒हि॒त्वेति॑ महि-त्वा । एकः॑ । इत् । राजा॑ । जग॑तः । ब॒भूव॑ ॥ यः । ईशे॑ । अ॒स्य॒ । द्वि॒पद॒ इति॑ द्वि-पदः॑ । चतु॑ष्पद॒ इति॒ चतुः॑-प॒दः॒ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -396,6 +407,19 @@ _________
 अथ तृतीया -
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यः प्रजापतिरेक इदेक एव प्राणतः श्वासयुक्तस्य  
+१८२२ निमिषतश्चक्षूर्निमेषयुक्तस्य च सर्वस्य जगतो महित्वा स्वमहिम्ना राजा बभूव ।  
+अत एव यः प्रजापतिरस्य द्विपदो मनुष्यादेश्चतुष्पदो गवादेश्चेसे नियमनाव समर्थो भवति।  
+तादृशाय कस्यै देवाय हविषा विधेम ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+इयं च व्याख्याता 'ऊर्ध्वा अस्य समिधः' इत्यत्र । यः प्राणतो निमिषतश्च जगतो निजमाहात्म्येन य एक एव राजा बभूव, यश्चेष्टे अस्य द्विपदः चतुष्पदः कस्मै अज्ञातव्रतस्वभावाय देवाय हविषा परिचरेम ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -449,6 +473,19 @@ who is lord of the two-footed and four-footed creatures here— – Who is  the 
 
 Who by his grandeur hath become Sole Ruler of all the moving world that breathes and slumbers;  
      He who is Lord of men and Lord of cattle. What God shall we adore with our oblation?
+</details>
+
+<details><summary>Keith</summary>
+
+He that alone by his might is king  
+Of the breathing, the winking world,  
+Who is lord of these bipeds and quadrupeds;  
+To what god shall we offer with oblation?
+</details>
+
+<details><summary>Keith (तैत्तिरीयम्)</summary>
+
+Who is the sole lord of the world, Which breatheth and winketh, through his greatness, Who is the lord of biped and of quadruped here, Who is the god whom we are to worship with oblation?
 </details>
 
 <details><summary>Griffith (माध्यन्दिनम्)</summary>

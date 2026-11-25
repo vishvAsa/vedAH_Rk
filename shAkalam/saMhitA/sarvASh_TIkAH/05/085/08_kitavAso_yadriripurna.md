@@ -327,6 +327,14 @@ If we, as gamesters cheat at play, have cheated, done wrong unwittingly or sinne
      Cast all these sins away like loosened fetters, and, Varuna let us be thine own beloved.
 </details>
 
+<details><summary>Keith</summary>
+
+As gamesters cheat in dicing,  
+What we know in truth or what we know not,  
+All that do thou, O god, loosen as it were,  
+And may we be dear to thee, O Varuna.
+</details>
+
 <details><summary>Geldner</summary>
 
 Wenn wir wie Spieler bei dem Spiele betrogen haben, ob wir es gewiß wissen, ob nicht, all das löse von uns wie lockere Bande, o Gott! So mögen wir deine Lieblinge sein, o Varuna.

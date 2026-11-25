@@ -95,6 +95,12 @@ sūnā́ḥ ← sūnā́- (nominal stem)
 ऊ॒ष्म॒ण्या᳖ऽपि॒धाना॑ चरू॒णाम॒ङ्काः सू॒नाः परि॑ भूष॒न्त्यश्व॑म् ॥३६ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यन्नीक्ष॑णम्माँ॒स्पच॑न्या उ॒खाया॒ या पात्रा॑णि यू॒ष्ण आ॒सेच॑नानि ।  
+ऊ॒ष्म॒ण्या॑पि॒धाना॑ चरू॒णाम॒ङ्कास्सू॒नाᳶ परि॑ भूष॒न्त्यश्व॑म् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । नि॒ऽईक्ष॑णम् । मां॒स्पच॑न्याः । उ॒खायाः॑ । या । पात्रा॑णि । यू॒ष्णः । आ॒ऽसेच॑नानि ।  
@@ -109,6 +115,11 @@ sūnā́ḥ ← sūnā́- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यत्। नीक्ष॑ण॒मिति॑ नि॒ऽईक्ष॑णम्। माँ॒स्पच॑न्या॒ इति॑ माँ॒स्पच॑न्याः। उ॒खायाः॑। या। पात्रा॑णि। यू॒ष्णः। आ॒सेच॑ना॒नीत्या॒ऽसेच॑नानि। ऊ॒ष्म॒ण्या᳖। अ॒पि॒धानेत्य॑पि॒ऽधाना॑। च॒रू॒णाम्। अङ्काः॑। सू॒नाः। परि॑। भू॒ष॒न्ति॒। अश्व॑म्। ५।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यत् । नीक्ष॑णम् । माँ॒स्पच॑न्याः । उ॒खायाः॑ । या । पात्रा॑णि । यू॒ष्णः । आ॒सेच॑ना॒नीत्या॑-सेच॑नानि ॥ ऊ॒ष्म॒ण्या॑ । अ॒पि॒धानेत्य॑पि-धाना॑ । च॒रू॒णाम् । अ॒ङ्काः । सू॒नाः । परीति॑ । भू॒ष॒न्ति॒ । अश्व॑म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -384,6 +395,11 @@ Vअङ्काः चिह्न-रूपाः।
 विशसन-कारणीभूताः स्वधितादयश्चैते अश्वं परिभूषयन्तीति संबन्धः॥५॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+मांसं पच्यते यस्यामुखायां सा मांस्पचनी, तस्या उखाया नीक्षणं नितरमीक्षणमादरेण दर्शनं यदस्ति, यानि च पात्राणि यूष्णो रसस्याऽऽसेचनानि सर्वतः सेचनाधारभूतानि, चरूणां मांसादीनामपिधानाऽऽच्छादनपात्राणि ??? ऊष्मण्योष्मरक्षणार्थानि यानि सन्ति, अङ्का मांसलेनाङ्किताः सूनाः स्वधितिवेतसशाखाद्या याः सन्ति, तानि सर्वाण्यश्वं परिभूषन्ति अश्वस्य यत्कार्यं तदेव कुर्वन्तीत्यर्थः ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर किस को क्या देखना चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
@@ -451,6 +467,15 @@ baskets are in attendance around the horse.
 
 The trial-fork of the flesh-cooking caldron, the vessels out of which the broth is sprinkled,  
      The warming-pots, the covers of the dishes, hooks, carving-boards,--all these attend the Charger.
+</details>
+
+<details><summary>Keith</summary>
+
+The trial spoon of the meat-cooking pot,  
+The vessels to hold the juice,
+  
+The coverings of the dishes for warming,  
+The hooks, the crates, attend the steed.
 </details>
 
 <details><summary>Geldner</summary>

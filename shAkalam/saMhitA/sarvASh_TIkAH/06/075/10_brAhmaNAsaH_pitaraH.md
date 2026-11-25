@@ -392,6 +392,15 @@ The Brahmans, and the Fathers meet for Soma-draughts, and, graciously inclined, 
      Guard us trom evil, Pusan, guard us strengtheners of Law: let not the evil-wisher master us.
 </details>
 
+<details><summary>Keith</summary>
+
+The Brahmans [3], the fathers worthy of the Soma, And sky and earth, unequalled be propitious to us; May Pusan guard us from misfortune, us that prosper holy order Do thou guard; may no foe overpower us.  
+I A feather her garment, a deer her tooth,  
+Tied with cowhide she flieth shot forth;  
+Where men run together and apart,  
+There may the arrows accord us protection.
+</details>
+
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 The Brâhmans, and the Fathers meet for Soma draughts, and, graciously inclined, unequalled Heaven and Earth. Guard us from evil, Pûshan! guard us strengtheners of Law! let not the evil-wisher master us.

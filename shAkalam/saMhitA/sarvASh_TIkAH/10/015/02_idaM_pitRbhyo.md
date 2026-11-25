@@ -288,6 +288,14 @@ Now let us pay this homage to the Fathers, to those who passed of old and those 
      Those who have rested in the earthly region, and those who dwell among the Mighty Races.
 </details>
 
+<details><summary>Keith</summary>
+
+Be this homage to-day to the fathers,  
+Who went before and who went after;  
+Who are seated in the earthly region  
+Or who are now in abodes with fair dwellings.
+</details>
+
 <details><summary>Geldner</summary>
 
 Diese Verbeugung soll heute den Vätern gelten, die früher und die später gegangen sind, die sich in der irdischen Welt niedergesetzt haben, oder die jetzt bei verbündeten Clanen sind.

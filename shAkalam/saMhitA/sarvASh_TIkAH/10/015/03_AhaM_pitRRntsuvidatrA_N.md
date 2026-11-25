@@ -281,6 +281,14 @@ Those who, sitting on the ritual grass, share in the pressed soma and the  food 
      They who enjoy pressed juices with oblation seated on sacred grass, come oftenest hither.
 </details>
 
+<details><summary>Keith</summary>
+
+I have found the kindly fathers,  
+The scion and the step of Visnu;  
+They that sit on the sacrificial strew and enjoy the drink  
+That is pressed for them with the Svadha call are most eager to come hither.
+</details>
+
 <details><summary>Geldner</summary>
 
 Ich habe die leicht aufzufindenden Väter aufgefunden, den Enkel und den Schritt des Vishnu. Die Manen, die auf dem Barhis sitzend nach Herzenslust vom ausgepreßten Trank genießen, die kommen am liebsten hierher!

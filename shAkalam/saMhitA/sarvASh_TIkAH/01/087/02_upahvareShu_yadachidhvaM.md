@@ -101,10 +101,21 @@ ukṣata ← √ukṣ- (root)
 श्चोत॑न्ति॒ कोशा॒ उप॑ वो॒ रथे॒ष्वा घृ॒तमु॑क्षता॒ मधु॑वर्ण॒मर्च॑ते ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+उ॒प॒ह्व॒रेषु॒ यदचि॑ध्वय्ँय॒यिव्ँवय॑ इव मरुत॒ᳵ केन॑ [35]  चि॒त्प॒था ।  
+श्चोत॑न्ति॒ कोशा॒ उप॑ वो॒ रथे॒ष्वा घृ॒तमु॑क्षता॒ मधु॑वर्ण॒मर्च॑ते ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒प॒ऽह्व॒रेषु॑ । यत् । अचि॑ध्वम् । य॒यिम् । वयः॑ऽइव । म॒रु॒तः॒ । केन॑ । चि॒त् । प॒था ।  
 श्चोत॑न्ति । कोशाः॑ । उप॑ । वः॒ । रथे॑षु । आ । घृ॒तम् । उ॒क्ष॒त॒ । मधु॑ऽवर्ण॑म् । अर्च॑ते ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+उ॒प॒ह्व॒रेष्वि॑त्युप-ह्व॒रेषु॑ । यत् । अचि॑ध्वम् । य॒यिम् । वयः॑ । इ॒व॒ । म॒रु॒तः॒ । केन॑ । चि॒त् । प॒था ॥ श्चोत॑न्ति । कोशाः॑ । उपेति॑ । वः॒ । रथे॑षु । एति॑ । घृ॒तम् । उ॒क्ष॒त॒ । मधु॑वर्ण॒मिति॒ मधु॑-व॒र्ण॒म् । अर्च॑ते ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -240,6 +251,15 @@ _________
 हे **मरुतः** **उपह्वरेषु** उपह्वर्तव्येषु गन्तव्येष्वस्माकं संनिकृष्टेषु नभसः प्रदेशेषु **यत्** यदा **ययिं** गतिमन्तं मेघम् **अचिध्वं** वर्षणसामर्थ्येनोपचितं कुरुथ । किं कुर्वन्तः । **वयइव** पक्षिण इव **केन** **चित्** **पथा** केनचिदाकाशमार्गेण शीघ्रं गच्छन्तः । नभसि शीघ्रं वर्षणार्थं प्रवर्तमानैर्मरुद्भिर्मेघा उपचीयन्ते इत्यर्थः । तदानीं **कोशाः** । मेघनामैतत् । **वः** युष्माकं **रथेषु** आसक्ता मेघाः **श्चोतन्ति** जलं मुञ्चन्ति । यस्मादेवं तस्मात् हे मस्तो यूयम् **अर्चते** युष्मान् हविर्भिः पूजयते मह्यं यजमानाय **मधुवर्णं** मधुसदृशरूपं स्वच्छं **घृतं** वृष्ट्युदकम् **आ** समन्तात् **उक्षत** सिञ्चत । अस्मदभिलषितां वृष्टिं कुरुतेत्यर्थः ॥ उपहृरेषु ।  ‘ ह्वृ कौटिल्ये '। उपह्वरन्ति कौटिल्येन तिर्यग्गच्छन्त्येष्विति उपह्वरा नभःप्रदेशाः। ‘पुंसि संज्ञायां घः प्रायेण ' इति अधिकरणे घः। अचिध्वम् । चिनोतेः वर्तमाने लङ् । ‘बहुलं छन्दसि' इति विकरणस्य लुक् । ययिम् । ' या प्रापणे '।  ‘ आदृगमहनजनः । इति किप्रत्ययः । पथा । आङि  ‘ भस्य टेर्लोपः' इति दिलोपः। उदात्तनिवृत्तिस्वरेण विभक्तेरुदात्तत्वम् । श्चोतन्ति । श्च्युतिर् क्षरणे ' । छान्दसो यलोपः । उक्षत । उक्ष सेचने '। लोटि तशब्दस्य ङित्त्वे सति ऋचि तुनुघ' ' इत्यादिना सांहितिको दीर्घः ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे मरुतो यद् यदा वय इव पक्षिण इव यूयं केनचिच् चित् पथा केनापि मार्गेणोपह्वरेषूपेत्य हर्तव्येषु ताडनीयेषु मेघेषु यमिमचिध्वं गतिं संपादितवन्तः।
+यदा जल-पूर्ण-मेघम् आस्फालयन्ति भवन्त इत्य् अर्थः।
+तदानीं कोशा घन-पूर्ण-गृह-सदृशा जल-पूर्णा मेघा वो युष्माकं रथेषूप समीपम् आगतेषु सत्सु श्रोतन्ति जलं स्रावयन्ति।
+
+यूयम् अप्य् अर्चत यजमानाय मधु-वर्णं मधुर-रसोपेतं घृतं घृत-समानम् उदकम् आ समन्ताद् उक्षत सिञ्चत।
+</details>
+
 <details><summary>Wilson</summary>
 
 ## English translation:
@@ -266,6 +286,27 @@ On upahvará- see disc. ad I.62.6.
 
 When, Maruts, on the steeps ye pile the moving cloud, ye are like birds on whatsoever path it be.  
      Clouds everywhere shed forth the rain upon your cars. Drop fatness, honey-hued, for him who sings your praise.
+</details>
+
+<details><summary>Keith</summary>
+
+What time on the steeps ye pile the moving one,  
+Like birds, O Maruts, on whatever path [7],  
+The clouds spill their water on your chariots;  
+Do ye sprinkle for the praiser ghee of honey hue.  
+aa Agni with invocations  
+They ever invoke, lord of the people,  
+Bearer of the oblation, dear to many.  
+bb For him they ever praise,  
+The god with ladle dripping ghee,  
+Agni to bear the oblation.  
+cc O Indra and Agni, the spaces of sky.
+
+dd Pierce Vrtra.  
+ee Indra from all sides.  
+ff Indra men.  
+gg O Viśvakarman, waxing great with the oblation.  
+hh O Viśvakarman, with the oblation as strengthening.
 </details>
 
 <details><summary>Geldner</summary>

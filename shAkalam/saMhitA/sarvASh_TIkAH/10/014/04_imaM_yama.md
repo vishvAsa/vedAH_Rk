@@ -276,6 +276,14 @@ Come, seat thee on this bed of grass, O Yama, in company with Angirases and Fath
      Let texts recited by the sages bring thee O King, let this oblation make thee joyful.
 </details>
 
+<details><summary>Keith</summary>
+
+Sit on this strew, O Yama,  
+In accordance with the Angirases, the fathers;  
+Let the verses made by the poets bring thee hither;  
+Rejoice, O king, in this offering.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Upon this sacred grass sit down, O Yama, Uniting with the Aṅgiras, our fathers. Let spells recited by the sages bring thee; Do thou, O king, rejoice in this oblation.

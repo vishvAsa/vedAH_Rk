@@ -275,6 +275,14 @@ Mitali prospers there with Kavyas, Yama with Angiras' sons, Brhaspati with Rkvan
      Exalters of the Gods, by Gods exalted, some joy in praise and some in our oblation.
 </details>
 
+<details><summary>Keith</summary>
+
+Matali with the Kavyas, Yama with the Angirases,  
+Brhaspati rejoicing with the Rkvans,  
+Those whom the gods magnified and those who magnified the gods;  
+Some in the Svaha call, some in the Svadha rejoice [5].
+</details>
+
 <details><summary>Geldner</summary>
 
 Matali mit den Kavya´s, Yama mit den Angiras, Brihaspati von den Sängern erhöht, welchen die Götter zur Erhöhung verholfen haben und welche den Göttern: die einen ergötzen sich unter Svaharuf, die anderen an der Götterspeise.

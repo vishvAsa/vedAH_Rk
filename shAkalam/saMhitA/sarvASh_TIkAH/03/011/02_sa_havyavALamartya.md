@@ -97,6 +97,11 @@ sám ← sám (invariable)
 अ॒ग्निः। धि॒या। सम्। ऋ॒ण्व॒ति॒। ८।
 </details>
 
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+सः । ह॒व्य॒वाडिति॑ हव्य-वाट् । अम॑र्त्यः । उ॒शिक् । दू॒तः । चनो॑हितः ॥ अ॒ग्निः । धि॒या । समिति॑ । ऋ॒ण्व॒ति॒ ॥
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *sa* ← *tad*
@@ -251,6 +256,11 @@ _________
 "उशिक्, वष्टि उश्यते वा सर्वैरित्युशिक्, कमनीयः मेधावी वा । दूतः देवानां दौस्यकर्ता । 'चनोहितः । चन इत्य् अन्ननाम । चनसे ऽन्नाय हितः । हवीरूपान् नस्य आदानाय स्थापितः ॥ ८ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+स्विष्टकृद्रूपोऽग्निर्धिया करुणायुक्तेन चेतसा समृण्वति सम्यगिह प्राप्नोतु ।   कीदृशोऽग्निः ।   हव्यं वहतीति हव्यवाट् ।   अमर्त्यो मरणरहितः ।   उशिगनुग्रहपूर्वमस्मान्कामयमानः ।   दूतो देवानामाज्ञाकारी ।   चनोहिताः, चनसां मनुष्याणां यजमाननां हितोऽभष्टिकारी।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर अग्नि कैसा है, इस विषय को अगले मन्त्र में कहा है ॥
@@ -309,6 +319,13 @@ Agni through insight assembles (the sacrifice).
 
 Oblation-bearer, deathless, well inclined, an eager messenger,  
      Agni comes nigh us with the thought.
+</details>
+
+<details><summary>Keith</summary>
+
+Bearing the oblation, immortal,  
+The eager messenger, well-inclined,  
+Agni uniteth with our prayer.
 </details>
 
 <details><summary>Oldenberg</summary>

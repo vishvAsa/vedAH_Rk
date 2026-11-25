@@ -60,10 +60,21 @@ samudrávāsasam ← samudrávāsas- (nominal stem)
 अ॒ग्निं स॑मु॒द्रवा॑ससम् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+हु॒वे वात॑स्वनङ्क॒विम्प॒र्जन्य॑क्रन्द्यँ॒ सहः॑ ।   
+अ॒ग्निँ स॑मु॒द्रवा॑ससम् ॥ [42]
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 हु॒वे । वात॑ऽस्वनम् । क॒विम् । प॒र्जन्य॑ऽक्रन्द्यम् । सहः॑ ।  
 अ॒ग्निम् । स॒मु॒द्रऽवा॑ससम् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+हु॒वे । वात॑स्वन॒मिति॒ वात॑-स्व॒न॒म् । क॒विम् । प॒र्जन्य॑क्रन्द्य॒मिति॑ प॒र्जन्य॑-क्र॒न्द्य॒म् । सहः॑ ॥ अ॒ग्निम् । स॒मु॒द्रवा॑सस॒मिति॑ समु॒द्र-वा॒स॒स॒म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -143,6 +154,17 @@ _________
 **वातस्वनं** वातसदृशध्वनिं **कविं** क्रान्तकर्माणं **पर्जन्यक्रन्द्यं** पर्जन्यसदृशक्रन्दनं **सहः** सहस्विनं वाडवम् **अग्निं** **हुवे** ह्वयामि । अन्यद्गतम् ॥ ॥ ९ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+35तृतीया - वातस्वनं वातस्वनवन्तं कविं क्रान्तदर्शनं पर्जन्यक्रन्द्यं पर्जन्यवत्सर्वैराह्वातव्यं सर्वेषां प्रियं । उभयत्राप्युपमानपूर्वपदप्रकृतिस्वरत्वम् । सहः सर्वेषां बलं; तद्धेतुत्वात् । यद्वा - सहस्वन्तम् । मत्वर्थीयो लुप्यते । ईदृशमग्निं समुद्रवाससं हुवे आह्वयामीति ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+इति भट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये तृतीयकाण्डे प्रथमप्रपाठके एकादशोनुवाकः ॥
+समाप्तश्च प्रपाठकः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -161,6 +183,13 @@ upon Agni, whose garment is the sea.
 
 1 call the Sage who sounds like wind, the Might that like Parjanya roars,  
      Agni who clothes him with the sea.
+</details>
+
+<details><summary>Keith</summary>
+
+I call the wise one, who soundeth like the wind,  
+The might that roareth like Parjanya,  
+Agni who is clothed with the sea.
 </details>
 
 <details><summary>Geldner</summary>

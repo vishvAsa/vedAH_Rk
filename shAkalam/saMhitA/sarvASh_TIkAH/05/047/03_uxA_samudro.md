@@ -104,6 +104,12 @@ ví ← ví (invariable)
 मध्ये॑ दि॒वो निहि॑तः॒ पृश्नि॒रश्मा॒ वि च॑क्रमे॒ रज॑सस्पा॒त्यन्तौ॑ ॥६० ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+उ॒क्षा स॑मु॒द्रो अ॑रु॒णस्सु॑प॒र्णᳶ पूर्व॑स्य॒ योनि॑म्पि॒तुरा वि॑वेश ।  
+मध्ये॑ दि॒वो निहि॑त॒ᳶ पृश्ञि॒रश्मा॒ वि च॑क्रमे॒ रज॑सᳶ पा॒त्यन्तौ॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒क्षा । स॒मु॒द्रः । अ॒रु॒षः । सु॒ऽप॒र्णः । पूर्व॑स्य । योनि॑म् । पि॒तुः । आ । वि॒वे॒श॒ ।  
@@ -118,6 +124,11 @@ ví ← ví (invariable)
 <details><summary>पदपाठः - काण्वः</summary>
 
 उ॒क्षा। स॒मु॒द्रः। अ॒रु॒णः। सु॒प॒र्ण इति॑ सुऽप॒र्णः। पूर्व॑स्य। योनि॑म्। पि॒तुः। आ। वि॒वे॒श॒। मध्ये॑। दि॒वः। निहि॑त॒ इति॒ निऽहि॑तः। पृश्निः॑। अश्मा॑। वि। च॒क्र॒मे॒। रज॑सः। पा॒ति॒। अन्तौ॑। ११।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+उ॒क्षा । स॒मु॒द्रः । अ॒रु॒णः । सु॒प॒र्ण इति॑ सु-प॒र्णः । पूर्व॑स्य । योनि॑म् । पि॒तुः । एति॑ । वि॒वे॒श॒ ॥ मध्ये॑ । दि॒वः । निहि॑त॒ इति॒ नि-हि॒तः॒ । पृश्ञिः॑ । अश्मा॑ । वीति॑ । च॒क्र॒मे॒ । रज॑सः । पा॒ति॒ । अन्तौ॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -398,6 +409,17 @@ _________
 " लोकानाम् अन्तान् पाति ” इति श्रुतेः ॥ ६० ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अयगश्मोक्षा गेघो यागद्वारेण फलाभिवर्षक इत्यर्थः।  
+समुद्रो बहुफलप्रदत्वात्समुद्रसदृशः।  
+अरुणः पूर्वमन्त्रे सर्वप्रकाशकत्वेनोपचरितत्वात्सूर्यसदृशः।  
+सुपर्णः स्वर्गं प्रत्युद्गमनहेतुत्वात्पक्षिसदृशः।  
+तथाविधोऽश्मा पितुः पालकस्य पूर्वदिग्वर्तिन आहवनीयस्य योनिं कारणभूतमाग्नीघ्नमाविवेश  
+७६ प्रविष्टवान्।    येषां दीक्षितानामाहवनीय उद्वायेदाग्नीघ्रादुद्धरेत्’ इत्याहवनीययोनित्वमाग्नीघ्रस्यान्यत्राऽऽम्नातम्।  
+अयं पृश्निः श्वेतवर्णोऽश्गा दिवो मध्ये निहितः स्थापितः सन्रजसो रञ्जनीयस्य जगतोऽन्तावुत्पत्तिप्रलयरूपं कोटिद्वयं पाति परमेश्वररूपेण पालयति।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -461,6 +483,14 @@ In this riddle vs. the referent is not explicitly named, and in fact an initiall
 
 Steer, Sea, Red Bird with strong wings, he hath entered the dwelling-place of the Primeval Father.  
      A gay-hued Stone set in the midst of heaven, he hath gone forth and guards mid-air's two limits.
+</details>
+
+<details><summary>Keith</summary>
+
+Bull, ocean, ruddy bird,  
+He hath entered the birthplace of his ancient sire;  
+In the middle of the sky is the dappled stone set down  
+He hath stepped apart, he guardeth the two ends of space.
 </details>
 
 <details><summary>Geldner</summary>

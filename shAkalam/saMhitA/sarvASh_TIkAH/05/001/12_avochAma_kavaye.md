@@ -95,6 +95,12 @@ uruvyáñcam ← uruvyáñc- (nominal stem)
 गवि॑ष्ठिरो॒ नम॑सा॒ स्तोम॑म॒ग्नौ दि॒वी᳖व रु॒क्ममु॑रु॒व्यञ्च॑मश्रेत् ॥२५ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अवो॑चाम क॒वये॒ मेध्या॑य॒ वचो॑ व॒न्दारु॑ वृष॒भाय॒ वृष्णे॑ ।    
+गवि॑ष्ठिरो॒ नम॑सा॒ स्तोम॑म॒ग्नौ दि॒वीव॑रु॒क्ममु॒र्व्यञ्च॑मश्रेत् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अवो॑चाम । क॒वये॑ । मेध्या॑य । वचः॑ । व॒न्दारु॑ । वृ॒ष॒भाय॑ । वृष्णे॑ ।  
@@ -346,6 +352,11 @@ _________
 गवि वचि स्थिरः अप्रचाल्यः । तस्य हि अग्निर् अधिष्ठात्री देवता । नमसा । नम इत्य् अन्न-नाम । अन्नेन संयुक्तं स्तोमं स्तुतिम् अग्नौ श्री-भगवति अत् अग्नि-स्तुति-मकरोत् । कथम् इव ? ' दिवीव रुक्मम् ' । यथा द्यु-मण्डले रुक्मं रोचमानम् 'उरु-व्यचं बहुविधविशिष्टगमन- संपन्नम् आदित्यं स्वरसौष्ठवादिभिर् युक्त-स्तोमैर् आश्रयति ॥६॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+वयं कवये विदुषे वह्रये वचो वाक्यमवोचाम कीदृसाय कवये, मेध्याय यज्ञयोग्याय वृषभाय श्रेष्ठाय, वृष्णे कामानां वर्षयित्रे गंविष्टिरो गविष्ठिराय भूमौ स्थिरत्वेनावस्थिताय।   कीदृशं वचः, अग्नौ नमस स्तोमग्निविषये नमस्कारेण युक्त स्तोत्ररूपमत एव वन्दारु वन्दनशीलम्।   तत्र दृष्टान्तः यथा दिवि द्युलोके रुक्मं रोचमानमुर्व्यञ्चं विस्तीर्णगतिमादित्यं संध्यावन्दनादिषु ब्राह्मणैः प्रयुक्तं वाक्यमश्रेदाश्रयति तद्वदस्मद्वचोऽपि वह्निमाश्रयतु।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर वह कैसा है, यह विषय अगले मन्त्र में कहा है ॥
@@ -401,6 +412,14 @@ resting the wide-spreading golden disk in heaven.
 
 To him adorable, sage, strong and mighty we have sung forth our song of praise and homage.  
      Gavisthira hath raised with prayer to Agni this laud far-reaching, like gold light to heaven.
+</details>
+
+<details><summary>Keith</summary>
+
+We have uttered to the sage, the worshipful,  
+Our voice of praise, to the strong bull;  
+Gavisthira with his homage hath raised to Agni this laud,  
+Wide extending like brilliance in the sky.
 </details>
 
 <details><summary>Oldenberg</summary>

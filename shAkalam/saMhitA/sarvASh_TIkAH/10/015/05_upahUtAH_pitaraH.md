@@ -264,6 +264,14 @@ May they, the Fathers, worthy of the Soma, invited to their favourite oblations.
      Laid on the sacred grass, come nigh and listen: may they be gracious unto us and bless us.
 </details>
 
+<details><summary>Keith</summary>
+
+Invoked are the fathers who love the Soma  
+To their dear homes on the sacrificial strew;  
+May they come hither; may they hear us here;  
+May they speak for us; and may they aid us.
+</details>
+
 <details><summary>Geldner</summary>
 
 Die somawürdigen Väter sind jetzt geladen zu den beliebten, auf das Barhis gesetzten Auftischungen. Die sollen herkommen, die sollen hier zuhören, die sollen uns Fürsprecher und gewogen sein!

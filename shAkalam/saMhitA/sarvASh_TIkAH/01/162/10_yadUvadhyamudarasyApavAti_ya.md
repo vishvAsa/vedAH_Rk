@@ -98,6 +98,12 @@ utá ← utá (invariable)
 सु॒कृ॒ता तच्छ॑मि॒तारः॑ कृण्वन्तू॒त मेधँ॑ शृत॒पाकं॑ पचन्तु ॥३३ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यदूव॑ध्यमु॒दर॑स्याप॒वाति॒ य आ॒मस्य॑ क्र॒विषो॑ ग॒न्धो अस्ति॑ ।  
+सु॒कृ॒ता तच्छ॑मि॒तार॑ᳵ कृण्वन्तू॒त मेधँ॑ शृत॒पाक॑म्पचन्तु ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । ऊव॑ध्यम् । उ॒दर॑स्य । अ॒प॒ऽवाति॑ । यः । आ॒मस्य॑ । क्र॒विषः॑ । ग॒न्धः । अस्ति॑ ।  
@@ -112,6 +118,11 @@ utá ← utá (invariable)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यत्। ऊव॑ध्यम्। उ॒दर॑स्य। अ॒प॒वातीत्य॑प॒ऽवाति॑। यः। आ॒मस्य॑। क्र॒विषः॑। ग॒न्धः। अस्ति॑। सु॒कृ॒तेति॑ सुऽकृ॒ता। तत्। श॒मि॒तारः॑। कृ॒ण्व॒न्तु॒। उ॒त। मेध॑म्। शृ॒त॒पाक॒मिति॑ शृत॒ऽपाक॑म्। प॒च॒न्तु॒। २।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यत् । ऊव॑ध्यम् । उ॒दर॑स्य । अ॒प॒वातीत्य॑प-वाति॑ । यः । आ॒मस्य॑ । क्र॒विषः॑ । ग॒न्धः । अस्ति॑ ॥ सु॒कृ॒तेति॑ सु-कृ॒ता । तत् । श॒मि॒तारः॑ । कृ॒ण्व॒न्तु॒ । उ॒त । मेध॑म् । शृ॒त॒पाक॒मिति॑ शृत-पाक॑म् । प॒च॒न्तु॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -329,6 +340,12 @@ _________
 योग्यः पाको यस्मिन् कर्मणि यथा तथेत्यर्थः । अतिपक्वम् ईषत् पक्वं च न कुर्वन्त्व् इत्यर्थः ॥२॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+उदरस्य मध्ये यदूवघ्यमर्धजीर्णपक्वं शकृदादि दुर्गन्धरू पेण वायुना सहाऽऽगच्छति, य आमस्यापक्वस्य क्रविषो मांसस्य गन्धो दुःसहोऽस्ति तत्सर्वं सुकृता सुकृतं यथा भवति तथा शमितारः कृण्वन्तु ।  
+उतापि च मेघं  यज्ञयोग्यं शृतपाकामपाकविपाकौ परित्यज्य सम्यक्पक्वं यथा भवति तथा पचन्तु।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर कौन किसलिये क्या न करें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -386,6 +403,18 @@ The contents of his belly that bloats up, the odor of his raw flesh— let the Q
 
 Food undigested steaming from his belly, and any odour of raw flesh remaining,  
      This let the immolators set in order and dress the sacrifice with perfect cooking.
+</details>
+
+<details><summary>Keith</summary>
+
+The refuse that bloweth forth from the belly,  
+The smell of raw flesh,  
+Let the slayers see that in order  
+Let them cook the fat to a turn.  
+I Whatever flieth away from thy limb  
+As it is cooked by the fire when thou art spitted,  
+Let it fall not on earth, nor on the grass;  
+Be that given to the eager gods.
 </details>
 
 <details><summary>Geldner</summary>

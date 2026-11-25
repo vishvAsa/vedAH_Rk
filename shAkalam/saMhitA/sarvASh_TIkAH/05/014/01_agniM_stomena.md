@@ -303,6 +303,13 @@ Agni—awaken him with a praise song, kindling the immortal one. He will place o
 ENKINDLING the Immortal, wake Agni with song of praise: may he bear our oblations to the Gods.
 </details>
 
+<details><summary>Keith</summary>
+
+Awaken Agni with the praise,  
+Kindling the immortal;  
+May he place our oblations among the gods.
+</details>
+
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Wake Agni with thy laud and set the Immortal One aflame, let him Bestow our offerings on the Gods.

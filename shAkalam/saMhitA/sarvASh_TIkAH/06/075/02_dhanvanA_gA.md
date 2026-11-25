@@ -92,6 +92,12 @@ sárvāḥ ← sárva- (nominal stem)
 धनुः॒ शत्रो॑रपका॒मं कृ॑णोति॒ धन्व॑ना॒ सर्वाः॑ प्र॒दिशो॑ जयेम ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+धन्व॑ना॒ गा धन्व॑ना॒जिञ्ज॑येम॒ धन्व॑ना ती॒व्रास्स॒मदो॑ जयेम ।  
+धनु॒श्शत्रो॑रपका॒मङ्कृ॑णोति॒ धन्व॑ना॒ सर्वाः॑ प्र॒दिशो॑ जयेम ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 धन्व॑ना । गाः । धन्व॑ना । आ॒जिम् । ज॒ये॒म॒ । धन्व॑ना । ती॒व्राः । स॒ऽमदः॑ । ज॒ये॒म॒ ।  
@@ -106,6 +112,11 @@ sárvāḥ ← sárva- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 धन्व॑ना। गाः। धन्व॑ना। आ॒जिम्। ज॒ये॒म॒। धन्व॑ना। ती॒व्राः। स॒मद॒ इति॑ स॒ऽमदः॑। ज॒ये॒म॒। धनुः। शत्रोः॑। अ॒प॒का॒ममित्य॑पऽका॒मम्। कृ॒णो॒ति॒। धन्व॑ना। सर्वाः॑। प्र॒दिश॒ इति॑ प्र॒ऽदिशः॑। ज॒ये॒म॒। ३।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+धन्व॑ना । गाः । धन्व॑ना । आ॒जिम् । ज॒ये॒म॒ । धन्व॑ना । ती॒व्राः । स॒मद॒ इति॑ स-मदः॑ । ज॒ये॒म॒ ॥ धनुः॑ । शत्रोः॑ । अ॒प॒का॒ममित्य॑प-का॒मम् । कृ॒णो॒ति॒ । धन्व॑ना । सर्वाः॑ । प्र॒दिश॒ इति॑ प्र-दिशः॑ । ज॒ये॒म॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -309,6 +320,14 @@ _________
 आजि "मार्गम् । जयेम । धन्वना तीव्राः 'अतिपटवः उद्गूर्णा- युधाः । समदः संग्रामाननेकान् । जयेम । धनुः अस्मदीयं धनुः । शत्रोः वैरिणः । अपकीमम् अपगतार्थ-फल-शून्य-कामम् तं शत्रोः कामं विफलम् । ७ कृणोति 'करोतीत्यर्थः । धन्वना सर्वाः 'दिशः प्रदिशः विदिशश् च जयेम ॥ १४ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+वयं धन्वना धनुवा गा जयेम परकीयान्गवादीनाहराम तथा धन्वनाऽऽजिं युद्धं जयेम ।  
+तथा घनुषा तीव्राः शूरभटोपेताः समदो मदसहिताः परकीयसेना जयेम ।  
+इदं धनुः शत्रोरस्मदीयवैरिणोऽपकामं कृणोति कामेभ्योऽपनयोऽपकामस्तं कृणोतु।  
+किं बहुना, सर्वा अदि प्रदिश उत्कृष्टान्सर्वदिग्वर्तिशत्रूञ्जयेम।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -374,6 +393,14 @@ Technically speaking, dhánuḥ could be an acc., modified by apakāmám (if thi
 
 With Bow let us win kine, with Bow the battle, with Bow be victors in our hot encounters.  
      The Bow brings grief and sorrow to the foeman: armed with the Bow may we subdue all regions.
+</details>
+
+<details><summary>Keith</summary>
+
+By the bow cows, by the bow the contest may we win,  
+By the bow dread battles may we win;  
+The bow doth work displeasure to the foe;  
+By the bow let us win in all the quarters.
 </details>
 
 <details><summary>Geldner</summary>

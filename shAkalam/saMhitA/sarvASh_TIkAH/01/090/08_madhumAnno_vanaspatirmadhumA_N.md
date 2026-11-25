@@ -286,6 +286,13 @@ May the tall tree be full of sweets for us, and full of sweets the Sun:
      May our milch-kine be sweet for us.
 </details>
 
+<details><summary>Keith</summary>
+
+Sweet to us be the lord of the forest,  
+Sweet the sun,  
+Sweet be the cows to us.
+</details>
+
 <details><summary>Geldner</summary>
 
 Voll Süßigkeit sei uns der Baum, voll Süßigkeit die Sonne, voll Süßigkeit sollen uns die Kühe sein.

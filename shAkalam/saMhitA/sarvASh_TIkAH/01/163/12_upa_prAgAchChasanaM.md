@@ -98,6 +98,12 @@ yanti ← √i- 1 (root)
 अ॒जः पु॒रो नी॑यते॒ नाभि॑र॒स्यानु॑ प॒श्चात्क॒वयो॑ यन्ति रे॒भाः ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+उप॑ [37]  प्रागा॒च्छस॑नव्ँवा॒ज्यर्वा॑ देव॒द्रीचा॒ मन॑सा॒ दीध्या॑नः ।  
+अ॒जᳶ पु॒रो नी॑यते॒ नाभि॑र॒स्यानु॑ प॒श्चात्क॒वयो॑ यन्ति रे॒भाः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उप॑ । प्र । अ॒गा॒त् । शस॑नम् । वा॒जी । अर्वा॑ । दे॒व॒द्रीचा॑ । मन॑सा । दीध्या॑नः ।  
@@ -112,6 +118,11 @@ yanti ← √i- 1 (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 उप॑। प्र। अ॒गा॒त्। शस॑नम्। वा॒जी। अर्वा॑। दे॒व॒द्रीचा॑। मन॑सा। दीध्या॑नः। अजः॑। पु॒रः। नी॒य॒ते॒। नाभिः॑। अ॒स्य। अनु॑। प॒श्चात्। क॒वयः॑। य॒न्ति॒। रे॒भाः। १२।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+उप॑ । प्रेति॑ । अ॒गा॒त् । शस॑नम् । वा॒जी । अर्वा॑ । दे॒व॒द्रीचेति॑ देव-द्रीचा॑ । मन॑सा । दीध्या॑नः ॥ अ॒जः । पु॒रः । नी॒य॒ते॒ । नाभिः॑ । अ॒स्य॒ । अन्विति॑ । प॒श्चात् । क॒वयः॑ । य॒न्ति॒ । रे॒भाः ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -351,6 +362,11 @@ _________
 कनीनाम् ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+वाजी क्रतुद्वाराऽन्नहेतुरर्वाऽयमधः शसनमस्प्रिन्क्रतौ विशासनस्थानं प्रत्युपप्रागात्समीपं प्राप्तवान्।   किं कूर्वन्, देवद्रीचा मनसा दीध्यानः देवानाञ्चति प्राप्नोतीति देवद्यङ् तादृशेन निरन्तरं देवविषयेण मनसा ध्यानं कुर्वन्।   अजः प्रजापतिः पुरो नीयतेऽऽस्मादश्वात्पूर्वमृत्विग्भिर्नीयते, प्रजापतिं पुरतो नीयते।   अस्याश्वस्य नाभिर्भाभ्युपलक्षितं शरीरं प्रजाषतिमनु नीयते।   अस्याश्यस्य पश्चात्पृष्ठभागे कवयो विद्वांस ऋत्विजो रेभा यन्ति स्तुतिं कुर्वाण गच्छन्ति।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 कैसे विद्वान् हितैषी होते हैं, इस विषय को अगले मन्त्र में कहा है ॥
@@ -409,6 +425,13 @@ The goat, his umbilical kin, is led in front. The poets and singers come  along 
 
 The strong Steed hath come forward to the slaughter, pondering with a mind directed God-ward.  
      The goat who is his kin is led before him the sages and the singers follow after.
+</details>
+
+<details><summary>Keith</summary>
+
+To [4] the slaughter the swift steed hath come, Pondering with pious mind;  
+The goat, his kin, is led before,  
+Behind him come the sages to sing.
 </details>
 
 <details><summary>Geldner</summary>

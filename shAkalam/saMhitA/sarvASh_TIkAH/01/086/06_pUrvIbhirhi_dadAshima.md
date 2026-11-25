@@ -63,10 +63,21 @@ carṣaṇīnā́m ← carṣaṇí- (nominal stem)
 अवो॑भिश्चर्षणी॒नाम् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+पू॒र्वीभि॒र्हि द॑दाशि॒म श॒रद्भि॑र्मरुतो व॒यम् ।  
+महो॑भिः [33]  च॒र्ष॒णी॒नाम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पू॒र्वीभिः॑ । हि । द॒दा॒शि॒म । श॒रत्ऽभिः॑ । म॒रु॒तः॒ । व॒यम् ।  
 अवः॑ऽभिः । च॒र्ष॒णी॒नाम् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+पू॒र्वीभिः॑ । हि । द॒दा॒शि॒म । श॒रद्भि॒रिति॑ श॒रत्-भिः॒ । म॒रु॒तः॒ । व॒यम् ॥ महो॑भि॒रिति॒ महः॑-भिः॒ । च॒र्ष॒णी॒नाम् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -130,6 +141,12 @@ _________
 हे **मरुतः** **पूर्वीभिः** बह्वीभिः **शरद्भिः** संवत्सरैः **चर्षणीनां** सर्वस्य द्रष्टॄणां सर्वज्ञानां भवतां संबन्धिभिः **अवोभिः** रक्षणैर्युक्ताः सन्तः **वयं** **ददाशिम** युष्मभ्यं हवींषि दत्तवन्तः । **हि** यस्मादर्थे । यस्मादेवं तस्मादिदानीमप्यस्मदीयहविःस्वीकरणायागच्छत इत्यर्थः ॥ पूर्वीभिः । पुरुशब्दात् 'वोतो गुणवचनात्' इति ङीष् । यणादेशे  ‘ हलि च' इति दीर्घत्वम् । ददाशिम ।' दाशृ दाने '। लिटि इडागमः ।  ‘ हि च' इति निघातप्रतिषेधः । चर्षणीनाम्। 'नामन्यतरस्याम्' इति नाम उदात्तत्वम् ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+[[P2038]]
+हे मरुतो वयं यजमानाः पूर्वीभिर् अनादि-काल-प्रवृत्ताभिर् महोभिर् व्रीह्यादि-संपूर्णतया महनीयाभिः शरद्भिः संवत्सरैश् चर्षणीनां मनुष्याणाम् ऋत्विजां मध्ये स्थित्वा हि यस्माद् ददाशिम हविर् दद्मस् तस्माद् यूयम् इहाऽऽगच्छत।
+</details>
+
 <details><summary>Wilson</summary>
 
 ## English translation:
@@ -155,6 +172,13 @@ carṣaní- in 5b and 6c also supports this identification: he who “dominated�
 
 For, through the swift Gods' loving help, in many an autumn, Maruts, we  
      Have offered up our sacrifice.
+</details>
+
+<details><summary>Keith</summary>
+
+For in autumns gone by  
+We have paid worship, O Maruts,  
+With the means [5] of mortal men.
 </details>
 
 <details><summary>Geldner</summary>

@@ -86,10 +86,21 @@ yaṁsat ← √yam- (root)
 ग्नाभि॒रच्छि॑द्रं शर॒णं स॒जोषा॑ दुरा॒धर्षं॑ गृण॒ते शर्म॑ यंसत् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+पावी॑रवी क॒न्या॑ चि॒त्रायु॒स्सर॑स्वती वी॒रप॑त्नी॒ धिय॑न्धात् ।  
+ग्नाभि॒रच्छि॑द्रँ शर॒णँ स॒जोषा॑ दुरा॒धर्ष॑ङ्गृण॒ते शर्म॑ यँसत् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पावी॑रवी । क॒न्या॑ । चि॒त्रऽआ॑युः । सर॑स्वती । वी॒रऽप॑त्नी । धिय॑म् । धा॒त् ।  
 ग्नाभिः॑ । अच्छि॑द्रम् । श॒र॒णम् । स॒ऽजोषाः॑ । दुः॒ऽआ॒धर्ष॑म् । गृ॒ण॒ते । शर्म॑ । यं॒स॒त् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+पावी॑रवी । क॒न्या॑ । चि॒त्रायु॒रिति॑ चि॒त्र-आ॒युः॒ । सर॑स्वती । वी॒रप॒त्नीति॑ वी॒र-प॒त्नी॒ । धिय॑म् । धा॒त् ॥ ग्नाभिः॑ । अच्छि॑द्रम् । श॒र॒णम् । स॒जोषा॒ इति॑ स-जोषाः॑ । दु॒रा॒धर्ष॒मिति॑ दुः-आ॒धर्ष॑म् । गृ॒ण॒ते । शर्म॑ । यँ॒स॒त् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -212,6 +223,17 @@ _________
 **पावीरवी** शोधयित्री **कन्या** कमनीया **चित्रायुः** चित्रगमना चित्रान्ना वा **वीरपत्नी** । वीरः प्रजापतिः पतिर्यस्यास्तादृशी । यद्वा । वीराणां पालयित्री । एवंभूता **सरस्वती** **धियम्** अस्मदीयं कर्म यज्ञाख्यं **धात्** दधातु । धारयतु । ददातु वा । शब्देन प्रतिपादितो ह्यर्थोऽनुष्ठीयते । अपि च **ग्नाभिः** देवपत्नीभिः सजोषाः सह प्रीयमाणा । यद्वा । ग्नाः गायत्र्यादीनि छन्दांसि ।  ‘ छन्दांसि वै ग्नाः' ( तै. सं. ५. १. ७. २ ) इति श्रुतेः । तैः सह प्रीयमाणा **गृणते** स्तुवते मह्यम् **अच्छिद्रं** छिद्ररहितं **दुराधर्षं** शत्रुभिः शीतवातादिभिश्च धर्षितुमशक्यं **शरणं** गृहं **शर्म** सुखं च **यंसत्** प्रयच्छतु ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+सरस्वती धियं धादस्मदीये कर्मणि सावधानां बुद्धिं धारयतु ।  
+कीदृशी, पावीरवी पातॄन्वीरांश्च वयति जनयतीति पावीरवी ।  
+कन्या कमनीया।  
+चित्रायुर्विचित्रं जीवनं यस्याः सा।  
+वीरपत्नी वीराणां पालयित्री ।  
+ग्नाभिश्छन्दोभिर्युक्ता सरस्वती सजोषा यजमानेन समानप्रीतिः सतीगृणते स्तुवते यजमानाय शर्म यंसत्सुखं प्रयच्छतु ।  
+कीदृशं शर्म, अच्छिद्रमविछिन्नं शरण रक्षकं दुराधर्षमन्यैर्धर्षयितुमशक्यम् ।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -242,6 +264,17 @@ After the syntactic pyrotechnics of the previous vs., this one comes as a relief
 
 So may Sarasvati, the Hero's Consort, brisk with rare life, the lightning's Child, inspire us,  
      And, with the Dames accordant, give the singer a refuge unassailable and flawless.
+</details>
+
+<details><summary>Keith</summary>
+
+May the maiden of the lightning, the one of varied life,  
+Sarasvati, wife of a hero, inspire our devotion;  
+In accord with the ladies, may she accord to the singer  
+Protection uninjured, and guardianship unsurpassable.  
+I May Pusan follow the cows for us,  
+May he guard our horses;  
+May Pusan win booty for us.
 </details>
 
 <details><summary>Geldner</summary>

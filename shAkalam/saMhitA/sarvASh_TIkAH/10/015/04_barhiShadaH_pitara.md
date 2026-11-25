@@ -302,6 +302,14 @@ Fathers who sit on sacred grass, come, help us: these offerings have we made for
      So come to us with most auspicious favour, and give us health and strength without a trouble.
 </details>
 
+<details><summary>Keith</summary>
+
+O fathers that sit on the sacrificial strew, come hither with your aid;  
+We have made these offerings for you; accept them,  
+And then come to us with your most healing aid,  
+Give us [2] health, wealth, and safety!
+</details>
+
 <details><summary>Geldner</summary>
 
 Ihr Väter, die ihr auf dem Barhis sitzet, kommt mit eurer Gunst näher! Diese Spenden haben wir für euch bereitet, genießet! Kommet her mit heilvoller Gnade und schaffet uns Heil und Wohlsein ohne Gebreste!

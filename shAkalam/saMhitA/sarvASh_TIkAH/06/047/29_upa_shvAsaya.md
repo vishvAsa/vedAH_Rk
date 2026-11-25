@@ -101,6 +101,12 @@ sedha ← √sidh- (root)
 स दु॑न्दुभे स॒जूरिन्द्रे॑ण दे॒वैर्दू॒राद्दवी॑यो॒ अप॑ सेध॒ शत्रू॑न् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+उप॑ श्वासय पृथि॒वीमु॒त द्याम्पु॑रु॒त्रा ते॑ मनुताव्ँ॒विष्ठि॑त॒ञ्जग॑त् ।  
+स दु॑न्दुभे स॒जूरिन्द्रे॑ण दे॒वैर्दू॒रात् [32]  दवी॑यो॒ अप॑ सेध॒ शत्रू॑न् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उप॑ । श्वा॒स॒य॒ । पृ॒थि॒वीम् । उ॒त । द्याम् । पु॒रु॒ऽत्रा । ते॒ । म॒नु॒ता॒म् । विऽस्थि॑तम् । जग॑त् ।  
@@ -115,6 +121,11 @@ sedha ← √sidh- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 उप॑। श्वा॒स॒य॒। पृ॒थि॒वीम्। उ॒त। द्याम्। पुरु॒त्रेति॑ पुरु॒ऽत्रा। ते॒। म॒नु॒ता॒म्। विष्ठि॑तम्। विस्थि॑त॒मिति॒ विऽस्थि॑तम्। जग॑त्। सः। दु॒न्दु॒भे॒। स॒जूरिति॑ स॒जूः। इन्द्रे॑ण। दे॒वैः। दू॒रात्। दवीयः॑। अप॑। से॒ध॒। शत्रू॑न्। १२।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+उपेति॑ । श्वा॒स॒य॒ । पृ॒थि॒वीम् । उ॒त । द्याम् । पु॒रु॒त्रेति॑ पुरु-त्रा । ते॒ । म॒नु॒ता॒म् । विष्ठि॑त॒मिति॒ वि-स्थि॒त॒म् । जग॑त् ॥ सः । दु॒न्दु॒भे॒ । स॒जूरिति॑ स-जूः । इन्द्रे॑ण । दे॒वैः । दू॒रात् । दवी॑यः । अपेति॑ । से॒ध॒ । शत्रून्॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -312,6 +323,11 @@ _________
 इत्य् एक त्रिशेऽध्याये द्वितीयो ऽनुवाकः ।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+रथसमीपवर्तिदुन्दुभिरपि, एवंमहिमा किमुत रथ इति विवक्षया दुन्दुभिः प्रशस्यते।   हे दुन्दुभे पृथिवीमुपश्वासय त्वदीयेन शब्देन पूरय।   उतापि च द्यां द्युलोकमप्युपश्वासय।   पुरुत्रा पुरुषु द्युलोकभूलोकादिस्थानेषु विष्ठितं विशेषेण स्थितं सर्वं जगत्ते तव शब्दं मनुतां जानातु।   स त्वमिन्द्रेणान्यैर्देवश्चै सूजः समानप्रीतिः सञ्शत्रूनस्मदीयान्दूराद्दवीयो दूरादप्यत्यन्तं दूरदेशं प्रत्यपसेधापसारय।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -378,6 +394,12 @@ These vss. are repeated in the Aśvamedha section of several early Vedic ritual 
 
 Send forth thy voice aloud through earth and heaven, and let the world in all its breadth regard thee;  
      O Drum, accordant with the Gods and Indra, drive thou afar, yea, very far, our foemen.
+</details>
+
+<details><summary>Keith</summary>
+
+Roar to earth and sky;  
+Let the scattered world be ware of thee in many places; Do thou, O drum, in unison with Indra and the gods [6], Drive away the foe further than far.
 </details>
 
 <details><summary>Geldner</summary>

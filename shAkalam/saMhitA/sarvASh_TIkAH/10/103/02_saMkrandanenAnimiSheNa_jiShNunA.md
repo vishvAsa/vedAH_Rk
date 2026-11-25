@@ -358,6 +358,14 @@ With him loud-roaring, ever watchful, Victor, bold, hard to overthrow, Rouser of
      Indra. the Strong, whose hand bears arrows, conquer, ye warriors, now, now vanquish in the combat.
 </details>
 
+<details><summary>Keith</summary>
+
+With the bellowing, unwinking, conquering,  
+Fighter, hard to overthrow, and daring Indra,  
+With Indra do ye conquer, do ye withstand  
+The foe, O heroes, with the strong one who holdeth the arrow in his hands.
+</details>
+
 <details><summary>Geldner</summary>
 
 Zusammen mit dem Heerrufer, der die Augen offen haltend, dem siegreichen, streitbaren, unentwegten, kühnen, mit Indra gewinnet jetzt, bestehet jetzt die Kämpfe, ihr Männer, mit dem Bullen, der den Pfeil in der Hand hat!

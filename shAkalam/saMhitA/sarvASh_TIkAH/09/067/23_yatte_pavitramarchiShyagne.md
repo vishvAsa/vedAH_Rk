@@ -75,6 +75,13 @@ téna ← sá- ~ tá- (pronoun)
 ब्रह्म॒ तेन॑ पुनीहि नः ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+यत् ते॑ प॒वित्र॑म् अ॒र्चिषि॑ ।  
+अग्ने॒ वित॑तम् अन्त॒रा ।  
+ब्रह्म॒ तेन॑ पुनीमहे ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । ते॒ । प॒वित्र॑म् । अ॒र्चिषि॑ । अग्ने॑ । विऽत॑तम् । अ॒न्तः । आ ।  
@@ -174,6 +181,12 @@ _________
 **तेन** तादृशेन तेजसा **नो** ऽस्माकं **ब्रह्म** पुत्रादिवर्धनकारि शरीरं **पुनीहि** पापरहितं पूतं कुरु ॥ २३ ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+4 अथ चतुर्थी - यत्त इति गायत्री ॥ हे **अग्ने**! **यत् ते** तव **अर्चिषि अन्तरा** ज्वालासु मध्ये **विततं ब्रह्म** परिबृढं पवित्ररूपं **तेन** आत्मानं **पुनीमहे** ।  
+यद्वा - **यज्** ज्वालासु **पवित्रं** रूपं **तेन ब्रह्म वयं पुनीमहे** आस्माकीनं ब्रह्मवर्चसं ऋगादिकं वा ब्रह्मआत्मानं वा **पुनीमहे** ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -196,9 +209,12 @@ and the sacred formulation—with that purify us.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md">
 <details><summary><h2>22-27 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 As noted in the published introduction, these vss. are a self-contained purificatory spell, with all vss. ending with an act. impv. belonging to the pres. punā́ti: all 2nd sg. punīhi (naḥ) except 22c punātu (naḥ). The means of purification is, in the first instance, the filter (pavítra-), which of course literally means ‘instrument (-tra-) of purification’. 
 
 The pavítra is mentioned in vss. 22-25, with other, non-physical means of purification added (e.g., the sacred formulation vss. 23-24), with these means appropriate to the gods who wield them (Savitar’s ‘impulsion’ [savá-] vs. 25). The first agent of purification is Soma Pavamāna himself (22), then Agni (23-24), then Savitar (25). The three - Soma, Agni, and Savitar - then appear together in 26, and in the final vs. (27) it opens out to all the divinities. The rhetoric is pretty flat, but the structure is a pleasing example of repetitive variation.
+</details>
 
 </details>
 </div>

@@ -100,6 +100,12 @@ stotŕ̥bhyaḥ ← stotár- (nominal stem)
 यद्ध॒ स्या ते॒ पनी॑यसी स॒मिद्दी॒दय॑ति॒ द्यवीषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+आ ते॑ अग्न इधीमहि द्यु॒मन्त॑न्देवा॒जर॑म् ।    
+यद्ध॒ स्या ते॒ पनी॑यसी स॒मिद्दी॒दय॑ति॒ द्यवीषँ॑ स्तो॒तृभ्य॒ आ भ॑र ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । ते॒ । अ॒ग्ने॒ । इ॒धी॒म॒हि॒ । द्यु॒ऽमन्त॑म् । दे॒व॒ । अ॒जर॑म् ।  
@@ -237,6 +243,11 @@ _________
 हे अग्ने **देव** **द्युमन्तं** दीप्तिमन्तम् **अजरम्** अजीर्णं **ते** त्वाम् **आ** सर्वतः **इधीमहि** दीपयामः । **यद्ध** खलु **स्या** सा **ते** तव **पनीयसी** स्तुत्या **समित्** दीप्तिः **दीदयति** दीप्यते द्यवि द्युलोके ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हेऽग्ने देवाजरं जरारहितं ते त्वां द्युमन्तं दीप्तिमन्तमिधीमाहि सर्वतः प्रज्वालयामः ।   यद्यास्मात्कारणात्पनीयस्यतिशयेन स्तुतियुक्ता सा [स्या] हृ समिदचेतनरूपा सा समिदपि द्यवि प्रतिदिनं दीदयति त्वां प्रक्राशयति, तस्माच्चेतना वयं दीपयाम इति किमु वक्तव्यम् ।   त्वं चेषमन्नं स्तोतृभ्य ऋत्विग्भ्य आभर संपादय ।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -255,6 +266,15 @@ Agni, here would we kindle your brilliant and unaging (flame), o god, so that th
 
 God, Agni, we will kindle thee, rich in thy splendour, fading not,  
      So that this glorious fuel may send forth by day its light for thee. Bring food to those who sing thy praise.
+</details>
+
+<details><summary>Keith</summary>
+
+May we kindle thee, O Agni,  
+Radiant, O god, and unaging;  
+When this most desirable  
+Kindling-stick maketh radiance for thee in the sky,  
+Do thou bear food to thy praisers.
 </details>
 
 <details><summary>Oldenberg</summary>

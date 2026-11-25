@@ -224,6 +224,14 @@ Right gladly would we set thee down, right gladly make thee burn and glow.
      Gladly bring yearning Fathers nigh to cat the food of sacrifice.
 </details>
 
+<details><summary>Keith</summary>
+
+Eagerly we hail thee,  
+Eagerly would we kindle thee;  
+Eager bring the eager,  
+The fathers, to eat the offering.
+</details>
+
 <details><summary>Geldner</summary>
 
 Willig wollen wir dich einsetzen, willig dich anzünden. Willig fahre die willigen Väter hierher, um die Opferspende zu essen!

@@ -75,6 +75,11 @@ yúvā ← yúvan- (nominal stem)
 क॒विः । गृ॒हऽप॑तिः । युवा॑ ॥
 </details>
 
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+त्वम् । अ॒ग्ने॒ । बृ॒हत् । वयः॑ । दधा॑सि । दे॒व॒ । दा॒शुषे॑ ॥ क॒विः । गृ॒हप॑ति॒रिति॑ गृ॒ह-प॒तिः॒ । युवा॑ ॥
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *tvam* ← *tvad*
@@ -155,6 +160,11 @@ _________
 हे **देव** द्योतमान **अग्ने** **कविः** क्रान्तकर्मा **गृहपतिः** गृहपालकः **युवा** नित्यतरुणः **त्वं** **दाशुषे** हविषां प्रदात्रे यजमानाय **बृहद्वयः** महदन्नं **दधासि** प्रयच्छसीत्यर्थः ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+त्वमग्ने इति गायत्री हे अग्ने देव त्वं बृहत् महत् वयः अन्नं दधासि धारयसि दाशुषे हविर्दत्तवते यजमानाय दातुं दधासि । कविः क्रान्तदर्शनः गृहपतिः गृहस्य पाता युवा हविषां देवैर्मिश्रयिता, नित्यतरुणो वा । 'दाश्वान्' इति निपातितः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -172,6 +182,13 @@ You, Agni, establish lofty vitality for your pious server, god, as sage poet, ho
 
 LORD of the house, Sage, ever young, high power of life, O Agni, God,  
      Thou givest to thy worshipper.
+</details>
+
+<details><summary>Keith</summary>
+
+Long life thou givest, O Agni,  
+O god, to the giver,  
+Sage, lord of the house, the youthful.
 </details>
 
 <details><summary>Geldner</summary>

@@ -261,6 +261,13 @@ He rules with those who carry shafts and quivers, Indra who with his band rings 
      Foe-conquering, strong of arm, the Soma-drinker, with mighty bow, shooting with well-laid arrows.
 </details>
 
+<details><summary>Keith</summary>
+
+He is mighty with those who have arrows in their hands and quivers, Indra who joineth hosts with his band,  
+Conquering in combat, drinker of Soma, with many a band,  
+With bow uplifted, and shooter with well-drawn arrows.
+</details>
+
 <details><summary>Geldner</summary>
 
 Er ist mit seinen Pfeilträgern, er mit den Köchergewappneten, er mit seinem Gefolge der Gebieter Indra, der in Kämpfe verwickelt, und die in Kämpfe verwickelten besiegt, der Somatrinker, der auf seine Arme pocht, mit gewaltigem Bogen, der Schütze mit den aufgelegten Pfeilen.

@@ -414,6 +414,14 @@ Conspicuous by thy strength, firm, foremost fighter, mighty and fierce, victorio
      The Son of Conquest, passing men and heroes, kine-winner, mount thy conquering car, O Indra.
 </details>
 
+<details><summary>Keith</summary>
+
+Conspicuous by might, strong, heroic,  
+Enduring, mighty, steadfast, dread,  
+Surpassing heroes and warriors born of strength,  
+Do thou, winning kine, mount, O Indra, thy victorious car.
+</details>
+
 <details><summary>Geldner</summary>
 
 An seiner Stärke zu erkennen, standfest, ein hervorragender Held, überlegen, siegreich, bezwingend, gewaltig, jedem Helden über, jedem Krieger über, kraftgeboren, rinderfindend besteige du, Indra, den siegreichen Wagen!

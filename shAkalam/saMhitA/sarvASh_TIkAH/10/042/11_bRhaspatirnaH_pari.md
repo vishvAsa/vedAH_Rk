@@ -258,6 +258,14 @@ Brhaspati protect us from the rearward, and from above, and from below, from sin
      May Indra from the front, and from the centre, as Friend to friends, vouchsafe us room and freedom.
 </details>
 
+<details><summary>Keith</summary>
+
+From behind may Brhaspati guard us,  
+From above, from below, from the plotter of evil;  
+May Indra from the front, from the middle,  
+Friend to friend, grant us wide room.
+</details>
+
 <details><summary>Geldner</summary>
 
 Brihaspati soll uns von hinten und von oben, von unten vor dem Übelwollenden schützen, Indra soll uns von vorn und in der Mitte als Freund den Freunden einen Ausweg schaffen!

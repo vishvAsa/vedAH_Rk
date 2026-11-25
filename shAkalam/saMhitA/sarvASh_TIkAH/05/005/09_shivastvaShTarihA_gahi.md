@@ -78,10 +78,21 @@ yajñé-yajñe ← yajñá- (nominal stem)
 य॒ज्ञेय॑ज्ञे न॒ उद॑व ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+शि॒वस्त्व॑ष्टरि॒हा ग॑हि वि॒भुᳶ पोष॑ उ॒त त्मना॑ ।   
+य॒ज्ञेय॑ज्ञे न॒ उद॑व ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 शि॒वः । त्व॒ष्टः॒ । इ॒ह । आ । ग॒हि॒ । वि॒ऽभुः । पोषे॑ । उ॒त । त्मना॑ ।  
 य॒ज्ञेऽय॑ज्ञे । नः॒ । उत् । अ॒व॒ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+शि॒वः । त्व॒ष्टः॒ । इ॒ह । एति॑ । ग॒हि॒ । वि॒भुरिति॑ वि-भुः । पोषे॑ । उ॒त । त्मना॑ ॥ य॒ज्ञेय॑ज्ञ॒ इति॑ य॒ज्ञे-य॒ज्ञे॒ । नः॒ । उदिति॑ । अ॒व॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -185,6 +196,11 @@ _________
 हे **त्वष्टः** देव **शिवः** सुखकरः सन् **इहा** **गहि** अस्मद्यज्ञमागच्छ । **विभुः** व्याप्तस्त्वं **पोषे** पोषकरणे । 'उत आगत्य च **त्मना** आत्मना स्वयमेव **यज्ञेयज्ञे** सर्वेषु यज्ञेषु **नः** अस्मान् **उदव** उत्कृष्टं रक्ष ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे त्वष्टः शिवः सुखकरः त्वमिहास्मिन् कर्मणि आगहि आगच्छ । शपो लुक् । विभुः व्याप्तिमान् पोषे पुष्ट्यर्थमस्मा कम् । निमित्तात्सप्तमी । उत त्मना आत्मना केवलेनाप्यात्मना अन्यनिरपेक्ष एव पोषं कर्तुं समर्थः । 'मन्त्रेष्वाड्यादेः' इति लोपः । किञ्च - यज्ञेयज्ञे सर्वस्मिन् यज्ञे नः अस्मान् उदव उत्कृष्टं पाहि प्रतियज्ञमुत्कृष्टं पाहीत्यर्थः । 'अनुदातं च' इति द्वितीयो यज्ञशब्दोनुदात्तः ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -203,6 +219,13 @@ help us at every sacrifice.
 
 Rich in all plenty, Tvastar, come auspicious of thine own accord  
      Help us in every sacrifice.
+</details>
+
+<details><summary>Keith</summary>
+
+Come hither, O Tvastr, propitious,  
+Pervasive for abundance, and of thy own will,  
+Aid us in every sacrifice.
 </details>
 
 <details><summary>Oldenberg</summary>

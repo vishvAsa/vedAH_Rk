@@ -180,6 +180,11 @@ _________
 **अद्य** अस्मिन् दिवसे हे **अग्ने** **आभिः** गीर्भिः स्तुतिरूपाभिर्वाग्भिः **गृणन्तः** त्वां स्तुवन्तो वयमृत्विगादयः **ते** तुभ्यं **दाशेम** हवींषि दद्याम'। **दिवो** **न** सूर्यस्य रश्मय इव **ते** त्वदीयाः **शुष्माः** शोधका ज्वालाः **प्र** **स्तनयन्ति** प्रकर्षेण शब्दायन्ते । यद्वा । दिवो न मेघा इव त्वदीया ज्वालाः शब्दायन्ते ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हेऽग्नेऽद्यास्मिन्क्रर्मण्याभिर्गीर्मन्त्ररूपाभिगृर्णन्तः स्तुवन्तो वयं दाशेम हविर्दध्मः [द्मः] ।   ते त्वदीयाः शुष्माः प्रबला ज्वालास्त्वां प्रकर्षेण स्तनयन्ति शब्दयन्ति ।   तत्र दृष्टान्तः दिवो न द्युस्था मेघा इव ।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -198,6 +203,13 @@ Your gusts thunder forth like (those) of heaven.
 
 Now may we serve thee singing these lauds this day to thee, Agni.  
      Loud as the voice of Heaven thy blasts are roaring.
+</details>
+
+<details><summary>Keith</summary>
+
+With these songs singing to thee, O Agni,  
+This day let us pay worship;  
+Thy strengths thunder forth as from the sky.
 </details>
 
 <details><summary>Oldenberg</summary>

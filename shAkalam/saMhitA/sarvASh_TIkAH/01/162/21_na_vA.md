@@ -113,6 +113,12 @@ vājī́ ← vājín- (nominal stem)
 हरी॑ ते॒ युञ्जा॒ पृष॑तीऽअभूता॒मुपा॑स्थाद् वा॒जी धु॒रि रास॑भस्य ॥४४ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+न वा उ॑ वे॒तन्म्रि॑यसे॒ न रि॑ष्यसि दे॒वाँ इदे॑षि प॒थिभि॑स्सु॒गेभिः॑ ।  
+हरी॑ ते॒ युञ्जा॒ पृष॑ती अभूता॒मुपा॑स्थाद्वा॒जी धु॒रि रास॑भस्य ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 न । वै । ऊं॒ इति॑ । ए॒तत् । म्रि॒य॒से॒ । न । रि॒ष्य॒सि॒ । दे॒वान् । इत् । ए॒षि॒ । प॒थिऽभिः॑ । सु॒ऽगेभिः॑ ।  
@@ -122,6 +128,11 @@ vājī́ ← vājín- (nominal stem)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 न। वै। ऊँ॒ इत्यूँ॑। ए॒तत्। म्रि॒य॒से॒। न। रि॒ष्य॒सि॒। दे॒वान्। इत्। ए॒षि। प॒थिऽभिः॑। सु॒गेभिः॑। हरी॒ इति॒ हरी॑। ते॒। युञ्जा॑। पृष॑ती॒ इति॒ पृष॑ती। अ॒भू॒ता॒म्। उप॑। अ॒स्था॒त्। वा॒जी। धु॒रि। रास॑भस्य। ४४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+न । वै । उ॒ । ए॒तत् । म्रि॒य॒से॒ । न । रि॒ष्य॒सि॒ । दे॒वान् । इत् । ए॒षि॒ । प॒थिभि॒रिति॑ प॒थि-भिः॒ । सु॒गेभि॒रिति॑ सु-गेभिः॑ ॥ हरी॒ इति॑ । ते॒ । युञ्जा॑ । पृष॑ती॒ इति॑ । अ॒भू॒ता॒म् । उपेति॑ । अ॒स्था॒त् । वा॒जी । धु॒रि । रास॑भस्य ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -336,6 +347,15 @@ _________
 यद्वा तत्तद्देवभावं प्राप्तं त्वां तानि तानि वाहनानि वक्ष्यन्तीत्यर्थः॥ ४४॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+शास्त्रानभिज्ञानां लौकिकानां दृष्ट्या त्वमेतत्प्रत्यक्ष मेव म्नियसे शमितृभिर्हिस्यसे च ।  
+शास्त्रादृष्ट्या तु त्वं न वा उवेतन्म्नियस एत ??? न्मरणमेव न भवति, न च रिष्यसि नापि शमितृभिर्हिस्यसे, किंतु सुगेभिः पथिमिः सुगममार्गैर्देवानिदेषि देवानेव प्राप्नोषि ।  
+तत्र देवेषु मध्य इन्द्रत्वं प्राप्तस्य ते हरी हरिनामकावश्वौ रथे युक्तावभूतां सर्वथा भविष्यतः।  
+* एवं तथा मरुद्रूपं प्राप्तस्य ते पृषती चित्रवर्णे अश्वस्त्रियौ युञ्जावभूतां रथे युक्तौ भविष्यतः।  
+इदानीं रासभस्य धुरि वर्तमानस्व गर्दभवद्भारवाहिनस्तव वाज्युपास्थात्त्वां वोढुं कश्चित्प्रौढोऽश्वः प्राप्तो भविष्यति ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर मनुष्यों को कैसे रथ-निर्माण करने चाहियें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -390,6 +410,18 @@ Maruts) have become your yokemates. The prizewinning (horse) has  taken his plac
 
 No, here thou diest not, thou art not injured: by easy paths unto the Gods thou goest.  
      Both Bays, both spotted mares are now thy fellows, and to the ass's pole is yoked the Charger.
+</details>
+
+<details><summary>Keith</summary>
+
+Thou dost not die, indeed, thou art not injured,  
+On easy paths thou goest to the gods;  
+The bays, the dappled ones, have become thy yoke-fellows;  
+The steed bath stood under the yoke of the ass.  
+I Wealth of kine for us, may the strong one (grant), wealth in horses,  
+Men and sons, and every form of prosperity;  
+May Aditi confer on us sinlessness;  
+Kingship for us may the horse rich in offering gain.
 </details>
 
 <details><summary>Geldner</summary>

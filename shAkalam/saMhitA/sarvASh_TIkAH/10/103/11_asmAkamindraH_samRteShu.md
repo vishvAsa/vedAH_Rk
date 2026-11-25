@@ -256,6 +256,14 @@ May Indra aid us when our flags are gathered: victorious be the arrows of our ar
      May our brave men of war prevail in battle. Ye Gods, protect us in the shout of onset.
 </details>
 
+<details><summary>Keith</summary>
+
+Ours (be) Indra, when the standards meet;  
+Ours be the arrows that conquer [3];  
+Ours be the heroes who are victors,  
+And us do ye aid, O gods, at our invocations.
+</details>
+
 <details><summary>Geldner</summary>
 
 Unser sei Indra, wann die Feldzeichen zusammentreffen. Unsere Pfeile, die sollen siegen! Unsere Helden sollen die Oberhand haben, uns stehet, ihr Götter, bei während der Kampfrufe!

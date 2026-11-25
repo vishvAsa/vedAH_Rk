@@ -277,6 +277,14 @@ Thou, Agni Jatavedas, when entreated, didst bear the offerings which thou madest
      And give them to the Fathers who did cat them with Svadha. Eat, thou God, the gifts we bring thee.
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Agni, praised, all-knower,  
+Didst carry the offerings making them fragrant;  
+Thou didst give them to the fathers who ate them at the Svadha call;  
+Eat thou, O god, the offerings set before thee.
+</details>
+
 <details><summary>Geldner</summary>
 
 Du, Agni Jatavedas, hast dazu berufen die Opferspende duftig gemacht und sie befördert. Du hast sie den Vätern übergeben, die haben sie nach eigenem Ermessen gegessen; iß auch du, Gott, die dargereichten Spenden!

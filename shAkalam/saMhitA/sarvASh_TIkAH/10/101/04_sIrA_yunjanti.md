@@ -326,6 +326,13 @@ The poets hitch up the plows; they stretch the yokes across separately— the in
 Wise, through desire of bliss from Gods, the skilful bind the traces fast, And lay the yokes on either side.
 </details>
 
+<details><summary>Keith</summary>
+
+The sages yoke the ploughs;  
+They stretch apart the yokes,  
+Wise with goodwill among the gods.
+</details>
+
 <details><summary>Geldner</summary>
 
 Die Seher schirren die Pflüge, sie stecken einzeln die Joche vor, die Kenner, um bei den Göttern Gunst zu erwirken.

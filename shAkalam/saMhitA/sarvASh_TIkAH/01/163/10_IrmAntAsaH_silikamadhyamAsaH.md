@@ -98,6 +98,12 @@ yát ← yá- (pronoun)
 हँ॒सा इ॑व श्रेणि॒शो य॑तन्ते॒ यदाक्षि॑षुर्दि॒व्यमज्म॒मश्वाः॑ ॥१०॥ ॥३३॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+ई॒र्मान्ता॑स॒स्सिलि॑कमध्यमास॒स्सँ शूर॑णासो दि॒व्यासो॒ अत्याः॑ ।  
+हँ॒सा इ॑व श्रेणि॒शो य॑तन्ते॒ यदाक्षि॑षुर्दि॒व्यमज्म॒मश्वाः॑ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ई॒र्मऽअ॑न्तासः । सिलि॑कऽमध्यमासः । सम् । शूर॑णासः । दि॒व्यासः॑ । अत्याः॑ ।  
@@ -112,6 +118,11 @@ yát ← yá- (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 ई॒र्मान्ता॑स॒ इती॒र्मऽअ॑न्तासः। सिलि॑कमध्यमास॒ इति॒ सिलि॑कऽमध्यमासः। सम्। शूर॑णासः। दि॒व्यासः॑। अत्याः॑। हँ॒साऽइ॒वेति॑ हँ॒साःऽइ॑व। श्रे॒णि॒श इति॑ श्रेणि॒ऽशः। य॒त॒न्ते॒। यत्। आक्षि॑षुः। दि॒व्यम्। अज्म॑म्। अश्वाः॑। १०।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+ई॒र्मान्ता॑स॒ इती॒र्म-अ॒न्ता॒सः॒ । सिलि॑कमध्यमास॒ इति॒ सिलि॑क-म॒ध्य॒मा॒सः॒ । समिति॑ । शूर॑णासः । दि॒व्यासः॑ । अत्याः॑ ॥ हँ॒साः । इ॒व॒ । श्रे॒णि॒श इति॑ श्रेणि-शः । य॒त॒न्ते॒ । यत् । आक्षि॑षुः । दि॒व्यम् । अज्म॑म् । अश्वाः॑ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -333,6 +344,20 @@ _________
 e ॥ 1
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+सर्वेऽप्बश्वा एवंबिधाः।  
+कीदृशा इति तदुच्यतेईर्गान्तासः नलभानो जघनभागाश्चाश्वस्यान्तौ, तावीर्मौ प्रसृतावुन्नतौ येषां त ईर्मान्तासः।  
+सिलिकं संकुचितं निम्नं मध्ये पृष्टभागे येषा ते सिलिकमध्यमासः।  
+यत्र मनुष्या आरोहम्ति स देशो निम्नः।  
+न तु गजस्यवे पृष्ठभाग उन्नतः।  
+संसूरणासो युद्धे जयहेतुत्वेन सम्यक्शूराः।  
+दिव्यासो ग्रामगमनादिरूपव्यवहारनिष्पादकाः।  
+अत्याः संततगमनशीलाः।  
+ते च हंसा इव श्रेणिशः संघशो यतन्ते।  
+यथा हंसाः पङ्क्तिबद्धाः संधीभूयाऽऽकाशे यतन्ते गच्छन्त्येवमश्वा अपि बहवः संहता युद्धाय प्रयतन्ते।   यद्यस्मात्कारणदश्वा दिव्यं क्रीडाविजिगीषाद्यार्थमज्मं गमनमाक्षिषुर्व्याप्तवन्तस्तस्मादश्वजातिमात्रस्ययैवं प्रशस्तत्वात्स क्रतुनिष्पादकः प्रकृतोऽश्वः प्रशस्त इति किमु वक्तव्बः।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 कैसे राजपुरुष विजय पाते हैं, इस विषय को अगले मन्त्र में कहा है ॥
@@ -400,6 +425,17 @@ The verb in d, ā́kṣisuḥ, is generally taken as an isolated -siṣ-aor. to 
 
 Symmetrical in flank, with rounded haunches, mettled like heroes, the Celestial Coursers  
      Put forth their strength, like swans in lengthened order, when they, the Steeds, have reached the heavenly causeway.
+</details>
+
+<details><summary>Keith</summary>
+
+Full haunched, of slender middle,  
+The heroic divine steeds,  
+Vie together like cranes in rows,  
+When the horses reach the divine coursing-place 1 Thy body is fain to fly, O steed;  
+Thy thought is like the blowing wind;  
+Thy horns are scattered in many places,  
+They wander busy in the woods.
 </details>
 
 <details><summary>Geldner</summary>

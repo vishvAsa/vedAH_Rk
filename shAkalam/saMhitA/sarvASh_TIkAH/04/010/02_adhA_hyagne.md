@@ -279,6 +279,11 @@ _________
 हे श्रीभगवन् "अमे, अधा हि समनन्तरम् एव क्रतोः संकल्पितस्य भद्रस्य कल्याणस्य दक्षस्य । दक्ष वृद्धो । समृद्धस्य फळसाधकस्य ऋतस्य बहतः यज्ञस्य रथी: इव बभूथ । व्यत्ययः । बभूव ॥ २७ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हेऽग्नेऽधाऽस्मदीयस्तोत्रानन्तरं क्रतोरनुष्टीयमानस्य कर्मणो रथीर्बभूथ हि, रथोऽस्यास्तीति रथीः सारथिः ।   यथा सारथिर्निर्वाहकस्तथा त्वं निर्वाहको बभूथ खलु ।   कीदृशस्य क्रतोः भद्रस्य कल्याणरूपस्य, दक्षस्य स्वफ लप्रदानसमर्थस्य, साधो * रश्मिभिः साध्यस्य, ऋतस्य सत्यस्यामोघबलस्य, वृहतः प्रौढस्य,
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर वह कैसा हो, यह विषय अगले मन्त्र में कहा है ॥
@@ -332,6 +337,12 @@ of skill that brings success, of lofty truth.
 
 For thou hast ever been the Car-driver, Agni, of noble  
      Strength, lofty sacrifice, and rightful judgment.
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, thou hast become master  
+Of mighty holy order.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -146,6 +146,13 @@ Vouchsafe us riches hundredfold, O Indra, and Brhaspati,
      With store of horses, thousandfold.
 </details>
 
+<details><summary>Keith</summary>
+
+To us, O Indra and Brhaspati,  
+Grant wealth of a hundred kine,  
+Of horses a thousandfold.
+</details>
+
 <details><summary>Geldner</summary>
 
 Bringet uns Reichtum, Indra und Brihaspati, in hundert Kühen bestehend, in Rossen bestehend, tausendfältigen!

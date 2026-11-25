@@ -242,6 +242,15 @@ Bristle thou up, O Maghavan, our weapons: excite the spirits of my warring heroe
      Urge on the strong steeds' might, O Vrtra-slayer, and let the din of conquering cars go upward.
 </details>
 
+<details><summary>Keith</summary>
+
+Exalt our weapons, O bounteous one,  
+Exalt the might of my warriors;  
+Exalt the strength of the steed, O slayer of Vrtra,
+
+Let the sound of the conquering chariots arise.
+</details>
+
 <details><summary>Geldner</summary>
 
 Mach, du Gabenreicher, die Waffen, mache die Herzen meiner Krieger kampffroh, die Siegeskräfte der Streitrosse, o Vritratäter! Das Getöse der siegenden Wagen soll sich erheben!

@@ -101,6 +101,12 @@ subándhum ← subándhu- (nominal stem)
 अन्वे॑नं॒ विप्रा॒ ऋष॑यो मदन्ति दे॒वानां॑ पु॒ष्टे च॑कृमा सु॒बन्धु॑म् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+उप॒ प्रागा॑त्सु॒मन्मे॑ऽधायि॒ मन्म॑ दे॒वाना॒माशा॒ उप॑ वी॒तपृ॑ष्ठः ।  
+अन्वे॑नव्ँ॒विप्रा॒ ऋष॑यो मदन्ति दे॒वाना॑म्पु॒ष्टे च॑कृमा सु॒बन्धु॑म् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उप॑ । प्र । अ॒गा॒त् । सु॒ऽमत् । मे॒ । अ॒धा॒यि॒ । मन्म॑ । दे॒वाना॑म् । आशाः॑ । उप॑ । वी॒तऽपृ॑ष्ठः ।  
@@ -115,6 +121,11 @@ subándhum ← subándhu- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 उप॑। प्र। अ॒गा॒त्। सु॒मदि॑ति॑ सु॒ऽमत्। मे॒। अ॒धा॒यि॒। मन्म॑। दे॒वाना॑म्। आशाः॑। उप॑। वी॒तपृ॑ष्ठ॒ इति॑ वी॒तऽपृ॑ष्ठः। अनु॑। ए॒न॒म्। विप्राः॑। ऋष॑यः। म॒द॒न्ति॒। दे॒वाना॑म्। पु॒ष्टे। च॒कृ॒म॒। सु॒बन्धु॒मिति॑ सु॒ऽबन्धु॑म्। ७।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+उप॑ । प्रेति॑ । अ॒गा॒त् । सु॒मदिति॑ सु-मत् । मे॒ । अ॒धा॒यि॒ । मन्म॑ । दे॒वाना॑म् । आशाः॑ । उपेति॑ । वी॒तपृ॑ष्ठ॒ इति॑ वी॒त-पृ॒ष्ठः॒ ॥ अन्विति॑ । ए॒न॒म् । विप्राः॑ । ऋष॑यः । म॒द॒न्ति॒ । दे॒वाना॑म् । पु॒ष्टे । च॒कृ॒म । सु॒बन्धु॒मिति॑ सु-बन्धु॑म् ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -423,6 +434,15 @@ _________
 अन्यत् पूर्ववत् ॥७॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+सुष्ठु मदहेसुरतिहर्षकारणं फलं सुमत्तदस्मानुपप्रागत्समीपे प्राप्नोति ।  
+मन्म मननीयं फलं मे मदर्थमधायि देवैः संपादितम्।  
+उप वीतप्टष्ठः कमनीयपृष्ठोऽयमश्वो देवानामाशा देवैराशासनीयानि हवींषि उपप्रागाद्देवहविष्ट्वं प्राप्नोतीत्यर्थः।  
+ऋषयो विप्रा अभिज्ञातार ऋत्विज एनमश्वमनु मदन्ति अनुकूलैः स्तोत्रैर्हषयन्तु ।  
+देवानां पुष्टे पुष्ट्यर्थं सुबन्धु चकृमैनमश्वं बन्धुवदत्यन्तप्रियं चकृम
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर कौन किनसे क्या लेवें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -482,6 +502,13 @@ I analyse prā́gāt as pra-ágāt, rather than Pp. prá agāt -- in other words
 
 Forth, for the regions of the Gods, the Charger with his smooth back is come my prayer attends him.  
      In him rejoice the singers and the sages. A good friend have we won for the Gods' banquet.
+</details>
+
+<details><summary>Keith</summary>
+
+He hath come forth--efficacious hath been my prayer-- To the regions of the gods, straight backed;  
+In him the sages, the seers, rejoice,  
+For the prosperity of the gods a good friend have we made.
 </details>
 
 <details><summary>Geldner</summary>

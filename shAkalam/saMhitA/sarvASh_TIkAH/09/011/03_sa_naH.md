@@ -75,10 +75,21 @@ rājan ← rā́jan- (nominal stem)
 शं रा॑ज॒न्नोष॑धीभ्यः ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+स नᳶ॑ पवस्व॒ शङ्गवे॒ शञ्जना॑य॒ शमर्व॑ते ।  
+शँ रा॑ज॒न्नोष॑धी॒भ्यः ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । नः॒ । प॒व॒स्व॒ । शम् । गवे॑ । शम् । जना॑य । शम् । अर्व॑ते ।  
 शम् । रा॒ज॒न् । ओष॑धीभ्यः ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+सः । नः॒ । प॒व॒स्व॒ । शम् । गवे॑ । शम् । जना॑य । शम् । अर्व॑ते । शम् । रा॒ज॒न् । ओष॑धीभ्य॒ इत्योष॑धि-भ्यः॒ ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -170,6 +181,11 @@ _________
 हे **राजन्** दीप्यमान सोम **सः** प्रसिद्धस्त्वं **नः** अस्माकं **गवे** **शं** सुखं **पवस्व** क्षर । **जनाय** पुत्रादये च **शं** पवस्व । **अर्वते** अश्वाय च **शं** पवस्व । **ओषधीभ्यः** च **शं** पवस्व ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका</summary>
+
+तादृशः त्वं नः अस्मदर्थं पवस्व शुन्धस्व । पूङ् पवने, भौवादिकः । किमर्थम्? शं गवे । जातावेकवचनम् । यथा गोभ्यः शं सुखं भवति । जनाय जनेभ्यः । अर्वते अर्वद्भ्यः । ओषधीभ्यश्च ।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -188,6 +204,11 @@ weal for our plants, o king.
 
 Bring, by thy flowing, weal to kine, weal to the people, weal to steeds.  
      Weal, O thou King, to growing plants
+</details>
+
+<details><summary>Keith</summary>
+
+be purified for us, with healing for cattle, healing for men, healing for the horses, healing, O king, for the plants;
 </details>
 
 <details><summary>Geldner</summary>

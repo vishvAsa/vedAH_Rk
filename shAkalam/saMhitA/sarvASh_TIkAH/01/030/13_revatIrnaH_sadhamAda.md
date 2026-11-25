@@ -66,10 +66,21 @@ yā́bhiḥ ← yá- (pronoun)
 क्षु॒मन्तो॒ याभि॒र्मदे॑म ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+रे॒वती॑र्नस्सध॒माद॒ इन्द्रे॑ सन्तु तु॒विवा॑जाः ।  
+क्षु॒मन्तो॒ याभि॒र्मदे॑म ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 रे॒वतीः॑ । नः॒ । स॒ध॒ऽमादे॑ । इन्द्रे॑ । स॒न्तु॒ । तु॒विऽवा॑जाः ।  
 क्षु॒ऽमन्तः॑ । याभिः॑ । मदे॑म ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+रे॒वतीः॑ । नः॒ । स॒ध॒माद॒ इति॑ सध-मादः॑ । इन्द्रे॑ । स॒न्तु॒ । तु॒विवा॑जा॒ इति॑ तु॒वि-वा॒जाः॒ ॥ क्षु॒मन्तः॑ । याभिः॑ । मदे॑म ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -156,6 +167,11 @@ ________________
 रेवत्यः धनवत्यः सर्वधनसाधनभूताः । पूर्ववत्पूर्वसवार्णदीर्घत्वम् । नोस्माकं सधमादः अस्माभिस्सह माद्यन्तः । मद तृप्तियोगे, चुरादिः ततो ण्यन्तात्क्विप्, 'सधमादस्थयोः' इति सहस्य सधादेशः । आपश्चोच्यन्ते । तुविवाजाः बह्वन्नं चरुपुरोडाशादिबह्वन्नसम्पादिन्यः अस्माकं इन्द्रे इन्द्रनिमित्तं सन्तु याभीर्विषयं क्षुमन्तः इन्द्रमेन स्तुवन्तो मदेम माद्येम । व्यत्ययेन शप् । क्षौतेः क्विपि छान्दसस्तुगभावः, 'ह्रस्वनुङ्भ्याम्मतुप्' इति मतुप उदात्तत्वम् ॥
 </details>
 
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+व्याख्याता चेयं 'अन्वह मासाः' इत्यत्र । रेवतीर्धनवत्यः नोस्माकं सधमादः सहमाद्यन्त्यः इन्द्रे सन्तु तुविवाजाः चरुपुरोडाशादिबह्वन्नाः याभिर्वयं क्षुमन्तश्शब्दयन्तः स्तुवन्तः मदेम माद्येम ता इन्द्रार्थमस्माकं बह्वन्नास्सन्तु, सर्वार्थसाधनभूता आप उच्यन्ते ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -182,6 +198,18 @@ sadhamā́da out of sandhi could end in either -e (so Pp., followed by most) or 
 
 With Indra splendid feasts be ours, rich in all strengthening things wherewith,  
      Wealthy in food, we may rejoice.
+</details>
+
+<details><summary>Keith</summary>
+
+With Indra may splendid feasts be ours,  
+Rich in strength,  
+Wherewith we may rejoice in food.
+</details>
+
+<details><summary>Keith (तैत्तिरीयम्)</summary>
+
+Rich banquets be ours with Indra, With mighty strength, Wherewith fed we may rejoice.
 </details>
 
 <details><summary>Geldner</summary>

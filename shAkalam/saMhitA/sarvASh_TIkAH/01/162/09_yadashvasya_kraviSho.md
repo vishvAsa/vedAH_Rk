@@ -107,6 +107,12 @@ te ← tvám (pronoun)
 यद्धस्त॑योः शमि॒तुर्यन्न॒खेषु॒ सर्वा॒ ता ते॒ अपि॑ दे॒वेष्व॑स्तु ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यदश्व॑स्य क्र॒विषः॑ [41]  मक्षि॒काऽऽश॒ यद्वा॒ स्वरौ॒ स्वधि॑तौ रि॒प्तमस्ति॑ ।  
+यद्धस्त॑योश्शमि॒तुर्यन्न॒खेषु॒ सर्वा॒ ता ते॒ अपि॑ दे॒वेष्व॑स्तु ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । अश्व॑स्य । क्र॒विषः॑ । मक्षि॑का । आश॑ । यत् । वा॒ । स्वरौ॑ । स्वऽधि॑तौ । रि॒प्तम् । अस्ति॑ ।  
@@ -121,6 +127,11 @@ te ← tvám (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यत्। अश्व॑स्य। क्र॒विषः॑। मक्षि॑का। आश॑। यत्। वा॒। स्वरौ॑। स्वधि॑ता॒विति॒ स्वऽधि॑तौ। रि॒प्तम्। अस्ति॑। यत्। हस्त॑योः। श॒मि॒तुः। यत्। न॒खेषु॑। सर्वा॑। ता। ते॒। अपि॑। दे॒वेषु॑। अ॒स्तु॒। १।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यत् । अश्व॑स्य । क्र॒विषः॑ । मक्षि॑का । आश॑ । यत् । वा॒ । स्वरौ॑ । स्वधि॑ता॒विति॒ स्व-धि॒तौ॒ । रि॒प्तम् । अस्ति॑ ॥ यत् । हस्त॑योः । श॒मि॒तुः । यत् । न॒खेषु॑ । सर्वा॑ । ता । ते॒ । अपीति॑ । दे॒वेषु॑ । अ॒स्तु॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -373,6 +384,13 @@ Vवा स्वरौ यूप-शकलः स्वरूः । “यः 
 "ते तव ता तानि सर्वाणि अपि देवेषु अस्तु सन्तु ॥ १ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अस्याश्वस्य क्रविषः क्रव्यं यन्मासं मक्षिकाऽऽश मक्षिका भक्षितवती, यद्वा यच्च रक्तं स्वरावञ्जनार्थे शकले स्वधितो छेदनहेतौ शस्त्रे च रिप्तमीषल्लिप्तमस्ति, यदपि शमितुर्हस्तयोर्लिप्तं, यच्च तदीयेषु नखेषु लिप्तं, हेऽश्व ते त्वदीयं सर्वा ता तत्सर्वं देवेष्वप्यस्तु देवेष्वव हुतं भवतु ।  
+यथा पूर्व * सर्वपुस्तकेषु उपेत्यधिक्रम् ।  
+२२१८ मन्त्रे नियोजनकालीना गलशिरःपादादिबन्धनरज्जवो देवेषु समर्पिता एवमत्रं मांसलेशोऽपि देवेषु समर्प्यते।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर कैसे कौन रक्षा करने योग्य हैं, इस विषय को अगले मन्त्र में कहा है ॥
@@ -437,6 +455,14 @@ what is on the hands of the Queller-priest and what on his nails—let all  this
 
 What part of the Steed's flesh the fly hath eaten, or is left sticking to the post or hatchet,  
      Or to the slayer's hands and nails adhereth,--among the Gods, too, may all this be with thee.
+</details>
+
+<details><summary>Keith</summary>
+
+Whatever of the horse's raw flesh [3] the fly eateth,  
+Whatever on the chip or the axe hath stuck,  
+Whatever is on the hands, the nails of the slayer,  
+May all these of thine be with the gods.
 </details>
 
 <details><summary>Geldner</summary>

@@ -94,6 +94,11 @@ ráṇāya ← ráṇa- (nominal stem)
 आपः॑। हि। स्थ। म॒यो॒भुव॒ इति॑ मयः॒ऽभुवः॑। ताः। नः॒। ऊ॒र्जे। द॒धा॒त॒न॒। म॒हे। रणा॑य। चक्ष॑से। १।
 </details>
 
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+आपः॑ । हि । स्थ । म॒यो॒भुव॒ इति॑ मयः-भुवः॑ । ताः । नः॒ । ऊ॒र्जे । द॒धा॒त॒न॒ ॥ म॒हे । रणा॑य । चक्ष॑से ॥
+</details>
+
 <details><summary>Hellwig Grammar</summary>
 
 -   *āpo* ← *āpaḥ* ← *ap*
@@ -356,6 +361,11 @@ _____________
 शं नो देवीरभिष्टय आपो भवन् तु पीतये ।
 </details>
 
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+एताश्च तिस्रः 'वि पाजसा' इत्यत्र व्याख्याताः । हे आपः यूयं आपो व्यापिकास्स्थ । मयोभुवः सुखस्य भावयित्र्यः ता यूयं ऊर्जे अन्नार्थं रसार्थं वा दधातन धारयत । महते रमणीयाय दर्शनीयाय वा ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -450,6 +460,13 @@ Since you Waters are sheer refreshment, so destine us for nourishment and to see
 
 YE, Waters, are beneficent: so help ye us to energy  
      That we may look on great delight.
+</details>
+
+<details><summary>Keith</summary>
+
+Ye, waters, are healing;  
+Further us to strength,  
+To see great joy.
 </details>
 
 <details><summary>Griffith (माध्यन्दिनम्)</summary>

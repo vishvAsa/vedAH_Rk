@@ -242,6 +242,14 @@ SWIFT, rapidly striking, like a bull who sharpens his horns, terrific, stirring 
      With eyes that close not, bellowing, Sole Hero, Indra. subdued at once a hundred armies.
 </details>
 
+<details><summary>Keith</summary>
+
+Swift, like a bull sharpening his horns, the warrior  
+Fond of slaughter, disturber of the people,  
+Bellowing, unwinking, sole hero,  
+Indra at once conquered a hundred hosts.
+</details>
+
 <details><summary>Geldner</summary>
 
 Rasch, die Waffe wetzend wie ein furchtbarer Stier die Hörner, immer dreinschlagend, Aufrührer der Völker, Heerrufer, die Augen offen haltend, der einzige Held, hat Indra auf einmal hundert Heerhaufen besiegt.

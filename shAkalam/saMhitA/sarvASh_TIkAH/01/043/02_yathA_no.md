@@ -201,6 +201,13 @@ That Aditi may grant the grace of Rudra to our folk, our kine,
      Our cattle and our progeny;
 </details>
 
+<details><summary>Keith</summary>
+
+That Aditi may accord  
+To our cattle, our men, our kine,  
+To our offspring, Rudra's grace.
+</details>
+
 <details><summary>Geldner</summary>
 
 Auf das Aditi unserem Vieh, den Männern, dem Rind, auf das sie unserem Samen das rudrische Heilmittel verschaffe;

@@ -358,6 +358,14 @@ Piercing the cow-stalls with surpassing vigour, Indra, the pitiless Hero, wild w
      Victor in fight, unshaken and resistless,may he protect our armies in our battles.
 </details>
 
+<details><summary>Keith</summary>
+
+In might penetrating the cowstalls,  
+Impetuous [2], the hero, Indra, with wrath a hundredfold,  
+Hard to resist, enduring in battle, unovercomable,  
+May he aid our armies in the battles.
+</details>
+
 <details><summary>Geldner</summary>
 
 Der mit Gewalt in die Kuhställe eindringt, ohne Erbarmen, der Held Indra mit hundertfachem Eifer, unentwegt, die Kämpfe bestehend, nicht zu bekämpfen, der soll in den Schlachten unseren Heeren weiter helfen.

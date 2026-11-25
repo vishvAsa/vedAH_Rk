@@ -375,6 +375,12 @@ In sweet association lived the fathers who gave us life, profound and strong in 
      Unwearied, armed with shafts and wondrous weapons, free, real heroes, conquerors of armies.
 </details>
 
+<details><summary>Keith</summary>
+
+The fathers with pleasant seats, granting strength, A support in trouble mighty and profound,  
+With varied hosts, with arrows to strengthen them, free, With real heroes, broad conquerors of hosts.
+</details>
+
 <details><summary>Geldner</summary>
 
 Die Väter sind bei süßem Soma versammelt, Kraft verleihend, die Zuflucht in der Not, leistungsfähig, tiefgründig, eine wunderbare Heerschar bildend, pfeilstark, ohne Fehl, gleich mannhaft, stämmig, Heere bezwingend.

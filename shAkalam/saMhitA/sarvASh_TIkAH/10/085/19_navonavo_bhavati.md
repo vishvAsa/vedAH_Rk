@@ -292,6 +292,14 @@ He, born afresh, is new and new for ever ensign of days he goes before the Morni
      Coming, he orders f6r the Gods their portion. The Moon prolongs the days of our existence.
 </details>
 
+<details><summary>Keith</summary>
+
+He is born ever new;  
+The banner of the days goeth before the dawns.  
+He appointeth their portion to the gods as he advanceth  
+The moon extendeth length of days.
+</details>
+
 <details><summary>Macdonell</summary>
 
 Ever anew, being born again, he rises; He goes before the dawns as daylight's token. He, coming, to the gods their share apportions: The moon draws out the span of man's existence.

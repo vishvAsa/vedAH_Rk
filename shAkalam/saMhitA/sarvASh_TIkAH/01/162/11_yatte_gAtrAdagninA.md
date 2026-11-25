@@ -116,6 +116,12 @@ uśádbhyaḥ ← √vaś- (root)
 मा तद्भूम्या॒माश्लि॑ष॒न्मा तृणे॑षु दे॒वेभ्य॒स्तदु॒शद्भ्यो॑ रा॒तम॑स्तु ॥३॥ ३८
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यत्ते॒ गात्रा॑द॒ग्निना॑ प॒च्यमा॑नाद॒भि शूल॒न्निह॑तस्याव॒धाव॑ति ।  
+मा तद्भूम्या॒मा श्रि॑ष॒न्मा तृणे॑षु दे॒वेभ्य॒स्तदु॒शद्भ्यो॑ रा॒तम॑स्तु ॥ [42]
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । ते॒ । गात्रा॑त् । अ॒ग्निना॑ । प॒च्यमा॑नात् । अ॒भि । शूल॑म् । निऽह॑तस्य । अ॒व॒ऽधाव॑ति ।  
@@ -130,6 +136,11 @@ uśádbhyaḥ ← √vaś- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यत्। ते॒। गात्र॑त्। अ॒ग्निना॑। प॒च्यमा॑नात्। अ॒भि। शूल॑म्। निह॑त॒स्येति॒ निऽह॑तस्य। अ॒व॒धाव॒तीत्य॑व॒ऽधाव॑ति। माम्। तत्। भूम्या॑म्। आ। श्लिष॒त्। मा। तृणे॑षु। दे॒वेभ्यः॑। तत्। उ॒शद्भ्य॒। इत्यु॒शत्ऽभ्यः॑। रा॒तम्। अ॒स्तु। ३।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यत् । ते॒ । गात्रा॑त् । अ॒ग्निना॑ । प॒च्यमा॑नात् । अ॒भीति॑ । शूल॑म् । निह॑त॒स्येति॒ नि-ह॒त॒स्य॒ । अ॒व॒धाव॒तीत्य॑व-धाव॑ति ॥ मा । तत् । भूम्या॑म् । एति॑ । श्रि॒ष॒त् । मा । तृणे॑षु । दे॒वेभ्यः॑ । तत् । उ॒शद्भ्य॒ इत्यु॒शत्-भ्यः॒ । रा॒तम् । अ॒स्तु॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -366,6 +377,14 @@ _________
 संप्रसारणम्॥ ३॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हेऽश्वाग्निना पच्यमानात्ते तव गात्राच्छरीरावयवसकाशाद्यदल्पमवधावति अशृतं सद् भूमौ पतति, निहतस्य नितरां हव्यमानस्य तवाभि शूलं शूले सक्तं यद्यदङ्गमवधावति, तदङ्गं भूम्यामपि मा श्रिषच्छ्लिष्टं लग्नं मा भूत्तृणेष्वपि लग्नं मा भूत् किंतूशदभ्यः कामयमानेभ्यो देवेभ्यो रातं दत्तमस्तु ॥  
+
+इति श्रीमत्सायणाचार्यविरचिते माधवीये वेदार्थप्रकाशे कृष्णयजुर्वेदीयतैत्तिरीयसंहिताभाष्ये चतुर्थकाण्डे षष्ठप्रपाठकेऽ ष्टमोऽनुवाकः ॥  
+८ ॥
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर मनुष्य को किस से क्या निकालना चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
@@ -424,6 +443,14 @@ let that not stick to the ground nor to the grasses; let it be given to the  god
 
 What from thy body which with fire is roasted, when thou art set upon the spit, distilleth,  
      Let not that lie on earth or grass neglected, but to the longing Gods let all be offered.
+</details>
+
+<details><summary>Keith</summary>
+
+Whatever flieth away from thy limb  
+As it is cooked by the fire when thou art spitted,  
+Let it fall not on earth, nor on the grass;  
+Be that given to the eager gods.
 </details>
 
 <details><summary>Geldner</summary>

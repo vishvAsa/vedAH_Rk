@@ -69,10 +69,22 @@ sutám ← √su- (root)
 उप॑ नो॒ हरि॑भिः सु॒तम् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+द्वि॒ता यो वृ॑त्र॒हन्त॑मः ।  
+वि॒द इन्द्र॑श्श॒तक्र॑तुः ।  
+उप॑ नो॒ हरि॑भिस्सु॒तम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 द्वि॒ता । यः । वृ॒त्र॒हन्ऽत॑मः । वि॒दे । इन्द्रः॑ । श॒तऽक्र॑तुः ।  
 उप॑ । नः॒ । हरि॑ऽभिः । सु॒तम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+द्विता᳓ । यः᳓ । वृत्रह᳓न्तमः । विदः᳓ । इ᳓न्द्रः । शत᳓-क्रतुः । उ᳓प । नः । ह᳓रिभिः । सुत᳓म् ।
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -157,6 +169,11 @@ _________
 **वृत्रहन्तमः** अतिशयेन वृत्रस्य हन्ता **शतक्रतुः** नानाविधकर्मा **यः** **इन्द्रः** **द्विता** द्विधा **विदे** वृत्रवधादावुग्रकर्मा जगद्रक्षणकाले शान्तकर्मेति द्विप्रकारेण सर्वैर्ज्ञायते । **विद** ज्ञाने'। कर्मणि विहितस्य तप्रत्ययस्य लोपस्त आत्मनेपदेषु' इति तलोपः । स त्वं **हरिभिः** सह **सुतं** सोममुपयाहि ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+द्वयोर्लोकयोः समूहो द्विता तस्यां द्वितायां वृत्रहन्तमः अतिशयेन वैरिघाती शतक्रतुः शतसंख्या- काश्वमेधयुक्तो य इन्द्रो विद्यते सोऽयमिन्द्रो हरिभिरश्वैः सह उप अस्माकं समीपं प्राप्य सुतं अभिषुतं सोमं विदे लब्धवान् ॥
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -180,7 +197,10 @@ right up to our pressed soma with your fallow bays.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">
 <details><summary><h2>31-33 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 As noted in the published introduction, the first pāda of the first verse of this tṛca provides its refrain, a slightly odd effect. Only in 31 is the refrain syntactically integrated into the verse. There are also echoes of previous verses: śatakrato, which ends 27b and 28b, appears as nom. śatákratuḥ at the end of 32b. The voc. vṛtrahantama of 30a is echoed by nom. vṛtrahántamaḥ in 32a and voc. vṛtrahan in the same metrical position in 33a. The end of this hymn is very tightly constructed.
+</details>
 
 </details>
 </div>

@@ -253,6 +253,12 @@ LET me win glory, Agni, in our battles: enkindling thee, may we support our bodi
      May the four regions bend and bow before me: with thee for guardian may we win in combat.
 </details>
 
+<details><summary>Keith</summary>
+
+May radiance be mine, O Agni, in rival invocations, May we, kindling thee, make ourselves to prosper; To me let the four quarters bow;  
+With thee as overseer may we conquer the fighters.
+</details>
+
 <details><summary>Geldner</summary>
 
 Mein soll in den Wettanrufungen der Götter der Glanz sein, o Agni; wir wollen dich anzünden und deinen Leib pflegen. Vor mir sollen sich die vier Weltgegenden neigen. Mit dir als Aufseher wollen wir die Kämpfe gewinnen!

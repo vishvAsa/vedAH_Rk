@@ -374,6 +374,14 @@ If one, when seated, with excessive urging hath with his heel or with his whip d
      All these thy woes, as with the oblations' ladle at sacrifices, with my prayer I banish.
 </details>
 
+<details><summary>Keith</summary>
+
+If one hath smitten thee, riding thee driven with force,  
+With heel or with whip [2],  
+As with the ladle the parts of the oblation in the sacrifice,  
+So with holy power all these of thine I put in order.
+</details>
+
 <details><summary>Geldner</summary>
 
 Wenn man dich beim Reiten durch übermäßiges Hetzen oder mit der Ferse oder der Peitsche angespornt hat, all das mache ich dir mit einem Segen wieder gut, wie mit einem Löffel Opferspeise die Fehler im Gottesdienst.

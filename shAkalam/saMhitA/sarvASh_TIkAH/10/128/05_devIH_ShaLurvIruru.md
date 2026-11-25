@@ -280,6 +280,13 @@ Ye six divine Expanses, grant us freedom: here, all ye Gods, acquit yourselves l
      Let us not lose our children or our bodies: let us not benefit the foe, King Soma!
 </details>
 
+<details><summary>Keith</summary>
+
+O ye six spaces divine, for us make broad room; O ye All-gods, here show your prowess;  
+May we not lose offspring nor ourselves;  
+May we not fall victims to our foe, O king Soma.
+</details>
+
 <details><summary>Geldner</summary>
 
 Ihr sechs göttlichen Räume, gebet uns Raum, alle Götter zeiget euch hier als Männer! Nicht möchten wir der Kinder noch des eigenen Leibes verlustigt gehen; nicht wollen wir dem Feinde erliegen, König Soma!

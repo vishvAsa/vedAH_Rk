@@ -302,6 +302,14 @@ Spinning the thread, follow the region's splendid light: guard thou the path way
      Weave ye the knotless labour of the bards who sing: be Manu thou, and bring the Heavenly People forth.
 </details>
 
+<details><summary>Keith</summary>
+
+Stretching the thread of the atmosphere do thou pursue the light;  
+Guard the paths of light made by prayer.
+Weave ye without a flaw the work of the singers;  
+Become Manu; produce thou. the host divine.
+</details>
+
 <details><summary>Geldner</summary>
 
 Deinen Faden weiterspannend geh du dem Lichte des Luftraumes nach; nimm die lichten Pfade, die mit Kunst bereiteten, in acht! Webet ohne Knoten das Werk der Sänger! Sei du Manu, schaffe das göttliche Volk zur Stelle!

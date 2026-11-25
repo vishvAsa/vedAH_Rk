@@ -98,6 +98,12 @@ yaviṣṭha ← yáviṣṭha- (nominal stem)
 प्र तं न॑य प्रत॒रं वस्यो॒ अच्छा॒भि सु॒म्नं दे॒वभ॑क्तं यविष्ठ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यस्ते॑ अ॒द्य कृ॒णव॑द्भद्रशोचेऽपू॒पन्दे॑व घृ॒तव॑न्तमग्ने ।  
+प्र तन्न॑य प्रत॒राव्ँवस्यो॒ अच्छा॒भि द्यु॒म्नन्दे॒वभ॑क्तय्ँयविष्ठ ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । ते॒ । अ॒द्य । कृ॒णव॑त् । भ॒द्र॒ऽशो॒चे॒ । अ॒पू॒पम् । दे॒व॒ । घृ॒तऽव॑न्तम् । अ॒ग्ने॒ ।  
@@ -112,6 +118,11 @@ yaviṣṭha ← yáviṣṭha- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यः। ते॒। अ॒द्य। कृ॒णव॑त्। भ॒द्र॒शो॒च॒ इति॑ भद्रऽशोचे। अ॒पू॒पम्। दे॒व॒। घृ॒तव॑न्त॒मिति॑ घृ॒तऽव॑न्तम्। अ॒ग्ने॒। प्र। तम्। न॒य॒। प्र॒त॒रमिति॑ प्रऽत॒रम्। वस्यः॑। अच्छ॑। अ॒भि। सु॒म्नम्। दे॒वभ॑क्त॒मिति॑ दे॒वऽभ॑क्तम्। य॒वि॒ष्ठ॒। ९।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यः । ते॒ । अ॒द्य । कृ॒णव॑त् । भ॒द्र॒शो॒च॒ इति॑ भद्र-शो॒चे॒ । अ॒पू॒पम् । दे॒व॒ । घृ॒तव॑न्त॒मिति॑ घृ॒त-व॒न्त॒म् । अ॒ग्ने॒ ॥ प्रेति॑ । तम् । न॒य॒ । प्र॒त॒रामिति॑ प्र-त॒राम् । वस्यः॑ । अच्छ॑ । अ॒भीति॑ । द्यु॒म्नम् । दे॒वभ॑क्त॒मिति॑ दे॒व-भ॒क्त॒म् । य॒वि॒ष्ठ॒ ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -359,6 +370,11 @@ _________
 ( निरुक्त ५.२८ ) । एवं-विधं लोकं प्राप्तुं प्र प्रकर्षेण नय ॥ ९ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे भदशोषे कल्पाणदीप्तेऽग्ने देव ते तवाद्यास्मिन्दिवसे घृतवन्तमपूपमुस्तरणाभिधारणोपेतं पुरोडाशं यो यजमानः कृणवत्करोति।   हे यविष्ठ युवतम देवभक्तं देवेषु भक्तियुक्तं तं पुरोडाशकारिणं यजमानमभिद्युम्नमच्छाभिमतं धनं प्राप्तुं प्रकर्षेण नय प्रेरय कीदृशं द्युम्नं, प्रतरां प्रकृष्टतरं वस्योऽतिशयेन निवासकारणम्।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर विद्वान् लोग कैसे रसोइया को स्वीकार करें, यह विषय अगले मन्त्र में कहा है ॥
@@ -424,6 +440,13 @@ apportioned by the gods, o youngest one.
 
 Whoso this day, O God whose flames are lovely, prepares a cake, O Agni, mixt with butter,  
      Lead thou and further him to higher fortune, to bliss bestowed by Gods, O thou Most Youthful.
+</details>
+
+<details><summary>Keith</summary>
+
+He who first maketh for thee to-day, O thou of wondrous radiance, A cake rich in ghee, O god Agni;  
+Do thou bear him ever on to the better,  
+To glory allotted by the gods, O youngest one [3].
 </details>
 
 <details><summary>Geldner</summary>

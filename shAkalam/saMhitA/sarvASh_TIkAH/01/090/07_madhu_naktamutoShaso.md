@@ -81,6 +81,12 @@ pitā́ ← pitár- (nominal stem)
 मधु॒ द्यौर॑स्तु नः पि॒ता ॥२८ ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+मधु॒ नक्त॑मु॒तोषसि॒ मधु॑म॒त्पार्थि॑वँ॒ रजः॑।  
+मधु॒ द्यौर॑स्तु नᳶ पि॒ता ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मधु॑ । नक्त॑म् । उ॒त । उ॒षसः॑ । मधु॑ऽमत् । पार्थि॑वम् । रजः॑ ।  
@@ -95,6 +101,11 @@ pitā́ ← pitár- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 मधु॑। नक्त॑म्। उ॒त। उ॒षसः॑। मधु॑म॒दिति॒ मधु॑ऽमत्। पार्थि॑वम्। रजः॑। मधु॑। द्यौः॑। अ॒स्तु॒। नः॒। पि॒ता। २।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+मधु॑ । नक्त॑म् । उ॒त । उ॒षसि॑ । मधु॑म॒दिति॒ मधु॑-म॒त् । पार्थि॑वम् । रजः॑ ॥ मधु॑ । द्यौः । अ॒स्तु॒ । नः॒ । पि॒ता ॥
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -229,6 +240,11 @@ _________
 मधु द्यौ: "अस्तु नः अस्माकं पिता पितृ-भूता द्यौः मधुमती अस्तु ॥२॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+नक्तं रात्रौ मध्वस्माकमस्तु ।   उतापि चोषसि प्रभाते मध्वस्तु ।   तथा यत्षार्थिवं रजस्तत्सर्वं मधुमन्माधुर्यरसोपेतमस्तु ।   नोऽस्माकं पिता पितृस्थानीया द्यौर्मध्वस्तु मधुररसोपेताऽस्तु ।
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर भी वही विषय अगले मन्त्र में कहा है ॥
@@ -281,6 +297,13 @@ Honey be Father Heaven for us.
 
 Sweet be the night and sweet the dawns, sweet the terrestrial atmosphere;  
      Sweet be our Father Heaven to us.
+</details>
+
+<details><summary>Keith</summary>
+
+Sweet is the night, and sweet  
+At dawn the air of earth,  
+Sweet be the sky, our father.
 </details>
 
 <details><summary>Geldner</summary>
