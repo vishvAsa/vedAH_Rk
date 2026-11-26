@@ -314,6 +314,11 @@ Vergangen sind die Sterblichen, welche die früheren Usas´ aufgehen sahen, jetz
 Those men went to the Death, who saw the rising dawns in the old age, we have also to go to (Death) who are seeing (the dawns), and they will also go, who will see the dawns in future.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+ये मर्त्यासो मनुष्या व्युच्छन्तीं प्रभातं कुर्वतीमुषसमुषःकालदेवतां पूर्वतरामितरेभ्योऽत्यन्तं पूर्वामपश्यन्पश्यन्ति, ते मनुष्या ईयुस्तां देवतां प्राप्नुवन्ति । (सा)अस्माभिरू नु अस्माभिरपि नु क्षिप्रं प्रतिचक्ष्याऽभूत्प्रत्यक्षं दर्शनीयाऽभूत् । येऽन्येऽप्यपरीष्वपररात्रिषु रात्रीणामवसानेषु पश्यान्पश्यन्ति ते ओ यन्ति तेऽपि तां देवतां सर्वथा प्राप्नुवन्ति ॥
+</details>
+
 <details><summary>Grassmann</summary>
 
 Verschwunden sind die Menschen, welche schauten die Morgenröthe, die da früher strahlte; Jetzt hat sie sich von uns erblicken lassen, es kommen noch, die sie in Zukunft schauen.

@@ -183,6 +183,11 @@ To the Assembly's wondrous Lord, to Indra's lovely Friend who gives
 I have obtained the lord of the assembly, the wonderful one, dear to Indra, worth desiring, winning and the intellect.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+सीदत्यस्मिन्नव्याकृते कारणे सर्वं जगदिति सदः। तस्य पतिं पालकमन्तर्या- मिणमयासिषमहं प्राप्तवानस्मि। शीघ्रं प्राप्तवानित्यनया विवक्षया भूतार्थनिर्देशः। कीदृशं सदसस्पतिम्। अद्भुतमाश्चर्यरूपम्। मनसाऽप्यचिन्त्यरचनारूपस्य जगतोऽनायासेन निर्मातृत्वमद्भुतत्वम्। इन्द्रस्य देवराजस्यापि प्रियम्। सोऽप्यन्तर्यामिणं कदा प्राप्स्यामीत्येवमाशास्ते। अत एव सर्वैरन्यैः काम्यमपेक्षणीयम्। सनिं कर्मफलस्य दातारम्। मेधां श्रुताधीतग्रन्थधारणशक्तिं प्रयच्छन्तमिति शेषः।
+</details>
+
 <details><summary>Geldner</summary>
 
 Den unsichtbaren Schutzgeist des Hauses, den geliebten Freund Indra´s, habe ich um Verdienst und Eingebung angegangen,

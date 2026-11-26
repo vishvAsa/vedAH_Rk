@@ -512,6 +512,21 @@ ward off misfortune far away.
 agni you purify our life, send to us swift strength. Prevent the misfortune from over taking us.
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+4\. O Fire, make our lives pure; impell vigour and food (to come) to us; destroy away the poverty.
+</details>
+
+<details><summary>भट्टभास्कर-टीका (आरण्यकम्)</summary>
+
+अग्न आयूंषि इति गायत्र्यौ23 ॥ हे अग्ने ! अस्माकम् आयूंषि पवसे प्रेरय शोधय वा । किञ्च - अस्मभ्यम् इषमूर्जं च आसुव । अनुजानीहि प्रेरय वा अस्माकं दुच्छुनाम् अलक्ष्मीं च आरे दूरं बाधस्व ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हेऽग्ने, आयूंष्यस्मदीयजीवनानि पवसे यथा वर्धन्ते तथा शोधय । क्षीरादिरसमिषमन्नं च नोऽस्माकमासुवाऽऽभिमु्ख्येन प्रेरय । दुच्छुनामुपद्रवमारे दूरे नीत्वा बाधस्व विनाशय ।
+</details>
+
 <details><summary>Geldner</summary>
 
 O Agni, du läuterst uns Lebenskraft zu; weise uns Stärkung und Labung zu! Halte das Unheil weit ab!

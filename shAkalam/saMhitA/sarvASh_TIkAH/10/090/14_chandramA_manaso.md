@@ -235,6 +235,11 @@ Aus dem Nabel ward der Luftraum, aus dem Haupte ging der Himmel hervor, aus den 
 The moon was born of (his) mind; the sun was born of the eye, Indra and the fire were born of the mouth and the wind was born of the breath.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यथा दध्याज्यादिद्रव्याणि गवादिपशव ऋगादिवेदा ब्राह्मणादिमनुष्याश्च तस्मादुत्पन्नाः, एवं चन्द्रादयो देवा अपि तस्मादेवोत्पन्नाः । चक्षोश्चक्षुषः ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Aus seinem Nabel ward die Luft, aus seinem Kopf entstand der Himmel, aus seinen Füssen die Erde, aus seinem Ohr die Weltgegenden; so bildeten sie die Welten.

@@ -194,6 +194,21 @@ _____________
 चतुर्-दशे द्वितीयाति-ग्राह्यस्य ग्रहण-भक्षण-मन्त्रावुच्येते ।
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+5\. O Fire, (you have) good deeds; make our brilliance and good vigour pure giving me wealth and nourishment (1).
+</details>
+
+<details><summary>भट्टभास्कर-टीका (आरण्यकम्)</summary>
+
+अग्ने पवस्वेति ॥ हे अग्ने! त्वं स्वपाः शोभनकर्मा अस्मदर्थं सुवीरं वर्चः पवस्व । दघद्रयिं मयि पोषमिति पदयोः स्थानविनिमयो विशेषः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हेऽग्ने शोभनमपः कर्म यस्यासौ स्वपाः, तादृशस्त्वमस्मे अस्मदीयं वर्चो ब्रह्मवर्चसं सुवीर्यं शोभनसामर्थ्यं च पवस्व शोधय, वर्धयेत्यर्थः । धनं पुष्टिं च मयि दधत्स्थापय ।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________

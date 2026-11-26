@@ -392,6 +392,11 @@ Aus ihm entstanden die Rosse und alle Tiere mit doppelter Zahnreihe, aus ihm ent
 From that sacrifice, where all (in the form of the person) was sacrificed, came forth the Ṛcas, the Sāmans, the verses came forth from that, the Yajus was produced from that (4).
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+छन्दांसि गायत्र्यादीनि । स्पष्टमन्यत् ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; aus ihm entsprangen die Rinder, aus ihm die Ziegen und Schafe.

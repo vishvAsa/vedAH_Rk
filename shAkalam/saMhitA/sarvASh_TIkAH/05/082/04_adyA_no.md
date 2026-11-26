@@ -194,6 +194,11 @@ Send us this day, God Savitar, prosperity with progeny.
 O god Savitr, grant us today fortune with progeny and destroy the effect of bad dreams.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे सवितः प्रेरक देवाद्यास्मिन्दिने नोऽस्माकं विद्यार्थिनां प्रजावच्छिष्य-प्रशिष्यादिप्रजोपेतं सौभगमाचार्यरूपं भाग्यं सावीः प्रेरय प्रयच्छेत्यर्थः। दुष्ष्वप्नियं दुष्टस्वप्नसदृशं द्वैतप्रतिभासं परासुव निराकुरु।
+</details>
+
 <details><summary>Geldner</summary>
 
 Mögest du, Gott Savitri, uns heute kinderreiches Glück zuweisen. Weise üblen Traum ab!

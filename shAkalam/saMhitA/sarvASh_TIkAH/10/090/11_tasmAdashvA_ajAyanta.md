@@ -362,6 +362,11 @@ Als sie den Purusa auseinander legten, in wie viele Teile teilten sie ihn? Was w
 From that the horses were produced and also those, who have teeth in the sides of the mouth (as asses etc.) were born; the cows came forth from that; the goats and the sheep were born of him.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अश्वव्यतिरिक्ता गर्दभा अश्वतराश्च ये केचिदूर्ध्वाधोभागयोरुभयोर्दन्तयुक्ताः सन्ति तेऽप्यश्ववदजायन्त । तथा गावोऽजाश्चावयश्च ते सर्वेऽप्युत्पन्नाः ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Als sie den Urmenschen umgestalteten, wie vielfach wandelten sie ihn um? Was ward sein Mund? was seine Arme? was seine Schenkel? wie wurden seine Füsse genannt?

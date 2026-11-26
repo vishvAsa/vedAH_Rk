@@ -465,6 +465,11 @@ Indra generated one, the Sun one; from Vena they carved out one through inherent
 The gods discovered that ghee laid down in the cow in triple shape (milk, curd and ghee), concealed by Panis (demons); Indra produced one shape, the sun another; the third by their own power.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+त्रिधा हितं शरीरे विश्वतैजसप्राज्ञाख्येन त्रिप्रकारेण ब्रह्माण्डे विराड्ढिर- ण्यगर्भाव्याकृताख्येन च त्रिः(त्रि)प्रकारेणावस्थितं घृतं दीप्तं स्वप्रकाशं ब्रह्मतत्त्वं देवासो देववत्सात्त्विका अन्तर्मुखाः पुरुषा गवि वाचि तत्त्वमस्या-दिवेदरूपायामन्वविन्दन्ननुक्रमेण लब्धवन्तः। कीदृशं घृतम्---पणिभिर्गुह्यमानम्। पण व्यवहारे स्तुतौ चेति धातुः। पणिभिः स्तोतृभिरुपदेष्टृभिराचार्यैः परमरहस्यत्वेन गोप्यमानम्। त्रिधा हितमित्येतदेव विविच्यते। इन्द्रः परमैश्वर्ययुक्तो विराट्पुरुष एकं जागरणरूपं जजानोत्पादितवान्। सूर्यशब्दस्तेजस्वित्वेन हिरण्यगर्भमुपलक्षयति। स च हिरण्यगर्भ एकं स्वप्नरूपं जजान। वेने(वे? )ति धातुः कान्तिकर्मा। वेनात्सर्वदुःखराहित्येन कमनीयादव्याकृतादेकं सुषुप्तरूपं निष्पन्नमिति शेषः। स्वस्मिन्नेव धीयतेऽवस्थाप्यत इत्याश्रयान्तररहिता ब्रह्मरूपा चित्स्वधाशब्देनोच्यते "स भगवः कस्मिन्प्र- तिष्ठित इति स्वे महिम्नि " इति श्रुत्यन्तरात्। तया स्वधया ब्रह्मरूपया चिता पूर्वोक्ता इन्द्रसूर्यवेना निष्टतक्षुर्जागरणादिकं निष्पादितवन्तः। एताभ्यां द्वाभ्यामृग्म्यां प्रणवतत्प्रतिपाद्यार्थौ प्रपच्चितौ।
+</details>
+
 <details><summary>Geldner</summary>
 
 Dreifach geteilt fanden das von den Pani´s verborgene Ghrita die Götter wieder in der Kuh. Indra hat das eine, Surya das eine erzeugt. Eines haben sie aus dem Seher durch eigene Kraft herausgebildet.

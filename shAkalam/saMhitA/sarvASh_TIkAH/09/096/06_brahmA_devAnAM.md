@@ -324,6 +324,11 @@ the falcon of vultures, the axe of forests, Soma crosses the sieve roaring.
 That Atman (Self) is Brahman among the gods, knowledge (of words) among the poets, the seer among the learned ones (Vipras); buffalo among the animals, falcon among the vultures, cutting instrument among the woods; that (Atman) as Soma wins all purifying (objects) making utterance (of Mantras).
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अन्तर्बहिर्वर्तिनां प्राणसमुद्रादीनामचेतनानां सृष्टिमुक्त्वा चेतनेषु परमे- श्वरस्योत्कृष्टरूपेणावस्थानमुच्यते। देवानामग्नीन्द्रादीनां मध्ये ब्रह्मा चतुर्मुखो भूत्वा परमेश्वरो नियामकत्वेनावतिष्ठते। तथा कवीनां काव्यनाटकादिकर्तॄणां पुरुषाणां मध्ये पदवीर्भूत्वाऽवतिष्ठते। व्याकरणे निष्पन्नः सुशब्दविशेषः पदं तद्वेति गच्छतीति पदवीः शब्दसामार्थ्याभिज्ञो व्यासवाल्मीक्यादिरूप इत्यर्थाः। विप्राणां वैदिकमार्गवर्तिनां ब्राह्माणानां मध्य ऋषिस्तत्तद्गोत्रप्रवर्तको वसिष्ठादिरूपो बभूव। मृगाणां चतुष्पदां मध्ये शक्त्याधिक्येन युक्तो महिषो बभूव। गृध्रोपलक्षितानां सर्वेषां पक्षिणां मध्ये प्रबलः श्येनो बभूव। वनानां वृक्षसमूहरूपाणां मध्ये छेदनार्थः स्वधितिः परशुर्बभूव। यागहेतुभू- तबल्यात्मकः सोमो भूत्वा रेभन्मन्त्रशब्दयुक्तः सन्पवित्रं शुद्धिकारणं गङ्गा-जलकुशदर्भादिद्रव्यजातं सर्वमत्येति।
+</details>
+
 <details><summary>Geldner</summary>
 
 Der Hohepriester der Götter, der Pfadfinder der Seher, der Rishi unter den Beredten, der Büffel unter den wilden Tieren, der Adler unter den Geiern, die Axt für die Bäume, geht Soma laut redend durch die Seihe.

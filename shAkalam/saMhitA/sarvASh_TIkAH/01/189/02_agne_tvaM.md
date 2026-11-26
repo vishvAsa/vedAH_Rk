@@ -330,6 +330,16 @@ and be a broad, thick, wide stronghold for us; for offspring, for descendants, [
 O fire, worth praising, make us across all the difficulties by protections; may the village be vast, much broad for us; be wealful for our sons and grandsons.
 </details>
 
+<details><summary>भट्टभास्कर-टीका (आरण्यकम्)</summary>
+
+अग्ने त्वमिति व्याख्याता 'उभा वां' इत्यत्र । अत्र तु परवस्तुपरतया व्याख्येया ॥
+</details>
+
+<details><summary>सायण-टीका (आरण्यकी)</summary>
+
+हेऽग्ने नव्यः स्तोतव्यस्त्वमस्मान्स्वस्तिभिः क्षेमकारिभिरुपायैर्विश्वा दुर्गाण्यति सर्वा आपदोऽतिशयेन लङ्घयित्वा पारय संसारस्य परतीरं नय। नोऽस्माकं त्वत्प्रसादात्पूश्च या निवासयोग्या पुरी साऽपि पृथ्वी विस्तीर्णा भवतु। ऊर्वी सर्वस्य निष्पादनयोग्या भूमिरपि बहुला भवतु। त्वं च तोकाय तनयायास्मदपत्याय तदीयपुत्राय च शंयोर्भव सुखस्य मिश्रयिता भव।
+</details>
+
 <details><summary>Geldner</summary>
 
 Agni, geleit uns aufs neue glücklich über alle Fährlichkeiten! Sei du uns eine breite, umfangreiche, weite Burg, sei für den leiblichen Samen zum Wohl und Heil!

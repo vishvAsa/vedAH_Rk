@@ -315,6 +315,11 @@ Savitar, God, send far away all sorrows and calamities,
 O god Savitr, destroy all the sins; what is auspicious, bring that for me.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+हे सवितः प्रेरक देव दुरितानि ज्ञानप्रतिबन्धकानि पापानि विश्वानि सर्वाणि परासुव पराकुरु। भद्रं कल्याणमसंभावनाविपरीतभावनारहितं तत्त्वज्ञानं यदस्ति तन्मे मह्यमुपासकायाऽऽसुव साकल्येन प्रयच्छ।
+</details>
+
 <details><summary>Geldner</summary>
 
 Weise alle Gefahren ab, Gott Savitri. Was Glück bringt, das weise uns zu!

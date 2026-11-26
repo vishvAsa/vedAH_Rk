@@ -72,10 +72,31 @@ naḥ ← ahám (pronoun)
 अप॑ नः॒ शोशु॑चद॒घम् ॥
 </details>
 
+<details><summary>मूलम् - तैत्तिरीयारण्यकम्</summary>
+
+प्रयद॒ग्नेस्सह॑स्वतो वि॒श्वतो॒ यन्ति॑ सू॒रयः॑ ।  
+अप॒ न॒श्शोशु॑चद॒घम् ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । यत् । अ॒ग्नेः । सह॑स्वतः । वि॒श्वतः॑ । यन्ति॑ । भा॒नवः॑ ।  
 अप॑ । नः॒ । शोशु॑चत् । अ॒घम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीयारण्यकम्)</summary>
+
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-63, *TK*-5, *SB-K*-1602, *VS-K*-60, *KS*-205, *MS*-829)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-102/728, *TK*-6/66, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-5/244, *VS-K*-37/456, *KS*-257/818, *MS*-1830/3763)
+- अग्नेः᳓ (*TS*-163/1195, *RV*-54/856, *TB*-28/310, *AV*-43/419, *SB-M*-224/2495, *SB-K*-210/2289, *VS-M*-4/36, *VS-K*-22/193, *KS*-29/256, *MS*-200/1297)
+- स᳓हस्वतः (*TS*-0/4, *RV*-2/8, *AV*-1/6, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/1, *MS*-0/6)
+- विश्व᳓तः (*TS*-24, *RV*-65, *TK*-1, *SB-K*-7, *VS-K*-14, *KS*-13, *MS*-24)
+- य᳓न्ति (*TS*-13, *RV*-19, *TB*-5, *SB-K*-89, *VS-K*-1, *KS*-1, *MS*-36; यद्वृत्तान्नित्यम्, पा॰ ८.१.६६)
+- सूर᳓यः (*TS*-2/8, *RV*-35/111, *TB*-0/1, *AV*-3/17, *SB-M*-2/5, *SB-K*-1/3, *VS-M*-1/2, *VS-K*-3/10, *KS*-1/7, *MS*-3/15)
+- अ᳓प (*TS*-136, *RV*-226, *TB*-23, *TK*-3, *SB-K*-329, *VS-K*-10, *KS*-54, *MS*-172)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *AV*-1014, *SB-K*-533, *VS-K*-111, *KS*-252, *MS*-616)
+- शो᳓शुचत् (*RV*-10 १.९७.१; चादिलोपे विभाषा पा॰ ८.१.६३)
+- अघ᳓म् (*TS*-0/1, *RV*-16/33, *AV*-22/24, *SB-M*-17/19, *SB-K*-17/20, *VS-K*-1, *KS*-1, *MS*-1/4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -160,6 +181,23 @@ _________
 **सहस्वतः** सहनवतः शत्रूनभिभवतः **अग्नेः** **भानवः** दीप्तयः **विश्वतः** सर्वतः सर्वस्मादपि प्रदेशात् **प्र** **यन्ति** प्रकर्षेणोद्गच्छन्ति। **यत्** यस्मादेवं तस्मात्तेनाग्नितेजसा अस्मदीयम् **अघं** नश्यतु । यन्ति । ' इणो यण् ' (पा. सू. ६. ४. ८१ ) इति यणादेशः ॥
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+To which powerful fire the brave ones go; may that shine taking away our sin.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्र यदग्नेरिति ॥ यत् । षष्ठ्येकवचनस्य लुक् । यस्य अग्नेः सहस्वतः बलवतः ज्वालां स्वभूताः सूरयः विश्वतः सर्वतः प्रयन्ति स त्वं नो ऽघम् अपनय ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ चतुर्थम् आह -
+
+यच्-छब्दः प्रसिद्धि-वाची। यत् प्रसिद्धाः सूरयो विद्वांसः सहस्वतो बलवतो ऽग्नेः सकाशात् प्रयन्ति प्रकर्षेण प्राप्नुवन्ति।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -178,7 +216,10 @@ When the beams of powerful Agni go forth in all directions
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/097/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 These three middle verses, before the refrain becomes reintegrated into the verse, begin identically: prá yát, though the sense of yád in 3-4 differs from that in 5.
+</details>
 
 </details>
 </div>

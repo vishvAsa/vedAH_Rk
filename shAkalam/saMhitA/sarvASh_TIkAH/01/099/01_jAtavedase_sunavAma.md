@@ -271,6 +271,11 @@ Let us press Soma for Gâtavedas 1. May he burn down the property of the niggard
 We press Soma for Fire (Jatavedas); his knowledge burns those, who wish to be our enemies; he makes us across all the difficulties and sins like the crossing of the sea by a boat.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+वेदांसि वेदनानि ज्ञानानि तानि जातान्युत्पन्नानि यस्मादग्नेः सोऽयं जातवेदाः, आधानेन संस्कृतेऽग्नौ पश्चात्तदा तदा कर्तव्यविषयाणि ज्ञानान्युत्पद्यन्ते। तस्मै जातवेदसे यागकाले लतात्मकं सोमं सुनवामाभिषुतं करवाम। स्वयं सर्वं वेत्तीति वेदोऽग्निः। स चारातीयतोऽस्मास्वरातित्वं शत्रुत्वमिच्छतः पुरुषान्निदहाति नितरां भस्मी करोति। किंच सोऽग्निर्नोऽस्माकं विश्वा दुर्गाणि सर्वा आपदोऽतिपर्षदतिशयेन नाशितवानित्यर्थः। किंच यथा लोके नावा सिन्धुं सनुद्रं नाविकस्तारयति तथाऽग्निर्दुरितानि पापान्यतिशयेन तारयतीति शेषः।
+</details>
+
 <details><summary>Geldner</summary>
 
 Dem Jatavedas wollen wir Soma pressen; er soll das Besitztum des Mißgünstigen niederbrennen. Er führe uns über alle Schwierigkeiten, Agni über die Fährlichkeiten wie mit dem Schiff über den Strom.

@@ -517,6 +517,11 @@ Four are his horns, three are the feet, two are the heads and seven are the hand
 [P308_17]: *(Explanation)* The numbers have been explained in three ways identifying the bull with the sacrifice, the sun and the inspired word as follows:
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+शृङ्गा प्रणवस्य यान्यकारादीनि शृङ्गाणि तानि चत्वारि। अस्य प्रणवप्रतिपाद्यत्वेन प्रणवरूपस्य ब्रह्मणस्त्रयः पादाः। पद्यते गम्यते ब्रह्मतत्त्वमेभिरिति पादाः। अध्यात्मं विश्वतैजसप्राज्ञाः। अधिदैवं विराङ्ढिरण्यगर्भाव्याकृतानि। द्वे शीर्षे उत्तमाङ्गस्थानीये चिदचिद्रूपे द्वे शक्ती। तथैवास्य ब्रह्मणो भूरादयः सप्त लोका हस्तासो हस्तस्थानीयाः। त्रिधा बद्धोऽकारोकारमकारेषु विश्वतैजसप्राज्ञैर्विराड्ढिरण्यगर्भाव्याकृतैश्च त्रिप्रकारेण संबद्धो वृषभः प्रणवो महस्तेजोरूपं ब्रह्मतत्त्वं रोरवीति, अतिशयेन प्रतिपादयति। तदेव प्रतिपाद्यं स्पष्टी क्रियते---देवः परमेश्वरो मर्त्यान्मनुष्यदेहानाविवेश सर्वतः प्रविष्टः "स एष इह प्रविष्ट आ नखाग्रेभ्यः " इति श्रुत्यन्तरात्।
+</details>
+
 <details><summary>Geldner</summary>
 
 Vier Hörner, drei Füße hat er, zwei Köpfe, sieben Hände hat er. Dreifach gefesselt brüllt der Stier. Der große Gott ist in die Sterblichen eingegangen.

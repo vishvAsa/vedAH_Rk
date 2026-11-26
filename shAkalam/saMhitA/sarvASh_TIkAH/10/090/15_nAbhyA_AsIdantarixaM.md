@@ -245,6 +245,11 @@ Sieben waren seine Umleghölzer, dreimal sieben Brennhölzer wurden gemacht, als
 From the navel the mid-region was born; from the head moved round the heaven; from the legs the earth and from the ear the quarters came forth; in that way they caused all the world (6).
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यथा देवास्तस्मादुत्पन्नास्तथा लोकानप्यन्तरिक्षादीन्प्रजापतेर्नाभ्याद्यवयवेभ्योऽकल्पयन्नुत्पादितवन्तः ।
+</details>
+
 <details><summary>Grassmann</summary>
 
 Sieben Umschlusshölzer waren ihm, dreimal sieben Schichten des Brennholzes wurden bereitet, als die Götter, das Opfer ausrüstend, den Urmenschen als Opferthier anbanden.

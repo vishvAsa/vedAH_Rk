@@ -183,6 +183,23 @@ _________
 हे **अग्ने** **यत्** यस्मात् **ते** तव **सूरयः** स्तोतारः प्रजायन्ते पुत्रपौत्रादिरूपेण बहुविधा भवन्ति ततः **वयं** च **ते** तव स्तोतारः सन्तः **प्र** **जायेमहि** पुत्रपौत्रादिभिरुपेता भवेम ॥ जायेमहि । प्रार्थनायां लिङ्। श्यनि ‘ ज्ञाजनोर्जा ' इति जादेशः । अदुपदेशात् लसार्वधातुकानुदात्तत्वे श्यनो नित्त्वादाद्युदात्तत्वम् ॥
 </details>
 
+<details><summary>त्रिभुवनः</summary>
+
+O fire, may we, who are your praisers, obtain the offsprings; may you shine taking away our sin (1).
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+प्र यत्त इति ।। यदिति जसो लुक् । यद् ये वयं ते तव सूरयः प्रकर्षेण स्तोतारस् ते वयं प्रजायेमहि प्रजां प्राप्नुयामस् ते तव प्रसादेन । किञ्च - अस्माकम् अघम् अपनय ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ पञ्चमम् आह -
+
+हे अग्ने, ये वयं ते तव सूरयः (स्तोतृ-नामैतत्) प्रकर्षेण स्तोतारः। यच्-छब्द-श्रुतेस् तच्-छब्दो ऽध्याहर्तव्यः। ते वयं प्रजायेमहि प्रजां प्राप्नुयाम तव प्रसादेन तव स्व-भूताः।
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -206,7 +223,10 @@ So that we and our patrons would be further propagated through  you, o Agni,
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/097/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 These three middle verses, before the refrain becomes reintegrated into the verse, begin identically: prá yát, though the sense of yád in 3-4 differs from that in 5.
+</details>
 
 </details>
 </div>
