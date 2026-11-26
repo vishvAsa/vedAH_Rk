@@ -69,6 +69,12 @@ ratnadhā́tamam ← ratnadhā́tama- (nominal stem)
 होता॑रँ रत्न॒धात॑मम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्नि᳓मीडे पुरो᳓हितं यज्ञ᳓स्य देव᳓मृत्वि᳓जम्।  
+हो᳓तारं रत्नधा᳓तमम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निम् । ई॒ळे॒ । पु॒रःऽहि॑तम् । य॒ज्ञस्य॑ । दे॒वम् । ऋ॒त्विज॑म् ।  
@@ -78,6 +84,18 @@ ratnadhā́tamam ← ratnadhā́tama- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒ग्निम् । ई॒डे॒ । पु॒रोहि॑त॒मिति॑ पु॒रः-हि॒त॒म् । य॒ज्ञस्य॑ । दे॒वम् । ऋ॒त्विज॑म् ॥ होता॑रम् । र॒त्न॒धात॑म॒मिति॑ रत्न-धात॑मम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- ईडे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-3, *RV*-15, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1)
+- पुरः᳓-हितम् (*TS*-2/7, *RV*-4/24, *TB*-0/1, *AV*-1/8, *SB-K*-1/10, *VS-M*-0/5, *VS-K*-0/7, *MS*-2/10)
+- यज्ञ᳓स्य (*MS*-180/933, *TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/187)
+- देव᳓म् (*MS*-56/1216, *TS*-17/1023, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/528, *VS-K*-44/523)
+- ऋत्वि᳓जम् (*MS*-2/17, *TS*-1/20, *RV*-11/18, *TB*-1/16, *AV*-0/7, *SB-M*-1/68, *SB-K*-1/67)
+- हो᳓तारम् (*MS*-13/112, *TS*-10/63, *RV*-62/244, *TB*-9/136, *TK*-1/8, *AV*-6/28, *SB-M*-18/211, *SB-K*-19/211, *VS-M*-6/73, *VS-K*-6/60)
+- रत्न-धा᳓तमम् (*MS*-1, *TS*-2, *RV*-2/3, *SB-M*-1, *SB-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -200,6 +218,12 @@ I Laud Agni, the chosen Priest, God, minister of sacrifice,
 I praise Agni, domestic priest,  
 God of the sacrifice and priest,  
 The Hotr, best bestower of jewels.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I praise Agni, the household priest, the divine priest of the sacrifice,  
+the Hotṛ, the greatest bestower of treasure.
 </details>
 
 <details><summary>Oldenberg</summary>

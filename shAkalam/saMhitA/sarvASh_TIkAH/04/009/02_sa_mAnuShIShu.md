@@ -66,10 +66,30 @@ víśveṣām ← víśva- (nominal stem)
 दू॒तो विश्वे॑षां भुवत् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स᳓ मा᳓नुषीषु दूड᳓भो विक्षु᳓ प्रावी᳓र᳓मर्त्यः।  
+दूतो᳓ वि᳓श्वेषां भुवत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । मानु॑षीषु । दुः॒ऽदभः॑ । वि॒क्षु । प्र॒ऽअ॒वीः । अम॑र्त्यः ।  
 दू॒तः । विश्वे॑षाम् । भु॒व॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- मा᳓नुषीषु (*MS*-0/3, *TS*-0/7, *RV*-8/28, *TB*-2/6, *AV*-2/8, *SB-M*-0/7, *SB-K*-0/6, *VS-M*-0/2, *VS-K*-0/2)
+- दू-ड᳓भः (*MS*-4, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1/2)
+- विक्षु᳓ (*MS*-5, *TS*-6, *RV*-48, *TB*-2, *AV*-4, *SB-M*-5, *SB-K*-5, *VS-M*-3, *VS-K*-2)
+- प्र (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-67, *TK*-6, *AV*-2, *SB-M*-335, *SB-K*-369, *VS-M*-8, *VS-K*-8, *MS*-226)
+- आवीः᳓ (*MS*-2/11, *TS*-0/4, *RV*-0/41, *TB*-0/5, *AV*-0/16, *SB-M*-0/31, *SB-K*-0/21, *VS-M*-0/4, *VS-K*-0/6)
+- अ᳓मर्त्यः (*MS*-8/12, *TS*-2/7, *RV*-33/56, *TB*-3/7, *TK*-1, *AV*-5/11, *SB-M*-2/4, *SB-K*-2/4, *VS-K*-3/7)
+- दूतः᳓ (*MS*-5/10, *TS*-7/12, *RV*-54/89, *TB*-3/8, *AV*-9/15, *SB-M*-5/8, *SB-K*-6/10, *VS-M*-2/6, *VS-K*-2/6)
+- वि᳓श्वेषाम् (*MS*-12/301, *TS*-14/283, *RV*-21/1116, *TB*-6/125, *TK*-0/124, *AV*-2/353, *SB-M*-7/248, *SB-K*-7/219, *VS-M*-9/225, *VS-K*-8/224)
+- भुवत् (*MS*-4, *TS*-7, *RV*-30, *TB*-6, *AV*-13, *VS-M*-3, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -143,6 +163,11 @@ _________
 **दूळभः** दुर्दभो राक्षसादिना दुर्हिंसः **मानुषीषु** मनुसंबन्धिनीषु **विक्षु** प्रजासु **प्रावीः** प्रकर्षेण गन्ता **अमर्त्यः** अमरणधर्मा **सः** अग्निः **विश्वेषां** सर्वेषां देवानां **दूतः** **भुवत्** भवतु ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[613_7]** Ch दूरभो; vgl. RV 4, 9, 2. (Ch दूरभो; cf. RV 4, 9, 2.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -161,6 +186,12 @@ has become messenger for all.
 
 May he the Immortal, Helper, bard to be deceived among mankind,  
      Become the messenger of all.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Hard to deceive among human settlements, helping, immortal,  
+may he become the messenger of all!
 </details>
 
 <details><summary>Oldenberg</summary>

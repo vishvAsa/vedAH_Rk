@@ -70,6 +70,12 @@ dhitā́vānam ← dhitā́van- (nominal stem)
 श्रु॒ष्टी॒वान॑न्धि॒तावा॑नम् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ई᳓डे अग्निं᳓ विपश्चि᳓तं गिरा᳓ यज्ञ᳓स्य सा᳓धनम्।  
+श्रुष्टीवा᳓नं धिता᳓वानम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ईळे॑ । अ॒ग्निम् । वि॒पः॒ऽचित॑म् । गि॒रा । य॒ज्ञस्य॑ । साध॑नम् ।  
@@ -79,6 +85,18 @@ dhitā́vānam ← dhitā́van- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 ई᳓डे । अग्नि᳓म् । विपश्-चि᳓तम् । गिरा᳓ । यज्ञ᳓स्य । सा᳓धनम् । श्रुष्टी-वा᳓नम् । धिता᳓वानम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ई᳓डे (*MS*-2/3, *RV*-7, *TB*-2/3, *AV*-1, *SB-M*-1, *SB-K*-4, *VS-M*-1)
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- विपश्-चि᳓तम् (*MS*-1/4, *TS*-0/3, *RV*-7/24, *TB*-1, *TK*-0/1, *AV*-6/15, *SB-M*-0/7, *SB-K*-0/4, *VS-M*-0/5, *VS-K*-0/5)
+- गिरा᳓ (*MS*-9/14, *TS*-5/7, *RV*-68/74, *TB*-2/3, *AV*-5/9, *SB-M*-3/6, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-5/7)
+- यज्ञ᳓स्य (*MS*-180/933, *TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/187)
+- सा᳓धनम् (*MS*-1, *RV*-9/11, *TB*-2, *AV*-1)
+- श्रुष्टी-वा᳓नम् (*MS*-1, *RV*-2/4, *TB*-1)
+- धिता᳓वानम् (*MS*-1, *TB*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -149,6 +167,13 @@ _________
 11ईडे अग्निमिति गायत्री ॥ ईडे स्तौमि अग्निं विपश्चितं मेधाविनं यज्ञस्य साधनं श्रुष्टीवानं सुखवन्तं अन्नवन्तं वा । धितावानं धितं निहितं धनं तेन तद्वन्तम् । हित्वाभावश्छान्दसः । यद्वा - 'धि धारणे' 'छन्दसि वनिपौ' इति वनिप् । ईदृशमग्निं गिरा स्तौमि ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[612_4]** Dies Capitel in T1 (Nr. 11) und Brl fol. 29. 30 vorhanden; darnach accentuirt. (This chapter present in T1 (No. 11) and Brl fol. 29. 30 present; accented accordingly.)
+
+- **[612_5]** Vgl. RV 3, 27, 2; MS 4, 11, 2. (Cf. RV 3, 27, 2; MS 4, 11, 2)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -167,6 +192,12 @@ with his attentive listening and his emplaced (fires).
 
 Agni I laud, the Sage inspired, crowner of sacrifice through song,  
      Who listens and gives bounteous gifts.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I praise with song wise Agni, the effecter of the sacrifice,  
+the obedient, the attentive.
 </details>
 
 <details><summary>Oldenberg</summary>

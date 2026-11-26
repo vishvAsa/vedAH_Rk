@@ -78,10 +78,32 @@ somapéyāya ← somapéya- (nominal stem)
 अम॑र्धन्ता सोम॒पेया॑य देवा ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ग्ना इ᳓न्द्रश् च दाशु᳓षो दुरोणे᳓ सुता᳓वतो यज्ञ᳓म् इहो᳓पयातम्  
+अ᳓मर्धन्ता सोमपे᳓याय देवा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । इन्द्रः॑ । च॒ । दा॒शुषः॑ । दु॒रो॒णे । सु॒तऽव॑तः । य॒ज्ञम् । इ॒ह । उप॑ । या॒त॒म् ।  
 अम॑र्धन्ता । सो॒म॒ऽपेया॑य । दे॒वा॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ग्नाः (*TS*-0/157, *RV*-0/265, *TB*-0/45, *TK*-0/3, *AV*-0/59, *SB-M*-0/88, *SB-K*-0/80, *VS-M*-0/91, *VS-K*-0/93, *KS*-0/73)
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/388, *VS-K*-93/358, *KS*-72/189)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- दाशु᳓षः (*TS*-2/18, *RV*-23/139, *TB*-0/6, *AV*-1/21, *SB-M*-1/7, *SB-K*-1/7, *VS-M*-4/12, *VS-K*-6/12, *KS*-2/16)
+- दुरोणे᳓ (*TS*-1, *RV*-31/35, *TB*-2, *TK*-1, *AV*-6, *VS-M*-3, *VS-K*-3, *KS*-4)
+- सुता᳓वतः (*SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
+- यज्ञ᳓म् (*TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-81/179, *KS*-53/171)
+- इह᳓ (*TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-89, *VS-K*-83, *KS*-43)
+- उप-यातम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- अ᳓मर्धन्ता (*RV*-1/3)
+- सोम-पे᳓याय (*RV*-8/14, *AV*-1)
+- देवा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-32, *RV*-13, *TB*-17, *TK*-1, *AV*-1, *SB-M*-12, *SB-K*-17, *VS-M*-19, *VS-K*-10, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -202,6 +224,12 @@ o you two gods who never disdain to drink the soma.
 
 Come to the sacrifice, Agni and Indra come to the offerer's house who hath the Soma.  
      Come, friendly-minded, Gods, to drink the Soma.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni and Indra, come here to the sacrifice in the home of the worshipful one who has pressed [Soma],  
+unwearying gods, for the drinking of Soma!
 </details>
 
 <details><summary>Oldenberg</summary>

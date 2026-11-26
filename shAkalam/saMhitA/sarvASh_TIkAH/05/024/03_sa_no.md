@@ -64,9 +64,28 @@ uruṣyá ← √uruṣy- (root)
 स नो॑ बोधि श्रु॒धी हव॑मुरु॒ष्या णो॑ अघाय॒तः स॑मस्मात् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+स᳓ नो बोधि श्रुधी᳓ ह᳓वम् उरुष्या᳓ नो अघायतः᳓ समस्मात्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । नः॒ । बो॒धि॒ । श्रु॒धि । हव॑म् । उ॒रु॒ष्य । नः॒ । अ॒घ॒ऽय॒तः । स॒म॒स्मा॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- सः᳓ (*TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660, *KS*-225/1225)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382, *KS*-252)
+- बोधि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-5, *RV*-44, *TB*-2, *AV*-4, *SB-M*-6, *SB-K*-2, *VS-M*-7, *VS-K*-6, *KS*-3)
+- श्रुधी᳓ (*RV*-0/23, *TB*-0/1, *AV*-0/3, *SB-M*-0/1, *SB-K*-1, *VS-M*-1/4, *VS-K*-1/3)
+- ह᳓वम् (*TS*-11/17, *RV*-101/124, *TB*-3/5, *AV*-16/22, *SB-M*-5/7, *SB-K*-7/8, *VS-M*-9/13, *VS-K*-7/12, *KS*-5/6)
+- उरुष्या᳓ (*TS*-0/1, *RV*-1/6, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-0/3, *VS-K*-0/1, *KS*-0/1)
+- न (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48, *KS*-35)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6, *KS*-77)
+- अघ-यतः᳓ (*TS*-1, *RV*-6/8, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- समस्मात् (*RV*-1, *SB-M*-1, *VS-M*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -192,6 +211,11 @@ Be attentive to us, and hear our summons. Give us freedom from anyone  who wishe
 <details><summary>Griffith</summary>
 
 So hear us, listen to this call of ours, and keep us far from every sinful man.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+so take notice of us, hear our invocation, protect us from all intent on evil.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -89,10 +89,62 @@ várcasā ← várcas- (nominal stem)
 पय॑स्वानग्न॒ आ ग॑हि॒ तं मा॒ सं सृ॑ज॒ वर्च॑सा ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अपो᳓ अद्या᳓न्वचारिषँ र᳓सेन स᳓मसृक्ष्महि  
+प᳓यस्वान् अग्ना आ᳓गमं तं᳓ मा सँ᳓सृज व᳓र्चसा
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अपो᳓ अद्या᳓न्वचारिषं र᳓सेन स᳓मगन्महि।  
+प᳓यस्वानग्न आ᳓गमं तं᳓ मा सँसृज व᳓र्चसा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आपः॑ । अ॒द्य । अनु॑ । अ॒चा॒रि॒ष॒म् । रसे॑न । सम् । अ॒ग॒स्म॒हि॒ ।  
 पय॑स्वान् । अ॒ग्ने॒ । आ । ग॒हि॒ । तम् । मा॒ । सम् । सृ॒ज॒ । वर्च॑सा ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अपो᳓ (*TS*-7/8, *TB*-2, *SB-K*-1, *VS-K*-7, *KS*-1)
+- अद्य᳓ (*TS*-44, *RV*-215, *TB*-30, *TK*-2, *AV*-66, *SB-M*-42, *SB-K*-48, *VS-M*-55, *VS-K*-52, *KS*-14)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-108, *KS*-96)
+- अचारिषम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-1, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-1)
+- र᳓सेन (*TS*-16, *RV*-4, *TB*-4, *AV*-9, *SB-M*-61, *SB-K*-65, *VS-M*-5, *VS-K*-4, *KS*-2)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- असृक्ष्महि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- प᳓यस्वान् (*TS*-4, *RV*-1, *TB*-2, *AV*-11, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-2, *KS*-3)
+- अग्नाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- अ᳓गमन् (*RV*-1, *AV*-1, *KS*-1)
+- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-107/768, *VS-K*-75/624, *KS*-117/1225)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60, *KS*-67)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- सृज (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-22, *TB*-8, *AV*-22, *SB-M*-2, *VS-M*-7, *VS-K*-6, *KS*-7)
+- व᳓र्चसा (*TS*-15/57, *RV*-4/12, *TB*-11/26, *AV*-57/120, *SB-M*-13/67, *SB-K*-10/61, *VS-M*-9/42, *VS-K*-9/29, *KS*-16/33)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अपो᳓ (*MS*-4, *TS*-7/8, *TB*-2, *SB-K*-1, *VS-K*-7)
+- अद्य᳓ (*MS*-65, *TS*-44, *RV*-215, *TB*-30, *TK*-2, *AV*-66, *SB-M*-42, *SB-K*-48, *VS-M*-59, *VS-K*-54)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- अचारिषम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-1, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1, *MS*-1)
+- र᳓सेन (*MS*-21, *TS*-16, *RV*-4, *TB*-4, *AV*-9, *SB-M*-61, *SB-K*-65, *VS-M*-5, *VS-K*-4)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- अगन्महि (*MS*-1, *RV*-1)
+- प᳓यस्वान् (*MS*-1, *TS*-4, *RV*-1, *TB*-2, *AV*-11, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-449, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-6, *VS-K*-10)
+- अ᳓गमन् (*RV*-1, *AV*-1, *MS*-1)
+- त᳓म् (*MS*-528/5550, *TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- सम् (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-217, *TS*-4, *RV*-1, *TB*-68, *TK*-29, *AV*-1, *SB-M*-507, *SB-K*-470, *VS-K*-2)
+- सृज (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-8, *TS*-13, *RV*-22, *TB*-8, *AV*-22, *SB-M*-2, *VS-M*-7, *VS-K*-6)
+- व᳓र्चसा (*MS*-19/59, *TS*-15/57, *RV*-4/12, *TB*-11/26, *AV*-57/120, *SB-M*-13/67, *SB-K*-10/61, *VS-M*-9/42, *VS-K*-9/29)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -252,6 +304,25 @@ However, such an interpr. is not nec. in this case, since it is easy to supply a
 
 The Waters I this day have sought, and to their moisture have we come:  
      O Agni, rich in milk, come thou, and with thy splendour cover me.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I have followed after the waters today; we have united with their sap;  
+rich in milk have I come, O Agni; unite me with that splendor!  
+## Other recensions (1)  
+- [Maitrāyaṇīsaṃhitā (unaccented copy of M. Fushimi's input)](https://indike.org/pramana/in.veda.samhita.krsnayajur*maitrayani*unaccented.1.3.1) — Sanskrit  
+## Linked texts (1)  
+- [Maitrāyaṇīsaṃhitā](https://indike.org/pramana/in.veda.samhita.krsnayajur*maitrayani.1.3.1) — Sanskrit
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+I have now walked along the waters; we have united with their sap;  
+rich in milk have I come, O Agni; unite me with brilliance!
+
+I have moved along the waters today; we have united with the sap.  
+Rich in milk, O Agni, I have come; endow me with luster!
 </details>
 
 <details><summary>Geldner</summary>

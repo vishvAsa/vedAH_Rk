@@ -100,6 +100,12 @@ yát ← yá- (pronoun)
 मा॒ता यद्वी॒रन्द॒धन॒द्धनि॑ष्ठा ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ज᳓निष्ठा उग्र᳓स्स᳓हसे तुरा᳓य मन्द्र᳓ ओ᳓जिष्ठो बहुला᳓भिमानः।  
+अ᳓वर्धन्नि᳓न्द्रं मरु᳓तश्चिद᳓त्र माता᳓ य᳓द्वीरं᳓ दध᳓नद्धनिष्ठा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 जनि॑ष्ठाः । उ॒ग्रः । सह॑से । तु॒राय॑ । म॒न्द्रः । ओजि॑ष्ठः । ब॒हु॒लऽअ॑भिमानः ।  
@@ -119,6 +125,27 @@ yát ← yá- (pronoun)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 ज᳓निष्ठाः । उग्रः᳓ । स᳓हसे । तुरा᳓य । मन्द्रः᳓ । ओ᳓जिष्ठः । बहुला᳓भिमानः । अ᳓वर्धन् । इ᳓न्द्रम् । मरु᳓तः । चित् । अ᳓त्र । माता᳓ । य᳓त् । वीर᳓म् । दध᳓नत् । ध᳓निष्ठा ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ज᳓निष्ठाः (*MS*-2/4, *RV*-2, *TB*-1, *VS-M*-1, *VS-K*-1)
+- उग्रः᳓ (*MS*-23/40, *TS*-14/33, *RV*-50/153, *TB*-9/21, *TK*-1/2, *AV*-38/99, *SB-M*-4/10, *SB-K*-3/9, *VS-M*-8/23, *VS-K*-8/18)
+- स᳓हसे (*MS*-5/43, *TS*-0/35, *RV*-8/122, *TB*-3/28, *TK*-0/4, *AV*-3/50, *SB-M*-2/21, *SB-K*-1/24, *VS-M*-5/28, *VS-K*-4/40)
+- तुरा᳓य (*MS*-3/6, *TS*-1/4, *RV*-7/43, *TB*-2/3, *AV*-1/7, *SB-M*-0/4, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-1/2)
+- मन्द्रः᳓ (*MS*-3/7, *TS*-0/8, *RV*-26/58, *TB*-6/8, *TK*-0/1, *AV*-1/4, *SB-M*-0/1, *VS-M*-1/4, *VS-K*-1/5)
+- ओ᳓जिष्ठः (*MS*-4/6, *TS*-0/3, *RV*-6/16, *TB*-3/5, *AV*-2/4, *SB-M*-3/7, *SB-K*-1/4, *VS-M*-4/6, *VS-K*-1/5)
+- बहुला᳓भिमानः (*MS*-1, *TB*-1)
+- अ᳓वर्धन् (*MS*-1, *RV*-6, *TB*-1, *VS-M*-2, *VS-K*-1)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- मरु᳓तः (*MS*-71/121, *TS*-46/82, *RV*-134/227, *TB*-30/51, *TK*-1, *AV*-37/58, *SB-M*-53/95, *SB-K*-54/93, *VS-M*-26/48, *VS-K*-20/40)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- अ᳓त्र (*MS*-59, *TS*-20, *RV*-120, *TB*-48, *TK*-12, *AV*-57, *SB-M*-499, *SB-K*-440, *VS-M*-18, *VS-K*-17)
+- माता᳓ (*MS*-26/61, *TS*-17/44, *RV*-63/165, *TB*-15/28, *TK*-2, *AV*-36/77, *SB-M*-34/79, *SB-K*-35/72, *VS-M*-12/34, *VS-K*-14/38)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- वीर᳓म् (*MS*-12/36, *TS*-4/20, *RV*-22/119, *TB*-7/25, *AV*-6/66, *SB-M*-4/28, *SB-K*-3/32, *VS-M*-8/19, *VS-K*-6/17)
+- दध᳓नत् (*RV*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
+- धनिष्ठा → **ध᳓निष्ठा** (स्वर-लोपः, *RV*-1, *TB*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -380,6 +407,12 @@ It was just the Maruts who strengthened Indra then, when his mother,  best at pu
 
 THOU wast born mighty for victorious valour, exulting, strongest, full of pride and courage.  
      There, even there, the Maruts strengthened Indra when. his most rapid Mother stirred the Hero.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You were born fierce for swift strength, charming, most mighty, of boundless pride;  
+the Maruts magnified Indra even then, when the mother, most wealthy, bore the hero.
 </details>
 
 <details><summary>Geldner</summary>

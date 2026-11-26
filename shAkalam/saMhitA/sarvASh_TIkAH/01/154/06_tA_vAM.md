@@ -98,10 +98,39 @@ paramám ← paramá- (nominal stem)
 अत्राह॒ तदु॑रुगा॒यस्य॒ वृष्णः॑ पर॒मं प॒दमव॑ भाति॒ भूरि॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ता᳓ वां वा᳓स्तून्युश्मसि ग᳓मध्यै य᳓त्र गा᳓वो भू᳓रिशृङ्गा अया᳓सः।  
+अ᳓त्रा᳓ह त᳓दुरुगाय᳓स्य वि᳓ष्णोः परमं᳓ पद᳓म᳓वभाति भू᳓रि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ता । वा॒म् । वास्तू॑नि । उ॒श्म॒सि॒ । गम॑ध्यै । यत्र॑ । गावः॑ । भूरि॑ऽशृङ्गाः । अ॒यासः॑ ।  
 अत्र॑ । अह॑ । तत् । उ॒रु॒ऽगा॒यस्य॑ । वृष्णः॑ । प॒र॒मम् । प॒दम् । अव॑ । भा॒ति॒ । भूरि॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ताः᳓ (*MS*-302/5550, *TS*-136/4761, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/780, *VS-K*-17/660)
+- वाम् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-70, *TS*-52, *RV*-514, *TB*-26, *TK*-1, *AV*-65, *SB-M*-40, *SB-K*-37, *VS-M*-19, *VS-K*-15)
+- वा᳓स्तूनि (*RV*-1, *AV*-2)
+- उश्मसि (*MS*-2, *TS*-1, *RV*-10)
+- ग᳓मध्यै (*MS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- य᳓त्र (*MS*-99, *TS*-39, *RV*-123, *TB*-37, *TK*-2, *AV*-88, *SB-M*-375, *SB-K*-362, *VS-M*-46, *VS-K*-42)
+- गा᳓वः (*MS*-7/149, *TS*-12/108, *RV*-98/521, *TB*-3/76, *AV*-35/195, *SB-M*-13/168, *SB-K*-16/149, *VS-M*-10/67, *VS-K*-9/67)
+- भू᳓रि-शृङ्गाः (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1/2)
+- अया᳓सः (*MS*-1/146, *TS*-1/97, *RV*-9/275, *TB*-0/56, *TK*-0/6, *AV*-0/189, *SB-M*-1/963, *SB-K*-1/992, *VS-M*-1/79, *VS-K*-1/72)
+- अ᳓त्र (*MS*-59, *TS*-20, *RV*-120, *TB*-48, *TK*-12, *AV*-57, *SB-M*-499, *SB-K*-440, *VS-M*-18, *VS-K*-17)
+- आ᳓ह (*MS*-86, *TS*-4, *RV*-9, *TB*-13, *TK*-6, *AV*-12, *SB-M*-223, *SB-K*-232, *VS-M*-1, *VS-K*-1)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- उरु-गाय᳓स्य (*MS*-1/2, *TS*-1/3, *RV*-3/17, *TB*-0/1, *AV*-0/5, *SB-M*-1/3, *SB-K*-1/2, *VS-M*-1/2, *VS-K*-1/2)
+- वि᳓ष्णोः (*MS*-48/186, *TS*-45/151, *RV*-18/79, *TB*-4/53, *AV*-19/45, *SB-M*-33/165, *SB-K*-31/162, *VS-M*-21/58, *VS-K*-12/64)
+- परम᳓म् (*MS*-10/38, *TS*-12/45, *RV*-17/74, *TB*-6/27, *TK*-1/2, *AV*-14/53, *SB-M*-40/89, *SB-K*-38/91, *VS-M*-10/26, *VS-K*-10/28)
+- पद᳓म् (*MS*-14/33, *TS*-15/39, *RV*-46/95, *TB*-4/14, *TK*-3, *AV*-16/29, *SB-M*-29/63, *SB-K*-27/61, *VS-M*-6/17, *VS-K*-6/14)
+- अ᳓व (*MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- भाति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-15, *TS*-12, *RV*-22, *TB*-1, *TK*-1, *AV*-6, *SB-M*-9, *SB-K*-9, *VS-K*-1)
+- भू᳓रि (*MS*-11/16, *TS*-5/10, *RV*-68/101, *TB*-3/5, *AV*-18/23, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-4/5, *VS-K*-3/4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -283,6 +312,12 @@ bhū́riśṛṅga- is tr. by all as ‘many-horned’, but this doesn’t make 
 
 Fain would we go unto your dwelling-places where there are many-horned and nimble oxen,  
      For mightily, there, shineth down upon us the widely-striding Bull's sublimest mansion.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+We wish to go to those dwellings of yours where the cows are many-horned, unwearied;  
+there indeed shines forth brightly that highest step of wide-striding Viṣṇu.
 </details>
 
 <details><summary>Macdonell</summary>

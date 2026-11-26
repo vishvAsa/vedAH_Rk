@@ -63,10 +63,28 @@ draviṇasyávaḥ ← draviṇasyú- (nominal stem)
 दे॒वस्य॑ द्रविण॒स्यवः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्नेस्स्तोमं मनामहे सिध्रमद्य दिवस्पृशः।  
+देवस्य द्रविणस्यवः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्नेः । स्तोम॑म् । म॒ना॒म॒हे॒ । सि॒ध्रम् । अ॒द्य । दि॒वि॒ऽस्पृशः॑ ।  
 दे॒वस्य॑ । द्र॒वि॒ण॒स्यवः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्नेः᳓ (*MS*-200/1297, *TS*-163/1194, *RV*-54/856, *TB*-56/520, *TK*-7/105, *AV*-43/419, *SB-M*-224/2495, *SB-K*-210/2289, *VS-M*-49/325, *VS-K*-44/349)
+- स्तो᳓मम् (*MS*-19/89, *TS*-21/122, *RV*-76/206, *TB*-7/37, *AV*-13/44, *SB-M*-15/166, *SB-K*-14/166, *VS-M*-9/45, *VS-K*-7/51)
+- मनामहे (समानान्तर-पाठः (RV), *MS*-4, *TS*-3, *RV*-18, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- सिध्र᳓म् (*MS*-2, *TS*-1, *RV*-4/6)
+- अद्य᳓ (*MS*-65, *TS*-44, *RV*-215, *TB*-30, *TK*-2, *AV*-66, *SB-M*-42, *SB-K*-48, *VS-M*-59, *VS-K*-54)
+- दि᳓वस्पृशः (अनाम्नातम् (अनुमानम्))
+- देव᳓स्य (*MS*-54/1216, *TS*-39/1023, *RV*-61/1342, *TB*-15/582, *TK*-0/32, *AV*-42/707, *SB-M*-50/2031, *SB-K*-47/1945, *VS-M*-52/528, *VS-K*-45/523)
+- द्रविणस्य᳓वः (*MS*-1/2, *TS*-0/1, *RV*-1/4, *TB*-0/1, *VS-M*-0/1, *VS-K*-0/1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -135,6 +153,15 @@ _________
 **द्रविणस्यवः** द्रविणं धनमिच्छन्तो वयं **दिविस्पृशः** सूर्यरूपेणाकाशं व्याप्नुवतः **देवस्य** द्योतमानस्य **अग्नेः** **सिध्रं** पुरुषार्थानां साधकं **स्तोमं** स्तोत्रम् **अद्य** अस्मिन्नहनि **मनामहे** ब्रूमः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[315_3]** So Ch. (Thus Ch.)
+
+- **[315_4]** So corr. Ch **प्रविण**° (Thus emended; Ch reads प्रविण)
+
+**समानान्तराणि:** cf. Mâitr. S.4,10,2.
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -153,6 +180,12 @@ for the god, as we seek goods.
 
 Eager for wealth, we meditate Agni's effectual praise to-day,  
      Praise of the God who touches heaven.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+We meditate today on the effective praise of Agni touching heaven,  
+of the god, desiring wealth."
 </details>
 
 <details><summary>Oldenberg</summary>

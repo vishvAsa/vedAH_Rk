@@ -98,10 +98,71 @@ sr̥jáḥ ← √sr̥j- (root)
 त्वं वृ॒त्रं शव॑सा जघ॒न्वान्त्सृ॒जः सिन्धूँ॒रहि॑ना जग्रसा॒नान् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त्वं᳓ महं᳓ इन्द्र तु᳓भ्यँ ह क्षा᳓ अ᳓नु क्षत्रं᳓ मँह᳓ना मन्यत द्यौः᳓  
+त्वँ᳓ वृत्रँ᳓ शवसा जघन्वा᳓न्त् सृजः᳓ सि᳓न्धूँर् अ᳓हिना जग्रसाना᳓न्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वं᳓ महाँ इन्द्र तु᳓भ्यँ ह क्षा᳓ अ᳓नु क्षत्रं᳓ मँह᳓ना मन्यत द्यौः᳓।  
+त्वं᳓ वृत्रँ श᳓वसा जघन्वा᳓न्सृज᳓स्मि᳓न्धूँर᳓हिना जग्रसना᳓न्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । म॒हान् । इ॒न्द्र॒ । तुभ्य॑म् । ह॒ । क्षाः । अनु॑ । क्ष॒त्रम् । मं॒हना॑ । म॒न्य॒त॒ । द्यौः ।  
 त्वम् । वृ॒त्रम् । शव॑सा । ज॒घ॒न्वान् । सृ॒जः । सिन्धू॑न् । अहि॑ना । ज॒ग्र॒सा॒नान् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- मह᳓म् (*TS*-0/26, *RV*-0/364, *TB*-0/17, *TK*-0/5, *AV*-1/77, *SB-M*-0/37, *SB-K*-0/37, *VS-M*-0/35, *VS-K*-0/34, *KS*-0/22)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-22, *KS*-28)
+- तु᳓भ्यम् (*TS*-11/313, *RV*-93/1488, *TB*-10/152, *TK*-2/39, *AV*-37/628, *SB-M*-17/387, *SB-K*-16/387, *VS-M*-9/215, *VS-K*-9/167, *KS*-7/165)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *TS*-61, *RV*-184, *TB*-124, *TK*-116, *AV*-70, *SB-M*-3472, *SB-K*-3779, *VS-M*-9, *VS-K*-6, *KS*-25)
+- क्षाः᳓ (*RV*-7/27, *TB*-0/1, *AV*-0/4, *SB-M*-0/1, *SB-K*-0/1, *VS-K*-0/1, *KS*-1/3)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-108, *KS*-96)
+- क्षत्र᳓म् (*TS*-33/74, *RV*-32/43, *TB*-22/47, *TK*-1, *AV*-23/33, *SB-M*-179/251, *SB-K*-206/306, *VS-M*-28/45, *VS-K*-32/54, *KS*-30/41)
+- मंह᳓ना (*RV*-12, *KS*-1)
+- मन्यत (*RV*-2, *KS*-1)
+- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-25/119, *TK*-1/15, *AV*-62/340, *SB-M*-112/353, *SB-K*-107/342, *VS-M*-32/167, *VS-K*-28/172, *KS*-23/128)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- वृत्र᳓म् (*TS*-35/59, *RV*-83/173, *TB*-22/30, *AV*-10/40, *SB-M*-47/93, *SB-K*-43/93, *VS-M*-7/10, *VS-K*-5/8, *KS*-9/16)
+- शवसा (मूल-पाठः)
+- जघन्वा᳓न् (*RV*-17, *AV*-1, *KS*-1)
+- सृजः᳓ (*RV*-4/6, *SB-M*-0/2, *SB-K*-0/2)
+- सि᳓न्धूंर् (मूल-पाठः)
+- अ᳓हिना (*TS*-0/10, *RV*-6/72, *TB*-0/7, *TK*-0/1, *AV*-0/38, *SB-M*-0/12, *SB-K*-0/16, *VS-M*-0/9, *VS-K*-0/4, *KS*-0/5)
+- जग्रसाना᳓न् (*RV*-2/3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- महाम् → **महा᳓म्** (स्वर-लोपः, *MS*-7/38, *TS*-2/28, *RV*-27/398, *TB*-4/21, *TK*-2/6, *AV*-2/81, *SB-M*-3/42, *SB-K*-3/40, *VS-M*-18/35, *VS-K*-11/52)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- तु᳓भ्यम् (*MS*-14/382, *TS*-11/313, *RV*-93/1488, *TB*-10/152, *TK*-2/39, *AV*-37/628, *SB-M*-17/387, *SB-K*-16/387, *VS-M*-9/216, *VS-K*-10/180)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *MS*-176, *TS*-61, *RV*-184, *TB*-124, *TK*-116, *AV*-70, *SB-M*-3472, *SB-K*-3779, *VS-M*-9, *VS-K*-6)
+- क्षाः᳓ (*MS*-1/4, *RV*-7/27, *TB*-0/1, *AV*-0/4, *SB-M*-0/1, *SB-K*-0/1, *VS-K*-0/1)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- क्षत्र᳓म् (*MS*-82/122, *TS*-33/74, *RV*-32/43, *TB*-22/47, *TK*-1, *AV*-23/33, *SB-M*-179/251, *SB-K*-206/306, *VS-M*-28/45, *VS-K*-32/56)
+- मंह᳓ना (*MS*-2, *RV*-12)
+- मन्यत (*MS*-1, *RV*-2)
+- द्यौः᳓ (*MS*-48/308, *TS*-37/270, *RV*-102/854, *TB*-25/119, *TK*-1/15, *AV*-62/340, *SB-M*-112/353, *SB-K*-107/342, *VS-M*-32/167, *VS-K*-30/179)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- वृत्रम् → **वृत्र᳓म्** (स्वर-लोपः, *MW*, *MS*-66/99, *TS*-35/59, *RV*-83/173, *TB*-22/30, *AV*-10/40, *SB-M*-47/93, *SB-K*-43/93, *VS-M*-7/10, *VS-K*-7/10)
+- श᳓वसा (*MS*-6/12, *TS*-7/11, *RV*-80/161, *TB*-4/5, *AV*-16/39, *SB-M*-2/7, *SB-K*-2/6, *VS-M*-6/9, *VS-K*-6/8)
+- जघन्वा᳓न् (*MS*-2, *RV*-17, *AV*-1)
+- सृज् (*SB-M*-1)
+- अ᳓स्मि᳓न् → **अस्मि᳓न्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MS*-59/1379, *TS*-74/965, *RV*-76/1247, *TB*-42/567, *TK*-4/57, *AV*-82/1259, *SB-M*-216/5239, *SB-K*-246/5549, *VS-M*-27/319, *VS-K*-22/301)
+- धूम् (*MS*-1, *TS*-1, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- र᳓हिन् (मूल-पाठः)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-449, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-6, *VS-K*-10)
+- जग्रस (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- ना᳓न् (*TB*-1, *TK*-1, *SB-M*-1, *SB-K*-4, *MS*-5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -257,7 +318,10 @@ After you smashed Vr̥tra with your strength, you let loose the rivers,  which h
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/01-04.md">
 <details><summary><h2>01-04 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disruptions attendant on Indra’s birth and the further disruptions caused by his smashing of Vṛtra. On the ring composition that demarcates this section, see comm. on vs. 4 below.
+</details>
 
 </details>
 </div>
@@ -266,6 +330,18 @@ Hoffmann (Injunk. 178-180) treats these four vss. They express the cosmic disrup
 
 GREAT art thou, Indra; yea, the earth, with gladness, and heaven confess to thee thine high dominion.  
      Thou in thy vigour having slaughtered Vrtra didst free the floods arrested by the Dragon.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thou art great, O Indra; to thee indeed the earth, to thee heaven readily yielded dominion in bounty;  
+having slain Vṛtra with might, thou didst release the rivers that had been swallowed by the dragon.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+You are great, O Indra; to you the earth has yielded dominion, [to you] the sky in its bounty;  
+you, having slain Vṛtra with might, released the rivers swallowed by the serpent.
 </details>
 
 <details><summary>Geldner</summary>

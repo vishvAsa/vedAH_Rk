@@ -228,6 +228,15 @@ _________
 **सुकर्माणः** सुष्ठ्वनुष्ठितयागादिकर्माणः **सुरुचः** शोभनदीप्तयः **देवयन्तः** देवान् कामयमानाः **देवाः** देवनशीलाः स्तोतारः **जनिम** स्वकीयं मानुषं जन्म **धमन्तः** यागादिलक्षणेन कर्मणा निर्मलीकुर्वन्तः । तत्र दृष्टान्तः । **अयो** **न** । यथा कर्मारा अयो भस्त्रेण धमन्ति तद्वत् । तादृशाः **अग्निं** **शुचन्तः** हविर्भिर्दीपयन्तः **इन्द्रं** **ववृधन्तः** सोमेन स्तुत्या वा वर्धयन्तोऽङ्गिरसः **परिषदन्तः** परितः सीदन्तः सन्तः **ऊर्वं** महान्तं **गव्यं** गोसंघम् **अग्मन्** प्राप्नुवन् ॥ सुकर्माणः । **सोर्मनसी°** ' इत्युत्तरपदाद्युदात्तत्वम् । धमन्तः । ध्मा शब्दाग्निसंयोगयोः । शतरि पाघ्रादिना धमादेशः । शपः पित्त्वात् अनुदात्तत्वे ‘ शतुर्लसार्वधातुकस्वरः । ववृधन्तः । वृधु वर्धने'। व्यत्ययेन परस्मैपदम् । शतरि शपः श्लुः । गव्यम् । गवां समूह इत्यर्थे ‘खलगोरथात् ' इति यः । अग्मन् । गमेर्लुङि च्लेर्लुकि रूपम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[196_3]** Ch सुकर्मण
+
+- **[196_4]** Ch मूर्व्यं; D पूर्वं
+
+- **[196_5]** D अम्मम्
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -255,6 +264,14 @@ The standard tr. take śucántaḥ as transitive, with agním as obj., but as mo
 
 Gods, doing holy acts, devout, resplendent, smelting like ore their human generations.  
      Enkindling Agni and exalting Indra, they came encompassing the stall of cattle.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indeed, those who kindle Agni spread the sacrificial grass continuously,  
+whose youthful friend is Indra.  
+Performing good deeds, shining brightly, seeking the gods, smelting their births like metal, O gods,  
+blazing, they magnified Agni, they magnified Indra; encircling, they reached the cow-pen.
 </details>
 
 <details><summary>Oldenberg</summary>

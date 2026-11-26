@@ -95,6 +95,12 @@ dásyūn ← dásyu- (nominal stem)
 अ॒न॒श्वासो॒ ये प॒वयो॑ऽर॒था इन्द्रे॑षिता अ॒भ्यव॑र्तन्त॒ दस्यू॑न् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+वृ᳓ष्णे य᳓त्ते वृष᳓णो अ᳓र्कम᳓र्चानि᳓न्द्र ग्रा᳓वाणो अ᳓दितिस्सजो᳓षाः।  
+अनश्वा᳓सो ये᳓ पव᳓योऽरथा᳓ इ᳓न्द्रेषिता अभ्य᳓वर्तन्त द᳓स्यून्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वृष्णे॑ । यत् । ते॒ । वृष॑णः । अ॒र्कम् । अर्चा॑न् । इन्द्र॑ । ग्रावा॑णः । अदि॑तिः । स॒ऽजोषाः॑ ।  
@@ -104,6 +110,28 @@ dásyūn ← dásyu- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वृष्णे॑ । यत् । ते॒ । वृष॑णः । अ॒र्कम् । अर्चान्॑ । इन्द्र॑ । ग्रावा॑णः । अदि॑तिः । स॒जोषा॒ इति॑ स-जोषाः॑ ॥ अ॒न॒श्वासः॑ । ये । प॒वयः॑ । अ॒र॒थाः । इन्द्रे॑षिता॒ इतीन्द्र॑-इ॒षि॒ताः॒ । अ॒भ्यव॑र्त॒न्तेत्य॑भि-अव॑र्तन्त । दस्यून्॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वृ᳓ष्णे (*MS*-7/15, *TS*-5/14, *RV*-34/78, *TB*-1/4, *AV*-6/13, *SB-M*-3/4, *SB-K*-2/6, *VS-M*-2/13, *VS-K*-2/12)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- वृष᳓णः (*MS*-0/1, *SB-M*-0/1, *VS-M*-0/2, *VS-K*-0/2)
+- अ᳓र्कम् (*SB-K*-0/4)
+- अ᳓र्चान् (*MS*-1, *TS*-1, *RV*-2/22, *AV*-0/1, *SB-M*-0/6, *SB-K*-0/6)
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- ग्रा᳓वाणः (*MS*-8/21, *TS*-6/11, *RV*-17/43, *TB*-3/5, *AV*-5/17, *SB-M*-9/31, *SB-K*-7/32, *VS-M*-2/7, *VS-K*-1/7)
+- अ᳓दितिः (*MS*-67/128, *TS*-38/95, *RV*-89/155, *TB*-23/43, *TK*-1/2, *AV*-28/48, *SB-M*-48/100, *SB-K*-44/87, *VS-M*-27/63, *VS-K*-24/79)
+- सजो᳓षाः (*MS*-17, *TS*-11/13, *RV*-53/55, *TB*-5, *AV*-7, *SB-M*-2, *SB-K*-2, *VS-M*-8, *VS-K*-9)
+- अनश्वा᳓सः (*MS*-1, *TS*-1, *RV*-1/6)
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- पव᳓यः (*MS*-1/3, *TS*-1/3, *RV*-5/13, *TB*-0/1, *AV*-0/1, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/2, *VS-K*-0/2)
+- अरथाः᳓ (*TS*-1/2, *RV*-3, *AV*-1, *VS-M*-0/1, *VS-K*-0/2, *MS*-1)
+- इ᳓न्द्रेषिताः (*MS*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- अ᳓वर्तन्त (*RV*-1, *TB*-1, *MS*-6)
+- द᳓स्यून् (*MS*-2, *TS*-2, *RV*-28/64, *AV*-8/19, *SB-M*-0/1, *SB-K*-0/1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -279,6 +307,8 @@ without chariots, but impelled by Indra, rolled over the Dasyus—
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 Vs. 5 is syntactically problematic, in that it has two subordinate clauses, one marked by yád in pāda a and one marked by yé in pāda c, but no obvious main clause. The rel. cl. beginning in c must extend through d, which contains the accented imperfect ávartanta, but the extent of the yád clause is unclear. It must go as far as the end of pāda a because of the accented subjunctive árcān, but the status of b is in question. Since the vs. otherwise lacks a main clause, Geldner and Witzel Gotō make b the nominal main clause, e.g., Geldner “…, da waren die Presssteine, die Aditi einverstanden.” This is possible, but seems conceptually weak, and both Geldner and Witzel Gotō fail to render the subjunctive value of the verb in the yád clause -- Geldner silently changing it into a preterite (“anstimmten”) and Witzel Gotō using a simple pres. (“singen”).
 
 But I think the subjunctive should be taken seriously, esp. given its contrast with the impf. ávartanta in d. My solution is to assume the main clause is postponed till vs. 6, whose first pāda contains the familiar annunciatory pseudo-subjunctive prá … vocam “I shall proclaim.” Thus, vss. 5-6 depict a ritual situation in which the noise of the pressing stones is, as so often, configured as ritual speech (see, e.g., vs. 12c vádan grā́vā in this same hymn), to which the poet responds in vs. 6. I now think that vṛ́ṣaṇaḥ in pāda a is not a separate subject (“the bulls and the pressing stones” of the published translation), but instead qualifies the stones (“the bullish pressing stones”; for pressing stones as bulls, see, e.g., III.42.6, VI.44.20), and I would change the tr. to “When for you the bull, o Indra, the bullish pressing stones will chant a chant …” Sāyaṇa., cited approvingly by Geldner in n. 5a, identifies the bulls of pāda a as the Maruts, and Witzel Gotō also accept this identification, but again the subjunctive makes difficulties: the actions of the Maruts should not be prospective, but located in the mythic past (hence, presumably, Geldner’s switch to the preterite).
@@ -290,6 +320,7 @@ The subjunctive vibhárā(ḥ) in the yád clause is potentially troublesome for
 Hoffmann (244-45) classifies it as “Konjunktiv in präteritalem Sachverhalt” and suggests that the subjunctive in its prospective use can take on a timeless sense (“… einen ausserzeitlichen Sinn annehmen kann”). Geldner simply translates it as a preterite (trenntest) without comment, but Witzel Gotō take the subjunctive seriously here (though not in 5a): “… dass du … trennen und … gewinnen willst,” without further comment. I do not have an entirely satisfactory answer, but I think the yád clause must be evaluated in the context of what precedes: 6ab announces that I will proclaim Indra’s previous deeds (pū́rvāṇi káraṇāni) and “the current ones which you have done” (nū́tanā … yā́cakártha). This latter expression, which is found identically in VII.98.5, seems temporally incoherent: if they are his current deeds, he should not have already done them; yā́cakártha should limit only the first phrase, pū́rvāṇi káraṇāni. A fuller expression of this proclamation announcement, with the time of action correctly sorted, is found in nearby V.29.13 vīryā̀… yā́cakártha / yā́co nú návyā kṛṇávaḥ “The heroic deeds that you have done and the new ones that you will do,” with the perfect cakártha qualifying the deeds already done and the subjunctive kṛṇávaḥ the new ones. Immediately afterwards it is said prá … tā́… bravāma “we shall proclaim these,” like our prá … vocam. I think we should interpret our 6cd in the light of V.29.13. The rel. clause yā́cakártha should, properly speaking, limit only the pū́rvāṇi, while the nū́tanā ‘current (deeds)’ are further specified by a single example (or perhaps two), expressed by the yád clause in cd using the subjunctive. A problem remains: as noted above, the separation of the two worlds is one of Indra’s standard cosmogonic deeds as is, in the Vṛtra myth, his winning of the waters. We should expect these to be classified among the pū́rvāṇi. But of course one of the reasons for celebrating older, mythic deeds is to persuade / compel the god to perform these deeds again in the present for our benefit, and we can interpret the yád
 
 + SUBJUNCTIVE clause here in that way. The separation of the two world halves is, on a smaller scale, accomplished every morning when dawn reveals the horizon where the darkness had kept earth and sky undifferentiated. And winning waters is something that needs to be repeated at least yearly. The subjunctive here indicates that our focus is on the re-creation of these older deeds, not simply on celebrating their original performance. In this context mánave ‘for Manu’ would have the extended sense ‘for mankind’.
+</details>
 </details>
 </div>
 
@@ -305,6 +336,18 @@ What time the strong sang praise to the strong,
 O Indra, the stones and Aditi in unison,  
 Without steeds or chariots were the fellies  
 Which, sped by Indra, rolled against the Dasyus.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When the bulls sing a song for thee, the bull, O Indra, the pressing-stones and Aditi in unison,  
+those fellies which, without horses and without chariots, impelled by Indra, turned upon the Dasyus.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+When for you, the bull, the bulls chant the song, O Indra, the pressing stones, Aditi in agreement;  
+which steeds, rims without chariots, sped against the Dasyus, impelled by Indra.
 </details>
 
 <details><summary>Geldner</summary>

@@ -97,6 +97,12 @@ vr̥trā́ṇi ← vr̥trá- (nominal stem)
 घ्नन्तव्ँ॑ वृ॒त्राणि॑ स॒ञ्जित॒न्धना॑नाम् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+शुनँ᳓ हुवेम मघ᳓वानमि᳓न्द्रमस्मि᳓न्भ᳓रे नृ᳓तमं वाजसातौ।  
+शृण्व᳓न्तमुग्र᳓मूत᳓ये सम᳓त्सु घ्न᳓न्तं वृत्रा᳓णि सञ्जि᳓तं ध᳓नानाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 शु॒नम् । हु॒वे॒म॒ । म॒घऽवा॑नम् । इन्द्र॑म् । अ॒स्मिन् । भरे॑ । नृऽत॑मम् । वाज॑ऽसातौ ।  
@@ -106,6 +112,26 @@ vr̥trā́ṇi ← vr̥trá- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 शुन᳓म् । हुवेम । मघ᳓-वानम् । इ᳓न्द्रम् । अस्मि᳓न् । भ᳓रे । नृ᳓तमम् । वा᳓ज-सातौ । शृण्व᳓न्तम् । उग्र᳓म् । ऊत᳓ये । सम᳓त्सु । घ्न᳓न्तम् । वृत्रा᳓णि । सञ्जि᳓तम् । ध᳓नानाम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- शुन᳓म् (*MS*-6, *TS*-4, *RV*-29, *TB*-1, *AV*-11, *SB-M*-6, *SB-K*-5, *VS-M*-2, *VS-K*-2)
+- हुवेम (*MS*-5, *TS*-5, *RV*-41, *TB*-4, *AV*-5, *SB-M*-2, *VS-M*-8, *VS-K*-5)
+- मघ᳓-वानम् (*MS*-1/16, *TS*-1/9, *RV*-26/186, *TB*-2/6, *AV*-4/25, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-0/9, *VS-K*-0/11)
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- अस्मि᳓न् (*MS*-59/1379, *TS*-74/965, *RV*-76/1247, *TB*-42/567, *TK*-4/57, *AV*-82/1259, *SB-M*-216/5239, *SB-K*-246/5549, *VS-M*-27/319, *VS-K*-22/301)
+- भ᳓रे (*MS*-2/9, *TS*-1/6, *RV*-26/53, *TB*-1/3, *AV*-2/7, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/3, *VS-K*-0/3)
+- नृ᳓तमम् (*MS*-1/2, *TS*-0/1, *RV*-17/37, *TB*-1, *AV*-0/3, *VS-M*-0/1, *VS-K*-0/1)
+- वाज-सातौ (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- शृण्व᳓न्तम् (*MS*-0/2, *TS*-0/2, *RV*-18/20, *TB*-1/2, *AV*-1/2, *SB-M*-0/7, *SB-K*-0/4)
+- उग्र᳓म् (*MS*-9/40, *TS*-10/33, *RV*-61/153, *TB*-9/21, *TK*-0/2, *AV*-34/99, *SB-M*-6/10, *SB-K*-4/9, *VS-M*-11/23, *VS-K*-5/18)
+- ऊत᳓ये (*MS*-13/35, *TS*-12/25, *RV*-101/345, *TB*-6/12, *AV*-24/46, *SB-M*-5/8, *SB-K*-2/6, *VS-M*-10/26, *VS-K*-12/26)
+- सम᳓त्सु (*MS*-5, *TS*-3/5, *RV*-44, *TB*-3, *AV*-6, *SB-M*-0/7, *SB-K*-0/8, *VS-M*-4, *VS-K*-4)
+- घ्न᳓न्तम् (*MS*-0/6, *TS*-0/10, *RV*-16/24, *TB*-1/2, *AV*-1/3, *SB-M*-0/26, *SB-K*-0/22)
+- वृत्रा᳓णि (*MS*-7/99, *TS*-3/59, *RV*-49/173, *TB*-3/30, *AV*-15/40, *SB-M*-0/93, *SB-K*-0/93, *VS-M*-1/10, *VS-K*-1/10)
+- सञ्जि᳓तम् (*TB*-1)
+- ध᳓नानाम् (*MS*-1/15, *TS*-0/11, *RV*-26/104, *TB*-1/5, *TK*-1, *AV*-4/51, *SB-M*-1/8, *SB-K*-1/9, *VS-M*-0/10, *VS-K*-0/8)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -249,6 +275,12 @@ the strong one who listens, (we would invoke) for help in battles, him  who smas
 
 Call we on Maghavan, auspicious Indra, best Hero in this fight where spoil is gathered,  
      The Strong who listens, who gives aid in battles, who slays the Vrtras, wins and gathers riches.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'For prosperity we would call Indra, the generous, most manly in this conflict for the winning of prize;  
+hearing, fierce, for aid in battles, slaying Vṛtras, winner of spoils.' //
 </details>
 
 <details><summary>Geldner</summary>

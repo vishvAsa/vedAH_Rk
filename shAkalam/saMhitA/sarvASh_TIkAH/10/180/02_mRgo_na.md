@@ -113,6 +113,12 @@ ví ← ví (invariable)
 सृ॒कँ सँ॒शाय॑ प॒विमि॑न्द्र ति॒ग्मं वि शत्रू॑न्ताळिह॒ वि मृधो॑ नुदस्व ॥४॥ ४०
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+मृगो᳓ न᳓ भीमः᳓ कुचरो᳓ गिरिष्ठाः᳓ पराव᳓त आ᳓जगन्था प᳓रस्याः।  
+सृकँ सँश᳓य पवि᳓मिन्द्र तिग्मं᳓ वि᳓ श᳓त्रून्ताढि वि᳓ मृ᳓धो नुदस्व
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मृ॒गः । न । भी॒मः । कु॒च॒रः । गि॒रि॒ऽस्थाः । प॒रा॒ऽवतः॑ । आ । ज॒ग॒न्थ॒ । पर॑स्याः ।  
@@ -127,6 +133,29 @@ ví ← ví (invariable)
 <details><summary>पदपाठः - काण्वः</summary>
 
 मृगः। न। भीमः। कुचरः। गिरिष्ठाः। गिर॒स्था इति॑ गऽस्थाः। प॒रा॒वत॒ इति॑ प॒रा॒ऽवतः॑। आ। ज॒ग॒न्य॒। पर॑स्याः। स॒कम्। स॒৺शायेति॑ स॒मा॒ऽशाय॑। प॒विम्। इ॒न्द्र॒। ति॒ग्मम्। वि। शत्रून्। ता॒ह॒। वि। मृ॒धः॑। नु॒द॒स्व॒। ४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मृगः᳓ (*MS*-3/5, *TS*-2/5, *RV*-15/34, *AV*-8/23, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-3, *VS-K*-2)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- भीमः᳓ (*MS*-3/5, *TS*-2/5, *RV*-18/27, *TB*-0/1, *AV*-6/12, *SB-M*-3, *SB-K*-3, *VS-M*-4/6, *VS-K*-4/7)
+- कुचरः᳓ (*MS*-2, *TS*-1, *RV*-2, *TB*-1, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1)
+- गिरि-ष्ठाः᳓ (*MS*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1)
+- परा-व᳓तः (*MS*-6/8, *TS*-6/12, *RV*-42/64, *TB*-2/7, *AV*-15/23, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5, *VS-K*-5)
+- आ᳓जगन्था (*MS*-1, *VS-K*-1)
+- प᳓रस्याः (*MS*-3, *TS*-3/5, *RV*-4, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1/2)
+- सृकम् → **सृक᳓म्** (स्वर-लोपः, *MS*-1, *TS*-1, *RV*-1/2, *AV*-1, *VS-M*-1, *VS-K*-1)
+- संश᳓य (मूल-पाठः)
+- पवि᳓म् (*MS*-1/3, *TS*-1/3, *RV*-2/13, *TB*-0/1, *AV*-1, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-1/2, *VS-K*-1/2)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- तिग्म᳓म् (*MS*-3/8, *TS*-2/4, *RV*-12/23, *TB*-0/6, *AV*-2/6, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-2, *VS-K*-2/5)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- श᳓त्रून् (*MS*-7/12, *TS*-11/18, *RV*-43/82, *TB*-9/13, *AV*-34/57, *SB-M*-3/5, *SB-K*-2/5, *VS-M*-10/11, *VS-K*-7/8)
+- ताढि (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- मृ᳓धः (*MS*-12/13, *TS*-15/17, *RV*-29/30, *TB*-2, *AV*-14, *SB-M*-11/28, *SB-K*-9/26, *VS-M*-9, *VS-K*-8)
+- नुदस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-4, *RV*-6, *TB*-1, *AV*-10, *VS-M*-3, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -406,6 +435,13 @@ _________
 विनाशय । हन प्रतिष्ठायाम् । अप्रतिष्ठान् वा कुरु । प्रधान-भूतान् शत्रून् इत्वा अवशिष्टान् क्षीणान् मृधः रण-मण्डलात् नुदख पुनर् अनागमनाय ॥ २७ - ३८ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[102_12]** T 6 गिरिष्ठः᳓
+
+- **[102_13]** T 6 आ᳓जगन्थः; Ch गन्ना
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 राजपुरुषों को कैसा होना चाहिये, इस विषय का उपदेश अगले मन्त्र में किया है ॥
@@ -465,6 +501,12 @@ Having honed sharp your fang and your wheel-rim, Indra, carve apart  your rivals
 
 Like a dread wild beast roaming on the mountain thou hast approached us from the farthest distance.  
      Whetting thy bold and thy sharp blade, O Indra, crush thou the foe and scatter those who hate us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Like a terrible beast roaming at will, dwelling in the mountains, you have come from the furthest distance;  
+sharpening the tip, the sharp blade, O Indra, strike the enemies, drive away the adversaries!
 </details>
 
 <details><summary>Geldner</summary>

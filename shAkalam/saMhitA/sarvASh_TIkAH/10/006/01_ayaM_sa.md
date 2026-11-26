@@ -89,10 +89,37 @@ vibhā́vā ← vibhā́van- (nominal stem)
 ज्येष्ठे॑भि॒र्यो भा॒नुभि॑रृषू॒णां प॒र्येति॒ परि॑वीतो वि॒भावा॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अयँ᳓ स᳓ य᳓स्य श᳓र्मन्न् अ᳓वोभिर् अग्ने᳓र् ए᳓धते जरिता᳓भि᳓ष्टौ  
+ज्ये᳓ष्ठेभिर् यो᳓ भानु᳓भिर् ऋभूणां᳓ पर्ये᳓ति प᳓रिवीतो विभा᳓वा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒यम् । सः । यस्य॑ । शर्म॑न् । अवः॑ऽभिः । अ॒ग्नेः । एध॑ते । ज॒रि॒ता । अ॒भिष्टौ॑ ।  
 ज्येष्ठे॑भिः । यः । भा॒नुऽभिः॑ । ऋ॒षू॒णाम् । प॒रि॒ऽएति॑ । परि॑ऽवीतः । वि॒भाऽवा॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अय᳓म् (*TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-77/319, *VS-K*-70/301, *KS*-45/319)
+- सः᳓ (*TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660, *KS*-225/1225)
+- य᳓स्य (*TS*-134/3385, *RV*-207/4011, *TB*-71/1735, *TK*-2/227, *AV*-112/3120, *SB-M*-143/8327, *SB-K*-136/8438, *VS-M*-28/651, *VS-K*-25/609, *KS*-37/818)
+- श᳓र्मन् (*TS*-2, *RV*-19, *AV*-1, *SB-M*-1, *VS-M*-1/2, *VS-K*-1/2, *KS*-2)
+- अ᳓वोभिः (*TS*-1/22, *RV*-16/279, *TB*-1/15, *AV*-3/24, *SB-M*-0/9, *SB-K*-0/6, *VS-M*-2/24, *VS-K*-3/18, *KS*-1/12)
+- अग्नेः᳓ (*TS*-163/1194, *RV*-54/856, *TB*-56/520, *TK*-7/105, *AV*-43/419, *SB-M*-224/2495, *SB-K*-210/2289, *VS-M*-49/325, *VS-K*-44/349, *KS*-29/256)
+- ए᳓धते (*RV*-3, *AV*-0/1)
+- जरिता᳓ (*TS*-0/2, *RV*-17/112, *TB*-0/1, *AV*-0/11, *VS-M*-0/6, *VS-K*-0/6, *KS*-1/2)
+- अभि᳓ष्टौ (*TS*-0/2, *RV*-10/39, *AV*-3/5, *SB-M*-0/2, *SB-K*-1/2, *VS-M*-0/5, *VS-K*-0/2, *KS*-0/1)
+- ज्ये᳓ष्ठेभिः (*TS*-0/4, *RV*-4/38, *TB*-0/4, *AV*-0/10, *SB-M*-0/11, *SB-K*-0/11, *VS-M*-0/1, *VS-K*-0/1)
+- यः᳓ (*TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609, *KS*-223/818)
+- भानु᳓भिः (*TS*-3/16, *RV*-7/64, *TB*-0/4, *AV*-0/6, *SB-M*-1/12, *SB-K*-1/12, *VS-M*-1/11, *VS-K*-1/13, *KS*-2/4)
+- ऋभूणा᳓म् (*TS*-2, *RV*-3, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- परि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-23, *SB-M*-113, *SB-K*-97, *VS-K*-1, *KS*-10)
+- ए᳓ति (*TS*-2/249, *RV*-21/113, *TB*-33/117, *TK*-2/17, *AV*-6/39, *SB-M*-173/968, *SB-K*-135/980, *VS-M*-4/10, *VS-K*-4/14, *KS*-13/33)
+- प᳓रि-वीतः (*RV*-7/8, *TB*-1, *AV*-1)
+- विभा᳓-वा (*TS*-1, *RV*-19/20, *TB*-1, *AV*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -226,6 +253,12 @@ the far-radiant one who circles around, encircled by the peerless radiant  beams
 
 THIS is that Agni, he by whose protection, favour, and help. the singer is successful;  
      Who with the noblest flames of glowing fuel comes forth encompassed with far-spreading lustre.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+with whose aids, the praiser prospers in seeking help,  
+who with the highest beams of the Ṛbhus goes around, enveloped, radiant.
 </details>
 
 <details><summary>Geldner</summary>

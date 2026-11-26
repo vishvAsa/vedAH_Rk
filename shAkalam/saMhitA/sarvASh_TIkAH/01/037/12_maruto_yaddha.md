@@ -66,10 +66,29 @@ girī́n ← girí- (nominal stem)
 गि॒रीँर॑चुच्यवीतन ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+म᳓रुतो य᳓द् ध वो ब᳓लं ज᳓नं अचुच्यवीतन  
+गिरीँ᳓र् अचुच्यवीतन
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मरु॑तः । यत् । ह॒ । वः॒ । बल॑म् । जना॑न् । अ॒चु॒च्य॒वी॒त॒न॒ ।  
 गि॒रीन् । अ॒चु॒च्य॒वी॒त॒न॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- म᳓रुतः (*TS*-7/8, *RV*-25, *AV*-3, *SB-M*-1, *SB-K*-2, *VS-M*-4, *VS-K*-3, *KS*-4)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- ध (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *SB-M*-2)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-68, *KS*-122)
+- ब᳓लम् (*TS*-24/27, *RV*-13/19, *TB*-21/29, *TK*-6/8, *AV*-41/62, *SB-M*-20/26, *SB-K*-17/26, *VS-M*-14/26, *VS-K*-10/21, *KS*-1/5)
+- ज᳓नम् (*TS*-6/35, *RV*-34/298, *TB*-2/27, *AV*-9/92, *SB-M*-6/26, *SB-K*-6/26, *VS-M*-0/27, *VS-K*-0/25, *KS*-1/19)
+- अचुच्यवीतन (*RV*-2)
+- गिरीं᳓र् (मूल-पाठः)
+- अचुच्यवीतन (*RV*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -161,6 +180,12 @@ O Maruts, since you have the strength, you have stirred up the peoples and stirr
 
 O Maruts, as your strength is great, so have ye cast men down on earth,  
      So have ye made the mountains fall.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"When indeed your strength, O Maruts, did shake the people,  
+did shake the mountains…"
 </details>
 
 <details><summary>Geldner</summary>

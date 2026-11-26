@@ -69,10 +69,30 @@ bhava ← √bhū- (root)
 अ॒स्माक॑मवि॒ता भ॑व ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स्वा᳓दो पितो म᳓धो पितो वयं᳓ त्वा ववृमहे।  
+अस्मा᳓कमविता᳓ भव
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स्वादो॒ इति॑ । पि॒तो॒ इति॑ । मधो॒ इति॑ । पि॒तो॒ इति॑ । व॒यम् । त्वा॒ । व॒वृ॒म॒हे॒ ।  
 अ॒स्माक॑म् । अ॒वि॒ता । भ॒व॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स्वा᳓दो (*RV*-1)
+- पितो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-10, *TB*-1)
+- म᳓धो (*MS*-5, *TS*-7, *RV*-1, *TB*-1, *AV*-9, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- पितो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-10, *TB*-1)
+- वय᳓म् (*MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- ववृमहे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3)
+- अस्मा᳓कम् (*MS*-44/641, *TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/315, *VS-K*-16/274)
+- अविता᳓ (*MS*-6/8, *TS*-2/3, *RV*-38/42, *AV*-7/10, *SB-M*-1, *SB-K*-1, *VS-M*-5/6, *VS-K*-5/6)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-63, *TS*-52, *RV*-67, *TB*-5, *AV*-49, *SB-M*-26, *SB-K*-19, *VS-M*-39, *VS-K*-38)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -153,6 +173,13 @@ _________
 हे **स्वादो** आस्वादनीय **पितो** पालक **मधो** माधुर्योपेत **पितो** हे पानसाधनान्न **वयं** **त्वा** त्वां **ववृमहे** सेवामहे ॥ अत्र सर्वत्र अननुदात्तानां पूर्वस्य असामान्यवचनत्वेनानिघातत्वम् । अनुदात्तानां तु विशेषवचनत्वान्निघातत्वम् ॥ असकृत्पितुशब्दश्रवणं तस्य प्राशस्त्यज्ञापनार्थम् । हे पितो **अस्माकमविता** तर्पयिता **भव** ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[606_8]** So T1 und Brl; in Ch मधु; vgl. RV 1, 187, 2. (Thus T1 and Brl; in Ch मधु; cf. RV 1, 187, 2.)
+
+- **[606_9]** So Tund Brl; in Ch ववृहेमहे; 8gl. RV 1, 187, 2. (Thus T and Brl; in Ch ववृहेमहे; cf. RV 1, 187, 2.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -176,6 +203,12 @@ On metrically bad vavṛmahe, see Kümmel (459) and comm. ad VI.4.7.
 
 O pleasant Food, O Food of meath, thee have we chosen for our own,  
      So be our kind protector thou.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O savory food, O sweet food, we have chosen you;  
+become our protector!
 </details>
 
 <details><summary>Geldner</summary>

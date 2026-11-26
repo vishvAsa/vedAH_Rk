@@ -228,6 +228,17 @@ _________
 **जुष्टः** पर्याप्तः **दमूनाः** दानमना दान्तमन वा **अतिथिः** तद्वत् **दुरोणे** गृहे पूज्यः सन् **इमं** **नः** अस्मदीयं **यज्ञम्** **उप** **याहि** उपागच्छ । **विद्वान्** जानन् हे **अग्ने** **विश्वाः** **अभियुजः** सर्वानभियोक्तॄन् **विहत्य** **शत्रूयतां** तेषां **भोजनानि** अन्नानि धनानि **आ** **भर** आहर । ‘ अतिथिरभ्यतितो गृहान्भवति' (निरु. ४. ५) इत्यादिनिरुक्तं द्रष्टव्यम् ॥ ॥ १८ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[23_1]** Dies Kap. accent. nach T1 und Brl. (This chap. is accented according to T1 and Brl.)
+
+- **[23_2]** Brl वि᳓श्वाग्ने ; desgl. Ch, ohie Accent; W1 hat das Richtige. (Brl वि᳓श्वाग्ने; likewise Ch, without accent; W1 has the correct reading.)
+
+- **[23_3]** So W 1, ohne Accent ; Brl und T1 सासह ; Ch सासहा (Thus W1, without accent; Brl and T1 सासह; Ch सासहा)
+
+- **[23_4]** W 1 अग्निरत्यै
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -251,6 +262,12 @@ Having smashed to pieces all attacks, o Agni, bring here the sustenance  of thos
 
 As dear House-Friend, guest welcome in the dwelling, to this our sacrifice come thou who knowest.  
      And, Agni, having scattered all assailants, bring to us the possessions of our foemen.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Welcome as a guest in the home, the master of the house, approach this our sacrifice, knowing [all].  
+Having struck down all hostile assaults, O Agni, bring here the riches of those acting as enemies!
 </details>
 
 <details><summary>Oldenberg</summary>

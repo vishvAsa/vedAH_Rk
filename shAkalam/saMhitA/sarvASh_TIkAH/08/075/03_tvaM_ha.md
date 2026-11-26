@@ -75,6 +75,12 @@ yajñíyaḥ ← yajñíya- (nominal stem)
 ऋ॒तावा॑ य॒ज्ञियो॒ भुवः॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्व᳓ ह य᳓द्यविष्ट्य स᳓हसस्सून आहुत।  
+ऋता᳓वा यज्ञि᳓यो भु᳓वः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । ह॒ । यत् । य॒वि॒ष्ठ्य॒ । सह॑सः । सू॒नो॒ इति॑ । आ॒ऽहु॒त॒ ।  
@@ -84,6 +90,19 @@ yajñíyaḥ ← yajñíya- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्वम् । ह॒ । यत् । य॒वि॒ष्ठ्य॒ । सह॑सः । सू॒नो॒ । आ॒हु॒तेत्या॑-हु॒त॒ ॥  ऋ॒तावेत्यृ॒त-वा॒ । य॒ज्ञियः॑ । भुवः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्व᳓ (*MS*-232, *TS*-169, *RV*-724, *TB*-2, *TK*-11, *AV*-360, *SB-M*-1, *SB-K*-266, *VS-M*-119, *VS-K*-94)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *MS*-176, *TS*-61, *RV*-184, *TB*-124, *TK*-116, *AV*-70, *SB-M*-3472, *SB-K*-3779, *VS-M*-9, *VS-K*-6)
+- य᳓द्यविष्ट्य (मूल-पाठः)
+- स᳓हसः (*MS*-9/43, *TS*-7/35, *RV*-27/122, *TB*-1/28, *TK*-1/4, *AV*-4/50, *SB-M*-1/21, *SB-K*-1/24, *VS-M*-4/28, *VS-K*-5/40)
+- सूनः (*MS*-1, *RV*-1)
+- आ-हुत (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-55, *RV*-7, *TB*-2, *TK*-1, *AV*-1, *SB-M*-1, *SB-K*-165, *VS-M*-7, *VS-K*-5)
+- ऋत᳓-वा (*MS*-6/9, *TS*-3/84, *RV*-31/32, *TB*-1/31, *TK*-1/4, *AV*-1/17, *SB-M*-0/200, *SB-K*-1/188, *VS-M*-0/7, *VS-K*-0/7)
+- यज्ञि᳓यः (*MS*-6/55, *TS*-3/44, *RV*-14/96, *TB*-1/26, *AV*-3/39, *SB-M*-7/54, *SB-K*-7/50, *VS-M*-2/16, *VS-K*-1/12)
+- भु᳓वः (*MS*-28, *TS*-17, *RV*-25, *TB*-7, *TK*-3, *AV*-7, *SB-M*-33, *SB-K*-30, *VS-M*-8, *VS-K*-5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -205,6 +224,12 @@ For thou, Most Youthful, Son of Strength, thou to whom sacrifice is paid,
 <details><summary>Keith</summary>
 
 Since thou, O most young, O son of strength, who art sacrificed to, Art righteous and worthy of sacrifice.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When indeed, O youngest son of strength, you are offered to,  
+you become truthful, worthy of sacrifice.
 </details>
 
 <details><summary>Geldner</summary>

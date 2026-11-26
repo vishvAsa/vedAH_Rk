@@ -119,6 +119,12 @@ táva ← tvám (pronoun)
 यच्छञ्च॒ योश्च॒ मनु॑राय॒जे पि॒ता तद॑श्याम॒ तव॑ रुद्र॒ प्रणी॑तौ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+मृडा᳓ नो रुद्रोत᳓ नो म᳓यस्कृधि क्षय᳓द्वीराय न᳓मसा विधेम ते।  
+य᳓च्छं च यो᳓श्च म᳓नुरायेजे᳓ पिता᳓ त᳓दश्याम त᳓व रुद्र प्र᳓णीतिषु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मृ॒ळ । नः॒ । रु॒द्र॒ । उ॒त । नः॒ । मयः॑ । कृ॒धि॒ । क्ष॒यत्ऽवी॑राय । नम॑सा । वि॒धे॒म॒ । ते॒ ।  
@@ -128,6 +134,34 @@ táva ← tvám (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 मृ॒ड । नः॒ । रु॒द्र॒ । उ॒त । नः॒ । मयः॑ । कृ॒धि॒ । क्ष॒यद्वी॑रा॒येति॑ क्ष॒यत्-वी॒रा॒य॒ । नम॑सा । वि॒धे॒म॒ । ते॒ ॥ यत् । शम् । च॒ । योः । च॒ । मनुः॑ । आ॒य॒ज इत्या॑-य॒जे । पि॒ता । तत् । अ॒श्या॒म॒ । तव॑ । रु॒द्र॒ । प्रणी॑ता॒विति॒ प्र-नी॒तौ॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मृडा᳓ (*MS*-0/2, *TS*-0/2, *RV*-0/11, *AV*-1, *VS-M*-0/1, *VS-K*-0/1)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- रुद्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-10, *TS*-25, *RV*-17, *TB*-7, *TK*-2, *AV*-7, *SB-M*-3, *SB-K*-3, *VS-M*-8, *VS-K*-6)
+- उत᳓ (*MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- म᳓यः (*MS*-14, *TS*-4/5, *RV*-18, *TB*-3, *AV*-5, *SB-M*-3, *SB-K*-6, *VS-M*-5, *VS-K*-6/7)
+- कृधि (*MS*-24, *TS*-28, *RV*-76, *TB*-6, *AV*-42, *SB-M*-3, *SB-K*-3, *VS-M*-16, *VS-K*-17)
+- क्षय᳓त्-वीराय (*TS*-3, *RV*-3/7, *VS-M*-1, *VS-K*-1, *MS*-1)
+- न᳓मसा (*MS*-16/313, *TS*-7/315, *RV*-83/182, *TB*-8/60, *TK*-0/4, *AV*-12/248, *SB-M*-0/105, *SB-K*-0/102, *VS-M*-5/244, *VS-K*-5/168)
+- विधेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-29, *RV*-28, *TB*-2, *TK*-2, *AV*-20, *SB-M*-11, *SB-K*-11, *VS-M*-18, *VS-K*-19)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- शम् → **श᳓म्** (स्वर-लोपः, *Whitney*, *MW*, *MS*-51, *TS*-33, *RV*-159, *TB*-19, *TK*-1, *AV*-185, *SB-M*-27, *SB-K*-29, *VS-M*-39, *VS-K*-23)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- योः᳓ (*MS*-13, *TS*-7, *RV*-25, *TB*-9, *AV*-4, *SB-M*-1, *SB-K*-3, *VS-M*-1, *VS-K*-2)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- म᳓नुः (*MS*-10/34, *TS*-18/35, *RV*-16/72, *TB*-3/13, *AV*-2/13, *SB-M*-13/29, *SB-K*-13/30, *VS-M*-0/6, *VS-K*-0/6)
+- आ-येजे᳓ (*RV*-2)
+- पिता᳓ (*MS*-40/157, *TS*-34/121, *RV*-66/254, *TB*-18/111, *TK*-4/6, *AV*-55/228, *SB-M*-76/321, *SB-K*-79/317, *VS-M*-23/80, *VS-K*-19/75)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- अश्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-2, *RV*-10, *TB*-3, *VS-M*-1, *VS-K*-1)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- रुद्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-10, *TS*-25, *RV*-17, *TB*-7, *TK*-2, *AV*-7, *SB-M*-3, *SB-K*-3, *VS-M*-8, *VS-K*-6)
+- प्र᳓-णीतिषु (*MS*-0/5, *TS*-0/5, *RV*-2/16, *AV*-0/2, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-0/3, *VS-K*-0/3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -305,6 +339,13 @@ _________
 पिता पालको मनुः प्रजापतिः शं च सुखं च योश्च दुःखपृथग्भावं च यदायजे यत्किंचित्संपादितवांस्तत्सर्वं वयं हे रुद्र तव प्रणीतौ प्रणये स्नेहातिशये सत्यश्याम प्राप्नुयाम।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[609_14]** Dieser und die folgenden beiden Verse auch in Brl fol. 102. 103 enthalten. (This and the following two verses also contained in Brl fol. 102, 103.)
+
+- **[609_15]** Ch यश्छं च यश्च योश्च ; vgl. RV 1, 114, 2; TS 4, 5, 10, 2. (Ch यश्छं च यश्च योश्च; cf. RV 1, 114, 2; TS 4, 5, 10, 2.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -346,6 +387,12 @@ Be gracious unto us, O Rudra, bring us joy: thee, Lord of Heroes, thee with reve
 Be merciful to us, O Rudra, and give us delight; With honour let us worship thee, destroyer of men;  
 The health and wealth which father Manu won by sacrifice,  
 May we attain that, O Rudra, under thy leadership.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Be gracious to us, O Rudra, and make joy for us! With reverence let us worship you who rule over heroes!  
+What blessing and healing father Manu won by sacrifice, that may we attain under your guidance, O Rudra!
 </details>
 
 <details><summary>Geldner</summary>

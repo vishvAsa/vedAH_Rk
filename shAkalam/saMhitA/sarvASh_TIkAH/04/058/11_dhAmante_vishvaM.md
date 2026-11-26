@@ -116,6 +116,12 @@ te ← tvám (pronoun)
 अ॒पामनी॑के समि॒थे य आभृ॑त॒स्तम॑श्याम॒ मधु॑मन्तं त ऊ॒र्मिम् ॥१२॥ (१) १२ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+धामन्ते विश्वं भुवनमधिश्रितमन्तस्समुद्रे हृद्यन्तरायुषि।  
+अपामनीके समिथे य आभृतस्तमश्याम मधुमन्तं त ऊर्मिम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 धाम॑न् । ते॒ । विश्व॑म् । भुव॑नम् । अधि॑ । श्रि॒तम् । अ॒न्तरिति॑ । स॒मु॒द्रे । हृ॒दि । अ॒न्तः । आयु॑षि ।  
@@ -130,6 +136,30 @@ te ← tvám (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 धाम॑न्। ते॒। विश्व॑म्। भुव॑नम्। अ। श्रतम्। अ॒न्तरि॑त्य॒न्तः। समु॒द्रे। हृदि। अ॒न्तः। आयु॑षि। अ॒पाम्। अनी॑के। स॒मि॒थ इति॑ स॒मा॒ऽइ॒थे। यः। आभू॑त॒। इत्याऽभृतः। तम्। अ॒श्या॒म॒। मधु॑मन्त॒मति॒। मधु॑मन्तम्। ते। ऊ॒र्मम्। १२।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- धा᳓मन् (*Whitney*, *MS*-8, *TS*-1, *RV*-4/5, *TB*-2, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- वि᳓श्वम् (*MS*-33/301, *TS*-24/283, *RV*-140/1116, *TB*-20/125, *TK*-71/124, *AV*-59/353, *SB-M*-31/248, *SB-K*-27/219, *VS-M*-29/225, *VS-K*-22/224)
+- भु᳓वनम् (*MS*-7/53, *TS*-6/39, *RV*-15/144, *TB*-8/32, *TK*-2/6, *AV*-8/65, *SB-M*-6/30, *SB-K*-6/26, *VS-M*-8/42, *VS-K*-7/41)
+- अ᳓धि-श्रितम् (*MS*-3/5, *TB*-2, *AV*-0/1, *SB-M*-7/11, *SB-K*-7/12)
+- अन्तः᳓ (*MS*-79/81, *TS*-81/87, *RV*-154, *TB*-13/16, *TK*-26, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-44, *VS-K*-37/44)
+- समुद्रे᳓ (*MS*-7/62, *TS*-7/51, *RV*-29/131, *TB*-1/22, *TK*-1/3, *AV*-10/66, *SB-M*-7/71, *SB-K*-8/74, *VS-M*-7/35, *VS-K*-6/33)
+- हृदि᳓ (*MS*-1/19, *TS*-0/16, *RV*-13/65, *TB*-0/5, *AV*-13/40, *SB-M*-2/9, *SB-K*-3/11, *VS-M*-1/10, *VS-K*-0/6)
+- अन्तः᳓ (*MS*-79/81, *TS*-81/87, *RV*-154, *TB*-13/16, *TK*-26, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-44, *VS-K*-37/44)
+- आ᳓युषि (*MS*-3/51, *TS*-14/176, *RV*-2/97, *TB*-14/23, *TK*-1/3, *AV*-0/136, *SB-M*-6/149, *SB-K*-6/80, *VS-M*-3/55, *VS-K*-2/72)
+- अपा᳓म् (*MS*-96/374, *TS*-81/319, *RV*-111/532, *TB*-27/152, *TK*-1/14, *AV*-62/324, *SB-M*-102/760, *SB-K*-102/744, *VS-M*-46/146, *VS-K*-38/124)
+- अ᳓नीके (*MS*-1/15, *TS*-0/11, *RV*-6/37, *TB*-1/5, *AV*-0/8, *SB-M*-0/25, *SB-K*-0/25, *VS-M*-2/8, *VS-K*-1/10)
+- सम्-इथे᳓ (*MS*-1/3, *TS*-1/2, *RV*-9/17, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/3)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- आ᳓-भृतः (*MS*-0/1, *TS*-0/1, *RV*-2/8, *TB*-0/1, *AV*-4/19, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-1/3)
+- त᳓म् (*MS*-528/5550, *TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660)
+- अश्या᳓म (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1, *TS*-4, *RV*-10, *TK*-1, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-5)
+- म᳓धुमन्तम् (*MS*-5/7, *TS*-3/4, *RV*-25/37, *TB*-2, *AV*-2/5, *SB-M*-3/4, *SB-K*-3/4, *VS-M*-4/5, *VS-K*-2/3)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- ऊर्मि᳓म् (*MS*-1/14, *TS*-2/10, *RV*-23/70, *TB*-1/4, *AV*-0/6, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-1/10, *VS-K*-1/12)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -418,6 +448,12 @@ The universe depends upon thy power and might within the sea, within the heart, 
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 The universe depends upon thy power and might within the sea, within the heart, within all life. May we attain that sweetly-flavoured wave of thine, brought, at this gathering, o’er the surface of the floods.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upon your seat the whole world is rested, within the ocean, within the heart, within life;  
+that honeyed wave of yours which was brought in the assembly, at the battle-line of waters—may we obtain that!
 </details>
 
 <details><summary>Geldner</summary>

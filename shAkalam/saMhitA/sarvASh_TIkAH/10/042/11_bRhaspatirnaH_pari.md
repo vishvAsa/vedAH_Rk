@@ -95,10 +95,38 @@ várivaḥ ← várivas- (nominal stem)
 इन्द्रः॑ पु॒रस्ता॑दु॒त म॑ध्य॒तो नः॒ सखा॒ सखि॑भ्यो॒ वरि॑वः कृणोतु ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+बृ᳓हस्प᳓तिर्नः प᳓रिपातु पश्चा᳓दुतो᳓त्तरस्माद᳓धराघायोः᳓।  
+इ᳓न्द्रः पुर᳓स्तादुत᳓ मध्यतो᳓ नस्स᳓खा स᳓खिभ्यो व᳓रिवः कृणोतु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 बृह॒स्पतिः॑ । नः॒ । परि॑ । पा॒तु॒ । प॒श्चात् । उ॒त । उत्ऽत॑रस्मात् । अध॑रात् । अ॒घ॒ऽयोः ।  
 इन्द्रः॑ । पु॒रस्ता॑त् । उ॒त । म॒ध्य॒तः । नः॒ । सखा॑ । सखि॑ऽभ्यः । वरि॑वः । कृ॒णो॒तु॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- बृ᳓हस्प᳓तिः (*MS*-97, *TS*-70/84, *RV*-53, *TB*-23, *TK*-4, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- पातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-42, *TS*-34, *RV*-34, *TB*-2, *TK*-1, *AV*-56, *SB-M*-16, *SB-K*-7, *VS-M*-20, *VS-K*-15)
+- पश्चा᳓त् (*MS*-41, *TS*-56/66, *RV*-18, *TB*-28, *TK*-3, *AV*-33, *SB-M*-159, *SB-K*-155, *VS-M*-6, *VS-K*-5/11)
+- उत᳓ (*MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- उ᳓त्-तरस्मात् (*MS*-0/77, *TS*-1/88, *RV*-2/59, *TB*-1/54, *TK*-0/5, *AV*-2/38, *SB-M*-0/258, *SB-K*-0/235, *VS-M*-0/12, *VS-K*-0/12)
+- अ᳓ध (*MS*-10, *TS*-8/9, *RV*-195, *TB*-4/5, *TK*-1, *AV*-39, *SB-M*-3/7, *SB-K*-4/9, *VS-M*-11, *VS-K*-15/19)
+- राघायोः᳓ (मूल-पाठः)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- पुर᳓स्तात् (*MS*-110, *TS*-115, *RV*-32, *TB*-65, *TK*-3, *AV*-39, *SB-M*-305, *SB-K*-296, *VS-M*-9, *VS-K*-9)
+- उत᳓ (*MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- मध्यतः᳓ (*MS*-70, *TS*-63/71, *RV*-3, *TB*-21, *AV*-15, *SB-M*-105, *SB-K*-100, *VS-M*-4, *VS-K*-4)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- स᳓खा (*MS*-15/34, *TS*-10/31, *RV*-72/225, *TB*-4/12, *AV*-24/64, *SB-M*-13/20, *SB-K*-13/19, *VS-M*-15/29, *VS-K*-18/31)
+- स᳓खिभ्यः (*MS*-5/34, *TS*-4/31, *RV*-26/225, *TB*-3/12, *AV*-8/64, *SB-M*-1/20, *SB-K*-2/19, *VS-M*-4/29, *VS-K*-3/31)
+- व᳓रिवः (*MS*-6, *TS*-10, *RV*-27/28, *TB*-2, *AV*-4, *SB-M*-5, *SB-K*-5, *VS-M*-4, *VS-K*-3/5)
+- कृणोतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-11, *TS*-10, *RV*-11, *TB*-4, *AV*-50, *SB-M*-4, *SB-K*-4, *VS-M*-10, *VS-K*-8)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -264,6 +292,12 @@ From behind may Brhaspati guard us,
 From above, from below, from the plotter of evil;  
 May Indra from the front, from the middle,  
 Friend to friend, grant us wide room.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Bṛhaspati protect us from behind, also from above, from below, from the malicious one;  
+may Indra from in front and from our midst, a friend to friends, make wide space!
 </details>
 
 <details><summary>Geldner</summary>

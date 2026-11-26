@@ -82,6 +82,12 @@ rétāṁsi ← rétas- (nominal stem)
 अ॒पाँ रेताँ॑सि जिन्वति ॥१२॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्नि᳓मूर्धा᳓ दिवः᳓ ककु᳓त्प᳓तिः पृथिव्या᳓ अय᳓म्।  
+अपां᳓ रे᳓ताँसि जिन्वति
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निः । मू॒र्धा । दि॒वः । क॒कुत् । पतिः॑ । पृ॒थि॒व्याः । अ॒यम् ।  
@@ -96,6 +102,20 @@ rétāṁsi ← rétas- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अ॒ग्निः। मू॒र्द्धा। दि॒वः। क॒कुत्। पतिः॑। पृ॒थि॒व्याः। अ॒यम्। अ॒पाम्। रेताँ॑सि। जि॒न्व॒ति॒। २।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्नि᳓ (*MS*-835/1297, *TS*-1/1194, *RV*-682/856, *TB*-358/520, *TK*-1/105, *AV*-1/419, *SB-M*-2/2495, *SB-K*-8/2289, *VS-M*-194/325, *VS-K*-219/349)
+- मूर्धा᳓ (*MS*-14, *TS*-19, *RV*-8, *TB*-1, *TK*-3, *AV*-3, *SB-M*-22, *SB-K*-22, *VS-M*-1, *VS-K*-1)
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- ककु᳓त् (*MS*-5, *TS*-11/13, *RV*-1, *TB*-4, *AV*-4, *SB-M*-5, *SB-K*-5, *VS-M*-3, *VS-K*-3)
+- प᳓तिः (*MS*-23/47, *TS*-25/45, *RV*-95/200, *TB*-7/21, *TK*-1/6, *AV*-60/137, *SB-M*-43/64, *SB-K*-44/61, *VS-M*-23/45, *VS-K*-25/61)
+- पृथिव्याः᳓ (*MS*-92, *TS*-71/79, *RV*-99, *TB*-31, *TK*-1, *AV*-48, *SB-M*-69, *SB-K*-71, *VS-M*-55, *VS-K*-46/50)
+- अय᳓म् (*MS*-133/1379, *TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-77/319, *VS-K*-70/301)
+- अपा᳓म् (*MS*-96/374, *TS*-81/319, *RV*-111/532, *TB*-27/152, *TK*-1/14, *AV*-62/324, *SB-M*-102/760, *SB-K*-102/744, *VS-M*-46/146, *VS-K*-38/124)
+- रे᳓तांसि (*MS*-2/86, *TS*-4/78, *RV*-2/34, *TB*-0/66, *TK*-0/2, *AV*-0/26, *SB-M*-4/353, *SB-K*-3/371, *VS-M*-3/15, *VS-K*-3/14)
+- जिन्वति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-3, *RV*-2, *SB-M*-1, *SB-K*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -443,6 +463,50 @@ agni is the head and the axis of heaven, the lord of this earth. He makes the se
 Agni is the head of the sky, the height,  
 Lord of the earth here,  
 He quickeneth the seed of the waters.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is the head of heaven, the summit, this lord of the earth;  
+he quickens the seed of the waters.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Agni is the head, the summit of heaven, he the lord of the earth;  
+he quickens the seeds of the waters.  
+Both of you, Indra and Agni, are to be invoked; both together are to be exhilarated with bounty;  
+both are givers of refreshments, of wealths; both I invoke for the winning of prize.  
+This one has here been established first by the establishers, the Hotṛ, most worthy of sacrifice, to be praised in the sacrifices,  
+whom, wondrous and far-reaching, the Bhrgus, thriving, kindled in the woods for every clan.  
+This is your seasonable womb, whence born you shone;  
+knowing that, O Agni, mount it, then increase our wealth.  
+I have celebrated Dadhikrāvan, the victorious, the prize-winning horse.  
+May he make our mouths fragrant; may he prolong our lives.  
+You, O Agni, are possessed of Sūrya's luster;  
+unite me with life, with luster!  
+You, O Agni, have united with Sūrya's light, with the praise of the sages, with the dear abode;  
+may I unite with life, with luster, with offspring, with abundance of wealth!  
+Kindling you for a hundred winters, may we kindle you, radiant ones,  
+vigorous, [him] who is vigorous; renowned, [him] who is renowned;  
+having good heroes, [him] who is undeceived, O Agni, who frustrates enemies.  
+You are the giver of life, O Agni;  
+give me life!  
+You are the giver of vigor, O Agni;  
+give me vigor!  
+You are the protector of the body, O Agni;  
+protect my body!  
+Whatever of my body is deficient, O Agni, fill that up for me!  
+You are Agni's kindling stick;  
+protect me from accusation!  
+You are Soma's kindling stick;  
+be my protector beyond!  
+You are Yama's kindling stick;  
+protect me from death!  
+O Agni, with whatever heat is yours, burn him who hates us and whom we hate!  
+O Agni, with whatever flame is yours, inflame him who hates us and whom we hate!  
+O Agni, with whatever sharpness is yours, pierce him who hates us and whom we hate!  
+O Agni, with whatever beam is yours, beam against him who hates us and whom we hate!
 </details>
 
 <details><summary>Geldner</summary>

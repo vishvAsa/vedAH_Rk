@@ -95,10 +95,38 @@ yajñé ← yajñá- (nominal stem)
 विव॑स्वन्तं हुवे॒ यः पि॒ता ते॒ऽस्मिन्य॒ज्ञे ब॒र्हिष्या नि॒षद्य॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ङ्गिरोभिर् आ᳓गहि यज्ञि᳓येभिर् य᳓म वैरूपै᳓र् इह᳓ मादयस्व  
+वि᳓वस्वन्तँ हुवे यः᳓ पिता ते ऽस्मि᳓न् यज्ञे᳓ बर्हि᳓ष्य् आ᳓ निष᳓द्य
+</details>
+
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अङ्गि॑रःऽभिः । आ । ग॒हि॒ । य॒ज्ञिये॑भिः । यम॑ । वै॒रू॒पैः । इ॒ह । मा॒द॒य॒स्व॒ ।  
 विव॑स्वन्तम् । हु॒वे॒ । यः । पि॒ता । ते॒ । अ॒स्मिन् । य॒ज्ञे । ब॒र्हिषि॑ । आ । नि॒ऽसद्य॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ङ्गिरोभिः (*TS*-5/34, *RV*-9/40, *TB*-0/10, *TK*-0/3, *AV*-5/27, *SB-M*-0/21, *SB-K*-0/20, *VS-M*-0/4, *VS-K*-0/3, *KS*-0/8)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- गहि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-7, *RV*-79, *TB*-1, *AV*-20, *SB-M*-3, *SB-K*-3, *VS-M*-6, *VS-K*-6, *KS*-4)
+- यज्ञि᳓येभिः (*TS*-1/44, *RV*-1/96, *TB*-0/26, *AV*-0/39, *SB-M*-0/54, *SB-K*-0/50, *VS-M*-0/16, *VS-K*-0/12, *KS*-0/21)
+- य᳓म (*TS*-1/2, *RV*-7, *TB*-1/2, *AV*-1, *SB-M*-3/6, *SB-K*-1/6, *VS-M*-0/2, *VS-K*-0/2, *KS*-2)
+- वैरूपैः᳓ (*TS*-1/9, *TB*-0/1, *AV*-1/6, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-0/4, *VS-K*-0/5, *KS*-0/3)
+- इह᳓ (*TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-89, *VS-K*-83, *KS*-43)
+- मादयस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-11, *TB*-1, *AV*-5, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-1)
+- वि᳓वस्वन्तम् (*TS*-2, *AV*-2, *SB-M*-1, *SB-K*-1)
+- हुवे (*TS*-18, *RV*-44, *TB*-2, *AV*-18, *SB-M*-1, *VS-M*-2, *VS-K*-2, *KS*-4)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- पिता (*VS-M*-1, *VS-K*-1, *KS*-1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- अस्मि᳓न् (*TS*-74/965, *RV*-76/1247, *TB*-42/567, *TK*-4/57, *AV*-82/1259, *SB-M*-216/5239, *SB-K*-246/5549, *VS-M*-27/313, *VS-K*-22/289, *KS*-16/319)
+- यज्ञे᳓ (*TS*-43/863, *RV*-27/448, *TB*-24/399, *TK*-0/21, *AV*-20/231, *SB-M*-110/1803, *SB-K*-106/1754, *VS-M*-14/223, *VS-K*-13/179, *KS*-7/171)
+- बर्हि᳓षि (*TS*-12/75, *RV*-44/137, *TB*-6/76, *AV*-14/41, *SB-M*-7/75, *SB-K*-4/65, *VS-M*-9/42, *VS-K*-7/39, *KS*-0/13)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- नि-स᳓द्य (*TS*-3, *RV*-13, *TB*-3, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-1, *KS*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -259,6 +287,13 @@ Come with the Angirases who deserve the sacrifice,
 Yama, rejoice here with the Vairupas;  
 I summon Vivasvant who is thy father,  
 Sitting down on the strew at this sacrifice.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+revel here with the Vairūpas!  
+I call Vivasvant, who is your father, having sat down upon the sacred grass at this sacrifice.  
+Sit upon this strew, O Yama, in accord with the Angiras fathers;
 </details>
 
 <details><summary>Macdonell</summary>

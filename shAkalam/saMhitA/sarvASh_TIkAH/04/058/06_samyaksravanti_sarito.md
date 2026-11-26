@@ -92,6 +92,12 @@ mr̥gā́ḥ ← mr̥gá- (nominal stem)
 ए॒ते अ॑र्षन्त्यू॒र्मयो॑ घृ॒तस्य॑ मृ॒गा इ॑व क्षिप॒णोरीष॑माणाः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सम्यक्स्रवन्ति सरितो न धेना अन्तर्हृदा मनसा पूयमानाः।  
+एते अर्षन्त्यूर्मयो घृतस्य मृगा इव क्षिपणोरीषमाणाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒म्यक् । स्र॒व॒न्ति॒ । स॒रितः॑ । न । धेनाः॑ । अ॒न्तः । हृ॒दा । मन॑सा । पू॒यमा॑नाः ।  
@@ -106,6 +112,27 @@ mr̥gā́ḥ ← mr̥gá- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 स॒म्यक्। स्र॒वन्ति॒। स॒रितः॑। न। धेनाः॑। अ॒न्तः। हृ॒दा। मन॑सा। पू॒यमा॑नाः। ए॒ते। अ॒र्ष॒न्ति॒। ऊ॒र्मयः॑। घृ॒तस्य॑। मृ॒गाःऽइ॑व। क्षि॒प॒णोः। ईष॑माणाः। ७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सम्य᳓क् (*RV*-5, *AV*-1, *SB-M*-3, *SB-K*-6, *VS-M*-2, *VS-K*-2)
+- स्रवन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-2, *AV*-1, *SB-M*-2)
+- सरि᳓तः (*MS*-1, *TS*-1, *RV*-2, *TK*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-2/3)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- धे᳓नाः (*MS*-2/4, *TS*-1, *RV*-9/15, *TB*-1/2, *AV*-2/4, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-4)
+- अन्तः᳓ (*MS*-79/81, *TS*-81/87, *RV*-154, *TB*-13/16, *TK*-26, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-44, *VS-K*-37/44)
+- हृदा᳓ (*MS*-10/19, *TS*-6/16, *RV*-21/65, *TB*-4/5, *AV*-6/40, *SB-M*-1/9, *SB-K*-1/11, *VS-M*-4/10, *VS-K*-3/6)
+- म᳓नसा (*MS*-63/147, *TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78)
+- पूय᳓मानाः (*MS*-1, *TS*-1/2, *RV*-1/17, *SB-M*-2/3, *SB-K*-1/2, *VS-M*-2/3, *VS-K*-2/3)
+- एते᳓ (*MS*-149/2587, *TS*-102/1673, *RV*-57/320, *TB*-52/858, *TK*-11/130, *AV*-13/340, *SB-M*-483/11086, *SB-K*-487/10669, *VS-M*-3/129, *VS-K*-3/104)
+- अर्षन्ति (समानान्तर-पाठः (RV), *RV*-21)
+- ऊर्म᳓यः (*MS*-3/14, *TS*-2/10, *RV*-15/70, *TB*-0/4, *AV*-2/6, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-1/10, *VS-K*-1/12)
+- घृत᳓स्य (*MS*-23/118, *TS*-15/64, *RV*-19/91, *TB*-10/34, *TK*-0/1, *AV*-10/40, *SB-M*-9/51, *SB-K*-10/51, *VS-M*-11/49, *VS-K*-11/45)
+- मृगाः᳓ (*MS*-0/5, *TS*-0/5, *RV*-1/34, *AV*-6/23, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/3, *VS-K*-0/2)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- क्षिपणोः᳓ (*RV*-1, *VS-M*-1, *VS-K*-1)
+- ई᳓षमाणाः (*MS*-0/1, *RV*-2/3, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -394,6 +421,12 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 
 Like rivers our libations flow together, cleansing themselves in inmost heart and spirit.  
      The streams of holy oil pour swiftly downward like the wild beasts that fly before the bowman.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They flow together like rivers, like streams of milk, being purified inwardly with heart and mind;  
+these waves of ghee rush onward like deer fleeing from an archer.
 </details>
 
 <details><summary>Geldner</summary>

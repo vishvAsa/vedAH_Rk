@@ -66,10 +66,49 @@ rocate ← √ruc- (root)
 शुची॑ रोचत॒ आहु॑तः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अग्निः᳓ शु᳓चिव्रततमः शु᳓चिर् वि᳓प्रः शु᳓चिः कविः᳓  
+शु᳓ची रोचता आ᳓हुतः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्नि᳓श्शु᳓चिव्रततमश्शु᳓चिर्वि᳓प्रश्शु᳓चिष्कविः᳓।  
+श्रु᳓ची रोचत आ᳓हुतः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निः । शुचि॑व्रतऽतमः । शुचिः॑ । विप्रः॑ । शुचिः॑ । क॒विः ।  
 शुचिः॑ । रो॒च॒ते॒ । आऽहु॑तः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-122/322, *VS-K*-113/339, *KS*-111/256)
+- शु᳓चिव्रततमः (*TS*-2, *RV*-1, *SB-M*-1, *SB-K*-1, *KS*-1)
+- शु᳓चिः (*TS*-14/33, *RV*-46/113, *TB*-4/23, *AV*-8/25, *SB-M*-6/23, *SB-K*-7/20, *VS-M*-4/14, *VS-K*-3/14, *KS*-6/13)
+- वि᳓प्रः (*TS*-6/22, *RV*-59/218, *TB*-5/8, *AV*-4/31, *SB-M*-3/13, *SB-K*-2/11, *VS-M*-3/18, *VS-K*-3/18, *KS*-3/9)
+- शु᳓चिः (*TS*-14/33, *RV*-46/113, *TB*-4/23, *AV*-8/25, *SB-M*-6/23, *SB-K*-7/20, *VS-M*-4/14, *VS-K*-3/14, *KS*-6/13)
+- कविः᳓ (*TS*-16/31, *RV*-92/200, *TB*-9/21, *AV*-10/30, *SB-M*-5/11, *SB-K*-4/9, *VS-M*-10/23, *VS-K*-10/25, *KS*-8/18)
+- शु᳓ची (*TS*-0/33, *RV*-3/113, *TB*-1/23, *AV*-1/25, *SB-M*-1/23, *SB-K*-1/20, *VS-M*-0/14, *VS-K*-0/14, *KS*-0/13)
+- रोच (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- ताः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *TB*-4, *KS*-3)
+- आ᳓-हुतः (*TS*-5/7, *RV*-18/36, *TB*-1/3, *AV*-2/7, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-3/5, *VS-K*-1/3, *KS*-4/6)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- शु᳓चिव्रततमः (*MS*-3, *TS*-2, *RV*-1, *SB-M*-1, *SB-K*-1)
+- शु᳓चिः (*MS*-13/45, *TS*-14/33, *RV*-46/113, *TB*-4/23, *AV*-8/25, *SB-M*-6/23, *SB-K*-7/20, *VS-M*-4/14, *VS-K*-3/14)
+- वि᳓प्रः (*MS*-5/19, *TS*-6/22, *RV*-59/218, *TB*-5/8, *AV*-4/31, *SB-M*-3/13, *SB-K*-2/11, *VS-M*-3/18, *VS-K*-3/19)
+- शु᳓चिः (*MS*-13/45, *TS*-14/33, *RV*-46/113, *TB*-4/23, *AV*-8/25, *SB-M*-6/23, *SB-K*-7/20, *VS-M*-4/14, *VS-K*-3/14)
+- कविः᳓ (*MS*-14/36, *TS*-16/31, *RV*-92/200, *TB*-9/21, *AV*-10/30, *SB-M*-5/11, *SB-K*-4/9, *VS-M*-10/23, *VS-K*-11/26)
+- श्रु᳓ची (*MS*-0/2)
+- रोचते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-7, *RV*-14, *AV*-2, *SB-M*-13, *SB-K*-12, *VS-M*-3, *VS-K*-2)
+- आ᳓-हुतः (*MS*-4/10, *TS*-5/7, *RV*-18/36, *TB*-1/3, *AV*-2/7, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-3/5, *VS-K*-1/3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -159,6 +198,11 @@ __________
 अयमग्निश्शुचिव्रततमः स्वयमेव तावत् शुद्धसत्कर्मतमः विप्रत्वान्मेधावित्वाच्च शुचिः । कवित्वात्क्रान्तदर्शनत्वाच्च शुचिः; वशीकृतवाङ्मयत्वाद्वा । एवं सर्वात्मना आहुतः शास्त्रोक्तवर्त्मनाऽस्माभिराहुतः प्रतीतहविर्लक्षणोयं रोचते तेजिष्ठो भवति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[614_5]** RV 8, 44, 21.
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -189,6 +233,19 @@ Agni who bears most holy sway, the holy Singer, holy Sage,
 Agni, of purest vows,  
 Pure sage, pure poet,  
 Shineth in purity, when offering is made.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni of most pure vows, pure sage, pure poet;  
+pure he shines when offered to.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+of Agni do we choose the friendship.  
+Agni is most pure in vows, a pure sage, a pure poet;  
+pure, he shines when oblation is offered.
 </details>
 
 <details><summary>Geldner</summary>

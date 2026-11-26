@@ -295,6 +295,12 @@ They spring forth more and more, strong in their glories, like days, like spokes
      Highest and mightiest are the Sons of Prsni. Firm to their own intention cling the Maruts.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Like spokes indeed, not last, like days they bring forth, not deficient in greatness.  
+The highest, most vehement sons of Pṛśni, the Maruts have mingled by their own thought.
+</details>
+
 <details><summary>Geldner</summary>
 
 Gleich den Speichen ist keiner der Letzte, gleich den Tagen entstehen sie fort und fort gleich vollkommen an Herrlichkeit. Die trefflichsten Söhne der Prisni, die gewaltigsten Marut haben sich aus eigener Absicht zusammengetan.

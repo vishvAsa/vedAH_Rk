@@ -69,10 +69,30 @@ vajrī́ ← vajrín- (nominal stem)
 इन्द्रो॑ व॒ज्री हि॑र॒ण्ययः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इन्द्र इद्धर्योस्सचा सम्मिश्ल आ वचोयुजा।  
+इन्द्रो वज्री हिरण्ययः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रः॑ । इत् । हर्योः॑ । सचा॑ । सम्ऽमि॑श्लः । आ । व॒चः॒ऽयुजा॑ ।  
 इन्द्रः॑ । व॒ज्री । हि॒र॒ण्ययः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- ह᳓र्योः (*MS*-2/16, *TS*-2/19, *RV*-4/263, *TB*-0/13, *TK*-0/1, *AV*-3/52, *SB-M*-2/16, *SB-K*-2/14, *VS-M*-0/18, *VS-K*-0/15)
+- स᳓चा (*Whitney*, *MS*-7/9, *RV*-85, *TB*-4, *AV*-15, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-8, *VS-K*-13)
+- स᳓म्-मिश्लः (*RV*-5/10, *AV*-2/3)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- वचः-यु᳓जा (*RV*-5, *AV*-3, *MS*-1)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- वज्री᳓ (*MS*-4/9, *TS*-4/7, *RV*-21/43, *TB*-2/6, *AV*-5/14, *VS-M*-1, *VS-K*-1)
+- हिरण्य᳓यः (*MS*-4/7, *TS*-1/2, *RV*-10/44, *TB*-1/3, *AV*-12/26, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-2/3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -190,6 +210,12 @@ and supply ráthena ‘chariot’, this form otherwise (4x) is only du. and modi
 
 Indra hath ever close to him his two bay steeds and word-yoked car,  
      Indra the golden, thunder-armed.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra is united with his two bay steeds, yoked at a word;  
+Indra is the wielder of the thunderbolt, golden.
 </details>
 
 <details><summary>Geldner</summary>

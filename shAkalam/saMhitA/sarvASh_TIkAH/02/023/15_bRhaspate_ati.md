@@ -95,6 +95,18 @@ tát ← sá- ~ tá- (pronoun)
 यद्दी॒दय॒च्छव॑स ऋतप्रजात॒ तद॒स्मासु॒ द्रवि॑णं धेहि चि॒त्रम् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+बृ᳓हस्पते अ᳓ति य᳓द् अर्यो᳓ अ᳓र्हाद् द्युम᳓द् विभा᳓ति क्र᳓तुमज् ज᳓नेषु  
+य᳓द् दीद᳓यञ् श᳓वस ऋतप्रजात त᳓द् अस्मा᳓सु द्र᳓विणं धेहि चित्र᳓म्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+बृ᳓हस्पते अ᳓ति य᳓दर्यो᳓ अ᳓र्हाद् द्युम᳓द्विभा᳓ति क्र᳓तुमज्ज᳓नेषु।  
+य᳓द्दीद᳓यच्छ᳓वसर्तप्रजात त᳓दस्मा᳓सु द्र᳓विणं धेहि चित्र᳓म्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 बृह॑स्पते । अति॑ । यत् । अ॒र्यः । अर्हा॑त् । द्यु॒ऽमत् । वि॒ऽभाति॑ । क्रतु॑ऽमत् । जने॑षु ।  
@@ -104,6 +116,53 @@ tát ← sá- ~ tá- (pronoun)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 बृह॑स्पते। अति॑। यत्। अ॒र्यः। अर्हा॑त्। द्यु॒मदिति॑ द्यु॒ऽमत्। वि॒भातीति॑ वि॒ऽभाति॑। क्रतु॑म॒दिति॒ क्रतु॑ऽमत्। जने॑षु। यत्। दी॒दय॑त्। शव॑सा। ऋ॒त॒प्र॒जा॒तेत्यृ॑तऽप्रजात। तत्। अ॒स्मासु॑। द्रवि॑णम्। धे॒हि॒। चि॒त्रम्।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- बृ᳓हस्पते (*TS*-9, *RV*-33, *TB*-2, *TK*-1, *AV*-12, *SB-M*-8, *SB-K*-7/8, *VS-M*-6, *VS-K*-6, *KS*-7)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- अर्यः᳓ (*TS*-5/6, *RV*-96/100, *TK*-1, *AV*-12, *SB-M*-1, *SB-K*-3/4, *VS-M*-2, *VS-K*-1, *KS*-2)
+- अ᳓र्हात् (*TS*-1/2, *RV*-1/9, *TB*-0/4, *SB-M*-0/1, *VS-M*-1, *VS-K*-1/2, *KS*-1)
+- द्युम᳓त् (*TS*-6/9, *RV*-16/32, *TB*-2, *AV*-3/5, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-3/4)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *KS*-33)
+- भा᳓ति (*RV*-3, *TB*-2, *SB-M*-4, *SB-K*-6/7, *KS*-2)
+- क्र᳓तुमत् (*TS*-1, *RV*-1/6, *VS-M*-1, *VS-K*-1, *KS*-2)
+- ज᳓नेषु (*TS*-3/35, *RV*-18/298, *TB*-3/27, *AV*-6/92, *SB-M*-1/26, *SB-K*-2/26, *VS-M*-2/27, *VS-K*-2/25, *KS*-3/19)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- दीद᳓ (मूल-पाठः)
+- यन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-1, *TB*-7, *SB-M*-1, *SB-K*-1, *VS-K*-3, *KS*-1)
+- श᳓वसः (*TS*-3/11, *RV*-19/161, *TB*-0/5, *AV*-2/39, *SB-M*-0/7, *SB-K*-0/6, *VS-M*-0/9, *VS-K*-0/8, *KS*-0/7)
+- ऋत-प्रजात (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-1, *VS-K*-1, *KS*-2)
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-78/624, *KS*-156/1225)
+- अस्मा᳓सु (*TS*-13/565, *RV*-21/1308, *TB*-5/270, *TK*-0/66, *AV*-24/1252, *SB-M*-5/723, *SB-K*-6/728, *VS-M*-5/314, *VS-K*-4/265, *KS*-6/242)
+- द्र᳓विणम् (*TS*-28/37, *RV*-41/42, *TB*-5/8, *AV*-17/22, *SB-M*-16/17, *SB-K*-14/15, *VS-M*-18/19, *VS-K*-18/19, *KS*-9/10)
+- धेहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-34, *RV*-63, *TB*-26, *TK*-1, *AV*-91, *SB-M*-27, *SB-K*-21, *VS-M*-30, *VS-K*-19, *KS*-29)
+- चित्र᳓म् (*TS*-12/23, *RV*-65/135, *TB*-11/23, *TK*-0/3, *AV*-8/17, *SB-M*-14/26, *SB-K*-13/28, *VS-M*-6/12, *VS-K*-8/14, *KS*-7/11)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- बृ᳓हस्पते (*MS*-10, *TS*-9, *RV*-33, *TB*-2, *TK*-1, *AV*-12, *SB-M*-8, *SB-K*-7/8, *VS-M*-6, *VS-K*-6)
+- अ᳓ति (*MS*-140, *TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- अर्यः᳓ (*MS*-5, *TS*-5/6, *RV*-96/100, *TK*-1, *AV*-12, *SB-M*-1, *SB-K*-3/4, *VS-M*-2, *VS-K*-1)
+- अ᳓र्हात् (*MS*-1/5, *TS*-1/2, *RV*-1/9, *TB*-0/4, *SB-M*-0/1, *VS-M*-1, *VS-K*-1/2)
+- द्युम᳓त् (*MS*-4/7, *TS*-6/9, *RV*-16/32, *TB*-2, *AV*-3/5, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *MS*-130)
+- भा᳓ति (*MS*-6, *RV*-3, *TB*-2, *SB-M*-4, *SB-K*-6/7)
+- क्र᳓तुमत् (*TS*-1, *RV*-1/6, *VS-M*-1, *VS-K*-1, *MS*-1)
+- ज᳓नेषु (*MS*-4/62, *TS*-3/35, *RV*-18/298, *TB*-3/27, *AV*-6/92, *SB-M*-1/26, *SB-K*-2/26, *VS-M*-2/27, *VS-K*-2/27)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- दीद᳓यत् (*MS*-0/1, *TS*-1/2, *RV*-4/5, *AV*-1/2, *VS-M*-1, *VS-K*-1)
+- श᳓वसा (*MS*-6/12, *TS*-7/11, *RV*-80/161, *TB*-4/5, *AV*-16/39, *SB-M*-2/7, *SB-K*-2/6, *VS-M*-6/9, *VS-K*-6/8)
+- ऋत-प्रजात (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-1, *RV*-1, *VS-K*-1)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- अस्मा᳓सु (*MS*-11/641, *TS*-13/565, *RV*-21/1308, *TB*-5/270, *TK*-0/66, *AV*-24/1252, *SB-M*-5/723, *SB-K*-6/728, *VS-M*-5/315, *VS-K*-4/274)
+- द्र᳓विणम् (*MS*-32/43, *TS*-28/37, *RV*-41/42, *TB*-5/8, *AV*-17/22, *SB-M*-16/17, *SB-K*-14/15, *VS-M*-20/21, *VS-K*-18/19)
+- धेहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-50, *TS*-34, *RV*-63, *TB*-26, *TK*-1, *AV*-91, *SB-M*-27, *SB-K*-21, *VS-M*-30, *VS-K*-19)
+- चित्र᳓म् (*MS*-28/54, *TS*-12/23, *RV*-65/135, *TB*-11/23, *TK*-0/3, *AV*-8/17, *SB-M*-14/26, *SB-K*-13/28, *VS-M*-9/15, *VS-K*-8/14)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -259,6 +318,11 @@ _________
 **तत्** तादृशं चित्रं चायनीयं प्रार्थनीयं द्रविणमस्मासु धेहि स्थापय देहि वा ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[609_7]** Ch देहि; vgl. oben 4, 16; auch RV 2, 23, 15; MS 4, 14, 4; TS 1, 8, 22, 3; VS 26, 3. (Ch देहि; cf. above 4, 16; also RV 2, 23, 15; MS 4, 14, 4; TS 1, 8, 22, 3; VS 26, 3.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -297,6 +361,21 @@ Brhaspati, that which the foe deserves not which shines among the folk effectual
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Give us, Brihaspati, that wondrous treasure, that which exceeds the merit of the foeman, Which shines among the folk effectual, splendid, that, Son of Law, which is with might refulgent.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Bṛhaspati, that which exceeds what the stranger deserves, shines brightly, full of insight among the peoples,  
+which has shone forth from strength, O child of truth—set that wondrous wealth among us!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+O Bṛhaspati, that which shines brightly among the peoples with wisdom, beyond what an alien merits,  
+that which shone forth with strength, O born of Ṛta, place that brilliant wealth among us!
+
+O Bṛhaspati, what surpasses the stranger's worth, gleaming bright, shining with resourcefulness among men,  
+what radiates with might, born of the truth—bestow that wondrous wealth upon us!
 </details>
 
 <details><summary>Geldner</summary>

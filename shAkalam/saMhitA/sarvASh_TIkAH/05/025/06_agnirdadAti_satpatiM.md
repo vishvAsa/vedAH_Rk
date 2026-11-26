@@ -206,6 +206,14 @@ Agni bestows the hero-lord who conquers with the men in fight.
      Agni bestows the fleet-foot steed, the victor never overcome.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni gives a lord of the good who conquers heroes in battle;  
+Agni [gives] a fleet steed, victorious, undefeated.  
+Kindled forth, O Agni —  
+These, O Agni —
+</details>
+
 <details><summary>Oldenberg</summary>
 
 Agni gives a good lord who is victorious in battles with his men; Agni (gives) a steed, swiftly running, victorious (in races), unconquered.

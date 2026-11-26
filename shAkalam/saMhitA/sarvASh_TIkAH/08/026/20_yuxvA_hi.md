@@ -89,10 +89,36 @@ sávanā ← sávana- 1 (nominal stem)
 आन्नो॑ वायो॒ मधु॑ पिबा॒स्माकं॒ सव॒ना ग॑हि ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+युक्ष्वा᳓ हि᳓ त्वँ᳓ रथास᳓हा युव᳓स्व पो᳓ष्या वसो  
+आ᳓न् नो वायो म᳓धु पिबास्मा᳓कँ स᳓वना᳓गहि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यु॒क्ष्व । हि । त्वम् । र॒थ॒ऽसहा॑ । यु॒वस्व॑ । पोष्या॑ । व॒सो॒ इति॑ ।  
 आत् । नः॒ । वा॒यो॒ इति॑ । मधु॑ । पि॒ब॒ । अ॒स्माक॑म् । सव॑ना । आ । ग॒हि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- युक्षु᳓ (*SB-M*-3, *SB-K*-1)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-42, *KS*-81)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- रथास᳓हा (*MW*)
+- युव᳓स्व (*TS*-1, *RV*-2)
+- पो᳓ष्या (*TS*-0/1, *RV*-2/4, *AV*-1)
+- वसो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *RV*-53, *TB*-3, *AV*-5, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-1, *KS*-3)
+- आ᳓न् (*VS-M*-1, *VS-K*-1)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- वायो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-3, *RV*-18, *TB*-1, *TK*-3, *AV*-5, *SB-M*-3, *SB-K*-3, *VS-M*-6, *VS-K*-5, *KS*-1)
+- म᳓धु (*TS*-23/44, *RV*-84/153, *TB*-32/46, *TK*-3, *AV*-54/92, *SB-M*-83/98, *SB-K*-72/86, *VS-M*-50/70, *VS-K*-39/59, *KS*-13/24)
+- पिब (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-31, *AV*-10, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-8, *KS*-2)
+- अस्मा᳓कम् (*TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/314, *VS-K*-14/265, *KS*-12/242)
+- स᳓वना᳓ → **स᳓वना** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *TS*-3/56, *RV*-30/104, *TB*-3/16, *AV*-4/24, *SB-M*-1/109, *SB-K*-2/111, *VS-M*-1/6, *VS-K*-1/7, *KS*-1/4)
+- गहि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-7, *RV*-79, *TB*-1, *AV*-20, *SB-M*-3, *SB-K*-3, *VS-M*-6, *VS-K*-6, *KS*-4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -228,6 +254,12 @@ As often, hí + IMPV marks the action of the hí clause as the grounds for the s
 
 Harness the steeds who draw the car, O Vasu, bring the well-fed pair.  
      O Vayu, drink thou of our meath: come unto our drink-offerings.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For yoke the two chariot-bearing steeds, yoke the well-nourished ones, O Vasu!  
+Come, O Vāyu, drink our sweet juice, come to our pressings!
 </details>
 
 <details><summary>Geldner</summary>

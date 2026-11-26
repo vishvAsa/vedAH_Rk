@@ -101,6 +101,12 @@ ví ← ví (invariable)
 विश्वा॑न्यस्मै सु॒दिना॑नि रा॒यो द्यु॒म्नान्य॒र्यो वि दुरो॑ अ॒भि द्यौ॑त् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स᳓ ते जानाति सुमतिं᳓ यविष्ठ य᳓ ई᳓वते ब्र᳓ह्मणे गातु᳓मै᳓रत्।  
+वि᳓श्वान्यस्मै सुदि᳓नानि रायो᳓ द्युम्ना᳓न्ययो᳓ वि᳓ दु᳓रो अभि᳓द्यौत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । ते॒ । जा॒ना॒ति॒ । सु॒ऽम॒तिम् । य॒वि॒ष्ठ॒ । यः । ईव॑ते । ब्रह्म॑णे । गा॒तुम् । ऐर॑त् ।  
@@ -316,6 +322,13 @@ He knows thy [2] loving kindliness, O most youthful one,
 Who hath given furtherance to this devotion;  
 All happy days for him, glory, and wealth  
 --Opening the doors of the miser--he hath revealed.'
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Put forth your mass [of flames]...  
+He knows your goodwill, O youngest one, who has set going a path for such a prayer.  
+All fair days, riches, and splendors of the noble one have shone forth [unto him], opening the doors.
 </details>
 
 <details><summary>Geldner</summary>

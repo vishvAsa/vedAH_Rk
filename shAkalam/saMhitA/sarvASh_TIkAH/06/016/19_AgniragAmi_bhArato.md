@@ -154,6 +154,11 @@ _________
 अयम् **अग्निः** **आ** **अगामि** । अस्माभिः स्तुतिभिरभ्यगम्यत । कीदृशः । **भारतः** हविषां भर्ता **दिवोदासस्य** एतत्संज्ञस्य राज्ञः **वृत्रहा** वृत्राणां शत्रूणां हन्ता **पुरुचेतनः** पुरूणां बहूनां चेतयिता ज्ञाता । सर्वज्ञ इत्यर्थः । **सत्पतिः** सतां यजमानानां पालयिता ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[314_2]** So corr. Ch **वृत्रभा**; cf. RV 6, 16, 19. (Thus emended; Ch reads वृत्रभा; cf. RV 6, 16, 19)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -178,6 +183,12 @@ The “passive” aorist agāmi is a hapax and, in this context, a scrambling of
 
 Agni, the Bharata, hath been sought, the Vrtra-slayer, marked of all,  
      Yea, Divodasa's Hero Lord.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni has been approached, the Bhārata, the Vṛtra-slayer of widespread thought,  
+the true lord of Divodāsa.
 </details>
 
 <details><summary>Geldner</summary>

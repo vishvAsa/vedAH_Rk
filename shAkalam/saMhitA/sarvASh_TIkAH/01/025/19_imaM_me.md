@@ -87,6 +87,12 @@ tvā́m ← tvám (pronoun)
 त्वाम॑व॒स्युरा च॑के ॥११॥ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इमं᳓ मे वरुण श्रुधी * ह᳓वम् अद्या᳓ च मृडय  
+त्वा᳓म् अवस्यु᳓र् आ᳓चके
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒मम् । मे॒ । व॒रु॒ण॒ । श्रु॒धि॒ । हव॑म् । अ॒द्य । च॒ । मृ॒ळ॒य॒ ।  
@@ -101,6 +107,38 @@ tvā́m ← tvám (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 इम॒म्। मे॒। व॒रु॒ण॒। श्रु॒धि। हव॑म्। अ॒द्य। च॒। मृ॒ड॒य॒। त्वाम्। अ॒व॒स्युः। आ। च॒के॒। ११।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इम᳓म् (*TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/313, *VS-K*-51/289, *KS*-38/319)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-331, *KS*-356)
+- वरुण (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-17, *RV*-58, *TB*-6, *TK*-1, *AV*-27, *SB-M*-8, *SB-K*-7, *VS-M*-8, *VS-K*-8, *KS*-17)
+- श्रुधी (*TS*-1, *KS*-2)
+- ह᳓वम् (*TS*-11/17, *RV*-101/124, *TB*-3/5, *AV*-16/22, *SB-M*-5/7, *SB-K*-7/8, *VS-M*-9/13, *VS-K*-7/9, *KS*-5/6)
+- अ-द्या᳓ (*TS*-2/46, *RV*-0/215, *TB*-1/31, *TK*-0/2, *AV*-0/66, *SB-M*-1/43, *SB-K*-3/48, *VS-M*-0/55, *VS-K*-2/54, *KS*-3/18)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- मृडय (*TS*-4, *RV*-11, *VS-M*-1, *VS-K*-1, *KS*-2)
+- त्वा᳓म् (*TS*-36/313, *RV*-179/1488, *TB*-16/152, *TK*-4/39, *AV*-69/628, *SB-M*-21/387, *SB-K*-19/387, *VS-M*-27/215, *VS-K*-26/167, *KS*-14/165)
+- अवस्युः᳓ (*TS*-3/4, *RV*-8/28, *AV*-0/6, *SB-M*-1/5, *SB-K*-2/5, *VS-M*-1/3, *VS-K*-1/7, *KS*-3)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- चके (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-5, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-2, *KS*-3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इम᳓म् (*MS*-120/1379, *TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/319, *VS-K*-53/301)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *MS*-506, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-332)
+- वरुण (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-36, *TS*-17, *RV*-58, *TB*-6, *TK*-1, *AV*-27, *SB-M*-8, *SB-K*-7, *VS-M*-8, *VS-K*-10)
+- श्रुधी (*MS*-2, *TS*-1)
+- ह᳓वम् (*MS*-15/17, *TS*-11/17, *RV*-101/124, *TB*-3/5, *AV*-16/22, *SB-M*-5/7, *SB-K*-7/8, *VS-M*-9/13, *VS-K*-7/12)
+- अ-द्या᳓ (*MS*-7/72, *TS*-2/46, *RV*-0/215, *TB*-1/31, *TK*-0/2, *AV*-0/66, *SB-M*-1/43, *SB-K*-3/48, *VS-M*-0/59, *VS-K*-2/56)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- मृडय (*MS*-2, *TS*-4, *RV*-11, *VS-M*-1, *VS-K*-1)
+- त्वा᳓म् (*MS*-33/382, *TS*-36/313, *RV*-179/1488, *TB*-16/152, *TK*-4/39, *AV*-69/628, *SB-M*-21/387, *SB-K*-19/387, *VS-M*-28/216, *VS-K*-27/180)
+- अवस्युः᳓ (*MS*-4, *TS*-3/4, *RV*-8/28, *AV*-0/6, *SB-M*-1/5, *SB-K*-2/5, *VS-M*-1/3, *VS-K*-1/7)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- चके (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-5, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-2, *MS*-5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -278,6 +316,11 @@ _________
 ( वाप्रा ४. १४६ ) इति डस्य ळ: । मृड सुखे इति धातुः चुरादिः । यतो ऽहं त्वाम् आ 'चके कामये । आचक इति कान्तिकर्मा ' ( द्र. निघण्टु २०६ ) इति यास्क: । कीदृशो ऽहम् ? ' अवस्युः । अवनम् अवः पालनम् । अव रक्षणे ' अस्मादसुन् । तद् इच्छतीति अवस्युः । " सुप भात्मन: क्यच् " ( पा ३०१०८ ), क्याच्छन्दसि " ( पा ३.२.१७० ) इत्युप्रत्ययः । यद्वा- अवस्युर् अवसन्नः खिन्नः । अवपूर्वस्य सरौणादिके उप्रत्यये टिलोपे च सत्य् अवसीद् अतीत्यवस्युर् इति रूपं सिद्ध्यति । हे वरुण, स्वार्य-रतस्य मम आह्वानम् अवधार्य अविलम्बेन पीडानिवृत्तिकामनया त्वां कामयन्तं मां प्रति शीघ्रम् आगच्छेति निष्कर्षार्थः । परमात्म-परत्वे तु वारयति निवारयति दैत्यान् वृणोति देवान् इति वा वरुणः । तत्-संबोधनं हे वरुणेति । अन्यद् यथावस्थितम् एव । एवम् उत्तरत्रापि द्रष्टव्यम् ॥१॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[610_10]** Dieser Vers findet sich so an dieser Stelle in Brl und G; desgl. in W 1, ohne Accent. In Ch fehlt derselbe ganz. Vgl. RV 1, 25, 19. (This verse is found thus at this place in Brl and G; likewise in W 1, without accent. In Ch it is missing altogether. Cf. RV 1, 25, 19.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 अब इक्कीसवें अध्याय का आरम्भ है, इसके प्रथम मन्त्र में विद्वानों के विषय में कहा है ॥
@@ -336,6 +379,27 @@ It is you whom I desire, seeking help.
 
 Varuna, hear this call of mine: be gracious unto us this day  
      Longing for help I cried to thee.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Hear this my call, O Varuṇa, and be gracious today;  
+seeking aid, I look to thee.
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+Hear this call of mine, O Varuṇa, and be gracious today;  
+desiring help, I long for you.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Hear this call of mine, O Varuṇa, and be gracious today!  
+Seeking help, I yearn for you.
+
+Hear this call of mine, O Varuṇa, and be gracious today;  
+desiring aid, I cry out to you.
 </details>
 
 <details><summary>Geldner</summary>

@@ -278,6 +278,11 @@ _________
 हे मरुतः वो युष्माकं या शर्म यानि शरणानि गृहाणि शशमानाय सन्ति शंसनं कुर्वते यजमानाय दातुं संपादितानि तानि गृहाणि, त्रिधातूनि अशनं पानं खादनमित्येतानि त्रीणि धारयन्तीति त्रिधातूनि । तदेतत्त्रयमन्यत्राम्नायते - 'त्रेधा विहितं वा इदमन्नमशनं पानं खादः' इति । एतैस्त्रिविधैरन्नैरूपेतानि गृहाणि दाशुषे हविर्दत्तवते यजमानाय अधियच्छत आधिक्येन धत्त । हे मरुतोऽस्मभ्यमपि तानि गृहाणि वियन्त विशेषेण यच्छत । वृषणः कामानां वर्षितारो यूयं रयिं धनं सुवीरं सुष्ठु वीरपुत्रयुतं धत्त संपादयत ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[105_1]** So Brl = RV 1, 85, 12; in I eine Lücke; D und Ch वियन्ता (Thus Brl = RV 1, 85, 12; in I a lacuna; D and Ch read वियन्ता)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -305,6 +310,12 @@ The protections which ye have for the earnest worshipper,
 Threefold do ye grant them to the generous giver,  
 To us, O Maruts, do ye accord them;  
 O strong ones, give us wealth rich in heroes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What threefold protections of yours exist for the striving [sacrificer], extend them to the devout one;  
+moving through them for us, O Maruts, place wealth with good heroes in us, O bulls!
 </details>
 
 <details><summary>Geldner</summary>

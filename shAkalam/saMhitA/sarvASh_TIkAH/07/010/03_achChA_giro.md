@@ -91,6 +91,12 @@ mā́nuṣāṇām ← mā́nuṣa- (nominal stem)
 ह॒व्य॒वाह॑मर॒तिम्मानु॑षाणाम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓छा गि᳓रो मत᳓यो देवय᳓न्तीर् अग्निँ᳓ यन्ति द्र᳓विणं भि᳓क्षमाणाः  
+सुसंदृ᳓शँ सुप्र᳓तीकँ स्व᳓ञ्चँ हव्यवा᳓हम् अरतिं᳓ मा᳓नुषाणाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अच्छ॑ । गिरः॑ । म॒तयः॑ । दे॒व॒ऽयन्तीः॑ । अ॒ग्निम् । य॒न्ति॒ । द्रवि॑णम् । भिक्ष॑माणाः ।  
@@ -100,6 +106,24 @@ mā́nuṣāṇām ← mā́nuṣa- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अ᳓च्छा । गि᳓रः । मत᳓यः । देव-य᳓न्तीः । अग्नि᳓म् । यन्ति । द्र᳓विणम् । भि᳓क्षमाणाः । सु-सन्दृ᳓शम् । सु-प्र᳓तीकम् । स्व᳓ञ्चम् । हव्य-वा᳓हम् । अरति᳓म् । मा᳓नुषाणाम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓छा (*SB-M*-3/15, *SB-K*-0/3)
+- गि᳓रः (*TS*-10, *RV*-151/158, *TB*-11, *AV*-22, *SB-M*-7, *SB-K*-6, *VS-M*-11, *VS-K*-12, *KS*-13)
+- मत᳓यः (*TS*-0/9, *RV*-20/141, *TB*-1/10, *TK*-0/1, *AV*-2/18, *SB-M*-0/12, *SB-K*-0/11, *VS-M*-1/13, *VS-K*-1/13, *KS*-0/8)
+- देव-य᳓न्तीः (*RV*-6, *TB*-2)
+- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/322, *VS-K*-62/339, *KS*-38/256)
+- यन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-117, *RV*-76, *TB*-34, *TK*-2, *AV*-22, *SB-M*-133, *SB-K*-108, *VS-K*-1, *KS*-10)
+- द्र᳓विणम् (*TS*-28/37, *RV*-41/42, *TB*-5/8, *AV*-17/22, *SB-M*-16/17, *SB-K*-14/15, *VS-M*-18/19, *VS-K*-18/19, *KS*-9/10)
+- भि᳓क्षमाणाः (*RV*-8/11, *TB*-2/3, *VS-M*-0/1)
+- सु-सन्दृ᳓शम् (*TS*-1, *RV*-3/6, *TB*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1, *KS*-2)
+- सु-प्र᳓तीकम् (*TS*-4/8, *RV*-5/9, *TB*-1/3, *AV*-1/3, *SB-M*-3/10, *SB-K*-1/7, *VS-M*-2/6, *VS-K*-2/6, *KS*-1/5)
+- स्व᳓ञ्चम् (*TS*-1/2, *TB*-2, *KS*-1)
+- हव्य-वा᳓हम् (*TS*-4/10, *RV*-22/32, *TB*-4/9, *TK*-2, *AV*-4/5, *SB-M*-0/8, *SB-K*-0/4, *VS-M*-3/4, *VS-K*-3, *KS*-5/8)
+- अरति᳓म् (*TS*-3/4, *RV*-14/30, *TB*-2, *SB-M*-2, *SB-K*-2, *VS-M*-3/4, *VS-K*-3/4, *KS*-1/2)
+- मा᳓नुषाणाम् (*TS*-2/9, *RV*-17/84, *TB*-3/12, *AV*-3/12, *SB-M*-1/17, *SB-K*-1/22, *VS-M*-3/8, *VS-K*-1/6, *KS*-1/3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -237,6 +261,12 @@ to him of lovely appearance, of lovely face, and of lovely look, to him  conveyi
 
 Our songs and holy hymns go forth to Agni, seeking the God and asking him for riches,  
      Him fair to see, of goodly aspect, mighty, men's messenger who carries their oblations.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Toward Agni go the songs, the thoughts seeking the gods, begging for wealth,  
+[toward him] of fair sight, of fair face, moving well, the oblation-bearer, the master of men.
 </details>
 
 <details><summary>Geldner</summary>

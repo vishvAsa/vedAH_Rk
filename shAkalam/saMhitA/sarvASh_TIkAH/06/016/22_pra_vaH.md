@@ -168,6 +168,11 @@ _________
 हे **सखायः** समानख्याना ऋत्विजः **वः** यूयं **धृष्णुया** शत्रूणां धर्षकाय **वेधसे** विधात्रे **अग्नये** **स्तोमं** स्तोत्रं **गाय** गायत । तथा **यज्ञं** यजनसाधनं हविः च” **प्र**  **अर्च** प्रयच्छत ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[82_14]** W1 4 वेदसे
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -190,6 +195,12 @@ Pāda a contains a 2nd plural enclitic prn. and a plural voc. (vaḥ sakhāyaḥ
 
 Bring to your Agni, O my friends, boldly your laud and sacrifice:  
      Give the Disposer praise and song.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Forth, O friends, to Agni boldly [bring] the praise and the sacrifice;  
+praise and sing to the wise one.
 </details>
 
 <details><summary>Geldner</summary>

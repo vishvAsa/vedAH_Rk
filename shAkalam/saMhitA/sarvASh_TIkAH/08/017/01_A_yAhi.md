@@ -81,10 +81,34 @@ sadaḥ ← √sad- (root)
 एदं ब॒र्हिः स॑दो॒ मम॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आ᳓याहि सुषुमा᳓ हि᳓ ता इ᳓न्द्र सो᳓मं पि᳓बा इम᳓म्  
+ए᳓दं᳓ बर्हिः᳓ सदो म᳓म
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । या॒हि॒ । सु॒सु॒म । हि । ते॒ । इन्द्र॑ । सोम॑म् । पिब॑ । इ॒मम् ।  
 आ । इ॒दम् । ब॒र्हिः । स॒दः॒ । मम॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- याहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-120, *TB*-7, *AV*-38, *SB-M*-11, *SB-K*-9, *VS-M*-15, *VS-K*-13, *KS*-5)
+- सुषुम् (*TS*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *KS*-1)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-42, *KS*-81)
+- ताः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *TB*-4, *KS*-3)
+- इ᳓न्द्र (*TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-24/26, *KS*-16/18)
+- सो᳓मम् (*TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/128, *VS-K*-32/108, *KS*-24/80)
+- पि᳓बाः (*RV*-0/2, *TB*-0/1, *AV*-0/1, *VS-K*-0/2, *KS*-0/3)
+- इम᳓म् (*TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/313, *VS-K*-51/289, *KS*-38/319)
+- ए᳓द᳓म् → **ए᳓दम्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *SB-M*-0/5, *SB-K*-0/5)
+- बर्हिः᳓ (*TS*-38/75, *RV*-86/137, *TB*-56/76, *AV*-24/41, *SB-M*-51/75, *SB-K*-43/65, *VS-M*-23/42, *VS-K*-19/39, *KS*-11/13)
+- सदः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *RV*-7, *AV*-4, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- म᳓म (*TS*-28/565, *RV*-74/1308, *TB*-15/270, *TK*-0/66, *AV*-75/1252, *SB-M*-46/723, *SB-K*-56/728, *VS-M*-14/314, *VS-K*-11/265, *KS*-10/242)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -209,6 +233,12 @@ On the injunctive sadaḥ as functional imperative, see Hoffmann 1967: 263.
 
 COME, we have pressed the juice for thee; O Indra, drink this Soma here  
      Sit thou on this my sacred grass.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Come here, for we have pressed [it] for you; drink this soma, O Indra;  
+sit upon this sacrificial grass of mine.
 </details>
 
 <details><summary>Geldner</summary>

@@ -63,10 +63,29 @@ vr̥ṇīmahe ← √vr̥- ~ vr̥̄- (root)
 अ॒ग्नेः स॒ख्यं वृ॑णीमहे ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓दब्धस्य स्वधा᳓वतो दूत᳓स्य रे᳓भतस्म᳓दा।  
+अग्ने᳓स्सख्यं᳓ वृणीमहे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अद॑ब्धस्य । स्व॒धाऽव॑तः । दू॒तस्य॑ । रेभ॑तः । सदा॑ ।  
 अ॒ग्नेः । स॒ख्यम् । वृ॒णी॒म॒हे॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓दब्धस्य (*MS*-0/9, *TS*-0/11, *RV*-3/45, *TB*-0/1, *AV*-0/5, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/8, *VS-K*-0/8)
+- स्वधा᳓-वतः (*RV*-1, *AV*-0/1)
+- दूत᳓स्य (*MS*-0/10, *TS*-0/12, *RV*-2/89, *TB*-0/8, *AV*-0/15, *SB-M*-0/8, *SB-K*-0/10, *VS-M*-0/6, *VS-K*-0/6)
+- रे᳓भतः (*RV*-2/4)
+- म᳓त् (*MS*-4/641, *TS*-3/565, *RV*-12/1308, *TB*-6/270, *TK*-0/66, *AV*-19/1252, *SB-M*-17/723, *SB-K*-15/728, *VS-M*-1/315, *VS-K*-1/274)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-449, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-6, *VS-K*-10)
+- अग्नेः᳓ (*MS*-200/1297, *TS*-163/1194, *RV*-54/856, *TB*-56/520, *TK*-7/105, *AV*-43/419, *SB-M*-224/2495, *SB-K*-210/2289, *VS-M*-49/325, *VS-K*-44/349)
+- सख्य᳓म् (*MS*-4/9, *TS*-5/7, *RV*-44/134, *TB*-3/5, *AV*-2/12, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-5/6, *VS-K*-5)
+- वृणीमहे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-6, *RV*-56, *TB*-3, *AV*-3, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -132,6 +151,11 @@ _________
 हे अग्ने **अदब्धस्य** केनाप्यहिंसितस्य **स्वधावतः** बलवतः **दूतस्य** देवानां **रेभतः** देवान् स्तुवतस्तव **सख्यं** **सदा** वयं **वृणीमहे** ॥ ॥ ३९ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[614_4]** RV 8, 44, 20.
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -151,6 +175,11 @@ of Agni would we choose the comradeship.
 
 We ever claim the friendship of Agni, the singing messenger,  
      Of God-like nature, void of guile.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of the unbeguiled, self-reliant messenger, ever chanting,
 </details>
 
 <details><summary>Geldner</summary>

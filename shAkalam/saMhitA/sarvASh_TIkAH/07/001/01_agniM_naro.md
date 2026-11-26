@@ -69,10 +69,40 @@ gr̥hápatim ← gr̥hápati- (nominal stem)
 दू॒रे॒दृशं॑ गृ॒हप॑तिमथ॒र्युम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्निं नरो दीधितिभिररण्योर्हस्तच्युती जनयन्त प्रशस्तम्।  
+टूरेदृशं गृहपतिमथर्युम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निम् । नरः॑ । दीधि॑तिऽभिः । अ॒रण्योः॑ । हस्त॑ऽच्युती । ज॒न॒य॒न्त॒ । प्र॒ऽश॒स्तम् ।  
 दू॒रे॒ऽदृश॑म् । गृ॒हऽप॑तिम् । अ॒थ॒र्युम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- न᳓रः (*MS*-15/25, *TS*-14/19, *RV*-127/286, *TB*-8/13, *TK*-1, *AV*-15/32, *SB-M*-11/18, *SB-K*-10/18, *VS-M*-5/11, *VS-K*-4/10)
+- दी᳓धितिभिः (*TS*-0/1, *RV*-1/9, *VS-M*-0/1, *VS-K*-0/1)
+- अर᳓ण्योः (*MS*-0/2, *TS*-2, *RV*-2/6, *TB*-0/3, *AV*-0/1, *SB-M*-10/23, *SB-K*-7/11)
+- ह᳓स्त-च्युती (*MS*-0/1, *RV*-1)
+- जन᳓यन्त (*MS*-1, *TS*-2, *RV*-4/5, *TB*-1, *AV*-1, *VS-M*-3, *VS-K*-3)
+- प्र-शस्त᳓म् (*MS*-2, *RV*-7/9, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- टू᳓रेदृशम् (अनाम्नातम् (अनुमानम्))
+- गृह᳓-पतिम् (*MS*-1/20, *TS*-2/24, *RV*-7/20, *TB*-3/18, *TK*-0/1, *AV*-1/5, *SB-M*-2/39, *SB-K*-1/31, *VS-M*-1/8, *VS-K*-1/15)
+- अथर्यु᳓म् (*RV*-1)
+
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- दी᳓धितिभिः (*TS*-0/1, *RV*-1/9, *VS-M*-0/1, *VS-K*-0/1)
+- अर᳓ण्योः (*MS*-0/2, *TS*-2, *RV*-2/6, *TB*-0/3, *AV*-0/1, *SB-M*-10/23, *SB-K*-7/11)
+- ह᳓स्त-च्युती (*MS*-0/1, *RV*-1)
+- जन᳓यन्त (*MS*-1, *TS*-2, *RV*-4/5, *TB*-1, *AV*-1, *VS-M*-3, *VS-K*-3)
+- प्र-शस्त᳓म् (*MS*-2, *RV*-7/9, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- दूरे-दृ᳓शम् (*MS*-0/1, *TS*-0/1, *RV*-1/5, *VS-M*-0/1, *VS-K*-0/1)
+- गृह᳓-पतिम् (*MS*-1/20, *TS*-2/24, *RV*-7/20, *TB*-3/18, *TK*-0/1, *AV*-1/5, *SB-M*-2/39, *SB-K*-1/31, *VS-M*-1/8, *VS-K*-1/15)
+- अथर्यु᳓म् (*RV*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -179,6 +209,18 @@ to the flaming houselord, visible far away.
 
 THE men from fire-sticks, with their hands' swift movement, have, in deep thought, engendered glorious Agni,  
      Far-seen, with pointed flame, Lord of the homestead.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Men produced Agni with reflections, through the movement of the hands from the two churning-sticks, the praised one,  
+the far-seeing householder, flickering.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Men produced with their thoughts, through the movement of hands on the two kindling sticks, the praiseworthy Agni,  
+far-seeing, master of the house, Atharvan-like.
 </details>
 
 <details><summary>Geldner</summary>

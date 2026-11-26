@@ -97,6 +97,12 @@ vihváyāmahe ← √hvā- (root)
 वा॒घद्भि॑र्वि॒ह्वया॑महे ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ऊर्ध्व ऊ षु ण ऊतये तिष्ठा देवो न सविता।  
+ऊर्ध्वो वाजस्य सनिता यदञ्जिभिर्वाद्यद्भिर्विह्वयामहे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ऊ॒र्ध्वः । ऊं॒ इति॑ । सु । नः॒ । ऊ॒तये॑ । तिष्ठ॑ । दे॒वः । न । स॒वि॒ता ।  
@@ -121,6 +127,28 @@ vihváyāmahe ← √hvā- (root)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 ऊर्ध्वः᳓ । ऊषु᳓ । णः । ऊत᳓ये । ति᳓ष्ठाः । देवः᳓ । न᳓ । सविता᳓ । ऊर्ध्वः᳓ । वा᳓जस्य । स᳓निता । य᳓त् । अञ्जि᳓भिः । वाघ᳓द्भिः । वि । ह्व᳓यामहे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ऊर्ध्वः᳓ (*MS*-28/86, *TS*-15/60, *RV*-34/73, *TB*-6/22, *TK*-0/2, *AV*-17/48, *SB-M*-50/276, *SB-K*-52/264, *VS-M*-9/23, *VS-K*-8/22)
+- ऊ᳓ (*SB-M*-1)
+- षु᳓ (*MS*-11/14, *TS*-7, *TB*-0/1, *SB-M*-1, *SB-K*-4, *VS-K*-3/4)
+- णः (समानान्तर-पाठः (TS), *MS*-17, *TS*-4, *TB*-7, *SB-M*-3, *VS-K*-5)
+- ऊत᳓ये (*MS*-13/35, *TS*-12/25, *RV*-101/345, *TB*-6/12, *AV*-24/46, *SB-M*-5/8, *SB-K*-2/6, *VS-M*-10/26, *VS-K*-12/26)
+- ति᳓ष्ठाः (*MS*-2/18, *TS*-0/14, *RV*-2/4, *TB*-3/10, *TK*-0/1, *AV*-0/9, *SB-M*-3/104, *SB-K*-2/96, *VS-M*-0/1, *VS-K*-0/1)
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- सविता᳓ (*MS*-80/155, *TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109)
+- ऊर्ध्वः᳓ (*MS*-28/86, *TS*-15/60, *RV*-34/73, *TB*-6/22, *TK*-0/2, *AV*-17/48, *SB-M*-50/276, *SB-K*-52/264, *VS-M*-9/23, *VS-K*-8/22)
+- वा᳓जस्य (*MS*-26/115, *TS*-21/92, *RV*-32/350, *TB*-5/35, *TK*-0/1, *AV*-5/49, *SB-M*-17/73, *SB-K*-15/71, *VS-M*-16/71, *VS-K*-17/73)
+- स᳓निता (*MS*-1, *TS*-1, *RV*-22/24, *TB*-1, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- अञ्जि᳓भिः (*MS*-1/4, *TS*-1/3, *RV*-10/21, *TB*-1, *AV*-0/1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1/3, *VS-K*-1/3)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-211, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-36)
+- द्य᳓द्भिः (*MW* ŚBr., *MS*-0/7, *TS*-0/1, *TB*-0/1, *TK*-0/2, *SB-M*-0/19, *SB-K*-0/15)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *MS*-130)
+- ह्व᳓यामहे (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TB*-1, *SB-M*-1, *SB-K*-1, *MS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -338,6 +366,13 @@ _________
  १७८८ मन्त्रद्वित्वं प्रशंसति— ‘द्वाभ्यां प्रतिष्ठित्यै’ [सं. का. ५ प्र. १ अ. ५] इति।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[216_5]** D तिष्ठन्देवो
+
+- **[216_6]** D सविता
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर भी उक्त विषय को अगले मन्त्र में कहा है ॥
@@ -409,6 +444,18 @@ Arise erect to aid us,
 Like Savitr, the god;  
 Erect to win the booty,  
 When in contest we call on thee with the shining praisers.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Stand upright for our help, like god Savitṛ;  
+upright, the winner of the prize, when we call upon [you] with anointers, with priests.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Stand upright for our aid, like god Savitṛ;  
+upright, bestower of prize, when with anointed celebrants we call upon [you].
 </details>
 
 <details><summary>Oldenberg</summary>

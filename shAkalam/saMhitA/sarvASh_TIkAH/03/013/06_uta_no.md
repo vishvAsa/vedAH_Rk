@@ -77,10 +77,32 @@ sahasrasā́tamaḥ ← sahasrasā́tama- (nominal stem)
 शं नः॑ शोचा म॒रुद्वृ॒धोऽग्ने॑ सहस्र॒सात॑मः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उत᳓ नो ब्र᳓ह्मन् हविष उक्थे᳓षु देवहू᳓तमः  
+शं᳓ नः शोचा मरु᳓द्वृधो᳓ ऽग्ने सहस्रसा᳓तमः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒त । नः॒ । ब्रह्म॑न् । अ॒वि॒षः॒ । उ॒क्थेषु॑ । दे॒व॒ऽहूत॑मः ।  
 शम् । नः॒ । शो॒च॒ । म॒रुत्ऽवृ॑धः । अग्ने॑ । स॒ह॒स्र॒ऽसात॑मः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उत᳓ (*TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-70, *KS*-55)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- ब्र᳓ह्मन् (*TS*-9, *RV*-2, *TB*-11, *SB-M*-22, *SB-K*-17, *VS-M*-4, *VS-K*-3, *KS*-3)
+- हविषः (*TB*-1)
+- उक्थे᳓षु (*TS*-2/26, *RV*-10/104, *TB*-1/8, *AV*-2/18, *SB-M*-1/101, *SB-K*-1/93, *VS-M*-1/10, *VS-K*-1/15, *KS*-1/17)
+- देव-हू᳓तमः (*TS*-0/5, *RV*-1/2, *TB*-0/1, *SB-M*-1/3, *SB-K*-0/1, *VS-M*-0/3, *VS-K*-0/3, *KS*-1/2)
+- श᳓म् (*TS*-33, *RV*-159, *TB*-19, *TK*-1, *AV*-185, *SB-M*-27, *SB-K*-29, *VS-M*-39, *VS-K*-21, *KS*-13)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- शोचा (*TS*-1, *TB*-1, *SB-M*-1, *SB-K*-2, *KS*-1)
+- मरु᳓द्-वृधः (*SB-K*-1, *KS*-1)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- सहस्र-सा᳓तमः (*TS*-1, *RV*-2/4, *AV*-0/1, *SB-M*-1, *KS*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -199,6 +221,12 @@ Growing strong through the Maruts, flame up as our good luck, Agni,  since you b
 
 Help us, thou Brahman, best of all invokers of the Gods in song.  
      Beam, Friend of Maruts, bliss on us, O Agni, a most liberal God.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And, O formula, deviser of oblations, best caller of the gods in praises,  
+shine peace upon us, thriving with the Maruts, O Agni, best winner of thousands.
 </details>
 
 <details><summary>Oldenberg</summary>

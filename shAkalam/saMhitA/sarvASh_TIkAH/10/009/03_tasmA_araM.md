@@ -84,6 +84,12 @@ naḥ ← ahám (pronoun)
 आपो॑ ज॒नय॑था च नः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+तस्मा अ᳓रं गमाम वो य᳓स्य क्षयाय जि᳓न्वथ।  
+आ᳓पो जन᳓यथा च नः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तस्मै॑ । अर॑म् । ग॒मा॒म॒ । वः॒ । यस्य॑ । क्षया॑य । जिन्व॑थ ।  
@@ -103,6 +109,22 @@ naḥ ← ahám (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 तस्मै॑ । अर॑म् । ग॒मा॒म॒ । वः॒ । यस्य॑ । क्षया॑य । जिन्व॑थ ॥ आपः॑ । ज॒नय॑थ । च॒ । नः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- तस्मै → **त᳓स्मै** (स्वर-लोपः, *MS*-74/5550, *TS*-128/4761, *RV*-58/3136, *TB*-31/2709, *TK*-5/363, *AV*-84/3165, *SB-M*-176/20457, *SB-K*-199/20018, *VS-M*-33/780, *VS-K*-31/660)
+- अ᳓रम् (*MS*-5, *TS*-4, *RV*-46, *TB*-3/6, *TK*-1, *AV*-2, *SB-M*-2/3, *SB-K*-1, *VS-M*-4, *VS-K*-4)
+- गमाम (*MS*-2, *TS*-3, *RV*-2, *AV*-1, *VS-M*-2, *VS-K*-2)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- य᳓स्य (*MS*-155/3763, *TS*-134/3385, *RV*-207/4011, *TB*-71/1735, *TK*-2/227, *AV*-112/3120, *SB-M*-143/8327, *SB-K*-136/8438, *VS-M*-28/651, *VS-K*-25/609)
+- क्षयाय → **क्ष᳓याय** (स्वर-लोपः, *MS*-7/18, *TS*-6/19, *RV*-24/72, *TB*-0/1, *AV*-2/5, *SB-M*-3/8, *SB-K*-3/8, *VS-M*-4/8, *VS-K*-8/11)
+- जि᳓न्वथ (*MS*-2, *TS*-3, *RV*-3, *AV*-1, *VS-M*-2, *VS-K*-2)
+- आ᳓पः (*MS*-125/374, *TS*-98/319, *RV*-151/532, *TB*-59/152, *TK*-6/14, *AV*-141/324, *SB-M*-332/760, *SB-K*-333/744, *VS-M*-51/146, *VS-K*-37/124)
+- जन᳓ (*RV*-1, *SB-M*-2, *SB-K*-2, *MS*-2)
+- यथा (*MS*-11, *TS*-6, *RV*-34, *TB*-4, *TK*-1, *AV*-9, *SB-M*-2, *SB-K*-15, *VS-M*-3, *VS-K*-4)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -454,6 +476,18 @@ O waters, and propagate us.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 To you we gladly come, etc., as in XI. 52,
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To that one we would go swiftly, to whose house you enliven [us];  
+and, o waters, produce [vigor] for us.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+To that one let us go suitably for whose dwelling you animate,  
+and give us birth, O Waters!
 </details>
 
 <details><summary>Geldner</summary>

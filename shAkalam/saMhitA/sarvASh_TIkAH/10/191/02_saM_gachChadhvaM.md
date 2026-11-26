@@ -83,10 +83,36 @@ upā́sate ← √ās- (root)
 दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+सं᳓गछध्वँ सं᳓जानीध्वँ सँ᳓ वो म᳓नाँसि जानताम्  
+देवा᳓ भागँ᳓ य᳓था पू᳓र्वे संजानाना᳓ उपा᳓सते
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सम् । ग॒च्छ॒ध्व॒म् । सम् । व॒द॒ध्व॒म् । सम् । वः॒ । मनां॑सि । जा॒न॒ता॒म् ।  
 दे॒वाः । भा॒गम् । यथा॑ । पूर्वे॑ । स॒म्ऽजा॒ना॒नाः । उ॒प॒ऽआस॑ते ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- गछ (*SB-M*-13, *VS-K*-5)
+- ध्वम् (*TB*-3, *KS*-3)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- जानीध्वम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *AV*-2, *KS*-1)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-68, *KS*-122)
+- म᳓नांसि (*TS*-1/141, *RV*-6/238, *TB*-1/72, *TK*-0/17, *AV*-7/161, *SB-M*-4/343, *SB-K*-3/312, *VS-M*-2/86, *VS-K*-2/78, *KS*-0/50)
+- जानताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *TB*-1, *AV*-1, *SB-M*-1)
+- देवाः᳓ (*TS*-376/1025, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-106/517, *VS-K*-97/498, *KS*-89/317)
+- भाग᳓म् (*TS*-9/55, *RV*-43/57, *TB*-7/16, *AV*-22/45, *SB-M*-45/110, *SB-K*-44/112, *VS-M*-8/29, *VS-K*-8/44, *KS*-4/10)
+- य᳓था (*TS*-123, *RV*-238, *TB*-59, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-683, *VS-M*-27, *VS-K*-24, *KS*-37)
+- पू᳓र्वे (*TS*-17/81, *RV*-36/115, *TB*-10/59, *TK*-2/4, *AV*-37/88, *SB-M*-27/216, *SB-K*-25/184, *VS-M*-8/20, *VS-K*-7/16, *KS*-3/15)
+- सम्-जानानाः᳓ (*TS*-1, *RV*-2, *TB*-1/4, *AV*-2, *SB-M*-1/2, *SB-K*-0/1, *VS-M*-0/1, *KS*-1)
+- उप (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-74, *TK*-4, *AV*-1, *SB-M*-790, *SB-K*-757, *VS-M*-1, *VS-K*-1, *KS*-26)
+- आ᳓सते (*TS*-32, *RV*-8, *AV*-4, *SB-M*-25, *SB-K*-26, *VS-M*-2, *VS-K*-3, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -216,6 +242,12 @@ just as the gods of long ago, coming to an agreement together, reverently  appro
 
 Assemble, speak together: let your minds be all of one accord,  
      As ancient Gods unanimous sit down to their appointed share.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Assemble together, speak in agreement, let your minds know in accord,  
+even as the former gods, agreeing together, revere their share.'
 </details>
 
 <details><summary>Geldner</summary>

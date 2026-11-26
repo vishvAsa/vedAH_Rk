@@ -255,6 +255,11 @@ _________
 आ
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[142_5]** Ch दर्शितो
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -297,6 +302,22 @@ Swift-moving, visible to all, Maker of light thou art, O Sun, Illuming all the s
 Overcoming, seen of all,  
 Light-making art thou, Surya;  
 Thou dost illumine all the firmament.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Swift, visible to all, maker of light art thou, O Sūrya;  
+thou shinest upon all the luminous realm.  
+## Other recensions (1)  
+- [Maitrāyaṇīsaṃhitā (unaccented copy of M. Fushimi's input)](https://indike.org/pramana/in.veda.samhita.krsnayajur*maitrayani*unaccented.4.10.1) — Sanskrit  
+## Linked texts (1)  
+- [Maitrāyaṇīsaṃhitā](https://indike.org/pramana/in.veda.samhita.krsnayajur*maitrayani.4.10.1) — Sanskrit
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Crossing over, visible to all, maker of light are you, O Sūrya;  
+you illumine the entire bright realm!
 </details>
 
 <details><summary>Geldner</summary>

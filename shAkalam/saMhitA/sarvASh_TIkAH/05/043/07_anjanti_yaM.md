@@ -98,10 +98,40 @@ r̥táyan ← √r̥tay- (root)
 पि॒तुर्न पु॒त्र उ॒पसि॒ प्रेष्ठ॒ आ घ॒र्मो अ॒ग्निमृ॒तय॑न्नसादि ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अञ्ज᳓न्ति यं᳓ प्रथ᳓यन्तो न᳓ वि᳓प्रा वपा᳓वन्तो ना᳓ग्नि᳓ना त᳓पन्तः  
+पितु᳓र् न पुत्र᳓ उप᳓सि प्रे᳓ष्ठा आ᳓ घर्मो᳓ अग्नि᳓र् अमृ᳓तो न᳓ सादि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ञ्जन्ति॑ । यम् । प्र॒थय॑न्तः । न । विप्राः॑ । व॒पाऽव॑न्तम् । न । अ॒ग्निना॑ । तप॑न्तः ।  
 पि॒तुः । न । पु॒त्रः । उ॒पसि॑ । प्रेष्ठः॑ । आ । घ॒र्मः । अ॒ग्निम् । ऋ॒तय॑न् । अ॒सा॒दि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अञ्ज᳓न्ति (*RV*-7, *TB*-1, *SB-M*-1, *SB-K*-1)
+- य᳓म् (*TS*-164/3383, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-60/639, *VS-K*-38/581, *KS*-31/818)
+- प्रथ᳓यन्तः (*TS*-0/1, *RV*-1/2, *SB-M*-1, *SB-K*-1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- वि᳓प्रा (*TS*-2/24, *RV*-5/223, *TB*-1/8, *AV*-1/32, *SB-M*-4/17, *SB-K*-4/15, *VS-M*-7/18, *VS-K*-1/19, *KS*-5/14)
+- वपा᳓वन्तः (*RV*-0/2, *TB*-0/1, *KS*-0/1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- अग्नि᳓ना (*TS*-30/1195, *RV*-7/856, *TB*-9/520, *TK*-0/105, *AV*-13/419, *SB-M*-69/2495, *SB-K*-60/2289, *VS-M*-8/322, *VS-K*-6/339, *KS*-5/256)
+- त᳓पन्तः (*RV*-1/4, *AV*-0/1)
+- पितुः᳓ (*TS*-4/121, *RV*-42/254, *TB*-2/111, *TK*-0/6, *AV*-17/228, *SB-M*-12/321, *SB-K*-14/317, *VS-M*-3/80, *VS-K*-2/63, *KS*-2/43)
+- न (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-81, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48, *KS*-35)
+- पुत्रः᳓ (*TS*-20/56, *RV*-41/104, *TB*-11/23, *TK*-3/4, *AV*-26/118, *SB-M*-49/119, *SB-K*-49/119, *VS-M*-9/29, *VS-K*-6/28, *KS*-4/19)
+- उप᳓सि (*RV*-2)
+- प्रे᳓ष्ठाः (*RV*-2/12)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- घर्मः᳓ (*TS*-9/21, *RV*-7/25, *TB*-11/12, *AV*-7/18, *SB-M*-20/36, *SB-K*-22/37, *VS-M*-10/20, *VS-K*-7/20, *KS*-1/3)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-122/322, *VS-K*-113/339, *KS*-111/256)
+- अमृ᳓तः (*TS*-4/65, *RV*-18/187, *TB*-5/49, *TK*-4/39, *AV*-6/97, *SB-M*-54/332, *SB-K*-47/312, *VS-M*-5/64, *VS-K*-5/59, *KS*-0/30)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- सादि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-3, *AV*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -277,6 +307,12 @@ The third simile, in pāda c, is the only one with all its parts, and is also th
 
 As on his father's lap the son, the darling, so on the fire is set the sacred caldron,  
      Which holy singers deck, as if extending and heating that which holds the fatty membrane.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whom [the priests] anoint as they extend [him], not inspired seers, possessing omentum, not heating with fire;  
+as a dear son in his father's lap, the Gharma, Agni, has been seated, like an immortal.
 </details>
 
 <details><summary>Geldner</summary>

@@ -104,6 +104,12 @@ yós ← yós (invariable)
 ताभि॑र्दे॒वाना॒मवो॑ यक्षि वि॒द्वानथ॑ [45]  भ॒व॒ यज॑मानाय॒ शय्ँयोः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्री᳓ण्या᳓यूँषि त᳓व जातवेदस्तिस्र᳓ आजा᳓नीरुष᳓सस्ते अग्ने। 
+ता᳓भिर्देवा᳓नाम᳓वो यक्षि विद्वा᳓न᳓था भव य᳓जमानाय शं᳓ योः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्रीणि॑ । आयूं॑षि । तव॑ । जा॒त॒ऽवे॒दः॒ । ति॒स्रः । आ॒ऽजानीः॑ । उ॒षसः॑ । ते॒ । अ॒ग्ने॒ ।  
@@ -113,6 +119,29 @@ yós ← yós (invariable)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्रीणि॑ । आयूँ॑षि । तव॑ । जा॒त॒वे॒द॒ इति॑ जात-वे॒दः॒ । ति॒स्रः । आ॒जानी॒रित्या॑-जानीः॑ । उ॒षसः॑ । ते॒ । अ॒ग्ने॒ ॥ ताभिः॑ । दे॒वाना॑म् । अवः॑ । य॒क्षि॒ । वि॒द्वान् । अथ॑ । भ॒व॒ । यज॑मानाय । शम् । योः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्री᳓णि (*MS*-16/153, *TS*-31/235, *RV*-32/156, *TB*-16/101, *TK*-2/17, *AV*-23/86, *SB-M*-98/420, *SB-K*-92/388, *VS-M*-9/46, *VS-K*-9/47)
+- आ᳓यूंषि (*MS*-11, *TS*-8, *RV*-9, *TB*-2, *AV*-10, *SB-M*-2, *SB-K*-3, *VS-M*-4, *VS-K*-14)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- जात-वेदः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-21, *TS*-18, *RV*-55, *TB*-8, *AV*-54, *SB-K*-6, *VS-M*-10, *VS-K*-11)
+- तिस्रः᳓ (*MS*-62/153, *TS*-49/235, *RV*-48/156, *TB*-37/101, *TK*-6/17, *AV*-27/86, *SB-M*-74/420, *SB-K*-77/388, *VS-M*-19/46, *VS-K*-16/47)
+- आ-जा᳓नीः (*MS*-1, *TS*-1, *RV*-1)
+- उष᳓सः (*MS*-14/31, *TS*-9/20, *RV*-127/237, *TB*-2/13, *TK*-0/1, *AV*-19/39, *SB-M*-4/12, *SB-K*-4/11, *VS-M*-10/21, *VS-K*-6/18)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- ता᳓भिः (*MS*-25/5550, *TS*-52/4761, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/780, *VS-K*-5/660)
+- देवा᳓नाम् (*MS*-211/1218, *TS*-184/1282, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/531, *VS-K*-68/532)
+- अ᳓वः (*MS*-6, *TS*-3, *RV*-75, *TB*-3, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-3)
+- यक्षि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-5, *TS*-5, *RV*-20, *TB*-3, *AV*-2, *SB-M*-3, *SB-K*-2, *VS-M*-5, *VS-K*-7)
+- विद्वा᳓न् (*MS*-86/88, *TS*-93, *RV*-94, *TB*-49, *TK*-2, *AV*-59, *SB-M*-144, *SB-K*-127, *VS-M*-14, *VS-K*-14)
+- अ᳓था (*MS*-21, *TS*-4, *TB*-1, *SB-M*-3, *SB-K*-8, *VS-K*-2)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-63, *TS*-52, *RV*-67, *TB*-5, *AV*-49, *SB-M*-26, *SB-K*-19, *VS-M*-39, *VS-K*-38)
+- य᳓जमानाय (*MS*-47/350, *TS*-36/419, *RV*-21/63, *TB*-26/267, *TK*-1, *AV*-24/46, *SB-M*-51/614, *SB-K*-54/631, *VS-M*-16/52, *VS-K*-19/57)
+- श᳓म् (*MS*-51, *TS*-33, *RV*-159, *TB*-19, *TK*-1, *AV*-185, *SB-M*-27, *SB-K*-29, *VS-M*-39, *VS-K*-23)
+- योः᳓ (*MS*-13, *TS*-7, *RV*-25, *TB*-9, *AV*-4, *SB-M*-1, *SB-K*-3, *VS-M*-1, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -286,6 +315,14 @@ Three ages are thine, O All-knower,
 Three births in the dawns, O Agni;  
 With them, knowing, do thou propitiate the gods,  
 And [2] be for the sacrificer health and wealth.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Three are your lifespans, O Jātavedas; three are your births, your dawns, O Agni.  
+Knowing with these the aid of the gods, sacrifice; then be peace and welfare to the sacrificer!  
+Please the longing gods, O youngest one; knowing the seasons, O lord of the seasons, sacrifice here.  
+With those who are divine priests, O Agni, you are the best sacrificer of the Hotṛs.
 </details>
 
 <details><summary>Oldenberg</summary>

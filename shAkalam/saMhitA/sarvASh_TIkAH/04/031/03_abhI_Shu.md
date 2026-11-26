@@ -78,6 +78,12 @@ bhavāsi ← √bhū- (root)
 श॒तं भ॑वास्यू॒तिभिः॥६॥ ६
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अभी᳓ षु᳓ णः स᳓खीनाम् अविता᳓ जरितॄणा᳓म्  
+शतं᳓ भवास्य् ऊति᳓भिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒भि । सु । नः॒ । सखी॑नाम् । अ॒वि॒ता । ज॒रि॒तॄ॒णाम् ।  
@@ -96,6 +102,19 @@ bhavāsi ← √bhū- (root)
 अ॒भि। सु। नः॒। सखी॑नाम्। अ॒वि॒ता। ज॒रि॒तॄणाम्। श॒तम्। भ॒वा॒सि॒। ऊ॒तये॑। १०।
 
 अ॒भी। सु। नः॒। सखी॑नाम्। अ॒वि॒ता। ज॒रि॒तॄ॒णाम्। श॒तम्। भ॒वा॒सि॒। ऊ॒तिभिः॑६। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अभी᳓ (*TS*-0/345, *RV*-0/754, *TB*-0/262, *TK*-0/15, *AV*-1/270, *SB-M*-0/608, *SB-K*-2/597, *VS-M*-1/97, *VS-K*-1/107, *KS*-1/78)
+- षु᳓ (*TS*-8, *TB*-0/1, *SB-M*-1, *SB-K*-4, *VS-K*-3/4, *KS*-5/6)
+- णः (*TS*-4, *TB*-7, *SB-M*-3, *VS-K*-5, *KS*-16)
+- स᳓खीनाम् (*TS*-1/31, *RV*-5/225, *TB*-0/12, *AV*-1/64, *SB-M*-0/20, *SB-K*-0/19, *VS-M*-2/24, *VS-K*-2/25, *KS*-1/17)
+- अविता᳓ (*TS*-2/3, *RV*-38/42, *AV*-7/10, *SB-M*-1, *SB-K*-1, *VS-M*-3/4, *VS-K*-3/4, *KS*-5)
+- जरितॄणा᳓म् (*TS*-0/2, *RV*-3/112, *TB*-0/1, *AV*-2/11, *VS-M*-1/4, *VS-K*-1/3, *KS*-1/2)
+- शत᳓म् (*TS*-24/76, *RV*-83/100, *TB*-9/16, *TK*-2, *AV*-78/95, *SB-M*-62/148, *SB-K*-56/136, *VS-M*-20/29, *VS-K*-16/22, *KS*-10/12)
+- भवासि (*RV*-2, *AV*-1, *VS-M*-2, *VS-K*-2, *KS*-1)
+- ऊति᳓भिः (*TS*-4/25, *RV*-100/345, *TB*-3/12, *AV*-12/46, *SB-M*-1/8, *SB-K*-1/6, *VS-M*-6/22, *VS-K*-6/22, *KS*-7/17)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -252,6 +271,11 @@ _________
 जरितेति स्तोतृ-नाम ॥१०॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[593_5]** Brl भवस्यू॰: hier bricht Brl ab. (Brl भवस्यू॰: here Brl breaks off.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (सं, मा.) - विषयः</summary>
 
 पुनस्तमेव विषयमाह ॥
@@ -330,6 +354,18 @@ Do thou who art Protector of us thy friends who praise thee
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Do thou who art, etc., as in XXVII. 41.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Favorably be the protector of us, your friends, your singers,  
+a hundredfold with your aids.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Truly be a helper of us, your friends and praisers,  
+with a hundred aids.
 </details>
 
 <details><summary>Geldner</summary>

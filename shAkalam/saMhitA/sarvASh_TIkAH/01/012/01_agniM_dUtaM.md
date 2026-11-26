@@ -163,6 +163,18 @@ Agni we choose as messenger, the Hotar affording all possessions, very effective
 अ॒स्य य॒ज्ञस्य॑ सु॒क्रतु॑म् ॥
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+We choose Agni as messenger, as hotṛ, knowing all,  
+of this sacrifice well-resolving.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Agni the messenger we choose, the Hotṛ of all knowledge,  
+of good wisdom for this sacrifice.
+</details>
+
 <details><summary>Oldenberg</summary>
 
 We choose Agni as our messenger, the all-possessor, as the Hotri of this sacrifice, the highly wise.

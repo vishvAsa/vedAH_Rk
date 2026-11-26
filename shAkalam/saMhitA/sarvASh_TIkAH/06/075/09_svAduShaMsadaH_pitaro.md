@@ -89,6 +89,12 @@ vrātasāhā́ḥ ← vrātasāhá- (nominal stem)
 चि॒त्रसे॑ना॒ इषु॑बला॒ अमृ॑ध्रास्स॒तोवी॑रा उ॒रवो॑ व्रातसा॒हाः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स्वादुषँसदः पितरो वयोधाः कृछ्रेश्रितश्शक्तीवन्तो गभीराः।  
+चित्रसेना इषुबला अमृध्रास्ततोवीरा उरवो व्रातसाहाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स्वा॒दु॒ऽसं॒सदः॑ । पि॒तरः॑ । व॒यः॒ऽधाः । कृ॒च्छ्रे॒ऽश्रितः॑ । शक्ति॑ऽवन्तः । ग॒भी॒राः ।  
@@ -98,6 +104,22 @@ vrātasāhā́ḥ ← vrātasāhá- (nominal stem)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 स्वा॒दु॒षँ॒सदः॑। स्वा॒दु॒सँ॒सद इति॑ स्वादुऽसँ॒सदः॑। पि॒तरः॑। व॒यो॒धा इति॑ वयः॒ऽधाः। कृ॒च्छ्रे॒श्रित॒ इति॑ कृच्छ्रे॒ऽश्रितः॑। शक्ती॑वन्तः॒। शक्ति॑वन्त॒ इति॒ शक्ति॑ऽवन्तः। ग॒भी॒राः। चि॒त्रसे॑ना॒ इति॑ चि॒त्रऽसे॑नाः। इषु॑बला॒ इतीषु॑ऽबलाः। अमृ॑ध्राः। स॒तोवी॑रा॒ इति॑ स॒तःऽवी॑राः। उ॒रवः॑। व्रा॒त॒सा॒हाः। व्रा॒त॒स॒हा इति॑ व्रातऽस॒हाः। ४६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स्वादु-संस᳓दः (*TS*-1, *RV*-1, *VS-M*-1, *MS*-1)
+- पित᳓रः (*MS*-51/157, *TS*-34/121, *RV*-39/254, *TB*-42/111, *TK*-0/6, *AV*-50/228, *SB-M*-86/321, *SB-K*-85/317, *VS-M*-24/80, *VS-K*-20/75)
+- वयः-धाः᳓ (*TS*-7, *RV*-13/16, *TB*-1, *AV*-9, *SB-K*-4, *VS-M*-2, *VS-K*-1, *MS*-5)
+- कृ᳓छ्रेश्रितश्शक्तीवन्तो (अनाम्नातम् (अनुमानम्))
+- गभीराः᳓ (*MS*-1/6, *TS*-1, *RV*-4/19, *TB*-0/1, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-0/1)
+- चित्र᳓-सेनाः (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1)
+- इ᳓षु-बलाः (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1)
+- अ᳓मृध्राः (*MS*-1, *TS*-1, *RV*-3/9, *SB-M*-0/1, *VS-M*-1)
+- त᳓तः (*MS*-171, *TS*-131, *RV*-23, *TB*-129, *TK*-22, *AV*-76, *SB-M*-425, *SB-K*-387, *VS-M*-22, *VS-K*-18)
+- वीराः᳓ (*MS*-1/36, *TS*-4/20, *RV*-16/119, *TB*-0/25, *AV*-37/66, *SB-M*-2/28, *SB-K*-2/32, *VS-M*-1/19, *VS-K*-2/17)
+- उर᳓वः (*MS*-1/51, *TS*-1/52, *RV*-7/118, *TB*-0/7, *TK*-2/3, *AV*-0/40, *SB-M*-0/38, *SB-K*-0/38, *VS-M*-1/29, *VS-K*-0/34)
+- व्रात-साहाः᳓ (*MS*-1, *TS*-1, *VS-M*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -379,6 +401,12 @@ In sweet association lived the fathers who gave us life, profound and strong in 
 
 The fathers with pleasant seats, granting strength, A support in trouble mighty and profound,  
 With varied hosts, with arrows to strengthen them, free, With real heroes, broad conquerors of hosts.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sitting pleasantly in company, the Fathers, bestowers of vigor, abiding in distress, powerful, deep,  
+with diverse hosts, with the strength of arrows, unassailable, truly heroic, broad, conquering troops;
 </details>
 
 <details><summary>Geldner</summary>

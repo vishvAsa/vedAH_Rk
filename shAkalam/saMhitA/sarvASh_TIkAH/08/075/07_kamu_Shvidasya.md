@@ -75,6 +75,12 @@ starāmahe ← √str̥- (root)
 प॒णिङ्गोषु॑ स्तरामहे ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+क᳓मुष्विदस्य से᳓नयाग्नेरँपाकचक्षसः।  
+पणिं᳓ गो᳓षु स्तरामहे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 कम् । ऊं॒ इति॑ । स्वि॒त् । अ॒स्य॒ । सेन॑या । अ॒ग्नेः । अपा॑कऽचक्षसः ।  
@@ -84,6 +90,22 @@ starāmahe ← √str̥- (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 कम् । उ॒ । स्वि॒त् । अ॒स्य॒ । सेन॑या । अ॒ग्नेः । अपा॑कचक्षस॒ इत्यपा॑क-च॒क्ष॒सः॒ ॥ प॒णिम् । गोषु॑ । स्त॒रा॒म॒हे॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- क᳓म् (*MS*-25, *TS*-19, *RV*-81, *TB*-4, *TK*-1, *AV*-25, *SB-M*-74, *SB-K*-66, *VS-M*-3, *VS-K*-3)
+- उषु (मूल-पाठः)
+- इत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-77, *TB*-27, *TK*-4, *MS*-31)
+- अस्य (अन्वादेशे अनुदात्तम्, पा॰ २.४.३२, *MS*-398, *TS*-315, *RV*-415, *TB*-178, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-590, *VS-M*-56, *VS-K*-45)
+- से᳓नया (*MS*-1/13, *TS*-1/12, *RV*-2/13, *TB*-0/5, *AV*-12/41, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-0/6, *VS-K*-0/9)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- अरम् (*RV*-2, *TB*-7, *TK*-1, *AV*-1, *VS-K*-1)
+- पाक (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- चक्षसः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- पणि᳓म् (*MS*-3/4, *TS*-1/2, *RV*-8/44, *TB*-1/2, *AV*-1/10, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/3, *VS-K*-0/5)
+- गो᳓षु (*MS*-12/149, *TS*-6/108, *RV*-43/521, *TB*-5/76, *AV*-36/195, *SB-M*-5/168, *SB-K*-3/149, *VS-M*-5/67, *VS-K*-5/67)
+- स्तरामहे (*MS*-1, *TS*-1, *RV*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -179,6 +201,11 @@ _________
 "कमु ष्विद् इति"। पाको ऽल्पः। चक्षो ज्ञानम्। अपाकं चक्षो यस्यासाव् अपाक-चक्षाः सर्वज्ञ इत्य् अर्थः। सर्वं जानतो ऽस्याग्नेः सेनया परिचारक-जनेन सह गोषु गवादि-द्रव्य-विषये कम् उ पणिं स्तरामहे स्वित्कं नाम व्यवहारम् आच्छादयाम। एतदीयं परिचारक-जनं वञ्चयित्वा न को ऽपि व्यवहारो ऽस्माभिः कर्तुं शक्यते। तस्मात् सर्वम् अपि व्यवहारम् अस्यानुग्रहेणैव कुर्म इत्य् अर्थः।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[83_9]** Brl und T 3 पाणिंः᳓ W14. पाणि (Brl and T 3 पाणिंः᳓ W14. पाणि)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -212,6 +239,12 @@ With missile of this Agni, his who looks afar, will we lay low
 <details><summary>Keith</summary>
 
 What Pani shall we lay low among the kine With the missile of this Agni Who seeth from afar?
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whom indeed, by the army of this far-seeing Agni,  
+shall we overthrow, the Paṇi, among the cows?
 </details>
 
 <details><summary>Geldner</summary>

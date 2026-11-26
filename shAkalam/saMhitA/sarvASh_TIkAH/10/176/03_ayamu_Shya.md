@@ -86,6 +86,12 @@ tmánā ← tmán- (nominal stem)
 रथो॒ न योर॒भीवृ॑तो॒ घृणी॑वाञ्चेतति॒ त्मना॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अयमु ष्य प्र देवयुर्होता यज्ञाय नीयते।  
+रथो न योरभीवृतो घृणीवाञ्चेतति त्मना
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒यम् । ऊं॒ इति॑ । स्यः । प्र । दे॒व॒ऽयुः । होता॑ । य॒ज्ञाय॑ । नी॒य॒ते॒ ।  
@@ -95,6 +101,25 @@ tmánā ← tmán- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒यम् । उ॒ । स्यः । प्रेति॑ । दे॒व॒युरिति॑ देव-युः । होता॑ । य॒ज्ञाय॑ । नी॒य॒ते॒ ॥ रथः॑ । न । योः । अ॒भीवृ॑त॒ इत्य॒भि-वृ॒तः॒ । घृणी॑वान् । चे॒त॒ति॒ । त्मना॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अय᳓म् (*MW*, *MS*-133/1379, *TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-77/319, *VS-K*-70/301)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- ष्य᳓ (*MS*-1)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- देव-युः᳓ (*MS*-2/4, *TS*-1/2, *RV*-15/27, *AV*-0/3)
+- हो᳓ता (*MS*-81/112, *TS*-43/63, *RV*-150/244, *TB*-95/136, *TK*-6/8, *AV*-18/28, *SB-M*-135/211, *SB-K*-145/211, *VS-M*-58/73, *VS-K*-44/60)
+- यज्ञा᳓य (*MS*-17/933, *TS*-17/863, *RV*-10/448, *TB*-12/399, *TK*-2/21, *AV*-1/231, *SB-M*-24/1803, *SB-K*-18/1754, *VS-M*-0/223, *VS-K*-0/187)
+- नीयते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-6, *RV*-10, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- र᳓थः (*MS*-17/57, *TS*-13/36, *RV*-83/393, *TB*-16/36, *TK*-2/3, *AV*-10/57, *SB-M*-16/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-5/13)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- योः᳓ (*Whitney*, *MW*, *MS*-13, *TS*-7, *RV*-25, *TB*-9, *AV*-4, *SB-M*-1, *SB-K*-3, *VS-M*-1, *VS-K*-2)
+- अभि᳓-वृतः (*TS*-1, *RV*-3/7, *AV*-0/2, *MS*-1)
+- घृ᳓णीवान् (*TS*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- चेतति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-1, *RV*-10)
+- त्म᳓ना (*MS*-8, *TS*-9, *RV*-63/72, *TB*-1/2, *TK*-1, *AV*-4, *SB-M*-3/4, *SB-K*-5/6, *VS-M*-7, *VS-K*-10)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -231,6 +256,12 @@ He, the Hotr is led forward for the sacrifice,
 The servant of the gods;  
 Like a covered chariot glowing  
 He himself knoweth health.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Now this god-seeking hotṛ is led forward to the sacrifice;  
+like a chariot surrounded by horses, fiery, he attends by himself.
 </details>
 
 <details><summary>Geldner</summary>

@@ -89,10 +89,36 @@ suśríyam ← suśrī́- (nominal stem)
 वि॒गा॒हं तूर्णिं॒ तवि॑षीभि॒रावृ॑तं॒ भूर्णिं॑ दे॒वास॑ इ॒ह सु॒श्रियं॑ दधुः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+चन्द्र᳓मग्निं᳓ चन्द्र᳓रथँ ह᳓रिव्रतं वैश्वानर᳓मप्सुर्षदँ स्वर्वि᳓दम्।  
+विगाहं᳓ तू᳓र्णिं त᳓विषीभिरा᳓वृतं भू᳓र्णिं देवा᳓स इह᳓ सुश्रि᳓यं दधुः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 च॒न्द्रम् । अ॒ग्निम् । च॒न्द्रऽर॑थम् । हरि॑ऽव्रतम् । वै॒श्वा॒न॒रम् । अ॒प्सु॒ऽसद॑म् । स्वः॒ऽविद॑म् ।  
 वि॒ऽगा॒हम् । तूर्णि॑म् । तवि॑षीभिः । आऽवृ॑तम् । भूर्णि॑म् । दे॒वासः॑ । इ॒ह । सु॒ऽश्रिय॑म् । द॒धुः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- चन्द्र᳓म् (*MS*-6/15, *TS*-4/12, *RV*-7/28, *TB*-3/7, *TK*-1, *AV*-5/20, *SB-M*-9/29, *SB-K*-9/29, *VS-M*-3/12, *VS-K*-2/10)
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- चन्द्र᳓-रथम् (*RV*-1/3)
+- ह᳓रि-व्रतम् (*RV*-1)
+- वैश्वानर᳓मप्सुर्षदम् (मूल-पाठः)
+- स्वर्-वि᳓दम् (*MS*-2/7, *RV*-12/30, *AV*-2/13, *SB-M*-2/6, *SB-K*-2/6, *VS-M*-2/4, *VS-K*-1/3)
+- वि-गाह᳓म् (*RV*-1)
+- तू᳓र्णिम् (*TS*-0/2, *RV*-2/6, *TB*-0/2, *SB-M*-0/3, *SB-K*-0/1)
+- त᳓विषीभिः (*MS*-0/1, *RV*-12/40, *TB*-1/2, *AV*-1/2, *VS-M*-0/2, *VS-K*-0/3)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- अ᳓वृतम् (*MS*-3/5, *RV*-1/7, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1)
+- भू᳓र्णिम् (*RV*-3/14, *AV*-0/1)
+- देवा᳓सः (*MS*-5/1216, *TS*-2/1023, *RV*-88/1342, *TB*-3/582, *TK*-0/32, *AV*-5/707, *SB-M*-6/2031, *SB-K*-7/1945, *VS-M*-7/528, *VS-K*-10/523)
+- इह᳓ (*MS*-103, *TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91)
+- सु-श्रि᳓यम् (*RV*-2/4)
+- दधुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-1, *RV*-17, *TB*-27, *AV*-1, *SB-M*-7, *SB-K*-12, *VS-M*-29, *VS-K*-20)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -234,6 +260,13 @@ _________
 देवासोदेवाः माह्लादकरं चन्द्ररथं हिरण्मयरथं चन्द्रआह्लादकोरथोयस्येति वा तंहरिव्रतं पिङ्गलवण हरित्त्वचंवा हरित्त्वचमितिशाखान्तरं अप्सुषदं अप्सुसीदन्तं स्वर्विदं सर्वज्ञं विगाहं विगाहमानं सर्वत्रव्याप्तं तूर्णि क्षिप्रगामिनं शत्रूणां हिंसितारंवा तविषीभिः बलैरावृतं भूर्णि भर्तारं सुश्रियं शोभनदीप्तिं वैश्वानरं अग्निं इह इहलोके दधुः आदधुः ॥ ५ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[76_9]** T1 ह᳓रीव्रतं; Brl हरीवृतं
+
+- **[76_10]** Ch तविषेभिº
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -254,6 +287,12 @@ the one who sinks deep and moves swiftly, surrounded by his powers— him, arden
 
 Bright Agni with the bright car, Lord of green domains, Vaisvanara dweller in the floods, who finds the light,  
      Pervading, swift and wild, encompassed round with powers, him very glorious have the Gods established here.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni the gleaming, with gleaming chariot, whose course is golden, Vaiśvānara sitting in the waters, finding light,  
+penetrating, hasty, encompassed with powers, energetic, of fair splendor, the gods have placed here.
 </details>
 
 <details><summary>Oldenberg</summary>

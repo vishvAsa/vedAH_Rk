@@ -103,6 +103,12 @@ ukṣā́ ← ukṣán- (nominal stem)
 नृ॒वद्भ्यो॒क्षा प॑प्रथा॒नेभि॒रेवैः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+मही᳓ द्या᳓वापृथिवी᳓ इह᳓ ज्ये᳓ष्ठे रुचा᳓ भवताँ शुच᳓यद्भिर् अर्कैः᳓  
+य᳓त् सीँ व᳓रिष्ठे बृहती᳓ विमिन्व᳓न् रुव᳓द् धोक्षा᳓ पप्रथानेभिर् ए᳓वैः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 म॒ही इति॑ । द्यावा॑पृथि॒वी इति॑ । इ॒ह । ज्येष्ठे॒ इति॑ । रु॒चा । भ॒व॒ता॒म् । शु॒चय॑त्ऽभिः । अ॒र्कैः ।  
@@ -112,6 +118,28 @@ ukṣā́ ← ukṣán- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 मही᳓ । नु᳓ । द्या᳓वा-पृथिवी᳓ । इह᳓ । ज्ये᳓ष्ठे । रुचा᳓ । भवताम् । शुच᳓यद्भिः । अर्कैः᳓ । य᳓त् । सीम् । व᳓रिष्ठे । बृहती᳓ । वि-मिन्व᳓न् । नृव᳓त् । भ्य । उक्षा᳓ । पप्रथाने᳓भिः । ए᳓वैः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- मही᳓ (*TS*-10/24, *RV*-64/131, *TB*-2/8, *TK*-1, *AV*-28/47, *SB-M*-6/19, *SB-K*-6/19, *VS-M*-9/26, *VS-K*-9/27, *KS*-3/10)
+- द्या᳓वा-पृथिवी᳓ (*TS*-43/52, *RV*-65, *TB*-26/29, *AV*-63/68, *SB-M*-64/88, *SB-K*-42/63, *VS-M*-37/46, *VS-K*-29/37, *KS*-17/18)
+- इह᳓ (*TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-89, *VS-K*-83, *KS*-43)
+- ज्ये᳓ष्ठे (*TS*-0/4, *RV*-2/38, *TB*-1/4, *AV*-0/10, *SB-M*-1/11, *SB-K*-1/11, *VS-M*-0/1, *VS-K*-0/1)
+- रुचा᳓ (*TS*-4/10, *RV*-6/8, *TB*-2/3, *TK*-2, *AV*-0/1, *SB-M*-2/3, *SB-K*-1/2, *VS-M*-3/8, *VS-K*-2/7, *KS*-2)
+- भवताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *TB*-1, *AV*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- शुच᳓यद्भिः (*RV*-3, *TB*-1)
+- अर्कैः᳓ (*TS*-2/24, *RV*-43/100, *TB*-4/12, *AV*-6/34, *SB-M*-0/52, *SB-K*-0/36, *VS-M*-2/7, *VS-K*-2/6, *KS*-2/10)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- सीन् (*RV*-52, *TB*-1, *AV*-4, *KS*-1)
+- व᳓रिष्ठे (*TS*-0/1, *RV*-2/8, *TB*-1/4, *AV*-0/1, *SB-M*-0/8, *SB-K*-0/6, *VS-M*-0/1, *VS-K*-0/1)
+- बृहती᳓ (*TS*-16/23, *RV*-20/45, *TB*-15/25, *TK*-1, *AV*-12/20, *SB-M*-29/48, *SB-K*-28/54, *VS-M*-12/18, *VS-K*-9/14, *KS*-2/3)
+- वि-मिन्व᳓न् (*RV*-1, *TB*-1)
+- रुव᳓त् (*RV*-2/3)
+- धः (*TB*-1)
+- अक्षा᳓ (*TS*-0/1, *RV*-1/7, *TB*-0/2, *AV*-4/15, *SB-M*-3/18, *SB-K*-4/18, *KS*-1/3)
+- पप्रथानेभिः (मूल-पाठः)
+- ए᳓वैः (*TS*-2/8, *RV*-29/34, *TB*-2, *AV*-3, *SB-M*-1/8, *SB-K*-0/18, *VS-M*-0/2, *VS-K*-0/1, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -268,6 +296,12 @@ As Geldner (and others) suggest, the bull in d is probably Agni (/Sun), who ever
 
 MAY mighty Heaven and Earth, most meet for honour, be present here with light and gleaming splendours;  
      When, fixing them apart, vast, most extensive, the Steer roars loudly in far-reaching courses.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the two great ones, Heaven and Earth, the eldest here, be [present] with brilliance, with purifying songs,  
+since the bellowing bull, measuring out these two widest, lofty ones, has expanded with his widening courses.
 </details>
 
 <details><summary>Geldner</summary>

@@ -110,10 +110,43 @@ r̥tóḥ ← r̥tú- (nominal stem)
 मा तन्तु॑श्छेदि॒ वय॑तो॒ धियं॑ मे॒ मा मात्रा॑ शार्य॒पसः॑ पु॒र ऋ॒तोः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वि᳓ म᳓ञ् श्रथाय रशना᳓म् इवा᳓ग ऋध्या᳓म ते वरुण खा᳓म् ऋत᳓स्य  
+मा᳓ त᳓न्तुश् छेदि व᳓यतो धि᳓यं मे मा᳓ मा᳓त्रा शार्य् अप᳓सः पुर᳓ ऋतोः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वि । मत् । श्र॒थ॒य॒ । र॒श॒नाम्ऽइ॑व । आगः॑ । ऋ॒ध्याम॑ । ते॒ । व॒रु॒ण॒ । खाम् । ऋ॒तस्य॑ ।  
 मा । तन्तुः॑ । छे॒दि॒ । वय॑तः । धिय॑म् । मे॒ । मा । मात्रा॑ । शा॒रि॒ । अ॒पसः॑ । पु॒रा । ऋ॒तोः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- म᳓न् (*TB*-1, *VS-K*-2)
+- श्रथाय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- रशना᳓म् (*TS*-6/16, *RV*-2/11, *TB*-3/13, *AV*-1/2, *SB-M*-3/14, *SB-K*-5/14, *VS-M*-3/6, *VS-K*-2/6)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- आ᳓गः (*TS*-1/7, *RV*-17/19, *AV*-27/28, *SB-M*-10, *SB-K*-10, *VS-M*-1, *VS-K*-1, *KS*-1)
+- ऋध्या᳓म (*TS*-1/2, *RV*-4, *SB-K*-1, *VS-M*-2, *VS-K*-4)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- वरुण (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-17, *RV*-58, *TB*-6, *TK*-1, *AV*-27, *SB-M*-8, *SB-K*-7, *VS-M*-8, *VS-K*-8, *KS*-17)
+- खा᳓म् (*RV*-2, *SB-M*-2)
+- ऋत᳓स्य (*TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-18/41, *KS*-9/25)
+- मा᳓ (*TS*-205, *RV*-389, *TB*-111, *TK*-16, *AV*-415, *SB-M*-206, *SB-K*-183, *VS-M*-146, *VS-K*-106, *KS*-78)
+- त᳓न्तुः (*TS*-3/15, *RV*-3/22, *TB*-1/6, *TK*-0/1, *AV*-2/14, *SB-M*-1/5, *SB-K*-1/8, *VS-M*-0/5, *VS-K*-0/8, *KS*-0/2)
+- छेदि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-1)
+- व᳓यतः (*RV*-1/2, *SB-M*-0/2)
+- धि᳓यम् (*TS*-5/11, *RV*-45/113, *TB*-5/8, *AV*-5/10, *SB-M*-2/11, *SB-K*-2/9, *VS-M*-4/13, *VS-K*-3/12, *KS*-0/2)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-331, *KS*-356)
+- मा᳓ (*TS*-205, *RV*-389, *TB*-111, *TK*-16, *AV*-415, *SB-M*-206, *SB-K*-183, *VS-M*-146, *VS-K*-106, *KS*-78)
+- मा᳓त्रा (*TS*-1/10, *RV*-1/7, *TB*-21/33, *AV*-2/14, *SB-M*-179/192, *SB-K*-161/174, *VS-M*-2/9, *VS-K*-2/9, *KS*-0/2)
+- शारि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *RV*-3, *VS-M*-1, *VS-K*-1)
+- अप᳓सः (*TS*-1/139, *RV*-12/292, *TB*-3/53, *TK*-0/3, *AV*-3/124, *SB-M*-0/242, *SB-K*-0/232, *VS-M*-4/71, *VS-K*-1/57, *KS*-1/48)
+- पुरः᳓ (*TS*-18, *RV*-52, *TB*-2, *AV*-26, *SB-M*-31, *SB-K*-33, *VS-M*-13, *VS-K*-12, *KS*-12)
+- ऋतोः᳓ (*TS*-0/226, *RV*-1/38, *TB*-0/90, *TK*-0/13, *AV*-0/60, *SB-M*-7/429, *SB-K*-6/426, *VS-M*-0/44, *VS-K*-0/35, *KS*-0/34)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -288,6 +321,12 @@ Let my thread not be cut as I weave my insight. Let not the full measure  of my 
 
 Loose me from sin as from a bond that binds me: may we swell, Varuna, thy spring of Order.  
      Let not my thread, while I weave song, be severed, nor my work's sum, before the time, be shattered.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Untie my sin like a rope! May we open your spring of cosmic order, O Varuṇa!  
+Let not the thread be snapped while I am weaving my poetic thought; let not the measure of the work be broken before its due season!
 </details>
 
 <details><summary>Geldner</summary>

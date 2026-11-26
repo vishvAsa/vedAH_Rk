@@ -72,10 +72,32 @@ padám ← padá- (nominal stem)
 आप॑श्चि॒न्नि द॑धा प॒दम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+य᳓स्य त्रिधा᳓त्व᳓वृतं बर्हि᳓स्तस्था᳓ अ᳓सन्दिनम्।  
+आ᳓पश्चिन्नि᳓दधा पद᳓म्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यस्य॑ । त्रि॒ऽधातु॑ । अवृ॑तम् । ब॒र्हिः । त॒स्थौ । अस॑म्ऽदिनम् ।  
 आपः॑ । चि॒त् । नि । द॒ध॒ । प॒दम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓स्य (*MS*-155/3763, *TS*-134/3385, *RV*-207/4011, *TB*-71/1735, *TK*-2/227, *AV*-112/3120, *SB-M*-143/8327, *SB-K*-136/8438, *VS-M*-28/651, *VS-K*-25/609)
+- त्रि-धा᳓तु (*MS*-2/5, *TS*-1/5, *RV*-15/25, *TB*-0/3, *AV*-1, *SB-K*-1, *VS-M*-1/3, *VS-K*-0/1)
+- अ᳓वृतम् (*MS*-3/5, *RV*-1/7, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1)
+- बर्हि᳓ (*MS*-69, *TS*-52, *RV*-86/87, *TB*-56, *AV*-24/25, *SB-M*-9/60, *SB-K*-3/48, *VS-M*-23, *VS-K*-24)
+- स्त (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-2, *RV*-4, *AV*-5, *SB-M*-2, *SB-K*-4, *VS-M*-1)
+- स्थाः᳓ (*MS*-0/4, *TS*-1/2, *RV*-7/20, *TB*-0/1, *SB-M*-0/17, *SB-K*-0/9, *VS-K*-1/2)
+- अ᳓-संदिनम् (*MW*)
+- आ᳓पः (*MS*-125/374, *TS*-98/319, *RV*-151/532, *TB*-59/152, *TK*-6/14, *AV*-141/324, *SB-M*-332/760, *SB-K*-333/744, *VS-M*-51/146, *VS-K*-37/124)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- नि᳓त् (*MW*)
+- अधा → **अ᳓धा** (स्वर-लोपः, *MS*-9, *TS*-1, *RV*-1, *TB*-1, *TK*-1, *SB-M*-4, *SB-K*-5, *VS-K*-4)
+- पद᳓म् (*MS*-14/33, *TS*-15/39, *RV*-46/95, *TB*-4/14, *TK*-3, *AV*-16/29, *SB-M*-29/63, *SB-K*-27/61, *VS-M*-6/17, *VS-K*-6/14)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -183,6 +205,11 @@ _________
 **यस्य** अग्नेः **त्रिधातु** त्रिः **अवृतम्** अनावृतं च **असंदिनम्** अबद्धं च । स्तरणकाले हि बर्हिरबद्धं भवति । बर्हिस्तस्थौ आसनार्थं तिष्ठति तस्मिन्नग्नौ **आपश्चित्** आपोऽपि **पदं** **नि** **दध** निदधति । अन्तरिक्ष्या माध्यमिके पदं निदधतीत्यर्थः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[613_12]** Vgl. RV 8, 91, 14 तस्था᳓व᳓सन्दिनम्; Ch तस्था असर्दिनम् (Cf. RV 8, 91, 14 तस्था᳓व᳓सन्दिनम्; Ch तस्था असर्दिनम्)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -218,6 +245,12 @@ But in ritual context the water’s setting down Agni’s footprint may refer to
 
 The waters find their place in him, for whom the threefold sacred grass  
      Is spread unbound, unlimited.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whose untied sacrificial grass, threefold, has stood [firm],  
+he has even placed his footprint upon the waters.
 </details>
 
 <details><summary>Geldner</summary>

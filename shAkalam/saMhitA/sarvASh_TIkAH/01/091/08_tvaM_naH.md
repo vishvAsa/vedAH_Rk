@@ -72,10 +72,29 @@ tvā́vataḥ ← tvā́vant- (nominal stem)
 न रि॑ष्ये॒त्त्वाव॑तः॒ सखा॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वं᳓ नस्सोम विश्व᳓तो र᳓क्षा राजन्नघायतः᳓।  
+न᳓ रिष्पेत्त्वा᳓वतस्स᳓खा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । नः॒ । सो॒म॒ । वि॒श्वतः॑ । रक्ष॑ । रा॒ज॒न् । अ॒घ॒ऽय॒तः ।  
 न । रि॒ष्ये॒त् । त्वाऽव॑तः । सखा॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- सोम (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-45, *TS*-50, *RV*-225, *TB*-24, *AV*-10, *SB-M*-19, *SB-K*-15, *VS-M*-25, *VS-K*-14)
+- विश्व᳓तः (*MS*-24, *TS*-24, *RV*-65, *TB*-2, *TK*-1, *AV*-24, *SB-M*-8, *SB-K*-7, *VS-M*-16, *VS-K*-16)
+- र᳓क्षा (*MS*-6/38, *TS*-2/21, *RV*-0/20, *TB*-2/10, *AV*-0/26, *SB-M*-2/25, *SB-K*-2/23, *VS-M*-1/17, *VS-K*-1/12)
+- राजन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-20, *TS*-19, *RV*-42, *TB*-10, *AV*-18, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-2)
+- अघ-यतः᳓ (*TS*-1, *RV*-6/8, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-2)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- रिष्पेत्त्वा᳓वतस्स᳓खा → **रि᳓ष्पेत्त्वावतस्सखा** (अनेकोदात्त-दोषः पा॰ ६.१.१५८)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -171,6 +190,12 @@ You, King Soma—guard us on all sides from the one who bears malice. No comrade
 
 Guard us, King Soma, on all sides from him who threatens us: never let  
      The friend of one like thee be harmed.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Protect us on all sides, O King Soma, from the evildoer;  
+the friend of one like you shall not suffer harm.
 </details>
 
 <details><summary>Geldner</summary>

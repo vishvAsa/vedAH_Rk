@@ -78,6 +78,12 @@ urú ← urú- (nominal stem)
 उरु॑कृदु॒रु ण॑स्कृधि ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+कुवि᳓त्सु᳓ नो ग᳓इष्टये᳓ऽग्ने संवे᳓षिषो रयि᳓म्।  
+उ᳓रुकृदुरु᳓ णस्कृधि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 कु॒वित् । सु । नः॒ । गोऽइ॑ष्टये । अग्ने॑ । स॒म्ऽवेषि॑षः । र॒यिम् ।  
@@ -87,6 +93,21 @@ urú ← urú- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 कु॒वित् । स्विति॑ । नः॒ । गवि॑ष्टय॒ इति॒ गो-इ॒ष्ट॒ये॒ । अग्ने॑ । सव्ँ॒वेषि॑ष॒ इति॑ सम्-वेषि॑षः । र॒यिम् ॥ उरु॑कृ॒दित्युरु॑-कृ॒त् । उ॒रु । नः॒ । कृ॒धि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- कुवि᳓त् (*MS*-8, *TS*-4, *RV*-50, *TB*-3, *AV*-4, *SB-M*-6, *SB-K*-5, *VS-M*-3, *VS-K*-3)
+- सु᳓ (*MS*-29, *TS*-24, *RV*-265, *TB*-7, *AV*-42, *SB-M*-15, *SB-K*-31, *VS-M*-20, *VS-K*-21)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- ग᳓इष्टये (*MS*-1, मूल-पाठः)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- सम्-वे᳓षिषः (*TS*-1, *RV*-1, *MS*-1)
+- रयि᳓म् (*MS*-51/71, *TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37)
+- उ᳓रु-कृत् (*MS*-1, *TS*-1, *RV*-1)
+- उरु᳓ (*MS*-36/51, *TS*-37/52, *RV*-63/118, *TB*-3/7, *TK*-0/3, *AV*-20/40, *SB-M*-21/38, *SB-K*-22/38, *VS-M*-19/29, *VS-K*-22/34)
+- णः (*MS*-17, *TS*-4, *TB*-7, *SB-M*-3, *VS-K*-5)
+- कृधि (*MS*-24, *TS*-28, *RV*-76, *TB*-6, *AV*-42, *SB-M*-3, *SB-K*-3, *VS-M*-16, *VS-K*-17)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -198,6 +219,13 @@ _________
 "कुवित् सु न इति"। हे अग्ने त्वं नो ऽस्माकं रयिं धनं कुविद्-बाहुल्यं यथा भवति तथा सुष्ठु संवेविषः सम्यग्-व्याप्तिम् अकरोः। किम् अर्थं, गविष्टये गोभिः सहितेष्टिर् गविष्टिस् तद्-अर्थम् उरु-कृत् प्रभूत-कारी त्वं नो ऽस्माकं कर्म-फलम् उरु कृधि प्रभूतं कुरु।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[84_2]** So die Mss. (Thus the mss.)
+
+- **[84_3]** So St, T3, Brl; in D Ch; W 1 4 शिवो (Thus St, T3, Brl; in D Ch; W 1 4 शिवो)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -232,6 +260,12 @@ Wilt thou not, Agni, lend us aid in winning cattle, winning wealth?
 <details><summary>Keith</summary>
 
 Wilt thou not, O Agni, Bring us wealth for our quest for cattle? O room maker, make room for us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Surely, O Agni, you will bestow wealth on us for the seeking of cattle;  
+O maker of wide space, make wide space for us.
 </details>
 
 <details><summary>Geldner</summary>

@@ -60,10 +60,27 @@ sahasríṇam ← sahasrín- (nominal stem)
 अश्वा॑वन्तं सह॒स्रिण॑म् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अस्मे᳓ इन्द्राबृहस्पती रयिं᳓ धत्तँ शतग्वि᳓नम्  
+अ᳓श्वावन्तँ अस्हस्रि᳓णम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒स्मे इति॑ । इ॒न्द्रा॒बृ॒ह॒स्प॒ती॒ इति॑ । र॒यिम् । ध॒त्त॒म् । श॒त॒ऽग्विन॑म् ।  
 अश्व॑ऽवन्तम् । स॒ह॒स्रिण॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अस्मे᳓ (*TS*-31/565, *RV*-211/1308, *TB*-17/270, *TK*-0/66, *AV*-14/1252, *SB-M*-19/723, *SB-K*-17/728, *VS-M*-28/315, *VS-K*-31/274, *KS*-25/242)
+- इन्द्रा-बृहस्पती (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-3, *RV*-5, *KS*-2)
+- रयि᳓म् (*TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37, *KS*-17/27)
+- धत्तम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-12, *RV*-26, *TB*-36, *AV*-11, *SB-M*-7, *SB-K*-5, *VS-M*-2, *VS-K*-2, *KS*-9)
+- शत-ग्वि᳓नम् (*TS*-1, *RV*-4/5, *KS*-1)
+- अ᳓श्वावन्तम् (*TS*-1, *KS*-1)
+- अस्हस्रि᳓णम् (मूल-पाठः)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -151,6 +168,18 @@ Vouchsafe us riches hundredfold, O Indra, and Brhaspati,
 To us, O Indra and Brhaspati,  
 Grant wealth of a hundred kine,  
 Of horses a thousandfold.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bestow upon us, O Indra and Bṛhaspati, wealth rich in hundreds of cattle,  
+rich in horses, consisting of thousands.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Grant us, O Indra and Bṛhaspati, wealth consisting of hundreds of cattle,  
+possessed of horses, consisting of thousands!
 </details>
 
 <details><summary>Geldner</summary>

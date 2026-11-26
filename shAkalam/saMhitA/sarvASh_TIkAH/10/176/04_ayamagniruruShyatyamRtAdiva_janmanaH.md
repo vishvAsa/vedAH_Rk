@@ -77,6 +77,12 @@ kr̥táḥ ← √kr̥- (root)
 सह॑सश्चि॒त्सही॑यान्दे॒वो जी॒वात॑वे कृ॒तः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अयमग्निरुरुष्यत्यमृतादिव जन्मनः।  
+सहसश्चित्सहीयान्देवो जीवातवे कृतः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒यम् । अ॒ग्निः । उ॒रु॒ष्य॒ति॒ । अ॒मृता॑त्ऽइव । जन्म॑नः ।  
@@ -86,6 +92,21 @@ kr̥táḥ ← √kr̥- (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒यम् । अ॒ग्निः । उ॒रु॒ष्य॒ति॒ । अ॒मृता॑त् । इ॒व॒ । जन्म॑नः ॥ सह॑सः । चि॒त् । सही॑यान् । दे॒वः । जी॒वात॑वे । कृ॒तः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अय᳓म् (*MW*, *MS*-133/1379, *TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-77/319, *VS-K*-70/301)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- उरुष्यति (समानान्तर-पाठः (TS), *TS*-1, *RV*-2, *MS*-1)
+- अमृ᳓तादिव (*RV*-1)
+- ज᳓न्मनः (*MS*-1/24, *TS*-1/12, *RV*-4/32, *TB*-0/13, *AV*-0/4, *SB-M*-0/12, *SB-K*-0/10, *VS-M*-0/3, *VS-K*-0/2)
+- स᳓हसः (*MS*-9/43, *TS*-7/35, *RV*-27/122, *TB*-1/28, *TK*-1/4, *AV*-4/50, *SB-M*-1/21, *SB-K*-1/24, *VS-M*-4/28, *VS-K*-5/40)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- स᳓हीयान् (*MS*-1, *TS*-1, *RV*-2, *TK*-3, *AV*-3)
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- जीवा᳓तवे (*MS*-1/5, *TS*-6/9, *RV*-7/12, *AV*-2/4, *SB-M*-1/6, *SB-K*-1/8, *VS-M*-1/2, *VS-K*-1/3)
+- कृतः᳓ (*MS*-3/17, *TS*-2/12, *RV*-9/77, *TB*-0/7, *AV*-6/43, *SB-M*-2/34, *SB-K*-5/41, *VS-M*-2/13, *VS-K*-1/9)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -215,6 +236,12 @@ This Agni rescueth
 Us from the immortal race,  
 He that is stronger than strength,  
 The god made for life.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This Agni delivers from immortal birth, as it were;  
+mightier even than might, the god is made for life.
 </details>
 
 <details><summary>Geldner</summary>

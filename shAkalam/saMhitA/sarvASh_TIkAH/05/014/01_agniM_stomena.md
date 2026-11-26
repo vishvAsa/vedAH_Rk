@@ -72,6 +72,18 @@ naḥ ← ahám (pronoun)
 ह॒व्या दे॒वेषु॑ नो दधत् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अग्निँ᳓ स्तो᳓मेन बोधय समिधानो᳓ अ᳓मर्त्यम्  
+हव्या᳓ देवे᳓षु नो दधत्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्निँ स्तोमेन बोधय समिधानो अमर्त्यम्।  
+हव्या देवेषु नो दधत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निम् । स्तोमे॑न । बो॒ध॒य॒ । स॒म्ऽइ॒धा॒नः । अम॑र्त्यम् ।  
@@ -86,6 +98,32 @@ naḥ ← ahám (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अ॒ग्निम्। स्तोमे॑न। बो॒ध॒य॒। स॒मि॒धा॒न इति॑ सम्ऽइधा॒नः। अम॑र्त्यम्। ह॒व्या। दे॒वेषु॑। नः॒। द॒ध॒त्। ७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/322, *VS-K*-62/339, *KS*-38/256)
+- स्तो᳓मेन (*TS*-14/122, *RV*-4/206, *TB*-7/37, *AV*-1/44, *SB-M*-22/166, *SB-K*-22/166, *VS-M*-2/43, *VS-K*-2/51, *KS*-8/28)
+- बोधय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-8, *TB*-1, *AV*-4, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- सम्-इधानः᳓ (*TS*-1/2, *RV*-12/34, *TB*-0/1, *AV*-1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1/5, *VS-K*-1/5)
+- अ᳓मर्त्यम् (*TS*-4/7, *RV*-15/56, *TB*-3/7, *TK*-0/1, *AV*-2/11, *SB-M*-1/4, *SB-K*-1/4, *VS-K*-3/7, *KS*-1/5)
+- हव्या᳓ (*TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-4/23, *KS*-10/34)
+- देवे᳓षु (*TS*-41/1025, *RV*-100/1342, *TB*-13/582, *TK*-1/32, *AV*-26/707, *SB-M*-41/2031, *SB-K*-46/1945, *VS-M*-35/517, *VS-K*-30/498, *KS*-13/317)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- दधत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-4, *RV*-2, *AV*-9, *SB-M*-1, *VS-M*-3, *VS-K*-3, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- स्तो᳓मेन (*MS*-10/89, *TS*-14/122, *RV*-4/206, *TB*-7/37, *AV*-1/44, *SB-M*-22/166, *SB-K*-22/166, *VS-M*-2/45, *VS-K*-2/51)
+- बोधय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-2, *RV*-8, *TB*-1, *AV*-4, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- सम्-इधानः᳓ (*MS*-3, *TS*-1/2, *RV*-12/34, *TB*-0/1, *AV*-1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1/5, *VS-K*-1/5)
+- अ᳓मर्त्यम् (*MS*-3/12, *TS*-4/7, *RV*-15/56, *TB*-3/7, *TK*-0/1, *AV*-2/11, *SB-M*-1/4, *SB-K*-1/4, *VS-K*-3/7)
+- हव्या᳓ (*MS*-25/81, *TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-5/27)
+- देवे᳓षु (*MS*-57/1216, *TS*-41/1023, *RV*-100/1342, *TB*-13/582, *TK*-1/32, *AV*-26/707, *SB-M*-41/2031, *SB-K*-46/1945, *VS-M*-35/528, *VS-K*-30/523)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- दधत् (समानान्तर-पाठः (MS), *MS*-3, *TS*-4, *RV*-2, *AV*-9, *SB-M*-1, *VS-M*-3, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -313,6 +351,20 @@ May he place our oblations among the gods.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Wake Agni with thy laud and set the Immortal One aflame, let him Bestow our offerings on the Gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Awaken Agni with praise, the kindled immortal,  
+that he may place our oblations among the gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Awaken Agni with praise, the immortal, as he is kindled,  
+placing our oblations among the gods.  
+"Kindled forth, O Agni..."  
+"These, O Agni..."
 </details>
 
 <details><summary>Oldenberg</summary>

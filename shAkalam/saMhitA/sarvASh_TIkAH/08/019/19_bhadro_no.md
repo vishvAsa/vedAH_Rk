@@ -272,6 +272,11 @@ _________
 सन्तु ॥ २० ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[598_7]** Vgl. RV 8, 19, 19; MS 4, 12, 5; VS 15, 38. (Cf. RV 8, 19, 19; MS 4, 12, 5; VS 15, 38)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर वह कैसा हो, यह विषय अगले मन्त्र में कहा है ॥
@@ -330,6 +335,12 @@ Both Geldner and Renou take this verse as expressing a wish (Geldner “Glück b
 
 -May Agni worshipped bring us bliss, may the gift, Blessed One, and sacrifice bring bliss;  
      Yea, may our praises bring us bliss.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Auspicious to us is Agni when invoked, auspicious the gift, O fortunate one, auspicious the rite,  
+and auspicious the praises!
 </details>
 
 <details><summary>Geldner</summary>

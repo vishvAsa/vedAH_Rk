@@ -291,6 +291,13 @@ __________________
 तत्कर्तृ कारकात् तदीयं वर्तनं तादृशीं वाचं न गोचरीभवतीति किं शब्देन काक्वा द्योत्यते ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[593_2]** Der Anfang des Cap. accentuirt nach Brl fol. 175. (The beginning of the chapter accented after Brl fol. 175.)
+
+- **[593_3]** Ch आभूव॰; cf. RV 4, 31, 1. .
+</details>
+
 <details><summary>दयानन्द-सरस्वती (सं, मा.) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  स सदावृधश्चित्रो नः कयोती सखा आभुवत्, कया वृता शचिष्ठयाऽस्मान् शुभेषु गुणकर्मस्वभावेषु प्रेरयेत् ॥४ ॥
@@ -366,6 +373,24 @@ WITH what help will he come to us, wonderful, ever-waxing Friend;
 With what aid will he come to us,  
 Our wondrous, ever-waxing, friend?  
 With what most potent aid [2]?
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With what aid will he, the wonderful, ever-increasing friend, be present for us?  
+With what most effective assistance?
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+With what help will the wonderful one, the ever-prospering comrade, be present to us?  
+With what most powerful assistance?
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With what wonderful help will he become present to us, the ever-increasing friend?  
+With what most powerful course?
 </details>
 
 <details><summary>Geldner</summary>

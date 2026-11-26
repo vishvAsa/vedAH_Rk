@@ -104,6 +104,12 @@ víśvā ← víśva- (nominal stem)
 यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यन्ति॒ भुव॑नानि॒ विश्वा॑ ॥८॥ २६
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+प्र᳓ त᳓द् वि᳓ष्णुः स्तवते वीर्ये᳙ण मृगो᳓ न भीमः᳓ कुचरो᳓ गिरिष्ठाः᳓  
+य᳓स्योरु᳓षु त्रिषु᳓ विक्र᳓मणेष्व् अधिक्षिय᳓न्ति भु᳓वनानि वि᳓श्वा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । तत् । विष्णुः॑ । स्त॒व॒ते॒ । वी॒र्ये॑ण । मृ॒गः । न । भी॒मः । कु॒च॒रः । गि॒रि॒ऽस्थाः ।  
@@ -118,6 +124,28 @@ víśvā ← víśva- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 प्र। तत्। विष्णुः॑। स्त॒व॒ते॒। वी॒र्ये᳖ण। मृ॒गः। न। भी॒मः। कु॒च॒रः। गि॒रि॒ष्ठाः। गि॒रि॒स्था इति॑ गिरि॒ऽस्थाः। यस्य॑। उ॒रुषु॑। त्रि॒षु। वि॒क्रम॑णे॒ष्विति॑ वि॒ऽक्रम॑णेषु। अ॒धि॒क्षि॒यन्तीत्य॑धिऽक्षि॒यन्ति॑। भुव॑नानि। विश्वा॑। ८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-78/624, *KS*-156/1225)
+- वि᳓ष्णुः (*TS*-53/151, *RV*-34/79, *TB*-32/53, *AV*-19/45, *SB-M*-87/165, *SB-K*-83/162, *VS-M*-17/59, *VS-K*-11/62, *KS*-15/43)
+- स्तवते (*RV*-3, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- वीर्ये᳙ण (*TS*-20, *RV*-9, *TB*-7, *TK*-1, *AV*-6, *SB-M*-68, *SB-K*-62, *VS-M*-1, *VS-K*-1, *KS*-2)
+- मृगः᳓ (*TS*-2/5, *RV*-15/34, *AV*-8/23, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-3, *VS-K*-2, *KS*-2)
+- न (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-81, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48, *KS*-35)
+- भीमः᳓ (*TS*-2/5, *RV*-18/27, *TB*-0/1, *AV*-6/12, *SB-M*-3, *SB-K*-3, *VS-M*-4/6, *VS-K*-3/6, *KS*-2/3)
+- कुचरः᳓ (*TS*-1, *RV*-2, *TB*-1, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-2)
+- गिरि-ष्ठाः᳓ (*SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-2)
+- य᳓स्य (*TS*-134/3383, *RV*-207/4011, *TB*-71/1735, *TK*-2/227, *AV*-112/3120, *SB-M*-143/8327, *SB-K*-136/8438, *VS-M*-28/639, *VS-K*-24/581, *KS*-37/818)
+- उरु᳓षु (*TS*-0/52, *RV*-1/118, *TB*-0/7, *TK*-1/3, *AV*-1/40, *SB-M*-1/38, *SB-K*-1/38, *VS-M*-1/29, *VS-K*-1/33, *KS*-1/15)
+- त्रिषु᳓ (*TS*-2/235, *RV*-10/156, *TB*-1/101, *TK*-1/17, *AV*-5/86, *SB-M*-8/420, *SB-K*-9/388, *VS-M*-5/46, *VS-K*-5/45, *KS*-1/32)
+- वि-क्र᳓मणेषु (*TS*-0/1, *RV*-2/3, *AV*-2/3, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-1/3, *VS-K*-1/2, *KS*-1/2)
+- अधि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-15, *AV*-1, *SB-M*-67, *SB-K*-64, *VS-M*-2, *VS-K*-1, *KS*-5)
+- क्षिय᳓न्ति (*RV*-0/10, *AV*-1/4, *SB-M*-5/6, *SB-K*-6/7, *VS-M*-0/1, *VS-K*-0/1, *KS*-1)
+- भु᳓वनानि (*TS*-11/39, *RV*-59/144, *TB*-6/32, *TK*-0/6, *AV*-29/65, *SB-M*-8/30, *SB-K*-3/26, *VS-M*-18/42, *VS-K*-17/39, *KS*-6/16)
+- वि᳓श्वा (*TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/214, *VS-K*-33/214, *KS*-19/118)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -360,6 +388,13 @@ Hom• महत्सु
 इत्य्-एवं श्री-भगवान् विष्णुः स्तूयते ॥८॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[19_3]** T6 गिरिष्ठः᳓ ; desgl. W 1, ohne Accent. (T6 गिरिष्ठः᳓; likewise W1, without accent.)
+
+**समानान्तराणि:** cf. Mâitr. S. 1, 2, 9 ; Kap. S. 2, 4.
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर वह कैसा है, इस विषय का उपदेश अगले मन्त्र में किया है ॥
@@ -425,6 +460,18 @@ The covert identification with Indra continues in pāda b, which is identical to
 
 For this his mighty deed is Visnu lauded, like some wild beast, dread, prowling, mountain-roaming;  
      He within whose three wide-extended paces all living creatures have their habitation.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For this is Viṣṇu praised for his valor, like a wild beast, fierce, roving, dwelling in the mountains,  
+in whose three wide strides all the worlds abide.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+for heroic power, like a dread beast, roaming, dwelling in the mountains,  
+in whose three wide strides all worlds abide.
 </details>
 
 <details><summary>Macdonell</summary>

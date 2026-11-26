@@ -101,10 +101,39 @@ táritrataḥ ← √tr̥̄- 1 (root)
 श्ये॒नस्ये॑व॒ ध्रज॑तो अङ्क॒सं परि॑ दधि॒क्राव्णः॑ स॒होर्जा तरि॑त्रतः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+उत स्मास्य द्रवतस्तुरण्यतः पर्णं न वेरनुवाति प्रगर्धिनः।  
+श्येनस्येव द्रवतो अङ्कसं परि दधिक्राव्णस्सहोर्जा तरित्रतः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒त । स्म॒ । अ॒स्य॒ । द्रव॑तः । तु॒र॒ण्य॒तः । प॒र्णम् । न । वेः । अनु॑ । वा॒ति॒ । प्र॒ऽग॒र्धिनः॑ ।  
 श्ये॒नस्य॑ऽइव । ध्रज॑तः । अ॒ङ्क॒सम् । परि॑ । द॒धि॒ऽक्राव्णः॑ । स॒ह । ऊ॒र्जा । तरि॑त्रतः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उत᳓ (*Whitney*, *Lanman*, *MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- स्म (अनुदात्तम्, पा॰ ८.१.१८, *MS*-27, *TS*-14, *RV*-108, *TB*-4, *TK*-4, *AV*-23, *SB-M*-134, *SB-K*-129, *VS-M*-5, *VS-K*-3)
+- अस्य (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-398, *TS*-315, *RV*-415, *TB*-178, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-590, *VS-M*-56, *VS-K*-45)
+- द्र᳓वतः (*MS*-2/4, *TS*-1, *RV*-2/3, *TB*-0/2, *TK*-0/1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1, *VS-K*-1/2)
+- तुरण्यतः᳓ (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- पर्ण᳓म् (*MS*-4/16, *TS*-3/12, *RV*-3/6, *TB*-4/14, *AV*-1/6, *SB-M*-5/15, *SB-K*-4/12, *VS-M*-1/4, *VS-K*-1/3)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- वेः᳓ (*MS*-6/597, *TS*-3/427, *RV*-24/1109, *TB*-0/240, *TK*-0/7, *AV*-1/487, *SB-M*-3/656, *SB-K*-3/704, *VS-M*-4/216, *VS-K*-2/182)
+- अ᳓नु-वाति (*MS*-1, *VS-K*-1)
+- प्र-गर्धि᳓नः (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- श्येन᳓स्य (*MS*-3/18, *TS*-3/19, *RV*-4/53, *TB*-2/6, *TK*-0/1, *AV*-0/12, *SB-M*-1/16, *SB-K*-1/19, *VS-M*-2/9, *VS-K*-2/8)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- द्र᳓वतः (*MS*-2/4, *TS*-1, *RV*-2/3, *TB*-0/2, *TK*-0/1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1, *VS-K*-1/2)
+- अङ्कस᳓म् (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- दधि-क्रा᳓व्णः (*MS*-5/7, *RV*-6, *AV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-1)
+- सह᳓ (*Whitney*, *MS*-105, *TS*-97, *RV*-59, *TB*-40, *AV*-134, *SB-M*-170, *SB-K*-159, *VS-M*-32, *VS-K*-32)
+- ऊर्जा᳓ (*MS*-32/63, *TS*-30/42, *RV*-6/22, *TB*-5/13, *AV*-2/19, *SB-M*-24/44, *SB-K*-23/40, *VS-M*-8/24, *VS-K*-11/25)
+- त᳓रित्रतः (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -248,6 +277,21 @@ _________
 श्येनस्येव **वेः** पक्षिणः **ध्राजतो** गच्छतः । ध्रज गतौ । **पर्णं न** पत्रमिव पत्रार्थं प्रगर्धिनः आमिषार्थिनः । अनेकेवशब्दाद्वाक्यार्थोपमा भवतीति द्वयोर् उपमार्थीययोर् उपादानम् । अश्वो विश्ष्यते - **दधिक्राव्णः** व्याख्यातः । **ऊर्जा** बलेन सह **तरित्रतः** भृशं तरतः । यद्वा - ऊर्जा अन्नेन आमिषादिना सह तरतः **श्येनस्येव** । वेगवत्त्वातिशय-प्रदर्शनार्थं चेदम् । तरतेर् यङ्लुगन्तस्य तत्रैव निपात्यते, 'शतुरनुमः' इत्येतद्बाधित्वा परत्वात् 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वं भवति । 'सावेकाचः' इत्यूर्जस्तृतीयाया उदात्तत्वम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[195_9]** So corr. Ch द्रवतस्भुर°; D द्रवभस्तुर° (Thus emended; Ch reads द्रवतस्भुर°; D reads द्रवभस्तुर°)
+
+- **[195_10]** So corr. Ch प्रगधिनः; D प्रगविनः; (Thus emended Ch प्रगधिनः; D प्रगविनः;)
+
+- **[195_11]** Mss. अङ्कसस्परि (Mss. read अङ्कसस्परि)
+
+**टिप्पणी (अनङ्किता 9)**
+
+- **9.** So Ch; D भवति ; cf. RV 1, 23, 19 भवत (Thus Ch; D भवति; cf. RV 1, 23, 19 भवत)
+
+**समानान्तराणि:** cf. Mâitr. S. 1, 11, 1. 2.
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -270,9 +314,12 @@ while he swoops like a falcon around the curving (racecourse), while he  keeps a
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 These two vss. revisit the utá sma opening that characterized the middle vss. of IV.38.
 
 There is also a concentration of intensives: 3d táritrataḥ, 4c saṃtā́vīt u vat, 4d āpaniphaṇat -- appropriate to the ever-increasing speed and the intense repetitive movements of the horse racing to the finish line.
+</details>
 
 </details>
 </div>
@@ -289,6 +336,12 @@ After him as he hasteneth in triumphant speed
 Bloweth the wind as after the wing of the bird,  
 Of the impetuous eagle, (after him) Dadhikravan,  
 As in his might he crosseth the winding ways.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And indeed, as he runs, hastening, greedy, it blows after him like the wing of a bird;  
+around the curve of the running courser Dadhikrāvan, speeding with might like a falcon!
 </details>
 
 <details><summary>Geldner</summary>

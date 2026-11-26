@@ -89,6 +89,12 @@ samátsu ← samád- (nominal stem)
 अश्वा॑जनि॒ प्रचे॑त॒सोऽश्वा॑न्त्स॒मत्सु॑ चोदय ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आजङ्घन्ति सान्वेषां जघनाँ उपजिघ्नते।  
+अश्वाजनि प्रचेतसोऽश्वान्समत्सु चोदय
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । ज॒ङ्घ॒न्ति॒ । सानु॑ । ए॒षा॒म् । ज॒घना॑न् । उप॑ । जि॒घ्न॒ते॒ ।  
@@ -108,6 +114,22 @@ samátsu ← samád- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 एति॑ । ज॒ङ्घ॒न्ति॒ । सानु॑ । ए॒षा॒म् । ज॒घनान्॑ । उपेति॑ । जि॒घ्न॒ते॒ ॥ अश्वा॑ज॒नीत्यश्व॑-अ॒ज॒नि॒ । प्रचे॑तस॒ इति॒ प्र-चे॒त॒सः॒ । अश्वान्॑ । स॒मत्स्विति॑ स॒मत्-सु॒ । चो॒द॒य॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- जङ्घन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *MS*-1)
+- सा᳓नु (*MS*-5, *TS*-2/3, *RV*-20/50, *TB*-1/2, *AV*-0/2, *VS-M*-1/2, *VS-K*-1/2)
+- एषा᳓म् (*MS*-22/1379, *TS*-17/965, *RV*-4/1247, *TB*-17/567, *TK*-0/57, *AV*-14/1259, *SB-M*-79/5239, *SB-K*-99/5549, *VS-M*-2/319, *VS-K*-1/301)
+- जघ᳓नान् (*MS*-0/6, *TS*-1/2, *RV*-1/2, *TB*-0/2, *AV*-0/1, *SB-M*-0/42, *SB-K*-0/44, *VS-M*-1, *VS-K*-1)
+- उ᳓प (*MS*-488, *TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60)
+- जि᳓घ्नते (*Whitney*, *RV*-1)
+- अ᳓श्वाजनि (*MS*-1, *TS*-1)
+- प्र᳓-चेतसः (*MS*-4/6, *TS*-3/6, *RV*-15/31, *TB*-1/7, *AV*-5/8, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/4, *VS-K*-1/5)
+- अ᳓श्वान् (*MS*-3/117, *TS*-6/126, *RV*-28/226, *TB*-2/167, *AV*-1/76, *SB-M*-11/262, *SB-K*-7/255, *VS-M*-3/56, *VS-K*-3/52)
+- सम᳓त्सु (*MS*-5, *TS*-3/5, *RV*-44, *TB*-3, *AV*-6, *SB-M*-0/7, *SB-K*-0/8, *VS-M*-4, *VS-K*-4)
+- चोदय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-2, *RV*-17, *AV*-4, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -284,6 +306,13 @@ _________
 तथाविधताडनहेतुभूते हेऽश्वाजनि अश्वप्रेरके कशे प्रचेतसस्ताडनेन प्रकृष्टगमने चित्तयुक्तान्समत्सु युद्धेषु चोदय प्ररेय ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[637_11]** So corr. Ch मान्वेषां ; vgl. RV 6, 75, 13. (Thus emended; Ch reads मान्वेषां; cf. RV 6, 75, 13)
+
+- **[637_12]** So corr. Ch जिघ्रत (Thus emended; Ch reads जिघ्रत)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर राजधर्म को कहते हैं ॥
@@ -356,6 +385,12 @@ Their backs it smites,
 Their thighs it belabours;  
 O horse-whip, do ye stimulate  
 The skilled horses in the battles.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They strike the hip; they strike upon the thighs.  
+O horse-whip, urge the mindful horses in the battles!
 </details>
 
 <details><summary>Geldner</summary>

@@ -81,6 +81,12 @@ saṁvárgam ← saṁvárga- (nominal stem)
 सव्ँ॒वर्गँ॒ सँ र॒यिञ्ज॑य ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+मा᳓ नो अस्मि᳓न्मिहाधने᳓ प᳓रावर्ग्भारर्भृद्यथा।  
+संवँर्ग सं᳓ रयिं᳓ जय
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मा । नः॒ । अ॒स्मिन् । म॒हा॒ऽध॒ने । परा॑ । व॒र्क् । भा॒र॒ऽभृत् । य॒था॒ ।  
@@ -90,6 +96,24 @@ saṁvárgam ← saṁvárga- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 मा॒ । नः॒ । अ॒स्मिन् । म॒हा॒ध॒न इति॑ महा-ध॒ने । परेति॑ । वर्क् । भा॒र॒भृदिति॑ भार-भृत् । य॒था॒ ॥ सव्ँ॒वर्ग॒मिति॑ सम्-वर्ग॑म् । समिति॑ । र॒यिम् । ज॒य॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मा᳓ (*MS*-238, *TS*-205, *RV*-389, *TB*-111, *TK*-16, *AV*-415, *SB-M*-206, *SB-K*-183, *VS-M*-146, *VS-K*-110)
+- न (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-92, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- अस्मि᳓न् (*MS*-59/1379, *TS*-74/965, *RV*-76/1247, *TB*-42/567, *TK*-4/57, *AV*-82/1259, *SB-M*-216/5239, *SB-K*-246/5549, *VS-M*-27/319, *VS-K*-22/301)
+- मिहा (मूल-पाठः)
+- धने᳓ (मूल-पाठः)
+- प᳓रावर्क् (पादादिः आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८)
+- भारः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- भृत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1)
+- यथा (*MS*-11, *TS*-6, *RV*-34, *TB*-4, *TK*-1, *AV*-9, *SB-M*-2, *SB-K*-15, *VS-M*-3, *VS-K*-4)
+- संवंर्ग (मूल-पाठः)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- रयि᳓म् (*MS*-51/71, *TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37)
+- जय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-2, *RV*-4, *TB*-1, *AV*-8, *SB-M*-3, *SB-K*-4, *VS-M*-5, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -240,6 +264,12 @@ In this great battle cast us not aside as one who bears a load:
 <details><summary>Keith</summary>
 
 Cast us not aside in this great contest, Like a bearer his burden; Gather wealth and conquer it.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Do not cast us aside in this great contest like a burden-bearer;  
+win the wealth, the sweepings.
 </details>
 
 <details><summary>Geldner</summary>

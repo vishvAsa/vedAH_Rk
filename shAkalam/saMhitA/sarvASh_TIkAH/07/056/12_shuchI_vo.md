@@ -97,6 +97,12 @@ pāvakā́ḥ ← pāvaká- (nominal stem)
 शुचि॑जन्मान॒श्शुच॑यᳶ पाव॒काः ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+शु᳓ची वो हव्या᳓ मरुतः शु᳓चीनाँ शु᳓चिँ हिनोम्य् अध्वरँ᳓ शु᳓चिभ्यः  
+ऋते᳓न सत्य᳓म् ऋतसा᳓प आयञ् शु᳓चिजन्मानः शु᳓चयः पावकाः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 शुची॑ । वः॒ । ह॒व्या । म॒रु॒तः॒ । शुची॑नाम् । शुचि॑म् । हि॒नो॒मि॒ । अ॒ध्व॒रम् । शुचि॑ऽभ्यः ।  
@@ -106,6 +112,26 @@ pāvakā́ḥ ← pāvaká- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 शु᳓ची । वः । हव्या᳓ । मरुतः । शु᳓चीनाम् । शु᳓चिम् । हिनोमि । अध्वर᳓म् । शु᳓चिभ्यः । ऋते᳓न । सत्य᳓म् । ऋ᳓त । सा᳓पः । आ-यन् । शु᳓चि-जन्मानः । शु᳓चयः । पावकाः᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- शु᳓ची (*TS*-0/33, *RV*-3/113, *TB*-1/23, *AV*-1/25, *SB-M*-1/23, *SB-K*-1/20, *VS-M*-0/14, *VS-K*-0/14, *KS*-0/13)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70, *KS*-122)
+- हव्या᳓ (*TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-5/27, *KS*-10/34)
+- मरुतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-17, *RV*-152, *TB*-9, *AV*-18, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2, *KS*-18)
+- शु᳓चीनाम् (*TS*-0/33, *RV*-3/113, *TB*-1/23, *AV*-0/25, *SB-M*-0/23, *SB-K*-0/20, *VS-M*-0/14, *VS-K*-0/14, *KS*-0/13)
+- शु᳓चिम् (*TS*-3/33, *RV*-16/113, *TB*-5/23, *AV*-2/25, *SB-M*-0/23, *SB-K*-0/20, *VS-M*-2/14, *VS-K*-2/14, *KS*-2/13)
+- हिनोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-4, *TB*-1, *AV*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- अध्वर᳓म् (*TS*-9/27, *RV*-49/196, *TB*-10/25, *TK*-0/2, *AV*-5/22, *SB-M*-6/71, *SB-K*-6/68, *VS-M*-11/29, *VS-K*-10/22, *KS*-4/15)
+- शु᳓चिभ्यः (*TS*-0/33, *RV*-1/113, *TB*-1/23, *AV*-0/25, *SB-M*-0/23, *SB-K*-0/20, *VS-M*-0/14, *VS-K*-0/14, *KS*-0/13)
+- ऋते᳓न (*TS*-5/80, *RV*-43/361, *TB*-22/62, *TK*-0/2, *AV*-10/107, *SB-M*-0/72, *SB-K*-0/74, *VS-M*-8/41, *VS-K*-8/45, *KS*-9/25)
+- सत्य᳓म् (*TS*-20/77, *RV*-52/133, *TB*-45/68, *TK*-25/44, *AV*-33/71, *SB-M*-132/187, *SB-K*-129/184, *VS-M*-19/36, *VS-K*-23/47, *KS*-13/24)
+- ऋत-सा᳓पः (*RV*-7)
+- आ-यन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-47, *RV*-25, *TB*-22, *TK*-1, *AV*-5, *SB-M*-25, *SB-K*-7, *VS-M*-4, *VS-K*-3, *KS*-4)
+- शु᳓चि-जन्मानः (*RV*-1/3, *TB*-1)
+- शु᳓चयः (*TS*-8/33, *RV*-26/113, *TB*-6/23, *AV*-12/25, *SB-M*-3/23, *SB-K*-3/20, *VS-M*-3/14, *VS-K*-3/14, *KS*-2/13)
+- पावकाः᳓ (*TS*-4/24, *RV*-7/46, *TB*-2/11, *TK*-0/1, *AV*-5/7, *SB-M*-0/19, *SB-K*-0/19, *VS-M*-1/10, *VS-K*-1/11, *KS*-0/14)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -261,6 +287,12 @@ Pāda c contrasts ṛtá- in ṛténa … ṛta-sā́paḥ with satyá-, the lat
 
 Pure, Maruts, pure yourselves, are your oblations: to you, the pure, pure sacrifice I offer.  
      By Law they came to truth, the Law's observers, bright by their birth, and pure, and sanctifying.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Pure are your oblations, O Maruts, [the oblations] of the pure ones; I speed the pure sacrifice to the pure ones.  
+Attending truth, by truth they came to reality, pure of birth, pure, purifying.
 </details>
 
 <details><summary>Geldner</summary>

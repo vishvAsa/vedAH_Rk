@@ -113,6 +113,12 @@ vīrám ← vīrá- (nominal stem)
 नि नो॑ र॒यिँ सु॒भोज॑सं युवस्व॒ नि वी॒रं गव्य॒मश्व्यं॑ च॒ राधः॑ ॥४॥ २६
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+प्र याभिर्यासि दाश्वाँसमच्छा नियुद्भिर्वाय इष्टये दुरोणे।  
+नि नो रयिँ सुभोजसं युवस्व नि वीरं गव्यमश्व्यं च राधः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । याभिः॑ । यासि॑ । दा॒श्वांस॑म् । अच्छ॑ । नि॒युत्ऽभिः॑ । वा॒यो॒ इति॑ । इ॒ष्टये॑ । दु॒रो॒णे ।  
@@ -127,6 +133,31 @@ vīrám ← vīrá- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 प्र। याभिः॑। यासि॑। दा॒श्वाँस॑म्। अच्छ॑। नि॒युद्भि॒रिति॑ नि॒युत्ऽभिः॑। वा॒यो॒ इति॑ वायो। इ॒ष्टये॑। दु॒रो॒णे। नि। नः॒। र॒यिम्। सु॒भोज॑स॒मिति॑ सु॒ऽभोज॑सम्। यु॒व॒स्व॒। नि। वी॒रम्। गव्य॑म्। अश्व्य॑म्। च॒। राधः॑। ४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- या᳓सि (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1, *TS*-2, *RV*-10, *AV*-2, *VS-M*-1, *VS-K*-1)
+- दाश्वां᳓सम् (*MS*-1/2, *TS*-1/2, *RV*-9/11, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/2, *VS-K*-1/2)
+- अ᳓च्छा (*TS*-3, *TB*-7, *SB-M*-2, *SB-K*-18, *VS-K*-9, *MS*-1)
+- नियु᳓द्भिः (*MS*-4, *TS*-2, *RV*-10, *TB*-3, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-6, *VS-K*-6/8)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-211, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-36)
+- यः (समानान्तर-पाठः (VS-K), *MS*-16, *TS*-3, *TB*-11, *TK*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+- इष्ट᳓ये (*MS*-2/5, *TS*-1/11, *RV*-20/34, *TB*-0/2, *TK*-0/2, *AV*-2/3, *SB-M*-1/16, *SB-K*-1/21, *VS-M*-2, *VS-K*-2)
+- दुरोणे᳓ (*MS*-7, *TS*-1, *RV*-31/35, *TB*-2, *TK*-1, *AV*-6, *VS-M*-3, *VS-K*-4)
+- नि᳓ (*MS*-193, *TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- रयि᳓म् (*MS*-51/71, *TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37)
+- सु-भो᳓जसम् (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- युवस्व (समानान्तर-पाठः (VS-K), *MS*-1, *TS*-1, *RV*-4, *VS-M*-1, *VS-K*-1)
+- नि᳓ (*MS*-193, *TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36)
+- वीर᳓म् (*MS*-12/36, *TS*-4/20, *RV*-22/119, *TB*-7/25, *AV*-6/66, *SB-M*-4/28, *SB-K*-3/32, *VS-M*-8/19, *VS-K*-6/17)
+- ग᳓व्यम् (*MS*-2/3, *TS*-3, *RV*-15/27, *AV*-4/7, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-3/4, *VS-K*-3/4)
+- अ᳓श्व्यम् (*MS*-1, *RV*-12/25, *AV*-2/3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- रा᳓धः (*Whitney*, *MS*-7/12, *TS*-5/10, *RV*-63/145, *TB*-2/3, *AV*-13/20, *SB-M*-1/9, *SB-K*-2/8, *VS-M*-2/7, *VS-K*-2/7)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -395,6 +426,11 @@ _________
 राध इति धन-नाम ॥४॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[140_2]** D द्भिर्वायु इष्टये; Ch श्शिर्वाय इष्टये
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 विद्वान् को कैसा होना चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
@@ -457,6 +493,12 @@ As disc. in the published introduction, this vs. makes clear the equation betwee
 
 The teams wherewith thou seekest him who offers, within his home, O Viyu, to direct him,  
      Therewith send wealth: to us with full enjoyment, a hero son and gifts of kine and horses.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With those teams of horses with which you go to the worshipper, O Vāyu, for the sacrifice in his dwelling,  
+bring wealth affording good enjoyment, bring a hero, cattle, and horses as wealth.
 </details>
 
 <details><summary>Geldner</summary>

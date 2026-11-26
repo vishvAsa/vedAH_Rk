@@ -92,10 +92,39 @@ paṇím ← paṇí- (nominal stem)
 स्वेदा॑ञ्जिभिरा॒शिर॑मि॒च्छमा॒नोऽरो॑दयत्प॒णिमा गा अ॑मुष्णात् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इ᳓न्द्रो बलँ᳓ रक्षिता᳓रं दु᳓घानां करे᳓णेव वि᳓चकर्ता र᳓वेण  
+स्वे᳓दाञ्जिभिर् आशि᳓रम् इछ᳓मानो ऽरोदयत् पणि᳓म् आ᳓ गा᳓ अमुष्णात्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रः॑ । व॒लम् । र॒क्षि॒तार॑म् । दुघा॑नाम् । क॒रेण॑ऽइव । वि । च॒क॒र्त॒ । रवे॑ण ।  
 स्वेदा॑ञ्जिऽभिः । आ॒ऽशिर॑म् । इ॒च्छमा॑नः । अरो॑दयत् । प॒णिम् । आ । गाः । अ॒मु॒ष्णा॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/388, *VS-K*-93/358, *KS*-72/189)
+- बल᳓म् (*AV*-4/6, *SB-K*-3, *VS-M*-1)
+- रक्षिता᳓रम् (*TS*-0/2, *RV*-1/6, *AV*-1/22, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/2)
+- दु᳓घानाम् (*RV*-1, *TB*-0/4, *TK*-0/1, *AV*-1, *VS-M*-0/4, *VS-K*-0/3)
+- करे᳓ण (*AV*-1, *SB-M*-0/2, *SB-K*-0/3)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- कर्ता (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- र᳓वेण (*TS*-1, *RV*-11/15, *TB*-2, *AV*-3/4, *VS-M*-0/1, *VS-K*-0/1, *KS*-3)
+- स्वे᳓दाञ्जिभिः (*RV*-1, *AV*-1)
+- आ-शि᳓रम् (*TS*-2, *RV*-14, *TB*-1, *AV*-3, *SB-M*-2, *SB-K*-1)
+- इछ᳓ (*SB-M*-1)
+- मानः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-1, *VS-K*-1)
+- अरोदयत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1)
+- पणि᳓म् (*TS*-1/2, *RV*-8/44, *TB*-1/2, *AV*-1/10, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/3, *VS-K*-0/5, *KS*-2)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- गाः᳓ (*TS*-6/108, *RV*-99/521, *TB*-5/76, *AV*-23/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-3/66, *VS-K*-3/64, *KS*-6/37)
+- अमुष्णात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *AV*-1, *SB-M*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -243,6 +272,12 @@ Indra cut apart Vala, the guard over the milkers, with a roar like a tool. Seeki
 
 As with a hand, so with his roaring Indra cleft Vala through, the guardian of the cattle.  
      Seeking the milk-draught with sweatshining comrades he stole the Pani's kine and left him weeping.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra split open Vala, the keeper of the milch-cows, as with a trunk by his roaring;  
+seeking the milk-mixture with sweat-stained [limbs], he made the Paṇi weep, he stole away the cattle.
 </details>
 
 <details><summary>Geldner</summary>

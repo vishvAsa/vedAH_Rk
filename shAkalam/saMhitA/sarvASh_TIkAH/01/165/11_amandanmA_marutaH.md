@@ -98,10 +98,38 @@ tanvè ← tanū́- (nominal stem)
 इन्द्रा॑य॒ वृष्णे॒ सुम॑खाय॒ मह्यं॒ सख्ये॒ सखा॑यस्त॒न्वे॑ त॒नूभिः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓मन्दन्मा मरुतस्स्तो᳓मो अ᳓त्र य᳓न्मे नरश्श्रु᳓त्यं ब्र᳓ह्म चक्र᳓।  
+इ᳓न्द्राय वृ᳓ष्णे सु᳓मखाय म᳓ह्यँ सङ्ख्ये सँखायस्तन्वेृ तनू᳓भिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अम॑न्दत् । मा॒ । म॒रु॒तः॒ । स्तोमः॑ । अत्र॑ । यत् । मे॒ । न॒रः॒ । श्रुत्य॑म् । ब्रह्म॑ । च॒क्र ।  
 इन्द्रा॑य । वृष्णे॑ । सुऽम॑खाय । मह्य॑म् । सख्ये॑ । सखा॑यः । त॒न्वे॑ । त॒नूभिः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓मन्दन् (*MS*-1, *RV*-4)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- मरुतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-23, *TS*-17, *RV*-152, *TB*-9, *AV*-18, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2)
+- स्तो᳓मः (*MS*-37/89, *TS*-39/122, *RV*-40/206, *TB*-12/37, *AV*-5/44, *SB-M*-53/166, *SB-K*-53/166, *VS-M*-23/45, *VS-K*-29/51)
+- अ᳓त्र (*MS*-59, *TS*-20, *RV*-120, *TB*-48, *TK*-12, *AV*-57, *SB-M*-499, *SB-K*-440, *VS-M*-18, *VS-K*-17)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *MS*-506, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-332)
+- नरः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-4, *RV*-36, *TB*-2, *AV*-7, *VS-M*-2, *VS-K*-2)
+- श्रु᳓त्यम् (*MS*-1, *RV*-8/10)
+- ब्र᳓ह्म (*MS*-115/230, *TS*-70/157, *RV*-96/237, *TB*-38/95, *TK*-11/38, *AV*-133/266, *SB-M*-286/420, *SB-K*-285/434, *VS-M*-28/55, *VS-K*-23/51)
+- चक्र᳓ (*MS*-1/2, *TS*-5, *RV*-2/11, *TB*-2, *AV*-34, *SB-M*-28, *SB-K*-37, *VS-M*-1, *VS-K*-1)
+- इ᳓न्द्राय (*MS*-165/711, *TS*-141/497, *RV*-210/1345, *TB*-54/363, *TK*-0/8, *AV*-40/606, *SB-M*-105/535, *SB-K*-87/509, *VS-M*-104/392, *VS-K*-78/380)
+- वृ᳓ष्णे (*MS*-7/15, *TS*-5/14, *RV*-34/78, *TB*-1/4, *AV*-6/13, *SB-M*-3/4, *SB-K*-2/6, *VS-M*-2/13, *VS-K*-2/12)
+- सु᳓-मखाय (*MS*-1, *RV*-4/8, *VS-M*-0/1, *VS-K*-0/1)
+- म᳓ह्यम् (*MS*-25/641, *TS*-19/565, *RV*-35/1308, *TB*-7/270, *TK*-0/66, *AV*-47/1252, *SB-M*-16/723, *SB-K*-19/728, *VS-M*-11/315, *VS-K*-8/274)
+- सङ्ख्ये (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- संखायस्तन्वेृ (मूल-पाठः)
+- तनू᳓भिः (*MS*-9/76, *TS*-4/70, *RV*-9/54, *TB*-0/22, *AV*-5/27, *SB-M*-4/60, *SB-K*-3/53, *VS-M*-5/26, *VS-K*-3/42)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -269,6 +297,13 @@ The final pāda of this vs. brings the vocabulary into reciprocal alignment and 
 
 Now, O ye Maruts, hath your praise rejoiced me, the glorious hymn which ye have made me, Heroes!  
      For me, for Indra, champion strong in battle, for me, yourselves, as lovers for a lover.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever I stir up, Indra alone rules over them.  
+The hymn has gladdened me here, O Maruts, that you, O men, have made an audible sacred word for me,  
+for Indra, the bull, the joyous, for me the friend, friends with your own bodies for [my] body.
 </details>
 
 <details><summary>Geldner</summary>

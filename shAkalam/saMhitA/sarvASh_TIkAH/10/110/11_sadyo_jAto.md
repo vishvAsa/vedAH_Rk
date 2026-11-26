@@ -109,6 +109,12 @@ svā́hākr̥tam ← svā́hākr̥ta- (nominal stem)
 स्वाहा॑कृतँ ह॒विर॑दन्तु दे॒वाः ॥10॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सद्यो᳓ जातो᳓ व्यृमिमीत यज्ञ᳓मग्नि᳓र्देवा᳓नामभवत्पुरोगाः᳓।  
+अस्य᳓ हो᳓तुः प्रदि᳓श्यृत᳓स्य वाचि᳓ स्वा᳓हाकृतँ हवि᳓रदन्तु देवाः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒द्यः । जा॒तः । वि । अ॒मि॒मी॒त॒ । य॒ज्ञम् । अ॒ग्निः । दे॒वाना॑म् । अ॒भ॒व॒त् । पु॒रः॒ऽगाः ।  
@@ -128,6 +134,28 @@ svā́hākr̥tam ← svā́hākr̥ta- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 सद्यः᳓ । जातः᳓ । वि । अमिमीत । यज्ञ᳓म् । अग्निः᳓ । देवा᳓नाम् । अभवत् । पुरः-गाः᳓ । अस्य᳓ । हो᳓तुः । प्र-दि᳓शि । ऋत᳓स्य । वाचि᳓ । स्वा᳓हा-कृतम् । हविः᳓ । अदन्तु । देवाः᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सद्यः᳓ (*MS*-10, *TS*-11, *RV*-78, *TB*-10, *AV*-21, *SB-M*-9, *SB-K*-8, *VS-M*-9, *VS-K*-8)
+- जातः᳓ (*MS*-26/57, *TS*-24/65, *RV*-53/144, *TB*-5/22, *TK*-0/4, *AV*-30/95, *SB-M*-39/84, *SB-K*-39/82, *VS-M*-22/37, *VS-K*-21/37)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *MS*-130)
+- अमिमीत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-8, *RV*-5, *TB*-11, *AV*-3, *SB-M*-39, *SB-K*-38, *VS-M*-2, *VS-K*-3)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- देवा᳓नाम् (*MS*-211/1218, *TS*-184/1282, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/531, *VS-K*-68/532)
+- अभवत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-98, *TS*-81, *RV*-43, *TB*-87, *TK*-17, *AV*-50, *SB-M*-188, *SB-K*-196, *VS-M*-11, *VS-K*-9)
+- पुरः-गाः᳓ (*TS*-2/3, *RV*-3, *TB*-2, *AV*-1, *SB-K*-3, *VS-M*-3, *VS-K*-1, *MS*-3)
+- अस्य᳓ (*MS*-37/1379, *TS*-34/965, *RV*-188/1247, *TB*-18/567, *TK*-0/57, *AV*-64/1259, *SB-M*-475/5239, *SB-K*-674/5549, *VS-M*-27/319, *VS-K*-18/301)
+- हो᳓तुः (*MS*-7/112, *TS*-1/63, *RV*-8/244, *TB*-15/136, *TK*-1/8, *AV*-2/28, *SB-M*-15/211, *SB-K*-14/211, *VS-M*-3/73, *VS-K*-2/60)
+- प्र-दि᳓शि (*MS*-1/18, *TS*-1/15, *RV*-2/19, *TB*-1/6, *AV*-4/52, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-1/16, *VS-K*-1/19)
+- ऋत᳓स्य (*MS*-29/93, *TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-21/45)
+- वाचि᳓ (*MS*-5, *TS*-9, *RV*-3, *TB*-1, *TK*-1, *AV*-1, *SB-M*-19, *SB-K*-18, *VS-M*-2, *VS-K*-2)
+- स्वा᳓हा-कृतम् (*MS*-2/4, *TS*-4/8, *RV*-2/5, *TB*-3/4, *AV*-1/2, *SB-M*-1/8, *SB-K*-6/12, *VS-M*-2/7, *VS-K*-2/7)
+- हविः᳓ (*MS*-95/213, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-26/101)
+- अदन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-2, *TB*-1, *AV*-4, *VS-M*-2, *VS-K*-2)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -354,6 +382,15 @@ _________
 इति तैत्तिरीये ब्राह्मणे तृतीये षष्ठे पशुहौत्रे तृतीयोऽनुवाकः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[241_10]** Der Accent in diesem Wort hinzugesetzt; T1 und Brl bieten dasselbe ohne Accent. (The accent in this word added; T1 and Brl offer the same without accent.)
+
+- **[241_11]** Brl पुरोगः᳓
+
+**समानान्तराणि:** cf. Mâitr. S. 4, 13, 3.
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 कैसा मनुष्य सब को आनन्द कराता है, इस विषय को अगले मन्त्र में कहा है।
@@ -407,6 +444,12 @@ At the direction of this Hotar, at his word of truth, let the gods eat the  obla
 
 Agni, as soon as he was born, made ready the sacrifice, and was the Gods' preceder.  
      May the Gods cat our offering consecrated according to this true Priest's voice and guidance.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As soon as born, he measured out the sacrifice; Agni became the leader of the gods.  
+At the command of this Hotṛ, at the speech of cosmic order, let the gods eat the oblation offered with Svāhā!
 </details>
 
 <details><summary>Geldner</summary>

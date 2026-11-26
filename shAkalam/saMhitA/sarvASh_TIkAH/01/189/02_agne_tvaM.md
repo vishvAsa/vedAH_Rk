@@ -319,6 +319,12 @@ Be a broad, thick, wide fortress for us,
 Health and wealth for our children and descendants.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, as one ever new, take us across all difficulties with well-being;  
+and be a broad, thick, wide stronghold for us; for offspring, for descendants, [bring] welfare and blessing.
+</details>
+
 <details><summary>त्रिभुवनः</summary>
 
 O fire, worth praising, make us across all the difficulties by protections; may the village be vast, much broad for us; be wealful for our sons and grandsons.

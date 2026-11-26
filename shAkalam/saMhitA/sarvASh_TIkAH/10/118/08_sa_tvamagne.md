@@ -66,6 +66,12 @@ urukṣáyeṣu ← urukṣáya- (nominal stem)
 उ॒रु॒क्षये॑षु॒ दीद्य॑त् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स᳓ त्व᳓मग्ने प्र᳓तीकेन प्र᳓त्योष यातुधान्यृः।  
+उरुक्ष᳓येषु दी᳓द्यत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । त्वम् । अ॒ग्ने॒ । प्रती॑केन । प्रति॑ । ओ॒ष॒ । या॒तु॒ऽधा॒न्यः॑ ।  
@@ -75,6 +81,21 @@ urukṣáyeṣu ← urukṣáya- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 सः । त्वम् । अ॒ग्ने॒ । प्रती॑केन । प्रतीति॑ । ओ॒ष॒ । या॒तु॒धा॒न्य॑ इति॑ यातु-धा॒न्यः॑ ॥ उ॒रु॒क्षये॒ष्वित्यु॑रु-क्षये॑षु । दीद्य॑त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- प्र᳓तीकेन (*TS*-1, *RV*-1, *SB-M*-2, *SB-K*-2)
+- प्र᳓ति (*MS*-265, *TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-1)
+- ओष (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *AV*-1, *SB-K*-1)
+- यात् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-1, *MS*-2)
+- उधा (मूल-पाठः)
+- न्यृः (मूल-पाठः)
+- उरु-क्ष᳓येषु (*TS*-1/2, *RV*-1/3)
+- दी᳓द्यत् (*MS*-4/5, *TS*-2, *RV*-7/8, *TB*-0/1, *AV*-0/1, *SB-M*-0/3, *SB-K*-0/2, *VS-M*-1/2, *VS-K*-1/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -174,6 +195,12 @@ So, Agni, with thy glowing face burn fierce against the female fiends,
 <details><summary>Keith</summary>
 
 Agni, with thy front, Burn the sorceresses, Shining in the broad dwellings.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+So do you, O Agni, with your face burn back the sorceresses,  
+shining among the wide dwellings.
 </details>
 
 <details><summary>Geldner</summary>

@@ -191,6 +191,12 @@ Agni, the perfect sacrifice which thou encompassest about
    Verily goeth to the Gods.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, whatever sacrifice, the rite, you encompass on all sides,  
+that indeed goes to the gods.
+</details>
+
 <details><summary>Oldenberg</summary>
 
 Agni, whatever sacrifice and worship 1 thou encompassest on every side, that indeed goes to the gods.

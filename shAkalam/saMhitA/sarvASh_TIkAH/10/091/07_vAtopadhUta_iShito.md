@@ -98,10 +98,40 @@ dhákṣataḥ ← √dah- (root)
 आ ते॑ यतन्ते र॒थ्यो॒३॒॑ यथा॒ पृथ॒क्छर्धां॑स्यग्ने अ॒जरा॑णि॒ धक्ष॑तः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वा᳓तोपधूत इषितो᳓ व᳓शं अ᳓नु त्रिषु᳓ य᳓द् अ᳓न्ना वे᳓विषद् विति᳓ष्ठसे  
+आ᳓ ते यतन्ते रथ्यो᳙ य᳓था पृ᳓थक् श᳓र्धाँस्य् अग्ने अज᳓राणि ध᳓क्षतः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वात॑ऽउपधूतः । इ॒षि॒तः । वशा॑न् । अनु॑ । तृ॒षु । यत् । अन्ना॑ । वेवि॑षत् । वि॒ऽतिष्ठ॑से ।  
 आ । ते॒ । य॒त॒न्ते॒ । र॒थ्यः॑ । यथा॑ । पृथ॑क् । शर्धां॑सि । अ॒ग्ने॒ । अ॒जरा॑णि । धक्ष॑तः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वा᳓तोपधूतः (*MW*)
+- इषितः᳓ (*TS*-1/3, *RV*-20/26, *TB*-3/5, *AV*-8/13, *SB-M*-2/4, *SB-K*-2/5, *VS-M*-5, *VS-K*-5, *KS*-2)
+- व᳓शम् (*TS*-3/63, *RV*-9/22, *TB*-0/6, *TK*-1/2, *AV*-6/81, *SB-M*-6/39, *SB-K*-7/30, *VS-M*-0/8, *VS-K*-0/8, *KS*-0/17)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-108, *KS*-96)
+- त्रिषु᳓ (*TS*-2/235, *RV*-10/156, *TB*-1/101, *TK*-1/17, *AV*-5/86, *SB-M*-8/420, *SB-K*-9/388, *VS-M*-5/46, *VS-K*-5/45, *KS*-1/32)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- अ᳓न्ना (*TS*-0/201, *RV*-10/48, *TB*-1/95, *TK*-0/5, *AV*-1/58, *SB-M*-7/751, *SB-K*-5/797, *VS-M*-2/16, *VS-K*-3/20, *KS*-1/28)
+- वे᳓विषत् (*RV*-4/5, *AV*-1)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *KS*-33)
+- ति᳓ष्ठसे (*RV*-0/1, *SB-M*-0/5, *SB-K*-0/4, *KS*-0/1)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- यतन्ते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-5, *AV*-1, *VS-M*-1, *VS-K*-1)
+- रथ्यः᳙ (*RV*-23, *TB*-1, *VS-M*-1, *VS-K*-1)
+- य᳓था (*TS*-123, *RV*-238, *TB*-59, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-683, *VS-M*-27, *VS-K*-24, *KS*-37)
+- पृ᳓थक् (*TS*-3, *RV*-14, *TB*-5, *AV*-17, *SB-M*-22, *SB-K*-21, *VS-M*-11, *VS-K*-8, *KS*-4)
+- श᳓र्धांसि (*TS*-0/5, *RV*-2/34, *TK*-0/1, *AV*-0/4, *VS-M*-0/2, *VS-K*-0/3, *KS*-0/2)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- अज᳓राणि (*TS*-0/11, *RV*-1/62, *TB*-0/4, *AV*-0/17, *SB-M*-0/11, *SB-K*-0/11, *VS-M*-0/5, *VS-K*-0/5, *KS*-0/9)
+- ध᳓क्षतः (*RV*-1/3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -257,6 +287,12 @@ charioteers, as you go burning, Agni.
 
 When, sped and urged by wind, thou spreadest thee abroad, swift piercing through thy food according to thy will,  
      Thy never-ceasing blazes, longing to consume, like men on chariots, Agni, strive on every side.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Blown upon by the wind, impelled according to thy will, when entering the foods in the three [worlds] thou spreadest abroad,  
+thy unaging troops of thee as thou burnest strive apart like charioteers, O Agni.
 </details>
 
 <details><summary>Geldner</summary>

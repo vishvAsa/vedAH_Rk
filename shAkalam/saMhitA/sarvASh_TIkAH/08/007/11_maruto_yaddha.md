@@ -204,6 +204,12 @@ We call on you from the sky,
 Do ye come unto us [4].
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+When indeed, seeking favour, we call you, O Maruts, from heaven,  
+then come near to us!
+</details>
+
 <details><summary>Geldner</summary>
 
 Ihr Marut, wenn wir euch vom Himmel rufen, um Wohlwollen bittend, so kommet doch her, ihr Marut!

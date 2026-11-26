@@ -72,6 +72,12 @@ tatantha ← √tan- (root)
 बृ॒हत्त॑तन्थ भा॒नुना॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स प्रत्नवन्नवीयसाग्ने द्युम्नेन संयता।  
+बृहत्ततन्थ भानुना
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । प्र॒त्न॒ऽवत् । नवी॑यसा । अग्ने॑ । द्यु॒म्नेन॑ । स॒म्ऽयता॑ ।  
@@ -81,6 +87,19 @@ tatantha ← √tan- (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 सः । प्र॒त्न॒वदिति॑ प्रत्न-वत् । नवी॑यसा । अग्ने॑ । द्यु॒म्नेन॑ । सय्ँ॒यतेति॑ सम्-यता॑ ॥ बृ॒हत् । त॒त॒न्थ॒ । भा॒नुना॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- प्रत्नव᳓त् (*TS*-2, *RV*-8, *TB*-1, *AV*-1)
+- न᳓वीयसा (*MS*-0/1, *TS*-1, *RV*-3/27, *TB*-1, *AV*-0/6)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- द्युम्ने᳓न (*MS*-2/18, *TS*-2/13, *RV*-6/61, *TB*-2/6, *TK*-0/1, *AV*-0/12, *SB-M*-1/11, *SB-K*-2/10, *VS-M*-1/12, *VS-K*-1/19)
+- सम्-य᳓ता (*TS*-1/7, *RV*-2/14, *TB*-1/2, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-0/1, *MS*-0/2)
+- बृह᳓त् (*MS*-33/39, *TS*-57/69, *RV*-151/156, *TB*-32/33, *AV*-43, *SB-M*-31/36, *SB-K*-30/35, *VS-M*-27/28, *VS-K*-25/32)
+- ततन्थ (समानान्तर-पाठः (TS), *TS*-2, *RV*-6, *TB*-1, *SB-M*-1, *VS-M*-3, *VS-K*-1)
+- भानु᳓ना (*MS*-4/15, *TS*-8/16, *RV*-24/64, *TB*-3/4, *AV*-2/6, *SB-M*-7/12, *SB-K*-7/12, *VS-M*-7/11, *VS-K*-7/13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -168,6 +187,11 @@ _________
 हेग्ने स त्वं प्रत्नवत्पुराणार्हम् । यद्वा - प्रागिव । यद्वा - पुरातनेनेव नवीयसा नवतरेण द्युम्नेन यशसा धनेन वा संयता त्वमेव सङ्गच्छता । 'शतुरनुमः' इति व्यत्ययेन न प्रवर्तते । यद्वा - त्वयैव संयता धनेन । यमेः क्विपि अनुनासिकलोपे तुक्, 'कृदुत्तरपदप्रकृतिस्वरत्वम् । संयतशब्दादेव तृतीयाया आकारः । 'परादिश्छन्दसि' इत्युत्तरपदाद्युदात्तत्वम् । ईदृशेन द्युम्नेन भानुना भासनशीलेन बृहत् महदिदं विश्वं ततन्थ विस्तारय । छान्दसो लिट् । यद्वा - विश्वं बृहत् भृशं ततन्थ तथा कुर्वंश्चास्माकं हिरण्यलाभहेतुर्भवेति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[314_4]** So corr. Ch **संयतः**; cf. RV 6,16, 21 = Corr. (Thus emended; Ch reads संयतः; cf. RV 6,16, 21, which agrees with the emendation.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -191,6 +215,12 @@ Thou, Agni, as in days of old, with recent glory, gathered light,
 <details><summary>Keith</summary>
 
 Thou from of old with thy new glory, O Agni, with thy companion light, Hast mightily outstretched.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thou, O Agni, like an ancient one, united with newer splendour,  
+hast stretched out loftily with light.
 </details>
 
 <details><summary>Geldner</summary>

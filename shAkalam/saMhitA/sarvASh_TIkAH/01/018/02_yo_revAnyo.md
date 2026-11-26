@@ -329,6 +329,12 @@ The rich, the healer of disease, who giveth wealth, increaseth store,
      The prompt,--may he be with us still.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who is rich, who is the slayer of disease, the finder of goods, the increaser of prosperity,  
+who is swift—may he accompany us.
+</details>
+
 <details><summary>Geldner</summary>
 
 Er, der Reiche, der Krankheitsvertreiber, der Schätzefinder, der Wohlstandmehrer soll mit uns sein, der Überlegene.

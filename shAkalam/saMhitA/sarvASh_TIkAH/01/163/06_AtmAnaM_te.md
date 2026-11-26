@@ -107,6 +107,12 @@ patatrí ← patatrín- (nominal stem)
 शिरो॑ अपश्यम्प॒थिभि॑स्सु॒गेभि॑ररे॒णुभि॒र्जेह॑मानम्पत॒त्रि ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आत्मानं ते मनसारादजानामवो दिवा पतयन्तं पतङ्गम्।  
+शिरो अपश्यं पथिभिस्सुगेभिररेणुभिर्जेहमानं पतत्रि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ॒त्मान॑म् । ते॒ । मन॑सा । आ॒रात् । अ॒जा॒ना॒म् । अ॒वः । दि॒वा । प॒तय॑न्तम् । प॒त॒ङ्गम् ।  
@@ -126,6 +132,26 @@ patatrí ← patatrín- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 आ॒त्मान॑म् । ते॒ । मन॑सा । आ॒रात् । अ॒जा॒ना॒म् । अ॒वः । दि॒वा । प॒तय॑न्तम् । प॒त॒ङ्गम् ॥ शिरः॑ । अ॒प॒श्य॒म् । प॒थिभि॒रिति॑ प॒थि-भिः॒ । सु॒गेभि॒रिति॑ सु-गेभिः॑ । अ॒रे॒णुभि॒रित्य॑रे॒णु-भिः॒ । जेह॑मानम् । प॒त॒त्रि ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आत्मा᳓नम् (*MS*-69/194, *TS*-54/167, *RV*-4/20, *TB*-19/78, *TK*-4/10, *AV*-22/62, *SB-M*-268/1009, *SB-K*-251/1051, *VS-M*-8/22, *VS-K*-7/17)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- म᳓नसा (*MS*-63/147, *TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78)
+- आरा᳓त् (*MS*-3, *TS*-3, *RV*-14, *TB*-2, *AV*-16, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- अजानाम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- अवः᳓ (*TS*-1, *RV*-12, *AV*-6, *VS-M*-1, *VS-K*-1, *MS*-1)
+- दिवा᳓ (*MW* ŚBr., *MS*-5, *TS*-5, *RV*-10, *TK*-1, *AV*-6, *SB-M*-5, *SB-K*-5, *VS-M*-5, *VS-K*-9)
+- पत᳓यन्तम् (*MS*-0/1, *TS*-1, *RV*-3/11, *AV*-3/4, *VS-M*-1, *VS-K*-1)
+- पतङ्ग᳓म् (*MS*-0/2, *TS*-1/3, *RV*-2/8, *AV*-0/2, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-1/3)
+- शि᳓रः (*MS*-50, *TS*-39/43, *RV*-25, *TB*-28, *TK*-5, *AV*-36, *SB-M*-233/234, *SB-K*-236/250, *VS-M*-13, *VS-K*-11)
+- अपश्यम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-27, *TS*-3, *RV*-12, *TB*-13, *AV*-3, *SB-M*-72, *SB-K*-2, *VS-M*-3, *VS-K*-3)
+- पथि᳓भिः (*MS*-8/60, *TS*-10/72, *RV*-28/149, *TB*-6/22, *AV*-14/76, *SB-M*-5/46, *SB-K*-5/52, *VS-M*-14/38, *VS-K*-11/35)
+- सु-गे᳓भिः (*MS*-0/5, *TS*-3/6, *RV*-8/34, *TB*-2/5, *AV*-0/7, *SB-M*-1/2, *SB-K*-1/3, *VS-M*-5/6, *VS-K*-4/6)
+- अरेणु᳓भिः (*MS*-0/1, *TS*-1/2, *RV*-2/8, *VS-M*-1/2, *VS-K*-1/3)
+- जे᳓हमानम् (*TS*-1, *RV*-2/4, *TB*-0/1, *AV*-0/1, *VS-M*-1, *VS-K*-1, *MS*-0/1)
+- पतत्रि᳓ (*MS*-0/1, *TS*-1/2, *RV*-4/7, *TB*-0/2, *AV*-0/1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -369,6 +395,13 @@ _________
 ईदृशवेगवानश्व इति स्तुतिः।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[639_9]** So corr. Ch. अपश्यत्पथि॰ ; vgl. RV 1, 163, 6; TS 4, 6, 7, 3; VS 29, 17. (Thus emended; Ch reads अपश्यत्पथि॰; cf. RV 1, 163, 6; TS 4, 6, 7, 3; VS 29, 17.)
+
+- **[639_10]** So corr. Ch रेणभि; vgl. RV 1, 163, 6. (Thus emended; Ch reads रेणभि; cf. RV 1, 163, 6)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 यानरचना से क्या करना चाहिए, इस विषय को अगले मन्त्र में कहा है ॥
@@ -439,6 +472,13 @@ Thyself from far I recognized in spirit,--a Bird that from below flew through th
 
 The self of thee with my mind I perceived from afar, Flying with wings from below through the sky [2]; Thy head I saw speeding with wings  
 On paths fair and dustless.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When you neighed...;  
+From afar I recognized your soul with my mind, the bird flying downward from heaven;  
+I saw your head fluttering on dustless paths, easy to traverse, as a winged creature.
 </details>
 
 <details><summary>Geldner</summary>

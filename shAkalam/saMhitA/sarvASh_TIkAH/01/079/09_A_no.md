@@ -73,6 +73,12 @@ mārḍīkám ← mārḍīká- (nominal stem)
 मा॒र्डी॒कन्धे॑हि जी॒वसे॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓ नो अग्ने सुचेतु᳓ना रयिं᳓ विश्वा᳓युपोषसम्।  
+मार्डीकं᳓ धेहि जीव᳓से
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । नः॒ । अ॒ग्ने॒ । सु॒ऽचे॒तुना॑ । र॒यिम् । वि॒श्वायु॑ऽपोषसम् ।  
@@ -82,6 +88,20 @@ mārḍīkám ← mārḍīká- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 आ᳓ । न । उ । अग्ने । सु-केतु᳓ना । रयि᳓म् । विश्वा᳓यु-पोषसम् । मार्डीक᳓म् । धेहि । जीव᳓से ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- न (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-92, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- सु-चेतु᳓ना (*MS*-1/2, *RV*-6/7)
+- रयि᳓म् (*MS*-51/71, *TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37)
+- विश्वा᳓यु-पोषसम् (*MS*-1, *RV*-2, *TB*-1)
+- मार्डीक᳓म् (*MS*-1, *RV*-3/5, *TB*-1)
+- धेहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-50, *TS*-34, *RV*-63, *TB*-26, *TK*-1, *AV*-91, *SB-M*-27, *SB-K*-21, *VS-M*-30, *VS-K*-19)
+- जीव᳓से (*MS*-14/16, *TS*-6/7, *RV*-52/60, *TB*-7/9, *TK*-0/1, *AV*-9/14, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-5, *VS-K*-5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -191,6 +211,12 @@ I supply bhara from 8a; giving the matching verse openings, ā́no, and the same
 
 Give us, O Agni, through thy grace wealth that supporteth all our life,  
      Thy favour so that we may live.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring to us with good insight, O Agni, wealth supporting all life,  
+[and] mercy, that we may live.
 </details>
 
 <details><summary>Oldenberg</summary>

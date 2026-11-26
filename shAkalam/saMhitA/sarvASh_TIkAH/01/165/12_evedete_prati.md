@@ -98,10 +98,39 @@ nūnám ← nūnám (invariable)
 सं॒चक्ष्या॑ मरुतश्च॒न्द्रव॑र्णा॒ अच्छा॑न्त मे छ॒दया॑था च नू॒नम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+एवे᳓देते᳓ प्र᳓ति मा रो᳓चमाना अ᳓नेद्यश्श्र᳓व ए᳓षो द᳓धानाः।  
+सञ्च᳓क्ष्या मरुतश्चन्द्र᳓वर्णा अ᳓च्छान्त मे छद᳓याथा च नून᳓म्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ए॒व । इत् । ए॒ते । प्रति॑ । मा॒ । रोच॑मानाः । अने॑द्यः । श्रवः॑ । आ । इषः॑ । दधा॑नाः ।  
 स॒म्ऽचक्ष्य॑ । म॒रु॒तः॒ । च॒न्द्रऽव॑र्णाः । अच्छा॑न्त । मे॒ । छ॒दया॑थ । च॒ । नू॒नम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- एव᳓ (*MS*-2376, *TS*-3243, *RV*-173, *TB*-1830, *TK*-77, *AV*-335, *SB-M*-9571, *SB-K*-8573, *VS-M*-24, *VS-K*-14)
+- इत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-77, *TB*-27, *TK*-4, *MS*-31)
+- एते᳓ (*MS*-149/2587, *TS*-102/1673, *RV*-57/320, *TB*-52/858, *TK*-11/130, *AV*-13/340, *SB-M*-483/11086, *SB-K*-487/10669, *VS-M*-3/129, *VS-K*-3/104)
+- प्र᳓ति (*MS*-265, *TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-1)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- रो᳓चमानाः (*MS*-2/6, *TS*-0/1, *RV*-4/12, *TB*-0/3, *TK*-0/3, *AV*-0/6)
+- अ᳓नेद्यः (*MS*-1, *RV*-3/4)
+- श्र᳓वः (*MS*-10/16, *TS*-6/9, *RV*-87/145, *TB*-3/4, *AV*-11/12, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-4/8)
+- ए᳓षः (*MS*-2/192, *TS*-1/142, *RV*-0/42, *TB*-1/65, *TK*-0/4, *AV*-0/43, *SB-M*-4/604, *SB-K*-31/607, *VS-M*-0/11, *VS-K*-0/7)
+- द᳓धानाः (*MS*-6/10, *TS*-3/5, *RV*-31/68, *TB*-2/4, *AV*-11/18, *SB-M*-1, *SB-K*-1, *VS-M*-6/7, *VS-K*-6/7)
+- सञ्च᳓क्ष्या (*MS*-1)
+- मरुतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-23, *TS*-17, *RV*-152, *TB*-9, *AV*-18, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2)
+- चन्द्र᳓-वर्णाः (*MS*-1, *RV*-1)
+- अ᳓च्छान्त (*RV*-1)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *MS*-506, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-332)
+- छद᳓य (*MS*-1, मूल-पाठः)
+- अथा (*TB*-1, *MS*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- नून᳓म् (*MS*-9, *TS*-5, *RV*-104, *TB*-4, *AV*-13, *SB-M*-8, *SB-K*-8, *VS-M*-12, *VS-K*-5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -237,6 +266,15 @@ _________
 हे मरुतः **एवेत्** एवमेव **एते** यूयं **मा** मां **प्रति** **रोचमानाः** मद्विषये संप्रीयमाणा मां ख्यापयन्तो वा **अनेद्यः** अनन्तिकस्थं **श्रवः** कीर्तिम् **इषः** च दधानाः । **आ** इति चार्थे । यद्वा । अनेद्य इति प्रशस्यनाम । प्रशस्यं यशोऽस्मत्तो दधाना अस्माभिर्वा धारयमाणाः । **चन्द्रवर्णाः** ॥ चन्द्रमिति हिरण्यनाम । सुवर्णवर्णा यूयं **मे** मां **संचक्ष्य** सम्यक्प्रकाश्य **नूनं** निश्चयम् **अच्छान्त** यशोभिराच्छादितवन्तः **छदयाथ** आच्छादयथ **च** । मां प्रति सर्वदा रोचमाना मय्येव कीर्तिमन्नं च दधाना मत्कृतैः कर्मभिर्मामेव स्तुतेत्यर्थः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[123_8]** So corr. Brl एवे᳓दे᳓ते (Thus emended Brl एवे᳓दे᳓ते)
+
+- **[123_9]** Brl दधानः; desgl. W 1, ohne Accent. (Brl दधानः; likewise W 1, without accent.)
+
+- **[123_10]** So D, nur ohne Accent; Brl und T7 च्छद᳓यथा; desgl. W 1, ohne Accent; Ch श्छदयथा (Thus D, only without accent; Brl and T7 read च्छद᳓यथा; likewise W 1, without accent; Ch reads श्छदयथा)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -268,6 +306,12 @@ Note the pāda-final nūnám, reminiscent of nú in 5c and 9a.
 
 Here, truly, they send forth their sheen to meet me, wearing their blameless glory and their vigour.  
      When I have seen you, Maruts, in gay splendour, ye have delighted me, so now delight me.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even so, shining toward me, bestowing blameless fame and food,  
+visible, golden-colored, the Maruts have pleased me, and you will surely please me now.
 </details>
 
 <details><summary>Geldner</summary>

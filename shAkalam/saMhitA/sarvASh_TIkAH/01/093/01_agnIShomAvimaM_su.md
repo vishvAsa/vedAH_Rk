@@ -80,10 +80,33 @@ máyaḥ ← máyas- (nominal stem)
 प्रति॑ सू॒क्तानि॑ हर्यतं॒ भव॑तं दा॒शुषे॒ मयः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ग्नीषोमा इमँ᳓ सु᳓ मे शृणुतँ᳓ वृषणा ह᳓वम्  
+प्र᳓ति सूक्ता᳓नि हर्यतं भ᳓वतं दाशु᳓षे म᳓यः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्नी॑षोमौ । इ॒मम् । सु । मे॒ । शृ॒णु॒तम् । वृ॒ष॒णा॒ । हव॑म् ।  
 प्रति॑ । सु॒ऽउ॒क्तानि॑ । ह॒र्य॒त॒म् । भव॑तम् । दा॒शुषे॑ । मयः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ग्नी-सोमाः (*TS*-0/6, *TB*-0/5, *KS*-2/4)
+- इम᳓म् (*TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/313, *VS-K*-51/289, *KS*-38/319)
+- सु᳓ (*TS*-24, *RV*-265, *TB*-7, *AV*-42, *SB-M*-15, *SB-K*-31, *VS-M*-18, *VS-K*-18, *KS*-24)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-331, *KS*-356)
+- शृणुत᳓म् (*TS*-1/2, *RV*-8, *AV*-1, *KS*-1)
+- वृषणा (*TS*-3, *RV*-39, *TB*-2, *AV*-4, *VS-M*-2, *VS-K*-1, *KS*-2)
+- ह᳓वम् (*TS*-11/17, *RV*-101/124, *TB*-3/5, *AV*-16/22, *SB-M*-5/7, *SB-K*-7/8, *VS-M*-9/13, *VS-K*-7/9, *KS*-5/6)
+- प्र᳓ति (*TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-18, *KS*-58)
+- सूक्ता᳓नि (*TS*-2/6, *RV*-0/2, *TB*-0/1, *SB-M*-0/3, *SB-K*-0/3, *VS-K*-0/1, *KS*-1/5)
+- हर्यतम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *TB*-1, *AV*-1, *KS*-1)
+- भ᳓वतम् (*TS*-4/143, *RV*-3/15, *TB*-0/60, *AV*-5/16, *SB-M*-2/695, *SB-K*-2/668, *VS-M*-4, *VS-K*-3/6, *KS*-1/31)
+- दाशु᳓षे (*TS*-16/18, *RV*-116/139, *TB*-6, *AV*-20/21, *SB-M*-6/7, *SB-K*-6/7, *VS-M*-8/12, *VS-K*-6/12, *KS*-14/16)
+- म᳓यः (*TS*-4/5, *RV*-18, *TB*-3, *AV*-5, *SB-M*-3, *SB-K*-6, *VS-M*-5, *VS-K*-6/7, *KS*-9)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -203,6 +226,12 @@ BR corrected sám mahema to sám ahema ‘we would bind together’ to √nah, a
 
 AGNI and Soma, mighty Pair, graciously hearken to my call,  
      Accept in friendly wise my hymn, and prosper him who offers gifts.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni and Soma, listen well to this invocation of mine, O bulls;  
+take pleasure in the well-spoken words; become comfort to the offerer.
 </details>
 
 <details><summary>Geldner</summary>

@@ -104,6 +104,12 @@ rákṣa ← √rakṣⁱ- (root)
 पू॒षा न॑ᳶ पातु दुरि॒तादृ॑तावृधो॒ रक्षा॒ माकि॑र्नो अ॒घशँ॑स ईशत ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ब्राह्मणासः पितरस्मोम्यासश्शिवे नो द्यावापृथिवी अनेहसा।  
+पूषा नः पातु दुरितादृतावृधो रक्षा माकिर्नो अघशँस ईशत
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ब्राह्म॑णासः । पित॑रः । सोम्या॑सः । शि॒वे इति॑ । नः॒ । द्यावा॑पृथि॒वी इति॑ । अ॒ने॒हसा॑ ।  
@@ -113,6 +119,28 @@ rákṣa ← √rakṣⁱ- (root)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ब्रा॒ह्म॑णासः। पित॑रः। सोम्यासः॑। शि॒वेऽइति॑ शि॒वे। नः॒। द्यावा॑पृथि॒वीऽइति॒ द्यावा॑पृथि॒वी। अ॒ने॒हसा॑। पू॒षा। नः॒। पा॒तु॒। दु॒रि॒तादिति॑ दुःऽइ॒तात् ऋ॒ता॒वृ॒धः॒। ऋ॒त॒वृध॒ इत्यृ॑तऽवृधः। रक्ष॑। माकिः॑। न॒। अ॒घशँ॑स॒ इत्य॒घऽशँ॑सः। ई॒श॒त॒। ४७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ब्रा᳓ह्मणासः (*MS*-1/3, *TS*-1/4, *RV*-1/3, *TB*-0/1, *TK*-0/2, *AV*-0/12, *SB-M*-0/36, *SB-K*-0/25)
+- पि᳓तरः (*MS*-3, *TS*-3, *RV*-1, *TB*-2, *AV*-4, *SB-M*-3/6, *SB-K*-2/3, *VS-M*-2, *VS-K*-1)
+- सोम्या᳓सः (*MS*-3/9, *TS*-3, *RV*-4/47, *TB*-2/6, *AV*-6/17, *VS-M*-8/13, *VS-K*-7/12)
+- शिवे᳓ (*MS*-3/68, *TS*-1/59, *RV*-1/50, *TB*-5/26, *TK*-0/1, *AV*-11/83, *SB-M*-3/52, *SB-K*-2/49, *VS-M*-1/53, *VS-K*-1/49)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- द्या᳓वा-पृथिवी᳓ (*MS*-61/70, *TS*-43/52, *RV*-65, *TB*-26/29, *AV*-63/68, *SB-M*-64/88, *SB-K*-42/63, *VS-M*-37/46, *VS-K*-29/37)
+- अनेह᳓सा (*MS*-0/3, *TS*-1/3, *RV*-2/39, *AV*-0/2, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/3, *VS-K*-0/3)
+- पूषा᳓ (*MS*-79/130, *TS*-36/70, *RV*-53/86, *TB*-21/35, *TK*-1, *AV*-19/24, *SB-M*-45/84, *SB-K*-46/85, *VS-M*-15/51, *VS-K*-15/47)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- पातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-42, *TS*-34, *RV*-34, *TB*-2, *TK*-1, *AV*-56, *SB-M*-16, *SB-K*-7, *VS-M*-20, *VS-K*-15)
+- दुः-इता᳓त् (*MS*-2/5, *TS*-2/3, *RV*-9/26, *TB*-0/2, *AV*-9/32, *SB-M*-2, *SB-K*-1, *VS-M*-1/2, *VS-K*-0/1)
+- ऋत-वृधः (समानान्तर-पाठः (RV), *RV*-1, *MS*-2)
+- र᳓क्षा (*MS*-6/38, *TS*-2/21, *RV*-0/20, *TB*-2/10, *AV*-0/26, *SB-M*-2/25, *SB-K*-2/23, *VS-M*-1/17, *VS-K*-1/12)
+- मा᳓किः (*MS*-3, *TS*-4, *RV*-14, *TB*-1, *AV*-2, *VS-M*-2, *VS-K*-3)
+- न (समानान्तर-पाठः (RV), *MS*-92, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- अघ᳓-शंसः (*MS*-5/7, *TS*-4/5, *RV*-7/15, *TB*-2, *AV*-3/6, *SB-M*-2, *SB-K*-1, *VS-M*-6, *VS-K*-3)
+- ईशत (समानान्तर-पाठः (RV), *MS*-3, *TS*-3, *RV*-13, *TB*-2, *AV*-5, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -319,6 +347,13 @@ _________
 नोऽस्माक मघशंसः पापशंसनपरा निन्दका माकिरीशत निन्दितुं समर्था मा भूवन् ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[637_5]** So corr. Ch माकिन्नो; vgl. RV 6, 75, 10. (Thus emended; Ch reads माकिन्नो; cf. RV 6, 75, 10)
+
+- **[637_6]** So corr. Ch ईषत (Thus emended; Ch reads ईषत)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 किनका सत्कार करना चाहिए, इस विषय को अगले मन्त्र में कहा है ॥
@@ -404,6 +439,12 @@ There may the arrows accord us protection.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 The Brâhmans, and the Fathers meet for Soma draughts, and, graciously inclined, unequalled Heaven and Earth. Guard us from evil, Pûshan! guard us strengtheners of Law! let not the evil-wisher master us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the brāhmaṇa Fathers, worthy of soma, auspicious to us Heaven and Earth, blameless.  
+May Pūṣan protect us from misfortune, increasers of order, protect! Let no ill-spoken one master us!
 </details>
 
 <details><summary>Geldner</summary>

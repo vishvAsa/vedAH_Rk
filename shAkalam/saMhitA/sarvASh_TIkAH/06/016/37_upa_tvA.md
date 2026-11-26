@@ -63,10 +63,28 @@ sasr̥jmáhe ← √sr̥j- (root)
 अग्ने॑ ससृ॒ज्महे॒ गिरः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+उ᳓प त्वा रण्व᳓सन्दृशं प्र᳓यस्वन्तस्सहस्कृत।  
+अ᳓ग्ने ससृज्म᳓हे गि᳓रः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उप॑ । त्वा॒ । र॒ण्वऽस॑न्दृशम् । प्रय॑स्वन्तः । स॒हः॒ऽकृ॒त॒ ।  
 अग्ने॑ । स॒सृ॒ज्महे॑ । गिरः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓प (*MS*-488, *TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- रण्व᳓-सन्दृशम् (*MS*-1, *RV*-1)
+- प्र᳓यस्वन्तः (*MS*-1, *RV*-10)
+- सहः-कृत (*MS*-1, *RV*-6, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-3)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- ससृज्म᳓हे (*RV*-3, *AV*-2)
+- गि᳓रः (*MS*-15/16, *TS*-10, *RV*-151/158, *TB*-11, *AV*-22, *SB-M*-7, *SB-K*-6, *VS-M*-11, *VS-K*-18)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -140,6 +158,11 @@ _________
 हे **सहस्कृत** सहसा बलेनोत्पन्न **अग्ने** **प्रयस्वन्तः** हविर्लक्षणन्नवन्तो वयं **रण्वसंदृशं** रमणीयसंदर्शनं स्तोतव्यसंदर्शनं वा **त्वा** त्वाम् **उप** प्रति **गिरः** स्तुतीः **ससृज्महे** विसृजामः उच्चारयाम इत्यर्थः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[613_4]** Ch समज्महे ; vgl. RV 6, 16, 37. (Ch समज्महे; cf. RV 6, 16, 37.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -157,6 +180,12 @@ Toward you of delightful appearance, have we, affording (you) pleasure, released
 
 O Child of Strength, to thee whose look is lovely we with dainty food,  
      O Agni, have poured forth our songs.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unto you of joyous appearance, rich in food-offerings, O born of strength,  
+O Agni, we release our songs!
 </details>
 
 <details><summary>Geldner</summary>

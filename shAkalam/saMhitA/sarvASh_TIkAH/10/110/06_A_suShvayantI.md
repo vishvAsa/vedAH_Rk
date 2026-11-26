@@ -103,6 +103,12 @@ dádhāne ← √dhā- 1 (root)
 अधि॒ श्रियँ॑ शुक्र॒पिश॒न्दधा॑ने ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓ सुष्व᳓यन्ती यजते᳓ उ᳓पाके उषा᳓सानक्ता᳓ सदतां नि᳓ यो᳓नौ।  
+दिव्ये᳓ यो᳓षणे बृहती᳓ सुरुक्मे᳓ अ᳓धि श्रि᳓यँ शुक्रपि᳓शं द᳓धाने
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । सु॒स्वय॑न्ती॒ इति॑ । य॒ज॒ते इति॑ । उपा॑के॒ इति॑ । उ॒षसा॒नक्ता॑ । स॒द॒ता॒म् । नि । योनौ॑ ।  
@@ -122,6 +128,27 @@ dádhāne ← √dhā- 1 (root)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 आ᳓सुः । व᳓यन्ती । यजते᳓ । उ᳓पाके । उषा᳓सान᳓क्ता । सदताम् । नि᳓ । यो᳓नौ । दिव्ये᳓ । यो᳓षणे । बृहती᳓ । सु-रुक्मे᳓ । अ᳓धि । श्रि᳓यम् । शुक्र-पि᳓शम् । द᳓धाने ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- सुष्व᳓य (*MS*-1, *MW*)
+- न्ती (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-5)
+- यजते᳓ (*MS*-1/9, *TS*-0/1, *RV*-3/39, *TB*-1/6, *AV*-1/2, *SB-K*-5/7, *VS-M*-1/2, *VS-K*-1/2)
+- उ᳓पाके (*MS*-1, *RV*-3, *TB*-1, *VS-M*-1, *VS-K*-1)
+- उषा᳓सानक्ता᳓ (मूल-पाठः)
+- सदताम् (*MS*-1, *RV*-3, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- नि᳓ (*MS*-193, *TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36)
+- यो᳓नौ (*MS*-35/208, *TS*-17/170, *RV*-32/110, *TB*-7/38, *TK*-1/6, *AV*-8/45, *SB-M*-73/284, *SB-K*-69/261, *VS-M*-11/93, *VS-K*-10/100)
+- दिव्ये᳓ (*MS*-3/38, *TS*-2/33, *RV*-2/98, *TB*-3/15, *AV*-2/47, *SB-M*-0/23, *SB-K*-0/20, *VS-M*-2/20, *VS-K*-2/21)
+- यो᳓षणे (*MS*-2/6, *TS*-1/4, *RV*-2/40, *TB*-1/5, *AV*-0/4, *SB-M*-0/60, *SB-K*-0/60, *VS-M*-2/4, *VS-K*-2/3)
+- बृहती᳓ (*MS*-16/28, *TS*-16/23, *RV*-20/45, *TB*-15/25, *TK*-1, *AV*-12/20, *SB-M*-29/48, *SB-K*-28/54, *VS-M*-12/18, *VS-K*-10/15)
+- सु-रुक्मे᳓ (*MS*-2, *RV*-2, *TB*-2/3, *AV*-2, *VS-M*-2, *VS-K*-2)
+- अ᳓धि (*MS*-200, *TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55)
+- श्रि᳓यम् (*MS*-9, *TS*-7, *RV*-15/33, *TB*-15/16, *TK*-2, *AV*-14/15, *SB-M*-60/64, *SB-K*-64/69, *VS-M*-7/8, *VS-K*-7/8)
+- शुक्र-पि᳓शम् (*MS*-1, *RV*-1, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- द᳓धाने (*MS*-1/10, *TS*-0/5, *RV*-3/68, *TB*-1/4, *AV*-1/18, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/7, *VS-K*-1/7)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -410,6 +437,12 @@ adorned splendor.
 
 Pouring sweet dews let holy Night and Morning, each close to each, he seated at their station,  
      Lofty, celestial Dames with gold to deck them. assuming all their fair and radiant beauty.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Approaching, worthy of worship, let Night and Dawn sit close together in the womb,  
+the two divine maidens, lofty, beautifully adorned with gold, wearing an ornament of bright embroidery.
 </details>
 
 <details><summary>Geldner</summary>

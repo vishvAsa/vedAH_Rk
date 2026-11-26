@@ -355,6 +355,24 @@ The sage, the lord of strength,
 Bestowing jewels on the donor.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Around the offerings has Agni paced, the lord of nourishment, the sage,  
+bestowing treasures upon the pious worshipper.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The sage Agni, lord of the prize, has stepped around the oblations,  
+bestowing treasures upon the giver.
+
+Agni, the lord of prizes, the poet, has strode around the offerings,  
+bestowing treasures on the worshipper.
+
+Agni, the lord of prize, the sage, has stepped around the oblations,  
+bestowing treasures upon the giver.
+</details>
+
 <details><summary>Oldenberg</summary>
 
 Agni, the lord of booty, the sage, has circumambulated the oblations, bestowing treasures on the worshipper.

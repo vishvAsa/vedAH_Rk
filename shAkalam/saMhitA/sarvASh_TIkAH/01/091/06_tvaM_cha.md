@@ -75,6 +75,12 @@ vánaspátiḥ ← vánaspáti- (nominal stem)
 प्रि॒यस्तो॑त्रो॒ वन॒स्पतिः॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वं च सोम नो वशो जीवातुं न मरामहे।  
+प्रियस्तोत्रो वनस्पतिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । च॒ । सो॒म॒ । नः॒ । वशः॑ । जी॒वातु॑म् । न । म॒रा॒म॒हे॒ ।  
@@ -84,6 +90,20 @@ vánaspátiḥ ← vánaspáti- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्वम् । च॒ । सो॒म॒ । नः॒ । वशः॑ । जी॒वातु॑म् । न । म॒रा॒म॒हे॒ ॥ प्रि॒यस्तो॑त्र॒ इति॑ प्रि॒य-स्तो॒त्रः॒ । वन॒स्पतिः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- सो᳓म (*MS*-7, *TS*-3/4, *RV*-22, *TB*-3/4, *TK*-1, *AV*-2, *SB-M*-7, *SB-K*-4, *VS-M*-3, *VS-K*-5)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- व᳓शः (*MS*-2, *TS*-3, *RV*-5, *AV*-3, *SB-M*-7, *SB-K*-6)
+- जीवा᳓तुम् (*MS*-2/5, *TS*-2/9, *RV*-3/12, *AV*-2/4, *SB-M*-3/6, *SB-K*-3/8, *VS-M*-0/2, *VS-K*-0/3)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- मरामहे (*MS*-1, *TS*-1, *RV*-1)
+- प्रिय᳓-स्तोत्रः (*MS*-1, *TS*-1, *RV*-1)
+- व᳓नस्प᳓तिः (*MS*-17, *TS*-5/8, *RV*-9, *TB*-13, *AV*-9, *SB-M*-17, *SB-K*-16, *VS-M*-16, *VS-K*-15/24)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -171,6 +191,11 @@ _________
 त्वमपि महानुभावः सोम नः वशः कामयसे रक्ष्यत्वेन । वष्टेर्लोट्याडागमः । 'निपातैर्यद्यदिहन्त' इति निघाताभावः । यद्वा - चशब्दोवधारणे । हे सोम नोस्माकं त्वमेव वशः कान्तः इष्टतमः । किमर्थम्? जीवातुं जीवनाय । व्यत्ययेन चतुर्थ्यर्थे द्वितीया । तुमुनि वा आडागमश्छान्दसः, तस्योदात्तत्वं च । अतः त्वत्प्रसादात् न मरामहे न म्रियामहे । व्यत्ययेन शप् । पुनश्च सोमो विशेष्यते - प्रियस्तोत्रः । गतम् । वनस्पतिः वनानां पाता । 'सोमो वा ओषधीनां राजा' इति । वनस्थानां वा पाता 'सोमो वनस्पतीनाम्' इति । पारस्करादित्वात्सुट्, 'उभे वनस्पत्यादिषु युगपत्' इति पूर्वयोर्युगपत्प्रकृतिस्वरत्वम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[366_1]** So corr. Ch जीवातुर्न; cf. RV 1, 91, 6. (Thus emended; Ch reads जीवातुर्न; cf. RV 1, 91, 6)
+</details>
+
 <details><summary>Wilson</summary>
 
 ## English translation:
@@ -208,6 +233,12 @@ And, Soma, let it be thy wish that we may live and may not die:
 O do thou, O Soma, will life for us,  
 That we may not die,  
 Thou that lovest praise, lord of the forest.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And you, O Soma, will [us] vitality, so that we shall not die;  
+the lord of the forest, dear to the singer of praise.
 </details>
 
 <details><summary>Geldner</summary>

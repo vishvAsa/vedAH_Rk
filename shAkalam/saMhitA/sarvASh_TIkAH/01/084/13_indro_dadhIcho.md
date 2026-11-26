@@ -63,10 +63,29 @@ navatī́ḥ ← navatí- (nominal stem)
 ज॒घान॑ नव॒तीर्नव॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इन्द्रो दधीचो अस्यभिर्वृत्राण्यप्रतिष्कुतः।  
+जघान नवतीर्नव
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रः॑ । द॒धी॒चः । अ॒स्थऽभिः॑ । वृ॒त्राणि॑ । अप्र॑तिऽस्कुतः ।  
 ज॒घान॑ । न॒व॒तीः । नव॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- दधीचः᳓ (*MS*-1, *TS*-1, *RV*-2/4, *AV*-1, *SB-M*-0/1, *SB-K*-2/3)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- अभिः᳓ (*MW*, *Macdonell*, *Lanman*, *MS*-0/348, *TS*-0/345, *RV*-0/754, *TB*-0/262, *TK*-0/15, *AV*-0/270, *SB-M*-0/608, *SB-K*-0/597, *VS-M*-0/99, *VS-K*-0/113)
+- वृत्रा᳓णि (*MS*-7/99, *TS*-3/59, *RV*-49/173, *TB*-3/30, *AV*-15/40, *SB-M*-0/93, *SB-K*-0/93, *VS-M*-1/10, *VS-K*-1/10)
+- अ᳓-प्रतिष्कुतः (नञ्तत्पुरुषे पूर्वपदप्रकृतिस्वरः पा॰ ६.२.२, *MS*-1)
+- जघा᳓न (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *Whitney*, *Lanman*, *MS*-3, *RV*-15, *TB*-1, *AV*-10, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- नवतीः᳓ (*MS*-1/4, *TS*-0/2, *RV*-3/25, *AV*-1/11, *SB-M*-2/5, *SB-K*-2/5)
+- न᳓व (*MS*-26, *TS*-13, *RV*-21/22, *TB*-14, *TK*-1, *AV*-12, *SB-M*-45/46, *SB-K*-52/53, *VS-M*-3, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -140,6 +159,11 @@ _________
 यद्वा - अप्रतिष्कुतः अप्रतिरथः । प्रतिकूलमाचरन्तो यं कुत इति वदन्तोऽभिभवन्ति स प्रतिष्कुतः । पृषोदरादिः । तादृशानि कियन्ति वृत्राणि - नवतीर्नव दशाधिकान्यष्टौ च शतानि बहुतमानीत्यर्थः । स एवमिमामुपदधात्विति शेषः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[593_6]** So corr. Ch प्रतिष्कृतः ; cf. RV 1, 84, 13; MS 2,13,6. (Thus emended; Ch reads प्रतिष्कृतः; cf. RV 1, 84, 13; MS 2,13,6)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -168,6 +192,12 @@ The use of the bones of Dadhyañc as a vajra-substitute is a particularly puzzli
 
 With bones of Dadhyac for his arms, Indra, resistless in attack,  
      Struck nine-and-ninety Vrtras dead.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra, unopposed, with the bones of Dadhīc  
+slew ninety-nine Vṛtras.
 </details>
 
 <details><summary>Geldner</summary>

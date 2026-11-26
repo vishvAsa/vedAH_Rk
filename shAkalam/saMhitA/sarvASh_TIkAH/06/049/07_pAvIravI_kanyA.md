@@ -92,6 +92,12 @@ yaṁsat ← √yam- (root)
 ग्नाभि॒रच्छि॑द्रँ शर॒णँ स॒जोषा॑ दुरा॒धर्ष॑ङ्गृण॒ते शर्म॑ यँसत् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पावीरवी कन्या चित्रायुस्सरस्वती वीरपत्नी धियं धात्।  
+ग्नाभिरच्छिद्रँ शरणँ सजोषा दुराधर्षं गृणते शर्म यँसत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पावी॑रवी । क॒न्या॑ । चि॒त्रऽआ॑युः । सर॑स्वती । वी॒रऽप॑त्नी । धिय॑म् । धा॒त् ।  
@@ -101,6 +107,25 @@ yaṁsat ← √yam- (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 पावी॑रवी । क॒न्या॑ । चि॒त्रायु॒रिति॑ चि॒त्र-आ॒युः॒ । सर॑स्वती । वी॒रप॒त्नीति॑ वी॒र-प॒त्नी॒ । धिय॑म् । धा॒त् ॥ ग्नाभिः॑ । अच्छि॑द्रम् । श॒र॒णम् । स॒जोषा॒ इति॑ स-जोषाः॑ । दु॒रा॒धर्ष॒मिति॑ दुः-आ॒धर्ष॑म् । गृ॒ण॒ते । शर्म॑ । यँ॒स॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पा᳓वीरवी (*MS*-1, *TS*-1, *RV*-2, *TB*-1)
+- कन्या᳙ (*Whitney*, *MS*-1, *TS*-2, *RV*-6, *AV*-4)
+- चित्रा᳓युस् (समानान्तर-पाठः (TS), *MS*-1)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- वीर᳓-पत्नी (*MS*-1, *TS*-1, *RV*-2)
+- धि᳓यम् (*MS*-11/20, *TS*-5/11, *RV*-45/113, *TB*-5/8, *AV*-5/10, *SB-M*-2/11, *SB-K*-2/9, *VS-M*-4/19, *VS-K*-3/17)
+- धा᳓त् (*RV*-2)
+- ग्ना᳓भिः (*MS*-1/8, *TS*-1/5, *RV*-5/16, *TB*-0/1, *AV*-1/3, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/2, *VS-K*-0/1)
+- अ᳓च्छिद्रम् (*TS*-1/6, *RV*-4/6, *TB*-4/6, *SB-M*-0/4, *SB-K*-4/17, *VS-M*-0/6, *VS-K*-0/5)
+- शरण᳓म् (*MS*-2, *TS*-1, *RV*-8/13, *AV*-1/4)
+- सजो᳓षाः (*MS*-17, *TS*-11/13, *RV*-53/55, *TB*-5, *AV*-7, *SB-M*-2, *SB-K*-2, *VS-M*-8, *VS-K*-9)
+- दुः-आध᳓र्षम् (*MS*-2, *TS*-1, *RV*-2, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- गृणते᳓ (*MS*-3, *TS*-3, *RV*-30/42, *TB*-2, *AV*-3, *SB-M*-1)
+- श᳓र्म (*MS*-35/37, *TS*-39/41, *RV*-93/111, *TB*-12/13, *AV*-44/46, *SB-M*-20/21, *SB-K*-20/21, *VS-M*-13/23, *VS-K*-10/19)
+- यंसत् (समानान्तर-पाठः (TS), *MS*-5, *TS*-2, *RV*-17, *TB*-2, *AV*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -234,6 +259,13 @@ _________
 कीदृशं शर्म, अच्छिद्रमविछिन्नं शरण रक्षकं दुराधर्षमन्यैर्धर्षयितुमशक्यम् ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[259_6]** D स्वतीं वीरपत्नीं
+
+- **[259_7]** Ch श्छिद्रो
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -275,6 +307,12 @@ Protection uninjured, and guardianship unsurpassable.
 I May Pusan follow the cows for us,  
 May he guard our horses;  
 May Pusan win booty for us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Lance-pointed maiden of wonderful vitality, Sarasvatī, wife of the hero, let her establish insight.  
+In concord with the divine wives, may she extend to the singer an unpierced shelter, an inviolable refuge.
 </details>
 
 <details><summary>Geldner</summary>

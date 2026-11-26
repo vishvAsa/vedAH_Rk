@@ -69,10 +69,30 @@ ardaya ← √r̥d- (root)
 अमै॑र॒मित्र॑मर्दय ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+न᳓मस् ते अग्ना ओ᳓जसे गृण᳓न्ति देव कृष्ट᳓यः  
+अ᳓मैर् अमि᳓त्रम् अर्दय
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 नमः॑ । ते॒ । अ॒ग्ने॒ । ओज॑से । गृ॒णन्ति॑ । दे॒व॒ । कृ॒ष्टयः॑ ।  
 अमैः॑ । अ॒मित्र॑म् । अ॒र्द॒य॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- न᳓मः (*TS*-291/315, *RV*-49/182, *TB*-47/60, *TK*-4, *AV*-230/248, *SB-M*-102/105, *SB-K*-100/102, *VS-M*-235/244, *VS-K*-146/167, *KS*-291/305)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- अग्नाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- ओ᳓जसे (*TS*-5/97, *RV*-5/169, *TB*-1/23, *TK*-0/3, *AV*-18/92, *SB-M*-4/46, *SB-K*-5/46, *VS-M*-5/37, *VS-K*-1/32, *KS*-5/30)
+- गृण᳓न्ति (*TS*-1/3, *RV*-11/39, *TB*-0/1, *AV*-0/5, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/2, *VS-K*-0/1, *KS*-1/2)
+- देव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-57, *RV*-123, *TB*-28, *TK*-2, *AV*-24, *SB-M*-47, *SB-K*-34, *VS-M*-45, *VS-K*-36, *KS*-26)
+- कृष्ट᳓यः (*TS*-1/4, *RV*-17/54, *TB*-0/4, *AV*-5/8, *KS*-1/5)
+- अ᳓मैः (*TS*-1/2, *RV*-1/15, *TB*-0/1, *AV*-0/2, *SB-M*-0/1, *SB-K*-0/3, *VS-M*-0/1, *VS-K*-0/2, *KS*-1/2)
+- अमि᳓त्रम् (*TS*-1/9, *RV*-3/35, *TB*-2/7, *AV*-1/70, *SB-M*-1/9, *SB-K*-1/6, *VS-M*-0/7, *VS-K*-0/3, *KS*-3/5)
+- अर्दय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *AV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -173,6 +193,18 @@ The standard tr. take námaḥ as obj. of gṛṇánti and ab as a single clause
 
 O Agni, God, the people sing reverent praise to thee for strength:  
      With terrors trouble thou the foe.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Homage to thy might, O Agni, the peoples sing, O god;  
+with thy charges crush the enemy.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Homage to your vigor, O Agni, the peoples sing, O god;  
+crush the enemy with violent onsets.
 </details>
 
 <details><summary>Geldner</summary>

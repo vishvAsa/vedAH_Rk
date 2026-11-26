@@ -86,10 +86,36 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 द॒स्यु॒हनं॑ पू॒र्भिद॑मिन्द्र स॒त्यम॒स्मभ्यं॑ चि॒त्रं वृष॑णं र॒यिं दाः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+सन᳓द्वाजँ वि᳓प्रवीरं त᳓रुत्रं धनुस्पृ᳓तँ शूशुवाँ᳓सँ सुद᳓क्षम्  
+दस्युह᳓नं पूर्भि᳓दम् इन्द्र सत्य᳓म् अस्म᳓भ्यं चित्रँ᳓ वृ᳓षणँ रयिं᳓ दाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒नत्ऽवा॑जम् । विप्र॑ऽवीरम् । तरु॑त्रम् । ध॒न॒ऽस्पृत॑म् । शू॒शु॒ऽवांस॑म् । सु॒ऽदक्ष॑म् ।  
 द॒स्यु॒हन॑म् । पूः॒ऽभिद॑म् । इ॒न्द्र॒ । स॒त्यम् । अ॒स्मभ्य॑म् । चि॒त्रम् । वृष॑णम् । र॒यिम् । दाः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- सन᳓द्-वाजम् (*MW*)
+- वि᳓प्र-वीरम् (*RV*-2/5)
+- त᳓रुत्रम् (*RV*-4/11, *TB*-0/1, *KS*-0/1)
+- धनुः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *VS-M*-1, *VS-K*-1)
+- पृ᳓तम् (*TS*-0/4, *RV*-0/31, *AV*-0/2, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/2, *VS-K*-0/1, *KS*-0/3)
+- शूशु-वां᳓सम् (*RV*-6/7)
+- सु-द᳓क्षम् (*TS*-1/6, *RV*-7/16, *TB*-0/1, *AV*-1, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-0/2, *VS-K*-0/2)
+- दस्युह᳓नम् (*RV*-1)
+- पूः-भि᳓दम् (*RV*-2/7, *AV*-0/1)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-22, *KS*-28)
+- सत्य᳓म् (*TS*-20/77, *RV*-52/133, *TB*-45/68, *TK*-25/44, *AV*-33/71, *SB-M*-132/187, *SB-K*-129/184, *VS-M*-19/36, *VS-K*-23/41, *KS*-13/24)
+- अस्म᳓-भ्यम् (*TS*-21/565, *RV*-119/1308, *TB*-12/270, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/728, *VS-M*-15/314, *VS-K*-20/265, *KS*-13/242)
+- चित्र᳓म् (*TS*-12/23, *RV*-65/135, *TB*-11/23, *TK*-0/3, *AV*-8/17, *SB-M*-14/26, *SB-K*-13/28, *VS-M*-6/12, *VS-K*-8/14, *KS*-7/11)
+- वृ᳓षणम् (*TS*-7/12, *RV*-54/87, *TB*-7/8, *AV*-8/10, *SB-M*-2/5, *SB-K*-2/4, *VS-M*-6/7, *VS-K*-4/5, *KS*-2/3)
+- रयि᳓म् (*TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-24/35, *VS-K*-22/32, *KS*-17/27)
+- दाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-9, *RV*-33, *TB*-1, *AV*-16, *VS-M*-9, *VS-K*-5, *KS*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -256,6 +282,12 @@ Dasyu-smashing, stronghold-splitting—(above all) real, o Indra. – To us  giv
 
 Victorious, winning strength, with hero sages, confirmed in power, most useful, wealth-attracting,  
      True, Indra! crushing forts and slaying Dasyus: vouchsafe us mighty and resplendent riches.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Winning booty, heroic with poets, rescuing, drawing the bow, swollen with strength, very capable,  
+slayer of Dasyus, splitter of fortresses, true, O Indra: grant us wondrous, bull-like wealth!
 </details>
 
 <details><summary>Geldner</summary>

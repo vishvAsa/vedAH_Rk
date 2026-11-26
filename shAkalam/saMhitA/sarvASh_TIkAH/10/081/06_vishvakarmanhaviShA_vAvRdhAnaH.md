@@ -107,6 +107,12 @@ sūríḥ ← sūrí- (nominal stem)
 मुह्य॑न्त्व॒न्ये अ॒भितः॑ स॒पत्ना॑ इ॒हास्माकं॑ म॒घवा॑ सू॒रिर॑स्तु ॥८॥ २३
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+विश्वकर्मन्हविषा वावृधानस्स्वयं यजस्व पृथिवीमुत द्याम्।  
+मुह्यन्त्वन्ये अभितो जनास इहास्माकं मघवा सूरिरस्तु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 विश्व॑ऽकर्मन् । ह॒विषा॑ । व॒वृ॒धा॒नः । स्व॒यम् । य॒ज॒स्व॒ । पृ॒थि॒वीम् । उ॒त । द्याम् ।  
@@ -121,6 +127,27 @@ sūríḥ ← sūrí- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 विश्व॑कर्म॒न्निति॒ विश्व॑ऽकर्मन्। ह॒विषा॑। वा॒वृ॒धा॒नः। व॒वृ॒धा॒न इति॑ ववृधा॒नः। स्व॒यम्। य॒ज॒स्व॒। पृ॒थि॒वीम्। उ॒त। द्याम्। मुह्य॑न्तु। अ॒न्ये। अ॒भितः॑। स॒पत्ना॒ इति॑ स॒ऽपत्नाः॑। इ॒ह। अ॒स्माक॑म्। म॒घवेति॑ म॒घऽवा॑। सू॒रिः। अ॒स्तु॒।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वि᳓श्व-कर्मन् (*MS*-4, *TS*-5, *RV*-1, *AV*-2, *SB-M*-2, *SB-K*-1, *VS-M*-3, *VS-K*-4)
+- हवि᳓षा (*MS*-56/213, *TS*-39/124, *RV*-56/166, *TB*-57/186, *TK*-15/17, *AV*-52/116, *SB-M*-45/380, *SB-K*-47/360, *VS-M*-36/92, *VS-K*-40/101)
+- वावृधानः᳓ (*MS*-5/7, *TS*-4/6, *TB*-3/4, *TK*-1, *SB-M*-0/1, *SB-K*-1/2, *VS-M*-3/4, *VS-K*-4/6)
+- स्वय᳓म् (*MS*-14, *TS*-6, *RV*-29, *TB*-3, *TK*-3, *AV*-5, *SB-M*-51, *SB-K*-49, *VS-M*-6, *VS-K*-7)
+- यजस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-4, *RV*-11, *TK*-12, *AV*-1, *SB-M*-7, *SB-K*-6, *VS-M*-6, *VS-K*-6)
+- पृथिवी᳓म् (*MS*-61/104, *TS*-63/106, *RV*-64/156, *TB*-27/52, *TK*-5/6, *AV*-74/155, *SB-M*-58/156, *SB-K*-70/126, *VS-M*-33/53, *VS-K*-35/56)
+- उत᳓ (*Whitney*, *Lanman*, *MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- द्या᳓म् (*MW* ŚBr., *MS*-29/308, *TS*-18/270, *RV*-90/854, *TB*-11/119, *TK*-0/15, *AV*-39/340, *SB-M*-11/353, *SB-K*-5/342, *VS-M*-17/167, *VS-K*-16/179)
+- मु᳓ह्यन्तु (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *TS*-1, *RV*-1, *AV*-3, *VS-M*-1, *VS-K*-2, *MS*-1)
+- अन्ये᳓ (*MS*-35/208, *TS*-27/165, *RV*-25/176, *TB*-4/92, *TK*-0/2, *AV*-10/108, *SB-M*-31/332, *SB-K*-31/340, *VS-M*-3/32, *VS-K*-5/34)
+- अभि᳓तः (*MS*-12, *TS*-38, *RV*-25, *TB*-10, *AV*-15, *SB-M*-64, *SB-K*-67, *VS-M*-6, *VS-K*-7)
+- ज᳓नासः (*MS*-2/62, *TS*-0/35, *RV*-22/298, *TB*-1/27, *AV*-4/92, *SB-M*-0/26, *SB-K*-0/26, *VS-M*-0/27, *VS-K*-0/27)
+- इह᳓ (*MS*-103, *TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91)
+- अस्मा᳓कम् (*MS*-44/641, *TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/315, *VS-K*-16/274)
+- मघ᳓-वा (*MS*-8/16, *TS*-5/9, *RV*-70/186, *TB*-2/6, *AV*-18/25, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-5/9, *VS-K*-6/11)
+- सूरिः᳓ (*MS*-6/15, *TS*-2/8, *RV*-19/111, *TB*-0/3, *AV*-4/17, *SB-M*-1/5, *SB-K*-1/3, *VS-M*-2/7, *VS-K*-3/8)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-111, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-60, *VS-K*-39)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -288,6 +315,11 @@ _________
 एवं-विधं युष्मत्कर्म दृष्ट्वा "अन्ये युष्माकं "सपत्नाः शत्रवः 'अमितः सर्वत: 'मुह्यन्तु संमोहं गच्छन्तु ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[333_13]** So corr. Ch **मुह्यान्त्व**°; cf. RV 10, 81, 6. (Thus emended; Ch reads मुह्यान्त्व; cf. RV 10, 81, 6)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -348,6 +380,12 @@ Let the other peoples all around be left in confusion; for us here let there  be
 
 Bring thou thyself, exalted with oblation, O Visvakarman, Earth and Heaven to worship.  
      Let other men around us live in folly here let us have a rich and liberal patron.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Viśvakarman, grown strong with the oblation, sacrifice of yourself to earth and sky!  
+Let other people around be bewildered;
 </details>
 
 <details><summary>Geldner</summary>

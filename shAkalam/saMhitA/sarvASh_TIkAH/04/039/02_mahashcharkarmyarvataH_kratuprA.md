@@ -86,10 +86,37 @@ táturim ← táturi- (nominal stem)
 यं पू॒रुभ्यो॑ दीदि॒वांसं॒ नाग्निं द॒दथु॑र्मित्रावरुणा॒ ततु॑रिम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+मह᳓श्चर्कर्म्य᳓र्वतः क्रतुप्रा᳓ दधिक्रा᳓व्णः पुरुवा᳓रस्य वृ᳓ष्णः।  
+यं᳓ पूरु᳓भ्यो दीदिवा᳓सं ना᳓ग्निं᳓ दद᳓थुर्मित्रावरुणा त᳓तुरिम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 म॒हः । च॒र्क॒र्मि॒ । अर्व॑तः । क्र॒तु॒ऽप्राः । द॒धि॒ऽक्राव्णः॑ । पु॒रु॒ऽवार॑स्य । वृष्णः॑ ।  
 यम् । पू॒रुऽभ्यः॑ । दी॒दि॒ऽवांस॑म् । न । अ॒ग्निम् । द॒दथुः॑ । मि॒त्रा॒व॒रु॒णा॒ । ततु॑रिम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- महः᳓ (*MS*-17/36, *TS*-9/26, *RV*-173/364, *TB*-7/17, *TK*-3/5, *AV*-20/77, *SB-M*-7/37, *SB-K*-7/37, *VS-M*-12/35, *VS-K*-12/41)
+- चर्कर्मि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1)
+- अ᳓र्वतः (*MS*-5/8, *TS*-5/11, *RV*-22/56, *TB*-1/3, *AV*-3/8, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-4/7, *VS-K*-4/7)
+- क्रतु-प्राः᳓ (*RV*-2)
+- दधि-क्रा᳓व्णः (*MS*-5/7, *RV*-6, *AV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-1)
+- पुरु-वा᳓रस्य (*MS*-0/1, *RV*-1/10, *TB*-0/1)
+- वृ᳓ष्णः (*MS*-8/15, *TS*-9/14, *RV*-44/78, *TB*-3/4, *AV*-7/13, *SB-M*-4, *SB-K*-4/6, *VS-M*-11/13, *VS-K*-10/12)
+- य᳓म् (*MS*-183/3763, *TS*-164/3385, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-63/651, *VS-K*-38/609)
+- पूरु᳓भ्यः (*MS*-0/17, *TS*-0/14, *RV*-2/38, *TB*-0/9, *AV*-0/12, *SB-M*-0/43, *SB-K*-0/33, *VS-M*-0/3, *VS-K*-0/2)
+- दीदि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-5, *RV*-6, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-4)
+- वा᳓ (*MS*-12, *TS*-804, *RV*-12, *TB*-8, *TK*-2, *AV*-1, *SB-M*-7, *SB-K*-29, *VS-M*-4, *VS-K*-4)
+- सम् (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-217, *TS*-4, *RV*-1, *TB*-68, *TK*-29, *AV*-1, *SB-M*-507, *SB-K*-470, *VS-K*-2)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- दद᳓थुः (*RV*-4)
+- मित्रा-वरुणा (*MS*-9, *TS*-6, *RV*-48, *TB*-6, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-4)
+- त᳓तुरिम् (*RV*-2/5, *AV*-1, *SB-M*-0/3, *SB-K*-0/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -212,6 +239,15 @@ _________
 **क्रतुप्राः** कर्मणां पूरकोऽहं **महः** महतः **अर्वतः** अरणवतः **पुरुवारस्य** पुरुभिः बहुभिर्वरणीयस्य **वृष्णः** वर्षकस्य **दधिक्राव्णः** स्तुतिं **चर्कर्मि** अत्यर्थं करोमि । हे **मित्रावरुणा** मित्रावरुणौ युवां **ततुरिं** तारकं **यं** **दीदिवांसं** **नाग्नि** दीप्यमानमग्निमिव स्थितं **पूरुभ्यः** मनुष्येभ्यस्तेषामुपकाराय **ददथुः** धारयथः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[82_1]** So St, desgl. Ch and W1 , ohne Acc.; T1, T3 und Brl पुरु᳓भ्यो ; desgl. D, ohne Accent. (Thus St, likewise Ch and W1, without accent; T1, T3 and Brl पुरु᳓भ्यो; likewise D, without accent.)
+
+- **[82_2]** Brl दध᳓थुº; desgl. W1 4, ohne Acc. (Brl दध᳓थुº; likewise W1 4, without accent.)
+
+- **[82_3]** Ch und D उत्तरिम (Missverständniss der Çâradâ). (Ch and D उत्तरिम (misunderstanding of the Śāradā).)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -248,6 +284,12 @@ In the 2nd hemistich pūrúbhyaḥ … táturim was mistakenly tr. twice in the 
 
 I praise the mighty Steed who fills my spirit, the Stallion Dadhikravan rich in bounties,  
      Whom, swift of foot aind shining bright as Agni, ye, Varuna and Mitra, gave to Purus.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I celebrate the great steed, the fulfiller of wisdom, of Dadhikrāvan, of the bull of many choices,  
+whom, like the shining Agni, you, O Mitra and Varuṇa, gave as a victorious one to the Pūrus.
 </details>
 
 <details><summary>Geldner</summary>

@@ -89,6 +89,12 @@ priyám ← priyá- (nominal stem)
 प्रप्र॑ व॒यम॒मृतं॑ जा॒तवे॑दसं प्रि॒यं मि॒त्रं न शँ॑सिषम् ॥४२ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+यज्ञा यज्ञा वो अग्नये गिरा गिरा च चक्षसे।  
+प्र प्र वयममृतं जातवेदसं प्रियं मित्रं न शँसिषम्।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 य॒ज्ञाऽय॑ज्ञा । वः॒ । अ॒ग्नये॑ । गि॒राऽगि॑रा । च॒ । दक्ष॑से ।  
@@ -103,6 +109,27 @@ priyám ← priyá- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 य॒ज्ञाय॒ज्ञेति॑ य॒ज्ञाऽय॑ज्ञा॒। वः॒। अ॒ग्नये॑। गि॒रागि॒रेति॑ गि॒राऽगि॑रा। च॒। दक्ष॑से। प्रप्रेति॒ प्रऽप्र॑। व॒यम्। अ॒मृत॑म्। जा॒तवे॑दस॒मिति॑ जा॒तऽवे॑दसम्। प्रि॒यम्। मि॒त्रम्। न। शँ॒सि॒ष॒म्। ११।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- यज्ञा᳓ (*MS*-2/933, *TS*-2/863, *RV*-8/448, *TB*-14/399, *TK*-0/21, *AV*-1/231, *SB-M*-1/1803, *SB-K*-2/1754, *VS-M*-3/223, *VS-K*-3/187)
+- यज्ञा᳓ (*MS*-2/933, *TS*-2/863, *RV*-8/448, *TB*-14/399, *TK*-0/21, *AV*-1/231, *SB-M*-1/1803, *SB-K*-2/1754, *VS-M*-3/223, *VS-K*-3/187)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- अग्न᳓ये (*MS*-135/1297, *TS*-128/1194, *RV*-47/856, *TB*-46/520, *TK*-34/105, *AV*-16/419, *SB-M*-137/2495, *SB-K*-138/2289, *VS-M*-44/325, *VS-K*-35/349)
+- गिरा᳓ (*MS*-9/14, *TS*-5/7, *RV*-68/74, *TB*-2/3, *AV*-5/9, *SB-M*-3/6, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-5/7)
+- गिरा᳓ (*MS*-9/14, *TS*-5/7, *RV*-68/74, *TB*-2/3, *AV*-5/9, *SB-M*-3/6, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-5/7)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- च᳓क्षसे (*Whitney*, *MS*-5/9, *TS*-6, *RV*-10/27, *TB*-1/3, *AV*-10/14, *SB-M*-1/2, *SB-K*-1, *VS-M*-3/4, *VS-K*-3/5)
+- प्र (गतिर्गतौ पा॰ ८.१.७०, *TS*-5, *TB*-67, *TK*-6, *AV*-2, *SB-M*-335, *SB-K*-369, *VS-M*-8, *VS-K*-8, *MS*-226)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- वय᳓म् (*MW*, *MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- अ-मृ᳓तम् (*MS*-53/84, *TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60)
+- जात᳓-वेदसम् (*MS*-7/10, *TS*-10/11, *RV*-25/38, *AV*-6/13, *SB-M*-3, *SB-K*-3, *VS-M*-7/8, *VS-K*-7/8)
+- प्रिय᳓म् (*MS*-36/135, *TS*-40/92, *RV*-77/213, *TB*-21/83, *TK*-0/1, *AV*-44/90, *SB-M*-55/134, *SB-K*-53/141, *VS-M*-19/60, *VS-K*-10/47)
+- मित्र᳓म् (*MS*-18/111, *TS*-9/68, *RV*-50/284, *TB*-6/48, *TK*-1, *AV*-7/52, *SB-M*-14/71, *SB-K*-12/74, *VS-M*-5/44, *VS-K*-5/51)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- शंसिषम् (समानान्तर-पाठः (RV), *MS*-1, *RV*-3, *TB*-2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -480,6 +507,11 @@ Vवः इति द्वितीया बहु-वचनम् एकव�
 यथा कश्चित् प्रियं मित्रं पुनः पुनः स्तौति तद्वदग्निं स्तौमीत्याशयः ॥ ११ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[594_9]** So Ch; dagegen द᳓क्षसे in RV 6, 48, 1; MS 2, 13, 9 u. s. w. (Thus Ch; sincegegen द᳓क्षसे in RV 6, 48, 1; MS 2, 13, 9 etc.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -541,6 +573,12 @@ The 2nd hemistich has disharmony of number between the expressed subject, pl. va
 
 SING to your Agni with each song, at every sacrifice, for strength.  
      Come, let us praise the Wise and Everlasting God, even as a well-beloved Friend,
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+At every sacrifice [sing] for your Agni, and with song after song for the capable one;  
+forth we would praise the immortal Jātavedas, like a dear friend.
 </details>
 
 <details><summary>Geldner</summary>

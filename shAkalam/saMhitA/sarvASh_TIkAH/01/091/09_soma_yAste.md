@@ -72,6 +72,12 @@ tā́bhiḥ ← sá- ~ tá- (pronoun)
 ताभि॑र्नोऽवि॒ता भ॑व ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सो᳓म या᳓स्ते मयोभु᳓व ऊत᳓यस्म᳓न्ति दाशु᳓षे।  
+ता᳓भिर्नोऽविता᳓ भव
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सोम॑ । याः । ते॒ । म॒यः॒ऽभुवः॑ । ऊ॒तयः॑ । सन्ति॑ । दा॒शुषे॑ ।  
@@ -179,6 +185,11 @@ with those become our helper.
 
 With those delightful aids which thou hast, Soma, for the worshipper,--  
      Even with those protect thou us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Soma, what refreshing aids you have for the worshipper,
 </details>
 
 <details><summary>Geldner</summary>

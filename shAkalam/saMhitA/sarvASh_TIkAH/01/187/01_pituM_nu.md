@@ -92,6 +92,12 @@ vr̥trám ← vr̥trá- (nominal stem)
 यस्य॑ त्रि॒तो व्योज॑सा वृ॒त्रं विप॑र्वम॒र्दय॑त् ॥२॥ २
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पितुं᳓ नु᳓ स्तोषं महो᳓ धर्मा᳓णं त᳓विषीम्।  
+य᳓स्य त्रितो᳓ व्यो᳓जसा वृत्रं᳓ वि᳓पर्वम᳓र्दयत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पि॒तुम् । नु । स्तो॒ष॒म् । म॒हः । ध॒र्माण॑म् । तवि॑षीम् ।  
@@ -106,6 +112,23 @@ vr̥trám ← vr̥trá- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 पितुम्। नु। स्तो॒ष॒म्। म॒हः। धर्मा॑ण॑म्। तवि॑षीम्। यस्य॑। त्रि॒तः। वि। ओज॑सा। वृ॒त्रम्। विप॑र्व॒मिति॒ विऽप॑र्वम्। अ॒र्दय॑त्। २।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पितु᳓म् (*MS*-2/5, *TS*-2/7, *RV*-3/47, *TB*-5/7, *AV*-1/18, *SB-M*-1/13, *SB-K*-1/15, *VS-M*-3/6, *VS-K*-1/6)
+- नु᳓ (*MS*-46, *TS*-21, *RV*-338, *TB*-16, *TK*-12, *AV*-66, *SB-M*-273, *SB-K*-226, *VS-M*-21, *VS-K*-17)
+- स्तोषम् (*RV*-2, *VS-M*-1, *VS-K*-1)
+- महः᳓ (*MS*-17/36, *TS*-9/26, *RV*-173/364, *TB*-7/17, *TK*-3/5, *AV*-20/77, *SB-M*-7/37, *SB-K*-7/37, *VS-M*-12/35, *VS-K*-12/41)
+- धर्मा᳓णम् (*RV*-2/4, *VS-K*-1)
+- त᳓विषीम् (*MS*-1, *RV*-13/40, *TB*-1/2, *AV*-1/2, *VS-M*-1/2, *VS-K*-1/3)
+- य᳓स्य (*MS*-155/3763, *TS*-134/3385, *RV*-207/4011, *TB*-71/1735, *TK*-2/227, *AV*-112/3120, *SB-M*-143/8327, *SB-K*-136/8438, *VS-M*-28/651, *VS-K*-25/609)
+- त्रितः᳓ (*MS*-5, *TS*-3/4, *RV*-19/41, *TB*-3/4, *AV*-2/6, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-3/4, *VS-K*-2/3)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- ओ᳓जसा (*MS*-30/106, *TS*-9/97, *RV*-103/169, *TB*-5/23, *TK*-0/3, *AV*-28/92, *SB-M*-13/46, *SB-K*-13/46, *VS-M*-14/37, *VS-K*-16/35)
+- वृत्र᳓म् (*MS*-66/99, *TS*-35/59, *RV*-83/173, *TB*-22/30, *AV*-10/40, *SB-M*-47/93, *SB-K*-43/93, *VS-M*-7/10, *VS-K*-7/10)
+- वि᳓-पर्वम् (*RV*-1, *VS-M*-1, *VS-K*-1)
+- अ᳓र्दयत् (शतृ पा॰ ३.१.४ / ६.१.१९७)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -301,6 +324,15 @@ _________
 अनुमति-देवत्यानुष्टुप् । 'ऋषि-गृत्समदः । अनु इत् एव । " कलाहीने सानुमतिः. पूर्णे राका निशाकरे" [ अमर० ११४।८ ] । हे अनुमते अपूर्ण-चन्द्रे । त्वम् एव स्वात्मानं शक्रम् । अनुमन्यासै मन्यसे । तर्हि नः अस्माकम् । शं च सुखम् एव । कृधि कुरुष्व । किं च, क्रत्वे संकल्पाय संकल्प-सिद्धये । दक्षाय 'दक्ष वृद्धौ' [ ६०८ भ्वादि: ] अभिवृद्धये च । नः अस्मान् । हिनु ७"हि गतौ ' [ १२५८ स्वादिः ] । मम गमनाय समर्थ-नामापादय । प्रण आयूंषि तारिषः । नः अस्माकम् । आयूंषि देह-स्थिति-हेतु-भूतानि कालावयव-लक्षणानि । प्रतारिषः प्रवर्धय विस्तारय ॥ ३ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[606_5]** Dies Capitel in T 1 und Brl vorhanden; darnach accentuirt ; vgl. RV 1, 187, 1. Die Mss. T1 und Brl haben hier fast durchweg die richtigen Lesarten, während Ch vielfach abweicht. (This chapter present in T 1 and Brl; accented accordingly; cf. RV 1, 187, 1. The mss. T1 and Brl have almost throughout the correct readings here, whereas Ch deviates in many ways.)
+
+- **[606_6]** Ch पितुर्नु; T1 पितु᳓न्नु᳓
+
+- **[606_7]** Ch वृतं
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 अब कौन मनुष्य शत्रुओं को जीत सकता है, इस विषय को अगले मन्त्र में कहा है ॥
@@ -377,6 +409,12 @@ Now will I glorify Food that upholds great strength,
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Now will I glorify great strength's upholder, Food, By whose invigorating might Trita rent Vritra limb from limb.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Now will I praise food, the great supporter, the strength,  
+by whose power Trita rent Vṛtra limb from limb.
 </details>
 
 <details><summary>Geldner</summary>

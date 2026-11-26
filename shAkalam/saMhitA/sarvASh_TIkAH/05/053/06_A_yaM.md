@@ -89,10 +89,62 @@ yanti ← √i- 1 (root)
 वि प॒र्जन्यं॑ सृजन्ति॒ रोद॑सी॒ अनु॒ धन्व॑ना यन्ति वृ॒ष्टयः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आ᳓यन् न᳓रः सुदा᳓नवो ददाशु᳓षे दिवः᳓ को᳓शम् अ᳓चुच्यवुः  
+प्र᳓ पर्ज᳓न्यः सृजताँ रो᳓दसी अ᳓नु ध᳓न्वना यन्तु वृष्ट᳓यः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+आ यं नरस्सुदानवो ददाश्रुषे दिवः कोशमचुच्यवुः।  
+प्र पर्जन्यस्सृजतां रोदसी अनु धन्वना यन्तु वृष्टयः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । यम् । नरः॑ । सु॒ऽदान॑वः । द॒दा॒शुषे॑ । दि॒वः । कोश॑म् । अचु॑च्यवुः ।  
 वि । प॒र्जन्य॑म् । सृ॒ज॒न्ति॒ । रोद॑सी॒ इति॑ । अनु॑ । धन्व॑ना । य॒न्ति॒ । वृ॒ष्टयः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ᳓-यन् (*TS*-2, *RV*-7, *TB*-2/3, *AV*-7, *SB-M*-24, *SB-K*-20, *VS-M*-3, *VS-K*-3, *KS*-2)
+- न᳓रः (*TS*-14/19, *RV*-127/286, *TB*-8/13, *TK*-1, *AV*-15/32, *SB-M*-11/18, *SB-K*-10/18, *VS-M*-5/11, *VS-K*-4/10, *KS*-2/6)
+- सु-दा᳓नवः (*TS*-2/3, *RV*-19/35, *TB*-2, *AV*-5/9, *VS-M*-1, *VS-K*-1, *KS*-2/4)
+- ददाशु᳓षे (*TS*-1, *RV*-4/6)
+- दिवः᳓ (*TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-38/172, *KS*-43/128)
+- को᳓शम् (*TS*-1/3, *RV*-23/39, *AV*-4/13, *SB-M*-0/1, *SB-K*-0/1, *KS*-0/1)
+- अ᳓चुच्यवुः (*TS*-1, *RV*-2, *TB*-1)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- पर्ज᳓न्यः (*TS*-19/34, *RV*-12/19, *TB*-6/9, *TK*-3, *AV*-9/15, *SB-M*-19/21, *SB-K*-20/22, *VS-M*-3/5, *VS-K*-3/7, *KS*-2/4)
+- सृजताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *AV*-1)
+- रो᳓दसी (*TS*-14/18, *RV*-186/207, *TB*-6, *TK*-1, *AV*-28, *SB-M*-8/9, *SB-K*-8/9, *VS-M*-13/15, *VS-K*-13/16, *KS*-11/12)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-108, *KS*-96)
+- ध᳓न्वना (*TS*-5/13, *RV*-7/33, *TB*-0/1, *AV*-1/14, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-4/18, *VS-K*-4/18, *KS*-0/14)
+- यन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-29, *TB*-1, *AV*-50, *SB-M*-6, *SB-K*-7, *VS-M*-11, *VS-K*-10, *KS*-4)
+- वृष्ट᳓यः (*TS*-1/24, *RV*-12/52, *TB*-0/3, *TK*-1, *AV*-0/3, *SB-M*-0/9, *SB-K*-0/11, *VS-M*-0/4, *VS-K*-5/13, *KS*-0/8)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- य᳓म् (*MS*-183/3763, *TS*-164/3385, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-63/651, *VS-K*-38/609)
+- न᳓रः (*MS*-15/25, *TS*-14/19, *RV*-127/286, *TB*-8/13, *TK*-1, *AV*-15/32, *SB-M*-11/18, *SB-K*-10/18, *VS-M*-5/11, *VS-K*-4/10)
+- सु-दा᳓नवः (*MS*-1/2, *TS*-2/3, *RV*-19/35, *TB*-2, *AV*-5/9, *VS-M*-1, *VS-K*-1)
+- ददाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *AV*-1)
+- रु᳓षे (*Lanman*)
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- को᳓शम् (*MS*-1/2, *TS*-1/3, *RV*-23/39, *AV*-4/13, *SB-M*-0/1, *SB-K*-0/1)
+- अ᳓चुच्यवुः (*MS*-1, *TS*-1, *RV*-2, *TB*-1)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- पर्ज᳓न्यः (*MS*-18/33, *TS*-19/34, *RV*-12/19, *TB*-6/9, *TK*-3, *AV*-9/15, *SB-M*-19/21, *SB-K*-20/22, *VS-M*-3/5, *VS-K*-3/7)
+- सृजताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *AV*-1)
+- रो᳓दसी (*MS*-22/25, *TS*-14/18, *RV*-186/207, *TB*-6, *TK*-1, *AV*-28, *SB-M*-8/9, *SB-K*-8/9, *VS-M*-13/15, *VS-K*-13/16)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- ध᳓न्वना (*MS*-4/20, *TS*-5/13, *RV*-7/33, *TB*-0/1, *AV*-1/14, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-4/18, *VS-K*-4/18)
+- यन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-13, *TS*-6, *RV*-29, *TB*-1, *AV*-50, *SB-M*-6, *SB-K*-7, *VS-M*-11, *VS-K*-11)
+- वृष्ट᳓यः (*MS*-1/32, *TS*-1/24, *RV*-12/52, *TB*-0/3, *TK*-1, *AV*-0/3, *SB-M*-0/9, *SB-K*-0/11, *VS-M*-0/4, *VS-K*-5/13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -232,6 +284,18 @@ As noted by most comm., masc. acc. sg. yám, presumably modifying kóśam, has n
 
 Munificent Heroes, they have cast heaven's treasury down for the worshipper's behoof:  
      They set the storm-cloud free tostream through both the worlds, and rainfloods flow o'er desert spots.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The men, liberal givers, have come to the worshiper; they have shaken down the cask of heaven.  
+Let Parjanya release [rain] along both world-halves; let the rains go across the desert!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+That vessel of heaven which the generous men poured down for the worshipper,  
+let Parjanya release along the two worlds; let the rains go over the desert.
 </details>
 
 <details><summary>Geldner</summary>

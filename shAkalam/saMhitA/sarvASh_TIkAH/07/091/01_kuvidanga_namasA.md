@@ -89,10 +89,37 @@ uṣásam ← uṣás- (nominal stem)
 ते वा॒यवे॒ मन॑वे बाधि॒तायावा॑सयन्नु॒षसं॒ सूर्ये॑ण ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+कुवि᳓द् अङ्ग᳓ न᳓मसा ये᳓ वृधा᳓सः पुरा᳓ देवा᳓ अनवद्या᳓सा आ᳓सन्  
+ते᳓ वाय᳓वे म᳓नवे बाधिता᳓या᳓वासयन्न् उष᳓सँ सू᳓र्येण
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 कु॒वित् । अ॒ङ्ग । नम॑सा । ये । वृ॒धासः॑ । पु॒रा । दे॒वाः । अ॒न॒व॒द्यासः॑ । आस॑न् ।  
 ते । वा॒यवे॑ । मन॑वे । बा॒धि॒ताय॑ । अवा॑सयन् । उ॒षस॑म् । सूर्ये॑ण ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- कुवि᳓त् (*TS*-4, *RV*-50, *TB*-3, *AV*-4, *SB-M*-6, *SB-K*-5, *VS-M*-3, *VS-K*-3, *KS*-4)
+- अङ्ग᳓ (*TS*-3, *RV*-40, *TB*-3, *AV*-16, *SB-M*-3, *SB-K*-7, *VS-M*-4, *VS-K*-4, *KS*-1)
+- न᳓मसा (*TS*-7/315, *RV*-83/182, *TB*-8/60, *TK*-0/4, *AV*-12/248, *SB-M*-0/105, *SB-K*-0/102, *VS-M*-5/244, *VS-K*-5/167, *KS*-6/305)
+- ये᳓ (*TS*-213/3383, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/639, *VS-K*-82/581, *KS*-66/818)
+- वृधा᳓सः (*TS*-0/1, *RV*-7/60, *TB*-1, *AV*-0/8, *VS-M*-0/5, *VS-K*-0/4, *KS*-0/2)
+- पुरा᳓ (*TS*-38/56, *RV*-63/126, *TB*-23/25, *TK*-1, *AV*-46/74, *SB-M*-136/169, *SB-K*-147/180, *VS-M*-11/24, *VS-K*-10/23, *KS*-10/22)
+- देवाः᳓ (*TS*-376/1025, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-106/517, *VS-K*-97/498, *KS*-89/317)
+- अनवद्या᳓ (*TS*-0/1, *RV*-1/12, *AV*-0/3, *VS-M*-0/1, *VS-K*-0/1)
+- साः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- आ᳓सन् (*TS*-14, *RV*-5, *AV*-5/6, *SB-M*-4, *SB-K*-4, *VS-K*-1, *KS*-4)
+- ते᳓ (*TS*-451/4763, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *SB-K*-914/20018, *VS-M*-118/768, *VS-K*-88/624, *KS*-91/1225)
+- वाय᳓वे (*TS*-17/108, *RV*-25/89, *TB*-8/62, *TK*-0/13, *AV*-4/42, *SB-M*-12/252, *SB-K*-12/227, *VS-M*-10/46, *VS-K*-10/51, *KS*-7/32)
+- म᳓नवे (*TS*-3/35, *RV*-37/72, *TB*-3/13, *AV*-5/13, *SB-M*-3/29, *SB-K*-3/30, *VS-M*-3/6, *VS-K*-2/6, *KS*-2/7)
+- बाधिता᳓य (*RV*-3/7, *KS*-1)
+- अ᳓वासयन् (*RV*-1)
+- उष᳓सम् (*TS*-1/11, *RV*-44/174, *TB*-2/10, *TK*-1, *AV*-5/26, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-1/12, *VS-K*-1/9, *KS*-1/6)
+- सू᳓र्येण (*TS*-7/109, *RV*-41/337, *TB*-5/75, *TK*-0/8, *AV*-7/173, *SB-M*-6/152, *SB-K*-6/151, *VS-M*-1/36, *VS-K*-1/44, *KS*-3/52)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -243,6 +270,12 @@ For “hard-pressed Manu” see VI.49.13.
 
 WERE not in sooth, the Gods aforetime blameless, whose pleasure was increased by adoration?  
      For Vayu and for man in his affliction they caused the Morning to arise with Surya.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Surely, indeed, those faultless gods of old who were magnified with homage,  
+they, for Vāyu [and] for troubled Manu, made the dawn shine forth with the sun.
 </details>
 
 <details><summary>Geldner</summary>

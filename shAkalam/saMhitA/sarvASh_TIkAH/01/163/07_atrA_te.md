@@ -122,6 +122,12 @@ grásiṣṭhaḥ ← grásiṣṭha- (nominal stem)
 य॒दा ते॒ मर्तो॒ अनु॒ भोग॒मान॒डादिद्ग्रसि॑ष्ठ॒ ओष॑धीरजीगः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अत्रा ते रूपमुत्तममपश्यं जिगीषमाणमिष आ पदे गोः।  
+यदा ते मर्तो अनुभोगमानडादिवसिष्ठ ओषधीरजीगः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अत्र॑ । ते॒ । रू॒पम् । उ॒त्ऽत॒मम् । अ॒प॒श्य॒म् । जिगी॑षमाणम् । इ॒षः । आ । प॒दे । गोः ।  
@@ -141,6 +147,29 @@ grásiṣṭhaḥ ← grásiṣṭha- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अत्र॑ । ते॒ । रू॒पम् । उ॒त्त॒ममित्यु॑त्-त॒मम् । अ॒प॒श्य॒म् । जिगी॑षमाणम् । इ॒षः । एति॑ । प॒दे । गोः ॥ य॒दा । ते॒ । मर्तः॑ । अन्विति॑ । भोग॑म् । आन॑ट् । आत् । इत् । ग्रसि॑ष्ठः । ओष॑धीः । अ॒जी॒गः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓त्रा (*MS*-1/61, *TS*-3/23, *RV*-0/121, *TB*-0/48, *TK*-0/12, *AV*-0/57, *SB-M*-1/500, *SB-K*-4/444, *VS-M*-0/18, *VS-K*-1/18)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- रूप᳓म् (*MS*-79/137, *TS*-83/144, *RV*-18/37, *TB*-56/84, *TK*-3, *AV*-15/46, *SB-M*-320/480, *SB-K*-306/460, *VS-M*-30/43, *VS-K*-26/41)
+- उत्तम᳓म् (*MS*-28/67, *TS*-17/62, *RV*-21/39, *TB*-15/33, *TK*-0/1, *AV*-20/42, *SB-M*-68/173, *SB-K*-68/164, *VS-M*-16/24, *VS-K*-11/24)
+- अ᳓पश्यम् (*MS*-1, *TS*-1, *RV*-10, *AV*-2, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+- जि᳓गीषमाणम् (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- इषः᳓ (*MS*-5/27, *TS*-4/14, *RV*-18/55, *TB*-0/5, *AV*-0/3, *SB-M*-3/15, *SB-K*-1/13, *VS-M*-2/13, *VS-K*-1/13)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- पदे᳓ (*MS*-10/34, *TS*-10/27, *RV*-34/67, *TB*-8/17, *AV*-2/35, *SB-M*-11/67, *SB-K*-9/54, *VS-M*-5/16, *VS-K*-2/13)
+- गोः᳓ (*MS*-10/149, *TS*-6/108, *RV*-49/521, *TB*-1/76, *AV*-10/195, *SB-M*-25/168, *SB-K*-17/149, *VS-M*-4/67, *VS-K*-3/67)
+- यदा᳓ (*MW* ŚBr., *MS*-51, *TS*-16, *RV*-40, *TB*-23, *AV*-23, *SB-M*-219, *SB-K*-194, *VS-M*-4, *VS-K*-5)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- म᳓र्तः (*MS*-6/7, *TS*-7/9, *RV*-34/136, *TB*-3, *AV*-3/11, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-2/6)
+- अ᳓नुभोगम् (अनाम्नातम् (अनुमानम्))
+- आ᳓नट् (*Whitney*, *Lanman*, *MW*, *MS*-3, *TS*-2, *RV*-13, *TB*-1, *VS-M*-3, *VS-K*-4)
+- आ᳓दि (*MS*-2/9, *RV*-0/114, *TB*-0/1, *AV*-0/30, *SB-M*-1/3, *SB-K*-0/7, *VS-M*-0/9, *VS-K*-0/13)
+- व᳓सिष्ठः (*MS*-5/7, *TS*-10/13, *RV*-18/44, *TB*-3/6, *AV*-4/9, *SB-M*-14/19, *SB-K*-14/19, *VS-M*-2/4, *VS-K*-2/4)
+- ओ᳓षधीः (*MS*-45/137, *TS*-27/114, *RV*-50/89, *TB*-19/57, *TK*-2, *AV*-38/86, *SB-M*-54/93, *SB-K*-51/98, *VS-M*-22/44, *VS-K*-22/49)
+- अजीगः (समानान्तर-पाठः (TS), *TS*-1, *RV*-12, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -383,6 +412,13 @@ _________
 एवं त्वदीयमहिमानं निश्चितवानस्मीति।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[639_11]** So corr, Ch त्तममश्यं ; vgl. RV 1, 163, 7 ; TS 4, 6, 7, 3; VS 29, 18. (Thus emended Ch त्तममश्यं; cf. RV 1, 163, 7; TS 4, 6, 7, 3; VS 29, 18.)
+
+- **[639_12]** So corr. Ch मान॰ (Thus emended; Ch reads मान॰)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 अब शूरवीर लोग क्या करें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -459,6 +495,12 @@ Here I beheld thy form, matchless in glory, eager to win thee food at the Cow's 
 Here I saw thy highest form,  
 Eager to win food in the footstep of the cow; When a mortal man pleaseth thy taste,  
 Then most greedily dost thou consume the plants.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+There I saw your highest form, striving to conquer food in the place of the cow;  
+when a mortal enjoyed your service, then indeed, greediest, did you awaken the plants.
 </details>
 
 <details><summary>Geldner</summary>

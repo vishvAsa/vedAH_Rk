@@ -95,6 +95,12 @@ naḥ ← ahám (pronoun)
 दमे॑दमे स॒प्त रत्ना॒ दधा॑ना॒ शं नो॑ भूतं द्वि॒पदे॒ शं चतु॑ष्पदे ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सोमारुद्रा धारयेथामसुर्यं प्र वामिष्टयो ऽरमश्नुवन्तु।  
+दमे दमे सप्त रत्ना दधाना शं नो भूतं द्विपदे शं चतुष्पदे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सोमा॑रुद्रा । धा॒रये॑थाम् । अ॒सु॒र्य॑म् । प्र । वा॒म् । इ॒ष्टयः॑ । अर॑म् । अ॒श्नु॒व॒न्तु॒ ।  
@@ -261,6 +267,12 @@ In my view, iṣṭí- in b is meant to express both ‘desire’ and ‘sacrifi
 
 HOLD fast your Godlike sway, O Soma-Rudra: let these our sacrifices quickly reach you.  
      Placing in every house your seven great treasures, bring blessing to our quadrupeds and bipeds.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Soma and Rudra, maintain your asura-power; may your offerings reach [you] adequately!  
+Bestowing seven treasures in house after house, be peace to our two-footed, peace to our four-footed!
 </details>
 
 <details><summary>Geldner</summary>

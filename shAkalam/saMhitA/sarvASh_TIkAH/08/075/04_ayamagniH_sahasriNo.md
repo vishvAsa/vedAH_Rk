@@ -72,6 +72,12 @@ rayīṇā́m ← rayí- ~ rāy- (nominal stem)
 मू॒र्धा क॒वी र॑यी॒णाम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अय᳓म् अग्निः᳓ सहस्रि᳓णो वा᳓जस्य शति᳓नस् प᳓तिः  
+मूर्धा᳓ कवी᳓ रयीणा᳓म्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒यम् । अ॒ग्निः । स॒ह॒स्रिणः॑ । वाज॑स्य । श॒तिनः॑ । पतिः॑ ।  
@@ -91,6 +97,19 @@ rayīṇā́m ← rayí- ~ rāy- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒यम् । अ॒ग्निः । स॒ह॒स्रिणः॑ । वाज॑स्य । श॒तिनः॑ । पतिः॑ ॥ मू॒र्धा । क॒विः । र॒यी॒णाम् ॥।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अय᳓म् (*TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-74/313, *VS-K*-65/289, *KS*-45/319)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-122/322, *VS-K*-113/339, *KS*-111/256)
+- सहस्रि᳓णः (*TS*-4/8, *RV*-9/39, *TB*-1/4, *TK*-0/1, *AV*-0/4, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-2, *VS-K*-2, *KS*-1/5)
+- वा᳓जस्य (*TS*-21/92, *RV*-32/350, *TB*-5/35, *TK*-0/1, *AV*-5/49, *SB-M*-17/73, *SB-K*-15/71, *VS-M*-16/69, *VS-K*-17/67, *KS*-8/53)
+- शति᳓नः (*TS*-3/4, *RV*-4/10, *AV*-0/2, *SB-K*-0/1, *VS-M*-1, *VS-K*-1, *KS*-0/1)
+- प᳓तिः (*TS*-25/45, *RV*-95/200, *TB*-7/21, *TK*-1/6, *AV*-60/137, *SB-M*-43/64, *SB-K*-44/61, *VS-M*-22/44, *VS-K*-25/55, *KS*-13/26)
+- मूर्धा᳓ (*TS*-19, *RV*-8, *TB*-1, *TK*-3, *AV*-3, *SB-M*-22, *SB-K*-22, *VS-M*-1, *VS-K*-1, *KS*-5)
+- कवी᳓ (*TS*-2/31, *RV*-7/200, *TB*-3/21, *AV*-1/30, *SB-M*-0/11, *SB-K*-0/9, *VS-M*-2/23, *VS-K*-2/25, *KS*-0/18)
+- रयीणा᳓म् (*TS*-13/63, *RV*-41/269, *TB*-4/20, *TK*-4, *AV*-12/65, *SB-M*-2/22, *SB-K*-2/20, *VS-M*-8/35, *VS-K*-7/32, *KS*-6/27)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -305,6 +324,12 @@ This Agni is lord of a thousandfold,. A hundredfold, strength; The sage, the hea
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 This Agni is the Master of spoil thousandfold and hundredfold, the sapient one, the head of wealth.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This Agni is the lord of thousandfold, of hundredfold prize,  
+the head, the poet of riches.
 </details>
 
 <details><summary>Geldner</summary>

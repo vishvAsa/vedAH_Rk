@@ -293,6 +293,12 @@ His protector thou art, the comrade of him
 Who duly offereth thee glad reception.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who comes to you, O Agni, with good horses, with fine gold, with a chariot rich in goods—  
+of him you become the protector, his friend, who has constantly enjoyed your hospitality.
+</details>
+
 <details><summary>Geldner</summary>
 
 Der Besitzer schöner Rosse, schönen Goldes, der zu dir, Agni, auf schätzebeladenem Wagen kommt, dessen Schirmer wirst du, dessen Freund, und wer sich deiner Gastfreundschaft gebührlich erfreut.

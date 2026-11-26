@@ -204,6 +204,12 @@ Release us from the upper bond, untie the bond between, and loose
      The bonds below, that I may live.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Loosen the highest bond from us, untie the middle one,  
+[and loosen] the lowest ones, so that we may live.' //
+</details>
+
 <details><summary>Geldner</summary>
 
 Löse die oberste Schlinge von uns auf, mach die mittlere los, streif die unterste Schlinge ab, damit ich lebe!

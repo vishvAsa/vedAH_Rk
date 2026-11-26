@@ -91,6 +91,12 @@ víśvam ← víśva- (nominal stem)
 विश्व॒मायु॒र्व्य॑श्ञवत् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ग्नीषोमा य᳓ आ᳓हुतिँ यो᳓ वां दा᳓शाद् धवि᳓ष्कृतिम्  
+स᳓ प्रज᳓या सुवी᳓र्यँ वि᳓श्वम् आ᳓युर् व्य᳙श्नवत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्नी॑षोमा । यः । आऽहु॑तिम् । यः । वा॒म् । दाशा॑त् । ह॒विःऽकृ॑तिम् ।  
@@ -100,6 +106,26 @@ víśvam ← víśva- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अ᳓ग्नी-सोमा । यः᳓ । आ᳓-हुतिम् । यः᳓ । वाम् । दा᳓शात् । हविः᳓-कृतिम् । सः᳓ । प्र-ज᳓या । सु-वी᳓र्यम् । वि᳓श्वम् । आ᳓ । अयुः । वि᳓ । अश्ञवत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ग्नी-सोमा (*TS*-3/6, *TB*-5, *KS*-2/4)
+- यः᳓ (*TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609, *KS*-223/818)
+- आ᳓-हुतिम् (*TS*-17/82, *RV*-10/14, *TB*-20/62, *TK*-0/1, *AV*-7/15, *SB-M*-91/366, *SB-K*-93/355, *VS-M*-0/4, *VS-K*-0/5, *KS*-4/23)
+- यः᳓ (*TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609, *KS*-223/818)
+- वाम् (अनुदात्तम्, पा॰ ८.१.१८, *TS*-52, *RV*-514, *TB*-26, *TK*-1, *AV*-65, *SB-M*-40, *SB-K*-37, *VS-M*-19, *VS-K*-15, *KS*-19)
+- दा᳓शात् (*RV*-4, *TB*-1/2, *SB-M*-0/1, *VS-M*-0/1, *VS-K*-0/1)
+- धव् (मूल-पाठः)
+- इ᳓ष्कृतिम् (*RV*-0/1, *VS-M*-0/1, *VS-K*-0/2)
+- सः᳓ (*TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660, *KS*-225/1225)
+- प्र-ज᳓या (*TS*-59/482, *RV*-11/70, *TB*-42/258, *TK*-1/13, *AV*-37/164, *SB-M*-40/595, *SB-K*-42/626, *VS-M*-7/68, *VS-K*-8/61, *KS*-10/82)
+- सु-वी᳓र्यम् (*TS*-14/19, *RV*-57/75, *TB*-6/8, *AV*-4/7, *SB-M*-8/9, *SB-K*-7/9, *VS-M*-3/4, *VS-K*-0/2, *KS*-4/8)
+- वि᳓श्वम् (*TS*-24/283, *RV*-140/1116, *TB*-20/125, *TK*-71/124, *AV*-59/353, *SB-M*-31/248, *SB-K*-27/219, *VS-M*-29/225, *VS-K*-22/224, *KS*-14/118)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414, *KS*-316)
+- अयुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *TB*-60, *TK*-8, *SB-M*-25, *SB-K*-97, *KS*-37)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127, *KS*-135)
+- अश्नवत् (*RV*-9, *AV*-1, *SB-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -238,6 +264,12 @@ A choppy series of clauses, five in the first three pādas, with only the last d
 
 The man who offers holy oil and burnt oblations unto you,  
      Agni and Soma, shall enjoy great strength, with offspring, all his life.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni-and-Soma, whoever presents an oblation to you, who performs sacrificial offering,  
+may he attain full span of life with offspring, with good manly strength!
 </details>
 
 <details><summary>Geldner</summary>

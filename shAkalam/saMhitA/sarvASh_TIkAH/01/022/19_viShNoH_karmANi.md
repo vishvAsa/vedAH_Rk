@@ -353,6 +353,21 @@ Wherein he displayed his laws,
 Indra's true friend.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Behold the deeds of Viṣṇu, from where he observed the vows,  
+the worthy companion of Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Behold the deeds of Viṣṇu, from where he watched over the vows,  
+the allied friend of Indra.
+
+Behold the deeds of Viṣṇu, whence he observed the ordinances,  
+the allied comrade of Indra.
+</details>
+
 <details><summary>Geldner</summary>
 
 Schaut die Werke des Vishnu, von wo aus er auf seine Gebote acht gibt, des Indra treuer Freund!

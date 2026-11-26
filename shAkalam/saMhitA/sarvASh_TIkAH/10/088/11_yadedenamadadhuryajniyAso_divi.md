@@ -98,10 +98,39 @@ víśvā ← víśva- (nominal stem)
 य॒दा च॑रि॒ष्णू मि॑थु॒नावभू॑ता॒मादित्प्राप॑श्य॒न्भुव॑नानि॒ विश्वा॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+यदे᳓द् एनम् अ᳓दधुर् यज्ञि᳓यासो दिवि᳓ देवाः᳓ सू᳓र्यम् आदितेय᳓म्  
+यदा᳓ चरिष्णू᳓ मिथुना᳓ अ᳓भूताम् आ᳓द् इ᳓त् प्रा᳓पश्यन् भु᳓वनानि वि᳓श्वा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 य॒दा । इत् । ए॒न॒म् । अद॑धुः । य॒ज्ञिया॑सः । दि॒वि । दे॒वाः । सूर्य॑म् । आ॒दि॒ते॒यम् ।  
 य॒दा । च॒रि॒ष्णू इति॑ । मि॒थु॒नौ । अभू॑ताम् । आत् । इत् । प्र । अ॒प॒श्य॒न् । भुव॑नानि । विश्वा॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- यदा᳓ (*TS*-16, *RV*-40, *TB*-23, *AV*-23, *SB-M*-219, *SB-K*-194, *VS-M*-4, *VS-K*-4, *KS*-13)
+- इत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-77, *TB*-27, *TK*-4, *VS-M*-1, *VS-K*-1, *KS*-20)
+- एनम् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *TS*-568, *RV*-76, *TB*-338, *TK*-26, *AV*-250, *SB-M*-1703, *SB-K*-1791, *VS-M*-27, *VS-K*-20, *KS*-92)
+- अ᳓दधुः (*TS*-2, *RV*-10, *TB*-1, *AV*-3, *SB-M*-8, *SB-K*-11, *VS-M*-1)
+- यज्ञि᳓यासः (*TS*-1/44, *RV*-15/96, *TB*-1/26, *AV*-2/39, *SB-M*-1/54, *SB-K*-1/50, *VS-M*-1/16, *VS-K*-1/12, *KS*-1/21)
+- दिवि᳓ (*TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-23/172, *KS*-21/128)
+- देवाः᳓ (*TS*-376/1025, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-106/517, *VS-K*-97/498, *KS*-89/317)
+- सू᳓र्यम् (*TS*-14/109, *RV*-88/337, *TB*-5/75, *TK*-1/8, *AV*-47/173, *SB-M*-19/152, *SB-K*-16/151, *VS-M*-6/36, *VS-K*-7/44, *KS*-11/52)
+- आदितेय᳓म् (*RV*-1)
+- यदा᳓ (*TS*-16, *RV*-40, *TB*-23, *AV*-23, *SB-M*-219, *SB-K*-194, *VS-M*-4, *VS-K*-4, *KS*-13)
+- चरिष्णू᳓ (*RV*-1/5)
+- मिथुनाः᳓ (*TS*-2/63, *RV*-2/21, *TB*-1/33, *AV*-2/11, *SB-M*-1/215, *SB-K*-1/208, *KS*-5/15)
+- अ᳓भूताम् (*TS*-0/7, *RV*-1/16, *TB*-0/3, *AV*-0/6, *SB-M*-0/18, *SB-K*-0/15, *VS-M*-0/4, *VS-K*-0/4, *KS*-0/1)
+- आ᳓त् (*RV*-112, *AV*-30, *SB-M*-1, *SB-K*-5, *VS-M*-8, *VS-K*-8)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-60, *VS-K*-46, *KS*-42)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- अपश्यन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-41, *RV*-3, *TB*-13, *AV*-2, *SB-M*-72, *SB-K*-61, *VS-M*-3, *VS-K*-3, *KS*-5)
+- भु᳓वनानि (*TS*-11/39, *RV*-59/144, *TB*-6/32, *TK*-0/6, *AV*-29/65, *SB-M*-8/30, *SB-K*-3/26, *VS-M*-18/42, *VS-K*-17/39, *KS*-6/16)
+- वि᳓श्वा (*TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/214, *VS-K*-33/214, *KS*-19/118)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -255,6 +284,12 @@ when the wandering pair [=Sun and Moon?] came into existence, only  after that d
 
 What time the Gods, whose due is worship, set him as Surya, Son of Aditi, in heaven,  
      When the Pair, ever wandering, sprang to being, all creatures that existed looked upon them.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When indeed the worshipful gods placed him in heaven, Sūrya the son of Aditi,  
+when the moving pair arose, then indeed they looked forth upon all the worlds.
 </details>
 
 <details><summary>Geldner</summary>

@@ -78,6 +78,12 @@ ráṇāya ← ráṇa- (nominal stem)
 म॒हे रणा॑य॒ चक्ष॑से ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓पो हि᳓ ष्ठा᳓ मयोभु᳓वस्ता᳓ न ऊर्जे᳓ दधातन।  
+महे᳓ र᳓णाय च᳓क्षमे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आपः॑ । हि । स्थ । म॒यः॒ऽभुवः॑ । ताः । नः॒ । ऊ॒र्जे । द॒धा॒त॒न॒ ।  
@@ -97,6 +103,21 @@ ráṇāya ← ráṇa- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 आपः॑ । हि । स्थ । म॒यो॒भुव॒ इति॑ मयः-भुवः॑ । ताः । नः॒ । ऊ॒र्जे । द॒धा॒त॒न॒ ॥ म॒हे । रणा॑य । चक्ष॑से ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓पः (*MS*-125/374, *TS*-98/319, *RV*-151/532, *TB*-59/152, *TK*-6/14, *AV*-141/324, *SB-M*-332/760, *SB-K*-333/744, *VS-M*-51/146, *VS-K*-37/124)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- ष्ठा᳓ (*MS*-4, *TB*-1, *SB-M*-1, *SB-K*-3)
+- मयः-भु᳓वः (*TS*-5, *RV*-11/16, *TB*-2, *AV*-2, *SB-K*-1, *VS-M*-3, *VS-K*-3, *MS*-4/5)
+- ताः᳓ (*MS*-302/5550, *TS*-136/4761, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/780, *VS-K*-17/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- ऊर्जे᳓ (*MS*-13/63, *TS*-6/42, *RV*-2/22, *TB*-3/13, *AV*-3/19, *SB-M*-12/44, *SB-K*-13/40, *VS-M*-5/24, *VS-K*-8/25)
+- दधातन (*MS*-4, *TS*-5, *RV*-10, *AV*-2, *VS-M*-4, *VS-K*-4)
+- महे᳓ (*MS*-6/36, *TS*-6/26, *RV*-95/364, *TB*-5/17, *TK*-0/5, *AV*-14/77, *SB-M*-0/37, *SB-K*-0/37, *VS-M*-5/35, *VS-K*-5/41)
+- र᳓णाय (*MS*-5/6, *TS*-5/6, *RV*-14/26, *TB*-2/3, *AV*-9/12, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-4/5, *VS-K*-4/5)
+- च᳓क्षमे (मूल-पाठः)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -366,6 +387,13 @@ _____________
 एताश्च तिस्रः 'वि पाजसा' इत्यत्र व्याख्याताः । हे आपः यूयं आपो व्यापिकास्स्थ । मयोभुवः सुखस्य भावयित्र्यः ता यूयं ऊर्जे अन्नार्थं रसार्थं वा दधातन धारयत । महते रमणीयाय दर्शनीयाय वा ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[223_3]** Von hier bis zum Schluss accentuirt nach T6 fol. 11, coll. mit Brl fol. 9. (From here to the end, accented after T6 fol. 11, collated with Brl fol. 9.)
+
+- **[519_10]** Dieser Vers in W1ß nur abgekürzt gegeben; cf. RV 10, 9, 1. (This verse given only in abbreviated form in W1ß; cf. RV 10, 9, 1.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -472,6 +500,18 @@ To see great joy.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Ye, Waters, are, etc., as in XL 50.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Since the waters are joyous, bestow sap upon us,  
+for great and delightful sight.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+For you, Waters, are comforting; as such, set us in strength,  
+for great joy, for vision!
 </details>
 
 <details><summary>Geldner</summary>

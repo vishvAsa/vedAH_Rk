@@ -81,6 +81,18 @@ yántā ← √i- 1 (root)
 स यन्ता॒ शश्व॑ती॒रिषः॑ ॥ [23]
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+य᳓म् अग्ने पृत्सु᳓ म᳓र्त्यम् अ᳓वा वा᳓जेषु यं᳓ जुनाः᳓  
+स᳓ य᳓न्ता श᳓श्वतीर् इ᳓षः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+यमग्ने पृत्सु मर्त्यमवा वाजेषु यं जुनाः।  
+स यन्ता शश्वतीरिषः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यम् । अ॒ग्ने॒ । पृ॒त्ऽसु । मर्त्य॑म् । अवाः॑ । वाजे॑षु । यम् । जु॒नाः ।  
@@ -90,6 +102,38 @@ yántā ← √i- 1 (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 यम् । अ॒ग्ने॒ । पृ॒त्स्विति॑ पृत्-सु । मर्त्य॑म् । आवः॑ । वाजे॑षु । यम् । जु॒नाः ॥ सः । यन्ता॑ । शश्व॑तीः । इषः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- य᳓म् (*TS*-164/3383, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-60/639, *VS-K*-38/581, *KS*-31/818)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- पृत्सु᳓ (*TS*-4, *RV*-31/32, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-3)
+- म᳓र्त्यम् (*TS*-2/14, *RV*-30/182, *TB*-0/6, *TK*-1/3, *AV*-3/37, *SB-M*-32/84, *SB-K*-31/81, *VS-K*-0/8, *KS*-0/9)
+- अ᳓वाः (*TS*-0/5, *RV*-1/78, *TB*-1/7, *AV*-0/2, *SB-M*-2/5, *SB-K*-3/7, *VS-M*-1/5, *VS-K*-1/4, *KS*-0/4)
+- वा᳓जेषु (*TS*-4/92, *RV*-41/350, *TB*-2/35, *TK*-0/1, *AV*-6/49, *SB-M*-1/73, *SB-K*-1/71, *VS-M*-2/69, *VS-K*-2/67, *KS*-1/53)
+- य᳓म् (*TS*-164/3383, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-60/639, *VS-K*-38/581, *KS*-31/818)
+- जुनाः᳓ (*TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-91/624, *KS*-225/1225)
+- य᳓न्ता (*TS*-1/39, *RV*-3/39, *TB*-0/17, *TK*-0/2, *AV*-2/36, *SB-M*-1/106, *SB-K*-2/123, *VS-M*-1/9, *VS-K*-1/8, *KS*-0/6)
+- श᳓श्वतीः (*TS*-1, *RV*-3/16, *TB*-0/1, *AV*-1/2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-0/1)
+- इ᳓षः (*TS*-8/55, *RV*-73/219, *TB*-4/24, *TK*-0/1, *AV*-4/25, *SB-M*-10/41, *SB-K*-9/41, *VS-M*-6/39, *VS-K*-5/37, *KS*-5/16)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓म् (*MS*-183/3763, *TS*-164/3385, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-63/651, *VS-K*-38/609)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- पृत्सु᳓ (*MW*, *MS*-4, *TS*-4, *RV*-31/32, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1)
+- म᳓र्त्यम् (*MS*-4/18, *TS*-2/14, *RV*-30/182, *TB*-0/6, *TK*-1/3, *AV*-3/37, *SB-M*-32/84, *SB-K*-31/81, *VS-K*-0/8)
+- अ᳓वाः (*MS*-2/10, *TS*-0/5, *RV*-1/78, *TB*-1/7, *AV*-0/2, *SB-M*-2/5, *SB-K*-3/7, *VS-M*-1/5, *VS-K*-1/4)
+- वा᳓जेषु (*MS*-6/115, *TS*-4/92, *RV*-41/350, *TB*-2/35, *TK*-0/1, *AV*-6/49, *SB-M*-1/73, *SB-K*-1/71, *VS-M*-2/71, *VS-K*-2/73)
+- य᳓म् (*MS*-183/3763, *TS*-164/3385, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-63/651, *VS-K*-38/609)
+- जुनाः᳓ (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- य᳓न्ता (*MS*-1/49, *TS*-1/39, *RV*-3/39, *TB*-0/17, *TK*-0/2, *AV*-2/36, *SB-M*-1/106, *SB-K*-2/123, *VS-M*-1/9, *VS-K*-1/8)
+- श᳓श्वतीः (*MS*-1/2, *TS*-1, *RV*-3/16, *TB*-0/1, *AV*-1/2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- इ᳓षः (*MS*-7/66, *TS*-8/55, *RV*-73/219, *TB*-4/24, *TK*-0/1, *AV*-4/25, *SB-M*-10/41, *SB-K*-9/41, *VS-M*-6/39, *VS-K*-5/47)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -233,6 +277,18 @@ Of golden colour, win ye for help.
 <details><summary>Keith (तैत्तिरीयम्)</summary>
 
 That mortal, O Agni, whom thou hast helped in the battles, Whom thou hast strengthened in the contest for booty, He winneth I abiding strength.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Which mortal in battles, O Agni, you help, whom in contests for prize you urge on,  
+he is the guide to constant refreshments.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Whom in battles, O Agni, you protect, the mortal whom in contests you impel,  
+he obtains perpetual refreshments. Svāhā.
 </details>
 
 <details><summary>Geldner</summary>

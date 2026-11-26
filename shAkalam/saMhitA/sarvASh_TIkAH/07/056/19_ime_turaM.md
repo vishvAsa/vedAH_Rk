@@ -103,6 +103,12 @@ gurú ← gurú- (nominal stem)
 गु॒रुद्वेषो॒ अर॑रुषे दधन्ति ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इमे᳓ तुरं᳓ मरु᳓तो रामयन्तीमे᳓ स᳓हः स᳓हसा आ᳓नमन्ति  
+इमे᳓ शँ᳓सँ वनुष्यतो᳓ नि᳓पान्ति गुरु᳓ द्वे᳓षो अ᳓ररुषे दधन्ति
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒मे । तु॒रम् । म॒रुतः॑ । र॒म॒य॒न्ति॒ । इ॒मे । सहः॑ । सह॑सः । आ । न॒म॒न्ति॒ ।  
@@ -112,6 +118,29 @@ gurú ← gurú- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 इमे᳓ । तुर᳓म् । मरु᳓तः । राम । यन्ति । इमे᳓ । स᳓हः । स᳓हसः । आ᳓ । नमन्ति । इमे᳓ । शं᳓सम् । वनुष्यतः᳓ । नि᳓ । पान्ति । गुरु᳓ । द्वे᳓षः । अ᳓ररुषे । दधन्ति ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इमे᳓ (*TS*-73/965, *RV*-105/1247, *TB*-56/567, *TK*-1/57, *AV*-55/1259, *SB-M*-324/5239, *SB-K*-332/5549, *VS-M*-7/319, *VS-K*-8/301, *KS*-17/319)
+- तुर᳓म् (*TS*-0/4, *RV*-3/43, *TB*-1/3, *AV*-0/7, *SB-M*-0/4, *SB-K*-0/2, *VS-M*-0/3, *VS-K*-0/2, *KS*-0/5)
+- मरु᳓तः (*TS*-46/82, *RV*-134/227, *TB*-30/51, *TK*-1, *AV*-37/58, *SB-M*-53/95, *SB-K*-54/93, *VS-M*-26/48, *VS-K*-20/40, *KS*-20/29)
+- राम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-1, *SB-M*-1)
+- यन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-117, *RV*-76, *TB*-34, *TK*-2, *AV*-22, *SB-M*-133, *SB-K*-108, *VS-K*-1, *KS*-10)
+- इमे᳓ (*TS*-73/965, *RV*-105/1247, *TB*-56/567, *TK*-1/57, *AV*-55/1259, *SB-M*-324/5239, *SB-K*-332/5549, *VS-M*-7/319, *VS-K*-8/301, *KS*-17/319)
+- स᳓हः (*TS*-18/35, *RV*-47/122, *TB*-11/28, *TK*-2/4, *AV*-30/50, *SB-M*-11/21, *SB-K*-10/24, *VS-M*-15/28, *VS-K*-22/40, *KS*-8/18)
+- स᳓हसाः (*TS*-0/7, *RV*-0/35, *TB*-0/4, *TK*-0/1, *AV*-0/7, *SB-M*-0/3, *SB-K*-0/2, *VS-M*-0/9, *VS-K*-0/9, *KS*-0/4)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414, *KS*-316)
+- नमन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-2, *TB*-3, *AV*-1, *SB-M*-2, *SB-K*-3)
+- इमे᳓ (*TS*-73/965, *RV*-105/1247, *TB*-56/567, *TK*-1/57, *AV*-55/1259, *SB-M*-324/5239, *SB-K*-332/5549, *VS-M*-7/319, *VS-K*-8/301, *KS*-17/319)
+- शं᳓सम् (*RV*-21/41, *TB*-1/2, *AV*-1/4, *SB-M*-2/3, *SB-K*-1/2, *VS-M*-1/2, *VS-K*-1/2, *KS*-1/2)
+- वनुष्यतः᳓ (*RV*-10/11, *TB*-2)
+- नि᳓ (*TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36, *KS*-78)
+- पान्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-7, *TB*-4)
+- गुरु᳓ (*RV*-4/6, *TB*-1, *AV*-2, *SB-M*-1/2, *SB-K*-1/2)
+- द्वे᳓षः (*TS*-6/10, *RV*-23/40, *TB*-2/6, *AV*-6/10, *SB-M*-4/7, *SB-K*-3/6, *VS-M*-7/14, *VS-K*-8/14, *KS*-2/4)
+- अ᳓ररुषे (*RV*-1/8, *TB*-1/2, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/2)
+- दधन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *TB*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -275,6 +304,12 @@ As was just noted, vs. 17 “feels” like a final (or pseudo-final) vs. If vs. 
 
 These Maruts bring the swift man to a stand-still, and strength with mightier strength they break and humble  
      These guard the singer from the man who hates him and lay their sore displeasure on the wicked.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+These Maruts halt the swift one; these bend power by power;  
+these protect from the curse of the assailant; they place heavy hatred on the non-giver.
 </details>
 
 <details><summary>Geldner</summary>

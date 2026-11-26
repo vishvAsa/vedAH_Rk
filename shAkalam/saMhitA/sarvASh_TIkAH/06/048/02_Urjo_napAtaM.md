@@ -95,6 +95,12 @@ utá ← utá (invariable)
 भुव॒द्वाजे॑ष्ववि॒ता भुव॑द् वृ॒धऽउ॒त त्रा॒ता त॒नूना॑म् ॥४४ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+ऊर्जो᳓ न᳓पातँ स᳓ हिना᳓य᳓म् अस्मयु᳓र् दा᳓शेम हव्य᳓दातये  
+भु᳓वद् वा᳓जेष्व् अविता᳓ भु᳓वद् वृध᳓ उत᳓ त्राता᳓ तनू᳓नाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ऊ॒र्जः । नपा॑तम् । सः । हि॒न । अ॒यम् । अ॒स्म॒ऽयुः । दाशे॑म । ह॒व्यऽदा॑तये ।  
@@ -109,6 +115,26 @@ utá ← utá (invariable)
 <details><summary>पदपाठः - काण्वः</summary>
 
 ऊ॒र्जः। नपा॑तम्। सः। हि॒न। अ॒यम्। अ॒स्म॒युरित्य॑स्म॒ऽयुः। दाशे॑म। ह॒व्यदा॑तय॒ इति॑ ह॒व्यऽदा॑तये। भुव॑त्। वाजे॑षु। अ॒वि॒ता। भुव॑त्। वृ॒धे। उ॒त। त्रा॒ता। त॒नूना॑म्। १२।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- ऊर्जः᳓ (*TS*-6/42, *RV*-11/22, *TB*-5/13, *AV*-6/19, *SB-M*-8/44, *SB-K*-3/40, *VS-M*-5/24, *VS-K*-3/25, *KS*-5/16)
+- न᳓पातम् (*TS*-4/5, *RV*-20/42, *TB*-4, *AV*-4/5, *SB-M*-0/3, *SB-K*-0/1, *VS-M*-3/5, *VS-K*-3/5, *KS*-2/7)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-91/624, *KS*-225/1225)
+- हि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-5, *TB*-25, *TK*-5, *SB-M*-21, *SB-K*-8, *VS-K*-3, *KS*-8)
+- ना᳓य᳓म् → **नाय᳓म्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *RV*-2, *SB-K*-2)
+- अस्म-युः᳓ (*TS*-0/1, *RV*-18/24, *AV*-2, *SB-M*-0/1, *VS-M*-1/2, *VS-K*-1/2)
+- दा᳓शेम (*TS*-1, *RV*-4, *VS-M*-1, *VS-K*-1)
+- हव्य᳓-दातये (*TS*-0/1, *RV*-7/17, *TB*-0/3, *AV*-0/2, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-2/3, *VS-K*-1, *KS*-0/4)
+- भु᳓वत् (*RV*-25/28, *TB*-0/1, *AV*-4, *VS-M*-2, *VS-K*-2)
+- वा᳓जेषु (*TS*-4/92, *RV*-41/350, *TB*-2/35, *TK*-0/1, *AV*-6/49, *SB-M*-1/73, *SB-K*-1/71, *VS-M*-2/69, *VS-K*-2/67, *KS*-1/53)
+- अविता᳓ (*TS*-2/3, *RV*-38/42, *AV*-7/10, *SB-M*-1, *SB-K*-1, *VS-M*-3/4, *VS-K*-3/4, *KS*-5)
+- भु᳓वत् (*RV*-25/28, *TB*-0/1, *AV*-4, *VS-M*-2, *VS-K*-2)
+- वृधः᳓ (*TS*-0/1, *RV*-17/60, *TB*-0/1, *AV*-4/8, *VS-M*-0/5, *VS-K*-0/4, *KS*-0/2)
+- उत᳓ (*TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-70, *KS*-55)
+- त्राता᳓ (*TS*-3/7, *RV*-13/22, *TB*-1, *AV*-2/4, *SB-M*-1/2, *SB-K*-1, *VS-M*-5/8, *VS-K*-5/8, *KS*-2/5)
+- तनू᳓नाम् (*TS*-1/64, *RV*-15/24, *TB*-0/21, *AV*-5/15, *SB-M*-1/44, *SB-K*-0/43, *VS-M*-2/20, *VS-K*-2/33, *KS*-1/29)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -387,6 +413,12 @@ The first hemistich of this vs. is problematic. First, the acc. phrase ūrjó n�
 
 The Son of Strength; for is he not our gracious Lord? Let us serve him who bears our gifts.  
      In battle may he be our help and strengthener, yea, be the saviour of our lives.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To the Child of Nourishment, since he is benevolent, affectionate to us, let us offer for the giving of oblations;  
+may he be a helper in contests, may he be an increaser and protector of our bodies.
 </details>
 
 <details><summary>Geldner</summary>

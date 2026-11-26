@@ -220,6 +220,17 @@ HITHERWARD! they who light flame and straightway trim the sacred grass.
      Whose Friend is Indra ever young.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indeed, they who kindle the fire, who spread the sacrificial grass continuously,  
+they have Indra as a youthful friend.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+O Agni, conquer all those enemies in battles; shine upon all our days, being gracious!
+</details>
+
 <details><summary>Geldner</summary>
 
 Die jetzt das Feuer entzünden und das Barhis regelrecht hinbreiten, deren jugendlicher Freund Indra ist,

@@ -66,6 +66,12 @@ vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)
 वृष्णे॑ चोदस्व सुष्टु॒तिम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+क᳓स्मै नून᳓मभि᳓द्यवे वाचा᳓ विरूप नि᳓त्यया।  
+वृ᳓ष्णे चोदस्व सुष्टुति᳓म्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तस्मै॑ । नू॒नम् । अ॒भिऽद्य॑वे । वा॒चा । वि॒ऽरू॒प॒ । नित्य॑या ।  
@@ -75,6 +81,19 @@ vŕ̥ṣṇe ← vŕ̥ṣan- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 तस्मै॑ । नू॒नम् । अ॒भिद्य॑व॒ इत्य॒भि-द्य॒वे॒ । वा॒चा । वि॒रू॒पेति॑ वि-रू॒प॒ । नित्य॑या ॥ वृष्णे॑ । चो॒द॒स्व॒ । सु॒ष्टु॒तिमिति॑ सु-स्तु॒तिम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- क᳓स्मै (*MS*-20/183, *TS*-22/158, *RV*-13/375, *TB*-6/93, *TK*-1/20, *AV*-10/216, *SB-M*-15/890, *SB-K*-15/850, *VS-M*-18/98, *VS-K*-18/86)
+- नून᳓म् (*MS*-9, *TS*-5, *RV*-104, *TB*-4, *AV*-13, *SB-M*-8, *SB-K*-8, *VS-M*-12, *VS-K*-5)
+- अभि᳓-द्यवे (*MS*-1/3, *TS*-1/2, *RV*-1/15, *AV*-0/2, *SB-M*-0/5, *SB-K*-0/4)
+- वाचा᳓ (*MS*-48/81, *TS*-29/73, *RV*-12/34, *TB*-16/44, *AV*-25/44, *SB-M*-99/184, *SB-K*-99/176, *VS-M*-7/29, *VS-K*-6/35)
+- वि-रूप (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-3, *RV*-1, *AV*-5, *SB-M*-1, *SB-K*-1)
+- नि᳓त्यया (*MS*-1/4, *TS*-1/2, *RV*-2/34, *TB*-0/2, *AV*-0/1, *SB-M*-0/4, *SB-K*-0/5, *VS-M*-0/1, *VS-K*-0/1)
+- वृ᳓ष्णे (*MS*-7/15, *TS*-5/14, *RV*-34/78, *TB*-1/4, *AV*-6/13, *SB-M*-3/4, *SB-K*-2/6, *VS-M*-2/13, *VS-K*-2/12)
+- चोदस्व (*MS*-1, *TS*-1, *RV*-2)
+- सु-ष्टुति᳓म् (*MS*-2/5, *TS*-2/3, *RV*-1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-2/3, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -191,6 +210,12 @@ Now, O Virupa, rouse for him, Strong God who shines at early morn,
 <details><summary>Keith</summary>
 
 To him, the heavenly, Now with constant voice, O Virupa, To the strong one urge the hymn of praise.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To what sun-bright one now, with constant voice, O Virūpa,  
+do you urge a good praise to the bull?
 </details>
 
 <details><summary>Geldner</summary>

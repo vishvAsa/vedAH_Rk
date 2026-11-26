@@ -92,10 +92,36 @@ hiraṇyadā́ḥ ← hiraṇyadā́- (nominal stem)
 हि॒र॒ण्यया॒त्परि॒ योने॑र्नि॒षद्या॑ हिरण्य॒दा द॑द॒त्यन्न॑मस्मै ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+हि᳓रण्यवर्णः स᳓ हि᳓रण्यसंदृग् अपां᳓ न᳓पात् से᳓द् उ हि᳓रण्यवर्णः  
+हिरण्य᳓यात् प᳓रि यो᳓नेर् निष᳓द्य हिरण्यदा᳓ ददत्य् अ᳓न्नम् अस्मै
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 हिर॑ण्यऽरूपः । सः । हिर॑ण्यऽसन्दृक् । अ॒पाम् । नपा॑त् । सः । इत् । ऊं॒ इति॑ । हिर॑ण्यऽवर्णः ।  
 हि॒र॒ण्यया॒त् । परि॑ । योनेः॑ । नि॒ऽसद्य॑ । हि॒र॒ण्य॒ऽदाः । द॒द॒ति॒ । अन्न॑म् । अ॒स्मै॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- हि᳓रण्य-वर्णः (*TS*-0/4, *RV*-1/6, *TB*-2/5, *AV*-1/6, *VS-M*-1, *KS*-0/1)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-91/624, *KS*-225/1225)
+- हि᳓रण्य-सन्दृक् (*RV*-1)
+- अपा᳓म् (*TS*-81/319, *RV*-111/532, *TB*-27/152, *TK*-1/14, *AV*-62/324, *SB-M*-102/760, *SB-K*-102/744, *VS-M*-46/146, *VS-K*-37/122, *KS*-28/99)
+- न᳓पात् (*TS*-1/5, *RV*-15/42, *TB*-0/4, *AV*-1/5, *SB-M*-3, *SB-K*-1, *VS-M*-2/5, *VS-K*-2/5, *KS*-5/7)
+- से᳓त् (*TB*-1, *SB-M*-2, *SB-K*-4, *KS*-3)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6, *KS*-77)
+- हि᳓रण्य-वर्णः (*TS*-0/4, *RV*-1/6, *TB*-2/5, *AV*-1/6, *VS-M*-1, *KS*-0/1)
+- हिरण्य᳓यात् (*TS*-0/2, *RV*-1/44, *TB*-0/3, *AV*-0/26, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/3, *VS-K*-0/3, *KS*-0/1)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-76, *KS*-87)
+- यो᳓नेः (*TS*-19/170, *RV*-2/110, *TB*-7/38, *TK*-0/6, *AV*-3/45, *SB-M*-22/284, *SB-K*-17/261, *VS-M*-1/93, *VS-K*-1/93, *KS*-6/61)
+- नि-स᳓द्य (*TS*-3, *RV*-13, *TB*-3, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-1, *KS*-2)
+- हिरण्य-दाः᳓ (*RV*-2)
+- ददति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-1, *TB*-3, *AV*-2, *SB-M*-2, *SB-K*-1)
+- अ᳓न्नम् (*TS*-185/201, *RV*-27/38, *TB*-85/95, *TK*-4/5, *AV*-43/57, *SB-M*-571/751, *SB-K*-611/797, *VS-M*-6/16, *VS-K*-6/20, *KS*-17/27)
+- अस्मै (*TS*-286, *RV*-132, *TB*-49, *TK*-11, *AV*-65, *SB-M*-251, *SB-K*-223, *VS-M*-11, *VS-K*-11, *KS*-29)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -270,6 +296,12 @@ ground). The givers of gold give food to him.
 
 Golden in form is he, like gold to look on, his colour is like gold, the Son of Waters.  
      When he is seated fresh from golden birthplace those who present their gold give food to feed him.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Golden-colored, golden in appearance is the Son of Waters, he indeed of golden color.  
+Sitting down around the golden womb, the givers of gold give food to him.
 </details>
 
 <details><summary>Macdonell</summary>

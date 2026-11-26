@@ -298,6 +298,11 @@ _________
 यत्र यस्मिन्नल्पे शकटेऽस्य यजमानस्यऽऽयुध घनूरदिकं वर्म कवचं चेत्येवमादिकं निहितं स्थापितं, य(अ)स्य शकटस्य रथवाहनमिति नामधेयं, प्रत्यागत्य रथोऽस्मिञ्शकटे स्थाप्यत इति तच्छकटं रथवाहनं, तस्य हविर्वदुपकारकत्वाद्धविष्ट्वं, तत्र तस्मिन्रथवाहने शकटे विश्वाहा सर्वेष्वपि दिनेषु सुमनस्यपानाः सौमनस्यं प्राप्ता वयं शग्मं सुखगमनहेतुं रथमुपसदेमोपेत्य स्थाप याम।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[637_4]** So corr. Ch रथवाहनैर्ह॰ ; vgl. RV 6, 75, 8 u. s. w. (Thus emended; Ch reads रथवाहनैर्ह॰; cf. RV 6, 75, 8, etc.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -371,6 +376,12 @@ The chariot-bearer is his oblation by name,
 Where is deposited his armour and his weapon;  
 Then may we sit on the strong car,  
 All the days, with friendly hearts.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Chariot-bearer is the name of his oblation, where his weapon, his mail is placed.  
+There may we sit beside the beneficial chariot, ever with cheerful minds!
 </details>
 
 <details><summary>Geldner</summary>

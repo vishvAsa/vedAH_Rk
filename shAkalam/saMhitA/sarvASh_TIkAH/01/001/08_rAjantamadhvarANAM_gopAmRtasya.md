@@ -75,6 +75,18 @@ várdhamānam ← √vr̥dh- (root)
 वर्ध॑मानँ॒ स्वे दमे॑  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+रा᳓जन्तम् अध्वरा᳓णां गोपा᳓म् ऋत᳓स्य दी᳓दिविम्  
+व᳓र्धमानँ स्वे᳓ द᳓मे
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+राजन्तमध्वराणां गोपामृतस्य दीदिविम्।  
+वर्धमानँ स्वे दमे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 राज॑न्तम् । अ॒ध्व॒राणा॑म् । गो॒पाम् । ऋ॒तस्य॑ । दीदि॑विम् ।  
@@ -94,6 +106,30 @@ várdhamānam ← √vr̥dh- (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 राज॑न्तम् । अ॒ध्व॒राणा॑म् । गो॒पामिति॑ गो-पाम् । ऋ॒तस्य॑ । दीदि॑विम् ॥ वर्ध॑मानम् । स्वे । दमे॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- रा᳓जन्तम् (*TS*-1, *RV*-4/5, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- अध्वरा᳓णाम् (*TS*-3/27, *RV*-16/196, *TB*-1/28, *TK*-0/2, *AV*-1/22, *SB-M*-4/72, *SB-K*-3/69, *VS-M*-1/30, *VS-K*-1/23, *KS*-1/15)
+- गो-पा᳓म् (*TS*-1/21, *RV*-11/61, *TB*-3/5, *TK*-0/4, *AV*-2/17, *SB-M*-3/5, *SB-K*-3/6, *VS-M*-3/8, *VS-K*-3/8, *KS*-2/7)
+- ऋत᳓स्य (*TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-21/45, *KS*-9/25)
+- दी᳓दिविम् (*TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- व᳓र्धमानम् (*TS*-3, *RV*-3/8, *TB*-1/3, *AV*-1/6, *SB-M*-1/5, *SB-K*-2/6, *VS-M*-1/5, *VS-K*-1/5)
+- स्वे᳓ (*TS*-35/250, *RV*-32/227, *TB*-1/80, *TK*-1/16, *AV*-7/149, *SB-M*-17/306, *SB-K*-27/301, *VS-M*-6/67, *VS-K*-6/72, *KS*-3/60)
+- द᳓मे (*TS*-2/3, *RV*-41/45, *TB*-0/2, *TK*-0/1, *AV*-1, *SB-M*-1, *SB-K*-1/2, *VS-M*-1/2, *VS-K*-1/2, *KS*-5/8)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- रा᳓जन्तम् (*MS*-2, *TS*-1, *RV*-4/5, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- अध्वरा᳓णाम् (*MS*-1/44, *TS*-3/27, *RV*-16/196, *TB*-1/28, *TK*-0/2, *AV*-1/22, *SB-M*-4/72, *SB-K*-3/69, *VS-M*-1/30, *VS-K*-1/23)
+- गो-पा᳓म् (*MS*-5/17, *TS*-1/21, *RV*-11/61, *TB*-3/5, *TK*-0/4, *AV*-2/17, *SB-M*-3/5, *SB-K*-3/6, *VS-M*-3/8, *VS-K*-3/8)
+- ऋत᳓स्य (*MS*-29/93, *TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-21/45)
+- दी᳓दिविम् (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- व᳓र्धमानम् (*MS*-1/4, *TS*-3, *RV*-3/8, *TB*-1/3, *AV*-1/6, *SB-M*-1/5, *SB-K*-2/6, *VS-M*-1/5, *VS-K*-1/5)
+- स्वे᳓ (*MS*-22/260, *TS*-35/250, *RV*-32/227, *TB*-1/80, *TK*-1/16, *AV*-7/149, *SB-M*-17/306, *SB-K*-27/301, *VS-M*-6/67, *VS-K*-6/72)
+- द᳓मे (*MS*-1/4, *TS*-2/3, *RV*-41/45, *TB*-0/2, *TK*-0/1, *AV*-1, *SB-M*-1, *SB-K*-1/2, *VS-M*-1/2, *VS-K*-1/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -302,6 +338,18 @@ Ruler of sacrifices, guard of Law eternal, radiant One,
 Lord of the sacrifices,  
 Guardian of holy order, shining,  
 Waxing in his own horne.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+[unto you] ruling over sacrifices, the protector of truth, shining,  
+growing in your own home.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+to the ruler of sacrifices, the guardian of truth, shining,  
+growing in his own home.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -95,10 +95,38 @@ tvám ← tvám (pronoun)
 प्र नो॑ यच्छ विशस्पते धन॒दा अ॑सि न॒स्त्वम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्ने अच्छा वदेह नः प्रत्यङ् नस्सुमना भव।  
+प्र नो रास्व विशस्पते धनदा असि नस्त्वम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । अच्छ॑ । व॒द॒ । इ॒ह । नः॒ । प्र॒त्यङ् । नः॒ । सु॒ऽमनाः॑ । भ॒व॒ ।  
 प्र । नः॒ । य॒च्छ॒ । वि॒शः॒ । प॒ते॒ । ध॒न॒ऽदाः । अ॒सि॒ । नः॒ । त्वम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- अ᳓च्छा (*TS*-3, *TB*-7, *SB-M*-2, *SB-K*-18, *VS-K*-9, *MS*-1)
+- वदे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-2, *RV*-1, *TB*-1, *AV*-2, *SB-M*-11, *SB-K*-7)
+- ह᳓ (समानान्तर-पाठः (RV), *MS*-1, *TB*-10, *TK*-1, *AV*-4)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- प्रत्य᳓ङ् (*MS*-14, *TS*-2, *RV*-12, *TB*-8, *AV*-17, *SB-M*-34, *SB-K*-40, *VS-M*-5, *VS-K*-6)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- सु-म᳓ना (*MS*-4/7, *TS*-6/10, *RV*-27, *TB*-1/2, *AV*-1, *SB-M*-1/4, *SB-K*-1/4, *VS-M*-9, *VS-K*-4/8)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-63, *TS*-52, *RV*-67, *TB*-5, *AV*-49, *SB-M*-26, *SB-K*-19, *VS-M*-39, *VS-K*-38)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- रा᳓स्व (*Whitney*, *MS*-3, *TS*-4, *RV*-13, *SB-M*-4, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- विशः (समानान्तर-पाठः (RV), *RV*-1, *MS*-1)
+- पते (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-12, *TS*-23, *RV*-52, *TB*-3, *TK*-7, *AV*-30, *SB-M*-9, *SB-K*-10, *VS-M*-14, *VS-K*-12)
+- धन-दाः᳓ (*MS*-1, *TS*-1, *RV*-4/6, *AV*-2, *SB-M*-1, *VS-M*-1, *VS-K*-1/2)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -262,6 +290,12 @@ Provide for us, Lord of the Clan. You are a prize-giver to us.
 
 TURN hither, Agni, speak to us: come to us with a gracious mind.  
      Enrich us, Master of the house: thou art the Giver of our wealth.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, speak favorably here to us; be turned toward us, well-minded!  
+Bestow on us, O lord of the clan; thou art our giver of wealth!
 </details>
 
 <details><summary>Geldner</summary>

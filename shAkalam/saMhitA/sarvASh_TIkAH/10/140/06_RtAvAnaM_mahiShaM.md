@@ -92,6 +92,12 @@ yugā́ ← yugá- (nominal stem)
 श्रुत्क॑र्णँ स॒प्रथ॑स्तमं त्वा गि॒रा दैव्यं॒ मानु॑षा यु॒गा ॥१११ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+ऋता᳓वानं महिषँ᳓ विश्व᳓दर्शतम् अग्निँ᳓ सुम्ना᳓य दधिरे पुरो᳓ ज᳓नाः  
+श्रु᳓त्कर्णँ सप्र᳓थस्तमं त्वा गिरा᳓ दै᳓वं मा᳓नुषा युजा᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ऋ॒तऽवा॑नम् । म॒हि॒षम् । वि॒श्वऽद॑र्शतम् । अ॒ग्निम् । सु॒म्नाय॑ । द॒धि॒रे॒ । पु॒रः । जनाः॑ ।  
@@ -106,6 +112,25 @@ yugā́ ← yugá- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 ऋ॒तवा॑नमित्यृ॒तऽवा॑नम्। म॒हि॒षम्। वि॒श्वद॑र्शत॒मिति॑ वि॒श्वऽद॑र्शतम्। अ॒ग्निम्। सु॒म्नाय॑। द॒धि॒रे॒। पु॒रः। जनाः॑। श्रुत्क॑र्ण॒मिति॒ श्रुत्ऽक॑र्णम्। स॒प्रथ॑स्तम॒मिति॑ स॒प्रथः॑ऽतमम्। त्वा॒। गि॒रा। दैव्य॑म्। मानु॑षा। यु॒गा। १०।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- ऋत᳓-वानम् (*TS*-2/11, *RV*-5/50, *TB*-0/1, *TK*-0/1, *AV*-1/2, *SB-K*-1/2, *VS-M*-2, *VS-K*-2, *KS*-2/5)
+- महिष᳓म् (*TS*-2/6, *RV*-5/38, *AV*-1/15, *SB-M*-1/7, *SB-K*-1/7, *VS-M*-1/6, *VS-K*-1/6)
+- विश्व᳓-दर्शतम् (*TS*-1/3, *RV*-3/10, *AV*-0/2, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-1/2, *VS-K*-1/2, *KS*-0/2)
+- अग्नि᳓म् (*TS*-293/1195, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/322, *VS-K*-62/339, *KS*-38/256)
+- सुम्ना᳓य (*TS*-5/15, *RV*-10/75, *TB*-1/6, *AV*-0/5, *SB-M*-3/9, *SB-K*-3/12, *VS-M*-4/11, *VS-K*-4/13, *KS*-0/4)
+- दधिरे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-42, *TB*-6, *AV*-3, *SB-M*-5, *SB-K*-7, *VS-M*-2, *VS-K*-2, *KS*-5)
+- पुरः᳓ (*TS*-18, *RV*-52, *TB*-2, *AV*-26, *SB-M*-31, *SB-K*-33, *VS-M*-13, *VS-K*-12, *KS*-12)
+- ज᳓नाः (*TS*-3/35, *RV*-22/298, *TB*-1/27, *AV*-14/92, *SB-M*-7/26, *SB-K*-7/26, *VS-M*-5/27, *VS-K*-4/25, *KS*-1/19)
+- श्रु᳓त्-कर्णम् (*TS*-1, *RV*-3/4, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-0/1)
+- सप्र᳓थस्तमम् (*TS*-1/2, *RV*-4, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-508, *KS*-326)
+- गिरा᳓ (*TS*-5/7, *RV*-68/74, *TB*-2/3, *AV*-5/9, *SB-M*-3/6, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-5/7, *KS*-3/5)
+- दै᳓वम् (*AV*-1/5, *SB-M*-30/57, *SB-K*-27/50, *VS-M*-1/2, *VS-K*-1/2)
+- मा᳓नुषा (*TS*-1/9, *RV*-16/84, *TB*-1/12, *AV*-3/12, *SB-M*-1/17, *SB-K*-1/22, *VS-M*-1/8, *VS-K*-1/6, *KS*-1/3)
+- युजा᳓ (*TS*-2/3, *RV*-33/38, *TB*-1/2, *AV*-13/17, *SB-M*-0/2, *VS-M*-1/2, *VS-K*-1/2, *KS*-4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -372,6 +397,12 @@ you with listening ears, of greatest extent, the divine one have the human  gene
 
 The men have set before them them for their welfare Agni, strong, visible to all, the Holy.  
      Thee, Godlike One, with ears to hear, most famous, men's generations magnify with praise-songs.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+True to order, the buffalo, visible to all, Agni have the people placed in front for favour;  
+listening with his ears, most far-reaching, to you, the divine, mortals [call] with speech as their ally.
 </details>
 
 <details><summary>Geldner</summary>

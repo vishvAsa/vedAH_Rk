@@ -86,6 +86,18 @@ yachatu ← √yam- (root)
 सोमो॒ अधि॑ ब्रवीतु॒ नोऽदि॑तिः॒ शर्म॑ यच्छतु ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+ऋ᳓जीते प᳓रिवृङ्ग्धि नो᳓ ऽश्मा भवतु नस् तनूः᳓  
+सो᳓मो अ᳓धिब्रवीतु नो᳓ ऽदितिः श᳓र्म यछतु
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+वृजीते परिवृङ्घ्रि नोऽश्मा भवतु नस्तनूः।  
+सोमो अधिब्रवीतु नोऽदितिश्शर्म यच्छतु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ऋजी॑ते । परि॑ । वृ॒ङ्धि॒ । नः॒ । अश्मा॑ । भ॒व॒तु॒ । नः॒ । त॒नूः ।  
@@ -95,6 +107,45 @@ yachatu ← √yam- (root)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 ऋजी॑ते। परि॑। वृ॒ङ्धि॒। नः॒। अश्मा॑। भ॒व॒तु॒। नः॒। त॒नू। सोमः॑। अधि॑। ब्र॒वी॒तु॒। नः॒। अदि॑तिः। शर्म॑। य॒च्छ॒तु॒। ४९।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- ऋ᳓जीते (*TS*-1, *RV*-1, *VS-M*-1)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-76, *KS*-87)
+- वृङ्ग्धि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *AV*-6, *SB-M*-2, *SB-K*-2)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- अ᳓श्मा (*TS*-4/7, *RV*-3/22, *TK*-0/1, *AV*-6/25, *SB-M*-14/31, *SB-K*-15/32, *VS-M*-3/4, *VS-K*-2/3, *KS*-5/8)
+- भवतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-33, *TB*-2, *AV*-22, *VS-M*-5, *VS-K*-1, *KS*-2)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- तनूः᳓ (*TS*-42/71, *RV*-8/54, *TB*-19/22, *AV*-9/27, *SB-M*-42/60, *SB-K*-42/53, *VS-M*-17/26, *VS-K*-24/42, *KS*-26/32)
+- सो᳓मः (*TS*-96/294, *RV*-229/728, *TB*-95/198, *TK*-2/4, *AV*-89/214, *SB-M*-221/443, *SB-K*-223/436, *VS-M*-48/128, *VS-K*-40/108, *KS*-35/80)
+- अ᳓धि (*TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-56, *VS-K*-51, *KS*-47)
+- ब्रवीतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-4, *TB*-2, *AV*-2, *VS-M*-1)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- अ᳓दितिः (*TS*-38/95, *RV*-89/155, *TB*-23/43, *TK*-1/2, *AV*-28/48, *SB-M*-48/100, *SB-K*-44/87, *VS-M*-27/63, *VS-K*-24/75, *KS*-12/29)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-12/13, *AV*-44/46, *SB-M*-20/21, *SB-K*-20/21, *VS-M*-13/23, *VS-K*-10/19, *KS*-15/16)
+- यछ (*SB-M*-4)
+- तु (*TB*-16, *TK*-2, *SB-M*-3, *SB-K*-3, *VS-K*-9, *KS*-18)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- ऋ᳓जीते (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1)
+- प᳓रिवृङ्घ्रि (अनाम्नातम् (अनुमानम्))
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- अ᳓श्मा (*MS*-4/9, *TS*-4/7, *RV*-3/22, *TK*-0/1, *AV*-6/25, *SB-M*-14/31, *SB-K*-15/32, *VS-M*-3/4, *VS-K*-2/3)
+- भवतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-3, *RV*-33, *TB*-2, *AV*-22, *VS-M*-5, *VS-K*-2)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- तनूः᳓ (*MS*-58/76, *TS*-42/70, *RV*-8/54, *TB*-19/22, *AV*-9/27, *SB-M*-42/60, *SB-K*-42/53, *VS-M*-17/26, *VS-K*-24/42)
+- सो᳓मः (*MS*-133/396, *TS*-96/294, *RV*-229/728, *TB*-95/198, *TK*-2/4, *AV*-89/214, *SB-M*-221/443, *SB-K*-223/436, *VS-M*-50/130, *VS-K*-44/112)
+- अ᳓धि (*MS*-200, *TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55)
+- ब्रवीतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-1, *RV*-4, *TB*-2, *AV*-2, *VS-M*-1)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- अ᳓दितिः (*MS*-67/128, *TS*-38/95, *RV*-89/155, *TB*-23/43, *TK*-1/2, *AV*-28/48, *SB-M*-48/100, *SB-K*-44/87, *VS-M*-27/63, *VS-K*-24/79)
+- श᳓र्म (*MS*-35/37, *TS*-39/41, *RV*-93/111, *TB*-12/13, *AV*-44/46, *SB-M*-20/21, *SB-K*-20/21, *VS-M*-13/23, *VS-K*-10/19)
+- यच्छतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-9, *RV*-13, *TB*-1, *AV*-33, *SB-M*-2, *VS-M*-7, *VS-K*-5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -240,6 +291,15 @@ _________
 अदितिः देवमाता शर्म सुखं यच्छतु ददातु॥ ४९॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[637_7]** So Ch! Wahrscheinlich doch wohl fehlerhaft für ऋजीते, wie nach RV 6, 75, 12; TS 4, 6, 6; VS 29, 49 zu erwarten. (Thus Ch! Probably erroneous for ऋजीते, as is to be expected according to RV 6, 75, 12; TS 4, 6, 6; VS 29, 49.)
+
+- **[637_8]** Ch undeutlich, etwa परिवृद्वि; vgl. RV 6, 75, 12. (Ch unclear, about परिवृद्वि; cf. RV 6, 75, 12.)
+
+- **[637_9]** So corr. Ch ब्रवोत्त (Thus emended; Ch reads ब्रवोत्त)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर मनुष्यों को क्या करना चाहिए, इस विषय को अगले मन्त्र में कहा है ॥
@@ -298,6 +358,18 @@ Let Soma speak on our behalf; let Aditi provide us shelter.
 
 Avoid us thou whose flight is straight, and let our bodies be as stone.  
      May Soma kindly speak to us, and Aditi protect us well.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O straightforward one, pass us by; may our body become stone;  
+may Soma speak on our behalf; may Aditi grant protection!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Turn away [the weapon], turn it away from us! May our body be a stone!  
+May Soma speak in our favor! May Aditi grant protection!
 </details>
 
 <details><summary>Geldner</summary>

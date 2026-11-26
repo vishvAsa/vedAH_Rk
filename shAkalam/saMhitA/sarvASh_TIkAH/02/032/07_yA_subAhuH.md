@@ -71,10 +71,31 @@ sinīvālyaí ← sinīvālī́- (nominal stem)
 तस्यै॑ वि॒श्पत्न्यै॑ ह॒विः सि॑नीवा॒ल्यै जु॑होतन ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+या᳓ सुबाहु᳓स्स्वङ्गुरि᳓स्सुषू᳓मा बहुसू᳓वरी।  
+त᳓स्यै विशप᳓त्न्यै हवि᳓स्सिनीवाल्यै᳓ जुहोतन
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 या । सु॒ऽबा॒हुः । सु॒ऽअ॒ङ्गु॒रिः । सु॒ऽसूमा॑ । ब॒हु॒ऽसूव॑री ।  
 तस्यै॑ । वि॒श्पत्न्यै॑ । ह॒विः । सि॒नी॒वा॒ल्यै । जु॒हो॒त॒न॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- या᳓ (*MS*-177/3763, *TS*-96/3385, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/651, *VS-K*-29/609)
+- सु-बाहुः᳓ (*MS*-2, *TS*-1, *RV*-2, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1/2)
+- स्वङ्गुरिः᳓ (*MS*-4, *SB-M*-1, *SB-K*-1, *VS-K*-1)
+- सु-सू᳓मा (*MS*-1, *TS*-1, *RV*-1, *AV*-1)
+- बहु-सू᳓वरी (*MS*-1, *TS*-1, *RV*-1, *AV*-1)
+- त᳓स्यै (*MS*-29/5550, *TS*-25/4761, *RV*-1/3136, *TB*-7/2709, *TK*-1/363, *AV*-7/3165, *SB-M*-95/20457, *SB-K*-87/20018, *VS-M*-5/780, *VS-K*-2/660)
+- विश (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-18, *TB*-9, *AV*-5, *SB-M*-6, *SB-K*-11, *VS-M*-3, *VS-K*-3, *MS*-6)
+- प᳓त्न्यै (*MS*-2/73, *TS*-0/39, *RV*-0/25, *TB*-0/21, *TK*-0/3, *AV*-0/20, *SB-M*-8/123, *SB-K*-4/116, *VS-M*-0/13, *VS-K*-0/15)
+- हविः᳓ (*MS*-95/213, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-26/101)
+- सिनीवाल्यै᳓ (*MS*-1/2, *TS*-5, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1)
+- जुहोतन (*MS*-2, *TS*-2, *RV*-4, *AV*-2, *SB-K*-1, *VS-M*-3, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -168,6 +189,13 @@ _________
 यासिनीवाली सुबाहुः शोभनबाहुः स्वङ्गुरिः शोभनाङ्गुलिः सुषूमा सुष्ठुप्रसवित्री षूङ् प्रा- णिप्रसवे अन्येभ्योपिद्रुश्यन्तइतिमनिन् क्रुदुत्तरपदप्रकृतिस्वरत्वम् बहुसूवरी बह्वीनाम्प्रजानांसवि त्री तेनैवसूत्रेणक्वनिप् वनोरचेतिङीब्रेफौ क्रुदुत्तरपदप्रकृतिस्वरत्वम् तस्यैसिनीवाल्यैविश्पत्नयै विशाम्पालयित्र्यै विभाषासपूर्वस्येतिपत्युर्नकारान्तादेशः अयस्मयादित्वेनभत्वाद्विशोजश्त्वाभावः परादिश्छन्दसिबहुलमित्युत्तरपदाद्युदात्तत्वम् हेऋत्विग्यजमानाः हविर्जुहोतन जुहुत तप्तनप्तनथ- नाश्चेतितनबादेशः ॥ ७ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[199_1]** Ch सुषमा
+
+- **[199_2]** Brl 15. 16 schiebt hier (Brl 15. 16 inserts here)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -185,6 +213,12 @@ She who has lovely arms, lovely fingers, bearing easily, bearing amply, to her, 
 
 With lovely fingers, lovely arms, prolific Mother of many sons-  
      Present the sacred gifts to her, to Sinlivali Queen of men.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+She who has fair arms, fair fingers, who brings forth easily, bearing many children—  
+to her, Sinīvālī, mistress of the clan, offer the oblation!
 </details>
 
 <details><summary>Geldner</summary>

@@ -89,6 +89,12 @@ viśváśambhūḥ ← viśváśambhū- (nominal stem)
 स नो॒ विश्वा॑नि॒ हव॑नानि जोषद्वि॒श्वश॑म्भू॒रव॑से सा॒धुक॑र्मा ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+वाचस्पतिं विश्वकर्माणमूतये मनोजुवं वाजे अद्याहुवेम।  
+स नो नेदिष्टँ हवनानि जोषद्विश्वशम्भूरवसे साधुकर्मा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वा॒चः । पति॑म् । वि॒श्वऽक॑र्माणम् । ऊ॒तये॑ । म॒नः॒ऽजुव॑म् । वाजे॑ । अ॒द्य । हु॒वे॒म॒ ।  
@@ -103,6 +109,26 @@ viśváśambhūḥ ← viśváśambhū- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 वा॒चः। पति॑म्। वि॒श्वक॑र्माण॒मिति॑ वि॒श्वऽक॑र्माणम्। ऊ॒तये॑। म॒नो॒जुव॒मिति॑ मनः॒ऽजुव॑म्। वाजे॑। अ॒द्य। हु॒वे॒म॒। सः। नः॒। विश्वा॑नि। हव॑नानि। जो॒ष॒त्। वि॒श्वश॑म्भू॒रिति॑ वि॒श्वऽश॑म्भूः। अव॑से। सा॒धुक॒र्मेति॑ सा॒धुऽक॑र्मा।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वाचस्-प᳓तिम् (*SB-M*-1/9, *SB-K*-1/8)
+- विश्व᳓-कर्माणम् (*MS*-1/26, *TS*-4/33, *RV*-1/5, *TB*-0/6, *AV*-1/12, *SB-M*-1/53, *SB-K*-1/45, *VS-M*-1/27, *VS-K*-2/20)
+- ऊत᳓ये (*MS*-13/35, *TS*-12/25, *RV*-101/345, *TB*-6/12, *AV*-24/46, *SB-M*-5/8, *SB-K*-2/6, *VS-M*-10/26, *VS-K*-12/26)
+- मनः-जु᳓वम् (*RV*-2/5, *VS-M*-2, *VS-K*-2)
+- वा᳓जे (*MS*-1/115, *TS*-1/92, *RV*-14/350, *TB*-0/35, *TK*-0/1, *AV*-5/49, *SB-M*-2/73, *SB-K*-0/71, *VS-M*-2/71, *VS-K*-4/73)
+- अ-द्या᳓ (*MS*-7/72, *TS*-2/46, *RV*-0/215, *TB*-1/31, *TK*-0/2, *AV*-0/66, *SB-M*-1/43, *SB-K*-3/48, *VS-M*-0/59, *VS-K*-2/56)
+- हुवे᳓म (*Whitney*, *MS*-1, *RV*-2)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- ने᳓त् (*MS*-10, *TB*-5, *SB-M*-204, *SB-K*-197)
+- इष्ट᳓म् (*MS*-9/24, *TS*-3/15, *RV*-1/12, *TB*-3/6, *AV*-6/11, *SB-M*-27/55, *SB-K*-21/51, *VS-M*-2/7, *VS-K*-1/5)
+- ह᳓वनानि (*TS*-1, *RV*-5/10, *SB-M*-1/2, *SB-K*-0/1, *VS-M*-2/3, *VS-K*-2/3)
+- जो᳓षत् (*RV*-1/2)
+- विश्व᳓-शम्भूः (*MS*-2/3, *TS*-2/3, *RV*-1, *TB*-0/1, *AV*-1, *SB-M*-1, *SB-K*-0/1, *VS-M*-2, *VS-K*-2/3)
+- अ᳓वसे (*MS*-9/27, *TS*-9/22, *RV*-111/279, *TB*-5/15, *AV*-14/24, *SB-M*-4/9, *SB-K*-1/6, *VS-M*-12/24, *VS-K*-8/18)
+- साधु᳓-कर्मा (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *VS-M*-1/2, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -291,6 +317,11 @@ _________
 विंशे तत्रैव वैकल्पिको ग्रहण-मन्त्र उच्यते ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[334_1]** So corr. Ch **हवनाराणोषद्विश्वशम्भूवसे**; cf. RV 10, 81, 7; Mâitr. S. 2, 10, 2; in Çâradâ ist das Zeichen für **ज** demjenigen für ण sehr ähnlich. (Thus emended; Ch हवनाराणोषद्विश्वशम्भूवसे; cf. RV 10, 81, 7; Mâitr. S. 2, 10, 2; in Śāradā the sign for ज is very similar to that for ण very similar.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 कैसा पुरुष राज्य के अधिकार पर नियुक्त करना चाहिये, इस विषय का उपदेश अगले मन्त्र में किया है ॥
@@ -350,6 +381,13 @@ everyone, whose work succeeds—to give us help.
 
 Let us invoke to-day, to aid our labour, the Lord of Speech, the thought-swift Visvakarman.  
      May he hear kindly all our invocations who gives all bliss for aid, whose works are righteous.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+here let the generous patron be our lord!' //  
+'Today, for aid in the contest, we would call on the lord of speech, Viśvakarman, swift as thought;  
+may he, doing good deeds and bringing peace to all, enjoy our calls close by for our protection!'
 </details>
 
 <details><summary>Geldner</summary>

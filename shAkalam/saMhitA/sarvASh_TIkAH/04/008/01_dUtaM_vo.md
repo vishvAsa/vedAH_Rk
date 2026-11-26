@@ -63,10 +63,48 @@ yájiṣṭham ← yájiṣṭha- (nominal stem)
 यजि॑ष्ठमृञ्जसे गि॒रा ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+दूतँ᳓ वो विश्व᳓देवसँ हव्यवा᳓हम् अ᳓मर्त्यम्  
+य᳓जिष्ठम् ऋञ्जसे गिरा᳓
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+दूतं᳓ वो विश्व᳓वेदसँ हव्यवा᳓हम᳓मर्त्यम्।  
+य᳓जिष्टमृञ्जसे गिरा᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 दू॒तम् । वः॒ । वि॒श्वऽवे॑दसम् । ह॒व्य॒ऽवाह॑म् । अम॑र्त्यम् ।  
 यजि॑ष्ठम् । ऋ॒ञ्ज॒से॒ । गि॒रा ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- दूत᳓म् (*TS*-4/12, *RV*-29/89, *TB*-3/8, *AV*-1/15, *SB-M*-3/8, *SB-K*-4/10, *VS-M*-4/6, *VS-K*-4/5, *KS*-3/6)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-68, *KS*-122)
+- विश्व᳓-देव (*TS*-1/3, *RV*-7/9, *TB*-1, *AV*-3/6, *SB-M*-1, *SB-K*-1/2, *VS-M*-0/1, *VS-K*-2/4, *KS*-1)
+- सम् (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-4, *RV*-1, *TB*-68, *TK*-29, *AV*-1, *SB-M*-507, *SB-K*-470, *VS-K*-2, *KS*-62)
+- हव्य-वा᳓हम् (*TS*-4/10, *RV*-22/32, *TB*-4/9, *TK*-2, *AV*-4/5, *SB-M*-0/8, *SB-K*-0/4, *VS-M*-3/4, *VS-K*-3, *KS*-5/8)
+- अ᳓मर्त्यम् (*TS*-4/7, *RV*-15/56, *TB*-3/7, *TK*-0/1, *AV*-2/11, *SB-M*-1/4, *SB-K*-1/4, *VS-K*-3/7, *KS*-1/5)
+- य᳓जिष्ठम् (*TS*-0/2, *RV*-14/27, *TB*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/4, *VS-K*-0/4)
+- ऋञ्जसे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-6, *KS*-1)
+- गिरा᳓ (*TS*-5/7, *RV*-68/74, *TB*-2/3, *AV*-5/9, *SB-M*-3/6, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-5/7, *KS*-3/5)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- दूत᳓म् (*MS*-5/10, *TS*-4/12, *RV*-29/89, *TB*-3/8, *AV*-1/15, *SB-M*-3/8, *SB-K*-4/10, *VS-M*-4/6, *VS-K*-4/6)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- विश्व᳓-वेदसम् (*MS*-1, *RV*-6/13, *TB*-1, *AV*-1/5, *SB-M*-4/6, *SB-K*-4/6, *VS-M*-1/2, *VS-K*-3/4)
+- हव्य-वा᳓हम् (*MS*-6/15, *TS*-4/10, *RV*-22/32, *TB*-4/9, *TK*-2, *AV*-4/5, *SB-M*-0/8, *SB-K*-0/4, *VS-M*-3/4, *VS-K*-3)
+- अ᳓मर्त्यम् (*MS*-3/12, *TS*-4/7, *RV*-15/56, *TB*-3/7, *TK*-0/1, *AV*-2/11, *SB-M*-1/4, *SB-K*-1/4, *VS-K*-3/7)
+- य᳓ज् (*MS*-18, *TS*-5, *TB*-1, *SB-K*-2)
+- इष्टम् → **इष्ट᳓म्** (स्वर-लोपः, *MS*-9/24, *TS*-3/15, *RV*-1/12, *TB*-3/6, *AV*-6/11, *SB-M*-27/55, *SB-K*-21/51, *VS-M*-2/7, *VS-K*-1/5)
+- ऋञ्जसे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *RV*-6)
+- गिरा᳓ (*MS*-9/14, *TS*-5/7, *RV*-68/74, *TB*-2/3, *AV*-5/9, *SB-M*-3/6, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-5/7)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -136,6 +174,11 @@ _________
 हे अग्ने **विश्ववेदसम्** । विश्वं समस्तं वेदो धनं यस्यासौ विश्ववेदाः। तं सर्वविदं वा **हव्यवाहं** देवेभ्यो हविषां वोढारम् **अमर्त्यम्** अमरणधर्माणं **यजिष्ठम्** अतिशयेन यष्टारं **दूतं** देवानां **वः** त्वां **गिरा** स्तुतिरूपया वाचा **ऋञ्जसे** यजमानोऽहं प्रसाधयामि । वर्धयामीत्यर्थः ।  ‘ ऋञ्जतिः प्रसाधनकर्मा ' इति यास्कः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[176_11]** Dies Kap. collat. mit W₁, T₁, T₆, Brl; darnach accentuirt. (This chap. is collated with W1, T1, T6, Brl; accented according to them.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -158,6 +201,18 @@ For obvious real-world reasons Agni [=fire] would not sit on the ritual grass, b
 
 YOUR envoy who possesses all, Immortal, bearer of your gifts,  
      Best worshipper, I woo with song.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Your messenger, possessing all the gods, the bearer of oblations, immortal,  
+most eager to sacrifice, I extol with song.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The messenger, the all-possessing, the oblation-bearer, the immortal,  
+the best sacrificer, I adorn with song for you.
 </details>
 
 <details><summary>Oldenberg</summary>

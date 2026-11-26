@@ -78,6 +78,12 @@ tā́ ← sá- ~ tá- (pronoun)
 ता नो॑ मृळात ई॒दृशे॑ ॥७॥ ६१
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+उग्रा᳓ विघनि᳓ना मृ᳓ध इन्द्राग्नी᳓ हवामहे।  
+ता᳓ नो मृडात ईदृ᳓शे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒ग्रा । वि॒ऽघ॒निना॑ । मृधः॑ । इ॒न्द्रा॒ग्नी इति॑ । ह॒वा॒म॒हे॒ ।  
@@ -92,6 +98,19 @@ tā́ ← sá- ~ tá- (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 उ॒ग्रा। विघ॒निनेति॑ विऽघ॒निना॑। मृधः॑। इ॒न्द्रा॒ग्नीऽइती॑न्द्रा॒ग्नी। ह॒वा॒म॒हे॒। ता। नः॒। मृ॒डा॒तः॒। ई॒दृशे॑। ७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उग्रा᳓ (*MS*-4/40, *TS*-3/33, *RV*-5/153, *TB*-2/21, *TK*-0/2, *AV*-5/99, *SB-M*-0/10, *SB-K*-2/9, *VS-M*-2/23, *VS-K*-2/18)
+- वि-घनि᳓ना (*RV*-1, *VS-M*-1, *VS-K*-1)
+- मृ᳓धः (*MS*-12/13, *TS*-15/17, *RV*-29/30, *TB*-2, *AV*-14, *SB-M*-11/28, *SB-K*-9/26, *VS-M*-9, *VS-K*-8)
+- इन्द्राग्नी᳓ (*MS*-38/43, *TS*-10/18, *RV*-0/6, *TB*-16/23, *TK*-1, *AV*-16/17, *SB-M*-46/58, *SB-K*-46/57, *VS-M*-8/14, *VS-K*-8/13)
+- हवामहे (*MS*-19, *TS*-10, *RV*-93, *TB*-9, *AV*-32, *SB-M*-9, *SB-K*-5, *VS-M*-14, *VS-K*-13)
+- ताः᳓ (*MS*-302/5550, *TS*-136/4761, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/780, *VS-K*-17/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- मृडातः (*TS*-1, *RV*-2, *VS-M*-1, *VS-K*-1)
+- ईदृ᳓शे (*TS*-2/3, *RV*-4, *AV*-3, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1, *VS-K*-1, *MS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -251,6 +270,12 @@ Note the phonological (and partly etymological) figure mardh(ataḥ) (4c), mṛ�
 
 The Strong, the scatterers of the foe, Indra and Agni, we invoke;  
      May they be kind to one like me.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+// Fierce, slayers of adversaries, we invoke Indra and Agni;  
+may they be gracious to us in such [a plight]!
 </details>
 
 <details><summary>Geldner</summary>

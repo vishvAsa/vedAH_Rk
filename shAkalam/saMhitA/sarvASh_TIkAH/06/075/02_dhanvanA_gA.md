@@ -328,6 +328,11 @@ _________
 किं बहुना, सर्वा अदि प्रदिश उत्कृष्टान्सर्वदिग्वर्तिशत्रूञ्जयेम।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[636_5]** So corr. Ch धन्वन सर्वः (Thus emended; Ch reads धन्वन सर्वः)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -401,6 +406,12 @@ By the bow cows, by the bow the contest may we win,
 By the bow dread battles may we win;  
 The bow doth work displeasure to the foe;  
 By the bow let us win in all the quarters.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the bow may we win cows, with the bow the prize; with the bow may we win fierce battles.  
+The bow frustrates the enemy's desire; with the bow may we win all regions!
 </details>
 
 <details><summary>Geldner</summary>

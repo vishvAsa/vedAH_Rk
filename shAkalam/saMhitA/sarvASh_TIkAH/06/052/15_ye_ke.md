@@ -241,6 +241,11 @@ _________
 **महिनः** महान्तः **अहिमायाः**। माया प्रज्ञानाम। आहन्तृप्रज्ञाः । एवंभूताः **ये** **के** चन देवाः **ज्मा** । पृथिवीनामैतत् । ज्मायां पृथिव्यां **जज्ञिरे** प्रादुर्बभूवुः । ये के चन **दिवः** द्युलोकाज्जज्ञिरे । ये के चन **अपां** **सधस्थे** सहान्तरिक्षे जज्ञिरे **ते** सर्वे **देवाः** **अस्मभ्यमिषये** । इष्यत इतीषिः पुत्रादिः । तस्मै च **विश्व** सर्वम् **आयुः** अन्नं जीवनं वा **क्षपः** सर्वा रात्रीः **उस्राः**  सर्वाण्यहानि च सर्वदा नैरन्तर्येण **वरिवस्यन्तु** प्रयच्छन्तु ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[196_7]** Ch ग्मा
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -264,7 +269,10 @@ let those gods seek a wide place for us to prosper day and night for our  whole 
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
 <details><summary><h2>13-15 ...{Loading}...</h2></summary>
 
-I consider these three vss. as a tṛca. They are thematically unified, by their focus on the gods in general and (esp. vss. 13 and 15) by their classification of the gods into groups based on their location and type. On the supposed Jagatī meter of vs. 14, which would not match its tṛca partners, see ad loc. 
+<details><summary>Jamison Brereton Notes</summary>
+
+I consider these three vss. as a tṛca. They are thematically unified, by their focus on the gods in general and (esp. vss. 13 and 15) by their classification of the gods into groups based on their location and type. On the supposed Jagatī meter of vs. 14, which would not match its tṛca partners, see ad loc.
+</details> 
 </details>
 </div>
 
@@ -272,6 +280,12 @@ I consider these three vss. as a tṛca. They are thematically unified, by their
 
 And those who, Mighty, with the wiles of serpents, were born on earth, in heaven, where waters gather-  
      May they vouchsafe us life of full duration. May the Gods kindly give us nights and mornings.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whosoever, great, possessing dragon-like magic, were born from heaven in the seat of the waters,  
+may those gods grant us ease for refreshing, a whole lifetime, nights and mornings!
 </details>
 
 <details><summary>Geldner</summary>

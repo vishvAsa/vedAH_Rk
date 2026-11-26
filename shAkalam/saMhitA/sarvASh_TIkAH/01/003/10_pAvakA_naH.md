@@ -70,6 +70,12 @@ yajñám ← yajñá- (nominal stem)
 य॒ज्ञव्ँव॑ष्टु धि॒या व॑सुः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पावका᳓ नस्त᳓रस्वती वा᳓जेभिर्वाजि᳓नीवती।  
+यज्ञं᳓ वष्टु धिया᳓वसुः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पा॒व॒का । नः॒ । सर॑स्वती । वाजे॑भिः । वा॒जिनी॑ऽवती ।  
@@ -89,6 +95,18 @@ yajñám ← yajñá- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 पावका᳓ । नः । स᳓रस्वती । वा᳓जेभिः । वाजि᳓नीवती । यज्ञ᳓म् । वष्टु । धिया᳓ । वसुः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पावका᳓ (*MS*-6/28, *TS*-2/24, *RV*-1/46, *TB*-2/11, *TK*-0/1, *AV*-5/7, *SB-M*-0/19, *SB-K*-1/19, *VS-M*-1/10, *VS-K*-1/11)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- त᳓रस्वती (*MW*, *Macdonell*)
+- वा᳓जेभिः (*MS*-2/115, *TS*-3/92, *RV*-21/350, *TB*-1/35, *TK*-1, *AV*-4/49, *SB-M*-0/73, *SB-K*-0/71, *VS-M*-1/71, *VS-K*-1/73)
+- वाजि᳓नीवती (*MS*-1, *TS*-1, *RV*-5, *TB*-1, *VS-M*-1, *VS-K*-1)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- वष्टु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-1, *RV*-1, *TB*-1, *VS-M*-2, *VS-K*-2)
+- धिया᳓-वसुः (*MS*-1, *RV*-10, *AV*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -264,6 +282,12 @@ be eager for our sacrifice, bringing goods through her insight.
 
 Wealthy in spoil, enriched with hymns, may bright Sarasvati desire,  
     With eager love, our sacrifice.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Sarasvatī, purifying, rich in prize-wealth through prizes,  
+desire our sacrifice, she whose treasure is thought!
 </details>
 
 <details><summary>Geldner</summary>

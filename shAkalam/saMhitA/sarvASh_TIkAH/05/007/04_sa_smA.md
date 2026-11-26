@@ -92,10 +92,37 @@ sma ← sma (invariable)
 पा॒व॒को यद्वन॒स्पती॒न्प्र स्मा॑ मि॒नात्य॒जरः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स᳓ स्मा कृणोतु केतु᳓मा᳓ न᳓क्तं चिद्दूर᳓ आ᳓ सते᳓।  
+पावको᳓ य᳓द्व᳓नस्प᳓तीन्प्र᳓ स्मा मिनात्यज᳓रः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । स्म॒ । कृ॒णो॒ति॒ । के॒तुम् । आ । नक्त॑म् । चि॒त् । दू॒रे । आ । स॒ते ।  
 पा॒व॒कः । यत् । वन॒स्पती॑न् । प्र । स्म॒ । मि॒नाति॑ । अ॒जरः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- स्मा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-3, *SB-M*-2)
+- कृणोतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-11, *TS*-10, *RV*-11, *TB*-4, *AV*-50, *SB-M*-4, *SB-K*-4, *VS-M*-10, *VS-K*-8)
+- केतु᳓म् (*MS*-5/14, *TS*-6/12, *RV*-34/82, *TB*-4/9, *TK*-0/4, *AV*-5/27, *SB-M*-2/11, *SB-K*-1/11, *VS-M*-3/15, *VS-K*-3/13)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- न᳓क्तम् (*MS*-24, *TS*-15, *RV*-33, *TB*-15, *TK*-1, *AV*-11, *SB-M*-10, *SB-K*-9, *VS-M*-8, *VS-K*-6)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- दूरः᳓ (*MS*-0/10, *TS*-0/8, *RV*-0/47, *TB*-0/4, *AV*-2/30, *SB-M*-1/16, *SB-K*-0/16, *VS-M*-0/9, *VS-K*-0/7)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- सते᳓ (*MS*-2/5, *TS*-2/5, *RV*-5/21, *TB*-1/2, *AV*-0/4, *SB-M*-1/18, *SB-K*-0/15, *VS-M*-0/3, *VS-K*-0/5)
+- पावकः᳓ (*MS*-10/28, *TS*-12/24, *RV*-20/46, *TB*-2/11, *TK*-1, *AV*-2/7, *SB-M*-7/19, *SB-K*-7/19, *VS-M*-6/10, *VS-K*-7/11)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- व᳓नस्प᳓तीन् (*MS*-9, *TS*-7, *RV*-11, *TB*-3, *AV*-13, *SB-M*-9, *SB-K*-10, *VS-M*-2, *VS-K*-2)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- स्मा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-3, *SB-M*-2)
+- मिनाति (*MS*-1, *RV*-10, *TB*-1, *AV*-3, *SB-K*-6, *VS-K*-1)
+- अ-ज᳓रः (*MS*-6/15, *TS*-2/11, *RV*-17/62, *TB*-0/4, *AV*-4/17, *SB-M*-3/11, *SB-K*-4/11, *VS-M*-1/5, *VS-K*-1/5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -223,6 +250,17 @@ _________
 **स** **स्म** स खल्वग्निः **कृणोति** करोति **केतुं** प्रज्ञानम् **आ** सर्वतः । कस्येत्युच्यते । चिदप्यर्थे । **नक्तं** **चित्** रात्रावपि **दूरे** **आ** **सते** । आ इति चार्थे । दूरेऽपि वर्तमानाय मनुष्याय । कदा । **यत्** यदा **पावकः** अयमग्निः **अजरः** अजीर्णोऽनभिभाव्यः सन् **वनस्पतीन्** एधांसि **प्र** **स्म** **मिनाति** प्रकर्षेण दहति । स्मेति पूरणः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[527_7]** Ch सस्मा; aber T4 स᳓म्मा; desgl. W 1, ohne Accent. (Ch सस्मा; but T4 स᳓म्मा; likewise W 1, without accent.)
+
+- **[527_8]** So T4; desgl. W 1; Ch नकुं; Kap. S. 48, 13 नक्तं (Thus T4; likewise W1; Ch नकुं; Kap. S. 48, 13 नक्तं)
+
+- **[527_9]** So der Vers auch in Kap. S. 48, 13, nur ohne Accent. (Thus the verse also in Kap. S. 48, 13, only without accent.)
+
+- **[527_10]** So corr.; Mss. सिना॰ Kap. S. 48, 13 प्र स्मा मिनात्यजरः।; cf. RV 5, 7, 4; Âp. 14, 29, 3. (Thus emended; mss. सिना॰ Kap. S. 48, 13 प्र स्मा मिनात्यजरः।; cf. RV 5, 7, 4; Āp. 14, 29, 3.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -241,6 +279,12 @@ when he, the pure one, again diminishes the lords of the forest (into ash),  him
 
 He gives a signal in the night even to him who is afar,  
      When he, the Bright, unchanged by eld, consumes the sovrans of the wood.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May he make a banner even at night for one who is afar,  
+when the purifying, ageless one consumes the trees.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -75,6 +75,18 @@ ripúḥ ← ripú- (nominal stem)
 ईशे॑ रि॒पुर॒घशँ॑सः ॥३२॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+नहि᳓ ते᳓षाम् अमा᳓ सतां᳓ ना᳓ध्वसु वारणे᳓षु च  
+ई᳓शे रिपु᳓र् अघ᳓शँसः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+नहि᳓ तेषाममा᳓ चन᳓ ना᳓ध्वसु॒ वारणे᳓षु।  
+ई᳓शे रिपु᳓रघ᳓शँसः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 न॒हि । तेषा॑म् । अ॒मा । च॒न । न । अध्व॑ऽसु । वा॒र॒णेषु॑ ।  
@@ -89,6 +101,35 @@ ripúḥ ← ripú- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 न॒हि। तेषा॑म्। अ॒मा। च॒न। न। अध्व॒स्वित्यध्व॑ऽसु। वा॒र॒णेषु॑। ईशे॑। रिपुः। अ॒घश॑श्च॒। इत्य॒घऽश॑सः। २४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- नहि᳓ (*RV*-54, *AV*-13, *SB-K*-3, *VS-M*-2, *VS-K*-2, *KS*-4)
+- ते᳓षाम् (*TS*-52/4763, *RV*-26/3136, *TB*-18/2709, *TK*-1/363, *AV*-40/3165, *SB-M*-137/20457, *SB-K*-115/20018, *VS-M*-21/768, *VS-K*-18/624, *KS*-18/1225)
+- अमा᳓ (*TS*-3, *RV*-9/11, *TB*-1, *TK*-0/1, *AV*-5, *SB-M*-6/7, *SB-K*-4/6, *VS-M*-1, *VS-K*-1, *KS*-2)
+- सता᳓म् (*TS*-0/9, *RV*-4/27, *TB*-0/2, *AV*-1/5, *SB-M*-1/21, *SB-K*-4/21, *VS-M*-0/3, *VS-K*-0/4, *KS*-0/3)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- अ᳓ध्वसु (*RV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- वारणे᳓षु (*RV*-1/6, *AV*-0/3, *SB-M*-3/6, *SB-K*-2/5, *VS-M*-1, *VS-K*-1, *KS*-1)
+- चः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-2)
+- ई᳓शे (*TS*-4, *RV*-20, *TB*-3, *AV*-9/15, *SB-M*-1/2, *SB-K*-1, *VS-M*-4/5, *VS-K*-4/5, *KS*-3)
+- रिपुः᳓ (*TS*-0/1, *RV*-7/28, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-1/2, *KS*-1/2)
+- अघ᳓-शंसः (*TS*-4/5, *RV*-7/15, *TB*-2, *AV*-3/6, *SB-M*-2, *SB-K*-1, *VS-M*-6, *VS-K*-3, *KS*-5/6)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- नहि᳓ (*MS*-4, *RV*-54, *AV*-13, *SB-K*-3, *VS-M*-2, *VS-K*-2)
+- तेषाम् → **ते᳓षाम्** (स्वर-लोपः, *MS*-68/5550, *TS*-52/4761, *RV*-26/3136, *TB*-18/2709, *TK*-1/363, *AV*-40/3165, *SB-M*-137/20457, *SB-K*-115/20018, *VS-M*-21/780, *VS-K*-18/660)
+- अमा᳓ (*MS*-2/3, *TS*-3, *RV*-9/11, *TB*-1, *TK*-0/1, *AV*-5, *SB-M*-6/7, *SB-K*-4/6, *VS-M*-1, *VS-K*-1)
+- चन᳓ → **चन** (अनुदात्तम्, पा॰ ८.१.१८, *MS*-4, *AV*-3, *SB-M*-74, *SB-K*-66)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- अ᳓ध्वसु (*RV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-1, *VS-K*-1, *MS*-1)
+- वारणे᳓षु (*MS*-1, *RV*-1/6, *AV*-0/3, *SB-M*-3/6, *SB-K*-2/5, *VS-M*-1, *VS-K*-1)
+- ई᳓शे (*MS*-6, *TS*-4, *RV*-20, *TB*-3, *AV*-9/15, *SB-M*-1/2, *SB-K*-1, *VS-M*-4/5, *VS-K*-4/5)
+- रिपुः᳓ (*MS*-1/3, *TS*-0/1, *RV*-7/28, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-1/2)
+- अघ᳓-शंसः (*MS*-5/7, *TS*-4/5, *RV*-7/15, *TB*-2, *AV*-3/6, *SB-M*-2, *SB-K*-1, *VS-M*-6, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -253,6 +294,15 @@ _________
 अध्वसु मार्गेषु । कथं भूतेषु वारणेषु ? यत्रावस्थितान् पथिकान् चोरा वारयन्ति ते पन्यानो वारणास्तेषु वारणेषु । चोर-प्रचुर-मार्गेषु व्रजतां सूर्य-पालितानां यजमानानाम् । "अघशसः, अघं पापं शंसतीत्यघश-रसः पाप-शंसनः रिपुः शत्रः न ईशे । हि प्रसिद्धम् । वस्त्राद्य्-अपहरणादौ न समर्थ इति ॥ २४ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[65_5]** Brl व᳓रणे᳓⁻ ⁻
+
+- **[65_6]** So Te; Brl ईशे᳓ ; cf. RV 10, 185, 2 (Thus T6; Brl ईशे᳓; cf. RV 10, 185, 2)
+
+- **[65_7]** So Brl; To रघशँसः᳓ (Thus Brl; To रघशँसः᳓)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -276,6 +326,18 @@ O'er these, neither at home nor yet abroad or pathways that are Strange,
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 For over them, neither at home nor upon pathways perilous, The evil-minded foe hath power.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For when they are at home, or on travels, or in perils,  
+no deceitful, malicious slanderer has power over them.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+For neither at home nor on dangerous roads  
+does the malicious plotter of evil have power over them,
 </details>
 
 <details><summary>Geldner</summary>

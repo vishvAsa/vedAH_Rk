@@ -95,10 +95,38 @@ uṣā́sam ← uṣás- (nominal stem)
 राजा॑भवो॒ जग॑तश्चर्षणी॒नां सा॒कं सूर्यं॑ ज॒नय॒न्द्यामु॒षास॑म् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त्व᳓म् अपो᳓ वि᳓ दु᳓रो वि᳓षूचीर् इ᳓न्द्र दृढ᳓म् अरुजः प᳓र्वतस्य  
+रा᳓जाभवो ज᳓गतश् चर्षणीनाँ᳓ साकँ᳓ सू᳓र्यं जन᳓यन् द्या᳓म् उषा᳓सम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । अ॒पः । वि । दुरः॑ । विषू॑चीः । इन्द्र॑ । दृ॒ळ्हम् । अ॒रु॒जः॒ । पर्व॑तस्य ।  
 राजा॑ । अ॒भ॒वः॒ । जग॑तः । च॒र्ष॒णी॒नाम् । सा॒कम् । सूर्य॑म् । ज॒नय॑न् । द्याम् । उ॒षस॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- अपः᳓ (*TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- दु᳓रः (*TS*-1, *RV*-25, *TB*-7, *AV*-1, *VS-M*-6, *VS-K*-6, *KS*-1)
+- वि᳓षूचीः (*TS*-1/4, *RV*-5/8, *TB*-2/3, *AV*-5/9, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- इ᳓न्द्र (*TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-24/26, *KS*-16/18)
+- दृढ᳓म् (*TS*-1/3, *RV*-8/27, *TB*-1/5, *AV*-1/4, *SB-M*-1)
+- अरुजः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3)
+- प᳓र्वतस्य (*TS*-2/10, *RV*-13/115, *TB*-0/5, *AV*-3/43, *SB-M*-2/8, *SB-K*-2/8, *VS-M*-1/6, *VS-K*-1/7, *KS*-0/8)
+- रा᳓जा (*TS*-30/48, *RV*-102/151, *TB*-46/63, *TK*-0/2, *AV*-60/78, *SB-M*-104/175, *SB-K*-93/139, *VS-M*-19/27, *VS-K*-20/28, *KS*-14/23)
+- भवः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- ज᳓गतः (*TS*-8/16, *RV*-20/40, *TB*-4/6, *TK*-1, *AV*-9/20, *SB-M*-2/9, *SB-K*-2/12, *VS-M*-6/14, *VS-K*-7/15, *KS*-6/13)
+- चर्षणीना᳓म् (*TS*-3/5, *RV*-35/58, *TB*-5/7, *AV*-10, *VS-M*-1, *VS-K*-1, *KS*-4/5)
+- साक᳓म् (*TS*-9, *RV*-56, *TB*-6, *AV*-30, *SB-K*-3, *VS-M*-6, *VS-K*-5, *KS*-7)
+- सू᳓र्यम् (*TS*-14/109, *RV*-88/337, *TB*-5/75, *TK*-1/8, *AV*-47/173, *SB-M*-19/152, *SB-K*-16/151, *VS-M*-6/36, *VS-K*-7/44, *KS*-11/52)
+- जन᳓यन् (*TS*-4, *RV*-27, *TB*-2, *AV*-6, *VS-M*-3, *VS-K*-2, *KS*-5)
+- द्या᳓म् (*TS*-18/270, *RV*-90/854, *TB*-11/119, *TK*-0/15, *AV*-39/340, *SB-M*-11/353, *SB-K*-5/342, *VS-M*-17/167, *VS-K*-14/172, *KS*-17/128)
+- उषा᳓सम् (*TS*-1, *VS-M*-1/3, *VS-K*-1/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -249,6 +277,12 @@ You became the king of the moving world and of the settled domains,  begetting a
 
 Indra, thou breakest up the floods and portals on all sides, and the firmness of the mountain.  
      Thou art the King of men, of all that liveth, engendering at once Sun, Heaven, and Morning.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You opened the doors of the waters apart, in every direction, O Indra; you broke the firm [stronghold] of the mountain.  
+You became king of the living world, of the peoples, generating the sun, heaven, and the dawn together.
 </details>
 
 <details><summary>Geldner</summary>

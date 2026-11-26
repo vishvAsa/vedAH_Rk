@@ -189,7 +189,10 @@ come here with those, o Indra and Agni.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 8c and 9a differ minimally from each other, and it is difficult to see an aspectual (or other) distinction between root aor. impv. ā́gatam and pres. impv. ā́ gachatam -- though of course there may be a nuance we cannot catch. Note also 14b úpa gachatam and 15c ā́gatam.
+</details>
 
 </details>
 </div>
@@ -198,6 +201,18 @@ come here with those, o Indra and Agni.
 
 Come, Indra-Agni, with those teams, desired of many, which ye have,  
      O Heroes, for the worshipper.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever teams of yours, much-desired, are for the offerer, O men,  
+come with them, O Indra and Agni.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+// What widely-desired teams of horses you two have for the giver, O men,  
+with them come, O Indra and Agni!
 </details>
 
 <details><summary>Geldner</summary>

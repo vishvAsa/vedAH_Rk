@@ -72,6 +72,12 @@ víśvāḥ ← víśva- (nominal stem)
 विश्वा॒ अधि॒ श्रियो॑ऽधित ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+रा᳓त्री व्य᳙ख्यदायती᳓ पुरुत्रा᳓ देव्य᳙क्ष᳓भिः।  
+वि᳓श्वा अ᳓धि श्रि᳓यो ऽधित
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 रात्री॑ । वि । अ॒ख्य॒त् । आ॒ऽय॒ती । पु॒रु॒ऽत्रा । दे॒वी । अ॒क्षऽभिः॑ ।  
@@ -166,6 +172,11 @@ ______________________
 सा च देवी **विश्वाः श्रियः** सर्वाः संपदोऽधिष्ठाय **अधित** ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[198_6]** Ch देव्यख्यभिः
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -189,6 +200,12 @@ She has laid on herself all beauties.
 
 WITH all her eyes the Goddess Night looks forth approaching many a spot:  
      She hath put all her glories on.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rātrī, coming, the goddess, has looked out far and wide with her eyes;  
+she has put on all glories.
 </details>
 
 <details><summary>Macdonell</summary>

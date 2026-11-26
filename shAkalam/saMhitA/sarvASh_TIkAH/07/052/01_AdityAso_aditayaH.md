@@ -80,10 +80,33 @@ dyāvāpr̥thivī ← dyā́vāpr̥thivī́- (nominal stem)
 सने॑म मित्रावरुणा॒ सन॑न्तो॒ भवे॑म द्यावापृथिवी॒ भव॑न्तः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आदित्या᳓सो अ᳓दितयस्स्याम पू᳓र्देवत्रा᳓ वसवो मर्त्यत्रा᳓।  
+स᳓नेम मित्रावरुणा स᳓नन्तो भ᳓वेम द्यावापृथिवी भ᳓वन्तः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ॒दि॒त्यासः॑ । अदि॑तयः । स्या॒म॒ । पूः । दे॒व॒ऽत्रा । व॒स॒वः॒ । म॒र्त्य॒ऽत्रा ।  
 सने॑म । मि॒त्रा॒व॒रु॒णा॒ । सन॑न्तः । भवे॑म । द्या॒वा॒पृ॒थि॒वी॒ इति॑ । भव॑न्तः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आदित्या᳓सः (*MS*-1/229, *TS*-1/195, *RV*-13/91, *TB*-3/131, *TK*-0/21, *AV*-0/71, *SB-M*-0/445, *SB-K*-0/438, *VS-M*-0/44, *VS-K*-0/58)
+- अ᳓दितयः (*MS*-0/128, *TS*-0/95, *RV*-1/155, *TB*-0/43, *TK*-0/2, *AV*-0/48, *SB-M*-0/100, *SB-K*-0/87, *VS-M*-0/63, *VS-K*-0/79)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-30, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-18)
+- पूः᳓ (*MS*-2/3, *TS*-1, *RV*-5, *TB*-2/3, *AV*-1, *SB-M*-3/4, *SB-K*-3/4)
+- देवत्रा᳓ (*MS*-14, *TS*-15, *RV*-23, *TB*-9, *TK*-5, *AV*-6, *SB-M*-54/55, *SB-K*-57, *VS-M*-10, *VS-K*-9)
+- वसवः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-5, *TS*-3, *RV*-34, *TB*-1, *AV*-3, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- मर्त्यत्रा᳓ (*RV*-5)
+- स᳓नेम (*RV*-2)
+- मित्रा-वरुणा (*MS*-9, *TS*-6, *RV*-48, *TB*-6, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-4)
+- स᳓नन्तः (*RV*-1)
+- भ᳓वेम (*RV*-2, *AV*-1)
+- द्यावा-पृथिवी (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-6, *TS*-8, *RV*-14, *TB*-6, *AV*-5, *SB-M*-5, *SB-K*-2, *VS-M*-4, *VS-K*-2)
+- भ᳓वन्तः (*MS*-2/35, *TS*-0/25, *RV*-1/7, *TB*-1/12, *AV*-3/7, *SB-M*-0/157, *SB-K*-0/144)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -200,6 +223,12 @@ Winning (this) we would win, o Mitra and Varuṇa. Becoming (this) we  would bec
 
 MAY we be free from every bond, Adityas! a castle among Gods and men, ye Vasus.  
      Winning, may we win Varuna and Mitra, and, being, may we be, O Earth and Heaven.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we Ādityas, Aditis be a rampart among the gods, O Vasus, among mortals;  
+may we win, O Mitra and Varuṇa, winning; may we thrive, O Heaven and Earth, thriving!
 </details>
 
 <details><summary>Geldner</summary>

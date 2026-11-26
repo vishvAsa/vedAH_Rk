@@ -78,6 +78,12 @@ máhi ← máh- (nominal stem)
 अ॒स्मे धे॑हि जातवेदो॒ महि॒ श्रवः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ग्ने वा᳓जस्य गो᳓मता ई᳓शानः सहसो यहो  
+अस्मे᳓ धेहि जातवेदो म᳓हि श्र᳓वः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । वाज॑स्य । गोऽम॑तः । ईशा॑नः । स॒ह॒सः॒ । य॒हो॒ इति॑ ।  
@@ -92,6 +98,21 @@ máhi ← máh- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अग्ने॑। वाज॑स्य। गोम॑त॒ इति॒ गोऽम॑तः। ईशा॑नः। स॒ह॒सः॒। य॒हो॒ इति॑ यहो। अ॒स्मे। इत्य॒स्मे। धे॒हि॒। जा॒त॒वे॒द॒ इति॑ जातऽवेदः। महि॑। श्रवः॑। १७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- वा᳓जस्य (*TS*-21/92, *RV*-32/350, *TB*-5/35, *TK*-0/1, *AV*-5/49, *SB-M*-17/73, *SB-K*-15/71, *VS-M*-16/69, *VS-K*-17/67, *KS*-8/53)
+- गो᳓-मताः (*TS*-0/2, *RV*-0/29, *TB*-0/1, *AV*-0/4, *VS-M*-0/5, *VS-K*-0/2, *KS*-0/2)
+- ई᳓शानः (*TS*-6/9, *RV*-19/40, *TB*-3/4, *TK*-1, *AV*-22/30, *SB-M*-8/9, *SB-K*-8/10, *VS-M*-3/8, *VS-K*-2/7, *KS*-4/5)
+- सहसः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *RV*-42, *TB*-2, *AV*-1, *VS-M*-1, *VS-K*-1, *KS*-2)
+- यहो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-7, *VS-M*-1, *VS-K*-1)
+- अस्मे᳓ (*TS*-31/565, *RV*-211/1308, *TB*-17/270, *TK*-0/66, *AV*-14/1252, *SB-M*-19/723, *SB-K*-17/728, *VS-M*-27/314, *VS-K*-31/265, *KS*-25/242)
+- धेहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-34, *RV*-63, *TB*-26, *TK*-1, *AV*-91, *SB-M*-27, *SB-K*-21, *VS-M*-30, *VS-K*-19, *KS*-29)
+- जात-वेदः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-18, *RV*-55, *TB*-8, *AV*-54, *SB-K*-6, *VS-M*-10, *VS-K*-8, *KS*-10)
+- म᳓हि (*TS*-19/35, *RV*-118/255, *TB*-9/39, *TK*-0/5, *AV*-10/40, *SB-M*-9/40, *SB-K*-11/34, *VS-M*-14/43, *VS-K*-12/33, *KS*-8/18)
+- श्र᳓वः (*TS*-6/9, *RV*-87/145, *TB*-3/4, *AV*-11/12, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-4/7, *KS*-3/4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -255,6 +276,11 @@ _________
 सहसो वलस्य यहा सूनो जातवेद उत्मन्नजगदभिज्ञाग्ने गोमतो गोभिर्युक्तस्य वाजस्यान्नस्येसानस्त्वमस्मे अस्मासु महि श्रवो महतीं कीर्तिं धेहि संपादयं।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[598_3]** Vgl. RV 1, 79, 4; MS 2, 13, 8; TS 4, 4, 4, 5; VS 15, 35. (Cf. RV 1, 79, 4; MS 2, 13, 8; TS 4, 4, 4, 5; VS 15, 35)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे (सहसः) बलवान् पुरुष के (यहो) सन्तान ! (जातवेदः) विज्ञान को प्राप्त हुए (अग्ने) तेजस्वी विद्वान् आप अग्नि के तुल्य (गोमतः) प्रशस्त गौ और पृथिवी से युक्त (वाजस्य) अन्न के (ईशानः) स्वामी समर्थ हुए (अस्मे) हमारे लिये (महि) बड़े (श्रवः) धन को (धेहि) धारण कीजिये ॥३५ ॥
@@ -310,6 +336,18 @@ O Agni, thou who art the lord of wealth in kine, thou Son of Strength,
 O Agni, lording it over strength rich in kine,  
 Youthful son of strength,  
 Bestow upon us, O all-knower, great fame.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, master of cattle-rich prize, youthful son of power,  
+bestow upon us, O Jātavedas, great fame.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+O Agni, lord of wealth in cattle, youthful son of strength,  
+O Jātavedas, bestow great fame upon us!
 </details>
 
 <details><summary>Oldenberg</summary>

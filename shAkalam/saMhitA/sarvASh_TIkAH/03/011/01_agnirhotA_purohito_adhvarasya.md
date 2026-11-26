@@ -66,10 +66,29 @@ yajñám ← yajñá- (nominal stem)
 स वे॑द य॒ज्ञमा॑नु॒षक् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्नि᳓र्हो᳓ता पुरो᳓हितोऽध्वर᳓स्य वि᳓चर्षणिः। 
+स᳓ वेद यज᳓मानुष᳓क्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निः । होता॑ । पु॒रःऽहि॑तः । अ॒ध्व॒रस्य॑ । विऽच॑र्षणिः ।  
 सः । वे॒द॒ । य॒ज्ञम् । आ॒नु॒षक् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- हो᳓ता (*MS*-81/112, *TS*-43/63, *RV*-150/244, *TB*-95/136, *TK*-6/8, *AV*-18/28, *SB-M*-135/211, *SB-K*-145/211, *VS-M*-58/73, *VS-K*-44/60)
+- पुरः᳓-हितः (*TS*-4/7, *RV*-18/24, *TB*-1, *AV*-5/8, *SB-K*-9/10, *VS-M*-4/5, *VS-K*-6/7, *MS*-6/10)
+- अध्वर᳓स्य (*MS*-4/44, *TS*-3/27, *RV*-19/196, *TB*-3/25, *TK*-0/2, *AV*-0/22, *SB-M*-22/71, *SB-K*-22/68, *VS-M*-1/29, *VS-K*-1/22)
+- वि᳓-चर्षणिः (*MS*-1/2, *TS*-1, *RV*-19/22, *AV*-2/4, *SB-M*-1, *VS-M*-2, *VS-K*-2)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- वेद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-19, *TS*-9, *RV*-42, *TB*-7, *TK*-2, *AV*-28, *SB-M*-43, *SB-K*-32, *VS-M*-7, *VS-K*-5)
+- यज᳓म् (*MS*-0/1, *TS*-0/1, *SB-M*-0/1)
+- आनुष᳓क् (*MS*-3, *TS*-2, *RV*-35, *TB*-1, *AV*-3, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -162,6 +181,12 @@ he knows the sacrifice in its proper order.
 
 AGNI is Priest, the great High Priest of sacrifice, most swift in act:  
      He knows the rite in constant course.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni is the Hotṛ, placed in front of the rite, far-seeing.  
+He knows the sacrifice in uninterrupted sequence.
 </details>
 
 <details><summary>Oldenberg</summary>

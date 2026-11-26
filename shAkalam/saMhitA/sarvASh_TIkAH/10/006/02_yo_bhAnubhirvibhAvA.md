@@ -92,10 +92,38 @@ sáptiḥ ← sápti- (nominal stem)
 आ यो वि॒वाय॑ स॒ख्या सखि॒भ्योऽप॑रिह्वृतो॒ अत्यो॒ न सप्तिः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+यो᳓ भानु᳓भिर् विभा᳓वा विभा᳓त्य् अग्नि᳓र् देवे᳓भिर् ऋता᳓वाजस्रः  
+आ᳓ यो᳓ विवा᳓य सख्या᳓ स᳓खिभ्यो᳓ ऽपरिह्वृतो अ᳓त्यो न᳓ स᳓प्तिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । भा॒नुऽभिः॑ । वि॒भाऽवा॑ । वि॒ऽभाति॑ । अ॒ग्निः । दे॒वेभिः॑ । ऋ॒तऽवा॑ । अज॑स्रः ।  
 आ । यः । वि॒वाय॑ । स॒ख्या । सखि॑ऽभ्यः । अप॑रिऽह्वृतः । अत्यः॑ । न । सप्तिः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- यः᳓ (*TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609, *KS*-223/818)
+- भानु᳓भिः (*TS*-3/16, *RV*-7/64, *TB*-0/4, *AV*-0/6, *SB-M*-1/12, *SB-K*-1/12, *VS-M*-1/11, *VS-K*-1/13, *KS*-2/4)
+- विभा᳓-वा (*TS*-1, *RV*-19/20, *TB*-1, *AV*-1)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *KS*-33)
+- भा᳓ति (*RV*-3, *TB*-2, *SB-M*-4, *SB-K*-6/7, *KS*-2)
+- अग्निः᳓ (*TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349, *KS*-111/256)
+- देवे᳓भिः (*TS*-14/1023, *RV*-52/1342, *TB*-4/582, *TK*-0/32, *AV*-4/707, *SB-M*-3/2031, *SB-K*-3/1945, *VS-M*-6/528, *VS-K*-4/523, *KS*-3/317)
+- ऋत᳓-वा (*TS*-3/84, *RV*-31/32, *TB*-1/31, *TK*-1/4, *AV*-1/17, *SB-M*-0/200, *SB-K*-1/188, *VS-M*-0/7, *VS-K*-0/7, *KS*-2/5)
+- अजस्रः (मूल-पाठः)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414, *KS*-316)
+- यः᳓ (*TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609, *KS*-223/818)
+- विवा᳓य (*RV*-2)
+- सख्या᳓ (*TS*-2/7, *RV*-23/157, *TB*-1/6, *AV*-1/13, *SB-M*-0/6, *SB-K*-0/6, *VS-M*-0/6, *VS-K*-0/5, *KS*-0/4)
+- स᳓खिभ्यः (*TS*-4/31, *RV*-26/225, *TB*-3/12, *AV*-8/64, *SB-M*-1/20, *SB-K*-2/19, *VS-M*-4/29, *VS-K*-3/31, *KS*-2/17)
+- अ᳓परि-ह्वृतः (*RV*-1/4, *KS*-0/1)
+- अ᳓त्यः (*TS*-1/5, *RV*-34/61, *TB*-1, *TK*-1, *AV*-0/1, *SB-M*-1/2, *SB-K*-2/3, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- स᳓प्तिः (*TS*-3/5, *RV*-8/26, *TB*-4, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-2/4, *VS-K*-1/3, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -236,6 +264,13 @@ teamed steed;
 
 Agni, the Holy One, the everlasting, who shines far beaming with celestial splendours;  
      He who hath come unto his friends with friendship, like a fleet steed who never trips or stumbles.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni, who shines radiant with beams, truthful with the gods, unceasing,  
+who has approached with friendship for his friends, unhindered like a racer, a courser.  
+When, O Agni, this assembly shall take place,
 </details>
 
 <details><summary>Geldner</summary>

@@ -69,10 +69,32 @@ vanemahi ← √vanⁱ- (root)
 इन्द्रा॑ग्नी॒ तद्व॑नेमहि ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+गो᳓मद्वि᳓रण्यवद्व᳓सु य᳓द्वाम᳓श्वावदी᳓महे।  
+इ᳓न्द्राग्नी त᳓द्वनेमहि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 गोऽम॑त् । हिर॑ण्यऽवत् । वसु॑ । यत् । वा॒म् । अश्व॑ऽवत् । ईम॑हे ।  
 इन्द्रा॑ग्नी॒ इति॑ । तत् । व॒ने॒म॒हि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- गो᳓मत् (*MS*-2/5, *TS*-0/3, *RV*-23/62, *TB*-3/4, *AV*-5/11, *VS-M*-2/8, *VS-K*-2/4)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- रण्य (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-2)
+- वत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2)
+- व᳓सु (*MS*-25/140, *TS*-14/143, *RV*-99/311, *TB*-19/59, *TK*-0/2, *AV*-27/90, *SB-M*-15/113, *SB-K*-14/111, *VS-M*-16/77, *VS-K*-15/100)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- वाम् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-70, *TS*-52, *RV*-514, *TB*-26, *TK*-1, *AV*-65, *SB-M*-40, *SB-K*-37, *VS-M*-19, *VS-K*-15)
+- अ᳓श्वावत् (*VS-M*-1)
+- ई᳓महे (*TS*-1, *RV*-13, *AV*-1, *SB-M*-3, *SB-K*-1)
+- इ᳓न्द्राग्नी (*MS*-11, *TS*-8, *RV*-44, *TB*-6, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-3)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- वनेमहि (*RV*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -181,6 +203,12 @@ The goods consisting of cows, of gold, of horses, which we beg you for, Indra an
 
 Whatever wealth we crave of you, in gold, in cattle, or in steeds,  
      That, Indra-Agni, let us gain;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+// Rich in cattle, rich in gold, rich in horses—whatever good we ask of you two,  
+O Indra and Agni, that may we gain!
 </details>
 
 <details><summary>Geldner</summary>

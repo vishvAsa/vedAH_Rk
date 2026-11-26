@@ -159,6 +159,23 @@ _________
 Sayana bhashya empty
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[22_4]** Ch सोम
+
+- **[22_5]** W1 अग्निश्च
+
+- **[22_6]** Brl अग्ने᳓ ; desgl. Ch, ohne Acc. (Brl अग्ने᳓; likewise Ch, without accent.)
+
+- **[22_7]** Brl and T 1 सेधते ; Ch सोदति ; L und W1 सेधति (Brl and T 1 सेधते; Ch सोदति; L and W1 सेधति)
+
+- **[22_8]** Ch ब्रवाणि
+
+- **[22_9]** Brl गिरः᳓
+
+- **[22_10]** Ch बुधो
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -182,6 +199,13 @@ and Agni who is weal to all.”
 
 Within the Waters-Soma thus hath told me-dwell all balms that heal,  
      And Agni, he who blesseth all.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In the waters, O Agni...  
+Soma has told me that within the waters are all healings,  
+and Agni, bringing welfare to all.
 </details>
 
 <details><summary>Geldner</summary>

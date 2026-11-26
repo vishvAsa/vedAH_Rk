@@ -113,6 +113,12 @@ sr̥ṇyàḥ ← sr̥ṇī́- (nominal stem)
 गि॒रा च॑ श्रु॒ष्टिः सभ॑रा॒ अस॑न्नो॒ नेदी॑य॒ऽइत्सृ॒ण्यः᳖ प॒क्वमेया॑त् ॥६८ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+युन᳓क्त सी᳓रा वि᳓ युगा᳓ तनोत कृते᳓ यो᳓नौ वपतेह᳓ बी᳓जम्  
+गिरा᳓ च श्रुष्टिः᳓ स᳓भरा अ᳓सन् नो ने᳓दीया इ᳓त् सृण्यः᳙ पक्व᳓म् आ᳓यत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यु॒नक्त॑ । सीरा॑ । वि । यु॒गा । त॒नु॒ध्व॒म् । कृ॒ते । योनौ॑ । व॒प॒त॒ । इ॒ह । बीज॑म् ।  
@@ -127,6 +133,31 @@ sr̥ṇyàḥ ← sr̥ṇī́- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यु॒नक्त॑। सीरा॑। वि। यु॒गा। त॒नु॒ध्व॒म्। कृ॒ते। योनौ॑। व॒प॒त॒। इ॒ह। बीज॑म्। गि॒रा। च॒। श्रु॒ष्टिः। सभ॑रा॒ इति॒ सऽभ॑राः। अस॑त्। नः॒। नेदी॑यः। इत्। सृ॒ण्यः᳖। प॒क्वम्। आ। इ॒या॒त्। ७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- युन᳓क्त (*TS*-1, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- सी᳓रा (*TS*-2/4, *RV*-2, *TB*-0/1, *AV*-2/3, *SB-M*-2/9, *SB-K*-2/10, *VS-M*-2/3, *VS-K*-2/3, *KS*-1/2)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127, *KS*-135)
+- युगा᳓ (*TS*-3/4, *RV*-13/31, *TB*-0/3, *AV*-2/7, *SB-M*-3/6, *SB-K*-3/7, *VS-M*-3, *VS-K*-3, *KS*-1)
+- तनोत (*TS*-1, *AV*-1)
+- कृते᳓ (*TS*-1/12, *RV*-4/77, *TB*-0/7, *AV*-2/43, *SB-M*-3/34, *SB-K*-4/41, *VS-M*-1/13, *VS-K*-1/9, *KS*-0/4)
+- यो᳓नौ (*TS*-17/170, *RV*-32/110, *TB*-7/38, *TK*-1/6, *AV*-8/45, *SB-M*-73/284, *SB-K*-69/261, *VS-M*-11/93, *VS-K*-10/100, *KS*-3/61)
+- वपते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *TB*-1, *AV*-1, *SB-M*-8, *SB-K*-10, *KS*-1)
+- ह᳓ → **ह** (अनुदात्तम्, पा॰ ८.१.१८, *TS*-61, *RV*-184, *TB*-124, *TK*-116, *AV*-70, *SB-M*-3472, *SB-K*-3779, *VS-M*-9, *VS-K*-6, *KS*-25)
+- बी᳓जम् (*TS*-2, *RV*-3, *TB*-1, *AV*-4/5, *SB-M*-3/4, *SB-K*-3/4, *VS-M*-1, *VS-K*-1)
+- गिरा᳓ (*TS*-5/7, *RV*-68/74, *TB*-2/3, *AV*-5/9, *SB-M*-3/6, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-5/7, *KS*-3/5)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686, *KS*-766)
+- श्रुष्टिः᳓ (*TS*-1/2, *RV*-3/26, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- स᳓भराः (*TS*-3, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
+- अ᳓सत् (*TS*-15/23, *RV*-32/44, *TB*-4/7, *AV*-21/31, *SB-M*-31/35, *SB-K*-30/34, *VS-M*-9/10, *VS-K*-10/14, *KS*-3/5)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382, *KS*-252)
+- ने᳓दीयाः (*TS*-0/2, *RV*-0/3, *TB*-0/1, *AV*-0/2, *SB-M*-0/7, *SB-K*-0/6, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/1)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50, *KS*-42)
+- सृण्यः᳙ (*RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- पक्व᳓म् (*TS*-6/7, *RV*-17/23, *AV*-7/23, *SB-M*-6/9, *SB-K*-5/8, *VS-M*-2, *VS-K*-2, *KS*-2)
+- आ᳓-यत् (*TS*-0/1, *RV*-0/3, *AV*-0/2, *SB-M*-0/2, *SB-K*-1/3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -437,6 +468,12 @@ should come even closer to our sickles.
 
 Lay on the yokes, and fasten well the traces: formed is the furrow, sow the seed within it.  
      Through song may we find bearing fraught with plenty: near to the ripened grain approach the sickle.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Yoke the plows, stretch the yokes; sow the seed here in the prepared womb!  
+And by our chant may there be a harvest bringing prosperity for us; may the sickles draw the ripe grain very near!
 </details>
 
 <details><summary>Geldner</summary>

@@ -76,6 +76,12 @@ cakruḥ ← √kr̥- (root)
 आच॑क्रुर॒ग्निमू॒तये॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+तँ सबा᳓धो यत᳓स्रुच इत्था᳓ धिया᳓ यज᳓वन्तः।  
+आ᳓चक्रुरग्नि᳓मूत᳓ये
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तम् । स॒ऽबाधः॑ । य॒तऽस्रु॑चः । इ॒त्था । धि॒या । य॒ज्ञऽव॑न्तः ।  
@@ -85,6 +91,21 @@ cakruḥ ← √kr̥- (root)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 त᳓म् । सबा᳓धः । यतः᳓ । स्रुचः । इत्था᳓ । धिया᳓ । यज्ञ᳓वन्तः । आ᳓ । चक्रुः । अग्नि᳓म् । ऊत᳓ये ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- तम् (*MS*-13, *TS*-4, *TB*-6, *TK*-1, *SB-M*-8, *SB-K*-10)
+- सबा᳓धः (*MS*-2, *TS*-2, *RV*-14/15, *TB*-1, *AV*-1)
+- यत᳓-स्रुचः (*RV*-8/13, *AV*-0/1, *MS*-1)
+- इत्था᳓ (*MS*-7, *TS*-1, *RV*-69, *TB*-1, *AV*-8, *SB-M*-2, *SB-K*-5, *VS-M*-3, *VS-K*-1)
+- धिया᳓ (*MS*-11/14, *TS*-9/10, *RV*-84/98, *TB*-6/9, *AV*-9/11, *SB-M*-9/10, *SB-K*-9/10, *VS-M*-14/19, *VS-K*-7/12)
+- यजो᳓ (मूल-पाठः)
+- अन्तः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-7, *TB*-3, *TK*-2, *SB-K*-1, *VS-K*-4, *MS*-5)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- चक्रुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *RV*-10, *TB*-3, *AV*-4, *SB-M*-15, *SB-K*-12, *VS-M*-1, *VS-K*-1)
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- ऊत᳓ये (*MS*-13/35, *TS*-12/25, *RV*-101/345, *TB*-6/12, *AV*-24/46, *SB-M*-5/8, *SB-K*-2/6, *VS-M*-10/26, *VS-K*-12/26)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -205,6 +226,18 @@ put Agni here for help.
 
 The priests with ladles lifted up, worshipping here with holy thought,  
      Have brought this Agni for our aid.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Oppressed, with outstretched ladles, in this manner with prayer, having sacrifices,  
+they have invoked Agni for aid.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Together with pressing urgency, ladles held forth, thus through prayer the sacrificers  
+have brought Agni to themselves for help.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -95,6 +95,12 @@ vyòma ← vyòman- (nominal stem)
 पृ॒च्छामि॑ त्वा॒ वृष्णो॒ अश्व॑स्य॒ रेतः॑ पृ॒च्छामि॑ वा॒चः प॑र॒मं व्यो॑म ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पृच्छामि त्वा परमन्तं पृथिव्याः पृच्छामि त्वा भुवनस्य नाभिम्।  
+पृच्छामि त्वा वृष्णो अश्वस्य रेतः पृच्छामि वाचः परमं व्योम
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पृ॒च्छामि॑ । त्वा॒ । पर॑म् । अन्त॑म् । पृ॒थि॒व्याः । पृ॒च्छामि॑ । यत्र॑ । भुव॑नस्य । नाभिः॑ ।  
@@ -109,6 +115,28 @@ vyòma ← vyòman- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 पृ॒च्छामि॑। त्वा॒। पर॑म्। अन्त॑म्। पृ॒थि॒व्याः। पृ॒च्छामि॑। यत्र॑। भुव॑नस्य। नाभिः॑। पृ॒च्छामि॑। त्वा॒। वृष्णः॑। अश्व॑स्य। रेतः॑। पृ॒च्छामि॑। वा॒चः। प॒र॒मम्। व्यो॒मेति॒ विऽओ॑म। ९।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पृच्छा᳓मि (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *TS*-4, *RV*-6, *TB*-4, *AV*-4, *SB-K*-2, *VS-M*-5, *VS-K*-5)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- परम᳓म् (*MS*-10/38, *TS*-12/45, *RV*-17/74, *TB*-6/27, *TK*-1/2, *AV*-14/53, *SB-M*-40/89, *SB-K*-38/91, *VS-M*-10/26, *VS-K*-10/28)
+- त᳓म् (*MS*-528/5550, *TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660)
+- पृथिव्याः᳓ (*MS*-92, *TS*-71/79, *RV*-99, *TB*-31, *TK*-1, *AV*-48, *SB-M*-69, *SB-K*-71, *VS-M*-55, *VS-K*-46/50)
+- पृच्छामि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-4, *AV*-7, *SB-M*-2, *SB-K*-4)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- भु᳓वनस्य (*MS*-21/53, *TS*-16/39, *RV*-41/144, *TB*-13/32, *TK*-4/6, *AV*-20/65, *SB-M*-9/30, *SB-K*-10/26, *VS-M*-11/42, *VS-K*-10/41)
+- ना᳓भिम् (*MS*-10/38, *TS*-9/27, *RV*-11/35, *TB*-3/20, *TK*-0/1, *AV*-6/24, *SB-M*-12/53, *SB-K*-9/46, *VS-M*-7/26, *VS-K*-7/28)
+- पृच्छा᳓मि (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *TS*-4, *RV*-6, *TB*-4, *AV*-4, *SB-K*-2, *VS-M*-5, *VS-K*-5)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- वृ᳓ष्णः (*MS*-8/15, *TS*-9/14, *RV*-44/78, *TB*-3/4, *AV*-7/13, *SB-M*-4, *SB-K*-4/6, *VS-M*-11/13, *VS-K*-10/12)
+- अ᳓श्वस्य (*MS*-12/117, *TS*-24/126, *RV*-18/226, *TB*-38/167, *AV*-14/76, *SB-M*-48/262, *SB-K*-49/255, *VS-M*-10/56, *VS-K*-8/52)
+- रे᳓तः (*Whitney*, *MS*-76/86, *TS*-57/78, *RV*-22/34, *TB*-59/66, *TK*-1/2, *AV*-23/26, *SB-M*-304/353, *SB-K*-323/371, *VS-M*-10/15, *VS-K*-9/14)
+- पृच्छामि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-4, *AV*-7, *SB-M*-2, *SB-K*-4)
+- वाचः᳓ (*MS*-23/32, *TS*-37/42, *RV*-22, *TB*-26/27, *AV*-19, *SB-M*-75/85, *SB-K*-65/77, *VS-M*-16/22, *VS-K*-18/29)
+- परम᳓म् (*MS*-10/38, *TS*-12/45, *RV*-17/74, *TB*-6/27, *TK*-1/2, *AV*-14/53, *SB-M*-40/89, *SB-K*-38/91, *VS-M*-10/26, *VS-K*-10/28)
+- व्यो᳙म (*MS*-8, *TS*-4, *TB*-1, *TK*-1, *SB-M*-6, *SB-K*-6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -348,6 +376,12 @@ I ask you about the seed of the bull(-like) horse. I ask about the highest  heav
 
 I ask thee of the earth's extremest limit, where is the centre of the world, I ask thee.  
      I ask thee of the Stallion's seed prolific, I ask of highest heaven where Speech abideth.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"I ask you about the furthest limit of the earth; I ask you about the navel of the world;  
+I ask you about the seed of the vigorous horse; I ask you about the highest realm of speech."
 </details>
 
 <details><summary>Geldner</summary>

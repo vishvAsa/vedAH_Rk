@@ -101,10 +101,40 @@ víśvā ← víśva- (nominal stem)
 जा॒त आपृ॑णो॒ भुव॑नानि॒ रोद॑सी॒ अग्ने॒ ता विश्वा॑ परि॒भूर॑सि॒ त्मना॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वै᳓श्वानर त᳓व धा᳓मान्य् आ᳓चके ये᳓भिः स्वर्वि᳓द् अ᳓भवो विचक्षण  
+जात᳓ आ᳓पृणो भु᳓वनानि रो᳓दसी अ᳓ग्ने ता᳓ वि᳓श्वा परिभू᳓र् असि त्म᳓ना
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वैश्वा॑नर । तव॑ । धामा॑नि । आ । च॒क्रे॒ । येभिः॑ । स्वः॒ऽवित् । अभ॑वः । वि॒ऽच॒क्ष॒ण॒ ।  
 जा॒तः । आ । अ॒पृ॒णः॒ । भुव॑नानि । रोद॑सी॒ इति॑ । अग्ने॑ । ता । विश्वा॑ । प॒रि॒ऽभूः । अ॒सि॒ । त्मना॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वै᳓श्वानर (*TS*-3, *RV*-19, *KS*-2)
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180, *KS*-41/165)
+- धा᳓मानि (*TS*-12/53, *RV*-25/92, *TB*-20/31, *TK*-0/2, *AV*-3/45, *SB-M*-22/67, *SB-K*-24/71, *VS-M*-29/49, *VS-K*-23/45, *KS*-6/20)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414, *KS*-316)
+- चके (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-5, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-2, *KS*-3)
+- ये᳓भिः (*TS*-1/3385, *RV*-28/4011, *TB*-9/1735, *TK*-0/227, *AV*-5/3120, *SB-M*-1/8327, *SB-K*-0/8438, *VS-M*-0/651, *VS-K*-0/609, *KS*-7/818)
+- स्वर्-वि᳓त् (*RV*-5, *AV*-1, *SB-M*-1, *SB-K*-1)
+- अ᳓भवः (*RV*-6/10, *TB*-1/4, *AV*-1/3, *SB-M*-1/4, *SB-K*-1/3, *VS-M*-1, *KS*-1)
+- वि-चक्षण (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-7, *AV*-6, *KS*-1)
+- जातः᳓ (*TS*-24/65, *RV*-53/144, *TB*-5/22, *TK*-0/4, *AV*-30/95, *SB-M*-39/84, *SB-K*-39/82, *VS-M*-22/37, *VS-K*-21/37, *KS*-9/17)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414, *KS*-316)
+- पृणः (मूल-पाठः)
+- भु᳓वनानि (*TS*-11/39, *RV*-59/144, *TB*-6/32, *TK*-0/6, *AV*-29/65, *SB-M*-8/30, *SB-K*-3/26, *VS-M*-18/42, *VS-K*-18/41, *KS*-6/16)
+- रो᳓दसी (*TS*-14/18, *RV*-186/207, *TB*-6, *TK*-1, *AV*-28, *SB-M*-8/9, *SB-K*-8/9, *VS-M*-13/15, *VS-K*-13/16, *KS*-11/12)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107, *KS*-72/73)
+- ताः᳓ (*TS*-136/4761, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/780, *VS-K*-17/660, *KS*-61/1225)
+- वि᳓श्वा (*TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224, *KS*-19/118)
+- परि-भूः᳓ (*TS*-11/14, *RV*-10, *TB*-2, *AV*-6/8, *SB-M*-6, *SB-K*-6, *VS-M*-3, *VS-K*-2, *KS*-2)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349, *KS*-247)
+- त्म᳓ना (*TS*-9, *RV*-63/72, *TB*-1/2, *TK*-1, *AV*-4, *SB-M*-3/4, *SB-K*-5/6, *VS-M*-7, *VS-K*-10, *KS*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -270,6 +300,12 @@ world-halves. Agni, you surround all these in your own person.
 
 I celebrate thy glories, O Vaisvanara, wherewith thou, O farsighted God, has found the light.  
      Thou filledst at thy birth both worlds, the earth and heaven: all this, O Agni, hast thou compassed of thyself.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Vaiśvānara, I proclaim your forms through which you became the finder of heaven, O far-seeing one;  
+born, you filled the realms, the two worlds; O Agni, you encompass all these by yourself.
 </details>
 
 <details><summary>Oldenberg</summary>

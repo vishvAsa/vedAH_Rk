@@ -69,10 +69,31 @@ víśvāsu ← víśva- (nominal stem)
 विश्वा॑सु पृ॒त्सु दु॒ष्टर॑म् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ नो अग्ने रयिं भर सत्रासाहं वरेण्यम्।  
+विश्वासु पृत्सु दुष्टरम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । नः॒ । अ॒ग्ने॒ । र॒यिम् । भ॒र॒ । स॒त्रा॒ऽसह॑म् । वरे॑ण्यम् ।  
 विश्वा॑सु । पृ॒त्ऽसु । दु॒स्तर॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- न (समानान्तर-पाठः (MS), *MS*-92, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- रयि᳓म् (*MS*-51/71, *TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37)
+- भर (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-16, *TS*-19, *RV*-130, *TB*-5, *TK*-1, *AV*-31, *SB-M*-4, *SB-K*-2, *VS-M*-11, *VS-K*-6)
+- सत्रासा᳓हम् (*MW*, *MS*-2)
+- व᳓रेण्यम् (*MS*-4/11, *TS*-5/11, *RV*-21/38, *TB*-1/2, *AV*-4/8, *SB-M*-4/8, *SB-K*-4/8, *VS-M*-15/19, *VS-K*-13/17)
+- वि᳓श्वासु (*MS*-2/301, *TS*-0/283, *RV*-16/1116, *TB*-0/125, *TK*-0/124, *AV*-3/353, *SB-M*-0/248, *SB-K*-0/219, *VS-M*-0/225, *VS-K*-0/224)
+- पृत्सु᳓ (*MW*, *MS*-4, *TS*-4, *RV*-31/32, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1)
+- दुष्ट᳓रम् (*MS*-2, *TS*-1, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-0/1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -169,6 +190,12 @@ and difficult to surpass in all battles.
 
 Bring to us ever-conquering wealth, wealth, Agni, worthy of our choice,  
      In all our frays invincible.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring us wealth, O Agni, completely overcoming, excellent,  
+invincible in all battles.
 </details>
 
 <details><summary>Oldenberg</summary>

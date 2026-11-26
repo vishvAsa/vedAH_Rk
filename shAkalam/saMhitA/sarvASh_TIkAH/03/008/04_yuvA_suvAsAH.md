@@ -103,6 +103,12 @@ svādhyàḥ ← svādhī́- (nominal stem)
 स्वा॒धियो॒ मन॑सा देव॒यन्तः॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+युवा सुवासाः परिवीत आगात्स उ श्रेयान्भवति जायमानः।  
+तं धीरासः कवय उन्नयन्ति स्वाध्यो मनसा देवयन्तः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 युवा॑ । सु॒ऽवासाः॑ । परि॑ऽवीतः । आ । अ॒गा॒त् । सः । ऊं॒ इति॑ । श्रेया॑न् । भ॒व॒ति॒ । जाय॑मानः ।  
@@ -282,6 +288,12 @@ Kane (HDŚ II.1.269) suggests that the image in this vs. is that of a young boy,
 
 Well-robed, enveloped he is come, the youthful: springing to life his glory waxeth greater.  
      Contemplative in mind and God-adoring, sages of high intelligence upraise him.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Youthful, well-clad, girdled, he has arrived; being born, he becomes still more glorious;  
+the wise, inspired seers, mindful, lead him up, seeking the gods with their mind.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -95,10 +95,38 @@ trātā́raḥ ← trātár- (nominal stem)
 अध॑ स्मा नो मरुतो रुद्रियासस्त्रा॒तारो॑ भूत॒ पृत॑नास्व॒र्यः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सं᳓ य᳓द्ध᳓नन्त मन्यु᳓भि᳓र्जनासश्शू᳓रा यह्वी᳓ष्वो᳓षधीषु विक्षु᳓।  
+अ᳓ध स्मा नो मरुतो रुद्रियासस्त्राता᳓रो भूत पृ᳓तनास्व᳓र्यः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सम् । यत् । हन॑न्त । म॒न्युऽभिः॑ । जना॑सः । शूराः॑ । य॒ह्वीषु॑ । ओष॑धीषु । वि॒क्षु ।  
 अध॑ । स्म॒ । नः॒ । म॒रु॒तः॒ । रु॒द्रि॒या॒सः॒ । त्रा॒तारः॑ । भू॒त॒ । पृत॑नासु । अ॒र्यः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- ह᳓नन्त (*RV*-1)
+- मन्यु᳓भिः᳓ → **मन्यु᳓भिः** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MS*-0/25, *TS*-0/17, *RV*-1/53, *TB*-0/14, *TK*-0/2, *AV*-0/35, *SB-M*-0/6, *SB-K*-0/6, *VS-M*-0/13, *VS-K*-0/14)
+- जनासः (*TS*-1, *RV*-19, *AV*-19)
+- शू᳓रा (*MS*-4/14, *TS*-0/5, *RV*-1/71, *TB*-0/9, *AV*-0/7, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/7, *VS-K*-0/7)
+- यह्वी᳓षु (*MS*-0/2, *TS*-0/1, *RV*-2/21, *TB*-0/1, *VS-M*-0/1, *VS-K*-0/1)
+- ओ᳓षधीषु (*MS*-25/137, *TS*-16/114, *RV*-19/89, *TB*-8/57, *TK*-0/2, *AV*-9/86, *SB-M*-5/93, *SB-K*-5/98, *VS-M*-5/44, *VS-K*-5/49)
+- विक्षु᳓ (*MS*-5, *TS*-6, *RV*-48, *TB*-2, *AV*-4, *SB-M*-5, *SB-K*-5, *VS-M*-3, *VS-K*-2)
+- अ᳓ध (*MS*-10, *TS*-8/9, *RV*-195, *TB*-4/5, *TK*-1, *AV*-39, *SB-M*-3/7, *SB-K*-4/9, *VS-M*-11, *VS-K*-15/19)
+- स्मा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-3, *SB-M*-2)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- मरुतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-23, *TS*-17, *RV*-152, *TB*-9, *AV*-18, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2)
+- रुद्रियासः (*RV*-3)
+- त्राता᳓रः (*MS*-0/9, *TS*-0/7, *RV*-1/22, *TB*-0/1, *AV*-0/4, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-0/8, *VS-K*-0/8)
+- भूत (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-1, *RV*-7, *VS-K*-1)
+- पृ᳓तनासु (*MS*-10/19, *TS*-5/20, *RV*-35/54, *TB*-5/13, *AV*-10/24, *SB-M*-3/6, *SB-K*-3/6, *VS-M*-3/5, *VS-K*-2/5)
+- अ᳓र्यः (*TB*-1, *SB-M*-0/1, *VS-M*-0/2, *VS-K*-0/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -226,6 +254,11 @@ _________
 **यत्** यदा **शूराः** विक्रान्ताः **जनासः** जनाः **यह्वीषु** महतीषु **ओषधीषु** **विक्षु** प्रजासु च जेतव्यासु **मन्युभिः** कोपैरभिमानैव **सं** **हनन्त** संगच्छन्ते **अध** तदानीं हे **रुद्रियासः** रुद्रपुत्रा हे **मरुतः** यूयं **पृतनासु** युद्धेषु **अर्यः** अरेः शत्रोः सकाशात् **नः** अस्माकं **ञातारः** **भूत** रक्षका भवत ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[104_7]** Hier bricht T1 ab; das folgende Blatt fehlt; das Weitere nach L accentuirt, collat. mit Brl. (Here T1 breaks off; the following leaf is missing; the rest accented after L, collated with Brl.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -256,6 +289,12 @@ Fem. yahvī́- ‘exuberant’ is in the pl. typed for rivers/waters.
 
 What time the men in fury rush together for running streams, for pastures, and for houses.  
      Then, O ye Maruts, ye who spring from Rudra, be our protectors in the strife with foemen.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When peoples, heroes, strike together in fury among the youthful herbs, among the clans,  
+then indeed, O Maruts, of Rudra's stock, be our protectors in the battles of the stranger!
 </details>
 
 <details><summary>Geldner</summary>

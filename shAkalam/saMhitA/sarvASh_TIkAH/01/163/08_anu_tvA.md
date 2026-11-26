@@ -110,6 +110,12 @@ vīryàm ← vīryà- (nominal stem)
 अनु॒ व्राता॑स॒स्तव॑ स॒ख्यमी॑यु॒रनु॑ दे॒वा म॑मिरे वी॒र्यं᳖ ते ॥१९ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अनु त्वा रथो अनु मर्यो अर्वन्ननु गावोऽनु भगः कनीनाम्।  
+अनु व्रातासस्तव सख्यमीयुरनु देवा ममिरे वीर्यं ते
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अनु॑ । त्वा॒ । रथः॑ । अनु॑ । मर्यः॑ । अ॒र्व॒न् । अनु॑ । गावः॑ । अनु॑ । भगः॑ । क॒नीना॑म् ।  
@@ -124,6 +130,31 @@ vīryàm ← vīryà- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अनु॑। त्वा॒। रथः॑। अनु॑। मर्यः॑। अ॒र्व॒न्। अनु॑। गावः॑। अनु॑। भगः॑। क॒नीना॑म्। अनु॑। व्राता॑सः। तव॑। स॒ख्यम्। ई॒युः॒। अनु॑। दे॒वाः। म॒मि॒रे॒। वी॒र्य᳖म्। ते॒। ८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- र᳓थः (*MS*-17/57, *TS*-13/36, *RV*-83/393, *TB*-16/36, *TK*-2/3, *AV*-10/57, *SB-M*-16/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-5/13)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- म᳓र्यः (*MS*-1/2, *TS*-1/2, *RV*-10/25, *AV*-1/2, *SB-M*-0/3, *SB-K*-1/3, *VS-M*-1, *VS-K*-1)
+- अर्वन् (समानान्तर-पाठः (TS), *MS*-2, *TS*-7, *RV*-6, *AV*-1, *SB-M*-1, *SB-K*-2, *VS-M*-6, *VS-K*-6)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- गा᳓वः (*MS*-7/149, *TS*-12/108, *RV*-98/521, *TB*-3/76, *AV*-35/195, *SB-M*-13/168, *SB-K*-16/149, *VS-M*-10/67, *VS-K*-9/67)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- भ᳓गः (*MS*-16/33, *TS*-4/13, *RV*-63/115, *TB*-4/23, *TK*-0/1, *AV*-30/65, *SB-M*-6/23, *SB-K*-5/17, *VS-M*-8/26, *VS-K*-6/26)
+- कनी᳓नाम् (*TS*-1, *RV*-6/9, *AV*-0/1, *VS-M*-1, *VS-K*-1)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- व्रा᳓तासः (*MS*-0/3, *TS*-1/4, *RV*-1/5, *TB*-0/1, *AV*-0/1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-1/3)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- सख्य᳓म् (*MS*-4/9, *TS*-5/7, *RV*-44/134, *TB*-3/5, *AV*-2/12, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-5/6, *VS-K*-5)
+- ईयुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-8, *AV*-1, *SB-M*-39, *SB-K*-30, *VS-M*-2, *VS-K*-2, *MS*-11)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- ममिरे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-8, *VS-M*-1, *VS-K*-1)
+- वीर्य᳙म् (*MS*-146, *TS*-99, *RV*-25, *TB*-64, *TK*-1, *AV*-20, *SB-M*-201, *SB-K*-221, *VS-M*-11, *VS-K*-11)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -409,6 +440,11 @@ _________
 जनित्रं "जन्म । आहुः वेदा वदन्ति । तत्र शंसति ॥ २७॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[640_1]** So corr. Ch व्रतास॰ ; vgl. RV 1, 163, S; TS 4, 6, 7, 3; VS 29, 19. (Thus emended; Ch reads व्रतास॰; cf. RV 1, 163, S; TS 4, 6, 7, 3; VS 29, 19.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 मनुष्यों को कैसे राजप्रजा के कार्य सिद्ध करने चाहिए, इस विषय को अगले मन्त्र में कहा है ॥
@@ -472,6 +508,12 @@ The preverb ánu is insistently repeated in this verse: twice each in a and b, o
 
 After thee, Courser, come the car, the bridegroom, the kine come after, and the charm of maidens.  
      Full companies have followed for thy friendship: the pattern of thy vigour Gods have copied.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+After you the chariot, after you the youth, O courser; after you the cows, after you the charm of maidens;  
+after you the troops went for your friendship; the gods measured out your heroic might.
 </details>
 
 <details><summary>Geldner</summary>

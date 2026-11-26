@@ -104,6 +104,18 @@ víṣvak ← víṣvañc- (nominal stem)
 तपूँ॑ष्यग्ने जु॒ह्वा॑ पत॒ङ्गानस॑दितो॒ विसृ॑ज॒ विष्व॑गु॒ल्काः ॥१०॥ ॥ १०
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त᳓व भ्रमा᳓स आशुया᳓ पतन्त्य् अ᳓नुस्पृश धृषता᳓ शो᳓शुचानः  
+त᳓पोभिर् अग्ने जुह्वा᳙ पतङ्गा᳓न् अ᳓संदितो वि᳓सृज वि᳓ष्वग् उल्काः᳓
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+त᳓व भ्रमा᳓स आश्रुया᳓ पतन्त्य᳓नु॒स्पृश धृषता᳓ शो᳓श्रुचानः।  
+त᳓पूँष्यग्ने जुह्वा पतङ्गा᳓न᳓सन्दितो वि᳓सृज वि᳓ष्वगुल्काः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तव॑ । भ्र॒मासः॑ । आ॒शु॒ऽया । प॒त॒न्ति॒ । अनु॑ । स्पृ॒श॒ । धृ॒ष॒ता । शोशु॑चानः ।  
@@ -123,6 +135,50 @@ víṣvak ← víṣvañc- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 तव॑। भ्र॒मासः॑। आ॒शु॒येत्या॑शु॒या। प॒त॒न्ति॒। अनु॑। स्पृ॒श॒। धृ॒ष॒ता। शोशु॑चानः। तपूँ॑षि। अ॒ग्ने॒। जु॒ह्वा᳖। प॒त॒ङ्गान्। अस॑न्दित॒। इत्यस॑म्ऽदितः। वि। सृ॒ज॒। विष्व॑क्। उ॒ल्काः। १०।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/215, *VS-K*-25/167, *KS*-41/165)
+- भ्रमा᳓सः (*TS*-1, *RV*-1/3, *VS-M*-1, *VS-K*-1, *KS*-1)
+- आशु-या᳓ (*TS*-1, *RV*-2, *VS-M*-1, *VS-K*-1)
+- पतन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-2, *AV*-3, *SB-M*-3, *SB-K*-3, *KS*-2)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-108, *KS*-96)
+- स्पृश (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-5, *AV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- धृषता᳓ (*TS*-2, *RV*-18, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-2)
+- शो᳓शुचानः (*TS*-4, *RV*-9/10, *TB*-1, *AV*-2/9, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- त᳓पोभिः (*TS*-0/46, *RV*-1/21, *TB*-0/43, *TK*-0/30, *AV*-0/88, *SB-M*-0/97, *SB-K*-0/89, *VS-M*-0/20, *VS-K*-0/22, *KS*-0/12)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- जुह्वा᳙ (*TS*-1, *RV*-10, *AV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-2, *KS*-1)
+- पतङ्गा᳓न् (*TS*-1/3, *RV*-1/8, *AV*-0/2, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-1/3, *KS*-1/2)
+- अ᳓सम्-दितः (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- सृज (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-22, *TB*-8, *AV*-22, *SB-M*-2, *VS-M*-7, *VS-K*-6, *KS*-7)
+- वि᳓ष्वक् (*TS*-3, *RV*-14, *TB*-1, *AV*-3, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-2)
+- उल्काः᳓ (*TS*-1, *RV*-1, *AV*-1/3, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1, *VS-K*-1, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- भ्रमा᳓सः (*TS*-1, *RV*-1/3, *VS-M*-1, *VS-K*-1, *MS*-1)
+- आश्रु (मूल-पाठः)
+- या᳓ (*MS*-177/3763, *TS*-96/3385, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/651, *VS-K*-29/609)
+- पतन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-2, *AV*-3, *SB-M*-3, *SB-K*-3, *MS*-3)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- स्पृश (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-5, *AV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-1, *VS-K*-1, *MS*-4)
+- धृषता᳓ (*MS*-2, *TS*-2, *RV*-18, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- शो᳓श्रु (पादादिः आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८)
+- चानः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- त᳓पूंषि (*TS*-1, *RV*-2, *AV*-1, *VS-M*-1, *VS-K*-1)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- जुह्वा → **जुह्वा᳙** (स्वर-लोपः, *MS*-4, *TS*-1, *RV*-10, *AV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- पतङ्गा᳓न् (*MS*-1/2, *TS*-1/3, *RV*-1/8, *AV*-0/2, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-1/3)
+- अ᳓सम्-दितः (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- सृज (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-8, *TS*-13, *RV*-22, *TB*-8, *AV*-22, *SB-M*-2, *VS-M*-7, *VS-K*-6)
+- वि᳓ष्वक् (*MS*-2, *TS*-3, *RV*-14, *TB*-1, *AV*-3, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- उल्काः᳓ (*MS*-1, *TS*-1, *RV*-1, *AV*-1/3, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -396,6 +452,18 @@ Unfettered, o Agni, with your tongue hurl out bursts of heat, flying  (embers), 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 </details>
 </div>
 
@@ -416,6 +484,18 @@ Swiftly thy whirling flames descend;
 bring upward Follow them, glowing in thy fury;  
 Thy heat, O Agni, thy winged (flames) with thy tongue,  
 Unfettered, on all sides spread thy firebrands.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Your whirling [flames] fly swiftly; blazing boldly, touch them!  
+With heats, O Agni, with your tongue, unhindered, send forth the sparks, the meteors on every side!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Your whirling [flames] fly swiftly; touch [them], burning brightly, with boldness;  
+O Agni, send forth your heats with your tongue, like birds; unfettered, [fling] meteors all around!
 </details>
 
 <details><summary>Geldner</summary>

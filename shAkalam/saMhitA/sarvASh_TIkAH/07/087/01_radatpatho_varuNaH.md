@@ -92,10 +92,37 @@ mahī́ḥ ← máh- (nominal stem)
 सर्गो॒ न सृ॒ष्टो अर्व॑तीरृता॒यञ्च॒कार॑ म॒हीर॒वनी॒रह॑भ्यः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+र᳓दत्पथो᳓ व᳓रुणस्सू᳓र्याय प्रा᳓र्णाँसि समुद्रि᳓या नदी᳓नाम्।  
+स᳓र्गो न᳓ सृष्टो᳓ अ᳓र्वतीर्ऋृताय᳓ञ्चका᳓र मही᳓रव᳓नीर᳓भ्यः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 रद॑त् । प॒थः । वरु॑णः । सूर्या॑य । प्र । अर्णां॑सि । स॒मु॒द्रिया॑ । न॒दीना॑म् ।  
 सर्गः॑ । न । सृ॒ष्टः । अर्व॑तीः । ऋ॒त॒ऽयन् । च॒कार॑ । म॒हीः । अ॒वनीः॑ । अह॑ऽभ्यः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- र᳓दत् (*RV*-1/2)
+- पथः᳓ (*MS*-12/60, *TS*-8/72, *RV*-36/149, *TB*-5/22, *AV*-12/76, *SB-M*-11/46, *SB-K*-12/52, *VS-M*-4/38, *VS-K*-5/35)
+- व᳓रुणः (*MS*-107/226, *TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-40/84)
+- सू᳓र्याय (*MS*-16/143, *TS*-16/109, *RV*-11/337, *TB*-9/75, *TK*-1/8, *AV*-5/173, *SB-M*-16/152, *SB-K*-14/151, *VS-M*-2/38, *VS-K*-5/47)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- अ᳓र्णांसि (*MS*-1/4, *RV*-9/32, *TB*-0/2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/1)
+- समुद्रि᳓या (*MS*-2/6, *TS*-0/7, *RV*-1/9, *TK*-1, *AV*-1/4, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-0/2, *VS-K*-0/2)
+- नदी᳓नाम् (*MS*-3/4, *TS*-3/4, *RV*-20/31, *TB*-0/1, *AV*-5/11, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-2/4, *VS-K*-1/3)
+- स᳓र्गः (*MS*-0/1, *RV*-6/22, *TB*-0/1, *AV*-0/3)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- सृष्टः᳓ (*MS*-8/44, *TS*-4/16, *RV*-2/9, *TB*-4/23, *TK*-0/1, *AV*-0/5, *SB-M*-5/30, *SB-K*-4/22)
+- अ᳓र्वतीः (*RV*-2/3)
+- ऋताय᳓न् (*MS*-1, *SB-M*-1, *SB-K*-2)
+- चका᳓र (*MS*-5, *TS*-3, *RV*-18, *TB*-4, *AV*-21, *SB-M*-4, *SB-K*-3, *VS-M*-4, *VS-K*-3)
+- महीः᳓ (*MS*-5/28, *TS*-2/24, *RV*-29/131, *TB*-3/8, *TK*-0/1, *AV*-10/47, *SB-M*-2/19, *SB-K*-2/19, *VS-M*-4/26, *VS-K*-3/27)
+- अव᳓नीः (*TS*-0/2, *RV*-7/15, *AV*-1/2, *VS-K*-0/1, *MS*-1)
+- अ᳓भ्यः (*MW*, *Macdonell*, *Lanman*)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -245,6 +272,12 @@ Varuṇa dug the paths for the sun. Forward (went) the floods of rivers to  the 
 
 VARUNA cut a pathway out for Surya, and led the watery floods of rivers onward.  
      The Mares, as in a race, speed on in order. He made great channels for the days to follow.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Varuṇa carved paths for the sun; he sent forth the ocean-surges of the rivers.  
+Like a steed loosed in a race, acting rightly, he made the great paths for the days.
 </details>
 
 <details><summary>Geldner</summary>

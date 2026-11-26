@@ -268,6 +268,11 @@ _____________
 देवेषु सुम्नं कर्तुं धीराः कवयो युगानि वितन्वते इति संबन्धः ॥ ६ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[232_7]** D सुम्नयुः
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 अब खेती और योग करने की विद्या अगले मन्त्र में कही है ॥
@@ -331,6 +336,12 @@ Wise, through desire of bliss from Gods, the skilful bind the traces fast, And l
 The sages yoke the ploughs;  
 They stretch apart the yokes,  
 Wise with goodwill among the gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The poets yoke the plows; they spread the yokes apart,  
+the wise, seeking favor among the gods.
 </details>
 
 <details><summary>Geldner</summary>

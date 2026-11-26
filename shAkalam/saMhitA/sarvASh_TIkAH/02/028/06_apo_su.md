@@ -113,10 +113,44 @@ tvát ← tvám (pronoun)
 दामे॑व व॒त्साद्वि मु॑मु॒ग्ध्यंहो॑ न॒हि त्वदा॒रे नि॒मिष॑श्च॒नेशे॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓पो षु᳓ म्यक्ष वरुण भिय᳓सं म᳓त् स᳓म्राड् ऋतावो᳓ ऽनु नो गृभाय  
+दा᳓मेव वत्सा᳓द् वि᳓मुमुग्ध्य् * अँ᳓हो नहि᳓ त्व᳓द् आरे᳓ निमि᳓षश् चने᳓शे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अपो॒ इति॑ । सु । म्य॒क्ष॒ । व॒रु॒ण॒ । भि॒यस॑म् । मत् । सम्ऽरा॑ट् । ऋत॑ऽवः । अनु॑ । मा॒ । गृ॒भा॒य॒ ।  
 दाम॑ऽइव । व॒त्सात् । वि । मु॒मु॒ग्धि॒ । अंहः॑ । न॒हि । त्वत् । आ॒रे । नि॒ऽमिषः॑ । च॒न । ईशे॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓पो (*RV*-5, *TB*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- षु᳓ (*TS*-8, *TB*-0/1, *SB-M*-1, *SB-K*-4, *VS-K*-3/4, *KS*-5/6)
+- म्यक्ष (*RV*-1)
+- वरुण (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-17, *RV*-58, *TB*-6, *TK*-1, *AV*-27, *SB-M*-8, *SB-K*-7, *VS-M*-8, *VS-K*-8, *KS*-17)
+- भिय᳓सम् (*RV*-3/4, *AV*-2)
+- म᳓त् (*TS*-3/565, *RV*-12/1308, *TB*-6/270, *TK*-0/66, *AV*-19/1252, *SB-M*-17/723, *SB-K*-15/728, *VS-M*-1/314, *VS-K*-1/265, *KS*-3/242)
+- स᳓म्-राट् (*RV*-3)
+- ऋता (मूल-पाठः)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-68, *KS*-122)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-108, *KS*-96)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- गृभाय (*TS*-4, *RV*-12, *TB*-3, *AV*-7, *VS-M*-1, *KS*-1)
+- दा᳓म् (*MW* ŚBr., *Macdonell*, *Lanman*)
+- एव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *TB*-10, *TK*-1, *AV*-3, *SB-M*-17, *SB-K*-8, *VS-M*-1, *KS*-21)
+- वत्सा᳓त् (*RV*-1)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- मुमुग्धि (*TS*-2, *RV*-5, *TB*-2, *AV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- अं᳓हः (*TS*-3/24, *RV*-34/90, *TB*-2/17, *TK*-1, *AV*-0/82, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-0/9, *VS-K*-0/8, *KS*-5/15)
+- नहि᳓ (*RV*-54, *AV*-13, *SB-K*-3, *VS-M*-2, *VS-K*-2, *KS*-4)
+- त्व᳓त् (*TS*-6/313, *RV*-46/1488, *TB*-13/152, *TK*-1/39, *AV*-24/628, *SB-M*-32/387, *SB-K*-58/387, *VS-M*-8/215, *VS-K*-7/167, *KS*-10/165)
+- आरे᳓ (*TS*-8/11, *RV*-43/57, *TB*-2/5, *AV*-5/21, *SB-M*-2/4, *SB-K*-3/5, *VS-M*-4/7, *VS-K*-4/8, *KS*-5/7)
+- नि-मि᳓षः (*RV*-2/4, *AV*-1)
+- चन᳓ → **चन** (अनुदात्तम्, पा॰ ८.१.१८, *AV*-3, *SB-M*-74, *SB-K*-66, *KS*-1)
+- ईशे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-16, *TB*-1, *AV*-9, *KS*-6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -299,6 +333,12 @@ Like a rope from a calf, untie confining straits (from me), for I cannot  be awa
 
 Far from me, Varuna, remove all danger accept me graciously, thou Holy Sovran.  
      Cast off, like cords that hold a calf, my troubles: I am not even mine eyelid's lord without thee.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Drive fear far away from me, O Varuṇa; sovereign ruler, observer of cosmic order, favor us!  
+Release distress from me like a halter from a calf; for apart from you I am not master even of a twinkling of the eye.
 </details>
 
 <details><summary>Geldner</summary>

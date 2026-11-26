@@ -78,6 +78,12 @@ vardhāse ← √vr̥dh- (root)
 ए॒भिर्व॑र्धास॒ इन्दु॑भिः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ए᳓ह्यू षु᳓ ब्र᳓वाणि ते᳓ऽग्न इत्थे᳓तरा गि᳓रः।  
+एभि᳓र्वर्धास इ᳓न्दुभिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । इ॒हि॒ । ऊं॒ इति॑ । सु । ब्रवा॑णि । ते॒ । अग्ने॑ । इ॒त्था । इत॑राः । गिरः॑ ।  
@@ -87,6 +93,21 @@ vardhāse ← √vr̥dh- (root)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 आ। इ॒हि॒। ऊँ॒ इत्यूँ॑। सु। ब्रवा॑णि। ते॒। अग्ने॑। इ॒त्था। इत॑राः। गिरः॑। ए॒भिः। व॒र्द्धा॒से॒। इन्दु॑भि॒रितीन्दु॑ऽभिः। १३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ए᳓ह्यू (मूल-पाठः)
+- षु᳓ (*MS*-11/14, *TS*-7, *TB*-0/1, *SB-M*-1, *SB-K*-4, *VS-K*-3/4)
+- ब्र᳓वाणि (*MS*-1/3, *RV*-1/6, *SB-M*-3, *SB-K*-2, *VS-M*-1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- इत्था᳓ (*MS*-7, *TS*-1, *RV*-69, *TB*-1, *AV*-8, *SB-M*-2, *SB-K*-5, *VS-M*-3, *VS-K*-1)
+- इ᳓तरा (*MS*-2/39, *TS*-2/8, *RV*-1/4, *TB*-4/9, *TK*-1/2, *AV*-3/10, *SB-M*-5/209, *SB-K*-6/202, *VS-M*-1/3, *VS-K*-0/3)
+- गि᳓रः (*MS*-15/16, *TS*-10, *RV*-151/158, *TB*-11, *AV*-22, *SB-M*-7, *SB-K*-6, *VS-M*-11, *VS-K*-18)
+- एभिः᳓ (*MS*-3/1379, *TS*-4/965, *RV*-17/1247, *TB*-1/567, *TK*-0/57, *AV*-2/1259, *SB-M*-20/5239, *SB-K*-23/5549, *VS-M*-2/319, *VS-K*-1/301)
+- वर्धासे (*RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1)
+- इ᳓न्दुभिः (*MS*-1/12, *TS*-0/12, *RV*-12/179, *TB*-0/9, *TK*-0/1, *AV*-5/16, *SB-M*-1/14, *SB-K*-1/10, *VS-M*-1/14, *VS-K*-0/8)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -284,6 +305,11 @@ one of them is bad. But, though the published translation rather vaguely reflect
 
 Come, here, O Agni, will I sing verily other songs to thee,  
      And with these drops shalt thou grow strong.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Come hither well; I shall speak other songs to you thus, O Agni;
 </details>
 
 <details><summary>Geldner</summary>

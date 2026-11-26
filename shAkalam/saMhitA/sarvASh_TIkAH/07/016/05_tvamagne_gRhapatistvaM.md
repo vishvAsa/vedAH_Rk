@@ -86,10 +86,36 @@ yákṣi ← √yaj- (root)
 त्वं पोता॑ विश्ववार॒ प्रचे॑ता॒ यक्षि॒ वेषि॑ च॒ वार्य॑म् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त्व᳓म् अग्ने गृह᳓पतिस् त्वँ᳓ हो᳓ता नो अध्वरे᳓  
+त्वं᳓ पो᳓ता विश्ववार प्र᳓चेता य᳓क्षि वे᳓षि च वा᳓र्यम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । अ॒ग्ने॒ । गृ॒हऽप॑तिः । त्वम् । होता॑ । नः॒ । अ॒ध्व॒रे ।  
 त्वम् । पोता॑ । वि॒श्व॒ऽवा॒र॒ । प्रऽचे॑ताः । यक्षि॑ । वेषि॑ । च॒ । वार्य॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- गृह᳓-पतिः (*TS*-7/24, *RV*-13/20, *TB*-2/18, *TK*-1, *AV*-4/5, *SB-M*-19/39, *SB-K*-17/31, *VS-M*-2/8, *VS-K*-5/15, *KS*-0/2)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- हो᳓ता (*TS*-43/63, *RV*-150/244, *TB*-95/136, *TK*-6/8, *AV*-18/28, *SB-M*-135/211, *SB-K*-145/211, *VS-M*-55/70, *VS-K*-43/58, *KS*-27/37)
+- न (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-81, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48, *KS*-35)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6, *KS*-77)
+- अध्वरे᳓ (*TS*-2/27, *RV*-68/196, *TB*-5/25, *TK*-2, *AV*-7/22, *SB-M*-7/71, *SB-K*-9/68, *VS-M*-3/26, *VS-K*-2/21, *KS*-5/15)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- पो᳓ता (*RV*-4, *TB*-2, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1, *VS-K*-1)
+- विश्व-वार (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *RV*-6, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- प्र᳓-चेताः (*TS*-5/7, *RV*-12, *TB*-2, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-3/6, *KS*-3)
+- य᳓क्षि (*TS*-4, *RV*-17, *TB*-1, *AV*-1, *SB-M*-0/1, *SB-K*-0/3, *VS-M*-2, *VS-K*-2, *KS*-2)
+- वे᳓षि (*RV*-14, *TB*-1, *SB-M*-0/8, *SB-K*-0/2, *VS-M*-0/6, *VS-K*-0/3, *KS*-1/6)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- वा᳓र्यम् (*TS*-0/3, *RV*-26/54, *TB*-1/5, *TK*-1, *AV*-4/8, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/5, *VS-K*-0/5, *KS*-3/5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -227,6 +253,12 @@ you the attentive Potar, o you who grant all wishes—sacrifice and seek  out a 
 
 Thou, Agni, art the homestead's Lord, our Herald at the sacrifice.  
      Lord of all boons, thou art the Cleanser and a Sage. Pay worship, and enjoy the good.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+you are our Hotṛ at the sacrifice;  
+you are the Potṛ, chosen by all, wise; sacrifice and win what is desirable.
 </details>
 
 <details><summary>Geldner</summary>

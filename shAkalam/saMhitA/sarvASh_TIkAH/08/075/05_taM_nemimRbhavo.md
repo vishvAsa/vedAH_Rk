@@ -75,6 +75,12 @@ yajñám ← yajñá- (nominal stem)
 नेदी॑यो य॒ज्ञम॒ङ्गि॒रः॒ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+तं᳓ नेमि᳓मृभ᳓वो यथा᳓ नमस्व स᳓हूतिभिः।  
+ने᳓दीयो यज्ञ᳓मङ्गिरः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तम् । ने॒मिम् । ऋ॒भवः॑ । य॒था॒ । आ । न॒म॒स्व॒ । सहू॑तिऽभिः ।  
@@ -84,6 +90,19 @@ yajñám ← yajñá- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 तम् । ने॒मिम् । ऋ॒भवः॑ । य॒था॒ । एति॑ । न॒म॒स्व॒ । सहू॑तिभि॒रिति॒ सहू॑ति-भिः॒ ॥ नेदी॑यः । य॒ज्ञम् ।  अ॒ङ्गि॒रः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त᳓म् (*MS*-528/5550, *TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660)
+- नेमि᳓म् (*MS*-1/3, *TS*-1/3, *RV*-5/11, *TB*-0/2, *AV*-1, *SB-M*-0/2, *SB-K*-0/2)
+- ऋभ᳓वः (*MS*-2, *TS*-1, *RV*-24/64, *TB*-1/3, *AV*-3/7, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/2, *VS-K*-1/2)
+- यथा᳓ (*MS*-2, *TS*-2, *TK*-1, *SB-M*-4, *SB-K*-1)
+- नमस्व (*MS*-1, *TS*-1, *RV*-1)
+- स᳓हूतिभिः (*MS*-1/2, *TS*-1/2, *RV*-2/6, *TB*-0/1)
+- ने᳓दीयः (*MS*-3, *TS*-2, *RV*-3/5, *TB*-1, *AV*-2/3, *SB-M*-7/9, *SB-K*-6/9, *VS-M*-1, *VS-K*-1)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- अङ्गिरः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-9, *TS*-10, *RV*-18, *TB*-1, *TK*-1, *AV*-2, *SB-M*-4, *SB-K*-7, *VS-M*-7, *VS-K*-5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -201,6 +220,12 @@ As craftsmen bend the felly, so bend at our general call: come nigh,
 <details><summary>Keith</summary>
 
 Bring him hither with common call Lower to our sacrifice, O Angiras. As the Rbhus bend the felly (of the chariot) [I]
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bend him down, as the Ṛbhus [bend] the felloe, with joint invocations,  
+nearer to the sacrifice, O Aṅgiras.
 </details>
 
 <details><summary>Geldner</summary>

@@ -457,6 +457,12 @@ Who first did master the steed.
 His horns are golden and his feet are iron. Less fleet than he, though swift as thought, was Indra. The Gods came only to the oblation-banquet of him who mounted first of all the Courser.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Golden-horned, of iron were his feet; swift as thought, Indra was lower than he;  
+the gods indeed came to his oblation-eating, who was the first to mount the courser.
+</details>
+
 <details><summary>Geldner</summary>
 
 Mit goldenen Hörnern, seine Füße von Erz, ist er schnell wie der Gedanke - Indra blieb hinter ihm zurück. Die Götter kamen zu dessen Opfermahl, der als erster das Rennpferd bestieg.

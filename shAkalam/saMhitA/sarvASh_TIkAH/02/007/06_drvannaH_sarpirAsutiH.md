@@ -69,6 +69,18 @@ sáhasaḥ ← sáhas- (nominal stem)
 सह॑सस्पु॒त्रो अद्भु॑तः ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+द्र्व᳙न्नः सर्पि᳓रासुतिः प्रत्नो᳓ हो᳓ता व᳓रेण्यः  
+स᳓हसस् पुत्रो᳓ अ᳓द्भुतः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+द्र्वन्नस्सर्पिरासुतिः प्रत्नो होता वरेण्यः।  
+सहसस्पुत्रो अद्भुतः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 द्रुऽअ॑न्नः । स॒र्पिःऽआ॑सुतिः । प्र॒त्नः । होता॑ । वरे॑ण्यः ।  
@@ -88,6 +100,30 @@ sáhasaḥ ← sáhas- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 द्र्व॑न्न॒ इति॒ द्रु-अ॒न्नः॒ । स॒र्पिरा॑सुति॒रिति॑ स॒र्पिः-आ॒सु॒तिः॒ । प्र॒त्नः । होता॑ । वरे॑ण्यः ॥ सह॑सः । पु॒त्रः । अद्भु॑तः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- द्र्व᳙न्नः (*SB-M*-1)
+- सर्पिः᳓-आसुतिः (*TS*-1, *RV*-2/4, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- प्रत्नः᳓ (*TS*-3/8, *RV*-5/50, *TB*-0/1, *AV*-1/9, *SB-M*-1/5, *SB-K*-0/2, *VS-M*-1/4, *VS-K*-1/4, *KS*-0/3)
+- हो᳓ता (*TS*-43/63, *RV*-150/244, *TB*-95/136, *TK*-6/8, *AV*-18/28, *SB-M*-135/211, *SB-K*-145/211, *VS-M*-55/70, *VS-K*-43/58, *KS*-27/37)
+- व᳓रेण्यः (*TS*-3/11, *RV*-16/38, *TB*-1/2, *AV*-4/8, *SB-M*-3/8, *SB-K*-3/8, *VS-M*-3/10, *VS-K*-3/9, *KS*-1/5)
+- स᳓हसः (*TS*-7/35, *RV*-27/122, *TB*-1/28, *TK*-1/4, *AV*-4/50, *SB-M*-1/21, *SB-K*-1/24, *VS-M*-4/28, *VS-K*-4/38, *KS*-1/18)
+- पुत्रः᳓ (*TS*-20/56, *RV*-41/104, *TB*-11/23, *TK*-3/4, *AV*-26/118, *SB-M*-49/119, *SB-K*-49/119, *VS-M*-9/29, *VS-K*-6/28, *KS*-4/19)
+- अ᳓द्भुतः (*TS*-2/3, *RV*-12/19, *TB*-1, *AV*-1/2, *SB-M*-2/3, *SB-K*-2/4, *VS-M*-2/4, *VS-K*-2/3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- द्र्व᳙न्नः (*MS*-2, *SB-M*-1)
+- सर्पिः᳓-आसुतिः (*MS*-2, *TS*-1, *RV*-2/4, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- प्रत्नः᳓ (*MS*-1/11, *TS*-3/8, *RV*-5/50, *TB*-0/1, *AV*-1/9, *SB-M*-1/5, *SB-K*-0/2, *VS-M*-1/4, *VS-K*-1/4)
+- हो᳓ता (*MS*-81/112, *TS*-43/63, *RV*-150/244, *TB*-95/136, *TK*-6/8, *AV*-18/28, *SB-M*-135/211, *SB-K*-145/211, *VS-M*-58/73, *VS-K*-44/60)
+- व᳓रेण्यः (*MS*-4/11, *TS*-3/11, *RV*-16/38, *TB*-1/2, *AV*-4/8, *SB-M*-3/8, *SB-K*-3/8, *VS-M*-3/19, *VS-K*-3/17)
+- स᳓हसः (*MS*-9/43, *TS*-7/35, *RV*-27/122, *TB*-1/28, *TK*-1/4, *AV*-4/50, *SB-M*-1/21, *SB-K*-1/24, *VS-M*-4/28, *VS-K*-5/40)
+- पुत्रः᳓ (*MS*-18/55, *TS*-20/56, *RV*-41/104, *TB*-11/23, *TK*-3/4, *AV*-26/118, *SB-M*-49/119, *SB-K*-49/119, *VS-M*-9/29, *VS-K*-6/29)
+- अ᳓द्भुतः (*MS*-2/4, *TS*-2/3, *RV*-12/19, *TB*-1, *AV*-1/2, *SB-M*-2/3, *SB-K*-2/4, *VS-M*-2/4, *VS-K*-2/3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -278,6 +314,11 @@ _________
 संयौति तत्क्रुमुकं संमिश्रयेत् ।   आज्यस्याग्निस्थानत्वम् “आ प्यायत।   घुतयोनिरग्निः” इत्यादिमन्त्रवर्णाद्घृतेन ज्वालोत्पत्तेश्चावगन्तव्यम् ।   ज्वालेत्पत्तिरेवा-त्राथो तेजसा समर्धयतीत्युच्यते ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[225_5]** So corr. Ch प्रत्नै; D पुत्रो (Thus emended; Ch reads प्रत्नै; D reads पुत्रो)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर वह स्त्री अपने पति से कैसे-कैसे कहे, यह विषय अगले मन्त्र में कहा है ॥
@@ -348,6 +389,18 @@ Wood-fed, bedewed with sacred oil, ancient, Invoker, excellent,
 Feeding on wood, sipping clarified butter,  
 The ancient desirable Hotr,  
 Son of strength, the wondrous.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whose food is wood, whose offering is clarified butter, the ancient Hotṛ, the worthy of choice,  
+the wondrous son of strength.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Whose food is wood, having an oblation of ghee, the ancient Hotṛ, worthy of choice,  
+the son of strength, wondrous.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -92,10 +92,37 @@ tā́n ← sá- ~ tá- (pronoun)
 उ॒क्थशु॑ष्मान्वृषभ॒रान्त्स्वप्न॑स॒स्ताँ आ॑दि॒त्याँ अनु॑ मदा स्व॒स्तये॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+ये᳓भ्यो माता᳓ म᳓धुमत् पि᳓न्वते प᳓यः पीयू᳓षं द्यौ᳓र् अ᳓दितिर् अ᳓द्रिबर्हाः  
+उक्थ᳓शुष्मान् वृषभरा᳓न्त् स्व᳓प्नसस् तं᳓ आदित्यं᳓ अ᳓नुमदात् स्वस्त᳓ये
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 येभ्यः॑ । मा॒ता । मधु॑ऽमत् । पिन्व॑ते । पयः॑ । पी॒यूष॑म् । द्यौः । अदि॑तिः । अद्रि॑ऽबर्हाः ।  
 उ॒क्थऽशु॑ष्मान् । वृ॒ष॒ऽभ॒रान् । स्वप्न॑सः । तान् । आ॒दि॒त्यान् । अनु॑ । म॒द॒ । स्व॒स्तये॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- ये᳓भ्यः (*TS*-1/3385, *RV*-3/4011, *TB*-0/1735, *TK*-1/227, *AV*-4/3120, *SB-M*-4/8327, *SB-K*-9/8438, *VS-M*-1/651, *VS-K*-1/609, *KS*-1/818)
+- माता᳓ (*TS*-17/44, *RV*-63/165, *TB*-15/28, *TK*-2, *AV*-36/77, *SB-M*-34/79, *SB-K*-35/72, *VS-M*-12/34, *VS-K*-14/38, *KS*-11/21)
+- म᳓धुमत् (*TS*-3/11, *RV*-19/43, *TB*-1/4, *TK*-0/1, *AV*-17/29, *SB-M*-1/5, *SB-K*-1/6, *VS-M*-3/10, *VS-K*-3/10, *KS*-3/8)
+- पि᳓न्वते (*RV*-3/10, *TB*-0/1, *AV*-1, *SB-M*-19/21, *SB-K*-21/24)
+- प᳓यः (*TS*-34/63, *RV*-53/97, *TB*-48/73, *AV*-35/64, *SB-M*-88/133, *SB-K*-91/139, *VS-M*-37/55, *VS-K*-27/43, *KS*-35/49)
+- पीयू᳓षम् (*TS*-0/1, *RV*-9/11, *TB*-0/1, *AV*-2/3)
+- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-25/119, *TK*-1/15, *AV*-62/340, *SB-M*-112/353, *SB-K*-107/342, *VS-M*-32/167, *VS-K*-30/179, *KS*-23/128)
+- अ᳓दितिः (*TS*-38/95, *RV*-89/155, *TB*-23/43, *TK*-1/2, *AV*-28/48, *SB-M*-48/100, *SB-K*-44/87, *VS-M*-27/63, *VS-K*-24/79, *KS*-12/29)
+- अ᳓द्रि-बर्हाः (*RV*-1, *TB*-1)
+- उक्थ᳓-शुष्मान् (*RV*-1/2, *TB*-0/1)
+- वृष-भरा᳓न् (*RV*-1)
+- स्व᳓प्नसः (*TS*-0/1, *RV*-1/2, *AV*-0/1, *SB-M*-0/2, *SB-K*-0/2, *KS*-0/2)
+- त᳓म् (*TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660, *KS*-117/1225)
+- आदित्य᳓म् (*TS*-20/195, *RV*-3/91, *TB*-17/131, *TK*-6/21, *AV*-5/71, *SB-M*-78/445, *SB-K*-73/438, *VS-M*-1/44, *VS-K*-1/58, *KS*-4/53)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116, *KS*-96)
+- मदात् (मूल-पाठः)
+- स्वस्त᳓ये (*TS*-6/44, *RV*-49/201, *TB*-4/21, *AV*-21/56, *SB-M*-3/45, *SB-K*-3/46, *VS-M*-9/12, *VS-K*-10/15, *KS*-2/12)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -243,6 +270,12 @@ applaud those Ādityas—for well-being.
 
 I will rejoice in these Adityas for my weal, for whom the Mother pours forth water rich in balm,  
      And Dyaus the Infinite, firm as a rock, sweet milk,-Gods active, strong through lauds, whose might the Bull upholds.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For whom their mother, Aditi firm as a rock, yields sweet-sounding milk, [her] first-draught, [and] heaven,  
+who possess the impetuous might of praise, best of bulls, well-working—may he rejoice in that Āditya for well-being.
 </details>
 
 <details><summary>Geldner</summary>

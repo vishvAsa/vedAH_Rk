@@ -113,6 +113,12 @@ te ← tvám (pronoun)
 विश्वा॒ हि मा॒या अव॑सि स्वधावो भ॒द्रा ते॑ पूषन्नि॒ह रा॒तिर॑स्तु ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+शुक्रं᳓ ते अन्य᳓द्यजतं᳓ ते अन्य᳓द्वि᳓षुरूपे अ᳓हनी द्यौ᳓रिवासि।  
+वि᳓श्वा हि᳓ माया᳓ अ᳓वसि स्वधावो भद्रा᳓ ते पूषन्नि᳓ह राति᳓रस्तु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 शु॒क्रम् । ते॒ । अ॒न्यत् । य॒ज॒तम् । ते॒ । अ॒न्यत् । विषु॑रूपे॒ इति॒ विषु॑ऽरूपे । अह॑नी॒ इति॑ । द्यौःऽइ॑व । अ॒सि॒ ।  
@@ -122,6 +128,31 @@ te ← tvám (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 शु॒क्रम् । ते॒ । अ॒न्यत् । य॒ज॒तम् । ते॒ । अ॒न्यत् । विषु॑रूपे॒ इति॒ विषु॑-रू॒पे॒ । अह॑नी॒ इति॑ । द्यौः । इ॒व॒ । अ॒सि॒ ॥ विश्वाः॑ । हि । मा॒याः । अव॑सि । स्व॒धा॒व॒ इति॑ स्वधा-वः॒ । भ॒द्रा । ते॒ । पू॒ष॒न् । इ॒ह । रा॒तिः । अ॒स्तु॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- शुक्र᳓म् (*MS*-40/101, *TS*-17/70, *RV*-28/105, *TB*-19/42, *TK*-1, *AV*-12/29, *SB-M*-31/87, *SB-K*-33/90, *VS-M*-28/57, *VS-K*-24/50)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- अन्य᳓त् (*MS*-17/22, *TS*-10/18, *RV*-34/35, *TB*-11, *AV*-17/20, *SB-M*-127/130, *SB-K*-130/134, *VS-M*-7, *VS-K*-5/6)
+- यजत᳓म् (*MS*-6/9, *TS*-1, *RV*-12/39, *TB*-3/6, *AV*-0/2, *SB-K*-0/7, *VS-M*-0/2, *VS-K*-0/2)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- अन्य᳓त् (*MS*-17/22, *TS*-10/18, *RV*-34/35, *TB*-11, *AV*-17/20, *SB-M*-127/130, *SB-K*-130/134, *VS-M*-7, *VS-K*-5/6)
+- वि᳓षु-रूपे (*MS*-1/3, *TS*-1/8, *RV*-3/7, *TB*-0/1, *AV*-0/1, *SB-M*-0/4, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-0/2)
+- अ᳓हनी (*MS*-1/73, *TS*-1/119, *RV*-7/99, *TB*-0/58, *TK*-0/7, *AV*-1/58, *SB-M*-7/204, *SB-K*-7/221, *VS-M*-0/17, *VS-K*-0/20)
+- द्यौ᳓रिव (*RV*-5, *AV*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- वि᳓श्वा (*MS*-60/301, *TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- मायाः᳓ (*MS*-1/8, *TS*-3/7, *RV*-21/63, *TB*-0/2, *TK*-0/1, *AV*-4/24, *SB-M*-0/13, *SB-K*-1/13, *VS-M*-0/4, *VS-K*-0/4)
+- अ᳓वसि (*MS*-2/27, *TS*-1/22, *RV*-6/279, *TB*-0/15, *AV*-0/24, *SB-M*-1/9, *SB-K*-1/6, *VS-M*-0/24, *VS-K*-0/18)
+- स्वधावः (*MS*-7, *TS*-5, *RV*-16, *AV*-2, *VS-M*-2, *VS-K*-2)
+- भद्रा᳓ (*MS*-7/42, *TS*-2/32, *RV*-42/144, *TB*-3/26, *TK*-1, *AV*-11/68, *SB-M*-0/21, *SB-K*-0/30, *VS-M*-3/31, *VS-K*-3/29)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- पूषन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-2, *RV*-24, *TB*-1, *AV*-4, *SB-K*-1, *VS-K*-1)
+- इ᳓ह (*AV*-1, *SB-M*-1, *SB-K*-3)
+- रातिः᳓ (*MS*-6/11, *TS*-3/6, *RV*-23/76, *TB*-2/4, *AV*-5/11, *SB-M*-1/6, *SB-K*-2/7, *VS-M*-3/8, *VS-K*-3/8)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-111, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-60, *VS-K*-39)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -338,6 +369,13 @@ Bright is part of thee, worthy of offering another [2],
 Like day and night of various hue, like the sky art thou;  
 All magic thou dost further, O powerful one;  
 Propitious here, O Pusan, be thy bounty.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+let Pūṣan protect our coursers;  
+let Pūṣan win the prize for us! // One [form] of yours is bright, one is worthy of sacrifice; with distinct forms, you are like day [and night], like the sky;  
+for you protect all wondrous powers, O self-governing one; may your bounty be auspicious here, O Pūṣan!
 </details>
 
 <details><summary>Geldner</summary>

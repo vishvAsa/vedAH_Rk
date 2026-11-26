@@ -72,6 +72,12 @@ sukratū ← sukrátu- (nominal stem)
 मध्वा॒ रजाँ॑सि सुक्रतू ॥८ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓ नो मित्रावरुणा घृतै᳓र्गव्यूतिमुक्षतम्।  
+म᳓ध्वा र᳓जाँसि सुक्रतू
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । नः॒ । मि॒त्रा॒व॒रु॒णा॒ । घृ॒तैः । गव्यू॑तिम् । उ॒क्ष॒त॒म् ।  
@@ -86,6 +92,19 @@ sukratū ← sukrátu- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 आ। नःः॒। मित्राव॒रु॑णा॒। घृ॒तैः। गव्यू॑तिम्। उ॒क्ष॒त॒म्। मध्वः॑। मध्वा॑। रजाँ॑सि। सु॒क्र॒तू॒ इति॑ सुऽक्रतू। ८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- मित्रा-वरुणा (*MS*-9, *TS*-6, *RV*-48, *TB*-6, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-4)
+- घृतैः᳓ (*MS*-3/118, *TS*-3/64, *RV*-11/91, *TB*-2/34, *TK*-0/1, *AV*-0/40, *SB-M*-2/51, *SB-K*-2/51, *VS-M*-4/49, *VS-K*-6/45)
+- गव्यूतिम् → **ग᳓व्यूतिम्** (स्वर-लोपः, *MS*-3/4, *TS*-3, *RV*-8/12, *TB*-3, *AV*-0/2, *VS-M*-2, *VS-K*-2)
+- उक्षतम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-2, *RV*-6, *TB*-4, *VS-M*-2, *VS-K*-2)
+- म᳓ध्वा (*MS*-9/14, *TS*-8/12, *RV*-19/107, *TB*-3/5, *AV*-5/16, *SB-M*-4/6, *SB-K*-4/5, *VS-M*-10/18, *VS-K*-10/15)
+- र᳓जांसि (*MS*-7/27, *TS*-5/22, *RV*-38/144, *TB*-4/14, *AV*-8/39, *SB-M*-4/16, *SB-K*-2/14, *VS-M*-6/22, *VS-K*-7/21)
+- सु-क्रतू (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *RV*-2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -318,6 +337,12 @@ May Mitra-Varuna, sapient Pair, bedew our pasturage with oil,
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 O Mitra-Varuna, gracious Pair, with fatness dew our pasturage, With mead the regions of the air.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sprinkle our pasture with ghee, O Mitra and Varuṇa;  
+with sweet drink [sprinkle] the realms of space, O you of good insight!
 </details>
 
 <details><summary>Geldner</summary>

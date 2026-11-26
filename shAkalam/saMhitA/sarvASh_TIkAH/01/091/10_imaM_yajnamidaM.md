@@ -185,6 +185,12 @@ Accepting this our sacrifice and this our praise, O Soma, come,
      And be thou nigh to prosper us.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+may you grow strong with these drops of Soma.  
+Delighting in this sacrifice, in this speech, come hither;
+</details>
+
 <details><summary>Geldner</summary>
 
 An diesem Opfer, an dieser Rede dich erfreuend komm herbei! Sei du, Soma, uns zum Gedeihen!

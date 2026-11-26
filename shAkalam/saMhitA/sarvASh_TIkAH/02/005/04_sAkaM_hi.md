@@ -86,10 +86,35 @@ vayā́ḥ ← vayā́- (nominal stem)
 वि॒द्वाँ अ॑स्य व्र॒ता ध्रु॒वा व॒या इ॒वानु॑ रोहते ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+साकँ हि शुचिना शुचिः प्रशास्ता क्रतुनाजनि।  
+विद्वाँ अस्य व्रता ध्रुवा वया इवानुरोहति
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सा॒कम् । हि । शुचि॑ना । शुचिः॑ । प्र॒ऽशा॒स्ता । क्रतु॑ना । अज॑नि ।  
 वि॒द्वान् । अ॒स्य॒ । व्र॒ता । ध्रु॒वा । व॒याःऽइ॑व । अनु॑ । रो॒ह॒ते॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- साक᳓म् (*MS*-19, *TS*-9, *RV*-56, *TB*-6, *AV*-30, *SB-K*-3, *VS-M*-6, *VS-K*-6)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- शु᳓चिना (*MS*-0/45, *TS*-0/33, *RV*-2/113, *TB*-0/23, *AV*-0/25, *SB-M*-0/23, *SB-K*-0/20, *VS-M*-0/14, *VS-K*-0/14)
+- शु᳓चिः (*MS*-13/45, *TS*-14/33, *RV*-46/113, *TB*-4/23, *AV*-8/25, *SB-M*-6/23, *SB-K*-7/20, *VS-M*-4/14, *VS-K*-3/14)
+- प्र-शास्ता᳓ (*MS*-0/2, *TS*-0/1, *RV*-2, *TB*-0/1, *TK*-1, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/1, *VS-K*-0/1)
+- क्र᳓तुना (*MS*-3/23, *TS*-1/23, *RV*-12/168, *TB*-0/4, *AV*-2/18, *SB-M*-0/18, *SB-K*-0/21, *VS-M*-0/19, *VS-K*-0/22)
+- ज᳓नि (*Whitney*, *MS*-0/7, *TS*-0/4, *RV*-2/28, *TB*-0/2, *AV*-0/11, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-0/6, *VS-K*-0/5)
+- विद्वा᳓न् (*MS*-86/88, *TS*-93, *RV*-94, *TB*-49, *TK*-2, *AV*-59, *SB-M*-144, *SB-K*-127, *VS-M*-14, *VS-K*-14)
+- अस्य (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-398, *TS*-315, *RV*-415, *TB*-178, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-590, *VS-M*-56, *VS-K*-45)
+- व्रता᳓ (*MS*-4/72, *TS*-3/10, *RV*-26/61, *AV*-5/10, *SB-M*-2/11, *SB-K*-5/13, *VS-M*-2/7, *VS-K*-2/8)
+- ध्रुवा᳓ (*MS*-35/89, *TS*-30/82, *RV*-5/52, *TB*-6/18, *TK*-33/34, *AV*-6/48, *SB-M*-24/93, *SB-K*-26/92, *VS-M*-22/47, *VS-K*-18/40)
+- वयाः᳓ (*MS*-0/122, *TS*-0/89, *RV*-6/310, *TB*-0/54, *TK*-0/6, *AV*-0/197, *SB-M*-0/112, *SB-K*-0/104, *VS-M*-0/69, *VS-K*-0/56)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- रोहति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-2, *TB*-15, *AV*-3, *SB-M*-44, *SB-K*-43, *MS*-20)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -203,6 +228,11 @@ _________
 शुचिःस्वयंशोधकः प्रशास्तादेवानां एतन्नामकऋत्विक्प्रशासितावायज्ञविघ्नानां शुचिना क्रतुना- शोधकेनाग्निहोत्रादिकर्मणा साकंहिसहैवाजनिउत्पन्नः जातमात्रएवशुद्धः सर्वस्यप्रशास्ता चसन्नग्नि- होत्रादिनिर्वोढाभवदित्यर्थः अस्याग्नेर्ध्रुवा ध्रुवाणि फलपर्यवसायीनि व्रताव्रतानि कर्माणि विद्वान् जानन् यजमानोवयाइवविस्तृताः शाखाइवानुरोहते क्रमेणानुतिष्ठति ॥ ४ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[580_1]** So Ch; RV 2, 5, 4 रोहृते (Thus Ch; RV 2, 5, 4 reads रोहृते)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -235,6 +265,12 @@ The standard tr. also assume a change of subject in cd from Agni (ab) to a pries
 
 Together with pure mental power, pure, as Director, was he born.  
      Skilled in his own unchanging laws he waxes like the growing boughs.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Together with the pure one, the pure governor has been born through insight;  
+knowing his firm ordinances, he climbs up like branches.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -103,6 +103,12 @@ vājayántā ← √vājay- 2 (root)
 सह॑स्तमा॒ सह॑सा वाज॒यन्ता॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓थद्वृत्र᳓मुत᳓ सनोति वा᳓जमि᳓न्द्रा यो᳓ अग्नी᳓ स᳓हुरी सपर्या᳓त्।  
+इरज्य᳓न्ता वसव्य᳙स्य भू᳓रेस्स᳓हस्तमा स᳓हसा वाजय᳓न्ता
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 श्नथ॑त् । वृ॒त्रम् । उ॒त । स॒नो॒ति॒ । वाज॑म् । इन्द्रा॑ । यः । अ॒ग्नी इति॑ । सहु॑री॒ इति॑ । स॒प॒र्यात् ।  
@@ -117,6 +123,27 @@ vājayántā ← √vājay- 2 (root)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 श्ञ᳓थत् । वृत्र᳓म् । उत᳓ । सनोति । वा᳓जम् । इ᳓न्द्रा । यः᳓ । अग्नी᳓ । स᳓हुरी । सपर्या᳓त् । इरज्य᳓न्ता । वसव्य᳙स्य । भू᳓रेः । स᳓हः-तमा । स᳓हसा । वाज-य᳓न्ता ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓थ (*MS*-482, *TS*-161, *RV*-117, *TB*-146, *TK*-34, *AV*-68, *SB-M*-3814, *SB-K*-3581, *VS-M*-17, *VS-K*-14)
+- द्वृत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- र᳓म् (*RV*-1, *TB*-2, *SB-M*-2, *SB-K*-3, *MS*-1)
+- उत᳓ (*MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- सनोति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-2, *TB*-1, *SB-M*-4, *SB-K*-4)
+- वा᳓जम् (*MS*-46/115, *TS*-33/92, *RV*-127/350, *TB*-18/35, *TK*-0/1, *AV*-18/49, *SB-M*-21/73, *SB-K*-26/71, *VS-M*-24/71, *VS-K*-21/73)
+- इ᳓न्द्रा (*MS*-3/714, *TS*-1/498, *RV*-11/1356, *TB*-6/369, *TK*-0/8, *AV*-2/606, *SB-M*-1/535, *SB-K*-3/509, *VS-M*-0/392, *VS-K*-1/381)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- अग्नी᳓ (*MS*-18/1297, *TS*-3/1194, *RV*-3/856, *TB*-6/520, *TK*-1/105, *AV*-14/419, *SB-M*-60/2495, *SB-K*-65/2289, *VS-M*-1/325, *VS-K*-1/349)
+- स᳓हुरी (*MS*-1/2, *TS*-1, *RV*-1/7, *TB*-1, *AV*-0/1)
+- सपर्या᳓त् (*MS*-1, *TS*-1, *RV*-2/10, *TB*-2/4)
+- इरज्य᳓न्ता (*MS*-1, *TS*-1, *RV*-1/2, *TB*-1, *AV*-0/1)
+- वसव्य᳙स्य (*MS*-1, *TS*-1, *RV*-2, *TB*-1)
+- भू᳓रेः (*MS*-4/16, *TS*-4/10, *RV*-20/101, *TB*-1/5, *AV*-2/23, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-1/5, *VS-K*-1/4)
+- स᳓हः-तमा (*TS*-1, *TB*-1, *MS*-1)
+- स᳓हसा (*MS*-8/43, *TS*-8/35, *RV*-29/122, *TB*-7/28, *TK*-1/4, *AV*-10/50, *SB-M*-5/21, *SB-K*-10/24, *VS-M*-3/28, *VS-K*-3/40)
+- वाज-य᳓न्ता (*MS*-1/4, *TS*-1/2, *RV*-1/18, *TB*-1/2, *AV*-0/3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -291,6 +318,12 @@ The foe shall he pierce and wealth he doth gain
 Who worshippeth Indra and Agni, the strong ones,  
 Who rule over much wealth,  
 The most strong who with strength show their power.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+// He strikes Vṛtra and wins the prize, who serves Indra and Agni, the conquering pair,  
+who reign over abundant goods, the most overpowering pair winning the prize through overpowering might.
 </details>
 
 <details><summary>Geldner</summary>

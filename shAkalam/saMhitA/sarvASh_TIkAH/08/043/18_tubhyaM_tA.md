@@ -246,6 +246,11 @@ _________
 हे अग्ने तुभ्यं ताः प्रसिद्धाः विश्वास्तुक्षितयः शोभना क्षितिर्गतिर्यासां ताः प्रजाः । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । यद्वा - शोभनं क्षयन्ति वसन्तीति सुक्षितयो मनुष्याः । 'मन्क्तिन्व्याख्यान' इत्युत्तरपदान्तोदात्तत्वम् । पृथक्कामाय नानाविधेभ्यः कामेभ्यः कामसिद्धये **येमिरे** यमन्ति त्वामाराधयितुमात्मानं विषयेभ्यो व्यावर्तयन्ति । व्यत्ययेनात्मनेपदम् । यद्वा - पृथग्यमयन्ति नानाविधैरुपायैरात्मानं यमयन्ति त्वामाराधयितुम् । तस्माद्वयमप्यस्मत्कामसिद्धये त्वामेव भजामह इति भावः । 'स एवैनं कामेन समर्धयत्युपैनं कामो नमति' `इति ब्राह्मणम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[529_14]** Ch अङ्गिरसस्तम्; cf. Rv 8, 43, 18. (Ch अङ्गिरसस्तम्; cf. Ṛv 8, 43, 18.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 अब राजा क्या करे, यह विषय अगले मन्त्र में कहा है ॥
@@ -310,6 +315,12 @@ Agni, best Angiras, to thee all people who have pleasant homes,
 To thee, best of Angirases,  
 All folk with fair dwellings severally,  
 O Agni, have turned to gain their wish.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+“To you, O most Angiras-like one, all good dwellings separately  
+have yielded to desire, O Agni,”
 </details>
 
 <details><summary>Geldner</summary>

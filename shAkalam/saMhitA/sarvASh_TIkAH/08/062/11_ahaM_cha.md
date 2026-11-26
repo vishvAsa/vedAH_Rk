@@ -100,10 +100,37 @@ rātáyaḥ ← rātí- (nominal stem)
 अ॒रा॒ती॒वा चि॑दद्रि॒वोऽनु॑ नौ शूर मंसते भ॒द्रा इन्द्र॑स्य रा॒तयः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अहं च त्वं च वृत्रहन्ँसनुयाव वरीष्वा।  
+अरातीवा चिदद्रिवोऽनु नौ शूर मँसते भद्रा इन्द्रस्य रातयः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒हम् । च॒ । त्वम् । च॒ । वृ॒त्र॒ऽह॒न् । सम् । यु॒ज्या॒व॒ । स॒निऽभ्यः॑ । आ ।  
 अ॒रा॒ति॒ऽवा । चि॒त् । अ॒द्रि॒ऽवः॒ । अनु॑ । नौ॒ । शू॒र॒ । मं॒स॒ते॒ । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अह᳓म् (*MW*, *MS*-160/641, *TS*-162/565, *RV*-198/1308, *TB*-68/270, *TK*-30/66, *AV*-254/1252, *SB-M*-268/723, *SB-K*-254/728, *VS-M*-61/315, *VS-K*-39/274)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- वृत्र-ह᳓न् (*TS*-0/2, *RV*-0/9, *TB*-0/1, *AV*-0/2, *SB-M*-1, *SB-K*-1, *VS-M*-0/1, *VS-K*-0/1, *MS*-0/3)
+- सनुयाव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- व᳓रीष्वा (अनाम्नातम् (अनुमानम्))
+- अरातीवा᳓ (*TS*-1)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- अद्रिवः (*MS*-1, *TS*-1, *RV*-49, *AV*-7, *VS-K*-1)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- नौ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-13, *TS*-9, *RV*-9, *TB*-6, *AV*-12, *SB-M*-28, *SB-K*-32, *VS-M*-3, *VS-K*-2)
+- शू᳓र (*Whitney*, *MS*-13, *TS*-4, *RV*-1/2, *TB*-9, *AV*-6, *SB-M*-1, *SB-K*-2, *VS-M*-6, *VS-K*-1)
+- मंसते (*RV*-4)
+- भद्राः᳓ (*MS*-5/42, *TS*-5/32, *RV*-26/144, *TB*-3/26, *TK*-1, *AV*-5/68, *SB-M*-0/21, *SB-K*-0/30, *VS-M*-5/31, *VS-K*-4/29)
+- इ᳓न्द्रस्य (*MS*-84/711, *TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-61/392, *VS-K*-57/380)
+- रात᳓यः (*MS*-1/11, *TS*-1/6, *RV*-19/76, *TB*-0/4, *AV*-3/11, *SB-M*-1/6, *SB-K*-1/7, *VS-M*-1/8, *VS-K*-1/8)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -242,6 +269,11 @@ _________
 हे वृत्रहन् इन्द्र **त्वं** च **अहं** **च** **सं** **युज्याव** संगतौ भवाव । कियदवधीति उच्यते । **सनिभ्य** **आ** यावता कालेन धनानि लभ्यन्ते तावत्कालम् । **नौ** संगतयोश्चावयोर्हे **अद्रिवः** वज्रवन् इन्द्र **अरातीवा** अदानोऽपि जनस्त्वद्दत्तधनस्य **अनु** **मंसते** अनुमतिं करोति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[626_9]** So gewin richtig Ch; वरीषु von वर्यः᳙, das als Bezeichnung für Flüsse Naigh. 1, 13 angeführt wird, doch bisher noch nicht belegt war, auch in Böhtlingks zweitem WB. nicht; vgl. beide Petersburger Wörterbücher s. v. वरो, resp. व᳓री fem. plur. "Flüüsse". Vgl. den Vers RV 8, 51, 11 und TS 7, 4, 15 mit andrem Schlus des Avasana. (Thus certainly correctly Ch; वरीषु from वर्यः᳙, which is cited in Naigh. 1, 13 as a designation for rivers, yet had hitherto not been attested, not even in Böhtlingk's second dictionary; cf. both St. Petersburg dictionaries under वरो, or व᳓री fem. pl. "rivers". Cf. the verse RV 8, 51, 11 and TS 7, 4, 15 with a different ending of the avasāna.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -266,6 +298,13 @@ The full specification of the subject of the 1st dual verb sáṃ yujyāva as ah
 
 O Vrtra-slayer, thou and I will both combine for winning spoil.  
      Even malignity will consent, O Bolt-armed Hero, unto us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May you and I, O Vṛtra-slayer, conquer together among the broad [pastures];  
+even the enemy, O rock-armed hero, will heed us both:  
+auspicious are Indra’s gifts.
 </details>
 
 <details><summary>Geldner</summary>

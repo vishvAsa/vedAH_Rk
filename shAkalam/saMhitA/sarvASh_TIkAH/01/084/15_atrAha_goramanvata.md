@@ -187,6 +187,13 @@ _________
 3 अत्रेति ॥ त्वष्टुः आदित्यमण्डलस्य गोः अग्नेः सुषुम्ना ख्यस्य यत् नाम नमनं जगद्रक्षणे प्रह्वीभावः अपीच्यं पुनरञ्चितं अविच्छेदेन प्रवृत्तं अत्र कर्मणि अमन्वत ज्ञातवन्त: जानन्ति वा अनेन कर्मणा हेतुना स तथा प्रवर्तते । चन्द्रमसोपि गृहे मण्डले इत्था इत्थमेव गोर्नाम मन्वते अनेन हेतुनेति । 'थाहेतौ च' इति थाप्रत्ययः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[593_8]** So corr. Ch गौर॰; cf. RV 1, 84, 15; MS 2, 13, 6. (Thus emended; Ch reads गौर॰; cf. RV 1, 84, 15; MS 2, 13, 6)
+
+- **[593_9]** So corr. Ch पोश्यम; s. RV 1, 84, 15. (Thus emended Ch पोश्यम; see RV 1, 84, 15.)
+</details>
+
 <details><summary>स्कन्दस्वामी</summary>
 
 अत्राह । अत्र यास्कः--
@@ -236,6 +243,12 @@ I confess myself to be entirely baffled by this verse, though the grammar is str
 
 Then verily they recognized the essential form of Tvastar's Bull,  
      Here in the mansion of the Moon.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Here indeed they recognized the secret name of the cow of Tvaṣṭṛ,  
+thus in the house of the moon.
 </details>
 
 <details><summary>Geldner</summary>

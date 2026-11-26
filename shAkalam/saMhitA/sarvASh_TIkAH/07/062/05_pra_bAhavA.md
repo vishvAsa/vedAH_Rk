@@ -503,6 +503,12 @@ Stretch forth your arms and let our lives be lengthened: with fatness dew the pa
      Ye Youthful, make us famed among the people: hear, Mitra-Varuna, these mine invocations.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Stretch forth your arms for our life; sprinkle our pasture with ghee;  
+make us famous among the people, O young pair; hear this call of mine, O Mitra and Varuṇa!
+</details>
+
 <details><summary>Geldner</summary>
 
 Recket die Arme aus uns zum Leben, besprenget unsere Trift mit Schmalz! Machet uns unter dem Volke bekannt, ihr Jugendliche; erhöret diese meine Anrufungen, Mitra und Varuna!

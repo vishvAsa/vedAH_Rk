@@ -292,6 +292,11 @@ _________
 इति सप्तमे चतुर्थे विंशोनुवाकः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+**समानान्तराणि:** cf. TS 7, 4, 20; MS 3, 12, 18. 19; VS 23, 5-8; RV 1, 6, 1-3.
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 आप्त लोग कैसे होते हैं, इस विषय को अगले मन्त्र में कहा है ॥
@@ -368,6 +373,18 @@ Thou, making light where no light was, and form, O men: where form was not,
 A Making a banner for that which hath none,
 Form for the formless, O ye men,
 Thou wert born with the dawns.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Making a banner for him who has no banner, a form, O mortals, for him who has no form,  
+you were born together with the dawns.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Giving a banner to that without a banner, and a shape, O mortals, to that without shape,  
+you were born together with the dawns.
 </details>
 
 <details><summary>Geldner</summary>

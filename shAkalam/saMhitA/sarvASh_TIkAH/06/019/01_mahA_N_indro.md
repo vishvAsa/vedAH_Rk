@@ -106,6 +106,12 @@ urúḥ ← urú- (nominal stem)
 उ॒रुᳶ पृ॒थुस्सुकृ॑तᳵ क॒र्तृभि॑र्भूत् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+महाँ इ᳓न्द्रो नृव᳓दा᳓ चर्षणिप्रा᳓ उत᳓ द्विब᳓र्हा अमिन᳓स्स᳓होभिः।  
+अस्मद्र्यृग्वावृधे वीर्या᳙योरुः᳓ पृथु᳓स्सु᳓कृतः कर्तृ᳓भिर्भूत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 म॒हान् । इन्द्रः॑ । नृ॒ऽवत् । आ । च॒र्ष॒णि॒ऽप्राः । उ॒त । द्वि॒ऽबर्हाः॑ । अ॒मि॒नः । सहः॑ऽभिः ।  
@@ -120,6 +126,27 @@ urúḥ ← urú- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 महा᳓म् । इ᳓न्द्रः । नृव᳓त् । आ᳓ । चर्षणि-प्राः᳓ । उत᳓ । द्वि-ब᳓र्हाः । अमिनः᳓ । स᳓होभिः । अस्म-द्रि᳓यक् । वावृधे । वीर्या᳙य । उरुः᳓ । पृथुः᳓ । सु᳓-कृतः । कर्तृ᳓भिः । भूत् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- महाम् → **महा᳓म्** (स्वर-लोपः, *MS*-7/38, *TS*-2/28, *RV*-27/398, *TB*-4/21, *TK*-2/6, *AV*-2/81, *SB-M*-3/42, *SB-K*-3/40, *VS-M*-18/35, *VS-K*-11/52)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- नृव᳓त् (*MS*-2, *TS*-1, *RV*-12/18, *TB*-4, *AV*-1/2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- चर्षणि-प्राः᳓ (*TS*-1, *RV*-7, *TB*-3, *AV*-1/2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-2)
+- उत᳓ (*MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- द्वि-ब᳓र्हाः (*MS*-1, *TS*-2, *RV*-8, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1/2)
+- अमिनः᳓ (*MS*-1, *TS*-1, *RV*-2, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- स᳓होभिः (*MS*-3/43, *TS*-1/35, *RV*-7/122, *TB*-3/28, *TK*-0/4, *AV*-2/50, *SB-M*-2/21, *SB-K*-2/24, *VS-M*-1/28, *VS-K*-2/40)
+- अस्मद्र्यक् → **अस्मद्र्य᳙क्** (स्वर-लोपः, *MS*-2, *RV*-8, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1/2)
+- वावृधे (*MS*-5, *TS*-4, *TB*-2, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-2)
+- वीर्या᳙य (*MS*-4, *TS*-3, *RV*-11, *TB*-6, *AV*-6, *SB-M*-5, *SB-K*-3, *VS-M*-3, *VS-K*-3)
+- उरुः᳓ (*MS*-1/51, *TS*-2/52, *RV*-5/118, *TB*-1/7, *TK*-0/3, *AV*-5/40, *SB-M*-4/38, *SB-K*-4/38, *VS-M*-1/29, *VS-K*-1/34)
+- पृथुः᳓ (*MS*-2/6, *TS*-2/7, *RV*-6/34, *TB*-2, *AV*-3/8, *SB-M*-8/20, *SB-K*-5/15, *VS-M*-5/8, *VS-K*-3/8)
+- सु᳓-कृतः (*MS*-1/4, *TS*-1/3, *RV*-2/17, *TB*-1/3, *AV*-1/3, *SB-M*-2/6, *SB-K*-2/6, *VS-M*-1/4, *VS-K*-1/3)
+- कर्तृ᳓भिः (*MS*-1/3, *TS*-1/2, *RV*-3/7, *TB*-1, *AV*-0/7, *SB-M*-1/7, *SB-K*-1/8, *VS-M*-0/1, *VS-K*-1/3)
+- भूत् (*MS*-5, *TS*-2, *RV*-36, *TB*-4, *AV*-6, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -410,6 +437,17 @@ Great is Indra, manfully controlling men,
 Unfailing in strength, of double force;  
 Towards us for strength doth he wax;   
 Broad and wide hath he been adorned by the offerers.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+for Great Indra, you!  
+This is your womb;  
+for Great Indra, you!  
+Great is Indra, manly, filling the people, and double-bulwarked, unyielding in strengths;  
+he has grown toward us for heroic deeds; wide, broad, well-made has he become through the makers.  
+You are taken with a support;  
+for Great Indra, you!
 </details>
 
 <details><summary>Geldner</summary>

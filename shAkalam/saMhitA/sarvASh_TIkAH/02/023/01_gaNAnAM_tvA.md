@@ -261,6 +261,12 @@ WE call thee, Lord and Leader of the heavenly hosts, the wise among the wise, th
      The King supreme of prayers, O Brahmanaspati: hear us with help; sit down in place of sacrifice.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+We invoke you, the leader of hosts among the hosts, the poet among poets, of highest renown,  
+the eldest king among sacred words, O Brahmaṇaspati; listening to us, sit upon our seat with aids!
+</details>
+
 <details><summary>Geldner</summary>
 
 Wir rufen dich, den Herrn der Sängerscharen an, den hochberühmtesten Weisen der Weisen, den Oberherrn der Segensworte, o Brahmanaspati. Höre uns an und setz dich mit deinen Hilfen auf den Sitz!

@@ -66,10 +66,50 @@ yát ← yá- (pronoun)
 यत्पृ॑थि॒वीं व्यु॒न्दन्ति॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+दि᳓वा चित् त᳓मः कृण्वन्ति पर्ज᳓न्येनोदवाहे᳓न  
+य᳓त् पृथिवीँ᳓ व्युन्द᳓न्ति
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+दिवा चित्तमः कृण्वन्ति पर्जन्येनोदवाहेन।  
+यत्पृथिवीं व्युन्दन्ति
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 दिवा॑ । चि॒त् । तमः॑ । कृ॒ण्व॒न्ति॒ । प॒र्जन्ये॑न । उ॒द॒ऽवा॒हेन॑ ।  
 यत् । पृ॒थि॒वीम् । वि॒ऽउ॒न्दन्ति॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- दि᳓वा (*TS*-9, *RV*-26, *TB*-22, *TK*-1, *AV*-15, *SB-M*-23, *SB-K*-18, *VS-M*-7, *VS-K*-7, *KS*-2)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-22, *KS*-25)
+- त᳓मः (*TS*-22/33, *RV*-43/113, *TB*-4/13, *AV*-23/52, *SB-M*-55/82, *SB-K*-54/82, *VS-M*-10/22, *VS-K*-7/21, *KS*-10/16)
+- कृण्वन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-8, *TB*-1)
+- पर्ज᳓न्येन (*TS*-1, *RV*-1)
+- उद-वाहे᳓न (*TS*-1, *RV*-1/2, *AV*-0/1)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- पृथिवी᳓म् (*TS*-63/106, *RV*-64/156, *TB*-27/52, *TK*-5/6, *AV*-74/155, *SB-M*-58/156, *SB-K*-70/126, *VS-M*-33/53, *VS-K*-33/54, *KS*-15/35)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *KS*-33)
+- उन्द᳓न्ति (*TS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- दि᳓वा (*MW* ŚBr., *MS*-24, *TS*-9, *RV*-26, *TB*-22, *TK*-1, *AV*-15, *SB-M*-23, *SB-K*-18, *VS-M*-7, *VS-K*-7)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- त᳓मः (*Whitney*, *MS*-28/52, *TS*-22/33, *RV*-43/113, *TB*-4/13, *AV*-23/52, *SB-M*-55/82, *SB-K*-54/82, *VS-M*-10/22, *VS-K*-8/22)
+- कृण्वन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-8, *TB*-1)
+- पर्ज᳓न्येन (*TS*-1, *RV*-1, *MS*-1)
+- उद-वाहे᳓न (*TS*-1, *RV*-1/2, *AV*-0/1, *MS*-1/3)
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- पृथिवी᳓म् (*MS*-61/104, *TS*-63/106, *RV*-64/156, *TB*-27/52, *TK*-5/6, *AV*-74/155, *SB-M*-58/156, *SB-K*-70/126, *VS-M*-33/53, *VS-K*-35/56)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *MS*-130)
+- उन्द᳓न्ति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *TS*-1, *MS*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -171,6 +211,20 @@ when they inundate the earth.
 
 When they inundate the earth they spread forth darkness e'en in day time,  
      With the water-laden rain-cloud.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even by day they make darkness with Parjanya carrying water,  
+when they moisten the earth.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+from the earth!  
+Protect me then with rain!  
+Even by day they make darkness with Parjanya, the water-bearer,  
+when they moisten the earth.
 </details>
 
 <details><summary>Geldner</summary>

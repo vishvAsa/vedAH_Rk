@@ -234,6 +234,21 @@ Indra with praises the praisers,
 Indra the songs have praised.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra indeed the singers of songs [praise] with the Bṛhat [sāman]; Indra with verses the verse-singers;  
+Indra the musical instruments have celebrated.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Indra alone the singers [praise] with the lofty [song]; Indra with chants the chanters;  
+to Indra the voices have resounded.
+
+The singers of hymns [magnify] Indra alone with what is great, the chanters Indra with their chants;  
+the voices have sung in praise of Indra.
+</details>
+
 <details><summary>Geldner</summary>
 
 Indra haben laut die Sänger, Indra mit Preisliedern die Preisenden Indra die Stimmen angerufen.

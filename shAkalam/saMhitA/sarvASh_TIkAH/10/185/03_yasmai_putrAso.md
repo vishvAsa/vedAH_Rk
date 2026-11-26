@@ -66,10 +66,29 @@ yáchanti ← √yam- (root)
 ज्योति॒र्यच्छ॒न्त्यज॑स्रम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+य᳓स्मै पुत्रा᳓सो अ᳓दितेः प्र᳓ जीव᳓से म᳓र्त्याय।  
+ज्यो᳓ति᳓र्यच्छन्त्य᳓जस्रम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यस्मै॑ । पु॒त्रासः॑ । अदि॑तेः । प्र । जी॒वसे॑ । मर्त्या॑य ।  
 ज्योतिः॑ । यच्छ॑न्ति । अज॑स्रम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓स्मै (*MS*-11/3763, *TS*-12/3385, *RV*-23/4011, *TB*-2/1735, *TK*-2/227, *AV*-18/3120, *SB-M*-42/8327, *SB-K*-52/8438, *VS-M*-4/651, *VS-K*-3/609)
+- पुत्रा᳓सः (*MS*-3/55, *TS*-0/56, *RV*-11/104, *TB*-0/23, *TK*-0/4, *AV*-3/118, *SB-M*-3/119, *SB-K*-3/119, *VS-M*-2/29, *VS-K*-2/29)
+- अ᳓दितेः (*MS*-6/128, *TS*-1/95, *RV*-24/155, *TB*-4/43, *TK*-0/2, *AV*-6/48, *SB-M*-6/100, *SB-K*-6/87, *VS-M*-2/63, *VS-K*-3/79)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- जीव᳓से (*MS*-14/16, *TS*-6/7, *RV*-52/60, *TB*-7/9, *TK*-0/1, *AV*-9/14, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-5, *VS-K*-5)
+- म᳓र्त्याय (*MS*-1/18, *TS*-0/14, *RV*-25/182, *TB*-0/6, *TK*-1/3, *AV*-1/37, *SB-M*-1/84, *SB-K*-1/81, *VS-K*-1/8)
+- ज्यो᳓तिः᳓ → **ज्यो᳓तिः** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *Whitney*, *MS*-92/134, *TS*-117/199, *RV*-99/148, *TB*-58/70, *TK*-3/5, *AV*-43/66, *SB-M*-131/173, *SB-K*-134/174, *VS-M*-50/72, *VS-K*-40/80)
+- यच्छन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-15, *RV*-3, *TB*-3, *AV*-1, *SB-M*-5, *SB-K*-23)
+- अ᳓जस्रम् (*MS*-10/16, *TS*-7/12, *RV*-5/18, *TB*-2, *AV*-3/6, *SB-M*-7/16, *SB-K*-7/16, *VS-M*-6/10, *VS-K*-6/9)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -162,6 +181,12 @@ for the mortal to live.
 <details><summary>Griffith</summary>
 
 Nor over him,. the man on whom the Sons of Aditi bestow Eternal light that he may live.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+to which mortal the sons of Aditi  
+grant unceasing light to live.
 </details>
 
 <details><summary>Geldner</summary>

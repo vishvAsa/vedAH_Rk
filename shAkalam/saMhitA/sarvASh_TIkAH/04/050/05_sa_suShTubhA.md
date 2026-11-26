@@ -89,10 +89,38 @@ vā́vaśatīḥ ← √vāś- (root)
 बृह॒स्पति॑रु॒स्रिया॑ हव्य॒सूदः॒ कनि॑क्रद॒द्वाव॑शती॒रुदा॑जत् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स᳓ सुष्टु᳓भा स᳓ ऋृ᳓क्वता गणे᳓न वलं᳓ रुरोज फलिगं᳓ र᳓वेण।  
+बृ᳓हस्प᳓तिरुस्नि᳓या हव्यसू᳓दः क᳓निक्रदद्वा᳓वशतीरु᳓दाजत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । सु॒ऽस्तुभा । सः । ऋक्व॑ता । ग॒णेन॑ । व॒लम् । रु॒रो॒ज॒ । फ॒लि॒ऽगम् । रवे॑ण ।  
 बृह॒स्पतिः॑ । उ॒स्रियाः॑ । ह॒व्य॒ऽसूदः॑ । कनि॑क्रदत् । वाव॑शतीः । उत् । आ॒ज॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- सु-ष्टु᳓भा (*MS*-2, *TS*-1)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- ऋ᳓क्वता (*MS*-1, *TS*-1, *RV*-1, *AV*-1)
+- गणे᳓न (*MS*-3/19, *TS*-3/12, *RV*-7/39, *TB*-1/5, *AV*-2/8, *SB-M*-0/12, *SB-K*-0/16, *VS-M*-1/8, *VS-K*-2/9)
+- वल᳓म् (*MS*-4/6, *TS*-2/3, *RV*-13/23, *TB*-1, *AV*-6/11, *VS-K*-1)
+- रुरोज (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-2, *TB*-1, *AV*-1)
+- फलि-ग᳓म् (*MS*-1, *TS*-1, *RV*-4, *AV*-1)
+- र᳓वेण (*MS*-4/6, *TS*-1, *RV*-11/15, *TB*-2, *AV*-3/4, *VS-M*-0/1, *VS-K*-0/1)
+- बृ᳓हस्प᳓ति (*MS*-107, *TS*-2, *RV*-78, *TB*-24, *TK*-5, *AV*-1, *SB-M*-74, *SB-K*-2, *VS-M*-28, *VS-K*-39)
+- रुस् (मूल-पाठः, *MS*-1)
+- नि᳓ (*MS*-193, *TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36)
+- या (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-15, *RV*-1, *TB*-6, *TK*-2, *SB-M*-1, *SB-K*-4, *VS-M*-4, *VS-K*-3, *MS*-6)
+- हव्य-सू᳓दः (*MS*-1, *TS*-2, *RV*-1, *AV*-1)
+- क᳓निक्रदत् (*MS*-4, *TS*-7/8, *RV*-31/32, *TB*-1, *AV*-2, *SB-M*-3, *SB-K*-2, *VS-M*-4, *VS-K*-3)
+- वा᳓वशतीः (*MS*-1, *TS*-1, *RV*-1, *AV*-1)
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- आजत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-6, *AV*-5, *MS*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -205,6 +233,13 @@ _________
 **सः** **बृहस्पतिः** **सुष्टुभा** शोभनस्तुतिमता **ऋक्वता** दीप्तिमता **गणेन** अङ्गिरसां **रवेण** शब्देन च सह **फलिगम्** ॥' ञिफला विशरणे ' ॥ फलिर्भेदः । तेन गच्छतीति फलिगम् । **वलं** वलनामानमसुरं **रुरोज** बभञ्ज । द्वितीयः सशब्दः पूरणः । स एव देवः **उस्रियाः** भोगानामुत्स्राविणीः **हव्यसूदः** क्षीरादिहविष्प्रेरिकाः **वावशतीः** वावश्यमानाः गाः **कनिक्रदत्** शब्दं कुर्वन् **उदाजत्** उद्घाटयति स्म ॥ ॥ २६ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[141_13]** Brl फलिगँ᳓
+
+- **[141_14]** Ch रवेन
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -223,7 +258,10 @@ Br̥haspati drove up the ruddy (cows) who sweeten the oblation, who  kept lowing
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details><summary><h2>01-06 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 As indicated in the published introduction, this section concerns the unitary figure (Indra-)Bṛhaspati, here insistently identified as Bṛhaspati: there are 7 occurrences of the name in 6 vss., one in each save for two in vs. 2.
+</details>
 
 </details>
 </div>
@@ -232,6 +270,12 @@ As indicated in the published introduction, this section concerns the unitary fi
 
 With the loud-shouting band who sang his praises, with thunder, he destroyed obstructive Vala.  
      Brhaspati thundering drave forth the cattle, the lowing cows who make oblations ready.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With his well-praising, singing host, with a roar he shattered Vala the rock-cave;  
+roaring, Bṛhaspati drove up the milch cows that sweeten the offering, lowing aloud.
 </details>
 
 <details><summary>Macdonell</summary>

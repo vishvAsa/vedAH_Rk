@@ -106,6 +106,12 @@ vidhaté ← √vidh- (root)
 अग्ने॒ वसु॑ विध॒ते राज॑नि॒त्वे ॥26॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पुरू᳓ण्यग्ने पुरुधा᳓ त्वाया᳓ व᳓सूनि राजन्वसु᳓ता ते अश्याम्।  
+पुरू᳓णि हि᳓ त्वे᳓ पुरुवार स᳓न्त्य᳓ग्ने व᳓सु विधते᳓ रा᳓जनि त्वे᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पु॒रूणि॑ । अ॒ग्ने॒ । पु॒रु॒धा । त्वा॒ऽया । वसू॑नि । रा॒ज॒न् । व॒सुता॑ । ते॒ । अ॒श्या॒म् ।  
@@ -115,6 +121,29 @@ vidhaté ← √vidh- (root)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 पुरू᳓णि । अग्ने । पुरु-धा᳓ । त्वा-या᳓ । व᳓सूनि । राजन् । वसु᳓-ताते । अश्याम् । पुरू᳓णि । हि᳓ । त्वे᳓ । पुरु-वार । स᳓न्ति । अ᳓ग्ने । व᳓सु । विधते᳓ । रा᳓जनि । त्वे᳓ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पुरू᳓णि (*MS*-5, *TS*-2, *RV*-40, *TB*-3, *AV*-6, *VS-M*-1, *VS-K*-1)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- पुरु-धा᳓ (*MS*-1, *RV*-9, *TB*-1, *AV*-3, *VS-M*-1, *VS-K*-1)
+- त्वा-या᳓ (*MS*-1, *RV*-12, *TB*-1, *SB-M*-1)
+- व᳓सूनि (*MS*-13, *TS*-13, *RV*-66, *TB*-7, *AV*-15, *SB-M*-3, *SB-K*-2, *VS-M*-3, *VS-K*-3)
+- राजन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-20, *TS*-19, *RV*-42, *TB*-10, *AV*-18, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-2)
+- वसु᳓ता (*MS*-1, *RV*-1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- अश्याम् (*MS*-4, *TS*-2, *RV*-11, *TB*-3)
+- पुरू᳓णि (*MS*-5, *TS*-2, *RV*-40, *TB*-3, *AV*-6, *VS-M*-1, *VS-K*-1)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- त्वे᳓ (*MS*-6/301, *TS*-8/261, *RV*-72/980, *TB*-7/122, *TK*-0/14, *AV*-10/458, *SB-M*-8/270, *SB-K*-15/273, *VS-M*-5/167, *VS-K*-5/142)
+- पुरु-वार (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *RV*-3, *TB*-1)
+- स᳓न्ति (*MS*-9/19, *TS*-5/26, *RV*-50/92, *TB*-3/13, *TK*-0/1, *AV*-8/16, *SB-M*-7/54, *SB-K*-6/66, *VS-M*-0/2, *VS-K*-0/2)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- व᳓सु (*MS*-25/140, *TS*-14/143, *RV*-99/311, *TB*-19/59, *TK*-0/2, *AV*-27/90, *SB-M*-15/113, *SB-K*-14/111, *VS-M*-16/77, *VS-K*-15/100)
+- विधते᳓ (*MS*-1, *TS*-0/1, *RV*-15/25, *TB*-1, *TK*-0/1, *AV*-1/2)
+- रा᳓जनि (*MS*-1/60, *TS*-0/48, *RV*-4/151, *TB*-1/63, *TK*-0/2, *AV*-1/78, *SB-M*-0/175, *SB-K*-0/139, *VS-M*-0/27, *VS-K*-0/29)
+- त्वे᳓ (*MS*-6/301, *TS*-8/261, *RV*-72/980, *TB*-7/122, *TK*-0/14, *AV*-10/458, *SB-M*-8/270, *SB-K*-15/273, *VS-M*-5/167, *VS-K*-5/142)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -267,6 +296,15 @@ _________
 इति तैत्तिरीये ब्राह्मणे तृतीये षष्ठे दशमोऽनुवाकः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[277_4]** Dies Kap. collat. mit Brl fol. 165 und darnach accentuirt. (This chap. is collated with Brl fol. 165 and accented according to it.)
+
+- **[277_18]** So Brl; desgl. Ch, ohne Accent; D मनुष्याणाम् (Thus Brl; likewise Ch, without accent; D मनुष्याणाम्)
+
+**समानान्तराणि:** cf. RV. 6, 1; Mâitr. S. 4, 13, 6.
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -297,6 +335,12 @@ These two vss. play on the two words purú- ‘many’ and vásu- ‘good’ in 
 
 May I obtain much wealth in many places by love of thee and through thy grace, King Agni;  
      For in thee Bounteous One, in thee the Sovran, Agni, are many boons for him who serves thee.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Many goods in many forms through love of you, O King, in your wealth-giving may I obtain;  
+for many are the goods in you, O you of many choices, in you, O Agni, ruling for him who worships [you].
 </details>
 
 <details><summary>Geldner</summary>

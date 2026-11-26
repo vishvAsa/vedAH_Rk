@@ -155,6 +155,13 @@ _________
 **जातवेद** इत्यस्यामन्त्रितस्याप्यविद्यमानवत्त्वात् **विचर्षण** इत्येतदपि न निहन्येत् । अग्ने इत्यस्याविद्यमामत्वात् जनामीति तिङन्तं न निहन्यते । 'मन् क्तिन् व्याख्यान' इति । सुष्टुतिशब्दस्यान्तोदात्तत्वम् । अन्ये खलु दुराराधाः स्तुतिमपि न गृह्णन्ति, त्वं तु स्तुतिं च प्रतिगृह्णासि, ददासि चेप्सितानि । तस्मात् स्तुतिप्रियाय ते स्तुतिं जनयामि । त्वं च तां प्रतिगृह्य यजमानं भूतिं गमयेति भावः । 'स एवैनं भूतिं गमयति भवत्येव' `इति ब्राह्मणम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[139_9]** Ch लूकº
+
+- **[139_10]** Ch श्रवयति
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -185,6 +192,12 @@ Wise Agni Jatavedas, I beget a song of praise for thee.
 To thee, the eager one,  
 O knower of all, O active one,  
 Agni, I offer this fair praise.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For you who take pleasure in this, O active Jātavedas,  
+I produce a song of praise, O Agni!
 </details>
 
 <details><summary>Geldner</summary>

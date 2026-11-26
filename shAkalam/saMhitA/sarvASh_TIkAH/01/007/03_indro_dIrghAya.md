@@ -72,10 +72,31 @@ ví ← ví (invariable)
 वि गोभि॒रद्रि॑मैरयत् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इ᳓न्द्रो दीर्घा᳓य च᳓क्षसा आ᳓ सू᳓र्यँ रोहयद् दिवि᳓  
+वि᳓ गो᳓भिर् अ᳓द्रिम् ऐरयत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रः॑ । दी॒र्घाय॑ । चक्ष॑से । आ । सूर्य॑म् । रो॒ह॒य॒त् । दि॒वि ।  
 वि । गोभिः॑ । अद्रि॑म् । ऐ॒र॒य॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/388, *VS-K*-93/358, *KS*-72/189)
+- दीर्घा᳓य (*TS*-0/4, *RV*-2/30, *TB*-0/1, *AV*-4/25, *SB-M*-0/9, *SB-K*-0/6, *VS-M*-0/2, *VS-K*-0/2)
+- च᳓क्षसाः (*TS*-0/6, *RV*-0/26, *TB*-0/3, *AV*-0/14, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/4, *VS-K*-0/4, *KS*-0/3)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- सू᳓र्यम् (*TS*-14/109, *RV*-88/337, *TB*-5/75, *TK*-1/8, *AV*-47/173, *SB-M*-19/152, *SB-K*-16/151, *VS-M*-6/36, *VS-K*-7/44, *KS*-11/52)
+- रोहयत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-1, *AV*-3)
+- दिवि᳓ (*TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-23/172, *KS*-21/128)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- गो᳓भिः (*TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/66, *VS-K*-6/64, *KS*-2/37)
+- अ᳓द्रिम् (*TS*-1/9, *RV*-31/127, *TB*-0/4, *AV*-6/12, *SB-M*-0/10, *SB-K*-0/12, *VS-M*-1/7, *VS-K*-1/8, *KS*-1/5)
+- ऐरयत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-6, *AV*-7, *SB-M*-1, *SB-K*-1, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -195,6 +216,12 @@ The usage of the instr. góbhiḥ is somewhat strange; it is clearly not meant e
 
 Indra hath raised the Sun on high in heaven, that he may see afar:  
      He burst the mountain for the kine.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra made the sun mount up in heaven for wide-extended vision;  
+he drove the rock apart with his cows.
 </details>
 
 <details><summary>Geldner</summary>

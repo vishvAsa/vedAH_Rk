@@ -293,6 +293,12 @@ Loosen and remove the evil we have done
 That is bound within our bodies.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Soma and Rudra, place all these remedies in our bodies for us;  
+loosen, release from us the sin done by us that is bound upon our bodies!
+</details>
+
 <details><summary>Geldner</summary>
 
 Soma und Rudra! Bringet ihr unseren Leibern all diese Arzneien! Bindet ab, löset von uns die getane Sünde, die an unsere Leiber gebunden ist.

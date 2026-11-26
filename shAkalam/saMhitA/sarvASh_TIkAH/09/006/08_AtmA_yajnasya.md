@@ -69,10 +69,29 @@ pratnám ← pratná- (nominal stem)
 प्र॒त्नं नि पा॑ति॒ काव्य॑म् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आत्मा᳓ यज्ञ᳓स्य रँह्या सुष्वाणः᳓ पवते सुतः।  
+प्रत्ना᳓नि पाति का᳓व्यः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ॒त्मा । य॒ज्ञस्य॑ । रंह्या॑ । सु॒स्वा॒णः । प॒व॒ते॒ । सु॒तः ।  
 प्र॒त्नम् । नि । पा॒ति॒ । काव्य॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आत्मा᳓ (*MS*-48/194, *TS*-41/167, *RV*-13/20, *TB*-13/78, *TK*-5/10, *AV*-14/62, *SB-M*-394/1009, *SB-K*-385/1051, *VS-M*-12/22, *VS-K*-8/17)
+- यज्ञ᳓स्य (*MS*-180/933, *TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/187)
+- रंह्या → **रं᳓ह्या** (स्वर-लोपः, *MS*-0/1, *TS*-1/2, *RV*-6/9, *AV*-1/2, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/1, *VS-K*-1)
+- सुष्वाणः᳓ (*RV*-0/1)
+- पवते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-8, *RV*-63, *TB*-24, *AV*-11, *SB-M*-26, *SB-K*-29, *VS-M*-8, *VS-K*-3)
+- सुतः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *SB-M*-1)
+- प्रत्ना᳓नि (*MS*-0/11, *TS*-0/8, *RV*-1/50, *TB*-0/1, *AV*-0/9, *SB-M*-0/5, *SB-K*-0/2, *VS-M*-0/4, *VS-K*-0/4)
+- पाति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-11, *TS*-3, *RV*-9, *TB*-2, *AV*-1, *SB-M*-2, *SB-K*-2)
+- का᳓व्यः (*MS*-0/3, *RV*-1/24, *TB*-0/1, *AV*-0/8, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/3, *VS-K*-0/7)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -149,6 +168,13 @@ _________
 **यज्ञस्य** **आत्मा** आत्मभूतः **सुतः** अभिषुतः सोमः **सुष्वाणः** यजमानेभ्यः कामान् प्रेरयन **रंह्या** वेगेन **पवते** क्षरति । **प्रत्नं** पुरातनं **काव्यम्** आत्मनः कवित्वं च **नि** **पाति** अभिरक्षति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[521_13]** Besser Kap. S. 48, 7 प्रत्नं निपाति काव्यं, also wie RV 9, 6, 8. (Better Kap. S. 48, 7 प्रत्नं निपाति काव्यं, thus as RV 9, 6, 8.)
+
+- **[521_14]** T4 पूर्व्᳓याः; cf. RV 9, 2, 10.
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -167,9 +193,12 @@ He protects the age-old poetic skill.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/006/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 As noted in the published introduction, the theme of poetry appears in these last two vss., and I think it likely that Soma’s “protecting poetic skill” and “making the hidden hymns his own” refer to the inspiration Soma, and the soma sacrifice, provide to the poets. What it means to “protect” kā́vya (8c) is not entirely clear to me, but the preverb ní with pāti may suggest protection that involves hiding or depositing the thing in question, thus matching the hidden hymns in 9c. (pāti may also pun on √pā ‘drink’, of much more common occurrence in the Soma maṇḍala.) As I suggested in the published introduction, I think the hymns are “hidden” deep within the poets and are stimulated and evoked by Soma and the ritual in his honor.
 
 Note also that in the next hymn (IX.7.4a) Soma the poet clothes himself (vásānaḥ) in (pl.) kā́vyā.
+</details>
 
 </details>
 </div>
@@ -178,6 +207,12 @@ Note also that in the next hymn (IX.7.4a) Soma the poet clothes himself (vásān
 
 Soul of the sacrifice, the juice effused flows quickly on: he keeps  
      His ancient wisdom of a Sage.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The self of the sacrifice, pressing forward in its rush, the pressed [Soma] clarifies itself;  
+the poet protects ancient [ordinances].
 </details>
 
 <details><summary>Geldner</summary>

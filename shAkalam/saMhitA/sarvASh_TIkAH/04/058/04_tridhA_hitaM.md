@@ -110,6 +110,12 @@ venā́t ← vená- (nominal stem)
 इन्द्र॒ एकँ॒ सूर्य॒ एकं॑ जजान वे॒नादेकँ॑ स्व॒धया॒ निष्ट॑तक्षुः ॥६॥ ६ (१०९०)
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्रिधा हितं पणिभिर्गुह्यमानं गवि देवासो घृतमन्वविन्दन्।  
+इन्द्र एकँ सूर एकं जजान वेनादेकँ स्वधया निष्टतक्षुः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्रिधा॑ । हि॒तम् । प॒णिऽभिः॑ । गु॒ह्यमा॑नम् । गवि॑ । दे॒वासः॑ । घृ॒तम् । अनु॑ । अ॒वि॒न्द॒न् ।  
@@ -124,6 +130,28 @@ venā́t ← vená- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 त्रिधा॑। हि॒तम्। प॒णिभि॒रिति॑ प॒णिऽभिः॑। गु॒ह्यमा॑नम्। गवि॑। दे॒वासः॑। घृ॒तम्। अनु॑। अ॒वि॒न्द॒न्। इन्द्रः॑। एक॑म्। सूर्यः॑। एक॑म्। ज॒जा॒न॒। वे॒नात्। एक॑म्। स्व॒धया॑। निः। त॒त॒क्षुः॒। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्रि᳓धा (*RV*-4, *VS-M*-2, *VS-K*-2)
+- हित᳓म् (*MS*-8/14, *TS*-4/9, *RV*-36/83, *TB*-6/7, *TK*-0/1, *AV*-7/19, *SB-M*-13/28, *SB-K*-13/35, *VS-M*-2/3, *VS-K*-2/3)
+- पणि᳓भिः (*MS*-1/4, *TS*-1/2, *RV*-1/44, *TB*-1/2, *AV*-0/10, *SB-M*-1/2, *SB-K*-0/2, *VS-M*-2/3, *VS-K*-2/5)
+- गुह्य᳓मानम् (*RV*-1, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/2)
+- ग᳓वि (*MS*-2/149, *TS*-2/108, *RV*-7/521, *TB*-0/76, *AV*-1/195, *SB-M*-6/168, *SB-K*-4/149, *VS-M*-1/67, *VS-K*-1/67)
+- देवा᳓सः (*MS*-5/1216, *TS*-2/1023, *RV*-88/1342, *TB*-3/582, *TK*-0/32, *AV*-5/707, *SB-M*-6/2031, *SB-K*-7/1945, *VS-M*-7/528, *VS-K*-10/523)
+- घृत᳓म् (*MS*-72/118, *TS*-41/64, *RV*-51/91, *TB*-21/34, *TK*-1, *AV*-26/40, *SB-M*-35/51, *SB-K*-33/51, *VS-M*-33/49, *VS-K*-26/45)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- अविन्दन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-13, *TS*-11, *RV*-11, *TB*-6, *TK*-1, *AV*-2, *SB-M*-10, *SB-K*-8, *VS-M*-2, *VS-K*-2)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- ए᳓कम् (*MS*-20/146, *TS*-25/127, *RV*-76/218, *TB*-17/51, *TK*-0/3, *AV*-40/123, *SB-M*-164/615, *SB-K*-146/586, *VS-M*-9/32, *VS-K*-8/27)
+- सू᳓रः (*MS*-3/6, *TS*-1/3, *RV*-49/68, *TB*-4, *AV*-5/7, *SB-M*-1, *SB-K*-1, *VS-M*-2/4, *VS-K*-2/3)
+- ए᳓कम् (*MS*-20/146, *TS*-25/127, *RV*-76/218, *TB*-17/51, *TK*-0/3, *AV*-40/123, *SB-M*-164/615, *SB-K*-146/586, *VS-M*-9/32, *VS-K*-8/27)
+- जजान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-4, *RV*-9, *TB*-2, *AV*-6, *VS-M*-6, *VS-K*-5)
+- वेना᳓त् (*MS*-0/2, *TS*-0/2, *RV*-1/18, *AV*-0/6, *SB-M*-0/5, *SB-K*-0/8, *VS-M*-1/8, *VS-K*-1/10)
+- ए᳓कम् (*MS*-20/146, *TS*-25/127, *RV*-76/218, *TB*-17/51, *TK*-0/3, *AV*-40/123, *SB-M*-164/615, *SB-K*-146/586, *VS-M*-9/32, *VS-K*-8/27)
+- स्व-ध᳓या (*MS*-8/16, *TS*-9/18, *RV*-28/70, *TB*-1/15, *AV*-12/58, *SB-M*-3/28, *SB-K*-3/24, *VS-M*-8/22, *VS-K*-8/23)
+- नि᳓ष्टतक्षुः (*VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -352,6 +380,13 @@ _________
 एवं-रूपेण वृतं स्तूयते ॥६॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[606_1]** So corr. Ch पाणि॰; vgl. RV 4, 58, 4. (Thus emended; Ch reads पाणि॰; cf. RV 4, 58, 4)
+
+- **[606_2]** So corr. Ch गवे; vgl. RV 4, 58, 4. (Thus emended; Ch reads गवे; cf. RV 4, 58, 4)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 अब मनुष्यों को कैसे वर्त्तना चाहिये, यह विषय अगले मन्त्र में कहा है ॥
@@ -417,6 +452,12 @@ The threefold nature and creation of ghee has been variously interpreted; it aga
 
 That oil in triple shape the Gods discovered laid down within the Cow, concealed by Panis.  
      Indra produced one shape, Surya another: by their own power they formed the third from Vena.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Placed in three ways, hidden by the Paṇis, the gods found the ghee within the cow;  
+Indra generated one, the Sun one; from Vena they carved out one through inherent power.
 </details>
 
 <details><summary>त्रिभुवनः</summary>

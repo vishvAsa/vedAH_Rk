@@ -290,6 +290,21 @@ _________
 ([अत्र](/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/4/3/13) द्रष्टव्यम्।)
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[21_1]** Dies Kap. accentuirt nach T1, coll. mit Ts, L und Brl. (This chap. is accented according to T1, collated with Ts, L, and Brl.)
+
+- **[21_2]** Brl धेग्नि ; T3 रग्नि᳓न्धे (हि)
+
+- **[21_3]** Brl वृ᳓ष ; desgl. Ch, ohne Accent. (Brl वृ᳓ष; likewise Ch, without accent.)
+
+- **[21_4]** Ch सचेतना
+
+- **[21_5]** L und T3 दधासि (L and T3 दधासि)
+
+- **[21_6]** W 1 रोरिवतः
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 मनुष्य सूर्य के तुल्य दोषों को विनाशे, इस विषय को अगले मन्त्र में कहा है ॥
@@ -361,6 +376,18 @@ Kindled, pure as offered.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 May Agni slay the foemen,—fain for riches, through the love of song Kindled, bright, served with sacrifice.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Agni, seeking wealth, smite down the Vṛtras with praise,  
+kindled, bright, offered to.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Agni smites the obstacles, seeking wealth through praise,  
+kindled, bright, offered to with oblations.
 </details>
 
 <details><summary>Geldner</summary>

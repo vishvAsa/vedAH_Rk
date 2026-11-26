@@ -89,10 +89,36 @@ sénāḥ ← sénā- (nominal stem)
 सं॒क्रन्द॑नोऽनिमि॒ष ए॑कवी॒रः श॒तं सेना॑ अजयत्सा॒कमिन्द्रः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आशु᳓श्शि᳓शानो वृषभो᳓ न᳓ युध्मो᳓ घनाघनः᳓ क्षो᳓भणश्चर्षणीना᳓म्।  
+सङ्क्रन्दनोऽनिमिष᳓ एकवीर᳓श्शतँ से᳓ना अजयत्साक᳓मि᳓न्द्रः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ॒शुः । शिशा॑नः । वृ॒ष॒भः । न । भी॒मः । घ॒ना॒घ॒नः । क्षोभ॑णः । च॒र्ष॒णी॒नाम् ।  
 स॒म्ऽक्रन्द॑नः । अ॒नि॒ऽमि॒षः । ए॒क॒ऽवी॒रः । श॒तम् । सेनाः॑ । अ॒ज॒य॒त् । सा॒कम् । इन्द्रः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आशुः᳓ (*MS*-8/15, *TS*-8/15, *RV*-8/76, *TB*-4/8, *TK*-1/2, *AV*-3/18, *SB-M*-9/13, *SB-K*-8/13, *VS-M*-7/11, *VS-K*-7/11)
+- शि᳓शानः (*MS*-1, *TS*-2, *RV*-11, *AV*-6, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+- वृषभः᳓ (*MS*-15/25, *TS*-7/15, *RV*-80/149, *TB*-6/17, *AV*-20/37, *SB-M*-6/11, *SB-K*-3/7, *VS-M*-6/12, *VS-K*-7/11)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- युध्मः᳓ (*MS*-1/2, *TS*-1, *RV*-5/8)
+- घनाघनः᳓ (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-2)
+- क्षो᳓भणः (*MS*-0/1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-2/3)
+- चर्षणीना᳓म् (*MS*-7/11, *TS*-3/5, *RV*-35/58, *TB*-5/7, *AV*-10, *VS-M*-1, *VS-K*-2)
+- सम्-क्रन्दनः (मूल-पाठः)
+- अनि-मिषः᳓ (*TS*-1/2, *RV*-1/4, *AV*-1/2, *VS-M*-0/1, *VS-K*-1/2, *MS*-1/2)
+- एक-वीरः᳓ (*MS*-1, *TS*-1, *RV*-1, *AV*-2, *VS-M*-1, *VS-K*-2)
+- शतम् (*MS*-7, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-K*-1)
+- से᳓नाः (*MS*-6/13, *TS*-6/12, *RV*-7/13, *TB*-0/5, *AV*-8/41, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-4/6, *VS-K*-5/9)
+- अजयत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-39, *TS*-19, *RV*-5, *TB*-16, *TK*-3, *AV*-9, *SB-M*-10, *SB-K*-9, *VS-M*-14, *VS-K*-6)
+- साक᳓म् (*MS*-19, *TS*-9, *RV*-56, *TB*-6, *AV*-30, *SB-K*-3, *VS-M*-6, *VS-K*-6)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -222,6 +248,11 @@ _______________
 अनिमिषः कदाचिदपि निमेषं न करोत्यत्यन्तसावधान इत्यर्थः एकवीरः परानपेक्षेण ( क्षः ) स्वयमेक एव जेतुं समर्थः शूरः।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[266_10]** Dies Kap. collat. auch mit St, T1, Brl fol. 105, W1; accentuirt nach St, T1, Brl. (This chap. is also collated with St, T1, Brl fol. 105, W1; accented according to St, T1, Brl.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -248,6 +279,12 @@ Swift, like a bull sharpening his horns, the warrior
 Fond of slaughter, disturber of the people,  
 Bellowing, unwinking, sole hero,  
 Indra at once conquered a hundred hosts.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Swift, whetting himself, like a fighting bull, a smiter, shaker of the peoples,  
+roaring, unblinking, the sole hero,
 </details>
 
 <details><summary>Geldner</summary>

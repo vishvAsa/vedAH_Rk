@@ -106,6 +106,12 @@ víśvasmai ← víśva- (nominal stem)
 सहो॒ विश्व॑स्मै॒ सह॑से॒ सह॑ध्यै ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त्वँ᳓ ह्य् अ᳙ग्ने प्रथमो᳓ मनो᳓तास्या᳓ धियो᳓ अ᳓भवो दस्म हो᳓ता  
+त्वँ᳓ सीँ वृषन्न् अकृणोर् दुष्टरीतु स᳓हो वि᳓श्वस्मै स᳓हसे स᳓हध्यै
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । हि । अ॒ग्ने॒ । प्र॒थ॒मः । म॒नोता॑ । अ॒स्याः । धि॒यः । अभ॑वः । द॒स्म॒ । होता॑ ।  
@@ -115,6 +121,29 @@ víśvasmai ← víśva- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 त्व᳓म् । हि । अग्ने । प्रथमः᳓ । मनो᳓ता । अस्याः᳓ । धियः᳓ । अ᳓भवः । दस्म । हो᳓ता । त्व᳓म् । सीन् । वृषन् । अकृणोः । दुष्ट᳓रीतु । स᳓हः । वि᳓श्वस्मै । स᳓हसे । स᳓हध्यै ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-42, *KS*-81)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- प्रथमः᳓ (*TS*-28/95, *RV*-50/170, *TB*-11/41, *TK*-0/7, *AV*-43/109, *SB-M*-58/287, *SB-K*-51/272, *VS-M*-15/35, *VS-K*-15/36, *KS*-7/25)
+- मनो᳓ता (*TS*-1/2, *RV*-3, *TB*-1, *SB-M*-0/4, *SB-K*-0/3, *KS*-1)
+- अस्याः᳓ (*TS*-15/965, *RV*-24/1247, *TB*-18/567, *TK*-0/57, *AV*-19/1259, *SB-M*-48/5239, *SB-K*-110/5549, *VS-M*-4/313, *VS-K*-4/289, *KS*-11/319)
+- धियः᳓ (*TS*-0/1, *RV*-7/13, *TB*-3, *AV*-0/2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-2, *VS-K*-2, *KS*-1)
+- अ᳓भवः (*RV*-6/10, *TB*-1/4, *AV*-1/3, *SB-M*-1/4, *SB-K*-1/3, *VS-M*-1, *KS*-1)
+- दस्म (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-18, *TB*-1, *AV*-3, *VS-M*-1, *KS*-1)
+- हो᳓ता (*TS*-43/63, *RV*-150/244, *TB*-95/136, *TK*-6/8, *AV*-18/28, *SB-M*-135/211, *SB-K*-145/211, *VS-M*-55/70, *VS-K*-43/58, *KS*-27/37)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- सीन् (*RV*-52, *TB*-1, *AV*-4, *KS*-1)
+- वृषन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-18, *TB*-1, *AV*-9, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-2, *KS*-2)
+- अकृणोः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-7, *TB*-1, *AV*-1, *SB-M*-1, *VS-M*-2, *VS-K*-2, *KS*-3)
+- दुष्टरीतु (*TS*-1, *SB-M*-3, *SB-K*-3)
+- स᳓हः (*TS*-18/35, *RV*-47/122, *TB*-11/28, *TK*-2/4, *AV*-30/50, *SB-M*-11/21, *SB-K*-10/24, *VS-M*-15/28, *VS-K*-22/38, *KS*-8/18)
+- वि᳓श्वस्मै (*TS*-7/283, *RV*-12/1116, *TB*-1/125, *TK*-0/124, *AV*-0/353, *SB-M*-6/248, *SB-K*-5/219, *VS-M*-6/214, *VS-K*-5/214, *KS*-2/118)
+- स᳓हसे (*TS*-0/35, *RV*-8/122, *TB*-3/28, *TK*-0/4, *AV*-3/50, *SB-M*-2/21, *SB-K*-1/24, *VS-M*-5/28, *VS-K*-4/38, *KS*-3/18)
+- स᳓हध्यै (*RV*-2, *TB*-1, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -294,6 +323,12 @@ The sīm in c presumably refers to the dhī́- of b. The published translation c
 
 THOU, first inventor of this prayer, O Agni, Worker of Marvels, hast become our Herald.  
      Thou, Bull, hast made us strength which none may conquer, strength that shall overcome all other prowess.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For you, O Agni, were the first thinker of this prayer; you became the Hotṛ, O wondrous one.  
+You, O bull, irresistible, made power to overcome all power.
 </details>
 
 <details><summary>Geldner</summary>

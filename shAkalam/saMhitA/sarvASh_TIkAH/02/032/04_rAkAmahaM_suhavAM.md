@@ -293,6 +293,13 @@ With needle that breaks not may she sew her task;
 May she give a hero, whose wergild is a hundred, worthy of song.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I invoke Rākā, easy to call, with fair praise; may she, the fortunate one, hear us, may she heed of herself!  
+May she sew the work with an unbroken needle; may she grant a hero of hundredfold wealth, worthy of praise!  
+Those goodwills of thine, O Rākā,
+</details>
+
 <details><summary>Geldner</summary>
 
 Ich rufe die leicht zu rufende Raka mit schönem Loblied; die Holde soll uns erhören, soll es von selbst merken. Sie soll ihr Werk mit unzerbrechlicher Nadel nähen; sie soll einen vollwertigen, lobeswürdigen Sohn schenken.

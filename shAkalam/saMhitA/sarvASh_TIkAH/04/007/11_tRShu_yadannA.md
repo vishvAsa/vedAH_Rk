@@ -98,10 +98,39 @@ vājayate ← √vājay- 2 (root)
 वात॑स्य मे॒ळिं स॑चते नि॒जूर्व॑न्ना॒शुं न वा॑जयते हि॒न्वे अर्वा॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+तृषु᳓ य᳓द᳓न्ना तृषु᳓णा वव᳓क्ष तृषुं᳓ दूतं᳓ कृणुते यव्हो᳓ अग्निः᳓।  
+वा᳓तस्य मेडि᳓ सचते निजू᳓र्वन्नाशुं᳓ न᳓ वाजयते हिन्वे᳓ अ᳓र्वा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तृ॒षु । यत् । अन्ना॑ । तृ॒षुणा॑ । व॒वक्ष॑ । तृ॒षुम् । दू॒तम् । कृ॒णु॒ते॒ । य॒ह्वः । अ॒ग्निः ।  
 वात॑स्य । मे॒ळिम् । स॒च॒ते॒ । नि॒ऽजूर्व॑न् । आ॒शुम् । न । वा॒ज॒य॒ते॒ । हि॒न्वे । अर्वा॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- तृषु᳓ (*RV*-8/10, *TB*-2)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- अ᳓न्ना (*MS*-1/144, *TS*-0/201, *RV*-10/48, *TB*-1/95, *TK*-0/5, *AV*-1/58, *SB-M*-7/751, *SB-K*-5/797, *VS-M*-2/16, *VS-K*-3/20)
+- तृषु᳓णा (*RV*-1/10, *TB*-0/2)
+- वव᳓क्ष (*RV*-3)
+- तृषु᳓म् (*RV*-1/10, *TB*-0/2)
+- दूत᳓म् (*MS*-5/10, *TS*-4/12, *RV*-29/89, *TB*-3/8, *AV*-1/15, *SB-M*-3/8, *SB-K*-4/10, *VS-M*-4/6, *VS-K*-4/6)
+- कृणुते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-28, *TB*-2, *AV*-13, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- यव्हो᳓ (मूल-पाठः)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- वा᳓तस्य (*MS*-5/58, *TS*-5/52, *RV*-24/81, *TB*-0/15, *TK*-0/1, *AV*-4/83, *SB-M*-4/72, *SB-K*-4/74, *VS-M*-3/31, *VS-K*-3/31)
+- मेडि᳓ (*TS*-0/1, *RV*-2, *AV*-1)
+- सचते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-18, *TB*-1, *AV*-4, *SB-M*-8, *SB-K*-6, *VS-M*-2, *VS-K*-1)
+- नि-जू᳓र्वन् (*RV*-1, *AV*-1)
+- आशु᳓म् (*MS*-2/15, *TS*-1/15, *RV*-19/76, *TB*-2/8, *TK*-0/2, *AV*-4/18, *SB-M*-1/13, *SB-K*-1/13, *VS-M*-2/11, *VS-K*-1/11)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- वाजयते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1)
+- हिन्वे᳓ (*RV*-2/6)
+- अ᳓र्वा (*MS*-3, *TS*-12/13, *RV*-21/22, *TB*-6, *AV*-2, *SB-M*-5/6, *SB-K*-3, *VS-M*-4/5, *VS-K*-3/5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -266,6 +295,13 @@ gender of tṛṣúm: the words for ‘flame, blaze’ in this hymn are neut. (a
 
 When he hath borne off food with swift flame swiftly, strong Agni makes himself a speedy envoy,  
      Follows the rustling of the wind, consuming, and courser-like, speeds, drives the swift horse onward.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+let us attend to Agni with praises.  
+When swiftly he has grown strong with swift food, young Agni makes a swift messenger;  
+he adheres to the whirlwind of the wind as he consumes; like a swift steed, urged on, he races.
 </details>
 
 <details><summary>Oldenberg</summary>

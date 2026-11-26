@@ -93,6 +93,12 @@ yajñám ← yajñá- (nominal stem)
 कु॒ला॒यिन॑ङ्घृ॒तव॑न्तँ सवि॒त्रे य॒ज्ञन्न॑य॒ यज॑मानाय सा॒धु  ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्ने विश्वेभिस्स्वनीक देवैरूर्णावन्तं प्रथमस्सीद योनिम्।  
+कुलायिनं घृतवन्तँ सवित्रे यज्ञं नय यजमानाय साधु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । विश्वे॑भिः । सु॒ऽअ॒नी॒क॒ । दे॒वैः । ऊर्णा॑ऽवन्तम् । प्र॒थ॒मः । सी॒द॒ । योनि॑म् ।  
@@ -102,6 +108,25 @@ yajñám ← yajñá- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अग्ने॑ । विश्वे॑भिः । स्व॒नी॒केति॑ सु-अ॒नी॒क॒ । दे॒वैः । ऊर्णा॑वन्त॒मित्यूर्णा॑-व॒न्त॒म्॒ । प्र॒थ॒मः । सी॒द॒ । योनि॑म् ॥ कु॒ला॒यिन॑म् । घृ॒तव॑न्त॒मिति॑ घृ॒त-व॒न्त॒म्॒ । स॒वि॒त्रे । य॒ज्ञम् । न॒य॒ । यज॑मानाय । सा॒धु ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- वि᳓श्वेभिः (*MS*-5/301, *TS*-4/283, *RV*-29/1116, *TB*-2/125, *TK*-0/124, *AV*-7/353, *SB-M*-0/248, *SB-K*-0/219, *VS-M*-4/225, *VS-K*-6/224)
+- स्वनीक (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-1)
+- देवैः᳓ (*MS*-25/1216, *TS*-23/1023, *RV*-38/1342, *TB*-15/582, *TK*-1/32, *AV*-21/707, *SB-M*-39/2031, *SB-K*-45/1945, *VS-M*-24/528, *VS-K*-24/523)
+- ऊ᳓र्णावन्तम् (*MS*-1, *TS*-1, *RV*-1)
+- प्रथमः᳓ (*MS*-34/106, *TS*-28/95, *RV*-50/170, *TB*-11/41, *TK*-0/7, *AV*-43/109, *SB-M*-58/287, *SB-K*-51/272, *VS-M*-18/38, *VS-K*-16/39)
+- सीद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-55, *TS*-45, *RV*-15, *TB*-11, *TK*-34, *AV*-8, *SB-M*-35, *SB-K*-39, *VS-M*-33, *VS-K*-25)
+- यो᳓निम् (*MS*-24/208, *TS*-34/170, *RV*-62/110, *TB*-7/38, *TK*-1/6, *AV*-26/45, *SB-M*-34/284, *SB-K*-33/261, *VS-M*-17/93, *VS-K*-19/100)
+- कुलायि᳓नम् (*MS*-2, *TS*-3/4, *RV*-1)
+- घृत᳓वन्तम् (*MS*-3/4, *TS*-4, *RV*-8/11, *TB*-1/2, *AV*-0/2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1, *VS-K*-1)
+- सवित्रे᳓ (*MS*-11/155, *TS*-11/120, *RV*-2/157, *TB*-7/71, *TK*-0/3, *AV*-0/96, *SB-M*-19/225, *SB-K*-18/198, *VS-M*-5/119, *VS-K*-5/109)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- नय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-8, *TS*-7, *RV*-11, *AV*-9, *SB-M*-10, *SB-K*-8, *VS-M*-10, *VS-K*-8)
+- य᳓जमानाय (*MS*-47/350, *TS*-36/419, *RV*-21/63, *TB*-26/267, *TK*-1, *AV*-24/46, *SB-M*-51/614, *SB-K*-54/631, *VS-M*-16/52, *VS-K*-19/57)
+- साधु᳓ (*Whitney*, *MS*-1/4, *TS*-2/5, *RV*-8/27, *TB*-1, *AV*-2/5, *SB-M*-22/39, *SB-K*-20/36, *VS-M*-0/3, *VS-K*-0/3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -259,6 +284,12 @@ Together with all Gods, O fair-faced Agni, be seated first upon the woollined al
 O Agni of kindly aspect, do thou with the All-gods Sit first on the birthplace made of wool,  
 Nest-like, rich in ghee, for Savitr  
 Do thou lead well the sacrifice, for the sacrificer.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni of fair face, sit first with all the gods on the woollen womb,  
+on the nested, rich in ghee; lead the sacrifice well to Savitṛ, for the sacrificer!
 </details>
 
 <details><summary>Geldner</summary>

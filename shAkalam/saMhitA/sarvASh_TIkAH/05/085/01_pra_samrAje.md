@@ -95,10 +95,38 @@ upastíre ← upastír- (nominal stem)
 वि यो ज॒घान॑ शमि॒तेव॒ चर्मो॑प॒स्तिरे॑ पृथि॒वीं सूर्या॑य ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+प्र᳓ सम्रा᳓जे बृह᳓दर्चा गभीरं᳓ ब्र᳓ह्म प्रियं᳓ व᳓रुणाय श्रुता᳓य।  
+वि᳓ यो᳓ जघा᳓न शमिते᳓व च᳓र्मोपस्ति᳓रे पृथिवीँ सू᳓र्याय
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । स॒म्ऽराजे॑ । बृ॒हत् । अ॒र्च॒ । ग॒भी॒रम् । ब्रह्म॑ । प्रि॒यम् । वरु॑णाय । श्रु॒ताय॑ ।  
 वि । यः । ज॒घान॑ । श॒मि॒ताऽइ॑व । चर्म॑ । उ॒प॒ऽस्तिरे॑ । पृ॒थि॒वीम् । सूर्या॑य ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- सम्-रा᳓जे (*MS*-0/1, *TS*-1/4, *RV*-2/21, *AV*-2/3, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/2, *VS-K*-0/2)
+- बृह᳓त् (*MS*-33/39, *TS*-57/69, *RV*-151/156, *TB*-32/33, *AV*-43, *SB-M*-31/36, *SB-K*-30/35, *VS-M*-27/28, *VS-K*-25/32)
+- अर्चा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-1, *RV*-3, *AV*-1)
+- गभीर᳓म् (*MS*-2/6, *TS*-0/1, *RV*-9/19, *TB*-0/1, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1)
+- ब्र᳓ह्म (*MS*-115/230, *TS*-70/157, *RV*-96/237, *TB*-38/95, *TK*-11/38, *AV*-133/266, *SB-M*-286/420, *SB-K*-285/434, *VS-M*-28/55, *VS-K*-23/51)
+- प्रिय᳓म् (*MS*-36/135, *TS*-40/92, *RV*-77/213, *TB*-21/83, *TK*-0/1, *AV*-44/90, *SB-M*-55/134, *SB-K*-53/141, *VS-M*-19/60, *VS-K*-10/47)
+- व᳓रुणाय (*MS*-16/226, *TS*-15/118, *RV*-33/308, *TB*-8/85, *TK*-0/1, *AV*-7/113, *SB-M*-11/153, *SB-K*-11/152, *VS-M*-10/84, *VS-K*-9/84)
+- श्रुता᳓य (*MS*-1/4, *TS*-2/6, *RV*-4/54, *TB*-1/7, *AV*-1/14, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-2/4, *VS-K*-6/7)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- जघा᳓न (*MS*-3, *RV*-15, *TB*-1, *AV*-10, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- शमिता᳓ (*MS*-4/9, *TS*-3/7, *RV*-4/6, *TB*-3/6, *TK*-1, *AV*-2/3, *SB-M*-4/6, *SB-K*-3/6, *VS-M*-6/12, *VS-K*-7/12)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- च᳓र्म (*MS*-4/5, *TS*-4/6, *RV*-2/7, *TB*-1, *AV*-10/15, *SB-M*-5/10, *SB-K*-6/12)
+- उप-स्ति᳓रे (*RV*-4/5)
+- पृथिवीम् → **पृथिवी᳓म्** (स्वर-लोपः, *MS*-61/104, *TS*-63/106, *RV*-64/156, *TB*-27/52, *TK*-5/6, *AV*-74/155, *SB-M*-58/156, *SB-K*-70/126, *VS-M*-33/53, *VS-K*-35/56)
+- सू᳓र्याय (*MS*-16/143, *TS*-16/109, *RV*-11/337, *TB*-9/75, *TK*-1/8, *AV*-5/173, *SB-M*-16/152, *SB-K*-14/151, *VS-M*-2/38, *VS-K*-5/47)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -248,6 +276,12 @@ underlayer for the sun.
 
 SING forth a hymn sublime and solemn, grateful to glorious. Varuna, imperial Ruler,  
      Who hath struck out, like one who slays the victim, earth as a skin to spread in front of Surya.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sing forth a lofty, deep, dear prayer to the sovereign king, renowned Varuṇa,  
+who spread out the earth as a skinner a hide, to be a carpet for the sun.
 </details>
 
 <details><summary>Geldner</summary>

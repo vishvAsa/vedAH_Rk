@@ -95,10 +95,40 @@ tapiṣṭha ← tápiṣṭha- (nominal stem)
 तम॒जरे॑भि॒र्वृष॑भि॒स्तव॒ स्वैस्तपा॑ तपिष्ठ॒ तप॑सा॒ तप॑स्वान् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+यो᳓ नस्स᳓नुत्यो अभिदा᳓सदग्ने यो᳓ अ᳓न्तरो मित्रमहो अनुष्या᳓त्।  
+त᳓मज᳓रेभि᳓र्वृ᳓षभिस्त᳓व स्वै᳓स्त᳓पा तपिष्ठ त᳓पसा त᳓पस्वान्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । नः॒ । सनु॑त्यः । अ॒भि॒ऽदास॑त् । अ॒ग्ने॒ । यः । अन्त॑रः । मि॒त्र॒ऽम॒हः॒ । व॒नु॒ष्यात् ।  
 तम् । अ॒जरे॑भिः । वृष॑ऽभिः । तव॑ । स्वैः । तप॑ । त॒पि॒ष्ठ॒ । तप॑सा । तप॑स्वान् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- स᳓नुत्यः (*RV*-2/3)
+- अभि-दा᳓सत् (*MS*-0/1, *TS*-0/5, *RV*-1/8, *TB*-1, *AV*-0/10, *VS-M*-0/3, *VS-K*-0/3)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- अ᳓न्तरः (*MS*-0/5, *TS*-0/5, *RV*-7/16, *TB*-1, *TK*-0/1, *AV*-0/4, *SB-M*-52/183, *SB-K*-47/168, *VS-M*-2/4, *VS-K*-2/4)
+- मित्र-महः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-1, *RV*-14, *TB*-2, *AV*-1, *VS-M*-1, *VS-K*-2)
+- अनु (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-182, *TS*-2, *RV*-1, *TB*-31, *TK*-5, *AV*-1, *SB-M*-463, *SB-K*-445, *VS-M*-2, *VS-K*-1)
+- स्या᳓त् (*MS*-85/91, *TS*-80/93, *RV*-12/54, *TB*-22, *AV*-2/4, *SB-M*-203/209, *SB-K*-200/210, *VS-M*-1/3, *VS-K*-0/2)
+- त᳓म् (*MS*-528/5550, *TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660)
+- अज᳓रेभिः᳓ → **अज᳓रेभिः** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MS*-0/15, *TS*-1/11, *RV*-4/62, *TB*-1/4, *AV*-1/17, *SB-M*-0/11, *SB-K*-0/11, *VS-M*-0/5, *VS-K*-0/5)
+- वृ᳓षभिः (*MS*-2, *RV*-14/16, *TB*-2, *AV*-2)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- सु᳓ (*MS*-29, *TS*-24, *RV*-265, *TB*-7, *AV*-42, *SB-M*-15, *SB-K*-31, *VS-M*-20, *VS-K*-21)
+- ऐः᳓ (*TB*-1, *AV*-1, *SB-M*-1, *SB-K*-3, *VS-M*-3, *VS-K*-3/4, *MS*-1)
+- त᳓पा (*MS*-1/21, *TS*-0/24, *RV*-0/5, *TB*-0/22, *TK*-0/24, *AV*-0/37, *SB-M*-0/64, *SB-K*-0/56, *VS-M*-0/7, *VS-K*-0/10)
+- तपिष्ठ (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-1, *RV*-1, *AV*-3, *VS-M*-1, *VS-K*-1)
+- त᳓पसा (*MS*-16/44, *TS*-15/46, *RV*-11/21, *TB*-8/43, *TK*-4/30, *AV*-43/88, *SB-M*-18/97, *SB-K*-20/89, *VS-M*-5/20, *VS-K*-5/22)
+- त᳓पस्वान् (*RV*-1, *AV*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -235,6 +265,15 @@ _________
 हे **अग्ने** **यः** शत्रुः **सनुत्यः** । सनुतरित्यन्तर्हितनाम । अन्तर्हिते देशे वर्तमानः सन् **नः** अस्मान् अभिदासत् उपक्षयति बाधते । **यः** च **अन्तर:** अभ्यन्तरवर्ती सन् हे **मित्रमहः** अनुकूलदीप्ते मित्राणां महयितर्वाग्ने **वनुष्यात्** हिंस्यात् **तम्** उभयविधं हे **तपिष्ठ** तप्तृतमाग्ने **तपसा** तेजसा **तपस्वान्** तेजस्वी त्वम् **अजरेभिः** जरारहितै: **वृषभि:** वर्षितृभिः वृष्टिहेतुभूतैः **तव** **स्वैः** स्वभूतैः असाधारणैस्तेजोभिः **तप** दह ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[527_4]** So T4; desgl. Ch, ohne Accent; W 1 आनु॰; Kap. S. 48, 13 वनुस्या। scheint mehr zu RV 6, 5, 4 वनुष्या᳓त् zu stimmen. (Thus T4; likewise Ch, without accent; W1 आनु॰; Kap. S. 48, 13 वनुस्या। seems to accord more with RV 6, 5, 4 वनुष्या᳓त्.)
+
+- **[527_5]** W भिस्तपस्वैस्तप; Kap. S. 48, 13 भिस्तपिस्वैस्तपा
+
+- **[527_6]** तपसा fehlt in Ch. (तपसा is missing in Ch)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -252,7 +291,10 @@ with your own unaging bulls [=flames], most scorching one, scorch him  with your
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/005/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 These two vss. are contrastively paired: each has a generalizing rel. clause describing the activities of a mortal -- harmful in 4ab, beneficial in 5ab -- while the 2nd hemistichs of each set out the results of such actions. The pairing is further emphasized by the phonological similarities of the oppositional verbs abhidā́sat ‘will assail’ (4a) and dádāśat (5b) ‘will ritually serve’.
+</details>
 
 </details>
 </div>
@@ -261,6 +303,12 @@ These two vss. are contrastively paired: each has a generalizing rel. clause des
 
 Agni, whoever secretly attacks us, the neighbour, thou with Mitra's might! who harms us,  
      Burn him with thine own Steers for ever youthful, burning with burning heat, thou fiercest burner.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever far away would assail us, O Agni, or whoever within would be hostile, O you who delight in friends,  
+burn him, most fiery one, with your own ageless bulls, fervent with heat!
 </details>
 
 <details><summary>Geldner</summary>

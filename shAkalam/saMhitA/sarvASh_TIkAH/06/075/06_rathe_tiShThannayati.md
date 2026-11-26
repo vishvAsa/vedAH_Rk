@@ -309,6 +309,11 @@ _________
 अत एव स्तुतिप्रकार उच्यते रश्मय एते प्रग्रहां सारथेर्मनोऽनुसृत्य पश्चाद्यच्छन्ति नियता भवन्ति, सारथेर्यथा मनोवृत्तिः पुरस्तात्प्रवर्तते तेनैव प्रकारेण पश्चादश्वानां नियमं कुर्वन्तीत्यर्थः।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[637_1]** So corr. Ch अभीषूणाम्महिमानम्मनायत ; vgl. RV 6, 75, 6. (Thus emended; Ch reads अभीषूणाम्महिमानम्मनायत; cf. RV 6, 75, 6)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -376,6 +381,12 @@ Standing on the chariot be guideth his steeds before him
 Wheresoever he desireth, good charioteer;  
 The might of the reins [2] do ye admire;  
 The reins behind obey the mind (of the driver).
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Standing on the chariot, the skilled charioteer guides the horses in front, wherever he desires.  
+Praise the greatness of the reins! The traces direct the mind from behind.
 </details>
 
 <details><summary>Geldner</summary>

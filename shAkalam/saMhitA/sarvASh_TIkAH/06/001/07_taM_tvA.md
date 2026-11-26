@@ -100,6 +100,12 @@ rocanéna ← rocaná- (nominal stem)
 दि॒वो अ॑ग्ने बृह॒ता रो॑च॒नेन॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+तं᳓ त्वा वयं᳓ सुध्यो᳙ न᳓व्यमग्ने सुम्नाय᳓व ईमहे देवय᳓न्तः।  
+त्वं᳓ वि᳓शो अनयो दी᳓द्यानो दिवो᳓ अग्रे बृहता᳓ रोचने᳓न
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । त्वा॒ । व॒यम् । सु॒ऽध्यः॑ । नव्य॑म् । अ॒ग्ने॒ । सु॒म्न॒ऽयवः॑ । ई॒म॒हे॒ । दे॒व॒ऽयन्तः॑ ।  
@@ -109,6 +115,27 @@ rocanéna ← rocaná- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 त᳓म् । त्वा । वय᳓म् । सु । धि᳓यः । न᳓व्यम् । अग्ने । सुम्नाय᳓वः । ईमहे । देव-य᳓न्तः । त्व᳓म् । वि᳓शः । अनयः । दी᳓द्यानः । दिवः᳓ । अग्ने । बृहता᳓ । रोचने᳓न ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त᳓म् (*MS*-528/5550, *TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- वय᳓म् (*MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- सु-ध्यः᳙ (*MS*-1/2, *RV*-5/10)
+- न᳓व्यम् (*MS*-1/3, *TS*-1/3, *RV*-27/46, *TB*-1/3, *AV*-2/5)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- सुम्नाय᳓वः (*TB*-1, *MS*-1)
+- ईमहे (*MS*-17, *TS*-11, *RV*-89, *TB*-3, *AV*-16, *SB-M*-3, *SB-K*-3, *VS-M*-10, *VS-K*-10)
+- देव-य᳓न्तः (*MS*-8/9, *RV*-26/29, *TB*-6/7, *AV*-9/10, *VS-M*-1, *VS-K*-1)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- वि᳓शः (*MS*-30, *TS*-23, *RV*-69, *TB*-21, *TK*-1, *AV*-25, *SB-M*-76, *SB-K*-92, *VS-M*-14, *VS-K*-13)
+- अनयः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *RV*-2, *TB*-1)
+- दी᳓द्यानः (*MS*-1, *TS*-1/2, *RV*-6/7, *TB*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- अग्रे (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-1, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-3, *MS*-2)
+- बृहता᳓ (*MS*-7, *TS*-4/5, *RV*-18, *TB*-7, *AV*-6, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-3)
+- रोचने᳓न (*MS*-3, *TS*-1, *RV*-4, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -283,6 +310,12 @@ The hapax cmpd. prétīṣaṇi- is curiously formed and its sense not entirely 
 
 Longing for bliss, pure-minded, God-devoted, Agni, we seek thee, such, meet to be lauded.  
      Thou, Agni, leddest forth our men to battle, refulgent with the heaven's exalted splendour.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To you shining in the dwelling may we sit near with bent knees, with homage.  
+To you, the new one, we with good thoughts, seeking benevolence, seeking the gods, pray, O Agni.
 </details>
 
 <details><summary>Geldner</summary>

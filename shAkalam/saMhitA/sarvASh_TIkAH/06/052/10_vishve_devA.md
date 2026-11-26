@@ -189,6 +189,12 @@ Who hearken to the call in due season,
 Find pleasure in this proper drink.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the All-gods, increasers of Ṛta, listening to invocations according to the seasons,  
+enjoy the fitting milk.
+</details>
+
 <details><summary>Geldner</summary>
 
 Alle Götter, die die Wahrheit mehren, die zu ihren Zeiten auf die Ladungen hören, sollen sich die ihnen zukommende Milch schmecken lassen.

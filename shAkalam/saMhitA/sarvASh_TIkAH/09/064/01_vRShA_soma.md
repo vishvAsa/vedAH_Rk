@@ -75,10 +75,30 @@ vŕ̥ṣā ← vŕ̥ṣan- (nominal stem)
 वृषा॒ धर्मा॑णि दधिषे ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वृ᳓षा सोम द्युमं᳓ असि वृ᳓षा देव वृ᳓षव्रतः  
+वृ᳓षा ध᳓र्माणि दधिषे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वृषा॑ । सो॒म॒ । द्यु॒ऽमान् । अ॒सि॒ । वृषा॑ । दे॒व॒ । वृष॑ऽव्रतः ।  
 वृषा॑ । धर्मा॑णि । द॒धि॒षे॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वृ᳓षा (*TS*-21/51, *RV*-156/366, *TB*-13/33, *TK*-1, *AV*-39/71, *SB-M*-64/80, *SB-K*-60/76, *VS-M*-7/30, *VS-K*-6/26, *KS*-6/21)
+- सोम (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-50, *RV*-225, *TB*-24, *AV*-10, *SB-M*-19, *SB-K*-15, *VS-M*-25, *VS-K*-14, *KS*-16)
+- द्युम᳓न् (*MW*)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-341, *KS*-247)
+- वृ᳓षा (*TS*-21/51, *RV*-156/366, *TB*-13/33, *TK*-1, *AV*-39/71, *SB-M*-64/80, *SB-K*-60/76, *VS-M*-7/30, *VS-K*-6/26, *KS*-6/21)
+- देव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-57, *RV*-123, *TB*-28, *TK*-2, *AV*-24, *SB-M*-47, *SB-K*-34, *VS-M*-45, *VS-K*-36, *KS*-26)
+- वृ᳓ष-व्रतः (*TS*-2, *RV*-2, *KS*-1)
+- वृ᳓षा (*TS*-21/51, *RV*-156/366, *TB*-13/33, *TK*-1, *AV*-39/71, *SB-M*-64/80, *SB-K*-60/76, *VS-M*-7/30, *VS-K*-6/26, *KS*-6/21)
+- ध᳓र्माणि (*TS*-3/10, *RV*-8/49, *TB*-0/2, *AV*-4/17, *SB-M*-1/12, *SB-K*-1/14, *VS-M*-2/14, *VS-K*-2/19, *KS*-1/4)
+- दधिषे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-20, *TB*-1, *AV*-4, *VS-M*-3, *VS-K*-3, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -211,6 +231,18 @@ Soma, thou art a splendid Steer, a Steer, O God, with steerlike sway:
 Thou art strong, O Soma, and bright;  
 Thou art strong, O god, and strong thy rule;  
 Strong laws dost thou establish.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A bull, O Soma, brilliant art thou; a bull, O god, of bull-like vows;  
+a bull, thou upholdest the ordinances.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+A bull, O Soma, you are brilliant; a bull, O god, of bullish vows;  
+as a bull you sustain ordinances.
 </details>
 
 <details><summary>Geldner</summary>

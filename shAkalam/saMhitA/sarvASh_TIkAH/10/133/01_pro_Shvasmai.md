@@ -113,10 +113,44 @@ jyākā́ḥ ← jyāká- (nominal stem)
 अ॒भीके॑ चिदु लोक॒कृत्सं॒गे स॒मत्सु॑ वृत्र॒हास्माकं॑ बोधि चोदि॒ता नभ॑न्तामन्य॒केषां॑ ज्या॒का अधि॒ धन्व॑सु ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+प्रो᳓ ष्व् अ᳙स्मै पुरोरथ᳓म् इ᳓न्द्राय शूष᳓म् अर्चत  
+अभी᳓के चिद् उलोककृ᳓त् सङ्गे᳓ सम᳓त्सु वृत्रहा᳓  
+अस्मा᳓कं बोधि चोदिता᳓ न᳓भन्ताम् अन्यके᳓षाम्  
+ज्याका᳓ अ᳓धि ध᳓न्वसु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्रो इति॑ । सु । अ॒स्मै॒ । पु॒रः॒ऽर॒थम् । इन्द्रा॑य । शू॒षम् । अ॒र्च॒त॒ ।  
 अ॒भीके॑ । चि॒त् । ऊं॒ इति॑ । लो॒क॒ऽकृत् । स॒म्ऽगे । स॒मत्ऽसु॑ । वृ॒त्र॒ऽहा । अ॒स्माक॑म् । बो॒धि॒ । चो॒दि॒ता । नभ॑न्ताम् । अ॒न्य॒केषा॑म् । ज्या॒काः । अधि॑ । धन्व॑ऽसु ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प्रो᳓ (*TS*-1, *RV*-9, *TB*-1, *AV*-2, *SB-M*-1, *SB-K*-2)
+- ष्व् (मूल-पाठः)
+- अ᳙स्मै (*RV*-5, *TB*-106, *TK*-1, *AV*-4, *SB-M*-6, *SB-K*-6, *VS-K*-2, *KS*-1)
+- पुरः-रथ᳓म् (*TS*-1, *RV*-2, *AV*-1)
+- इ᳓न्द्राय (*TS*-141/497, *RV*-210/1345, *TB*-54/363, *TK*-0/8, *AV*-40/606, *SB-M*-105/535, *SB-K*-87/509, *VS-M*-104/388, *VS-K*-77/358, *KS*-38/189)
+- शूष᳓म् (*TS*-1, *RV*-12/23, *TK*-0/2, *AV*-5/6, *VS-M*-1/2, *VS-K*-1/2)
+- अर्चतः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- अभी᳓के (*TS*-2, *RV*-22/23, *AV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-22, *KS*-25)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6, *KS*-77)
+- लोक-कृ᳓त् (*TS*-1, *RV*-2, *TB*-1, *AV*-1/21)
+- सङ्गे᳓ (*TS*-1, *VS-K*-1)
+- सम᳓त्सु (*TS*-3/5, *RV*-44, *TB*-3, *AV*-6, *SB-M*-0/7, *SB-K*-0/8, *VS-M*-4, *VS-K*-4, *KS*-1/2)
+- वृत्र-हाः᳓ (*TS*-0/10, *RV*-0/57, *TB*-0/7, *AV*-0/21, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/5, *VS-K*-0/4, *KS*-0/3)
+- अस्मा᳓कम् (*TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/314, *VS-K*-14/265, *KS*-12/242)
+- बोधि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-5, *RV*-44, *TB*-2, *AV*-4, *SB-M*-6, *SB-K*-2, *VS-M*-7, *VS-K*-6, *KS*-3)
+- चोदिता᳓ (*TS*-1, *RV*-6, *AV*-1)
+- न᳓भन्ताम् (*TS*-2, *RV*-40, *AV*-2)
+- अन्यके᳓षाम् (*TS*-1/2, *RV*-6/41, *AV*-3)
+- ज्याकाः᳓ (*TS*-1, *RV*-6, *AV*-3)
+- अ᳓धि (*TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-56, *VS-K*-51, *KS*-47)
+- ध᳓न्वसु (*TS*-1, *RV*-8, *AV*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -300,6 +334,14 @@ combat and conflicts, become our inciter.
 
 SING strength to Indra that shall set his chariot in the foremost place.  
      Giver of room in closest fight, slayer of foes in shock of war, be thou our great encourager. Let the weak bowstrings break upon the bows of feeble enemies.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sing forth powerfully to this Indra, whose chariot goes first;  
+even in close fight he makes wide room, slayer of Vṛtra in the clash of battles.  
+Be our inciter! Let [the bowstrings] of others burst,  
+the petty bowstrings upon their bows!
 </details>
 
 <details><summary>Geldner</summary>

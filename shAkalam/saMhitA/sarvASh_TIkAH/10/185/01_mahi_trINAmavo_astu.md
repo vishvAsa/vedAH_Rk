@@ -66,6 +66,18 @@ váruṇasya ← váruṇa- (nominal stem)
 दु॒रा॒धर्षं॒ वरु॑णस्य ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+म᳓हि त्रीणा᳓म् अ᳓वो ऽस्तु द्युक्षं᳓ मित्र᳓स्यार्यम्णः᳓  
+दुराध᳓र्षँ व᳓रुणस्य
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+म᳓हि त्रीणा᳓म᳓वोऽस्तु द्युक्षं᳓ मित्रस्यार्यम्णः᳓।  
+दुराध᳓र्षं वरुणस्य
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 महि॑ । त्री॒णाम् । अवः॑ । अ॒स्तु॒ । द्यु॒क्षम् । मि॒त्रस्य॑ । अ॒र्य॒म्णः ।  
@@ -80,6 +92,32 @@ váruṇasya ← váruṇa- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 महि॑। त्री॒णाम्। अवः॑। अ॒स्तु॒। द्यु॒क्षम्। मि॒त्रस्य॑। अ॒र्य॒म्णः। दु॒रा॒धर्ष॒मिति॑ दुःऽआ॒धर्ष॑म्। वरु॑णस्य। २३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- म᳓हि (*TS*-19/35, *RV*-118/255, *TB*-9/39, *TK*-0/5, *AV*-10/40, *SB-M*-9/40, *SB-K*-11/34, *VS-M*-14/43, *VS-K*-12/33, *KS*-8/18)
+- त्रीणा᳓म् (*TS*-0/235, *RV*-1/156, *TB*-0/101, *TK*-0/17, *AV*-0/86, *SB-M*-1/420, *SB-K*-1/388, *VS-M*-1/46, *VS-K*-1/45, *KS*-1/32)
+- अ᳓वः (*TS*-3, *RV*-75, *TB*-3, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-3, *KS*-4)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-58, *VS-K*-36, *KS*-52)
+- द्युक्ष᳓म् (*RV*-9/15, *AV*-3/5, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- मित्र᳓स्य (*TS*-17/68, *RV*-38/284, *TB*-8/48, *TK*-0/1, *AV*-5/52, *SB-M*-10/71, *SB-K*-11/74, *VS-M*-14/44, *VS-K*-17/50, *KS*-5/26)
+- अर्यम्णः᳓ (*TS*-1/6, *RV*-6/9, *TB*-4/6, *AV*-3, *SB-M*-3/4, *SB-K*-2/3, *VS-M*-2, *VS-K*-3, *KS*-1)
+- दुः-आध᳓र्षम् (*TS*-1, *RV*-2, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- व᳓रुणस्य (*TS*-33/118, *RV*-58/308, *TB*-20/85, *TK*-0/1, *AV*-42/113, *SB-M*-29/153, *SB-K*-26/152, *VS-M*-26/84, *VS-K*-25/82, *KS*-20/72)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- म᳓हि (*MS*-28/58, *TS*-19/35, *RV*-118/255, *TB*-9/39, *TK*-0/5, *AV*-10/40, *SB-M*-9/40, *SB-K*-11/34, *VS-M*-14/43, *VS-K*-12/33)
+- त्रीणा᳓म् (*MS*-2/153, *TS*-0/235, *RV*-1/156, *TB*-0/101, *TK*-0/17, *AV*-0/86, *SB-M*-1/420, *SB-K*-1/388, *VS-M*-1/46, *VS-K*-1/47)
+- अ᳓वः (*MS*-6, *TS*-3, *RV*-75, *TB*-3, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-3)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-111, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-60, *VS-K*-39)
+- द्युक्ष᳓म् (*MS*-1, *RV*-9/15, *AV*-3/5, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- मित्रस्य → **मित्र᳓स्य** (स्वर-लोपः, *MS*-29/111, *TS*-17/68, *RV*-38/284, *TB*-8/48, *TK*-0/1, *AV*-5/52, *SB-M*-10/71, *SB-K*-11/74, *VS-M*-14/44, *VS-K*-17/51)
+- अर्यम्णः᳓ (*MS*-3/5, *TS*-1/6, *RV*-6/9, *TB*-4/6, *AV*-3, *SB-M*-3/4, *SB-K*-2/3, *VS-M*-2, *VS-K*-3)
+- दुः-आध᳓र्षम् (*MS*-2, *TS*-1, *RV*-2, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- वरुणस्य → **व᳓रुणस्य** (स्वर-लोपः, *MS*-47/226, *TS*-33/118, *RV*-58/308, *TB*-20/85, *TK*-0/1, *AV*-42/113, *SB-M*-29/153, *SB-K*-26/152, *VS-M*-26/84, *VS-K*-25/84)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -215,6 +253,13 @@ _________
 "घुक्षं घुमन्ति द्रव्याणि यस्मिन् पालने क्षियन्ति निवसन्ति तद् द्युक्षम् । दुराधर्षम् अन्यैर्धर्षयितुमशक्यं दुराधर्षम् । क्षं दुराधर्षमवनम् । मित्रादि-सूर्यकम् अवनम् अस्माकम् अस्तु ॥ २३॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[65_3]** Die erste Hälfte dieses Kapitelś collat. mit T6 fol. 9, Brl fol. 8, W1; accentuirt nach T6 und Brl. (The first half of this chapter collated with T6 fol. 9, Brl fol. 8, W1; accented after T6 and Brl.)
+
+- **[65_4]** So corr. T6 and Brl accentuiren दुरा᳓धर्षं (Thus emended T6 and Brl accentuiren दुरा᳓धर्षं)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -238,6 +283,12 @@ GREAT, unassailable must he the heavenly favour of' Three Gods,
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Great, heavenly, unassailable, ours be the favour of the Three, Aryaman, Mitra, Varuna.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Great be the celestial aid of the three, Mitra and Aryaman,  
+unassailable [that] of Varuṇa.
 </details>
 
 <details><summary>Geldner</summary>

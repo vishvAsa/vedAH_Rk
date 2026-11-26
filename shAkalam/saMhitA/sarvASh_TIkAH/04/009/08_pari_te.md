@@ -81,6 +81,12 @@ yéna ← yá- (pronoun)
 येन॒ रक्ष॑सि दा॒शुषः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+परि ते दृडभो रथोऽस्माँ अश्नोतु विश्वतः।  
+येन रक्षसि दाशुषः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 परि॑ । ते॒ । दुः॒ऽदभः॑ । रथः॑ । अ॒स्मान् । अ॒श्नो॒तु॒ । वि॒श्वतः॑ ।  
@@ -95,6 +101,20 @@ yéna ← yá- (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 परि॑। ते॒। दू॒डभः॑। दु॒र्दभ॒ऽइति॑ दुः॒ऽदभः॑। रथः॑। अ॒स्मान्। अ॒श्नो॒तु॒। वि॒श्वतः॑। येन॑। रक्ष॑सि। दा॒शुषः॑।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- दृ᳓डभो (अनाम्नातम् (अनुमानम्))
+- र᳓थः (*MS*-17/57, *TS*-13/36, *RV*-83/393, *TB*-16/36, *TK*-2/3, *AV*-10/57, *SB-M*-16/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-5/13)
+- अस्मा᳓न् (*MS*-50/641, *TS*-46/565, *RV*-93/1308, *TB*-12/270, *TK*-2/66, *AV*-119/1252, *SB-M*-51/723, *SB-K*-56/728, *VS-M*-32/315, *VS-K*-25/274)
+- अश्नोतु (*MS*-1, *RV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- विश्व᳓तः (*MS*-24, *TS*-24, *RV*-65, *TB*-2, *TK*-1, *AV*-24, *SB-M*-8, *SB-K*-7, *VS-M*-16, *VS-K*-16)
+- ये᳓न (*MS*-36/3763, *TS*-36/3385, *RV*-119/4011, *TB*-18/1735, *TK*-5/227, *AV*-103/3120, *SB-M*-101/8327, *SB-K*-96/8438, *VS-M*-23/651, *VS-K*-22/609)
+- र᳓क्षसि (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1, *RV*-3, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-4)
+- दाशु᳓षः (*MS*-6/24, *TS*-2/18, *RV*-23/139, *TB*-0/6, *AV*-1/21, *SB-M*-1/7, *SB-K*-1/7, *VS-M*-4/12, *VS-K*-6/13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -294,6 +314,12 @@ the chariot by which you guard the pious.
 
 May thine inviolable car, wherewith thou guardest those who give,  
      Come near to us from every side.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May your invincible chariot reach around us on all sides,  
+with which you protect the worshipers.
 </details>
 
 <details><summary>Oldenberg</summary>

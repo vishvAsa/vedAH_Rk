@@ -80,10 +80,33 @@ vā́ryam ← vā́rya- (nominal stem)
 सर॑स्वतीं सु॒कृतो॑ अह्वयन्त॒ सर॑स्वती दा॒शुषे॒ वार्यं॑ दात् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सरस्वतीं देवयन्तो हवन्ते सरस्वतीमध्वरे तायमाने।  
+सरस्वतीँ सुकृतो अह्वयन्त सरस्वती दाशुषे वार्यं दात्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सर॑स्वतीम् । दे॒व॒ऽयन्तः॑ । ह॒व॒न्ते॒ । सर॑स्वतीम् । अ॒ध्व॒रे । ता॒यमा॑ने ।  
 सर॑स्वतीम् । सु॒ऽकृतः॑ । अ॒ह्व॒य॒न्त॒ । सर॑स्वती । दा॒शुषे॑ । वार्य॑म् । दा॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓रस्वतीम् (*MS*-13/122, *TS*-5/45, *RV*-9/54, *TB*-7/87, *AV*-10/32, *SB-M*-5/63, *SB-K*-3/59, *VS-M*-10/105, *VS-K*-4/94)
+- देव-य᳓न्तः (*MS*-8/9, *RV*-26/29, *TB*-6/7, *AV*-9/10, *VS-M*-1, *VS-K*-1)
+- हवन्ते (समानान्तर-पाठः (RV), *MS*-2, *TS*-2, *RV*-18, *AV*-6)
+- स᳓रस्वतीम् (*MS*-13/122, *TS*-5/45, *RV*-9/54, *TB*-7/87, *AV*-10/32, *SB-M*-5/63, *SB-K*-3/59, *VS-M*-10/105, *VS-K*-4/94)
+- अध्वरे᳓ (*MS*-7/44, *TS*-2/27, *RV*-68/196, *TB*-5/25, *TK*-2, *AV*-7/22, *SB-M*-7/71, *SB-K*-9/68, *VS-M*-3/29, *VS-K*-2/22)
+- ताय᳓माने (*RV*-1, *AV*-2, *SB-M*-1/11, *SB-K*-0/11)
+- स᳓रस्वतीम् (*MS*-13/122, *TS*-5/45, *RV*-9/54, *TB*-7/87, *AV*-10/32, *SB-M*-5/63, *SB-K*-3/59, *VS-M*-10/105, *VS-K*-4/94)
+- सु-कृ᳓तः (*MS*-10/15, *TS*-7/14, *RV*-14/36, *TB*-2/6, *AV*-12/32, *SB-M*-2/7, *SB-K*-2/6, *VS-M*-1/5, *VS-K*-1/5)
+- अह्वयन्त (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-2, *RV*-1, *AV*-9, *SB-M*-3, *SB-K*-3)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- दाशु᳓षे (*MS*-18/24, *TS*-16/18, *RV*-116/139, *TB*-6, *AV*-20/21, *SB-M*-6/7, *SB-K*-6/7, *VS-M*-8/12, *VS-K*-7/13)
+- वा᳓र्यम् (*MS*-5/11, *TS*-0/3, *RV*-26/54, *TB*-1/5, *TK*-1, *AV*-4/8, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/5, *VS-K*-0/5)
+- दात् (समानान्तर-पाठः (RV), *MS*-1, *RV*-12, *TB*-1, *AV*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -192,6 +215,11 @@ _________
 **देवयन्तः** देवान् यष्टुं स्तोतुं च कामयमाना यजमानाः **सरस्वतीम्** एतन्नामिकां मध्यमस्थानदेवतां **हवन्ते** कर्मावयवत्वाय आह्वयन्ति । तथा **तायमाने** स्तुतिभिर्हविभिश्च विस्तीर्यमाणे **अध्वरे** यज्ञे **सरस्वतीं** यजन्तीति शेषः। **सुकृतः** पुण्यकर्माणः **सरस्वतीम्** **अह्वयन्त** फलप्रदानाय ह्वयन्ते । यत एवमतः कारणात् **सरस्वती** देवी **दाशुषे** हवींषि दत्तवते यजमानाय **वार्यं** वरणीयं कर्मफलं **दात्** प्रयच्छतु ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[259_4]** Ch मधुरे
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -210,6 +238,12 @@ Sarasvatī did those of good action invoke. Sarasvatī will give a thing of  val
 
 The pious call Sarasvati, they worship Sarasvati while sacrifice proceedeth.  
      The pious called Sarasvati aforetime. Sarasvati send bliss to him who giveth.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+God-seekers invoke Sarasvatī while the sacrifice is stretched out;  
+the doers of good deeds invoked Sarasvatī; may Sarasvatī grant desirable wealth to the giver.
 </details>
 
 <details><summary>Geldner</summary>

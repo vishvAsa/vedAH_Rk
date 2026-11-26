@@ -85,6 +85,12 @@ vā́ryam ← vā́rya- (nominal stem)
 श्रेष्ठ॑न्नो धेहि॒ वार्य॑म् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+घृत᳓वन्तः पावक ते स्तोका᳓श्श्चोतन्ति मे᳓दसः।  
+स्व᳓धर्मन्देव᳓वीतये श्रे᳓ष्ठं नो धेहि वा᳓र्यम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 घृ॒तऽव॑न्तः । पा॒व॒क॒ । ते॒ । स्तो॒काः । श्चो॒त॒न्ति॒ । मेद॑सः ।  
@@ -94,6 +100,22 @@ vā́ryam ← vā́rya- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 घृत᳓वन्तः । पावक । ते । स्तोकाः᳓ । श्चोतन्ति । मे᳓दसः । स्व᳓-धर्मन् । देव᳓-वीतये । श्रे᳓ष्ठम् । नः । धेहि । वा᳓र्यम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- घृत᳓वन्तः (*MS*-1/4, *TS*-0/4, *RV*-2/11, *TB*-1/2, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-0/1, *VS-K*-0/1)
+- पावक (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-8, *TS*-7, *RV*-19, *TB*-1, *TK*-1, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-3, *VS-K*-3)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- स्तोकाः᳓ (*MS*-8/19, *TS*-1/5, *RV*-3/6, *TB*-4/11, *AV*-2/4, *SB-M*-3/20, *SB-K*-2/15, *VS-M*-0/4, *VS-K*-0/4)
+- श्चोतन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *RV*-5, *TB*-2, *AV*-1)
+- मे᳓दसः (*MS*-5/10, *TS*-0/1, *RV*-3/5, *TB*-6/12, *AV*-0/2, *SB-M*-2/8, *SB-K*-1/10, *VS-M*-5/11, *VS-K*-4/11)
+- स्व᳓-धर्मन् (*MS*-1, *RV*-1, *TB*-1)
+- देव᳓-वीतये (*MS*-3/7, *TS*-2/3, *RV*-22/38, *TB*-2/3, *AV*-1, *SB-M*-4, *SB-K*-5, *VS-M*-4, *VS-K*-3)
+- श्रे᳓ष्ठम् (*MS*-3/9, *TS*-1/9, *RV*-15/31, *TB*-4/8, *AV*-5/8, *SB-M*-4/41, *SB-K*-3/42, *VS-M*-0/2, *VS-K*-0/2)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- धेहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-50, *TS*-34, *RV*-63, *TB*-26, *TK*-1, *AV*-91, *SB-M*-27, *SB-K*-21, *VS-M*-30, *VS-K*-19)
+- वा᳓र्यम् (*MS*-5/11, *TS*-0/3, *RV*-26/54, *TB*-1/5, *TK*-1, *AV*-4/8, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/5, *VS-K*-0/5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -218,6 +240,13 @@ O you on your own foundation, set in place for us the best thing, the  thing to 
 
 For thee, O Purifier, flow the drops of fatness rich in oil.  
      After thy wont vouchsafe to us the choicest boon that Gods may feast.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Hotṛ, seated first, eat of the drops of fat and ghee, o Agni!  
+Rich in ghee, o purifier, your drops of fat drip;  
+in your own nature, for the feast of the gods, place the best treasure for us!
 </details>
 
 <details><summary>Oldenberg</summary>

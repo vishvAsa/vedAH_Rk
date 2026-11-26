@@ -141,6 +141,11 @@ _________
 हे अग्ने **हविष्कृतः** यजमानार्थं **गिरः** स्तुतयः **जामयः** स्वसार इव **देदिशतीः** तव गुणान् दिशन्त्यः **त्वा** त्वामुपतिष्ठन्ते । **वायोरनीके** समीपे त्वां समेधयन्त्यः **अस्थिरन्** अतिष्ठंश्च ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[613_11]** Vgl. RV 8, 91, 13. (Cf. RV 8, 91, 13)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -171,6 +176,12 @@ of the intens. participle. The question then is the referent of jāmáyaḥ ‘k
 
 Still turning to their aim in thee, the oblation-bearer's sister hymns  
      Have come to thee before the wind.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unto you have the sister songs, assigning [places], makers of oblations,  
+stood firm at the front of the wind.
 </details>
 
 <details><summary>Geldner</summary>

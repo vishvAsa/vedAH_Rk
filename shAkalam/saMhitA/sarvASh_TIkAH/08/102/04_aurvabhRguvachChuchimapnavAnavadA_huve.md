@@ -67,6 +67,12 @@ samudrávāsasam ← samudrávāsas- (nominal stem)
 अ॒ग्निँ स॑मु॒द्रवा॑ससम् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+और्वभृगुव᳓च्छु᳓चिमप्नवानव᳓दा᳓हुवे।  
+अग्निँ समुद्र᳓वाससम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 औ॒र्व॒भृ॒गु॒ऽवत् । शुचि॑म् । अ॒प्न॒वा॒न॒ऽवत् । आ । हु॒वे॒ ।  
@@ -76,6 +82,16 @@ samudrávāsasam ← samudrávāsas- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 औ॒र्व॒भृ॒गु॒वदित्यौ॑र्वभृगु-वत् । शुचि॑म् । अ॒प्न॒वा॒न॒वदिप्न॑वानवत् । एति॑ । हु॒वे॒ ॥ अ॒ग्निम् । स॒मु॒द्रवा॑सस॒मिति॑ समु॒द्र-वा॒स॒स॒म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- और्वभृगुव᳓त् (*TS*-1, *RV*-1)
+- शु᳓चिम् (*MS*-8/45, *TS*-3/33, *RV*-16/113, *TB*-5/23, *AV*-2/25, *SB-M*-0/23, *SB-K*-0/20, *VS-M*-2/14, *VS-K*-2/14)
+- अप्नवानव᳓त् (*MS*-1, *RV*-1)
+- आ᳓हुवे (*MS*-2)
+- अग्निम् → **अग्नि᳓म्** (स्वर-लोपः, *MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- समुद्र᳓-वाससम् (*MS*-3, *TS*-3, *RV*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -164,6 +180,11 @@ _________
 प्रथमा । 'शुचिम्' इति प्रथमपादान्तः । और्वाप्नवानौ भार्गवावृषी । यथोक्तं भृगूणां पञ्चार्षेयप्रवरे - 'जमदग्निवदौर्ववदप्नवानवच्च्यवनवद्भृगुवत्' इति । और्वश्चासौ भृगुश्च और्वभृगुः । भृगुरिति भार्गवोऽभेदेनोच्यते । यथा और्वो भार्गवोग्निमाह्वयत् यथा चाप्नवानोग्निं तद्वदहमपि अग्निं शुचिं समुद्रवाससं आह्वये आह्वयामि आजुहोमि वा । शपो लुक् । समुद्रे वासो यस्य स समुद्रवासाः । अन्तरिक्षे वसतीति के चित् । अपामाच्छादयितेत्यन्ये ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[613_8]** Brl प्नवनव᳓; vgl. RV 8, 91, 4. (Brl प्नवनव᳓; cf. RV 8, 91, 4.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -195,6 +216,12 @@ As Aurva Bhrgu used, as Apnavana used, I call the pure
 Like Aurva, like Bhrgu, like Apnavana,  
 I summon the pure  
 Agni who is clothed with the sea.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Like Aurva and Bhṛgu, like Apnavāna, I call upon the pure one,  
+Agni, ocean-clad.
 </details>
 
 <details><summary>Geldner</summary>

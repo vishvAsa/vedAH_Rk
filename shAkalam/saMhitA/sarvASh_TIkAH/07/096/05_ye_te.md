@@ -69,10 +69,30 @@ tébhiḥ ← sá- ~ tá- (pronoun)
 तेभि॑र्नोऽवि॒ता भ॑व ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ये ते सरस्वन्नूर्मयो मधुमन्तो घृतश्च्युतः।  
+तेभिर्नो ऽविता भव
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ये । ते॒ । स॒र॒स्वः॒ । ऊ॒र्मयः॑ । मधु॑ऽमन्तः । घृ॒त॒ऽश्चुतः॑ ।  
 तेभिः॑ । नः॒ । अ॒वि॒ता । भ॒व॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- स᳓रस्वन् (*MW*)
+- ऊर्म᳓यः (*MS*-3/14, *TS*-2/10, *RV*-15/70, *TB*-0/4, *AV*-2/6, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-1/10, *VS-K*-1/12)
+- म᳓धुमन्तः (*MS*-2/7, *TS*-1/4, *RV*-12/37, *TB*-0/2, *AV*-3/5, *SB-M*-1/4, *SB-K*-1/4, *VS-M*-1/5, *VS-K*-1/3)
+- घृत-श्च्यु᳓तः (*MW*, *MS*-2, *VS-M*-1, *VS-K*-1)
+- ते᳓भिः (*MS*-9/5550, *TS*-6/4761, *RV*-28/3136, *TB*-3/2709, *TK*-0/363, *AV*-12/3165, *SB-M*-0/20457, *SB-K*-0/20018, *VS-M*-2/780, *VS-K*-1/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- अविता᳓ (*MS*-6/8, *TS*-2/3, *RV*-38/42, *AV*-7/10, *SB-M*-1, *SB-K*-1, *VS-M*-5/6, *VS-K*-5/6)
+- भ᳓व (*MS*-4, *TS*-6/7, *RV*-38, *TB*-1, *AV*-4, *SB-M*-8, *SB-K*-14, *VS-M*-7/8, *VS-K*-7/8)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -174,6 +194,12 @@ The third pāda of this vs., which is the 2nd vs. in the tṛca addressed to Sar
 
 Be thou our kind protector, O Sarasvan, with those waves of thine  
      Laden with sweets and dropping oil.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those waves of yours, O Sarasvat, that are sweet and drop with ghee,  
+with them be our helper.
 </details>
 
 <details><summary>Geldner</summary>

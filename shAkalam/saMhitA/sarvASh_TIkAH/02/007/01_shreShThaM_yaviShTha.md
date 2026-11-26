@@ -69,10 +69,30 @@ váso ← vásu- (nominal stem)
 वसो॑ पुरु॒स्पृहं॑ र॒यिम् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+श्रे᳓ष्ठँ यविष्ठ भारता᳓ग्ने द्युम᳓न्तम् आ᳓भर  
+व᳓सो पुरुस्पृ᳓हँ रयि᳓म्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 श्रेष्ठ॑म् । य॒वि॒ष्ठ॒ । भा॒र॒त॒ । अग्ने॑ । द्यु॒ऽमन्त॑म् । आ । भ॒र॒ ।  
 वसो॒ इति॑ । पु॒रु॒ऽस्पृह॑म् । र॒यिम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- श्रे᳓ष्ठम् (*TS*-1/9, *RV*-15/31, *TB*-4/8, *AV*-5/8, *SB-M*-4/41, *SB-K*-3/42, *VS-M*-0/2, *VS-K*-0/2, *KS*-1/4)
+- यविष्ठ (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-9, *RV*-28, *TB*-5, *TK*-1, *AV*-2, *SB-M*-5, *SB-K*-5, *VS-M*-5, *VS-K*-7, *KS*-7)
+- भारता᳓ (मूल-पाठः)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- द्युम᳓न्तम् (*TS*-4/5, *RV*-16/20, *TB*-1, *AV*-2/5, *SB-M*-4, *SB-K*-4, *VS-M*-2, *VS-K*-2, *KS*-2)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- भर (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-19, *RV*-130, *TB*-5, *TK*-1, *AV*-31, *SB-M*-4, *SB-K*-2, *VS-M*-11, *VS-K*-6, *KS*-6)
+- व᳓सो (*TS*-1, *RV*-10, *TB*-3, *TK*-1, *AV*-2, *SB-M*-1, *SB-K*-27, *VS-M*-7, *VS-K*-4, *KS*-1)
+- पुरु-स्पृ᳓हम् (*TS*-1, *RV*-14/23, *VS-M*-1, *KS*-0/1)
+- रयि᳓म् (*TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-24/35, *VS-K*-22/32, *KS*-17/27)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -199,6 +219,12 @@ Bring us, O youngest god, Bhârata 1, Agni, the best, resplendent, much-desired 
 O Agni, of the Bharatas, youngest,  
 Bear to us excellent, glorious wealth, [3]  
 O bright one, wealth which many desire.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O youngest, Bhārata, Agni, bring the best,  
+bright, much-desired wealth, O Vasu.
 </details>
 
 <details><summary>Geldner</summary>

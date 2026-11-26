@@ -174,6 +174,11 @@ Who feedeth on bull and cow,
 The disposer, backed with Soma.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+To him whose food is oxen, whose food is barren cows, who has Soma on his back, the wise,
+</details>
+
 <details><summary>Geldner</summary>
 
 Ihm, des Speise Ochsen und unfruchtbare Kühe sind, der Soma auf dem Rücken trägt, dem Meister, dem Agni wollen wir mit Lobgesängen dienen.

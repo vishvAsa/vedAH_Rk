@@ -72,6 +72,12 @@ ráṇe-raṇe ← ráṇa- (nominal stem)
 ध॒न॒ञ्ज॒यो रणे॑रणे  ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उत᳓ ब्रुवन्तु जन्त᳓वा उ᳓द् अग्नि᳓र् वृत्रहा᳓जनि  
+धनंजयो᳓ र᳓णेरणे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒त । ब्रु॒व॒न्तु॒ । ज॒न्तवः॑ । उत् । अ॒ग्निः । वृ॒त्र॒ऽहा । अ॒ज॒नि॒ ।  
@@ -81,6 +87,20 @@ ráṇe-raṇe ← ráṇa- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 उ॒त । ब्रु॒व॒न्तु॒ । ज॒न्तवः॑ । उदिति॑ । अ॒ग्निः । वृ॒त्र॒हेति॑ वृत्र-हा । अ॒ज॒नि॒ ॥ ध॒न॒ञ्ज॒य इति॑ धनं-ज॒यः । रणे॑रण॒ इति॒ रणे॑-र॒णे॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उत᳓ (*TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-70, *KS*-55)
+- ब्रुवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-4, *TB*-1, *AV*-3, *VS-M*-1, *VS-K*-1, *KS*-3)
+- जन्तो᳓ (*RV*-4, *AV*-1)
+- आ (गतिर्गतौ पा॰ ८.१.७०, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-7, *VS-K*-11, *KS*-122)
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-79, *KS*-81)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-122/322, *VS-K*-113/339, *KS*-111/256)
+- वृत्र-हा᳓ (*TS*-10/14, *RV*-57/67, *TB*-7/9, *AV*-21/23, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-5/7, *VS-K*-4/6, *KS*-3/4)
+- जनि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *KS*-1)
+- धनं-जयः᳓ (*TS*-1/2, *SB-M*-0/1, *SB-K*-0/1, *KS*-2)
+- र᳓णे-रणे (*TS*-3, *RV*-2, *AV*-2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -171,6 +191,11 @@ _________
 उत अपि च जन्तवः मनुष्या ऋत्विगादयः ब्रुवन्तु स्तुतिं कुर्वन्तु । अयमग्निः वृत्रहा पापादेर्हन्ता उदजनि धनंजयो रणेरणे ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[102_10]** T6 उ᳓दग्नेर्वृº
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -201,6 +226,19 @@ And let men say, Agni is born, e'en he who slayeth Vrtra, he
 Let men say too,  
 'Agni hath been born, slayer of Vrtra,  
 Winning booty in every conflict.'
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And let the creatures say: "Agni has arisen as Vṛtra-slayer,  
+winning booty in battle after battle!"
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+And let the creatures say: “Agni, the Vṛtra-slayer, has arisen,  
+winning wealth in every contest!”  
+Mine, O Agni,
 </details>
 
 <details><summary>Oldenberg</summary>

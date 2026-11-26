@@ -92,10 +92,36 @@ tarema ← √tr̥̄- 1 (root)
 इ॒त्था गृ॒णन्तो॑ म॒हिन॑स्य॒ शर्धो॒ऽपो न ना॒वा दु॑रि॒ता त॑रेम ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+नू᳓ न इन्द्रावरुणा गृणाना᳓ पृङ्क्तं᳓ सौश्रवसा᳓य देवा।  
+इत्था᳓ गृण᳓न्तो महि᳓नस्य श᳓र्धो ऽपो᳓ न᳓ नावा᳓ दुरिता᳓ तरेम
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 नु । नः॒ । इ॒न्द्रा॒व॒रु॒णा॒ । गृ॒णा॒ना । पृ॒ङ्क्तम् । र॒यिम् । सौ॒श्र॒व॒साय॑ । दे॒वा॒ ।  
 इ॒त्था । गृ॒णन्तः॑ । म॒हिन॑स्य । शर्धः॑ । अ॒पः । न । ना॒वा । दुः॒ऽइ॒ता । त॒रे॒म॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- नू᳓ (*MS*-3, *TS*-1, *SB-M*-2, *SB-K*-2)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- इन्द्रा-वरुणा (*TS*-4, *RV*-20)
+- गृणाना᳓ (*MS*-1/6, *TS*-1/3, *RV*-9/53, *AV*-2/7, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/2, *VS-K*-1/2)
+- पृङ्क्त᳓म् (*RV*-4/5, *TB*-0/2, *SB-K*-0/1)
+- सौश्रवसा᳓य (*MS*-1/4, *TS*-1/2, *RV*-3/7, *TB*-0/1, *AV*-0/1, *VS-M*-1/2, *VS-K*-1/2)
+- देवा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-32, *RV*-13, *TB*-17, *TK*-1, *AV*-1, *SB-M*-12, *SB-K*-17, *VS-M*-19, *VS-K*-10)
+- इत्था᳓ (*MS*-7, *TS*-1, *RV*-69, *TB*-1, *AV*-8, *SB-M*-2, *SB-K*-5, *VS-M*-3, *VS-K*-1)
+- गृण᳓न्तः (*MS*-4/5, *TS*-2/3, *RV*-21/39, *TB*-1, *AV*-5, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-1)
+- महि᳓नस्य (*RV*-2/4)
+- श᳓र्धः (*MS*-1/2, *TS*-5/6, *RV*-31/53, *TK*-1, *AV*-4, *VS-M*-2/3, *VS-K*-1/4)
+- अपः᳓ (*MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- नावा᳓ (*MS*-1, *TS*-2, *RV*-9/13, *AV*-2, *SB-M*-0/2, *SB-K*-0/3)
+- दुः-इता᳓ (*MS*-4/9, *TS*-4/7, *RV*-33/59, *TB*-2/4, *AV*-4/36, *SB-M*-2, *SB-K*-1, *VS-M*-2/4, *VS-K*-1/2)
+- तरेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *RV*-16, *TB*-1, *TK*-1, *AV*-8, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -212,6 +238,11 @@ _________
 हे **इन्द्रावरुणा** इन्द्रावरुणौ **गृणाना** स्तूयमानौ युवां **नः** अस्मभ्यं **सौश्रवसाय** । सुश्रवसो भावः सौश्रवसम् । तस्मै सुश्रवस्त्वाय **रयिं** धनं **नु** क्षिप्रं **पृङ्क्तं** प्रयच्छतम् । किंच **देवा** हे देवौ **महिनस्य** महतोर्युवयोः **शर्धः** बलम् **इत्था** इत्थं **गृणन्तः** स्तुवन्तो वयं **दुरिता** दुरितानि **नावा** **अपो** **न** उदकानीव **तरेम** ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[175_12]** T₆ und Brl देवाः (T6 and Brl देवाः)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -235,6 +266,12 @@ On the surprise ending here and the splitting up of what was throughout the rest
 
 Indra. and Varuna, Gods whom we are lauding, mingle ye wealth with our heroic glory.  
      May we, who praise the strength of what is mighty, pass dangers, as with boats we cross the waters.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Now, being praised, O divine Indra and Varuṇa, grant us wealth for high renown;  
+praising thus the troop of the mighty one, may we cross over misfortunes like waters with a boat.
 </details>
 
 <details><summary>Geldner</summary>

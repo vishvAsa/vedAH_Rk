@@ -75,10 +75,32 @@ iyétha ← √i- 1 (root)
 इ॒येथ॑ ब॒र्हिरा॒सद॑म् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓ग्ने मृड᳓ महाँ असि य᳓ ईमा᳓ देवयुं᳓ ज᳓नम्।  
+इये᳓थ बर्हि᳓रास᳓दम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । मृ॒ळ । म॒हान् । अ॒सि॒ । यः । ई॒म् । आ । दे॒व॒ऽयुम् । जन॑म् ।  
 इ॒येथ॑ । ब॒र्हिः । आ॒ऽसद॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- मृड᳓ (*MS*-2, *TS*-2, *RV*-11, *AV*-1, *VS-M*-1, *VS-K*-1)
+- महाम् → **महा᳓म्** (स्वर-लोपः, *MS*-7/38, *TS*-2/28, *RV*-27/398, *TB*-4/21, *TK*-2/6, *AV*-2/81, *SB-M*-3/42, *SB-K*-3/40, *VS-M*-18/35, *VS-K*-11/52)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- ईमा᳓ (*AV*-1)
+- देव-यु᳓म् (*MS*-0/4, *TS*-0/2, *RV*-4/27, *AV*-2/3)
+- ज᳓नम् (*MS*-15/62, *TS*-6/35, *RV*-34/298, *TB*-2/27, *AV*-9/92, *SB-M*-6/26, *SB-K*-6/26, *VS-M*-0/27, *VS-K*-0/27)
+- इये᳓थ (*RV*-1)
+- बर्हिः᳓ (*MS*-69/86, *TS*-38/75, *RV*-86/137, *TB*-56/76, *AV*-24/41, *SB-M*-51/75, *SB-K*-43/65, *VS-M*-23/42, *VS-K*-21/41)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-449, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-6, *VS-K*-10)
+- अस᳓दम् (*SB-M*-0/1, *SB-K*-0/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -171,6 +193,11 @@ _________
 हे **अग्ने** **मृळ** अस्मान् सुखय । स त्वं **महान्** **असि** प्रभूतो भवसि । **यः** त्वम् **ईम्** इमं **देवयुं** देवानां कामयितारं **जनं** यजमानं **बर्हिः** दर्भम् **आसदं** यज्ञे आसत्तुम् **आ** **इयेथ** आगच्छसि ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[613_6]** Vgl. RV 4, 9, 1. (Cf. RV 4, 9, 1)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -189,6 +216,12 @@ to sit on the ritual grass.
 
 AGNI, show favour: great art thou who to this pious man art come,  
      To seat thee on the sacred grass.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, be gracious; you are great, who have come  
+to this god-seeking folk to sit upon the sacrificial grass.
 </details>
 
 <details><summary>Oldenberg</summary>

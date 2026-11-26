@@ -78,6 +78,12 @@ rákṣa ← √rakṣⁱ- (root)
 रक्षा॑ णो ब्रह्मणस्पते ॥३०॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+मा᳓ नश्शँसो अ᳓ररुषो धूर्तिः प्र᳓णङ् म᳓र्त्यस्य।  
+र᳓क्षा णो ब्रह्मणस्पते
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मा । नः॒ । शंसः॑ । अर॑रुषः । धू॒र्तिः । प्रण॑क् । मर्त्य॑स्य ।  
@@ -92,6 +98,20 @@ rákṣa ← √rakṣⁱ- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 मा। नः॒। शँसः॑। अर॑रुषः। धू॒र्तिः। प्रण॑क्। मर्त्य॑स्य।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मा᳓ (*MS*-238, *TS*-205, *RV*-389, *TB*-111, *TK*-16, *AV*-415, *SB-M*-206, *SB-K*-183, *VS-M*-146, *VS-K*-110)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- शंसः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- अ᳓ररुषः (*MS*-1/2, *RV*-7/8, *TB*-1/2, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- धूर्तिः → **धूर्तिः᳓** (स्वर-लोपः, *TS*-1, *RV*-4/9, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- प्र᳓णक् (*MS*-1, *RV*-4, *VS-M*-1, *VS-K*-1)
+- म᳓र्त्यस्य (*MS*-0/18, *TS*-1/14, *RV*-14/182, *TB*-0/6, *TK*-0/3, *AV*-4/37, *SB-M*-3/84, *SB-K*-3/81, *VS-K*-0/8)
+- र᳓क्षा (*MS*-6/38, *TS*-2/21, *RV*-0/20, *TB*-2/10, *AV*-0/26, *SB-M*-2/25, *SB-K*-2/23, *VS-M*-1/17, *VS-K*-1/12)
+- णः (*MS*-17, *TS*-4, *TB*-7, *SB-M*-3, *VS-K*-5)
+- ब्रह्मणस्पते (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-3, *TB*-1, *TK*-1, *SB-M*-2, *SB-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -282,6 +302,13 @@ _________
 'मा व्रणक् मा व्याप्नोतु । मर्त्यस्य मृति-योग्यस्य धूर्तिः वध्या "न: मा प्रणक् । 'नः अस्मान् रक्ष पालय ॥२२॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[66_1]** Brl प्रा᳓णङ्; Ch प्राणम्; W 1 प्राणङ्, aber fol. 124 प्रणं (Brl प्रा᳓णङ्; Ch प्राणम्; W 1 प्राणङ्, but fol. 124 प्रणं)
+
+- **[66_2]** So weit geht T6 und Brl fol. 8. (Thus far extends T6 and Brl fol. 8.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर भी उस परमेश्वर की प्रार्थना किसलिये करनी चाहिये, इस विषय का उपदेश अगले मन्त्र में किया है ॥
@@ -339,6 +366,12 @@ The śáṃso áruruṣaḥ … mártyasya “(male)diction of the grudging mort
 
 Let not the foeman's curse, let not a mortal's onslaught fall on us  
      Preserve us, Brahmanaspati.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let not the curse of the stingy one, the injury of a mortal, reach us;  
+protect us, O Brahmaṇaspati.
 </details>
 
 <details><summary>Geldner</summary>

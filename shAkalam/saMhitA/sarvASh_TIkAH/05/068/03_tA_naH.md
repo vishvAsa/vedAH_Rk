@@ -72,10 +72,31 @@ vām ← tvám (pronoun)
 महि॑ वां क्ष॒त्रं दे॒वेषु॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ता नश्शक्तं पार्थिवस्य महो रायो दिव्यस्य।  
+महि वां क्षत्रं देवेषु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ता । नः॒ । श॒क्त॒म् । पार्थि॑वस्य । म॒हः । रा॒यः । दि॒व्यस्य॑ ।  
 महि॑ । वा॒म् । क्ष॒त्रम् । दे॒वेषु॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ताः᳓ (*MS*-302/5550, *TS*-136/4761, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/780, *VS-K*-17/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- शक्तम् (*RV*-4)
+- पा᳓र्थिवस्य (*MS*-1/12, *TS*-0/10, *RV*-9/52, *TB*-0/4, *AV*-4/24, *SB-M*-0/7, *SB-K*-0/6, *VS-M*-0/9, *VS-K*-0/9)
+- महः᳓ (*Whitney*, *MS*-17/36, *TS*-9/26, *RV*-173/364, *TB*-7/17, *TK*-3/5, *AV*-20/77, *SB-M*-7/37, *SB-K*-7/37, *VS-M*-12/35, *VS-K*-12/41)
+- रायः᳓ (*MS*-14/41, *TS*-50/79, *RV*-129/262, *TB*-3/13, *TK*-0/1, *AV*-29/37, *SB-M*-3/24, *SB-K*-3/26, *VS-M*-29/53, *VS-K*-34/63)
+- दिव्य᳓स्य (*MS*-2/38, *TS*-2/33, *RV*-12/98, *TB*-1/15, *AV*-7/47, *SB-M*-0/23, *SB-K*-0/20, *VS-M*-0/20, *VS-K*-0/21)
+- म᳓हि (*Whitney*, *MS*-28/58, *TS*-19/35, *RV*-118/255, *TB*-9/39, *TK*-0/5, *AV*-10/40, *SB-M*-9/40, *SB-K*-11/34, *VS-M*-14/43, *VS-K*-12/33)
+- वाम् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-70, *TS*-52, *RV*-514, *TB*-26, *TK*-1, *AV*-65, *SB-M*-40, *SB-K*-37, *VS-M*-19, *VS-K*-15)
+- क्षत्र᳓म् (*MS*-82/122, *TS*-33/74, *RV*-32/43, *TB*-22/47, *TK*-1, *AV*-23/33, *SB-M*-179/251, *SB-K*-206/306, *VS-M*-28/45, *VS-K*-32/56)
+- देवे᳓षु (*MS*-57/1216, *TS*-41/1023, *RV*-100/1342, *TB*-13/582, *TK*-1/32, *AV*-26/707, *SB-M*-41/2031, *SB-K*-46/1945, *VS-M*-35/528, *VS-K*-30/523)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -161,6 +182,13 @@ _________
 **ता** तौ देवौ **नः** अस्मदर्थं **पार्थिवस्य** पृथिवीसंबद्धस्य **दिव्यस्य** दिवि भवस्य च **महः**। महतः **रायः** धनस्य **शक्तं** समर्थौ भवतम् । दातुमिति शेषः । हे देवौ **वां** युवयोः **महि** महत् पूज्यं **क्षत्रं** बलं **देवेषु** प्रसिद्धं स्तुम इति शेषः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[413_3]** So corr. Ch र्शाº; cf. RV 5, 68, 3. (Thus emended; Ch reads र्शाº; cf. RV 5, 68, 3)
+
+- **[413_4]** So corr. Ch क्षेत्रं; cf. RV 5, 68, 3. (Thus emended; Ch reads क्षेत्रं; cf. RV 5, 68, 3)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -179,6 +207,12 @@ Great is your dominion among the gods.
 
 So help ye us to riches, great terrestrial and celestial wealth:  
      Vast is your sway among the Gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Grant us the greatness of earthly wealth, [and] of heavenly;  
+great is your dominion among the gods.
 </details>
 
 <details><summary>Geldner</summary>

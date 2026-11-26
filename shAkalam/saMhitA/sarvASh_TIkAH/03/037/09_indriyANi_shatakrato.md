@@ -208,6 +208,12 @@ That is in the five folks,
 That do I choose of thee.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those Indra-powers of yours, O Śatakratu, which are among the five peoples,  
+those of yours, O Indra, I choose.
+</details>
+
 <details><summary>Geldner</summary>
 
 Deine Kraftäußerungen, die unter den fünf Völkern bekannt sind, die erbitte ich mir von dir, ratreicher Indra.

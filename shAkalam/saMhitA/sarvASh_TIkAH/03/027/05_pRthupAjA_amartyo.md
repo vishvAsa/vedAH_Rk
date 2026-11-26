@@ -67,6 +67,12 @@ yajñásya ← yajñá- (nominal stem)
 अ॒ग्निर्य॒ज्ञस्य॑ हव्य॒वाट् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पृथुपा᳓जा अ᳓मर्त्यो घृत᳓निर्णिक्स्वा᳙हुतः।  
+अग्नि᳓र्यज्ञ᳓स्य हव्यवा᳓ट्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पृ॒थु॒ऽपाजाः॑ । अम॑र्त्यः । घृ॒तऽनि॑र्निक् । सुऽआ॑हुतः ।  
@@ -76,6 +82,17 @@ yajñásya ← yajñá- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 पृथु-पा᳓जाः । अ᳓मर्त्यः । घृत᳓-निर्णिक् । स्वा᳙हुतः । अग्निः᳓ । यज्ञ᳓स्य । हव्य-वा᳓ट् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पृथु-पा᳓जाः (*MS*-2, *RV*-3, *TB*-1)
+- अ᳓मर्त्यः (*MS*-8/12, *TS*-2/7, *RV*-33/56, *TB*-3/7, *TK*-1, *AV*-5/11, *SB-M*-2/4, *SB-K*-2/4, *VS-K*-3/7)
+- घृत᳓-निर्णिक् (*MS*-3, *TS*-1, *TB*-2)
+- स्वा᳙हुतः (*MS*-1, *TB*-1, *VS-K*-2)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- यज्ञ᳓स्य (*MS*-180/933, *TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/187)
+- हव्य-वा᳓ट् (*MS*-9, *TS*-5/6, *RV*-9, *TB*-5, *SB-M*-8, *SB-K*-4, *VS-M*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -158,6 +175,11 @@ _________
 पृथुपाजाः विस्तीर्णबलः अमर्त्यः अमरणधर्मा घृतनिर्णिक् घृतरूपः त्वाहुतः सम्यगाहुतः अग्निः अयं यज्ञस्य हव्यवाट् हविषां वोढा भवति यथोक्तगुणः तस्मादेनं तादृशं कुर्म इति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[612_7]** Vgl. RV 3, 27, 5. (Cf. RV 3, 27, 5)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -175,6 +197,12 @@ Of broad visage, immortal, ghee-cloaked, receiving well-poured oblations, Agni i
 
 Immortal Agni, shining far, enrobed with oil, well worshipped, bears  
      The gifts of sacrifice away.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Broad-fronted, immortal, clad in ghee, well-invoked,  
+Agni is the bearer of oblation for the sacrifice.
 </details>
 
 <details><summary>Oldenberg</summary>

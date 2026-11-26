@@ -101,6 +101,12 @@ yuyavan ← √yu- 2 (root)
 ज॒म्भय॒न्तोऽहिं॒ वृकँ॒ रक्षाँ॑सि॒ सने॑म्य॒स्मद्यु॑यव॒न्नमी॑वाः ॥९॥ २२
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+शं नो भवन्तु वाजिनो हवेषु देवताता मितद्रवस्स्वर्काः।  
+जम्भयन्तो ऽहिं वृकं रक्षाँसि सनेम्यस्मद्युयवन्नमीवाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 शम् । नः॒ । भ॒व॒न्तु॒ । वा॒जिनः॑ । हवे॑षु । दे॒वऽता॑ता । मि॒तऽद्र॑वः । सु॒ऽअ॒र्काः ।  
@@ -115,6 +121,26 @@ yuyavan ← √yu- 2 (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 शम्। नःः॒। भ॒व॒न्तु। वा॒जिनः॑। हवे॑षु। दे॒वता॒तेति॑ दे॒वता॑ता। मि॒तद॑व॒ इति॑ मि॒तद॑वः। स्व॒र्का इति॑ सु॒ऽअ॒र्काः। ज॒म्भय॑न्तः। अहि॑म्। वृ॒क॑म्। रक्ष॑सि। सने॑मि। अ॒स्मत्। युय॒व॒न्। 'अमी॑वाः। ९।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- श᳓म् (*Whitney*, *MW*, *MS*-51, *TS*-33, *RV*-159, *TB*-19, *TK*-1, *AV*-185, *SB-M*-27, *SB-K*-29, *VS-M*-39, *VS-K*-23)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- भवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-18, *TS*-19, *RV*-28, *TB*-6, *AV*-45, *SB-M*-7, *SB-K*-7, *VS-M*-20, *VS-K*-15)
+- वाजि᳓नः (*MS*-19/48, *TS*-9/55, *RV*-38/172, *TB*-5/18, *TK*-0/1, *AV*-6/25, *SB-M*-8/28, *SB-K*-8/24, *VS-M*-13/35, *VS-K*-11/33)
+- ह᳓वेषु (*MS*-2/17, *TS*-5/17, *RV*-7/124, *TB*-0/5, *AV*-4/22, *SB-M*-1/7, *SB-K*-1/8, *VS-M*-4/13, *VS-K*-5/12)
+- देव᳓-ताता (*MS*-1/2, *TS*-2/3, *RV*-13/33, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-0/1, *VS-K*-2)
+- मित᳓-द्रवः (*MS*-2, *TS*-2, *RV*-2/5, *SB-M*-2, *SB-K*-2, *VS-M*-3, *VS-K*-4)
+- स्वर्काः᳓ (*MS*-3, *TB*-1, *SB-K*-1, *VS-K*-2)
+- जम्भ᳓यन्तः (*MS*-1, *TS*-1/2, *RV*-1, *AV*-0/1, *SB-M*-1, *VS-M*-2, *VS-K*-2)
+- अ᳓हिम् (*MS*-8/16, *TS*-2/10, *RV*-40/72, *TB*-2/7, *TK*-0/1, *AV*-19/38, *SB-M*-2/12, *SB-K*-3/16, *VS-M*-3/9, *VS-K*-2/5)
+- वृ᳓कम् (*MS*-1/10, *TS*-1/3, *RV*-3/28, *TB*-2/6, *AV*-2/11, *SB-M*-2/8, *SB-K*-2/8, *VS-M*-3/8, *VS-K*-1/6)
+- र᳓क्षांसि (*MS*-53/138, *TS*-60/126, *RV*-22/51, *TB*-27/56, *AV*-26/54, *SB-M*-140/235, *SB-K*-135/216, *VS-M*-7/30, *VS-K*-4/25)
+- स᳓नेमि (*TS*-1, *RV*-8, *AV*-1, *SB-M*-2, *SB-K*-1, *VS-M*-3, *VS-K*-3, *MS*-1)
+- अस्म᳓त् (*MS*-33/641, *TS*-31/565, *RV*-75/1308, *TB*-6/270, *TK*-0/66, *AV*-57/1252, *SB-M*-18/723, *SB-K*-16/728, *VS-M*-19/315, *VS-K*-22/274)
+- युयवन् (*MS*-1, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2)
+- अ᳓मीवाः (*MS*-4, *TS*-2, *RV*-8, *TB*-2/3, *AV*-4, *SB-M*-3, *SB-K*-5, *VS-M*-4, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -356,6 +382,11 @@ _________
 वाजे वाजे ऽवत' इति च याज्यानुवाक्याः
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[195_6]** Ch हि वृकाँसि
+</details>
+
 <details><summary>दयानन्द-सरस्वती (सं, मा.) - विषयः</summary>
 
 पुनस्तमेव विषयमाह ॥
@@ -458,6 +489,12 @@ Bless us the Vajins when we call, while slowly they move, strong Singers, to the
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Bless us the Coursers when we call, etc., as in IX. 16.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the swift ones be auspicious to us at our invocations, in the divine assembly, running measuredly, fair-shining;  
+crushing the serpent, the wolf, the demons, may they continually ward off diseases from us!
 </details>
 
 <details><summary>Geldner</summary>

@@ -72,10 +72,32 @@ yé ← yá- (pronoun)
 ये अ॒ग्ना द॑धि॒रे दुवः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ते᳓ राया᳓ ते᳓ सुवी᳓र्यैस्सवाँसो वि᳓शृण्विरे।  
+ये᳓ अग्ना᳓ दधिरे᳓ दु᳓वः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ते । रा॒या । ते । सु॒ऽवीर्यैः॑ । स॒स॒ऽवांसः॑ । वि । शृ॒ण्वि॒रे॒ ।  
 ये । अ॒ग्ना । द॒धि॒रे । दुवः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ते᳓ (*MS*-372/5550, *TS*-451/4761, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *SB-K*-914/20018, *VS-M*-118/780, *VS-K*-96/660)
+- राया᳓ (*MS*-3/41, *TS*-2/79, *RV*-40/262, *TB*-2/13, *TK*-0/1, *AV*-2/37, *SB-M*-1/24, *SB-K*-1/26, *VS-M*-2/53, *VS-K*-2/63)
+- ते᳓ (*MS*-372/5550, *TS*-451/4761, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *SB-K*-914/20018, *VS-M*-118/780, *VS-K*-96/660)
+- सु-वी᳓र्यैः (*MS*-0/14, *TS*-0/19, *RV*-1/75, *TB*-0/8, *AV*-0/7, *SB-M*-0/9, *SB-K*-0/9, *VS-M*-0/4, *VS-K*-0/2)
+- सवान् → **सवा᳓न्** (स्वर-लोपः, *MS*-2/17, *TS*-1/10, *RV*-3/13, *TB*-3/17, *AV*-0/5, *SB-M*-0/44, *SB-K*-0/42, *VS-M*-0/9, *VS-K*-0/6)
+- सः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-16, *TB*-8, *SB-K*-3, *VS-K*-3)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- शृण्विरे (*RV*-5)
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- अग्ना᳓ (*MS*-1/43, *TS*-2/64, *RV*-8/30, *TB*-0/30, *TK*-0/5, *AV*-0/20, *SB-M*-0/224, *SB-K*-0/182, *VS-M*-1/11, *VS-K*-1/11)
+- दधिरे᳓ (*MS*-1, *TS*-2, *RV*-18, *AV*-4, *SB-K*-1)
+- दु᳓वः (*MS*-2, *RV*-16/18, *TB*-1, *AV*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -190,6 +212,12 @@ who have placed their friendship in Agni.
 
 Illustrious for wealth are they, and hero deeds, victorious,  
      Who have served Agni reverently.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They have won with wealth, they with heroic sons, they are widely famed,  
+who have paid homage to Agni.
 </details>
 
 <details><summary>Oldenberg</summary>

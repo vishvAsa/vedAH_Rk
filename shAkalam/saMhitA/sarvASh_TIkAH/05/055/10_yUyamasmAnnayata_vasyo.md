@@ -92,10 +92,37 @@ vayám ← ahám (pronoun)
 जु॒षध्वं॑ नो ह॒व्यदा॑तिं यजत्रा व॒यं स्या॑म॒ पत॑यो रयी॒णाम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+यूय᳓मस्मा᳓न्नयत व᳓स्यो अ᳓च्छा नि᳓रँहति᳓भ्यो मरुतो गृणानाः᳓।  
+जुष᳓ध्वं नो हव्य᳓दातिं यजत्रा वयं᳓ स्याम प᳓तयो रयीणा᳓म्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यू॒यम् । अ॒स्मान् । न॒य॒त॒ । वस्यः॑ । अच्छ॑ । निः । अं॒ह॒तिऽभ्यः॑ । म॒रु॒तः॒ । गृ॒णा॒नाः ।  
 जु॒षध्व॑म् । नः॒ । ह॒व्यऽदा॑तिम् । य॒ज॒त्राः॒ । व॒यम् । स्या॒म॒ । पत॑यः । र॒यी॒णाम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- यूय᳓म् (*MS*-9/382, *TS*-14/313, *RV*-132/1488, *TB*-7/152, *TK*-0/39, *AV*-23/628, *SB-M*-16/387, *SB-K*-17/387, *VS-M*-7/216, *VS-K*-7/180)
+- अस्मा᳓न् (*MS*-50/641, *TS*-46/565, *RV*-93/1308, *TB*-12/270, *TK*-2/66, *AV*-119/1252, *SB-M*-51/723, *SB-K*-56/728, *VS-M*-32/315, *VS-K*-25/274)
+- नयत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-2, *RV*-5, *TB*-1, *AV*-1, *SB-M*-5, *SB-K*-4, *VS-M*-3, *VS-K*-3)
+- व᳓स्यः (*MS*-3/4, *TS*-4/9, *RV*-21/39, *TB*-3/5, *AV*-6, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/3)
+- अ᳓च्छा (*TS*-3, *TB*-7, *SB-M*-2, *SB-K*-18, *VS-K*-9, *MS*-1)
+- निः᳓ (*MS*-282, *TS*-292, *RV*-113, *TB*-152, *TK*-12, *AV*-144, *SB-M*-340, *SB-K*-325, *VS-M*-22, *VS-K*-16)
+- अंहति᳓भ्यः (*MS*-0/1, *TS*-0/1, *RV*-1/5)
+- मरुतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-23, *TS*-17, *RV*-152, *TB*-9, *AV*-18, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2)
+- गृणानाः᳓ (*MS*-0/5, *TS*-1/2, *RV*-6/44, *AV*-0/5, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-0/1)
+- जुष᳓ध्वम् (*MS*-1, *TS*-1, *RV*-2, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-5)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- हव्य᳓-दातिम् (*MS*-3/5, *TS*-1, *RV*-6/17, *TB*-3, *AV*-2, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-0/1)
+- यजत्रा (*MS*-2, *TS*-1, *RV*-4, *TB*-1, *AV*-2, *SB-K*-1, *VS-M*-3, *VS-K*-1)
+- वय᳓म् (*MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-30, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-18)
+- प᳓तयः (*MS*-6/47, *TS*-8/45, *RV*-15/200, *TB*-2/21, *TK*-4/6, *AV*-14/137, *SB-M*-4/64, *SB-K*-2/61, *VS-M*-6/45, *VS-K*-8/61)
+- रयीणा᳓म् (*MS*-13/71, *TS*-13/63, *RV*-41/269, *TB*-4/20, *TK*-4, *AV*-12/65, *SB-M*-2/22, *SB-K*-2/20, *VS-M*-8/36, *VS-K*-7/37)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -239,6 +266,12 @@ Enjoy our oblation-giving, you who deserve the sacrifice. May we be  lords of ri
 
 O Maruts, lead us on to higher fortune deliver us, when lauded, from afflictions.  
      Accept, ye Holy Ones, the gifts we bring you. May we be masters of abundant riches.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Lead us to better [fortune], away from narrow straits, O Maruts, when praised;  
+enjoy our gift of oblations, O holy ones; may we be lords of riches!
 </details>
 
 <details><summary>Geldner</summary>

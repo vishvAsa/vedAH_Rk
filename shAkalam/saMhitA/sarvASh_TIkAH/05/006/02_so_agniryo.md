@@ -112,6 +112,13 @@ stotŕ̥bhyaḥ ← stotár- (nominal stem)
 समर्व॑न्तो रघु॒द्रुवः॒ सँ सु॑जा॒तासः॑ सू॒रय॒ इषँ॑ स्तो॒तृभ्य॒ आभ॑र ॥२४॥ ६४
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+सो᳓ अग्नि᳓र् यो᳓ व᳓सुर् गृणे᳓ सँ᳓ य᳓म् आय᳓न्ति धेन᳓वः  
+स᳓म् अ᳓र्वन्तो रघुद्रु᳓वः सँ᳓ सुजाता᳓सः सूर᳓यस्  
+इ᳓षँ स्तोतृ᳓भ्या आ᳓भर
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । अ॒ग्निः । यः । वसुः॑ । गृ॒णे । सम् । यम् । आ॒ऽयन्ति॑ । धे॒नवः॑ ।  
@@ -126,6 +133,30 @@ stotŕ̥bhyaḥ ← stotár- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 सः। अ॒ग्निः। यः। वसुः॑। गृ॒णे। सम्। यम्। आ॒यन्तीत्या॒ऽयन्ति॑। धे॒नवः॑। सम्। अर्व॑न्तः। र॒घु॒द्रुव॒ इति॑ रघु॒ऽद्रुवः॑। सम्। सु॒जा॒तास॒ इति॑ सुऽजा॒तासः॑। सू॒रयः॑। इष॑म्। स्तो॒तृभ्य॒ इति॑ स्तो॒तृभ्यः॑। आ। भ॒र॒। २४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-91/624, *KS*-225/1225)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-122/322, *VS-K*-113/339, *KS*-111/256)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- व᳓सुः (*TS*-12/143, *RV*-25/311, *TB*-1/59, *TK*-0/2, *AV*-1/90, *SB-M*-10/113, *SB-K*-10/111, *VS-M*-10/76, *VS-K*-11/95, *KS*-2/41)
+- गृणे᳓ (*RV*-5, *AV*-2, *VS-M*-1, *VS-K*-1)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- य᳓म् (*TS*-164/3383, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-60/639, *VS-K*-38/581, *KS*-31/818)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-7, *VS-K*-11, *KS*-122)
+- य᳓न्ति (*TS*-13/39, *RV*-19/39, *TB*-9/17, *TK*-1/2, *AV*-28/36, *SB-M*-82/106, *SB-K*-89/123, *VS-M*-0/9, *VS-K*-1/8, *KS*-1/6)
+- धेन᳓वः (*TS*-8/36, *RV*-50/118, *TB*-1/24, *AV*-14/41, *SB-M*-4/39, *SB-K*-5/44, *VS-M*-7/20, *VS-K*-4/19, *KS*-0/4)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- अ᳓र्वन्तः (*TS*-1/4, *RV*-12/21, *TB*-1/3, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-3/7, *VS-K*-1/3)
+- रघु-द्रु᳓वः (*RV*-3, *VS-M*-1, *VS-K*-1)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- सु-जाता᳓सः (*RV*-5/9, *VS-M*-1, *VS-K*-1)
+- सूर᳓यः (*TS*-2/8, *RV*-35/111, *TB*-0/3, *AV*-3/17, *SB-M*-2/5, *SB-K*-1/3, *VS-M*-3/7, *VS-K*-2/8, *KS*-1/7)
+- इ᳓षम् (*TS*-27/55, *RV*-98/219, *TB*-14/24, *TK*-1, *AV*-13/25, *SB-M*-12/41, *SB-K*-13/41, *VS-M*-16/39, *VS-K*-13/37, *KS*-10/16)
+- स्तोतृ᳓भ्यः (*TS*-4/6, *RV*-46/103, *TB*-0/3, *TK*-1, *AV*-4/17, *SB-M*-0/4, *SB-K*-0/2, *VS-M*-4/6, *VS-K*-3/5, *KS*-1/3)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- भर (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-19, *RV*-130, *TB*-5, *TK*-1, *AV*-31, *SB-M*-4, *SB-K*-2, *VS-M*-11, *VS-K*-6, *KS*-6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -408,6 +439,13 @@ the fast-running chargers (approach) together, and well-born patrons  (approach)
 
 'Tis Agni whom we laud as good, to whom the milch-kine come in herds,  
      To whom the chargers swift of foot, to whom our well-born princes come. Bring food to those who sing thy praise.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He is Agni who is chanted as the good one, whom the milch cows approach together,  
+whom the swift-running coursers, whom the noble patrons approach together;  
+bring nourishment to the praisers.
 </details>
 
 <details><summary>Oldenberg</summary>

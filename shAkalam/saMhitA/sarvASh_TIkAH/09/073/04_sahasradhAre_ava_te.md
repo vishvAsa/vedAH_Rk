@@ -98,10 +98,40 @@ sétavaḥ ← sétu- (nominal stem)
 अस्य॒ स्पशो॒ न नि मि॑षन्ति॒ भूर्ण॑यः प॒देप॑दे पा॒शिनः॑ सन्ति॒ सेत॑वः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सह᳓स्रधारे᳓ऽव ते᳓ स᳓मस्वरन्दिवो᳓ ना᳓के म᳓धुजिह्वा असश्च᳓तः।  
+त᳓स्य स्य᳓शो न᳓ नि᳓मिषन्ति भू᳓र्णयः पदे᳓ पदे पाशि᳓नस्सन्ति से᳓तवः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒हस्र॑ऽधारे । अव॑ । ते । सम् । अ॒स॒र॒न् । दि॒वः । नाके॑ । मधु॑ऽजिह्वाः । अ॒स॒श्चतः॑ ।  
 अस्य॑ । स्पशः॑ । न । नि । मि॒ष॒न्ति॒ । भूर्ण॑यः । प॒देऽप॑दे । पा॒शिनः॑ । स॒न्ति॒ । सेत॑वः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सह᳓स्र-धारे (*MS*-0/1, *TS*-0/1, *RV*-3/19, *TB*-0/1, *AV*-1/7, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/1)
+- अ᳓व (*MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- ते᳓ (*MS*-372/5550, *TS*-451/4761, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *SB-K*-914/20018, *VS-M*-118/780, *VS-K*-96/660)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- अस्वरन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-11, *AV*-5)
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- ना᳓के (*MS*-6/30, *TS*-7/28, *RV*-7/32, *TB*-1/16, *AV*-11/41, *SB-M*-15/50, *SB-K*-14/49, *VS-M*-3/24, *VS-K*-2/22)
+- म᳓धु-जिह्वाः (*MS*-0/2, *RV*-2/5, *AV*-1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-0/1)
+- असश्च᳓तः (*RV*-10/13, *AV*-1)
+- त᳓स्य (*MS*-226/5550, *TS*-178/4761, *RV*-88/3136, *TB*-84/2709, *TK*-21/363, *AV*-124/3165, *SB-M*-739/20457, *SB-K*-728/20018, *VS-M*-30/780, *VS-K*-28/660)
+- स्प᳓शः (*MS*-1, *TS*-1, *RV*-10, *AV*-3, *VS-M*-1, *VS-K*-1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- नि᳓ (*MS*-193, *TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36)
+- मिषन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2, *AV*-2)
+- भू᳓र्णयः (*RV*-7/14, *AV*-1)
+- पदे᳓ (*MS*-10/34, *TS*-10/27, *RV*-34/67, *TB*-8/17, *AV*-2/35, *SB-M*-11/67, *SB-K*-9/54, *VS-M*-5/16, *VS-K*-2/13)
+- पदे (द्विर्वचने परस्यानुदात्तत्वम्, पा॰ ८.१.३, *SB-K*-5)
+- पाशि᳓नः (*RV*-2, *AV*-3, *VS-M*-1)
+- सन्ति (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-11, *TB*-1, *AV*-2, *SB-M*-10, *SB-K*-8)
+- से᳓तवः (*MS*-0/4, *TS*-0/5, *RV*-1/5, *TB*-0/3, *AV*-0/2, *SB-M*-0/2, *SB-K*-0/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -256,6 +286,13 @@ _________
 **सहस्रधारे** । बहूदकधारा यस्माद्द्रवन्ति तत्तथोक्तमन्तरिक्षम् । तस्मिन् वर्तमानाः **ते** सोमरश्मयः **अव** अवस्तात स्थिताः **समस्वरन्** । पृथिवीं वृष्ट्या संयोजयन्तीत्यर्थः । किंच **दिवः** द्युलोकस्य **नाके** समुच्छ्रिते देशे वर्तमानाः **मधुजिह्वाः** मध्वग्राः । सोमतेजसाग्रेभ्यो हि मधूत्पन्नं भवति । अतो मधुजिह्वाः । **असश्चत:** संगतवर्जिताः पृथक्पृथग्दिव्यवस्थिताः **अस्य** सोमस्य स्वभूताः **स्पशः** सारभूता रश्मयः **भूर्णयः** क्षिप्रगामिनः सन्तः **न** **नि** **मिषन्ति** निमेषं न कुर्वन्ति । किंतु पापिनः सुकृतिनश्च ज्ञातुं सर्वदा जाग्रतीत्यर्थः। अथवा । राजभृत्या यथा दुष्टान् विचारयितुं सर्वदा जागरणं कुर्वन्ति तद्वदेते रश्मयः **पदेपदे** स्थाने स्थाने **सेतवः** संबद्धाः सन्तः **पाशिनः** पापकृतां बाधकाः **सन्ति** भवन्ति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[581_12]** So T1 und Brl; in W 2 प᳓दे पदे (Thus T1 and Brl; in W 2 प᳓दे पदे)
+
+- **[581_13]** Vgl. zu dem ganzen Verse RV 9, 74, 6. (Cf. for the whole verse RV 9, 74, 6.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -279,7 +316,10 @@ His fervent spies do not blink: at every step there are snares that bind.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/04-05.md">
 <details><summary><h2>04-05 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 See comm. on IX.41.1-2 on the similarity of phraseology in these two pairs of vss. These vss. usher in the use of ritual speech against a variety of enemies.
+</details>
 
 </details>
 </div>
@@ -287,7 +327,10 @@ See comm. on IX.41.1-2 on the similarity of phraseology in these two pairs of vs
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
 <details><summary><h2>02-04 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 Geldner considers these vss. “doppelsinnig,” with ref. both to the priest-poets and the soma juices. This seems quite reasomable, and his individual notes are worth the attention.
+</details>
 </details>
 </div>
 
@@ -295,6 +338,12 @@ Geldner considers these vss. “doppelsinnig,” with ref. both to the priest-po
 
 Sweet-tongued, exhaustless, they have sent their voices down togetlier, in heaven's vault that pours a thousand streams.  
      His wildly-restless warders never close an eye: in every place are found the bonds that bind man last.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Down in the thousand-streamed [vault] of heaven they sounded together, the honey-tongued, unceasing;  
+his energetic spies do not blink; in every step there are snare-bearing bridges.
 </details>
 
 <details><summary>Geldner</summary>

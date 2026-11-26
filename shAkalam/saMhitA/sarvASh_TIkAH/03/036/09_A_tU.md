@@ -110,10 +110,42 @@ yandhi ← √yam- (root)
 इन्द्र॒ यत्ते॒ माहि॑नं॒ दत्र॒मस्त्य॒स्मभ्यं॒ तद्ध॑र्यश्व॒ प्र य॑न्धि ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓ तू᳓ भर मा᳓किरेत᳓त्प᳓रिष्ठाद्विद्मा᳓ हि᳓ त्वा व᳓सुपतिं व᳓सूनाम्।  
+इ᳓न्द्र य᳓त्ते मा᳓हिनं द᳓त्रम᳓स्त्यस्म᳓भ्यं त᳓द्धर्यश्व प्र᳓यन्धि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । तु । भ॒र॒ । माकिः॑ । ए॒तत् । परि॑ । स्था॒त् । वि॒द्म । हि । त्वा॒ । वसु॑ऽपतिम् । वसू॑नाम् ।  
 इन्द्र॑ । यत् । ते॒ । माहि॑नम् । दत्र॑म् । अस्ति॑ । अ॒स्मभ्य॑म् । तत् । ह॒रि॒ऽअ॒श्व॒ । प्र । य॒न्धि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- तू᳓ (*MS*-3/108, *TS*-1/113, *RV*-0/72, *TB*-1/48, *TK*-0/3, *AV*-0/56, *SB-M*-0/438, *SB-K*-0/440, *VS-M*-0/8, *VS-K*-0/4)
+- भर (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-16, *TS*-19, *RV*-130, *TB*-5, *TK*-1, *AV*-31, *SB-M*-4, *SB-K*-2, *VS-M*-11, *VS-K*-6)
+- मा᳓किः (*MS*-3, *TS*-4, *RV*-14, *TB*-1, *AV*-2, *VS-M*-2, *VS-K*-3)
+- एत᳓त् (*MS*-869/2587, *TS*-319/1673, *RV*-40/320, *TB*-182/858, *TK*-12/130, *AV*-100/340, *SB-M*-4802/11086, *SB-K*-4477/10669, *VS-M*-17/129, *VS-K*-14/104)
+- प᳓रि-ष्ठात् (मूल-पाठः)
+- विद्मा᳓ (*MS*-6/13, *TS*-3/10, *RV*-0/36, *TB*-1/2, *AV*-0/24, *SB-M*-4/7, *SB-K*-4, *VS-M*-0/5, *VS-K*-0/4)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- व᳓सु-पतिम् (*MS*-0/2, *TS*-2/4, *RV*-5/9, *TB*-0/1, *AV*-1)
+- व᳓सूनाम् (*MS*-15/140, *TS*-18/143, *RV*-43/311, *TB*-7/59, *TK*-0/2, *AV*-9/90, *SB-M*-7/113, *SB-K*-7/111, *VS-M*-5/77, *VS-K*-6/100)
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- मा᳓हिनम् (*MS*-0/1, *TS*-1, *RV*-5/16, *AV*-0/1, *VS-M*-0/1, *VS-K*-0/1)
+- द᳓त्रम् (*RV*-1/3, *AV*-0/1)
+- अ᳓स्ति (*MS*-24/36, *TS*-18/21, *RV*-89/130, *TB*-13/14, *TK*-1, *AV*-21/37, *SB-M*-51/66, *SB-K*-62/81, *VS-M*-0/6, *VS-K*-4/10)
+- अस्म᳓-भ्यम् (*MS*-33/641, *TS*-21/565, *RV*-119/1308, *TB*-12/270, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/728, *VS-M*-15/315, *VS-K*-20/274)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- हर्यश्व (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-2)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- यन्धि (*TS*-1, *RV*-8)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -305,7 +337,10 @@ Indra, the great giving that is yours—offer it to us, o possessor of the  fall
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/09-10.md">
 <details><summary><h2>09-10 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 Note that the vocabulary of the beginning of the hymn is being turned around reciprocally at the end: bhara (9a) and prá yandhi (9d, 10a) are imperatives addressed to Indra, urging him to bring/offer things to us, whereas in 1a prábhṛtim (at least in my interpr.) and 2c prayamyámānān the same lexical expressions refer to things we offer to Indra. Other ring compositional echoes are the dhāḥ + datival infinitive (1a sātáye dhāḥ and 10c jīváse dhāḥ) and the stem śáśvat- (1b, 10d).
+</details>
 </details>
 </div>
 
@@ -323,6 +358,12 @@ Bring it to us, let none intercept it;
 For we know thee as wealth lord of riches;  
 That mighty gift of thine, O Indra,  
 Vouchsafe it us, O lord of the bay steeds [3].
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let no one obstruct it! For we know you as the lord of goods, of goods.  
+What mighty gift is yours, O Indra of the bay steeds, bestow that upon us!
 </details>
 
 <details><summary>Geldner</summary>

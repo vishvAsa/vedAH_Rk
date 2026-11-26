@@ -92,10 +92,64 @@ r̥tám ← r̥tá- (nominal stem)
 नृ॒षद्व॑र॒सदृ॑त॒सद्व्यो॑म॒सद॒ब्जा गो॒जा ऋ॑त॒जा अ॑द्रि॒जा ऋ॒तम् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+हँसः᳓ शुचिष᳓द् व᳓सुर् अन्तरिक्षस᳓द् धो᳓ता वेदिष᳓द् अ᳓तिथिर् दुरोणस᳓त्  
+नृष᳓द् वरस᳓द् ऋतस᳓द् व्योमस᳓द् अब्जा᳓ गोजा᳓ ऋतजा᳓ अद्रिजा᳓ ऋत᳓म्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+हँसश्शुचिषद्वसुरन्तरिक्षसद्धोता वेदिषदतिथिर्दुरोणसत्।  
+नृषद्वरसदृतसद्व्योमसदब्जा गोजा ऋृतजा अद्रिजा ऋतम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 हं॒सः । शु॒चि॒ऽसत् । वसुः॑ । अ॒न्त॒रि॒क्ष॒ऽसत् । होता॑ । वे॒दि॒ऽसत् । अति॑थिः । दु॒रो॒ण॒ऽसत् ।  
 नृ॒ऽसत् । व॒र॒ऽसत् । ऋ॒त॒ऽसत् । व्यो॒म॒ऽसत् । अ॒प्ऽजाः । गो॒ऽजाः । ऋ॒त॒ऽजाः । अ॒द्रि॒ऽजाः । ऋ॒तम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- हंसः᳓ (*TS*-3/5, *RV*-3/8, *TB*-2, *TK*-1, *AV*-1/9, *SB-M*-3, *SB-K*-3, *VS-M*-4/5, *VS-K*-5/6, *KS*-2)
+- शुचि-ष᳓त् (*TB*-2, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-4/5, *KS*-2)
+- व᳓सुः (*TS*-12/143, *RV*-25/311, *TB*-1/59, *TK*-0/2, *AV*-1/90, *SB-M*-10/113, *SB-K*-10/111, *VS-M*-10/76, *VS-K*-11/95, *KS*-2/41)
+- अन्तरिक्ष-स᳓त् (*TS*-4/5, *RV*-1, *AV*-0/1, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-4/5, *KS*-1)
+- धो᳓ता (*VS-K*-1)
+- वेदि-ष᳓त् (*SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-4/5, *KS*-1)
+- अ᳓तिथिः (*TS*-5/13, *RV*-19/44, *TB*-2/5, *AV*-14/26, *SB-M*-6/11, *SB-K*-6/13, *VS-M*-4/9, *VS-K*-5/13, *KS*-3/7)
+- दुरोण-स᳓त् (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-4, *KS*-1)
+- नृ-ष᳓त् (*SB-M*-4, *SB-K*-4, *VS-M*-2, *VS-K*-4/5, *KS*-1)
+- वर-स᳓त् (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-4, *KS*-1)
+- ऋत-स᳓त् (*TS*-3, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-4, *KS*-1)
+- व्योम-स᳓त् (*TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-4, *KS*-1)
+- अप्-जाः᳓ (*TS*-4, *RV*-1/2, *SB-K*-3, *VS-M*-2, *VS-K*-4, *KS*-1)
+- गो-जाः᳓ (*TS*-2/3, *RV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-4/5, *KS*-1)
+- ऋत-जाः᳓ (*TS*-2/3, *RV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-4/8, *KS*-1)
+- अद्रि-जाः᳓ (*TS*-2/3, *RV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-4/8, *KS*-1)
+- ऋत᳓म् (*TS*-21/80, *RV*-78/361, *TB*-16/62, *TK*-1/2, *AV*-48/107, *SB-M*-16/72, *SB-K*-16/74, *VS-M*-10/41, *VS-K*-11/41, *KS*-3/25)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- हंसः᳓ (*MS*-7/9, *TS*-3/5, *RV*-3/8, *TB*-2, *TK*-1, *AV*-1/9, *SB-M*-3, *SB-K*-3, *VS-M*-4/5, *VS-K*-5/6)
+- शुचि-ष᳓त् (*MS*-4, *TB*-2, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-4/5)
+- व᳓सुः (*MS*-16/140, *TS*-12/143, *RV*-25/311, *TB*-1/59, *TK*-0/2, *AV*-1/90, *SB-M*-10/113, *SB-K*-10/111, *VS-M*-11/77, *VS-K*-11/100)
+- अन्तरिक्ष-स᳓त् (*MS*-5, *TS*-4/5, *RV*-1, *AV*-0/1, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-4/5)
+- हो᳓ता (*MS*-81/112, *TS*-43/63, *RV*-150/244, *TB*-95/136, *TK*-6/8, *AV*-18/28, *SB-M*-135/211, *SB-K*-145/211, *VS-M*-58/73, *VS-K*-44/60)
+- वेदि-ष᳓त् (*MS*-1, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-4/5)
+- अ᳓तिथिः (*MS*-5/13, *TS*-5/13, *RV*-19/44, *TB*-2/5, *AV*-14/26, *SB-M*-6/11, *SB-K*-6/13, *VS-M*-4/9, *VS-K*-5/15)
+- दुरोण-स᳓त् (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-4)
+- नृ-ष᳓त् (*MS*-1, *SB-M*-4, *SB-K*-4, *VS-M*-2, *VS-K*-4/5)
+- वर-स᳓त् (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-4)
+- ऋत-स᳓त् (*MS*-2, *TS*-3, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-4)
+- व्योम-स᳓त् (*MS*-1, *TS*-2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-4)
+- अप्-जाः᳓ (*TS*-4, *RV*-1/2, *SB-K*-3, *VS-M*-2, *VS-K*-4, *MS*-1)
+- गो-जाः᳓ (*MS*-1, *TS*-2/3, *RV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-4/5)
+- ऋत-जाः᳓ (*MS*-1, *TS*-2/3, *RV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-4/8)
+- अद्रि-जाः᳓ (*MS*-1, *TS*-2/3, *RV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-4/8)
+- ऋत᳓म् (*MS*-21/93, *TS*-21/80, *RV*-78/361, *TB*-16/62, *TK*-1/2, *AV*-48/107, *SB-M*-16/72, *SB-K*-16/74, *VS-M*-10/41, *VS-K*-12/45)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -332,6 +386,20 @@ And we end with the single word ṛtám ‘truth’, which, perhaps, incorporate
 
 The Hamsa homed in light, the Vasu in mid-air, the priest beside the altar, in the house the guest,  
      Dweller in noblest place, mid men, in truth, in sky, born of flood, kine, truth, mountain, he is holy Law.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To Indra's might svāhā!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The goose sitting in the pure, the Vasu sitting in the atmosphere, the Hotṛ sitting at the altar, the guest sitting in the dwelling,  
+sitting among men, sitting in the highest, sitting in truth, sitting in space, born of water, born of cattle, born of truth, born of rock, the great truth.
+
+The goose sitting in the pure, the Vasu sitting in the atmosphere, the Hotṛ sitting at the altar, the guest sitting in the house,  
+sitting among men, sitting in the best [place], sitting in truth, sitting in the sky, born of water, born of kine, born of truth, born of the rock, the truth!
 </details>
 
 <details><summary>Geldner</summary>

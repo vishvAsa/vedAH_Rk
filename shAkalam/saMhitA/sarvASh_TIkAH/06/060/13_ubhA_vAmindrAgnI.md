@@ -104,6 +104,12 @@ vām ← tvám (pronoun)
 उ॒भा दा॒तारा॑ इ॒षाँ र॑यी॒णामु॒भा वाज॑स्य सा॒तये॑ हुवे वाम् ॥३॥ १९
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उभा᳓ वाम् इन्द्राग्नी आहुव᳓ध्या उभा᳓ रा᳓धसः सह᳓ मादय᳓ध्यै  
+उभा᳓ दाता᳓रा इषाँ᳓ रयीणा᳓म् उभा᳓ वा᳓जस्य सात᳓ये हुवे वाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒भा । वा॒म् । इ॒न्द्रा॒ग्नी॒ इति॑ । आ॒ऽहु॒वध्यै॑ । उ॒भा । राध॑सः । स॒ह । मा॒द॒यध्यै॑ ।  
@@ -118,6 +124,29 @@ vām ← tvám (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 उ॒भा। वा॒म्। इ॒न्द्रा॒ग्नी॒ऽइती॑न्द्राग्नी। आ॒हु॒वध्या॒ऽइत्या॑ऽहु॒वध्यै॑। उ॒भा। राध॑सः। स॒ह। मा॒द॒यध्यै॑। उ॒भा। दा॒तारौ॑। इ॒षाम्। र॒यी॒णाम्। उ॒भा। वाज॑स्य। सा॒तये॑। हु॒वे। वा॒म्। ३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उभा᳓ (*TS*-17/71, *RV*-45/137, *TB*-6/50, *TK*-0/1, *AV*-20/82, *SB-M*-6/161, *SB-K*-6/151, *VS-M*-13/27, *VS-K*-17/32, *KS*-3/14)
+- वाम् (अनुदात्तम्, पा॰ ८.१.१८, *TS*-52, *RV*-514, *TB*-26, *TK*-1, *AV*-65, *SB-M*-40, *SB-K*-37, *VS-M*-19, *VS-K*-16, *KS*-19)
+- इन्द्राग्नी (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-20, *TB*-2, *AV*-2, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- आहु (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-4, *RV*-44, *TB*-72, *TK*-7, *AV*-39, *SB-M*-1, *SB-K*-422, *VS-M*-5, *VS-K*-4, *KS*-5)
+- व᳓ध्याः (*RV*-0/6, *TB*-0/1, *AV*-0/1, *KS*-0/2)
+- उभा᳓ (*TS*-17/71, *RV*-45/137, *TB*-6/50, *TK*-0/1, *AV*-20/82, *SB-M*-6/161, *SB-K*-6/151, *VS-M*-13/27, *VS-K*-17/32, *KS*-3/14)
+- रा᳓धसः (*TS*-2/10, *RV*-23/145, *TB*-0/3, *AV*-1/20, *SB-M*-3/9, *SB-K*-3/8, *VS-M*-3/7, *VS-K*-3/7, *KS*-1/4)
+- सह᳓ (*TS*-97, *RV*-59, *TB*-40, *AV*-134, *SB-M*-170, *SB-K*-159, *VS-M*-32, *VS-K*-32, *KS*-38)
+- मादय᳓ध्यै (*TS*-2, *RV*-4, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- उभा᳓ (*TS*-17/71, *RV*-45/137, *TB*-6/50, *TK*-0/1, *AV*-20/82, *SB-M*-6/161, *SB-K*-6/151, *VS-M*-13/27, *VS-K*-17/32, *KS*-3/14)
+- दाता᳓ (*TS*-2/9, *RV*-12/22, *TB*-2/4, *TK*-3/4, *AV*-6/25, *SB-M*-18/29, *SB-K*-18/34, *VS-M*-2/9, *VS-K*-1/9, *KS*-2/9)
+- राः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-4, *KS*-1)
+- इषा᳓म् (*TS*-2/25, *RV*-8/87, *TB*-1/7, *AV*-0/9, *SB-M*-1/20, *SB-K*-2/19, *VS-M*-1/21, *VS-K*-1/21, *KS*-0/5)
+- रयीणा᳓म् (*TS*-13/63, *RV*-41/269, *TB*-4/20, *TK*-4, *AV*-12/65, *SB-M*-2/22, *SB-K*-2/20, *VS-M*-8/35, *VS-K*-7/32, *KS*-6/27)
+- उभा᳓ (*TS*-17/71, *RV*-45/137, *TB*-6/50, *TK*-0/1, *AV*-20/82, *SB-M*-6/161, *SB-K*-6/151, *VS-M*-13/27, *VS-K*-17/32, *KS*-3/14)
+- वा᳓जस्य (*TS*-21/92, *RV*-32/350, *TB*-5/35, *TK*-0/1, *AV*-5/49, *SB-M*-17/73, *SB-K*-15/71, *VS-M*-16/69, *VS-K*-17/67, *KS*-8/53)
+- सात᳓ये (*TS*-4/5, *RV*-34/64, *TB*-2, *AV*-2/3, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1/2, *KS*-0/1)
+- हुवे (*TS*-18, *RV*-44, *TB*-2, *AV*-18, *SB-M*-1, *VS-M*-2, *VS-K*-2, *KS*-4)
+- वाम् (अनुदात्तम्, पा॰ ८.१.१८, *TS*-52, *RV*-514, *TB*-26, *TK*-1, *AV*-65, *SB-M*-40, *SB-K*-37, *VS-M*-19, *VS-K*-16, *KS*-19)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -465,6 +494,12 @@ You both I summon for the winning of strength.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 You two will I invoke, O Indra-Agni, will please you both together with oblation. Givers, you twain, of vigorous strength and riches, you twain do I invoke for gain of vigour.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Both of you, Indra and Agni, are to be invoked; both are to be exhilarated together with bounty;  
+both are givers of refreshments and riches; both I invoke for the winning of prize-wealth.
 </details>
 
 <details><summary>Geldner</summary>

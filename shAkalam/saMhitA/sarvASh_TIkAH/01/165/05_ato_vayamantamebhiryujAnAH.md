@@ -95,10 +95,69 @@ svadhā́m ← svadhā́- (nominal stem)
 महो॑भि॒रेताँ॒ उप॑ युज्महे॒ न्विन्द्र॑ स्व॒धामनु॒ हि नो॑ ब॒भूथ॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓तो वय᳓म् अन्तमे᳓भिर् युजानाः᳓ स्व᳓क्षत्रेभिस् तन्वः᳙ शु᳓म्भमानाः  
+म᳓होभिर् ए᳓कम् उ᳓पयुज्महे न्व् इ᳓न्द्रः स्वधा᳓म् अ᳓नु हि᳓ नो बभू᳓थ
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓तो वय᳓मन्तमे᳓भिर्युजाना᳓स्स्व᳓क्षत्रेभिस्तन्व्रश्शु᳓म्भमानाः।  
+म᳓होभिरे᳓ताँ उ᳓पयुज्महे न्वि᳓न्द्र स्वधा᳓म᳓नु हि᳓ नो बभू᳓थ
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अतः॑ । व॒यम् । अ॒न्त॒मेभिः॑ । यु॒जा॒नाः । स्वऽक्ष॑त्रेभिः । त॒न्वः॑ । शुम्भ॑मानाः ।  
 महः॑ऽभिः । एता॑न् । उप॑ । यु॒ज्म॒हे॒ । नु । इन्द्र॑ । स्व॒धाम् । अनु॑ । हि । नः॒ । ब॒भूथ॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓तः (*TS*-14, *RV*-61, *TB*-6, *AV*-15, *SB-M*-303, *SB-K*-258, *VS-M*-7, *VS-K*-3, *KS*-5)
+- वय᳓म् (*TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274, *KS*-46/242)
+- अन्तमे᳓भिः (*TS*-0/5, *RV*-1/2, *TB*-0/1, *SB-M*-0/2, *SB-K*-0/4, *KS*-1/2)
+- युजानाः᳓ (*RV*-4/20, *TB*-0/1, *KS*-1)
+- स्व᳓-क्षत्रेभिः (*RV*-1/4, *KS*-1)
+- तन्वः᳙ (*RV*-44, *AV*-25, *SB-M*-18, *SB-K*-18, *VS-M*-14, *VS-K*-11, *KS*-18)
+- शु᳓म्भमानाः (*TS*-1, *RV*-6/7, *TB*-1, *TK*-0/1, *AV*-2, *VS-M*-2, *VS-K*-2, *KS*-1)
+- म᳓होभिः (*TS*-1/14, *RV*-13/27, *TB*-2/27, *TK*-0/2, *AV*-0/16, *SB-M*-0/28, *SB-K*-0/21, *VS-M*-1/12, *VS-K*-1/10, *KS*-1/5)
+- ए᳓कम् (*TS*-25/127, *RV*-76/218, *TB*-17/51, *TK*-0/3, *AV*-40/123, *SB-M*-164/615, *SB-K*-146/586, *VS-M*-9/32, *VS-K*-8/27, *KS*-10/24)
+- उ᳓प (*TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60, *KS*-116)
+- युज्महे (*RV*-1, *KS*-1)
+- नु᳓ (*TS*-21, *RV*-338, *TB*-16, *TK*-12, *AV*-66, *SB-M*-273, *SB-K*-226, *VS-M*-21, *VS-K*-17, *KS*-18)
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380, *KS*-72/189)
+- सु (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-1, *TB*-13, *TK*-1, *SB-M*-7, *SB-K*-4, *VS-K*-1, *KS*-9)
+- अधा᳓म् (*TS*-0/2, *RV*-0/5, *TB*-8/11, *TK*-0/1, *AV*-0/3, *SB-M*-0/27, *SB-K*-0/30, *VS-M*-0/2, *VS-K*-0/3, *KS*-2/4)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116, *KS*-96)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43, *KS*-81)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382, *KS*-252)
+- बभू᳓थ (*TS*-3, *RV*-12, *TB*-1, *AV*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓तः (*MS*-35, *TS*-14, *RV*-61, *TB*-6, *AV*-15, *SB-M*-303, *SB-K*-258, *VS-M*-7, *VS-K*-3)
+- वय᳓म् (*MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- अन्तमे᳓भिः (*MS*-1/2, *TS*-0/5, *RV*-1/2, *TB*-0/1, *SB-M*-0/2, *SB-K*-0/4)
+- युजानाः᳓ (*MS*-1/2, *RV*-4/20, *TB*-0/1)
+- स्व᳓-क्षत्रेभिः (*MS*-1, *RV*-1/4)
+- तम् (*MS*-13, *TS*-4, *TB*-6, *TK*-1, *SB-M*-8, *SB-K*-10)
+- व्रः (मूल-पाठः)
+- शु᳓म्भमानाः (*MS*-2, *TS*-1, *RV*-6/7, *TB*-1, *TK*-0/1, *AV*-2, *VS-M*-2, *VS-K*-2)
+- म᳓होभिः (*MS*-3/18, *TS*-1/14, *RV*-13/27, *TB*-2/27, *TK*-0/2, *AV*-0/16, *SB-M*-0/28, *SB-K*-0/21, *VS-M*-1/12, *VS-K*-1/10)
+- ए᳓ताम् (*MS*-0/264, *TS*-0/249, *RV*-1/113, *TB*-0/117, *TK*-0/17, *AV*-0/39, *SB-M*-1/968, *SB-K*-2/980, *VS-M*-0/10, *VS-K*-0/14)
+- उ᳓प (*MS*-488, *TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60)
+- युज्महे (*RV*-1, *MS*-1)
+- नु᳓ (*MS*-46, *TS*-21, *RV*-338, *TB*-16, *TK*-12, *AV*-66, *SB-M*-273, *SB-K*-226, *VS-M*-21, *VS-K*-17)
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- सु (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-22, *TS*-1, *TB*-13, *TK*-1, *SB-M*-7, *SB-K*-4, *VS-K*-1)
+- अधा᳓म् (*MS*-10/20, *TS*-0/2, *RV*-0/5, *TB*-8/11, *TK*-0/1, *AV*-0/3, *SB-M*-0/27, *SB-K*-0/30, *VS-M*-0/2, *VS-K*-0/3)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- बभू᳓थ (*MS*-2, *TS*-3, *RV*-12, *TB*-1, *AV*-2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -258,7 +317,10 @@ we now yoke antelopes also (as our lead team) by our great powers, for  you have
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md">
 <details><summary><h2>05-06 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 Indra seizes the Maruts’ assertion of independent power (svadhā́- 5d) by taxing them with the absence of (their exercise of) that power (6a) at a crucial moment. Another skirmish in the battle of the lexicon.
+</details>
 
 </details>
 </div>
@@ -267,6 +329,18 @@ Indra seizes the Maruts’ assertion of independent power (svadhā́- 5d) by tax
 
 Therefore together with our strong companions, having adorned our bodies, now we harness,  
      Our spotted deer with might, for thou, O Indra, hast learnt and understood our Godlike nature.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Therefore, joined with the nearest, with our own powers, adorning our bodies,  
+with splendors we join ourselves together as one now, O Indra; for thou hast conformed to our nature.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Thence we, joining with our nearest companions, our self-ruling bodies adorning themselves,  
+now harness these with our powers, O Indra; for according to our own will you have been [with us].
 </details>
 
 <details><summary>Geldner</summary>

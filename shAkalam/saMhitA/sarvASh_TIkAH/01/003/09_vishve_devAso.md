@@ -63,10 +63,28 @@ váhnayaḥ ← váhni- (nominal stem)
 मेधं॑ जुषन्त॒ वह्न॑यः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वि᳓श्वे देवा᳓सो अस्रि᳓धा ए᳓हिमायासो अद्रु᳓हः  
+मे᳓धं जुषन्त व᳓ह्नयः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 विश्वे॑ । दे॒वासः॑ । अ॒स्रिधः॑ । एहि॑ऽमायासः । अ॒द्रुहः॑ ।  
 मेध॑म् । जु॒ष॒न्त॒ । वह्न॑यः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वि᳓श्वे (*TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-48/214, *VS-K*-46/214, *KS*-31/118)
+- देवा᳓सः (*TS*-2/1025, *RV*-88/1342, *TB*-3/582, *TK*-0/32, *AV*-5/707, *SB-M*-6/2031, *SB-K*-7/1945, *VS-M*-7/517, *VS-K*-10/498, *KS*-1/317)
+- अस्रि᳓धाः (*RV*-0/8, *VS-M*-0/1, *VS-K*-0/1)
+- ए᳓हि-मायासः (*RV*-1)
+- अद्रु᳓हः (*RV*-15/22, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- मे᳓धम् (*TS*-8/18, *RV*-2/7, *TB*-4/16, *AV*-0/1, *SB-M*-17/53, *SB-K*-10/45, *VS-M*-2/5, *VS-K*-2/5, *KS*-6/8)
+- जुषन्त (*TS*-1, *RV*-20, *VS-M*-1, *VS-K*-1, *KS*-1)
+- व᳓ह्नयः (*TS*-2/15, *RV*-15/65, *TB*-0/9, *AV*-1/7, *VS-M*-0/4, *VS-K*-0/6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -164,6 +182,12 @@ I.3.11-12: Note the contrastive values of the simplex pres. cétantī ‘perceiv
 
 The Visvedevas, changing shape like serpents, fearless, void of guile,  
      Bearers, accept the sacred draught
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the All-gods, uninjured, possessing approaching crafts, free from deceit,  
+the conveyers, enjoy the offering.
 </details>
 
 <details><summary>Geldner</summary>

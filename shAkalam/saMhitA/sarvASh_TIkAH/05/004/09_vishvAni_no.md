@@ -109,10 +109,37 @@ tanū́nām ← tanū́- (nominal stem)
 अ॒स्माक॑म्बोध्यवि॒ता त॒नूना॑म् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वि᳓श्वानि नो दुर्ग᳓हा जातवेदः सि᳓न्धुं न᳓ नावा᳓ दुरिता᳓नि पर्षि  
+अ᳓ग्ने अत्रिव᳓न् न᳓मसा गृणानो᳙ ऽस्मा᳓कं बोध्य् अविता᳓ तनू᳓नाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 विश्वा॑नि । नः॒ । दुः॒ऽगहा॑ । जा॒त॒ऽवे॒दः॒ । सिन्धु॑म् । न । ना॒वा । दुः॒ऽइ॒ता । अति॑ । प॒र्षि॒ ।  
 अग्ने॑ । अ॒त्रि॒ऽवत् । नम॑सा । गृ॒णा॒नः । अ॒स्माक॑म् । बो॒धि॒ । अ॒वि॒ता । त॒नूना॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वि᳓श्वानि (*TS*-16/283, *RV*-117/1116, *TB*-7/125, *TK*-0/124, *AV*-16/353, *SB-M*-9/248, *SB-K*-7/219, *VS-M*-10/214, *VS-K*-8/214, *KS*-6/118)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- दुः-ग᳓हा (*RV*-5/8, *AV*-0/1)
+- जात-वेदः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-18, *RV*-55, *TB*-8, *AV*-54, *SB-K*-6, *VS-M*-10, *VS-K*-8, *KS*-10)
+- सि᳓न्धुम् (*TS*-0/11, *RV*-24/186, *TB*-0/7, *AV*-4/30, *SB-M*-0/7, *SB-K*-0/7, *VS-M*-0/8, *VS-K*-0/6, *KS*-0/6)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- नावा᳓ (*TS*-2, *RV*-9/13, *AV*-2, *SB-M*-0/2, *SB-K*-0/3, *KS*-1)
+- दुः-इता᳓नि (*TS*-1/3, *RV*-8/26, *TB*-0/2, *AV*-10/32, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/2, *KS*-0/1)
+- पर्षि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-6, *AV*-1)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- अत्रिव᳓त् (*RV*-8)
+- न᳓मसा (*TS*-7/315, *RV*-83/182, *TB*-8/60, *TK*-0/4, *AV*-12/248, *SB-M*-0/105, *SB-K*-0/102, *VS-M*-5/244, *VS-K*-5/167, *KS*-6/305)
+- गृणानः᳓ (*TS*-1/2, *RV*-37/44, *AV*-5, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1/2)
+- अस्मा᳓कम् (*TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/314, *VS-K*-14/265, *KS*-12/242)
+- बोधि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-5, *RV*-44, *TB*-2, *AV*-4, *SB-M*-6, *SB-K*-2, *VS-M*-7, *VS-K*-6, *KS*-3)
+- अविता᳓ (*TS*-2/3, *RV*-38/42, *AV*-7/10, *SB-M*-1, *SB-K*-1, *VS-M*-3/4, *VS-K*-3/4, *KS*-5)
+- तनू᳓नाम् (*TS*-1/64, *RV*-15/24, *TB*-0/21, *AV*-5/15, *SB-M*-1/44, *SB-K*-0/43, *VS-M*-2/20, *VS-K*-2/33, *KS*-1/29)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -276,6 +303,12 @@ O Agni, being sung with reverence as if by Atri, become the helper of  our bodie
 
 Over all woes and dangers, Jatavedas, bear us as in a boat across a river.  
      Praised with our homage even as Atri praised thee, O Agni, be the guardian of our bodies.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Across all our difficulties, O Jātavedas, as across a river with a boat, take us across distresses;  
+O Agni, praised with reverence like Atri, awake as the protector of our bodies.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -72,10 +72,31 @@ naḥ ← ahám (pronoun)
 इ॒मा जु॑षस्व नो॒ गिरः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अर्वाव᳓तो ना आ᳓गहि पराव᳓तश् च वृत्रहन्  
+इमा᳓ जुषस्व नो गि᳓रः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒र्वा॒ऽवतः॑ । नः॒ । आ । ग॒हि॒ । प॒रा॒ऽवतः॑ । च॒ । वृ॒त्र॒ऽह॒न् ।  
 इ॒माः । जु॒ष॒स्व॒ । नः॒ । गिरः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अर्वा-व᳓तः (*RV*-4/12, *AV*-3/5)
+- नाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- गहि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-7, *RV*-79, *TB*-1, *AV*-20, *SB-M*-3, *SB-K*-3, *VS-M*-6, *VS-K*-6, *KS*-4)
+- परा-व᳓तः (*TS*-6/12, *RV*-42/64, *TB*-2/7, *AV*-15/23, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5, *VS-K*-4, *KS*-3)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- वृत्र-हन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-5, *RV*-38, *TB*-3, *AV*-14, *VS-M*-5, *VS-K*-4, *KS*-3)
+- इमाः᳓ (*TS*-21/965, *RV*-60/1247, *TB*-8/567, *TK*-1/57, *AV*-50/1259, *SB-M*-201/5239, *SB-K*-253/5549, *VS-M*-13/313, *VS-K*-10/289, *KS*-20/319)
+- जुषस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-41, *TB*-6, *AV*-7, *SB-M*-8, *SB-K*-9, *VS-M*-10, *VS-K*-8, *KS*-10)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- गि᳓रः (*TS*-10, *RV*-151/158, *TB*-11, *AV*-22, *SB-M*-7, *SB-K*-6, *VS-M*-11, *VS-K*-12, *KS*-13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -178,7 +199,10 @@ Enjoy these songs of ours.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 On the “magic square” of these vss., see published introduction. Vs. 9 actually seems to be covering the logical possibility that Indra might not be either far or near but somewhere in between, and in that case the exhortation in vs. 8 to come from nearby or far away might not work.
+</details>
 </details>
 </div>
 
@@ -186,6 +210,12 @@ On the “magic square” of these vss., see published introduction. Vs. 9 actua
 
 From far away, from near at hand, O Vrtra-slayer, come to us:  
      Accept the songs we sing to thee.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Come to us from nearby, and from afar, O slayer of Vṛtra;  
+enjoy these our songs!
 </details>
 
 <details><summary>Geldner</summary>

@@ -83,6 +83,12 @@ ubhé ← ubhá- (pronoun)
 पु॒त्रो मा॒तरा॑ वि॒चर॒न्नुपा॑वसि पृ॒णक्षि॒ रोद॑सी उ॒भे ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पावकवर्चाशुक्रवर्चा अनूनवर्चा उदियर्षि भानुना।  
+पुत्रः पितरा विचरन्नुपावसि पृणक्षि रोदसी उभे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पा॒व॒कऽव॑र्चाः । शु॒क्रऽव॑र्चाः । अनू॑नऽवर्चाः । उत् । इ॒य॒र्षि॒ । भा॒नुना॑ ।  
@@ -97,6 +103,25 @@ ubhé ← ubhá- (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 पा॒व॒कव॑र्चा॒ इति॑ पाव॒कऽव॑र्चाः। शु॒क्रव॑र्चा॒ इति॑ शु॒क्रऽव॑र्चाः। अनू॑नवर्चा॒। इत्यनू॑नऽवर्चाः। उत्। इ॒य॒र्षि॒। भा॒नुना॑। पु॒त्रः। मा॒तरा॑। वि॒चर॒न्निति॑ वि॒ऽचर॑न्। उप॑। अ॒व॒सि॒। पृ॒णक्षि॑। रोद॑सी॒ इति॒ रोद॑सी। उ॒भे। इत्यु॒भे। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पावक᳓ (*Whitney*, *MS*-17, *TS*-1/3, *RV*-35, *TB*-5, *TK*-1, *AV*-7, *SB-M*-13, *SB-K*-12, *VS-M*-7, *VS-K*-8)
+- वर्चा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- शुक्र᳓-वर्चाः (*MS*-1, *TS*-1, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- अ᳓नून-वर्चाः (*MS*-1, *TS*-1/2, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1/2)
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- इयर्षि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- भानु᳓ना (*MS*-4/15, *TS*-8/16, *RV*-24/64, *TB*-3/4, *AV*-2/6, *SB-M*-7/12, *SB-K*-7/12, *VS-M*-7/11, *VS-K*-7/13)
+- पुत्रः᳓ (*MS*-18/55, *TS*-20/56, *RV*-41/104, *TB*-11/23, *TK*-3/4, *AV*-26/118, *SB-M*-49/119, *SB-K*-49/119, *VS-M*-9/29, *VS-K*-6/29)
+- पित᳓रा (*MS*-1/68, *TS*-4/49, *RV*-18/93, *TB*-1/54, *TK*-0/1, *AV*-2/84, *SB-M*-3/123, *SB-K*-3/120, *VS-M*-1/32, *VS-K*-1/30)
+- वि-च᳓रन् (*MS*-1, *TS*-1, *RV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- उ᳓प (*MS*-488, *TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60)
+- अवसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- पृणक्षि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *AV*-2)
+- रो᳓दसी (*MS*-22/25, *TS*-14/18, *RV*-186/207, *TB*-6, *TK*-1, *AV*-28, *SB-M*-8/9, *SB-K*-8/9, *VS-M*-13/15, *VS-K*-13/16)
+- उभे᳓ (*MS*-18/70, *TS*-9/71, *RV*-82/137, *TB*-12/50, *TK*-1, *AV*-39/82, *SB-M*-61/161, *SB-K*-69/151, *VS-M*-8/28, *VS-K*-10/34)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -290,6 +315,13 @@ _________
 पुत्रः 'मातरा मातापितरौ उत्तमे वयसि "विचरन् उपचरन् 'उपावसि उपसंगम्य पालयसि यथा तथा त्वम् अपि सर्वं पालयसि । किं च- 'पृणक्षि रोदसी द्यावापृथिवी उभे त्वं पृणक्षि पूरयसि ॥ ६ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[235_3]** Ch यक्षि
+
+- **[235_4]** D न्नुपावसि
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 माता-पिता सन्तानों के प्रति क्या-क्या करें, यह विषय अगले मन्त्र में कहा है ॥
@@ -348,6 +380,12 @@ As a son wandering between your two mothers, you approach (them)  helpfully. You
 
 With brilliant, purifying sheen, with perfect sheen thou liftest up thyself in light.  
      Thou, visiting both thy Mothers, aidest them as Son: thou joinest close the earth and heaven.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of purifying light, of bright light, of unblemished light, you rise up with your beam;  
+wandering between, a son, you help the two parents; you unite both worlds.
 </details>
 
 <details><summary>Geldner</summary>

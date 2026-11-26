@@ -118,6 +118,12 @@ sá ← sá- ~ tá- (pronoun)
 स नो॒ दिवा॒ स रि॒षः पा॑तु॒ नक्त॑म् ॥ 36 ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पृष्टो᳓ दिवि᳓ पृष्टो᳓ अग्निः᳓ पृथिव्यां᳓ पृष्टो᳓ वि᳓श्वा ओ᳓षधीरा᳓विवेश।  
+वैश्वानर᳓स्स᳓हसा पृष्टो᳓ अग्नि᳓स्स᳓ नो दिवा᳓ स᳓ रिषः᳓ पातु न᳓क्तम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पृ॒ष्टः । दि॒वि । पृ॒ष्टः । अ॒ग्निः । पृ॒थि॒व्याम् । पृ॒ष्टः । विश्वाः॑ । ओष॑धीः । आ । वि॒वे॒श॒ ।  
@@ -137,6 +143,31 @@ sá ← sá- ~ tá- (pronoun)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-काठकम्)</summary>
 
 पृष्टः᳓ । दिवि᳓ । पृष्टः᳓ । अग्निः᳓ । पृथिव्या᳓म् । पृष्टः᳓ । वि᳓श्वाः । ओ᳓षधीः । आ᳓ । विवेश । वैश्वानरः᳓ । स᳓हसा । पृष्टः᳓ । अग्निः᳓ । सः᳓ । नः । दि᳓वा । सः᳓ । रिषः᳓ । पातु । न᳓क्तम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पृष्टः᳓ (*MS*-9, *TS*-6, *RV*-6, *TK*-4, *AV*-1, *SB-M*-4, *SB-K*-2/4, *VS-M*-5, *VS-K*-4)
+- दिवि᳓ (*MS*-63/308, *TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-24/179)
+- पृष्टः᳓ (*MS*-9, *TS*-6, *RV*-6, *TK*-4, *AV*-1, *SB-M*-4, *SB-K*-2/4, *VS-M*-5, *VS-K*-4)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- पृथिव्या᳓म् (*MS*-40/155, *TS*-30/116, *RV*-31/139, *TB*-16/48, *TK*-6/7, *AV*-40/92, *SB-M*-64/152, *SB-K*-62/160, *VS-M*-30/91, *VS-K*-25/85)
+- पृष्टः᳓ (*MS*-9, *TS*-6, *RV*-6, *TK*-4, *AV*-1, *SB-M*-4, *SB-K*-2/4, *VS-M*-5, *VS-K*-4)
+- वि᳓श्वाः (*MS*-28/301, *TS*-19/283, *RV*-102/1116, *TB*-13/125, *TK*-2/124, *AV*-31/353, *SB-M*-14/248, *SB-K*-13/219, *VS-M*-20/225, *VS-K*-25/224)
+- ओ᳓षधीः (*MS*-45/137, *TS*-27/114, *RV*-50/89, *TB*-19/57, *TK*-2, *AV*-38/86, *SB-M*-54/93, *SB-K*-51/98, *VS-M*-22/44, *VS-K*-22/49)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- विवेश (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-20, *TK*-2, *AV*-20, *SB-M*-25, *SB-K*-23, *VS-M*-9, *VS-K*-9, *MS*-4)
+- वैश्वानरः᳓ (*MS*-56/116, *TS*-40/104, *RV*-20/42, *TB*-7/20, *TK*-3/4, *AV*-14/31, *SB-M*-61/147, *SB-K*-55/140, *VS-M*-10/36, *VS-K*-8/33)
+- स᳓हसा (*MS*-8/43, *TS*-8/35, *RV*-29/122, *TB*-7/28, *TK*-1/4, *AV*-10/50, *SB-M*-5/21, *SB-K*-10/24, *VS-M*-3/28, *VS-K*-3/40)
+- पृष्टः᳓ (*MS*-9, *TS*-6, *RV*-6, *TK*-4, *AV*-1, *SB-M*-4, *SB-K*-2/4, *VS-M*-5, *VS-K*-4)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- दिवा᳓ (*MS*-5, *TS*-5, *RV*-10, *TK*-1, *AV*-6, *SB-M*-5, *SB-K*-5, *VS-M*-5, *VS-K*-9)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- रिषः᳓ (*MS*-2, *TS*-3/4, *RV*-13/15, *TB*-1, *TK*-1, *AV*-1, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-4/7)
+- पातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-42, *TS*-34, *RV*-34, *TB*-2, *TK*-1, *AV*-56, *SB-M*-16, *SB-K*-7, *VS-M*-20, *VS-K*-15)
+- न᳓क्तम् (*MS*-24, *TS*-15, *RV*-33, *TB*-15, *TK*-1, *AV*-11, *SB-M*-10, *SB-K*-9, *VS-M*-8, *VS-K*-6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -400,6 +431,11 @@ _________
 इति द्वितीये काठके षष्ठोऽनुवाकः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[601_5]** So corr. Ch पृथिव्यास्पृष्टो, vgl. oben 4, 16; MS 2, 13, 11; RV 1, 98, 2. (Thus emended Ch पृथिव्यास्पृष्टो, cf. above 4, 16; MS 2, 13, 11; RV 1, 98, 2.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -481,6 +517,19 @@ May he by day [1] and night protect us from the foe.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Sought in the sky, sought on the earth, sought after, all plants that grow on ground hath Agni entered. May Agni, may Vaisvânara with vigour, sought for, by day and night from harm preserve us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni was sought in heaven, sought on earth, sought he entered into all plants.  
+Agni Vaiśvānara was sought by might; may he protect us by day, may he protect us from injury by night!  
+Establish among our patrons, O Agni, unbending dominion, unaging, full of good heroes!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Agni touched in heaven, touched upon earth, touched, has entered into all plants;  
+Agni Vaiśvānara, touched with power—may he protect us by day, from harm by night!
 </details>
 
 <details><summary>Geldner</summary>

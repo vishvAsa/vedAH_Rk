@@ -89,10 +89,36 @@ tápurmūrdhā ← tápurmūrdhan- (nominal stem)
 यो मर्त्ये॑षु॒ निध्रु॑विरृ॒तावा॒ तपु॑र्मूर्धा घृ॒तान्नः॑ पाव॒कः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्निं वो देवमग्निभिस्सजोषा यजिष्ठं दूतमध्वरे कृणुध्वम्।  
+यो मर्त्येषु निध्रुविर्ऋतावा तपुर्मूर्धा घृतान्नः पावकः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निम् । वः॒ । दे॒वम् । अ॒ग्निऽभिः॑ । स॒ऽजोषाः॑ । यजि॑ष्ठम् । दू॒तम् । अ॒ध्व॒रे । कृ॒णु॒ध्व॒म् ।  
 यः । मर्त्ये॑षु । निऽध्रु॑विः । ऋ॒तऽवा॑ । तपुः॑ऽमूर्धा । घृ॒तऽअ॑न्नः । पा॒व॒कः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- देव᳓म् (*MS*-56/1216, *TS*-17/1023, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/528, *VS-K*-44/523)
+- अग्नि᳓भिः (*MS*-0/1297, *TS*-0/1194, *RV*-10/856, *TB*-2/520, *TK*-0/105, *AV*-2/419, *SB-M*-12/2495, *SB-K*-12/2289, *VS-M*-0/325, *VS-K*-0/349)
+- सजो᳓षाः (*MS*-17, *TS*-11/13, *RV*-53/55, *TB*-5, *AV*-7, *SB-M*-2, *SB-K*-2, *VS-M*-8, *VS-K*-9)
+- य᳓जिष्ठम् (*MS*-1/7, *TS*-0/2, *RV*-14/27, *TB*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/7, *VS-K*-0/4)
+- दूत᳓म् (*MS*-5/10, *TS*-4/12, *RV*-29/89, *TB*-3/8, *AV*-1/15, *SB-M*-3/8, *SB-K*-4/10, *VS-M*-4/6, *VS-K*-4/6)
+- अध्वरे᳓ (*MS*-7/44, *TS*-2/27, *RV*-68/196, *TB*-5/25, *TK*-2, *AV*-7/22, *SB-M*-7/71, *SB-K*-9/68, *VS-M*-3/29, *VS-K*-2/22)
+- कृणुध्वम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-5, *RV*-23, *TB*-1, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-1)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- म᳓र्त्येषु (*MS*-4/18, *TS*-4/14, *RV*-24/182, *TB*-0/6, *TK*-1/3, *AV*-6/37, *SB-M*-4/84, *SB-K*-2/81, *VS-K*-0/8)
+- नि᳓-ध्रुविः (*RV*-2/3)
+- ऋत᳓-वा (*MS*-6/9, *TS*-3/84, *RV*-31/32, *TB*-1/31, *TK*-1/4, *AV*-1/17, *SB-M*-0/200, *SB-K*-1/188, *VS-M*-0/7, *VS-K*-0/7)
+- त᳓पुः-मूर्धा (*RV*-2)
+- घृता᳓न्नः (*MW*)
+- पावकः᳓ (*MS*-10/28, *TS*-12/24, *RV*-20/46, *TB*-2/11, *TK*-1, *AV*-2/7, *SB-M*-7/19, *SB-K*-7/19, *VS-M*-6/10, *VS-K*-7/11)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -245,6 +271,12 @@ he who is firmly established among mortals and possessing the truth,  the pure o
 
 ASSOCIATE with fires, make your God Agni envoy at sacrifice, best skilled in worship,  
      Established firm among mankind, the Holy, flame-crowned and fed with oil, the Purifier.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In harmony with the fires, make Agni your god, the best sacrificer, the messenger at the adhvara;  
+who among mortals is steadfast, righteous, hot-headed, having ghee as food, the purifier.
 </details>
 
 <details><summary>Geldner</summary>

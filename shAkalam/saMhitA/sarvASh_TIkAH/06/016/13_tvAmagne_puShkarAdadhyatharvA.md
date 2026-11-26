@@ -364,6 +364,18 @@ Atharvan passed out,
 From the head of every priest.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+"You, O Agni, Atharvan churned out from the lotus,  
+from the head of the whole world, the priest."
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Atharvan churned you out, o Agni, from the lotus-leaf,  
+from the head of the whole world, the sacrificer.
+</details>
+
 <details><summary>Geldner</summary>
 
 Dich, Agni, rieb Atharvan aus der Lotusblume, dich die Priester aus dem Haupt der ganzen Welt.

@@ -69,10 +69,30 @@ yajñásya ← yajñá- (nominal stem)
 अग्रे॑ य॒ज्ञस्य॒ शोच॑तः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स्पार्हा᳓ य᳓स्य श्रि᳓यो दृशे᳓ रयि᳓र्वी᳓रवतो यथा।  
+अ᳓ग्ने यज्ञ᳓स्य चे᳓ततः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स्पा॒र्हाः । यस्य॑ । श्रियः॑ । दृ॒शे । र॒यिः । वी॒रऽव॑तः । य॒था॒ ।  
 अग्रे॑ । य॒ज्ञस्य॑ । शोच॑तः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स्पार्हा᳓ (*RV*-5/26, *AV*-1/4, *VS-M*-0/1, *VS-K*-0/1, *MS*-0/1)
+- य᳓स्य (*MS*-155/3763, *TS*-134/3385, *RV*-207/4011, *TB*-71/1735, *TK*-2/227, *AV*-112/3120, *SB-M*-143/8327, *SB-K*-136/8438, *VS-M*-28/651, *VS-K*-25/609)
+- श्रि᳓यः (*MS*-0/9, *TS*-0/7, *RV*-18/33, *TB*-1/16, *TK*-0/2, *AV*-1/15, *SB-M*-4/64, *SB-K*-5/69, *VS-M*-1/8, *VS-K*-1/8)
+- दृशे᳓ (*MS*-3/4, *TS*-7, *RV*-26, *TB*-1, *AV*-12, *SB-M*-4, *SB-K*-4, *VS-M*-5, *VS-K*-2)
+- रयिः᳓ (*MS*-7/71, *TS*-7/63, *RV*-28/269, *TB*-4/20, *TK*-0/4, *AV*-3/65, *SB-M*-6/22, *SB-K*-6/20, *VS-M*-3/36, *VS-K*-2/37)
+- वी᳓र-वतः (मूल-पाठः)
+- यथा (*MS*-11, *TS*-6, *RV*-34, *TB*-4, *TK*-1, *AV*-9, *SB-M*-2, *SB-K*-15, *VS-M*-3, *VS-K*-4)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- यज्ञ᳓स्य (*MS*-180/933, *TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/187)
+- चे᳓ततः (*RV*-1/5, *TB*-1, *AV*-0/1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -154,6 +174,11 @@ _________
 **यज्ञस्य** **अग्रे** पुरस्ताद्भागे **शोचतः** दीप्यमानस्य **यस्य** अग्नेः **श्रियः** दीप्तयः **वीरवतः**  पुत्रवतः **रयिः** धनं **यथा** तद्वत् **दृशे** द्रष्टुं चक्षुषे वा **स्पार्हाः** स्पृहणीया भवन्ति तस्मै नवं स्तोमं जीजनमित्यनुषङ्गः । उत्तरत्र संबन्धो वा ॥ ॥ १८ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[613_3]** Vgl. RV 7, 15, 5 शो᳓चतः (Cf. RV 7, 15, 5 शो᳓चतः)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -172,6 +197,12 @@ Whose glories are eagerly sought to be seen, like the wealth of one rich in  her
 
 Whose lories when he glows in front of sacrite are fair to see,  
      Like wealth of one with hero sons.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whose glories are desirable to behold like the wealth of one rich in heroes,  
+in front of the sacrifice as he takes note.
 </details>
 
 <details><summary>Geldner</summary>

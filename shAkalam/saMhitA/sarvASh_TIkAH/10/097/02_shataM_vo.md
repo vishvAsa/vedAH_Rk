@@ -92,6 +92,12 @@ me ← ahám (pronoun)
 अथा॑ शतक्रत्वो यू॒यमि॒मम्मे॑ अग॒दङ्कृ॑त ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+शतं᳓ वो अम्ब धा᳓मानि सह᳓स्रमुत᳓ वो रु᳓हः।  
+अं᳓धा शतक्रतवो यूय᳓मिमं᳓ मे अगदं᳓ कृत
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 श॒तम् । वः॒ । अ॒म्ब॒ । धामा॑नि । स॒हस्र॑म् । उ॒त । वः॒ । रुहः॑ ।  
@@ -111,6 +117,25 @@ me ← ahám (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 श॒तम् । वः॒ । अ॒म्ब॒ । धामा॑नि । स॒हस्र॑म् । उ॒त । वः॒ । रुहः॑ ॥ अथ॑ । श॒त॒क्र॒त्व॒ इति॑ शत-क्र॒त्वः॒ । यू॒यम् । इ॒मम् । मे॒ । अ॒ग॒दम् । कृ॒त॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- शत᳓म् (*MS*-31/41, *TS*-24/76, *RV*-83/100, *TB*-9/16, *TK*-2, *AV*-78/95, *SB-M*-62/148, *SB-K*-56/136, *VS-M*-22/31, *VS-K*-19/25)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- अम्ब (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-3, *TS*-2, *RV*-4, *TB*-1, *AV*-2, *VS-M*-1, *VS-K*-1)
+- धा᳓मानि (*MS*-28/69, *TS*-12/53, *RV*-25/92, *TB*-20/31, *TK*-0/2, *AV*-3/45, *SB-M*-22/67, *SB-K*-24/71, *VS-M*-29/49, *VS-K*-23/45)
+- सह᳓स्रम् (*MS*-40/58, *TS*-52/81, *RV*-54/89, *TB*-6/9, *TK*-5, *AV*-28/39, *SB-M*-71/119, *SB-K*-71/107, *VS-M*-12/24, *VS-K*-10/22)
+- उत᳓ (*MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- रु᳓हः (*MS*-2, *TS*-1, *RV*-1, *AV*-5, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- अं᳓धा (मूल-पाठः)
+- शत-क्रतवः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- यूय᳓म् (*MS*-9/382, *TS*-14/313, *RV*-132/1488, *TB*-7/152, *TK*-0/39, *AV*-23/628, *SB-M*-16/387, *SB-K*-17/387, *VS-M*-7/216, *VS-K*-7/180)
+- इम᳓म् (*MS*-120/1379, *TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/319, *VS-K*-53/301)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *MS*-506, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-332)
+- अगद᳓म् (*MS*-1, *TS*-3, *RV*-2, *TB*-2/5, *AV*-3/7, *SB-M*-2/5, *SB-K*-4/7)
+- कृत (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-2, *RV*-3, *AV*-4, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -359,6 +384,12 @@ Ye, Mothers, have a hundred homes, yea, and a thousand are your growths.
 A hundred, O mother, are your abodes, A thousand too your shoots,  
 Therefore do ye, with a hundred powers,  
 Make him whole for me.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+A hundred are your stations, o mother, and a thousand your shoots;  
+so, o you of a hundred powers, make this [man] free from disease for me!
 </details>
 
 <details><summary>Geldner</summary>

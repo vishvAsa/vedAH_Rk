@@ -89,6 +89,12 @@ vetasáḥ ← vetasá- (nominal stem)
 घृ॒तस्य॒ धारा॑ अ॒भि चा॑कशीमि हिर॒ण्ययो॑ वेत॒सो मध्य॑ आसाम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+एता अर्षन्ति हृद्यात्समुद्राच्छतव्रजा रिपुणा नावचक्षे।  
+घृतस्य धारा अभिचाकशीमि हिरण्ययो वेतसो मध्य आसाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ए॒ताः । अ॒र्ष॒न्ति॒ । हृद्या॑त् । स॒मु॒द्रात् । श॒तऽव्र॑जाः । रि॒पुणा॑ । न । अ॒व॒ऽचक्षे॑ ।  
@@ -103,6 +109,28 @@ vetasáḥ ← vetasá- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 ए॒ताः। अ॒र्ष॒न्ति॒। हृद्या॑त्। स॒मु॒द्रात्। श॒तव्र॑जा॒ इति॑ श॒तऽव्र॑जाः। रि॒पुणा॑। न। अ॒व॒चक्ष॒। इत्य॑ऽव॒चक्षे॑। घृ॒तस्य॑। धाराः॑। अ॒भि। चा॒क॒शी॒मि॒। हि॒र॒ण्ययः॑। वे॒त॒सः। मध्ये॑। आ॒सा॒म्।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- एताः᳓ (*MS*-151/2587, *TS*-126/1673, *RV*-13/320, *TB*-29/858, *TK*-5/130, *AV*-12/340, *SB-M*-444/11086, *SB-K*-443/10669, *VS-M*-8/129, *VS-K*-6/104)
+- अर्षन्ति (समानान्तर-पाठः (RV), *RV*-21)
+- हृ᳓द्यात् (*MS*-0/1, *RV*-1/2, *AV*-0/1, *SB-M*-1, *VS-M*-1, *VS-K*-1/2)
+- समुद्रा᳓त् (*MS*-5/62, *TS*-3/51, *RV*-16/131, *TB*-0/22, *TK*-0/3, *AV*-8/66, *SB-M*-3/71, *SB-K*-3/74, *VS-M*-3/35, *VS-K*-3/33)
+- शत᳓-व्रजाः (*RV*-1, *VS-M*-1, *VS-K*-1)
+- रिपु᳓णा (*MS*-0/3, *TS*-0/1, *RV*-1/28, *AV*-0/2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/3, *VS-K*-1/2)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- अ᳓व (*Whitney*, *MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- चक्षे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *AV*-1)
+- घृत᳓स्य (*MS*-23/118, *TS*-15/64, *RV*-19/91, *TB*-10/34, *TK*-0/1, *AV*-10/40, *SB-M*-9/51, *SB-K*-10/51, *VS-M*-11/49, *VS-K*-11/45)
+- धा᳓राः (*MS*-3/14, *TS*-7/25, *RV*-27/107, *TB*-0/2, *TK*-1/3, *AV*-9/13, *SB-M*-3/41, *SB-K*-3/39, *VS-M*-7/11, *VS-K*-7/10)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- चाकशीमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3, *MS*-1)
+- हिरण्य᳓यः (*MS*-4/7, *TS*-1/2, *RV*-10/44, *TB*-1/3, *AV*-12/26, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-2/3)
+- वेतसः᳓ (*MS*-2/4, *TS*-3/4, *RV*-1, *TB*-3, *AV*-0/2, *SB-M*-6/8, *SB-K*-6/8, *VS-M*-2/3, *VS-K*-2/3)
+- म᳓ध्ये (*MS*-21/38, *TS*-30/45, *RV*-30/38, *TB*-7/13, *TK*-3/5, *AV*-15/31, *SB-M*-72/146, *SB-K*-68/143, *VS-M*-12/18, *VS-K*-10/14)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- असाम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-3, *SB-K*-11, *VS-K*-1, *MS*-20)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -323,6 +351,11 @@ _________
 वाचाम् अधिष्ठातृ-देवतात्मत्वेनाग्नेः प्रसिद्धेः ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[606_3]** So corr. Ch नवचक्षि; vgl. RV 4, 58, 5. (Thus emended; Ch reads नवचक्षि; cf. RV 4, 58, 5)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर मनुष्यों को कैसी वाणी का प्रयोग करना चाहिये, यह विषय अगले मन्त्र में कहा है ॥
@@ -394,6 +427,12 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 
 From inmost reservoir in countless channels flow down these rivers which the foe beholds not.  
      I look upon the streams of oil descending, and lo! the Golden Reed is there among them.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+These flow from the ocean of the heart, having a hundred enclosures, not to be looked upon by the enemy;  
+I behold the streams of ghee; in their midst is a golden reed.
 </details>
 
 <details><summary>Geldner</summary>

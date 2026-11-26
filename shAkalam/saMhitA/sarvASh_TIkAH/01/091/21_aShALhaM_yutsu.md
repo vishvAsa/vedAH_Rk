@@ -101,6 +101,12 @@ tvā́m ← tvám (pronoun)
 भ॒रे॒षु॒जाँ सु॑क्षि॒तिँ सु॒श्रव॑सं॒ जय॑न्तं॒ त्वामनु॑ मदेम सोम ॥१४॥ १४
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓षाढँ युत्सु᳓ पृ᳓तनासु प᳓प्रिँ स्वर्षा᳓म् अप्साँ᳓ वृज᳓नस्य गोपा᳓म्  
+भरेषुजाँ᳓ सुक्षितिँ᳓ सुश्र᳓वसं ज᳓यन्तं त्वा᳓म् अ᳓नुमदेम सोम
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अषा॑ळ्हम् । यु॒त्ऽसु । पृत॑नासु । पप्रि॑म् । स्वः॒ऽसाम् । अ॒प्साम् । वृ॒जन॑स्य । गो॒पाम् ।  
@@ -110,6 +116,26 @@ tvā́m ← tvám (pronoun)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 अषा॑ढम्। यु॒त्स्विति॑ यु॒त्ऽसु। पृत॑नासु। पप्रि॑म्। स्व॒र्षाम्। स्वःसामिति॑ स्वः॒ऽसाम्। अ॒प्साम्। वृ॒जन॑स्य। गो॒पाम्। भ॒रे॒षु॒जामिति॑ भरेषु॒ऽजाम्। सु॒क्षि॒तिमिति॑ सुऽक्षि॒तिम्। सु॒श्रव॑स॒मिति॑ सु॒ऽश्रव॑सम्। जय॒न्तम्। त्वाम्। अनु॑ म॒दे॒म॒। सो॒म॒। २०।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓-षाढम् (*TS*-0/2, *RV*-5/12, *TB*-3/4, *SB-M*-0/29, *SB-K*-0/21, *VS-M*-1/2)
+- युत्सु᳓ (*TS*-1, *RV*-6, *TB*-3, *AV*-1, *VS-M*-2, *VS-K*-1, *KS*-1)
+- पृ᳓तनासु (*TS*-5/20, *RV*-35/54, *TB*-5/13, *AV*-10/24, *SB-M*-3/6, *SB-K*-3/6, *VS-M*-3/5, *VS-K*-2/5, *KS*-3/6)
+- प᳓प्रिम् (*TS*-0/2, *RV*-1/5, *TB*-2/3, *AV*-1/2, *VS-M*-1, *VS-K*-1, *KS*-0/1)
+- स्वर्-षा᳓म् (*VS-M*-3, *VS-K*-2)
+- अप्सा᳓म् (*RV*-2/5, *VS-M*-1, *VS-K*-1)
+- वृज᳓नस्य (*TS*-0/1, *RV*-3/54, *TB*-2/3, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/3, *VS-K*-1/3, *KS*-0/3)
+- गो-पा᳓म् (*TS*-1/21, *RV*-11/61, *TB*-3/5, *TK*-0/4, *AV*-2/17, *SB-M*-3/5, *SB-K*-3/6, *VS-M*-3/8, *VS-K*-2/7, *KS*-2/7)
+- भरेषु-जा᳓म् (*RV*-1, *TB*-2, *VS-M*-1, *VS-K*-1)
+- सु-क्षिति᳓म् (*TS*-0/2, *RV*-9/16, *TB*-2/3, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/2, *VS-K*-1/2, *KS*-0/1)
+- सु-श्र᳓वसम् (*RV*-3, *TB*-2, *VS-M*-1, *VS-K*-1)
+- ज᳓यन्तम् (*TS*-3, *RV*-7, *TB*-2/6, *AV*-5/6, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-3, *VS-K*-3, *KS*-1)
+- त्वा᳓म् (*TS*-36/313, *RV*-179/1488, *TB*-16/152, *TK*-4/39, *AV*-69/628, *SB-M*-21/387, *SB-K*-19/387, *VS-M*-27/215, *VS-K*-26/167, *KS*-14/165)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-108, *KS*-96)
+- मदेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-12, *TB*-5, *TK*-1, *AV*-6, *SB-M*-4, *SB-K*-4, *VS-M*-2, *VS-K*-1)
+- सोम (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-50, *RV*-225, *TB*-24, *AV*-10, *SB-M*-19, *SB-K*-15, *VS-M*-25, *VS-K*-14, *KS*-16)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -392,6 +418,12 @@ Geldner accounts for the curious hapax bhareṣu-jā́- ‘born at raids’ by t
 
 Invincible in fight, saver in battles, guard of our camp, winner of light and water,  
      Born amid hymns, well-housed, exceeding famous, victor, in thee will we rejoice, O Soma.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unconquered in battles, carrying through in fights, winning heaven, winning water, guardian of the clan,  
+born in contests, possessing good dwelling, of good fame, conquering, may we rejoice along with you, O Soma!
 </details>
 
 <details><summary>Geldner</summary>

@@ -104,10 +104,42 @@ váyaḥ ← váyas- 2 (nominal stem)
 रा॒यश्च॒ स्थ स्व॑प॒त्यस्य॒ पत्नीः॒ सर॑स्वती॒ तद्गृ॑ण॒ते वयो॑ धात् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आपो रेवतीः क्षयथा हि वस्वः क्रतुं च भद्रं बिभृथामृतं च।  
+रायश्च स्थ स्वपत्यस्य पत्नीस्सरस्वती तद्गृणते वयो धात्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आपः॑ । रे॒व॒तीः॒ । क्षय॑थ । हि । वस्वः॑ । क्रतु॑म् । च॒ । भ॒द्रम् । बि॒भृ॒थ । अ॒मृत॑म् । च॒ ।  
 रा॒यः । च॒ । स्थ । सु॒ऽअ॒प॒त्यस्य॑ । पत्नीः॑ । सर॑स्वती । तत् । गृ॒ण॒ते । वयः॑ । धा॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓पः (*MS*-125/374, *TS*-98/319, *RV*-151/532, *TB*-59/152, *TK*-6/14, *AV*-141/324, *SB-M*-332/760, *SB-K*-333/744, *VS-M*-51/146, *VS-K*-37/124)
+- रेवतीः (समानान्तर-पाठः (RV), *RV*-4)
+- क्ष᳓ (*MW*, *Macdonell*, *RV*-8, *MS*-1)
+- यथा (समानान्तर-पाठः (RV), *MS*-11, *TS*-6, *RV*-34, *TB*-4, *TK*-1, *AV*-9, *SB-M*-2, *SB-K*-15, *VS-M*-3, *VS-K*-4)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- व᳓स्वः (*MS*-2, *TS*-1, *RV*-43, *TB*-2, *AV*-6, *VS-M*-1, *VS-K*-2)
+- क्र᳓तुम् (*MS*-8/23, *TS*-8/23, *RV*-59/168, *TB*-0/4, *AV*-6/18, *SB-M*-5/18, *SB-K*-6/21, *VS-M*-7/19, *VS-K*-7/22)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- भद्र᳓म् (*MS*-15/42, *TS*-10/32, *RV*-50/144, *TB*-7/26, *TK*-0/1, *AV*-23/68, *SB-M*-15/21, *SB-K*-23/30, *VS-M*-14/31, *VS-K*-14/29)
+- बिभृथ᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *RV*-2, *AV*-3)
+- अ-मृ᳓तम् (*MS*-53/84, *TS*-35/65, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-196/312, *VS-M*-40/64, *VS-K*-36/60)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- रायः᳓ (*MS*-14/41, *TS*-50/79, *RV*-129/262, *TB*-3/13, *TK*-0/1, *AV*-29/37, *SB-M*-3/24, *SB-K*-3/26, *VS-M*-29/53, *VS-K*-34/63)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- स्थ᳓ (*MW* ŚBr., *MS*-7, *TS*-13, *RV*-22, *TB*-2, *AV*-47, *SB-M*-20, *SB-K*-29, *VS-M*-8, *VS-K*-8)
+- स्वपत्य᳓स्य (*MW*, *MS*-1/3, *TS*-0/1, *TB*-0/2)
+- प᳓त्नीः (*MS*-14/73, *TS*-11/39, *RV*-18/25, *TB*-4/21, *TK*-0/3, *AV*-4/20, *SB-M*-25/123, *SB-K*-21/116, *VS-M*-4/13, *VS-K*-3/15)
+- स᳓रस्वती (*MS*-79/122, *TS*-20/45, *RV*-44/54, *TB*-55/87, *AV*-15/32, *SB-M*-36/63, *SB-K*-34/59, *VS-M*-59/105, *VS-K*-59/94)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- गृणते᳓ (*MS*-3, *TS*-3, *RV*-30/42, *TB*-2, *AV*-3, *SB-M*-1)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- धात् (समानान्तर-पाठः (RV), *MS*-4, *TS*-1, *RV*-21, *TB*-2, *AV*-8, *SB-M*-1, *SB-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -283,6 +315,12 @@ and you are masters of wealth that brings good progeny, let Sarasvatī establish
 
 For, wealthy Waters, ye control all treasures: ye bring auspicious intellect and Amrta.  
      Ye are the Queens of independent riches Sarasvati give full life to the singer!
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O waters, wealthy ones, you rule over wealth; you bear auspicious insight and immortality;  
+you are the mistresses of wealth and good offspring; may Sarasvatī grant vitality to the singer!
 </details>
 
 <details><summary>Geldner</summary>

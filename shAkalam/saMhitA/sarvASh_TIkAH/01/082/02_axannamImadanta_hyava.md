@@ -97,6 +97,12 @@ yójā ← √yuj- (root)
 अस्तो॑षत॒ स्वभा॑नवो॒ विप्रा॒ नवि॑ष्ठया म॒ती योजा॒ न्वि᳖न्द्र ते॒ हरी॑ ॥५१॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अक्ष᳓न्न᳓मीमदन्त ह्य᳓व प्रिया᳓ अधूषत।  
+अ᳓स्तोषत स्व᳓भानवो वि᳓प्रा न᳓विष्ठया मती᳓ यो᳓जा न्वि᳙न्द्र ते ह᳓री
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अक्ष॑न् । अमी॑मदन्त । हि । अव॑ । प्रि॒याः । अ॒धू॒ष॒त॒ ।  
@@ -111,6 +117,26 @@ yójā ← √yuj- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अक्ष॑न्। अमी॑मदन्त। हि। अव॑। प्रि॒याः। अ॒धू॒ष॒त॒। अस्तो॑षत। स्वभा॑नव॒ इति॑ स्वऽभा॑नवः। विप्राः॑। नवि॑ष्ठया। म॒ती। योज॑। नु। इ॒न्द्र॒। ते॒। हरी॒ऽइति॒ हरी॑। १।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अक्ष᳓न् (*TS*-1, *TB*-1, *SB-M*-14, *SB-K*-13, *MS*-1)
+- अ᳓मीमदन्त (*MS*-3, *TS*-2, *RV*-1, *TB*-4, *AV*-1, *SB-M*-4, *SB-K*-4, *VS-M*-3, *VS-K*-3)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- अ᳓व (*MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- प्रियाः᳓ (*MS*-10/135, *TS*-6/92, *RV*-10/213, *TB*-0/83, *TK*-0/1, *AV*-6/90, *SB-M*-17/134, *SB-K*-14/141, *VS-M*-2/60, *VS-K*-2/47)
+- अधूषत (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *SB-M*-1, *VS-M*-1, *VS-K*-1)
+- अ᳓स्तोषत (*MS*-1, *TS*-1, *RV*-1, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- स्व᳓-भानवः (*MS*-1, *TS*-1, *RV*-4/5, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- वि᳓प्रा (*MS*-7/26, *TS*-2/24, *RV*-5/223, *TB*-1/8, *AV*-1/32, *SB-M*-4/17, *SB-K*-4/15, *VS-M*-7/18, *VS-K*-1/20)
+- न᳓विष्ठया (*MS*-1, *TS*-1, *RV*-3/5, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- मती᳓ (*MS*-2/16, *TS*-1/9, *RV*-15/141, *TB*-0/10, *TK*-0/1, *AV*-1/18, *SB-M*-1/12, *SB-K*-1/11, *VS-M*-1/13, *VS-K*-1/14)
+- यो᳓जा (*MS*-2/4, *TS*-2/3, *RV*-0/18, *TB*-1, *AV*-0/1, *SB-M*-0/3, *SB-K*-2/3, *VS-M*-0/3, *VS-K*-1/3)
+- नु᳓ (*MS*-46, *TS*-21, *RV*-338, *TB*-16, *TK*-12, *AV*-66, *SB-M*-273, *SB-K*-226, *VS-M*-21, *VS-K*-17)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- ह᳓री (*MS*-8/16, *TS*-9/19, *RV*-91/263, *TB*-8/13, *TK*-0/1, *AV*-18/52, *SB-M*-5/16, *SB-K*-4/14, *VS-M*-8/18, *VS-K*-6/15)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -458,6 +484,13 @@ They have eaten, they have rejoiced,
 The dear ones have dispelled (evil),  
 The radiant sages have been praised with newest hymn;  
 Yoke, O Indra, thy two bay steeds.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They ate, indeed they exhilarated themselves, they shook off dear [troubles];  
+the self-luminous inspired singers praised with newest thought;  
+harness now your two bay steeds, O Indra!
 </details>
 
 <details><summary>Geldner</summary>

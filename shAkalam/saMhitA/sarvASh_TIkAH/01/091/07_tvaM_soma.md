@@ -69,10 +69,50 @@ jīváse ← √jīv- (root)
 दक्षं॑ दधासि जी॒वसे॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त्वँ᳓ सोम महे᳓ भ᳓गं त्वँ᳓ यू᳓न ऋतायते  
+द᳓क्षं दधासि जीव᳓से
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वँ सोम महे᳓ भ᳓गं त्वं᳓ यू᳓न ऋतायते᳓।  
+द᳓क्षं ददासि जीव᳓से
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । सो॒म॒ । म॒हे । भग॑म् । त्वम् । यूने॑ । ऋ॒त॒ऽय॒ते ।  
 दक्ष॑म् । द॒धा॒सि॒ । जी॒वसे॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- सोम (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-50, *RV*-225, *TB*-24, *AV*-10, *SB-M*-19, *SB-K*-15, *VS-M*-25, *VS-K*-14, *KS*-16)
+- महे᳓ (*TS*-6/26, *RV*-95/364, *TB*-5/17, *TK*-0/5, *AV*-14/77, *SB-M*-0/37, *SB-K*-0/37, *VS-M*-5/35, *VS-K*-5/34, *KS*-4/22)
+- भ᳓गम् (*TS*-1/13, *RV*-39/115, *TB*-10/23, *TK*-1, *AV*-16/65, *SB-M*-5/23, *SB-K*-5/17, *VS-M*-11/26, *VS-K*-9/26, *KS*-1/11)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- यू᳓नः (*TS*-0/11, *RV*-4/68, *TB*-1/8, *AV*-0/13, *SB-M*-0/4, *SB-K*-0/5, *VS-M*-0/4, *VS-K*-0/4, *KS*-1/4)
+- ऋत-यते (मूल-पाठः)
+- द᳓क्षम् (*TS*-3/13, *RV*-29/92, *TB*-1/5, *TK*-0/2, *AV*-8/11, *SB-M*-0/10, *SB-K*-0/13, *VS-M*-2/12, *VS-K*-2/13, *KS*-1/4)
+- दधासि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-5, *TB*-1, *AV*-2, *SB-M*-1, *SB-K*-3)
+- जीव᳓से (*TS*-6/7, *RV*-52/60, *TB*-7/9, *TK*-0/1, *AV*-9/14, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-5, *VS-K*-5, *KS*-7/11)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्वम् (*MS*-1, *TS*-1, *RV*-10, *TB*-1)
+- सोम (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-45, *TS*-50, *RV*-225, *TB*-24, *AV*-10, *SB-M*-19, *SB-K*-15, *VS-M*-25, *VS-K*-14)
+- महे᳓ (*MS*-6/36, *TS*-6/26, *RV*-95/364, *TB*-5/17, *TK*-0/5, *AV*-14/77, *SB-M*-0/37, *SB-K*-0/37, *VS-M*-5/35, *VS-K*-5/41)
+- भ᳓गम् (*MS*-8/33, *TS*-1/13, *RV*-39/115, *TB*-10/23, *TK*-1, *AV*-16/65, *SB-M*-5/23, *SB-K*-5/17, *VS-M*-11/26, *VS-K*-9/26)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- यू᳓नः (*MS*-2/17, *TS*-0/11, *RV*-4/68, *TB*-1/8, *AV*-0/13, *SB-M*-0/4, *SB-K*-0/5, *VS-M*-0/4, *VS-K*-0/4)
+- ऋत-यते᳓ (*TS*-2, *RV*-5/8, *TB*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1, *MS*-1)
+- द᳓क्षम् (*MS*-3/19, *TS*-3/13, *RV*-29/92, *TB*-1/5, *TK*-0/2, *AV*-8/11, *SB-M*-0/10, *SB-K*-0/13, *VS-M*-2/12, *VS-K*-2/13)
+- ददासि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1)
+- जीव᳓से (*MS*-14/16, *TS*-6/7, *RV*-52/60, *TB*-7/9, *TK*-0/1, *AV*-9/14, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-5, *VS-K*-5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -172,6 +212,18 @@ As Geldner and Renou both point out, the dat. yū́ne ‘youth’ in b suggests 
 
 To him who keeps the law, both old and young, thou givest happiness,  
      And energy that he may live.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thou, O Soma, bestowest great fortune on the youth who follows the cosmic order,  
+and capacity that he may live.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+To the great, you, O Soma, give fortune, to the young man who acts righteously;  
+you give skill to live.
 </details>
 
 <details><summary>Geldner</summary>

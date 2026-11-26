@@ -102,6 +102,12 @@ yajñám ← yajñá- (nominal stem)
 म॒खाय॑ त्वा म॒खस्य॑ त्वा शी॒र्ष्णे ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+प्रै᳓तु ब्र᳓ह्मणस्प᳓तिः प्र᳓ देव्य् ए᳙तु सूनृ᳓ता  
+अ᳓छा वीरं᳓ न᳓र्यं पङ्क्ति᳓राधसं देवा᳓ यज्ञं᳓ नयन्तु नः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । ए॒तु॒ । ब्रह्म॑णः । पतिः॑ । प्र । दे॒वी । ए॒तु॒ । सू॒नृता॑ ।  
@@ -116,6 +122,25 @@ yajñám ← yajñá- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 प्र। ए॒तु॒। ब्रह्म॑णः। पतिः॑। प्र। दे॒वी। ए॒तु॒। सू॒नृता॑। अच्छ॑। वी॒रम्। नर्य्य॑म्। प॒ङ्क्तिरा॑धस॒मिति॑ प॒ङ्क्तिऽरा॑धसम्। दे॒वाः। य॒ज्ञम्। न॒य॒न्तु॒। नः॒। मखाय॑। त्वा॒। म॒खस्य॑। त्वा॒। शी॒र्ष्णे।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195, *KS*-205)
+- एतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-26, *RV*-51, *TB*-15, *AV*-76, *SB-M*-17, *SB-K*-16, *VS-M*-17, *VS-K*-11, *KS*-8)
+- ब्र᳓ह्मणस्प᳓तिः (*TS*-1, *TB*-2, *SB-M*-2, *SB-K*-4, *VS-K*-1, *KS*-3)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195, *KS*-205)
+- देवि᳓ (*TS*-0/41, *RV*-0/112, *TB*-0/49, *TK*-0/4, *AV*-0/55, *SB-M*-1/40, *SB-K*-0/30, *VS-M*-0/58, *VS-K*-0/66, *KS*-1/14)
+- एतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-26, *RV*-51, *TB*-15, *AV*-76, *SB-M*-17, *SB-K*-16, *VS-M*-17, *VS-K*-11, *KS*-8)
+- सूनृ᳓ताः (*TS*-0/6, *RV*-9/34, *TB*-2/3, *TK*-0/1, *AV*-0/10, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/4, *VS-K*-0/3, *KS*-0/2)
+- अ᳓छा (*SB-M*-3/15, *SB-K*-0/3)
+- वीर᳓म् (*TS*-4/20, *RV*-22/119, *TB*-7/25, *AV*-6/66, *SB-M*-4/28, *SB-K*-3/32, *VS-M*-8/19, *VS-K*-6/17, *KS*-3/9)
+- न᳓र्यम् (*TS*-0/1, *RV*-12/41, *TB*-1/2, *AV*-0/3, *SB-M*-1/2, *SB-K*-1/2, *VS-K*-1/2, *KS*-0/1)
+- पङ्क्ति᳓-राधसम् (*RV*-1, *SB-M*-1, *VS-M*-2, *VS-K*-1)
+- देवाः᳓ (*TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523, *KS*-89/317)
+- यज्ञ᳓म् (*TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187, *KS*-53/171)
+- नयन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *TB*-3, *AV*-4, *SB-M*-3, *SB-K*-3, *VS-M*-5, *VS-K*-4, *KS*-1)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382, *KS*-252)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -359,6 +384,12 @@ May Brahmanaspati draw nigh, may Sunrta the Goddess come,
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 May Brahmanaspati draw nigh, etc., as in XXXIII. 89.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let Brahmaṇaspati step forward; let the divine Sūnṛtā step forward;  
+towards the manly hero who grants sets of five, let the gods lead our sacrifice.
 </details>
 
 <details><summary>Geldner</summary>

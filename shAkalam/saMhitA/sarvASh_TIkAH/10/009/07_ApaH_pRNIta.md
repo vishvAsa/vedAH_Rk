@@ -69,10 +69,30 @@ sū́ryam ← sū́rya- (nominal stem)
 ज्योक्च॒ सूर्यं॑ दृ॒शे ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓पः पृणीत᳓ भेषजं᳓ व᳓रूथं तन्वे म᳓म ।  
+ज्यो᳓क् च सू᳓र्य हशे᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आपः॑ । पृ॒णी॒त । भे॒ष॒जम् । वरू॑थम् । त॒न्वे॑ । मम॑ ।  
 ज्योक् । च॒ । सूर्य॑म् । दृ॒शे ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓पः (*MS*-125/374, *TS*-98/319, *RV*-151/532, *TB*-59/152, *TK*-6/14, *AV*-141/324, *SB-M*-332/760, *SB-K*-333/744, *VS-M*-51/146, *VS-K*-37/124)
+- पृणीत᳓ (*MS*-1, *RV*-2, *TB*-1, *AV*-1)
+- भेषज᳓म् (*MS*-34/38, *TS*-25/26, *RV*-14/21, *TB*-33/37, *TK*-1, *AV*-41/52, *SB-M*-19, *SB-K*-22, *VS-M*-31/33, *VS-K*-19/21)
+- व᳓रूथम् (*MS*-3/4, *TS*-6/7, *RV*-19/24, *TB*-1, *AV*-2/3, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-1)
+- तन्वे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- म᳓म (*MS*-19/641, *TS*-28/565, *RV*-74/1308, *TB*-15/270, *TK*-0/66, *AV*-75/1252, *SB-M*-46/723, *SB-K*-56/728, *VS-M*-14/315, *VS-K*-11/274)
+- ज्यो᳓क् (*MS*-6, *TS*-14/16, *RV*-15, *TB*-1, *AV*-11, *SB-M*-10, *SB-K*-8, *VS-M*-3, *VS-K*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- सू᳓र्य (*MS*-6, *TS*-1, *RV*-1, *TB*-1, *TK*-7, *AV*-10, *SB-M*-1, *SB-K*-2, *VS-M*-22, *VS-K*-1)
+- हशे᳓ (मूल-पाठः)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -170,6 +190,12 @@ and (for me) to see the sun for a long time.
 
 O Waters, teem with medicine to keep my body safe from harm,  
      So that I long may see the Sun.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Waters, grant healing, a shield for my body,  
+and long to see the sun.
 </details>
 
 <details><summary>Geldner</summary>

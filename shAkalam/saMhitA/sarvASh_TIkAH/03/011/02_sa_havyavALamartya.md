@@ -81,6 +81,18 @@ sám ← sám (invariable)
 अ॒ग्निर्धि॒या समृ॑ण्वति ॥८॥ २०
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+स᳓ हव्यवा᳓ड् अ᳓मर्त्य उशिग् दूत᳓श् च᳓नोहितः  
+अग्नि᳓र् धिया᳓ स᳓मृण्वति
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+स हव्यवाडमर्त्य उशिग्दूतश्चनोहितः।  
+अग्निर्धिया समृण्वति
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । ह॒व्य॒ऽवाट् । अम॑र्त्यः । उ॒शिक् । दू॒तः । चनः॑ऽहितः ।  
@@ -100,6 +112,34 @@ sám ← sám (invariable)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 सः । ह॒व्य॒वाडिति॑ हव्य-वाट् । अम॑र्त्यः । उ॒शिक् । दू॒तः । चनो॑हितः ॥ अ॒ग्निः । धि॒या । समिति॑ । ऋ॒ण्व॒ति॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-91/624, *KS*-225/1225)
+- हव्य-वा᳓ट् (*TS*-5/6, *RV*-9, *TB*-5, *SB-M*-8, *SB-K*-4, *VS-M*-1, *KS*-3)
+- अ᳓मर्त्यः (*TS*-2/7, *RV*-33/56, *TB*-3/7, *TK*-1, *AV*-5/11, *SB-M*-2/4, *SB-K*-2/4, *VS-K*-3/7, *KS*-4/5)
+- उशिक् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- दूतः᳓ (*TS*-7/12, *RV*-54/89, *TB*-3/8, *AV*-9/15, *SB-M*-5/8, *SB-K*-6/10, *VS-M*-2/6, *VS-K*-1/5, *KS*-2/6)
+- च᳓नः-हितः (*RV*-5, *VS-M*-3, *VS-K*-1)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-122/322, *VS-K*-113/339, *KS*-111/256)
+- धिया᳓ (*TS*-9/10, *RV*-84/98, *TB*-6/9, *AV*-9/11, *SB-M*-9/10, *SB-K*-9/10, *VS-M*-14/16, *VS-K*-7/9, *KS*-3/4)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- ऋण्वति (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-8)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- हव्य-वा᳓ट् (*MS*-9, *TS*-5/6, *RV*-9, *TB*-5, *SB-M*-8, *SB-K*-4, *VS-M*-1)
+- अ᳓मर्त्यः (*MS*-8/12, *TS*-2/7, *RV*-33/56, *TB*-3/7, *TK*-1, *AV*-5/11, *SB-M*-2/4, *SB-K*-2/4, *VS-K*-3/7)
+- उशि᳓क् (*MS*-2, *TS*-7/8, *RV*-4/7, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2)
+- दूतः᳓ (*MS*-5/10, *TS*-7/12, *RV*-54/89, *TB*-3/8, *AV*-9/15, *SB-M*-5/8, *SB-K*-6/10, *VS-M*-2/6, *VS-K*-2/6)
+- च᳓नः-हितः (*RV*-5, *VS-M*-3, *VS-K*-1, *MS*-1)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- धिया᳓ (*MS*-11/14, *TS*-9/10, *RV*-84/98, *TB*-6/9, *AV*-9/11, *SB-M*-9/10, *SB-K*-9/10, *VS-M*-14/19, *VS-K*-7/12)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- ऋण्व᳓ति (*Whitney*)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -326,6 +366,18 @@ Oblation-bearer, deathless, well inclined, an eager messenger,
 Bearing the oblation, immortal,  
 The eager messenger, well-inclined,  
 Agni uniteth with our prayer.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He, the oblation-bearer, immortal, eager, messenger, delighting in offerings,  
+Agni unites with prayer.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+He, the immortal conveyer of oblations, loving, messenger, gladdened,  
+Agni, is united with prayer.
 </details>
 
 <details><summary>Oldenberg</summary>

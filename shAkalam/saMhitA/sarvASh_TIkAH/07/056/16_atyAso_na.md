@@ -101,6 +101,12 @@ vatsā́saḥ ← vatsá- (nominal stem)
 ते ह॑र्म्ये॒ष्ठाश्शिश॑वो॒ न शु॒भ्रा व॒त्सासो॒ न प्र॑क्री॒डिनᳶ॑ पयो॒धाः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अत्यासो न ये मरुतस्त्वञ्चो यक्षदृशो न शुभयन्त मर्याः।  
+ते हर्म्येष्ठाश्शिशवो न शुभ्रा वत्सासो न प्रक्रीडिनः पयोधाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अत्या॑सः । न । ये । म॒रुतः॑ । सु॒ऽअञ्चः॑ । य॒क्ष॒ऽदृशः॑ । न । शु॒भय॑न्त । मर्याः॑ ।  
@@ -110,6 +116,28 @@ vatsā́saḥ ← vatsá- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अत्या॑सः । न । ये । म॒रुतः॑ । स्वञ्चः॑ । य॒क्ष॒दृश॒ इति॑ यक्ष-दृशः॑ । न । शु॒भय॑न्त । मर्याः॑ ॥ ते । ह॒र्म्ये॒ष्ठा इति॑ हर्म्ये-स्थाः । शिश॑वः । न । शु॒भ्राः । व॒त्सासः॑ । न । प्र॒क्री॒डिन॒ इति॑ प्र-क्री॒डिनः॑ । प॒यो॒धा इति॑ पयः-धाः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓त्यासः (*MS*-1/5, *TS*-1/5, *RV*-3/61, *TB*-0/1, *TK*-0/1, *AV*-0/1, *SB-M*-0/2, *SB-K*-0/3, *VS-M*-0/1, *VS-K*-0/1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- मरु᳓तः (*MS*-71/121, *TS*-46/82, *RV*-134/227, *TB*-30/51, *TK*-1, *AV*-37/58, *SB-M*-53/95, *SB-K*-54/93, *VS-M*-26/48, *VS-K*-20/40)
+- त्व᳓ञ्चः (अनाम्नातम् (अनुमानम्))
+- यक्ष-दृ᳓शः (*TS*-1, *RV*-1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- शुभ᳓यन्त (*MS*-1, *TS*-1, *RV*-1)
+- म᳓र्याः (*MS*-1/2, *TS*-1/2, *RV*-9/25, *AV*-0/2, *SB-M*-2/3, *SB-K*-1/3, *VS-M*-0/1, *VS-K*-0/1)
+- ते᳓ (*MS*-372/5550, *TS*-451/4761, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *SB-K*-914/20018, *VS-M*-118/780, *VS-K*-96/660)
+- हर्म्येष्ठाः᳓ (*MW*, *Macdonell*, *MS*-1)
+- शि᳓शवः (*MS*-0/5, *TS*-1/9, *RV*-1/44, *TB*-0/1, *AV*-1/6, *SB-M*-0/11, *SB-K*-0/12, *VS-M*-0/8, *VS-K*-0/12)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- शुभ्रा᳓ (*MS*-1, *TS*-1/2, *RV*-2/28, *AV*-1/2)
+- वत्सा᳓सः (*MS*-1/28, *TS*-1/24, *RV*-2/59, *TB*-0/22, *AV*-0/60, *SB-M*-0/29, *SB-K*-0/33, *VS-M*-0/6, *VS-K*-0/5)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- प्र-क्रीडि᳓नः (*MS*-1, *TS*-1, *RV*-1)
+- पयः-धाः᳓ (*TS*-1, *RV*-1, *MS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -258,6 +286,11 @@ _________
 वत्सासो न प्रक्रीडिनः। यथाऽत्यन्त-बाल-वत्साः शीघ्रम् इतस् ततः पलायमानाः प्रकर्षेण क्रीडन्ति तथा तत्र तत्र संचरन्तः क्रीडापराः पयोधा मेघान् उत्पाद्य तेषु जल-धारिणः।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[333_12]** So corr. Ch **नः**; cf. RV 7, 56, 16. (Thus emended; Ch reads नः; cf. RV 7, 56, 16)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -294,6 +327,12 @@ The Maruts, fleet as coursers, while they deck them like youths spectators of a 
 The Maruts, speeding like steeds,  
 Disport themselves like youths gazing at a spectacle, Standing in the home like beauteous younglings,  
 Bestowing milk, like playful calves.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'The Maruts who, speeding well like racehorses, decorated themselves like men fair to behold,  
+they are like radiant children dwelling in a mansion, like sporting calves taking milk.' //
 </details>
 
 <details><summary>Geldner</summary>

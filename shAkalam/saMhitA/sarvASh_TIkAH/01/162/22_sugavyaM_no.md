@@ -101,6 +101,12 @@ vanatām ← √vanⁱ- (root)
 अ॒ना॒गा॒स्त्वं नो॒ऽअदि॑तिः कृणोतु क्ष॒त्रं नो॒ऽअश्वो॑ वनताँ ह॒विष्मा॑न् ॥४५ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सुगव्यं नो वाजी स्वश्व्यं पुँसः पुत्राँ उत विश्वपुषं रयिम्।  
+अनागास्त्वं नो अदितिः कृणोतु क्षत्रं नो अश्वो वनते हविष्मान्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सु॒ऽगव्य॑म् । नः॒ । वा॒जी । सु॒ऽअश्व्य॑म् । पुं॒सः । पु॒त्रान् । उ॒त । वि॒श्व॒ऽपुष॑म् । र॒यिम् ।  
@@ -110,6 +116,30 @@ vanatām ← √vanⁱ- (root)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 सु॒गव्य॒मिति॑ सु॒ऽगव्य॑म्। नः॒। वा॒जी। स्वश्व्य॒मिति॑ सु॒ऽअश्व्य॑म्। पुं॒सः। पु॒त्रान्। उ॒त। वि॒श्वा॒पुष॑म्। वि॒श्वु॒पुष॒मिति॑ विश्व॒ऽपुष॑म्। र॒यिम्। अ॒ना॒गा॒स्त्वमित्य॑नागः॒ऽत्वम्। नः॒। अदि॑तिः। कृ॒णो॒तु॒। क्ष॒त्रम्। नः॒। अश्वः॑। व॒न॒ता॒म्। ह॒विष्मा॑न्। ४५।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सु-ग᳓व्यम् (*TS*-1, *RV*-2, *VS-M*-1)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- वाजी᳓ (*MS*-12/48, *TS*-30/55, *RV*-67/172, *TB*-8/18, *TK*-0/1, *AV*-5/25, *SB-M*-15/28, *SB-K*-12/24, *VS-M*-14/35, *VS-K*-14/33)
+- स्व᳓श्व्यम् (*MS*-1)
+- पुंसः᳓ (*MS*-1, *TS*-3, *RV*-6, *TB*-0/1, *TK*-1, *AV*-6, *SB-M*-4/8, *SB-K*-6/8, *VS-M*-1)
+- पुत्रा᳓न् (*MS*-1/55, *TS*-3/56, *RV*-7/104, *TB*-0/23, *TK*-0/4, *AV*-6/118, *SB-M*-2/119, *SB-K*-3/119, *VS-M*-2/29, *VS-K*-1/29)
+- उत᳓ (*Whitney*, *Lanman*, *MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- विश्व-पु᳓षम् (*TS*-1, *RV*-1/2, *VS-M*-1)
+- रयि᳓म् (*MS*-51/71, *TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37)
+- अनागास्त्व᳓म् (*MS*-0/1, *TS*-1/2, *RV*-3)
+- न (समानान्तर-पाठः (RV), *MS*-92, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- अ᳓दितिः (*MS*-67/128, *TS*-38/95, *RV*-89/155, *TB*-23/43, *TK*-1/2, *AV*-28/48, *SB-M*-48/100, *SB-K*-44/87, *VS-M*-27/63, *VS-K*-24/79)
+- कृणोतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-11, *TS*-10, *RV*-11, *TB*-4, *AV*-50, *SB-M*-4, *SB-K*-4, *VS-M*-10, *VS-K*-8)
+- क्षत्र᳓म् (*MS*-82/122, *TS*-33/74, *RV*-32/43, *TB*-22/47, *TK*-1, *AV*-23/33, *SB-M*-179/251, *SB-K*-206/306, *VS-M*-28/45, *VS-K*-32/56)
+- न (समानान्तर-पाठः (RV), *MS*-92, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- अ᳓श्वः (*MS*-38/117, *TS*-39/126, *RV*-24/226, *TB*-74/167, *AV*-9/76, *SB-M*-110/262, *SB-K*-111/255, *VS-M*-9/56, *VS-K*-8/52)
+- व᳓नते (*Whitney*, *TS*-1, *RV*-4/6, *TB*-1)
+- हवि᳓ष्मान् (*MS*-4/6, *TS*-6, *RV*-19, *TB*-3, *AV*-2, *SB-M*-7, *SB-K*-6, *VS-M*-4, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -333,6 +363,13 @@ _________
 वनतिः करोत्यर्थः॥ ४५॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[643_2]** So corr. Ch अनगस्त्वन्नो; vgl. RV 1, 162, 22; TS 4, 6, 9, 4; VS 25, 45. (Thus emended; Ch reads अनगस्त्वन्नो; cf. RV 1, 162, 22; TS 4, 6, 9, 4; VS 25, 45)
+
+- **[643_3]** So Ch; dagegen वनतां RV 1, 162, 22; TS 4, 6, 9, 4; VS 25, 45. (Thus Ch; on the other hand वनतां RV 1, 162, 22; TS 4, 6, 9, 4; VS 25, 45.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 किन से राज्य की उन्नति होवे, इस विषय को अगले मन्त्र में कहा है ॥
@@ -393,6 +430,12 @@ Let Aditi make guiltlessness for us. Let the horse, accompanied by our  oblation
 
 May this Steed bring us all-sustaining riches, wealth in good kine, good horses, manly offspring.  
      Freedom from sin may Aditi vouchsafe us: the Steed with our oblations gain us lordship!
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the prize-winner [bring] us good cattle, good horses, male sons, and all-nourishing wealth;  
+may Aditi grant us sinlessness; the horse with the oblation gains rule for us.
 </details>
 
 <details><summary>Geldner</summary>

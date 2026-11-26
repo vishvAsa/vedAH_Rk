@@ -278,6 +278,13 @@ _________
 तादृशा अश्वा अनपव्ययन्तः प्रत्यापत्तिमकुर्वन्तो भीतिरहिता इत्यर्थः ।     २२०३ शूत्रून्क्षिणन्ति हिंसन्ति ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[637_2]** So corr. Ch कृणुते; vgl. RV 6, 75, 7 u. s. w. (Thus emended; Ch reads कृणुते; cf. RV 6, 75, 7, etc.)
+
+- **[637_3]** Ch शत्रूंर॰
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -360,6 +367,12 @@ As with the cars they show their strength;
   
 Trampling with their forefeet the enemy  
 They unflinchingly destroy the foe.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Loud noises do they make, the horses with stallion-hooves, contending for the prize together with the chariots;  
+trampling the foes with their forefeet, they destroy the enemies, not turning back.
 </details>
 
 <details><summary>Geldner</summary>

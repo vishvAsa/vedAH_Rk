@@ -113,6 +113,12 @@ viśvácakṣāḥ ← viśvácakṣas- (nominal stem)
 यदी॒ भूमि॑ञ्ज॒नय॑न्न् [9]  वि॒श्वक॑र्मा॒ वि द्यामौर्णो॑न्महि॒ना वि॒श्वच॑क्षाः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+कि᳓ स्विदासीदार᳓म्भणमधिष्ठा᳓नं कतम᳓त्स्वित्कथा᳓सीत्।  
+य᳓दि᳓द्भू᳓मिं जन᳓यन्विश्व᳓कर्मा वि᳓ द्या᳓मौ᳓र्णोन्महिना᳓ विश्व᳓चक्षाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 किम् । स्वि॒त् । आ॒सी॒त् । अ॒धि॒ऽस्थान॑म् । आ॒ऽरम्भ॑णम् । क॒त॒मत् । स्वि॒त् । क॒था । आ॒सी॒त् ।  
@@ -132,6 +138,29 @@ viśvácakṣāḥ ← viśvácakṣas- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 किम् । स्वि॒त् । आ॒सी॒त् । अ॒धि॒ष्ठान॒मित्य॑धि-स्थान॑म् । आ॒रम्भ॑ण॒मित्या॑-रम्भ॑णम् । क॒त॒मत् । स्वि॒त् । किम् । आ॒सी॒त् ॥ यदि॑ । भूमि॑म् । ज॒नय॑न् । वि॒श्वक॒र्मेति॑ वि॒श्व-क॒र्मा॒ । वीति॑ । द्याम् । औ॒र्णो॒त् । म॒हि॒ना । वि॒श्वच॑क्षा॒ इति॑ वि॒श्व-च॒क्षाः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- कि᳓ (*MS*-66, *TS*-62, *RV*-99/101, *TB*-32, *TK*-10, *AV*-46, *SB-M*-470/471, *SB-K*-440/442, *VS-M*-22, *VS-K*-14)
+- स्वित् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-29, *TS*-13, *RV*-43, *TB*-9, *AV*-27, *SB-M*-8, *SB-K*-7, *VS-M*-23, *VS-K*-19)
+- आसीत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-77, *TS*-64, *RV*-38, *TB*-28, *TK*-1, *AV*-26, *SB-M*-86, *SB-K*-75, *VS-M*-45, *VS-K*-50)
+- आ-र᳓म्भणम् (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- अधि-ष्ठा᳓नम् (*MS*-5, *SB-M*-2, *SB-K*-2, *VS-M*-3, *VS-K*-3)
+- कतम᳓त् (*MS*-1, *TS*-2, *RV*-3, *AV*-2, *SB-M*-3, *SB-K*-2, *VS-M*-1)
+- स्वित् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-29, *TS*-13, *RV*-43, *TB*-9, *AV*-27, *SB-M*-8, *SB-K*-7, *VS-M*-23, *VS-K*-19)
+- कथा᳓ (*MS*-2/5, *TS*-7, *RV*-33/35, *TB*-0/3, *AV*-1/12, *SB-M*-4/144, *SB-K*-5/136, *VS-M*-1)
+- आसीत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-77, *TS*-64, *RV*-38, *TB*-28, *TK*-1, *AV*-26, *SB-M*-86, *SB-K*-75, *VS-M*-45, *VS-K*-50)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- भू᳓मिम् (*MS*-6/27, *TS*-3/24, *RV*-19/52, *TB*-1/6, *TK*-0/1, *AV*-31/120, *SB-M*-3/19, *SB-K*-3/23, *VS-M*-5/15, *VS-K*-3/17)
+- जन᳓यन् (*MS*-6, *TS*-4, *RV*-27, *TB*-2, *AV*-6, *VS-M*-3, *VS-K*-2)
+- विश्व᳓-कर्मा (*MS*-21/26, *TS*-25/33, *RV*-3/5, *TB*-5/6, *AV*-7/12, *SB-M*-37/53, *SB-K*-34/45, *VS-M*-14/27, *VS-K*-10/20)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- द्या᳓म् (*MS*-29/308, *TS*-18/270, *RV*-90/854, *TB*-11/119, *TK*-0/15, *AV*-39/340, *SB-M*-11/353, *SB-K*-5/342, *VS-M*-17/167, *VS-K*-16/179)
+- औ᳓र्णोत् (*TS*-1, *RV*-1, *TB*-1, *AV*-1, *VS-M*-1, *MS*-1)
+- महिना᳓ (*MS*-8, *TS*-6, *RV*-38, *TB*-2, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-1)
+- विश्व᳓-चक्षाः (*MS*-1, *TS*-1, *RV*-2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -464,6 +493,12 @@ What was the place whereon he took his station? What was it that supported him? 
 What was the basis?  
 Which and what his support?  
 When producing earth [4] Viśvakarman, all-seeing, Disclosed the sky with his might.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What indeed was the support, what was the standing ground, what sort was it, and how was it,  
+when Viśvakarman, begetting the earth, all-seeing, uncovered the sky by his greatness?
 </details>
 
 <details><summary>Geldner</summary>

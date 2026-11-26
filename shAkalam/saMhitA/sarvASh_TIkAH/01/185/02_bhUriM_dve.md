@@ -95,10 +95,39 @@ rákṣatam ← √rakṣⁱ- (root)
 नित्यं॒ न सू॒नुं पि॒त्रोरु॒पस्थे॒ द्यावा॒ रक्ष॑तं पृथिवी नो॒ अभ्वा॑त् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+भू᳓रि द्वे᳓ अ᳓चरन्ती च᳓रन्तं पद्व᳓न्तं ग᳓र्भम् अप᳓दी दधाते  
+नि᳓त्यं न᳓ सूनुं᳓ पित्रो᳓र् उप᳓स्थे द्या᳓वा र᳓क्षतं पृथिवी नो अ᳓भ्वात्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 भूरि॑ । द्वे इति॑ । अच॑रन्ती॒ इति॑ । चर॑न्तम् । प॒त्ऽवन्त॑म् । गर्भ॑म् । अ॒पदी॒ इति॑ । द॒धा॒ते॒ इति॑ ।  
 नित्य॑म् । न । सू॒नुम् । पि॒त्रोः । उ॒पऽस्थे॑ । द्यावा॑ । रक्ष॑तम् । पृ॒थि॒वी॒ इति॑ । नः॒ । अभ्वा॑त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- भू᳓रि (*TS*-5/10, *RV*-68/101, *TB*-3/5, *AV*-18/23, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-4/5, *VS-K*-3/4, *KS*-7/8)
+- द्वे᳓ (*TS*-39/102, *RV*-13/39, *TB*-16/36, *TK*-1, *AV*-6/29, *SB-M*-174/342, *SB-K*-161/315, *VS-M*-3/6, *VS-K*-3/5, *KS*-4/7)
+- अ᳓चरन्ती (*RV*-1, *TB*-1)
+- च᳓रन्तम् (*TS*-3/4, *RV*-15/29, *TB*-2/4, *AV*-11/20, *SB-M*-6/47, *SB-K*-4/42, *VS-M*-1, *VS-K*-2, *KS*-0/4)
+- पद्व᳓न्तम् (*TB*-1)
+- ग᳓र्भम् (*TS*-17/66, *RV*-55/95, *TB*-12/25, *AV*-30/66, *SB-M*-43/143, *SB-K*-30/135, *VS-M*-10/32, *VS-K*-10/27, *KS*-8/24)
+- अप᳓दी (*RV*-2, *TB*-1)
+- दधाते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-4, *TB*-1, *SB-M*-4, *SB-K*-4)
+- नि᳓त्यम् (*TS*-0/2, *RV*-12/34, *TB*-1/2, *AV*-0/1, *SB-M*-0/4, *SB-K*-0/5, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/3)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- सूनु᳓म् (*TS*-1/7, *RV*-17/68, *TB*-1/4, *AV*-3/5, *SB-M*-0/6, *SB-K*-0/7, *VS-M*-1/6, *VS-K*-1/7, *KS*-1/2)
+- पित्रोः᳓ (*TS*-0/121, *RV*-20/254, *TB*-1/111, *TK*-0/6, *AV*-1/228, *SB-M*-0/321, *SB-K*-0/317, *VS-M*-0/80, *VS-K*-0/63, *KS*-0/43)
+- उप᳓-स्थे (*TS*-16/20, *RV*-50/62, *TB*-11/14, *TK*-0/1, *AV*-13/18, *SB-M*-15/28, *SB-K*-13/26, *VS-M*-11/12, *VS-K*-11/12, *KS*-7)
+- द्या᳓वा (*TS*-4/270, *RV*-27/854, *TB*-0/119, *TK*-0/15, *AV*-3/340, *SB-M*-0/353, *SB-K*-2/342, *VS-M*-0/167, *VS-K*-1/172, *KS*-0/128)
+- र᳓क्षतम् (*TS*-1/3, *RV*-7/10, *TB*-0/1, *AV*-0/2, *SB-M*-0/1, *SB-K*-0/1, *KS*-0/1)
+- पृथिवी (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-71, *RV*-7, *TB*-27, *TK*-1, *AV*-1, *SB-M*-59, *SB-K*-3, *VS-M*-34, *VS-K*-33, *KS*-15)
+- न (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-81, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48, *KS*-35)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6, *KS*-77)
+- अ᳓भ्वात् (*RV*-7/19, *SB-M*-0/1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -266,6 +295,12 @@ As noted in the published introduction, I consider the embryo here to be the sun
 
 The Twain uphold, though motionless and footless, a widespread offspring having feet and moving.  
      Like your own son upon his parents' bosom, protect us, Heaven and earth, from fearful danger.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The two footless, unmoving ones hold a widespread, moving, footed embryo,  
+like an own son in the lap of his parents. O Heaven and Earth, protect us from monstrosity!
 </details>
 
 <details><summary>Macdonell</summary>

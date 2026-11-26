@@ -97,6 +97,12 @@ gr̥bhītā́n ← √gr̥bhⁱ- (root)
 अग्नी॑षोमा॒वमु॑ञ्चतङ्गृभी॒तान् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+युव᳓मेता᳓नि दिवि᳓ रोचना᳓न्यग्नि᳓श्च सोम स᳓क्रतू अधत्तम्।  
+युवँ सि᳓न्धूँरभि᳓शस्तेरवद्या᳓द᳓ग्नीषोमा अ᳓मुञ्चतं गृभीता᳓न्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यु॒वम् । ए॒तानि॑ । दि॒वि । रो॒च॒नानि॑ । अ॒ग्निः । च॒ । सो॒म॒ । सक्र॑तू॒ इति॒ सऽक्र॑तू । अ॒ध॒त्त॒म् ।  
@@ -106,6 +112,28 @@ gr̥bhītā́n ← √gr̥bhⁱ- (root)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 युव᳓म् । एता᳓नि । दिवि᳓ । रोचना᳓नि । अग्निः᳓ । च । सोम । स᳓क्रतू । अधत्तम् । युव᳓म् । सि᳓न्धून् । रभि᳓ । शस्तेः । अव । द्या᳓त् । अ᳓ग्नीषोमौ । अ᳓मुञ्चतम् । गृभीता᳓न् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- युव᳓म् (*MS*-22/25, *TS*-10/13, *RV*-137/144, *TB*-13, *TK*-0/1, *AV*-15, *SB-M*-18/21, *SB-K*-18/22, *VS-M*-9, *VS-K*-12)
+- एता᳓नि (*MS*-62/2587, *TS*-37/1673, *RV*-13/320, *TB*-41/858, *TK*-6/130, *AV*-5/340, *SB-M*-200/11086, *SB-K*-193/10669, *VS-M*-2/129, *VS-K*-3/104)
+- दिवि᳓ (*MS*-63/308, *TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-24/179)
+- रोचना᳓नि (*MS*-2/9, *TS*-1/9, *RV*-3/29, *TB*-1, *TK*-0/3, *AV*-1/8, *SB-M*-1/8, *SB-K*-1/8, *VS-M*-0/7, *VS-K*-0/6)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- सोम (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-45, *TS*-50, *RV*-225, *TB*-24, *AV*-10, *SB-M*-19, *SB-K*-15, *VS-M*-25, *VS-K*-14)
+- स᳓क्रतू (*MS*-1, *TS*-1, *RV*-1/3, *TB*-1)
+- अधत्तम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-1, *RV*-9, *TB*-2)
+- युवम् → **युव᳓म्** (स्वर-लोपः, *MS*-22/25, *TS*-10/13, *RV*-137/144, *TB*-13, *TK*-0/1, *AV*-15, *SB-M*-18/21, *SB-K*-18/22, *VS-M*-9, *VS-K*-12)
+- सि᳓न्धून् (*MS*-2/18, *TS*-1/11, *RV*-23/186, *TB*-2/7, *AV*-6/30, *SB-M*-0/7, *SB-K*-0/7, *VS-M*-1/8, *VS-K*-1/6)
+- रभि᳓ (*TB*-1)
+- शस्तेः (*TB*-1)
+- अव (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-97, *TS*-4, *RV*-26, *TB*-36, *AV*-6, *SB-M*-145, *SB-K*-164, *VS-M*-6, *VS-K*-5)
+- द्या᳓त् (*MS*-3/32, *TS*-0/18, *RV*-0/90, *TB*-1/12, *AV*-0/39, *SB-M*-2/13, *SB-K*-0/5, *VS-M*-0/17, *VS-K*-0/16)
+- अ᳓ग्नी-सोमाः (*TS*-0/6, *TB*-0/5, *MS*-3/8)
+- अ᳓मुञ्चतम् (*MS*-1/2, *RV*-4/6, *TB*-1, *SB-K*-0/1)
+- गृभीता᳓न् (*MS*-1/3, *TS*-1/2, *RV*-2/7, *TB*-1, *AV*-0/1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -266,6 +294,13 @@ The etymological relationship between citráḥ and praketáḥ in c is not easi
 
 Agni and Soma, joined in operation ye have set up the shining lights in heaven.  
      From curse and from reproach, Agni and Soma, ye freed the rivers that were bound in fetters.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You have been united among the gods.  
+You two placed these lights in heaven, Agni and Soma, acting with a single purpose;  
+you, Agni and Soma, released the captured rivers from the reproach of blame.
 </details>
 
 <details><summary>Geldner</summary>

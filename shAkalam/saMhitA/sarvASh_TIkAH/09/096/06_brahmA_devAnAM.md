@@ -98,6 +98,13 @@ sómaḥ ← sóma- (nominal stem)
 श्ये॒नो गृ॑ध्राणाँ॒ स्वधि॑ति॒र्वना॑नाँ॒ सोमः॑ [41]  प॒वित्र॒मत्ये॑ति॒ रेभ॑न् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+ब्रह्म᳓  
+आ देवा᳓नां पदवीः᳓ कवीनां᳓ कवि᳓र् वि᳓प्राणां महिषो᳓ मृगा᳓णाम्  
+श्येनो᳓ गृ᳓ध्राणाँ स्व᳓धितिर् व᳓नानाँ सो᳓मः पवि᳓त्रम् अ᳓त्येति रे᳓भन्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ब्र॒ह्मा । दे॒वाना॑म् । प॒द॒ऽवीः । क॒वी॒नाम् । ऋषिः॑ । विप्रा॑णाम् । म॒हि॒षः । मृ॒गाणा॑म् ।  
@@ -107,6 +114,28 @@ sómaḥ ← sóma- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 ब्र॒ह्मा । दे॒वाना॑म् । प॒द॒वीरिति॑ पद-वीः । क॒वी॒नाम् । ऋषिः॑ । विप्रा॑णाम् । म॒हि॒षः । मृ॒गाणा॑म् ॥ श्ये॒नः । गृध्रा॑णाम् । स्वधि॑ति॒रिति॒ स्व-धि॒तिः॒ । वना॑नाम् । सोमः॑ । प॒वित्र॑म् । अतीति॑ । ए॒ति॒ । रेभ॑न्न् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- ब्रह्मः᳓ (*TS*-0/4, *TK*-0/1, *AV*-0/1, *SB-K*-0/2)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-7, *VS-K*-11, *KS*-122)
+- देवा᳓नाम् (*TS*-184/1287, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/520, *VS-K*-63/507, *KS*-67/317)
+- पद-वीः᳓ (*TS*-1, *RV*-6, *AV*-1)
+- कवीना᳓म् (*TS*-3/31, *RV*-15/200, *TB*-0/21, *AV*-3/30, *SB-M*-0/11, *SB-K*-0/9, *VS-M*-0/23, *VS-K*-0/25, *KS*-2/18)
+- कविः᳓ (*TS*-16/31, *RV*-92/200, *TB*-9/21, *AV*-10/30, *SB-M*-5/11, *SB-K*-4/9, *VS-M*-10/23, *VS-K*-10/25, *KS*-8/18)
+- वि᳓प्राणाम् (*TS*-1/24, *RV*-4/223, *TB*-0/8, *AV*-0/32, *SB-M*-0/17, *SB-K*-0/15, *VS-M*-0/18, *VS-K*-0/19, *KS*-0/14)
+- महिषः᳓ (*TS*-3/6, *RV*-14/38, *AV*-14/15, *SB-M*-4/7, *SB-K*-4/7, *VS-M*-1/6, *VS-K*-1/6)
+- मृगा᳓णाम् (*TS*-1/5, *RV*-4/34, *AV*-2/23, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/3, *VS-K*-0/2, *KS*-0/2)
+- श्येनः᳓ (*TS*-8/19, *RV*-35/53, *TB*-1/6, *TK*-1, *AV*-7/12, *SB-M*-11/16, *SB-K*-13/19, *VS-M*-3/9, *VS-K*-2/8, *KS*-2/8)
+- गृ᳓ध्राणाम् (*TS*-1/4, *RV*-1/7, *TB*-0/1, *AV*-0/6)
+- स्व᳓-धितिः (*TS*-7/11, *RV*-10/13, *TB*-1, *AV*-0/3, *SB-M*-2, *SB-K*-1, *VS-M*-4/5, *VS-K*-1/2, *KS*-1)
+- व᳓नानाम् (*TS*-2/14, *RV*-2/100, *TB*-0/2, *AV*-0/20, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-1/10, *VS-K*-1/10, *KS*-1/6)
+- सो᳓मः (*TS*-96/294, *RV*-229/728, *TB*-95/198, *TK*-2/4, *AV*-89/214, *SB-M*-221/443, *SB-K*-223/436, *VS-M*-48/128, *VS-K*-40/108, *KS*-35/80)
+- पवि᳓त्रम् (*TS*-13/20, *RV*-37/101, *TB*-13/33, *TK*-4/5, *AV*-2/11, *SB-M*-23/64, *SB-K*-28/63, *VS-M*-5/24, *VS-K*-3/19, *KS*-5/13)
+- अ᳓ति (*TS*-75, *RV*-189, *TB*-79, *TK*-11, *AV*-103, *SB-M*-332, *SB-K*-391, *VS-K*-4, *KS*-19)
+- एति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-152, *RV*-120, *TB*-80, *TK*-20, *AV*-43, *SB-M*-306, *SB-K*-293, *VS-K*-2, *KS*-18)
+- रे᳓भन् (*TS*-1, *RV*-7)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -280,6 +309,14 @@ Brahman of Gods, the Leader of the poets, Rsi of sages, Bull of savage creatures
 Brahman of the gods, leader of poets,  
 Sage of seers, bull of wild beasts,
 Soma [1] goeth over the seive singing.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And thou, O Soma, dost control our life so that we shall not die,  
+a plant beloved of praises.  
+The Hotṛ of the gods, the leader of the poets, the sage among the inspired, the buffalo among wild beasts,  
+the falcon of vultures, the axe of forests, Soma crosses the sieve roaring.
 </details>
 
 <details><summary>त्रिभुवनः</summary>

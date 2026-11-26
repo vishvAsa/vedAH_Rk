@@ -92,10 +92,37 @@ suprayásam ← suprayás- (nominal stem)
 आ॒युं न यं नम॑सा रा॒तह॑व्या अ॒ञ्जन्ति॑ सुप्र॒यसं॒ पञ्च॒ जनाः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓दिद्युतत् स्व् अ᳓पाको विभा᳓वा᳓ग्ने य᳓जस्व रो᳓दसी उरूची᳓  
+आयुं᳓ न᳓ यं᳓ न᳓मसा रात᳓हव्या अञ्ज᳓न्ति सुप्रय᳓सं प᳓ञ्च ज᳓नाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अदि॑द्युतत् । सु । अपा॑कः । वि॒भाऽवा॑ । अग्ने॑ । यज॑स्व । रोद॑सी॒ इति॑ । उ॒रू॒ची इति॑ ।  
 आ॒युम् । न । यम् । नम॑सा । रा॒तऽह॑व्याः । अ॒ञ्जन्ति॑ । सु॒ऽप्र॒यस॑म् । पञ्च॑ । जनाः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓दिद्युतत् (*TS*-1, *RV*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-K*-1, *KS*-1)
+- सु᳓ (*TS*-24, *RV*-265, *TB*-7, *AV*-42, *SB-M*-15, *SB-K*-31, *VS-M*-20, *VS-K*-21, *KS*-24)
+- अ᳓पाकः (*RV*-1/3, *TB*-1, *VS-M*-1, *VS-K*-1)
+- विभा᳓-वा (*TS*-1, *RV*-19/20, *TB*-1, *AV*-1)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107, *KS*-72/73)
+- य᳓जस्व (*RV*-7, *SB-M*-3, *SB-K*-3)
+- रो᳓दसी (*TS*-14/18, *RV*-186/207, *TB*-6, *TK*-1, *AV*-28, *SB-M*-8/9, *SB-K*-8/9, *VS-M*-13/15, *VS-K*-13/16, *KS*-11/12)
+- उरूची᳓ (*TS*-1, *RV*-6/7, *TB*-1, *AV*-2, *VS-M*-1, *VS-K*-1)
+- आयु᳓म् (*TS*-0/7, *RV*-6/85, *AV*-1/10, *SB-M*-1/3, *SB-K*-0/3, *VS-M*-0/5, *VS-K*-0/5, *KS*-0/2)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160, *KS*-139)
+- य᳓म् (*TS*-164/3385, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-63/651, *VS-K*-38/609, *KS*-31/818)
+- न᳓मसा (*TS*-7/315, *RV*-83/182, *TB*-8/60, *TK*-0/4, *AV*-12/248, *SB-M*-0/105, *SB-K*-0/102, *VS-M*-5/244, *VS-K*-5/168, *KS*-6/305)
+- रात᳓-हव्याः (*RV*-2/12, *TB*-0/1, *AV*-0/2, *VS-M*-0/1, *VS-K*-0/1)
+- अञ्ज᳓न्ति (*RV*-7, *TB*-1, *SB-M*-1, *SB-K*-1)
+- सु-प्रय᳓सम् (*RV*-3, *VS-M*-0/1, *VS-K*-0/1)
+- प᳓ञ्च (*TS*-57/61, *RV*-40, *TB*-41, *TK*-11, *AV*-35, *SB-M*-232/234, *SB-K*-214/220, *VS-M*-9, *VS-K*-4, *KS*-21)
+- ज᳓नाः (*TS*-3/35, *RV*-22/298, *TB*-1/27, *AV*-14/92, *SB-M*-7/26, *SB-K*-7/26, *VS-M*-5/27, *VS-K*-4/27, *KS*-1/19)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -256,6 +283,12 @@ reference continues by default through the rest of the vs., though the published
 
 Bright hath he beamed, the wise, the far-refulgent. Worship the two widespreading Worlds, O Agni,  
      Whom as the Living One rich in oblations the Five Tribes, bringing gifts, adorn with homage.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Radiant, very near, he has shone; O Agni, worship the wide two worlds!  
+Whom the five peoples, offering oblations, anoint with homage like an Āyu, well-served with sacrificial food.
 </details>
 
 <details><summary>Geldner</summary>

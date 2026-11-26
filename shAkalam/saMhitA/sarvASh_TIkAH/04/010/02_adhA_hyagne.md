@@ -86,6 +86,12 @@ r̥tásya ← r̥tá- (nominal stem)
 र॒थीरृ॒तस्य॑ बृह॒तो ब॒भूथ॑ ॥२७॥ ६७
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अध ह्यग्ने क्रतोर्भद्रस्य दक्षस्य साधोः।  
+रथीर्ऋतस्य बृहतो बभूय
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अध॑ । हि । अ॒ग्ने॒ । क्रतोः॑ । भ॒द्रस्य॑ । दक्ष॑स्य । सा॒धोः ।  
@@ -100,6 +106,21 @@ r̥tásya ← r̥tá- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अध॑। हि। अ॒ग्ने॒। क्रतोः॑। भ॒द्रस्य॑। दक्ष॑स्य। सा॒धोः। र॒थीः। ऋ॒तस्य॑। बृ॒ह॒तः। ब॒भूथ॑। २७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ध (*MS*-10, *TS*-8/9, *RV*-195, *TB*-4/5, *TK*-1, *AV*-39, *SB-M*-3/7, *SB-K*-4/9, *VS-M*-11, *VS-K*-15/19)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- क्र᳓तोः (*MS*-1/23, *TS*-1/23, *RV*-1/168, *TB*-0/4, *AV*-0/18, *SB-M*-1/18, *SB-K*-1/21, *VS-M*-1/19, *VS-K*-1/22)
+- भद्र᳓स्य (*MS*-2/42, *TS*-1/32, *RV*-3/144, *TB*-0/26, *TK*-0/1, *AV*-2/68, *SB-M*-0/21, *SB-K*-0/30, *VS-M*-1/31, *VS-K*-1/29)
+- द᳓क्षस्य (*MS*-3/19, *TS*-1/13, *RV*-24/92, *TB*-0/5, *TK*-0/2, *AV*-0/11, *SB-M*-0/10, *SB-K*-0/13, *VS-M*-3/12, *VS-K*-2/13)
+- साधोः᳓ (*MS*-1/4, *TS*-1/5, *RV*-3/27, *TB*-0/1, *AV*-0/5, *SB-M*-1/39, *SB-K*-1/36, *VS-M*-1/3, *VS-K*-1/3)
+- रथीः᳓ (*MS*-3/6, *TS*-4/9, *RV*-12/14, *TB*-1/3, *AV*-0/3, *SB-M*-3/4, *SB-K*-2/3, *VS-M*-1/5, *VS-K*-1/9)
+- ऋत᳓स्य (*MS*-29/93, *TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-21/45)
+- बृहतः᳓ (*MS*-9/13, *TS*-7/10, *RV*-50/67, *TB*-6/8, *AV*-6/16, *SB-M*-4/7, *SB-K*-4/7, *VS-M*-7/11, *VS-K*-7/10)
+- ब᳓भूय (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -284,6 +305,11 @@ _________
 हेऽग्नेऽधाऽस्मदीयस्तोत्रानन्तरं क्रतोरनुष्टीयमानस्य कर्मणो रथीर्बभूथ हि, रथोऽस्यास्तीति रथीः सारथिः ।   यथा सारथिर्निर्वाहकस्तथा त्वं निर्वाहको बभूथ खलु ।   कीदृशस्य क्रतोः भद्रस्य कल्याणरूपस्य, दक्षस्य स्वफ लप्रदानसमर्थस्य, साधो * रश्मिभिः साध्यस्य, ऋतस्य सत्यस्यामोघबलस्य, वृहतः प्रौढस्य,
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[315_1]** So corr. Ch **रथीनृतस्य**; cf. RV 4, 10, 2. (Thus emended; Ch reads रथीनृतस्य; cf. RV 4, 10, 2)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर वह कैसा हो, यह विषय अगले मन्त्र में कहा है ॥
@@ -343,6 +369,12 @@ For thou hast ever been the Car-driver, Agni, of noble
 
 O Agni, thou hast become master  
 Of mighty holy order.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For then, O Agni, of auspicious purpose,  
+of successful skill, thou hast become the charioteer of the lofty truth.
 </details>
 
 <details><summary>Oldenberg</summary>

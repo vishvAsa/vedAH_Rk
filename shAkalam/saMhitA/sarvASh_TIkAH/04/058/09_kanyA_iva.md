@@ -104,6 +104,12 @@ tát ← sá- ~ tá- (pronoun)
 यत्र॒ सोमः॑ सू॒यते॒ यत्र॑ य॒ज्ञो घृ॒तस्य॒ धारा॑ऽअ॒भि तत्प॑वन्ते ॥९७ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+कन्या इव वहतुमेतवा उ अञ्ज्यञ्जाना अभिचाकशीमि।  
+यत्र सोमस्तूयते यत्र यज्ञो घृतस्य धारा अभि तत्पवन्ते
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 क॒न्याः॑ऽइव । व॒ह॒तुम् । एत॒वै । ऊं॒ इति॑ । अ॒ञ्जि । अ॒ञ्जा॒नाः । अ॒भि । चा॒क॒शी॒मि॒ ।  
@@ -118,6 +124,30 @@ tát ← sá- ~ tá- (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 क॒न्या᳖ऽइ॒वेति॑ क॒न्याः᳖ऽइव। व॒ह॒तुम्। एत॒वै। ऊँ॒ऽइत्यूँ॑। अ॒ञ्जि। अ॒ञ्जा॒नाः। अ॒भि। चा॒क॒शी॒मि॒। यत्र॑। सोमः॑। सू॒यते॑। यत्र॑। य॒ज्ञः। घृ॒तस्य॑। धाराः॑। अ॒भि। तत्। प॒व॒न्ते॒। १०।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- कन्याः᳙ (*MW*)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- वहतु᳓म् (*MS*-1, *TS*-1, *RV*-7/11, *TB*-0/1, *AV*-9/13, *VS-M*-1, *VS-K*-1)
+- ए᳓तो (*MS*-2, *RV*-3, *AV*-1, *SB-K*-3)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- अञ्जि᳓ (*Whitney*, *MS*-3/4, *TS*-1/3, *RV*-5/21, *TB*-0/1, *AV*-0/1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/3, *VS-K*-1/3)
+- अञ्जानाः᳓ (*RV*-1/6, *VS-M*-1, *VS-K*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- चाकशीमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3, *MS*-1)
+- य᳓त्र (*MW* ŚBr., *MS*-99, *TS*-39, *RV*-123, *TB*-37, *TK*-2, *AV*-88, *SB-M*-375, *SB-K*-362, *VS-M*-46, *VS-K*-42)
+- सो᳓म (*MS*-7, *TS*-3/4, *RV*-22, *TB*-3/4, *TK*-1, *AV*-2, *SB-M*-7, *SB-K*-4, *VS-M*-3, *VS-K*-5)
+- स्तूय᳓ते (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*, *SB-M*-2, *SB-K*-2)
+- य᳓त्र (*MW* ŚBr., *MS*-99, *TS*-39, *RV*-123, *TB*-37, *TK*-2, *AV*-88, *SB-M*-375, *SB-K*-362, *VS-M*-46, *VS-K*-42)
+- यज्ञः᳓ (*MS*-290/933, *TS*-194/863, *RV*-48/448, *TB*-108/399, *TK*-12/21, *AV*-66/231, *SB-M*-608/1803, *SB-K*-599/1754, *VS-M*-25/223, *VS-K*-25/187)
+- घृत᳓स्य (*MS*-23/118, *TS*-15/64, *RV*-19/91, *TB*-10/34, *TK*-0/1, *AV*-10/40, *SB-M*-9/51, *SB-K*-10/51, *VS-M*-11/49, *VS-K*-11/45)
+- धा᳓राः (*MS*-3/14, *TS*-7/25, *RV*-27/107, *TB*-0/2, *TK*-1/3, *AV*-9/13, *SB-M*-3/41, *SB-K*-3/39, *VS-M*-7/11, *VS-K*-7/10)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- पवन्ते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-6, *TB*-1, *AV*-1, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -357,6 +387,12 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 
 As maidens dock themselves with gay adornment to join the bridal feast, I now behold them.  
      Where Soma flows and sacrifice is ready, thither the streams of holy oil are running.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I look upon them as upon maidens anointing themselves with anointment to go to a bridal procession;  
+where the soma is pressed, where the sacrifice is, thither flow the streams of ghee.
 </details>
 
 <details><summary>Geldner</summary>

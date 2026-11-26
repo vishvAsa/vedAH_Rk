@@ -192,6 +192,12 @@ Agni, preserve us from distress: consume our enemies, O God,
      Eternal, with the hottest flames.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, protect us from distress; burn up against those who harm [us], O god,  
+unaging with thy hottest [flames].
+</details>
+
 <details><summary>Geldner</summary>
 
 Agni! Bewahre uns vor Not, versenge du Gott mit deinen glühendsten Flammen die Schädiger, der du nie alterst!

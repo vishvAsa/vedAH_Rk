@@ -100,10 +100,38 @@ kr̥ta ← √kr̥- (root)
 कामे॑न कृ॒तश्रव॑ इ॒च्छमा॑नः ॥22॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+या᳓स् ते पूषन् ना᳓वो अन्तः᳓ समुद्रे᳓ हिरण्य᳓यीर् अन्त᳓रिक्षे च᳓रन्ति  
+ता᳓भिर् यासि दूत्यँ᳙ सू᳓र्यस्य का᳓मेन कृतः᳓ श्र᳓व इछ᳓मानः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 याः । ते॒ । पू॒ष॒न् । नावः॑ । अ॒न्तरिति॑ । स॒मु॒द्रे । हि॒र॒ण्ययीः॑ । अ॒न्तरि॑क्षे । चर॑न्ति ।  
 ताभिः॑ । या॒सि॒ । दू॒त्याम् । सूर्य॑स्य । कामे॑न । कृ॒त॒ । श्रवः॑ । इ॒च्छमा॑नः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- याः᳓ (*TS*-85/3383, *RV*-87/4011, *TB*-24/1735, *TK*-12/227, *AV*-133/3120, *SB-M*-237/8327, *SB-K*-240/8438, *VS-M*-31/639, *VS-K*-31/581, *KS*-39/818)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- पूषन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *RV*-24, *TB*-1, *AV*-4, *SB-K*-1, *VS-K*-1, *KS*-1)
+- ना᳓वः (*TS*-1/5, *RV*-4/20, *AV*-1/10, *SB-M*-1/7, *SB-K*-2/9, *VS-M*-1/2, *VS-K*-1/2, *KS*-0/2)
+- अन्तः᳓ (*TS*-81/87, *RV*-154, *TB*-13/16, *TK*-26, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-44, *VS-K*-35/42, *KS*-26)
+- समुद्रे᳓ (*TS*-7/51, *RV*-29/131, *TB*-1/22, *TK*-1/3, *AV*-10/66, *SB-M*-7/71, *SB-K*-8/74, *VS-M*-7/35, *VS-K*-6/33, *KS*-2/14)
+- हिरण्य᳓यीः (*TS*-0/2, *RV*-4/12, *TB*-2, *AV*-3/8, *SB-M*-0/5, *SB-K*-0/2, *VS-M*-1/4, *VS-K*-1/3)
+- अन्त᳓रिक्षे (*TS*-28/180, *RV*-23/94, *TB*-9/54, *TK*-2/10, *AV*-28/143, *SB-M*-37/263, *SB-K*-37/257, *VS-M*-17/76, *VS-K*-15/64, *KS*-10/57)
+- च᳓रन्ति (*TS*-1/4, *RV*-13/29, *TB*-2/4, *AV*-8/20, *SB-M*-36/47, *SB-K*-35/42, *VS-M*-0/1, *VS-K*-0/2, *KS*-4)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- यासि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-16, *TB*-1, *TK*-1, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-3)
+- दूत्य᳙म् (*RV*-12, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *KS*-1)
+- सू᳓र्यस्य (*TS*-26/109, *RV*-84/337, *TB*-12/75, *TK*-0/8, *AV*-22/173, *SB-M*-34/152, *SB-K*-32/151, *VS-M*-8/36, *VS-K*-12/44, *KS*-6/52)
+- का᳓मेन (*TS*-5/60, *RV*-4/75, *TB*-12/60, *TK*-7/43, *AV*-9/64, *SB-M*-3/327, *SB-K*-5/349, *VS-M*-1/20, *VS-K*-1/18, *KS*-3/41)
+- कृतः᳓ (*TS*-2/12, *RV*-9/77, *TB*-0/7, *AV*-6/43, *SB-M*-2/34, *SB-K*-5/41, *VS-M*-2/13, *VS-K*-1/9, *KS*-0/4)
+- श्र᳓वः (*TS*-6/9, *RV*-87/145, *TB*-3/4, *AV*-11/12, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-4/7, *KS*-3/4)
+- इछ᳓ (*SB-M*-1)
+- मानः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -272,6 +300,14 @@ But, as noted above vs. 1, I would tentatively connect them and the mission of t
 
 O Pusan, with thy golden ships that travel across the ocean, in the air's mid-region,  
      Thou goest on an embassy to Surya, subdued by love, desirous of the glory.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those golden ships of yours, O Pūṣan, which travel in the ocean, in the intermediate space,  
+with them you go on the embassy of the sun, driven by desire, seeking fame.  
+Bright is one [form] of yours, worshipful another.  
+Pūṣan knows all these regions;
 </details>
 
 <details><summary>Geldner</summary>

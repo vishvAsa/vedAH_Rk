@@ -92,6 +92,12 @@ te ← tvám (pronoun)
 ऋ॒ध्यामा॑ त॒ ओहैः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ग्ने त᳓म् अद्या᳓श्वं न᳓ स्तो᳓मैः क्र᳓तुं न᳓ भद्रँ᳓ हृदिस्पृ᳓शम्  
+ऋध्या᳓मा ता ओ᳓हैः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । तम् । अ॒द्य । अश्व॑म् । न । स्तोमैः॑ । क्रतु॑म् । न । भ॒द्रम् । हृ॒दि॒ऽस्पृश॑म् ।  
@@ -110,6 +116,23 @@ te ← tvám (pronoun)
 अग्ने॑। तम्। अ॒द्य। अश्व॑म्। न। स्तोमैः॑। क्रतु॑म्। न। भ॒द्रम्। हृ॒दि॒स्पृश॒मिति॑ हृदि॒ऽस्पृश॑म्। ऋ॒ध्याम॑। ते॒। ओहैः॑। २६।
 
 अग्ने॑। तम्। अ॒द्य। अश्व॑म्। न। स्तोमैः॑। क्रतु॑म्। न। भ॒द्रम्। हृ॒दि॒ऽस्पृश॑म्। ऋ॒ध्याम॑। ते॒। ओहैः॑। १३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-107/768, *VS-K*-75/624, *KS*-117/1225)
+- अद्या᳓श्वम् (*SB-M*-1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- स्तो᳓मैः (*TS*-7/122, *RV*-25/206, *TB*-0/37, *AV*-5/44, *SB-M*-11/166, *SB-K*-11/166, *VS-M*-5/43, *VS-K*-7/51, *KS*-3/28)
+- क्र᳓तुम् (*TS*-8/23, *RV*-59/168, *TB*-0/4, *AV*-6/18, *SB-M*-5/18, *SB-K*-6/21, *VS-M*-5/17, *VS-K*-7/22, *KS*-2/10)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- भद्र᳓म् (*TS*-10/32, *RV*-50/144, *TB*-7/26, *TK*-0/1, *AV*-23/68, *SB-M*-15/21, *SB-K*-23/30, *VS-M*-12/29, *VS-K*-14/29, *KS*-6/20)
+- हृदि-स्पृ᳓शम् (*TS*-1, *RV*-1/3, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-4)
+- ऋध्या᳓म् (*TS*-0/1, *TB*-1, *SB-M*-1)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-7, *VS-K*-11, *KS*-122)
+- ताः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *TB*-4, *KS*-3)
+- ओ᳓हैः (*TS*-1, *RV*-1/3, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -459,6 +482,18 @@ Like a noble resolve which toucheth the heart.
 Agni, with lauds this day may we bring thee that which thou lovest, Right judgment, like a horse, with our devotions.
 
 Agni, this day with lands, etc., as in XV. 44.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, him today like a horse with stomas, like good purpose reaching the heart,  
+may we accomplish with transports! //"
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+O Agni, him today like a horse with praises, like a good resolution that touches the heart,  
+may we accomplish with these conveyances of praise.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -72,6 +72,12 @@ yuṣmā́ka ← tvám (pronoun)
 यु॒ष्माको॒ती रि॑शादसः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सान्तपना इदँ हविर्मरुतस्तज्जुजुष्टन।  
+युष्माकोती रिशादसः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सान्ऽत॑पनाः । इ॒दम् । ह॒विः । मरु॑तः । तत् । जु॒जु॒ष्ट॒न॒ ।  
@@ -81,6 +87,19 @@ yuṣmā́ka ← tvám (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 सान्त॑पना॒ इति॒ साम्-त॒प॒नाः॒ । इ॒दम् । ह॒विः । मरु॑तः । तत् । जु॒जु॒ष्ट॒न॒ ॥ यु॒ष्माक॑ । ऊ॒ती । रि॒शा॒द॒स॒ इति॑ रिश-अ॒द॒सः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सा᳓न्-तपनाः (*MS*-1, *TS*-1/2, *RV*-1)
+- इद᳓म् (*MW*, *MS*-231/1379, *TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-M*-1046/5239, *SB-K*-982/5549, *VS-M*-65/319, *VS-K*-64/301)
+- हविः᳓ (*Whitney*, *MS*-95/213, *TS*-39/124, *RV*-67/166, *TB*-72/186, *TK*-1/17, *AV*-46/116, *SB-M*-190/380, *SB-K*-172/360, *VS-M*-32/92, *VS-K*-26/101)
+- म᳓रुतः (*MS*-7/9, *TS*-7/8, *RV*-25, *AV*-3, *SB-M*-1, *SB-K*-2, *VS-M*-4, *VS-K*-3)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- जुजुष्टन (*MS*-2, *TS*-1, *RV*-2, *AV*-1)
+- युष्मा᳓का (*MS*-1/3, *TS*-0/2, *RV*-0/12, *TB*-0/1, *AV*-0/1, *SB-M*-2/7, *SB-K*-0/6, *VS-M*-0/1, *VS-K*-0/1)
+- ऊती᳓ (*MS*-8/35, *TS*-7/25, *RV*-70/345, *TB*-1/12, *AV*-7/46, *SB-M*-1/8, *SB-K*-1/6, *VS-M*-9/26, *VS-K*-8/26)
+- रिशादसः (समानान्तर-पाठः (TS), *MS*-1, *TS*-1, *RV*-7, *AV*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -161,6 +180,11 @@ _________
 कीदृशा मरुतः? रिशादसो रिषन्ति हिंसन्तीति रिशाः, तान् अदन्ति भक्षयन्ति विनाशयन्तीति रिशादसः।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[333_4]** So corr. Ch **तं जुजुष्ठान**; cf. RV 7,59, 9. (Thus emended; Ch reads तं जुजुष्ठान; cf. RV 7,59, 9)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -212,6 +236,13 @@ I The man of evil heart, O bright ones, O Maruts,
 Who is fain to smite us contrary to right [3],  
 In the noose of destruction may he be caught,  
 Slay him with your most burning heat.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+and richly!' //  
+'O Sāṃtapana Maruts, enjoy this oblation  
+with your aid, you who devour rivals!' //
 </details>
 
 <details><summary>Geldner</summary>

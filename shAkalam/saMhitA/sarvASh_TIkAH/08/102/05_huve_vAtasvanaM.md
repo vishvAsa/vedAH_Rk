@@ -66,6 +66,12 @@ samudrávāsasam ← samudrávāsas- (nominal stem)
 अ॒ग्निँ स॑मु॒द्रवा॑ससम् ॥ [42]
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+हुवे᳓ वा᳓तस्वनं कविं᳓ पर्ज᳓न्यक्रन्द्यँ स᳓हः।  
+अग्निँ समुद्र᳓वाससम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 हु॒वे । वात॑ऽस्वनम् । क॒विम् । प॒र्जन्य॑ऽक्रन्द्यम् । सहः॑ ।  
@@ -75,6 +81,17 @@ samudrávāsasam ← samudrávāsas- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 हु॒वे । वात॑स्वन॒मिति॒ वात॑-स्व॒न॒म् । क॒विम् । प॒र्जन्य॑क्रन्द्य॒मिति॑ प॒र्जन्य॑-क्र॒न्द्य॒म् । सहः॑ ॥ अ॒ग्निम् । स॒मु॒द्रवा॑सस॒मिति॑ समु॒द्र-वा॒स॒स॒म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- हुवे᳓ (*MS*-3, *TS*-2, *RV*-27, *AV*-7, *SB-K*-1, *VS-M*-2, *VS-K*-2)
+- वा᳓त-स्वनम् (*TS*-1, *RV*-1)
+- कवि᳓म् (*MS*-4/36, *TS*-3/31, *RV*-27/200, *TB*-3/21, *AV*-0/30, *SB-M*-2/11, *SB-K*-2/9, *VS-M*-5/23, *VS-K*-5/26)
+- पर्ज᳓न्य-क्रन्द्यम् (*TS*-1, *RV*-1)
+- स᳓हः (*MS*-17/43, *TS*-18/35, *RV*-47/122, *TB*-11/28, *TK*-2/4, *AV*-30/50, *SB-M*-11/21, *SB-K*-10/24, *VS-M*-15/28, *VS-K*-22/40)
+- अग्निम् → **अग्नि᳓म्** (स्वर-लोपः, *MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- समुद्र᳓-वाससम् (*MS*-3, *TS*-3, *RV*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -165,6 +182,11 @@ _________
 समाप्तश्च प्रपाठकः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[613_10]** Vgl. RV 8, 91, 5. (Cf. RV 8, 91, 5)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -190,6 +212,12 @@ upon Agni, whose garment is the sea.
 I call the wise one, who soundeth like the wind,  
 The might that roareth like Parjanya,  
 Agni who is clothed with the sea.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I call the wind-voiced sage, thunder-shouting like Parjanya, overwhelming power,  
+Agni, ocean-clad.
 </details>
 
 <details><summary>Geldner</summary>

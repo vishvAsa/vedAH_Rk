@@ -75,6 +75,12 @@ sádā ← sádā (invariable)
 सदा॑वन्भा॒गमी॑महे  ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अभि त्वा देव सवितरीशानं वार्याणाम्।  
+सदावन्भागमीमहे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒भि । त्वा॒ । दे॒व॒ । स॒वि॒तः॒ । ईशा॑नम् । वार्या॑णाम् ।  
@@ -84,6 +90,20 @@ sádā ← sádā (invariable)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒भीति॑ । त्वा॒ । दे॒व॒ । स॒वि॒तः॒ । ईशा॑नम् । वार्या॑णाम् ॥ सदा॑ । अ॒व॒न्॒ । भा॒गम् । ई॒म॒हे॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- दे᳓व (*MS*-15, *TS*-14/18, *RV*-12/13, *TB*-1, *TK*-2, *AV*-6/7, *SB-M*-9, *SB-K*-11, *VS-M*-8, *VS-K*-10/11)
+- स᳓वितर् (*Macdonell*, *Lanman*, *TS*-1, *AV*-2)
+- ई᳓शानम् (*MS*-3/9, *TS*-3/9, *RV*-18/40, *TB*-1/4, *TK*-0/1, *AV*-4/30, *SB-M*-1/9, *SB-K*-2/10, *VS-M*-4/8, *VS-K*-4/7)
+- वा᳓र्याणाम् (*MS*-2/12, *TS*-1/4, *RV*-7/69, *TB*-0/7, *TK*-0/1, *AV*-2/9, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/5, *VS-K*-0/5)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- दावन् (समानान्तर-पाठः (TS), *MS*-1)
+- भाग᳓म् (*MS*-26/83, *TS*-9/55, *RV*-43/57, *TB*-7/16, *AV*-22/45, *SB-M*-45/110, *SB-K*-44/112, *VS-M*-8/29, *VS-K*-9/45)
+- ईमहे (समानान्तर-पाठः (TS), *MS*-17, *TS*-11, *RV*-89, *TB*-3, *AV*-16, *SB-M*-3, *SB-K*-3, *VS-M*-10, *VS-K*-10)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -197,6 +217,12 @@ To thee, O Savitar, the Lord of precious things, who helpest us
 To thee, O god Savitr,  
 Lord of things delightful,  
 We come for fortune, O thou of constant help.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Toward you, o god Savitṛ, ruler of desirable things,  
+always helping, we ask for a share.
 </details>
 
 <details><summary>Geldner</summary>

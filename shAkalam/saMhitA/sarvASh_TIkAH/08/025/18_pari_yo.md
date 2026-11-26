@@ -75,10 +75,32 @@ ubhé ← ubhá- (pronoun)
 उ॒भे आ प॑प्रौ॒ रोद॑सी महि॒त्वा ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+प᳓रि यो᳓ रश्मि᳓ना दिवो᳓ ऽन्तान्ममे᳓ पृथिव्याः᳓।  
+उभे᳓ आ᳓पप्रौ रो᳓दसी महित्वा᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 परि॑ । यः । र॒श्मिना॑ । दि॒वः । अन्ता॑न् । म॒मे । पृ॒थि॒व्याः ।  
 उ॒भे इति॑ । आ । प॒प्रौ॒ । रोद॑सी॒ इति॑ । म॒हि॒ऽत्वा ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- रश्मि᳓ना (*MS*-1/46, *TS*-1/30, *RV*-1/69, *TB*-0/13, *TK*-0/1, *AV*-0/24, *SB-M*-7/73, *SB-K*-7/71, *VS-M*-3/23, *VS-K*-6/24)
+- दिवः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-21, *AV*-2)
+- अ᳓न्तान् (*MS*-2/51, *TS*-0/27, *RV*-12/42, *TB*-2/26, *TK*-0/5, *AV*-2/15, *SB-M*-3/85, *SB-K*-3/88, *VS-M*-0/6, *VS-K*-0/5)
+- ममे᳓ (*TS*-0/1, *RV*-4, *TB*-0/1, *SB-M*-2, *MS*-3)
+- पृथिव्याः᳓ (*MS*-92, *TS*-71/79, *RV*-99, *TB*-31, *TK*-1, *AV*-48, *SB-M*-69, *SB-K*-71, *VS-M*-55, *VS-K*-46/50)
+- उभे᳓ (*MS*-18/70, *TS*-9/71, *RV*-82/137, *TB*-12/50, *TK*-1, *AV*-39/82, *SB-M*-61/161, *SB-K*-69/151, *VS-M*-8/28, *VS-K*-10/34)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- पप्रौ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-5, *AV*-2)
+- रो᳓दसी (*MS*-22/25, *TS*-14/18, *RV*-186/207, *TB*-6, *TK*-1, *AV*-28, *SB-M*-8/9, *SB-K*-8/9, *VS-M*-13/15, *VS-K*-13/16)
+- महि-त्वा᳓ (*MS*-9, *TS*-9, *RV*-34, *TB*-3, *AV*-16, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -192,6 +214,12 @@ I would now substitute ‘limits’ or ‘boundaries’ for ‘ends’ in tr. á
 
 He who hath measured with his ray the boundaries of heaven and earth,  
      And with his majesty hath filled the two worlds full,
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who with his ray has measured around the limits of heaven [and] of earth,  
+he filled both heaven and earth with his greatness.
 </details>
 
 <details><summary>Geldner</summary>

@@ -75,10 +75,31 @@ vidvā́n ← √vid- 2 (root)
 वि॒द्वाँ आ॒रोध॑नं दि॒वः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स᳓ हो᳓ता से᳓दु दूत्यृं चिकित्वाँ᳓ अन्त᳓रीयते᳓।  
+विद्वाँ᳓ आरो᳓धनं दिवः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । होता॑ । सः । इत् । ऊं॒ इति॑ । दू॒त्य॑म् । चि॒कि॒त्वान् । अ॒न्तः । ई॒य॒ते॒ ।  
 वि॒द्वान् । आ॒ऽरोध॑नम् । दि॒वः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- हो᳓ता (*MS*-81/112, *TS*-43/63, *RV*-150/244, *TB*-95/136, *TK*-6/8, *AV*-18/28, *SB-M*-135/211, *SB-K*-145/211, *VS-M*-58/73, *VS-K*-44/60)
+- से᳓त् (*MS*-4, *TB*-1, *SB-M*-2, *SB-K*-4)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- दूत्यृम् (मूल-पाठः)
+- चिकित्वा᳓न् (*MS*-3, *TS*-3, *RV*-31, *TB*-2, *AV*-5, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-3)
+- अन्तः᳓ (*MS*-79/81, *TS*-81/87, *RV*-154, *TB*-13/16, *TK*-26, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-44, *VS-K*-37/44)
+- ईयते᳓ (मूल-पाठः)
+- विद्वा᳓न् (*MS*-86/88, *TS*-93, *RV*-94, *TB*-49, *TK*-2, *AV*-59, *SB-M*-144, *SB-K*-127, *VS-M*-14, *VS-K*-14)
+- आ-रो᳓धनम् (*RV*-2/4)
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -187,6 +208,12 @@ knowing the means of ascending to heaven.
 
 He is the Herald: well-informed, he doth his errand to and fro,  
      Knowing the deep recess of heaven.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He is the Hotṛ; indeed, wise, he goes between as messenger,  
+knowing the ascent of heaven.
 </details>
 
 <details><summary>Oldenberg</summary>

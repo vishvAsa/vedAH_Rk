@@ -66,9 +66,48 @@ yát ← yá- (pronoun)
 प्रि॒या वो॒ नाम॑ हुवे तु॒राणा॒मा यत्तृ॒पन्म॑रुतो वावशा॒नाः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+प्रिया᳓ वो᳓ ना᳓म हुवे तुरा᳓णाम् आ᳓ य᳓त् तृप᳓न् मरुतो वावशानः᳓
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+प्रिया᳓ वो ना᳓म हुवे तुरा᳓णाम्।  
+आ᳓ य᳓न्नृप᳓न्मरुतो वावशानाः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्रि॒या । वः॒ । नाम॑ । हु॒वे॒ । तु॒राणा॑म् । आ । यत् । तृ॒पत् । म॒रु॒तः॒ । वा॒व॒शा॒नाः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प्रिया᳓ (*TS*-12/92, *RV*-29/213, *TB*-30/83, *TK*-0/1, *AV*-7/90, *SB-M*-13/134, *SB-K*-17/141, *VS-M*-22/60, *VS-K*-16/45, *KS*-6/26)
+- वः᳓ → **वः** (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-68, *KS*-122)
+- ना᳓म (*TS*-83/93, *RV*-94/117, *TB*-54/65, *TK*-10, *AV*-106/112, *SB-M*-269/317, *SB-K*-279/325, *VS-M*-37/45, *VS-K*-32/37, *KS*-30/34)
+- हुवे (*TS*-18, *RV*-44, *TB*-2, *AV*-18, *SB-M*-1, *VS-M*-2, *VS-K*-2, *KS*-4)
+- तुरा᳓णाम् (*TS*-1/4, *RV*-6/44, *TB*-0/3, *AV*-1/8, *SB-M*-0/4, *SB-K*-0/2, *VS-M*-0/3, *VS-K*-0/3, *KS*-1/5)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- तृप᳓न् (*TS*-1)
+- मरुतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-17, *RV*-152, *TB*-9, *AV*-18, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2, *KS*-18)
+- वावशानः᳓ (*TS*-1/3, *RV*-9/23, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-0/1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्रिया᳓ (*MS*-42/135, *TS*-12/92, *RV*-29/213, *TB*-30/83, *TK*-0/1, *AV*-7/90, *SB-M*-13/134, *SB-K*-17/141, *VS-M*-22/60, *VS-K*-16/47)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- ना᳓म (*MS*-110/128, *TS*-83/93, *RV*-94/117, *TB*-54/65, *TK*-10, *AV*-106/112, *SB-M*-269/317, *SB-K*-279/325, *VS-M*-37/45, *VS-K*-32/37)
+- हुवे (*MS*-12, *TS*-18, *RV*-44, *TB*-2, *AV*-18, *SB-M*-1, *VS-M*-2, *VS-K*-2)
+- तुरा᳓णाम् (*MS*-1/6, *TS*-1/4, *RV*-6/44, *TB*-0/3, *AV*-1/8, *SB-M*-0/4, *SB-K*-0/2, *VS-M*-0/3, *VS-K*-0/2)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- नृप᳓म् (मूल-पाठः)
+- मरुतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-23, *TS*-17, *RV*-152, *TB*-9, *AV*-18, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2)
+- वावशानाः᳓ (*MS*-0/2, *TS*-1/3, *RV*-12/23, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -146,6 +185,11 @@ _________
 [हे **मरुतः** **तुराणां** शत्रूणां हिंसकानां त्वरावतां वा **वः** युष्माकं **प्रिया** प्रियेण **नाम** नाम्ना **आ** **हुवे** आह्वयामि। **यत्** येनानेन **वावशानाः** कामयमानाः सन्तः **तृपत्** तृप्तिं गच्छन्ति ॥] ॥२३॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[104_1]** So T6 und Brl; desgl. Ch, ohne Acc.; L प्रिय᳓; desgl. D, ohne Accent. (Thus T6 and Brl; likewise Ch, without accent; L प्रिय᳓; likewise D, without accent.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -170,6 +214,17 @@ Both Geldner and Renou (also Lubotsky) take vāvaśānā́ḥ to √vaś ‘want
 <details><summary>Griffith</summary>
 
 Your dear names, conquering Maruts, we invoke, calling aloud till we are satisfied.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I invoke the dear name of the swift ones, when the longing Maruts satisfy themselves.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+I invoke the dear name of you swift ones,  
+so that the Maruts, yearning, were sated.
 </details>
 
 <details><summary>Geldner</summary>

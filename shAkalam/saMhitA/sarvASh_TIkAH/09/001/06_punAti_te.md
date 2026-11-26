@@ -78,6 +78,18 @@ vā́reṇa ← vā́ra- 1 (nominal stem)
 वारे॑ण॒ शश्व॑ता॒ तना॑  ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+पुना᳓तु ते परिस्रु᳓तँ सो᳓मँ सू᳓र्यस्य दुहिता᳓  
+वा᳓रेण श᳓स्वता त᳓ना
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+पुनातु ते परिस्रुतँ सोमँ सूर्यस्य दुहिता।  
+वारेण शश्वता तना
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पु॒नाति॑ । ते॒ । प॒रि॒ऽस्रुत॑म् । सोम॑म् । सूर्य॑स्य । दु॒हि॒ता ।  
@@ -97,6 +109,33 @@ vā́reṇa ← vā́ra- 1 (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 पु॒नातु॑ । ते । प॒रि॒स्रुत॒मिति॑ परि-स्रुत॑म् । सोम॑म् । सूर्य॑स्य । दु॒हि॒ता ॥ वारे॑ण । शश्व॑ता । तना॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- पुना᳓तु (*TS*-1, *TB*-2)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- परि-स्रु᳓तम् (*TS*-1, *RV*-2/3, *TB*-2/21, *AV*-0/1, *SB-M*-5/19, *SB-K*-6/16, *VS-M*-2/23, *VS-K*-2/14, *KS*-0/2)
+- सो᳓मम् (*TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/128, *VS-K*-32/108, *KS*-24/80)
+- सू᳓र्यस्य (*TS*-26/109, *RV*-84/337, *TB*-12/75, *TK*-0/8, *AV*-22/173, *SB-M*-34/152, *SB-K*-32/151, *VS-M*-8/36, *VS-K*-12/44, *KS*-6/52)
+- दुहिता᳓ (*TS*-1/2, *RV*-30/46, *TB*-2/3, *AV*-7/12, *SB-M*-8/14, *SB-K*-8/14, *VS-M*-1, *VS-K*-1, *KS*-0/1)
+- वा᳓रेण (*TS*-1/2, *RV*-2/61, *TB*-3, *AV*-0/3, *SB-M*-1, *SB-K*-1/2, *VS-M*-1, *VS-K*-1)
+- श᳓सु (मूल-पाठः)
+- अता (*RV*-1, *TK*-1, *AV*-1)
+- त᳓ना (*TS*-1/2, *RV*-23/33, *TB*-2, *AV*-3, *SB-M*-1/2, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पुना᳓तु (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *MS*-2, *TS*-1, *TB*-2)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- परि-स्रु᳓तम् (*MS*-2/22, *TS*-1, *RV*-2/3, *TB*-2/21, *AV*-0/1, *SB-M*-5/19, *SB-K*-6/16, *VS-M*-2/23, *VS-K*-2/14)
+- सो᳓मम् (*MS*-127/396, *TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/130, *VS-K*-32/112)
+- सू᳓र्यस्य (*MS*-49/143, *TS*-26/109, *RV*-84/337, *TB*-12/75, *TK*-0/8, *AV*-22/173, *SB-M*-34/152, *SB-K*-32/151, *VS-M*-8/38, *VS-K*-13/47)
+- दुहिता᳓ (*MS*-3/6, *TS*-1/2, *RV*-30/46, *TB*-2/3, *AV*-7/12, *SB-M*-8/14, *SB-K*-8/14, *VS-M*-1, *VS-K*-1)
+- वा᳓रेण (*MS*-2, *TS*-1/2, *RV*-2/61, *TB*-3, *AV*-0/3, *SB-M*-1, *SB-K*-1/2, *VS-M*-1, *VS-K*-1)
+- श᳓श्वता (*MS*-1, *TS*-1/2, *RV*-2/43, *TB*-2/4, *TK*-0/1, *AV*-2/7, *SB-M*-1/16, *SB-K*-1/18, *VS-K*-1)
+- त᳓ना (*MW*, *MS*-2/4, *TS*-1/2, *RV*-23/33, *TB*-2, *AV*-3, *SB-M*-1/2, *SB-K*-1, *VS-M*-1, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -343,6 +382,18 @@ By means of this eternal fleece may Surya's Daughter purify
 Let the daughter of the Sun  
 Purify for thee the flowing Soma  
 With the eternal sieve.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let the daughter of the sun purify thy running Soma  
+with the continuous tail-hair strainer.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+"May the daughter of the sun purify your overflowing soma  
+with the eternal, continuous sieve."
 </details>
 
 <details><summary>Geldner</summary>

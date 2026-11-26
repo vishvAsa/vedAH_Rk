@@ -106,6 +106,18 @@ jihvā́m ← jihvā́- (nominal stem)
 जि॒ह्वाम॑ग्ने चकृषे हव्य॒वाह॑म् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+भु᳓वो यज्ञ᳓स्य र᳓जसश् च नेता᳓ य᳓त्रा नियु᳓द्भिः स᳓चसे शिवा᳓भिः  
+दिवि᳓ मूर्धा᳓नं दधिषे स्वर्षां᳓ जिह्वा᳓म् अग्ने चकृषे हव्यवा᳓हम्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+भुवो यज्ञस्य रजसश्च नेता यत्रा नियुद्भिस्सचसे शिवाभिः।  
+दिवि मूर्धानं दधिषे स्वर्षां जिह्वामग्ने चकृषे हव्यवाहम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 भुवः॑ । य॒ज्ञस्य॑ । रज॑सः । च॒ । ने॒ता । यत्र॑ । नि॒युत्ऽभिः॑ । सच॑से । शि॒वाभिः॑ ।  
@@ -130,6 +142,48 @@ jihvā́m ← jihvā́- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 भु᳓वः । यज्ञ᳓स्य । र᳓जसः । च । नेता᳓ । य᳓त्रा । नियु᳓द्भिः । स᳓चसे । शिवा᳓भिः । दिवि᳓ । मूर्धा᳓नम् । दधिषे । सुवः-सा᳓म् । जिह्वा᳓म् । अग्ने । चकृषे । हव्य-वा᳓हम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- भु᳓वः (*TS*-17, *RV*-25, *TB*-7, *TK*-3, *AV*-7, *SB-M*-33, *SB-K*-30, *VS-M*-8, *VS-K*-5, *KS*-2)
+- यज्ञ᳓स्य (*TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/179, *KS*-26/171)
+- र᳓जसः (*TS*-11/22, *RV*-42/144, *TB*-5/14, *AV*-13/39, *SB-M*-6/16, *SB-K*-6/14, *VS-M*-7/22, *VS-K*-6/18, *KS*-4/11)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- नेता᳓ (*TS*-3/9, *RV*-13/16, *TB*-1, *AV*-3/4, *SB-M*-4/9, *SB-K*-0/4, *VS-M*-3/6, *VS-K*-3/6, *KS*-2/4)
+- य᳓त्रा (*TS*-1/40, *RV*-0/123, *TB*-2/39, *TK*-0/2, *AV*-0/88, *SB-M*-1/376, *SB-K*-1/363, *VS-M*-0/46, *VS-K*-2/44, *KS*-1/22)
+- नियु᳓द्भिः (*TS*-2, *RV*-10, *TB*-3, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-6, *VS-K*-6/8)
+- स᳓चसे (*TS*-1, *RV*-2, *TB*-1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-2, *VS-K*-2)
+- शिवा᳓भिः (*TS*-3/59, *RV*-5/50, *TB*-2/26, *TK*-0/1, *AV*-4/83, *SB-M*-0/52, *SB-K*-0/49, *VS-M*-3/53, *VS-K*-3/47, *KS*-1/26)
+- दिवि᳓ (*TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-23/172, *KS*-21/128)
+- मूर्धा᳓नम् (*TS*-7/31, *RV*-10/28, *TB*-1/4, *TK*-0/4, *AV*-6/9, *SB-M*-4/30, *SB-K*-4/32, *VS-M*-1/15, *VS-K*-2/15, *KS*-1/8)
+- दधिषे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-20, *TB*-1, *AV*-4, *VS-M*-3, *VS-K*-3, *KS*-1)
+- स्वर्-षा᳓म् (*VS-M*-3, *VS-K*-2)
+- जिह्वा᳓म् (*TS*-4/24, *RV*-6/45, *TB*-2/5, *TK*-0/2, *AV*-6/32, *SB-M*-4/28, *SB-K*-4/27, *VS-M*-3/12, *VS-K*-3/9, *KS*-1/7)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- चकृषे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-4, *TB*-1, *VS-M*-2, *VS-K*-2, *KS*-1)
+- हव्य-वा᳓हम् (*TS*-4/10, *RV*-22/32, *TB*-4/9, *TK*-2, *AV*-4/5, *SB-M*-0/8, *SB-K*-0/4, *VS-M*-3/4, *VS-K*-3, *KS*-5/8)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- भु᳓वः (*Whitney*, *MS*-28, *TS*-17, *RV*-25, *TB*-7, *TK*-3, *AV*-7, *SB-M*-33, *SB-K*-30, *VS-M*-8, *VS-K*-5)
+- यज्ञ᳓स्य (*MS*-180/933, *TS*-211/863, *RV*-56/448, *TB*-91/399, *TK*-1/21, *AV*-25/231, *SB-M*-386/1803, *SB-K*-394/1754, *VS-M*-23/223, *VS-K*-15/187)
+- र᳓जसः (*MS*-11/27, *TS*-11/22, *RV*-42/144, *TB*-5/14, *AV*-13/39, *SB-M*-6/16, *SB-K*-6/14, *VS-M*-7/22, *VS-K*-6/21)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- नेता᳓ (*MS*-3/7, *TS*-3/9, *RV*-13/16, *TB*-1, *AV*-3/4, *SB-M*-4/9, *SB-K*-0/4, *VS-M*-3/6, *VS-K*-3/6)
+- य᳓त्रा (*MS*-7/106, *TS*-1/40, *RV*-0/123, *TB*-2/39, *TK*-0/2, *AV*-0/88, *SB-M*-1/376, *SB-K*-1/363, *VS-M*-0/46, *VS-K*-2/44)
+- नियु᳓द्भिः (*MS*-4, *TS*-2, *RV*-10, *TB*-3, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-6, *VS-K*-6/8)
+- स᳓चसे (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1, *TS*-1, *RV*-2, *TB*-1, *VS-M*-2, *VS-K*-2)
+- शिवा᳓भिः (*MS*-4/68, *TS*-3/59, *RV*-5/50, *TB*-2/26, *TK*-0/1, *AV*-4/83, *SB-M*-0/52, *SB-K*-0/49, *VS-M*-3/53, *VS-K*-3/49)
+- दिवि᳓ (*MW* ŚBr., *MS*-63/308, *TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-24/179)
+- मूर्धा᳓नम् (*MS*-6/24, *TS*-7/31, *RV*-10/28, *TB*-1/4, *TK*-0/4, *AV*-6/9, *SB-M*-4/30, *SB-K*-4/32, *VS-M*-4/16, *VS-K*-2/15)
+- दधिषे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-4, *RV*-20, *TB*-1, *AV*-4, *VS-M*-3, *VS-K*-3)
+- स्वर्-षा᳓म् (*MS*-3/5, *VS-M*-3, *VS-K*-2)
+- जिह्वा᳓म् (*MS*-2/23, *TS*-4/24, *RV*-6/45, *TB*-2/5, *TK*-0/2, *AV*-6/32, *SB-M*-4/28, *SB-K*-4/27, *VS-M*-3/12, *VS-K*-3/9)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- चकृषे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-4, *TB*-1, *VS-M*-2, *VS-K*-2)
+- हव्य-वा᳓हम् (*MS*-6/15, *TS*-4/10, *RV*-22/32, *TB*-4/9, *TK*-2, *AV*-4/5, *SB-M*-0/8, *SB-K*-0/4, *VS-M*-3/4, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -535,6 +589,18 @@ Leader of the sacrifice and the region art thou,
 Where with steeds auspicious thou dost resort;  
 Thou placest in the sky thy head winning light,  
 Thou makest, O Agni, thy tongue to bear the oblation.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You have become the leader of the sacrifice and of the realm of space, where you accompany with auspicious teams;  
+in heaven you have set your head winning the sun; your tongue, O Agni, you have made the conveyer of oblations.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+You become the leader of the sacrifice and of space, where you attend with auspicious teams of horses;  
+in heaven you have placed your head that wins the sun; your tongue, o Agni, you have made the bearer of the oblation.
 </details>
 
 <details><summary>Geldner</summary>

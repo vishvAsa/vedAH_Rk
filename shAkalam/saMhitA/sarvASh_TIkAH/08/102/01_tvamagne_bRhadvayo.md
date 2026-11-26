@@ -69,6 +69,12 @@ yúvā ← yúvan- (nominal stem)
 क॒विर्गृ॒हप॑ति॒र्युवा॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त्व᳓म् अग्ने बृह᳓द् व᳓यो द᳓धासि देव दाशु᳓षे  
+कवि᳓र् गृह᳓पतिर् यु᳓वा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । अ॒ग्ने॒ । बृ॒हत् । वयः॑ । दधा॑सि । दे॒व॒ । दा॒शुषे॑ ।  
@@ -78,6 +84,20 @@ yúvā ← yúvan- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 त्वम् । अ॒ग्ने॒ । बृ॒हत् । वयः॑ । दधा॑सि । दे॒व॒ । दा॒शुषे॑ ॥ क॒विः । गृ॒हप॑ति॒रिति॑ गृ॒ह-प॒तिः॒ । युवा॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- बृह᳓त् (*TS*-57/69, *RV*-151/156, *TB*-32/33, *AV*-43, *SB-M*-31/36, *SB-K*-30/35, *VS-M*-27/28, *VS-K*-25/32, *KS*-13/15)
+- व᳓यः (*TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/173, *KS*-9/149)
+- द᳓धासि (*TS*-2, *RV*-4, *SB-M*-4, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- देव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-57, *RV*-123, *TB*-28, *TK*-2, *AV*-24, *SB-M*-47, *SB-K*-34, *VS-M*-45, *VS-K*-36, *KS*-26)
+- दाशु᳓षे (*TS*-16/18, *RV*-116/139, *TB*-6, *AV*-20/21, *SB-M*-6/7, *SB-K*-6/7, *VS-M*-8/12, *VS-K*-6/12, *KS*-14/16)
+- कविः᳓ (*TS*-16/31, *RV*-92/200, *TB*-9/21, *AV*-10/30, *SB-M*-5/11, *SB-K*-4/9, *VS-M*-10/23, *VS-K*-10/25, *KS*-8/18)
+- गृह᳓-पतिः (*TS*-7/24, *RV*-13/20, *TB*-2/18, *TK*-1, *AV*-4/5, *SB-M*-19/39, *SB-K*-17/31, *VS-M*-2/8, *VS-K*-5/15, *KS*-0/2)
+- यु᳓वा (*TS*-5/11, *RV*-30/68, *TB*-7/8, *AV*-5/13, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-3/4, *VS-K*-3/4, *KS*-1/4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -189,6 +209,12 @@ LORD of the house, Sage, ever young, high power of life, O Agni, God,
 Long life thou givest, O Agni,  
 O god, to the giver,  
 Sage, lord of the house, the youthful.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thou, O Agni, dost establish great vigor for the worshipful one, O god,  
+a youthful householder, a poet.
 </details>
 
 <details><summary>Geldner</summary>

@@ -63,10 +63,28 @@ sākám ← sākám (invariable)
 सा॒कमेके॑न॒ कर्म॑णा ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इ᳓न्द्राग्नी नवतिं᳓ पु᳓रो दास᳓पत्नीरधूनुतम्।  
+साक᳓मे᳓केन क᳓र्मणा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रा॑ग्नी॒ इति॑ । न॒व॒तिम् । पुरः॑ । दा॒सऽप॑त्नीः । अ॒धू॒नु॒त॒म् ।  
 सा॒कम् । एके॑न । कर्म॑णा ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्राग्नी (*MS*-11, *TS*-8, *RV*-44, *TB*-6, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-3)
+- नवति᳓म् (*MS*-3/4, *TS*-2, *RV*-18/25, *AV*-6/11, *SB-M*-0/5, *SB-K*-0/5)
+- पु᳓रः (*MS*-8, *TS*-7, *RV*-47, *TB*-2, *AV*-11, *SB-M*-15, *SB-K*-11)
+- दास᳓-पत्नीः (*MS*-1, *TS*-1, *RV*-4)
+- अधूनुतम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-1)
+- साक᳓म् (*MS*-19, *TS*-9, *RV*-56, *TB*-6, *AV*-30, *SB-K*-3, *VS-M*-6, *VS-K*-6)
+- ए᳓केन (*MS*-6/146, *TS*-3/127, *RV*-2/218, *TB*-1/51, *TK*-0/3, *AV*-5/123, *SB-M*-27/615, *SB-K*-31/586, *VS-M*-1/32, *VS-K*-1/27)
+- क᳓र्मणा (*MS*-3/26, *TS*-6/25, *RV*-8/34, *TB*-4/34, *TK*-2, *AV*-9/42, *SB-M*-38/331, *SB-K*-30/281, *VS-M*-0/19, *VS-K*-0/22)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -190,6 +208,12 @@ Indra-Agni, you have hurled down by one deed the ninety strongholds together of 
 O Indra and Agni, ninety forts  
 Of which the Dasas were lords ye overtbrew  
 Together in one deed.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Indra and Agni! // O Indra and Agni, you shook down ninety strongholds ruled by Dāsas,  
+together by a single deed!
 </details>
 
 <details><summary>Geldner</summary>

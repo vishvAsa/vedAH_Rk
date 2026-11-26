@@ -92,10 +92,39 @@ vaḥ ← tvám (pronoun)
 उद्वा॑ सि॒ञ्चध्व॒मुप॑ वा पृणध्व॒मादिद्वो॑ दे॒व ओ॑हते ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+देवो᳓ वो द्रविणोदाः᳓ पूर्णाँ᳓ विवष्ट्य् आसि᳓चम्  
+उ᳓द् वा सिञ्च᳓ध्वम् उ᳓प वा पृणध्वम् आ᳓द् इ᳓द् वो देव᳓ ओहते
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 दे॒वः । वः॒ । द्र॒वि॒णः॒ऽदाः । पू॒र्णाम् । वि॒व॒ष्टि॒ । आ॒ऽसिच॑म् ।  
 उत् । वा॒ । सि॒ञ्चध्व॑म् । उप॑ । वा॒ । पृ॒ण॒ध्व॒म् । आत् । इत् । वः॒ । दे॒वः । ओ॒ह॒ते॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/517, *VS-K*-61/498, *KS*-24/317)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-68, *KS*-122)
+- द्रविणः-दाः᳓ (*TS*-7/9, *RV*-14/23, *TK*-1, *AV*-2/3, *SB-K*-2, *VS-M*-5, *VS-K*-5, *KS*-3)
+- पूर्णा᳓म् (*TS*-7/28, *RV*-2/15, *TB*-1/14, *TK*-0/1, *AV*-1/17, *SB-M*-6/51, *SB-K*-6/49, *VS-M*-0/2, *VS-K*-0/2, *KS*-0/5)
+- विवष्टि (*RV*-1)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-7, *VS-K*-11, *KS*-122)
+- असि᳓चम् (मूल-पाठः)
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-79, *KS*-81)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-35, *KS*-61)
+- सिञ्च᳓ध्वम् (*RV*-1)
+- उ᳓प (*TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60, *KS*-116)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-35, *KS*-61)
+- पृणध्वम् (*TS*-1, *RV*-3, *VS-M*-1, *VS-K*-1)
+- आ᳓त् (*RV*-112, *AV*-30, *SB-M*-1, *SB-K*-5, *VS-M*-8, *VS-K*-8)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-60, *VS-K*-46, *KS*-42)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-68, *KS*-122)
+- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/517, *VS-K*-61/498, *KS*-24/317)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-7, *VS-K*-11, *KS*-122)
+- ऊहते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *TB*-1, *SB-M*-1, *SB-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -245,6 +274,12 @@ Pour it out or fill it up: only then will the god honor you.
 
 The God who gives your wealth demands a full libation poured to him.  
      Pour ye it forth, then fill the vessel full again: then doth the God pay heed to you.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Your god, the giver of wealth, desires a full libation;  
+pour it out or fill it up; then indeed the god esteems you.
 </details>
 
 <details><summary>Geldner</summary>

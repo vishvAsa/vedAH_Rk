@@ -279,6 +279,12 @@ With darts in their mouths, heart-piercing, healthful?
 He who attaineth their service shall live.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Who yokes today to the pole the cows of truth, the vigorous, wrathful, ill-disposed ones,  
+with arrows in their mouth, wounding the heart, giving delight? He who accomplishes their maintenance, he shall live!
+</details>
+
 <details><summary>Geldner</summary>
 
 Wer schirrt heute die Rinder an das Joch der Opferordnung, die heftigen grimmigen, ungnädigen, die Pfeile im Munde führen, die ins Herz treffen und doch heilsam sind? Wem ihre Pflege glückt, der soll leben.

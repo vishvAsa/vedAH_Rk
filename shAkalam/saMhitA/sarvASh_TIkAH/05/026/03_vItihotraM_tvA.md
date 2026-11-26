@@ -78,6 +78,12 @@ br̥hántam ← br̥hánt- (nominal stem)
 अग्ने॑ बृ॒हन्त॑मध्व॒रे ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+वीतिहोत्रं त्वा कवे द्युमन्तस्समिधीमहि।  
+अग्ने बृहन्तमध्वरे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वी॒तिऽहो॑त्रम् । त्वा॒ । क॒वे॒ । द्यु॒ऽमन्त॑म् । सम् । इ॒धी॒म॒हि॒ ।  
@@ -97,6 +103,19 @@ br̥hántam ← br̥hánt- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 वी॒तिहो॑त्र॒मिति॑ वी॒ति-हो॒त्र॒म् । त्वा॒ । क॒वे॒ । द्यु॒मन्त॒मिति॑ द्यु-मन्त॑म् । समिति॑ । इ॒धी॒म॒हि॒ । अग्ने॑ । बृ॒हन्त॑म् । अ॒ध्व॒रे ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वीति᳓-होत्रम् (*TS*-1/2, *RV*-2/4, *TB*-1, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-1, *VS-K*-1, *MS*-0/1)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- कवे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-26, *TB*-2, *AV*-2, *SB-M*-4, *SB-K*-4, *VS-M*-2, *VS-K*-2)
+- द्युम᳓न्तः (*MS*-2/5, *TS*-1/5, *RV*-4/20, *TB*-0/1, *AV*-3/5, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/2, *VS-K*-0/2)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- इधीमहि᳓ (*AV*-1, *SB-M*-5, *SB-K*-7)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- बृह᳓न्तम् (*MS*-11/14, *TS*-5/6, *RV*-35/44, *TB*-7/8, *TK*-1, *AV*-4/7, *SB-M*-4/6, *SB-K*-3/5, *VS-M*-5/7, *VS-K*-5/7)
+- अध्वरे᳓ (*MS*-7/44, *TS*-2/27, *RV*-68/196, *TB*-5/25, *TK*-2, *AV*-7/22, *SB-M*-7/71, *SB-K*-9/68, *VS-M*-3/29, *VS-K*-2/22)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -344,6 +363,12 @@ O Agni, thee that art mighty at the sacrifice.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Thee, Sage, who offerest to Gods their banquet, we will enkindle till thou shinest brightly, thee mighty in the sacrifice, O Agni.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As an invoker of the banquet, O seer, we, radiant, would kindle you,  
+O Agni, great in the rite!
 </details>
 
 <details><summary>Oldenberg</summary>

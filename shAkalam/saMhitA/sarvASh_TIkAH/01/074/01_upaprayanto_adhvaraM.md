@@ -327,6 +327,12 @@ Who heareth us, even from afar.
 Approaching sacrifice, may we pronounce a text to Agni who Heareth us even when afar.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Approaching the sacrifice, let us speak a mantra to Agni,  
+who listens to us even from afar.
+</details>
+
 <details><summary>Geldner</summary>
 
 Zum Opferdienst antretend wollen wir dem Agni ein Dichterwort aufsagen, der auch in der Ferne auf uns hört;

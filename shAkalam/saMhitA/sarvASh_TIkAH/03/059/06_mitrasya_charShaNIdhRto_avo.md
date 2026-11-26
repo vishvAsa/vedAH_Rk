@@ -61,6 +61,18 @@ dyumnám ← dyumná- (nominal stem)
 द्यु॒म्नं चि॒त्रश्र॑वस्तमम् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+मित्र᳓स्य चर्षणीधृ᳓तः श्र᳓वो देव᳓स्य सानसि᳓  
+द्युम्नं᳓ चित्र᳓श्रवस्तमम्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+मित्रस्य चर्षणीधृतश्रवो देवस्य सानसि।  
+द्युम्नं चित्रश्रवस्तमम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मि॒त्रस्य॑ । च॒र्ष॒णि॒ऽधृतः॑ । अवः॑ । दे॒वस्य॑ । सा॒न॒सि ।  
@@ -75,6 +87,28 @@ dyumnám ← dyumná- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 मि॒त्रस्य॑। च॒र्ष॒णी॒धृत॒ इति॑ चर्षणि॒ऽधृतः॑। अवः॑। दे॒वस्य॑। सा॒न॒सि। द्यु॒म्नम्। चि॒त्रश्र॑वस्तम॒मिति॑ चि॒त्रश्र॑वःऽतमम्। ३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- मित्र᳓स्य (*TS*-17/68, *RV*-38/284, *TB*-8/48, *TK*-0/1, *AV*-5/52, *SB-M*-10/71, *SB-K*-11/74, *VS-M*-14/44, *VS-K*-17/50, *KS*-5/26)
+- चर्षणि-धृ᳓तः (*TS*-2, *RV*-2/9, *AV*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- श्र᳓वः (*TS*-6/9, *RV*-87/145, *TB*-3/4, *AV*-11/12, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-4/7, *KS*-3/4)
+- देव᳓स्य (*TS*-39/1025, *RV*-61/1342, *TB*-15/582, *TK*-0/32, *AV*-42/707, *SB-M*-50/2031, *SB-K*-47/1945, *VS-M*-43/517, *VS-K*-37/498, *KS*-22/317)
+- सानसि᳓ (*TS*-5, *RV*-2/15, *TB*-1, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-1/3, *VS-K*-1/3, *KS*-1)
+- द्युम्न᳓म् (*TS*-6/13, *RV*-23/61, *TB*-2/6, *TK*-0/1, *AV*-5/12, *SB-M*-9/11, *SB-K*-7/10, *VS-M*-8/12, *VS-K*-15/18, *KS*-0/2)
+- चित्र᳓श्रवस्तमम् (*TS*-2, *RV*-2, *VS-M*-1, *VS-K*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मित्र᳓स्य (*MS*-29/111, *TS*-17/68, *RV*-38/284, *TB*-8/48, *TK*-0/1, *AV*-5/52, *SB-M*-10/71, *SB-K*-11/74, *VS-M*-14/44, *VS-K*-17/51)
+- चर्षणि-धृ᳓तः (*TS*-2, *RV*-2/9, *AV*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *MS*-3)
+- र᳓वः (*MS*-0/6, *TS*-0/1, *RV*-1/15, *TB*-0/2, *AV*-1/4, *VS-M*-0/1, *VS-K*-0/1)
+- देव᳓स्य (*MS*-54/1216, *TS*-39/1023, *RV*-61/1342, *TB*-15/582, *TK*-0/32, *AV*-42/707, *SB-M*-50/2031, *SB-K*-47/1945, *VS-M*-52/528, *VS-K*-45/523)
+- सानसि᳓ (*Whitney*, *MS*-3/6, *TS*-5, *RV*-2/15, *TB*-1, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-1/3, *VS-K*-1/3)
+- द्युम्न᳓म् (*MS*-10/18, *TS*-6/13, *RV*-23/61, *TB*-2/6, *TK*-0/1, *AV*-5/12, *SB-M*-9/11, *SB-K*-7/10, *VS-M*-8/12, *VS-K*-15/19)
+- चित्र᳓श्रवस्तमम् (*MS*-3, *TS*-2, *RV*-2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -271,6 +305,27 @@ his brilliance holds bright renown.
 
 The gainful grace of Mitra,. God, supporter of the race of man,  
      Gives splendour of most.glorious fame.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of Mitra, the sustainer of peoples, the god, the fame is winning,  
+splendor most wondrous in renown.
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+The renown of Mitra who sustains the folk, of the divine one, is gainful,  
+a lustre most wondrously famed.
+
+The fame of Mitra who supports the people, of the god, is winning [wealth],  
+his splendor most wondrously famous.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The fame of god Mitra, the sustainer of men, is winning,  
+his brilliance most wonderfully renowned.
 </details>
 
 <details><summary>Macdonell</summary>

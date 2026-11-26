@@ -69,10 +69,30 @@ vā́tāpe ← vātāpi- (nominal stem)
 वाता॑पे॒ पीव॒ इद्भ॑व ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+करम्भ᳓ आषधे भव पी᳓वो वृक्क᳓ उदारथिः᳓।  
+वा᳓तापे पी᳓व इ᳓द्भव
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 क॒र॒म्भः । ओ॒ष॒धे॒ । भ॒व॒ । पीवः॑ । वृ॒क्कः । उ॒दा॒र॒थिः ।  
 वाता॑पे । पीवः॑ । इत् । भ॒व॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- करम्भः᳓ (*MS*-1/3, *TS*-1/3, *RV*-1/3, *TB*-1/4, *AV*-0/3, *SB-M*-2/5, *SB-K*-2/11, *VS-M*-1/3, *VS-K*-1/3)
+- आषधे (मूल-पाठः)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-63, *TS*-52, *RV*-67, *TB*-5, *AV*-49, *SB-M*-26, *SB-K*-19, *VS-M*-39, *VS-K*-38)
+- पी᳓वः (*TS*-0/1, *RV*-6/7, *TB*-1, *AV*-1/2)
+- वृक्कः᳓ (*MS*-0/1, *RV*-1, *AV*-0/2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/1)
+- उदारथिः᳓ (*RV*-1, *AV*-0/1)
+- वा᳓तापे (*RV*-3)
+- पी᳓वः (*TS*-0/1, *RV*-6/7, *TB*-1, *AV*-1/2)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-63, *TS*-52, *RV*-67, *TB*-5, *AV*-49, *SB-M*-26, *SB-K*-19, *VS-M*-39, *VS-K*-38)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -187,6 +207,12 @@ My tr. of the hapax udārathí- follows a suggestion registered in EWA s.v. udā
 <details><summary>Griffith</summary>
 
 O Vegetable, Cake of meal, he wholesome, firm, and strengthening: Vatapi, grow thou fat thereby.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Become porridge, O plant; become fat kidneys, causing vigor to rise!  
+O Vātāpi, become fat!
 </details>
 
 <details><summary>Geldner</summary>

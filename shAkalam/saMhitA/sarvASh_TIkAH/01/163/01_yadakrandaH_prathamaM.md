@@ -107,6 +107,18 @@ upastútyam ← upastútya- (nominal stem)
 श्ये॒नस्य॑ प॒क्षा ह॑रि॒णस्य॑ बा॒हू उप॑स्तुत॒ञ्जनि॑म॒ तत्ते॑ अर्वन् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+य᳓द् अ᳓क्रन्दः प्रथमं᳓ जा᳓यमान उद्य᳓न्त् समुद्रा᳓द् उत᳓ वा पु᳓रीषात्  
+श्येना᳓ ते पक्षा᳓ हरिणो᳓त᳓ बाहू᳓ उपस्तु᳓त्यं ज᳓निम त᳓त् ते अर्वन्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+यदक्रन्दः प्रथमं जायमान उद्यन्समुद्रादुत वा पुरीषात्।  
+श्येनस्य पक्षा हरिणस्य बाहू उपस्तुत्यं महि जातं ते अर्वन्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । अक्र॑न्दः । प्र॒थ॒मम् । जाय॑मानः । उ॒त्ऽयन् । स॒मु॒द्रात् । उ॒त । वा॒ । पुरी॑षात् ।  
@@ -128,6 +140,30 @@ upastútyam ← upastútya- (nominal stem)
 यत् । अक्र॑न्दः । प्र॒थ॒मम् । जाय॑मानः । उ॒द्यन्नित्यु॑त्-यन् । स॒मु॒द्रात् । उ॒त । वा॒ । पुरी॑षात् ॥ श्ये॒नस्य॑ । प॒क्षा । ह॒रि॒णस्य॑ । बा॒हू इति॑ । उप॑स्तुत॒मित्युप॑-स्तु॒त॒म् । जनि॑म । तत् । ते॒ । अ॒र्व॒न् ॥
 
 यत् । अक्र॑न्दः । प्र॒थ॒मम् । जाय॑मानः । उ॒द्यन्नित्यु॑त्-यन् । स॒मु॒द्रात् । उ॒त । वा॒ । पुरी॑षात् ॥ श्ये॒नस्य॑ । प॒क्षा । ह॒रि॒णस्य॑ । बा॒हू इति॑ । उ॒प॒स्तुत्य॒मित्यु॑प-स्तुत्य॑म् । महि॑ । जा॒तम् । ते॒ । अ॒र्व॒न् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- अ᳓क्रन्दः (*TS*-2, *RV*-1, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- प्रथम᳓म् (*TS*-35/95, *RV*-55/170, *TB*-14/41, *TK*-1/7, *AV*-23/109, *SB-M*-74/287, *SB-K*-69/272, *VS-M*-10/35, *VS-K*-10/36, *KS*-9/25)
+- जा᳓यमानः (*TS*-7/15, *RV*-27/44, *TB*-5/7, *AV*-7/17, *SB-M*-21/26, *SB-K*-18/24, *VS-M*-3, *VS-K*-3, *KS*-2/4)
+- उत्-य᳓न् (*TS*-5, *RV*-5, *TB*-3, *AV*-14, *SB-M*-3, *SB-K*-9, *KS*-2)
+- समुद्रा᳓त् (*TS*-3/51, *RV*-16/131, *TB*-0/22, *TK*-0/3, *AV*-8/66, *SB-M*-3/71, *SB-K*-3/74, *VS-M*-3/35, *VS-K*-3/33, *KS*-2/14)
+- उत᳓ (*TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-70, *KS*-55)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-35, *KS*-61)
+- पु᳓रीषात् (*TS*-2/28, *RV*-3/6, *TB*-0/3, *TK*-0/3, *SB-M*-1/103, *SB-K*-1/108, *VS-M*-1/7, *VS-K*-1/7, *KS*-0/5)
+- श्येना᳓ (*TS*-0/19, *RV*-1/53, *TB*-0/6, *TK*-0/1, *AV*-3/12, *SB-M*-0/16, *SB-K*-0/19, *VS-M*-0/9, *VS-K*-0/8, *KS*-1/8)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- पक्षा᳓ (*TS*-2/25, *RV*-4/9, *TB*-0/2, *TK*-1/10, *AV*-0/9, *SB-M*-1/60, *SB-K*-2/57, *VS-M*-1/3, *VS-K*-1/3, *KS*-1/2)
+- हरिणः᳓ (*TS*-1/3, *RV*-0/1, *AV*-1/4, *SB-M*-4, *SB-K*-4, *VS-M*-2/3, *VS-K*-2/3)
+- अत᳓ (*TS*-1, *TB*-2, *TK*-1, *SB-M*-8, *SB-K*-5, *KS*-1)
+- बाहू᳓ (*TS*-6/32, *RV*-20/40, *TB*-6/9, *AV*-14/30, *SB-M*-64/120, *SB-K*-67/122, *VS-M*-8/31, *VS-K*-5/31, *KS*-3/24)
+- उप-स्तु᳓त्यम् (*TS*-1, *RV*-2, *TB*-0/1, *VS-M*-1, *VS-K*-1)
+- ज᳓निम (*TS*-1/2, *RV*-16/26, *TB*-0/1, *AV*-6/10, *KS*-0/2)
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-78/624, *KS*-156/1225)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- अर्वन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-7, *RV*-6, *AV*-1, *SB-M*-1, *SB-K*-2, *VS-M*-6, *VS-K*-6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -346,6 +382,11 @@ _________
 यश्चा श्येनाख्यस्य पक्षिणः पक्षौ शीघ्रोत्पतनहेतुत्वात्सर्वैरुपस्तुत्यौ, यथा वा हरिणस्य मृगस्य बाहू पादौ शीघ्रगमनहेतुत्वादुपस्तुत्यौ तद्वदित्यर्थः।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[582_4]** So corr. Ch तपस्तुभ्यं; vgl. RV 1, 163, 1; in Kâṭh. selbst nur noch die Anfangsworte des Verses an zwei Stellen (40, 6; 5, 6, 3). (Thus emended; Ch reads तपस्तुभ्यं; cf. RV 1, 163, 1; in Kâṭh. itself only the opening words of the verse in two more passages (40, 6; 5, 6, 3).)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है।
@@ -423,6 +464,18 @@ When first thou didst cry on birth,
 Arising from the ocean or the dust,  
 The wings of the eagle, the limbs of the gazelle,  
 That is thy famed birth, O steed.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When first being born you neighed, rising from the ocean or from the rubble,  
+yours were the wings of an eagle and the forelegs of a gazelle; praiseworthy was that birth of yours, O courser!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+When first being born you neighed, rising up from the sea or from the moist earth,  
+with the wings of a falcon, the forelegs of an antelope, your great birth, O courser, is to be praised!
 </details>
 
 <details><summary>Geldner</summary>

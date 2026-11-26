@@ -113,6 +113,12 @@ ví ← ví (invariable)
 त्वमा त॑तन्थो॒र्व॒न्तरि॑क्षं॒ त्वं ज्योति॑षा॒ वि तमो॑ ववर्थ ॥१६॥ १६
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वमिमा ओषधीस्सोम विश्वास्त्वमपो अजनयस्त्वं गाः।  
+त्वमाततन्थोर्वन्तक्षिं त्वं ज्योतिषा वि तमो ववर्थ
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । इ॒माः । ओष॑धीः । सो॒म॒ । विश्वाः॑ । त्वम् । अ॒पः । अ॒ज॒न॒यः॒ । त्वम् । गाः ।  
@@ -127,6 +133,29 @@ ví ← ví (invariable)
 <details><summary>पदपाठः - काण्वः</summary>
 
 त्वम्। इ॒माः। ओष॑धीः। सो॒म॒। विश्वाः॑। त्वम्। अ॒पः। अ॒ज॒न॒यः॒। त्वम्। गाः। त्वम्। आ। त॒त॒न्थ॒। उ॒रु। अ॒न्तरि॑क्षम्। त्वम्। ज्योति॑षा। वि। तमः॑। ववर्थ॒। १६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- इमाः᳓ (*MS*-137/1379, *TS*-21/965, *RV*-60/1247, *TB*-8/567, *TK*-1/57, *AV*-50/1259, *SB-M*-201/5239, *SB-K*-253/5549, *VS-M*-13/319, *VS-K*-10/301)
+- ओ᳓षधीः (*MS*-45/137, *TS*-27/114, *RV*-50/89, *TB*-19/57, *TK*-2, *AV*-38/86, *SB-M*-54/93, *SB-K*-51/98, *VS-M*-22/44, *VS-K*-22/49)
+- सो᳓म (*MS*-7, *TS*-3/4, *RV*-22, *TB*-3/4, *TK*-1, *AV*-2, *SB-M*-7, *SB-K*-4, *VS-M*-3, *VS-K*-5)
+- वि᳓श्वाः (*MS*-28/301, *TS*-19/283, *RV*-102/1116, *TB*-13/125, *TK*-2/124, *AV*-31/353, *SB-M*-14/248, *SB-K*-13/219, *VS-M*-20/225, *VS-K*-25/224)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- अपो᳓ (*MS*-4, *TS*-7/8, *TB*-2, *SB-K*-1, *VS-K*-7)
+- अजनयः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- गाः᳓ (*MS*-19/149, *TS*-6/108, *RV*-99/521, *TB*-5/76, *AV*-23/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-3/67, *VS-K*-3/67)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- आ᳓-ततन्थ (*MS*-3)
+- ऊर्व᳓म् (*MS*-1/2, *TS*-1, *RV*-12/21, *AV*-1, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/2)
+- त᳓क्षिन् (अनाम्नातम् (अनुमानम्))
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- ज्यो᳓तिषा (*MS*-25/134, *TS*-27/199, *RV*-34/148, *TB*-4/70, *TK*-1/5, *AV*-13/66, *SB-M*-25/173, *SB-K*-24/174, *VS-M*-16/72, *VS-K*-12/80)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- त᳓मः (*Whitney*, *MS*-28/52, *TS*-22/33, *RV*-43/113, *TB*-4/13, *AV*-23/52, *SB-M*-55/82, *SB-K*-54/82, *VS-M*-10/22, *VS-K*-8/22)
+- वव᳓र्थ (*Whitney*, *RV*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -377,6 +406,11 @@ ___________________
 यद् वा स्तोमं सामयुक्तम् अन्नं हविर् आहरध्वम् इति ॥११॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[195_12]** So corr. nach RV 1, 91, 22. Mss. अजयस्त्वं (Thus emended after RV 1, 91, 22. Mss. read अजयस्त्वं)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर उसी विषय को अगले मन्त्र में कहा है ॥
@@ -428,6 +462,12 @@ You, Soma, begot all these plants here; you the waters, you the cows. You have s
 
 These herbs, these milch-kine, and these running waters, all these, O Soma, thou hast generated.  
      The spacious firmament hast thou expanded, and with the light thou hast dispelled the darkness.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thou, O Soma, hast generated all these plants, thou the waters, thou the cows;  
+thou hast spread out the wide atmosphere, thou hast uncovered the darkness with light.
 </details>
 
 <details><summary>Geldner</summary>

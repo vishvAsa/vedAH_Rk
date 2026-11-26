@@ -98,10 +98,38 @@ ví ← ví (invariable)
 ताव॒स्मभ्यं॑ पुरु॒वारं॑ पुरु॒क्षुं रा॒यस्पोषं॒ वि ष्य॑तां॒ नाभि॑म॒स्मे ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+दिव्य् अ᳙न्यः᳓ स᳓दनं चक्र᳓ उच्चा᳓ पृथिव्या᳓म् अन्यो᳓ अ᳓ध्य् अन्त᳓रिक्षे  
+ता᳓ अस्म᳓भ्यं पुरुवा᳓रं पुरुक्षुँ᳓ राय᳓स् पो᳓षँ वि᳓ष्यतां ना᳓भिम् अस्मे᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 दि॒वि । अ॒न्यः । सद॑नम् । च॒क्रे । उ॒च्चा । पृ॒थि॒व्याम् । अ॒न्यः । अधि॑ । अ॒न्तरि॑क्षे ।  
 तौ । अ॒स्मभ्य॑म् । पु॒रु॒ऽवार॑म् । पु॒रु॒ऽक्षुम् । रा॒यः । पोष॑म् । वि । स्य॒ता॒म् । नाभि॑म् । अ॒स्मे इति॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- दिवि᳓ (*TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-23/172, *KS*-21/128)
+- अन्यः᳓ (*TS*-28/165, *RV*-58/176, *TB*-24/92, *TK*-0/2, *AV*-33/108, *SB-M*-99/332, *SB-K*-98/340, *VS-M*-8/32, *VS-K*-8/33, *KS*-4/31)
+- स᳓दनम् (*TS*-7/17, *RV*-11/62, *TB*-2/7, *AV*-6/19, *SB-M*-3/13, *SB-K*-3/13, *VS-M*-2/9, *VS-K*-2/9, *KS*-3/6)
+- चक्रे᳓ (*TS*-3/5, *RV*-15/53, *TB*-1/3, *AV*-12/22, *SB-M*-19/23, *SB-K*-38/43, *VS-M*-1, *VS-K*-1, *KS*-2/3)
+- उच्चा᳓ (*TS*-1, *RV*-12, *TB*-1, *AV*-1, *VS-M*-1, *KS*-1)
+- पृथिव्या᳓म् (*TS*-30/116, *RV*-31/139, *TB*-16/48, *TK*-6/7, *AV*-40/92, *SB-M*-64/152, *SB-K*-62/160, *VS-M*-30/91, *VS-K*-25/84, *KS*-14/50)
+- अन्यः᳓ (*TS*-28/165, *RV*-58/176, *TB*-24/92, *TK*-0/2, *AV*-33/108, *SB-M*-99/332, *SB-K*-98/340, *VS-M*-8/32, *VS-K*-8/33, *KS*-4/31)
+- अ᳓धि (*TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-56, *VS-K*-51, *KS*-47)
+- अन्त᳓रिक्षे (*TS*-28/180, *RV*-23/94, *TB*-9/54, *TK*-2/10, *AV*-28/143, *SB-M*-37/263, *SB-K*-37/257, *VS-M*-17/76, *VS-K*-15/64, *KS*-10/57)
+- ताः᳓ (*TS*-136/4763, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/768, *VS-K*-16/624, *KS*-61/1225)
+- अस्म᳓-भ्यम् (*TS*-21/565, *RV*-119/1308, *TB*-12/270, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/728, *VS-M*-15/314, *VS-K*-20/265, *KS*-13/242)
+- पुरु-वा᳓रम् (*RV*-3/10, *TB*-1, *KS*-0/1)
+- पुरु-क्षु᳓म् (*TS*-0/2, *RV*-7/16, *TB*-1, *AV*-0/3, *VS-M*-0/1, *VS-K*-0/1)
+- रायः᳓ (*TS*-50/80, *RV*-129/262, *TB*-3/13, *TK*-0/1, *AV*-29/37, *SB-M*-3/24, *SB-K*-3/26, *VS-M*-29/53, *VS-K*-34/63, *KS*-5/23)
+- पो᳓षम् (*TS*-17/59, *RV*-17/20, *TB*-1/5, *AV*-16/32, *SB-M*-2/13, *SB-K*-1/12, *VS-M*-13/39, *VS-K*-14/35, *KS*-1)
+- वि᳓-स्यताम् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, दिवादिभ्यः श्यन् पा॰ ३.१.६९, पा॰ ६.१.१९७)
+- ना᳓भिम् (*TS*-9/27, *RV*-11/35, *TB*-3/20, *TK*-0/1, *AV*-6/24, *SB-M*-12/53, *SB-K*-9/46, *VS-M*-7/26, *VS-K*-7/27, *KS*-6/9)
+- अस्मे᳓ (*TS*-31/565, *RV*-211/1308, *TB*-17/270, *TK*-0/66, *AV*-14/1252, *SB-M*-19/723, *SB-K*-17/728, *VS-M*-27/314, *VS-K*-31/265, *KS*-25/242)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -277,6 +305,12 @@ The standard assumption (Geldner [/Witzel Gotō], Renou) is that pāda a refers 
 
 One in the heaven on high hath made his dwelling, on earth and in the firmament the other.  
      May they disclose to us great store of treasure, much-longed for, rich in food, source of enjoyment.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The one has made his seat high in heaven, the other on earth [and] over the atmosphere;  
+may they two loosen for us that navel possessing much choice [goods], rich in food, the increase of wealth.
 </details>
 
 <details><summary>Geldner</summary>

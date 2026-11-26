@@ -175,6 +175,12 @@ So wealth in thousands, food with store of heroes give thou to the sage,
      O Agni, to the worshipper.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+So do you, to the inspired singer who offers, give wealth of a thousandfold,  
+O Agni, [and] nourishment rich in heroes.
+</details>
+
 <details><summary>Geldner</summary>
 
 Gib du nun dem redekundigen Opfernden tausendfältigen Reichtum, Agni, das Labsal vieler Söhne.

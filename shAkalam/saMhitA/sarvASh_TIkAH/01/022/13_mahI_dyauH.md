@@ -90,6 +90,12 @@ pipr̥tā́m ← √pr̥- (root)
 पि॒पृ॒तान्नो॒ भरी॑मभिः  ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+मही᳓ द्यौः᳓ पृथिवी᳓ च न इमँ᳓ यज्ञं᳓ मिमिक्षताम्  
+पिपृतां᳓ नो भ᳓रीमभिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 म॒ही । द्यौः । पृ॒थि॒वी । च॒ । नः॒ । इ॒मम् । य॒ज्ञम् । मि॒मि॒क्ष॒ता॒म् ।  
@@ -109,6 +115,21 @@ pipr̥tā́m ← √pr̥- (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 म॒ही । द्यौः । पृ॒थि॒वी । च॒ । नः॒ । इ॒मम् । य॒ज्ञम् । मि॒मि॒क्ष॒ता॒म्॒ ॥ पि॒पृ॒ताम् । नः॒ । भरी॑मभि॒रिति॒ भरी॑म-भिः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- मही᳓ (*TS*-10/24, *RV*-64/131, *TB*-2/8, *TK*-1, *AV*-28/47, *SB-M*-6/19, *SB-K*-6/19, *VS-M*-9/26, *VS-K*-9/27, *KS*-3/10)
+- द्यौः᳓ (*TS*-37/270, *RV*-102/854, *TB*-25/119, *TK*-1/15, *AV*-62/340, *SB-M*-112/353, *SB-K*-107/342, *VS-M*-32/167, *VS-K*-28/172, *KS*-23/128)
+- पृथिवी᳓ (*TS*-43/106, *RV*-89/156, *TB*-25/52, *TK*-1/6, *AV*-77/155, *SB-M*-96/156, *SB-K*-54/126, *VS-M*-20/53, *VS-K*-21/54, *KS*-20/35)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- इम᳓म् (*TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/313, *VS-K*-51/289, *KS*-38/319)
+- यज्ञ᳓म् (*TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-81/179, *KS*-53/171)
+- मिमिक्षताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- पिपृता᳓म् (*TS*-3, *RV*-1/2, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2/3, *KS*-0/1)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- भ᳓रीमभिः (*TS*-3, *RV*-2, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -284,6 +305,11 @@ _________
 अन्यत्राऽऽम्रातमिदं विष्णुरिति मन्त्रमुलूखलोदधाने विनियुङ्क्ते— “वैष्णव्यर्चोप दधाति विष्णुर्वै यज्ञो वैष्णवा वनस्पतयो यज्ञ एव यज्ञं प्रतिष्ठापयति” [सं. का. ५ प्र. २ अ. ८] इति।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[586_13]** Vgl. RV 1, 22, 13; MS 2, 7, 16. (Cf. RV 1, 22, 13; MS 2, 7, 16)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (सं, मा.) - विषयः</summary>
 
 मातापितृभ्यां स्वसन्तानाः कथं शिक्ष्या इत्याह ॥
@@ -379,6 +405,23 @@ May Heaven and Earth, the Mighty Pair, bedew for us our sacrifice,
 May the great ones, sky and earth,  
 Mingle for us this sacrifice,  
 May they sustain us with support.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+We seek the resolve, the greatness of the gods,
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+May the great heaven and earth mix this sacrifice of ours;  
+may they nourish us with fillings!
+
+May great heaven and earth mix this sacrifice for us;  
+may they fill us with fosterings.
+
+May great heaven and earth sprinkle this sacrifice of ours;  
+may they fill us with nourishments!
 </details>
 
 <details><summary>Geldner</summary>

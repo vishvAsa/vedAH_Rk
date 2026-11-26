@@ -368,6 +368,18 @@ O lord of prayer,
 Even as (thou did make famous) Kaksivant Auśija.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Make, O Brahmaṇaspati, the Soma-presser famed,  
+[like] Kakṣīvant, who is the son of Uśij.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Make the presser of Soma brilliant, O Brahmaṇaspati,  
+[as you did] Kakṣīvant, who is Auśija.
+</details>
+
 <details><summary>Geldner</summary>
 
 Mach, Brahmanaspati, den Somapressenden, Lautsingenden zu einem zweiten Kaksivat, der der Sohn der Usij.

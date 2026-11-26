@@ -194,6 +194,12 @@ We make this Indra very strong to strike the mighty Vrtra dead:
      A vigorous Hero shall he be.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That Indra we urge on to win prizes, to slay the great Vṛtra;  
+may he become a vigorous bull.
+</details>
+
 <details><summary>Geldner</summary>
 
 Diesen Indra eifern wir an, den großen Vritra zu töten. Er sei der riesige Bulle.

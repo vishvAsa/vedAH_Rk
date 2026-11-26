@@ -79,10 +79,31 @@ suvr̥ktím ← suvr̥ktí- (nominal stem)
 मर्त॑ आनाश सुवृ॒क्तिम् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+क्रत्वा दा अस्तु श्रेष्ठो ऽद्य त्वा वर्धन्सुरेक्णाः।  
+मर्त आनाश सुवृक्तिम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 क्रत्वा॑ । दाः । अ॒स्तु॒ । श्रेष्ठः॑ । अ॒द्य । त्वा॒ । व॒न्वन् । सु॒ऽरेक्णाः॑ ।  
 मर्तः॑ । आ॒ना॒श॒ । सु॒ऽवृ॒क्तिम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- क्र᳓त्वा (*MS*-1, *TS*-2, *RV*-62, *TB*-1, *AV*-4, *VS-M*-2, *VS-K*-2)
+- दाः᳓ (*MS*-6, *TS*-3, *RV*-7, *AV*-1, *SB-M*-7, *SB-K*-6, *VS-K*-1)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-111, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-60, *VS-K*-39)
+- श्रे᳓ष्ठः (*MS*-5/9, *TS*-7/9, *RV*-7/31, *TB*-4/8, *AV*-0/8, *SB-M*-28/41, *SB-K*-31/42, *VS-M*-1/2, *VS-K*-1/2)
+- अद्य᳓ (*MS*-65, *TS*-44, *RV*-215, *TB*-30, *TK*-2, *AV*-66, *SB-M*-42, *SB-K*-48, *VS-M*-59, *VS-K*-54)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- वर्धन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-1)
+- सु-रे᳓क्णाः (*RV*-1)
+- म᳓र्तः (*MS*-6/7, *TS*-7/9, *RV*-34/136, *TB*-3, *AV*-3/11, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-2/6)
+- आनाश (*RV*-1)
+- सु-वृक्ति᳓म् (*MS*-0/2, *TS*-1/2, *RV*-20/49, *TB*-0/2, *AV*-0/4, *VS-M*-0/1, *VS-K*-0/1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -171,6 +192,11 @@ _________
 हे अग्ने।  अद्यास्मिन्कर्मणि त्वां **वन्वन्** याचमानः **सुरेक्णाः** शोभनधनो मर्तो मनुष्यः **सुवृक्तिं** सुष्ठु दारिद्र्यवर्जनं आनाश आनक्षे व्याप्नोति ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[412_13]** So Ch; RV 6, 16, 26 वन्व᳓न्त्सुº (Thus Ch; RV 6, 16, 26 reads वन्व᳓न्त्सुº)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -198,6 +224,12 @@ krátvā as “Mit dem Gedanken,” and takes the interior pādas bc as the dire
 
 Rich through his wisdom, noblest be the giver serving thee to-day:  
      The man hath brought his hymn of praise.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the giver be best in wisdom today; may those rich in possessions increase thee;  
+the mortal has attained praise.
 </details>
 
 <details><summary>Geldner</summary>

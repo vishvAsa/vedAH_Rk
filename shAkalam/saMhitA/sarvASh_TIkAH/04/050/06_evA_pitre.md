@@ -219,6 +219,11 @@ _________
 एवमेव । लुगपवादस्सोर्डादेशः । पित्रे पात्रे रक्षित्रे विश्वदेवाय विश्वे देवा अस्य सन्तीति विश्वेपि देवा अस्याज्ञां कुर्वन्तीति । 'बहुव्रीहौ विश्वं संज्ञायाम्' इति विश्वशब्दस्यान्तोदात्तत्वम् । वृष्णे वर्षित्रे । 'क्रियाग्रहणं कर्तव्यम्' इति कर्मणस्सम्प्रदानत्वाच्चतुर्थी । इमं देवं यज्ञैर्विधेम परिचरेम । विध विधाने, तौदादिकः । नमसा नमस्कारेण हविर्भिश्च चर्वादिभिः हे बृहस्पते । किमर्थमिति चेत् ' सुप्रजाः शोभनपुत्रपौत्राः वीरवन्तोन्यैश्च शूरैश्च तद्वन्तः रयीणां धनानां च पतयस्स्याम भवेमेत्येवमर्थं परिचरेम । 'नामन्यतरस्याम्' इति नाम उदात्तत्वम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[259_3]** Ch विश्वे देवाय
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -241,7 +246,10 @@ O Br̥haspati, may we, possessed of good offspring and of heroes, be  lords of r
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md">
 <details><summary><h2>01-06 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 As indicated in the published introduction, this section concerns the unitary figure (Indra-)Bṛhaspati, here insistently identified as Bṛhaspati: there are 7 occurrences of the name in 6 vss., one in each save for two in vs. 2.
+</details>
 
 </details>
 </div>
@@ -256,6 +264,12 @@ May we be lords of wealth.
 
 Serve we with sacrifices, gifts, and homage even thus the Steer of all the Gods, the Father.  
      Brhaspati, may we be lords of riches, with noble progeny and store of heroes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thus to the father, the god of all, the bull, let us pay homage with sacrifices, with worship, with oblations.  
+O Bṛhaspati, rich in good offspring and heroic men, may we be masters of wealth.
 </details>
 
 <details><summary>Macdonell</summary>

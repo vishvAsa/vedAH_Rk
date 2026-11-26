@@ -77,10 +77,48 @@ várṣiṣṭham ← várṣiṣṭha- (nominal stem)
 द्यु॒मद॑ग्ने सु॒वीर्यं॒ वर्षि॑ष्ठ॒मनु॑पक्षितम् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+नू᳓ नो रास्व सह᳓स्रवत् तोक᳓वत् पुष्टिम᳓द् व᳓सु  
+द्युम᳓द् अग्ने सुवी᳓र्यँ व᳓र्षिष्ठम् अ᳓नुपक्षितम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 नु । नः॒ । रा॒स्व॒ । स॒हस्र॑ऽवत् । तो॒कऽव॑त् । पु॒ष्टि॒ऽमत् । वसु॑ ।  
 द्यु॒ऽमत् । अ॒ग्ने॒ । सु॒ऽवीर्य॑म् । वर्षि॑ष्ठम् । अनु॑पऽक्षितम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- नू᳓ (*TS*-1, *SB-M*-2, *SB-K*-2, *KS*-4)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- रास्व (*TS*-5, *RV*-8, *TB*-1, *AV*-3, *KS*-2)
+- सह᳓स्रवत् (*RV*-3, *SB-M*-1, *SB-K*-1, *KS*-1)
+- तोक᳓वत् (*RV*-1, *SB-M*-1, *SB-K*-1, *KS*-1)
+- पुष्टिम᳓त् (*TS*-0/1, *RV*-2, *AV*-1, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/1, *KS*-1)
+- व᳓सु (*TS*-14/143, *RV*-99/311, *TB*-19/59, *TK*-0/2, *AV*-27/90, *SB-M*-15/113, *SB-K*-14/111, *VS-M*-16/76, *VS-K*-13/95, *KS*-8/41)
+- द्युम᳓त् (*TS*-6/9, *RV*-16/32, *TB*-2, *AV*-3/5, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-3/4)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- सु-वी᳓र्यम् (*TS*-14/19, *RV*-57/75, *TB*-6/8, *AV*-4/7, *SB-M*-8/9, *SB-K*-7/9, *VS-M*-3/4, *VS-K*-1/2, *KS*-4/8)
+- व᳓र्षिष्ठम् (*TS*-5/11, *RV*-7/18, *TB*-4/7, *AV*-2/3, *SB-M*-5/23, *SB-K*-7/25, *VS-M*-0/7, *VS-K*-0/3, *KS*-2/8)
+- अ᳓नुप-क्षितम् (*RV*-2, *AV*-0/1, *SB-M*-1, *SB-K*-1, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- नू᳓ (*MS*-3, *TS*-1, *SB-M*-2, *SB-K*-2)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- रास्व (*MS*-4, *TS*-5, *RV*-8, *TB*-1, *AV*-3)
+- सह᳓स्रवत् (*MS*-1, *RV*-3, *SB-M*-1, *SB-K*-1)
+- तोक᳓वत् (*MS*-1, *RV*-1, *SB-M*-1, *SB-K*-1)
+- पुष्टिम᳓त् (*MS*-1/2, *TS*-0/1, *RV*-2, *AV*-1, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/1)
+- व᳓सु (*MS*-25/140, *TS*-14/143, *RV*-99/311, *TB*-19/59, *TK*-0/2, *AV*-27/90, *SB-M*-15/113, *SB-K*-14/111, *VS-M*-16/77, *VS-K*-15/100)
+- द्युम᳓त् (*MS*-4/7, *TS*-6/9, *RV*-16/32, *TB*-2, *AV*-3/5, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- सु-वी᳓र्यम् (*MS*-12/14, *TS*-14/19, *RV*-57/75, *TB*-6/8, *AV*-4/7, *SB-M*-8/9, *SB-K*-7/9, *VS-M*-3/4, *VS-K*-0/2)
+- व᳓र्षिष्ठम् (*MS*-4/13, *TS*-5/11, *RV*-7/18, *TB*-4/7, *AV*-2/3, *SB-M*-5/23, *SB-K*-7/25, *VS-M*-0/7, *VS-K*-0/3)
+- अ᳓नुप-क्षितम् (*MS*-1, *RV*-2, *AV*-0/1, *SB-M*-1, *SB-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -211,6 +249,19 @@ and that brings a brilliant abundance of heroes, o Agni, that is highest  and ne
 
 Yea, grant us treasure thousandfold with children and with nourishment,  
      And, Agni, splendid hero strength, exalted, wasting not away.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Now give us, possessed of thousands, rich in offspring, full of nourishment,  
+bright, O Agni, of goodly heroes, highest, unexhausted wealth.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Now grant us wealth consisting of thousands, accompanied by offspring, full of nourishment,  
+bright, O Agni, rich in heroes, most exalted, unfailing!  
+You of most wondrous fame —
 </details>
 
 <details><summary>Oldenberg</summary>

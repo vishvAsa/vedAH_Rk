@@ -285,6 +285,11 @@ ________________
 युष्माकं शिवतमो रसः तमस्मान् सेवयत । इहास्मिन्कर्मणि कामयमानाः स्नेहवत्यो मातर इव ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[519_11]** Dieser und der folgende Vers fehlen in W1ß ganz; cf. RV 10,9, 2 and 3. (This and the following verse are completely missing in W1ß; cf. RV 10,9, 2 and 3.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
 
 पदार्थान्वयभाषाः -  हे श्रेष्ठ स्त्रियो ! (यः) जो (वः) तुम्हारा (शिवतमः) अतिशय कल्याणकारी (रसः) आनन्दवर्द्धक स्नेहरूप रस है (तस्य) उसका (इह) इस जगत् में (नः) हमको (उशतीरिव, मातरः) पुत्रों की कामना करनेवाली माताओं के तुल्य (भाजयत) सेवा कराओ ॥१५ ॥
@@ -372,6 +377,18 @@ Like eager mothers.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Give us a portion, etc., as in XI. 51.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever is your most auspicious essence, share it with us here,  
+like loving mothers.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Whatever most auspicious sap is yours, make us partake of it here,  
+like loving mothers!
 </details>
 
 <details><summary>Geldner</summary>

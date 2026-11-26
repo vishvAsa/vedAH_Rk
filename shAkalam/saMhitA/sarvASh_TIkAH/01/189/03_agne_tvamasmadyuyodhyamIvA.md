@@ -100,6 +100,12 @@ yajatra ← yájatra- (nominal stem)
 क्षाव्ँ विश्वे॑भिर॒जरे॑भिर्यजत्र ॥ 10 ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ग्ने त्व᳓म् अस्म᳓द् युयोध्य् अ᳓मीवा अ᳓नग्नित्रा अभ्य᳓मन्त कृष्टीः᳓  
+पु᳓नर् अस्म᳓भ्यँ सुविता᳓य देव क्षाँ᳓ वि᳓श्वेभिर् अमृ᳓तेभिर् यजत्र
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । त्वम् । अ॒स्मत् । यु॒यो॒धि॒ । अमी॑वाः । अन॑ग्निऽत्राः । अ॒भि । अम॑न्त । कृ॒ष्टीः ।  
@@ -109,6 +115,27 @@ yajatra ← yájatra- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अ᳓ग्ने । त्व᳓म् । अस्म᳓त् । युयोधि᳓ । अ᳓मीवाः । अ᳓नग्नि-त्राः । अभि᳓ । अमन्त । कृष्टीः᳓ । पु᳓नः । अस्म᳓-भ्यम् । सु-विता᳓य । देव । क्षा᳓म् । वि᳓श्वेभिः । अज᳓रेभिः । यजत्र ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- अस्म᳓त् (*TS*-31/565, *RV*-75/1308, *TB*-6/270, *TK*-0/66, *AV*-57/1252, *SB-M*-18/723, *SB-K*-16/728, *VS-M*-19/314, *VS-K*-19/265, *KS*-11/242)
+- युयोधि᳓ (*TS*-3, *RV*-3, *TB*-2, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-4, *KS*-2)
+- अ᳓मीवाः (*TS*-2, *RV*-8, *TB*-2/3, *AV*-4, *SB-M*-3, *SB-K*-5, *VS-M*-4, *VS-K*-2)
+- अ᳓नग्नि-त्राः (*RV*-1, *TB*-1)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-96, *VS-K*-106, *KS*-76)
+- अ᳓मन्त (*RV*-1)
+- कृष्टीः᳓ (*TS*-2/4, *RV*-16/54, *TB*-3/4, *AV*-3/8, *KS*-2/5)
+- पु᳓नः (*TS*-111, *RV*-93, *TB*-51, *TK*-4, *AV*-119, *SB-M*-313, *SB-K*-285, *VS-M*-32, *VS-K*-29, *KS*-26)
+- अस्म᳓-भ्यम् (*TS*-21/565, *RV*-119/1308, *TB*-12/270, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/728, *VS-M*-15/314, *VS-K*-20/265, *KS*-13/242)
+- सु-विता᳓य (*TS*-2/5, *RV*-34/49, *TB*-2, *AV*-1, *SB-M*-1, *SB-K*-1/3, *VS-M*-5/6, *VS-K*-5/7, *KS*-1/2)
+- देव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-57, *RV*-123, *TB*-28, *TK*-2, *AV*-24, *SB-M*-47, *SB-K*-34, *VS-M*-45, *VS-K*-36, *KS*-26)
+- क्षा᳓म् (*RV*-17/27, *TB*-1, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-K*-0/1, *KS*-1/3)
+- वि᳓श्वेभिः (*TS*-4/283, *RV*-29/1116, *TB*-2/125, *TK*-0/124, *AV*-7/353, *SB-M*-0/248, *SB-K*-0/219, *VS-M*-4/214, *VS-K*-5/214, *KS*-1/118)
+- अमृ᳓तेभिः (*TS*-0/65, *RV*-2/187, *TB*-0/49, *TK*-0/39, *AV*-0/97, *SB-M*-0/332, *SB-K*-0/312, *VS-M*-0/64, *VS-K*-0/59, *KS*-0/30)
+- यजत्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-3, *RV*-10, *TB*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1, *KS*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -276,6 +303,12 @@ should signal the lack of verb by a device like “Renou(new) …” or “(Make
 
 Far from us, Agni, put thou all diseases let them strike lauds that have no saving Agni.  
      God, make our home again to be a blessing, with all the Immortal Deities, O Holy.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, ward off sickness from us; godless peoples have assailed [us].  
+Again, for well-being to us, O god, [make] the earth [safe], along with all the immortals, O adorable one!
 </details>
 
 <details><summary>Oldenberg</summary>

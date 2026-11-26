@@ -99,6 +99,12 @@ yuktágrāvā ← yuktágrāvan- (nominal stem)
 यु॒क्तग्रा॑वा॒ जाय॑ते दे॒वका॑मः ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त᳓न् नस् तुरी᳓पम् अ᳓ध पोषयित्नु᳓ दे᳓व त्वष्टर् वि᳓ रराणः᳓ स्यस्व  
+य᳓तो वीरः᳓ कर्मण्यः᳙ सुद᳓क्षो युक्त᳓ग्रावा जा᳓यते देव᳓कामः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तत् । नः॒ । तु॒रीप॑म् । अध॑ । पो॒ष॒यि॒त्नु । देव॑ । त्व॒ष्टः॒ । वि । र॒रा॒णः । स्य॒स्वेति॑ स्यस्व ।  
@@ -108,6 +114,27 @@ yuktágrāvā ← yuktágrāvan- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 तत् । नः॒ । तु॒रीप॑म् । अध॑ । पो॒ष॒यि॒त्नु । देव॑ । त्व॒ष्टः॒ । वीति॑ । र॒रा॒णः । स्य॒स्व॒ ॥ यतः॑ । वी॒रः । क॒र्म॒ण्यः॑ । सु॒दक्ष॒ इति॑ सु-दक्षः॑ । यु॒क्तग्रा॒वेति॑ यु॒क्त-ग्रा॒वा॒ । जाय॑ते । दे॒वका॑म॒ इति॑ दे॒व-का॒मः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-78/624, *KS*-156/1225)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- तुरी᳓पम् (*TS*-2/3, *RV*-3, *TB*-2/4, *SB-K*-0/1, *VS-M*-1/3, *VS-K*-1/3)
+- अ᳓ध (*TS*-8/10, *RV*-195, *TB*-4/5, *TK*-1, *AV*-39, *SB-M*-3/7, *SB-K*-4/9, *VS-M*-11, *VS-K*-10/14, *KS*-6/7)
+- पोषयित्नु᳓ (*TS*-2, *RV*-3)
+- दे᳓व (*TS*-14/18, *RV*-12/13, *TB*-1, *TK*-2, *AV*-6/7, *SB-M*-9, *SB-K*-11, *VS-M*-8, *VS-K*-10/11, *KS*-2)
+- त्वष्टः (*TS*-6, *RV*-4, *AV*-3, *SB-M*-1, *VS-M*-1, *VS-K*-1)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- रराणः᳓ (*TS*-1, *RV*-2)
+- स्यस्व (*TS*-1, *RV*-3)
+- य᳓तः (*TS*-16, *RV*-28, *TB*-7, *AV*-22, *SB-M*-43, *SB-K*-45, *VS-M*-12, *VS-K*-10, *KS*-9)
+- वीरः᳓ (*TS*-6/20, *RV*-27/119, *TB*-9/25, *AV*-10/66, *SB-M*-11/28, *SB-K*-12/32, *VS-M*-2/19, *VS-K*-1/16, *KS*-2/9)
+- कर्मण्यः᳙ (*TS*-3, *RV*-2, *TB*-1)
+- सु-द᳓क्षः (*TS*-4/6, *RV*-8/16, *TB*-1, *AV*-0/1, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- युक्त᳓-ग्रावा (*TS*-4, *RV*-3/4, *AV*-1/2)
+- जा᳓यते (*TS*-5, *RV*-10, *TB*-4/5, *AV*-4/5, *SB-M*-54, *SB-K*-64, *KS*-1)
+- देव᳓-कामः (*TS*-2/3, *RV*-6, *AV*-3, *VS-M*-0/1, *VS-K*-0/1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -285,6 +312,12 @@ That procreant strength for us do thou,
 O God Tvastr, graciously let loose,  
 Whence is born a hero [1] of great deeds, of skill,  
 Who wieldeth the pressing-stone and loveth the gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Grant us that semen, then, O god Tvaṣṭṛ, nourishing, being gracious,  
+from which a hero is born, skillful, very capable, operating the pressing-stones, god-loving!
 </details>
 
 <details><summary>Oldenberg</summary>

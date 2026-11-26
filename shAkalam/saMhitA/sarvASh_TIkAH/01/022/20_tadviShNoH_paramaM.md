@@ -89,6 +89,12 @@ iva ← iva (invariable)
 दि॒वीव॒ चक्षु॒रात॑तम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त᳓द् वि᳓ष्णोः परमं᳓ पदँ᳓ श᳓च्या पश्यन्ति सूर᳓यः  
+दिवी᳙व च᳓क्षुर् आ᳓ततम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तत् । विष्णोः॑ । प॒र॒मम् । प॒दम् । सदा॑ । प॒श्य॒न्ति॒ । सू॒रयः॑ ।  
@@ -108,6 +114,21 @@ iva ← iva (invariable)
 <details><summary>पदपाठः - काण्वः</summary>
 
 सत्। विष्णोः॑। प॒र॒मम्। प॒दम्। सदा॑। प॒श्य॒न्ति॒। सू॒रयः॑। दि॒वी᳙वेति॑ दिविऽइ॑व। चक्षुः॑। आत॑त॒मित्यात॑तम्। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त᳓त् (*TS*-687/4763, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-111/768, *VS-K*-78/624, *KS*-156/1225)
+- वि᳓ष्णोः (*TS*-45/151, *RV*-18/79, *TB*-4/53, *AV*-19/45, *SB-M*-33/165, *SB-K*-31/162, *VS-M*-22/59, *VS-K*-11/62, *KS*-14/43)
+- परम᳓म् (*TS*-12/45, *RV*-17/74, *TB*-6/27, *TK*-1/2, *AV*-14/53, *SB-M*-40/89, *SB-K*-38/91, *VS-M*-10/26, *VS-K*-9/27, *KS*-3/16)
+- पद᳓म् (*TS*-15/39, *RV*-46/95, *TB*-4/14, *TK*-3, *AV*-16/29, *SB-M*-29/63, *SB-K*-27/61, *VS-M*-6/17, *VS-K*-6/13, *KS*-12/17)
+- श᳓च्या (*TS*-0/3, *RV*-14/54, *TB*-1/10, *AV*-4/16, *SB-M*-1/6, *SB-K*-1/6, *VS-M*-1/9, *VS-K*-1/13, *KS*-3/4)
+- पश्यन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-7, *RV*-10, *AV*-6, *SB-M*-15, *SB-K*-15, *VS-K*-2, *KS*-2)
+- सूर᳓यः (*TS*-2/8, *RV*-35/111, *TB*-0/3, *AV*-3/17, *SB-M*-2/5, *SB-K*-1/3, *VS-M*-3/7, *VS-K*-2/8, *KS*-1/7)
+- दिवि᳓ (*TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-23/172, *KS*-21/128)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- च᳓क्षुः (*TS*-63/115, *RV*-37/44, *TB*-25/37, *TK*-3/4, *AV*-52/86, *SB-M*-120/210, *SB-K*-113/191, *VS-M*-29/45, *VS-K*-27/55, *KS*-21/27)
+- आ᳓-ततम् (*TS*-2/3, *RV*-2/6, *AV*-3/5, *SB-M*-2/4, *SB-K*-1/4, *VS-M*-1, *VS-K*-1, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -349,6 +370,12 @@ That highest step of Visnu
 The singers ever gaze upon
   
 Like an eye stretched in the sky.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That highest step of Viṣṇu the patrons ever see by their power,  
+like an eye stretched across heaven.
 </details>
 
 <details><summary>Geldner</summary>

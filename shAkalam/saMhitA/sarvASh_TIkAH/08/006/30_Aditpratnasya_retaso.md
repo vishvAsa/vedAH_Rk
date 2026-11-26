@@ -72,10 +72,30 @@ yát ← yá- (pronoun)
 प॒रो यदि॒ध्यते॑ दि॒वा ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓दि᳓त्प्रत्न᳓स्य रे᳓तसो ज्यो᳓तिष्पश्यन्ति वासर᳓म्।  
+परो᳓ य᳓दिध्य᳓ते दिवा᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आत् । इत् । प्र॒त्नस्य॑ । रेत॑सः । ज्योतिः॑ । प॒श्य॒न्ति॒ । वा॒स॒रम् ।  
 प॒रः । यत् । इ॒ध्यते॑ । दि॒वा ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓दि᳓त् → **आ᳓दित्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८)
+- प्रत्न᳓स्य (*MS*-0/11, *TS*-0/8, *RV*-7/50, *TB*-0/1, *AV*-2/9, *SB-M*-0/5, *SB-K*-0/2, *VS-M*-0/4, *VS-K*-0/4)
+- रे᳓तसः (*MS*-5/86, *TS*-5/78, *RV*-4/34, *TB*-1/66, *TK*-0/2, *AV*-1/26, *SB-M*-19/353, *SB-K*-18/371, *VS-M*-0/15, *VS-K*-0/14)
+- ज्यो᳓तिः (*MS*-92/134, *TS*-117/199, *RV*-99/148, *TB*-58/70, *TK*-3/5, *AV*-43/66, *SB-M*-131/173, *SB-K*-134/174, *VS-M*-50/72, *VS-K*-40/80)
+- पश्यन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-7, *RV*-10, *AV*-6, *SB-M*-15, *SB-K*-15, *VS-K*-2)
+- वासर᳓म् (*RV*-1/2)
+- परः᳓ (*MS*-17, *TS*-10, *RV*-44, *TB*-3, *AV*-28, *SB-M*-69, *SB-K*-40, *VS-M*-7, *VS-K*-4)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- इध्य᳓ते (*RV*-1, *SB-M*-6, *SB-K*-5)
+- दिवा᳓ (*MS*-5, *TS*-5, *RV*-10, *TK*-1, *AV*-6, *SB-M*-5, *SB-K*-5, *VS-M*-5, *VS-K*-9)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -183,6 +203,12 @@ Just after that they see the dawning light of the age-old semen, when it is kind
 
 Then, verify, they see the light refulgent of primeval seed,  
      Kindled on yonder side of heaven.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thereupon they behold the morning light of the ancient seed,  
+which is kindled beyond the sky.
 </details>
 
 <details><summary>Geldner</summary>

@@ -106,6 +106,12 @@ vā́jaratnām ← vā́jaratna- (nominal stem)
 कृ॒धीधिय॑ञ्जरि॒त्रे वाज॑रत्नाम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आरा᳓ञ् श᳓त्रुम् अ᳓पबाधस्व दूर᳓म् उग्रो᳓ यः᳓ श᳓म्बः पुरुहूत ते᳓न  
+अस्मे᳓ धेहि य᳓वमद् गो᳓मद् इन्द्र कृधी᳓ धि᳓यं जरित्रे᳓ वा᳓जरत्नाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ॒रात् । शत्रु॑म् । अप॑ । बा॒ध॒स्व॒ । दू॒रम् । उ॒ग्रः । यः । शम्बः॑ । पु॒रु॒ऽहू॒त॒ । तेन॑ ।  
@@ -115,6 +121,30 @@ vā́jaratnām ← vā́jaratna- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 आरा᳓त् । श᳓त्रुम् । अ᳓प । बाधस्व । दूर᳓म् । उग्रः᳓ । यः᳓ । श᳓म्बः । पुरु-हूत । ते᳓न । अस्मे᳓ । धेहि । य᳓वमत् । गो᳓मत् । इन्द्र । कृधि᳓ । इधि᳓ । यम् । जरित्रे᳓ । वा᳓ज-रत्नाम् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-7, *VS-K*-11, *KS*-122)
+- अरा᳓न् (*TS*-1/2, *RV*-2/4, *TB*-2/4, *AV*-0/9, *SB-M*-1/8, *SB-K*-1/13, *VS-M*-0/1, *KS*-0/1)
+- श᳓त्रुम् (*TS*-0/18, *RV*-15/82, *TB*-3/13, *AV*-4/57, *SB-M*-1/5, *SB-K*-2/5, *VS-M*-0/11, *VS-K*-0/8, *KS*-0/5)
+- अ᳓प (*TS*-136, *RV*-226, *TB*-121, *TK*-11, *AV*-161, *SB-M*-338, *SB-K*-329, *VS-M*-37, *VS-K*-28, *KS*-54)
+- बाधस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-4, *RV*-6, *TB*-1, *AV*-3, *SB-M*-3, *SB-K*-4, *VS-M*-3, *VS-K*-3, *KS*-2)
+- दूर᳓म् (*TS*-1/8, *RV*-10/47, *TB*-1/4, *AV*-18/30, *SB-M*-6/16, *SB-K*-9/16, *VS-M*-3/9, *VS-K*-2/6, *KS*-1/4)
+- उग्रः᳓ (*TS*-14/33, *RV*-50/153, *TB*-9/21, *TK*-1/2, *AV*-38/99, *SB-M*-4/10, *SB-K*-3/9, *VS-M*-8/23, *VS-K*-8/18, *KS*-3/12)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- श᳓म्बः (*RV*-1, *TB*-1, *AV*-1)
+- पुरु-हूत (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-3, *RV*-46, *TB*-4, *AV*-12, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- ते᳓ने (*TB*-5/7)
+- अस्मे᳓ (*TS*-31/565, *RV*-211/1308, *TB*-17/270, *TK*-0/66, *AV*-14/1252, *SB-M*-19/723, *SB-K*-17/728, *VS-M*-27/314, *VS-K*-31/265, *KS*-25/242)
+- धेहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-34, *RV*-63, *TB*-26, *TK*-1, *AV*-91, *SB-M*-27, *SB-K*-21, *VS-M*-30, *VS-K*-19, *KS*-29)
+- य᳓वमत् (*RV*-3, *TB*-1, *AV*-2, *SB-M*-0/1, *SB-K*-2)
+- गो᳓मत् (*TS*-0/3, *RV*-23/62, *TB*-3/4, *AV*-5/11, *VS-M*-2/8, *VS-K*-1/3, *KS*-3/5)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-22, *KS*-28)
+- कृधी᳓ (*TS*-0/1, *RV*-0/24, *TB*-1/2, *AV*-0/1, *SB-M*-0/7, *SB-K*-0/7, *VS-K*-0/1, *KS*-1)
+- धि᳓यम् (*TS*-5/11, *RV*-45/113, *TB*-5/8, *AV*-5/10, *SB-M*-2/11, *SB-K*-2/9, *VS-M*-4/13, *VS-K*-3/12, *KS*-0/2)
+- जरित्रे᳓ (*TS*-1/2, *RV*-37/112, *TB*-1, *AV*-4/11, *VS-M*-0/4, *VS-K*-0/3, *KS*-0/2)
+- वा᳓ज-रत्नाम् (*RV*-1/3, *TB*-1, *AV*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -286,6 +316,12 @@ Set (a mass of) barley and cattle on us, Indra. For the singer, make his  insigh
 
 With thy fierce bolt, O God invoked of many, drive to a distance from afar the foeman.  
      O Indra, give us wealth in corn and cattle, and make thy singer's prayer gain strength and riches.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Beat back the enemy near and far away with that which is your fierce bolt, O much-invoked one!  
+Place in us barley-bearing and cow-bearing [wealth], O Indra; make the thought of the singer rich in prizes!
 </details>
 
 <details><summary>Geldner</summary>

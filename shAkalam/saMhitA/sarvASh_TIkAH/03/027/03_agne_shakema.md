@@ -168,6 +168,11 @@ _________
 12अग्ने शकेमेति गायत्री। ॥ हे! अग्ने! देवस्य देवनशीलस्य वाजिनः अन्नवतः तव यमं यमनं अन्त्यलोपश्छान्दसः । वशीकारं शकेम कर्तुं च समर्थास्स्याम । ततश्चातितरेम द्वेषांसि द्वेष्याणि पापानि ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[612_6]** शकेम in den Mss. ohne Accent ; vgl. RV 3, 27, 3. (शकेम without accent in the mss.; cf. RV 3, 27, 3.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -190,6 +195,12 @@ Agni, may we be able to guide the prizewinning (horses) of you, a god; may we cr
 
 O Agni, if we might obtain control of thee the potent God,  
      Then should we overcome our foes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, may we master the guidance of you, the divine steed;  
+may we cross beyond hostilities!
 </details>
 
 <details><summary>Oldenberg</summary>

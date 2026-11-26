@@ -104,6 +104,12 @@ vakṣáṇāḥ ← vakṣáṇā- (nominal stem)
 तेन॑ य॒ज्ञेन॑ स्व॑रङ्कृतेन॒ स्वि॑ष्टेन व॒क्षणा॒ आ पृ॑णध्वम् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+होताध्वर्युरावया अग्निमिन्धो ग्रावग्राभ उत शँस्ता सुविप्रः।  
+तेन यज्ञेन स्वरङ्कृतेन स्विष्टेन वक्षणा आपृणध्वम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 होता॑ । अ॒ध्व॒र्युः । आऽव॑याः । अ॒ग्नि॒म्ऽइ॒न्धः । ग्रा॒व॒ऽग्रा॒भः । उ॒त । शंस्ता॑ । सुऽवि॑प्रः ।  
@@ -123,6 +129,25 @@ vakṣáṇāḥ ← vakṣáṇā- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 होता॑ । अ॒ध्व॒र्युः । आव॑या॒ इत्या-व॒याः॒ । अ॒ग्नि॒मि॒न्ध इत्य॑ग्निम्-इ॒न्धः । ग्रा॒व॒ग्रा॒भ इति॑ ग्राव-ग्रा॒भः । उ॒त । शँस्ता॑ । सुवि॑प्र॒ इति॒ सु-वि॒प्रः॒ ॥ तेन॑ । य॒ज्ञेन॑ । स्व॑रङ्कृते॒नेति॒ सु-अ॒र॒ङ्कृ॒ते॒न॒ । स्वि॑ष्टे॒नेति॒ सु-इ॒ष्टे॒न॒ । व॒क्षणाः॑ । एति॑ । पृ॒ण॒ध्व॒म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- हो᳓ता (*MS*-81/112, *TS*-43/63, *RV*-150/244, *TB*-95/136, *TK*-6/8, *AV*-18/28, *SB-M*-135/211, *SB-K*-145/211, *VS-M*-58/73, *VS-K*-44/60)
+- अध्वर्युः᳓ (*MS*-46/73, *TS*-54/96, *RV*-9/28, *TB*-22/34, *TK*-1, *AV*-3/4, *SB-M*-213/299, *SB-K*-174/250, *VS-M*-0/11, *VS-K*-1/11)
+- आ᳓-वयाः (*TS*-1, *RV*-1, *AV*-0/1, *VS-M*-1, *VS-K*-1)
+- अग्निम्-इन्धः᳓ (*MS*-1, *TS*-1, *RV*-1)
+- ग्राव-ग्राभः᳓ (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- उत᳓ (*Whitney*, *Lanman*, *MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- शं᳓स्ता (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- सु᳓-विप्रः (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- ते᳓न (*MS*-494/5550, *TS*-295/4761, *RV*-62/3136, *TB*-166/2709, *TK*-17/363, *AV*-217/3165, *SB-M*-616/20457, *SB-K*-684/20018, *VS-M*-35/780, *VS-K*-31/660)
+- यज्ञे᳓न (*MS*-70/933, *TS*-80/863, *RV*-13/448, *TB*-33/399, *TK*-1/21, *AV*-5/231, *SB-M*-139/1803, *SB-K*-132/1754, *VS-M*-65/223, *VS-K*-37/187)
+- स्व᳙रङ्कृतेन (*MS*-1, *TS*-1, *VS-K*-1)
+- सु᳓-इष्टेन (*TS*-1/4, *RV*-1, *TB*-0/5, *TK*-0/3, *SB-M*-0/9, *SB-K*-0/9, *VS-M*-1/8, *VS-K*-1/4, *MS*-1/6)
+- वक्ष᳓णाः (*MS*-2, *TS*-1/2, *RV*-3/13, *AV*-1/5, *VS-M*-1, *VS-K*-1/2)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- पृणध्वम् (समानान्तर-पाठः (TS), *MS*-2, *TS*-1, *RV*-3, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -391,6 +416,13 @@ _________
 स्विष्टेन सुष्ठूवनुष्ठितेन [तेन] यज्ञेनाश्वमेयेन वक्षणाः फलवाहिनीर्घृतकूल्या आपृणघ्वं हे होत्रादयो यूयं सर्वेऽप्यापूरयघ्वम्।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[641_2]** So corr. Ch रवया; vgl. RV 1, 162, 5; MS 3, 16, 1; TS 4, 6, 8, 2; VS 25, 28. (Thus emended; Ch reads रवया; cf. RV 1, 162, 5; MS 3, 16, 1; TS 4, 6, 8, 2; VS 25, 28)
+
+- **[641_3]** So corr. Ch मिन्दो; vgl. RV 1, 162, 5 u. s. w. (Thus emended; Ch reads मिन्दो; cf. RV 1, 162, 5, etc.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर मनुष्य क्या करें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -478,6 +510,12 @@ Hotr Adhvaryu, atoner, fire kindler,
 Holder of the stone, and skilled reciter,  
 With this well-prepared sacrifice  
 Well offered do ye fill the channels.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Hotṛ, the Adhvaryu, the Āvayā, the fire-kindler, the grāvagrābha, and the well-inspired reciter—  
+with this well-prepared, well-offered sacrifice, fill the bellies!
 </details>
 
 <details><summary>Geldner</summary>

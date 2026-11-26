@@ -101,6 +101,12 @@ víśve ← víśva- (nominal stem)
 अ॒ग्नि॒जि॒ह्वा मन॑वः॒ सूर॑चक्षसो॒ विश्वे॑ नो दे॒वा अव॒साग॑मन्नि॒ह ॥७॥ २४
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पृ᳓षदश्वा मरु᳓तः पृ᳓श्निमातरश्शुभंया᳓वानो विद᳓थेषु ज᳓ग्मयः।  
+अग्निजिह्वा᳓ म᳓नवस्सूरचक्षसो वि᳓श्वे मा देवा᳓ अ᳓वसा᳓गमन्निह᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पृष॑त्ऽअश्वाः । म॒रुतः॑ । पृश्नि॑ऽमातरः । शु॒भ॒म्ऽयावा॑नः । वि॒दथे॑षु । जग्म॑यः ।  
@@ -115,6 +121,25 @@ víśve ← víśva- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 पृष॑दश्वा॒ इति॒ पृष॑त्ऽअश्वाः। म॒रुतः॑। पृश्नि॑मातर॒ इति॒ पृश्नि॑ऽमातरः। शु॒भं॒यावा॑न॒ इति॑ शुभ॒म्ऽयावा॑नः। वि॒दथे॑षु। जग्म॑यः। अ॒ग्नि॒जि॒ह्वा। इत्य॑ग्निऽजिह्वाः। मन॑वः। सूर॑चक्षस॒ इति॒ सूर॑ऽचक्षसः। विश्वे॑। नः॒। दे॒वाः। अव॑सा। आ। अ॒ग॒म॒न्। इ॒ह। ७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पृ᳓षत्-अश्वाः (*RV*-1/6, *VS-M*-1, *VS-K*-1)
+- मरु᳓तः (*MS*-71/121, *TS*-46/82, *RV*-134/227, *TB*-30/51, *TK*-1, *AV*-37/58, *SB-M*-53/95, *SB-K*-54/93, *VS-M*-26/48, *VS-K*-20/40)
+- पृ᳓श्नि-मातरः (*MS*-1, *RV*-7, *AV*-1, *VS-M*-1, *VS-K*-1)
+- शुभम्-या᳓वानः (*RV*-1/2, *VS-M*-1, *VS-K*-1)
+- विद᳓थेषु (*MS*-1/9, *TS*-3/6, *RV*-33/105, *TB*-3/11, *TK*-0/1, *AV*-1/15, *VS-M*-3/6, *VS-K*-4/6)
+- ज᳓ग्मयः (*RV*-2/8, *VS-K*-1)
+- अग्नि-जिह्वाः᳓ (*MS*-1, *TS*-1/3, *RV*-8, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-1/3)
+- म᳓नवः (*MS*-2/34, *TS*-1/35, *RV*-4/72, *TB*-0/13, *AV*-2/13, *SB-M*-2/29, *SB-K*-2/30, *VS-M*-2/6, *VS-K*-2/6)
+- सूर-चक्षसः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- वि᳓श्वे (*MS*-70/301, *TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-56/225, *VS-K*-47/224)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- अ᳓वसा᳓ → **अ᳓वसा** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MS*-4/27, *TS*-4/22, *RV*-57/279, *TB*-4/15, *AV*-4/24, *SB-M*-1/9, *SB-K*-1/6, *VS-M*-5/24, *VS-K*-4/18)
+- गमन् (*RV*-4, *SB-M*-1, *MS*-1)
+- इह᳓ (*MS*-103, *TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -363,6 +388,13 @@ _________
 "विश्वे सर्वे देवाः चागमन् ॥७॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[517_8]** RV 1, 89, 7 नो
+
+- **[517_9]** Ch न्निहि
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर कौन क्या करें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -420,6 +452,12 @@ The identify of the mánavaḥ in c is not clear. I take it as a continuation of
 
 The Maruts, Sons of Prsni, borne by spotted steeds, moving in glory, oft visiting holy rites,  
      Sages whose tongue is Agni, brilliant as the Sun,--hither let all the Gods for our protection come.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Having dappled horses, the Maruts, mothered by Pṛśni, traveling in beauty, hastening to gatherings,  
+having Agni for tongue, human, sun-eyed, may all the gods come here with aid!
 </details>
 
 <details><summary>Geldner</summary>

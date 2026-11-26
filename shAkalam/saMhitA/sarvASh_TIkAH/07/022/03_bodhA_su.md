@@ -207,6 +207,11 @@ _________
 हे **मघवन्** धनवन्निन्द्र **ते** तव **प्रशस्तिं** स्तुतिरूपां **यां** **वाचं** **वसिष्ठः** **अर्चति** वदति ताम् **इमां** **मे** वसिष्ठस्य संबन्धिनीं वाचं **सु** **आ** **बोध** सुष्ठु अभिबुध्यस्व । किंच **इमा** इमानि **ब्रह्म** ब्रह्माणि **सधमादे** यज्ञे **जुषस्व** सेवस्व ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[177_7]** T₁, T₆, Brl यान्ते; D ते; Ch यां ते
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -234,6 +239,12 @@ Pāda-final vā́cam émā́m is also found in IX.97.13, a verse attributed to U
 
 Mark closely, Maghavan, the words I utter, this eulogy recited by Vasistha:  
      Accept the prayers I offer at thy banquet.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Mark well, O generous one, this word of mine, this praise that Vasiṣṭha sings to you;  
+enjoy these prayers at the joint feast!
 </details>
 
 <details><summary>Geldner</summary>

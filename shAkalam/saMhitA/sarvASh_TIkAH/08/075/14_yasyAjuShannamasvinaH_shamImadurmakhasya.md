@@ -81,6 +81,12 @@ vr̥dhā́ ← vŕ̥dh- (nominal stem)
 तङ्घेद॒ग्निर्वृ॒धाव॑ति ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+य᳓स्या᳓जुषन् नमस्वि᳓नः श᳓मीम् अ᳓दुर्मखस्य वा  
+तँ᳓ हे᳓द् अग्नि᳓र् विधा᳓वति
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यस्य॑ । अजु॑षत् । न॒म॒स्विनः॑ । शमी॑म् । अदुः॑ऽमखस्य । वा॒ ।  
@@ -90,6 +96,22 @@ vr̥dhā́ ← vŕ̥dh- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 यस्य॑ । अजु॑षत् । न॒म॒स्विनः॑ । शमी॑म् । अदु॑र्मख॒स्येत्यदुः॑-म॒ख॒स्य॒ । वा॒ ॥ तम् । घ॒ । इत् । अ॒ग्निः । वृ॒धा । अ॒व॒ति॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- य᳓स्य (*TS*-134/3383, *RV*-207/4011, *TB*-71/1735, *TK*-2/227, *AV*-112/3120, *SB-M*-143/8327, *SB-K*-136/8438, *VS-M*-28/639, *VS-K*-24/581, *KS*-37/818)
+- अ᳓जुषत् (*TS*-1, *RV*-1)
+- नमस्वि᳓नः (*TS*-1, *RV*-7/8, *AV*-1)
+- श᳓मीम् (*TS*-1/2, *RV*-1/16, *AV*-0/3, *SB-M*-0/11, *SB-K*-0/5)
+- अ᳓दुः-मखस्य (*TS*-1, *RV*-1)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-35, *KS*-61)
+- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-107/768, *VS-K*-75/624, *KS*-117/1225)
+- ह (अनुदात्तम्, पा॰ ८.१.१८, *TS*-61, *RV*-184, *TB*-124, *TK*-116, *AV*-70, *SB-M*-3472, *SB-K*-3779, *VS-M*-9, *VS-K*-6, *KS*-25)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-60, *VS-K*-46, *KS*-42)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-122/322, *VS-K*-113/339, *KS*-111/256)
+- वि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *KS*-33)
+- धा᳓वति (*TS*-1/7, *RV*-1/3, *TB*-1, *AV*-1, *SB-M*-0/1, *SB-K*-1/3, *VS-M*-0/4, *VS-K*-0/4, *KS*-1/3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -226,6 +248,13 @@ The reverent or unwearied man whose holy labour he accepts,
 <details><summary>Keith</summary>
 
 The reverent or generous man In whose offering he hath delighted, Agni aideth indeed with furtherance.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Of which reverent man or one of unwithheld sacrifice he has enjoyed the labor,  
+to him indeed does Agni hasten.  
+With fear may this misfortune attach to another than us, O Agni;
 </details>
 
 <details><summary>Geldner</summary>

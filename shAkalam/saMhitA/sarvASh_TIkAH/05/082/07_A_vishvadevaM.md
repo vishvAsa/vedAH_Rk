@@ -69,6 +69,12 @@ savitā́ram ← savitár- (nominal stem)
 स॒त्यस॑वँ सवि॒तार॑म् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आ᳓ विश्व᳓देवँ स᳓त्पतिँ सूक्तै᳓र् अद्या᳓ वृणीमहे  
+सत्य᳓सवँ सविता᳓रम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । वि॒श्वऽदे॑वम् । सत्ऽप॑तिम् । सु॒ऽउ॒क्तैः । अ॒द्य । वृ॒णी॒म॒हे॒ ।  
@@ -78,6 +84,18 @@ savitā́ram ← savitár- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 एति॑ । वि॒श्वदे॑व॒मिति॑ वि॒श्व-दे॒व॒म्॒ । सत्प॑ति॒मिति॒ सत्-प॒ति॒म्॒ । सू॒क्तैरिति॑ सु-उ॒क्तैः । अ॒द्य । वृ॒णी॒म॒हे॒ ॥ स॒त्यस॑व॒मिति॑ स॒त्य-स॒व॒म्॒ । स॒वि॒तार॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- विश्व᳓-देवम् (*TS*-1/3, *RV*-1/9, *TB*-0/1, *AV*-0/6, *SB-M*-1, *SB-K*-1/2, *VS-M*-0/1, *VS-K*-0/2, *KS*-0/1)
+- स᳓त्-पतिम् (*TS*-4/6, *RV*-14/34, *TB*-2/3, *AV*-5/8, *SB-M*-3/4, *SB-K*-3/4, *VS-M*-4/5, *VS-K*-3/4, *KS*-4)
+- सूक्तैः᳓ (*TS*-0/6, *RV*-1/2, *TB*-0/1, *SB-M*-0/3, *SB-K*-0/3, *VS-K*-0/1, *KS*-0/5)
+- अ-द्या᳓ (*TS*-2/46, *RV*-0/215, *TB*-1/31, *TK*-0/2, *AV*-0/66, *SB-M*-1/43, *SB-K*-3/48, *VS-M*-0/55, *VS-K*-2/54, *KS*-3/18)
+- वृणीमहे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-56, *TB*-3, *AV*-3, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-3)
+- सत्य᳓-सवम् (*TS*-1/2, *RV*-1/2, *TB*-1/4, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1/2)
+- सविता᳓रम् (*TS*-15/120, *RV*-17/157, *TB*-2/71, *TK*-0/3, *AV*-9/96, *SB-M*-24/225, *SB-K*-20/198, *VS-M*-8/110, *VS-K*-6/99, *KS*-3/41)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -197,6 +215,12 @@ We with our hymns this day elect the general God, Lord of the good,
 With our hymns to-day we choose  
 The god of all, the lord of the true,  
 Savitr of true instigation.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Today we choose with good hymns the all-godly lord of truth,  
+Savitṛ of true impulse.
 </details>
 
 <details><summary>Geldner</summary>

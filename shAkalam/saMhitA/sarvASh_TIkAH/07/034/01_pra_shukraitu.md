@@ -66,9 +66,28 @@ vājī́ ← vājín- (nominal stem)
 प्र शु॒क्रैतु॑ दे॒वी म॑नी॒षा अ॒स्मत्सुत॑ष्टो॒ रथो॒ न वा॒जी ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+प्र᳓ शुक्रै᳓तु देवी᳓ मनीषा᳓ अस्म᳓त् सु᳓तष्टो * र᳓थो न᳓ वा᳓णीः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । शु॒क्रा । ए॒तु॒ । दे॒वी । म॒नी॒षा । अ॒स्मत् । सुऽत॑ष्टः । रथः॑ । न । वा॒जी ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- शुक्रा᳓ (*TS*-2/70, *RV*-6/105, *TB*-8/42, *TK*-0/1, *AV*-1/29, *SB-M*-4/87, *SB-K*-6/90, *VS-M*-1/57, *VS-K*-1/50, *KS*-3/37)
+- एतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-26, *RV*-51, *TB*-15, *AV*-76, *SB-M*-17, *SB-K*-16, *VS-M*-17, *VS-K*-10, *KS*-8)
+- देवी᳓ (*TS*-15/38, *RV*-58/118, *TB*-21/48, *TK*-3/4, *AV*-29/61, *SB-M*-12/38, *SB-K*-6/28, *VS-M*-21/55, *VS-K*-21/63, *KS*-7/14)
+- मनीषाः᳓ (*TS*-0/5, *RV*-12/65, *TB*-0/2, *AV*-1/8, *VS-M*-0/6, *VS-K*-0/5, *KS*-1/5)
+- अस्म᳓त् (*TS*-31/565, *RV*-75/1308, *TB*-6/270, *TK*-0/66, *AV*-57/1252, *SB-M*-18/723, *SB-K*-16/728, *VS-M*-19/314, *VS-K*-19/265, *KS*-11/242)
+- सु᳓-तष्टः (*RV*-1/2, *KS*-0/1)
+- र᳓थः (*TS*-13/36, *RV*-83/393, *TB*-16/36, *TK*-2/3, *AV*-10/57, *SB-M*-16/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-5/12, *KS*-3/12)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- वा᳓णीः (*TS*-1, *RV*-14/21, *AV*-5/6, *KS*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -175,6 +194,11 @@ The reference to the departure of our well-crafted manīṣā́is a fitting begi
 <details><summary>Griffith</summary>
 
 MAY our divine and brilliant hymn go forth, like a swift chariot wrought and fashioned well.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let the bright divine thought go forth from us, like a well-carved chariot [let] the songs [go forth].
 </details>
 
 <details><summary>Geldner</summary>

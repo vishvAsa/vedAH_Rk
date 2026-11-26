@@ -86,10 +86,35 @@ svarvídam ← svarvíd- (nominal stem)
 बृह॑स्पते भी॒मम॑मित्र॒दम्भ॑नं रक्षो॒हणं॑ गोत्र॒भिदं॑ स्व॒र्विद॑म् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ विबाध्या परिरापस्तमाँसि च ज्योतिष्मन्तं रथमृतस्य तिष्ठसि।  
+बृहस्पते भीमममित्रदम्भनं रक्षोहणं गोत्रभिदँ स्वर्विदम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । वि॒ऽबाध्य॑ । प॒रि॒ऽरपः॑ । तमां॑सि । च॒ । ज्योति॑ष्मन्त॑म् । रथ॑म् । ऋ॒तस्य॑ । ति॒ष्ठ॒सि॒ ।  
 बृह॑स्पते । भी॒मम् । अ॒मि॒त्र॒ऽदम्भ॑नम् । र॒क्षः॒ऽहन॑म् । गो॒त्र॒ऽभिद॑म् । स्वः॒ऽविद॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- विबा᳓ध्या (*RV*-0/1)
+- परि-रा᳓पस् (*MW*)
+- त᳓मांसि (*MS*-4/52, *TS*-2/33, *RV*-24/113, *TB*-3/13, *AV*-14/52, *SB-M*-4/82, *SB-K*-5/82, *VS-M*-1/22, *VS-K*-1/22)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- ज्यो᳓तिष्मन्तम् (*MS*-5/6, *TS*-9/13, *RV*-2/4, *TB*-0/1, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-2, *VS-K*-2)
+- र᳓थम् (*MS*-20/57, *TS*-8/36, *RV*-168/393, *TB*-15/36, *TK*-0/3, *AV*-21/57, *SB-M*-20/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-2/13)
+- ऋत᳓स्य (*MS*-29/93, *TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-21/45)
+- तिष्ठसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-6, *AV*-4, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *MS*-1)
+- बृ᳓हस्पते (*MS*-10, *TS*-9, *RV*-33, *TB*-2, *TK*-1, *AV*-12, *SB-M*-8, *SB-K*-7/8, *VS-M*-6, *VS-K*-6)
+- भीम᳓म् (*MS*-1/5, *TS*-2/5, *RV*-4/27, *TB*-1, *AV*-2/12, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/6, *VS-K*-1/7)
+- अमित्र-द᳓म्भनम् (*RV*-1/2)
+- रक्षः-ह᳓नम् (*TS*-2/13, *RV*-3, *AV*-2, *VS-M*-1/6, *VS-K*-0/1, *MS*-5/11)
+- गोत्र-भि᳓दम् (*MS*-1/2, *TS*-1/2, *RV*-2/3, *VS-M*-1/2, *VS-K*-1/3)
+- स्वर्-वि᳓दम् (*MS*-2/7, *RV*-12/30, *AV*-2/13, *SB-M*-2/6, *SB-K*-2/6, *VS-M*-2/4, *VS-K*-1/3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -220,6 +245,11 @@ _________
 हेबृहस्पते परिरपः परितःरपःपापरूपंरक्षः यद्वा रपलपव्यक्तायांवाचि क्विप् परिवदतोनिन्दकान् तमांसिचविबाध्यतेज्सानिराकृत्य ज्योतिष्मन्तञ्ज्योतिषातद्वन्तं ऋतस्ययज्ञस्यप्रापकं भीमंशत्रूणाम्भयं करं अमित्रदम्भनं शत्रूणां हिंसकं तदेवाह रक्षोहणं रक्षसांहन्तारं गोत्रभिदं मेघानाम्भेत्तारं स्वर्विदं स्वर्गस्यलम्भकंरथमातिष्ठसि अधितिष्ठसि ॥ ३ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[413_6]** cf. RV 2, 23, 3.
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -239,6 +269,12 @@ smashes demons, splits cowpens, and finds the sun.
 
 When thou hast chased away revilers and the gloom, thou mountest the refulgent car of sacrifice;  
      The awful car, Brhaspati, that quells the foe, slays demons, cleaves the stall of kine, and finds the light.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Driving away revilers and darknesses, thou mountest the radiant chariot of truth,  
+O Bṛhaspati, terrible, destroying enemies, slaying demons, cleaving the cow-pen, finding the light.
 </details>
 
 <details><summary>Geldner</summary>

@@ -95,10 +95,38 @@ váruṇaḥ ← váruṇa- (nominal stem)
 यस्मा॑ आदि॒त्या अध्व॑नो॒ रद॑न्ति मि॒त्रो अ॑र्य॒मा वरु॑णः स॒जोषाः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उ᳓द् वां पृक्षा᳓सो म᳓धुमन्तो अस्थुर् आ᳓ सू᳓र्यो अरुहञ् शुक्र᳓म् अ᳓र्णः  
+य᳓स्मा आदित्या᳓ अ᳓ध्वनो र᳓दन्ति मित्रो᳓ अर्यमा᳓ व᳓रुणः सजो᳓षाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उत् । वा॒म् । पृ॒क्षासः॑ । मधु॑ऽमन्तः । अ॒स्थुः॒ । आ । सूर्यः॑ । अ॒रु॒ह॒त् । शु॒क्रम् । अर्णः॑ ।  
 यस्मै॑ । आ॒दि॒त्याः । अध्व॑नः । रद॑न्ति । मि॒त्रः । अ॒र्य॒मा । वरु॑णः । स॒ऽजोषाः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-79, *KS*-81)
+- वाम् (अनुदात्तम्, पा॰ ८.१.१८, *TS*-52, *RV*-514, *TB*-26, *TK*-1, *AV*-65, *SB-M*-40, *SB-K*-37, *VS-M*-19, *VS-K*-16, *KS*-19)
+- पृक्षा᳓सः (*TS*-0/1, *RV*-5/23, *TK*-0/1, *SB-M*-0/1)
+- म᳓धुमन्तः (*TS*-1/4, *RV*-12/37, *TB*-0/2, *AV*-3/5, *SB-M*-1/4, *SB-K*-1/4, *VS-M*-1/5, *VS-K*-1/3, *KS*-0/4)
+- अस्थुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-20, *TB*-1, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- सू᳓र्यः (*TS*-34/109, *RV*-84/337, *TB*-36/75, *TK*-6/8, *AV*-77/173, *SB-M*-66/152, *SB-K*-74/151, *VS-M*-14/36, *VS-K*-12/44, *KS*-13/52)
+- अरुहन् (*TS*-7, *RV*-1, *TB*-1, *AV*-2, *SB-M*-2, *VS-M*-4, *VS-K*-2)
+- शुक्र᳓म् (*TS*-17/70, *RV*-28/105, *TB*-19/42, *TK*-1, *AV*-12/29, *SB-M*-31/87, *SB-K*-33/90, *VS-M*-28/57, *VS-K*-24/50, *KS*-16/37)
+- अ᳓र्णः (*TS*-0/1, *RV*-15/19, *TB*-1, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1/2, *VS-K*-1/2)
+- य᳓स्मै (*TS*-12/3383, *RV*-23/4011, *TB*-2/1735, *TK*-2/227, *AV*-18/3120, *SB-M*-42/8327, *SB-K*-52/8438, *VS-M*-4/639, *VS-K*-3/581, *KS*-2/818)
+- आदित्याः᳓ (*TS*-48/195, *RV*-10/91, *TB*-16/131, *TK*-2/21, *AV*-22/71, *SB-M*-40/445, *SB-K*-44/438, *VS-M*-11/44, *VS-K*-16/58, *KS*-14/53)
+- अ᳓ध्वनः (*TS*-5/8, *RV*-17/34, *TB*-0/4, *AV*-3/6, *SB-M*-7/25, *SB-K*-6/22, *VS-M*-3/7, *VS-K*-4/7, *KS*-2/3)
+- र᳓दन्ति (*RV*-1/3)
+- मित्रः᳓ (*TS*-29/68, *RV*-156/284, *TB*-24/48, *TK*-0/1, *AV*-28/52, *SB-M*-33/71, *SB-K*-40/74, *VS-M*-17/44, *VS-K*-18/50, *KS*-18/26)
+- अर्यमा᳓ (*TS*-8/18, *RV*-77/103, *TB*-8/16, *AV*-17/25, *SB-M*-2/8, *SB-K*-2/7, *VS-M*-1/4, *VS-K*-1/5, *KS*-4/5)
+- व᳓रुणः (*TS*-55/118, *RV*-169/308, *TB*-37/85, *TK*-0/1, *AV*-52/113, *SB-M*-97/153, *SB-K*-102/152, *VS-M*-42/84, *VS-K*-39/82, *KS*-41/72)
+- सजो᳓षाः (*TS*-11/13, *RV*-53/55, *TB*-5, *AV*-7, *SB-M*-2, *SB-K*-2, *VS-M*-8, *VS-K*-7, *KS*-9)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -245,6 +273,12 @@ he for whom the Ādityas—Mitra, Aryaman, and Varuṇa all together— clear hi
 
 Your coursers rich in store of sweets have mounted: to the bright ocean Surya hath ascended,  
      For whom the Adityas make his pathway ready, Aryaman, Mitra, Varuna, accordant.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Your sweet-filled refreshments have risen up; the sun has mounted the bright flood,  
+for whom the Ādityas, Mitra, Aryaman, [and] Varuṇa in unison, cut the paths.
 </details>
 
 <details><summary>Geldner</summary>

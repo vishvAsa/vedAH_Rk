@@ -310,6 +310,18 @@ Hence born he discerneth all the (earth),
 Vaiśvanara vieth with the sun.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we be in the goodwill of Vaiśvānara, for he is the king, the splendor of realms;  
+born from here, Vaiśvānara surveys all this, he strives along with the sun.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+May we be in the good will of Vaiśvānara, for he is the king, the glory of the worlds.  
+Born from here, he surveys this all; Vaiśvānara rivals the sun.
+</details>
+
 <details><summary>Geldner</summary>
 
 Wir möchten in der Gunst des Vaisvanara stehen, denn er ist ja der König, der Oberherr der Geschöpfe. Hier geboren überschaut er von da dieses All. Vaisvanara wetteifert mit der Sonne.

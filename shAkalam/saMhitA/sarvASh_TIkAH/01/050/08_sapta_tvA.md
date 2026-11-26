@@ -189,6 +189,12 @@ Bear thee, O god Surya,
 With hair of light, O wise one.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seven bay mares bear you in the chariot, O divine Sūrya,  
+flame-haired, far-seeing.
+</details>
+
 <details><summary>Macdonell</summary>
 
 The seven bay mares that draw thy car, Bring thee to us, far-seeing god, O Sūrya of the gleaming hair.

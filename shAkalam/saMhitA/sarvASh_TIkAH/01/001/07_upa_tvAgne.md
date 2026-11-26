@@ -72,10 +72,30 @@ námaḥ ← námas- (nominal stem)
 नमो॒ भर॑न्त॒ एम॑सि ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उ᳓प त्वाग्ने दिवे᳓दिवे दो᳓षावस्तर् धिया᳓ वय᳓म्  
+न᳓मो भ᳓रन्त ए᳓मसि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उप॑ । त्वा॒ । अ॒ग्ने॒ । दि॒वेऽदि॑वे । दोषा॑ऽवस्तः । धि॒या । व॒यम् ।  
 नमः॑ । भर॑न्तः । आ । इ॒म॒सि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उ᳓प (*TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60, *KS*-116)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519, *KS*-326)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114, *KS*-122)
+- दिवे᳓-दिवे (*TS*-7, *RV*-47, *TB*-1, *AV*-7, *SB-M*-2, *SB-K*-1, *VS-M*-4, *VS-K*-4)
+- दो᳓षा-वस्तः (*TS*-2, *RV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- धिया᳓ (*TS*-9/10, *RV*-84/98, *TB*-6/9, *AV*-9/11, *SB-M*-9/10, *SB-K*-9/10, *VS-M*-14/19, *VS-K*-7/12, *KS*-3/4)
+- वय᳓म् (*TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274, *KS*-46/242)
+- न᳓मः (*TS*-291/315, *RV*-49/182, *TB*-47/60, *TK*-4, *AV*-230/248, *SB-M*-102/105, *SB-K*-100/102, *VS-M*-235/244, *VS-K*-147/168, *KS*-291/305)
+- भ᳓रन्तः (*TS*-2/3, *RV*-4/11, *TB*-0/2, *AV*-3/5, *SB-M*-4/8, *SB-K*-4/6, *VS-M*-2/3, *VS-K*-1/2)
+- ए᳓मसि (*TS*-0/1, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -206,6 +226,18 @@ To thee, O Agni, day by day, O thou illuminer of gloom, With thought we, bearing
 To thee, O Agni, day by day,  
 That shinest in the darkness, with our devotion,  
 We come bearing honour.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unto you, O Agni, day by day, O illuminer of darkness, with thought, we  
+approach, bearing homage,
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+To you, O Agni, day after day, by night and day, with thought,  
+we come, bringing homage,
 </details>
 
 <details><summary>Geldner</summary>

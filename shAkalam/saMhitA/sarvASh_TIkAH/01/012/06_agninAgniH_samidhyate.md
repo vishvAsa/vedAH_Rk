@@ -72,6 +72,12 @@ juhvā̀syaḥ ← juhvā̀sya- (nominal stem)
 ह॒व्य॒वाड्जु॒ह्वा॑स्यः  ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्निनाग्निस्समिध्यते कविर्गृहपतिर्युवा।  
+हव्यवाड् जुह्वास्य
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निना॑ । अ॒ग्निः । सम् । इ॒ध्य॒ते॒ । क॒विः । गृ॒हऽप॑तिः । युवा॑ ।  
@@ -86,6 +92,19 @@ juhvā̀syaḥ ← juhvā̀sya- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 अग्नि᳓ना । अग्निः᳓ । स᳓म् । इध्यते । कविः᳓ । गृह᳓-पतिः । यु᳓वा । हव्य-वा᳓ट् । जुह्वा᳙स्यः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्नि᳓ना (*MS*-45/1297, *TS*-30/1194, *RV*-7/856, *TB*-9/520, *TK*-0/105, *AV*-13/419, *SB-M*-69/2495, *SB-K*-60/2289, *VS-M*-8/325, *VS-K*-7/349)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- इध्यते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-7, *TB*-5, *AV*-4, *SB-M*-3, *SB-K*-4, *VS-M*-1, *MS*-1)
+- कविः᳓ (*MS*-14/36, *TS*-16/31, *RV*-92/200, *TB*-9/21, *AV*-10/30, *SB-M*-5/11, *SB-K*-4/9, *VS-M*-10/23, *VS-K*-11/26)
+- गृह᳓-पतिः (*MS*-6/20, *TS*-7/24, *RV*-13/20, *TB*-2/18, *TK*-1, *AV*-4/5, *SB-M*-19/39, *SB-K*-17/31, *VS-M*-2/8, *VS-K*-5/15)
+- यु᳓वा (*MS*-7/17, *TS*-5/11, *RV*-30/68, *TB*-7/8, *AV*-5/13, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-3/4, *VS-K*-3/4)
+- हव्य-वा᳓ट् (*MS*-9, *TS*-5/6, *RV*-9, *TB*-5, *SB-M*-8, *SB-K*-4, *VS-M*-1)
+- जुह्वा᳙स्य (*MW*, *MS*-1, *TB*-1, *SB-M*-1, *SB-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -219,6 +238,19 @@ By AgniAgni is inflamed, Lord of the House, wise, young, who bears
 By Agni is Agni kindled,  
 The wise, the young, the lord of the house,  
 The bearer of the oblation, with ladle in his mouth.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Fire is kindled by fire, the sage, the house-lord, the youth,  
+the oblation-bearer, having the ladle as his mouth.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With fire is fire kindled, the sage, the householder, the youth,  
+the oblation-bearer, whose mouth is the ladle.  
+Seven are your kindling-sticks, O Agni,
 </details>
 
 <details><summary>Oldenberg</summary>

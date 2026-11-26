@@ -63,10 +63,28 @@ vā́jasātaye ← vā́jasāti- (nominal stem)
 हु॒वेम॒ वाज॑सातये ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इ᳓न्द्रा नु᳓ पूष᳓णा वयँ᳓ सख्या᳓य स्वस्त᳓ये।  
+हुवे᳓म वा᳓जसातये
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रा॑ । नु । पू॒षणा॑ । व॒यम् । स॒ख्याय॑ । स्व॒स्तये॑ ।  
 हु॒वेम॑ । वाज॑ऽसातये ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्रा (*MS*-3/714, *TS*-1/498, *RV*-11/1356, *TB*-6/369, *TK*-0/8, *AV*-2/606, *SB-M*-1/535, *SB-K*-3/509, *VS-M*-0/392, *VS-K*-1/381)
+- नु᳓ (*MS*-46, *TS*-21, *RV*-338, *TB*-16, *TK*-12, *AV*-66, *SB-M*-273, *SB-K*-226, *VS-M*-21, *VS-K*-17)
+- पूष᳓णा (*MS*-1/132, *TS*-0/70, *RV*-1/87, *TB*-0/35, *TK*-0/1, *AV*-0/24, *SB-M*-0/84, *SB-K*-0/85, *VS-M*-0/51, *VS-K*-0/47)
+- वय᳓म् (*MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- सख्या᳓य (*MS*-2/9, *TS*-0/7, *RV*-35/134, *TB*-0/5, *AV*-5/12, *SB-M*-0/6, *SB-K*-0/6, *VS-M*-1/6, *VS-K*-0/5)
+- स्वस्त᳓ये (*MS*-7/37, *TS*-6/44, *RV*-49/201, *TB*-4/21, *AV*-21/56, *SB-M*-3/45, *SB-K*-3/46, *VS-M*-9/12, *VS-K*-10/15)
+- हुवे᳓म (*MS*-1, *RV*-2)
+- वा᳓ज-सातये (*MS*-2/4, *TS*-2/4, *RV*-35/65, *TB*-1/2, *AV*-6/8, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-2/7, *VS-K*-1/5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -132,6 +150,11 @@ _________
 इतरेतरयोगात् इन्द्रपूषशब्दयोः उभयत्र द्विवचनम् । इन्द्रापूषणौ देवौ **नु** अद्य च **वयं** **स्वस्तये** **सख्याय** शोभनाय सखित्वाय **वाजसातये** वाजस्यान्नस्य बलस्य वा सातये संभजनाय च **हुवेम** आह्वयाम । स्तवाम ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[365_7]** cf. RV 6, 57, 1 und 4. (cf. RV 6, 57, 1 and 4.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -150,6 +173,12 @@ call upon—for prize-winning.
 
 INDRA and Pusan will we call for friend ship and prosperity  
      And for the winning of the spoil.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Now Indra and Pūṣan we, for friendship, for well-being,  
+would call for the winning of prize-wealth.
 </details>
 
 <details><summary>Geldner</summary>

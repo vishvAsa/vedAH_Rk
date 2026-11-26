@@ -107,6 +107,12 @@ yajñám ← yajñá- (nominal stem)
 अत्रा॑ पू॒ष्णᳶ प्र॑थ॒मो भा॒ग ए॑ति य॒ज्ञन्दे॒वेभ्यᳶ॑ प्रतिवे॒दय॑न्न॒जः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+यद्वविष्यमृतुशो देवयानं त्रिर्मानुषाः पर्यश्वं नयन्ति।  
+तत्रा पूष्णः प्रथमो भाग एति यज्ञं देवेभ्यः परिवेदयन्नजः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । ह॒वि॒ष्य॑म् । ऋ॒तु॒ऽशः । दे॒व॒ऽयान॑म् । त्रिः । मानु॑षाः । परि॑ । अश्व॑म् । नय॑न्ति ।  
@@ -126,6 +132,29 @@ yajñám ← yajñá- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 यत् । ह॒विष्य॑म् । ऋ॒तु॒श इत्यृ॑तु-शः । दे॒व॒यान॒मिति॑ देव-यान॑म् । त्रिः । मानु॑षाः । परीति॑ । अश्व॑म् । नय॑न्ति ॥ अत्र॑ । पू॒ष्णः । प्र॒थ॒मः । भा॒गः । ए॒ति॒ । य॒ज्ञम् । दे॒वेभ्यः॑ । प्र॒ति॒वे॒दय॒न्निति॑ प्रति-वे॒दय॑न् । अ॒जः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓द्व (*TS*-1/3)
+- वि᳓ष्यम् (*MS*-0/1)
+- ऋतु-शः᳓ (*MS*-4, *TS*-3, *RV*-4, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-3)
+- देव-या᳓नम् (*MS*-2/13, *TS*-1/23, *RV*-2/13, *TB*-0/8, *AV*-3/18, *SB-M*-1/8, *SB-K*-3/9, *VS-M*-1/11, *VS-K*-1/7)
+- त्रिः᳓ (*MS*-55/129, *TS*-32/190, *RV*-67/153, *TB*-32/88, *TK*-1/8, *AV*-10/59, *SB-M*-96/382, *SB-K*-75/334, *VS-M*-2/19, *VS-K*-3/22)
+- मा᳓नुषाः (*MS*-4/13, *TS*-2/8, *RV*-5/68, *TB*-1/11, *AV*-2/11, *SB-M*-1/16, *SB-K*-2/21, *VS-M*-1/7, *VS-K*-1/6)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- अश्वन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-2, *SB-K*-2)
+- नयन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-5, *RV*-14, *TB*-2, *TK*-1, *AV*-3, *SB-M*-20, *SB-K*-13)
+- त᳓त्रा (*MS*-0/20, *TS*-1/15, *RV*-0/22, *TB*-0/30, *TK*-0/1, *AV*-0/62, *SB-M*-0/211, *SB-K*-0/207, *VS-M*-0/7, *VS-K*-0/7)
+- पूष्णः᳓ (*MS*-36/130, *TS*-20/70, *RV*-6/86, *TB*-4/35, *TK*-0/1, *AV*-1/24, *SB-M*-24/84, *SB-K*-25/85, *VS-M*-22/51, *VS-K*-21/47)
+- प्रथमः᳓ (*MS*-34/106, *TS*-28/95, *RV*-50/170, *TB*-11/41, *TK*-0/7, *AV*-43/109, *SB-M*-58/287, *SB-K*-51/272, *VS-M*-18/38, *VS-K*-16/39)
+- भागः᳓ (*MS*-52/83, *TS*-40/55, *RV*-11/57, *TB*-8/16, *AV*-21/45, *SB-M*-46/110, *SB-K*-41/112, *VS-M*-21/29, *VS-K*-28/45)
+- एति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-136, *TS*-152, *RV*-120, *TB*-80, *TK*-20, *AV*-43, *SB-M*-306, *SB-K*-293, *VS-K*-2)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- देवे᳓भ्यः (*MS*-138/1216, *TS*-101/1023, *RV*-60/1342, *TB*-58/582, *TK*-2/32, *AV*-40/707, *SB-M*-249/2031, *SB-K*-210/1945, *VS-M*-64/528, *VS-K*-60/523)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- वे᳓दयन् (*MW*, *Macdonell*, *Lanman*)
+- अजः᳓ (*MS*-11/40, *TS*-11/32, *RV*-14/21, *TB*-2/14, *AV*-23/47, *SB-M*-26/74, *SB-K*-24/65, *VS-M*-8/11, *VS-K*-6/13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -363,6 +392,11 @@ _________
 किं कुर्वन्, देवेभ्यो यज्ञं प्रतिवेदयन्, हे देवा यज्ञः प्रवर्तत इस्येवं दवेभ्यो ज्ञापयन् ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[641_1]** So corr. Ch देवेश्यः vgl. RV 1, 162, 4 u. s. w. (Thus emended Ch देवेश्यः cf. RV 1, 162, 4 etc.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर किससे कौन क्या करते हैं, इस विषय को अगले मन्त्र में कहा है ॥
@@ -428,6 +462,12 @@ When thrice the men lead round the Steed, in order, who goeth to the Gods as mee
 When men thrice lead round in due season  
 The steed going to the gods as an acceptable offering Then first goeth Pusan's share,  
 The goat announcing the sacrifice to the gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When men lead the horse around thrice, as an oblation going to the gods according to season,  
+there the goat goes first as Pūṣan's portion, announcing the sacrifice to the gods.
 </details>
 
 <details><summary>Geldner</summary>

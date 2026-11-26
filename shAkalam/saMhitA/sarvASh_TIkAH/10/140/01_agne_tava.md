@@ -104,6 +104,12 @@ kave ← kaví- (nominal stem)
 बृह॑द्भानो॒ शव॑सा॒ वाज॑मु॒क्थ्य॑न्दधा॑सि दा॒शुषे॑ कवे ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्ने तव श्रवो वयो महि भ्राजन्यर्चयो विभावसो।  
+बृहद्वानो शवसा वाजमुक्थ्यं दधासि दाशुषे कवे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । तव॑ । श्रवः॑ । वयः॑ । महि॑ । भ्रा॒ज॒न्ते॒ । अ॒र्चयः॑ । वि॒भा॒व॒सो॒ इति॑ विभाऽवसो ।  
@@ -123,6 +129,26 @@ kave ← kaví- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अग्ने॑ । तव॑ । श्रवः॑ । वयः॑ । महि॑ । भ्रा॒ज॒न्ति॒ । अ॒र्चयः॑ । वि॒भा॒व॒सो॒ इति॑ विभा-व॒सो॒ ॥ बृह॑द्भानो॒ इति॒ बृह॑त्-भा॒नो॒ । शव॑सा । वाज॑म् । उ॒क्थ्य॑म् । दधा॑सि । दा॒शुषे॑ । क॒वे॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- श्र᳓वः (*Whitney*, *MS*-10/16, *TS*-6/9, *RV*-87/145, *TB*-3/4, *AV*-11/12, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-4/8)
+- व᳓यः (*MS*-60/597, *TS*-45/427, *RV*-112/1109, *TB*-46/240, *TK*-0/7, *AV*-26/487, *SB-M*-45/656, *SB-K*-48/704, *VS-M*-69/216, *VS-K*-48/182)
+- म᳓हि (*Whitney*, *MS*-28/58, *TS*-19/35, *RV*-118/255, *TB*-9/39, *TK*-0/5, *AV*-10/40, *SB-M*-9/40, *SB-K*-11/34, *VS-M*-14/43, *VS-K*-12/33)
+- भ्राजनि᳓ (*MW*, *Macdonell*)
+- अर्च᳓यः (*MS*-2/7, *TS*-3/7, *RV*-14/23, *TB*-0/6, *TK*-0/2, *AV*-0/9, *SB-M*-4/31, *SB-K*-4/32, *VS-M*-1/3, *VS-K*-1/4)
+- विभा-वसो᳓ (*SB-M*-1, *SB-K*-1)
+- बृह᳓त् (*MS*-33/39, *TS*-57/69, *RV*-151/156, *TB*-32/33, *AV*-43, *SB-M*-31/36, *SB-K*-30/35, *VS-M*-27/28, *VS-K*-25/32)
+- वा᳓नः (*MW*, *Macdonell*, *Lanman*)
+- श᳓वसा (*MS*-6/12, *TS*-7/11, *RV*-80/161, *TB*-4/5, *AV*-16/39, *SB-M*-2/7, *SB-K*-2/6, *VS-M*-6/9, *VS-K*-6/8)
+- वा᳓जम् (*MS*-46/115, *TS*-33/92, *RV*-127/350, *TB*-18/35, *TK*-0/1, *AV*-18/49, *SB-M*-21/73, *SB-K*-26/71, *VS-M*-24/71, *VS-K*-21/73)
+- उक्थ्य᳙म् (*MS*-6, *TS*-9, *RV*-33, *TB*-7, *AV*-5, *SB-M*-10, *SB-K*-11, *VS-M*-2, *VS-K*-2)
+- द᳓धासि (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-3, *TS*-2, *RV*-4, *SB-M*-4, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- दाशु᳓षे (*MS*-18/24, *TS*-16/18, *RV*-116/139, *TB*-6, *AV*-20/21, *SB-M*-6/7, *SB-K*-6/7, *VS-M*-8/12, *VS-K*-7/13)
+- कवे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-26, *TB*-2, *AV*-2, *SB-M*-4, *SB-K*-4, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -331,6 +357,11 @@ _________
 वीयते प्राणिभिरश्यत इति वयोऽन्नम् ।   हेऽग्ने तव श्रवस्त्व-तीयत्वेन श्रूयमाणं वयोऽन्नं महि महदस्ति ।   विभा दीप्तिरेव वसु धनं यस्यासौ विभाव-सुः।   हे विभावसोऽर्चयस्तव दीप्तयो भ्राजन्ति दीप्यन्ते ।   बृहन्तो भानवो यस्यासौ बृह-द्भानुः ।   कविर्विद्वान्यजमानाभिप्रायाभिज्ञः ।   तादृश हेऽग्ने दाशुषे हविर्दत्तवते यजमा-नायोक्थ्यं शस्राद्युपेतयज्ञयोग्यं वाजमन्नं शवसा त्वदीयेन बलेन दधासि ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[235_2]** So corr. Ch मुत्मन्द°; D मुत्यं द° (Thus emended; Ch reads मुत्मन्द°; D reads मुत्यं द°)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 मनुष्यों को कैसा होना चाहिये, यह विषये अगले मन्त्र में कहा है ॥
@@ -392,6 +423,12 @@ AGNI, life-power and fame are thine: thy fires blaze mightily, thou rich in weal
 O Agni, strength and fame are thine,  
 Thy rays shine mightily, O rich in light;  
 O thou of broad radiance, with thy might, strength worthy of laud, Thou bestowest on the worshipper, O sage.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, your fame, your vitality is great; your flames shine brightly, o rich in light;  
+o of lofty beam, by might you bestow praiseworthy prize on the worshiper, o sage!
 </details>
 
 <details><summary>Geldner</summary>

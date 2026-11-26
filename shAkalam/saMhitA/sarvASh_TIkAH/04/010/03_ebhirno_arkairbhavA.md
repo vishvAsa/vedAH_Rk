@@ -98,6 +98,12 @@ víśvebhiḥ ← víśva- (nominal stem)
 अग्ने॒ विश्वे॑भिस्सु॒मना॒ अनी॑कैः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+एभिर्नो अर्कैर्भवा नो अर्वाङ् स्वर्ण ज्योतिः।  
+अग्ने विश्वेभिस्सुमना अनीकैः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ए॒भिः । नः॒ । अ॒र्कैः । भव॑ । नः॒ । अ॒र्वाङ् । स्वः॑ । न । ज्योतिः॑ ।  
@@ -112,6 +118,24 @@ víśvebhiḥ ← víśva- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 ए॒भिः। नः॒। अ॒र्कैः। भव॑। नः॒। अ॒र्वाङ्। स्वः॑। न। ज्योतिः। अग्ने॑। विश्वे॑भिः। अग्ने॑। विश्वेभिः। सु॒मना॒ इति॑ सु॒ऽमनाः॑। अनी॑कैः। २८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- एभिः᳓ (*MS*-3/1379, *TS*-4/965, *RV*-17/1247, *TB*-1/567, *TK*-0/57, *AV*-2/1259, *SB-M*-20/5239, *SB-K*-23/5549, *VS-M*-2/319, *VS-K*-1/301)
+- न (समानान्तर-पाठः (TS), *MS*-92, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- अर्कैः᳓ (*MS*-4/45, *TS*-2/24, *RV*-43/100, *TB*-4/12, *AV*-6/34, *SB-M*-0/52, *SB-K*-0/36, *VS-M*-2/7, *VS-K*-3/7)
+- भ᳓वाः (*RV*-0/5, *TB*-0/1, *AV*-0/5, *SB-M*-1/18, *SB-K*-1/14, *MS*-2/3)
+- न (समानान्तर-पाठः (TS), *MS*-92, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- अर्वा᳓ङ् (*MS*-2, *TS*-3, *RV*-24, *TB*-4, *AV*-13, *SB-M*-4, *SB-K*-3, *VS-M*-3, *VS-K*-1)
+- स्वर्ण᳓ (*SB-M*-3, *SB-K*-2, *VS-K*-5, *MS*-2)
+- ज्यो᳓तिः (*Whitney*, *MS*-92/134, *TS*-117/199, *RV*-99/148, *TB*-58/70, *TK*-3/5, *AV*-43/66, *SB-M*-131/173, *SB-K*-134/174, *VS-M*-50/72, *VS-K*-40/80)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- वि᳓श्वेभिः (*MS*-5/301, *TS*-4/283, *RV*-29/1116, *TB*-2/125, *TK*-0/124, *AV*-7/353, *SB-M*-0/248, *SB-K*-0/219, *VS-M*-4/225, *VS-K*-6/224)
+- सु-म᳓नाः (*MS*-10/14, *TS*-10/16, *RV*-27, *TB*-1, *AV*-10/11, *SB-M*-0/1, *SB-K*-1, *VS-M*-9, *VS-K*-9/13)
+- अ᳓नीकैः (*MS*-3/15, *TS*-1/11, *RV*-4/37, *TB*-0/5, *AV*-0/8, *SB-M*-0/25, *SB-K*-0/25, *VS-M*-1/8, *VS-K*-1/10)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -356,6 +380,12 @@ Through these our praises come thou to meet us, bright as the sunlight,
 At these our hymns of praise do thou be propitious,  
 Like the light of heaven,  
 O Agni, propitious with all thy faces.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"With these chants of ours, turn toward us, like the sun, the light,  
+O Agni, gracious with all thy troops.
 </details>
 
 <details><summary>Oldenberg</summary>

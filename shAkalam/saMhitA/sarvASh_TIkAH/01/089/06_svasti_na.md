@@ -89,6 +89,12 @@ svastí ← svastí- (nominal stem)
 स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+स्वस्ति᳓ ना इ᳓न्द्रो वृद्ध᳓श्रवाः स्वस्ति᳓ नः पूषा᳓ विश्व᳓वेदाः  
+स्वस्ति᳓ नस् ता᳓र्क्ष्यो अ᳓रिष्टनेमिः स्वस्ति᳓ नो बृ᳓हस्प᳓तिर् दधातु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स्व॒स्ति । नः॒ । इन्द्रः॑ । वृ॒द्धऽश्र॑वाः । स्व॒स्ति । नः॒ । पू॒षा । वि॒श्वऽवे॑दाः ।  
@@ -103,6 +109,26 @@ svastí ← svastí- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 स्व॒स्ति। नः॒। इन्द्रः॑। वृ॒द्धश्र॑वा॒ इति॑ वृ॒द्धऽश्र॑वाः। स्व॒स्ति। नः॒। पू॒षा। वि॒श्ववेदा॒ इति॑ वि॒श्वऽवे॑दाः। स्व॒स्ति। नः॒। तार्क्ष्यः॑। अरि॑ष्टनेमि॒रित्यरि॑ष्टऽनेमिः। स्व॒स्ति। नः॒। बृह॒स्पतिः॑। द॒धा॒तु॒। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- स्वस्ति᳓ (*TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2, *KS*-8)
+- नाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/388, *VS-K*-93/358, *KS*-72/189)
+- वृद्ध᳓-श्रवाः (*TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2/3, *KS*-1)
+- स्वस्ति᳓ (*TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2, *KS*-8)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- पूषा᳓ (*TS*-36/70, *RV*-53/86, *TB*-21/35, *TK*-1, *AV*-19/24, *SB-M*-45/84, *SB-K*-46/85, *VS-M*-15/51, *VS-K*-15/47, *KS*-16/32)
+- विश्व᳓-वेदाः (*TS*-9/14, *RV*-8, *TB*-3, *AV*-2, *SB-M*-2, *SB-K*-3, *VS-M*-6, *VS-K*-7/10, *KS*-6)
+- स्वस्ति᳓ (*TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2, *KS*-8)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- ता᳓र्क्ष्यः (*TS*-1, *RV*-1/2, *AV*-0/1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2/3, *KS*-1)
+- अ᳓रिष्ट-नेमिः (*TS*-1, *RV*-1/3, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-1)
+- स्वस्ति᳓ (*TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2, *KS*-8)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- बृ᳓हस्प᳓तिः (*TS*-70/84, *RV*-53, *TB*-23, *TK*-4, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31, *KS*-23)
+- दधातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-22, *RV*-13, *TB*-5, *TK*-2, *AV*-49, *SB-M*-24, *SB-K*-28, *VS-M*-13, *VS-K*-10, *KS*-11)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -435,6 +461,19 @@ The rigid parallel structure of the four pādas is resolved by the final word of
 
 Illustrious far and wide, may Indra prosper us: may Pusan prosper us, the Master of all wealth.  
      May Tarksya with uninjured fellies prosper us: Brhaspati vouchsafe to us prosperity.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may bounteous Indra grant us well-being!  
+May Indra of wide fame grant us well-being; may Pūṣan the all-knowing grant us well-being;  
+may Tārkṣya of uninjured fellies grant us well-being; may Bṛhaspati grant us well-being!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+May Indra of augmented renown grant us well-being; may Pūṣan, all-possessing, grant us well-being;  
+may Tārkṣya of uninjured felly grant us well-being; may Bṛhaspati ordain well-being for us!
 </details>
 
 <details><summary>त्रिभुवनः</summary>

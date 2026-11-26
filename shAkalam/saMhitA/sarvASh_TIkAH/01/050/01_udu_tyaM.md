@@ -353,6 +353,21 @@ Who knoweth all,
 The sun for all to see.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upward carry the banners that god who knows all beings,  
+Sūrya, for all to see.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Up do the rays bear that god, Jātavedas,  
+the Sun, for all to see!
+
+Upward do the rays bear that god who knows all beings,  
+the sun, that everyone may behold him.
+</details>
+
 <details><summary>Geldner</summary>
 
 Dort fahren den Gott Jatavedas seine Strahlen herauf, auf daß die ganze Welt den Sonnengott schaue.

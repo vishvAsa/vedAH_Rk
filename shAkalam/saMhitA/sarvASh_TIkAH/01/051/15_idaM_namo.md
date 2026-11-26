@@ -89,10 +89,36 @@ táva ← tvám (pronoun)
 अ॒स्मिन्नि॑न्द्र वृ॒जने॒ सर्व॑वीराः॒ स्मत्सू॒रिभि॒स्तव॒ शर्म॑न्त्स्याम ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इदं᳓ न᳓मो वृषभा᳓य स्वरा᳓ज्ञ उक्थ᳓शुष्माय तवसे᳓ ऽवाचि  
+अस्मि᳓न्न् इन्द्र वृज᳓ने स᳓र्ववीराः स्म᳓त् सूरि᳓भिस् त᳓व श᳓र्मन्त् स्याम
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒दम् । नमः॑ । वृ॒ष॒भाय॑ । स्व॒ऽराजे॑ । स॒त्यऽशु॑ष्माय । त॒वसे॑ । अ॒वा॒चि॒ ।  
 अ॒स्मिन् । इ॒न्द्र॒ । वृ॒जने॑ । सर्व॑ऽवीराः । स्मत् । सू॒रिऽभिः॑ । तव॑ । शर्म॑न् । स्या॒म॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इद᳓म् (*TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-M*-1046/5239, *SB-K*-982/5549, *VS-M*-65/313, *VS-K*-61/289, *KS*-72/319)
+- न᳓मः (*TS*-291/315, *RV*-49/182, *TB*-47/60, *TK*-4, *AV*-230/248, *SB-M*-102/105, *SB-K*-100/102, *VS-M*-235/244, *VS-K*-146/167, *KS*-291/305)
+- वृषभा᳓य (*TS*-1/15, *RV*-13/149, *TB*-1/17, *AV*-4/37, *SB-M*-0/11, *SB-K*-0/7, *VS-M*-1/12, *VS-K*-1/10, *KS*-1/13)
+- स्व-रा᳓ज्ञे (*TS*-3, *TB*-1, *TK*-1)
+- उक्थ᳓-शुष्माय (*RV*-0/2, *TB*-0/1)
+- तवसे᳓ (*MW*, *Macdonell*)
+- अवाचि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-6)
+- अस्मि᳓न् (*TS*-74/965, *RV*-76/1247, *TB*-42/567, *TK*-4/57, *AV*-82/1259, *SB-M*-216/5239, *SB-K*-246/5549, *VS-M*-27/313, *VS-K*-22/289, *KS*-16/319)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-22, *KS*-28)
+- वृज᳓ने (*TS*-0/1, *RV*-14/54, *TB*-0/3, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/3, *VS-K*-0/3, *KS*-1/3)
+- स᳓र्व-वीराः (*TS*-0/3, *RV*-3/13, *TB*-0/1, *AV*-4/16, *SB-M*-0/3, *SB-K*-0/1, *VS-M*-0/5, *VS-K*-0/3, *KS*-1/3)
+- स्म᳓त् (*RV*-13)
+- सूरि᳓भिः (*TS*-1/8, *RV*-14/111, *TB*-1/3, *AV*-2/17, *SB-M*-1/5, *SB-K*-1/3, *VS-M*-1/7, *VS-K*-1/8, *KS*-1/7)
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/215, *VS-K*-25/167, *KS*-41/165)
+- श᳓र्मन् (*TS*-2, *RV*-19, *AV*-1, *SB-M*-1, *VS-M*-1/2, *VS-K*-1/2, *KS*-2)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-16, *KS*-20)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -247,6 +273,12 @@ In this community might we, together with our patrons, be possessors  of hale he
 
 To him the Mighty One, the self-resplendent, verily strong and great, this praise is uttered.  
      May we and all the heroes, with the princes, be, in this fray, O Indra, in thy keeping.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This homage has been spoken to the bull, to the independent ruler, whose power is praise, to the mighty one.  
+In this community, O Indra, with all our heroes, along with the patron-singers may we be in your shelter.
 </details>
 
 <details><summary>Geldner</summary>

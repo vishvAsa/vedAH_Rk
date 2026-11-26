@@ -81,6 +81,12 @@ vrā́tam ← vrā́ta- (nominal stem)
 जी॒वं व्रातँ॑ सचेमहि ॥५॥ ६३
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+पु᳓नर्नः पितरो म᳓नो द᳓दातु दै᳓व्यो ज᳓नः।  
+जीवं᳓ व्रा᳓तँ सचेमहि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पुनः॑ । नः॒ । पि॒त॒रः॒ । मनः॑ । ददा॑तु । दैव्यः॑ । जनः॑ ।  
@@ -95,6 +101,20 @@ vrā́tam ← vrā́ta- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 पुनः॑। नः॒। पि॒त॒रः॒। मनः॑। ददा॑तु। दैव्यः॑। जनः॑। जी॒वम्। व्रा॑तम्। स॒चे॒म॒हि॒। ५।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- पु᳓नः (*MS*-190, *TS*-111, *RV*-93, *TB*-51, *TK*-4, *AV*-119, *SB-M*-313, *SB-K*-285, *VS-M*-32, *VS-K*-29)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- पितरः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-18, *TS*-14, *RV*-7, *TB*-11, *AV*-22, *SB-M*-3, *SB-K*-9, *VS-M*-17, *VS-K*-8)
+- म᳓नः (*MS*-64/147, *TS*-65/141, *RV*-90/238, *TB*-23/72, *TK*-11/17, *AV*-75/161, *SB-M*-198/343, *SB-K*-191/312, *VS-M*-41/86, *VS-K*-33/78)
+- द᳓दातु (*MS*-2, *TS*-2, *RV*-2, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- दै᳓व्यः (*MS*-3/31, *TS*-7/29, *RV*-8/79, *TB*-2/33, *AV*-0/17, *SB-M*-9/32, *SB-K*-11/37, *VS-M*-3/22, *VS-K*-4/25)
+- ज᳓नः (*MS*-11/62, *TS*-3/35, *RV*-31/298, *TB*-1/27, *AV*-9/92, *SB-M*-4/26, *SB-K*-4/26, *VS-M*-5/27, *VS-K*-3/27)
+- जीव᳓म् (*MS*-6/16, *TS*-4/8, *RV*-10/26, *TB*-0/10, *TK*-0/1, *AV*-5/32, *SB-M*-12/22, *SB-K*-15/25, *VS-M*-2/6, *VS-K*-1/5)
+- व्रा᳓तम् (*MS*-1/3, *TS*-1/4, *RV*-1/5, *TB*-0/1, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1/3, *VS-K*-1/3)
+- सचेमहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-7, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -217,6 +237,11 @@ _________
 परिष्वजे महि ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[110_6]** Mit दै᳓व्यो schliesst St fol, 34 und von da eine grosse Lücke bis fol. 84. Das Weitere hier accentuirt nach T1 und Brl. (With दै᳓व्यो St fol. 34 ends, and from there a large lacuna until fol. 84. The remainder here accented after T1 and Brl.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर मन शब्द से बुद्धि का उपदेश अगले मन्त्र में किया है ॥
@@ -275,6 +300,12 @@ May we keep company with the troop of the living.
 
 O Fathers, may the Heavenly Folk give us our spirit once again,  
      That we may be with those who live.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine folk, the Fathers, give back our mind to us;  
+may we accompany the living host.
 </details>
 
 <details><summary>Geldner</summary>

@@ -72,10 +72,31 @@ vā́tāḥ ← vā́ta- (nominal stem)
 दि॒वि वाता॑ इव श्रि॒ताः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त᳓व त्ये᳓ पितो र᳓सा र᳓जाँस्य᳓नु वि᳓ष्ठिताः।  
+दिवि᳓ वा᳓ता इव श्रिताः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तव॑ । त्ये । पि॒तो॒ इति॑ । रसाः॑ । रजां॑सि । अनु॑ । विऽस्थि॑ताः ।  
 दि॒वि । वाताः॑ऽइव । श्रि॒ताः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त᳓व (*MS*-53/382, *TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180)
+- त्ये᳓ (*MS*-0/13, *TS*-0/14, *RV*-32/91, *TB*-1/7, *AV*-6/14, *SB-M*-0/11, *SB-K*-7/17)
+- पितो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-10, *TB*-1)
+- र᳓सा (*MS*-3/71, *TS*-0/52, *RV*-4/42, *TB*-0/24, *AV*-3/27, *SB-M*-1/313, *SB-K*-1/309, *VS-M*-1/14, *VS-K*-0/11)
+- र᳓जांसि (*MS*-7/27, *TS*-5/22, *RV*-38/144, *TB*-4/14, *AV*-8/39, *SB-M*-4/16, *SB-K*-2/14, *VS-M*-6/22, *VS-K*-7/21)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- वि᳓-ष्ठिताः (*MS*-0/2, *TS*-0/1, *TK*-2, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/2)
+- दिवि᳓ (*MS*-63/308, *TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-24/179)
+- वा᳓ताः (*MS*-4/58, *TS*-5/52, *RV*-5/81, *TB*-0/15, *TK*-0/1, *AV*-8/83, *SB-M*-2/72, *SB-K*-2/74, *VS-M*-1/31, *VS-K*-1/31)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- श्रिताः᳓ (*MS*-1/4, *TS*-2/11, *RV*-1/21, *TB*-0/8, *TK*-9/31, *AV*-8/21, *SB-M*-2/10, *SB-K*-3/12, *VS-M*-2/5, *VS-K*-2/5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -163,6 +184,13 @@ _________
 हे **पितो** **तव** त्वत्संबन्धिनः **त्ये** ते स्वाद्वम्लादि षट् **रसाः** **रजांसि** लोकान् लोकस्थानार्थान् **अनु** आनुकूल्येन **विष्ठिताः** विविधं स्थिताः । विविधस्थितौ दृष्टान्तः । **दिवि** द्युलोकेऽन्तरिक्षे **श्रिताः** **वाताः** वायवः ते यथा व्याप्तास्तद्वत् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[607_5]** So T1 und Brl; in Ch ते; vgl. RV 1, 187, 4. (Thus T1 and Brl; in Ch ते; cf. RV 1, 187, 4.)
+
+- **[607_6]** To T1 und Brl; in Ch वात इवाश्रिताः ; vgl. RV 1, 187, 4. (Like T1 and Brl; in Ch वात इवाश्रिताः; cf. RV 1, 187, 4.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -180,6 +208,12 @@ These juices of yours, food, are dispersed throughout the realms, adjoined to he
 
 These juices which, O Food, are thine throughout the regions are diffused.  
      like winds they have their place in heaven.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those juices of yours, O food, are spread throughout the spaces,  
+clinging [aloft] like the winds in heaven.
 </details>
 
 <details><summary>Geldner</summary>

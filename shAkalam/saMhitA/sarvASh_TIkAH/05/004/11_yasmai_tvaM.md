@@ -273,6 +273,12 @@ Shall win prosperity and wealth,
 Rich in sons, in heroes, in kine.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+For whichever virtuous man you make a pleasant place, O Agni Jātavedas,  
+he, possessing horses, sons, heroes, and cattle, attains wealth safely.
+</details>
+
 <details><summary>Geldner</summary>
 
 Der Fromme, dem du, Agni Jatavedas, seinen Platz angenehm machen willst, der kommt glücklich zu einem Schatz von Rossen, Söhnen, Mannen, Rindern.

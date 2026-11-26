@@ -254,6 +254,11 @@ _________
 हे मरुतः इन्द्रोऽहं स्वेनेन्द्रियेण हस्तेन स्वेन भामेन स्वकीयेन कोपेन वृत्रं वधीं अवधिषम् । अतः तविषो बभूवान् महानभवम् । इन्द्रो महानित्येवं लोके कीर्तिर्जातेत्यर्थः । अहमिन्द्रो वज्रबाहुस्सन् विश्वश्चन्द्राः सर्वस्य जगत आह्लादकराः सुगाः सुखेन गन्तुं प्राप्तुं शक्या एता दृश्यमाना वृष्टिलक्षणा अपो मनवे मनुष्यार्थं चकर कृतवानस्मि । सर्वस्य लोकस्यानिष्ठनिवारणाय वृत्रं हत्वेष्टप्राप्तये वृष्टिमुत्पादितवानस्मीत्यर्थः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[123_3]** Ch बभूवम्
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -283,6 +288,12 @@ The same problem afflicts the other cmpds of -ścandra- (áśva-, svá-, hári- 
 
 Vrtra I slew by mine own strength, O Maruts, having waxed mighty in mine indignation.  
      I with the thunder in my hand created for man these lucid softly flowing waters.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I slew Vṛtra, O Maruts, with my Indra-power, having grown mighty through my own wrath;  
+I, with the vajra in my arm, have made these all-gleaming waters easy to traverse for Manu.
 </details>
 
 <details><summary>Geldner</summary>

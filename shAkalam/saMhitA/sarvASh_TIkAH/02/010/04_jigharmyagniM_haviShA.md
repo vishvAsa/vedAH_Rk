@@ -86,10 +86,35 @@ vyáciṣṭham ← vyáciṣṭha- (nominal stem)
 पृ॒थुं ति॑र॒श्चा वय॑सा बृ॒हन्तं॒ व्यचि॑ष्ठ॒मन्नै॑ रभ॒सं दृशा॑नम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+जिघर्म्यग्निं मनसा घृतेन प्रतिक्षियन्तं भुवनानि विश्वा।  
+पृथुं तिरश्चा वयसा बृहन्तं व्यचिष्ठमन्नं रभसं विदानम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 जिघ॑र्मि । अ॒ग्निम् । ह॒विषा॑ । घृ॒तेन॑ । प्र॒ति॒ऽक्षि॒यन्त॑म् । भुव॑नानि । विश्वा॑ ।  
 पृ॒थुम् । ति॒र॒श्चा । वय॑सा । बृ॒हन्त॑म् । व्यचि॑ष्ठम् । अन्नैः॑ । र॒भ॒सम् । दृशा॑नम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- जिघर्मि (समानान्तर-पाठः (MS), *MS*-4, *TS*-6, *RV*-2, *AV*-1, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- म᳓नसा (*MS*-63/147, *TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78)
+- घृते᳓न (*MS*-37, *TS*-37, *RV*-31, *TB*-18, *TK*-2, *AV*-35, *SB-M*-28, *SB-K*-23, *VS-M*-21, *VS-K*-22)
+- प्रति-क्षिय᳓न्तम् (*MS*-1, *RV*-1, *SB-M*-1, *VS-M*-1, *VS-K*-1)
+- भु᳓वनानि (*MS*-16/53, *TS*-11/39, *RV*-59/144, *TB*-6/32, *TK*-0/6, *AV*-29/65, *SB-M*-8/30, *SB-K*-3/26, *VS-M*-18/42, *VS-K*-18/41)
+- वि᳓श्वा (*MS*-60/301, *TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224)
+- पृथु᳓म् (*MS*-1/6, *TS*-2/7, *RV*-7/34, *TB*-0/2, *AV*-0/8, *SB-M*-5/20, *SB-K*-3/15, *VS-M*-1/8, *VS-K*-1/8)
+- तिरश्चा᳓ (*MS*-1, *TS*-2, *RV*-3, *AV*-1, *SB-M*-1, *VS-M*-1, *VS-K*-1)
+- व᳓यसा (*MS*-2/75, *TS*-4/66, *RV*-6/124, *TB*-0/48, *TK*-0/3, *AV*-0/37, *SB-M*-12/124, *SB-K*-13/124, *VS-M*-2/73, *VS-K*-2/54)
+- बृह᳓न्तम् (*MS*-11/14, *TS*-5/6, *RV*-35/44, *TB*-7/8, *TK*-1, *AV*-4/7, *SB-M*-4/6, *SB-K*-3/5, *VS-M*-5/7, *VS-K*-5/7)
+- व्य᳓चिष्ठम् (*MS*-1, *TS*-2, *RV*-1/2, *SB-M*-1, *VS-M*-1, *VS-K*-1)
+- अ᳓न्नम् (*MS*-115/143, *TS*-185/201, *RV*-27/38, *TB*-85/95, *TK*-4/5, *AV*-43/57, *SB-M*-571/751, *SB-K*-611/797, *VS-M*-6/16, *VS-K*-6/20)
+- रभस᳓म् (*MS*-2/3, *TS*-2, *RV*-3/10, *TB*-0/1, *SB-M*-1/2, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/2)
+- वि᳓दानम् (*MS*-0/3, *TS*-2/4, *RV*-0/10, *TB*-0/1, *AV*-0/1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-0/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -226,6 +251,12 @@ This vs. describes what happens to the fire after the peaceful creature depicted
 
 With oil and sacred gifts I sprinkle Agni who makes his home in front of all things living,  
      Broad, vast, through vital power o'er all expanded, conspicuous, strong with all the food that feeds him.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I sprinkle Agni with thought, with ghee, who dwells facing all worlds,  
+broad, large with transverse vigor, widest food, violent, discerning.
 </details>
 
 <details><summary>Oldenberg</summary>

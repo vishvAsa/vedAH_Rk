@@ -184,6 +184,12 @@ O Indra and Brhaspati,
 The hymn and acclamation is recited.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+This dear oblation is in your mouth, O Indra and Bṛhaspati;  
+the song of praise and the exhilaration are recited.
+</details>
+
 <details><summary>Geldner</summary>
 
 Diese liebe Spende opfere ich in euren Mund, Indra und Brihaspati. Lobgedicht und Trinkfreude wird verkündigt.

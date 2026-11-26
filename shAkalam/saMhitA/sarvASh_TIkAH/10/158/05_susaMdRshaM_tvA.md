@@ -66,10 +66,49 @@ ví ← ví (invariable)
 वि प॑श्येम नृ॒चक्ष॑सः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+सुसंदृ᳓शं त्वा वयं᳓ प्र᳓ति पश्येम सूर्य  
+वि᳓ पश्येम नृच᳓क्षसः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+सुसन्दृ᳓शं त्वा वर्यं᳓ प्रतिपश्येम सूर्य।  
+वि᳓पश्येम नृच᳓क्षसः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सु॒ऽस॒न्दृश॑म् । त्वा॒ । व॒यम् । प्रति॑ । प॒श्ये॒म॒ । सू॒र्य॒ ।  
 वि । प॒श्ये॒म॒ । नृ॒ऽचक्ष॑सः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- सु-सन्दृ᳓शम् (*TS*-1, *RV*-3/6, *TB*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1, *KS*-2)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-508, *KS*-326)
+- वय᳓म् (*TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/314, *VS-K*-52/265, *KS*-46/242)
+- प्र᳓ति (*TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-18, *KS*-58)
+- पश्येम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-8, *AV*-2, *SB-M*-4, *SB-K*-4, *VS-M*-1, *VS-K*-1, *KS*-4)
+- सूर्य (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-4, *RV*-22, *TB*-6, *TK*-7, *AV*-19, *SB-M*-85, *SB-K*-90, *VS-M*-1, *VS-K*-1, *KS*-4)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- पश्येम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-8, *AV*-2, *SB-M*-4, *SB-K*-4, *VS-M*-1, *VS-K*-1, *KS*-4)
+- नृ-च᳓क्षसः (*TS*-1/4, *RV*-10/18, *TB*-0/1, *AV*-4/7, *SB-M*-1/4, *SB-K*-1/4, *VS-M*-0/2, *VS-K*-0/2, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सु-सन्दृ᳓शम् (*MS*-4/6, *TS*-1, *RV*-3/6, *TB*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- वः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-231, *TS*-190, *RV*-565, *TB*-51, *TK*-6, *AV*-273, *SB-M*-143, *SB-K*-148, *VS-M*-114, *VS-K*-70)
+- य᳓म् (*MS*-183/3763, *TS*-164/3385, *RV*-269/4011, *TB*-52/1735, *TK*-1/227, *AV*-176/3120, *SB-M*-288/8327, *SB-K*-351/8438, *VS-M*-63/651, *VS-K*-38/609)
+- प्रति (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-43, *TK*-2, *AV*-1, *SB-M*-162, *SB-K*-162, *VS-M*-1, *VS-K*-1, *MS*-47)
+- पश्येम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *RV*-8, *AV*-2, *SB-M*-4, *SB-K*-4, *VS-M*-1, *VS-K*-1)
+- सूर्य (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-5, *TS*-4, *RV*-22, *TB*-6, *TK*-7, *AV*-19, *SB-M*-85, *SB-K*-90, *VS-M*-1, *VS-K*-2)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- पश्येम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *RV*-8, *AV*-2, *SB-M*-4, *SB-K*-4, *VS-M*-1, *VS-K*-1)
+- नृ-च᳓क्षसः (*MS*-1/2, *TS*-1/4, *RV*-10/18, *TB*-0/1, *AV*-4/7, *SB-M*-1/4, *SB-K*-1/4, *VS-M*-0/2, *VS-K*-0/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -172,6 +211,18 @@ May we, (though) we have the eyes of men [/(because) we possess the  “eye of m
 
 Thus, Surya, may we look on thee, on thee most lovely to behold,  
      See clearly with the eyes of men.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we look upon thee, fair to behold, O Surya;  
+may we, looking upon men, see clearly.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+May we look upon you, pleasant to behold, O Sūrya;  
+may we who look on men look clearly!
 </details>
 
 <details><summary>Geldner</summary>

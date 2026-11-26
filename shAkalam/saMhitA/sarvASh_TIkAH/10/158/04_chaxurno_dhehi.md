@@ -78,10 +78,33 @@ ví ← ví (invariable)
 सं चे॒दं वि च॑ पश्येम ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+च᳓क्षुर्मे धेहि च᳓क्षुषे च᳓क्षुर्विख्यै᳓ तनू᳓भ्यः।  
+सं᳓ चेदं᳓ वि᳓ च पश्येम
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 चक्षुः॑ । नः॒ । धे॒हि॒ । चक्षु॑षे । चक्षुः॑ । वि॒ऽख्यै । त॒नूभ्यः॑ ।  
 सम् । च॒ । इ॒दम् । वि । च॒ । प॒श्ये॒म॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- च᳓क्षुः (*MS*-77/124, *TS*-63/114, *RV*-37/44, *TB*-25/37, *TK*-3/4, *AV*-52/86, *SB-M*-120/210, *SB-K*-113/191, *VS-M*-29/45, *VS-K*-28/56)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *MS*-506, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-332)
+- धेहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-50, *TS*-34, *RV*-63, *TB*-26, *TK*-1, *AV*-91, *SB-M*-27, *SB-K*-21, *VS-M*-30, *VS-K*-19)
+- च᳓क्षुषे (*MS*-7/124, *TS*-4/114, *RV*-2/44, *TB*-0/37, *TK*-0/4, *AV*-6/86, *SB-M*-5/210, *SB-K*-5/191, *VS-M*-5/45, *VS-K*-5/56)
+- च᳓क्षुः (*MS*-77/124, *TS*-63/114, *RV*-37/44, *TB*-25/37, *TK*-3/4, *AV*-52/86, *SB-M*-120/210, *SB-K*-113/191, *VS-M*-29/45, *VS-K*-28/56)
+- वि-ख्यै᳓ (*MS*-1, *RV*-1)
+- तनू᳓भ्यः (*MS*-1/76, *TS*-0/70, *RV*-1/54, *TB*-1/22, *AV*-2/27, *SB-M*-0/60, *SB-K*-0/53, *VS-M*-0/26, *VS-K*-0/42)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- इद᳓म् (*MS*-231/1379, *TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-M*-1046/5239, *SB-K*-982/5549, *VS-M*-65/319, *VS-K*-64/301)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- पश्येम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *RV*-8, *AV*-2, *SB-M*-4, *SB-K*-4, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -195,6 +218,12 @@ May we look at this (world) both whole and distinct.
 
 Give sight unto our eye, give thou our bodies sight that they may see:  
      May we survey, discern this world.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+eyesight to look out for our bodies;  
+may we look together and look apart at this!
 </details>
 
 <details><summary>Geldner</summary>

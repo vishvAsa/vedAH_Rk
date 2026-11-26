@@ -107,6 +107,12 @@ ví ← ví (invariable)
 वि नाक॑मख्यत्सवि॒ता वरे॒ण्योऽनु॑ प्र॒याण॑मु॒षसो॒ वि रा॑जति ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वि᳓श्वा रूपा᳓णि प्र᳓तिमुञ्चते कविः᳓ प्रा᳓सावीद् भद्रं᳓ द्विप᳓दे च᳓तुष्पदे  
+वि᳓ ना᳓कम् अक्शत् सविता᳓ व᳓रेण्यो᳓ ऽनु प्रया᳓णम् उष᳓सो वि᳓राजति
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 विश्वा॑ । रू॒पाणि॑ । प्रति॑ । मु॒ञ्च॒ते॒ । क॒विः । प्र । अ॒सा॒वी॒त् । भ॒द्रम् । द्वि॒ऽपदे॑ । चतुः॑ऽपदे ।  
@@ -126,6 +132,30 @@ ví ← ví (invariable)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 विश्वा॑ । रू॒पाणि॑ । प्रतीति॑ । मु॒ञ्च॒ते॒ । क॒विः । प्रेति॑ । अ॒सा॒वी॒त् । भ॒द्रम् । द्वि॒पद॒ इति॑ द्वि-पदे॑ । चतु॑ष्पद॒ इति॒ चतुः॑-प॒दे॒ ॥ वीति॑ । नाक॑म् । अ॒ख्य॒त् । स॒वि॒ता । वरे॑ण्यः । अन्विति॑ । प्र॒याण॒मिति॑ प्र-यान॑म् । उ॒षसः॑ । वीति॑ । रा॒ज॒ति॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वि᳓श्वा (*TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/214, *VS-K*-33/214, *KS*-19/118)
+- रूपा᳓णि (*TS*-21/144, *RV*-11/37, *TB*-7/84, *TK*-0/3, *AV*-16/46, *SB-M*-57/480, *SB-K*-58/460, *VS-M*-5/43, *VS-K*-6/40, *KS*-2/11)
+- प्र᳓ति (*TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-18, *KS*-58)
+- मुञ्चते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-7, *RV*-2, *TB*-2, *SB-M*-12, *SB-K*-7, *VS-M*-1, *VS-K*-1)
+- कविः᳓ (*TS*-16/31, *RV*-92/200, *TB*-9/21, *AV*-10/30, *SB-M*-5/11, *SB-K*-4/9, *VS-M*-10/23, *VS-K*-10/25, *KS*-8/18)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- असावीत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- भद्र᳓म् (*TS*-10/32, *RV*-50/144, *TB*-7/26, *TK*-0/1, *AV*-23/68, *SB-M*-15/21, *SB-K*-23/30, *VS-M*-12/29, *VS-K*-14/29, *KS*-6/20)
+- द्वि-प᳓दे (*TS*-7/21, *RV*-11/16, *TB*-6/15, *TK*-1, *AV*-3/23, *SB-M*-6/11, *SB-K*-5/8, *VS-M*-5/10, *VS-K*-3/10, *KS*-4/8)
+- च᳓तुः-पदे (*TS*-7/24, *RV*-12/15, *TB*-5/12, *TK*-1, *AV*-4/23, *SB-M*-2/11, *SB-K*-1/14, *VS-M*-9/18, *VS-K*-5/13, *KS*-5/11)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- ना᳓कम् (*TS*-10/28, *RV*-21/32, *TB*-7/16, *AV*-19/41, *SB-M*-15/50, *SB-K*-15/49, *VS-M*-11/24, *VS-K*-7/20, *KS*-3/8)
+- अक्शत् (मूल-पाठः)
+- सविता᳓ (*TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/110, *VS-K*-43/99, *KS*-14/41)
+- व᳓रेण्यः (*TS*-3/11, *RV*-16/38, *TB*-1/2, *AV*-4/8, *SB-M*-3/8, *SB-K*-3/8, *VS-M*-3/10, *VS-K*-3/9, *KS*-1/5)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-108, *KS*-96)
+- प्र-या᳓नम् (*TS*-2/4, *RV*-4, *SB-M*-0/4, *SB-K*-0/3, *VS-M*-2/4, *VS-K*-2/4)
+- उष᳓सः (*TS*-9/20, *RV*-127/237, *TB*-2/13, *TK*-0/1, *AV*-19/39, *SB-M*-4/12, *SB-K*-4/11, *VS-M*-10/21, *VS-K*-6/17, *KS*-5/6)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- राजति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-14, *AV*-7, *SB-M*-5, *SB-K*-5, *VS-K*-2, *KS*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -429,6 +459,18 @@ Night and the dawn, one-minded but of various form,
 United suckle one child;  
 The radiant one shineth between sky and earth [4]  
 The gods, granters of wealth, support Agni.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The sage puts on all forms; he has impelled good fortune for the two-footed, for the four-footed.  
+Savitṛ, the desirable, has illumined the firmament; he shines forth following the departure of the Dawn.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The sage puts on all forms; he has impelled good fortune for two-footed and four-footed;  
+Savitṛ, the choice one, has looked out upon the firmament; he shines following the march of Dawn.
 </details>
 
 <details><summary>Geldner</summary>

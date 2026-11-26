@@ -266,6 +266,13 @@ _________
 23अथ त्रयोविंशी - हे यविष्ठ! युवतम अग्ने! क्षितयो भूमिष्ठाः सर्वे मनुष्या अन्तितः समीपदेशात् ओत उत दूरदेशाच्च बलिं पूजामाभरन्ति आनीय प्रयच्छन्ति । भन्दिष्ठस्य अतिशयेन स्तोतुर्मम सुमतिं शोभनमतिं आचिकिद्धि सर्वतोऽनुगृहाण । हे अग्ने! ते तव शर्म शरणं बृहत् महि अधिकं कर्मभिः पूज्यं भद्रं कल्याणम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[82_10]** D उत; St पति T 3 und Brl उ᳓त᳓ (D उत; St पति T 3 and Brl उ᳓त᳓)
+
+- **[82_11]** Ch भन्धिº
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -283,6 +290,12 @@ To you, o youngest Agni, the peoples bring tribute from near and far. Attend to 
 
 To thee, Most Youthful God! to thee, O Agni from near and far the people bring their tribute.  
      Mark well the prayer of him who best extols thee. Great, high, auspicious, Agni, is thy shelter.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To you, O youngest, the settlements bring tribute, O Agni, from near and from afar;  
+know the good will of the most praising;
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -914,6 +914,12 @@ The god we meditate,
 That be may stimulate our prayers.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+That excellent splendour of god Savitṛ we contemplate,  
+who shall inspire our thoughts.
+</details>
+
 <details><summary>त्रिभुवनः</summary>
 
 may we meditate that ray worth choosing of the impelling god (Savitr); which may impell my wisdom,

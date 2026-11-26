@@ -78,6 +78,12 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 भवा॑ नः स॒प्रथ॑स्तमः॒ सखा॑ वृ॒धे ॥११४ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓प्यायस्व मदिन्तम सो᳓म वि᳓श्वेभिरँश्रु᳓भिः।  
+भ᳓वा नस्सुश्र᳓वस्तमस्स᳓खा वृधे᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । प्या॒य॒स्व॒ । म॒दि॒न्ऽत॒म॒ । सोम॑ । विश्वे॑भिः । अं॒शुऽभिः॑ ।  
@@ -92,6 +98,23 @@ vr̥dhé ← vŕ̥dh- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 आ। प्या॒य॒स्व॒। म॒दिन्त॒मेति॑ मदन॒ऽतम। सोम॑। विश्वे॑भिः। अ॒शुभि॒रित्य॒। भव॑। नः॒। स॒प्रथ॑स्तम॒ इति॑ स॒प्रथः॑ऽतमः। सखा॑। वृ॒धे॒। १३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- प्यायस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-8, *RV*-4, *TB*-2, *AV*-1, *SB-M*-7, *SB-K*-6, *VS-M*-5, *VS-K*-4, *MS*-6)
+- मदिन्तम (*MS*-2, *TS*-1, *RV*-5, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- सो᳓म (*MS*-7, *TS*-3/4, *RV*-22, *TB*-3/4, *TK*-1, *AV*-2, *SB-M*-7, *SB-K*-4, *VS-M*-3, *VS-K*-5)
+- वि᳓श्वे (*MS*-70/301, *TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-56/225, *VS-K*-47/224)
+- अभिरन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- रु᳓भिः (*RV*-0/1, *TB*-0/8, *AV*-0/1)
+- भ᳓वाः (*RV*-0/5, *TB*-0/1, *AV*-0/5, *SB-M*-1/18, *SB-K*-1/14, *MS*-2/3)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- सु-श्र᳓वः (*MS*-0/1, *RV*-0/4, *TB*-0/2, *VS-M*-0/1, *VS-K*-0/1)
+- तमः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-6, *MS*-11)
+- स᳓खा (*MS*-15/34, *TS*-10/31, *RV*-72/225, *TB*-4/12, *AV*-24/64, *SB-M*-13/20, *SB-K*-13/19, *VS-M*-15/29, *VS-K*-18/31)
+- वृधे᳓ (*MS*-3/6, *TS*-1, *RV*-34/60, *TB*-0/1, *AV*-4/8, *VS-M*-5, *VS-K*-4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -300,6 +323,13 @@ _________
 एते ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[526_13]** Kap. S. 48, 13 आप्यायस्व सं ते पयांस्याप्यायस्व मदिन्तम। स्वर्गे सधिष्ठव। तपो ष्वग्ने u. s. w. Damit sind wir schon in dem Text des folgenden Káthaka-Capitels, das ebenfalls noch in Kap. S. 48, 13 enthalten ist. (Kap. S. 48, 13 reads आप्यायस्व सं ते पयांस्याप्यायस्व मदिन्तम। स्वर्गे सधिष्ठव। तपो ष्वग्ने etc. With this we are already in the text of the following Kāṭhaka chapter, which is likewise still contained in Kap. S. 48, 13.)
+
+**समानान्तराणि:** cf. Kap. S. 48, 13.
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 संसार में कौन वृद्धि को प्राप्त होता है, यह विषय अगले मन्त्र में कहा है ॥
@@ -356,6 +386,12 @@ Become our comrade of best fame, to strengthen us.
 
 Wax, O most gladdening Soma, great through all thy rays of light, and be  
      A Friend of most illustrious fame to prosper us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Swell up, most intoxicating Soma, with all stalks;  
+be for us a most famed comrade unto growth!
 </details>
 
 <details><summary>Geldner</summary>

@@ -113,6 +113,12 @@ viśvátas ← viśvátas (invariable)
 ह॒स्त॒घ्नो विश्वा॑ व॒युना॑नि वि॒द्वान्पुमा॒न्पुमाँ॑स॒म्परि॑ पातु वि॒श्वतः॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अहिरिव भोगैः पर्येति बाहुं ज्याया हेतिं परिबाधमानः।  
+हस्तघ्नो विश्वा वयुनानि विद्वान्पुमान्पुमाँसं परिपातु विश्वतः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अहिः॑ऽइव । भो॒गैः । परि॑ । ए॒ति॒ । बा॒हुम् । ज्यायाः॑ । हे॒तिम् । प॒रि॒ऽबाध॑मानः ।  
@@ -132,6 +138,27 @@ viśvátas ← viśvátas (invariable)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अहिः॑ । इ॒व॒ । भो॒गैः । परीति॑ । ए॒ति॒ । बा॒हुम् । ज्यायाः॑ । हे॒तिम् । प॒रि॒बाध॑मान॒ इति॑ परि-बाध॑मानः ॥ ह॒स्त॒घ्न इति॑ हस्त-घ्नः । विश्वा॑ । व॒युना॑नि । वि॒द्वान् । पुमान्॑ । पुमाँ॑सम् । परीति॑ । पा॒तु॒ । वि॒श्वतः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓हिरिव (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- भोगैः᳓ (*MS*-4/10, *TS*-3/5, *RV*-1/2, *AV*-0/1, *SB-M*-1, *VS-M*-1, *VS-K*-1)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- एति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-136, *TS*-152, *RV*-120, *TB*-80, *TK*-20, *AV*-43, *SB-M*-306, *SB-K*-293, *VS-K*-2)
+- बाहु᳓म् (*MS*-1/42, *TS*-1/32, *RV*-2/40, *TB*-0/9, *AV*-1/30, *SB-M*-3/120, *SB-K*-3/122, *VS-M*-1/31, *VS-K*-1/31)
+- ज्या᳓याः (*MS*-1/14, *TS*-1/9, *RV*-2/13, *TB*-0/11, *AV*-0/9, *SB-M*-0/26, *SB-K*-0/25, *VS-M*-1/2, *VS-K*-1/3)
+- हेति᳓म् (*MS*-1/21, *TS*-1/24, *RV*-7/17, *TB*-0/3, *AV*-3/28, *SB-M*-1/29, *SB-K*-1/30, *VS-M*-1/18, *VS-K*-1/23)
+- परि-बा᳓धमानः (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- हस्त-घ्नः᳓ (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- वि᳓श्वा (*MS*-60/301, *TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224)
+- वयु᳓नानि (*MS*-5/6, *TS*-7/9, *RV*-14/21, *TB*-3, *AV*-4/5, *SB-M*-3/7, *SB-K*-3/5, *VS-M*-5/6, *VS-K*-5/6)
+- विद्वा᳓न् (*MS*-86/88, *TS*-93, *RV*-94, *TB*-49, *TK*-2, *AV*-59, *SB-M*-144, *SB-K*-127, *VS-M*-14, *VS-K*-14)
+- पु᳓मान् (*MS*-6, *TS*-6, *RV*-5, *TB*-4, *AV*-12, *SB-M*-17, *SB-K*-10, *VS-M*-2, *VS-K*-2)
+- पु᳓मांसम् (*MS*-9/11, *TS*-2, *RV*-3, *TB*-1, *AV*-9, *SB-M*-7/11, *SB-K*-6/11, *VS-M*-1, *VS-K*-1)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- पातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-42, *TS*-34, *RV*-34, *TB*-2, *TK*-1, *AV*-56, *SB-M*-16, *SB-K*-7, *VS-M*-20, *VS-K*-15)
+- विश्व᳓तः (*MS*-24, *TS*-24, *RV*-65, *TB*-2, *TK*-1, *AV*-24, *SB-M*-8, *SB-K*-7, *VS-M*-16, *VS-K*-16)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -380,6 +407,11 @@ _________
 तत्र दृष्टान्तः—विश्वा वयुनानि विद्वान्सर्वान्मार्गानभिजानानः पुमान्पुमांसमन्य पुरुषं यथा पालयति तद्वदिति शेषः।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[637_10]** So corr. Ch पुमाँसः ; vgl. RV 6, 75, 14. (Thus emended; Ch reads पुमाँसः; cf. RV 6, 75, 14)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -423,6 +455,12 @@ It compasses the arm with serpent windings, fending away the friction of the bow
 Like a snake with its coils it encircleth his arm, Fending off the friction of the bowstring,  
 Let the hand-guard, knowing all cunning,  
 Manfully guard the man on all sides.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Like a snake with coils he wraps around the arm, warding off the blow of the bowstring;  
+the hand-guard, knowing all ways of action, a man, may he protect the man on every side!
 </details>
 
 <details><summary>Geldner</summary>

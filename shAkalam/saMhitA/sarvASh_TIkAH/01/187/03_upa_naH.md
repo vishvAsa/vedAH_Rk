@@ -80,10 +80,33 @@ suśévaḥ ← suśéva- (nominal stem)
 म॒यो॒भुर॑द्विषे॒ण्यः सखा॑ सु॒शेवो॒ अद्व॑याः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+उ᳓प नः पितवा᳓चर शिव᳓श्शिवा᳓भिरूति᳓भिः।  
+मयोभू᳓रद्विषेण्य᳓स्स᳓खा सुशे᳓वो अ᳓द्वयाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उप॑ । नः॒ । पि॒तो॒ इति॑ । आ । च॒र॒ । शि॒वः । शि॒वाभिः॑ । ऊ॒तिऽभिः॑ ।  
 म॒यः॒ऽभुः । अ॒द्वि॒षे॒ण्यः । सखा॑ । सु॒ऽशेवः॑ । अद्व॑याः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓प (*MS*-488, *TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- पितो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-10, *TB*-1)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- चर (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-3, *RV*-11, *AV*-9, *SB-M*-2, *SB-K*-3, *VS-M*-11, *VS-K*-10)
+- शिवः᳓ (*MS*-23/68, *TS*-25/59, *RV*-19/50, *TB*-2/26, *TK*-0/1, *AV*-11/83, *SB-M*-22/52, *SB-K*-25/49, *VS-M*-22/53, *VS-K*-19/49)
+- शिवा᳓भिः (*MS*-4/68, *TS*-3/59, *RV*-5/50, *TB*-2/26, *TK*-0/1, *AV*-4/83, *SB-M*-0/52, *SB-K*-0/49, *VS-M*-3/53, *VS-K*-3/49)
+- ऊति᳓भिः (*MS*-10/35, *TS*-4/25, *RV*-100/345, *TB*-3/12, *AV*-12/46, *SB-M*-1/8, *SB-K*-1/6, *VS-M*-7/26, *VS-K*-6/26)
+- मयः-भूः᳓ (*TS*-7/9, *RV*-4/15, *TB*-2, *AV*-3/4, *SB-K*-5, *VS-M*-5/6, *VS-K*-5/6, *MS*-8/10)
+- अद्विषेण्यः᳓ (*RV*-1/2)
+- स᳓खा (*MS*-15/34, *TS*-10/31, *RV*-72/225, *TB*-4/12, *AV*-24/64, *SB-M*-13/20, *SB-K*-13/19, *VS-M*-15/29, *VS-K*-18/31)
+- सु-शे᳓वः (*MS*-4/9, *TS*-1/3, *RV*-15/22, *TB*-5/7, *AV*-0/8, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-2/3, *VS-K*-1/3)
+- अ᳓द्वयाः (*RV*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -184,6 +207,17 @@ _________
 हे **पितो** यतः त्वं **शिवः** मङ्गलः अतः **शिवाभिः** मङ्गलयुक्ताभिः **ऊतिभिः** रक्षणैः **नः** अस्मान् **आ** **चर** आगच्छ। आगत्य च **मयोभुः** सुखस्य भावयिता **अद्विषेण्यः** अद्वेष्यरसः प्रियरस इत्यर्थः । **सखा** सखिवत्प्रियकारी **सुशेवः** अत एव सुष्ठु सुखकरः **अद्वयाः** द्वयरहितः उक्तगुण एव न तु तद्विपरितो भवेत्यर्थः । अथवा दृष्टान्तवादोऽयम् । सुशेवोऽद्वया मनःकर्मविसंवादरहितः सखा  यथा मयोभुः अद्वेष्यश्च भवति तद्वत् त्वमपि भवेत्यर्थः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[607_1]** So T1 und Brl; in Ch पित आचर; vgl. RV 1, 187, 3. (Thus T1 and Brl; in Ch पित आचर; cf. RV 1, 187, 3.)
+
+- **[607_2]** Ch शिवा᳓ ऊतिभिः ; vgl. RV 1, 187, 3. (Ch शिवा᳓ ऊतिभिः; cf. RV 1, 187, 3.)
+
+- **[607_3]** Accent corr.; T1 und Brl म᳓योभू᳓॰; vgl. RV 1, 187, 3. (Accent emended; T1 and Brl read म᳓योभू᳓॰; cf. RV 1, 187, 3.)
+
+- **[607_4]** Ch अद्वयः ; vgl. RV 1, 187, 3. (Ch अद्वयः; cf. RV 1, 187, 3.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -207,6 +241,12 @@ joy itself, not to be despised, a very kind companion without duplicity.
 
 Come hitherward to us, O Food, auspicious with auspicious help,  
      Health-bringing, not unkind, a dear and guileless friend.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Come near to us, O food, auspicious with auspicious aids,  
+bringing joy, free from malice, a kindly friend without deceit!
 </details>
 
 <details><summary>Geldner</summary>

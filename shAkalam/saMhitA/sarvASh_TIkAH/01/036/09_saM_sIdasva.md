@@ -101,6 +101,18 @@ sr̥já ← √sr̥j- (root)
 वि धू॒मम॑ग्ने अरु॒षम्मि॑येध्य सृ॒ज प्र॑शस्त दर्श॒तम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+सँ᳓सीदस्व महं᳓ असि शो᳓चस्व देववी᳓तमः  
+वि᳓ धूम᳓म् अग्ने अरुषं᳓ मेध्य सृज᳓ प्रशस्त दर्शत᳓म्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+सँसीदस्व महाँ असि शोचस्व देववित्तमः।  
+वि धूममग्ने अरुषं विविग्धि सृज प्रशस्त दर्शतम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सम् । सी॒द॒स्व॒ । म॒हान् । अ॒सि॒ । शोच॑स्व । दे॒व॒ऽवीत॑मः ।  
@@ -120,6 +132,45 @@ sr̥já ← √sr̥j- (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 समिति॑ । सी॒द॒स्व॒ । म॒हान् । अ॒सि॒ । शोच॑स्व । दे॒व॒वीत॑म॒ इति॑ देव-वीत॑मः ॥ वीति॑ । धू॒मम् । अ॒ग्ने॒ । अ॒रु॒षम् । मि॒ये॒ध्य॒ । सृ॒ज । प्र॒श॒स्तेति॑ प्र-श॒स्त॒ । द॒र्श॒तम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- सीदस्व (*TS*-2, *RV*-1, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- मह᳓म् (*TS*-0/26, *RV*-0/364, *TB*-0/17, *TK*-0/5, *AV*-1/77, *SB-M*-0/37, *SB-K*-0/37, *VS-M*-0/35, *VS-K*-0/34, *KS*-0/22)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-341, *KS*-247)
+- शो᳓चस्व (*TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- देव-वी᳓तमः (*TS*-1, *RV*-7, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- धूम᳓म् (*TS*-4/5, *RV*-6/11, *TB*-0/5, *AV*-5/7, *SB-M*-4/25, *SB-K*-4/23, *VS-M*-3/5, *VS-K*-3/5, *KS*-0/1)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- अरुष᳓म् (*TS*-4/7, *RV*-12/57, *TB*-1/2, *AV*-4/6, *SB-M*-4/5, *SB-K*-4/5, *VS-M*-5/6, *VS-K*-3/4, *KS*-2)
+- मेध्य (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-20, *TB*-13, *TK*-1, *AV*-5, *SB-M*-55, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-3)
+- सृज᳓ (*TS*-3/5, *RV*-4, *AV*-11, *SB-M*-2/4, *SB-K*-3/5, *VS-M*-2, *VS-K*-2, *KS*-0/1)
+- प्र-शस्त (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-1, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
+- दर्शत᳓म् (*TS*-1/2, *RV*-16/39, *TB*-2/4, *TK*-0/1, *AV*-1/5, *SB-M*-5/10, *SB-K*-5/11, *VS-M*-3/6, *VS-K*-3/6, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- सीद᳓स्व (*SB-M*-1)
+- महा᳓म् (*MS*-7/38, *TS*-2/28, *RV*-27/398, *TB*-4/21, *TK*-2/6, *AV*-2/81, *SB-M*-3/42, *SB-K*-3/40, *VS-M*-18/35, *VS-K*-11/52)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- शो᳓चस्व (*MS*-2, *TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- देव-वि᳓त् (*MW* ŚBr., *SB-M*-1, *SB-K*-1)
+- त᳓मः (*Whitney*, *MS*-28/52, *TS*-22/33, *RV*-43/113, *TB*-4/13, *AV*-23/52, *SB-M*-55/82, *SB-K*-54/82, *VS-M*-10/22, *VS-K*-8/22)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- धूम᳓म् (*MS*-3/7, *TS*-4/5, *RV*-6/11, *TB*-0/5, *AV*-5/7, *SB-M*-4/25, *SB-K*-4/23, *VS-M*-3/5, *VS-K*-3/5)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- अरुष᳓म् (*MS*-6/8, *TS*-4/7, *RV*-12/57, *TB*-1/2, *AV*-4/6, *SB-M*-4/5, *SB-K*-4/5, *VS-M*-5/6, *VS-K*-4/5)
+- वि (गतिर्गतौ पा॰ ८.१.७०, *TB*-45, *TK*-3, *AV*-1, *SB-M*-424, *SB-K*-339, *VS-M*-2, *VS-K*-2, *MS*-130)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- ग्धि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1)
+- सृज᳓ (*MS*-2/4, *TS*-3/5, *RV*-4, *AV*-11, *SB-M*-2/4, *SB-K*-3/5, *VS-M*-2, *VS-K*-2)
+- प्र᳓-शस्त (*MS*-1/3, *TS*-1/2, *RV*-2)
+- दर्शत᳓म् (*MS*-3/4, *TS*-1/2, *RV*-16/39, *TB*-2/4, *TK*-0/1, *AV*-1/5, *SB-M*-5/10, *SB-K*-5/11, *VS-M*-3/6, *VS-K*-3/6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -373,6 +424,24 @@ Seat thee, for thou art mighty; shine, best entertainer of the Gods.
 Sit thou down, thou art great,  
 Burn [3] best servant of the gods;  
 O Agni, pure one, send forth the ruddy smoke, O famous one, that can be seen afar.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+"Sit down together, you are great; flame up, most welcoming to the gods!  
+Send forth the ruddy smoke, O Agni, worthy of sacrifice, praised, handsome!"
+</details>
+
+<details><summary>Gemini 3.8 Flash (मैत्रायणीयम्)</summary>
+
+Sit down, thou art great; glow forth, most eager to entertain the gods;  
+spread out the reddish smoke, O praised one, holy, wonderful to behold.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Sit down together; great are you; shine forth, best knower of the gods.  
+Separate the red smoke, o Agni; let loose what is praiseworthy and lovely to behold.
 </details>
 
 <details><summary>Oldenberg</summary>

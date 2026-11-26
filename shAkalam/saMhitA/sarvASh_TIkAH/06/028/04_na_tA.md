@@ -272,6 +272,11 @@ ___________________
 **ता गाव उरुगायं** विस्तीर्णगतियोग्यं भयरहितं स्थानं प्राप्य **विचरन्ति** विस्रम्भेण चरन्ति ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[198_5]** D मर्त्यस्य
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -310,6 +315,12 @@ The word order in pāda b is somewhat aberrant. The fem. pl. subj. tā́(ḥ) oc
 
 The charger with his dusty brow o'ertakes them not, and never to the shambles do they take their way.  
      These Cows, the cattle of the pious worshipper, roam over widespread pasture where no danger is.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The horse throwing up dust in the nape of the neck does not overtake them, nor do they go to the slaughter-bench;  
+following the far-striding, fearless [path] of that mortal who sacrifices, the cows wander.
 </details>
 
 <details><summary>Geldner</summary>

@@ -198,6 +198,11 @@ _________
 हे अग्ने तवोतिभिः रक्षाभिः । 'ऊतियूति' इति क्तिन उदात्तत्वं निपात्यते । सुवीराभिः शोभनपुत्राद्यपत्यहेतुभिः । 'वीरवीर्यौ च' इत्युत्तरपदाद्युदात्तत्वम् । वाजकर्मभिः वाजस्यान्नस्य साधनानि कर्माणि भवन्ति यासु सतीषु तादृशीभिः त्वत्कर्तृकाभिरूतिभिः प्रतरति प्रकर्षेण तरति सामर्थ्याद्दुःखं संसारदुःखं वा स पुरुषः । कः? यस्य सख्यं समानख्यानतां समानभोजनतां तेन यष्टव्यतां त्वं आविथ आरक्षितवानसि गतवानित्यर्थः । 'थलि च सेटीडन्तो वा' इत्याद्युदात्तत्वम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[176_3]** Ch वाजभदभिः
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -228,6 +233,12 @@ Agni, he conquers by thine aid that brings him store of noble heroes and great s
 He by thy help, O Agni,  
 With good heroes, making strength, is victorious,  
 Whose companionship thou dost favour.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+he advances through your protections, rich in heroes, bringing prizes,  
+whose friendship you have chosen.
 </details>
 
 <details><summary>Geldner</summary>

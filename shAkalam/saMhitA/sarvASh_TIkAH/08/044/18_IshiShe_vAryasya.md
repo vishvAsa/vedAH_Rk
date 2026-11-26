@@ -69,10 +69,30 @@ táva ← tvám (pronoun)
 स्तो॒ता स्यां॒ तव॒ शर्म॑णि ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ई᳓शिषे वा᳓र्यस्य हि᳓ दात्र᳓स्याग्ने स्व᳙र्पतिः।  
+स्तोता᳓ स्यां तव श᳓र्मणि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ईशि॑षे । वार्य॑स्य । हि । दा॒त्रस्य॑ । अ॒ग्ने॒ । स्वः॑ऽपतिः ।  
 स्तो॒ता । स्या॒म् । तव॑ । शर्म॑णि ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ई᳓शिषे (*RV*-6, *VS-M*-1, *VS-K*-1)
+- वा᳓र्यस्य (*MS*-0/11, *TS*-0/3, *RV*-3/54, *TB*-0/5, *TK*-0/1, *AV*-0/8, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/5, *VS-K*-0/5)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- दात्र᳓स्य (*MS*-0/11, *TS*-0/5, *RV*-2/12, *TB*-0/3, *AV*-0/15, *SB-M*-0/8, *SB-K*-0/6, *VS-M*-0/5, *VS-K*-0/5)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- स्व᳙र्-पतिः (*MW*)
+- स्तोता᳓ (*MS*-0/6, *TS*-1/6, *RV*-12/103, *TB*-0/3, *TK*-0/1, *AV*-1/17, *SB-M*-1/4, *SB-K*-1/2, *VS-M*-0/6, *VS-K*-0/5)
+- स्याम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-14, *TS*-15, *RV*-8, *TB*-24, *TK*-1, *AV*-2, *SB-M*-10, *SB-K*-14, *VS-M*-3, *VS-K*-2)
+- तव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *MS*-1)
+- श᳓र्मणि (*MS*-1/37, *TS*-1/41, *RV*-11/111, *TB*-0/13, *AV*-1/46, *SB-M*-1/21, *SB-K*-1/21, *VS-M*-2/23, *VS-K*-2/19)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -150,6 +170,11 @@ _________
 हे **अग्ने** **स्वर्पतिः** स्वर्गस्य स्वामी त्वं **वार्यस्य** वरणीयस्य **दात्रस्य** दातव्यस्य धनस्य **ईशिषे** ईश्वरोऽसि । **शर्मणि** सुखे निमित्ते **तव** **स्तोता** **स्यां** भवेयम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[614_2]** W 1 शर्मणे ; vgl. RV 8, 44, 18. (W 1 शर्मणे; cf. RV 8, 44, 18.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -167,6 +192,12 @@ Because you hold sway over a choice gift, Agni, as lord of the sun, might I, you
 
 For, Agni, thou as Lord of Light rulest o'er choicest gifts: may I,  
      Thy singer, find defence in thee.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For you rule over desirable gift-giving, O Agni, lord of heaven;  
+may I, your praiser, be in your shelter!
 </details>
 
 <details><summary>Geldner</summary>

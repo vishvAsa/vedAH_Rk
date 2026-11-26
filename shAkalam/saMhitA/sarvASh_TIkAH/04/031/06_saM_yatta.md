@@ -75,10 +75,31 @@ tvé ← tvám (pronoun)
 अध॒ त्वे अध॒ सूर्ये॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सं᳓ य᳓त्त इन्द्र मन्यवस्सं᳓ चक्रा᳓णि दधन्विरे᳓।  
+अ᳓ध त्वे᳓ अ᳓ध सू᳓र्ये
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सम् । यत् । ते॒ । इ॒न्द्र॒ । म॒न्यवः॑ । सम् । च॒क्राणि॑ । द॒ध॒न्वि॒रे ।  
 अध॑ । त्वे इति॑ । अध॑ । सूर्ये॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- य᳓त्ते (*MS*-0/1, *TS*-18, *TB*-2, *TK*-1)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- मन्यवः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- चक्रा᳓णि (*MS*-0/5, *TS*-0/5, *RV*-1/53, *TB*-1/3, *AV*-0/22, *SB-M*-1/23, *SB-K*-2/43, *VS-M*-0/1, *VS-K*-0/1)
+- दधन्विरे᳓ (*RV*-4)
+- अ᳓ध (*MS*-10, *TS*-8/9, *RV*-195, *TB*-4/5, *TK*-1, *AV*-39, *SB-M*-3/7, *SB-K*-4/9, *VS-M*-11, *VS-K*-15/19)
+- त्वे᳓ (*MS*-6/301, *TS*-8/261, *RV*-72/980, *TB*-7/122, *TK*-0/14, *AV*-10/458, *SB-M*-8/270, *SB-K*-15/273, *VS-M*-5/167, *VS-K*-5/142)
+- अ᳓ध (*MS*-10, *TS*-8/9, *RV*-195, *TB*-4/5, *TK*-1, *AV*-39, *SB-M*-3/7, *SB-K*-4/9, *VS-M*-11, *VS-K*-15/19)
+- सू᳓र्ये (*MS*-4/143, *TS*-7/109, *RV*-22/337, *TB*-7/75, *TK*-0/8, *AV*-7/173, *SB-M*-8/152, *SB-K*-6/151, *VS-M*-5/38, *VS-K*-3/47)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -186,6 +207,12 @@ Since your battle-frenzies, o Indra, since your chariot-wheels have  converged (
 
 What time thy courage and his wheels together, Indra, run their course  
      With thee and with the Sun alike,
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When your furies, O Indra, when your wheels speed together,  
+then in you, then in the sun.
 </details>
 
 <details><summary>Geldner</summary>

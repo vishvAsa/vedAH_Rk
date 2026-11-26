@@ -69,10 +69,30 @@ suvī́ryam ← suvī́rya- (nominal stem)
 स नो॑ रास्व सु॒वीर्य॑म् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वा᳓मग्रे वाजसा᳓तमं वि᳓प्रा वर्धन्ति सु᳓ष्टुतम्।  
+स᳓ नो रास्व सुवी᳓र्यम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वाम् । अ॒ग्ने॒ । वा॒ज॒ऽसात॑मम् । विप्राः॑ । व॒र्ध॒न्ति॒ । सुऽस्तु॑तम् ।  
 सः । नः॒ । रा॒स्व॒ । सु॒ऽवीर्य॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्वा᳓म् (*MS*-33/382, *TS*-36/313, *RV*-179/1488, *TB*-16/152, *TK*-4/39, *AV*-69/628, *SB-M*-21/387, *SB-K*-19/387, *VS-M*-28/216, *VS-K*-27/180)
+- अग्रे (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-1, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-3, *MS*-2)
+- वाज-सा᳓तमम् (*MS*-1/4, *TS*-1/2, *RV*-4/6)
+- वि᳓प्रा (*MS*-7/26, *TS*-2/24, *RV*-5/223, *TB*-1/8, *AV*-1/32, *SB-M*-4/17, *SB-K*-4/15, *VS-M*-7/18, *VS-K*-1/20)
+- वर्धन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-1, *RV*-11, *TB*-3, *AV*-1, *SB-M*-1)
+- सु᳓-स्तुतम् (*TS*-1, *RV*-1/11, *AV*-0/1, *MS*-1)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- रास्व (*MS*-4, *TS*-5, *RV*-8, *TB*-1, *AV*-3)
+- सु-वी᳓र्यम् (*MS*-12/14, *TS*-14/19, *RV*-57/75, *TB*-6/8, *AV*-4/7, *SB-M*-8/9, *SB-K*-7/9, *VS-M*-3/4, *VS-K*-0/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -204,6 +224,11 @@ The priests make thee grow, O Agni, the greatest acquirer of wealth, the highly 
 Thee, O Agni, best gainer of booty,  
 The sages nourish, well lauded;  
 Do thou give us wealth of heroes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the well-praised songs of my hymns magnify you! Do you always protect us with blessings!
 </details>
 
 <details><summary>Geldner</summary>

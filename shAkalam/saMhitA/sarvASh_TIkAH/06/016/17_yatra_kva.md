@@ -72,10 +72,32 @@ tátra ← tátra (invariable)
 तत्रा॒ सदः॑ कृणवसे ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+यत्रो क्वच ते मनो दक्षं दधस उत्तरम्।  
+तत्रा सदः कृणवसे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत्र॑ । क्व॑ । च॒ । ते॒ । मनः॑ । दक्ष॑म् । द॒ध॒से॒ । उत्ऽत॑रम् ।  
 तत्र॑ । सदः॑ । कृ॒ण॒व॒से॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- रः᳓ (*TK*-1, *SB-M*-1)
+- क्व᳙ (*MS*-7, *TS*-6, *RV*-41, *TB*-4, *AV*-16, *SB-M*-30, *SB-K*-32)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- म᳓नः (*Whitney*, *MS*-64/147, *TS*-65/141, *RV*-90/238, *TB*-23/72, *TK*-11/17, *AV*-75/161, *SB-M*-198/343, *SB-K*-191/312, *VS-M*-41/86, *VS-K*-33/78)
+- द᳓क्षम् (*MS*-3/19, *TS*-3/13, *RV*-29/92, *TB*-1/5, *TK*-0/2, *AV*-8/11, *SB-M*-0/10, *SB-K*-0/13, *VS-M*-2/12, *VS-K*-2/13)
+- दधसे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1)
+- उ᳓त्तरम् (*MS*-23/77, *TS*-20/88, *RV*-7/59, *TB*-11/54, *TK*-0/5, *AV*-12/38, *SB-M*-65/258, *SB-K*-63/235, *VS-M*-6/12, *VS-K*-5/12)
+- त᳓त्रा (*MS*-0/20, *TS*-1/15, *RV*-0/22, *TB*-0/30, *TK*-0/1, *AV*-0/62, *SB-M*-0/211, *SB-K*-0/207, *VS-M*-0/7, *VS-K*-0/7)
+- स᳓दः (*Whitney*, *MS*-28/57, *TS*-32/57, *RV*-13/200, *TB*-4/17, *AV*-7/43, *SB-M*-40/92, *SB-K*-25/66, *VS-M*-9/24, *VS-K*-4/18)
+- कृणवसे (*RV*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -170,6 +192,11 @@ _________
 हे अग्ने **ते** तव **मनः** अनुग्रहात्मकमन्तःकरणं **यत्र** यस्मिन् देशे **क्व** **च** कस्मिंश्चिद्यजमाने वर्तते **तत्र** तस्मिन् यजमाने **उत्तरम्** उद्धततरं श्रेष्ठं **दक्षं** बलकरमन्नं वा **दधसे** धारयसि । तथा **सदः** स्थानं च **कृणवसे** । तस्मिन् यजमाने करोषि ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[314_1]** So Ch; cf. RV 6, 16, 17 **यत्र ** (Thus Ch; cf. RV 6, 16, 17 यत्र)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -194,6 +221,12 @@ The temptation is very strong to take dadhase, despite its lack of accent, as th
 
 Where'er tby mind applies itself, vigour preeminent bast thou:  
      There wilt thou gain a dwelling-place.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+whithersoever thy mind and thy superior skill thou mayest direct,  
+there shalt thou make a seat.
 </details>
 
 <details><summary>Geldner</summary>

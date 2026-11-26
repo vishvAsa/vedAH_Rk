@@ -75,10 +75,32 @@ vocaḥ ← √vac- (root)
 अग्ने॑ दे॒वेषु॒ प्र वो॑चः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इम᳓म् उ षु᳓ त्व᳓म् अस्मा᳓कँ सनिं᳓ गायत्रं᳓ न᳓व्याँसम्  
+अग्नि᳓र् देवे᳓षु प्र᳓ वोच
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒मम् । ऊं॒ इति॑ । सु । त्वम् । अ॒स्माक॑म् । स॒निम् । गा॒य॒त्रम् । नव्यां॑सम् ।  
 अग्ने॑ । दे॒वेषु॑ । प्र । वो॒चः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इम᳓म् (*TS*-107/965, *RV*-136/1247, *TB*-50/567, *TK*-3/57, *AV*-148/1259, *SB-M*-203/5239, *SB-K*-219/5549, *VS-M*-46/313, *VS-K*-51/289, *KS*-38/319)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6, *KS*-77)
+- षु᳓ (*TS*-8, *TB*-0/1, *SB-M*-1, *SB-K*-4, *VS-K*-3/4, *KS*-5/6)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- अस्मा᳓कम् (*TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/314, *VS-K*-14/265, *KS*-12/242)
+- सनि᳓म् (*TS*-4/8, *RV*-14/37, *TB*-1/2, *AV*-1/2, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-2, *VS-K*-1/2)
+- गायत्र᳓म् (*TS*-13/51, *RV*-9/19, *TB*-3/12, *AV*-1/4, *SB-M*-25/67, *SB-K*-25/63, *VS-M*-4/17, *VS-K*-3/14, *KS*-5/10)
+- न᳓व्यांसम् (*RV*-1)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-122/322, *VS-K*-113/339, *KS*-111/256)
+- देवे᳓षु (*TS*-41/1025, *RV*-100/1342, *TB*-13/582, *TK*-1/32, *AV*-26/707, *SB-M*-41/2031, *SB-K*-46/1945, *VS-M*-35/517, *VS-K*-30/498, *KS*-13/317)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- वोच (*TS*-1, *RV*-2, *TB*-1, *AV*-14, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1, *KS*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -195,6 +217,12 @@ you shall proclaim among the gods, o Agni.
 
 O Agni, graciously announce this our oblation to the Gods,  
      And this our newest song of praise.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This our gaining, this newest gāyatra [song],  
+proclaim well, O Agni, among the gods.
 </details>
 
 <details><summary>Oldenberg</summary>

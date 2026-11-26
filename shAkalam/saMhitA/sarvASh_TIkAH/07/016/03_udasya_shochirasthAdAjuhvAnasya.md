@@ -89,10 +89,32 @@ sám ← sám (invariable)
 उद्धू॒मासो॑ अरु॒षासो॑ दिवि॒स्पृश॒स्सम॒ग्निमि॑न्धते॒ नरः॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+उदस्य शोचिरस्थादाजुव्हानस्य मीढुषः।  
+उद्धूमासो अरुषासो दिविस्पृशस्समग्निमिन्धते नरः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उत् । अ॒स्य॒ । शो॒चिः । अ॒स्था॒त् । आ॒ऽजुह्वा॑नस्य । मी॒ळ्हुषः॑ ।  
 उत् । धू॒मासः॑ । अ॒रु॒षासः॑ । दि॒वि॒ऽस्पृशः॑ । सम् । अ॒ग्निम् । इ॒न्ध॒ते॒ । नरः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- अस्य (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-398, *TS*-315, *RV*-415, *TB*-178, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-590, *VS-M*-56, *VS-K*-45)
+- शो᳓चिरस्थादाजुव्हानस्य (अनाम्नातम् (अनुमानम्))
+- मीढु᳓षः (*MS*-1/4, *TS*-2/4, *RV*-12/25, *TB*-0/6, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1/3, *VS-K*-0/1)
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- धूमा᳓सः (*MS*-0/7, *TS*-1/5, *RV*-1/11, *TB*-0/5, *AV*-0/7, *SB-M*-0/25, *SB-K*-0/23, *VS-M*-0/5, *VS-K*-0/5)
+- अरुषा᳓सः (*MS*-0/8, *TS*-1/7, *RV*-8/57, *TB*-0/2, *AV*-1/6, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-0/6, *VS-K*-0/5)
+- दिवि-स्पृ᳓शः (*MS*-1, *TS*-1, *RV*-2)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- इन्धते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-3, *RV*-11, *AV*-5, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- न᳓रः (*MS*-15/25, *TS*-14/19, *RV*-127/286, *TB*-8/13, *TK*-1, *AV*-15/32, *SB-M*-11/18, *SB-K*-10/18, *VS-M*-5/11, *VS-K*-4/10)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -202,6 +224,11 @@ _________
 अस्याग्नेः शोजिर्दीप्तिरुदस्थादुत्थितम्।   कीदृशस्याग्नेः आजुह्वानस्य सर्वतो होमनिष्पादकस्य, मीढुष  आहुतिद्वारा वृष्टिसेचनसमर्थस्य।   उद्धूमासो धूमाश्वोत्थिता अरुषासो रोषरहितास्वक्षुराद्युपद्रवमकुर्वन्त इत्यर्थः।   दिविस्पृश आकाशस्पर्शिनोऽत्युन्नता इत्यर्थः।   यथेतत्सर्वं भवति तथा नर ऋत्विग्यजमाना अग्निमिन्धते दीपयन्ति।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[598_2]** So corr. Ch शुचिर॰ ; vgl. RV 7, 16, 3; TS 4, 4, 4, 5. (Thus emended; Ch reads शुचिर॰; cf. RV 7, 16, 3; TS 4, 4, 4, 5)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -228,6 +255,12 @@ The radiance of the bounteous offerer
 Hath mounted on high,  
 The ruddy smoke (riseth) touching the sky;  
 Men in unison kindle Agni.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Up has arisen the flame of him, the bounteous one being invoked with oblations;  
+up rise the ruddy smoke-clouds touching heaven; the men kindle Agni completely.
 </details>
 
 <details><summary>Geldner</summary>

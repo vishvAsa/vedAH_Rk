@@ -72,10 +72,31 @@ tátas ← tátas (invariable)
 इन्द्रे॒ह तत॒ आ ग॑हि ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+य᳓द् अन्तरा᳓ पराव᳓तम् अर्वाव᳓तं च हूय᳓से  
+इ᳓न्द्रेह᳓ त᳓ता आ᳓गहि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । अ॒न्त॒रा । प॒रा॒ऽवत॑म् । अ॒र्वा॒ऽवत॑म् । च॒ । हू॒यसे॑ ।  
 इन्द्र॑ । इ॒ह । ततः॑ । आ । ग॒हि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- अन्तरा᳓ (*TS*-22, *RV*-7, *TB*-10, *AV*-24, *SB-M*-46/52, *SB-K*-46/48, *VS-M*-10, *VS-K*-7, *KS*-4/8)
+- परा-व᳓तम् (*TS*-3/12, *RV*-3/64, *TB*-5/7, *AV*-4/23, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-0/5, *VS-K*-0/4, *KS*-0/3)
+- अर्वा-व᳓तम् (*RV*-1/12, *AV*-1/5)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- हूय᳓से (*RV*-3, *AV*-2)
+- इ᳓न्द्र (*TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-24/26, *KS*-16/18)
+- इह᳓ (*TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-89, *VS-K*-83, *KS*-43)
+- त᳓ताः (*TS*-1/135, *RV*-0/23, *TB*-0/129, *TK*-0/22, *AV*-0/76, *SB-M*-0/425, *SB-K*-0/387, *VS-M*-0/22, *VS-K*-0/19, *KS*-0/28)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- गहि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-7, *RV*-79, *TB*-1, *AV*-20, *SB-M*-3, *SB-K*-3, *VS-M*-6, *VS-K*-6, *KS*-4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -180,7 +201,10 @@ Indra, come here from there.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/040/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 On the “magic square” of these vss., see published introduction. Vs. 9 actually seems to be covering the logical possibility that Indra might not be either far or near but somewhere in between, and in that case the exhortation in vs. 8 to come from nearby or far away might not work.
+</details>
 </details>
 </div>
 
@@ -188,6 +212,12 @@ On the “magic square” of these vss., see published introduction. Vs. 9 actua
 
 When from the space between the near and far thou art invoked by us,  
      Thence, Indra. come thou hitherward.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+If thou art invoked midway between far and near,  
+come here from there, O Indra!
 </details>
 
 <details><summary>Geldner</summary>

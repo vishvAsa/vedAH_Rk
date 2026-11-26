@@ -172,6 +172,11 @@ _________
 पूर्वम् अन्नसामान्येन स्तुत्वा इदानीं सोमलक्षणमन्नं स्तौति । हे **सोम** **ते** तव **यत्** यम् अंशं **गवाशिरः** गोविकारक्षीराद्याश्रयणद्रव्यं **यवाशिरः** यवविकाराश्रयणद्रव्यं **भजामहे** सेवामहे तेन हे **वातापे** शरीर **पीवः** भव ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[607_10]** Vers करम्भ ओषधी (sic); in T1 und Brl steht derselbe an der richtigen Stelle. 10. So T1 und Brl; in Ch गश्राशिरो; vgl. RV 1, 187, 9. (Verse करम्भ ओषधी (sic); in T1 and Brl it stands in the right place. 10. Thus T1 and Brl; in Ch गश्राशिरो; cf. RV 1, 187, 9.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -194,6 +199,12 @@ o you friend of the winds—become just the fat.
 <details><summary>Griffith</summary>
 
 What Soma, we enjoy from thee in milky food or barley-brew, Vatapi, grow thou fat thereby.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Since, O Soma, we share in your milk-mixture and your barley-mixture,  
+O Vātāpi, become fat!
 </details>
 
 <details><summary>Geldner</summary>

@@ -190,6 +190,12 @@ And abundance day by day,
 Glory, full of heroes.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through Agni one may obtain wealth, prosperity day by day,  
+glorious, most rich in heroes.
+</details>
+
 <details><summary>Oldenberg</summary>
 
 May one obtain through Agni wealth and welfare day by day, which may bring glory and high bliss of valiant offspring.

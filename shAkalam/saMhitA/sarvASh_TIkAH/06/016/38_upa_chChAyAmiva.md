@@ -69,10 +69,29 @@ híraṇyasaṁdr̥śaḥ ← híraṇyasaṁdr̥ś- (nominal stem)
 अग्ने॒ हिर॑ण्यसन्दृशः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+उ᳓प छाया᳓मिव घृ᳓णेर᳓गन्म श᳓र्म ते वय᳓म्।  
+अ᳓ग्ने हि᳓रण्यसन्दृशः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उप॑ । छा॒याम्ऽइ॑व । घृणेः॑ । अग॑न्म । शर्म॑ । ते॒ । व॒यम् ।  
 अग्ने॑ । हिर॑ण्यऽसन्दृशः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓प (*MS*-488, *TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60)
+- छाया᳓मिव (*RV*-1, *AV*-1)
+- घृ᳓णेः (*MS*-1/2, *TS*-0/1, *RV*-1, *TB*-1, *TK*-0/1, *AV*-0/1, *SB-M*-0/3, *SB-K*-0/4, *VS-M*-0/1, *VS-K*-0/1)
+- अ᳓गन्म (*MS*-6, *TS*-4, *RV*-10, *TB*-3, *TK*-1, *AV*-5, *SB-M*-7, *SB-K*-9, *VS-M*-7, *VS-K*-5)
+- श᳓र्म (*MS*-35/37, *TS*-39/41, *RV*-93/111, *TB*-12/13, *AV*-44/46, *SB-M*-20/21, *SB-K*-20/21, *VS-M*-13/23, *VS-K*-10/19)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- वय᳓म् (*MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- हि᳓रण्य-सन्दृशः (*MS*-1, *RV*-2, *TB*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -158,6 +177,11 @@ _________
 हे **अग्ने** **हिरण्यसंदृशः** हितरमणीयतेजसो हिरण्यवद्रोचमानतेजसो वा **घृणेः** दीप्तस्य **ते** तव **शर्म** शरणमाश्रयणम् **उप** **अगन्म** उपगच्छाम । तत्र दृष्टान्तः । **छायामिव** । यथा घर्मार्ताः संतप्ताश्छायामुपगच्छन्ति तद्वत् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[613_5]** Ch गृणेर॰ ; vgl. RV 6, 16, 38. (Ch गृणेर॰; cf. RV 6, 16, 38.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -177,6 +201,12 @@ o Agni of golden appearance—794 VI.17
 
 To thee for shelter are we come, as to the shade from fervent heat  
      Agni, who glitterest like gold.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As unto shade from scorching heat, we have approached your shelter,  
+O Agni, of golden appearance!
 </details>
 
 <details><summary>Geldner</summary>

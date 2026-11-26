@@ -172,6 +172,13 @@ ________________
 व्याख्याता चेयं 'अन्वह मासाः' इत्यत्र । रेवतीर्धनवत्यः नोस्माकं सधमादः सहमाद्यन्त्यः इन्द्रे सन्तु तुविवाजाः चरुपुरोडाशादिबह्वन्नाः याभिर्वयं क्षुमन्तश्शब्दयन्तः स्तुवन्तः मदेम माद्येम ता इन्द्रार्थमस्माकं बह्वन्नास्सन्तु, सर्वार्थसाधनभूता आप उच्यन्ते ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[103_1]** Dies Kap. auch collat. mit T1, L und Brl; darnach auch accentuirt. (This chap. is also collated with T1, L, and Brl; also accented according to them.)
+
+- **[103_2]** Ch रेवतीन्नस्सदमाद
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -210,6 +217,12 @@ Wherewith we may rejoice in food.
 <details><summary>Keith (तैत्तिरीयम्)</summary>
 
 Rich banquets be ours with Indra, With mighty strength, Wherewith fed we may rejoice.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the wealthy ones, rich in prizes, be in common revelry for us in Indra,  
+with whom we, possessing livestock, would rejoice.
 </details>
 
 <details><summary>Geldner</summary>

@@ -72,6 +72,12 @@ sámūḷham ← √vah- (root)
 समू॑ळ्हमस्य पांसु॒रे ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इदं᳓ वि᳓ष्णुर्वि᳓चक्रमे त्रेधा᳓ नि᳓दधे पद᳓म्।  
+स᳓मूढमस्य पाँसुरे᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒दम् । विष्णुः॑ । वि । च॒क्र॒मे॒ । त्रे॒धा । नि । द॒धे॒ । प॒दम् ।  
@@ -217,6 +223,12 @@ Through all this world strode Visnu; thrice his foot he planted, and the whole
 Over this Visnu strode;  
 Thrice did he set down his foot;  
 (All) is gathered [1] in its dust.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This Viṣṇu strode out; thrice he planted his foot;  
+it is gathered up in its dust.
 </details>
 
 <details><summary>Geldner</summary>

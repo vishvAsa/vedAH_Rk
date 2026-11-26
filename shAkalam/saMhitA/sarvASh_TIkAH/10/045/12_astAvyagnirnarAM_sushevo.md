@@ -92,6 +92,12 @@ suvī́ram ← suvī́ra- (nominal stem)
 अ॒द्वे॒षे द्यावा॑पृथि॒वी हु॑वेम॒ देवा॑ ध॒त्त र॒यिम॒स्मे सु॒वीर॑म् ॥२९ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓स्ताव्य् अग्नि᳓र् नृणाँ᳓ सुशे᳓वो वैश्वानर᳓ ऋ᳓षिभिः सो᳓मगोपाः  
+अद्वेष्ये᳓ द्या᳓वापृथिवी᳓ हुवे दे᳓वा धत्त रयि᳓म् अस्मे᳓ सुवी᳓रम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अस्ता॑वि । अ॒ग्निः । न॒राम् । सु॒ऽशेवः॑ । वै॒श्वा॒न॒रः । ऋषि॑ऽभिः । सोम॑ऽगोपाः ।  
@@ -106,6 +112,25 @@ suvī́ram ← suvī́ra- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अस्ता॑वि। अ॒ग्निः। न॒राम्। सु॒शेव॒ इति॑ सु॒ऽशेवः॑। वै॒श्वा॒न॒रः। ऋषि॑भि॒रित्यृषि॑ऽभिः। सोम॑गोपा॒ इति॒ सोम॑ऽगोपाः। अ॒द्वे॒षेऽइत्य॑द्वे॒षे। द्यावा॑पृथि॒वीऽइति॒ द्यावा॑पृथि॒वी। हु॒वे॒म॒। देवाः॑। ध॒त्त। र॒यिम्। अ॒स्मेऽइत्य॒स्मे। सु॒वीर॒मिति॑ सु॒ऽवीर॑म्। १२।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓स्तावि (*RV*-5, *AV*-1, *VS-M*-1, *VS-K*-1)
+- अग्निः᳓ (*TS*-403/1195, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-122/322, *VS-K*-113/339, *KS*-111/256)
+- नृणा᳓म् (*TS*-1, *RV*-26, *TB*-2, *AV*-5, *VS-M*-1, *VS-K*-1)
+- सु-शे᳓वः (*TS*-1/3, *RV*-15/22, *TB*-5/7, *AV*-0/8, *SB-M*-2/5, *SB-K*-2/5, *VS-M*-2/3, *VS-K*-1/3, *KS*-3/4)
+- वैश्वानरः᳓ (*TS*-40/104, *RV*-20/42, *TB*-7/20, *TK*-3/4, *AV*-14/31, *SB-M*-61/147, *SB-K*-55/140, *VS-M*-10/36, *VS-K*-7/31, *KS*-8/22)
+- ऋ᳓षिभिः (*TS*-0/56, *RV*-10/101, *TB*-0/5, *TK*-0/8, *AV*-7/70, *SB-M*-1/125, *SB-K*-1/130, *VS-M*-2/32, *VS-K*-1/32, *KS*-1/16)
+- सो᳓म-गोपाः (*TS*-1, *RV*-2, *VS-M*-2, *VS-K*-2)
+- अद्वेष्ये᳓ (मूल-पाठः)
+- द्या᳓वा-पृथिवी᳓ (*TS*-43/52, *RV*-65, *TB*-26/29, *AV*-63/68, *SB-M*-64/88, *SB-K*-42/63, *VS-M*-37/46, *VS-K*-29/37, *KS*-17/18)
+- हुवे (*TS*-18, *RV*-44, *TB*-2, *AV*-18, *SB-M*-1, *VS-M*-2, *VS-K*-2, *KS*-4)
+- दे᳓वाः (*TS*-11, *RV*-15/30, *TB*-5/10, *TK*-2, *AV*-15/17, *SB-M*-9/10, *SB-K*-15/19, *VS-M*-6/10, *VS-K*-4/18, *KS*-7/11)
+- धत्त (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-16, *RV*-8, *TB*-3, *AV*-19, *SB-M*-11, *SB-K*-6, *VS-M*-9, *VS-K*-8, *KS*-5)
+- रयि᳓म् (*TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-24/35, *VS-K*-22/32, *KS*-17/27)
+- अस्मे᳓ (*TS*-31/565, *RV*-211/1308, *TB*-17/270, *TK*-0/66, *AV*-14/1252, *SB-M*-19/723, *SB-K*-17/728, *VS-M*-27/314, *VS-K*-31/265, *KS*-25/242)
+- सु-वी᳓रम् (*TS*-7/26, *RV*-24/92, *TB*-6/13, *AV*-3/22, *SB-M*-1/6, *SB-K*-1/7, *VS-M*-4/12, *VS-K*-5/13, *KS*-3/13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -362,6 +387,12 @@ We would invoke Heaven and Earth, the two without hatred. O gods,  establish wea
 
 Agni, the Friend of men, the Soma's keeper, Vaisvanara, hath been lauded by the Rsis.  
      We will invoke benignant Earth and Heaven: ye Deities, give us wealth with hero children.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni, very kind to men, Vaiśvānara, protector of soma, has been praised by the ṛṣis.  
+I invoke heaven and earth, free of enmity: O gods, grant us wealth rich in heroes!
 </details>
 
 <details><summary>Geldner</summary>

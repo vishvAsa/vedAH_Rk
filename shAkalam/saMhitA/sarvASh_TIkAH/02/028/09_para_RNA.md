@@ -104,10 +104,41 @@ varuṇa ← váruṇa- (nominal stem)
 अव्यु॑ष्टा॒ इन्नु भूय॑सीरु॒षास॒ आ नो॑ जी॒वान्व॑रुण॒ तासु॑ शाधि ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+प᳓र ऋणा᳓ सावीर् अ᳓ध म᳓त्कृतानि मा᳓हँ᳓ राजन्न् अन्यकृतेन भोजम्  
+अ᳓व्युष्टा इ᳓न् नु᳓ भू᳓यसीर् उषा᳓सा आ᳓ नो वीरा᳓न् वरुण ता᳓सु शाधि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 परा॑ । ऋ॒णा । सा॒वीः॒ । अध॑ । मत्ऽकृ॑तानि । मा । अ॒हम् । रा॒ज॒न् । अ॒न्यऽकृ॑तेन । भो॒ज॒म् ।  
 अवि॑ऽउष्टाः । इत् । नु । भूय॑सीः । उ॒षसः॑ । आ । नः॒ । जी॒वान् । व॒रु॒ण॒ । तासु॑ । शा॒धि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प᳓रः (*TS*-1, *RV*-4, *TB*-6, *AV*-3, *SB-M*-18, *SB-K*-16, *VS-M*-3, *VS-K*-3)
+- ऋणा᳓ (*TS*-0/1, *RV*-3/9, *TB*-0/2, *AV*-2/10, *SB-M*-1/9, *SB-K*-1/8)
+- सावीः (*TS*-2, *RV*-3, *SB-M*-1, *SB-K*-1, *VS-K*-1)
+- अ᳓ध (*TS*-8/10, *RV*-195, *TB*-4/5, *TK*-1, *AV*-39, *SB-M*-3/7, *SB-K*-4/9, *VS-M*-11, *VS-K*-10/14, *KS*-6/7)
+- म᳓त्-कृतानि (*RV*-1)
+- मा᳓ (*TS*-205, *RV*-389, *TB*-111, *TK*-16, *AV*-415, *SB-M*-206, *SB-K*-183, *VS-M*-146, *VS-K*-106, *KS*-78)
+- अह᳓म् (*TS*-162/565, *RV*-198/1308, *TB*-68/270, *TK*-30/66, *AV*-254/1252, *SB-M*-268/723, *SB-K*-254/728, *VS-M*-61/314, *VS-K*-38/265, *KS*-58/242)
+- राजन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-19, *RV*-42, *TB*-10, *AV*-18, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-2, *KS*-7)
+- अन्य-कृतेन (मूल-पाठः)
+- भोजम् (*RV*-1)
+- अ᳓-व्युष्टाः (*MW*)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-60, *VS-K*-46, *KS*-42)
+- नु᳓ (*TS*-21, *RV*-338, *TB*-16, *TK*-12, *AV*-66, *SB-M*-273, *SB-K*-226, *VS-M*-21, *VS-K*-17, *KS*-18)
+- भू᳓यसीः (*TS*-4/7, *RV*-3, *TB*-1/3, *AV*-1/2, *SB-M*-11/14, *SB-K*-8/12)
+- उषा᳓साः (*TS*-0/1, *VS-M*-0/3, *VS-K*-0/2)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- वीरा᳓न् (*TS*-3/20, *RV*-19/119, *TB*-2/25, *AV*-4/66, *SB-M*-6/28, *SB-K*-9/32, *VS-M*-3/19, *VS-K*-2/16, *KS*-1/9)
+- वरुण (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-17, *RV*-58, *TB*-6, *TK*-1, *AV*-27, *SB-M*-8, *SB-K*-7, *VS-M*-8, *VS-K*-8, *KS*-17)
+- ता᳓सु (*TS*-4/4763, *RV*-2/3136, *TB*-3/2709, *TK*-2/363, *AV*-4/3165, *SB-M*-16/20457, *SB-K*-20/20018, *VS-M*-0/768, *VS-K*-0/624, *KS*-1/1225)
+- शाधि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *SB-M*-3, *SB-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -309,6 +340,12 @@ Surely many more dawns have not yet dawned: direct us, Varuṇa, (in  order to b
 
 Move far from me what sins I have committed: let me not suffer, King, for guilt of others.  
      Full many a morn remains to dawn upon us: in these, O Varuna, while we live direct us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Drive far away the debts incurred by me; let me not, O king, suffer from what another has done!  
+Many are the dawns that have not yet shone; in them, O Varuṇa, direct our heroes!
 </details>
 
 <details><summary>Geldner</summary>

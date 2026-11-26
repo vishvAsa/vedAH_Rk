@@ -104,6 +104,12 @@ rájasaḥ ← rájas- (nominal stem)
 तन्त्वा॑ गृणामि त॒वस॒मत॑वीया॒न्क्षय॑न्तम॒स्य रज॑सᳶ परा॒के ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+प्र᳓ त᳓त्ते अद्य᳓ शिपिविष्ट ना᳓मा᳓र्यश्शँसामि वयु᳓नानि विद्वा᳓न्।  
+तं᳓ त्वा गृणामि तव᳓सम᳓तव्यान्क्ष᳓यन्तमस्य᳓ र᳓जसः पराके᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । तत् । ते॒ । अ॒द्य । शि॒पि॒ऽवि॒ष्ट॒ । नाम॑ । अ॒र्यः । शं॒सा॒मि॒ । व॒युना॑नि । वि॒द्वान् ।  
@@ -113,6 +119,29 @@ rájasaḥ ← rájas- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 प्रेति॑ । तत् । ते॒ । अ॒द्य । शि॒पि॒वि॒ष्टेति॑ शिपि-वि॒ष्ट॒ । नाम॑ । अ॒र्यः । शँ॒सा॒मि॒ । व॒युना॑नि । वि॒द्वान् ॥ तम् । त्वा॒ । गृ॒णा॒मि॒ । त॒वस॑म् । अत॑वीयान् । क्षय॑न्तम् । अ॒स्य । रज॑सः । प॒रा॒के ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- अद्य᳓ (*MS*-65, *TS*-44, *RV*-215, *TB*-30, *TK*-2, *AV*-66, *SB-M*-42, *SB-K*-48, *VS-M*-59, *VS-K*-54)
+- शिपि-विष्ट (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-2, *RV*-3, *TB*-1, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- ना᳓म (*MS*-110/128, *TS*-83/93, *RV*-94/117, *TB*-54/65, *TK*-10, *AV*-106/112, *SB-M*-269/317, *SB-K*-279/325, *VS-M*-37/45, *VS-K*-32/37)
+- अ᳓र्यः (*TB*-1, *SB-M*-0/1, *VS-M*-0/2, *VS-K*-0/2)
+- शंसामि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-2)
+- वयु᳓नानि (*MS*-5/6, *TS*-7/9, *RV*-14/21, *TB*-3, *AV*-4/5, *SB-M*-3/7, *SB-K*-3/5, *VS-M*-5/6, *VS-K*-5/6)
+- विद्वा᳓न् (*MS*-86/88, *TS*-93, *RV*-94, *TB*-49, *TK*-2, *AV*-59, *SB-M*-144, *SB-K*-127, *VS-M*-14, *VS-K*-14)
+- त᳓म् (*MS*-528/5550, *TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- गृणामि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-2, *RV*-1)
+- तव᳓सम् (*MS*-3/5, *TS*-1/2, *RV*-13/35, *TB*-2/3, *AV*-2/5, *VS-M*-0/1, *VS-K*-0/1)
+- अ᳓तव्यान् (*MS*-1, *RV*-2)
+- क्ष᳓यन्तम् (*MS*-2/3, *TS*-2, *RV*-3/5, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- अस्य᳓ (*MS*-37/1379, *TS*-34/965, *RV*-188/1247, *TB*-18/567, *TK*-0/57, *AV*-64/1259, *SB-M*-475/5239, *SB-K*-674/5549, *VS-M*-27/319, *VS-K*-18/301)
+- र᳓जसः (*MS*-11/27, *TS*-11/22, *RV*-42/144, *TB*-5/14, *AV*-13/39, *SB-M*-6/16, *SB-K*-6/14, *VS-M*-7/22, *VS-K*-6/21)
+- पराके᳓ (*MS*-1, *TS*-1, *RV*-3/10, *AV*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -298,6 +327,12 @@ To-day I laud this name, O gipivista, I, skilled in rules, the name of thee the 
 <details><summary>Keith</summary>
 
 That name of thee, the noble, to-day I celebrate, O Śipivista, knowing the ways; I, the weaker, sing thee the strong, That rulest beyond this region.'
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I, a noble, knowing the ways, now proclaim that name of yours, O Śipiviṣṭa;  
+I, weaker, praise you, the strong one, dwelling in the distance of this realm of light.
 </details>
 
 <details><summary>Geldner</summary>

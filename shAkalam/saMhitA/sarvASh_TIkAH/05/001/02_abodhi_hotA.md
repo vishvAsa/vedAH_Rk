@@ -259,6 +259,12 @@ For worship of the Gods the Priest was wakened: at morning gracious Agni hath ar
      Kindled, his radiant might is made apparent, and the great Deity set free from darkness.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The Hotṛ has awakened to sacrifice to the gods; upright, well-minded, Agni has arisen in the morning.  
+The shining mass of the kindled one has been seen; the great god has been released from darkness.
+</details>
+
 <details><summary>Oldenberg</summary>
 
 The Hotri has been wakened that there may be sacrifice for the gods. Gracious Agni has stood upright in the morning. When he has been kindled, his brilliant stream of flames has been seen. The great god has been released from darkness.

@@ -389,6 +389,12 @@ Accept the offering [3] which is made;
 Grant, O goddess, offspring to us.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Sinīvālī of broad braids, thou who art the sister of the gods,  
+enjoy the poured offering; bestow offspring upon us, O goddess!
+</details>
+
 <details><summary>Geldner</summary>
 
 Sinivali mit breitem Zopfe, die du Schwester der Götter bist, genieße die geopferte Spende, teil uns Nachkommenschaft zu, o Göttin!

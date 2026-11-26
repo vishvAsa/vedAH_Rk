@@ -107,6 +107,12 @@ subándhum ← subándhu- (nominal stem)
 अन्वे॑नव्ँ॒विप्रा॒ ऋष॑यो मदन्ति दे॒वाना॑म्पु॒ष्टे च॑कृमा सु॒बन्धु॑म् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+उप प्रागात्सुमन्मेऽधायि मन्म देवानामाशा उप वीतपृष्ठः।  
+अन्वेनं विप्रा ऋषयो मदन्तु देवानां पुष्टे चकृमा सुबन्धुम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उप॑ । प्र । अ॒गा॒त् । सु॒ऽमत् । मे॒ । अ॒धा॒यि॒ । मन्म॑ । दे॒वाना॑म् । आशाः॑ । उप॑ । वी॒तऽपृ॑ष्ठः ।  
@@ -126,6 +132,29 @@ subándhum ← subándhu- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 उप॑ । प्रेति॑ । अ॒गा॒त् । सु॒मदिति॑ सु-मत् । मे॒ । अ॒धा॒यि॒ । मन्म॑ । दे॒वाना॑म् । आशाः॑ । उपेति॑ । वी॒तपृ॑ष्ठ॒ इति॑ वी॒त-पृ॒ष्ठः॒ ॥ अन्विति॑ । ए॒न॒म् । विप्राः॑ । ऋष॑यः । म॒द॒न्ति॒ । दे॒वाना॑म् । पु॒ष्टे । च॒कृ॒म । सु॒बन्धु॒मिति॑ सु-बन्धु॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उप (गतिर्गतौ पा॰ ८.१.७०, *TB*-74, *TK*-4, *AV*-1, *SB-M*-790, *SB-K*-757, *VS-M*-1, *VS-K*-1, *MS*-249)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- अगात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-16, *TS*-14, *RV*-36, *TB*-7, *TK*-7, *AV*-16, *SB-M*-21, *SB-K*-22, *VS-M*-11, *VS-K*-14)
+- सु-म᳓न्मे (गतिकारकोपपदात् कृत् पा॰ ६.२.१३९, *RV*-0/1)
+- अधायि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-2, *RV*-10, *TB*-3, *AV*-1, *VS-M*-1, *VS-K*-1)
+- म᳓न्म (*MS*-1/7, *TS*-2/3, *RV*-37/69, *TB*-0/1, *AV*-4/7, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/4, *VS-K*-1/5)
+- देवा᳓नाम् (*MS*-211/1218, *TS*-184/1282, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/531, *VS-K*-68/532)
+- आ᳓शाः (*MS*-5/14, *TS*-9/12, *RV*-7/8, *TB*-3/6, *TK*-2/5, *AV*-9/15, *SB-M*-1/14, *SB-K*-4/12, *VS-M*-8/10, *VS-K*-6/13)
+- उ᳓प (*MS*-488, *TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60)
+- वीत᳓-पृष्ठः (*MS*-1/2, *TS*-1, *RV*-1/4, *AV*-0/1, *VS-M*-1/2, *VS-K*-1/2)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- एनम् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *MS*-614, *TS*-568, *RV*-76, *TB*-338, *TK*-26, *AV*-250, *SB-M*-1703, *SB-K*-1791, *VS-M*-27, *VS-K*-20)
+- वि᳓प्राः (*MS*-3/19, *TS*-7/22, *RV*-55/218, *TB*-1/8, *AV*-11/31, *SB-M*-5/13, *SB-K*-4/11, *VS-M*-7/18, *VS-K*-6/19)
+- ऋ᳓षयः (*MS*-20/52, *TS*-21/56, *RV*-24/101, *TB*-2/5, *TK*-2/8, *AV*-42/70, *SB-M*-45/125, *SB-K*-54/130, *VS-M*-15/32, *VS-K*-15/34)
+- मदन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-5, *RV*-1, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- देवा᳓नाम् (*MS*-211/1218, *TS*-184/1282, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/531, *VS-K*-68/532)
+- पुष्टे᳓ (*MS*-1/8, *TS*-1/7, *RV*-1/9, *TB*-1/4, *AV*-1/14, *SB-M*-1/9, *SB-K*-2/10, *VS-M*-2/8, *VS-K*-2/8)
+- चकृमा (समानान्तर-पाठः (TS), *MS*-2, *TS*-1, *VS-K*-1)
+- सु-ब᳓न्धुम् (*MS*-1/2, *TS*-1, *RV*-1/7, *TB*-0/1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -443,6 +472,11 @@ _________
 देवानां पुष्टे पुष्ट्यर्थं सुबन्धु चकृमैनमश्वं बन्धुवदत्यन्तप्रियं चकृम
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[641_5]** So Ch; vgl. dagegen मदन्ति in RV 1, 162, 7; MS 3, 16, 1; TS 4, 6, 8, 3; VS 29, 30. (Thus Ch; cf. on the other hand मदन्ति in RV 1, 162, 7; MS 3, 16, 1; TS 4, 6, 8, 3; VS 29, 30.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर कौन किनसे क्या लेवें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -509,6 +543,12 @@ Forth, for the regions of the Gods, the Charger with his smooth back is come my 
 He hath come forth--efficacious hath been my prayer-- To the regions of the gods, straight backed;  
 In him the sages, the seers, rejoice,  
 For the prosperity of the gods a good friend have we made.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He has approached—a fair thought has been set in my mind—the backswept-maned horse [has gone] to the realm of the gods;  
+may the inspired poets, the ṛṣis, rejoice after him; we have made him a good kin in the nourishment of the gods.
 </details>
 
 <details><summary>Geldner</summary>

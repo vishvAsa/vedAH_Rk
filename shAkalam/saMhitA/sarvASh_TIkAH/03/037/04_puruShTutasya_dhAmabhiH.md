@@ -57,10 +57,26 @@ carṣaṇīdhŕ̥taḥ ← carṣaṇīdhŕ̥t- (nominal stem)
 इन्द्र॑स्य चर्षणी॒धृतः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+पुरुष्टुत᳓स्य * ना᳓मभिः शते᳓न महयामसि  
+इ᳓न्द्रस्य चर्षणीस᳓हः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 पु॒रु॒ऽस्तु॒तस्य॑ । धाम॑ऽभिः । श॒तेन॑ । म॒ह॒या॒म॒सि॒ ।  
 इन्द्र॑स्य । च॒र्ष॒णि॒ऽधृतः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- पुरु-ष्टुत᳓स्य (*MW*)
+- ना᳓मभिः (*TS*-2, *RV*-7, *SB-M*-4/10, *SB-K*-4/9)
+- शते᳓न (*TS*-7/76, *RV*-3/100, *TB*-3/16, *TK*-0/2, *AV*-3/95, *SB-M*-7/148, *SB-K*-7/136, *VS-M*-6/29, *VS-K*-3/22, *KS*-1/12)
+- महयामसि (*RV*-1, *AV*-1)
+- इ᳓न्द्रस्य (*TS*-56/497, *RV*-136/1345, *TB*-34/363, *TK*-2/8, *AV*-91/606, *SB-M*-74/535, *SB-K*-72/509, *VS-M*-59/388, *VS-K*-53/358, *KS*-30/189)
+- चर्षणी-स᳓हः (*VS-M*-0/1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -138,7 +154,10 @@ of Indra, the supporter of the settled domains.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/037/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 As Geldner also suggests, Indra’s names (nā́māni) in vs. 3 form a complementary pair with his hundred dhā́man- ‘forms, embodiments’ in 4.
+</details>
 
 </details>
 </div>
@@ -147,6 +166,12 @@ As Geldner also suggests, Indra’s names (nā́māni) in vs. 3 form a complemen
 
 We strive for glory through the powers immense of him whom many praise,  
      Of Indra who supports mankind.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the names of the one praised by many, with a hundred [names], we magnify  
+Indra, the vanquisher of peoples.
 </details>
 
 <details><summary>Geldner</summary>

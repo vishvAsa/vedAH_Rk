@@ -98,6 +98,12 @@ víśvā ← víśva- (nominal stem)
 अ॒ग्निर्भा॒नुना॒ रुश॑ता॒ स्वङ्ग॒ आ जा॒तो विश्वा॒ सद्मा॑न्यप्राः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्रे बृहन्नुषसामूर्ध्वो अस्थान्निर्जगन्वान्तमसो ज्योतिषागात्।  
+अग्निर्भानुना रुशता स्वङ्ग आ जातो विश्वा सद्मान्यप्राः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्रे॑ । बृ॒हन् । उ॒षसा॑म् । ऊ॒र्ध्वः । अ॒स्था॒त् । निः॒ऽज॒ग॒न्वान् । तम॑सः । ज्योति॑षा । आ । अ॒गा॒त् ।  
@@ -112,6 +118,28 @@ víśvā ← víśva- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अग्रे॑। बृ॒हन्। उ॒षसा॑म्। ऊ॒र्ध्वः। अ॒स्था॒त्। नि॒र्ज॒ग॒न्वानिति॑ निःऽजग॒न्वान्। तम॑सः। ज्योति॑षा। आ। अ॒गा॒त्। अ॒ग्निः। भा॒नुना॑। रुश॑ता। स्वङ्ग॒ इति॑ सु॒ऽअङ्गः॑। आ। जा॒तः। विश्वा॑। सद्मा॑नि। अ॒प्राः॒। १४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ग्रे (*MS*-77/126, *TS*-48/78, *RV*-42/68, *TB*-32/46, *TK*-2, *AV*-46/64, *SB-M*-282/346, *SB-K*-259/329, *VS-M*-19/27, *VS-K*-17/24)
+- बृह᳓न् (*MS*-7, *TS*-4, *RV*-10, *AV*-7, *SB-M*-9, *SB-K*-8, *VS-M*-4, *VS-K*-3)
+- उष᳓साम् (*MS*-8/31, *TS*-7/20, *RV*-19/237, *TB*-2/13, *TK*-0/1, *AV*-8/39, *SB-M*-4/12, *SB-K*-3/11, *VS-M*-4/21, *VS-K*-4/18)
+- ऊर्ध्वः᳓ (*MS*-28/86, *TS*-15/60, *RV*-34/73, *TB*-6/22, *TK*-0/2, *AV*-17/48, *SB-M*-50/276, *SB-K*-52/264, *VS-M*-9/23, *VS-K*-8/22)
+- अस्थात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-10, *TS*-7, *RV*-36, *TB*-6, *AV*-6, *SB-M*-7, *SB-K*-6, *VS-M*-5, *VS-K*-4)
+- निः-जगन्वा᳓न् (*MS*-1, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- त᳓मसः (*MS*-9/52, *TS*-4/33, *RV*-21/113, *TB*-3/13, *AV*-5/52, *SB-M*-10/82, *SB-K*-10/82, *VS-M*-7/22, *VS-K*-6/22)
+- ज्यो᳓तिषा (*MS*-25/134, *TS*-27/199, *RV*-34/148, *TB*-4/70, *TK*-1/5, *AV*-13/66, *SB-M*-25/173, *SB-K*-24/174, *VS-M*-16/72, *VS-K*-12/80)
+- अ᳓गात् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*, *RV*-3, *SB-M*-6, *SB-K*-5, *VS-K*-1, *MS*-3)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- भानु᳓ना (*MS*-4/15, *TS*-8/16, *RV*-24/64, *TB*-3/4, *AV*-2/6, *SB-M*-7/12, *SB-K*-7/12, *VS-M*-7/11, *VS-K*-7/13)
+- रु᳓शता (*MS*-1/4, *TS*-1/2, *RV*-4/24, *TB*-0/1, *AV*-0/1, *SB-M*-2, *SB-K*-2, *VS-M*-1/3, *VS-K*-1/2)
+- स्व᳓ङ्गः (*SB-M*-2, *SB-K*-2, *MS*-0/1)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- जातः᳓ (*MS*-26/57, *TS*-24/65, *RV*-53/144, *TB*-5/22, *TK*-0/4, *AV*-30/95, *SB-M*-39/84, *SB-K*-39/82, *VS-M*-22/37, *VS-K*-21/37)
+- वि᳓श्वा (*MS*-60/301, *TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224)
+- स᳓द्मानि (*MS*-1/3, *TS*-1/3, *RV*-3/23, *TB*-0/1, *AV*-0/3, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- अप्राः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-3, *RV*-11, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -369,6 +397,12 @@ With his luminous beam, Agni, beautiful of limb, has filled all the seats  at hi
 
 HIGH hath the Mighty risen before the dawning, and come to us with light from out the darkness.  
      Fair-shapen Agni with white-shining splendour hath filled at birth all human habitations.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+At the head of the dawns he stood high, upright, having gone forth from darkness he came with light;  
+Agni, with handsome limbs, with his gleaming beam, as soon as born filled all dwellings.
 </details>
 
 <details><summary>Geldner</summary>

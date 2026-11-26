@@ -82,10 +82,51 @@ yajñávāhase ← yajñavāhas- (nominal stem)
 सुमि॑ती मी॒यमा॑नो॒ वर्चो॑ धा य॒ज्ञवा॑हसे ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उ᳓ञ्श्रयस्व वनस्पते व᳓र्ष्मन् पृथिव्या᳓ अ᳓धि *  
+सु᳓मिती मीय᳓मानो व᳓र्चो धा यज्ञ᳓वाहसे
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+उच्छ्रयस्व वनस्पते वर्ष्मन्पृथिव्या अधि।  
+सुमिती मीयमानो वर्चो धा यज्ञवाहसे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उत् । श्र॒य॒स्व॒ । व॒न॒स्प॒ते॒ । वर्ष्म॑न् । पृ॒थि॒व्याः । अधि॑ ।  
 सुऽमि॑ती । मी॒यमा॑नः । वर्चः॑ । धाः॒ । य॒ज्ञऽवा॑हसे ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उ᳓ञ्श्रयस्व (मूल-पाठः)
+- वनस्पते (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-8, *TB*-2, *AV*-8, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-1, *KS*-1)
+- व᳓र्ष्मन् (*TS*-3, *RV*-5, *TB*-4, *AV*-1, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-1)
+- पृथिव्याः᳓ (*TS*-71/79, *RV*-99, *TB*-31, *TK*-1, *AV*-48, *SB-M*-69, *SB-K*-71, *VS-M*-55, *VS-K*-45/49, *KS*-20/21)
+- अ᳓धि (*TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-56, *VS-K*-51, *KS*-47)
+- सु᳓-मिती (*RV*-1)
+- मीय᳓मानः (*RV*-1)
+- व᳓र्चः (*TS*-31/57, *RV*-6/12, *TB*-12/26, *AV*-47/120, *SB-M*-36/67, *SB-K*-33/61, *VS-M*-11/42, *VS-K*-5/29, *KS*-11/33)
+- धाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-14, *RV*-41, *TB*-1, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-M*-11, *VS-K*-8, *KS*-3)
+- यज्ञ᳓-वाहसे (*TS*-0/2, *RV*-2/3, *SB-M*-0/3, *SB-K*-0/1, *VS-M*-0/2, *VS-K*-0/1, *KS*-0/1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- श्रयस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-1, *RV*-2, *TB*-6, *AV*-6, *SB-M*-1, *SB-K*-1, *VS-M*-1)
+- व᳓नस्पते (*MS*-5, *TS*-4, *RV*-7, *TB*-2, *AV*-3, *VS-M*-2, *VS-K*-3)
+- व᳓र्ष्मन् (*MS*-4, *TS*-3, *RV*-5, *TB*-4, *AV*-1, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-1)
+- पृथिव्याः᳓ (*MS*-92, *TS*-71/79, *RV*-99, *TB*-31, *TK*-1, *AV*-48, *SB-M*-69, *SB-K*-71, *VS-M*-55, *VS-K*-46/50)
+- अ᳓धि (*MS*-200, *TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55)
+- सु᳓-मिती (*MS*-1, *RV*-1)
+- मीय᳓मानः (*MS*-1, *RV*-1)
+- व᳓र्चः (*MS*-36/59, *TS*-31/57, *RV*-6/12, *TB*-12/26, *AV*-47/120, *SB-M*-36/67, *SB-K*-33/61, *VS-M*-11/42, *VS-K*-5/29)
+- धाः (समानान्तर-पाठः (MS), *MS*-18, *TS*-14, *RV*-41, *TB*-1, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-M*-11, *VS-K*-8)
+- यज्ञ᳓-वाहसे (*MS*-1/3, *TS*-0/2, *RV*-2/3, *SB-M*-0/3, *SB-K*-0/1, *VS-M*-0/2, *VS-K*-0/1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -203,6 +244,12 @@ Being founded with a good founding, establish luster for the one whose  vehicle 
 
 Lord of the Forest, raise. thyself up on the loftiest spot of earth.  
      Give splendour, fixt and measured well, to him who brings the sacrifice.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Raise yourself up, O tree, on the summit of the earth!  
+Being measured with good measure, bestow splendor upon him who bears the sacrifice!
 </details>
 
 <details><summary>Oldenberg</summary>

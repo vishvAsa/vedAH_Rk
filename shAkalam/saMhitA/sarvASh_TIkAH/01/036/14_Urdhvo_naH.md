@@ -106,6 +106,12 @@ vidā́ḥ ← √vid- 1 (root)
 वि॒दा दे॒वेषु॑ नो॒ दुवः॑ ॥2॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ऊर्ध्वो नः पाह्मँहसो नि केतुना विश्वँ समत्रिणं दह।  
+कृधी न ऊर्ध्वाञ्चरथाय जीवसे विदा देवेषु नो दुवः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ऊ॒र्ध्वः । नः॒ । पा॒हि॒ । अंह॑सः । नि । के॒तुना॑ । विश्व॑म् । सम् । अ॒त्रिण॑म् । द॒ह॒ ।  
@@ -115,6 +121,28 @@ vidā́ḥ ← √vid- 1 (root)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 ऊर्ध्वः᳓ । नः । पाहि । अं᳓हसः । नि᳓ । केतु᳓ना । वि᳓श्वम् । स᳓म् । अत्रि᳓णम् । दह । कृधी᳓ । नः । ऊर्ध्वा᳓म् । च । र᳓थाय । जीव᳓से । विदा᳓ । देवे᳓षु । नः । दु᳓वः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ऊर्ध्वः᳓ (*MS*-28/86, *TS*-15/60, *RV*-34/73, *TB*-6/22, *TK*-0/2, *AV*-17/48, *SB-M*-50/276, *SB-K*-52/264, *VS-M*-9/23, *VS-K*-8/22)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- पा᳓ह्मंहसो (अनाम्नातम् (अनुमानम्))
+- नि᳓ (*MS*-193, *TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36)
+- केतु᳓ना (*MS*-3/14, *TS*-0/12, *RV*-9/82, *TB*-2/9, *TK*-0/4, *AV*-3/27, *SB-M*-4/11, *SB-K*-4/11, *VS-M*-6/15, *VS-K*-6/13)
+- वि᳓श्वम् (*MS*-33/301, *TS*-24/283, *RV*-140/1116, *TB*-20/125, *TK*-71/124, *AV*-59/353, *SB-M*-31/248, *SB-K*-27/219, *VS-M*-29/225, *VS-K*-22/224)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- अत्रि᳓णम् (*MS*-2, *TS*-1, *RV*-11/16, *TB*-1, *VS-M*-1, *VS-K*-1)
+- दह (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-1, *RV*-13, *TB*-3, *AV*-11, *SB-M*-2, *VS-M*-2, *VS-K*-2)
+- कृधी᳓ (*MS*-3, *TS*-0/1, *RV*-0/24, *TB*-1/2, *AV*-0/1, *SB-M*-0/7, *SB-K*-0/7, *VS-K*-0/1)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- ऊर्ध्वा᳓म् (*MS*-5/86, *TS*-6/60, *RV*-3/73, *TB*-3/22, *TK*-0/2, *AV*-2/48, *SB-M*-18/276, *SB-K*-17/264, *VS-M*-2/23, *VS-K*-1/22)
+- चर᳓थाय (*MS*-1, *RV*-5/11, *TB*-0/1, *AV*-0/2)
+- जीव᳓से (*Whitney*, *MS*-14/16, *TS*-6/7, *RV*-52/60, *TB*-7/9, *TK*-0/1, *AV*-9/14, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-5, *VS-K*-5)
+- विदा᳓ (*MS*-1/2, *TS*-2, *RV*-1/31, *TB*-1/5, *TK*-3, *AV*-0/4, *SB-M*-20/24, *SB-K*-20/31)
+- देवे᳓षु (*MS*-57/1216, *TS*-41/1023, *RV*-100/1342, *TB*-13/582, *TK*-1/32, *AV*-26/707, *SB-M*-41/2031, *SB-K*-46/1945, *VS-M*-35/528, *VS-K*-30/523)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- दु᳓वः (*MS*-2, *RV*-16/18, *TB*-1, *AV*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -286,6 +314,12 @@ In keeping with I.37.14, it might be best to change ‘favor’ to ‘friendship
 
 Erect, preserve us from sore trouble; with thy flame burn thou each ravening demon dead.  
      Raise thou us up that we may walk and live: so thou shalt find our worship mid the Gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Upright, protect us from distress; burn down every devouring demon with your banner!  
+Make us upright to walk, to live; find our worship among the gods!
 </details>
 
 <details><summary>Oldenberg</summary>

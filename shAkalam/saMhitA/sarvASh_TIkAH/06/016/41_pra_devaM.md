@@ -75,6 +75,12 @@ yónau ← yóni- (nominal stem)
 आ स्वे योनौ॒ नि षी॑दतु  ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+प्र देवं देववीतये भरता वसुवित्तमम्।  
+आ स्वे योनौ निषीदत
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । दे॒वम् । दे॒वऽवी॑तये । भर॑त । व॒सु॒वित्ऽत॑मम् ।  
@@ -84,6 +90,20 @@ yónau ← yóni- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 प्रेति॑ । दे॒वम् । दे॒ववी॑तय॒ इति॑ दे॒व-वी॒त॒ये॒ । भर॑त । व॒सु॒वित्त॑म॒मिति॑ वसु॒वित्-त॒म॒म्॒ ॥ एति॑ । स्वे । योनौ॑ । नीति॑ । सी॒द॒तु॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- देव᳓म् (*MS*-56/1216, *TS*-17/1023, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/528, *VS-K*-44/523)
+- देव᳓-वीतये (*MS*-3/7, *TS*-2/3, *RV*-22/38, *TB*-2/3, *AV*-1, *SB-M*-4, *SB-K*-5, *VS-M*-4, *VS-K*-3)
+- भ᳓रताः (समानान्तर-पाठः (MS), *MS*-2, *TS*-0/2, *RV*-0/7, *AV*-0/1)
+- वसुवि᳓त्तमम् (*MS*-1, *TS*-1, *RV*-2, *SB-M*-2/4, *SB-K*-1/2, *VS-M*-1/2, *VS-K*-4)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- स्वे᳓ (*MS*-22/260, *TS*-35/250, *RV*-32/227, *TB*-1/80, *TK*-1/16, *AV*-7/149, *SB-M*-17/306, *SB-K*-27/301, *VS-M*-6/67, *VS-K*-6/72)
+- यो᳓नौ (*MS*-35/208, *TS*-17/170, *RV*-32/110, *TB*-7/38, *TK*-1/6, *AV*-8/45, *SB-M*-73/284, *SB-K*-69/261, *VS-M*-11/93, *VS-K*-10/100)
+- नि᳓ (*MS*-193, *TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36)
+- सीदत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-6, *RV*-10, *TB*-2, *AV*-1, *SB-M*-4, *SB-K*-4, *VS-M*-5, *VS-K*-4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -182,6 +202,11 @@ _________
 देवमग्निं वसुवित्तर्मं धनानां लब्धृतमं प्रभरत । सांहितिकं दीर्घत्वम् । देववीतये देवानां यागाय, देवा वियन्ति भुञ्जतेऽस्मिन्निति । दासीभारादित्वात्पूर्वपदप्रकृतिस्वरत्वम् । सोयं स्वे योनौ आहवनीयस्थाने आहवनीये निषीदतु आगत्यास्ताम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[217_2]** D वसुविभुम्
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -212,6 +237,12 @@ Bear to the banquet of the Gods the God best finder-out of wealth,
 Bring forward the god, best finder of riches,  
 For offering to the gods;  
 May he sit down in his own birthplace [4].
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring forward the god to the banquet of the gods, the best finder of wealth;  
+let him sit down in his own womb.
 </details>
 
 <details><summary>Geldner</summary>

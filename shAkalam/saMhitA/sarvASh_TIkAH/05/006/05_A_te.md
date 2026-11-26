@@ -245,6 +245,11 @@ _________
 शुक्रस्य शुद्धस्य ज्योतिषः पते पालक, सुष्ठ्वाह्लादकारिन्सुश्चन्द्र, पापस्योपक्षपयितर्दस्म, प्रजानां पालक विश्पते, हविषो वोढा हव्यवाट्, तथाविध हेऽग्ने त ऋचा त्वत्संबन्धिना मन्त्रेण तुभ्यं हविरा समन्ताद्धूयते ।   इषमित्यादि गतम् ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[597_6]** So corr. Ch मश्वन्द्र; vgl. RV 5, 6, 5. (Thus emended; Ch reads मश्वन्द्र; cf. RV 5, 6, 5)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -273,6 +278,13 @@ O lord of brilliant light,
 Bright shining, wonderworker, lord of the people,  
 O bearer of the oblation, is offered to thee;  
 Do thou bear food to thy praisers.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To you, O Agni, with a verse the oblation of clear brightness, O lord of flame,  
+most brilliant, O master of the clan in the house, the bearer of oblations is invoked for you;  
+bring refreshment to your praisers!
 </details>
 
 <details><summary>Oldenberg</summary>

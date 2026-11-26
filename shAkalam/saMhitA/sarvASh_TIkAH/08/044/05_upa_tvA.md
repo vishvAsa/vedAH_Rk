@@ -72,10 +72,52 @@ naḥ ← ahám (pronoun)
 अग्ने॑ ह॒व्या जु॑षस्व नः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उ᳓प त्वा जुह्वो᳙ म᳓म घृता᳓चीर् यन्तु हर्यत  
+अ᳓ग्ने हव्या᳓ जुषस्व नः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+उ᳓प त्वा जुव्हो᳙ म᳓म घृता᳓चीर्यन्तु हर्यत।  
+अ᳓ग्ने हव्या᳓ जुषस्व नः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उप॑ । त्वा॒ । जु॒ह्वः॑ । मम॑ । घृ॒ताचीः॑ । य॒न्तु॒ । ह॒र्य॒त॒ ।  
 अग्ने॑ । ह॒व्या । जु॒ष॒स्व॒ । नः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उ᳓प (*TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60, *KS*-116)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-508, *KS*-326)
+- जुह्वः᳙ (*RV*-5, *TB*-1)
+- म᳓म (*TS*-28/565, *RV*-74/1308, *TB*-15/270, *TK*-0/66, *AV*-75/1252, *SB-M*-46/723, *SB-K*-56/728, *VS-M*-14/314, *VS-K*-11/265, *KS*-10/242)
+- घृता᳓चीः (*TS*-2/8, *RV*-5/18, *TB*-0/6, *AV*-0/4, *SB-M*-1/12, *SB-K*-1/12, *VS-M*-2/8, *VS-K*-2/7, *KS*-1/4)
+- यन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-6, *RV*-29, *TB*-1, *AV*-50, *SB-M*-6, *SB-K*-7, *VS-M*-11, *VS-K*-10, *KS*-4)
+- हर्यतः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- हव्या᳓ (*TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-4/23, *KS*-10/34)
+- जुषस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-41, *TB*-6, *AV*-7, *SB-M*-8, *SB-K*-9, *VS-M*-10, *VS-K*-8, *KS*-10)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓प (*MS*-488, *TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- जुव्हो᳙ (मूल-पाठः)
+- म᳓म (*MS*-19/641, *TS*-28/565, *RV*-74/1308, *TB*-15/270, *TK*-0/66, *AV*-75/1252, *SB-M*-46/723, *SB-K*-56/728, *VS-M*-14/315, *VS-K*-11/274)
+- घृता᳓चीः (*MS*-2/8, *TS*-2/8, *RV*-5/18, *TB*-0/6, *AV*-0/4, *SB-M*-1/12, *SB-K*-1/12, *VS-M*-2/8, *VS-K*-2/7)
+- यन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-13, *TS*-6, *RV*-29, *TB*-1, *AV*-50, *SB-M*-6, *SB-K*-7, *VS-M*-11, *VS-K*-11)
+- हर्यत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-3, *TS*-1, *RV*-2, *TB*-1, *AV*-3)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- हव्या᳓ (*MS*-25/81, *TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-5/27)
+- जुषस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-15, *TS*-13, *RV*-41, *TB*-6, *AV*-7, *SB-M*-8, *SB-K*-9, *VS-M*-10, *VS-K*-9)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -181,6 +223,18 @@ Let my ghee-filled offering spoons come near to you, delightful one. Agni, enjoy
 
 Beloved! let my ladles full of sacred oil come near to thee:  
      Agni, accept our offerings.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To you let my ladles go, dripping with ghee, O desirable one;  
+O Agni, enjoy our oblations!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Let my ghee-holding ladles go toward you, O beloved;  
+O Agni, enjoy our oblations.
 </details>
 
 <details><summary>Geldner</summary>

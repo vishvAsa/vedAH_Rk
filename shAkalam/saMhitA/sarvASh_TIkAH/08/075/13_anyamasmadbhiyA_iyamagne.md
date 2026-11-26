@@ -72,6 +72,12 @@ várdha ← √vr̥dh- (root)
 वर्धा॑ नो॒ अम॑व॒च्छवः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अन्य᳓म् अस्म᳓द् भिया᳓ इय᳓म् अ᳓ग्ने सि᳓षक्तु दुछु᳓ना  
+व᳓र्धा नो अ᳓मवञ् श᳓वः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒न्यम् । अ॒स्मत् । भि॒यै । इ॒यम् । अग्ने॑ । सिस॑क्तु । दु॒च्छुना॑ ।  
@@ -81,6 +87,22 @@ várdha ← √vr̥dh- (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒न्यम् । अ॒स्मत् । भि॒यै । इ॒यम् । अग्ने॑ । सिष॑क्तु । दु॒च्छुना॑ ॥ वर्ध॑ । नः॒ । अम॑व॒दित्यम॑-व॒त् । शवः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अन्य᳓म् (*TS*-21/165, *RV*-23/176, *TB*-5/92, *TK*-2, *AV*-13/108, *SB-M*-34/332, *SB-K*-37/340, *VS-M*-3/32, *VS-K*-2/33, *KS*-2/31)
+- अस्म᳓त् (*TS*-31/565, *RV*-75/1308, *TB*-6/270, *TK*-0/66, *AV*-57/1252, *SB-M*-18/723, *SB-K*-16/728, *VS-M*-19/314, *VS-K*-19/265, *KS*-11/242)
+- भियै᳓ (*TS*-1, *RV*-1)
+- इय᳓म् (*TS*-104/965, *RV*-74/1247, *TB*-50/567, *TK*-2/57, *AV*-68/1259, *SB-M*-381/5239, *SB-K*-326/5549, *VS-M*-10/313, *VS-K*-9/289, *KS*-30/319)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- सि᳓षक्तु (*TS*-1)
+- दुछु᳓ना (*SB-M*-1)
+- व᳓र्धाः (*TS*-0/1, *RV*-1/10, *TB*-0/2, *AV*-0/1, *SB-M*-2/3, *SB-K*-2/3)
+- न (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-81, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48, *KS*-35)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6, *KS*-77)
+- अ᳓मवन् (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, पा॰ ६.४.७१)
+- श᳓वः (*TS*-1/11, *RV*-39/161, *TB*-1/5, *AV*-15/39, *SB-M*-4/7, *SB-K*-3/6, *VS-M*-2/9, *VS-K*-1/8, *KS*-0/7)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -202,6 +224,15 @@ O Agni, let this plague pursue and fright another and not us:
 <details><summary>Keith</summary>
 
 May this terror, this misfortune, O Agni, fasten on another than us; Increase our impetuous strength.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O impetuous one, increase our might.  
+## Other recensions (1)  
+- [Maitrāyaṇīsaṃhitā (unaccented copy of M. Fushimi's input)](https://indike.org/pramana/in.veda.samhita.krsnayajur*maitrayani*unaccented.4.11.1) — Sanskrit  
+## Linked texts (1)  
+- [Maitrāyaṇīsaṃhitā](https://indike.org/pramana/in.veda.samhita.krsnayajur*maitrayani.4.11.1) — Sanskrit
 </details>
 
 <details><summary>Geldner</summary>

@@ -101,10 +101,40 @@ soma ← sóma- (nominal stem)
 मा हा॑स्महि प्र॒जया॒ मा त॒नूभि॒र्मा र॑धाम द्विष॒ते सो॑म राजन् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्रयीष्षडुर्वीरुरु णस्कृणोत विश्वे देवा इह वीरयध्वम्।  
+मा हास्महि प्रजया मा तनूभिर्मा रधाम द्विषते सोम राजन्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 देवीः॑ । ष॒ट् । उ॒र्वीः॒ । उ॒रु । नः॒ । कृ॒णो॒त॒ । विश्वे॑ । दे॒वा॒सः॒ । इ॒ह । वी॒र॒य॒ध्व॒म् ।  
 मा । हा॒स्म॒हि॒ । प्र॒ऽजया॑ । मा । त॒नूभिः॑ । मा । र॒धा॒म॒ । द्वि॒ष॒ते । सो॒म॒ । रा॒ज॒न् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्रयीः᳓ (*MS*-1, *TB*-0/1, *SB-M*-1/22, *SB-K*-0/24)
+- ष᳓ट् (*MW* ŚBr., *MW*, *MS*-41/46, *TS*-58/86, *RV*-11, *TB*-28, *AV*-23, *SB-M*-135/154, *SB-K*-137/156, *VS-M*-2, *VS-K*-1)
+- उर्वीः᳓ (*MS*-0/7, *TS*-0/3, *RV*-5/42, *TB*-0/4, *TK*-0/1, *AV*-11/19, *SB-M*-1, *SB-K*-1, *VS-M*-0/1, *VS-K*-0/1)
+- उरु᳓ (*Whitney*, *MS*-36/51, *TS*-37/52, *RV*-63/118, *TB*-3/7, *TK*-0/3, *AV*-20/40, *SB-M*-21/38, *SB-K*-22/38, *VS-M*-19/29, *VS-K*-22/34)
+- णः᳓ (*TB*-1, *SB-M*-1, *SB-K*-4, *MS*-1)
+- कृणो᳓त (*RV*-1)
+- वि᳓श्वे (*MS*-70/301, *TS*-84/283, *RV*-186/1116, *TB*-30/125, *TK*-6/124, *AV*-77/353, *SB-M*-85/248, *SB-K*-74/219, *VS-M*-56/225, *VS-K*-47/224)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- इह᳓ (*MS*-103, *TS*-100, *RV*-277, *TB*-57, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-166, *VS-M*-92, *VS-K*-91)
+- वीरयध्वम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-2, *VS-M*-1, *VS-K*-1, *MS*-1)
+- मा᳓ (*Whitney*, *MS*-238, *TS*-205, *RV*-389, *TB*-111, *TK*-16, *AV*-415, *SB-M*-206, *SB-K*-183, *VS-M*-146, *VS-K*-110)
+- हास्महि (*TS*-1, *RV*-1, *AV*-1)
+- प्र-ज᳓या (*MS*-44/407, *TS*-59/482, *RV*-11/70, *TB*-42/258, *TK*-1/13, *AV*-37/164, *SB-M*-40/595, *SB-K*-42/626, *VS-M*-7/68, *VS-K*-8/61)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- तनू᳓भिः (*MS*-9/76, *TS*-4/70, *RV*-9/54, *TB*-0/22, *AV*-5/27, *SB-M*-4/60, *SB-K*-3/53, *VS-M*-5/26, *VS-K*-3/42)
+- मा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-192, *TS*-202, *RV*-110, *TB*-80, *TK*-13, *AV*-302, *SB-M*-252, *SB-K*-264, *VS-M*-69, *VS-K*-60)
+- रधाम (*TS*-1, *RV*-1, *AV*-1)
+- द्विषते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *SB-M*-2, *SB-K*-3)
+- सो᳓म (*MS*-7, *TS*-3/4, *RV*-22, *TB*-3/4, *TK*-1, *AV*-2, *SB-M*-7, *SB-K*-4, *VS-M*-3, *VS-K*-5)
+- रा᳓जन् (*Whitney*, *MS*-3/4, *TS*-2, *RV*-4/8, *TB*-2/3, *AV*-1/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -255,6 +285,13 @@ ________________
    देवीः षडुर्वीरुर्वीनामिकाः षट्संख्याका हे देव्यः।     २२६४ अत एव शाखान्तरेऽग्न्युपस्थाने समाम्नातम् “षण्मोर्वीरंहसस्पान्तु द्यौश्च पृथिवी चाऽऽपश्चौपधमश्चोर्क्च सूनृता च” इति।   तादृश्यो हे देव्यो नोऽरमदीयमिदं कर्मोरु कृणोत विस्तीर्णं कुरुत।   विश्वे देवासो हे विश्वे देवा इह कर्मणि वीरयध्वं वीरा भवत।   विघ्नं परिहरतेत्यर्थः।   वयं प्रजया पुत्रादिरूपया मा हास्महि परित्यक्ता मा भूम।   तथा तनूभिः पुष्टशरीरैर्मा हारमहि।   हे सोम राजन्द्विषते वैरिणे मा रधाम कार्यसिद्धिं मा करवाम।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[608_9]** So corr. Ch महान्महि; aber vgl. RV 10, 128, 5; AV 5, 3, 7; TS 4, 7, 14, 2. (Thus emended Ch महान्महि; but cf. RV 10, 128, 5; AV 5, 3, 7; TS 4, 7, 14, 2.)
+
+- **[608_10]** So corr. Ch तनूभिर्मरिधाम; erste Hand र्मरधाम; vgl. RV 10, 128, 5; AV 5, 3, 7; TS 4, 7, 12, 2. (Thus emended; Ch reads तनूभिर्मरिधाम; first hand र्मरधाम; cf. RV 10, 128, 5; AV 5, 3, 7; TS 4, 7, 12, 2.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -285,6 +322,12 @@ Ye six divine Expanses, grant us freedom: here, all ye Gods, acquit yourselves l
 O ye six spaces divine, for us make broad room; O ye All-gods, here show your prowess;  
 May we not lose offspring nor ourselves;  
 May we not fall victims to our foe, O king Soma.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The three, the six broad ones, make wide room for us; O All-gods, show your heroic strength here!  
+May we not be parted from offspring, nor from our bodies; may we not be surrendered to the hater, O king Soma!
 </details>
 
 <details><summary>Geldner</summary>

@@ -92,10 +92,37 @@ te ← tvám (pronoun)
 या शश्व॑न्तमाच॒खादा॑व॒सं प॒णिं ता ते॑ दा॒त्राणि॑ तवि॒षा स॑रस्वति ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इय᳓मददाद्रभस᳓मृणच्यु᳓तं दि᳓वोदासं वध्र्यश्वा᳓य दाशु᳓षे।  
+या᳓ श᳓श्वन्तमाचखा᳓दावसं᳓ पणिं᳓ ता᳓ ते दात्रा᳓णि तविषा᳓ सरस्वति᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒यम् । अ॒द॒दा॒त् । र॒भ॒सम् । ऋ॒ण॒ऽच्युत॑म् । दिवः॑ऽदासम् । व॒ध्रि॒ऽअ॒श्वाय॑ । दा॒शुषे॑ ।  
 या । शश्व॑न्तम् । आ॒ऽच॒खाद॑ । अ॒व॒सम् । प॒णिम् । ता । ते॒ । दा॒त्राणि॑ । त॒वि॒षा । स॒र॒स्व॒ति॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इय᳓म् (*MS*-138/1379, *TS*-104/965, *RV*-74/1247, *TB*-50/567, *TK*-2/57, *AV*-68/1259, *SB-M*-381/5239, *SB-K*-326/5549, *VS-M*-10/319, *VS-K*-9/301)
+- अददात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-5, *RV*-2, *AV*-2, *SB-M*-20, *SB-K*-20)
+- रभस᳓म् (*MS*-2/3, *TS*-2, *RV*-3/10, *TB*-0/1, *SB-M*-1/2, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/2)
+- ऋण-च्यु᳓तम् (*MS*-1, *RV*-1)
+- दि᳓वः-दासम् (*RV*-5/17, *MS*-1)
+- वध्र्यश्वा᳓य (*MW*)
+- दाशु᳓षे (*MS*-18/24, *TS*-16/18, *RV*-116/139, *TB*-6, *AV*-20/21, *SB-M*-6/7, *SB-K*-6/7, *VS-M*-8/12, *VS-K*-7/13)
+- या᳓ (*MS*-177/3763, *TS*-96/3385, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/651, *VS-K*-29/609)
+- श᳓श्वन्तम् (*MS*-0/1, *TS*-0/2, *RV*-2/7, *AV*-0/1, *VS-M*-0/1, *VS-K*-0/1)
+- आ-चखा᳓द (*RV*-1, *MS*-1)
+- अवस᳓म् (*TS*-2/5, *RV*-3/5, *TB*-2/4, *SB-M*-1/2, *SB-K*-0/3, *VS-M*-1, *MS*-1/4)
+- पणि᳓म् (*MS*-3/4, *TS*-1/2, *RV*-8/44, *TB*-1/2, *AV*-1/10, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/3, *VS-K*-0/5)
+- ता᳓ (*MS*-7, *TS*-15, *RV*-180, *TB*-211, *TK*-68, *AV*-9, *SB-M*-2, *SB-K*-1, *VS-M*-16, *VS-K*-14)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- दात्रा᳓णि (*MS*-1/11, *TS*-0/5, *RV*-1/12, *TB*-0/3, *AV*-0/15, *SB-M*-0/8, *SB-K*-0/6, *VS-M*-0/5, *VS-K*-0/5)
+- तविषा᳓ (*MS*-1/5, *RV*-1/19, *TB*-0/4, *AV*-2/7)
+- सरस्वति᳓ (मूल-पाठः)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -242,7 +269,10 @@ another. These are your powerful gifts, o Sarasvatī.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md">
 <details><summary><h2>01-03 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 The hymn begins with the near-deictic nom. sg. iyám, establishing the feminine subject immediately and emphatically (“this she here”). Since the just-given tr. is at best graceless and, more to the point, not English, I have opted to focus on the gender rather than the deixis. The next vs. also begins with iyám and the final vs. of the tṛca with the voc. sárasvati.
+</details>
 
 </details>
 </div>
@@ -251,6 +281,12 @@ The hymn begins with the near-deictic nom. sg. iyám, establishing the feminine 
 
 To Vadhryasva when. be worshipped her with gifts she gave fierce Divodasa, canceller of debts.  
      Consumer of the churlish niggard, one and all, thine, O Sarasvati, are these effectual boons.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+She gave Divodāsa, impetuous, dispelling debts, to Vadhryaśva who offered.  
+She who dug up the wealthy, destitute Paṇi—such are your mighty gifts, O Sarasvatī!
 </details>
 
 <details><summary>Geldner</summary>

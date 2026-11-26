@@ -99,6 +99,12 @@ yā́ḥ ← yá- (pronoun)
 अत्रा॑ ते भ॒द्रा र॑श॒नाऽअ॑पश्यमृ॒तस्य॒ याऽअ॑भि॒रक्ष॑न्ति गो॒पाः ॥१६ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इमा ते वाजिन्नवमार्जनानीमा शफनाँ सवितुर्निधाना।  
+अत्रा ते भद्रा वृषणा अगृभ्णामृतस्य या अभिरक्षन्ति गोपाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒मा । ते॒ । वा॒जि॒न् । अ॒व॒ऽमार्ज॑नानि । इ॒मा । श॒फाना॑म् । स॒नि॒तुः । नि॒ऽधाना॑ ।  
@@ -118,6 +124,29 @@ yā́ḥ ← yá- (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 इ॒मा । ते॒ । वा॒जि॒न् । अ॒व॒मार्ज॑ना॒नीत्य॑व-मार्ज॑नानि । इ॒मा । श॒फाना॑म् । स॒नि॒तुः । नि॒धानेति॑ नि-धाना॑ ॥ अत्र॑ । ते॒ । भ॒द्राः । र॒श॒नाः । अ॒प॒श्य॒म् । ऋ॒तस्य॑ । याः । अ॒भि॒रक्ष॒न्तीत्य॑भि-रक्ष॑न्ति । गो॒पा इति॑ गो-पाः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इमा᳓ (*MS*-2/479, *TS*-9/325, *RV*-61/436, *TB*-57/167, *TK*-1/5, *AV*-23/352, *SB-M*-2/1154, *SB-K*-1/1213, *VS-M*-14/94, *VS-K*-15/98)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- वा᳓जिन् (*MS*-0/8, *TS*-0/8, *RV*-1, *TB*-0/10, *SB-M*-1/14, *SB-K*-0/8, *VS-M*-1/8, *VS-K*-1/8)
+- अव-मा᳓र्जनानि (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- इमा᳓ (*MS*-2/479, *TS*-9/325, *RV*-61/436, *TB*-57/167, *TK*-1/5, *AV*-23/352, *SB-M*-2/1154, *SB-K*-1/1213, *VS-M*-14/94, *VS-K*-15/98)
+- शफ᳓ (*MW*, *Macdonell*, *MS*-5, *TS*-5, *RV*-1, *AV*-5, *SB-M*-5, *SB-K*-5, *VS-M*-2, *VS-K*-3)
+- ना᳓न् (*TB*-1, *TK*-1, *SB-M*-1, *SB-K*-4, *MS*-5)
+- सवितुः᳓ (*MS*-46/155, *TS*-37/120, *RV*-33/157, *TB*-18/71, *TK*-0/3, *AV*-7/96, *SB-M*-43/225, *SB-K*-43/198, *VS-M*-53/119, *VS-K*-46/109)
+- नि-धा᳓ना (*TS*-1, *RV*-1/4, *TB*-0/1, *VS-M*-1, *VS-K*-1)
+- अ᳓त्रा (*MS*-1/61, *TS*-3/23, *RV*-0/121, *TB*-0/48, *TK*-0/12, *AV*-0/57, *SB-M*-1/500, *SB-K*-4/444, *VS-M*-0/18, *VS-K*-1/18)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- भद्रा᳓ (*MS*-7/42, *TS*-2/32, *RV*-42/144, *TB*-3/26, *TK*-1, *AV*-11/68, *SB-M*-0/21, *SB-K*-0/30, *VS-M*-3/31, *VS-K*-3/29)
+- वृ᳓षणाः (*MW*, *MS*-1/19, *TS*-0/12, *RV*-0/87, *TB*-0/8, *AV*-0/10, *SB-M*-0/5, *SB-K*-0/4, *VS-M*-0/7, *VS-K*-0/6)
+- अगृभ्णाः (*RV*-1)
+- अमृ᳓तस्य (*MS*-10/84, *TS*-11/65, *RV*-42/187, *TB*-1/49, *TK*-2/39, *AV*-30/97, *SB-M*-4/332, *SB-K*-3/312, *VS-M*-4/64, *VS-K*-5/60)
+- याः᳓ (*MS*-105/3763, *TS*-85/3385, *RV*-87/4011, *TB*-24/1735, *TK*-12/227, *AV*-133/3120, *SB-M*-237/8327, *SB-K*-240/8438, *VS-M*-31/651, *VS-K*-31/609)
+- अभि (तिङि चोदात्तवति पा॰ ८.१.७१, *TB*-38, *TK*-9, *AV*-3, *SB-M*-549, *SB-K*-502, *VS-K*-2, *MS*-215)
+- र᳓क्षन्ति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *RV*-2, *TB*-1, *AV*-3, *SB-M*-2, *SB-K*-2, *MS*-1)
+- गो-पाः᳓ (*MS*-11/17, *TS*-13/21, *RV*-43/61, *TB*-2/5, *TK*-4, *AV*-11/17, *SB-M*-2/5, *SB-K*-1/6, *VS-M*-5/8, *VS-K*-4/8)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -323,6 +352,15 @@ _________
 कीदृश्यो रशना हति ता विशेष्यन्तेया रशना गोपाः पष्ठदेशव्यथादिपरिहारेणाश्वं गोपायन्त्योऽभिरक्षन्ति उपर्यारूढं पुरुषमभितः पतनादिभ्यः पालयन्ति।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[605_2]** So corr. Ch शप्तानाँ; vgl. RV 1, 163, 5; TS 4, 6, 7, 2; VS 29, 16. (Thus emended; Ch reads शप्तानाँ; cf. RV 1, 163, 5; TS 4, 6, 7, 2; VS 29, 16)
+
+- **[605_3]** So Ch ! vgl. RV 1, 163, 5 सनितु᳓नि॰ ; desgl. TS 4, 6, 7, 2; VS 29, 16. (Thus Ch ! cf. RV 1, 163, 5 सनितु᳓नि॰; likewise TS 4, 6, 7, 2; VS 29, 16.)
+
+- **[605_4]** So Ch; vgl. RV 1, 163, 5 रशना; desgl. TS 4, 6, 7, 2; VS 29, 16. (Thus Ch; cf. RV 1, 163, 5 रशना; likewise TS 4, 6, 7, 2; VS 29, 16.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 मनुष्यों को घोड़ों के रखने से क्या सिद्ध करना चाहिए, इस विषय को अगले मन्त्र में कहा है ॥
@@ -404,6 +442,12 @@ Which the guards of holy order guard.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Here, Courser, are the places where they groomed thee; here are the traces of thy hooves as winner. Here have I seen the auspicious reins that guide thee, which those who guard the holy Law keep safely.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+These are your groomings, O prize-runner, these the placings of the hooves of Savitṛ;  
+here I have seized your auspicious testicles, which the guardians of truth watch over.
 </details>
 
 <details><summary>Geldner</summary>

@@ -101,10 +101,40 @@ yajñíyānām ← yajñíya- (nominal stem)
 सं ब्रह्म॑णा दे॒वहि॑तं॒ यदस्ति॒ सं दे॒वानां॑ सुम॒त्या य॒ज्ञिया॑नाम् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स᳓मिन्द्र नो म᳓नसा ने᳓षि गो᳓भिस्सँ सूरि᳓भिर्हरिवस्सँ स्वस्त्या᳓।  
+सं᳓ ब्र᳓ह्मणा देव᳓कृतं य᳓द᳓स्ति सं᳓ देवा᳓नाँ सुमत्या᳓ यज्ञि᳓यानाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सम् । इ॒न्द्र॒ । नः॒ । मन॑सा । ने॒षि॒ । गोभिः॑ । सम् । सू॒रिऽभिः॑ । ह॒रि॒ऽवः॒ । सम् । स्व॒स्ति ।  
 सम् । ब्रह्म॑णा । दे॒वऽहि॑तम् । यत् । अस्ति॑ । सम् । दे॒वाना॑म् । सु॒ऽम॒त्या । य॒ज्ञिया॑नाम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- म᳓नसा (*MS*-63/147, *TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78)
+- ने᳓षि (*RV*-4, *SB-K*-0/1)
+- गो᳓भिः (*MS*-14/149, *TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/67, *VS-K*-7/67)
+- सम् (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-217, *TS*-4, *RV*-1, *TB*-68, *TK*-29, *AV*-1, *SB-M*-507, *SB-K*-470, *VS-K*-2)
+- सूरि᳓भिः (*MS*-2/15, *TS*-1/8, *RV*-14/111, *TB*-1/3, *AV*-2/17, *SB-M*-1/5, *SB-K*-1/3, *VS-M*-1/7, *VS-K*-1/8)
+- हरिवः (*MS*-3, *TS*-4, *RV*-44, *TB*-1, *AV*-5, *VS-M*-3, *VS-K*-1)
+- सम् (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-217, *TS*-4, *RV*-1, *TB*-68, *TK*-29, *AV*-1, *SB-M*-507, *SB-K*-470, *VS-K*-2)
+- स्वस्त्या᳓ (*MS*-4, *TS*-4, *TB*-1, *AV*-2/3, *SB-M*-4, *SB-K*-4, *VS-K*-2)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- ब्र᳓ह्मणा (*MS*-58/230, *TS*-63/157, *RV*-31/237, *TB*-40/95, *TK*-8/38, *AV*-82/266, *SB-M*-62/420, *SB-K*-56/434, *VS-M*-10/55, *VS-K*-7/51)
+- देव᳓-कृतम् (*MS*-4, *TS*-4/5, *RV*-3/4, *TB*-3, *AV*-1/6, *SB-M*-8/9, *SB-K*-7/11, *VS-M*-4/5, *VS-K*-3)
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- अ᳓स्ति (*MS*-24/36, *TS*-18/21, *RV*-89/130, *TB*-13/14, *TK*-1, *AV*-21/37, *SB-M*-51/66, *SB-K*-62/81, *VS-M*-0/6, *VS-K*-4/10)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- देवा᳓नाम् (*MS*-211/1218, *TS*-184/1282, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/531, *VS-K*-68/532)
+- सु-मत्या᳓ (*TS*-1, *RV*-3, *TB*-2, *AV*-1)
+- यज्ञि᳓यानाम् (*MS*-3/55, *TS*-5/44, *RV*-11/96, *TB*-3/26, *AV*-5/39, *SB-M*-3/54, *SB-K*-3/50, *VS-M*-3/16, *VS-K*-1/12)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -285,6 +315,12 @@ Pāda c is a minor variant of 2c and in fact makes clear what the structure of 2
 
 With willing mind, Indra, vouchsafe us cattle, prosperity, Lord of Bays! and pious patrons;  
      And, with the sacred prayer by Gods appointed, give us the holy Deities' lovingkindness.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Unite us, O Indra, in mind with cattle, unite us with patron lords, O possessor of bay steeds, unite us with welfare,  
+unite us with sacred formulation which is divine-wrought, unite us with the favor of the gods worthy of sacrifice!
 </details>
 
 <details><summary>Geldner</summary>

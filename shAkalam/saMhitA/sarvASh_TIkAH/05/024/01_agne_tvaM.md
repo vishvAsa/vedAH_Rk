@@ -80,6 +80,11 @@ varūthyàḥ ← varūthyà- (nominal stem)
 उ॒त त्रा॒ता शि॒वो भ॑व वरू॒थ्यः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ग्ने त्वं᳓ नो अ᳓न्तम उत᳓ त्राता᳓ शिवो᳓ भवा वरूथ्यः᳙
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । त्वम् । नः॒ । अन्त॑मः । उ॒त । त्रा॒ता । शि॒वः । भ॒व॒ । व॒रू॒थ्यः॑ ॥
@@ -93,6 +98,20 @@ varūthyàḥ ← varūthyà- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अग्ने॑। त्वम्। नः॒। अन्त॑मः। उ॒त। त्रा॒ता। शि॒वः। भ॒व॒। व॒रू॒थ्यः᳖।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107, *KS*-72/73)
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180, *KS*-66/165)
+- न (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48, *KS*-35)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6, *KS*-77)
+- अ᳓न्तमः (*TS*-3, *RV*-9/13, *AV*-1/3, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- उत᳓ (*TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-55)
+- त्राता᳓ (*TS*-3/7, *RV*-13/22, *TB*-1, *AV*-2/4, *SB-M*-1/2, *SB-K*-1, *VS-M*-5/8, *VS-K*-5/8, *KS*-2/5)
+- शिवः᳓ (*TS*-25/59, *RV*-19/50, *TB*-2/26, *TK*-0/1, *AV*-11/83, *SB-M*-22/52, *SB-K*-25/49, *VS-M*-22/53, *VS-K*-19/49, *KS*-9/26)
+- भवाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *KS*-1)
+- वरूथ्यः᳙ (*TS*-2, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -341,6 +360,11 @@ O AGNI, be our nearest Friend, be thou a kind deliverer and a gracious Friend.
 
 O Agni, be thou our nearest,  
 Our protector, kindly, a shield;
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, be nearest to us, and a protector, auspicious, affording shelter;
 </details>
 
 <details><summary>Oldenberg</summary>

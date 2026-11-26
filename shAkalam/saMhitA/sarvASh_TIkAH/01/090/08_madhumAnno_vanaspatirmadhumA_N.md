@@ -87,6 +87,18 @@ naḥ ← ahám (pronoun)
 माध्वी॒र्गावो॑ भवन्तु नः ॥३॥ ३१ (७८०)
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+म᳓धुमान् नो व᳓नस्प᳓तिर् म᳓धुमं अस्तु सू᳓र्यः  
+मा᳓ध्वीर् गा᳓वो भवन्तु नः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+मधुमान्नो वनस्पतिर्मधुमाँ अस्तु सूर्यः।  
+माध्वीर्गावो भवन्तु नः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 मधु॑ऽमान् । नः॒ । वन॒स्पतिः॑ । मधु॑ऽमान् । अ॒स्तु॒ । सूर्यः॑ ।  
@@ -101,6 +113,34 @@ naḥ ← ahám (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 मधु॑मा॒निति॒ मधु॑ऽमान्। नः॒। वन॒स्पतिः॑। मधु॑मा॒निति॒ मधु॑ऽमान्। अ॒स्तु॒। सूर्य्यः॑। माध्वीः॑। गावः॑। भ॒व॒न्तु॒। नः॒। ३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- म᳓धु-मान् (*TS*-3/11, *RV*-20/43, *TB*-0/4, *TK*-0/1, *AV*-9/29, *SB-M*-3/5, *SB-K*-3/6, *VS-M*-3/10, *VS-K*-3/10, *KS*-2/8)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- व᳓नस्प᳓तिः (*TS*-5/8, *RV*-9, *TB*-13, *AV*-9, *SB-M*-17, *SB-K*-16, *VS-M*-16, *VS-K*-14/23, *KS*-2)
+- म᳓धुमन् (*MW*)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-58, *VS-K*-36, *KS*-52)
+- सू᳓र्यः (*TS*-34/109, *RV*-84/337, *TB*-36/75, *TK*-6/8, *AV*-77/173, *SB-M*-66/152, *SB-K*-74/151, *VS-M*-14/36, *VS-K*-12/44, *KS*-13/52)
+- मा᳓ध्वीः (*TS*-2/4, *RV*-2/11, *AV*-0/1, *SB-M*-2/8, *SB-K*-2/7, *VS-M*-2/4, *VS-K*-2/6, *KS*-0/1)
+- गा᳓वः (*TS*-12/108, *RV*-98/521, *TB*-3/76, *AV*-35/195, *SB-M*-13/168, *SB-K*-16/149, *VS-M*-9/66, *VS-K*-8/64, *KS*-9/37)
+- भवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-19, *RV*-28, *TB*-6, *AV*-45, *SB-M*-7, *SB-K*-7, *VS-M*-18, *VS-K*-14, *KS*-9)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- म᳓धु-मान् (*MS*-3/16, *TS*-3/11, *RV*-20/43, *TB*-0/4, *TK*-0/1, *AV*-9/29, *SB-M*-3/5, *SB-K*-3/6, *VS-M*-3/10, *VS-K*-3/10)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- व᳓नस्प᳓तिः (*MS*-17, *TS*-5/8, *RV*-9, *TB*-13, *AV*-9, *SB-M*-17, *SB-K*-16, *VS-M*-16, *VS-K*-15/24)
+- म᳓धु-मान् (*MS*-3/16, *TS*-3/11, *RV*-20/43, *TB*-0/4, *TK*-0/1, *AV*-9/29, *SB-M*-3/5, *SB-K*-3/6, *VS-M*-3/10, *VS-K*-3/10)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-111, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-60, *VS-K*-39)
+- सू᳓र्यः (*MS*-45/143, *TS*-34/109, *RV*-84/337, *TB*-36/75, *TK*-6/8, *AV*-77/173, *SB-M*-66/152, *SB-K*-74/151, *VS-M*-14/38, *VS-K*-13/47)
+- मा᳓ध्वीः (*MS*-2/4, *TS*-2/4, *RV*-2/11, *AV*-0/1, *SB-M*-2/8, *SB-K*-2/7, *VS-M*-2/4, *VS-K*-2/6)
+- गा᳓वः (*MS*-7/149, *TS*-12/108, *RV*-98/521, *TB*-3/76, *AV*-35/195, *SB-M*-13/168, *SB-K*-16/149, *VS-M*-10/67, *VS-K*-9/67)
+- भवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-18, *TS*-19, *RV*-28, *TB*-6, *AV*-45, *SB-M*-7, *SB-K*-7, *VS-M*-20, *VS-K*-15)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -291,6 +331,19 @@ May the tall tree be full of sweets for us, and full of sweets the Sun:
 Sweet to us be the lord of the forest,  
 Sweet the sun,  
 Sweet be the cows to us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+‘This did Viṣṇu…’  
+Now indeed, O tree, the wind blows through your very tip;  
+and now press the Soma for Indra to drink, O mortar!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Full of sweetness to us be the lord of the forest, full of sweetness be the sun;  
+sweet to us be the cows!
 </details>
 
 <details><summary>Geldner</summary>

@@ -95,6 +95,12 @@ nidáḥ ← níd- (nominal stem)
 दहा॒शसो॑ र॒क्षसः॑ पा॒ह्य१॒॑स्मान्द्रु॒हो नि॒दो मि॑त्रमहो अव॒द्यात् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अया᳓ ते अग्ने समिधा विधेम प्र᳓ति स्तो᳓मँ शस्य᳓मानं गृभाय।  
+द᳓हाश᳓सो रक्ष᳓सः पाह्य᳙स्मा᳓न्द्रुहो᳓ निदो᳓ मित्रमहो अवद्या᳓त्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒या । ते॒ । अ॒ग्ने॒ । स॒म्ऽइधा॑ । वि॒धे॒म॒ । प्रति॑ । स्तोम॑म् । श॒स्यमा॑नम् । गृ॒भा॒य॒ ।  
@@ -105,6 +111,30 @@ nidáḥ ← níd- (nominal stem)
 
 अ॒या । ते॒ । अ॒ग्ने॒ । स॒मिधेति॑ सम्-इधा॑ । वि॒धे॒म॒ । प्रतीति॑ । स्तोम॑म् । श॒स्यमा॑नम् । गृ॒भा॒य॒ ॥   
 दह॑ । अ॒शसः॑ । र॒क्षसः॑ । पा॒हि । अ॒स्मान् । द्रु॒हः । नि॒दः । मि॒त्र॒म॒ह॒ इति॑ मित्र-म॒हः॒ । अ॒व॒द्यात् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अया᳓ (*MS*-7/146, *TS*-4/97, *RV*-25/275, *TB*-1/56, *TK*-0/6, *AV*-5/189, *SB-M*-1/963, *SB-K*-1/992, *VS-M*-1/79, *VS-K*-1/72)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- सम्-इधा → **सम्-इ᳓धा** (स्वर-लोपः, *MS*-13, *TS*-7, *RV*-24, *TB*-8, *AV*-8, *SB-M*-10, *SB-K*-11, *VS-M*-7, *VS-K*-9)
+- विधेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-29, *TS*-29, *RV*-28, *TB*-2, *TK*-2, *AV*-20, *SB-M*-11, *SB-K*-11, *VS-M*-18, *VS-K*-19)
+- प्र᳓ति (*MS*-265, *TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-1)
+- स्तो᳓मम् (*MS*-19/89, *TS*-21/122, *RV*-76/206, *TB*-7/37, *AV*-13/44, *SB-M*-15/166, *SB-K*-14/166, *VS-M*-9/45, *VS-K*-7/51)
+- शस्य᳓मानम् (*MS*-2/8, *TS*-1/4, *RV*-4/14, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-1/2, *VS-K*-1/2)
+- गृभाय (*MS*-5, *TS*-4, *RV*-12, *TB*-3, *AV*-7, *VS-M*-1)
+- द᳓ह (*TS*-1, *RV*-1, *TB*-1, *AV*-5, *SB-M*-4, *SB-K*-2, *MS*-1)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-449, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-6, *VS-K*-10)
+- अश᳓सः (*TS*-1, *RV*-2, *SB-M*-0/1, *MS*-0/4)
+- रक्ष᳓सः (*MS*-5, *TS*-4/10, *RV*-30/32, *TB*-1, *AV*-10/11, *SB-M*-1, *SB-K*-1/4, *VS-M*-4, *VS-K*-3/4)
+- पाहि᳓ (*MS*-14, *TS*-13, *RV*-30, *TB*-11, *AV*-2, *SB-M*-9, *SB-K*-8, *VS-M*-17, *VS-K*-18)
+- अस्मा᳓न् (*MS*-50/641, *TS*-46/565, *RV*-93/1308, *TB*-12/270, *TK*-2/66, *AV*-119/1252, *SB-M*-51/723, *SB-K*-56/728, *VS-M*-32/315, *VS-K*-25/274)
+- द्रुहः᳓ (*MS*-2, *TS*-2, *RV*-15/16, *AV*-14)
+- निदः᳓ (*MS*-1, *TS*-1, *RV*-15/24, *AV*-0/2)
+- मित्र-महः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-1, *RV*-14, *TB*-2, *AV*-1, *VS-M*-1, *VS-K*-2)
+- अव (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-97, *TS*-4, *RV*-26, *TB*-36, *AV*-6, *SB-M*-145, *SB-K*-164, *VS-M*-6, *VS-K*-5)
+- द्या᳓त् (*MS*-3/32, *TS*-0/18, *RV*-0/90, *TB*-1/12, *AV*-0/39, *SB-M*-2/13, *SB-K*-0/5, *VS-M*-0/17, *VS-K*-0/16)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -280,6 +310,12 @@ With this fuel, O Agni, will we serve thee;
 Accept the song of praise recited for thee;  
 Burn those that revile, the Raksases; guard us,  
 From the foe, the reviler, O rich in friends, from blame.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With this kindling stick may we serve you, O Agni; accept the hymn of praise being recited.  
+Burn the impious demons; protect us from malice, from censure, O [god] whose might is like Mitra's, from blame.
 </details>
 
 <details><summary>Geldner</summary>

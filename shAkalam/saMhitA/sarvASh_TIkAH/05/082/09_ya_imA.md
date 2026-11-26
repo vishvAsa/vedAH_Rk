@@ -69,10 +69,52 @@ suvā́ti ← √sū- 1 (root)
 प्र च॑ सु॒वाति॑ सवि॒ता ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+य᳓ इमा᳓ वि᳓श्वा जाता᳓न्य् आश्राव᳓यति श्लो᳓केन  
+प्र᳓ च सुवा᳓ति सविता᳓
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+य इमा विश्वा जातान्याश्रावयति श्लोकेन।  
+प्र च सुवाति सविता
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । इ॒मा । विश्वा॑ । जा॒तानि॑ । आ॒ऽश्रा॒वय॑ति । श्लोके॑न ।  
 प्र । च॒ । सु॒वाति॑ । स॒वि॒ता ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- इमाः᳓ (*TS*-21/965, *RV*-60/1247, *TB*-8/567, *TK*-1/57, *AV*-50/1259, *SB-M*-201/5239, *SB-K*-253/5549, *VS-M*-13/313, *VS-K*-10/289, *KS*-20/319)
+- वि᳓श्वा (*TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/214, *VS-K*-33/214, *KS*-19/118)
+- जाता᳓नि (*TS*-2/65, *RV*-11/144, *TB*-2/22, *TK*-0/4, *AV*-3/95, *SB-M*-5/84, *SB-K*-4/82, *VS-M*-0/37, *VS-K*-1/33, *KS*-1/17)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-7, *VS-K*-11, *KS*-122)
+- श्राव᳓यति (*SB-M*-14, *SB-K*-8)
+- श्लो᳓केन (*TS*-0/4, *RV*-1/26, *TB*-0/4, *AV*-0/3, *SB-M*-0/28, *SB-K*-0/27, *VS-M*-0/3, *VS-K*-0/4, *KS*-0/1)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- सुवा᳓ति (*RV*-4, *SB-M*-1)
+- सविता᳓ (*TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/110, *VS-K*-43/99, *KS*-14/41)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- इमाः᳓ (*MS*-137/1379, *TS*-21/965, *RV*-60/1247, *TB*-8/567, *TK*-1/57, *AV*-50/1259, *SB-M*-201/5239, *SB-K*-253/5549, *VS-M*-13/319, *VS-K*-10/301)
+- वि᳓श्वा (*MS*-60/301, *TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224)
+- जाता᳓नि (*MS*-3/57, *TS*-2/65, *RV*-11/144, *TB*-2/22, *TK*-0/4, *AV*-3/95, *SB-M*-5/84, *SB-K*-4/82, *VS-M*-0/37, *VS-K*-1/37)
+- आ (तिङि चोदात्तवति पा॰ ८.१.७१, *MS*-449, *TS*-5, *TB*-213, *TK*-32, *AV*-2, *SB-M*-601, *SB-K*-545, *VS-M*-6, *VS-K*-10)
+- श्राव᳓यति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*, *SB-M*-14, *SB-K*-8, *MS*-2)
+- श्लो᳓केन (*MS*-1/4, *TS*-0/4, *RV*-1/26, *TB*-0/4, *AV*-0/3, *SB-M*-0/28, *SB-K*-0/27, *VS-M*-0/3, *VS-K*-0/4)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- सुवा᳓ति (*MS*-1, *RV*-4, *SB-M*-1)
+- सविता᳓ (*MS*-80/155, *TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/109)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -165,9 +207,12 @@ and will impel (them) forth: Savitar.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/082/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 There are no overt main clauses in these last two vss., whose vs.-init. rel.
 
 prns. yáḥ hang off the accs. in vs. 7, but it is possible that the vs.-final savitā́(or in 8 deváḥ savitā́) in both cases constitutes a de facto main cl.
+</details>
 
 </details>
 </div>
@@ -176,6 +221,18 @@ prns. yáḥ hang off the accs. in vs. 7, but it is possible that the vs.-final 
 
 He who gives glory unto all these living creatures with the song,  
      And brings them forth, is Savitar.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He who causes all these creatures to hear with his song,  
+Savitṛ impels [them] forth.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+He who makes all these creatures hear with his call,  
+and impels them forward—Savitṛ.
 </details>
 
 <details><summary>Geldner</summary>

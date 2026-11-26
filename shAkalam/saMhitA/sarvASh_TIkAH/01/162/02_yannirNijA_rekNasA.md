@@ -98,6 +98,18 @@ priyám ← priyá- (nominal stem)
 सुप्रा॑ङ॒जो मेम्य॑द्वि॒श्वरू॑प इन्द्रापू॒ष्णोᳶ प्रि॒यमप्ये॑ति॒ पाथः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+य᳓न् निर्णि᳓जा रे᳓क्णसा प्रा᳓वृतस्य रातिं᳓ गृभीतां᳓ मुखतो᳓ न᳓यन्ति  
+सुप्रा᳓ङ् अजो᳓ मे᳓म्यद् विश्व᳓रूप * इन्द्रापूष्णोः᳓ प्रिय᳓म् अ᳓प्येतु पा᳓थः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+यन्निर्णिजा रेक्णसा प्रावृतस्य रातिं गृभीतां मुखतो नयन्ति।  
+सुप्राङजो मेम्यद्विश्वरूप इन्द्रापूष्णोः प्रियमप्येतु पाथः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । निः॒ऽनिजा॑ । रेक्ण॑सा । प्रावृ॑तस्य । रा॒तिम् । गृ॒भी॒ताम् । मु॒ख॒तः । नय॑न्ति ।  
@@ -117,6 +129,48 @@ priyám ← priyá- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 यत् । नि॒र्णिजेति॑ निः-निजा॑ । रेक्ण॑सा । प्रावृ॑तस्य । रा॒तिम् । गृ॒भी॒ताम् । मु॒ख॒तः । नय॑न्ति ॥ सुप्रा॒ङिति॒ सु-प्रा॒ङ् । अ॒जः । मेम्य॑त् । वि॒श्वरू॑प॒ इति॑ वि॒श्व-रू॒पः॒ । इ॒न्द्रा॒पू॒ष्णोरिती॑न्द्रा-पू॒ष्णोः । प्रि॒यम् । अपीति॑ । ए॒ति॒ । पाथः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- निः-नि᳓जा (*TS*-1, *RV*-1/22, *VS-M*-1, *VS-K*-1)
+- रे᳓क्णसा (*TS*-1, *RV*-1/12, *VS-M*-1, *VS-K*-1)
+- प्रा᳓वृतस्य (*TS*-1/3, *RV*-1/2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/2, *KS*-0/1)
+- राति᳓म् (*TS*-2/6, *RV*-21/76, *TB*-1/4, *AV*-2/11, *SB-M*-2/6, *SB-K*-2/7, *VS-M*-4/8, *VS-K*-4/8, *KS*-0/2)
+- गृभीता᳓म् (*TS*-1/3, *RV*-1/8, *TB*-1, *AV*-0/1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/2, *VS-K*-1/2, *KS*-1/2)
+- मुखतः᳓ (*TS*-19/21, *RV*-1, *TB*-11, *AV*-1, *SB-M*-8, *SB-K*-7, *VS-M*-1, *VS-K*-1, *KS*-3)
+- न᳓यन्ति (*TS*-3/6, *RV*-5/8, *TB*-8, *AV*-2/3, *SB-M*-16, *SB-K*-12)
+- सु-प्रा᳓ङ् (*Macdonell*)
+- अजः᳓ (*TS*-11/32, *RV*-14/21, *TB*-2/14, *AV*-23/47, *SB-M*-26/74, *SB-K*-24/65, *VS-M*-8/11, *VS-K*-6/13, *KS*-6/12)
+- मे᳓म्यत् (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- विश्व᳓-रूपः (*TS*-5/11, *RV*-6/20, *TB*-1/5, *TK*-0/1, *AV*-4/44, *SB-M*-3/16, *SB-K*-3/17, *VS-M*-2/8, *VS-K*-2/9, *KS*-1/6)
+- इन्द्रा-पूष्णोः᳓ (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- प्रिय᳓म् (*TS*-40/92, *RV*-77/213, *TB*-21/83, *TK*-0/1, *AV*-44/90, *SB-M*-55/134, *SB-K*-53/141, *VS-M*-19/60, *VS-K*-9/45, *KS*-8/26)
+- अ᳓पि (*TS*-103, *RV*-86, *TB*-47, *TK*-2, *AV*-94, *SB-M*-482, *SB-K*-467, *VS-M*-19, *VS-K*-11, *KS*-31)
+- एतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-26, *RV*-51, *TB*-15, *AV*-76, *SB-M*-17, *SB-K*-16, *VS-M*-17, *VS-K*-10, *KS*-8)
+- पा᳓थः (*TS*-12/13, *RV*-18, *TB*-3/6, *AV*-2, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-9/12, *VS-K*-4/6, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- निः-नि᳓जा (*TS*-1, *RV*-1/22, *VS-M*-1, *VS-K*-1, *MS*-2)
+- रे᳓क्णसा (*MS*-1, *TS*-1, *RV*-1/12, *VS-M*-1, *VS-K*-1)
+- प्रा᳓वृतस्य (*MS*-1/2, *TS*-1/3, *RV*-1/2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1/2, *VS-K*-1/2)
+- राति᳓म् (*MS*-3/11, *TS*-2/6, *RV*-21/76, *TB*-1/4, *AV*-2/11, *SB-M*-2/6, *SB-K*-2/7, *VS-M*-4/8, *VS-K*-4/8)
+- गृभीता᳓म् (*MS*-1/4, *TS*-1/3, *RV*-1/8, *TB*-1, *AV*-0/1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/2, *VS-K*-1/2)
+- मुखतः᳓ (*MS*-24, *TS*-19/21, *RV*-1, *TB*-11, *AV*-1, *SB-M*-8, *SB-K*-7, *VS-M*-1, *VS-K*-1)
+- न᳓यन्ति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-7, *TS*-3, *RV*-5, *TB*-8, *AV*-2, *SB-M*-16, *SB-K*-12)
+- सु-प्रा᳓ङ् (*Macdonell*, *MS*-1)
+- अजः᳓ (*MS*-11/40, *TS*-11/32, *RV*-14/21, *TB*-2/14, *AV*-23/47, *SB-M*-26/74, *SB-K*-24/65, *VS-M*-8/11, *VS-K*-6/13)
+- मे᳓म्यत् (*Whitney*, *MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- विश्व᳓-रूपः (*MS*-5/15, *TS*-5/11, *RV*-6/20, *TB*-1/5, *TK*-0/1, *AV*-4/44, *SB-M*-3/16, *SB-K*-3/17, *VS-M*-2/8, *VS-K*-2/9)
+- इन्द्रा-पूष्णोः᳓ (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- प्रिय᳓म् (*MS*-36/135, *TS*-40/92, *RV*-77/213, *TB*-21/83, *TK*-0/1, *AV*-44/90, *SB-M*-55/134, *SB-K*-53/141, *VS-M*-19/60, *VS-K*-10/47)
+- अ᳓पि (*MS*-118, *TS*-103, *RV*-86, *TB*-47, *TK*-2, *AV*-94, *SB-M*-482, *SB-K*-467, *VS-M*-19, *VS-K*-11)
+- एतु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-26, *TS*-26, *RV*-51, *TB*-15, *AV*-76, *SB-M*-17, *SB-K*-16, *VS-M*-17, *VS-K*-11)
+- पा᳓थः (*Whitney*, *MS*-7/10, *TS*-12/13, *RV*-18, *TB*-3/6, *AV*-2, *SB-M*-5/6, *SB-K*-5/6, *VS-M*-9/12, *VS-K*-5/7)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -511,6 +565,13 @@ _________
 विश्वरूपो नानारूपः सन्निन्द्रापूष्णोरिन्द्रपूषप्रभृतीनां देवानां प्रियं पाथोऽष्येति प्रीतिकरमन्नभावं प्राप्नोति ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[640_8]** So corr. Ch मेस्य॰ ; vgl. RV 1, 162, 2; MS 3, 16, 1; TS 4, 6, 8, 1; VS 25, 25. (Thus emended; Ch reads मेस्य॰; cf. RV 1, 162, 2; MS 3, 16, 1; TS 4, 6, 8, 1; VS 25, 25)
+
+- **[640_9]** So auch MS 3, 16, 1; in RV 1, 162, 2 प्येति; desgl. TS 4, 6, 81; VS 25, 25. (Thus also MS 3, 16, 1; in RV 1, 162, 2 प्येति; likewise TS 4, 6, 81; VS 25, 25.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर मनुष्य क्या करें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -585,6 +646,18 @@ What time they bear before the Courser, covered with trappings and with wealth, 
 When they bear before him, covered with a garment and with wealth The gift they have seized,  
 The goat, all-formed, bleating,  
 Goeth straight to the dear stronghold of Indra and Pusan.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When they lead before him the gift seized by the bridle, of him who is covered with garment [and] treasure,  
+bleating, the goat of all forms, facing well forward, goes straight to the dear domain of Indra and Pūṣan.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+When they lead forward the gift taken by the head of him covered with ornament and wealth,  
+stepping well forward, bleating, all-formed, may the goat go to the dear domain of Indra and Pūṣan!
 </details>
 
 <details><summary>Geldner</summary>

@@ -418,6 +418,20 @@ He hath filled the sky and earth and atmosphere;
 The sun is the self of all that moveth and standeth.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+The wondrous face of the gods has arisen, the eye of Mitra, of Varuṇa, of Agni;  
+he has filled heaven, earth, and the intermediate space—the Sun, the soul of what moves and what stands!  
+Go to heaven!  
+Go to the light!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+The wondrous face of the gods has arisen, the eye of Mitra, Varuṇa, and Agni;  
+he has filled heaven and earth and the atmosphere, the sun, the soul of what moves and stands.
+</details>
+
 <details><summary>Geldner</summary>
 
 Prangend ist das Antlitz der Götter aufgegangen, das Auge von Mitra, Varuna, Agni. Er hat Himmel und Erde und die Luft erfüllt; Surya ist die Seele von allem was geht und steht.

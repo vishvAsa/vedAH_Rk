@@ -101,6 +101,12 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 घृ॒तस्य॒ धाराः॑ स॒मिधो॑ नसन्त॒ ता जु॑षा॒णो ह॑र्यति जा॒तवे॑दाः ॥९॥ ९
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अभि प्रवन्त समनेव योषाः कल्याण्यस्स्मयमानासो अग्निम्।  
+घृतस्य धारास्समिधो नसन्त ता जुषाणो हर्यति जातवेदाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒भि । प्र॒व॒न्त॒ । सम॑नाऽइव । योषाः॑ । क॒ल्या॒ण्यः॑ । स्मय॑मानासः । अ॒ग्निम् ।  
@@ -115,6 +121,26 @@ tā́ḥ ← sá- ~ tá- (pronoun)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अ॒भि। प्र॒व॒न्त॒। सम॑ने॒वेति॒ सम॑नाऽइव। योषाः॑। क॒ल्या॒ण्यः᳙। स्मय॑मानासः। अ॒ग्निम्। घृ॒तस्य॑। धाराः॑। स॒मिध॒ इति॑ स॒म्ऽइधः॑। न॒स॒न्त॒। ताः। जु॒षा॒णः। ह॒र्यति॒। जा॒तवे॑दाः। ९।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- प्रवन्त (*RV*-1, *VS-M*-1, *VS-K*-1)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- अनेव (समानान्तर-पाठः (VS-K), *MS*-1)
+- यो᳓षाः (*MS*-1/6, *TS*-0/3, *RV*-2/30, *TB*-0/5, *AV*-1/6, *SB-M*-3/90, *SB-K*-5/89, *VS-M*-1/3, *VS-K*-1/2)
+- कल्याण्यः (समानान्तर-पाठः (VS-K), *VS-K*-1)
+- स्म᳓यमानासः (*MS*-0/2, *TS*-0/1, *RV*-1/3, *TB*-0/1, *VS-M*-1, *VS-K*-1)
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- घृत᳓स्य (*MS*-23/118, *TS*-15/64, *RV*-19/91, *TB*-10/34, *TK*-0/1, *AV*-10/40, *SB-M*-9/51, *SB-K*-10/51, *VS-M*-11/49, *VS-K*-11/45)
+- धा᳓राः (*MS*-3/14, *TS*-7/25, *RV*-27/107, *TB*-0/2, *TK*-1/3, *AV*-9/13, *SB-M*-3/41, *SB-K*-3/39, *VS-M*-7/11, *VS-K*-7/10)
+- सम्-इ᳓धः (*MS*-12/54, *TS*-16/39, *RV*-5/44, *TB*-9/34, *TK*-2/3, *AV*-9/27, *SB-M*-47/149, *SB-K*-46/139, *VS-M*-6/22, *VS-K*-6/24)
+- नसन्त (*RV*-4, *VS-M*-1, *VS-K*-1)
+- ताः᳓ (*MS*-302/5550, *TS*-136/4761, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/780, *VS-K*-17/660)
+- जुषाणः᳓ (*MS*-10/14, *TS*-9/14, *RV*-25/28, *TB*-10/15, *TK*-2/3, *AV*-9/14, *SB-M*-10/12, *SB-K*-9/14, *VS-M*-9/12, *VS-K*-8/11)
+- हर्यति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-K*-1)
+- जात᳓-वेदाः (*MS*-10, *TS*-8, *RV*-23, *TB*-6, *AV*-25/26, *SB-M*-7, *SB-K*-7, *VS-M*-11, *VS-K*-10)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -344,6 +370,11 @@ _________
 प्रेप्सति वृतस्य धाराः प्रकामयते ॥ ९ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[606_4]** So corr. Ch कल्याणस्म्मय॰; vgl. RV 4, 58, 8. (Thus emended; Ch reads कल्याणस्म्मय॰; cf. RV 4, 58, 8)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर वही विषय अगले मन्त्र में कहा है ॥
@@ -413,6 +444,12 @@ Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: 
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Like women at a gathering fair to look on and gently smiling, they incline to Agni. The streams of holy oil attain the fuel, and Jâtavedas joyfully receives them.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+They stream forward toward Agni like lovely women smiling on their way to a festival;  
+the streams of ghee reach the kindling-logs; enjoying them, Jātavedas is pleased.
 </details>
 
 <details><summary>Geldner</summary>

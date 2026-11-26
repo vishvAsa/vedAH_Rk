@@ -86,10 +86,35 @@ vásūni ← vásu- (nominal stem)
 वैश्वा॑नर॒ त्वम॒स्मासु॑ धेहि॒ वसू॑नि राजन्त्स्पृह॒याय्या॑णि ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्व᳓द्विप्रो जायते वाज्यृग्ने त्व᳓द्वीरा᳓सो अभिमातिषा᳓हः।  
+वै᳓श्वानर त्व᳓मस्मा᳓सु धेहि व᳓सूनि राजन्स्पृहया᳓य्याणि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वत् । विप्रः॑ । जा॒य॒ते॒ । वा॒जी । अ॒ग्ने॒ । त्वत् । वी॒रासः॑ । अ॒भि॒मा॒ति॒ऽसहः॑ ।  
 वैश्वा॑नर । त्वम् । अ॒स्मासु॑ । धे॒हि॒ । वसू॑नि । रा॒ज॒न् । स्पृ॒ह॒याय्या॑णि ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्व᳓त् (*MS*-3/382, *TS*-6/313, *RV*-46/1488, *TB*-13/152, *TK*-1/39, *AV*-24/628, *SB-M*-32/387, *SB-K*-58/387, *VS-M*-8/216, *VS-K*-8/180)
+- विप्रः → **वि᳓प्रः** (स्वर-लोपः, *MS*-5/19, *TS*-6/22, *RV*-59/218, *TB*-5/8, *AV*-4/31, *SB-M*-3/13, *SB-K*-2/11, *VS-M*-3/18, *VS-K*-3/19)
+- जायते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-54, *TS*-66, *RV*-17, *TB*-42, *TK*-2, *AV*-10, *SB-M*-131, *SB-K*-124, *VS-M*-7, *VS-K*-6)
+- वाजी᳓ (*MS*-12/48, *TS*-30/55, *RV*-67/172, *TB*-8/18, *TK*-0/1, *AV*-5/25, *SB-M*-15/28, *SB-K*-12/24, *VS-M*-14/35, *VS-K*-14/33)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- त्व᳓त् (*MS*-3/382, *TS*-6/313, *RV*-46/1488, *TB*-13/152, *TK*-1/39, *AV*-24/628, *SB-M*-32/387, *SB-K*-58/387, *VS-M*-8/216, *VS-K*-8/180)
+- वीरा᳓सः (*MS*-0/36, *TS*-0/20, *RV*-3/119, *TB*-0/25, *AV*-0/66, *SB-M*-0/28, *SB-K*-0/32, *VS-M*-0/19, *VS-K*-0/17)
+- अभिमाति-सा᳓हः (*TS*-1/4, *SB-K*-1, *MS*-1/4)
+- वै᳓श्वानर (*MS*-3, *TS*-3, *RV*-19)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- अस्मा᳓सु (*MS*-11/641, *TS*-13/565, *RV*-21/1308, *TB*-5/270, *TK*-0/66, *AV*-24/1252, *SB-M*-5/723, *SB-K*-6/728, *VS-M*-5/315, *VS-K*-4/274)
+- धेहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-50, *TS*-34, *RV*-63, *TB*-26, *TK*-1, *AV*-91, *SB-M*-27, *SB-K*-21, *VS-M*-30, *VS-K*-19)
+- व᳓सूनि (*MS*-13, *TS*-13, *RV*-66, *TB*-7, *AV*-15, *SB-M*-3, *SB-K*-2, *VS-M*-3, *VS-K*-3)
+- राजन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-20, *TS*-19, *RV*-42, *TB*-10, *AV*-18, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-2)
+- स्पृहया᳓य्याणि (*RV*-1/4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -216,7 +241,10 @@ O Vaiśvānara, establish in us goods to be craved, o king.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
 <details><summary><h2>03-05 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 The middle of the hymn is characterized by initial (or modified initial) forms of the 2nd sg. prn.: 3a tvát, 3b tvát, 3c VOC tvám, 4a tvā́m, 4c táva, 5a VOC táva.
+</details>
 
 </details>
 </div>
@@ -225,6 +253,12 @@ The middle of the hymn is characterized by initial (or modified initial) forms o
 
 From thee, O Agni, springs the mighty singer, from thee come heroes who subdue the foeman.  
      O King, Vaisvanara, bestow thou on us excellent treasures worthy to belonged fo r.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+from you [are born] heroes who overcome enemies.  
+O King Vaiśvānara, place among us desirable goods!
 </details>
 
 <details><summary>Geldner</summary>

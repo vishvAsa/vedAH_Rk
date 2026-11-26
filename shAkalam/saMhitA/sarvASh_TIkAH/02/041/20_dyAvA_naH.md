@@ -75,6 +75,12 @@ yajñám ← yajñá- (nominal stem)
 य॒ज्ञन्दे॒वेषु॑ यच्छताम् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+द्या᳓वा नः पृथिवी᳓ इमँ᳓ सिध्र᳓म् अद्य᳓ दिविस्पृ᳓शम्  
+यज्ञं᳓ देवे᳓षु यछताम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 द्यावा॑ । नः॒ । पृ॒थि॒वी इति॑ । इ॒मम् । सि॒ध्रम् । अ॒द्य । दि॒वि॒ऽस्पृश॑म् ।  
@@ -190,6 +196,12 @@ This our.effectual sacrifice, reaching the sky, shall Heaven and Earth
 May sky and earth this day  
 Place among the gods this sacrifice,  
 Successful, touching the sky.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May Heaven and Earth stretch this sacrifice today to the gods,  
+succeeding, touching heaven.
 </details>
 
 <details><summary>Geldner</summary>

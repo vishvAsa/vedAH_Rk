@@ -95,10 +95,38 @@ saúbhagāni ← saúbhaga- (nominal stem)
 क्षामे॑व॒ विश्वा॒ भुव॑नानि॒ यस्मि॒न्त्सं सौभ॑गानि दधि॒रे पा॑व॒के ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वे᳓ व᳓सूनि पूर्वणीक होतर्दोषा᳓ व᳓स्तोरे᳓रिरे यज्ञि᳓यासः।  
+क्षा᳓मेव वि᳓श्वा भु᳓वनानि य᳓स्मिन्स᳓ सौ᳓भगानि दधिरे᳓ पावके᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वे इति॑ । वसू॑नि । पु॒रु॒ऽअ॒नी॒क॒ । हो॒तः॒ । दो॒षा । वस्तोः॑ । आ । ई॒रि॒रे॒ । य॒ज्ञिया॑सः ।  
 क्षाम॑ऽइव । विश्वा॑ । भुव॑नानि । यस्मि॑न् । सम् । सौभ॑गानि । द॒धि॒रे । पा॒व॒के ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्वे᳓ (*MS*-6/301, *TS*-8/261, *RV*-72/980, *TB*-7/122, *TK*-0/14, *AV*-10/458, *SB-M*-8/270, *SB-K*-15/273, *VS-M*-5/167, *VS-K*-5/142)
+- व᳓सूनि (*MS*-13, *TS*-13, *RV*-66, *TB*-7, *AV*-15, *SB-M*-3, *SB-K*-2, *VS-M*-3, *VS-K*-3)
+- पूर्वणि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- इक (मूल-पाठः)
+- होतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-9, *TS*-10, *RV*-18, *TB*-3, *AV*-2, *SB-M*-7, *SB-K*-1, *VS-M*-3, *VS-K*-4)
+- दोषा᳓ (*MS*-1/3, *TS*-2/3, *RV*-14, *AV*-1, *SB-M*-0/3, *SB-K*-0/4)
+- व᳓स्तोः (*MS*-6/7, *TS*-3/4, *RV*-22/27, *TB*-3/5, *AV*-4/6, *SB-M*-1/4, *SB-K*-1/3, *VS-M*-4, *VS-K*-5/7)
+- ए᳓रिरे (*MW*)
+- यज्ञि᳓यासः (*MS*-1/55, *TS*-1/44, *RV*-15/96, *TB*-1/26, *AV*-2/39, *SB-M*-1/54, *SB-K*-1/50, *VS-M*-1/16, *VS-K*-1/12)
+- क्षा᳓म् (*MS*-1/4, *RV*-17/27, *TB*-1, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-K*-0/1)
+- एव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-13, *TS*-2, *TB*-10, *TK*-1, *AV*-3, *SB-M*-17, *SB-K*-8, *VS-M*-1)
+- वि᳓श्वा (*MS*-60/301, *TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224)
+- भु᳓वनानि (*MS*-16/53, *TS*-11/39, *RV*-59/144, *TB*-6/32, *TK*-0/6, *AV*-29/65, *SB-M*-8/30, *SB-K*-3/26, *VS-M*-18/42, *VS-K*-18/41)
+- य᳓स्मिन् (*MS*-14/3763, *TS*-9/3385, *RV*-51/4011, *TB*-16/1735, *TK*-1/227, *AV*-46/3120, *SB-M*-43/8327, *SB-K*-35/8438, *VS-M*-13/651, *VS-K*-9/609)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- सौ᳓भगानि (*MS*-0/8, *TS*-1/5, *RV*-7/28, *TB*-0/5, *AV*-0/14, *SB-M*-0/8, *SB-K*-0/5, *VS-M*-0/7, *VS-K*-0/10)
+- दधिरे᳓ (*MS*-1, *TS*-2, *RV*-18, *AV*-4, *SB-K*-1)
+- पावके᳓ (*MS*-0/28, *TS*-2/24, *RV*-2/46, *TB*-0/11, *TK*-0/1, *AV*-0/7, *SB-M*-0/19, *SB-K*-0/19, *VS-M*-0/10, *VS-K*-0/11)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -230,6 +258,11 @@ _________
 तद् **इव** पूर्वम् असुभगानि भुवनानि त्वत्प्रसादेन सुभगानि भवन्तीति । तस्मादस्माकं शत्रुबलं पूर्वापरमरणं गृहदाहं च शमयित्वा सुभगानस्मान्कुरु श्रीमतो यशस्विनश्च कुरु । पुनातेर्ण्यन्ताण्ण्वुल्, उदात्तनिवृत्तिस्वरेण पावकशब्दस्यान्तोदात्तत्वम् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[82_13]** Ch पूर्वणेक
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -268,6 +301,12 @@ He blazeth with his light within the firmaments.
 In thee, O many-faced sacrificer [2],  
 Morning and evening, the sacrificers place their treasures,  
 In whom, purifying, good things are placed, even as the heaven and earth (support) all beings.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+In you, many-faced Hotṛ, the worshipful ones have aroused treasures evening and morning;  
+in whom, the purifier, all worlds, like the earth, [and all] good fortunes are placed.
 </details>
 
 <details><summary>Geldner</summary>

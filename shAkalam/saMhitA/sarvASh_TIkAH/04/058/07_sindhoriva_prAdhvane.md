@@ -89,6 +89,12 @@ pínvamānaḥ ← √pinv- (root)
 घृ॒तस्य॒ धारा॑ अरु॒षो न वा॒जी काष्ठा॑ भि॒न्दन्नू॒र्मिभिः॒ पिन्व॑मानः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सिन्धोरिव प्राध्वने शूघनासो वातप्रमियः पतयन्ति यव्हाः।  
+घृतस्य धारा अरुषो न वाजी काष्ठा भिन्दन्नूर्मिभिः पिन्वमानः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सिन्धोः॑ऽइव । प्र॒ऽअ॒ध्व॒ने । शू॒घ॒नासः॑ । वात॑ऽप्रमियः । प॒त॒य॒न्ति॒ । य॒ह्वाः ।  
@@ -103,6 +109,25 @@ pínvamānaḥ ← √pinv- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 सिन्धो॑रि॒वेति॒ सिन्धाःऽइव। प्रा॒ध्व॒न इति॑ प्रऽअध्व॒ने। शू॒घ॒नासः॑। वात॑प्रमिय॒ इति॒ वात॑ऽप्रमियः। प॒त॒य॒न्ति॒। य॒ह्वाः। घृतस्य॑। धाराः॑। अ॒रु॒षः। न। वा॒जी। काष्ठाः॑। भि॒न्दन्। ऊ॒र्मिभि॒रित्यू॒र्मिः॑। पिन्व॑मानः। ८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सि᳓न्धोरिव (*RV*-4)
+- प्राध्वने᳓ (अनाम्नातम् (अनुमानम्))
+- शूघना᳓सः (*RV*-1, *VS-M*-1, *VS-K*-1)
+- वा᳓त-प्रमियः (*RV*-1, *VS-M*-1, *VS-K*-1)
+- पतयन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *AV*-1)
+- य᳓व्हाः (अनाम्नातम् (अनुमानम्))
+- घृत᳓स्य (*MS*-23/118, *TS*-15/64, *RV*-19/91, *TB*-10/34, *TK*-0/1, *AV*-10/40, *SB-M*-9/51, *SB-K*-10/51, *VS-M*-11/49, *VS-K*-11/45)
+- धा᳓राः (*MS*-3/14, *TS*-7/25, *RV*-27/107, *TB*-0/2, *TK*-1/3, *AV*-9/13, *SB-M*-3/41, *SB-K*-3/39, *VS-M*-7/11, *VS-K*-7/10)
+- अरुषः᳓ (*MS*-2/8, *TS*-2/7, *RV*-22/57, *TB*-1/2, *AV*-1/6, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-1/6, *VS-K*-1/5)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- वाजी᳓ (*MS*-12/48, *TS*-30/55, *RV*-67/172, *TB*-8/18, *TK*-0/1, *AV*-5/25, *SB-M*-15/28, *SB-K*-12/24, *VS-M*-14/35, *VS-K*-14/33)
+- का᳓ष्ठा (*MS*-2/3, *TS*-6/7, *RV*-1/11, *TB*-1/3, *SB-M*-1/3, *SB-K*-1/4, *VS-M*-2/3, *VS-K*-2/3)
+- भिन्द᳓न् (*RV*-2, *AV*-1, *VS-M*-1, *VS-K*-1)
+- ऊर्मि᳓भिः (*MS*-1/14, *TS*-0/10, *RV*-5/70, *TB*-1/4, *AV*-0/6, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-0/10, *VS-K*-0/12)
+- पि᳓न्वमानः (*MS*-1/4, *TS*-1/5, *RV*-2/10, *TB*-0/4, *TK*-2/3, *AV*-2/6, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-2/6, *VS-K*-2/6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -404,6 +429,12 @@ As rushing down the rapids of a river, flow swifter than the wind the vigorous c
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 As rushing down the rapids of a river, flow swifter than the wind the vigorous currents, The streams of oil in swelling fluctuation like a red courser bursting through the fences.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Like swift ones on the course of a river, breaking wind, the young waters fly;  
+the streams of ghee swell with waves like a reddish prize-horse bursting through the course.
 </details>
 
 <details><summary>Geldner</summary>

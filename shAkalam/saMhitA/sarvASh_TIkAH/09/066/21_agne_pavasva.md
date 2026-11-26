@@ -236,6 +236,12 @@ Glory in good heroes;
 Giving increase and wealth to me.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, purify [us], doing good work; [place] in us luster [and] good heroes,  
+placing wealth, nourishment in me.
+</details>
+
 <details><summary>Geldner</summary>
 
 O Agni, du der Guteswirker, läutere uns Ansehen und die Meisterschaft herbei, mir Reichtum und Zuwachs bringend!

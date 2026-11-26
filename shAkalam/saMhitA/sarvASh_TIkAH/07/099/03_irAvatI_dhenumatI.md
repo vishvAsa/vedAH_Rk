@@ -89,10 +89,37 @@ pr̥thivī́m ← pr̥thivī́- (nominal stem)
 व्य॑स्तभ्ना॒ रोद॑सी विष्णवे॒ते दा॒धर्थ॑ पृथि॒वीम॒भितो॑ म॒यूखैः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+इ᳓रावती धेनुम᳓ती हि᳓ भूतँ᳓ सूयवसि᳓नी म᳓नवे यशस्ये᳙  
+व्य᳙ष्कभ्ना रो᳓दसी विष्ण एते᳓ दाध᳓र्थ पृथिवी᳓म् अभि᳓तो मयू᳓खैः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इरा॑वती॒ इतीरा॑ऽवती । धे॒नु॒मती॒ इति॑ धे॒नु॒ऽमती॑ । हि । भू॒तम् । सु॒य॒व॒सिनी॒ इति॑ सु॒ऽय॒व॒सिनी॑ । मनु॑षे । द॒श॒स्या ।  
 वि । अ॒स्त॒भ्नाः॒ । रोद॑सी॒ इति॑ । वि॒ष्णो॒ इति॑ । ए॒ते इति॑ । दा॒धर्थ॑ । पृ॒थि॒वीम् । अ॒भितः॑ । म॒यूखैः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- इ᳓रावती (*TS*-1, *RV*-1/3, *TB*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- धेनुम᳓ती (*TS*-1, *RV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-42, *KS*-81)
+- भूत᳓म् (*TS*-21/65, *RV*-13/22, *TB*-11/32, *TK*-27/37, *AV*-29/74, *SB-M*-64/303, *SB-K*-59/290, *VS-M*-6/28, *VS-K*-3/26, *KS*-3/21)
+- सु-यवसि᳓नी (*TS*-1, *RV*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- म᳓नवे (*TS*-3/35, *RV*-37/72, *TB*-3/13, *AV*-5/13, *SB-M*-3/29, *SB-K*-3/30, *VS-M*-3/6, *VS-K*-2/6, *KS*-2/7)
+- यशस्ये᳙ (*TS*-1, *KS*-1)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- अष्कभ्नाः (मूल-पाठः)
+- रो᳓दसी (*TS*-14/18, *RV*-186/207, *TB*-6, *TK*-1, *AV*-28, *SB-M*-8/9, *SB-K*-8/9, *VS-M*-13/15, *VS-K*-13/16, *KS*-11/12)
+- विः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *VS-K*-1, *KS*-4)
+- णः (*TS*-4, *TB*-7, *SB-M*-3, *VS-K*-5, *KS*-16)
+- एते᳓ (*TS*-102/1674, *RV*-57/320, *TB*-52/858, *TK*-11/130, *AV*-13/340, *SB-M*-483/11086, *SB-K*-487/10669, *VS-M*-3/129, *VS-K*-3/104, *KS*-13/287)
+- दाध᳓र्थ (*RV*-2, *SB-M*-1, *SB-K*-1, *VS-K*-1, *KS*-1)
+- पृथिवी᳓म् (*TS*-63/106, *RV*-64/156, *TB*-27/52, *TK*-5/6, *AV*-74/155, *SB-M*-58/156, *SB-K*-70/126, *VS-M*-33/53, *VS-K*-33/54, *KS*-15/35)
+- अभि᳓तः (*TS*-38, *RV*-25, *TB*-10, *AV*-15, *SB-M*-64, *SB-K*-67, *VS-M*-6, *VS-K*-7, *KS*-5)
+- मयू᳓खैः (*TS*-1/3, *RV*-1/2, *AV*-0/1, *SB-M*-1, *SB-K*-1/2, *VS-M*-1, *VS-K*-1, *KS*-1/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -264,6 +291,12 @@ So then be ye two rich in food, in cows,
 In good grass, ye that are famous, for man  
 These two firmaments Visnu held asunder;  
 He holdeth the earth on all sides with pegs.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Abounding in food, abounding in milk indeed be, having good pasture, glorious for Manu!  
+You propped apart these two world-halves, O Viṣṇu; you supported the earth all around with pegs.
 </details>
 
 <details><summary>Geldner</summary>

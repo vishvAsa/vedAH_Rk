@@ -91,10 +91,34 @@ sapema ← √sap- (root)
 हिर॑ण्यवर्णमरु॒षँ स॑पेम ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आ᳓ वेध᳓सं नी᳓लपृष्ठं बृह᳓न्तं बृ᳓हस्प᳓तिँ स᳓दने सादयध्वम्  
+साद᳓द्योनिं द᳓मा आ᳓ दीदिवाँ᳓सँ हि᳓रण्यवर्णम् अरुषँ᳓ सपेम
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । वे॒धस॑म् । नील॑ऽपृष्ठम् । बृ॒हन्त॑म् । बृह॒स्पति॑म् । सद॑ने । सा॒द॒य॒ध्व॒म् ।  
 सा॒दत्ऽयो॑निम् । दमे॑ । आ । दी॒दि॒ऽवांस॑म् । हिर॑ण्यऽवर्णम् । अ॒रु॒षम् । स॒पे॒म॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- वेध᳓सम् (*TS*-0/6, *RV*-1/37, *TB*-1/4, *AV*-0/8, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/3)
+- नी᳓ल-पृष्ठम् (*RV*-1/3)
+- बृह᳓न्तम् (*TS*-5/6, *RV*-35/44, *TB*-7/8, *TK*-1, *AV*-4/7, *SB-M*-4/6, *SB-K*-3/5, *VS-M*-5/7, *VS-K*-5/7, *KS*-2)
+- बृ᳓हस्प᳓तिम् (*TS*-9, *RV*-25, *TB*-1, *TK*-1, *AV*-13, *SB-M*-8, *SB-K*-5, *VS-M*-6, *VS-K*-8, *KS*-3)
+- स᳓दने (*TS*-9/30, *RV*-38/171, *TB*-4/11, *AV*-8/35, *SB-M*-9/15, *SB-K*-9/15, *VS-M*-7/14, *VS-K*-7/14, *KS*-2/9)
+- सादयध्वम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1)
+- साद᳓द्योनिम् (*MW*)
+- द᳓माः (*TS*-0/3, *RV*-0/45, *TB*-0/2, *TK*-0/1, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-0/2, *VS-K*-0/2, *KS*-0/8)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- दीदि-वां᳓सम् (*TS*-2, *RV*-11, *TB*-2, *KS*-3)
+- हि᳓रण्य-वर्णम् (*TS*-0/4, *RV*-3/6, *TB*-0/5, *AV*-1/6, *VS-M*-0/1, *KS*-0/1)
+- अरुष᳓म् (*TS*-4/7, *RV*-12/57, *TB*-1/2, *AV*-4/6, *SB-M*-4/5, *SB-K*-4/5, *VS-M*-5/6, *VS-K*-3/4, *KS*-2)
+- सपेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -237,6 +261,12 @@ reddish—(him) may we serve.714 V.44
 
 Set in his seat the God whose back is dusky, Brhaspati the lofty, the Disposer.  
      Him let us worship, set within the dwelling, the red, the golden-hued, the allresplendent.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Seat Bṛhaspati in his seat, the wise, dark-backed, mighty!  
+Resting in his source, shining in the home, golden-colored, ruddy, let us serve him.
 </details>
 
 <details><summary>Geldner</summary>

@@ -103,6 +103,12 @@ sutármāṇam ← sutárman- (nominal stem)
 सु॒तर्मा॑ण॒मधि॒ नावँ॑ रुहेम॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इमां धियँ शिक्षमानस्य देव क्रतुं᳓ दक्षं वरुणँ सँशिशाधि।  
+ययाति विश्वा दुरिता तरेम सुतर्माणमधि नावं रुहेयम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒माम् । धिय॑म् । शिक्ष॑माणस्य । दे॒व॒ । क्रतु॑म् । दक्ष॑म् । व॒रु॒ण॒ । सम् । शि॒शा॒धि॒ ।  
@@ -112,6 +118,28 @@ sutármāṇam ← sutárman- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 इ॒माम् । धिय॑म् । शिक्ष॑माणस्य । दे॒व॒ । क्रतु॑म् । दक्ष॑म् । व॒रु॒ण॒ । समिति॑ । शि॒शा॒धि॒ । यया॑ । अतीति॑ । विश्वा॑ । दु॒रि॒तेति॑ दुः-इ॒ता । तरे॑म । सु॒तर्मा॑ण॒मिति॑ सु-तर्मा॑णम् । अधीति॑ । नाव॑म् । रु॒हे॒म॒ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इमा᳓म् (*MS*-62/1379, *TS*-47/965, *RV*-55/1247, *TB*-24/567, *TK*-0/57, *AV*-55/1259, *SB-M*-186/5239, *SB-K*-157/5549, *VS-M*-10/319, *VS-K*-8/301)
+- धि᳓यम् (*MS*-11/20, *TS*-5/11, *RV*-45/113, *TB*-5/8, *AV*-5/10, *SB-M*-2/11, *SB-K*-2/9, *VS-M*-4/19, *VS-K*-3/17)
+- शिक्ष (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-8, *AV*-1)
+- मा᳓नस्य (*MS*-0/3, *TS*-0/1, *RV*-2/15, *AV*-3/4, *SB-K*-2/4, *VS-M*-0/1, *VS-K*-0/1)
+- दे᳓व (*MS*-15, *TS*-14/18, *RV*-12/13, *TB*-1, *TK*-2, *AV*-6/7, *SB-M*-9, *SB-K*-11, *VS-M*-8, *VS-K*-10/11)
+- क्र᳓तुम् (*MS*-8/23, *TS*-8/23, *RV*-59/168, *TB*-0/4, *AV*-6/18, *SB-M*-5/18, *SB-K*-6/21, *VS-M*-7/19, *VS-K*-7/22)
+- द᳓क्षम् (*MS*-3/19, *TS*-3/13, *RV*-29/92, *TB*-1/5, *TK*-0/2, *AV*-8/11, *SB-M*-0/10, *SB-K*-0/13, *VS-M*-2/12, *VS-K*-2/13)
+- व᳓रुणम् (*MS*-24/226, *TS*-14/118, *RV*-35/308, *TB*-20/85, *TK*-1, *AV*-10/113, *SB-M*-7/153, *SB-K*-6/152, *VS-M*-5/84, *VS-K*-5/84)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- शिशाधि (*TS*-3, *RV*-2, *TB*-1, *AV*-3, *VS-M*-1, *VS-K*-3, *MS*-3)
+- यया᳓ति (*Whitney*, *MS*-1, *RV*-0/1)
+- वि᳓श्वा (*MS*-60/301, *TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224)
+- दुः-इता᳓ (*MS*-4/9, *TS*-4/7, *RV*-33/59, *TB*-2/4, *AV*-4/36, *SB-M*-2, *SB-K*-1, *VS-M*-2/4, *VS-K*-1/2)
+- त᳓रेम (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1, *TS*-1, *RV*-3, *AV*-1)
+- सु-त᳓र्माणम् (*MS*-1, *TS*-1, *RV*-1)
+- अ᳓धि (*MS*-200, *TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55)
+- ना᳓वम् (*MS*-4/6, *TS*-4/5, *RV*-16/20, *AV*-9/10, *SB-M*-6/7, *SB-K*-7/9, *VS-M*-1/2, *VS-K*-2/3)
+- रुहेयम् (*MS*-3, *TS*-1, *TB*-1, *SB-M*-2, *VS-M*-3, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -264,6 +292,11 @@ _________
 इति।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[12_3]** Ch नावँ
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -296,6 +329,12 @@ O god,Varuna, do thou sharpen this prayer of him who implores thee,
 Sharpen his strength, his insight;  
 May we mount that safe ship  
 Whereby we' may pass over all our difficulties.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sharpen this thought, insight, and skill of the one striving, O divine Varuṇa,  
+whereby we may cross over all misfortunes; may I mount a well-crossing boat.
 </details>
 
 <details><summary>Geldner</summary>

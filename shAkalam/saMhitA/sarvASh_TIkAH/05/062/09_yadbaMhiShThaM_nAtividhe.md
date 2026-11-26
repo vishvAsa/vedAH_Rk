@@ -90,10 +90,36 @@ syāma ← √as- 1 (root)
 तेन॑ नो मित्रावरुणावविष्टं॒ सिषा॑सन्तो जिगी॒वांसः॑ स्याम ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+य᳓द् बँ᳓हिष्ठं ना᳓तिवि᳓धे सुदानू अ᳓छिद्रँ श᳓र्म भुवनस्य गोपा *  
+ते᳓न नो मित्रावरुणा अविष्टँ सि᳓षासन्तो जिगीवाँ᳓सः स्याम
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । बंहि॑ष्ठम् । न । अ॒ति॒ऽविधे॑ । सु॒दा॒नू॒ इति॑ सुऽदानू । अच्छि॑द्रम् । शर्म॑ । भु॒व॒न॒स्य॒ । गो॒पा॒ ।  
 तेन॑ । नः॒ । मि॒त्रा॒व॒रु॒णौ॒ । अ॒वि॒ष्ट॒म् । सिसा॑सन्तः । जि॒गी॒वांसः॑ । स्या॒म॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- य᳓त् (*TS*-1461/3383, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/639, *VS-K*-125/581, *KS*-257/818)
+- बं᳓हिष्ठम् (*RV*-1, *TB*-1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- अति-वि᳓धे (*RV*-1)
+- सु-दानू (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-10, *TB*-1)
+- अ᳓-छिद्रम् (*SB-M*-4/11, *SB-K*-0/2, *VS-M*-0/1, *VS-K*-0/2)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-12/13, *AV*-44/46, *SB-M*-20/21, *SB-K*-20/21, *VS-M*-13/23, *VS-K*-10/19, *KS*-15/16)
+- भुवनस्य (*TS*-1, *RV*-1, *SB-M*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- गोपा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-14, *RV*-2, *TB*-1, *TK*-4, *AV*-13, *SB-M*-5, *SB-K*-4, *VS-M*-8, *VS-K*-6, *KS*-7)
+- ते᳓न (*TS*-295/4763, *RV*-62/3136, *TB*-166/2709, *TK*-17/363, *AV*-217/3165, *SB-M*-616/20457, *SB-K*-684/20018, *VS-M*-35/768, *VS-K*-31/624, *KS*-80/1225)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- मित्रा-वरुणै (मूल-पाठः)
+- अविष्टम् (*RV*-4, *AV*-1)
+- सि᳓षासन्तः (*TB*-1, *VS-M*-1)
+- जिगीवां᳓सः (*RV*-4, *KS*-1)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-16, *KS*-20)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -222,6 +248,12 @@ victorious.
 
 Bountiful guardians of the world! the shelter that is impenetrable, strongest, flawless,  
      Aid us with that, O Varuna and Mitra, and when we long to win may we be victors.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+That most solid, non-pierceable, unbroken shelter, O generous guardians of the world,  
+with that protect us, O Mitra and Varuṇa; seeking to gain, may we be victorious!
 </details>
 
 <details><summary>Geldner</summary>

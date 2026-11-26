@@ -262,6 +262,12 @@ Come thou to this great rite of ours, Vayu! to give us vigorous light.
      We have served thee that thou mightest give much to us, yea, mightest quickly give great wealth.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Come to us, O Vāyu, for great offspring, for the sacrifice, with power!  
+For we have prepared for you much for giving, immediately indeed much for giving.
+</details>
+
 <details><summary>Geldner</summary>
 
 Komm zu uns, Vayu, zu großer Lebensdauer, zur Freigebigkeit und zu leibhaftiger Erscheinung, denn wir haben dir ein Opfer bereitet, daß du viel schenkest, daß du sofort tüchtig schenkest.

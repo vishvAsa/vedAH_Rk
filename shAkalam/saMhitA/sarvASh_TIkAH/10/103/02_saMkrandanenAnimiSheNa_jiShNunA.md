@@ -98,6 +98,12 @@ yúdhaḥ ← yúdh- (nominal stem)
 तदिन्द्रे॑ण जयत॒ तत्स॑हध्वं॒ युधो॑ नर॒ इषु॑हस्तेन॒ वृष्णा॑ ॥२॥ ३४
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+सङ्क्र᳓न्द᳓नेनानिमिषे᳓ण जिष्णु᳓ना युत्कारे᳓ण दुश्च्यवने᳓न धृष्णु᳓ना।  
+त᳓दि᳓न्द्रेण जयत त᳓त्सहध्वं यु᳓धो नर इ᳓षुहस्तेन वृ᳓ष्णा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒म्ऽक्रन्द॑नेन । अ॒नि॒ऽमि॒षेण॑ । जि॒ष्णुना॑ । यु॒त्ऽका॒रेण॑ । दुः॒ऽच्य॒व॒नेन॑ । धृ॒ष्णुना॑ ।  
@@ -112,6 +118,25 @@ yúdhaḥ ← yúdh- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 सं॒क्रन्द॑ने॒नेति॑ स॒म्ऽक्रन्द॑नेन। अ॒निमि॒षेणेत्य॑निऽमि॒षेण॑। जि॒ष्णुना॑। यु॒त्का॒रेणेति॑ युत्ऽका॒रेण॑। दु॒श्च्य॒व॒नेनेति॑ दुःऽच्यव॒नेन॑। धृ॒ष्णुना॑। तत्। इन्द्रे॑ण। ज॒य॒त॒। तत्। स॒ह॒ध्व॒म्। युधः॑। नरः॑। इषु॑हस्ते॒नेतीषु॑ऽहस्तेन। वृष्णा॑। २।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सम्-क्र᳓न्द᳓नेन → **सम्-क्र᳓न्दनेन** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *TS*-1/2, *RV*-1/2, *AV*-1/3, *VS-M*-1/2, *VS-K*-1/3, *MS*-1/2)
+- अनि-मिषे᳓ण (*TS*-1/2, *RV*-1/4, *AV*-1/2, *VS-M*-1, *VS-K*-1/2, *MS*-1/2)
+- जिष्णु᳓ना (*MS*-1/8, *TS*-1/8, *RV*-1/9, *TB*-0/3, *AV*-1/12, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-1/4, *VS-K*-1/5)
+- युत्-कारे᳓ण (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- दुः-च्यवने᳓न (*TS*-1/2, *RV*-1/2, *AV*-1/3, *VS-M*-1/2, *VS-K*-1/2, *MS*-1/2)
+- धृष्णु᳓ना (*MS*-1/4, *TS*-1/4, *RV*-4/23, *TB*-0/1, *AV*-1/12, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-1/5, *VS-K*-1/5)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- इ᳓न्द्रेण (*MS*-11/711, *TS*-11/497, *RV*-35/1345, *TB*-7/363, *TK*-0/8, *AV*-31/606, *SB-M*-14/535, *SB-K*-15/509, *VS-M*-7/392, *VS-K*-7/380)
+- जयत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-1, *AV*-3, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- सहध्वम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- यु᳓धः (*MS*-2/9, *TS*-2/6, *RV*-2/33, *TB*-0/5, *TK*-0/1, *AV*-3/17, *SB-M*-2/3, *SB-K*-1/5, *VS-M*-2/5, *VS-K*-3/6)
+- नरः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-4, *RV*-36, *TB*-2, *AV*-7, *VS-M*-2, *VS-K*-2)
+- इ᳓षु-हस्तेन (*MS*-1/2, *TS*-1/2, *RV*-1/2, *AV*-1/2, *VS-M*-1/2, *VS-K*-1/3)
+- वृ᳓ष्णा (*MS*-1/16, *TS*-2/16, *RV*-2/82, *TB*-0/4, *AV*-2/15, *SB-M*-3/7, *SB-K*-3/9, *VS-M*-1/14, *VS-K*-1/13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -338,6 +363,13 @@ _______________
 वृष्णा प्रधानेन शर-वृष्टिकारिणा इन्द्रेण यत् तत् सहध्वं सहनं कुरुध्वम् ॥ ३४ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[266_11]** D युत्करेण दुःश्यवनेन
+
+- **[266_12]** Ch उत्सहध्वं
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -364,6 +396,13 @@ With the bellowing, unwinking, conquering,
 Fighter, hard to overthrow, and daring Indra,  
 With Indra do ye conquer, do ye withstand  
 The foe, O heroes, with the strong one who holdeth the arrow in his hands.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra conquered a hundred armies at once.  
+With the roaring, unblinking, victorious, battle-making, immovable, daring one,  
+with Indra conquer that, overcome that, O men, fighters, with the arrow-handed bull.
 </details>
 
 <details><summary>Geldner</summary>

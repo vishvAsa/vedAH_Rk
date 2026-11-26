@@ -101,10 +101,40 @@ yamám ← yamá- (nominal stem)
 उ॒भा राजा॑ना स्व॒धया॒ मद॑न्ता य॒मं प॑श्यासि॒ वरु॑णं च दे॒वम् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+प्रे᳓हि प्रे᳓हि पथि᳓भिः पूर्वे᳓भिर् य᳓त्रा नः पू᳓र्वे पित᳓रः प᳓रेताः  
+उभा᳓ रा᳓जाना स्वध᳓या म᳓दन्ता यमं᳓ पश्यासि व᳓रुणं च देव᳓म्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । इ॒हि॒ । प्र । इ॒हि॒ । प॒थिऽभिः॑ । पू॒र्व्येभिः॑ । यत्र॑ । नः॒ । पूर्वे॑ । पि॒तरः॑ । प॒रा॒ऽई॒युः ।  
 उ॒भा । राजा॑ना । स्व॒धया॑ । मद॑न्ता । य॒मम् । प॒श्या॒सि॒ । वरु॑णम् । च॒ । दे॒वम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- इहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-69, *RV*-61, *TB*-18, *TK*-6, *AV*-93, *SB-M*-70, *SB-K*-73, *VS-M*-32, *VS-K*-18, *KS*-16)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- इहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-69, *RV*-61, *TB*-18, *TK*-6, *AV*-93, *SB-M*-70, *SB-K*-73, *VS-M*-32, *VS-K*-18, *KS*-16)
+- पथि᳓भिः (*TS*-10/72, *RV*-28/149, *TB*-6/22, *AV*-14/76, *SB-M*-5/46, *SB-K*-5/52, *VS-M*-12/36, *VS-K*-10/33, *KS*-3/21)
+- पूर्वे᳓भिः (*SB-M*-0/1, *SB-K*-0/1, *KS*-0/1)
+- य᳓त्रा (*TS*-1/40, *RV*-0/123, *TB*-2/39, *TK*-0/2, *AV*-0/88, *SB-M*-1/376, *SB-K*-1/363, *VS-M*-0/46, *VS-K*-2/44, *KS*-1/22)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- पू᳓र्वे (*TS*-17/81, *RV*-36/115, *TB*-10/59, *TK*-2/4, *AV*-37/88, *SB-M*-27/216, *SB-K*-25/184, *VS-M*-8/20, *VS-K*-7/16, *KS*-3/15)
+- पित᳓रः (*TS*-34/121, *RV*-39/254, *TB*-42/111, *TK*-0/6, *AV*-50/228, *SB-M*-86/321, *SB-K*-85/317, *VS-M*-24/80, *VS-K*-17/63, *KS*-13/43)
+- प᳓रा-इताः (*RV*-0/3, *AV*-3/9, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- उभा᳓ (*TS*-17/71, *RV*-45/137, *TB*-6/50, *TK*-0/1, *AV*-20/82, *SB-M*-6/161, *SB-K*-6/151, *VS-M*-13/27, *VS-K*-17/32, *KS*-3/14)
+- रा᳓जाना (*TS*-0/16, *RV*-9/44, *TB*-0/16, *TK*-0/2, *AV*-0/11, *SB-M*-0/69, *SB-K*-0/44, *VS-M*-1/7, *VS-K*-0/6, *KS*-0/7)
+- स्व-ध᳓या (*TS*-9/18, *RV*-28/70, *TB*-1/15, *AV*-12/58, *SB-M*-3/28, *SB-K*-3/24, *VS-M*-8/22, *VS-K*-6/21, *KS*-3/7)
+- म᳓दन्ता (*TS*-0/3, *RV*-4/32, *TB*-0/1, *AV*-0/18, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-0/3, *VS-K*-0/3, *KS*-1/2)
+- यम᳓म् (*TS*-4/39, *RV*-6/52, *TB*-0/7, *AV*-8/92, *SB-M*-1/28, *SB-K*-1/25, *VS-M*-0/17, *VS-K*-0/11, *KS*-3/10)
+- पश्यासि (*RV*-1, *AV*-1)
+- व᳓रुणम् (*TS*-14/118, *RV*-35/308, *TB*-20/85, *TK*-1, *AV*-10/113, *SB-M*-7/153, *SB-K*-6/152, *VS-M*-5/84, *VS-K*-4/82, *KS*-1/72)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- देव᳓म् (*TS*-17/1025, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/517, *VS-K*-45/498, *KS*-10/317)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -258,6 +288,13 @@ You will see both kings becoming exhilarated on the svadhā(-cry),  Yama and Var
 
 Go forth, go forth upon the ancient pathways whereon our sires of old have gone before us.  
      'Mere shalt thou look on both the Kings enjoying their sacred food, God Varuna and Yama.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Go forth, go forth by the ancient paths, where our ancient fathers have passed away;  
+both kings rejoicing in their own power, Yama and the god Varuṇa, you shall see.  
+Come with the Angirases worthy of sacrifice; O Yama,
 </details>
 
 <details><summary>Macdonell</summary>

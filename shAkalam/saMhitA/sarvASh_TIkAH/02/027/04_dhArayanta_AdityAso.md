@@ -89,6 +89,12 @@ r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)
 दी॒र्घाधि॑यो॒ रक्ष॑माणाः (63) अ॒सु॒र्य॑मृ॒तावा॑न॒श्चय॑माना ऋ॒णानि॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+धार᳓यन्त आदित्या᳓सो ज᳓गत्स्था᳓ देवा᳓ वि᳓श्वस्य भु᳓वनस्य गोपाः᳓।  
+दीर्घा᳓धियो र᳓क्षमाणा असुर्यृमृता᳓वानश्च᳓यमाना ऋृणा᳓नि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 धा॒रय॑न्तः । आ॒दि॒त्यासः॑ । जग॑त् । स्थाः । दे॒वाः । विश्व॑स्य । भुव॑नस्य । गो॒पाः ।  
@@ -98,6 +104,24 @@ r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 धा॒रय॑न्तः । आ॒दि॒त्यासः॑ । जग॑त् । स्थाः । दे॒वाः । विश्व॑स्य । भुव॑नस्य । गो॒पा इति॑ गो-पाः ॥ दी॒र्घाधि॑य॒ इति॑ दी॒र्घ-धि॒यः॒ । रक्ष॑माणाः । अ॒सु॒र्य॑म् । ऋ॒तावा॑न॒ इत्यृ॒त-वा॒नः॒ । चय॑मानाः । ऋ॒णानि॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- धार᳓यन्तः (*MS*-3/4, *TS*-1, *RV*-1/4, *TB*-2, *AV*-0/3, *SB-M*-4/5)
+- आदित्या᳓सः (*MS*-1/229, *TS*-1/195, *RV*-13/91, *TB*-3/131, *TK*-0/21, *AV*-0/71, *SB-M*-0/445, *SB-K*-0/438, *VS-M*-0/44, *VS-K*-0/58)
+- ज᳓गत् (*MS*-6/24, *TS*-6/16, *RV*-16/40, *TB*-1/6, *TK*-0/1, *AV*-7/20, *SB-M*-6/9, *SB-K*-5/12, *VS-M*-7/14, *VS-K*-5/15)
+- स्था᳓ (*MS*-1, *TS*-1, *RV*-7, *VS-K*-1)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- वि᳓श्वस्य (*MS*-19/301, *TS*-15/283, *RV*-67/1116, *TB*-5/125, *TK*-43/124, *AV*-23/353, *SB-M*-12/248, *SB-K*-12/219, *VS-M*-18/225, *VS-K*-20/224)
+- भु᳓वनस्य (*MS*-21/53, *TS*-16/39, *RV*-41/144, *TB*-13/32, *TK*-4/6, *AV*-20/65, *SB-M*-9/30, *SB-K*-10/26, *VS-M*-11/42, *VS-K*-10/41)
+- गो-पाः᳓ (*MS*-11/17, *TS*-13/21, *RV*-43/61, *TB*-2/5, *TK*-4, *AV*-11/17, *SB-M*-2/5, *SB-K*-1/6, *VS-M*-5/8, *VS-K*-4/8)
+- दीर्घ᳓-धियः (*TS*-1, *RV*-1, *MS*-1)
+- र᳓क्षमाणाः (*TS*-2, *RV*-4/8, *AV*-3, *VS-M*-0/1, *VS-K*-0/1, *MS*-1)
+- असुर्य᳙म् (*MS*-6, *TS*-3, *RV*-12, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-K*-1)
+- ऋत᳓-वानः (*MS*-1/9, *TS*-1/11, *RV*-11/50, *TB*-0/1, *TK*-0/1, *AV*-0/2, *SB-K*-0/2, *VS-M*-0/2, *VS-K*-0/3)
+- च᳓यमानाः (*MS*-1, *TS*-1, *RV*-1)
+- ऋृणा᳓नि (मूल-पाठः)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -211,6 +235,13 @@ _________
 जगद्धारयन्तस्स्थापयन्तः आदित्यासः आदित्याः स्थाः स्थास्नवः 'क्विप्च' इति क्विप् । देवाः देवनशीलाः विश्वस्य भुवनस्य भूतजातस्य गोपाः पोषकाः दीर्घाधियः दीर्घाण्यविच्छिन्नानि धियः कर्माणि उदयास्तमयलक्षणानि बुद्धयो वा येषान्ते दीर्घाधियः । छान्दसं पूर्वपदस्य दीर्घत्वम् । असुर्यं असुरमर्हतीति । 'छन्दसि च' इति यः । असुस्थानीयमुदकं ददातीत्यसुरो मेघः । तेन धार्यमुदकं रक्षमाणा रक्षन्तः ऋतावानस्सत्यवन्तः यज्ञवन्तो वा । पूर्ववद्वनिप्, दीर्घत्वं च, चयमानाः चाययन्तः गमयन्तः । चय गतौ, अनुदात्तेत् भौवादिकः । ऋणानि दिव्यानि मानुषाणि ; वृष्ट्या हि सस्योत्पत्तौ यजमानस्य सर्वाणि ऋणान्यपाक्रियन्ते इति । क्रियापदाभावाद्योग्यं पदमध्याह्रियते । ईदृशा आदित्या इमं यजमानमनपरुद्धं कुर्वन्त्विति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[159_10]** Mit धार᳓यन्त beginnt wieder ein Stück in den Rcakas W1, T1, T3, Brl fol. 33; mit diesen Mss. collat. und nach ihnen accentuirt. (With धार᳓यन्त a portion begins again in the Rcakas W1, T1, T3, Brl fol. 33; collated with these mss. and accented after them.)
+
+- **[159_11]** W1 गोपः Ch
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -241,6 +272,13 @@ Upholding that which moves and that which moves not, Adityas, Gods, protectors o
 <details><summary>Keith</summary>
 
 Ye Adityas support the world, Gods, guardians of all the universe, Far-seeing, guarding [4] the holy, Righteous, enacting debts.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+[The text has:] “yajño devānām…”  
+The Ādityas maintain the moving and the standing [world], gods, guardians of the whole realm of being,  
+far-sighted, guarding asura-power, true to cosmic order, requiting debts.
 </details>
 
 <details><summary>Macdonell</summary>

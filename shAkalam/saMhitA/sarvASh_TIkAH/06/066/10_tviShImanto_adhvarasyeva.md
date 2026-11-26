@@ -86,10 +86,36 @@ marútaḥ ← marút- (nominal stem)
 अ॒र्चत्र॑यो॒ धुन॑यो॒ न वी॒रा भ्राज॑ज्जन्मानो म॒रुतो॒ अधृ॑ष्टाः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त्वि᳓षीमन्तो अध्वर᳓स्येव दिद्यु᳓त् त्रिषुच्य᳓वसो जुह्वो᳙ ना᳓ग्नेः᳓  
+अर्च᳓त्रयो धु᳓नयो न᳓ वीरा᳓ भ्रा᳓जज्जन्मानो मरु᳓तो अ᳓धृष्टाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्विषि॑ऽमन्तः । अ॒ध्व॒रस्य॑ऽइव । दि॒द्युत् । तृ॒षु॒ऽच्यव॑सः । जु॒ह्वः॑ । न । अ॒ग्नेः ।  
 अ॒र्चत्र॑यः । धुन॑यः । न । वी॒राः । भ्राज॑त्ऽजन्मानः । म॒रुतः॑ । अधृ॑ष्टाः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त्वि᳓षीमन्तः (*MW*)
+- अध्वर᳓स्य (*TS*-3/27, *RV*-19/196, *TB*-3/25, *TK*-0/2, *AV*-0/22, *SB-M*-22/71, *SB-K*-22/68, *VS-M*-1/26, *VS-K*-1/21, *KS*-2/15)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- दिद्यु᳓त् (*TS*-3, *RV*-8/11, *SB-K*-0/1, *KS*-1)
+- त्रिषु (मूल-पाठः)
+- च्य᳓वसः (मूल-पाठः)
+- जुह्वः᳙ (*RV*-5, *TB*-1)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- अग्नेः᳓ (*TS*-163/1195, *RV*-54/856, *TB*-56/520, *TK*-7/105, *AV*-43/419, *SB-M*-224/2495, *SB-K*-210/2289, *VS-M*-49/322, *VS-K*-44/339, *KS*-29/256)
+- अर्च᳓त्रयः (*RV*-1)
+- धु᳓नयः (*TS*-1/3, *RV*-8/24, *TK*-0/1, *AV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/2, *VS-K*-0/3)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- वीरा᳓ (*TS*-2/22, *RV*-1/120, *TB*-2/25, *AV*-41/66, *SB-M*-8/28, *SB-K*-11/32, *VS-M*-4/19, *VS-K*-1/17, *KS*-2/9)
+- भ्रा᳓जज्जन्मानः (*MW*)
+- मरु᳓तः (*TS*-46/82, *RV*-134/227, *TB*-30/51, *TK*-1, *AV*-37/58, *SB-M*-53/95, *SB-K*-54/93, *VS-M*-24/46, *VS-K*-20/40, *KS*-20/29)
+- अ᳓धृष्टाः (*RV*-7/12, *AV*-1/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -230,6 +256,12 @@ leuchtend ist die Geburt der unwiderstehlichen Marut.” The striking phonology 
 
 Bright like the flashing flames of sacrifices, like tongues of fire impetuous in their onset,  
      Chanting their psalm, singing aloud, like heroes, splendid from birth, invincible, the Maruts.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Possessing brilliance like the lightning of the sacrifice, moving everywhere like the tongues of Agni,  
+worthy of praise, shaking like heroes, of gleaming birth, the unassailable Maruts!
 </details>
 
 <details><summary>Geldner</summary>

@@ -85,6 +85,12 @@ vīryàm ← vīryà- (nominal stem)
 तद्वा॑ञ्चेति॒ प्र वी॒र्य॑म् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इ᳓न्द्राग्नी रोचना᳓ दिवः᳓ प᳓रि वा᳓जेषु भूषथः।  
+त᳓द्वां चेति प्र᳓ वीर्यृम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रा॑ग्नी॒ इति॑ । रो॒च॒ना । दि॒वः । परि॑ । वाजे॑षु । भू॒ष॒थः॒ ।  
@@ -99,6 +105,21 @@ vīryàm ← vīryà- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 इ᳓न्द्राग्नी । रोचना᳓ । दिवः᳓ । प᳓रि । वा᳓जेषु । भूषथः । त᳓त् । वाम् । चेति । प्र᳓ । वीर्य᳙म् ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्राग्नी (*MS*-11, *TS*-8, *RV*-44, *TB*-6, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-3)
+- रोचना᳓ (*MS*-5/14, *TS*-4/13, *RV*-26/55, *TB*-4/5, *TK*-0/3, *AV*-10/18, *SB-M*-1/9, *SB-K*-1/9, *VS-M*-1/8, *VS-K*-2/8)
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- वा᳓जेषु (*MS*-6/115, *TS*-4/92, *RV*-41/350, *TB*-2/35, *TK*-0/1, *AV*-6/49, *SB-M*-1/73, *SB-K*-1/71, *VS-M*-2/71, *VS-K*-2/73)
+- भूषथः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-3, *TB*-1)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- वाम् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-70, *TS*-52, *RV*-514, *TB*-26, *TK*-1, *AV*-65, *SB-M*-40, *SB-K*-37, *VS-M*-19, *VS-K*-15)
+- चेति (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-1, *RV*-6, *TB*-1)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- वीर्यृम् (मूल-पाठः)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -237,6 +258,12 @@ Indra and Agni, in your deeds of might ye deck heaven's lucid realms:
 O Indra and Agni, the realms of the sky  
 Ye adorn in your strength;  
 That might of yours is dear.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Indra and Agni, you adorn the lights of heaven around the prizes;  
+that heroic might of yours is proclaimed.
 </details>
 
 <details><summary>Oldenberg</summary>

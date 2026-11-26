@@ -95,10 +95,38 @@ vājī́ ← vājín- (nominal stem)
 कृ॒णोषि॒ तं मर्त्ये॑षु प्रश॒स्तं जा॒तोजा॑तो जायते वा॒ज्य॑स्य ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+ईशाना᳓य प्र᳓हुतिँ य᳓स् ता आ᳓नट् शु᳓चिँ सो᳓मँ शुचिपास् तु᳓भ्यँ वायो  
+कृणो᳓षि तं᳓ म᳓र्त्येषु प्रशस्तं᳓ जातो᳓जातो जायते वाज्य् अ᳙स्य
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ई॒शा॒नाय॑ । प्रऽहु॑तिम् । यः । ते॒ । आन॑ट् । शुचि॑म् । सोम॑म् । शु॒चि॒ऽपाः॒ । तुभ्य॑म् । वा॒यो॒ इति॑ ।  
 कृ॒णोषि॑ । तम् । मर्त्ये॑षु । प्र॒ऽश॒स्तम् । जा॒तःऽजा॑तः । जा॒य॒ते॒ । वा॒जी । अ॒स्य॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- ईशाना᳓य (*RV*-1/16)
+- प्र᳓-हुतिम् (*RV*-1)
+- यः᳓ (*TS*-687/3383, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-137/639, *VS-K*-108/581, *KS*-223/818)
+- ताः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *TB*-4, *KS*-3)
+- आ᳓नट् (*TS*-2, *RV*-13, *TB*-1, *VS-M*-3, *VS-K*-4, *KS*-1)
+- शु᳓चिम् (*TS*-3/33, *RV*-16/113, *TB*-5/23, *AV*-2/25, *SB-M*-0/23, *SB-K*-0/20, *VS-M*-2/14, *VS-K*-2/14, *KS*-2/13)
+- सो᳓मम् (*TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/128, *VS-K*-32/108, *KS*-24/80)
+- शुचि-पाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *RV*-2, *VS-M*-1, *VS-K*-1)
+- तु᳓भ्यम् (*TS*-11/313, *RV*-93/1488, *TB*-10/152, *TK*-2/39, *AV*-37/628, *SB-M*-17/387, *SB-K*-16/387, *VS-M*-9/215, *VS-K*-9/167, *KS*-7/165)
+- वायो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-3, *RV*-18, *TB*-1, *TK*-3, *AV*-5, *SB-M*-3, *SB-K*-3, *VS-M*-6, *VS-K*-5, *KS*-1)
+- कृणो᳓षि (*RV*-9, *AV*-6)
+- त᳓म् (*TS*-356/4763, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-107/768, *VS-K*-75/624, *KS*-117/1225)
+- म᳓र्त्येषु (*TS*-4/14, *RV*-24/182, *TB*-0/6, *TK*-1/3, *AV*-6/37, *SB-M*-4/84, *SB-K*-2/81, *VS-K*-0/8, *KS*-0/9)
+- प्र-शस्त᳓म् (*RV*-7/9, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- जातः᳓-जातः (*RV*-1)
+- जायते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-66, *RV*-17, *TB*-42, *TK*-2, *AV*-10, *SB-M*-131, *SB-K*-124, *VS-M*-7, *VS-K*-6, *KS*-10)
+- वाजी᳓ (*TS*-30/55, *RV*-67/172, *TB*-8/18, *TK*-0/1, *AV*-5/25, *SB-M*-15/28, *SB-K*-12/24, *VS-M*-14/35, *VS-K*-14/32, *KS*-4/11)
+- अस्य (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-315, *RV*-415, *TB*-178, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-590, *VS-M*-56, *VS-K*-39, *KS*-67)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -279,6 +307,12 @@ The rel. yáḥ in pāda a may be somewhat deeper in the clause than we would li
 
 Whoso to thee, the Mighty, brings oblation, pure Soma unto thee, pure-drinking Vayu,  
      That man thou makest famous among mortals: to him strong sons are born in quick succession.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whoever has offered an oblation to you the ruler, the bright Soma to you, O drinker of the bright, O Vāyu,  
+him you make praised among mortals; son after son of his is born a prize-winner.
 </details>
 
 <details><summary>Geldner</summary>

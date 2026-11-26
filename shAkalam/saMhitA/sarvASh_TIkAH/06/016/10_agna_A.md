@@ -76,10 +76,30 @@ satsi ← √sad- (root)
 नि होता॑ सत्सि ब॒र्हिषि॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ग्ना आ᳓याहि वीत᳓ये गृणानो᳓ हव्य᳓दातये  
+नि᳓ हो᳓ता सत्सि बर्हि᳓षि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्ने॑ । आ । या॒हि॒ । वी॒तये॑ । गृ॒णा॒नः । ह॒व्यऽदा॑तये ।  
 नि । होता॑ । स॒त्सि॒ । ब॒र्हिषि॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ग्नाः (*TS*-0/157, *RV*-0/265, *TB*-0/45, *TK*-0/3, *AV*-0/59, *SB-M*-0/88, *SB-K*-0/80, *VS-M*-0/91, *VS-K*-0/93, *KS*-0/73)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- याहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-120, *TB*-7, *AV*-38, *SB-M*-11, *SB-K*-9, *VS-M*-15, *VS-K*-13, *KS*-5)
+- वीत᳓ये (*TS*-8/9, *RV*-31/40, *TB*-0/1, *AV*-1, *SB-M*-7/8, *SB-K*-5/6, *VS-M*-1, *VS-K*-1)
+- गृणानः᳓ (*TS*-1/2, *RV*-37/44, *AV*-5, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1/2)
+- हव्य᳓-दातये (*TS*-0/1, *RV*-7/17, *TB*-0/3, *AV*-0/2, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-2/3, *VS-K*-1, *KS*-0/4)
+- नि᳓ (*TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-47, *VS-K*-35, *KS*-78)
+- हो᳓ता (*TS*-43/63, *RV*-150/244, *TB*-95/136, *TK*-6/8, *AV*-18/28, *SB-M*-135/211, *SB-K*-145/211, *VS-M*-55/70, *VS-K*-43/58, *KS*-27/37)
+- सत्सि (*RV*-10, *AV*-1, *SB-M*-1, *SB-K*-1)
+- बर्हि᳓षि (*TS*-12/75, *RV*-44/137, *TB*-6/76, *AV*-14/41, *SB-M*-7/75, *SB-K*-4/65, *VS-M*-9/42, *VS-K*-7/39, *KS*-0/13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -179,6 +199,11 @@ _____________
 2अग्न आयाहीति ॥ हे अग्ने! आयाहि आगच्छ वीतये तव पानाय, हव्यदातये हविषां च देवोभ्यो दानाय, गृणानः अहो प्रशस्तं कर्मेति शब्दयन् । कर्मणि वा छान्दसो यगभावः । स्तूयमानः । अथ आगत्य देवानां होता आह्वाता भूत्वा बर्हिषि यज्ञार्थं निषत्सि निषीद । छान्दसश्शपोलुक् । हव्यदातिशब्दोऽयं दासीभारादिर्द्रष्टव्यः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[314_5]** So corr. Ch **बर्हिषे**; cf. RV 6, 16, 10 (Thus emended; Ch reads बर्हिषे; cf. RV 6, 16, 10)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -204,6 +229,18 @@ However, the Geldner/Renou solution is certainly possible, and there are no majo
 
 Come, Agni, lauded, to the feast; come to the offering of the gifts.  
      As Priest be seated on the grass.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, come for enjoyment, being lauded, to give oblation;  
+sit down upon the barhis as hotṛ.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+O Agni, come for enjoyment, praised for the giving of oblations;  
+as Hotṛ sit down upon the barhis.
 </details>
 
 <details><summary>Geldner</summary>

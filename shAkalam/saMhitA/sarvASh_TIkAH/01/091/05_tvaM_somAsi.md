@@ -81,10 +81,33 @@ tvám ← tvám (pronoun)
 त्वं भ॒द्रो अ॑सि॒ क्रतुः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वँ᳓ सोमासि स᳓त्पत्तिस्त्वं᳓ रा᳓जोत᳓ वृत्रहा᳓।  
+त्वं᳓ भद्रो᳓ असि क्र᳓तुः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । सो॒म॒ । अ॒सि॒ । सत्ऽप॑तिः । त्वम् । राजा॑ । उ॒त । वृ॒त्र॒ऽहा ।  
 त्वम् । भ॒द्रः । अ॒सि॒ । क्रतुः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- सोम (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-45, *TS*-50, *RV*-225, *TB*-24, *AV*-10, *SB-M*-19, *SB-K*-15, *VS-M*-25, *VS-K*-14)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- स᳓त् (*MS*-14, *TS*-12/16, *RV*-35, *AV*-11, *SB-M*-46, *SB-K*-33, *VS-M*-6, *VS-K*-2/3)
+- पत्तिस् (मूल-पाठः)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- रा᳓जा (*MS*-42/60, *TS*-30/48, *RV*-102/151, *TB*-46/63, *TK*-0/2, *AV*-60/78, *SB-M*-104/175, *SB-K*-93/139, *VS-M*-19/27, *VS-K*-21/29)
+- उत᳓ (*MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- वृत्र-हा᳓ (*MS*-5/9, *TS*-10/14, *RV*-57/67, *TB*-7/9, *AV*-21/23, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-5/7, *VS-K*-4/6)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- भद्रः᳓ (*MS*-6/42, *TS*-2/32, *RV*-6/144, *TB*-4/26, *TK*-0/1, *AV*-4/68, *SB-M*-4/21, *SB-K*-5/30, *VS-M*-3/31, *VS-K*-3/29)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- क्र᳓तुः (*MS*-8/23, *TS*-8/23, *RV*-14/168, *TB*-2/4, *AV*-2/18, *SB-M*-9/18, *SB-K*-10/21, *VS-M*-4/19, *VS-K*-4/22)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -231,6 +254,12 @@ Thou, Soma, art the Lord of heroes, King, yea, Vrtra-slayer thou:
 Thou Soma art very lord,  
 Thou art king, and slayer of foes;  
 Thou art favouring strength.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+You, O Soma, are the lord of the good; you are king and slayer of Vṛtra;  
+you are auspicious wisdom.
 </details>
 
 <details><summary>Geldner</summary>

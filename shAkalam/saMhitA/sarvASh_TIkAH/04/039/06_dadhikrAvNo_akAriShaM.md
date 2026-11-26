@@ -92,6 +92,12 @@ tāriṣat ← √tr̥̄- 1 (root)
 सुर॒भि नो॒ मुखा॑ कर॒त्प्र ण॒ आयूँ॑षि तारिषत् ॥ [47]
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+दधिक्रा᳓व्णो अकारिषं जिष्णो᳓र् अ᳓श्वस्य वाजि᳓नः  
+सुरभि᳓ नो मु᳓खा करत् प्र᳓ ना आ᳓यूँषि तारिषत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 द॒धि॒ऽक्राव्णः॑ । अ॒का॒रि॒ष॒म् । जि॒ष्णोः । अश्व॑स्य । वा॒जिनः॑ ।  
@@ -111,6 +117,23 @@ tāriṣat ← √tr̥̄- 1 (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 द॒धि॒क्राव्णः॑ । अ॒का॒रि॒ष॒म् । जि॒ष्णोः । अश्व॑स्य । वा॒जिनः॑ ॥ सुर॒भीति॑ सु-र॒भि । नः॒ । मुखा॑ । क॒र॒त् । प्र । नः॒ । आयूँ॑षि । ता॒रि॒ष॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- दधि-क्रा᳓व्णः (*RV*-6, *AV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-2, *VS-K*-1, *KS*-3)
+- अकारिषम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-1, *TB*-1, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- जिष्णोः᳓ (*TS*-2/8, *RV*-4/9, *TB*-0/3, *AV*-1/12, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-1/4, *VS-K*-1/5, *KS*-0/3)
+- अ᳓श्वस्य (*TS*-24/126, *RV*-18/226, *TB*-38/167, *AV*-14/76, *SB-M*-48/262, *SB-K*-49/255, *VS-M*-10/54, *VS-K*-8/51, *KS*-7/26)
+- वाजि᳓नः (*TS*-9/55, *RV*-38/172, *TB*-5/18, *TK*-0/1, *AV*-6/25, *SB-M*-8/28, *SB-K*-8/24, *VS-M*-13/35, *VS-K*-10/32, *KS*-4/11)
+- सुरभि᳓ (*TS*-2/8, *RV*-2/12, *TB*-0/1, *AV*-2/10, *SB-M*-1/3, *SB-K*-1/2, *VS-M*-1/4, *VS-K*-1/4, *KS*-1/2)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- मु᳓खा (*TS*-4/22, *RV*-1/6, *TB*-3/26, *TK*-0/1, *AV*-3/36, *SB-M*-15/82, *SB-K*-13/78, *VS-M*-3/14, *VS-K*-3/10, *KS*-1/11)
+- करत् (*TS*-2, *RV*-23, *TB*-9, *AV*-14, *VS-M*-4, *VS-K*-4, *KS*-3)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- नाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- आ᳓यूंषि (*TS*-8, *RV*-9, *TB*-2, *AV*-10, *SB-M*-2, *SB-K*-3, *VS-M*-4, *VS-K*-4, *KS*-5)
+- तारिषत् (*TS*-2, *RV*-5, *AV*-6, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -410,6 +433,12 @@ Of Dadhikravan have I sung,
 The swift strong horse;  
 May he make our mouths fragrant;  
 May he lengthen our days.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I have celebrated Dadhikrāvan, the victorious, swift horse;  
+may he make our mouths fragrant; may he prolong our lifespans.
 </details>
 
 <details><summary>Geldner</summary>

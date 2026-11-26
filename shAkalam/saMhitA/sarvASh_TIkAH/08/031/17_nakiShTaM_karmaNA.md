@@ -100,10 +100,39 @@ bhuvat ← √bhū- (root)
 दे॒वानां॒ य इन्मनो॒ यज॑मान॒ इय॑क्षत्य॒भीदय॑ज्वनो भुवत् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+न᳓किष्टं᳓ क᳓र्मणा न᳓शन्न᳓ प्र᳓योषन्न᳓ योषति।  
+देवा᳓नां य᳓ इ᳓न्म᳓नो य᳓जमान इ᳓यक्षत्यभी᳓द᳓यज्वनो भुवत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 नकिः॑ । तम् । कर्म॑णा । न॒श॒त् । न । प्र । यो॒ष॒त् । न । यो॒ष॒ति॒ ।  
 दे॒वाना॑म् । यः । इत् । मनः॑ । यज॑मानः । इय॑क्षति । अ॒भि । इत् । अय॑ज्वनः । भु॒व॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- न᳓क् (*RV*-1)
+- इष्ट᳓म् (*MS*-9/24, *TS*-3/15, *RV*-1/12, *TB*-3/6, *AV*-6/11, *SB-M*-27/55, *SB-K*-21/51, *VS-M*-2/7, *VS-K*-1/5)
+- क᳓र्मणा (*MS*-3/26, *TS*-6/25, *RV*-8/34, *TB*-4/34, *TK*-2, *AV*-9/42, *SB-M*-38/331, *SB-K*-30/281, *VS-M*-0/19, *VS-K*-0/22)
+- न᳓शत् (*MS*-0/1, *RV*-3/4, *VS-M*-0/1, *VS-K*-0/1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- योषत् (*TS*-1, *RV*-5, *MS*-1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- योषति (*MS*-1, *TS*-1, *RV*-2, *AV*-2)
+- देवा᳓नाम् (*MS*-211/1218, *TS*-184/1282, *RV*-188/1354, *TB*-124/582, *TK*-3/32, *AV*-111/708, *SB-M*-295/2032, *SB-K*-295/1945, *VS-M*-64/531, *VS-K*-68/532)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- म᳓नः (*MS*-64/147, *TS*-65/141, *RV*-90/238, *TB*-23/72, *TK*-11/17, *AV*-75/161, *SB-M*-198/343, *SB-K*-191/312, *VS-M*-41/86, *VS-K*-33/78)
+- य᳓जमानः (*MS*-163/350, *TS*-174/419, *RV*-10/63, *TB*-130/267, *TK*-0/1, *AV*-4/46, *SB-M*-351/614, *SB-K*-365/631, *VS-M*-10/52, *VS-K*-10/57)
+- इ᳓यक्षति (*MS*-3, *TS*-1, *RV*-5/6, *AV*-1, *VS-M*-0/1, *VS-K*-0/1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- इत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-77, *TB*-27, *TK*-4, *MS*-31)
+- अ᳓यज्वनः (*MS*-3, *TS*-1, *RV*-6/10, *TB*-0/1, *AV*-2)
+- भुवत् (*MS*-4, *TS*-7, *RV*-30, *TB*-6, *AV*-13, *VS-M*-3, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -249,6 +278,15 @@ _________
 केचिदाहुः - कर्मणेति प्रथमैकवचनस्य लुगपवादः 'सुपां सुलुक्' इत्याकारः । नशेर्ण्यन्ताल्लेटि 'बहुलं संज्ञाछन्दसोः' इति णिलुक् ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[158_11]** T1 and Brl न᳓शत्र
+
+- **[158_12]** T1, W 2, Brl योशन्न᳓
+
+- **[158_13]** D योवत
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -276,6 +314,13 @@ Shall prevail over those who sacrifice not.]
 
 None in his action equals him, none holds him far or keeps him off.  
      The man who, sacrificing, strives to win the heart of Deities will conquer those who worship not.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+No one shall reach him by any deed, nor shall [anyone] harm or neglect him,  
+whose mind the sacrificer seeks to win for the gods;  
+he overcomes the non-sacrificer.
 </details>
 
 <details><summary>Geldner</summary>

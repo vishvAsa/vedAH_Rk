@@ -241,6 +241,13 @@ _________
 देवीः देव्यः 'वा छन्दसि' इति पूर्वसवर्णदीर्घत्वम् । नः अस्माकं आपः शं सुखहेतवो भवन्तु । अभिष्टये आभिमुख्येन देवान् यष्टुम् । यजेरिच्छतेर्वा क्तिन् । अभीष्टफलसिद्धये । पररूपं कतन्तवत् । किञ्च - पीतये पानाय च भवन्तु । किञ्च - उपजीव्याश्च भवन्तु लोकस्य । किञ्च - शं आगतानां रोगभयादीनां शमनम् । शाम्यतेः क्विप् । योः यावयितृता पृथक्करणमनागतानां तेषामुत्पत्तिनिरोधः । यौतेरसुनि गुणे अडभावश्छान्दसः । तदुभयमापः नः अस्माकं अभिस्रवन्तु आभिमुख्येन प्रसृतमुत्पादयन्तु ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[197_11]** Ch एवेद्धेने
+
+- **[580_11]** Vgl. AV 1, 6, 1. (Cf. AV 1, 6, 1)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 कैसे मनुष्य सुखों से युक्त होते हैं, इस विषय को अगले मन्त्र में कहा है ॥
@@ -308,6 +315,12 @@ The Waters. be to us for drink, Goddesses for our aid and bliss:
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 May the celestial Waters, our helpers, be sweet for us to drink, And flow with health and strength to us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the divine Waters be for our aid, for our drinking;  
+may they stream blessing and well-being upon us!
 </details>
 
 <details><summary>Geldner</summary>

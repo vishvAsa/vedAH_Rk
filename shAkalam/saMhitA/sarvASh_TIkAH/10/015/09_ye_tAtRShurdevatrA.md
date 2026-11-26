@@ -97,6 +97,12 @@ satyaíḥ ← satyá- (nominal stem)
 स॒त्यैᳵ क॒व्यैᳶ पि॒तृभि॑र्घर्म॒सद्भिः॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+ये᳓ तातृषु᳓र् देवत्रा᳓ जे᳓हमाना होत्रावि᳓दः स्तो᳓मतष्टासो अर्कैः᳓  
+आ᳓ग्ने याहि सुविद᳓त्रेभिर् अर्वा᳓क् सत्यैः᳓ कव्यैः᳓ पितृ᳓भिर् घर्मस᳓द्भिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ये । त॒तृ॒षुः । दे॒व॒ऽत्रा । जेह॑मानाः । हो॒त्रा॒ऽविदः॑ । स्तोम॑ऽतष्टासः । अ॒र्कैः ।  
@@ -106,6 +112,26 @@ satyaíḥ ← satyá- (nominal stem)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 ये᳓ । ताः । आतृ । पु᳓र् । देवत्रा᳓ । जे᳓हमानाः । होत्रा । वृ᳓धः । स्तो᳓म-तष्टासः । अर्कैः᳓ । आ᳓ । अग्ने । याहि । सु-विद᳓त्रेभिः । अर्वा᳓ङ् । सत्यैः᳓ । कव्यैः᳓ । पितृ᳓भिः । घर्मस᳓द्भिः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- ये᳓ (*TS*-213/3383, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/639, *VS-K*-82/581, *KS*-66/818)
+- तातृषु᳓र् (*MW*)
+- देवत्रा᳓ (*TS*-15, *RV*-23, *TB*-9, *TK*-5, *AV*-6, *SB-M*-54/55, *SB-K*-57, *VS-M*-10, *VS-K*-8, *KS*-6)
+- जे᳓हमानाः (*TS*-0/1, *RV*-1/4, *TB*-1, *AV*-1, *VS-M*-0/1, *VS-K*-0/1)
+- होत्रा-वि᳓दः (*TS*-0/1, *RV*-1/2, *AV*-1, *SB-M*-0/1)
+- स्तो᳓म-तष्टासः (*RV*-1/3, *TB*-1, *AV*-1)
+- अर्कैः᳓ (*TS*-2/24, *RV*-43/100, *TB*-4/12, *AV*-6/34, *SB-M*-0/52, *SB-K*-0/36, *VS-M*-2/7, *VS-K*-2/6, *KS*-2/10)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- ग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- याहि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-13, *RV*-120, *TB*-7, *AV*-38, *SB-M*-11, *SB-K*-9, *VS-M*-15, *VS-K*-13, *KS*-5)
+- सु-विद᳓त्रेभिः (*TS*-0/4, *RV*-1/7, *TB*-1, *AV*-1/6, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/1)
+- अर्वा᳓क् (*TS*-6, *RV*-44, *TB*-2, *TK*-1, *AV*-10, *SB-M*-21, *SB-K*-21, *VS-M*-2, *VS-K*-1/2, *KS*-3)
+- सत्यैः᳓ (*TS*-0/77, *RV*-3/133, *TB*-1/68, *TK*-0/44, *AV*-1/71, *SB-M*-0/187, *SB-K*-0/184, *VS-M*-0/36, *VS-K*-0/41, *KS*-0/24)
+- कव्यैः᳓ (*TS*-1/2, *RV*-3, *TB*-2/3, *KS*-0/1)
+- पितृ᳓भिः (*TS*-7/121, *RV*-9/254, *TB*-2/111, *TK*-0/6, *AV*-10/228, *SB-M*-3/321, *SB-K*-3/317, *VS-M*-2/80, *VS-K*-1/63, *KS*-1/43)
+- घर्मस᳓द्भिः (*RV*-2, *TB*-1, *AV*-1/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -255,6 +281,12 @@ with them, o Agni, drive here, turned this way—with the forefathers who  are g
 
 Come to us, Agni, with the gracioug Fathers who dwell in glowing light, the very Kavyas,  
      Who thirsted mid the Gods, who hasten hither, oblation winners, theme of singers' praises.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those who thirsted toward the gods, panting, knowing the invocations, fashioned into praises by songs of praise—  
+O Agni, come hither with the well-knowing, true, poet-like Fathers who sit by the Gharma!
 </details>
 
 <details><summary>Geldner</summary>

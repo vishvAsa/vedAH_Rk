@@ -98,10 +98,39 @@ trātā́ ← trātár- (nominal stem)
 जग्मि॒र्युवा॑ नृ॒षद॑न॒मवो॑भिस्त्रा॒ता न॒ इन्द्र॒ एन॑सो म॒हश्चि॑त् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+उग्रो जज्ञे वीर्याय स्वधावाञ्चक्रिरपो नर्यो यत्करिष्यन्।  
+जग्मिर्युवा नृषदनमवोभिस्त्राता न इन्द्र एनसो महश्चित्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उ॒ग्रः । ज॒ज्ञे॒ । वी॒र्या॑य । स्व॒धाऽवा॑न् । चक्रिः॑ । अपः॑ । नर्यः॑ । यत् । क॒रि॒ष्यन् ।  
 जग्मिः॑ । युवा॑ । नृ॒ऽसद॑नम् । अवः॑ऽभिः । त्रा॒ता । नः॒ । इन्द्रः॑ । एन॑सः । म॒हः । चि॒त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उग्रः᳓ (*MS*-23/40, *TS*-14/33, *RV*-50/153, *TB*-9/21, *TK*-1/2, *AV*-38/99, *SB-M*-4/10, *SB-K*-3/9, *VS-M*-8/23, *VS-K*-8/18)
+- जज्ञे᳓ (*Whitney*, *Lanman*, *MS*-1/2, *TS*-1/2, *RV*-5, *AV*-7, *SB-M*-1/2, *SB-K*-7, *VS-M*-1/2, *VS-K*-1/2)
+- वीर्या᳙य (*MS*-4, *TS*-3, *RV*-11, *TB*-6, *AV*-6, *SB-M*-5, *SB-K*-3, *VS-M*-3, *VS-K*-3)
+- स्व᳓धावाम् (*RV*-0/1)
+- च᳓क्रिः (*RV*-5/7, *AV*-0/2)
+- अपः᳓ (*Whitney*, *MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- न᳓र्यः (*MS*-1/3, *TS*-0/1, *RV*-16/41, *TB*-1/2, *AV*-1/3, *SB-M*-1/2, *SB-K*-1/2, *VS-K*-1/2)
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- करिष्य᳓न् (*MS*-1, *RV*-4, *AV*-1, *SB-M*-5, *SB-K*-5)
+- ज᳓ग्मिः (*RV*-3/8, *VS-K*-0/1)
+- यु᳓वा (*MS*-7/17, *TS*-5/11, *RV*-30/68, *TB*-7/8, *AV*-5/13, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-3/4, *VS-K*-3/4)
+- नृ-षदन᳓म् (समासस्य पा॰ ६.१.२२३)
+- अ᳓वोभिः (*MS*-3/27, *TS*-1/22, *RV*-16/279, *TB*-1/15, *AV*-3/24, *SB-M*-0/9, *SB-K*-0/6, *VS-M*-2/24, *VS-K*-3/18)
+- त्राता᳓ (*MS*-5/9, *TS*-3/7, *RV*-13/22, *TB*-1, *AV*-2/4, *SB-M*-1/2, *SB-K*-1, *VS-M*-5/8, *VS-K*-5/8)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- ए᳓नसः (*MS*-13/33, *TS*-11/27, *RV*-7/29, *TB*-13/26, *AV*-14/31, *SB-M*-7/29, *SB-K*-11/33, *VS-M*-10/21, *VS-K*-4/14)
+- महः᳓ (*Whitney*, *MS*-17/36, *TS*-9/26, *RV*-173/364, *TB*-7/17, *TK*-3/5, *AV*-20/77, *SB-M*-7/37, *SB-K*-7/37, *VS-M*-12/35, *VS-K*-12/41)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -267,6 +296,14 @@ A grammatical figure in the pāda-initial reduplicated i-stems, b cákriḥ, c j
 
 STRONG, Godly-natured, born for hero exploit, man's Friend, hedoth whatever deed he willeth.  
      Saving us e'en from great transgression, Indra, the Youthful, visiteth man's home with favour.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra the hero,  
+I invoke the mighty Indra, invoked by many; may Indra, the generous one, grant us well-being.  
+Fierce was he born for heroic strength, autonomous, the doer of deeds, manly when about to act,  
+youthful, going to the assembly of men with help, our protector, Indra, even from great sin.
 </details>
 
 <details><summary>Geldner</summary>

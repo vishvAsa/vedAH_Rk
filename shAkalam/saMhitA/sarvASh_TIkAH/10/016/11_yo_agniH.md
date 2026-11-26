@@ -92,6 +92,12 @@ pitŕ̥bhyaḥ ← pitár- (nominal stem)
 प्रेदु॑ ह॒व्यानि॑ वोचति दे॒वेभ्य॑श्च पि॒तृभ्य॒ आ ॥६५ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+यो᳓ अग्निः᳓ कव्यवा᳓हनः पितॄ᳓न्य᳓क्षदृतावृ᳓धः।  
+प्रे᳓दु हव्या᳓नि वोचति देवे᳓भ्यश्च पितृ᳓भ्य आ᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यः । अ॒ग्निः । क्र॒व्य॒ऽवाह॑नः । पि॒तॄन् । यक्ष॑त् । ऋ॒त॒ऽवृधः॑ ।  
@@ -106,6 +112,25 @@ pitŕ̥bhyaḥ ← pitár- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 यः। अ॒ग्निः। क॒व्य॒वाह॑न॒ इति॑ कव्य॒ऽवाह॑नः। पि॒तॄन्। यक्ष॑त्। ऋ॒ता॒वृधः॑। ऋ॒त॒वृध॒। इत्यृ॑त॒ऽवृधः॑। प्र। इत्। ऊँ॒ऽइत्यूँ॑। ह॒व्यानि॑। वो॒च॒ति॒। दे॒वेभ्यः॑। च॒। पि॒तृभ्य॒ इति॑ पि॒तृऽभ्यः॑। आ। १५।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- कव्य-वा᳓हनः (*MS*-1/2, *TS*-1, *TB*-0/2, *SB-M*-1/5, *SB-K*-1/4, *VS-M*-1/2, *VS-K*-1/2)
+- पितॄ᳓न् (*MS*-12, *TS*-3, *RV*-7, *TB*-13, *TK*-1, *AV*-15, *SB-M*-32, *SB-K*-35, *VS-M*-5, *VS-K*-7)
+- य᳓क्षत् (*MS*-7, *TS*-3, *RV*-4, *TB*-6, *SB-M*-8, *SB-K*-5, *VS-M*-3, *VS-K*-2)
+- ऋत-वृ᳓धः (*TS*-5/6, *RV*-19/26, *TB*-3, *AV*-3, *SB-K*-4, *VS-M*-9, *VS-K*-8, *MS*-6)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- इत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-77, *TB*-27, *TK*-4, *MS*-31)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- हव्या᳓नि (*MS*-2/56, *TS*-4/50, *RV*-25/81, *TB*-3/21, *AV*-2/25, *SB-M*-1/22, *SB-K*-1/24, *VS-M*-3/18, *VS-K*-3/22)
+- वोचति (*RV*-4, *AV*-1)
+- देवे᳓भ्यः (*MS*-138/1216, *TS*-101/1023, *RV*-60/1342, *TB*-58/582, *TK*-2/32, *AV*-40/707, *SB-M*-249/2031, *SB-K*-210/1945, *VS-M*-64/528, *VS-K*-60/523)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- पितृ᳓भ्यः (*MS*-13/157, *TS*-20/121, *RV*-11/254, *TB*-18/111, *TK*-0/6, *AV*-23/228, *SB-M*-27/321, *SB-K*-24/317, *VS-M*-8/80, *VS-K*-7/75)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -342,6 +367,11 @@ _________
 उमागमः ॥१५॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[335_6]** Brl **वोचते** ; cf. RV 10, 16, 11.
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर भी उसी विषय को अगले मन्त्र में कहा है ॥
@@ -400,6 +430,13 @@ With offerings meet let Agni bring the Fathers who support the Law.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 May Agni, Kavya-bearer, who hath worshipped Fathers true to Law. Announce to Gods and Fathers these our sacrificial offerings.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'May Agni, the conveyor of offerings to the ancestors, sacrifice to the fathers who increase the cosmic order;  
+and may he announce the offerings forth to the gods and to the fathers!' //  
+'From you, Agni,
 </details>
 
 <details><summary>Geldner</summary>

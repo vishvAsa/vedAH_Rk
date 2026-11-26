@@ -319,6 +319,12 @@ Be strong in the gathering of might.
 Soma, wax great. From every side may vigorous powers unite in thee. Be in the gathering-place of strength.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Swell up! Let virile strength gather to you from all sides, o Soma!  
+Be [present] in the gathering of the prize!
+</details>
+
 <details><summary>Geldner</summary>
 
 Quill auf! Von allen Seiten soll deine Bullenstärke zusammenkommen, o Soma! Sei dabei, wo der Gewinn sich anhäuft.

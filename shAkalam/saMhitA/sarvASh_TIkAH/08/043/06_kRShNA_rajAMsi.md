@@ -66,10 +66,29 @@ yát ← yá- (pronoun)
 अ॒ग्निर्यद्रोध॑ति॒ क्षमि॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+कृष्णा᳓ र᳓जाँसि पत्सुतःँ प्रयाँणे जात᳓वेदसः।  
+अग्नि᳓र्यद्रो᳓धति क्ष᳓मि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 कृ॒ष्णा । रजां॑सि । प॒त्सु॒तः । प्र॒ऽयाने॑ । जा॒तऽवे॑दसः ।  
 अ॒ग्निः । यत् । रोध॑ति । क्षमि॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- कृष्णा᳓ (*MS*-11/47, *TS*-4/44, *RV*-10/45, *TB*-2/12, *AV*-3/25, *SB-M*-6/51, *SB-K*-6/52, *VS-M*-5/13, *VS-K*-2/16)
+- र᳓जांसि (*MS*-7/27, *TS*-5/22, *RV*-38/144, *TB*-4/14, *AV*-8/39, *SB-M*-4/16, *SB-K*-2/14, *VS-M*-6/22, *VS-K*-7/21)
+- पत्सुतःम् (मूल-पाठः)
+- प्रयांणे (मूल-पाठः)
+- जात᳓-वेदसः (*MS*-1/11, *TS*-0/12, *RV*-6/40, *AV*-5/18, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/8, *VS-K*-0/8)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- यत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-48, *TS*-2, *TB*-9, *AV*-1, *SB-M*-10, *SB-K*-6)
+- रो᳓धति (*RV*-1/2)
+- क्ष᳓मि (*MS*-1, *RV*-9, *TB*-1, *AV*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -140,6 +159,11 @@ _________
 **जातवेदसः** अग्नेः **प्रयाणे** **पत्सुतः** पत्तः **रजांसि** पांसवः कृष्णानि भवन्ति । कदेत्यत आह । **क्षमि** क्षमायां **यत्** यदा **अग्निः** **रोधति** शुष्कान् वनस्पतीन् निरुणद्धि ॥।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[82_12]** Brl अग्ने᳓र्य᳓º
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -165,6 +189,13 @@ when Agni grows on the earth.
 
 As Jatavedas speeds along, the dust is black beneath his feet,  
      When Agni spreads upon the earth.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+high, O Agni, is your great, auspicious protection.  
+Black are the spaces beneath his feet on the march of Jātavedas,  
+when Agni grows tall upon the earth.
 </details>
 
 <details><summary>Geldner</summary>

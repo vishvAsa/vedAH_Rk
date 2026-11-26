@@ -101,10 +101,40 @@ sūráyaḥ ← sūrí- (nominal stem)
 अ॒स्माका॑सो॒ ये नृत॑मासो अ॒र्य इन्द्र॑ सू॒रयो॑ दधि॒रे पु॒रो नः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अध स्मा ते चर्षणयो यदेजानिन्द्र त्रातोत भवा वरूता।  
+अस्माकासो ये नृतमासो अर्य इन्द्र सूरयो दधिरे पुरो नः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अध॑ । स्म॒ । ते॒ । च॒र्ष॒णयः॑ । यत् । एजा॑न् । इन्द्र॑ । त्रा॒ता । उ॒त । भ॒व॒ । व॒रू॒ता ।  
 अ॒स्माका॑सः । ये । नृऽत॑मासः । अ॒र्यः । इन्द्र॑ । सू॒रयः॑ । द॒धि॒रे । पु॒रः । नः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ध (*MS*-10, *TS*-8/9, *RV*-195, *TB*-4/5, *TK*-1, *AV*-39, *SB-M*-3/7, *SB-K*-4/9, *VS-M*-11, *VS-K*-15/19)
+- स्मा᳓ (*MW*, *MS*-0/3, *TS*-0/8, *RV*-0/1, *TB*-0/2, *SB-M*-0/2, *SB-K*-0/1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- चर्षण᳓यः (*MS*-0/11, *TS*-0/5, *RV*-8/58, *TB*-0/7, *AV*-0/10, *VS-M*-0/1, *VS-K*-0/2)
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- ए᳓जान् (*RV*-1)
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- त्राता᳓ (*MS*-5/9, *TS*-3/7, *RV*-13/22, *TB*-1, *AV*-2/4, *SB-M*-1/2, *SB-K*-1, *VS-M*-5/8, *VS-K*-5/8)
+- उत᳓ (*Whitney*, *Lanman*, *MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- भवाः (समानान्तर-पाठः (RV), *MS*-4)
+- वरूता᳓ (*RV*-5)
+- अस्मा᳓कासः (*MS*-0/44, *TS*-0/18, *RV*-4/117, *TB*-0/6, *AV*-1/313, *SB-M*-0/31, *SB-K*-0/49, *VS-M*-0/15, *VS-K*-0/16)
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- नृ᳓-तमासः (*MS*-0/2, *TS*-0/1, *RV*-2/37, *TB*-0/1, *AV*-0/3, *VS-M*-0/1, *VS-K*-0/1)
+- अर्यः᳓ (*MS*-5, *TS*-5/6, *RV*-96/100, *TK*-1, *AV*-12, *SB-M*-1, *SB-K*-3/4, *VS-M*-2, *VS-K*-1)
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- सूर᳓यः (*MS*-3/15, *TS*-2/8, *RV*-35/111, *TB*-0/3, *AV*-3/17, *SB-M*-2/5, *SB-K*-1/3, *VS-M*-3/7, *VS-K*-2/8)
+- दधिरे᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1, *TS*-2, *RV*-18, *AV*-4, *SB-K*-1)
+- पुरः᳓ (*MS*-39, *TS*-18, *RV*-52, *TB*-2, *AV*-26, *SB-M*-31, *SB-K*-33, *VS-M*-13, *VS-K*-12)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -261,6 +291,12 @@ our most manly patrons, who have set us ahead of the stranger, o Indra.
 
 And when the people stir themselves for battle, be thou their saviour, Indra, and protector,  
      And theirs, thy manliest of our friends, the pious, the chiefs who have installed us priests, O Indra.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Then indeed, when your peoples tremble, O Indra, be both savior and protector,  
+when our noble patrons, most manly, have set us in front, O Indra.
 </details>
 
 <details><summary>Geldner</summary>

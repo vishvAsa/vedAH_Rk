@@ -165,6 +165,11 @@ _________
 **देवः** द्योतमानः **सः** अग्निः **आनमं** यजमानादीनानमयितुं नमस्कारयितुं **देवान्** इन्द्रादीन् **वेद** क्रमेण वेत्ति । **दमे** यज्ञगृहे **ऋतायते** ऋतं यज्ञमिच्छते यजमानाय **प्रियाणि** **चित्** अभीष्टान्यपि **वसु** वसूनि पश्वादीनि धनानि **दाति** ददाति प्रयच्छति ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[176_15]** Ch देवा
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -188,6 +193,12 @@ With Lubotsky I take dā́ti as a contracted root-aor. subjunctive. Unfortunatel
 
 He knows, a God himself, to guide Gods to the righteous in his home:  
      He gives e'en treasures that we love.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He, the god, knows the bow [of obeisance] to the gods for him who acts rightly in his house;  
+he gives even dear wealth.
 </details>
 
 <details><summary>Oldenberg</summary>

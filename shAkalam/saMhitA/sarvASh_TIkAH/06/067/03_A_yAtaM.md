@@ -95,10 +95,37 @@ yatathaḥ ← √yat- (root)
 सं याव॑प्नः॒स्थो अ॒पसे॑व॒ जना॑ञ्छ्रुधीय॒तश्चि॑द्यतथो महि॒त्वा ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+आ᳓यातं मित्रावरुणा सुशस्त्य् उ᳓प प्रिया᳓ न᳓मसा हूय᳓माना  
+सँ᳓ या᳓ अप्नःस्थो᳓ अप᳓सेव ज᳓नाञ् श्रुधीयत᳓श् चिद् यतथो महित्वा᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । या॒त॒म् । मि॒त्रा॒व॒रु॒णा॒ । सु॒ऽश॒स्ति । उप॑ । प्रि॒या । नम॑सा । हू॒यमा॑ना ।  
 सम् । यौ । अ॒प्नः॒ऽस्थः । अ॒पसा॑ऽइव । जना॑न् । श्रु॒धि॒ऽय॒तः । चि॒त् । य॒त॒थः॒ । म॒हि॒ऽत्वा ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- आ᳓-यातम् (गतिरनन्तरः पा॰ ६.२.४९)
+- मित्रा-वरुणा (*TS*-6, *RV*-48, *TB*-6, *AV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-4, *KS*-6)
+- सु-शस्ति᳓ (*TS*-0/2, *RV*-2/10, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/3, *VS-K*-1/4)
+- उ᳓प (*TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60, *KS*-116)
+- प्रिया᳓ (*TS*-12/92, *RV*-29/213, *TB*-30/83, *TK*-0/1, *AV*-7/90, *SB-M*-13/134, *SB-K*-17/141, *VS-M*-22/60, *VS-K*-16/45, *KS*-6/26)
+- न᳓मसा (*TS*-7/315, *RV*-83/182, *TB*-8/60, *TK*-0/4, *AV*-12/248, *SB-M*-0/105, *SB-K*-0/102, *VS-M*-5/244, *VS-K*-5/167, *KS*-6/305)
+- हूय᳓माना (*RV*-3/13, *TB*-0/1, *AV*-1/3, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/2, *VS-K*-0/1)
+- स᳓म् (*TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-137, *KS*-174)
+- याः᳓ (*TS*-85/3383, *RV*-87/4011, *TB*-24/1735, *TK*-12/227, *AV*-133/3120, *SB-M*-237/8327, *SB-K*-240/8438, *VS-M*-31/639, *VS-K*-31/581, *KS*-39/818)
+- अप्नः-स्थः᳓ (*RV*-1)
+- अप᳓स् (*TS*-55/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/122, *KS*-18/99)
+- एव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *TB*-10, *TK*-1, *AV*-3, *SB-M*-17, *SB-K*-8, *VS-M*-1, *KS*-21)
+- ज᳓नान् (*TS*-2/35, *RV*-30/298, *TB*-4/27, *AV*-18/92, *SB-M*-1/26, *SB-K*-1/26, *VS-M*-3/27, *VS-K*-3/25, *KS*-3/19)
+- श्रुधीयतः᳓ (*MW*)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-22, *KS*-25)
+- यतथः (*RV*-3)
+- महि-त्वा᳓ (*TS*-9, *RV*-34, *TB*-3, *AV*-16, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3, *KS*-4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -268,6 +295,12 @@ The denom. śrudhīyá- is, by most accounts (see Oldenberg, Renou), but not by 
 
 Come hither, Mitra-Varuna, invited with eulogies and loving adoration,  
      Ye who with your might, as Work-Controllers, urge even men who quickly hear to labour.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Come, O Mitra and Varuṇa, at good praise, being summoned with reverent love.  
+Standing in property, you unite the peoples as if with work, and direct even him who wishes to hear, by your greatness.
 </details>
 
 <details><summary>Geldner</summary>

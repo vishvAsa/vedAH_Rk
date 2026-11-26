@@ -69,10 +69,31 @@ yé ← yá- (pronoun)
 य ईं॒ पुष्य॑न्त इन्ध॒ते ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ते᳓ स्याम ये᳓ अग्न᳓ये ददाश्रु᳓र्हव्य᳓दातिभिः।  
+य᳓ ईं पु᳓ष्यन्त इन्धते᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ते । स्या॒म॒ । ये । अ॒ग्नये॑ । द॒दा॒शुः । ह॒व्यऽदा॑तिभिः ।  
 ये । ई॒म् । पुष्य॑न्तः । इ॒न्ध॒ते ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ते᳓ (*MS*-372/5550, *TS*-451/4761, *RV*-282/3136, *TB*-196/2709, *TK*-12/363, *AV*-224/3165, *SB-M*-1028/20457, *SB-K*-914/20018, *VS-M*-118/780, *VS-K*-96/660)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-30, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-18)
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- अग्न᳓ये (*MS*-135/1297, *TS*-128/1194, *RV*-47/856, *TB*-46/520, *TK*-34/105, *AV*-16/419, *SB-M*-137/2495, *SB-K*-138/2289, *VS-M*-44/325, *VS-K*-35/349)
+- दद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-2, *RV*-2, *AV*-8, *SB-M*-2, *SB-K*-3)
+- अश्रुः᳓ (*TB*-0/1)
+- हव्य᳓-दातिभिः (*MS*-0/5, *TS*-0/1, *RV*-4/17, *TB*-0/3, *AV*-0/2, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/3, *VS-K*-0/1)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- ईम् (*MS*-8, *TS*-11, *RV*-206, *TB*-1, *AV*-26, *SB-M*-3, *SB-K*-4, *VS-M*-10, *VS-K*-5)
+- पु᳓ष्यन्तः (*RV*-1)
+- इन्धते᳓ (*MS*-2, *TS*-1, *RV*-4, *TB*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -180,6 +201,12 @@ On pāda a see comm. ad VI.2.10, which contains the identical pāda.
 
 May we be they who gratify Agni with sacrificial gifts,  
      Whocherish and enkindle him.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May we be those who have given to Agni with oblations,  
+who, prospering, kindle him.
 </details>
 
 <details><summary>Oldenberg</summary>

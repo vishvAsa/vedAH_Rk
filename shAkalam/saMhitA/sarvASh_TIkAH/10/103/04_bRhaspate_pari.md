@@ -101,6 +101,12 @@ ráthānām ← rátha- (nominal stem)
 प्र॒भ॒ञ्जन्त्सेनाः॑ प्रमृ॒णो यु॒धा जय॑न्न॒स्माक॑मेध्यवि॒ता रथा॑नाम् ॥४॥ ३६
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+बृ᳓हस्पते प᳓रिदीया र᳓थेन रक्षोहा᳓मि᳓त्राँ अपबा᳓धमानः।  
+प्रभञ्ज᳓न्से᳓नाः प्रमृणो᳓ युधा᳓ ज᳓यन्नस्मा᳓कमेध्यविता᳓ र᳓थानाम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 बृह॑स्पते । परि॑ । दी॒य॒ । रथे॑न । र॒क्षः॒ऽहा । अ॒मित्रा॑न् । अ॒प॒ऽबाध॑मानः ।  
@@ -115,6 +121,26 @@ ráthānām ← rátha- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 बृह॑स्पते। परि॑। दी॒य॒। रथे॑न। र॒क्षा॒हेति॑ रक्षः॒ऽहा। अ॒मित्रा॑न्। अ॒प॒बाध॑मान॒। इत्य॑प॒ऽबाध॑मानः। प्र॒भ॒ञ्जन्निति॑ प्रऽभ॒ञ्जन्। सेनाः॑। प्र॒मृ॒ण इति॑ प्रऽमृ॒णः। यु॒धा। जय॑न्। अ॒स्माक॑म्। ए॒धि। अ॒विता। रथा॑नाम्। ४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- बृ᳓हस्पते (*MS*-10, *TS*-9, *RV*-33, *TB*-2, *TK*-1, *AV*-12, *SB-M*-8, *SB-K*-7/8, *VS-M*-6, *VS-K*-6)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- दीया (*TS*-1, *MS*-1)
+- र᳓थेन (*MS*-4, *TS*-5, *RV*-58, *TB*-1, *AV*-4, *SB-M*-2, *SB-K*-5, *VS-M*-5, *VS-K*-4)
+- रक्षः-हा᳓ (*TS*-5/18, *RV*-8/12, *TB*-1, *AV*-6/8, *SB-K*-2/6, *VS-M*-4/10, *VS-K*-3/4, *MS*-6/17)
+- अमि᳓त्रान् (*MS*-3/6, *TS*-6/9, *RV*-24/35, *TB*-2/7, *AV*-29/70, *SB-M*-2/9, *SB-K*-2/6, *VS-M*-6/7, *VS-K*-2/3)
+- अप-बा᳓धमानः (*MS*-1/2, *TS*-1, *RV*-1, *AV*-2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1, *VS-K*-1)
+- प्र-भञ्ज᳓न् (*TS*-1, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- से᳓नाः (*MS*-6/13, *TS*-6/12, *RV*-7/13, *TB*-0/5, *AV*-8/41, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-4/6, *VS-K*-5/9)
+- प्र-मृणः᳓ (*MS*-1, *TS*-1, *RV*-1/3, *AV*-0/8, *VS-M*-1, *VS-K*-1)
+- युधा᳓ (*MS*-3, *TS*-2, *RV*-19, *TB*-1, *AV*-7, *VS-M*-1, *VS-K*-1)
+- ज᳓यन् (*MS*-2, *TS*-1, *RV*-6, *TB*-2, *TK*-1, *AV*-2, *SB-M*-2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- अस्मा᳓कम् (*MS*-44/641, *TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/315, *VS-K*-16/274)
+- एधि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-24, *TS*-12, *RV*-16, *TB*-7, *AV*-19, *SB-M*-21, *SB-K*-5, *VS-M*-12, *VS-K*-7)
+- अविता᳓ (*MS*-6/8, *TS*-2/3, *RV*-38/42, *AV*-7/10, *SB-M*-1, *SB-K*-1, *VS-M*-5/6, *VS-K*-5/6)
+- र᳓थानाम् (*MS*-1/57, *TS*-2/37, *RV*-19/394, *TB*-0/36, *TK*-0/3, *AV*-1/57, *SB-M*-1/54, *SB-K*-1/53, *VS-M*-2/16, *VS-K*-2/13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -378,6 +404,12 @@ O Brhaspati, fly round with thy chariot [1],
 Slaying the foe, driving away the enemy;  
 Defeating hosts, destroyer, victor in battle,  
 Be thou protector of our chariots.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Bṛhaspati, fly around with your chariot, slaying the rakṣases, driving away enemies;  
+shattering armies, crushing them in battle, conquering, be the protector of our chariots.
 </details>
 
 <details><summary>Geldner</summary>

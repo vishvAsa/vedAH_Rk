@@ -89,10 +89,36 @@ tiratam ← √tr̥̄- 1 (root)
 इन्द्रा॑ग्नी वृत्रहणा सुवज्रा॒ प्र नो॒ नव्ये॑भिस्तिरतं दे॒ष्णैः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+गीर्भि᳓र्वि᳓प्रः प्र᳓मतिमिच्छ᳓मान ई᳓ट्टे रयिं᳓ यश᳓सं पूर्वभा᳓जम्।  
+इ᳓न्द्राग्नी वृत्रहणा सुवज्जा प्र᳓ नो न᳓व्येभिस्तिरतं देष्णैः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 गीः॒ऽभिः । विप्रः॑ । प्रऽम॑तिम् । इ॒च्छमा॑नः । ईट्टे॑ । र॒यिम् । य॒शस॑म् । पू॒र्व॒ऽभाज॑म् ।  
 इन्द्रा॑ग्नी॒ इति॑ । वृ॒त्र॒ऽह॒ना॒ । सु॒ऽव॒ज्रा॒ । प्र । नः॒ । नव्ये॑भिः । ति॒र॒त॒म् । दे॒ष्णैः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- गीर्भिः᳓ (*MS*-9, *TS*-3, *RV*-85, *TB*-8, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-1)
+- वि᳓प्रः (*MS*-5/19, *TS*-6/22, *RV*-59/218, *TB*-5/8, *AV*-4/31, *SB-M*-3/13, *SB-K*-2/11, *VS-M*-3/18, *VS-K*-3/19)
+- प्र᳓-मतिम् (*MS*-2/4, *RV*-8/20, *TB*-2/3, *AV*-0/4)
+- इच्छ᳓मानः (*TS*-4/6, *RV*-10/17, *TB*-2/6, *AV*-5, *SB-M*-3/4, *SB-K*-2/4, *VS-M*-1/2, *VS-K*-1/2)
+- ई᳓ट्टे (*MS*-4, *RV*-5, *TB*-1, *SB-M*-1)
+- रयि᳓म् (*MS*-51/71, *TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37)
+- यश᳓सम् (*MS*-5/6, *TS*-2/3, *RV*-15/26, *TB*-2/3, *AV*-6/10, *SB-M*-1, *SB-K*-1, *VS-M*-1/3, *VS-K*-1/4)
+- पूर्व-भा᳓जम् (*MS*-1/2, *RV*-2/3, *TB*-1/2)
+- इ᳓न्द्राग्नी (*MS*-11, *TS*-8, *RV*-44, *TB*-6, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-3)
+- वृत्र-हना (*TS*-1, *RV*-3, *TB*-4, *MS*-4)
+- सुवज्जा (मूल-पाठः)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- न᳓व्येभिः (*MS*-1/3, *TS*-0/3, *RV*-2/46, *TB*-1/3, *AV*-0/5)
+- तिरतम् (*MS*-1, *RV*-2, *TB*-1)
+- देष्णैः᳓ (*MS*-1, *TS*-0/1, *RV*-1/9, *TB*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -249,11 +275,14 @@ With his hymns the inspired poet seeking your solicitude reverently  invokes (yo
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/093/03-04.md">
 <details><summary><h2>03-04 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 There is no main clause in vs. 3: the three co-referential participial phrases (… ichámānāḥ b, … nákṣamānāḥ c, … jóhuvataḥ …d) all simply expanding on the dependent cl. of pāda a, úpo ha yád … gúḥ “When they have come”).
 
 However, the first pāda of vs. 4 echoes 3b exactly, save for number: 3b … víprāḥ prámatim ichámānāḥ (pl.) versus 4a … vípraḥ prámatim ichámānaḥ (sg.), vs. 4 seems to continue vs. 3. Interestingly enough, it is not possible to determine whether his new start in 4 is a main clause or continues the dependent cl. in vs. 3 -- though Geldner, Renou, and I all take it as an independent cl. The problem is that the finite verb ī́ṭṭe opens the second pāda; its accent then can be owing to its metrical position and it can be a main-cl. verb (as we all interpret it). However, the accent could also signal that it’s the verb of a dependent cl., and the whole complex of vss. 34 could be interpr.
 
 “When the prize seekers have come …., (when) the inspired poet … invokes …, (then,) o Indra and Agni, further us …” -- in other words 4cd would supply the main cl. for all of 3-4ab.
+</details>
 
 </details>
 </div>
@@ -262,6 +291,12 @@ However, the first pāda of vs. 4 echoes 3b exactly, save for number: 3b … ví
 
 The singer, seeking with his hymns your favour, begs splendid riches of their first possessor.  
      Further us with new bounties, Indra-Agni, armed with strong thunder, slayers of the foeman.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+// Seeking favor through songs of praise, the inspired poet praises the glorious, first-sharing wealth;  
+O Indra and Agni, Vṛtra-slayers with good vajras, prosper us with new gifts!
 </details>
 
 <details><summary>Geldner</summary>

@@ -249,9 +249,12 @@ may he be fastened to the fetters of deceit. With your most scorching  stroke st
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/08-09.md">
 <details><summary><h2>08-09 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 Although, as noted in the published introduction, the last four vss. of the hymn (9- 12) must be late additions, there is a verbal link between vs. 8 and vs. 9: tápiṣṭhena “with the most scorching …” opening 8d is echoed by the Maruts’ ritual epithet sā́ṃtapanāḥ opening 9a. This link may help account for why these Sākamedha vss.
 
 were attached just here.
+</details>
 </details>
 </div>
 
@@ -259,6 +262,12 @@ were attached just here.
 
 Maruts, the man whose wrath is hard to master, he who would slay us ere we think, O Vasus,  
      May he be tangled in the toils of mischief; smite ye him down with your most flaming weapon.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Maruts, whatever ill-disposed person seeks to strike us behind our intentions, O Vasus,  
+let him be caught in the snares of Druh; slay him with your hottest bolt!
 </details>
 
 <details><summary>Geldner</summary>

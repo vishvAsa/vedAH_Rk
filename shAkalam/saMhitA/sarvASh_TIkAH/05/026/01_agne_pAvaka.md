@@ -309,6 +309,12 @@ O Agni, the purifying, with thy light,
 Bring hither the gods and sacrifice.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni, purifier, with radiant, delightful tongue, O god,  
+bring the gods here and sacrifice [to them].
+</details>
+
 <details><summary>Geldner</summary>
 
 Gott Agni, du Heller, bring mit deinem Glanze, mit deiner wohlklingenden Zunge die Götter her und opfere ihnen!

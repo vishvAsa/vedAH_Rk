@@ -69,10 +69,28 @@ vr̥ṣṭíḥ ← vr̥ṣṭí- (nominal stem)
 अ॒भ्राद्वृ॒ष्टिरि॑वाजनि ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इयं वामस्य मन्मन इन्द्राग्नी पूर्व्यस्तुतिः।  
+अभ्राद्वृष्टिरिवाजनि
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒यम् । वा॒म् । अ॒स्य । मन्म॑नः । इन्द्रा॑ग्नी॒ इति॑ । पू॒र्व्यऽस्तु॑तिः ।  
 अ॒भ्रात् । वृ॒ष्टिःऽइ॑व । अ॒ज॒नि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इय᳓म् (*MW*, *MS*-138/1379, *TS*-104/965, *RV*-74/1247, *TB*-50/567, *TK*-2/57, *AV*-68/1259, *SB-M*-381/5239, *SB-K*-326/5549, *VS-M*-10/319, *VS-K*-9/301)
+- वाम᳓स्य (*MS*-6/24, *TS*-3/22, *RV*-11/52, *TB*-3/9, *TK*-0/1, *AV*-3/11, *SB-M*-5/13, *SB-K*-4/11, *VS-M*-2/7, *VS-K*-2/7)
+- म᳓न्मनः (*MS*-0/7, *TS*-0/3, *RV*-3/69, *TB*-0/1, *AV*-0/7, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/4, *VS-K*-0/5)
+- इन्द्राग्नी᳓ (*MS*-38/43, *TS*-10/18, *RV*-0/6, *TB*-16/23, *TK*-1, *AV*-16/17, *SB-M*-46/58, *SB-K*-46/57, *VS-M*-8/14, *VS-K*-8/13)
+- पूर्व्य᳓-स्तुतिः (*RV*-1/3, *AV*-0/1)
+- अभ्रा᳓त् (*MS*-0/1, *TS*-0/3, *RV*-2/10, *AV*-1/10, *SB-M*-1/10, *SB-K*-1/10, *VS-M*-0/1, *VS-K*-0/1)
+- वृष्टि᳓रिव (*RV*-1, *AV*-1)
+- अ᳓जनि (*Whitney*, *RV*-2/5, *TB*-1, *AV*-0/3, *SB-M*-1/6, *SB-K*-1/7, *VS-K*-0/2, *MS*-2/4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -166,6 +184,11 @@ _________
 हे **इन्द्राग्नी** **इयं** पूर्व्यस्तुतिः पूर्व्या मुख्या स्तुतिः **अस्य** **मन्मनः** स्तोतुरस्माद्वसिष्ठात् **वां** युवाभ्यां युवयोरर्थम् **अभ्रात्** मेघात् **वृष्टिरिव** बह्वी सती **अजनि** प्रादुर्भूता। तां शृणुतमित्युत्तरत्र संबन्धः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[196_6]** Ch मन्मना
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -191,6 +214,13 @@ Both Geldner and Renou take ajani ‘has been born’ in c as the main verb for 
 
 As rain from out the cloud, for you, Indra and Agni, from my soul  
      This noblest praise hath been produced.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This ancient praise of this thought of yours, O Indra and Agni,  
+was born like rain from a cloud.  
+Now, O Indra and Agni,
 </details>
 
 <details><summary>Geldner</summary>

@@ -98,6 +98,12 @@ ripávaḥ ← ripú- (nominal stem)
 र॒रक्ष॒ तान्त्सु॒कृतो॑ वि॒श्ववे॑दा॒ दिप्स॑न्त॒ इद्रि॒पवो॒ नाह॑ देभुः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ये᳓ पाय᳓वो मामतेयं᳓ ते अग्ने प᳓श्यन्तो अन्धं᳓ दुरिता᳓द᳓रक्षन्।  
+रर᳓क्ष ता᳓न्सुकृ᳓तो विश्व᳓वेदा दि᳓प्सन्त इ᳓द्रिप᳓वो ना᳓ह देभुः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ये । पा॒यवः॑ । मा॒म॒ते॒यम् । ते॒ । अ॒ग्ने॒ । पश्य॑न्तः । अ॒न्धम् । दुः॒ऽइ॒तात् । अर॑क्षन् ।  
@@ -288,6 +294,12 @@ took place in the (semi-)mythological past while the main cl. may refer to the r
 
 Thy guardian rays, O Agni, when they saw him, preserved blind Mamateya from affliction.  
      Lord of all riches, he preserved the pious the foes who fain would harm them did no mischief.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those guardians of yours who, seeing, protected Māmata's blind son from distress, O Agni—  
+them, the doers of good, the all-knowing one protected; the enemies, wishing to harm them, did not harm them at all.
 </details>
 
 <details><summary>Oldenberg</summary>

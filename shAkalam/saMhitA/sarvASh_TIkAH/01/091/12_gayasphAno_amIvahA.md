@@ -213,6 +213,18 @@ Wealth-finder, prospering prosperity,
 O Soma, be a good friend to us.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Increasing the household, dispelling disease, finding wealth, increasing nourishment,  
+be our good friend, O Soma.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Increasing the home, slayer of disease, finder of goods, enhancer of prosperity:  
+be a good friend to us, O Soma.
+</details>
+
 <details><summary>Geldner</summary>
 
 Den Hausstand vergrößernd, Krankheit vertreibend, Schätze findend, Wohlstand mehrend, halte, o Soma, gute Freundschaft mit uns!

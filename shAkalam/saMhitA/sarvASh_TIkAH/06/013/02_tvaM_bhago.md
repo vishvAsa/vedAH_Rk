@@ -104,10 +104,41 @@ vāmásya ← vāmá- (nominal stem)
 अग्ने॑ मि॒त्रो न बृ॑ह॒त ऋ॒तस्यासि॑ क्ष॒त्ता वा॒मस्य॑ देव॒ भूरेः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त्वं᳓ भ᳓गो ना आ᳓ हि᳓ र᳓त्नम् इषे᳓ प᳓रिज्मेव क्षयसि दस्म᳓वर्चाः  
+अ᳓ग्ने मित्रो᳓ न᳓ बृहत᳓ ऋत᳓स्या᳓सि क्षत्ता᳓ वाम᳓स्य देव भू᳓रेः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । भगः॑ । नः॒ । आ । हि । रत्न॑म् । इ॒षे । परि॑ज्माऽइव । क्ष॒य॒सि॒ । द॒स्मऽव॑र्चाः ।  
 अग्ने॑ । मि॒त्रः । न । बृ॒ह॒तः । ऋ॒तस्य॑ । असि॑ । क्ष॒त्ता । वा॒मस्य॑ । दे॒व॒ । भूरेः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- भ᳓गः (*TS*-4/13, *RV*-63/115, *TB*-4/23, *TK*-0/1, *AV*-30/65, *SB-M*-6/23, *SB-K*-5/17, *VS-M*-8/26, *VS-K*-6/26, *KS*-7/11)
+- नाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-42, *KS*-81)
+- र᳓त्नम् (*TS*-2/4, *RV*-45/58, *TB*-0/1, *AV*-5, *SB-M*-10/15, *SB-K*-9/16, *VS-M*-1/2, *VS-K*-1/2, *KS*-1/4)
+- इषे᳓ (*TS*-9/14, *RV*-16/55, *TB*-4/5, *AV*-2/3, *SB-M*-12/15, *SB-K*-12/13, *VS-M*-9/13, *VS-K*-10/13, *KS*-1/5)
+- प᳓रि-ज्मा (*TS*-3, *RV*-11/18, *AV*-1, *KS*-1)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- क्षयसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3)
+- दस्म᳓-वर्चाः (*RV*-3, *TB*-1)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- मित्रः᳓ (*TS*-29/68, *RV*-156/284, *TB*-24/48, *TK*-0/1, *AV*-28/52, *SB-M*-33/71, *SB-K*-40/74, *VS-M*-17/44, *VS-K*-18/50, *KS*-18/26)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- बृहतः᳓ (*TS*-7/10, *RV*-50/67, *TB*-6/8, *AV*-6/16, *SB-M*-4/7, *SB-K*-4/7, *VS-M*-7/11, *VS-K*-7/10, *KS*-4/7)
+- ऋत᳓स्य (*TS*-45/80, *RV*-195/361, *TB*-13/62, *TK*-1/2, *AV*-39/107, *SB-M*-12/72, *SB-K*-13/74, *VS-M*-18/41, *VS-K*-18/41, *KS*-9/25)
+- अ᳓सि (*TS*-22/26, *RV*-79, *TB*-9/12, *TK*-7/8, *AV*-41, *SB-M*-29/53, *SB-K*-24/51, *VS-M*-20/25, *VS-K*-22/30, *KS*-11/12)
+- क्षत्ता᳓ (*TS*-0/3, *RV*-1, *TB*-0/2, *AV*-1/3, *SB-M*-6/9, *SB-K*-6/9, *VS-M*-0/2, *VS-K*-0/1)
+- वाम᳓स्य (*TS*-3/22, *RV*-11/52, *TB*-3/9, *TK*-0/1, *AV*-3/11, *SB-M*-5/13, *SB-K*-4/11, *VS-M*-2/7, *VS-K*-2/7, *KS*-0/3)
+- देव (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-57, *RV*-123, *TB*-28, *TK*-2, *AV*-24, *SB-M*-47, *SB-K*-34, *VS-M*-45, *VS-K*-36, *KS*-26)
+- भू᳓रेः (*TS*-4/10, *RV*-20/101, *TB*-1/5, *AV*-2/23, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-1/5, *VS-K*-1/4, *KS*-1/8)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -295,6 +326,12 @@ In pāda b, the referent in the simile qualified as párijmā ‘encompassing’
 
 Thou art our Bhaga to send wealth thou dwellest, like circumambient air, with wondrous splendour.  
      Friend art thou of the lofty Law, like Mitra, Controller, Agni! God! of many a blessing.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For thou, like Bhaga, dwellest upon the jewel for our nourishment, roaming around, of wondrous light;  
+O Agni, like Mitra of the lofty truth, thou art, O god, the dispenser of much treasure.
 </details>
 
 <details><summary>Geldner</summary>

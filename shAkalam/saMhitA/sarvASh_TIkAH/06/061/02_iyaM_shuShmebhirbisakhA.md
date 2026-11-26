@@ -97,6 +97,12 @@ vivāsema ← √vanⁱ- (root)
 सर॑स्वती॒मा वि॑वासेम धी॒तिभिः॑ ॥ 14 ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इयँ शु᳓ष्मेभिर्बिसखा᳓ इवारुजत्सा᳓नु गिरीणां᳓ तविषे᳓भिरूर्मि᳓भिः।  
+पारावतघ्नी᳓मवसे सुवृत्ति᳓भिस्म᳓रस्वतीमा᳓विवासेम धीति᳓भिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इ॒यम् । शुष्मे॑भिः । बि॒स॒खाःऽइ॑व । अ॒रु॒ज॒त् । सानु॑ । गि॒री॒णाम् । त॒वि॒षेभिः॑ । ऊ॒र्मिऽभिः॑ ।  
@@ -106,6 +112,26 @@ vivāsema ← √vanⁱ- (root)
 <details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
 
 इय᳓म् । शु᳓ष्मेभिः । बिस-खाः᳓ । इव । अरुजत् । सा᳓नु । गिरीणा᳓म् । तविषे᳓भिः । ऊर्मि᳓भिः । पारा । वद । घ्नी᳓म् । अ᳓वसे । सुवृक्ति᳓भिः । स᳓रस्वती । मा᳓ । विवासेम । धीति᳓भिः ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इयम् (*TS*-1, *TB*-1, *TK*-1, *AV*-1, *MS*-2)
+- शु᳓ष्मेभिः (*MS*-1/14, *TS*-0/8, *RV*-2/69, *TB*-1/15, *AV*-0/19, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/5, *VS-K*-0/6)
+- बिस-खाः᳓ (*MS*-1, *TB*-1)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- अरुजत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *TB*-1, *SB-K*-1, *MS*-3)
+- सा᳓नु (*MS*-5, *TS*-2/3, *RV*-20/50, *TB*-1/2, *AV*-0/2, *VS-M*-1/2, *VS-K*-1/2)
+- गिरीणा᳓म् (*MS*-2/15, *TS*-1/8, *RV*-5/42, *TB*-1/2, *AV*-1/20, *SB-M*-0/12, *SB-K*-0/13, *VS-M*-1/5, *VS-K*-0/4)
+- तविषे᳓भिः (*MS*-1/4, *RV*-1/18, *TB*-1/4, *AV*-0/7)
+- ऊर्मि᳓भिः (*MS*-1/14, *TS*-0/10, *RV*-5/70, *TB*-1/4, *AV*-0/6, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-0/10, *VS-K*-0/12)
+- पारावत-घ्नी᳓म् (*MS*-1, *RV*-1)
+- अवसे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- सुवृत्ति᳓भिस् (मूल-पाठः)
+- स᳓रस्वतीम् (*MS*-13/122, *TS*-5/45, *RV*-9/54, *TB*-7/87, *AV*-10/32, *SB-M*-5/63, *SB-K*-3/59, *VS-M*-10/105, *VS-K*-4/94)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- विवासेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2, *TB*-1, *MS*-1)
+- धीति᳓भिः (*MS*-3/4, *TS*-1/2, *RV*-27/73, *TB*-3, *AV*-1/4, *SB-M*-2, *SB-K*-2, *VS-M*-1/2, *VS-K*-1/4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -291,6 +317,18 @@ The hymn begins with the near-deictic nom. sg. iyám, establishing the feminine 
 
 She with her might, like one who digs for lotus-stems, hath burst with her strong waves the ridges of the hills.  
      Let us invite with songs and holy hymns for help Sarasvati who slayeth the Paravatas.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+She has broken the ridge of the mountains with her fierce, mighty waves like one who digs for lotus-roots;  
+Sarasvatī, slayer of the Pārāvatas, let us attend with well-fashioned hymns, with thoughts, for aid!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+With her impetuous powers, like one digging lotus-roots, she broke the ridge of the mountains with mighty waves.  
+Her who strikes down the Pārāvatas, Sarasvatī, let us invite with well-turned prayers, with reflections, for help!
 </details>
 
 <details><summary>Geldner</summary>

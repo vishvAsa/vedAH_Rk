@@ -104,10 +104,41 @@ papráthat ← √prathⁱ- (root)
 प्र नाक॑मृ॒ष्वं नु॑नुदे बृ॒हन्तं॑ द्वि॒ता नक्ष॑त्रं प॒प्रथ॑च्च॒ भूम॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+धी᳓रा त्वस्य महिना᳓ जनूँषि वि᳓ य᳓स्तस्त᳓म्भ रो᳓दसी चिदु᳓र्वी।  
+प्र᳓ ना᳓कमृष्वं᳓ नुनुदे बृह᳓न्तं द्विता᳓ न᳓क्षत्रं पप्र᳓थञ्च भू᳓म
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 धीरा॑ । तु । अ॒स्य॒ । म॒हि॒ना । ज॒नूंषि॑ । वि । यः । त॒स्तम्भ॑ । रोद॑सी॒ इति॑ । चि॒त् । उ॒र्वी इति॑ ।  
 प्र । नाक॑म् । ऋ॒ष्वम् । नु॒नु॒दे॒ । बृ॒हन्त॑म् । द्वि॒ता । नक्ष॑त्रम् । प॒प्रथ॑त् । च॒ । भूम॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- धी᳓रा (*MS*-1/15, *TS*-3/11, *RV*-1/53, *TB*-1/6, *AV*-2/13, *SB-M*-5/15, *SB-K*-4/15, *VS-M*-6/13, *VS-K*-1/14)
+- तु (*TB*-16, *TK*-2, *SB-M*-3, *SB-K*-3, *VS-K*-9, *MS*-23)
+- अस्य (अन्वादेशे अनुदात्तम्, पा॰ २.४.३२, *MS*-398, *TS*-315, *RV*-415, *TB*-178, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-590, *VS-M*-56, *VS-K*-45)
+- महिना᳓ (*MS*-8, *TS*-6, *RV*-38, *TB*-2, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-1)
+- जनूंषि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- तस्त᳓म्भ (*MS*-1, *RV*-6, *TB*-1, *AV*-3)
+- रो᳓दसी (*MS*-22/25, *TS*-14/18, *RV*-186/207, *TB*-6, *TK*-1, *AV*-28, *SB-M*-8/9, *SB-K*-8/9, *VS-M*-13/15, *VS-K*-13/16)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- उ᳓र्वी (*TS*-1, *RV*-1)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- ना᳓कम् (*MS*-12/30, *TS*-10/28, *RV*-21/32, *TB*-7/16, *AV*-19/41, *SB-M*-15/50, *SB-K*-15/49, *VS-M*-11/24, *VS-K*-9/22)
+- ऋष्व᳓म् (*MS*-0/3, *TS*-0/2, *RV*-11/44, *TB*-0/3, *AV*-0/2, *VS-M*-0/1, *VS-K*-0/1)
+- नुनुदे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *AV*-1)
+- बृह᳓न्तम् (*MS*-11/14, *TS*-5/6, *RV*-35/44, *TB*-7/8, *TK*-1, *AV*-4/7, *SB-M*-4/6, *SB-K*-3/5, *VS-M*-5/7, *VS-K*-5/7)
+- द्विता᳓ (*RV*-29, *TB*-1, *AV*-2)
+- न᳓क्षत्रम् (*MS*-34/53, *TS*-28/52, *RV*-5/9, *TB*-7/31, *TK*-0/3, *AV*-3/20, *SB-M*-4/53, *SB-K*-4/55, *VS-M*-0/11, *VS-K*-0/9)
+- पप्र᳓थन् (*RV*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- भू᳓म (*MS*-2/3, *TS*-12, *RV*-29/34, *TB*-1, *TK*-1, *AV*-2, *SB-M*-3/5, *SB-K*-4/6, *VS-M*-5, *VS-K*-9)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -274,6 +305,12 @@ He pushed forth the vault of heaven to be high and lofty, (also) the star  [=the
 
 WISE, verily, are creatures through his greatness who stayed ever, spacious heaven and earth asunder;  
      Who urged the high and mighty sky to motion, the Star of old, and spread the earth before him.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Wise indeed are the creatures by his might, who propped apart the broad world-halves;  
+he pushed forth the high, lofty firmament, and doubly spread out the stars and the earth.
 </details>
 
 <details><summary>Geldner</summary>

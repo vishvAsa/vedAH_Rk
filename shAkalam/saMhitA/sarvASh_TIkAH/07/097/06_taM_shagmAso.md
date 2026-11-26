@@ -92,10 +92,37 @@ vásānāḥ ← √vas- 2 (root)
 सह॑श्चि॒द्यस्य॒ नील॑वत्स॒धस्थं॒ नभो॒ न रू॒पम॑रु॒षं वसा॑नाः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+तँ शग्मासो अरुषासो अश्वा बृहस्पतिँ सहवाहो वहन्ति।  
+सहश्चिद्यस्य नीलवत्सधस्थं नभो न रूपमरुषं वसानाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तम् । श॒ग्मासः॑ । अ॒रु॒षासः॑ । अश्वाः॑ । बृह॒स्पति॑म् । स॒ह॒ऽवाहः॑ । व॒ह॒न्ति॒ ।  
 सहः॑ । चि॒त् । यस्य॑ । नील॑ऽवत् । स॒धऽस्थ॑म् । नभः॑ । न । रू॒पम् । अ॒रु॒षम् । वसा॑नाः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त᳓म् (*MS*-528/5550, *TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660)
+- शग्मा᳓सः (*MS*-0/1, *TS*-0/3, *RV*-3/10, *TB*-0/5, *AV*-0/5, *SB-M*-0/3, *SB-K*-0/2, *VS-M*-0/3, *VS-K*-0/6)
+- अरुषा᳓सः (*MS*-0/8, *TS*-1/7, *RV*-8/57, *TB*-0/2, *AV*-1/6, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-0/6, *VS-K*-0/5)
+- अ᳓श्वा (*MS*-4/121, *TS*-14/128, *RV*-9/235, *TB*-5/172, *AV*-16/76, *SB-M*-6/268, *SB-K*-5/260, *VS-M*-2/58, *VS-K*-2/55)
+- बृ᳓हस्प᳓तिम् (*MS*-10, *TS*-9, *RV*-25, *TB*-1, *TK*-1, *AV*-13, *SB-M*-8, *SB-K*-5, *VS-M*-6, *VS-K*-8)
+- सह-वा᳓हः (*RV*-1)
+- वहन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-6, *RV*-14, *TB*-5, *AV*-15, *SB-M*-25, *SB-K*-24)
+- स᳓हः (*Whitney*, *MS*-17/43, *TS*-18/35, *RV*-47/122, *TB*-11/28, *TK*-2/4, *AV*-30/50, *SB-M*-11/21, *SB-K*-10/24, *VS-M*-15/28, *VS-K*-22/40)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- य᳓स्य (*MS*-155/3763, *TS*-134/3385, *RV*-207/4011, *TB*-71/1735, *TK*-2/227, *AV*-112/3120, *SB-M*-143/8327, *SB-K*-136/8438, *VS-M*-28/651, *VS-K*-25/609)
+- नी᳓लवत् (*RV*-1/2)
+- सध᳓-स्थम् (*MS*-10/40, *TS*-9/28, *RV*-14/45, *TB*-2/7, *TK*-0/1, *AV*-6/18, *SB-M*-13/39, *SB-K*-9/30, *VS-M*-7/27, *VS-K*-6/21)
+- न᳓भः (*Whitney*, *MS*-12/15, *TS*-12/19, *RV*-12/16, *TB*-3/6, *AV*-10/22, *SB-M*-8/9, *SB-K*-11/12, *VS-M*-8/10, *VS-K*-7/10)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- रूप᳓म् (*MS*-79/137, *TS*-83/144, *RV*-18/37, *TB*-56/84, *TK*-3, *AV*-15/46, *SB-M*-320/480, *SB-K*-306/460, *VS-M*-30/43, *VS-K*-26/41)
+- अरुष᳓म् (*MS*-6/8, *TS*-4/7, *RV*-12/57, *TB*-1/2, *AV*-4/6, *SB-M*-4/5, *SB-K*-4/5, *VS-M*-5/6, *VS-K*-4/5)
+- व᳓सानाः (*MS*-7/10, *TS*-2/7, *RV*-7/44, *TB*-0/1, *AV*-5/16, *SB-M*-2/5, *SB-K*-1/5, *VS-M*-1/5, *VS-K*-1/6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -250,6 +277,12 @@ Geldner (n. 6bc) notes the word play between semantically and etymologically dis
 
 Him, this Brhaspati, his red-hued horses, drawing together, full of strength, bring hither.  
      Robed in red colour like the cloud, they carry the Lord of Might whose friendship gives a dwelling.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Him, Bṛhaspati, the capable, ruddy horses carrying together convey,  
+whose seat is forceful and dark, clad in a ruddy form like the cloudy sky.
 </details>
 
 <details><summary>Geldner</summary>

@@ -75,6 +75,12 @@ ráṇe-raṇe ← ráṇa- (nominal stem)
 ध॒न॒ञ्ज॒यँ रणे॑रणे ॥३४ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+तमु त्वा पाथ्यो वृषा समीधे दस्युहन्तमम्।  
+धनञ्जयं रणे रणे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तम् । ऊं॒ इति॑ । त्वा॒ । पा॒थ्यः । वृषा॑ । सम् । ई॒धे॒ । द॒स्यु॒हन्ऽत॑मम् ।  
@@ -94,6 +100,21 @@ ráṇe-raṇe ← ráṇa- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 तम् । उ॒ । त्वा॒ । पा॒थ्यः । वृषा॑ । समिति॑ । ई॒धे॒ । द॒स्यु॒हन्त॑म॒मिति॑ दस्यु-हन्त॑मम् ॥ ध॒न॒ञ्ज॒यमिति॑ धनं-ज॒यम् । रणे॑रण॒ इति॒ रणे॑-र॒णे॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त᳓म् (*MS*-528/5550, *TS*-356/4761, *RV*-540/3136, *TB*-243/2709, *TK*-50/363, *AV*-432/3165, *SB-M*-1296/20457, *SB-K*-1304/20018, *VS-M*-110/780, *VS-K*-78/660)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- पाथ्यः᳓ (*MS*-2, *TS*-3, *RV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- वृ᳓षा (*MS*-21/59, *TS*-21/51, *RV*-156/366, *TB*-13/33, *TK*-1, *AV*-39/71, *SB-M*-64/80, *SB-K*-60/76, *VS-M*-7/30, *VS-K*-6/27)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- ईधे (समानान्तर-पाठः (TS), *MS*-3, *TS*-5, *RV*-5, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-1)
+- दस्यु-ह᳓न्तमम् (*MS*-1, *TS*-2, *RV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- धनं-जय᳓म् (*MS*-1/4, *TS*-1/2, *SB-M*-1, *SB-K*-1)
+- र᳓णे (*MS*-1/6, *TS*-1/6, *RV*-4/26, *TB*-0/3, *AV*-0/12, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-1/5, *VS-K*-1/5)
+- र᳓णे (*MS*-1/6, *TS*-1/6, *RV*-4/26, *TB*-0/3, *AV*-0/12, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-1/5, *VS-K*-1/5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -272,6 +293,11 @@ _________
 इत्थमिमा गायत्र्य उक्ताः ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[221_3]** Mss. धनञ्जयँ (Mss. read धनञ्जयँ)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर भी उक्त विषय अगले मन्त्र में कहा है ॥
@@ -346,6 +372,12 @@ The hero Pathya kindled thee the Dasyus'. most destructive foe,
 Thee Pathya Vrsan doth kindle,  
 Best slayer of foes,  
 Winner of booty in every conflict.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+And then Pāthya the bull kindled you, best slayer of Dasyus,  
+conquering wealth in every fight.
 </details>
 
 <details><summary>Geldner</summary>

@@ -327,6 +327,13 @@ _________
 अत ऐहिकामुष्मिकान् कामान् देहीत्यर्थः ॥५॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[594_5]** So corr. Ch पार्थिवः न etc.; vgl. RV 7, 32, 23; MS 2, 13, 9. (Thus emended Ch पार्थिवः न etc.; cf. RV 7, 32, 23; MS 2, 13, 9.)
+
+- **[594_6]** So corr. Ch न जनिष्यते श्वायन्तो मघवन्निन्द्र वाजिनः गव्य॰ vgl. RV 7, 32, 23; MS 2, 13, 9. (Thus emended Ch न जनिष्यते श्वायन्तो मघवन्निन्द्र वाजिनः गव्य॰; cf. RV 7, 32, 23; MS 2, 13, 9.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 ईश्वर ही उपासना करने योग्य है, इस विषय को अगले मन्त्र में कहा है ॥
@@ -380,6 +387,12 @@ Seeking horses, seeking cows, vying for the prize, we call upon you,  bounteous 
 
 None other like to thee, of earth or of the heavens, hath been or ever will be born.  
      Desiring horses, Indra Maghavan! and kine, as men of might we call on thee.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+None like you exists, neither heavenly nor earthly, neither born nor to be born;  
+desiring horses, O generous Indra, desiring prizes, desiring cattle, we call upon you.
 </details>
 
 <details><summary>Geldner</summary>

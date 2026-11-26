@@ -68,10 +68,30 @@ putrám ← putrá- (nominal stem)
 अ॒तूर्तं॑ श्राव॒यत्प॑तिं पु॒त्रं द॑दाति दा॒शुषे॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्नि᳓स्तुवि᳓श्रवस्तमं तुवि᳓ब्रह्माणमुत्तम᳓म्।  
+अतूँ᳓र्त श्रावय᳓त्पतिं पुत्रं᳓ ददाति दाशु᳓षे
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒ग्निः । तु॒विश्र॑वःऽतमम् । तु॒विऽब्र॑ह्माणम् । उ॒त्ऽत॒मम् ।  
 अ॒तूर्त॑म् । श्र॒व॒यत्ऽप॑तिम् । पु॒त्रम् । द॒दा॒ति॒ । दा॒शुषे॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- तुवि᳓-श्रवस् (*MS*-1, *MW*)
+- तमम् (*TS*-2, *TB*-3, *MS*-7)
+- तुवि᳓-ब्रह्माणम् (*MS*-1, *RV*-1)
+- उत्तम᳓म् (*MS*-28/67, *TS*-17/62, *RV*-21/39, *TB*-15/33, *TK*-0/1, *AV*-20/42, *SB-M*-68/173, *SB-K*-68/164, *VS-M*-16/24, *VS-K*-11/24)
+- अतूं᳓र्त (मूल-पाठः)
+- श्रावय᳓त्-पतिम् (*MS*-1)
+- पुत्र᳓म् (*MS*-16/55, *TS*-17/56, *RV*-18/104, *TB*-5/23, *TK*-0/4, *AV*-55/118, *SB-M*-34/119, *SB-K*-32/119, *VS-M*-11/29, *VS-K*-12/29)
+- ददाति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-26, *TS*-17, *RV*-15, *TB*-16, *TK*-6, *AV*-12, *SB-M*-95, *SB-K*-73)
+- दाशु᳓षे (*MS*-18/24, *TS*-16/18, *RV*-116/139, *TB*-6, *AV*-20/21, *SB-M*-6/7, *SB-K*-6/7, *VS-M*-8/12, *VS-K*-7/13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -191,6 +211,12 @@ one who cannot be overcome and who brings fame to his lord.
 
 Agni gives to the worshipper a son, the best, of mightiest fame,  
      Of deep devotion, ne'er subdued, bringer of glory to his sire.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni gives to the offerer a son of most abounding fame,  
+supreme, having mighty sacred words, unvanquished, causing his lord to be renowned.
 </details>
 
 <details><summary>Oldenberg</summary>

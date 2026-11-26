@@ -89,10 +89,35 @@ rudrā́ya ← rudrá- (nominal stem)
 परि॑ज्मने॒ नास॑त्याय॒ क्षे ब्रवः॒ कद॑ग्ने रु॒द्राय॑ नृ॒घ्ने ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+क᳓द्धि᳓ष्ण्यासु वृधसानो᳓ अग्ने क᳓द्वा᳓ताय प्र᳓तवसे शुभंये᳓।  
+परिज्मने ना᳓सत्याय क्षे᳓ ब्रवः क᳓दग्ने रुद्रा᳓य नृघ्ने᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 कत् । धिष्ण्या॑सु । वृ॒ध॒सा॒नः । अ॒ग्ने॒ । कत् । वाता॑य । प्रऽत॑वसे । शु॒भ॒म्ऽये ।  
 परि॑ऽज्मने । नास॑त्याय । क्षे । ब्रवः॑ । कत् । अ॒ग्ने॒ । रु॒द्राय॑ । नृ॒ऽघ्ने ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- क᳓त् (*MS*-3, *TS*-1, *RV*-61, *TB*-1, *AV*-15, *VS-M*-1)
+- धि᳓ष्ण्यासु (*MS*-1/19, *RV*-1/8, *TK*-0/1, *AV*-0/2, *SB-M*-0/37, *SB-K*-0/33, *VS-M*-0/3, *VS-K*-0/3)
+- वृधसानः᳓ (*MS*-2, *RV*-2/3)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- क᳓त् (*MS*-3, *TS*-1, *RV*-61, *TB*-1, *AV*-15, *VS-M*-1)
+- वा᳓ताय (*MS*-5/58, *TS*-1/52, *RV*-2/81, *TB*-1/15, *TK*-0/1, *AV*-7/83, *SB-M*-15/72, *SB-K*-15/74, *VS-M*-7/31, *VS-K*-8/31)
+- प्र᳓-तवसे (*MS*-1, *RV*-1/2)
+- शुभम्-ये᳓ (*RV*-1, *MS*-1)
+- परि-ज्मने → **प᳓रि-ज्मने** (स्वर-लोपः, *MS*-1/3, *TS*-0/3, *RV*-1/18, *AV*-0/1)
+- ना᳓सत्याय (*MS*-1/3, *RV*-1/38, *TB*-0/3, *VS-M*-0/5, *VS-K*-0/5)
+- क्षे᳓ (*MS*-2/4, *RV*-1/27, *TB*-0/1, *AV*-0/4, *SB-M*-0/1, *SB-K*-0/1, *VS-K*-1)
+- ब्रवः (*RV*-2, *AV*-3)
+- क᳓दग्ने (पादादिः आमन्त्रितम् आद्युदात्तम्, पा॰ ६.१.१९८)
+- रुद्रा᳓य (*MS*-26/168, *TS*-13/161, *RV*-13/99, *TB*-12/78, *TK*-0/2, *AV*-4/44, *SB-M*-6/110, *SB-K*-6/118, *VS-M*-7/53, *VS-K*-6/59)
+- नृ-घ्ने᳓ (*MS*-1, *RV*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -214,6 +239,15 @@ _________
 हे **अग्ने** **धिष्ण्यासु** आग्नीध्रीयादिधिष्ण्येषु **वृधसानः** घृताद्याहुतिभिर्वर्धमानस्त्वं **कत्** कथं ब्रूयाः । **प्रतवसे** प्रकृष्टबलाय **शुभंये** शुभस्य प्रापयित्रे **परिज्मने** परितो गन्त्रे **नासत्याय** सत्यस्य नेत्रे। यद्वा न विद्यतेऽसत्यं यस्य तस्मै । **वाताय** वायवे । यद्वा नासत्याय इति वचनव्यत्ययः । नासत्याभ्यामश्विभ्याम् । **क्षे**। क्षा इति पृथिवीमाह। क्षियन्ति निवसन्त्यस्यां प्राणिन इति । तस्यै क्षे पृथिव्यै च **कत्** कथं ब्रूयाः । हे **अग्ने** **नृघ्ने** नृणां पापकृतां हन्त्रे **रुद्राय** देवाय **कत्** कथमागः **ब्रवः** ब्रूयाः ॥ वृधसानः । वृधु वर्धने' । असानच्' इत्यनुवृत्तौ ‘ऋञ्जिवृधिमन्दिसहिभ्यः कित्' इति असानच्प्रत्ययः । कित्त्वादगुणः । चित्त्वादन्तोदात्तः । शुभंये । ' या प्रापणे ' । विच् । 'तत्पुरुषे कृति बहुलम् ' इति द्वितीयायाः अप्यलुक् । कृत्स्वरः । क्षे ।  ‘ क्षि निवासगत्योः ।  ‘ अन्येभ्योऽपि दृश्यते ' इत्यधिकरणे डः । ततष्टाप् । चतुर्थ्येकवचने ' आतो धातोः' इत्यत्र ‘ आतः' इति योगविभागात आकारलोपः। नृघ्ने । **हन** हिंसागत्योः ।  ‘ बहुलं छन्दसि' इति क्विप् ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[81_9]** So Brl und T3; W14 und Ch वृधमानोः D वृषमानो; T1 u. St abgebrochen. (Thus Brl and T3; W14 and Ch वृधमानोः D वृषमानो; T1 and St broken off.)
+
+- **[81_10]** Brl प्रतवस्य
+
+- **[81_11]** So T1 und W14 T 3 und Brl ब्र᳓वत्; Ch व्रवः; D ब्रुवः (Thus T1 and W14, T3, and Brl ब्र᳓वत्; Ch व्रवः; D ब्रुवः)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -236,11 +270,14 @@ What (will you say), Agni, having grown strong on the holy places  [=ritual hear
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/05-08.md">
 <details><summary><h2>05-08 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 The list of gods to whom Agni will tattle on us follows a certain pattern.
 
 Vs. 5 contains the standard great trio of Ādityas, Varuṇa, Mitra, and Aryaman, as well as a minor Āditya, Bhaga ‘Fortune’, who is, however, important for our welfare.
 
 Although we might have expected the Sun here, because he serves as the Ādityas’ eye, observing our offenses, we have instead Heaven and Earth, which frame the cosmos. In vs. 6 the nearer gods of the midspace, particularly Vāta ‘wind’ and the Aśvins, are featured. Rudra appears in both 6 and 7; I don’t quite understand why, but recall first that Agni was identified as Rudra in vs. 1 and may be also in 10d (see also 14b). Moreover, in 6 the punishing aspect of Rudra is emphasized (‘mansmiting’, nṛhán-), while in 7 he is paired and/or contrasted with the benevolent Pūṣan under the ambiguous epithet súmakha-, which means both ‘good combatant’ and ‘very generous’, so his effects on human life are emphasized and he counts as a nearer god, who in fact is the giver of the oblation (havirdā́-). In the 2nd half of 7 Viṣṇu and his three strides return us to the contemplation of the whole cosmos, and vs. 8 functions ring-compositionally with vs. 5: we have the Sun we expected (and didn’t get) in 5, with Aditi standing in for the Ādityas in 5, and heaven (though probably the place, not the deity) is the final goal.
+</details>
 
 </details>
 </div>
@@ -249,6 +286,12 @@ Although we might have expected the Sun here, because he serves as the Ādityas�
 
 What, when thou blazest on the lesser altars, what to the mighty Wind who comes tobless us,  
      True, circumambient? what to Earth, O Agni, what wilt thou say to man-destroying Rudra?
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+what to the strong wind, striving for beauty,  
+what to the roaming Nāsatyas will you say, O Agni, what to Rudra, the slayer of men?
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -82,6 +82,12 @@ yácha ← √yam- (root)
 यच्छा॑ नः॒ शर्म॑ स॒प्रथाः॑ ॥१३॥ १३
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स्योना पृथिवि भवानृक्षरा निवेशनी।  
+यच्छा नश्शर्म᳓ सप्रथाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स्यो॒ना । पृ॒थि॒वि॒ । भ॒व॒ । अ॒नृ॒क्ष॒रा । नि॒ऽवेश॑नी ।  
@@ -98,6 +104,20 @@ yácha ← √yam- (root)
 स्यो॒ना। पृ॒थि॒वि॒। नः॒। भ॒व॒। अ॒नृ॒क्ष॒रा। नि॒वेश॒नीति॑ नि॒ऽवेश॑नी। यच्छ॑। नः॒। शर्म्म॑। स॒प्रथा॒ इति॑ स॒ऽप्रथाः॑। अप। नः। शोशुचत्। अघम्। २०।
 
 स्यो॒ना। पृ॒थि॒वि॒। नः॒। भ॒व॒। अ॒नृ॒क्ष॒रा। नि॒वेश॒नीति॑ नि॒ऽवेश॑नी। यच्छ॑। नः॒। शर्म्म॑। स॒प्रथा॒ इति॑ स॒प्रथाः॑। १३।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स्योना → **स्योना᳓** (स्वर-लोपः, *MS*-12/29, *TS*-5/20, *RV*-2/10, *TB*-3/13, *AV*-13/50, *SB-M*-2/14, *SB-K*-3/14, *VS-M*-4/15, *VS-K*-6/17)
+- पृथिवि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-6, *TS*-6, *RV*-10, *AV*-15, *SB-M*-3, *SB-K*-2, *VS-M*-6, *VS-K*-8)
+- भव (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-63, *TS*-52, *RV*-67, *TB*-5, *AV*-49, *SB-M*-26, *SB-K*-19, *VS-M*-39, *VS-K*-38)
+- अनृक्षरा → **अनृक्षरा᳓** (स्वर-लोपः, *RV*-1/4, *AV*-1/2, *VS-M*-2, *VS-K*-4, *MS*-1)
+- नि-वेशनी → **नि-वे᳓शनी** (स्वर-लोपः, *MS*-1, *TS*-1, *RV*-1/2, *AV*-2, *VS-M*-2, *VS-K*-4)
+- यत् (*MS*-48, *TS*-2, *TB*-9, *AV*-1, *SB-M*-10, *SB-K*-6)
+- शाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- शर्म᳓ (*AV*-1)
+- सप्रथाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -224,6 +244,13 @@ _________
 शं नो देवीरभिष्टय आपो भवन् तु पीतये ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[580_15]** So corr. Ch न शर्म; aber cf. RV 1, 22, 15; MS 4, 12, 2. (Thus emended Ch न शर्म; but cf. RV 1, 22, 15; MS 4, 12, 2.)
+
+- **[580_16]** So Ch; RV 1, 22, 15 सप्र᳓थः ; desgl. MS 4, 12, 2. (Thus Ch; RV 1, 22, 15 सप्र᳓थः; likewise MS 4, 12, 2.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 पतिव्रता स्त्री कैसी हो, इस विषय को अगले मन्त्र में कहा है ॥
@@ -305,6 +332,12 @@ Thornless be thou, O Earth, spread wide before us for a dwelling-place:
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Pleasant be thou to us, O Earth, etc., as in XXXV. 21.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Be pleasant, O earth, thornless, providing a dwelling;  
+grant us spacious shelter!
 </details>
 
 <details><summary>Geldner</summary>

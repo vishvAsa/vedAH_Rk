@@ -549,6 +549,12 @@ Whom Apnavana and the Bhrgus caused to shine,
 Bright in the woods, spreading from house to house.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+He was established here first by the creators as Hotṛ, most worthy of sacrifice, to be praised at the rites,  
+whom Apnavāna and the Bhṛgus made shine forth in the woods, wondrous, pervasive for every clan.
+</details>
+
 <details><summary>Geldner</summary>
 
 Dieser ist hier von den Opferveranstaltern bestellt worden als der erste, als der bestopfernde Hotri, der bei dem Opfer zu berufen ist, den der Apnavana, den die Bhrigu´s erleuchtet haben, den in den Wäldern schimmernden, der für jeden Clan zu haben ist.

@@ -300,6 +300,13 @@ _________
 यद्वा शतं धामानि स्थानभेदान् जातिभेदानसंख्यान् विशेषतश्च सप्त भेदान्याम्यानारण्यांश्च व्रीह्यादीन्नीवारादींश्चाहं जाने॥ ७५॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[198_1]** Ch पूर्व
+
+- **[198_2]** W1 नू
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 मनुष्यों को अवश्य ओषधिसेवन कर रोगों से बचना चाहिये, यह विषय अगले मन्त्र में कहा है ॥
@@ -362,6 +369,12 @@ brown (plants).
 
 HERBS that sprang up in time of old, three ages earlier than the Gods,-  
      Of these, whose hue is brown, will I declare the hundred powers and seven.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those plants which were born of old, three ages before the gods,  
+now I will meditate on the hundred and seven abodes of the brown ones.
 </details>
 
 <details><summary>Geldner</summary>

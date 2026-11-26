@@ -83,6 +83,12 @@ vā́jānām ← vā́ja- (nominal stem)
 र॒थीत॑मँ र॒थीनां॒ वाजा॑नाँ॒ सत्प॑तिं॒ पति॑म् ॥१२॥ ६१
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इ᳓न्द्रं वि᳓श्वा अवीवृधन्समुद्र᳓व्यचसं गि᳓रः।  
+रथी᳓तमं रथी᳓नां वा᳓जानाँ स᳓त्पतिं प᳓तिम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्र॑म् । विश्वाः॑ । अ॒वी॒वृ॒ध॒न् । स॒मु॒द्रऽव्य॑चसम् । गिरः॑ ।  
@@ -101,6 +107,20 @@ vā́jānām ← vā́ja- (nominal stem)
 इन्द्र॑म्। विश्वाः॑। अ॒वी॒वृ॒ध॒न्। स॒मु॒द्रव्य॑चस॒मिति॑ समु॒द्रऽव्य॑चसम्। गिरः॑।
 
 इन्द्र॑म्। विश्वाः॑। अ॒वी॒वृ॒ध॒न्। स॒मु॒द्रव्य॑चस॒मिति॑ समु॒द्रऽव्य॑चसम्। गिरः॑। र॒थीत॑म॒मिति॑ र॒थिऽत॑मम्। र॒थीना॑म्। र॒थिना॒मिति॑ र॒थिना॑म्। वाजा॑नाम्। सत्प॑ति॒मिति॒ सत्ऽप॑तिम्। पति॑म्। १२।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्रम् (*MS*-118/711, *TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-98/392, *VS-K*-100/380)
+- वि᳓श्वाः (*MS*-28/301, *TS*-19/283, *RV*-102/1116, *TB*-13/125, *TK*-2/124, *AV*-31/353, *SB-M*-14/248, *SB-K*-13/219, *VS-M*-20/225, *VS-K*-25/224)
+- अवीवृधन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-5, *RV*-4, *TB*-2, *AV*-1, *SB-M*-3, *SB-K*-3, *VS-M*-4, *VS-K*-10)
+- समुद्र᳓-व्यचसम् (*MS*-1, *TS*-1, *RV*-1, *TB*-2, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-9)
+- गि᳓रः (*MS*-15/16, *TS*-10, *RV*-151/158, *TB*-11, *AV*-22, *SB-M*-7, *SB-K*-6, *VS-M*-11, *VS-K*-18)
+- रथी᳓तमम् (*MS*-1/2, *TS*-1, *TB*-2, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-1)
+- रथी᳓नाम् (*MS*-2/6, *TS*-0/9, *RV*-0/14, *TB*-0/3, *AV*-0/3, *SB-M*-1/4, *SB-K*-1/3, *VS-M*-3/5, *VS-K*-6/9)
+- वा᳓जानाम् (*MS*-1/116, *TS*-2/96, *RV*-7/351, *TB*-2/35, *TK*-0/1, *AV*-1/49, *SB-M*-1/73, *SB-K*-1/71, *VS-M*-3/71, *VS-K*-6/75)
+- स᳓त्-पतिम् (*MS*-4/9, *TS*-4/6, *RV*-14/34, *TB*-2/3, *AV*-5/8, *SB-M*-3/4, *SB-K*-3/4, *VS-M*-2/3, *VS-K*-5/6)
+- प᳓तिम् (*MS*-11/47, *TS*-7/45, *RV*-57/200, *TB*-8/21, *TK*-0/6, *AV*-34/137, *SB-M*-10/64, *SB-K*-9/61, *VS-M*-14/45, *VS-K*-18/61)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -277,6 +297,17 @@ _________
 " इन्द्रं विश्वा अवीवृधन् ' इति । द्वितीय-दशकस्य तृतीयाध्याये व्याख्यातो
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[264_8]** Ch und W1 तमँ (Ch and W1 read तमँ)
+
+- **[550_2]** T1 und Brl fol. 120 समुद्रं᳓व्यचसं; desgl. Ch, ohne Accent; aber vgl. RV 1, 11, 1. (T1 and Brl fol. 120 समुद्रं᳓व्यचसं; likewise Ch, without accent; but cf. RV 1, 11, 1.)
+
+- **[556_1]** T1 und Brl 119 समुद्रं᳓व्यचसं ; vgl. Kâṭh. 18, 3; 36, 15; RV 1, 11, 1; TBr. 2, 7, 15, 5. (T1 and Brl 119 समुद्रं᳓व्यचसं; cf. Kâṭh. 18, 3; 36, 15; RV 1, 11, 1; TBr. 2, 7, 15, 5.)
+
+- **[556_2]** W 2 रथीनां᳓ ; ebenso TBr. 2, 7, 15, 5. (W2 reads रथीनां᳓; likewise TBr. 2, 7, 15, 5.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (सं, मा.) - विषयः</summary>
 
 पुनर्जगत्स्रष्टुरीश्वरस्य गुणानाह ॥
@@ -371,6 +402,24 @@ ALL sacred songs have magnified Indra expansive as the sea,
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Repeated from XII. 56.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+All songs have magnified Indra, of ocean-like expanse,  
+best charioteer of charioteers, lord of spoils, the true lord.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+All songs have magnified Indra, who has the breadth of the sea,  
+the best charioteer of charioteers, the true lord, the lord of prizes.
+
+All songs have magnified Indra, spacious as the sea,  
+the best of charioteers among charioteers, lord of prizes, true lord.
+
+All songs have magnified Indra, spacious as the sea,  
+best charioteer of charioteers, lord, ruler of spoils.
 </details>
 
 <details><summary>Geldner</summary>

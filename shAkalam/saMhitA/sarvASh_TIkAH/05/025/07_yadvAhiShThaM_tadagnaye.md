@@ -86,6 +86,12 @@ vā́jāḥ ← vā́ja- (nominal stem)
 महि॑षीव॒ त्वद्र॒यिस्त्वद्वाजा॒ उदी॑रते ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+यद्वाहिष्ठं तदग्नये बृहदर्च विभावसो।  
+महिषीव त्वद्रयिस्त्वद्वाजा उदीरते
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । वाहि॑ष्ठम् । तत् । अ॒ग्नये॑ । बृ॒हत् । अ॒र्च॒ । वि॒भा॒व॒सो॒ इति॑ विभाऽवसो ।  
@@ -95,6 +101,25 @@ vā́jāḥ ← vā́ja- (nominal stem)
 <details><summary>पदपाठः - दयानन्दादि</summary>
 
 यत्। वाहि॑ष्ठम्। तत्। अ॒ग्नये॑। बृ॒हत्। अ॒र्च॒। वि॒भा॒व॒सो॒ इति॑ विभऽवसो। महि॑षी॒वेति॒ महि॑षीऽइव। त्वत्। र॒यिः त्वत्। वाजाः॑। उत्। ई॒र॒ते॒। १२।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- वा᳓हिष्ठम् (*TS*-1, *RV*-1/6, *VS-M*-1)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- अग्न᳓ये (*MS*-135/1297, *TS*-128/1194, *RV*-47/856, *TB*-46/520, *TK*-34/105, *AV*-16/419, *SB-M*-137/2495, *SB-K*-138/2289, *VS-M*-44/325, *VS-K*-35/349)
+- बृह᳓त् (*MS*-33/39, *TS*-57/69, *RV*-151/156, *TB*-32/33, *AV*-43, *SB-M*-31/36, *SB-K*-30/35, *VS-M*-27/28, *VS-K*-25/32)
+- अर्च᳓ (*MS*-3, *TS*-3, *RV*-6, *TB*-5, *TK*-2, *AV*-8, *SB-M*-1/11, *SB-K*-2/5, *VS-M*-1, *VS-K*-2)
+- विभा-वसो᳓ (*SB-M*-1, *SB-K*-1)
+- म᳓हिषी (*MS*-0/2, *TS*-1/2, *RV*-1/2, *TB*-1/2, *AV*-3, *SB-M*-9/13, *SB-K*-7/10)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- त्व᳓त् (*MS*-3/382, *TS*-6/313, *RV*-46/1488, *TB*-13/152, *TK*-1/39, *AV*-24/628, *SB-M*-32/387, *SB-K*-58/387, *VS-M*-8/216, *VS-K*-8/180)
+- रयिः᳓ (*MS*-7/71, *TS*-7/63, *RV*-28/269, *TB*-4/20, *TK*-0/4, *AV*-3/65, *SB-M*-6/22, *SB-K*-6/20, *VS-M*-3/36, *VS-K*-2/37)
+- त्व᳓त् (*MS*-3/382, *TS*-6/313, *RV*-46/1488, *TB*-13/152, *TK*-1/39, *AV*-24/628, *SB-M*-32/387, *SB-K*-58/387, *VS-M*-8/216, *VS-K*-8/180)
+- वा᳓जाः (*MS*-3/115, *TS*-9/92, *RV*-13/350, *TB*-0/35, *TK*-0/1, *AV*-2/49, *SB-M*-9/73, *SB-K*-8/71, *VS-M*-3/71, *VS-K*-2/73)
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- ईरते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-5, *RV*-22, *TB*-1, *AV*-6, *SB-M*-6, *SB-K*-5, *VS-M*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -262,6 +287,11 @@ _________
 रयिः त्वदुदीर्ते इति वा॥ १२॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[597_5]** So corr. Ch त्वदद्रियस्त्वद्वाजा; vgl. RV 5, 6, 4. (Thus emended; Ch reads त्वदद्रियस्त्वद्वाजा; cf. RV 5, 6, 4)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 फिर वह रानी क्या करे, इस विषय को अगले मन्त्र में कहा है ॥
@@ -339,6 +369,12 @@ From thee strength riseth forth.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 Agni's is the most fetching song. Shine mightily, thou rich in light! Like the Chief Consort of a King, riches and strength proceed from thee.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is best bearing, sing that high [praise] for Agni, O radiant one;  
+like a chief queen, from you rises wealth, from you prizes.
 </details>
 
 <details><summary>Geldner</summary>

@@ -172,6 +172,11 @@ _________
 **स** **हि** स खल्वग्निः **विश्वा** विश्वानि सर्वाणि **पार्थिवा** पृथिव्यां भवानि भूतजातानि **महित्वना** महत्त्वेन स्वमहिम्नातिक्रामन् **रयिं** धनं **दाशत्** अस्मभ्यं ददातु । यद्वा । विश्वं सर्वं पार्थिवं पृथिव्यां विद्यमानं रयिं धनम् **अति** अतिशयेन दाशत् ददातु। कीदृशोऽग्निः । महित्वना महत्त्वेन तेजसा **वन्वन्** काष्ठानि शत्रून् वा हिंसन् **अवातः** अन्यैः शत्रुभिरप्रतिगतः **अस्तृतः** केनाप्यहिंसितः ॥ ॥ २४ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[314_3]** So corr. Ch **दाशर्म**°; cf. RV 6, 16,20. ** ** (Thus emended; Ch reads दाशर्म°; cf. RV 6, 16,20.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -195,6 +200,12 @@ The root √dāś ‘piously serve’ almost never takes an acc. object of the s
 
 For he gave riches that surpass in greatness all the things of earth,  
      Fighting untroubled, unsubdued.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For he, prevailing, unvanquished, unstruck,  
+shall bestow wealth by his greatness beyond all earthly things.
 </details>
 
 <details><summary>Geldner</summary>

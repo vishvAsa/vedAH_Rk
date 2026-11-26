@@ -175,6 +175,13 @@ _________
 तिस्रो गायत्र्यः ॥ अयमग्निः होता देवानां आह्वाता अध्वरे निमित्ते यज्ञसिद्धये वाजी अन्नवान् हविर्लक्षणस्यान्नस्य होता सन् शोभनः परिणीयते परितो नीयते । देवः दानादियुक्तः देवेषु मध्ये यज्ञियः यज्ञसम्पादनार्हः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[242_1]** Dies Kap. collat. auch mit T1, T3, Lund Brl fol. 41. 42; nach diesen Mss. accentuirt. (This chap. is also collated with T1, T3, L, and Brl fol. 41, 42; accented according to these mss.)
+
+- **[579_4]** Vgl. RV 4, 15, 1 flg.; MS 4, 13, 4; TBr. 3, 6, 4, 1. (Cf. RV 4, 15, 1 ff.; MS 4, 13, 4; TBr. 3, 6, 4, 1.)
+</details>
+
 <details><summary>मानसतरङ्गिणीकृत्</summary>
 
 agni, the hotar, being the booty bearing horse, is led around in our sacrifice; a deva to be worshipped amongst the devas.
@@ -208,6 +215,12 @@ The usual concessive force of the nom. of the pres. part. to √as ‘be’ is a
 
 AGNI the Herald, like a horse, is led forth at our solemn rite,  
      God among Gods adorable.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Agni, the Hotṛ at our rite, being a prize-winner, is led around,  
+a god worthy of sacrifice among the gods.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -104,6 +104,18 @@ savitúḥ ← savitár- (nominal stem)
 वि होत्रा॑ दधे वयुना॒विदेक॒ इत् [1] म॒ही दे॒वस्य॑ सवि॒तुᳶ परि॑ष्टुतिः ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+युञ्ज᳓ते म᳓न उत᳓ युञ्जते धि᳓यो वि᳓प्रा वि᳓प्रस्य बृहतो᳓ विपश्चि᳓तः  
+वि᳓ हो᳓त्रा दधे वयुनावि᳓द् ए᳓का इ᳓न् मही᳓ देव᳓स्य सवितुः᳓ प᳓रिष्टुतिः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+युञ्ज᳓ते म᳓न उत᳓ युञ्जते धि᳓यो वि᳓प्रा वि᳓प्रस्य बृहतो᳓ विपश्चि᳓तः।  
+वि᳓ हो᳓त्रा दधे वयुनावि᳓दे᳓क इ᳓न्मही देव᳓स्य सवितुः᳓ प᳓रिष्टुतिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यु॒ञ्जते॑ । मनः॑ । उ॒त । यु॒ञ्ज॒ते॒ । धियः॑ । विप्राः॑ । विप्र॑स्य । बृ॒ह॒तः । वि॒पः॒ऽचितः॑ ।  
@@ -128,6 +140,52 @@ savitúḥ ← savitár- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 यु॒ञ्जते॑ । मनः॑ । उ॒त । यु॒ञ्ज॒ते॒ । धियः॑ । विप्राः॑ । विप्र॑स्य । बृ॒ह॒तः । वि॒प॒श्चितः॑ ॥ वीति॑ । होत्राः॑ । द॒धे॒ । व॒यु॒ना॒विदिति॑ वयुन-वित् । एकः॑ । इत् । म॒ही । दे॒वस्य॑ । स॒वि॒तुः । परि॑ष्टुति॒रिति॒ परि॑-स्तु॒तिः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- युञ्ज᳓ते (*TS*-3, *RV*-5, *SB-M*-3, *SB-K*-4, *VS-M*-3, *VS-K*-3, *KS*-1)
+- म᳓नः (*TS*-65/141, *RV*-90/238, *TB*-23/72, *TK*-11/17, *AV*-75/161, *SB-M*-198/343, *SB-K*-191/312, *VS-M*-41/86, *VS-K*-33/78, *KS*-28/50)
+- उत᳓ (*TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72, *KS*-55)
+- युञ्जते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-5, *TB*-1, *SB-M*-4, *SB-K*-5, *VS-M*-1, *VS-K*-1, *KS*-1)
+- धि᳓यः (*TS*-6/11, *RV*-68/113, *TB*-3/8, *AV*-5/10, *SB-M*-9/11, *SB-K*-7/9, *VS-M*-15/19, *VS-K*-14/17, *KS*-2)
+- वि᳓प्रा (*TS*-2/24, *RV*-5/223, *TB*-1/8, *AV*-1/32, *SB-M*-4/17, *SB-K*-4/15, *VS-M*-7/18, *VS-K*-1/20, *KS*-5/14)
+- वि᳓प्रस्य (*TS*-3/22, *RV*-23/218, *TB*-0/8, *AV*-2/31, *SB-M*-3/13, *SB-K*-3/11, *VS-M*-3/18, *VS-K*-3/19, *KS*-1/9)
+- बृहतः᳓ (*TS*-7/10, *RV*-50/67, *TB*-6/8, *AV*-6/16, *SB-M*-4/7, *SB-K*-4/7, *VS-M*-7/11, *VS-K*-7/10, *KS*-4/7)
+- विपश्-चि᳓तः (*TS*-2/3, *RV*-12/24, *TB*-0/1, *TK*-0/1, *AV*-4/15, *SB-M*-4/7, *SB-K*-3/4, *VS-M*-4/5, *VS-K*-4/5, *KS*-1/3)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127, *KS*-135)
+- हो᳓त्रा (*TS*-2/63, *RV*-8/244, *TB*-1/136, *TK*-1/8, *AV*-4/28, *SB-M*-6/211, *SB-K*-5/211, *VS-M*-7/73, *VS-K*-3/60, *KS*-2/37)
+- दधे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-9, *RV*-41, *TK*-30, *AV*-16, *SB-M*-11, *SB-K*-10, *VS-M*-14, *VS-K*-11, *KS*-16)
+- वयुनावि᳓त् (*SB-M*-3, *SB-K*-2, *VS-M*-3, *VS-K*-3, *KS*-1)
+- ए᳓काः (*TS*-0/127, *RV*-0/218, *TB*-0/51, *TK*-0/3, *AV*-2/123, *SB-M*-18/615, *SB-K*-19/586, *VS-M*-0/32, *VS-K*-0/27, *KS*-0/24)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50, *KS*-42)
+- मही᳓ (*TS*-10/24, *RV*-64/131, *TB*-2/8, *TK*-1, *AV*-28/47, *SB-M*-6/19, *SB-K*-6/19, *VS-M*-9/26, *VS-K*-9/27, *KS*-3/10)
+- देव᳓स्य (*TS*-39/1023, *RV*-61/1342, *TB*-15/582, *TK*-0/32, *AV*-42/707, *SB-M*-50/2031, *SB-K*-47/1945, *VS-M*-52/528, *VS-K*-45/523, *KS*-22/317)
+- सवितुः᳓ (*TS*-37/120, *RV*-33/157, *TB*-18/71, *TK*-0/3, *AV*-7/96, *SB-M*-43/225, *SB-K*-43/198, *VS-M*-53/119, *VS-K*-46/109, *KS*-22/41)
+- प᳓रि-ष्टुतिः (*TS*-1, *SB-M*-4, *SB-K*-2, *VS-M*-3, *VS-K*-3, *KS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- युञ्ज᳓ते (*MS*-5, *TS*-3, *RV*-5, *SB-M*-3, *SB-K*-4, *VS-M*-3, *VS-K*-3)
+- म᳓नः (*MS*-64/147, *TS*-65/141, *RV*-90/238, *TB*-23/72, *TK*-11/17, *AV*-75/161, *SB-M*-198/343, *SB-K*-191/312, *VS-M*-41/86, *VS-K*-33/78)
+- उत᳓ (*MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- युञ्जते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4, *TS*-3, *RV*-5, *TB*-1, *SB-M*-4, *SB-K*-5, *VS-M*-1, *VS-K*-1)
+- धि᳓यः (*MS*-8/20, *TS*-6/11, *RV*-68/113, *TB*-3/8, *AV*-5/10, *SB-M*-9/11, *SB-K*-7/9, *VS-M*-15/19, *VS-K*-14/17)
+- वि᳓प्रा (*MS*-7/26, *TS*-2/24, *RV*-5/223, *TB*-1/8, *AV*-1/32, *SB-M*-4/17, *SB-K*-4/15, *VS-M*-7/18, *VS-K*-1/20)
+- वि᳓प्रस्य (*MS*-3/19, *TS*-3/22, *RV*-23/218, *TB*-0/8, *AV*-2/31, *SB-M*-3/13, *SB-K*-3/11, *VS-M*-3/18, *VS-K*-3/19)
+- बृहतः᳓ (*MS*-9/13, *TS*-7/10, *RV*-50/67, *TB*-6/8, *AV*-6/16, *SB-M*-4/7, *SB-K*-4/7, *VS-M*-7/11, *VS-K*-7/10)
+- विपश्-चि᳓तः (*MS*-2/4, *TS*-2/3, *RV*-12/24, *TB*-0/1, *TK*-0/1, *AV*-4/15, *SB-M*-4/7, *SB-K*-3/4, *VS-M*-4/5, *VS-K*-4/5)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- हो᳓त्रा (*MS*-7/112, *TS*-2/63, *RV*-8/244, *TB*-1/136, *TK*-1/8, *AV*-4/28, *SB-M*-6/211, *SB-K*-5/211, *VS-M*-7/73, *VS-K*-3/60)
+- दधे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-26, *TS*-9, *RV*-41, *TK*-30, *AV*-16, *SB-M*-11, *SB-K*-10, *VS-M*-14, *VS-K*-11)
+- वयुनावि᳓त् (*MS*-2, *SB-M*-3, *SB-K*-2, *VS-M*-3, *VS-K*-3)
+- ए᳓कः (*MS*-42/146, *TS*-37/127, *RV*-114/218, *TB*-11/51, *TK*-0/3, *AV*-46/123, *SB-M*-140/615, *SB-K*-118/586, *VS-M*-15/32, *VS-K*-14/27)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- मही (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1)
+- देव᳓स्य (*MS*-54/1216, *TS*-39/1023, *RV*-61/1342, *TB*-15/582, *TK*-0/32, *AV*-42/707, *SB-M*-50/2031, *SB-K*-47/1945, *VS-M*-52/528, *VS-K*-45/523)
+- सवितुः᳓ (*MS*-46/155, *TS*-37/120, *RV*-33/157, *TB*-18/71, *TK*-0/3, *AV*-7/96, *SB-M*-43/225, *SB-K*-43/198, *VS-M*-53/119, *VS-K*-46/109)
+- प᳓रि-ष्टुतिः (*MS*-2, *TS*-1, *SB-M*-4, *SB-K*-2, *VS-M*-3, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -493,6 +551,11 @@ _________
 यतः सतितुर्देवस्य परिष्टुतिर्मही परितः सर्वेषु वेदेषु श्रूयमाणा स्तुतिर्महती ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[18_5]** Dies Kap. accenturit nach T1, T3, T6 und Brl. (This chap. is accented according to T1, T3, T6, and Brl.)
+</details>
+
 <details><summary>दयानन्द-सरस्वती (सं, मा.) - विषयः</summary>
 
 अथ योगाभ्यासविषयमाह ॥
@@ -588,6 +651,21 @@ Great is the praise of the god Savitr.
 <details><summary>Griffith (माध्यन्दिनम्)</summary>
 
 The priests of him the lofty Priest, etc., as in V. 14.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The inspired seers yoke the mind and yoke the thoughts of the inspired seer, the great, the wise;  
+he alone, the knower of ordinances, ordains the priestly offices; great indeed is the praise of the god Savitṛ.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+They harness the mind, and they harness the thoughts, the inspired singers of the inspired, great, wise one;  
+he alone, knowing the ordinances, arranges the priestly duties; great is the praise of divine Savitṛ.
+
+The inspired poets harness their mind and harness their thoughts of the inspired, great, wise one;  
+he alone who knows the ordinances assigns the priestly functions; great is the praise of god Savitṛ.
 </details>
 
 <details><summary>Geldner</summary>

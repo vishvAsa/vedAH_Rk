@@ -66,10 +66,29 @@ ugráḥ ← ugrá- (nominal stem)
 उ॒ग्र उ॒ग्राभि॑रू॒तिभिः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+इन्द्र वाजेषु नो वह सहस्रप्रधनेषु च।  
+उग्र उग्राभिरूतिभिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 इन्द्रः॑ । वाजे॑षु । नः॒ । अ॒व॒ । स॒हस्र॑ऽप्रधनेषु । च॒ ।  
 उ॒ग्रः । उ॒ग्राभिः॑ । ऊ॒तिऽभिः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- इ᳓न्द्र (*MS*-22/25, *TS*-19/20, *RV*-226/237, *TB*-19/25, *TK*-1, *AV*-95, *SB-M*-9, *SB-K*-8, *VS-M*-19, *VS-K*-28/30)
+- वा᳓जेषु (*MS*-6/115, *TS*-4/92, *RV*-41/350, *TB*-2/35, *TK*-0/1, *AV*-6/49, *SB-M*-1/73, *SB-K*-1/71, *VS-M*-2/71, *VS-K*-2/73)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- व᳓ह (*Whitney*, *MS*-2, *TS*-1/2, *RV*-8/9, *TB*-4/6, *AV*-4/5, *SB-M*-6/8, *SB-K*-3/5, *VS-M*-4, *VS-K*-5)
+- सह᳓स्र-प्रधनेषु (*MS*-1, *RV*-1, *AV*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- उग्रः᳓ (*MS*-23/40, *TS*-14/33, *RV*-50/153, *TB*-9/21, *TK*-1/2, *AV*-38/99, *SB-M*-4/10, *SB-K*-3/9, *VS-M*-8/23, *VS-K*-8/18)
+- उग्रा᳓भिः (*MS*-1/40, *TS*-0/33, *RV*-2/153, *TB*-0/21, *TK*-0/2, *AV*-1/99, *SB-M*-0/10, *SB-K*-0/9, *VS-M*-0/23, *VS-K*-0/18)
+- ऊति᳓भिः (*MS*-10/35, *TS*-4/25, *RV*-100/345, *TB*-3/12, *AV*-12/46, *SB-M*-1/8, *SB-K*-1/6, *VS-M*-7/26, *VS-K*-6/26)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -152,6 +171,13 @@ _________
 7 इन्द्रेति ॥ हे इन्द्र! नः अस्मान् वाजेषु अन्नेषु निमित्तभूतेऽषु अव रक्ष यथा वाजान् लप्स्यामहे अन्नदानेन अस्मान् तर्पय सहस्रप्रधनेषु च अपि सहस्रत्वं धनेषु **वाजेषु** सहस्रं प्रकृष्टानि धनानि येषु तादृशेषु । यद्वा - सहस्रप्रधानेषु, छान्दसं ह्रस्वत्वम् । उग्रः उद्गूर्णः तं उग्राभिरूतिभिः उद्गूर्णाभिः रक्षाभिः तर्पणेन वा । यद्वा - **वाजेषु** ग्रामेषु सहस्रप्रधनेषु सहस्रं प्रधनाः प्रकष्टधनाः पुरुषा येषु तेषु । यद्वा - सहस्रं प्रकृष्टधना रथगजतुरगपदातयो येषु तेष्वस्मानव । उग्रः उद्गूर्णस्त्वं उग्राभिरूतिभिः गतिभिः वेगगमनैः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[594_2]** So Ch; in RV 1, 7, 4; ऽव desgl. MS 2, 13, 6 u. s. w. (Thus Ch; in RV 1, 7, 4; ऽव likewise MS 2, 13, 6 etc.)
+
+- **[594_3]** So corr. Ch उग्रा (Thus emended; Ch reads उग्रा)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -170,6 +196,18 @@ as the mighty one with mighty forms of help.
 
 Help us, O Indra, in the frays, yea, frays, where thousand spoils are gained,  
      With awful aids, O awful One.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Indra, help us in contests and in the battles for thousands,  
+fierce one, with fierce aids.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+O Indra, bear us through the contests and through the thousandfold prizes,  
+formidable one, with formidable aids.
 </details>
 
 <details><summary>Geldner</summary>

@@ -94,6 +94,12 @@ vakṣi ← √vah- (root)
 स ह॒व्या व॑क्ष्यानु॒षक् ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+त्वामग्ने हविष्मन्तो देवं मर्तास ईडते।  
+मन्ये त्वा जातवेदसँ स हव्या वक्ष्यानुषक्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वाम् । अ॒ग्ने॒ । ह॒विष्म॑न्तः । दे॒वम् । मर्ता॑सः । ई॒ळ॒ते॒ ।  
@@ -103,6 +109,23 @@ vakṣi ← √vah- (root)
 <details><summary>पदपाठः - काण्वः</summary>
 
 त्वाम्। अ॒ग्ने॒। ह॒विष्म॑न्तः। दे॒वम्। मसः। ईळते। मन्ये॑। त्वा॒। जा॒तवे॑द॒स॒मति॑। जातवेदसम्। सः। ह॒व्या। वक्ष। आनुषक्। १२।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- त्वा᳓म् (*MS*-33/382, *TS*-36/313, *RV*-179/1488, *TB*-16/152, *TK*-4/39, *AV*-69/628, *SB-M*-21/387, *SB-K*-19/387, *VS-M*-28/216, *VS-K*-27/180)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- हवि᳓ष्मन्तः (*MS*-2, *TS*-3, *RV*-18/20, *TB*-2, *AV*-2/4, *SB-M*-5/6, *SB-K*-5, *VS-M*-1, *VS-K*-1)
+- देव᳓म् (*MS*-56/1216, *TS*-17/1023, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/528, *VS-K*-44/523)
+- म᳓र्तासः (*MS*-0/7, *TS*-0/9, *RV*-20/136, *TB*-0/3, *AV*-2/11, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/4, *VS-K*-0/6)
+- ईडते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-26, *TB*-2, *AV*-1, *SB-M*-3, *SB-K*-1, *VS-K*-1)
+- म᳓न्ये (*MS*-1/2, *TS*-1/2, *RV*-8, *AV*-1/2, *VS-M*-0/1, *VS-K*-1/2)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- जात᳓-वेदसम् (*MS*-7/10, *TS*-10/11, *RV*-25/38, *AV*-6/13, *SB-M*-3, *SB-K*-3, *VS-M*-7/8, *VS-K*-7/8)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- हव्या᳓ (*MS*-25/81, *TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-5/27)
+- वक्षि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-5, *RV*-25, *TB*-1, *AV*-2, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- आनुष᳓क् (*MS*-3, *TS*-2, *RV*-35, *TB*-1, *AV*-3, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -239,6 +262,11 @@ _________
 11त्वामग्ने इत्यनुष्टुप् ॥ ततः परं क्वचिदुपहोमाः । देवं दीप्यमानं हविष्मन्तः मर्तासः मनुष्याः ईडते स्तुवन्ति, तं त्वामहं जातवेदसं जातानां वेदितारं जातधनं वा मन्ये जानामि । स त्वमस्माकं हव्या हवींषि वक्षि । वहेर्लेटि शपो लुक् । आनुषक अनुक्रमेण ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[597_4]** So corr. Ch म हव्या वक्षानुषक; vgl. RV 5, 9, 1. (Thus emended; Ch reads म हव्या वक्षानुषक; cf. RV 5, 9, 1)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -262,6 +290,12 @@ I think you to be Jātavedas: convey our oblations in proper order.
 
 BEARING; oblations mortal men, O Agni, worship thee the God.  
      I deem thee Jatavedas: bear our offerings, thou, unceasingly.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To you, O Agni, mortals possessing oblations pray, the god;  
+I deem you Jātavedas, and you shall carry the offerings continuously.
 </details>
 
 <details><summary>Oldenberg</summary>

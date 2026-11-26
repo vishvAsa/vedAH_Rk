@@ -63,10 +63,48 @@ r̥tvíjam ← r̥tvíj- (nominal stem)
 दधा॑ता दे॒वमृ॒त्विज॑म् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+न्य् अ᳙ग्निं᳓ जात᳓वेदसँ होत्रवा᳓हँ य᳓विष्ठ्यम्  
+द᳓धाता देव᳓म् ऋत्वि᳓जम्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+न्य᳙ग्निं᳓ जात᳓वेदसँ होत्रवा᳓हं य᳓विष्ठ्यम्।  
+द᳓धाता देव᳓मृत्वि᳓जम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 नि । अ॒ग्निम् । जा॒तऽवे॑दसम् । हो॒त्र॒ऽवाहम् । यवि॑ष्ठ्यम् ।  
 दधा॑त । दे॒वम् । ऋ॒त्विज॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- नि᳓ (*TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36, *KS*-78)
+- अग्नि᳓म् (*TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349, *KS*-38/256)
+- जात᳓-वेदसम् (*TS*-10/11, *RV*-25/38, *AV*-6/13, *SB-M*-3, *SB-K*-3, *VS-M*-7/8, *VS-K*-7/8, *KS*-3/4)
+- होत्र-वा᳓हम् (*RV*-1, *KS*-1)
+- य᳓विष्ठ्यम् (*RV*-1, *SB-K*-0/1, *KS*-1)
+- द᳓ध (*TS*-13, *RV*-28/32, *TB*-33, *AV*-4/5, *SB-M*-9, *SB-K*-8/9, *VS-M*-1, *VS-K*-1, *KS*-1/2)
+- आता (*TB*-4, *KS*-1)
+- देव᳓म् (*TS*-17/1023, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/528, *VS-K*-44/523, *KS*-10/317)
+- ऋत्वि᳓जम् (*TS*-1/20, *RV*-11/18, *TB*-1/16, *AV*-0/7, *SB-M*-1/68, *SB-K*-1/67, *KS*-2/9)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- नि᳓ (*MS*-193, *TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36)
+- अग्नि᳓म् (*MS*-307/1297, *TS*-293/1194, *RV*-287/856, *TB*-133/520, *TK*-34/105, *AV*-67/419, *SB-M*-424/2495, *SB-K*-379/2289, *VS-M*-71/325, *VS-K*-66/349)
+- जात᳓-वेदसम् (*MS*-7/10, *TS*-10/11, *RV*-25/38, *AV*-6/13, *SB-M*-3, *SB-K*-3, *VS-M*-7/8, *VS-K*-7/8)
+- होत्र-वा᳓हम् (*MS*-1, *RV*-1)
+- य᳓विष्ठ्यम् (*MS*-1, *RV*-1, *SB-K*-0/1)
+- द᳓ध (*MS*-1/4, *TS*-13, *RV*-28/32, *TB*-33, *AV*-4/5, *SB-M*-9, *SB-K*-8/9, *VS-M*-1, *VS-K*-1)
+- आता (*TB*-4, *MS*-1)
+- देव᳓म् (*MS*-56/1216, *TS*-17/1023, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/528, *VS-K*-44/523)
+- ऋत्वि᳓जम् (*MS*-2/17, *TS*-1/20, *RV*-11/18, *TB*-1/16, *AV*-0/7, *SB-M*-1/68, *SB-K*-1/67)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -140,6 +178,11 @@ _________
 हे यजमानाः **जातवेदसम्** । जातानि भूतानि वेत्तीति जातवेदाः । तं **होत्रवाहं** होत्रस्य यज्ञस्य वोढारं **यविष्ठ्यं** युवतमं **देवं** द्योतमानम् **ऋत्विजम्** ऋतौ यष्टारम् **अग्निं** **नि** **धात** निधत्त ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[22_11]** W1 यविष्ठम्
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -157,6 +200,19 @@ Install Agni Jātavedas, who conveys the oblations, the youngest (Agni), as god 
 
 Set Agni Jatavedas down, the bearer of our sacred gifts,  
      MostYouthful, God and Minister.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Establish Agni Jātavedas, who bears the priestly office, the youngest,  
+the divine priest of the rite.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Upward, O Agni, your bright [flames]...  
+Set down Agni, knower of creatures, conveyer of priestly service, youngest,  
+the divine priest of the rite.
 </details>
 
 <details><summary>Oldenberg</summary>

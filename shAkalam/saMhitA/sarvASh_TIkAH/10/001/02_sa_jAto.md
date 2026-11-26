@@ -110,6 +110,12 @@ prá ← prá (invariable)
 चि॒त्रश्शिशु॒ᳶ परि॒ तमाँ॑स्य॒क्तᳶ प्र मा॒तृभ्यो॒ अधि॒ कनि॑क्रदद्गाः ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+स जातो गर्भो असि रोदस्योरग्ने चारुर्विभृत ओषधीषु।  
+चित्रश्शिशुः परि तमाँस्यक्तः प्र मातृभ्यो अधि कनिक्रदद्गा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सः । जा॒तः । गर्भः॑ । अ॒सि॒ । रोद॑स्योः । अग्ने॑ । चारुः॑ । विऽभृ॑तः । ओष॑धीषु ।  
@@ -129,6 +135,29 @@ prá ← prá (invariable)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 सः । जा॒तः । गर्भः॑ । अ॒सि॒ । रोद॑स्योः । अग्ने॑ । चारुः॑ । विभृ॑त॒ इति॒ वि-भृ॒तः॒ । ओष॑धीषु ॥ चि॒त्रः । शिशुः॑ । परीति॑ । तमाँ॑सि । अ॒क्तः । प्रेति॑ । मा॒तृभ्य॒ इति॑ मा॒तृ-भ्यः॒ । अधीति॑ । कनि॑क्रदत् । गाः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- जातः᳓ (*MS*-26/57, *TS*-24/65, *RV*-53/144, *TB*-5/22, *TK*-0/4, *AV*-30/95, *SB-M*-39/84, *SB-K*-39/82, *VS-M*-22/37, *VS-K*-21/37)
+- ग᳓र्भः (*MS*-22/67, *TS*-29/66, *RV*-29/95, *TB*-6/25, *AV*-24/66, *SB-M*-62/143, *SB-K*-74/135, *VS-M*-16/32, *VS-K*-13/27)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- रो᳓दस्योः (*MS*-3/25, *TS*-3/18, *RV*-20/207, *TB*-0/6, *TK*-0/1, *AV*-0/28, *SB-M*-1/9, *SB-K*-1/9, *VS-M*-2/15, *VS-K*-2/16)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- चा᳓रुः (*MS*-3/9, *TS*-5/9, *RV*-18/70, *TB*-2/6, *AV*-7/16, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-1/3, *VS-K*-1/3)
+- वि᳓-भृतः (*MS*-0/2, *TS*-2/4, *RV*-4/7, *AV*-1, *SB-M*-2/3, *VS-M*-1/3, *VS-K*-1/3)
+- ओ᳓षधीषु (*MS*-25/137, *TS*-16/114, *RV*-19/89, *TB*-8/57, *TK*-0/2, *AV*-9/86, *SB-M*-5/93, *SB-K*-5/98, *VS-M*-5/44, *VS-K*-5/49)
+- चित्रः᳓ (*MS*-5/54, *TS*-3/23, *RV*-18/135, *TB*-0/23, *TK*-3, *AV*-3/17, *SB-M*-3/26, *SB-K*-3/28, *VS-M*-3/15, *VS-K*-3/14)
+- शि᳓शुः (*MS*-0/5, *TS*-2/9, *RV*-12/44, *TB*-0/1, *AV*-0/6, *SB-M*-7/11, *SB-K*-8/12, *VS-M*-3/8, *VS-K*-3/12)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- त᳓मांसि (*MS*-4/52, *TS*-2/33, *RV*-24/113, *TB*-3/13, *AV*-14/52, *SB-M*-4/82, *SB-K*-5/82, *VS-M*-1/22, *VS-K*-1/22)
+- अक्तः᳓ (*MS*-2/5, *TS*-1/6, *RV*-4/9, *TB*-0/2, *TK*-0/1, *AV*-0/2, *SB-M*-2/8, *SB-K*-1/8, *VS-M*-0/4, *VS-K*-0/3)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- मातृ᳓भ्यः (*MS*-2/61, *TS*-2/44, *RV*-2/165, *TB*-0/28, *TK*-0/2, *AV*-0/77, *SB-M*-1/79, *SB-K*-0/72, *VS-M*-1/34, *VS-K*-1/38)
+- अ᳓धि (*MS*-200, *TS*-118, *RV*-310, *TB*-66, *TK*-5, *AV*-242, *SB-M*-217, *SB-K*-203, *VS-M*-57, *VS-K*-55)
+- क᳓निक्रत् (*RV*-1, *SB-K*-1)
+- अ᳓द्गा (*MW*, *Macdonell*)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -396,6 +425,11 @@ _________
 ओषधीनामुक्तरीत्या जठरग्निजनकत्वान्मातृत्वम्।   अतो मात्रर्थमेवैनमग्निं प्रकर्षेण गमयति।   अत एवोत्तरत्रौषधयः प्रतिगृह्णीतेति मन्त्रेणौषधीषु स्थापनं विधास्यति।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[222_3]** Ch तमोसूक्तः
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 अब पिता-पुत्र का व्यवहार अगले मन्त्र में कहा है ॥
@@ -460,6 +494,12 @@ Thou, being born, art Child of Earth and Heaven, parted among the plants in beau
 
 Born, thou art the child of the two worlds,  
 O Agni; a brilliant child distributed among the plants; A beauteous babe beyond the darkness outspread, Thou didst come thundering from thy mothers.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Born as a child of the two worlds, o Agni, lovely, distributed among the plants,  
+a brilliant infant anointed through the darknesses, roaring, you have gone forth from the mothers.
 </details>
 
 <details><summary>Geldner</summary>

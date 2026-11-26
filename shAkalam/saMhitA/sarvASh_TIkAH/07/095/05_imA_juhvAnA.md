@@ -275,6 +275,12 @@ These offerings have ye made with adoration: say this, Sarasvati, and accept our
      And, placing us under thy dear protection, may we approach thee, as a tree, for shelter.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+These [oblations] offering toward you with acts of homage, O Sarasvatī, enjoy the hymn of praise!  
+Placing [ourselves] in your most beloved shelter, may we approach you like a tree for refuge!
+</details>
+
 <details><summary>Geldner</summary>
 
 Diese Opfergaben mit Verbeugungen vor euch darbringend-nimm, o Sarasvati, das Loblied gern entgegen-in deinen geliebtesten Schutz uns stellend wollen wir wie unter einen schützenden Baum treten.

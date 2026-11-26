@@ -384,6 +384,12 @@ Send to our eulogy a herd of cattle bestow upon us excellent possessions.
      Bear to the Gods the sacrifice we offer the streams of oil flow pure and full of sweetness.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Flow toward the praise-song, toward the contest for cattle; bestow auspicious riches upon us;  
+lead this sacrifice of ours to the gods; the streams of ghee flow sweet with honey.
+</details>
+
 <details><summary>Geldner</summary>
 
 Strömt ein gutes Lobgedicht aus, machet ein Wettrennen um die Kühe! Bringet uns gesegneten Besitz, führt dies Opfer von uns zu den Göttern! Die Ströme des Ghrita klären sich zur Süßigkeit.

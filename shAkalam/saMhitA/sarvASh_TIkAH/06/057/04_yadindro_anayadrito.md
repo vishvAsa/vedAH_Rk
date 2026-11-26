@@ -72,10 +72,31 @@ tátra ← tátra (invariable)
 तत्र॑ पू॒षाभ॑व॒त्सचा॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+य᳓दि᳓न्द्रो अ᳓नयद्रि᳓तो म᳓हीरपो᳓ वृ᳓षन्तमः।  
+त᳓त्र पूषा᳓भवत्स᳓चा
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 यत् । इन्द्रः॑ । अन॑यत् । रितः॑ । म॒हीः । अ॒पः । वृष॑न्ऽतमः ।  
 तत्र॑ । पू॒षा । अ॒भ॒व॒त् । सचा॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓त् (*MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- इ᳓न्द्रः (*MS*-305/711, *TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/392, *VS-K*-98/380)
+- अ᳓नयत् (*MS*-1, *RV*-4, *TB*-1)
+- रि᳓तः (*RV*-1, *TB*-0/6, *AV*-0/1, *SB-M*-0/9, *SB-K*-0/6, *MS*-1)
+- म᳓हीः (*SB-K*-0/2)
+- अपः᳓ (*MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- वृ᳓षन्तमः (*RV*-2/5)
+- त᳓त्र (*MS*-20, *TS*-14, *RV*-22, *TB*-30, *TK*-1, *AV*-62, *SB-M*-211, *SB-K*-207, *VS-M*-7, *VS-K*-7)
+- पूषा᳓ (*MS*-79/130, *TS*-36/70, *RV*-53/86, *TB*-21/35, *TK*-1, *AV*-19/24, *SB-M*-45/84, *SB-K*-46/85, *VS-M*-15/51, *VS-K*-15/47)
+- अभवत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-98, *TS*-81, *RV*-43, *TB*-87, *TK*-17, *AV*-50, *SB-M*-188, *SB-K*-196, *VS-M*-11, *VS-K*-9)
+- स᳓चा (*MS*-7/9, *RV*-85, *TB*-4, *AV*-15, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-8, *VS-K*-13)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -184,6 +205,12 @@ The root noun rít- to √ri ‘flow’ is a hapax.
 
 When Indra, wondrous strong, brought down the streams, the mighty waterfloods,  
      Pusan was standing by his side.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When Indra, the most vigorous bull, guided the flowing, great waters,  
+there Pūṣan was together with him.
 </details>
 
 <details><summary>Geldner</summary>

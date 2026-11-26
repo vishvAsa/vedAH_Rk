@@ -98,6 +98,18 @@ sabhā́vān ← sabhā́vant- (nominal stem)
 इडा॑वाँ ए॒षो अ॑सुर प्र॒जावा॑न्दी॒र्घो र॒यिᳶ पृ॑थुबु॒ध्नस्स॒भावा॑न् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+गो᳓मं अग्ने᳓ ऽविमं अश्वी᳓ यज्ञो᳓ नृव᳓त्सखा स᳓दम् इ᳓द् अप्रमृष्यः᳓  
+इ᳓डावान् एषो᳓ असुर प्रजा᳓वान् दीर्घो᳓ रयिः᳓ पृथुबुध्नः᳓ सभा᳓वान्
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+गोमाँ अग्नेऽविमाँ अश्वी यज्ञो नृवत्सखा सदमिदप्रमृष्यः।  
+इडावाँ एषो असुर प्रजावान्दीर्घो रयिः पृथुभुध्नस्सभावान्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 गोऽमा॑न् । अ॒ग्ने॒ । अवि॑ऽमान् । अ॒श्वी । य॒ज्ञः । नृ॒वत्ऽस॑खा । सद॑म् । इत् । अ॒प्र॒ऽमृ॒ष्यः ।  
@@ -107,6 +119,47 @@ sabhā́vān ← sabhā́vant- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 गोमा॒निति॒ गो-मा॒न् । अ॒ग्ने॒ । अवि॑मा॒नित्यवि॑-मा॒न् । अ॒श्वी । य॒ज्ञः । नृ॒वत्स॒खेति॑ नृ॒वत्-स॒खा॒ । सद॑म् । इत् । अ॒प्र॒मृ॒ष्य इत्य॑प्र-मृ॒ष्यः ॥ इडा॑वा॒नितीडा॑-वा॒न् । ए॒षः । अ॒सु॒र॒ । प्र॒जावा॒निति॑ प्र॒जा-वा॒न् । दी॒र्घः । र॒यिः । पृ॒थु॒बु॒ध्न इति॑ पृथु-बु॒ध्नः । स॒भावा॒निति॑ स॒भा-वा॒न् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- गो᳓मम् (*TS*-0/3, *RV*-0/3, *AV*-0/1, *VS-M*-1, *VS-K*-1)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- अ᳓विमन् (मूल-पाठः)
+- अश्वी᳓ (*TS*-3/63, *RV*-3/122, *TB*-0/74, *AV*-0/47, *SB-M*-0/119, *SB-K*-0/120, *VS-M*-0/111, *VS-K*-0/100, *KS*-0/32)
+- यज्ञः᳓ (*TS*-194/863, *RV*-48/448, *TB*-108/399, *TK*-12/21, *AV*-66/231, *SB-M*-608/1803, *SB-K*-599/1754, *VS-M*-25/223, *VS-K*-25/179, *KS*-47/171)
+- नृव᳓त्-सखा (*TS*-2, *RV*-1)
+- स᳓दम् (*TS*-2/57, *RV*-32/200, *TB*-4/17, *AV*-6/43, *SB-M*-2/92, *SB-K*-3/66, *VS-M*-5/24, *VS-K*-4/17, *KS*-3/10)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-60, *VS-K*-46, *KS*-42)
+- अप्र-मृष्यः᳓ (*TS*-2, *RV*-1/4)
+- इ᳓डा-वान् (*TS*-2, *RV*-1)
+- एषः᳓ (*TS*-392/1674, *RV*-108/320, *TB*-177/858, *TK*-31/130, *AV*-72/340, *SB-M*-2033/11086, *SB-K*-1981/10669, *VS-M*-71/129, *VS-K*-51/104, *KS*-88/287)
+- असुर (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-3, *RV*-9, *TB*-27, *TK*-1, *AV*-1, *SB-M*-82, *SB-K*-97, *VS-M*-6, *VS-K*-4, *KS*-1)
+- प्रजा᳓-वान् (*TS*-6, *RV*-4, *TB*-1, *AV*-1, *SB-K*-1, *KS*-1)
+- दीर्घः᳓ (*TS*-2/4, *RV*-3/30, *TB*-1, *AV*-1/25, *SB-M*-1/9, *SB-K*-1/6, *VS-M*-0/2, *VS-K*-0/2)
+- रयिः᳓ (*TS*-7/63, *RV*-28/269, *TB*-4/20, *TK*-0/4, *AV*-3/65, *SB-M*-6/22, *SB-K*-6/20, *VS-M*-3/35, *VS-K*-2/32, *KS*-3/27)
+- पृथु-बुध्नः᳓ (*TS*-2, *RV*-1/2)
+- सभा᳓-वान् (*TS*-2, *RV*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- गो᳓-मान् (*MS*-0/2, *TS*-3, *RV*-3, *AV*-1, *VS-M*-0/1, *VS-K*-0/1)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- अ᳓वि-मान् (*TS*-3, *RV*-1, *AV*-0/1, *MS*-0/2)
+- अश्वी᳓ (*MS*-2/130, *TS*-3/63, *RV*-3/122, *TB*-0/74, *AV*-0/47, *SB-M*-0/119, *SB-K*-0/120, *VS-M*-0/111, *VS-K*-0/103)
+- यज्ञः᳓ (*MS*-290/933, *TS*-194/863, *RV*-48/448, *TB*-108/399, *TK*-12/21, *AV*-66/231, *SB-M*-608/1803, *SB-K*-599/1754, *VS-M*-25/223, *VS-K*-25/187)
+- नृव᳓त्-सखा (*MS*-1, *TS*-2, *RV*-1)
+- स᳓दम् (*MW* ŚBr., *MS*-11/57, *TS*-2/57, *RV*-32/200, *TB*-4/17, *AV*-6/43, *SB-M*-2/92, *SB-K*-3/66, *VS-M*-5/24, *VS-K*-4/18)
+- इ᳓त् (*MS*-88, *TS*-1, *RV*-809, *TB*-30, *TK*-5, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50)
+- अप्र-मृष्यः᳓ (*MS*-1, *TS*-2, *RV*-1/4)
+- इ᳓डा-वान् (*MS*-2, *TS*-2, *RV*-1)
+- एषः᳓ (*MS*-571/2587, *TS*-392/1673, *RV*-108/320, *TB*-177/858, *TK*-31/130, *AV*-72/340, *SB-M*-2033/11086, *SB-K*-1981/10669, *VS-M*-71/129, *VS-K*-51/104)
+- असुर (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-4, *TS*-3, *RV*-9, *TB*-27, *TK*-1, *AV*-1, *SB-M*-82, *SB-K*-97, *VS-M*-6, *VS-K*-4)
+- प्रजा᳓-वान् (*MS*-2, *TS*-6, *RV*-4, *TB*-1, *AV*-1, *SB-K*-1)
+- दीर्घः᳓ (*MS*-3/5, *TS*-2/4, *RV*-3/30, *TB*-1, *AV*-1/25, *SB-M*-1/9, *SB-K*-1/6, *VS-M*-0/2, *VS-K*-0/2)
+- रयिः᳓ (*MS*-7/71, *TS*-7/63, *RV*-28/269, *TB*-4/20, *TK*-0/4, *AV*-3/65, *SB-M*-6/22, *SB-K*-6/20, *VS-M*-3/36, *VS-K*-2/37)
+- पृ᳓थुभुध्नस्सभावान् (अनाम्नातम् (अनुमानम्))
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -275,6 +328,18 @@ Rich in cattle, in sheep, O Agni, in horses is the sacrifice;
 With manly companions, ever unalterable;  
 Rich in food is this, O Asura, in offspring,  
 Enduring, wealth, deep based and rich in houses.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Possessing cattle, O Agni, possessing sheep, possessing horses is the sacrifice, with companions of men, never to be neglected;  
+rich in refreshing drink is this, O Asura, rich in offspring, long-lasting wealth, broad-based, fit for the assembly.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Possessing cows, O Agni, possessing sheep, possessing horses is the sacrifice, accompanied by men, an unforgettable companion;  
+rich in refreshing drink is it, O Asura, rich in offspring, long-lasting wealth, broad-bottomed, full of council-gatherings!
 </details>
 
 <details><summary>Oldenberg</summary>

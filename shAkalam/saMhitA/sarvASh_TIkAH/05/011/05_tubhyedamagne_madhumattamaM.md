@@ -107,10 +107,42 @@ vardháyanti ← √vr̥dh- (root)
 त्वां गिरः॒ सिन्धु॑मिवा॒वनी॑र्म॒हीरा पृ॑णन्ति॒ शव॑सा व॒र्धय॑न्ति च ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+तु᳓भ्येद᳓म् अग्ने म᳓धुमत्तमँ व᳓चस् तु᳓भ्यं मनीषा᳓ इय᳓म् अस्तु शँ᳓ हृदे᳓  
+त्वां᳓ गि᳓रः सि᳓न्धुम् इवाव᳓नीर् मही᳓र् आ᳓पृणन्ति श᳓वसा वर्ध᳓यन्ति च
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 तुभ्य॑ । इ॒दम् । अ॒ग्ने॒ । मधु॑मत्ऽतमम् । वचः॑ । तुभ्य॑म् । म॒नी॒षा । इ॒यम् । अ॒स्तु॒ । शम् । हृ॒दे ।  
 त्वाम् । गिरः॑ । सिन्धु॑म्ऽइव । अ॒वनीः॑ । म॒हीः । आ । पृ॒ण॒न्ति॒ । शव॑सा । व॒र्धय॑न्ति । च॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- तु᳓भ्य (*TS*-12, *RV*-13, *TB*-10, *TK*-2, *AV*-2, *SB-M*-17, *SB-K*-16, *VS-M*-1, *VS-K*-9, *KS*-7)
+- इद᳓म् (*TS*-139/965, *RV*-178/1247, *TB*-104/567, *TK*-34/57, *AV*-257/1259, *SB-M*-1046/5239, *SB-K*-982/5549, *VS-M*-65/313, *VS-K*-61/289, *KS*-72/319)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- म᳓धुमत्तमम् (*TS*-0/1, *RV*-12/26, *TB*-2, *AV*-2/6, *VS-M*-0/1, *VS-K*-0/2, *KS*-0/1)
+- व᳓चः (*TS*-5/14, *RV*-51/100, *TB*-11/12, *TK*-2, *AV*-15/39, *SB-M*-12/18, *SB-K*-11/18, *VS-M*-9/13, *VS-K*-3/8, *KS*-8/15)
+- तु᳓भ्यम् (*TS*-11/313, *RV*-93/1488, *TB*-10/152, *TK*-2/39, *AV*-37/628, *SB-M*-17/387, *SB-K*-16/387, *VS-M*-9/215, *VS-K*-9/167, *KS*-7/165)
+- मनीषाः᳓ (*TS*-0/5, *RV*-12/65, *TB*-0/2, *AV*-1/8, *VS-M*-0/6, *VS-K*-0/5, *KS*-1/5)
+- इय᳓म् (*TS*-104/965, *RV*-74/1247, *TB*-50/567, *TK*-2/57, *AV*-68/1259, *SB-M*-381/5239, *SB-K*-326/5549, *VS-M*-10/313, *VS-K*-9/289, *KS*-30/319)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-58, *VS-K*-36, *KS*-52)
+- श᳓म् (*TS*-33, *RV*-159, *TB*-19, *TK*-1, *AV*-185, *SB-M*-27, *SB-K*-29, *VS-M*-39, *VS-K*-21, *KS*-13)
+- हृदे᳓ (*TS*-2/16, *RV*-13/65, *TB*-0/5, *AV*-5/40, *SB-M*-3/9, *SB-K*-3/11, *VS-M*-2/10, *VS-K*-1/6, *KS*-0/5)
+- त्वा᳓म् (*TS*-36/313, *RV*-179/1488, *TB*-16/152, *TK*-4/39, *AV*-69/628, *SB-M*-21/387, *SB-K*-19/387, *VS-M*-27/215, *VS-K*-26/167, *KS*-14/165)
+- गि᳓रः (*TS*-10, *RV*-151/158, *TB*-11, *AV*-22, *SB-M*-7, *SB-K*-6, *VS-M*-11, *VS-K*-12, *KS*-13)
+- सि᳓न्धुम् (*TS*-0/11, *RV*-24/186, *TB*-0/7, *AV*-4/30, *SB-M*-0/7, *SB-K*-0/7, *VS-M*-0/8, *VS-K*-0/6, *KS*-0/6)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- अव᳓नीः (*TS*-0/2, *RV*-7/15, *AV*-1/2, *VS-K*-0/1, *KS*-1)
+- महीः᳓ (*TS*-2/24, *RV*-29/131, *TB*-3/8, *TK*-0/1, *AV*-10/47, *SB-M*-2/19, *SB-K*-2/19, *VS-M*-4/26, *VS-K*-3/27, *KS*-3/10)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- पृणन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-5, *AV*-1, *KS*-1)
+- श᳓वसा (*TS*-7/11, *RV*-80/161, *TB*-4/5, *AV*-16/39, *SB-M*-2/7, *SB-K*-2/6, *VS-M*-6/9, *VS-K*-6/8, *KS*-6/7)
+- वर्ध᳓यन्ति (*RV*-10/16, *TB*-1, *TK*-0/1, *AV*-2/6, *SB-M*-1, *SB-K*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -282,6 +314,12 @@ You do the songs fill with vast power, like great streams the river [=the  Sindh
 
 For thee, O Agni, is this sweetest prayer of mine: dear to thy spirit be this product of my thought.  
      As great streams fill the river so our song of praise fill thee, and make thee yet more mighty in thy strength.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+To you, O Agni, let this most honeyed word, to you let this thought be peace to the heart;  
+the songs of praise, like mighty rivers a stream, fill you and strengthen you with power.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -72,10 +72,31 @@ vásvaḥ ← vásu- (nominal stem)
 वस्वः॑ कु॒विद्व॒नाति॑ नः ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+न᳓वं नु᳓ स्तो᳓ममग्न᳓ये दिव᳓श्श्येना᳓य जीजनम्।  
+व᳓स्वः कुवि᳓द्वना᳓ति नः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 नव॑म् । नु । स्तोम॑म् । अ॒ग्नये॑ । दि॒वः । श्ये॒नाय॑ । जी॒ज॒न॒म् ।  
 वस्वः॑ । कु॒वित् । व॒नाति॑ । नः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- न᳓वम् (*MS*-3/6, *TS*-2, *RV*-11/31, *TB*-8/19, *AV*-5/11, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/2, *VS-K*-1/2)
+- नु᳓ (*MS*-46, *TS*-21, *RV*-338, *TB*-16, *TK*-12, *AV*-66, *SB-M*-273, *SB-K*-226, *VS-M*-21, *VS-K*-17)
+- स्तो᳓मम् (*MS*-19/89, *TS*-21/122, *RV*-76/206, *TB*-7/37, *AV*-13/44, *SB-M*-15/166, *SB-K*-14/166, *VS-M*-9/45, *VS-K*-7/51)
+- अग्न᳓ये (*MS*-135/1297, *TS*-128/1194, *RV*-47/856, *TB*-46/520, *TK*-34/105, *AV*-16/419, *SB-M*-137/2495, *SB-K*-138/2289, *VS-M*-44/325, *VS-K*-35/349)
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- श्येना᳓य (*MS*-3/18, *TS*-3/19, *RV*-2/53, *TB*-1/6, *TK*-0/1, *AV*-0/12, *SB-M*-2/16, *SB-K*-2/19, *VS-M*-2/9, *VS-K*-2/8)
+- जीजनम् (*RV*-1, *TB*-1)
+- व᳓स्वः (*MS*-2, *TS*-1, *RV*-43, *TB*-2, *AV*-6, *VS-M*-1, *VS-K*-2)
+- कुवि᳓त् (*MS*-8, *TS*-4, *RV*-50, *TB*-3, *AV*-4, *SB-M*-6, *SB-K*-5, *VS-M*-3, *VS-K*-3)
+- वना᳓ति (*RV*-1, *TB*-1)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -162,6 +183,13 @@ _________
 **दिवः** द्युलोकस्य **श्येनाय** श्येनसदृशाय **नु** क्षिप्रं गन्त्रे **अग्नये** यस्मै **नवं** नूतनं **स्तोमं** **जीजनं** जनयामि सोऽग्निः **नः** अस्मभ्यं **कुवित्** बहु **वस्वः** वसु धनम् । कर्मणि षष्ठी । **वनाति** । ददात्वित्यर्थः ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[613_1]** In den Mss. श्येनाय ohne Accent; vgl. RV 7, 15, 4. (In the mss.. श्येनाय without accent; cf. RV 7, 15, 4.)
+
+- **[613_2]** Brl जोजनः ; vgl. RV 7, 15, 4. (Brl जोजनः; cf. RV 7, 15, 4.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -179,6 +207,12 @@ Now I give birth to a new praise song for Agni, the falcon of heaven. Will he no
 
 I have begotten this new hymn for Agni, Falcon of the sky:  
      Will he not give us of his wealth?
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Now have I generated a new hymn of praise for Agni, the falcon of heaven;  
+will he not win us goods?
 </details>
 
 <details><summary>Geldner</summary>

@@ -101,6 +101,12 @@ kṣatrā́ṇi ← kṣatrá- (nominal stem)
 स्वश्वा॑स्त्वा सु॒रथा॑ मर्जयेमा॒स्मे क्ष॒त्राणि॑ धारये॒रनु॒ द्यून् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓र्चामि ते सुमतिं᳓ घो᳓ष्यर्वा᳓क् सं᳓ ते वावा᳓ता जरतामियं᳓ गीः᳓।  
+स्व᳓श्वास्त्वा सुर᳓था मार्जयेमास्मे᳓ क्षत्रा᳓णि धारयेर᳓नु द्यू᳓न्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अर्चा॑मि । ते॒ । सु॒ऽम॒तिम् । घोषि॑ । अ॒र्वाक् । सम् । ते॒ । व॒वाता॑ । ज॒र॒ता॒म् । इ॒यम् । गीः ।  
@@ -111,6 +117,30 @@ kṣatrā́ṇi ← kṣatrá- (nominal stem)
 
 अर्चा॑मि । ते॒ । सु॒म॒तिमिति॑ सु-म॒तिम् । घोषि॑ । अ॒र्वाक् । समिति॑ । ते॒ । वा॒वाता॑ । ज॒र॒ता॒म् । [30]   इ॒यम् । गीः ॥   
 स्वश्वा॒ इति॑ सु-अश्वाः॑ । त्वा॒ । सु॒रथा॒ इति॑ सु-रथाः॑ । म॒र्ज॒ये॒म॒ । अ॒स्मे इति॑ । क्ष॒त्राणि॑ । धा॒र॒येः॒ । अन्विति॑ । द्यून् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓र्चामि (*MS*-2, *TS*-2, *RV*-3, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- सु-मति᳓म् (*MS*-7/23, *TS*-6/23, *RV*-43/102, *TB*-4/8, *TK*-0/1, *AV*-12/35, *SB-M*-1/6, *SB-K*-1/4, *VS-M*-2/14, *VS-K*-2/15)
+- घो᳓षि (*MS*-1/5, *TS*-1/5, *RV*-2/18, *AV*-0/9, *SB-M*-0/5, *SB-K*-0/6, *VS-M*-0/2, *VS-K*-0/1)
+- अर्वा᳓क् (*MS*-12, *TS*-6, *RV*-44, *TB*-2, *TK*-1, *AV*-10, *SB-M*-21, *SB-K*-21, *VS-M*-2, *VS-K*-2/3)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- वावा᳓ता (*MS*-1, *TS*-1, *TB*-2, *SB-K*-2/3)
+- जरताम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-1)
+- इय᳓म् (*MS*-138/1379, *TS*-104/965, *RV*-74/1247, *TB*-50/567, *TK*-2/57, *AV*-68/1259, *SB-M*-381/5239, *SB-K*-326/5549, *VS-M*-10/319, *VS-K*-9/301)
+- गीः᳓ (*MS*-4/5, *TS*-2/4, *RV*-25/28, *AV*-1/2, *SB-M*-2, *SB-K*-2, *VS-M*-2/3, *VS-K*-1/4)
+- स्व᳓श्वाः (*MS*-2, *TB*-1, *SB-M*-2, *SB-K*-1/2, *VS-K*-0/1)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- सु-र᳓था (*MS*-1, *TS*-1, *RV*-3)
+- मार्जयेम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- अस्मे᳓ (*MS*-42/641, *TS*-31/565, *RV*-211/1308, *TB*-17/270, *TK*-0/66, *AV*-14/1252, *SB-M*-19/723, *SB-K*-17/728, *VS-M*-28/315, *VS-K*-31/274)
+- क्षत्रा᳓णि (*MS*-1/122, *TS*-1/74, *RV*-2/43, *TB*-3/47, *TK*-0/1, *AV*-1/33, *SB-M*-4/251, *SB-K*-4/306, *VS-M*-0/45, *VS-K*-0/56)
+- धारयेः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-1)
+- अ᳓नु (*MS*-350, *TS*-471, *RV*-475, *TB*-221, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-716, *VS-M*-115, *VS-K*-116)
+- द्यू᳓न् (*MS*-7/8, *TS*-4/6, *RV*-26/51, *TB*-1/3, *AV*-1/4, *SB-M*-0/3, *SB-K*-0/2, *VS-M*-1/6, *VS-K*-1/6)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -313,6 +343,12 @@ I praise thy loving kindness; loud sounding (thou singest) a reply;
 Let this song of mine, beloved of thee, sing with thee [3]  
 With good steeds and fair chariots may we adorn thee;  
 Maintain for us the lordly power as the days go by.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+I sing your goodwill; let this voice resound hither; let this song refresh you as a beloved.  
+Having good horses, having good chariots, may we groom you; maintain lordships in us day after day.
 </details>
 
 <details><summary>Geldner</summary>

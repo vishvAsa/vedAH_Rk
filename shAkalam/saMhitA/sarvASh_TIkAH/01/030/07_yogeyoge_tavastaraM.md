@@ -66,6 +66,12 @@ sákhāyaḥ ← sákhi- (nominal stem)
 सखा॑य॒ इन्द्र॑मू॒तये॑ ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+यो᳓गेयोगे तव᳓स्तरँ वा᳓जेवाजे हवामहे  
+स᳓खाया इ᳓न्द्रम् ऊत᳓ये
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 योगे॑ऽयोगे । त॒वःऽत॑रम् । वाजे॑ऽवाजे । ह॒वा॒म॒हे॒ ।  
@@ -75,6 +81,17 @@ sákhāyaḥ ← sákhi- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 योगे॑योग॒ इति॒ योगे॑-यो॒गे॒ । त॒वस्त॑र॒मिति॑ त॒वः-त॒र॒म् । वाजे॑वाज॒ इति॒ वाजे॑-वा॒जे॒ । ह॒वा॒म॒हे॒ ॥ सखा॑यः । इन्द्र॑म् । ऊ॒तये॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- यो᳓गे-योगे (*TS*-3, *RV*-1, *AV*-2, *SB-M*-1, *VS-M*-1, *VS-K*-1)
+- तव᳓स्तरम् (*TS*-2, *RV*-1, *AV*-2, *SB-M*-2, *VS-M*-1, *VS-K*-1)
+- वा᳓जे-वाजे (*TS*-6, *RV*-4, *AV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- हवामहे (*TS*-10, *RV*-93, *TB*-9, *AV*-32, *SB-M*-9, *SB-K*-5, *VS-M*-14, *VS-K*-11, *KS*-7)
+- स᳓खायाः (*TS*-0/9, *RV*-0/81, *TB*-0/3, *AV*-0/22, *SB-M*-0/2, *SB-K*-0/1, *VS-M*-0/6, *VS-K*-0/5, *KS*-0/3)
+- इ᳓न्द्रम् (*TS*-101/497, *RV*-359/1345, *TB*-110/363, *TK*-1/8, *AV*-125/606, *SB-M*-47/535, *SB-K*-38/509, *VS-M*-96/388, *VS-K*-88/358, *KS*-41/189)
+- ऊत᳓ये (*TS*-12/25, *RV*-101/345, *TB*-6/12, *AV*-24/46, *SB-M*-5/8, *SB-K*-2/6, *VS-M*-9/22, *VS-K*-9/22, *KS*-5/17)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -193,6 +210,18 @@ In every need, in every fray we call as friends to succour us
 In each need more strong,  
 In each contest, we invoke,  
 As friends, Indra to aid us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'At every yoking, at every prize, we call upon the stronger one  
+for help, as friends [call upon] Indra.'
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+In every yoking we call upon the most mighty one, in every prize,  
+[we], his comrades, upon Indra for aid.
 </details>
 
 <details><summary>Geldner</summary>

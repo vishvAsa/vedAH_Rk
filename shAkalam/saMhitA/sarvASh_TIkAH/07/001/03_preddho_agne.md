@@ -188,6 +188,15 @@ _____________
 २१९२ निरन्तर-भाविनो वाजा अन्नान्य् उपयन्ति सामीप्येन प्राप्नुवन्ति ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[266_7]** D पुरा.
+
+- **[266_8]** Ch णो
+
+- **[518_1]** Ch अग्न; aber cf. RV 7, 1, 3. (Ch अग्न; but cf. RV 7, 1, 3.)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -218,6 +227,12 @@ Ever upon thee strength awaiteth.
 
 Shine thou before us, Agni, well-enkindled, with flame, Most Youthful God, that never fadeth.  
      To thee come all our sacrificial viands.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Kindled forth, O Agni, shine before us with an unceasing flare, O youngest one;  
+to you constant vigors come.
 </details>
 
 <details><summary>Geldner</summary>

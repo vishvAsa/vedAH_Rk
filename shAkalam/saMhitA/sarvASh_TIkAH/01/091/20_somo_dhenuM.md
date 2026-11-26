@@ -400,6 +400,12 @@ To him who worships Soma gives the milch-cow, a fleet steed and a man of active 
      Skilled in home duties, meet for holy synod, for council meet, a glory to his father.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Soma gives a milch-cow, Soma a swift courser, Soma a skillful hero,  
+domestic, fit for assembly, fit for council, bringing fame to his father, to him who serves him.
+</details>
+
 <details><summary>Geldner</summary>
 
 Soma schenkt dem, der ihm opfert, eine Milchkuh, Soma ein rasches Streitroß, Soma einen werktüchtigen Sohn, der im Haus, im Rat der Weisen, in der Versammlung tüchtig ist, der dem Vater Ruhm bringt.

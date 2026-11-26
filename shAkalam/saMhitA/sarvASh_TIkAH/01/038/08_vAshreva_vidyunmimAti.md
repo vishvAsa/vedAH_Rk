@@ -185,6 +185,13 @@ _________
 केचित्तु - 'आ ते सुपर्णाः' इत्यादय ऋचस्तिस्रोपि धूमान्वीक्षणमन्त्रा इत्याहुः । वाश्रेव वाश्यमानेव मरुतः प्रति । यथा प्रस्नवनी माता वत्सं प्रति वाश्यमाना भवति; तथा विद्युत् मरुतः प्रति वाश्यमाना मिमाति मिमेति । माङ् माने, जौहोत्यादिकः, अत्र तु सेचनकर्मा, व्यत्ययेन परस्मैपदम् । सिषक्ति सेवते च माता वत्समिव । षञ्जेः शपः श्लुः 'बहुलं छन्दसि' इत्यभ्यासस्येत्यम् । यत् यदा वृष्टिः असर्जी सृज्यते । छान्दसो लुङ् । एषां मरुतां सम्बन्धिनी वृष्टिः तदारम्भे इत्थं विद्युन्मरुतो मिमाति सिषक्ति चेति । तस्मादस्माकमेवं भवत्वित्याशास्यते ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[161_6]** Ch विद्युन्दमाति
+
+- **[161_7]** Ch यदीषां
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -215,6 +222,17 @@ Like a cow the lightning lows and follows, motherlike, her youngling,
 Like a cow the lightning loweth;  
 It tendeth its young like a mother,  
 When their rain hath been let loose.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Like a lowing cow, lightning roars; she accompanies [the rain] as a mother her calf,  
+when their rain has been released.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Like a lowing [cow] the lightning roars; as a mother to her calf, it attends [the earth],
 </details>
 
 <details><summary>Geldner</summary>

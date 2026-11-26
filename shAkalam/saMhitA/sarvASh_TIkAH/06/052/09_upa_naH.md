@@ -88,6 +88,12 @@ sumr̥ḷīkā́ḥ ← sumr̥ḷīká- (nominal stem)
 सु॒मृ॒ळी॒का भ॑वन्तु नः ॥८॥ ७७
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+उप नस्सूनवो गिरश्शृण्वन्त्वमृतस्य ये।  
+सुमृडीका भवन्तु नः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उप॑ । नः॒ । सू॒नवः॑ । गिरः॑ । शृ॒ण्वन्तु॑ । अ॒मृत॑स्य । ये ।  
@@ -102,6 +108,20 @@ sumr̥ḷīkā́ḥ ← sumr̥ḷīká- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 उप॑। नः॒। सू॒नवः॑। गिरः॑। शृ॒ण्वन्तु॑। अ॒मृत॑स्य। ये। सु॒मृ॒डी॒का इति॑ सुऽमृडी॒का भ॒व॒न्तु॒। नः॒। ८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓प (*MS*-488, *TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- सून᳓वः (*MS*-0/7, *TS*-0/7, *RV*-11/68, *TB*-1/4, *AV*-0/5, *SB-M*-1/6, *SB-K*-0/7, *VS-M*-1/6, *VS-K*-1/8)
+- गि᳓रः (*MW*, *MS*-15/16, *TS*-10, *RV*-151/158, *TB*-11, *AV*-22, *SB-M*-7, *SB-K*-6, *VS-M*-11, *VS-K*-18)
+- शृण्व᳓न्तु (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-3, *TS*-1, *RV*-8, *AV*-3, *SB-M*-3, *SB-K*-3, *VS-M*-3, *VS-K*-2)
+- अमृ᳓तस्य (*MS*-10/84, *TS*-11/65, *RV*-42/187, *TB*-1/49, *TK*-2/39, *AV*-30/97, *SB-M*-4/332, *SB-K*-3/312, *VS-M*-4/64, *VS-K*-5/60)
+- ये᳓ (*MS*-201/3763, *TS*-213/3385, *RV*-445/4011, *TB*-70/1735, *TK*-16/227, *AV*-448/3120, *SB-M*-316/8327, *SB-K*-319/8438, *VS-M*-104/651, *VS-K*-88/609)
+- सु-मृडीका᳓ (*MS*-1/6, *TS*-2/4, *RV*-3/13, *TB*-0/3, *AV*-1/4, *SB-M*-2/3, *SB-K*-0/1, *VS-M*-1/6, *VS-K*-1/11)
+- भवन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-18, *TS*-19, *RV*-28, *TB*-6, *AV*-45, *SB-M*-7, *SB-K*-7, *VS-M*-20, *VS-K*-15)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -255,6 +275,11 @@ _______________
 मित्रावरुणौ हुवे इति सम्बन्धः ॥ ५७ ॥
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[413_2]** cf. RV 6, 52, 9.
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
 
 अब माता-पिता अपने सन्तानों के प्रति क्या करें, इस विषय को अगले मन्त्र में कहा है ॥
@@ -324,6 +349,12 @@ These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an
 
 All Sons of Immortality shall listen to the songs we sing,  
      And be exceeding good to us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the sons of immortality hear our songs;  
+may they be very gracious to us.
 </details>
 
 <details><summary>Geldner</summary>

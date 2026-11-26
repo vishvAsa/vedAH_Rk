@@ -89,10 +89,36 @@ yós ← yós (invariable)
 सु॒शर्मा॑णा॒ स्वव॑सा॒ हि भू॒तमथा॑ धत्तं॒ यज॑मानाय॒ शं योः ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ग्नीषोमा हवि᳓षः प्र᳓स्थितस्य वीतँ᳓ ह᳓र्यतँ वृषणा जुषे᳓थाम्  
+सुश᳓र्माणा स्व᳓वसा हि᳓ भूत᳓म् अ᳓था धत्तँ य᳓जमानाय शँ᳓ योः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्नी॑षोमा । ह॒विषः॑ । प्रऽस्थि॑तस्य । वी॒तम् । हर्य॑तम् । वृ॒ष॒णा॒ । जु॒षेथा॑म् ।  
 सु॒ऽशर्मा॑णा । सु॒ऽअव॑सा । हि । भू॒तम् । अथ॑ । ध॒त्त॒म् । यज॑मानाय । शम् । योः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ग्नी-सोमा (*TS*-3/6, *TB*-5, *KS*-2/4)
+- हवि᳓षः (*TS*-11/124, *RV*-12/166, *TB*-20/186, *TK*-1/17, *AV*-4/116, *SB-M*-31/380, *SB-K*-29/360, *VS-M*-13/92, *VS-K*-8/101, *KS*-5/60)
+- प्र᳓-स्थितस्य (*TS*-1, *RV*-3/9, *TB*-1, *AV*-0/2, *SB-M*-0/7, *SB-K*-0/6, *VS-M*-0/1)
+- वीत᳓म् (*TS*-4/7, *RV*-8/11, *TB*-2/6, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2/6, *VS-K*-2/5, *KS*-2)
+- ह᳓र्यतम् (*TS*-1, *RV*-1/3, *AV*-0/1)
+- वृषणा (*TS*-3, *RV*-39, *TB*-2, *AV*-4, *VS-M*-2, *VS-K*-1, *KS*-2)
+- जुषे᳓थाम् (*TS*-4, *RV*-9, *TB*-2, *AV*-1, *KS*-1)
+- सु-श᳓र्माणा (*TS*-1/3, *RV*-1/5, *AV*-0/2, *VS-M*-0/2, *VS-K*-0/2)
+- स्व᳓वसा (*TS*-1/4, *RV*-0/7, *TB*-0/1, *AV*-0/4, *VS-M*-0/3, *VS-K*-0/1, *KS*-0/2)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43, *KS*-81)
+- भूत᳓म् (*TS*-21/65, *RV*-13/22, *TB*-11/32, *TK*-27/37, *AV*-29/74, *SB-M*-64/303, *SB-K*-59/290, *VS-M*-6/28, *VS-K*-3/26, *KS*-3/21)
+- अ᳓था (*TS*-4, *TB*-1, *SB-M*-3, *SB-K*-8, *VS-K*-2, *KS*-6)
+- धत्तम् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-12, *RV*-26, *TB*-36, *AV*-11, *SB-M*-7, *SB-K*-5, *VS-M*-2, *VS-K*-2, *KS*-9)
+- य᳓जमानाय (*TS*-36/419, *RV*-21/63, *TB*-26/267, *TK*-1, *AV*-24/46, *SB-M*-51/614, *SB-K*-54/631, *VS-M*-16/52, *VS-K*-19/57, *KS*-15/53)
+- श᳓म् (*TS*-33, *RV*-159, *TB*-19, *TK*-1, *AV*-185, *SB-M*-27, *SB-K*-29, *VS-M*-39, *VS-K*-23, *KS*-13)
+- योः᳓ (*TS*-7, *RV*-25, *TB*-9, *AV*-4, *SB-M*-1, *SB-K*-3, *VS-M*-1, *VS-K*-2, *KS*-7)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -252,6 +278,12 @@ In c bhūtám can be either imperative or injunctive and is taken as injunctive 
 
 Taste, Agni, Soma, this prepared oblation; accept it, Mighty Ones, and let it please you.  
      Vouchsafe us good protection and kind favour: grant to the sacrificer health and riches.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni-and-Soma, accept the oblation set forth, take pleasure, enjoy, O two bulls!  
+For become of good shelter and good aid, then grant welfare and blessing to the sacrificer!
 </details>
 
 <details><summary>Geldner</summary>

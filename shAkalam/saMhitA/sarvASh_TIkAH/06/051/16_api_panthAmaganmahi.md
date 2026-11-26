@@ -85,6 +85,12 @@ vr̥ṇákti ← √vr̥j- 1 (root)
 वृ॒णक्ति॑ वि॒न्दते॒ वसु॑ ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓पि प᳓न्थामगन्महि स्वस्तिगा᳓मनेह᳓सम्।  
+ये᳓न वि᳓श्वाः प᳓रि द्वि᳓षो वृण᳓क्ति विन्द᳓ते व᳓सु
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अपि॑ । पन्था॑म् । अ॒ग॒न्म॒हि॒ । स्व॒स्ति॒ऽगाम् । अ॒ने॒हस॑म् ।  
@@ -95,6 +101,22 @@ vr̥ṇákti ← √vr̥j- 1 (root)
 
 अपीति॑ । पन्था॑म् । अ॒ग॒स्म॒हि॒ । स्व॒स्ति॒गामिति॑ स्वस्ति-गाम् । अ॒ने॒हस॑म् ।   
 येन॑ । विश्वाः॑ । परीति॑ । द्विषः॑ । वृ॒णक्ति॑ । वि॒न्दते॑ । वसु॑ ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓पि (*MS*-118, *TS*-103, *RV*-86, *TB*-47, *TK*-2, *AV*-94, *SB-M*-482, *SB-K*-467, *VS-M*-19, *VS-K*-11)
+- प᳓न्थाम् (*MS*-18/60, *TS*-12/72, *RV*-31/149, *TB*-2/22, *AV*-23/76, *SB-M*-5/46, *SB-K*-8/52, *VS-M*-7/38, *VS-K*-5/35)
+- अगन्महि (*MS*-1, *RV*-1)
+- स्वस्ति-गा᳓म् (*MS*-1, *TS*-1, *RV*-2, *AV*-1, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- अनेह᳓सम् (*MS*-2/3, *TS*-2, *RV*-9/32, *AV*-2, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-2, *VS-K*-3)
+- ये᳓न (*MS*-36/3763, *TS*-36/3385, *RV*-119/4011, *TB*-18/1735, *TK*-5/227, *AV*-103/3120, *SB-M*-101/8327, *SB-K*-96/8438, *VS-M*-23/651, *VS-K*-22/609)
+- वि᳓श्वाः (*MS*-28/301, *TS*-19/283, *RV*-102/1116, *TB*-13/125, *TK*-2/124, *AV*-31/353, *SB-M*-14/248, *SB-K*-13/219, *VS-M*-20/225, *VS-K*-25/224)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- द्वि᳓षः (*MS*-4/29, *TS*-2/17, *RV*-40/47, *TB*-1/21, *AV*-13/16, *SB-M*-2/49, *SB-K*-1/49, *VS-M*-1, *VS-K*-1)
+- वृण᳓क्ति (*MS*-2, *TS*-1, *RV*-2, *SB-M*-5, *SB-K*-3, *VS-K*-1)
+- विन्द᳓ते (*MS*-11/12, *TS*-16/19, *RV*-1/2, *TB*-5/6, *TK*-2, *AV*-4, *SB-M*-10/14, *SB-K*-3/12, *VS-M*-2, *VS-K*-2)
+- व᳓सु (*MS*-25/140, *TS*-14/143, *RV*-99/311, *TB*-19/59, *TK*-0/2, *AV*-27/90, *SB-M*-15/113, *SB-K*-14/111, *VS-M*-16/77, *VS-K*-15/100)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -225,6 +247,13 @@ _________
 तृतीय-मन्त्रो ब्राह्मणेनोपेक्षितः।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[15_9]** Brl, T1 and T3 वि᳓शः (!)
+
+- **[15_10]** So T1 und L ; Brl and T3 वृण᳓क्ते ; Ch वृनक्ति (Thus T1 and L; Brl and T3 वृण᳓क्ते; Ch वृनक्ति)
+</details>
+
 <details><summary>Wilson</summary>
 
 _________
@@ -256,6 +285,12 @@ We have reached the path
 Which leadeth to bliss, without a foe,  
 Whereby a man defeateth all his foes  
 and winneth wealth.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+We have reached the path that goes to well-being, free from harm,  
+by which one avoids all enemies and finds wealth.
 </details>
 
 <details><summary>Geldner</summary>

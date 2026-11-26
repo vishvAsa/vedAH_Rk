@@ -86,10 +86,35 @@ vŕ̥ṣaṇam ← vŕ̥ṣan- (nominal stem)
 श्रु॒तऋ॑षिमु॒ग्रम॑भिमाति॒षाह॑म॒स्मभ्यं॑ चि॒त्रं वृष॑णं र॒यिं दाः॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+सुब्र᳓ह्माणं देव᳓वन्तं महा᳓न्तम् उरुं᳓ गभीरं᳓ पृथु᳓बुध्नम् इन्द्र  
+श्रुत᳓ऋषिम् उग्र᳓म् अभिमातिषा᳓हम् अस्म᳓भ्यं चित्रँ᳓ वृ᳓षणँ रयिं᳓ दाः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 सु॒ऽब्रह्मा॑णम् । दे॒वऽव॑न्तम् । बृ॒हन्त॑म् । उ॒रुम् । ग॒भी॒रम् । पृ॒थुऽबु॑ध्नम् । इ॒न्द्र॒ ।  
 श्रु॒तऽऋ॑षिम् । उ॒ग्रम् । अ॒भि॒मा॒ति॒ऽसह॑म् । अ॒स्मभ्य॑म् । चि॒त्रम् । वृष॑णम् । र॒यिम् । दाः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- सु-ब्र᳓ह्माणम् (*TS*-0/1, *RV*-1/2, *VS-M*-0/1, *VS-K*-0/2)
+- देव᳓वन्तम् (*RV*-2)
+- महा᳓न्तम् (*TS*-1/2, *RV*-8/17, *AV*-2/7, *SB-M*-7/11, *SB-K*-5/9, *VS-M*-2, *VS-K*-2)
+- उरु᳓म् (*TS*-4/52, *RV*-20/118, *TB*-2/7, *TK*-0/3, *AV*-9/40, *SB-M*-3/38, *SB-K*-2/38, *VS-M*-2/29, *VS-K*-1/33, *KS*-1/15)
+- गभीर᳓म् (*TS*-0/1, *RV*-9/19, *TB*-0/1, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1, *KS*-1)
+- पृथु᳓-बुध्नम् (*RV*-1/2, *AV*-0/1, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/1, *VS-K*-0/1)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-22, *KS*-28)
+- श्रुत᳓-ऋषिम् (*RV*-1)
+- उग्र᳓म् (*TS*-10/33, *RV*-61/153, *TB*-9/21, *TK*-0/2, *AV*-34/99, *SB-M*-6/10, *SB-K*-4/9, *VS-M*-11/23, *VS-K*-5/18, *KS*-6/12)
+- अभिमाति-सा᳓हम् (*TS*-2/4, *SB-K*-0/1, *KS*-1/2)
+- अस्म᳓-भ्यम् (*TS*-21/565, *RV*-119/1308, *TB*-12/270, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/728, *VS-M*-15/314, *VS-K*-20/265, *KS*-13/242)
+- चित्र᳓म् (*TS*-12/23, *RV*-65/135, *TB*-11/23, *TK*-0/3, *AV*-8/17, *SB-M*-14/26, *SB-K*-13/28, *VS-M*-6/12, *VS-K*-8/14, *KS*-7/11)
+- वृ᳓षणम् (*TS*-7/12, *RV*-54/87, *TB*-7/8, *AV*-8/10, *SB-M*-2/5, *SB-K*-2/4, *VS-M*-6/7, *VS-K*-4/5, *KS*-2/3)
+- रयि᳓म् (*TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-24/35, *VS-K*-22/32, *KS*-17/27)
+- दाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-9, *RV*-33, *TB*-1, *AV*-16, *VS-M*-9, *VS-K*-5, *KS*-2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -240,6 +265,12 @@ accompanied by famous seers, powerful, vanquishing hostility. – To us  give br
 
 Wealth, with good Brahmans, Indra! God-attended, high, wide, and deep, arid based on broad foundations,  
      Strong, with famed Rsis, conquering our foemen: vouchsafe us mighty and resplendent riches.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Endowed with good prayer, accompanied by gods, great, broad, deep, wide-bottomed, O Indra,  
+renowned as a seer, fierce, overcoming foes: grant us wondrous, bull-like wealth!
 </details>
 
 <details><summary>Geldner</summary>

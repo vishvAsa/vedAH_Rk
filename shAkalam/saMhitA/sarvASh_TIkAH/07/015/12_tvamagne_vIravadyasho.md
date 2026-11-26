@@ -75,10 +75,32 @@ vā́ryam ← vā́rya- (nominal stem)
 दिति॑श्च दाति॒ वार्य॑म् ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+त्व᳓म् अग्ने वीर᳓वद् य᳓शो देव᳓श् च सविता᳓ भ᳓गः  
+दि᳓तिश् च दाति वा᳓र्यम्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 त्वम् । अ॒ग्ने॒ । वी॒रऽव॑त् । यशः॑ । दे॒वः । च॒ । स॒वि॒ता । भगः॑ ।  
 दितिः॑ । च॒ । दा॒ति॒ । वार्य॑म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- त्व᳓म् (*TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/215, *VS-K*-79/167, *KS*-66/165)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-112, *VS-K*-94, *KS*-122)
+- वीर᳓वत् (*TS*-1, *RV*-18/19, *TB*-2/3, *AV*-1, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-3, *VS-K*-2, *KS*-1)
+- य᳓शः (*TS*-11, *RV*-24, *TB*-33, *TK*-6, *AV*-33, *SB-M*-81, *SB-K*-82, *VS-M*-10, *VS-K*-10, *KS*-7)
+- देवः᳓ (*TS*-66/1025, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/517, *VS-K*-61/498, *KS*-24/317)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- सविता᳓ (*TS*-50/120, *RV*-103/157, *TB*-39/71, *TK*-3, *AV*-80/96, *SB-M*-128/225, *SB-K*-109/198, *VS-M*-47/110, *VS-K*-43/99, *KS*-14/41)
+- भ᳓गः (*TS*-4/13, *RV*-63/115, *TB*-4/23, *TK*-0/1, *AV*-30/65, *SB-M*-6/23, *SB-K*-5/17, *VS-M*-8/26, *VS-K*-6/26, *KS*-7/11)
+- दि᳓तिः (*TS*-1/3, *RV*-1/3, *AV*-3/5, *SB-M*-0/7, *SB-K*-0/3, *VS-M*-1, *VS-K*-1/3, *KS*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-663, *KS*-766)
+- दाति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-4, *TB*-1)
+- वा᳓र्यम् (*TS*-0/3, *RV*-26/54, *TB*-1/5, *TK*-1, *AV*-4/8, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/5, *VS-K*-0/5, *KS*-3/5)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -191,6 +213,12 @@ and Diti gives a desirable reward to us.
 
 Thou, Agni, givest hero fame: Bhaga and Savitar the God,  
      And Did give us what is good.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Thou, O Agni, [givest] fame rich in heroes, and god Savitṛ, Bhaga,  
+and Diti gives what is desirable.
 </details>
 
 <details><summary>Geldner</summary>

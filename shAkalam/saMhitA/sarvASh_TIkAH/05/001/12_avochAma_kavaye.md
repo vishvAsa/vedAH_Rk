@@ -101,6 +101,12 @@ uruvyáñcam ← uruvyáñc- (nominal stem)
 गवि॑ष्ठिरो॒ नम॑सा॒ स्तोम॑म॒ग्नौ दि॒वीव॑रु॒क्ममु॒र्व्यञ्च॑मश्रेत् ।
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓वोचाम कव᳓ये मे᳓ध्याय व᳓चो वन्दा᳓रु वृषभा᳓य वृ᳓ष्णे  
+ग᳓विष्ठिरो न᳓मसा स्तो᳓मम् अग्नौ᳓ दिवी᳙व रुक्म᳓म् उरुव्य᳓ञ्चम् अश्रेत्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अवो॑चाम । क॒वये॑ । मेध्या॑य । वचः॑ । व॒न्दारु॑ । वृ॒ष॒भाय॑ । वृष्णे॑ ।  
@@ -115,6 +121,26 @@ uruvyáñcam ← uruvyáñc- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अवो॑चाम। क॒वये॑। मेध्या॑य। वचः॑। व॒न्दारु॑। वृ॒ष॒भाय॑। वृ॒ष्णे॑। गवि॑ष्ठिरः। गवि॑स्थिर॒ इति॒ गवि॑ऽस्थिरः। नम॑सा। स्तोम॑म्। अ॒ग्नौ। दि॒वी᳖वेति॑ दि॒विऽइ॑व। रु॒क्मम्। उ॒रु॒व्यञ्च॒मित्यु॑रु॒ऽव्यञ्च॑म्। अ॒श्रे॒त्। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓वोचाम (*TS*-1, *RV*-7, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- कव᳓ये (*TS*-1/31, *RV*-8/200, *TB*-0/21, *AV*-1/30, *SB-M*-0/11, *SB-K*-0/9, *VS-M*-1/23, *VS-K*-1/25, *KS*-1/18)
+- मे᳓ध्याय (*TS*-1/30, *RV*-1/2, *TB*-0/44, *TK*-0/1, *AV*-0/6, *SB-M*-0/70, *SB-K*-0/72, *VS-M*-1/3, *VS-K*-1/3, *KS*-0/6)
+- व᳓चः (*TS*-5/14, *RV*-51/100, *TB*-11/12, *TK*-2, *AV*-15/39, *SB-M*-12/18, *SB-K*-11/18, *VS-M*-9/13, *VS-K*-3/8, *KS*-8/15)
+- वन्दा᳓रु (*TS*-1/2, *RV*-3/4, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1/2, *KS*-1/2)
+- वृषभा᳓य (*TS*-1/15, *RV*-13/149, *TB*-1/17, *AV*-4/37, *SB-M*-0/11, *SB-K*-0/7, *VS-M*-1/12, *VS-K*-1/10, *KS*-1/13)
+- वृ᳓ष्णे (*TS*-5/14, *RV*-34/78, *TB*-1/4, *AV*-6/13, *SB-M*-3/4, *SB-K*-2/6, *VS-M*-2/13, *VS-K*-2/12, *KS*-5/10)
+- ग᳓विष्ठिरः (*TS*-1, *RV*-1/2, *AV*-0/1, *VS-M*-1, *VS-K*-1)
+- न᳓मसा (*TS*-7/315, *RV*-83/182, *TB*-8/60, *TK*-0/4, *AV*-12/248, *SB-M*-0/105, *SB-K*-0/102, *VS-M*-5/244, *VS-K*-5/167, *KS*-6/305)
+- स्तो᳓मम् (*TS*-21/122, *RV*-76/206, *TB*-7/37, *AV*-13/44, *SB-M*-15/166, *SB-K*-14/166, *VS-M*-9/43, *VS-K*-7/51, *KS*-7/28)
+- अग्नौ᳓ (*TS*-32/1195, *RV*-22/856, *TB*-30/520, *TK*-5/105, *AV*-17/419, *SB-M*-222/2495, *SB-K*-178/2289, *VS-M*-8/322, *VS-K*-7/339, *KS*-7/256)
+- दिवि᳓ (*TS*-45/270, *RV*-124/854, *TB*-25/119, *TK*-5/15, *AV*-66/340, *SB-M*-49/353, *SB-K*-48/342, *VS-M*-27/167, *VS-K*-23/172, *KS*-21/128)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- रुक्म᳓म् (*TS*-6/16, *RV*-2/19, *TB*-3/9, *TK*-0/1, *SB-M*-10/43, *SB-K*-11/42, *VS-M*-1/6, *VS-K*-1/7, *KS*-0/2)
+- उरु-व्य᳓ञ्चम् (*RV*-1, *VS-M*-1, *VS-K*-1)
+- अश्रेत् (*TS*-1, *RV*-16, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -420,6 +446,12 @@ We have uttered to the sage, the worshipful,
 Our voice of praise, to the strong bull;  
 Gavisthira with his homage hath raised to Agni this laud,  
 Wide extending like brilliance in the sky.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+We have spoken praise, a welcoming word, to the sage fit for sacrifice, to the bull, the virile one;  
+with reverence Gaviṣṭhira has set up his song of praise upon Agni, like a wide-extended gold ornament in heaven.
 </details>
 
 <details><summary>Oldenberg</summary>

@@ -83,6 +83,12 @@ asmaí ← ayám (pronoun)
 आ वि॑त्सि॒ सर्वा॒ ओष॑धीर॒स्मा अ॑रि॒ष्टता॑तये ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+अश्वावतीँ᳓ सोमावती᳓मूर्ज᳓यन्तीमु᳓दोजसम्।  
+आ᳓वित्सि स᳓र्वा औ᳓षधीरस्मा᳓ अरिष्ट᳓तातये
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अ॒श्व॒ऽव॒तीम् । सो॒म॒ऽव॒तीम् । ऊ॒र्जय॑न्तीम् । उत्ऽओ॑जसम् ।  
@@ -102,6 +108,20 @@ asmaí ← ayám (pronoun)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 अ॒श्वा॒व॒तीमित्य॑श्व-व॒तीम् । सो॒म॒व॒तीमिति॑ सोम-व॒तीम् । ऊ॒र्जय॑न्तीम् । उदो॑जस॒मित्युत्-ओ॒ज॒स॒म् ॥ एति॑ । वि॒त्सि॒ । सर्वाः॑ । ओष॑धीः । अ॒स्मै । अ॒रि॒ष्टता॑तय॒ इत्य॑रि॒ष्ट-ता॒त॒ये॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अश्व-वती᳓म् (*TS*-1, *RV*-1, *TB*-1, *VS-M*-1, *MS*-2)
+- सोमावती᳓म् (*VS-M*-1, *VS-K*-1)
+- ऊर्ज᳓यन्तीम् (*MS*-1, *TS*-1, *RV*-2/5, *VS-M*-1)
+- उ᳓त्-ओजसम् (*TS*-1, *RV*-1/2, *VS-M*-1, *MS*-1)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- वित्सि (*TS*-1)
+- स᳓र्वाः (*MS*-101/419, *TS*-51/287, *RV*-12/68, *TB*-34/159, *TK*-58/114, *AV*-67/444, *SB-M*-143/2265, *SB-K*-143/2224, *VS-M*-13/55, *VS-K*-13/43)
+- औ᳓षधीः (*TS*-1/3, *SB-M*-0/3)
+- अस्मै᳓ (*MS*-26/1379, *TS*-22/965, *RV*-21/1247, *TB*-10/567, *TK*-1/57, *AV*-59/1259, *SB-M*-95/5239, *SB-K*-128/5549, *VS-M*-10/319, *VS-K*-8/301)
+- अरिष्ट᳓-तातये (*MS*-1, *TS*-1, *RV*-4/5, *AV*-9/10, *VS-M*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -288,6 +308,11 @@ _________
 ताः सर्वा ओषधीरहमावित्सि लब्धवानस्मि ।   किमर्थम् ।   अस्मा अरिष्टतातये अरिष्टस्य तातिररिष्टतातिः ।   अस्य यजमानस्य हिंसाराहित्ययेत्यर्थः ।     १९१७ तदेवमोषधिवापार्था ऋचश्चतुर्दशाऽऽम्नाताः ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[233_8]** Ch सोमव॰; W 1 तोमुमाव°
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 मनुष्यों को नित्य पुरुषार्थ बढ़ाना चाहिये, यह विषय अगले मन्त्र में कहा है ॥
@@ -354,6 +379,12 @@ Rich in steeds, rich in Soma,
 Full of strength, full of power,  
 I have found all the plants  
 For his safety.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Rich in horses, rich in soma, invigorating, overcoming in strength,  
+all the plants have I found for his unharmedness.
 </details>
 
 <details><summary>Geldner</summary>

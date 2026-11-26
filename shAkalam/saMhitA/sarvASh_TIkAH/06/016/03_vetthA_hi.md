@@ -72,10 +72,31 @@ yajñéṣu ← yajñá- (nominal stem)
 अग्ने॑ य॒ज्ञेषु॑ सुक्रतो ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+वे᳓त्था हि᳓ वेधो अ᳓ध्वनः पथ᳓श्च देवा᳓ञ्जसा।  
+अ᳓ग्ने यज्ञे᳓षु सुक्रतो
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 वेत्थ॑ । हि । वे॒धः॒ । अध्व॑नः । प॒थः । च॒ । दे॒व॒ । अञ्ज॑सा ।  
 अग्ने॑ । य॒ज्ञेषु॑ । सु॒क्र॒तो॒ इति॑ सुऽक्रतो ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- वे᳓त्था (*SB-M*-1, *SB-K*-1)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- वेधः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-8, *AV*-1)
+- अ᳓ध्वनः (*MS*-3/9, *TS*-5/8, *RV*-17/34, *TB*-0/4, *AV*-3/6, *SB-M*-7/25, *SB-K*-6/22, *VS-M*-3/7, *VS-K*-4/7)
+- पथः᳓ (*MS*-12/60, *TS*-8/72, *RV*-36/149, *TB*-5/22, *AV*-12/76, *SB-M*-11/46, *SB-K*-12/52, *VS-M*-4/38, *VS-K*-5/35)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- देवाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-36, *TS*-28, *RV*-72, *TB*-17, *TK*-1, *AV*-43, *SB-M*-12, *SB-K*-15, *VS-M*-19, *VS-K*-19)
+- अ᳓ञ्जसा (*MS*-3/5, *TS*-4, *RV*-3/7, *TB*-4/5, *AV*-0/1, *SB-M*-13, *SB-K*-18/20, *VS-M*-1, *VS-K*-1)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- यज्ञे᳓षु (*MS*-1/933, *TS*-4/863, *RV*-36/448, *TB*-0/399, *TK*-1/21, *AV*-3/231, *SB-M*-6/1803, *SB-K*-4/1754, *VS-M*-2/223, *VS-K*-1/187)
+- सु-क्रतो (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TS*-1, *RV*-20, *AV*-2, *SB-M*-1, *SB-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -192,6 +213,12 @@ and all standard tr. (incl. mine), which separate deva as a voc. Although I thin
 
 For well, O God, Disposer, thou knowest, straight on, the paths and ways,  
      Agni, most wise in sacrifice.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For you, O ordainer, know straightway the routes and paths to the gods,  
+O Agni of good insight, at the sacrifices.
 </details>
 
 <details><summary>Geldner</summary>

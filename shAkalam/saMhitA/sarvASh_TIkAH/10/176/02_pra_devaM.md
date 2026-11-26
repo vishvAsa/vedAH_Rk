@@ -75,6 +75,12 @@ vakṣat ← √vah- (root)
 ह॒व्या नो॑ वक्षदानु॒षक्  ।
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+प्र देवं देव्या धिया भरता जातवेदसम्।  
+हव्या नो वक्षदानुषक्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 प्र । दे॒वम् । दे॒व्या । धि॒या । भर॑त । जा॒तऽवे॑दसम् ।  
@@ -84,6 +90,20 @@ vakṣat ← √vah- (root)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 प्रेति॑ । दे॒वम् । दे॒व्या । धि॒या । भर॑त । जा॒तवे॑दस॒मिति॑ जा॒त-वे॒द॒स॒म् ॥ ह॒व्या । नः॒ । व॒क्ष॒त् । आ॒नु॒षक् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- देव᳓म् (*MS*-56/1216, *TS*-17/1023, *RV*-71/1342, *TB*-46/582, *TK*-6/32, *AV*-20/707, *SB-M*-22/2031, *SB-K*-23/1945, *VS-M*-48/528, *VS-K*-44/523)
+- देव्या᳓ (*MS*-4/5, *TS*-3, *RV*-5/10, *AV*-2/5, *SB-M*-2/6, *SB-K*-2/5, *VS-M*-3, *VS-K*-1)
+- धिया᳓ (*MS*-11/14, *TS*-9/10, *RV*-84/98, *TB*-6/9, *AV*-9/11, *SB-M*-9/10, *SB-K*-9/10, *VS-M*-14/19, *VS-K*-7/12)
+- भ᳓रताः (समानान्तर-पाठः (TS), *MS*-2, *TS*-0/2, *RV*-0/7, *AV*-0/1)
+- जात᳓-वेदसम् (*MS*-7/10, *TS*-10/11, *RV*-25/38, *AV*-6/13, *SB-M*-3, *SB-K*-3, *VS-M*-7/8, *VS-K*-7/8)
+- हव्या᳓ (*MS*-25/81, *TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-5/27)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- वक्षत् (समानान्तर-पाठः (TS), *MS*-12, *TS*-6, *RV*-7, *TB*-1, *AV*-4, *SB-K*-4, *VS-M*-6, *VS-K*-5)
+- आनुष᳓क् (*MS*-3, *TS*-2, *RV*-35, *TB*-1, *AV*-3, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -194,6 +214,12 @@ Bring forth the God with song divine, being Jatavedas hitherward,
 Bring onward with meditation divine  
 The god, who knoweth all;  
 May he duly bear our sacrifices.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Bring forward the god Jātavedas with divine thought,  
+that he may carry our oblations in unbroken succession.
 </details>
 
 <details><summary>Geldner</summary>

@@ -69,9 +69,28 @@ pr̥thivī́ ← pr̥thivī́- (nominal stem)
 उद॑स्य॒ शुष्मा॑द्भा॒नुर्नार्त॒ बिभ॑र्ति भा॒रं पृ॑थि॒वी न भूम॑ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+उ᳓द् अस्य शु᳓ष्माद् भानो᳓र् नाव्या᳓ बिभ᳓र्ति * भारं᳓ पृथिवी᳓ न᳓ भूमीः᳓
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 उत् । अ॒स्य॒ । शुष्मा॑त् । भा॒नुः । न । आ॒र्त॒ । बिभ॑र्ति । भा॒रम् । पृ॒थि॒वी । न । भूम॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-79, *KS*-81)
+- अस्य (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-315, *RV*-415, *TB*-178, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-590, *VS-M*-56, *VS-K*-39, *KS*-67)
+- शु᳓ष्मात् (*TS*-1/8, *RV*-5/69, *TB*-0/15, *AV*-2/19, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/5, *VS-K*-0/5, *KS*-0/9)
+- भानोः᳓ (*TS*-0/16, *RV*-0/64, *TB*-0/4, *AV*-0/6, *SB-M*-0/12, *SB-K*-0/12, *VS-M*-0/11, *VS-K*-0/12, *KS*-0/4)
+- नाव्याः᳓ (*RV*-1/3, *TB*-0/1, *AV*-3)
+- बिभ᳓र्ति (*TS*-2, *RV*-1, *AV*-2, *SB-M*-20, *SB-K*-20)
+- भार᳓म् (*TS*-1, *RV*-4/5, *TB*-0/1, *AV*-1/2, *SB-M*-3/4, *SB-K*-3/4, *VS-M*-2, *VS-K*-2)
+- पृथिवी᳓ (*TS*-43/106, *RV*-89/156, *TB*-25/52, *TK*-1/6, *AV*-77/155, *SB-M*-96/156, *SB-K*-54/126, *VS-M*-20/53, *VS-K*-21/54, *KS*-20/35)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-179, *VS-K*-153, *KS*-139)
+- भूमीः᳓ (*TS*-0/9, *RV*-0/13, *TB*-0/2, *AV*-0/34, *SB-M*-0/1, *VS-M*-0/4, *VS-K*-0/4, *KS*-0/2)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -181,6 +200,11 @@ I do not understand the simile in the 2nd hemistich. If the bhū́ma that the ea
 <details><summary>Griffith</summary>
 
 Up from his strength hath risen as 'twere a light: it bears the load as earth bears living things.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+From his heat, like a boat from light, the broad earth bears the burden, not [just] the grounds.
 </details>
 
 <details><summary>Geldner</summary>

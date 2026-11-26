@@ -338,6 +338,12 @@ Seeks to delight thee in his life in his house;
 May all days be happy for him; be that the will.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+Let him indeed, O Agni, be fortunate and very generous, who, with constant oblation, who with hymns  
+seeks to gratify [you] in his own life, in his dwelling; may all his sacrifice be commanding fair days.
+</details>
+
 <details><summary>Geldner</summary>
 
 Der soll glücklich, reich an Gaben sein, o Agni, der dich mit ständiger Opferspende und mit Liedern während seines Lebens in seinem Hause zu befriedigen wünscht. Lauter schöne Tage sollen ihm werden: Das sei der Wunsch.

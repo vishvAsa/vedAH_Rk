@@ -191,6 +191,12 @@ Victorious in the contests,
 Strong in his abodes.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+They groomed him, of good resolve, who goes first in contests,  
+the prize-winner, in his own dwellings.
+</details>
+
 <details><summary>Geldner</summary>
 
 Ihn putzen sie, den Einsichtsvollen, den Anführer in den Kämpfen, der im eigenen Heim gewinneinbringend ist.

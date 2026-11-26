@@ -75,6 +75,12 @@ mahī́bhiḥ ← máh- (nominal stem)
 म॒हान्म॒हीभि॑रू॒तिभिः॑ ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+आ᳓ तू᳓ न इन्द्र वृत्रहन्नस्मा᳓कम᳓र्धमा᳓गहि।  
+महा᳓न्मही᳓भिरूति᳓भिः
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 आ । तु । नः॒ । इ॒न्द्र॒ । वृ॒त्र॒ऽह॒न् । अ॒स्माक॑म् । अ॒र्धम् । आ । ग॒हि॒ ।  
@@ -89,6 +95,22 @@ mahī́bhiḥ ← máh- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 आ। तु। नः। इन्द्र। वृत्रहन्। अस्माकम्। अर्धम्। आ। गहि। म॒हान्। म॒हीभिः॑। ऊ॒तिभि॒रित्यू॒तिऽभिः॑। ११।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- तू᳓ (*MS*-3/108, *TS*-1/113, *RV*-0/72, *TB*-1/48, *TK*-0/3, *AV*-0/56, *SB-M*-0/438, *SB-K*-0/440, *VS-M*-0/8, *VS-K*-0/4)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- वृत्र-हन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-3, *TS*-5, *RV*-38, *TB*-3, *AV*-14, *VS-M*-5, *VS-K*-2)
+- अस्मा᳓कम् (*MS*-44/641, *TS*-18/565, *RV*-106/1308, *TB*-6/270, *TK*-0/66, *AV*-310/1252, *SB-M*-31/723, *SB-K*-49/728, *VS-M*-15/315, *VS-K*-16/274)
+- अ᳓र्धम् (*MS*-5/7, *TS*-0/7, *RV*-3/8, *TB*-0/8, *TK*-0/10, *AV*-2/5, *SB-M*-7/23, *SB-K*-8/22)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- गहि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-12, *TS*-7, *RV*-79, *TB*-1, *AV*-20, *SB-M*-3, *SB-K*-3, *VS-M*-6, *VS-K*-5)
+- महा᳓न् (*MS*-7/36, *TS*-11/26, *RV*-79/364, *TB*-5/17, *TK*-2/5, *AV*-41/77, *SB-M*-28/37, *SB-K*-30/37, *VS-M*-18/35, *VS-K*-22/41)
+- मही᳓भिः (*MS*-2/28, *TS*-0/24, *RV*-5/131, *TB*-0/8, *TK*-0/1, *AV*-0/47, *SB-M*-0/19, *SB-K*-0/19, *VS-M*-1/26, *VS-K*-0/27)
+- ऊति᳓भिः (*MS*-10/35, *TS*-4/25, *RV*-100/345, *TB*-3/12, *AV*-12/46, *SB-M*-1/8, *SB-K*-1/6, *VS-M*-7/26, *VS-K*-6/26)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -318,6 +340,12 @@ as the great one with great means of help.
 
 O THOU who slewest Vrtra, come, O Indra, hither to our side,  
      Mighty One with thy mighty aids.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Come then to our side, O Vṛtra-slaying Indra,  
+great with great aids.
 </details>
 
 <details><summary>Geldner</summary>

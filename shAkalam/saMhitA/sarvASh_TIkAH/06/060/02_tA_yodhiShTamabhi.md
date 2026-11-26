@@ -104,10 +104,41 @@ yuvase ← √yu- 1 (root)
 दिशः॒ स्व॑रु॒षस॑ इन्द्र चि॒त्रा अ॒पो गा अ॑ग्ने युवसे नि॒युत्वा॑न् ॥
 </details>
 
+<details><summary>मूलम् - काठकम्</summary>
+
+ता᳓ योधिष्टमभि᳓ गा᳓ इन्द्र नून᳓मप᳓स्स्व᳙रुष᳓सो अग्न ऊढाः।  
+दिशस्स्व᳙रुष᳓स इन्द्र चित्रा᳓ अपो᳓ गा᳓ अग्ने युवसे नियु᳓त्वान्
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ता । यो॒धि॒ष्ट॒म् । अ॒भि । गाः । इ॒न्द्र॒ । नू॒नम् । अ॒पः । स्वः॑ । उ॒षसः॑ । अ॒ग्ने॒ । ऊ॒ळ्हाः ।  
 दिशः॑ । स्वः॑ । उ॒षसः॑ । इ॒न्द्र॒ । चि॒त्राः । अ॒पः । गाः । अ॒ग्ने॒ । यु॒व॒से॒ । नि॒युत्वा॑न् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ताः᳓ (*MS*-302/5550, *TS*-136/4761, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/780, *VS-K*-17/660)
+- योधिष्टम् (*RV*-1)
+- अभि᳓ (*MS*-346, *TS*-345, *RV*-754, *TB*-262, *TK*-15, *AV*-269, *SB-M*-606, *SB-K*-595, *VS-M*-97, *VS-K*-111)
+- गाः᳓ (*MS*-19/149, *TS*-6/108, *RV*-99/521, *TB*-5/76, *AV*-23/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-3/67, *VS-K*-3/67)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- नून᳓म् (*MS*-9, *TS*-5, *RV*-104, *TB*-4, *AV*-13, *SB-M*-8, *SB-K*-8, *VS-M*-12, *VS-K*-5)
+- अपः᳓ (*MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- स्वः᳙ (*MS*-88, *TS*-2, *RV*-97, *TB*-11, *TK*-11, *AV*-84, *SB-M*-36, *SB-K*-41, *VS-M*-50, *VS-K*-44)
+- उष᳓सः (*MS*-14/31, *TS*-9/20, *RV*-127/237, *TB*-2/13, *TK*-0/1, *AV*-19/39, *SB-M*-4/12, *SB-K*-4/11, *VS-M*-10/21, *VS-K*-6/18)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- ऊढाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- दिशः (*TS*-2, *SB-M*-1)
+- स्वः᳙ (*MS*-88, *TS*-2, *RV*-97, *TB*-11, *TK*-11, *AV*-84, *SB-M*-36, *SB-K*-41, *VS-M*-50, *VS-K*-44)
+- उष᳓सः (*MS*-14/31, *TS*-9/20, *RV*-127/237, *TB*-2/13, *TK*-0/1, *AV*-19/39, *SB-M*-4/12, *SB-K*-4/11, *VS-M*-10/21, *VS-K*-6/18)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- चित्राः᳓ (*MS*-1/54, *TS*-0/23, *RV*-10/135, *TB*-1/23, *TK*-0/3, *AV*-0/17, *SB-M*-0/26, *SB-K*-0/28, *VS-M*-0/15, *VS-K*-0/14)
+- अपः᳓ (*MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- गाः᳓ (*MS*-19/149, *TS*-6/108, *RV*-99/521, *TB*-5/76, *AV*-23/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-3/67, *VS-K*-3/67)
+- अग्ने (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-210, *TS*-219, *RV*-588, *TB*-76, *TK*-15, *AV*-143, *SB-M*-94, *SB-K*-88, *VS-M*-113, *VS-K*-114)
+- युवसे (*MS*-2, *TS*-2, *RV*-3, *TB*-1, *AV*-1, *SB-K*-2, *VS-M*-1, *VS-K*-2)
+- नियु᳓त्वान् (*RV*-12, *VS-M*-3, *VS-K*-3)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -289,6 +320,12 @@ In d Agni must be the immediate subj. of the clause, given the adjacency of the 
 
 So battle now, O Indra and thou, Agni, for cows and waters, sunlight, stolen Mornings.  
      Team-borne, thou makest kine thine own, O Agni: thou, Indra, light, Dawns, regions, wondrous waters.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+// Fight, O Indra, now for the cattle, the waters, the sun, the dawns carried off, O Agni;  
+you, O Indra, harness the bright directions, the sun, the dawns; you, O Agni, possessing teams, the waters and cattle.
 </details>
 
 <details><summary>Geldner</summary>

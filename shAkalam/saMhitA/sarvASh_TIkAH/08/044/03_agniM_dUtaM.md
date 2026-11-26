@@ -309,6 +309,12 @@ Agni, envoy, I place in front; the oblation-bearer I address:
      Here let him seat the Deities.
 </details>
 
+<details><summary>Gemini 3.8 Flash</summary>
+
+I place Agni before as messenger; I address the bearer of oblations.  
+May he seat the gods here.
+</details>
+
 <details><summary>Geldner</summary>
 
 Den Agni bestelle ich zum Boten; dem Opferbeförderer rede ich zu, er möge die Götter hier Platz nehmen lassen.

@@ -95,6 +95,18 @@ sárvavīram ← sárvavīra- (nominal stem)
 अ॒त्ता ह॒वीँषि॒ प्रय॑तानि ब॒र्हिष्यथा॑ र॒यिँ सर्व॑वीरं दधातन ॥५९ ॥
 </details>
 
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+अ᳓ग्निष्वात्ताः पितरा ए᳓ह᳓ गछत स᳓दःसदः सदत सुप्रणीतयः  
+अत्ता᳓ हवीँ᳓षि प्र᳓यतानि बर्हि᳓ष्य् अ᳓था रयिँ᳓ स᳓र्ववीरं दधातन
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓ग्निष्वात्ताः पितर ए᳓ह᳓ गच्छत स᳓दस्सदस्सदत सुप्रणीतयः।  
+अत्ता᳓ हँवी᳓षि प्र᳓यतानि बर्हि᳓ष्य᳓था रयिँ᳓ स᳓र्ववीरं दधातन
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 अग्नि॑ऽस्वात्ताः । पि॒त॒रः॒ । आ । इ॒ह । ग॒च्छ॒त॒ । सदः॑ऽसदः । स॒द॒त॒ । सु॒ऽप्र॒नी॒त॒यः॒ ।  
@@ -114,6 +126,46 @@ sárvavīram ← sárvavīra- (nominal stem)
 <details><summary>पदपाठः - काण्वः</summary>
 
 अग्नि॑ष्वात्ताः। अग्नि॑ष्वात्ता॒। इत्यग्नि॑ऽस्वात्ताः। पि॒त॒रः॒। आ। इ॒ह। ग॒च्छ॒त॒। सदः॑सद॒ इति॒ सदः॑ऽसदः। स॒द॒त॒। सु॒प्र॒णी॒त॒यः॒। सु॒प्र॒णी॒त॒य॒ इति॑ सुऽप्रनीतयः। अ॒त्त। ह॒वीँषि॑। प्रय॑ता॒नीति॒ प्रऽय॑तानि। ब॒र्हिषि॑। अथ॑। र॒यिम्। सर्व॑वीर॒मिति॒ सर्व॑ऽवीरम्। द॒धा॒त॒न॒। ८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- अ᳓ग्नि-स्वात्ताः (*TS*-1, *RV*-1, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-1, *KS*-2)
+- पितराः (मूल-पाठः)
+- ए᳓ह᳓ → **एह᳓** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *Whitney*, *TB*-1, *AV*-1, *VS-K*-1)
+- गछत (*SB-M*-3)
+- स᳓दः-सदः (*TS*-1, *RV*-2, *AV*-2, *VS-M*-1, *VS-K*-1, *KS*-1)
+- सदत (*TS*-1, *RV*-2, *AV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- सु-प्रणीतयः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-2, *AV*-1, *VS-M*-1, *VS-K*-1, *KS*-1)
+- अत्ता᳓ (*AV*-0/1, *SB-M*-31/52, *SB-K*-52/65, *KS*-1)
+- हवीं᳓षि (*TS*-18, *RV*-15, *TB*-25, *AV*-7, *SB-M*-79, *SB-K*-75, *VS-M*-7, *VS-K*-5, *KS*-4)
+- प्र᳓-यतानि (*TS*-1/3, *RV*-1/15, *TB*-0/3, *AV*-1/7, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/2, *VS-K*-1/2, *KS*-1/2)
+- बर्हि᳓षि (*TS*-12/75, *RV*-44/137, *TB*-6/76, *AV*-14/41, *SB-M*-7/75, *SB-K*-4/65, *VS-M*-9/42, *VS-K*-7/39, *KS*-0/13)
+- अ᳓था (*TS*-4, *TB*-1, *SB-M*-3, *SB-K*-8, *VS-K*-2, *KS*-6)
+- रयि᳓म् (*TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-24/35, *VS-K*-22/32, *KS*-17/27)
+- स᳓र्व-वीरम् (*TS*-1/3, *RV*-6/13, *TB*-1, *AV*-11/16, *SB-M*-2/3, *SB-K*-0/1, *VS-M*-4/5, *VS-K*-2/3, *KS*-2/3)
+- दधातन (*TS*-5, *RV*-10, *AV*-2, *VS-M*-4, *VS-K*-4, *KS*-4)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ग्नि-स्वात्ताः (*MS*-2, *TS*-1, *RV*-1, *TB*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- पितरः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-18, *TS*-14, *RV*-7, *TB*-11, *AV*-22, *SB-M*-3, *SB-K*-9, *VS-M*-17, *VS-K*-8)
+- ए᳓ह᳓ → **एह᳓** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *Whitney*, *MS*-2, *TB*-1, *AV*-1, *VS-K*-1)
+- गच्छत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-1, *TB*-2, *AV*-1, *SB-M*-1, *SB-K*-3, *VS-M*-3, *VS-K*-2)
+- स᳓दः-सदः (*MS*-1, *TS*-1, *RV*-2, *AV*-2, *VS-M*-1, *VS-K*-1)
+- सदत (*MS*-1, *TS*-1, *RV*-2, *AV*-1, *VS-M*-1, *VS-K*-1)
+- सु-प्रणीतयः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *RV*-2, *AV*-1, *VS-M*-1, *VS-K*-1)
+- अत्ता᳓ (*MS*-2, *AV*-0/1, *SB-M*-31/52, *SB-K*-52/65)
+- हन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-5, *TB*-1, *TK*-1, *MS*-1)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- इषि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- प्र᳓-यतानि (*MS*-1/5, *TS*-1/3, *RV*-1/15, *TB*-0/3, *AV*-1/7, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/2, *VS-K*-1/2)
+- बर्हिः᳓ (*MS*-69/86, *TS*-38/75, *RV*-86/137, *TB*-56/76, *AV*-24/41, *SB-M*-51/75, *SB-K*-43/65, *VS-M*-23/42, *VS-K*-21/41)
+- य᳓था (*MS*-122, *TS*-123, *RV*-238, *TB*-59, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-683, *VS-M*-27, *VS-K*-24)
+- रयि᳓म् (*MS*-51/71, *TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37)
+- स᳓र्व-वीरम् (*MS*-4/6, *TS*-1/3, *RV*-6/13, *TB*-1, *AV*-11/16, *SB-M*-2/3, *SB-K*-0/1, *VS-M*-4/5, *VS-K*-2/3)
+- दधातन (*MS*-4, *TS*-5, *RV*-10, *AV*-2, *VS-M*-4, *VS-K*-4)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -343,6 +395,15 @@ _________
 सदः सदः प्रतिगृहं सदसि सदसि । विभक्त्य्-अर्थेऽव्ययी-भावः ।
 </details>
 
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[334_10]** Ch **इह**; Brl **इ᳓ह **
+
+- **[334_11]** So T1; Ch **सदस्मदतस्मदत**; Brl **स᳓दास्सदस्सदत**; cf. RV 10, 15, 11. (Thus T1; Ch सदस्मदतस्मदत; Brl स᳓दास्सदस्सदत; cf. RV 10, 15, 11.)
+
+- **[334_12]** Ch **अर्ता **
+</details>
+
 <details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
 
 फिर भी उक्त विषय अगले मन्त्र में कहा है ॥
@@ -404,6 +465,19 @@ O fathers, made ready by Agni, come hither;
 With good leadership sit ye on each seat;  
 Eat ye the offerings set out on the strew;  
 And give us wealth with many heroes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agniṣvātta Fathers, come hither, sit down upon your respective seats, of good guidance;  
+eat the oblations proffered upon the sacrificial grass, and then bestow wealth with all heroes.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+let them come, let them listen here, let them speak for us, let them help us!' //  
+'O fathers consumed by fire, come here! Sit down, seat by seat, you of good guidance!  
+Eat the oblations presented on the sacrificial grass,
 </details>
 
 <details><summary>Geldner</summary>
