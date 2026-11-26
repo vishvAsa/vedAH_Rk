@@ -69,10 +69,30 @@ marúdbhiḥ ← marút- (nominal stem)
 म॒रुद्भि॑रग्न॒ आ ग॑हि ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+य ईङ्खयन्ति पर्वतान्  
+तिरः समुद्रम् ओजसा (…) ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ये । ई॒ङ्खय॑न्ति । पर्व॑तान् । ति॒रः । स॒मु॒द्रम् । अ॒र्ण॒वम् ।  
 म॒रुत्ऽभिः॑ । अ॒ग्ने॒ । आ । ग॒हि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- यः᳓ (*TS*-687/3401, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1907/8331, *SB-K*-1928/8549, *VS-M*-146/651, *VS-K*-116/609, *KS*-223/818, *MS*-852/3763)
+- ईङ्ख᳓यन्ति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *RV*-1)
+- प᳓र्वतान् (*TS*-0/10, *RV*-18/115, *TB*-2/5, *AV*-8/43, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-1/6, *VS-K*-1/7, *KS*-0/8, *MS*-1/17)
+- तिरः᳓ (*Whitney*, *TS*-4, *RV*-60, *TB*-1, *TK*-4, *AV*-13, *SB-M*-60, *SB-K*-65, *VS-M*-1, *MS*-8)
+- समुद्र᳓म् (*TS*-14/51, *RV*-48/131, *TB*-9/22, *TK*-0/3, *AV*-18/66, *SB-M*-10/71, *SB-K*-10/74, *VS-M*-5/35, *VS-K*-4/33, *KS*-5/14, *MS*-15/62)
+- ओ᳓जसा (*TS*-9/97, *RV*-103/169, *TB*-5/23, *TK*-0/3, *AV*-28/92, *SB-M*-13/46, *SB-K*-13/46, *VS-M*-14/37, *VS-K*-16/35, *KS*-4/30, *MS*-30/106)
+- मरु᳓द्भिः (*TS*-10/12, *RV*-36, *TB*-6, *AV*-9, *SB-M*-7, *SB-K*-6, *VS-M*-6, *VS-K*-5/6, *KS*-1, *MS*-13)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107, *KS*-72/73, *MS*-180/193)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2160, *SB-K*-2144, *VS-M*-464, *VS-K*-414, *KS*-316, *MS*-1274)
+- गहि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-7, *RV*-79, *TB*-1, *AV*-20, *SB-M*-3, *SB-K*-3, *VS-M*-6, *VS-K*-5, *KS*-4, *MS*-12)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -170,7 +190,10 @@ Those who make the mountains swing, across the undulating sea— with the Maruts
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/019/07-08.md">
 <details><summary><h2>07-08 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 Geldner (sim. Renou) supplies a verb (“kommen”) with 7b. I am, as usual, reluctant to do so, but as Elizabeth Tucker points out, swinging the mountains across the sea is a very peculiar image. I would prefer to supply the ‘stretch’ (ā́… tánvanti) of the next verse, since the b pādas of 7-8 are structually identical, producing a tr. of 7ab “Those who make the mountains swing, (as they stretch) across the undulating sea.” However, Geldner/Renou don’t construe the ‘stretch’ verb with 8b either.
+</details>
 </details>
 </div>
 

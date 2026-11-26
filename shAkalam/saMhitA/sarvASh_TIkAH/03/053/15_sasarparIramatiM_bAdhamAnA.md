@@ -83,10 +83,36 @@ devéṣu ← devá- (nominal stem)
 आ सूर्य॑स्य दुहि॒ता त॑तान॒ श्रवो॑ दे॒वेष्व॒मृत॑मजु॒र्यम् ॥
 </details>
 
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(not found in PSK)+++ससर्परीर् अमतिं बाधमाना  
+बृहन् मिमाय जमदग्निदत्ता ।  
+आ सूर्यस्य दुहिता ततान  
+श्रवो देवेष्व् अमृतम् अजुर्यम् ॥
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 स॒स॒र्प॒रीः । अम॑तिम् । बाध॑माना । बृ॒हत् । मि॒मा॒य॒ । ज॒मद॑ग्निऽदत्ता ।  
 आ । सूर्य॑स्य । दु॒हि॒ता । त॒ता॒न॒ । श्रवः॑ । दे॒वेषु॑ । अ॒मृत॑म् । अ॒जु॒र्यम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- ससर्परीः᳓ (*RV*-2)
+- अ᳓मतिम् (*TS*-4/6, *RV*-7/14, *TB*-6, *AV*-9/11, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-2, *VS-K*-2, *KS*-1, *MS*-3)
+- बा᳓धमाना (*TS*-1/4, *RV*-4/9, *TB*-1/3, *AV*-0/3, *SB-M*-1, *SB-K*-1, *VS-M*-2/3, *VS-K*-1/3, *KS*-1/2, *MS*-1/6)
+- बृह᳓त् (*TS*-57/69, *RV*-151/156, *TB*-32/33, *AV*-43, *SB-M*-31/37, *SB-K*-30/35, *VS-M*-27/28, *VS-K*-25/32, *KS*-13/15, *MS*-33/39)
+- मिमाय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-6, *AV*-1, *MS*-1)
+- जम᳓दग्नि-दत्ता (*RV*-1)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2160, *SB-K*-2144, *VS-M*-464, *VS-K*-414, *KS*-316, *MS*-1274)
+- सू᳓र्यस्य (*TS*-26/109, *RV*-84/337, *TB*-12/75, *TK*-0/8, *AV*-22/173, *SB-M*-34/152, *SB-K*-32/151, *VS-M*-8/38, *VS-K*-13/47, *KS*-6/52, *MS*-49/143)
+- दुहिता᳓ (*TS*-1/2, *RV*-30/46, *TB*-2/3, *AV*-7/12, *SB-M*-8/14, *SB-K*-8/14, *VS-M*-1, *VS-K*-1, *KS*-0/1, *MS*-3/6)
+- ततान (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-5, *RV*-11, *TB*-3, *AV*-4, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-2, *MS*-3)
+- श्र᳓वः (*Whitney*, *TS*-6/9, *RV*-87/145, *TB*-3/4, *AV*-11/12, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-4/8, *KS*-3/4, *MS*-10/16)
+- देवे᳓षु (*TS*-41/1027, *RV*-100/1342, *TB*-13/582, *TK*-1/32, *AV*-26/707, *SB-M*-41/2034, *SB-K*-46/1952, *VS-M*-35/528, *VS-K*-30/523, *KS*-13/317, *MS*-57/1216)
+- अ-मृ᳓तम् (*TS*-35/66, *RV*-45/187, *TB*-29/49, *TK*-19/39, *AV*-39/97, *SB-M*-208/332, *SB-K*-209/325, *VS-M*-40/64, *VS-K*-36/60, *KS*-19/30, *MS*-53/84)
+- अजुर्य᳓म् (*RV*-8/15, *AV*-1)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -222,6 +248,8 @@ Jamadagnis’]) fame, immortal and unaging, to the gods.
 <div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/15-16.md">
 <details><summary><h2>15-16 ...{Loading}...</h2></summary>
 
+<details><summary>Jamison Brereton Notes</summary>
+
 As indicated in the published introduction, the subject of these two vss. is the mysterious feminine sasarparī́-, which has been interpr. as differently as “Kriegstrompete” (BR, fld. by Grassmann), “Sangesgeweise” of the Viśvāmitras (Geldner), and Vāc (Anukramaṇī, Sāyaṇa.). The interpr. of these vss. has been further complicated by the later tradition that sees them as concerning the supposed rivalry between Viśvāmitra and Vasiṣṭha, for which I see no evidence at all in the RV.
 
 Although I do not think all the puzzles are ultimately solvable, some clues can get us some distance. First, sasarparī́- is a vṛkī-type fem., and as Debrunner points out (AiG II.2.369), the major use of this inflectional type is for female beings (human and animal). This lends some credence to the opinion that the sasarparī́- is a cow of some sort (e.g., Renou “La (vache) Sasarparī”). That vs. 14 concerns the ritually worthless cows of the Kīkaṭas would also support a contrast with an eminently worthy cow found among us. Second, these two vss. sound rather like a dānastuti (see jamádagnidatta- in 15b and yā́m me palastijamadagnáyo dadúḥ in 16d), and since the next part of the hymn goes off in a completely different direction, this could serve as a hymn-capping dānastuti for what precedes. Cf. I.126.2, a dānastuti hymn, where, after Kakṣīvant is given cows, he stretches the king's unaging fame to heaven: diví śrávo ‘járam ā́tatāna, highly reminiscent of our 2nd hemistich … tatāna, śrávo devéṣv amṛ́tam ajuryám.
@@ -234,6 +262,7 @@ and Dawn, one of whom bellows (mimāya as here) in vs. 13. (Acdg. to Griffith, G
 Needless to say, this is highly speculative and does not rest on properly chaste etymological principles, but it is difficult to see what could with regard to this maddening but phonologically delectable word.
 
 The next question to ask is why Sasarparī “banishes neglect” (ámatim bā́dhamānā). Again this phrase supports the notion that the referent of sasarparī́- is a cow. In I.53.4 and X.42.10 ámati- is overcome by cows; the word is paired with hunger (kṣúdh-) in VIII.66.14, X.42.10, and X.43.3. Hunger and neglect can be combatted with cows and their nourishing products, and one of the combatants is Sasarparī.
+</details>
 
 </details>
 </div>
