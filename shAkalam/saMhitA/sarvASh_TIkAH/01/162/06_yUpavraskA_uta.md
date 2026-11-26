@@ -353,7 +353,7 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-अथ सप्तमी-
+अथ सप्तमी —
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
