@@ -69,6 +69,22 @@ sumitráḥ ← sumitrá- (nominal stem)
 सु॒मि॒त्रस्सो॑म नो भव ।
 </details>
 
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+गयस्फा᳘नो ऽअमीवहा᳘ व्वसुवि᳘त्पुष्टिव᳘र्द्धनः। सुमित्रः᳘ सोम नो भवेति[[!!]]
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+गयस्फा᳘नो अमीवहा᳘ वसुवि᳘त्पुष्टिव᳘र्धनः॥  
+सुमित्रः᳘ सोम नो भवे᳘ति॥
+</details>
+
+<details><summary>मूलम् - विस्वरम् (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+" । "गयस्फानो ऽअमीवहा वसुवित्पुष्टिवर्द्धनः । सुमित्रः सोम नो भव"** इति ।
+</details>
+
 <details><summary>पद-पाठः</summary>
 
 ग॒य॒ऽस्फानः॑ । अ॒मी॒व॒ऽहा । व॒सु॒ऽवित् । पु॒ष्टि॒ऽवर्ध॑नः ।  
@@ -78,6 +94,19 @@ sumitráḥ ← sumitrá- (nominal stem)
 <details><summary>पदपाठः - तैत्तिरीयः</summary>
 
 ग॒य॒स्फान॒ इति॑ गय-स्फानः॑ । अ॒मी॒व॒हेत्य॑मीव-हा । व॒सु॒विदिति॑ वसु-वित् । पु॒ष्टि॒वर्ध॑न॒ इति॑ पुष्टि-वर्ध॑नः ॥ सु॒मि॒त्र इति॑ सु-मि॒त्रः । सो॒म॒ । नः॒ । भ॒व॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - माध्यन्दिन-ब्राह्मणम्)</summary>
+
+- गय-स्फा᳓नः (*TS*-2, *RV*-3, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-3, *MS*-3)
+- अमीव-हा᳓ (*TS*-1, *RV*-3, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-2, *MS*-4)
+- वसु-वि᳓त् (*TS*-7, *RV*-5, *AV*-1, *SB-K*-5, *VS-M*-2, *VS-K*-1, *KS*-2, *MS*-8)
+- पुष्टि-व᳓र्धनः (*TS*-1/2, *RV*-3/4, *TB*-0/2, *SB-K*-2/3, *VS-M*-1/5, *VS-K*-1/4, *KS*-2, *MS*-2/4)
+- सु-मित्रः᳓ (*TS*-1/2, *RV*-4/7, *TB*-0/1, *SB-K*-1, *KS*-1/2, *MS*-1/2)
+- सोम (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-225, *TS*-50, *AV*-10, *TB*-24, *KS*-16, *MS*-45)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *RV*-2404, *AV*-1014, *TS*-587, *VS-M*-428, *TB*-203, *TK*-14, *KS*-252, *MS*-616)
+- भ᳓व (*TS*-6/7, *RV*-38, *TB*-1, *AV*-4, *SB-K*-14, *VS-M*-7/8, *VS-K*-1/4, *KS*-3, *MS*-4)
+- इ᳓ति (*Whitney*, *TS*-1796, *AV*-1303, *TB*-1138, *RV*-83, *TK*-117, *VS-M*-2, *KS*-159, *MS*-1797)
 </details>
 
 <details><summary>Hellwig Grammar</summary>
@@ -228,6 +257,11 @@ be a good friend to us, O Soma.
 <details><summary>Geldner</summary>
 
 Den Hausstand vergrößernd, Krankheit vertreibend, Schätze findend, Wohlstand mehrend, halte, o Soma, gute Freundschaft mit uns!
+</details>
+
+<details><summary>Eggeling</summary>
+
+--(R̥g-veda S. I, 91, 12), 'An increaser of the house, a remover of trouble, a procurer of wealth, an augmenter of affluence, a kind friend he thou unto us, O Soma!'
 </details>
 
 <details><summary>Grassmann</summary>

@@ -323,8 +323,7 @@ _________
 
 <details><summary>सायण-टीका (काण्वी)</summary>
 
-सप्तदशः-
-अष्टादश:-
+सप्तदशः-अष्टादशः-
 </details>
 
 <details><summary>आनन्दबोध-टीका</summary>
