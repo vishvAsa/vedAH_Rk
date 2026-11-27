@@ -72,7 +72,8 @@ marúdbhiḥ ← marút- (nominal stem)
 <details><summary>मूलम् - पैप्पलादम् (GR)</summary>
 
 अभि त्वा पूर्वपीतये  
-सृजामि सोम्यं मधु (…) ॥
+सृजामि सोम्यं मधु  
+मरुद्भिर् अग्न आ गहि ॥
 </details>
 
 <details><summary>पद-पाठः</summary>
