@@ -1,0 +1,339 @@
++++
+title = "006"
+devataa = "कः"
+RShiH = "हिरण्यगर्भः प्राजापत्यः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - कः
+- ऋषिः - हिरण्यगर्भः प्राजापत्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+यं᳓ क्र᳓न्दसी अ᳓वसा तस्तभाने᳓  
+अभ्य् अइ᳓क्षेताम् म᳓नसा रे᳓जमाने  
+य᳓त्रा᳓धि सू᳓र उ᳓दितो विभा᳓ति  
+क᳓स्मै देवा᳓य हवि᳓षा विधेम
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular;; repeated line
+_________
+**Morph**  
+ávasā ← ávas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+krándasī ← krándas- (nominal stem)  
+{case:NOM, gender:N, number:DU}
+
+tastabhāné ← √stambhⁱ- (root)  
+{case:NOM, gender:N, number:DU, tense:PRF, voice:MED}
+
+yám ← yá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+aíkṣetām ← √īkṣ- (root)  
+{number:DU, person:3, mood:IND, tense:IPRF, voice:MED, mood:DES}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+réjamāne ← √rej- (root)  
+{case:NOM, gender:N, number:DU, tense:PRS, voice:MED}
+
+ádhi ← ádhi (invariable)  
+{}
+
+sū́raḥ ← sū́ra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+úditaḥ ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+vibhā́ti ← √bhā- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+yátra ← yátra (invariable)  
+{}
+
+devā́ya ← devá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+havíṣā ← havís- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+kásmai ← ká- (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+vidhema ← √vidh- (root)  
+{number:PL, person:1, mood:OPT, tense:AOR, voice:ACT}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+यं क्रन्द॑सी॒ अव॑सा तस्तभा॒ने अ॒भ्यैक्षे॑तां॒ मन॑सा॒ रेज॑माने ।  
+यत्राधि॒ सूर॒ उदि॑तो वि॒भाति॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+(१६६४)यं क्रन्द॑सी॒ अव॑सा तस्तभा॒ने अ॒भ्यैक्षे॑तां॒ मन॑सा॒ रेज॑माने । 
+यत्राधि॒ सूर॒ उदि॑तो वि॒भाति॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥२॥ ३४
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यङ्क्रन्द॑सी॒ अव॑सा तस्तभा॒ने अ॒भ्यैक्षे॑ता॒म्मन॑सा॒ रेज॑माने ।  
+यत्राधि॒ सूर॒ उदि॑तौ॒ व्येति॒ कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यम् । क्रन्द॑सी॒ इति॑ । अव॑सा । त॒स्त॒भा॒ने इति॑ । अ॒भि । ऐक्षे॑ताम् । मन॑सा । रेज॑माने॒ इति॑ ।  
+यत्र॑ । अधि॑ । सूरः॑ । उत्ऽइ॑तः । वि॒ऽभाति॑ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+यम्। क्रन्द॑सी॒ऽइति क्रन्द॑सी। अव॑सा। त॒स्त॒भा॒ने इति॑ तस्तऽभा॒ने। अ॒भि। ऐक्षे॑ताम्। मन॑सा। रेज॑माने॒ऽइति॒ रेज॑माने। यत्र॑। अधि॑। सूरः॑। उदि॑त॒। इत्युत्ऽइ॑तः। वि॒भाती॑ति वि॒ऽभाति॑। कस्मै॑। दे॒वाय॑। ह॒विषा॑। वि॒धे॒म॒। २।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यम् । क्रन्द॑सी॒ इति॑ । अव॑सा । त॒स्त॒भा॒ने इति॑ । अ॒भ्यैक्षे॑ता॒मित्य॑भि-ऐक्षे॑ताम् । मन॑सा । रेज॑माने॒ इति॑ ॥ यत्र॑ । अधीति॑ । सूरः॑ । उदि॑ता॒वित्युत्-इ॒तौ॒ । व्येतीति॑ वि-एति॑ । कस्मै॑ । दे॒वाय॑ । ह॒विषा॑ । वि॒धे॒म॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *yaṃ* ← *yam* ← *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *krandasī* ← *krandas*
+- \[noun\], nominative, dual, neuter
+- “army; war cry.”
+
+_________
+
+- *avasā* ← *avas*
+- \[noun\], instrumental, singular, neuter
+- “aid; favor; protection.”
+
+_________
+
+- *tastabhāne* ← *stambh*
+- \[verb noun\], nominative, dual
+- “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
+    constipate.”
+
+_________
+
+- *abhy* ← *abhī* ← *abhi*
+- \[adverb\]
+- “towards; on.”
+
+_________
+
+- *aikṣetām* ← *īkṣ*
+- \[verb\], dual, Imperfect
+- “view; see; detect; watch; consider; think; see; think; diagnose.”
+
+_________
+
+- *manasā* ← *manas*
+- \[noun\], instrumental, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+
+_________
+
+- *rejamāne* ← *rej*
+- \[verb noun\], nominative, dual
+- “tremor; flicker.”
+
+_________
+
+- *yatrādhi* ← *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+
+_________
+
+- *yatrādhi* ← *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+
+_________
+
+- *sūra* ← *sūraḥ* ← *sūra*
+- \[noun\], nominative, singular, masculine
+- “sun.”
+
+_________
+
+- *udito* ← *uditaḥ* ← *udi* ← *√i*
+- \[verb noun\], nominative, singular
+- “rise; originate; rise; increase.”
+
+_________
+
+- *vibhāti* ← *vibhā* ← *√bhā*
+- \[verb\], singular, Present indikative
+- “shine.”
+
+_________
+
+- *kasmai* ← *ka*
+- \[noun\], dative, singular, masculine
+- “what; who; ka \[pronoun\].”
+
+_________
+
+- *devāya* ← *deva*
+- \[noun\], dative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *haviṣā* ← *havis*
+- \[noun\], instrumental, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+
+_________
+
+- *vidhema* ← *vidh*
+- \[verb\], plural, Present optative
+- “worship; offer.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+यम्। क्रन्दसी- शब्दयन्त्यौ। अवसा- रक्षाशत्तया। तस्तभाने- स्थापिते। रेजमाने- कम्पमाने  द्यावापृथिव्यौ। मनसा- चित्तेन। अभ्यैक्षेताम्- ददृशतुः। यत्र। उदितः। सूरः- सूर्यः। अधि वि  भाति- प्रकाशते॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+क्रन्दितवान् रोदितवाननयोः प्रजापतिरिति **क्रन्दसी** द्यावापृथिव्यौ । श्रूयते हि -- यदरोदीत्तदनयो रोदस्त्वम् ' (तै. ब्रा. २, २. ९. ४ ) इति । ते **अवसा** रक्षणेन हेतुना लोकस्य रक्षणार्थं **तस्तभाने** प्रजापतिना सृष्टे लब्धस्थैर्ये सत्यौ **यं** प्रजापतिं **मनसा** बुद्ध्या **अभ्यैक्षेताम्** आवयोर्महत्त्वमनेन इत्यभ्यपश्येताम् ॥  ‘ ईक्ष दर्शने '। लङि अडादित्वादाद्युदात्तः॥ कीदृश्यौ द्यावापृथिव्यौ । **रेजमाने** राजमाने दीप्यमाने ॥ आकारस्य व्यत्ययेनैत्वम् । अदुपदेशाल्लसार्वधातुकानुदात्तत्वे धातुस्वरः । यद्वा। लिटः कानच् ।  ‘ फणां च सप्तानाम् ' (पा. सू. ६. ४. १२५) इत्येत्वाभ्यासलोपौ।  ‘ छन्दस्युभयथा ' इति सार्वधातुकत्वाच्छप् । अत एव  ‘ अभ्यस्तानामादिः  इत्याद्युदात्तत्वम् ॥ **यत्राधि** यस्मिन्नाधारभूते प्रजापतौ **सूरः** . सूर्यः **उदितः** उदयं प्राप्तः सन् **विभाति** प्रकाशते ॥ उत्पूर्वादेतेः कर्मणि निष्ठा ।  ‘ गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् ॥ तस्मै **कस्मै** इत्यादि सुज्ञानम् ॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+यं महानुभावं हिरण्य-गर्भम्, क्रन्दसी, क्रन्दनं रोदनं तस्माद् इत्यर्थः ।  
+प्रजापतेः क्रन्दनात् उत्पन्ने, “यद् अरोदीत् तद् अनयोः रोदस्त्वम्” (तै. ब्रा [[२२६४|२.२.६.४]]) इति श्रुतिः ।  
+किमर्थम् ? अवसा रक्षणेन निमित्तेन भय-प्रसक्तिम् आह, तस्तभाने पूर्वं सह वर्त्तमाने अपि दूर (निविन्यस्तम्) विन्यासं प्राप्नुवाने ।  
+किं च (रक्षणापेक्षणे) रक्षणापेक्षणाय मनसा [[प्रजापति|प्रजापतिं]] रेजमाने गच्छन्त्यौ सत्यौ अभ्यैक्षेताम् [[अभिमति-मकुर्वाताम्|अभिमतिम् अकुर्वाताम्]] ।  
+अनौचित्याद् द्यावा-पृथिव्याव् इति गम्यते ।  
+किं च यत्र यस्मिन् प्रजापतौ, अधि इति सप्तम्य्-अर्थानुवादि, सूरः उदितः सन् विभाति लोके प्रकाशते ।  
+कस्मा इति गतम् ।  
+अथ “आपो ह यद्” इत्य् एषा पुरोडाशस्य पुरोनुवाक्या-
+</details>
+
+<details><summary>अनन्ताचार्य-टीका</summary>
+
+'यं क्रन्दसी । 'क्रन्दसी द्यावापृथिव्यौ ।
+
+क्रन्दसी इति द्यावापृथिवीनाम ।
+
+मनसा यं परमात्मानम् अभि "ऐक्षेताम् प्रतीक्षां कुर्वाते । द्यावापृथिव्योर् विद्यमानाः सर्वे प्राणिनो यम् उपजीव्य तिष्ठन्तीत्यर्थः । कीदृश्यः अवसा । यत् कल्पितेनान्येन 'तस्तभाने । स्व स्वस्थाने वर्तमाने स्तम्भु रोधने। अस्मात् कानच् । अभ्यास-द्वित्वम् आर्षम् । अत एव 'रेजमाने शोभमाने । राजू दीप्तौ । एत्वाभ्यासश्चार्षः॥
+किं च । यत्र यस्मिन् परमात्मतेजसि 'अधि 'उदितः अधिकृत्य उत्थितः सूरः सूर्यः "विभाति विविधं भासते ।
+
+कस्मै ज्ञानानन्द-स्वरूपाय तस्मै देवाय हविषा विधेम एषो ऽर्थो बृहदारण्यकेऽभिहितः- “एतस्य वा अक्षरस्य प्रशासने गार्गि सूर्या-चन्द्रमसौ विधृतौ तिष्ठतः । एतस्य वा अक्षरस्य प्रशासने गार्गि द्यावापृथिव्यौ विधृते तिष्ठतः " ( बृउ ३.८.९) इत्यादि ॥२॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रजापतेः क्रन्दनाद्रोदनादुत्पन्ने द्यावापृथिव्यौ क्रन्दसी अत एवान्यत्राऽऽम्नातम्—‘यदरोदीत्तदनयो रोदस्त्वम्’ इति ।  
+ते च द्यावापृथिव्या-ववसा रक्षणेन निमित्तेन यं प्रजापतिं मनसाऽभ्यैक्षेतामभित ईक्षणं कृतवत्यौ अय-मावां रक्षत्वित्याशासनं कृतवत्यावित्यर्थः ।  
+कीदृशौ द्यावापृथिव्यौ, तस्तभाने देवानां मनुष्याणां चावस्थानाय स्तम्भिते, रेजमाने दीप्यमाने सूरः सूर्यो यत्राधि यस्मिन्प्रजाप-तावधिश्रित्योदितौ व्येति उदयविषये विविधं गच्छति, तादृशाय कस्मै देवाय हविषा विधेम ।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Whom heaven and earth established by his protection, and shining brightly, regarded with their mind,in whom the risen sun shines forth -- let us offer worship with an oblation to the divine Ka.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Toward whom the two battle lines [=heaven and earth] looked, steadied  with his help, though trembling in mind,  
+(those) upon which the risen sun radiates. – Who is the god to whom we  should do homage with our oblation?1594 X.122
+</details>
+
+<details><summary>Griffith</summary>
+
+To him, supported by his help, two armies embattled look while trembling in their spirit,  
+     When over them the risen Sun is shining. What God shall we adore with our oblation?
+</details>
+
+<details><summary>Keith</summary>
+
+To whom the armies stablished  
+Through his aid gazed with minds disturbed,  
+Over whom on the rising of the sun it goeth;  
+To what god shall we offer with oblation?
+</details>
+
+<details><summary>Geldner</summary>
+
+Auf den die beiden Heerhaufen, die durch seinen Beistand eine Stütze bekamen, im Geiste bebend hinblickten, auf den gestützt die aufgegangene Sonne ihr Licht ausstrahlt. - Wer ist der Gott, dem wir mit Opfer dienen sollen?
+</details>
+
+<details><summary>Grassmann</summary>
+
+Auf dessen Schutz vertrauend beide Schlachtreihn auf ihn hinblicken zitternd in dem Herzen, Dort wo die Sonne aufgegangen leuchtet, wem sollen wir als Gott mit Opfer dienen?
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+На кого взирали с трепетом в душе  
+Два войска, поддерживаемые (его) помощью,  
+На кого ярко светит взошедшее солнце –  
+Какого бога мы почтили жертвенным возлиянием?
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- कः
+- हिरण्यगर्भः प्राजापत्यः
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (क्रन्दसी) द्युलोक पृथिवीलोक (तस्तभाने) आमने-सामने स्तम्भित हुए (अवसा) रक्षण के हेतु (रेजमाने) काँपते हुए से (मनसा) मन में जैसे (यम्) जिसको (अभि-ऐक्षेताम्) देखते हुए से (यत्र-अधि) जिसके आधार पर (सूरः-उदितः) सूर्य उदय-हुआ (विभाति) प्रकाशित होता है (कस्मै...) पूर्ववत् ॥६॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  परमात्मा ने द्युमण्डल पृथिवीमण्डल को आमने-सामने स्थिर किया है-रखा है और अपने शासन में उन्हें चला रहा है, सूर्य भी उसी के आधार पर उदय होता है, ऐसे सुखस्वरूप प्रजापति के लिये उपहाररूप से अपने आत्मा को समर्पित करना चाहिये ॥६॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (क्रन्दसी) रोदसी-द्यावापृथिव्यौ “क्रन्दसी रोदसी” ‘क्रदि रोदने’ अर्थसाम्यात् रोदसी (तस्तभाने) स्तभिते (अवसा) रक्षणेन रक्षणहेतुना (रेजमाने) कम्पमाने-इव (मनसा) मनसि यथा (यम्-अभि-ऐक्षेताम्) यं खलु पश्यत इव (यत्र-अधि) यस्मिन्-अधि-यस्याधारे वा (सूरः-उदितः-विभाति) सूर्य उदयं गतः प्रकाशते (कस्मै....) पूर्ववत् ॥६॥
+</details>

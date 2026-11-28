@@ -1,0 +1,407 @@
++++
+title = "006"
+devataa = "पर्जन्यः"
+RShiH = "भौमोत्रिः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पर्जन्यः
+- ऋषिः - भौमोत्रिः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+दिवो᳓ नो वृष्टि᳓म् मरुतो ररीध्वम्  
+प्र᳓ पिन्वत वृ᳓ष्णो अ᳓श्वस्य धा᳓राः  
+अर्वा᳓ङ् एते᳓न स्तनयित्नु᳓ने᳓हि  
+अपो᳓ निषिञ्च᳓न्न् अ᳓सुरः पिता᳓ नः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+marutaḥ ← marút- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rarīdhvam ← √rā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:MED}
+
+vr̥ṣṭím ← vr̥ṣṭí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áśvasya ← áśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pinvata ← √pinv- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+prá ← prá (invariable)  
+{}
+
+vŕ̥ṣṇaḥ ← vŕ̥ṣan- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+arvā́ṅ ← arvā́ñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eténa ← eṣá (pronoun)  
+{case:INS, gender:M, number:SG}
+
+ihi ← √i- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+stanayitnúnā ← stanayitnú- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+apáḥ ← áp- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ásuraḥ ← ásura- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+niṣiñcán ← √sic- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+pitā́ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो नो॑ वृ॒ष्टिं म॑रुतो ररीध्वं॒ प्र पि॑न्वत॒ वृष्णो॒ अश्व॑स्य॒ धाराः॑ ।  
+अ॒र्वाङे॒तेन॑ स्तनयि॒त्नुनेह्य॒पो नि॑षि॒ञ्चन्नसु॑रः पि॒ता नः॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+दि॒वो नो॑ वृ॒ष्टिम्म॑रुतो ररीध्व॒म्प्र पि॑न्वत॒ वृष्णो॒ अश्व॑स्य॒ धाराः॑ ।  
+अ॒र्वाङे॒तेन॑ स्तनयि॒त्नुतेह्य॒पो नि॑षि॒ञ्चन्नसु॑रᳶ पि॒ता नः॑ ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+दिवो᳓ नो वृष्टिं᳓ मरुतो ररीध्वं प्र᳓पिन्वत वृ᳓ष्णो अ᳓श्वस्य धा᳓राः।  
+अर्वा᳓ङेते᳓न स्तनयित्नु᳓ह्यपो᳓ निषिञ्च᳓न्न᳓सुरः पिता᳓ नः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒वः । नः॒ । वृ॒ष्टिम् । म॒रु॒तः॒ । र॒री॒ध्व॒म् । प्र । पि॒न्व॒त॒ । वृष्णः॑ । अश्व॑स्य । धाराः॑ ।  
+अ॒र्वाङ् । ए॒तेन॑ । स्त॒न॒यि॒त्नुना॑ । आ । इ॒हि॒ । अ॒पः । नि॒ऽसि॒ञ्चन् । असु॑रः । पि॒ता । नः॒ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+दि॒वः । नः॒ । वृ॒ष्टिम् । म॒रु॒तः॒ । र॒री॒ध्व॒म् । प्रेति॑ । पि॒न्व॒त॒ । वृष्णः॑ । अश्व॑स्य । धाराः॑ ॥ अ॒र्वाङ् । ए॒तेन॑ । स्त॒न॒यि॒त्नुना॑ । एति॑ । इ॒हि॒ । अ॒पः । नि॒षि॒ञ्चन्निति॑ नि-सि॒ञ्चन् । असु॑रः । पि॒ता । नः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- वृष्टि᳓म् (*MS*-7/32, *TS*-4/24, *RV*-26/52, *TB*-0/3, *TK*-0/1, *AV*-0/3, *SB-M*-0/9, *SB-K*-1/11, *VS-M*-0/4, *VS-K*-5/13)
+- मरुतः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-23, *TS*-17, *RV*-152, *TB*-9, *AV*-18, *SB-M*-1, *SB-K*-1, *VS-M*-4, *VS-K*-2)
+- ररीध्वम् (*TS*-1, *RV*-1)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- पिन्वत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *TB*-1, *AV*-1, *SB-M*-1, *SB-K*-9)
+- वृ᳓ष्णः (*MS*-8/15, *TS*-9/14, *RV*-44/78, *TB*-3/4, *AV*-7/13, *SB-M*-4, *SB-K*-4/6, *VS-M*-11/13, *VS-K*-10/12)
+- अ᳓श्वस्य (*MS*-12/117, *TS*-24/126, *RV*-18/226, *TB*-38/167, *AV*-14/76, *SB-M*-48/262, *SB-K*-49/255, *VS-M*-10/56, *VS-K*-8/52)
+- धा᳓राः (*MS*-3/14, *TS*-7/25, *RV*-27/107, *TB*-0/2, *TK*-1/3, *AV*-9/13, *SB-M*-3/41, *SB-K*-3/39, *VS-M*-7/11, *VS-K*-7/10)
+- अर्वा᳓ङ् (*MS*-2, *TS*-3, *RV*-24, *TB*-4, *AV*-13, *SB-M*-4, *SB-K*-3, *VS-M*-3, *VS-K*-1)
+- एते᳓न (*MS*-126/2587, *TS*-62/1673, *RV*-3/320, *TB*-110/858, *TK*-13/130, *AV*-4/340, *SB-M*-404/11086, *SB-K*-375/10669, *VS-M*-0/129, *VS-K*-1/104)
+- स्तनयित्नु᳓ (*MS*-1/3, *TS*-2, *RV*-0/1, *TK*-0/1, *AV*-5/10, *SB-M*-11/15, *SB-K*-7/9, *VS-M*-1/2, *VS-K*-1/2)
+- हि (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-5, *TB*-25, *TK*-5, *SB-M*-21, *SB-K*-8, *VS-K*-3, *MS*-14)
+- अपः᳓ (*MS*-86/374, *TS*-54/319, *RV*-159/532, *TB*-22/152, *TK*-2/14, *AV*-59/324, *SB-M*-140/760, *SB-K*-130/744, *VS-M*-21/146, *VS-K*-19/124)
+- नि-सिञ्च᳓न् (*TS*-1, *RV*-1, *AV*-1)
+- अ᳓सुरः (*MS*-2/156, *TS*-4/111, *RV*-18/56, *TB*-1/45, *TK*-1, *AV*-5/44, *SB-M*-1/143, *SB-K*-4/165, *VS-M*-3/8, *VS-K*-1/6)
+- पिता᳓ (*MS*-40/157, *TS*-34/121, *RV*-66/254, *TB*-18/111, *TK*-4/6, *AV*-55/228, *SB-M*-76/321, *SB-K*-79/317, *VS-M*-23/80, *VS-K*-19/75)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *divo* ← *divaḥ* ← *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *vṛṣṭim* ← *vṛṣṭi*
+- \[noun\], accusative, singular, feminine
+- “rain; shower; rainy season.”
+
+_________
+
+- *maruto* ← *marutaḥ* ← *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+
+_________
+
+- *rarīdhvam* ← *rā*
+- \[verb\], plural, Present imperative
+- “give; impart.”
+
+_________
+
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *pinvata* ← *pinv*
+- \[verb\], plural, Present imperative
+- “swell; swell; overflow; abound.”
+
+_________
+
+- *vṛṣṇo* ← *vṛṣṇaḥ* ← *vṛṣan*
+- \[noun\], genitive, singular, masculine
+- “bullocky; potent; powerful; strong; manly; aroused; potent;
+    much(a); male; large.”
+
+_________
+
+- *aśvasya* ← *aśva*
+- \[noun\], genitive, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+
+_________
+
+- *dhārāḥ* ← *dhārā*
+- \[noun\], accusative, plural, feminine
+- “flush; flow; current; spring; fountain.”
+
+_________
+
+- *arvāṅ* ← *arvāñc*
+- \[noun\], nominative, singular, masculine
+- “approaching; facing; less.”
+
+_________
+
+- *etena* ← *etad*
+- \[noun\], instrumental, singular, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+
+_________
+
+- *stanayitnunehy* ← *stanayitnunā* ← *stanayitnu*
+- \[noun\], instrumental, singular, masculine
+- “thunder; cloud; lightning.”
+
+_________
+
+- *stanayitnunehy* ← *ihi* ← *i*
+- \[verb\], singular, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+
+_________
+
+- *apo* ← *apaḥ* ← *ap*
+- \[noun\], accusative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+
+_________
+
+- *niṣiñcann* ← *niṣiñcan* ← *niṣic* ← *√sic*
+- \[verb noun\], nominative, singular
+- “submerge; sprinkle; pour; immerse; water.”
+
+_________
+
+- *asuraḥ* ← *asura*
+- \[noun\], nominative, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+
+_________
+
+- *pitā* ← *pitṛ*
+- \[noun\], nominative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+
+_________
+
+- *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+मरुतः- हे वाताः। दिवः- नभसः। वृष्टिम्। ररीध्वम्- दत्त। वृष्णः- वर्षकस्य। अश्वस्य- व्याप्तस्य  पर्जन्यस्य धाराः- उदकधाराः। पिन्वत- क्षरत। एतेन- अनेन। स्तनयित्नुना। अर्वाञ्चम्-  अस्मदभिमुखम्। असुरः- प्राणदः। नः- अस्माकम्। पिता- पालकः पर्जन्यः। अपः- उदकानि।  निषिञ्चन्- क्षरन्। इहि- आगच्छ॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **मरुतः** यूयं **दिवः** अन्तरिक्षसकाशात् **नः** अस्मदर्थं **वृष्टिं** **ररीध्वं** दत्त । **वृष्णः** वर्षकस्य **अश्वस्य** व्यापकस्य मेघस्य संबन्धिन्यः **धाराः** उदकधाराः **प्र** **पिन्वत** प्रक्षरत । हे पर्जन्य त्वम् **एतेन** **स्तनयित्नुना** गर्जता मेघेन सह **अर्वाङ्** अस्मदभिमुखम् **एहि** आगच्छ। किं कुर्वन् । **अपः** अम्भांसि **निषिञ्चन्** स देवः **असुरः** उदकानां निरसितापि सन् **नः** अस्माकं **पिता** पालकश्च ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे मरुतः नः अस्मदर्थं दिवो वृष्टिं ररीध्वं स्रावयत । री स्रवणे, व्यत्ययेन शपश्श्लुः, वर्णव्यत्ययेनाभ्यासस्येत्वम् । वृष्णः वर्षितुः इन्द्रस्य अश्वस्य व्याप्तिमतः धाराः वर्षधाराः प्रपिन्वत प्रकर्षेण आसिञ्चत । पिवि मिवि सेचने, चङ् । हे वृषन् इन्द्र त्वमपि अर्वाङ् अस्मदभिमुखं याहि आगच्छ । एतेन मेघेन स्तनयित्नुना शब्दयता सहागच्छ । 'ओमाङोश्च' इति पररूपत्वम् । अपो निषिञ्चन् वर्षन् असुरः आसनकुशलः । असेरुरन् । असुमान्वा, असुप्रदो वा । प्रजानां नोस्माकं पिता पाता ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[161_8]** Ch, T1, T3, Brl न
+
+- **[161_9]** T1, T3, Brl रोरध्वं
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Send down for us, **Maruts**, the rain from heaven; drops of the rainy charger descend; come down **Parjanya**, sprinkling water by this thundering (cloud); you who are the sender of rain, our protector.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Drops of the rainy charger: vṛṣṇo **aśvasya**: aśvasya = vyāpakasya, or the pervading rain
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Grant us rain from heaven, o Maruts; make the streams of the bullish  stallion swell forth.  
+(Parjanya,) come nearby with this thundering, pouring down the waters  as the lord, our father.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+The default referent of ásuraḥ pitā́naḥ “the lord, our father” here is of course Parjanya, since this is a Parjanya hymn and the subject is urged to pour out water (cf., e.g., Hale, Asura, 46-47). However, I wonder if this is not rather a reference to Dyaus Pitar, or at least an identification of Parjanya with Dyaus Pitar.
+
+For Heaven as pitár- ásura-, see X.124.3 as well as disc. and other related passages in my “The Divine Revolution of RV X.124” (Ged. Staal, 2016), 294, and of course Zeus famously ‘rains’ in Greek.
+</details>
+
+<details><summary>Griffith</summary>
+
+Send down for us the rain of heaven, ye Maruts, and let the Stallion's flood descend in torrents.  
+     Come hither with this thunder while thou pourest the waters down, our heavenly Lord and Father.
+</details>
+
+<details><summary>Keith</summary>
+
+From the sky grant us rain, O ye Maruts;  
+Make ye to swell the streams of the strong steed  
+Come hither with this thunder,  
+Pouring the waters, the Asura our father.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+when the rain of these [Maruts] has been released.  
+Grant us the rain of heaven, O Maruts; cause the streams of the stallion to swell;  
+come hitherward with this thundering, our father, the asura, pouring down the waters!
+</details>
+
+<details><summary>Macdonell</summary>
+
+The rain of heaven bestow, O Maruts, on us, Of your strong steed pour forth the streams abundant. With this thy thundering roar do thou come hither, And shed the waters as our heavenly father.
+</details>
+
+<details><summary>Geldner</summary>
+
+Ihr Marut, spendet uns des Himmels Regen, lasset des Hengstes Strahlen hervorquellen. Komm näher mit diesem Gedonnere, die Wasser herabgießend, unser Vater Asura!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Des Himmels Regen spendet uns, o Maruts, des brünst'gen Hengstes Ströme lasset schnellen; Komm nah herbei mit dieser Donnerwolke, ergiessend Wasser, uns ein thät'ger Vater.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Дайте нам, о Маруты, дождь с неба!  
+Сделайте, чтобы били ключом потоки жеребца!  
+Подойди в наши края с этим громом,  
+Выливая воду, о Асура, отец наш!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पृथिवी
+- अत्रिः
+- निचृज्जगती
+- निषादः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर वह मेघ कैसा है, इस विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (मरुतः) वायुवद्वर्त्तमान मनुष्यो ! आप लोग (नः) हम लोगों के लिये (दिवः) सूर्य्य से (वृष्टिम्) वृष्टि को (ररीध्वम्) दीजिये तथा (वृष्णः) वर्षनेवाले (अश्वस्य) बड़े मेघ के (धाराः) प्रवाहों को (प्र, पिन्वत) सींचिये और जो (अर्वाङ्) नीचे वर्त्तमान और (एतेन) इस (स्तनयित्नुना) बिजुली रूप से (अपः) जलों को (निषिञ्चन्) अत्यन्त सेचन करता हुआ (असुरः) मेघ (नः) हम लोगों के (पिता) उत्पन्न करनेवाले पिता के सदृश पालन करनेवाला (आ, इहि) प्राप्त होता है, उसको आप लोग विशेष करके जनिये ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे विद्वानो ! जिन कर्म्मों से वृष्टि अधिक होवे, उन कर्म्मों का सेवन कीजिये ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मरुतो ! यूयं नो दिवो वृष्टिं ररीध्वं वृष्णोऽश्वस्य धाराः प्र पिन्वत योऽर्वाङ् वर्त्तमान एतेन स्तनयित्नुनाऽपो निषिञ्चन्नसुरो नः पितेव पालको मेघ एहि तं यूयं विजानीत ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनः सः मेघः कीदृश इत्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (दिवः) सूर्य्यात् (नः) अस्मभ्यम् (वृष्टिम्) (मरुतः) वायुवद्वर्त्तमाना मनुष्याः (ररीध्वम्) दत्त (प्र) (पिन्वत) सिञ्चत (वृष्णः) वर्षकस्य (अश्वस्य) महतः। अश्व इति महन्नामसु पठितम्। (निघं०३.३) (धाराः) प्रवाहान् (अर्वाङ्) अधो वर्त्तमानः (एतेन) (स्तनयित्नुना) विद्युद्रूपेण (आ) (इहि) आगच्छन्ति। अत्र व्यत्ययः। (अपः) जलानि (निषिञ्चन्) नितरां सेचनं कुर्वन् (असुरः) मेघः। असुर इति मेघनामसु पठितम्। (निघं०१.१) (पिता) जनक इव पालकः (नः) अस्माकम् ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे विद्वांसो ! यैः कर्मभिर्वृष्टिरधिका भवेत्तानि कर्म्माणि सेवध्वम् ॥६॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे विद्वानांनो! ज्या कार्याने वृष्टी अधिक होईल असे कर्म करा. ॥ ६ ॥
+</details>

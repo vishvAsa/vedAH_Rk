@@ -1,0 +1,356 @@
++++
+title = "006"
+devataa = "आपः अपान्नपाद्वा"
+RShiH = "कवष ऐलूषः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - आपः अपान्नपाद्वा
+- ऋषिः - कवष ऐलूषः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+एवे᳓द् यू᳓ने युवत᳓यो नमन्त  
+य᳓द् ईम् उश᳓न्न् उशती᳓र् ए᳓ति अ᳓छ  
+सं᳓ जानते म᳓नसा सं᳓ चिकित्रे  
+अध्वर्य᳓वो धिष᳓णा᳓पश् च देवीः᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+evá ← evá (invariable)  
+{}
+
+ít ← ít (invariable)  
+{}
+
+namanta ← √nam- 1 (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+yū́ne ← yúvan- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+yuvatáyaḥ ← yuvatí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ácha ← ácha (invariable)  
+{}
+
+éti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+uśán ← √vaś- (root)  
+{tense:PRS, voice:ACT}
+
+uśatī́ḥ ← √vaś- (root)  
+{case:NOM, gender:F, number:PL, tense:PRS, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+cikitre ← √cit- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+jānate ← √jñā- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sám ← sám (invariable)  
+{}
+
+sám ← sám (invariable)  
+{}
+
+adhvaryávaḥ ← adhvaryú- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́paḥ ← áp- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+devī́ḥ ← devī́- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dhiṣáṇā ← dhiṣáṇā- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+ए॒वेद्यूने॑ युव॒तयो॑ नमन्त॒ यदी॑मु॒शन्नु॑श॒तीरेत्यच्छ॑ ।  
+सं जा॑नते॒ मन॑सा॒ सं चि॑कित्रेऽध्व॒र्यवो॑ धि॒षणाप॑श्च दे॒वीः ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+एवे᳓द्यू᳓ने युवत᳓यो नमन्त य᳓दीमुश᳓न्नुशती᳓रे᳓त्य᳓च्छ।  
+सं᳓जानते म᳓नसा सं᳓चिकित्रे ऽध्वर्य᳓वो धिष᳓णा᳓पश्च देवीः᳓
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒व । इत् । यूने॑ । यु॒व॒तयः॑ । न॒म॒न्त॒ । यत् । ई॒म् । उ॒शन् । उ॒श॒तीः । एति॑ । अच्छ॑ ।  
+सम् । जा॒न॒ते॒ । मन॑सा । सम् । चि॒कि॒त्रे॒ । अ॒ध्व॒र्यवः॑ । धि॒षणा॑ । आपः॑ । च॒ । दे॒वीः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- एव᳓ (*MS*-2376, *TS*-3243, *RV*-173, *TB*-1830, *TK*-77, *AV*-335, *SB-M*-9571, *SB-K*-8573, *VS-M*-24, *VS-K*-14)
+- इत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-77, *TB*-27, *TK*-4, *MS*-31)
+- यू᳓ने (*MS*-0/17, *TS*-0/11, *RV*-6/68, *TB*-0/8, *AV*-1/13, *SB-M*-0/4, *SB-K*-0/5, *VS-M*-0/4, *VS-K*-0/4)
+- युवत᳓यः (*MS*-1/2, *TS*-1/2, *RV*-9/36, *TB*-1/5, *AV*-2/6, *SB-M*-1/2, *SB-K*-1/2)
+- नमन्त (*RV*-5, *AV*-2, *VS-M*-1)
+- य᳓दीमुश᳓न्नुशती᳓रे᳓त्य᳓च्छ → **य᳓दीमुशन्नुशतीरेत्यच्छ** (अनेकोदात्त-दोषः पा॰ ६.१.१५८)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- जानते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-4, *AV*-1, *SB-M*-5, *SB-K*-3, *MS*-3)
+- म᳓नसा (*MS*-63/147, *TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78)
+- स᳓म् (*MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- चिकित्रे (*RV*-4)
+- अध्वर्य᳓वः (*MS*-0/73, *TS*-2/96, *RV*-7/28, *TB*-2/34, *TK*-0/1, *AV*-0/4, *SB-M*-7/299, *SB-K*-7/250, *VS-M*-1/11, *VS-K*-1/11)
+- धिष᳓णा᳓ → **धिष᳓णा** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MS*-14/16, *TS*-4/11, *RV*-14/27, *TB*-6/7, *AV*-1/4, *SB-M*-5/8, *SB-K*-5/9, *VS-M*-4/7, *VS-K*-4/9)
+- पश्च (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- देवीः᳓ (*MS*-50/90, *TS*-16/38, *RV*-42/118, *TB*-25/48, *TK*-0/4, *AV*-25/61, *SB-M*-24/38, *SB-K*-20/28, *VS-M*-33/55, *VS-K*-24/64)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *eved* ← *eva*
+- \[adverb\]
+- “indeed; merely; thus; even; surely; same; eva \[word\];
+    successively; immediately; in truth.”
+
+_________
+
+- *eved* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+
+_________
+
+- *yūne* ← *yuvan*
+- \[noun\], dative, singular, masculine
+- “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
+    buck; young.”
+
+_________
+
+- *yuvatayo* ← *yuvatayaḥ* ← *yuvati*
+- \[noun\], nominative, plural, feminine
+- “girl; woman.”
+
+_________
+
+- *namanta* ← *nam*
+- \[verb\], plural, Present injunctive
+- “bow; bend; condescend; worship; bend; lower.”
+
+_________
+
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+
+_________
+
+- *īm* ← *īṃ*
+- \[adverb\]
+
+_________
+
+- *uśann* ← *uśan* ← *vaś*
+- \[verb noun\], nominative, singular
+- “desire; agree; call; care; like; love.”
+
+_________
+
+- *uśatīr* ← *uśatīḥ* ← *vaś*
+- \[verb noun\], accusative, plural
+- “desire; agree; call; care; like; love.”
+
+_________
+
+- *ety* ← *eti* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+
+_________
+
+- *accha* ← *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+
+_________
+
+- *saṃ* ← *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+
+_________
+
+- *jānate* ← *jñā*
+- \[verb\], plural, Present indikative
+- “know; diagnose; perceive; know; come to know; notice; determine;
+    think of; find; learn; perceive; identify; recognize; understand;
+    know; learn; ascertain; detect; deem.”
+
+_________
+
+- *manasā* ← *manas*
+- \[noun\], instrumental, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+
+_________
+
+- *saṃ* ← *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+
+_________
+
+- *cikitre* ← *cit*
+- \[verb\], plural, Perfect indicative
+- “notice; observe; attend to; intend.”
+
+_________
+
+- *'dhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
+- \[noun\], nominative, plural, masculine
+- “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
+
+_________
+
+- *dhiṣaṇāpaś* ← *dhiṣaṇā*
+- \[noun\], nominative, singular, feminine
+- “heaven and earth.”
+
+_________
+
+- *dhiṣaṇāpaś* ← *apaḥ* ← *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *devīḥ* ← *deva*
+- \[noun\], accusative, plural, feminine
+- “divine.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। ईम्- एताः। उशतीः- कामयमाना मूलशक्तिधाराः। अच्छ- अभिलक्ष्य। उशन्-  इच्छन्। अग्निः। एति- गच्छति। तदा। यूने- युवकायाग्नये। युवतयः- मूलशक्तिधाराः। एव-  एवम्। नमन्त- नमस्कुर्वन्ति। देवीः आपश्च- दिव्या मूलशक्तिधाराश्च। अध्वर्यवो धिषणा-  ध्वररहिताग्नेर्धीश्च। सं जानते- सम्यक् जानन्ति। सं चिकित्रे- सम्यक् परस्परं पश्यन्ति॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**युवतयः** तरुण्यः स्त्रियः **यूने** तरुणाय **नमन्त** यथा प्रह्वीभवन्ति **एव** एवं वसतीवर्येकधनाख्या आपः सोमाय प्रह्वीभवन्ति । यद्वा । युवतयः सोमेन सह मिश्रयित्र्य आपो यूने अभिषवादिकर्मणामात्मना सह मिश्रयित्रे कर्त्रेऽध्वर्यवे नमन्त प्रह्वीभवन्त्येव । **इत्** इति पूरणः । कदा । **यत्** यदा **उशन्** अभिषवार्थं वसतीवरीः कामयमानः सोमः सोमाभिषवं कर्तुं कामयमानः अध्वर्युर्वा **उशतीः** सोमेन सह मिश्रीभावमभिषवादिकर्माङ्गभावं च कामयमानाः **ईम्** एना अपः **अच्छ** प्राप्तुम् **एति** गच्छति तदोपनमन्ते । **अध्वर्यवो** **धिषणा** तदीया स्तुतिलक्षणा वाक् च **देवीः** देव्यः **आपश्च** **मनसा** विशिष्टया बुद्ध्या **सं** **जानते** सम्यग्जानन्ति **सं** **चिकित्रे** स्वं स्वमधिकारं परस्परोपकारं च चक्षुषा सम्यक् पश्यन्ति ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[197_12]** So D, ohne Accent; Brl und T1 सञ्चिकितें ; descl. Ch, ohne Accent; W1 सञ्चिकेते (Thus D, without accent; Brl and T1 सञ्चिकितें; likewise Ch, without accent; W1 सञ्चिकेते)
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Verily as young damsels welcome a youth when desiring (them), he comes to them desiring (him), sothe priests and their praise and the divine waters agree in mind and contemplate (their mutual assistance).”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Theyouth and nymphs are the **Soma** and the Vasatīvarī waters; nothing more is meant than their mixture
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Just in that way young women accede to a young man, when he goes to  them who are eager as he is eager.  
+They are agreed in mind and they perceive alike—the Adhvaryus, the  Holy Place, and the divine waters.
+</details>
+
+<details><summary>Griffith</summary>
+
+So maidens bow before the youthful gallant who comes with love to them who yearn to meet him.  
+     In heart accordant and in wish one-minded are the Adhvaryus and the heavenly Waters.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Even thus do the young maidens bow to the youth, when desiring he approaches them desiring;  
+the priests, the Dhiṣaṇās, and the divine Waters agree with mind, they attend together.
+</details>
+
+<details><summary>Geldner</summary>
+
+Ebenso ergeben sich die Jungfrauen dem Jüngling, wenn er verlangend zu den Verlangenden kommt. Sie sind im Herzen einverstanden, sie stimmen zusammen: die Adhvaryu´s, die Dhisana und die göttlichen Gewässer.
+</details>
+
+<details><summary>Grassmann</summary>
+
+So beugen sich die Jungfraun vor dem Jüngling, wenn liebend er den liebenden sich nahet; Sie sind vereint im Herzen, eines Sinnes, der Somanapf, die Priester und die Wasser.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Вот так девицы покоряются юноше,  
+Когда, жаждя их, он идет (к ним,) жаждущим.  
+Они едины мыслью, едины намерением,  
+О адхварью, Дхишана и божественные воды.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आप अपान्नपाद्वा
+- कवष ऐलूषः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यूने युवतयः-नमन्त) मिश्रण स्वभाववाले जन के लिये मिश्रण स्वभाववाली पारिवारिक स्त्रियाँ नम्र स्वभाव से वर्तनेवाली हो जाती हैं (एव-इत्) ऐसे ही (यत्-ईम्) जब भी (उशन्-उशतीः-अच्छ-एति) प्रजा को चाहनेवाला राजा, राजा को चाहनेवाली प्रजाओं को प्राप्त होता है (अध्वर्यवः) हे राजसूययज्ञ के नेता ऋत्विजों !(मनसा सं जानते सं चिकित्रे)मनोभाव से राज्याभिषेकार्थ राजसूययज्ञ के द्वारा राजा से संयुक्त होते हैं, सहमत होते हैं तथा सम्यक् देखते हैं-अच्छा मानते हैं (धिषणा-आपः-देवीः-च) प्रतिज्ञारूप वाणी के द्वारा दिव्य प्रजाएँ भी सहमत होती हैं और सम्यक् देखती हैं-अच्छा मानती हैं ॥६॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  राजा प्रजाजन परस्पर वैर भाव से रहित एक दूसरे से मिश्रण स्वभाव रखनेवाले होने चाहिएँ और राष्ट्र के अन्य नेताजन भी उत्तम गुणों से युक्त हुए सहमति से वर्तें ॥६॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यूने युवतयः-नमन्त) मिश्रयित्रे जनाय मिश्रयित्र्यो नार्यो नम्रीभवन्ति (एव-इत्) एवं हि (यत्-ईम्) यदा खलु (उशन्-उशतीः-अच्छ-एति) प्रजाः कामयमानो राजा तथा राजानं कामयमानाः प्रजाः प्रति खल्वभ्येति-अभिप्राप्नोति (अध्वर्यवः) राजसूययज्ञस्य नेतार ऋत्विजः “अध्वर्युरध्वरस्य नेता” [निरु० १।८] (मनसा सञ्जानते सञ्चिकित्रे) मनोभावेन राज्याभिषेकार्थं राजसूये कार्ये संयुज्यन्ते सहमता भवन्ति तथा सम्यक् पश्यन्ति साधु मन्यन्ते (धिषणा-आपः देवीः च) प्रतिज्ञारूपया वाचा च “धिषणा वाङ्नाम” [निघं० १।११] “सुपां सुलुक्” [अष्टा० ७।१।३९] इति टाविभक्तेलुर्क् दिव्याः प्रजाश्च सञ्जानते सहमता भवन्ति तथा च सम्यक् कल्याणं पश्यन्ति-अनुभवन्ति ॥६॥
+</details>

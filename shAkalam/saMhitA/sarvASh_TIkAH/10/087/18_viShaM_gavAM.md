@@ -1,0 +1,319 @@
++++
+title = "018"
+devataa = "अग्नी रक्षोहा"
+RShiH = "पायुः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्नी रक्षोहा
+- ऋषिः - पायुः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+विषं᳓ ग᳓वां यातुधा᳓नाः पिबन्तु  
+आ᳓ वृश्च्यन्ताम् अ᳓दितये दुरे᳓वाः  
+प᳓रैनान् देवः᳓ सविता᳓ ददातु  
+प᳓रा भाग᳓म् ओ᳓षधीनां जयन्ताम्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+gávām ← gáv- ~ gó- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+pibantu ← √pā- 2 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+viṣám ← viṣá- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yātudhā́nāḥ ← yātudhā́na- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áditaye ← áditi- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+durévāḥ ← duréva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+vr̥ścyantām ← √vr̥śc- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:PASS}
+
+dadātu ← √dā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+enān ← ena- (pronoun)  
+{case:ACC, gender:M, number:PL}
+
+párā ← párā (invariable)  
+{}
+
+savitā́ ← savitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jayantām ← √ji- 1 (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:MED}
+
+óṣadhīnām ← óṣadhī- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+párā ← párā (invariable)  
+{}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+वि॒षं गवां॑ यातु॒धानाः॑ पिब॒न्त्वा वृ॑श्च्यन्ता॒मदि॑तये दु॒रेवाः॑ ।  
+परै॑नान्दे॒वः स॑वि॒ता द॑दातु॒ परा॑ भा॒गमोष॑धीनां जयन्ताम् ॥
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+विषं गवां यातुधानाः पिबन्त्व्  
+आ वृश्चन्ताम् अदितये दुरेवाः ।  
+परैणान् देवः सविता ददातु +++(Bhatt. paraiṇāṃ)+++  
+परा भागम् ओषधीनां जयन्ताम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि॒षम् । गवा॑म् । या॒तु॒ऽधानाः॑ । पि॒ब॒न्तु॒ । आ । वृ॒श्च्य॒न्ता॒म् । अदि॑तये । दुः॒ऽएवाः॑ ।  
+परा॑ । ए॒ना॒न् । दे॒वः । स॒वि॒ता । द॒दा॒तु॒ । परा॑ । भा॒गम् । ओष॑धीनाम् । ज॒य॒न्ता॒म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- विष᳓म् (*RV*-10/15, *TB*-0/1, *AV*-52/62, *SB-M*-6/8, *SB-K*-7/9, *MS*-2/3)
+- ग᳓वाम् (*TS*-4/109, *RV*-52/521, *TB*-1/50, *AV*-16/195, *SB-M*-6/168, *SB-K*-4/149, *VS-M*-1/67, *VS-K*-2/67, *KS*-0/13, *MS*-13/141)
+- यातु-धा᳓नाः (*TS*-1/2, *RV*-3/22, *TB*-0/1, *AV*-5/42, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-1/4, *VS-K*-1/3, *MS*-0/1)
+- पिबन्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-3, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *MS*-1)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-564, *TK*-33, *AV*-1040, *SB-M*-2160, *SB-K*-2144, *VS-M*-464, *VS-K*-414, *KS*-194, *MS*-1207)
+- वृश्चन्ता᳓म् (फिषोऽन्त उदात्तः फि॰ १.१)
+- अ᳓दितये (*TS*-2/98, *RV*-7/155, *TB*-0/40, *TK*-0/2, *AV*-5/48, *SB-M*-2/100, *SB-K*-3/87, *VS-M*-2/63, *VS-K*-4/79, *KS*-0/17, *MS*-2/113)
+- दुः-ए᳓वाः (*TS*-1, *RV*-7/14, *TB*-0/1, *AV*-1/9, *KS*-0/1)
+- प᳓रा (समानान्तर-पाठः (RV), *TS*-90, *RV*-78, *TB*-45, *TK*-4, *AV*-86, *SB-M*-58, *SB-K*-62, *VS-M*-9, *VS-K*-11, *KS*-18, *MS*-93)
+- एणा᳓न् (फिषोऽन्त उदात्तः फि॰ १.१, *SB-K*-0/1)
+- देवः᳓ (*TS*-66/1027, *RV*-210/1342, *TB*-39/527, *TK*-2/31, *AV*-94/707, *SB-M*-86/2034, *SB-K*-81/1952, *VS-M*-65/528, *VS-K*-65/523, *KS*-11/201, *MS*-84/1095)
+- सविता᳓ (*TS*-50/120, *RV*-103/157, *TB*-28/58, *TK*-3, *AV*-80/96, *SB-M*-128/226, *SB-K*-109/198, *VS-M*-47/119, *VS-K*-44/110, *KS*-8/26, *MS*-61/121)
+- ददातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-9, *RV*-14, *AV*-13, *SB-M*-7, *SB-K*-6, *VS-M*-8, *VS-K*-3, *KS*-3, *MS*-8)
+- प᳓रा (समानान्तर-पाठः (RV), *TS*-90, *RV*-78, *TB*-45, *TK*-4, *AV*-86, *SB-M*-58, *SB-K*-62, *VS-M*-9, *VS-K*-11, *KS*-18, *MS*-93)
+- भाग᳓म् (*TS*-9/55, *RV*-43/57, *TB*-7/16, *AV*-22/45, *SB-M*-45/111, *SB-K*-44/112, *VS-M*-8/29, *VS-K*-9/45, *KS*-4/10, *MS*-24/77)
+- ओ᳓षधीनाम् (*TS*-25/114, *RV*-9/89, *TB*-16/52, *TK*-0/1, *AV*-25/86, *SB-M*-24/93, *SB-K*-28/98, *VS-M*-5/44, *VS-K*-5/49, *KS*-7/21, *MS*-45/132)
+- ज᳓यन्ताम् (*TS*-0/3, *RV*-0/7, *TB*-0/6, *AV*-0/6, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-0/3, *VS-K*-0/3, *KS*-0/1, *MS*-0/2)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *viṣaṃ* ← *viṣam* ← *viṣa*
+- \[noun\], accusative, singular, neuter
+- “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
+    \[word\]; Viṣa; myrrh; myrrh.”
+
+_________
+
+- *gavāṃ* ← *gavām* ← *go*
+- \[noun\], genitive, plural
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+
+_________
+
+- *yātudhānāḥ* ← *yātudhāna*
+- \[noun\], nominative, plural, masculine
+- “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
+
+_________
+
+- *pibantv* ← *pibantu* ← *pā*
+- \[verb\], plural, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+
+_________
+
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *vṛścyantām* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+
+_________
+
+- *aditaye* ← *aditi*
+- \[noun\], dative, singular, feminine
+- “Aditi; aditi \[word\].”
+
+_________
+
+- *durevāḥ* ← *dureva*
+- \[noun\], nominative, plural, masculine
+- “malevolent; bad; crabbed.”
+
+_________
+
+- *parainān* ← *parā*
+- \[adverb\]
+- “away.”
+
+_________
+
+- *parainān* ← *enān* ← *enad*
+- \[noun\], accusative, plural, masculine
+- “this; he,she,it (pers. pron.).”
+
+_________
+
+- *devaḥ* ← *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *savitā* ← *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+
+_________
+
+- *dadātu* ← *dā*
+- \[verb\], singular, Present imperative
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+
+_________
+
+- *parā*
+- \[adverb\]
+- “away.”
+
+_________
+
+- *bhāgam* ← *bhāga*
+- \[noun\], accusative, singular, masculine
+- “part; part; part; parcel; quarter; body part; location; region;
+    allotment; part; numerator; division; application; function;
+    outside; bhāga \[word\]; volume; helping.”
+
+_________
+
+- *oṣadhīnāṃ* ← *oṣadhīnām* ← *oṣadhi*
+- \[noun\], genitive, plural, feminine
+- “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
+
+_________
+
+- *jayantām* ← *ji*
+- \[verb\], plural, Present imperative
+- “overcome; cure; win; conquer; control; win; succeed; remove; beat;
+    govern; surpass; suppress.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+यातुधानाः- यातनाधारिणः। गवां विषम्- गोहरणपापफलाख्यपतनम्। पिबन्तु- अनुभवन्तु।  दुरेवाः- दुस्तरा यातुधानाः। अदितये- पृथिवीक्षेमाय गोक्षेमाय वा। आ वृश्यन्ताम्-  आच्छिद्यन्ताम्। देवः सविता- सूर्यः। एनान्- एतान् यातुधानान्। परा ददातु- दूरे क्षिपतु। देवा  उपासका वा। ओषधीनां भागम्। परा जयन्ताम्- लभन्ताम्॥१८॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अग्ने **यातुधानाः** राक्षसाः **गवां** पशूनां गृहे स्थितं **विषं** **पिबन्तु** । किंच **अदितये** अदित्यर्थं **दुरेवाः** दुस्तरा यातुधानाः **आ** **वृश्च्यन्तां** त्वदीयैरायुधैराच्छिद्यन्ताम् । किंच **सविता** **देवः** **एनान्** राक्षसान् **परा** **ददातु** हिंस्रेभ्यः प्रयच्छतु । अपि च तेऽमी राक्षसाः **ओषधीनां** स्वभूतं **भागं** भजनीयमन्नं **परा** **जयन्तां** लभन्तामित्यर्थः ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Let the **Yātudhāna** drink poison from the cattle; let the (**rākṣasas**) hard to overcome be cut topieces for the sake of **Aditi**; may the divine **Savitā** give them over (to destruction), may they be deprived of thefood of herbs.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+I.e., may they take the food of herbs
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Let the sorcerers drink cows’ poison. Let those of evil ways be cut down  before Aditi [/Innocence].  
+Let the god Savitar hand them over. Let them be despoiled of their  
+portion of plants.
+</details>
+
+<details><summary>Griffith</summary>
+
+Let the fiends drink the poison of the cattle; may Aditi cast off the evildoers.  
+     May the God Savitar give them up to ruin, and be their share of plants and herbs denied them.
+</details>
+
+<details><summary>Geldner</summary>
+
+Gift sollen die Zauberer von den Kühen trinken, die Bösewichter sollen sich der Aditi entfremden! Gott Savitri soll sie ausliefern; ihren Anteil an den Pflanzen sollen sie verspielen.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Das Gift der Kühe mög der Zaubrer trinken, vom ew'gen Wohlsein sei getrennt der Böse, Gott Saviter lass' ihn zu Grunde gehen, er büsse ein die Nahrung der Gewächse.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Яд у коров пьют колдуны!  
+Пусть злоумышленники отделятся от Адити!  
+Пусть откажется от них бог Савитар!  
+Пусть утратят они (свою) долю в растениях!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्नी रक्षोहा
+- पायुः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यातुधानाः)यातनाधारक (गवां विषं पिबन्तु) गौ आदियों के दूध को न पीवे, किन्तु मूत्र को पीवे (अदितये दुरेवाः) माता बहिन के प्रति दुराचारवाले (परैः-वृश्च्यन्ताम्) पर प्रहारकों द्वारा छिन्न-भिन्न किये जावें (देवः-सविता-एनान् परा ददातु) राजा इनको दण्डदाताओं के लिये सोंप दे (ओषधीनां भागं परा जयन्तु) औषधियों के भाग को प्राप्त हों, अन्य नहीं ॥१८॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  यातना देनेवाले को गौ का दूध न दिया जावे, केवल अन्न मिले, प्रहारकों से दण्ड मिले ॥१८॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यातुधानाः) यातनाधारकाः (गवां विषं पिबन्तु) गवादीनां दुग्धं तु न पिबन्तु किन्तु मूत्रं पिबन्तु “विषमुदकनाम” [निघ० १।२] (अदितये दुरेवाः) मात्रे स्वस्रे दुराचाराः (परैः-वृश्च्यन्ताम्) परैश्छिद्यन्तां (देवाः सविता-एनान् परा ददातु) सविता प्रजापतिः-प्रजापालको राजा “प्रजापतिर्वै सविता” [गो० १६।५।१७] एतान् दण्डदातृभ्यः समर्पयतु (ओषधीनां भागं परा जयन्तु) ओषधीनां भागं प्राप्नुवन्तु नान्यत् ॥१८॥
+</details>

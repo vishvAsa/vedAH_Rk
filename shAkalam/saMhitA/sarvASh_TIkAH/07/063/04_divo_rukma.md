@@ -1,0 +1,346 @@
++++
+title = "004"
+devataa = "सूर्यः"
+RShiH = "वसिष्ठः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सूर्यः
+- ऋषिः - वसिष्ठः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+दिवो᳓ रुक्म᳓ उरुच᳓क्षा उ᳓द् एति  
+दूरे᳓अर्थस् तर᳓णिर् भ्रा᳓जमानः  
+नूनं᳓ ज᳓नाः सू᳓रियेण प्र᳓सूता  
+अ᳓यन्न् अ᳓र्थानि कृण᳓वन्न् अ᳓पांसि
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+rukmáḥ ← rukmá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+urucákṣāḥ ← urucákṣas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+út ← út (invariable)  
+{}
+
+bhrā́jamānaḥ ← √bhrāj- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+dūréarthaḥ ← dūréartha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+taráṇiḥ ← taráṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jánāḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+nūnám ← nūnám (invariable)  
+{}
+
+prásūtāḥ ← √sū- 1 (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+sū́ryeṇa ← sū́rya- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+ápāṁsi ← ápas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+árthāni ← ártha- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+áyan ← √i- 1 (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+kr̥ṇávan ← √kr̥- (root)  
+{number:PL, person:3, mood:SBJV, tense:PRS, voice:ACT}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+दि॒वो रु॒क्म उ॑रु॒चक्षा॒ उदे॑ति दू॒रेअ॑र्थस्त॒रणि॒र्भ्राज॑मानः ।  
+नू॒नं जनाः॒ सूर्ये॑ण॒ प्रसू॑ता॒ अय॒न्नर्था॑नि कृ॒णव॒न्नपां॑सि ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+दि॒वो रु॒क्म उ॑रु॒चक्षा॒ उदे॑ति ।   
+दू॒रे अ॑र्थस्त॒रणि॒र्भ्राज॑मानः ।  
+नू॒नञ्जना॒स्सूर्ये॑ण॒ प्रसू॑ताः ।   
+आयन्नर्था॑नि कृ॒णव॒न्नपाँ॑सि ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+दिवो᳓ रुक्म᳓ उरुच᳓क्षा उ᳓देति दूरे᳓अर्थस्तर᳓णिर्भ्रा᳓जमानः।  
+नूनं᳓ ज᳓नास्सू᳓र्येण प्र᳓सूता अ᳓यन्न᳓र्थानि कृण᳓वन्न᳓पाँसि
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दि॒वः । रु॒क्मः । उ॒रु॒ऽचक्षाः॑ । उत् । ए॒ति॒ । दू॒रेऽअ॑र्थः । त॒रणिः॑ । भ्राज॑मानः ।  
+नू॒नम् । जनाः॑ । सूर्ये॑ण । प्रऽसू॑ताः । अय॑न् । अर्था॑नि । कृ॒णव॑न् । अपां॑सि ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+दिवः᳓ । रुक्मः᳓ । उरु-च᳓क्षाः । उ᳓त् । एति । दूरे᳓ । अर्थः । तर᳓णिः । भ्रा᳓जमानः । नून᳓म् । ज᳓नाः । सू᳓र्येण । प्र᳓-सूताः । आ᳓-य᳓न् । अ᳓र्थानि । कृण᳓वन् । अ᳓पांसि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- रुक्मः᳓ (*MS*-10/17, *TS*-9/16, *RV*-8/19, *TB*-3/9, *TK*-1, *SB-M*-30/43, *SB-K*-29/42, *VS-M*-5/6, *VS-K*-6/7)
+- उरु-च᳓क्षाः (*RV*-2, *TB*-1, *AV*-1)
+- उ᳓त् (*MS*-339, *TS*-274, *RV*-293, *TB*-176, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-667, *VS-M*-114, *VS-K*-85)
+- एति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-136, *TS*-152, *RV*-120, *TB*-80, *TK*-20, *AV*-43, *SB-M*-306, *SB-K*-293, *VS-K*-2)
+- दूरे᳓-अर्थः (*RV*-1)
+- तर᳓णिः (*MS*-2/3, *TS*-1/2, *RV*-11/19, *TB*-2, *AV*-2/4, *VS-M*-1)
+- भ्रा᳓जमानः (*MS*-1/2, *TS*-1, *RV*-2/3, *TB*-1, *TK*-0/1, *AV*-2/6, *SB-M*-1/2, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- नून᳓म् (*MS*-9, *TS*-5, *RV*-104, *TB*-4, *AV*-13, *SB-M*-8, *SB-K*-8, *VS-M*-12, *VS-K*-5)
+- ज᳓नाः (*MS*-4/62, *TS*-3/35, *RV*-22/298, *TB*-1/27, *AV*-14/92, *SB-M*-7/26, *SB-K*-7/26, *VS-M*-5/27, *VS-K*-4/27)
+- सू᳓र्येण (*MS*-5/143, *TS*-7/109, *RV*-41/337, *TB*-5/75, *TK*-0/8, *AV*-7/173, *SB-M*-6/152, *SB-K*-6/151, *VS-M*-1/38, *VS-K*-1/47)
+- प्र᳓-सूताः (*MS*-0/3, *TS*-0/2, *RV*-2/5, *TB*-2/7, *AV*-1/4, *SB-M*-2/12, *SB-K*-1/12, *VS-M*-0/3, *VS-K*-0/1)
+- अ᳓यन् (*TS*-1/4, *RV*-3/4, *TB*-1, *TK*-1, *AV*-0/8, *SB-M*-2/10, *SB-K*-13, *VS-M*-0/1, *VS-K*-0/1, *MS*-3)
+- अ᳓र्थानि (*MS*-0/2, *TS*-0/2, *RV*-1/29, *TB*-1/2, *TK*-0/1, *AV*-0/5, *SB-M*-0/5, *SB-K*-0/15, *VS-M*-0/3, *VS-K*-0/4)
+- कृण᳓वन् (*RV*-2, *TB*-1, *AV*-1)
+- अ᳓पांसि (*MS*-0/9, *TS*-0/7, *RV*-13/48, *TB*-1/4, *AV*-0/6, *SB-M*-0/6, *SB-K*-0/5, *VS-M*-0/1, *VS-K*-0/1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *divo* ← *divaḥ* ← *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+
+_________
+
+- *rukma* ← *rukmaḥ* ← *rukma*
+- \[noun\], nominative, singular, masculine
+- “adornment.”
+
+_________
+
+- *urucakṣā* ← *uru*
+- \[noun\]
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+
+_________
+
+- *urucakṣā* ← *cakṣāḥ* ← *cakṣas*
+- \[noun\], nominative, singular, masculine
+- “eye; look; radiance.”
+
+_________
+
+- *ud*
+- \[adverb\]
+- “up.”
+
+_________
+
+- *eti* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+
+_________
+
+- *dūrearthas* ← *dūrearthaḥ* ← *dūreartha*
+- \[noun\], nominative, singular, masculine
+
+_________
+
+- *taraṇir* ← *taraṇiḥ* ← *taraṇi*
+- \[noun\], nominative, singular, masculine
+- “energetic; agile.”
+
+_________
+
+- *bhrājamānaḥ* ← *bhrāj*
+- \[verb noun\], nominative, singular
+- “shine; glitter; look.”
+
+_________
+
+- *nūnaṃ* ← *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+
+_________
+
+- *janāḥ* ← *jana*
+- \[noun\], nominative, plural, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+
+_________
+
+- *sūryeṇa* ← *sūrya*
+- \[noun\], instrumental, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+
+_________
+
+- *prasūtā* ← *prasūtāḥ* ← *prasū* ← *√sū*
+- \[verb noun\], nominative, plural
+- “give birth; be born; originate; impel; propel; grow.”
+
+_________
+
+- *ayann* ← *ayan* ← *i*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+
+_________
+
+- *arthāni* ← *artha*
+- \[noun\], accusative, plural, neuter
+- “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
+    money; message; object; artha \[word\]; wealth; function; content;
+    topic; property; situation; reason; affair; concern; reason;
+    enterprise; reason; cause; five; application; application.”
+
+_________
+
+- *kṛṇavann* ← *kṛṇavan* ← *kṛ*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+
+_________
+
+- *apāṃsi* ← *apas*
+- \[noun\], accusative, plural, neuter
+- “work; deed.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+दिवः- नभसः। रुक्मः- हिरण्यभूतो भूषणभूतः। उरुचक्षाः- प्रभूततेजाः। उदेति। दूरेअर्थः- दूरे  गन्ता। तरणिः- तारकः। भ्राजमानः- दीप्तः। नूनम्- निश्चयेन। जनाः- विशः। सूर्येण- सवित्रा  आत्मना वा। प्रसूताः- प्रेरिताः। अर्थानि- पुरुषार्थान् प्रति। अयन्- सरन्तः। अपांसि- कर्माणि।  कृणवन्- कुर्वन्ति॥४॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अयं सूर्यः **रुक्मः** रोचमानः **उरुचक्षाः** प्रभूततेजाश्च सन् **दिवः** अन्तरिक्षात् **उदेति** । यद्वा दिवोऽन्तरिक्षस्य रुक्म आभरणस्थानीयः । कीदृशोऽयम्। 'दूरेअर्थः दूरे गन्ता। अर्थोऽर्तेः । दूरे प्रार्थ्यमानो वा । **तरणिः** तारकः **भ्राजमानः** दीप्यमानः सन्नुदेति । **नूनं** निश्चयं **जनाः** सर्वे प्राणिनः **सूर्येण** प्रेरकेण देवेन **प्रसूताः** अनुज्ञाताः प्रेरिताः सन्तः **अर्थानि** गन्तव्यानि अनुष्ठेयानि **अपांसि** कर्माणि 'कृणवन् कुर्वन्ति ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कीदृशः? दिवो रुक्मः स्वर्गस्य भासकः । उरुचक्षाः उरुषु विस्तीर्णेषु पृथिव्यादिलोकेषु प्रकाशकः । दूरेअर्थः दूरदेशविषयेऽर्थो गमनरूपं प्रयोजनं यस्यासौ दूरेअर्थः ।   
+बहुदूरगमनं च पुराणे स्मर्यते -   
+योजनानां सहस्रे द्वे द्वे शते द्वे च योजने ।  
+एकेन निमिषार्धेन क्रममाण नमोऽस्तु ते ॥ इति ।  
+
+तादृशोऽयं भ्राजमानो दीप्यमानो वर्तते । नूनं वश्यं जनाः सर्वे सूर्येण प्रसूताः प्रेरिताःसन्तः अर्थानि अर्थ्यमानानि कृष्यादिफलानि आयन् प्राप्नुवन्ति । अपांसि वैदिकानि कर्माणि कृणवन् कुर्वन्ति ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[142_6]** D दूरेअर्थास्तु॰
+
+- **[142_7]** Brl ज᳓नस्सू᳓र्येण; desgl. W 1, ohne Accent; Ch जना सू॰ (Brl ज᳓नस्सू᳓र्येण; likewise W 1, without accent; Ch जना सू॰)
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The bright and glorious sun rises from the firmament far-going, traversing (the heavens), diffusing light;verily all beings animated by **Sūrya** proceed and execute their assigned labours.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+The bright ornament of heaven, having a broad gaze, rises upward— he whose goal is in the far distance, gleaming as he crosses over  
+(toward it).  
+Now the peoples, impelled forth by the Sun, will go toward their goals,  and they will perform their tasks.
+</details>
+
+<details><summary>Griffith</summary>
+
+Golden, far-seeing, from the heaven he riseth: far is his goal, he hasteth on resplendent.  
+     Men, verily, inspirited by Surya speed to their aims and do the work assigned them.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The ornament of heaven, wide-seeing, rises, aiming far, crossing over, resplendent;  
+now impelled by the sun, men go to their aims and perform their works.
+</details>
+
+<details><summary>Geldner</summary>
+
+Des Himmels Goldschmuck, der weitschauende geht auf, mit dem fernen Reiseziel, durchhaltend, strahlend. Nun sollen die Leute von Surya angetrieben an ihre Geschäfte gehen, ihre Arbeiten verrichten.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Weitschauend steigt empor des Himmels Goldschmuck, nach weitem Ziele dringend, hell erstrahlend, Durch ihn ermuntert mögen nun die Menschen ihr Ziel verfolgen, ihre Werke wirken.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Золотое украшение неба, далеко глядящий (бог) восходит,  
+(Тот,) чья цель далеко, пересекающий (мир), сверкающий.  
+Пусть же сейчас люди, побужденные Сурьей,  
+Отправятся по (своим) делам, возьмутся за работу!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सूर्यः
+- वसिष्ठः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (तरणिः) सब का तारक (भ्राजमानः) प्रकाशरूप (दूरेअर्थः) सर्वत्र परिपूर्ण (दिवः रुक्मः) द्युलोक का प्रकाशक (उरुचक्षाः) सर्वद्रष्टा परमात्मा उन लोगों के हृदय में (उदेति) उदय होता है, जो (जनाः) पुरुष (नूनम्) निश्चय करके (सूर्येण) परमात्मा के बतलाये हुए (अयन्) मार्गों पर चलते हुए (प्रसूताः) नूतन जन्मवाले (अर्थानि) सार्थक (अपांसि) कर्म (कृणवन्) करते हैं॥४॥
+</details>
+
+<details><summary>आर्यमुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  परमात्मा उपदेश करते हैं कि हे पुरुषो ! सन्मार्ग दिखलानेवाला प्रकाशस्वरूप परमात्मा सर्वत्र परिपूर्ण और चमकते हुए द्युलोक का भी प्रकाशक है, वह स्वतःप्रकाश प्रभु उन पुरुषों के हृदय में प्रकाशित होता है, जो उसकी आज्ञा का पालन करते और वेदविहित कर्म करके सफलता को प्राप्त होते हैं ॥ तात्पर्य यह है कि यावदायुष वेदविहित कर्म करनेवाले सत्कर्मी पुरुषों के हृदय में परमात्मा का प्रकाश होता है, निरुद्यमी, आलसी तथा अज्ञानियों के हृदय में नहीं, इसी भाव को “कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः” यजु॰ ४०।२॥ इस मन्त्र में निरूपण किया है कि वेदविहित कर्म करते हुए ही सौ वर्ष जीने की इच्छा करो ॥४॥
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (तरणिः) सर्वस्य तारकः (भ्राजमानः) प्रकाशस्वरूपः (दूरेअर्थः) सर्वत्र परिपूर्णः (दिवः) द्युलोकस्य (रुक्मः) प्रकाशकः (उरुचक्षाः) सर्वद्रष्टा, एवंविधः परमात्मा तेषां हृदये (उदेति) आविर्भवति, (जनाः) ये मनुष्याः (नूनम्) निश्चयेन (सूर्येण) परमात्मोपदिष्टेन मार्गेण (अयन्) गच्छन्तः (प्रसूताः) प्रेरिताः (अर्थानि) अनुष्ठेयानि (अपांसि) कर्माणि (कृणवन्) कुर्वन्ति ॥४॥
+</details>

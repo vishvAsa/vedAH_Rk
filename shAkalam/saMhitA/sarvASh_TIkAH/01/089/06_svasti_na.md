@@ -1,0 +1,517 @@
++++
+title = "006"
+devataa = "विश्वेदेवाः"
+RShiH = "गोतमो राहूगणः"
+ChandaH = "विराट्स्थाना"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - गोतमो राहूगणः
+- छन्दः - विराट्स्थाना
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+सुअस्ति᳓ न · इ᳓न्द्रो वृद्ध᳓श्रवाः  
+सुअस्ति᳓ नः · पूषा᳓ विश्व᳓वेदाः  
+सुअस्ति᳓ नस् ता᳓र्क्ष्यो अ᳓रिष्टनेमिः  
+सुअस्ति᳓ नो बृ᳓हस्प᳓तिर् दधातु
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal on metrical evidence alone
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+vr̥ddháśravāḥ ← vr̥ddháśravas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+viśvávedāḥ ← viśvávedas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+áriṣṭanemiḥ ← áriṣṭanemi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tā́rkṣyaḥ ← tā́rkṣya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bŕ̥haspátiḥ ← bŕ̥haspáti- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dadhātu ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+svastí ← svastí- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+स्व॒स्ति न॒ इन्द्रो॑ वृ॒द्धश्र॑वाः स्व॒स्ति नः॑ पू॒षा वि॒श्ववे॑दाः ।  
+स्व॒स्ति न॒स्तार्क्ष्यो॒ अरि॑ष्टनेमिः स्व॒स्ति नो॒ बृह॒स्पति॑र्दधातु ॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+स्वस्ति᳓ ना इ᳓न्द्रो वृद्ध᳓श्रवाः स्वस्ति᳓ नः पूषा᳓ विश्व᳓वेदाः  
+स्वस्ति᳓ नस् ता᳓र्क्ष्यो अ᳓रिष्टनेमिः स्वस्ति᳓ नो बृ᳓हस्प᳓तिर् दधातु
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्व॒स्ति । नः॒ । इन्द्रः॑ । वृ॒द्धऽश्र॑वाः । स्व॒स्ति । नः॒ । पू॒षा । वि॒श्वऽवे॑दाः ।  
+स्व॒स्ति । नः॒ । तार्क्ष्यः॑ । अरि॑ष्टऽनेमिः । स्व॒स्ति । नः॒ । बृह॒स्पतिः॑ । द॒धा॒तु॒ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+स्व॒स्ति। नः॒। इन्द्रः॑। वृ॒द्धश्र॑वा॒ इति॑ वृ॒द्धऽश्र॑वाः। स्व॒स्ति। नः॒। पू॒षा। वि॒श्ववेदा॒ इति॑ वि॒श्वऽवे॑दाः। स्व॒स्ति। नः॒। तार्क्ष्यः॑। अरि॑ष्टनेमि॒रित्यरि॑ष्टऽनेमिः। स्व॒स्ति। नः॒। बृह॒स्पतिः॑। द॒धा॒तु॒। १९।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+स्व॒स्ति। नः॒। इन्द्रः॑। वृ॒द्धश्र॑वा॒ इति॑ वृ॒द्धऽश्र॑वाः। स्व॒स्ति। नः॒। पू॒षा। वि॒श्ववेदा॒ इति॑ वि॒श्वऽवे॑दाः। स्व॒स्ति। नः॒। तार्क्ष्यः॑। अरि॑ष्टनेमि॒रित्यरि॑ष्टऽनेमिः। स्व॒स्ति। नः॒। बृह॒स्पतिः॑। द॒धा॒तु॒। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- स्वस्ति᳓ (*TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2, *KS*-8)
+- नाः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/388, *VS-K*-93/358, *KS*-72/189)
+- वृद्ध᳓-श्रवाः (*TS*-1, *RV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2/3, *KS*-1)
+- स्वस्ति᳓ (*TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2, *KS*-8)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- पूषा᳓ (*TS*-36/70, *RV*-53/86, *TB*-21/35, *TK*-1, *AV*-19/24, *SB-M*-45/84, *SB-K*-46/85, *VS-M*-15/51, *VS-K*-15/47, *KS*-16/32)
+- विश्व᳓-वेदाः (*TS*-9/14, *RV*-8, *TB*-3, *AV*-2, *SB-M*-2, *SB-K*-3, *VS-M*-6, *VS-K*-7/10, *KS*-6)
+- स्वस्ति᳓ (*TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2, *KS*-8)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- ता᳓र्क्ष्यः (*TS*-1, *RV*-1/2, *AV*-0/1, *SB-M*-2, *SB-K*-2, *VS-M*-2, *VS-K*-2/3, *KS*-1)
+- अ᳓रिष्ट-नेमिः (*TS*-1, *RV*-1/3, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-1)
+- स्वस्ति᳓ (*TS*-25, *RV*-56, *TB*-3, *AV*-26, *SB-M*-28, *SB-K*-29, *VS-K*-2, *KS*-8)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-428, *VS-K*-348, *KS*-252)
+- बृ᳓हस्प᳓तिः (*TS*-70/84, *RV*-53, *TB*-23, *TK*-4, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31, *KS*-23)
+- दधातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-22, *RV*-13, *TB*-5, *TK*-2, *AV*-49, *SB-M*-24, *SB-K*-28, *VS-M*-13, *VS-K*-10, *KS*-11)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *svasti*
+- \[noun\], accusative, singular, neuter
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+
+_________
+
+- *na* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *indro* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *vṛddhaśravāḥ* ← *vṛddha* ← *vṛdh*
+- \[verb noun\]
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+
+_________
+
+- *vṛddhaśravāḥ* ← *śravāḥ* ← *śravas*
+- \[noun\], nominative, singular, masculine
+- “fame; glory; ear.”
+
+_________
+
+- *svasti*
+- \[noun\], accusative, singular, neuter
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+
+_________
+
+- *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *pūṣā* ← *pūṣan*
+- \[noun\], nominative, singular, masculine
+- “Pushan; pūṣan \[word\]; sun.”
+
+_________
+
+- *viśvavedāḥ* ← *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *viśvavedāḥ* ← *vedāḥ* ← *vedas*
+- \[noun\], nominative, singular, masculine
+- “property.”
+
+_________
+
+- *svasti*
+- \[noun\], accusative, singular, neuter
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+
+_________
+
+- *nas* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *tārkṣyo* ← *tārkṣyaḥ* ← *tārkṣya*
+- \[noun\], nominative, singular, masculine
+- “emerald; Garuda; Shiva.”
+
+_________
+
+- *ariṣṭanemiḥ* ← *ariṣṭa*
+- \[noun\]
+- “safe; unharmed.”
+
+_________
+
+- *ariṣṭanemiḥ* ← *nemiḥ* ← *nemi*
+- \[noun\], nominative, singular, masculine
+- “rim; felloe.”
+
+_________
+
+- *svasti*
+- \[noun\], accusative, singular, neuter
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
+- \[noun\], nominative, singular, masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+
+_________
+
+- *dadhātu* ← *dhā*
+- \[verb\], singular, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+वृद्धश्रवाः- प्रभूतचिदाकाशस्थमन्त्रश्रवणशक्तिधारकः । इन्द्रः- परमेश्वरः। नः- अस्माकम्।  स्वस्ति- शोभनसत्तां दधातु। विश्ववेदाः- विश्वज्ञानसंपन्नः। पूषा- पोषकः सूर्यः। नः स्वस्ति।  अरिष्टनेमिः- आवरणैरनिरुद्धगतिः। नेमी रथचक्रधारा या गतिप्रतीकभूता। तार्क्ष्यः- गरुडो  मोक्षप्रतीकः। नः स्वस्ति। बृहस्पतिः- मेधाधिदेवः। नः- अस्माकम्। स्वस्ति दधातु॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**वृद्धश्रवाः** वृद्धं प्रभूतं श्रवः श्रवणं स्तोत्रं हविर्लक्षणमन्नं वा यस्य तादृशः **इन्द्रः** **नः** अस्माकम् । ‘स्वस्तीत्स्यविनाशनाम ' ( निरु. ३. २१)। **स्वस्ति** अविनाशं **दधातु** विदधातु करोतु । **विश्ववेदाः**। विश्वानि वेत्तीति विश्ववेदाः । यद्वा विश्वानि सर्वाणि वेदांसि ज्ञानानि धनानि वा यस्य । तादृशः **पूषा** पोषको देवः **नः** अस्माकं **स्वस्ति** विदधातु । **अरिष्टनेमिः** । नेमिः इति आयुधनाम । अरिष्टोऽहिंसितो नेमिर्यस्य । यद्वा रथचक्रस्य धारा नेमिः । यत्संबन्धिनो रथस्य नेमिर्न हिंस्यते सोऽरिष्टनेमिः। एवंभूतः **तार्क्ष्यः** तृक्षस्य पुत्रो गरुत्मान् नः अस्माकं **स्वस्ति** अविनाशं विदधातु । तथा **बृहस्पतिः** बृहतां देवानां पालयिता **नः** अस्माकं **स्वस्ति** अविनाशं विदधातु ॥ वृद्धश्रवाः । बहुव्रीहौ पूर्वपदप्रकृतिस्वरत्वम् । विश्ववेदाः । ‘ विद ज्ञाने', ‘ विद्लृ लाभे'। आभ्यामसुन्प्रत्ययान्तो वेदशब्दः । ‘ बहुव्रीहौ विश्वं संज्ञायाम्' इति पूर्वपदान्तोदात्तत्वम् । तार्क्ष्यः । तृक्षस्यापत्यम् । गर्गादिभ्यो यञ्' (पा. सू. ४. १. १०५ )। ञित्वादाद्युदात्तत्वम् । अरिष्टनेमिः । न रिष्टा अरिष्टा । अव्ययपूर्वपदप्रकृतिस्वरत्वम् । अरिष्टा नेमिर्यस्य स तथोक्तः । बृहस्पतिः । ‘ तद्बृहतोः करपत्योः०' (पा. सू. ६. १. १५७. ग. ) इति सुट्तलोपौ ।' उभे वनस्पत्यादिषु । इति पूर्वोत्तरपदयोर्युगपत्प्रकृतिस्वरत्वम् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पूर्वत्र प्रत्यक्षेण प्रार्थिता देवाः । अत्र तु परोक्षेण निर्दिश्य एकैकशः प्रार्थ्यन्ते । नः अस्माकं स्वस्ति अविनाशं अध्ययनादेरविघ्नेन समाप्तिं इन्द्रो दधातु विदधातु वृद्धश्रवाः वृद्धश्रवणः सदा स्तोत्रश्रवणात् । यद्वा - वृद्धैः महात्मभिः सदा श्रूयत इति वृद्धश्रवाः । "गतिकारकपूर्वयोः पूर्वपदप्रकृतिस्वरत्वं च" इति कर्मण्यसुन्(ण्यसिः) । तथा पूषा च स्वस्ति नः दधातु विश्ववेदाः विश्वैर्विद्यते ज्ञायते लभ्यते वेति विश्ववेदाः । पूर्ववदसुन्(सिः) । यद्वा - विश्वानि ज्ञानानि धनानि वा यस्येति बहुव्रीहिः । एवं तार्क्ष्यः अपि नः स्वस्ति दधातु । तार्क्ष्यो नाम छन्दोमयो रथः यः "स्वस्त्ययनं तार्क्ष्यमरिष्टनेमिः" इत्युक्तः । विहगराजो वा । तृक्षस्यापत्यं तार्क्ष्यः "गर्गादिभ्यो यञ्" । अरिष्टनेमिः अनुपक्षीणनेमिः । प्रथिर्नेमिः । बृहस्पतिश्च नः स्वस्ति दधातु । "तद्बृहतोः" सति सुट् । "उभे वनस्पत्यादिषु" इति पूर्वोत्तरपदयोः युगपत्प्रकृतिस्वरत्वम् ॥२॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+स्वस्ति नः स्वस्ति स्वस्त्ययनम् नः अस्माकम् इन्द्रः दधातु स्थापयतु।  
+कथं-भूतः।  
+वृद्ध-श्रवाः प्रभूत-धनः।  
+महा-शब्दो महा-कीर्तिर् वा स्वस्ति नो ऽस्माकं पूषा ददातु।  
+कथं-भूतः। विश्व-वेदाः सर्व-ज्ञो वा। स्वस्ति नः तार्क्ष्यो दधातु। कथं-भूतः। अरिष्ट-नेमिः अनुपहिंसितासुः।  
+स्वस्ति नः अस्माकं बृहस्पतिश् च दधातु॥ १९॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+विराट्-स्थाना।  
+आद्यौ पादौ नव-वर्णौ तृतीयो दशकः तुर्यो व्यूहेनैकादशकः ‘नवकौ वैराजस् त्रैष्टुभश् च’ इति वचनात्।  
+इन्द्रः नो ऽस्मभ्यं स्वस्ति अविनाशं शुभं दधातु ददातु।  
+कीदृशः।  
+वृद्ध-श्रवाः वृद्धं महत् श्रवः कीर्तिर् यस्य सः।  
+पूषा नः स्वस्ति ददातु।  
+कीदृशः।  
+विश्व-वेदाः विश्वं [[सर्व|सर्वं]] वेदो धनं यस्य विश्वं वेत्तीति वा विश्व-वेदाः।  
+तार्क्ष्यो रथो गरुडो वा नः स्वस्ति [[दधातु|ददातु]]।  
+कीदृशः।  
+अरिष्ट-नेमिः अरिष्टा अनुपहिंसिता नेमिश् चक्र-धारा पक्षो वा यस्य सः।  
+बृहस्पतिः देव-गुरुर् नो ऽस्मभ्यं स्वस्ति ददातु॥ १९॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ षष्ठी —  
+वृद्ध-श्रवाः, श्रव इति अन्नस्य [[कीर्त्तर्वा|कीर्त्तेर् वा]] नामधेयम्।  
+प्रवृद्धं श्रवो यस्य सः तथोक्तः।  
+तथा-विध इन्द्रः, नः अस्माकम्, स्वस्ति क्षेमं स्वस्त्ययनं दधातु स्थापयतु।  
+विश्व-वेदाः, विश्वं सर्वं वेत्तीति, विश्वं सर्वं वेदो धनं यस्य इति वा विश्व-वेदाः, तथा-विधः पूषा, नः अस्माकं स्वस्ति अविनाशं विदधातु।  
+अपि च अरिष्ट-नेमिः अनुपहसितासुः तार्क्ष्यः, [[न|नः]] अस्माकम्, स्वस्ति क्षेम-प्रापणं दधातु।  
+तथा बृहस्पतिर् देवः, नः अस्माकम्, स्वस्ति दधातु।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+‘स्वस्ति नः' इति ।  
+वैश्वदेवी विराट् ।  
+वृद्धः प्रवृद्धः श्रवः कीर्तिर् यस्य सः वृद्ध-श्रवाः प्रभूत-धनः ।  
+नः अस्माकं स्वस्ति ।  
+अस भुवीत्य् अस्य सु-पूर्वस्य रूपम् ।  
+शोभन-सद्-भावः स्वस्त्य्-अयनं दधातु ।  
+‘स्वस्ति नः पूषा [[विश्वेवदाः|विश्व-वेदाः]]' ।  
+विश्वं सर्वं वेदो धनं यस्य स तथा ।  
+स्वस्तीत्य् अविनाशि-नाम ।  
+विश्वं वेत्ति वेदयतीति वा विश्व-वेदाः ।  
+पूषा नः अस्माकं स्वस्ति दधातु स्थापयतु ।  
+'स्वस्ति नस् तार्क्ष्यो अरिष्ट-नेमिः' ।  
+अनुपहिंसित-रथ-नेमिः 'तार्क्ष्यः नः अस्माकं स्वस्ति दधातु ।  
+'स्वस्ति नो बृहस्पतिः' ।  
+स्वस्ति दधातु ॥ २३ ॥
+</details>
+
+<details><summary>अनन्ताचार्य-टीका</summary>
+
+'स्वस्ति नः' ।
+
+विराट्स्थाना ।
+
+आद्यौ पादौ नव-वर्णौ तृतीयो दश-वर्णः ।
+
+चतुर्थो व्यूहेनैकादश-वर्णः ।
+
+“नवको वैराजस्-त्रिष्टुभश् च” इति वचनात् ।
+
+इन्द्रः नः अस्मभ्यं 'स्वस्ति अव्ययम् अविनाशं शुभं दधातु । ददातु पोषयतु वा । कीदृग्-इन्द्रः ? 'वृद्ध-श्रवाः वृद्धं महत् श्रवः कीर्तिर् यस्य सः ।
+
+तथा विश्व-वेदाः पूर्ण-धनः पूर्ण-ज्ञानो वा ।
+
+पूषा देवः नः स्वस्ति दधातु ।
+
+तथा अरिष्टा अनुपहिंसिता नेमिश् चक्र-धारा पक्षो वा यस्य सः अरिष्ट-नेमिः ।
+
+तार्क्ष्यः गरुडो विष्णुर् वा नः स्वस्ति दधातु ।
+
+तथा बृहस्-पतिः देव-गुरुः नः स्वस्ति दधातु ।
+
+यद्वा- बृहतां महतां ब्रह्मादीनां बृहत्या वेद-त्रय्याः वा पतिः परमात्मा नः स्वस्ति दधात्व् इति ।
+
+“एष उ एव बृहस्पतिर्वाग्वै बृहती तस्याः एष पतिस्तस्मादु बृहस्-पतिः (शब्रा १४.४.१.२२) इति श्रुतेः ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+फिर मनुष्यों को किसकी इच्छा करनी चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जो (वृद्धश्रवाः) बहुत सुननेवाला (इन्द्रः) परम ऐश्वर्यवान् ईश्वर (नः) हमारे लिये (स्वस्ति) उत्तम सुख जो (विश्ववेदाः) समस्त जगत् में वेद ही जिस का धन है, वह (पूषा) सब का पुष्टि करनेवाला (नः) हम लोगों के लिये (स्वस्ति) सुख जो (तार्क्ष्यः) घोड़े के समान (अरिष्टनेमिः) सुखों की प्राप्ति कराता हुआ (नः) हम लोगों के लिये (स्वस्ति) उत्तम सुख तथा जो (बृहस्पतिः) महत्तत्त्व आदि का स्वामी वा पालना करनेवाला परमेश्वर (नः) हमारे लिये (स्वस्ति) उत्तम सुख को (दधातु) धारण करे, वह तुम्हारे लिये भी सुख को धारण करे ॥१९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को चाहिये कि जैसे अपने सुख को चाहें, वैसे और के लिये भी चाहें, जैसे कोई भी अपने लिये दुःख नहीं चाहता, वैसे और के लिये भी न चाहें ॥१९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनर्मनुष्यैः किमेष्टव्यमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्याः ! यो वृद्धश्रवा इन्द्रो नः स्वस्ति, यो विश्ववेदाः पूषा नः स्वस्ति, यस्तार्क्ष्य इवारिष्टनेमिः सन्नः स्वस्ति, यो बृहस्पतिर्नः स्वस्ति दधातु, स युष्मभ्यमपि सुखं दधातु ॥१९ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यैर्यथा स्वार्थे सुखमेष्टव्यं तथाऽन्यार्थमप्येषितव्यं यथा कश्चिदपि स्वार्थे दुःखं नेच्छति तथा परार्थमपि नैषितव्यम् ॥१९ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  माणसे जशी स्वतः सुखाची इच्छा करतात तशीच दुसऱ्यासाठीही करावी. जसे स्वतःला दुःख नकोसे वाटते तसे इतरांनाही नकोसे वाटते हे लक्षात घ्यावे.
+</details>
+
+<details><summary>Wilson</summary>
+
+## English translation:
+
+“May **Indra**, who listens to much praise, guard our welfare; may **Pūṣan**, who knows all things, guard our welfare; may **Tārkṣya**, with unblemished weapons, guard our welfare.”
+
+## Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Tārkṣya, son of Tṛkṣa is **Garuḍa**. He is **Ariṣṭanemi**, he who has unharmed or irresistible (aṛṣṭa) weapons (**nemi**, circumerference of a wheel). Ariṣṭanemi is a **Prajāpati** (**Vāyu Purāṇa**). Tārkṣya = **Aruṇa**, the person nified dawn
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Well-being for us (may) Indra of strengthened fame (establish);  
+well-being for us (may) Pūṣan of all possessions;  
+well-being for us (may) Tārkṣya of indestructible wheel-rims; well-being  for us may Br̥haspati establish.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+The rigid parallel structure of the four pādas is resolved by the final word of the verse dadhātu, which verb must be supplied for the first three pādas. This rigid structure, svastí naḥ GOD EPITHET, also allows the metrical irregularity of the first two pādas to be kept under strict control. Under Holland & van Nooten Rig Veda edition’s interpretation each of those two pādas has a rest after the s u vastí naḥ opening, with the GOD EPITHET phrase taking the rest of the line. Oldenberg suggests reading trisyllabic indi ra, as often, as well as pū̂ṣā́, with distracted ū. The former seems more likely than the latter, but because of the parallelism of a and b in Holland & van Nooten Rig Veda edition’s reading, I prefer theirs.
+</details>
+
+<details><summary>Griffith</summary>
+
+Illustrious far and wide, may Indra prosper us: may Pusan prosper us, the Master of all wealth.  
+     May Tarksya with uninjured fellies prosper us: Brhaspati vouchsafe to us prosperity.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+may bounteous Indra grant us well-being!  
+May Indra of wide fame grant us well-being; may Pūṣan the all-knowing grant us well-being;  
+may Tārkṣya of uninjured fellies grant us well-being; may Bṛhaspati grant us well-being!
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+May Indra of augmented renown grant us well-being; may Pūṣan, all-possessing, grant us well-being;  
+may Tārkṣya of uninjured felly grant us well-being; may Bṛhaspati ordain well-being for us!
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+May Indra of great fame grant us welfare; may all-knowing Pūṣan grant us welfare; may Tārkṣya, the Ariṣṭanemi (one whose felly of wheel is unhurt) grant us welfare; may Bṛhaspati grant us welfare.
+
+Om Peace, Peace, Peace.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ द्वितीयमाह-  वृद्धैर्महात्मभिः सदा पुराणादिषु श्रूयत इति वृद्धश्रवाः । तादृश इन्द्रो नोऽस्माकं स्वस्ति दधात्वध्ययनश्रवणानुष्ठानार्थं क्षेमं सम्पादयतु । विश्वं वेत्ति जानातीति विश्ववेदाः । तादृशः पूषाऽपि नः स्नस्ति दधातु । अरिष्टमहिंसा तस्य नेमिस्थानीयः । यथा लोहमयी नेमिः काष्ठमयस्य चक्रस्य भङ्गाभावाय पालयत्येवमयंतार्क्ष्यो गरुडोऽपि सर्पादिकृतां हिंसां निवार्य तत्पालकत्वादरिष्टनेमिः । तादृशस्तार्क्ष्यो नः स्वस्ति दधातु ।
+</details>
+
+<details><summary>Geldner</summary>
+
+Glück soll uns Indra von hohem Ruhme, Glück uns Pusan, der alle Güter hat, Glück uns Tarksya mit unversehrtem Radkranz , Glück soll uns Brihaspati bringen.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Heil schenke uns Indra, der hochberühmte, Heil uns Puschan der alles besitzende, Heil uns Tārkschja [das Sonnenross], dessen Radkranz unversehrt bleibt, Heil schenke uns Brihaspati.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Благо – нам Индра с возросшей славой,  
+Благо – нам Пушан, у кого все достояние,  
+Благо – вам Таркшья с невредимым ободом,  
+Благо пусть даст нам Брихаспати!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- गोतमो राहूगणः
+- स्वराड्बृहती
+- मध्यमः
+
+- ईश्वरो देवता
+- गोतम ऋषिः
+- स्वराड्बृहती
+- मध्यमः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर मनुष्यों को किस प्रकार ईश्वर की प्रार्थना करके किसकी इच्छा करनी चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वृद्धश्रवाः) संसार में जिसकी कीर्त्ति वा अन्न आदि सामग्री अति उन्नति को प्राप्त है वह (इन्द्रः) परम ऐश्वर्यवान् परमेश्वर (नः) हम लोगों के लिये (स्वस्ति) शरीर के सुख को (दधातु) धारण करावे (विश्ववेदाः) जिसको संसार का विज्ञान और जिसका सब पदार्थों में स्मरण है, वह (पूषा) पुष्टि करनेवाला परमेश्वर (नः) हम लोगों के लिये (स्वस्ति) धातुओं की समता के सुख को धारण करावे जो (अरिष्टनेमिः) दुःखों का वज्र के तुल्य विनाश करनेवाला (तार्क्ष्यः) और जानने योग्य परमेश्वर है, वह (नः) हम लोगों के लिये (स्वस्ति) इन्द्रियों की शान्तिरूप सुख को धारण करावे और जो (बृहस्पतिः) वेदवाणी का प्रभु परमेश्वर है, वह (नः) हम लोगों को (स्वस्ति) विद्या से आत्मा के सुख को धारण करावे ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  ईश्वर की प्रार्थना और अपने पुरुषार्थ के विना किसी को शरीर, इन्द्रिय और आत्मा का परिपूर्ण सुख नहीं होता, इससे उसका अनुष्ठान अवश्य करना चाहिये ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  वृद्धश्रवा इन्द्रो नः स्वस्ति दधातु विश्ववेदाः पूषा नः स्वस्ति दधातु। अरिष्टनेमिस्तार्क्ष्यो नः स्वस्ति दधातु बृहस्पतिर्नः स्वस्ति दधातु ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनर्मनुष्यैः कथं प्रार्थित्वा किमेष्टव्यमित्युपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (स्वस्ति) शरीरसुखम् (नः) अस्मभ्यम् (इन्द्रः) परमैश्वर्यवान् परमेश्वरः (वृद्धश्रवाः) वृद्धं श्रवः श्रवणमन्नं वा सृष्टौ यस्य सः (स्वस्ति) धातुसाम्यसुखम् (नः) अस्मभ्यम् (पूषा) पुष्टिकर्त्ता (विश्ववेदाः) विश्वस्य वेदो विज्ञानं विश्वेषु सर्वेषु पदार्थेषु वेदः स्मरणं वा यस्य सः (स्वस्ति) इन्द्रियशान्तिसुखम् (नः) अस्मभ्यम् (तार्क्ष्यः) तृक्षितुं वेदितुं योग्यस्तृक्ष्यः। तृक्ष्य एव तार्क्ष्यः। अत्र गत्यर्थात् तृक्ष धातोर्ण्यत्। ततः स्वार्थेऽण्। (अरिष्टनेमिः) अरिष्टानां दुःखानां नेमिर्वज्रवच्छेता। नेमिरिति वज्रनामसु पठितम्। (निघं०२.२०) (स्वस्ति) विद्ययाऽऽत्मसुखम् (नः) अस्मभ्यम् (बृहस्पतिः) बृहत्या वेदवाचः पतिः (दधातु) धारयतु ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  न हीश्वरप्रार्थनास्वपुरुषार्थाभ्यां विना कस्यचिच्छरीरेन्द्रियात्मसुखं सम्पूर्णं सम्भवति तस्मादेतदनुष्ठेयम् ॥ ६ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  ईश्वराची प्रार्थना व आपल्या पुरुषार्थाशिवाय कुणालाही शरीर, इंद्रिये व आत्मा यांचे परिपूर्ण सुख मिळत नाही, त्यामुळे त्याचे अनुष्ठान अवश्य करावे. ॥ ६ ॥
+</details>

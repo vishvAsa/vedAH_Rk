@@ -1,0 +1,386 @@
++++
+title = "021"
+devataa = "नृणां विवाहमन्त्रा आशीःप्रायाः"
+RShiH = "सावित्री सूर्या ऋषिका"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - नृणां विवाहमन्त्रा आशीःप्रायाः
+- ऋषिः - सावित्री सूर्या ऋषिका
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+उ᳓द् ईर्ष्वा᳓तः प᳓तिवती हि᳓ एषा᳓  
+विश्वा᳓वसुं न᳓मसा गीर्भि᳓र् ईळे  
+अन्या᳓म् इछ पितृष᳓दं वि᳓अक्तां  
+स᳓ ते भागो᳓ जनु᳓षा त᳓स्य विद्धि
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+átas ← átas (invariable)  
+{}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+īrṣva ← √r̥- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+pátivatī ← pátivant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+út ← út (invariable)  
+{}
+
+gīrbhíḥ ← gír- ~ gīr- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+īḷe ← √īḍ- ~ √īḷ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:MED}
+
+námasā ← námas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+viśvā́vasum ← viśvā́vasu- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+anyā́m ← anyá- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+icha ← √iṣ- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+pitr̥ṣádam ← pitr̥ṣád- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+vyàktām ← √añj- (root)  
+{case:ACC, gender:F, number:SG, non-finite:PPP}
+
+bhāgáḥ ← bhāgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+janúṣā ← janúṣ- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tásya ← sá- ~ tá- (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+viddhi ← √vid- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRF, voice:ACT}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+उदी॒र्ष्वातः॒ पति॑वती॒ ह्ये॒३॒॑षा वि॒श्वाव॑सुं॒ नम॑सा गी॒र्भिरी॑ळे ।  
+अ॒न्यामि॑च्छ पितृ॒षदं॒ व्य॑क्तां॒ स ते॑ भा॒गो ज॒नुषा॒ तस्य॑ विद्धि ॥
+</details>
+
+<details><summary>मूलम् - एकाग्निकाण्डम्</summary>
+
+उ॒दी॒र्ष्वातः॒ पति॑वती॒ ह्ये॑षा वि॒श्वाव॑सुं॒ नम॑सा गी॒र्भिरी॑ट्टे ।  
+अ॒न्यामि॑च्छ पितृ॒षदं॒ व्य॑क्ताँ॒ स ते॑ भा॒गो ज॒नुषा॒ तस्य॑ विद्धि ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+उद् ईर्ष्वातः पतिवत्नी ह्य् एषा  
+विश्वावसुं नमसा गीर्भिर् ईडे ।  
+जामिम् इच्छ पितृषदं न्यक्तां  
+स ते भागो जनुषा तस्य विद्धि ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उत् । ई॒र्ष्व॒ । अतः॑ । पति॑ऽवती । हि । ए॒षा । वि॒श्वऽव॑सुम् । नम॑सा । गीः॒ऽभिः । ई॒ळे॒ ।  
+अ॒न्याम् । इ॒च्छ॒ । पि॒तृ॒ऽसद॑म् । विऽअ॑क्ताम् । सः । ते॒ । भा॒गः । ज॒नुषा॑ । तस्य॑ । वि॒द्धि॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - एकाग्निकाण्डम्)</summary>
+
+- उ᳓त् (*TS*-6, *RV*-293, *SB-K*-667, *KS*-81, *MS*-339)
+- ईर्ष्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3)
+- अ᳓तः (*TS*-14, *SB-K*-258, *VS-K*-1, *KS*-5, *MS*-35)
+- प᳓तिवती (*RV*-1)
+- हि᳓ (*TS*-456, *SB-K*-2819, *VS-K*-35, *KS*-81, *MS*-717)
+- एषा → **एषा᳓** (*TS*-122/1674, *RV*-26/320, *TB*-34/353, *AV*-26/339, *SB-M*-43/592, *SB-K*-466/10669, *VS-M*-3/8, *VS-K*-4/26, *KS*-20/287, *MS*-162/2587)
+- विश्वा᳓वसुम् (*TS*-0/6, *TB*-0/1, *SB-M*-0/2, *VS-M*-0/1, *VS-K*-0/1, *MS*-1, प्रत्ययस्वरः पा॰ ३.१.३, फि॰ १.१)
+- न᳓मसा (*TS*-7/315, *RV*-83/137, *TB*-4/36, *AV*-12/244, *SB-M*-0/35, *SB-K*-0/102, *VS-M*-1/181, *VS-K*-2/226, *KS*-6/305, *MS*-16/313)
+- गीर्भिः᳓ (*TS*-3, *RV*-85, *TB*-1/2, *AV*-4, *SB-K*-1, *VS-M*-1, *VS-K*-1, *KS*-5, *MS*-9)
+- ईट्टे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-4)
+- अन्या᳓म् (*TS*-16/165, *RV*-4/176, *TB*-0/27, *AV*-2/106, *SB-M*-0/20, *SB-K*-14/340, *VS-M*-0/2, *VS-K*-0/13, *KS*-5/31, *MS*-14/208)
+- इच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *KS*-1)
+- पितृ-ष᳓दम् (*VS-K*-0/3, प्रातिपदिकम् पितृ-ष᳓द् (*MW*))
+- व्य᳙क्ताम् (वि᳓-अक्ताम् गतिरनन्तरः पा॰ ६.२.४९, उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्य पा॰ ८.२.४, *RV*-1 १०.८५.२१ विऽअ॑क्ताम्)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-28/1327, *AV*-689/3163, *SB-M*-25/2303, *SB-K*-4217/20018, *VS-M*-1/268, *VS-K*-8/395, *KS*-225/1225, *MS*-784/5550)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *SB-K*-719, *VS-K*-345, *KS*-298, *MS*-668)
+- भागः᳓ (*TS*-40/55, *RV*-11/57, *TB*-1/7, *AV*-21/45, *SB-M*-3/19, *SB-K*-41/112, *VS-M*-2/6, *VS-K*-4/21, *KS*-5/10, *MS*-52/83)
+- जनु᳓षा (*TS*-3, *RV*-20/31, *TB*-0/1, *AV*-3/9, *KS*-1, *MS*-0/1)
+- त᳓स्य (*TS*-178/4763, *RV*-88/3136, *TB*-65/1327, *AV*-124/3163, *SB-M*-277/2303, *SB-K*-728/20018, *VS-M*-11/268, *VS-K*-21/395, *KS*-67/1225, *MS*-226/5550)
+- विद्धि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- उ᳓त् (*TS*-274, *RV*-293, *TB*-161, *TK*-6, *AV*-293, *SB-M*-684, *SB-K*-668, *VS-M*-114, *VS-K*-85, *KS*-61, *MS*-322)
+- ईर्ष्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *AV*-1)
+- अ᳓तः (*TS*-14, *RV*-61, *TB*-6, *AV*-15, *SB-M*-303, *SB-K*-258, *VS-M*-7, *VS-K*-3, *KS*-4, *MS*-34)
+- पतिवत्नी᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-201, *TK*-7, *AV*-155, *SB-M*-2665, *SB-K*-2823, *VS-M*-48, *VS-K*-43, *KS*-58, *MS*-707)
+- एषा᳓ (*TS*-122/1673, *RV*-26/320, *TB*-47/845, *TK*-4/130, *AV*-26/340, *SB-M*-519/11090, *SB-K*-468/10840, *VS-M*-8/129, *VS-K*-6/104, *KS*-20/269, *MS*-162/2573)
+- विश्वा᳓-वसुम् (*MW*, *TS*-0/6, *SB-M*-0/2, *VS-M*-0/1, *VS-K*-0/1, *MS*-1)
+- न᳓मसा (*TS*-7/316, *RV*-83/182, *TB*-2/48, *TK*-0/3, *AV*-12/248, *SB-M*-0/105, *SB-K*-0/102, *VS-M*-5/244, *VS-K*-5/168, *KS*-3/267, *MS*-13/268)
+- गीर्भिः᳓ (*TS*-3, *RV*-85, *TB*-2, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-1, *MS*-9)
+- ई᳓डे (*RV*-7, *TB*-1/2, *AV*-1, *SB-M*-1, *SB-K*-4, *VS-M*-1, *MS*-1/2)
+- जामि᳓म् (*TS*-1/6, *RV*-7/42, *TB*-2/5, *AV*-3/12, *SB-M*-0/17, *SB-K*-0/18, *VS-M*-1, *VS-K*-1, *MS*-1/3)
+- इच्छ (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-4, *AV*-4, *SB-M*-7, *SB-K*-3, *VS-M*-3, *VS-K*-2, *KS*-1)
+- पितृ-ष᳓दम् (*MW*, *VS-K*-0/2)
+- नि᳓-अक्ताम् (*TS*-0/4, *TB*-0/2, *AV*-1, *SB-M*-0/1, *SB-K*-0/4, *KS*-0/1, *MS*-0/4)
+- सः᳓ (*TS*-766/4765, *RV*-1037/3136, *TB*-511/2598, *TK*-78/357, *AV*-689/3165, *SB-M*-3863/20461, *SB-K*-4289/20301, *VS-M*-123/780, *VS-K*-101/650, *KS*-161/996, *MS*-757/5417)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-168, *TK*-35, *AV*-1022, *SB-M*-652, *SB-K*-727, *VS-M*-391, *VS-K*-307, *KS*-166, *MS*-624)
+- भागः᳓ (*TS*-40/55, *RV*-11/57, *TB*-8/16, *AV*-21/45, *SB-M*-47/111, *SB-K*-41/112, *VS-M*-21/29, *VS-K*-28/45, *KS*-5/10, *MS*-48/77)
+- जनु᳓षा (*TS*-3, *RV*-20/31, *TB*-1, *AV*-3/9, *MS*-0/1)
+- त᳓स्य (*TS*-178/4765, *RV*-88/3136, *TB*-82/2598, *TK*-21/357, *AV*-124/3165, *SB-M*-739/20461, *SB-K*-744/20301, *VS-M*-30/780, *VS-K*-28/650, *KS*-56/996, *MS*-222/5417)
+- विद्धि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *TK*-3, *SB-M*-1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ud*
+- \[adverb\]
+- “up.”
+
+_________
+
+- *īrṣvātaḥ* ← *īrṣva* ← *īr*
+- \[verb\], singular, Present imperative
+- “go.”
+
+_________
+
+- *īrṣvātaḥ* ← *atas*
+- \[adverb\]
+- “now; therefore; then; from there; hence; consequently; then; hence;
+    henceforth.”
+
+_________
+
+- *pativatī* ← *pativat*
+- \[noun\], nominative, singular, feminine
+- “pativat \[word\].”
+
+_________
+
+- *hy* ← *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+
+_________
+
+- *eṣā* ← *etad*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+
+_________
+
+- *viśvāvasuṃ* ← *viśvāvasum* ← *viśvāvasu*
+- \[noun\], accusative, singular, masculine
+- “Viśvāvasu; Viśvāvasu; Viśvāvasu.”
+
+_________
+
+- *namasā* ← *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+
+_________
+
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
+- \[noun\], instrumental, plural
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+
+_________
+
+- *īḍe* ← *īḍ*
+- \[verb\], singular, Present indikative
+- “praise; invite; raise.”
+
+_________
+
+- *anyām* ← *anya*
+- \[noun\], accusative, singular, feminine
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+
+_________
+
+- *iccha* ← *iṣ*
+- \[verb\], singular, Present imperative
+- “desire; recommend; approve; seek; call; search; try; prefer; love;
+    commend; assent; permit; choose.”
+
+_________
+
+- *pitṛṣadaṃ* ← *pitṛṣadam* ← *pitṛṣad*
+- \[noun\], accusative, singular, feminine
+- “unmarried.”
+
+_________
+
+- *vyaktāṃ* ← *vyaktām* ← *vyakta*
+- \[noun\], accusative, singular, feminine
+- “perceptible; obvious; much(a); obvious; apprehensible.”
+
+_________
+
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+
+_________
+
+- *bhāgo* ← *bhāgaḥ* ← *bhāga*
+- \[noun\], nominative, singular, masculine
+- “part; part; part; parcel; quarter; body part; location; region;
+    allotment; part; numerator; division; application; function;
+    outside; bhāga \[word\]; volume; helping.”
+
+_________
+
+- *januṣā* ← *janus*
+- \[noun\], instrumental, singular, neuter
+- “birth.”
+
+_________
+
+- *tasya* ← *tad*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *viddhi* ← *vid*
+- \[verb\], singular, Present imperative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अतः- एतस्मात्  स्थानात्। उदीर्ष्व- उत्तिष्ठ। एषा। पतिवती- पतियुक्ताभवत्। हि- खलु।  विश्वावसुम्।  नमसा- नमस्कारेण। गीर्भिः- मन्त्रैः। ईळे- स्तौमि। अन्याम्- इतराम्। व्यक्ताम्।  पितृषदम्- पितृसदनस्थाम्। इच्छ। सः- तादृशः पदार्थः। ते- तव। जनुषा- जन्मना। भागः।  तस्य- तम्। विद्धि- जानीहि॥२१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+आभिर्नृणां विवाहः स्तूयते । हे विश्वावसो **अतः** स्थानात् कन्यासमीपात् **उदीर्ष्व** उत्तिष्ठ । यतः **एषा** कन्या **पतिवती** **हि** संजाता अत उदीर्ष्वेति वा अतःशब्दो योज्यः । **विश्वावसुम्** एतन्नामानं गन्धर्वं नमसा नमस्कारेण **गीर्भिः** स्तुतिभिश्च **ईळे** स्तौमि । तर्ह्येनां विहाय कां स्वीकरोमीति यदि ब्रूषे तर्हि **अन्यां** **पितृषदं** पितृकुले स्थितां **व्यक्ताम्** अनूढेति परिस्फुटां विगताञ्जनां वा । स्तनोद्ग-- मादिराहित्येनाप्रौढामित्यर्थः । **सः** तादृशः पदार्थः **ते** तव **भागः** कल्पितः । **तस्य** तं भागं **विद्धि** जानीहि **जनुषा** जन्मना । लभस्वेत्यर्थः ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+उदीर्ष्वात इति ॥ गतार्थः । पतिवति ह्येषा । छान्दसो हृस्वः । एषा हि पतिवती मया पत्या तद्वती । विश्वावसुं त्वां नमसा गीर्भिः स्तुतिभिश्च ईट्टे याचे । अतश्च अन्यां इच्छ पितृषदं पितृगृहे स्थितां व्यक्तां असमाप्तविवाहाम् । स हि ते स्वभूतो भागः जनुषा जन्मना तदर्थं त्वं जात इत्यर्थः । तस्य विद्धि तं लभस्व ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Rise up from hence, for this (damsel) has a husband; I worship **Viśvāvasu** with reverence and withhymns; seek for another maiden still dwelling in her father's house, decorated with ornaments; that is yourportion, know this (to your portion, take it) from your birth.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Viśvāvasu: a **gandharva**
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+“Rise up from here, for this woman has a husband.” I call on Viśvāvasu  with reverence, with hymns.  
+“Seek some other girl sitting in (the house of) her father, adorned (for  marriage) [/smeared (with menstrual blood)]. That is your share by  
+nature. Know this.”
+</details>
+
+<details><summary>Griffith</summary>
+
+Rise up from hence: this maiden hath a husband. I laud Visvavasu with hymns and homage.  
+     Seek in her father's home another fair one, and find the portion from of old assigned thee.
+</details>
+
+<details><summary>Geldner</summary>
+
+Hebe dich von dannen, denn diese hat jetzt einen Gatten! Unter Verbeugung rufe ich dem Visvavasu mit Lobesworten zu: Suche dir eine andere, die noch bei dem Vater wohnt, eine Mannbare, die ist dein Anteil von Natur; sei dessen Eingedenk!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Erhebe dich von hier; denn diese ist vermählt; ich ehre dich, Viçvāvasu, ehrfurchtsvoll mit Liedern; suche dir eine andere schöne, die noch bei dem Vater weilt; denn das ist von Hause aus dein Loos, das wisse.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Поднимайся отсюда! Ведь она – мужняя жена!  
+С поклонением я взываю к Вишвавасу, с хвалебными песнями:  
+Ищи другую, живущую у отца, отмеченную!  
+Она твоя доля от природы. Ее (и) знай!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- नृर्णा विवाहमन्त्रा आशीः प्रायाः
+- सूर्या सावित्री
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (विश्वावसुम्)मेरे सब मन आदि में बसनेवाले पति की ‘नमसा’ (गीर्भिः) नमस्कार तथा मधुर वाणियों द्वारा (ईडे) मैं वधू प्रशंसा करती हूँ (अतः) इस स्थान से (उत् ईर्ष्व) उठ अपने घर को ले चल मुझे (एषा हि पतिमती) यह मैं पतिवाली तेरे साथ हो गई (पितृषदं व्यक्ताम्) पितृकुल की सभा में घोषित की गई हुई को (अन्याम्-इच्छ) अपने गोत्र से भिन्न मुझे चाह (ते सः-भागः)तेरा भाग वह है (तस्य जनुषा विद्धि) उस पत्नीरूप भाग का दूसरे जन्म-निज जन्मरूप पुत्र हेतु से मुझे स्वीकार कर ॥२१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  भिन्न गोत्र की कन्या से विवाह करना चाहिए, पति के घर में वधू रहेगी, अपने रूप में पुत्र को उत्पन्न करना है ॥२१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (विश्वावसुं नमसा गीर्भिः-ईडे) अहं वधूः विश्वस्मिन् मनसि वसितारं त्वां पतिं सत्कारेण प्रशस्तवाग्भिश्च स्तौमि-प्रशंसामि (अतः) अस्मात् स्थानात् (उत् ईर्ष्व) उद्गच्छ स्वगृहे नय माम् (एषा हि पतिवती) एषां ह्यहं पतिवती जाता त्वया सह (अन्याम्-इच्छ) स्वगोत्रभिन्नां मामिच्छ प्रीणीहि (पितृषदं व्यक्ताम्) पितृकुलसभायां व्यक्तां कृत्वा तुभ्यं दत्तास्मि (ते सः-भागः) तव भागः सः (तस्य जनुषा विद्धि) तस्य पत्नीरूपस्य भागस्य द्वितीयेन जन्मना “जनुषा द्वितीयेन जन्मना” [ऋ० ५।१९।१४ दयानन्दः] निजद्वितीय-जन्मरूपपुत्रेण हेतुना जानीहि मां स्वीकुरु ॥२१॥
+</details>

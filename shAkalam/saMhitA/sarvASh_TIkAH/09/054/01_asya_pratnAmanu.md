@@ -1,0 +1,408 @@
++++
+title = "001"
+devataa = "पवमानः सोमः"
+RShiH = "अवत्सारः"
+ChandaH = "गायत्री"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - अवत्सारः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अस्य᳓ प्रत्ना᳓म् अ᳓नु द्यु᳓तं  
+शुक्रं᳓ दुदुह्रे अ᳓ह्रयः  
+प᳓यः सहस्रसा᳓म् ऋ᳓षिम्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+_________
+**Morph**  
+ánu ← ánu (invariable)  
+{}
+
+asyá ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+dyútam ← dyút- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+pratnā́m ← pratná- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+áhrayaḥ ← áhri- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+duduhre ← √duh- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+páyaḥ ← páyas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ŕ̥ṣim ← ŕ̥ṣi- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sahasrasā́m ← sahasrasā́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒स्य प्र॒त्नामनु॒ द्युतं॑ शु॒क्रं दु॑दुह्रे॒ अह्र॑यः ।  
+पयः॑ सहस्र॒सामृषि॑म् ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+अ॒स्य प्र॒त्नामनु॒ द्युतँ॑ शु॒क्रं दु॑दुह्रे॒ऽअह्र॑यः।  
+पयः॑ सहस्र॒सामृषि॑म् ॥१६॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अस्य᳓ प्रना᳓मनु᳓ द्यु᳓तँ शुक्रं᳓ दुदुहे अ᳓हयः।  
+प᳓स्सहस्रसा᳓मृ᳓षिम्
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒स्य । प्र॒त्नाम् । अनु॑ । द्युत॑म् । शु॒क्रम् । दु॒दु॒ह्रे॒ । अह्र॑यः ।  
+पयः॑ । स॒ह॒स्र॒ऽसाम् । ऋषि॑म् ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+अ॒स्य। प्र॒त्नाम्। अनु॑। द्युत॑म्। शु॒क्रम्। दु॒दु॒ह्रे॒। अह्र॑यः। पयः॑। स॒ह॒स्र॒सामिति॑ सहस्र॒ऽसाम्। ऋषि॑म्। १६।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+अ॒स्य। प्र॒त्नाम्। अनु॑। द्युत॑म्। शु॒क्रम्। दु॒दु॒ह्रे॒। अह्र॑यः। पयः॑। स॒ह॒स्र॒सामिति॑ सहस्र॒ऽसाम्। ऋषि॑म्। ६।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अस्य᳓ (*MS*-37/1379, *TS*-34/965, *RV*-188/1247, *TB*-18/567, *TK*-0/57, *AV*-64/1259, *SB-M*-475/5239, *SB-K*-674/5549, *VS-M*-27/319, *VS-K*-18/301)
+- प्र (तिङि चोदात्तवति पा॰ ८.१.७१, *TS*-5, *TB*-67, *TK*-6, *AV*-2, *SB-M*-335, *SB-K*-369, *VS-M*-8, *VS-K*-8, *MS*-226)
+- ना᳓मनु᳓ → **ना᳓मनु** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- द्यु᳓तम् (*MS*-4, *TS*-2/4, *RV*-1/3, *AV*-0/1, *SB-M*-1, *VS-M*-1, *VS-K*-1)
+- शुक्र᳓म् (*MS*-40/101, *TS*-17/70, *RV*-28/105, *TB*-19/42, *TK*-1, *AV*-12/29, *SB-M*-31/87, *SB-K*-33/90, *VS-M*-28/57, *VS-K*-24/50)
+- दुदुहे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *RV*-7, *AV*-1)
+- अ᳓हयः (*MS*-0/16, *TS*-0/10, *RV*-0/72, *TB*-0/7, *TK*-0/1, *AV*-2/38, *SB-M*-1/12, *SB-K*-1/16, *VS-M*-0/9, *VS-K*-0/5)
+- प᳓स् (*TB*-1, *SB-M*-1, *VS-K*-2, *MS*-1)
+- सहस्र-सा᳓म् (*MS*-1/2, *TS*-1/3, *RV*-6/14, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-1/2, *VS-K*-1/3)
+- ऋ᳓षिम् (*MS*-2/52, *TS*-4/56, *RV*-13/101, *TB*-0/5, *TK*-0/8, *AV*-1/70, *SB-M*-3/125, *SB-K*-3/130, *VS-M*-2/32, *VS-K*-2/34)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *pratnām* ← *pratna*
+- \[noun\], accusative, singular, feminine
+- “age-old; pratna \[word\].”
+
+_________
+
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+
+_________
+
+- *dyutaṃ* ← *dyutam* ← *dyut*
+- \[noun\], accusative, singular, feminine
+- “beam.”
+
+_________
+
+- *śukraṃ* ← *śukram* ← *śukra*
+- \[noun\], accusative, singular, neuter
+- “bright; clear; white; light; pure.”
+
+_________
+
+- *duduhre* ← *duh*
+- \[verb\], plural, Perfect indicative
+- “milk.”
+
+_________
+
+- *ahrayaḥ* ← *ahraya*
+- \[noun\], nominative, singular, masculine
+
+_________
+
+- *payaḥ* ← *payas*
+- \[noun\], accusative, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+
+_________
+
+- *sahasrasām* ← *sahasra*
+- \[noun\], neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+
+_________
+
+- *sahasrasām* ← *sām* ← *sā*
+- \[noun\], accusative, singular, masculine
+- “winning.”
+
+_________
+
+- *ṛṣim* ← *ṛṣi*
+- \[noun\], accusative, singular, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अस्य- एतस्य रसस्य। प्रत्नाम्- पुराणम्। द्युतम्- दीप्यमानम्। शुक्रम्- शुभ्रम्। सहस्रसाम्-  अनन्तदम्। ऋषिम्- सूक्ष्मदर्शिनम्। पयः- सारम्। अह्रयः- अकुटिलभावनाः। अनु दुदुह्रे-  अनुदुहन्ति॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अस्य** सोमस्य **प्रत्नां** पुराणां **द्युतं** द्योतमानां तनुम् **अनु** **शुक्रं** दीप्तं **सहस्रसाम्** अभिलषितस्यापरिमितस्य दातारम् **ऋषिम्** अतीन्द्रियस्य कर्मफलस्य द्रष्टारं **पयः** पातव्यं रसम् **अह्रयः** कवयः **दुदुहे** दुहन्ति ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अस्याग्नेः **प्रत्नां** पुरातनीं  
+**अनुद्युतम्** - अनुद्युदिति दीप्तिनाम । सम्पदादिलक्षणः क्विप् । गोस्थानीयां **दुदुह्रे** दुहन्ति । छान्दसे लिटि 'इरयो रे' इति रे आदेशः । **अह्रयः** अह्रियः अलज्जमाना ऋत्विजः । जिह्रतेः कर्तरि क्विप् । व्यत्ययेन ह्रस्वत्वम् । औणादिको वा डिप्रत्ययः । अह्नोतेर्वा क्रिन्प्रत्ययः । ज्ञातार उच्यन्ते । किं दुदुह्रे? **शुक्रं** सारं निर्मलं वा **पयः** उदकम् । दीप्तिर्विशेष्यते - **सहस्रसां** बहुनो धनस्य सनित्रीं सम्भक्त्रीं **ऋषिं** अर्षणिं दृष्टिम् । सनोतेः 'जनसनखन' इति विट्, 'विड्वनोः' इत्यात्वम् ।  
+तस्माद् वयम् अप्य् अनेनोपस्थानेन तां दुह्म इति ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+अस्य प्रत्नां गां प्रकृत्याग्निहोत्र-ब्राह्मणे श्रूयते।  
+‘ताम् उ हाग्निर् अभिदध्यौ [[मिथुन्येन यास्यामीति|मिथुन्य् एनया स्याम् इति]] तां संबभूव तस्यां रेतः प्रासिञ्चत्’ इत्य् आदि तद्-अर्थाभिवादिन्य् एषा ऋग् भवति।  
+अस्यैवाग्नेः प्रत्नां चिरन्तनीं द्युतं दीप्तिं गवि अनुषक्तां शुक्र-रूपापन्नां गाम्।  
+दुदुह्रे दुदुहिरे दुग्धं रक्षन्ति दुहन्ति।  
+का दुहन्ति रक्षन्ति काः।  
+अह्रयः गावः।  
+‘ह्री लज्जायाम्’ अविद्यमान-ह्रियः अलज्जिता उज्वलाः प्रशस्या इत्य् अर्थः।  
+किं तच् छुक्रं या एता गावः रक्षन्ति पयः दुग्धम्।  
+सहस्र-सां सहस्र-संख्यानां चातुर्मास्य-पशु-सोमानां सनितारं संभक्तारम्।  
+[[ऋषिद्रष्टृ|ऋषिं द्रष्टृ]]।  
+द्रष्टृत्वं च गवि सत् पयस्य् उपचर्यते।  
+‘सा हैनान् उदीक्ष्य हिंचकार’ इत्य् उपक्रम्य ‘ते देवा विदांचक्रुर् एष साम्नो हिंकारः’ इत्य् एवम्-आदिना ग्रन्थेन गोभिर् हिंकारो दृष्ट इत्य् एतत् प्रतिपादितम्।  
+स एष मन्त्रो गां वाग्निं वा पयो वा स्तौति॥ १६॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+गायत्र्य् अवत्सार-दृष्टा गोऽग्नि-पयो-देवत्या।  
+अस्याग्नेः प्रत्नां चिरन्तन-काल-भवां द्युतम् अनु दीप्तिम् अनुसृत्य अह्रयः नास्ति ह्रीर् येषाम् ईदृशा लज्जा-रहिता दोग्धारः ऋषिं गां शुक्रं शुद्धं पयो दुदुह्रे दुदुहिरे।  
+दुहेर् लिटि ‘इरयो रे’ (पा॰ ६। ४। ७६) इति रे-आदेशे रूपम्।  
+‘ऋष गतौ’।  
+अर्षति दोहन-स्थाने गच्छतीति ऋषिर् गौः।  
+तां [[होमार्थ|होमार्थं]] दुग्धवन्तः।  
+सायं-दोहन-काले ऽग्नि-प्रकाशाभावे दुह्यमानं पयो भूमौ पतिष्यतीति शङ्कया दोग्धॄणां लज्जा भवति।  
+सत्याम् अग्नि-दीप्तौ स्कन्न-शङ्कानुदयाल् लज्जाभावाद् अह्रयो दोग्धारः।  
+किंभूताम् ऋषिम्। सहस्रसाम्। ‘षो ऽन्त-कर्मणि’।  
+सहस्र-संख्याकानि कर्माणि स्यति समापयति क्षीर-दध्याज्य-हविः-प्रदानेनेति सहस्रसा ताम्।  
+स्यतेः क्विप्।  
+यद् वास्या ऋचो ऽर्थान्तरं गां प्रकृत्याग्निहोत्र-ब्राह्मणे श्रूयते [[ऽतासु|‘तासु]] हाग्निर् अभिदध्यौ मिथुन्येन यास्यामीति ताᳪं᳭ संबभूव तस्याᳪं᳭ रेतः प्रासिञ्चत् तत् पयो ऽभवत्’ [[(२.२। ४। १५)|(२। २। ४। १५)]] इत्यादि।  
+तद्-अभिप्रायम् एषा ऋग् वदति।  
+अह्रयः गावः नास्ति ह्रीर् लज्जा यासां ता अह्रयः अलज्जाः उज्ज्वलाः प्रशस्या इत्य् अर्थः।  
+मलिनो हि लज्जते।  
+अह्रयो गावो ऽस्याग्नेः प्रत्नां चिरन्तनीम् आत्मानुषक्तां द्युतं दीप्तिं शुक्रं शुक्र-रूपापन्नां द्युतम् एव पयो दुग्धं दुदुह्रे ।  
+दुहन्ति क्षरन्ति।  
+अग्निना शुक्र-रूपेण सिक्तां स्व-कान्तिम् एव गावो दुग्ध-रूपेण क्षरन्तीत्य् अर्थः।  
+सहस्रसाम् ऋषिम् इति विशेषण-द्वयं पयसः।  
+सहस्रं सनोति सहस्रसास् तम्।  
+चातुर्मास्य-पशु-सोमानां संभक्तारम्।  
+पुंस्त्वम् आर्षम्।  
+‘जन-सन-खन-क्रम-गमो विट्’ (पा॰ ३। २। ६७) इति विट्-प्रत्यये [[ऽविड्वनोर|‘विड्वनोर्]] अनुनासिकस्यात्’ (पा॰ ६। ४। ४१) इत्य् आकारे वेर् लोपे सहस्रसा इति रूपम्।  
+तथा ऋषिं द्रष्टारम्।  
+गवि वर्तमानं द्रष्टृत्वं पयस्य् उपचर्यते।  
+‘सा हैनान् उदीक्ष्य हिंचकार’ इत्य् उपक्रम्य ‘ते देवा विदाञ्चक्रुर् एष साम्नो हिङ्कारः’ इत्यादिना ग्रन्थेन गोभिर् हिङ्कारो दृष्ट इति प्रत्यपादि।  
+यद् वा सहस्रसाम् ऋषिम् इति विभक्ति-लिङ्ग-वचन-व्यत्ययेन अह्रय इत्यस्य विशेषण-द्वयम्।  
+किंभूता अह्रयः।  
+सहस्रसाः ऋषयः।  
+पूर्ववद् अर्थो वा॥ १६॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ षष्ठः –  
+> अस्य प्रत्नाम् अनु [[युतः|द्युतम्]] । शुक्रं [[दुदुहे अहयः|दुदुह्रे अह्रयः]] । पयः सहस्र-साम् ऋषिम् ॥
+
+इति ।  
+अस्य अग्नेः संबन्धिनीं प्रत्नां चिरन्तन-कालोपेतां [[युतम्|द्युतम्]] अनु दीप्तिम् अनुसृत्य अह्रयः ।  
+ह्री लज्जायाम् ।  
+[[खज्जारहिता|लज्जा-रहिता]] दोग्धारः ।  
+ऋषिम् ।  
+ऋषी गतौ ।  
+अर्षति दोहन-स्थाने गच्छतीत्य् [[अषिगोः|ऋषिः गौः]] ।  
+तां गां शुक्रं पयः [[श्वेत वर्ण|श्वेत-वर्णं]] दुग्धं दुदुहे दुदुहिरे अग्निहोत्र-होमार्थं दुग्धवन्तः ।  
+सायं [[दोहन काले अग्निसंबन्धिप्रकाश भावे|दोहन-काले अग्नि-संबन्धि-प्रकाश-अभावे]] दुह्यमानं क्षीरं भूमौ पतिष्यतीत्य् एवं दोग्धृणां लज्जा भवति ।  
+सत्यां [[त्वद् दीप्तौ स्कन्दन शङ्कानुदया लज्जा दोषो आग्नेयः आग्नेयी चित्रं विभ्वं ऋषी गतौ इति तुदादौ पठितो धातुः सायणाचार्यैः म्वादी दृष्टः इति भाति इलोपश्छान्दसः|त्वद्-दीप्तौ स्कन्दन-शङ्का-अनुदयात् लज्जा-दोषो]] नास्तीत्य् अर्थः ।  
+'सहस्रसाम्' इत्य् एतद् गो-विशेषणम् ।  
+षो अन्तकर्मणि ।  
+सहस्र-संख्याकानि कर्माणि [[क्षीरदध्याज्यरूप इविःप्रदानेन स्पति|क्षीर-दधि-आज्य-रूप-हविः-प्रदानेन स्यति]] समापयतीति सहस्र-सा ।  
+तादृशीं गां दुग्धवन्त इत्य् अर्थः ।  
+तत्र 'सहस्रसाम्' [[इस्थेतत् पद तात्पयं|इत्य् एतत्-पद-तात्पर्यं]] कण्वो [[ण्याचष्टे|व्याचष्टे]]-  
+“एषा वै परमा सनिः यत् सहस्र-सनिः" ( [[काशमा १.४ १.१२|श॰ ब्रा॰ ४.५.१.११]] ) इति ॥ ६ ॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+' अस्य प्रत्नाम्' इति आग्नेयी गायत्री ।  
+अवत्सार ऋषिः । अस्य एवाग्नेः प्रत्नाम् । प्रत्न-शब्दश् चिरन्तन-वचनः ।  
+चिरन्तनां [[युतं|द्युतं]] दीप्तिम् "अनु गवि अनुषक्तां शुक्रं [[शुक्र-रूपापनं|शुक्र-रूपापन्नं]] "[[दुदुहे|दुदुह्रे]] दुदुहिरे "[[अहयः|अह्रयः]] । [[ही|ह्री]] लज्जायाम् । लज्जा-रहिताः अलज्जिता [[अहयः|अह्रयः]] गावः । [[??]] प्रशस्या इत्य् अर्थः । किं तच् छुक्रम् इति ? पयः । एता गावो यत् क्षरन्ति तत् पयो दुग्धम् । 'सहस्र-साम् । षो ऽन्त-कर्मणि । सहस्र-संख्यानां चातुर्मास्य-पशु-सोमादीनां समाप्तेः कर्तारं सवितारं संभक्तारम् [[ऋषि|ऋषिं]] द्रष्टारं [[दुदुहे|दुदुह्रे]] दुदुहिरे । गवि स्थित-पयसि द्रष्टृत्वम् उपचर्यते । एष मन्त्रो गाः [[??]] [[तापयश्|पयश्]] च [[स्तुत्रन्नग्निम्|स्तुवन्न् अग्निम्]] एव स्तौति ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर वह कैसा है, इस विषय का उपदेश अगले मन्त्र में किया है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अह्रयः) सब विद्याओं को व्याप्त करानेवाले विद्वान् लोग (अस्य) इस भौतिक अग्नि की (सहस्रसाम्) असंख्यात कार्यों को देने वा (ऋषिम्) कार्यसिद्धि के प्राप्ति का हेतु (प्रत्नाम्) प्राचीन अनादिस्वरूप से नित्य वर्त्तमान (द्युतम्) कारण में रहनेवाली दीप्ति को जानकर (शुक्रम्) शुद्ध कार्यों को सिद्ध करनेवाले (पयः) जल को (अनु दुदुह्रे) अच्छे प्रकार पूरण करते हैं अर्थात् अग्नि में हवनादि करके वृष्टि से संसार को पूरण करते हैं ॥१६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को जैसे गुणसहित अग्नि का कारणरूप वा अनादिपन से नित्यपन जानना योग्य है, वैसे ही जगत् के अन्य पदार्थों का भी कारणरूप से अनादिपन जानना चाहिये। इनको जानकर कार्यों में उपयुक्त करके सब व्यवहारों की सिद्धि करनी चाहिये ॥१६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनः स कीदृश इत्युपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  अह्रयो विद्वांसोऽस्याग्नेः सहस्रसामृषिं प्रत्नां द्युतं ज्ञात्वा शुक्रं पयश्चानुदुदुह्रे प्रपूरयन्ति ॥१६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यैर्यथाग्नेस्स्वगुणसहितस्य कारणरूपेणानादित्वेन नित्यत्वं विज्ञेयमस्ति, तथैवान्येषामपि जगत्स्थानां कार्यद्रव्याणां कारणरूपेणानादित्वं वेदितव्यमम्, एतद्विदित्वैतानग्न्यादीन् पदार्थान् कार्येषूपकृत्य सर्वे व्यवहाराः संसाधनीया इति ॥१६॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  माणसांनी हे जाणून घ्यावे की, अग्नी हा कारणरूप, अनादी व नित्य आहे तसेच जगातील अन्य पदार्थही कारणरूपाने अनादी आहेत हे जाणावे व त्यांना सर्व कार्यात आणि व्यवहारात प्रयुक्त करावे.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Towards **Soma**'s ancient body the seers milk the flashing fluid, the sage who grants a thousand boons.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+In accord with the age-old brilliance of this one, they have milked the  gleaming, immoderate  
+milk from the seer who wins thousands.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Unfortunately it is difficult to render in tr. the initial position of asyá, matching that of ayám in vss. 2, 3, which therefore makes the overall structure of the hymn less clear in English. Perhaps “Of this one - following his age-old brilliance …” áhrayaḥ in b is assigned to a stem áhri- by Grassmann and taken as a nom. pl.; so also Geldner “die nicht Schlüchtern” as subj. of duduhre (referring to the fingers or the soma-pressing priests). This stem is otherwise unattested, and the root from which it is presumably derived is seṭ √hrī, which attests a root noun hrī́- (VS+), whose nom. pl. should properly be *- hriyaḥ. AiG III.187 suggests that the form is an old error for *áhrayāḥ, nom. pl. to the wellestablished them. stem áhraya-, shortened to match páyaḥ, which immediately follows across the hemistich boundary. I instead follow Renou’s suggestion, that it actually belongs to an s-stem áhrayas- (see also EWA s.v. HRAYI ) and, as a neut. acc. sg., modifies páyaḥ.
+
+Although the underlying s-stem *hráyas- is not attested, neither is the supposed underlying i-stem *hrí-, and as an s-stem neut. the form would be morphologically impeccable and require no emendation (unlike Wackernagel’s suggestion). The accent would match that of the likewise bahuvrīhi án-āgas-, though it must be admitted that such cmpds generally have suffixal accent (e.g., a-cetás-, a-rādhás-); however, the existence of better attested áhrayaand áhrayāṇa- could have induced initial accent. Another ex. of áhrayas- may be found in X.93.9, q.v. As for sense, √hrī means ‘be modest, shy’, and the negated áhraya- ‘unrestrained, immodest, immoderate’; the primary use of that adj. is with rā́dhas- ‘bounty’ (V.79.5, 6, VIII.8.13, 54.8, 56.1), to express a desire for large, that is immoderate, quantities of it. Cf. also VII.67.6 réto áhrayam, also adduced by Renou, with rétas- ‘seed, semen’, a substance rather like páyas-. In our passage the point would be that a more than satisfying abundance of (soma-)milk was milked. If áhrayaḥ is not a nom. pl., the subj. of duduhre is not expressed, but priestly officiants would be the obvious subj., often not overtly expressed in Soma hymns.
+</details>
+
+<details><summary>Griffith</summary>
+
+AFTER his ancient splendour, they, the bold, have drawn the bright milk from  
+     The Sage who wins a thousand gifts.
+</details>
+
+<details><summary>Keith</summary>
+
+After his ancient splendour,  
+The bold ones have drawn the white milk  
+From the seer who winneth a thousand.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Following his ancient gleam, the bold ones have milked the bright [milk],  
+the milk, the thousand-winning sage.
+</details>
+
+<details><summary>Geldner</summary>
+
+Seinem altbekannten Glanze gemäß haben die nicht Schüchternen aus dem tausendgewinnenden Rishi die helle Milch herausgemolken.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Nachfolgend seinem alten Glanz, entziehn die Kecken hellen Trank Dem Sänger, der viel tausend schenkt.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+В соответствии с его древним сиянием  
+Дерзкие надоили сверкающего  
+Молока, (подоив) риши, добывающего тысячи.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- अवत्सारः
+- गायत्री
+- षड्जः
+
+- अग्निर्देवता
+- अवत्सार ऋषिः
+- गायत्री
+- षड्जः
+</details>
+
+<details><summary>आर्यमुनि - विषयः</summary>
+
+अब केवल परमात्मा के सेवन में हेतु कहते हैं।
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अह्रयः) विज्ञानी लोग (अस्य) इस परमात्मा के (प्रत्नाम् ऋषिम् अनु) रचित प्राचीन वेद से (द्युतं) दीप्तिमान् (शुक्रं) पवित्र (सहस्रसाम्) अपरिमित शक्तियों को उत्पन्न करनेवाले (पयः दुदुह्रे) ब्रह्मानन्द रस को दुहते हैं॥१॥
+</details>
+
+<details><summary>आर्यमुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  उक्त कामधेनुरूप परमात्मा से विद्वान् सदाचारी लोग दुग्धामृत के दोग्धा बनकर संसार में ब्रह्मामृत का संचार करते हैं॥१॥
+</details>
+
+<details><summary>आर्यमुनि (सं) - विषयः</summary>
+
+अथ सर्वथा परमात्मसेवनहेतुर्वर्ण्यते।
+</details>
+
+<details><summary>आर्यमुनि  (सं)- पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अह्रयः) विज्ञानिनः पुरुषाः (अस्य) अमुष्य परमात्मनः (प्रत्नाम् ऋषिम् अनु) विरचितप्रत्नवेदेन (द्युतं शुक्रं सहस्रसाम्) दीप्तिमत् पूतममितशक्त्युत्पादकं (पयः दुदुह्रे) ब्रह्मानन्दरूपं रसं दुहन्ति ॥१॥
+</details>

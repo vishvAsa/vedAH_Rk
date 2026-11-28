@@ -1,0 +1,474 @@
++++
+title = "017"
+devataa = "अश्वः"
+RShiH = "दीर्घतमा औचथ्यः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्वः
+- ऋषिः - दीर्घतमा औचथ्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+य᳓त् ते सादे᳓ म᳓हसा शू᳓कृतस्य  
+पा᳓र्ष्णिया वा क᳓शया वा तुतो᳓द  
+स्रुचे᳓व ता᳓ हवि᳓षो अध्वरे᳓षु  
+स᳓र्वा ता᳓ ते ब्र᳓ह्मणा सूदयामि
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यत्ते॑ सा॒दे मह॑सा॒ शूकृ॑तस्य॒ पार्ष्णि॑या वा॒ कश॑या [44] वा॒ तु॒तोद॑ ।  
+स्रु॒चेव॒ ता ह॒विषो॑ अध्व॒रेषु॒ सर्वा॒ ता ते॒ ब्रह्म॑णा सूदयामि ।
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+máhasā ← máhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sādé ← sādá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+śū́kr̥tasya ← śū́kr̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+káśayā ← káśā- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pā́rṣṇyā ← pā́rṣṇi- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tutóda ← √tud- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+adhvaréṣu ← adhvará- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+havíṣaḥ ← havís- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+srucā́ ← srúc- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sárvā ← sárva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sūdayāmi ← √sūd- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+यत्ते॑ सा॒दे मह॑सा॒ शूकृ॑तस्य॒ पार्ष्ण्या॑ वा॒ कश॑या वा तु॒तोद॑ ।  
+स्रु॒चेव॒ ता ह॒विषो॑ अध्व॒रेषु॒ सर्वा॒ ता ते॒ ब्रह्म॑णा सूदयामि ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+यत्ते सादे महसा शूकृतस्य पार्ष्ण्या वा कश्या वा तुतोद \।  
+सुचेव ता हविषो अध्वरेषु सर्वा ता ते ब्रह्मणा सूदयामि
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । सा॒दे । मह॑सा । शूकृ॑तस्य । पार्ष्ण्या॑ । वा॒ । कश॑या । वा॒ । तु॒तोद॑ ।  
+स्रु॒चाऽइ॑व । ता । ह॒विषः॑ । अ॒ध्व॒रेषु॑ । सर्वा॑ । ता । ते॒ । ब्रह्म॑णा । सू॒द॒या॒मि॒ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+यत्। ते॒। सा॒दे। मह॑सा। शूकृ॑तस्य। पार्ष्ण्या॑। वा॒। कश॑या। वा॒। तु॒तोद॑। स्रु॒चेवे॑ति सु॒चाऽइ॑व। ता। ह॒विषः॒। अ॒ध्व॒रेषु॑। सर्वा॑। ता। ते॒। ब्रह्म॑णा। सू॒द॒या॒मि॒। ४०।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- सादे᳓ (*MS*-0/1, *TS*-1, *RV*-1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1)
+- म᳓हसा (*MS*-0/18, *TS*-1/14, *RV*-3/27, *TB*-0/27, *TK*-0/2, *AV*-3/16, *SB-M*-1/28, *SB-K*-1/21, *VS-M*-1/12, *VS-K*-0/10)
+- शू᳓-कृतस्य (*MS*-0/1, *TS*-1/2, *RV*-1, *VS-M*-1/2, *VS-K*-0/1)
+- पा᳓र्ष्ण्या (*MS*-1/2, *RV*-1, *AV*-2/5, *VS-M*-1)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-211, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-36)
+- कः᳓ (*MS*-38/183, *TS*-36/158, *RV*-155/375, *TB*-25/93, *TK*-4/20, *AV*-95/216, *SB-M*-108/890, *SB-K*-104/850, *VS-M*-30/98, *VS-K*-22/86)
+- या᳓ (*MS*-177/3763, *TS*-96/3385, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/651, *VS-K*-29/609)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-211, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-36)
+- तुतो᳓द (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*, *MW*, *TS*-1, *RV*-1, *VS-M*-1)
+- स्रुच् (समानान्तर-पाठः (RV))
+- ए᳓व (समानान्तर-पाठः (RV), *MS*-28, *TS*-2, *RV*-31, *TB*-27, *AV*-1, *SB-M*-29, *SB-K*-271, *VS-M*-2, *VS-K*-1)
+- ताः᳓ (*MS*-302/5550, *TS*-136/4761, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/780, *VS-K*-17/660)
+- हवि᳓षः (*MS*-24/213, *TS*-11/124, *RV*-12/166, *TB*-20/186, *TK*-1/17, *AV*-4/116, *SB-M*-31/380, *SB-K*-29/360, *VS-M*-13/92, *VS-K*-8/101)
+- अध्वरे᳓षु (*MS*-4/44, *TS*-4/27, *RV*-27/196, *TB*-1/25, *TK*-0/2, *AV*-3/22, *SB-M*-1/71, *SB-K*-1/68, *VS-M*-8/29, *VS-K*-4/22)
+- स᳓र्वा (*MS*-6/419, *TS*-7/287, *RV*-9/68, *TB*-1/159, *TK*-72/114, *AV*-19/444, *SB-M*-19/2265, *SB-K*-13/2224, *VS-M*-4/55, *VS-K*-3/43)
+- ता᳓ (*MS*-7, *TS*-15, *RV*-180, *TB*-211, *TK*-68, *AV*-9, *SB-M*-2, *SB-K*-1, *VS-M*-16, *VS-K*-14)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- ब्र᳓ह्मणा (*MS*-58/230, *TS*-63/157, *RV*-31/237, *TB*-40/95, *TK*-8/38, *AV*-82/266, *SB-M*-62/420, *SB-K*-56/434, *VS-M*-10/55, *VS-K*-7/51)
+- सूदयामि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *VS-M*-1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *yat* ← *yad*
+- \[noun\], accusative, singular, neuter
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+
+_________
+
+- *sāde* ← *sāda*
+- \[noun\], locative, singular, masculine
+- “inertness; inactivity; sāda \[word\]; failure; riding.”
+
+_________
+
+- *mahasā* ← *mahas*
+- \[noun\], instrumental, singular, neuter
+- “greatness; festival; glory; reward; gladness.”
+
+_________
+
+- *śūkṛtasya* ← *śūkṛta*
+- \[noun\], genitive, singular, masculine
+
+_________
+
+- *pārṣṇyā* ← *pārṣṇi*
+- \[noun\], instrumental, singular, feminine
+- “heel; rear.”
+
+_________
+
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+
+_________
+
+- *kaśayā* ← *kaśā*
+- \[noun\], instrumental, singular, feminine
+- “whip.”
+
+_________
+
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+
+_________
+
+- *tutoda* ← *tud*
+- \[verb\], singular, Perfect indicative
+- “push; ache.”
+
+_________
+
+- *sruceva* ← *srucā* ← *sruc*
+- \[noun\], instrumental, singular, feminine
+- “Sruc.”
+
+_________
+
+- *sruceva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *tā* ← *tad*
+- \[noun\], accusative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *haviṣo* ← *haviṣaḥ* ← *havis*
+- \[noun\], genitive, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+
+_________
+
+- *adhvareṣu* ← *adhvara*
+- \[noun\], locative, plural, masculine
+- “yajña; ceremony; adhvara \[word\].”
+
+_________
+
+- *sarvā* ← *sarva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+
+_________
+
+- *tā* ← *tad*
+- \[noun\], accusative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+
+_________
+
+- *brahmaṇā* ← *brahman*
+- \[noun\], instrumental, singular, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+
+_________
+
+- *sūdayāmi* ← *sūday* ← *√sūd*
+- \[verb\], singular, Present indikative
+- “kill; promote.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+स्रुचेव- स्रुक्पात्रेण। ता हविषः- तद्धव्यम्। अध्वरेषु- यज्ञेषु। क्षरन्तीव। सादे- सदने। महता-  महद्बलेन। शूकृतस्य- शब्दयतः। ते- तव। पार्ष्ण्या कशया वा। तुतोद- व्यथयति। सर्वा ता-  सर्वं तत्। ते- तव। ब्रह्मणा- मन्त्रेण। सूदयामि- क्षरामि। प्राणस्य शोभनगतेर्वशीकरणाय च यो  योऽभ्यासः प्राणपीडामयः कृतः तं सर्वं क्षरामीति भावः॥१७॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**महसा** बलेन **शूकृतस्य** । शब्दानुकरणमेतत् । शूत्कारं कुर्वतः **ते** तव **सादे** सदने अगमने निमित्तभूते सति ॥ सदेर्भावे घञ्। 'कर्षात्वतः' इत्यन्तोदात्तत्वम् ॥ अर्थतो गमनं कुर्वन् शूत्कारं कुर्वतः ते त्वां पार्ष्ण्या  **वा** **कशया** **वा** **तुतोद** व्यथयति **यत्** यस्मात् तस्मात् **ते** तव **ता** तानि **सर्वा** सर्वाणि **अध्वरेषु** यागेषु **ब्रह्मणा** मन्त्रेण सूदयामि क्षरामि आहुतित्वेन कल्पयामीत्यर्थः । तत्र दृष्टान्तः । अध्वरेषु यागेषु **हविषः** हविः आज्यादिकं **स्रुचेव** स्रुचा यथा सूदयन्ति तद्वत् ॥
+
+
+_____________
+
+हेऽश्व तव सादे नमने ( महसोत्सवेन ) शूकृतस्य शूकारो ध्वन्यनुकरणं प्रौढस्याश्वस्य शीघ्रगमने शूकारो जायते, तेन शूकारेण युक्तस्य शीघ्रगमनायोपर्यारूढः पार्ष्णिया स्वकीयेन पादपृष्ठमागेन हस्तधृतया कशया वा तु (यत्तु) तोद व्यथां चकार, ते त्वदीयं सर्वा ता तत्सर्वं ब्रह्मणा मन्त्रेण सूदयामि जुहोमि ।  
+तत्र दृष्टान्तः—अध्वरेषु यागेषु हविः संबन्धीनि तानि सर्वाण्याज्यादिविशेषरूपाणि स्रुचेव यथा स्रुचाऽऽज्यं जुह्वति तद्वत्।
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+यत् ते सादे।  
+हे अश्व, यत् ते तव सादे।  
+सीदन्त्य् अश्व-वारा अस्मिन्न् इति सादो ऽश्व-पृष्ठम् तस्मिन् सादे अवस्थितो ऽश्व-वारः महसा महत्वेनान्वितः सन्।  
+कथं-भूतस्य। शूकृतस्य शब्दानुकरणम् एतत्। शूत्कारं कुर्वतः।  
+अनन्तरम् पार्ष्ण्या वा कशया वा तुतोद।  
+‘तुद व्यथने’।  
+तुदति व्यथयति स्रुचा इव ता तानि यथा स्रुचा हविषः हविर् इति विभक्ति-व्यत्ययः।  
+अध्वरेषु यज्ञेषु जुह्वति एवं सर्वाणि ते तव ब्रह्मणा त्रयी-लक्षणेन सूदयामि क्षारयामि।  
+आहुतित्वेन कल्पयामीत्य् अर्थः॥ ४०॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हे अश्व, अश्व-वारः सादे गमने यत् ते तव त्वां [[पार्ष्यार्पादाधोभागेन|पार्ष्ण्या पादाधो-भागेन]] कशया वा तुतोद पीडितवान् ‘तुद व्यथने’ लिट्।  
+सदनं सादः घञ्।  
+कीदृशस्य तव।  
+महसा बलेन शू-कृतस्य शू-कृतम् अस्यास्ति शू-कृतः तस्य।  
+शब्दानुकरणम् एतत्।  
+शू-कारं कुर्वतः।  
+अध्वरेषु ता सर्वा तानि सर्वाणि ते तव पार्ष्णि-कशा-ताडनानि ब्रह्मणा मन्त्रेणाहं सूदयामि ‘षूद क्षरणे’ चुरादिः क्षारयामि।  
+यज्ञे आहुतित्वेन कल्पयामीत्य् अर्थः।  
+तत्र दृष्टान्तः।  
+हविषः स्रुचेव हविर् आज्यादिकं यथा स्रुचा जुह्वा सूदयामि तद्वत्।  
+एकं ता-पदं पाद-पूरणाय॥ ४०॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[642_6]** Dies a fehlt in Ch und ist von mir ergänzt; vgl. RV 1, 162, 17; TS 4, 6, 9, 3; VS 25, 40. (This a missing in Ch and is supplied by me; cf. RV 1, 162, 17; TS 4, 6, 9, 3; VS 25, 40.)
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वन् ! (ते) आप के (सादे) बैठने के स्थान में (महसा) बड़प्पन से (वा) अथवा (शूकृतस्य) जल्दी सिखाये हुए घोड़े के (कशया) कोड़े से (यत्) जिस कारण (पार्ष्ण्या) पसुली आदि स्थान (वा) वा कक्षाओं में जो उत्तम ताड़ना आदि काम वा (तुतोद) साधारण ताड़ना देना (ता) उन सब को (अध्वरेषु) यज्ञों में (हविषः) होमने योग्य पदार्थ सम्बन्धी (स्रुचेव) जैसे स्रुचा प्रेरणा देती वैसे करते हो (ता) वे (सर्वा) सब काम (ते) तेरे लिये (ब्रह्मणा) धन से (सूदयामि) प्राप्त करता हूँ ॥४० ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जैसे यज्ञ के साधनों से होमने योग्य पदार्थों को अग्नि में प्रेरणा देते हैं, वैसे ही घोड़े आदि पशुओं को अच्छी सिखावट की रीति से प्रेरणा देवें ॥४० ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वँस्ते सादे महसा शूकृतस्य कशया वा यत्पार्ष्ण्या वा तुतोद ता तान्यध्वरेषु हविषः स्रुचेव करोषि ता सर्वा ते ब्रह्मणाऽहं सूदयामि ॥४० ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्रोपमालङ्कारः। यथा यज्ञसाधनैर्हवींष्यग्नौ प्रेरयन्ति तथैवाश्वादीनि सुशिक्षारीत्या प्रेरयेयुः ॥४० ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. जसे यज्ञात आहुती टाकल्याने अग्नी उत्तेजित होतो तसे घोडे वगैरे पशूंना प्रशिक्षित करून उत्तेजित करावे.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Whoever has goaded you in your paces, either with heel or with whip, whilst nothing in your strength-- all these (vexations) I pour out with holy prayers, as oblation with the ladle.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+If, in riding you, anyone goaded (you) with his heel or with a whip,  along with too much “come on, come on,”  
+I make all these sweet for you with a sacred formulation, as (priests)  sweeten them [=oblations?] by the ladling of the oblation at the rites.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+The first hemistich is one of the few places in the RV that depicts horses being ridden (see also I.155.1, 163.2 -- though for an alternative for the latter see comm. ad loc. -- 163.9): both sādé lit. ‘in the seat’, here tr. ‘in riding’, and the mention of goading with a heel require a rider physically on a horse.
+
+I follow the general interpr. of śū́kṛta- as containing a syllable śū́used to urge on horses, hence my “come on, come on.” Although Google tells me that “chirrup” and “tchick” are so used (in English, or whatever we might call it), I judged that such a tr. would simply sow confusion.
+
+The three disfavored ways of goading a horse -- heel, whip, and excessive śū́- making -- are not parallel, or rather heel and whip go together and śū́is something else, and they are therefore summed up with useful vagueness by sárvā tā́“all these” in d. The vagueness is also useful because none of the three is a particular suitable object for sūdayāmi ‘I make sweet’, even in its most attenuated sense (Geldner “… mache ich … wieder gut”).
+
+The neut. pl. tā́in the simile in c is more mysterious. hávis- ‘oblation’ is a standard obj. of sūdáya-, but it is coopted here by the gen. háviṣaḥ. I have nonetheless supplied ‘oblations’ as the referent of tā́. Geldner supplies “die Fehler” on grounds of contextual sense only. He also cites Mah. as explaining tā́as “nur Füllwort” -- an explanation I’d like to be able to use more often!
+</details>
+
+<details><summary>Griffith</summary>
+
+If one, when seated, with excessive urging hath with his heel or with his whip distressed thee,  
+     All these thy woes, as with the oblations' ladle at sacrifices, with my prayer I banish.
+</details>
+
+<details><summary>Keith</summary>
+
+If one hath smitten thee, riding thee driven with force,  
+With heel or with whip [2],  
+As with the ladle the parts of the oblation in the sacrifice,  
+So with holy power all these of thine I put in order.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What pricked you while galloping, snorting through your might, whether by heel or by whip,  
+all those, as of an oblation with a ladle in the sacrifices, I appease with sacred formulation.
+</details>
+
+<details><summary>Geldner</summary>
+
+Wenn man dich beim Reiten durch übermäßiges Hetzen oder mit der Ferse oder der Peitsche angespornt hat, all das mache ich dir mit einem Segen wieder gut, wie mit einem Löffel Opferspeise die Fehler im Gottesdienst.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Was bei deiner Ermüdung durch das Uebermass des Antreibens, oder durch die Ferse [den Sporn] oder durch die Peitsche dich gequält hat, das alles versüsse ich dir durch Gebet, wie bei den Opfern durch den Butterlöffel.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Если во время езды, когда ты сильно храпишь,  
+(Тебя) пришпорили пяткой или (ударили) кнутом,  
+То подобно тому как ложкой топленого масла при обрядах (искупают ошибки),  
+Все это я исцелю молитвой.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मित्रादयो लिङ्गोक्ताः
+- दीर्घतमा औचथ्यः
+- निचृत्त्रिष्टुप्
+- धैवतः
+
+- यज्ञो देवता
+- गोतम ऋषिः
+- भुरिक्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहा है ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वान् ! (यत्) जो (ते) तेरे (सादे) स्थित होने में (महसा) अत्यन्त बल से (शूकृतस्य) शीघ्र उत्पन्न किये हुए पदार्थों के (पार्ष्ण्या) छूनेवाले पदार्थ से (वा) वा (कशया) जिससे प्रेरणा दी जाती उस कोड़ा से घोड़े को (तुतोद) प्रेरणा देवे (वा) वा (अध्वरेषु) न नष्ट करने योग्य यज्ञों में (हविषः) होमने योग्य वस्तु के (स्रुचेव) जैसे स्रुचा से काम बनें वैसे (ता) उन कामों को प्रेरणा देवे (ता) उन (सर्वा) सब (ते) तेरे कामों को (ब्रह्मणा) धन से मैं (सूदयामि) अलग अलग करता हूँ ॥ १७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जैसे विद्वान् जन कोड़ा वा बेंत से घोड़े को, पनेड़ी से बैलों को, अंकुश से हाथी को अच्छी ताड़ना दे उनको शीघ्र चलाते हैं, वैसे ही कलायन्त्रों से अग्नि को अच्छे प्रकार चलाकर विमान आदि यानों को शीघ्र चलावें ॥ १७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे विद्वन् यद्यस्ते सादे महसा बलेन शूकृतस्य पार्ष्ण्या वा कशयाऽश्वं तुतोद वाऽध्वरेषु हविषः स्रुचेव ता तानि तुतोद ता सर्वा ते ब्रह्मणाऽहं सूदयामि ॥ १७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यत्) यः (ते) तव (सादे) स्थितौ (महसा) महता (शूकृतस्य) शीघ्रं निष्पादितस्य (पार्ष्ण्या) स्पर्शकारकेन (वा) (कशया) प्रेरकया (वा) (तुतोद) तुद्यात् प्रेरयेत् (स्रुचेव) (ता) तानि (हविषः) होतव्यस्य (अध्वरेषु) अहिंसनीयेषु यज्ञेषु (सर्वा) सर्वाणि (ता) तानि (ते) तव (ब्रह्मणा) धनेन (सूदयामि) क्षरयामि ॥ १७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्रोपमालङ्कारः। यथा विद्वांसः कशया वेत्रेणाश्वं प्रतोदेन वृषभान् अंकुशेन हस्तिनं प्रातड्य सद्यो गमयन्ति तथैव कलायन्त्रैरग्निं प्रचाल्य विमानादि यानानि शीघ्रं गमयेयुः ॥ १७ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात उपमालंकार आहे जसे विद्वान घोड्याला वेताने, बैलाला चाबकाने व हत्तीला अंकुशाने मारतात व त्यांना त्वरित पळवितात, तसेच कलायंत्राने अग्नीला चांगल्या प्रकारे चालवून विमान इत्यादी याने शीघ्र चालवावीत. ॥ १७ ॥
+</details>

@@ -1,0 +1,264 @@
++++
+title = "003"
+devataa = "अग्निः"
+RShiH = "मधुच्छन्दा वैश्वामित्रः"
+ChandaH = "गायत्री"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - मधुच्छन्दा वैश्वामित्रः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अग्नि᳓ना रयि᳓म् अश्नवत्  
+पो᳓षम् एव᳓ दिवे᳓-दिवे  
+यश᳓सं वीर᳓वत्तमम्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+_________
+**Morph**  
+agnínā ← agní- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+aśnavat ← √naś- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+evá ← evá (invariable)  
+{}
+
+póṣam ← póṣa- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vīrávattamam ← vīrávattama- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yaśásam ← yaśás- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निना॑ र॒यिम॑श्नव॒त्पोष॑मे॒व दि॒वेदि॑वे ।  
+य॒शसं॑ वी॒रव॑त्तमम् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अ॒ग्निना॑ र॒यिम॑श्नव॒त्पोष॑मे॒व दि॒वेदि॑वे ।  
+य॒शसव्ँ॑वी॒रव॑त्तमम् ॥
+</details>
+
+<details><summary>मूलम् - श्रीधरादि</summary>
+
+अग्नि᳘ना रयिमश्नवत्पो᳘षमेव᳘[[!!]] दिवे᳘दिवे। यश᳘सं व्वीर᳘वत्तमम्॥
+</details>
+
+<details><summary>मूलम् - Weber</summary>
+
+अग्नि᳘ना रयि᳘मश्नवत्पो᳘षमेव᳘ दिवे᳘-दिवे यश᳘सं वीर᳘वत्तमम्॥
+</details>
+
+<details><summary>मूलम् - विस्वरम् (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+**“अग्निना रयिमश्नवत्पोषमेव दिवदिवे । यशसं वीरवत्तमम् ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निना॑ । र॒यिम् । अ॒श्न॒व॒त् । पोष॑म् । ए॒व । दि॒वेऽदि॑वे ।  
+य॒शस॑म् । वी॒रव॑त्ऽतमम् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अ॒ग्निना॑ । र॒यिम् । अ॒श्ञ॒व॒त् । पोष॑म् । ए॒व । दि॒वेदि॑व॒ इति॑ दि॒वे-दि॒वे॒ ॥ य॒शस॑म् । वी॒रव॑त्तम॒मिति॑ वी॒रव॑त्-त॒म॒म् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - माध्यन्दिन-ब्राह्मणम्)</summary>
+
+- अग्नि᳓ना (*TS*-30/1195, *RV*-7/856, *TB*-9/520, *TK*-0/105, *AV*-13/419, *SB-K*-60/2289, *VS-M*-8/322, *VS-K*-3/193, *KS*-5/256, *MS*-45/1297)
+- रयि᳓म् (*TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-K*-11/20, *VS-M*-24/35, *VS-K*-20/30, *KS*-17/27, *MS*-51/71)
+- अश्नव᳓त् (*RV*, *TS*)
+- पो᳓षम् (*TS*-17/59, *RV*-17/20, *TB*-1/5, *AV*-16/32, *SB-K*-1/12, *VS-M*-13/39, *VS-K*-2/12, *KS*-1, *MS*-5/22)
+- एव᳓ (*TS*-3243, *TB*-1830, *AV*-335, *RV*-173, *TK*-77, *VS-M*-24, *KS*-434, *MS*-2376)
+- दिवे᳓-दिवे (*TS*-7, *RV*-47, *TB*-1, *AV*-7, *SB-K*-1, *VS-M*-4, *VS-K*-3, *MS*-5)
+- यश᳓सम् (*TS*-2/3, *RV*-15/26, *TB*-2/3, *AV*-6/10, *SB-K*-1, *VS-M*-1/3, *VS-K*-1/3, *KS*-1, *MS*-5/6)
+- वीर᳓वत्तमम् (*TS*-2, *RV*-1, *SB-K*-1, *MS*-1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *agninā* ← *agni*
+- \[noun\], instrumental, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *rayim* ← *rayi*
+- \[noun\], accusative, singular, feminine
+- “wealth; property.”
+
+_________
+
+- *aśnavat* ← *aś*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “get; reach; enter (a state).”
+
+_________
+
+- *poṣam* ← *poṣa*
+- \[noun\], accusative, singular, masculine
+- “prosperity; poṣa \[word\].”
+
+_________
+
+- *eva*
+- \[adverb\]
+- “indeed; merely; thus; even; surely; same; eva \[word\];
+    successively; immediately; in truth.”
+
+_________
+
+- *dive* ← *diva*
+- \[noun\], locative, singular, neuter
+- “day; sky; Svarga.”
+
+_________
+
+- *dive* ← *diva*
+- \[noun\], locative, singular, neuter
+- “day; sky; Svarga.”
+
+_________
+
+- *yaśasaṃ* ← *yaśasam* ← *yaśas*
+- \[noun\], accusative, singular, masculine
+- “esteemed; celebrated; glorious; honorable.”
+
+_________
+
+- *vīravattamam* ← *vīravattama*
+- \[noun\], accusative, singular, masculine
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+दिवेदिवे- प्रतिदिनम्  । अग्निना- अग्निद्वारा । पोषम्- पुष्टिकरम् । यशसम्- सद्भिः प्रशस्यम्  ।  वीरवत्तमम्- आरोग्यकरम् । रयिम्- अन्नम्। अश्नवत्- उपासको भुङ्क्ते। अश भोजने। असितवर्णा हरयः सुपर्णा मिहो वसाना दिवमुत्पतन्ति।  त आववृत्रन्त्सदनानि कृत्वादित्पृथिवीं  घृतैर्व्युद्यते॥ इत्यादिमन्त्रैः वेदिस्थाग्निधूमेनैव गगने जलसदननिर्माणं तथा वृष्टिश्चोच्येते। एवं  वैदिकाग्निना सर्वभूतहिता वृष्टिस्तयान्नमारोग्यकरं साध्यते। तस्मादपि वैदिकाग्निः  सर्वभूतहितरत्याख्यक्रतोः हृदयस्थस्य प्रतीकः। तेन क्रतुना निःस्वार्थतया संपादितमन्नं साद्ध्यते  यदेव श्रुत्यभिप्रायेण आरोग्यकरम्। मोघमन्नं विन्दते अप्रचेताः सत्यं ब्रवीमि वध इत्स तस्येति  श्रुतेः॥३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+योऽयं होत्रा स्तुत्योऽग्निस्तेन **अग्निना** निमित्तभूतेन यजमानः **रयिं** धनम् **अश्नवत्** प्राप्नोति । कीदृशं रयिम्।“दिवेदिवे **पोषम्** **एवं** प्रतिदिनं पुष्यमाणतया वर्धमानमेव, न तु कदाचिदपि क्षीयमाणम् । **यशसं** दानादिना यशोयुक्तं **वीरवत्तमम्** अतिशयेन पुत्रभृत्यादिवीरपुरुषोपेतम् । सति हि धने पुरुषाः संपद्यन्ते । रयिशब्दो ‘मघम्' इत्यादिधननामसु (नि. २.१०.८) पठितः । तत्र फिट्स्वरः। अश्नोतेर्धातोर्लेटि व्यत्ययेन तिप् । ' इतश्च लोपः' (पा. सू. ३. ४. ९७ ) इति इकारलोपः। 'लेटोऽडाटौ' (पा. सू. ३. ४. ९४ ) इत्यडागमः । ततः ‘अश्नवत्' इति भवति । तस्य निघातः। घञन्तत्वात् ( पा. सू. ६. १. १९७ ) पोषशब्द आद्युदात्तः । एवशब्दस्य निपातत्वेऽपि ‘एवादीनामन्तः ' (फि. सू. ८२ ) इत्यन्तोदात्तत्वम् । वकारान्तात् दिव्शब्दात् परस्याः सप्तम्याः ‘सुपां सुलुक्° ' ( पा. सू. ७. १. ३९ ) इत्यादिना शेभावे सति सावेकाचः' ( पा. सू. ६. १. १६८ ) इत्यादिना ‘ऊडिदंपदात् ' ( पा, सू. ६. १. १७१ ) इत्यादिना वा तस्योदात्तत्वम्। नित्यवीप्सयोः' ( पा. सू. ८. १. ४) इति द्विर्भावे सति उत्तरभागस्य ' अनुदात्तं च ' ( पा. सू. ८, १. ३ ) इत्यनुदात्तत्वम् । यशोऽस्यास्तीति विग्रहे सति ‘ अर्शआदिभ्योऽच् ' ( पा. सू. ५. २. १२७) इति अच्प्रत्ययः । चित्स्वरं व्यत्ययेन बाधित्वा मध्योदात्तत्वम् । फिट्स्वरेणान्तोदात्तात् वीरशब्दात् उत्तरयोर्मतुप्तमपोः पित्त्वादनुदात्तत्वम् । ह्रस्वनुड्भ्याम् ' ( पा. सू. ६. १. १७६ ) इति तु न साववर्णान्तत्वात् । ‘न गोश्वन्° ' ( पा. सू. ६. १. १८२ ) इति प्रतिषेधः ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अग्निना हि रयिं धनं पशुलक्षणं अश्नवत् अश्नुते । पोषं चैव तस्य धनस्य अश्नुते अग्निना दिवेदिवे दिनेदिने । अश्नोतेर्लेटि व्यत्ययेन परस्मैपदम् इतश्च लोपः, 'लेटोडाटौ' इत्यडागमः । रयिर्विशेष्यते - यशसं यशस्विनम् । मत्वर्थीयो लुप्यते, तेनानब्विषयत्वादाद्युदात्तत्वं निवर्तते, अर्शआदित्वादचि व्यत्ययेन प्रत्ययात्पूर्वस्योदात्तत्वम् । वीरवत्तमं अतिशयेन वीरैः पुरुषैस्तद्वन्तम् । यस्मादीदृशं रयिं अग्निना सर्वो जनः अश्नुते तस्मादहमप्यग्निना ईदृशं रयिं अश्नुवीयेति ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अनेनाग्निना रयिं धनम् अश्नवत् सर्वो जनः प्राप्नोति।
+
+न केवलं धनस्य स्वरूप-मात्रं, किंतु दिने दिने तस्य धनस्य पुष्टिम् एव प्राप्नोति न तु ह्रासम्।
+
+कीदृशं पोषं? यशसं कीर्ति-करं, वीरवत्तमं, वीरा अस्मदीयाः पुत्रा अन्येति वीरवान् अतिशयेन तथा-विधम्।
+</details>
+
+<details><summary>सायणः (माध्यन्दिन-ब्राह्मणम्)</summary>
+
+ते याज्यानुवाक्ये दर्शयति- **अग्निना रयिमि**ति । 'अग्निना' देवतया 'रयिं' धनं 'अश्नवत्' यजमानः प्राप्नुयात् । तस्य धनस्य 'दिवेदिवे' प्रतिदिवसं 'पोषम्' अतिवृद्धिमेव प्राप्नोति । न तु क्षयम् । तथा 'वीरवत्तमम्' वीराः पुत्राः तदतिशयेन तद्युक्तम् । 'यशसं' यशःशब्दः अंतोदात्तः पुल्ँलिंगः । उक्तलक्षणं यशः प्राप्नोतीत्यर्थः । एषा आग्नेयस्याज्यभागस्यानुवाक्या । अथ सौम्यस्य गयस्फान इत्येषा । गय इति गृहनाम । तस्य वर्द्धयिता 'अमीवाः' रोगास्तेषां हंता । वसुनो धनस्य लंभयिता । पुष्टेः पोषस्य वर्द्धयिता । हे 'सोम !' एवंगुणविशिष्टस्त्वं 'नः' अस्माकं 'सुमित्रः' शोभनसख्ययुक्तः 'भव' ।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Through **Agni** the worshipper obtains that affluence which increases day by day, which is the source of fame and multiplier of mankind.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+By Agni one will obtain wealth and prosperity every day,  
+glorious and richest in heroes.
+</details>
+
+<details><summary>Griffith</summary>
+
+Through Agni man obtaineth wealth, yea, plenty waxing day by day,   
+   Most rich in heroes, glorious.
+</details>
+
+<details><summary>Keith</summary>
+
+By Agni may one win wealth  
+And abundance day by day,  
+Glory, full of heroes.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Through Agni one may obtain wealth, prosperity day by day,  
+glorious, most rich in heroes.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+May one obtain through Agni wealth and welfare day by day, which may bring glory and high bliss of valiant offspring.
+</details>
+
+<details><summary>Macdonell</summary>
+
+Through Agni may we riches gain, And day by day prosperity Replete with fame and manly sons.
+</details>
+
+<details><summary>Geldner</summary>
+
+Durch Agni möge er Reichtum und Zuwachs Tag für Tag erlangen, ansehnlichen, der die meisten Söhne zählt.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Durch Agni werd' uns Tag für Tag Gedeihn und schönes Gut zu Theil, Das reich mit Helden sei versehn.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Агни, посредством (него) пусть достигает он богатства  
+И процветания – изо дня в день –  
+Сияющего, мужеобильнейшего!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- मधुच्छन्दाः वैश्वामित्रः
+- गायत्री
+- षड्जः
+</details>

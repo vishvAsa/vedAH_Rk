@@ -1,0 +1,349 @@
++++
+title = "008"
+devataa = "इन्द्रः"
+RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+भिन᳓द् वल᳓म् अ᳓ङ्गिरोभिर् गृणानो᳓  
+वि᳓ प᳓र्वतस्य दृंहिता᳓नि ऐरत्  
+रिण᳓ग् रो᳓धांसि कृत्रि᳓माणि एषां  
+सो᳓मस्य ता᳓ म᳓द इ᳓न्द्रश् चकार
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+_________
+**Morph**  
+áṅgirobhiḥ ← áṅgiras- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+bhinát ← √bhid- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+gr̥ṇānáḥ ← √gr̥̄- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+valám ← valá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+airat ← √īr- (root)  
+{number:SG, person:3, mood:IND, tense:AOR, voice:ACT}
+
+dr̥ṁhitā́ni ← √dr̥h- (root)  
+{case:NOM, gender:N, number:PL, non-finite:PPP}
+
+párvatasya ← párvata- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+kr̥trímāṇi ← kr̥tríma- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+riṇák ← √ric- (root)  
+{number:SG, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+ródhāṁsi ← ródhas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+cakāra ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+índraḥ ← índra- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+máde ← máda- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+sómasya ← sóma- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+भि॒नद्व॒लमङ्गि॑रोभिर्गृणा॒नो वि पर्व॑तस्य दृंहि॒तान्यै॑रत् ।  
+रि॒णग्रोधां॑सि कृ॒त्रिमा॑ण्येषां॒ सोम॑स्य॒ ता मद॒ इन्द्र॑श्चकार ॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+भिन᳓द् वल᳓म् अ᳓ङ्गिरोभिर् गृणानो᳓ वि᳓ प᳓र्वतस्य दृँहिता᳓न्य् ऐरत्  
+रिण᳓ग् रो᳓धाँसि कृत्रि᳓मान्य् एषाँ सो᳓मस्य ता᳓ म᳓दा इ᳓न्द्रश् चकार
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भि॒नत् । व॒लम् । अङ्गि॑रःऽभिः । गृ॒णा॒नः । वि । पर्व॑तस्य । दृं॒हि॒तानि॑ । ऐ॒र॒त् ।  
+रि॒णक् । रोधां॑सि । कृ॒त्रिमा॑णि । ए॒षा॒म् । सोम॑स्य । ता । मदे॑ । इन्द्रः॑ । च॒का॒र॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- भिन᳓त् (*TS*-1, *RV*-11, *AV*-2)
+- वल᳓म् (*TS*-2/3, *RV*-13/23, *TB*-1, *AV*-6/11, *VS-K*-1, *KS*-1)
+- अ᳓ङ्गिरोभिः (*TS*-5/34, *RV*-9/40, *TB*-0/10, *TK*-0/3, *AV*-5/27, *SB-M*-0/21, *SB-K*-0/20, *VS-M*-0/4, *VS-K*-0/3, *KS*-0/8)
+- गृणानः᳓ (*TS*-1/2, *RV*-37/44, *AV*-5, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1, *KS*-1/2)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- प᳓र्वतस्य (*TS*-2/10, *RV*-13/115, *TB*-0/5, *AV*-3/43, *SB-M*-2/8, *SB-K*-2/8, *VS-M*-1/6, *VS-K*-1/7, *KS*-0/8)
+- दृंहिता᳓नि (*TS*-1/2, *RV*-4/7, *AV*-2)
+- ऐरत् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-4, *TB*-2)
+- रिण᳓क् (*RV*-1)
+- रो᳓धांसि (*TS*-1, *RV*-2/4)
+- कृत्रि᳓मानि (*TS*-0/1, *RV*-0/2, *AV*-0/2)
+- एषाम् (*TS*-37, *RV*-136, *TB*-26, *TK*-4, *AV*-65, *SB-M*-98, *SB-K*-74, *VS-M*-21, *VS-K*-13, *KS*-11)
+- सो᳓मस्य (*TS*-38/294, *RV*-118/728, *TB*-20/198, *TK*-0/4, *AV*-26/214, *SB-M*-42/443, *SB-K*-34/436, *VS-M*-18/128, *VS-K*-17/108, *KS*-10/80)
+- ताः᳓ (*TS*-136/4763, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/768, *VS-K*-16/624, *KS*-61/1225)
+- म᳓दाः (*TS*-0/9, *RV*-11/273, *TB*-2/8, *AV*-6/37, *SB-M*-0/10, *SB-K*-0/10, *VS-M*-1/11, *VS-K*-0/7, *KS*-0/5)
+- इ᳓न्द्रः (*TS*-179/497, *RV*-564/1345, *TB*-131/363, *TK*-5/8, *AV*-306/606, *SB-M*-291/535, *SB-K*-292/509, *VS-M*-97/388, *VS-K*-93/358, *KS*-72/189)
+- चकार (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-28, *TB*-3, *TK*-4, *AV*-7, *SB-M*-51, *SB-K*-62)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *bhinad* ← *bhinat* ← *bhid*
+- \[verb\], singular, Present injunctive
+- “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
+    lance; break; distinguish; disclose; pierce; tear; separate;
+    transgress; break open; scratch; penetrate; sever; bribe; grind;
+    betray; fester; strike.”
+
+_________
+
+- *valam* ← *vala*
+- \[noun\], accusative, singular, masculine
+- “Vala; vala; cave.”
+
+_________
+
+- *aṅgirobhir* ← *aṅgirobhiḥ* ← *aṅgiras*
+- \[noun\], instrumental, plural, masculine
+- “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
+    Aṅgiras.”
+
+_________
+
+- *gṛṇāno* ← *gṛṇānaḥ* ← *gṛ*
+- \[verb noun\], nominative, singular
+- “praise.”
+
+_________
+
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+
+_________
+
+- *parvatasya* ← *parvata*
+- \[noun\], genitive, singular, masculine
+- “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
+    height.”
+
+_________
+
+- *dṛṃhitāny* ← *dṛṃhitāni* ← *dṛṃhita*
+- \[noun\], accusative, plural, neuter
+
+_________
+
+- *airat* ← *īr*
+- \[verb\], singular, Imperfect
+- “go.”
+
+_________
+
+- *riṇag* ← *riṇak* ← *ric*
+- \[verb\], singular, Present injunctive
+- “empty; liberate; concede; surrender; purge.”
+
+_________
+
+- *rodhāṃsi* ← *rodhas*
+- \[noun\], accusative, plural, neuter
+- “shore; bank; slope; wall.”
+
+_________
+
+- *kṛtrimāṇy* ← *kṛtrimāṇi* ← *kṛtrima*
+- \[noun\], accusative, plural, neuter
+- “factitious; artificial; fake.”
+
+_________
+
+- *eṣāṃ* ← *eṣām* ← *idam*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *somasya* ← *soma*
+- \[noun\], genitive, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+
+_________
+
+- *tā* ← *tad*
+- \[noun\], accusative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *mada* ← *made* ← *mada*
+- \[noun\], locative, singular, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+
+_________
+
+- *indraś* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *cakāra* ← *kṛ*
+- \[verb\], singular, Perfect indicative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अङ्गिरोभिः- अङ्गनशीलैरुपासकैः। गृणानः- स्तुतः। वलम्- संवरणम्। वल संवरणे। भिनत्-  बिभेद। पर्वतस्य- जडप्रतीकस्य गिरेर्मेघस्य वा। हितानि- दृढानि बन्धनानि। वि ऐरत्-  उद्धाटितवान्। एषाम्- एतेषां जडप्रतीकपर्वतानाम्। कृत्रिमाणि- अस्वाभाविकानि। रोधांसि-  रोधनानि। रिणक्- उद्धाटितवान्॥८॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अङ्गिरोभिर्गृणानः स्तूयमानः सइन्द्रः वलंवलनामकमसुरम्भिनत् अभिनत् तथागवान्निरोधक- स्यपर्वतस्यदृंहितानिशिलाभिर्दृढीकृतानिद्वाराणि व्यैरत् उद्घाटितवान् तदेवाह एषाम्पर्वतानां कृत्रि- माणिक्रिययानिर्वृत्तानिरोधांसिनिरुद्धानिद्वाराणिरिणक् उदघटयत् गतमन्यत् ॥ ८ ॥ अतिमूर्तिनाम्न्येकाहे निष्केवल्येसूक्तमुखीयास्वप्नेनेत्येषा सूत्रितम्—स्वप्नेनाभ्युप्याचुमुरिन्धुनिं- चेतिसूक्तमुखीयेति ।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Praised by the **Aṅgirasas**, he destroyed **Bala**; he forced upon the firm **shut** (doors) of the mountain; he broke down their artificial defences; in the exhilaration of the **Soma**, **Indra** has done these (deeds).”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Being sung by the Aṅgirases, he split the cave. He broke apart the  fortifications of the mountain  
+and cleared their fashioned obstructions. – In soma’s exhilaration Indra  did these things.
+</details>
+
+<details><summary>Griffith</summary>
+
+Praised by the Angirases he slaughtered Vala, and burst apart the bulwarks of the mountain.  
+     He tore away their deftly-built defences. These things did Indra in the Soma's rapture.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+He split Vala, being praised with the Aṅgirases; he drove apart the strongholds of the mountain;  
+he let loose their artificial dams; those exhilarations of Soma Indra performed.
+</details>
+
+<details><summary>Geldner</summary>
+
+Er erbrach den Vala, von den Angiras´ gepriesen; er zersprengte die Festen des Berges, er räumte ihre künstlichen Wälle fort. - Im Rausche des Soma hat das Indra getan.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Den Vala schlug er mit den Angirasen, und nahm hinweg des Wolkenberges Wehren; Er räumte weg die aufgeworf'nen Wälle; im Rausch des Soma hat vollbracht dies Indra.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Он проломил (пещеру) Вала, воспеваемый Ангирасами.  
+Он взорвал твердыни горы,  
+Он устранил их искусственные валы.  
+В опьянении сомой Индра совершил эти (подвиги).
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गृत्समदः शौनकः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर प्रकारान्तर से विद्वानों के विषय को अगले मन्त्र में कहा है।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वान् (गृणानः) प्रशंसा करते हुए आप जैसे (इन्द्रः) सर्वपदार्थ छिन्न-भिन्न करता सूर्य (अङ्गिरोभिः) अङ्गों के सदृश किरणों से (पर्वतस्य) मेघ के समान प्रजा के (बलम्) बल को (विभिनत्) विशेषता से छिन्न-भिन्न करता (सोमस्य) विश्व के (दृंहितानि) बढ़े हुए पदार्थों को (ऐरत्) प्राप्त होता वा (एषाम्) इन पदार्थों के (कृत्रिमाणि) कृत्रिम (रोधांसि) आवरणों को अर्थात् जिनसे यह उन्नति को नहीं प्राप्त होते उन पदार्थों को (रिणक्) मारता नष्ट करता (ता) उक्त कामों को (मदे) हर्ष के निमित्त (चकार) करता है वैसा प्रयत्न करिये ॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। हे मनुष्यो ! जैसे वायु के सहाय से अग्नि अद्भुत कर्मों को करता है, वैसे धार्मिक विद्वान् के सहाय से मनुष्य बड़े-बड़े उत्तम काम कर सकते हैं ॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे विद्वन् गृणानस्त्वं यथेन्द्रः सूर्योऽङ्गिरोभिः पर्वतस्य बलं विभिनत्सोमस्य दृंहितानैरेदेषां कृत्रिमाणि रोधांसि रिणक् ता मदे चकार तथा प्रयतस्व ॥०८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनः प्रकारान्तरेण विद्वद्विषयमाह।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (भिनत्) भिनत्ति (बलम्) मेघम् (अङ्गिरोभिः) अङ्गसदृशैः किरणैः (गृणानः) (वि) (पर्वतस्य) मेघस्येव प्रजायाः (दृंहितानि) वर्द्धितानि (ऐरत्) प्राप्नोति (रिणक्) हिनस्ति (रोधांसि) आवरणानि (कृत्रिमाणि) क्रियमाणानि (एषाम्) (सोमस्य) विश्वस्य (ता) (मदे) (इन्द्रः) (चकार) ॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। हे मनुष्या ! यथा वायुसहायेनाग्निरद्भुतानि कर्माणि करोति तथा धार्मिकविद्वत्सहायेन मनुष्या महान्त्युत्तमानि कर्माणि कर्त्तुं शक्नुवन्ति ॥८॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे माणसांनो! जसे वायूच्या साह्याने अग्नी अद्भुत कार्य करतो तसे धार्मिक विद्वानाच्या साह्याने माणसे महान कार्ये करतात. ॥ ८ ॥
+</details>

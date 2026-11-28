@@ -1,0 +1,367 @@
++++
+title = "010"
+devataa = "अग्निरग्निरौषस्योवा"
+RShiH = "कुत्स आङ्गिरसः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निरग्निरौषस्योवा
+- ऋषिः - कुत्स आङ्गिरसः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+ध᳓न्वन् स्रो᳓तः कृणुते गातु᳓म् ऊर्मिं᳓  
+शुक्रइ᳓र् ऊर्मि᳓भिर् अभि᳓ नक्षति क्षा᳓म्  
+वि᳓श्वा स᳓नानि जठ᳓रेषु धत्ते  
+अन्त᳓र् न᳓वासु चरति प्रसू᳓षु
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+dhánvan ← dhánvan- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kr̥ṇute ← √kr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+srótaḥ ← srótas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+abhí ← abhí (invariable)  
+{}
+
+kṣā́m ← kṣám- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+nakṣati ← √nakṣ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śukraíḥ ← śukrá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+ūrmíbhiḥ ← ūrmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+dhatte ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jaṭháreṣu ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:PL}
+
+sánāni ← sána- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+carati ← √carⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+návāsu ← náva- 2 (nominal stem)  
+{case:LOC, gender:F, number:PL}
+
+prasū́ṣu ← prasū́- (nominal stem)  
+{case:LOC, gender:F, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+धन्व॒न्त्स्रोतः॑ कृणुते गा॒तुमू॒र्मिं शु॒क्रैरू॒र्मिभि॑र॒भि न॑क्षति॒ क्षाम् ।  
+विश्वा॒ सना॑नि ज॒ठरे॑षु धत्ते॒ऽन्तर्नवा॑सु चरति प्र॒सूषु॑ ॥
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+धन्वं स्रोतः कृणुते गातुम् ऊर्मिं  
+शुक्रैर् ऊर्मिभिर् अभि नक्षति क्षाम् ।  
+विश्वा सनानि जठरेषु धत्ते  
+ऽन्तर् नवासु चरति प्रसूषु ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धन्व॑न् । स्रोतः॑ । कृ॒णु॒ते॒ । गा॒तुम् । ऊ॒र्मिम् । शु॒क्रैः । ऊ॒र्मिऽभिः॑ । अ॒भि । न॒क्ष॒ति॒ । क्षाम् ।  
+विश्वा॑ । सना॑नि । ज॒ठरे॑षु । ध॒त्ते॒ । अ॒न्तः । नवा॑सु । च॒र॒ति॒ । प्र॒ऽसूषु॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- ध᳓न्वन् (*TS*-2/12, *RV*-8/16, *AV*-1/9, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-1/8, *VS-K*-1/8, *MS*-0/2)
+- स्रो᳓तः (*Whitney*, *RV*-1/2)
+- कृणुते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-28, *AV*-13, *SB-K*-1, *VS-M*-3, *VS-K*-3, *MS*-2)
+- गातु᳓म् (*TS*-11/12, *RV*-38/48, *TB*-6, *AV*-7/10, *SB-M*-8, *SB-K*-8, *VS-M*-4, *VS-K*-2, *MS*-14/17)
+- ऊर्मि᳓म् (*TS*-2/10, *RV*-23/70, *TB*-0/2, *AV*-0/6, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-1/10, *VS-K*-1/12, *KS*-0/4, *MS*-1/13)
+- शुक्रैः᳓ (*TS*-0/70, *RV*-3/105, *TB*-0/28, *TK*-0/1, *AV*-0/29, *SB-M*-0/87, *SB-K*-0/90, *VS-M*-0/57, *VS-K*-0/50, *KS*-0/22, *MS*-0/96)
+- ऊर्मि᳓भिः (*TS*-0/10, *RV*-5/70, *TB*-0/2, *AV*-0/6, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-0/10, *VS-K*-0/12, *KS*-0/4, *MS*-1/13)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-251, *TK*-15, *AV*-269, *SB-M*-607, *SB-K*-605, *VS-M*-97, *VS-K*-111, *KS*-42, *MS*-330)
+- नक्षति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2, *AV*-1, *MS*-1)
+- क्षा᳓म् (*RV*-17/27, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-K*-0/1, *MS*-0/3)
+- वि᳓श्वा (*TS*-39/282, *RV*-273/1116, *TB*-5/73, *TK*-2/123, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/220, *VS-M*-32/225, *VS-K*-35/224, *KS*-4/40, *MS*-51/261)
+- स᳓नानि (*RV*-2/14, *AV*-0/6, *SB-M*-0/2, *SB-K*-0/2, *KS*-0/1, *MS*-0/2)
+- जठ᳓रेषु (*TS*-0/3, *RV*-6/30, *TB*-0/1, *AV*-0/8, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/4, *VS-K*-0/3, *MS*-0/2)
+- धत्ते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-111, *RV*-12, *TB*-62, *AV*-1, *SB-M*-123, *SB-K*-132, *KS*-13, *MS*-84)
+- अन्तः᳓ (*TS*-81/87, *RV*-154, *TB*-11/14, *TK*-26, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-44, *VS-K*-37/44, *KS*-19, *MS*-69/71)
+- न᳓वासु (*TS*-0/2, *RV*-1/31, *TB*-0/19, *AV*-0/11, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/2, *VS-K*-0/2, *MS*-0/5)
+- चरति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-22, *RV*-25, *TB*-24, *AV*-23, *SB-M*-81, *SB-K*-75, *VS-K*-3, *KS*-1, *MS*-32)
+- प्र-सू᳓षु (*TS*-0/1, *RV*-2, *AV*-0/1, *SB-M*-0/1, *VS-M*-0/1, *KS*-0/1, *MS*-0/1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *dhanvan*
+- \[noun\], locative, singular, neuter
+- “bow; desert; steppe; barren.”
+
+_________
+
+- *srotaḥ* ← *srotas*
+- \[noun\], nominative, singular, neuter
+- “srotas; vessel; current; torrent; srotas \[word\]; flow; cavity;
+    orifice; passage; tube.”
+
+_________
+
+- *kṛṇute* ← *kṛ*
+- \[verb\], singular, Present indikative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+
+_________
+
+- *gātum* ← *gātu*
+- \[noun\], accusative, singular, masculine
+- “path; way.”
+
+_________
+
+- *ūrmiṃ* ← *ūrmim* ← *ūrmi*
+- \[noun\], accusative, singular, masculine
+- “wave; billow.”
+
+_________
+
+- *śukrair* ← *śukraiḥ* ← *śukra*
+- \[noun\], instrumental, plural, masculine
+- “bright; clear; white; light; pure.”
+
+_________
+
+- *ūrmibhir* ← *ūrmibhiḥ* ← *ūrmi*
+- \[noun\], instrumental, plural, masculine
+- “wave; billow.”
+
+_________
+
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+
+_________
+
+- *nakṣati* ← *nakṣ*
+- \[verb\], singular, Present indikative
+- “reach; approach.”
+
+_________
+
+- *kṣām* ← *kṣā*
+- \[noun\], accusative, singular, feminine
+- “Earth; Earth.”
+
+_________
+
+- *viśvā* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *sanāni* ← *sana*
+- \[noun\], accusative, plural, neuter
+- “age-old; ancient.”
+
+_________
+
+- *jaṭhareṣu* ← *jaṭhara*
+- \[noun\], locative, plural, neuter
+- “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
+
+_________
+
+- *dhatte* ← *dhā*
+- \[verb\], singular, Present indikative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+
+_________
+
+- *'ntar* ← *antar*
+- \[adverb\]
+- “inside; in; antar \[word\]; midmost; between; among.”
+
+_________
+
+- *navāsu* ← *nava*
+- \[noun\], locative, plural, feminine
+- “new; fresh; young; matutinal; recent; nava \[word\]; modern;
+    fresh.”
+
+_________
+
+- *carati* ← *car*
+- \[verb\], singular, Present indikative
+- “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
+    observe; enter (a state); observe; cause; crop; behave; practice;
+    heed; process; administer.”
+
+_________
+
+- *prasūṣu* ← *prasū*
+- \[noun\], locative, plural, feminine
+- “mother; grass.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+गातुम्- गमनशीलम्। ऊर्मिं- उदकतरङ्गम्। धन्वन्- अन्तरिक्षे। स्रोतः- प्रवाहरूपेण। कृणुते-  कुरुते। चित्ताधारशक्तिप्रवाहानुभवं चित्ताकाशे प्रापयतीति भावः। शुक्रैः- द्योतमानैः। ऊर्मिभिः-  उदकतरङ्गजालैः। क्षाम्- भूमिम्। अभि- अभितः। नक्षति- व्याप्नोति।  चित्ताधारशक्तिप्रवाहानाशरीरं प्रापयतीति भावः। विश्वा- सर्वाणि। सनानि- अन्नानि। उदकानीति  प्रकरणार्थः। जठरेषु- स्वोदरेषु। धत्ते- धरते। चित्ताधारशक्तिप्रवाहान् सर्वान् स्वात्मन्येव बिभर्तीति  भावः। नवासु प्रसूषु- नवीनतया प्रादुर्भूतासु। अन्तः। चरति। मनःप्राणशरीराणां विविधासु  भूमिकासु प्रादुर्भूता ये चित्ताधारशक्तिप्रवाहानुभवास्तेष्वन्तश्चरत्यग्निः कविक्रतुरिति भावः॥१०॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**धन्वन्** नभसि **गातुं** गमनशीलम् **ऊर्मिम्** उदकसंघम् अयमग्निः **स्रोतः** **कृणुते** स्रोतसा प्रवाहरूपेण युक्तं करोति । **शुक्रैः** निर्मलैः **ऊर्मिभिः** तैर्जलसंघैः **क्षां** भूमिम् **अभि** **नक्षति** अभिव्याप्नोति । स्वतेजोभिरन्तरिक्षे जलसंघमुत्पाद्य तेन सर्वा भूमिमभिवर्षतीत्यर्थः । पश्चात् **विश्वा** सर्वाणि **सनानि** । अन्ननामैतत् । सर्वाण्यन्नानि **जठरेषु** **धत्ते** अवस्थापयति । तदर्थं **नवासु** वृष्ट्यनन्तरमुत्पन्नासु **प्रसूषु** सर्वेषामन्नानां प्रसवित्रीष्वोषधीषु पाकार्थम् **अन्तः** **चरति** मध्ये वर्तते । अन्तरवस्थितेन भौमाग्निना सर्वा ओषधयः पच्यन्ते ॥ धन्वन् । ‘रिवि रवि धवि गत्यर्थाः । इदित्त्वात् नुम् । 'कनिन्युवृषि° ' इत्यादिना कनिन् ।' सुपां सुलुक् ' इति सप्तम्या लुक्। ‘ धन्वान्तरिक्षं धन्वन्त्यस्मादापः ' (निरु. ५. ५) इति यास्कः । नित्त्वात् आद्युदात्तत्वम् । गातुम् । ‘ गाङ् गतौ ।' कमिमनिजनि” ' इत्यादिना तुप्रत्ययः । ऊर्मिम् । “ अर्तेरू च ' इति मिप्रत्ययः । मक्षति। ‘ नक्ष गतौ ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“He causes the waters to flow in a torrent through the sky, and with those pure waves he inundates the earth; he gathers all (articles of) food in the stomach, and for that purpose sojourns in the new-sprung parents (of the gain).”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Navasu prasuṣu = in the new parents, or mothers; i.e. in the **oṣadhis**, the annual crops whichripen after the rains and bear food, being impregnated by the terrestrial **Agni**
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+He makes himself a stream in the wasteland, a way, and a wave. With  blazing waves he reaches the ground.  
+He takes all the old things [=dry wood] in his bellies; he roams within  the new, fruitful (plants).
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+In pāda a srótaḥ can be either nominative, as appositive to the underlying subject Agni, or accusative, an object parallel to gātúm ūrmím. I chose the second alternative, contra Geldner / Renou, but either is possible and the meaning is virtually identical.
+</details>
+
+<details><summary>Griffith</summary>
+
+In dry spots he makes stream, and course, and torrent, and inundates the earth with floods that glisten.  
+     All ancient things within his maw he gathers, and moves among the new fresh-sprouting grasses.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+On the dry ground he produces a stream 1, a course, a flood. With his bright floods he reaches the earth. Whatever is old he receives into his belly. He moves about within the young sprouting grass 2.
+</details>
+
+<details><summary>Geldner</summary>
+
+Ein Strom auf dürrem Lande macht er sich Bahn, treibt seine Woge; mit lichten Wogen sucht er die Erde auf. Alles alte Holz steckt er in seine Bäuche und geht in die frischen Pflanzen ein.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Im Trocknen schafft er Strom sich, Bahn und Woge, mit hellen Wogen dringt er zu der Erde; Er nimmt das Alte alles in den Leib auf, und eilt hinein in immer neue Mütter.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Источник в сухой земле, он пролагает путь, (гонит) волну.  
+Светлыми волнами он добирается до земли.  
+Все старое он поглощает (своими) внутренностями.  
+Он входит внутрь свежих побегов.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सत्यगुणविशिष्टोऽग्निः शुद्धोऽग्निर्वा
+- कुत्सः आङ्गिरसः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब समय वा अग्नि किस प्रकार का है, इस विषय को अगले मन्त्र में कहा है ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जो समय वा बिजुलीरूप आग (धन्वन्) अन्तरिक्ष में (स्रोतः) जिससे और-और वस्तु वा जल प्राप्त होते हैं उस (गातुम्) प्राप्त होने योग्य (ऊर्मिम्) प्रातःसमय की वेला वा जल की तरङ्ग को (कृणुते) प्रकट करता है वा (शुक्रैः) शुद्ध क्रम वा किरणों और (ऊर्मिभिः) पदार्थ प्राप्त कराने हारे तरङ्गों से (क्षाम्) भूमि को भी (अभि, नक्षति) सब ओर से व्याप्त और प्राप्त होता है वा जो (जठरेषु) भीतरले व्यवहारों और पेट के भीतर अन्न आदि पचाने के स्थानों में (विश्वा) समस्त (सनानि) न्यारे-न्यारे पदार्थों को (धत्ते) स्थापित करता वा जो (प्रसूषु) पदार्थ उत्पन्न होते हैं उनमें वा (नवासु) नवीन प्रजाजनों में (अन्तः) भीतर (चरति) विचरता है, उसको यथावत् जानो ॥ १० ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  आप्त विद्वान् मनुष्यों को चाहिये कि व्यापनशील काल और बिजुलीरूप अग्नि को जानकर उनके निमित्त से अनेक कामों को यथावत् सिद्ध करें ॥ १० ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्या यः कालो विद्युदग्निर्वा धन्वन् स्रोतो गातुमूर्मिं च कृणुते शुक्रैरूर्मिभिः क्षां चाभिनक्षति जठरेषु विश्वा सनानि धत्ते प्रसूषु नवासु वा प्रजास्वन्तश्चरति तं यथावद्विजानीत ॥ १० ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथ कालोऽग्निर्वा कीदृश इत्युपदिश्यते ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (धन्वन्) अन्तरिक्षे धन्वान्तरिक्षं धन्वन्त्यस्मादापः। निरु० ५। ५। ) (स्रोतः) स्रवन्ति वस्तूनि जलानि वा येन तत् (कृणुते) करोति (गातुम्) प्राप्तव्यम् (ऊर्मिम्) उषसं जलवीचिं वा (शुक्रैः) शुद्धैः क्रमैः किरणैर्वा (ऊर्मिभिः) प्रापकैः प्रकाशैस्तरङ्गैर्वा। अर्त्तेरू च। उ० ४। ४४। अत्र ऋधातोर्मिः प्रत्यय ऊकारादेशश्च। (अभि) सर्वतः (नक्षति) व्याप्नोति गच्छति वा (क्षाम्) भूमिम् (विश्वा) सर्वाणि (सनानि) संविभागयुक्तानि वस्तूनि (जठरेषु) अन्तर्वर्त्तिष्वन्नादिपचनाधिकरणेषु वा (धत्ते) (अन्तः) आभ्यन्तरे (नवासु) अर्वाचीनासु प्रजासु वा (चरति) (प्रसूषु) प्रसूयन्ते यास्तासु ॥ १० ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  आप्तैर्विद्वद्भिर्व्यापनशीलौ कालविद्युदग्नी विज्ञाय तन्निमित्तान्यनेकानि कार्याणि यथावत्साधनीयानि ॥ १० ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  आप्त विद्वान माणसांनी व्यापनशील काल व विद्युतरूपी अग्नीला जाणून त्यांच्या निमित्ताने अनेक कामांना योग्य प्रकारे सिद्ध करावे. ॥ १० ॥
+</details>

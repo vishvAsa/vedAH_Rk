@@ -1,0 +1,535 @@
++++
+title = "014"
+devataa = "अश्वः"
+RShiH = "दीर्घतमा औचथ्यः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्वः
+- ऋषिः - दीर्घतमा औचथ्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+निक्र᳓मणं निष᳓दनं विव᳓र्तनं  
+य᳓च् च प᳓ड्बीशम् अ᳓र्वतः  
+य᳓च् च पपउ᳓ य᳓च् च घासिं᳓ जघा᳓स  
+स᳓र्वा ता᳓ ते अ᳓पि देवे᳓षु अस्तु
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular;; repeated line
+_________
+**Morph**  
+nikrámaṇam ← nikrámaṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+niṣádanam ← niṣádana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vivártanam ← vivártana- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+árvataḥ ← árvant- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+páḍbīśam ← páḍbīśa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+ghāsím ← ghāsí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+jaghā́sa ← √ghas- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+papaú ← √pā- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ápi ← ápi (invariable)  
+{}
+
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+devéṣu ← devá- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+sárvā ← sárva- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:PL}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+नि॒क्रम॑णं नि॒षद॑नं वि॒वर्त॑नं॒ यच्च॒ पड्बी॑श॒मर्व॑तः ।  
+यच्च॑ प॒पौ यच्च॑ घा॒सिं ज॒घास॒ सर्वा॒ ता ते॒ अपि॑ दे॒वेष्व॑स्तु ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+नि॒क्रम॑णं नि॒षद॑नं वि॒वर्त्त॑नं॒ यच्च॒ पड्वी॑श॒मर्व॑तः।  
+यच्च॑ प॒पौ यच्च॑ घा॒सिं ज॒घास॒ सर्वा॒ ता ते॒ऽअपि॑ दे॒वेष्व॑स्तु ॥३८ ॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+नि॒क्रम॑णं नि॒षद॑नं वि॒वर्त॑नं॒ यच्च॒ पड्वी॑श॒मर्व॑तः । 
+यच्च॑ पपौ॒ यच्च॑ घा॒सिं ज॒घास॒ सर्वा॒ ता ते॒ अपि॑ दे॒वेष्व॑स्तु ॥७॥ (१३) ४२ ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+निक्रमणं निषदनं विवर्तनं यच्च पड्वीशमर्वतः।  
+यच्च पपौ यच्च घासिं जघास सर्वा ता ते अपि देवेष्वस्तु
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि॒ऽक्रम॑णम् । नि॒ऽसद॑नम् । वि॒ऽवर्त॑नम् । यत् । च॒ । पड्बी॑शम् । अर्व॑तः ।  
+यत् । च॒ । प॒पौ । यत् । च॒ । घा॒सिम् । ज॒घास॑ । सर्वा॑ । ता । ते॒ । अपि॑ । दे॒वेषु॑ । अ॒स्तु॒ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+नि॒क्रम॑ण॒मिति॑ नि॒ऽक्रम॑णम्। नि॒षद॑नम्। नि॒सद॑नमिति॑ नि॒ऽसद॑नम्। वि॒वर्त्त॑न॒मिति॑ वि॒ऽवर्त्त॑नम्। यत्। च॒। पड्वी॑शम्। अर्व॑तः। यत्। च॒। प॒पौ। यत्। च॒। घा॒सिम्। ज॒घास॑। सर्वा॑। ता। ते॒। अपि॑। दे॒वेषु॑। अ॒स्तु॒। ३८।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+नि॒क्रम॑ण॒मिति॑ नि॒ऽक्रम॑णम्। नि॒षद॑नम्। नि॒सद॑नमिति॑ नि॒ऽसद॑नम्। वि॒वर्त्त॑न॒मिति॑ वि॒ऽवर्त्त॑नम्। यत्। च॒। पड्वी॑शम्। अर्व॑तः। यत्। च॒। प॒पौ। यत्। च॒। घा॒सिम्। ज॒घास॑। सर्वा॑। ता। ते॒। अपि॑। दे॒वेषु॑। अ॒स्तु॒। ७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- नि-क्र᳓मणम् (*MS*-1, *TS*-1/3, *RV*-1, *AV*-1, *VS-M*-1, *VS-K*-1)
+- नि-स᳓दनम् (*MS*-1, *TS*-2, *RV*-2, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-2)
+- वि-व᳓र्तनम् (*MS*-1, *TS*-1, *RV*-1, *TB*-1/5, *SB-K*-0/1, *VS-M*-1, *VS-K*-1/2)
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- प᳓ड्बीशम् (*TS*-2, *RV*-2/3, *TB*-0/1)
+- अ᳓र्वतः (*MS*-5/8, *TS*-5/11, *RV*-22/56, *TB*-1/3, *AV*-3/8, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-4/7, *VS-K*-4/7)
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- पपौ᳓ (*Whitney*, *Lanman*, *MS*-1, *TS*-1, *RV*-1/2, *VS-M*-1, *VS-K*-1)
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- घासि᳓म् (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- जघा᳓स (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *MS*-1, *TS*-1, *RV*-1, *AV*-2, *VS-M*-1, *VS-K*-1)
+- स᳓र्वा (*MS*-6/419, *TS*-7/287, *RV*-9/68, *TB*-1/159, *TK*-72/114, *AV*-19/444, *SB-M*-19/2265, *SB-K*-13/2224, *VS-M*-4/55, *VS-K*-3/43)
+- ता᳓ (*MS*-7, *TS*-15, *RV*-180, *TB*-211, *TK*-68, *AV*-9, *SB-M*-2, *SB-K*-1, *VS-M*-16, *VS-K*-14)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- अ᳓पि (*MS*-118, *TS*-103, *RV*-86, *TB*-47, *TK*-2, *AV*-94, *SB-M*-482, *SB-K*-467, *VS-M*-19, *VS-K*-11)
+- देवे᳓षु (*MS*-57/1216, *TS*-41/1023, *RV*-100/1342, *TB*-13/582, *TK*-1/32, *AV*-26/707, *SB-M*-41/2031, *SB-K*-46/1945, *VS-M*-35/528, *VS-K*-30/523)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-111, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-60, *VS-K*-39)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *nikramaṇaṃ* ← *nikramaṇam* ← *nikramaṇa*
+- \[noun\], nominative, singular, neuter
+
+_________
+
+- *niṣadanaṃ* ← *niṣadanam* ← *niṣadana*
+- \[noun\], nominative, singular, neuter
+
+_________
+
+- *vivartanaṃ* ← *vivartanam* ← *vivartana*
+- \[noun\], nominative, singular, neuter
+- “transformation.”
+
+_________
+
+- *yac* ← *yat* ← *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *paḍbīśam* ← *paḍvīśa*
+- \[noun\], nominative, singular, neuter
+
+_________
+
+- *arvataḥ* ← *arvant*
+- \[noun\], genitive, singular, masculine
+- “horse.”
+
+_________
+
+- *yac* ← *yat* ← *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *papau* ← *pā*
+- \[verb\], singular, Perfect indicative
+- “drink; gulp; soak; drink; suck; inhale.”
+
+_________
+
+- *yac* ← *yat* ← *yad*
+- \[noun\], accusative, singular, neuter
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *ghāsiṃ* ← *ghāsim* ← *ghāsi*
+- \[noun\], accusative, singular, masculine
+
+_________
+
+- *jaghāsa* ← *ghas*
+- \[verb\], singular, Perfect indicative
+- “eat.”
+
+_________
+
+- *sarvā* ← *sarva*
+- \[noun\], nominative, plural, neuter
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+
+_________
+
+- *tā* ← *tad*
+- \[noun\], nominative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+
+_________
+
+- *api*
+- \[adverb\]
+- “besides; even; surely; though; furthermore; among; contrastingly;
+    assuredly.”
+
+_________
+
+- *deveṣv* ← *deveṣu* ← *deva*
+- \[noun\], locative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अर्वतः- प्राणस्याश्वोपलक्षितस्य। ते- भवतः। निक्रमणम्- गतिः। निषदनम्- स्थितिः।  विवर्तनम्- नानाविधभूतिः। पड्बीशम्- गतिबन्धनम्। यच्च पपौ- यदुदकमपिबत्। यच्च घासिं  जघास- यदन्नं बभक्ष। यदनुभूतमिति भावः। सर्वा ता- सर्वं तत्। अपि। देवेषु- देवतासु। अस्तु-  भवतु॥१४॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+यत् **निक्रमणम्** । नितरां क्रमते यत्र तन्निक्रमणं स्थानम् । नितरां सीदत्यत्रेति **निषदनम्** । **विवर्तनं** विविधवर्तनम् इतस्ततो लुण्ठनं यत्र तत् ॥ सर्वत्राधिकरणे ल्युट् ॥ **यच्च** **अर्वतः** **अश्वस्य** **पडबीशं** पदबन्धनम् । यद्वा । बन्धनं पट् तद्वान् प्रदेशः। अत्र सर्वत्र देवार्थस्याश्वस्य रोमादीनामपि निरर्थकत्वाभावाय तत्स्थानमपि स्वीक्रियते । यद्वा । क्रियापरावगन्तव्या । आलम्भसमये निग्रहेण या निक्रमणादयश्चेष्टाः सन्ति ता इत्यर्थः । **यच्च** **पपौ** यदुदकमपिबत् । **यच्च** **घासिम्** अदनीयं तृणादिकं **जघास** अभक्षयत् । हे अश्व **ते** तव **ता** तानि सर्वाणि निक्रमणादीनि **देवेष्वस्तु** सन्तु देवेषु व्याप्नोतु तान्यपि निरर्थकानि मा भूवन्नित्यर्थः ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+निक्रमणं निषदनम् निक्रमणं गमनं वसति-स्थानात्।  
+निषदनं तत्रैव स्थितिः। विवर्तनं [[भ्रमणम्। ।|भ्रमणम्।]] यान्य् एतानि चेष्टितानि। यच् च पड्वीशम्।  
+पादेषु विशतीति पड्विशं पाद-बन्धनम् उच्यते अर्वतः अश्वस्य।  
+यच् च पपौ पीतवान् उदकम्। यच् च घासिं यवसं जघास। ‘घस्लृ अदने’ भक्षितवान्।  
+सर्वाणि तानि निक्रमणादीनि ते तव हे अश्व, अपि देवेषु अपि प्रजापतये अस्तु सन्तु।  
+तान्य् अपि निरर्थकानि मा भूवन्न् इत्य् आशयः॥ ३८॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+यत् निक्रमणं नितरां क्रमते यत्र तत् निष्क्रमण-स्थानम्।  
+निषदनं नितरां सीदत्य् अस्मिन्न् इति निषदनम् उपवेशन-स्थानम्।  
+विवर्तनं विविधं वर्तते यत्र [[ततितस्ततो|तद् इतस् ततो]] लुण्ठन-स्थानम्।  
+सर्वत्राधिकरणे ल्युट्।  
+यच् चार्वतो ऽश्वस्य पड्वीशम् पदेषु विशति पड्वीशं पाद-बन्धनम्।  
+क्रिया-परा वा निक्रमणादयः शब्दाः।  
+आलम्भ-समये यानि अश्वस्य निक्रमणादीनि चेष्टितानि।  
+किंच यच् च पपौ यज् जलं पीतवान् यच् च घासिम् [[अदनीयं।|अदनीयं]] तृणादिकं जघास भक्षितवान् ‘घस्लृ अदने’ लिट्।  
+हे अश्व, ता तानि सर्वाणि ते तव निक्रमणादीनि देवेषु अस्तु सन्तु॥  
+देवार्थस्याश्वस्य रोमादीनाम् अपि निरर्थकत्वं मास्त्व् इत्य् अर्थः॥ ३८॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ पञ्चदशी--  
+[[निक्रमेण|नि-क्रमणं]] [[त्रिपदं|नि-षदनं]] [[नॅव्य|वि-वर्त्तनं]] [[वर्त्तनैय्यच्च|यच् च]] [[पड-वीशम्|पड्वीशम्]] अर्वतः यत् ।  
+च । पपौ । यत् । च । घासिम् । [[जधास|जघास]] । सर्वा । ता । ते । अपि । देवेषु ।  
+अस्तु ॥ ४२ ॥
+
+निक्रमणम् अश्वस्य पाद-प्रक्षेप-स्थानम्, निषदनम्, विवर्त्तनम्, परिवर्तन-स्थानम् यद् अस्ति, यद् अपि अर्वतः अश्वस्य, पड्वीशं पाद-बन्धन-स्थानं पाद-क्षुण्ण-रजो वास्ति, यच् च यद् अपि उदकं पपौ, यच् च घासि तृणादिक-घासं भक्षितवान्, ते त्वदीयं सर्वा ता तत् सर्वं देवेषु अपि अस्तु, देवेषु एव समर्पितं भवतु ।
+
+अथ षोडशी--  
+इति त्रयोदशो ऽनुवाकः ।
+
+[ चतुर्दशो ऽनुवाकः ४३ ]
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+'निक्रमणं निषदनम्' ।  
+स्थानात् निष्क्रमणम् ।  
+'क्रमु पाद-विक्षेपे' ।  
+नितरां निष्क्रमणम् ।  
+अर्वतः अश्वस्य पाद-विन्यास-चालने ।  
+निषदनं तत्रैव निवासः ।  
+विवर्तनं तत्रापि भ्रमणम् ।  
+यत् च '[[पड्डीशम्|पड्वीशम्]] ।  
+पाद-बन्धनम् ।  
+यत् च पपौ ।  
+उदकं यत् पीतवान् ।  
+'यच् च घासिं जघास' ।  
+'घासिं घासं कवलं जघास ।  
+घस्लृ अदने ।  
+कवलं भक्षितवान् ।  
+'सर्वा ता ते अपि देवेष्व् अस्तु' ।  
+'ता तानि सर्वा सर्वाणि हे अश्व, ते तव संबन्धीनि अपि देवेषु देवेभ्यः 'अस्तु सन्तु ॥ ४० ॥
+</details>
+
+<details><summary>अनन्ताचार्य-टीका</summary>
+
+‘निक्रमणं निषदनम् ।' यत् "निक्रमणं नितरां क्रमणं यद् वा - नितरां क्रमते यत्र तत् निक्रमण- स्थानम् ।
+
+एवम् अग्रे ऽपि ।
+
+निषदनम् सम्यग्-उपवेशनम्।
+
+तत्-स्थानं वा ।
+
+विवर्तनं विविधं वर्तनं लुंठनम् तत् स्थानं वा ।
+
+भावे अधिकरणे च सर्वत्र ल्युट् ।
+
+यत् च 'अर्वतः अश्वस्य पड्डीशम् ।
+
+पादेषु विशति तत्
+पड्डीशम् पाद-बन्धन-सूत्रम् ।
+
+वर्ण-व्यत्ययश् छान्दसः ।
+
+किं च - अयम् अश्वः 'यत् च जलादि पपौ ।
+
+यत् च घासिं घासम् ।
+
+अकारस्येकारः आर्षः ।
+
+अदनीयं तृणादिकं "जघास भक्षितवान् ।
+
+'घस्लृ अदने लिट् ।
+
+हे अश्व, सर्वा ता ते सर्वाणि तव तानि क्रमणादीनि "देवेषु अस्तु सन्तु ।
+
+देवार्थस्यास्याश्वस्य रोमादीनाम् अपि निरर्थकत्वं माऽस्तु इति
+भावः ॥७॥
+
+इति ( सप्त-विंशे) त्रयो-दशो ऽनुवाकः ॥ १३॥
+(चतुर्-दशो ऽनुवाकः ।)
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[642_4]** So corr. Ch यश्च पड्वोश॰ ; vgl. RV 1, 162, 14; MS 3, 16, 1; TS 4, 6, 9, 1; VS 25, 38. (Thus emended; Ch reads यश्च पड्वोश॰; cf. RV 1, 162, 14; MS 3, 16, 1; TS 4, 6, 9, 1; VS 25, 38)
+
+- **[642_5]** So corr. Ch यश्व पापी यश्च; vgl. RV 1, 162, 14; MS3, 16, 1; TS 4, 6, 9, 1; VS 25, 38. (Thus emended; Ch reads यश्व पापी यश्च; cf. RV 1, 162, 14; MS3, 16, 1; TS 4, 6, 9, 1; VS 25, 38)
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वान् ! जो (ते) तेरे (अर्वतः) घोड़े का (निक्रमणम्) निकलना (निषदनम्) बैठना (विवर्त्तनम्) विशेष कर वर्त्ताव वर्त्तना (च) और (यत्) जो (पड्वीशम्) पछाड़ी (यत्, च) और जो यह (पपौ) पीता (यत्, च) और जो (घासिम्) घास (जघास) खाता (ता) वे (सर्वा) सब काम युक्ति के साथ हों और यह सब (देवेषु) दिव्य उत्तम गुणवालों में (अपि) भी (अस्तु) होवे ॥३८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्यो ! आप घोड़े आदि पशुओं को अच्छी शिक्षा तथा खान-पान के देने से अपने सब कामों को सिद्ध किया करो ॥३८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वन् ! यत्तेऽर्वतो निक्रमणं निषदनं विवर्त्तनं यच्च पड्वीशं यच्चायं पपौ यच्च घासिं जघास, ताः सर्वा युक्त्या सन्तु तद्देवेष्वप्यस्तु ॥३८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्या ! भवन्तोऽश्वादीनां सुशिक्षणेन भक्ष्यपेयदानेन सर्वाणि कार्याणि साध्नुवन्तु ॥३८ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे माणसांनो ! तुम्ही घोडे इत्यादी पशूंना प्रशिक्षित करून चारा अन्न-पाणी द्या व त्यांच्याकडून आपले काम करून घ्या.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“May the plural ce of going forth, of tarrying, of rolling on the ground; the foot-fastening of the horse, (the water) that he has drunk, the grass that he has eaten; may all these be thine among the gods.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+(The gear) that made him set his stride, come to a halt, and turn aside,  and the foot-fetter of the steed,  
+and what he drank and what fodder he ate—let all this of yours be also  among the gods.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+The -ana-suffix on the nominals in pāda a marks them as transitive/causative in sense; I take these neut. singulars as referring to the tack that produce the various movements of the horse.
+</details>
+
+<details><summary>Griffith</summary>
+
+The starting-place, his place of rest and rolling, the ropes wherewith the Charger's feet were fastened,  
+     The water that he drank, the food he tasted,--among the Gods, too, may all these attend thee.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+The stepping, the sitting down, the rolling, and what is the hobble of the courser,  
+and what he drank, and what grass he ate—may all that of yours be among the gods!
+</details>
+
+<details><summary>Geldner</summary>
+
+Worauf es schreitet, sich niederläßt, sich wälzt, und die Fußfessel des Rennpferdes, was es getrunken und an Futter gefressen hat, all das soll von dir bei den Göttern sein.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Worauf der Renner getreten, worauf er sich gelagert und herumgewälzt hat, und was seines Fusses Fessel war; was er[453] getrunken, und das Futter, was er verzehrt hat, das alles sei dein eigen bei den Göttern.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+На что он ступает, на что опускается, на чем катается,  
+И что ножные путы скакуна,  
+И что он выпил, и трава, что он съел, –  
+Все это твое пусть будет среди богов!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मित्रादयो लिङ्गोक्ताः
+- दीर्घतमा औचथ्यः
+- भुरिक्पङ्क्ति
+- पञ्चमः
+
+- यज्ञो देवता
+- गोतम ऋषिः
+- विराट्पङ्क्तिः
+- पञ्चमः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहा है ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे घोड़े के सिखानेवाले ! (अर्वतः) शीघ्र जानेवाले घोड़े का (यत्) जो (निक्रमणम्) निश्चित चलना, (निषदनम्) निश्चित बैठना, (विवर्त्तनम्) नाना प्रकार से चलाना-फिराना (पड्वीशम्, च) और पिछाड़ी बाँधना तथा उसको उढ़ाना है और यह घोड़ा (यत्, च) जो (पपौ) पीता (यत्, घासिम्, च) और जो घास को (जघास) खाता है (ता) वे (सर्वा) समस्त उक्त काम (ते) तुम्हारे हों और यह समस्त (देवेषु) विद्वानों में (अपि) भी (अस्तु) हो ॥ १४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जैसे सुन्दर सिखाये हुए घोड़े सुशील अच्छी चाल चलनेवाले होते हैं, वैसे विद्वानों की शिक्षा पाये हुए जन सभ्य होते हैं। जैसे घोड़े आहार भर पी खाके पचाते हैं, वैसे विचक्षण बुद्धि विद्या से तीव्र पुरुष भी हों ॥ १४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे अश्वशिक्षक अर्वतो यन्निक्रमणं निषदनं विवर्त्तनं पड्वीशं चास्ति। अयं यच्च पपौ यद् घासिं च जघास ता सर्वा ते सन्तु एतत्सर्वं देवेष्वप्यस्तु ॥ १४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (निक्रमणम्) निश्चितं पादविहरणम् (निषदनम्) निश्चितमासनम् (विवर्त्तनम्) विविधं वर्त्तनम् (यत्) (च) (पड्वीशम्) पादबन्धनमाच्छादनं वा (अर्वतः) शीघ्रं गन्तुरश्वस्य (यत्) (च) (पपौ) पिबति (यत्) (च) (घासिम्) अदनम् (जघास) अत्ति (सर्वा) सर्वाणि (ता) तानि (ते) तव (अपि) (देवेषु) (अस्तु) ॥ १४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  यथा सुशिक्षिता अश्वाः सुशीलाः सुगतयो भवन्ति तथा विद्वच्छिक्षिता जनाः सभ्या जायन्ते यथाश्वा मितं पीत्वा भुक्त्वा जरयन्ति तथा विचक्षणा जना अपि स्युः ॥ १४ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जसे प्रशिक्षित घोडे उत्तम चालीने चालतात, तसे विद्वानांकडून शिक्षण घेतलेले लोक सभ्य असतात. जसे घोडे आहार, खाणे-पिणे पचवितात तसे विशेष बुद्धीने माणसांनी विद्या प्राप्त करावी. ॥ १४ ॥
+</details>

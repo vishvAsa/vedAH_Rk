@@ -1,0 +1,470 @@
++++
+title = "010"
+devataa = "अग्निः सूर्यो वापो वा गावो वा घृतं वा"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अभ्य् अ᳙र्षत सुष्टुतिं᳓ ग᳓व्यम् आजि᳓म्  
+अस्मा᳓सु भद्रा᳓ द्र᳓विणानि धत्त  
+इमं᳓ यज्ञं᳓ नयत देव᳓ता नो  
+घृत᳓स्य धा᳓रा म᳓धुमत् पवन्ते
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for non-linguistic reasons
+
+_________
+**Pāda-label**  
+genre D  
+genre D  
+genre D  
+genre D
+_________
+**Morph**  
+abhí ← abhí (invariable)  
+{}
+
+ājím ← ājí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+arṣata ← √arṣ- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+gávyam ← gávya- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+asmā́su ← ahám (pronoun)  
+{case:LOC, number:PL}
+
+bhadrā́ ← bhadrá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+dhatta ← √dhā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+dráviṇāni ← dráviṇa- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+devátā ← devátā (invariable)  
+{}
+
+imám ← ayám (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+nayata ← √nī- (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+mádhumat ← mádhumant- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+pavante ← √pū- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒भ्य॑र्षत सुष्टु॒तिं गव्य॑मा॒जिम॒स्मासु॑ भ॒द्रा द्रवि॑णानि धत्त ।  
+इ॒मं य॒ज्ञं न॑यत दे॒वता॑ नो घृ॒तस्य॒ धारा॒ मधु॑मत्पवन्ते ॥
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+अभ्य् अर्षत सुष्टुतिं गव्यम् आजीम्  
+अस्मासु भद्रा द्रविणानि धत्त ।  
+इमं यज्ञं नयत देवता नो  
+घृतस्य धारा मधुमत् पवन्ते ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भि । अ॒र्ष॒त॒ । सु॒ऽस्तु॒तिम् । गव्य॑म् । आ॒जिम् । अ॒स्मासु॑ । भ॒द्रा । द्रवि॑णानि । ध॒त्त॒ ।  
+इ॒मम् । य॒ज्ञम् । न॒य॒त॒ । दे॒वता॑ । नः॒ । घृ॒तस्य॑ । धाराः॑ । मधु॑ऽमत् । प॒व॒न्ते॒ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+अ॒भि। अ॒र्ष॒त॒। सु॒ष्टु॒तिम्। सु॒स्तु॒तिमिति॑ सुऽस्तु॒तिम्। गव्य॑म्। आ॒जिम्। अ॒स्मासु॑। भ॒द्रा। द्रवि॑णानि। ध॒त्त॒। इ॒मम्। य॒ज्ञम्। न॒य॒त॒। दे॒वता॑। नः॒। घृ॒तस्य॑। धाराः॑। मधु॑म॒दिति॒ मधु॑ऽमत्। प॒व॒न्ते॒। ९८।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+अ॒भि। अ॒र्ष॒त॒। सु॒ष्टु॒तिम्। सु॒स्तु॒तिमिति॑ सुऽस्तु॒तिम्। गव्य॑म्। आ॒जिम्। अ॒स्मासु॑। भ॒द्रा। द्रवि॑णानि। ध॒त्त॒। इ॒मम्। य॒ज्ञम्। न॒य॒त॒। दे॒वता॑। नः॒। घृ॒तस्य॑। धाराः॑। मधु॑म॒दिति॒ मधु॑ऽमत्। प॒व॒न्ते॒। ११।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-251, *TK*-15, *AV*-269, *SB-M*-607, *SB-K*-605, *VS-M*-97, *VS-K*-111, *KS*-42, *MS*-330)
+- अ᳓र्षत (नञ्तत्पुरुषे पूर्वपदप्रकृतिस्वरः पा॰ ६.२.२)
+- सु-ष्टुति᳓म् (*TS*-2/5, *RV*-1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-2/3, *VS-K*-2, *MS*-2/5)
+- ग᳓व्यम् (*TS*-3, *RV*-15/27, *AV*-4/7, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-3/4, *VS-K*-3/4, *KS*-1, *MS*-1/2)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-564, *TK*-33, *AV*-1040, *SB-M*-2160, *SB-K*-2144, *VS-M*-464, *VS-K*-414, *KS*-194, *MS*-1207)
+- जी᳓म् (*MS*-1)
+- अस्मा᳓सु (*TS*-13/566, *RV*-21/1308, *TB*-4/211, *TK*-0/66, *AV*-24/1252, *SB-M*-5/723, *SB-K*-6/758, *VS-M*-5/315, *VS-K*-4/274, *KS*-3/135, *MS*-10/587)
+- भद्रा᳓ (*TS*-2/32, *RV*-42/144, *TB*-2/17, *TK*-1, *AV*-11/68, *SB-M*-0/21, *SB-K*-0/30, *VS-M*-3/31, *VS-K*-3/29, *KS*-8/11, *MS*-7/37)
+- द्र᳓विणानि (*TS*-0/35, *RV*-8/50, *TB*-0/4, *AV*-3/23, *SB-M*-0/16, *SB-K*-0/14, *VS-M*-1/21, *VS-K*-1/19, *KS*-1/4, *MS*-0/40)
+- धत्त (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-16, *RV*-8, *TB*-2, *AV*-19, *SB-M*-11, *SB-K*-6, *VS-M*-9, *VS-K*-9, *KS*-3, *MS*-6)
+- इम᳓म् (*TS*-107/965, *RV*-136/1247, *TB*-41/513, *TK*-3/56, *AV*-148/1259, *SB-M*-204/5242, *SB-K*-219/5669, *VS-M*-46/319, *VS-K*-53/301, *KS*-18/218, *MS*-109/1325)
+- यज्ञ᳓म् (*TS*-263/862, *RV*-186/448, *TB*-95/367, *TK*-3/21, *AV*-81/231, *SB-M*-422/1804, *SB-K*-413/1766, *VS-M*-88/223, *VS-K*-89/187, *KS*-29/127, *MS*-282/905)
+- नयत (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-5, *TB*-1, *AV*-1, *SB-M*-5, *SB-K*-4, *VS-M*-3, *VS-K*-3, *KS*-2, *MS*-2)
+- देव᳓ता (*TS*-80/381, *RV*-12/14, *TB*-13/152, *TK*-6/53, *AV*-6/35, *SB-M*-149/571, *SB-K*-133/603, *VS-M*-15/36, *VS-K*-18/36, *KS*-50/94, *MS*-113/410)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-140, *TK*-10, *AV*-1014, *SB-M*-518, *SB-K*-545, *VS-M*-441, *VS-K*-377, *KS*-115, *MS*-537)
+- घृत᳓स्य (*TS*-15/64, *RV*-19/91, *TB*-8/30, *TK*-0/1, *AV*-10/40, *SB-M*-9/51, *SB-K*-10/51, *VS-M*-11/49, *VS-K*-11/45, *KS*-5/28, *MS*-19/106)
+- धा᳓रा (*Whitney*, *TS*-7/25, *RV*-13/107, *TB*-1/2, *TK*-2, *AV*-10/13, *SB-M*-16/41, *SB-K*-15/39, *VS-M*-8/11, *VS-K*-8/10, *KS*-1/2, *MS*-3/12)
+- म᳓धुमत् (*TS*-3/11, *RV*-19/43, *TB*-1/3, *TK*-0/1, *AV*-17/29, *SB-M*-1/5, *SB-K*-1/6, *VS-M*-3/10, *VS-K*-3/10, *KS*-3/7, *MS*-7/12)
+- पवन्ते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-6, *AV*-1, *VS-M*-2, *VS-K*-2)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *abhy* ← *abhī* ← *abhi*
+- \[adverb\]
+- “towards; on.”
+
+_________
+
+- *arṣata* ← *ṛṣ*
+- \[verb\], plural, Present imperative
+- “run.”
+
+_________
+
+- *suṣṭutiṃ* ← *suṣṭutim* ← *suṣṭuti*
+- \[noun\], accusative, singular, feminine
+- “hymn; praise.”
+
+_________
+
+- *gavyam* ← *gavya*
+- \[noun\], accusative, singular, masculine
+- “bovine.”
+
+_________
+
+- *ājim* ← *āji*
+- \[noun\], accusative, singular, masculine
+- “battle; fight; contest; āji \[word\]; combat.”
+
+_________
+
+- *asmāsu* ← *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+
+_________
+
+- *bhadrā* ← *bhadra*
+- \[noun\], accusative, plural, neuter
+- “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
+    fine-looking; beautiful.”
+
+_________
+
+- *draviṇāni* ← *draviṇa*
+- \[noun\], accusative, plural, neuter
+- “wealth; property; money; jewel.”
+
+_________
+
+- *dhatta* ← *dhā*
+- \[verb\], plural, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+
+_________
+
+- *imaṃ* ← *imam* ← *idam*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *yajñaṃ* ← *yajñam* ← *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+
+_________
+
+- *nayata* ← *nī*
+- \[verb\], plural, Present imperative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+
+_________
+
+- *devatā* ← *devatāḥ* ← *devatā*
+- \[noun\], accusative, plural, feminine
+- “Hindu deity; Deva; deity; idol; devatā \[word\]; divinity; temple.”
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+
+_________
+
+- *ghṛtasya* ← *ghṛta*
+- \[noun\], genitive, singular, neuter
+- “ghee; fat.”
+
+_________
+
+- *dhārā* ← *dhārāḥ* ← *dhārā*
+- \[noun\], nominative, plural, feminine
+- “flush; flow; current; spring; fountain.”
+
+_________
+
+- *madhumat*
+- \[noun\], accusative, singular, neuter
+- “sweet; honeyed; sweet; pleasant.”
+
+_________
+
+- *pavante* ← *pū*
+- \[verb\], plural, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सुष्टुतिम्- शोभनमन्त्रम्। गव्यमाजिम्- चिद्रश्मिसमूहम्। अभ्यर्षत- अभिगमयत। अस्मासु।  भद्रा- कल्याणीः। द्रविणानि- सम्पदः। धत्त- धारयत। इमम्- एतम्। नः- अस्माकम्। यज्ञम्-  दानं पूजां सङ्गतिकरणम्। देवता- देवताः प्रति। नयत। मधुमत्- मधुराः। घृतस्य धाराः-  ज्योतिर्धाराः। पवन्ते- सरन्ति॥१०॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे मदीया ऋत्विजः **गव्यं** गोसमूहरूपं गोसंबन्धिनं वा **आजिं**  संघातम्  **अभ्यर्षत** अभिगच्छत अभिगमयत वा **सुष्टुतिं** शोभनां स्तुतिम् । अत्र गोशब्देनोदकानि गावो वोच्यन्ते । तत्संघातोऽभिप्रेतः । **अस्मासु** यजमानेषु **भद्रा** स्तुत्यानि 'द्रविणानि **धत्त** धारयत । स्तुत्या खलु फलं लप्स्यते । किंच **नः** अस्मदीयम् **इमं** **यज्ञं** **देवता** अत्र यष्टव्यान् देवान् **नयत** प्रापयत । **घृतस्य** **धारा** **मधुमत्** यथा तथा **पवन्ते** गच्छन्ति ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+अभ्यर्षत।  
+हे देवाः, अभ्यर्षत अभ्यागच्छत।  
+एतां सुष्टुतिम् शोभनां स्तुतिम्।  
+एतं च गव्यम् आजिम् गो-विकारैर् घृतैर् जनितं गव्यम् आजिम् आनमनम् अभ्यागच्छत।  
+अभ्यागत्य च अस्मासु भद्रा भद्राणि द्रविणानि धनानि।  
+धत्त स्थापयत दत्त वा।  
+किं च इमं यज्ञं नयत तत्र देवा देवत्वं नः अस्माकम् अस्माभिर् यो देव-लोको जित इत्य् अर्थः।  
+याश् चैता घृतस्य धारा मधुमत् पवन्ते मधु-संयुक्तं पवन्ते ताश् चास्मज्-जितं लोकं नयतेत्य् अनुवर्तते॥ ९८॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हे देवाः, यूयं सुष्टुतिं शोभनां स्तुतिम् आजिं यज्ञं च अभ्यर्षत अभ्यागच्छत।  
+अज्यते प्राप्यते स्वर्गो येन स आजिर् यज्ञः।  
+कीदृशम् आजिं गव्यम्।  
+गव्यं घृतं विद्यते यस्मिन् स गव्यस् तम् घृत-युतम्।  
+अर्शआदित्वाद् अच्-प्रत्ययः।  
+आगत्य चास्मासु भद्रा भद्राणि कल्याणानि द्रविणानि धत्त [[स्थापयंते|स्थापयत]] दत्त वा ‘डुधाञ् धारण-पोषणयोः’ दाने चेति वचनात्।  
+किंच नो ऽस्माकम् इमं यज्ञं सौत्रामणीं देवता देवतासु देव-लोके नयत प्रापयत।  
+देवता-शब्दात् ‘सुपां सुलुक्’ (पा॰ ७। १। ३९) इति विभक्ति-लोपः।  
+किंच [[याश्चैना|याश् चैता]] घृतस्य धारा मधुमत् रसवत् यथा तथा पवन्ते प्रसरन्ति ता अपि देवतासु नयत यज्ञे यज्ञ-द्रव्ये स्वर्गं गते यजमानो गच्छत्य् एवेत्य् अर्थः॥ ९८॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथैकादशः —  
+> अभ्यर्षत सुष्टुतिं गव्यम् आजिम् अस्मासु भद्रा द्रविणानि धत्त ।  
+> इमं [[यज्ञ भथैकादशः|यज्ञं]] नयत देवता नो घृतस्य धारा मधुमत् पवन्ते ॥
+
+इति ।  
+हे देवाः, अभ्यर्षत अभ्यागच्छत ।  
+एतां सुष्टुतिं शोभनां स्तुतिम् एतं च गव्यम् आजिम् गो-विकारैर् [[धृतैर्|घृतैर्]] जनितं गव्यम्, आजिम् आजयनं यज्ञम् अभ्यागच्छत ।  
+अभ्यागत्य च अस्मासु भद्रा भद्राणि द्रविणानि धनानि धत्त स्थापयत अस्मभ्यं [[दत्तेत्यर्थः|दत्त इत्यर्थः]] ।  
+किंच —  
+इमं यज्ञं तत्र नयत यत्र देवता देवत्वं नः अस्माकम् ।  
+अस्माभिर् यो देव-लोको जित इत्य् अर्थः ।  
+याश् चैताः घृतस्य धाराः मधुमत् पवन्ते मधु-संयुक्तं पवन्ते द्रवन्ति ताश् च [[भस्म जितं|अस्मज्-जितं]] लोकं नयतेत्यनुवर्तते ॥ ११ ॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+' अभ्य् अर्षत सुष्टुतिम् ' इति ।  
+हे देवता हे देवाः, सुष्टुतिं शोभन-स्तुतिं घृत-स्तोत्रं प्रति अभ्य् अर्षत अभ्यागच्छत ।  
+' [[गन्यमा जिमस्मासु|गव्यम् आजिम् अस्मासु]] भद्रा द्रविणानि धत्त ' ।  
+हे देवाः, अभ्यागत्य च [[आर्जि|आजिं]] गव्यं गो-विकारैर् [[धृतैः|घृतैः]] जनितं गव्यं आजिम् अस्मासु यजमानेषु धत्त स्थापयत ।  
+किं च - घृत-सूक्ष्म-रूपं पुण्यात्मकम् भद्रा भद्राणि द्रविणानि धनानि च अस्मासु धत्त स्थापयत ।  
+इमं क्रियमाणं यज्ञं नयत फल-पर्यन्तं प्रापयत ।  
+एवं "घृतस्य धाराः "मधुमत् [[मधुम् अत्यः|मधुमत्यः]] [[स्वादुर् असवत्यः|स्वादु-रसवत्यः]] पवन्ते अग्निं प्रति गच्छन्तु ॥ ११ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+विवाहित स्त्री-पुरुषों को क्या करना चाहिये, इस विषय का उपदेश अगले मन्त्र में किया है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विवाहित स्त्रीपुरुषो ! तुम उत्तम वर्त्ताव से (सुष्टुतिम्) अच्छी प्रशंसा तथा (आजिम्) जिस से उत्तम कामों को जानते हैं, उस संग्राम और (गव्यम्) वाणी में होनेवाले बोध वा गौ में होनेवाले दूध, दही, घी आदि को (अभ्यर्षत) सब ओर से प्राप्त होओ (देवता) विद्वान् जन (अस्मासु) हम लोगों में (भद्रा) अति आनन्द करानेवाले (द्रविणानि) धनों को (धत्त) स्थापित करो (नः) हम लोगों को (इमम्) इस (यज्ञम्) प्राप्त होने योग्य गृहाश्रम-व्यवहार को (नयत) प्राप्त करावो, जो (घृतस्य) प्रकाशित विज्ञान से युक्त (धाराः) अच्छी शिक्षायुक्त वाणी विद्वानों को (मधुमत्) मधुर आलाप जैसे हो वैसे (पवन्ते) प्राप्त होती हैं, उन वाणियों को हम को प्राप्त कराओ ॥९८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  स्त्रीपुरुषों को चाहिये कि परस्पर मित्र होकर संसार में विख्यात होवें, जैसे अपने लिये वैसे औरों के लिये भी अत्यन्त सुख करनेवाले धनों को उन्नतियुक्त करें, परम पुरुषार्थ से गृहाश्रम की शोभा करें और वेदविद्या का निरन्तर प्रचार करें ॥९८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+विवाहितैः स्त्रीपुरुषैः किं कार्यमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे स्त्रीपुरुषाः। यूयमुत्तमाचारेण सुष्टुतिमाजिं गव्यं चाभ्यर्षत, देवताऽस्मासु भद्रा द्रविणानि धत्त, न इमं यज्ञं नयत, या घृतस्य धारा विदुषो मधुमत्पवन्ते, ता अस्मान्नयत ॥९८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  स्त्रीपुरुषैः सखिभिर्भूत्वा जगति प्रख्यातैर्भवितव्यम्। यथा स्वेभ्यस्तथान्येभ्योऽपि कल्याणकारकाणि द्रव्याण्युन्नेयानि। परमपुरुषार्थेन गृहाश्रमस्य शोभा कर्त्तव्या। वेदविद्या सततं प्रचारणीया च ॥९८ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या जगात स्त्री-पुरुषांनी परस्पर मित्र बनून जगावे. जसे आपल्या सुखासाठी धन प्राप्त केले जाते तसे इतरांसाठीही करावे. पुरुषार्थाने गृहस्थाश्रमाची शोभा वाढवावी व वेदविद्येचा सदैव प्रचार करावा.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“(Priests) address the pious praise, (the source) of herds of cattle; bestow upon us auspicious riches; convey this our sacrifice to the gods, (where at) the streams of Ghī with sweetness descend.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Priests: the text has no nominative native; Ṛtvijaḥ, priests are impied; an alternative implied term may be **devāḥ**, gods; the pious praise the source of herds of cattle: suṣṭutim gavyam ājim: ājim = gosambandhinām saṅghātam, the number or collections related to cattle; or, it may mean the abundance of water; another interpretation: **agni** = **yajña** (sacrifice);
+
+**Gavya** = ghī; gods, approach the pious praise, and, the sacrifice at which ghī is offered
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Rush toward the lovely praise hymn, to the contest for cows; on us  confer auspicious chattels.  
+Lead this sacrifice here to the divinities for us. The streams of ghee  purify themselves like honey.
+᳓
+</details>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
+<details><summary><h2>05-10 ...{Loading}...</h2></summary>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: ūrmáyo ghrtásya ̥ in 6c).
+</details>
+
+</details>
+</div>
+
+<details><summary>Griffith</summary>
+
+Send to our eulogy a herd of cattle bestow upon us excellent possessions.  
+     Bear to the Gods the sacrifice we offer the streams of oil flow pure and full of sweetness.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Flow toward the praise-song, toward the contest for cattle; bestow auspicious riches upon us;  
+lead this sacrifice of ours to the gods; the streams of ghee flow sweet with honey.
+</details>
+
+<details><summary>Geldner</summary>
+
+Strömt ein gutes Lobgedicht aus, machet ein Wettrennen um die Kühe! Bringet uns gesegneten Besitz, führt dies Opfer von uns zu den Göttern! Die Ströme des Ghrita klären sich zur Süßigkeit.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Rinnt hin zum Loblied, zu der Kühe Wettlauf und uns verleihet reiche Güterfülle; Dies unser Opfer führet zu den Göttern; der Butter Ströme rieseln süsse Labung.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Струите прекрасное восхваление, (выиграйте) состязание  
+Ради коров! Дайте нам богатства, приносящие счастье!  
+Эту нашу жертву ведите к богам!  
+Потоки жира медово очищаются.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः सूर्यो वाऽपो वा गावो वा घृतं वा
+- वामदेवो गौतमः
+- त्रिष्टुप्
+- धैवतः
+
+- यज्ञपुरुषो देवता
+- वामदेव ऋषिः
+- आर्षी त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वानो ! आप लोग (अस्मासु) हम लोगों में (आजिम्) प्रसिद्ध (गव्यम्) वाणी के लिये हितकारक व्यवहार को और (भद्रा) सेवने योग्य अपेक्षित सुख देनेवाले (द्रविणानि) धनों वा यशों को (धत्त) धारण करो (देवता) विद्वान् जन आप लोग (इमम्) इस (यज्ञम्) यज्ञ को (नः) हम लोगों के लिये (नयत) प्राप्त कराओ और जैसे (घृतस्य) प्रकाशित बोध के (धाराः) प्रकाश करनेवाली वाणियाँ (मधुमत्) श्रेष्ठविज्ञान से युक्त कर्म्म को (पवन्ते) शुद्ध करती हैं, वैसे हम लोगों को पवित्र करके (सुष्टुतिम्) उत्तम प्रशंसा को (अभि, अर्षत) प्राप्त हूजिये ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। उन्हीं विद्वानों की प्रशंसा होती है, जो सब मनुष्यों में उपदेश द्वारा उत्तम गुणों को धारण करते हैं ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे विद्वांसो ! यूयमस्मास्वाजिं गव्यं भद्रा द्रविणानि च धत्त देवता यूयमिमं यज्ञं नो नयत यथा घृतस्य धारा मधुमत्पवन्ते तथाऽस्मान् पवित्रान् कृत्वा सुष्टुतिमभ्यर्षत ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अभि) (अर्षत) प्राप्नुत (सुष्टुतिम्) शोभनां प्रशंसाम् (गव्यम्) गवे वाचे हितं व्यवहारम् (आजिम्) प्रसिद्धम् (अस्मासु) (भद्रा) भजनीयसुखप्रदानि (द्रविणानि) धनानि यशांसि वा (धत्त) (इमम्) (यज्ञम्) (नयत) प्रापयत (देवता) देव एव देवता विद्वानेव। देवात्तल् इति स्वार्थे तल् जातावेकवचनं च। (नः) अस्मान् (घृतस्य) प्रकाशितस्य बोधस्य (धाराः) प्रकाशिका वाचः (मधुमत्) प्रशस्तविज्ञानयुक्तं कर्म्म (पवन्ते) शोधयन्ति ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। तेषामेव विदुषां प्रशंसा जायते ये सर्वेषु मनुष्येषूपदेशेनोत्तमान् गुणान् दधति ॥१०॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जे सर्व माणसांमध्ये उपदेशाद्वारे उत्तम गुण धारण करवितात. त्याच विद्वानांची प्रशंसा होते. ॥ १० ॥
+</details>

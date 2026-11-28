@@ -1,0 +1,519 @@
++++
+title = "006"
+devataa = "सविता"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - सविता
+- ऋषिः - भरद्वाजो बार्हस्पत्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+वाम᳓म् अद्य᳓ सवितर् वाम᳓म् उ श्वो᳓  
+दिवे᳓-दिवे वाम᳓म् अस्म᳓भ्य° सावीः  
+वाम᳓स्य हि᳓ क्ष᳓यस्य देव भू᳓रेर्  
+अया᳓ धिया᳓ वामभा᳓जः सियाम
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+adyá ← adyá (invariable)  
+{}
+
+savitar ← savitár- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+śvás ← śvás (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+divé-dive ← dyú- ~ div- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+sāvīḥ ← √sū- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+vāmám ← vāmá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+kṣáyasya ← kṣáya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+vāmásya ← vāmá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ayā́ ← ayám (pronoun)  
+{case:INS, gender:F, number:SG}
+
+dhiyā́ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+vāmabhā́jaḥ ← vāmabhā́j- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+वा॒मम॒द्य स॑वितर्वा॒ममु॒ श्वो दि॒वेदि॑वे वा॒मम॒स्मभ्यं॑ सावीः ।  
+वा॒मस्य॒ हि क्षय॑स्य देव॒ भूरे॑र॒या धि॒या वा॑म॒भाजः॑ स्याम ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+वा॒मम॒द्य स॑वितर्वा॒ममु श्वो दि॒वेदि॑वे वा॒मम॒स्मभ्यँ॑ सावीः।  
+वा॒मस्य॒ हि क्षय॑स्य देव॒ भूरे॑र॒या धि॒या वा॑म॒भाजः॑ स्याम ॥६॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+वा॒मम॒द्य स॑वितर्वा॒ममु॒ श्वो दि॒वेदि॑वे वा॒मम॒स्मभ्यँ॑ सावीः । 
+वा॒मस्य॒ हि क्षय॑स्य देव॒ भूरे॑र॒या धि॒या वा॑म॒भाजः॑ स्याम ॥१॥ (३) ५ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+वा॒मम॒द्य स॑वितर्वा॒ममु॒ श्वो दि॒वेदि॑वे वा॒मम॒स्मभ्यँ॑ सावीः ।   
+वा॒मस्य॒ हि क्षय॑स्य देव॒ भूरे॑र॒या धि॒या वा॑म॒भाज॑स्स्याम ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒मम् । अ॒द्य । स॒वि॒तः॒ । वा॒मम् । ऊं॒ इति॑ । श्वः । दि॒वेऽदि॑वे । वा॒मम् । अ॒स्मभ्य॑म् । सा॒वीः॒ ।  
+वा॒मस्य॑ । हि । क्षय॑स्य । दे॒व॒ । भूरेः॑ । अ॒या । धि॒या । वा॒म॒ऽभाजः॑ । स्या॒म॒ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+वा॒मम्। अ॒द्य। स॒वि॒तः॒। वा॒मम्। ऊँ॒ऽइत्यूँ॑। श्वः। दि॒वेदि॑व॒ इति॑ दि॒वेऽदि॑वे। वा॒मम्। अ॒स्मभ्य॑म्। सा॒वीः। वा॒मस्य॑। हि। क्षय॑स्य। दे॒व॒। भूरेः॑। अ॒या। धि॒या। वाम॑भाज॒ इति॑ वाम॒ऽभाजः॑। स्या॒म॒। ६।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+वा॒मम्। अ॒द्य। स॒वि॒तः॒। वा॒मम्। ऊँ॒ऽइत्यूँ॑। श्वः। दि॒वेदि॑व॒ इति॑ दि॒वेऽदि॑वे। वा॒मम्। अ॒स्मभ्य॑म्। सा॒वीः। वा॒मस्य॑। हि। क्षय॑स्य। दे॒व॒। भूरेः॑। अ॒या। धि॒या। वाम॑भाज॒ इति॑ वाम॒ऽभाजः॑। स्या॒म॒। १।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+वा॒मम् । अ॒द्य । स॒वि॒तः॒ । वा॒मम् । उ॒ । श्वः । दि॒वेदि॑व॒ इति॑ दि॒वे-दि॒वे॒ । वा॒मम् । अ॒स्मभ्य॒मित्य॒स्म-भ्य॒म्॒ । सा॒वीः॒ ॥ वा॒मस्य॑ । हि । क्षय॑स्य । देव॑ । भूरेः॑ । अ॒या । धि॒या । वा॒म॒भाज॒ इति॑ वाम-भाजः॑ । स्या॒म॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *vāmam* ← *vāma*
+- \[noun\], accusative, singular, neuter
+- “agreeable; vāma \[word\]; beautiful.”
+
+_________
+
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+
+_________
+
+- *savitar* ← *savitṛ*
+- \[noun\], vocative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+
+_________
+
+- *vāmam* ← *vāma*
+- \[noun\], accusative, singular, neuter
+- “agreeable; vāma \[word\]; beautiful.”
+
+_________
+
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+
+_________
+
+- *śvo* ← *śvas*
+- \[adverb\]
+- “tomorrow.”
+
+_________
+
+- *dive* ← *diva*
+- \[noun\], locative, singular, neuter
+- “day; sky; Svarga.”
+
+_________
+
+- *dive* ← *diva*
+- \[noun\], locative, singular, neuter
+- “day; sky; Svarga.”
+
+_________
+
+- *vāmam* ← *vāma*
+- \[noun\], accusative, singular, neuter
+- “agreeable; vāma \[word\]; beautiful.”
+
+_________
+
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *sāvīḥ* ← *sū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “give birth; urge; bestow; cause.”
+
+_________
+
+- *vāmasya* ← *vāma*
+- \[noun\], genitive, singular, masculine
+- “agreeable; vāma \[word\]; beautiful.”
+
+_________
+
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+
+_________
+
+- *kṣayasya* ← *kṣaya*
+- \[noun\], genitive, singular, masculine
+- “kṣaya; decrease; destruction; disappearance; end; decrease;
+    destruction; pulmonary tuberculosis; loss; removal; death; end;
+    abdication; boniness; solution; killing; Pralaya.”
+
+_________
+
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *bhūrer* ← *bhūreḥ* ← *bhūri*
+- \[noun\], genitive, singular, masculine
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+
+_________
+
+- *ayā* ← *idam*
+- \[noun\], instrumental, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *dhiyā* ← *dhī*
+- \[noun\], instrumental, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+
+_________
+
+- *vāmabhājaḥ* ← *vāma*
+- \[noun\]
+- “agreeable; vāma \[word\]; beautiful.”
+
+_________
+
+- *vāmabhājaḥ* ← *bhājaḥ* ← *bhāj*
+- \[noun\], nominative, plural, masculine
+- “enjoying; consisting of.”
+
+_________
+
+- *syāma* ← *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+देव- द्योतक। सवितः- सूर्य। अद्य- अस्मिन् दिने। वामम्- कल्याणम्। श्वः- आगामिदिनेपि।  वामम्- कल्याणम्। दिवेदिवे- प्रतिदिनम्। वामम्- कल्याणम्। अस्मभ्यम्- नः। सावीः- प्रसुव।  वामस्य- कल्याणस्य। क्षयस्य- निवासस्य। भूरेः- प्रभूतेर्दातासि। अया- अनया। धिया।  वामभाजः- कल्याणभाजः। स्याम- भवेम॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सवितः** **अस्मभ्यं** **वामं** धनम् **अद्य** **सावीः** सुव । **श्वः** च **वामं** धनं प्रसुव । किं बहूक्त्या। **दिवेदिवे** प्रतिदिनं **वामं** धनं प्रसुव । हे **देव** **हि** यस्मात् **क्षयस्य** निवासभूतस्य **भूरेः** प्रभूतस्य **वामस्य** दातासि अतो वयम् **अया** अनया **धिया** स्तुत्या **वामभाजः** धनवन्तः **स्याम** भूयास्म ॥ ॥ १५ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+वाममुश्व इति प्रथमः पादस्समाप्यते । हे सवितः अद्य अस्मिन्नहनि यद्वामं वननीयं मङ्गलं तदेव सावीरिति वक्ष्यमाणेन सम्बन्धः । वाममुश्वः आगामिन्यप्यहनि वाममेव । उकारस्समुच्चये, श्वोपीति । अवधारणे वा, वाममेवेति ।   
+किं बहुना - दिवेदिवे अहन्यहनि अस्मभ्यं वाममेव सावीः सुष्ठु प्रेरय अनुजानीहीत्यर्थः । षूङ् प्रेरणे, 'छन्दसि लुङ्लङ्लिटः' इति लुङि 'बहुलं छन्दस्यमाङ्योगेपि' इत्युडभावः । दिवेदिव इति सप्तम्यर्थे चतुर्थी, 'ऊडिदम्' इति विभक्त्युदात्तत्वम् । तादर्थ्ये वा चतुर्थी, दिवसाय सर्वदिवसार्थं मङ्गळस्य अनुज्ञां कुरु ।
+
+किञ्च - अया धिया अनया बुद्ध्या वामप्राप्तिमाशासानया, तादृश्या वामभाजस्स्याम तादृश्या वामं भजाम । कीदृशम्? वामस्य सर्वाङ्गीणमङ्गलस्य भूरेरनल्पस्य क्षयस्य निवासस्य । 'क्षये निवासे' इत्याद्युदात्तत्वम् । ईदृशस्य निवासस्य यद्वामं तद्भाजस्स्याम हे देवा धनधान्यपशुपुत्रपौत्रादिसमृद्धिमहाभाग्यवन्तस्स्यामेत्यर्थः । इदमः परस्य तृतीयैकवचनस्य 'सुपां सुलुक्' इति याजादेशः, 'ऊडिदम्' इत्यादिनोदात्तत्वम् । धियेति तु 'सावेकाचः' इति विभक्तेरुदात्तत्वम् । वामं भजन्तीति वामभाजः । भजेर्ण्विप्रत्ययः । क्षयमपेक्षमाणस्यापि गमकत्वात्समासः, यथा देवदत्तस्य गुरुकुलमिति । देवभूरेरिति तृतीयपादावसानम् ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+वामम् अद्य।  
+सावित्री त्रिष्टुप्।  
+हे सवितः, वामं वननीयम् अद्य [[अस्मिनद्य|अस्मिन् अद्य]] सावीर् इति संबन्धः।  
+वामम् उ श्वः।  
+वामं च उपाशंसनीये काले सावीः ‘श्व उपांशु-शंसनीयः कालः’ इति हि यास्क आह।  
+किं वा बहुनोक्तेन दिवे-दिवे वामम् अस्मभ्यं सावीः।  
+अहन्य् अहनि वामम् अस्माकं प्रसूयाः।  
+किं च वामस्य हि क्षयस्य देव भूरेः।  
+क्षय-शब्दो निवास-वचन आद्युदात्तत्वात्।  
+‘क्षयो निवासे’ इति हि पाणिनिर् आद्युदात्तत्वं स्मरति।  
+वामस्य च निवासस्य हे देव दानादि-गुण-युक्त, भूरेर् बहुनो धन-पूर्णस्य दाता भवेति शेषः।  
+अनया धिया।  
+धीर् इति कर्म-नाम।  
+अनेन च सोमाख्येन कर्मणा वाम-भाजः अभिलषित-भाजिनो वयं संभवेम॥ ६॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+कण्डिका-द्वयात्मको मन्त्रः।  
+सवितृ-देवत्या त्रिष्टुब् भरद्वाज-दृष्टा।  
+हे सवितः, सर्वस्य प्रेरयितर् देव, अद्यास्मिन् दिने अस्मभ्यम् अस्मद्-अर्थे वामं वननीयं कर्म-फलं सावीः प्रेरय देहीत्य् अर्थः।  
+‘षू प्रेरणे’ लुङ् अड्-अभावश् छान्दसः।  
+वामम् उ श्वः।  
+उ अप्य्-अर्थे।  
+श्वो ऽपि [[समनन्तरदिनेस्पि|समनन्तर-दिने ऽपि]] वामं सावीः।  
+दिवे-दिवे तत ऊर्ध्वं दिने-दिने ऽस्मभ्यं वामं सावीः।  
+हि [[यस्मातया|यस्मात् अया]] अनया।  
+न-लोपश् छान्दसः।  
+धिया श्रद्धा-युक्तया बुद्ध्या वयं वाम-भाजः स्याम भवेम।  
+वामं वननीयं यज्ञ-कर्म भजन्ति वाम-भाजः यज्ञानुष्ठातारो भवेम।  
+किम्-अर्थम्।  
+वामस्य संभजनीयस्य भूरेः विस्तीर्णस्य बहु-कालीनस्य क्षयस्य स्वर्ग-निवासस्य सिद्धय इति शेषः।  
+‘क्षयो निवासे’ इत्य् आद्य्-उदात्तत्वात् क्षय-शब्दो निवासार्थः।  
+दिवे-दिवे इत्य् अह्नो नामसु पठितम्।  
+यद्वोत्तरार्धस्यायम् अर्थः।  
+हे देव, वामस्य वननीयस्य भूरेः धन-पूर्णस्य क्षयस्य निवासस्य दाता भवेति शेषः।  
+धीर् इति कर्म-नाम।  
+अनया धिया सोमाख्येन कर्मणा वयं वाम-भाजो ऽभिलषित-भागिनो भवेम॥ ६॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+पाठस्तु —  
+'वामम् अद्य [[सवितवम्|सवितर् वामम्]] अमु श्वो दिवे दिवे [[वाममस्मभ्यर|वामम् अस्मभ्यं]] सावीः । वामस्य हि क्षयस्य देव भूरेरया धिया वाम-भाजः स्याम' इति ।
+
+हे सवितः [[सर्वस्य|सर्वस्य]] [[प्रेरयितर्देव|प्रेरयितर्-देव]], अद्य अस्मिन् दिने अस्मभ्यं वामं वननीयं कर्मफलं सावीः प्रेरय, देहीत्यर्थः ।  
+श्वः अपि [[समनन्तर दिने|समनन्तर-दिने]] वामं सावीः ।  
+दिवे दिवे तत ऊर्ध्वं दिने दिने वामं सावीः ।  
+हि यस्मात् कारणात् हे देव, वामस्य वननीयस्य भूरेः विस्तीर्णस्य क्षयस्य [[स्वर्ग-निवासस्य|स्वर्ग-निवासस्य]] सिद्धये अया अनया धिया [[श्रद्धायुक्तया|श्रद्धा-युक्तया]] बुद्धया [[वाम-भाजः|वाम-भाजः]] [[वननीय-कर्मानुष्ठायिनो|वननीय-कर्म-अनुष्ठायिनो]] भवेम ।  
+तस्मादस्मभ्यं वननीयं [[कर्म-फलं|कर्म-फलं]] प्रेरयेति संबन्धः ॥ १ ॥
+
+> सायणाचार्य-आनन्दबोध-भाष्यसमेता
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+सावित्र-ग्रहं गृह्णाति - वामम् अद्य इति । भा[ भ ? ]रद्-वाजो बार्हस्पत्यः । सवितृ-देवत्या ऽनुष्टुप् । हे सवितः, अस्मभ्यं वामं सावीः इति संबन्धः । अद्य अस्मिन्न् अहनि वामं वननीयं मङ्गलम् [[अस्यभ्यं|अस्मभ्यं]] सावीः । षू प्रेरणे । प्रेरय । उकारस्य समुच्चयो वा ऽर्थः, अवधारणं वा । श्वः श्वो ऽपि समनन्तर-दिने ऽपि वामम् एव सावीः ।  
+वामं सावीः । हे देव किं वा बहुनोक्तेन । दिवे-दिवे अहन्य्-अहनि अस्मभ्यं देवनादि-गुण-युक्त, हि यस्मात् त्वम् एवं गुण-युक्तः तस्मात् वामस्य क्षयस्य निवासस्य भूरेः महतः अनल्पस्य धन-पूर्णस्य वामस्य मङ्गल-युक्तस्य निवासस्य त्वं दाता भवेति शेषः ॥  
+अया धिया अनया धिया । धीर् इति कर्म-नाम । धिया अनेन कर्मणा सोमाख्येन कर्मणा वाम-भाजः स्याम । अथवा अया धिया अनया [[बुद्धया|बुद्ध्या]] सोम-प्राप्ति-कारण-भूतया युष्मद्-दत्तया वाम-भाजः मङ्गल-फल-भागिनः, स्यामेति संबन्धः ॥१॥
+
+तृतीये ऽनुवाके सावित्र-ग्रह उक्तः । चतुर्थे ऽनुवाके तस्यैव विकल्पितो मन्त्र आम्नायते । उपयाम-गृहीतो ऽसि
+</details>
+
+<details><summary>भट्टभास्कर-टीका (तैत्तिरीया)</summary>
+
+इयमपि तत्रैव व्याख्याता । हे सवितः वामं वननीयं हिरण्यादि धनं अद्यास्मिन्नहनि सावीः सुवः प्रेरयः । श्वोपि वाममेव सुवः । किं बहुना - दिवेदिवे दिनेदिने अस्मभ्यं वाममेव सुवः अस्मभ्यं वाममेव सुवः । किञ्च - हे देव भूरेः वामस्य क्षयस्य निवासस्य यद्वामं तद्भाजस्स्याम । यद्वा - अद्य श्वः क्रमेण सर्वदा वामभाजो वयं वामस्य क्षयस्य निवासस्यापि सम्बन्धिनो भूयास्म । अया धिया अनया बुध्या अहंप्राप्ति[अर्थप्राप्ति]विषयया । यद्वा - अनेन कर्मणा यागात्मकेनेति ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+फिर भी गृहस्थों को किस प्रकार प्रयत्न करना चाहिये, इस विषय का उपदेश अगले मन्त्र में किया है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (देव) सुख देने (सवितः) और समस्त ऐश्वर्य के उत्पन्न करनेवाले मुख्यजन ! आप (अस्मभ्यम्) हम लोगों के लिये (अद्य) आज (वामम्) अति प्रशंसनीय सुख (उ) और आज ही क्या किन्तु (श्वः) अगले दिन (वामम्) उक्त सुख तथा (दिवेदिवे) दिन-दिन (वामम्) उस सुख को (सावीः) उत्पन्न कीजिये, जिससे हम लोग आप की कृपा से उत्पन्न हुई (अया) इस (धिया) श्रेष्ठ बुद्धि से (भूरेः) अनेक पदार्थों से युक्त (वामस्य) अत्यन्त सुन्दर (क्षयस्य) गृहाश्रम के बीच में (वामभाजः) प्रशंसनीय कर्म करनेवाले (हि) ही (स्याम) होवें ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  गृहस्थजनों को चाहिये कि ईश्वर के अनुग्रह से प्रशंसनीय बुद्धियुक्त मङ्गलकारी गृहाश्रमी होकर इस प्रकार का प्रयत्न करें कि जिससे तीनों अर्थात् भूत, भविष्यत् और वर्तमान काल में अत्यन्त सुखी हों ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनश्च गृहाश्रमिणा कथं प्रयतितव्यमित्युपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे देव सवितः पुरषार्थेन बह्वैश्वर्यजनक त्वमस्मभ्यमद्य वाममु श्वो वामं वा दिवेदिवे वामं सावीः सव। येन वयमया धिया भूरेर्वामस्य क्षयस्य गृहाश्रमस्य मध्ये वामभाजो हि स्याम ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  गृहस्थैर्जनैरीश्वरानुग्रहेण परमपुरुषार्थेन प्रशस्तधिया माङ्गलिकाः सन्तो गृहाश्रमिणो भूत्वैव प्रयतेरन्, यतस्त्रिषु कालेषु प्रवृद्धसुखाः स्युः ॥६॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  ईश्वरी अनुग्रहाने व प्रशंसनीय बुद्धीने गृहस्थाश्रमी माणसांनी कल्याणकारी गृहस्थ बनून भूत, वर्तमान व भविष्य या तिन्ही काळी सुखी राहण्यासाठी प्रयत्न करावेत.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Beget for us, **Savitā**, wealth today, wealth tomorrow, wealth day by day; you are the giver of ample wealth, of a (spacious) mansion; may we, by this praise, become partakers of wealth.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+**Yajus**. 8.6: **vāma** = dhanam; or, karmaphalam, the reward of holy acts or sacrifice, i.e. vamanīyam, that which is desirable to obtain, and which will apply equally to wealth or reward;
+
+**Kṣaya** = residence;
+
+Bhūreḥ = bahukālinasya, long protracted, that is, residence in heaven, svarganivāsaḥ
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+A thing of value today, o Savitar, and one of value tomorrow—day after  day impel to us a thing of value,  
+for, o god, *you have control over much of value. Through this poetic  insight may we be partakers of the valuables.874 VI.72–73
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+In c I accept the emendation of kṣáyasya to *kṣáyasi, which goes back to Aufrecht (see Oldenberg, Geldner, Renou, all of whom accept it; against this tide is Scarlatta 353-54, though he doesn’t even note the general view). Inter alia, it provides an accented verb for the hí in pāda c; syāma in d is unaccented and should therefore not be construed with the previous pāda. ## 072 Indra and Soma Renou’s brief comments are found in EVP XVI.108-9. His assessment -- “banal” -- is spot on. For the structure of the hymn, see published introduction.
+</details>
+
+<details><summary>Griffith</summary>
+
+Fair wealth, O Savitar, to-day, to-morrow, fair wealth produce for us each day that passes.  
+     May we through this our song be happy gainers, God, of a fair and spacious habitation.
+</details>
+
+<details><summary>Macdonell</summary>
+
+To-day wealth, Savitar, and wealth to-morrow. Bring wealth to us each day by thine impulsion; For over ample wealth, O god, thou rulest: Through this our hymn may we of wealth be sharers.
+</details>
+
+<details><summary>Keith</summary>
+
+Prosperity to-day, O Savitr, prosperity to-morrow,  
+Day by day prosperity mayst thou procure for us;  
+Through this prayer may be won the prosperity  
+Of many a prosperous dwelling, O god.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+What is desirable today, O Savitṛ, and what is desirable tomorrow, day by day grant us what is desirable.  
+For since, O god, thou rulest over abundant desirable [wealth], by this prayer may we be sharers of the desirable.
+</details>
+
+<details><summary>Geldner</summary>
+
+Gutes weise uns, o Savitri, heute und Gutes morgen, Tag für Tag Gutes zu, denn du Gott verfügst über vieles Gut. Durch dieses Lied wollen wir des Gutes teilhaft werden.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Gut führ uns heute zu und Gut auch morgen, und Tag für Tag, o Savitar, uns Gut zu; Ja, schönes Gut, o Gott, und viele Habe werd' uns zu Theil durch diese unsre Andacht.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Хорошее сегодня, Савитар, и хорошее завтра,  
+День за днем хорошее создавай!  
+Ведь ты властвуешь, о бог, много над чем хорошим.  
+Да получим мы долю в хорошем благодаря этой молитве!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सविता
+- भरद्वाजो बार्हस्पत्यः
+- निचृत्त्रिष्टुप्
+- धैवतः
+
+- गृहपतयो देवताः
+- भरद्वाज ऋषिः
+- निचृद् आर्षी त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर वह प्रजाओं के लिये क्या करे, इस विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (सवितः) ऐश्वर्य्य के देनेवाले (देव) दिव्यगुणयुक्त राजन् ! जैसे (हि) जिस कारण से आप (अद्य) अब (वामम्) प्रशंसा करने योग्य सुख (उ) और (श्वः) अगले दिन (वामम्) प्रशंसा करने योग्य सुख तथा (दिवेदिवे) प्रतिदिन (वामम्) अति उत्तम सुख (अस्मभ्यम्) हमारे लिये (सावीः) उत्पन्न करो उससे (अया) इस (धिया) प्रज्ञा वा कर्म से (भूरेः) बहुत प्रकार के (वामस्य) प्रशंसित (क्षयस्य) घर के (वामभाजः) वामभाज अर्थात् प्रशंसित सुख भोगनेवाले हम लोग (स्याम) हों ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे राजन् ! जिससे आप हम प्रजाजनों के लिये प्रशंसनीय सुख को उत्पन्न करते और रक्षा का विधान करते हो, वैसे हम लोग सुख से धन, घर और प्रशंसित कामों के सेवनेवाले होकर आपकी आज्ञा में नित्य वर्तें ॥६॥ इस सूक्त में सविता, राजा और प्रजा के कर्मों का वर्णन होने से इस सूक्त के अर्थ की इससे पूर्व सूक्त के अर्थ के साथ सङ्गति जाननी चाहिये ॥ यह इकहत्तरवाँ सूक्त और पन्द्रहवाँ वर्ग समाप्त हुआ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे सवितर्देव ! यथा हि त्वमद्य वामसु श्वो वामं दिवेदिवे वाममस्मभ्यं सावीस्तस्मात् तयाऽया धिया भूरेर्वामस्य क्षयस्य वामभाजो वयं स्याम ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनः स प्रजाभ्यः किं कुर्यादित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वामम्) प्रशस्यसुखम् (अद्य) इदानीम् (सवितः) ऐश्वर्यप्रद राजन् (वामम्) प्रशंसनीयम् (उ) (श्वः) आगामिदिने (दिवेदिवे) प्रतिदिनम् (वामम्) अत्युत्कृष्टम् (अस्मभ्यम्) (सावीः) जनय (वामस्य) प्रशस्यस्य (हि) यतः (क्षयस्य) गृहस्य (देव) दिव्यगुणयुक्त (भूरेः) बहुविधस्य (अया) अनया (धिया) प्रज्ञयाऽनेन कर्मणा वा (वामभाजः) ये वामं भजन्ति ते (स्याम) भवेम ॥६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे राजन् ! यस्माद्भवानस्मभ्यं प्रजाजनेभ्यो नित्यं प्रशंसनीयं सुखं जनयति रक्षां विधत्ते तस्माद्वयं सुखेन धनगृहप्रशस्तकर्मणां सेवका भूत्वा भवदाज्ञायां नित्यं वर्त्तेमहीति ॥६॥ अत्र सवितृराजप्रजाकृत्यवर्णनादेतदर्थस्य पूर्वसूक्तार्थेन सह सङ्गतिर्वेद्या ॥  इत्येकसप्ततितमं सूक्तं पञ्चदशो वर्गश्च समाप्तः ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे राजा ! तू आमच्या प्रजेसाठी प्रशंसनीय सुख उत्पन्न करतोस. रक्षणाचे नियम बनवितोस. त्यासाठी आम्ही सुखाने धन, घर व प्रशंसित कार्य करून नित्य तुझ्या आज्ञेत राहावे. ॥ ६ ॥
+</details>

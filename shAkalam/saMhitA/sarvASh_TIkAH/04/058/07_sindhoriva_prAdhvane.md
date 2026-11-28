@@ -1,0 +1,475 @@
++++
+title = "007"
+devataa = "अग्निः सूर्यो वापो वा गावो वा घृतं वा"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः सूर्यो वापो वा गावो वा घृतं वा
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+सि᳓न्धोर् इव प्राध्वने᳓ शूघना᳓सो  
+वा᳓तप्रमियः पतयन्ति यह्वाः᳓  
+घृत᳓स्य धा᳓रा अरुषो᳓ न᳓ वाजी᳓  
+का᳓ष्ठा भिन्द᳓न्न् ऊर्मि᳓भिः पि᳓न्वमानः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for non-linguistic reasons
+
+_________
+**Pāda-label**  
+genre D  
+genre D  
+genre D  
+genre D
+_________
+**Morph**  
+iva ← iva (invariable)  
+{}
+
+prādhvané ← prādhvaná- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+síndhoḥ ← síndhu- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+śūghanā́saḥ ← śūghaná- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+patayanti ← √pat- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vā́tapramiyaḥ ← vā́tapramī- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+yahvā́ḥ ← yahvá- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+aruṣáḥ ← aruṣá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhā́rāḥ ← dhā́rā- 1 (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+ghr̥tásya ← ghr̥tá- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+vājī́ ← vājín- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bhindán ← √bhid- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+kā́ṣṭhāḥ ← kā́ṣṭhā- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+pínvamānaḥ ← √pinv- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+ūrmíbhiḥ ← ūrmí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+सिन्धो॑रिव प्राध्व॒ने शू॑घ॒नासो॒ वात॑प्रमियः पतयन्ति य॒ह्वाः ।  
+घृ॒तस्य॒ धारा॑ अरु॒षो न वा॒जी काष्ठा॑ भि॒न्दन्नू॒र्मिभिः॒ पिन्व॑मानः ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+सिन्धोरिव प्राध्वने शूघनासो वातप्रमियः पतयन्ति यव्हाः।  
+घृतस्य धारा अरुषो न वाजी काष्ठा भिन्दन्नूर्मिभिः पिन्वमानः
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+सिन्धोर् इव प्राध्वने शूघनासो  
+वातः प्रमीयः पतयन्ति यह्वाः ।  
+घृतस्य धारा अरुषो न वाजी  
+काष्ठा भिन्दन्न् ऊर्मिभिः पिन्वमानः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सिन्धोः॑ऽइव । प्र॒ऽअ॒ध्व॒ने । शू॒घ॒नासः॑ । वात॑ऽप्रमियः । प॒त॒य॒न्ति॒ । य॒ह्वाः ।  
+घृ॒तस्य॑ । धाराः॑ । अ॒रु॒षः । न । वा॒जी । काष्ठाः॑ । भि॒न्दन् । ऊ॒र्मिभिः॑ । पिन्व॑मानः ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+सिन्धो॑रि॒वेति॒ सिन्धाःऽइव। प्रा॒ध्व॒न इति॑ प्रऽअध्व॒ने। शू॒घ॒नासः॑। वात॑प्रमिय॒ इति॒ वात॑ऽप्रमियः। प॒त॒य॒न्ति॒। य॒ह्वाः। घृतस्य॑। धाराः॑। अ॒रु॒षः। न। वा॒जी। काष्ठाः॑। भि॒न्दन्। ऊ॒र्मिभि॒रित्यू॒र्मिः॑। पिन्व॑मानः। ९५।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+सिन्धो॑रि॒वेति॒ सिन्धाःऽइव। प्रा॒ध्व॒न इति॑ प्रऽअध्व॒ने। शू॒घ॒नासः॑। वात॑प्रमिय॒ इति॒ वात॑ऽप्रमियः। प॒त॒य॒न्ति॒। य॒ह्वाः। घृतस्य॑। धाराः॑। अ॒रु॒षः। न। वा॒जी। काष्ठाः॑। भि॒न्दन्। ऊ॒र्मिभि॒रित्यू॒र्मिः॑। पिन्व॑मानः। ८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- सि᳓न्धोरिव (*RV*-4)
+- प्राध्वने᳓ (अनाम्नातम् (अनुमानम्))
+- शूघना᳓सः (*RV*-1, *VS-M*-1, *VS-K*-1)
+- वा᳓त-प्रमियः (*RV*-1, *VS-M*-1, *VS-K*-1)
+- पतयन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *AV*-1)
+- य᳓व्हाः (अनाम्नातम् (अनुमानम्))
+- घृत᳓स्य (*MS*-23/118, *TS*-15/64, *RV*-19/91, *TB*-10/34, *TK*-0/1, *AV*-10/40, *SB-M*-9/51, *SB-K*-10/51, *VS-M*-11/49, *VS-K*-11/45)
+- धा᳓राः (*MS*-3/14, *TS*-7/25, *RV*-27/107, *TB*-0/2, *TK*-1/3, *AV*-9/13, *SB-M*-3/41, *SB-K*-3/39, *VS-M*-7/11, *VS-K*-7/10)
+- अरुषः᳓ (*MS*-2/8, *TS*-2/7, *RV*-22/57, *TB*-1/2, *AV*-1/6, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-1/6, *VS-K*-1/5)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- वाजी᳓ (*MS*-12/48, *TS*-30/55, *RV*-67/172, *TB*-8/18, *TK*-0/1, *AV*-5/25, *SB-M*-15/28, *SB-K*-12/24, *VS-M*-14/35, *VS-K*-14/33)
+- का᳓ष्ठा (*MS*-2/3, *TS*-6/7, *RV*-1/11, *TB*-1/3, *SB-M*-1/3, *SB-K*-1/4, *VS-M*-2/3, *VS-K*-2/3)
+- भिन्द᳓न् (*RV*-2, *AV*-1, *VS-M*-1, *VS-K*-1)
+- ऊर्मि᳓भिः (*MS*-1/14, *TS*-0/10, *RV*-5/70, *TB*-1/4, *AV*-0/6, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-0/10, *VS-K*-0/12)
+- पि᳓न्वमानः (*MS*-1/4, *TS*-1/5, *RV*-2/10, *TB*-0/4, *TK*-2/3, *AV*-2/6, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-2/6, *VS-K*-2/6)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- सि᳓न्धोः (*TS*-1/11, *RV*-12/186, *TB*-0/1, *AV*-4/30, *SB-M*-0/7, *SB-K*-0/7, *VS-M*-0/8, *VS-K*-0/6, *KS*-0/1, *MS*-0/17)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-81, *TK*-3, *AV*-2, *SB-M*-812, *SB-K*-747, *VS-M*-2, *VS-K*-2, *KS*-48, *MS*-222)
+- प्राध्वने᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- शूघना᳓सः (*RV*-1, *VS-M*-1, *VS-K*-1)
+- वा᳓तः (*TS*-27/52, *RV*-36/81, *TB*-9/15, *AV*-46/83, *SB-M*-31/72, *SB-K*-32/74, *VS-M*-12/31, *VS-K*-13/31, *KS*-5/13, *MS*-20/53)
+- प्रमीयः᳓ (फिषोऽन्त उदात्तः फि॰ १.१)
+- पतयन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3, *AV*-1)
+- यह्वाः᳓ (*TS*-1, *RV*-1/19, *AV*-0/1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- घृत᳓स्य (*TS*-15/64, *RV*-19/91, *TB*-8/30, *TK*-0/1, *AV*-10/40, *SB-M*-9/51, *SB-K*-10/51, *VS-M*-11/49, *VS-K*-11/45, *KS*-5/28, *MS*-19/106)
+- धा᳓राः (*TS*-7/25, *RV*-27/107, *TB*-0/2, *TK*-0/2, *AV*-9/13, *SB-M*-3/41, *SB-K*-3/39, *VS-M*-7/11, *VS-K*-7/10, *KS*-1/2, *MS*-2/12)
+- अरुषः᳓ (*TS*-2/7, *RV*-22/57, *TB*-1/2, *AV*-1/6, *SB-M*-1/5, *SB-K*-1/5, *VS-M*-1/6, *VS-K*-1/5, *KS*-0/1, *MS*-2/3)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-368, *TK*-49, *AV*-649, *SB-M*-2493, *SB-K*-2366, *VS-M*-183, *VS-K*-160, *KS*-91, *MS*-772)
+- वाजी᳓ (*TS*-30/54, *RV*-67/172, *TB*-8/16, *AV*-5/25, *SB-M*-15/28, *SB-K*-12/24, *VS-M*-14/35, *VS-K*-14/33, *KS*-0/2, *MS*-10/41)
+- का᳓ष्ठा (*TS*-6/7, *RV*-1/11, *TB*-1/2, *SB-M*-1/3, *SB-K*-1/4, *VS-M*-2/3, *VS-K*-2/3, *MS*-2/3)
+- भिन्द᳓न् (*RV*-2, *AV*-1, *VS-M*-1, *VS-K*-1)
+- ऊर्मि᳓भिः (*TS*-0/10, *RV*-5/70, *TB*-0/2, *AV*-0/6, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-0/10, *VS-K*-0/12, *KS*-0/4, *MS*-1/13)
+- पि᳓न्वमानः (*TS*-1/5, *RV*-2/10, *TB*-0/2, *TK*-2/3, *AV*-2/6, *SB-M*-0/5, *SB-K*-0/5, *VS-M*-2/6, *VS-K*-2/6, *KS*-0/1, *MS*-0/3)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *sindhor* ← *sindhoḥ* ← *sindhu*
+- \[noun\], genitive, singular, feminine
+- “river; Indus; sindhu \[word\].”
+
+_________
+
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *prādhvane* ← *prādhvana*
+- \[noun\], locative, singular, neuter
+
+_________
+
+- *śūghanāso* ← *śūghanāsaḥ* ← *śūghana*
+- \[noun\], nominative, plural, masculine
+
+_________
+
+- *vātapramiyaḥ* ← *vātapramī*
+- \[noun\], nominative, plural, feminine
+
+_________
+
+- *patayanti* ← *patay* ← *√pat*
+- \[verb\], plural, Present indikative
+- “fly.”
+
+_________
+
+- *yahvāḥ* ← *yahva*
+- \[noun\], nominative, plural, masculine
+- “youngest; youthful; active.”
+
+_________
+
+- *ghṛtasya* ← *ghṛta*
+- \[noun\], genitive, singular, neuter
+- “ghee; fat.”
+
+_________
+
+- *dhārā* ← *dhārāḥ* ← *dhārā*
+- \[noun\], nominative, plural, feminine
+- “flush; flow; current; spring; fountain.”
+
+_________
+
+- *aruṣo* ← *aruṣaḥ* ← *aruṣa*
+- \[noun\], nominative, singular, masculine
+- “red; red.”
+
+_________
+
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+
+_________
+
+- *vājī* ← *vājin*
+- \[noun\], nominative, singular, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+
+_________
+
+- *kāṣṭhā* ← *kāṣṭhāḥ* ← *kāṣṭhā*
+- \[noun\], accusative, plural, feminine
+- “kāṣṭhā; quarter; body of water.”
+
+_________
+
+- *bhindann* ← *bhindan* ← *bhid*
+- \[verb noun\], nominative, singular
+- “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
+    lance; break; distinguish; disclose; pierce; tear; separate;
+    transgress; break open; scratch; penetrate; sever; bribe; grind;
+    betray; fester; strike.”
+
+_________
+
+- *ūrmibhiḥ* ← *ūrmi*
+- \[noun\], instrumental, plural, masculine
+- “wave; billow.”
+
+_________
+
+- *pinvamānaḥ* ← *pinv*
+- \[verb noun\], nominative, singular
+- “swell; swell; overflow; abound.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सिन्धोः- नद्याः। शूघनासः- आशुगन्त्र्य आपः। न- इव। वातप्रमियः- वायुवेगाः। यह्वाः-  महत्यः। घृतस्य धाराः- घृताख्यज्ञानप्रकाशधाराः। अरुषः- रोचमानः। वाजी- अश्वः। न- इव।  काष्ठाः- आवारकाणि। भिन्दन्। पिन्वमानः- वृद्धमुदकमिव। पतयन्ति- सरन्ति॥७॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**सिन्धोः** स्यन्दमानाया नद्याः सकाशात् **इव** उदकानीव **प्राध्वने** प्रवणवति देशे **शूघनासः** आशुगन्त्र्यः ।  ‘ आशु इति च शु इति च क्षिप्रनामनी भवतः ' ( निरु. ६. १ ) इति निरुक्तम् । **वातप्रमियः** वायुवत् प्रकृष्टवेगाः **यह्वाः** महत्यः **घृतस्य** **धाराः** **पतयन्ति** गच्छन्त्यग्नेरुपरि । घृतमुदकमिति पक्षे सिन्धोरिवेत्यत्र इवशब्दोऽनर्थकः । स्यन्दनसाधनादन्तरिक्षादुक्तलक्षणा घृतधारा उदकधाराः पतयन्ति गच्छन्ति भूमौ । किंच घृतसंस्त्यायः **काष्ठाः** मर्यादाभूतान् परिधीन् **भिन्दन्** **ऊर्मिभिः** रसैः **पिन्वमानः** वर्धमानो भवति । उदकमिति पक्षे काष्ठाः क्रान्त्वा स्थिता दिशो भिन्दन्नूर्मिभिः तरङ्गैः पिन्वमानो भवति । तत्र दृष्टान्तः । **अरुषो** **न** **वाजी** आरोचमानो गर्वेण गमनशीलोऽश्व इव । स यथा भिन्दन् पिन्वमानश्च भवति तद्वत् ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+सिन्धोर् इव।  
+या एताः सिन्धोर् इव नद्याः प्राध्वने।  
+प्रगतो ऽध्वनः प्राध्वा महोदक-प्रपातः तस्मिन् महोदक-प्रपाते।  
+शूघनासः शू इति क्षिप्र-नाम।  
+हन्तेर् गत्य्-अर्थस्य घनः।  
+क्षिप्र-गमनाः वात-प्रमियः तरङ्गाः पतयन्ति।  
+[[स्वार्थेण् च|स्वार्थे णिच्]]। प्रपतन्ति। यह्वाः महत्यः।  
+स्रुङ्-मुखात् परिभ्रष्टाः घृतस्य धाराः तांश् च पतन्तीर् अश्नात्य् अग्निः।  
+क इवेत्य् अत आह। अरुषो न वाजी। नकार उपमार्थीयः।  
+यथा अरोचनो जात्य्-आदिभिर् उत्कृष्टो वाजी वेजनवान् अश्वः।  
+पुनर् अप्य् अश्वं विशिनष्टि। काष्ठा भिन्दन्। आज्य्-अन्तान् विदारयन्।  
+ऊर्मिभिः पिन्वमानः आज्य्-अन्त-विभेदन-श्रम-योगाच् च स्वेदोदकोर्मिभिः पिन्वमानः [[प्रसिञ्चनभूमिम्|प्रसिञ्चन् भूमिम्]]।  
+यथैतद्-गुण-विशिष्टो ऽश्वो ऽश्नाति एवम् अग्निर् अप्य् अश्नातीति वाक्यार्थः।  
+न तु हीनोपमानम् अग्नेर् अश्वः ज्यायांस् तत्र गुणो ऽभिप्रेत इति परिहृतं यास्केन॥ ९५॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+घृतस्य धाराः पतयन्ति स्रुङ्-मुखात् पतन्ति।  
+‘पत ऐश्वर्ये गतौ च’ चुरादिर् अदन्तः।  
+कीदृश्यो धाराः। यह्वाः महत्यः। यह्व इति महन्-नामसु पठितम्।  
+तत्र दृष्टान्त-द्वयम् प्राध्वने सिन्धोर् वात-प्रमिय इव।  
+प्रगतो ऽध्वनः प्राध्वनः विषम-प्रदेशः।  
+वातेन प्रमीयन्ते नश्यन्ति ते वात-प्रमियस् तरङ्गाः ‘मीङ् हिंसायां’ दिवादिः अस्मात् क्विप्।  
+यथा सिन्धोर् नद्याः वात-प्रमियः तरङ्गाः प्राध्वने विषम-प्रदेशे पतन्ति तद्वत्।  
+कीदृशा वात-प्रमियः। शूघनासः। शु इति क्षिप्र-नाम।  
+हन्तेर् गत्य्-अर्थस्य घनम् इति रूपम्।  
+शु क्षिप्रं घनं गमनं येषां ते शुघनाः शीघ्र-गमनाः ‘आज् जसेर् असुक्’।  
+अन्यो दृष्टान्तः। वाजी न। न इवार्थे। वाजीव यथा वाजी अश्वः पतति। कीदृशो वाजी।  
+अरुषः ‘रुष क्रोधे’ रोषति क्रुध्यतीति रुषः ‘इगुपध-’ (पा॰ ३। १। १३५) इति क-प्रत्ययः।  
+न रुषः अरोषणः जात्य्-आदिभिर् उत्कृष्ट इत्य् अर्थः।  
+तथा काष्ठाः आज्य्-अन्तान् संग्राम-प्रदेशान् भिन्दन् [[विदारयनूर्मिभिः|विदारयन्न् ऊर्मिभिः]] काष्ठ-भेदनोत्थ-श्रम-खेदोदकैः पिन्वमानः भूमिं सिञ्चन्।  
+‘पिवि सेचने’ [[शानचिदित्त्वान्नुम्|शानचीदित्त्वान् नुम्]]।  
+स वाजी यथा पतित्वान्नान्य् अश्नाति एवं पतन्ती घृत-धारा अग्निर् अश्नातीत्य् अर्थः॥ ९५॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+' सिन्धोर् इव प्राध्वने ' इति ।  
+प्र प्रकृष्टः अध्वा मार्गः यस्य सिन्धोः स प्राध्वा ।  
+तस्मै प्राध्वने ।  
+अत्र व्यत्ययः ।  
+प्राध्वनः महोदक-प्रदातुः सिन्धोः सकाशात् ।  
+नद्याः इव " शूघनासः । शू इति क्षिप्र-नाम । इन्तेर् गत्य्-अर्थस्य घना इति भवति । क्षिप्र-गमनाः शूघनासः । वात-प्रमियः । मीञ् हिंसायाम् । वातेन याः प्रमीयन्ते विनश्यन्ति ता वात-प्रमियः । तरङ्ग-वीच्यः । "यह्वा इति महन्-नाम ।  
+महत्यः सुमुखाः परिपुष्टा [[नय|नद्य]] इव घृतस्य धाराः " पतयन्ति । स्वार्थे णिच् । प्रपतन्ति । ताश् च पतन्तीर् [[धृतस्य|घृतस्य]] धाराः [[अग्निरनातीति|अग्निर् अश्नातीति]] शेषः ।  
+क इवेत्य् अत आह- अरुषो न वाजी' । 'न इत्य् उपमार्थीयः । जात्यादिभिर् उत्कृष्ट-जवः "[[अस्त्रः|अरुषः]] वाजवान् 'वाजी अश्वः । "काष्ठाः आद्य्-अन्त-प्रदेशान् विदारयन् 'ऊर्मिभिः [[श्रम् अयोगात्|श्रम-योगात्]] स्वेदोदकोर्मिभिः पिन्वमानः । [[पित्र|पिवि]] मिवि सेचने । भूमिं सिञ्चन् अश्नाति । एवम् अग्निर् अपि घृतस्य धाराः अश्नातीत्य् अर्थः ॥ ८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! (प्राध्वने) जल चलने के उत्तम मार्ग में (सिन्धोरिव) नदी की जैसे (शूघनासः) शीघ्र चलनेहारी (वातप्रमियः) वायु से जानने योग्य लहरें गिरें और (न) जैसे (काष्ठाः) संग्राम के प्रदेशों को (भिन्दन्) विदीर्ण करता तथा (ऊर्मिभिः) शत्रुओं को मारने के श्रम से उठे पसीने रूप जल से पृथिवी को (पिन्वमानः) सींचता हुआ (अरुषः) चालाक (वाजी) वेगवान् घोड़ा गिरे वैसे जो (यह्वाः) बड़ी गम्भीर (घृतस्य) विज्ञान की (धाराः) वाणी (पतयन्ति) उपदेशक के मुख से निकल के श्रोताओं पर गिरती हैं, उनको तुम जानो ॥९५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में भी दो उपमालङ्कार हैं। जो नदी के समान कार्यसिद्धि के लिये शीघ्र धावनेवाले वा घोड़े के समान वेगवाले जन जिनकी सब दिशाओं में कीर्ति प्रवर्त्तमान हो रही है और परोपकार के लिये उपदेश से बड़े-बड़े दुःख सहते हैं, वे तथा उनके श्रोताजन संसार के स्वामी होते हैं और नहीं ॥९५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्याः ! प्राध्वने सिन्धोरिव शूघनासो वातप्रमियः काष्ठा भिन्दन्नूर्मिभिर्भूमिं पिन्वमानोऽरुषो वाजी न या यह्वा घृतस्य धाराः पतयन्ति, ता यूयं विजानीत ॥९५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्राप्युपमाद्वयम्−ये नदीवत् कार्यसिद्धये तूर्णगामिनोऽश्ववद् वेगवन्तः सर्वासु दिक्षु प्रवृत्तकीर्त्तयो जनाः परोपकारायोपदेशेन महान्ति दुःखानि सहन्ते, ते तेषां श्रोतारश्च जगत्स्वामिनो भवन्ति, नेतरे ॥९५ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रातही दोन उपमालंकार आहेत. जी माणसे कार्यसिद्धीसाठी नदीप्रमाणे वेगवान किंवा घोड्याप्रमाणे गतिमान असतात, ज्यांची कीर्ती दशदिशांना फैलावते, ते परोपकारासाठी विज्ञानमय गंभीर वाणीने उपदेश करुन अतिशय दुःखही सहन करतात ते व त्यांचे श्रोते हे जगाचे स्वामी बनतात, इतर नव्हेत.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The stream of Ghī fall copious, swift as the wind, and rapid as the waters of a river down a declivity, breaking through the confining banks, and hurrying on with their waves, like a high-spirited steed.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Swift as the wind: **vāta** pramiyaḥ vayūvat prakṛṣṭavega; the comparison may be to **Sindhu**, a river agitated by the wind; breaking through the confining banks: **kāṣṭhā** bhindan urmibhiḥ pinvamānaḥ: kāṣṭhā = limiting circles; maryādābhūtān paridhīn limits within which the flowing butter increases with its juice; **ghṛta** may also mean water, when sindhu will imploy **antarikṣa**
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+As if on the straightaway of a river, they fly—the youthfully exuberant  ones, swift-battering, confounding the wind—  
+the streams of ghee—like a ruddy prizewinning horse splitting  
+the wooden race-course barriers [/splintering the sticks (in their  current)], swelling with their waves.
+</details>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
+<details><summary><h2>05-10 ...{Loading}...</h2></summary>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: ūrmáyo ghrtásya ̥ in 6c).
+</details>
+
+</details>
+</div>
+
+<details><summary>Griffith</summary>
+
+As rushing down the rapids of a river, flow swifter than the wind the vigorous currents,  
+     The streams of oil in swelling fluctuation like a red courser bursting through the fences.  
+8.Like women at a gathering fair to look on and gently smiling, they incline to Agni.  
+     The streams of holy oil attain the fuel, and Jatavedas joyfully receives them.
+</details>
+
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
+
+As rushing down the rapids of a river, flow swifter than the wind the vigorous currents, The streams of oil in swelling fluctuation like a red courser bursting through the fences.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Like swift ones on the course of a river, breaking wind, the young waters fly;  
+the streams of ghee swell with waves like a reddish prize-horse bursting through the course.
+</details>
+
+<details><summary>Geldner</summary>
+
+Wie im Gefälle des Stromes die Wirbel, so eilen den Wind hinter sich lassend die jüngsten Ströme des Ghrita, wie ein rötliches Roß, das die Schranken durchbricht, mit den Wogen hochgehend.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Die schnellen fliegen wie im Sturz des Stromes, hinschiessend rascher als des Windes Wehen, Der Butter Ströme wie ein feur'ges Rennpferd, die Bahn durchschneidend, schwellend durch die Wogen.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Подобно водоворотам в прямом русле реки  
+Летят, оставляя позади себя ветер, юные  
+Потоки жира, как рыжий скакун,  
+Ломающий преграды, набухая волнами.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः सूर्यो वाऽपो वा गावो वा घृतं वा
+- वामदेवो गौतमः
+- निचृदनुष्टुप्
+- गान्धारः
+
+- यज्ञपुरुषो देवता
+- वामदेव ऋषिः
+- आर्षी त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब जलदृष्टान्त से वाणीविषय को अगले मन्त्र में कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! (पिन्वमानः) प्रसन्न करता हुआ मैं जैसे (शूघनाशः) शीघ्रगामिनी (यह्वाः) बड़ी (वातप्रमियः) वायु को मापनेवाली और (प्राध्वने) उत्तम प्रकार से चलने योग्य मार्ग के लिये (सिन्धोरिव) नदियों के अर्थात् नदियों की तरङ्गों के समान (पतयन्ति) पति के सदृश आचरण करती हैं तथा (अरुषः) लाल रूपवाले (वाजी) घोड़ों के (न) सदृश (घृतस्य) जल की (धाराः) धारा (ऊर्म्मिभिः) तरङ्गों से (काष्ठाः) दिशाओं के समान तटों को (भिन्दन्) विदीर्ण करती हैं, वैसे उपदेशों की वृष्टि करके अविद्याओं का नाश करता हूँ ॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। जिन विद्वानों के नदियों के प्रवाह सदृश उत्तम उपदेश प्रचरित होते और घोड़ों के समान दुःखों के पार कराते हैं, वे ही बड़े श्रेष्ठ पुरुष हैं ॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्याः ! पिन्वमानोऽहं यथा शूघनासो यह्वा वातप्रमियः प्राध्वने सिन्धोरिव पतयन्त्यरुषो वाजी न घृतस्य धारा ऊर्म्मिभिः काष्ठा भिन्दँस्तथोपदेशान् वर्षयित्वाऽविद्यां भिनद्मि ॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथ जलदृष्टान्तेन वाग्विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सिन्धोरिव) नद्या इव (प्राध्वने) प्रकृष्टतया गन्तव्याय मार्गाय (शूघनासः) आशुगन्त्र्यः (वातप्रमियः) या वातं वायुं प्रमिन्वन्ति ताः (पतयन्ति) पतिरिवाचरन्ति (यह्वाः) महत्यः (घृतस्य) जलस्य (धाराः) (अरुषः) अरुणरूपः (न) इव (वाजी) अश्वः (काष्ठाः) दिश इव तटीः (भिन्दन्) विदृणन्ति (ऊर्म्मिभिः) तरङ्गैः (पिन्वमानः) प्रसादयन् ॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्रोपमालङ्कारः । येषां विदुषां नदीप्रवाहा इव सदुपदेशाश्चलन्ति अश्व इव दुःखान्तं गमयन्ति ते एव महान्तः सन्तः सन्ति ॥७॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. ज्या विद्वानांचे नदीच्या प्रवाहाप्रमाणे उपदेश प्रचारित होतात व घोड्याप्रमाणे तीव्रतेने ते दुःखातून पार पाडतात तेच श्रेष्ठ पुरुष असतात. ॥ ७ ॥
+</details>

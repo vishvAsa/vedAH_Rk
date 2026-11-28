@@ -1,0 +1,241 @@
++++
+title = "002"
+devataa = "अग्निः"
+RShiH = "विरूप आङ्गिरसः"
+ChandaH = "गायत्री"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - विरूप आङ्गिरसः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अ᳓स्मै ते प्रतिह᳓र्यते  
+जा᳓तवेदो वि᳓चर्षणे  
+अ᳓ग्ने ज᳓नामि सुष्टुति᳓म्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal on metrical evidence alone
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+_________
+**Morph**  
+ásmai ← ayám (pronoun)  
+{case:DAT, gender:M, number:SG}
+
+pratiháryate ← √hr̥- 2 (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+jā́tavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+vícarṣaṇe ← vícarṣaṇi- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+jánāmi ← √janⁱ- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+suṣṭutím ← suṣṭutí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अस्मै॑ ते प्रति॒हर्य॑ते॒ जात॑वेदो॒ विच॑र्षणे ।  
+अग्ने॒ जना॑मि सुष्टु॒तिम् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+तस्मै॑ ते प्रति॒हर्य॑ते॒ जात॑वेदो॒ विच॑र्षणे ।  
+अग्ने॒ जना॑मि सुष्टु॒तिम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अस्मै॑ । ते॒ । प्र॒ति॒ऽहर्य॑ते । जात॑ऽवेदः । विऽच॑र्षणे ।  
+अग्ने॑ । जना॑मि । सु॒ऽस्तु॒तिम् ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+तस्मै॑ । ते॒ । प्र॒ति॒हर्य॑त॒ इति॑ प्रति-हर्य॑ते । जात॑वेद॒ इति॒ जात॑-वे॒दः॒ । विच॑र्षण॒ इति॒ वि-च॒र्ष॒णे॒ ॥ अग्ने॑ । जना॑मि । सु॒ष्टु॒तिमिति॑ सु-स्तु॒तिम् ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *asmai* ← *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+
+_________
+
+- *pratiharyate* ← *pratihary* ← *√hary*
+- \[verb noun\], dative, singular
+
+_________
+
+- *jātavedo* ← *jātavedaḥ* ← *jātavedas*
+- \[noun\], vocative, singular, masculine
+- “Agni; fire.”
+
+_________
+
+- *vicarṣaṇe* ← *vicarṣaṇi*
+- \[noun\], vocative, singular, masculine
+- “excellent.”
+
+_________
+
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *janāmi* ← *jan*
+- \[verb\], singular, Present indikative
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+
+_________
+
+- *suṣṭutim* ← *suṣṭuti*
+- \[noun\], accusative, singular, feminine
+- “hymn; praise.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+जातवेदः- जातविद्य। विचर्षणे- विशेषद्रष्टः। अस्मै- तस्मै। ते- तुभ्यम्। प्रतिहर्यते- प्रयच्छते।  अग्ने। सुष्टुतिम्- शोभनस्तुतिम्। जनामि- जनयामि॥२॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **जातवेदः** जातधन **विचर्षणे** विद्रष्टः **अग्ने** **अस्मै** **प्रतिहर्यते** प्रयच्छते **ते** तुभ्यं **सुष्टुतिं** शोभनां स्तुतिं **जनामि** आङ्गिरसोऽहं जनयामि ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने जातवेदः जातप्रज्ञ । यद्वा - जातानां भूतानां वेदितः । 'गतिकारकयोरपि' इत्यसुन् । **विचर्षणे** विविधदर्शन [विविधचर्षणे] विविध-मनुष्य, एतेषामुत्पादकत्वात् । **तस्मै ते** तादृशाय तुभ्यं 
+
+**प्रतिहर्यते** कामयमानाय वक्ष्यमाणां स्तुतिम् ।  
+यद्वा - प्रतिगन्तुम् इच्छते ।  
+यद्वा - प्रतिगृह्णते । हर्य गतौ । सुष्टुतिं शोभनां स्तुतिं जनामि जनयामि । जनेर्ण्यन्ताल्लट्, 'बहुलं संज्ञाछन्दसोः' इति णिलुक् । 
+
+**जातवेद** इत्यस्यामन्त्रितस्याप्यविद्यमानवत्त्वात् **विचर्षण** इत्येतदपि न निहन्येत् । अग्ने इत्यस्याविद्यमामत्वात् जनामीति तिङन्तं न निहन्यते । 'मन् क्तिन् व्याख्यान' इति । सुष्टुतिशब्दस्यान्तोदात्तत्वम् । अन्ये खलु दुराराधाः स्तुतिमपि न गृह्णन्ति, त्वं तु स्तुतिं च प्रतिगृह्णासि, ददासि चेप्सितानि । तस्मात् स्तुतिप्रियाय ते स्तुतिं जनयामि । त्वं च तां प्रतिगृह्य यजमानं भूतिं गमयेति भावः । 'स एवैनं भूतिं गमयति भवत्येव' `इति ब्राह्मणम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[139_9]** Ch लूकº
+
+- **[139_10]** Ch श्रवयति
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Agni**, **Jātavedas**, to you, the liberal offerer (of the oblation), the all-beholding, I repeat earnest praise.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Liberal offerer: pratiharya = to accept, desire
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+For you right here, yearning for it, o unbounded Jātavedas,  
+o Agni, I generate a lovely praise hymn.
+</details>
+
+<details><summary>Griffith</summary>
+
+Wise Agni Jatavedas, I beget a song of praise for thee.  
+     Who willingly receivest it.
+</details>
+
+<details><summary>Keith</summary>
+
+To thee, the eager one,  
+O knower of all, O active one,  
+Agni, I offer this fair praise.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For you who take pleasure in this, O active Jātavedas,  
+I produce a song of praise, O Agni!
+</details>
+
+<details><summary>Geldner</summary>
+
+Auf dich, den erwartungsvollen, ausgezeichneten Jatavedas, dichte ich ein Loblied, o Agni.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Drum dir, dem gern empfangenden, o Wesenkenner, rüstiger, O Agni, zeug' ich Lobgesang.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Для тебя, охотно (их) принимающего,  
+О Джатаведас, движущийся в разные стороны,  
+О Агни, я порождаю прекрасную хвалу.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- विरूप आङ्गिरसः
+- गायत्री
+- षड्जः
+</details>
+
+<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (नासत्या) हे असत्यरहित (अश्विना) अश्वयुक्त राजवर्ग ! (अत्रिः) रक्षारहित (विप्रः) मेधावी (यथा) जैसे (वाम्) आपको (सोमपीतये) समस्त पदार्थों की रक्षा के लिये (अजोहवीत्) बुलाते हैं, तद्वत् अन्य भी आपको बुलाया करें, जिससे (समे) समस्त (अन्यके+नभन्ताम्) शत्रु और विघ्न नष्ट होवें ॥५॥
+</details>
+
+<details><summary>शिव शंकर शर्मा - भावार्थः</summary>
+
+भावार्थभाषाः -  राजा और राज्य-कर्मचारियों को उचित है कि विद्वान्, मूर्ख, धनी, गरीब और असहाय आदि सर्व प्रकार के मनुष्यों की पूरी रक्षा करें, जिससे कोई विघ्न न रहने पावे ॥५॥
+</details>
+
+<details><summary>शिव शंकर शर्मा - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे नासत्या=नासत्यौ। अश्विना=अश्विनौ। ! अत्रिः=अत्रः= त्राणरहितः। विप्रः=मेधावी। गीर्भिः=स्ववचनैः। यथा। वां=युवाम्। सोमपीतये। अजोहवीत्=आह्वयति। तथा अन्येऽपि युवाम्। आह्वयन्तु। येन। समे। अन्यके=अन्ये। नभन्ताम्=नश्यन्तु ॥५॥
+</details>

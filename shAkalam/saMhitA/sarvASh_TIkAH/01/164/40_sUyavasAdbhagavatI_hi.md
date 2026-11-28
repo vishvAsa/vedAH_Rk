@@ -1,0 +1,336 @@
++++
+title = "040"
+devataa = "विश्वेदेवाः"
+RShiH = "दीर्घतमा औचथ्यः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - दीर्घतमा औचथ्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+सूयवसा᳓द् भ᳓गवती हि᳓ भूया᳓  
+अ᳓थो वय᳓म् भ᳓गवन्तः सियाम  
+अद्धि᳓ तृ᳓णम् अघ्निये विश्वदा᳓नीम्  
+पि᳓ब शुद्ध᳓म् उदक᳓म् आच᳓रन्ती
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+bhágavatī ← bhágavant- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+bhūyā́ḥ ← √bhū- (root)  
+{number:SG, person:2, mood:OPT, tense:AOR, voice:ACT}
+
+hí ← hí (invariable)  
+{}
+
+sūyavasā́t ← sūyavasā́d- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+átha ← átha (invariable)  
+{}
+
+bhágavantaḥ ← bhágavant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+u ← u (invariable)  
+{}
+
+vayám ← ahám (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+addhí ← √ad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+aghnye ← ághnya- (nominal stem)  
+{case:VOC, gender:F, number:SG}
+
+tŕ̥ṇam ← tŕ̥ṇa- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+viśvadā́nīm ← viśvadā́nīm (invariable)  
+{}
+
+ācárantī ← √carⁱ- (root)  
+{case:NOM, gender:F, number:SG, tense:PRS, voice:ACT}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+śuddhám ← √śudh- (root)  
+{case:NOM, gender:N, number:SG, non-finite:PPP}
+
+udakám ← udaká- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+सू॒य॒व॒साद्भग॑वती॒ हि भू॒या अथो॑ व॒यं भग॑वन्तः स्याम ।  
+अ॒द्धि तृण॑मघ्न्ये विश्व॒दानीं॒ पिब॑ शु॒द्धमु॑द॒कमा॒चर॑न्ती ॥
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+सूयवसाद् भगवती हि भूया  
+अथो वयं भगवन्तः स्याम ।  
+अद्धि तृणम् अघ्न्ये विश्वदानीं  
+पिब शुद्धम् उदकम् आचरन्ती ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒य॒व॒स॒ऽअत् । भग॑ऽवती । हि । भू॒याः । अथो॒ इति॑ । व॒यम् । भग॑ऽवन्तः । स्या॒म॒ ।  
+अ॒द्धि । तृण॑म् । अ॒घ्न्ये॒ । वि॒श्व॒ऽदानी॑म् । पिब॑ । शु॒द्धम् । उ॒द॒कम् । आ॒ऽचर॑न्ती ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- सूयवसा᳓त् (समानान्तर-पाठः (RV))
+- भ᳓गवती (*RV*-1, *AV*-6)
+- हि᳓ (*TS*-456, *RV*-662, *TB*-201, *TK*-7, *AV*-155, *SB-M*-2665, *SB-K*-2823, *VS-M*-48, *VS-K*-43, *KS*-58, *MS*-707)
+- भूयाः᳓ (*TS*-2, *RV*-4, *AV*-5, *SB-M*-4, *SB-K*-2, *VS-M*-1, *VS-K*-2, *KS*-0/5, *MS*-0/5)
+- अ᳓थो (*TS*-246, *RV*-37, *TB*-145, *TK*-16, *AV*-142, *SB-M*-360, *SB-K*-382, *VS-M*-14, *VS-K*-23, *KS*-18, *MS*-272)
+- वय᳓म् (*MW*, *TS*-88/566, *RV*-297/1308, *TB*-35/211, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-116/758, *VS-M*-67/315, *VS-K*-53/274, *KS*-18/135, *MS*-105/587)
+- भ᳓गवन्तः (*RV*-3, *AV*-4, *SB-M*-1/7, *SB-K*-2/8, *VS-M*-2)
+- स्या᳓म (*TS*-1, *RV*-23, *TB*-1, *AV*-2, *SB-M*-5, *SB-K*-5, *MS*-1)
+- अद्धि᳓ (वाक्यादिः तिङन्तम्, पा॰ ८.१.१८, *TS*-1, *RV*-4, *AV*-1, *VS-M*-1, *VS-K*-1)
+- तृ᳓णम् (*TS*-1/3, *RV*-4/5, *AV*-6/9, *SB-M*-22/42, *SB-K*-16/32, *VS-M*-1/2, *VS-K*-1/2, *KS*-1, *MS*-7/9)
+- अ᳓घ्न्ये (*RV*-0/10, *AV*-2, *MS*-0/2)
+- विश्व-दा᳓नीम् (*RV*-3, *TB*-0/1, *AV*-4, *MS*-1)
+- पि᳓ब (*TS*-2, *RV*-85, *AV*-16, *SB-M*-4, *SB-K*-4, *VS-M*-11, *VS-K*-7/9, *KS*-2, *MS*-2)
+- शुद्ध᳓म् (*TS*-0/4, *RV*-2/17, *TB*-1, *TK*-0/1, *SB-M*-3/8, *SB-K*-3/8, *VS-M*-1/2, *VS-K*-1/3, *MS*-0/6)
+- उदक᳓म् (*TS*-2, *RV*-8/9, *AV*-17/23, *SB-M*-13/22, *SB-K*-15/24, *VS-M*-0/1, *VS-K*-0/1, *MS*-3/5)
+- आ-च᳓रन्ती (*TS*-1, *RV*-4/5, *AV*-2/3, *VS-M*-1, *VS-K*-1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *sūyavasād* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *sūyavasād* ← *yavasāt* ← *yavasa*
+- \[noun\], ablative, singular, masculine
+- “eatage; pasture; fodder.”
+
+_________
+
+- *bhagavatī* ← *bhagavat*
+- \[noun\], nominative, singular, feminine
+- “honorable; divine; fortunate; holy; adorable; happy; august;
+    favored.”
+
+_________
+
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+
+_________
+
+- *bhūyā* ← *bhūyāḥ* ← *bhū*
+- \[verb\], singular, Prekativ
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+
+_________
+
+- *atho*
+- \[adverb\]
+- “now; but; furthermore.”
+
+_________
+
+- *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+
+_________
+
+- *bhagavantaḥ* ← *bhagavat*
+- \[noun\], nominative, plural, masculine
+- “honorable; divine; fortunate; holy; adorable; happy; august;
+    favored.”
+
+_________
+
+- *syāma* ← *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *addhi* ← *ad*
+- \[verb\], singular, Present imperative
+- “eat; devour.”
+
+_________
+
+- *tṛṇam* ← *tṛṇa*
+- \[noun\], accusative, singular, neuter
+- “grass; tṛṇa \[word\]; herb.”
+
+_________
+
+- *aghnye* ← *aghnyā*
+- \[noun\], vocative, singular, feminine
+- “cow.”
+
+_________
+
+- *viśvadānīm*
+- \[adverb\]
+- “always.”
+
+_________
+
+- *piba* ← *pā*
+- \[verb\], singular, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+
+_________
+
+- *śuddham* ← *śudh*
+- \[verb noun\], accusative, singular
+- “become pure; purify; wash; expiate; clean; cleanse.”
+
+_________
+
+- *udakam* ← *udaka*
+- \[noun\], accusative, singular, neuter
+- “water; Udaka; juice; body of water; solution; udaka \[word\];
+    decoction; udakaprameha; washing water; kaṣāya; tear; ablution.”
+
+_________
+
+- *ācarantī* ← *ācar* ← *√car*
+- \[verb noun\], nominative, singular
+- “perform; prowl; administer; make; frequent; treat; cause; approach;
+    heed; treat; act; produce; behave; put on; do; undertake.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सूयवसात्- शोभनयवसं खादित्वा। भगवती भूयाः- सौभाग्यवती भव। अथो- ततः। वयम्।  भगवन्तः- त्वया सौभाग्यवन्तः। स्याम- भवाम। विश्वदानीम्- सदा। तृणम्। अद्धि- भक्षय। अघ्न्ये- अहिंसार्हे। आचरन्ती- इतस्ततः सञ्चरन्ती। शुद्धम्- अदुष्टम्। उदकम्- जलम्।  पिब॥४०॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अघ्न्ये** । गोनामैतत् । अहननीये हे गौः त्वं **सूयवसात्** शोभनयवसस्य तृणादिकस्य अत्त्री सती **भगवती** । भग इति धननाम । सर्वैर्भजनीयप्रभूतक्षीरादिधनवती **भूयाः** भव । हिः पूरणः प्रसिद्धौ वा । लोके यवसादिभक्षणेन क्षीरादिसमृद्धिः प्रसिद्धा । **अथो** अनन्तरमेव **वयं** यजमाना अपि **भगवन्तः** प्रभूतेन धनेन तद्वन्तः **स्यामः** । अथ एकवारं पूर्वमुक्तमिदानीं सर्वदा कर्तव्यमिति प्रार्थयते । **विश्वदानीं** विश्वकालं सर्वदा **तृणम्** **अद्धि** भक्षय। **आचरन्ती** सर्वतो निर्गच्छन्ती **शुद्धं** निर्मलम् **उदकं** **पिब** । अयं मन्त्रो यास्केनैवं व्याख्यातः- ‘ सूयवसादिनी भगवती हि भवाथेदानीं वयं भगवन्तः स्यामाद्धि तृणमघ्न्ये सर्वदा पिब च शुद्धमुदकमाचरन्ती' (निरु. ११. ४४ ) इति ॥ ॥ २१ ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Cow, may you be rich in milk through abundant fodder; that we also may be rich (in abundance); eat grass at all seasons, and, roaming (at will), drink pure water.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Because you would become blessed, feeding upon good pasturage, so  then we would also be blessed.  
+Feed on grass always, o inviolable cow [=Speech]! Coming here, drink  pure water!
+</details>
+
+<details><summary>Griffith</summary>
+
+Fortunate mayst thou be with goodly pasture, and may we also be exceeding wealthy.  
+     Feed on the grass, O Cow, at every season, and coming hitherward drink limpid water.
+</details>
+
+<details><summary>Geldner</summary>
+
+So mögest du denn auf guter Weide grasend glücklich sein und auch wir möchten glücklich sein. Friß allezeit Gras, o Kuh, trink reines Wasser, zur Tränke kommend!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Gute Weide geniessend mögest du, o Kuh, beglückt sein; auch wir seien beglückt; friss das Gras zu allen Zeiten, trinke herwandernd das reine Wasser. [Dieser Vers gehört wol ursprünglich einem andern Liede an, und hat wol mit der vâc nichts zu thun].
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Да будешь ты счастлива, пасясь на тучном пастбище!  
+Да будем счастливы также и мы!  
+Ешь траву постоянно, о невредимая!  
+Пей чистую воду, приходя (на водопой)!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- दीर्घतमा औचथ्यः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब विदुषी स्त्री के विषय में कहा है ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (अध्न्ये) न हनने योग्य गौ के समान वर्त्तमान विदुषी ! तू (सुयवसात्) सुन्दर सुखों को भोगनेवाली (भगवती) बहुत ऐश्वर्यवती (भूयाः) हो कि (हि) जिस कारण (वयम्) हम लोग (भगवन्तः) बहुत ऐश्वर्ययुक्त (स्याम) हों। जैसे गौ (तृणम्) तृण को खा (शुद्धम्) शुद्ध (उदकम्) जल को पी और दूध देकर बछड़े आदि को सुखी करती है वैसे (विश्वदानीम्) समस्त जिसमें दान उस क्रिया का (आचरन्ती) सत्य आचरण करती हुई (अथो) इसके अनन्तर सुख को (अद्धि) भोग और विद्यारस को (पिब) पी ॥ ४० ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जबतक माताजन वेदवित् न हों तबतक उनमें सन्तान भी विद्यावान् नहीं होते हैं। जो विदुषी हो स्वयंवर विवाह कर सन्तानों को उत्पन्न कर उनको अच्छी शिक्षा देकर उन्हें विद्वान् करती हैं, वे गौओं के समान समस्त जगत् को आनन्दित करती हैं ॥ ४० ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे अध्न्ये त्वं सुयवासाद्भगवती भूया हि यतो वयं भगवन्तस्स्याम। यथा गौस्तृणं जग्ध्वा शुद्धमुदकं पीत्वा दुग्धं दत्वा वत्सादीन् सुखयति तथा विश्वदानीमाचरन्ती सत्यथो सुखमद्धि विद्यारसं पिब ॥ ४० ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथ विदुषीविषयमाह ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सुयवसात्) या शोभनानि यवसानि सुखानि अत्ति सा (भगवती) बह्वैश्वर्ययुक्ता विदुषी (हि) किल (भूयाः) (अथो) (वयम्) (भगवन्तः) बह्वैश्वर्ययुक्ताः (स्याम) भवेम (अद्धि) अशान (तृणम्) (अघ्न्ये) गौरिव वर्त्तमाने (विश्वदानीम्) विश्वं समग्रं दानं यस्यास्ताम् (पिब) (शुद्धम्) पवित्रम् (उदकम्) जलम् (आचरन्ती) सत्याचरणं कुर्वती। अयं निरुक्ते व्याख्यातः। निरु० ११। ४४ ॥ ४० ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। यावन्मातरो वेदविदो न स्युस्तावत्तदपत्यान्यपि विद्यावन्ति न भवन्ति। या विदुष्यो भूत्वा स्वयंवरं विवाहं कृत्वा सन्तानानुत्पाद्य सुशिक्ष्य विदुषः कुर्वन्ति ता गाव इव सर्वे जगदाह्लादयन्ति ॥ ४० ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जोपर्यंत माता वेद जाणत नाहीत तोपर्यंत त्यांची संतती ही विद्यायुक्त होत नाही. ज्या स्त्रिया विदूषी बनून स्वयंवर विवाह करून संतती उत्पन्न करतात व त्यांना सुशिक्षण देऊन विद्वान बनवितात त्या गाईप्रमाणे संपूर्ण जगाला आनंदित करतात. ॥ ४० ॥
+</details>

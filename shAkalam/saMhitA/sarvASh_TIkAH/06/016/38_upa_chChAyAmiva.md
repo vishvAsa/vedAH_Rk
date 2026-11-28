@@ -1,0 +1,275 @@
++++
+title = "038"
+devataa = "अग्निः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "गायत्री"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - भरद्वाजो बार्हस्पत्यः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+उ᳓प छाया᳓म् इव घृ᳓णेर्  
+अ᳓गन्म श᳓र्म ते वय᳓म्  
+अ᳓ग्ने हि᳓रण्यसंदृशः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+_________
+**Morph**  
+chāyā́m ← chāyā́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+ghŕ̥ṇeḥ ← ghŕ̥ṇi- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+úpa ← úpa (invariable)  
+{}
+
+áganma ← √gam- (root)  
+{number:PL, person:1, mood:IND, tense:AOR, voice:ACT}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+híraṇyasaṁdr̥śaḥ ← híraṇyasaṁdr̥ś- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+उप॑ च्छा॒यामि॑व॒ घृणे॒रग॑न्म॒ शर्म॑ ते व॒यम् ।  
+अग्ने॒ हिर॑ण्यसन्दृशः ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+उ᳓प छाया᳓मिव घृ᳓णेर᳓गन्म श᳓र्म ते वय᳓म्।  
+अ᳓ग्ने हि᳓रण्यसन्दृशः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उप॑ । छा॒याम्ऽइ॑व । घृणेः॑ । अग॑न्म । शर्म॑ । ते॒ । व॒यम् ।  
+अग्ने॑ । हिर॑ण्यऽसन्दृशः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- उ᳓प (*MS*-488, *TS*-723, *RV*-487, *TB*-218, *TK*-39, *AV*-247, *SB-M*-1430, *SB-K*-1332, *VS-M*-68, *VS-K*-60)
+- छाया᳓मिव (*RV*-1, *AV*-1)
+- घृ᳓णेः (*MS*-1/2, *TS*-0/1, *RV*-1, *TB*-1, *TK*-0/1, *AV*-0/1, *SB-M*-0/3, *SB-K*-0/4, *VS-M*-0/1, *VS-K*-0/1)
+- अ᳓गन्म (*MS*-6, *TS*-4, *RV*-10, *TB*-3, *TK*-1, *AV*-5, *SB-M*-7, *SB-K*-9, *VS-M*-7, *VS-K*-5)
+- श᳓र्म (*MS*-35/37, *TS*-39/41, *RV*-93/111, *TB*-12/13, *AV*-44/46, *SB-M*-20/21, *SB-K*-20/21, *VS-M*-13/23, *VS-K*-10/19)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- वय᳓म् (*MS*-120/641, *TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- हि᳓रण्य-सन्दृशः (*MS*-1, *RV*-2, *TB*-1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *upa*
+- \[adverb\]
+- “towards; on; next.”
+
+_________
+
+- *cchāyām* ← *chāyām* ← *chāyā*
+- \[noun\], accusative, singular, feminine
+- “color; shadow; chāyā \[word\]; complexion; reflection; shade.”
+
+_________
+
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *ghṛṇer* ← *ghṛṇeḥ* ← *ghṛṇi*
+- \[noun\], ablative, singular, masculine
+- “sunbeam.”
+
+_________
+
+- *aganma* ← *gam*
+- \[verb\], plural, Root aorist (Ind.)
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+
+_________
+
+- *śarma* ← *śarman*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+
+_________
+
+- *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+
+_________
+
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *hiraṇyasaṃdṛśaḥ* ← *hiraṇya*
+- \[noun\], neuter
+- “gold; jewelry; hiraṇya \[word\]; gold.”
+
+_________
+
+- *hiraṇyasaṃdṛśaḥ* ← *saṃdṛśaḥ* ← *saṃdṛśa*
+- \[noun\], nominative, singular, masculine
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने- पावक सत्क्रतो। हिरण्यसंदृशः घृणेः- भासमानस्य। ते- तव। शर्म- आश्रयम्। वयम्।  उपच्छायामिव- घर्मार्ताश्छायामिव। अगन्म- प्रपन्नाः॥३८॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** **हिरण्यसंदृशः** हितरमणीयतेजसो हिरण्यवद्रोचमानतेजसो वा **घृणेः** दीप्तस्य **ते** तव **शर्म** शरणमाश्रयणम् **उप** **अगन्म** उपगच्छाम । तत्र दृष्टान्तः । **छायामिव** । यथा घर्मार्ताः संतप्ताश्छायामुपगच्छन्ति तद्वत् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[613_5]** Ch गृणेर॰ ; vgl. RV 6, 16, 38. (Ch गृणेर॰; cf. RV 6, 16, 38.)
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“We have recourse, **Agni**, to the shelter of you, the lustrous, the golden-feathered, as to the shade (of a tree).”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Toward your shelter we have come, as if into shadow from the  
+(sun’s) heat,  
+o Agni of golden appearance—794 VI.17
+</details>
+
+<details><summary>Griffith</summary>
+
+To thee for shelter are we come, as to the shade from fervent heat  
+     Agni, who glitterest like gold.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+As unto shade from scorching heat, we have approached your shelter,  
+O Agni, of golden appearance!
+</details>
+
+<details><summary>Geldner</summary>
+
+Wie aus der Sonneglut in den Schatten, so haben wir uns in deinen Schutz begeben, o Agni, der du wie Gold anzuschauen;
+</details>
+
+<details><summary>Grassmann</summary>
+
+Wir kamen, wie vor Sonnenglut in Schatten, unter deinen Schirm, O Agni, der wie Gold du strahlst.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Как в тень от солнечного зноя,  
+Пришли мы под твою защиту,  
+О Агни с золотистым обликом.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भरद्वाजो बार्हस्पत्यः
+- गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर मनुष्यों को क्या प्राप्त करने योग्य है, इस विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (अग्ने) विद्वन् ! (ते) आपके (घृणेः) प्रदीप्त सूर्य्य से (छायामिव) छाया को जैसे वैसे (शर्म) गृह को (हिरण्यसन्दृशः) तेज के सदृश समान दर्शन जिनका ऐसे (वयम्) हम लोग (उप) समीप (अगन्म) प्राप्त होवें ॥३८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमालङ्कार है। हे विद्वन् ! हम लोग सब ऋतुओं में हुए सूर्य्य को जैसे वैसे प्रकाशमान आपके गृह को प्राप्त होकर छाया के सदृश सेवन करें ॥३८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे अग्ने ! ते तव घृणेश्छायामिव शर्म हिरण्यसन्दृशो वयमुपाऽगन्म ॥३८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनर्मनुष्यैः किं प्राप्तव्यमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (उप) (छायामिव) (घृणेः) प्रदीप्तात्सूर्य्यात् (अगन्म) प्राप्नुयाम (शर्म) गृहम् (ते) तव (वयम्) (अग्ने) विद्वन् (हिरण्यसन्दृशः) हिरण्यं तेज इव सन्दृक् समानं दर्शनं येषान्ते ॥३८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्रोपमालङ्कारः। हे विद्वन् ! वयं सर्वर्त्तुकं सूर्य्यमिव प्रकाशमानं तव गृहं प्राप्य छायामिव सेवेमहि ॥३८॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात उपमालंकार आहे. हे विद्वाना! आम्ही सर्व ऋतूत प्रकाशमान असलेल्या सूर्याच्या तुझे घर सावलीप्रमाणे समजावे. ॥ ३८ ॥
+</details>

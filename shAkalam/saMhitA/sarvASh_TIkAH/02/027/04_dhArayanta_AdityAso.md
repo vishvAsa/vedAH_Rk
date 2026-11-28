@@ -1,0 +1,353 @@
++++
+title = "004"
+devataa = "आदित्याः"
+RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - आदित्याः
+- ऋषिः - कूर्मो गार्त्समदो गृत्समदो वा
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+धार᳓यन्त आदित्या᳓सो ज᳓गत् स्था᳓  
+देवा᳓ वि᳓श्वस्य भु᳓वनस्य गोपाः᳓  
+दीर्घा᳓धियो र᳓क्षमाणा असुर्य᳙म्  
+ऋता᳓वानश् च᳓यमाना ऋणा᳓नि
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+ādityā́saḥ ← ādityá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+dhāráyantaḥ ← √dhr̥- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:ACT}
+
+jágat ← jágat- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+sthā́ḥ ← sthā́- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+bhúvanasya ← bhúvana- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devā́ḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+gopā́ḥ ← gopā́- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+víśvasya ← víśva- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+asuryàm ← asuryà- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+dīrghā́dhiyaḥ ← dīrghā́dhī- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+rákṣamāṇāḥ ← √rakṣⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+cáyamānāḥ ← √ci- 2 (root)  
+{case:NOM, gender:M, number:PL, tense:PRS, voice:MED}
+
+r̥ṇā́ni ← r̥ṇá- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+r̥tā́vānaḥ ← ŕ̥tāvan- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+धा॒रय॑न्त आदि॒त्यासो॒ जग॒त्स्था दे॒वा विश्व॑स्य॒ भुव॑नस्य गो॒पाः ।  
+दी॒र्घाधि॑यो॒ रक्ष॑माणा असु॒र्य॑मृ॒तावा॑न॒श्चय॑माना ऋ॒णानि॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+धा॒रय॑न्त आदि॒त्यासो॒ जग॒त्स्था दे॒वा विश्व॑स्य॒ भुव॑नस्य गो॒पाः ।   
+दी॒र्घाधि॑यो॒ रक्ष॑माणाः (63) अ॒सु॒र्य॑मृ॒तावा॑न॒श्चय॑माना ऋ॒णानि॑ ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+धार᳓यन्त आदित्या᳓सो ज᳓गत्स्था᳓ देवा᳓ वि᳓श्वस्य भु᳓वनस्य गोपाः᳓।  
+दीर्घा᳓धियो र᳓क्षमाणा असुर्यृमृता᳓वानश्च᳓यमाना ऋृणा᳓नि
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धा॒रय॑न्तः । आ॒दि॒त्यासः॑ । जग॑त् । स्थाः । दे॒वाः । विश्व॑स्य । भुव॑नस्य । गो॒पाः ।  
+दी॒र्घऽधि॑यः । रक्ष॑माणाः । अ॒सु॒र्य॑म् । ऋ॒तऽवा॑नः । चय॑मानाः । ऋ॒णानि॑ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+धा॒रय॑न्तः । आ॒दि॒त्यासः॑ । जग॑त् । स्थाः । दे॒वाः । विश्व॑स्य । भुव॑नस्य । गो॒पा इति॑ गो-पाः ॥ दी॒र्घाधि॑य॒ इति॑ दी॒र्घ-धि॒यः॒ । रक्ष॑माणाः । अ॒सु॒र्य॑म् । ऋ॒तावा॑न॒ इत्यृ॒त-वा॒नः॒ । चय॑मानाः । ऋ॒णानि॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- धार᳓यन्तः (*MS*-3/4, *TS*-1, *RV*-1/4, *TB*-2, *AV*-0/3, *SB-M*-4/5)
+- आदित्या᳓सः (*MS*-1/229, *TS*-1/195, *RV*-13/91, *TB*-3/131, *TK*-0/21, *AV*-0/71, *SB-M*-0/445, *SB-K*-0/438, *VS-M*-0/44, *VS-K*-0/58)
+- ज᳓गत् (*MS*-6/24, *TS*-6/16, *RV*-16/40, *TB*-1/6, *TK*-0/1, *AV*-7/20, *SB-M*-6/9, *SB-K*-5/12, *VS-M*-7/14, *VS-K*-5/15)
+- स्था᳓ (*MS*-1, *TS*-1, *RV*-7, *VS-K*-1)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- वि᳓श्वस्य (*MS*-19/301, *TS*-15/283, *RV*-67/1116, *TB*-5/125, *TK*-43/124, *AV*-23/353, *SB-M*-12/248, *SB-K*-12/219, *VS-M*-18/225, *VS-K*-20/224)
+- भु᳓वनस्य (*MS*-21/53, *TS*-16/39, *RV*-41/144, *TB*-13/32, *TK*-4/6, *AV*-20/65, *SB-M*-9/30, *SB-K*-10/26, *VS-M*-11/42, *VS-K*-10/41)
+- गो-पाः᳓ (*MS*-11/17, *TS*-13/21, *RV*-43/61, *TB*-2/5, *TK*-4, *AV*-11/17, *SB-M*-2/5, *SB-K*-1/6, *VS-M*-5/8, *VS-K*-4/8)
+- दीर्घ᳓-धियः (*TS*-1, *RV*-1, *MS*-1)
+- र᳓क्षमाणाः (*TS*-2, *RV*-4/8, *AV*-3, *VS-M*-0/1, *VS-K*-0/1, *MS*-1)
+- असुर्य᳙म् (*MS*-6, *TS*-3, *RV*-12, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-K*-1)
+- ऋत᳓-वानः (*MS*-1/9, *TS*-1/11, *RV*-11/50, *TB*-0/1, *TK*-0/1, *AV*-0/2, *SB-K*-0/2, *VS-M*-0/2, *VS-K*-0/3)
+- च᳓यमानाः (*MS*-1, *TS*-1, *RV*-1)
+- ऋृणा᳓नि (मूल-पाठः)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *dhārayanta* ← *dhārayantaḥ* ← *dhāray* ← *√dhṛ*
+- \[verb noun\], nominative, plural
+- “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
+    preserve; remember; stow; stop; have; fill into; endure; support;
+    understand; fixate; govern; restrain.”
+
+_________
+
+- *ādityāso* ← *ādityāsaḥ* ← *āditya*
+- \[noun\], nominative, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+
+_________
+
+- *jagat*
+- \[noun\], accusative, singular, neuter
+- “movable; Jagatī; moving.”
+
+_________
+
+- *sthā*
+- \[noun\], accusative, singular, neuter
+
+_________
+
+- *devā* ← *devāḥ* ← *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *viśvasya* ← *viśva*
+- \[noun\], genitive, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *bhuvanasya* ← *bhuvana*
+- \[noun\], genitive, singular, neuter
+- “Earth; being; world; bhuvana \[word\].”
+
+_________
+
+- *gopāḥ* ← *gopā*
+- \[noun\], nominative, plural, masculine
+- “herder; defender.”
+
+_________
+
+- *dīrghādhiyo* ← *dīrgha*
+- \[noun\]
+- “long; long; long; large; far; deep; dīrgha \[word\].”
+
+_________
+
+- *dīrghādhiyo* ← *ādhiyaḥ* ← *ādhī*
+- \[noun\], nominative, plural, masculine
+- “longing.”
+
+_________
+
+- *rakṣamāṇā* ← *rakṣamāṇāḥ* ← *rakṣ*
+- \[verb noun\], nominative, plural
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+
+_________
+
+- *asuryam* ← *asurya*
+- \[noun\], accusative, singular, neuter
+- “dignity.”
+
+_________
+
+- *ṛtāvānaś* ← *ṛtāvānaḥ* ← *ṛtāvan*
+- \[noun\], nominative, plural, masculine
+- “law-abiding; faithful; righteous.”
+
+_________
+
+- *cayamānā* ← *cayamānāḥ* ← *ci*
+- \[verb noun\], nominative, plural
+- “cover; accumulate; pile up; pick; cover.”
+
+_________
+
+- *ṛṇāni* ← *ṛṇa*
+- \[noun\], accusative, plural, neuter
+- “debt; debt; ṛṇa \[word\].”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+आदित्यासः- अखण्डप्रकृतिजाः। जगत्- विश्वम्। धारयन्तः। स्थाः- भवथ। देवाः-  द्योतनशीलाः। विश्वस्य- सर्वस्य। भुवनस्य- जगतः। गोपाः- रक्षकाः। दीर्घधियः-  दीर्घधारणावन्तः। असुर्यं- प्राणम्। रक्षमाणाः- पालयन्तः। ऋणानि- देवर्णानि मनुष्यरचितयज्ञेन।  चयमानाः- नाशयन्तः। ऋतवानाः- प्रकृतिनियतिभूतसत्यरक्षका भवन्ति॥४॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+जगज्जङ्गमं स्थाः स्थावरञ्च तिष्ठतेःकर्तर्यसुन् एतदुभयविधम्भूतजातं धारयन्तः अवस्थापयन्तः देवाः दानादिगुणयुक्ताः विश्वस्यभूवनस्यसर्वस्यलोकस्यगोपाः गोपयितारोरक्षकाः दीर्घाधियः दीर्घा णिधियःकर्माणिज्ञानानिवायेषान्तादृशाः अन्येषामपिदृश्यतइतिपूर्वपदस्यदीर्घः असुर्यं असवःप्राणाः तेनचतद्धेतुभूताः आपोलक्ष्यन्ते अपान्तद्धेतुत्वञ्च छान्दोग्र्येस्पष्टमाम्नातम्—आपामयःप्राणइति असुमु- दकंरातिददातीत्यसुरोमेघः तत्रभवं मेघान्तर्वर्तमानमुदकंरक्षमाणाः तत्तत्कालेवृष्ट्युत्पादनायरक्षन्तः असुरशब्दाद्भवेछन्दसीतियत् ऋतावानः सत्यवन्तो यज्ञवन्तोवा छन्दसीवनिपावितिमत्वर्थीयो- वनिप् पूर्ववद्दीर्घः ऋणानिस्तोतृभिः अन्येभ्यः प्रदेयानिहविर्द्रव्याणिचयमानाः अपगमयन्तः चय- गतौ भौवादिकोनुदात्तेत् एवङ्गुणविशिष्टामहानुभावाः आदित्यासः आदित्याः अस्मदधीनाभवन्त्वि तिशेषः ॥ ४ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+जगद्धारयन्तस्स्थापयन्तः आदित्यासः आदित्याः स्थाः स्थास्नवः 'क्विप्च' इति क्विप् । देवाः देवनशीलाः विश्वस्य भुवनस्य भूतजातस्य गोपाः पोषकाः दीर्घाधियः दीर्घाण्यविच्छिन्नानि धियः कर्माणि उदयास्तमयलक्षणानि बुद्धयो वा येषान्ते दीर्घाधियः । छान्दसं पूर्वपदस्य दीर्घत्वम् । असुर्यं असुरमर्हतीति । 'छन्दसि च' इति यः । असुस्थानीयमुदकं ददातीत्यसुरो मेघः । तेन धार्यमुदकं रक्षमाणा रक्षन्तः ऋतावानस्सत्यवन्तः यज्ञवन्तो वा । पूर्ववद्वनिप्, दीर्घत्वं च, चयमानाः चाययन्तः गमयन्तः । चय गतौ, अनुदात्तेत् भौवादिकः । ऋणानि दिव्यानि मानुषाणि ; वृष्ट्या हि सस्योत्पत्तौ यजमानस्य सर्वाणि ऋणान्यपाक्रियन्ते इति । क्रियापदाभावाद्योग्यं पदमध्याह्रियते । ईदृशा आदित्या इमं यजमानमनपरुद्धं कुर्वन्त्विति ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[159_10]** Mit धार᳓यन्त beginnt wieder ein Stück in den Rcakas W1, T1, T3, Brl fol. 33; mit diesen Mss. collat. und nach ihnen accentuirt. (With धार᳓यन्त a portion begins again in the Rcakas W1, T1, T3, Brl fol. 33; collated with these mss. and accented after them.)
+
+- **[159_11]** W1 गोपः Ch
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The divine **Ādityas** are the upholders (of all things), moveable or immoveable; the protectors of the universe; the provident in acts; the collectors of rain; the possessors of veracity; the acquitters of our debts.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+The collectors of rain: asuryam rakṣamāṇāḥ: **asurā** = a cloud; from asu = water, as the same with life;
+
+Ra = what yields; hence, asuryam is the water of the cloud, or rain, which the Ādityas keep collected until the season of its full tat tat kāle vṛṣṭyutpādanāya rakṣanti; the acquitter of our debts: the debts are literally so; those which are to be paid by the worshippers to other person ns; ṛṇan stotṛbhiranyebhyaḥ pradeyāni
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+The Ādityas sustain what moves and what stands still—(these) gods, the  herdsmen of the whole living world,  
+they of far-reaching care, guarding their lordship, possessing the truth,  and collecting debts.
+</details>
+
+<details><summary>Griffith</summary>
+
+Upholding that which moves and that which moves not, Adityas, Gods, protectors of all being,  
+     Provident, guarding well the world of spirits, true to eternal Law, the debt-exactors.
+</details>
+
+<details><summary>Keith</summary>
+
+Ye Adityas support the world, Gods, guardians of all the universe, Far-seeing, guarding [4] the holy, Righteous, enacting debts.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+[The text has:] “yajño devānām…”  
+The Ādityas maintain the moving and the standing [world], gods, guardians of the whole realm of being,  
+far-sighted, guarding asura-power, true to cosmic order, requiting debts.
+</details>
+
+<details><summary>Macdonell</summary>
+
+The Ādityas support what's fixed and moving; These gods are guardians of the whole creation: Far-sighted, cherishing their spirit-power, Observing holy law and guilt chastising.
+</details>
+
+<details><summary>Geldner</summary>
+
+Die Aditya´s, die erhalten was geht und steht, die Götter sind die Hüter der ganzen Welt, weitdenkend, ihre Asurawürde wahrend, das Recht schützend, Buße fordernd.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Was geht und steht, erhalten die Aditja's, des ganzen Weltalls himmlische Behüter, Die weiten Blicks die Geisterwelt bewachen, gerechten Sinnes jede Schuld bestrafen.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Адитьи поддерживают (все) движущееся (и) неподвижное.  
+(Они -) боги, пастухи всего мироздания,  
+С далеко простирающейся мыслью, охраняющие мир асуров,  
+Соблюдающие (вселенский) закон, наказывающие за вину.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आदित्याः
+- कूर्मो गार्त्समदो गृत्समदो वा
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहा है।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो जो (जगत्) चर और (स्थाः) अचर को (धारयन्तः) धारण करते हुए (विश्वस्य) सब (भुवनस्य) निवास के आधार स्थावर और प्राणिमात्र जंगम जगत् के (गोपाः) रक्षक (दीर्घाधियः) बड़ी बुद्धिवाले (असुर्यम्) मूर्खों के धन की (रक्षमाणाः) रक्षा करते हुए (तावानः) सत्य के सेवी (णानि) दूसरों को देने योग्य विद्वानों को (चयमानाः) बढ़ाते हुए (आदित्यासः) पूर्ण विद्यावाले (देवाः) सूर्यादि के तुल्य तेजस्वी विद्वान् लोग बुद्धि से भीतर देखते हैं, वे अध्यापक होने योग्य हैं ॥४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में (अन्तः,पश्यन्ति) इन दो पदों की अनुवृत्ति पूर्व मन्त्र से आती है। यदि विद्वान् पढ़नेवाले विद्यार्थियों को विद्या न देवें तो वे णी हो जावें, यही ण चुकाना है जो स्वयं पढ़ कर दूसरों को पढ़ाना चाहिये ॥४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्या ये जगत्स्था धारयन्तो विश्वस्य भुवनस्य गोपा दीर्घाधियोऽसुर्यं रक्षमाणा तावान णानि चयमाना आदित्यासो देवा अन्तः पश्यन्ति तेऽध्यापका भवितुमर्हन्ति ॥४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (धारयन्तः) (आदित्यासः) पूर्णविद्याः (जगत्) जङ्गमम् (स्थाः) स्थावरम् (देवाः) सूर्य्यादय इव विद्वांसः (विश्वस्य) (भुवनस्य) निवासाधिकरणस्य स्थावरस्य जगतः प्राणिसमुदायस्य च (गोपाः) रक्षकाः (दीर्घाधियः) दीर्घा बृहती धीर्येषान्ते। अत्राऽन्येषामपीति पूर्वपदस्य दीर्घः (रक्षमाणाः) (असुर्यम्) असुराणामविदुषां स्वं धनम् (तावानः) य तानि सत्यानि वनन्ति सम्भजन्ति ते (चयमानाः) वर्द्धमानाः (णानि) अन्येभ्यो देयानि विज्ञानानि ॥४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र पूर्वस्मान्मन्त्रात् (अन्तःपश्यन्ति) इति पदद्वयमनुवर्त्तते। यदि विद्याध्यापका जिज्ञासुभ्यो विद्या न प्रदद्युस्तर्हि ते णिनः स्युरिदमेव णसमापनं यदधीत्याऽन्येभ्योऽध्यापनं कार्यमिति ॥४॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात (अन्तः, पश्यन्ति) या दोन पदांची अनुवृत्ती पूर्व मंत्राने झालेली आहे. जर विद्वानांनी शिकणाऱ्या विद्यार्थ्यांना विद्या दिली नाही, तर त्यांच्यावर ऋण राहते. या ऋणाची फेड करावयाची असेल तर इतरांना शिकविले पाहिजे. ॥ ४ ॥
+</details>

@@ -1,0 +1,377 @@
++++
+title = "003"
+devataa = "पूषा"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पूषा
+- ऋषिः - भरद्वाजो बार्हस्पत्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+या᳓स् ते पूषन् ना᳓वो अन्तः᳓ समुद्रे᳓  
+हिरण्य᳓यीर् अन्त᳓रिक्षे च᳓रन्ति  
+ता᳓भिर् यासि दूतियां᳓ सू᳓रियस्य  
+का᳓मेन कृत श्र᳓व इछ᳓मानः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+antár ← antár (invariable)  
+{}
+
+nā́vaḥ ← naú- ~ nā́v- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+pūṣan ← pūṣán- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yā́ḥ ← yá- (pronoun)  
+{case:NOM, gender:F, number:PL}
+
+antárikṣe ← antárikṣa- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+cáranti ← √carⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+hiraṇyáyīḥ ← hiraṇyáya- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+dūtyā́m ← dūtī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sū́ryasya ← sū́rya- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+tā́bhiḥ ← sá- ~ tá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+yāsi ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+ichámānaḥ ← √iṣ- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+kā́mena ← kā́ma- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+kr̥ta ← √kr̥- (root)  
+{case:VOC, gender:M, number:SG, non-finite:PPP}
+
+śrávaḥ ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+यास्ते॑ पूष॒न्नावो॑ अ॒न्तः स॑मु॒द्रे हि॑र॒ण्ययी॑र॒न्तरि॑क्षे॒ चर॑न्ति ।  
+ताभि॑र्यासि दू॒त्यां सूर्य॑स्य॒ कामे॑न कृत॒ श्रव॑ इ॒च्छमा॑नः ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+यास्ते॑ पूष॒न्ना वो॑ अ॒न्तस्स॑मु॒द्रे ।  
+हि॒र॒ण्ययी॑र॒न्तरि॑क्षे॒ चर॑न्ति ।  
+याभि॑र्यासि दू॒त्याँ सूर्य॑स्य ।  
+कामे॑न कृ॒तश्रव॑ इ॒च्छमा॑नः ॥22॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+या᳓स् ते पूषन् ना᳓वो अन्तः᳓ समुद्रे᳓ हिरण्य᳓यीर् अन्त᳓रिक्षे च᳓रन्ति  
+ता᳓भिर् यासि दूत्यँ᳙ सू᳓र्यस्य का᳓मेन कृतः᳓ श्र᳓व इछ᳓मानः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+याः । ते॒ । पू॒ष॒न् । नावः॑ । अ॒न्तरिति॑ । स॒मु॒द्रे । हि॒र॒ण्ययीः॑ । अ॒न्तरि॑क्षे । चर॑न्ति ।  
+ताभिः॑ । या॒सि॒ । दू॒त्याम् । सूर्य॑स्य । कामे॑न । कृ॒त॒ । श्रवः॑ । इ॒च्छमा॑नः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- याः᳓ (*TS*-85/3383, *RV*-87/4011, *TB*-24/1735, *TK*-12/227, *AV*-133/3120, *SB-M*-237/8327, *SB-K*-240/8438, *VS-M*-31/639, *VS-K*-31/581, *KS*-39/818)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-390, *VS-K*-293, *KS*-298)
+- पूषन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-2, *RV*-24, *TB*-1, *AV*-4, *SB-K*-1, *VS-K*-1, *KS*-1)
+- ना᳓वः (*TS*-1/5, *RV*-4/20, *AV*-1/10, *SB-M*-1/7, *SB-K*-2/9, *VS-M*-1/2, *VS-K*-1/2, *KS*-0/2)
+- अन्तः᳓ (*TS*-81/87, *RV*-154, *TB*-13/16, *TK*-26, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-44, *VS-K*-35/42, *KS*-26)
+- समुद्रे᳓ (*TS*-7/51, *RV*-29/131, *TB*-1/22, *TK*-1/3, *AV*-10/66, *SB-M*-7/71, *SB-K*-8/74, *VS-M*-7/35, *VS-K*-6/33, *KS*-2/14)
+- हिरण्य᳓यीः (*TS*-0/2, *RV*-4/12, *TB*-2, *AV*-3/8, *SB-M*-0/5, *SB-K*-0/2, *VS-M*-1/4, *VS-K*-1/3)
+- अन्त᳓रिक्षे (*TS*-28/180, *RV*-23/94, *TB*-9/54, *TK*-2/10, *AV*-28/143, *SB-M*-37/263, *SB-K*-37/257, *VS-M*-17/76, *VS-K*-15/64, *KS*-10/57)
+- च᳓रन्ति (*TS*-1/4, *RV*-13/29, *TB*-2/4, *AV*-8/20, *SB-M*-36/47, *SB-K*-35/42, *VS-M*-0/1, *VS-K*-0/2, *KS*-4)
+- ता᳓भिः (*TS*-52/4763, *RV*-51/3136, *TB*-12/2709, *TK*-1/363, *AV*-16/3165, *SB-M*-71/20457, *SB-K*-62/20018, *VS-M*-5/768, *VS-K*-5/624, *KS*-16/1225)
+- यासि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-16, *TB*-1, *TK*-1, *AV*-3, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2, *KS*-3)
+- दूत्य᳙म् (*RV*-12, *TB*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *KS*-1)
+- सू᳓र्यस्य (*TS*-26/109, *RV*-84/337, *TB*-12/75, *TK*-0/8, *AV*-22/173, *SB-M*-34/152, *SB-K*-32/151, *VS-M*-8/36, *VS-K*-12/44, *KS*-6/52)
+- का᳓मेन (*TS*-5/60, *RV*-4/75, *TB*-12/60, *TK*-7/43, *AV*-9/64, *SB-M*-3/327, *SB-K*-5/349, *VS-M*-1/20, *VS-K*-1/18, *KS*-3/41)
+- कृतः᳓ (*TS*-2/12, *RV*-9/77, *TB*-0/7, *AV*-6/43, *SB-M*-2/34, *SB-K*-5/41, *VS-M*-2/13, *VS-K*-1/9, *KS*-0/4)
+- श्र᳓वः (*TS*-6/9, *RV*-87/145, *TB*-3/4, *AV*-11/12, *SB-M*-3/5, *SB-K*-3/5, *VS-M*-5/8, *VS-K*-4/7, *KS*-3/4)
+- इछ᳓ (*SB-M*-1)
+- मानः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TB*-1, *VS-K*-1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *yās* ← *yāḥ* ← *yad*
+- \[noun\], nominative, plural, feminine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+
+_________
+
+- *pūṣan*
+- \[noun\], vocative, singular, masculine
+- “Pushan; pūṣan \[word\]; sun.”
+
+_________
+
+- *nāvo* ← *nāvaḥ* ← *nau*
+- \[noun\], nominative, plural, feminine
+- “ship; boat; nau \[word\].”
+
+_________
+
+- *antaḥ* ← *antar*
+- \[adverb\]
+- “inside; in; antar \[word\]; midmost; between; among.”
+
+_________
+
+- *samudre* ← *samudra*
+- \[noun\], locative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+
+_________
+
+- *hiraṇyayīr* ← *hiraṇyayīḥ* ← *hiraṇyaya*
+- \[noun\], nominative, plural, feminine
+- “gold; aureate; hiraṇyaya \[word\].”
+
+_________
+
+- *antarikṣe* ← *antarikṣa*
+- \[noun\], locative, singular, neuter
+- “sky; atmosphere; air; abhra.”
+
+_________
+
+- *caranti* ← *car*
+- \[verb\], plural, Present indikative
+- “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
+    observe; enter (a state); observe; cause; crop; behave; practice;
+    heed; process; administer.”
+
+_________
+
+- *tābhir* ← *tābhiḥ* ← *tad*
+- \[noun\], instrumental, plural, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *yāsi* ← *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+
+_________
+
+- *dūtyāṃ* ← *dūtyām* ← *dūtī*
+- \[noun\], locative, singular, feminine
+- “daśadūtī.”
+
+_________
+
+- *sūryasya* ← *sūrya*
+- \[noun\], genitive, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+
+_________
+
+- *kāmena* ← *kāma*
+- \[noun\], instrumental, singular, masculine
+- “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
+    love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
+    kāma \[word\]; sexual intercourse; thorn apple; wish.”
+
+_________
+
+- *kṛta* ← *kṛ*
+- \[verb noun\], vocative, singular
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+
+_________
+
+- *śrava* ← *śravaḥ* ← *śravas*
+- \[noun\], accusative, singular, neuter
+- “fame; glory; ear.”
+
+_________
+
+- *icchamānaḥ* ← *iṣ*
+- \[verb noun\], nominative, singular
+- “desire; recommend; approve; seek; call; search; try; prefer; love;
+    commend; assent; permit; choose.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+कामेन कृत- यजमानस्य इच्छया दौत्ये स्थापित। अथवा सत्सङ्कल्पभूत। कामेनैव सङ्कल्पः कृतः।  पूषन्- पोषक सूर्य। श्रवः- श्रुतिम्। इच्छमानः- कामयन्। याः। ते- तव। नावः- नौकाः।  हिरण्ययीः- दीप्ताः। अन्तः समुद्रे। अन्तरिक्षे चरन्ति। आध्यात्मिके तु चित्तसमुद्रे प्राणमयकोशे २    वा चरन्ति। ताभिः। सूर्यस्य- स्वस्वरूपस्य सवितुः। दूत्याम्। यासि- गच्छसि। आध्यात्मिके  सूर्य आत्मा लक्ष्यभूतः। स एवात्मप्रापकमार्गे मार्गबन्धुः पोषकः पूषेति कथ्यते॥३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **पूषन्** **ते** त्वदीयाः **याः** **हिरण्ययीः** हिरण्मय्यो हितरमणीयाः **नावः** **समुद्रे** उदधौ **अन्तः** मध्ये **अन्तरिक्षे** नभसि **चरन्ति** संचरन्ति **ताभिः** नौभिः **सूर्यस्य** **दूत्यां** **यासि** गच्छसि । कदाचित् देवैः सार्धं सूर्येऽसुरवधार्थं प्रस्थिते सति तस्य भार्या स्वभर्तरि संजातौत्सुक्या बभूव तां प्रति सूर्यः पूषणं प्राहैषीत् तेन चात्र पूषा स्तूयते । अपि च त्वं **श्रवः** हविर्लक्षणमन्नम् **इच्छमानः** इच्छन् **कामेन** पश्वादिविषयेण स्तोतृभिः **कृतः** वशीकृतोऽसि ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे पूषन्समुद्रे समुद्रवद्विस्तीर्णेऽन्तरिक्षे अन्तः मध्ये हिरण्ययीः सुवर्णवर्णाः ते तव संबन्धिन्यो नावो नौसमाना दीप्तयो याश्चरन्ति ॥ याभिश्च रश्मिभिस्त्वं सूर्यस्य दूत्यां यासि दूतत्वं प्राप्नोषि ॥ सूर्यो हि स्वर्भानुसंज्ञकेनासुरेण तमसाऽऽवृतस्सन् दुःखितायाः सूर्यायाः समीपे पूषणं रश्मियुक्तं दूतत्वेन प्रेषितवान् ॥ तदिदमाख्यानं शाखान्तरे द्रष्टव्यम् ॥ तथा च सूक्तेऽप्याम्नायते - 'तं देवासो अददुस्सूर्यायै' इति ॥ स त्वं ताभिर्दीप्तिभिर्युक्तस्तत् श्रव इच्छमानः कीर्तिमाकांक्षन् कामेन कृतः स्वेच्छयैव दूतकर्मणि प्रेरितः ॥ एतदुभयं पौष्णे कर्मणि द्रष्टव्यम् ॥ सूक्तेऽप्येकस्य प्रतीकमाम्नातम् - 'यास्ते पूषन्नावो अन्तः'24 इति ॥॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“With thos your golden vessels, which navigate within the ocean-firmament, you discharge the office of messenger of the sun; desirous of the sacrificial food, you are propitiated by (that which is) willingly offered.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Messenger of the sun: yāsi dūtyām sūryasya: a legend is related; on one occasion, when **Sūrya**, with the gods, had set out to fight the **asuras**, he sent **Pūṣan** to his abode to console his wife, who was greatly afflicted by his going to the wars; for which office Pūṣan is here commended
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+The ships of yours that are in the sea, the golden ones that wander in the  midspace,  
+with these you travel on a mission of the Sun, o you prompted by desire,  as you seek fame.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Pūṣan’s ships (nā́vaḥ) are, to my knowledge, not encountered elsewhere.
+
+But, as noted above vs. 1, I would tentatively connect them and the mission of the Sun (dūtyā́m sūryasya) with his role as psychopomp of the dead. One question is whether there are two sets of ships -- those in the sea and those in the midspace -- or one, with the midspace being configured here as the sea (Geldner’s Luftmeer). I subscribe to the latter view.
+</details>
+
+<details><summary>Griffith</summary>
+
+O Pusan, with thy golden ships that travel across the ocean, in the air's mid-region,  
+     Thou goest on an embassy to Surya, subdued by love, desirous of the glory.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Those golden ships of yours, O Pūṣan, which travel in the ocean, in the intermediate space,  
+with them you go on the embassy of the sun, driven by desire, seeking fame.  
+Bright is one [form] of yours, worshipful another.  
+Pūṣan knows all these regions;
+</details>
+
+<details><summary>Geldner</summary>
+
+Deine goldenen Schiffe, Pusan, die im Luftmeer fahren, mit denen tust du Botendienst bei Surya, als Verliebter den Ehrenpreis wünschend.
+</details>
+
+<details><summary>Grassmann</summary>
+
+O Puschan, welche goldbeladnen Schiffe im Meere dir und in dem Luftraum fahren, Mit denen führst du zu der Sonne Botin, von Lust getrieben, hohes Glück begehrend.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Те твои золотые челны, о Пушан,  
+Которые странствуют в океане, в воздушном пространстве,  
+На них ты ездишь с посольством Сурьи,  
+Ища славы, о (бог,) сотворенный любовью.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पूषा
+- भरद्वाजो बार्हस्पत्यः
+- विराट्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर विद्वान् किसको बना कहाँ जाकर क्या पावे, इस विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (कृत) किये हुए विद्वन् ! (पूषन्) भूमि के समान पुष्टियुक्त ! (याः) जो (ते) आपकी (हिरण्यययीः) तेजोमयी सुवर्णादिकों से सुभूषित (नावः) प्रशंसनीय नौकायें (समुद्रे) समुद्र वा (अन्तरिक्षे) अन्तरिक्ष में (अन्तः) भीतर (चरन्ति) जाती हैं (ताभिः) उनसे (कामेन) कामना करके (श्रवः) अन्नादिक की (इच्छमानः) इच्छा करते हुए (सूर्यस्य) सूर्य्य के (दूत्याम्) दूत की क्रिया के समान कामना को (यासि) प्राप्त होते हो, इससे धन्य हो ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य सुदृढ़ नावें और भूविमानों को भूमि और अन्तरिक्ष में चलनेवाले यानों को अन्तरिक्ष में चलने को रचते और उनसे देश-देशान्तरों को जाय आकर अपनी इच्छा को पूरी करते हैं, वे ही सूर्य्य के समान प्रकाशित कीर्तिवाले होते हैं ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे कृत पूषन् ! यास्ते हिरण्ययीर्नावः समुद्रेऽन्तरिक्षेऽन्तश्चरन्ति ताभिः कामेन श्रव इच्छमानस्सूर्यस्य दूत्यामिव कामनां यासि तस्माद्धन्योऽसि ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनर्विद्वान् किं निर्माय क्व गत्वा किं प्राप्नुयादित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (याः) (ते) तव (पूषन्) भूमिरिव पुष्टियुक्त (नावः) प्रशंसनीया नौकाः (अन्तः) मध्ये (समुद्रे) सागरे (हिरण्ययीः) तेजोमय्यः सुवर्णादिसुभूषिताः (अन्तरिक्षे) आकाशे (चरन्ति) गच्छन्ति (ताभिः) (यासि) (दूत्याम्) दूतस्य क्रियामिव (सूर्यस्य) (कामेन) (कृत) यो विद्वान् कृतस्तत्सम्बुद्धौ (श्रवः) अन्नादिकम् (इच्छमानः) ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये मनुष्या सुदृढा नावो भूविमानानि भुव्यन्तरिक्षविमानान्यन्तरिक्षे च गमनाय रचयन्ति तैश्च देशदेशान्तरं गत्वाऽऽगत्य कामनामलं कुर्वन्ति त एव सूर्य्यवत् प्रकाशितकीर्त्तयो भवन्ति ॥३॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जी माणसे समुद्रात दृढ नावा व अंतरिक्षात जाण्यासाठी विमाने तयार करतात, त्याद्वारे देशदेशांतरी जातात-येतात व आपली इच्छा पूर्ण करतात तीच सूर्याप्रमाणे प्रकाशित होऊन कीर्तिमान बनतात. ॥ ३ ॥
+</details>

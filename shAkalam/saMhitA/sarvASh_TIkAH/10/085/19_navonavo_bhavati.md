@@ -1,0 +1,428 @@
++++
+title = "019"
+devataa = "चन्द्रमाः"
+RShiH = "सावित्री सूर्या ऋषिका"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - चन्द्रमाः
+- ऋषिः - सावित्री सूर्या ऋषिका
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+न᳓वो-नवो भवति जा᳓यमानो  
+अ᳓ह्नां केतु᳓र् उष᳓साम् एति अ᳓ग्रम्  
+भागं᳓ देवे᳓भ्यो वि᳓ दधाति आय᳓न्  
+प्र᳓ चन्द्र᳓मास् तिरते दीर्घ᳓म् आ᳓युः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+bhavati ← √bhū- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+jā́yamānaḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+
+návo-navaḥ ← náva- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ágram ← ágra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+áhnām ← áhar ~ áhan- (nominal stem)  
+{case:GEN, gender:N, number:PL}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ketúḥ ← ketú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+uṣásām ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+āyán ← √i- 1 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+bhāgám ← bhāgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadhāti ← √dhā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ā́yuḥ ← ā́yus- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+candrámāḥ ← candrámas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dīrghám ← dīrghá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+tirate ← √tr̥̄- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+नवो॑नवो भवति॒ जाय॑मा॒नोऽह्नां॑ के॒तुरु॒षसा॑मे॒त्यग्र॑म् ।  
+भा॒गं दे॒वेभ्यो॒ वि द॑धात्या॒यन्प्र च॒न्द्रमा॑स्तिरते दी॒र्घमायुः॑ ॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+न᳓वोनवो भवति जा᳓यमानो ऽह्नां केतु᳓र् उष᳓साम् एत्य् अ᳓ग्रम्  
+भागं᳓ देवे᳓भ्यो वि᳓दधात्य् आय᳓न् प्र᳓ चन्द्र᳓मास् तिरते दीर्घ᳓म् आ᳓युः
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+नवो नवो भवति जायमानो ऽह्नां केतुरुषसामेत्यग्रम्।  
+भागं देवेभ्यो विदधात्यायन्प्र चन्द्रमास्तिरते दीर्घम्मायुः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नवः॑ऽनवः । भ॒व॒ति॒ । जाय॑मानः । अह्ना॑म् । के॒तुः । उ॒षसा॑म् । ए॒ति॒ । अग्र॑म् ।  
+भा॒गम् । दे॒वेभ्यः॑ । वि । द॒धा॒ति॒ । आ॒ऽयन् । प्र । च॒न्द्रमाः॑ । ति॒र॒ते॒ । दी॒र्घम् । आयुः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- न᳓वः-नवः (*TS*-2, *RV*-1, *TB*-1, *AV*-1)
+- भवति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-539, *RV*-27, *TB*-310, *TK*-18, *AV*-84, *SB-M*-1365, *SB-K*-1293, *KS*-52)
+- जा᳓यमानः (*TS*-7/15, *RV*-27/44, *TB*-5/7, *AV*-7/17, *SB-M*-21/26, *SB-K*-18/24, *VS-M*-3, *VS-K*-3, *KS*-2/4)
+- अह्नाम् (मूल-पाठः)
+- केतुः᳓ (*TS*-3/12, *RV*-23/82, *TB*-2/9, *TK*-4, *AV*-8/27, *SB-M*-1/11, *SB-K*-1/11, *VS-M*-1/15, *VS-K*-1/16, *KS*-0/10)
+- उष᳓साम् (*TS*-7/20, *RV*-19/237, *TB*-2/13, *TK*-0/1, *AV*-8/39, *SB-M*-4/12, *SB-K*-3/11, *VS-M*-4/21, *VS-K*-4/17, *KS*-0/6)
+- एति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-152, *RV*-120, *TB*-80, *TK*-20, *AV*-43, *SB-M*-306, *SB-K*-293, *VS-K*-2, *KS*-18)
+- अ᳓ग्रम् (*TS*-25/78, *RV*-25/68, *TB*-8/46, *TK*-0/2, *AV*-18/64, *SB-M*-20/346, *SB-K*-24/329, *VS-M*-6/27, *VS-K*-6/23, *KS*-1/8)
+- भाग᳓म् (*TS*-9/55, *RV*-43/57, *TB*-7/16, *AV*-22/45, *SB-M*-45/110, *SB-K*-44/112, *VS-M*-8/29, *VS-K*-8/44, *KS*-4/10)
+- देवे᳓भ्यः (*TS*-101/1025, *RV*-60/1342, *TB*-58/582, *TK*-2/32, *AV*-40/707, *SB-M*-249/2031, *SB-K*-210/1945, *VS-M*-64/517, *VS-K*-58/498, *KS*-40/317)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-118, *KS*-135)
+- दधाति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-400, *RV*-21, *TB*-179, *TK*-3, *AV*-12, *SB-M*-1385, *SB-K*-1311, *VS-K*-1, *KS*-48)
+- आ-य᳓न् (*TS*-1, *RV*-4, *AV*-2, *SB-M*-14, *SB-K*-25/26, *KS*-1)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-182, *KS*-205)
+- चन्द्र᳓माः (*TS*-13/24, *RV*-4, *TB*-5/15, *TK*-2/3, *AV*-20/21, *SB-M*-56/73, *SB-K*-58/73, *VS-M*-9, *VS-K*-8/9, *KS*-5/8)
+- तिरते (*RV*-6, *KS*-2)
+- दीर्घ᳓म् (*TS*-2/4, *RV*-23/30, *TB*-0/1, *AV*-18/25, *SB-M*-6/9, *SB-K*-5/6, *VS-M*-2, *VS-K*-2)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-461, *VS-K*-379, *KS*-316)
+- अयुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *TB*-60, *TK*-8, *SB-M*-25, *SB-K*-97, *KS*-37)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- न᳓वः (*MS*-0/6, *TS*-0/2, *RV*-3/31, *TB*-2/19, *AV*-2/11, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/2, *VS-K*-0/2)
+- न᳓वः (*MS*-0/6, *TS*-0/2, *RV*-3/31, *TB*-2/19, *AV*-2/11, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-0/2, *VS-K*-0/2)
+- भवति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-319, *TS*-539, *RV*-27, *TB*-310, *TK*-18, *AV*-84, *SB-M*-1365, *SB-K*-1293)
+- जा᳓यमानः (*MS*-11/16, *TS*-7/15, *RV*-27/44, *TB*-5/7, *AV*-7/17, *SB-M*-21/26, *SB-K*-18/24, *VS-M*-3, *VS-K*-3)
+- अ᳓ह्नाम् (*MS*-5/73, *TS*-11/119, *RV*-28/99, *TB*-3/58, *TK*-0/7, *AV*-8/58, *SB-M*-7/204, *SB-K*-6/221, *VS-M*-2/17, *VS-K*-2/20)
+- केतुः᳓ (*MS*-2/14, *TS*-3/12, *RV*-23/82, *TB*-2/9, *TK*-4, *AV*-8/27, *SB-M*-1/11, *SB-K*-1/11, *VS-M*-1/15, *VS-K*-1/13)
+- उष᳓साम् (*MS*-8/31, *TS*-7/20, *RV*-19/237, *TB*-2/13, *TK*-0/1, *AV*-8/39, *SB-M*-4/12, *SB-K*-3/11, *VS-M*-4/21, *VS-K*-4/18)
+- एति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-136, *TS*-152, *RV*-120, *TB*-80, *TK*-20, *AV*-43, *SB-M*-306, *SB-K*-293, *VS-K*-2)
+- अ᳓ग्रम् (*MS*-21/126, *TS*-25/78, *RV*-25/68, *TB*-8/46, *TK*-0/2, *AV*-18/64, *SB-M*-20/346, *SB-K*-24/329, *VS-M*-6/27, *VS-K*-6/24)
+- भाग᳓म् (*MS*-26/83, *TS*-9/55, *RV*-43/57, *TB*-7/16, *AV*-22/45, *SB-M*-45/110, *SB-K*-44/112, *VS-M*-8/29, *VS-K*-9/45)
+- देवे᳓भ्यः (*MS*-138/1216, *TS*-101/1023, *RV*-60/1342, *TB*-58/582, *TK*-2/32, *AV*-40/707, *SB-M*-249/2031, *SB-K*-210/1945, *VS-M*-64/528, *VS-K*-60/523)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- दधाति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-284, *TS*-400, *RV*-21, *TB*-179, *TK*-3, *AV*-12, *SB-M*-1385, *SB-K*-1311, *VS-K*-1)
+- आ᳓-यन् (*MS*-7, *TS*-2, *RV*-7, *TB*-2/3, *AV*-7, *SB-M*-24, *SB-K*-20, *VS-M*-3, *VS-K*-3)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- चन्द्र᳓माः (*MS*-8/14, *TS*-13/24, *RV*-4, *TB*-5/15, *TK*-2/3, *AV*-20/21, *SB-M*-56/73, *SB-K*-58/73, *VS-M*-9, *VS-K*-8/9)
+- तिर᳓ते (*Whitney*, *RV*-1, *AV*-1, *SB-M*-0/1, *SB-K*-0/1)
+- दीर्घ᳓म् (*MS*-1/5, *TS*-2/4, *RV*-23/30, *TB*-0/1, *AV*-18/25, *SB-M*-6/9, *SB-K*-5/6, *VS-M*-2, *VS-K*-2)
+- मायुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *navo* ← *navaḥ* ← *nava*
+- \[noun\], nominative, singular, masculine
+- “new; fresh; young; matutinal; recent; nava \[word\]; modern;
+    fresh.”
+
+_________
+
+- *navo* ← *navaḥ* ← *nava*
+- \[noun\], nominative, singular, masculine
+- “new; fresh; young; matutinal; recent; nava \[word\]; modern;
+    fresh.”
+
+_________
+
+- *bhavati* ← *bhū*
+- \[verb\], singular, Present indikative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+
+_________
+
+- *jāyamāno* ← *jāyamānaḥ* ← *jan*
+- \[verb noun\], nominative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+
+_________
+
+- *'hnāṃ* ← *ahnām* ← *ahar*
+- \[noun\], genitive, plural
+- “day; day; ahar \[word\]; day; day.”
+
+_________
+
+- *ketur* ← *ketuḥ* ← *ketu*
+- \[noun\], nominative, singular, masculine
+- “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
+    signal; signal; luminosity.”
+
+_________
+
+- *uṣasām* ← *uṣas*
+- \[noun\], genitive, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+
+_________
+
+- *ety* ← *eti* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+
+_________
+
+- *agram* ← *agra*
+- \[noun\], accusative, singular, neuter
+- “tip; beginning; peak; end; front; top; beginning; battlefront; agra
+    \[word\]; acme; fingertip; top; best; optimum; climax; matter;
+    glans.”
+
+_________
+
+- *bhāgaṃ* ← *bhāgam* ← *bhāga*
+- \[noun\], accusative, singular, masculine
+- “part; part; part; parcel; quarter; body part; location; region;
+    allotment; part; numerator; division; application; function;
+    outside; bhāga \[word\]; volume; helping.”
+
+_________
+
+- *devebhyo* ← *devebhyaḥ* ← *deva*
+- \[noun\], dative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+
+_________
+
+- *dadhāty* ← *dadhāti* ← *dhā*
+- \[verb\], singular, Present indikative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+
+_________
+
+- *āyan* ← *e* ← *√i*
+- \[verb noun\], nominative, singular
+- “come; travel.”
+
+_________
+
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *candramās* ← *candramāḥ* ← *candramas*
+- \[noun\], nominative, singular, masculine
+- “moon; Candra; candramas.”
+
+_________
+
+- *tirate* ← *tṛ*
+- \[verb\], singular, Present indikative
+- “traverse; overcome; float; rescue; reach; satisfy.”
+
+_________
+
+- *dīrgham* ← *dīrgha*
+- \[noun\], accusative, singular, neuter
+- “long; long; long; large; far; deep; dīrgha \[word\].”
+
+_________
+
+- *āyuḥ* ← *āyus*
+- \[noun\], accusative, singular, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+जायमानः- प्रतिदिनमुत्पन्नः। नवोनवो भवति- प्रतिदिनं नूतनो भवति। अह्नाम्- दिवसानां  प्रतिपदादीनाम्। केतुः- प्रज्ञापकः। उषसाम्- प्रभातीनाम्। अग्रम्- अग्रे। एति- गच्छति। आयन्-  गच्छन्। देवेभ्यः- देवताभ्यः। भागम्। वि दधाति। चन्द्रमाः- सोमः। दीर्घमायुः। प्र तिरते-  प्रकर्षेण वर्धयति॥१९॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अयं चन्द्रमाः **जायमानः** प्रतिदिनं जायमान एकैककलाधिक्येनोत्पद्यमानः सन् **नवोनवो** **भवति** प्रतिदिनं नूतन एव भवति । एतत्पूर्वपक्षाद्यभिप्रायम् । तथा **अह्नां** दिवसानां **केतुः** प्रज्ञापकः प्रतिपदादीनां तिथीनां चन्द्रकलाहासवृद्ध्यधीनत्वात् । तादृशश्चन्द्रमाः **उषसां** प्रभातीनाम् **अग्रम्** **एति**। एतत्कृष्णपक्षान्ताभिप्रायम् । केचनैतं पादमादित्यदैवत्यमाहुः । तस्मिन् पक्षेऽह्नां केतुत्वमुषसामग्रगतिश्च प्रसिद्धे । **देवेभ्यः** **भागं** हविर्भागं **वि** **दधाति** करोति उभयपक्षान्ते । किं कुर्वन् । **आयन** प्रतिदिनं हासवृद्ध्या पक्षान्तमभिगच्छन्। एतदर्धमासाभिप्रायम्। **चन्द्रमाः** उक्तलक्षणो देवः **दीर्घमायुः** **तिरते** वर्धयति ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अत्र चन्द्रगुणकीर्तनेनादित्य एव स्तूयते, तेषां चन्द्रगुणानामादित्याधीनत्वात् । तथा हि - चन्द्रो नामायं भास्वरः सलिलकटाहात्मा । यथाहुः -
+सूर्योग्निमयो गोळः चन्द्रोम्बुमयस्स्वभावतस्स्वच्छः । इति ।  
+तस्मादस्य दिवसकररुचिसमाश्लेषेण भास्वरत्वं भवति । यथाहुः -  
+भूग्रहभानां गोलार्धानि स्वच्छायया विवर्णानि ।  
+अर्धानि यथासारं सूर्याभिमुखानि दीप्यन्ते ॥ इति ।
+
+तस्माच्चन्द्रमसो बिम्बं गोळार्धं सूर्याभिमुखं सदा चकास्ति । किं सर्वदा चकास्ति? किमिति नोपलभ्यते?   
+
+श्रूयताम् - अमावास्यायां चन्द्रमस उपर्यादित्यः ; तदा चन्द्रमस उपरि यद्बिम्बार्धं तदशेषमवभासयति सविता । चन्द्रस्यामावास्योपलक्षितोपरिबिम्बे केन्द्राद्यथायथा पश्चादादित्योवलम्बते तथातथा चन्द्रमसो बिम्बं केन्द्रस्य परतोवलम्बते । तत्केन्द्रवशात् चन्द्रमसो बिम्बार्धशेषं आभासयति सविता । यावदेवास्योपलक्षितबिम्बपरिध्यवधेरधोवलम्बते तावत् चन्द्रमसो बिम्बस्या[स्यार्धम]स्माभिरुपलक्ष्यते, शेषमुपरिस्थितत्वान्नोपलभ्यते सूर्याभिमुखं भास्वरमपि, भूगोळविशेषवर्तिभिरस्माभिरुपलब्धुमयोग्यत्वात् । तस्माद्यावद्यावत्सवितृकराश्लिष्टमवलम्बते तावत्तावत्तिथिभेदेन शुक्लचन्द्र उपलभ्यते । तेनामी ज्योत्स्नावितानावभासिनः चन्द्रकराः तत्तत्क्षितितलावभासिनो भवन्ति । यथा दर्पणोदरे जले वा दिवाकरकरास्सम्मूर्छितास्सन्तो गृहान्तर्गतं तमः क्षपयन्ति एवं सवितृमरीचयोम्बुमये स्वभावश्यामेपि चन्द्रबिम्बे सम्मूर्छिता नैशं ध्वान्तमपध्वंसयन्ति ।
+
+तत्रायं विशेषः - यो यश्चन्द्रबिम्बप्रदेशः सवितृमार्गे ऋजुत्वेन व्यवस्थितः स एव शुक्लः उपलभ्यते ; तेन दक्षिणोत्तरयोश्शृङ्गयोः कालविशेषेणोन्नतिविशेषः । तत्र यावद्यावत्सवित्रा विश्लिष्टो भवति तावत्तावच्छुक्लप्रतिपत्प्रभृति चन्द्रमसि सविता संवर्धते । कृष्णप्रतिपत्प्रभृति असितिमा संवर्धते । एतावता जायमान आप्यायमानः क्षीयमाणः चन्द्रमा उपलभ्यते ।
+
+उक्तं च निरुक्ते - 'तस्यैको रश्मिश्चन्द्रमसं प्रति दीप्यते' इति,   
+श्रूयते च - 'सुषुम्नस्शूर्यरस्मिश्चन्द्रमा गन्धर्वः' इति ।
+
+ननु कथं अस्तमिते सवितरि चन्द्रश्चकास्ति? नैष दोषः - भूमेर्दूरेण सूर्यमार्गः ; तेनोपरिमुखानां सूर्यमरीचीनां न व्यवधात्री भूतधात्री भवति । कृष्णपक्षप्रतिपदादिषु चन्द्रमसो बिम्बपूर्वभागं प्रत्यासन्नः सवितेति परमुच्छुक्लमुपपद्यते । अत्र यदुक्तं सौगतैः स्वत एव शुक्लस्य चन्द्रमसः सुर्यसन्निकर्षणाद्वैवर्ण्यं भवतीति, तदयुक्तम् । स्वभावतश्शुक्लस्य सूर्यसन्निकर्षस्स्याच्चेत्तदा शुक्लप्रतिपदादिषु चन्द्रमसो बिम्बस्यापरभागे वैवर्ण्यं स्यात्, सन्निकृष्टत्वात् तस्यापरभागस्य । ततश्चावाङ्मुखश्च[खं च]न्द्रबिम्बमुपलभ्येतेत्यलमतिप्रसङ्गेन ॥
+
+एवं यश्चन्द्रमसा जायमानः प्रादुर्भवन् शुक्लप्रतिपदादिषु आदित्यस्यार्चिषा प्रकाशमानो नवोनवो भवति पुनःपुनः अभिनव एव भवति प्रजानामाह्लादहेतुर्भवति । 'अनुदात्तं च' इति द्वितीयो नवशब्दः अनुदात्तः । किं च – अह्नां तिथीनां केतुः तद्वत्केतयिता ज्ञापयिता । कित ज्ञाने । तिथिविभागहेतुत्वात् । उषसां रात्रीणां अग्रे गच्छति अग्रणीः भवति, रजनीनां कर्तृत्वात् । यद्वा - अह्नां केतुः अहरवसाने शुक्लपक्षे प्रतीच्यां दृश्यते, कृष्णपक्षे तु रत्रीणामवसाने प्राच्यां दृश्यते । एवमायन्नागच्छन् अयं देवेभ्यो भागं विदधाति तिथिविशेषनिबन्धनत्वात्सर्वयागानां, आदित्यसन्निकर्षविप्रकर्षनिबन्धनत्वात्सर्वतिथीनाम् । सूर्याचन्द्रमसोर्हि परस्परसन्निकर्षोमावास्या, विप्रकर्षः पौर्णमासीति । इत्थं महाप्रभावोयं चन्द्रमाः दीर्घमायुरस्य प्रतिरति वर्धयतु ॥
+
+यद्वा - आदित्य एव चन्द्रमा उच्यते, चन्द्रस्य माता निर्माता उत्पादक इति । 'गतिकारकयोरपि' इत्यसिः, डित्वाट्टिलोपः । स जायमानो दिनेदिने प्राच्यामुद्यन् नवोनवो भवति सदोद्यन्नप्यपूर्व इव भवति । अह्नां केतुः दिवसकरत्वात् । उषसां रात्रीणां अग्रे अग्रतो गच्छति रात्रय एनमनुधावन्ति । एवमायन् उद्यन् देवेभ्यो भागं विदधाति, आदित्यगत्यधीनत्वात्सर्वकर्मणाम् । एवं महानुभावश्चन्द्रमसोप्युक्तवन्निर्माता आदित्यः दीर्घमायुर्वर्धयत्विति ॥
+_______________________
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[141_6]** Ch दात्या॰
+
+**टिप्पणी (अनङ्किता 7)**
+
+- **7.** D दिवाः
+
+**समानान्तराणि:** cf. Mâitr. S. 2. 2, 4. 6; TBr. 2, 4, 4 flg. (cf. Mâitr. S. 2. 2, 4. 6; TBr. 2, 4, 4 ff.)
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“New every day (the moon) is born; the manifester of days he goes on front of the Dawns; hedistributes their portion to the gods as he goes; the moon protracts a long existence.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+The first half othe verse isaddressed to the sun; but, the moon is the manifester of days in regulating the time of **tithis** (lunar days)
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+He becomes ever new as he is born; as beacon of the days he goes at the  forefront of the dawns.  
+He portions out their share to the gods as he comes here. The Moon  extends his lifetime long.
+</details>
+
+<details><summary>Griffith</summary>
+
+He, born afresh, is new and new for ever ensign of days he goes before the Mornings  
+     Coming, he orders f6r the Gods their portion. The Moon prolongs the days of our existence.
+</details>
+
+<details><summary>Keith</summary>
+
+He is born ever new;  
+The banner of the days goeth before the dawns.  
+He appointeth their portion to the gods as he advanceth  
+The moon extendeth length of days.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Ever new he becomes as he is born; the banner of the days, he goes at the head of the dawns;  
+arriving, he apportions their share to the gods; the moon lengthens long life.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+Becoming new and new, he is born, the banner of days, he goes before the dawns;  
+arriving, he distributes their share to the gods; the moon extends long life.
+</details>
+
+<details><summary>Macdonell</summary>
+
+Ever anew, being born again, he rises; He goes before the dawns as daylight's token. He, coming, to the gods their share apportions: The moon draws out the span of man's existence.
+</details>
+
+<details><summary>Geldner</summary>
+
+Immer wieder wird er neu geboren, als das Wahrzeichen der Tage geht er der Usas voran. Durch sein Kommen bestimmt er den Göttern ihren Anteil: der Mond zieht sein Leben in die Länge.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Immer wieder neu wird er geboren, als der Tage Banner geht er den Morgenröthen voran; indem er ankommt vertheilt er den Göttern ihren Antheil; lange lässt der Mond das Leben fortdauern.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Рождаясь, он возникает каждый раз новым,  
+Как символ дней он идет впереди утренних зорь.  
+Приходя, он устанавливает долю богам.  
+Далеко простирает месяц (свою) жизнь.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- चन्द्रमाः
+- सूर्या सावित्री
+- पादनिचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (चन्द्रमाः) (नवः-नवः-जायमानः-भवति) प्रतिरात्रि नया-नया कलाओं से उदय होता है (अह्नाम्-उषसां केतुः) दिनों और उषाओं का प्रज्ञानभूत (अग्रम्-एति) कृष्णपक्ष में आगे चलता है (देवेभ्यः) देवों के लिए (भागं वि दधाति) हविर्भाग नियत करता है कालसूचना से, (दीर्घम्-आयुः-प्र तिरते) सदुपयोग से दीर्घ आयु को देता है। यह चन्द्र के पक्ष में निरुक्त के अनुसार आधिदैविक अर्थ है॥ प्रस्तुत गृहस्थपक्ष में तो−(जायमानः)पुत्ररूप से उत्पन्न हुआ (नवः नवः भवति) नया-नया होता है (अह्नाम्-उषसां केतुः) प्रतिदिन और प्रति उषा वेला में साक्षात् हुआ (अग्रम्-एति) आगे जाता है (आयन्) गृहस्थाश्रम में आते हुए (देवेभ्यः) विद्वानों के लिए और अग्नि आदि के लिए (भागं विदधाति) भोजनभाग तथा हविर्भाग नियत करता है (चन्द्रमाः) स्वजीवन में आह्लादकारी होता हुआ (दीर्घम्-आयुः) दीर्घ आयु का (प्र तिरते) विस्तार करता है ॥१९॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  चन्द्रमा प्रतिरात्रि कृष्णपक्ष में दिनों और उषावेलाओं से प्रथम आकाश में दृष्टिगोचर होता है, उसे देखकर यागों का निर्णय करते हैं देवताओं के प्रति हवि देने के लिए, चन्द्रमा के सदुपयोग से आयु बढ़ता है एवं गृहस्थाश्रम में वर पुत्ररूप से पुन:-पुन: जन्म पाता है। प्रतिदिन प्रति उषावेला में साक्षात् जागृत हो विद्वानों के लिए भोजन-भाग और अग्नि आदि के लिए हविर्भाग उसे देना चाहिए, ऐसा करते रहने से अपने जीवन में प्रसन्न रहते हुए आयु का विस्तार करे ॥१९॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (चन्द्रमाः-नवः-नवः-जायमानः-भवति) चन्द्रमाः खलु प्रतिरात्रि नवो नवः कलाश उद्यन् भवति (अह्नां केतुः-उषसाम्-अग्रम्-एति) दिवसानामुषसां च प्रज्ञानभूतोऽग्रमेति कृष्णपक्षे (देवेभ्यः-भागं विदधाति) उद्यन् देवेभ्यो यागकालसूचनया हविर्भागं समर्पयति (दीर्घम्-आयुः प्रतिरते) एवमुपयोगेन दीर्घमायुर्वर्धयति इति चन्द्रपक्षे निरुक्तमनुसृत्याधिदैविकोऽर्थः॥ प्रस्तुतगृहस्थपक्षे तु−(जायमानः) पुत्ररूपेणोत्पद्यमानः (नवः-नवः-भवति) नवो नवः पुत्ररूपो भवति (अह्नाम्-उषसां-केतुः-अग्रम्-एति) प्रतिदिनं प्रत्युषोवेलं च साक्षाद्भूतोऽग्रमेव गच्छति (आयन्) गृहाश्रममागच्छन्नेव (देवेभ्यः-भागं विदधाति) विद्वद्भ्योऽग्निप्रभृतिभ्यश्च भोजनभागं हविर्भागं च नियतं करोति (चन्द्रमाः-दीर्घम्-आयुः प्रतिरते) स्वजीवने खल्वाह्लादकारी सन् दीर्घमायुर्वर्धयति ॥१९॥
+</details>

@@ -1,0 +1,358 @@
++++
+title = "001"
+devataa = "क्षेत्रपतिः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "अनुष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - क्षेत्रपतिः
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+क्षे᳓त्रस्य प᳓तिना वयं᳓  
+हिते᳓नेव जयामसि  
+गा᳓म् अ᳓श्वम् पोषयित्नु᳓ आ᳓  
+स᳓ नो मॄळाति+ ईदृ᳓शे
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+kṣétrasya ← kṣétra- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+pátinā ← páti- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+vayám ← ahám (pronoun)  
+{case:NOM, number:PL}
+
+hiténa ← √hi- (root)  
+{case:INS, gender:M, number:SG, non-finite:PPP}
+
+iva ← iva (invariable)  
+{}
+
+jayāmasi ← √ji- 1 (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+gā́m ← gáv- ~ gó- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+poṣayitnú ← poṣayitnú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+īdŕ̥śe ← īdŕ̥ś- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+mr̥ḷāti ← √mr̥ḍ- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्षेत्र॑स्य॒ पति॑ना व॒यं हि॒तेने॑व जयामसि ।  
+गामश्वं॑ पोषयि॒त्न्वा स नो॑ मृळाती॒दृशे॑ ॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+क्षे᳓त्रस्य प᳓तिना वयँ᳓ हिते᳓नेव जयामसि  
+गा᳓म् अ᳓श्वं पोषयित्न्व् आ᳓ स᳓ नो मृडातीदृ᳓शे
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+क्षे᳓त्रस्य प᳓तिना वयँ हिते᳓नेव जयामसि।  
+गा᳓म᳓श्वं पोषयित्वा᳓ स᳓ नो मृडातीदृ᳓शे
+</details>
+
+<details><summary>मूलम् - एकाग्निकाण्डम्</summary>
+
+क्षेत्र॑स्य॒ पति॑ना व॒यँ हि॒तेने॑व जयामसि ।  
+गामश्व॑म्पोषयि॒त्न्वा स नः॑ मृ॒डा॒ती॒दृशे॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्षेत्र॑स्य । पति॑ना । व॒यम् । हि॒तेन॑ऽइव । ज॒या॒म॒सि॒ ।  
+गाम् । अश्व॑म् । पो॒ष॒यि॒त्नु । आ । सः । नः॒ । मृ॒ळा॒ति॒ । ई॒दृशे॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- क्षे᳓त्रस्य (*TS*-5/14, *RV*-6/19, *TB*-0/3, *AV*-4/16, *VS-M*-0/1, *VS-K*-0/1, *KS*-2/3)
+- प᳓तिना (*TS*-1/79, *RV*-1/193, *TB*-0/21, *TK*-0/7, *AV*-2/129, *SB-M*-0/63, *SB-K*-0/63, *VS-M*-0/70, *VS-K*-0/79, *KS*-1/49)
+- वय᳓म् (*TS*-88/565, *RV*-297/1308, *TB*-54/270, *TK*-6/66, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-67/315, *VS-K*-53/274, *KS*-46/242)
+- हिते᳓न (*TS*-1/9, *RV*-0/83, *TB*-0/7, *TK*-0/1, *AV*-0/19, *SB-M*-0/28, *SB-K*-0/35, *VS-M*-0/3, *VS-K*-0/3, *KS*-1/3)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2, *KS*-68)
+- जयामसि (*TS*-1, *RV*-1, *TB*-1, *KS*-1)
+- गा᳓म् (*TS*-10/108, *RV*-40/521, *TB*-20/76, *AV*-29/195, *SB-M*-31/168, *SB-K*-24/149, *VS-M*-19/67, *VS-K*-15/67, *KS*-7/37)
+- अ᳓श्वम् (*TS*-28/126, *RV*-47/226, *TB*-33/167, *AV*-11/76, *SB-M*-67/262, *SB-K*-63/255, *VS-M*-15/56, *VS-K*-14/52, *KS*-5/26)
+- पोषयित्नु᳓ (*TS*-2, *RV*-3)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414, *KS*-316)
+- सः᳓ (*TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660, *KS*-225/1225)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382, *KS*-252)
+- मृडात् (*RV*-1, *KS*-1)
+- ईदृ᳓शे (*TS*-2/3, *RV*-4, *AV*-3, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1, *VS-K*-1, *KS*-3)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- क्षे᳓त्रस्य (*MS*-9/26, *TS*-5/14, *RV*-6/19, *TB*-0/3, *AV*-4/16, *VS-M*-0/1, *VS-K*-0/1)
+- प᳓तिना (*MS*-1/75, *TS*-1/79, *RV*-1/193, *TB*-0/21, *TK*-0/7, *AV*-2/129, *SB-M*-0/63, *SB-K*-0/63, *VS-M*-0/70, *VS-K*-0/79)
+- वयम् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1)
+- हिते᳓न (*MS*-1/14, *TS*-1/9, *RV*-0/83, *TB*-0/7, *TK*-0/1, *AV*-0/19, *SB-M*-0/28, *SB-K*-0/35, *VS-M*-0/3, *VS-K*-0/3)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- जयामसि (*MS*-1, *TS*-1, *RV*-1, *TB*-1)
+- गा᳓म् (*MS*-25/149, *TS*-10/108, *RV*-40/521, *TB*-20/76, *AV*-29/195, *SB-M*-31/168, *SB-K*-24/149, *VS-M*-19/67, *VS-K*-15/67)
+- अ᳓श्वम् (*MS*-32/117, *TS*-28/126, *RV*-47/226, *TB*-33/167, *AV*-11/76, *SB-M*-67/262, *SB-K*-63/255, *VS-M*-15/56, *VS-K*-14/52)
+- पोषयित्वा᳓ (क्त्वा पा॰ ३.१.३)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- मृडात् (*RV*-1, *MS*-1)
+- ईदृ᳓शे (*TS*-2/3, *RV*-4, *AV*-3, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1, *VS-K*-1, *MS*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - एकाग्निकाण्डम्)</summary>
+
+- क्षे᳓त्रस्य (*TS*-5/14, *RV*-6/19, *TB*-0/1, *AV*-4/16, *VS-M*-0/1, *VS-K*-0/1, *KS*-2/3, *MS*-9/26)
+- प᳓तिना (*TS*-1/79, *RV*-1/193, *TB*-0/13, *AV*-2/129, *SB-M*-0/63, *SB-K*-0/63, *VS-M*-0/38, *VS-K*-0/41, *KS*-1/49, *MS*-1/75)
+- वय᳓म् (*TS*-88/565, *RV*-297/1308, *TB*-37/114, *AV*-196/1252, *SB-M*-112/723, *SB-K*-104/728, *VS-M*-56/127, *VS-K*-60/178, *KS*-46/242, *MS*-120/641)
+- हिते᳓न (*TS*-1/9, *RV*-0/83, *TB*-0/3, *AV*-0/19, *SB-M*-0/28, *SB-K*-0/35, *VS-M*-0/1, *VS-K*-0/2, *KS*-1/3, *MS*-1/14)
+- इव (निपातः अनुदात्तः, पा॰ ८.१.१८, *RV*-1, *SB-K*-741, *VS-K*-38, *KS*-68, *MS*-240)
+- जयामसि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *KS*-1, *MS*-1)
+- गा᳓म् (*TS*-10/108, *RV*-40/521, *TB*-7/32, *AV*-29/195, *SB-M*-31/168, *SB-K*-24/149, *VS-M*-15/32, *VS-K*-15/44, *KS*-7/37, *MS*-25/149)
+- अ᳓श्वम् (*TS*-28/126, *RV*-47/226, *TB*-6/61, *AV*-11/76, *SB-M*-67/261, *SB-K*-63/255, *VS-M*-0/5, *VS-K*-1/17, *KS*-5/26, *MS*-32/117)
+- पोषयित्नु᳓ (*TS*-2, *RV*-3, *MS*-2)
+- आ᳓ (*TS*-1105, *SB-K*-2120, *VS-K*-115, *KS*-316, *MS*-1274)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-28/1327, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-1/268, *VS-K*-8/395, *KS*-225/1225, *MS*-784/5550)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *SB-K*-533, *VS-K*-111, *KS*-252, *MS*-616)
+- मृळाति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-3)
+- ईदृ᳓शे (*TS*-2/3, *RV*-4, *AV*-3, *SB-M*-0/1, *SB-K*-0/1, *VS-K*-1, *KS*-3, *MS*-1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *kṣetrasya* ← *kṣetra*
+- \[noun\], genitive, singular, neuter
+- “field; location; habitat; country; area; earth; region; estate;
+    body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
+
+_________
+
+- *patinā* ← *pati*
+- \[noun\], instrumental, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+
+_________
+
+- *vayaṃ* ← *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+
+_________
+
+- *hiteneva* ← *hitena* ← *hita*
+- \[noun\], instrumental, singular, masculine
+- “beneficial; wholesome; good; suitable; good; appropriate; pleasant;
+    Aṣṭādhyāyī 5.1.5; friendly; agreeable.”
+
+_________
+
+- *hiteneva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *jayāmasi* ← *ji*
+- \[verb\], plural, Present indikative
+- “overcome; cure; win; conquer; control; win; succeed; remove; beat;
+    govern; surpass; suppress.”
+
+_________
+
+- *gām* ← *go*
+- \[noun\], accusative, singular, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+
+_________
+
+- *aśvam* ← *aśva*
+- \[noun\], accusative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+
+_________
+
+- *poṣayitnv* ← *poṣayitnū* ← *poṣayitnu*
+- \[noun\], accusative, plural, neuter
+
+_________
+
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *mṛﾱātīdṛśe* ← *mṛḍāti* ← *mṛḍ*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “pardon.”
+
+_________
+
+- *mṛﾱātīdṛśe* ← *īdṛśe* ← *īdṛś*
+- \[noun\], dative, singular, masculine
+- “such(a).”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+क्षेत्रस्य पतिना- केदाराधिदैवतेन। वयम्। हितेन- सख्या। इव। जयामसि- जयामः। आध्यात्मिके  सद्भावनाख्यबीजवपनयोग्यप्रकृतिरेव केदारः। तदधिदैवतं क्षेत्रपतिः। गाम्- धेनुं चिद्रश्मिम्।  अश्वम्- तुरगं प्राणम्। पोषयित्नु- पोषणकरीं सम्पदम्। आ- आहरतु। सः- असौ क्षेत्रपतिः। नः-  अस्मान्। ईदृशे- ईदृशे सम्पन्निमित्ते। मृळाति- सुखयति॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**वयं** यजमानाः **क्षेत्रस्य** **पतिना** देवेन ॥ रुद्रं क्षेत्रपतिं प्राहुः केचिदग्निमथापरे । स्वतन्त्र एव वा कश्चित्क्षेत्रस्य पतिरुच्यते ॥ **हितेनेव** । इव शब्द एवार्थे । सर्वप्राणिहितेनैव तेन । अथवा मित्रेणेव । यथा सख्युः साहाय्ये सन् स्वकार्यं साधयति तद्वत् । **जयामसि** । जयामः क्षेत्रम् । स देवः **गामश्वं** च **पोषयित्नु** पोषयितृ गवाश्वलक्षणं धनम् **आ** हरत्विति शेषः । उपसर्गश्रुतेर्योग्यक्रियाध्याहारः । **सः** एव देवः **नः** अस्मान् **ईदृशे** उक्तलक्षणे धने दातव्ये सति **मृळाति** सुखयति । क्षेत्रस्य पतिना' ( निरु. १०. १५ ) इत्यादिनिरुक्तं जानीयात् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+क्षेत्रस्य निष्पत्त्याधारस्य, पतिना पत्याऽधिष्ठात्रा । 'षष्ठीयुक्तश्छन्दसि वा' (पा.सू. 1.4.9) इति घिसंज्ञा । तेनानुगृह्यमाणा वयं जयामसि जयामः । 'इदन्तो मसि' (पा.सू. 7.1.46) इति इकारः । केनेव ? - हितेनेव ; यथा हितेन मित्रेण जनेन अमित्रं जयति एवं क्षेत्रपतिना जयेम । किं जयेम ? - गामश्वं पोषयित्नु पोषकमन्नादिकं प्रजाम् । आकारस्समुच्चये । गां चाश्वं च पोषयित्नु च । पुषेर्ण्यन्तात् 'स्तनिहृषिपुषि' (उ.सू. 316) इत्यादिना इत्नुच्प्रत्ययः, 'अयामन्ताल्वाय्येत्न्विष्णुषु' (पा.सू. 6.4.55) इति णेरयादेशः । स च क्षेत्रपतिः नोस्मान् मृडाति मृडयतु सुखयतु । मृड सुखने, तौदादिकः, 'लेटोऽडाटौ' (पा.सू. 3.4.94) इत्याडागमः । ईदृशे यथोक्ते गवादावर्थे अस्मान् स्वामित्वेन स्थापयित्वा सुखयतु । 'त्यदादिषु दृशः' (पा.सू. 3.2.60) इति कञ्, इदम ईशादेशः (पा.सू. 6.3.90), कृदुत्तरपदप्रकृतिस्वरत्वम् (पा.सू. 6.2.139) । अत्र यणादेशसवर्णदीर्घयोरकरणेन तृतीयचतुर्थपादौ पूरयितव्यौ ॥
+</details>
+
+<details><summary>हरदत्तः</summary>
+
+क्षेत्रस्य पतेरुपस्थानमन्त्रौ - क्षेत्रस्येति ॥ क्षेत्रस्य पतिना वयं हितेनेव मित्रादिना जयामसि जेतव्यं जयामः । स च क्षेत्रपतिः नः अस्माकं गामश्वं च पोषयित्नु । लिङ्गव्यत्ययः । पोषयिता आकारस्समुच्चये मृडाति सुखकर्माऽयं मृडयेत् सुखयेत् ईदृशे कर्मणि कृते ।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“With the master of the field, our friend, we triumph; may he bestow upon us cattle, horses, nourishment, for by such (gifts) he makes us happy.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+With the master of the field: kṣetrasya patinā may be a reference to **Rudra** or **Agni**
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+By means of the Lord of the Field as if by a concluded (alliance),  may we win  
+what prospers the cow, the horse. He will be gracious to one such as us.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+With Geldner, Renou, Oberlies (RRV I.189), I supply mitréṇa with hiténeva; Witzel Gotō by contrast take it to √hi ‘impel’ and assume a winning horse.
+</details>
+
+<details><summary>Griffith</summary>
+
+WE through the Master of the Field, even as through a friend, obtain  
+     What nourisheth our kine and steeds. In such may he be good to us.
+</details>
+
+<details><summary>Keith</summary>
+
+By the lord of the field  
+As by a friend may we win  
+What nourishes our kine and horses;  
+May he be [2] favourable to such as we are.
+</details>
+
+<details><summary>Keith</summary>
+
+O lord of the field, the honey-bearing wave,  
+As a cow milk, so for us milk;  
+May the lords of right graciously accord us  
+That which drops honey and is well purified like ghee.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With the lord of the field, as with an ally, we conquer;  
+may he, making cow and horse thrive, be gracious to us for such [wealth].
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+// With the Lord of the Field, as with a friend, we conquer;  
+bringing cattle and horses to thrive, may he be gracious to us in such [a plight]!
+</details>
+
+<details><summary>Geldner</summary>
+
+Durch den Herrn der Flur gewinnen wir wie durch einen guten Freund eine Flur, die Rind und Roß nährt. Möge er unsereinem gnädig sein.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Wir mögen durch den Feldesherrn, wie durch einen lieben Freund, Rind und Ross, und was uns nährt, erlangen; er sei hold solchen, wie wir sind.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Благодаря господину Поля,  
+Как с помощью доброго (друга) мы покоряем (Поле),  
+Кормящее скотину (и) коней.  
+Да смилуется он над таким, как мы!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- क्षेत्रपतिः
+- वामदेवो गौतमः
+- अनुष्टुप्
+- गान्धारः
+</details>

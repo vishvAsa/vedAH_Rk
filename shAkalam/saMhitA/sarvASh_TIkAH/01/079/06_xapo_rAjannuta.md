@@ -1,0 +1,443 @@
++++
+title = "006"
+devataa = "अग्निः"
+RShiH = "गोतमो राहूगणः"
+ChandaH = "उष्णिक्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - गोतमो राहूगणः
+- छन्दः - उष्णिक्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+क्षपो᳓ राजन्न् उत᳓ त्म᳓ना  
+अ᳓ग्ने व᳓स्तोर् उतो᳓ष᳓सः  
+स᳓ तिग्मजम्भ रक्ष᳓सो दह प्र᳓ति
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic on metrical evidence alone
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+kṣapáḥ ← kṣáp- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+rājan ← rā́jan- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vástoḥ ← vástu- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+daha ← √dah- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+práti ← práti (invariable)  
+{}
+
+rakṣásaḥ ← rakṣás- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+tigmajambha ← tigmájambha- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्ष॒पो रा॑जन्नु॒त त्मनाग्ने॒ वस्तो॑रु॒तोषसः॑ ।  
+स ति॑ग्मजम्भ र॒क्षसो॑ दह॒ प्रति॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+क्ष॒पो रा॑जन्नु॒त त्मनाग्ने॒ वस्तो॑रु॒तोषसः॑ ।    
+स ति॑ग्मजम्भ [14]  र॒क्षसो॑ दह॒ प्रति॑ ।
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+क्षपो᳓ राजन्न् उत᳓ त्म᳓ना᳓ग्ने व᳓स्तोर् उतो᳓ष᳓सः  
+स᳓ तिग्मजम्भ रक्ष᳓सो दह प्र᳓ति
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+क्षपो राजन्नुत त्मनाग्ने वस्तोरुतोषसः।  
+स तिग्मजम्भ रक्षसो दह प्रति
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्ष॒पः । रा॒ज॒न् । उ॒त । त्मना॑ । अग्ने॑ । वस्तोः॑ । उ॒त । उ॒षसः॑ ।  
+सः । ति॒ग्म॒ऽज॒म्भ॒ । र॒क्षसः॑ । द॒ह॒ । प्रति॑ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+क्ष॒पः। रा॒ज॒न्। उ॒त। त्मना॑। अग्ने॑। वस्तोः॑। उ॒त। उ॒षसः॑। सः। ति॒ग्म॒ज॒म्भेति॑ तिग्मऽजम्भ। र॒क्षसः॑। द॒ह॒। प्रति॑। ३७।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+क्ष॒पः। रा॒ज॒न्। उ॒त। त्मना॑। अग्ने॑। वस्तोः॑। उ॒त। उ॒षसः॑। सः। ति॒ग्म॒ज॒म्भेति॑ तिग्मऽजम्भ। र॒क्षसः॑। द॒ह॒। प्रति॑। १९।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- क्षपः᳓ (*TS*-1, *RV*-5/8, *SB-K*-0/1, *VS-M*-1, *VS-K*-1)
+- राजन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-19, *RV*-42, *TB*-10, *AV*-18, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-2, *KS*-7)
+- उत᳓ (*TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-70, *KS*-55)
+- त्म᳓ना (*TS*-9, *RV*-63/72, *TB*-1/2, *TK*-1, *AV*-4, *SB-M*-3/4, *SB-K*-5/6, *VS-M*-7, *VS-K*-10, *KS*-3)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-91, *VS-K*-91/93, *KS*-72/73)
+- व᳓स्तोः (*TS*-3/4, *RV*-22/27, *TB*-3/5, *AV*-4/6, *SB-M*-1/4, *SB-K*-1/3, *VS-M*-4, *VS-K*-4/6, *KS*-3)
+- उत᳓ (*TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-70, *KS*-55)
+- उष᳓सः (*TS*-9/20, *RV*-127/237, *TB*-2/13, *TK*-0/1, *AV*-19/39, *SB-M*-4/12, *SB-K*-4/11, *VS-M*-10/21, *VS-K*-6/17, *KS*-5/6)
+- सः᳓ (*TS*-766/4763, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/768, *VS-K*-91/624, *KS*-225/1225)
+- तिग्म-जम्भ (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- रक्ष᳓सः (*TS*-4/11, *RV*-30/32, *TB*-1, *AV*-10/11, *SB-M*-1, *SB-K*-1/4, *VS-M*-4, *VS-K*-3/4, *KS*-2)
+- दह (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-13, *TB*-3, *AV*-11, *SB-M*-2, *VS-M*-2, *VS-K*-2, *KS*-1)
+- प्र᳓ति (*TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-18, *KS*-58)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- क्षपः᳓ (*MS*-1, *TS*-1, *RV*-5/8, *SB-K*-0/1, *VS-M*-1, *VS-K*-1)
+- राज᳓न् (*Whitney*, *RV*-0/1, *TB*-1, *SB-M*-7, *SB-K*-7, *VS-K*-1)
+- उत᳓ (*Whitney*, *Lanman*, *MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- त्म᳓ना (*MS*-8, *TS*-9, *RV*-63/72, *TB*-1/2, *TK*-1, *AV*-4, *SB-M*-3/4, *SB-K*-5/6, *VS-M*-7, *VS-K*-10)
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- व᳓स्तोः (*MS*-6/7, *TS*-3/4, *RV*-22/27, *TB*-3/5, *AV*-4/6, *SB-M*-1/4, *SB-K*-1/3, *VS-M*-4, *VS-K*-5/7)
+- उत᳓ (*Whitney*, *Lanman*, *MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- उष᳓सः (*MS*-14/31, *TS*-9/20, *RV*-127/237, *TB*-2/13, *TK*-0/1, *AV*-19/39, *SB-M*-4/12, *SB-K*-4/11, *VS-M*-10/21, *VS-K*-6/18)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- तिग्म-जम्भ (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- रक्ष᳓सः (*MS*-5, *TS*-4/10, *RV*-30/32, *TB*-1, *AV*-10/11, *SB-M*-1, *SB-K*-1/4, *VS-M*-4, *VS-K*-3/4)
+- दह (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-1, *RV*-13, *TB*-3, *AV*-11, *SB-M*-2, *VS-M*-2, *VS-K*-2)
+- प्र᳓ति (*MS*-265, *TS*-334, *RV*-247, *TB*-230, *TK*-11, *AV*-196, *SB-M*-523, *SB-K*-530, *VS-M*-1, *VS-K*-1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *kṣapo* ← *kṣapaḥ* ← *kṣap*
+- \[noun\], genitive, singular, feminine
+- “night.”
+
+_________
+
+- *rājann* ← *rājan*
+- \[noun\], vocative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+
+_________
+
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+
+_________
+
+- *tmanāgne* ← *tmanā* ← *tman*
+- \[noun\], instrumental, singular, masculine
+- “self.”
+
+_________
+
+- *tmanāgne* ← *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *vastor* ← *vastoḥ* ← *vastu*
+- \[noun\], genitive, singular, feminine
+- “dawn.”
+
+_________
+
+- *utoṣasaḥ* ← *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+
+_________
+
+- *utoṣasaḥ* ← *uṣasaḥ* ← *uṣas*
+- \[noun\], genitive, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+
+_________
+
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *tigmajambha* ← *tigma*
+- \[noun\]
+- “sharp; pointed; fiery.”
+
+_________
+
+- *tigmajambha* ← *jambha*
+- \[noun\], vocative, singular, masculine
+- “Jambha; citron; jaw; tooth; molar; back tooth.”
+
+_________
+
+- *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
+- \[noun\], accusative, plural, masculine
+- “Rākṣasa.”
+
+_________
+
+- *daha* ← *dah*
+- \[verb\], singular, Present imperative
+- “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
+    distress; destroy.”
+
+_________
+
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+उत- अपि च। राजन्। तिग्मजम्भ- तीक्ष्णमुख। अग्ने। वस्तोरुषसः- दिवारात्रम्। रक्षसः। त्मना-  अध्यात्मवीर्येण। क्षपः- बाधस्व। प्रति- प्रत्येकम्। दह॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **राजन्** राजनशील **अग्ने** **क्षपः** क्षपय । राक्षसादीन् स्वकीयैः पुरुषैर्बाधस्व । **उत** अपि  च **त्मना** न केवलमन्यैरेव आत्मना च तान् बाधस्व । कदेति चेत् उच्यते। **वस्तोः** सर्वाण्यहानि **उत** अपि च **उषसः** उषःकालोपलक्षिता रात्रीः । अत्यन्तसंयोगे द्वितीया । सर्वेष्वहःसु सर्वासु रात्रिषु चेत्यर्थः । हे **तिग्मजम्भ** तीक्ष्णमुखाग्ने **रक्षसः** राक्षसानुक्तप्रकारेण क्षपयित्वा **सः** एव त्वं **प्रति** **दह** प्रत्येकं दह । न किंचिद्दग्धव्यमित्युदास्वेत्यर्थः । क्षपः । ‘ क्षप क्षान्त्याम्'। लोडर्थे छान्दसो लङ् । 'छन्दस्युभयथा ' इति शप आर्धधातुकत्वात् ' णेरनिटि ' इति णिलोपः । उदात्तनिवृत्तिस्वरेण शप उदात्तत्वम् । त्मना । ' मन्त्रेष्वाङ्यादेरात्मनः' इति आकारलोपः । रक्षसः । ‘ रक्ष पालने । रक्षितव्यमस्मादिति रक्षः । भीमादित्वात् ( पा. सू. ३. ४. ७४ ) अपादाने असिप्रत्ययः । क्षरतेर्वा ण्यन्तात् असिप्रत्यये णिलोपो वर्णविपर्ययश्च । अस्य च रक्षःशब्दस्य असिप्रत्ययान्तत्वात् प्रत्ययस्वर एव शिष्यते ॥ ॥ २७ ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+क्षपो राजन्। यस् त्वं क्षपः क्षपयिता। हे राजन्। रक्षसाम् उत त्मना। अप्य् आत्मनैव स्वभावत एव।  
+हे अग्ने, वस्तोः [[सहसंबन्धिनां|अहः-संबन्धिनां]] रक्षसाम् उत उषसः अपि उषसः संबन्धिनाम् सः।  
+हे तिग्मजम्भ वज्र-दंष्ट्र। तिग्मम् इति वज्र-नाम। जम्भेति दंष्ट्रा-नाम। रक्षसो दह।  
+प्रति प्रत्येकम्॥ ३७॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हे राजन् दीप्यमान, हे तिग्म-जम्भ तिग्मा तीक्ष्णा जम्भा दंष्ट्रा यस्य।  
+यद् वा तिग्मम् इति वज्र-नाम।  
+हे वज्र-दंष्ट्र अग्ने, वस्तोः [[अयःसंबन्धिनः|अहः-संबन्धिनः]] उतापि उषसः उषः-काल-संबन्धिनो रक्षसो रक्षांसि राक्षसान् स त्वं प्रतिदह प्रत्येकं भस्मीकुरु।  
+लिङ्ग-व्यत्ययेन रक्षः-शब्दस्य पुंस्त्वम्।  
+‘छन्दसि परे ऽपि’ ([[पा.|पा॰]] १. ४. ८१) इति प्रत्य्-उपसर्गस्य क्रिया-पदात् परत्वम्।  
+कीदृशस् त्वम्।  
+त्मना [[उप|उत]] आत्मनापि स्वभावतो ऽपि।  
+क्षपः क्षपयतीति क्षपः ‘क्षप क्षेपे’ चुरादिः पचाद्य्-अच्।  
+स्वभावतो रक्षसां क्षपयिता।  
+‘[[मन्त्रेष्वाड्यादेरात्मनः|मन्त्रेष्व् आङ्यादेर् आत्मनः]]’ (पा॰ ६। ४.१४१) इति आत्मन आकार-लोपस् तृतीयैक-वचने॥ ३७॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ तृतीया - ' क्षपो राजन्नुत [[मनाने|त्मना]] वस्तोर् उतोषसः । स तिग्म-जम्भ रक्षसो दह प्रति ' इति ।  
+हे अग्ने, वस्तोः अहनि रक्षसः राक्षसान् ' क्षपः क्षपय । उत अपि च ' उषसः उषःकालानपि क्षपय ।  
+द्वितीयाया अत्यन्त-संयोग-वाचित्वात् सर्वेष्वहःसु सर्वेष्व् अपि उषःकालेषु राक्षसान् विनाशयेत्यर्थः ।  
+हे राजन् [[दीप्यमानाने|दीप्यमानाग्ने]], न केवलं स्वकीयसेनामुखेन रक्षसां क्षपणम् ।  
+उत ' त्मना आत्मनापि स्वयम् अपि क्षपयेति ।  
+मुख-विदारण-वाचिना जम्भ-शब्देन ज्वाला उपलक्ष्यन्ते ।  
+तिग्मास्तीक्ष्णा जम्भा ज्वाला यस्यासौ तिग्म-जम्भः ।  
+हे तिग्म-जम्भ [[वज्रदंष्ट्र|वज्र-दंष्ट्र]], सः त्वं रक्षसः राक्षसान् प्रति प्रत्य्-एकं दह भस्मीकुरु ॥ १९ ॥  
+' आ क्षपो राजन् " इति । उष्णिग् आग्नेयी । हे श्रीभगवन् अग्ने, हे राजन्, हे दीप्ति-रूप हे तिग्म-जम्भ । तिग्मम् इति वज्र-नाम, जम्भम् इति दंष्ट्रा-नाम । हे वज्र-दंष्ट्र, यस्त्वं ' क्षपः उत अपि च स्वभावतः दुष्टस्य क्षपः क्षपयिता । वस्तोर् इति रात्रि-नाम । वस्तोः रात्र्याः संबन्धिनः ' रक्षसः च क्षपः क्षपयिता । त्मना आत्मना तव तेजो-रूपेण उषसः संबन्धिनः रक्षसः रक्षांसि राक्षसान् प्रति प्रत्येकं दह । दह भस्मीकरणे । भस्मसात् कुरु ॥ १९ ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हेऽग्ने वस्तोरहानि क्षपः क्षपय ।   उतापि चोषस उषःकालानपि क्षपय द्वितीयाया अत्यन्तसंयोगवाचित्वात्सर्वेष्वप्युषःकालेषु राक्षसान्विनाशयेत्यर्थः ।   हे राजन्दीप्यमानाग्ने न केवलं स्वकीयसेनामुखेन रक्षसां क्षषणं त्मनाऽपि स्वबमपि क्षपयेति ।   मुखविदारणवाचिना जम्भशब्देन ज्वाला उपलक्ष्यन्ते ।   तिग्मारतीक्ष्णा जम्भा यस्यासौ तिग्मजम्भः ।   हे तिग्मजम्भ स त्वं रक्षसो राक्षसान् ( प्रति ) दह भस्मी कुरु ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[598_6]** Vgl. RV 1, 79, 6; MS 2, 13, 8; TS 4, 4, 4, 5; VS 15, 37. (Cf. RV 1, 79, 6; MS 2, 13, 8; TS 4, 4, 4, 5; VS 15, 37)
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (तिग्मजम्भ) तीक्ष्ण अवयवों के चलानेवाले (राजन्) प्रकाशमान (अग्ने) विद्वान् जन ! (सः) सो पूर्वोक्त गुणयुक्त आप जैसे तीक्ष्ण तेजयुक्त अग्नि (क्षपः) रात्रियों (उत) और (वस्तोः) दिन के (उत) ही (उषसः) प्रभात और सायंकाल के प्रकाश को उत्पन्न करता है, वैसे (त्मना) तीक्ष्णस्वभावयुक्त अपने आत्मा से (रक्षसः) दुष्ट जनों को रात्रि के समान (प्रतिदह) निश्चय करके भस्म कीजिये ॥३७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। मनुष्यों को चाहिये कि जैसे प्रभात, दिन और रात्रि का निमित्त अग्नि को जानते हैं, वैसे राजा न्याय के प्रकाश और अन्याय की निवृत्ति का हेतु है, ऐसा जानें ॥३७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनः स कीदृश इत्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे तिग्मजम्भ राजन्नग्ने ! स त्वं यथा तीक्ष्णतेजा अग्निः क्षप उत वस्तोरुतोषसो जनयति तथा सुशिक्षां जनय रक्षसस्तम इव तीव्रत्मना प्रति दह ॥३७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। मनुष्यैर्यथा प्रभातस्य दिनस्य रात्रेश्च निमित्तमग्निर्विज्ञायते तथा राजा न्यायप्रकाशस्यान्यायनिवृत्तेश्च हेतुरस्तीति वेद्यम् ॥३७ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा अग्नी हा दिवस आणि रात्र होण्याचे निमित्त आहे तसा राजा हा न्यायी असून अन्यायाचे निवारण करणारा असला पाहिजे हे माणसांनी जाणावे.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Shining **Agni**, drive off (all disturbers of the rite), either by yourself or (your servants) whether by day or by night; sharp-visaged Agni, destroy the **rākṣasas** entirely.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Through the nights in your own person, King Agni, and at the dawning  of dawn,  
+o sharp-fanged one, burn against the demons.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+I take the point of the double utá construction (probably, with Klein DGRV 359, a nonce based on ca … ca) to be the contrast of the two time periods: at night Agni must burn against the demons by himself (tmánā), but when Dawn comes, her light helps him out.
+</details>
+
+<details><summary>Griffith</summary>
+
+O Agni, shining of thyself by night and when the morning breaks,  
+     Burn, thou whose teeth are sharp, against the Raksasas.
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni, lord of the night,  
+And of the morning, and of the dawn,  
+Do thou burn against the Raksases with sharp jaws.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+by day and at dawn;  
+as such, sharp-jawed, burn against the demons.
+</details>
+
+<details><summary>Gemini 3.8 Flash (काठकम्)</summary>
+
+and through yourself over daybreak and dawns,  
+sharp-jawed, burn down the demons in return!
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Reigning 1 by night by thy own power, O Agni, and at the break of dawn, O god with sharp teeth, burn against the sorcerers.
+</details>
+
+<details><summary>Geldner</summary>
+
+Du König selbst bei Nacht und auch bei Aufgang der Morgenröte, o Agni, versenge, du Scharfzahniger, die Dunkelmänner!
+</details>
+
+<details><summary>Grassmann</summary>
+
+O der du strahlst bei Nacht zumal, o Agni, und beim Morgenlicht, O scharfgezahnter, die Gespenster setz in Brand.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+(Ты,) царствующий в ночи, а также,  
+Когда зажигается утренняя заря, о Агни,  
+(Бог) с острыми зубьями, сожги ракшасов!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- गोतमो राहूगणः
+- निचृदार्ष्युष्णिक्
+- ऋषभः
+
+- अग्निर्देवता
+- परमेष्ठी ऋषिः
+- निचृदुष्णिक्
+- ऋषभः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर वह कैसा हो, इस विषय का उपदेश अगले मन्त्र में किया है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (तिग्मजम्भ) तीव्र मुख से बोलनेहारे (अग्ने) विद्वन् ! (राजन्) न्याय विनय से प्रकाशमान तू (त्मना) अपने आत्मा से जैसे सूर्य (क्षपः) रात्रियों को निवर्त्त करके (सः) वह (वस्तोः) दिन (उत) और (उषसः) प्रभातों को विद्यमान करता है, वैसे धार्मिक सज्जनों में विद्या और विनय का प्रकाश कर (उत) और (रक्षसः) दुष्टाचारियों को (प्रतिदह) प्रत्यक्ष दग्ध कर ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जैसे सविता निकट प्राप्त जगत् को प्रकाशित कर वृष्टि करके सब जगत् की रक्षा और अन्धकार का निवारण करता है, वैसे सज्जन राजा लोग धार्मिकों की रक्षा कर दुष्टों के दण्ड से राज्य की रक्षा करें ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे तिग्मजम्भाऽग्ने राजँस्त्वं त्मना यथा सूर्यः क्षपो निवर्त्योत स वस्तोरुषसो भावं करोति तथा धार्मिकेषु सज्जनेषु विद्याविनयौ प्रकाश्योत रक्षसः प्रति दह ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनः स कीदृश इत्युपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (क्षपः) रात्रीः (राजन्) न्यायविनयाभ्यां प्रकाशमान (उत) अपि (त्मना) आत्मना (अग्ने) विद्वन् (वस्तोः) दिनस्य (उत) अपि (उषसः) प्रत्यूषकालस्य (तिग्मजम्भ) तिग्मं तीव्रं जम्भं वक्त्रं यस्य तत्सम्बुद्धौ (रक्षसः) दुष्टान् (दह) (प्रति) ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। यथा सविता सन्निहितं जगत् प्रकाश्य वृष्टिं कृत्वा सर्वं रक्षति तमो निवारयति राजानो धार्मिकान् संरक्ष्य दुष्टान् दण्डयित्वा राज्यं रक्षन्तु ॥ ६ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा जवळ असलेल्या स्थळांना सूर्य प्रकाशित करतो. वृष्टी करून सर्व जगाचे रक्षण व अंधकाराचे निवारण करतो तसे सज्जन राजेलोकांनी धार्मिकांचे रक्षण करून दुष्टांना दंड देऊन राज्याचे रक्षण करावे. ॥ ६ ॥
+</details>

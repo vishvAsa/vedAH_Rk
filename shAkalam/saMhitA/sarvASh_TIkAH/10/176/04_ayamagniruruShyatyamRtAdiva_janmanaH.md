@@ -1,0 +1,286 @@
++++
+title = "004"
+devataa = "अग्निः"
+RShiH = "सूनुरार्भवः"
+ChandaH = "अनुष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - सूनुरार्भवः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अय᳓म् अग्नि᳓र् उरुष्यति  
+अमृ᳓ताद् इव ज᳓न्मनः  
+स᳓हसश् चिद् स᳓हीयान्  
+देवो᳓ जीवा᳓तवे कृतः᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+uruṣyati ← √uruṣy- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+amŕ̥tāt ← amŕ̥ta- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jánmanaḥ ← jánman- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+cit ← cit (invariable)  
+{}
+
+sáhasaḥ ← sáhas- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+sáhīyān ← sáhīyaṁs- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+deváḥ ← devá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+jīvā́tave ← jīvā́tu- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+kr̥táḥ ← √kr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यम॒ग्निरु॑रुष्यत्य॒मृता॑दिव॒ जन्म॑नः ।  
+सह॑सश्चि॒त्सही॑यान्दे॒वो जी॒वात॑वे कृ॒तः ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अयमग्निरुरुष्यत्यमृतादिव जन्मनः।  
+सहसश्चित्सहीयान्देवो जीवातवे कृतः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । अ॒ग्निः । उ॒रु॒ष्य॒ति॒ । अ॒मृता॑त्ऽइव । जन्म॑नः ।  
+सह॑सः । चि॒त् । सही॑यान् । दे॒वः । जी॒वात॑वे । कृ॒तः ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अ॒यम् । अ॒ग्निः । उ॒रु॒ष्य॒ति॒ । अ॒मृता॑त् । इ॒व॒ । जन्म॑नः ॥ सह॑सः । चि॒त् । सही॑यान् । दे॒वः । जी॒वात॑वे । कृ॒तः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अय᳓म् (*MW*, *MS*-133/1379, *TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-77/319, *VS-K*-70/301)
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- उरुष्यति (समानान्तर-पाठः (TS), *TS*-1, *RV*-2, *MS*-1)
+- अमृ᳓तादिव (*RV*-1)
+- ज᳓न्मनः (*MS*-1/24, *TS*-1/12, *RV*-4/32, *TB*-0/13, *AV*-0/4, *SB-M*-0/12, *SB-K*-0/10, *VS-M*-0/3, *VS-K*-0/2)
+- स᳓हसः (*MS*-9/43, *TS*-7/35, *RV*-27/122, *TB*-1/28, *TK*-1/4, *AV*-4/50, *SB-M*-1/21, *SB-K*-1/24, *VS-M*-4/28, *VS-K*-5/40)
+- चित् (अनुदात्तम्, पा॰ ८.१.१८, *MS*-46, *TS*-32, *RV*-690, *TB*-10, *TK*-3, *AV*-96, *SB-M*-77, *SB-K*-106, *VS-M*-28, *VS-K*-26)
+- स᳓हीयान् (*MS*-1, *TS*-1, *RV*-2, *TK*-3, *AV*-3)
+- देवः᳓ (*MS*-104/1216, *TS*-66/1023, *RV*-210/1342, *TB*-49/582, *TK*-2/32, *AV*-94/707, *SB-M*-86/2031, *SB-K*-81/1945, *VS-M*-65/528, *VS-K*-65/523)
+- जीवा᳓तवे (*MS*-1/5, *TS*-6/9, *RV*-7/12, *AV*-2/4, *SB-M*-1/6, *SB-K*-1/8, *VS-M*-1/2, *VS-K*-1/3)
+- कृतः᳓ (*MS*-3/17, *TS*-2/12, *RV*-9/77, *TB*-0/7, *AV*-6/43, *SB-M*-2/34, *SB-K*-5/41, *VS-M*-2/13, *VS-K*-1/9)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ayam* ← *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *agnir* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *uruṣyaty* ← *uruṣyati* ← *uruṣy*
+- \[verb\], singular, Present indikative
+- “protect; help.”
+
+_________
+
+- *amṛtād* ← *amṛtāt* ← *amṛta*
+- \[noun\], ablative, singular, masculine
+- “immortal; amṛta; imperishable.”
+
+_________
+
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *janmanaḥ* ← *janman*
+- \[noun\], ablative, singular, neuter
+- “birth; reincarnation; lineage; origin; race; metempsychosis;
+    parentage; descent; appearance; age; birthplace; beginning; being.”
+
+_________
+
+- *sahasaś* ← *sahasaḥ* ← *sahas*
+- \[noun\], ablative, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+
+_________
+
+- *cit*
+- \[adverb\]
+- “even; indeed.”
+
+_________
+
+- *sahīyān* ← *sahīyas*
+- \[noun\], nominative, singular, masculine
+- “mighty.”
+
+_________
+
+- *devo* ← *devaḥ* ← *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *jīvātave* ← *jīvātu*
+- \[noun\], dative, singular, feminine
+- “life.”
+
+_________
+
+- *kṛtaḥ* ← *kṛ*
+- \[verb noun\], nominative, singular
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषः। अग्निः- पावकः सर्वभूतहितक्रतुः। अमृतादिव- अमरादिव। जन्मनः- मर्त्यादपि।  उरुष्यति- रक्षति। सहसः सहीयान्- बलिनामपि बली। देवः। जीवातवे- अस्माकमुज्जीवनाय।  कृतः॥४॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अयमग्निः** **अमृतात्** अमरणाद्देवाद्देवनिमित्ताद्भयादिव **जन्मनः** जायमानात् मनुष्यात् मनुष्यनिमित्ताद्भयादपि **उरुष्यति** तस्माद्रक्षति ॥ ‘ उरुष्यती रक्षाकर्मा ' ( निरु. ५. २३) इति यास्कः । भाववाचिनोऽमृतशब्दस्य नञा बहुव्रीहौ ‘नञो जरमरमित्रमृताः' इत्युत्तरपदाद्युदात्तत्वम् । ‘ भीत्रार्थानाम् (पा. सू. १. ४, २५) इत्यपादानसंज्ञा ॥ अपि चायं **देवः** सहसश्चित् ॥ सह इति बलनाम । तस्मादुत्तरस्य मत्वर्थीयस्य ‘ बहुलं छन्दसि' इति लुक् ॥ चिच्छब्दोऽप्यर्थे । सहस्वतो बलवतोऽपि **सहीयान्** बलवत्तरः ॥ सहस्विशब्दादीयसुनि • विन्मतोः' इति विनो लुक् । टेः ' इति टिलोपः ॥ एवंभूतो देवः **जीवातवे** जीवनहेतवे यागाय **कृतः** ब्रह्मणा सृष्टः ॥ ॥ ३४ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+3अथ तृतीया - अयमग्निरित्यनुष्टुप् ॥ अयं प्रणीयमानोग्निरुरुष्यति रक्षति यागं रक्षःप्रभृतिभ्यः । यद्वा - रक्षत्यात्मानं आ समाप्तेरविनाशो वर्तिष्यते । अमृतादिव जन्मनः यथा अमृतादविद्यमानमरणात् जन्महेतोरविनाशोयं स्तुतो भवति । एवमस्मादाहवनीयाज्जातत्वान्नस्य विनाश इति । उरुष्यतिः कण्ड्वादिः 'नञो जरमर' इत्यमृतशब्दस्योत्तृरपदाद्युदात्तत्वम् । सहसश्चित्सहीयान् । सहो बलम् । मत्वर्थीयो लुप्यते । चिच्छब्दोप्यर्थे । बलवद्भ्योपि बलवत्तरः । सहस्वच्छब्दादीयसुनि 'विन्मतोर्लुक्' इति लुक्, 'टेः' इति टिलोपः । देवः दीप्तिमान् । जीवातवे जीवनहेतवे यागाय कृतः प्रणीतः । सोयमग्निः उरुष्यति ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“This **Agni** saves from peril caused by man as (well as) from peril caused by the immortals, a godstronger than strength, created for life-producing (sacrifice).”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+This Agni delivers himself from his immortal birth, as it were.  
+Stronger even than strength, the god was created for living.
+</details>
+
+<details><summary>Griffith</summary>
+
+This Agni rescues from distress, as 'twere from the Immortal Race,  
+     A God yet mightier than strength, a God who hath been made for life.
+</details>
+
+<details><summary>Keith</summary>
+
+This Agni rescueth  
+Us from the immortal race,  
+He that is stronger than strength,  
+The god made for life.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+This Agni delivers from immortal birth, as it were;  
+mightier even than might, the god is made for life.
+</details>
+
+<details><summary>Geldner</summary>
+
+Dieser Agni sucht das Weite vor der Geburt, wie vor dem Unsterblichen. Der Gott, der gewaltiger als selbst der Gewaltige, ist zum Leben geschaffen.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der Agni hier hilft aus der Noth selbst vor dem göttlichen Geschlecht; Der stärker ist als Stärke selbst, der Gott zum Leben recht gemacht.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Этот Агни стремится на простор  
+С (самого) рождения, как будто (бежит) от бессмертия.  
+Сильнее даже сильного,  
+(Этот) бог создан для жизни.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सूनुरार्भवः
+- विराडनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अयम्-अग्निः) यह अग्रणेता परमेश्वर या सूर्य (अमृतात्-इव जन्मनः) अमृतजन्म मोक्ष से-मोक्ष प्रदान करके (उरुष्यति) हमारी रक्षा करता है (सहसः-चित्) बल का भी (सहीयान् देवः) अतिशय बलवान् देव परमेश्वर या सूर्य (जीवातवे कृतः) स्वकीय अमर जीवन पाने के लिए हमारे द्वारा स्वीकृत किया-आक्षित या उपासित या सेवित किया गया ॥४॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  परमात्मा मोक्ष प्रदान करके आत्मा को अमर बनाता है, वह सब बलवानों का बलवान् है, उससे अमर जीवन पाने के लिए उसकी उपासना करनी चाहिए तथा सूर्य भी बड़ा बलवान् है, उसका सेवन भी दीर्घ जीवन प्रदान करता है ॥४॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अयम्-अग्निः) एषोऽग्रणेता परमेश्वरः सूर्यो वा (अमृतात्-इव जन्मनः) न मृतं मरणं भवति तस्माज्जन्मतः-अमरजन्मतः-अमरजन्म मोक्षं प्रदाय “ल्यब्लोपे पञ्चम्युपसंख्यानम्” (उरुष्यति) अस्मान् रक्षति “सूर्यद्वारेण ते विरजाः प्रयान्ति” [मुण्डको० १।२।११] (सहसः-चित् सहीयान् देवः) बलवतोऽपि खल्वतिशयेन बलवान् देवः परमेश्वरः सूर्यो वा (जीवातवे कृतः) स्वकीयामरजीवनायास्माभिरङ्गीकृतः-आश्रित उपासितः सेवितो वा ॥४॥
+</details>

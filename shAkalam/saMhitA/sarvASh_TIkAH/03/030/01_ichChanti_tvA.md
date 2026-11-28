@@ -1,0 +1,440 @@
++++
+title = "001"
+devataa = "इन्द्रः"
+RShiH = "गाथिनो विश्वामित्रः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - गाथिनो विश्वामित्रः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+इछ᳓न्ति त्वा सोमिया᳓सः स᳓खायः  
+सुन्व᳓न्ति सो᳓मं द᳓धति प्र᳓यांसि  
+ति᳓तिक्षन्ते अभि᳓शस्तिं ज᳓नानाम्  
+इ᳓न्द्र त्व᳓द् आ᳓ क᳓श् चन᳓ हि᳓ प्रकेतः᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+ichánti ← √iṣ- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+sákhāyaḥ ← sákhi- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+somyā́saḥ ← somyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+dádhati ← √dhā- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+práyāṁsi ← práyas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+sunvánti ← √su- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+abhíśastim ← abhíśasti- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jánānām ← jána- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+títikṣante ← √tij- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED, mood:DES}
+
+ā́ ← ā́ (invariable)  
+{}
+
+caná ← caná (invariable)  
+{}
+
+hí ← hí (invariable)  
+{}
+
+índra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+káḥ ← ká- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+praketáḥ ← praketá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvát ← tvám (pronoun)  
+{case:ABL, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒च्छन्ति॑ त्वा सो॒म्यासः॒ सखा॑यः सु॒न्वन्ति॒ सोमं॒ दध॑ति॒ प्रयां॑सि ।  
+तिति॑क्षन्ते अ॒भिश॑स्तिं॒ जना॑ना॒मिन्द्र॒ त्वदा कश्च॒न हि प्र॑के॒तः ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+इ॒च्छन्ति॑ त्वा सो॒म्यासः॒ सखा॑यः सु॒न्वन्ति॒ सोमं॒ दध॑ति॒ प्रयाँ॑सि।  
+तिति॑क्षन्तेऽअ॒भिश॑स्तिं॒ जना॑ना॒मिन्द्र॒ त्वदा कश्च॒न हि प्र॑के॒तः ॥१८ ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒च्छन्ति॑ । त्वा॒ । सो॒म्यासः॑ । सखा॑यः । सु॒न्वन्ति॑ । सोम॑म् । दध॑ति । प्रयां॑सि ।  
+तिति॑क्षन्ते । अ॒भिऽश॑स्तिम् । जना॑नाम् । इन्द्र॑ । त्वत् । आ । कः । च॒न । हि । प्र॒ऽके॒तः ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+इ॒च्छन्ति॑। त्वा॒। सो॒म्यासः॑। सखा॑यः। सु॒न्वन्ति॑। सोम॑म्। दध॑ति। प्रयाँ॑सि। तिति॑क्षन्ते॑। अ॒भिश॑स्ति॒मित्य॒भिऽश॑स्तिम्। जना॑नाम्। इन्द्र॑। त्वत्। आ। कः। च॒न। हि। प्र॒के॒त इति॑ प्रऽके॒तः। १८।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+इ॒च्छन्ति॑। त्वा॒। सो॒म्यासः॑। सखा॑यः। सु॒न्वन्ति॑। सोम॑म्। दध॑ति। प्रयाँ॑सि। तिति॑क्षन्ते॑। अ॒भिश॑स्ति॒मित्य॒भिऽश॑स्तिम्। जना॑नाम्। इन्द्र॑। त्वत्। आ। कः। च॒न। हि। प्र॒के॒त इति॑ प्रऽके॒तः। १२।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *icchanti* ← *iṣ*
+- \[verb\], plural, Present indikative
+- “desire; recommend; approve; seek; call; search; try; prefer; love;
+    commend; assent; permit; choose.”
+
+_________
+
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+
+_________
+
+- *somyāsaḥ* ← *somya*
+- \[noun\], nominative, plural, masculine
+- “saumya.”
+
+_________
+
+- *sakhāyaḥ* ← *sakhi*
+- \[noun\], nominative, plural, masculine
+- “friend; companion; sakhi \[word\].”
+
+_________
+
+- *sunvanti* ← *su*
+- \[verb\], plural, Present indikative
+- “press out; su.”
+
+_________
+
+- *somaṃ* ← *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+
+_________
+
+- *dadhati* ← *dhā*
+- \[verb\], plural, Present indikative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+
+_________
+
+- *prayāṃsi* ← *prayas*
+- \[noun\], accusative, plural, neuter
+- “food; dainty; enjoyment.”
+
+_________
+
+- *titikṣante* ← *titikṣ* ← *√tij*
+- \[verb\], plural, Present indikative
+- “endure.”
+
+_________
+
+- *abhiśastiṃ* ← *abhiśastim* ← *abhiśasti*
+- \[noun\], accusative, singular, feminine
+- “hex; accusation; defamation; blame; aspersion.”
+
+_________
+
+- *janānām* ← *jana*
+- \[noun\], genitive, plural, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+
+_________
+
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *tvad* ← *tvat* ← *tvad*
+- \[noun\], ablative, singular
+- “you.”
+
+_________
+
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *kaścana*
+- \[noun\], nominative, singular, masculine
+- “some(a); any(a); some(a); any(a).”
+
+_________
+
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+
+_________
+
+- *praketaḥ* ← *praketa*
+- \[noun\], nominative, singular, masculine
+- “sight; knowledge; appearance.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सोम्यासः- रसनिष्पादकाः। सखायः- सुहृदः। त्वा- भवन्तम्। इच्छन्ति- कामयन्ते। सोमम्-  रसम्। सुन्वन्ति- निष्पादयन्ति। प्रयांसि- हव्यानि। दधति- यच्छन्ति। जनानाम्। अभिशस्तिम्-  स्वविषये नानाविधभाषणम्। तितिक्षन्ते- सहन्ते। इन्द्र- ईशनाधिदैवत। विषयवासनानां  संस्काराणां वशीकरणबलस्याधिदेवतैवेन्द्रः। आधिभौतिके भावे वृष्ट्युत्पादकशत्तयधिदेवता। त्वत्-  त्वत्तः। प्रकेतः- प्रज्ञावान्। कश्चन- कोस्ति॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+विश्वामित्रः स्तौति । हे **इन्द्र** **सोम्यासः** सोमार्हा ब्राह्मणाः **त्वा** त्वां शंसितुम् **इच्छन्ति** अत एव **सखायः** ते ब्राह्मणास्त्वदर्थं **सोमं** **सुन्वन्ति** अभिषुण्वन्ति । **प्रयांसि** इतराण्यपि हवींषि **दधति** त्वदर्थं धारयन्ति । त्वया प्रेरिताः सन्तः **जनानां** सपत्नानाम् **अभिशस्तिं** तत्कृतां हिंसां **तितिक्षन्ते** सहन्ते । एवमनुग्राहकः **त्वत्** त्वत्तोऽन्यः **कश्चन** **हि** को नाम पुरुषः खलु **आ** **प्रकेतः** सर्वतो जगति । प्रकेत्यते ज्ञाप्यत इति प्रकेतः । प्रज्ञापितः विद्यते ॥ सोग्यासः । सोममर्हतीत्यर्थे ' सोममर्हति यः' इति यः । प्रत्ययस्वरः । सुन्वन्ति । षुञ् अभिषवे'। स्वादित्वात् श्नुः। ‘सति शिष्टस्वरो बलीयान् ' इति झिप्रत्ययस्वर: । दधति । दधातेर्लटि रूपम् । ' समानवाक्ये युष्मदस्मदादेशनिघाताः ' ( पा. सू. ८. १. १८. ५. ) इति सोमपदस्य इतरवाक्येन अन्वयान्न निघातः । ‘अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । तितिक्षन्ते । ‘तिज निशाने ' इत्यस्य क्षमायां ‘गुप्तिज्किद्यः्य सन्' इति सन् । अभ्यस्तस्वरः । अभिशस्तिम् । शसु हिंसायाम् ' इत्यस्मात् भावे क्तिन् । ' तादौ च निति कृत्यतौ ' इति गतेः प्रकृतिस्वरत्वम् । प्रकेतः । ‘कित ज्ञाने'। कर्मणि घञ्° ।' थाथघञ्क्त ' इत्यन्तोदात्तत्वम् ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+इच्छन्ति त्वा। इच्छन्ति त्वाम्। सोम्यासः सोम-संपादिनः। सखायः समान-ख्यानाः। कथं समान-ख्यानाः।  
+श्रुतौ ‘द्वया वै देवाः [[अहैवं|अहैव]] देवाः अथ ये ब्राह्मणाः शुश्रुवांसो ऽनूचानास् ते मनुष्य-देवाः’ इति।  
+केन प्रकारेण इच्छन्ति।  
+सुन्वन्ति अभिषुण्वन्ति सोमम्।  
+दधति प्रयांसि।  
+प्रय इत्य् अन्न-नाम।  
+धारयन्ति च हविर्-लक्षणान्य् अन्नानि।  
+किंच।  
+तितिक्षन्ते अभिशस्तिं जनानाम्।  
+मनो-वाक्-काय-संयताः क्षान्ति-पराः।  
+अभिशस्तिं दुर्वचनं जनानां सहन्ते।  
+अथैवं त्वाम् इच्छताम् हे इन्द्र, त्वत् त्वत्तः [[सकाशातासमन्ताद्भावेन|सकाशात् आ समन्ताद्-भावेन]]।  
+कः चन। चनो निपातो ऽप्य्-अर्थे। हिर् अनर्थकः।  
+को ऽपि प्रकेतः प्रज्ञान-विशेषः अत्यर्थं भवति।  
+यजमानानाम् इति शेषः॥ १८॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+हे इन्द्र, त्वत् त्वत्तः सकाशात् कश् चन।  
+चन-शब्दो ऽप्य्-अर्थे।  
+को ऽपि लोकोत्तरः प्रकेतः प्रकृष्टो ज्ञान-विशेषः आ समन्तात् हि यतो भवति अतः सखायो विप्राः त्वाम् इच्छन्ति॥  
+‘अथ ये ब्राह्मणाः शुश्रुवाᳪं᳭सो ऽनूचानास् ते मनुष्य-देवाः’ इत्य् उक्तेर् देवानां विप्राणां च सखित्वम्।  
+किं-भूताः सखायः।  
+सोम्यासः सोम-संपादिनः।  
+इच्छन्तीति कथं ज्ञातं तत्राह।  
+यतस् ते सोमं सुन्वन्ति अभिषुण्वन्ति प्रयांसि अन्नानि दधति च।  
+प्रय इत्य् अन्न-नाम। हवींषि धारयन्ति। किं।  
+जनानाम् अभिशस्तिं दुर्वचनं तितिक्षन्ते सहन्ते मनो-वाक्-काय-संयताः क्षान्ति-परा इत्य् अर्थः॥१८॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+सोम्यासः [[सोमार्हाः|सोमाह्रॉः]] सखायः समान-ख्यानाः यजमानाः, हे इन्द्र !  
+त्वाम् एव इच्छन्ति यष्टुं कामयन्ते ।  
+ततः सोमं सुन्वन्ति ग्रावभिः अभिषुण्वन्ति ।  
+तथा प्रयांसि 'प्रय' इति अन्न-नाम, पशु-पुरोडाश-लक्षणानि हवींषि दधति धारयन्ति ।
+
+सोमेन हविर्-भिश्च त्वाम् एव यजन्तीति भावः ततो यजमाना जनानाम् इतरेषाम् अभिशस्तिम् अपवाद-लक्षणं दुर्वचनं तितिक्षन्ते मनो-वाक्-काय-संयमनवन्तो भूत्वा सहन्ते इत्य् अर्थः ।
+
+हे इन्द्र त्वत्तः सकाशात् कश्चन को ऽपि प्रकेतः 'केत' इति प्रज्ञा-नाम, दैवत-भाव-विषयो ज्ञान-विशेषः, आत्म-निष्ठावतां यजमानानाम् आगच्छतीत्य् अर्थः ।  
+उपसर्ग-श्रुतेर् योग्य-क्रियाध्याहारः ।  
+'हि' प्रसिद्धौ यद् वा 'हि' शब्दो हेतौ ।  
+यस्मात् त्वत्तः अन्यः को ऽपि प्रज्ञावान् नास्ति, अतस् त्वाम् एव यजमाना यष्टुं कामयन्ते इत्य् अर्थः ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+हे [[भगवन्-नग्ने|भगवन्न् अग्ने]] हे देव, त्वम् ।  
+तव त्वदीयैः ।  
+पायुभिः [[ 'पालनै|पालनैः]] धैर्यावलम्बिभिः ।  
+नः अस्माकम् । मघोनः इन्द्रस्य । तन्वः शरीरम् । व्यत्ययः । तनूः शरीराणि रक्ष ।  
+यद् वा मघोनः हविर्-लक्षण-धनवतः ।  
+नः अस्मान् रक्ष, मत्-सम्बन्धिनीस् तनूश् च रक्ष ।  
+हे वन्द्य, तोकस्य [[अस्माक - मपत्यस्य|अस्माकम् अपत्यस्य]] तन्वः ।  
+त्राता रक्षितासि । तनये गवाम् । व्यत्ययः ।  
+गवादीनां च तनयस्य अपत्यस्य च ।  
+अनिमेषं निरन्तरं त्वम् एव त्रातासि ।  
+एवं तव व्रते आज्ञा-कर्मणि वर्तमानः, त्वया रक्षमाणः रक्ष्यमाणो ऽहम् ।  
+[[त्वामेत्र|त्वाम् एव]] स्तौमीति शेषः ॥ ७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+अब आप्त का लक्षण कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (इन्द्र) सभाध्यक्ष राजन् ! जो (सोम्यासः) ऐश्वर्य होने में उत्तम स्वभाववाले (सखायः) मित्र हुए (सोमम्) ऐश्वर्यादि को (सुन्वन्ति) सिद्ध करते (प्रयांसि) चाहने योग्य विज्ञानादि गुणों को (दधति) धारण करते और (जनानाम्) मनुष्यों के (अभिशस्तिम्) दुर्वचन, वाद-विवाद को (आ, तितिक्षन्ते) अच्छे प्रकार सहते हैं, उनका आप निरन्तर सत्कार कीजिये। (हि) जिस कारण (त्वत्) आपसे (प्रकेतः) उत्तम बुद्धिमान् (कः, चन) कोई भी नहीं, इससे (त्वा) आपको सब लोग (इच्छन्ति) चाहते हैं ॥१८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य इस संसार में निन्दा-स्तुति और हानि-लाभादि को सहनेवाले पुरुषार्थी सबके साथ मित्रता का आचरण करते हुए आप्त हों, वे सबको सेवने और सत्कार करने योग्य हैं तथा वे ही सबके अध्यापक और उपदेशक होवें ॥१८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+अथाप्तलक्षणमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे इन्द्र ! ये सोम्यासः सखायः सोमं सुन्वन्ति प्रयांसि दधति जनानामभिशस्तिमा तितिक्षन्ते च। तांस्त्वं सततं सत्कुरु, हि यतस्त्वत् प्रकेतः कश्चन नास्ति, तस्मात् सर्वे त्वा त्वामिच्छन्ति ॥१८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये मनुष्या इह निन्दास्तुतिहानिलाभादीन् तितिक्षवः पुरुषार्थिनः सर्वैः सह मैत्रीमाचरन्त आप्ताः स्युस्ते सर्वैः सेवनीयाः सत्कर्त्तव्याश्च, त एव सर्वेषामध्यापका उपदेष्टारश्च स्युः ॥१८ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जी माणसे या जगात निंदा, स्तुती, हानी, लाभ सहन करतात. पुरुषार्थी बनून सर्वांबरोबर मैत्रीपूर्ण व्यवहार करतात ते खरे आप्त असतात व ते सत्कार करण्यायोग्य असतात. अशा लोकांनीच अध्यापक व उपदेशक व्हावे.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The bearers of the libations desire you; your friends pour forth the **Soma**; they offer copious oblations; (supported by) you they endure patiently the calumny of men, for who is so renowned as you are.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+They desire you, your comrades in soma; they press the soma; they set  out pleasurable offerings.  
+They endure the taunting of the people, for, Indra, there is no sign  
+from you.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+The desid. títikṣante used to be assigned to √tij ‘sharpen’ (e.g., Wh Rts, Grassmann), but has for quite awhile been taken to √tyaj ‘abandon’ instead. See EWA s.v. TEJ and TYAJ, Gotō (1st cl., 165-66 n. 268), and in some detail Heenen (Desid. 59-60 and 147-48). Curiously Witzel Gotō render it as (if) an intensive to √tij: “Sie schärfen (sich) immer wieder (gegen) …,” despite Gotō’s own published views to the contrary. (In the Witzel Gotō tr., acdg. to the title pg., Maṇḍala III is Witzel’s responsibility, however, which may account for the discrepancy.) The desiderative stem has the idiomatic sense ‘endure, support’, and the semantic channel from (putatively) ‘desire to abandon’ to this idiom is not entirely clear. I am not convinced by the suggestions of either Gotō or Heenen (59-60). Instead, I think the middle voice is the key: if we assume a reflexive ‘abandon oneself to’, ‘give oneself over to’, it is not difficult to imagine this development.
+
+The sense of the final pāda depends on the meaning of praketáḥ, and like many derivatives of √cit this word is slippery. In my view, it means both ‘sign’ and ‘insight’ (that is, it reflects both the ‘appear’ and ‘perceive’ values of √cit). In this particular passage I take it in the former value; the point is that Indra is showing no sign of his presence or imminent arrival, and so we are subject to abuse from our rivals. For a similar usage cf. II.17.7, where the poet beseeches Indra for good fortune, and then demands kṛdhí praketám “make a visible sign,” further asking for him to bring the good fortune here. In X.104.6 Indra is himself called the adhvarásya praketáḥ “the visible sign of the ceremony.” Geldner interpr. the word as Losung (‘motto, watchword, password’), which is, I suppose, possible, but I don’t understand what it would mean here; Renou as “le signe-pré(monitoire),” which is somewhat opaque to me, but seems closer to my interpr than Geldner’s; Oldenberg as “Helle” (light, brightness). Witzel Gotō take it as an agent noun: “Wahrnehmer.”
+</details>
+
+<details><summary>Griffith</summary>
+
+THE friends who offer Soma long to find thee: they pour forth Soma and present their viands.  
+     They bear unmoved the cursing of the people, for all our wisdom comes from thee, O Indra.
+</details>
+
+<details><summary>Geldner</summary>
+
+Nach dir verlangen die somawürdigen Freunde; sie pressen Soma aus, sie bereiten das Opfermahl. Sie trotzen der üblen Nachrede der Leute, denn außer dir gibt es keine Losung, o Indra.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Dir streben zu mit Soma die Genossen, sie pressen Soma, reichen dar die Speisen; Sie wehren ab von sich den Fluch der Menschen; denn jede Einsicht kommt von dir, o Indra.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Ищут тебя друзья, занятые сомой.  
+Они выжимают сому. Они готовят жертвенные услады.  
+Они отвращают проклятья людей.  
+О Индра, от тебя (бы) хоть какой-нибудь знак!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गोपवन आत्रेयः सप्तवध्रिर्वा
+- निचृत्त्रिष्टुप्
+- धैवतः
+
+- इन्द्रो देवता
+- देवश्रवा देववातश्च भारतावृषी
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब तृतीयाष्टक के द्वितीय अध्याय और तीसरे मण्डल में बाईस ऋचावाले तीसवें सूक्त का प्रारम्भ है। उसके पहिले मन्त्र से विद्वान् के कर्त्तव्य का उपदेश करते हैं।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (इन्द्र) परमऐश्वर्य के दाता ! जो (सोम्यासः) परस्पर स्नेह रस के वर्द्धक (सखायः) मित्रभाव से वर्त्तमान (त्वा) आपकी (इच्छन्ति) इच्छा करते हैं वे (सोमम्) परम ऐश्वर्य को (सुन्वन्ति) सिद्ध करते (प्रयांसि) कामना करने योग्य वस्तुओं को (दधति) धारण करते और (जनानाम्) मनुष्य लोगों की (अभिशस्तिम्) चारों ओर से हिंसा को (आ) (तितक्षन्ते) सहते हैं (हि) जिससे (त्वत्) आपसे अन्य (कः) (चन) कोई भी पुरुष (प्रकेतः) उत्तम बुद्धिवाला नहीं है, इससे इन मनुष्यों की सर्वदा रक्षा कीजिये ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो लोग परस्पर मित्रभाव से वर्त्ताव करते हुए प्रयत्न के साथ ऐश्वर्य की इच्छा करते हैं, वे सुख दुःख निन्दा आदि को सह और विद्वानों का सङ्ग करके आनन्द को बढ़ावें ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे इन्द्र ! ये सोम्यासः सखायस्त्वेच्छन्ति ते सोमं सुन्वन्ति प्रयांसि दधति जनानामभिशस्तिमा तितिक्षन्ते हि यतस्त्वदन्यः कश्चन प्रकेतो नास्ति तस्मादेतान्सर्वदा रक्ष ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथ विदुषः कृत्यमुपदिश्यते।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (इच्छन्ति) (त्वा) त्वाम् (सोम्यासः) (सखायः) (सुन्वन्ति) निष्पादयन्ति (सोमम्) परमैश्वर्य्यम् (दधति) (प्रयांसि) कमनीयानि वस्तूनि (तितिक्षन्ते) सहन्ते (अभिशस्तिम्) अभितो हिंसाम् (जनानाम्) मनुष्याणाम् (इन्द्र) परमैश्वर्यप्रद (त्वत्) तव सकाशात् (आ) (कः) (चन) कश्चिदपि (हि) यतः (प्रकेतः) प्रकृष्टा केतः प्रज्ञा यस्य सः ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये सुहृदो भूत्वा प्रयत्नेनैश्वर्यमिच्छन्ति ते सुखदुःखनिन्दादिकं सोढ्वा विद्वत्सङ्गं कृत्वाऽऽनन्दं वर्धयेयुः ॥१॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - विषयः</summary>
+
+या सूक्तात इंद्र व विद्वानांच्या कृत्याचे वर्णन असल्यामुळे या सूक्तात सांगितलेल्या अर्थाची पूर्व सूक्तार्थाबरोबर संगती जाणावी.
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जे लोक परस्पर मित्रभावाने वागून प्रयत्नाने ऐश्वर्याची इच्छा बाळगतात त्यांनी सुख, दुःख, निंदा इत्यादी सहन करून विद्वानांच्या संगतीने आनंद वाढवावा. ॥ १ ॥
+</details>

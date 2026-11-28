@@ -1,0 +1,571 @@
++++
+title = "011"
+devataa = "इषवः"
+RShiH = "पायुर्भारद्वाजः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इषवः
+- ऋषिः - पायुर्भारद्वाजः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+सुपर्णं᳓ वस्ते मृगो᳓ अस्या द᳓न्तो  
+गो᳓भिः सं᳓नद्धा पतति प्र᳓सूता  
+य᳓त्रा न᳓रः सं᳓ च वि᳓ च द्र᳓वन्ति  
+त᳓त्रास्म᳓भ्यम् इ᳓षवः श᳓र्म यंसन्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+asyāḥ ← ayám (pronoun)  
+{case:ABL, gender:F, number:SG}
+
+dántaḥ ← dánta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+mr̥gáḥ ← mr̥gá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suparṇám ← suparṇá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vaste ← √vas- 2 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+góbhiḥ ← gáv- ~ gó- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+patati ← √pat- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prásūtā ← √sū- 1 (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+sáṁnaddhā ← √nah- (root)  
+{case:NOM, gender:F, number:SG, non-finite:PPP}
+
+ca ← ca (invariable)  
+{}
+
+ca ← ca (invariable)  
+{}
+
+drávanti ← √dru- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+náraḥ ← nár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+sám ← sám (invariable)  
+{}
+
+ví ← ví (invariable)  
+{}
+
+yátra ← yátra (invariable)  
+{}
+
+asmábhyam ← ahám (pronoun)  
+{case:DAT, number:PL}
+
+íṣavaḥ ← íṣu- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+śárma ← śárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+tátra ← tátra (invariable)  
+{}
+
+yaṁsan ← √yam- (root)  
+{number:PL, person:3, mood:SBJV, tense:AOR, voice:ACT}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+सु॒प॒र्णं व॑स्ते मृ॒गो अ॑स्या॒ दन्तो॒ गोभिः॒ सन्न॑द्धा पतति॒ प्रसू॑ता ।  
+यत्रा॒ नरः॒ सं च॒ वि च॒ द्रव॑न्ति॒ तत्रा॒स्मभ्य॒मिष॑वः॒ शर्म॑ यंसन् ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+सु॒प॒र्णं व॑स्ते मृ॒गोऽअ॑स्या॒ दन्तो॒ गोभिः॒ सन्न॑द्धा पतति॒ प्रसू॑ता।  
+यत्रा॒ नरः॒ सं च॒ वि च॒ द्रव॑न्ति॒ तत्रा॒स्माभ्य॒मिष॑वः॒ शर्म॑ यँसन् ॥४८ ॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+सु॒प॒र्णं व॑स्ते मृ॒गो अ॑स्या॒ दन्तो॒ गोभिः॒ संन॑द्धा पतति॒ प्रसू॑ता । 
+यत्रा॒ नरः॒ सं च॒ वि च॒ द्रव॑न्ति॒ तत्रा॒स्मभ्य॒मिष॑वः॒ शर्म॑ यँसन् ॥८॥ १९
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+सु॒प॒र्णव्ँव॑स्ते मृ॒गो अ॑स्या॒ दन्तो॒ गोभि॒स्सन्न॑द्धा पतति॒ प्रसू॑ता ।  
+यत्रा॒ नर॒स्सञ्च॒ वि च॒ द्रव॑न्ति॒ तत्रा॒स्मभ्य॒मिष॑व॒श्शर्म॑ यँसन्न् ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+सपर्णं वस्ते मृगो अस्या दन्तो गोभिस्सन्नद्वा पतति प्रसूता।  
+यत्रा नरस्सं च वि च द्रवन्ति तत्रास्मभ्यमिषवश्शर्म यँसन्
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+सुपर्णं वस्ते मृगो अस्या दन्तो  
+गोभिः संनद्धा पतति प्रसूता ।  
+यत्रा नरः सं च वि च द्रवन्ति  
+तद् अस्मभ्यम् इषवः शर्म यच्छान् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒ऽप॒र्णम् । व॒स्ते॒ । मृ॒गः । अ॒स्याः॒ । दन्तः॑ । गोभिः॑ । सम्ऽन॑द्धा । प॒त॒ति॒ । प्रऽसू॑ता ।  
+यत्र॑ । नरः॑ । सम् । च॒ । वि । च॒ । द्रव॑न्ति । तत्र॑ । अ॒स्मभ्य॑म् । इष॑वः । शर्म॑ । यं॒स॒न् ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+सु॒प॒र्णमिति॑ सुऽप॒र्णम्। व॒स्ते॒। मृ॒गः। अ॒स्याः॒। दन्तः॑। गोभिः॑। सन्न॒द्धेति सम्ऽन॑द्धा। प॒त॒ति॒। प्रसू॒तेति॒ प्रऽसू॑ता। यत्र॒। नरः॑। सम्। च॒। वि। च॒। द्रव॑न्ति। तत्र॑। अ॒स्मभ्य॑म्। इष॑वः। शर्म॑। यँ॒स॒न्। ४८।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+सु॒प॒र्णमिति॑ सुऽप॒र्णम्। व॒स्ते॒। मृ॒गः। अ॒स्याः॒। दन्तः॑। गोभिः॑। सन्न॒द्धेति सम्ऽन॑द्धा। प॒त॒ति॒। प्रसू॒तेति॒ प्रऽसू॑ता। यत्र॒। नरः॑। सम्। च॒। वि। च॒। द्रव॑न्ति। तत्र॑। अ॒स्मभ्य॑म्। इष॑वः। शर्म॑। यँ॒स॒न्। ८।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- स᳓पर्णम् (अनाम्नातम् (अनुमानम्))
+- वस्ते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-6, *TB*-1, *AV*-4, *SB-M*-2, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- मृगः᳓ (*MS*-3/5, *TS*-2/5, *RV*-15/34, *AV*-8/23, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-3, *VS-K*-2)
+- अस्याः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-35, *TS*-14, *RV*-22, *TB*-3, *AV*-37, *SB-M*-48, *SB-K*-59, *VS-M*-4, *VS-K*-6)
+- द᳓न्तः (*MS*-1/4, *TS*-1/2, *RV*-1/2, *TB*-0/1, *AV*-0/9, *SB-M*-2/5, *SB-K*-2/6, *VS-M*-1, *VS-K*-1)
+- गो᳓भिः (*MS*-14/149, *TS*-6/108, *RV*-73/521, *TB*-6/76, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/67, *VS-K*-7/67)
+- सन्न᳓ (*Whitney*, *Lanman*, *MS*-2, *TS*-1, *TK*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- द्वा᳓ (*MS*-4/72, *TS*-1/102, *RV*-17/39, *TB*-1/36, *TK*-0/1, *AV*-4/29, *SB-M*-2/342, *SB-K*-6/315, *VS-M*-1/6, *VS-K*-0/5)
+- पतति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-3, *RV*-3, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-K*-1)
+- प्र᳓-सूता (*MS*-1/4, *TS*-2/4, *RV*-2/7, *TB*-1/8, *AV*-1/4, *SB-M*-3/12, *SB-K*-2/12, *VS-M*-1/4, *VS-K*-1/2)
+- य᳓त्रा (*MS*-7/106, *TS*-1/40, *RV*-0/123, *TB*-2/39, *TK*-0/2, *AV*-0/88, *SB-M*-1/376, *SB-K*-1/363, *VS-M*-0/46, *VS-K*-2/44)
+- न᳓रः (*MS*-15/25, *TS*-14/19, *RV*-127/286, *TB*-8/13, *TK*-1, *AV*-15/32, *SB-M*-11/18, *SB-K*-10/18, *VS-M*-5/11, *VS-K*-4/10)
+- स᳓म् (*MW*, *MS*-668, *TS*-547, *RV*-608, *TB*-367, *TK*-14, *AV*-562, *SB-M*-1536, *SB-K*-1517, *VS-M*-187, *VS-K*-144)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- द्र᳓वन्ति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1, *TS*-1, *RV*-2, *VS-K*-1)
+- त᳓त्र (*MS*-20, *TS*-14, *RV*-22, *TB*-30, *TK*-1, *AV*-62, *SB-M*-211, *SB-K*-207, *VS-M*-7, *VS-K*-7)
+- अस्म᳓-भ्यम् (*MS*-33/641, *TS*-21/565, *RV*-119/1308, *TB*-12/270, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/728, *VS-M*-15/315, *VS-K*-20/274)
+- इ᳓षवः (*MS*-8/24, *TS*-12/30, *RV*-3/11, *TB*-0/2, *AV*-17/43, *SB-M*-10/24, *SB-K*-11/25, *VS-M*-8/10, *VS-K*-9/13)
+- श᳓र्म (*MS*-35/37, *TS*-39/41, *RV*-93/111, *TB*-12/13, *AV*-44/46, *SB-M*-20/21, *SB-K*-20/21, *VS-M*-13/23, *VS-K*-10/19)
+- यंसन् (*MS*-1, *TS*-1, *RV*-4, *VS-M*-1, *VS-K*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- सु-पर्ण᳓म् (*TS*-3/17, *RV*-5/29, *TB*-0/1, *AV*-5/33, *SB-M*-5/21, *SB-K*-5/22, *VS-M*-2/11, *VS-K*-2/10, *KS*-0/2, *MS*-1/15)
+- वस्ते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-2, *RV*-6, *TB*-1, *AV*-4, *SB-M*-2, *SB-K*-3, *VS-M*-1, *VS-K*-1, *MS*-2)
+- मृगः᳓ (*TS*-2/5, *RV*-15/34, *AV*-8/23, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-3, *VS-K*-2, *MS*-3)
+- अस्याः (अन्वादेशे अनुदात्तम्, पा॰ २.४.३२, *TS*-14, *RV*-22, *TB*-3, *AV*-37, *SB-M*-48, *SB-K*-59, *VS-M*-4, *VS-K*-6, *KS*-4, *MS*-34)
+- द᳓न्तः (*TS*-1/2, *RV*-1/2, *TB*-0/1, *AV*-0/9, *SB-M*-2/5, *SB-K*-2/6, *VS-M*-1, *VS-K*-1, *KS*-0/1, *MS*-1/4)
+- गो᳓भिः (*TS*-6/109, *RV*-73/521, *TB*-2/50, *AV*-19/195, *SB-M*-5/168, *SB-K*-5/149, *VS-M*-9/67, *VS-K*-7/67, *KS*-0/13, *MS*-11/141)
+- स᳓म्-नद्धा (*TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- पतति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-3, *RV*-3, *AV*-2, *SB-M*-2, *SB-K*-2, *VS-K*-1, *MS*-2)
+- प्र᳓-सूता (*TS*-2/4, *RV*-2/7, *TB*-1/7, *AV*-1/4, *SB-M*-3/12, *SB-K*-2/12, *VS-M*-1/4, *VS-K*-1/2, *KS*-0/1, *MS*-1/4)
+- य᳓त्रा (*TS*-1, *SB-M*-1/3, *SB-K*-1/4, *VS-K*-2/4, *MS*-5/7)
+- न᳓रः (*TS*-14/19, *RV*-127/286, *TB*-4/5, *AV*-15/32, *SB-M*-11/18, *SB-K*-10/18, *VS-M*-5/11, *VS-K*-4/10, *KS*-0/3, *MS*-12/21)
+- स᳓म् (*MW*, *TS*-547, *RV*-608, *TB*-324, *TK*-14, *AV*-562, *SB-M*-1539, *SB-K*-1539, *VS-M*-187, *VS-K*-144, *KS*-121, *MS*-627)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-164, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-639, *VS-M*-142, *VS-K*-127, *KS*-61, *MS*-503)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *TS*-1411, *RV*-1096, *TB*-493, *TK*-145, *AV*-1417, *SB-M*-3025, *SB-K*-2896, *VS-M*-920, *VS-K*-681, *KS*-655, *MS*-1588)
+- द्र᳓वन्ति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *TS*-1, *RV*-2, *VS-K*-1, *MS*-1)
+- त᳓त् (*TS*-687/4765, *RV*-552/3136, *TB*-591/2598, *TK*-43/357, *AV*-391/3165, *SB-M*-6430/20461, *SB-K*-6142/20301, *VS-M*-120/780, *VS-K*-90/650, *KS*-122/996, *MS*-1115/5417)
+- अस्म᳓-भ्यम् (*TS*-21/566, *RV*-119/1308, *TB*-8/211, *TK*-0/66, *AV*-30/1252, *SB-M*-16/723, *SB-K*-11/758, *VS-M*-15/315, *VS-K*-20/274, *KS*-5/135, *MS*-29/587)
+- इ᳓षवः (*TS*-12/30, *RV*-3/11, *TB*-0/2, *AV*-17/43, *SB-M*-10/24, *SB-K*-11/25, *VS-M*-8/10, *VS-K*-9/13, *KS*-4/5, *MS*-8/23)
+- श᳓र्म (*TS*-39/41, *RV*-93/111, *TB*-8/9, *AV*-44/46, *SB-M*-20/21, *SB-K*-20/21, *VS-M*-13/23, *VS-K*-10/19, *KS*-13, *MS*-30/31)
+- य᳓च्छान् (*VS-K*-0/1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *suparṇaṃ* ← *suparṇam* ← *suparṇa*
+- \[noun\], accusative, singular, masculine
+- “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
+
+_________
+
+- *vaste* ← *vas*
+- \[verb\], singular, Present indikative
+- “wear.”
+
+_________
+
+- *mṛgo* ← *mṛgaḥ* ← *mṛga*
+- \[noun\], nominative, singular, masculine
+- “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
+
+_________
+
+- *asyā* ← *asyāḥ* ← *idam*
+- \[noun\], genitive, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *danto* ← *dantaḥ* ← *danta*
+- \[noun\], nominative, singular, masculine
+- “tooth; tusk; ivory; danta \[word\]; peak; tooth.”
+
+_________
+
+- *gobhiḥ* ← *go*
+- \[noun\], instrumental, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+
+_________
+
+- *saṃnaddhā* ← *saṃnah* ← *√nah*
+- \[verb noun\], nominative, singular
+- “arm; bind; prepare.”
+
+_________
+
+- *patati* ← *pat*
+- \[verb\], singular, Present indikative
+- “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
+    throw; lodge; disappear.”
+
+_________
+
+- *prasūtā* ← *prasū* ← *√sū*
+- \[verb noun\], nominative, singular
+- “give birth; be born; originate; impel; propel; grow.”
+
+_________
+
+- *yatrā* ← *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+
+_________
+
+- *naraḥ* ← *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+
+_________
+
+- *saṃ* ← *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *dravanti* ← *dru*
+- \[verb\], plural, Present indikative
+- “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
+    dissolve.”
+
+_________
+
+- *tatrāsmabhyam* ← *tatra*
+- \[adverb\]
+- “there; now; then; then; there; in that place; then; locative;
+    respectively; there; tatra \[word\]; inside; therefore.”
+
+_________
+
+- *tatrāsmabhyam* ← *asmabhyam* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *iṣavaḥ* ← *iṣu*
+- \[noun\], nominative, plural, feminine
+- “arrow; iṣu \[word\]; iṣ; five; munj.”
+
+_________
+
+- *śarma* ← *śarman*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+
+_________
+
+- *yaṃsan* ← *yam*
+- \[verb\], plural, Aorist conj./subj.
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सुपर्णं- शोभनपर्णम्। वस्ते- धारयति। अस्याः- एतस्या इषोः। दन्तः। मृगः- शत्रून् मार्गते।  गोभिः- ज्यासम्बद्धेति सायणः। प्रसूता- प्रेरिता। पतति। यत्र। नरः- नेतारः। सम्- सङ्गत्य च।  वि च- पृथक् च। द्रवन्ति- चरन्ति। तत्र। अस्मभ्यम्- नः। इषवः। शर्म- क्षेमम्। यंसन्-  यच्छन्तु॥११॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अस्यामृचि इषवः स्तूयन्ते । **सुपर्णं** शोभनं वाजं **वस्ते** । इयमिषुर्धारयति । **अस्याः** इषोः **मृगः** मृगावयवः शृङ्गं **दन्तः** भवति । इषवः काश्चित् दन्तमुखा भवन्ति हि । अथवा अस्या दन्तो मृगः शत्रून् मृगयमाणो भवति । किंच **गोभिः** गोविकारैः स्नायुभिः **संनद्धा** सम्यक् बद्धा । अथवा गौरिति ज्यानाम । तया संबद्धा । अत्र वचनव्यत्ययः । तथा च निगमः - ‘ वृक्षेवृक्षे नियता मीमयद्गौः ' (ऋ. सं. १०. २७. २२ ) इति । अस्यायमर्थः । वृक्षेवृक्षे धनुषि धनुषि गौर्ज्या नियता मीमयत् शब्दं करोतीति । तथा च यास्कः – 'वृक्षवृक्षे धनुषि धनुषि । वृक्षो व्रश्चनात् वृत्वा क्षां तिष्ठतीति वा । क्षा क्षियतेर्निवासकर्मणः । नियता मीमयद्गौः शब्दं करोति । मीमयतिः शब्दकर्मा ' (निरु. २.६) इति । **प्रसूता** प्रेरिता सती **पतति** । **यत्र** युद्धे **नरः** **सं** **च** सह च **वि** **च** पृथक् च **द्रवन्ति** चरन्ति **तत्र** **अस्मभ्यम्** **इषवः** शराः **शर्म** सुखं **यंसन्** प्रयछन्तु। तथा च यास्कः – ‘सुपर्णं वस्त इति वाजानभिप्रेत्य मृगमयोऽस्या दन्तो मृगयतेर्वा गोभिः संनद्धा पतति प्रसूतेति व्याख्यातम् । यत्र नराः संद्रवन्ति च विद्रवन्ति च तत्रास्मभ्यमिषवः शर्म शरणं प्रयच्छन्तु' (निरु. ९.१९) इति ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+सुपर्णं वस्ते।  
+द्वाभ्यां त्रिष्टुब्-अनुष्टुब्भ्याम् इषुं स्तौति।  
+या सुपर्णं वस्ते सुपर्णः पक्षौ तद्-विकारः सौपर्णम् इति भवति।  
+तत्र कृत्स्नवन् निगमः।  
+राजानम् अभिप्रेत्य।  
+मृगो अस्या दन्तः यस्याश् चास्या इषोः मृगो दन्तः फलं मृगयतेर् मृगः।  
+स हि वेध्यं मृगयते।  
+या च गोभिः संनद्धा गो-विकारैः श्लेष्म-स्नायुभिः संनद्धा।  
+पतति शत्रु-बलं प्रति।  
+प्रसूता प्रेरिता धनुष्मता सा इषुः।  
+यत्र नरः सं च वि च द्रवन्ति संगच्छन्ति विगच्छन्ति च तत्र अस्मभ्यम् इषवः इषुर् इति सन्नतिः।  
+शर्म शरणम् यंसत् यच्छत्व् इति सन्नतिः॥ ४८॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+द्वाभ्याम् इषुं स्तौति।  
+आद्या [[त्रिष्टुपन्त्यानुष्टुप्|त्रिष्टुब् अन्त्यानुष्टुप्]]।  
+या इषुः [[सुपर्ण|सुपर्णं]] पक्षि-पिच्छं वस्ते परिधत्ते।  
+‘वस परिधाने’ शोभनं पर्णं पिच्छं यस्य स सुपर्णः पक्षी तस्य विकारः सौपर्णम् तत्र ‘कृत्स्नवन् निगमा भवन्ति’ (निरु॰ २। ५) इति यास्कोक्तेः सुपर्ण-शब्देन तत्-पिच्छं गृह्यते।  
+बाण-पुच्छे पिच्छस्यारोप्यमाणत्वात्।  
+किं च अस्या इषोः दन्तः फलं।  
+मृगः मृगयते ऽन्विष्यति रिपून् हन्तुम् इति मृगः ‘मृग मार्गणे’ चुरादिर् अदन्तः पचाद्य् अच् ‘मृगो मृगयतेः’ (निरु. ९. १९) इति यास्कः।  
+शल्यं हि वेध्यं मृगयते।  
+किं च या इषुः गोभिः गो-विकारैः स्नायुभिः संनद्धा बद्धा प्रसूता धनुष्मता प्रेरिता सती पतति शत्रु-बलं प्रति गच्छति।  
+किं च यत्र नरो योद्धारः संद्रवन्ति च सम्यक् गच्छन्ति विद्रवन्ति च विविधं प्रसरन्ति।  
+चौ समुच्चये।  
+तत्र रणे इषवः बाणाः अस्मभ्यं शर्म सुखं यंसन् यच्छन्तु।  
+‘यमु [[उपरमे|उपरमे’]] लेटि तिप इ-लोपे ऽडागमे [[ऽसिब्बहुलं|‘सिब्बहुलं]] लेटि’ (पा. ३. १. ३४) इति सिबागमे यंसन्न् इति रूपम्।  
+सुखं ददतु॥४८॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पितृसंबन्धिनी येयम् इषुः प्रशस्यतेऽस्या इषोः  
+**सुपर्णं** पृष्ठे ऽवस्थितं शोभनं पतन्तं भागं  
+**वस्त** आच्छादयति।   
+अथास्या इषोर् दन्तः शल्यं **मृग-दन्तवत्** तीक्ष्णं,
+सेयम् इषुर् गो-संबन्धिभिः संनद्धा दृढं बद्धा।  
+तादृशेयमिषुः प्रसूता पितृभिः प्रेरिता सती पतति सहसा गच्छति।  
+कुत्रेति तदुच्यते नरः पुरुषा योद्धारो यत्र यस्मिन्परसैन्ये सं च वि च द्रवन्ति प्रथममुत्सुकाः सन्तः प्राष्नुवन्ति पश्चाद्भीताः सन्तः पलायन्ते च, तत्रेयमिषुः पततीति पूर्वत्रान्वयः।  
+तादृश्यः पितॄणामिषवोऽस्यभ्यं शर्म यंसन्सुखं यच्छन्तु।  
+।
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+“सुपर्णम्" इत्य् अयं "स्वादुषं सद" इति [[पितन्|पितॄन्]] समुपतिष्ठत इत्यापस्तम्बोक्तानां मध्ये तृतीयः लिङ्गः, अत्र तु इषु-क्षेपणे —
+> सु । पर्णम् । वस्ते । मृगः । अस्याः । दन्तः । गोभिः । सम् । [[नद् वा|नद्धा]] । पतति । प्र । सूता ॥  
+> यत्र । नरः । सम् । च । वि । च । द्रवन्ति । तत्र । अस्मभ्यम् । इषवः । शर्म । यंसन् ॥ १६ ॥
+
+अस्या इषोः सु-पर्णं पुच्छ-भाग-स्थितं शोभनं पर्णं वस्ते तं भागम् आच्छादयति ।  
+अथ अस्याः इषोः दन्तः शल्यः मृगः मृग-दन्त-वत् अति-तीक्ष्णः, सेयम् इषुः गोभिः गो-सम्बन्धिभिः सन्नद्धा सम्यक् बद्धा, प्रसूता [[मौर्योत्पादिता तयानुज्ञाता|मौर्व्या उत्पादिता तया अनुज्ञाता]] पतति शत्रुषु गच्छति ।  
+अथ बाहुवद् आह — यत्र यस्मिन् संग्रामे नरः सं च वि च द्रवन्ति इतस्ततो गच्छन्ति आगच्छन्ति च, तत्र तस्मिन् देशे पतित्वा अस्मभ्यं शर्म सुखं यंसन् ददतु ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+[ मा. [[२६।४८|२९।४८]]. ] [[. या|या]] इषुः सुपर्णम् ।  
+सुपर्णः पक्षी वस्ते ।  
+पुंस्त्व-निबन्धनार्थम् इति [[इषं|इषुं]] स्तौति ।  
+इषु-देवत्या त्रिष्टुप् । [[सुपर्णे|सुपर्णं]] वस्ते । तद्-विकारः सौपर्णस् तम् । वृद्धि-लोपश् छान्दसः । [[सुपर्णे|सुपर्णं]] पक्षम् । शेषः ।  
+मृगो अस्या दन्तः । या इषुस् तस्या अस्या इषोर् दन्तः दन्तवद् दन्तः शत्रूणां प्राण-भक्षण-साधनाद् दन्तः [[उनाराचाग्रः|नाराचाग्रः]] ।  
+मृगश् [[च ४ वेध्यं|च वेध्यं]] मृगयन्त इति मृगः ।  
+गोभिः [[" वायुभिः|वायुभिः]] वीर्यवद्भिः । संनद्धा संबद्धा ।  
+पतति प्रसूता शत्रु-बलं प्रति प्रसूता धनुषः प्रणोदिता पतति ।  
+यत्रा नरः सं च वि च द्रवन्ति । तत्र तस्मिन् प्रदेशे नरः योद्धारः [[इषवश्व|इषवश् च]] अभिद्रवन्ति गच्छन्ति [[तंत्रास्मभ्यम्|तत्रास्मभ्यम्]] इषुः संग्रामे [[प्रासे|प्राप्ते]] च ।  
+शर्म [[मुखम्|सुखम्]] । शर्म शरणं वा । यंसन् अयंसन् यच्छन्तु ॥ [[१६|१९]] ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+फिर राजधर्म अगले मन्त्र में कहते हैं।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे वीर पुरुषो ! (यत्र) जिस सेना में (नरः) नायक लोग हों जो (सुपर्णम्) सुन्दर पूर्ण रक्षा के साधन उस रथादि को (वस्ते) धारण करती और जहाँ (गोभिः) गौओं के सहित (दन्तः) जिस का दमन किया जाता, उस (मृगः) कस्तूरी से शुद्ध करनेवाले मृग के तुल्य (इषवः) बाण आदि शस्त्र विशेष चलते हैं, जो (सन्नद्धा) सम्यक् गोष्ठी बँधी (प्रसूता) प्रेरणा की हुई शत्रुओं में (पतति) गिरती (च) और इधर-उधर (अस्याः) इस सेना के वीर पुरुष (सम्, द्रवन्ति) सम्यक् चलते (च) और (वि) विशेषकर दौड़ते हैं (तत्र) उस सेवा में (अस्मभ्यम्) हमारे लिए आप लोग (शर्म) सुख (यंसन्) देओ ॥४८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। हे राजपुरुषो ! तुम लोगों को चाहिए कि शत्रुओं से न धमकनेवाली हृष्ट-पुष्ट सेना सिद्ध करो, उसमें सुन्दर परीक्षित योद्धा और अध्यक्ष रक्खो, उन शस्त्र-अस्त्रों के चलाने में कुशल जनों से विजय को प्राप्त होओ ॥४८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुना राजधर्ममाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे वीरा ! यत्र सेनायां नरो नायकाः स्युर्या सुपर्णं वस्ते यत्र गोभिस्सह दन्तो मृग इव इषवो धावन्ति, या सन्नद्धा प्रसूता पतति इतस्ततश्चास्य वीराः संद्रवन्ति वि द्रवन्ति च तत्रास्मभ्यं भवन्तः शर्म यंसन् ॥४८ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। हे राजपुरुषाः ! युष्माभिः शत्रुभिरप्रधर्षिणी हृष्टा पुष्टा सेना संपादनीया तस्यां सुपरीक्षिता योद्धारोऽध्यक्षाश्च रक्षणीयास्तैः शस्त्रास्त्रप्रक्षेपणेषु कुशलैर्जनैर्विजयः प्राप्तव्यः ॥४८ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे राजपुरुषांनो तुम्ही शत्रूला न घाबरणारी बलवान सेना तयार करा त्या सेनेत प्रशिक्षित योद्धे व अध्यक्ष असावेत. अशा अस्र शस्रात निष्णात असणाऱ्या लोकांकडून विजय प्राप्त करा.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The arrow puts on a (feathery) wing; the (horn of the) deer is its point; it is bound with the sinews of the cow; it alights where directed; whenever men assemble or disperse, there may the shafts fall for an advantage.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Deer is its poit: mṛgo asyā **danta**: the deer is its tooth; i.e. the horn of the deer; or, **mṛga**, an adjective, that which seeks or reaches the enemy (**Nirukta** 9.19); with the sinews of the cow: **gobhiḥ** sannaddha = govikāraiḥ snāyubhiḥ, with tendons derived from the cow
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+She wears the fine-feathered (eagle); a wild deer is her tooth. Lashed  together with cows, she flies when propelled forth.  
+Where men clash and separate, there will our arrows provide shelter  for us.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+The “eagle” is of course the feathers that provide the fletching at the back end of the arrow. The “tooth” of the arrow is presumably its tip -- the arrowhead -- so called because it “bites” its target. The arrowhead is quite unlikely to have been made from a deer’s tooth, however -- their teeth being short and flat and unsuitable for piercing. But acdg to the internet, deer antlers were/are used for primitive arrowheads. The cows in pāda b are of course leather sinews, and again the internet tells us that sinew was/is frequently used to attach the arrowhead to the shaft (with some how-to advice, which generally involves chewing on the leather first).
+
+Pāda b recalls 5d, though the material objects in questions are different, the quiver in 5, the arrow in 11: pāda-final prásūtā matches prásūtaḥ in 5d in the same metrical position, and both contain the past part. of √nah ‘tie’ earlier in the pāda, also in the same metrical position, 5d x x nínaddhaḥ, 11b x x sáṃnaddhā The verb of pāda d is literally “run together and apart” (sáṃ ca ví ca drávanti), but “clash and separate” seemed to me to have a better ring.
+</details>
+
+<details><summary>Griffith</summary>
+
+Her tooth a deer, dressed in an eagle's feathers, bound with cow-hide, launched forth, She flieth onward.  
+     There where the heroes speed hither and thither, there may the Arrows shelter and protect us.
+</details>
+
+<details><summary>Keith</summary>
+
+A feather her garment, a deer her tooth,  
+Tied with cowhide she flieth shot forth;  
+Where men run together and apart,  
+There may the arrows accord us protection.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+She clothes herself in a bird's feather; a deer-horn is her tooth; bound with sinews, loosed, she flies.  
+Where men run together and apart, there may the arrows grant us protection!
+</details>
+
+<details><summary>Geldner</summary>
+
+Mit Adlerfedern kleidet er sich, von der Antilope ist sein Zahn, mit Rindersehnen umbunden fliegt er entsandt. Wo die Männer aneinander und auseinander rennen, da sollen uns die Pfeile Schutz gewähren.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Er kleidet sich als Aar, sein Zahn ein Löwe, gefügt an Sehnen, fortgeschnellt entfliegt er; Wo Streiter rasch sich nähern und entfernen, da mögen Schutz die Pfeile uns gewähren.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Она одевается в орла. Антилопа – ее зуб.  
+Подпоясанная коровьими (сухожилиями) летит она, когда (ее) выпускают.  
+Где мужи сбегаются и разбегаются.  
+Там стрелы пусть даруют нам защиту!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इषवः
+- पायुर्भारद्वाजः
+- त्रिष्टुप्
+- धैवतः
+
+- वीरा देवताः
+- भारद्वाज ऋषिः
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर भूमि कैसी वेगवाली है और युद्ध करनेवाले युद्ध क्यों करते हैं, इस विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जो (गोभिः) किरण वा धेनुओं से (सन्नद्धा) अच्छे प्रकार से बंधी और (प्रसूता) उत्पन्न हुई भूमि (मृगः) मृग के समान (पतति) जाती है (अस्याः) इसके बीच (दन्तः) जिससे डशते हैं वह दाँत वर्त्तमान है जो (सुपर्णम्) सुन्दर पालना करनेवाले को (वस्ते) उढ़ाता है और (यत्रा) जिस संग्राम में (नरः) योद्धा नर (च) भी (सम्, द्रवन्ति) अच्छे प्रकार दौड़ते हैं (च) और (वि) विशेष धावन करते हैं (तत्र) वहाँ (इषवः) बाण (अस्मभ्यम्) हमारे लिये (शर्म) सुख जैसे (यंसन्) देवें, वैसा अनुष्ठान करो ॥११॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्यो ! जो भूमि परमेश्वर ने पालना के लिये बनाई है और मृग के समान शीघ्र जाती है तथा जिसके लिये सङ्ग्राम होता है, उसकी प्राप्ति के निमित्त वीरता का संग्र­ह करो ॥११॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्या ! या गोभिः सन्नद्धा प्रसूता सती भूमिर्मृग इव पतति, अस्या मध्ये दन्तो वर्त्तते या सुपर्णं वस्ते यत्रा नरश्च सं द्रवन्ति वि द्रवन्ति च तत्रेषवोऽस्मभ्यं शर्म यथा यंसन् तथाऽनुतिष्ठत ॥११॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनर्भूमिः कीदृग्वेगवती वीराश्च किमर्थं सङ्ग्रामं कुर्वन्तीत्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सुपर्णम्) शोभनं पर्णं पालनं यस्य तम् (वस्ते) आच्छादयति (मृगः) यो मार्ष्टि तद्वत् (अस्याः) प्रजायाः (दन्तः) येन दंशति सः (गोभिः) किरणैर्धेनुभिर्वा (सन्नद्धा) सम्यग्बद्धा (पतति) गच्छति (प्रसूता) उत्पन्ना सती (यत्रा) यस्मिन् सङ्ग्रामे। अत्र ऋचि तुनुघेति दीर्घः। (नरः) मनुष्याः (सम्) (च) (वि) (च) (द्रवन्ति) गच्छन्ति (तत्र) (इषवः) बाणाः (शर्म) सुखम् (यंसन्) यच्छन्तु ॥११॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्या ! या भूमिः परमेश्वरेण पालनाय निर्मिता मृगवत्सद्यो धावति यदर्थं भूरि सङ्ग्रामो भवति तस्याः प्राप्तौ वीरतां सङ्गृह्णन्तु ॥११॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे माणसांनो ! परमेश्वराने जी भूमी पालन करण्यासाठी निर्माण केलेली आहे, जी मृगासारखी शीघ्रतेने फिरते तसेच जिच्यासाठी मोठमोठी युद्धे होतात तिच्या प्राप्तीसाठी वीरता अंगी बाणवा. ॥ ११ ॥
+</details>

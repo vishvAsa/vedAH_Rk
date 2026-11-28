@@ -1,0 +1,396 @@
++++
+title = "012"
+devataa = "आपः सोमो वा"
+RShiH = "देवश्रवा यामायनः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - आपः सोमो वा
+- ऋषिः - देवश्रवा यामायनः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+य᳓स् ते द्रप्स᳓ स्क᳓न्दति य᳓स् ते अंशु᳓र्  
+बाहु᳓च्युतो धिष᳓णाया उप᳓स्थात्  
+अध्वर्यो᳓र् वा प᳓रि वा यः᳓ पवि᳓त्रात्  
+तं᳓ ते जुहोमि म᳓नसा व᳓षट्कृतम्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+aṁśúḥ ← aṁśú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+drapsáḥ ← drapsá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+skándati ← √skand- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bāhúcyutaḥ ← bāhúcyuta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+dhiṣáṇāyāḥ ← dhiṣáṇā- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+upásthāt ← upástha- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+adhvaryóḥ ← adhvaryú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+pári ← pári (invariable)  
+{}
+
+pavítrāt ← pavítra- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+vā ← vā (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+juhomi ← √hu- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+tám ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váṣaṭkr̥tam ← váṣaṭkr̥ta- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+यस्ते॑ द्र॒प्सः स्कन्द॑ति॒ यस्ते॑ अं॒शुर्बा॒हुच्यु॑तो धि॒षणा॑या उ॒पस्था॑त् ।  
+अ॒ध्व॒र्योर्वा॒ परि॑ वा॒ यः प॒वित्रा॒त्तं ते॑ जुहोमि॒ मन॑सा॒ वष॑ट्कृतम् ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+य᳓स्ते द्रप्स᳓स्स्क᳓न्दति य᳓स्ते अँश्रु᳓र्बाहु᳓च्युतो धिष᳓णाया उप᳓स्थे।  
+अध्वयो᳓र्वा प᳓रि वा यः᳓ पवि᳓चात्त᳓त्ते जुहोमि म᳓नसा व᳓षट्कृतम्
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
++++(PSK 20.12.8)+++यस् ते द्रप्स स्कन्दति यस् ते अंशुर्  
+बाहुच्युतो धिषणाया उपस्थात् ।  
+अध्वर्योर् वा परि यः पवित्रात्  
+तं ते जुहोमि मनसा वषट्कृतम् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । ते॒ । द्र॒प्सः । स्कन्द॑ति । यः । ते॒ । अं॒शुः । बा॒हुऽच्यु॑तः । धि॒षणा॑याः । उ॒पऽस्था॑त् ।  
+अ॒ध्व॒र्योः । वा॒ । परि॑ । वा॒ । यः । प॒वित्रा॑त् । तम् । ते॒ । जु॒हो॒मि॒ । मन॑सा । वष॑ट्ऽकृतम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- द्रप्सः᳓ (*MS*-11/13, *TS*-9/14, *RV*-14/29, *TB*-2, *AV*-3/6, *SB-M*-8/12, *SB-K*-8/11, *VS-M*-4/5, *VS-K*-3/7)
+- स्क᳓न्दति (*MS*-11, *TS*-14, *RV*-1, *TB*-11, *SB-M*-11, *SB-K*-12, *VS-K*-1)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- अंश् (मूल-पाठः, *MS*-5)
+- रुः᳓ (*RV*-0/1, *TB*-0/8, *AV*-0/1)
+- बाहु᳓-च्युतः (*TS*-1, *RV*-1, *TB*-1)
+- धिष᳓णायाः (*MS*-0/16, *TS*-0/11, *RV*-2/27, *TB*-1/7, *AV*-0/4, *SB-M*-0/8, *SB-K*-0/9, *VS-M*-0/7, *VS-K*-0/9)
+- उप᳓-स्थे (*MS*-20/30, *TS*-16/20, *RV*-50/62, *TB*-11/14, *TK*-0/1, *AV*-13/18, *SB-M*-15/28, *SB-K*-13/26, *VS-M*-11/12, *VS-K*-12/13)
+- अध्वर्योः᳓ (*MS*-6/73, *TS*-6/96, *RV*-2/28, *TB*-2/34, *TK*-0/1, *AV*-0/4, *SB-M*-17/299, *SB-K*-13/250, *VS-M*-0/11, *VS-K*-1/11)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-211, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-36)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-211, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-36)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- पवि᳓ (*MS*-2/3, *TS*-1/3, *RV*-4/13, *TB*-1, *AV*-1, *SB-M*-1/4, *SB-K*-1/4, *VS-M*-1/2, *VS-K*-1/2)
+- चात् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- जुहोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-10, *TS*-20, *RV*-5, *TB*-4, *AV*-18, *SB-M*-17, *SB-K*-15, *VS-M*-5, *VS-K*-6)
+- म᳓नसा (*MS*-63/147, *TS*-58/141, *RV*-116/238, *TB*-42/72, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78)
+- व᳓षट्-कृतम् (*MS*-1/2, *TS*-2, *RV*-3/5, *AV*-2, *SB-M*-7/64, *SB-K*-7/65, *VS-M*-2, *VS-K*-1)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- यः᳓ (*TS*-687/3401, *RV*-1038/4011, *TB*-461/1608, *TK*-123/227, *AV*-928/3120, *SB-M*-1907/8331, *SB-K*-1928/8549, *VS-M*-146/651, *VS-K*-111/599, *KS*-158/602, *MS*-808/3602)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-168, *TK*-35, *AV*-1022, *SB-M*-652, *SB-K*-727, *VS-M*-391, *VS-K*-307, *KS*-166, *MS*-624)
+- द्रप्स᳓ (*TS*-14, *RV*-26, *TB*-2, *AV*-6, *SB-M*-9, *SB-K*-10, *VS-M*-5, *VS-K*-7, *KS*-3, *MS*-13)
+- स्क᳓न्दति (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *Whitney*, *Lanman*, *TS*-14, *RV*-1, *TB*-11, *SB-M*-11, *SB-K*-12, *VS-K*-1, *KS*-1, *MS*-11)
+- यः᳓ (*TS*-687/3401, *RV*-1038/4011, *TB*-461/1608, *TK*-123/227, *AV*-928/3120, *SB-M*-1907/8331, *SB-K*-1928/8549, *VS-M*-146/651, *VS-K*-111/599, *KS*-158/602, *MS*-808/3602)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-168, *TK*-35, *AV*-1022, *SB-M*-652, *SB-K*-727, *VS-M*-391, *VS-K*-307, *KS*-166, *MS*-624)
+- अंशुः᳓ (*TS*-6/24, *RV*-13/45, *TB*-4/5, *AV*-0/9, *SB-M*-16/36, *SB-K*-22/44, *VS-M*-3/8, *VS-K*-1/6, *KS*-0/2, *MS*-3/11)
+- बाहु᳓-च्युतः (*TS*-1, *RV*-1, *TB*-1)
+- धिष᳓णायाः (*TS*-0/12, *RV*-2/27, *TB*-0/5, *AV*-0/4, *SB-M*-0/8, *SB-K*-0/9, *VS-M*-0/7, *VS-K*-0/9, *KS*-0/1, *MS*-0/16)
+- उप᳓-स्थात् (*TS*-1/20, *RV*-9/62, *TB*-0/8, *TK*-0/1, *AV*-4/18, *SB-M*-5/28, *SB-K*-4/26, *VS-M*-1/12, *VS-K*-1/13, *KS*-0/5, *MS*-0/24)
+- अध्वर्योः᳓ (*TS*-6/97, *RV*-2/28, *TB*-2/33, *TK*-0/1, *AV*-0/4, *SB-M*-17/299, *SB-K*-13/256, *VS-M*-0/11, *VS-K*-1/11, *KS*-1/12, *MS*-6/73)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *TS*-155, *RV*-323, *TB*-66, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-36, *KS*-44, *MS*-198)
+- प᳓रि (*TS*-222, *RV*-506, *TB*-102, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-389, *VS-M*-84, *VS-K*-77, *KS*-53, *MS*-219)
+- यः᳓ (*TS*-687/3401, *RV*-1038/4011, *TB*-461/1608, *TK*-123/227, *AV*-928/3120, *SB-M*-1907/8331, *SB-K*-1928/8549, *VS-M*-146/651, *VS-K*-111/599, *KS*-158/602, *MS*-808/3602)
+- पवि᳓त्रात् (*TS*-1/20, *RV*-1/101, *TB*-0/29, *TK*-0/5, *AV*-0/11, *SB-M*-2/64, *SB-K*-2/63, *VS-M*-1/26, *VS-K*-1/22, *KS*-1/7, *MS*-0/38)
+- त᳓म् (*TS*-356/4765, *RV*-540/3136, *TB*-223/2598, *TK*-49/357, *AV*-432/3165, *SB-M*-1297/20461, *SB-K*-1306/20301, *VS-M*-110/780, *VS-K*-73/650, *KS*-99/996, *MS*-514/5417)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *TS*-541, *RV*-1280, *TB*-168, *TK*-35, *AV*-1022, *SB-M*-652, *SB-K*-727, *VS-M*-391, *VS-K*-307, *KS*-166, *MS*-624)
+- जुहोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-20, *RV*-5, *TB*-4, *AV*-18, *SB-M*-17, *SB-K*-15, *VS-M*-5, *VS-K*-6, *KS*-1, *MS*-10)
+- म᳓नसा (*TS*-58/141, *RV*-116/238, *TB*-28/54, *TK*-2/17, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-30/86, *VS-K*-30/78, *KS*-10/28, *MS*-58/134)
+- व᳓षट्-कृतम् (*TS*-2, *RV*-3/5, *AV*-2, *SB-M*-7/64, *SB-K*-7/65, *VS-M*-2, *VS-K*-1, *KS*-1, *MS*-1/2)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+
+_________
+
+- *drapsa*
+- \[noun\], nominative, singular, masculine
+- “drop; banner.”
+
+_________
+
+- *skandati* ← *skand*
+- \[verb\], singular, Present indikative
+- “clot; ejaculate; spill; ride.”
+
+_________
+
+- *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+
+_________
+
+- *aṃśur* ← *aṃśuḥ* ← *aṃśu*
+- \[noun\], nominative, singular, masculine
+- “sunbeam; beam; aṃśu \[word\]; thread.”
+
+_________
+
+- *bāhucyuto* ← *bāhu*
+- \[noun\], masculine
+- “arm; bāhu \[word\]; elbow; forefoot.”
+
+_________
+
+- *bāhucyuto* ← *cyutaḥ* ← *cyu*
+- \[verb noun\], nominative, singular
+- “fall down; issue; shoot; ejaculate; deviate; banish; drop;
+    dislodge; miss; deprive.”
+
+_________
+
+- *dhiṣaṇāyā* ← *dhiṣaṇāyāḥ* ← *dhiṣaṇā*
+- \[noun\], genitive, singular, feminine
+- “heaven and earth.”
+
+_________
+
+- *upasthāt* ← *upastha*
+- \[noun\], ablative, singular, neuter
+- “genitalia; lap; sexual desire; anus.”
+
+_________
+
+- *adhvaryor* ← *adhvaryoḥ* ← *adhvaryu*
+- \[noun\], genitive, singular, masculine
+- “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
+
+_________
+
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+
+_________
+
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+
+_________
+
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+
+_________
+
+- *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *pavitrāt* ← *pavitra*
+- \[noun\], ablative, singular, neuter
+- “strainer.”
+
+_________
+
+- *taṃ* ← *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+
+_________
+
+- *juhomi* ← *hu*
+- \[verb\], singular, Present indikative
+- “sacrifice; offer; pour; worship.”
+
+_________
+
+- *manasā* ← *manas*
+- \[noun\], instrumental, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+
+_________
+
+- *vaṣaṭkṛtam* ← *vaṣaṭkṛ* ← *√kṛ*
+- \[verb noun\], accusative, singular
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+ते- सोमस्य तव। यः। अंशुः द्रप्सः- रसः। स्कन्दति- स्रवति। धिषणाया उपस्थात्-  अधिषवणफलकतः। अधिषवणफलकोपलक्षितस्थैर्यतो जडतो वा। बाहुच्युतः- हस्तच्युतः।  हस्तोपलक्षितशोभनकर्मच्युतः। अध्वर्योः- ध्वररहितोपासकस्य। पवित्रात्- शोधकभाजनतः।  भाजनोपलक्षितप्रतीकाद्रसोपलब्धिस्थानात्। यः। स्कन्दति। तम्। ते- तव रसम्। मनसा-  ध्यानभावनाभिः। वषट्कृतम्- वषडुपलक्षितहव्यसमर्प्यम्। जुहोमि- आह्वयामि॥१२॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे सोम **ते** त्वदीयः **यः** **द्रप्सः** रसः **स्कन्दति** अधिषवणचर्मणोऽन्यत्र गच्छति । **यः** च **ते** त्वदीयः **अंशुः** रसादितरः सन् स्कन्दति। **बाहुच्युतः** अध्वर्योर्बाहुभ्यां प्रच्युतः सन् स्कन्दति । यद्वा । बाहुवत्साधनभूता ग्रावाणः । तैः प्रच्युतोऽभिषुतः सन् **धिषणायाः** । धिषणेत्यधिषवणफलकनाम । प्रत्येकविवक्षयैकवचनम्। अधिषवणफलकयोः **उपस्थात्** समीपस्थात् प्रदेशादन्यत्र गच्छति। तथा **अध्वर्योर्वा** अभिषुण्वतोऽध्वर्योर्हस्तात् स्कन्दति। **वा** अपि वा **पवित्रात्** दशापवित्रात् **परि** स्कन्दति । तं सर्वं द्रप्सं **ते** त्वदीयं रसं **मनसा** अन्तःकरणेन स्तोत्रेण वा सह **वषट्कृतं** वषट्कारेण स्वाहाकारेण कृतं **जुहोमि** अग्नौ प्रक्षिपामि ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[524_1]** Kap. S. 48, 9 पतति für स्कन्दति; cf. RV 10, 17, 12. (Kap. S. 48, 9 reads पतति for स्कन्दति; cf. RV 10, 17, 12.)
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Soma**, which escapes (from the hide), your filaments which let fall from the **hands** (of the priestescape) from the vicinity of the plural nks (of the press), or (from the **hand**) of the **Adhvaryu**, or from the filter; I offer itall with my mind (to **Agni**) with the word vaṣat.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Your drop that spurts and your plant that is set in motion by the arms,  from the lap of the Holy Place,  
+or from the Adhvaryu or from the filter, that one of yours I offer with  my mind when the vaṣaṭ-cry is made.
+</details>
+
+<details><summary>Griffith</summary>
+
+The Drop that falls, thy stalk which arms have shaken, which from the bosom of the press hath fallen,  
+     Or from the Adhvaryu's purifying filter, I offer thee with heart and cry of Vasat!
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Whatever drop of yours leaps down, whatever stalk of yours, fallen from the arms in the lap of the pressing-board,  
+or from the Adhvaryu or from the strainer, that I offer for you made vaṣaṭ with the mind.
+</details>
+
+<details><summary>Geldner</summary>
+
+Welcher Tropfen von dir daneben fällt, welche Stengel den Armen entfallen, aus dem Schoße der Dhisana oder aus der Hand des Adhvaryu oder von der Seihe, den opfere ich dir im Geiste mit Vasatrufe gesegnet.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Dein Tropfen, welcher herabfällt, dein von den Armen in Bewegung gesetzter Saft, der aus dem Schoosse der Schale herabfällt, sei es von dem Opferpriester her oder aus der Seihe, den giesse ich mit Verstand aus, den Opferruf sprechend. [Das Versmass verlangt vaṣaṭkŕt statt váṣaṭkṙtam].
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Какая капля проливается у тебя, какой сок у тебя,  
+Приведенный в движение руками, (вылился) из лона Дхишаны,  
+Или же у адхварью, или из цедилки,  
+Его я мыслью приношу в жертву с возгласом: Вашат!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- आपः सोमो वा
+- देवश्रवा यामायनः
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (ते) हे परमात्मन् ! तेरा (द्रप्सः) रस (स्कन्दति) पृथिवी पर प्राप्त होता है (ते) तेरा (यः अंशुः) वाष्परूप (बाहुच्युतः) बलवीर्यद्वारा प्राप्त (धिषणायाः उपस्थात्) वाणी के स्थान से (अध्वर्योः) द्युलोक से परे (यः पवित्रात्-वा) और जो अन्तरिक्ष से परे (ते-तं वषट्कृतम्) तेरे उस वज्रघोषकृत या क्रिया से निष्पादित शिल्पविद्याजन्य को (मनसा जुहोमि) मन से विचार करता हूँ-मन में धारण करता हूँ ॥१२॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  परमात्मा का रचा सूर्य या रसरूप जलांशु अन्तरिक्ष के माध्यम से पृथिवी पर प्राप्त होता है, उस सूर्य या जल का मन से विचार करके अधिकाधिक उपयोग करना चाहिए ॥१२॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (ते) हे परमात्मन् ! तव (द्रप्सः) रसः (स्कन्दति) पृथिव्यां प्रगच्छति-प्रवहति (ते) तव (यः-अंशुः) वाष्परूपः (बाहुच्युतः) बलवीर्याभ्यां प्राप्तः (धिषणायाः-उपस्थात्) वाचः स्थानात् मेघात् “धिषणा वाक्” [निघ०१।११] (अध्वर्योः-परि वा) द्युलोकञ्च “द्यौरध्वर्युः” [मै०१।९।१] (यः-वा पवित्रात्) यश्चान्तरिक्षात् “अन्तरिक्षं वै पवित्रम्” [काठ०२६।१०] (ते) तव (तं वषट्कृतम्) तं वज्रघोषकृतं यद्वा “क्रियानिष्पादितम्” [ऋ०१।१६३।१५ दयानन्दः] शिल्पविद्याजन्यम् “वषट्कृतस्य शिल्पविद्याजन्यस्य” [ऋ०१।१२०।४ दयानन्दः] (मनसा जुहोमि) मनसा विचारयामि-स्वीकरोमि ॥१२॥
+</details>

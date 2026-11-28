@@ -1,0 +1,405 @@
++++
+title = "007"
+devataa = "अग्निः"
+RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
+ChandaH = "जगती"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः
+- छन्दः - जगती
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+दा᳓ नो अग्ने बृहतो᳓ दाः᳓ सहस्रि᳓णो  
+दुरो᳓ न᳓ वा᳓जं श्रु᳓तिया अ᳓पा वृधि  
+प्रा᳓ची द्या᳓वापृथिवी᳓ ब्र᳓ह्मणा कृधि  
+सु᳓वर् ण᳓ शुक्र᳓म् उष᳓सो वि᳓ दिद्युतः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+br̥hatáḥ ← br̥hánt- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+dā́ḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+dā́ḥ ← √dā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sahasríṇaḥ ← sahasrín- (nominal stem)  
+{case:ACC, gender:M, number:PL}
+
+ápa ← ápa (invariable)  
+{}
+
+duráḥ ← dvā́r- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+śrútyai ← √śru- (root)  
+{case:DAT, number:SG}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥dhi ← √vr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+bráhmaṇā ← bráhman- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+kr̥dhi ← √kr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:ACT}
+
+prā́cī ← prā́ñc- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+didyutaḥ ← √dyut- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+ná ← ná (invariable)  
+{}
+
+śukrám ← śukrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+svàr ← svàr- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+uṣásaḥ ← uṣás- (nominal stem)  
+{case:GEN, gender:F, number:SG}
+
+ví ← ví (invariable)  
+{}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+दा नो॑ अग्ने बृह॒तो दाः स॑ह॒स्रिणो॑ दु॒रो न वाजं॒ श्रुत्या॒ अपा॑ वृधि ।  
+प्राची॒ द्यावा॑पृथि॒वी ब्रह्म॑णा कृधि॒ स्व१॒॑र्ण शु॒क्रमु॒षसो॒ वि दि॑द्युतः ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+दा नो॑ अग्ने श॒तिनो॒ दास्स॑ह॒स्रिणो॑ दु॒रो न वाजँ॒ श्रुत्या॒ अपा॑वृधि ।   
+प्राची॒ द्यावा॑पृथि॒वी ब्रह्म॑णा कृधि॒ सुव॒र्ण शु॒क्रमु॒षसो॒ विदि॑द्युतुः ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दाः । नः॒ । अ॒ग्ने॒ । बृ॒ह॒तः । दाः । स॒ह॒स्रिणः॑ । दु॒रः । न । वाज॑म् । श्रुत्यै॑ । अप॑ । वृ॒धि॒ ।  
+प्राची॒ इति॑ । द्यावा॑पृथि॒वी इति॑ । ब्रह्म॑णा । कृ॒धि॒ । स्वः॑ । न । शु॒क्रम् । उ॒षसः॑ । वि । दि॒द्यु॒तः॒ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+दाः । नः॒ । अ॒ग्ने॒ । श॒तिनः॑ । दाः । स॒ह॒स्रिणः॑ । दु॒रः । न । वाज॑म् । श्रुत्यै॑ । अपेति॑ । वृ॒धि॒ ॥ प्राची॒ इति॑ । द्यावा॑पृथि॒वी इति॒ द्यावा॑-पृ॒थि॒वी । ब्रह्म॑णा । कृ॒धि॒ । सुवः॑ । न । शु॒क्रम् । उ॒षसः॑ । वीति॑ । दि॒द्यु॒तुः॒ ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *dā* ← *dāḥ* ← *dā*
+- \[verb\], singular, Aorist conj./subj.
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *bṛhato* ← *bṛhataḥ* ← *bṛhat*
+- \[noun\], accusative, plural, masculine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+
+_________
+
+- *dāḥ* ← *dā*
+- \[verb\], singular, Aorist conj./subj.
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+
+_________
+
+- *sahasriṇo* ← *sahasriṇaḥ* ← *sahasrin*
+- \[noun\], accusative, plural, masculine
+- “thousandfold.”
+
+_________
+
+- *duro* ← *duraḥ* ← *dvār*
+- \[noun\], accusative, plural
+- “door; means.”
+
+_________
+
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+
+_________
+
+- *vājaṃ* ← *vājam* ← *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+
+_________
+
+- *śrutyā* ← *śrutyai* ← *śruti*
+- \[noun\], dative, singular, feminine
+- “Veda; rule; ear; proverb; legend; hearing; news; sacred text.”
+
+_________
+
+- *apā* ← *apa*
+- \[adverb\]
+- “away.”
+
+_________
+
+- *vṛdhi* ← *vṛ*
+- \[verb\], singular, Aorist imperative
+- “surround; accompany; cover; cover; obstruct; check; spread;
+    envelop.”
+
+_________
+
+- *prācī* ← *prāñc*
+- \[noun\], accusative, dual, feminine
+- “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
+    forward; prāñc \[word\].”
+
+_________
+
+- *dyāvāpṛthivī*
+- \[noun\], accusative, dual, feminine
+- “heaven and earth; dyāvāpṛthivī \[word\].”
+
+_________
+
+- *brahmaṇā* ← *brahman*
+- \[noun\], instrumental, singular, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+
+_________
+
+- *kṛdhi* ← *kṛ*
+- \[verb\], singular, Aorist imperative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+
+_________
+
+- *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+
+_________
+
+- *ṇa* ← *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+
+_________
+
+- *śukram* ← *śukra*
+- \[noun\], nominative, singular, neuter
+- “bright; clear; white; light; pure.”
+
+_________
+
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
+- \[noun\], accusative, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+
+_________
+
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+
+_________
+
+- *didyutaḥ* ← *dyut*
+- \[verb\], singular, Aorist inj. (proh.)
+- “shine; inflame.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अग्ने। बृहतः- महतः। सहस्रिणः- प्रभूतान्। नः- अस्मभ्यम्। दाः- देहि। न वाजम्-  अन्नभण्डारद्वारमिव। दुरः-श्रुतिभण्डारद्वारम्। श्रुत्यै- श्रुतिग्रहणाय। अपा वृधि- अपावृणु। प्राची-  प्राचीने। द्यावापृथिवी- द्यावापृथिव्यौ। ब्रह्मणा- मेधया। कृधि- कुरु। उषसः- विद्याः। स्वर्ण  शुक्रम्- दीप्तं स्वर्गम्। वि दिद्युतुः- विशेषेण द्योतयन्ति॥७॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** **नः** अस्मभ्यं **बृहतः** महतः प्रभूतान् गवाश्वादिधनविशेषान् **दाः** देहि । तथा **सहस्रिणः** सहस्रसंख्योपेतान् पुत्रभृत्यादीन् **दाः** देहि॥ ददातेश्छान्दसे लुङि रूपम्। वाक्यभेदादनिघातः॥ **श्रुत्यै** कीर्त्यै **वाजम्** अन्नं **दुरो** **न** तस्य द्वाराण्यपि । नशब्दश्चार्थे। **अपा** **वृधि** अपवृणु । प्रेरयेत्यर्थः । यद्वा द्वाराणीव । तत्प्राप्त्युपायान् विशदयति । तदर्थं **द्यावापृथिवी** **ब्रह्मणा** परिवृढेन कर्मणा **प्राची** प्रकृष्टाञ्चने अस्मदनुकूले **कृधि** कुरु । **स्वर्ण** आदित्य इव । स यथा जगत्प्रकाशयति तद्वत् । **शुक्रं** दीप्तं त्वाम् **उषसः** उषःकालाः **वि** **दिद्युतुः** विद्योतयन्ति । उषःकाले ह्यग्नयः प्रज्वाल्यन्ते ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने दाः देहि नः अस्मभ्यम् । किम् ? शतिनस्सहस्तिणश्च पशून् दाः देहि । दुरो न द्वाराणीव पशुप्राप्त्युपायानिव वाजमन्नमपावृधि अपावृणु श्रुत्यै श्रवणार्थं यथा वयं लोके जेतारस्स्याम तदनुरूपं पशुप्राप्तिद्वारभूतमन्नमाह पुरु [...मन्नमपावृणु] । 'बहुलं छन्दसि' इति शपो लुक्, 'श्रुशृणुपॄकृवृभ्यः' इति धिभावः ।   
+केचिदाहुः - दुरः द्वाराणि पशुप्राप्त्युपायानपावृधि ; वाजमन्नं श्रुत्यै नापावृधि ; अपि तु अश्रवणार्थं अपावृधि, यथा अपावृते अन्ने पशुसाध्ये श्रावणा न कियते, अविचार्यैवार्थित्वमात्रेण पश्वादिकं दीयते तथा अपावृधीति ।  
+अथापरे ब्रुवते - वाजमन्नं पशुहेतुकं श्रुत्यै श्रवणायापावृधि श्रवणसामर्थ्यायाविष्कुरु, अन्नेन हि श्रवणसामर्थ्यमुपजायते ; असति ह्यन्ने श्रवणसामर्थ्याभावात् । तस्माच्छ्रुत्या अपावृधि दुरो न श्रोत्रादीनि द्वाराणीव, यथैतानि श्रवणार्थमपावृतानीति ।  
+
+किञ्च - द्यावापृथिवी द्यावापृथिव्यौ प्राची प्राच्यौ अनुकूले ब्रह्मणा परिबृढेन हविषा कर्मणा वा कृधि । पूर्ववच्छपो लुक्, धिभावश्च । यद्वा - ब्रह्मणा अन्नेन सदास्माकं प्राची अनुगुणे द्यावापृथिव्यौ । किञ्च - सुवर्ण सुवरिव आदित्य इव । सांहितिकं णत्वं छान्दसम् । शुक्रं पुत्रादिकं उषसः उदयात् विदिद्युतुः विशेषेण द्योतयन्ते । द्युतेरन्तर्भावितण्यर्थाच्छान्दसो लिट्, व्यत्ययेन परस्मैपदम्, 'द्युतिस्वाप्योः' इत्यभ्यासस्य सम्प्रसारणम् ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Bestow upon us, **Agni**, infinite possessions; grant us thousands (of cattle and dependents); open to us, for your reputation, the doors of abudance; make heaven and earth, propitiated by sacred prayer, favourable to us, and may the mornings light you up like the sun.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Give us, Agni, lofty (prizes), give (prizes) in thousands. Open up the  prize like a door, for (it) to be famed.  
+Turn heaven and earth eastward with a sacred formulation. Like the  blazing sun, you have made the dawns flash forth.
+</details>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/002/06-07.md">
+<details><summary><h2>06-07 ...{Loading}...</h2></summary>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+6c and 7c are paraphrases of each other. Each contains a dual referring to the two worlds, an impv. of √kṛ, and an indication of directionality.
+</details>
+
+</details>
+</div>
+
+<details><summary>Griffith</summary>
+
+Agni, give us great wealth, give riches thousandfold. unclose to us, like doors, strength that shall bring renown.  
+     Make Heaven and Earth propitious through the power of prayer, and like the sky's bright sheen let mornings beam on us.
+</details>
+
+<details><summary>Keith</summary>
+
+Give to us, O Agni, a hundred, give a thousandfold; Like doors disclose for us booty for renown; Make with the prayer sky and earth propitious; Like bright heaven the dawns have shone forth.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Give us, Agni, mighty, give us thousandfold (gifts). Open strength for us like a door 1 for the sake of glory. Make Heaven and Earth inclined towards us through (our) spell. Make the Dawns shine like the brilliant Sun.
+</details>
+
+<details><summary>Geldner</summary>
+
+Gib uns, Agni, große, gib tausendfältige Gewinne, eröffne uns wie Tore den Gewinn, daß es kundbar werde ! Mach Himmel und Erde durch das Segenswort geneigt ! Wie die helle Sonne sollst du alle Morgen leuchten.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Uns gieb, o Agni, vieles, tausendfaches Gut, wie Thüren schliesse Schätze uns zum Heile auf, Und mach uns Erd' und Himmel durch Gebet geneigt, mach hell die Morgen gleich der lichten Sonne Schein.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Дай нам, о Агни, высокие, дай тысячные (награды)!  
+Как врата, отвори награду, чтобы (о ней) слышали!  
+Молитвой склони в нашу сторону небо и землю!  
+Так сверкай же ярко при (всех) звездах, словно ясное солнце!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- गृत्समदः शौनकः
+- विराड्जगती
+- निषादः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहा है।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (अग्ने) अग्नि के समान वर्त्तमान विद्वान् ! आप (नः) हम लोगों के लिये (बृहतः) बहुतः भोग करने के पदार्थों को (दाः) दीजिये (वाजम्) ज्ञान (दुरः) द्वारों के (न) समान (श्रुत्यै) श्रवण से (सहस्रिणः) असंख्यात सुखरूपी अङ्गयुक्त पदार्थों को (दाः) दीजिये और (अपा वृधि) उनको प्रकट कीजिये तथा (प्राची) जो पहिले से वर्त्तमान (द्यावापृथिवी) द्यावापृथिवी को (ब्रह्मणा) धन से युक्त (कृधि) कीजिये (उषसः) दिनों को (शुक्रम्) शीघ्रकारी (स्वः) सुख के (न) समान (वि दिद्युतः) विशेष प्रकाशित कीजिये ॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में उपमा और वाचकलुप्तोपमालङ्कार हैं। जो अग्नि के तुल्य असंख्य सुख द्वारों के समान विद्यामार्ग और यथा समय कार्यों से दिवसों को संयुक्त करते हैं, वे सूर्य और पृथिवी के समान अन्नादि के संयोग से सुखी होते हैं ॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे अग्ने त्वं नो बृहतः पदार्थान् दाः वाजन्दुरो न श्रुत्यै सहस्रिणो दा अपा वृधि च प्राची द्यावापृथिवी ब्रह्मणा कृधि उषसः शुक्रं स्वर्ण विदिद्युतः कृधि ॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (दाः) देहि (नः) अस्मभ्यम् (अग्ने) अग्निरिव वर्त्तमान (बृहतः) महतो भोगान् (दाः) ददाति (सहस्रिणः) असंख्यातसुखाङ्गयुक्तान् (दुरः) द्वाराणि (न) इव (वाजम्) ज्ञानम् (श्रुत्यै) श्रवणेन। अत्र सुब्व्यत्ययेन तृतीयार्थे चतुर्थी। (अप) अत्र निपातस्य चेति दीर्घः। (वृधि) वृणु (प्राची) प्राग्वर्त्तमाने (द्यावापृथिवी) (ब्रह्मणा) धनेन सह (कृधि) कुरु (स्वः) (न) इव (शुक्रम्) आशुकरम् (उषसः) दिवसान् (वि) (दिद्युतः) द्योतमानान् ॥७॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्रोपमावाचकलुप्तोपमालङ्कारौ। येऽग्निवदसङ्ख्यानि सुखानि द्वारवद्विद्यामार्गं यथासमयं कार्य्यैर्दिवसान् संयुञ्जन्ति ते सूर्यपृथिवीवदन्नादियोगेन सुखिनो भवन्ति ॥७॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात उपमा व वाचकलुप्तोपमालंकार आहेत. जे अग्नीप्रमाणे असंख्य सुख, द्वाराप्रमाणे विद्या (ज्ञान) मार्ग व योग्य काळी कार्य करून दिवस घालवितात ते सूर्य व पृथ्वीप्रमाणे (प्रकाशित होऊन) अन्न इत्यादीच्या योगाने सुखी होतात. ॥ ७ ॥
+</details>

@@ -1,0 +1,258 @@
++++
+title = "004"
+devataa = "पवमानः सोमः"
+RShiH = "ऊरुः"
+ChandaH = "सतो बृहती"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पवमानः सोमः
+- ऋषिः - ऊरुः
+- छन्दः - सतो बृहती
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+ये᳓ना न᳓वग्वो दधिअ᳓ङ्ङ् अपोर्णुते᳓  
+ये᳓न वि᳓प्रास आपिरे᳓  
+देवा᳓नां सुम्ने᳓ अमृ᳓तस्य चा᳓रुणो  
+ये᳓न श्र᳓वांसि आनशुः᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+aporṇuté ← √vr̥- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+dadhyáṅ ← dadhyáñc- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+návagvaḥ ← návagva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+āpiré ← √āp- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+víprāsaḥ ← vípra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+
+amŕ̥tasya ← amŕ̥ta- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+cā́ruṇaḥ ← cā́ru- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+devā́nām ← devá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sumné ← sumná- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+ānaśúḥ ← √naś- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śrávāṁsi ← śrávas- (nominal stem)  
+{case:NOM, gender:N, number:PL}
+
+yéna ← yá- (pronoun)  
+{case:INS, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+येना॒ नव॑ग्वो द॒ध्यङ्ङ॑पोर्णु॒ते येन॒ विप्रा॑स आपि॒रे ।  
+दे॒वानां॑ सु॒म्ने अ॒मृत॑स्य॒ चारु॑णो॒ येन॒ श्रवां॑स्यान॒शुः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+येन॑ । नव॑ऽग्वः । द॒ध्यङ् । अ॒प॒ऽऊ॒र्णु॒ते । येन॑ । विप्रा॑सः । आ॒पि॒रे ।  
+दे॒वाना॑म् । सु॒म्ने । अ॒मृत॑स्य । चारु॑णः । येन॑ । श्रवां॑सि । आ॒न॒शुः ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *yenā* ← *yena* ← *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *navagvo* ← *navagvaḥ* ← *navagva*
+- \[noun\], nominative, singular, masculine
+- “Navagva.”
+
+_________
+
+- *dadhyaṅṅ* ← *dadhyaṅ* ← *dadhyac*
+- \[noun\], nominative, singular, masculine
+- “Dadhyac.”
+
+_________
+
+- *aporṇute* ← *apavṛ* ← *√vṛ*
+- \[verb\], singular, Present indikative
+- “open.”
+
+_________
+
+- *yena* ← *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *viprāsa* ← *viprāsaḥ* ← *vipra*
+- \[noun\], nominative, plural, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+
+_________
+
+- *āpire* ← *āp*
+- \[verb\], plural, Perfect indicative
+- “enter (a state); get; reach; obtain; equal.”
+
+_________
+
+- *devānāṃ* ← *devānām* ← *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *sumne* ← *sumna*
+- \[noun\], locative, singular, neuter
+- “favor; benevolence; sumna \[word\]; entreaty; favor.”
+
+_________
+
+- *amṛtasya* ← *amṛta*
+- \[noun\], genitive, singular, neuter
+- “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
+    vighasa; calcium hydroxide.”
+
+_________
+
+- *cāruṇo* ← *cāruṇaḥ* ← *cāru*
+- \[noun\], genitive, singular, neuter
+- “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
+
+_________
+
+- *yena* ← *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *śravāṃsy* ← *śravāṃsi* ← *śravas*
+- \[noun\], accusative, plural, neuter
+- “fame; glory; ear.”
+
+_________
+
+- *ānaśuḥ* ← *aś*
+- \[verb\], plural, Perfect indicative
+- “get; reach; enter (a state).”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+२    येन। नवग्वः- नवनीयगतिः। दध्यङ्- धारणाशील उपासकः। अपोर्णुते- गवां चित्किरणानां द्वारं  विवृतमकरोत्। येन। विप्रासः- मेधाविनः। आपिरे- गाश्चित्किरणान् प्राप्नुवन्ति। देवानाम्- तेन  रसेन देवतानाम्। सुम्ने- आनन्दे। चारुणः- सुन्दरस्य। अमृतस्य- अमृतत्त्वस्य। श्रवांसि-  दिव्यश्रुतीः। आनशुः- उपासका अनुभवन्ति॥४॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**नवग्वः** नवनीयगतिः यद्वा नवभिर्मासैः सत्रस्यानुष्ठाता **दध्यङ्** एतन्नामकोऽङ्गिराः **येन** सोमेन पणिभिरपहृतानां गवां द्वारम् **अपोर्णुते** अपाच्छादयति विवृतमकार्षीत् । **विप्रासः** तन्मुखाः सर्वे मेधाविनोऽङ्गिरसः **येन** च सोमेन **आपिरे** एतैरपहृता गरे आप्नुवन् । किंच **देवानाम्** इन्द्रादीनां **सुम्ने** सुखे यज्ञेन संजाते सति **चारुणः** कल्याणस्य **अमृतस्य** उदकस्य संबन्धीनि **श्रवांसि** अन्नानि **येन** च सोमेन यजमानाः **आनशुः** व्याप्नुवन् अलभन्त । स त्वं देवानाममृतत्वाय शब्दायस इति पूर्वेण समन्वयः ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“(You) through whom Dadhyañc tthe offerer of the nine days' rites opened (the cave), through whom the ṛṣis recovered (the stolen cows), through whom under the protection of the gods the worshippers obtained the sustenance of the delicious (ambrosial water).”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+With whom Navagva, with whom Dadhyañc uncloses (the cowpen), by  whom the inspired poets have acquired for themselves  
+(some) of the dear immortal one [=heavenly soma] in the grace of the  gods, by whom they have each attained fame.
+</details>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/03-04.md">
+<details><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+Vs. 4 is clearly syntactically dependent on vs. 3, with a series of three rel. cl. introduced by yéna referring to Soma, the 2nd ps. subj. of 3.
+
+</details>
+</div>
+
+<details><summary>Griffith</summary>
+
+By whom Dadhyac Navagva opens fastened doors, by whom the sages gained their wish,  
+     By whom they won the fame of lovely Amrta in the felicity of Gods.
+</details>
+
+<details><summary>Geldner</summary>
+
+Durch den Navagva, Dadhyac das Tor aufschließt, durch den die Redekundigen in der Götter Gunst von der lieben Unsterblichkeit etwas erlangten, durch den sie Ruhm erreichten.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Durch dich erschliesst der Neuner Dadhiank die Flut, durch dich gedieh der Sänger Schar; Durch dich erlangten sie des schönen Göttertranks Beglückung in der Götter Huld.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Благодаря кому Навагва, Дадхьянч открывает (пещеру с коровами),  
+Благодаря кому вдохновенные (поэты) приобщились  
+К любимому бессмертию в милости богов,  
+Благодаря кому они достигли славы:
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पवमानः सोमः
+- उरुः
+- स्वराड्बृहती
+- मध्यमः
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (येन) जिस तुम्हारे आनन्द से (नवग्वः) नवीन पुरुष (दध्यङ्) ध्यानी लोग (अपोर्णुते) सदुपदेशों द्वारा लोगों को सुरक्षित करते हैं, (येन) जिससे (विप्रासः) मेधावी लोग (आपिरे) प्राप्त होते हैं, (देवानाम्, सुम्ने, चारुणः, अमृतस्य) विद्वानों के अमृतरूपी सुख में जिज्ञासु विराजमान होता है, (येन) जिससे (श्रवांसि) यशों को (आनशुः) भोगता है, वह एकमात्र आप ही का आनन्द है॥४॥
+</details>
+
+<details><summary>आर्यमुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  परमात्मा ही अपने अनादिसिद्ध ज्ञान द्वारा लोगों को सन्मार्ग की प्रेरणा करता, वही सद्विद्यारूपी वेदों से सबका सुधार करता और वही सबको आनन्द प्रदान करनेवाला है ॥४॥
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (येन) येन तवानन्देन (नवग्वः) नवाः (दध्यङ्) ध्यानिजनाः (अपोर्णुते) सदुपदेशेन लोकान् सुस्थापयन्ति (येन) येन च (विप्रासः) मेधाविनः (आपिरे) प्राप्यन्ते (येन) येन च (देवानाम्) विदुषां (चारुणः, अमृतस्य, सुम्ने) अमृतायेव चारुसुखाय जिज्ञासुर्विराजते, येन च (श्रवांसि) यशांसि (आनशुः) भुञ्जन्ति स केवलं भवत एवानन्दः॥४॥
+</details>

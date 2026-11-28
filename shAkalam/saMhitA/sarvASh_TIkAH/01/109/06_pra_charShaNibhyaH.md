@@ -1,0 +1,398 @@
++++
+title = "006"
+devataa = "इन्द्राग्नी"
+RShiH = "कुत्स आङ्गिरसः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्राग्नी
+- ऋषिः - कुत्स आङ्गिरसः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+प्र᳓ चर्षणि᳓भ्यः पृतनाह᳓वेषु  
+प्र᳓ पृथिव्या᳓ रिरिचाथे दिव᳓श् च  
+प्र᳓ सि᳓न्धुभ्यः प्र᳓ गिरि᳓भ्यो महित्वा᳓  
+प्रे᳓न्द्राग्नी वि᳓श्वा भु᳓वना᳓ति अन्या᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+carṣaṇíbhyaḥ ← carṣaṇí- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+prá ← prá (invariable)  
+{}
+
+pr̥tanāháveṣu ← pr̥tanāháva- (nominal stem)  
+{case:LOC, gender:M, number:PL}
+
+ca ← ca (invariable)  
+{}
+
+diváḥ ← dyú- ~ div- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+pr̥thivyā́ḥ ← pr̥thivī́- (nominal stem)  
+{case:ABL, gender:F, number:SG}
+
+riricāthe ← √ric- (root)  
+{number:DU, person:2, mood:IND, tense:PRF, voice:MED}
+
+giríbhyaḥ ← girí- (nominal stem)  
+{case:ABL, gender:M, number:PL}
+
+mahitvā́ ← mahitvá- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+prá ← prá (invariable)  
+{}
+
+síndhubhyaḥ ← síndhu- (nominal stem)  
+{case:ABL, gender:F, number:PL}
+
+anyā́ ← anyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+áti ← áti (invariable)  
+{}
+
+bhúvanā ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+indrāgnī ← indrāgní- (nominal stem)  
+{case:VOC, gender:M, number:DU}
+
+prá ← prá (invariable)  
+{}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र च॑र्ष॒णिभ्यः॑ पृतना॒हवे॑षु॒ प्र पृ॑थि॒व्या रि॑रिचाथे दि॒वश्च॑ ।  
+प्र सिन्धु॑भ्यः॒ प्र गि॒रिभ्यो॑ महि॒त्वा प्रेन्द्रा॑ग्नी॒ विश्वा॒ भुव॒नात्य॒न्या ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+प्र च॑र्ष॒णिभ्यᳶ॑ पृतना॒ हवे॑षु॒ प्र पृ॑थि॒व्या रि॑रिचाथे दि॒वश्च॑ ।  
+प्र सिन्धु॑भ्य॒ᳶ प्र गि॒रिभ्यो॑ महि॒त्वा प्रेन्द्रा॑ग्नी॒ विश्वा॒ भुव॒नात्य॒न्या ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+प्र᳓ चर्षणि᳓भ्यः पृतनाहवे᳓षु प्र᳓ पृथिव्या᳓ रिरिचाथे दिव᳓श्च।  
+प्र᳓ सि᳓न्धुभ्यः प्र᳓ गिरि᳓भ्यो महित्त्वा᳓ प्रे᳓न्द्राग्नी वि᳓श्वा भु᳓वना᳓त्यन्या᳓
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । च॒र्ष॒णिऽभ्यः॑ । पृ॒त॒ना॒ऽहवे॑षु । प्र । पृ॒थि॒व्याः । रि॒रि॒चा॒थे॒ इति॑ । दि॒वः । च॒ ।  
+प्र । सिन्धु॑ऽभ्यः । प्र । गि॒रिऽभ्यः॑ । म॒हि॒ऽत्वा । प्र । इ॒न्द्रा॒ग्नी॒ इति॑ । विश्वा॑ । भुव॑ना । अति॑ । अ॒न्या ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+प्रेति॑ । च॒र्ष॒णिभ्य॒ इति॑ चर्ष॒णि-भ्यः॒ । पृ॒त॒ना॒ । हवे॑षु । प्रेति॑ । पृ॒थि॒व्याः । रि॒रि॒चा॒थे॒ इति॑ । दि॒वः । च॒ ॥ प्रेति॑ । सिन्धु॑भ्य॒ इति॒ सिन्धु॑-भ्यः॒ । प्रेति॑ । गि॒रिभ्य॒ इति॑ गि॒रि-भ्यः॒ । म॒हि॒त्वेति॑ महि-त्वा । प्रेति॑ । इ॒न्द्रा॒ग्नी॒ इती॑न्द्र-अ॒ग्नी॒ । विश्वा॑ । भुव॑ना । अतीति॑ । अ॒न्या ॥ मरु॑तः । यस्य॑ । हि । क्षये॑ । पा॒थ । दि॒वः । वि॒म॒ह॒स॒ इति॑ वि-म॒ह॒सः॒ ॥ सः । सु॒गो॒पात॑म॒ इति॑ सुगो॒प-त॒मः॒ । जनः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- चर्षणि᳓भ्यः (*MS*-3/11, *TS*-1/5, *RV*-7/58, *TB*-1/7, *AV*-0/10, *VS-M*-0/1, *VS-K*-0/2)
+- पृतना-हवे᳓षु (समासस्य पा॰ ६.१.२२३)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- पृथिव्या᳓ (*MS*-23/155, *TS*-7/116, *RV*-9/139, *TB*-1/48, *TK*-7, *AV*-4/92, *SB-M*-19/152, *SB-K*-27/160, *VS-M*-6/91, *VS-K*-10/85)
+- रिरिचाथे (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-1)
+- दिवः᳓ (*MS*-95/308, *TS*-85/270, *RV*-423/854, *TB*-34/119, *TK*-4/15, *AV*-83/340, *SB-M*-82/353, *SB-K*-81/342, *VS-M*-44/167, *VS-K*-40/179)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- सि᳓न्धुभ्यः (*MS*-1/18, *TS*-1/11, *RV*-6/186, *TB*-0/7, *AV*-1/30, *SB-M*-0/7, *SB-K*-0/7, *VS-M*-0/8, *VS-K*-0/6)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- गिरि᳓भ्यः (*MS*-2/15, *TS*-1/8, *RV*-3/42, *TB*-0/2, *AV*-0/20, *SB-M*-0/12, *SB-K*-0/13, *VS-M*-0/5, *VS-K*-0/4)
+- मह् (मूल-पाठः)
+- इत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *TS*-77, *TB*-27, *TK*-4, *MS*-31)
+- त्वा᳓ → **त्वा** (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- इन्द्राग्नी (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-7, *RV*-20, *TB*-2, *AV*-2, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- वि᳓श्वा (*MS*-60/301, *TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224)
+- भु᳓वना᳓त् → **भु᳓वनात्** (अनेकोदात्त-दोषः पा॰ ६.१.१५८, *MS*-0/53, *TS*-0/39, *RV*-2/144, *TB*-1/32, *TK*-0/6, *AV*-0/65, *SB-M*-0/30, *SB-K*-0/26, *VS-M*-0/42, *VS-K*-0/41)
+- यम् (*MS*-16, *TS*-1, *RV*-1, *TB*-9, *SB-M*-1, *SB-K*-2, *VS-K*-3)
+- या᳓ (*MS*-177/3763, *TS*-96/3385, *RV*-159/4011, *TB*-50/1735, *TK*-1/227, *AV*-105/3120, *SB-M*-260/8327, *SB-K*-228/8438, *VS-M*-37/651, *VS-K*-29/609)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *carṣaṇibhyaḥ* ← *carṣaṇi*
+- \[noun\], ablative, plural, feminine
+- “people.”
+
+_________
+
+- *pṛtanāhaveṣu* ← *pṛtanā*
+- \[noun\], feminine
+- “army; battle; pṛtanā \[word\]; pṛtanā.”
+
+_________
+
+- *pṛtanāhaveṣu* ← *āhaveṣu* ← *āhava*
+- \[noun\], locative, plural, masculine
+- “battle; fight; challenge; war.”
+
+_________
+
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
+- \[noun\], ablative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+
+_________
+
+- *riricāthe* ← *ric*
+- \[verb\], dual, Perfect indicative
+- “empty; liberate; concede; surrender; purge.”
+
+_________
+
+- *divaś* ← *divaḥ* ← *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *sindhubhyaḥ* ← *sindhu*
+- \[noun\], ablative, plural, masculine
+- “river; Indus; sindhu \[word\].”
+
+_________
+
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *giribhyo* ← *giribhyaḥ* ← *giri*
+- \[noun\], ablative, plural, masculine
+- “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
+
+_________
+
+- *mahitvā* ← *mahitva*
+- \[noun\], instrumental, singular, neuter
+- “greatness.”
+
+_________
+
+- *prendrāgnī* ← *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *prendrāgnī* ← *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *prendrāgnī* ← *agnī* ← *agni*
+- \[noun\], vocative, dual, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *viśvā* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *bhuvanāty* ← *bhuvanā* ← *bhuvana*
+- \[noun\], accusative, plural, neuter
+- “Earth; being; world; bhuvana \[word\].”
+
+_________
+
+- *bhuvanāty* ← *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+
+_________
+
+- *anyā* ← *anya*
+- \[noun\], accusative, plural, neuter
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+पृतनाहवेषु- युद्धेषु। चर्षणिभ्यः- मनुष्येभ्यः। पृथिव्याः- भूम्याः। दिवश्च- आकाशादपि।  सिन्धुभ्यः- नदीभ्यः। गिरिभ्यः- पर्वतेभ्यः। विश्वा भुवनानि अन्या- अन्येभ्यः सर्वेभ्यो  जगज्जातेभ्यः। इन्द्राग्नी। प्र- प्रकर्षेण। रिरिचाथे- अतिरिच्येथे। रिचिर् विरेचने॥६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**पृतनाहवेषु** पृतनासु संग्रामेषु रक्षणार्थमाह्वानेषु सत्सु हे **इन्द्राग्नी** आगतवन्तौ युवां **चर्षणिभ्यः** सर्वेभ्योऽपि मनुष्येभ्यः **महित्वा** महत्त्वेन **प्र** **रिरिचाथे** अतिरिच्येथे सर्वाधिकौ भवथ इत्यर्थः । अत्रोपसर्गवशाद्धातुः स्वाभिधेयविपरीतमर्थमाचष्टे यथा प्रस्मरणं प्रस्थानमिति । तथा **पृथिव्याः** सर्वस्या भूमेश्च **प्र** रिरिचाथे । एवं द्युप्रभृतिभ्योऽपि । सिन्धवः स्यन्दनशीला आपः । गिरयः पर्वताः । अपि च हे इन्द्राग्नी **विश्वा** **भुवना** सर्वाणि भूतजातानि **अन्या** उक्तव्यतिरिक्तानि यानि सन्ति तान्यतीत्य **प्र** रिरिचाथे अधिकौ भवथः ॥ पृतनाहवेषु । पृतनासु हवः पृतनाहवः। ह्वेञः  ‘ भावेऽनुपसर्गस्य ' इति अप् संप्रसारणं च । व्यत्ययेन थाथादिस्वराभावे कृदुत्तरपदप्रकृतिस्वरत्वम् । रिरिचाथे। ‘रिचिर् विरेचने '।  ‘ छन्दसि लुङ्लङ्लिटः' इति वर्तमाने लिट् । यद्वा । लट्येव  ‘ बहुलं छन्दसि ' इति विकरणस्य श्लुः । महित्वा ।' मह पूजायाम् ' । औणादिक इन्प्रत्ययः । तस्य भावो महित्वम् ।  ‘ सुपां सुलुक्' इति तृतीयाया डादेशः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे इन्द्राग्नी पृतना संग्रामेषु  हवेषु हविः स्वीकारार्थे-ष्वाहवानेषु च चर्षणिभ्यो मनुष्येभ्यः प्रिरिचाथे परिरिचाथे प्ररिक्तावतिरिक्तौ भवथ:।  
+सर्वानपि मनुष्यानतिरिच्य वर्तेथे इत्यर्थः।  
+तथा पृथिव्या दिवश्व प्ररिरिचाथे तदुभयमतिरिच्य वर्तेथे।   तथा सिन्धुभ्यः प्ररिरिचाथे।   तथा गिरिभ्यः पर्वतेभ्यः प्ररिरिचाथे।   किं बहुना, अत्यन्याऽत्यन्तमितराणि विश्वा भुवना सर्वाणि भुवनानि महित्वा स्वकीयेन महिम्ना युवां प्ररिरिचाथे अतिरिच्य वर्तेथे।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Attending to the summons at the time of battle, you surpass all me (in magnitude); you are vaster than the earth, than the sky, than the rivers, than the mountains; you exceed all other existent things.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+You extend beyond the bordered domains at the battle cries, you extend  beyond earth and heaven,  
+beyond the rivers, beyond the mountains in your greatness, beyond and  over all other creatures, o Indra and Agni.
+</details>
+
+<details><summary>Griffith</summary>
+
+Surpassing all men where they shout for battle, ye Twain exceed the earth and heaven in greatness.  
+     Greater are ye than rivers and than mountains, O Indra-Agni, and all things beside them.
+</details>
+
+<details><summary>Keith</summary>
+
+Men ye surpass in the battle call,  
+Earth ye surpass, and sky,  
+The mountains and the streams (ye surpass) in greatness,  
+And, O Indra and Agni, all other worlds.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+// In battles among the peoples you two surpass the earth and heaven,  
+in greatness you surpass the rivers, the mountains, O Indra and Agni, surpassing all other creatures!
+</details>
+
+<details><summary>Geldner</summary>
+
+Ihr übertrefft alle Völker im Schlachtgeschrei, Ihr Erde und Himmel, ihr die Flüsse, die Berge an Größe. Ihr, Indra und Agni, überraget alle anderen Wesen.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Ihr überragt im Schlachtenlärm die Streiter, ihr überragt die Erde und den Himmel, Die Ströme und die Bergeshöhn an Grösse, o Indra-Agni, mehr als alle Wesen.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+(Вы стоите) впереди народов, когда раздаются призывы в битвах,  
+Превосходите землю и небо,  
+Пре(восходите) реки, (пре)восходите горы величием.  
+Пре(восходите) все другие существа, о Индра и Агни.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- कुत्स आङ्गिरसः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब पवन और बिजुली कैसे हैं, यह विषय अगले मन्त्र में कहा है ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (इन्द्राग्नी) वायु और बिजुली (अन्या) (विश्वा) (भुवना) और समस्त लोकों को (महित्वा) प्रशंसित कराके (पृतनाहवेषु) सेनाओं से प्रवृत्त होते हुए युद्धों में (चर्षणिभ्यः) मनुष्यों से (प्र, पृथिव्याः) अच्छे प्रकार पृथिवी वा (प्र, सिन्धुभ्यः) अच्छे प्रकार समुद्रों वा (प्र, गिरिभ्यः) अच्छे प्रकार पर्वतों वा (प्र, दिवश्च) और अच्छे प्रकार सूर्य्य से (प्र, अति, रिरिचाथे) अत्यन्त बढ़कर प्रतीत होते अर्थात् कलायन्त्रों के सहाय से बढ़कर काम देते हैं ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। पवन और बिजुली के समान बड़ा कोई लोक नहीं होने योग्य है क्योंकि ये दोनों सब लोकों को व्याप्त होकर ठहरे हुए हैं ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  इन्द्राग्नी अन्या विश्वा भुवना अन्यान् सर्वाल्ँलोकान् महित्वा पृतनाहवेषु चर्षणिभ्यः प्रपृथिव्या प्रसिन्धुभ्यः प्रगिरिभ्यः प्रदिवश्च प्रातिरिरिचाथे प्रातिरिक्तौ भवतः ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथ वायुविद्युतौ कीदृशावित्युपदिश्यते ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (प्र) प्रकृष्टार्थे (चर्षणिभ्यः) मनुष्येभ्यः (पृतनाहवेषु) सेनाभिः प्रवृत्तेषु युद्धेषु (प्र) (पृथिव्याः) भूमेः (रिरिचाथे) अतिरिक्तौ भवतः (दिवः) सूर्यात् (च) अन्येभ्योऽपि लोकेभ्यः (प्र) (सिन्धुभ्यः) समुद्रेभ्यः (प्र) (गिरिभ्यः) शैलेभ्यः (महित्वा) प्रशंसय्य (प्र) (इन्द्राग्नी) वायुविद्युतौ (विश्वा) अखिला (भुवना) भुवनानि लोकान् (अति) (अन्या) अन्यानि ॥ ६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। नहि वायुविद्युद्भ्यां सदृशो महान् कश्चिदपि लोको भवितुमर्हति कुत एतौ सर्वाल्ँलोकानभिव्याप्य स्थितावतः ॥ ६ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. वायू व विद्युतप्रमाणे कोणतेही गोल महान नाहीत. कारण हे दोन्ही सर्व गोलांत व्याप्त आहेत. ॥ ६ ॥
+</details>

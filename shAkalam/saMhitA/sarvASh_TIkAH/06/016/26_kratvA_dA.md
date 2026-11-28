@@ -1,0 +1,298 @@
++++
+title = "026"
+devataa = "अग्निः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "गायत्री"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - भरद्वाजो बार्हस्पत्यः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+क्र᳓त्वा दा᳓ अस्तु श्र᳓यिष्ठो+  
+अद्य᳓ त्वा वन्व᳓न् सुरे᳓क्णाः  
+म᳓र्त आनाश सुवृक्ति᳓म्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
+genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
+genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+_________
+**Morph**  
+astu ← √as- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+dā́ḥ ← dā́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+krátvā ← krátu- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+śréṣṭhaḥ ← śréṣṭha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+adyá ← adyá (invariable)  
+{}
+
+surékṇāḥ ← surékṇas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+vanván ← √vanⁱ- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+ānāśa ← √naś- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+mártaḥ ← márta- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+suvr̥ktím ← suvr̥ktí- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+क्रत्वा॒ दा अ॑स्तु॒ श्रेष्ठो॒ऽद्य त्वा॑ व॒न्वन्त्सु॒रेक्णाः॑ ।  
+मर्त॑ आनाश सुवृ॒क्तिम् ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+क्र॒त्वा॒दा अ॑स्थु॒ श्रेष्ठः॑ ।  
+अ॒द्य त्वा॑ व॒न्वन्त्सु॒रेक्णाः॑ ।  
+मर्त॑ आनाश सुवृ॒क्तिम् ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+क्रत्वा दा अस्तु श्रेष्ठो ऽद्य त्वा वर्धन्सुरेक्णाः।  
+मर्त आनाश सुवृक्तिम्
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्रत्वा॑ । दाः । अ॒स्तु॒ । श्रेष्ठः॑ । अ॒द्य । त्वा॒ । व॒न्वन् । सु॒ऽरेक्णाः॑ ।  
+मर्तः॑ । आ॒ना॒श॒ । सु॒ऽवृ॒क्तिम् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- क्र᳓त्वा (*MS*-1, *TS*-2, *RV*-62, *TB*-1, *AV*-4, *VS-M*-2, *VS-K*-2)
+- दाः᳓ (*MS*-6, *TS*-3, *RV*-7, *AV*-1, *SB-M*-7, *SB-K*-6, *VS-K*-1)
+- अस्तु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-111, *TS*-65, *RV*-170, *TB*-40, *TK*-3, *AV*-211, *SB-M*-54, *SB-K*-62, *VS-M*-60, *VS-K*-39)
+- श्रे᳓ष्ठः (*MS*-5/9, *TS*-7/9, *RV*-7/31, *TB*-4/8, *AV*-0/8, *SB-M*-28/41, *SB-K*-31/42, *VS-M*-1/2, *VS-K*-1/2)
+- अद्य᳓ (*MS*-65, *TS*-44, *RV*-215, *TB*-30, *TK*-2, *AV*-66, *SB-M*-42, *SB-K*-48, *VS-M*-59, *VS-K*-54)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- वर्धन् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-1)
+- सु-रे᳓क्णाः (*RV*-1)
+- म᳓र्तः (*MS*-6/7, *TS*-7/9, *RV*-34/136, *TB*-3, *AV*-3/11, *SB-M*-4, *SB-K*-4, *VS-M*-4, *VS-K*-2/6)
+- आनाश (*RV*-1)
+- सु-वृक्ति᳓म् (*MS*-0/2, *TS*-1/2, *RV*-20/49, *TB*-0/2, *AV*-0/4, *VS-M*-0/1, *VS-K*-0/1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *kratvā* ← *kratu*
+- \[noun\], instrumental, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+
+_________
+
+- *dā* ← *dāḥ* ← *dā*
+- \[noun\], nominative, singular, masculine
+- “giving.”
+
+_________
+
+- *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *śreṣṭho* ← *śreṣṭhaḥ* ← *śreṣṭha*
+- \[noun\], nominative, singular, masculine
+- “best; better; chief(a); beautiful.”
+
+_________
+
+- *'dya* ← *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+
+_________
+
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+
+_________
+
+- *vanvan* ← *van*
+- \[verb noun\], nominative, singular
+- “obtain; gain; desire; get; like; love; overcome.”
+
+_________
+
+- *surekṇāḥ* ← *surekṇas*
+- \[noun\], nominative, singular, masculine
+
+_________
+
+- *marta* ← *martaḥ* ← *marta*
+- \[noun\], nominative, singular, masculine
+- “man.”
+
+_________
+
+- *ānāśa* ← *aś*
+- \[verb\], singular, Perfect indicative
+- “get; reach; enter (a state).”
+
+_________
+
+- *suvṛktim* ← *suvṛkti*
+- \[noun\], accusative, singular, feminine
+- “praise.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+क्रत्वा- प्रज्ञया। दाः- दाता। अस्तु- भवतु। श्रेष्ठः- उत्तमः। अद्य- इदानीम्। त्वा- त्वाम्।  सुरेक्णाः- शोभनहविष्कः। वन्वन्- सम्भजन्। मर्तः- मर्त्यः। सुवृक्तिम्- शोभनस्तुतिम्। आनश-  व्याप्नोतु॥२६॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अग्ने **अद्य** इदानीं **क्रत्वा** कर्मणा परिचरणात्मना त्वां **वन्वन्** संभजन **दाः** हवींषि दाता यजमानः **श्रेष्ठः** अतिशयेन प्रशस्यः **अस्तु** । **सुरेक्णाः** शोभनधनश्चास्तु । तथा सः **मर्तः** मनुष्यः सुवृक्तिं त्वद्विषयां सुष्टुतिं च **आनाश** व्याप्नोतु । तव सर्वदा स्तोता भवत्वित्यर्थः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+क्रत्वा क्रतौ कर्मणि दा हविषो दाता श्रेष्ठः सर्वेषां मध्ये प्रशस्तः अस्तु भवतु ।  
+हे अग्ने।  अद्यास्मिन्कर्मणि त्वां **वन्वन्** याचमानः **सुरेक्णाः** शोभनधनो मर्तो मनुष्यः **सुवृक्तिं** सुष्ठु दारिद्र्यवर्जनं आनाश आनक्षे व्याप्नोति ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[412_13]** So Ch; RV 6, 16, 26 वन्व᳓न्त्सुº (Thus Ch; RV 6, 16, 26 reads वन्व᳓न्त्सुº)
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“May the donor (of the oblation), propitiating you by his acts today, be exalted, and (rendered) very opulent; may (such) mortal be diligent in (your) praise.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Acccording to your will let the giver be best off, winning you today,  acquiring a good legacy.  
+The mortal has achieved a (hymn) with a good twist.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+The krátu- is presumably Agni’s; cf. vs. 23 kavíkratuḥ used of him. Geldner tr.
+
+krátvā as “Mit dem Gedanken,” and takes the interior pādas bc as the directly quoted content of that thought. In addition to the aberrant tr. of krátu- (though one could tr.
+
+“with the intention”), this seems unnecessary. Although, as Geldner notes, krátvā in IV.1.1 does introduce such direct speech, it is marked there by íti, and the circumstances there are different as well.
+</details>
+
+<details><summary>Griffith</summary>
+
+Rich through his wisdom, noblest be the giver serving thee to-day:  
+     The man hath brought his hymn of praise.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+May the giver be best in wisdom today; may those rich in possessions increase thee;  
+the mortal has attained praise.
+</details>
+
+<details><summary>Geldner</summary>
+
+Mit dem Gedanken: "Der Geber soll der Vorzüglichste sein, der Reiche, der dich heute, o Agni, gewinnt hat der Sterbliche den Lobpreis auf dich zuwege gebracht.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Heilsamst sei der reiche Geber, der dich willig heut beschenket, Loblied hat der Mann ersonnen.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Пусть будет даятель лучшим по силе духа,  
+Покоривший тебя сегодня – обладателем прекрасного имущества!  
+Смертному удался прекрасный гимн.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भरद्वाजो बार्हस्पत्यः
+- विराड्गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर विद्वान् को क्या करना चाहिये, इस विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (श्रेष्ठः) धर्मयुक्त गुण कर्म्म और स्वभाव से अतिशय युक्त (सुरेक्णाः) सुन्दर धनवाला (मर्त्तः) मनुष्य (अद्य) आज (क्रत्वा) बुद्धि वा कर्म्म से (सुवृक्तिम्) उत्तम प्रकार जाते हैं, दुःख जिसके द्वार उसको (आनाश) व्याप्त हो और (त्वा) आप का (वन्वन्) सेवन करता हुआ सुखी (अस्तु) हो और आप विद्या के (दाः) देनेवाले होओ ॥२६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  वे ही उत्तम जन गणनीय हैं, जो विज्ञान को देते हैं ॥२६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  श्रेष्ठः सुरेक्णा मर्त्तोऽद्य क्रत्वा सुवृक्तिमानाश त्वा वन्वन् सुख्यस्तु त्वं विद्यां दाः ॥२६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनर्विदुषा किं कर्त्तव्यमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (क्रत्वा) प्रज्ञया कर्म्मणा वा (दाः) यो ददाति (अस्तु) (श्रेष्ठः) धर्म्यगुणकर्म्मस्वभावातिशययुक्तः (अद्य) (त्वा) त्वाम् (वन्वन्) सम्भजन् (सुरेक्णाः) शोभनं रेक्णः धनं यस्य सः। रेक्ण इति धननाम। (निघं०२.१०) (मर्त्तः) मनुष्यः (आनाश) व्याप्नुयात् (सुवृक्तिम्) सुष्ठु व्रजन्ति दुःखानि यया ताम् ॥२६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  त एवोत्तमा गणनीया ये विज्ञानं प्रयच्छन्ति ॥२६॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जे विद्वान विज्ञान शिकवितात ते माननीय समजले जातात. ॥ २६ ॥
+</details>

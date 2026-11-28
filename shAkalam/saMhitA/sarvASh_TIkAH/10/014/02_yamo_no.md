@@ -1,0 +1,351 @@
++++
+title = "002"
+devataa = "यमः"
+RShiH = "यमः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - यमः
+- ऋषिः - यमः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+यमो᳓ नो गातु᳓म् प्रथमो᳓ विवेद  
+नइ᳓षा᳓ ग᳓व्यूतिर् अ᳓पभर्तवा᳓ उ  
+य᳓त्रा नः पू᳓र्वे पित᳓रः परेयु᳓र्  
+एना᳓ जज्ञानाः᳓ पथि᳓या अ᳓नु स्वाः᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+gātúm ← gātú- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+viveda ← √vid- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yamáḥ ← yamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ápabhartavaí ← √bhr̥- (root)  
+{case:DAT, number:SG}
+
+eṣā́ ← eṣá (pronoun)  
+{case:NOM, gender:F, number:SG}
+
+gávyūtiḥ ← gávyūti- (nominal stem)  
+{case:NOM, gender:F, number:SG}
+
+ná ← ná (invariable)  
+{}
+
+u ← u (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pareyúḥ ← √i- 1 (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+pitáraḥ ← pitár- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+pū́rve ← pū́rva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yátra ← yátra (invariable)  
+{}
+
+ánu ← ánu (invariable)  
+{}
+
+enā́ ← ayám (pronoun)  
+{case:INS, gender:M, number:SG}
+
+jajñānā́ḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:MED}
+
+pathyā̀ḥ ← pathyā̀- (nominal stem)  
+{case:ACC, gender:F, number:PL}
+
+svā́ḥ ← svá- (pronoun)  
+{case:ACC, gender:F, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+य॒मो नो॑ गा॒तुं प्र॑थ॒मो वि॑वेद॒ नैषा गव्यू॑ति॒रप॑भर्त॒वा उ॑ ।  
+यत्रा॑ नः॒ पूर्वे॑ पि॒तरः॑ परे॒युरे॒ना ज॑ज्ञा॒नाः प॒थ्या॒३॒॑ अनु॒ स्वाः ॥
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+यमो नो गातुं प्रथमो विवेद  
+नैषा गव्यूतिर् अपभर्तवा उ ।  
+यत्रा नः पूर्वे पितरः परेयुर्  
+एना जज्ञानाः पथ्या अनु स्वाः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+य॒मः । नः॒ । गा॒तुम् । प्र॒थ॒मः । वि॒वे॒द॒ । न । ए॒षा । गव्यू॑तिः । अप॑ऽभ॒र्त॒वै । ऊं॒ इति॑ ।  
+यत्र॑ । नः॒ । पूर्वे॑ । पि॒तरः॑ । प॒रा॒ऽई॒युः । ए॒ना । ज॒ज्ञा॒नाः । प॒थ्याः॑ । अनु॑ । स्वाः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- यमः᳓ (*TS*-18/39, *RV*-13/52, *TB*-1/7, *AV*-24/92, *SB-M*-14/28, *SB-K*-13/25, *VS-M*-5/17, *VS-K*-3/12, *KS*-4/7, *MS*-17/39)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-140, *TK*-10, *AV*-1014, *SB-M*-518, *SB-K*-545, *VS-M*-441, *VS-K*-377, *KS*-115, *MS*-537)
+- गातु᳓म् (*TS*-11/12, *RV*-38/48, *TB*-6, *AV*-7/10, *SB-M*-8, *SB-K*-8, *VS-M*-4, *VS-K*-2, *MS*-14/17)
+- प्रथमः᳓ (*TS*-28/95, *RV*-50/170, *TB*-7/31, *TK*-0/7, *AV*-43/109, *SB-M*-58/287, *SB-K*-51/274, *VS-M*-18/38, *VS-K*-16/39, *KS*-3/13, *MS*-33/98)
+- विवेद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-8, *AV*-4, *SB-M*-8, *SB-K*-13, *MS*-2)
+- न᳓ (*TS*-758, *RV*-2095, *TB*-368, *TK*-49, *AV*-649, *SB-M*-2493, *SB-K*-2366, *VS-M*-183, *VS-K*-160, *KS*-91, *MS*-772)
+- एषा᳓ (*TS*-122/1673, *RV*-26/320, *TB*-47/845, *TK*-4/130, *AV*-26/340, *SB-M*-519/11090, *SB-K*-468/10840, *VS-M*-8/129, *VS-K*-6/104, *KS*-20/269, *MS*-162/2573)
+- ग᳓व्यूतिः (*TS*-0/3, *RV*-3/12, *AV*-2, *VS-M*-0/2, *VS-K*-0/2, *MS*-1/4)
+- अपभा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- ऋत-वाः᳓ (समासस्य पा॰ ६.१.२२३, *SB-K*-0/1, *MS*-3)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *TS*-96, *RV*-510, *TB*-105, *TK*-49, *AV*-215, *SB-M*-1842, *SB-K*-2041, *VS-K*-6, *KS*-43, *MS*-180)
+- य᳓त्रा (*TS*-1, *SB-M*-1/3, *SB-K*-1/4, *VS-K*-2/4, *MS*-5/7)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-140, *TK*-10, *AV*-1014, *SB-M*-518, *SB-K*-545, *VS-M*-441, *VS-K*-377, *KS*-115, *MS*-537)
+- पू᳓र्वे (*TS*-17/81, *RV*-36/115, *TB*-10/59, *TK*-2/4, *AV*-37/88, *SB-M*-27/216, *SB-K*-25/184, *VS-M*-8/20, *VS-K*-7/17, *KS*-1/9, *MS*-12/94)
+- पित᳓रः (*TS*-34/121, *RV*-39/254, *TB*-39/102, *TK*-0/6, *AV*-50/228, *SB-M*-86/321, *SB-K*-85/331, *VS-M*-24/80, *VS-K*-20/75, *KS*-8/24, *MS*-49/145)
+- परेयुः᳓ (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, यासुट् परस्मैपदेषूदात्तो ङिच्च पा॰ ३.४.१०३, *MS*-1)
+- एनाः᳓ (समानान्तर-पाठः (RV), *TB*-2/3, *SB-M*-0/2, *SB-K*-0/22, *VS-M*-0/1, *VS-K*-0/1, *KS*-2/4, *MS*-8)
+- जज्ञानाः᳓ (*TS*-0/7, *RV*-2/25, *TK*-0/1, *AV*-1/7, *SB-M*-0/6, *SB-K*-0/6, *VS-M*-0/6, *VS-K*-0/7, *MS*-1/4)
+- पथ्याः᳙ (*RV*-8, *AV*-2, *SB-M*-1, *SB-K*-1, *MS*-1)
+- अ᳓नु (*TS*-471, *RV*-475, *TB*-190, *TK*-67, *AV*-299, *SB-M*-768, *SB-K*-720, *VS-M*-115, *VS-K*-116, *KS*-46, *MS*-330)
+- स्वाः᳓ (*TS*-0/248, *RV*-9/125, *TB*-1/64, *TK*-0/5, *AV*-5/61, *SB-M*-8/220, *SB-K*-10/225, *VS-M*-1/17, *VS-K*-1/23, *KS*-0/31, *MS*-4/141)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *yamo* ← *yamaḥ* ← *yama*
+- \[noun\], nominative, singular, masculine
+- “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *gātum* ← *gātu*
+- \[noun\], accusative, singular, masculine
+- “path; way.”
+
+_________
+
+- *prathamo* ← *prathamaḥ* ← *prathama*
+- \[noun\], nominative, singular, masculine
+- “first; prathama \[word\]; third; young; chief(a); best;
+    antecedent.”
+
+_________
+
+- *viveda* ← *vid*
+- \[verb\], singular, Perfect indicative
+- “find; detect; marry; get; think.”
+
+_________
+
+- *naiṣā* ← *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+
+_________
+
+- *naiṣā* ← *eṣā* ← *etad*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+
+_________
+
+- *gavyūtir* ← *gavyūtiḥ* ← *gavyūti*
+- \[noun\], nominative, singular, feminine
+- “pasture.”
+
+_________
+
+- *apabhartavā* ← *apabhartavai* ← *apabhṛ* ← *√bhṛ*
+- \[verb noun\]
+
+_________
+
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+
+_________
+
+- *yatrā* ← *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+
+_________
+
+- *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+
+_________
+
+- *pūrve* ← *pūrva*
+- \[noun\], nominative, plural, masculine
+- “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
+    pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
+    firstborn; easterly; instrumental.”
+
+_________
+
+- *pitaraḥ* ← *pitṛ*
+- \[noun\], nominative, plural
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+
+_________
+
+- *pareyur* ← *pareyuḥ* ← *pare* ← *√i*
+- \[verb\], plural, Present optative
+- “travel; depart; go; die.”
+
+_________
+
+- *enā*
+- \[adverb\]
+- “thus.”
+
+_________
+
+- *jajñānāḥ* ← *jan*
+- \[verb noun\], nominative, plural
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+
+_________
+
+- *pathyā* ← *pathyāḥ* ← *pathyā*
+- \[noun\], accusative, plural, feminine
+- “Terminalia chebula Retz.; path; Pathyā; way.”
+
+_________
+
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+
+_________
+
+- *svāḥ* ← *sva*
+- \[noun\], accusative, plural, feminine
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+यमः- पापोपरतिदेवता नियमाधिदेवता। यम उपरमे। प्रथमः- मुख्यः सन्। नः- अस्माकम्।  गातुम्- मार्गम्। विवेद- ज्ञातवान्। एषा- एतत्। गव्यूतिः- ज्ञानम्। न अपभर्तवै- नापहर्तुं नापनेतुं  शक्यम्। यत्र। नः- अस्माकम्। पूर्वे पितरः- पूर्वपुरुषाः। परेयुः-परलोकं गताः। एना- अनेन।  स्वाः पथ्या अनु- स्वमार्गाननुसृत्य। जज्ञानाः- पुनर्जाता भवन्ति॥२॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**प्रथमः** सर्वेषां मुख्यः **यमः** **नः** अस्माकं प्रजानां **गातुं** शुभाशुभनिमित्तं **विवेद** जानाति । **एषा** **गव्यूतिः** **न** **अपभर्तवा** **उ** । अतिशयज्ञानयोगात् यमस्य न केनचिदपहर्तुमपनेतुं शक्यत इत्यर्थः । **यत्र** यस्मिन् मार्गे **नः** अस्माकं **पूर्वे** **पितरः** **परेयुः** **एना** अनेन मार्गेण गच्छन्तः: **जज्ञानाः** जाताः सर्वे **स्वाः** स्वभूताः **पथ्याः** स्वकर्ममार्गभूता गतीः **अनु** गच्छन्ति ।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Yama**, the chief (of all), knows our well-being; this pasture no one can take from us; by the road bywhich our forefathers have gone, all who are born (proceed) along the paths they have made for themselveṣ”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Yama...from us: Yama first discovered the path for us; this pasture cannot be taken away from us; the paths theyhave made for themselves: i.e., according to their good and evil conduct
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Yama first found the way for us: this pasture-land is not to be taken away. (The way) on which our ancient forefathers departed, along that (do)  those who have since been born (follow) along their own paths.
+</details>
+
+<details><summary>Griffith</summary>
+
+Yama first found for us a place to dwell in: this pasture never can be taken from  
+     Us.  
+     Men born on earth tread their own paths that lead them whither our ancient Fathers have departed.
+</details>
+
+<details><summary>Macdonell</summary>
+
+For us has Yama first found out the pathway: This pasture never can be taken from us. To where have passed away our former fathers, The later born by their own paths have travelled.
+</details>
+
+<details><summary>Geldner</summary>
+
+Yama hat uns zuerst den Weg aufgefunden; dieser begangene Weg ist uns nicht mehr zu entreißen; auf welchem Wege unsere Vorväter abgeschieden sind, auf dem ziehen die Geborenen je ihre Straße.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Zuerst hat Jama uns die Bahn gefunden zu jener Flur, die niemand uns entziehn kann, Zu welcher unsre Ahnen hingelangt sind, indem sie seine Pfade dort erkannten.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Яма первым нашел для нас выход –  
+Это пастбище назад не отобрать.  
+Куда (некогда) прошли наши древние отцы,  
+Туда (все) рожденные (последуют) по своим путям.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- यमः
+- यमः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यमः नः गातुं प्रथमः विवेद) समय ने ही हमारी जीवनगति को प्रथम से ही प्राप्त किया हुआ है, अत एव (एषा गव्यूतिः-न-अपभर्तवा-उ) यह कालमार्ग किसी तरह त्यागा नहीं जा सकता (यत्रा नः पूर्वे पितरः परेयुः) जिस मार्ग में हमसे पूर्व उत्पन्न जनक आदि पालक जन भी कुलपरम्परा से यात्रा करते चले आये हैं और (एना जज्ञानाः स्वाः पथ्या-अनु) इसी मार्ग से उत्पन्न हुए सभी प्राणी और वनस्पति आदि पदार्थ निज मार्गसंबन्धी धर्मों का अनुगमन करते हैं, अत एव उस समय को पूर्वमन्त्रानुसार होम द्वारा स्वानुकूल बनाना चाहिए ॥२॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  प्रत्येक प्राणी के गर्भकाल ने ही जीवन की गति को आरम्भ कर दिया है। यावत् शरीरपात हो यह जीवनगति चलती रहती है। उस काल के अधीन होकर जनक आदि भी यात्रा करते हैं, अपितु संसार के सभी जड़-चेतन पदार्थ अपनी-अपनी प्रकृति, योनि किंवा कर्मानुसार परिणाम और पुष्प-फलादि को प्राप्त करते हैं। इस प्रकार यह यात्रा सबके लिए अवश्यम्भावी है ॥२॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यमः-नः-गातुं प्रथमः-विवेद) यमः-कालो नः-अस्माकं गातुम्-गमनम्-गतिम् “गातुं गमनम्” [निरु०४।२१] प्रथमः सन् विवेद-लब्धवान् “विद्लृ लाभार्थोऽत्र’ अस्माकं जीवनगतिं प्रारम्भिकः समयः प्राप्तवानित्यर्थः। (एषा गव्यूतिः न-अपभर्तवा उ ) एषा गव्यूतिरेष मार्गो नैवापहर्तव्यस्त्यक्तुं शक्यः “कृत्यार्थे तवैकेन्केन्यत्वनः” [अष्टा०३।४।१४] (यत्रा नः पूर्वे पितरः परेयुः) यस्मिन् मार्गेऽस्माकं पूर्वे पितरोऽस्मदपेक्षया पूर्वे जनकादयः पालयितृजनाः परेयुः-परागच्छन्ति कुलपरम्परया यात्रां कुर्वन्ति ‘परेयुरिति सामान्ये काले लिट्’ (एना जज्ञानाः स्वाः पथ्या-अनु) अनेनैव मार्गेण जाता उत्पन्नाः सर्वेऽपि पदार्थाः स्वाः-निजान् मार्गे भवान् धर्मान् “भवे छन्दसि” [अष्टा०४।४।११०] अनुगच्छन्ति ॥२॥
+</details>

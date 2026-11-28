@@ -1,0 +1,505 @@
++++
+title = "003"
+devataa = "वायुः"
+RShiH = "वसिष्ठः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वायुः
+- ऋषिः - वसिष्ठः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+प्र᳓ या᳓भिर् या᳓सि दाशुवां᳓सम् अ᳓छा  
+नियु᳓द्भिर् वायव् इष्ट᳓ये दुरोणे᳓  
+नि᳓ नो रयिं᳓ सुभो᳓जसं युवस्व  
+नि᳓ वीरं᳓ ग᳓व्यम् अ᳓श्वियं च रा᳓धः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+ácha ← ácha (invariable)  
+{}
+
+dāśvā́ṁsam ← dāśváṁs- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+yā́bhiḥ ← yá- (pronoun)  
+{case:INS, gender:F, number:PL}
+
+yā́si ← √yā- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+duroṇé ← duroṇá- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+iṣṭáye ← iṣṭí- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+niyúdbhiḥ ← niyút- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+vāyo ← vāyú- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+ní ← ní (invariable)  
+{}
+
+rayím ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+subhójasam ← subhójas- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yuvasva ← √yu- 1 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+áśvyam ← áśvya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+gávyam ← gávya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+ní ← ní (invariable)  
+{}
+
+rā́dhaḥ ← rā́dhas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vīrám ← vīrá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र याभि॒र्यासि॑ दा॒श्वांस॒मच्छा॑ नि॒युद्भि॑र्वायवि॒ष्टये॑ दुरो॒णे ।  
+नि नो॑ र॒यिं सु॒भोज॑सं युवस्व॒ नि वी॒रं गव्य॒मश्व्यं॑ च॒ राधः॑ ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+प्र याभि॒र्यासि॑ दा॒श्वाँस॒मच्छा॑ नि॒युद्भि॑र्वायवि॒ष्टये॑ दुरो॒णे।  
+नि नो॑ र॒यिँ सु॒भोज॑सं युवस्व॒ नि वी॒रं गव्य॒मश्व्यं॑ च॒ राधः॑ ॥२७ ॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+प्र याभि॒र्यासि॑ दा॒श्वाँस॒मच्छा॑ नि॒युद्भि॑र्वाय इ॒ष्टये॑ दुरो॒णे । 
+नि नो॑ र॒यिँ सु॒भोज॑सं युवस्व॒ नि वी॒रं गव्य॒मश्व्यं॑ च॒ राधः॑ ॥४॥ २६
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+प्र याभिर्यासि दाश्वाँसमच्छा नियुद्भिर्वाय इष्टये दुरोणे।  
+नि नो रयिँ सुभोजसं युवस्व नि वीरं गव्यमश्व्यं च राधः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । याभिः॑ । यासि॑ । दा॒श्वांस॑म् । अच्छ॑ । नि॒युत्ऽभिः॑ । वा॒यो॒ इति॑ । इ॒ष्टये॑ । दु॒रो॒णे ।  
+नि । नः॒ । र॒यिम् । सु॒ऽभोज॑सम् । यु॒व॒स्व॒ । नि । वी॒रम् । गव्य॑म् । अश्व्य॑म् । च॒ । राधः॑ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+प्र। याभिः॑। यासि॑। दा॒श्वाँस॑म्। अच्छ॑। नि॒युद्भि॒रिति॑ नि॒युत्ऽभिः॑। वा॒यो॒ इति॑ वायो। इ॒ष्टये॑। दु॒रो॒णे। नि। नः॒। र॒यिम्। सु॒भोज॑स॒मिति॑ सु॒ऽभोज॑सम्। यु॒व॒स्व॒। नि। वी॒रम्। गव्य॑म्। अश्व्य॑म्। च॒। राधः॑। २७।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+प्र। याभिः॑। यासि॑। दा॒श्वाँस॑म्। अच्छ॑। नि॒युद्भि॒रिति॑ नि॒युत्ऽभिः॑। वा॒यो॒ इति॑ वायो। इ॒ष्टये॑। दु॒रो॒णे। नि। नः॒। र॒यिम्। सु॒भोज॑स॒मिति॑ सु॒ऽभोज॑सम्। यु॒व॒स्व॒। नि। वी॒रम्। गव्य॑म्। अश्व्य॑म्। च॒। राधः॑। ४।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- या᳓भिः (*MS*-7/3763, *TS*-7/3385, *RV*-84/4011, *TB*-1/1735, *TK*-0/227, *AV*-9/3120, *SB-M*-8/8327, *SB-K*-8/8438, *VS-M*-4/651, *VS-K*-4/609)
+- या᳓सि (यद्वृत्तान्नित्यम् पा॰ ८.१.६६, *MS*-1, *TS*-2, *RV*-10, *AV*-2, *VS-M*-1, *VS-K*-1)
+- दाश्वां᳓सम् (*MS*-1/2, *TS*-1/2, *RV*-9/11, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-1/2, *VS-K*-1/2)
+- अ᳓च्छा (*TS*-3, *TB*-7, *SB-M*-2, *SB-K*-18, *VS-K*-9, *MS*-1)
+- नियु᳓द्भिः (*MS*-4, *TS*-2, *RV*-10, *TB*-3, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-6, *VS-K*-6/8)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-211, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-36)
+- यः (समानान्तर-पाठः (VS-K), *MS*-16, *TS*-3, *TB*-11, *TK*-1, *AV*-1, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-2)
+- इष्ट᳓ये (*MS*-2/5, *TS*-1/11, *RV*-20/34, *TB*-0/2, *TK*-0/2, *AV*-2/3, *SB-M*-1/16, *SB-K*-1/21, *VS-M*-2, *VS-K*-2)
+- दुरोणे᳓ (*MS*-7, *TS*-1, *RV*-31/35, *TB*-2, *TK*-1, *AV*-6, *VS-M*-3, *VS-K*-4)
+- नि᳓ (*MS*-193, *TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- रयि᳓म् (*MS*-51/71, *TS*-41/63, *RV*-198/269, *TB*-12/20, *TK*-0/4, *AV*-50/65, *SB-M*-13/22, *SB-K*-11/20, *VS-M*-25/36, *VS-K*-27/37)
+- सु-भो᳓जसम् (*MS*-1, *TS*-1, *RV*-1, *VS-M*-1, *VS-K*-1)
+- युवस्व (समानान्तर-पाठः (VS-K), *MS*-1, *TS*-1, *RV*-4, *VS-M*-1, *VS-K*-1)
+- नि᳓ (*MS*-193, *TS*-125, *RV*-482, *TB*-86, *TK*-2, *AV*-207, *SB-M*-414, *SB-K*-397, *VS-M*-46, *VS-K*-36)
+- वीर᳓म् (*MS*-12/36, *TS*-4/20, *RV*-22/119, *TB*-7/25, *AV*-6/66, *SB-M*-4/28, *SB-K*-3/32, *VS-M*-8/19, *VS-K*-6/17)
+- ग᳓व्यम् (*MS*-2/3, *TS*-3, *RV*-15/27, *AV*-4/7, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-3/4, *VS-K*-3/4)
+- अ᳓श्व्यम् (*MS*-1, *RV*-12/25, *AV*-2/3, *SB-M*-1, *SB-K*-1, *VS-M*-1, *VS-K*-1)
+- च (अनुदात्तम्, पा॰ ८.१.१८, *MS*-1700, *TS*-1411, *RV*-1096, *TB*-530, *TK*-145, *AV*-1417, *SB-M*-3024, *SB-K*-2881, *VS-M*-920, *VS-K*-686)
+- रा᳓धः (*Whitney*, *MS*-7/12, *TS*-5/10, *RV*-63/145, *TB*-2/3, *AV*-13/20, *SB-M*-1/9, *SB-K*-2/8, *VS-M*-2/7, *VS-K*-2/7)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *yābhir* ← *yābhiḥ* ← *yad*
+- \[noun\], instrumental, plural, feminine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *yāsi* ← *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+
+_________
+
+- *dāśvāṃsam* ← *dāś*
+- \[verb noun\], accusative, singular
+- “sacrifice; give.”
+
+_________
+
+- *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+
+_________
+
+- *niyudbhir* ← *niyudbhiḥ* ← *niyut*
+- \[noun\], instrumental, plural
+- “gift; team.”
+
+_________
+
+- *vāyav* ← *vāyo* ← *vāyu*
+- \[noun\], vocative, singular, masculine
+- “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
+    draft; vāyu \[word\]; Vāyu; Marut.”
+
+_________
+
+- *iṣṭaye* ← *iṣṭi*
+- \[noun\], dative, singular, feminine
+- “seeking.”
+
+_________
+
+- *duroṇe* ← *duroṇa*
+- \[noun\], locative, singular, neuter
+- “home; dwelling.”
+
+_________
+
+- *ni*
+- \[adverb\]
+- “back; down.”
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+
+_________
+
+- *rayiṃ* ← *rayim* ← *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+
+_________
+
+- *subhojasaṃ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *subhojasaṃ* ← *bhojasam* ← *bhojas*
+- \[noun\], accusative, singular, masculine
+- “advantage; utility; food.”
+
+_________
+
+- *yuvasva* ← *yu*
+- \[verb\], singular, Present imperative
+- “unite.”
+
+_________
+
+- *ni*
+- \[adverb\]
+- “back; down.”
+
+_________
+
+- *vīraṃ* ← *vīram* ← *vīra*
+- \[noun\], accusative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+
+_________
+
+- *gavyam* ← *gavya*
+- \[noun\], accusative, singular, neuter
+- “bovine.”
+
+_________
+
+- *aśvyaṃ* ← *aśvyam* ← *aśvya*
+- \[noun\], accusative, singular, neuter
+- “equine.”
+
+_________
+
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *rādhaḥ* ← *rādhas*
+- \[noun\], accusative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+याभिः। नियुद्भिः- प्राणवडवाभिः। दाश्वांसम्- दातारम्। अच्छ- अभिलक्ष्य। प्र- प्रकर्षेण। वायो-  प्राणदेव। इष्टये दुरोणे- देवयजनदेशे। यासि- गच्छसि। ताभिः। नः- अस्मभ्यम्। सुभोजसम्-  शोभनभोगवतीम्। रयिम्- दानयोग्यसम्पदम्। वीरम्- वीरवतीम्। गव्यम्- चिद्रश्मिसमूहयुक्ताम्।  अश्व्यम्- प्राणतुरगवतीम्। राधः- संसिद्धिम्। नि युवस्व- प्रयच्छ॥३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **वायो** **दुरोणे** यज्ञगृहे स्थितं **दाश्वांसं** हविषां दातारं यजमानम् **इष्टये** यागाय **याभिः** **नियुद्भिः** वडवाभिः **अच्छ** **यासि** अभिगच्छसि ताभिरस्मान् प्रत्यागच्छेति शेषः । आगत्य च **नः** अस्मभ्यं **सुभोजसं** शोभनान्नयुक्तं **रयिं** धनं **नि** **युवस्व** नितरां मिश्रय प्रयच्छ । तथा **वीरं** पुत्रं **गव्यं** गोसंघम् **अश्व्यम्** अश्वसंघमेतदुभयात्मकं **राधः** धनं **च** **नि** युवस्व प्रयच्छ ॥ ।
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+प्रयाहि प्रयासि याभिर् नियुद्भिः।  
+नियुच्-छब्द उभय-लिङ्गः स्त्रियां पुंसि च।  
+दाश्वांसं यजमानं ‘अच्छाभेर् आप्तुम् इति शाकपूणिः’।  
+हवींषि दत्तवन्तं यजमानम् अभि।  
+हे वायो, इष्टये यागाय एषणाय वा।  
+दुरोणे यज्ञ-गृहे वर्तमानं यजमानम्।  
+ताभिर् नियुद्भिर् आगत्य। नो रयिं सुभोजसं युवस्व। नि-पूर्वो यौतिर् दानार्थः।  
+नियुवस्व देहि नो ऽस्मभ्यं रयिं धनम्।  
+किं-भूतम्।  
+सुभोजसम् साधु भुज्यत इति सुभोजाः तं सुभोजसम्।  
+किं च।  
+वीरं पुत्रम् गव्यं च राधः अश्व्यं च राधो धनम् नियुवस्व इति॥ २७॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+द्वे वायु-देवत्ये त्रिष्टुभौ वसिष्ठ-दृष्टे।  
+हे वायो, त्वं याभिर् नियुद्भिर् अश्वाभिः कृत्वा इष्टये यागाय दुरोणे यज्ञ-गृहे वर्तमानं दाश्वांसं हविर्-दत्तवन्तं यजमानम् अच्छ अभिमुखं प्रयासि गच्छसि।  
+‘निपातस्य च’ (पा॰ ६। ३। १३६) इति संहितायाम् अच्छा इति दीर्घः।  
+‘व्यवहिताश्च’ [[(पा॰ १.४। ८२)|(पा॰ १। ४। ८२)]] इति [[प्रणयासीत्यस्य|प्रयासीत्यस्य]] व्यवधानम्।  
+ताभिर् नियुद्भिर् आगत्य नो ऽस्मभ्यं रयिं धनं नियुवस्व देहि।  
+नियौतिर् दानार्थः व्यत्ययेन श-प्रत्ययः।  
+कीदृशं रयिम्।  
+सु-भोजसं सुष्ठु भुज्यत इति सु-भोजास् तम्।  
+भुजेर् असुन्-प्रत्ययः।  
+किं च वीरं पुत्रं गव्यं गो-संबन्धि [[अश्वमश्वसंबन्धि|अश्व्यम् अश्व-संबन्धि]] गो-ऽश्व-रूपं राधः धनं च नियुवस्व॥ २७॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+अथ चतुर्थी — राधः ॥२६॥  
+हे वायो !  
+याभिः नियुद्भिः इष्टये यागाय, दुरोणे [[याग गृहे वर्त्त मानं|याग-गृहे वर्तमानं]] दाश्वांसं हविर्-दत्तवन्तं दान-शीलम् अच्छ अभिप्राप्तुं प्रयासि गच्छसि, ताभिर् एव आगत्य, नः अस्मभ्यम्, वीरं वीर्योपेतं पुत्रं नियुवस्व, सुभोजसं सुष्ठु भोजयितारं रयिं नियुवस्व ।  
+तथा गव्यं गो-समूहम्, अश्व्यम् [[अश्वीसमूहं तद् उभयात्मकम्|अश्व-समूहं तद्-उभयात्मकं]] राधः धनं च नियुवस्व ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+वायुं ‘प्र याभिः' इति ।  
+वायु-देवत्या त्रिष्टुप् । “अच्छाभेर् आप्तुम्” इति शाकपूणिः (नि ५.२८) ।  
+हे वायो, [[दाश्वासं|दाश्वांसं]] दान-शीलम् ।  
+अच्छ आप्तुं याभिः नियुद्भिः अश्वैः प्रयासि ।  
+इष्टये यागाय यागं कर्तुं दुरोणे याग-गृहे स्थितं सु-भोजसम् ।  
+सुखेन भुज्यताम् इति यः सह वदति सः सु-भोजास् तं सु-भोजसं यजमानम् ।  
+ताभिः नियुद्भिः सहितस् त्वं प्रयासि ।  
+‘नि नो [[रयि|रयिं]] सु-भोजसं युवस्व' ।  
+यु मिश्रणे ।  
+नि-पूर्वस्य युवतेर् दानार्थत्वम् ।  
+नि युवस्व रयिं नः अस्मभ्यं धनं देहि ।  
+किं च । [[Vनि|नि]] वीरं पुत्रं च नियुवस्व देहि ।  
+गव्यं गोभ्यो हितम् ।  
+अश्व्यम् अश्वेभ्यो हितम् ।  
+अश्व्यं च राधः सादय ॥ २६ ॥
+</details>
+
+<details><summary>अनन्ताचार्य-टीका</summary>
+
+'प्रयाभिः ।
+
+वायुदेवत्या त्रिष्टुप् वसिष्ठ-दृष्टा ।
+
+हे वायो, त्वं याभिः नियुद्भिः अश्वाभिः "इष्टये यागाय दुरोणे । दुरोणम् इति गृह-नाम । यज्ञ-गृहे वर्तमानं दाश्वासं हविर्दत्तवन्तं यजमानम् 'अच्छ अभिमुखं प्र यासि गच्छसि । दीर्घः संहितायामार्षः । “निपातस्य च” (पा ६.३.१३६) इति सूत्रेण । “व्यवहिताश् च” (पा १.४.८२) इति प्रेण यासीत्यस्य व्यवधाने ऽपि संबन्धः । ताभिः नियुद्भिः अस्मच्-छालाम् आगत्य नः अस्मभ्यम् । सुष्ठु भुज्यत इति सुभोजास् तं सुभोजसं रयिं "नियुवस्व देहि ।
+
+नियौतिर्दानार्थः ।
+
+व्यत्ययेन शप्-प्रत्ययः ।
+
+सुभोज-समित्य्-अत्र कर्मणि भुजेरसुन्प्रत्ययः ।
+
+किं च ।
+
+वीरं पुत्रम् ।
+
+'गव्यं गोसंबन्धि । 'अश्व्यम् अश्वसंबन्धि ।
+
+गो ऽश्वरूपं राधः धनं च नि युवस्व ।
+
+राध इति धन-नाम ॥४॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[140_2]** D द्भिर्वायु इष्टये; Ch श्शिर्वाय इष्टये
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+विद्वान् को कैसा होना चाहिये, इस विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (वायो) विद्वन् ! वायु के समान वर्त्तमान आप (प्र, याभिः) अच्छे प्रकार चाहने योग्य (नियुद्भिः) नियत गुणों से (इष्टये) अभीष्ट सुख के अर्थ (अच्छ, यासि) अच्छे प्रकार प्राप्त होते हो। (दुरोणे) घर में (नः) हमारे (सुभोजसम्) सुन्दर भोगने के हेतु (दाश्वांसम्) सुख के दाता (रयिम्) धन को (नि, युवस्व) निरन्तर मिश्रित कीजिये। (वीरम्) विज्ञानादि गुणों को प्राप्त (गव्यम्) गौ के हितकारी (च) तथा (अश्व्यम्) घोड़े के लिये हितैषी (राधः) धन को (नि) निरन्तर प्राप्त कीजिये ॥२७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जैसे वायु सब जीवन आदि इष्ट कर्मों को सिद्ध करता है, वैसे विद्वान् पुरुष इस संसार में वर्त्ते ॥२७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+विदुषा कथं भवितव्यमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वन् ! वायो वायुरिव त्वं प्रयाभिर्नियुद्भिरिष्टयेऽच्छ यासि, दुरोणे नः सुभोजसं दाश्वांसं रयिं नियुवस्व, वीरं गव्यमश्व्यं च राधो नि युवस्व। २७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। यथा वायुः सर्वाणि जीवनादीनीष्टानि कर्माणि साध्नोति तथा विद्वानस्मिन् संसारे वर्त्तेत ॥२७ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जसा वायू सर्व जीवन इत्यादी इष्ट कर्त सिद्ध करतो तसे विद्वानांनी या जगात जगावे.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“With those **Niyut** steeds, with which you go, **Vāyu**, to the donor (of the libation), waiting in this hall tooffer sacrifice, (come to us), and bestow upon us enjoyable riches, bestow **male** progeny, and wealth,comprehending cattle, and horses.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+With the teams that you drive forth to the pious one, Vāyu, for your  quest in his house,  
+hitch up (teams that are) well-nourishing wealth for us, (teams that are)  hero(es) and bounty in cows and horses.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+I assume that the object of Vāyu’s quest in our house is soma. Other interpr.
+
+take iṣṭáye differently: Geldner “um gern in sein Haus zu kommen,” which seems quite loose; Renou “pour (aller le) chercher en (sa) demeure,” with the referent of “le” apparently dāśvā́ṃsam of pāda a, which I suppose is possible.
+
+As disc. in the published introduction, this vs. makes clear the equation between the teams (niyút-) in ab that Vāyu drives to the sacrifice, his wind-horses, and the teams 115 of wealth he hitches up (ní … yuvasva) for us in cd. In cd we would expect an accusative resumptive prn. tā́n or the like, picking up the rel. phrase yā́bhiḥ … niyúdbhiḥ of ab and serving as obj. of ní … yuvasva. The absence of this prn. is presumably what led Geldner to pronounce the yā́bhiḥ of a as “die freie Verwendung des Relatives” (n. 3) and to tr. the subordinator with “Wenn.” But I think rather that the objects in cd stand for the missing *niyútaḥ. Though the noun niyút- doesn’t appear explicitly in cd, elsewhere that noun can be obj. of its etymologically twin verb; cf., e.g., I.180.6 ní yád yuvéthe niyútaḥ ... and, in the immediately hymn, the passive phrase niyuvānā́niyútaḥ ... (VII.91.5). Therefore the accusatives in cd expressing wealth and its material realizations are implicitly equated with niyút-. The important complementarity of the two forms of ní √yu in the two hemistichs is disguised by Geldner’s bland translation of the verb in c: “gib uns”; similarly Klein (DGRV I.26) “grant to us.” In the phrase in d vīráṃ gávyam áśvyaṃ ca rā́dhaḥ “(a) hero and bovine and equine bounty,” the sg. vīrám is superficially unsettling and disharmonious: surely we want more than a single hero! But vīrám most likely is meant to characterize rádhaḥ, along with the common adjectival collocation gávyam áśvyam. However, an adjectival vīryá- *‘consisting of heroes’ is blocked, because that stem has been frozen as a neut. substantive meaning ‘heroism, heroic deed’. I would now be inclined to reflect what I consider the substitution of vīrá- for the non-functional adjectival stem and tr. the acc. phrase as “(teams that are) well-nourishing wealth for us, bounty in heroes, in cows and horses.”
+</details>
+
+<details><summary>Griffith</summary>
+
+The teams wherewith thou seekest him who offers, within his home, O Viyu, to direct him,  
+     Therewith send wealth: to us with full enjoyment, a hero son and gifts of kine and horses.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+With those teams of horses with which you go to the worshipper, O Vāyu, for the sacrifice in his dwelling,  
+bring wealth affording good enjoyment, bring a hero, cattle, and horses as wealth.
+</details>
+
+<details><summary>Geldner</summary>
+
+Wenn du mit den Niyut zum Opfernden ausfährst, Vayu, um gern in sein Haus zu kommen, so gib uns genußvollen Reichtum zu eigen, einen Sohn und das Ehrengeschenk von Rindern und Rossen.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Mit welchen Vielgespannen du, o Vaju, zum Frommen kommst ins Haus, um ihm zu helfen, Mit denen führ uns nahrungsreiches Gut zu, uns einen Sohn und Ross und Rinderfülle.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+(Те) упряжки, на которых ты едешь  
+К почитателю в дом, о Ваю, чтобы помочь:  
+Надели нас богатством, дающим большое наслаждение,  
+На(дели) сыном и почетным даром из коров и коней!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वायु:
+- वसिष्ठः
+- विराट्त्रिष्टुप्
+- धैवतः
+
+- वायुर्देवता
+- वसिष्ठ ऋषिः
+- स्वराट्पङ्क्तिः
+- पञ्चमः
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वायो) हे ज्ञानयोगी विद्वन् ! (इष्टये) यज्ञ के लिए (दुरोणे) यज्ञमण्डपों में जाकर (नियुद्भिः) याज्ञिक लोगों द्वारा आह्वान किये हुए आप (यासि) जाकर प्राप्त होओ और वहाँ जाकर (वीरं) वीरतायुक्त पुरुष (गव्यं) गौऐं (अश्व्यं) घोड़े (च) और (राधः) धन को (युवस्व) दें और (सुभोजसम्) सुन्दर-सुन्दर भोजन (रयिं) धनादि पदार्थ दें॥३॥
+</details>
+
+<details><summary>आर्यमुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  परमात्मा उपदेश करते हैं कि यजमानों से आह्वान किये हुए विद्वान् लोग यज्ञमण्डपों में जाकर जनता को गौऐं, घोड़े और धनादि ऐश्वर्यों के उत्पन्न करने का उपदेश करें ॥३॥
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वायो) हे ज्ञानयोगिन् ! (इष्टये) यज्ञाय (दुरोणे) यज्ञशालायां (नियुद्भिः) याज्ञिकैराहूतः (यासि) तत्र गच्छ गत्वा च (वीरम्) वीरपुरुषं (गव्यम्) गोसङ्घम् (अश्व्यम्) अश्वसङ्घं च (च) च पुनः (राधः) अन्नादिपदार्थं (युवस्व) देहि (सुभोजसम्) सुष्ठुभोज्यपदार्थं (रयिम्) धनानि च देहि ॥३॥
+</details>

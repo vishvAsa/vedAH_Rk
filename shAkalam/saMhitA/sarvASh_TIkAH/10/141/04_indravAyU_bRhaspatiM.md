@@ -1,0 +1,289 @@
++++
+title = "004"
+devataa = "विश्वेदेवाः"
+RShiH = "अग्निस्तापसः"
+ChandaH = "अनुष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विश्वेदेवाः
+- ऋषिः - अग्निस्तापसः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+इन्द्रवायू᳓ बृ᳓हस्प᳓तिं  
+सुह᳓वेह᳓ हवामहे  
+य᳓था नः स᳓र्व इ᳓ज् ज᳓नः  
+सं᳓गत्यां सुम᳓ना अ᳓सत्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for non-linguistic reasons
+
+_________
+**Pāda-label**  
+genre D;; epic anuṣṭubh (292);; repeated line  
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292)  
+genre D;; epic anuṣṭubh (292)
+_________
+**Morph**  
+bŕ̥haspátim ← bŕ̥haspáti- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+indravāyū́ ← indra-vāyú- (nominal stem)  
+{case:NOM, gender:M, number:DU}
+
+havāmahe ← √hū- (root)  
+{number:PL, person:1, mood:IND, tense:PRS, voice:MED}
+
+ihá ← ihá (invariable)  
+{}
+
+suhávā ← suháva- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+ít ← ít (invariable)  
+{}
+
+jánaḥ ← jána- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+sárvaḥ ← sárva- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yáthā ← yáthā (invariable)  
+{}
+
+ásat ← √as- 1 (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+sáṁgatyām ← sáṁgati- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+sumánāḥ ← sumánas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+इ॒न्द्र॒वा॒यू बृह॒स्पतिं॑ सु॒हवे॒ह ह॑वामहे ।  
+यथा॑ नः॒ सर्व॒ इज्जनः॒ सङ्ग॑त्यां सु॒मना॒ अस॑त् ॥
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+इन्द्रवायू बृहस्पतिः  
+सुहवेह हवामहे ।  
+यथा नः सर्वम् इज् जगत्  
+सङ्गत्यां सुमना असत् ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒न्द्र॒वा॒यू इति॑ । बृह॒स्पति॑म् । सु॒ऽहवा॑ । इ॒ह । ह॒वा॒म॒हे॒ ।  
+यथा॑ । नः॒ । सर्वः॑ । इत् । जनः॑ । सम्ऽग॑त्याम् । सु॒ऽमनाः॑ । अस॑त् ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- इन्द्र-वायू᳓ (*TS*-3/4, *RV*-8, *AV*-1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-2/3, *VS-K*-1/2, *KS*-0/2, *MS*-3/4)
+- बृ᳓हस्प᳓तिः (*TS*-70/84, *RV*-53, *TB*-16, *TK*-3, *AV*-91, *SB-M*-66, *SB-K*-56, *VS-M*-22, *VS-K*-20/31, *KS*-12, *MS*-94)
+- सु-ह᳓वा (*TS*-3/9, *RV*-6/30, *TB*-3, *AV*-8/17, *SB-K*-0/1, *VS-M*-1/5, *VS-K*-1/4, *MS*-3/8)
+- इह᳓ (*TS*-100, *RV*-277, *TB*-36, *TK*-1, *AV*-262, *SB-M*-168, *SB-K*-187, *VS-M*-92, *VS-K*-91, *KS*-22, *MS*-92)
+- ह᳓वामहे (*TS*-5, *RV*-16, *AV*-5, *SB-M*-1, *SB-K*-4, *VS-M*-1, *VS-K*-1, *KS*-1, *MS*-4)
+- य᳓था (*MW* ŚBr., *TS*-123, *RV*-238, *TB*-53, *TK*-5, *AV*-254, *SB-M*-646, *SB-K*-693, *VS-M*-27, *VS-K*-24, *KS*-26, *MS*-113)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-140, *TK*-10, *AV*-1014, *SB-M*-518, *SB-K*-545, *VS-M*-441, *VS-K*-377, *KS*-115, *MS*-537)
+- स᳓र्वम् (*TS*-49/287, *RV*-19/68, *TB*-44/156, *TK*-19/114, *AV*-108/444, *SB-M*-869/2265, *SB-K*-855/2286, *VS-M*-13/55, *VS-K*-7/43, *KS*-7/34, *MS*-68/410)
+- इ᳓त् (*TS*-1, *RV*-809, *TB*-16, *TK*-4, *AV*-245, *SB-M*-87, *SB-K*-94, *VS-M*-61, *VS-K*-50, *KS*-11, *MS*-78)
+- ज᳓गत् (*Whitney*, *MW*, *TS*-6/16, *RV*-16/40, *TB*-1/3, *TK*-0/1, *AV*-7/20, *SB-M*-6/9, *SB-K*-5/12, *VS-M*-7/14, *VS-K*-5/15, *KS*-1/3, *MS*-5/19)
+- स᳓ङ्गत्याम् (*MW*, *Macdonell*)
+- सु-म᳓नाः (*TS*-10/17, *RV*-27, *AV*-10/11, *SB-M*-0/1, *SB-K*-1, *VS-M*-9, *VS-K*-9/13, *KS*-0/1, *MS*-9/13)
+- अ᳓सत् (*MW* ŚBr., *TS*-15/24, *RV*-32/44, *TB*-3/6, *AV*-21/31, *SB-M*-31/35, *SB-K*-30/34, *VS-M*-9/10, *VS-K*-10/14, *KS*-0/1, *MS*-8/11)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *indravāyū* ← *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *indravāyū* ← *vāyū* ← *vāyu*
+- \[noun\], accusative, dual, masculine
+- “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
+    draft; vāyu \[word\]; Vāyu; Marut.”
+
+_________
+
+- *bṛhaspatiṃ* ← *bṛhaspatim* ← *bṛhaspati*
+- \[noun\], accusative, singular, masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+
+_________
+
+- *suhaveha* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *suhaveha* ← *havā* ← *hava*
+- \[noun\], accusative, dual, masculine
+- “invocation.”
+
+_________
+
+- *suhaveha* ← *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+
+_________
+
+- *havāmahe* ← *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+
+_________
+
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+
+_________
+
+- *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *sarva* ← *sarvaḥ* ← *sarva*
+- \[noun\], nominative, singular, masculine
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+
+_________
+
+- *ij* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+
+_________
+
+- *janaḥ* ← *jana*
+- \[noun\], nominative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+
+_________
+
+- *saṃgatyāṃ* ← *saṃgatyām* ← *saṃgati*
+- \[noun\], locative, singular, feminine
+- “meeting; association; contact.”
+
+_________
+
+- *sumanā* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *sumanā* ← *manāḥ* ← *manas*
+- \[noun\], nominative, singular, masculine
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+
+_________
+
+- *asat* ← *as*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्रवायू- ईशनाधिदेवता प्राणाधिदेवता च। सुहवा- शोभनाह्वानपात्रौ। बृहस्पतिम्-  मेधाधिदैवतम्। इह- अत्र। हवामहे- आह्वयामः। यथा। नः- अस्मभ्यम्। सर्व इज्जनः- सर्वोऽयं  देवजनः। सङ्गत्याम्- सङ्गमने। सुमनाः- शोभनमनस्कः। असत्- भवेत्। तथा आह्वयामः॥४॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+इन्द्रश्च वायुश्च **इन्द्रवायू** । “ उभयत्र वायोः प्रतिषेधो वक्तव्यः' (पा. सू. ६. ३. २६. १) इत्यानङः प्रतिषेधः । ‘नोत्तरपदेऽनुदात्तादौ ' इति ‘देवताद्वन्द्वे च ' इति प्राप्तस्योभयपदप्रकृतिस्वरस्य निषेधः । ‘ समासस्य ' इत्यन्तोदात्तत्वम् । **बृहस्पतिं** बृहतां देवानां पालकम् । तद्बृहतोः करपत्योः' ( पा. सू. ६. १. १५७ ) इति सुट्तलोपौ । वनस्पत्यादित्वादुभयपदप्रकृतिस्वरत्वम् । **सुहवा** सुहवौ सुह्वानौ इन्द्रवायू बृहस्पतिं च **इह** अस्मिन् कर्मणि **हवामहे** आह्वयामहे । **यथा** **नः** अस्माकं **सर्व** **इत्** सर्व एव **जनः** **संगत्यां** संगमने धनस्य प्राप्तौ **सुमनाः** **असत्** शोभनमनस्को भवेत् तथा आह्वयामह इत्यर्थः । अस्तेर्लेट्यडागमः ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“We invoke the adorable **Indra** and **Vāyu** and **Bṛhaspati** on this occasion, that all our race may befavourably inclined to us in the acquisition (of wealth).”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+On Indra and Vāyu, easy to call, on Br̥haspati we call here,  
+so that every person will be well-disposed to us on meeting.
+</details>
+
+<details><summary>Griffith</summary>
+
+Indra, Vayu, Brhaspati, Gods swift to listen, we invoke,  
+     That in the synod all the folk may be benevolent to us.
+</details>
+
+<details><summary>Geldner</summary>
+
+Indra und Vayu, Brihaspati, die gut zu rufen sind, rufen wir hierher, auf daß uns jedermann bei der Begegnung wohlgesinnt sei.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Indra-Vaju, Brihaspati, die gern erhören rufen wir, Damit uns hier das ganze Volk. bei der Versammlung freundlich sei.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Индру-Ваю, Брихаспати,  
+Легко призываемых, мы зовем сюда,  
+Чтобы каждый человек при встрече  
+Был благожелателен к нам.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विश्वेदेवा:
+- अग्निस्तापसः
+- अनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सुहवा-इन्द्रवायू) उत्तम आह्वान करने योग्य सभाध्यक्ष और सेनाध्यक्ष को (बृहस्पतिम्) बहुतों का पालन करनेवाले वैश्य को (हवामहे) हम आमन्त्रित करते हैं, (यथा नः) जिससे कि हमारे (सर्वः-इत्-जनः) हमारा सब जनसमूह (सङ्गत्याम्) परस्परसङ्गतिमें (सुमनाः) प्रसन्नमन (असत्) हो जावे ॥४॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  प्रजाजन सभाध्यक्ष और सेनाध्यक्षों को तथा प्रजा के पालक वैश्य को आमन्त्रित करें और सब परस्पर संगति में होकर प्रसन्न रहें, ऐसे उपाय पर विचार करें ॥४॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (सुहव-इन्द्रवायू) सुह्वानौ सभासेनेशौ “इन्द्रवायू राजसेनेशौ” [ऋ० ४।४६।७ दयानन्दः] (बृहस्पतिम्) बृहतां पालकं वैश्यम् “बृहतां पालको वैश्यः” [यजु० १४।१९ दयानन्दः] (हवामहे) आह्वयाम आमन्त्रयामहे (यथा नः-सर्वः-इत्-जनः) यथा हि खल्वस्माकं सर्वो जनसमूहः ‘समूहप्रत्ययस्य लोपश्छान्दसः’ (सङ्गत्यां सुमनाः-असत्) परस्परसङ्गतौ प्रसन्नमनाः भवेत् “अस भुवि” [अदादि०] लेटि-अडागमश्च ॥४॥
+</details>

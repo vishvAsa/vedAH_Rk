@@ -1,0 +1,402 @@
++++
+title = "१० तस्माद्यज्ञात्सर्वहुत ऋचः"
+devataa = "पुरुषः"
+RShiH = "नारायणः"
+ChandaH = "अनुष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - पुरुषः
+- ऋषिः - नारायणः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+त᳓स्माद् यज्ञा᳓त् सर्वहु᳓त  
+ऋ᳓चः सा᳓मानि जज्ञिरे  
+छ᳓न्दांसि जज्ञिरे त᳓स्माद्  
+य᳓जुस् त᳓स्माद् अजायत
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
+_________
+**Morph**  
+ajāyanta ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:IPRF, voice:MED}
+
+áśvāḥ ← áśva- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+ca ← ca (invariable)  
+{}
+
+ké ← ká- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+ubhayā́dataḥ ← ubhayā́dant- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+yé ← yá- (pronoun)  
+{}
+
+gā́vaḥ ← gáv- ~ gó- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ha ← ha (invariable)  
+{}
+
+jajñire ← √janⁱ- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:MED}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+
+ajāváyaḥ ← ajāví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+jātā́ḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:PL, non-finite:PPP}
+
+tásmāt ← sá- ~ tá- (pronoun)  
+{case:ABL, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+तस्मा॑द्य॒ज्ञात्स॑र्व॒हुत॒ ऋचः॒ सामा॑नि जज्ञिरे ।  
+छन्दां॑सि जज्ञिरे॒ तस्मा॒द्यजु॒स्तस्मा॑दजायत ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+तस्मा॑द्य॒ज्ञात् स॑र्व॒हुत॒ऽऋचः॒ सामा॑नि जज्ञिरे।  
+छन्दाँ॑सि जज्ञिरे॒ तस्मा॒द्यजु॒स्तस्मा॑दजायत ॥७ ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्मा॑त् । य॒ज्ञात् । स॒र्व॒ऽहुतः॑ । ऋचः॑ । सामा॑नि । ज॒ज्ञि॒रे॒ ।  
+छन्दां॑सि । ज॒ज्ञि॒रे॒ । तस्मा॑त् । यजुः॑ । तस्मा॑त् । अ॒जा॒य॒त॒ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+तस्मा॑त्। य॒ज्ञात्। स॒र्व॒हुत॒ इति॑ सर्व॒ऽहुतः॑। ऋचः॑। सामा॑नि। ज॒ज्ञि॒रे॒। छन्दाँ॑सि। ज॒ज्ञि॒रे॒। तस्मा॑त्। यजुः॑। तस्मा॑त्। अ॒जा॒य॒त॒। ७।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+तस्मा॑त्। य॒ज्ञात्। स॒र्व॒हुत॒ इति॑ सर्व॒ऽहुतः॑। ऋचः॑। सामा॑नि। ज॒ज्ञि॒रे॒। छन्दाँ॑सि। ज॒ज्ञि॒रे॒। तस्मा॑त्। यजुः॑। तस्मा॑त्। अ॒जा॒य॒त॒। ७।
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *tasmād* ← *tasmāt* ← *tad*
+- \[noun\], ablative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *aśvā* ← *aśvāḥ* ← *aśva*
+- \[noun\], nominative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+
+_________
+
+- *ajāyanta* ← *jan*
+- \[verb\], plural, Imperfect
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+
+_________
+
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *ke* ← *ka*
+- \[noun\], nominative, plural, masculine
+- “what; who; ka \[pronoun\].”
+
+_________
+
+- *cobhayādataḥ* ← *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+
+_________
+
+- *cobhayādataḥ* ← *ubhaya*
+- \[noun\]
+- “both(a).”
+
+_________
+
+- *cobhayādataḥ* ← *adataḥ* ← *ad*
+- \[verb noun\], nominative, plural
+- “eat; devour.”
+
+_________
+
+- *gāvo* ← *gāvaḥ* ← *go*
+- \[noun\], nominative, plural
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+
+_________
+
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+
+_________
+
+- *jajñire* ← *jan*
+- \[verb\], plural, Perfect indicative
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+
+_________
+
+- *tasmāt* ← *tad*
+- \[noun\], ablative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *tasmāj* ← *tasmāt* ← *tad*
+- \[noun\], ablative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *jātā* ← *jātāḥ* ← *jan*
+- \[verb noun\], nominative, plural
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+
+_________
+
+- *ajāvayaḥ* ← *aja*
+- \[noun\], masculine
+- “goat; Vishnu; Brahma; Shiva; Aja; aja \[word\]; Aja; aj; Ocimum
+    gratissimum; Puruṣa.”
+
+_________
+
+- *ajāvayaḥ* ← *avayaḥ* ← *avi*
+- \[noun\], nominative, plural, masculine
+- “sheep; avi \[word\]; menstruating woman; ewe.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+तस्मात्। अश्वाः- तुरगाः। अजायन्त- जाताः। ये के च। उभयादतः- उभयपंक्तिदन्तयुक्ता मृगा  जाताः। तस्मात्। गावः- धेनवः। ह। जज्ञिरे- जाताः। तस्मात्। अजावयः। जाताः-  उत्पन्नाः॥१०॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**सर्वहुतः** **तस्मात्** पूर्वोक्तात् यज्ञात् **ऋचः** **सामानि** च जज्ञिरे उत्पन्नाः। **तस्मात्** यज्ञात् **छन्दांसि** गायत्र्यादीनि **जज्ञिरे**। **तस्मात्** यज्ञात् **यजुः** अपि अजायत ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ तत् तस्मात् तादृशाद् यज्ञाद् ऋचस्सामानि जज्ञिरे छन्दांसि च सर्वाण्य् ऋगादिमया वेदा जज्ञिरे । यजुश्च तस्मादजायत । जातावेकवचनम् ॥
+</details>
+
+<details><summary>उवटः</summary>
+
+तस्मादेव यज्ञात्सर्वहुतः प्रज्वालितात् यथा ऋचः सामानि यजूंषि च देवा उत्पादयन्ति छन्दांसि च । एवम् आत्मयज्ञे प्रणवेन दीपिते स्वयमेव ज्ञानात् अधिष्ठितानि भवन्ति । एवं येन परमात्मनि ज्ञायते सर्वे जग्धा(?) सर्वं वाङ्मयं ज्ञानं भवतीति ।। ७ ।।
+</details>
+
+<details><summary>मध्वः</summary>
+
+सर्वहुतः तस्माद्यज्ञात् ऋचः सामानि च जज्ञिरे उत्पन्नानि । छन्दांसि गायत्र्यादीनि जज्ञिरे तस्माद्यजुरपि अजायत । ऋग्यजुःसामभिश्छन्दोभिश्च विना यज्ञा न सिध्यन्ति ।। ७ ।।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अथ तत् **तस्मात्** तादृशात् **यज्ञात् ऋचस्सामानि जज्ञिरे छन्दांसि** च सर्वाणि ऋगादिमया वेदाः जज्ञिरे । **यजुश्** च **तस्मादजायत** । जातावेकवचनम् ।। १० ।।
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+तस्माद् यज्ञात्।  
+तस्मात् यज्ञात् सर्व-हुतः ऋचः सामानि जज्ञिरे।  
+छन्दांसि जज्ञिरे तस्मात् यजुः [[तस्मातजायत|तस्माद् अजायत]]।  
+तस्माद् एव यज्ञात् सर्व-हुतः प्रज्वालितात् यथा ऋचः सामानि यजूंषि च देवा उत्पादयन्ति छन्दांसि च।  
+एवम् आत्म-यज्ञे प्रणवेन दीपिते स्वयम् एव ज्ञानाद् अधिष्ठितानि भवन्ति।  
+एवं येन परमात्मनि ज्ञायते सर्वे जग्धाः(?) सर्वं वाङ्मयं ज्ञानं भवतीति॥७॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+सर्व-हुतः [[तस्माद्यज्ञातृचः|तस्माद् यज्ञाद् ऋचः]] सामानि च जज्ञिरे उत्पन्नानि।  
+छन्दांसि गायत्र्य्-आदीनि जज्ञिरे तस्माद् यजुर् अप्य् अजायत।  
+ऋग्-यजुः-सामभिश् छन्दोभिश् च विना यज्ञा न सिध्यन्ति॥ ७॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+[[सप्त-मीमाहपदच्छेदः|सप्तमीम् आह— पदच्छेदः]] स्पष्टः [[।। ७॥|॥ ७ ॥]]  
+सर्व-हुतः तस्मात् यज्ञात् ऋचः नियत-बद्धाः सामानि गीति-प्रधानानि च जज्ञिरे प्रादुर्-अभवन् ।  
+तथा तस्मात् छन्दांसि गायत्र्य्-आदीनि जज्ञिरे ।  
+तस्मात् यजुः प्रश्लिष्ट-पठितम् अजायत ।  
+अथ अष्टमीम् आह—
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+तस्माद् यज्ञाच् चिद्-रूपाद् विष्णोर् उपादानात् सर्व-हुतः ।  
+अग्नि-नानात्वाभिप्रायेण यज्ञ-नानात्वाभिप्रायेण पुनर्-वचनम् ।  
+तथा हि पुराणेष्व् एषां प्रतिमुखम् उत्पत्ति-स्मरणात् ।  
+तथा च तस्माद् यज्ञात् । ऋचः नियत-पाद-[[पदवद्धा|पद-बद्धा]] ऋचः । जज्ञिरे आविर्भूताः ।  
+[[समानि|सामानि]] च गीत-प्रधानानि जज्ञिरे ।  
+छन्दांसि गायत्र्य्-आदीनि च जज्ञिरे ।  
+तस्माद् विराजो विष्णोर् एव यजुः प्रश्लिष्ट-पठितं यजुः ।  
+अजायत जातम् आविर्भूतम् ॥ ७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! तुमको चाहिये कि (तस्मात्) उस पूर्ण (यज्ञात्) अत्यन्त पूजनीय (सर्वहुतः) जिसके अर्थ सब लोग समस्त पदार्थों को देते वा समर्पण करते उस परमात्मा से (ऋचः) ऋग्वेद (सामानि) सामवेद (जज्ञिरे) उत्पन्न होते (तस्मात्) उस परमात्मा से (छन्दांसि) अथर्ववेद (जज्ञिरे) उत्पन्न होता और (तस्मात्) उस पुरुष से (यजुः) यजुर्वेद (अजायत) उत्पन्न होता है, उसको जानो ॥७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्यो ! आप लोग जिससे सब वेद उत्पन्न हुए हैं, उस परमात्मा की उपासना करो, वेदों को पढ़ो और उसकी आज्ञा के अनुकूल वर्त्त के सुखी होओ ॥७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्याः ! युष्माभिस्तस्माद्यज्ञात्सर्वहुतः परमात्मन ऋचः सामानि जज्ञिरे तस्माच्छन्दाँसि जज्ञिरे तस्माद्यजुरजायत स विज्ञातव्यः ॥७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्याः ! भवन्तो यस्मात् सर्वे वेदा जायन्ते तं परमात्मानमुपासीरन् वेदाँश्चाधीयीरन् तदाज्ञानुकूलं च वर्त्तित्वा सुखिनो भवन्तु ॥७ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे माणसांनो ! ज्याच्यापासून सर्व वेद उत्पन्न झलेले आहेत त्या परमेश्वराची उपासना करा व वेदांचे अध्ययन करा. वेदातील आज्ञेप्रमाणे वागून सुखी व्हा.
+</details>
+
+<details><summary>शौनक-संहिता-भाष्यम्</summary>
+
+**सर्वहुतः** । 'सुपां सुलुक्' (पा.सू.७-१-३९) इति पञ्चम्येकवचनस्य सुः । सर्वहुतात् । आश्वमेधिकोऽश्वः सर्वहुत: । पुरुषस्य अश्वमेधत्वम् उक्तम् । यद्वा सर्वः अश्वभूतात् **तस्माद् यज्ञात्** पुरुषाद् **ऋचः** पादबद्धा मन्त्राः **सामानि** गीत्यात्मकानि **जज्ञिरे** । 
+
+**तस्मात् यज्ञात्** पुरुषात् **छन्दः** । जसो लुक् । **छन्दांसि** । 
+**ह**-शब्दश् चार्थे । छन्दांसि च ऋगाद्यधिष्ठानानि जज्ञिरे । तस्मादेव पुरुषाद् **यजुः** प्रश्लिष्टपाठात्मको मन्त्रः अजायत । 
+
+ऋगादीनां लक्षणं जैमिनिना सूत्रितम् । 'तचोदकेषु मन्त्राख्या' (जै.सू.२-१-३२) । 'तेषाम् ऋग् यत्रार्थवशेन पादव्यवस्था' (जै.सू.२-१-३५) । 'गीतिषु सामाख्या' (जै.सू.२-१-३६) । ‘शेषे यजुःशब्दः' (जै.सू.२-१-३७) इति । 
+
+अध्यात्मपक्षे **सर्वहुतः** सर्वात्मा पुरुषः पशुत्वेन हूयते ऽस्मिन्निति सोऽयं **सर्वहुत्** तस्मात् पूर्वोक्ताद् मानसाद् **यज्ञात्** । शिष्टं समानम् ।। १३ ।।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“From that victim, in whom the universal oblation was offered, the ṛccas and **sāmans** were produced;from him the metres were born; from him the **yajus**. was born.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Tasmād yajñāt = from that simple portionsurnamed the universal sacrifice, sarvahūtaḥ, meaning **Puruṣa** as the world;
+
+**Yajña** = yajñasādhana, thematerial of sacrifice, i.e., the victim. Puruṣa is the spiritual cause and effect of material creation; it is from him,not from the ideal or real sacrifice, that all things originate\
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+From this sacrifice, when it was offered in full, the verses and chants  were born.  
+Meters were born from it. The sacrificial formula—from it that was born.
+</details>
+
+<details><summary>Griffith</summary>
+
+From that great general sacrifice Rcas and Sama-hymns were born:  
+     Therefrom were spells and charms produced; the Yajus had its birth from it.
+</details>
+
+<details><summary>Geldner</summary>
+
+Aus ihm entstanden die Rosse und alle Tiere mit doppelter Zahnreihe, aus ihm entstanden die Rinder, aus ihm sind die Ziegen und Schafe entstanden.
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+From that sacrifice, where all (in the form of the person) was sacrificed, came forth the Ṛcas, the Sāmans, the verses came forth from that, the Yajus was produced from that (4).
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+छन्दांसि गायत्र्यादीनि । स्पष्टमन्यत् ।
+</details>
+
+<details><summary>Grassmann</summary>
+
+Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; aus ihm entsprangen die Rinder, aus ihm die Ziegen und Schafe.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Из нее кони родились  
+И все те (животные), у которых два ряда зубов,  
+Быки родились из нее,  
+Из нее родились козы и овцы.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पुरुषः
+- नारायणः
+- निचृदनुष्टुप्
+- गान्धारः
+
+- स्त्रष्टेश्वरो देवता
+- नारायण ऋषिः
+- अनुष्टुप्
+- गान्धारः
+</details>

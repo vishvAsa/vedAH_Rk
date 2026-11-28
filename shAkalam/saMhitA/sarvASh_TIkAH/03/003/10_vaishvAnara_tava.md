@@ -1,0 +1,380 @@
++++
+title = "010"
+devataa = "वैश्वानरोग्निः"
+RShiH = "गाथिनो विश्वामित्रः"
+ChandaH = "जगती"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वैश्वानरोग्निः
+- ऋषिः - गाथिनो विश्वामित्रः
+- छन्दः - जगती
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+वइ᳓श्वानर त᳓व धा᳓मानि आ᳓ चके  
+ये᳓भिः सुवर्वि᳓द् अ᳓भवो विचक्षण  
+जात᳓ आ᳓पृणो भु᳓वनानि रो᳓दसी  
+अ᳓ग्ने ता᳓ वि᳓श्वा परिभू᳓र् असि त्म᳓ना
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+ā́ ← ā́ (invariable)  
+{}
+
+cake ← √kā- (root)  
+{number:SG, person:1, mood:IND, tense:PRF, voice:MED}
+
+dhā́māni ← dhā́man- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+táva ← tvám (pronoun)  
+{case:GEN, number:SG}
+
+vaíśvānara ← vaiśvānará- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+ábhavaḥ ← √bhū- (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+svarvít ← svarvíd- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vicakṣaṇa ← vicakṣaṇá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+yébhiḥ ← yá- (pronoun)  
+{case:INS, gender:M, number:PL}
+
+ā́ ← ā́ (invariable)  
+{}
+
+apr̥ṇaḥ ← √pr̥̄- 1 (root)  
+{number:SG, person:2, mood:IND, tense:IPRF, voice:ACT}
+
+bhúvanāni ← bhúvana- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+jātáḥ ← √janⁱ- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ródasī ← ródasī- (nominal stem)  
+{case:ACC, gender:F, number:DU}
+
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+paribhū́ḥ ← paribhū́- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+
+víśvā ← víśva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+वैश्वा॑नर॒ तव॒ धामा॒न्या च॑के॒ येभिः॑ स्व॒र्विदभ॑वो विचक्षण ।  
+जा॒त आपृ॑णो॒ भुव॑नानि॒ रोद॑सी॒ अग्ने॒ ता विश्वा॑ परि॒भूर॑सि॒ त्मना॑ ॥
+</details>
+
+<details><summary>मूलम् - मैत्रायणीयम्</summary>
+
+वै᳓श्वानर त᳓व धा᳓मान्य् आ᳓चके ये᳓भिः स्वर्वि᳓द् अ᳓भवो विचक्षण  
+जात᳓ आ᳓पृणो भु᳓वनानि रो᳓दसी अ᳓ग्ने ता᳓ वि᳓श्वा परिभू᳓र् असि त्म᳓ना
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वैश्वा॑नर । तव॑ । धामा॑नि । आ । च॒क्रे॒ । येभिः॑ । स्वः॒ऽवित् । अभ॑वः । वि॒ऽच॒क्ष॒ण॒ ।  
+जा॒तः । आ । अ॒पृ॒णः॒ । भुव॑नानि । रोद॑सी॒ इति॑ । अग्ने॑ । ता । विश्वा॑ । प॒रि॒ऽभूः । अ॒सि॒ । त्मना॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - मैत्रायणीयम्)</summary>
+
+- वै᳓श्वानर (*TS*-3, *RV*-19, *KS*-2)
+- त᳓व (*TS*-50/313, *RV*-256/1488, *TB*-13/152, *TK*-0/39, *AV*-92/628, *SB-M*-41/387, *SB-K*-34/387, *VS-M*-34/216, *VS-K*-27/180, *KS*-41/165)
+- धा᳓मानि (*TS*-12/53, *RV*-25/92, *TB*-20/31, *TK*-0/2, *AV*-3/45, *SB-M*-22/67, *SB-K*-24/71, *VS-M*-29/49, *VS-K*-23/45, *KS*-6/20)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414, *KS*-316)
+- चके (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-5, *SB-M*-1, *SB-K*-2, *VS-M*-2, *VS-K*-2, *KS*-3)
+- ये᳓भिः (*TS*-1/3385, *RV*-28/4011, *TB*-9/1735, *TK*-0/227, *AV*-5/3120, *SB-M*-1/8327, *SB-K*-0/8438, *VS-M*-0/651, *VS-K*-0/609, *KS*-7/818)
+- स्वर्-वि᳓त् (*RV*-5, *AV*-1, *SB-M*-1, *SB-K*-1)
+- अ᳓भवः (*RV*-6/10, *TB*-1/4, *AV*-1/3, *SB-M*-1/4, *SB-K*-1/3, *VS-M*-1, *KS*-1)
+- वि-चक्षण (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *RV*-7, *AV*-6, *KS*-1)
+- जातः᳓ (*TS*-24/65, *RV*-53/144, *TB*-5/22, *TK*-0/4, *AV*-30/95, *SB-M*-39/84, *SB-K*-39/82, *VS-M*-22/37, *VS-K*-21/37, *KS*-9/17)
+- आ᳓ (*TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414, *KS*-316)
+- पृणः (मूल-पाठः)
+- भु᳓वनानि (*TS*-11/39, *RV*-59/144, *TB*-6/32, *TK*-0/6, *AV*-29/65, *SB-M*-8/30, *SB-K*-3/26, *VS-M*-18/42, *VS-K*-18/41, *KS*-6/16)
+- रो᳓दसी (*TS*-14/18, *RV*-186/207, *TB*-6, *TK*-1, *AV*-28, *SB-M*-8/9, *SB-K*-8/9, *VS-M*-13/15, *VS-K*-13/16, *KS*-11/12)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107, *KS*-72/73)
+- ताः᳓ (*TS*-136/4761, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/780, *VS-K*-17/660, *KS*-61/1225)
+- वि᳓श्वा (*TS*-39/283, *RV*-273/1116, *TB*-16/125, *TK*-2/124, *AV*-80/353, *SB-M*-20/248, *SB-K*-17/219, *VS-M*-32/225, *VS-K*-35/224, *KS*-19/118)
+- परि-भूः᳓ (*TS*-11/14, *RV*-10, *TB*-2, *AV*-6/8, *SB-M*-6, *SB-K*-6, *VS-M*-3, *VS-K*-2, *KS*-2)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349, *KS*-247)
+- त्म᳓ना (*TS*-9, *RV*-63/72, *TB*-1/2, *TK*-1, *AV*-4, *SB-M*-3/4, *SB-K*-5/6, *VS-M*-7, *VS-K*-10, *KS*-3)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *vaiśvānara*
+- \[noun\], vocative, singular, masculine
+- “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
+
+_________
+
+- *tava* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+
+_________
+
+- *dhāmāny* ← *dhāmāni* ← *dhāman*
+- \[noun\], accusative, plural, neuter
+- “domain; dwelling; law; appearance; light; race; agreement; color;
+    location.”
+
+_________
+
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *cake* ← *kan*
+- \[verb\], singular, Perfect indicative
+- “like; delight; desire.”
+
+_________
+
+- *yebhiḥ* ← *yad*
+- \[noun\], instrumental, plural, neuter
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *svarvid* ← *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+
+_________
+
+- *svarvid* ← *vid*
+- \[noun\], nominative, singular, masculine
+- “finding.”
+
+_________
+
+- *abhavo* ← *abhavaḥ* ← *bhū*
+- \[verb\], singular, Imperfect
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+
+_________
+
+- *vicakṣaṇa*
+- \[noun\], vocative, singular, masculine
+- “expert; wise; discerning; clear-sighted; conversant(p); bright.”
+
+_________
+
+- *jāta* ← *jātaḥ* ← *jan*
+- \[verb noun\], nominative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+
+_________
+
+- *āpṛṇo* ← *āpṛṇaḥ* ← *āpṛṇ* ← *√pṛṇ*
+- \[verb\], singular, Imperfect
+
+_________
+
+- *bhuvanāni* ← *bhuvana*
+- \[noun\], accusative, plural, neuter
+- “Earth; being; world; bhuvana \[word\].”
+
+_________
+
+- *rodasī* ← *rodas*
+- \[noun\], accusative, dual, neuter
+- “heaven and earth; Earth.”
+
+_________
+
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *tā* ← *tad*
+- \[noun\], accusative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *viśvā* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *paribhūr* ← *paribhūḥ* ← *paribhū*
+- \[noun\], nominative, singular, masculine
+- “extended.”
+
+_________
+
+- *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *tmanā* ← *tman*
+- \[noun\], instrumental, singular, masculine
+- “self.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+विचक्षण- हे विशेषदर्शिन्। वैश्वानर- सर्वभूतहित। येभिः- याभिः। स्वर्वित्- स्वर्गज्ञः। अभवः।  ताः। तव- भवतः। धामानि- अध्यात्मसाधनभूमिकाः। आ चके- कामये। जातः- आविर्भूत एव। भुवनानि- लोकान्। रोदसी- द्यावापृथिव्यौ। आपृणः- अपूरयः। अग्ने। त्मना- स्वतः। ता-  तानि। विश्वा- सर्वाणि भुवनानि। परिभूरसि- परितो भवसि॥१०॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हेवैश्वानर तवधामानित्वत्सम्बन्धीनितेजांसि आचके अभिष्टौमि हेविचक्षण प्राज्ञ त्वं येभिः यैस्तेजोभिः स्वर्वित् सर्ववित् सर्वज्ञः अभवः भवसि जातः जातमात्रस्त्वं भुवनानि भूतजाता नि रोदसीद्यावापृथिव्यौ आपृणः आपूरयः हेअग्ने विश्वाविश्वानिसर्वाणि ता तानि भुवनानिभूत जातानि त्मनाआत्मना परिभूरसि परिग्रहीतासि ॥ १० ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Vaiśvānara**, I celebrate your energies, whereby, O sage, you have become omniscient; as soon as born, **Agni**, you have occupied the realms (of space), and heaven and earth, and have comprehended all these with yourself.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Vaiśvānara, I desire your manifestations, by which you became the one  who finds the sun, o far-gazing one.  
+As soon as you were born, you filled the living worlds and the two  
+world-halves. Agni, you surround all these in your own person.
+</details>
+
+<details><summary>Griffith</summary>
+
+I celebrate thy glories, O Vaisvanara, wherewith thou, O farsighted God, has found the light.  
+     Thou filledst at thy birth both worlds, the earth and heaven: all this, O Agni, hast thou compassed of thyself.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Vaiśvānara, I proclaim your forms through which you became the finder of heaven, O far-seeing one;  
+born, you filled the realms, the two worlds; O Agni, you encompass all these by yourself.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+O Vaisvânara, I love thy statutes by which thou hast found the sun, O far-seeing one. When born thou hast filled the worlds, heaven and earth; Agni, thou encompassest all these (beings) by thyself.
+</details>
+
+<details><summary>Geldner</summary>
+
+Vaisvanara! Deine Eigenschaften wünsche ich mir, durch die du Hellsehender der Erfinder des Himmelslichtes wardst. Eben geboren hast du die Welten, Himmel und Erde erfüllt. Agni! Alle diese Welten umspannst du in eigner Person.
+</details>
+
+<details><summary>Grassmann</summary>
+
+O Männerhort, an deinen Werken hab' ich Lust, durch die den Himmel du gewannst, vollsehender; Geboren fülltest Wesen du und Welten an und alles das, o Agni, überragst du noch.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+О Вайшванара, я люблю твои свойства,  
+С помощью которых ты стал тем, кто нашел солнце, о далеко смотрящий,  
+(Едва) родившись, ты заполнил (все) существа, оба мира.  
+О Агни, все эти (миры) ты охватил самим собой.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वैश्वानरोऽग्निः
+- गाथिनो विश्वामित्रः
+- विराड्जगती
+- निषादः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहा है।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (विचक्षण) अतिचतुर (वैश्वानर) प्रधानपुरुष ! (अग्ने) अग्नि के समान वर्त्तमान आप (त्मना) अपने से जिन (विश्वा) समस्त (भुवनानि) लोकों को (आ, अपृणः) अच्छे प्रकार पुष्ट करें, जैसे अग्नि समस्त लोकों वा (रोदसी) आकाश और पृथिवी को अभिव्याप्त है वैसे आप (परिभूः) सब ओर से होनेवाले (असि) हैं, वह आप मनुष्य (तव) आपके (येभिः) जिन (धामानि) जन्म स्थान नामों को (आचके) अच्छे प्रकार कामना करे (ता) उनको जानकर (जातः) प्रसिद्ध होते हुए (स्वर्वित्) प्राप्त सुख (अभवः) हूजिये ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। जो मनुष्य अग्नि के समान धर्म और विद्याओं के प्रकाश करनेवाले सबके बीच प्राणियों के सुख-दुःख की व्यवस्था से अपने समान बुद्धि रखनेवाले हैं, वे सुखी होते हैं ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे विचक्षण वैश्वानराग्ने त्वं त्मना यानि विश्वा भुवनान्यापृणो यथाऽग्निर्विश्वा भुवनानि रोदसी चाभिव्याप्नोति तथा त्वं परिभूरसि स त्वं मनुष्यस्तव येभिर्धामान्याचके ता तानि विदित्वा जातः सन् स्वर्विदभवः ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (वैश्वानर) प्रधानपुरुष (तव) (धामानि) जन्मस्थाननामानि (आ) (चके) समन्तात्कामयेत (येभिः) यैः (स्वर्वित्) प्राप्तसुखः (अभवः) भवेः (विचक्षण) अतिचतुर (जातः) प्रसिद्धः (आ) (अपृणः) पुष्णीयाः (भुवनानि) लोकान् (रोदसी) द्यावापृथिव्यौ (अग्ने) पावकइव वर्त्तमान (ता) तानि (विश्वा) सर्वाणि (परिभूः) यः परितः सर्वतो भवति सः (असि) (त्मना) आत्मना ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। ये मनुष्या अग्निवद्धर्मविद्याप्रकाशकाः सर्वेषु प्राणिषु सुखदुःखव्यवस्थया स्वात्मवद्बुद्धयः सन्ति ते सुखिनो भवन्ति ॥१०॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. जी माणसे अग्नीप्रमाणे धर्म व विद्येचा प्रकाश करणारी असतात, आपल्या सुख-दुःखाप्रमाणेच सर्व प्राण्यांचे सुख-दुःख समजतात ती सुखी होतात. ॥ १० ॥
+</details>

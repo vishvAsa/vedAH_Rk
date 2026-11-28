@@ -1,0 +1,279 @@
++++
+title = "001"
+devataa = "अग्निः"
+RShiH = "गोतमो राहूगणः"
+ChandaH = "गायत्री"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - गोतमो राहूगणः
+- छन्दः - गायत्री
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+जुष᳓स्व सप्र᳓थस्तमं  
+व᳓चो देव᳓प्सरस्तमम्  
+हव्या᳓ जु᳓ह्वान आस᳓नि
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+juṣásva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+sapráthastamam ← sapráthastama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+devápsarastamam ← devápsarastama- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vácaḥ ← vácas- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+āsáni ← āsán- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+havyā́ ← havyá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+júhvānaḥ ← √hu- (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:MED}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+जु॒षस्व॑ स॒प्रथ॑स्तमं॒ वचो॑ दे॒वप्स॑रस्तमम् ।  
+ह॒व्या जुह्वा॑न आ॒सनि॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+जु॒षस्व॑ स॒प्रथ॑स्तमम् ।   
+वचो॑ दे॒वप्स॑रस्तमम् ।  
+ह॒व्या जुह्वा॑न आ॒सनि॑ ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+जुष᳓स्व सप्र᳓थस्तमं व᳓चो देव᳓प्सरस्तमम्।  
+हव्या᳓ जु᳓व्हान आस᳓नि
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जु॒षस्व॑ । स॒प्रथः॑ऽतमम् । वचः॑ । दे॒वप्स॑रःऽतमम् ।  
+ह॒व्या । जुह्वा॑नः । आ॒सनि॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+जुष᳓स्व । सप्र᳓थस्तमम् । व᳓चः । देव᳓-प्सरस् । तमम् । हव्या᳓ । जु᳓ह्वानः । आस᳓नि ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- जुष᳓स्व (*MS*-7, *TS*-3, *RV*-17, *TB*-2, *AV*-4, *SB-M*-1, *SB-K*-1, *VS-M*-2, *VS-K*-2)
+- सप्र᳓थस्तमम् (*MS*-3, *TS*-1/2, *RV*-4, *TB*-1, *SB-M*-2, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- व᳓चः (*MS*-8/15, *TS*-5/14, *RV*-51/100, *TB*-11/12, *TK*-2, *AV*-15/39, *SB-M*-12/18, *SB-K*-11/18, *VS-M*-9/13, *VS-K*-3/8)
+- देव᳓-प्सरस् (*RV*-0/1, *TB*-1, *MS*-1)
+- तमम् (*TS*-2, *TB*-3, *MS*-7)
+- हव्या᳓ (*MS*-25/81, *TS*-15/65, *RV*-44/125, *TB*-12/33, *AV*-5/30, *SB-M*-5/27, *SB-K*-5/29, *VS-M*-8/26, *VS-K*-5/27)
+- जु᳓व्हानः (मूल-पाठः)
+- आस᳓नि (*MS*-2, *TS*-3/4, *RV*-7/40, *TB*-1/2, *AV*-2/8, *SB-M*-1/6, *SB-K*-1/59, *VS-M*-2, *VS-K*-2)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *juṣasva* ← *juṣ*
+- \[verb\], singular, Present imperative
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+
+_________
+
+- *saprathastamaṃ* ← *saprathastamam* ← *saprathastama*
+- \[noun\], accusative, singular, neuter
+
+_________
+
+- *vaco* ← *vacaḥ* ← *vacas*
+- \[noun\], accusative, singular, neuter
+- “statement; command; speech; words; advice; word; voice.”
+
+_________
+
+- *devapsarastamam* ← *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *devapsarastamam* ← *psarastamam* ← *psarastama*
+- \[noun\], accusative, singular, neuter
+
+_________
+
+- *havyā* ← *havya*
+- \[noun\], accusative, plural, neuter
+- “Havya; offering; havya \[word\].”
+
+_________
+
+- *juhvāna* ← *juhvānaḥ* ← *hu*
+- \[verb noun\], nominative, singular
+- “sacrifice; offer; pour; worship.”
+
+_________
+
+- *āsani* ← *āsan*
+- \[noun\], locative, singular, neuter
+- “mouth.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सप्रथस्तमम्- अतिशयेन विस्तीर्णम्। देवप्सरस्तमम्- अतिशयेन देवप्रीतिकरम्। वचः- मन्त्रम्।  जुषस्व- सेवस्व। आसनि- अग्नेर्मुखे। हव्या- हवींषि। जुह्वानः- समर्पयन् भव॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अग्ने **सप्रथस्तमम्** अतिशयेन विस्तीर्णं **वचः** स्तोत्रलक्षणमस्मदीयं वचनं **जुषस्व** सेवस्व । कीदृशम् । **देवप्सरस्तमं** देवानां प्रीणयितृतमम् । किं कुर्वन् । **आसनि** तवास्ये **हव्या** हव्यानि स्तोकलक्षणानि हवींषि **जुह्वानः** प्रक्षिपन् । इमानि स्तोकलक्षणानि हवींषि वृथा मा भूवन् तत्सर्वं त्वदीयेन मुखेन स्वीकुर्वित्यर्थः ॥ देवप्सरस्तमम् ।' स्पृ प्रीतिबलयोः । देवान् स्पृणोति प्रणयतीति देवप्सराः ।' गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च ' इति असुन् पूर्वपदप्रकृतिस्वरत्वं च । सकारपकारयोः स्थानविपर्ययः। अतिशयेन देवप्सरा देवप्सरस्तमः । जुह्वानः । जुहोतेर्व्यत्ययेन शानच् । ‘ अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । आसनि । ' पद्दन्' इत्यादिना आस्यशब्दस्य आसन्नादेशः ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने! जुषस्व सेवस्व सप्रथस्तमं अतिशयेन प्रथनसहितं विस्तीर्णतमं मदीयं वचः स्तुतिलक्षणं देवप्सरस्तमं देवानां प्रीणयितृतमम् । स्पृ प्रीतौ, 'गतिकारकयोरपि' इत्यसुत्, पूर्वपदप्रकृतिस्वरत्वं, व्यञ्जनयोः स्थानविपर्ययः । किं मया कार्यमिति चेत्? हव्यानि हवींषि मे स्तोकान् आसनि आस्ये जुह्वानः प्रक्षिपन् ग्रसमानः आस्ये कुरु । एते स्तोकाः मा वृधा पतन्निति । लटि व्यत्ययेनात्मनेपदं 'अभ्यस्तानामादिः' इत्याद्युदात्तत्वम् । पद्दन्नादिना आस्यस्यासन्भावः ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Accept our most exhaustive prayers, propitiatory of the gods, accepting our oblations in your mouth.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Take delight in the most extensive speech, which affords most delight to  the gods,  
+while pouring the oblations into your own mouth.
+᳓
+</details>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">
+<details><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+Note the play between the two final words of these verses: āsáni / sānasí.
+
+The two verses also contain four superlatives in -tama-, each to a stem ending in -as.
+</details>
+</details>
+</div>
+
+<details><summary>Griffith</summary>
+
+ACCEPT our loudest-sounding hymn, food most delightful to the Gods,  
+     Pouring our offerings in thy mouth.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Do not tear his rectum,  
+thinking it an owl,  
+lest an owl cry among your children and offspring!  
+O Adhrigu, quiet [the victim]!
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Accept gladly our most widely-sounding 1 speech, the most agreeable to the gods, thou who, in thy mouth, offerest the sacrificial food (to the gods).
+</details>
+
+<details><summary>Geldner</summary>
+
+Erfreue dich an der sehr ausgedehnten Rede, die ganz nach der Götter Geschmack ist, während du die Spenden in deinem Mund opferst.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Nimm an das Lied, das weit erschallt, der Götter schönstes Labsal ist, Den Trank dir giessend in den Mund.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Прими радостно (эту) шире всех простирающуюся  
+Речь, больше всех служащую к усладе богов,  
+Когда ты совершаешь устами жертвенные возлияния!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- गोतमो राहूगणः
+- गायत्री
+- षड्जः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब ७५ पचहत्तरवें सूक्त का आरम्भ किया जाता है। उसके प्रथम मन्त्र में विद्वान् लोग कैसे हों, इस विषय का उपदेश किया है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वान् ! (आसनि) अपने मुख में (हव्या) भोजन करने योग्य पदार्थों को (जुह्वानः) खानेवाले आप जो विद्वानों का (सप्रथस्तमम्) अतिविस्तारयुक्त (देवप्सरस्तमम्) विद्वानों को अत्यन्त ग्रहण करने योग्य व्यवहार वा (वचः) वचन है (तम्) उसको (जुषस्व) सेवन करो ॥ १ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य युक्तिपूर्वक भोजन, पान और चेष्टाओं से युक्त ब्रह्मचारी हों, वे शरीर और आत्मा के सुख को प्राप्त होते हैं ॥ १ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे विद्वन्नासनि हव्या जुह्वानस्त्वं यो विदुषां व्यवहारस्तं सप्रथस्तमं देवप्सरस्तमं वचश्च जुषस्व ॥ १ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनर्विद्वान् कीदृशो भवेदित्युपदिश्यते ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (जुषस्व) (सप्रथस्तमम्) अतिशयेन विस्तारयुक्तव्यवहारम् (वचः) वचनम् (देवप्सरस्तमम्) देवैर्विद्वद्भिरतिशयेन ग्राह्यम् तम् (हव्या) अत्तुमर्हाणि (जुह्वानः) भुञ्जानः (आसनि) व्याप्त्याख्ये मुखे। अत्र पद्दन्नोमास०। (अष्टा०६.१.६३) इति सूत्रेणासन्नादेशः ॥ १ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये मनुष्या युक्ताहारैर्ब्रह्मचारिणः स्युस्ते शरीरात्मसुखमाप्नुवन्तीति ॥ १ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - विषयः</summary>
+
+या सूक्तात ईश्वर, अग्नी व विद्वानांच्या गुणांचे वर्णन असल्यामुळे या सूक्ताबरोबर पूर्वसूक्तार्थाची संगती समजली पाहिजे. ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जी माणसे युक्तिपूर्वक आहारविहार, प्रयत्नपूर्वक ब्रह्मचर्य पालन करतात ती शरीर व आत्म्याचे सुख प्राप्त करतात. ॥ १ ॥
+</details>

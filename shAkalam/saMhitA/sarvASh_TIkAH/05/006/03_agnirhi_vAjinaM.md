@@ -1,0 +1,386 @@
++++
+title = "003"
+devataa = "अग्निः"
+RShiH = "वसुश्रुत आत्रेयः"
+ChandaH = "पङ्क्तिः"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - वसुश्रुत आत्रेयः
+- छन्दः - पङ्क्तिः
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अग्नि᳓र् हि᳓ वाजि᳓नं विशे᳓  
+द᳓दाति विश्व᳓चर्षणिः  
+अग्नी᳓ राये᳓ सुआभु᳓वं  
+स᳓ प्रीतो᳓ याति वा᳓रियम्  
+इ᳓षं स्तोतृ᳓भ्य आ᳓ भर
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+_________
+**Morph**  
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+hí ← hí (invariable)  
+{}
+
+vājínam ← vājín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+viśé ← víś- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+
+dádāti ← √dā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+viśvácarṣaṇiḥ ← viśvácarṣaṇi- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+agníḥ ← agní- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+rāyé ← rayí- ~ rāy- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+svābhúvam ← svābhū́- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+prītáḥ ← √prī- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+sá ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+vā́ryam ← vā́rya- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+yāti ← √yā- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ā́ ← ā́ (invariable)  
+{}
+
+bhara ← √bhr̥- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+íṣam ← íṣ- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+stotŕ̥bhyaḥ ← stotár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒ग्निर्हि वा॒जिनं॑ वि॒शे ददा॑ति वि॒श्वच॑र्षणिः ।  
+अ॒ग्नी रा॒ये स्वा॒भुवं॒ स प्री॒तो या॑ति॒ वार्य॒मिषं॑ स्तो॒तृभ्य॒ आ भ॑र ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-काठकम्</summary>
+
+अ॒ग्निर्हि वा॒जिनव्ँ॑ वि॒शे ।  
+ददा॑ति वि॒श्वच॑र्षणिः ।  
+अ॒ग्नी रा॒ये स्वा॒भुव॑म् ।  
+स प्री॒तो या॑ति॒ वार्य॑म् ।  
+इषँ॑ स्तो॒तृभ्य॒ आ भ॑र ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्नि᳓र्हि᳓ वाजि᳓नं विशे᳓ द᳓दाति विश्व᳓चर्षणिः।  
+अग्नी᳓ राये᳓ स्वाभु᳓वँ स᳓ प्रीतो᳓ याति वा᳓र्यमि᳓षँ स्तोतृ᳓भ्य आ᳓भर
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । हि । वा॒जिन॑म् । वि॒शे । ददा॑ति । वि॒श्वऽच॑र्षणिः ।  
+अ॒ग्निः । रा॒ये । सु॒ऽआ॒भुव॑म् । सः । प्री॒तः । या॒ति॒ । वार्य॑म् । इष॑म् । स्तो॒तृऽभ्यः॑ । आ । भ॒र॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-काठकम्)</summary>
+
+अग्निः᳓ । हि᳓ । वाजि᳓नम् । विशे᳓ । द᳓दाति । विश्व᳓-चर्षणिः । अग्नी᳓ । राये᳓ । सु । आ-भु᳓वम् । सः᳓ । प्रीतः᳓ । याति । वा᳓र्यम् । इ᳓षम् । स्तोतृ᳓भ्यः । आ᳓ । भर ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अग्निः᳓ (*MS*-528/1297, *TS*-403/1194, *RV*-393/856, *TB*-223/520, *TK*-23/105, *AV*-219/419, *SB-M*-1226/2495, *SB-K*-1151/2289, *VS-M*-123/325, *VS-K*-118/349)
+- हि᳓ (*MS*-717, *TS*-456, *RV*-662, *TB*-212, *TK*-8, *AV*-155, *SB-M*-2665, *SB-K*-2819, *VS-M*-48, *VS-K*-43)
+- वाजि᳓नम् (*MS*-6/48, *TS*-11/55, *RV*-51/172, *TB*-3/18, *TK*-1, *AV*-10/25, *SB-M*-3/28, *SB-K*-3/24, *VS-M*-5/35, *VS-K*-5/33)
+- विशे᳓ (*MS*-6/31, *TS*-4/10, *RV*-8/14, *TB*-2/11, *TK*-1, *AV*-1, *SB-M*-2/21, *SB-K*-2/26, *VS-M*-2/3, *VS-K*-2/3)
+- द᳓दाति (*MS*-26, *TS*-8, *RV*-9, *TB*-7, *TK*-1, *AV*-13/14, *SB-M*-38, *SB-K*-32)
+- विश्व᳓-चर्षणिः (*MS*-1, *TS*-0/1, *RV*-7/13, *TB*-1, *TK*-1, *AV*-2/3, *VS-M*-1)
+- अग्नी᳓ (*MS*-18/1297, *TS*-3/1194, *RV*-3/856, *TB*-6/520, *TK*-1/105, *AV*-14/419, *SB-M*-60/2495, *SB-K*-65/2289, *VS-M*-1/325, *VS-K*-1/349)
+- राये᳓ (*MS*-7/41, *TS*-3/79, *RV*-65/262, *TB*-5/13, *TK*-1, *AV*-5/37, *SB-M*-5/24, *SB-K*-5/26, *VS-M*-10/53, *VS-K*-10/63)
+- सु (*MS*-22, *TS*-1, *TB*-13, *TK*-1, *SB-M*-7, *SB-K*-4, *VS-K*-1)
+- आ-भु᳓वम् (*TS*-0/1, *RV*-3/6, *TK*-1, *AV*-2)
+- सः᳓ (*MS*-784/5550, *TS*-766/4761, *RV*-1037/3136, *TB*-543/2709, *TK*-81/363, *AV*-689/3165, *SB-M*-3863/20457, *SB-K*-4217/20018, *VS-M*-123/780, *VS-K*-101/660)
+- प्रीतः᳓ (*MS*-1/22, *TS*-6/15, *RV*-3/5, *TB*-7/10, *TK*-1/2, *AV*-0/1, *SB-M*-8/28, *SB-K*-24/48, *VS-M*-0/2, *VS-K*-0/2)
+- याति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-12, *TS*-8, *RV*-57, *TB*-1, *TK*-1, *AV*-11, *SB-M*-11, *SB-K*-11, *VS-K*-1)
+- वा᳓र्यम् (*MS*-5/11, *TS*-0/3, *RV*-26/54, *TB*-1/5, *TK*-1, *AV*-4/8, *SB-M*-0/2, *SB-K*-0/2, *VS-M*-0/5, *VS-K*-0/5)
+- इ᳓षम् (*MS*-27/66, *TS*-27/55, *RV*-98/219, *TB*-14/24, *TK*-1, *AV*-13/25, *SB-M*-12/41, *SB-K*-13/41, *VS-M*-16/39, *VS-K*-23/47)
+- स्तोतृ᳓भ्यः (*MS*-3/6, *TS*-4/6, *RV*-46/103, *TB*-0/3, *TK*-1, *AV*-4/17, *SB-M*-0/4, *SB-K*-0/2, *VS-M*-4/6, *VS-K*-3/5)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- भर (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-16, *TS*-19, *RV*-130, *TB*-5, *TK*-1, *AV*-31, *SB-M*-4, *SB-K*-2, *VS-M*-11, *VS-K*-6)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *agnir* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+
+_________
+
+- *vājinaṃ* ← *vājinam* ← *vājin*
+- \[noun\], accusative, singular, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+
+_________
+
+- *viśe* ← *viś*
+- \[noun\], dative, singular, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+
+_________
+
+- *dadāti* ← *dā*
+- \[verb\], singular, Present indikative
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+
+_________
+
+- *viśvacarṣaṇiḥ* ← *viśvacarṣaṇi*
+- \[noun\], nominative, singular, masculine
+
+_________
+
+- *agnī* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *rāye* ← *rai*
+- \[noun\], dative, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+
+_________
+
+- *svābhuvaṃ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *svābhuvaṃ* ← *ābhuvam* ← *ābhū*
+- \[noun\], accusative, singular, masculine
+- “assistant.”
+
+_________
+
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *prīto* ← *prītaḥ* ← *prī*
+- \[verb noun\], nominative, singular
+- “delight; gladden; satisfy; nutrify; comfort.”
+
+_________
+
+- *yāti* ← *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+
+_________
+
+- *vāryam* ← *vārya*
+- \[noun\], accusative, singular, neuter
+- “wealth.”
+
+_________
+
+- *iṣaṃ* ← *iṣam* ← *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+
+_________
+
+- *stotṛbhya* ← *stotṛbhyaḥ* ← *stotṛ*
+- \[noun\], dative, plural, masculine
+- “laudatory; worshiping.”
+
+_________
+
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *bhara* ← *bhṛ*
+- \[verb\], singular, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अग्निः- सत्क्रतुः पावकः। विश्वचर्षणिः- सर्वद्रष्टा। विशे- प्रजायै। वाजिनम्- अश्वं प्राणम्।  ददाति- यच्छति। अग्निः। राये- दानयोग्यसम्पदे। स्वाभुवम्- स्वसत्तां यच्छति। सः- असावग्निः।  प्रीतः। वार्यं- वरणीयम्। याति- अस्मदर्थमभिसरति। इषं स्तोतृभ्य आभर॥३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अग्निर्हि** अयमग्निः खलु **विशे** यजमानाय **वाजिनम्** अन्नवन्तं पुत्रमश्वमन्नं वा **ददाति** । **विश्वचर्षणिः** । विश्वे चर्षणयो मनुष्या रक्षणीया अर्चका वा यस्य स तथोक्तः । यद्वा । पश्यतिकर्मैतत् । सर्वस्य द्रष्टा **अग्निः** **राये** धनार्थिने । अथवा द्वितीयार्थे चतुर्थी । धनं **स्वाभुवं** सुष्ठु सर्वत्र व्याप्तं **वार्यं** सर्वैर्वरणीयं **प्रीतः** सन् **याति** यमयति । दातुं वा गच्छति । इषमित्यादि गतम् ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+9 अग्निर्हीति पञ्चपदा पङ्क्तिः ॥ अग्निः खलु वाजिनं अन्नं विशे मनुष्येभ्यो ददाति । विश्वचर्षणिः विश्वं चर्षणीयं ज्ञातव्यं यस्य तादृशस्स खल्वग्निरेव यजमानस्य राये धनाय स्वाभुवं आत्मनो भवनं उत्पत्तिं वार्यं वरणीयं प्रीतो याति प्राप्नोति स्तुत्या तृप्तस्तादृग्रूपं परिगृह्णाति । तादृक्कारी खल्वग्निर्नाम, तस्मात्स त्वं प्रतिपादितोऽग्निः स्तोतृभ्यः यजमानेभ्यः इषम् अन्नम् आभर आहर । 'हृग्रहोर्भश्छन्दसि' इति भत्वम् ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[595_15]** So T1 und Brl; Ch अग्निराये; vgl. RV 5, 6, 3; TBr. 3, 11, 6, 4. (Thus T1 and Brl; Ch अग्निराये; cf. RV 5, 6, 3; TBr. 3, 11, 6, 4.)
+
+- **[595_16]** Ch स्तोत्रेभ्य
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Agni**, the all-beholding, gives, verily, to the man (who worships him, a son) possessing abundant food; Agni, when propitiated proceeds (to bestow) that wealth which is of its own nature precious; do you, Agni, bring food to your adorers.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Since Agni, who belongs to all domains, gives the prizewinner [=Agni?]  to the clan,  
+(since) Agni (gives the prizewinner) that is very ready for wealth, when  pleased, he journeys to what is valued.  
+– Bring refreshment for the praise singers.
+</details>
+
+<details><summary>Griffith</summary>
+
+Agni the God of all mankind, gives, verily, a steed to man.  
+     Agni gives precious gear for wealth, treasure he gives when he is pleased. Bring food to those who sing thy praise.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+For Agni, belonging to all peoples, gives a prize-winner to the clan;  
+Agni, being favorable, goes for wealth to what is desirable;  
+bring nourishing food to the praisers.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+For Agni, dwelling among all tribes, gives a racer to the clan. Agni (gives a racer) that is truly helpful for (winning) wealth 1: he (the racer) being well cherished, will attain precious gain. Bring food to thy praisers!
+</details>
+
+<details><summary>Geldner</summary>
+
+Denn Agni, der allen Völkern angehört, schenkt dem Clan einen Sieger, Agni ein Rennpferd, das zu Reichtum tüchtig ist. Froh geht es auf begehrenswertes Gut aus. - Bring den Sängern gute Speise!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Denn Agni schenket schnelles Ross dem Menschen er, der Menschenhort, Und Agni schönbereites Gut, der liebe gibt uns reichen Schatz; den Sängern bringe Labetrunk.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Ведь Агни дает племени  
+Победителя, (он,) принадлежащий всем народам,  
+Агни – (того, кто) умел (в добывании) богатства.  
+Он идет радостный к желанному богатству.  
+Принеси восхвалителям жертвенную усладу!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वसुश्रुत आत्रेयः
+- स्वराट्बृहती
+- मध्यमः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर अग्निविषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे विद्वन् ! जो (विश्वचर्षणिः) संसार का प्रकाश करनेवाला (अग्निः) अग्नि (हि) जिससे (विशे) प्रजा के लिये (वाजिनम्) बहुत वेगवाले को (ददाति) देता है और जो (अग्निः) अग्नि (राये) धन के लिये (स्वाभुवम्) स्वयं उत्पन्न होनेवाले को (याति) प्राप्त होता है, उस विद्या से (सः) वह आप (प्रीतः) कामना किये गये (स्तोतृभ्यः) स्तुति करनेवालों के लिये (वार्यम्) स्वीकार करने योग्य (इषम्) अन्न आदि का (आ, भर) धारण कीजिये ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्यो ! अग्नि ही उत्तम प्रकार साधित किया गया सुख देनेवाला होता है, जिससे आप लोग ऐश्वर्य की वृद्धि करो ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे विद्वन् ! यो विश्वचर्षणिरग्निर्हि विशो वाजिनं ददाति योऽग्नी राये स्वाभुवं याति तद्विद्यया सः प्रीतः स्तोतृभ्यो वार्यमिषमा भर ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनरग्निविषयमाह
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अग्निः) पावकः (हि) यतः (वाजिनम्) बहुवेगवन्तम् (विशे) प्रजायै (ददाति) (विश्वचर्षणिः) विश्वप्रकाशकः (अग्निः) (राये) धनाय (स्वाभुवम्) यः स्वयमाभवति तम् (सः) (प्रीतः) कमितः (याति) (वार्यम्) वरणीयम् (इषम्) अन्नादिकम् (स्तोतृभ्यः) (आ) (भर) ॥३॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्या ! अग्निरेव सुसाधितः सन् सुखप्रदो भवति येन भवन्त ऐश्वर्यमुन्नयन्तु ॥३॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे माणसांनो ! उत्तम प्रकारे उपयोगात येणारा अग्नी सुख देणारा असतो त्याच्याद्वारेच तुम्ही उन्नती करा ॥ ३ ॥
+</details>

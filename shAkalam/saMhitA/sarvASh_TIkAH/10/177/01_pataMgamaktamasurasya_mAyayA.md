@@ -1,0 +1,344 @@
++++
+title = "001"
+devataa = "मायाभेदः"
+RShiH = "पतङ्गः प्राजापत्यः"
+ChandaH = "जगती"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - मायाभेदः
+- ऋषिः - पतङ्गः प्राजापत्यः
+- छन्दः - जगती
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+पतंग᳓म् अक्त᳓म् अ᳓सुरस्य माय᳓या  
+हृदा᳓ पश्यन्ति म᳓नसा विपश्चि᳓तः  
+समुद्रे᳓ अन्तः᳓ कव᳓यो वि᳓ चक्षते  
+म᳓रीचीनाम् पद᳓म् इछन्ति वेध᳓सः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+aktám ← √añj- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ásurasya ← ásura- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+māyáyā ← māyā́- (nominal stem)  
+{case:INS, gender:F, number:SG}
+
+pataṁgám ← pataṁgá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+hr̥dā́ ← hā́rdi ~ hr̥d- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+mánasā ← mánas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+paśyanti ← √paś- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+vipaścítaḥ ← vipaścít- (nominal stem)  
+{case:NOM, number:PL}
+
+antár ← antár (invariable)  
+{}
+
+cakṣate ← √cakṣ- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:MED}
+
+kaváyaḥ ← kaví- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+samudré ← samudrá- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+ichanti ← √iṣ- 2 (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+márīcīnām ← márīci- (nominal stem)  
+{case:GEN, gender:F, number:PL}
+
+padám ← padá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vedhásaḥ ← vedhás- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+प॒तं॒गम॒क्तमसु॑रस्य मा॒यया॑ हृ॒दा प॑श्यन्ति॒ मन॑सा विप॒श्चितः॑ ।  
+स॒मु॒द्रे अ॒न्तः क॒वयो॒ वि च॑क्षते॒ मरी॑चीनां प॒दमि॑च्छन्ति वे॒धसः॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयारण्यकम्</summary>
+
+प॒त॒ङ्गम॒क्तमसु॑रस्य मा॒यया॑ । (29)  
+हृ॒दा प॑श्यन्ति॒ मन॑सा मनी॒षिणः॑ ।  
+स॒मु॒द्रे अ॒न्तः क॒वयो॒ विच॑क्षते ।  
+मरी॑चीनां प॒दमि॑च्छन्ति वे॒धसः॑ ।
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒त॒ङ्गम् । अ॒क्तम् । असु॑रस्य । मा॒यया॑ । हृ॒दा । प॒श्य॒न्ति॒ । मन॑सा । वि॒पः॒ऽचितः॑ ।  
+स॒मु॒द्रे । अ॒न्तरिति॑ । क॒वयः॑ । वि । च॒क्ष॒ते॒ । मरी॑चीनाम् । प॒दम् । इ॒च्छ॒न्ति॒ । वे॒धसः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीयारण्यकम्)</summary>
+
+- पतङ्ग᳓म् (*TS*-1/3, *RV*-2/8, *AV*-0/2, *SB-M*-0/1, *SB-K*-0/2, *VS-M*-1/2, *VS-K*-1/2, *KS*-0/2, *MS*-0/2)
+- अक्त᳓म् (*TS*-1/6, *RV*-4/9, *TB*-1, *AV*-2, *SB-M*-2/8, *SB-K*-2/8, *VS-K*-1, *MS*-2/5)
+- अ᳓सुरस्य (*TS*-2/111, *RV*-21/56, *TB*-0/11, *AV*-5/44, *SB-M*-2/143, *SB-K*-2/165, *VS-K*-1/4, *KS*-1/24, *MS*-3/156)
+- माय᳓या (*TS*-0/7, *RV*-20/63, *TB*-0/1, *TK*-1, *AV*-10/24, *SB-M*-1/13, *SB-K*-1/13, *VS-M*-1/3, *VS-K*-1/3, *KS*-1/5, *MS*-2/8)
+- हृदा᳓ (*TS*-6/16, *RV*-21/65, *TB*-3/4, *AV*-6/40, *SB-M*-1/9, *SB-K*-1/11, *VS-M*-2/7, *VS-K*-2/8, *KS*-1/5, *MS*-10/19)
+- पश्यन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-7, *RV*-10, *SB-K*-15, *VS-K*-3, *KS*-2, *MS*-6)
+- म᳓नसा (*TS*-58/141, *RV*-116/238, *TB*-27/44, *TK*-2/12, *AV*-59/161, *SB-M*-91/343, *SB-K*-70/312, *VS-M*-28/68, *VS-K*-26/71, *KS*-19/50, *MS*-63/147)
+- मनीषि᳓णः (*RV*-16/32, *TB*-1, *AV*-5/8, *SB-M*-2, *SB-K*-2, *VS-M*-1, *KS*-1, *MS*-1)
+- समुद्रे᳓ (*TS*-7/51, *RV*-29/131, *TB*-1/11, *TK*-1/2, *AV*-10/66, *SB-M*-7/71, *SB-K*-8/74, *VS-M*-7/18, *VS-K*-7/28, *KS*-2/14, *MS*-7/62)
+- अन्तः᳓ (*TS*-81/87, *RV*-154, *TB*-2, *AV*-102, *SB-M*-130/144, *SB-K*-117/122, *VS-M*-2, *VS-K*-6/9, *KS*-26, *MS*-79/81)
+- कव᳓यः (*TS*-6/31, *RV*-36/200, *TB*-2/9, *AV*-12/30, *SB-M*-4/11, *SB-K*-3/9, *VS-M*-5/15, *VS-K*-4/15, *KS*-3/18, *MS*-11/36)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-35, *TK*-2, *SB-K*-637, *VS-K*-49, *KS*-135, *MS*-527)
+- चक्षते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-6, *SB-K*-62)
+- म᳓रीचीनाम् (*TS*-0/1, *RV*-1/2, *AV*-0/3, *SB-M*-0/12, *SB-K*-0/12, *VS-K*-0/3, *KS*-0/1, *MS*-0/2)
+- पद᳓म् (*TS*-15/39, *RV*-46/95, *TB*-2/6, *AV*-16/29, *SB-M*-29/63, *SB-K*-27/61, *VS-M*-4/8, *VS-K*-7/13, *KS*-12/17, *MS*-14/33)
+- इच्छन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2, *SB-K*-1)
+- वेध᳓सः (*TS*-4/6, *RV*-25/41, *TB*-0/2, *AV*-6/10, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/3, *MS*-2/5)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *pataṅgam* ← *pataṃga*
+- \[noun\], accusative, singular, masculine
+- “insect; sun; bird; Caesalpinia sappan L.; Pataṃga; Vishnu.”
+
+_________
+
+- *aktam* ← *añj*
+- \[verb noun\], accusative, singular
+- “smear; anoint; mix; color.”
+
+_________
+
+- *asurasya* ← *asura*
+- \[noun\], genitive, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+
+_________
+
+- *māyayā* ← *māyā*
+- \[noun\], instrumental, singular, feminine
+- “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
+    trick.”
+
+_________
+
+- *hṛdā* ← *hṛd*
+- \[noun\], instrumental, singular, neuter
+- “heart; heart; mind; breast; hṛd \[word\].”
+
+_________
+
+- *paśyanti* ← *paś*
+- \[verb\], plural, Present indikative
+- “see; view; watch; meet; observe; think of; look; examine; behold;
+    visit; understand.”
+
+_________
+
+- *manasā* ← *manas*
+- \[noun\], instrumental, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+
+_________
+
+- *vipaścitaḥ* ← *vipaścit*
+- \[noun\], nominative, plural, masculine
+- “wise; expert.”
+
+_________
+
+- *samudre* ← *samudra*
+- \[noun\], locative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+
+_________
+
+- *antaḥ* ← *antar*
+- \[adverb\]
+- “inside; in; antar \[word\]; midmost; between; among.”
+
+_________
+
+- *kavayo* ← *kavayaḥ* ← *kavi*
+- \[noun\], nominative, plural, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+
+_________
+
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+
+_________
+
+- *cakṣate* ← *cakṣ*
+- \[verb\], plural, Present indikative
+- “watch; look.”
+
+_________
+
+- *marīcīnām* ← *marīci*
+- \[noun\], genitive, plural, masculine
+- “beam.”
+
+_________
+
+- *padam* ← *pada*
+- \[noun\], accusative, singular, neuter
+- “word; location; foot; footprint; pada \[word\]; verse; footstep;
+    metrical foot; situation; dwelling; state; step; mark; position;
+    trace; construction; animal foot; way; moment; social station;
+    topographic point; path; residence; site; topic.”
+
+_________
+
+- *icchanti* ← *iṣ*
+- \[verb\], plural, Present indikative
+- “desire; recommend; approve; seek; call; search; try; prefer; love;
+    commend; assent; permit; choose.”
+
+_________
+
+- *vedhasaḥ* ← *vedhas*
+- \[noun\], nominative, plural, masculine
+- “Brahma; creator; believer \[worshipper\]; Vishnu.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+असुरस्य- प्राणदस्य विष्णोः परमात्मनः। मायया- लीलया। अक्तम्- अभिव्यक्तम्। पतङ्गम्-  सूर्यम्। आत्मानम्। हृदा- अन्तर्हृदयेन। मनसा- बाह्यमनसा च। विपश्चितः- मेधाविनः।  पश्यन्ति- अनुभवन्ति। कवयः- क्रान्तदर्शिनः। समुद्रे अन्तः- अन्तर्हृदयसमुद्रे। वि चक्षते-  विशेषेण पश्यन्ति। वेधसः- मेधाविनः। मरीचीनाम्- किरणानां चिद्रश्मीनाम्। पदम्। इच्छन्ति-  कामयन्ते॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**असुरस्य** असनकुशलस्य सर्वोपाधिविहीनस्य परब्रह्मणः संबन्धिया **मायया** त्रिगुणात्मिकया **अक्तं** व्यक्तमभिव्यक्तम् । यद्वा। मायेति प्रज्ञानाम । प्रज्ञया संबद्धं सर्वज्ञं **पतङ्गम्**। पतति गच्छतीति पतङ्गः सूर्यः । तं **विपश्चितः** विद्वांसः **हृदा** हृत्स्थेन । तात्स्थ्यात्ताच्छब्द्यम् । हृदि निरुद्धेन **मनसा** **पश्यन्ति** जानन्ति । **कवयः** क्रान्तदर्शिनस्ते **समुद्रे** । समुद्द्रवन्त्यस्माद्रश्मय इति समुद्रं सूर्यमण्डलम् । तस्मिन् **अन्तः** मध्ये **वि** **चक्षते** विपश्यन्ति । मण्डलान्तर्वर्तिनं हिरण्मयं पुरुषमपि जानन्तीत्यर्थः । य एवं **वेधसः** विधातार उक्तप्रकारेण सूर्योपासनस्य कर्तारस्ते **मरीचीनां** रश्मीनां **पदं** स्थानं सूर्यमण्डलम् **इच्छन्ति** अभिलषन्ति । तदुपासनया प्राप्नुवन्तीत्यर्थः । यद्वा । माययाक्तं जीवरूपेणाभिव्यक्तमात्मानं विपश्चितो वेदान्ताभिज्ञा हृत्स्थेनान्तर्मुखेन मनसा पतङ्गम् । पतति व्याप्नोतीति पतङ्गः परमात्मा । तं पश्यन्ति । उपाधिपरित्यागेन जीवात्मनः परमात्मना तादात्म्यं साक्षात्कुर्वन्तीत्यर्थः । अपि च ते कवयः क्रान्तदर्शिनो वेदान्ताभिज्ञाः समुद्रे । समुद्द्रवन्त्यस्माद्भूतानीति समुद्रः परमात्मा । तस्मिन्नधिष्ठानभूतेऽन्तर्मध्ये सर्वं दृश्यजातमध्यस्तत्वेन वि चक्षते विपश्यन्तीति । अतो दृग्व्यतिरिक्तस्य सर्वस्य मिथ्यात्वाद्वेधसो विधातारस्ते मरीचीनां वृत्तिज्ञानानां पदमधिष्ठानभूतं सच्चित्सुखात्मकं यत्परं ब्रह्म तदेवेच्छन्ति । तद्भावप्राप्तिमेव कामयन्ते ॥
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+By the power of the Almighty the seers see the clear sun[P164_1] by their heart; the other poets see them in the midst of the ocean (sky); the wise ones wish the foot of the rays.
+
+[P164_1]: See T.A. 3.7.3.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+पतङ्गमिति ॥ पतङ्ग आदित्यस् तद्रूपण अक्तं व्यक्तिं गतम् आत्मानम् असुरस्य असनकुशलस्य सर्वोपाधिरहितस्य परस्य 'असेरुरन्' इत्य् उरन् प्रत्ययः । मायया प्रज्ञया एवं परमात्मानमेव आदित्यात्मना व्यक्तिं गतं हृदा हदि मनसा मानसप्रत्यक्षेणैव पश्यन्ति मनीषिणः मनस ईशितारः । अन्ये तु कवयः मेधाविनः समुद्रे आदित्यमण्डले अन्तः विचक्षते पश्यन्ति तमात्मानं, ते तु वेधसः विधानकुशालाः प्राज्ञा मरीचीनाम् आदित्यानां पदं स्थानम् इच्छन्ति प्रवेष्टुमिच्छन्ति ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+असून्प्राणान्राति ददातीत्यसुरः परमात्मा, तस्य माययाऽचिन्त्यशक्त्याऽक्तमभिव्यक्तं पतङ्गमादित्यं हृदा मनसा हृत्पुण्डरीकगतेन नियमितेनान्तःकरणेन मनीषिणो वेदशास्त्राभिज्ञा महर्षयः पश्यन्ति ध्यात्वा साक्षात्कुर्वन्ति । कवयो लौकिकवार्ताभिज्ञाः पुरुषाः समुद्रे अन्तः समुद्रसमानेऽन्तरिक्षमध्ये विचक्षते विशेषेण कथयन्ति, अयमादित्य उदितो मध्याह्ने समागत इत्यादिव्यवहारं कुर्वन्ति । वेधसो विधातारोऽनुष्ठानकुशलाः केचिद्यजमाना मरीचीनां पदं रश्मीनां स्थानमादित्यमिच्छन्ति । आदित्यसायुज्यप्राप्त्यर्थमनुतिष्ठन्तीत्यर्थः ।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“The wise behold their mind; (seated) in their heart the Sun made manifest by the illusion of the **asura**;the sages look into the solar orb, the ordainers (of solar worship) desire the region of his rays.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Illusion of theasura: asurasya = the supreme **Brahma** devoid of all disguise; aktam māyayā = united, to knowledge,all-knowing
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+The bird, anointed with the magic power of the lord, do those attentive  to poetic inspiration see with heart and mind.  
+The sage poets espy it within the sea; the ritual experts seek the footprint  of the light beams.
+</details>
+
+<details><summary>Griffith</summary>
+
+THE sapient with their spirit and their mind behold the Bird adorned with all an Asura's magic might.  
+     Sages observe him in the ocean's inmost depth: the wise disposers seek the station of his rays.
+</details>
+
+<details><summary>Geldner</summary>
+
+Den mit des Asura Zauber bestrichenen Vogel sehen im Herzen, im Geiste die Redekundigen. Inmitten des Ozeans schauen ihn die Seher; die Meister suchen die Spur der Lichtstrahlen.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Den Vogel, der geschmückt ist durch des Gottes Kunst, beschaun die Weisen mit dem Herzen und Verstand, Im Innern auch des Meeres schaun die Seher ihn; die Ordner streben nach der Funken Stätte hin.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Патангу, окрашенного колдовскою силою Асуры,  
+Сердцем (и) мыслью видят прозорливцы.  
+В глубине океана разглядывают (его) поэты.  
+Устроители обряда ищут след лучей.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मायाभेदः
+- पतङ्गः प्राजापत्यः
+- जगती
+- निषादः
+</details>
+
+<details><summary>ब्रह्ममुनि - विषयः</summary>
+
+इस सूक्त में जीवात्मा का नित्य होना, पुनः-पुनः शरीर से अन्य शरीर को प्राप्त करना जब तक मोक्ष हो, वाणी को प्रकट करना, मनोयोग से विद्वानों द्वारा धारण करना ज्ञानप्रसारार्थ इत्यादि विषय हैं।
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (असुरस्य) प्राणप्रद परमेश्वर की (मायया) प्रजा से (अक्तं पतङ्गम्) प्रसिद्ध-जन्म जन्मान्तर में गमनशील जीवात्मा को (हृदा मनसा) हृदयस्थ इच्छा से और मन से (विपश्चितः) विशिष्ट विद्वान् जन (पश्यन्ति) जानते हैं (कवयः-वेधसः) मेधावी अध्यात्मकर्म के विधाता योगी जन (मरीचीनां पदम्) रश्मियों पर सूर्य की भाँति जीवनशक्तियों या चित्तवृत्तियों के ऊपर विराजमान प्रापणीय जीवात्मा को (इच्छन्ति) चाहते हैं खोजते हैं (समुद्रे-अन्तः) विश्व के समुद्ररूप परमात्मा के अन्दर अपने आत्मा को(विचक्षते)अनुभव करते हैं ॥१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  परमेश्वरकीव्यवस्था से जन्म-जन्मान्तर में गति करनेवाले जीवात्मा को ध्यानी, ज्ञानी जन चित्तवृत्तियों के ऊपर उसके अधिष्ठाता जीवात्मा को परमात्मा के आश्रितजीवात्मा को साक्षात् करते हैं, जीवात्मा परमात्मा के बिना नहीं रह सकता है, परमात्मा का साक्षात्कार होने पर जीवात्मा का साक्षात्कार होता है ॥१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - विषयः</summary>
+
+अत्र सूक्ते जीवात्मनो नित्यत्वं पुनः पुनः-शरीराच्छरीरान्तरं गमनं यावन्मोक्षः, वाणीं च प्रकटयति मनोयोगेन तां च विद्वांसो धारयन्ति ज्ञानप्रसारायेत्येवमादयो विषयाः सन्ति।
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (असुरस्य मायया-अक्तं पतङ्गम्) प्राणदस्य परमेश्वरस्य प्रज्ञया “माया प्रज्ञानाम” [निघ० ३।९] प्रसिद्धं प्रसिद्धं प्राप्तं पतङ्गम् “पतन्निव ह्यङ्गतीति-पतङ्ग इत्याचक्षते” [जै० ३।६।७।२] जीवात्मानम् (हृदा मनसा विपश्चितः पश्यन्ति) हृदयस्थेच्छया मनसा विशिष्टविद्वांसः पश्यन्ति जानन्ति (कवयः-वेधसः) मेधाविनोऽध्यात्मकर्मविधातारो योगिनः (मरीचीनां पदम्-इच्छन्ति) ये मरीचीनां रश्मीनां पदं सूर्यमिव “सूर्यस्य मरीचिः” [तै० आ० ३।९।२] तं जीवनशक्तीनां यद्वा चित्तवृत्तीनां पदं जीवात्मानमिच्छन्ति (समुद्रे अन्तः-विचक्षते) विश्वस्य समुद्रे समुद्ररूपे परमात्मनि-अन्तस्तं जीवात्मानं स्वात्मानं विशेषेण पश्यन्ति साक्षात् कुर्वन्ति ॥१॥
+</details>

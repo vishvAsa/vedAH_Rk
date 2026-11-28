@@ -1,0 +1,306 @@
++++
+title = "003"
+devataa = "अग्निः"
+RShiH = "सूनुरार्भवः"
+ChandaH = "अनुष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - सूनुरार्भवः
+- छन्दः - अनुष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अय᳓म् उ ष्य᳓ प्र᳓ देवयु᳓र्  
+हो᳓ता यज्ञा᳓य नीयते  
+र᳓थो न᳓ यो᳓र् अभी᳓वृतो  
+घृ᳓णीवाञ् चेतति त्म᳓ना
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+ayám ← ayám (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+devayúḥ ← devayú- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+syá ← syá- ~ tyá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+u ← u (invariable)  
+{}
+
+hótā ← hótar- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+nīyate ← √nī- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:PASS}
+
+yajñā́ya ← yajñá- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+abhī́vr̥taḥ ← √vr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+ná ← ná (invariable)  
+{}
+
+ráthaḥ ← rátha- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+yóḥ ← yú- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+cetati ← √cit- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+ghŕ̥ṇīvān ← ghŕ̥ṇīvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+tmánā ← tmán- (nominal stem)  
+{case:INS, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अ॒यमु॒ ष्य प्र दे॑व॒युर्होता॑ य॒ज्ञाय॑ नीयते ।  
+रथो॒ न योर॒भीवृ॑तो॒ घृणी॑वाञ्चेतति॒ त्मना॑ ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अयमु ष्य प्र देवयुर्होता यज्ञाय नीयते।  
+रथो न योरभीवृतो घृणीवाञ्चेतति त्मना
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒यम् । ऊं॒ इति॑ । स्यः । प्र । दे॒व॒ऽयुः । होता॑ । य॒ज्ञाय॑ । नी॒य॒ते॒ ।  
+रथः॑ । न । योः । अ॒भिऽवृ॑तः । घृणि॑ऽवान् । चे॒त॒ति॒ । त्मना॑ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अ॒यम् । उ॒ । स्यः । प्रेति॑ । दे॒व॒युरिति॑ देव-युः । होता॑ । य॒ज्ञाय॑ । नी॒य॒ते॒ ॥ रथः॑ । न । योः । अ॒भीवृ॑त॒ इत्य॒भि-वृ॒तः॒ । घृणी॑वान् । चे॒त॒ति॒ । त्मना॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अय᳓म् (*MW*, *MS*-133/1379, *TS*-92/965, *RV*-238/1247, *TB*-55/567, *TK*-6/57, *AV*-184/1259, *SB-M*-961/5239, *SB-K*-990/5549, *VS-M*-77/319, *VS-K*-70/301)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- ष्य᳓ (*MS*-1)
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- देव-युः᳓ (*MS*-2/4, *TS*-1/2, *RV*-15/27, *AV*-0/3)
+- हो᳓ता (*MS*-81/112, *TS*-43/63, *RV*-150/244, *TB*-95/136, *TK*-6/8, *AV*-18/28, *SB-M*-135/211, *SB-K*-145/211, *VS-M*-58/73, *VS-K*-44/60)
+- यज्ञा᳓य (*MS*-17/933, *TS*-17/863, *RV*-10/448, *TB*-12/399, *TK*-2/21, *AV*-1/231, *SB-M*-24/1803, *SB-K*-18/1754, *VS-M*-0/223, *VS-K*-0/187)
+- नीयते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-5, *TS*-6, *RV*-10, *SB-M*-1, *SB-K*-1, *VS-M*-3, *VS-K*-3)
+- र᳓थः (*MS*-17/57, *TS*-13/36, *RV*-83/393, *TB*-16/36, *TK*-2/3, *AV*-10/57, *SB-M*-16/50, *SB-K*-20/53, *VS-M*-5/16, *VS-K*-5/13)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- योः᳓ (*Whitney*, *MW*, *MS*-13, *TS*-7, *RV*-25, *TB*-9, *AV*-4, *SB-M*-1, *SB-K*-3, *VS-M*-1, *VS-K*-2)
+- अभि᳓-वृतः (*TS*-1, *RV*-3/7, *AV*-0/2, *MS*-1)
+- घृ᳓णीवान् (*TS*-1, *VS-M*-1, *VS-K*-1, *MS*-1)
+- चेतति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-1, *RV*-10)
+- त्म᳓ना (*MS*-8, *TS*-9, *RV*-63/72, *TB*-1/2, *TK*-1, *AV*-4, *SB-M*-3/4, *SB-K*-5/6, *VS-M*-7, *VS-K*-10)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *ayam* ← *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+
+_________
+
+- *ṣya* ← *tya*
+- \[noun\], nominative, singular, masculine
+- “that.”
+
+_________
+
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *devayur* ← *devayuḥ* ← *devayu*
+- \[noun\], nominative, singular, masculine
+- “devout; devoted.”
+
+_________
+
+- *hotā* ← *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+
+_________
+
+- *yajñāya* ← *yajña*
+- \[noun\], dative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+
+_________
+
+- *nīyate* ← *nī*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+
+_________
+
+- *ratho* ← *rathaḥ* ← *ratha*
+- \[noun\], nominative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+
+_________
+
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+
+_________
+
+- *yor* ← *yoḥ* ← *yos*
+- \[noun\], accusative, singular
+- “fortune.”
+
+_________
+
+- *abhīvṛto* ← *abhīvṛtaḥ* ← *abhīvṛta*
+- \[noun\], nominative, singular, masculine
+
+_________
+
+- *ghṛṇīvāñ* ← *ghṛṇīvān* ← *ghṛṇīvat*
+- \[noun\], nominative, singular, masculine
+- “aglow(p).”
+
+_________
+
+- *cetati* ← *cit*
+- \[verb\], singular, Present indikative
+- “notice; observe; attend to; intend.”
+
+_________
+
+- *tmanā* ← *tman*
+- \[noun\], instrumental, singular, masculine
+- “self.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+अयम्- एषः। स्यः- सः। देवयुः- देवकामः। होता- देवाह्वाता। यज्ञाय। प्र- प्रकर्षेण। नीयते।  रथो न- हव्यप्रापकवाहनमिव स्थितः। योः- देवैर्हव्यानां मिश्रयिता। अभीवृतः- हव्यानां   सङ्गमयिता। घृणीवान्- दीप्तिमान्। त्मना- आत्मना। चेतति- सर्वं प्रज्ञापयति॥३॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अयमु** अयमेव **स्यः** सोऽग्निः **देवयुः** देवान् यष्टुमिच्छन् भवति ॥ देव शब्दात्क्यचि ‘न च्छन्दस्यपुत्रस्य इतीत्वदीर्घयोः प्रतिषेधः ॥ अयमेव **होता** देवानामाह्वाता । अयमेव **यज्ञाय** यागार्थं **प्र** **णीयते** आहवनीयदेशं प्रति प्रकर्षेण नीयते । अपि च **रथः** रंहणशीलः सूर्यो रथवान् वा ॥ छान्दसो मत्वर्थीयस्थ लोपः ॥ स यथा **घृणीवान्** दीप्तिमान् तद्वद्दीप्तः **योः** मिश्रयिता हविषां देवैः संगमयिता । यौतेः ‘ अन्येभ्योऽपि दृश्यन्ते ' इति विच् ॥ **अभीवृतः** ऋत्विग्यजमानैरावेष्टितः ॥ वृणोतेः कर्मणि ‘अन्येषामपि ' इति पूर्वपदस्य दीर्घः । ‘ गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । एवंभूतोऽग्निः **त्मना** आमना स्वयमेव **चेतति** सम्यग्देवान् यष्टुं जानाति ॥ ‘ मन्त्रेष्वाङ्यादेरात्मनः' इत्याकारलोपः ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+अयमु अयमेव स्यः सः देवयुः देवान्यष्टुमिच्छन् । 'न छन्दस्यपुत्रस्य' इतीत्वाभावः, 'क्याच्छन्दसि' इत्युप्रत्ययः । होता देवानामाह्वाता सोयमेव यज्ञाय प्रणीयते । रथो न रथ इव । रंहणशील आदित्यो रथः रथवान्वा, लुप्तमत्वर्थीयः । अभिवृतः ब्राह्मणैर्वेष्टितः । सांहितिकमुपसर्गस्य दीर्घत्वम्, 'गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । योः मिश्रयिता हविषां देवैः । यौतेर्विच् । धृणीवान् रश्मिवान् । सांहितिकं दीर्घत्वम्, 'छन्दसीरः' इति मतुपो वत्वम्, व्यत्ययेन 'छन्दसि' इति रुर्न प्रवर्तते । चेतति जानाति त्मना आत्मना स्वयमेव यागनिवृत्त्युपायान् वेत्तीति । 'मन्त्रेष्वाङ्यादेः' इति लोपः ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“This ministrant priest devoted to the gods is brought (here) for the sacrifice; radiant as theswift-moving sun, uniting (the oblation and the gods) surrounded (by the priests, **Agni**) knows of himself (how toworship the gods).”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+This Hotar right here, seeking the gods, is led forth to sacrifice.  
+Decked out like the chariot of a traveler, he comes into view, glowing  with heat, in his own person.
+</details>
+
+<details><summary>Griffith</summary>
+
+He here, a God-devoted Priest, led forward comes to sacrifice.  
+     Like a car covered for the road, he, glowing, knows, himself, the way.
+</details>
+
+<details><summary>Keith</summary>
+
+He, the Hotr is led forward for the sacrifice,  
+The servant of the gods;  
+Like a covered chariot glowing  
+He himself knoweth health.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Now this god-seeking hotṛ is led forward to the sacrifice;  
+like a chariot surrounded by horses, fiery, he attends by himself.
+</details>
+
+<details><summary>Geldner</summary>
+
+Dieser gottergebene Hotri wird da zum Opfer hingetragen. Wie der Wagen eines Fahrenden bedeckt, macht sich der Glutreiche von selbst bemerkbar.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der Priester hier, den Göttern hold, wird zu dem Opfer vorgeführt; Wie ein beladner Wagen zeigt sich auf der Fahrt der glühende.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Вот ведут его самого  
+Преданного богам хотара для жертвоприношения.  
+Накрытый, как колесница едущего ( в поход),  
+Пылающий, он сам себя проявляет.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- सूनुरार्भवः
+- अनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अयम्-उ स्यः) यही वह (देवयुः-होता) हमारे लिए दिव्य भोगों की कामना करनेवाला-सबको देनेवाला परमात्मा या दिव्य रश्मियों को मिलानेवाला या प्राप्त करनेवाला सूर्य (यज्ञाय प्र-नीयते) समागम के लिए हृदय में धारा जाता है या यथासमय सेवन किया जाता है (रथः-न) जैसे रमणीय आश्रय करने योग्य गुरु (योः-अभीवृतः) जो मिश्रण चाहता है, वह शिष्यों के द्वारा आवृत होता है, ऐसे (घृणिवान्) दीप्तिमान् परमात्मा (त्मना चेतति) स्वरूप से सेवन करते हुए को चेताता है ॥३॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  परमात्मा मनुष्य के लिए दिव्य भोगों की कामना करता है, वह हृदय में साक्षात् होता है, अपने तेजस्वी स्वरूप से चेताता भी है, ऐसे ही सूर्य अपनी किरणों से संगत करता है और प्रकाश प्रदान करके चेताता है ॥३॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अयम्-उ स्यः-देवयुः-होता) अयमेव स योऽस्मदर्थं दिव्यान् भोगान् कामयते ‘छन्दसि परेच्छायां क्यच्’ “देवयवः-ये देवान् दिव्यान् भोगान् कामयन्ते ते” [ऋ० १।१५४।५ दयानन्दः] परमात्मा यद्वा “देवान् रश्मीन् यौति मिश्रयति प्रापयति” सूर्यः-होताऽसि (यज्ञाय प्र-नीयते) सङ्गमनाय हृदये प्रकृष्टं नीयते धार्यते यथासमयं सेव्यते (रथः-न योः-अभीवृतः) यथा रमणीय आश्रयणीयो गुरुः यौति-मिश्रणमिच्छति स शिष्यैरभिवृतोऽभितः पार्श्वत आवृतो भवति तथाभूतः सः (घृणिवान्-त्मना चेतति) दीप्तिमान् सन् “घृणिः ज्वलतोनाम” [निघ० १।१७] स्वरूपेण सेवमानं चेतयति ॥३॥
+</details>

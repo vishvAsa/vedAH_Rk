@@ -1,0 +1,386 @@
++++
+title = "007"
+devataa = "विष्णुः"
+RShiH = "वसिष्ठः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - विष्णुः
+- ऋषिः - वसिष्ठः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+व᳓षट् ते विष्णव् आस᳓ आ᳓ कृणोमि  
+त᳓न् मे जुषस्व शिपिविष्ट हव्य᳓म्  
+व᳓र्धन्तु त्वा सुष्टुत᳓यो गि᳓रो मे  
+यूय᳓म् पात सुअस्ति᳓भिः स᳓दा नः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+_________
+**Morph**  
+ā́ ← ā́ (invariable)  
+{}
+
+āsáḥ ← ā́s- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+kr̥ṇomi ← √kr̥- (root)  
+{number:SG, person:1, mood:IND, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+váṣaṭ ← váṣaṭ (invariable)  
+{}
+
+viṣṇo ← víṣṇu- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+havyám ← havyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+juṣasva ← √juṣ- (root)  
+{number:SG, person:2, mood:IMP, tense:AOR, voice:MED}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+śipiviṣṭa ← śipiviṣṭá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gíraḥ ← gír- ~ gīr- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+me ← ahám (pronoun)  
+{case:DAT, number:SG}
+
+suṣṭutáyaḥ ← suṣṭutí- (nominal stem)  
+{case:NOM, gender:F, number:PL}
+
+tvā ← tvám (pronoun)  
+{case:ACC, number:SG}
+
+várdhantu ← √vr̥dh- (root)  
+{number:PL, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pāta ← √pā- 1 (root)  
+{number:PL, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sádā ← sádā (invariable)  
+{}
+
+svastíbhiḥ ← svastí- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+yūyám ← tvám (pronoun)  
+{case:NOM, number:PL}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+वष॑ट् ते विष्णवा॒स आ कृ॑णोमि॒ तन्मे॑ जुषस्व शिपिविष्ट ह॒व्यम् ।  
+वर्ध॑न्तु त्वा सुष्टु॒तयो॒ गिरो॑ मे यू॒यं पा॑त स्व॒स्तिभिः॒ सदा॑ नः ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+वष॑ट्ते विष्णवा॒स आ कृ॑णोमि॒ तन्मे॑ जुषस्व शिपिविष्ट ह॒व्यम् । (67)  
+वर्ध॑न्तु त्वा सुष्टु॒तयो॒ गिरो॑ मे यू॒यम्पा॑त स्व॒स्तिभि॒स्सदा॑ नः ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+व᳓षट् ते विष्ण आस᳓ आ᳓ कृणोमि त᳓न्मे जुषस्व शिपिविष्ट हव्य᳓म्।  
+व᳓र्धन्तु त्वा सुष्टुत᳓यो गि᳓रो मे यूयं᳓ पात स्वस्ति᳓भिस्स᳓दा नः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वष॑ट् । ते॒ । वि॒ष्णो॒ इति॑ । आ॒सः । आ । कृ॒णो॒मि॒ । तत् । मे॒ । जु॒ष॒स्व॒ । शि॒पि॒ऽवि॒ष्ट॒ । ह॒व्यम् ।  
+वर्ध॑न्तु । त्वा॒ । सु॒ऽस्तु॒तयः॑ । गिरः॑ । मे॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+वष॑ट् । ते॒ । वि॒ष्णो॒ । आ॒सः । एति॑ । कृ॒णो॒मि॒ । तत् । मे॒ । जु॒ष॒स्व॒ । शि॒पि॒वि॒ष्टेति॑ शिपि-वि॒ष्ट॒ । ह॒व्यम् ॥ वर्ध॑न्तु । त्वा॒ । सु॒ष्टु॒तय॒ इति॑ सु-स्तु॒तयः॑ । गिरः॑ । मे॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिभि॒रिति॑ स्व॒स्ति-भिः॒ । सदा॑ । नः॒ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- व᳓षट् (*MS*-9, *TS*-22, *RV*-4, *TB*-6, *AV*-4, *SB-M*-23, *SB-K*-21, *VS-M*-1, *VS-K*-1)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- विः (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *VS-K*-1, *MS*-3)
+- णः (*MS*-17, *TS*-4, *TB*-7, *SB-M*-3, *VS-K*-5)
+- आसः᳓ (*MS*-0/7, *TS*-1/2, *RV*-2/4, *AV*-0/1, *SB-M*-0/18, *SB-K*-1/11, *VS-M*-0/1, *VS-K*-0/1)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- कृणोमि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-2, *TS*-2, *RV*-8, *AV*-40, *SB-M*-1, *SB-K*-1)
+- त᳓त् (*MS*-1125/5550, *TS*-687/4761, *RV*-552/3136, *TB*-612/2709, *TK*-43/363, *AV*-391/3165, *SB-M*-6428/20457, *SB-K*-6056/20018, *VS-M*-120/780, *VS-K*-90/660)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *MS*-506, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-332)
+- जुषस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-15, *TS*-13, *RV*-41, *TB*-6, *AV*-7, *SB-M*-8, *SB-K*-9, *VS-M*-10, *VS-K*-9)
+- शिपि-विष्ट (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-2, *RV*-3, *TB*-1, *SB-M*-1, *SB-K*-2, *VS-M*-1, *VS-K*-1)
+- हव्य᳓म् (*MS*-42/56, *TS*-39/50, *RV*-34/81, *TB*-14/21, *AV*-23/25, *SB-M*-20/22, *SB-K*-22/24, *VS-M*-11/18, *VS-K*-15/22)
+- व᳓र्धन्तु (*TS*-1, *RV*-3)
+- त्वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-812, *TS*-814, *RV*-590, *TB*-236, *TK*-47, *AV*-539, *SB-M*-706, *SB-K*-675, *VS-M*-615, *VS-K*-519)
+- सु-ष्टुत᳓यः (*MS*-1/5, *TS*-1/3, *RV*-0/1, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/3, *VS-K*-0/2)
+- गि᳓रः (*MS*-15/16, *TS*-10, *RV*-151/158, *TB*-11, *AV*-22, *SB-M*-7, *SB-K*-6, *VS-M*-11, *VS-K*-18)
+- मे (अनुदात्तम्, पा॰ ८.१.१८, *MS*-506, *TS*-585, *RV*-303, *TB*-152, *TK*-30, *AV*-402, *SB-M*-455, *SB-K*-434, *VS-M*-503, *VS-K*-332)
+- यूय᳓म् (*MS*-9/382, *TS*-14/313, *RV*-132/1488, *TB*-7/152, *TK*-0/39, *AV*-23/628, *SB-M*-16/387, *SB-K*-17/387, *VS-M*-7/216, *VS-K*-7/180)
+- पात (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-7, *TS*-6, *RV*-84, *TB*-7, *AV*-8, *SB-M*-3, *SB-K*-2, *VS-M*-5, *VS-K*-5)
+- स्वस्ति᳓भिः (*MS*-4/37, *TS*-4/44, *RV*-85/201, *TB*-5/21, *AV*-6/56, *SB-M*-0/45, *SB-K*-0/46, *VS-M*-3/12, *VS-K*-3/15)
+- स᳓दा (*MS*-4, *TS*-7, *RV*-120, *TB*-5, *AV*-19, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-4)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *vaṣaṭ*
+- \[adverb\]
+- “vaṣaṭ!; vaṣat \[word\].”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+
+_________
+
+- *viṣṇav* ← *viṣṇo* ← *viṣṇu*
+- \[noun\], vocative, singular, masculine
+- “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
+
+_________
+
+- *āsa* ← *āsaḥ* ← *ās*
+- \[noun\], genitive, singular, neuter
+- “mouth.”
+
+_________
+
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *kṛṇomi* ← *kṛ*
+- \[verb\], singular, Present indikative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+
+_________
+
+- *tan* ← *tat* ← *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *me* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+
+_________
+
+- *juṣasva* ← *juṣ*
+- \[verb\], singular, Present imperative
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+
+_________
+
+- *śipiviṣṭa*
+- \[noun\], vocative, singular, masculine
+
+_________
+
+- *havyam* ← *havya*
+- \[noun\], accusative, singular, neuter
+- “Havya; offering; havya \[word\].”
+
+_________
+
+- *vardhantu* ← *vṛdh*
+- \[verb\], plural, Present imperative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+
+_________
+
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+
+_________
+
+- *suṣṭutayo* ← *suṣṭutayaḥ* ← *suṣṭuti*
+- \[noun\], nominative, plural, feminine
+- “hymn; praise.”
+
+_________
+
+- *giro* ← *giraḥ* ← *gir*
+- \[noun\], nominative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+
+_________
+
+- *me* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+
+_________
+
+- *yūyam* ← *tvad*
+- \[noun\], nominative, plural
+- “you.”
+
+_________
+
+- *pāta* ← *pā*
+- \[verb\], plural, Present imperative
+- “protect; govern.”
+
+_________
+
+- *svastibhiḥ* ← *svasti*
+- \[noun\], instrumental, plural, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+
+_________
+
+- *sadā*
+- \[adverb\]
+- “always; continually; always; perpetually.”
+
+_________
+
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+शिपिविष्ट- चिद्रश्मिभिराविष्ट। अन्तर्यामिन्निति भावः। ते- तुभ्यम्। वषट्। आ कृणोमि। करोमि।  तत्। मे- मम। हव्यम्। जुषस्व- सेवस्व। सुष्टुतयः- शोभनस्तुतयः। मे- मम। गिरः- वाचः।  त्वा- त्वाम्। वर्धन्तु। यूयं पात स्वस्तिभिः सदा नः॥७॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **विष्णो** **ते** तुभ्यम् **आसः** **आस्यात्** **आ** अभिमुखं **वषट्** **कृणोमि** करोमि। वषट्कारेण हविराह्ववयामि (हविर्हावयामि - पाठः) । हे **शिपिविष्ट** । शिपयो रश्मयः । तैराविष्ट विष्णो **तत्** वषट्कृतं **मे** मदीयं **हव्यं** हविः **जुषस्व** सेवस्व । **सुष्टुतयः** शोभनस्तुत्यात्मिका: **गिरः** वाचश्च त्वां **वर्धन्तु** वर्धयन्तु । अन्यद्गतम् ॥ ॥ २४ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे विष्णो व्यापनशील ते तव । आङ् मर्यादायाम् । वषट् कृणोमि करोमि ददामि । किम् ? आसः अस्यते क्षिप्यत इत्यासः अग्नौ क्षिप्यमाणं हविरुच्यते । कर्मणि घञ्, वचनव्यत्ययः, 'कर्षात्वतः' इत्यन्तोदात्तत्वम् । यद्वा - असुनि सवर्णव्यत्ययः । हे शिपिविष्ट तन्मे हव्यं हविः जुषस्व सेवस्व । शिपयो रश्मयः तैर्वेष्टितः, प्रविष्टो वा । पृषोदरादित्वादभीष्टं रूपं सिद्धम् । किञ्च - मम सुष्टुतयः शोभनस्तुतिकारणभूता गिरः त्वां वर्धन्तु वर्धयन्तु स्तुवन्त्विति यावत् । स्तुत्या हि स्तोतव्यो वर्धते । 'बहुलं संज्ञाछन्दसोः' इति णिलुक्, 'छन्दस्युभयथा' इति वा शप आर्धधातुकत्वम् । यूयं च मया स्तुताः नः अस्मान् स्वस्तिभिः अविनाशैः पात रक्षत सदा सर्वदा । पूजार्थमेकस्मिन् बहुवचनम् ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“I offer, **Viṣṇu**, the oblation plural ced before you with the exclamation Vaṣa: be plural ased, **Śipiviṣṭa**, withmy offering; may my laudatory hymns magnify you; and do you (gods) ever cherish us with blessings.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+I make the vaṣaṭ-cry to you from my mouth, Viṣṇu. Enjoy this oblation  of mine, Śipiviṣṭa.  
+Let my lovely praises, my hymns strengthen you. – Do you protect us  always with your blessings.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+On śipiviṣṭa see comm. ad vs. 4.
+</details>
+
+<details><summary>Griffith</summary>
+
+O Visnu, unto thee my lips cry Vasat! Let this mine offering, Sipivista, please thee.  
+     May these my songs of eulogy exalt thee. Preserve us evermore, ye Gods, with blessings.
+</details>
+
+<details><summary>Keith</summary>
+
+From the mouth to thee, O Visnu, do I utter the Vasat call; Do thou accept my oblation, O Śipivista [4]; Let my fair hymns of praise cause thee to wax great; Do ye protect us ever with blessings.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+'Vaṣaṭ' I make to you in your mouth, O Viṣṇu; enjoy this my oblation, O Śipiviṣṭa!
+</details>
+
+<details><summary>Geldner</summary>
+
+Ich mache dir, Vishnu, aus meinem Munde das Vasat, laß dir dieses Opfer von mir munden, o Sipivista. Es sollen dich meine Preislieder, meine Lobesworte erbauen.-Behütet ihr uns immerdar mit eurem Segen!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Den Heilsruf bringe ich dir dar, o Vischnu, nimm gnädig an dies Opfer, Çipivischta; Dich mögen stärken meine Lobgesänge. Ihr Götter, schützt uns stets mit eurem Segen.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Вашат! – возглашаю я тебе устами, о Вишну,  
+Да понравится тебе эта моя жертва, Шипивишта!  
+Да усилят тебя мои прекрасные прославления, (мои) песни!  
+Защищайте вы нас всегда (своими) милостями!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- विष्णुः
+- वसिष्ठः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (शिपिविष्ट) हे तेजोमय परमात्मन् ! आप (हव्यं) हमारी प्रार्थनाओं को (जुषस्व) स्वीकार करें जो (वषट्)  बड़ी नम्रतापूर्वक की गई हैं, (विष्णो) हे व्यापक परमात्मन् ! (ते) तुम्हारे (आस) समक्ष प्रार्थनाएँ (आ, कृणोमि) हैं और (मे) मेरी (गिरः) ये वाणियें (सुष्टुतयः) जिनमें भले प्रकार से आपका वर्णन किया गया है, (त्वां) आपके यश को (वर्धन्तु) बढ़ाएँ और (यूयं) आप (सदा) सदैव (स्वस्तिभिः) मङ्गलकार्यों से (पात) हमारी रक्षा करें॥७॥
+</details>
+
+<details><summary>आर्यमुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  शिपिनाम यहाँ तेजोरूप किरणों का है “शिपयो रश्मयः” ॥ निरु. ५।८॥ अर्थात् ज्योतिःस्वरूप परमात्मा हमारी प्रार्थनाओं को स्वीकार करे और हमको सदैव उन्नति के मार्ग में ले जाये। यहाँ पहले (त्वां) एकवचन आकर भी (यूयं) फिर आदरार्थ बहुवचन है ॥७॥ यह ९९वाँ सूक्त और २४वाँ वर्ग समाप्त हुआ ॥
+</details>
+
+<details><summary>आर्यमुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (शिपिविष्ट) हे तेजोमय परमात्मन् ! (हव्यम्) मम प्रार्थनाः (जुषस्व) स्वीकुरु या (वषट्) नम्रतया कृताः (विष्णो) हे विभो ! (ते) तव (आस) समक्षं ताः प्रार्थनाः (आ, कृणोमि) करोमि तथा (मे) मम (गिरः) स्तुतिवाचः (सुष्टुतयः) सुयशसः (त्वाम्) तव यशः (वर्धन्तु) वर्धयन्तु (यूयम्) भवान् (स्वस्तिभिः) स्वस्तिवाग्भिः (सदा) शश्वत् (नः) अस्मान् (पात) रक्षतु ॥७॥ इति नवनवतितमं सूक्तं चतुर्विंशो वर्गश्च समाप्तः ॥
+</details>

@@ -1,0 +1,517 @@
++++
+title = "010"
+devataa = "लिङ्गोक्तदेवताः"
+RShiH = "पायुर्भारद्वाजः"
+ChandaH = "जगती"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - लिङ्गोक्तदेवताः
+- ऋषिः - पायुर्भारद्वाजः
+- छन्दः - जगती
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+ब्रा᳓ह्मणासः पि᳓तरः सो᳓मियासः  
+शिवे᳓ नो द्या᳓वापृथिवी᳓ अनेह᳓सा  
+पूषा᳓ नः पातु दुरिता᳓द् ऋतावृधो  
+र᳓क्षा मा᳓किर् नो अघ᳓शंस ईशत
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular;; repeated line
+_________
+**Morph**  
+brā́hmaṇāsaḥ ← brā́hmaṇa- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+pítaraḥ ← pitár- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+sómyāsaḥ ← somyá- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+anehásā ← anehás- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+dyā́vāpr̥thivī́ ← dyā́vāpr̥thivī́- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+śivé ← śivá- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+duritā́t ← duritá- (nominal stem)  
+{case:ABL, gender:N, number:SG}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+pātu ← √pā- 1 (root)  
+{number:SG, person:3, mood:IMP, tense:PRS, voice:ACT}
+
+pūṣā́ ← pūṣán- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+r̥tāvr̥dhaḥ ← r̥tāvŕ̥dh- (nominal stem)  
+{case:VOC, gender:M, number:PL}
+
+agháśaṁsaḥ ← agháśaṁsa- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+īśata ← √īś- (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+
+mā́kis ← mā́kis (invariable)  
+{}
+
+naḥ ← ahám (pronoun)  
+{case:ACC, number:PL}
+
+rákṣa ← √rakṣⁱ- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+ब्राह्म॑णासः॒ पित॑रः॒ सोम्या॑सः शि॒वे नो॒ द्यावा॑पृथि॒वी अ॑ने॒हसा॑ ।  
+पू॒षा नः॑ पातु दुरि॒तादृ॑तावृधो॒ रक्षा॒ माकि॑र्नो अ॒घशं॑स ईशत ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+ब्राह्म॑णासः॒ पित॑रः॒ सोम्या॑सः शि॒वे नो॒ द्यावा॑पृथि॒वीऽअ॑ने॒हसा॑।  
+पू॒षा नः॑ पातु दुरि॒तादृ॑तावृधो॒ रक्षा॒ माकि॑र्नोऽअ॒घशँ॑सऽईशत ॥४७ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+ब्राह्म॑णासः [29]  पित॑र॒स्सोम्या॑सश्शि॒वे नो॒ द्यावा॑पृथि॒वी अ॑ने॒हसा॑ ।  
+पू॒षा न॑ᳶ पातु दुरि॒तादृ॑तावृधो॒ रक्षा॒ माकि॑र्नो अ॒घशँ॑स ईशत ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+ब्राह्मणासः पितरस्मोम्यासश्शिवे नो द्यावापृथिवी अनेहसा।  
+पूषा नः पातु दुरितादृतावृधो रक्षा माकिर्नो अघशँस ईशत
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+ब्रह्मणासः पितरः सोम्यासः  
+शिवे नो द्यावापृथिवी अनेहसा ।  
+पूषा नः पातु दूरिताद् ऋतावृधो  
+रक्षा माकिर् णो अघशंस ईशत ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्राह्म॑णासः । पित॑रः । सोम्या॑सः । शि॒वे इति॑ । नः॒ । द्यावा॑पृथि॒वी इति॑ । अ॒ने॒हसा॑ ।  
+पू॒षा । नः॒ । पा॒तु॒ । दुः॒ऽइ॒तात् । ऋ॒त॒ऽवृ॒धः॒ । रक्ष॑ । माकिः॑ । नः॒ । अ॒घऽशं॑सः । ई॒श॒त॒ ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+ब्रा॒ह्म॑णासः। पित॑रः। सोम्यासः॑। शि॒वेऽइति॑ शि॒वे। नः॒। द्यावा॑पृथि॒वीऽइति॒ द्यावा॑पृथि॒वी। अ॒ने॒हसा॑। पू॒षा। नः॒। पा॒तु॒। दु॒रि॒तादिति॑ दुःऽइ॒तात् ऋ॒ता॒वृ॒धः॒। ऋ॒त॒वृध॒ इत्यृ॑तऽवृधः। रक्ष॑। माकिः॑। न॒। अ॒घशँ॑स॒ इत्य॒घऽशँ॑सः। ई॒श॒त॒। ४७।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- ब्रा᳓ह्मणासः (*MS*-1/3, *TS*-1/4, *RV*-1/3, *TB*-0/1, *TK*-0/2, *AV*-0/12, *SB-M*-0/36, *SB-K*-0/25)
+- पि᳓तरः (*MS*-3, *TS*-3, *RV*-1, *TB*-2, *AV*-4, *SB-M*-3/6, *SB-K*-2/3, *VS-M*-2, *VS-K*-1)
+- सोम्या᳓सः (*MS*-3/9, *TS*-3, *RV*-4/47, *TB*-2/6, *AV*-6/17, *VS-M*-8/13, *VS-K*-7/12)
+- शिवे᳓ (*MS*-3/68, *TS*-1/59, *RV*-1/50, *TB*-5/26, *TK*-0/1, *AV*-11/83, *SB-M*-3/52, *SB-K*-2/49, *VS-M*-1/53, *VS-K*-1/49)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- द्या᳓वा-पृथिवी᳓ (*MS*-61/70, *TS*-43/52, *RV*-65, *TB*-26/29, *AV*-63/68, *SB-M*-64/88, *SB-K*-42/63, *VS-M*-37/46, *VS-K*-29/37)
+- अनेह᳓सा (*MS*-0/3, *TS*-1/3, *RV*-2/39, *AV*-0/2, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/3, *VS-K*-0/3)
+- पूषा᳓ (*MS*-79/130, *TS*-36/70, *RV*-53/86, *TB*-21/35, *TK*-1, *AV*-19/24, *SB-M*-45/84, *SB-K*-46/85, *VS-M*-15/51, *VS-K*-15/47)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *MS*-616, *TS*-587, *RV*-2404, *TB*-203, *TK*-14, *AV*-1014, *SB-M*-517, *SB-K*-533, *VS-M*-441, *VS-K*-382)
+- पातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-42, *TS*-34, *RV*-34, *TB*-2, *TK*-1, *AV*-56, *SB-M*-16, *SB-K*-7, *VS-M*-20, *VS-K*-15)
+- दुः-इता᳓त् (*MS*-2/5, *TS*-2/3, *RV*-9/26, *TB*-0/2, *AV*-9/32, *SB-M*-2, *SB-K*-1, *VS-M*-1/2, *VS-K*-0/1)
+- ऋत-वृधः (समानान्तर-पाठः (RV), *RV*-1, *MS*-2)
+- र᳓क्षा (*MS*-6/38, *TS*-2/21, *RV*-0/20, *TB*-2/10, *AV*-0/26, *SB-M*-2/25, *SB-K*-2/23, *VS-M*-1/17, *VS-K*-1/12)
+- मा᳓किः (*MS*-3, *TS*-4, *RV*-14, *TB*-1, *AV*-2, *VS-M*-2, *VS-K*-3)
+- न (समानान्तर-पाठः (RV), *MS*-92, *TS*-79, *TB*-28, *TK*-3, *AV*-5, *SB-K*-1, *VS-M*-2, *VS-K*-48)
+- उ (अनुदात्तम्, पा॰ ८.१.१८, *MS*-201, *TS*-96, *RV*-510, *TB*-121, *TK*-49, *AV*-215, *SB-M*-1841, *SB-K*-2028, *VS-K*-6)
+- अघ᳓-शंसः (*MS*-5/7, *TS*-4/5, *RV*-7/15, *TB*-2, *AV*-3/6, *SB-M*-2, *SB-K*-1, *VS-M*-6, *VS-K*-3)
+- ईशत (समानान्तर-पाठः (RV), *MS*-3, *TS*-3, *RV*-13, *TB*-2, *AV*-5, *SB-M*-2, *SB-K*-2, *VS-M*-4, *VS-K*-2)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- ब्र᳓ह्मणा (*TS*-63/157, *RV*-31/237, *TB*-35/84, *TK*-8/38, *AV*-82/266, *SB-M*-62/420, *SB-K*-56/455, *VS-M*-10/55, *VS-K*-7/51, *KS*-10/34, *MS*-58/227)
+- सः᳓ (*TS*-766/4765, *RV*-1037/3136, *TB*-511/2598, *TK*-78/357, *AV*-689/3165, *SB-M*-3863/20461, *SB-K*-4289/20301, *VS-M*-123/780, *VS-K*-101/650, *KS*-161/996, *MS*-757/5417)
+- पित᳓रः (*TS*-34/121, *RV*-39/254, *TB*-39/102, *TK*-0/6, *AV*-50/228, *SB-M*-86/321, *SB-K*-85/331, *VS-M*-24/80, *VS-K*-20/75, *KS*-8/24, *MS*-49/145)
+- सोम्या᳓सः (*TS*-3, *RV*-4/47, *TB*-1/5, *AV*-6/17, *VS-M*-8/13, *VS-K*-7/12, *KS*-0/1, *MS*-3/9)
+- शिवे᳓ (*TS*-1/59, *RV*-1/50, *TB*-5/21, *AV*-11/83, *SB-M*-3/52, *SB-K*-2/49, *VS-M*-1/53, *VS-K*-1/49, *KS*-0/8, *MS*-3/56)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-140, *TK*-10, *AV*-1014, *SB-M*-518, *SB-K*-545, *VS-M*-441, *VS-K*-377, *KS*-115, *MS*-537)
+- द्या᳓वा-पृथिवी᳓ (*TS*-43/52, *RV*-65, *TB*-21/24, *AV*-63/68, *SB-M*-64/88, *SB-K*-44/65, *VS-M*-37/46, *VS-K*-29/37, *KS*-10/11, *MS*-59/65)
+- अनेह᳓सा (*TS*-1/3, *RV*-2/39, *AV*-0/2, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-1/3, *VS-K*-0/3, *MS*-0/3)
+- पूषा᳓ (*TS*-36/70, *RV*-53/86, *TB*-19/33, *AV*-19/24, *SB-M*-45/85, *SB-K*-46/85, *VS-M*-15/51, *VS-K*-15/47, *KS*-9/21, *MS*-74/114)
+- नः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-587, *RV*-2404, *TB*-140, *TK*-10, *AV*-1014, *SB-M*-518, *SB-K*-545, *VS-M*-441, *VS-K*-377, *KS*-115, *MS*-537)
+- पातु (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-34, *RV*-34, *TB*-2, *AV*-56, *SB-M*-16, *SB-K*-10, *VS-M*-20, *VS-K*-15, *KS*-17, *MS*-38)
+- दू᳓र् (*Whitney*, *TS*-0/1, *RV*-0/1, *SB-M*-1/6, *SB-K*-1/3, *KS*-0/1)
+- इता᳓त् (*TS*-0/27, *RV*-0/31, *TB*-0/17, *TK*-0/2, *AV*-0/84, *SB-M*-1/124, *SB-K*-4/146, *VS-M*-0/9, *VS-K*-0/8, *KS*-0/8, *MS*-0/58)
+- ऋत-वृ᳓धः (*TS*-5/6, *RV*-19/26, *TB*-3, *AV*-3, *SB-K*-4, *VS-M*-9, *VS-K*-8, *MS*-6)
+- र᳓क्षा (*TS*-3/22, *RV*-0/20, *TB*-1/9, *AV*-0/26, *SB-M*-2/25, *SB-K*-2/23, *VS-M*-1/17, *VS-K*-1/12, *KS*-1/6, *MS*-6/38)
+- मा᳓किः (*TS*-4, *RV*-14, *TB*-1, *AV*-2, *VS-M*-2, *VS-K*-3, *MS*-3)
+- णः (अनुदात्तम्, पा॰ ८.१.१८, *TS*-8, *TB*-3, *SB-M*-3, *VS-K*-5, *KS*-4, *MS*-14)
+- अघ᳓-शंसः (*TS*-4/5, *RV*-7/15, *TB*-2, *AV*-3/6, *SB-M*-2, *SB-K*-1, *VS-M*-6, *VS-K*-3, *KS*-3, *MS*-5/7)
+- ई᳓शत (*AV*-1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *brāhmaṇāsaḥ* ← *brāhmaṇa*
+- \[noun\], vocative, plural, masculine
+- “Brahmin; Brahmin; brāhmaṇa \[word\]; Brahma.”
+
+_________
+
+- *pitaraḥ* ← *pitṛ*
+- \[noun\], vocative, plural, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+
+_________
+
+- *somyāsaḥ* ← *somya*
+- \[noun\], vocative, plural, masculine
+- “saumya.”
+
+_________
+
+- *śive* ← *śiva*
+- \[noun\], nominative, dual, feminine
+- “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
+    holy; nice.”
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+
+_________
+
+- *dyāvāpṛthivī*
+- \[noun\], nominative, dual, feminine
+- “heaven and earth; dyāvāpṛthivī \[word\].”
+
+_________
+
+- *anehasā* ← *anehas*
+- \[noun\], nominative, dual, feminine
+- “faultless; anehas \[word\]; incomparable.”
+
+_________
+
+- *pūṣā* ← *pūṣan*
+- \[noun\], nominative, singular, masculine
+- “Pushan; pūṣan \[word\]; sun.”
+
+_________
+
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+
+_________
+
+- *pātu* ← *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+
+_________
+
+- *duritād* ← *duritāt* ← *durita*
+- \[noun\], ablative, singular, neuter
+- “danger; sin; difficulty; difficulty; evil.”
+
+_________
+
+- *ṛtāvṛdho* ← *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
+- \[noun\], vocative, plural, masculine
+- “sincere.”
+
+_________
+
+- *rakṣā* ← *rakṣ*
+- \[verb\], singular, Present imperative
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+
+_________
+
+- *mākir*
+- \[adverb\]
+
+_________
+
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+
+_________
+
+- *aghaśaṃsa* ← *agha*
+- \[noun\]
+- “bad; dangerous; ill; iniquitous; bad.”
+
+_________
+
+- *aghaśaṃsa* ← *śaṃsaḥ* ← *śaṃsa*
+- \[noun\], nominative, singular, masculine
+- “speaking.”
+
+_________
+
+- *īśata* ← *īś*
+- \[verb\], singular, Present injunctive
+- “govern; command; master; dominate; can; reign; control; own.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+ब्राह्मणासः- उपासका मेधाविनो मन्त्रवन्तः। पितरः- पालकाः। सोम्यासः- सौम्याः। नः-  अस्मभ्यम्। अनेहसा- अदोषे। शिवे- मङ्गळे। द्यावापृथिवी- द्यावापृथिव्यौ। पूषा- पोषकः सूर्यः।  नः- अस्मान्। दुरितात्- अघात् दुःखात्। पातु- रक्षतु। ऋतावृधः- हे ऋतवर्धका देवाः। रक्ष-  रक्षत। नः- अस्मान्। अघशंसः- पापी। माकिः- मा। ईशत- ईशिष्ट॥१०॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ब्राह्मणासः** हे ब्राह्मणाः **पितरः** **ऋतावृधः** । सत्यस्य यज्ञस्य वा वर्धयितारः **सोम्यासः** सोमार्हाः सोमसंपादिनो वा । तथा च यास्कः - सोम्याः सोमसंपादिनः ' (निरु. ११.१८) इति । नः अस्मान् रक्षत । रक्ष इत्युपरितनमेकवचनान्तं सत्यपि व्यवधाने बहुवचनान्ततया विपरिणतं सदत्र संबध्यतेऽध्याहारस्यातिजघन्यत्वात् । किंच **अनेहसा** अपापे **द्यावापृथिवी** द्यावापृथिव्यौ **नः** अस्माकं **शिवे** सुखकृतौ भवताम् । **पूषा** पोषको देवोऽपि **नः** अस्मान् **दुरितात्** दुष्कृतात् **पातु** रक्षतु । **नः** अस्माकम् **अघशंसः** पापशंसः शत्रुरपि **माकिः** **ईशत** मा ईशिष्ट ॥ ॥२०॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+ब्राह्मणासः जगती लिङ्गोक्त-देवता।  
+‘ऋतावृध’ इत्यादिः प्रत्यक्ष-भूतो मन्त्रः ब्राह्मणास इत्यादिः परोक्ष-कृतः अत एवं व्याख्यायते।  
+हे ऋतावृधः सत्य-वृधो वा यज्ञ-वृधो वा।  
+देवा इत्य् अध्याहारः सामर्थ्यात्।  
+रक्ष रक्षत इति वचन-व्यत्ययः।  
+माकिः मा च कश्चन नः अस्माकम्।  
+अघ-शंसः अघानि पापानि यः शंसति प्रकाशयति सो ऽघ-शंसः।  
+ईशत ईष्टे इति वचन-व्यत्ययः।  
+भवत्-प्रसादाच् च।  
+ब्राह्मणासः ब्राह्मणाः पितरः सोम्यासः सोम-संपादिनः।  
+पान्त्व् इत्य् अत्रान्वयः।  
+शिवे कल्याण-कारिण्यौ द्यावा-पृथिवी च अनेहसा अनुपहिंसिन्यौ अनपराधिन्यौ वा पाताम्।  
+पूषा च नः अस्मान् पातु [[दुरितातशुभात्|दुरितात् अशुभात्]]॥ ४७॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+जगती लिङ्गोक्त-देवता।  
+ब्राह्मणासः ब्राह्मणाः नो ऽस्मान् पान्तु रक्षन्तु।  
+पात्व् इत्य् अस्यार्थ-वशाद् वचन-व्यत्ययः कार्यः।  
+पितरः च पान्तु।  
+कीदृशाः।  
+सोम्यासः सोम्याः सोम-संपादिनः सोम-पान-योग्या वेत्य् उभयोर् विशेषणम्।  
+द्यावा-पृथिवी द्यावा-भूमी नः पाताम्।  
+कीदृश्यौ। शिवे कल्याण-कारिण्यौ। अनेहसा अनेहसौ।  
+नास्ति एहो ऽपराधो ययोस् ते अपराध-निवर्तिके।  
+किं च पूषा सूर्यो नो ऽस्मान् दुरितात् पातु।  
+एवं परोक्षेणोक्त्वा प्रत्यक्षम् आह।  
+हे ऋता-वृधः, ऋतं सत्यं यज्ञं वा वर्धयन्ति ऋत-वृधः देवाः।  
+संहितायाम् ऋतस्य दीर्घः।  
+रक्ष रक्षतास्मान् वचन-व्यत्ययः।  
+माकिः मा कश्चन अघ-शंसः पापी नो ऽस्माकम् ईशत ऐश्वर्यं मा करोतु।  
+वयं दुष्ट-वशा मा भूमेत्य् अर्थः।  
+अघं पापं शंसति वक्ति प्रकाशयति वाघ-शंसः दुष्टः।  
+ईशतेति वचन-व्यत्ययः॥४७॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+येऽस्मादीयाः पितरस्ते ब्राह्मणासो व्रह्य वेदस्तदर्थपरा ब्राह्मणाः।  
+अत एवास्मासु सोम्यास सोम्या अनुग्रहपरा इत्यर्थः ।  
+यथैते पितरस्तथा द्यावापृथिवी उभे अप्यनेहसाऽनेहसि सर्वस्मिन्नपि काले नोऽस्मान्प्रति शिवे शान्ते अनुग्रहपरे भवतामिति शेषः।  
+तथार्तावृधो यज्ञस्य वर्धयिता पूषा पोषको देवो नोऽस्मान्दुरितात्पातु ।  
+हे पितृसमूह रक्षास्मान्पालय ।  
+नोऽस्माक मघशंसः पापशंसनपरा निन्दका माकिरीशत निन्दितुं समर्था मा भूवन् ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[637_5]** So corr. Ch माकिन्नो; vgl. RV 6, 75, 10. (Thus emended; Ch reads माकिन्नो; cf. RV 6, 75, 10)
+
+- **[637_6]** So corr. Ch ईषत (Thus emended; Ch reads ईषत)
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+किनका सत्कार करना चाहिए, इस विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जो (सोम्यासः) उत्तम आनन्दकारक गुणों के योग्य (ऋतावृधः) सत्य को बढ़ानेवाले (पितरः) रक्षक (ब्राह्मणासः) वेद और ईश्वर के जानने हारे विद्वान् जन (नः) हमारे लिए कल्याण करने हारे और (अनेहसा) कारणरूप से अविनाशी (द्यावापृथिवी) प्रकाश-पृथिवी (शिवे) कल्याणकारी हों, (पूषा) पुष्टि करने हारा परमात्मा (नः) हम को (दुरितात्) दुष्ट अन्याय के आचरण से (पातु) बचावे, जिससे (नः) हम को मारने को (अघशंसः) पाप की प्रशंसा करने हारा चोर (माकिः) न (ईशत) समर्थ हो, उन विद्वानों की तू (रक्ष) रक्षा कर और चोरों को मार ॥४७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्यो ! जो विद्वान् जन तुम को धर्मयुक्त कर्त्तव्य में प्रवृत्त कर, दुष्ट आचरण से पृथक् रखते, दुष्टाचारियों के बल को नष्ट और हमारी पुष्टि करते, वे सदैव सत्कार करने योग्य हैं ॥४७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+के सत्कर्त्तव्या इत्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्याः ! ये सोम्यास ऋतावृधः पितरो ब्राह्मणासो विद्वांसो नः कल्याणकरा अनेहसा द्यावापृथिवी च शिवे भवतः। पूषा परमात्मा नो दुरितात् पातु यतो नो हिंसितुमघशंसो माकिरीशत तान् रक्ष स्तेनाञ्जहि ॥४७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्याः ! ये विद्वांसो युष्मान् धर्म्ये कृत्ये प्रवर्त्य दुष्टाचारात् पृथक् रक्षन्ति, दुष्टाचारिणां बलं निरुन्धन्त्यस्माकं पुष्टिञ्च जनयन्ति, ते सदा सत्कर्त्तव्याः ॥४७ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे माणसांनो ! जे विद्वान लोक तुम्हाला धर्मयुक्त कर्तव्यामध्ये प्रवृत्त करून दुष्ट वर्तनापासून दूर ठेवतात व दुष्ट माणसांचे बळ नष्टा करून सर्व माणसांना बलवान करतात त्यांचा सदैव सत्कार केला पाहिजे.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“May the **brāhmaṇas**, the progenitors presenters of the **Soma**, the observers of truth, protect us; may the faultless heaven and earth be propitious to us; may **Pūṣan** preserve us from misfortune, let no calumniator prevail over us.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+The observers of truth: ṛtāvṛdhaḥ **rakṣā**: of deities, **deva**, rakṣatasmān, protect us;
+
+**Rakṣa** = rakṣata
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+O Brahmins, forefathers, deserving of soma, let Heaven and Earth,  blameless ones, (be) kindly to us;  
+let Pūṣan protect us from difficult passage, you who are strong through  truth. Guard (us): let none who curse hold sway over us.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+This is the last vs. of the first part of the hymn (see published introduction.), at least by content, though the next vs. is also in trimeter meter, and it has a typically eclectic group of addressees and divine name-checks.
+
+Pāda b could be simply a nominal sentence: “H+E (are) kindly to us,” but the hortatory cast of the 2nd hemistich makes this unlikely.
+
+Pūṣan probably makes his appearance here because he watches over roads and journeys.
+
+The 2nd singular impv. rákṣā beginning d has no obvious subject. The voc. immediately preceding it, at the end of c, is pl. ṛṭāvṛdhaḥ, as are the other vocc. in pāda a. The only available sg. is pūṣā́in c, but he is subj. of a 3rd ps. impv. The pāda is identical to nearby VI.71.3d, where the sg. Savitar is the addressee, and it was presumably adapted from there, as Renou (EVP) notes. As the last pāda of the apparent hymn-ending vs., it is not surprising that it has an external source and is only loosely attached.
+</details>
+
+<details><summary>Griffith</summary>
+
+The Brahmans, and the Fathers meet for Soma-draughts, and, graciously inclined, unequalled Heaven and Earth.  
+     Guard us trom evil, Pusan, guard us strengtheners of Law: let not the evil-wisher master us.
+</details>
+
+<details><summary>Keith</summary>
+
+The Brahmans [3], the fathers worthy of the Soma, And sky and earth, unequalled be propitious to us; May Pusan guard us from misfortune, us that prosper holy order Do thou guard; may no foe overpower us.  
+I A feather her garment, a deer her tooth,  
+Tied with cowhide she flieth shot forth;  
+Where men run together and apart,  
+There may the arrows accord us protection.
+</details>
+
+<details><summary>Griffith (माध्यन्दिनम्)</summary>
+
+The Brâhmans, and the Fathers meet for Soma draughts, and, graciously inclined, unequalled Heaven and Earth. Guard us from evil, Pûshan! guard us strengtheners of Law! let not the evil-wisher master us.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+the brāhmaṇa Fathers, worthy of soma, auspicious to us Heaven and Earth, blameless.  
+May Pūṣan protect us from misfortune, increasers of order, protect! Let no ill-spoken one master us!
+</details>
+
+<details><summary>Geldner</summary>
+
+Ihr Brahmanen, ihr Väter, ihr Somawürdige, freundlich seien uns Himmel und Erde, die unfehlbaren. Pusan schütze uns vor dem Abweg, ihr Wahrheitsmehrer! Schütze uns! Kein Übelredender soll über uns Macht bekommen.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Die priesterlichen Väter, Soma liebend, seien uns heilvoll, und die unvergleichlichen Himmel und Erde; uns schütze Puschan vor Misgeschick, o heilige Götter; kein böser Dämon möge unser mächtig sein.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+О брахманы, отцы, достойные сомы,  
+(Да будут) милостивы к нам Небо-и-Земля, безгрешные!  
+Да охранит нас Пушан от беды, о умножающие закон!  
+Защити (нас)! Да не приобретет никогда злоречивец власти над нами!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- लिङ्गोक्ताः
+- पायुर्भारद्वाजः
+- विराड्जगती
+- निषादः
+
+- धनुर्वेदाऽध्यापका देवताः
+- भारद्वाज ऋषिः
+- विराड्जगती
+- निषादः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर मनुष्य परस्पर कैसे वर्त्तें, इस विषय को अगले मन्त्र में कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (पितरः) पिता के समान प्रजाजनों पर कृपा करनेवाले (सोम्यासः) शान्तियुक्त गुणों के योग्य (ब्राह्मणासः) वेद और ईश्वर के जाननेवाले विद्वानो ! तुम (नः) हम लोगों को अधर्म के आचरण से अलग रक्खो जैसे (अनेहसा) न हिंसा करनेवाली (शिवे) मङ्गलकारिणी (द्यावापृथिवी) सूर्य और पृथिवी (नः) हमारे लिये हों, वैसे उपदेश करो जैसे (पूषा) विद्या और विनय से पुष्टिकारक (ऋतावृधः) सत्य का बढ़ानेवाला (नः) हम लोगों की (दुरितात्) दुष्ट आचरण से (पातु) पालना करे जिससे (अघशंसः) चोर हम लोगों को (माकिः) न (ईशत) मारने के लिये समर्थ हो, हे राजन् ! तुम इन की निरन्तर (रक्ष) रक्षा करो ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। हे मनुष्यो ! जो विद्वान् जन तुम लोगों को विद्या और विनय देवें तथा बिजुली और भूगर्भविद्या से सुख से सम्पन्न करें और अधर्माचरण से अलग रक्खें तथा जो राजा चोर आदि दुष्टों से निरन्तर रक्षा करे, उस सब की तुम निरन्तर सेवा करो ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे पितर इव सोम्यासो ब्राह्मणासो विद्वांसो ! यूयं नोऽधर्माचरणात्पृथक् रक्षत यथाऽनेहसा शिवे द्यावापृथिवी नोऽस्मदर्थं स्यातां तथोपदिशत यथा पूषा ऋतावृधो नोऽस्मान् दुरितात् पातु यतोऽघशंसोऽस्मान् माकिरीशत। हे राजँस्त्वमेतान् सततं रक्षा ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनर्मनुष्याः परस्परं कथमनुवर्त्तेरन्नित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (ब्राह्मणासः) वेदेश्वरवेत्तारः (पितरः) पितर इव प्रजानामुपरि कृपालवः (सोम्यासः) सोमगुणानर्हाः (शिवे) मङ्गलकारिण्यौ (नः) अस्मभ्यम् (द्यावापृथिवी) सूर्य्यभूमी (अनेहसा) अहिंसिके (पूषा) विद्याविनयाभ्यां पोषकः (नः) अस्मान् (पातु) (दुरितात्) दुष्टाचरणात् (ऋतावृधः) सत्यवर्धकाः (रक्षा) पालय। अत्र द्व्यचोऽतस्तिङ इति दीर्घः। (माकिः) निषेधे (नः) अस्मान् (अघशंसः) स्तेनः (ईशत) हन्तुं समर्थो भवेत् ॥१०॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। हे मनुष्या ! ये विद्वांसो युष्मभ्यं विद्याविनयौ प्रयच्छेरन् विद्युद्भूगर्भादिविद्यया सुखिनः सम्पादयेयुरधर्माचरणात् पृथग्रक्षेयुर्यश्च राजा चोरादिभ्यः सततं रक्षेत् तान्सर्वान् यूयं सततं सेवध्वम् ॥१०॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे माणसांनो ! जे विद्वान लोक तुम्हाला विद्या व विनय शिकवितात आणि विद्युत व भूगर्भविद्येने सुखी करतात, अधर्माचरणापासून दूर ठेवतात, तसेच जो राजा चोर इत्यादी दुष्टांपासून निरंतर रक्षण करतो त्या सर्वांची तुम्ही निरंतर सेवा करा. ॥ १० ॥
+</details>

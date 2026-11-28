@@ -1,0 +1,356 @@
++++
+title = "001"
+devataa = "वरुणः"
+RShiH = "भौमोत्रिः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वरुणः
+- ऋषिः - भौमोत्रिः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+प्र᳓ सम्रा᳓जे बृह᳓द् अर्चा गभीर᳓म्  
+ब्र᳓ह्म प्रियं᳓ व᳓रुणाय श्रुता᳓य  
+वि᳓ यो᳓ जघा᳓न शमिते᳓व च᳓र्म  
+उपस्ति᳓रे पृथिवीं᳓ सू᳓रियाय
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+arca ← √r̥c- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+br̥hát ← br̥hánt- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+gabhīrám ← gabhīrá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+prá ← prá (invariable)  
+{}
+
+samrā́je ← samrā́j- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+bráhma ← bráhman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+priyám ← priyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+śrutā́ya ← √śru- (root)  
+{case:DAT, gender:M, number:SG, non-finite:PPP}
+
+váruṇāya ← váruṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+cárma ← cárman- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+jaghā́na ← √han- (root)  
+{number:SG, person:3, mood:IND, tense:PRF, voice:ACT}
+
+śamitā́ ← śamitár- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+pr̥thivī́m ← pr̥thivī́- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+sū́ryāya ← sū́rya- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+upastíre ← upastír- (nominal stem)  
+{case:DAT, gender:F, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+प्र स॒म्राजे॑ बृ॒हद॑र्चा गभी॒रं ब्रह्म॑ प्रि॒यं वरु॑णाय श्रु॒ताय॑ ।  
+वि यो ज॒घान॑ शमि॒तेव॒ चर्मो॑प॒स्तिरे॑ पृथि॒वीं सूर्या॑य ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+प्र᳓ सम्रा᳓जे बृह᳓दर्चा गभीरं᳓ ब्र᳓ह्म प्रियं᳓ व᳓रुणाय श्रुता᳓य।  
+वि᳓ यो᳓ जघा᳓न शमिते᳓व च᳓र्मोपस्ति᳓रे पृथिवीँ सू᳓र्याय
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । स॒म्ऽराजे॑ । बृ॒हत् । अ॒र्च॒ । ग॒भी॒रम् । ब्रह्म॑ । प्रि॒यम् । वरु॑णाय । श्रु॒ताय॑ ।  
+वि । यः । ज॒घान॑ । श॒मि॒ताऽइ॑व । चर्म॑ । उ॒प॒ऽस्तिरे॑ । पृ॒थि॒वीम् । सूर्या॑य ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- प्र᳓ (*MS*-829, *TS*-780, *RV*-1193, *TB*-401, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1602, *VS-M*-203, *VS-K*-195)
+- सम्-रा᳓जे (*MS*-0/1, *TS*-1/4, *RV*-2/21, *AV*-2/3, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-0/2, *VS-K*-0/2)
+- बृह᳓त् (*MS*-33/39, *TS*-57/69, *RV*-151/156, *TB*-32/33, *AV*-43, *SB-M*-31/36, *SB-K*-30/35, *VS-M*-27/28, *VS-K*-25/32)
+- अर्चा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-1, *RV*-3, *AV*-1)
+- गभीर᳓म् (*MS*-2/6, *TS*-0/1, *RV*-9/19, *TB*-0/1, *AV*-0/1, *SB-M*-1, *SB-K*-1, *VS-M*-1/2, *VS-K*-1)
+- ब्र᳓ह्म (*MS*-115/230, *TS*-70/157, *RV*-96/237, *TB*-38/95, *TK*-11/38, *AV*-133/266, *SB-M*-286/420, *SB-K*-285/434, *VS-M*-28/55, *VS-K*-23/51)
+- प्रिय᳓म् (*MS*-36/135, *TS*-40/92, *RV*-77/213, *TB*-21/83, *TK*-0/1, *AV*-44/90, *SB-M*-55/134, *SB-K*-53/141, *VS-M*-19/60, *VS-K*-10/47)
+- व᳓रुणाय (*MS*-16/226, *TS*-15/118, *RV*-33/308, *TB*-8/85, *TK*-0/1, *AV*-7/113, *SB-M*-11/153, *SB-K*-11/152, *VS-M*-10/84, *VS-K*-9/84)
+- श्रुता᳓य (*MS*-1/4, *TS*-2/6, *RV*-4/54, *TB*-1/7, *AV*-1/14, *SB-M*-0/3, *SB-K*-0/3, *VS-M*-2/4, *VS-K*-6/7)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- जघा᳓न (*MS*-3, *RV*-15, *TB*-1, *AV*-10, *SB-M*-3, *SB-K*-3, *VS-M*-1, *VS-K*-1)
+- शमिता᳓ (*MS*-4/9, *TS*-3/7, *RV*-4/6, *TB*-3/6, *TK*-1, *AV*-2/3, *SB-M*-4/6, *SB-K*-3/6, *VS-M*-6/12, *VS-K*-7/12)
+- इव (अनुदात्तम्, पा॰ ८.१.१८, *MS*-240, *TS*-205, *RV*-1, *TB*-93, *TK*-3, *AV*-2, *SB-M*-810, *SB-K*-741, *VS-M*-2, *VS-K*-2)
+- च᳓र्म (*MS*-4/5, *TS*-4/6, *RV*-2/7, *TB*-1, *AV*-10/15, *SB-M*-5/10, *SB-K*-6/12)
+- उप-स्ति᳓रे (*RV*-4/5)
+- पृथिवीम् → **पृथिवी᳓म्** (स्वर-लोपः, *MS*-61/104, *TS*-63/106, *RV*-64/156, *TB*-27/52, *TK*-5/6, *AV*-74/155, *SB-M*-58/156, *SB-K*-70/126, *VS-M*-33/53, *VS-K*-35/56)
+- सू᳓र्याय (*MS*-16/143, *TS*-16/109, *RV*-11/337, *TB*-9/75, *TK*-1/8, *AV*-5/173, *SB-M*-16/152, *SB-K*-14/151, *VS-M*-2/38, *VS-K*-5/47)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *samrāje* ← *samrāj*
+- \[noun\], dative, singular, masculine
+- “sovereign; ruler.”
+
+_________
+
+- *bṛhad* ← *bṛhat*
+- \[noun\], accusative, singular, neuter
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+
+_________
+
+- *arcā* ← *arc*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “sing; worship; honor; praise; welcome.”
+
+_________
+
+- *gabhīram* ← *gabhīra*
+- \[noun\], accusative, singular, neuter
+- “deep; profound; immeasurable; unfathomable; unfathomable;
+    mysterious; deep; countless.”
+
+_________
+
+- *brahma* ← *brahman*
+- \[noun\], accusative, singular, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+
+_________
+
+- *priyaṃ* ← *priyam* ← *priya*
+- \[noun\], accusative, singular, neuter
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+
+_________
+
+- *varuṇāya* ← *varuṇa*
+- \[noun\], dative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+
+_________
+
+- *śrutāya* ← *śru*
+- \[verb noun\], dative, singular
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+
+_________
+
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+
+_________
+
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *jaghāna* ← *han*
+- \[verb\], singular, Perfect indicative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+
+_________
+
+- *śamiteva* ← *śamitā* ← *śamitṛ*
+- \[noun\], nominative, singular, masculine
+- “śamitṛ \[word\]; butcher.”
+
+_________
+
+- *śamiteva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *carmopastire* ← *carma* ← *carman*
+- \[noun\], accusative, singular, neuter
+- “leather; hide; shield; skin; carman \[word\]; carman; hide.”
+
+_________
+
+- *carmopastire* ← *upastire* ← *upastir*
+- \[noun\], dative, singular, masculine
+
+_________
+
+- *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
+- \[noun\], accusative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+
+_________
+
+- *sūryāya* ← *sūrya*
+- \[noun\], dative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+यः। शमिता- रोगशमनकारकश्चिकित्सकश्चिकित्सायै। चर्म। विजघान इव - यथा हिंसितवांस्तथा।  पृथिवीम्- अन्तरिक्षम्। सूर्याय- सवित्रे। उपस्तिरे- आस्तरणाय यथावश्यकसूर्यज्योतिषो भूमौ  प्रचाराय हिंसितवान्। तस्मै। सम्राजे- राज्ञे। श्रुताय- श्रुतिप्रसिद्धाय। वरुणाय-  जलाधिदैवतायेत्याधिभौतिके। ऋताधिदैवतायेत्याध्यात्मिके। बृहत्- महान्तम्। गभीरम्-  गम्भीरम्। प्रियम्। ब्रह्म- मन्त्रम्। प्र- प्रकर्षेण। अर्च- समर्पय॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अत्रिः स्वात्मानं संबोध्य ब्रवीति । हे अत्रे त्वं **सम्राजे** सम्यक् राजमानायेश्वराय **श्रुताय** सर्वत्र श्रूयमाणाय **वरुणाय** उपद्रवस्य निवारकाय जनानामावरकाय चैतन्नामकाय देवाय **बृहत्** प्रभूतं **गभीरं** दुरवगाहं बह्वर्थोपेतं **प्रियं** प्रियभूतं **ब्रह्म** स्तोत्ररूपं कर्म **प्र** **अर्च** प्रार्चय । प्रोञ्चारयेत्यर्थः । **यः** वरुणः **शमितेव** **चर्म** शमिता पशुविशसनकर्ता यथोपस्तरणाय चर्म हन्ति तद्वत् **पृथिवीं** विस्तीर्णमन्तरिक्षम् ॥ ‘ तृतीयस्यां पृथिव्याम् ' (तै. सं. १. २. १२. १ ) इति श्रुतेः अन्तरिक्षस्यापि पृथिवीशब्दवाच्यत्वम् ॥ **सूर्याय** सूर्यस्य **उपस्तिरे** आस्तरणाय **वि** **जघान** विस्तारयामास । विस्तृतं हि व्यवहारयोग्यं भवति तस्मात् व्यवहाराय अन्तरिक्षं विस्तारितवान् । ‘ उरुं हि राजा वरुणश्चकार' (ऋ. सं. १. २४. ८) इति ह्युक्तम् ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Offer a solemn, profound, and acceptable prayer to the imperial and renowned **Varuṇa**, who has spread the firmament as a bed for the sun, as the immolator (spreads) the skin of the victim.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Chant forth to the sovereign king a lofty and deep formulation, dear to  famed Varuṇa,  
+who, like a butcher an animal hide, split apart the earth to form an  
+underlayer for the sun.
+</details>
+
+<details><summary>Griffith</summary>
+
+SING forth a hymn sublime and solemn, grateful to glorious. Varuna, imperial Ruler,  
+     Who hath struck out, like one who slays the victim, earth as a skin to spread in front of Surya.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Sing forth a lofty, deep, dear prayer to the sovereign king, renowned Varuṇa,  
+who spread out the earth as a skinner a hide, to be a carpet for the sun.
+</details>
+
+<details><summary>Geldner</summary>
+
+Dem Allkönig stimme ein erhabenes, tiefsinniges Erbauungslied an, ein liebes dem berühmten Varuna, der die Erde zum Teppich für die Sonne auseinandergeschlagen hat wie der Zurichter die Tierhaut.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Auf, singe laut dem Varuna ein Loblied, ein tiefes, lieb dem allberühmten Herrscher, Der ausgebreitet, wie das Fell der Schlächter, die Erd' als einen Teppich für die Sonne.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Вседержителю вознесу я возвышенную, глубокую  
+Молитву, приятную прославленному Варуне,  
+Который, как заклатель – шкуру, разбил  
+Землю, чтобы разостлать ее под солнцем.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- पृथिवी
+- अत्रिः
+- निचृदनुष्टुप्
+- गान्धारः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब आठ ऋचावाले पचासीवें सूक्त का आरम्भ है, उसके प्रथम मन्त्र में मनुष्यों को क्या करना चाहिये, इस विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्य ! (यः) जो रचनेवाले के सदृश दुष्टों का (वि, जघान) नाश करता और (सूर्य्याय) रचनेवाले के लिये (उपस्तिरे) बिछौने पर (चर्म) चमड़े और (पृथिवीम्) पृथिवी को (शमितेव) जैसे यज्ञमय व्यवहार प्राप्त होता है, वैसे आप (वरुणाय) श्रेष्ठ (श्रुताय) विशेष करके सिद्ध यशवाले तथा (सम्राजे) उत्तम प्रकार शोभित के लिये (बृहत्) बड़े (गभीरम्) थाहरहित (प्रियम्) जो प्रसन्न करता उस (ब्रह्म) धन वा अन्न का (प्र, अर्चा) सत्कार करो ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य यजमान के सदृश राजा को सुखी करते हैं, वे बड़े ऐश्वर्य्य को प्राप्त होते हैं ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्य ! यः सवितेव दुष्टान् वि जघान सूर्य्यायोपस्तिरे चर्म पृथिवीं शमितेव प्राप्नोति तथा त्वं वरुणाय श्रुताय सम्राजे बृहद्गभीरं प्रियं ब्रह्म प्रार्चा ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथ मनुष्यैः किं कर्त्तव्यमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (प्र) (सम्राजे) यः सम्यग्राजते तस्मै (बृहत्) महत् (अर्चा) सत्कुरु। अत्र द्व्यचोऽतस्तिङ इति दीर्घः। (गभीरम्) अगाधम् (ब्रह्म) धनमन्नं वा (प्रियम्) यत्पृणाति (वरुणाय) श्रेष्ठाय (श्रुताय) विषिद्धकीर्तये (वि) (यः) (जघान) हन्ति (शमितेव) यथा यज्ञमयः (चर्म) (उपस्तिरे) आस्तरणे (पृथिवीम्) (सूर्य्याय) सवित्रे ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये मनुष्या यजमानवद्राजानं सुखयन्ति ते महदैश्वर्य्यं लभन्ते ॥१॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - विषयः</summary>
+
+या सूक्तात राजा, ईश्वर, मेघ व विद्वानांच्या गुुणांचे वर्णन असल्यामुळे या सूक्ताच्या अर्थाची पूर्वसूक्तार्थाबरोबर संगती जाणावी.
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जी माणसे यजमानाप्रमाणे राजाला सुखी ठेवतात. त्यांना महान ऐश्वर्याचा लाभ होतो. ॥ १ ॥
+</details>

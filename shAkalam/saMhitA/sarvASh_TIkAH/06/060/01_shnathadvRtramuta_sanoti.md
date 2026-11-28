@@ -1,0 +1,398 @@
++++
+title = "001"
+devataa = "इन्द्राग्नी"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्राग्नी
+- ऋषिः - भरद्वाजो बार्हस्पत्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+श्न᳓थद् वृत्र᳓म् उत᳓ सनोति वा᳓जम्  
+इ᳓न्द्रा यो᳓ अग्नी᳓ स᳓हुरी सपर्या᳓त्  
+इरज्य᳓न्ता वसवि᳓यस्य भू᳓रेः  
+स᳓हस्तमा स᳓हसा वाजय᳓न्ता
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+sanoti ← √sanⁱ- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+śnáthat ← √śnathⁱ- (root)  
+{number:SG, person:3, mood:SBJV, tense:AOR, voice:ACT}
+
+utá ← utá (invariable)  
+{}
+
+vā́jam ← vā́ja- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+vr̥trám ← vr̥trá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+agnī́ ← agní- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+índrā ← índra- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+sáhurī ← sáhuri- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+saparyā́t ← √sapary- (root)  
+{number:SG, person:3, mood:SBJV, tense:PRS, voice:ACT}
+
+yáḥ ← yá- (pronoun)  
+{case:NOM, gender:M, number:SG}
+
+bhū́reḥ ← bhū́ri- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+irajyántā ← √irajy- (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+
+vasavyàsya ← vasavyà- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+sáhasā ← sáhas- (nominal stem)  
+{case:INS, gender:N, number:SG}
+
+sáhastamā ← sáhastama- (nominal stem)  
+{case:ACC, gender:M, number:DU}
+
+vājayántā ← √vājay- 2 (root)  
+{case:ACC, gender:M, number:DU, tense:PRS, voice:ACT}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+श्नथ॑द्वृ॒त्रमु॒त स॑नोति॒ वाज॒मिन्द्रा॒ यो अ॒ग्नी सहु॑री सप॒र्यात् ।  
+इ॒र॒ज्यन्ता॑ वस॒व्य॑स्य॒ भूरेः॒ सह॑स्तमा॒ सह॑सा वाज॒यन्ता॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+श्ञथ॑द्वृ॒त्रमु॒त स॑नोति॒ वाज॒मिन्द्रा॒ यो अ॒ग्नी सहु॑री सप॒र्यात् ।  
+इ॒र॒ज्यन्ता॑ वस॒व्य॑स्य॒ भूरे॒स्सह॑स्तमा॒ सह॑सा वाज॒यन्ता॑ ।
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+श्ञथ॑द्वृ॒त्रमु॒त स॑नोति॒ वाज॑म् ।  
+इन्द्रा॒ यो अ॒ग्नी सहु॑री सप॒र्यात् ।    
+इ॒र॒ज्यन्ता॑ वस॒व्य॑स्य॒ भूरेः॑ ।  
+सह॑स्तमा॒ सह॑सा वाज॒यन्ता॑ ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अ᳓थद्वृत्र᳓मुत᳓ सनोति वा᳓जमि᳓न्द्रा यो᳓ अग्नी᳓ स᳓हुरी सपर्या᳓त्।  
+इरज्य᳓न्ता वसव्य᳙स्य भू᳓रेस्स᳓हस्तमा स᳓हसा वाजय᳓न्ता
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श्नथ॑त् । वृ॒त्रम् । उ॒त । स॒नो॒ति॒ । वाज॑म् । इन्द्रा॑ । यः । अ॒ग्नी इति॑ । सहु॑री॒ इति॑ । स॒प॒र्यात् ।  
+इ॒र॒ज्यन्ता॑ । व॒स॒व्य॑स्य । भूरेः॑ । सहः॑ऽतमा॑ । सह॑सा । वा॒ज॒ऽयन्ता॑ ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+श्ञथ॑त् । वृ॒त्रम् । उ॒त । स॒नो॒ति॒ । वाज॑म् । इन्द्रा॑ । यः । अ॒ग्नी इति॑ । सहु॑री॒ इति॒ स-हु॒री॒ । स॒प॒र्यात् ॥ इ॒र॒ज्यन्ता॑ । व॒स॒व्य॑स्य । भूरेः॑ । सह॑स्त॒मेति॒ सहः॑-त॒मा॒ । सह॑सा । वा॒ज॒यन्तेति॑ वाज-यन्ता॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+श्ञ᳓थत् । वृत्र᳓म् । उत᳓ । सनोति । वा᳓जम् । इ᳓न्द्रा । यः᳓ । अग्नी᳓ । स᳓हुरी । सपर्या᳓त् । इरज्य᳓न्ता । वसव्य᳙स्य । भू᳓रेः । स᳓हः-तमा । स᳓हसा । वाज-य᳓न्ता ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓थ (*MS*-482, *TS*-161, *RV*-117, *TB*-146, *TK*-34, *AV*-68, *SB-M*-3814, *SB-K*-3581, *VS-M*-17, *VS-K*-14)
+- द्वृत् (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९)
+- र᳓म् (*RV*-1, *TB*-2, *SB-M*-2, *SB-K*-3, *MS*-1)
+- उत᳓ (*MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- सनोति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-1, *TS*-1, *RV*-2, *TB*-1, *SB-M*-4, *SB-K*-4)
+- वा᳓जम् (*MS*-46/115, *TS*-33/92, *RV*-127/350, *TB*-18/35, *TK*-0/1, *AV*-18/49, *SB-M*-21/73, *SB-K*-26/71, *VS-M*-24/71, *VS-K*-21/73)
+- इ᳓न्द्रा (*MS*-3/714, *TS*-1/498, *RV*-11/1356, *TB*-6/369, *TK*-0/8, *AV*-2/606, *SB-M*-1/535, *SB-K*-3/509, *VS-M*-0/392, *VS-K*-1/381)
+- यः᳓ (*MS*-852/3763, *TS*-687/3385, *RV*-1038/4011, *TB*-503/1735, *TK*-123/227, *AV*-928/3120, *SB-M*-1906/8327, *SB-K*-1905/8438, *VS-M*-146/651, *VS-K*-116/609)
+- अग्नी᳓ (*MS*-18/1297, *TS*-3/1194, *RV*-3/856, *TB*-6/520, *TK*-1/105, *AV*-14/419, *SB-M*-60/2495, *SB-K*-65/2289, *VS-M*-1/325, *VS-K*-1/349)
+- स᳓हुरी (*MS*-1/2, *TS*-1, *RV*-1/7, *TB*-1, *AV*-0/1)
+- सपर्या᳓त् (*MS*-1, *TS*-1, *RV*-2/10, *TB*-2/4)
+- इरज्य᳓न्ता (*MS*-1, *TS*-1, *RV*-1/2, *TB*-1, *AV*-0/1)
+- वसव्य᳙स्य (*MS*-1, *TS*-1, *RV*-2, *TB*-1)
+- भू᳓रेः (*MS*-4/16, *TS*-4/10, *RV*-20/101, *TB*-1/5, *AV*-2/23, *SB-M*-1/3, *SB-K*-1/3, *VS-M*-1/5, *VS-K*-1/4)
+- स᳓हः-तमा (*TS*-1, *TB*-1, *MS*-1)
+- स᳓हसा (*MS*-8/43, *TS*-8/35, *RV*-29/122, *TB*-7/28, *TK*-1/4, *AV*-10/50, *SB-M*-5/21, *SB-K*-10/24, *VS-M*-3/28, *VS-K*-3/40)
+- वाज-य᳓न्ता (*MS*-1/4, *TS*-1/2, *RV*-1/18, *TB*-1/2, *AV*-0/3)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *śnathad* ← *śnathat* ← *śnath*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “pierce; kill.”
+
+_________
+
+- *vṛtram* ← *vṛtra*
+- \[noun\], accusative, singular, masculine
+- “enemy.”
+
+_________
+
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+
+_________
+
+- *sanoti* ← *san*
+- \[verb\], singular, Present indikative
+- “win; get; gain.”
+
+_________
+
+- *vājam* ← *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+
+_________
+
+- *indrā* ← *indra*
+- \[noun\], accusative, dual, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+
+_________
+
+- *agnī* ← *agni*
+- \[noun\], accusative, dual, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *sahurī* ← *sahuri*
+- \[noun\], accusative, dual, masculine
+- “victorious; mighty; strong.”
+
+_________
+
+- *saparyāt* ← *sapary*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “worship.”
+
+_________
+
+- *irajyantā* ← *irajy* ← *√rañj*
+- \[verb noun\], accusative, dual
+- “direct.”
+
+_________
+
+- *vasavyasya* ← *vasavya*
+- \[noun\], genitive, singular, neuter
+- “wealth; wealth.”
+
+_________
+
+- *bhūreḥ* ← *bhūri*
+- \[noun\], genitive, singular, neuter
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+
+_________
+
+- *sahastamā* ← *sahastama*
+- \[noun\], accusative, dual, masculine
+
+_________
+
+- *sahasā* ← *sahas*
+- \[noun\], instrumental, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+
+_________
+
+- *vājayantā* ← *vājay* ← *√vaj*
+- \[verb noun\], accusative, dual
+- “incite.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+सहुरी- शत्रूणामभिभवितारौ। भूरेः- बह्व्याः। वसव्यस्य- सम्पदः। इरज्यन्ता- ईशानौ। सहसा-  शत्तया। सहस्तमा- आवरणानामभिभवितारौ। वाजयन्ता- सम्पत्कामौ। इन्द्राग्नी। यः। सपर्यात्-  परिचरेत्। सः। वृत्रम्- आवरणम्। श्नथत्- नाशयति। वाजम्- अन्नम्। सनोति- लभते॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+स पुरुषः **वृत्रम्** आवरकं शत्रुं **श्नथत्** हिनस्ति । **उत** अपि च **वाजम्** अन्नं बलं वा **सनोति** लभते । **यः** पुरुषः **सहुरी** शत्रूणामभिभवितारौ इन्द्राग्नी **सपर्यात्** परिचरेत् । इतरेतरयोगात् उभयत्र पूर्ववत् द्विवचनम् । कीदृशाविन्द्राग्नी । **भूरेः** प्रभूतस्य **वसव्यस्य** वसुसमूहस्य । यद्वा । स्वार्थिको यत् । धनस्य **इरज्यन्ता** ईशानौ स्वामिनौ । इरज्यतिरैश्वर्यकर्मा। **सहसा** बलेन **सहस्तमा** अतिशयेनाभिभवितारौ शत्रूणां **वाजयन्ता** वाजं हविर्लक्षणमन्नमात्मन इच्छन्तौ ॥ यद्वा । वाजं स्तोतृभ्यो दातव्यमन्नं कामयमानौ ॥।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+यो यजमान इन्द्राग्नी सपर्यात्परिचरति।  
+कीदृशा-विन्द्राग्नि, सहुरी समानाह्वानौ।  
+स यजमानो वृत्रं वरिणं श्नथद्विनाशयति।  
+उ-  १९६६ तापि च वाजमन्नं सनोति सर्वेभ्यः प्रयच्छति।  
+पुनरपि भूरेर्बहुलस्य वसव्यस्येरज्यन्ता, ईश्वरत्वं प्राप्तवन्तौ, सहसा स्वकीयेन बलेन सहस्तमाऽदिशयेन सोढारौ परबलस्या-भिभवितारावित्यर्थः।  
+वाजयन्ता वाजमन्मात्मन इच्छन्तौ।
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+- मन्त्रः
+श्ञथ॑द्वृ॒त्रमु॒त स॑नोति॒ वाज॒मिन्द्रा॒ यो अ॒ग्नी सहु॑री सप॒र्यात् ।  
+  इ॒र॒ज्यन्ता॑ वस॒व्य॑स्य॒ भूरे॒स्सह॑स्तमा॒ सह॑सा वाज॒यन्ता॑ ।  
+  -  टीका   तत्रैव याज्यामाह— श्नथदूवृत्रमुतेति।   यो यजमान इन्द्राग्नी सपर्यात्परिचरति।   कीदृशा-विन्द्राग्नि, सहुरी समानाह्वानौ।   स यजमानो वृत्रं वरिणं श्नथद्विनाशयति।   उ-  १९६६ तापि च वाजमन्नं सनोति सर्वेभ्यः प्रयच्छति।   पुनरपि भूरेर्बहुलस्य वसव्यस्येरज्यन्ता, ईश्वरत्वं प्राप्तवन्तौ, सहसा स्वकीयेन बलेन सहस्तमाऽदिशयेन सोढारौ परबलस्या-भिभवितारावित्यर्थः।   वाजयन्ता वाजमन्मात्मन इच्छन्तौ।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“He ovecomes his enemy, and acquires food, who worships the victorious **Indra** and **Agni**, the lords of infinite opulence, most powerful in strength, desirous of (sacrificial) food.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+He pierces the obstacle and wins the prize who will serve Indra and Agni,  the mighty ones  
+who have control over abundant goods, the two most mighty with their  might as they seek the victory prize.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+The vocab. of this vs. shows a slight tendency towards morphological elaboration: in addition to the straightforward sáhastamā sáhasā, there is sáhurī to the same root but with the rare suffix -uri; the deriv. vasavyà- for ‘goods’, rather than standard vásu (as in the preceding hymn VI.59.9). This latter word returns at the end of the hymn.
+
+The 3rd sg. śnáthat that opens the hymn is somewhat puzzling morphologically.
+
+The root √śnath has a poorly attested verbal system, save for the -áya-transitive and associated redupl. aor.; besides śnáthat it consists only of two exx. of the athem.
+
+impv. śnathihi, and a couple of -iṣ-aor. forms. Narten (258-59) argues convincingly that śnathihi should belong to a root aor. (rather than a root pres., as it is generally classed), which could serve as the base for the formation of the -iṣ-aor. Our form śnáthat could formally easily be a subjunctive to this root aor., but the problem is that a subjunctive works quite badly in context, esp., since it is explicitly conjoined (by utá) with the following pres. indic. sanoti. It could alternatively be the injunctive to a them. stem, though in that case it would be the only representative of that stem.
+
+Narten discusses śnáthat in n. 810, where she rather says that though it's used in a general sense, nothing stands in the way of its being a subj. to the root aor. I find this somewhat disingenuous, as subjunctives aren’t generally (/ever?) used in such a sense. She also allows the possibility that it could be injunctive to a thematic stem.
+
+(see also Klein DGRV I.366, who allows either). Much as I dislike multiplying entities, I'm inclined to go for the thematic injunctive for functional reasons.
+
+Unfortunately a root aor. injunc. *śnathīt would have been easy to build, so the thematization cannot be the result of avoiding a problematic form.
+</details>
+
+<details><summary>Griffith</summary>
+
+HE slays the foe and wins the spoil who worships Indra and Agni, strong and mighty Heroes,  
+     Who rule as Sovrans over ample riches, victorious, showing forth their power in conquest.
+</details>
+
+<details><summary>Keith</summary>
+
+The foe shall he pierce and wealth he doth gain  
+Who worshippeth Indra and Agni, the strong ones,  
+Who rule over much wealth,  
+The most strong who with strength show their power.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+// He strikes Vṛtra and wins the prize, who serves Indra and Agni, the conquering pair,  
+who reign over abundant goods, the most overpowering pair winning the prize through overpowering might.
+</details>
+
+<details><summary>Geldner</summary>
+
+Der stößt den Feind nieder und gewinnt den Siegespreis, wer Indra und Agni, die Übermächtigem, hochhält, die über großen Reichtum gebieten, die an Macht Mächtigsten, nach dem Siegespreis strebenden.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der schlägt den Feind und der erlanget Beute, der Indra-Agni, die gewalt'gen, ehret, Die über vieles reiche Gut gebieten, die kräftigsten, die überstark an Macht sind.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Сталкивает врага и захватывает добычу (тот,)  
+Кто почитает Индру и Агни победоносных,  
+Мощно правящих обширным богатством,  
+Самых сильных силой, обладателей наград.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्राग्नी
+- भरद्वाजो बार्हस्पत्यः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब पन्द्रह ऋचावाले साठवें सूक्त का प्रारम्भ है, इसके प्रथम मन्त्र में कौन ऐश्वर्य को पाता है, इस विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! (यः) जो विद्वान् (सहुरी) सहनशील (इरज्यन्ता) ऐश्वर्य को सिद्ध करते हुए वा (सहस्तमा) अतीव सहन करनेवाले (सहसा) बल से (वाजयन्ता) अन्नादिकों की इच्छा करते हुए (इन्द्रा, अग्नी) पवन और बिजुली को (श्नथत्) ताड़ता है (उत) और (सनोति) प्राप्त होता है तथा (वसव्यस्य) धनादि पदार्थों में हुए (भूरेः) बहुत सुख से (वृत्रम्) धन को प्राप्त होता है और (वाजम्) अन्न को (सपर्यात्) सेवे, वही ऐश्वर्य को पावे ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्यो ! जो आप वायु और बिजुली की विद्या को जानो तो महान् ऐश्वर्यवाले होकर महान् राज्यके स्वामी होओ ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्या ! यो विद्वान् सहुरी इरज्यन्ता सहस्तमा सहसा वाजयन्ता इन्द्राग्नी श्नथदुतापि सनोति वसव्यस्य भूरेर्वृत्रं सनोति वाजं सपर्यात् स एवैश्वर्यं प्राप्नुयात् ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथ क ऐश्वर्यं प्राप्नोतीत्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (श्नथत्) हिनस्ति (वृत्रम्) धनम् (उत) अपि (सनोति) प्राप्नोति (वाजम्) अन्नम् (इन्द्रा) (यः) (अग्नी) इन्द्राग्नी वायुविद्युतौ (सहुरी) सोढारौ (सपर्यात्) सेवेत (इरज्यन्ता) ऐश्वर्य्यं सम्पादयन्तौ (वसव्यस्य) वसुषु द्रव्येषु भवस्य (भूरेः) बहोः (सहस्तमा) अतिशयेन सोढारौ (सहसा) बलेन (वाजयन्ता) वाजमन्नादिकमिच्छन्तौ ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्या ! यदि भवन्तो वायुविद्युद्विद्यां विजानीयुस्तर्हि महैश्वर्या भूत्वा महतो राज्यस्य स्वामिनो भवेयुः ॥१॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - विषयः</summary>
+
+या सूक्तात इंद्र व अग्नीच्या गुणांचे वर्णन असल्यामुळे या सूक्ताच्या अर्थाची या पूर्वीच्या सूक्तार्थाबरोबर संगती जाणावी.
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे माणसांनो ! तुम्ही जर वायु विद्युत विद्या जाणाल तर महान ऐश्वर्य प्राप्त कराल व मोठ्या राज्याचे स्वामी व्हाल. ॥ १ ॥
+</details>

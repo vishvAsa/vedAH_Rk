@@ -1,0 +1,368 @@
++++
+title = "005"
+devataa = "अग्निरग्निरौषस्योवा"
+RShiH = "कुत्स आङ्गिरसः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निरग्निरौषस्योवा
+- ऋषिः - कुत्स आङ्गिरसः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+आवि᳓ष्टियो वर्धते चा᳓रुर् आसु  
+जिह्मा᳓नाम् ऊर्ध्वः᳓ स्व᳓यशा उप᳓स्थे  
+उभे᳓ त्व᳓ष्टुर् बिभ्यतुर् जा᳓यमानात्  
+प्रतीची᳓ सिंह᳓म् प्र᳓ति जोषयेते
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+āsu ← ayám (pronoun)  
+{case:LOC, gender:F, number:PL}
+
+āvíṣṭyaḥ ← āvíṣṭya- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+cā́ruḥ ← cā́ru- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+vardhate ← √vr̥dh- (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:MED}
+
+jihmā́nām ← jihmá- (nominal stem)  
+{case:GEN, gender:M, number:PL}
+
+sváyaśāḥ ← sváyaśas- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+upásthe ← upástha- (nominal stem)  
+{case:LOC, gender:M, number:SG}
+
+ūrdhváḥ ← ūrdhvá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+bibhyatuḥ ← √bhī- (root)  
+{number:DU, person:3, mood:IND, tense:PRF, voice:ACT}
+
+jā́yamānāt ← √janⁱ- (root)  
+{case:ABL, gender:M, number:SG, tense:PRS, voice:MED}
+
+tváṣṭuḥ ← tváṣṭar- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ubhé ← ubhá- (pronoun)  
+{case:NOM, gender:F, number:DU}
+
+joṣayete ← √juṣ- (root)  
+{number:DU, person:3, mood:IND, tense:PRS, voice:MED}
+
+práti ← práti (invariable)  
+{}
+
+pratīcī́ ← pratyáñc- (nominal stem)  
+{case:NOM, gender:F, number:DU}
+
+siṁhám ← siṁhá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+आ॒विष्ट्यो॑ वर्धते॒ चारु॑रासु जि॒ह्माना॑मू॒र्ध्वः स्वय॑शा उ॒पस्थे॑ ।  
+उ॒भे त्वष्टु॑र्बिभ्यतु॒र्जाय॑मानात्प्रती॒ची सिं॒हं प्रति॑ जोषयेते ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीय-ब्राह्मणम्</summary>
+
+आविष्ट्यो॑ वर्धते॒ चारु॑रासु ।  
+जि॒ह्माना॑मू॒र्ध्वस्वय॑शा उ॒पस्थे॑ ॥ 52 ॥  
+उ॒भे त्वष्टु॑र्बिभ्यतु॒र्जाय॑मानात् ।  
+प्र॒तीची॑ सिँ॒हम्प्रति॑जोषयेते ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+आविष्ट्यो वर्धते चारुर् आसु  
+जिह्मानाम् ऊर्ध्वः स्वयसाम् उपस्थे ।  
+उभे त्वष्टुर् बिभ्यतुर् जायमानात्  
+प्रतीची सिंहं प्रति जोषयेते ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒विःऽत्यः॑ । व॒र्ध॒ते॒ । चारुः॑ । आ॒सु॒ । जि॒ह्माना॑म् । ऊ॒र्ध्वः । स्वऽय॑शाः । उ॒पऽस्थे॑ ।  
+उ॒भे इति॑ । त्वष्टुः॑ । बि॒भ्य॒तुः॒ । जाय॑मानात् । प्र॒ती॒ची इति॑ । सिं॒हम् । प्रति॑ । जो॒ष॒ये॒ते॒ इति॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीय-ब्राह्मणम्)</summary>
+
+आविः᳓ । ट्यः । वर्धते । चा᳓रुः । आसु । जिह्मा᳓नाम् । ऊर्ध्व᳓ । स्व᳓-यशाः । उप᳓-स्थे । उभे᳓ । त्व᳓ष्टुः । बिभ्यतुः । जा᳓यमानात् । प्रती᳓ची । सिंह᳓म् । प्र᳓ति । जोषयेते ।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- आ᳓विष्ट्यः (*MW*, *MS*-1)
+- वर्धते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-6, *TK*-1, *SB-M*-4, *SB-K*-5, *MS*-1)
+- चा᳓रुः (*TS*-5/9, *RV*-18/70, *TB*-1/3, *AV*-7/16, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-1/3, *VS-K*-1/3, *KS*-0/2, *MS*-3/6)
+- आसु (अन्वादेशे अनुदात्तम्, पा॰ २.४.३२, *TS*-1, *RV*-16, *AV*-1, *SB-M*-2, *SB-K*-2, *MS*-9)
+- जिह्मा᳓नाम् (*TS*-1/3, *RV*-2/3, *AV*-0/1, *SB-M*-0/6, *SB-K*-0/9, *MS*-2/3)
+- ऊर्ध्वः᳓ (*TS*-15/60, *RV*-34/73, *TB*-2/17, *TK*-0/2, *AV*-17/48, *SB-M*-50/276, *SB-K*-52/272, *VS-M*-9/23, *VS-K*-8/22, *KS*-6/14, *MS*-27/81)
+- सु᳓ (*TS*-24, *RV*-265, *TB*-4, *AV*-42, *SB-M*-15, *SB-K*-39, *VS-M*-20, *VS-K*-21, *KS*-17, *MS*-28)
+- अ᳓यसाम् (*MW*, *Macdonell*, *Lanman*, *TS*-0/3, *RV*-0/10, *TB*-0/3, *AV*-0/6, *SB-M*-0/11, *SB-K*-0/12, *VS-M*-0/2, *KS*-0/2, *MS*-0/7)
+- उप᳓-स्थे (*TS*-16/20, *RV*-50/62, *TB*-5/8, *TK*-0/1, *AV*-13/18, *SB-M*-15/28, *SB-K*-13/26, *VS-M*-11/12, *VS-K*-12/13, *KS*-5, *MS*-14/24)
+- उभे᳓ (*TS*-9/71, *RV*-82/137, *TB*-10/46, *TK*-1, *AV*-39/82, *SB-M*-61/161, *SB-K*-69/151, *VS-M*-8/28, *VS-K*-10/34, *KS*-2/5, *MS*-17/66)
+- त्व᳓ष्टुः (*TS*-9/54, *RV*-8/59, *TB*-0/24, *AV*-5/37, *SB-M*-7/45, *SB-K*-6/44, *VS-M*-6/34, *VS-K*-4/30, *KS*-1/5, *MS*-7/65)
+- बिभ्यतुः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1, *MS*-1)
+- जा᳓यमानात् (*TS*-1/15, *RV*-1/44, *TB*-1/4, *AV*-1/17, *SB-M*-0/26, *SB-K*-0/24, *VS-M*-0/3, *VS-K*-0/3, *KS*-0/1, *MS*-1/16)
+- प्रतीची᳓ (*TS*-1/5, *RV*-10/13, *TB*-1, *AV*-0/16, *SB-M*-0/8, *SB-K*-0/9, *VS-M*-0/1, *VS-K*-0/1, *KS*-0/1, *MS*-1/5)
+- सिंह᳓म् (*TS*-0/3, *RV*-4/11, *TB*-1/3, *AV*-1/6, *SB-M*-2/6, *SB-K*-2/6, *VS-M*-1/5, *VS-K*-1/5, *KS*-1, *MS*-3/9)
+- प्र᳓ति (*TS*-334, *RV*-247, *TB*-218, *TK*-11, *AV*-196, *SB-M*-524, *SB-K*-569, *VS-M*-1, *VS-K*-1, *KS*-46, *MS*-250)
+- जोषयेते (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-2, *SB-M*-1)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *āviṣṭyo* ← *āviṣṭyaḥ* ← *āviṣṭya*
+- \[noun\], nominative, singular, masculine
+
+_________
+
+- *vardhate* ← *vṛdh*
+- \[verb\], singular, Present indikative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+
+_________
+
+- *cārur* ← *cāruḥ* ← *cāru*
+- \[noun\], nominative, singular, masculine
+- “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
+
+_________
+
+- *āsu* ← *idam*
+- \[noun\], locative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *jihmānām* ← *jihma*
+- \[noun\], genitive, plural, feminine
+- “crooked; oblique; crooked.”
+
+_________
+
+- *ūrdhvaḥ* ← *ūrdhva*
+- \[noun\], nominative, singular, masculine
+- “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
+    \[word\]; acclivitous; overturned; loud; eminent; high.”
+
+_________
+
+- *svayaśā* ← *sva*
+- \[noun\]
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+
+_________
+
+- *svayaśā* ← *yaśāḥ* ← *yaśas*
+- \[noun\], nominative, singular, masculine
+- “fame; Yaśas.”
+
+_________
+
+- *upasthe* ← *upastha*
+- \[noun\], locative, singular, neuter
+- “genitalia; lap; sexual desire; anus.”
+
+_________
+
+- *ubhe* ← *ubh*
+- \[noun\], nominative, dual, feminine
+- “both(a).”
+
+_________
+
+- *tvaṣṭur* ← *tvaṣṭuḥ* ← *tvaṣṭṛ*
+- \[noun\], ablative, singular, masculine
+- “Tvaṣṭṛ; Viśvakarman; sun.”
+
+_________
+
+- *bibhyatur* ← *bibhyatuḥ* ← *bhī*
+- \[verb\], dual, Perfect indicative
+- “fear; fear.”
+
+_________
+
+- *jāyamānāt* ← *jan*
+- \[verb noun\], ablative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+
+_________
+
+- *pratīcī* ← *pratyañc*
+- \[noun\], nominative, dual, feminine
+- “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
+
+_________
+
+- *siṃham* ← *siṃha*
+- \[noun\], accusative, singular, masculine
+- “lion; hero; best; leader; siṃha \[word\].”
+
+_________
+
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+
+_________
+
+- *joṣayete* ← *joṣay* ← *√juṣ*
+- \[verb\], dual, Present indikative
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+आसु- अप्सु चित्ताधारशक्तिप्रवाहेषु। आविष्ट्यः- आविर्भूतः। चारुः- सुन्दरः। वर्धते। जिह्वानाम्-  जडप्रतीकगिरिमेघादिषु  कुटिलगामिनीनामपामाधारशक्तिप्रवाहानाम्। उपस्थे- उत्सङ्गे। ऊर्ध्वः  स्वयशाः। वर्धते। त्वष्टुः- सूर्यात्। जायमानात्- उद्भूतादग्नेः। उभे- द्यावापृथिव्यौ। बिभ्यतुः- भयं प्राप्तवत्यौ। शत्रुविषयक्रोधो मित्राणामपि भयमावहतीति भावेनोच्यते। सिंहम्-  सहनशीलमभिभवनशीलमग्निं। प्रति। प्रतीची- प्रत्यञ्चन्त्यौ। जोषयेते- सेवेते॥५॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**आसु** मेघस्थास्वप्सु वैद्युतात्मना वर्तमानोऽग्निः **चारुः** शोभनदीप्तिः सन् **आविष्ट्यो** **वर्धते** आविर्भूतः प्रकाशमानो वृद्धिं प्राप्नोति । किं कुर्वन् । **जिह्मानां** कुटिलानां मेघेषु तिर्यगवस्थितानां तासामपाम् **उपस्थे** उत्सङ्गे **स्वयशाः** स्वायत्तयशस्कोऽग्निः **ऊर्ध्वः** ऊर्ध्वज्वलनः सन् । स्वकारणभूतास्वप्सु तिर्यगवस्थितास्वपि स्वयमूर्ध्वं ज्वलन्नित्यर्थः । तदुक्तं वैशेषिकैः-’ अग्नेरूर्ध्वज्वलनं वायोस्तिर्यक्पवनम् अणुमनसोराद्यं कर्मैतान्यदृष्टकारितानि' इति । अपि च **उभे** द्यावापृथिव्यौ त्वष्टुः दीप्तात् **जायमानात्** उत्पद्यमानात्तस्मादग्नेः **बिभ्यतुः** भयं प्रापतुः । तदनन्तरमुत्पन्नं **सिंहं** सहनशीलमभिभवनशीलं तमग्निं **प्रतीची** प्रत्यञ्चन्त्यौ प्रतिगच्छन्त्यौ आभिमुख्येन प्राप्नुवन्त्यौ **जोषयेते** सेवेते । यास्कस्त्वाह- आविरावेदनात्तत्त्यो वर्धते चारुरासु चारु चरतेर्जिह्मं जिहीतेरूर्ध्व उच्छ्रितो भवति स्वयशा आत्मयशा उपस्थ उपस्थान उभे त्वष्टुर्बिभ्यतुर्जायमानात्प्रतीची सिंहं प्रति जोषयेते द्यावापृथिव्याविति वाहोरात्रे इति वारणी इति वापि चैते प्रत्यक्ते सिंहं सहनं प्रत्यासेवेते' (निरु. ८. १५) इति ॥ आविष्ट्यः । आविःशब्दात् छन्दसि ' (पा. सू. ४. २. १०४. १ ) इति शैषिकस्त्यप् । ह्रस्वात्तादौ तद्धिते ' (पा. सू. ८. ३. १०१ ) इति षत्वम् । आसु । इदमोऽन्वादेशे° ' इति अशादेशोऽनुदात्तः, विभक्तिश्च सुप्त्वादनुदात्ता इति सर्वानुदात्तत्वम् । न च ‘ ऊडिदम्' इति विभक्तेरुदात्तत्वं शङ्कनीयम् । अन्तोदात्तादिदंशब्दाद्धि तद्विधीयते । प्रतीची । प्रतिपूर्वात् अञ्चतेः ' ऋत्विक् ' इत्यादिना क्विन् ।' अनिदिताम्' इति नलोपः । ‘ अञ्चतेश्चोपसंख्यानम् ' इति ङीप् । अचः' इति अकारलोपे  चौ ' इति दीर्घत्वम् । उदात्तनिविस्वरेण ङीप उदात्तत्वम् । ‘ वा छन्दसि ' इति पूर्वसवर्णदीर्घः । जोषयेते । ‘जुषी प्रीतिसेवनयोः । स्वार्थे णिच् ॥ ॥ १ ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आविष्ट्यः आविर्भूतः चारुः शोभनः सूर्य आसु जिह्मानां आसां कुटिलानां तिर्यगवस्थितानां दिशां मध्ये उपस्थे उपरिभागे स्वयशाः स्वाधीनयशस्को वर्धते । योऽयमादित्यरूपेणोपरि वर्तते स एवाग्निरूपेण त्वष्टुः सकाशाज्जायते । जायमानात्तस्मादग्नेरुभे द्यावापृथिव्यौ बिभ्यतुः भीते आस्ताम् । अत्यन्तदहननिमित्तेयं भीतिः । ते च भीते सत्यौ प्रतीची प्रतीच्यामभिमुखे भूत्वा सिंह सिंहसदृशं दुनरासदमग्निं प्रतिपद्य जोषयेते प्रीणयतः । ततः प्रीतोऽग्निर्नात्यन्तं धक्षतीति तयोरभिप्रायः ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Appearing amongst them (the waters), the bright-shining (**Agni**) increases, rising above the flanks of the waving waters, spreading his own renown; both (heaven and earth) are alarmed, as the radiant Agni is born, and, approaching the lion, they pay him honour.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Above the flanks of the waving waters: jihmānām apām upasthe, above, on the side, or tip, of the crooked waters; reference to Agni as the lightning; approaching the lion: **siṃha** applied to Agni, implying sahanaśīlam, abhibhāvana śīlam, ability to suffer or be overcome
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+The beloved one, manifest, grows strong among them—the self-glorious  one upright in the lap of those aslant.  
+Both (world-halves) are afraid of (the babe) of Tvaṣṭar while he is being  born, (but turning) back to face him, the two give the lion pleasure in  return.
+</details>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/095/05-06.md">
+<details><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+The caus. (práti) joṣayete in 5d, 6a literally means “they two cause (him) to take pleasure (in themselves),” but this tr. seems too heavy, esp. in adjacent pādas.
+</details>
+
+</details>
+</div>
+
+<details><summary>Griffith</summary>
+
+Visible, fair, he grows in native brightness uplifted in the lap of waving waters.  
+     When he was born both Tvastar's worlds were frightened: they turn to him and reverence the Lion.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+1 The fair (child Agni) grows up visibly in them in his own glory, standing erect in the lap of the down-streaming (waters). Both (Heaven and Earth) fled away in fear of (the son of) Tvashtri 2, when he was born, but turning back they caress the lion.
+</details>
+
+<details><summary>Geldner</summary>
+
+Sichtbar geworden wächst der Liebling in ihnen, aufrecht stehend im Schoße der Querliegenden, der von uns selbst zu ansehen kommt. Beide Welten haben Furcht vor dem Sproß des Tvastri. Dem Löwen sich zuwendend kommen beide ihm freundlich entgegen.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Der schöne wächst in ihnen sich enthüllend, selbstherrlich aufrecht in dem Schooss der schrägen, Vor dem gebornen bebt des Tvaschtar Weltpaar, und schmeichelnd wenden beide sich zum Löwen.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+(Став) видимым, милый растет в них,  
+Прямой в лоне лежащих наискось, обладающий собственным блеском.  
+Обе половины вселенной боятся рождающегося от Тваштара.  
+Обращенные ко льву, обе они рады (его) принять.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- सत्यगुणविशिष्टोऽग्निः शुद्धोऽग्निर्वा
+- कुत्सः आङ्गिरसः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर वह कैसा है, यह विषय अगले मन्त्र में कहा है ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! तुम जिस (जायमानात्) प्रसिद्ध (त्वष्टुः) छेदन करने अर्थात् सबकी अवधि को पूरी करनेहारे समय से (उभे) दोनों रात्रि और दिन (बिभ्यतुः) सबको डरपाते हैं वा जिससे (प्रतीची) पछांह की दिशा प्रकट होती है वा उक्त रात्रि-दिन सब व्यवहारों का (प्रति, जोषयेते) सेवन तथा जो समय (उपस्थे) काम करनेवालों के समीप (स्वयशाः) अपनी कीर्त्ति अर्थात् प्रशंसा को प्राप्त होता वा (जिह्मानाम्) कुटिलों से (ऊर्ध्वः) ऊपर-ऊपर अर्थात् उनके शुभकर्म में नहीं व्यतीत होता (आसु) इन दिशा वा प्रजाजनों में (चारुः) सुन्दर (आविष्ट्यः) प्रकट हुए व्यवहारों में प्रसिद्ध (वर्धते) और उन्नति को पाता है, उस (सिंहम्) हम तुम सबको काटनेहारे समय को तुम लोग यथावत् जानो ॥ ५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यों को यह जानना चाहिये कि संसार की उत्पत्ति के समय से जो उत्पन्न हुआ अग्नि है वह छेदन गुण से ऊर्ध्वगामी अर्थात् जिसकी लपट ऊपर को जाती और काष्ठ आदि पदार्थों में अपनी व्याप्ति से बढ़ता और सूर्यरूप से दिशाओं का बोध करानेवाला है, वह भी सब समय से उत्पन्न होकर समय पाकर ही नष्ट होता है ॥ ५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्या यस्माज्जायमानात्त्वष्टुरुभे बिभ्यतुर्यस्मात्प्रतीची जायते सर्वान् व्यवहारान् प्रति जोषयेते। य उपस्थे स्वयशा जिह्मानामूर्ध्व आसु चारुराविष्ट्यो वर्धते तं सिंहं हिंसकमग्निं यूयं यथावद्विजानीत ॥ ५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनः स कीदृश इत्युपदिश्यते ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (आविष्ट्यः) आविर्भूतेषु व्यवहारेषु प्रसिद्धः (वर्धते) (चारुः) सुन्दरः (आसु) दिक्षु प्रजासु वा (जिह्मानाम्) कुटिलानां सकाशात् (ऊर्ध्वः) उपरिस्थ (स्वयशाः) स्वकीयकीर्त्तिः (उपस्थे) कर्तॄणां समीपस्थे देशे (उभे) रात्रिदिवसौ (त्वष्टुः) छेदकात्कालात् (बिभ्यतुः) भीषयेते। अत्र लडर्थे लिडन्तर्गतो ण्यर्थश्च। (जायमानात्) प्रसिद्धात् (प्रतीची) पश्चिमा दिक् (सिंहम्) हिंसकम् (प्रति) (जोषयेते) सर्वान्सेवयतः ॥ ५ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  मनुष्यैर्यः सृष्ट्युत्पत्तिसमयाज्जातोऽग्निश्छेदकत्वादूर्ध्वगामी काष्ठादिष्वाविष्टतया वर्धमानः सूर्य्यरूपेण दिग्बोधकोऽस्ति सोऽपि कालादुत्पद्य कालेन विनश्यतीति वेद्यम् ॥ ५ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  माणसांनी हे जाणले पाहिजे की जगाच्या उत्पत्तीच्या काळापासून जो उत्पन्न झालेला अग्नी आहे, त्याच्यात छेदन गुण असल्यामुळे ऊर्ध्वगामी आहे. अर्थात् ज्याची ज्वाला वर जाते व काष्ठ इत्यादी पदार्थांत तो आपल्या व्याप्तीने वाढतो व सूर्यरूपाने दिशांचा बोध करविणारा असतो. तोही काळाद्वारे उत्पन्न होऊन काळाच्या योगे नष्ट होतो. ॥ ५ ॥
+</details>

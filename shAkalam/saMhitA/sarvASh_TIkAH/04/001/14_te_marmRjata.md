@@ -1,0 +1,337 @@
++++
+title = "014"
+devataa = "अग्निः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - वामदेवो गौतमः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+ते᳓ मर्मृजत ददृवां᳓सो अ᳓द्रिं  
+त᳓द् एषाम् अन्ये᳓ अभि᳓तो वि᳓ वोचन्  
+पश्व᳓यन्त्रासो अभि᳓ कार᳓म् अर्चन्  
+विद᳓न्त ज्यो᳓तिश् चकृप᳓न्त धीभिः᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Strophic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+ádrim ← ádri- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+dadr̥vā́ṁsaḥ ← √dr̥- ~ dr̥̄- (root)  
+{case:NOM, gender:M, number:PL, tense:PRF, voice:ACT}
+
+marmr̥jata ← √mr̥j- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:MED}
+
+té ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:M, number:PL}
+
+abhítas ← abhítas (invariable)  
+{}
+
+anyé ← anyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+eṣām ← ayám (pronoun)  
+{case:GEN, gender:M, number:PL}
+
+tát ← sá- ~ tá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+ví ← ví (invariable)  
+{}
+
+vocan ← √vac- (root)  
+{number:PL, person:3, mood:INJ, tense:AOR, voice:ACT}
+
+abhí ← abhí (invariable)  
+{}
+
+arcan ← √r̥c- (root)  
+{number:PL, person:3, mood:INJ, tense:PRS, voice:ACT}
+
+kārám ← kārá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+paśváyantrāsaḥ ← paśváyantra- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+cakr̥pánta ← √kr̥p- (root)  
+{number:PL, person:3, mood:INJ, tense:PRF, voice:MED}
+
+dhībhíḥ ← dhī́- (nominal stem)  
+{case:INS, gender:F, number:PL}
+
+jyótiḥ ← jyótis- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+vidánta ← √vid- 1 (root)  
+{number:SG, person:3, mood:INJ, tense:AOR, voice:MED}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+ते म॑र्मृजत ददृ॒वांसो॒ अद्रिं॒ तदे॑षाम॒न्ये अ॒भितो॒ वि वो॑चन् ।  
+प॒श्वय॑न्त्रासो अ॒भि का॒रम॑र्चन्वि॒दन्त॒ ज्योति॑श्चकृ॒पन्त॑ धी॒भिः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । म॒र्मृ॒ज॒त॒ । द॒दृ॒ऽवांसः॑ । अद्रि॑म् । तत् । ए॒षा॒म् । अ॒न्ये । अ॒भितः॑ । वि । वो॒च॒न् ।  
+प॒श्वऽय॑न्त्रासः । अ॒भि । का॒रम् । अ॒र्च॒न् । वि॒दन्त॑ । ज्योतिः॑ । च॒कृ॒पन्त॑ । धी॒भिः ॥
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *te* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *marmṛjata* ← *marmṛj* ← *√mṛj*
+- \[verb\], plural, Imperfect
+- “groom; wash; rub.”
+
+_________
+
+- *dadṛvāṃso* ← *dadṛvāṃsaḥ* ← *dṛ*
+- \[verb noun\], nominative, plural
+- “burst; burst.”
+
+_________
+
+- *adriṃ* ← *adrim* ← *adri*
+- \[noun\], accusative, singular, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+
+_________
+
+- *tad* ← *tat* ← *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *eṣām* ← *idam*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *anye* ← *anya*
+- \[noun\], nominative, plural, masculine
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+
+_________
+
+- *abhito* ← *abhitas*
+- \[adverb\]
+- “about; around; regarding; about.”
+
+_________
+
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+
+_________
+
+- *vocan* ← *vac*
+- \[verb\], plural, Aorist inj. (proh.)
+- “say; describe; name; tell; address; enumerate; call; state; teach;
+    explain; say; declare; speak; define; declare; order; address;
+    recommend; answer; deem; recite; approve; proclaim; indicate;
+    determine; mention; designate.”
+
+_________
+
+- *paśvayantrāso* ← *paśu*
+- \[noun\], masculine
+- “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
+    Paśu; herd; goat.”
+
+_________
+
+- *paśvayantrāso* ← *ayantrāsaḥ* ← *ayantra*
+- \[noun\], nominative, plural, masculine
+
+_________
+
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+
+_________
+
+- *kāram* ← *kārā*
+- \[noun\], accusative, singular, masculine
+
+_________
+
+- *arcan* ← *arc*
+- \[verb\], plural, Imperfect
+- “sing; worship; honor; praise; welcome.”
+
+_________
+
+- *vidanta* ← *vid*
+- \[verb\], plural, Aorist inj. (proh.)
+- “find; detect; marry; get; think.”
+
+_________
+
+- *jyotiś* ← *jyotiḥ* ← *jyotis*
+- \[noun\], accusative, singular, neuter
+- “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
+    light; sunlight.”
+
+_________
+
+- *cakṛpanta* ← *kṛp*
+- \[verb\], plural, Plusquamperfect
+
+_________
+
+- *dhībhiḥ* ← *dhī*
+- \[noun\], instrumental, plural, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+ते- अङ्गिरस उपासकाः। अद्रिम्- गिर्युपलक्षितजडम्। ददृवांसः- विदारयन्तः। मर्मृजत-  अशोधयन्। एषाम्- एतेषाम्। तत्- तच्छोभनं कर्म। अन्ये- इतर उपासकाः। अभितः- सर्वत्र।  वि- विशेषेण। वोचन्- अवदन्। पश्वयन्त्रासः- चिद्रश्म्युपलक्षितधेनुविमोचनोद्यमयुक्ता मुनयः।  कारम्- विमोचनकरमग्निम्। अभि अर्चन्- अभ्यपूजयन्। ज्योतिः- प्रकाशम्। विदन्त- अलभन्त।  धीभिः। चकृपन्त- उपासनमकुर्वन्॥१४॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ते** अङ्गिरसः **अद्रिं** पणिभिरपहृतानां गवां निरोधकं पर्वतं **ददृवांसः** विदारयन्तः सन्तः **मर्मृजत** अग्निं पर्यचरन् । **एषाम्** अङ्गिरसां **तत्** तादृशं कर्म **अन्ये** महर्षयः **अभितः** सर्वत्र जगति **वि** **वोचन्** विशेषेणाकथयन् । **पश्वयन्त्रासः** पशुनिर्गमनार्थानि यन्त्राण्युपाया येषां तेऽङ्गिरसः **कारम्** अभिमतस्य प्रयोजनस्य कर्तारमग्निम् **अभि** **अर्चन्** अस्तुवन् । ततस्तमोपहम् आदित्याख्यं **ज्योतिः** **विदन्त** अलभन्त । ततः **धीभिः** बुद्धिभिः **चकृपन्त** यज्ञानकुर्वन् । मर्मृजत ।' मृजू शुद्धौ । यङ्लुकि लङि व्यत्ययेनात्मनेपदम्। निघातः । चकृपन्त ।  ‘ कृपू सामर्थ्ये'। ण्यन्तस्य लुङि चङि सन्वद्भावाभावश्छान्दसः ।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Rending the rocks, they worshipped (**Agni**), and other (sages) taught everywhere their (acts); unprovided with the means of (extricating) the cattle, they glorified the author of success, whence they found the light, and were thus enabled (to worship him) with holy ceremonies.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+They [=the forefathers/Aṅgirases] cleaned themselves, after having split  the stone. This (deed) of theirs the others proclaimed all about.  
+
+Lacking ropes to hold the livestock, they sang the decisive act: “They  found the light! They sought it with their insightful thoughts!”
+</details>
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
+<details><summary><h2>10-18 ...{Loading}...</h2></summary>
+
+Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
+
+</details>
+</div>
+
+<details><summary>Griffith</summary>
+
+Splendid were they when they had rent the mountain: others, around, shall tell forth this their exploit.  
+     They sang their song, prepared to free the cattle: they found the light; with holy hymns they worshipped.
+</details>
+
+<details><summary>Oldenberg</summary>
+
+Having rent the rock they cleaned themselves. Others around told forth that (deed) of theirs. Taking … as an instrument (?) 1, they sang triumphantly 2. They found the light; they chanted their prayers.
+</details>
+
+<details><summary>Geldner</summary>
+
+Sie putzten sich, nachdem sie den Fels aufgesprengt hatten. Andere erzählten diese Tat von ihnen. Als ihre Herde der Schranken ledig war, sangen sie den Siegessang; sie fanden das Licht, nachdem sie in ihren Gedanken danach verlangt hatten.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Sie schmückten sich, als sie gesprengt den Felsen; dies Werk der Väter priesen rings die andern; Die Heerde leitend sangen Jubellied sie; den Lichtglanz findend flehten sie mit Andacht.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Расколов скалу, они стали украшать (Агни).  
+Это про них другие возглашали вокруг.  
+Когда (их) скот избавился от пут, они запели победную песню:  
+Они нашли свет, сбылись их поэтические мысли.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- वामदेवो गौतमः
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे मनुष्यो ! जो हम लोगों के मनन करने और पालन करनेवाले (अद्रिम्) मेघ के (ददृवांसः) तोड़नेवाले किरणों के सदृश हम लोगों को (मर्मृजत) शुद्ध होकर शुद्ध करते हैं (एषाम्) इसके मध्य में (अन्ये) दूसरे लोग (तत्) इस कारण (अभितः) चारों ओर से सम्मुख (वि, वोचन्) उपदेश देते (पश्वयन्त्रासः) देखे हैं, यन्त्र जिन्होंने ऐसे होते हुए (कारम्) शिल्पकृत्य का (अभि, अर्चन्) सत्कार करते (धीभिः) बुद्धियों वा कर्मों से (ज्योतिः) प्रकाश को (विदन्त) जानने और सबों में (चकृपन्त) कृपालु होते हैं (ते) वे सब लोगों से सत्कार पाने योग्य होवें ॥१४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  इस मन्त्र में वाचकलुप्तोपमालङ्कार है। हे मनुष्यो ! जो वेद, उपवेद, अङ्ग और उपाङ्गों के पार जाने और शिल्पविद्या के जाननेवाले विद्वान् लोग कृपा से सब को उत्तम प्रकार शिक्षा का उपदेश करके विद्यायुक्त करें, वे सब लोगों से सत्कार करने योग्य होवें ॥१४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे मनुष्या ! येऽस्माकं मनुष्या पितरोऽद्रिं ददृवांसः किरणा इवास्मान् मर्मृजतैषामन्ये तदभितो विवोचन् पश्वयन्त्रासः सन्तः कारमभ्यर्चन् धीभिर्ज्योतिर्विदन्त सर्वेषु चकृपन्त ते सर्वैः पूज्यास्स्युः ॥१४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (ते) (मर्मृजत) शुद्धा भूत्वा शोधयन्ति (ददृवांसः) विदारकाः (अद्रिम्) मेघम् (तत्) तस्मात् (एषाम्) मध्ये (अन्ये) भिन्नाः (अभितः) सर्वतोऽभिमुखाः (वि) (वोचन्) उपदिशन्ति (पश्वयन्त्रासः) पश्वानि दृष्टानि यन्त्राणि यैस्ते (अभि) (कारम्) शिल्पकृत्यम् (अर्चन्) सत्कुर्वन्ति (विदन्त) जानन्ति (ज्योतिः) प्रकाशम् (चकृपन्त) कृपालवो भवन्ति (धीभिः) प्रज्ञाभिः कर्मभिर्वा ॥१४॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  अत्र वाचकलुप्तोपमालङ्कारः। हे मनुष्या ! ये वेदोपवेदाङ्गोपाङ्गपारगाश्शिल्पविद्याविदो विद्वांसः कृपया सर्वान् सुशिक्षामुपदिश्य विदुषः संपादयेयुस्ते सर्वैः सत्कर्त्तव्याः स्युः ॥१४॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  या मंत्रात वाचकलुप्तोपमालंकार आहे. हे माणसांनो! जे वेद, उपवेद, अंग, उपांगाना जाणून शिल्पविद्या जाणणारे विद्वान लोक कृपावंत बनून सर्वांना उत्तम प्रकारे शिक्षणाचा उपदेश करून विद्यायुक्त करतात ते सत्कार करण्यायोग्य असतात ॥ १४ ॥
+</details>

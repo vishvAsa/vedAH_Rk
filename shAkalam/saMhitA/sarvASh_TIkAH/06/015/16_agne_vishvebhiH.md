@@ -1,0 +1,359 @@
++++
+title = "016"
+devataa = "अग्निः"
+RShiH = "भरद्वाजो बार्हस्पत्यो वीतहव्यो वा"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - भरद्वाजो बार्हस्पत्यो वीतहव्यो वा
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+अ᳓ग्ने वि᳓श्वेभिः सुअनीक देवइ᳓र्  
+ऊ᳓र्णावन्तम् प्रथमः᳓ सीद यो᳓निम्  
+कुलायि᳓नं घृत᳓वन्तं सवित्रे᳓  
+यज्ञं᳓ नय य᳓जमानाय साधु᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Archaic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+ágne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+devaíḥ ← devá- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+svanīka ← svanīka- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+víśvebhiḥ ← víśva- (nominal stem)  
+{case:INS, gender:M, number:PL}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sīda ← √sad- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+ū́rṇāvantam ← ū́rṇāvant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+yónim ← yóni- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ghr̥távantam ← ghr̥távant- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+kulāyínam ← kulāyín- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+savitré ← savitár- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+naya ← √nī- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sādhú ← sādhú- (nominal stem)  
+{case:ACC, gender:N, number:SG}
+
+yájamānāya ← √yaj- (root)  
+{case:DAT, gender:M, number:SG, tense:PRS, voice:MED}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+अग्ने॒ विश्वे॑भिः स्वनीक दे॒वैरूर्णा॑वन्तं प्रथ॒मः सी॑द॒ योनि॑म् ।  
+कु॒ला॒यिनं॑ घृ॒तव॑न्तं सवि॒त्रे य॒ज्ञं न॑य॒ यज॑मानाय सा॒धु ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+अग्ने॒ विश्वे॑भिस्स्वनीक दे॒वैरूर्णा॑वन्तम्प्रथ॒मस्सी॑द॒ योनि॑म्  ।   
+कु॒ला॒यिन॑ङ्घृ॒तव॑न्तँ सवि॒त्रे य॒ज्ञन्न॑य॒ यज॑मानाय सा॒धु  ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+अग्ने विश्वेभिस्स्वनीक देवैरूर्णावन्तं प्रथमस्सीद योनिम्।  
+कुलायिनं घृतवन्तँ सवित्रे यज्ञं नय यजमानाय साधु
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्ने॑ । विश्वे॑भिः । सु॒ऽअ॒नी॒क॒ । दे॒वैः । ऊर्णा॑ऽवन्तम् । प्र॒थ॒मः । सी॒द॒ । योनि॑म् ।  
+कु॒ला॒यिन॑म् । घृ॒तऽव॑न्तम् । स॒वि॒त्रे । य॒ज्ञम् । न॒य॒ । यज॑मानाय । सा॒धु ॥
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+अग्ने॑ । विश्वे॑भिः । स्व॒नी॒केति॑ सु-अ॒नी॒क॒ । दे॒वैः । ऊर्णा॑वन्त॒मित्यूर्णा॑-व॒न्त॒म्॒ । प्र॒थ॒मः । सी॒द॒ । योनि॑म् ॥ कु॒ला॒यिन॑म् । घृ॒तव॑न्त॒मिति॑ घृ॒त-व॒न्त॒म्॒ । स॒वि॒त्रे । य॒ज्ञम् । न॒य॒ । यज॑मानाय । सा॒धु ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- अ᳓ग्ने (*MS*-180/193, *TS*-157, *RV*-265, *TB*-44/45, *TK*-3, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107)
+- वि᳓श्वेभिः (*MS*-5/301, *TS*-4/283, *RV*-29/1116, *TB*-2/125, *TK*-0/124, *AV*-7/353, *SB-M*-0/248, *SB-K*-0/219, *VS-M*-4/225, *VS-K*-6/224)
+- स्वनीक (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-1, *TS*-1)
+- देवैः᳓ (*MS*-25/1216, *TS*-23/1023, *RV*-38/1342, *TB*-15/582, *TK*-1/32, *AV*-21/707, *SB-M*-39/2031, *SB-K*-45/1945, *VS-M*-24/528, *VS-K*-24/523)
+- ऊ᳓र्णावन्तम् (*MS*-1, *TS*-1, *RV*-1)
+- प्रथमः᳓ (*MS*-34/106, *TS*-28/95, *RV*-50/170, *TB*-11/41, *TK*-0/7, *AV*-43/109, *SB-M*-58/287, *SB-K*-51/272, *VS-M*-18/38, *VS-K*-16/39)
+- सीद (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-55, *TS*-45, *RV*-15, *TB*-11, *TK*-34, *AV*-8, *SB-M*-35, *SB-K*-39, *VS-M*-33, *VS-K*-25)
+- यो᳓निम् (*MS*-24/208, *TS*-34/170, *RV*-62/110, *TB*-7/38, *TK*-1/6, *AV*-26/45, *SB-M*-34/284, *SB-K*-33/261, *VS-M*-17/93, *VS-K*-19/100)
+- कुलायि᳓नम् (*MS*-2, *TS*-3/4, *RV*-1)
+- घृत᳓वन्तम् (*MS*-3/4, *TS*-4, *RV*-8/11, *TB*-1/2, *AV*-0/2, *SB-M*-0/1, *SB-K*-0/1, *VS-M*-1, *VS-K*-1)
+- सवित्रे᳓ (*MS*-11/155, *TS*-11/120, *RV*-2/157, *TB*-7/71, *TK*-0/3, *AV*-0/96, *SB-M*-19/225, *SB-K*-18/198, *VS-M*-5/119, *VS-K*-5/109)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- नय (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-8, *TS*-7, *RV*-11, *AV*-9, *SB-M*-10, *SB-K*-8, *VS-M*-10, *VS-K*-8)
+- य᳓जमानाय (*MS*-47/350, *TS*-36/419, *RV*-21/63, *TB*-26/267, *TK*-1, *AV*-24/46, *SB-M*-51/614, *SB-K*-54/631, *VS-M*-16/52, *VS-K*-19/57)
+- साधु᳓ (*Whitney*, *MS*-1/4, *TS*-2/5, *RV*-8/27, *TB*-1, *AV*-2/5, *SB-M*-22/39, *SB-K*-20/36, *VS-M*-0/3, *VS-K*-0/3)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *viśvebhiḥ* ← *viśva*
+- \[noun\], instrumental, plural, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+
+_________
+
+- *svanīka* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+
+_________
+
+- *svanīka* ← *anīka*
+- \[noun\], vocative, singular, masculine
+- “army; face; battalion; battlefront; point; appearance.”
+
+_________
+
+- *devair* ← *devaiḥ* ← *deva*
+- \[noun\], instrumental, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *ūrṇāvantam* ← *ūrṇāvat*
+- \[noun\], accusative, singular, masculine
+
+_________
+
+- *prathamaḥ* ← *prathama*
+- \[noun\], nominative, singular, masculine
+- “first; prathama \[word\]; third; young; chief(a); best;
+    antecedent.”
+
+_________
+
+- *sīda* ← *sad*
+- \[verb\], singular, Present imperative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+
+_________
+
+- *yonim* ← *yoni*
+- \[noun\], accusative, singular, feminine
+- “vagina; vulva; uterus; beginning; origin; reincarnation;
+    birthplace; family; production; cause; race; grain; raw material;
+    birth; kind; caste; kinship; bed.”
+
+_________
+
+- *kulāyinaṃ* ← *kulāyinam* ← *kulāyin*
+- \[noun\], accusative, singular, masculine
+
+_________
+
+- *ghṛtavantaṃ* ← *ghṛtavantam* ← *ghṛtavat*
+- \[noun\], accusative, singular, masculine
+- “buttery.”
+
+_________
+
+- *savitre* ← *savitṛ*
+- \[noun\], dative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+
+_________
+
+- *yajñaṃ* ← *yajñam* ← *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+
+_________
+
+- *naya* ← *nī*
+- \[verb\], singular, Present imperative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+
+_________
+
+- *yajamānāya* ← *yaj*
+- \[verb noun\], dative, singular
+- “sacrifice; worship; worship.”
+
+_________
+
+- *sādhu*
+- \[noun\], accusative, singular, neuter
+- “good; good; correct; correct; sādhu \[word\]; excellent;
+    efficient.”
+
+_________
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **स्वनीक** सुज्वाल **अग्ने** **विश्वेभिः** विश्वैः सर्वैः **देवैः** सह **ऊर्णावन्तम्** ऊर्णास्तुकावन्तं **योनिम्** उत्तरवेदिलक्षणं स्थानं **प्रथमः** सर्वेषु देवेषु मुख्यस्त्वं **सीद** उपविश। कीदृशं योनिम् । **कुलायिनम्** । कुलायो नीडम् । तत्सदृशं गुग्गुल्वादिसंभारेणोपेतम् । तथा च श्रूयते -- ' कुलायमिव ह्येतद्यज्ञे क्रियते यत्पैतुदारवाः परिधयो गुग्गुलूर्णास्तुकाः सुगन्धितेजनानि ' (ऐ. ब्रा. १. २८) इति । **घृतवन्तं** व्याघारणाज्ययुक्तम् । एवमुत्तरवेद्यां निषण्णस्त्वं **सवित्रे** हविषां प्रेरयित्रे **यजमानाय** । षष्ठ्यर्थे चतुर्थ्येषा । ईदृशस्य यजमानस्य **यज्ञं** **साधु** आर्जवेन **नय** देवान् प्रापय ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने विश्वेभिस्सर्वैर्देवैः स्वनीकः सुसेनामुखः विश्वैर्देवैस्सह । ऊर्णावन्तं ऊर्णास्तुकया तद्वन्तं योनिं योनिस्थानं प्रथमो मुख्यस्त्वं सीद आस्व । कुलायिनं संभारैस्तद्वन्तं घृतवन्तं व्याघारणभूतेन तद्वन्तम् । तत्रासीनस्त्वं सवित्रे आदित्याय यज्ञं इष्टं हविर्नय प्रापय । सर्वमिष्टं कुर्विति यावत् । यथोक्तम् - 'अग्नौ प्रास्ताहुतिस्सम्यगादित्यमुपतिष्ठते' इति । किमर्थम्? यजमानाय साधु यथा यजमानार्थं साधयेद्यागफलम् । 'कृपावाजि' इत्युण्प्रत्ययः । यद्वा - यजमानस्य फलावाप्तये यज्ञं साधु सवितारं नय ॥
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“Bright-rayed **Agni**, sit down first with all the gods, upon the altar lined with **wool**, a nest (of perfumes) and suffused with **ghee**, and rightly convey (to the deities) the sacrifice of the instrumental tutor of the rite, of the presenter of the oblation.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+Lined with wool: urṇāvantam, kulāyinam ghṛtavantam; the ṛca is quoted in **Aitareya** Brāhman.a; the altar is bult up like the nest of a brid, kulaya, with circles, padhayaḥ, of the wood of the khayar or **devadāru**, in which aviṣambandaḥ romaviśeṣaḥ, sheep's wool; and fragran resins, the materials of incense (**guggulu** dhupāt dhanam) are plural ced, ete uttaravedyām sthāpitaḥ, these appurtenances are plural ced in the northern altar. Of the protector of oblation: savitre yajamānāya = (in genitive tive case) ṣaṣṭyarthe caturthyeṣa; anuṣṭātre yajamānāya tadupakārārtham, for the sake of the benefit of the sacrificing instrumental tutor of the ceremony
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+O Agni of the lovely face, with all the gods sit first on the  
+woolly womb,  
+the ghee-rich one that forms a nest. Lead the sacrifice straight, for the  impeller (of the sacrificer), for the sacrificer.
+</details>
+
+<details><summary>Jamison Brereton Notes</summary>
+
+The phrase “wooly womb” (ū́rṇāvantam yónim) is striking as a designation of Agni’s seat. Geldner (n. 16b) thinks it refers to the barhis, but in fact the fire is not placed on that dry grass, which might produce a conflagration disruptive to the ritual.
+
+I think it must rather refer to twigs and foliage still present on the firewood. In agreement with Geldner (who is hesitant -- see n. 16c) and Renou, I see a verseinternal enjambment: the two accusatives directly after the hemistich boundary, kulāyínaṃ ghṛtávantam, qualify yónim, which ends pāda b; then there is a syntactic break in the middle of the pāda, with dat. savitré construed with d, not c. This is unusual, but it is difficult to find a function for savitré in the preceding clause.
+</details>
+
+<details><summary>Griffith</summary>
+
+Together with all Gods, O fair-faced Agni, be seated first upon the woollined altar,  
+     Nest-like, bedewed with oil. Bear this our worship to Savitar who sacrifices rightly.
+</details>
+
+<details><summary>Keith</summary>
+
+O Agni of kindly aspect, do thou with the All-gods Sit first on the birthplace made of wool,  
+Nest-like, rich in ghee, for Savitr  
+Do thou lead well the sacrifice, for the sacrificer.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+O Agni of fair face, sit first with all the gods on the woollen womb,  
+on the nested, rich in ghee; lead the sacrifice well to Savitṛ, for the sacrificer!
+</details>
+
+<details><summary>Geldner</summary>
+
+Schöngesichtiger Agni! Mit allen Göttern setze dich als erster auf den wolligen Schoß, den nestartigen, schmalzreichen! Zu Savitri geleite das Opfer richtig für den Opfernden.
+</details>
+
+<details><summary>Grassmann</summary>
+
+O Agni, mit allen Göttern setze dich, o schöner, zuerst in den wollenweichen Schooss hin, in den fettbegabten, der einem Neste gleicht; das Opfer führe auf rechtem Wege dem opfernden Antreiber.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+О Агни, вместе со всеми богами, о прекрасноликий,  
+Первым сядь на лоно из шерсти,  
+Образующее гнездо, полное жира! К Савитару  
+Веди прямо жертву для жертвователя!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- भरद्वाजो बार्हस्पत्यः
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर मनुष्यों को क्या करना चाहिये, इस विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (स्वनीक) सुन्दर सेनावाले (अग्ने) विद्वन् राजन् ! (प्रथमः) प्रसिद्ध आप (विश्वेभिः) सम्पूर्ण (देवैः) विद्वानों वा वीर पुरुषों के साथ (ऊर्णावन्तम्) बहुत ऊर्णा के वस्त्रों से युक्त (योनिम्) गृह में (सीद) वर्त्तमान हो (सवित्रे) संसार को उत्पन्न करने और (यजमानाय) पदार्थों के मिलानेरूप विद्या को जाननेवाले के लिये (कुलायिनम्) गृह आदि सामग्री से और (घृतवन्तम्) बहुत घृत आदि पदार्थों से युक्त (यज्ञम्) सङ्गतिस्वरूप व्यवहार को साधु उत्तम प्रकार (नय) प्राप्त कराइये ॥१६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे विद्यायुक्त राजजनो ! आप लोग विद्वानों के सहाय से न्याय के गृहों में ठहर के न्याय करिये और सब मनुष्यों को न्यायमार्ग पर चलाइये, जिससे सब श्रेष्ठ मार्ग में स्थित होकर परोपकारी होवें ॥१६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे स्वनीकाग्ने राजन् ! प्रथमस्त्वं विश्वेभिर्देवैस्सहोर्णावन्तं योनिं सीद सवित्रे यजमानाय कुलायिनं घृतवन्तं यज्ञं साधु नय ॥१६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनर्मनुष्यैः किं कर्त्तव्यमित्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अग्ने) विद्वन् (विश्वेभिः) सर्वैः (स्वनीक) शोभनान्यनीकानि सैन्यानि यस्य तत्सम्बुद्धौ (देवैः) विद्वद्भिर्वीरैर्वा (ऊर्णावन्तम्) बहूर्णादिवस्त्रयुक्तम् (प्रथमः) प्रख्यातः (सीद) (योनिम्) गृहम् (कुलायिनम्) गृहादिसामग्रीयुक्तम् (घृतवन्तम्) बहुघृतादिवन्तम् (सवित्रे) जगदुत्पादकाय (यज्ञम्) सङ्गतिमयं व्यवहारम् (नय) प्रापय (यजमानाय) सङ्गतिकरणविद्याविदे (साधु) ॥१६॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे विद्वांसो ! राजजना यूयं विद्वत्सहायेन न्यायगृहेषु स्थित्वा न्यायं कुरुत सर्वान् मनुष्यान् न्यायपथं नयत येन सर्वे सन्मार्गस्थाः सन्तः परोपकारिणः स्युः ॥१६॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे विद्यायुक्त राजजनांनो ! तुम्ही विद्वानांच्या साह्याने न्यायालयात न्याय करा व सर्व माणसांना न्यायमार्गाने चालवा. ज्यामुळे सर्वजण श्रेष्ठ मार्गात स्थित राहून परोपकारी होतील. ॥ १६ ॥
+</details>

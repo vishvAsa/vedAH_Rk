@@ -1,0 +1,417 @@
++++
+title = "001"
+devataa = "इन्द्रः"
+RShiH = "गाथिनो विश्वामित्रः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - इन्द्रः
+- ऋषिः - गाथिनो विश्वामित्रः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+मरु᳓त्वाँ इन्द्र वृषभो᳓ र᳓णाय  
+पि᳓बा सो᳓मम् अनुष्वध᳓म् म᳓दाय  
+आ᳓ सिञ्चस्व जठ᳓रे म᳓ध्व ऊर्मिं᳓  
+तुवं᳓ रा᳓जासि प्रदि᳓वः सुता᳓नाम्
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Normal
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+indra ← índra- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+marútvān ← marútvant- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+ráṇāya ← ráṇa- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+vr̥ṣabháḥ ← vr̥ṣabhá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+anuṣvadhám ← anuṣvadhám (invariable)  
+{}
+
+mádāya ← máda- (nominal stem)  
+{case:DAT, gender:M, number:SG}
+
+píba ← √pā- 2 (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+sómam ← sóma- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+ā́ ← ā́ (invariable)  
+{}
+
+jaṭháre ← jaṭhára- (nominal stem)  
+{case:LOC, gender:N, number:SG}
+
+mádhvaḥ ← mádhu- (nominal stem)  
+{case:GEN, gender:N, number:SG}
+
+siñcasva ← √sic- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:MED}
+
+ūrmím ← ūrmí- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+asi ← √as- 1 (root)  
+{number:SG, person:2, mood:IND, tense:PRS, voice:ACT}
+
+pradívaḥ ← pradív- (nominal stem)  
+{case:ABL, gender:M, number:SG}
+
+rā́jā ← rā́jan- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+sutā́nām ← √su- (root)  
+{case:GEN, gender:M, number:PL, non-finite:PPP}
+
+tvám ← tvám (pronoun)  
+{case:NOM, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+म॒रुत्वाँ॑ इन्द्र वृष॒भो रणा॑य॒ पिबा॒ सोम॑मनुष्व॒धं मदा॑य ।  
+आ सि॑ञ्चस्व ज॒ठरे॒ मध्व॑ ऊ॒र्मिं त्वं राजा॑सि प्र॒दिवः॑ सु॒ताना॑म् ॥
+</details>
+
+<details><summary>मूलम् - काण्वम्</summary>
+
+म॒रुत्वाँ॑२ इन्द्र वृष॒भो रणा॑य॒ पिबा॒ सोम॑मनुष्व॒धं मदा॑य । 
+आसि॑ञ्चस्व ज॒ठरे॒ मध्व॑ ऊ॒र्मिं त्वँ राजा॑सि॒ प्रति॑पत्सु॒ताना॑म् ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+मरु᳓त्वाँ इन्द्र वृषभो र᳓णाय पि᳓बा सो᳓ममनुष्वधं᳓ म᳓दाय।  
+आ᳓सिञ्चस्व जठ᳓रे म᳓ध्व ऊर्मिं᳓ त्वं᳓ रा᳓जासि प्रदि᳓स्सुता᳓नाम्
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+म॒रुत्वा॑न् । इ॒न्द्र॒ । वृ॒ष॒भः । रणा॑य । पिब॑ । सोम॑म् । अ॒नु॒ऽस्व॒धम् । मदा॑य ।  
+आ । सि॒ञ्च॒स्व॒ । ज॒ठरे॑ । मध्वः॑ । ऊ॒र्मिम् । त्वम् । राजा॑ । अ॒सि॒ । प्र॒ऽदिवः॑ । सु॒ताना॑म् ॥
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+म॒रुत्वा॑न्। इ॒न्द्र॒। वृष॒भः। रणा॑य॒। पिब॑। सोम॑म्। अ॒नुष्व॒धम्। अ॒नुस्व॒धमित्य॑नु॒। स्व॒धम्। मदा॑य। आ। सि॒ञ्च॒स्व॒। ज॒ठरे॑। मध्वःः॑। ऊ॒र्मिम्। त्वम्।
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- मरु᳓त्-वान् (*MS*-0/1, *TS*-1, *RV*-31, *TB*-1, *AV*-6, *VS-M*-1, *VS-K*-1)
+- इन्द्र (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-51, *TS*-36, *RV*-840, *TB*-27, *TK*-6, *AV*-206, *SB-M*-16, *SB-K*-17, *VS-M*-38, *VS-K*-24)
+- वृषभः (*AV*-1)
+- र᳓णाय (*MS*-5/6, *TS*-5/6, *RV*-14/26, *TB*-2/3, *AV*-9/12, *SB-M*-2/3, *SB-K*-2/3, *VS-M*-4/5, *VS-K*-4/5)
+- पि᳓बा (*MS*-2, *TS*-0/2, *RV*-1/85, *TB*-1, *AV*-1/16, *SB-M*-0/4, *SB-K*-0/4, *VS-M*-0/11, *VS-K*-2/9)
+- सो᳓मम् (*MS*-127/396, *TS*-98/294, *RV*-228/728, *TB*-48/198, *TK*-2/4, *AV*-58/214, *SB-M*-111/443, *SB-K*-110/436, *VS-M*-39/130, *VS-K*-32/112)
+- अनु-स्वध᳓म् (*TS*-1, *RV*-6, *AV*-1, *VS-M*-2, *VS-K*-1, *MS*-1)
+- म᳓दाय (*MS*-2/15, *TS*-3/9, *RV*-82/273, *TB*-2/8, *AV*-6/37, *SB-M*-6/10, *SB-K*-6/10, *VS-M*-4/11, *VS-K*-3/10)
+- आ᳓ (*MS*-1274, *TS*-1105, *RV*-2810, *TB*-641, *TK*-36, *AV*-1040, *SB-M*-2157, *SB-K*-2120, *VS-M*-464, *VS-K*-414)
+- सिञ्चस्व (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TS*-1, *RV*-1, *VS-K*-1, *MS*-1)
+- जठ᳓रे (*MS*-2/3, *TS*-2/3, *RV*-16/30, *TB*-0/2, *AV*-5/8, *SB-M*-1/2, *SB-K*-1/2, *VS-M*-3/4, *VS-K*-2/3)
+- म᳓ध्वः (*MS*-4/5, *TS*-4, *RV*-88, *TB*-2, *AV*-11, *SB-M*-2, *SB-K*-1, *VS-M*-8, *VS-K*-5)
+- ऊर्मि᳓म् (*MS*-1/14, *TS*-2/10, *RV*-23/70, *TB*-1/4, *AV*-0/6, *SB-M*-0/8, *SB-K*-0/8, *VS-M*-1/10, *VS-K*-1/12)
+- त्व᳓म् (*MS*-225/382, *TS*-158/313, *RV*-678/1488, *TB*-83/152, *TK*-10/39, *AV*-336/628, *SB-M*-192/387, *SB-K*-174/387, *VS-M*-111/216, *VS-K*-86/180)
+- रा᳓जा (*MS*-42/60, *TS*-30/48, *RV*-102/151, *TB*-46/63, *TK*-0/2, *AV*-60/78, *SB-M*-104/175, *SB-K*-93/139, *VS-M*-19/27, *VS-K*-21/29)
+- असि (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-805, *TS*-782, *RV*-204, *TB*-210, *TK*-48, *AV*-268, *SB-M*-606, *SB-K*-600, *VS-M*-508, *VS-K*-349)
+- प्रदि᳓स् (मूल-पाठः)
+- सुता᳓नाम् (*MS*-1/27, *TS*-1/19, *RV*-11/392, *TB*-0/20, *TK*-0/3, *AV*-2/61, *SB-M*-0/28, *SB-K*-0/29, *VS-M*-1/39, *VS-K*-0/33)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *marutvāṃ* ← *marutvat*
+- \[noun\], nominative, singular, masculine
+- “Marut(a).”
+
+_________
+
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+
+_________
+
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
+- \[noun\], nominative, singular, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+
+_________
+
+- *raṇāya* ← *raṇa*
+- \[noun\], dative, singular, masculine
+- “battle; fight; pleasure; joy; war; combat.”
+
+_________
+
+- *pibā* ← *piba* ← *pā*
+- \[verb\], singular, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+
+_________
+
+- *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+
+_________
+
+- *anuṣvadham*
+- \[adverb\]
+
+_________
+
+- *madāya* ← *mada*
+- \[noun\], dative, singular, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+
+_________
+
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+
+_________
+
+- *siñcasva* ← *sic*
+- \[verb\], singular, Present imperative
+- “submerge; sprinkle; pour; wet; decant; impregnate.”
+
+_________
+
+- *jaṭhare* ← *jaṭhara*
+- \[noun\], locative, singular, neuter
+- “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
+
+_________
+
+- *madhva* ← *madhvaḥ* ← *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+
+_________
+
+- *ūrmiṃ* ← *ūrmim* ← *ūrmi*
+- \[noun\], accusative, singular, feminine
+- “wave; billow.”
+
+_________
+
+- *tvaṃ* ← *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+
+_________
+
+- *rājāsi* ← *rājā* ← *rājan*
+- \[noun\], nominative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+
+_________
+
+- *rājāsi* ← *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *pradivaḥ* ← *pradiv*
+- \[noun\], ablative, singular, masculine
+- “age-old; long.”
+
+_________
+
+- *sutānām* ← *suta*
+- \[noun\], genitive, plural, masculine
+- “Soma.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+इन्द्र- परमेश्वर। मरुत्वान्- प्राणसम्पन्नः। वृषभः- वर्षकः। अनुष्वधम्- आत्मधारणामनु।  मदाय- तृप्तये। रणाय- रमणाय। सोमम्- रसम्। पिब- अनुभव। मध्वः ऊर्मिं- मधुरतरङ्गभूतं  रसम्। जठरे- हृदये। सीदन् वनस्य जठरे पुनानः, भीमस्य वृष्णो जठरादभिश्वसो दिवे दिवे सहुरिः  स्तन्नबाधित इत्यादिषु मन्त्रेषु जठरशब्दस्य मध्यभाग इति लक्षणया सारः स्वरूपं हृदयमिति वार्थः।  हूयमानः- अस्माभिराहूतः। आ सिञ्चस्व- सर्वतः क्षारय। त्वम्। प्रदिवः सुतानाम्-  चिदाकाशजरसानाम्। राजा- स्वामी। असि- भवसि॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** यः **वृषभः** अपां वर्षिता **मरुत्वान्** । मरुतो देवविशः तद्वान्। स त्वम् **अनुष्वधं** स्वधया सवनीयपुरोडाशादिरूपेण अन्नेनानुगतं **सोमं** **रणाय** रमणीयसंग्रामार्थं **मदाय** तं सोमं **पिब** । किंच **मध्वः** मदकरस्य सोमस्य **ऊर्मिं** संघातं बहुरसं **जठरे** । जग्धमन्नमस्मिंस्तिष्ठतीति जठरमुदरम् । तस्मिन्नुदरे **आ** **सिञ्चस्व** सर्वतः क्षारय । यतः **त्वं** **प्रदिवः** पूर्वेष्वहःसु **सुतानाम्** अभिषुतानां सोमानां **राजासि** ईशितासि । न केवलमधुनातनानामिति भावः । उक्तमर्थं यास्को ब्रवीति-- मरुत्वानिन्द्र मरुद्भिस्तद्वान् वृषभो वर्षितापां रणाय रमणीयाय संग्रामाय पिब सोममनुष्वधमन्वन्नं मदाय मदनीयाय जैत्रायासिञ्चस्व जठरे मधुन ऊर्मिम् । मधु सोममित्यौपमिकं माद्यतेः । इदमपीतरन्मध्वेतस्मादेव । त्वं राजासि पूर्वेष्वप्यहःसु सुतानाम् ' ( निरु. ४. ८ ) इति ॥ अनुस्वधम् । स्वधामनुगम्य वर्तमानम् । ‘ अत्यादयः क्रान्ताद्यर्थे द्वितीयया ' इति समासः । संहितायां पूर्वपदात्' (पा. सू. ८. ३. १०६ ) इति षत्वम् । निरुदकादित्वादन्तोदात्तत्वम् । ऊर्मिम् । अर्तेरूच्च' ' इति मिप्रत्ययः । धातोः ऊ इत्यादेशो रपरः । प्रत्ययस्वरः ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे **इन्द्र** यस्त्वं **मरुत्वान् वृषभश्** च स त्वं **रणाय** सङ्ग्रामाय पिब सोमम् । 'द्व्यचोतस्तिङः ' इति दीर्घः ।  
+
+**अनुष्वधं** स्वधाम् अन्नं **अनु**-स्वदनीयं पुरोडाशात्मकमन्नं सोमम् । सुषामादित्वात् षत्वम्, 'अनोरप्रधानकनीयसी' इत्युत्तरपदान्तोदात्तत्वम् ।  
+**मदाय**, माद्यत्यनेनेति मदः । 'मदोऽनुपसर्गे' इत्यप् । ईदृशाय रणाय जयकरायेत्यर्थः । 'वार्त्रघ्ना एव ते यजमानस्य गृह्यन्ते' 'यन्मरुत्वतीयाः' 'आयुधं एतद्यजमानस्संस्कुरुते यन्मरुत्वतीयाः' इत्यादि च ब्राह्मणम् ।
+
+किं बिन्दु-मात्रम् अपि पीतं मदाय भवतीत्याशङ्क्य नेति प्रतिपाद्यते - **आसिञ्चस्व** आभिमुख्येन क्षारय **जठरे** उदरे यथा ते मदो भवति तथा प्रभूतं पिबेत्यर्थः । **मध्वः** मधु-सदृशस्यास्य सोमस्य ऊर्मिं सङ्घातम् । 'जसादिषु वा वचनं छन्दसि' इति गुणाभावः ।
+
+राजा+++(=सोमः)+++ विशेष्यते - **प्रदिवः** पुराणः नेदानीम् एव ।  
+
+मदस्योत्पाद्यत्वे हेतुम् आह - **त्वं राजा सुतानां** सोमानां, तव **मदाय** सोमा अभिषूयन्त इति भावः, अतिक्रान्तेष्वप्यहस्सु त्वमेव सोमानां राजेति । यद्वा - त्वमेव ह्यतिक्रान्तेष्वहस्सु सुतानां राजाऽभूः, तस्मादिदानीमपि पिबेति प्रार्थ्यसे । प्रगता दिवसा अस्येति प्रदिवः । छान्दसोकारस्समासान्तः, 'परादिश्छन्दसि बहुलम्' इत्युत्तरपदाद्युदात्तत्वम् । मरुत्वानित्यत्र पूर्ववत्सांहितायां रुत्वादि ॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+इति [[नत्रमः|नवमः]] खण्डः ।  
+इति सप्तमो ऽनुवाकः ।
+
+[ [[श्रष्टमो|अष्टमो]] ऽनुवाकः ११ ]
+
+"मरुत्वाँ इन्द्र” इत्य् अयं मरुत्वतीय-ग्रहे विनियुक्तः - स्पष्टम् अन्यत् ॥ ११ ॥
+
+हे इन्द्र ! मरुत्वान् मरुद्भिः देवैः तद्वान् मरुद्-गणकः, वृषभः अपां वर्षिता त्वम्, रणाय रमणीयाय यज्ञाय संग्रामाय वा, अनुष्वधं स्वधेति अन्न-नाम, स्वधायां तत्र यज्ञे, सोमं पिब ।  
+[ २८/११-१४ (अनु॰ ८१ - ११.१ ) ] किमर्थम् ! मदाय च, पीत्वा च मध्वः मधुनः सोमरसस्य, ऊर्मिम् ऊर्मिभिः प्रवृद्धे, जठरे उदरे, आसिञ्चस्व सर्वतः धारय पूरय ।  
+त्वं च प्रतिपत् सुतानां सोमानां राजा असि स्वामी भवसि यतः, [ दशमो ऽनुवाकः १३ ] "[[अग्निर्ऋषिः|अग्निर् ऋषिः]]” इत्य् एषाग्नेः पुरो-ऋक् ।
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+‘मरुत्वाँ इन्द्र' इति ।  
+मारुत्य्-ऐन्द्री त्रिष्टुप् ।  
+हे मरुत्वान् इन्द्र, वृषभः श्रेष्ठः रणाय रणोपलक्षित-युद्धार्थि-जनाय सोमं पिब ।  
+अनुष्वधम् अनु प्रति यज्ञं मदाय हर्षार्थम् ।  
+‘आ सिञ्चस्व जठरे मध्व ऊर्मिम्' ।  
+'मध्वः सोमामृतस्य ऊर्मिं जठरे आसिञ्चस्व ।  
+त्वं च राजा असि प्रतिपत् सुतानाम् ।  
+सोमानां प्रतिपत् ज्ञाता स्वामी ।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Indra**, attended by the **Maruts**, the showerer (of benefits), drink the **Soma** offered after the other presentations, for your exhilaration for battle; take into your belly the (full) wave of the inebriating (Soma), for you are lord of libations from the days of old.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+**Yajus**. 7.38 has **pratīpaḥ** for pradivaḥ;
+
+Pratīpaḥ = first andother lunar days, or **tithis**, until the full moon, during which offerings of Soma are daily presented
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Accompanied by the Maruts, o Indra, as a bull drink the soma after your  wont, for joy, for exhilaration.  
+Pour the wave of honey into your belly. You are the king of the pressed  drinks from olden days.
+</details>
+
+<details><summary>Griffith</summary>
+
+DRINK, Indra, Marut-girt, as Bull, the Soma, for joy, for rapture even as thou listest.  
+     Pour down the flood of meath within thy belly: thou from of old art King of Soma juices.
+</details>
+
+<details><summary>Keith</summary>
+
+Indra with the Maruts, the bull, for gladness,  
+Drink the Soma, for joy, to thy content;  
+Pour within thy belly the wave of sweetness;  
+Thou art from of old the king of the pressed drinks.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+Indra accompanied by the Maruts, the bull, drink Soma according to your will for battle, for exhilaration;  
+pour into your belly the wave of sweetness; you are the ancient king of the pressed [juices]!
+</details>
+
+<details><summary>Geldner</summary>
+
+In Begleitung der Marut als ihr Bulle trink, Indra, zur Kampfeslust den Soma nach eigenem Ermessen zum Rausche! Gieß dir das Gewoge des Metes in den Bauch! Du bist von jeher König der Somasäfte.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Zur Wonn', o Indra, mit den Maruts trinke, du Stier, zum Rausch nach eigner Lust den Soma; Die süsse Welle giesse in den Leib dir, du bist von Alters her der Säfte König.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Сопровождаемый Марутами, о Индра, как бык, для боевого пыла  
+Пей сому по своему желанию, для опьянения!  
+Вливай себе в утробу сладкую волну!  
+От века ты царь над выжатыми соками.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- इन्द्र:
+- गोपवन आत्रेयः सप्तवध्रिर्वा
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अब पाँच ऋचावाले सैंतालीसवें सूक्त का आरम्भ है। इसके प्रथम मन्त्र में राजा के विषय को कहते हैं।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (इन्द्र) अत्यन्त ऐश्वर्य्य से युक्त (मरुत्वान्) श्रेष्ठ मनुष्यों से युक्त (वृषभः) बलवान् ! आप (रणाय) सङ्ग्राम के और (मदाय) आनन्द के लिये (अनुष्वधम्) अनुकूल स्वधा अन्न वर्त्तमान जिसमें ऐसे (सोमम्) श्रेष्ठ औषधी के रस का (पिब) पान करो और (जठरे) पेट में (मध्वः) मधुर की (ऊर्मिम्) लहर को (आ, सिञ्चस्व) सेचन करो जिससे (त्वम्) आप (प्रदिवः) अत्यन्त विद्या और विनय से प्रकाशित के (सुतानाम्) उत्पन्न हुए ऐश्वर्य आदिकों के (राजा) प्रकाशकर्त्ता (असि) हैं इससे ऐसा आचरण करो ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे राजन् ! आप जो विजय आरोग्य बल और अधिक अवस्था की इच्छा करें, तो ब्रह्मचर्य धनुर्वेदविद्या जितेन्द्रियत्व और नियमित आहार विहार को करिये ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे इन्द्र मरुत्वान् ! वृषभस्त्वं रणाय मदायानुष्वधं सोमं पिब। जठरे मध्व ऊर्मिमासिञ्चस्व यतस्त्वं प्रदिवः सुतानां राजाऽसि तस्मादेतदाचर ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+अथ राजविषयमाह।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (मरुत्वान्) मरुतः प्रशस्ता मनुष्या विद्यन्ते यस्य सः (इन्द्र) परमैश्वर्ययुक्त (वृषभः) बलिष्ठः (रणाय) सङ्ग्रामाय (पिब)। अत्र द्व्यचोऽतस्तिङ इति दीर्घः। (सोमम्) महौषधिरसम् (अनुष्वधम्) अनुकूलं स्वधान्नं विद्यते यस्मिँस्तम् (मदाय) आनन्दाय (आ) (सिञ्चस्व) (जठरे) उदरे (मध्वः) मधुरस्य (ऊर्मिम्) तरङ्गम् (त्वम्) (राजा) प्रकाशमानः (असि) (प्रदिवः) प्रकर्षेण विद्याविनयप्रकाशस्य (सुतानाम्) उत्पन्नानामैश्वर्यादीनाम् ॥१॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे राजन् ! यदि विजयमारोग्यं बलं दीर्घमायुश्चेच्छेत्तर्हि ब्रह्मचर्य्यं धनुर्वेदविद्यां जितेन्द्रियत्वं युक्ताऽऽहारविहारञ्च करोतु ॥१॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - विषयः</summary>
+
+या सूक्तात राजा व सूर्याच्या गुणाचे वर्णन असल्यामुळे या सूक्ताच्या अर्थाची मागच्या सूक्ताच्या अर्थाबरोबर संगती जाणावी.
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे राजा! जर तू विजय, आरोग्य, बल व दीर्घायु इ. ची इच्छा बाळगलीस तर ब्रह्मचर्य, धनुर्वेदविद्या, जितेन्द्रियत्व व नियमित आहार विहार कर. ॥ १ ॥
+</details>

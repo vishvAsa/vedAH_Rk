@@ -1,0 +1,444 @@
++++
+title = "001"
+devataa = "अग्निः"
+RShiH = "दमनो यामायनः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अग्निः
+- ऋषिः - दमनो यामायनः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+मइ᳓नम् अग्ने वि᳓ दहो मा᳓भि᳓ शोचो  
+मा᳓स्य त्व᳓चं चिक्षिपो मा᳓ श᳓रीरम्  
+यदा᳓ शृतं᳓ कृण᳓वो जातवेदो  
+अ᳓थेम् एनम् प्र᳓ हिणुतात् पितृ᳓भ्यः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+abhí ← abhí (invariable)  
+{}
+
+agne ← agní- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+dahaḥ ← √dah- (root)  
+{number:SG, person:2, mood:INJ, tense:PRF, voice:ACT}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śocaḥ ← √śuc- (root)  
+{number:SG, person:2, mood:INJ, tense:PRS, voice:ACT}
+
+ví ← ví (invariable)  
+{}
+
+asya ← ayám (pronoun)  
+{case:GEN, gender:M, number:SG}
+
+cikṣipaḥ ← √kṣā- 1 (root)  
+{number:SG, person:2, mood:INJ, tense:AOR, voice:ACT}
+
+mā́ ← mā́ (invariable)  
+{}
+
+mā́ ← mā́ (invariable)  
+{}
+
+śárīram ← śárīra- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+tvácam ← tvác- (nominal stem)  
+{case:ACC, gender:F, number:SG}
+
+jātavedaḥ ← jātávedas- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+kr̥ṇávaḥ ← √kr̥- (root)  
+{number:SG, person:2, mood:SBJV, tense:PRS, voice:ACT}
+
+śr̥tám ← √śr̥- (root)  
+{case:NOM, gender:M, number:SG, non-finite:PPP}
+
+yadā́ ← yadā́ (invariable)  
+{}
+
+átha ← átha (invariable)  
+{}
+
+enam ← ena- (pronoun)  
+{case:ACC, gender:M, number:SG}
+
+hinutāt ← √hi- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+īm ← īm (invariable)  
+{}
+
+pitŕ̥bhyaḥ ← pitár- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+prá ← prá (invariable)  
+{}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+मैन॑मग्ने॒ वि द॑हो॒ माभि शो॑चो॒ मास्य॒ त्वचं॑ चिक्षिपो॒ मा शरी॑रम् ।  
+य॒दा शृ॒तं कृ॒णवो॑ जातवे॒दोऽथे॑मेनं॒ प्र हि॑णुतात्पि॒तृभ्यः॑ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयारण्यकम्</summary>
+
+मैन॑मग्ने॒ विद॑हो॒ माऽभिशो॑चो॒ माऽस्य॒ त्वच॑ञ्चिक्षिपो॒ मा शरी॑रम् ।  
+य॒दा शृ॒तङ्क॒रवो॑ जातवे॒दोऽथे॑मेनं॒ प्रहि॑णुतात्पि॒तृभ्यः॑ ।
+</details>
+
+<details><summary>मूलम् - पैप्पलादम् (GR)</summary>
+
+मैनम् अग्ने वि दहो मा वि शोचो  
+मास्य त्वचं चक्षुषो मा शरीरम् ।  
+यदा शृतं कृणवो जातवेदो  
+ऽथेम् एनं प्र हिणुतात् पितृभ्यः ॥
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मा । ए॒न॒म् । अ॒ग्ने॒ । वि । द॒हः॒ । मा । अ॒भि । शो॒चः॒ । मा । अ॒स्य॒ । त्वच॑म् । चि॒क्षि॒पः॒ । मा । शरी॑रम् ।  
+य॒दा । शृ॒तम् । कृ॒णवः॑ । जा॒त॒ऽवे॒दः॒ । अथ॑ । ई॒म् । ए॒न॒म् । प्र । हि॒णु॒ता॒त् । पि॒तृऽभ्यः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - तैत्तिरीयारण्यकम्)</summary>
+
+- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98, *KS*-78, *MS*-238)
+- एनम् (अनुदात्तम्, पा॰ २.४.३२, *TS*-568, *RV*-76, *SB-K*-1791, *VS-K*-4, *KS*-92, *MS*-614)
+- अग्ने (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *KS*-122, *MS*-210)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-35, *TK*-2, *SB-K*-637, *VS-K*-49, *KS*-135, *MS*-527)
+- दहः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1)
+- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98, *KS*-78, *MS*-238)
+- अभि᳓ (*TS*-345, *RV*-754, *TB*-32, *TK*-5, *SB-K*-595, *VS-K*-28, *KS*-76, *MS*-346)
+- शोचः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98, *KS*-78, *MS*-238)
+- अस्य (अनुदात्तम्, पा॰ २.४.३२, *TS*-315, *RV*-415, *SB-K*-590, *VS-K*-21, *KS*-67, *MS*-398)
+- त्व᳓चम् (*TS*-9/21, *RV*-12/23, *TB*-1/5, *TK*-1, *AV*-11/17, *SB-M*-17/59, *SB-K*-17/63, *VS-M*-2/6, *VS-K*-2/5, *KS*-3/8, *MS*-8/26)
+- चिक्षिपः (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *RV*-1)
+- मा᳓ (*TS*-205, *RV*-389, *TB*-66, *TK*-4, *SB-K*-183, *VS-K*-98, *KS*-78, *MS*-238)
+- श᳓रीरम् (*TS*-14/18, *RV*-3/6, *TB*-1, *TK*-3/4, *AV*-26/32, *SB-M*-64/82, *SB-K*-54/71, *VS-M*-2/6, *VS-K*-2/6, *KS*-2/3, *MS*-5/9)
+- यदा᳓ (*TS*-16, *RV*-40, *TB*-20, *SB-K*-194, *VS-K*-1, *KS*-13, *MS*-51)
+- शृत᳓म् (*TS*-9/14, *RV*-3/4, *TB*-0/2, *AV*-7/9, *SB-M*-28/48, *SB-K*-32/48, *KS*-1/2, *MS*-6/14)
+- कर᳓वः (यद्वृत्तान्नित्यम्, पा॰ ८.१.६६, *MS*-1)
+- जातवेदः (आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *KS*-10, *MS*-21)
+- अ᳓थ (*TS*-161, *RV*-117, *TB*-79, *TK*-33, *SB-K*-3581, *KS*-37, *MS*-482)
+- इम् (अनुदात्तम्, पा॰ २.४.३२)
+- एनम् (अनुदात्तम्, पा॰ २.४.३२, *TS*-568, *RV*-76, *SB-K*-1791, *VS-K*-4, *KS*-92, *MS*-614)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-63, *TK*-5, *SB-K*-1602, *VS-K*-60, *KS*-205, *MS*-829)
+- हिणुतात् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८)
+- पितृ᳓भ्यः (*TS*-20/121, *RV*-11/254, *TB*-5/67, *AV*-23/228, *SB-M*-27/321, *SB-K*-24/317, *VS-M*-5/56, *VS-K*-5/52, *KS*-4/43, *MS*-13/157)
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - पैप्पलादम्)</summary>
+
+- मा᳓ (*Whitney*, *TS*-205, *RV*-389, *TB*-95, *TK*-15, *AV*-415, *SB-M*-207, *SB-K*-184, *VS-M*-146, *VS-K*-110, *KS*-56, *MS*-219)
+- एनम् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *TS*-568, *RV*-76, *TB*-336, *TK*-26, *AV*-250, *SB-M*-1703, *SB-K*-1821, *VS-M*-27, *VS-K*-20, *KS*-89, *MS*-609)
+- अ᳓ग्ने (*TS*-157, *RV*-265, *TB*-26, *TK*-2, *AV*-59, *SB-M*-87/88, *SB-K*-80, *VS-M*-93, *VS-K*-105/107, *KS*-26, *MS*-156/168)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-164, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-639, *VS-M*-142, *VS-K*-127, *KS*-61, *MS*-503)
+- द᳓हः (*RV*-0/2, *TB*-1, *AV*-0/2, *SB-M*-0/5, *SB-K*-0/6)
+- मा᳓ (*Whitney*, *TS*-205, *RV*-389, *TB*-95, *TK*-15, *AV*-415, *SB-M*-207, *SB-K*-184, *VS-M*-146, *VS-K*-110, *KS*-56, *MS*-219)
+- वि᳓ (*TS*-379, *RV*-952, *TB*-164, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-639, *VS-M*-142, *VS-K*-127, *KS*-61, *MS*-503)
+- शोचः᳓ (*MW*, *SB-M*-0/2)
+- मा᳓ (*Whitney*, *TS*-205, *RV*-389, *TB*-95, *TK*-15, *AV*-415, *SB-M*-207, *SB-K*-184, *VS-M*-146, *VS-K*-110, *KS*-56, *MS*-219)
+- अस्य (अन्वादेशे अनुदात्तम्, पा॰ २.४.३२, *TS*-315, *RV*-415, *TB*-166, *TK*-24, *AV*-256, *SB-M*-871, *SB-K*-622, *VS-M*-56, *VS-K*-45, *KS*-49, *MS*-392)
+- त्व᳓चम् (*TS*-9/21, *RV*-12/23, *TB*-4/10, *AV*-11/17, *SB-M*-17/59, *SB-K*-17/63, *VS-M*-2/15, *VS-K*-1/15, *KS*-2/5, *MS*-6/19)
+- च᳓क्षुषः (*TS*-5/116, *RV*-2/44, *TB*-4/34, *TK*-0/4, *AV*-4/86, *SB-M*-9/212, *SB-K*-8/191, *VS-M*-3/45, *VS-K*-2/56, *KS*-2/20, *MS*-9/118)
+- मा᳓ (*Whitney*, *TS*-205, *RV*-389, *TB*-95, *TK*-15, *AV*-415, *SB-M*-207, *SB-K*-184, *VS-M*-146, *VS-K*-110, *KS*-56, *MS*-219)
+- श᳓रीरम् (*TS*-14/18, *RV*-3/6, *TB*-2, *TK*-3/4, *AV*-26/32, *SB-M*-64/82, *SB-K*-54/71, *VS-M*-2/5, *VS-K*-2/6, *KS*-2/3, *MS*-5/9)
+- यदा᳓ (*MW* ŚBr., *TS*-16, *RV*-40, *TB*-21, *AV*-23, *SB-M*-219, *SB-K*-194, *VS-M*-4, *VS-K*-5, *KS*-12, *MS*-49)
+- शृत᳓म् (*TS*-9/14, *RV*-3/4, *TB*-4/9, *AV*-7/9, *SB-M*-28/48, *SB-K*-32/48, *KS*-1/2, *MS*-6/14)
+- कृण᳓वः (*TS*-1, *RV*-6, *AV*-1)
+- जा᳓त-वेदः (*TS*-8, *RV*-11, *TB*-1, *AV*-5, *SB-M*-4, *SB-K*-1, *VS-M*-3, *VS-K*-2, *MS*-4)
+- अ᳓थे (*MW*, *Macdonell*, *Lanman*, *TS*-0/6, *TB*-0/3, *SB-M*-0/3, *SB-K*-4/12, *VS-K*-0/2, *KS*-0/1, *MS*-0/19)
+- अ᳓म् (*MW*, *SB-M*-1, *VS-M*-13, *VS-K*-11)
+- एनम् (अन्वादेशे अनुदात्तम्, पा॰ २.४.३४, *TS*-568, *RV*-76, *TB*-336, *TK*-26, *AV*-250, *SB-M*-1703, *SB-K*-1821, *VS-M*-27, *VS-K*-20, *KS*-89, *MS*-609)
+- प्र᳓ (*TS*-780, *RV*-1193, *TB*-368, *TK*-34, *AV*-568, *SB-M*-1530, *SB-K*-1608, *VS-M*-203, *VS-K*-195, *KS*-144, *MS*-798)
+- हिणुता᳓त् (फिषोऽन्त उदात्तः फि॰ १.१)
+- पितृ᳓भ्यः (*TS*-20/121, *RV*-11/254, *TB*-18/102, *TK*-0/6, *AV*-23/228, *SB-M*-27/321, *SB-K*-24/331, *VS-M*-8/80, *VS-K*-7/75, *KS*-3/24, *MS*-12/145)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *mainam* ← *mā*
+- \[adverb\]
+- “not.”
+
+_________
+
+- *mainam* ← *enam* ← *enad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.).”
+
+_________
+
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+
+_________
+
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+
+_________
+
+- *daho* ← *dahaḥ* ← *dah*
+- \[verb\], singular, Aorist inj. (proh.)
+- “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
+    distress; destroy.”
+
+_________
+
+- *mābhi* ← *mā*
+- \[adverb\]
+- “not.”
+
+_________
+
+- *mābhi* ← *abhi*
+- \[adverb\]
+- “towards; on.”
+
+_________
+
+- *śoco* ← *śocaḥ* ← *śuc*
+- \[verb\], singular, Aorist inj. (proh.)
+- “mourn; grieve; flame; glow; burn; repent.”
+
+_________
+
+- *māsya* ← *mā*
+- \[adverb\]
+- “not.”
+
+_________
+
+- *māsya* ← *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+
+_________
+
+- *tvacaṃ* ← *tvacam* ← *tvac*
+- \[noun\], accusative, singular, feminine
+- “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
+
+_________
+
+- *cikṣipo* ← *cikṣipaḥ* ← *kṣip*
+- \[verb\], singular, Aorist inj. (proh.)
+- “fill into; add; put; throw; insert; submerge; pour; mix; ignite;
+    shoot; hurl; vilify; reject; join; put on; stow; stack; throw.”
+
+_________
+
+- *mā*
+- \[adverb\]
+- “not.”
+
+_________
+
+- *śarīram* ← *śarīra*
+- \[noun\], accusative, singular, neuter
+- “body; human body; body part; body; body; strength.”
+
+_________
+
+- *yadā*
+- \[adverb\]
+- “once \[when\]; if.”
+
+_________
+
+- *śṛtaṃ* ← *śṛtam* ← *śrī*
+- \[verb noun\], accusative, singular
+- “cook; boil; heat; cook; mix.”
+
+_________
+
+- *kṛṇavo* ← *kṛṇavaḥ* ← *kṛ*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+
+_________
+
+- *jātavedo* ← *jātavedaḥ* ← *jātavedas*
+- \[noun\], vocative, singular, masculine
+- “Agni; fire.”
+
+_________
+
+- *'them* ← *atha*
+- \[adverb\]
+- “now; then; furthermore; now; then.”
+
+_________
+
+- *'them* ← *īm* ← *īṃ*
+- \[adverb\]
+
+_________
+
+- *enam* ← *enad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.).”
+
+_________
+
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+
+_________
+
+- *hiṇutāt* ← *hi*
+- \[verb\], singular, Present imperative
+- “impel; send; spur; stimulate; urge.”
+
+_________
+
+- *pitṛbhyaḥ* ← *pitṛ*
+- \[noun\], dative, plural, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+जातवेदः- जातविद्य। अग्ने। मा। एनम्- एतं प्रेतम्। वि दहः- दहनं कुरु। मा। अभि शोचः-  सन्तापेन युक्तं कुरु। अस्य- एतस्य। त्वचम्। शरीरम्- देहम्। मा चिक्षिपः- मा विक्षिप। यदा।  शृतम्- एनं पक्वम्। कृणवः- अकरोः। अथ- तदा। ईमेनम्। पितृभ्यः- पूर्वपुरुषेभ्यो दिवं  गतेभ्यः। प्र हिणुतात्- प्रेरय॥१॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अग्ने एनं प्रेतं माविदहः विशेषेण दग्धं भस्मीभूतं माकुरु माभिशोचः अभितः शोकेन सन्तापेन युक्तं माकुरु । अस्य त्वचं माचिक्षिपः इतस्ततोविक्षिप्तां माकुरु शरीर- मपि विक्षिप्तं माकुरु । हे जातवेदः अग्ने यदा त्वं श्रृतं पक्वं सुदग्धं कृणवः करिष्यसि अथ तदानीं ईमेनं प्रेतं पितृभ्यः प्राहिणुतात् पितृसमीपे प्रेरय ॥ १ ॥
+</details>
+
+<details><summary>त्रिभुवनः</summary>
+
+O fire, do not burn this; do not give him pain; do not scatter his skin or body; O fire (Jatavedas), when you burned fairly, convey him (the spirit) to the fathers.
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे अग्ने! एनं मा विदहः विदग्धं मा कार्षीः यथाऽस्थ्यादिकमपि दह्यते2 तथा मा धक्षीः माऽभिशोचः अभिरल्पार्थे माऽभिमुखज्वालो दीपिष्ठाः अस्य त्वचम् असृग्धरं ज्वालाग्रैः मा विचिक्षिपः । कथं तर्हि करवाणि यदा शृतं सुष्टु दग्धं करवः करिष्यसि अथ अनन्तरं तदानीमेव । ईमिति पादपूरणे । एनं प्रेतं पितृभ्यः प्रहिणुतात् प्रहिणु प्रगमय पितृपार्श्वं प्रापय ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हे अग्ने, एनं प्रेतं मा विदहो विशेषेण दग्धं मषी-रूपं मा कुरु। माभिशोचो ऽभितः शोकेन संतापेन युक्तं मा कुरु। अस्य त्वचं मा चिक्षिप इतस् ततो विक्षिप्तां मा कुरु। शरीरम् अपि विक्षिप्तं मा कुरु। हे जातवेदो, यदा शरीरं शृतं पक्वं करवो ऽथैनम् अनन्तरम् एवैनं प्रेतं पुरुषं पितृभ्यः प्रहिणुतात् पितृ-समीपे प्रेरय।
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“**Agni**, consume him not entirely; afflict him not; scatter not (here and there) his skin nor his body; whenJātavedas, you have rendered him mature, then send him to the **Pitṛs**.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+The first six ṛcas are to be recited at (orupon) the death of an initiated person n-- dīkṣitamaraṇe; not his skin nor his body: may be an allusion to thespiritual, or suṣma **śarīra**; do not reduce him to **ashes**, bhamībhūtam mā **kuru**\]..
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+Don’t burn him through, Agni; don’t scorch him; don’t singe his skin,  nor his body.  
+When you will make him cooked to readiness, Jātavedas, then impel him  forth to the forefathers.
+</details>
+
+<details><summary>Griffith</summary>
+
+Burn him not up, nor quite consume him, Agni: let not his body or his skin be scattered.  
+     O Jatavedas, when thou hast matured him, then send him on his way unto the Fathers.
+</details>
+
+<details><summary>Geldner</summary>
+
+Verbrenn ihn nicht ganz, o Agni, verglüh ihn nicht, versenge nicht seine Haut noch seinen Körper! Wenn du ihn gar gemacht haben wirst, o Jatavedas, dann entlaß ihn zu den Vätern!
+</details>
+
+<details><summary>Grassmann</summary>
+
+Verbrenn ihn nicht, verzehr ihn nicht, o Agni, zersprenge nicht die Haut ihm und die Glieder; Wenn du ihn gar gemacht, o Wesenkenner, dann sollst du ihn zu unsern Vätern senden.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Не сожги его, Агни, дотла, не спали!  
+Не испепели его кожу и тело!  
+Когда приготовишь (его), Джатаведас,  
+То отправь его к отцам!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- अग्निः
+- दमनो यामायनः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>ब्रह्ममुनि - विषयः</summary>
+
+इस सम्पूर्ण सूक्त का देवता अग्नि है। देहान्त हो जाने पर कृत्रिम और सर्वत्र सिद्ध अग्नि शव का किस प्रकार छेदन-भेदन, विभाग करती है तथा अजन्मा जीवात्मा को पुनर्देह धारण करने के लिये योग्य बनाती है एवं अग्निसंस्कार का औषधतुल्य वर्णन, शवाग्नि परिणाम और उसका घृतादि आहुति से शवदहन, गन्धदोषनिवारण द्वारा उपचार, शवाग्नि से दग्ध देशभूमि की प्रतिक्रिया, उसका पुनः पूर्व के तुल्य बना देना आदि-आदि प्रतीकारयोग्य बातों का वर्णन है। मनुष्य जिन पर ध्यान न देकर और तदनुसार आचरण न करके शवदहन आदि से जनित हानियों के अपराध से नहीं छूट सकता।
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अग्ने-एनं मा विदहः-मा अभिशोचः अस्य त्वचं मा चिक्षिपः-मा शरीरम्) अग्नि मृतदेह को विदग्ध अधपका न करे, न शव से अलग ही इधर-उधर जलकर अग्नि रह जावे और न इसके त्वचा या शरीर को फेंके। वास्तव में प्रेत को इस प्रकार जलावे कि (जातवेदः-यत्-ईम्-एनं शृतं कृण्वः-अथ पितृभ्यः प्रहिणुतात्)अग्नि जब इस मृत शरीर को पका दे, तो फिर इस मृत शरीर को सूर्यरश्मियों के प्रति पहुँचा दे ॥१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - भावार्थः</summary>
+
+भावार्थभाषाः -  शवदहन के लिये इतना इन्धन होना चाहिये कि जिससे शव कच्चा न रह जावे और बहुत इन्धन होने पर भी अग्नि इधर-उधर चारों तरफ जलकर ही न रह जावे, इसके लिये ठोस इन्धन का प्रयोग करना चाहिये तथा अङ्ग-अङ्ग चटक-चटक कर इधर-उधर न उड़ जावें या गिर जावें, ऐसे न चटकानेवाले इन्धन से शव को जलाना चाहिये, जिससे अग्नि के द्वारा शव सूक्ष्म होकर सूर्यकिरणों में प्राप्त हो सके ॥१॥
+</details>
+
+<details><summary>ब्रह्ममुनि - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (अग्ने-एनं मा विदहः-मा-अभिशोचः-अस्य त्वचं मा चिक्षिपः मा शरीरम्) अग्नेऽयमग्निरेनं मृतदेहं मा विदहः न विदहेद् विदग्धमर्द्धपक्वं न कुर्यात् ‘सर्वत्र पुरुषव्यत्ययः’ माभिशोचः-नाभिज्वलेत्प्रेतं विहायेतस्तत एव न ज्वलेत् “शोचतिर्ज्वलतिकर्मा” [नि०१।१७] अस्य प्रेतस्य त्वचं मा चिक्षिपः-क्षिपेत् शरीरञ्च न क्षिपेत्। वस्तुतस्तु प्रेतमेवं दहेद्यत् (जातवेदः यत्-ईम्-एनम्-शृतं कृण्वः-अथ पितृभ्यः प्रहिणुतात्) अग्निर्यदैवेनं मृतदेहं शृतं पक्वं कृण्वः कुर्यादथानन्तरं तदैव पितृभ्यः सूर्यरश्मिभ्यः प्रहिणोतु प्रेरयेत् ॥१॥
+</details>

@@ -1,0 +1,518 @@
++++
+title = "004"
+devataa = "अश्वः"
+RShiH = "दीर्घतमा औचथ्यः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - अश्वः
+- ऋषिः - दीर्घतमा औचथ्यः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+य᳓द् धविष्य᳙म् ऋतुशो᳓ देवया᳓नं  
+त्रि᳓र् मा᳓नुषाः प᳓रि अ᳓श्वं न᳓यन्ति  
+अ᳓त्रा पूष्णः᳓ प्रथमो᳓ भाग᳓ एति  
+यज्ञं᳓ देवे᳓भ्यः प्रतिवेद᳓यन्न् अजः᳓
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+_________
+**Pāda-label**  
+popular  
+popular  
+popular  
+popular
+_________
+**Morph**  
+devayā́nam ← devayā́na- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+haviṣyàm ← haviṣyà- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+r̥tuśás ← r̥tuśás (invariable)  
+{}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+áśvam ← áśva- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+
+mā́nuṣāḥ ← mā́nuṣa- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+náyanti ← √nī- (root)  
+{number:PL, person:3, mood:IND, tense:PRS, voice:ACT}
+
+pári ← pári (invariable)  
+{}
+
+trís ← trís (invariable)  
+{}
+
+átra ← átra (invariable)  
+{}
+
+bhāgáḥ ← bhāgá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+eti ← √i- 1 (root)  
+{number:SG, person:3, mood:IND, tense:PRS, voice:ACT}
+
+prathamáḥ ← prathamá- (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+pūṣṇáḥ ← pūṣán- (nominal stem)  
+{case:GEN, gender:M, number:SG}
+
+ajáḥ ← ajá- 2 (nominal stem)  
+{case:NOM, gender:M, number:SG}
+
+devébhyaḥ ← devá- (nominal stem)  
+{case:DAT, gender:M, number:PL}
+
+prativedáyan ← √vid- 2 (root)  
+{case:NOM, gender:M, number:SG, tense:PRS, voice:ACT}
+
+yajñám ← yajñá- (nominal stem)  
+{case:ACC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+यद्ध॑वि॒ष्य॑मृतु॒शो दे॑व॒यानं॒ त्रिर्मानु॑षाः॒ पर्यश्वं॒ नय॑न्ति ।  
+अत्रा॑ पू॒ष्णः प्र॑थ॒मो भा॒ग ए॑ति य॒ज्ञं दे॒वेभ्यः॑ प्रतिवे॒दय॑न्न॒जः ॥
+</details>
+
+<details><summary>मूलम् - माध्यन्दिनम्</summary>
+
+यद्ध॑वि॒ष्य᳖मृतु॒शो दे॑व॒यानं॒ त्रिर्मानु॑षाः॒ पर्यश्वं॒ नय॑न्ति।  
+अत्रा॑ पू॒ष्णः प्र॑थ॒मो भा॒गऽए॑ति य॒ज्ञं दे॒वेभ्यः॑ प्रतिवे॒दय॑न्न॒जः ॥२७ ॥
+</details>
+
+<details><summary>मूलम् - तैत्तिरीयम्</summary>
+
+यद्ध॒विष्य॑मृतु॒शो दे॑व॒यान॒न्त्रिर्मानु॑षा॒ᳶ पर्यश्व॒न्नय॑न्ति ।  
+अत्रा॑ पू॒ष्णᳶ प्र॑थ॒मो भा॒ग ए॑ति य॒ज्ञन्दे॒वेभ्यᳶ॑ प्रतिवे॒दय॑न्न॒जः ।
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+यद्वविष्यमृतुशो देवयानं त्रिर्मानुषाः पर्यश्वं नयन्ति।  
+तत्रा पूष्णः प्रथमो भाग एति यज्ञं देवेभ्यः परिवेदयन्नजः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ह॒वि॒ष्य॑म् । ऋ॒तु॒ऽशः । दे॒व॒ऽयान॑म् । त्रिः । मानु॑षाः । परि॑ । अश्व॑म् । नय॑न्ति ।  
+अत्र॑ । पू॒ष्णः । प्र॒थ॒मः । भा॒गः । ए॒ति॒ । य॒ज्ञम् । दे॒वेभ्यः॑ । प्र॒ति॒ऽवे॒दय॑न् । अ॒जः ॥
+</details>
+
+<details><summary>पदपाठः - दयानन्दादि</summary>
+
+यत्। ह॒वि॒ष्य᳖म्। ऋ॒तु॒श इत्यृ॑तु॒ऽशः। दे॒व॒यान॒मिति॑ देव॒ऽयान॑म्। त्रिः। मानु॑षाः। परि॑। अश्व॑म्। नय॑न्ति। अत्र॑। पू॒ष्णः। प्र॒थ॒मः। भा॒गः। ए॒ति॒। य॒ज्ञम्। दे॒वेभ्यः॑। प्र॒ति॒वे॒दय॒न्निति॑ प्रतिऽवे॒दय॑न्। अ॒जः। २७।
+</details>
+
+<details><summary>पदपाठः - काण्वः</summary>
+
+यत्। ह॒वि॒ष्य᳖म्। ऋ॒तु॒श। इत्यृ॑तु॒ऽशः। दे॒व॒यान॒मिति॑ देव॒ऽयान॑म्। त्रिः। मानु॑षाः। परि॑। अश्व॑म्। नय॑न्ति। अत्र॑। पू॒ष्णः। प्र॒थ॒मः। भा॒गः। ए॒ति॒। य॒ज्ञम्। दे॒वेभ्यः॑। प्र॒ति॒वे॒दय॒न्निति॑ प्रतिऽवे॒दय॑न्। अ॒जः। ४।
+</details>
+
+<details><summary>पदपाठः - तैत्तिरीयः</summary>
+
+यत् । ह॒विष्य॑म् । ऋ॒तु॒श इत्यृ॑तु-शः । दे॒व॒यान॒मिति॑ देव-यान॑म् । त्रिः । मानु॑षाः । परीति॑ । अश्व॑म् । नय॑न्ति ॥ अत्र॑ । पू॒ष्णः । प्र॒थ॒मः । भा॒गः । ए॒ति॒ । य॒ज्ञम् । दे॒वेभ्यः॑ । प्र॒ति॒वे॒दय॒न्निति॑ प्रति-वे॒दय॑न् । अ॒जः ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- य᳓द्व (*TS*-1/3)
+- वि᳓ष्यम् (*MS*-0/1)
+- ऋतु-शः᳓ (*MS*-4, *TS*-3, *RV*-4, *AV*-1, *SB-M*-2, *SB-K*-2, *VS-M*-5, *VS-K*-3)
+- देव-या᳓नम् (*MS*-2/13, *TS*-1/23, *RV*-2/13, *TB*-0/8, *AV*-3/18, *SB-M*-1/8, *SB-K*-3/9, *VS-M*-1/11, *VS-K*-1/7)
+- त्रिः᳓ (*MS*-55/129, *TS*-32/190, *RV*-67/153, *TB*-32/88, *TK*-1/8, *AV*-10/59, *SB-M*-96/382, *SB-K*-75/334, *VS-M*-2/19, *VS-K*-3/22)
+- मा᳓नुषाः (*MS*-4/13, *TS*-2/8, *RV*-5/68, *TB*-1/11, *AV*-2/11, *SB-M*-1/16, *SB-K*-2/21, *VS-M*-1/7, *VS-K*-1/6)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- अश्वन् (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *TB*-2, *SB-K*-2)
+- नयन्ति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-6, *TS*-5, *RV*-14, *TB*-2, *TK*-1, *AV*-3, *SB-M*-20, *SB-K*-13)
+- त᳓त्रा (*MS*-0/20, *TS*-1/15, *RV*-0/22, *TB*-0/30, *TK*-0/1, *AV*-0/62, *SB-M*-0/211, *SB-K*-0/207, *VS-M*-0/7, *VS-K*-0/7)
+- पूष्णः᳓ (*MS*-36/130, *TS*-20/70, *RV*-6/86, *TB*-4/35, *TK*-0/1, *AV*-1/24, *SB-M*-24/84, *SB-K*-25/85, *VS-M*-22/51, *VS-K*-21/47)
+- प्रथमः᳓ (*MS*-34/106, *TS*-28/95, *RV*-50/170, *TB*-11/41, *TK*-0/7, *AV*-43/109, *SB-M*-58/287, *SB-K*-51/272, *VS-M*-18/38, *VS-K*-16/39)
+- भागः᳓ (*MS*-52/83, *TS*-40/55, *RV*-11/57, *TB*-8/16, *AV*-21/45, *SB-M*-46/110, *SB-K*-41/112, *VS-M*-21/29, *VS-K*-28/45)
+- एति (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-136, *TS*-152, *RV*-120, *TB*-80, *TK*-20, *AV*-43, *SB-M*-306, *SB-K*-293, *VS-K*-2)
+- यज्ञ᳓म् (*MS*-297/933, *TS*-263/863, *RV*-186/448, *TB*-111/399, *TK*-3/21, *AV*-81/231, *SB-M*-421/1803, *SB-K*-413/1754, *VS-M*-88/223, *VS-K*-89/187)
+- देवे᳓भ्यः (*MS*-138/1216, *TS*-101/1023, *RV*-60/1342, *TB*-58/582, *TK*-2/32, *AV*-40/707, *SB-M*-249/2031, *SB-K*-210/1945, *VS-M*-64/528, *VS-K*-60/523)
+- प᳓रि (*MS*-238, *TS*-222, *RV*-506, *TB*-117, *TK*-1, *AV*-297, *SB-M*-446, *SB-K*-390, *VS-M*-84, *VS-K*-77)
+- वे᳓दयन् (*MW*, *Macdonell*, *Lanman*)
+- अजः᳓ (*MS*-11/40, *TS*-11/32, *RV*-14/21, *TB*-2/14, *AV*-23/47, *SB-M*-26/74, *SB-K*-24/65, *VS-M*-8/11, *VS-K*-6/13)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *yaddhaviṣyam* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+
+_________
+
+- *yaddhaviṣyam* ← *haviṣyam* ← *haviṣya*
+- \[noun\], accusative, singular, masculine
+
+_________
+
+- *ṛtuśo* ← *ṛtuśas*
+- \[adverb\]
+
+_________
+
+- *devayānaṃ* ← *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *devayānaṃ* ← *yānam* ← *yāna*
+- \[noun\], accusative, singular, neuter
+- “vehicle; journey; campaign; carriage; vessel; cart.”
+
+_________
+
+- *trir* ← *tris*
+- \[adverb\]
+- “thrice; tris \[word\].”
+
+_________
+
+- *mānuṣāḥ* ← *mānuṣa*
+- \[noun\], nominative, plural, masculine
+- “man; man.”
+
+_________
+
+- *pary* ← *pari*
+- \[adverb\]
+- “from; about; around.”
+
+_________
+
+- *aśvaṃ* ← *aśvam* ← *aśva*
+- \[noun\], accusative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+
+_________
+
+- *nayanti* ← *nī*
+- \[verb\], plural, Present indikative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+
+_________
+
+- *atrā* ← *atra*
+- \[adverb\]
+- “now; there; then; then; there; here; here; in the following;
+    alternatively; now.”
+
+_________
+
+- *pūṣṇaḥ* ← *pūṣan*
+- \[noun\], genitive, singular, masculine
+- “Pushan; pūṣan \[word\]; sun.”
+
+_________
+
+- *prathamo* ← *prathamaḥ* ← *prathama*
+- \[noun\], nominative, singular, masculine
+- “first; prathama \[word\]; third; young; chief(a); best;
+    antecedent.”
+
+_________
+
+- *bhāga* ← *bhāgaḥ* ← *bhāga*
+- \[noun\], nominative, singular, masculine
+- “part; part; part; parcel; quarter; body part; location; region;
+    allotment; part; numerator; division; application; function;
+    outside; bhāga \[word\]; volume; helping.”
+
+_________
+
+- *eti* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+
+_________
+
+- *yajñaṃ* ← *yajñam* ← *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+
+_________
+
+- *devebhyaḥ* ← *deva*
+- \[noun\], dative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *prativedayann* ← *prativedayan* ← *prativeday* ← *√vid*
+- \[verb noun\], nominative, singular
+- “give; tell.”
+
+_________
+
+- *ajaḥ* ← *aja*
+- \[noun\], nominative, singular, masculine
+- “goat; Vishnu; Brahma; Shiva; Aja; aja \[word\]; Aja; aj; Ocimum
+    gratissimum; Puruṣa.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+यत्- यदा। हविष्यम्- हव्यभूतम्। देवयानम्- अर्चिरादिमयम्। अश्वम्- प्राणम्। मानुषाः-  उपासकाः। त्रिः- त्रिस्थानमन्नप्राणमनोमयं भूर्भुवःसुवः। परि नयन्ति। तदा। अत्र-  अस्मिन्नुपासने। पूष्णः- आत्मसूर्यस्य मार्गदर्शकस्य। प्रथमो भागः- वाहकः। अथवा पूष्णः-  पोषकस्य विष्णोः परमात्मनः। अजः- जन्मरहितोऽयमात्मा। स एव समर्पितव्यो देवभागः। अजो  भागस्तपसा तं तपस्वेति श्रुतेः। देवेभ्यः- द्योतकेभ्यः। यज्ञम्- अस्मत्कृतदानं पूजां सङ्गतिकरणम्।  प्रतिवेदयन्- निवेदयन्। एति- गच्छति॥४॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**हविष्यं** हविर्योग्यं **देवयानं** देवानां प्रापणीयम् **अश्वं** **यत्** यदा **मानुषाः** ऋत्विजः **ऋतुशः** ऋतौ ऋतौ काले काले **त्रिः** **परि** **नयन्ति** पर्यग्निकुर्वन्तीत्यर्थः । **अत्र** अस्मिन् समये ॥ ‘ऋचि तुनुघ' इति दीर्घः ॥ **पूष्णः** पोषकस्याग्नेः **भागः** **अजः** **प्रथमः** **एति** पुरोगामी सन् गच्छति । किं कुर्वन् । **यज्ञं** **देवेभ्यः** **प्रतिवेदयन्** प्रख्यापयन् ॥
+</details>
+
+<details><summary>उवट-टीका</summary>
+
+यद् धविष्यम् यदा हविष्यम् ऋतुशः ऋताव् ऋतौ स्व-चारिणं देव-यानम् देवानां प्रापणीयं देव-यान-मार्ग-गामिनं वा आदित्य-वद् अनिवारित-गतिं वा।  
+त्रिः संस्कृतम् स्नापन-व्यञ्जन-सुवर्ण-मणिक-प्रवारैः।  
+मानुषाः ऋत्विग्-यजमानाः परिणयन्ति अश्वम्।  
+अत्र तत्रेत्य् अर्थः।  
+तस्मिन् काले पूष्णः पोषकस्याग्नेः प्रथमो [[भागोजाख्यः|भागो ऽजाख्यः]] एति यज्ञम् देवेभ्यः [[प्रतिवेदयनजः|प्रतिवेदयन्न् अजः]] स्वकीयेन शब्देन।  
+चरक-श्रुतौ पूष्णो ललाट इति पठ्यते तद्-अभिप्रायम् एतत्॥ २७॥
+</details>
+
+<details><summary>महीधर-टीका</summary>
+
+मानुषा मनुष्या ऋत्विजो यत् यदा अश्वं त्रिः परिणयन्ति वार-त्रयं पर्यग्नि-कुर्वन्ति।  
+कीदृशम् अश्वम्।  
+हविष्यं हविषे हितं हविर्-योग्यम्।  
+ऋतुशः ऋतौ ऋतौ यज्ञ-काले देव-यानं देवानां प्रापणीयं देवेषु यानं गमनं यस्य तम्, देव-यान-मार्ग-गामिनं वा।  
+यद् वा देववद् आदित्यवद् यानं गतिर् यस्य।  
+अनिवारित-गतिम् इत्य् अर्थः।  
+अत्रास्मिन् समये पर्यग्नि-करण-काले पूष्णः पोषकस्य वृद्धस्य वाग्नेर् भागो ऽजः प्रथमः पुरो-गामी सन् एति गच्छति।  
+किं कुर्वन्।  
+देवेभ्यः यज्ञं प्रतिवेदयन् प्रख्यापयन् स्व-शब्देन ज्ञापयन्।  
+‘पूष वृद्धौ’ पूषति वर्धते पूषाग्निः॥२७॥
+</details>
+
+<details><summary>सायण-टीका (काण्वी)</summary>
+
+[[सायण भाष्योपैता|सायण-भाष्योपेता]]  
+[[देशे|एषे]] अजः प्रथमः एति कीदृशः अजः, पूष्णः भागः, [[कि|किं]] कुर्वन्, देवेभ्यो यज्ञं प्रतिवेदयन् हे देवाः यज्ञः प्रवर्तत इत्य्-एवं देवेभ्यः ज्ञापयन् ।
+
+अथ पञ्चमी —  
+॥ १२ ॥ ४ ॥
+</details>
+
+<details><summary>आनन्दबोध-टीका</summary>
+
+‘यद् धविष्यम्' इति । अश्व-स्तोमीया त्रिष्टुप् । दीर्घतमाः ।  
+यत् यदा हविष्यं हविः-साधन-भूतम् अश्वं च ऋतुशः ऋतौ ऋतौ विहित-काले देव-यानं मार्गम् आश्रित्य मानुषाः ऋत्विग्-यजमानाः त्रिः संस्कृतं स्नापनाभ्यञ्जन-सुवर्णालंकार-मणि-वरैः तम् अश्वं त्रिः त्रि-वारं परि नयन्ति पर्यग्निं कुर्वन्तीत्य् अर्थः ।  
+ते अजाख्यः प्रथमः भागः ।  
+यज्ञं देवेभ्यः आगच्छतीति संबन्धः ॥ ३० ॥  
+अत्र अस्मिन् काले पूष्णः प्रथमः भागः अजः प्रतिवेदयन् देवान् परिज्ञापयन्न् इति ।  
+एषः अजः
+</details>
+
+<details><summary>अनन्ताचार्य-टीका</summary>
+
+‘यद्धविष्यम्' ।
+
+'मानुषाः मनुष्या ऋत्विजः "यत् यदा अवं त्रिः परि "नयन्ति ।
+
+वास्त्रयं पर्यग्नि-कुर्वन्ति ।
+
+कीदृशम् अश्वम् ? 'हविष्यम् हविर्-योग्यम् ।
+
+'ऋतुशः ।
+
+ऋतौ ऋतौ यज्ञ-काले । "देवयानं देवानां प्रापणीयम् ।
+
+देवेषु यानं गमनं यस्य तं वा ।
+
+देवयानमार्गगामिनं वा ।
+
+'अत्र अस्मिन् पर्यग्नि-काले 'पूष्णः पोषकस्य वृद्धस्याग्नेर् भागः ।
+
+अजः प्रथमः पुरोगामी सन् एति गच्छति । “आग्नेयो अजः " ( शब्रा २.१.४.३) इति श्रुतेः । “पूषाग्निर् एव ।” किं कुर्वन् ? "देवेभ्यः "यज्ञं "प्रतिवेदयन् प्रख्यापयन् ।
+
+'पूष वृद्धौ' इति धातुः ॥४॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+यद्यत्र मानुषा ऋत्विजोऽश्वं त्रिः परिणयन्ति त्रिवारं प्रदक्षिणी कुर्वन्ति ।  
+कीदृशमश्वं, हविष्यं हविषो योग्यम् ।  
+ऋतुशो देवयानमृता वृतौ देवान्गच्छन्तम् ।  
+अत्रास्मिन्देशेऽजः प्रथम एति ।  
+कीदृशोऽजः, पूष्णो भागः ।  
+किं कुर्वन्, देवेभ्यो यज्ञं प्रतिवेदयन्, हे देवा यज्ञः प्रवर्तत इस्येवं दवेभ्यो ज्ञापयन् ।
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[641_1]** So corr. Ch देवेश्यः vgl. RV 1, 162, 4 u. s. w. (Thus emended Ch देवेश्यः cf. RV 1, 162, 4 etc.)
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - विषयः</summary>
+
+फिर किससे कौन क्या करते हैं, इस विषय को अगले मन्त्र में कहा है ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यत्) जो (मानुषाः) मनुष्य (ऋतुशः) ऋतु-ऋतु के योग्य (हविष्यम्) होम में चढ़ाने के पदार्थों के लिये हितकारी (देवयानम्) दिव्य गुणवाले विद्वानों की प्राप्ति कराने हारे (अश्वम्) शीघ्रगामी प्राणी की (त्रिः) तीन वार (परि, नयन्ति) सब ओर पहुँचाते हैं वा जो (अत्र) इस संसार में (पूष्णः) पुष्टिसम्बन्धी (प्रथमः) प्रथम (भागः) सेवने योग्य (देवेभ्यः) विद्वानों के लिये (यज्ञम्) सत्कार को (प्रतिवेदयन्) जनाता हुआ (अजः) विशेष पशु बकरा (एति) प्राप्त होता है, वह सदा रक्षा करने योग्य है ॥२६ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि, मा.) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो मनुष्य ऋतु-ऋतु के प्रति उनके गुणों के अनुकूल आहार विहारों को करते तथा घोड़ा और बकरा आदि पशुओं से सङ्गत हुए कामों को करते हैं, वे अत्यन्त सुख को पाते हैं ॥२७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - विषयः</summary>
+
+पुनः केन के किं कुर्वन्तीत्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  यद्ये मानुषा ऋतुशो हविष्यं देवयानमश्वं त्रिः परिनयन्ति योऽत्र पूष्णः प्रथमो भागो देवेभ्यो यज्ञं प्रतिवेदयन्नज एति स सदा रक्षणीयः ॥२७ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (सं) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये प्रत्यृत्वाहारविहारान् कुर्वन्त्यश्वाजादिपशुभ्यः सङ्गतानि कार्याणि कुर्वन्ति, तेऽत्यन्तं सुखं लभन्ते ॥२७ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्दः (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जी माणसे ऋतुंचे गुणधर्म जाणून त्यानुसार आहार-विहार करतात व घोडे, बकरे इत्यादी पशू बाळगून कार्य करतात ते अत्यंत सुख प्राप्त करतात.
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“When the priests at the season (of the ceremony), lead forth the horse, the offering devoted to the gods, thrice round (the sacrificial fire); then the goat, the portion of **Pūṣan**, goes first, announcing the sacrificer to the gods.”
+
+_________
+**Commentary by Sāyaṇa: Ṛgveda-bhāṣya**  
+
+The goat is to be first immolated
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+When the sons of Manu lead around the horse to be offered three times  along (the path) that goes to the gods in proper order,  
+then the goat, Pūṣan’s portion, goes first, announcing the sacrifice to  the gods.
+</details>
+
+<details><summary>Griffith</summary>
+
+When thrice the men lead round the Steed, in order, who goeth to the Gods as meet oblation,  
+     The goat precedeth him, the share of Pusan, and to the Gods the sacrifice announceth.
+</details>
+
+<details><summary>Keith</summary>
+
+When men thrice lead round in due season  
+The steed going to the gods as an acceptable offering Then first goeth Pusan's share,  
+The goat announcing the sacrifice to the gods.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+When men lead the horse around thrice, as an oblation going to the gods according to season,  
+there the goat goes first as Pūṣan's portion, announcing the sacrifice to the gods.
+</details>
+
+<details><summary>Geldner</summary>
+
+Wenn die Menschen das zum Opfer bestimmte Roß dreimal der Reihe nach den Götterweg herumführen, so geht dabei der Opferanteil des Pusan voran, der Bock, der den Göttern das Opfer meldet.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Wenn die Menschen das mit Opfertrank versehene zu den Göttern gehende Ross nach dem Brauche dreimal herumführen, so geht der Ziegenbock als erster Antheil des Puschan, den Göttern das Opfer ankündigend.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Когда предназначенного для жертвы коня люди  
+По правилу трижды обводят кругом по пути богов,  
+То доля Пушана идет первой –  
+Козел, оповещающий богов о жертве.
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- मित्रादयो लिङ्गोक्ताः
+- दीर्घतमा औचथ्यः
+- त्रिष्टुप्
+- धैवतः
+
+- यज्ञो देवता
+- प्रजापतिर्ऋषिः
+- त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+फिर उसी विषय को अगले मन्त्र में कहा है ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यत्) जो (मानुषाः) मनुष्य (ऋतुशः) बहुत ऋतुओं में (हविष्यम्) ग्रहण करने योग्य पदार्थों में उत्तम (देवयानम्) विद्वानों की यात्रा सिद्ध करनेवाले (अश्वम्) शीघ्रगामी रथ को (त्रिः) तीन बार (परिणयन्ति) सब ओर से प्राप्त होते अर्थात् स्वीकार करते हैं वा जो (अत्र) इस जगत् से (देवेभ्यः) दिव्य गुणों के लिये (पूष्णः) पुष्टि करनेवाले का (प्रथमः) पहिला (भागः) सेवने योग्य भाग (प्रतिवेदयन्) अपने गुण को प्रत्यक्षता से जनाता हुआ (अजः) पाने योग्य छाग (यज्ञम्) सङ्ग करने योग्य व्यवहार को (एति) प्राप्त होता है उनको और इस छाग को सब सज्जन यथायोग्य सत्कारयुक्त करें ॥ ४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  जो समस्त ऋतुओं के सुख सिद्ध करनेवाले यानों को रच घोड़े और बकरे आदि पशुओं को बढ़ा कर जगत् का हित सिद्ध करते हैं, वे शारीरिक, वाचिक और मानसिक तीनों प्रकार के सुख को प्राप्त होते हैं ॥ ४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  यद्ये मानुषा ऋतुशो हविष्यं देवयानमश्वं त्रिः परिणयन्ति योऽत्र देवेभ्यः पूष्णः भागः प्रतिवेदयन्नजो यज्ञमेति तानेतं च सर्वे सज्जनाः सत्कुर्वन्तु ॥ ४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+पुनस्तमेव विषयमाह ।
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (यत्) ये (हविष्यम्) हविष्षु ग्रहणेषु साधुम् (ऋतुशः) बहुषु ऋतुषु (देवयानम्) देवानां विदुषां यात्रासाधकम् (त्रिः) (मानुषाः) मनुष्याः (परि) सर्वतः (अश्वम्) आशुगामिनम् (नयन्ति) प्राप्नुवन्ति (अत्र) अस्मिन् जगति। अत्र ऋचि तुनुघेति दीर्घः। (पूष्णः) पोषकस्य (प्रथमः) आदिमः (भागः) भजनीयः (एति) प्राप्नोति (यज्ञम्) संगन्तुमर्हम् (देवेभ्यः) दिव्यगुणेभ्यः (प्रतिवेदयन्) स्वगुणं प्रत्यक्षतया प्रज्ञापयन् (अजः) प्राप्तव्यश्छागः ॥ ४ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  ये सर्वर्त्तुसुखसाधकानि यानानि रचयित्वाऽश्वाऽजादीन् पशून् वर्द्धयित्वा जगद्धितं संपादयन्ति ते शरीरात्ममनोऽनुकूलं त्रिविधं सुखमश्नुवते ॥ ४ ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  जे संपूर्ण ऋतुत सुख सिद्ध करणारी याने तयार करतात व घोडे, बकरे इत्यादी पशूंची वाढ करून जगाचे हित करतात, त्यांना शारीरिक, वाचिक व मानसिक तिन्ही प्रकारचे सुख मिळते. ॥ ४ ॥
+</details>

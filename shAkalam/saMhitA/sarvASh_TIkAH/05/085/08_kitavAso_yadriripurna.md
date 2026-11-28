@@ -1,0 +1,452 @@
++++
+title = "008"
+devataa = "वरुणः"
+RShiH = "भौमोत्रिः"
+ChandaH = "त्रिष्टुप्"
++++
+
+<details><summary>अधिमन्त्रम् - sa</summary>
+
+- देवता - वरुणः
+- ऋषिः - भौमोत्रिः
+- छन्दः - त्रिष्टुप्
+</details>
+
+<details><summary>Thomson & Solcum</summary>
+
+कितवा᳓सो य᳓द् रिरिपु᳓र् न᳓ दीवि᳓  
+य᳓द् वा घा सत्य᳓म् उत᳓ य᳓न् न᳓ विद्म᳓  
+स᳓र्वा ता᳓ वि᳓ ष्य शिथिरे᳓व देव  
+अ᳓धा ते स्याम वरुण प्रिया᳓सः
+</details>
+
+<details><summary>Vedaweb annotation</summary>
+
+_________
+**Strata**  
+Cretic
+
+_________
+**Pāda-label**  
+genre M  
+genre M  
+genre M  
+genre M
+_________
+**Morph**  
+dīví ← dī́v- (nominal stem)  
+{case:LOC, gender:F, number:SG}
+
+kitavā́saḥ ← kitavá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+ná ← ná (invariable)  
+{}
+
+riripúḥ ← √rip- (root)  
+{number:PL, person:3, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+gha ← gha (invariable)  
+{}
+
+ná ← ná (invariable)  
+{}
+
+satyám ← satyá- (nominal stem)  
+{case:NOM, gender:N, number:SG}
+
+utá ← utá (invariable)  
+{}
+
+vā ← vā (invariable)  
+{}
+
+vidmá ← √vid- 2 (root)  
+{number:PL, person:1, mood:IND, tense:PRF, voice:ACT}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+yát ← yá- (pronoun)  
+{case:NOM, gender:N, number:SG}
+
+deva ← devá- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+
+iva ← iva (invariable)  
+{}
+
+sárvā ← sárva- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+śithirā́ ← śithirá- (nominal stem)  
+{case:ACC, gender:N, number:PL}
+
+sya ← √sā- ~ si- (root)  
+{number:SG, person:2, mood:IMP, tense:PRS, voice:ACT}
+
+tā́ ← sá- ~ tá- (pronoun)  
+{case:ACC, gender:N, number:PL}
+
+ví ← ví (invariable)  
+{}
+
+ádha ← ádha (invariable)  
+{}
+
+priyā́saḥ ← priyá- (nominal stem)  
+{case:NOM, gender:M, number:PL}
+
+syāma ← √as- 1 (root)  
+{number:PL, person:1, mood:OPT, tense:PRS, voice:ACT}
+
+te ← tvám (pronoun)  
+{case:DAT, number:SG}
+
+varuṇa ← váruṇa- (nominal stem)  
+{case:VOC, gender:M, number:SG}
+</details>
+
+<details><summary>मूलम् - शाकलम्</summary>
+
+कि॒त॒वासो॒ यद्रि॑रि॒पुर्न दी॒वि यद्वा॑ घा स॒त्यमु॒त यन्न वि॒द्म ।  
+सर्वा॒ ता वि ष्य॑ शिथि॒रेव॑ दे॒वाधा॑ ते स्याम वरुण प्रि॒यासः॑ ॥
+</details>
+
+<details><summary>मूलम् - काठकम्</summary>
+
+कितवासो यद्रिरिपुर्न दीवि यद्वा घा सत्यमुत यन्न विद्म।  
+सर्वा ता विष्य शिथिरेव देवाधा ते स्याम वरुण प्रियासः
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कि॒त॒वासः॑ । यत् । रि॒रि॒पुः । न । दी॒वि । यत् । वा॒ । घ॒ । स॒त्यम् । उ॒त । यत् । न । वि॒द्म ।  
+सर्वा॑ । ता । वि । स्य॒ । शि॒थि॒राऽइ॑व । दे॒व॒ । अध॑ । ते॒ । स्या॒म॒ । व॒रु॒ण॒ । प्रि॒यासः॑ ॥
+</details>
+
+<details><summary>पद-पाठः (यान्त्रिकः - काठकम्)</summary>
+
+- कितवा᳓सः (*MS*-1/2, *TS*-1, *RV*-1/7, *TB*-1/3, *AV*-0/2, *VS-M*-0/3, *VS-K*-0/2)
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- रिरिपुः᳓ (*Whitney*, *MW*, *MS*-1, *TS*-1, *RV*-1)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- दीवि᳓ (*MW*, *MS*-1, *TS*-1, *RV*-1)
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- वा (अनुदात्तम्, पा॰ ८.१.१८, *MS*-211, *TS*-155, *RV*-323, *TB*-73, *TK*-10, *AV*-148, *SB-M*-933, *SB-K*-986, *VS-M*-34, *VS-K*-36)
+- घा (अपादादिः आमन्त्रितम् अनुदात्तम्, पा॰ ८.१.१९, *MS*-2, *TB*-1)
+- सत्य᳓म् (*MS*-64/103, *TS*-20/77, *RV*-52/133, *TB*-45/68, *TK*-25/44, *AV*-33/71, *SB-M*-132/187, *SB-K*-129/184, *VS-M*-19/36, *VS-K*-23/47)
+- उत᳓ (*Whitney*, *Lanman*, *MS*-127, *TS*-120, *RV*-701, *TB*-48, *TK*-2, *AV*-311, *SB-M*-81, *SB-K*-92, *VS-M*-74, *VS-K*-72)
+- य᳓त् (*MW*, *MS*-1830/3763, *TS*-1461/3385, *RV*-1325/4011, *TB*-821/1735, *TK*-52/227, *AV*-726/3120, *SB-M*-4454/8327, *SB-K*-4555/8438, *VS-M*-158/651, *VS-K*-134/609)
+- न᳓ (*MS*-806, *TS*-758, *RV*-2095, *TB*-429, *TK*-53, *AV*-649, *SB-M*-2493, *SB-K*-2328, *VS-M*-183, *VS-K*-160)
+- विद्म᳓ (*MS*-6/13, *TS*-7/10, *RV*-30/36, *TB*-0/2, *AV*-24, *SB-M*-3/7, *SB-K*-0/4, *VS-M*-5, *VS-K*-4)
+- स᳓र्वा (*MS*-6/419, *TS*-7/287, *RV*-9/68, *TB*-1/159, *TK*-72/114, *AV*-19/444, *SB-M*-19/2265, *SB-K*-13/2224, *VS-M*-4/55, *VS-K*-3/43)
+- ताः᳓ (*MS*-302/5550, *TS*-136/4761, *RV*-70/3136, *TB*-75/2709, *TK*-54/363, *AV*-100/3165, *SB-M*-692/20457, *SB-K*-661/20018, *VS-M*-20/780, *VS-K*-17/660)
+- वि᳓ (*MS*-527, *TS*-379, *RV*-952, *TB*-188, *TK*-7, *AV*-458, *SB-M*-591, *SB-K*-637, *VS-M*-142, *VS-K*-127)
+- स्य᳓ (*MS*-2, *TS*-3, *RV*-1, *TB*-1, *AV*-1, *SB-M*-3, *SB-K*-2, *VS-M*-4, *VS-K*-5)
+- शिथिरे᳓ (*MS*-5/12, *TS*-1, *RV*-1, *AV*-0/1)
+- अ᳓व (*Whitney*, *MS*-474, *TS*-497, *RV*-217, *TB*-363, *TK*-2, *AV*-114, *SB-M*-594, *SB-K*-561, *VS-M*-42, *VS-K*-39)
+- देवाः᳓ (*MS*-453/1216, *TS*-376/1023, *RV*-238/1342, *TB*-202/582, *TK*-12/32, *AV*-283/707, *SB-M*-1032/2031, *SB-K*-984/1945, *VS-M*-108/528, *VS-K*-101/523)
+- अ᳓धा (*MS*-9, *TS*-1, *RV*-1, *TB*-1, *TK*-1, *SB-M*-4, *SB-K*-5, *VS-K*-4)
+- ते (अनुदात्तम्, पा॰ ८.१.१८, *MS*-668, *TS*-541, *RV*-1280, *TB*-214, *TK*-37, *AV*-1022, *SB-M*-649, *SB-K*-719, *VS-M*-391, *VS-K*-307)
+- स्याम (तिङन्तम् अनुदात्तम्, पा॰ ८.१.२८, *MS*-30, *TS*-28, *RV*-113, *TB*-9, *TK*-5, *AV*-47, *SB-M*-17, *SB-K*-13, *VS-M*-21, *VS-K*-18)
+- व᳓रुण (*Whitney*, *MS*-3/4, *TS*-1, *RV*-15/18, *TB*-1/3, *TK*-1, *AV*-1, *SB-M*-3/4, *SB-K*-4/5, *VS-M*-3/4, *VS-K*-4/5)
+- प्रिया᳓सः (*MS*-3/135, *TS*-2/92, *RV*-9/213, *TB*-0/83, *TK*-0/1, *AV*-3/90, *SB-M*-0/134, *SB-K*-0/141, *VS-M*-1/60, *VS-K*-1/47)
+</details>
+
+<details><summary>Hellwig Grammar</summary>
+
+-   *kitavāso* ← *kitavāsaḥ* ← *kitava*
+- \[noun\], nominative, plural, masculine
+- “gambler; deceiver; thorn apple; kitava \[word\].”
+
+_________
+
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+
+_________
+
+- *riripur* ← *riripuḥ* ← *rip*
+- \[verb\], plural, Perfect indicative
+
+_________
+
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+
+_________
+
+- *dīvi* ← *dīv*
+- \[noun\], locative, singular, feminine
+- “gambling.”
+
+_________
+
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+
+_________
+
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+
+_________
+
+- *ghā* ← *gha*
+- \[adverb\]
+
+_________
+
+- *satyam* ← *satya*
+- \[noun\], accusative, singular, neuter
+- “true; real; real; faithful; good.”
+
+_________
+
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+
+_________
+
+- *yan* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+
+_________
+
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+
+_________
+
+- *vidma* ← *vid*
+- \[verb\], plural, Perfect indicative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+
+_________
+
+- *sarvā* ← *sarva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+
+_________
+
+- *tā* ← *tad*
+- \[noun\], accusative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+
+_________
+
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+
+_________
+
+- *ṣya* ← *sya* ← *sā*
+- \[verb\], singular, Present imperative
+- “tie.”
+
+_________
+
+- *śithireva* ← *śithirā* ← *śithira*
+- \[noun\], accusative, plural, neuter
+- “flexible; flexible.”
+
+_________
+
+- *śithireva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+
+_________
+
+- *devādhā* ← *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+
+_________
+
+- *devādhā* ← *adhā* ← *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+
+_________
+
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+
+_________
+
+- *syāma* ← *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+
+_________
+
+- *varuṇa*
+- \[noun\], vocative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+
+_________
+
+- *priyāsaḥ* ← *priya*
+- \[noun\], nominative, plural, masculine
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+
+_________
+</details>
+
+<details><summary>रङ्गनाथः</summary>
+
+दिवि- देवने। कितवासः- अक्षकितवाः। रिरिपुः- लेपयन्ति। न- तद्वत्। यत्-  यत्पापमस्मास्वारोपितम्। यत्। सत्यम्- ज्ञातम्। यत्। न। विुद्म- जानीमः। सर्वा- सर्वाणि।  ता- तानि। शिथिरेव- शिथिलानीव। वि स्य- विमोचय। देव। अध- अथ। वरुण। ते- तव।  प्रियासः- प्रियाः। स्याम- भवेम॥८॥
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**कितवासः** कितवा द्यूतकृतः "किन् तवास्ति? सर्वं मया जितम्" इति वदतीति **कितवः**,  
+**न दीवि** न देवने द्यूते यथा  
+**यद् रिरिपुः** लेपयन्ति - पापम् आरोपयन्ति - **यद्** अस्मासु द्वेष्टारो मयि त्वम् एतत् पापम् अकरोर् इत्य् आक्षिपन्ति,  
+अत्र पुरस्ताद् उपचारो ऽपि **न**-कार उपमार्थीयः  
+**वा** अथवा घेति पूरणः **यत्** पापं **सत्यं** आरोपम् अन्तरेण कृतवन्तः स्म  
+**उत** अपिच **यत्** कृतं पापं **न विद्म** न जानीमः  
+**ताः** तानि **सर्वा** सर्वाणि **शिथिरेव** शिथिलानीव शिथिल-बन्धनानि फलानीव **विष्य** मोचय (स्यतिर् उपसृष्टो विमोचने)  
+हे **देव अथ** अनन्तरं **ते** तव **प्रियासः** प्रियाः **स्याम** भवेम ॥ ८ ॥
+</details>
+
+<details><summary>भट्टभास्कर-टीका</summary>
+
+हे देव वरुण कितवासः स्वार्थसाधनतत्पराः कितवेति प्रवर्तमाना ऋत्विजः यत् येन रिरिपुः नाशितवन्तोस्मान्न दीवि न तु देवने सम्यग्व्यवसिताः प्रवर्तन्ते । दिवेरौणादिकेऽसिचि छान्दसं दीर्घत्वम् । 'ऊडिदम्' इति सप्तम्युदात्ता । यद्वा - यच्च सत्यं बुद्धिपूर्वमेव कृतं पापमश्रद्धादिना । 'घ' इति पादपूरणः, प्रसिद्धौ वा । 'ऋचि मनु' इत्यादिना संहितायां दीर्घत्वम् । उत अपि च यत् न विद्म कृतमपि न जानीमः सौकर्म्यात् । सर्वा ता सर्वाणि तानि तस्माद्दुश्चरितानि । 'शेश्छन्दसि' इति लोपः । विष्य विमुक्तबन्धनानि कुरु क्षमस्वेति यावत् । 'उपसर्गात्सुनोति' इत्यादिना स्यतेष्षत्वम् । शिथिरा शिथिलानीव सुमोचनानीव विमुञ्च । कपिलकादित्वाल्लत्वविकल्पः । अथानन्तरं विमुक्तैनसो वयं तव प्रियासः इष्टास्स्याम भवेम । 'आज्जसेरसुक्', 'निपातस्य च' इति संहितायां अथशब्दस्य दीर्घत्वम् ॥
+
+इति भट्टभास्करमिश्रविरचिते यजुर्वेदभाष्ये ज्ञानयज्ञाख्ये तृतीयकाण्डे चतुर्थप्रपाठके एकादशोनुवाकः ॥
+समाप्तश्च प्रपाठकः ॥
+</details>
+
+<details><summary>Schroeder - टिप्पणी</summary>
+
+- **[367_2]** So corr. Ch तोवि; cf. RV 5, 85, 8. (Thus emended; Ch reads तोवि; cf. RV 5, 85, 8)
+
+- **[367_3]** So corr. Ch विध्य; cf. RV 5, 85, 8. (Thus emended; Ch reads विध्य; cf. RV 5, 85, 8)
+
+- **[367_4]** So corr. Ch देवधा (Thus emended; Ch reads देवधा)
+</details>
+
+<details><summary>Wilson</summary>
+
+_________
+**English translation:**  
+
+“If, like gamesters, who cheat at plural y, (we commit offences) knowingly, or (those) of which we know not, do you divine **Varuṇa**, extricate us from them all, as if from loosened (bonds), so that we may be dear, Varuṇa, to you.”
+</details>
+
+<details><summary>Jamison Brereton</summary>
+
+If (we have cheated) as gamblers cheat in a dice game, whether overtly or  whether we are unaware,  
+unbind all these things (so they will be) like loose things, o god. Then  would we be dear to you, Varuṇa.
+</details>
+
+<details><summary>Griffith</summary>
+
+If we, as gamesters cheat at play, have cheated, done wrong unwittingly or sinned of purpose,  
+     Cast all these sins away like loosened fetters, and, Varuna let us be thine own beloved.
+</details>
+
+<details><summary>Keith</summary>
+
+As gamesters cheat in dicing,  
+What we know in truth or what we know not,  
+All that do thou, O god, loosen as it were,  
+And may we be dear to thee, O Varuna.
+</details>
+
+<details><summary>Gemini 3.8 Flash</summary>
+
+or what is true, and what we do not know,  
+all those do you loosen like slack bonds, O god; then may we be dear to you, O Varuṇa!
+</details>
+
+<details><summary>Geldner</summary>
+
+Wenn wir wie Spieler bei dem Spiele betrogen haben, ob wir es gewiß wissen, ob nicht, all das löse von uns wie lockere Bande, o Gott! So mögen wir deine Lieblinge sein, o Varuna.
+</details>
+
+<details><summary>Grassmann</summary>
+
+Wenn wir getäuscht beim Spiel wie falsche Spieler, wenn wir gefehlt, unwissend oder wissend, Was uns verstrickt, das alles löse du uns, Gott Varuna, und wieder sei'n wir lieb dir.
+</details>
+
+<details><summary>Elizarenkova</summary>
+
+Если мы обманули, как игроки в игре,  
+Будь то сознательно, или если мы не знали,  
+Всё это развяжи, о бог, (чтобы стало это) словно незатянутым!  
+Пусть станем мы милыми тебе, о Варуна!
+</details>
+
+<details><summary>अधिमन्त्रम् (VC)</summary>
+
+- वरुणः
+- अत्रिः
+- निचृत्त्रिष्टुप्
+- धैवतः
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+कौन से मनुष्य सत्कार और कौन तिरस्कार करने योग्य हैं, इस विषय को कहते हैं ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  हे (वरुण) श्रेष्ठ (देव) विद्वन् ! (यत्) जो (कितवासः) जुआ करनेवाले (दीवि) जुआरूप कर्म्म में (न) नहीं (रिरिपुः) आरोपित करते हैं (वा) अथवा (यत्) जिस (सत्यम्) श्रेष्ठों में श्रेष्ठ को (उत) तर्क वितर्क से (न) न (विद्म) जानें और (यत्) जिसे (घा) ही नहीं जानें (ता) उन (सर्वा) सम्पूर्णों को (शिथिरेव) जैसे शिथिल वैसे आप (वि, स्य) अन्त करिये जिससे (अधा) इसके अनन्तर हम लोग (ते) आपके (प्रियासः) प्रसन्न प्यारे (स्याम) होवें ॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्यो ! जो छली मनुष्य जुआ आदि कर्म्म करें, वे ताड़ना करने योग्य और जो सत्य आचरण करें, वे सत्कार करने योग्य हैं ॥८॥ इस सूक्त में राजा, ईश्वर, मेघ और विद्वान् के गुण कर्म वर्णन करने से इस सूक्त के अर्थ की इस से पूर्व सूक्त के अर्थ के साथ सङ्गति जाननी चाहिये ॥ यह पच्चासीवाँ सूक्त और एकतीसवाँ वर्ग समाप्त हुआ ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - अन्वयः</summary>
+
+अन्वय:  हे वरुण देव ! यद्ये कितवासो दीवि न रिरिपुर्यद्वा सत्यमुत न विद्म यद् घा न विद्म ता सर्वा शिथिरेव त्वं विष्य यतोऽधा वयं ते प्रियासः स्याम ॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - विषयः</summary>
+
+के मनुष्याः सत्कर्त्तव्यास्तिरस्करणीयाश्चेत्याह ॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - पदार्थः</summary>
+
+पदार्थान्वयभाषाः -  (कितवासः) द्यूतकाराः (यत्) ये (रिरिपुः) आरोपयन्ति (न) निषेधे (दीवि) द्यूतकर्म्मणि (यत्) (वा) (घा) एव। अत्र ऋचि तुनुघेति दीर्घः। (सत्यम्) सत्सु साधुम् (उत) (यत्) (न) (विद्म) (सर्वा) सर्वाणि (ता) तानि (वि) (स्य) अन्तं कुरु (शिथिरेव) यथा शिथिलाः (देव) विद्वन् (अधा) अत्र निपातस्य चेति दीर्घः। (ते) तव (स्याम) (वरुण) (प्रियासः) प्रसन्नाः ॥८॥
+</details>
+
+<details><summary>दयानन्द-सरस्वती (हि) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे मनुष्या ! ये छलिनो मनुष्या द्यूतादिकर्म्म कुर्य्युस्ते ताडनीया ये च सत्यमाचरणं कुर्य्युस्ते सत्कर्त्तव्या इति ॥८॥ अत्र राजेश्वरमेघविद्वद्गुणकर्मवर्णनादेतदर्थस्य पूर्वसूक्तार्थेन सह सङ्गतिर्वेद्या ॥ इति पञ्चाशीतितमं सूक्तमेकत्रिंशो वर्गश्च समाप्तः ॥
+</details>
+
+<details><summary>सविता जोशी ← दयानन्द-सरस्वती (म) - भावार्थः</summary>
+
+भावार्थभाषाः -  हे माणसांनो! छळ कपट करणाऱ्या माणसांनी द्युत वगैरे कर्म केल्यास ती ताडना करण्यायोग्य असतात व जी सत्याचरण करतात ती सत्कार करण्यायोग्य असतात. ॥ ८ ॥
+</details>
